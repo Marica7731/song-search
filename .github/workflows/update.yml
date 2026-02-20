@@ -2,10 +2,9 @@ name: Auto Update Song List
 
 on:
   schedule:
-    - cron: '0 * * * *' # 每小时执行
-  workflow_dispatch: # 保留手动触发
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
-# 全局权限声明
 permissions:
   contents: write
 
@@ -13,24 +12,39 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: 拉取仓库代码
+      # 1. 拉取完整仓库代码（包含所有历史）
+      - name: Checkout full repo
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0  # 拉取全部历史，避免浅克隆冲突
+          ref: main
 
-      - name: 配置Node.js环境
+      # 2. 强制拉取远程最新代码（覆盖本地所有差异）
+      - name: Force pull latest code
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
+          git clean -fd
+
+      # 3. 配置Node环境
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
-      - name: 运行歌单更新脚本
+      # 4. 运行脚本生成新文件
+      - name: Run update script
         run: node scripts/update-songs.js
 
-      - name: 提交并推送更新（零冲突方案）
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          directory: data # 只提交data文件夹的内容，避免其他文件冲突
-          force: false
-          message: "🤖 自动更新歌单数据"
+      # 5. 强制推送（仅推送data文件夹）
+      - name: Force push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Bot"
+          git add data/
+          # 只有文件变化才提交，避免空提交
+          if ! git diff --quiet --staged; then
+            git commit -m "🤖 自动更新歌单数据"
+            git push origin main --force  # 强制推送（仅这一次，解决冲突后可改回普通推送）
+          fi
