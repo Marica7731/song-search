@@ -29,7 +29,7 @@ jobs:
       # 4. 提交并推送（用PAT，无冲突）
       - name: Commit and Push with PAT
         run: |
-          git config --local user.email "your-github-email@xxx.com"  # 替换成你的GitHub绑定邮箱
+          git config --local user.email "CCEutopia@outlook.com"  # 替换成你的GitHub绑定邮箱
           git config --local user.name "Marica7731"  # 替换成你的GitHub用户名
           git add data/
           # 只有文件变化才提交
