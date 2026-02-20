@@ -18,30 +18,28 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
-      - name: 配置Node.js环境
+      - name: 配置Node.js环境（移除缓存，避免lock文件错误）
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
-          cache: 'npm'
+          node-version: '20' # 仅指定Node版本，去掉cache配置
 
       - name: 安装系统依赖（Chrome运行必备）
         run: |
           sudo apt-get update
           sudo apt-get install -y libnss3 libatk-bridge2.0-0 libdrm-dev libxkbcommon-dev libgbm-dev libasound-dev libatspi2.0-0 libxshmfence-dev
 
-      - name: 安装Puppeteer（国内镜像加速）
+      - name: 安装Puppeteer（直接全局安装，无需初始化package.json）
         run: |
-          cd scripts
-          npm init -y --force
+          # 全局安装puppeteer，避免scripts目录缺少package.json的问题
           npm config set puppeteer_download_host=https://npmmirror.com/mirrors
-          npm install puppeteer@21.0.0 --save-exact
+          npm install -g puppeteer@21.0.0
+          # 手动指定Chrome路径（全局安装后的路径）
+          echo "PUPPETEER_EXECUTABLE_PATH=$(npm root -g)/puppeteer/.local-chromium/linux-*/chrome-linux/chrome" >> $GITHUB_ENV
 
       - name: 执行更新脚本
         run: |
           cd scripts
           node update-songs.js
-        env:
-          PUPPETEER_EXECUTABLE_PATH: ./node_modules/puppeteer/.local-chromium/linux-*/chrome-linux/chrome
 
       - name: 检查数据更新
         id: check_changes
