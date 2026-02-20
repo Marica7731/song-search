@@ -28,14 +28,14 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y libnss3 libatk-bridge2.0-0 libdrm-dev libxkbcommon-dev libgbm-dev libasound-dev libatspi2.0-0 libxshmfence-dev
 
-      - name: 安装Puppeteer（用环境变量设置下载源）
+      - name: 安装Puppeteer（跳过Chrome下载）
         run: |
-          # 用环境变量设置国内镜像，而非npm config
-          export PUPPETEER_DOWNLOAD_HOST=https://npmmirror.com/mirrors
-          # 全局安装puppeteer
+          # 跳过Chrome下载，直接使用系统自带的Chrome
+          export PUPPETEER_SKIP_DOWNLOAD=true
+          # 全局安装Puppeteer
           npm install -g puppeteer@21.0.0
-          # 自动获取Chrome路径并写入环境变量
-          echo "PUPPETEER_EXECUTABLE_PATH=$(find $(npm root -g)/puppeteer -name chrome -type f | head -1)" >> $GITHUB_ENV
+          # 告诉脚本使用GitHub Actions自带的Chrome路径
+          echo "PUPPETEER_EXECUTABLE_PATH=/usr/bin/google-chrome" >> $GITHUB_ENV
 
       - name: 执行更新脚本
         run: |
