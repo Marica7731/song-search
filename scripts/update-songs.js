@@ -7,13 +7,13 @@ const puppeteer = require('puppeteer'); // 模拟真实浏览器
 const DELAY_TIME = 1500;
 const BILI_VIDEO_PREFIX = 'https://www.bilibili.com/video/';
 const BV_REGEX = /BV\w+/;
-
-// 选择器（和油猴脚本完全一致）
+// 选择器（和油猴脚本完全一致，核心！）
+>>>>>>> d51427f3cf6ad88c9f18d7159bbc095e9fe065de
 const PLAYLIST_SELECTORS = ['.video-pod__list .pod-item'];
 const PART_TITLE_SELECTOR = '.page-list .page-item.sub .title-txt';
 const COLLECTION_TITLE_SELECTOR = '.head .title-txt';
 
-// ================= 2. 歌手配置 =================
+// ================= 2. 歌手配置（填BV号即可） =================
 const SINGER_CONFIGS = [
     { bvid: "BV1G6fLB7Efr", file: "naraetan", alias: "なれたん Naraetan" },
     { bvid: "BV1HRfuBCEXN", file: "figaro", alias: "Figaro" },
@@ -42,6 +42,29 @@ async function loadVideoPageWithBrowser(bvid) {
             '--disable-blink-features=AutomationControlled', // 避免被B站识别为爬虫
             '--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36'
         ]
+    return new Promise((resolve, reject) => {
+        const options = {
+            headers: {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+                'Referer': 'https://www.bilibili.com/',
+                'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+                'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
+                'Cache-Control': 'max-age=0',
+                'Sec-Fetch-Dest': 'document',
+                'Sec-Fetch-Mode': 'navigate',
+                'Sec-Fetch-Site': 'none',
+                'Sec-Fetch-User': '?1',
+                'Upgrade-Insecure-Requests': '1'
+            }
+        };
+
+        https.get(url, options, (res) => {
+            let html = '';
+            res.setEncoding('utf-8');
+            res.on('data', chunk => html += chunk);
+            res.on('end', () => resolve(html));
+            res.on('error', err => reject(`页面下载失败: ${err.message}`));
+        }).on('error', err => reject(`请求失败: ${err.message}`));
     });
 
     try {
@@ -54,6 +77,54 @@ async function loadVideoPageWithBrowser(bvid) {
         // 禁用自动化提示，避免被检测
         await page.evaluateOnNewDocument(() => {
             delete window.navigator.webdriver;
+// ================= 4. 核心：1:1 复刻油猴的 getRawData 函数 =================
+function getRawData($, bvid) {
+    let containers = [];
+    // 遍历油猴的PLAYLIST_SELECTORS，找到第一个有内容的容器
+    for (const sel of PLAYLIST_SELECTORS) {
+        containers = $(sel);
+        if (containers.length > 0) break;
+    }
+
+    if (containers.length === 0) {
+        console.log('  ❌ 未检测到分P容器（和油猴提示一致）');
+        return null;
+    }
+
+    // 复刻油猴的容器遍历逻辑
+    const result = [];
+    containers.each((idx, container) => {
+        const $container = $(container);
+
+        // 提取合集标题（和油猴一致）
+        const colTitleNode = $container.find(COLLECTION_TITLE_SELECTOR);
+        let colTitle = colTitleNode?.text()?.trim() || `合集${idx+1}`;
+
+        // 提取UP主（完全复刻油猴的正则+备选逻辑）
+        let upName = "未知UP主";
+        const upMatch = colTitle.match(/\[([^\]]+?\s*Ch\.[^\]]+)\]/);
+        if (upMatch) {
+            upName = upMatch[1];
+        } else {
+            const upEle = $('.up-name'); // 油猴里的备选选择器
+            if (upEle.length > 0) upName = upEle.text().trim();
+        }
+
+        // 提取分P标题（和油猴一致）
+        const partNodes = $container.find(PART_TITLE_SELECTOR);
+        const parts = [];
+        partNodes.each((_, node) => {
+            parts.push($(node).text().trim());
+        });
+
+        // 提取合集BV号（和油猴的dataset.key逻辑一致）
+        const collectionBv = $container.attr('data-key')?.match(BV_REGEX)?.[0] || bvid;
+
+        result.push({
+            collectionBv: collectionBv,
+            collectionTitle: colTitle,
+            up: upName,
+            parts: parts
         });
 
         // 加载页面（等待所有JS执行、DOM渲染完成）
@@ -117,6 +188,7 @@ async function loadVideoPageWithBrowser(bvid) {
         await browser.close();
         throw new Error(`浏览器加载失败: ${err.message}`);
     }
+    return result;
 }
 
 // ================= 4. 处理单个歌手 =================
@@ -148,6 +220,31 @@ async function processSinger(config) {
                     songTitle = cleanTitle;
                 }
 
+        // 步骤2：加载DOM，复刻油猴的解析逻辑
+        const $ = cheerio.load(html);
+        const rawData = getRawData($, bvid);
+        if (!rawData || rawData.length === 0) {
+            console.log(`  ⚠️  未解析到任何分P数据（检查BV号是否正确）`);
+            return false;
+        }
+
+        // 步骤3：转换为歌单格式（和之前一致）
+        let songs = [];
+        rawData.forEach(col => {
+            col.parts.forEach((p, i) => {
+                // 歌名解析（和油猴/转换器逻辑一致）
+                let artist = col.up;
+                let songTitle = p;
+                
+                let cleanTitle = p.replace(/^\d+\.\s*/, '').replace(/^P\d+[：:]\s*/, '');
+                if (cleanTitle.includes(' - ')) {
+                    const parts = cleanTitle.split(' - ');
+                    songTitle = parts[0].trim();
+                    artist = parts[parts.length - 1].trim() || artist;
+                } else {
+                    songTitle = cleanTitle;
+                }
+
                 songs.push({
                     title: songTitle,
                     artist: artist,
@@ -161,6 +258,9 @@ async function processSinger(config) {
         // 步骤3：生成JS文件
         const outputPath = path.join(DATA_DIR, `${file}.js`);
         let outputContent = `// ${alias} - 歌单数据（浏览器渲染版）\n`;
+        // 步骤4：生成JS文件（覆盖模式）
+        const outputPath = path.join(DATA_DIR, `${file}.js`);
+        let outputContent = `// ${alias} - 歌单数据（油猴逻辑复刻版）\n`;
         outputContent += `// 来源: ${BILI_VIDEO_URL(bvid)}\n`;
         outputContent += `// 生成时间: ${new Date().toLocaleString()}\n\n`;
         outputContent += `window.SONG_DATA = window.SONG_DATA || [];\n\n`;
@@ -187,7 +287,7 @@ async function processSinger(config) {
 // ================= 5. 主程序 =================
 async function main() {
     console.log("========================================");
-    console.log("   🚀 B站分P解析（浏览器渲染版）启动");
+    console.log("   🚀 B站分P解析（油猴逻辑复刻）启动");
     console.log("========================================");
     
     if (!fs.existsSync(DATA_DIR)) {
@@ -200,6 +300,7 @@ async function main() {
         if (ok) successCount++;
         // 避免频繁请求被封
         await new Promise(resolve => setTimeout(resolve, 2000));
+        await new Promise(r => setTimeout(r, DELAY_TIME)); // 和油猴的延迟一致
     }
 
     console.log("\n========================================");
@@ -207,4 +308,6 @@ async function main() {
     console.log("========================================");
 }
 
+<<<<<<< HEAD
+main().catch(err => console.error("全局错误:", err.message));
 main().catch(err => console.error("全局错误:", err.message));
