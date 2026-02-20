@@ -5,7 +5,7 @@ on:
     - cron: '0 * * * *' # 每小时执行
   workflow_dispatch: # 保留手动触发
 
-# 全局写入权限声明
+# 全局权限声明
 permissions:
   contents: write
 
@@ -13,28 +13,24 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: 拉取仓库代码
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          fetch-depth: 0 # 关键修复：拉取完整Git历史，避免浅克隆导致的同步问题
 
-      - name: Setup Node.js
+      - name: 配置Node.js环境
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
-      - name: Run Update Script
+      - name: 运行歌单更新脚本
         run: node scripts/update-songs.js
 
-      - name: Commit and Push Changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Auto Bot"
-          git add data/
-          
-          # 关键修复1：先拉取远程最新代码，自动合并差异
-          git pull origin main --rebase
-          
-          # 关键修复2：只有文件发生变化才提交，避免空提交
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 自动更新歌单数据" && git push origin main --force-with-lease)
+      - name: 提交并推送更新（零冲突方案）
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          directory: data # 只提交data文件夹的内容，避免其他文件冲突
+          force: false
+          message: "🤖 自动更新歌单数据"
