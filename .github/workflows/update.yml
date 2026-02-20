@@ -2,11 +2,11 @@ name: Auto Update Song List
 
 on:
   schedule:
-    - cron: '0 * * * *' # 每小时执行
+    - cron: '0 * * * *' # 每小时执行（可调整，比如0 0 * * * 每天凌晨）
   workflow_dispatch: # 手动触发
 
 permissions:
-  contents: write
+  contents: write # 赋予提交代码的权限
 
 jobs:
   update:
@@ -16,26 +16,51 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          fetch-depth: 0
+          fetch-depth: 0 # 拉取完整历史，避免提交冲突
 
       - name: 配置Node.js环境
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '20' # 用LTS版本，避免兼容性问题
+          cache: 'npm' # 缓存npm依赖，加速安装
 
-      - name: 安装依赖并运行脚本
+      - name: 安装系统依赖（关键：补齐Ubuntu缺失的Chrome依赖）
         run: |
-          # 进入scripts目录
-          cd scripts
-          # 初始化npm（静默模式）+ 安装cheerio
-          npm init -y --silent && npm install cheerio --silent
-          # 运行更新脚本
-          node update-songs.js
+          sudo apt-get update
+          sudo apt-get install -y libnss3 libatk-bridge2.0-0 libdrm-dev libxkbcommon-dev libgbm-dev libasound-dev libatspi2.0-0 libxshmfence-dev
 
-      - name: 提交并推送更新
-        uses: ad-m/github-push-action@master
+      - name: 安装Puppeteer依赖（优化：指定国内镜像）
+        run: |
+          cd scripts
+          # 初始化package.json（避免手动创建的语法问题）
+          npm init -y --force
+          # 国内镜像加速Chrome下载（关键！避免GitHub服务器下载失败）
+          npm config set puppeteer_download_host=https://npmmirror.com/mirrors
+          # 安装Puppeteer并自动下载Chrome
+          npm install puppeteer@21.0.0 --save-exact # 指定稳定版本，避免版本兼容问题
+
+      - name: 执行更新脚本（捕获错误，输出日志）
+        run: |
+          cd scripts
+          node update-songs.js
+        env:
+          # 增加环境变量，确保Puppeteer使用下载的Chrome
+          PUPPETEER_EXECUTABLE_PATH: ./node_modules/puppeteer/.local-chromium/linux-*/chrome-linux/chrome
+
+      - name: 检查是否有数据更新
+        id: check_changes
+        run: |
+          # 判断data目录是否有文件变化
+          if git status --porcelain | grep -q 'data/'; then
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: 提交并推送更新（仅当有变化时）
+        if: steps.check_changes.outputs.has_changes == 'true'
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "🤖 自动更新歌单数据（GitHub Actions）"
+          file_pattern: "data/*.js data/index.json" # 只提交数据文件
           branch: main
-          directory: data
-          message: "🤖 自动更新歌单数据（视频页DOM解析）"
