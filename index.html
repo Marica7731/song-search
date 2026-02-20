@@ -243,6 +243,7 @@
         let currentPage = 1;
         let activeSource = 'all'; // 当前选中的来源（all=全部）
         const fileNames = []; // 存储index.json中的文件名称
+        let FILE_TO_ALIAS = {}; // 存储file→alias映射（自动加载）
 
         // 1. 加载单个JS数据文件（新增：为每条数据标记来源）
         function loadScript(url, fileName) {
@@ -263,7 +264,7 @@
             });
         }
 
-        // 2. 生成来源筛选按钮（新增）
+        // 2. 生成来源筛选按钮（优化：显示alias）
         function generateFilterButtons() {
             const filterBar = document.getElementById('filter-bar');
             // 清空原有按钮
@@ -276,12 +277,13 @@
             allBtn.onclick = () => switchSource('all');
             filterBar.appendChild(allBtn);
 
-            // 为每个文件生成筛选按钮
+            // 为每个文件生成筛选按钮（显示alias，用file筛选）
             fileNames.forEach(fileName => {
-                const btnName = fileName.replace('.js', ''); // 去掉.js后缀
+                const fileBase = fileName.replace('.js', '');
+                const btnText = FILE_TO_ALIAS[fileBase] || fileBase; // 优先显示alias
                 const btn = document.createElement('button');
                 btn.className = `filter-btn ${activeSource === fileName ? 'active' : ''}`;
-                btn.textContent = btnName;
+                btn.textContent = btnText;
                 btn.onclick = () => switchSource(fileName);
                 filterBar.appendChild(btn);
             });
@@ -298,7 +300,7 @@
             filterBar.appendChild(clearBtn);
         }
 
-        // 3. 切换来源筛选（新增）
+        // 3. 切换来源筛选（优化：匹配alias显示）
         function switchSource(source) {
             activeSource = source;
             currentPage = 1; // 切换筛选后重置到第一页
@@ -306,8 +308,13 @@
             document.querySelectorAll('.filter-btn').forEach(btn => {
                 if (btn.textContent === '全部' && source === 'all') {
                     btn.classList.add('active');
-                } else if (btn.textContent === source.replace('.js', '')) {
-                    btn.classList.add('active');
+                } else if (source !== 'all') {
+                    const fileBase = source.replace('.js', '');
+                    if (btn.textContent === (FILE_TO_ALIAS[fileBase] || fileBase)) {
+                        btn.classList.add('active');
+                    } else {
+                        btn.classList.remove('active');
+                    }
                 } else {
                     btn.classList.remove('active');
                 }
@@ -351,7 +358,7 @@
             statsMsg.textContent = `总歌曲数：${originalData.length} | 筛选后：${filteredBySource.length} | 搜索结果：${filteredBySearch.length}`;
         }
 
-        // 6. 渲染歌曲列表（优化：显示来源）
+        // 6. 渲染歌曲列表（优化：显示alias来源）
         function renderSongList(data) {
             const songListEl = document.getElementById('song-list');
             songListEl.innerHTML = ''; // 清空原有内容
@@ -367,6 +374,10 @@
             } else {
                 document.getElementById('empty-msg').style.display = 'none';
                 pageData.forEach(item => {
+                    // 来源显示alias
+                    const sourceBase = item.source?.replace('.js', '');
+                    const sourceAlias = FILE_TO_ALIAS[sourceBase] || item.source || '未知';
+                    
                     const li = document.createElement('li');
                     li.className = 'song-item';
                     li.innerHTML = `
@@ -377,7 +388,7 @@
                                 合集：${item.collection || '未知'} / 
                                 UP主：${item.up || '未知'}
                             </div>
-                            <div class="song-source">来源：${item.source || '未知'}</div>
+                            <div class="song-source">来源：${sourceAlias}</div>
                         </div>
                         <div class="song-link">
                             <a href="${item.link || '#'}" target="_blank">直达B站</a>
@@ -472,11 +483,12 @@
         // 9. 主流程：加载数据→初始化
         async function bootstrap() {
             try {
-                // 加载index.json
+                // 加载index.json（含file→alias映射）
                 const res = await fetch('data/index.json');
                 if (!res.ok) throw new Error(`加载索引失败（状态码：${res.status}）`);
                 const config = await res.json();
                 fileNames.push(...(config.files || [])); // 存储文件名称
+                FILE_TO_ALIAS = config.fileToAlias || {}; // 加载alias映射
 
                 if (fileNames.length === 0) throw new Error('index.json中无数据文件配置');
 
