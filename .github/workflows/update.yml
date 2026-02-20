@@ -2,42 +2,40 @@ name: Auto Update Song List
 
 on:
   schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
+    - cron: '0 * * * *' # 每小时执行
+  workflow_dispatch: # 手动触发
+
+permissions:
+  contents: write
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      # 1. 彻底清空运行环境，重新克隆仓库（用PAT）
-      - name: Clean and Clone Repo
-        run: |
-          rm -rf *
-          git clone https://${{ secrets.PAT_TOKEN }}@github.com/Marica7731/song-search.git .
-          git checkout main
+      - name: 拉取仓库代码
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
 
-      # 2. 配置Node环境
-      - name: Setup Node.js
+      - name: 配置Node.js环境
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
-      # 3. 运行脚本生成新文件
-      # 其他部分不变，只改这一步
-- name: Run Update Script
-  run: |
-    cd scripts
-    npm init -y && npm install cheerio # 安装cheerio依赖
-    node update-songs.js
-
-      # 4. 提交并推送（用PAT，无冲突）
-      - name: Commit and Push with PAT
+      - name: 安装依赖并运行脚本
         run: |
-          git config --local user.email "CCEutopia@outlook.com"  # 替换成你的GitHub绑定邮箱
-          git config --local user.name "Marica7731"  # 替换成你的GitHub用户名
-          git add data/
-          # 只有文件变化才提交
-          if ! git diff --quiet --staged; then
-            git commit -m "🤖 自动更新歌单数据"
-            git push https://${{ secrets.PAT_TOKEN }}@github.com/Marica7731/song-search.git main
-          fi
+          # 进入scripts目录
+          cd scripts
+          # 初始化npm（静默模式）+ 安装cheerio
+          npm init -y --silent && npm install cheerio --silent
+          # 运行更新脚本
+          node update-songs.js
+
+      - name: 提交并推送更新
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          directory: data
+          message: "🤖 自动更新歌单数据（视频页DOM解析）"
