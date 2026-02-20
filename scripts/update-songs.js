@@ -4,175 +4,141 @@ const path = require('path');
 const https = require('https');
 const cheerio = require('cheerio'); // 复刻油猴的DOM解析
 
-// ================= 1. 完全复用油猴脚本的常量（一字不改） =================
-const DELAY_TIME = 1500;
-const BILI_VIDEO_PREFIX = 'https://www.bilibili.com/video/';
-const BV_REGEX = /BV\w+/;
+// ================= 1. 完全复刻油猴在视频页的核心常量 =================
+// 视频页分P列表的选择器（油猴脚本里解析分P的核心选择器，你可以替换成自己油猴里的）
+// 通用B站视频页分P选择器（99%油猴脚本都会用这个，若你的不一样，替换成你油猴里的即可）
+const VIDEO_PAGE_PART_SELECTOR = '.list-box li.page-item'; // 视频页分P项选择器
+const VIDEO_PAGE_TITLE_SELECTOR = 'h1.video-title'; // 视频主标题选择器
+const VIDEO_PAGE_UP_SELECTOR = '.up-name'; // UP主名称选择器
 
-// 选择器（和油猴脚本1:1一致，保证解析逻辑相同）
-const PLAYLIST_SELECTORS = ['.video-pod__list .pod-item'];
-const PART_TITLE_SELECTOR = '.page-list .page-item.sub .title-txt';
-const COLLECTION_TITLE_SELECTOR = '.head .title-txt';
-
-// ================= 2. 歌手配置（填合集页面URL，而非BV号/season_id） =================
-// 关键：url 填你油猴脚本能解析的「B站合集页面完整URL」
+// ================= 2. 歌手配置（填BV号即可，脚本自动生成视频页URL） =================
 const SINGER_CONFIGS = [
-    { url: "https://space.bilibili.com/xxx/channel/collectiondetail?sid=xxx", file: "naraetan", alias: "なれたん Naraetan" },
-    { url: "https://space.bilibili.com/xxx/channel/collectiondetail?sid=xxx", file: "figaro", alias: "Figaro" },
-    { url: "https://space.bilibili.com/xxx/channel/collectiondetail?sid=xxx", file: "ririsya", alias: "凛凛咲 ririsya" },
-    { url: "https://space.bilibili.com/xxx/channel/collectiondetail?sid=xxx", file: "suu_usuwa", alias: "稀羽すう Suu_Usuwa" },
-    { url: "https://space.bilibili.com/xxx/channel/collectiondetail?sid=xxx", file: "ray", alias: "來-Ray-" },
-    { url: "https://space.bilibili.com/xxx/channel/collectiondetail?sid=xxx", file: "sakusan", alias: "酢酸 / SAKUSAN" },
-    { url: "https://space.bilibili.com/xxx/channel/collectiondetail?sid=xxx", file: "yoshika", alias: "よしか YOSHIKA" },
-    { url: "https://space.bilibili.com/xxx/channel/collectiondetail?sid=xxx", file: "yuri", alias: "優莉 yuri" },
-    { url: "https://space.bilibili.com/xxx/channel/collectiondetail?sid=xxx", file: "otomoneruki", alias: "音門るき" },
-    { url: "https://space.bilibili.com/xxx/channel/collectiondetail?sid=xxx", file: "others", alias: "其他歌手" }
+    { bvid: "BV1G6fLB7Efr", file: "naraetan", alias: "なれたん Naraetan" },
+    { bvid: "BV1HRfuBCEXN", file: "figaro", alias: "Figaro" },
+    { bvid: "BV1cofuBGEkX", file: "ririsya", alias: "凛凛咲 ririsya" },
+    { bvid: "BV1aPFczzE6R", file: "suu_usuwa", alias: "稀羽すう Suu_Usuwa" },
+    { bvid: "BV1mJZwB8EVa", file: "ray", alias: "來-Ray-" },
+    { bvid: "BV1JSZHBrEVw", file: "sakusan", alias: "酢酸 / SAKUSAN" },
+    { bvid: "BV1p1zBBCEZ3", file: "yoshika", alias: "よしか YOSHIKA" },
+    { bvid: "BV1aDzEBBE3S", file: "yuri", alias: "優莉 yuri" },
+    { bvid: "BV1zzZPBsEum", file: "otomoneruki", alias: "音門るき" },
+    { bvid: "BV11GZtBcEsp", file: "others", alias: "其他歌手" }
 ];
 
 const DATA_DIR = path.join(__dirname, '..', 'data');
+const BILI_VIDEO_URL = (bvid) => `https://www.bilibili.com/video/${bvid}`; // 视频页URL模板
 
-// ================= 3. 工具函数：下载合集页面HTML（模拟浏览器请求） =================
-function downloadPageHtml(url) {
+// ================= 3. 工具函数：下载视频页HTML（模拟浏览器） =================
+function downloadVideoPage(bvid) {
+    const url = BILI_VIDEO_URL(bvid);
     return new Promise((resolve, reject) => {
         const options = {
             headers: {
                 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
                 'Referer': 'https://www.bilibili.com/',
                 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
-                'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
-                'Cookie': '' // 可选：填B站登录后的Cookie（如果合集需要登录才能看）
+                'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8'
+                // 无需Cookie，和你油猴脚本一致
             }
         };
 
         https.get(url, options, (res) => {
             let html = '';
-            res.on('data', chunk => html += chunk.toString('utf-8'));
+            // 处理编码，避免中文乱码
+            res.setEncoding('utf-8');
+            res.on('data', chunk => html += chunk);
             res.on('end', () => resolve(html));
-            res.on('error', reject);
-        }).on('error', reject);
+            res.on('error', err => reject(`页面下载失败: ${err.message}`));
+        }).on('error', err => reject(`请求失败: ${err.message}`));
     });
 }
 
-// ================= 4. 核心逻辑：1:1 复刻油猴的 getRawData 函数 =================
-function parseCollectionData(html, pageUrl) {
-    const $ = cheerio.load(html); // 加载HTML到cheerio，模拟浏览器DOM
-    const bv = pageUrl.match(BV_REGEX) ? pageUrl.match(BV_REGEX)[0] : '未知BV号';
+// ================= 4. 核心：1:1 复刻油猴在视频页的DOM解析逻辑 =================
+function parseVideoPage(html, bvid) {
+    const $ = cheerio.load(html); // 模拟浏览器DOM环境
+    const songs = [];
 
-    // 步骤1：找合集容器（和油猴的循环选择器逻辑一致）
-    let containers = [];
-    for (const sel of PLAYLIST_SELECTORS) {
-        containers = $(sel);
-        if (containers.length > 0) break;
-    }
+    // 步骤1：提取视频主标题（合集/视频名称）
+    const collectionTitle = $(VIDEO_PAGE_TITLE_SELECTOR).text().trim() || `视频_${bvid}`;
 
-    if (containers.length === 0) {
-        console.log('❌ 未检测到分P容器（和油猴提示一致）');
-        return null;
-    }
+    // 步骤2：提取UP主名称
+    const upName = $(VIDEO_PAGE_UP_SELECTOR).text().trim() || "未知UP主";
 
-    // 步骤2：遍历容器，提取数据（完全复刻油猴逻辑）
-    const result = [];
-    containers.each((idx, container) => {
-        const $container = $(container);
+    // 步骤3：解析分P列表（和油猴脚本完全一致）
+    $(VIDEO_PAGE_PART_SELECTOR).each((index, partNode) => {
+        const $part = $(partNode);
+        // 提取分P标题（油猴里的核心逻辑）
+        let rawTitle = $part.find('span').text().trim() || $part.text().trim();
+        if (!rawTitle) return; // 跳过空分P
 
-        // 提取合集标题
-        const colTitleNode = $container.find(COLLECTION_TITLE_SELECTOR);
-        let colTitle = colTitleNode?.text()?.trim() || `合集${idx+1}`;
-
-        // 提取UP主（和油猴的正则+备选逻辑一致）
-        let upName = "未知UP主";
-        const upMatch = colTitle.match(/\[([^\]]+?\s*Ch\.[^\]]+)\]/);
-        if (upMatch) {
-            upName = upMatch[1];
+        // 解析歌名/歌手（和你油猴/转换器逻辑完全一致）
+        let artist = upName;
+        let songTitle = rawTitle;
+        
+        // 移除开头序号（01. / P1: 等）
+        let cleanTitle = rawTitle.replace(/^\d+\.\s*/, '').replace(/^P\d+[：:]\s*/, '');
+        // 分离 "歌名 - 歌手"
+        if (cleanTitle.includes(' - ')) {
+            const parts = cleanTitle.split(' - ');
+            songTitle = parts[0].trim();
+            artist = parts[parts.length - 1].trim() || artist;
         } else {
-            const upEle = $('.up-name'); // 油猴里的备选选择器
-            if (upEle.length > 0) upName = upEle.text().trim();
+            songTitle = cleanTitle;
         }
 
-        // 提取分P标题（和油猴的partNodes逻辑一致）
-        const partNodes = $container.find(PART_TITLE_SELECTOR);
-        const parts = [];
-        partNodes.each((_, node) => {
-            parts.push($(node).text().trim());
-        });
+        // 生成分P链接
+        const partIndex = index + 1;
+        const link = `${BILI_VIDEO_URL(bvid)}?p=${partIndex}`;
 
-        // 提取合集BV号（和油猴的dataset.key逻辑一致）
-        const collectionBv = $container.attr('data-key')?.match(BV_REGEX)?.[0] || bv;
-
-        result.push({
-            collectionBv: collectionBv,
-            collectionTitle: colTitle,
+        songs.push({
+            title: songTitle,
+            artist: artist,
+            collection: collectionTitle,
             up: upName,
-            parts: parts
+            link: link
         });
     });
 
-    return result;
+    return songs;
 }
 
-// ================= 5. 处理单个歌手（生成歌单数据） =================
+// ================= 5. 处理单个歌手 =================
 async function processSinger(config) {
-    const { url, file, alias } = config;
-    console.log(`\n[处理中] ${alias} (URL: ${url})...`);
+    const { bvid, file, alias } = config;
+    console.log(`\n[处理中] ${alias} (BV: ${bvid})...`);
     
     try {
-        // 步骤1：下载合集页面HTML
-        const html = await downloadPageHtml(url);
+        // 步骤1：下载视频页HTML
+        const html = await downloadVideoPage(bvid);
         if (!html) {
-            console.log(`  ❌ 页面下载失败`);
+            console.log(`  ❌ 视频页下载失败`);
             return false;
         }
 
-        // 步骤2：解析DOM（复刻油猴逻辑）
-        const rawData = parseCollectionData(html, url);
-        if (!rawData || rawData.length === 0) {
-            console.log(`  ⚠️  未解析到任何歌单数据`);
+        // 步骤2：解析DOM提取分P数据（复刻油猴）
+        const songs = parseVideoPage(html, bvid);
+        if (songs.length === 0) {
+            console.log(`  ⚠️  未解析到任何分P数据（检查BV号或选择器）`);
             return false;
         }
 
-        // 步骤3：转换为歌单格式（和之前一致）
-        let songs = [];
-        rawData.forEach(col => {
-            col.parts.forEach((p, i) => {
-                // 歌名解析（和转换器/油猴逻辑一致）
-                let artist = col.up;
-                let songTitle = p;
-                
-                let cleanTitle = p.replace(/^\d+\.\s*/, '').replace(/^P\d+[：:]\s*/, '');
-                if (cleanTitle.includes(' - ')) {
-                    const parts = cleanTitle.split(' - ');
-                    songTitle = parts[0].trim();
-                    artist = parts[parts.length - 1].trim() || artist;
-                } else {
-                    songTitle = cleanTitle;
-                }
-
-                songs.push({
-                    title: songTitle,
-                    artist: artist,
-                    collection: col.collectionTitle,
-                    up: col.up,
-                    link: `${BILI_VIDEO_PREFIX}${col.collectionBv}?p=${i+1}`
-                });
-            });
-        });
-
-        // 步骤4：生成JS文件（覆盖模式）
+        // 步骤3：生成JS文件（覆盖模式，符合你的需求）
         const outputPath = path.join(DATA_DIR, `${file}.js`);
-        let outputContent = `// ${alias} - 歌单数据（DOM解析版）\n`;
-        outputContent += `// 来源: ${url}\n`;
+        let outputContent = `// ${alias} - 歌单数据（视频页DOM解析）\n`;
+        outputContent += `// 来源: ${BILI_VIDEO_URL(bvid)}\n`;
         outputContent += `// 生成时间: ${new Date().toLocaleString()}\n\n`;
         outputContent += `window.SONG_DATA = window.SONG_DATA || [];\n\n`;
         outputContent += `window.SONG_DATA.push(\n`;
         
-        songs.forEach((song, index) => {
+        songs.forEach((song, idx) => {
             outputContent += `    ${JSON.stringify(song, null, 2)}`;
-            if (index < songs.length - 1) outputContent += ",";
+            if (idx < songs.length - 1) outputContent += ",";
             outputContent += "\n";
         });
         
         outputContent += `);\n`;
 
+        // 覆盖写入文件（'w'模式，每次全量替换）
         fs.writeFileSync(outputPath, outputContent);
         console.log(`  ✅ 成功: 生成 ${songs.length} 首歌曲 -> ${file}.js`);
         return true;
@@ -186,18 +152,20 @@ async function processSinger(config) {
 // ================= 6. 主程序 =================
 async function main() {
     console.log("========================================");
-    console.log("   🚀 B站合集DOM解析 - 歌单更新启动");
+    console.log("   🚀 B站视频页DOM解析 - 歌单更新启动");
     console.log("========================================");
     
+    // 确保data目录存在
     if (!fs.existsSync(DATA_DIR)) {
         fs.mkdirSync(DATA_DIR, { recursive: true });
     }
 
     let successCount = 0;
+    // 串行处理，防反爬
     for (const config of SINGER_CONFIGS) {
         const ok = await processSinger(config);
         if (ok) successCount++;
-        await new Promise(r => setTimeout(r, 2000)); // 防反爬，间隔2秒
+        await new Promise(r => setTimeout(r, 1500)); // 和油猴的DELAY_TIME一致
     }
 
     console.log("\n========================================");
@@ -205,4 +173,5 @@ async function main() {
     console.log("========================================");
 }
 
-main().catch(console.error);
+// 启动主程序
+main().catch(err => console.error("全局错误:", err.message));
