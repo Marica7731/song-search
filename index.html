@@ -75,13 +75,15 @@
         }
         .link a:hover { background-color: #008ebf; }
         /* 提示文案 */
-        .status-msg, .empty-msg { 
+        .status-msg, .empty-msg, .loading-msg { 
             text-align: center; 
             color: #999; 
             padding: 40px; 
             font-size: 16px; 
         }
-        .empty-msg { display: none; }
+        .empty-msg, .loading-msg { display: none; }
+        /* 加载进度提示 */
+        .progress-msg { text-align: center; color: #666; padding: 20px; font-size: 14px; }
     </style>
 </head>
 <body>
@@ -96,10 +98,13 @@
         <button id="search-btn">🔍 搜索</button>
     </div>
 
-    <!-- 歌曲列表容器 -->
+    <!-- 加载进度提示 -->
+    <div class="progress-msg" id="progress-msg">📥 正在加载歌库（共12548条），请稍候...</div>
+
+    <!-- 歌曲列表容器（重构结构，避免List.js解析错误） -->
     <ul class="list" id="song-list">
-        <li class="status-msg" id="loading-msg">⏳ 正在加载歌库...</li>
         <li class="empty-msg" id="empty-msg">❌ 未找到匹配的歌曲</li>
+        <li class="loading-msg" id="loading-msg">⏳ 正在加载歌库...</li>
     </ul>
 
     <!-- List.js CDN（国内源，避免加载失败） -->
@@ -109,9 +114,44 @@
         // 全局数据容器
         window.SONG_DATA = [];
         let songListInstance = null;
+        const BATCH_SIZE = 500; // 分批加载：每次加载500条，避免DOM崩溃
 
-        // 1. 初始化List.js列表渲染
+        // 1. 分批添加数据到List.js（适配大数据量）
+        function batchAddData(listInstance, data) {
+            const total = data.length;
+            let currentIndex = 0;
+            const progressMsg = document.getElementById('progress-msg');
+
+            // 分批添加函数
+            function addBatch() {
+                const endIndex = Math.min(currentIndex + BATCH_SIZE, total);
+                const batch = data.slice(currentIndex, endIndex);
+                listInstance.add(batch);
+                
+                // 更新进度
+                progressMsg.textContent = `📥 正在加载歌库（${endIndex}/${total}条）...`;
+                currentIndex = endIndex;
+
+                // 还有数据没加载完，继续分批
+                if (currentIndex < total) {
+                    setTimeout(addBatch, 50); // 延迟50ms，避免阻塞UI
+                } else {
+                    // 加载完成
+                    progressMsg.style.display = 'none';
+                    console.log(`✅ 数据加载完成，共${total}条`);
+                }
+            }
+
+            // 启动分批加载
+            addBatch();
+        }
+
+        // 2. 初始化List.js列表渲染（重构，避免childNodes报错）
         function initList() {
+            // 先清空列表容器的默认内容（关键：解决childNodes报错）
+            const songListEl = document.getElementById('song-list');
+            songListEl.innerHTML = '<li class="empty-msg" id="empty-msg">❌ 未找到匹配的歌曲</li>';
+
             const options = {
                 valueNames: ['title', 'artist', 'collection', 'up', { data: ['link'] }],
                 item: '<li class="item">' +
@@ -120,61 +160,109 @@
                             '<div class="meta"><span class="artist"></span> / <span class="collection"></span> / UP: <span class="up"></span></div>' +
                         '</div>' +
                         '<div class="link"><a class="link-btn" target="_blank">直达B站</a></div>' +
-                      '</li>'
+                      '</li>',
+                page: 50, // 分页：每页显示50条，避免一次性渲染太多DOM
+                pagination: true // 启用分页，优化大数据量渲染
             };
             
-            // 移除加载提示
-            document.getElementById('loading-msg')?.remove();
+            // 重新创建List.js实例（核心修复：避免DOM解析错误）
+            try {
+                songListInstance = new List('song-list', options);
+                console.log('✅ List.js实例创建成功');
 
-            // 创建List.js实例并加载数据
-            songListInstance = new List('song-list', options);
-            songListInstance.add(window.SONG_DATA);
+                // 分批添加12548条数据（核心：避免一次性渲染崩溃）
+                batchAddData(songListInstance, window.SONG_DATA);
 
-            // 绑定B站链接点击事件
-            document.getElementById('song-list').addEventListener('click', function(e) {
-                if (e.target.classList.contains('link-btn')) {
-                    const item = e.target.closest('.item');
-                    const values = songListInstance.get('item', item)[0].values();
-                    window.open(values.link, '_blank');
-                }
-            });
+                // 绑定B站链接点击事件
+                songListEl.addEventListener('click', function(e) {
+                    if (e.target.classList.contains('link-btn')) {
+                        const item = e.target.closest('.item');
+                        const values = songListInstance.get('item', item)[0].values();
+                        window.open(values.link, '_blank');
+                    }
+                });
 
-            // 初始化搜索功能（核心：绑定回车/按钮）
-            initSearch();
+                // 初始化搜索功能
+                initSearch();
+
+            } catch (err) {
+                console.error('❌ List.js实例创建失败：', err);
+                const progressMsg = document.getElementById('progress-msg');
+                progressMsg.textContent = `❌ 列表初始化失败：${err.message}`;
+                progressMsg.style.color = '#dc3545';
+            }
         }
 
-        // 2. 初始化搜索功能（回车+按钮点击）
+        // 3. 初始化搜索功能（强化版：适配大数据量）
         function initSearch() {
             const searchInput = document.getElementById('search-input');
             const searchBtn = document.getElementById('search-btn');
             const emptyMsg = document.getElementById('empty-msg');
+            const songListEl = document.getElementById('song-list');
 
-            // 核心搜索过滤逻辑
+            // 核心搜索过滤逻辑（兼容大数据量）
             function handleSearch() {
-                if (!songListInstance) return; // 防止实例未初始化
+                if (!songListInstance) {
+                    alert('⚠️ 歌单数据未加载完成，请等待10秒后重试！');
+                    return;
+                }
+
                 const keyword = searchInput.value.trim().toLowerCase();
-                songListInstance.search(keyword); // List.js原生搜索（匹配title/artist/collection/up）
-                
+                console.log('🔍 搜索关键词：', keyword);
+
+                // 重置所有筛选
+                songListInstance.reset();
+
+                if (keyword) {
+                    // 自定义模糊过滤（适配中文+大数据量）
+                    songListInstance.filter(function(item) {
+                        const title = (item.values().title || '').toLowerCase();
+                        const artist = (item.values().artist || '').toLowerCase();
+                        const collection = (item.values().collection || '').toLowerCase();
+                        const up = (item.values().up || '').toLowerCase();
+                        // 匹配任意字段
+                        return title.includes(keyword) || artist.includes(keyword) || collection.includes(keyword) || up.includes(keyword);
+                    });
+                }
+
                 // 显示/隐藏无结果提示
-                emptyMsg.style.display = songListInstance.matchingItems.length === 0 ? 'block' : 'none';
+                const matchCount = songListInstance.matchingItems.length;
+                console.log('✅ 匹配结果数：', matchCount);
+                emptyMsg.style.display = matchCount === 0 ? 'block' : 'none';
+
+                // 强制刷新分页（适配大数据量）
+                songListInstance.page = matchCount > 50 ? 50 : matchCount;
+                songListInstance.update();
             }
 
-            // 绑定回车事件
+            // 绑定回车事件（防丢失）
             searchInput.addEventListener('keydown', (e) => {
                 if (e.key === 'Enter' || e.keyCode === 13) {
-                    e.preventDefault(); // 阻止默认回车行为
+                    e.preventDefault();
                     handleSearch();
+                    searchInput.focus();
                 }
             });
 
             // 绑定搜索按钮点击事件
-            searchBtn.addEventListener('click', handleSearch);
+            searchBtn.addEventListener('click', function() {
+                handleSearch();
+                searchInput.blur();
+                setTimeout(() => searchInput.focus(), 100);
+            });
 
-            // 可选：实时输入搜索（输入时自动过滤）
-            searchInput.addEventListener('input', handleSearch);
+            // 实时输入搜索（优化：加防抖，避免频繁触发）
+            let searchTimer = null;
+            searchInput.addEventListener('input', function() {
+                clearTimeout(searchTimer);
+                searchTimer = setTimeout(handleSearch, 300); // 300ms防抖
+            });
+
+            // 初始显示所有歌曲
+            setTimeout(handleSearch, 1000);
         }
 
-        // 3. 动态加载单个JS数据文件
+        // 4. 动态加载单个JS数据文件
         function loadScript(url) {
             return new Promise((resolve, reject) => {
                 const script = document.createElement('script');
@@ -185,25 +273,40 @@
             });
         }
 
-        // 4. 主流程：加载索引→加载数据→初始化列表
+        // 5. 主流程：加载索引→加载数据→初始化列表（修复空指针）
         async function bootstrap() {
             try {
                 // 加载index.json清单
                 const response = await fetch('data/index.json');
-                if (!response.ok) throw new Error('加载索引失败');
+                if (!response.ok) throw new Error(`加载索引失败（状态码：${response.status}）`);
                 const config = await response.json();
                 const files = config.files || [];
+
+                if (files.length === 0) throw new Error('index.json中无数据文件配置');
 
                 // 批量加载所有数据JS文件
                 const loadPromises = files.map(filename => loadScript(`data/${filename}`));
                 await Promise.all(loadPromises);
 
-                // 初始化列表和搜索
+                console.log(`✅ 数据文件加载完成，总歌曲数：${window.SONG_DATA.length}`);
+
+                // 初始化列表（核心：数据加载完再初始化List.js）
                 initList();
 
             } catch (error) {
-                console.error('启动失败', error);
-                document.getElementById('loading-msg').innerText = '❌ 加载失败，请检查data/index.json配置';
+                console.error('❌ 启动失败：', error);
+                // 修复空指针：先判断元素是否存在再修改
+                const progressMsg = document.getElementById('progress-msg');
+                if (progressMsg) {
+                    progressMsg.textContent = `❌ 加载失败：${error.message}`;
+                    progressMsg.style.color = '#dc3545';
+                }
+                // 兼容loading-msg
+                const loadingMsg = document.getElementById('loading-msg');
+                if (loadingMsg) {
+                    loadingMsg.style.display = 'block';
+                    loadingMsg.innerText = `❌ 加载失败：${error.message}`;
+                }
             }
         }
 
