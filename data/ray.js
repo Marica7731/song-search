@@ -1,6 +1,6 @@
 // 來-Ray- - 歌单数据
 // 类型: 视频(BV1mJZwB8EVa)
-// 生成时间: 2/20/2026, 10:12:47 PM
+// 生成时间: 2/20/2026, 10:15:09 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1134,7 +1134,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Orca",
-  "artist": "いるかアイス [2025-11-02]  [CavDO9shdak]",
+  "artist": "いるかア��ス [2025-11-02]  [CavDO9shdak]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mJZwB8EVa?p=162"
