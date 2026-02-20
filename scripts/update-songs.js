@@ -1,7 +1,22 @@
 // scripts/update-songs.js
 const fs = require('fs');
 const path = require('path');
-const puppeteer = require('puppeteer'); // 仅保留Puppeteer（模拟真实浏览器，避免被B站检测）
+
+// ================= 关键兼容：适配全局安装的 Puppeteer =================
+let puppeteer;
+try {
+    // 优先本地引入（本地开发环境）
+    puppeteer = require('puppeteer');
+} catch (err) {
+    // 本地无则从全局引入（GitHub Actions 环境）
+    try {
+        const globalModules = path.resolve(process.execPath, '../..', 'lib/node_modules');
+        puppeteer = require(path.join(globalModules, 'puppeteer'));
+    } catch (globalErr) {
+        console.error('❌ Puppeteer 未安装，请执行 npm install puppeteer 或 npm install -g puppeteer');
+        process.exit(1);
+    }
+}
 
 // ================= 1. 常量配置（和油猴脚本1:1） =================
 const DELAY_TIME = 1500;
