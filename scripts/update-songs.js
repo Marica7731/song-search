@@ -56,15 +56,17 @@ async function loadVideoPageWithBrowser(bvid) {
         // 启动浏览器（适配GitHub Actions的Ubuntu环境）
         browser = await puppeteer.launch({
             headless: 'new',
-            args: [
-                '--no-sandbox', // Ubuntu root运行必须
-                '--disable-setuid-sandbox',
-                '--disable-dev-shm-usage', // 解决内存不足
-                '--disable-blink-features=AutomationControlled', // 避免被B站识别为爬虫
-                '--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
-                '--disable-gpu', // 无GPU环境
-                '--window-size=1920,1080'
-            ],
+// 在 puppeteer.launch 的 args 数组中，新增一个参数：
+args: [
+    '--no-sandbox',
+    '--disable-setuid-sandbox',
+    '--disable-dev-shm-usage',
+    '--disable-blink-features=AutomationControlled',
+    '--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+    '--disable-gpu',
+    '--window-size=1920,1080',
+    '--headless=new' // 明确指定新版无头模式，适配系统Chrome
+],
             // GitHub Actions环境指定Chrome路径（通过环境变量）
             executablePath: process.env.PUPPETEER_EXECUTABLE_PATH || undefined
         });
