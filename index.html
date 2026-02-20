@@ -20,6 +20,8 @@
         .link a { padding: 8px 16px; background-color: #00a1d6; color: white; text-decoration: none; border-radius: 4px; font-size: 14px; }
         .link a:hover { background-color: #008ebf; }
         .status-msg { text-align: center; color: #999; padding: 40px; font-size: 16px; }
+        /* 新增：无搜索结果提示样式 */
+        .empty-msg { text-align: center; color: #999; padding: 40px; font-size: 16px; display: none; }
     </style>
 </head>
 <body>
@@ -32,6 +34,8 @@
     <input type="text" id="search-input" placeholder="输入歌名、歌手名、合集名或UP主搜索...">
     <ul class="list" id="song-list">
         <li class="status-msg" id="loading-msg">⏳ 正在加载歌库...</li>
+        <!-- 新增：无结果提示 -->
+        <li class="empty-msg" id="empty-msg">❌ 未找到匹配的歌曲</li>
     </ul>
 
     <script src="//cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
@@ -68,6 +72,41 @@
                     window.open(values.link, '_blank');
                 }
             });
+
+            // ========== 新增：初始化搜索功能 ==========
+            initSearch();
+        }
+
+        // ========== 新增：搜索核心逻辑 ==========
+        function initSearch() {
+            const searchInput = document.getElementById('search-input');
+            const emptyMsg = document.getElementById('empty-msg');
+
+            // 搜索过滤函数
+            function handleSearch() {
+                const keyword = searchInput.value.trim().toLowerCase();
+                
+                // 调用 List.js 的 search 方法（会自动过滤匹配 title/artist/collection/up 字段）
+                songListInstance.search(keyword);
+
+                // 显示/隐藏无结果提示
+                if (songListInstance.matchingItems.length === 0) {
+                    emptyMsg.style.display = 'block';
+                } else {
+                    emptyMsg.style.display = 'none';
+                }
+            }
+
+            // 绑定回车事件（核心：解决回车无响应）
+            searchInput.addEventListener('keydown', (e) => {
+                if (e.key === 'Enter' || e.keyCode === 13) {
+                    e.preventDefault(); // 阻止默认行为（避免页面刷新）
+                    handleSearch(); // 执行搜索
+                }
+            });
+
+            // 可选：绑定输入实时搜索（输入时就过滤，体验更好）
+            searchInput.addEventListener('input', handleSearch);
         }
 
         // 2. 动态加载单个 JS 文件
