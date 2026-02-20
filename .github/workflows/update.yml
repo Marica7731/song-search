@@ -2,9 +2,9 @@ name: Auto Update Song List
 
 on:
   schedule:
-    # 每天北京时间中午12点运行 (UTC 4点)
-    - cron: '0 4 * * *'
-  workflow_dispatch: # 允许手动点击按钮触发
+    # 【修改点】每小时执行一次 (UTC 时间，每小时的第 0 分)
+    - cron: '0 * * * *'
+  workflow_dispatch: # 保留手动触发功能
 
 jobs:
   update:
@@ -26,5 +26,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Auto Bot"
           git add data/
-          # 只有当文件发生变化时才提交
+          # 只有当文件发生变化时才提交，避免每小时产生一次空提交
           git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 自动更新歌单数据" && git push)
