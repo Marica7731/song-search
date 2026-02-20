@@ -2,9 +2,12 @@ name: Auto Update Song List
 
 on:
   schedule:
-    # 【修改点】每小时执行一次 (UTC 时间，每小时的第 0 分)
-    - cron: '0 * * * *'
-  workflow_dispatch: # 保留手动触发功能
+    - cron: '0 * * * *' # 每小时执行
+  workflow_dispatch: # 保留手动触发
+
+# 关键：声明全局写入权限
+permissions:
+  contents: write
 
 jobs:
   update:
@@ -12,6 +15,9 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          # 传入授权token，确保推送权限
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -26,5 +32,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Auto Bot"
           git add data/
-          # 只有当文件发生变化时才提交，避免每小时产生一次空提交
+          # 只有文件发生变化才提交，避免空提交
           git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 自动更新歌单数据" && git push)
