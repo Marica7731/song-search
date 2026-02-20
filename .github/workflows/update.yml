@@ -5,46 +5,35 @@ on:
     - cron: '0 * * * *'
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      # 1. 拉取完整仓库代码（包含所有历史）
-      - name: Checkout full repo
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fetch-depth: 0  # 拉取全部历史，避免浅克隆冲突
-          ref: main
-
-      # 2. 强制拉取远程最新代码（覆盖本地所有差异）
-      - name: Force pull latest code
+      # 1. 彻底清空运行环境，重新克隆仓库（用PAT）
+      - name: Clean and Clone Repo
         run: |
-          git fetch origin main
-          git reset --hard origin/main
-          git clean -fd
+          rm -rf *
+          git clone https://${{ secrets.PAT_TOKEN }}@github.com/Marica7731/song-search.git .
+          git checkout main
 
-      # 3. 配置Node环境
+      # 2. 配置Node环境
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
-      # 4. 运行脚本生成新文件
-      - name: Run update script
+      # 3. 运行脚本生成新文件
+      - name: Run Update Script
         run: node scripts/update-songs.js
 
-      # 5. 强制推送（仅推送data文件夹）
-      - name: Force push changes
+      # 4. 提交并推送（用PAT，无冲突）
+      - name: Commit and Push with PAT
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Bot"
+          git config --local user.email "your-github-email@xxx.com"  # 替换成你的GitHub绑定邮箱
+          git config --local user.name "Marica7731"  # 替换成你的GitHub用户名
           git add data/
-          # 只有文件变化才提交，避免空提交
+          # 只有文件变化才提交
           if ! git diff --quiet --staged; then
             git commit -m "🤖 自动更新歌单数据"
-            git push origin main --force  # 强制推送（仅这一次，解决冲突后可改回普通推送）
+            git push https://${{ secrets.PAT_TOKEN }}@github.com/Marica7731/song-search.git main
           fi
