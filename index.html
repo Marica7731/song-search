@@ -5,50 +5,115 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>歌曲查询站 - B站分P直达</title>
     <style>
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; max-width: 1000px; margin: 0 auto; padding: 20px; }
+        /* 全局样式重置 */
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { 
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; 
+            max-width: 1000px; 
+            margin: 0 auto; 
+            padding: 20px; 
+        }
+        /* 标题样式 */
         h1 { text-align: center; color: #333; margin-bottom: 10px; }
+        /* 导航按钮 */
         .nav-btn-container { text-align: center; margin-bottom: 30px; }
-        .nav-btn { padding: 8px 16px; background-color: #28a745; color: white; text-decoration: none; border-radius: 4px; font-size: 14px; display: inline-block; }
+        .nav-btn { 
+            padding: 8px 16px; 
+            background-color: #28a745; 
+            color: white; 
+            text-decoration: none; 
+            border-radius: 4px; 
+            font-size: 14px; 
+            display: inline-block; 
+        }
         .nav-btn:hover { background-color: #218838; }
-        #search-input { width: 100%; padding: 15px; font-size: 18px; box-sizing: border-box; border: 2px solid #ddd; border-radius: 8px; margin-bottom: 20px; }
+        /* 搜索区域（输入框+按钮） */
+        .search-container { 
+            display: flex; 
+            gap: 10px; 
+            margin-bottom: 20px; 
+        }
+        #search-input { 
+            flex: 1; 
+            padding: 15px; 
+            font-size: 18px; 
+            border: 2px solid #ddd; 
+            border-radius: 8px; 
+            outline: none; 
+        }
+        #search-input:focus { border-color: #00a1d6; }
+        #search-btn { 
+            padding: 0 24px; 
+            background-color: #00a1d6; 
+            color: white; 
+            border: none; 
+            border-radius: 8px; 
+            font-size: 18px; 
+            cursor: pointer; 
+        }
+        #search-btn:hover { background-color: #008ebf; }
+        /* 歌曲列表 */
         .list { list-style: none; padding: 0; }
-        .item { padding: 15px; border-bottom: 1px solid #eee; display: flex; justify-content: space-between; align-items: center; }
+        .item { 
+            padding: 15px; 
+            border-bottom: 1px solid #eee; 
+            display: flex; 
+            justify-content: space-between; 
+            align-items: center; 
+        }
         .item:hover { background-color: #f9f9f9; }
         .info { flex: 1; }
         .title { font-weight: bold; font-size: 16px; color: #222; margin-bottom: 5px; }
         .meta { font-size: 14px; color: #666; }
-        .link a { padding: 8px 16px; background-color: #00a1d6; color: white; text-decoration: none; border-radius: 4px; font-size: 14px; }
+        .link a { 
+            padding: 8px 16px; 
+            background-color: #00a1d6; 
+            color: white; 
+            text-decoration: none; 
+            border-radius: 4px; 
+            font-size: 14px; 
+        }
         .link a:hover { background-color: #008ebf; }
-        .status-msg { text-align: center; color: #999; padding: 40px; font-size: 16px; }
-        /* 新增：无搜索结果提示样式 */
-        .empty-msg { text-align: center; color: #999; padding: 40px; font-size: 16px; display: none; }
+        /* 提示文案 */
+        .status-msg, .empty-msg { 
+            text-align: center; 
+            color: #999; 
+            padding: 40px; 
+            font-size: 16px; 
+        }
+        .empty-msg { display: none; }
     </style>
 </head>
 <body>
-
     <h1>🎵 我的已切歌曲查询站</h1>
     <div class="nav-btn-container">
         <a href="converter.html" target="_blank" class="nav-btn">🔄 打开歌单数据转换器</a>
     </div>
 
-    <input type="text" id="search-input" placeholder="输入歌名、歌手名、合集名或UP主搜索...">
+    <!-- 搜索区域（输入框+按钮） -->
+    <div class="search-container">
+        <input type="text" id="search-input" placeholder="输入歌名、歌手名、合集名或UP主搜索...">
+        <button id="search-btn">🔍 搜索</button>
+    </div>
+
+    <!-- 歌曲列表容器 -->
     <ul class="list" id="song-list">
         <li class="status-msg" id="loading-msg">⏳ 正在加载歌库...</li>
-        <!-- 新增：无结果提示 -->
         <li class="empty-msg" id="empty-msg">❌ 未找到匹配的歌曲</li>
     </ul>
 
-    <script src="//cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
+    <!-- List.js CDN（国内源，避免加载失败） -->
+    <script src="https://cdn.bootcdn.net/ajax/libs/list.js/2.3.1/list.min.js"></script>
 
     <script>
         // 全局数据容器
         window.SONG_DATA = [];
         let songListInstance = null;
 
-        // 1. 初始化 List.js
+        // 1. 初始化List.js列表渲染
         function initList() {
-            var options = {
-                valueNames: [ 'title', 'artist', 'collection', 'up', { data: ['link'] } ],
+            const options = {
+                valueNames: ['title', 'artist', 'collection', 'up', { data: ['link'] }],
                 item: '<li class="item">' +
                         '<div class="info">' +
                             '<div class="title"></div>' +
@@ -61,55 +126,55 @@
             // 移除加载提示
             document.getElementById('loading-msg')?.remove();
 
+            // 创建List.js实例并加载数据
             songListInstance = new List('song-list', options);
             songListInstance.add(window.SONG_DATA);
 
-            // 绑定点击事件
+            // 绑定B站链接点击事件
             document.getElementById('song-list').addEventListener('click', function(e) {
                 if (e.target.classList.contains('link-btn')) {
-                    var item = e.target.closest('.item');
-                    var values = songListInstance.get('item', item)[0].values();
+                    const item = e.target.closest('.item');
+                    const values = songListInstance.get('item', item)[0].values();
                     window.open(values.link, '_blank');
                 }
             });
 
-            // ========== 新增：初始化搜索功能 ==========
+            // 初始化搜索功能（核心：绑定回车/按钮）
             initSearch();
         }
 
-        // ========== 新增：搜索核心逻辑 ==========
+        // 2. 初始化搜索功能（回车+按钮点击）
         function initSearch() {
             const searchInput = document.getElementById('search-input');
+            const searchBtn = document.getElementById('search-btn');
             const emptyMsg = document.getElementById('empty-msg');
 
-            // 搜索过滤函数
+            // 核心搜索过滤逻辑
             function handleSearch() {
+                if (!songListInstance) return; // 防止实例未初始化
                 const keyword = searchInput.value.trim().toLowerCase();
+                songListInstance.search(keyword); // List.js原生搜索（匹配title/artist/collection/up）
                 
-                // 调用 List.js 的 search 方法（会自动过滤匹配 title/artist/collection/up 字段）
-                songListInstance.search(keyword);
-
                 // 显示/隐藏无结果提示
-                if (songListInstance.matchingItems.length === 0) {
-                    emptyMsg.style.display = 'block';
-                } else {
-                    emptyMsg.style.display = 'none';
-                }
+                emptyMsg.style.display = songListInstance.matchingItems.length === 0 ? 'block' : 'none';
             }
 
-            // 绑定回车事件（核心：解决回车无响应）
+            // 绑定回车事件
             searchInput.addEventListener('keydown', (e) => {
                 if (e.key === 'Enter' || e.keyCode === 13) {
-                    e.preventDefault(); // 阻止默认行为（避免页面刷新）
-                    handleSearch(); // 执行搜索
+                    e.preventDefault(); // 阻止默认回车行为
+                    handleSearch();
                 }
             });
 
-            // 可选：绑定输入实时搜索（输入时就过滤，体验更好）
+            // 绑定搜索按钮点击事件
+            searchBtn.addEventListener('click', handleSearch);
+
+            // 可选：实时输入搜索（输入时自动过滤）
             searchInput.addEventListener('input', handleSearch);
         }
 
-        // 2. 动态加载单个 JS 文件
+        // 3. 动态加载单个JS数据文件
         function loadScript(url) {
             return new Promise((resolve, reject) => {
                 const script = document.createElement('script');
@@ -120,28 +185,29 @@
             });
         }
 
-        // 3. 主流程：读取清单 -> 加载全部数据 -> 渲染
+        // 4. 主流程：加载索引→加载数据→初始化列表
         async function bootstrap() {
             try {
-                // 第一步：读取 index.json 清单
+                // 加载index.json清单
                 const response = await fetch('data/index.json');
+                if (!response.ok) throw new Error('加载索引失败');
                 const config = await response.json();
                 const files = config.files || [];
 
-                // 第二步：并发加载所有数据文件
+                // 批量加载所有数据JS文件
                 const loadPromises = files.map(filename => loadScript(`data/${filename}`));
                 await Promise.all(loadPromises);
 
-                // 第三步：初始化渲染
+                // 初始化列表和搜索
                 initList();
 
             } catch (error) {
                 console.error('启动失败', error);
-                document.getElementById('loading-msg').innerText = '❌ 加载失败，请检查 data/index.json 配置';
+                document.getElementById('loading-msg').innerText = '❌ 加载失败，请检查data/index.json配置';
             }
         }
 
-        // 启动
+        // 页面加载完成后启动
         document.addEventListener('DOMContentLoaded', bootstrap);
     </script>
 </body>
