@@ -98,17 +98,20 @@
                     });
                 });
 
-                // 生成 JS 代码字符串
-                // 为了美观，手动排版
-                let outputStr = "var songData = [\n";
-                songs.forEach((song, i) => {
-                    outputStr += `    { title: ${JSON.stringify(song.title)}, artist: ${JSON.stringify(song.artist)}, collection: ${JSON.stringify(song.collection)}, up: ${JSON.stringify(song.up)}, link: "${song.link}" }`;
-                    if (i < songs.length - 1) outputStr += ",";
-                    outputStr += "\n";
-                });
-                outputStr += "];";
+                // 生成 JS 代码字符串（修改版）
+let outputStr = `// 数据文件生成时间: ${new Date().toLocaleString()}\n`;
+outputStr += "window.SONG_DATA = window.SONG_DATA || [];\n\n";
+outputStr += "window.SONG_DATA.push(\n";
 
-                document.getElementById('output-code').value = outputStr;
+songs.forEach((song, i) => {
+    outputStr += `    ${JSON.stringify(song)}`;
+    if (i < songs.length - 1) outputStr += ",";
+    outputStr += "\n";
+});
+
+outputStr += ");";
+
+document.getElementById('output-code').value = outputStr;
 
             } catch (e) {
                 console.error(e);
