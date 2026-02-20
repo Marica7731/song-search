@@ -18,6 +18,28 @@ try {
     }
 }
 
+// ================= 通用重试函数（核心新增） =================
+/**
+ * 带重试的异步函数包装器
+ * @param {Function} fn - 要执行的异步函数
+ * @param {number} maxRetries - 最大重试次数（默认3次）
+ * @param {number} delay - 重试间隔（默认5000ms）
+ * @returns {Promise<any>} 函数执行结果
+ */
+async function withRetry(fn, maxRetries = 3, delay = 5000) {
+    let lastError;
+    for (let attempt = 1; attempt <= maxRetries; attempt++) {
+        try {
+            return await fn();
+        } catch (err) {
+            lastError = err;
+            console.log(`⚠️  第 ${attempt} 次尝试失败，${delay/1000}秒后重试... 错误：${err.message.slice(0, 100)}`);
+            await new Promise(resolve => setTimeout(resolve, delay));
+        }
+    }
+    throw lastError; // 重试完仍失败，抛出最后一次错误
+}
+
 // ================= 1. 常量配置（和油猴脚本1:1） =================
 const DELAY_TIME = 1500;
 const BILI_VIDEO_PREFIX = 'https://www.bilibili.com/video/';
@@ -55,20 +77,19 @@ async function loadVideoPageWithBrowser(bvid) {
     try {
         // 启动浏览器（适配GitHub Actions的Ubuntu环境）
         browser = await puppeteer.launch({
-            headless: 'new',
-// 在 puppeteer.launch 的 args 数组中，新增一个参数：
-args: [
-    '--no-sandbox',
-    '--disable-setuid-sandbox',
-    '--disable-dev-shm-usage',
-    '--disable-blink-features=AutomationControlled',
-    '--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
-    '--disable-gpu',
-    '--window-size=1920,1080',
-    '--headless=new' // 明确指定新版无头模式，适配系统Chrome
-],
-            // GitHub Actions环境指定Chrome路径（通过环境变量）
-            executablePath: process.env.PUPPETEER_EXECUTABLE_PATH || undefined
+            headless: 'new', // 明确指定新版无头模式，兼容系统Chrome
+            args: [
+                '--no-sandbox', // Ubuntu root运行必须
+                '--disable-setuid-sandbox',
+                '--disable-dev-shm-usage', // 解决内存不足
+                '--disable-blink-features=AutomationControlled', // 避免被B站识别为爬虫
+                '--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+                '--disable-gpu', // 无GPU环境
+                '--window-size=1920,1080',
+                '--headless=new' // 重复声明，确保兼容系统Chrome
+            ],
+            // GitHub Actions环境指定系统Chrome路径
+            executablePath: process.env.PUPPETEER_EXECUTABLE_PATH || '/usr/bin/google-chrome'
         });
 
         const page = await browser.newPage();
@@ -151,67 +172,60 @@ async function processSinger(config) {
     const { bvid, file, alias } = config;
     console.log(`\n[处理中] ${alias} (BV: ${bvid})...`);
     
-    try {
-        // 步骤1：加载页面并解析分P数据
-        const rawData = await loadVideoPageWithBrowser(bvid);
-        if (!rawData || rawData.length === 0) {
-            console.log(`  ⚠️  未解析到任何分P数据（检查BV号或视频是否有分P）`);
-            return false;
-        }
+    // 步骤1：加载页面并解析分P数据（无重试，重试由外层withRetry处理）
+    const rawData = await loadVideoPageWithBrowser(bvid);
+    if (!rawData || rawData.length === 0) {
+        throw new Error(`未解析到任何分P数据（检查BV号或视频是否有分P）`);
+    }
 
-        // 步骤2：转换为歌单格式（和油猴逻辑一致）
-        let songs = [];
-        rawData.forEach(col => {
-            col.parts.forEach((p, i) => {
-                let artist = col.up;
-                let songTitle = p;
-                
-                // 清理标题（去掉前缀数字/P标识）
-                let cleanTitle = p.replace(/^\d+\.\s*/, '').replace(/^P\d+[：:]\s*/, '');
-                if (cleanTitle.includes(' - ')) {
-                    const parts = cleanTitle.split(' - ');
-                    songTitle = parts[0].trim();
-                    artist = parts[parts.length - 1].trim() || artist;
-                } else {
-                    songTitle = cleanTitle;
-                }
+    // 步骤2：转换为歌单格式（和油猴逻辑一致）
+    let songs = [];
+    rawData.forEach(col => {
+        col.parts.forEach((p, i) => {
+            let artist = col.up;
+            let songTitle = p;
+            
+            // 清理标题（去掉前缀数字/P标识）
+            let cleanTitle = p.replace(/^\d+\.\s*/, '').replace(/^P\d+[：:]\s*/, '');
+            if (cleanTitle.includes(' - ')) {
+                const parts = cleanTitle.split(' - ');
+                songTitle = parts[0].trim();
+                artist = parts[parts.length - 1].trim() || artist;
+            } else {
+                songTitle = cleanTitle;
+            }
 
-                songs.push({
-                    title: songTitle,
-                    artist: artist,
-                    collection: col.collectionTitle,
-                    up: col.up,
-                    link: `${BILI_VIDEO_PREFIX}${col.collectionBv}?p=${i+1}`,
-                    source: `${file}.js` // 标记来源文件，适配前端筛选
-                });
+            songs.push({
+                title: songTitle,
+                artist: artist,
+                collection: col.collectionTitle,
+                up: col.up,
+                link: `${BILI_VIDEO_PREFIX}${col.collectionBv}?p=${i+1}`,
+                source: `${file}.js` // 标记来源文件，适配前端筛选
             });
         });
+    });
 
-        // 步骤3：生成JS文件
-        const outputPath = path.join(DATA_DIR, `${file}.js`);
-        let outputContent = `// ${alias} - 歌单数据（油猴逻辑复刻版）\n`;
-        outputContent += `// 来源: ${BILI_VIDEO_URL(bvid)}\n`;
-        outputContent += `// 生成时间: ${new Date().toLocaleString()}\n\n`;
-        outputContent += `window.SONG_DATA = window.SONG_DATA || [];\n\n`;
-        outputContent += `window.SONG_DATA.push(\n`;
-        
-        songs.forEach((song, idx) => {
-            outputContent += `    ${JSON.stringify(song, null, 2)}`;
-            if (idx < songs.length - 1) outputContent += ",";
-            outputContent += "\n";
-        });
-        
-        outputContent += `);\n`;
+    // 步骤3：生成JS文件
+    const outputPath = path.join(DATA_DIR, `${file}.js`);
+    let outputContent = `// ${alias} - 歌单数据（油猴逻辑复刻版）\n`;
+    outputContent += `// 来源: ${BILI_VIDEO_URL(bvid)}\n`;
+    outputContent += `// 生成时间: ${new Date().toLocaleString()}\n\n`;
+    outputContent += `window.SONG_DATA = window.SONG_DATA || [];\n\n`;
+    outputContent += `window.SONG_DATA.push(\n`;
+    
+    songs.forEach((song, idx) => {
+        outputContent += `    ${JSON.stringify(song, null, 2)}`;
+        if (idx < songs.length - 1) outputContent += ",";
+        outputContent += "\n";
+    });
+    
+    outputContent += `);\n`;
 
-        // 写入文件（处理权限）
-        fs.writeFileSync(outputPath, outputContent, { encoding: 'utf8', mode: 0o644 });
-        console.log(`  ✅ 成功: 生成 ${songs.length} 首歌曲 -> ${file}.js`);
-        return true;
-
-    } catch (err) {
-        console.error(`  ❌ 异常错误:`, err.message);
-        return false;
-    }
+    // 写入文件（处理权限）
+    fs.writeFileSync(outputPath, outputContent, { encoding: 'utf8', mode: 0o644 });
+    console.log(`  ✅ 成功: 生成 ${songs.length} 首歌曲 -> ${file}.js`);
+    return true;
 }
 
 // ================= 5. 生成index.json（适配前端加载） =================
@@ -234,10 +248,17 @@ async function main() {
     }
 
     let successCount = 0;
-    // 遍历处理每个歌手
+    let failList = [];
+    // 遍历处理每个歌手（带重试）
     for (const config of SINGER_CONFIGS) {
-        const ok = await processSinger(config);
-        if (ok) successCount++;
+        try {
+            // 核心：调用带重试的processSinger
+            await withRetry(() => processSinger(config), 3, 5000);
+            successCount++;
+        } catch (err) {
+            console.error(`  ❌ 最终失败: ${config.alias} (${config.bvid})`, err.message);
+            failList.push({ alias: config.alias, bvid: config.bvid, error: err.message });
+        }
         // 延迟2秒，避免频繁请求被B站封禁
         await new Promise(resolve => setTimeout(resolve, 2000));
     }
@@ -245,14 +266,23 @@ async function main() {
     // 生成index.json
     generateIndexJson();
 
-    // 输出结果
+    // 输出最终结果（含失败列表）
     console.log("\n========================================");
     console.log(`   🏁 任务结束: 成功更新 ${successCount}/${SINGER_CONFIGS.length} 位歌手`);
+    if (failList.length > 0) {
+        console.log(`   ❌ 失败列表:`);
+        failList.forEach(item => {
+            console.log(`     - ${item.alias} (${item.bvid}): ${item.error.slice(0, 100)}`);
+        });
+    }
     console.log("========================================");
+
+    // 若有失败，退出码设为0（避免GitHub Actions标记整个任务失败）
+    process.exit(0);
 }
 
 // 执行主程序
 main().catch(err => {
     console.error("❌ 全局错误:", err.message);
-    process.exit(1); // 退出并标记失败，让GitHub Actions捕获
+    process.exit(1); // 全局错误才标记失败
 });
