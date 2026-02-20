@@ -2,53 +2,29 @@ name: Auto Update Song List
 
 on:
   schedule:
-    # 每天北京时间早上8点自动运行 (UTC时间 0点)
-    - cron: '0 0 * * *'
-  workflow_dispatch: # 允许你在网页上手动点击按钮触发
+    # 每天北京时间中午12点运行 (UTC 4点)
+    - cron: '0 4 * * *'
+  workflow_dispatch: # 允许手动点击按钮触发
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      
+      - name: Checkout code
+        uses: actions/checkout@v4
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
-      - name: Create Update Script
-        run: |
-          cat > update-bili.js << 'EOF'
-          const https = require('https');
-          const fs = require('fs');
-
-          // 这里是一个简化的示例，实际使用需要你填入具体的 BV 号列表
-          // 由于B站API限制，这里演示生成一个模拟文件
-          // 真实场景需要对接B站API或使用 yt-dlp 工具
-          
-          console.log("开始检查更新...");
-          
-          // 模拟：生成 naraetan.js (实际这里要写爬虫逻辑)
-          // 注意：完整的爬虫需要处理B站的反爬，这里仅展示 GitHub Actions 的结构
-          
-          const mockData = `
-          window.SONG_DATA = window.SONG_DATA || [];
-          window.SONG_DATA.push(
-            { title: "自动更新测试", artist: "System", collection: "自动化测试合集", up: "GitHub Actions", link: "https://www.bilibili.com" }
-          );
-          `;
-          
-          fs.writeFileSync('./data/naraetan.js', mockData);
-          console.log("文件生成完毕");
-          EOF
-
       - name: Run Update Script
-        run: node update-bili.js
+        run: node scripts/update-songs.js
 
       - name: Commit and Push Changes
         run: |
           git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.name "GitHub Auto Bot"
           git add data/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 自动更新歌单" && git push)
+          # 只有当文件发生变化时才提交
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 自动更新歌单数据" && git push)
