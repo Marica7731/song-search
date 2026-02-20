@@ -23,8 +23,12 @@ jobs:
           node-version: '20'
 
       # 3. 运行脚本生成新文件
-      - name: Run Update Script
-        run: node scripts/update-songs.js
+      # 其他部分不变，只改这一步
+- name: Run Update Script
+  run: |
+    cd scripts
+    npm init -y && npm install cheerio # 安装cheerio依赖
+    node update-songs.js
 
       # 4. 提交并推送（用PAT，无冲突）
       - name: Commit and Push with PAT
