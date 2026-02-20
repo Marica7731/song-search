@@ -9,7 +9,7 @@
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body { 
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; 
-            max-width: 1000px; 
+            max-width: 1200px; 
             margin: 0 auto; 
             padding: 20px; 
         }
@@ -32,9 +32,11 @@
             display: flex; 
             gap: 10px; 
             margin-bottom: 20px; 
+            flex-wrap: wrap;
         }
         #search-input { 
             flex: 1; 
+            min-width: 200px;
             padding: 15px; 
             font-size: 18px; 
             border: 2px solid #ddd; 
@@ -50,40 +52,90 @@
             border-radius: 8px; 
             font-size: 18px; 
             cursor: pointer; 
+            white-space: nowrap;
         }
         #search-btn:hover { background-color: #008ebf; }
+        /* 加载/进度提示 */
+        .progress-msg { 
+            text-align: center; 
+            color: #666; 
+            padding: 20px; 
+            font-size: 16px; 
+        }
+        .error-msg { color: #dc3545; }
+        .empty-msg { 
+            text-align: center; 
+            color: #999; 
+            padding: 40px; 
+            font-size: 16px; 
+            display: none;
+        }
         /* 歌曲列表 */
-        .list { list-style: none; padding: 0; }
-        .item { 
+        #song-list { 
+            list-style: none; 
+            padding: 0; 
+            margin-bottom: 30px;
+        }
+        .song-item { 
             padding: 15px; 
             border-bottom: 1px solid #eee; 
             display: flex; 
             justify-content: space-between; 
             align-items: center; 
+            gap: 10px;
+            flex-wrap: wrap;
         }
-        .item:hover { background-color: #f9f9f9; }
-        .info { flex: 1; }
-        .title { font-weight: bold; font-size: 16px; color: #222; margin-bottom: 5px; }
-        .meta { font-size: 14px; color: #666; }
-        .link a { 
+        .song-item:hover { background-color: #f9f9f9; }
+        .song-info { flex: 1; min-width: 200px; }
+        .song-title { 
+            font-weight: bold; 
+            font-size: 16px; 
+            color: #222; 
+            margin-bottom: 5px; 
+        }
+        .song-meta { 
+            font-size: 14px; 
+            color: #666; 
+            line-height: 1.4;
+        }
+        .song-link a { 
             padding: 8px 16px; 
             background-color: #00a1d6; 
             color: white; 
             text-decoration: none; 
             border-radius: 4px; 
             font-size: 14px; 
+            white-space: nowrap;
         }
-        .link a:hover { background-color: #008ebf; }
-        /* 提示文案 */
-        .status-msg, .empty-msg, .loading-msg { 
-            text-align: center; 
+        .song-link a:hover { background-color: #008ebf; }
+        /* 分页样式 */
+        .pagination { 
+            display: flex; 
+            justify-content: center; 
+            gap: 8px; 
+            flex-wrap: wrap;
+            margin-top: 20px;
+        }
+        .page-btn { 
+            padding: 8px 16px; 
+            border: 1px solid #ddd; 
+            border-radius: 4px; 
+            background: #fff; 
+            cursor: pointer; 
+            font-size: 14px;
+        }
+        .page-btn:hover { background: #f5f5f5; }
+        .page-btn.active { 
+            background: #00a1d6; 
+            color: white; 
+            border-color: #00a1d6;
+        }
+        .page-btn.disabled { 
+            cursor: not-allowed; 
             color: #999; 
-            padding: 40px; 
-            font-size: 16px; 
+            background: #f9f9f9;
+            border-color: #eee;
         }
-        .empty-msg, .loading-msg { display: none; }
-        /* 加载进度提示 */
-        .progress-msg { text-align: center; color: #666; padding: 20px; font-size: 14px; }
     </style>
 </head>
 <body>
@@ -92,221 +144,205 @@
         <a href="converter.html" target="_blank" class="nav-btn">🔄 打开歌单数据转换器</a>
     </div>
 
-    <!-- 搜索区域（输入框+按钮） -->
+    <!-- 搜索区域 -->
     <div class="search-container">
         <input type="text" id="search-input" placeholder="输入歌名、歌手名、合集名或UP主搜索...">
         <button id="search-btn">🔍 搜索</button>
     </div>
 
-    <!-- 加载进度提示 -->
+    <!-- 状态提示 -->
     <div class="progress-msg" id="progress-msg">📥 正在加载歌库（共12548条），请稍候...</div>
+    <div class="empty-msg" id="empty-msg">❌ 未找到匹配的歌曲</div>
 
-    <!-- 歌曲列表容器（重构结构，避免List.js解析错误） -->
-    <ul class="list" id="song-list">
-        <li class="empty-msg" id="empty-msg">❌ 未找到匹配的歌曲</li>
-        <li class="loading-msg" id="loading-msg">⏳ 正在加载歌库...</li>
-    </ul>
+    <!-- 歌曲列表 -->
+    <ul id="song-list"></ul>
 
-    <!-- List.js CDN（国内源，避免加载失败） -->
-    <script src="https://cdn.bootcdn.net/ajax/libs/list.js/2.3.1/list.min.js"></script>
+    <!-- 分页容器 -->
+    <div class="pagination" id="pagination"></div>
 
     <script>
-        // 全局数据容器
+        // 全局变量
         window.SONG_DATA = [];
-        let songListInstance = null;
-        const BATCH_SIZE = 500; // 分批加载：每次加载500条，避免DOM崩溃
+        let filteredData = []; // 搜索过滤后的数据
+        const PAGE_SIZE = 50; // 每页显示50条
+        let currentPage = 1;
 
-        // 1. 分批添加数据到List.js（适配大数据量）
-        function batchAddData(listInstance, data) {
-            const total = data.length;
-            let currentIndex = 0;
-            const progressMsg = document.getElementById('progress-msg');
-
-            // 分批添加函数
-            function addBatch() {
-                const endIndex = Math.min(currentIndex + BATCH_SIZE, total);
-                const batch = data.slice(currentIndex, endIndex);
-                listInstance.add(batch);
-                
-                // 更新进度
-                progressMsg.textContent = `📥 正在加载歌库（${endIndex}/${total}条）...`;
-                currentIndex = endIndex;
-
-                // 还有数据没加载完，继续分批
-                if (currentIndex < total) {
-                    setTimeout(addBatch, 50); // 延迟50ms，避免阻塞UI
-                } else {
-                    // 加载完成
-                    progressMsg.style.display = 'none';
-                    console.log(`✅ 数据加载完成，共${total}条`);
-                }
-            }
-
-            // 启动分批加载
-            addBatch();
-        }
-
-        // 2. 初始化List.js列表渲染（重构，避免childNodes报错）
-        function initList() {
-            // 先清空列表容器的默认内容（关键：解决childNodes报错）
-            const songListEl = document.getElementById('song-list');
-            songListEl.innerHTML = '<li class="empty-msg" id="empty-msg">❌ 未找到匹配的歌曲</li>';
-
-            const options = {
-                valueNames: ['title', 'artist', 'collection', 'up', { data: ['link'] }],
-                item: '<li class="item">' +
-                        '<div class="info">' +
-                            '<div class="title"></div>' +
-                            '<div class="meta"><span class="artist"></span> / <span class="collection"></span> / UP: <span class="up"></span></div>' +
-                        '</div>' +
-                        '<div class="link"><a class="link-btn" target="_blank">直达B站</a></div>' +
-                      '</li>',
-                page: 50, // 分页：每页显示50条，避免一次性渲染太多DOM
-                pagination: true // 启用分页，优化大数据量渲染
-            };
-            
-            // 重新创建List.js实例（核心修复：避免DOM解析错误）
-            try {
-                songListInstance = new List('song-list', options);
-                console.log('✅ List.js实例创建成功');
-
-                // 分批添加12548条数据（核心：避免一次性渲染崩溃）
-                batchAddData(songListInstance, window.SONG_DATA);
-
-                // 绑定B站链接点击事件
-                songListEl.addEventListener('click', function(e) {
-                    if (e.target.classList.contains('link-btn')) {
-                        const item = e.target.closest('.item');
-                        const values = songListInstance.get('item', item)[0].values();
-                        window.open(values.link, '_blank');
-                    }
-                });
-
-                // 初始化搜索功能
-                initSearch();
-
-            } catch (err) {
-                console.error('❌ List.js实例创建失败：', err);
-                const progressMsg = document.getElementById('progress-msg');
-                progressMsg.textContent = `❌ 列表初始化失败：${err.message}`;
-                progressMsg.style.color = '#dc3545';
-            }
-        }
-
-        // 3. 初始化搜索功能（强化版：适配大数据量）
-        function initSearch() {
-            const searchInput = document.getElementById('search-input');
-            const searchBtn = document.getElementById('search-btn');
-            const emptyMsg = document.getElementById('empty-msg');
-            const songListEl = document.getElementById('song-list');
-
-            // 核心搜索过滤逻辑（兼容大数据量）
-            function handleSearch() {
-                if (!songListInstance) {
-                    alert('⚠️ 歌单数据未加载完成，请等待10秒后重试！');
-                    return;
-                }
-
-                const keyword = searchInput.value.trim().toLowerCase();
-                console.log('🔍 搜索关键词：', keyword);
-
-                // 重置所有筛选
-                songListInstance.reset();
-
-                if (keyword) {
-                    // 自定义模糊过滤（适配中文+大数据量）
-                    songListInstance.filter(function(item) {
-                        const title = (item.values().title || '').toLowerCase();
-                        const artist = (item.values().artist || '').toLowerCase();
-                        const collection = (item.values().collection || '').toLowerCase();
-                        const up = (item.values().up || '').toLowerCase();
-                        // 匹配任意字段
-                        return title.includes(keyword) || artist.includes(keyword) || collection.includes(keyword) || up.includes(keyword);
-                    });
-                }
-
-                // 显示/隐藏无结果提示
-                const matchCount = songListInstance.matchingItems.length;
-                console.log('✅ 匹配结果数：', matchCount);
-                emptyMsg.style.display = matchCount === 0 ? 'block' : 'none';
-
-                // 强制刷新分页（适配大数据量）
-                songListInstance.page = matchCount > 50 ? 50 : matchCount;
-                songListInstance.update();
-            }
-
-            // 绑定回车事件（防丢失）
-            searchInput.addEventListener('keydown', (e) => {
-                if (e.key === 'Enter' || e.keyCode === 13) {
-                    e.preventDefault();
-                    handleSearch();
-                    searchInput.focus();
-                }
-            });
-
-            // 绑定搜索按钮点击事件
-            searchBtn.addEventListener('click', function() {
-                handleSearch();
-                searchInput.blur();
-                setTimeout(() => searchInput.focus(), 100);
-            });
-
-            // 实时输入搜索（优化：加防抖，避免频繁触发）
-            let searchTimer = null;
-            searchInput.addEventListener('input', function() {
-                clearTimeout(searchTimer);
-                searchTimer = setTimeout(handleSearch, 300); // 300ms防抖
-            });
-
-            // 初始显示所有歌曲
-            setTimeout(handleSearch, 1000);
-        }
-
-        // 4. 动态加载单个JS数据文件
+        // 1. 加载单个JS数据文件
         function loadScript(url) {
             return new Promise((resolve, reject) => {
                 const script = document.createElement('script');
                 script.src = url;
                 script.onload = resolve;
-                script.onerror = reject;
+                script.onerror = () => reject(new Error(`加载文件失败：${url}`));
                 document.body.appendChild(script);
             });
         }
 
-        // 5. 主流程：加载索引→加载数据→初始化列表（修复空指针）
+        // 2. 渲染歌曲列表（原生JS，无List.js依赖）
+        function renderSongList(data) {
+            const songListEl = document.getElementById('song-list');
+            songListEl.innerHTML = ''; // 清空原有内容
+
+            // 计算当前页显示的数据
+            const start = (currentPage - 1) * PAGE_SIZE;
+            const end = start + PAGE_SIZE;
+            const pageData = data.slice(start, end);
+
+            // 渲染当前页数据
+            if (pageData.length === 0) {
+                document.getElementById('empty-msg').style.display = 'block';
+            } else {
+                document.getElementById('empty-msg').style.display = 'none';
+                pageData.forEach(item => {
+                    const li = document.createElement('li');
+                    li.className = 'song-item';
+                    li.innerHTML = `
+                        <div class="song-info">
+                            <div class="song-title">${item.title || '未知歌曲'}</div>
+                            <div class="song-meta">
+                                歌手：${item.artist || '未知'} / 
+                                合集：${item.collection || '未知'} / 
+                                UP主：${item.up || '未知'}
+                            </div>
+                        </div>
+                        <div class="song-link">
+                            <a href="${item.link || '#'}" target="_blank">直达B站</a>
+                        </div>
+                    `;
+                    songListEl.appendChild(li);
+                });
+            }
+
+            // 渲染分页
+            renderPagination(data.length);
+        }
+
+        // 3. 渲染分页控件
+        function renderPagination(total) {
+            const paginationEl = document.getElementById('pagination');
+            paginationEl.innerHTML = '';
+
+            const totalPages = Math.ceil(total / PAGE_SIZE);
+            if (totalPages <= 1) return; // 只有1页，不显示分页
+
+            // 上一页按钮
+            const prevBtn = document.createElement('button');
+            prevBtn.className = `page-btn ${currentPage === 1 ? 'disabled' : ''}`;
+            prevBtn.textContent = '上一页';
+            prevBtn.onclick = () => {
+                if (currentPage > 1) {
+                    currentPage--;
+                    renderSongList(filteredData);
+                }
+            };
+            paginationEl.appendChild(prevBtn);
+
+            // 页码按钮（只显示当前页前后3页，避免页码过多）
+            const startPage = Math.max(1, currentPage - 3);
+            const endPage = Math.min(totalPages, currentPage + 3);
+            for (let i = startPage; i <= endPage; i++) {
+                const pageBtn = document.createElement('button');
+                pageBtn.className = `page-btn ${i === currentPage ? 'active' : ''}`;
+                pageBtn.textContent = i;
+                pageBtn.onclick = () => {
+                    currentPage = i;
+                    renderSongList(filteredData);
+                };
+                paginationEl.appendChild(pageBtn);
+            }
+
+            // 下一页按钮
+            const nextBtn = document.createElement('button');
+            nextBtn.className = `page-btn ${currentPage === totalPages ? 'disabled' : ''}`;
+            nextBtn.textContent = '下一页';
+            nextBtn.onclick = () => {
+                if (currentPage < totalPages) {
+                    currentPage++;
+                    renderSongList(filteredData);
+                }
+            };
+            paginationEl.appendChild(nextBtn);
+        }
+
+        // 4. 搜索过滤逻辑（原生JS，中文模糊匹配）
+        function handleSearch() {
+            const keyword = document.getElementById('search-input').value.trim().toLowerCase();
+            currentPage = 1; // 搜索后重置到第一页
+
+            // 过滤数据
+            if (keyword) {
+                filteredData = window.SONG_DATA.filter(item => {
+                    const title = (item.title || '').toLowerCase();
+                    const artist = (item.artist || '').toLowerCase();
+                    const collection = (item.collection || '').toLowerCase();
+                    const up = (item.up || '').toLowerCase();
+                    return title.includes(keyword) || artist.includes(keyword) || collection.includes(keyword) || up.includes(keyword);
+                });
+            } else {
+                filteredData = [...window.SONG_DATA]; // 显示所有数据
+            }
+
+            console.log(`🔍 搜索结果：${filteredData.length} 条`);
+            renderSongList(filteredData);
+        }
+
+        // 5. 初始化搜索事件（回车+点击）
+        function initSearch() {
+            const searchInput = document.getElementById('search-input');
+            const searchBtn = document.getElementById('search-btn');
+
+            // 回车事件
+            searchInput.addEventListener('keydown', (e) => {
+                if (e.key === 'Enter' || e.keyCode === 13) {
+                    e.preventDefault();
+                    handleSearch();
+                }
+            });
+
+            // 点击事件
+            searchBtn.addEventListener('click', handleSearch);
+
+            // 实时搜索（防抖）
+            let searchTimer = null;
+            searchInput.addEventListener('input', () => {
+                clearTimeout(searchTimer);
+                searchTimer = setTimeout(handleSearch, 300);
+            });
+        }
+
+        // 6. 主流程：加载数据→初始化
         async function bootstrap() {
             try {
-                // 加载index.json清单
-                const response = await fetch('data/index.json');
-                if (!response.ok) throw new Error(`加载索引失败（状态码：${response.status}）`);
-                const config = await response.json();
+                // 加载index.json
+                const res = await fetch('data/index.json');
+                if (!res.ok) throw new Error(`加载索引失败（状态码：${res.status}）`);
+                const config = await res.json();
                 const files = config.files || [];
 
                 if (files.length === 0) throw new Error('index.json中无数据文件配置');
 
-                // 批量加载所有数据JS文件
-                const loadPromises = files.map(filename => loadScript(`data/${filename}`));
-                await Promise.all(loadPromises);
+                // 批量加载数据JS
+                const progressMsg = document.getElementById('progress-msg');
+                let loadedCount = 0;
+                for (const file of files) {
+                    await loadScript(`data/${file}`);
+                    loadedCount++;
+                    progressMsg.textContent = `📥 正在加载歌库（${loadedCount}/${files.length}个文件）...`;
+                }
 
-                console.log(`✅ 数据文件加载完成，总歌曲数：${window.SONG_DATA.length}`);
+                // 加载完成
+                progressMsg.textContent = `✅ 歌库加载完成，总歌曲数：${window.SONG_DATA.length}`;
+                filteredData = [...window.SONG_DATA]; // 初始化过滤数据为全部
 
-                // 初始化列表（核心：数据加载完再初始化List.js）
-                initList();
+                // 初始化搜索+渲染列表
+                initSearch();
+                renderSongList(filteredData);
 
             } catch (error) {
                 console.error('❌ 启动失败：', error);
-                // 修复空指针：先判断元素是否存在再修改
                 const progressMsg = document.getElementById('progress-msg');
-                if (progressMsg) {
-                    progressMsg.textContent = `❌ 加载失败：${error.message}`;
-                    progressMsg.style.color = '#dc3545';
-                }
-                // 兼容loading-msg
-                const loadingMsg = document.getElementById('loading-msg');
-                if (loadingMsg) {
-                    loadingMsg.style.display = 'block';
-                    loadingMsg.innerText = `❌ 加载失败：${error.message}`;
-                }
+                progressMsg.className = 'progress-msg error-msg';
+                progressMsg.textContent = `❌ 加载失败：${error.message}`;
             }
         }
 
