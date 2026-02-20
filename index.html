@@ -6,7 +6,12 @@
     <title>歌曲查询站 - B站分P直达</title>
     <style>
         body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; max-width: 1000px; margin: 0 auto; padding: 20px; }
-        h1 { text-align: center; color: #333; margin-bottom: 30px; }
+        h1 { text-align: center; color: #333; margin-bottom: 10px; }
+        /* 新增：转换器按钮的样式 */
+        .nav-btn-container { text-align: center; margin-bottom: 30px; }
+        .nav-btn { padding: 8px 16px; background-color: #28a745; color: white; text-decoration: none; border-radius: 4px; font-size: 14px; display: inline-block; }
+        .nav-btn:hover { background-color: #218838; }
+        
         #search-input { width: 100%; padding: 15px; font-size: 18px; box-sizing: border-box; border: 2px solid #ddd; border-radius: 8px; margin-bottom: 20px; }
         .list { list-style: none; padding: 0; }
         .item { padding: 15px; border-bottom: 1px solid #eee; display: flex; justify-content: space-between; align-items: center; }
@@ -16,56 +21,73 @@
         .meta { font-size: 14px; color: #666; }
         .link a { padding: 8px 16px; background-color: #00a1d6; color: white; text-decoration: none; border-radius: 4px; font-size: 14px; }
         .link a:hover { background-color: #008ebf; }
-        .no-results { text-align: center; color: #999; padding: 40px; font-size: 16px; }
+        .no-results, .loading { text-align: center; color: #999; padding: 40px; font-size: 16px; }
     </style>
 </head>
 <body>
 
-    <h1>🎵 歌曲查询站</h1>
+    <h1>🎵 我的已切歌曲查询站</h1>
+    
+    <!-- 新增：快捷导航区 -->
+    <div class="nav-btn-container">
+        <a href="converter.html" target="_blank" class="nav-btn">
+            🔄 打开歌单数据转换器
+        </a>
+    </div>
+
     <input type="text" id="search-input" placeholder="输入歌名、歌手名、合集名或UP主搜索...">
 
     <ul class="list" id="song-list">
-        <!-- 这里的歌曲数据会通过JavaScript自动生成 -->
+        <!-- 歌曲数据通过JavaScript自动生成 -->
     </ul>
 
+    <!-- 引入 list.js 库 -->
     <script src="//cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
+
+    <!-- ========================================== -->
+    <!-- 重要：在这里引入你的数据文件！！！          -->
+    <!-- 未来有了新歌手，就在这里加一行新的 script  -->
+    <!-- ========================================== -->
+    <script src="data/naraetan.js"></script>
+    <!-- 示例：<script src="data/another-singer.js"></script> -->
+
     <script>
-        // ==========================================
-        // 在这里替换你的歌曲数据！！！
-        // 格式：{ title: "歌名", artist: "歌手名", collection: "合集名", up: "UP主", link: "B站分P链接" }
-        // 注意：最后一条数据后面不要加逗号
-        // ==========================================
-        var songData = [
-            { title: "愛をとりもどせ!!", artist: "クリスタルキング", collection: "外国人が歌う昭和の名曲", up: "なれたん Naraetan Ch.", link: "https://www.bilibili.com/video/BV1hRZPB5EDD?p=1" },
-            { title: "ペガサス幻想", artist: "MAKE-UP", collection: "外国人が歌う昭和の名曲", up: "なれたん Naraetan Ch.", link: "https://www.bilibili.com/video/BV1hRZPB5EDD?p=2" },
-            { title: "シルエット", artist: "KANA-BOON", collection: "高評価300まで歌い続ける!", up: "なれたん Naraetan Ch.", link: "https://www.bilibili.com/video/BV1jxZABLEWJ?p=1" },
-            { title: "お気に召すまま", artist: "Eve", collection: "高評価300まで歌い続ける!", up: "なれたん Naraetan Ch.", link: "https://www.bilibili.com/video/BV1jxZABLEWJ?p=2" }
-            // 在这里继续添加你的更多歌曲...
-        ];
+        // 初始化列表的函数
+        function initSongList() {
+            // 获取所有汇总的数据 (如果没有数据则默认为空数组)
+            var allSongs = window.SONG_DATA || [];
 
-        // 初始化列表
-        var options = {
-            valueNames: [ 'title', 'artist', 'collection', 'up', { data: ['link'] } ],
-            item: '<li class="item">' +
-                    '<div class="info">' +
-                        '<div class="title"></div>' +
-                        '<div class="meta"><span class="artist"></span> / <span class="collection"></span> / UP: <span class="up"></span></div>' +
-                    '</div>' +
-                    '<div class="link"><a class="link-btn" target="_blank">直达B站</a></div>' +
-                  '</li>'
-        };
+            var options = {
+                valueNames: [ 'title', 'artist', 'collection', 'up', { data: ['link'] } ],
+                item: '<li class="item">' +
+                        '<div class="info">' +
+                            '<div class="title"></div>' +
+                            '<div class="meta"><span class="artist"></span> / <span class="collection"></span> / UP: <span class="up"></span></div>' +
+                        '</div>' +
+                        '<div class="link"><a class="link-btn" target="_blank">直达B站</a></div>' +
+                      '</li>'
+            };
 
-        var songList = new List('song-list', options);
-        songList.add(songData);
+            var songList = new List('song-list', options);
+            songList.add(allSongs);
 
-        // 绑定链接点击
-        var listContainer = document.getElementById('song-list');
-        listContainer.addEventListener('click', function(event) {
-            if (event.target.classList.contains('link-btn')) {
-                var item = event.target.closest('.item');
-                var values = songList.get('item', item)[0].values();
-                window.open(values.link, '_blank');
-            }
+            // 绑定链接点击事件
+            var listContainer = document.getElementById('song-list');
+            listContainer.addEventListener('click', function(event) {
+                if (event.target.classList.contains('link-btn')) {
+                    var item = event.target.closest('.item');
+                    // 使用 List.js 的 API 获取对应的数据
+                    var values = songList.get('item', item)[0].values();
+                    window.open(values.link, '_blank');
+                }
+            });
+        }
+
+        // 等待页面 DOM 结构加载完成后执行
+        document.addEventListener('DOMContentLoaded', function() {
+            // 稍微延迟一点点执行，确保 data.js 加载完毕
+            // (通常 script 标签按顺序写是不需要的，但加个保险更稳妥)
+            setTimeout(initSongList, 50);
         });
     </script>
 </body>
