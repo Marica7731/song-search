@@ -73,6 +73,35 @@
         .filter-btn.clear:hover {
             background: #c82333;
         }
+        /* 【新增】搜索字段选择区域样式 */
+        .search-field-bar {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            padding: 10px;
+            background: #e9ecef;
+            border-radius: 8px;
+            align-items: center;
+        }
+        .search-field-label {
+            font-size: 14px;
+            color: #333;
+            font-weight: bold;
+            white-space: nowrap;
+        }
+        .search-field-option {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            cursor: pointer;
+            font-size: 14px;
+            user-select: none;
+        }
+        .search-field-option input[type="checkbox"] {
+            width: 16px;
+            height: 16px;
+            cursor: pointer;
+        }
         .search-container { 
             display: flex; 
             gap: 10px; 
@@ -201,10 +230,26 @@
             <span class="filter-label">🔍 按歌手/来源筛选：</span>
         </div>
 
+        <!-- 【新增1】搜索字段选择区域 -->
+        <div class="search-field-bar" id="search-field-bar">
+            <span class="search-field-label">📌 搜索范围：</span>
+            <label class="search-field-option">
+                <input type="checkbox" id="search-title" checked>
+                <span>歌名</span>
+            </label>
+            <label class="search-field-option">
+                <input type="checkbox" id="search-artist" checked>
+                <span>歌手</span>
+            </label>
+            <label class="search-field-option">
+                <input type="checkbox" id="search-collection" checked>
+                <span>合集</span>
+            </label>
+        </div>
+
         <div class="search-container">
-            <!-- 【修改1】搜索框提示词去掉“或UP主” -->
-            <input type="text" id="search-input" placeholder="输入歌名、歌手名或合集名搜索...">
-            <button id="search-btn">🔍 全局搜索</button>
+            <input type="text" id="search-input" placeholder="输入关键词搜索...">
+            <button id="search-btn">🔍 搜索</button>
         </div>
     </div>
 
@@ -224,6 +269,15 @@
         let activeSource = 'all';
         const fileNames = [];
         let FILE_TO_ALIAS = {};
+
+        // 【新增2】获取当前勾选的搜索字段
+        function getActiveSearchFields() {
+            return {
+                title: document.getElementById('search-title').checked,
+                artist: document.getElementById('search-artist').checked,
+                collection: document.getElementById('search-collection').checked
+            };
+        }
 
         function loadScriptsParallel(fileList) {
             const progressMsg = document.getElementById('progress-msg');
@@ -318,6 +372,7 @@
             updateFilterAndSearch();
         }
 
+        // 【修改3】搜索逻辑重写，支持勾选字段
         function updateFilterAndSearch() {
             if (activeSource === 'all') {
                 filteredBySource = [...originalData];
@@ -326,14 +381,32 @@
             }
 
             const keyword = document.getElementById('search-input').value.trim().toLowerCase();
-            if (keyword) {
+            const fields = getActiveSearchFields();
+
+            // 如果没有勾选任何字段，提示用户并显示全部
+            if (!fields.title && !fields.artist && !fields.collection) {
+                filteredBySearch = [...filteredBySource];
+            } else if (keyword) {
                 filteredBySearch = filteredBySource.filter(item => {
-                    const title = (item.title || '').toLowerCase();
-                    const artist = (item.artist || '').toLowerCase();
-                    const collection = (item.collection || '').toLowerCase();
-                    const up = (item.up || '').toLowerCase();
-                    // 【保留】搜索依然包含UP主，只是不显示
-                    return title.includes(keyword) || artist.includes(keyword) || collection.includes(keyword) || up.includes(keyword);
+                    let match = false;
+                    
+                    // 根据勾选的字段进行匹配
+                    if (fields.title) {
+                        const title = (item.title || '').toLowerCase();
+                        if (title.includes(keyword)) match = true;
+                    }
+                    
+                    if (!match && fields.artist) {
+                        const artist = (item.artist || '').toLowerCase();
+                        if (artist.includes(keyword)) match = true;
+                    }
+                    
+                    if (!match && fields.collection) {
+                        const collection = (item.collection || '').toLowerCase();
+                        if (collection.includes(keyword)) match = true;
+                    }
+                    
+                    return match;
                 });
             } else {
                 filteredBySearch = [...filteredBySource];
@@ -370,7 +443,6 @@
                     
                     const li = document.createElement('li');
                     li.className = 'song-item';
-                    // 【修改2】移除UP主显示
                     li.innerHTML = `
                         <div class="song-info">
                             <div class="song-title">${item.title || '未知歌曲'}</div>
@@ -432,6 +504,22 @@
             paginationEl.appendChild(nextBtn);
         }
 
+        // 【新增4】初始化搜索字段勾选事件
+        function initSearchFieldCheckboxes() {
+            const checkboxes = [
+                document.getElementById('search-title'),
+                document.getElementById('search-artist'),
+                document.getElementById('search-collection')
+            ];
+            
+            checkboxes.forEach(cb => {
+                cb.addEventListener('change', () => {
+                    currentPage = 1;
+                    updateFilterAndSearch();
+                });
+            });
+        }
+
         function initSearch() {
             const searchInput = document.getElementById('search-input');
             const searchBtn = document.getElementById('search-btn');
@@ -479,6 +567,7 @@
                 filteredBySearch = [...originalData];
 
                 generateFilterButtons();
+                initSearchFieldCheckboxes(); // 初始化搜索字段勾选
                 initSearch();
                 updateStats();
                 renderSongList(filteredBySearch);
