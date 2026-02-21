@@ -1,12 +1,12 @@
 // 稀羽すう Suu_Usuwa - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1ve411z7Nm
-// 生成时间: 2/21/2026, 6:14:42 AM
+// 生成时间: 2/21/2026, 6:32:06 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
     {
-  "title": "1涙そうそう  夏川りみ",
+  "title": "涙そうそう  夏川りみ",
   "artist": "前尘往事如昔故",
   "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
