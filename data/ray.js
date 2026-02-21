@@ -1,6 +1,6 @@
 // 來-Ray- - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1mJZwB8EVa
-// 生成时间: 2/21/2026, 12:28:39 PM
+// 生成时间: 2/21/2026, 2:19:22 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -487,7 +487,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ラズライト",
-  "artist": "Luna  [2025-08-07]  [HPallUOMLOw]",
+  "artist": "*Luna  [2025-08-07]  [HPallUOMLOw]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mJZwB8EVa?p=61",
@@ -503,7 +503,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "エピローグ",
-  "artist": "Luna  [2025-08-07]  [HPallUOMLOw]",
+  "artist": "*Luna  [2025-08-07]  [HPallUOMLOw]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mJZwB8EVa?p=63",

@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1p1zBBCEZ3
-// 生成时间: 2/21/2026, 12:29:53 PM
+// 生成时间: 2/21/2026, 2:20:04 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3078,176 +3078,176 @@ window.SONG_DATA.push(
   "source": "yoshika.js"
 },
     {
-  "title": "1- 002251 ウィーアー!きただにひろし",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ウィーアー!",
+  "artist": "きただにひろし",
   "collection": "【22首横屏】【Yoshika歌切合集】2024年2月9日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ru4m1P7J9?p=1",
   "source": "yoshika.js"
 },
     {
-  "title": "2- 003049 十六夜涙吉岡亜衣加",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "十六夜涙",
+  "artist": "吉岡亜衣加",
   "collection": "【22首横屏】【Yoshika歌切合集】2024年2月9日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ru4m1P7J9?p=2",
   "source": "yoshika.js"
 },
     {
-  "title": "3- 003715 残響散歌Aimer",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "残響散歌",
+  "artist": "Aimer",
   "collection": "【22首横屏】【Yoshika歌切合集】2024年2月9日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ru4m1P7J9?p=3",
   "source": "yoshika.js"
 },
     {
-  "title": "4- 004324 金曜日のおはようHoneyWorks feat. Gero",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "金曜日のおはよう",
+  "artist": "HoneyWorks feat. Gero",
   "collection": "【22首横屏】【Yoshika歌切合集】2024年2月9日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ru4m1P7J9?p=4",
   "source": "yoshika.js"
 },
     {
-  "title": "5- 005018 99ILLUSION！スタァライト九九組",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "99ILLUSION!",
+  "artist": "スタァライト九九組",
   "collection": "【22首横屏】【Yoshika歌切合集】2024年2月9日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ru4m1P7J9?p=5",
   "source": "yoshika.js"
 },
     {
-  "title": "6- 005600 美少女無罪♡パイレーツホロライブ宝鐘マリン",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "美少女無罪♡パイレーツ",
+  "artist": "ホロライブ宝鐘マリン",
   "collection": "【22首横屏】【Yoshika歌切合集】2024年2月9日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ru4m1P7J9?p=6",
   "source": "yoshika.js"
 },
     {
-  "title": "7- 010212 小悪魔だってかまわない！HoneyWorks feat. 初音ミク",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "小悪魔だってかまわない!",
+  "artist": "HoneyWorks feat. 初音ミク",
   "collection": "【22首横屏】【Yoshika歌切合集】2024年2月9日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ru4m1P7J9?p=7",
   "source": "yoshika.js"
 },
     {
-  "title": "8- 010805 粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "粛聖!! ロリ神レクイエム☆",
+  "artist": "しぐれうい(9さい)",
   "collection": "【22首横屏】【Yoshika歌切合集】2024年2月9日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ru4m1P7J9?p=8",
   "source": "yoshika.js"
 },
     {
-  "title": "9- 011414 Mela!緑黄色社会",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Mela!",
+  "artist": "緑黄色社会",
   "collection": "【22首横屏】【Yoshika歌切合集】2024年2月9日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ru4m1P7J9?p=9",
   "source": "yoshika.js"
 },
     {
-  "title": "10- 011926 Suspectホロライブロボ子アキ・ローゼンタール百鬼あやめ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Suspect",
+  "artist": "ホロライブロボ子アキ・ローゼンタール百鬼あやめ",
   "collection": "【22首横屏】【Yoshika歌切合集】2024年2月9日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ru4m1P7J9?p=10",
   "source": "yoshika.js"
 },
     {
-  "title": "11- 012602 花に亡霊ヨルシカ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
   "collection": "【22首横屏】【Yoshika歌切合集】2024年2月9日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ru4m1P7J9?p=11",
   "source": "yoshika.js"
 },
     {
-  "title": "12- 013138 花は咲く花は咲くプロジェクト",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "花は咲く",
+  "artist": "花は咲くプロジェクト",
   "collection": "【22首横屏】【Yoshika歌切合集】2024年2月9日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ru4m1P7J9?p=12",
   "source": "yoshika.js"
 },
     {
-  "title": "13- 013820 ゴッド・ヘルプノートルダムの鐘",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ゴッド・ヘルプ",
+  "artist": "ノートルダムの鐘",
   "collection": "【22首横屏】【Yoshika歌切合集】2024年2月9日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ru4m1P7J9?p=13",
   "source": "yoshika.js"
 },
     {
-  "title": "14- 014457 Amazing GraceIL DIVO",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Amazing Grace",
+  "artist": "IL DIVO",
   "collection": "【22首横屏】【Yoshika歌切合集】2024年2月9日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ru4m1P7J9?p=14",
   "source": "yoshika.js"
 },
     {
-  "title": "15- 015100 祝福YOASOBI",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "祝福",
+  "artist": "YOASOBI",
   "collection": "【22首横屏】【Yoshika歌切合集】2024年2月9日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ru4m1P7J9?p=15",
   "source": "yoshika.js"
 },
     {
-  "title": "16- 021253 エンジョイMey-chan",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "エンジョイ",
+  "artist": "Mey-chan",
   "collection": "【22首横屏】【Yoshika歌切合集】2024年2月9日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ru4m1P7J9?p=16",
   "source": "yoshika.js"
 },
     {
-  "title": "17- 021731 渡月橋～君想ふ～倉木麻衣",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "渡月橋～君想ふ～",
+  "artist": "倉木麻衣",
   "collection": "【22首横屏】【Yoshika歌切合集】2024年2月9日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ru4m1P7J9?p=17",
   "source": "yoshika.js"
 },
     {
-  "title": "18- 022350 光るならGoose house",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "光るなら",
+  "artist": "Goose house",
   "collection": "【22首横屏】【Yoshika歌切合集】2024年2月9日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ru4m1P7J9?p=18",
   "source": "yoshika.js"
 },
     {
-  "title": "19- 022952 オーケストラBiSH",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "オーケストラ",
+  "artist": "BiSH",
   "collection": "【22首横屏】【Yoshika歌切合集】2024年2月9日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ru4m1P7J9?p=19",
   "source": "yoshika.js"
 },
     {
-  "title": "20- 023727 ドールズなつめ千秋",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ドールズ",
+  "artist": "なつめ千秋",
   "collection": "【22首横屏】【Yoshika歌切合集】2024年2月9日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ru4m1P7J9?p=20",
   "source": "yoshika.js"
 },
     {
-  "title": "21- 024833 ダイアの花より子",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ダイアの花",
+  "artist": "より子",
   "collection": "【22首横屏】【Yoshika歌切合集】2024年2月9日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ru4m1P7J9?p=21",
   "source": "yoshika.js"
 },
     {
-  "title": "22- 025313 世界に一つだけの花SMAP",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "世界に一つだけの花",
+  "artist": "SMAP",
   "collection": "【22首横屏】【Yoshika歌切合集】2024年2月9日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ru4m1P7J9?p=22",

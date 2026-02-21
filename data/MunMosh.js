@@ -1,6 +1,6 @@
 // むんもっしゅ - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1UCkhBkEon
-// 生成时间: 2/21/2026, 12:32:59 PM
+// 生成时间: 2/21/2026, 2:21:36 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -510,7 +510,7 @@ window.SONG_DATA.push(
   "source": "MunMosh.js"
 },
     {
-  "title": "16 -out of the gravity",
+  "title": "1／6 -out of the gravity",
   "artist": "ぼーかりおどP",
   "collection": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "up": "前尘往事如昔故",
@@ -830,7 +830,7 @@ window.SONG_DATA.push(
   "source": "MunMosh.js"
 },
     {
-  "title": "16 -out of the gravity",
+  "title": "1／6 -out of the gravity",
   "artist": "ぼーかりおどP",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
@@ -2654,7 +2654,7 @@ window.SONG_DATA.push(
   "source": "MunMosh.js"
 },
     {
-  "title": "12",
+  "title": "1／2",
   "artist": "川本真琴",
   "collection": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "up": "前尘往事如昔故",

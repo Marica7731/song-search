@@ -1,6 +1,6 @@
 // Figaro - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1HRfuBCEXN
-// 生成时间: 2/21/2026, 12:27:24 PM
+// 生成时间: 2/21/2026, 2:18:08 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3679,7 +3679,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "8.32",
-  "artist": "Luna",
+  "artist": "*Luna",
   "collection": "【240529 Figaro】20】#13 星期三定期歌枠 斜陽、左右盲、夜に駆ける",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ss42137Km?p=18",
@@ -3719,7 +3719,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アトラクトライト",
-  "artist": "Luna",
+  "artist": "*Luna",
   "collection": "【240531】【 Figaro】20竖屏】午后轻松歌唱😘幽霊東京、雛鳥 、花瓶に触れた、アディオス",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qw4m1i7Rw?p=3",
@@ -7303,7 +7303,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "8.32",
-  "artist": "Luna",
+  "artist": "*Luna",
   "collection": "【Figaro】夏の終 22】朱色の砂浜、快晴、Alice in 冷凍庫、コバルトメモリーズ、青と夏【240831】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MStrefEyC?p=15",
@@ -19911,7 +19911,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アトラクトライト",
-  "artist": "Luna",
+  "artist": "*Luna",
   "collection": "【Figaro】高評価1000行くまで終われません🔥耐久歌配信！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PznjzWEnt?p=16",
