@@ -13,5 +13,20 @@
     "nayuta-daily.js",
     "MunMosh.js",
     "others.js"
-  ]
+  ],
+  "fileToAlias": {
+    "naraetan": "なれたん Naraetan",
+    "figaro": "Figaro",
+    "ririsya": "凛凛咲 ririsya",
+    "suu_usuwa": "稀羽すう Suu_Usuwa",
+    "ray": "來-Ray-",
+    "sakusan": "酢酸 / SAKUSAN",
+    "yoshika": "よしか YOSHIKA",
+    "yuri": "優莉 yuri",
+    "otomoneruki": "音門るき",
+    "nayuta-piano-live": "nayuta生演奏",
+    "nayuta-daily": "nayuta日常",
+    "MunMosh": "むんもっしゅ",
+    "others": "其他歌手"
+  }
 }
