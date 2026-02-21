@@ -555,16 +555,26 @@
             }
         }
 
-        // 生成搜索结果文本（核心修改：歌手为空时省略-歌手部分）
+        // ========== 关键修改1：新增判断有效歌手的函数 ==========
+        function isValidArtist(artist) {
+            // 无效歌手的判断条件：
+            // 1. 为空/undefined/null/空字符串
+            // 2. 包含"来源处未提供标准格式歌手"提示文字
+            if (!artist || artist.trim() === '') return false;
+            if (artist.includes('来源处未提供标准格式歌手')) return false;
+            return true;
+        }
+
+        // 生成搜索结果文本（核心修改：使用isValidArtist判断）
         function generateSearchResultText() {
             if (filteredBySearch.length === 0) return '';
             
             return filteredBySearch.map(item => {
                 const title = item.title || '未知歌曲';
-                const artist = item.artist?.trim(); // 去除空格，兼容空字符串/undefined
+                const artist = item.artist?.trim();
                 const link = item.link || '无链接';
-                // 有歌手则保留「- 歌手」，无歌手直接省略
-                return artist ? `${title} - ${artist}（${link}）` : `${title}（${link}）`;
+                // 仅当歌手有效时才保留「- 歌手」
+                return isValidArtist(artist) ? `${title} - ${artist}（${link}）` : `${title}（${link}）`;
             }).join('\n');
         }
 
@@ -753,8 +763,9 @@
                         <button class="copy-btn" data-type="title">📋</button>
                     </div>`;
                     
-                    // 歌手+复制按钮
-                    const artistHtml = item.artist 
+                    // ========== 关键修改2：仅当歌手有效时才渲染歌手区域 ==========
+                    // 歌手+复制按钮（仅有效歌手才显示）
+                    const artistHtml = isValidArtist(item.artist) 
                         ? `<div class="copy-wrapper">
                             <span class="song-artist-inline">
                                 <span class="artist-tag">歌手</span>${item.artist}
@@ -803,7 +814,7 @@
                         titleCopyBtn.onclick = () => copyToClipboard(item.title || '未知歌曲');
                     }
                     
-                    // 复制歌手
+                    // 复制歌手（仅当按钮存在时绑定）
                     const artistCopyBtn = li.querySelector('[data-type="artist"]');
                     if (artistCopyBtn) {
                         artistCopyBtn.onclick = () => copyToClipboard(item.artist);
