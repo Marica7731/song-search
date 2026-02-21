@@ -220,12 +220,16 @@
             transform: translateY(-2px);
             box-shadow: 0 8px 20px rgba(0,0,0,0.08);
         }
-        .song-info { flex: 1; min-width: 220px; }
+        .song-info { 
+            flex: 1; 
+            min-width: 220px;
+            position: relative; /* 新增：为复制图标绝对定位做准备 */
+        }
         /* 歌名+歌手+迷你复制图标 */
         .song-title-row {
             display: flex;
             align-items: center;
-            gap: 8px;
+            gap: 20px; /* 增大间距：拉开歌名和歌手的距离 */
             margin-bottom: 8px;
             flex-wrap: wrap;
         }
@@ -241,25 +245,43 @@
             font-weight: 400;
             white-space: nowrap;
         }
-        /* 【修改1】迷你复制图标按钮：仅图标、字体一半大小、淡色 */
+        /* 新增：歌手标签样式 */
+        .singer-tag {
+            font-size: 12px;
+            color: #adb5bd; /* 浅灰色 */
+            margin-right: 4px;
+            font-weight: 400;
+        }
+        /* 【修改1】迷你复制图标按钮：调整为右上角定位、更小尺寸 */
         .copy-btn {
             padding: 0;
             margin: 0;
             background: transparent;
             border: none;
             color: #adb5bd;
-            font-size: 0.5em; /* 字体一半大小 */
+            font-size: 0.4em; /* 更小的尺寸 */
             cursor: pointer;
             transition: all 0.2s ease;
             line-height: 1;
             display: inline-flex;
             align-items: center;
             justify-content: center;
+            /* 新增：绝对定位到右上角 */
+            position: absolute;
+            top: 0;
+            right: 0;
+            transform: translateY(-50%); /* 垂直居中微调 */
+            z-index: 1;
         }
+        /* 调整复制图标hover效果 */
         .copy-btn:hover {
             color: #00a1d6;
-            transform: scale(1.2);
+            transform: translateY(-50%) scale(1.2); /* 保持定位的同时放大 */
         }
+        /* 区分不同类型的复制图标位置 */
+        .copy-btn.title-copy { top: 0; right: 0; }
+        .copy-btn.artist-copy { top: 0; right: 20px; }
+        .copy-btn.collection-copy { top: 30px; right: 0; }
         .song-meta { 
             font-size: 14px; 
             color: #6c757d; 
@@ -275,7 +297,7 @@
             margin-top: 6px;
             font-weight: 500;
         }
-        /* 右侧按钮组：统一尺寸、精简样式 */
+        /* 右侧按钮组：统一尺寸、精简样式（移除BBDOWN相关） */
         .song-actions {
             display: flex;
             flex-direction: column;
@@ -301,25 +323,6 @@
         .song-link a:hover { 
             transform: translateY(-1px);
             box-shadow: 0 4px 12px rgba(0, 161, 214, 0.35);
-        }
-        /* 【修改2】精简BBDown按钮：缩小尺寸、统一风格 */
-        .bbdown-btn {
-            padding: 8px 0;
-            width: 100%;
-            background: linear-gradient(135deg, #6f42c1 0%, #845ef7 100%);
-            color: white;
-            border: none;
-            border-radius: 8px;
-            font-size: 13px;
-            font-weight: 600;
-            cursor: pointer;
-            white-space: nowrap;
-            box-shadow: 0 2px 8px rgba(111, 66, 193, 0.25);
-            transition: all 0.3s ease;
-        }
-        .bbdown-btn:hover {
-            transform: translateY(-1px);
-            box-shadow: 0 4px 12px rgba(111, 66, 193, 0.35);
         }
         /* 【新增】复制成功泡泡提示 */
         .copy-toast {
@@ -644,7 +647,7 @@
             statsMsg.textContent = `总歌曲数：${originalData.length} | 筛选后：${filteredBySource.length} | 搜索结果：${filteredBySearch.length}`;
         }
 
-        // 歌曲列表渲染：迷你复制图标+精简BBDown按钮
+        // 歌曲列表渲染：移除BBDOWN按钮、调整复制图标位置、增加歌手标签
         function renderSongList(data) {
             const songListEl = document.getElementById('song-list');
             songListEl.innerHTML = '';
@@ -662,39 +665,35 @@
                     const sourceAlias = FILE_TO_ALIAS[sourceBase] || item.source || '未知';
                     const isLinkValid = item.link && /BV\w+/.test(item.link);
                     
-                    // 歌名复制图标（无中文，仅📋）
+                    // 歌名复制图标（调整class定位）
                     const titleCopyBtn = item.title 
-                        ? `<button class="copy-btn" data-type="title">📋</button>` 
+                        ? `<button class="copy-btn title-copy" data-type="title">📋</button>` 
                         : '';
                     
-                    // 歌手复制图标（仅在有歌手时显示）
+                    // 歌手部分：增加浅色小标签，拉开间距
                     const artistHtml = item.artist 
-                        ? `<span class="song-artist-inline">${item.artist}</span>
-                           <button class="copy-btn" data-type="artist">📋</button>` 
+                        ? `<span class="singer-tag">歌手</span>
+                           <span class="song-artist-inline">${item.artist}</span>
+                           <button class="copy-btn artist-copy" data-type="artist">📋</button>` 
                         : '';
                     
-                    // 合集复制图标
+                    // 合集复制图标（调整class定位）
                     const collectionCopyBtn = item.collection 
-                        ? `<button class="copy-btn" data-type="collection">📋</button>` 
+                        ? `<button class="copy-btn collection-copy" data-type="collection">📋</button>` 
                         : '';
 
-                    // 右侧按钮组
+                    // 右侧按钮组：移除BBDOWN按钮
                     const linkHtml = isLinkValid 
                         ? `<div class="song-link"><a href="${item.link}" target="_blank">直达B站</a></div>` 
-                        : '';
-                    
-                    // BBDown按钮（精简尺寸）
-                    const bbdownBtn = isLinkValid 
-                        ? `<button class="bbdown-btn" data-url="${item.link}">BBDown</button>` 
                         : '';
 
                     const li = document.createElement('li');
                     li.className = 'song-item';
                     li.innerHTML = `
                         <div class="song-info">
+                            ${titleCopyBtn} <!-- 歌名复制图标移到song-info内顶部 -->
                             <div class="song-title-row">
                                 <div class="song-title">${item.title || '未知歌曲'}</div>
-                                ${titleCopyBtn}
                                 ${artistHtml}
                             </div>
                             <div class="song-meta">
@@ -705,7 +704,6 @@
                         </div>
                         <div class="song-actions">
                             ${linkHtml}
-                            ${bbdownBtn}
                         </div>
                     `;
                     
@@ -723,14 +721,6 @@
                     const collectionBtn = li.querySelector('[data-type="collection"]');
                     if (collectionBtn) {
                         collectionBtn.onclick = () => copyToClipboard(item.collection);
-                    }
-                    
-                    const bbdownBtnEl = li.querySelector('.bbdown-btn');
-                    if (bbdownBtnEl) {
-                        bbdownBtnEl.onclick = () => {
-                            const bbdownCmd = `BBDown ${item.link}`;
-                            copyToClipboard(bbdownCmd);
-                        };
                     }
                     
                     songListEl.appendChild(li);
