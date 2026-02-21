@@ -1,6 +1,6 @@
 // Figaro - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1HRfuBCEXN
-// 生成时间: 2/21/2026, 4:19:09 PM
+// 生成时间: 2/21/2026, 5:18:52 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -26635,6 +26635,126 @@ window.SONG_DATA.push(
   "collection": "[2026-02-18 竖屏]本日もお疲れ様でした！ [8fuFZqrFCq8【💐Figaro 歌切】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HRfuBCEXN?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "赤いスイートピー",
+  "artist": "松田聖子",
+  "collection": "【💐Figaro歌切 竖屏】[2026-02-21]3連休ですって...！？ぜひ聴いていってください！[JX_fIfAeRYs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XVfHBFECX?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "Squall",
+  "artist": "福山雅治",
+  "collection": "【💐Figaro歌切 竖屏】[2026-02-21]3連休ですって...！？ぜひ聴いていってください！[JX_fIfAeRYs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XVfHBFECX?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "fragile",
+  "artist": "Every Little Thing",
+  "collection": "【💐Figaro歌切 竖屏】[2026-02-21]3連休ですって...！？ぜひ聴いていってください！[JX_fIfAeRYs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XVfHBFECX?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "Hello, Again ～昔からある場所～",
+  "artist": "My Little Lover",
+  "collection": "【💐Figaro歌切 竖屏】[2026-02-21]3連休ですって...！？ぜひ聴いていってください！[JX_fIfAeRYs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XVfHBFECX?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "喜劇",
+  "artist": "星野源",
+  "collection": "【💐Figaro歌切 竖屏】[2026-02-21]3連休ですって...！？ぜひ聴いていってください！[JX_fIfAeRYs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XVfHBFECX?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "SUN",
+  "artist": "星野源",
+  "collection": "【💐Figaro歌切 竖屏】[2026-02-21]3連休ですって...！？ぜひ聴いていってください！[JX_fIfAeRYs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XVfHBFECX?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【💐Figaro歌切 竖屏】[2026-02-21]3連休ですって...！？ぜひ聴いていってください！[JX_fIfAeRYs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XVfHBFECX?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【💐Figaro歌切 竖屏】[2026-02-21]3連休ですって...！？ぜひ聴いていってください！[JX_fIfAeRYs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XVfHBFECX?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "新時代",
+  "artist": "Ado",
+  "collection": "【💐Figaro歌切 竖屏】[2026-02-21]3連休ですって...！？ぜひ聴いていってください！[JX_fIfAeRYs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XVfHBFECX?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "アンノウン・マザーグース",
+  "artist": "wowaka",
+  "collection": "【💐Figaro歌切 竖屏】[2026-02-21]3連休ですって...！？ぜひ聴いていってください！[JX_fIfAeRYs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XVfHBFECX?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "ライカ",
+  "artist": "yamada",
+  "collection": "【💐Figaro歌切 竖屏】[2026-02-21]3連休ですって...！？ぜひ聴いていってください！[JX_fIfAeRYs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XVfHBFECX?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "ナイトルーティーン",
+  "artist": "キタニタツヤ",
+  "collection": "【💐Figaro歌切 竖屏】[2026-02-21]3連休ですって...！？ぜひ聴いていってください！[JX_fIfAeRYs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XVfHBFECX?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【💐Figaro歌切 竖屏】[2026-02-21]3連休ですって...！？ぜひ聴いていってください！[JX_fIfAeRYs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XVfHBFECX?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "ハッピーシンセサイザ",
+  "artist": "EasyPop",
+  "collection": "【💐Figaro歌切 竖屏】[2026-02-21]3連休ですって...！？ぜひ聴いていってください！[JX_fIfAeRYs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XVfHBFECX?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo",
+  "collection": "【💐Figaro歌切 竖屏】[2026-02-21]3連休ですって...！？ぜひ聴いていってください！[JX_fIfAeRYs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XVfHBFECX?p=15",
   "source": "figaro.js"
 }
 );

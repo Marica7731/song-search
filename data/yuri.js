@@ -1,6 +1,6 @@
 // 優莉 yuri - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1aDzEBBE3S
-// 生成时间: 2/21/2026, 4:21:29 PM
+// 生成时间: 2/21/2026, 5:21:39 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -472,7 +472,7 @@ window.SONG_DATA.push(
     {
   "title": "眠らない星",
   "artist": "優莉",
-  "collection": "[2026-02-02]弾き語りとかお話しとか【優莉 つんちゃか 弾き語り】 [nrToQJeAlNA]",
+  "collection": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17uFuzMEuY?p=1",
   "source": "yuri.js"
@@ -480,7 +480,7 @@ window.SONG_DATA.push(
     {
   "title": "Always",
   "artist": "優莉",
-  "collection": "[2026-02-02]弾き語りとかお話しとか【優莉 つんちゃか 弾き語り】 [nrToQJeAlNA]",
+  "collection": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17uFuzMEuY?p=2",
   "source": "yuri.js"
@@ -488,7 +488,7 @@ window.SONG_DATA.push(
     {
   "title": "タイトル",
   "artist": "優莉",
-  "collection": "[2026-02-02]弾き語りとかお話しとか【優莉 つんちゃか 弾き語り】 [nrToQJeAlNA]",
+  "collection": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17uFuzMEuY?p=3",
   "source": "yuri.js"
@@ -496,7 +496,7 @@ window.SONG_DATA.push(
     {
   "title": "ふたりごと",
   "artist": "RADWIMPS",
-  "collection": "[2026-02-02]弾き語りとかお話しとか【優莉 つんちゃか 弾き語り】 [nrToQJeAlNA]",
+  "collection": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17uFuzMEuY?p=4",
   "source": "yuri.js"
@@ -504,7 +504,7 @@ window.SONG_DATA.push(
     {
   "title": "初音ミクの消失",
   "artist": "cosMo@暴走P feat. 初音ミク",
-  "collection": "[2026-02-02]弾き語りとかお話しとか【優莉 つんちゃか 弾き語り】 [nrToQJeAlNA]",
+  "collection": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17uFuzMEuY?p=5",
   "source": "yuri.js"
@@ -512,7 +512,7 @@ window.SONG_DATA.push(
     {
   "title": "モニタリング",
   "artist": "DECO×27",
-  "collection": "[2026-02-02]弾き語りとかお話しとか【優莉 つんちゃか 弾き語り】 [nrToQJeAlNA]",
+  "collection": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17uFuzMEuY?p=6",
   "source": "yuri.js"
@@ -520,7 +520,7 @@ window.SONG_DATA.push(
     {
   "title": "花呼ぶ声",
   "artist": "Kemu feat. 夢ノ結唱 POPY×夢ノ結唱 ROSE",
-  "collection": "[2026-02-02]弾き語りとかお話しとか【優莉 つんちゃか 弾き語り】 [nrToQJeAlNA]",
+  "collection": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17uFuzMEuY?p=7",
   "source": "yuri.js"
@@ -528,7 +528,7 @@ window.SONG_DATA.push(
     {
   "title": "NAME",
   "artist": "綴",
-  "collection": "[2026-02-02]弾き語りとかお話しとか【優莉 つんちゃか 弾き語り】 [nrToQJeAlNA]",
+  "collection": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17uFuzMEuY?p=8",
   "source": "yuri.js"
@@ -536,7 +536,7 @@ window.SONG_DATA.push(
     {
   "title": "夜咄ディセイブ",
   "artist": "じん／IA",
-  "collection": "[2026-02-02]弾き語りとかお話しとか【優莉 つんちゃか 弾き語り】 [nrToQJeAlNA]",
+  "collection": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17uFuzMEuY?p=9",
   "source": "yuri.js"
@@ -544,7 +544,7 @@ window.SONG_DATA.push(
     {
   "title": "消えろ",
   "artist": "じん",
-  "collection": "[2026-02-02]弾き語りとかお話しとか【優莉 つんちゃか 弾き語り】 [nrToQJeAlNA]",
+  "collection": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17uFuzMEuY?p=10",
   "source": "yuri.js"
@@ -552,7 +552,7 @@ window.SONG_DATA.push(
     {
   "title": "T.A.O.",
   "artist": "じん",
-  "collection": "[2026-02-02]弾き語りとかお話しとか【優莉 つんちゃか 弾き語り】 [nrToQJeAlNA]",
+  "collection": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17uFuzMEuY?p=11",
   "source": "yuri.js"
@@ -560,7 +560,7 @@ window.SONG_DATA.push(
     {
   "title": "GOOD NIGHT STAR",
   "artist": "優莉",
-  "collection": "[2026-02-02]弾き語りとかお話しとか【優莉 つんちゃか 弾き語り】 [nrToQJeAlNA]",
+  "collection": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17uFuzMEuY?p=12",
   "source": "yuri.js"
@@ -568,7 +568,7 @@ window.SONG_DATA.push(
     {
   "title": "Enter!",
   "artist": "優莉",
-  "collection": "[2026-02-02]弾き語りとかお話しとか【優莉 つんちゃか 弾き語り】 [nrToQJeAlNA]",
+  "collection": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17uFuzMEuY?p=13",
   "source": "yuri.js"
