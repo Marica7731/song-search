@@ -202,7 +202,8 @@
         </div>
 
         <div class="search-container">
-            <input type="text" id="search-input" placeholder="输入歌名、歌手名、合集名或UP主搜索...">
+            <!-- 【修改1】搜索框提示词去掉“或UP主” -->
+            <input type="text" id="search-input" placeholder="输入歌名、歌手名或合集名搜索...">
             <button id="search-btn">🔍 全局搜索</button>
         </div>
     </div>
@@ -224,22 +225,17 @@
         const fileNames = [];
         let FILE_TO_ALIAS = {};
 
-        // 【优化1】并行加载器：使用 Promise.all 同时发起所有请求
         function loadScriptsParallel(fileList) {
             const progressMsg = document.getElementById('progress-msg');
             let loadedCount = 0;
             const totalFiles = fileList.length;
 
-            // 为每个文件创建一个加载 Promise
             const promises = fileList.map(fileName => {
                 return new Promise((resolve, reject) => {
                     const script = document.createElement('script');
                     script.src = `data/${fileName}`;
                     
                     script.onload = () => {
-                        // 【关键】标记当前这批数据的来源
-                        // 由于是并行加载，我们需要在每个脚本加载时立即处理
-                        // 这里利用闭包保存 fileName
                         const currentTotalLength = window.SONG_DATA.length;
                         const lastOriginalLength = originalData.length;
                         const newDataCount = currentTotalLength - lastOriginalLength;
@@ -249,11 +245,9 @@
                             newData.forEach(item => {
                                 item.source = fileName;
                             });
-                            // 更新 originalData 为当前全量数据
                             originalData = [...window.SONG_DATA];
                         }
 
-                        // 更新进度
                         loadedCount++;
                         progressMsg.textContent = `📥 正在并行加载歌库（${loadedCount}/${totalFiles}个文件）...`;
                         resolve();
@@ -263,7 +257,7 @@
                         console.error(`❌ 加载失败：${fileName}`);
                         loadedCount++;
                         progressMsg.textContent = `📥 正在并行加载歌库（${loadedCount}/${totalFiles}个文件，部分失败）...`;
-                        resolve(); // 即使一个失败也不阻塞其他文件
+                        resolve();
                     };
                     
                     document.body.appendChild(script);
@@ -338,6 +332,7 @@
                     const artist = (item.artist || '').toLowerCase();
                     const collection = (item.collection || '').toLowerCase();
                     const up = (item.up || '').toLowerCase();
+                    // 【保留】搜索依然包含UP主，只是不显示
                     return title.includes(keyword) || artist.includes(keyword) || collection.includes(keyword) || up.includes(keyword);
                 });
             } else {
@@ -375,13 +370,13 @@
                     
                     const li = document.createElement('li');
                     li.className = 'song-item';
+                    // 【修改2】移除UP主显示
                     li.innerHTML = `
                         <div class="song-info">
                             <div class="song-title">${item.title || '未知歌曲'}</div>
                             <div class="song-meta">
                                 歌手：${item.artist || '未知'} / 
-                                合集：${item.collection || '未知'} / 
-                                UP主：${item.up || '未知'}
+                                合集：${item.collection || '未知'}
                             </div>
                             <div class="song-source">来源：${sourceAlias}</div>
                         </div>
@@ -464,7 +459,6 @@
             });
         }
 
-        // 【优化2】主流程：使用并行加载器
         async function bootstrap() {
             try {
                 const res = await fetch('data/index.json');
@@ -478,10 +472,8 @@
                 const progressMsg = document.getElementById('progress-msg');
                 progressMsg.textContent = `📥 正在并行加载 ${fileNames.length} 个歌库文件...`;
 
-                // 【关键】并行加载所有文件
                 await loadScriptsParallel(fileNames);
 
-                // 加载完成
                 progressMsg.textContent = `✅ 歌库加载完成，总歌曲数：${originalData.length}`;
                 filteredBySource = [...originalData];
                 filteredBySearch = [...originalData];
