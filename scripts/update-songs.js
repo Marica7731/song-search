@@ -1,13 +1,55 @@
 // scripts/update-songs.js
 const fs = require('fs');
 const path = require('path');
-const https = require('https');
 
-// ================= 配置区 (已填入你的歌手列表) =================
-// 说明：
-// - bvid: 合集的 BV 号
-// - file: 生成的文件名 (不用加 .js)
-// - alias: 歌手别名/昵称 (用于日志)
+// ================= 关键兼容：适配全局安装的 Puppeteer =================
+let puppeteer;
+try {
+    // 优先本地引入（本地开发环境）
+    puppeteer = require('puppeteer');
+} catch (err) {
+    // 本地无则从全局引入（GitHub Actions 环境）
+    try {
+        const globalModules = path.resolve(process.execPath, '../..', 'lib/node_modules');
+        puppeteer = require(path.join(globalModules, 'puppeteer'));
+    } catch (globalErr) {
+        console.error('❌ Puppeteer 未安装，请执行 npm install puppeteer 或 npm install -g puppeteer');
+        process.exit(1);
+    }
+}
+
+// ================= 通用重试函数 =================
+async function withRetry(fn, maxRetries = 3, delay = 5000) {
+    let lastError;
+    for (let attempt = 1; attempt <= maxRetries; attempt++) {
+        try {
+            return await fn();
+        } catch (err) {
+            lastError = err;
+            console.log(`⚠️  第 ${attempt} 次尝试失败，${delay/1000}秒后重试... 错误：${err.message.slice(0, 100)}`);
+            await new Promise(resolve => setTimeout(resolve, delay));
+        }
+    }
+    throw lastError;
+}
+
+// ================= 1. 常量配置（核心修改：扩展选择器为数组，适配单/分P） =================
+const DELAY_TIME = 1500;
+const BILI_VIDEO_PREFIX = 'https://www.bilibili.com/video/';
+const BV_REGEX = /BV\w+/;
+const PLAYLIST_SELECTORS = ['.video-pod__list .pod-item'];
+// 核心修改1：扩展为数组，适配分P+单集合集
+const PART_TITLE_SELECTORS = [
+    '.page-list .page-item.sub .title-txt', // 分P合集选择器
+    '.pod-item .title .title-txt'           // 单集合集选择器
+];
+// 核心修改2：扩展为数组，适配分P+单集合集
+const COLLECTION_TITLE_SELECTORS = [
+    '.head .title-txt',                          // 分P合集标题
+    '.video-pod__header .header-top .left .title' // 单集合集标题
+];
+
+// ================= 2. 歌手配置（你只需要维护这里） =================
 const SINGER_CONFIGS = [
     { bvid: "BV1G6fLB7Efr", file: "naraetan", alias: "なれたん Naraetan" },
     { bvid: "BV1HRfuBCEXN", file: "figaro", alias: "Figaro" },
@@ -18,167 +60,251 @@ const SINGER_CONFIGS = [
     { bvid: "BV1p1zBBCEZ3", file: "yoshika", alias: "よしか YOSHIKA" },
     { bvid: "BV1aDzEBBE3S", file: "yuri", alias: "優莉 yuri" },
     { bvid: "BV1zzZPBsEum", file: "otomoneruki", alias: "音門るき" },
+    { bvid: "BV1PZHdzqE6k", file: "nayuta-piano-live", alias: "nayuta生演奏" },
+    { bvid: "BV1MPpUzsE1D", file: "nayuta-daily", alias: "nayuta日常" },
+    { bvid: "BV1UCkhBkEon", file: "MunMosh", alias: "むんもっしゅ" },
+    { bvid: "BV1exR4YGE42", file: "test", alias: "测试单集" },
     { bvid: "BV11GZtBcEsp", file: "others", alias: "其他歌手" }
 ];
 
 const DATA_DIR = path.join(__dirname, '..', 'data');
+const BILI_VIDEO_URL = (bvid) => `https://www.bilibili.com/video/${bvid}`;
 
-// ================= 工具函数：HTTPS请求封装 =================
-function request(url) {
-    return new Promise((resolve, reject) => {
-        https.get(url, {
-            headers: {
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-                'Referer': 'https://www.bilibili.com/'
-            }
-        }, (res) => {
-            let data = '';
-            res.on('data', chunk => data += chunk);
-            res.on('end', () => {
-                try {
-                    resolve(JSON.parse(data));
-                } catch (e) {
-                    reject(e);
+// ================= 3. 核心：Puppeteer加载页面 =================
+async function loadVideoPageWithBrowser(bvid) {
+    const url = BILI_VIDEO_URL(bvid);
+    let browser;
+
+    try {
+        browser = await puppeteer.launch({
+            headless: 'new',
+            args: [
+                '--no-sandbox',
+                '--disable-setuid-sandbox',
+                '--disable-dev-shm-usage',
+                '--disable-blink-features=AutomationControlled',
+                '--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+                '--disable-gpu',
+                '--window-size=1920,1080',
+                '--headless=new'
+            ],
+            executablePath: process.env.PUPPETEER_EXECUTABLE_PATH || '/usr/bin/google-chrome'
+        });
+
+        const page = await browser.newPage();
+        await page.setExtraHTTPHeaders({
+            'Referer': 'https://www.bilibili.com/',
+            'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8'
+        });
+
+        await page.evaluateOnNewDocument(() => {
+            delete window.navigator.webdriver;
+        });
+
+        await page.goto(url, {
+            waitUntil: 'networkidle2',
+            timeout: 60000
+        });
+
+        await new Promise(resolve => setTimeout(resolve, DELAY_TIME));
+
+        const rawData = await page.evaluate((
+            PLAYLIST_SELECTORS, 
+            PART_TITLE_SELECTORS, 
+            COLLECTION_TITLE_SELECTORS, 
+            BV_REGEX, 
+            bvid
+        ) => {
+            // 核心修改3：添加油猴的通用选择器函数
+            function querySelectorFallback(container, selectors) {
+                for (const selector of selectors) {
+                    const element = container.querySelector(selector);
+                    if (element) return element;
                 }
+                return null;
+            }
+
+            function querySelectorAllFallback(container, selectors) {
+                for (const selector of selectors) {
+                    const elements = container.querySelectorAll(selector);
+                    if (elements.length > 0) return elements;
+                }
+                return [];
+            }
+
+            let containers = [];
+            for (const sel of PLAYLIST_SELECTORS) {
+                containers = document.querySelectorAll(sel);
+                if (containers.length > 0) break;
+            }
+
+            if (containers.length === 0) {
+                return null;
+            }
+
+            // 核心修改4：优先提取全局合集标题（单集合集场景）
+            let globalCollectionTitle = '';
+            const collectionTitleNode = querySelectorFallback(document, COLLECTION_TITLE_SELECTORS);
+            if (collectionTitleNode) {
+                globalCollectionTitle = collectionTitleNode.textContent.trim();
+            }
+
+            return Array.from(containers).map((container, idx) => {
+                // 核心修改5：优先用全局标题，再容器内，最后默认
+                let colTitle = globalCollectionTitle;
+                if (!colTitle) {
+                    const colTitleNode = querySelectorFallback(container, COLLECTION_TITLE_SELECTORS);
+                    colTitle = colTitleNode?.textContent.trim() || `合集${idx+1}`;
+                }
+
+                let upName = "未知UP主";
+                const upMatch = colTitle.match(/\[([^\]]+?\s*Ch\.[^\]]+)\]/);
+                if (upMatch) {
+                    upName = upMatch[1];
+                } else {
+                    const upEle = document.querySelector('.up-name');
+                    if (upEle) upName = upEle.textContent.trim();
+                }
+
+                // 核心修改6：用fallback函数提取分P/单集标题
+                const partNodes = querySelectorAllFallback(container, PART_TITLE_SELECTORS);
+                const parts = Array.from(partNodes).map(node => node.textContent.trim());
+
+                // 核心修改7：单集场景兜底（parts为空时补充标题）
+                const singlePartTitle = querySelectorFallback(container, PART_TITLE_SELECTORS);
+                if (parts.length === 0 && singlePartTitle) {
+                    parts.push(singlePartTitle.textContent.trim());
+                }
+
+                const collectionBv = container.dataset.key?.match(BV_REGEX)?.[0] || bvid;
+
+                return {
+                    collectionBv: collectionBv,
+                    collectionTitle: colTitle,
+                    up: upName,
+                    parts: parts
+                };
             });
-        }).on('error', reject);
-    });
-}
+        }, PLAYLIST_SELECTORS, PART_TITLE_SELECTORS, COLLECTION_TITLE_SELECTORS, BV_REGEX, bvid);
 
-// ================= 新增：对齐油猴的通用解析工具函数 =================
-/**
- * 提取UP主名（对齐油猴逻辑：优先从合集标题解析[名字 Ch.xxx]，兜底用API返回的UP名）
- * @param {string} collectionTitle 合集标题
- * @param {string} defaultUpName API返回的默认UP名
- * @returns {string} 解析后的UP名
- */
-function extractUpName(collectionTitle, defaultUpName) {
-    // 油猴逻辑：解析 [名字 Ch.xxx] 格式
-    const upMatch = collectionTitle.match(/\[([^\]]+?\s*Ch\.[^\]]+)\]/);
-    if (upMatch) {
-        return upMatch[1].trim();
+        await browser.close();
+        return rawData;
+
+    } catch (err) {
+        if (browser) await browser.close();
+        throw new Error(`浏览器加载失败: ${err.message}`);
     }
-    // 兜底用API返回的UP名
-    return defaultUpName || "未知UP主";
 }
 
-/**
- * 清洗标题（对齐油猴的单集/分P标题清洗逻辑）
- * @param {string} rawTitle 原始分P/单集标题
- * @returns {string} 清洗后的标题
- */
-function cleanTitle(rawTitle) {
-    // 油猴逻辑：移除开头序号 "01. " 或 "P1："
-    return rawTitle.replace(/^\d+\.\s*/, '').replace(/^P\d+[：:]\s*/, '').trim();
-}
-
-// ================= 核心逻辑：处理单个BV号 =================
+// ================= 4. 处理单个歌手 =================
 async function processSinger(config) {
     const { bvid, file, alias } = config;
-    console.log(`\n[处理中] ${alias} (${bvid})...`);
+    console.log(`\n[处理中] ${alias} (BV: ${bvid})...`);
     
-    try {
-        // 1. 请求 B站 接口
-        const viewData = await request(`https://api.bilibili.com/x/web-interface/view?bvid=${bvid}`);
-        
-        if (viewData.code !== 0) {
-            console.error(`  ❌ 失败: ${viewData.message}`);
-            return null;
-        }
+    const rawData = await loadVideoPageWithBrowser(bvid);
+    if (!rawData || rawData.length === 0) {
+        throw new Error(`未解析到任何分P数据（检查BV号或视频是否有分P）`);
+    }
 
-        const data = viewData.data;
-        const collectionTitle = data.title || `合集_${bvid}`; // 兜底：防止标题为空
-        // 新增：对齐油猴的UP主提取逻辑
-        const upName = extractUpName(collectionTitle, data.owner?.name || "未知UP主");
-        
-        let songs = [];
-
-        // 2. 解析分P/单集列表（适配单集场景：pages为空则用视频主标题）
-        const pages = data.pages && data.pages.length > 0 ? data.pages : [
-            // 单集场景兜底：模拟pages结构，用主标题当分P标题
-            { part: data.title, page: 1 }
-        ];
-
-        pages.forEach((page, index) => {
-            const rawTitle = page.part || collectionTitle; // 兜底：分P标题为空则用合集标题
-            const cleanPartTitle = cleanTitle(rawTitle); // 复用清洗逻辑
+    let songs = [];
+    rawData.forEach(col => {
+        col.parts.forEach((p, i) => {
+            let artist = col.up;
+            let songTitle = p;
             
-            // 解析歌名逻辑 (对齐油猴+原有规则)
-            let artist = upName; // 优先用解析后的UP名
-            let songTitle = cleanPartTitle;
-            
-            // 尝试分离 "歌名 - 歌手" (保留原有逻辑，增强兜底)
-            if (cleanPartTitle.includes(' - ')) {
-                const parts = cleanPartTitle.split(' - ');
+            let cleanTitle = p.replace(/^\d+\.\s*/, '').replace(/^P\d+[：:]\s*/, '');
+            if (cleanTitle.includes(' - ')) {
+                const parts = cleanTitle.split(' - ');
                 songTitle = parts[0].trim();
-                const maybeArtist = parts[parts.length - 1].trim();
-                // 增强：排除空值/无意义字符串
-                if (maybeArtist.length > 0 && !maybeArtist.match(/^\s*$/)) {
-                    artist = maybeArtist;
-                }
+                artist = parts[parts.length - 1].trim() || artist;
+            } else {
+                songTitle = cleanTitle;
             }
 
             songs.push({
                 title: songTitle,
                 artist: artist,
-                collection: collectionTitle,
-                up: upName, // 替换为解析后的UP名
-                link: `https://www.bilibili.com/video/${bvid}?p=${index + 1}`
+                collection: col.collectionTitle,
+                up: col.up,
+                link: `${BILI_VIDEO_PREFIX}${col.collectionBv}?p=${i+1}`,
+                source: `${file}.js`
             });
         });
+    });
 
-        // 3. 生成文件内容（保留原有结构，仅对齐变量）
-        const outputPath = path.join(DATA_DIR, `${file}.js`);
-        let outputContent = `// ${alias} - 歌单数据\n`;
-        outputContent += `// 来源: ${collectionTitle}\n`;
-        outputContent += `// 生成时间: ${new Date().toLocaleString()}\n`;
-        outputContent += `// 监控 BV: ${bvid}\n\n`;
-        outputContent += `window.SONG_DATA = window.SONG_DATA || [];\n\n`;
-        outputContent += `window.SONG_DATA.push(\n`;
-        
-        songs.forEach((song, index) => {
-            outputContent += `    ${JSON.stringify(song, null, 2)}`; // 新增：格式化JSON，更易读
-            if (index < songs.length - 1) outputContent += ",";
-            outputContent += "\n";
-        });
-        
-        outputContent += `);\n`;
+    const outputPath = path.join(DATA_DIR, `${file}.js`);
+    let outputContent = `// ${alias} - 歌单数据（油猴逻辑复刻版）\n`;
+    outputContent += `// 来源: ${BILI_VIDEO_URL(bvid)}\n`;
+    outputContent += `// 生成时间: ${new Date().toLocaleString()}\n\n`;
+    outputContent += `window.SONG_DATA = window.SONG_DATA || [];\n\n`;
+    outputContent += `window.SONG_DATA.push(\n`;
+    
+    songs.forEach((song, idx) => {
+        outputContent += `    ${JSON.stringify(song, null, 2)}`;
+        if (idx < songs.length - 1) outputContent += ",";
+        outputContent += "\n";
+    });
+    
+    outputContent += `);\n`;
 
-        // 4. 写入文件
-        fs.writeFileSync(outputPath, outputContent);
-        console.log(`  ✅ 成功: 生成 ${songs.length} 首歌曲 -> ${file}.js`);
-        return true;
-
-    } catch (err) {
-        console.error(`  ❌ 异常错误:`, err.message);
-        return false;
-    }
+    fs.writeFileSync(outputPath, outputContent, { encoding: 'utf8', mode: 0o644 });
+    console.log(`  ✅ 成功: 生成 ${songs.length} 首歌曲 -> ${file}.js`);
+    return true;
 }
 
-// ================= 主程序 =================
+// ================= 5. 生成index.json（含file→alias映射） =================
+function generateIndexJson() {
+    const indexPath = path.join(DATA_DIR, 'index.json');
+    const indexData = {
+        files: SINGER_CONFIGS.map(config => `${config.file}.js`),
+        fileToAlias: SINGER_CONFIGS.reduce((map, config) => {
+            map[config.file] = config.alias;
+            return map;
+        }, {})
+    };
+    fs.writeFileSync(indexPath, JSON.stringify(indexData, null, 2), 'utf8');
+    console.log(`\n✅ 生成index.json: 包含 ${indexData.files.length} 个数据文件 + 别名映射`);
+}
+
+// ================= 6. 主程序 =================
 async function main() {
     console.log("========================================");
-    console.log("   🚀 B站歌库自动更新任务启动");
+    console.log("   🚀 B站分P解析（油猴逻辑复刻）启动");
     console.log("========================================");
     
-    // 确保 data 目录存在
     if (!fs.existsSync(DATA_DIR)) {
         fs.mkdirSync(DATA_DIR, { recursive: true });
     }
 
     let successCount = 0;
-    
-    // 串行处理每个歌手 (避免并发请求被封IP)
+    let failList = [];
     for (const config of SINGER_CONFIGS) {
-        const ok = await processSinger(config);
-        if (ok) successCount++;
-        // 每个请求间隔 1秒，防止请求过快
-        await new Promise(r => setTimeout(r, 1000));
+        try {
+            await withRetry(() => processSinger(config), 3, 5000);
+            successCount++;
+        } catch (err) {
+            console.error(`  ❌ 最终失败: ${config.alias} (${config.bvid})`, err.message);
+            failList.push({ alias: config.alias, bvid: config.bvid, error: err.message });
+        }
+        await new Promise(resolve => setTimeout(resolve, 2000));
     }
+
+    generateIndexJson();
 
     console.log("\n========================================");
     console.log(`   🏁 任务结束: 成功更新 ${successCount}/${SINGER_CONFIGS.length} 位歌手`);
+    if (failList.length > 0) {
+        console.log(`   ❌ 失败列表:`);
+        failList.forEach(item => {
+            console.log(`     - ${item.alias} (${item.bvid}): ${item.error.slice(0, 100)}`);
+        });
+    }
     console.log("========================================");
+
+    process.exit(0);
 }
 
-main().catch(console.error);
+main().catch(err => {
+    console.error("❌ 全局错误:", err.message);
+    process.exit(1);
+});
