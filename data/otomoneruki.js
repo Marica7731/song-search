@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1zzZPBsEum
-// 生成时间: 2/21/2026, 6:05:07 AM
+// 生成时间: 2/21/2026, 6:16:41 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10,7 +10,7 @@ window.SONG_DATA.push(
   "artist": "日食なつこ [2025-12-19]oQWgRoFaWqE]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=1",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=1",
   "source": "otomoneruki.js"
 },
     {
@@ -18,7 +18,7 @@ window.SONG_DATA.push(
   "artist": "ポルノグラフィティ [2025-12-19]oQWgRoFaWqE]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=2",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=2",
   "source": "otomoneruki.js"
 },
     {
@@ -26,7 +26,7 @@ window.SONG_DATA.push(
   "artist": "ORANGE RANGE [2025-12-19]oQWgRoFaWqE]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=3",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=3",
   "source": "otomoneruki.js"
 },
     {
@@ -34,7 +34,7 @@ window.SONG_DATA.push(
   "artist": "須田景凪 [2025-12-19]oQWgRoFaWqE]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=4",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=4",
   "source": "otomoneruki.js"
 },
     {
@@ -42,7 +42,7 @@ window.SONG_DATA.push(
   "artist": "Janne Da Arc [2025-12-19]oQWgRoFaWqE]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=5",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=5",
   "source": "otomoneruki.js"
 },
     {
@@ -50,7 +50,7 @@ window.SONG_DATA.push(
   "artist": "Creepy Nuts [2025-12-19]oQWgRoFaWqE]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=6",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=6",
   "source": "otomoneruki.js"
 },
     {
@@ -58,7 +58,7 @@ window.SONG_DATA.push(
   "artist": "Vaundy [2025-12-19]oQWgRoFaWqE]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=7",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=7",
   "source": "otomoneruki.js"
 },
     {
@@ -66,7 +66,7 @@ window.SONG_DATA.push(
   "artist": "Da-iCE [2025-12-19]oQWgRoFaWqE]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=8",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=8",
   "source": "otomoneruki.js"
 },
     {
@@ -74,7 +74,7 @@ window.SONG_DATA.push(
   "artist": "サカナクション [2025-12-19]oQWgRoFaWqE]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=9",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=9",
   "source": "otomoneruki.js"
 },
     {
@@ -82,7 +82,7 @@ window.SONG_DATA.push(
   "artist": "星野源 [2025-12-19]oQWgRoFaWqE]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=10",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=10",
   "source": "otomoneruki.js"
 },
     {
@@ -90,7 +90,7 @@ window.SONG_DATA.push(
   "artist": "ユンナ [2025-12-19]oQWgRoFaWqE]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=11",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=11",
   "source": "otomoneruki.js"
 },
     {
@@ -98,7 +98,7 @@ window.SONG_DATA.push(
   "artist": "崎山蒼志 [2025-12-19]oQWgRoFaWqE]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=12",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=12",
   "source": "otomoneruki.js"
 },
     {
@@ -106,7 +106,7 @@ window.SONG_DATA.push(
   "artist": "音田雅則 [2025-12-19]oQWgRoFaWqE]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=13",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=13",
   "source": "otomoneruki.js"
 },
     {
@@ -114,7 +114,7 @@ window.SONG_DATA.push(
   "artist": "高橋洋子 [2025-12-19]oQWgRoFaWqE]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=14",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=14",
   "source": "otomoneruki.js"
 },
     {
@@ -122,7 +122,7 @@ window.SONG_DATA.push(
   "artist": "n-buna [2025-12-19]oQWgRoFaWqE]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=15",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=15",
   "source": "otomoneruki.js"
 },
     {
@@ -130,7 +130,7 @@ window.SONG_DATA.push(
   "artist": "千綿ヒデノリ [2025-12-19]oQWgRoFaWqE]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=16",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=16",
   "source": "otomoneruki.js"
 },
     {
@@ -138,7 +138,7 @@ window.SONG_DATA.push(
   "artist": "SPYAIR [2025-12-19]oQWgRoFaWqE]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=17",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=17",
   "source": "otomoneruki.js"
 },
     {
@@ -146,7 +146,7 @@ window.SONG_DATA.push(
   "artist": "MONGOL800 [2025-12-19]oQWgRoFaWqE]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=18",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=18",
   "source": "otomoneruki.js"
 },
     {
@@ -154,7 +154,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI [2025-12-19]oQWgRoFaWqE]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=19",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=19",
   "source": "otomoneruki.js"
 },
     {
@@ -162,7 +162,7 @@ window.SONG_DATA.push(
   "artist": "Mrs. GREEN APPLE [2025-12-19]oQWgRoFaWqE]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=20",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=20",
   "source": "otomoneruki.js"
 },
     {
@@ -170,7 +170,7 @@ window.SONG_DATA.push(
   "artist": "ジミーサムP [2025-12-19]oQWgRoFaWqE]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=21",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=21",
   "source": "otomoneruki.js"
 },
     {
@@ -178,7 +178,7 @@ window.SONG_DATA.push(
   "artist": "音門るき [2025-12-19]oQWgRoFaWqE]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=22",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=22",
   "source": "otomoneruki.js"
 },
     {
@@ -186,7 +186,7 @@ window.SONG_DATA.push(
   "artist": "SEKAI NO OWARI [2025-12-25]SdfDBhgwGt0]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=23",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=23",
   "source": "otomoneruki.js"
 },
     {
@@ -194,7 +194,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=24",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=24",
   "source": "otomoneruki.js"
 },
     {
@@ -202,7 +202,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=25",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=25",
   "source": "otomoneruki.js"
 },
     {
@@ -210,7 +210,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=26",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=26",
   "source": "otomoneruki.js"
 },
     {
@@ -218,7 +218,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=27",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=27",
   "source": "otomoneruki.js"
 },
     {
@@ -226,7 +226,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=28",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=28",
   "source": "otomoneruki.js"
 },
     {
@@ -234,7 +234,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=29",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=29",
   "source": "otomoneruki.js"
 },
     {
@@ -242,7 +242,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=30",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=30",
   "source": "otomoneruki.js"
 },
     {
@@ -250,7 +250,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=31",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=31",
   "source": "otomoneruki.js"
 },
     {
@@ -258,7 +258,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=32",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=32",
   "source": "otomoneruki.js"
 },
     {
@@ -266,7 +266,7 @@ window.SONG_DATA.push(
   "artist": "Mrs. GREEN APPLE [2025-12-25]SdfDBhgwGt0]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=33",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=33",
   "source": "otomoneruki.js"
 },
     {
@@ -274,7 +274,7 @@ window.SONG_DATA.push(
   "artist": "flower [2025-12-26]ES-BQ_cVg7s]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=34",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=34",
   "source": "otomoneruki.js"
 },
     {
@@ -282,7 +282,7 @@ window.SONG_DATA.push(
   "artist": "flower [2025-12-26]ES-BQ_cVg7s]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=35",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=35",
   "source": "otomoneruki.js"
 },
     {
@@ -290,7 +290,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ with ukulele [2025-12-26]ES-BQ_cVg7s]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=36",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=36",
   "source": "otomoneruki.js"
 },
     {
@@ -298,7 +298,7 @@ window.SONG_DATA.push(
   "artist": "あんしんパパ with ukulele [2025-12-26]ES-BQ_cVg7s]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=37",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=37",
   "source": "otomoneruki.js"
 },
     {
@@ -306,7 +306,7 @@ window.SONG_DATA.push(
   "artist": "superxell [2025-12-26]ES-BQ_cVg7s]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=38",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=38",
   "source": "otomoneruki.js"
 },
     {
@@ -314,7 +314,7 @@ window.SONG_DATA.push(
   "artist": "くじら [2025-12-26]ES-BQ_cVg7s]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=39",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=39",
   "source": "otomoneruki.js"
 },
     {
@@ -322,7 +322,7 @@ window.SONG_DATA.push(
   "artist": "Ayase [2025-12-26]ES-BQ_cVg7s]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=40",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=40",
   "source": "otomoneruki.js"
 },
     {
@@ -330,7 +330,7 @@ window.SONG_DATA.push(
   "artist": "GReeeeN [2025-12-26]ES-BQ_cVg7s]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=41",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=41",
   "source": "otomoneruki.js"
 },
     {
@@ -338,7 +338,7 @@ window.SONG_DATA.push(
   "artist": "蝶々P feat. 初音ミク [2025-12-26]ES-BQ_cVg7s]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=42",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=42",
   "source": "otomoneruki.js"
 },
     {
@@ -346,7 +346,7 @@ window.SONG_DATA.push(
   "artist": "supercell [2025-12-26]ES-BQ_cVg7s]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=43",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=43",
   "source": "otomoneruki.js"
 },
     {
@@ -354,7 +354,7 @@ window.SONG_DATA.push(
   "artist": "諫山実生 [2025-12-26]ES-BQ_cVg7s]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=44",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=44",
   "source": "otomoneruki.js"
 },
     {
@@ -362,7 +362,7 @@ window.SONG_DATA.push(
   "artist": "きただにひろし [2025-12-26]ES-BQ_cVg7s]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=45",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=45",
   "source": "otomoneruki.js"
 },
     {
@@ -370,7 +370,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師 [2025-12-31]0-h980biI2o]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=46",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=46",
   "source": "otomoneruki.js"
 },
     {
@@ -378,7 +378,7 @@ window.SONG_DATA.push(
   "artist": "こっちのけんと [2025-12-31]0-h980biI2o]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=47",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=47",
   "source": "otomoneruki.js"
 },
     {
@@ -386,7 +386,7 @@ window.SONG_DATA.push(
   "artist": "back number [2025-12-31]0-h980biI2o]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=48",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=48",
   "source": "otomoneruki.js"
 },
     {
@@ -394,7 +394,7 @@ window.SONG_DATA.push(
   "artist": "Nobodyknows [2025-12-31]0-h980biI2o]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=49",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=49",
   "source": "otomoneruki.js"
 },
     {
@@ -402,7 +402,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師 [2025-12-31]0-h980biI2o]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=50",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=50",
   "source": "otomoneruki.js"
 },
     {
@@ -410,7 +410,7 @@ window.SONG_DATA.push(
   "artist": "BUMP OF CHICKEN [2025-12-31]0-h980biI2o]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=51",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=51",
   "source": "otomoneruki.js"
 },
     {
@@ -418,7 +418,7 @@ window.SONG_DATA.push(
   "artist": "福山芳樹 [2025-12-31]0-h980biI2o]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=52",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=52",
   "source": "otomoneruki.js"
 },
     {
@@ -426,7 +426,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師 [2025-12-31]0-h980biI2o]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=53",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=53",
   "source": "otomoneruki.js"
 },
     {
@@ -434,7 +434,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師 [2025-12-31]0-h980biI2o]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=54",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=54",
   "source": "otomoneruki.js"
 },
     {
@@ -442,7 +442,7 @@ window.SONG_DATA.push(
   "artist": "もさを。 [2025-12-31]0-h980biI2o]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=55",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=55",
   "source": "otomoneruki.js"
 },
     {
@@ -450,7 +450,7 @@ window.SONG_DATA.push(
   "artist": "れるりり [2025-12-31]0-h980biI2o]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=56",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=56",
   "source": "otomoneruki.js"
 },
     {
@@ -458,7 +458,7 @@ window.SONG_DATA.push(
   "artist": "KANA-BOON [2025-12-31]0-h980biI2o]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=57",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=57",
   "source": "otomoneruki.js"
 },
     {
@@ -466,7 +466,7 @@ window.SONG_DATA.push(
   "artist": "SEKAI NO OWARI [2026-01-01]zsfr5X5KE1A]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=58",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=58",
   "source": "otomoneruki.js"
 },
     {
@@ -474,7 +474,7 @@ window.SONG_DATA.push(
   "artist": "back number [2026-01-01]zsfr5X5KE1A]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=59",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=59",
   "source": "otomoneruki.js"
 },
     {
@@ -482,7 +482,7 @@ window.SONG_DATA.push(
   "artist": "いきものがかり [2026-01-01]zsfr5X5KE1A]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=60",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=60",
   "source": "otomoneruki.js"
 },
     {
@@ -490,7 +490,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI [2026-01-01]zsfr5X5KE1A]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=61",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=61",
   "source": "otomoneruki.js"
 },
     {
@@ -498,7 +498,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師 [2026-01-01]zsfr5X5KE1A]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=62",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=62",
   "source": "otomoneruki.js"
 },
     {
@@ -506,7 +506,7 @@ window.SONG_DATA.push(
   "artist": "tuki. [2026-01-01]zsfr5X5KE1A]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=63",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=63",
   "source": "otomoneruki.js"
 },
     {
@@ -514,7 +514,7 @@ window.SONG_DATA.push(
   "artist": "坂本冬美 [2026-01-01]zsfr5X5KE1A]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=64",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=64",
   "source": "otomoneruki.js"
 },
     {
@@ -522,7 +522,7 @@ window.SONG_DATA.push(
   "artist": "HoneyWorks [2026-01-01]zsfr5X5KE1A]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=65",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=65",
   "source": "otomoneruki.js"
 },
     {
@@ -530,7 +530,7 @@ window.SONG_DATA.push(
   "artist": "Vaundy [2026-01-01]zsfr5X5KE1A]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=66",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=66",
   "source": "otomoneruki.js"
 },
     {
@@ -538,7 +538,7 @@ window.SONG_DATA.push(
   "artist": "40mP feat. GUMI [2026-01-01]zsfr5X5KE1A]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=67",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=67",
   "source": "otomoneruki.js"
 },
     {
@@ -546,7 +546,7 @@ window.SONG_DATA.push(
   "artist": "ゴジマジP feat. 重音テト [2026-01-01]zsfr5X5KE1A]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=68",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=68",
   "source": "otomoneruki.js"
 },
     {
@@ -554,7 +554,7 @@ window.SONG_DATA.push(
   "artist": "TOKIO [2026-01-01]zsfr5X5KE1A]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=69",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=69",
   "source": "otomoneruki.js"
 },
     {
@@ -562,7 +562,7 @@ window.SONG_DATA.push(
   "artist": "のぼる↑↑ feat. 初音ミク [2026-01-01]zsfr5X5KE1A]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=70",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=70",
   "source": "otomoneruki.js"
 },
     {
@@ -570,7 +570,7 @@ window.SONG_DATA.push(
   "artist": "Mrs. GREEN APPLE [2026-01-01]zsfr5X5KE1A]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=71",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=71",
   "source": "otomoneruki.js"
 },
     {
@@ -578,7 +578,7 @@ window.SONG_DATA.push(
   "artist": "BUMP OF CHICKEN [2026-01-01]zsfr5X5KE1A]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=72",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=72",
   "source": "otomoneruki.js"
 },
     {
@@ -586,7 +586,7 @@ window.SONG_DATA.push(
   "artist": "UNISON SQUARE GARDEN [2026-01-01]zsfr5X5KE1A]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=73",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=73",
   "source": "otomoneruki.js"
 },
     {
@@ -594,7 +594,7 @@ window.SONG_DATA.push(
   "artist": "喜多修平 [with ukulele] [2026-01-20]c4v6vIXzqFs]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=74",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=74",
   "source": "otomoneruki.js"
 },
     {
@@ -602,7 +602,7 @@ window.SONG_DATA.push(
   "artist": "LONG SHOT PART [2026-01-20]c4v6vIXzqFs]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=75",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=75",
   "source": "otomoneruki.js"
 },
     {
@@ -610,7 +610,7 @@ window.SONG_DATA.push(
   "artist": "星野源 [2026-01-20]c4v6vIXzqFs]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=76",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=76",
   "source": "otomoneruki.js"
 },
     {
@@ -618,7 +618,7 @@ window.SONG_DATA.push(
   "artist": "HALVES [2026-01-20]c4v6vIXzqFs]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=77",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=77",
   "source": "otomoneruki.js"
 },
     {
@@ -626,7 +626,7 @@ window.SONG_DATA.push(
   "artist": "マカロニえんぴつ [2026-01-20]c4v6vIXzqFs]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=78",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=78",
   "source": "otomoneruki.js"
 },
     {
@@ -634,7 +634,7 @@ window.SONG_DATA.push(
   "artist": "いきものがかり [2026-01-20]c4v6vIXzqFs]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=79",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=79",
   "source": "otomoneruki.js"
 },
     {
@@ -642,7 +642,7 @@ window.SONG_DATA.push(
   "artist": "UNISON SQUARE GARDEN [2026-01-20]c4v6vIXzqFs]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=80",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=80",
   "source": "otomoneruki.js"
 },
     {
@@ -650,7 +650,7 @@ window.SONG_DATA.push(
   "artist": "ロードオブメジャー [2026-01-20]c4v6vIXzqFs]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=81",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=81",
   "source": "otomoneruki.js"
 },
     {
@@ -658,7 +658,7 @@ window.SONG_DATA.push(
   "artist": "HoneyWorks [2026-01-23]d9oWMZOmREk]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=82",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=82",
   "source": "otomoneruki.js"
 },
     {
@@ -666,7 +666,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ [2026-01-23]d9oWMZOmREk]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=83",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=83",
   "source": "otomoneruki.js"
 },
     {
@@ -674,7 +674,7 @@ window.SONG_DATA.push(
   "artist": "Mrs. GREEN APPLE [2026-01-23]d9oWMZOmREk]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=84",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=84",
   "source": "otomoneruki.js"
 },
     {
@@ -682,7 +682,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師 [2026-01-23]d9oWMZOmREk]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=85",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=85",
   "source": "otomoneruki.js"
 },
     {
@@ -690,7 +690,7 @@ window.SONG_DATA.push(
   "artist": "ナノウ(ほえほえP) feat. 初音ミク [2026-01-23]d9oWMZOmREk]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=86",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=86",
   "source": "otomoneruki.js"
 },
     {
@@ -698,7 +698,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ [2026-01-23]d9oWMZOmREk]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=87",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=87",
   "source": "otomoneruki.js"
 },
     {
@@ -706,7 +706,7 @@ window.SONG_DATA.push(
   "artist": "スキマスイッチ [2026-01-23]d9oWMZOmREk]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=88",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=88",
   "source": "otomoneruki.js"
 },
     {
@@ -714,7 +714,7 @@ window.SONG_DATA.push(
   "artist": "Supercell [2026-01-23]d9oWMZOmREk]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=89",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=89",
   "source": "otomoneruki.js"
 },
     {
@@ -722,7 +722,7 @@ window.SONG_DATA.push(
   "artist": "アイナ・ジ・エンド [2026-01-23]d9oWMZOmREk]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=90",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=90",
   "source": "otomoneruki.js"
 },
     {
@@ -730,7 +730,7 @@ window.SONG_DATA.push(
   "artist": "Eve [2026-01-23]d9oWMZOmREk]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=91",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=91",
   "source": "otomoneruki.js"
 },
     {
@@ -738,7 +738,7 @@ window.SONG_DATA.push(
   "artist": "NEWS [2026-01-23]d9oWMZOmREk]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=92",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=92",
   "source": "otomoneruki.js"
 },
     {
@@ -746,7 +746,7 @@ window.SONG_DATA.push(
   "artist": "和田光司 [2026-01-23]d9oWMZOmREk]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=93",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=93",
   "source": "otomoneruki.js"
 },
     {
@@ -754,7 +754,7 @@ window.SONG_DATA.push(
   "artist": "Mrs. GREEN APPLE [2026-01-26]tergG-wuBOs]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=94",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=94",
   "source": "otomoneruki.js"
 },
     {
@@ -762,7 +762,7 @@ window.SONG_DATA.push(
   "artist": "くじら [2026-01-26]tergG-wuBOs]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=95",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=95",
   "source": "otomoneruki.js"
 },
     {
@@ -770,7 +770,7 @@ window.SONG_DATA.push(
   "artist": "安田レイ [with ukulele] [2026-01-26]tergG-wuBOs]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=96",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=96",
   "source": "otomoneruki.js"
 },
     {
@@ -778,7 +778,7 @@ window.SONG_DATA.push(
   "artist": "Novelbright [2026-01-26]tergG-wuBOs]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=97",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=97",
   "source": "otomoneruki.js"
 },
     {
@@ -786,7 +786,7 @@ window.SONG_DATA.push(
   "artist": "須田景凪 [2026-01-26]tergG-wuBOs]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=98",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=98",
   "source": "otomoneruki.js"
 },
     {
@@ -794,7 +794,7 @@ window.SONG_DATA.push(
   "artist": "Creepy Nuts [2026-01-26]tergG-wuBOs]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=99",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=99",
   "source": "otomoneruki.js"
 },
     {
@@ -802,7 +802,7 @@ window.SONG_DATA.push(
   "artist": "森川美穂 [2026-01-26]tergG-wuBOs]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=100",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=100",
   "source": "otomoneruki.js"
 },
     {
@@ -810,7 +810,7 @@ window.SONG_DATA.push(
   "artist": "マカロニえんぴつ [2026-01-26]tergG-wuBOs]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=101",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=101",
   "source": "otomoneruki.js"
 },
     {
@@ -818,7 +818,7 @@ window.SONG_DATA.push(
   "artist": "Mrs. GREEN APPLE [2026-01-27]ts8amBAFOqk]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=102",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=102",
   "source": "otomoneruki.js"
 },
     {
@@ -826,7 +826,7 @@ window.SONG_DATA.push(
   "artist": "いきものがかり [2026-01-27]ts8amBAFOqk]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=103",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=103",
   "source": "otomoneruki.js"
 },
     {
@@ -834,7 +834,7 @@ window.SONG_DATA.push(
   "artist": "くじら [2026-01-27]ts8amBAFOqk]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=104",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=104",
   "source": "otomoneruki.js"
 },
     {
@@ -842,7 +842,7 @@ window.SONG_DATA.push(
   "artist": "なとり [2026-01-27]ts8amBAFOqk]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=105",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=105",
   "source": "otomoneruki.js"
 },
     {
@@ -850,7 +850,7 @@ window.SONG_DATA.push(
   "artist": "川添智久 [2026-01-27]ts8amBAFOqk]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=106",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=106",
   "source": "otomoneruki.js"
 },
     {
@@ -858,7 +858,7 @@ window.SONG_DATA.push(
   "artist": "Vaundy [2026-01-27]ts8amBAFOqk]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=107",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=107",
   "source": "otomoneruki.js"
 },
     {
@@ -866,7 +866,7 @@ window.SONG_DATA.push(
   "artist": "あいみょん [2026-01-27]ts8amBAFOqk]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=108",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=108",
   "source": "otomoneruki.js"
 },
     {
@@ -874,7 +874,7 @@ window.SONG_DATA.push(
   "artist": "嵐 [2026-01-27]ts8amBAFOqk]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=109",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=109",
   "source": "otomoneruki.js"
 },
     {
@@ -882,7 +882,7 @@ window.SONG_DATA.push(
   "artist": "BUMP OF CHICKEN [2026-01-27]ts8amBAFOqk]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=110",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=110",
   "source": "otomoneruki.js"
 },
     {
@@ -890,7 +890,7 @@ window.SONG_DATA.push(
   "artist": "LiSA [2026-01-27]ts8amBAFOqk]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=111",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=111",
   "source": "otomoneruki.js"
 },
     {
@@ -898,7 +898,7 @@ window.SONG_DATA.push(
   "artist": "Vaundy [2026-01-30]3RiwmKBR-Aw]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=112",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=112",
   "source": "otomoneruki.js"
 },
     {
@@ -906,7 +906,7 @@ window.SONG_DATA.push(
   "artist": "NEWS [2026-01-30]3RiwmKBR-Aw]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=113",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=113",
   "source": "otomoneruki.js"
 },
     {
@@ -914,7 +914,7 @@ window.SONG_DATA.push(
   "artist": "ポルノグラフィティ [2026-01-30]3RiwmKBR-Aw]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=114",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=114",
   "source": "otomoneruki.js"
 },
     {
@@ -922,7 +922,7 @@ window.SONG_DATA.push(
   "artist": "Mrs. GREEN APPLE [2026-01-30]3RiwmKBR-Aw]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=115",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=115",
   "source": "otomoneruki.js"
 },
     {
@@ -930,7 +930,7 @@ window.SONG_DATA.push(
   "artist": "NICO Touches the Walls [2026-01-30]3RiwmKBR-Aw]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=116",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=116",
   "source": "otomoneruki.js"
 },
     {
@@ -938,7 +938,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師 [2026-01-30]3RiwmKBR-Aw]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=117",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=117",
   "source": "otomoneruki.js"
 },
     {
@@ -946,7 +946,7 @@ window.SONG_DATA.push(
   "artist": "サスケ [2026-01-30]3RiwmKBR-Aw]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=118",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=118",
   "source": "otomoneruki.js"
 },
     {
@@ -954,7 +954,7 @@ window.SONG_DATA.push(
   "artist": "どうぶつビスケッツ×PPP [2026-01-30]3RiwmKBR-Aw]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=119",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=119",
   "source": "otomoneruki.js"
 },
     {
@@ -962,7 +962,7 @@ window.SONG_DATA.push(
   "artist": "SPYAIR [2026-01-30]3RiwmKBR-Aw]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=120",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=120",
   "source": "otomoneruki.js"
 },
     {
@@ -970,7 +970,7 @@ window.SONG_DATA.push(
   "artist": "ぼっちぼろまる [2026-01-30]3RiwmKBR-Aw]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=121",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=121",
   "source": "otomoneruki.js"
 },
     {
@@ -978,165 +978,165 @@ window.SONG_DATA.push(
   "artist": "BUMP OF CHICKEN [2026-01-30]3RiwmKBR-Aw]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=122",
+  "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=122",
   "source": "otomoneruki.js"
 },
     {
   "title": "ハロ",
   "artist": "yama × ぼっちぼろまる",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=1",
+  "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=1",
   "source": "otomoneruki.js"
 },
     {
   "title": "チェリー",
   "artist": "スピッツ",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=2",
+  "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=2",
   "source": "otomoneruki.js"
 },
     {
   "title": "AIZO",
   "artist": "King Gnu",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=3",
+  "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=3",
   "source": "otomoneruki.js"
 },
     {
   "title": "ray",
   "artist": "BUMP OF CHICKEN",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=4",
+  "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=4",
   "source": "otomoneruki.js"
 },
     {
   "title": "ハッピーシンセサイザ",
   "artist": "EasyPop",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=5",
+  "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=5",
   "source": "otomoneruki.js"
 },
     {
   "title": "あの日タイムマシン",
   "artist": "LONG SHOT PARTY",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=6",
+  "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=6",
   "source": "otomoneruki.js"
 },
     {
   "title": "lulu.",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=7",
+  "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=7",
   "source": "otomoneruki.js"
 },
     {
   "title": "水平線",
   "artist": "back number",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=8",
+  "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=8",
   "source": "otomoneruki.js"
 },
     {
   "title": "ドライフラワー",
   "artist": "優里",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=9",
+  "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=9",
   "source": "otomoneruki.js"
 },
     {
   "title": "踊",
   "artist": "Ado",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=10",
+  "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=10",
   "source": "otomoneruki.js"
 },
     {
   "title": "カルマ",
   "artist": "BUMP OF CHICKEN",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=11",
+  "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=11",
   "source": "otomoneruki.js"
 },
     {
   "title": "Bling-Bang-Bang-Born",
   "artist": "Creepy Nuts",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=12",
+  "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=12",
   "source": "otomoneruki.js"
 },
     {
   "title": "HOT LIMIT",
   "artist": "T.M.Revolution",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=13",
+  "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=13",
   "source": "otomoneruki.js"
 },
     {
   "title": "インフェルノ",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=14",
+  "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=14",
   "source": "otomoneruki.js"
 },
     {
   "title": "以心電信",
   "artist": "ORANGE RANGE",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=15",
+  "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=15",
   "source": "otomoneruki.js"
 },
     {
   "title": "コロンブス",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=16",
+  "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=16",
   "source": "otomoneruki.js"
 },
     {
   "title": "なにやってもうまくいかない",
   "artist": "Meiyo",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=17",
+  "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=17",
   "source": "otomoneruki.js"
 },
     {
   "title": "死ぬな!",
   "artist": "こっちのけんと",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=18",
+  "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=18",
   "source": "otomoneruki.js"
 },
     {
   "title": "Mela!",
   "artist": "緑黄色社会",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=19",
+  "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=19",
   "source": "otomoneruki.js"
 },
     {
   "title": "Tokimeki",
   "artist": "Vaundy",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=1",
   "source": "otomoneruki.js"
@@ -1144,7 +1144,7 @@ window.SONG_DATA.push(
     {
   "title": "Sweets Parade",
   "artist": "髏々宮カルタ(CV花澤香菜)",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=2",
   "source": "otomoneruki.js"
@@ -1152,7 +1152,7 @@ window.SONG_DATA.push(
     {
   "title": "ダーリン",
   "artist": "須田景凪",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=3",
   "source": "otomoneruki.js"
@@ -1160,7 +1160,7 @@ window.SONG_DATA.push(
     {
   "title": "ニア",
   "artist": "初音ミク feat. 夏代孝明",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=4",
   "source": "otomoneruki.js"
@@ -1168,7 +1168,7 @@ window.SONG_DATA.push(
     {
   "title": "スキキライ",
   "artist": "ゴム(HoneyWorks) feat. 鏡音リン・鏡音レン",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=5",
   "source": "otomoneruki.js"
@@ -1176,7 +1176,7 @@ window.SONG_DATA.push(
     {
   "title": "CHE.R.RY",
   "artist": "YUI",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=6",
   "source": "otomoneruki.js"
@@ -1184,7 +1184,7 @@ window.SONG_DATA.push(
     {
   "title": "orion",
   "artist": "米津玄師",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=7",
   "source": "otomoneruki.js"
@@ -1192,7 +1192,7 @@ window.SONG_DATA.push(
     {
   "title": "夜撫でるメノウ",
   "artist": "Ayase feat. 初音ミク",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=8",
   "source": "otomoneruki.js"
@@ -1200,7 +1200,7 @@ window.SONG_DATA.push(
     {
   "title": "物の怪の類",
   "artist": "めいちゃん",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=9",
   "source": "otomoneruki.js"
@@ -1208,7 +1208,7 @@ window.SONG_DATA.push(
     {
   "title": "Oz.",
   "artist": "yama",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=10",
   "source": "otomoneruki.js"
@@ -1216,7 +1216,7 @@ window.SONG_DATA.push(
     {
   "title": "AIZO",
   "artist": "King Gnu",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=11",
   "source": "otomoneruki.js"
@@ -1224,7 +1224,7 @@ window.SONG_DATA.push(
     {
   "title": "Butter-Fly",
   "artist": "和田光司",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=12",
   "source": "otomoneruki.js"
@@ -1232,7 +1232,7 @@ window.SONG_DATA.push(
     {
   "title": "Calc.",
   "artist": "ジミーサムP feat. 初音ミク",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=13",
   "source": "otomoneruki.js"
@@ -1240,7 +1240,7 @@ window.SONG_DATA.push(
     {
   "title": "アストロノーツ",
   "artist": "初音ミク(ぽわぽわP)",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=14",
   "source": "otomoneruki.js"
