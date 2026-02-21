@@ -12,6 +12,7 @@
     "nayuta-piano-live.js",
     "nayuta-daily.js",
     "MunMosh.js",
+    "test.js",
     "others.js"
   ],
   "fileToAlias": {
@@ -27,6 +28,7 @@
     "nayuta-piano-live": "nayuta生演奏",
     "nayuta-daily": "nayuta日常",
     "MunMosh": "むんもっしゅ",
+    "test": "测试单集",
     "others": "其他歌手"
   }
 }

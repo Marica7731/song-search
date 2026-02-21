@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1aPFczzE6R
-// 生成时间: 2/21/2026, 12:11:03 AM
+// 生成时间: 2/21/2026, 12:41:31 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -120,7 +120,7 @@ window.SONG_DATA.push(
     {
   "title": "東京レトロ",
   "artist": "すこっぷ",
-  "collection": "[2023-11-29]#55  稀羽すう 水曜日は定期歌枠 丸の内サディスティック / 椎名林檎",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -128,7 +128,7 @@ window.SONG_DATA.push(
     {
   "title": "東京ブギウギ",
   "artist": "笠置シヅ子",
-  "collection": "[2023-11-29]#55  稀羽すう 水曜日は定期歌枠 丸の内サディスティック / 椎名林檎",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -136,7 +136,7 @@ window.SONG_DATA.push(
     {
   "title": "丸の内サディスティック",
   "artist": "椎名林檎",
-  "collection": "[2023-11-29]#55  稀羽すう 水曜日は定期歌枠 丸の内サディスティック / 椎名林檎",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -144,7 +144,7 @@ window.SONG_DATA.push(
     {
   "title": "長く短い祭",
   "artist": "椎名林檎",
-  "collection": "[2023-11-29]#55  稀羽すう 水曜日は定期歌枠 丸の内サディスティック / 椎名林檎",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -152,7 +152,7 @@ window.SONG_DATA.push(
     {
   "title": "雨傘",
   "artist": "TOKIO",
-  "collection": "[2023-11-29]#55  稀羽すう 水曜日は定期歌枠 丸の内サディスティック / 椎名林檎",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -160,7 +160,7 @@ window.SONG_DATA.push(
     {
   "title": "トウキョウ・シャンディ・ランデヴ",
   "artist": "MAISONdes",
-  "collection": "[2023-11-29]#55  稀羽すう 水曜日は定期歌枠 丸の内サディスティック / 椎名林檎",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -168,7 +168,7 @@ window.SONG_DATA.push(
     {
   "title": "大阪LOVER",
   "artist": "DREAMS COME TRUE",
-  "collection": "[2023-11-29]#55  稀羽すう 水曜日は定期歌枠 丸の内サディスティック / 椎名林檎",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -176,7 +176,7 @@ window.SONG_DATA.push(
     {
   "title": "夜空ノムコウ",
   "artist": "SMAP",
-  "collection": "[2023-11-29]#55  稀羽すう 水曜日は定期歌枠 丸の内サディスティック / 椎名林檎",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -184,7 +184,7 @@ window.SONG_DATA.push(
     {
   "title": "オレンジ",
   "artist": "逢坂大河(釘宮理恵),櫛枝実乃梨(堀江由衣),川嶋亜美(喜多村英梨)",
-  "collection": "[2023-11-29]#55  稀羽すう 水曜日は定期歌枠 丸の内サディスティック / 椎名林檎",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -192,7 +192,7 @@ window.SONG_DATA.push(
     {
   "title": "メリッサ",
   "artist": "ポルノグラフィティ",
-  "collection": "[2023-11-29]#55  稀羽すう 水曜日は定期歌枠 丸の内サディスティック / 椎名林檎",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -200,7 +200,7 @@ window.SONG_DATA.push(
     {
   "title": "ガーデン",
   "artist": "藤井風",
-  "collection": "[2023-11-29]#55  稀羽すう 水曜日は定期歌枠 丸の内サディスティック / 椎名林檎",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -208,7 +208,7 @@ window.SONG_DATA.push(
     {
   "title": "津軽海峡・冬景色",
   "artist": "石川さゆり",
-  "collection": "[2023-11-29]#55  稀羽すう 水曜日は定期歌枠 丸の内サディスティック / 椎名林檎",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -216,7 +216,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーダウト",
   "artist": "Official髭男dism",
-  "collection": "[2023-11-29]#55  稀羽すう 水曜日は定期歌枠 丸の内サディスティック / 椎名林檎",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -224,7 +224,7 @@ window.SONG_DATA.push(
     {
   "title": "きらきら武士",
   "artist": "レキシ",
-  "collection": "[2023-11-29]#55  稀羽すう 水曜日は定期歌枠 丸の内サディスティック / 椎名林檎",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -232,7 +232,7 @@ window.SONG_DATA.push(
     {
   "title": "犬かキャットかで死ぬまで喧嘩しよう！",
   "artist": "Official髭男dism",
-  "collection": "[2023-11-29]#55  稀羽すう 水曜日は定期歌枠 丸の内サディスティック / 椎名林檎",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=15",
   "source": "suu_usuwa.js"
@@ -240,7 +240,7 @@ window.SONG_DATA.push(
     {
   "title": "1(恋は)百年戦争  相対性理論",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 16首竖屏  2023年12月18日 】 縦型配信ならではの… 14One more time, One more chance",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -248,7 +248,7 @@ window.SONG_DATA.push(
     {
   "title": "2ヴィーナスとジーザス  やくしまるえつこ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 16首竖屏  2023年12月18日 】 縦型配信ならではの… 14One more time, One more chance",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -256,7 +256,7 @@ window.SONG_DATA.push(
     {
   "title": "3丸の内サディスティック  椎名林檎",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 16首竖屏  2023年12月18日 】 縦型配信ならではの… 14One more time, One more chance",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -264,7 +264,7 @@ window.SONG_DATA.push(
     {
   "title": "4CHE.R.RY  YUI",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 16首竖屏  2023年12月18日 】 縦型配信ならではの… 14One more time, One more chance",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -272,7 +272,7 @@ window.SONG_DATA.push(
     {
   "title": "5忘れてやらない  結束バンド",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 16首竖屏  2023年12月18日 】 縦型配信ならではの… 14One more time, One more chance",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -280,7 +280,7 @@ window.SONG_DATA.push(
     {
   "title": "6雨とカプチーノ  ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 16首竖屏  2023年12月18日 】 縦型配信ならではの… 14One more time, One more chance",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -288,7 +288,7 @@ window.SONG_DATA.push(
     {
   "title": "7ノーチラス ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 16首竖屏  2023年12月18日 】 縦型配信ならではの… 14One more time, One more chance",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -296,7 +296,7 @@ window.SONG_DATA.push(
     {
   "title": "8ブレーメン  ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 16首竖屏  2023年12月18日 】 縦型配信ならではの… 14One more time, One more chance",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -304,7 +304,7 @@ window.SONG_DATA.push(
     {
   "title": "9again  YUI",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 16首竖屏  2023年12月18日 】 縦型配信ならではの… 14One more time, One more chance",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -312,7 +312,7 @@ window.SONG_DATA.push(
     {
   "title": "10キラキラ  aiko",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 16首竖屏  2023年12月18日 】 縦型配信ならではの… 14One more time, One more chance",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -320,7 +320,7 @@ window.SONG_DATA.push(
     {
   "title": "11メロンソーダ  aiko",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 16首竖屏  2023年12月18日 】 縦型配信ならではの… 14One more time, One more chance",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -328,7 +328,7 @@ window.SONG_DATA.push(
     {
   "title": "12ヒッチコック  ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 16首竖屏  2023年12月18日 】 縦型配信ならではの… 14One more time, One more chance",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -336,7 +336,7 @@ window.SONG_DATA.push(
     {
   "title": "13エイリアンズ  キリンジ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 16首竖屏  2023年12月18日 】 縦型配信ならではの… 14One more time, One more chance",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -344,7 +344,7 @@ window.SONG_DATA.push(
     {
   "title": "14One more time, One more chance  山崎まさよし",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 16首竖屏  2023年12月18日 】 縦型配信ならではの… 14One more time, One more chance",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -352,7 +352,7 @@ window.SONG_DATA.push(
     {
   "title": "15ひまわりの約束  秦基博",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 16首竖屏  2023年12月18日 】 縦型配信ならではの… 14One more time, One more chance",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=15",
   "source": "suu_usuwa.js"
@@ -360,7 +360,7 @@ window.SONG_DATA.push(
     {
   "title": "16世界はそれを愛と呼ぶんだぜ  サンボマスター",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 16首竖屏  2023年12月18日 】 縦型配信ならではの… 14One more time, One more chance",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=16",
   "source": "suu_usuwa.js"
@@ -368,7 +368,7 @@ window.SONG_DATA.push(
     {
   "title": "8花ざかりWeekend  4Luxury",
   "artist": "前尘往事如昔故",
-  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -376,7 +376,7 @@ window.SONG_DATA.push(
     {
   "title": "9Tulip  THE IDOLM@STER CINDERELLA GIRLS",
   "artist": "前尘往事如昔故",
-  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -384,7 +384,7 @@ window.SONG_DATA.push(
     {
   "title": "13Mela!  緑黄色社会",
   "artist": "前尘往事如昔故",
-  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -392,7 +392,7 @@ window.SONG_DATA.push(
     {
   "title": "1雪の華  中島美嘉",
   "artist": "前尘往事如昔故",
-  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -400,7 +400,7 @@ window.SONG_DATA.push(
     {
   "title": "2怪獣の花唄  Vaundy",
   "artist": "前尘往事如昔故",
-  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -408,7 +408,7 @@ window.SONG_DATA.push(
     {
   "title": "3Pretender  Official髭男dism",
   "artist": "前尘往事如昔故",
-  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -416,7 +416,7 @@ window.SONG_DATA.push(
     {
   "title": "4Subtitle  Official髭男dism",
   "artist": "前尘往事如昔故",
-  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -424,7 +424,7 @@ window.SONG_DATA.push(
     {
   "title": "5花  藤井風",
   "artist": "前尘往事如昔故",
-  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -432,7 +432,7 @@ window.SONG_DATA.push(
     {
   "title": "6Snow halation  μ's",
   "artist": "前尘往事如昔故",
-  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -440,7 +440,7 @@ window.SONG_DATA.push(
     {
   "title": "7MOON NIGHTのせいにして  DRAMATIC STARS",
   "artist": "前尘往事如昔故",
-  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -448,7 +448,7 @@ window.SONG_DATA.push(
     {
   "title": "10READY!!  765PRO ALLSTARS",
   "artist": "前尘往事如昔故",
-  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -456,7 +456,7 @@ window.SONG_DATA.push(
     {
   "title": "11青空のナミダ  高橋瞳",
   "artist": "前尘往事如昔故",
-  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -464,7 +464,7 @@ window.SONG_DATA.push(
     {
   "title": "粉雪",
   "artist": "レミオロメン",
-  "collection": "[2023-12-20]#57 稀羽すう 水曜日は定期歌枠粉雪 / レミオロメン",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -472,7 +472,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーザンクロス",
   "artist": "シェリル・ノーム starring May'n",
-  "collection": "[2023-12-20]#57 稀羽すう 水曜日は定期歌枠粉雪 / レミオロメン",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -480,7 +480,7 @@ window.SONG_DATA.push(
     {
   "title": "私の彼はパイロット",
   "artist": "ランカ・リー(中島愛)",
-  "collection": "[2023-12-20]#57 稀羽すう 水曜日は定期歌枠粉雪 / レミオロメン",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -488,7 +488,7 @@ window.SONG_DATA.push(
     {
   "title": "アナタノオト",
   "artist": "ランカ・リー(中島愛)",
-  "collection": "[2023-12-20]#57 稀羽すう 水曜日は定期歌枠粉雪 / レミオロメン",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -496,7 +496,7 @@ window.SONG_DATA.push(
     {
   "title": "トライアングラー",
   "artist": "坂本真綾",
-  "collection": "[2023-12-20]#57 稀羽すう 水曜日は定期歌枠粉雪 / レミオロメン",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -504,7 +504,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れてやらない",
   "artist": "結束バンド",
-  "collection": "[2023-12-20]#57 稀羽すう 水曜日は定期歌枠粉雪 / レミオロメン",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -512,7 +512,7 @@ window.SONG_DATA.push(
     {
   "title": "左右盲",
   "artist": "ヨルシカ",
-  "collection": "[2023-12-20]#57 稀羽すう 水曜日は定期歌枠粉雪 / レミオロメン",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -520,7 +520,7 @@ window.SONG_DATA.push(
     {
   "title": "ドライフラワー",
   "artist": "優里",
-  "collection": "[2023-12-20]#57 稀羽すう 水曜日は定期歌枠粉雪 / レミオロメン",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -528,7 +528,7 @@ window.SONG_DATA.push(
     {
   "title": "クリスマスソング",
   "artist": "back number",
-  "collection": "[2023-12-20]#57 稀羽すう 水曜日は定期歌枠粉雪 / レミオロメン",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -536,7 +536,7 @@ window.SONG_DATA.push(
     {
   "title": "君をのせて",
   "artist": "井上あずみ",
-  "collection": "[2023-12-20]#57 稀羽すう 水曜日は定期歌枠粉雪 / レミオロメン",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -544,7 +544,7 @@ window.SONG_DATA.push(
     {
   "title": "夜撫でるメノウ",
   "artist": "Ayase",
-  "collection": "[2023-12-20]#57 稀羽すう 水曜日は定期歌枠粉雪 / レミオロメン",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -552,7 +552,7 @@ window.SONG_DATA.push(
     {
   "title": "からくりピエロ",
   "artist": "40mP",
-  "collection": "[2023-12-20]#57 稀羽すう 水曜日は定期歌枠粉雪 / レミオロメン",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -560,7 +560,7 @@ window.SONG_DATA.push(
     {
   "title": "Stand by You",
   "artist": "Official髭男dism",
-  "collection": "[2023-12-20]#57 稀羽すう 水曜日は定期歌枠粉雪 / レミオロメン",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -568,7 +568,7 @@ window.SONG_DATA.push(
     {
   "title": "1ダンスホール  Mrs. GREEN APPLE",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】13】変わらないもの 【2023年最后的歌回】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -576,7 +576,7 @@ window.SONG_DATA.push(
     {
   "title": "2fake face dance music  音田雅則",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】13】変わらないもの 【2023年最后的歌回】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -584,7 +584,7 @@ window.SONG_DATA.push(
     {
   "title": "3NIGHT DANCER  imase",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】13】変わらないもの 【2023年最后的歌回】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -592,7 +592,7 @@ window.SONG_DATA.push(
     {
   "title": "4独白  坂本真綾",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】13】変わらないもの 【2023年最后的歌回】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -600,7 +600,7 @@ window.SONG_DATA.push(
     {
   "title": "5Paradise Lost  茅原実里",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】13】変わらないもの 【2023年最后的歌回】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -608,7 +608,7 @@ window.SONG_DATA.push(
     {
   "title": "6Laughter  Official髭男dism",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】13】変わらないもの 【2023年最后的歌回】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -616,7 +616,7 @@ window.SONG_DATA.push(
     {
   "title": "7願い  Sumika",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】13】変わらないもの 【2023年最后的歌回】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -624,7 +624,7 @@ window.SONG_DATA.push(
     {
   "title": "8わたしの一番かわいいところ  FRUITS ZIPPER",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】13】変わらないもの 【2023年最后的歌回】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -632,7 +632,7 @@ window.SONG_DATA.push(
     {
   "title": "9ヒアルロンリーガール  ZOC",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】13】変わらないもの 【2023年最后的歌回】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -640,7 +640,7 @@ window.SONG_DATA.push(
     {
   "title": "10なんでもないや  RADWIMPS",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】13】変わらないもの 【2023年最后的歌回】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -648,7 +648,7 @@ window.SONG_DATA.push(
     {
   "title": "11変わらないもの  奥華子",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】13】変わらないもの 【2023年最后的歌回】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -656,7 +656,7 @@ window.SONG_DATA.push(
     {
   "title": "12帰ろう  藤井風",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】13】変わらないもの 【2023年最后的歌回】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=12",
   "source": "suu_usuwa.js"
@@ -664,7 +664,7 @@ window.SONG_DATA.push(
     {
   "title": "13きらきら武士  レキシ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】13】変わらないもの 【2023年最后的歌回】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=13",
   "source": "suu_usuwa.js"
@@ -672,7 +672,7 @@ window.SONG_DATA.push(
     {
   "title": "きらきら武士  レキシ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう 14首】新年初歌枠 フライディ・チャイナタウン -/泰葉",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=1",
   "source": "suu_usuwa.js"
@@ -680,7 +680,7 @@ window.SONG_DATA.push(
     {
   "title": "星間飛行  ランカ・リー(中島愛)",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう 14首】新年初歌枠 フライディ・チャイナタウン -/泰葉",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=2",
   "source": "suu_usuwa.js"
@@ -688,7 +688,7 @@ window.SONG_DATA.push(
     {
   "title": "不確定性☆COSMIC MOVEMENT  ワルキューレ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう 14首】新年初歌枠 フライディ・チャイナタウン -/泰葉",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=3",
   "source": "suu_usuwa.js"
@@ -696,7 +696,7 @@ window.SONG_DATA.push(
     {
   "title": "惑星ループ  ナユタン星人",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう 14首】新年初歌枠 フライディ・チャイナタウン -/泰葉",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=4",
   "source": "suu_usuwa.js"
@@ -704,7 +704,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄  Vaundy",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう 14首】新年初歌枠 フライディ・チャイナタウン -/泰葉",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=5",
   "source": "suu_usuwa.js"
@@ -712,7 +712,7 @@ window.SONG_DATA.push(
     {
   "title": "祝福  YOASOBI",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう 14首】新年初歌枠 フライディ・チャイナタウン -/泰葉",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=6",
   "source": "suu_usuwa.js"
@@ -720,7 +720,7 @@ window.SONG_DATA.push(
     {
   "title": "群青  YOASOBI",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう 14首】新年初歌枠 フライディ・チャイナタウン -/泰葉",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=7",
   "source": "suu_usuwa.js"
@@ -728,7 +728,7 @@ window.SONG_DATA.push(
     {
   "title": "フライディ・チャイナタウン  泰葉",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう 14首】新年初歌枠 フライディ・チャイナタウン -/泰葉",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=8",
   "source": "suu_usuwa.js"
@@ -736,7 +736,7 @@ window.SONG_DATA.push(
     {
   "title": "らしく。  稀羽すう",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう 14首】新年初歌枠 フライディ・チャイナタウン -/泰葉",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=9",
   "source": "suu_usuwa.js"
@@ -744,7 +744,7 @@ window.SONG_DATA.push(
     {
   "title": "Floating  稀羽すう",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう 14首】新年初歌枠 フライディ・チャイナタウン -/泰葉",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=10",
   "source": "suu_usuwa.js"
@@ -752,7 +752,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌  tuki.",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう 14首】新年初歌枠 フライディ・チャイナタウン -/泰葉",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=11",
   "source": "suu_usuwa.js"
@@ -760,7 +760,7 @@ window.SONG_DATA.push(
     {
   "title": "たばこ  コレサワ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう 14首】新年初歌枠 フライディ・チャイナタウン -/泰葉",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=12",
   "source": "suu_usuwa.js"
@@ -768,7 +768,7 @@ window.SONG_DATA.push(
     {
   "title": "恋人失格  コレサワ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう 14首】新年初歌枠 フライディ・チャイナタウン -/泰葉",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=13",
   "source": "suu_usuwa.js"
@@ -776,7 +776,7 @@ window.SONG_DATA.push(
     {
   "title": "トライアングラー  坂本真綾",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう 14首】新年初歌枠 フライディ・チャイナタウン -/泰葉",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=14",
   "source": "suu_usuwa.js"
@@ -784,7 +784,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄 / Vaundy",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-18]6万人耐久 怪獣の花唄 / Vaundy【歌切合集】稀羽すう",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "suu_usuwa.js"
@@ -792,7 +792,7 @@ window.SONG_DATA.push(
     {
   "title": "アイドル / YOASOBI",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-18]6万人耐久 怪獣の花唄 / Vaundy【歌切合集】稀羽すう",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "suu_usuwa.js"
@@ -800,7 +800,7 @@ window.SONG_DATA.push(
     {
   "title": "メフィスト  女王蜂",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-18]6万人耐久 怪獣の花唄 / Vaundy【歌切合集】稀羽すう",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "suu_usuwa.js"
@@ -808,7 +808,7 @@ window.SONG_DATA.push(
     {
   "title": "雪、無音、窓辺にて。  長門有希 (CV.茅原実里)",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-18]6万人耐久 怪獣の花唄 / Vaundy【歌切合集】稀羽すう",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "suu_usuwa.js"
@@ -816,7 +816,7 @@ window.SONG_DATA.push(
     {
   "title": "恋のミクル伝説  朝比奈みくる(後藤邑子)",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-18]6万人耐久 怪獣の花唄 / Vaundy【歌切合集】稀羽すう",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=5",
   "source": "suu_usuwa.js"
@@ -824,7 +824,7 @@ window.SONG_DATA.push(
     {
   "title": "トウキョウ・シャンディ・ランデヴ  MAISONdes",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-18]6万人耐久 怪獣の花唄 / Vaundy【歌切合集】稀羽すう",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=6",
   "source": "suu_usuwa.js"
@@ -832,7 +832,7 @@ window.SONG_DATA.push(
     {
   "title": "ちゅ、多様性。  ano",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-18]6万人耐久 怪獣の花唄 / Vaundy【歌切合集】稀羽すう",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=7",
   "source": "suu_usuwa.js"
@@ -840,7 +840,7 @@ window.SONG_DATA.push(
     {
   "title": "チャイナアドバイス  相対性理論",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-18]6万人耐久 怪獣の花唄 / Vaundy【歌切合集】稀羽すう",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=8",
   "source": "suu_usuwa.js"
@@ -848,7 +848,7 @@ window.SONG_DATA.push(
     {
   "title": "いーあるふぁんくらぶ  みきとP",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-18]6万人耐久 怪獣の花唄 / Vaundy【歌切合集】稀羽すう",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=9",
   "source": "suu_usuwa.js"
@@ -856,7 +856,7 @@ window.SONG_DATA.push(
     {
   "title": "ダンスホール  Mrs. GREEN APPLE",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-18]6万人耐久 怪獣の花唄 / Vaundy【歌切合集】稀羽すう",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=10",
   "source": "suu_usuwa.js"
@@ -864,7 +864,7 @@ window.SONG_DATA.push(
     {
   "title": "ケセラセラ  Mrs. GREEN APPLE",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-18]6万人耐久 怪獣の花唄 / Vaundy【歌切合集】稀羽すう",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=11",
   "source": "suu_usuwa.js"
@@ -872,7 +872,7 @@ window.SONG_DATA.push(
     {
   "title": "私は最強  Ado",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-18]6万人耐久 怪獣の花唄 / Vaundy【歌切合集】稀羽すう",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=12",
   "source": "suu_usuwa.js"
@@ -880,7 +880,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌  tuki.",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-18]6万人耐久 怪獣の花唄 / Vaundy【歌切合集】稀羽すう",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=13",
   "source": "suu_usuwa.js"
@@ -888,7 +888,7 @@ window.SONG_DATA.push(
     {
   "title": "小夜子  みきとP",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-18]6万人耐久 怪獣の花唄 / Vaundy【歌切合集】稀羽すう",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=14",
   "source": "suu_usuwa.js"
@@ -896,7 +896,7 @@ window.SONG_DATA.push(
     {
   "title": "One Last Kiss  宇多田ヒカル",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-18]6万人耐久 怪獣の花唄 / Vaundy【歌切合集】稀羽すう",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=15",
   "source": "suu_usuwa.js"
@@ -904,7 +904,7 @@ window.SONG_DATA.push(
     {
   "title": "雪の華  中島美嘉",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-18]6万人耐久 怪獣の花唄 / Vaundy【歌切合集】稀羽すう",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=16",
   "source": "suu_usuwa.js"
@@ -912,7 +912,7 @@ window.SONG_DATA.push(
     {
   "title": "Subtitle  Official髭男dism",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-18]6万人耐久 怪獣の花唄 / Vaundy【歌切合集】稀羽すう",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=17",
   "source": "suu_usuwa.js"
@@ -920,7 +920,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍  n-buna",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-18]6万人耐久 怪獣の花唄 / Vaundy【歌切合集】稀羽すう",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=18",
   "source": "suu_usuwa.js"
@@ -928,7 +928,7 @@ window.SONG_DATA.push(
     {
   "title": "夜咄ディセイブ  じん",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-18]6万人耐久 怪獣の花唄 / Vaundy【歌切合集】稀羽すう",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=19",
   "source": "suu_usuwa.js"
@@ -936,7 +936,7 @@ window.SONG_DATA.push(
     {
   "title": "アヤノの幸福理論  じん",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-18]6万人耐久 怪獣の花唄 / Vaundy【歌切合集】稀羽すう",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=20",
   "source": "suu_usuwa.js"
@@ -944,7 +944,7 @@ window.SONG_DATA.push(
     {
   "title": "Together  あきよしふみえ",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-18]6万人耐久 怪獣の花唄 / Vaundy【歌切合集】稀羽すう",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=21",
   "source": "suu_usuwa.js"
@@ -952,7 +952,7 @@ window.SONG_DATA.push(
     {
   "title": "アカシア  BUMP OF CHICKEN",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-18]6万人耐久 怪獣の花唄 / Vaundy【歌切合集】稀羽すう",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=22",
   "source": "suu_usuwa.js"
@@ -960,7 +960,7 @@ window.SONG_DATA.push(
     {
   "title": "プレパレード  逢坂大河(釘宮理恵)・櫛枝実乃梨(堀江由衣)・川嶋亜美(喜多村英梨)",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-18]6万人耐久 怪獣の花唄 / Vaundy【歌切合集】稀羽すう",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=23",
   "source": "suu_usuwa.js"
@@ -968,7 +968,7 @@ window.SONG_DATA.push(
     {
   "title": "プラチナ  坂本真綾",
   "artist": "前尘往事如昔故",
-  "collection": "#58【歌切 8首 稀羽すう 】水曜日は定期歌枠 透明人間-東京事変",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=1",
   "source": "suu_usuwa.js"
@@ -976,7 +976,7 @@ window.SONG_DATA.push(
     {
   "title": "Revival  スキマスイッチ",
   "artist": "前尘往事如昔故",
-  "collection": "#58【歌切 8首 稀羽すう 】水曜日は定期歌枠 透明人間-東京事変",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=2",
   "source": "suu_usuwa.js"
@@ -984,7 +984,7 @@ window.SONG_DATA.push(
     {
   "title": "願い  Sumika",
   "artist": "前尘往事如昔故",
-  "collection": "#58【歌切 8首 稀羽すう 】水曜日は定期歌枠 透明人間-東京事変",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=3",
   "source": "suu_usuwa.js"
@@ -992,7 +992,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌  tuki.",
   "artist": "前尘往事如昔故",
-  "collection": "#58【歌切 8首 稀羽すう 】水曜日は定期歌枠 透明人間-東京事変",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=4",
   "source": "suu_usuwa.js"
@@ -1000,7 +1000,7 @@ window.SONG_DATA.push(
     {
   "title": "きゅうくらりん  いよわ",
   "artist": "前尘往事如昔故",
-  "collection": "#58【歌切 8首 稀羽すう 】水曜日は定期歌枠 透明人間-東京事変",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=5",
   "source": "suu_usuwa.js"
@@ -1008,7 +1008,7 @@ window.SONG_DATA.push(
     {
   "title": "初めての恋が終わる時  ryo",
   "artist": "前尘往事如昔故",
-  "collection": "#58【歌切 8首 稀羽すう 】水曜日は定期歌枠 透明人間-東京事変",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=6",
   "source": "suu_usuwa.js"
@@ -1016,7 +1016,7 @@ window.SONG_DATA.push(
     {
   "title": "rain stops, good-bye  におP",
   "artist": "前尘往事如昔故",
-  "collection": "#58【歌切 8首 稀羽すう 】水曜日は定期歌枠 透明人間-東京事変",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=7",
   "source": "suu_usuwa.js"
@@ -1024,7 +1024,7 @@ window.SONG_DATA.push(
     {
   "title": "【歌切】透明人間-東京事変 稀羽すう 水曜日は定期歌枠 #58",
   "artist": "前尘往事如昔故",
-  "collection": "#58【歌切 8首 稀羽すう 】水曜日は定期歌枠 透明人間-東京事変",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=8",
   "source": "suu_usuwa.js"
@@ -1032,7 +1032,7 @@ window.SONG_DATA.push(
     {
   "title": "回る空うさぎ / Orangestar",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-14]  稀羽すう🦢 13 】回る空うさぎ-Orangestar 静静地唱歌,是否适合作为睡眠引导?",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -1040,7 +1040,7 @@ window.SONG_DATA.push(
     {
   "title": "アヤノの幸福理論 / じん",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-14]  稀羽すう🦢 13 】回る空うさぎ-Orangestar 静静地唱歌,是否适合作为睡眠引导?",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -1048,7 +1048,7 @@ window.SONG_DATA.push(
     {
   "title": "妄想感傷代償連盟 / DECO*27",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-14]  稀羽すう🦢 13 】回る空うさぎ-Orangestar 静静地唱歌,是否适合作为睡眠引导?",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -1056,7 +1056,7 @@ window.SONG_DATA.push(
     {
   "title": "蝶々結び / Aimer",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-14]  稀羽すう🦢 13 】回る空うさぎ-Orangestar 静静地唱歌,是否适合作为睡眠引导?",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -1064,7 +1064,7 @@ window.SONG_DATA.push(
     {
   "title": "いのちの名前 / 木村弓",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-14]  稀羽すう🦢 13 】回る空うさぎ-Orangestar 静静地唱歌,是否适合作为睡眠引导?",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -1072,7 +1072,7 @@ window.SONG_DATA.push(
     {
   "title": "clock lock works / ハチ",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-14]  稀羽すう🦢 13 】回る空うさぎ-Orangestar 静静地唱歌,是否适合作为睡眠引导?",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -1080,7 +1080,7 @@ window.SONG_DATA.push(
     {
   "title": "1925 / 冨田悠斗(とみー/T-POCKET)",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-14]  稀羽すう🦢 13 】回る空うさぎ-Orangestar 静静地唱歌,是否适合作为睡眠引导?",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -1088,7 +1088,7 @@ window.SONG_DATA.push(
     {
   "title": "都落ち / ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-14]  稀羽すう🦢 13 】回る空うさぎ-Orangestar 静静地唱歌,是否适合作为睡眠引导?",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -1096,7 +1096,7 @@ window.SONG_DATA.push(
     {
   "title": "心拍数♯0822 / 蝶々P",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-14]  稀羽すう🦢 13 】回る空うさぎ-Orangestar 静静地唱歌,是否适合作为睡眠引导?",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -1104,7 +1104,7 @@ window.SONG_DATA.push(
     {
   "title": "弱虫モンブラン / DECO*27",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-14]  稀羽すう🦢 13 】回る空うさぎ-Orangestar 静静地唱歌,是否适合作为睡眠引导?",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -1112,7 +1112,7 @@ window.SONG_DATA.push(
     {
   "title": "おじゃま虫 / DECO*27",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-14]  稀羽すう🦢 13 】回る空うさぎ-Orangestar 静静地唱歌,是否适合作为睡眠引导?",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -1120,7 +1120,7 @@ window.SONG_DATA.push(
     {
   "title": "会いたい / Dios/シグナルP",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-14]  稀羽すう🦢 13 】回る空うさぎ-Orangestar 静静地唱歌,是否适合作为睡眠引导?",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=12",
   "source": "suu_usuwa.js"
@@ -1128,7 +1128,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍 / n-buna",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-14]  稀羽すう🦢 13 】回る空うさぎ-Orangestar 静静地唱歌,是否适合作为睡眠引导?",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=13",
   "source": "suu_usuwa.js"
@@ -1136,7 +1136,7 @@ window.SONG_DATA.push(
     {
   "title": "001301 ノーダウト  Official髭男dism",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-25] #59 稀羽すう】水曜日は定期歌枠  02:14:26 恋人失格 / コレサワ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -1144,7 +1144,7 @@ window.SONG_DATA.push(
     {
   "title": "001910 青のすみか  キタニタツヤ",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-25] #59 稀羽すう】水曜日は定期歌枠  02:14:26 恋人失格 / コレサワ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -1152,7 +1152,7 @@ window.SONG_DATA.push(
     {
   "title": "002826 涙そうそう  夏川りみ",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-25] #59 稀羽すう】水曜日は定期歌枠  02:14:26 恋人失格 / コレサワ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -1160,7 +1160,7 @@ window.SONG_DATA.push(
     {
   "title": "003717 アイデア  星野源",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-25] #59 稀羽すう】水曜日は定期歌枠  02:14:26 恋人失格 / コレサワ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -1168,7 +1168,7 @@ window.SONG_DATA.push(
     {
   "title": "004517 Lemon  米津玄師",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-25] #59 稀羽すう】水曜日は定期歌枠  02:14:26 恋人失格 / コレサワ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -1176,7 +1176,7 @@ window.SONG_DATA.push(
     {
   "title": "005654 キミの記憶  川村ゆみ",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-25] #59 稀羽すう】水曜日は定期歌枠  02:14:26 恋人失格 / コレサワ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -1184,7 +1184,7 @@ window.SONG_DATA.push(
     {
   "title": "011140 祝福  YOASOBI",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-25] #59 稀羽すう】水曜日は定期歌枠  02:14:26 恋人失格 / コレサワ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -1192,7 +1192,7 @@ window.SONG_DATA.push(
     {
   "title": "011706 秒針を噛む  ずっと真夜中でいいのに。",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-25] #59 稀羽すう】水曜日は定期歌枠  02:14:26 恋人失格 / コレサワ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -1200,7 +1200,7 @@ window.SONG_DATA.push(
     {
   "title": "012412 廻廻奇譚  Eve",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-25] #59 稀羽すう】水曜日は定期歌枠  02:14:26 恋人失格 / コレサワ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -1208,7 +1208,7 @@ window.SONG_DATA.push(
     {
   "title": "013404 踊り子  Vaundy",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-25] #59 稀羽すう】水曜日は定期歌枠  02:14:26 恋人失格 / コレサワ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -1216,7 +1216,7 @@ window.SONG_DATA.push(
     {
   "title": "014110 世界の約束  倍賞千恵子",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-25] #59 稀羽すう】水曜日は定期歌枠  02:14:26 恋人失格 / コレサワ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -1224,7 +1224,7 @@ window.SONG_DATA.push(
     {
   "title": "015320 晩餐歌  tuki.",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-25] #59 稀羽すう】水曜日は定期歌枠  02:14:26 恋人失格 / コレサワ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -1232,7 +1232,7 @@ window.SONG_DATA.push(
     {
   "title": "020249 ココロ  トラボルタ",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-25] #59 稀羽すう】水曜日は定期歌枠  02:14:26 恋人失格 / コレサワ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -1240,7 +1240,7 @@ window.SONG_DATA.push(
     {
   "title": "021426 恋人失格  コレサワ",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-25] #59 稀羽すう】水曜日は定期歌枠  02:14:26 恋人失格 / コレサワ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -1248,7 +1248,7 @@ window.SONG_DATA.push(
     {
   "title": "022543 勇気100％  光GENJI",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-01-25] #59 稀羽すう】水曜日は定期歌枠  02:14:26 恋人失格 / コレサワ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=15",
   "source": "suu_usuwa.js"
@@ -1256,7 +1256,7 @@ window.SONG_DATA.push(
     {
   "title": "001139 若者のすべて  フジファブリック",
   "artist": "前尘往事如昔故",
-  "collection": "2024年2月1日【 稀羽すう】【16歌】深夜歌枠,静静地唱歌。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -1264,7 +1264,7 @@ window.SONG_DATA.push(
     {
   "title": "002412 エイリアンズ  キリンジ",
   "artist": "前尘往事如昔故",
-  "collection": "2024年2月1日【 稀羽すう】【16歌】深夜歌枠,静静地唱歌。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -1272,7 +1272,7 @@ window.SONG_DATA.push(
     {
   "title": "003619 ラブ・ストーリーは突然に  小田和正",
   "artist": "前尘往事如昔故",
-  "collection": "2024年2月1日【 稀羽すう】【16歌】深夜歌枠,静静地唱歌。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -1280,7 +1280,7 @@ window.SONG_DATA.push(
     {
   "title": "004631 君の知らない物語  supercell",
   "artist": "前尘往事如昔故",
-  "collection": "2024年2月1日【 稀羽すう】【16歌】深夜歌枠,静静地唱歌。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -1288,7 +1288,7 @@ window.SONG_DATA.push(
     {
   "title": "005316 左右盲  ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "2024年2月1日【 稀羽すう】【16歌】深夜歌枠,静静地唱歌。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -1296,7 +1296,7 @@ window.SONG_DATA.push(
     {
   "title": "010440 キミの記憶  川村ゆみ",
   "artist": "前尘往事如昔故",
-  "collection": "2024年2月1日【 稀羽すう】【16歌】深夜歌枠,静静地唱歌。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -1304,7 +1304,7 @@ window.SONG_DATA.push(
     {
   "title": "012037 Never More  平田志穂子",
   "artist": "前尘往事如昔故",
-  "collection": "2024年2月1日【 稀羽すう】【16歌】深夜歌枠,静静地唱歌。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -1312,7 +1312,7 @@ window.SONG_DATA.push(
     {
   "title": "014302 燈  崎山蒼志",
   "artist": "前尘往事如昔故",
-  "collection": "2024年2月1日【 稀羽すう】【16歌】深夜歌枠,静静地唱歌。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -1320,7 +1320,7 @@ window.SONG_DATA.push(
     {
   "title": "014924 ベテルギウス  優里",
   "artist": "前尘往事如昔故",
-  "collection": "2024年2月1日【 稀羽すう】【16歌】深夜歌枠,静静地唱歌。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -1328,7 +1328,7 @@ window.SONG_DATA.push(
     {
   "title": "015654 また君に恋してる  坂本冬美",
   "artist": "前尘往事如昔故",
-  "collection": "2024年2月1日【 稀羽すう】【16歌】深夜歌枠,静静地唱歌。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -1336,7 +1336,7 @@ window.SONG_DATA.push(
     {
   "title": "020731 月のワルツ  諫山実生",
   "artist": "前尘往事如昔故",
-  "collection": "2024年2月1日【 稀羽すう】【16歌】深夜歌枠,静静地唱歌。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -1344,7 +1344,7 @@ window.SONG_DATA.push(
     {
   "title": "021541 Pop Virus  星野源",
   "artist": "前尘往事如昔故",
-  "collection": "2024年2月1日【 稀羽すう】【16歌】深夜歌枠,静静地唱歌。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -1352,7 +1352,7 @@ window.SONG_DATA.push(
     {
   "title": "022002 family song  星野源",
   "artist": "前尘往事如昔故",
-  "collection": "2024年2月1日【 稀羽すう】【16歌】深夜歌枠,静静地唱歌。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -1360,7 +1360,7 @@ window.SONG_DATA.push(
     {
   "title": "022840 喜劇  星野源",
   "artist": "前尘往事如昔故",
-  "collection": "2024年2月1日【 稀羽すう】【16歌】深夜歌枠,静静地唱歌。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -1368,7 +1368,7 @@ window.SONG_DATA.push(
     {
   "title": "023518 3月9日  レミオロメン",
   "artist": "前尘往事如昔故",
-  "collection": "2024年2月1日【 稀羽すう】【16歌】深夜歌枠,静静地唱歌。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=15",
   "source": "suu_usuwa.js"
@@ -1376,7 +1376,7 @@ window.SONG_DATA.push(
     {
   "title": "024623 One more time, One more chance  山崎まさよし",
   "artist": "前尘往事如昔故",
-  "collection": "2024年2月1日【 稀羽すう】【16歌】深夜歌枠,静静地唱歌。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=16",
   "source": "suu_usuwa.js"
@@ -1384,7 +1384,7 @@ window.SONG_DATA.push(
     {
   "title": "15-残酷な天使のテーゼ / 高橋洋子",
   "artist": "前尘往事如昔故",
-  "collection": "#60  2024年2月7日【 稀羽すう】【16歌】 水曜日は定期歌枠 eva专场",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=1",
   "source": "suu_usuwa.js"
@@ -1392,7 +1392,7 @@ window.SONG_DATA.push(
     {
   "title": "16-魂のルフラン / 高橋洋子",
   "artist": "前尘往事如昔故",
-  "collection": "#60  2024年2月7日【 稀羽すう】【16歌】 水曜日は定期歌枠 eva专场",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=2",
   "source": "suu_usuwa.js"
@@ -1400,7 +1400,7 @@ window.SONG_DATA.push(
     {
   "title": "17-Beautiful World  宇多田ヒカル",
   "artist": "前尘往事如昔故",
-  "collection": "#60  2024年2月7日【 稀羽すう】【16歌】 水曜日は定期歌枠 eva专场",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=3",
   "source": "suu_usuwa.js"
@@ -1408,7 +1408,7 @@ window.SONG_DATA.push(
     {
   "title": "18-翼をください  赤い鳥",
   "artist": "前尘往事如昔故",
-  "collection": "#60  2024年2月7日【 稀羽すう】【16歌】 水曜日は定期歌枠 eva专场",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=4",
   "source": "suu_usuwa.js"
@@ -1416,7 +1416,7 @@ window.SONG_DATA.push(
     {
   "title": "19-One Last Kiss  宇多田ヒカル",
   "artist": "前尘往事如昔故",
-  "collection": "#60  2024年2月7日【 稀羽すう】【16歌】 水曜日は定期歌枠 eva专场",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=5",
   "source": "suu_usuwa.js"
@@ -1424,7 +1424,7 @@ window.SONG_DATA.push(
     {
   "title": "20-星間飛行  ランカ・リー(中島愛)",
   "artist": "前尘往事如昔故",
-  "collection": "#60  2024年2月7日【 稀羽すう】【16歌】 水曜日は定期歌枠 eva专场",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=6",
   "source": "suu_usuwa.js"
@@ -1432,7 +1432,7 @@ window.SONG_DATA.push(
     {
   "title": "21-トライアングラー  坂本真綾",
   "artist": "前尘往事如昔故",
-  "collection": "#60  2024年2月7日【 稀羽すう】【16歌】 水曜日は定期歌枠 eva专场",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=7",
   "source": "suu_usuwa.js"
@@ -1440,7 +1440,7 @@ window.SONG_DATA.push(
     {
   "title": "22-ユニバーサル・バニー  シェリル・ノーム starring May'n",
   "artist": "前尘往事如昔故",
-  "collection": "#60  2024年2月7日【 稀羽すう】【16歌】 水曜日は定期歌枠 eva专场",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=8",
   "source": "suu_usuwa.js"
@@ -1448,7 +1448,7 @@ window.SONG_DATA.push(
     {
   "title": "23-祝福  YOASOBI",
   "artist": "前尘往事如昔故",
-  "collection": "#60  2024年2月7日【 稀羽すう】【16歌】 水曜日は定期歌枠 eva专场",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=9",
   "source": "suu_usuwa.js"
@@ -1456,7 +1456,7 @@ window.SONG_DATA.push(
     {
   "title": "24-アイドル  YOASOBI",
   "artist": "前尘往事如昔故",
-  "collection": "#60  2024年2月7日【 稀羽すう】【16歌】 水曜日は定期歌枠 eva专场",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=10",
   "source": "suu_usuwa.js"
@@ -1464,7 +1464,7 @@ window.SONG_DATA.push(
     {
   "title": "25-シュガーソングとビターステップ  UNISON SQUARE GARDEN",
   "artist": "前尘往事如昔故",
-  "collection": "#60  2024年2月7日【 稀羽すう】【16歌】 水曜日は定期歌枠 eva专场",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=11",
   "source": "suu_usuwa.js"
@@ -1472,7 +1472,7 @@ window.SONG_DATA.push(
     {
   "title": "26-DAN DAN 心魅かれてく  FIELD OF VIEW",
   "artist": "前尘往事如昔故",
-  "collection": "#60  2024年2月7日【 稀羽すう】【16歌】 水曜日は定期歌枠 eva专场",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=12",
   "source": "suu_usuwa.js"
@@ -1480,7 +1480,7 @@ window.SONG_DATA.push(
     {
   "title": "27-東京ブギウギ  笠置シヅ子",
   "artist": "前尘往事如昔故",
-  "collection": "#60  2024年2月7日【 稀羽すう】【16歌】 水曜日は定期歌枠 eva专场",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=13",
   "source": "suu_usuwa.js"
@@ -1488,7 +1488,7 @@ window.SONG_DATA.push(
     {
   "title": "28-115万キロのフィルム  Official髭男dism",
   "artist": "前尘往事如昔故",
-  "collection": "#60  2024年2月7日【 稀羽すう】【16歌】 水曜日は定期歌枠 eva专场",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=14",
   "source": "suu_usuwa.js"
@@ -1496,7 +1496,7 @@ window.SONG_DATA.push(
     {
   "title": "29-空も飛べるはず  スピッツ",
   "artist": "前尘往事如昔故",
-  "collection": "#60  2024年2月7日【 稀羽すう】【16歌】 水曜日は定期歌枠 eva专场",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=15",
   "source": "suu_usuwa.js"
@@ -1504,7 +1504,7 @@ window.SONG_DATA.push(
     {
   "title": "30-First Love  宇多田ヒカル",
   "artist": "前尘往事如昔故",
-  "collection": "#60  2024年2月7日【 稀羽すう】【16歌】 水曜日は定期歌枠 eva专场",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=16",
   "source": "suu_usuwa.js"
@@ -1512,7 +1512,7 @@ window.SONG_DATA.push(
     {
   "title": "1- 001147 猫 DISH",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-02-22] 【 稀羽すう 12首】猫の日🐈 猫 / DISH//",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=1",
   "source": "suu_usuwa.js"
@@ -1520,7 +1520,7 @@ window.SONG_DATA.push(
     {
   "title": "2- 002219 嗚呼、素晴らしきニャン生  Nem",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-02-22] 【 稀羽すう 12首】猫の日🐈 猫 / DISH//",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=2",
   "source": "suu_usuwa.js"
@@ -1528,7 +1528,7 @@ window.SONG_DATA.push(
     {
   "title": "3- 002842 アニマル  DECO27",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-02-22] 【 稀羽すう 12首】猫の日🐈 猫 / DISH//",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=3",
   "source": "suu_usuwa.js"
@@ -1536,7 +1536,7 @@ window.SONG_DATA.push(
     {
   "title": "4- 003406 風になる  つじあやの",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-02-22] 【 稀羽すう 12首】猫の日🐈 猫 / DISH//",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=4",
   "source": "suu_usuwa.js"
@@ -1544,7 +1544,7 @@ window.SONG_DATA.push(
     {
   "title": "5- 003912 ルージュの伝言  松任谷由実",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-02-22] 【 稀羽すう 12首】猫の日🐈 猫 / DISH//",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=5",
   "source": "suu_usuwa.js"
@@ -1552,7 +1552,7 @@ window.SONG_DATA.push(
     {
   "title": "6- 004300 やさしさに包まれたなら  松任谷由実",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-02-22] 【 稀羽すう 12首】猫の日🐈 猫 / DISH//",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=6",
   "source": "suu_usuwa.js"
@@ -1560,7 +1560,7 @@ window.SONG_DATA.push(
     {
   "title": "7- 004907 ただ君に晴れ  ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-02-22] 【 稀羽すう 12首】猫の日🐈 猫 / DISH//",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=7",
   "source": "suu_usuwa.js"
@@ -1568,7 +1568,7 @@ window.SONG_DATA.push(
     {
   "title": "8- 005545 POP STAR  平井堅",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-02-22] 【 稀羽すう 12首】猫の日🐈 猫 / DISH//",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=8",
   "source": "suu_usuwa.js"
@@ -1576,7 +1576,7 @@ window.SONG_DATA.push(
     {
   "title": "9- 010622 Beautiful World  宇多田ヒカル",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-02-22] 【 稀羽すう 12首】猫の日🐈 猫 / DISH//",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=9",
   "source": "suu_usuwa.js"
@@ -1584,7 +1584,7 @@ window.SONG_DATA.push(
     {
   "title": "10- 011813 オレンジ  逢坂大河(釘宮理恵),櫛枝実乃梨(堀江由衣),川嶋亜美(喜多村英梨)",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-02-22] 【 稀羽すう 12首】猫の日🐈 猫 / DISH//",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=10",
   "source": "suu_usuwa.js"
@@ -1592,7 +1592,7 @@ window.SONG_DATA.push(
     {
   "title": "11- 012430 ノーチラス ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-02-22] 【 稀羽すう 12首】猫の日🐈 猫 / DISH//",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=11",
   "source": "suu_usuwa.js"
@@ -1600,7 +1600,7 @@ window.SONG_DATA.push(
     {
   "title": "12- 013224 晩餐歌  tuki.",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-02-22] 【 稀羽すう 12首】猫の日🐈 猫 / DISH//",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=12",
   "source": "suu_usuwa.js"
@@ -1608,7 +1608,7 @@ window.SONG_DATA.push(
     {
   "title": "花  藤井風",
   "artist": "前尘往事如昔故",
-  "collection": "2024-02-25 【 稀羽すう/Re:AcT 】深夜の睡眠導入ウィスパーボイス歌枠 眠れないあなたへ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -1616,7 +1616,7 @@ window.SONG_DATA.push(
     {
   "title": "死ぬのがいいわ  藤井風",
   "artist": "前尘往事如昔故",
-  "collection": "2024-02-25 【 稀羽すう/Re:AcT 】深夜の睡眠導入ウィスパーボイス歌枠 眠れないあなたへ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -1624,7 +1624,7 @@ window.SONG_DATA.push(
     {
   "title": "3月9日  レミオロメン",
   "artist": "前尘往事如昔故",
-  "collection": "2024-02-25 【 稀羽すう/Re:AcT 】深夜の睡眠導入ウィスパーボイス歌枠 眠れないあなたへ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -1632,7 +1632,7 @@ window.SONG_DATA.push(
     {
   "title": "366日  HY",
   "artist": "前尘往事如昔故",
-  "collection": "2024-02-25 【 稀羽すう/Re:AcT 】深夜の睡眠導入ウィスパーボイス歌枠 眠れないあなたへ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -1640,7 +1640,7 @@ window.SONG_DATA.push(
     {
   "title": "手紙～拝啓　十五の君へ～  アンジェラ・アキ",
   "artist": "前尘往事如昔故",
-  "collection": "2024-02-25 【 稀羽すう/Re:AcT 】深夜の睡眠導入ウィスパーボイス歌枠 眠れないあなたへ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -1648,7 +1648,7 @@ window.SONG_DATA.push(
     {
   "title": "瞳をとじて  平井堅",
   "artist": "前尘往事如昔故",
-  "collection": "2024-02-25 【 稀羽すう/Re:AcT 】深夜の睡眠導入ウィスパーボイス歌枠 眠れないあなたへ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -1656,7 +1656,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒  ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "2024-02-25 【 稀羽すう/Re:AcT 】深夜の睡眠導入ウィスパーボイス歌枠 眠れないあなたへ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -1664,7 +1664,7 @@ window.SONG_DATA.push(
     {
   "title": "風を食む  ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "2024-02-25 【 稀羽すう/Re:AcT 】深夜の睡眠導入ウィスパーボイス歌枠 眠れないあなたへ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -1672,7 +1672,7 @@ window.SONG_DATA.push(
     {
   "title": "桜流し  宇多田ヒカル",
   "artist": "前尘往事如昔故",
-  "collection": "2024-02-25 【 稀羽すう/Re:AcT 】深夜の睡眠導入ウィスパーボイス歌枠 眠れないあなたへ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -1680,7 +1680,7 @@ window.SONG_DATA.push(
     {
   "title": "ダイアモンドクレバス  シェリル・ノーム starring May'n",
   "artist": "前尘往事如昔故",
-  "collection": "2024-02-25 【 稀羽すう/Re:AcT 】深夜の睡眠導入ウィスパーボイス歌枠 眠れないあなたへ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -1688,7 +1688,7 @@ window.SONG_DATA.push(
     {
   "title": "深昏睡  春野",
   "artist": "前尘往事如昔故",
-  "collection": "2024-02-25 【 稀羽すう/Re:AcT 】深夜の睡眠導入ウィスパーボイス歌枠 眠れないあなたへ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -1696,7 +1696,7 @@ window.SONG_DATA.push(
     {
   "title": "nuit  春野",
   "artist": "前尘往事如昔故",
-  "collection": "2024-02-25 【 稀羽すう/Re:AcT 】深夜の睡眠導入ウィスパーボイス歌枠 眠れないあなたへ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -1704,7 +1704,7 @@ window.SONG_DATA.push(
     {
   "title": "トエト  トラボルタP",
   "artist": "前尘往事如昔故",
-  "collection": "2024-02-25 【 稀羽すう/Re:AcT 】深夜の睡眠導入ウィスパーボイス歌枠 眠れないあなたへ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -1712,7 +1712,7 @@ window.SONG_DATA.push(
     {
   "title": "ただ声一つ  ロクデナシ",
   "artist": "前尘往事如昔故",
-  "collection": "2024-02-25 【 稀羽すう/Re:AcT 】深夜の睡眠導入ウィスパーボイス歌枠 眠れないあなたへ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -1720,7 +1720,7 @@ window.SONG_DATA.push(
     {
   "title": "夜撫でるメノウ  Ayase",
   "artist": "前尘往事如昔故",
-  "collection": "2024-02-25 【 稀羽すう/Re:AcT 】深夜の睡眠導入ウィスパーボイス歌枠 眠れないあなたへ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=15",
   "source": "suu_usuwa.js"
@@ -1728,7 +1728,7 @@ window.SONG_DATA.push(
     {
   "title": "不思議  星野源",
   "artist": "前尘往事如昔故",
-  "collection": "2024-02-25 【 稀羽すう/Re:AcT 】深夜の睡眠導入ウィスパーボイス歌枠 眠れないあなたへ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=16",
   "source": "suu_usuwa.js"
@@ -1736,7 +1736,7 @@ window.SONG_DATA.push(
     {
   "title": "Pop Virus  星野源",
   "artist": "前尘往事如昔故",
-  "collection": "2024-02-25 【 稀羽すう/Re:AcT 】深夜の睡眠導入ウィスパーボイス歌枠 眠れないあなたへ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=17",
   "source": "suu_usuwa.js"
@@ -1744,7 +1744,7 @@ window.SONG_DATA.push(
     {
   "title": "水平線  back number",
   "artist": "前尘往事如昔故",
-  "collection": "2024-02-25 【 稀羽すう/Re:AcT 】深夜の睡眠導入ウィスパーボイス歌枠 眠れないあなたへ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=18",
   "source": "suu_usuwa.js"
@@ -1752,7 +1752,7 @@ window.SONG_DATA.push(
     {
   "title": "Revival  スキマスイッチ",
   "artist": "前尘往事如昔故",
-  "collection": "2024-02-25 【 稀羽すう/Re:AcT 】深夜の睡眠導入ウィスパーボイス歌枠 眠れないあなたへ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=19",
   "source": "suu_usuwa.js"
@@ -1760,7 +1760,7 @@ window.SONG_DATA.push(
     {
   "title": "奏  スキマスイッチ",
   "artist": "前尘往事如昔故",
-  "collection": "2024-02-25 【 稀羽すう/Re:AcT 】深夜の睡眠導入ウィスパーボイス歌枠 眠れないあなたへ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=20",
   "source": "suu_usuwa.js"
@@ -1768,7 +1768,7 @@ window.SONG_DATA.push(
     {
   "title": "もう恋なんてしない  槇原敬之",
   "artist": "前尘往事如昔故",
-  "collection": "2024-02-25 【 稀羽すう/Re:AcT 】深夜の睡眠導入ウィスパーボイス歌枠 眠れないあなたへ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=21",
   "source": "suu_usuwa.js"
@@ -1776,7 +1776,7 @@ window.SONG_DATA.push(
     {
   "title": "One Last Kiss  宇多田ヒカル",
   "artist": "前尘往事如昔故",
-  "collection": "2024-02-25 【 稀羽すう/Re:AcT 】深夜の睡眠導入ウィスパーボイス歌枠 眠れないあなたへ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=22",
   "source": "suu_usuwa.js"
@@ -1784,7 +1784,7 @@ window.SONG_DATA.push(
     {
   "title": "チェリー  スピッツ",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-02] 稀羽すう - Suu Usuwa -20首竖屏 路上ライブ風 縦型配信！01. チェリー  スピッツ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=1",
   "source": "suu_usuwa.js"
@@ -1792,7 +1792,7 @@ window.SONG_DATA.push(
     {
   "title": "空も飛べるはず  スピッツ",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-02] 稀羽すう - Suu Usuwa -20首竖屏 路上ライブ風 縦型配信！01. チェリー  スピッツ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=2",
   "source": "suu_usuwa.js"
@@ -1800,7 +1800,7 @@ window.SONG_DATA.push(
     {
   "title": "恋  星野源",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-02] 稀羽すう - Suu Usuwa -20首竖屏 路上ライブ風 縦型配信！01. チェリー  スピッツ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=3",
   "source": "suu_usuwa.js"
@@ -1808,7 +1808,7 @@ window.SONG_DATA.push(
     {
   "title": "丸の内サディスティック  椎名林檎",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-02] 稀羽すう - Suu Usuwa -20首竖屏 路上ライブ風 縦型配信！01. チェリー  スピッツ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=4",
   "source": "suu_usuwa.js"
@@ -1816,7 +1816,7 @@ window.SONG_DATA.push(
     {
   "title": "CHE.R.RY  YUI",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-02] 稀羽すう - Suu Usuwa -20首竖屏 路上ライブ風 縦型配信！01. チェリー  スピッツ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=5",
   "source": "suu_usuwa.js"
@@ -1824,7 +1824,7 @@ window.SONG_DATA.push(
     {
   "title": "SAKURA  いきものがかり",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-02] 稀羽すう - Suu Usuwa -20首竖屏 路上ライブ風 縦型配信！01. チェリー  スピッツ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=6",
   "source": "suu_usuwa.js"
@@ -1832,7 +1832,7 @@ window.SONG_DATA.push(
     {
   "title": "うるわしきひと  いきものがかり",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-02] 稀羽すう - Suu Usuwa -20首竖屏 路上ライブ風 縦型配信！01. チェリー  スピッツ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=7",
   "source": "suu_usuwa.js"
@@ -1840,7 +1840,7 @@ window.SONG_DATA.push(
     {
   "title": "できっこないをやらなくちゃ  サンボマスター",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-02] 稀羽すう - Suu Usuwa -20首竖屏 路上ライブ風 縦型配信！01. チェリー  スピッツ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=8",
   "source": "suu_usuwa.js"
@@ -1848,7 +1848,7 @@ window.SONG_DATA.push(
     {
   "title": "ラブ・ストーリーは突然に  小田和正",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-02] 稀羽すう - Suu Usuwa -20首竖屏 路上ライブ風 縦型配信！01. チェリー  スピッツ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=9",
   "source": "suu_usuwa.js"
@@ -1856,7 +1856,7 @@ window.SONG_DATA.push(
     {
   "title": "恋愛裁判  40mP",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-02] 稀羽すう - Suu Usuwa -20首竖屏 路上ライブ風 縦型配信！01. チェリー  スピッツ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=10",
   "source": "suu_usuwa.js"
@@ -1864,7 +1864,7 @@ window.SONG_DATA.push(
     {
   "title": "メランコリック  Junky",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-02] 稀羽すう - Suu Usuwa -20首竖屏 路上ライブ風 縦型配信！01. チェリー  スピッツ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=11",
   "source": "suu_usuwa.js"
@@ -1872,7 +1872,7 @@ window.SONG_DATA.push(
     {
   "title": "純情スカート  40mP",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-02] 稀羽すう - Suu Usuwa -20首竖屏 路上ライブ風 縦型配信！01. チェリー  スピッツ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=12",
   "source": "suu_usuwa.js"
@@ -1880,7 +1880,7 @@ window.SONG_DATA.push(
     {
   "title": "シャルル  バルーン",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-02] 稀羽すう - Suu Usuwa -20首竖屏 路上ライブ風 縦型配信！01. チェリー  スピッツ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=13",
   "source": "suu_usuwa.js"
@@ -1888,7 +1888,7 @@ window.SONG_DATA.push(
     {
   "title": "ダーリン  須田景凪",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-02] 稀羽すう - Suu Usuwa -20首竖屏 路上ライブ風 縦型配信！01. チェリー  スピッツ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=14",
   "source": "suu_usuwa.js"
@@ -1896,7 +1896,7 @@ window.SONG_DATA.push(
     {
   "title": "デスぺレート feat. LOLUET  藤井風",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-02] 稀羽すう - Suu Usuwa -20首竖屏 路上ライブ風 縦型配信！01. チェリー  スピッツ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=15",
   "source": "suu_usuwa.js"
@@ -1904,7 +1904,7 @@ window.SONG_DATA.push(
     {
   "title": "damn  藤井風",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-02] 稀羽すう - Suu Usuwa -20首竖屏 路上ライブ風 縦型配信！01. チェリー  スピッツ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=16",
   "source": "suu_usuwa.js"
@@ -1912,7 +1912,7 @@ window.SONG_DATA.push(
     {
   "title": "花  藤井風",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-02] 稀羽すう - Suu Usuwa -20首竖屏 路上ライブ風 縦型配信！01. チェリー  スピッツ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=17",
   "source": "suu_usuwa.js"
@@ -1920,7 +1920,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌  tuki.",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-02] 稀羽すう - Suu Usuwa -20首竖屏 路上ライブ風 縦型配信！01. チェリー  スピッツ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=18",
   "source": "suu_usuwa.js"
@@ -1928,7 +1928,7 @@ window.SONG_DATA.push(
     {
   "title": "若者のすべて  フジファブリック",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-02] 稀羽すう - Suu Usuwa -20首竖屏 路上ライブ風 縦型配信！01. チェリー  スピッツ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=19",
   "source": "suu_usuwa.js"
@@ -1936,7 +1936,7 @@ window.SONG_DATA.push(
     {
   "title": "Good-bye days  YUI",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-02] 稀羽すう - Suu Usuwa -20首竖屏 路上ライブ風 縦型配信！01. チェリー  スピッツ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=20",
   "source": "suu_usuwa.js"
@@ -1944,7 +1944,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄",
   "artist": "前尘往事如昔故",
-  "collection": "2024-03-06 稀羽すう/巫てんり/涼海ネモ 🎤3Dカラオケコラボ✨ - 1stEP カバーミニアルバム発売記念 01. 怪獣の花唄",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=1",
   "source": "suu_usuwa.js"
@@ -1952,7 +1952,7 @@ window.SONG_DATA.push(
     {
   "title": "春を告げる",
   "artist": "前尘往事如昔故",
-  "collection": "2024-03-06 稀羽すう/巫てんり/涼海ネモ 🎤3Dカラオケコラボ✨ - 1stEP カバーミニアルバム発売記念 01. 怪獣の花唄",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=2",
   "source": "suu_usuwa.js"
@@ -1960,7 +1960,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーチラス",
   "artist": "前尘往事如昔故",
-  "collection": "2024-03-06 稀羽すう/巫てんり/涼海ネモ 🎤3Dカラオケコラボ✨ - 1stEP カバーミニアルバム発売記念 01. 怪獣の花唄",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=3",
   "source": "suu_usuwa.js"
@@ -1968,7 +1968,7 @@ window.SONG_DATA.push(
     {
   "title": "正しくなれない",
   "artist": "前尘往事如昔故",
-  "collection": "2024-03-06 稀羽すう/巫てんり/涼海ネモ 🎤3Dカラオケコラボ✨ - 1stEP カバーミニアルバム発売記念 01. 怪獣の花唄",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=4",
   "source": "suu_usuwa.js"
@@ -1976,7 +1976,7 @@ window.SONG_DATA.push(
     {
   "title": "Butter-Fly",
   "artist": "前尘往事如昔故",
-  "collection": "2024-03-06 稀羽すう/巫てんり/涼海ネモ 🎤3Dカラオケコラボ✨ - 1stEP カバーミニアルバム発売記念 01. 怪獣の花唄",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=5",
   "source": "suu_usuwa.js"
@@ -1984,7 +1984,7 @@ window.SONG_DATA.push(
     {
   "title": "unravel",
   "artist": "前尘往事如昔故",
-  "collection": "2024-03-06 稀羽すう/巫てんり/涼海ネモ 🎤3Dカラオケコラボ✨ - 1stEP カバーミニアルバム発売記念 01. 怪獣の花唄",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=6",
   "source": "suu_usuwa.js"
@@ -1992,7 +1992,7 @@ window.SONG_DATA.push(
     {
   "title": "祝福",
   "artist": "前尘往事如昔故",
-  "collection": "2024-03-06 稀羽すう/巫てんり/涼海ネモ 🎤3Dカラオケコラボ✨ - 1stEP カバーミニアルバム発売記念 01. 怪獣の花唄",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=7",
   "source": "suu_usuwa.js"
@@ -2000,7 +2000,7 @@ window.SONG_DATA.push(
     {
   "title": "ラブレター",
   "artist": "前尘往事如昔故",
-  "collection": "2024-03-06 稀羽すう/巫てんり/涼海ネモ 🎤3Dカラオケコラボ✨ - 1stEP カバーミニアルバム発売記念 01. 怪獣の花唄",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=8",
   "source": "suu_usuwa.js"
@@ -2008,7 +2008,7 @@ window.SONG_DATA.push(
     {
   "title": "115万キロのフィルム",
   "artist": "前尘往事如昔故",
-  "collection": "2024-03-06 稀羽すう/巫てんり/涼海ネモ 🎤3Dカラオケコラボ✨ - 1stEP カバーミニアルバム発売記念 01. 怪獣の花唄",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=9",
   "source": "suu_usuwa.js"
@@ -2016,7 +2016,7 @@ window.SONG_DATA.push(
     {
   "title": "星座になれたら",
   "artist": "前尘往事如昔故",
-  "collection": "2024-03-06 稀羽すう/巫てんり/涼海ネモ 🎤3Dカラオケコラボ✨ - 1stEP カバーミニアルバム発売記念 01. 怪獣の花唄",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=10",
   "source": "suu_usuwa.js"
@@ -2024,7 +2024,7 @@ window.SONG_DATA.push(
     {
   "title": "涙目爆発音",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-13]#62 【 稀羽すう/Re:AcT 13首 】水曜日は定期歌枠 08. 3月9日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -2032,7 +2032,7 @@ window.SONG_DATA.push(
     {
   "title": "春擬き",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-13]#62 【 稀羽すう/Re:AcT 13首 】水曜日は定期歌枠 08. 3月9日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -2040,7 +2040,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-13]#62 【 稀羽すう/Re:AcT 13首 】水曜日は定期歌枠 08. 3月9日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -2048,7 +2048,7 @@ window.SONG_DATA.push(
     {
   "title": "魂のルフラン",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-13]#62 【 稀羽すう/Re:AcT 13首 】水曜日は定期歌枠 08. 3月9日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -2056,7 +2056,7 @@ window.SONG_DATA.push(
     {
   "title": "悪魔の子",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-13]#62 【 稀羽すう/Re:AcT 13首 】水曜日は定期歌枠 08. 3月9日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -2064,7 +2064,7 @@ window.SONG_DATA.push(
     {
   "title": "春を告げる",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-13]#62 【 稀羽すう/Re:AcT 13首 】水曜日は定期歌枠 08. 3月9日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -2072,7 +2072,7 @@ window.SONG_DATA.push(
     {
   "title": "花の唄",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-13]#62 【 稀羽すう/Re:AcT 13首 】水曜日は定期歌枠 08. 3月9日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -2080,7 +2080,7 @@ window.SONG_DATA.push(
     {
   "title": "3月9日",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-13]#62 【 稀羽すう/Re:AcT 13首 】水曜日は定期歌枠 08. 3月9日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -2088,7 +2088,7 @@ window.SONG_DATA.push(
     {
   "title": "花は桜 君は美し",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-13]#62 【 稀羽すう/Re:AcT 13首 】水曜日は定期歌枠 08. 3月9日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -2096,7 +2096,7 @@ window.SONG_DATA.push(
     {
   "title": "さようなら、花泥棒さん",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-13]#62 【 稀羽すう/Re:AcT 13首 】水曜日は定期歌枠 08. 3月9日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -2104,7 +2104,7 @@ window.SONG_DATA.push(
     {
   "title": "たばこ",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-13]#62 【 稀羽すう/Re:AcT 13首 】水曜日は定期歌枠 08. 3月9日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -2112,7 +2112,7 @@ window.SONG_DATA.push(
     {
   "title": "恋人失格",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-13]#62 【 稀羽すう/Re:AcT 13首 】水曜日は定期歌枠 08. 3月9日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -2120,7 +2120,7 @@ window.SONG_DATA.push(
     {
   "title": "きらきら武士",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-13]#62 【 稀羽すう/Re:AcT 13首 】水曜日は定期歌枠 08. 3月9日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -2128,7 +2128,7 @@ window.SONG_DATA.push(
     {
   "title": "残酷な天使のテーゼ",
   "artist": "前尘往事如昔故",
-  "collection": "【5首 联动】【 稀羽すう/夢川かなう/シエル 】3D歌枠コラボ - CONNECT_Vが繋いだ絆編 - 01. 残酷な天使のテーゼ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -2136,7 +2136,7 @@ window.SONG_DATA.push(
     {
   "title": "悪魔の子",
   "artist": "前尘往事如昔故",
-  "collection": "【5首 联动】【 稀羽すう/夢川かなう/シエル 】3D歌枠コラボ - CONNECT_Vが繋いだ絆編 - 01. 残酷な天使のテーゼ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -2144,7 +2144,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌",
   "artist": "前尘往事如昔故",
-  "collection": "【5首 联动】【 稀羽すう/夢川かなう/シエル 】3D歌枠コラボ - CONNECT_Vが繋いだ絆編 - 01. 残酷な天使のテーゼ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -2152,7 +2152,7 @@ window.SONG_DATA.push(
     {
   "title": "貴方の恋人になりたい",
   "artist": "前尘往事如昔故",
-  "collection": "【5首 联动】【 稀羽すう/夢川かなう/シエル 】3D歌枠コラボ - CONNECT_Vが繋いだ絆編 - 01. 残酷な天使のテーゼ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -2160,7 +2160,7 @@ window.SONG_DATA.push(
     {
   "title": "創生のアクエリオン",
   "artist": "前尘往事如昔故",
-  "collection": "【5首 联动】【 稀羽すう/夢川かなう/シエル 】3D歌枠コラボ - CONNECT_Vが繋いだ絆編 - 01. 残酷な天使のテーゼ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -2168,7 +2168,7 @@ window.SONG_DATA.push(
     {
   "title": "翼をください",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-20] #63 稀羽すう17首 】周三是定期歌回 🎶 11 空 / 音無小鳥(滝田樹里)",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -2176,7 +2176,7 @@ window.SONG_DATA.push(
     {
   "title": "ないものねだり",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-20] #63 稀羽すう17首 】周三是定期歌回 🎶 11 空 / 音無小鳥(滝田樹里)",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -2184,7 +2184,7 @@ window.SONG_DATA.push(
     {
   "title": "春を告げる",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-20] #63 稀羽すう17首 】周三是定期歌回 🎶 11 空 / 音無小鳥(滝田樹里)",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -2192,7 +2192,7 @@ window.SONG_DATA.push(
     {
   "title": "チェリー",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-20] #63 稀羽すう17首 】周三是定期歌回 🎶 11 空 / 音無小鳥(滝田樹里)",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -2200,7 +2200,7 @@ window.SONG_DATA.push(
     {
   "title": "115万キロのフィルム",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-20] #63 稀羽すう17首 】周三是定期歌回 🎶 11 空 / 音無小鳥(滝田樹里)",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -2208,7 +2208,7 @@ window.SONG_DATA.push(
     {
   "title": "SWEET TWEET",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-20] #63 稀羽すう17首 】周三是定期歌回 🎶 11 空 / 音無小鳥(滝田樹里)",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -2216,7 +2216,7 @@ window.SONG_DATA.push(
     {
   "title": "Blooming♡Blooming",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-20] #63 稀羽すう17首 】周三是定期歌回 🎶 11 空 / 音無小鳥(滝田樹里)",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -2224,7 +2224,7 @@ window.SONG_DATA.push(
     {
   "title": "カレンダーガール",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-20] #63 稀羽すう17首 】周三是定期歌回 🎶 11 空 / 音無小鳥(滝田樹里)",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -2232,7 +2232,7 @@ window.SONG_DATA.push(
     {
   "title": "ダンスホール",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-20] #63 稀羽すう17首 】周三是定期歌回 🎶 11 空 / 音無小鳥(滝田樹里)",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -2240,7 +2240,7 @@ window.SONG_DATA.push(
     {
   "title": "ドラえもん",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-20] #63 稀羽すう17首 】周三是定期歌回 🎶 11 空 / 音無小鳥(滝田樹里)",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -2248,7 +2248,7 @@ window.SONG_DATA.push(
     {
   "title": "空",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-20] #63 稀羽すう17首 】周三是定期歌回 🎶 11 空 / 音無小鳥(滝田樹里)",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -2256,7 +2256,7 @@ window.SONG_DATA.push(
     {
   "title": "カタオモイ",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-20] #63 稀羽すう17首 】周三是定期歌回 🎶 11 空 / 音無小鳥(滝田樹里)",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -2264,7 +2264,7 @@ window.SONG_DATA.push(
     {
   "title": "蝶々結び",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-20] #63 稀羽すう17首 】周三是定期歌回 🎶 11 空 / 音無小鳥(滝田樹里)",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -2272,7 +2272,7 @@ window.SONG_DATA.push(
     {
   "title": "糸",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-20] #63 稀羽すう17首 】周三是定期歌回 🎶 11 空 / 音無小鳥(滝田樹里)",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -2280,7 +2280,7 @@ window.SONG_DATA.push(
     {
   "title": "水平線",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-20] #63 稀羽すう17首 】周三是定期歌回 🎶 11 空 / 音無小鳥(滝田樹里)",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=15",
   "source": "suu_usuwa.js"
@@ -2288,7 +2288,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-20] #63 稀羽すう17首 】周三是定期歌回 🎶 11 空 / 音無小鳥(滝田樹里)",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=16",
   "source": "suu_usuwa.js"
@@ -2296,7 +2296,7 @@ window.SONG_DATA.push(
     {
   "title": "透明人間",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-20] #63 稀羽すう17首 】周三是定期歌回 🎶 11 空 / 音無小鳥(滝田樹里)",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=17",
   "source": "suu_usuwa.js"
@@ -2304,7 +2304,7 @@ window.SONG_DATA.push(
     {
   "title": "ケセラセラ",
   "artist": "前尘往事如昔故",
-  "collection": "#64【稀羽すう 19首】周三是定期歌回 🎶 ケセラセラ 秒針を噛む 悪魔の子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -2312,7 +2312,7 @@ window.SONG_DATA.push(
     {
   "title": "SAKURA",
   "artist": "前尘往事如昔故",
-  "collection": "#64【稀羽すう 19首】周三是定期歌回 🎶 ケセラセラ 秒針を噛む 悪魔の子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -2320,7 +2320,7 @@ window.SONG_DATA.push(
     {
   "title": "小さな恋のうた",
   "artist": "前尘往事如昔故",
-  "collection": "#64【稀羽すう 19首】周三是定期歌回 🎶 ケセラセラ 秒針を噛む 悪魔の子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -2328,7 +2328,7 @@ window.SONG_DATA.push(
     {
   "title": "恋",
   "artist": "前尘往事如昔故",
-  "collection": "#64【稀羽すう 19首】周三是定期歌回 🎶 ケセラセラ 秒針を噛む 悪魔の子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -2336,7 +2336,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "前尘往事如昔故",
-  "collection": "#64【稀羽すう 19首】周三是定期歌回 🎶 ケセラセラ 秒針を噛む 悪魔の子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -2344,7 +2344,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒッチコック",
   "artist": "前尘往事如昔故",
-  "collection": "#64【稀羽すう 19首】周三是定期歌回 🎶 ケセラセラ 秒針を噛む 悪魔の子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -2352,7 +2352,7 @@ window.SONG_DATA.push(
     {
   "title": "私は最強",
   "artist": "前尘往事如昔故",
-  "collection": "#64【稀羽すう 19首】周三是定期歌回 🎶 ケセラセラ 秒針を噛む 悪魔の子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -2360,7 +2360,7 @@ window.SONG_DATA.push(
     {
   "title": "Cry Baby",
   "artist": "前尘往事如昔故",
-  "collection": "#64【稀羽すう 19首】周三是定期歌回 🎶 ケセラセラ 秒針を噛む 悪魔の子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -2368,7 +2368,7 @@ window.SONG_DATA.push(
     {
   "title": "悪魔の子",
   "artist": "前尘往事如昔故",
-  "collection": "#64【稀羽すう 19首】周三是定期歌回 🎶 ケセラセラ 秒針を噛む 悪魔の子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -2376,7 +2376,7 @@ window.SONG_DATA.push(
     {
   "title": "秒針を噛む",
   "artist": "前尘往事如昔故",
-  "collection": "#64【稀羽すう 19首】周三是定期歌回 🎶 ケセラセラ 秒針を噛む 悪魔の子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -2384,7 +2384,7 @@ window.SONG_DATA.push(
     {
   "title": "脳裏上のクラッカー",
   "artist": "前尘往事如昔故",
-  "collection": "#64【稀羽すう 19首】周三是定期歌回 🎶 ケセラセラ 秒針を噛む 悪魔の子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -2392,7 +2392,7 @@ window.SONG_DATA.push(
     {
   "title": "月のワルツ",
   "artist": "前尘往事如昔故",
-  "collection": "#64【稀羽すう 19首】周三是定期歌回 🎶 ケセラセラ 秒針を噛む 悪魔の子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -2400,7 +2400,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍 ｰPiano Verｰ",
   "artist": "前尘往事如昔故",
-  "collection": "#64【稀羽すう 19首】周三是定期歌回 🎶 ケセラセラ 秒針を噛む 悪魔の子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -2408,7 +2408,7 @@ window.SONG_DATA.push(
     {
   "title": "独白",
   "artist": "前尘往事如昔故",
-  "collection": "#64【稀羽すう 19首】周三是定期歌回 🎶 ケセラセラ 秒針を噛む 悪魔の子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -2416,7 +2416,7 @@ window.SONG_DATA.push(
     {
   "title": "都落ち",
   "artist": "前尘往事如昔故",
-  "collection": "#64【稀羽すう 19首】周三是定期歌回 🎶 ケセラセラ 秒針を噛む 悪魔の子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=15",
   "source": "suu_usuwa.js"
@@ -2424,7 +2424,7 @@ window.SONG_DATA.push(
     {
   "title": "ガーデン",
   "artist": "前尘往事如昔故",
-  "collection": "#64【稀羽すう 19首】周三是定期歌回 🎶 ケセラセラ 秒針を噛む 悪魔の子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=16",
   "source": "suu_usuwa.js"
@@ -2432,7 +2432,7 @@ window.SONG_DATA.push(
     {
   "title": "きらり",
   "artist": "前尘往事如昔故",
-  "collection": "#64【稀羽すう 19首】周三是定期歌回 🎶 ケセラセラ 秒針を噛む 悪魔の子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=17",
   "source": "suu_usuwa.js"
@@ -2440,7 +2440,7 @@ window.SONG_DATA.push(
     {
   "title": "NIGHT DANCER",
   "artist": "前尘往事如昔故",
-  "collection": "#64【稀羽すう 19首】周三是定期歌回 🎶 ケセラセラ 秒針を噛む 悪魔の子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=18",
   "source": "suu_usuwa.js"
@@ -2448,7 +2448,7 @@ window.SONG_DATA.push(
     {
   "title": "きらきら武士",
   "artist": "前尘往事如昔故",
-  "collection": "#64【稀羽すう 19首】周三是定期歌回 🎶 ケセラセラ 秒針を噛む 悪魔の子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=19",
   "source": "suu_usuwa.js"
@@ -2456,7 +2456,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=1",
   "source": "suu_usuwa.js"
@@ -2464,7 +2464,7 @@ window.SONG_DATA.push(
     {
   "title": "ただ君に晴れ",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=2",
   "source": "suu_usuwa.js"
@@ -2472,7 +2472,7 @@ window.SONG_DATA.push(
     {
   "title": "SUN",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=3",
   "source": "suu_usuwa.js"
@@ -2480,7 +2480,7 @@ window.SONG_DATA.push(
     {
   "title": "ルージュの伝言",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=4",
   "source": "suu_usuwa.js"
@@ -2488,7 +2488,7 @@ window.SONG_DATA.push(
     {
   "title": "やさしさに包まれたなら",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=5",
   "source": "suu_usuwa.js"
@@ -2496,7 +2496,7 @@ window.SONG_DATA.push(
     {
   "title": "風になる",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=6",
   "source": "suu_usuwa.js"
@@ -2504,7 +2504,7 @@ window.SONG_DATA.push(
     {
   "title": "ひこうき雲",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=7",
   "source": "suu_usuwa.js"
@@ -2512,7 +2512,7 @@ window.SONG_DATA.push(
     {
   "title": "rain stops, good-bye",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=8",
   "source": "suu_usuwa.js"
@@ -2520,7 +2520,7 @@ window.SONG_DATA.push(
     {
   "title": "from Y to Y",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=9",
   "source": "suu_usuwa.js"
@@ -2528,7 +2528,7 @@ window.SONG_DATA.push(
     {
   "title": "初めての恋が終わる時",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=10",
   "source": "suu_usuwa.js"
@@ -2536,7 +2536,7 @@ window.SONG_DATA.push(
     {
   "title": "(恋は)百年戦争",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=11",
   "source": "suu_usuwa.js"
@@ -2544,7 +2544,7 @@ window.SONG_DATA.push(
     {
   "title": "ミス・パラレルワールド",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=12",
   "source": "suu_usuwa.js"
@@ -2552,7 +2552,7 @@ window.SONG_DATA.push(
     {
   "title": "ノルニル",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=13",
   "source": "suu_usuwa.js"
@@ -2560,7 +2560,7 @@ window.SONG_DATA.push(
     {
   "title": "メロンソーダ",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=14",
   "source": "suu_usuwa.js"
@@ -2568,7 +2568,7 @@ window.SONG_DATA.push(
     {
   "title": "Stand by You",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=15",
   "source": "suu_usuwa.js"
@@ -2576,7 +2576,7 @@ window.SONG_DATA.push(
     {
   "title": "Happiness",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=16",
   "source": "suu_usuwa.js"
@@ -2584,7 +2584,7 @@ window.SONG_DATA.push(
     {
   "title": "朝ごはんの歌",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=17",
   "source": "suu_usuwa.js"
@@ -2592,7 +2592,7 @@ window.SONG_DATA.push(
     {
   "title": "アカシア",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=18",
   "source": "suu_usuwa.js"
@@ -2600,7 +2600,7 @@ window.SONG_DATA.push(
     {
   "title": "Together",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=19",
   "source": "suu_usuwa.js"
@@ -2608,7 +2608,7 @@ window.SONG_DATA.push(
     {
   "title": "君のそばで〜ヒカリのテーマ〜",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=20",
   "source": "suu_usuwa.js"
@@ -2616,7 +2616,7 @@ window.SONG_DATA.push(
     {
   "title": "Pretender",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=21",
   "source": "suu_usuwa.js"
@@ -2624,7 +2624,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=22",
   "source": "suu_usuwa.js"
@@ -2632,7 +2632,7 @@ window.SONG_DATA.push(
     {
   "title": "花ハ踊レヤいろはにほ",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=23",
   "source": "suu_usuwa.js"
@@ -2640,7 +2640,7 @@ window.SONG_DATA.push(
     {
   "title": "エイリアンズ",
   "artist": "前尘往事如昔故",
-  "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -2648,7 +2648,7 @@ window.SONG_DATA.push(
     {
   "title": "いのちの名前",
   "artist": "前尘往事如昔故",
-  "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -2656,7 +2656,7 @@ window.SONG_DATA.push(
     {
   "title": "輝く未来",
   "artist": "前尘往事如昔故",
-  "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -2664,7 +2664,7 @@ window.SONG_DATA.push(
     {
   "title": "燈",
   "artist": "前尘往事如昔故",
-  "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -2672,7 +2672,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る(2)",
   "artist": "前尘往事如昔故",
-  "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -2680,7 +2680,7 @@ window.SONG_DATA.push(
     {
   "title": "夜に駆ける",
   "artist": "前尘往事如昔故",
-  "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -2688,7 +2688,7 @@ window.SONG_DATA.push(
     {
   "title": "夜撫でるメノウ",
   "artist": "前尘往事如昔故",
-  "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -2696,7 +2696,7 @@ window.SONG_DATA.push(
     {
   "title": "回る空うさぎ",
   "artist": "前尘往事如昔故",
-  "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -2704,7 +2704,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れじの言の葉",
   "artist": "前尘往事如昔故",
-  "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -2712,7 +2712,7 @@ window.SONG_DATA.push(
     {
   "title": "カタオモイ",
   "artist": "前尘往事如昔故",
-  "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -2720,7 +2720,7 @@ window.SONG_DATA.push(
     {
   "title": "さくら (独唱)",
   "artist": "前尘往事如昔故",
-  "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -2728,7 +2728,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒",
   "artist": "前尘往事如昔故",
-  "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -2736,7 +2736,7 @@ window.SONG_DATA.push(
     {
   "title": "涙そうそう",
   "artist": "前尘往事如昔故",
-  "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -2744,7 +2744,7 @@ window.SONG_DATA.push(
     {
   "title": "Lemon",
   "artist": "前尘往事如昔故",
-  "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -2752,7 +2752,7 @@ window.SONG_DATA.push(
     {
   "title": "たばこ",
   "artist": "前尘往事如昔故",
-  "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=15",
   "source": "suu_usuwa.js"
@@ -2760,7 +2760,7 @@ window.SONG_DATA.push(
     {
   "title": "One more time,One more chance",
   "artist": "前尘往事如昔故",
-  "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=16",
   "source": "suu_usuwa.js"
@@ -2768,7 +2768,7 @@ window.SONG_DATA.push(
     {
   "title": "まつり",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-04-02] 稀羽すう 出道 2 周年纪念歌枠 - 2nd Anniversary - #まこうすわ21. まつり",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -2776,7 +2776,7 @@ window.SONG_DATA.push(
     {
   "title": "鬼ノ宴",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-04-02] 稀羽すう 出道 2 周年纪念歌枠 - 2nd Anniversary - #まこうすわ21. まつり",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -2784,7 +2784,7 @@ window.SONG_DATA.push(
     {
   "title": "fake face dance music",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-04-02] 稀羽すう 出道 2 周年纪念歌枠 - 2nd Anniversary - #まこうすわ21. まつり",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -2792,7 +2792,7 @@ window.SONG_DATA.push(
     {
   "title": "東京フラッシュ",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-04-02] 稀羽すう 出道 2 周年纪念歌枠 - 2nd Anniversary - #まこうすわ21. まつり",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -2800,7 +2800,7 @@ window.SONG_DATA.push(
     {
   "title": "プラスティック・ラブ",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-04-02] 稀羽すう 出道 2 周年纪念歌枠 - 2nd Anniversary - #まこうすわ21. まつり",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -2808,7 +2808,7 @@ window.SONG_DATA.push(
     {
   "title": "らしく。",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-04-02] 稀羽すう 出道 2 周年纪念歌枠 - 2nd Anniversary - #まこうすわ21. まつり",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -2816,7 +2816,7 @@ window.SONG_DATA.push(
     {
   "title": "Hello Song",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-04-02] 稀羽すう 出道 2 周年纪念歌枠 - 2nd Anniversary - #まこうすわ21. まつり",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -2824,7 +2824,7 @@ window.SONG_DATA.push(
     {
   "title": "春を告げる",
   "artist": "前尘往事如昔故",
-  "collection": "#65【 稀羽すう 18首】周三是定期歌枠🎶  Singing Stream  1. 春を告げる",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "suu_usuwa.js"
@@ -2832,7 +2832,7 @@ window.SONG_DATA.push(
     {
   "title": "春擬き",
   "artist": "前尘往事如昔故",
-  "collection": "#65【 稀羽すう 18首】周三是定期歌枠🎶  Singing Stream  1. 春を告げる",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "suu_usuwa.js"
@@ -2840,7 +2840,7 @@ window.SONG_DATA.push(
     {
   "title": "プラチナ",
   "artist": "前尘往事如昔故",
-  "collection": "#65【 稀羽すう 18首】周三是定期歌枠🎶  Singing Stream  1. 春を告げる",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "suu_usuwa.js"
@@ -2848,7 +2848,7 @@ window.SONG_DATA.push(
     {
   "title": "星間飛行",
   "artist": "前尘往事如昔故",
-  "collection": "#65【 稀羽すう 18首】周三是定期歌枠🎶  Singing Stream  1. 春を告げる",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "suu_usuwa.js"
@@ -2856,7 +2856,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "前尘往事如昔故",
-  "collection": "#65【 稀羽すう 18首】周三是定期歌枠🎶  Singing Stream  1. 春を告げる",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=5",
   "source": "suu_usuwa.js"
@@ -2864,7 +2864,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄",
   "artist": "前尘往事如昔故",
-  "collection": "#65【 稀羽すう 18首】周三是定期歌枠🎶  Singing Stream  1. 春を告げる",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=6",
   "source": "suu_usuwa.js"
@@ -2872,7 +2872,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーダウト",
   "artist": "前尘往事如昔故",
-  "collection": "#65【 稀羽すう 18首】周三是定期歌枠🎶  Singing Stream  1. 春を告げる",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=7",
   "source": "suu_usuwa.js"
@@ -2880,7 +2880,7 @@ window.SONG_DATA.push(
     {
   "title": "愛を伝えたいだとか",
   "artist": "前尘往事如昔故",
-  "collection": "#65【 稀羽すう 18首】周三是定期歌枠🎶  Singing Stream  1. 春を告げる",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=8",
   "source": "suu_usuwa.js"
@@ -2888,7 +2888,7 @@ window.SONG_DATA.push(
     {
   "title": "ギラギラ",
   "artist": "前尘往事如昔故",
-  "collection": "#65【 稀羽すう 18首】周三是定期歌枠🎶  Singing Stream  1. 春を告げる",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=9",
   "source": "suu_usuwa.js"
@@ -2896,7 +2896,7 @@ window.SONG_DATA.push(
     {
   "title": "レディメイド",
   "artist": "前尘往事如昔故",
-  "collection": "#65【 稀羽すう 18首】周三是定期歌枠🎶  Singing Stream  1. 春を告げる",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=10",
   "source": "suu_usuwa.js"
@@ -2904,7 +2904,7 @@ window.SONG_DATA.push(
     {
   "title": "寄り酔い",
   "artist": "前尘往事如昔故",
-  "collection": "#65【 稀羽すう 18首】周三是定期歌枠🎶  Singing Stream  1. 春を告げる",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=11",
   "source": "suu_usuwa.js"
@@ -2912,7 +2912,7 @@ window.SONG_DATA.push(
     {
   "title": "けーたいみしてよ",
   "artist": "前尘往事如昔故",
-  "collection": "#65【 稀羽すう 18首】周三是定期歌枠🎶  Singing Stream  1. 春を告げる",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=12",
   "source": "suu_usuwa.js"
@@ -2920,7 +2920,7 @@ window.SONG_DATA.push(
     {
   "title": "ヨワネハキ",
   "artist": "前尘往事如昔故",
-  "collection": "#65【 稀羽すう 18首】周三是定期歌枠🎶  Singing Stream  1. 春を告げる",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=13",
   "source": "suu_usuwa.js"
@@ -2928,7 +2928,7 @@ window.SONG_DATA.push(
     {
   "title": "トウキョウ・シャンディ・ランデヴ",
   "artist": "前尘往事如昔故",
-  "collection": "#65【 稀羽すう 18首】周三是定期歌枠🎶  Singing Stream  1. 春を告げる",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=14",
   "source": "suu_usuwa.js"
@@ -2936,7 +2936,7 @@ window.SONG_DATA.push(
     {
   "title": "東京フラッシュ",
   "artist": "前尘往事如昔故",
-  "collection": "#65【 稀羽すう 18首】周三是定期歌枠🎶  Singing Stream  1. 春を告げる",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=15",
   "source": "suu_usuwa.js"
@@ -2944,7 +2944,7 @@ window.SONG_DATA.push(
     {
   "title": "鬼ノ宴",
   "artist": "前尘往事如昔故",
-  "collection": "#65【 稀羽すう 18首】周三是定期歌枠🎶  Singing Stream  1. 春を告げる",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=16",
   "source": "suu_usuwa.js"
@@ -2952,7 +2952,7 @@ window.SONG_DATA.push(
     {
   "title": "Good-bye days",
   "artist": "前尘往事如昔故",
-  "collection": "#65【 稀羽すう 18首】周三是定期歌枠🎶  Singing Stream  1. 春を告げる",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=17",
   "source": "suu_usuwa.js"
@@ -2960,7 +2960,7 @@ window.SONG_DATA.push(
     {
   "title": "ダンスホール",
   "artist": "前尘往事如昔故",
-  "collection": "#65【 稀羽すう 18首】周三是定期歌枠🎶  Singing Stream  1. 春を告げる",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=18",
   "source": "suu_usuwa.js"
@@ -2968,7 +2968,7 @@ window.SONG_DATA.push(
     {
   "title": "366日",
   "artist": "HY",
-  "collection": "2024年4月5日 【稀羽すう】24首】 雨音、深夜的低语声睡眠引导歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=1",
   "source": "suu_usuwa.js"
@@ -2976,7 +2976,7 @@ window.SONG_DATA.push(
     {
   "title": "弱虫モンブラン",
   "artist": "DECO27",
-  "collection": "2024年4月5日 【稀羽すう】24首】 雨音、深夜的低语声睡眠引导歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=2",
   "source": "suu_usuwa.js"
@@ -2984,7 +2984,7 @@ window.SONG_DATA.push(
     {
   "title": "アイロニ",
   "artist": "すこっぷ",
-  "collection": "2024年4月5日 【稀羽すう】24首】 雨音、深夜的低语声睡眠引导歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=3",
   "source": "suu_usuwa.js"
@@ -2992,7 +2992,7 @@ window.SONG_DATA.push(
     {
   "title": "心拍数♯0822",
   "artist": "蝶々P",
-  "collection": "2024年4月5日 【稀羽すう】24首】 雨音、深夜的低语声睡眠引导歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=4",
   "source": "suu_usuwa.js"
@@ -3000,7 +3000,7 @@ window.SONG_DATA.push(
     {
   "title": "灰色と青",
   "artist": "米津玄師＆菅田将暉",
-  "collection": "2024年4月5日 【稀羽すう】24首】 雨音、深夜的低语声睡眠引导歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=5",
   "source": "suu_usuwa.js"
@@ -3008,7 +3008,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
-  "collection": "2024年4月5日 【稀羽すう】24首】 雨音、深夜的低语声睡眠引导歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=6",
   "source": "suu_usuwa.js"
@@ -3016,7 +3016,7 @@ window.SONG_DATA.push(
     {
   "title": "SWEET MEMORIES",
   "artist": "松田聖子",
-  "collection": "2024年4月5日 【稀羽すう】24首】 雨音、深夜的低语声睡眠引导歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=7",
   "source": "suu_usuwa.js"
@@ -3024,7 +3024,7 @@ window.SONG_DATA.push(
     {
   "title": "風を食む",
   "artist": "ヨルシカ",
-  "collection": "2024年4月5日 【稀羽すう】24首】 雨音、深夜的低语声睡眠引导歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=8",
   "source": "suu_usuwa.js"
@@ -3032,7 +3032,7 @@ window.SONG_DATA.push(
     {
   "title": "言って。",
   "artist": "ヨルシカ",
-  "collection": "2024年4月5日 【稀羽すう】24首】 雨音、深夜的低语声睡眠引导歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=9",
   "source": "suu_usuwa.js"
@@ -3040,7 +3040,7 @@ window.SONG_DATA.push(
     {
   "title": "小夜子",
   "artist": "みきとP",
-  "collection": "2024年4月5日 【稀羽すう】24首】 雨音、深夜的低语声睡眠引导歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=10",
   "source": "suu_usuwa.js"
@@ -3048,7 +3048,7 @@ window.SONG_DATA.push(
     {
   "title": "カブトムシ",
   "artist": "aiko",
-  "collection": "2024年4月5日 【稀羽すう】24首】 雨音、深夜的低语声睡眠引导歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=11",
   "source": "suu_usuwa.js"
@@ -3056,7 +3056,7 @@ window.SONG_DATA.push(
     {
   "title": "乙女解剖",
   "artist": "DECO27",
-  "collection": "2024年4月5日 【稀羽すう】24首】 雨音、深夜的低语声睡眠引导歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=12",
   "source": "suu_usuwa.js"
@@ -3064,7 +3064,7 @@ window.SONG_DATA.push(
     {
   "title": "妄想感傷代償連盟",
   "artist": "DECO27",
-  "collection": "2024年4月5日 【稀羽すう】24首】 雨音、深夜的低语声睡眠引导歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=13",
   "source": "suu_usuwa.js"
@@ -3072,7 +3072,7 @@ window.SONG_DATA.push(
     {
   "title": "すずめ",
   "artist": "RADWIMPS feat.十明",
-  "collection": "2024年4月5日 【稀羽すう】24首】 雨音、深夜的低语声睡眠引导歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=14",
   "source": "suu_usuwa.js"
@@ -3080,7 +3080,7 @@ window.SONG_DATA.push(
     {
   "title": "ハナミズキ",
   "artist": "一青窈",
-  "collection": "2024年4月5日 【稀羽すう】24首】 雨音、深夜的低语声睡眠引导歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=15",
   "source": "suu_usuwa.js"
@@ -3088,7 +3088,7 @@ window.SONG_DATA.push(
     {
   "title": "瞳をとじて",
   "artist": "平井堅",
-  "collection": "2024年4月5日 【稀羽すう】24首】 雨音、深夜的低语声睡眠引导歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=16",
   "source": "suu_usuwa.js"
@@ -3096,7 +3096,7 @@ window.SONG_DATA.push(
     {
   "title": "雪の華",
   "artist": "中島美嘉",
-  "collection": "2024年4月5日 【稀羽すう】24首】 雨音、深夜的低语声睡眠引导歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=17",
   "source": "suu_usuwa.js"
@@ -3104,7 +3104,7 @@ window.SONG_DATA.push(
     {
   "title": "First Love",
   "artist": "宇多田ヒカル",
-  "collection": "2024年4月5日 【稀羽すう】24首】 雨音、深夜的低语声睡眠引导歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=18",
   "source": "suu_usuwa.js"
@@ -3112,7 +3112,7 @@ window.SONG_DATA.push(
     {
   "title": "少女レイ",
   "artist": "みきとP",
-  "collection": "2024年4月5日 【稀羽すう】24首】 雨音、深夜的低语声睡眠引导歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=19",
   "source": "suu_usuwa.js"
@@ -3120,7 +3120,7 @@ window.SONG_DATA.push(
     {
   "title": "夜空ノムコウ",
   "artist": "SMAP",
-  "collection": "2024年4月5日 【稀羽すう】24首】 雨音、深夜的低语声睡眠引导歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=20",
   "source": "suu_usuwa.js"
@@ -3128,7 +3128,7 @@ window.SONG_DATA.push(
     {
   "title": "雨傘",
   "artist": "TOKIO",
-  "collection": "2024年4月5日 【稀羽すう】24首】 雨音、深夜的低语声睡眠引导歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=21",
   "source": "suu_usuwa.js"
@@ -3136,7 +3136,7 @@ window.SONG_DATA.push(
     {
   "title": "蝶々結び",
   "artist": "Aimer",
-  "collection": "2024年4月5日 【稀羽すう】24首】 雨音、深夜的低语声睡眠引导歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=22",
   "source": "suu_usuwa.js"
@@ -3144,7 +3144,7 @@ window.SONG_DATA.push(
     {
   "title": "rain stops, good-bye",
   "artist": "におP",
-  "collection": "2024年4月5日 【稀羽すう】24首】 雨音、深夜的低语声睡眠引导歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=23",
   "source": "suu_usuwa.js"
@@ -3152,7 +3152,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ",
-  "collection": "2024年4月5日 【稀羽すう】24首】 雨音、深夜的低语声睡眠引导歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=24",
   "source": "suu_usuwa.js"
@@ -3160,7 +3160,7 @@ window.SONG_DATA.push(
     {
   "title": "冒険でしょでしょ",
   "artist": "平野綾",
-  "collection": "#66 稀羽すう】🎶周三定期歌枠  1小时无聊天！持续唱歌的直播！Singing Stream 🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -3168,7 +3168,7 @@ window.SONG_DATA.push(
     {
   "title": "風になる",
   "artist": "つじあやの",
-  "collection": "#66 稀羽すう】🎶周三定期歌枠  1小时无聊天！持续唱歌的直播！Singing Stream 🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -3176,7 +3176,7 @@ window.SONG_DATA.push(
     {
   "title": "ガーネット",
   "artist": "奥華子",
-  "collection": "#66 稀羽すう】🎶周三定期歌枠  1小时无聊天！持续唱歌的直播！Singing Stream 🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -3184,7 +3184,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌",
   "artist": "tuki.",
-  "collection": "#66 稀羽すう】🎶周三定期歌枠  1小时无聊天！持续唱歌的直播！Singing Stream 🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -3192,7 +3192,7 @@ window.SONG_DATA.push(
     {
   "title": "プラスティック・ラブ",
   "artist": "竹内まりや",
-  "collection": "#66 稀羽すう】🎶周三定期歌枠  1小时无聊天！持续唱歌的直播！Singing Stream 🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -3200,7 +3200,7 @@ window.SONG_DATA.push(
     {
   "title": "都落ち",
   "artist": "ヨルシカ",
-  "collection": "#66 稀羽すう】🎶周三定期歌枠  1小时无聊天！持续唱歌的直播！Singing Stream 🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -3208,7 +3208,7 @@ window.SONG_DATA.push(
     {
   "title": "ふわふわ時間",
   "artist": "放課後ティータイム",
-  "collection": "#66 稀羽すう】🎶周三定期歌枠  1小时无聊天！持续唱歌的直播！Singing Stream 🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -3216,7 +3216,7 @@ window.SONG_DATA.push(
     {
   "title": "翼をください",
   "artist": "桜高軽音部",
-  "collection": "#66 稀羽すう】🎶周三定期歌枠  1小时无聊天！持续唱歌的直播！Singing Stream 🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -3224,7 +3224,7 @@ window.SONG_DATA.push(
     {
   "title": "God knows...",
   "artist": "涼宮ハルヒ(平野綾)",
-  "collection": "#66 稀羽すう】🎶周三定期歌枠  1小时无聊天！持续唱歌的直播！Singing Stream 🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -3232,7 +3232,7 @@ window.SONG_DATA.push(
     {
   "title": "Lost my music",
   "artist": "涼宮ハルヒ(平野綾)",
-  "collection": "#66 稀羽すう】🎶周三定期歌枠  1小时无聊天！持续唱歌的直播！Singing Stream 🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -3240,7 +3240,7 @@ window.SONG_DATA.push(
     {
   "title": "星座になれたら",
   "artist": "結束バンド",
-  "collection": "#66 稀羽すう】🎶周三定期歌枠  1小时无聊天！持续唱歌的直播！Singing Stream 🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -3248,7 +3248,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れてやらない",
   "artist": "結束バンド",
-  "collection": "#66 稀羽すう】🎶周三定期歌枠  1小时无聊天！持续唱歌的直播！Singing Stream 🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -3256,7 +3256,7 @@ window.SONG_DATA.push(
     {
   "title": "君の知らない物語",
   "artist": "supercell",
-  "collection": "#66 稀羽すう】🎶周三定期歌枠  1小时无聊天！持续唱歌的直播！Singing Stream 🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -3264,7 +3264,7 @@ window.SONG_DATA.push(
     {
   "title": "シンデレラボーイ",
   "artist": "Saucy Dog",
-  "collection": "[2024-04-11] 【3D 稀羽すう/魔光リサ 】08. 青春アミーゴ - 修二と彰",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -3272,7 +3272,7 @@ window.SONG_DATA.push(
     {
   "title": "アポロ",
   "artist": "ポルノグラフィティ",
-  "collection": "[2024-04-11] 【3D 稀羽すう/魔光リサ 】08. 青春アミーゴ - 修二と彰",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -3280,7 +3280,7 @@ window.SONG_DATA.push(
     {
   "title": "シャンティ",
   "artist": "wotaku",
-  "collection": "[2024-04-11] 【3D 稀羽すう/魔光リサ 】08. 青春アミーゴ - 修二と彰",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -3288,7 +3288,7 @@ window.SONG_DATA.push(
     {
   "title": "トンデモワンダーズ",
   "artist": "sasakure.UK",
-  "collection": "[2024-04-11] 【3D 稀羽すう/魔光リサ 】08. 青春アミーゴ - 修二と彰",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -3296,7 +3296,7 @@ window.SONG_DATA.push(
     {
   "title": "fake face dance music",
   "artist": "音田雅則",
-  "collection": "[2024-04-11] 【3D 稀羽すう/魔光リサ 】08. 青春アミーゴ - 修二と彰",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -3304,7 +3304,7 @@ window.SONG_DATA.push(
     {
   "title": "デスぺレート feat. LOLUET",
   "artist": "TeddyLoid&Giga",
-  "collection": "[2024-04-11] 【3D 稀羽すう/魔光リサ 】08. 青春アミーゴ - 修二と彰",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -3312,7 +3312,7 @@ window.SONG_DATA.push(
     {
   "title": "灰色と青",
   "artist": "米津玄師＆菅田将暉",
-  "collection": "[2024-04-11] 【3D 稀羽すう/魔光リサ 】08. 青春アミーゴ - 修二と彰",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -3320,7 +3320,7 @@ window.SONG_DATA.push(
     {
   "title": "青春アミーゴ",
   "artist": "修二と彰",
-  "collection": "[2024-04-11] 【3D 稀羽すう/魔光リサ 】08. 青春アミーゴ - 修二と彰",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -3328,7 +3328,7 @@ window.SONG_DATA.push(
     {
   "title": "君がいて水になる",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "20240414【 稀羽すう 12首竖屏】深夜悄悄开始的竖屏歌枠🎶05. 恋人失格 - コレサワ12. 都落ち - ヨルシカ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -3336,7 +3336,7 @@ window.SONG_DATA.push(
     {
   "title": "東京フラッシュ",
   "artist": "Vaundy",
-  "collection": "20240414【 稀羽すう 12首竖屏】深夜悄悄开始的竖屏歌枠🎶05. 恋人失格 - コレサワ12. 都落ち - ヨルシカ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -3344,7 +3344,7 @@ window.SONG_DATA.push(
     {
   "title": "踊り子",
   "artist": "Vaundy",
-  "collection": "20240414【 稀羽すう 12首竖屏】深夜悄悄开始的竖屏歌枠🎶05. 恋人失格 - コレサワ12. 都落ち - ヨルシカ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -3352,7 +3352,7 @@ window.SONG_DATA.push(
     {
   "title": "たばこ",
   "artist": "コレサワ",
-  "collection": "20240414【 稀羽すう 12首竖屏】深夜悄悄开始的竖屏歌枠🎶05. 恋人失格 - コレサワ12. 都落ち - ヨルシカ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -3360,7 +3360,7 @@ window.SONG_DATA.push(
     {
   "title": "恋人失格",
   "artist": "コレサワ",
-  "collection": "20240414【 稀羽すう 12首竖屏】深夜悄悄开始的竖屏歌枠🎶05. 恋人失格 - コレサワ12. 都落ち - ヨルシカ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -3368,7 +3368,7 @@ window.SONG_DATA.push(
     {
   "title": "エイリアンズ",
   "artist": "キリンジ",
-  "collection": "20240414【 稀羽すう 12首竖屏】深夜悄悄开始的竖屏歌枠🎶05. 恋人失格 - コレサワ12. 都落ち - ヨルシカ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -3376,7 +3376,7 @@ window.SONG_DATA.push(
     {
   "title": "LA・LA・LA LOVE SONG",
   "artist": "久保田利伸",
-  "collection": "20240414【 稀羽すう 12首竖屏】深夜悄悄开始的竖屏歌枠🎶05. 恋人失格 - コレサワ12. 都落ち - ヨルシカ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -3384,7 +3384,7 @@ window.SONG_DATA.push(
     {
   "title": "もう恋なんてしない",
   "artist": "槇原敬之",
-  "collection": "20240414【 稀羽すう 12首竖屏】深夜悄悄开始的竖屏歌枠🎶05. 恋人失格 - コレサワ12. 都落ち - ヨルシカ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -3392,7 +3392,7 @@ window.SONG_DATA.push(
     {
   "title": "まつり",
   "artist": "藤井風",
-  "collection": "20240414【 稀羽すう 12首竖屏】深夜悄悄开始的竖屏歌枠🎶05. 恋人失格 - コレサワ12. 都落ち - ヨルシカ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -3400,7 +3400,7 @@ window.SONG_DATA.push(
     {
   "title": "帰ろう",
   "artist": "藤井風",
-  "collection": "20240414【 稀羽すう 12首竖屏】深夜悄悄开始的竖屏歌枠🎶05. 恋人失格 - コレサワ12. 都落ち - ヨルシカ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -3408,7 +3408,7 @@ window.SONG_DATA.push(
     {
   "title": "死ぬのがいいわ",
   "artist": "藤井風",
-  "collection": "20240414【 稀羽すう 12首竖屏】深夜悄悄开始的竖屏歌枠🎶05. 恋人失格 - コレサワ12. 都落ち - ヨルシカ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -3416,7 +3416,7 @@ window.SONG_DATA.push(
     {
   "title": "都落ち",
   "artist": "ヨルシカ",
-  "collection": "20240414【 稀羽すう 12首竖屏】深夜悄悄开始的竖屏歌枠🎶05. 恋人失格 - コレサワ12. 都落ち - ヨルシカ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -3424,7 +3424,7 @@ window.SONG_DATA.push(
     {
   "title": "群青-YOASOBI",
   "artist": "前尘往事如昔故",
-  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -3432,7 +3432,7 @@ window.SONG_DATA.push(
     {
   "title": "怪物-YOASOBI",
   "artist": "前尘往事如昔故",
-  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -3440,7 +3440,7 @@ window.SONG_DATA.push(
     {
   "title": "夜に駆ける-YOASOBI",
   "artist": "前尘往事如昔故",
-  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -3448,7 +3448,7 @@ window.SONG_DATA.push(
     {
   "title": "春を告げる-yama",
   "artist": "前尘往事如昔故",
-  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -3456,7 +3456,7 @@ window.SONG_DATA.push(
     {
   "title": "Mela!-緑黄色社会",
   "artist": "前尘往事如昔故",
-  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -3464,7 +3464,7 @@ window.SONG_DATA.push(
     {
   "title": "ケセラセラ-Mrs. GREEN APPLE",
   "artist": "前尘往事如昔故",
-  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -3472,7 +3472,7 @@ window.SONG_DATA.push(
     {
   "title": "HELLO-Official髭男dism",
   "artist": "前尘往事如昔故",
-  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -3480,7 +3480,7 @@ window.SONG_DATA.push(
     {
   "title": "Blooming♡Blooming-るか from AIKATSU☆STARS！",
   "artist": "前尘往事如昔故",
-  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -3488,7 +3488,7 @@ window.SONG_DATA.push(
     {
   "title": "灼熱スイッチ-雀が原中学卓球部",
   "artist": "前尘往事如昔故",
-  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -3496,7 +3496,7 @@ window.SONG_DATA.push(
     {
   "title": "Shine!!-CINDERELLA PROJECT",
   "artist": "前尘往事如昔故",
-  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -3504,7 +3504,7 @@ window.SONG_DATA.push(
     {
   "title": "アイドル-YOASOBI",
   "artist": "前尘往事如昔故",
-  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -3512,7 +3512,7 @@ window.SONG_DATA.push(
     {
   "title": "青のすみか-キタニタツヤ",
   "artist": "前尘往事如昔故",
-  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -3520,7 +3520,7 @@ window.SONG_DATA.push(
     {
   "title": "廻廻奇譚-Eve",
   "artist": "前尘往事如昔故",
-  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -3528,7 +3528,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る-ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -3536,7 +3536,7 @@ window.SONG_DATA.push(
     {
   "title": "アルジャーノン-ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=15",
   "source": "suu_usuwa.js"
@@ -3544,7 +3544,7 @@ window.SONG_DATA.push(
     {
   "title": "空も飛べるはず-スピッツ",
   "artist": "前尘往事如昔故",
-  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=16",
   "source": "suu_usuwa.js"
@@ -3552,7 +3552,7 @@ window.SONG_DATA.push(
     {
   "title": "ドライフラワー",
   "artist": "優里",
-  "collection": "#68【稀羽すう 14】水曜定期歌枠🎶11. again - YUI",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -3560,7 +3560,7 @@ window.SONG_DATA.push(
     {
   "title": "カタオモイ",
   "artist": "Aimer",
-  "collection": "#68【稀羽すう 14】水曜定期歌枠🎶11. again - YUI",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -3568,7 +3568,7 @@ window.SONG_DATA.push(
     {
   "title": "HELLO",
   "artist": "Official髭男dism",
-  "collection": "#68【稀羽すう 14】水曜定期歌枠🎶11. again - YUI",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -3576,7 +3576,7 @@ window.SONG_DATA.push(
     {
   "title": "パラボラ",
   "artist": "Official髭男dism",
-  "collection": "#68【稀羽すう 14】水曜定期歌枠🎶11. again - YUI",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -3584,7 +3584,7 @@ window.SONG_DATA.push(
     {
   "title": "Beautiful World",
   "artist": "宇多田ヒカル",
-  "collection": "#68【稀羽すう 14】水曜定期歌枠🎶11. again - YUI",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -3592,7 +3592,7 @@ window.SONG_DATA.push(
     {
   "title": "ダンスホール",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "#68【稀羽すう 14】水曜定期歌枠🎶11. again - YUI",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -3600,7 +3600,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ",
-  "collection": "#68【稀羽すう 14】水曜定期歌枠🎶11. again - YUI",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -3608,7 +3608,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒",
   "artist": "ヨルシカ",
-  "collection": "#68【稀羽すう 14】水曜定期歌枠🎶11. again - YUI",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -3616,7 +3616,7 @@ window.SONG_DATA.push(
     {
   "title": "ミュージック・アワー",
   "artist": "ポルノグラフィティ",
-  "collection": "#68【稀羽すう 14】水曜定期歌枠🎶11. again - YUI",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -3624,7 +3624,7 @@ window.SONG_DATA.push(
     {
   "title": "メリッサ",
   "artist": "ポルノグラフィティ",
-  "collection": "#68【稀羽すう 14】水曜定期歌枠🎶11. again - YUI",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -3632,7 +3632,7 @@ window.SONG_DATA.push(
     {
   "title": "again",
   "artist": "YUI",
-  "collection": "#68【稀羽すう 14】水曜定期歌枠🎶11. again - YUI",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -3640,7 +3640,7 @@ window.SONG_DATA.push(
     {
   "title": "Climax Jump DEN-LINER form",
   "artist": "モモタロス・ウラタロス・キンタロス・リュウタロス",
-  "collection": "#68【稀羽すう 14】水曜定期歌枠🎶11. again - YUI",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -3648,7 +3648,7 @@ window.SONG_DATA.push(
     {
   "title": "メルト",
   "artist": "初音ミク",
-  "collection": "#68【稀羽すう 14】水曜定期歌枠🎶11. again - YUI",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -3656,7 +3656,7 @@ window.SONG_DATA.push(
     {
   "title": "Hello Song",
   "artist": "星野源",
-  "collection": "#68【稀羽すう 14】水曜定期歌枠🎶11. again - YUI",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -3664,7 +3664,7 @@ window.SONG_DATA.push(
     {
   "title": "気まぐれロマンティック",
   "artist": "いきものがかり",
-  "collection": "240425【花鋏キョウ/稀羽すう】 5首 3D卡拉OK カタオモイ - Aimer",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -3672,7 +3672,7 @@ window.SONG_DATA.push(
     {
   "title": "ALIVE",
   "artist": "ClariS",
-  "collection": "240425【花鋏キョウ/稀羽すう】 5首 3D卡拉OK カタオモイ - Aimer",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -3680,7 +3680,7 @@ window.SONG_DATA.push(
     {
   "title": "独りんぼエンヴィー",
   "artist": "りぶ",
-  "collection": "240425【花鋏キョウ/稀羽すう】 5首 3D卡拉OK カタオモイ - Aimer",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -3688,7 +3688,7 @@ window.SONG_DATA.push(
     {
   "title": "カタオモイ",
   "artist": "Aimer",
-  "collection": "240425【花鋏キョウ/稀羽すう】 5首 3D卡拉OK カタオモイ - Aimer",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -3696,7 +3696,7 @@ window.SONG_DATA.push(
     {
   "title": "帰ろう",
   "artist": "藤井風",
-  "collection": "240425【花鋏キョウ/稀羽すう】 5首 3D卡拉OK カタオモイ - Aimer",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -3704,7 +3704,7 @@ window.SONG_DATA.push(
     {
   "title": "女の子は誰でも",
   "artist": "東京事変",
-  "collection": "[2024-04-28]  稀羽すう】18 突击直播】13.花ざかりWeekend - 4Luxury【20240428】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -3712,7 +3712,7 @@ window.SONG_DATA.push(
     {
   "title": "パプリカ",
   "artist": "Foorin×米津玄師",
-  "collection": "[2024-04-28]  稀羽すう】18 突击直播】13.花ざかりWeekend - 4Luxury【20240428】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -3720,7 +3720,7 @@ window.SONG_DATA.push(
     {
   "title": "風になる",
   "artist": "つじあやの",
-  "collection": "[2024-04-28]  稀羽すう】18 突击直播】13.花ざかりWeekend - 4Luxury【20240428】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -3728,7 +3728,7 @@ window.SONG_DATA.push(
     {
   "title": "赤いスイートピー",
   "artist": "松田聖子",
-  "collection": "[2024-04-28]  稀羽すう】18 突击直播】13.花ざかりWeekend - 4Luxury【20240428】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -3736,7 +3736,7 @@ window.SONG_DATA.push(
     {
   "title": "キリトリセン",
   "artist": "40mP",
-  "collection": "[2024-04-28]  稀羽すう】18 突击直播】13.花ざかりWeekend - 4Luxury【20240428】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -3744,7 +3744,7 @@ window.SONG_DATA.push(
     {
   "title": "ヴィーナスとジーザス",
   "artist": "やくしまるえつこ",
-  "collection": "[2024-04-28]  稀羽すう】18 突击直播】13.花ざかりWeekend - 4Luxury【20240428】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -3752,7 +3752,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒッチコック",
   "artist": "ヨルシカ",
-  "collection": "[2024-04-28]  稀羽すう】18 突击直播】13.花ざかりWeekend - 4Luxury【20240428】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -3760,7 +3760,7 @@ window.SONG_DATA.push(
     {
   "title": "だから僕は音楽を辞めた",
   "artist": "ヨルシカ",
-  "collection": "[2024-04-28]  稀羽すう】18 突击直播】13.花ざかりWeekend - 4Luxury【20240428】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -3768,7 +3768,7 @@ window.SONG_DATA.push(
     {
   "title": "コーヒーとシロップ",
   "artist": "Official髭男dism",
-  "collection": "[2024-04-28]  稀羽すう】18 突击直播】13.花ざかりWeekend - 4Luxury【20240428】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -3776,7 +3776,7 @@ window.SONG_DATA.push(
     {
   "title": "若者のすべて",
   "artist": "フジファブリック",
-  "collection": "[2024-04-28]  稀羽すう】18 突击直播】13.花ざかりWeekend - 4Luxury【20240428】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -3784,7 +3784,7 @@ window.SONG_DATA.push(
     {
   "title": "夏色",
   "artist": "ゆず",
-  "collection": "[2024-04-28]  稀羽すう】18 突击直播】13.花ざかりWeekend - 4Luxury【20240428】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -3792,7 +3792,7 @@ window.SONG_DATA.push(
     {
   "title": "君と夏フェス",
   "artist": "SHISHAMO",
-  "collection": "[2024-04-28]  稀羽すう】18 突击直播】13.花ざかりWeekend - 4Luxury【20240428】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -3800,7 +3800,7 @@ window.SONG_DATA.push(
     {
   "title": "花ざかりWeekend",
   "artist": "4Luxury",
-  "collection": "[2024-04-28]  稀羽すう】18 突击直播】13.花ざかりWeekend - 4Luxury【20240428】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -3808,7 +3808,7 @@ window.SONG_DATA.push(
     {
   "title": "さくらんぼ",
   "artist": "大塚愛",
-  "collection": "[2024-04-28]  稀羽すう】18 突击直播】13.花ざかりWeekend - 4Luxury【20240428】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -3816,7 +3816,7 @@ window.SONG_DATA.push(
     {
   "title": "気まぐれロマンティック",
   "artist": "いきものがかり",
-  "collection": "[2024-04-28]  稀羽すう】18 突击直播】13.花ざかりWeekend - 4Luxury【20240428】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=15",
   "source": "suu_usuwa.js"
@@ -3824,7 +3824,7 @@ window.SONG_DATA.push(
     {
   "title": "Stand by You",
   "artist": "Official髭男dism",
-  "collection": "[2024-04-28]  稀羽すう】18 突击直播】13.花ざかりWeekend - 4Luxury【20240428】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=16",
   "source": "suu_usuwa.js"
@@ -3832,7 +3832,7 @@ window.SONG_DATA.push(
     {
   "title": "キミの記憶",
   "artist": "川村ゆみ",
-  "collection": "[2024-04-28]  稀羽すう】18 突击直播】13.花ざかりWeekend - 4Luxury【20240428】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=17",
   "source": "suu_usuwa.js"
@@ -3840,7 +3840,7 @@ window.SONG_DATA.push(
     {
   "title": "Hello Song",
   "artist": "星野源",
-  "collection": "[2024-04-28]  稀羽すう】18 突击直播】13.花ざかりWeekend - 4Luxury【20240428】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=18",
   "source": "suu_usuwa.js"
@@ -3848,7 +3848,7 @@ window.SONG_DATA.push(
     {
   "title": "カタオモイ",
   "artist": "Aimer",
-  "collection": "240503 稀羽すう live前夕！在家3D唱歌！01. カタオモイ - Aimer",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=1",
   "source": "suu_usuwa.js"
@@ -3856,7 +3856,7 @@ window.SONG_DATA.push(
     {
   "title": "アルジャーノン",
   "artist": "ヨルシカ",
-  "collection": "240503 稀羽すう live前夕！在家3D唱歌！01. カタオモイ - Aimer",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=2",
   "source": "suu_usuwa.js"
@@ -3864,7 +3864,7 @@ window.SONG_DATA.push(
     {
   "title": "オリオンをなぞる",
   "artist": "UNISON SQUARE GARDEN",
-  "collection": "240503 稀羽すう live前夕！在家3D唱歌！01. カタオモイ - Aimer",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=3",
   "source": "suu_usuwa.js"
@@ -3872,7 +3872,7 @@ window.SONG_DATA.push(
     {
   "title": "シュガーソングとビターステップ",
   "artist": "UNISON SQUARE GARDEN",
-  "collection": "240503 稀羽すう live前夕！在家3D唱歌！01. カタオモイ - Aimer",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=4",
   "source": "suu_usuwa.js"
@@ -3880,7 +3880,7 @@ window.SONG_DATA.push(
     {
   "title": "悪魔の子",
   "artist": "ヒグチアイ",
-  "collection": "240503 稀羽すう live前夕！在家3D唱歌！01. カタオモイ - Aimer",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=5",
   "source": "suu_usuwa.js"
@@ -3888,7 +3888,7 @@ window.SONG_DATA.push(
     {
   "title": "メフィスト",
   "artist": "女王蜂",
-  "collection": "240503 稀羽すう live前夕！在家3D唱歌！01. カタオモイ - Aimer",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=6",
   "source": "suu_usuwa.js"
@@ -3896,7 +3896,7 @@ window.SONG_DATA.push(
     {
   "title": "灰色と青",
   "artist": "米津玄師＆菅田将暉",
-  "collection": "240503 稀羽すう live前夕！在家3D唱歌！01. カタオモイ - Aimer",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=7",
   "source": "suu_usuwa.js"
@@ -3904,7 +3904,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
-  "collection": "240503 稀羽すう live前夕！在家3D唱歌！01. カタオモイ - Aimer",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=8",
   "source": "suu_usuwa.js"
@@ -3912,7 +3912,7 @@ window.SONG_DATA.push(
     {
   "title": "月のワルツ",
   "artist": "諫山実生",
-  "collection": "240503 稀羽すう live前夕！在家3D唱歌！01. カタオモイ - Aimer",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=9",
   "source": "suu_usuwa.js"
@@ -3920,7 +3920,7 @@ window.SONG_DATA.push(
     {
   "title": "family song",
   "artist": "星野源",
-  "collection": "240503 稀羽すう live前夕！在家3D唱歌！01. カタオモイ - Aimer",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=10",
   "source": "suu_usuwa.js"
@@ -3928,7 +3928,7 @@ window.SONG_DATA.push(
     {
   "title": "Hello Song",
   "artist": "星野源",
-  "collection": "240503 稀羽すう live前夕！在家3D唱歌！01. カタオモイ - Aimer",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=11",
   "source": "suu_usuwa.js"
@@ -3936,7 +3936,7 @@ window.SONG_DATA.push(
     {
   "title": "斜陽-ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-05-15]#69 【稀羽すう】13】星期三定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "suu_usuwa.js"
@@ -3944,7 +3944,7 @@ window.SONG_DATA.push(
     {
   "title": "ルーマー",
   "artist": "ポリスピカデリー",
-  "collection": "[2024-05-15]#69 【稀羽すう】13】星期三定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "suu_usuwa.js"
@@ -3952,7 +3952,7 @@ window.SONG_DATA.push(
     {
   "title": "SUN-星野源",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-05-15]#69 【稀羽すう】13】星期三定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "suu_usuwa.js"
@@ -3960,7 +3960,7 @@ window.SONG_DATA.push(
     {
   "title": "アイデア-星野源",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-05-15]#69 【稀羽すう】13】星期三定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "suu_usuwa.js"
@@ -3968,7 +3968,7 @@ window.SONG_DATA.push(
     {
   "title": "ドラえもん-星野源",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-05-15]#69 【稀羽すう】13】星期三定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=5",
   "source": "suu_usuwa.js"
@@ -3976,7 +3976,7 @@ window.SONG_DATA.push(
     {
   "title": "カブトムシ-aiko",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-05-15]#69 【稀羽すう】13】星期三定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=6",
   "source": "suu_usuwa.js"
@@ -3984,7 +3984,7 @@ window.SONG_DATA.push(
     {
   "title": "366日-HY",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-05-15]#69 【稀羽すう】13】星期三定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=7",
   "source": "suu_usuwa.js"
@@ -3992,7 +3992,7 @@ window.SONG_DATA.push(
     {
   "title": "ANIMA-ReoNa",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-05-15]#69 【稀羽すう】13】星期三定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=8",
   "source": "suu_usuwa.js"
@@ -4000,7 +4000,7 @@ window.SONG_DATA.push(
     {
   "title": "DAN DAN 心魅かれてく-FIELD OF VIEW",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-05-15]#69 【稀羽すう】13】星期三定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=9",
   "source": "suu_usuwa.js"
@@ -4008,7 +4008,7 @@ window.SONG_DATA.push(
     {
   "title": "まつり-藤井風",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-05-15]#69 【稀羽すう】13】星期三定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=10",
   "source": "suu_usuwa.js"
@@ -4016,7 +4016,7 @@ window.SONG_DATA.push(
     {
   "title": "napori-Vaundy",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-05-15]#69 【稀羽すう】13】星期三定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=11",
   "source": "suu_usuwa.js"
@@ -4024,7 +4024,7 @@ window.SONG_DATA.push(
     {
   "title": "独白-坂本真綾",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-05-15]#69 【稀羽すう】13】星期三定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=12",
   "source": "suu_usuwa.js"
@@ -4032,7 +4032,7 @@ window.SONG_DATA.push(
     {
   "title": "だから僕は音楽を辞めた-ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "[2024-05-15]#69 【稀羽すう】13】星期三定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=13",
   "source": "suu_usuwa.js"
@@ -4040,7 +4040,7 @@ window.SONG_DATA.push(
     {
   "title": "青春アミーゴ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう 3首】【まこうすわ2】🎉まこうすわ2周年纪念直播🎊 聊天和唱歌来庆祝吧！3. KICK BACK",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=1",
   "source": "suu_usuwa.js"
@@ -4048,7 +4048,7 @@ window.SONG_DATA.push(
     {
   "title": "SWEET MEMORIES",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう 3首】【まこうすわ2】🎉まこうすわ2周年纪念直播🎊 聊天和唱歌来庆祝吧！3. KICK BACK",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=2",
   "source": "suu_usuwa.js"
@@ -4056,7 +4056,7 @@ window.SONG_DATA.push(
     {
   "title": "KICK BACK",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう 3首】【まこうすわ2】🎉まこうすわ2周年纪念直播🎊 聊天和唱歌来庆祝吧！3. KICK BACK",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=3",
   "source": "suu_usuwa.js"
@@ -4064,7 +4064,7 @@ window.SONG_DATA.push(
     {
   "title": "雨傘-TOKIO",
   "artist": "前尘往事如昔故",
-  "collection": "#70【 稀羽すう】15】🎶 星期三定期歌枠雨傘、神様、仏様、 少女S、ネクト、春擬き、君の知らない物語",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -4072,7 +4072,7 @@ window.SONG_DATA.push(
     {
   "title": "神様、仏様-椎名林檎",
   "artist": "前尘往事如昔故",
-  "collection": "#70【 稀羽すう】15】🎶 星期三定期歌枠雨傘、神様、仏様、 少女S、ネクト、春擬き、君の知らない物語",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -4080,7 +4080,7 @@ window.SONG_DATA.push(
     {
   "title": "長く短い祭-椎名林檎",
   "artist": "前尘往事如昔故",
-  "collection": "#70【 稀羽すう】15】🎶 星期三定期歌枠雨傘、神様、仏様、 少女S、ネクト、春擬き、君の知らない物語",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -4088,7 +4088,7 @@ window.SONG_DATA.push(
     {
   "title": "少女S-SCANDAL",
   "artist": "前尘往事如昔故",
-  "collection": "#70【 稀羽すう】15】🎶 星期三定期歌枠雨傘、神様、仏様、 少女S、ネクト、春擬き、君の知らない物語",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -4096,7 +4096,7 @@ window.SONG_DATA.push(
     {
   "title": "嘘-シド",
   "artist": "前尘往事如昔故",
-  "collection": "#70【 稀羽すう】15】🎶 星期三定期歌枠雨傘、神様、仏様、 少女S、ネクト、春擬き、君の知らない物語",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -4104,7 +4104,7 @@ window.SONG_DATA.push(
     {
   "title": "コネクト-ClariS",
   "artist": "前尘往事如昔故",
-  "collection": "#70【 稀羽すう】15】🎶 星期三定期歌枠雨傘、神様、仏様、 少女S、ネクト、春擬き、君の知らない物語",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -4112,7 +4112,7 @@ window.SONG_DATA.push(
     {
   "title": "銀河鉄道999-ゴダイゴ",
   "artist": "前尘往事如昔故",
-  "collection": "#70【 稀羽すう】15】🎶 星期三定期歌枠雨傘、神様、仏様、 少女S、ネクト、春擬き、君の知らない物語",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -4120,7 +4120,7 @@ window.SONG_DATA.push(
     {
   "title": "ライオン-シェリル・ノーム starring May'n,ランカ・リー(中島愛)",
   "artist": "前尘往事如昔故",
-  "collection": "#70【 稀羽すう】15】🎶 星期三定期歌枠雨傘、神様、仏様、 少女S、ネクト、春擬き、君の知らない物語",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -4128,7 +4128,7 @@ window.SONG_DATA.push(
     {
   "title": "ねこ日記-ランカ・リー（中島愛）",
   "artist": "前尘往事如昔故",
-  "collection": "#70【 稀羽すう】15】🎶 星期三定期歌枠雨傘、神様、仏様、 少女S、ネクト、春擬き、君の知らない物語",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -4136,7 +4136,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーザンクロス-シェリル・ノーム starring May'n",
   "artist": "前尘往事如昔故",
-  "collection": "#70【 稀羽すう】15】🎶 星期三定期歌枠雨傘、神様、仏様、 少女S、ネクト、春擬き、君の知らない物語",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -4144,7 +4144,7 @@ window.SONG_DATA.push(
     {
   "title": "没唱完】11. ニンジーン Loves you yeah!-ランカ・リー(中島愛)",
   "artist": "前尘往事如昔故",
-  "collection": "#70【 稀羽すう】15】🎶 星期三定期歌枠雨傘、神様、仏様、 少女S、ネクト、春擬き、君の知らない物語",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -4152,7 +4152,7 @@ window.SONG_DATA.push(
     {
   "title": "春擬き-やなぎなぎ",
   "artist": "前尘往事如昔故",
-  "collection": "#70【 稀羽すう】15】🎶 星期三定期歌枠雨傘、神様、仏様、 少女S、ネクト、春擬き、君の知らない物語",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -4160,7 +4160,7 @@ window.SONG_DATA.push(
     {
   "title": "君の知らない物語-supercell",
   "artist": "前尘往事如昔故",
-  "collection": "#70【 稀羽すう】15】🎶 星期三定期歌枠雨傘、神様、仏様、 少女S、ネクト、春擬き、君の知らない物語",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -4168,7 +4168,7 @@ window.SONG_DATA.push(
     {
   "title": "斜陽-ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "#70【 稀羽すう】15】🎶 星期三定期歌枠雨傘、神様、仏様、 少女S、ネクト、春擬き、君の知らない物語",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -4176,7 +4176,7 @@ window.SONG_DATA.push(
     {
   "title": "透明人間-東京事変",
   "artist": "前尘往事如昔故",
-  "collection": "#70【 稀羽すう】15】🎶 星期三定期歌枠雨傘、神様、仏様、 少女S、ネクト、春擬き、君の知らない物語",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=15",
   "source": "suu_usuwa.js"
@@ -4184,7 +4184,7 @@ window.SONG_DATA.push(
     {
   "title": "世界の約束-倍賞千恵子",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢20】下午 3 点，在悠闲的午后时光唱歌 🎶【240518】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -4192,7 +4192,7 @@ window.SONG_DATA.push(
     {
   "title": "ブレーメン-ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢20】下午 3 点，在悠闲的午后时光唱歌 🎶【240518】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -4200,7 +4200,7 @@ window.SONG_DATA.push(
     {
   "title": "キリトリセン-40mP",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢20】下午 3 点，在悠闲的午后时光唱歌 🎶【240518】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -4208,7 +4208,7 @@ window.SONG_DATA.push(
     {
   "title": "スマイル・エンゲージ-Beit",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢20】下午 3 点，在悠闲的午后时光唱歌 🎶【240518】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -4216,7 +4216,7 @@ window.SONG_DATA.push(
     {
   "title": "Reason!!-315 STARS",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢20】下午 3 点，在悠闲的午后时光唱歌 🎶【240518】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -4224,7 +4224,7 @@ window.SONG_DATA.push(
     {
   "title": "サリシノハラ-みきとP",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢20】下午 3 点，在悠闲的午后时光唱歌 🎶【240518】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -4232,7 +4232,7 @@ window.SONG_DATA.push(
     {
   "title": "ないものねだり-KANA-BOON",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢20】下午 3 点，在悠闲的午后时光唱歌 🎶【240518】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -4240,7 +4240,7 @@ window.SONG_DATA.push(
     {
   "title": "世界はそれを愛と呼ぶんだぜ-サンボマスター",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢20】下午 3 点，在悠闲的午后时光唱歌 🎶【240518】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -4248,7 +4248,7 @@ window.SONG_DATA.push(
     {
   "title": "曇天-DOES",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢20】下午 3 点，在悠闲的午后时光唱歌 🎶【240518】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -4256,7 +4256,7 @@ window.SONG_DATA.push(
     {
   "title": "私の彼はパイロット-ランカ・リー(中島愛)",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢20】下午 3 点，在悠闲的午后时光唱歌 🎶【240518】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -4264,7 +4264,7 @@ window.SONG_DATA.push(
     {
   "title": "アナタノオト-ランカ・リー(中島愛)",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢20】下午 3 点，在悠闲的午后时光唱歌 🎶【240518】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -4272,7 +4272,7 @@ window.SONG_DATA.push(
     {
   "title": "トライアングラー-坂本真綾",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢20】下午 3 点，在悠闲的午后时光唱歌 🎶【240518】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -4280,7 +4280,7 @@ window.SONG_DATA.push(
     {
   "title": "いけないボーダーライン-ワルキューレ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢20】下午 3 点，在悠闲的午后时光唱歌 🎶【240518】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -4288,7 +4288,7 @@ window.SONG_DATA.push(
     {
   "title": "斜陽-ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢20】下午 3 点，在悠闲的午后时光唱歌 🎶【240518】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -4296,7 +4296,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーチラス-ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢20】下午 3 点，在悠闲的午后时光唱歌 🎶【240518】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=15",
   "source": "suu_usuwa.js"
@@ -4304,7 +4304,7 @@ window.SONG_DATA.push(
     {
   "title": "ルーマー-ポリスピカデリー",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢20】下午 3 点，在悠闲的午后时光唱歌 🎶【240518】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=16",
   "source": "suu_usuwa.js"
@@ -4312,7 +4312,7 @@ window.SONG_DATA.push(
     {
   "title": "fake face dance music-音田雅則",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢20】下午 3 点，在悠闲的午后时光唱歌 🎶【240518】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=17",
   "source": "suu_usuwa.js"
@@ -4320,7 +4320,7 @@ window.SONG_DATA.push(
     {
   "title": "変わらないもの-奥華子",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢20】下午 3 点，在悠闲的午后时光唱歌 🎶【240518】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=18",
   "source": "suu_usuwa.js"
@@ -4328,7 +4328,7 @@ window.SONG_DATA.push(
     {
   "title": "若者のすべて-フジファブリック",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢20】下午 3 点，在悠闲的午后时光唱歌 🎶【240518】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=19",
   "source": "suu_usuwa.js"
@@ -4336,7 +4336,7 @@ window.SONG_DATA.push(
     {
   "title": "Hello Song-星野源",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢20】下午 3 点，在悠闲的午后时光唱歌 🎶【240518】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=20",
   "source": "suu_usuwa.js"
@@ -4344,7 +4344,7 @@ window.SONG_DATA.push(
     {
   "title": "春を告げる-yama",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢16竖屏】春を告げる、ダンスホール、プラチナ、オリオンをなぞる【240605】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "suu_usuwa.js"
@@ -4352,7 +4352,7 @@ window.SONG_DATA.push(
     {
   "title": "ダンスホール-Mrs. GREEN APPLE",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢16竖屏】春を告げる、ダンスホール、プラチナ、オリオンをなぞる【240605】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "suu_usuwa.js"
@@ -4360,7 +4360,7 @@ window.SONG_DATA.push(
     {
   "title": "プラチナ-坂本真綾",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢16竖屏】春を告げる、ダンスホール、プラチナ、オリオンをなぞる【240605】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "suu_usuwa.js"
@@ -4368,7 +4368,7 @@ window.SONG_DATA.push(
     {
   "title": "オリオンをなぞる-UNISON SQUARE GARDEN",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢16竖屏】春を告げる、ダンスホール、プラチナ、オリオンをなぞる【240605】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "suu_usuwa.js"
@@ -4376,7 +4376,7 @@ window.SONG_DATA.push(
     {
   "title": "からくりピエロ-40mP",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢16竖屏】春を告げる、ダンスホール、プラチナ、オリオンをなぞる【240605】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=5",
   "source": "suu_usuwa.js"
@@ -4384,7 +4384,7 @@ window.SONG_DATA.push(
     {
   "title": "愛を伝えたいだとか-あいみょん",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢16竖屏】春を告げる、ダンスホール、プラチナ、オリオンをなぞる【240605】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=6",
   "source": "suu_usuwa.js"
@@ -4392,7 +4392,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーダウト-Official髭男dism",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢16竖屏】春を告げる、ダンスホール、プラチナ、オリオンをなぞる【240605】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=7",
   "source": "suu_usuwa.js"
@@ -4400,7 +4400,7 @@ window.SONG_DATA.push(
     {
   "title": "秒針を噛む-ずっと真夜中でいいのに。",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢16竖屏】春を告げる、ダンスホール、プラチナ、オリオンをなぞる【240605】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=8",
   "source": "suu_usuwa.js"
@@ -4408,7 +4408,7 @@ window.SONG_DATA.push(
     {
   "title": "ケセラセラ-Mrs. GREEN APPLE",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢16竖屏】春を告げる、ダンスホール、プラチナ、オリオンをなぞる【240605】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=9",
   "source": "suu_usuwa.js"
@@ -4416,7 +4416,7 @@ window.SONG_DATA.push(
     {
   "title": "Happiness-嵐",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢16竖屏】春を告げる、ダンスホール、プラチナ、オリオンをなぞる【240605】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=10",
   "source": "suu_usuwa.js"
@@ -4424,7 +4424,7 @@ window.SONG_DATA.push(
     {
   "title": "チェリー-スピッツ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢16竖屏】春を告げる、ダンスホール、プラチナ、オリオンをなぞる【240605】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=11",
   "source": "suu_usuwa.js"
@@ -4432,7 +4432,7 @@ window.SONG_DATA.push(
     {
   "title": "ルーマー-ポリスピカデリー",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢16竖屏】春を告げる、ダンスホール、プラチナ、オリオンをなぞる【240605】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=12",
   "source": "suu_usuwa.js"
@@ -4440,7 +4440,7 @@ window.SONG_DATA.push(
     {
   "title": "トウキョウ・シャンディ・ランデヴ-MAISONdes",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢16竖屏】春を告げる、ダンスホール、プラチナ、オリオンをなぞる【240605】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=13",
   "source": "suu_usuwa.js"
@@ -4448,7 +4448,7 @@ window.SONG_DATA.push(
     {
   "title": "悪魔の子-ヒグチアイ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢16竖屏】春を告げる、ダンスホール、プラチナ、オリオンをなぞる【240605】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=14",
   "source": "suu_usuwa.js"
@@ -4456,7 +4456,7 @@ window.SONG_DATA.push(
     {
   "title": "名前のない怪物-EGOIST",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢16竖屏】春を告げる、ダンスホール、プラチナ、オリオンをなぞる【240605】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=15",
   "source": "suu_usuwa.js"
@@ -4464,7 +4464,7 @@ window.SONG_DATA.push(
     {
   "title": "Together-あきよしふみえ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】🦢16竖屏】春を告げる、ダンスホール、プラチナ、オリオンをなぞる【240605】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=16",
   "source": "suu_usuwa.js"
@@ -4472,7 +4472,7 @@ window.SONG_DATA.push(
     {
   "title": "左右盲-ヨルシカ【开局狱卒运镜",
   "artist": "前尘往事如昔故",
-  "collection": "240522【稀羽すう🦢】8】2024年3D生日Live！🎹",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=1",
   "source": "suu_usuwa.js"
@@ -4480,7 +4480,7 @@ window.SONG_DATA.push(
     {
   "title": "napori-Vaundy",
   "artist": "前尘往事如昔故",
-  "collection": "240522【稀羽すう🦢】8】2024年3D生日Live！🎹",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=2",
   "source": "suu_usuwa.js"
@@ -4488,7 +4488,7 @@ window.SONG_DATA.push(
     {
   "title": "らしく。-稀羽すう 【原创曲",
   "artist": "前尘往事如昔故",
-  "collection": "240522【稀羽すう🦢】8】2024年3D生日Live！🎹",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=3",
   "source": "suu_usuwa.js"
@@ -4496,7 +4496,7 @@ window.SONG_DATA.push(
     {
   "title": "蝶々結び-Aimer（稀羽すう＆橙里セイ）【小小合唱",
   "artist": "前尘往事如昔故",
-  "collection": "240522【稀羽すう🦢】8】2024年3D生日Live！🎹",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=4",
   "source": "suu_usuwa.js"
@@ -4504,7 +4504,7 @@ window.SONG_DATA.push(
     {
   "title": "糸-中島みゆき",
   "artist": "前尘往事如昔故",
-  "collection": "240522【稀羽すう🦢】8】2024年3D生日Live！🎹",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=5",
   "source": "suu_usuwa.js"
@@ -4512,7 +4512,7 @@ window.SONG_DATA.push(
     {
   "title": "夜-星野源",
   "artist": "前尘往事如昔故",
-  "collection": "240522【稀羽すう🦢】8】2024年3D生日Live！🎹",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=6",
   "source": "suu_usuwa.js"
@@ -4520,7 +4520,7 @@ window.SONG_DATA.push(
     {
   "title": "さよーならまたいつか！-米津玄師 【上个月新歌来的",
   "artist": "前尘往事如昔故",
-  "collection": "240522【稀羽すう🦢】8】2024年3D生日Live！🎹",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=7",
   "source": "suu_usuwa.js"
@@ -4528,7 +4528,7 @@ window.SONG_DATA.push(
     {
   "title": "Study Equal Magic! / S.E.M（稀羽すう＆夢川かなう＆月紫アリア）",
   "artist": "前尘往事如昔故",
-  "collection": "240522【稀羽すう🦢】8】2024年3D生日Live！🎹",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=8",
   "source": "suu_usuwa.js"
@@ -4536,7 +4536,7 @@ window.SONG_DATA.push(
     {
   "title": "花は桜 君は美し",
   "artist": "いきものがかり",
-  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -4544,7 +4544,7 @@ window.SONG_DATA.push(
     {
   "title": "春を告げる",
   "artist": "yama",
-  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -4552,7 +4552,7 @@ window.SONG_DATA.push(
     {
   "title": "パラボラ",
   "artist": "Official髭男dism",
-  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -4560,7 +4560,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ",
-  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -4568,7 +4568,7 @@ window.SONG_DATA.push(
     {
   "title": "春擬き",
   "artist": "やなぎなぎ",
-  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -4576,7 +4576,7 @@ window.SONG_DATA.push(
     {
   "title": "Blooming♡Blooming",
   "artist": "るか from AIKATSU☆STARS！",
-  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -4584,7 +4584,7 @@ window.SONG_DATA.push(
     {
   "title": "赤いスイートピー",
   "artist": "松田聖子",
-  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -4592,7 +4592,7 @@ window.SONG_DATA.push(
     {
   "title": "CHE.R.RY",
   "artist": "YUI",
-  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -4600,7 +4600,7 @@ window.SONG_DATA.push(
     {
   "title": "チェリー",
   "artist": "スピッツ",
-  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -4608,7 +4608,7 @@ window.SONG_DATA.push(
     {
   "title": "メロンソーダ",
   "artist": "aiko",
-  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -4616,7 +4616,7 @@ window.SONG_DATA.push(
     {
   "title": "桜の森",
   "artist": "星野源",
-  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -4624,7 +4624,7 @@ window.SONG_DATA.push(
     {
   "title": "SAKURA",
   "artist": "いきものがかり",
-  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -4632,7 +4632,7 @@ window.SONG_DATA.push(
     {
   "title": "3月9日",
   "artist": "レミオロメン",
-  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -4640,7 +4640,7 @@ window.SONG_DATA.push(
     {
   "title": "One more time,One more chance",
   "artist": "山崎まさよし",
-  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -4648,7 +4648,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒",
   "artist": "ヨルシカ",
-  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=15",
   "source": "suu_usuwa.js"
@@ -4656,7 +4656,7 @@ window.SONG_DATA.push(
     {
   "title": "SUN",
   "artist": "星野源",
-  "collection": "【稀羽すう 4首】【Elce主办的歌枠接力活动】水平線 - back number 君がいて水になる - ずっと真夜中でいいのに。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=1",
   "source": "suu_usuwa.js"
@@ -4664,7 +4664,7 @@ window.SONG_DATA.push(
     {
   "title": "水平線",
   "artist": "back number",
-  "collection": "【稀羽すう 4首】【Elce主办的歌枠接力活动】水平線 - back number 君がいて水になる - ずっと真夜中でいいのに。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=2",
   "source": "suu_usuwa.js"
@@ -4672,7 +4672,7 @@ window.SONG_DATA.push(
     {
   "title": "君がいて水になる",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【稀羽すう 4首】【Elce主办的歌枠接力活动】水平線 - back number 君がいて水になる - ずっと真夜中でいいのに。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=3",
   "source": "suu_usuwa.js"
@@ -4680,7 +4680,7 @@ window.SONG_DATA.push(
     {
   "title": "Floating",
   "artist": "稀羽すう",
-  "collection": "【稀羽すう 4首】【Elce主办的歌枠接力活动】水平線 - back number 君がいて水になる - ずっと真夜中でいいのに。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=4",
   "source": "suu_usuwa.js"
@@ -4688,7 +4688,7 @@ window.SONG_DATA.push(
     {
   "title": "波乗りジョニー-桑田佳祐",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -4696,7 +4696,7 @@ window.SONG_DATA.push(
     {
   "title": "TSUNAMI-サザンオールスターズ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -4704,7 +4704,7 @@ window.SONG_DATA.push(
     {
   "title": "ファジーネーブル-Conton Candy",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -4712,7 +4712,7 @@ window.SONG_DATA.push(
     {
   "title": "まつり-藤井風",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -4720,7 +4720,7 @@ window.SONG_DATA.push(
     {
   "title": "神様、仏様-椎名林檎",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -4728,7 +4728,7 @@ window.SONG_DATA.push(
     {
   "title": "ノルニル-やくしまるえつこ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -4736,7 +4736,7 @@ window.SONG_DATA.push(
     {
   "title": "少年よ我に帰れ-やくしまるえつこ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -4744,7 +4744,7 @@ window.SONG_DATA.push(
     {
   "title": "NOBODY KNOWS-スガシカオ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -4752,7 +4752,7 @@ window.SONG_DATA.push(
     {
   "title": "はじまりの日 feat.Mummy-D-スガシカオ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -4760,7 +4760,7 @@ window.SONG_DATA.push(
     {
   "title": "もっふ・いんざぼっくす♪-もふもふえん",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -4768,7 +4768,7 @@ window.SONG_DATA.push(
     {
   "title": "Cafe Parade!-Cafe Parade",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -4776,7 +4776,7 @@ window.SONG_DATA.push(
     {
   "title": "MOON NIGHTのせいにして-DRAMATIC STARS",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=12",
   "source": "suu_usuwa.js"
@@ -4784,7 +4784,7 @@ window.SONG_DATA.push(
     {
   "title": "空-音無小鳥(滝田樹里)",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=13",
   "source": "suu_usuwa.js"
@@ -4792,7 +4792,7 @@ window.SONG_DATA.push(
     {
   "title": "夏色えがおで1, 2, Jump!-μ's",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=14",
   "source": "suu_usuwa.js"
@@ -4800,7 +4800,7 @@ window.SONG_DATA.push(
     {
   "title": "キミの記憶-川村ゆみ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=15",
   "source": "suu_usuwa.js"
@@ -4808,7 +4808,7 @@ window.SONG_DATA.push(
     {
   "title": "Never More-平田志穂子",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=16",
   "source": "suu_usuwa.js"
@@ -4816,7 +4816,7 @@ window.SONG_DATA.push(
     {
   "title": "タッチ-岩崎良美",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -4824,7 +4824,7 @@ window.SONG_DATA.push(
     {
   "title": "宿命-Official髭男dism",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -4832,7 +4832,7 @@ window.SONG_DATA.push(
     {
   "title": "負けないで-ZARD",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -4840,7 +4840,7 @@ window.SONG_DATA.push(
     {
   "title": "DAN DAN 心魅かれてく-FIELD OF VIEW",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -4848,7 +4848,7 @@ window.SONG_DATA.push(
     {
   "title": "走れ正直者-西城秀樹",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -4856,7 +4856,7 @@ window.SONG_DATA.push(
     {
   "title": "葛飾ラプソディー-堂島孝平",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -4864,7 +4864,7 @@ window.SONG_DATA.push(
     {
   "title": "勇気100%-光GENJI",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -4872,7 +4872,7 @@ window.SONG_DATA.push(
     {
   "title": "プリンプリン物語-石川ひとみ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -4880,7 +4880,7 @@ window.SONG_DATA.push(
     {
   "title": "キューティーハニー-倖田來未",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -4888,7 +4888,7 @@ window.SONG_DATA.push(
     {
   "title": "ひぐらしのなく頃に-島みやえい子",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -4896,7 +4896,7 @@ window.SONG_DATA.push(
     {
   "title": "奈落の花-島みやえい子",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -4904,7 +4904,7 @@ window.SONG_DATA.push(
     {
   "title": "you-癒月",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=12",
   "source": "suu_usuwa.js"
@@ -4912,7 +4912,7 @@ window.SONG_DATA.push(
     {
   "title": "アンインストール-石川智晶",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=13",
   "source": "suu_usuwa.js"
@@ -4920,7 +4920,7 @@ window.SONG_DATA.push(
     {
   "title": "寝逃げでリセット!-柊つかさ(福原香織)",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=14",
   "source": "suu_usuwa.js"
@@ -4928,7 +4928,7 @@ window.SONG_DATA.push(
     {
   "title": "炉心融解-iroha(sasaki)",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=15",
   "source": "suu_usuwa.js"
@@ -4936,7 +4936,7 @@ window.SONG_DATA.push(
     {
   "title": "東京テディベア-Neru",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=16",
   "source": "suu_usuwa.js"
@@ -4944,7 +4944,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る-ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=17",
   "source": "suu_usuwa.js"
@@ -4952,7 +4952,7 @@ window.SONG_DATA.push(
     {
   "title": "三日月-絢香",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=18",
   "source": "suu_usuwa.js"
@@ -4960,7 +4960,7 @@ window.SONG_DATA.push(
     {
   "title": "天体観測-BUMP OF CHICKEN",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=19",
   "source": "suu_usuwa.js"
@@ -4968,7 +4968,7 @@ window.SONG_DATA.push(
     {
   "title": "さよーならまたいつか！-米津玄師",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=20",
   "source": "suu_usuwa.js"
@@ -4976,7 +4976,7 @@ window.SONG_DATA.push(
     {
   "title": "少女レイ-みきとP",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -4984,7 +4984,7 @@ window.SONG_DATA.push(
     {
   "title": "ボーイフレンド-aiko",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -4992,7 +4992,7 @@ window.SONG_DATA.push(
     {
   "title": "KissHug-aiko",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -5000,7 +5000,7 @@ window.SONG_DATA.push(
     {
   "title": "君と夏フェス-SHISHAMO",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -5008,7 +5008,7 @@ window.SONG_DATA.push(
     {
   "title": "虹-福山雅治",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -5016,7 +5016,7 @@ window.SONG_DATA.push(
     {
   "title": "没唱几句06. SUMMER SONG-YUI (1chorus)",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -5024,7 +5024,7 @@ window.SONG_DATA.push(
     {
   "title": "PEACH-大塚愛",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -5032,7 +5032,7 @@ window.SONG_DATA.push(
     {
   "title": "酔いどれ知らず-Kanaria",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -5040,7 +5040,7 @@ window.SONG_DATA.push(
     {
   "title": "ベノム-かいりきベア",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -5048,7 +5048,7 @@ window.SONG_DATA.push(
     {
   "title": "ダーリン-須田景凪",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -5056,7 +5056,7 @@ window.SONG_DATA.push(
     {
   "title": "けーたいみしてよ-MAISONdes",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -5064,7 +5064,7 @@ window.SONG_DATA.push(
     {
   "title": "ヨワネハキ-MAISONdes",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=12",
   "source": "suu_usuwa.js"
@@ -5072,7 +5072,7 @@ window.SONG_DATA.push(
     {
   "title": "裏表ラバーズ-wowaka",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=13",
   "source": "suu_usuwa.js"
@@ -5080,7 +5080,7 @@ window.SONG_DATA.push(
     {
   "title": "ハロ／ハワユ-ナノウ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=14",
   "source": "suu_usuwa.js"
@@ -5088,7 +5088,7 @@ window.SONG_DATA.push(
     {
   "title": "アイロニ-すこっぷ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=15",
   "source": "suu_usuwa.js"
@@ -5096,7 +5096,7 @@ window.SONG_DATA.push(
     {
   "title": "小夜子-みきとP",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=16",
   "source": "suu_usuwa.js"
@@ -5104,7 +5104,7 @@ window.SONG_DATA.push(
     {
   "title": "刹那プラス-みきとP",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=17",
   "source": "suu_usuwa.js"
@@ -5112,7 +5112,7 @@ window.SONG_DATA.push(
     {
   "title": "バレリーコ-みきとP",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=18",
   "source": "suu_usuwa.js"
@@ -5120,7 +5120,7 @@ window.SONG_DATA.push(
     {
   "title": "きらきら武士-レキシ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=19",
   "source": "suu_usuwa.js"
@@ -5128,7 +5128,7 @@ window.SONG_DATA.push(
     {
   "title": "水平線-back number",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -5136,7 +5136,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る-ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -5144,7 +5144,7 @@ window.SONG_DATA.push(
     {
   "title": "アカシア-BUMP OF CHICKEN",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -5152,7 +5152,7 @@ window.SONG_DATA.push(
     {
   "title": "DANZEN!ふたりはプリキュア (ver.MaxHeart)-五條真由美",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -5160,7 +5160,7 @@ window.SONG_DATA.push(
     {
   "title": "おジャ魔女カーニバル!!-MAHO堂",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -5168,7 +5168,7 @@ window.SONG_DATA.push(
     {
   "title": "ウィーアー!-きただにひろし",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -5176,7 +5176,7 @@ window.SONG_DATA.push(
     {
   "title": "ビンクスの酒-麦わらの一味",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -5184,7 +5184,7 @@ window.SONG_DATA.push(
     {
   "title": "One Love-嵐",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -5192,7 +5192,7 @@ window.SONG_DATA.push(
     {
   "title": "I LOVE...-official髭男dism",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -5200,7 +5200,7 @@ window.SONG_DATA.push(
     {
   "title": "SUN-星野源",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -5208,7 +5208,7 @@ window.SONG_DATA.push(
     {
   "title": "アイデア-星野源",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -5216,7 +5216,7 @@ window.SONG_DATA.push(
     {
   "title": "TSUNAMI-サザンオールスターズ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=12",
   "source": "suu_usuwa.js"
@@ -5224,7 +5224,7 @@ window.SONG_DATA.push(
     {
   "title": "都落ち-ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=13",
   "source": "suu_usuwa.js"
@@ -5232,7 +5232,7 @@ window.SONG_DATA.push(
     {
   "title": "カントリーロード-本名陽子",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=14",
   "source": "suu_usuwa.js"
@@ -5240,7 +5240,7 @@ window.SONG_DATA.push(
     {
   "title": "ファジーネーブル-Conton Candy",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=15",
   "source": "suu_usuwa.js"
@@ -5248,7 +5248,7 @@ window.SONG_DATA.push(
     {
   "title": "ウィスキーが、お好きでしょ-SAYURI (1chorus)",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=16",
   "source": "suu_usuwa.js"
@@ -5256,7 +5256,7 @@ window.SONG_DATA.push(
     {
   "title": "また君に恋してる-坂本冬美",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=17",
   "source": "suu_usuwa.js"
@@ -5264,7 +5264,7 @@ window.SONG_DATA.push(
     {
   "title": "真赤な太陽-美空ひばり",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=18",
   "source": "suu_usuwa.js"
@@ -5272,7 +5272,7 @@ window.SONG_DATA.push(
     {
   "title": "ただ君に晴れ-ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=19",
   "source": "suu_usuwa.js"
@@ -5280,7 +5280,7 @@ window.SONG_DATA.push(
     {
   "title": "もう恋なんてしない-槇原敬之",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=20",
   "source": "suu_usuwa.js"
@@ -5288,7 +5288,7 @@ window.SONG_DATA.push(
     {
   "title": "さよーならまたいつか!-米津玄師",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=21",
   "source": "suu_usuwa.js"
@@ -5296,7 +5296,7 @@ window.SONG_DATA.push(
     {
   "title": "蒼のエーテル-ランカ・リー（中島愛）",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -5304,7 +5304,7 @@ window.SONG_DATA.push(
     {
   "title": "アイモ ～鳥のひと-ランカ・リー（中島愛）",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -5312,7 +5312,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れじの言の葉-未来古代楽団",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -5320,7 +5320,7 @@ window.SONG_DATA.push(
     {
   "title": "月のワルツ-諫山実生",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -5328,7 +5328,7 @@ window.SONG_DATA.push(
     {
   "title": "世界の約束-倍賞千恵子",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -5336,7 +5336,7 @@ window.SONG_DATA.push(
     {
   "title": "テルーの唄-手嶌葵",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -5344,7 +5344,7 @@ window.SONG_DATA.push(
     {
   "title": "回る空うさぎ-Orangestar",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -5352,7 +5352,7 @@ window.SONG_DATA.push(
     {
   "title": "you-癒月",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -5360,7 +5360,7 @@ window.SONG_DATA.push(
     {
   "title": "フリージア-Uru",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -5368,7 +5368,7 @@ window.SONG_DATA.push(
     {
   "title": "trust you-伊藤由奈",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -5376,7 +5376,7 @@ window.SONG_DATA.push(
     {
   "title": "ループ-坂本真綾",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -5384,7 +5384,7 @@ window.SONG_DATA.push(
     {
   "title": "風待ちジェット-坂本真綾",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=12",
   "source": "suu_usuwa.js"
@@ -5392,7 +5392,7 @@ window.SONG_DATA.push(
     {
   "title": "雫-スキマスイッチ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=13",
   "source": "suu_usuwa.js"
@@ -5400,7 +5400,7 @@ window.SONG_DATA.push(
     {
   "title": "アンインストール-石川智晶",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=14",
   "source": "suu_usuwa.js"
@@ -5408,7 +5408,7 @@ window.SONG_DATA.push(
     {
   "title": "ブルーバード-いきものがかり",
   "artist": "前尘往事如昔故",
-  "collection": "【巫てんり × 稀羽すう】12】ブルーバード、天ノ弱、少女S【240704】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=1",
   "source": "suu_usuwa.js"
@@ -5416,7 +5416,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーザンクロス-シェリル・ノーム starring May'n",
   "artist": "前尘往事如昔故",
-  "collection": "【巫てんり × 稀羽すう】12】ブルーバード、天ノ弱、少女S【240704】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=2",
   "source": "suu_usuwa.js"
@@ -5424,7 +5424,7 @@ window.SONG_DATA.push(
     {
   "title": "天ノ弱-164",
   "artist": "前尘往事如昔故",
-  "collection": "【巫てんり × 稀羽すう】12】ブルーバード、天ノ弱、少女S【240704】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=3",
   "source": "suu_usuwa.js"
@@ -5432,7 +5432,7 @@ window.SONG_DATA.push(
     {
   "title": "少女S-SCANDAL",
   "artist": "前尘往事如昔故",
-  "collection": "【巫てんり × 稀羽すう】12】ブルーバード、天ノ弱、少女S【240704】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=4",
   "source": "suu_usuwa.js"
@@ -5440,7 +5440,7 @@ window.SONG_DATA.push(
     {
   "title": "可愛くてごめん-HoneyWorks",
   "artist": "前尘往事如昔故",
-  "collection": "【巫てんり × 稀羽すう】12】ブルーバード、天ノ弱、少女S【240704】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=5",
   "source": "suu_usuwa.js"
@@ -5448,7 +5448,7 @@ window.SONG_DATA.push(
     {
   "title": "ダーリンダンス-かいりきベア",
   "artist": "前尘往事如昔故",
-  "collection": "【巫てんり × 稀羽すう】12】ブルーバード、天ノ弱、少女S【240704】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=6",
   "source": "suu_usuwa.js"
@@ -5456,7 +5456,7 @@ window.SONG_DATA.push(
     {
   "title": "すずめ-RADWIMPS feat.十明",
   "artist": "前尘往事如昔故",
-  "collection": "【巫てんり × 稀羽すう】12】ブルーバード、天ノ弱、少女S【240704】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=7",
   "source": "suu_usuwa.js"
@@ -5464,7 +5464,7 @@ window.SONG_DATA.push(
     {
   "title": "フリージア-Uru",
   "artist": "前尘往事如昔故",
-  "collection": "【巫てんり × 稀羽すう】12】ブルーバード、天ノ弱、少女S【240704】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=8",
   "source": "suu_usuwa.js"
@@ -5472,7 +5472,7 @@ window.SONG_DATA.push(
     {
   "title": "悪魔の子-ヒグチアイ",
   "artist": "前尘往事如昔故",
-  "collection": "【巫てんり × 稀羽すう】12】ブルーバード、天ノ弱、少女S【240704】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=9",
   "source": "suu_usuwa.js"
@@ -5480,7 +5480,7 @@ window.SONG_DATA.push(
     {
   "title": "Overdose-なとり",
   "artist": "前尘往事如昔故",
-  "collection": "【巫てんり × 稀羽すう】12】ブルーバード、天ノ弱、少女S【240704】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=10",
   "source": "suu_usuwa.js"
@@ -5488,7 +5488,7 @@ window.SONG_DATA.push(
     {
   "title": "Beautiful World-宇多田ヒカル",
   "artist": "前尘往事如昔故",
-  "collection": "【巫てんり × 稀羽すう】12】ブルーバード、天ノ弱、少女S【240704】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=11",
   "source": "suu_usuwa.js"
@@ -5496,7 +5496,7 @@ window.SONG_DATA.push(
     {
   "title": "Lost my music-涼宮ハルヒ(平野綾)",
   "artist": "前尘往事如昔故",
-  "collection": "【巫てんり × 稀羽すう】12】ブルーバード、天ノ弱、少女S【240704】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=12",
   "source": "suu_usuwa.js"
@@ -5504,7 +5504,7 @@ window.SONG_DATA.push(
     {
   "title": "インフィニティ-シェリル・ノーム starring May'n",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -5512,7 +5512,7 @@ window.SONG_DATA.push(
     {
   "title": "私の彼はパイロット-ランカ・リー(中島愛)",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -5520,7 +5520,7 @@ window.SONG_DATA.push(
     {
   "title": "星間飛行-ランカ・リー(中島愛)",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -5528,7 +5528,7 @@ window.SONG_DATA.push(
     {
   "title": "可愛くなりたい-HoneyWorks",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -5536,7 +5536,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒアルロンリーガール-ZOC",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -5544,7 +5544,7 @@ window.SONG_DATA.push(
     {
   "title": "Overdose-なとり",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -5552,7 +5552,7 @@ window.SONG_DATA.push(
     {
   "title": "わたしの一番かわいいところ-FRUITS ZIPPER",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -5560,7 +5560,7 @@ window.SONG_DATA.push(
     {
   "title": "名前のない怪物-EGOIST",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -5568,7 +5568,7 @@ window.SONG_DATA.push(
     {
   "title": "コネクト-ClariS",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -5576,7 +5576,7 @@ window.SONG_DATA.push(
     {
   "title": "CLEAR-坂本真綾",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -5584,7 +5584,7 @@ window.SONG_DATA.push(
     {
   "title": "マジックナンバー-坂本真綾",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -5592,7 +5592,7 @@ window.SONG_DATA.push(
     {
   "title": "プラチナ-坂本真綾",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=12",
   "source": "suu_usuwa.js"
@@ -5600,7 +5600,7 @@ window.SONG_DATA.push(
     {
   "title": "長く短い祭-椎名林檎",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=13",
   "source": "suu_usuwa.js"
@@ -5608,7 +5608,7 @@ window.SONG_DATA.push(
     {
   "title": "女の子は誰でも-東京事変",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=14",
   "source": "suu_usuwa.js"
@@ -5616,7 +5616,7 @@ window.SONG_DATA.push(
     {
   "title": "ベテルギウス-優里",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=15",
   "source": "suu_usuwa.js"
@@ -5624,7 +5624,7 @@ window.SONG_DATA.push(
     {
   "title": "青と夏-Mrs. GREEN APPLE",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=1",
   "source": "suu_usuwa.js"
@@ -5632,7 +5632,7 @@ window.SONG_DATA.push(
     {
   "title": "SUMMER SONG-YUI",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=2",
   "source": "suu_usuwa.js"
@@ -5640,7 +5640,7 @@ window.SONG_DATA.push(
     {
   "title": "青のすみか-キタニタツヤ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=3",
   "source": "suu_usuwa.js"
@@ -5648,7 +5648,7 @@ window.SONG_DATA.push(
     {
   "title": "君と夏フェス-SHISHAMO",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=4",
   "source": "suu_usuwa.js"
@@ -5656,7 +5656,7 @@ window.SONG_DATA.push(
     {
   "title": "少女レイ-みきとP",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=5",
   "source": "suu_usuwa.js"
@@ -5664,7 +5664,7 @@ window.SONG_DATA.push(
     {
   "title": "ミュージック・アワー-ポルノグラフィティ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=6",
   "source": "suu_usuwa.js"
@@ -5672,7 +5672,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れてやらない-結束バンド",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=7",
   "source": "suu_usuwa.js"
@@ -5680,7 +5680,7 @@ window.SONG_DATA.push(
     {
   "title": "LA・LA・LA LOVE SONG-久保田利伸",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=8",
   "source": "suu_usuwa.js"
@@ -5688,7 +5688,7 @@ window.SONG_DATA.push(
     {
   "title": "水平線-back number",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=9",
   "source": "suu_usuwa.js"
@@ -5696,7 +5696,7 @@ window.SONG_DATA.push(
     {
   "title": "花に亡霊-ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=10",
   "source": "suu_usuwa.js"
@@ -5704,7 +5704,7 @@ window.SONG_DATA.push(
     {
   "title": "左右盲-ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=11",
   "source": "suu_usuwa.js"
@@ -5712,7 +5712,7 @@ window.SONG_DATA.push(
     {
   "title": "TSUNAMI-サザンオールスターズ(2)",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=12",
   "source": "suu_usuwa.js"
@@ -5720,7 +5720,7 @@ window.SONG_DATA.push(
     {
   "title": "君の知らない物語-supercell",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=13",
   "source": "suu_usuwa.js"
@@ -5728,7 +5728,7 @@ window.SONG_DATA.push(
     {
   "title": "Together-あきよしふみえ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=14",
   "source": "suu_usuwa.js"
@@ -5736,7 +5736,7 @@ window.SONG_DATA.push(
     {
   "title": "夏色えがおで1, 2, Jump!-μ's",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】7竖屏】突击突击 カブトムシ、secret base～君がくれたもの～【240721】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -5744,7 +5744,7 @@ window.SONG_DATA.push(
     {
   "title": "創生のアクエリオン-AKINO",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】7竖屏】突击突击 カブトムシ、secret base～君がくれたもの～【240721】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -5752,7 +5752,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る-ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】7竖屏】突击突击 カブトムシ、secret base～君がくれたもの～【240721】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -5760,7 +5760,7 @@ window.SONG_DATA.push(
     {
   "title": "風になる-つじあやの",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】7竖屏】突击突击 カブトムシ、secret base～君がくれたもの～【240721】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -5768,7 +5768,7 @@ window.SONG_DATA.push(
     {
   "title": "ガーネット-奥華子",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】7竖屏】突击突击 カブトムシ、secret base～君がくれたもの～【240721】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -5776,7 +5776,7 @@ window.SONG_DATA.push(
     {
   "title": "secret base～君がくれたもの～-ZONE",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】7竖屏】突击突击 カブトムシ、secret base～君がくれたもの～【240721】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -5784,7 +5784,7 @@ window.SONG_DATA.push(
     {
   "title": "カブトムシ-aiko",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】7竖屏】突击突击 カブトムシ、secret base～君がくれたもの～【240721】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -5792,7 +5792,7 @@ window.SONG_DATA.push(
     {
   "title": "Snow halation-μ's",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】11】不要输给夏天！ Snow halation、雪の華、粉雪、初めての恋が終わる時【2024年7月23日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -5800,7 +5800,7 @@ window.SONG_DATA.push(
     {
   "title": "雪の華-中島美嘉",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】11】不要输给夏天！ Snow halation、雪の華、粉雪、初めての恋が終わる時【2024年7月23日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -5808,7 +5808,7 @@ window.SONG_DATA.push(
     {
   "title": "クリスマスソング-back number",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】11】不要输给夏天！ Snow halation、雪の華、粉雪、初めての恋が終わる時【2024年7月23日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -5816,7 +5816,7 @@ window.SONG_DATA.push(
     {
   "title": "粉雪-レミオロメン",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】11】不要输给夏天！ Snow halation、雪の華、粉雪、初めての恋が終わる時【2024年7月23日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -5824,7 +5824,7 @@ window.SONG_DATA.push(
     {
   "title": "初めての恋が終わる時-ryo",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】11】不要输给夏天！ Snow halation、雪の華、粉雪、初めての恋が終わる時【2024年7月23日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -5832,7 +5832,7 @@ window.SONG_DATA.push(
     {
   "title": "白い雪のプリンセスは-のぼる↑",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】11】不要输给夏天！ Snow halation、雪の華、粉雪、初めての恋が終わる時【2024年7月23日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -5840,7 +5840,7 @@ window.SONG_DATA.push(
     {
   "title": "Subtitle-Official髭男dism",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】11】不要输给夏天！ Snow halation、雪の華、粉雪、初めての恋が終わる時【2024年7月23日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -5848,7 +5848,7 @@ window.SONG_DATA.push(
     {
   "title": "ベテルギウス-優里",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】11】不要输给夏天！ Snow halation、雪の華、粉雪、初めての恋が終わる時【2024年7月23日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -5856,7 +5856,7 @@ window.SONG_DATA.push(
     {
   "title": "ダイアモンドクレバス-シェリル・ノーム starring May'n",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】11】不要输给夏天！ Snow halation、雪の華、粉雪、初めての恋が終わる時【2024年7月23日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -5864,7 +5864,7 @@ window.SONG_DATA.push(
     {
   "title": "夜空ノムコウ-SMAP",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】11】不要输给夏天！ Snow halation、雪の華、粉雪、初めての恋が終わる時【2024年7月23日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -5872,7 +5872,7 @@ window.SONG_DATA.push(
     {
   "title": "青と夏-Mrs. GREEN APPLE",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】11】不要输给夏天！ Snow halation、雪の華、粉雪、初めての恋が終わる時【2024年7月23日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -5880,7 +5880,7 @@ window.SONG_DATA.push(
     {
   "title": "真生活-案山子",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】10】真生活、君がいて水になる、ルーマー【240726】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -5888,7 +5888,7 @@ window.SONG_DATA.push(
     {
   "title": "君がいて水になる-ずっと真夜中でいいのに。",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】10】真生活、君がいて水になる、ルーマー【240726】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -5896,7 +5896,7 @@ window.SONG_DATA.push(
     {
   "title": "ガーデン-藤井風",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】10】真生活、君がいて水になる、ルーマー【240726】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -5904,7 +5904,7 @@ window.SONG_DATA.push(
     {
   "title": "花-藤井風",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】10】真生活、君がいて水になる、ルーマー【240726】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -5912,7 +5912,7 @@ window.SONG_DATA.push(
     {
   "title": "不思議-星野源",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】10】真生活、君がいて水になる、ルーマー【240726】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -5920,7 +5920,7 @@ window.SONG_DATA.push(
     {
   "title": "喜劇-星野源",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】10】真生活、君がいて水になる、ルーマー【240726】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -5928,7 +5928,7 @@ window.SONG_DATA.push(
     {
   "title": "ルーマー-ポリスピカデリー",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】10】真生活、君がいて水になる、ルーマー【240726】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -5936,7 +5936,7 @@ window.SONG_DATA.push(
     {
   "title": "Stand by You-Official髭男dism",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】10】真生活、君がいて水になる、ルーマー【240726】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -5944,7 +5944,7 @@ window.SONG_DATA.push(
     {
   "title": "ミス・パラレルワールド-相対性理論",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】10】真生活、君がいて水になる、ルーマー【240726】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -5952,7 +5952,7 @@ window.SONG_DATA.push(
     {
   "title": "(恋は)百年戦争-相対性理論",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】10】真生活、君がいて水になる、ルーマー【240726】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -5960,7 +5960,7 @@ window.SONG_DATA.push(
     {
   "title": "シンデレラボーイ-Saucy Dog",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=1",
   "source": "suu_usuwa.js"
@@ -5968,7 +5968,7 @@ window.SONG_DATA.push(
     {
   "title": "祝福-YOASOBI",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=2",
   "source": "suu_usuwa.js"
@@ -5976,7 +5976,7 @@ window.SONG_DATA.push(
     {
   "title": "灼熱スイッチ-雀が原中学卓球部",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=3",
   "source": "suu_usuwa.js"
@@ -5984,7 +5984,7 @@ window.SONG_DATA.push(
     {
   "title": "少女レイ-みきとP",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=4",
   "source": "suu_usuwa.js"
@@ -5992,7 +5992,7 @@ window.SONG_DATA.push(
     {
   "title": "バレリーコ-みきとP",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=5",
   "source": "suu_usuwa.js"
@@ -6000,7 +6000,7 @@ window.SONG_DATA.push(
     {
   "title": "サリシノハラ-みきとP",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=6",
   "source": "suu_usuwa.js"
@@ -6008,7 +6008,7 @@ window.SONG_DATA.push(
     {
   "title": "ないものねだり-KANA-BOON",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=7",
   "source": "suu_usuwa.js"
@@ -6016,7 +6016,7 @@ window.SONG_DATA.push(
     {
   "title": "Laughter-Official髭男dism",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=8",
   "source": "suu_usuwa.js"
@@ -6024,7 +6024,7 @@ window.SONG_DATA.push(
     {
   "title": "シャルル-バルーン",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=9",
   "source": "suu_usuwa.js"
@@ -6032,7 +6032,7 @@ window.SONG_DATA.push(
     {
   "title": "ダーリン-須田景凪",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=10",
   "source": "suu_usuwa.js"
@@ -6040,7 +6040,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ-ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=11",
   "source": "suu_usuwa.js"
@@ -6048,7 +6048,7 @@ window.SONG_DATA.push(
     {
   "title": "悪魔の子-ヒグチアイ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=12",
   "source": "suu_usuwa.js"
@@ -6056,7 +6056,7 @@ window.SONG_DATA.push(
     {
   "title": "again-YUI",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=13",
   "source": "suu_usuwa.js"
@@ -6064,7 +6064,7 @@ window.SONG_DATA.push(
     {
   "title": "まつり-藤井風",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=14",
   "source": "suu_usuwa.js"
@@ -6072,7 +6072,7 @@ window.SONG_DATA.push(
     {
   "title": "ただ声一つ-ロクデナシ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=15",
   "source": "suu_usuwa.js"
@@ -6080,7 +6080,7 @@ window.SONG_DATA.push(
     {
   "title": "生きる-水野あつ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=16",
   "source": "suu_usuwa.js"
@@ -6088,7 +6088,7 @@ window.SONG_DATA.push(
     {
   "title": "またあした-想太",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=17",
   "source": "suu_usuwa.js"
@@ -6096,7 +6096,7 @@ window.SONG_DATA.push(
     {
   "title": "都落ち（落京）",
   "artist": "ヨルシカ",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=18",
   "source": "suu_usuwa.js"
@@ -6104,7 +6104,7 @@ window.SONG_DATA.push(
     {
   "title": "さよーならまたいつか!-米津玄師",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=19",
   "source": "suu_usuwa.js"
@@ -6112,7 +6112,7 @@ window.SONG_DATA.push(
     {
   "title": "青と夏",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -6120,7 +6120,7 @@ window.SONG_DATA.push(
     {
   "title": "少女レイ",
   "artist": "みきとP",
-  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -6128,7 +6128,7 @@ window.SONG_DATA.push(
     {
   "title": "fake face dance music",
   "artist": "音田雅則",
-  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -6136,7 +6136,7 @@ window.SONG_DATA.push(
     {
   "title": "ダンスホール",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -6144,7 +6144,7 @@ window.SONG_DATA.push(
     {
   "title": "ブルーバード",
   "artist": "いきものがかり",
-  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -6152,7 +6152,7 @@ window.SONG_DATA.push(
     {
   "title": "ダーリン",
   "artist": "須田景凪",
-  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -6160,7 +6160,7 @@ window.SONG_DATA.push(
     {
   "title": "少年よ我に帰れ",
   "artist": "やくしまるえつこ",
-  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -6168,7 +6168,7 @@ window.SONG_DATA.push(
     {
   "title": "接吻",
   "artist": "Original Love",
-  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -6176,7 +6176,7 @@ window.SONG_DATA.push(
     {
   "title": "木綿のハンカチーフ",
   "artist": "太田裕美",
-  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -6184,7 +6184,7 @@ window.SONG_DATA.push(
     {
   "title": "渚のバルコニー",
   "artist": "松田聖子",
-  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -6192,7 +6192,7 @@ window.SONG_DATA.push(
     {
   "title": "若者のすべて",
   "artist": "フジファブリック",
-  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -6200,7 +6200,7 @@ window.SONG_DATA.push(
     {
   "title": "キミの記憶",
   "artist": "川村ゆみ",
-  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=12",
   "source": "suu_usuwa.js"
@@ -6208,7 +6208,7 @@ window.SONG_DATA.push(
     {
   "title": "透明人間",
   "artist": "東京事変",
-  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=13",
   "source": "suu_usuwa.js"
@@ -6216,7 +6216,7 @@ window.SONG_DATA.push(
     {
   "title": "閃光少女",
   "artist": "東京事変",
-  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=14",
   "source": "suu_usuwa.js"
@@ -6224,7 +6224,7 @@ window.SONG_DATA.push(
     {
   "title": "きらきら武士",
   "artist": "レキシ",
-  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=15",
   "source": "suu_usuwa.js"
@@ -6232,7 +6232,7 @@ window.SONG_DATA.push(
     {
   "title": "SUMMER SONG-YUI",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -6240,7 +6240,7 @@ window.SONG_DATA.push(
     {
   "title": "Rolling Star-YUI",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -6248,7 +6248,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る-ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -6256,7 +6256,7 @@ window.SONG_DATA.push(
     {
   "title": "アカシア-BUMP OF CHICKEN",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -6264,7 +6264,7 @@ window.SONG_DATA.push(
     {
   "title": "コネクト-ClariS",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -6272,7 +6272,7 @@ window.SONG_DATA.push(
     {
   "title": "ALIVE-ClariS",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -6280,7 +6280,7 @@ window.SONG_DATA.push(
     {
   "title": "フリージア-Uru",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -6288,7 +6288,7 @@ window.SONG_DATA.push(
     {
   "title": "My Dearest-supercell",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -6296,7 +6296,7 @@ window.SONG_DATA.push(
     {
   "title": "Beautiful World-宇多田ヒカル",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -6304,7 +6304,7 @@ window.SONG_DATA.push(
     {
   "title": "花に亡霊-ヨルシカ(2)",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -6312,7 +6312,7 @@ window.SONG_DATA.push(
     {
   "title": "いのちの名前-木村弓",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -6320,7 +6320,7 @@ window.SONG_DATA.push(
     {
   "title": "ガーネット-奥華子",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=12",
   "source": "suu_usuwa.js"
@@ -6328,7 +6328,7 @@ window.SONG_DATA.push(
     {
   "title": "残響散歌-Aimer",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=13",
   "source": "suu_usuwa.js"
@@ -6336,7 +6336,7 @@ window.SONG_DATA.push(
     {
   "title": "群青-YOASOBI",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=14",
   "source": "suu_usuwa.js"
@@ -6344,7 +6344,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ-ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -6352,7 +6352,7 @@ window.SONG_DATA.push(
     {
   "title": "接吻-Original Love",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -6360,7 +6360,7 @@ window.SONG_DATA.push(
     {
   "title": "SUN-星野源",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -6368,7 +6368,7 @@ window.SONG_DATA.push(
     {
   "title": "family song-星野源",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -6376,7 +6376,7 @@ window.SONG_DATA.push(
     {
   "title": "夜空ノムコウ-SMAP",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -6384,7 +6384,7 @@ window.SONG_DATA.push(
     {
   "title": "Prisoner Of Love-宇多田ヒカル",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -6392,7 +6392,7 @@ window.SONG_DATA.push(
     {
   "title": "One Last Kiss-宇多田ヒカル",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -6400,7 +6400,7 @@ window.SONG_DATA.push(
     {
   "title": "Lemon-米津玄師",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -6408,7 +6408,7 @@ window.SONG_DATA.push(
     {
   "title": "灰色と青-米津玄師＆菅田将暉",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -6416,7 +6416,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌-tuki.",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -6424,7 +6424,7 @@ window.SONG_DATA.push(
     {
   "title": "アルジャーノン-ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -6432,7 +6432,7 @@ window.SONG_DATA.push(
     {
   "title": "左右盲-ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=12",
   "source": "suu_usuwa.js"
@@ -6440,7 +6440,7 @@ window.SONG_DATA.push(
     {
   "title": "回る空うさぎ-Orangestar",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=13",
   "source": "suu_usuwa.js"
@@ -6448,7 +6448,7 @@ window.SONG_DATA.push(
     {
   "title": "ハロ／ハワユ-ナノウ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=14",
   "source": "suu_usuwa.js"
@@ -6456,7 +6456,7 @@ window.SONG_DATA.push(
     {
   "title": "小夜子-みきとP",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=15",
   "source": "suu_usuwa.js"
@@ -6464,7 +6464,7 @@ window.SONG_DATA.push(
     {
   "title": "もののけ姫-米良美一",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=16",
   "source": "suu_usuwa.js"
@@ -6472,7 +6472,7 @@ window.SONG_DATA.push(
     {
   "title": "リフレクション-ムーラン",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=17",
   "source": "suu_usuwa.js"
@@ -6480,7 +6480,7 @@ window.SONG_DATA.push(
     {
   "title": "ここにしか咲かない花-コブクロ (1chorus)",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=18",
   "source": "suu_usuwa.js"
@@ -6488,7 +6488,7 @@ window.SONG_DATA.push(
     {
   "title": "帰ろう-藤井風",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=19",
   "source": "suu_usuwa.js"
@@ -6496,7 +6496,7 @@ window.SONG_DATA.push(
     {
   "title": "たばこ-コレサワ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -6504,7 +6504,7 @@ window.SONG_DATA.push(
     {
   "title": "恋人失格-コレサワ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -6512,7 +6512,7 @@ window.SONG_DATA.push(
     {
   "title": "斜陽-ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -6520,7 +6520,7 @@ window.SONG_DATA.push(
     {
   "title": "さよーならまたいつか!-米津玄師",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -6528,7 +6528,7 @@ window.SONG_DATA.push(
     {
   "title": "きらり-藤井 風",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -6536,7 +6536,7 @@ window.SONG_DATA.push(
     {
   "title": "napori-Vaundy",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -6544,7 +6544,7 @@ window.SONG_DATA.push(
     {
   "title": "東京フラッシュ-Vaundy",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -6552,7 +6552,7 @@ window.SONG_DATA.push(
     {
   "title": "踊り子-Vaundy",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -6560,7 +6560,7 @@ window.SONG_DATA.push(
     {
   "title": "KissHug-aiko",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -6568,7 +6568,7 @@ window.SONG_DATA.push(
     {
   "title": "接吻-Original Love",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -6576,7 +6576,7 @@ window.SONG_DATA.push(
     {
   "title": "First Love-宇多田ヒカル",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -6584,7 +6584,7 @@ window.SONG_DATA.push(
     {
   "title": "やさしさに包まれたなら-松任谷由実",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=12",
   "source": "suu_usuwa.js"
@@ -6592,7 +6592,7 @@ window.SONG_DATA.push(
     {
   "title": "大阪LOVER-DREAMS COME TRUE",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=13",
   "source": "suu_usuwa.js"
@@ -6600,7 +6600,7 @@ window.SONG_DATA.push(
     {
   "title": "涙のキッス-サザンオールスターズ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=14",
   "source": "suu_usuwa.js"
@@ -6608,7 +6608,7 @@ window.SONG_DATA.push(
     {
   "title": "波乗りジョニー-桑田佳祐(2)",
   "artist": "前尘往事如昔故",
-  "collection": "240821【 稀羽すう】17]🎶 #78波乗りジョニー、怪獣の花唄、ミュージック",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=1",
   "source": "suu_usuwa.js"
@@ -6616,7 +6616,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄-Vaundy",
   "artist": "前尘往事如昔故",
-  "collection": "240821【 稀羽すう】17]🎶 #78波乗りジョニー、怪獣の花唄、ミュージック",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=2",
   "source": "suu_usuwa.js"
@@ -6624,7 +6624,7 @@ window.SONG_DATA.push(
     {
   "title": "ミュージック・アワー-ポルノグラフィティ",
   "artist": "前尘往事如昔故",
-  "collection": "240821【 稀羽すう】17]🎶 #78波乗りジョニー、怪獣の花唄、ミュージック",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=3",
   "source": "suu_usuwa.js"
@@ -6632,7 +6632,7 @@ window.SONG_DATA.push(
     {
   "title": "できっこないをやらなくちゃ-サンボマスター",
   "artist": "前尘往事如昔故",
-  "collection": "240821【 稀羽すう】17]🎶 #78波乗りジョニー、怪獣の花唄、ミュージック",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=4",
   "source": "suu_usuwa.js"
@@ -6640,7 +6640,7 @@ window.SONG_DATA.push(
     {
   "title": "世界はそれを愛と呼ぶんだぜ-サンボマスター",
   "artist": "前尘往事如昔故",
-  "collection": "240821【 稀羽すう】17]🎶 #78波乗りジョニー、怪獣の花唄、ミュージック",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=5",
   "source": "suu_usuwa.js"
@@ -6648,7 +6648,7 @@ window.SONG_DATA.push(
     {
   "title": "星座になれたら-結束バンド",
   "artist": "前尘往事如昔故",
-  "collection": "240821【 稀羽すう】17]🎶 #78波乗りジョニー、怪獣の花唄、ミュージック",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=6",
   "source": "suu_usuwa.js"
@@ -6656,7 +6656,7 @@ window.SONG_DATA.push(
     {
   "title": "ファジーネーブル-Conton Candy",
   "artist": "前尘往事如昔故",
-  "collection": "240821【 稀羽すう】17]🎶 #78波乗りジョニー、怪獣の花唄、ミュージック",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=7",
   "source": "suu_usuwa.js"
@@ -6664,7 +6664,7 @@ window.SONG_DATA.push(
     {
   "title": "カゲロウデイズ-じん",
   "artist": "前尘往事如昔故",
-  "collection": "240821【 稀羽すう】17]🎶 #78波乗りジョニー、怪獣の花唄、ミュージック",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=8",
   "source": "suu_usuwa.js"
@@ -6672,7 +6672,7 @@ window.SONG_DATA.push(
     {
   "title": "フライディ・チャイナタウン-泰葉",
   "artist": "前尘往事如昔故",
-  "collection": "240821【 稀羽すう】17]🎶 #78波乗りジョニー、怪獣の花唄、ミュージック",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=9",
   "source": "suu_usuwa.js"
@@ -6680,7 +6680,7 @@ window.SONG_DATA.push(
     {
   "title": "怪物-YOASOBI",
   "artist": "前尘往事如昔故",
-  "collection": "240821【 稀羽すう】17]🎶 #78波乗りジョニー、怪獣の花唄、ミュージック",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=10",
   "source": "suu_usuwa.js"
@@ -6688,7 +6688,7 @@ window.SONG_DATA.push(
     {
   "title": "夏色-ゆず",
   "artist": "前尘往事如昔故",
-  "collection": "240821【 稀羽すう】17]🎶 #78波乗りジョニー、怪獣の花唄、ミュージック",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=11",
   "source": "suu_usuwa.js"
@@ -6696,7 +6696,7 @@ window.SONG_DATA.push(
     {
   "title": "長く短い祭-椎名林檎",
   "artist": "前尘往事如昔故",
-  "collection": "240821【 稀羽すう】17]🎶 #78波乗りジョニー、怪獣の花唄、ミュージック",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=12",
   "source": "suu_usuwa.js"
@@ -6704,7 +6704,7 @@ window.SONG_DATA.push(
     {
   "title": "まつり-藤井風",
   "artist": "前尘往事如昔故",
-  "collection": "240821【 稀羽すう】17]🎶 #78波乗りジョニー、怪獣の花唄、ミュージック",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=13",
   "source": "suu_usuwa.js"
@@ -6712,7 +6712,7 @@ window.SONG_DATA.push(
     {
   "title": "花ハ踊レヤいろはにほ-チーム\"ハナヤマタ\"",
   "artist": "前尘往事如昔故",
-  "collection": "240821【 稀羽すう】17]🎶 #78波乗りジョニー、怪獣の花唄、ミュージック",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=14",
   "source": "suu_usuwa.js"
@@ -6720,7 +6720,7 @@ window.SONG_DATA.push(
     {
   "title": "愛を伝えたいだとか-あいみょん",
   "artist": "前尘往事如昔故",
-  "collection": "240821【 稀羽すう】17]🎶 #78波乗りジョニー、怪獣の花唄、ミュージック",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=15",
   "source": "suu_usuwa.js"
@@ -6728,7 +6728,7 @@ window.SONG_DATA.push(
     {
   "title": "Overdose-なとり",
   "artist": "前尘往事如昔故",
-  "collection": "240821【 稀羽すう】17]🎶 #78波乗りジョニー、怪獣の花唄、ミュージック",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=16",
   "source": "suu_usuwa.js"
@@ -6736,7 +6736,7 @@ window.SONG_DATA.push(
     {
   "title": "ムーンライト伝説-DALI",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】15竖屏】周五定期竖屏【240823】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=1",
   "source": "suu_usuwa.js"
@@ -6744,7 +6744,7 @@ window.SONG_DATA.push(
     {
   "title": "廻廻奇譚-Eve",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】15竖屏】周五定期竖屏【240823】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=2",
   "source": "suu_usuwa.js"
@@ -6752,7 +6752,7 @@ window.SONG_DATA.push(
     {
   "title": "メルト-Supercell",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】15竖屏】周五定期竖屏【240823】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=3",
   "source": "suu_usuwa.js"
@@ -6760,7 +6760,7 @@ window.SONG_DATA.push(
     {
   "title": "残響賛歌-Aimer",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】15竖屏】周五定期竖屏【240823】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=4",
   "source": "suu_usuwa.js"
@@ -6768,7 +6768,7 @@ window.SONG_DATA.push(
     {
   "title": "ミックスナッツ-Official髭男dism",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】15竖屏】周五定期竖屏【240823】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=5",
   "source": "suu_usuwa.js"
@@ -6776,7 +6776,7 @@ window.SONG_DATA.push(
     {
   "title": "サインはB-B小町",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】15竖屏】周五定期竖屏【240823】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=6",
   "source": "suu_usuwa.js"
@@ -6784,7 +6784,7 @@ window.SONG_DATA.push(
     {
   "title": "アイドル-YOASOBI",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】15竖屏】周五定期竖屏【240823】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=7",
   "source": "suu_usuwa.js"
@@ -6792,7 +6792,7 @@ window.SONG_DATA.push(
     {
   "title": "夏祭り-Whiteberry",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】15竖屏】周五定期竖屏【240823】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=8",
   "source": "suu_usuwa.js"
@@ -6800,7 +6800,7 @@ window.SONG_DATA.push(
     {
   "title": "わたしの一番かわいいところ-FRUITS ZIPPER",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】15竖屏】周五定期竖屏【240823】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=9",
   "source": "suu_usuwa.js"
@@ -6808,7 +6808,7 @@ window.SONG_DATA.push(
     {
   "title": "Happiness-嵐",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】15竖屏】周五定期竖屏【240823】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=10",
   "source": "suu_usuwa.js"
@@ -6816,7 +6816,7 @@ window.SONG_DATA.push(
     {
   "title": "Love So Sweet-嵐",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】15竖屏】周五定期竖屏【240823】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=11",
   "source": "suu_usuwa.js"
@@ -6824,7 +6824,7 @@ window.SONG_DATA.push(
     {
   "title": "イケナイ太陽-ORANGE RANGE",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】15竖屏】周五定期竖屏【240823】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=12",
   "source": "suu_usuwa.js"
@@ -6832,7 +6832,7 @@ window.SONG_DATA.push(
     {
   "title": "Lemon-米津玄師",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】15竖屏】周五定期竖屏【240823】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=13",
   "source": "suu_usuwa.js"
@@ -6840,7 +6840,7 @@ window.SONG_DATA.push(
     {
   "title": "変わらないもの-奥華子",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】15竖屏】周五定期竖屏【240823】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=14",
   "source": "suu_usuwa.js"
@@ -6848,7 +6848,7 @@ window.SONG_DATA.push(
     {
   "title": "サマータイムレコード-じん",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】15竖屏】周五定期竖屏【240823】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=15",
   "source": "suu_usuwa.js"
@@ -6856,7 +6856,7 @@ window.SONG_DATA.push(
     {
   "title": "別の人の彼女になったよ-wacci",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】10】🎶 #79 別の人の彼女になったよ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=1",
   "source": "suu_usuwa.js"
@@ -6864,7 +6864,7 @@ window.SONG_DATA.push(
     {
   "title": "君をのせて-井上あずみ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】10】🎶 #79 別の人の彼女になったよ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=2",
   "source": "suu_usuwa.js"
@@ -6872,7 +6872,7 @@ window.SONG_DATA.push(
     {
   "title": "空も飛べるはず-スピッツ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】10】🎶 #79 別の人の彼女になったよ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=3",
   "source": "suu_usuwa.js"
@@ -6880,7 +6880,7 @@ window.SONG_DATA.push(
     {
   "title": "アイデア-星野源",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】10】🎶 #79 別の人の彼女になったよ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=4",
   "source": "suu_usuwa.js"
@@ -6888,7 +6888,7 @@ window.SONG_DATA.push(
     {
   "title": "Hello Song-星野源",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】10】🎶 #79 別の人の彼女になったよ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=5",
   "source": "suu_usuwa.js"
@@ -6896,7 +6896,7 @@ window.SONG_DATA.push(
     {
   "title": "満ちてゆく-藤井風",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】10】🎶 #79 別の人の彼女になったよ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=6",
   "source": "suu_usuwa.js"
@@ -6904,7 +6904,7 @@ window.SONG_DATA.push(
     {
   "title": "きらり-藤井 風",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】10】🎶 #79 別の人の彼女になったよ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=7",
   "source": "suu_usuwa.js"
@@ -6912,7 +6912,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る-ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】10】🎶 #79 別の人の彼女になったよ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=8",
   "source": "suu_usuwa.js"
@@ -6920,7 +6920,7 @@ window.SONG_DATA.push(
     {
   "title": "言って。-ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】10】🎶 #79 別の人の彼女になったよ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=9",
   "source": "suu_usuwa.js"
@@ -6928,7 +6928,7 @@ window.SONG_DATA.push(
     {
   "title": "都落ち-ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】10】🎶 #79 別の人の彼女になったよ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=10",
   "source": "suu_usuwa.js"
@@ -6936,7 +6936,7 @@ window.SONG_DATA.push(
     {
   "title": "波乗りジョニー-桑田佳祐",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】12】夏日歌曲特辑！8 月即将结束...【2024年8月29日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=1",
   "source": "suu_usuwa.js"
@@ -6944,7 +6944,7 @@ window.SONG_DATA.push(
     {
   "title": "SUMMER SONG-YUI",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】12】夏日歌曲特辑！8 月即将结束...【2024年8月29日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=2",
   "source": "suu_usuwa.js"
@@ -6952,7 +6952,7 @@ window.SONG_DATA.push(
     {
   "title": "青と夏-Mrs. GREEN APPLE",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】12】夏日歌曲特辑！8 月即将结束...【2024年8月29日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=3",
   "source": "suu_usuwa.js"
@@ -6960,7 +6960,7 @@ window.SONG_DATA.push(
     {
   "title": "君と夏フェス-SHISHAMO",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】12】夏日歌曲特辑！8 月即将结束...【2024年8月29日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=4",
   "source": "suu_usuwa.js"
@@ -6968,7 +6968,7 @@ window.SONG_DATA.push(
     {
   "title": "夏祭り-Whiteberry",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】12】夏日歌曲特辑！8 月即将结束...【2024年8月29日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=5",
   "source": "suu_usuwa.js"
@@ -6976,7 +6976,7 @@ window.SONG_DATA.push(
     {
   "title": "ガーネット-奥華子",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】12】夏日歌曲特辑！8 月即将结束...【2024年8月29日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=6",
   "source": "suu_usuwa.js"
@@ -6984,7 +6984,7 @@ window.SONG_DATA.push(
     {
   "title": "いのちの名前-木村弓",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】12】夏日歌曲特辑！8 月即将结束...【2024年8月29日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=7",
   "source": "suu_usuwa.js"
@@ -6992,7 +6992,7 @@ window.SONG_DATA.push(
     {
   "title": "secret base～君がくれたもの～-ZONE",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】12】夏日歌曲特辑！8 月即将结束...【2024年8月29日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=8",
   "source": "suu_usuwa.js"
@@ -7000,7 +7000,7 @@ window.SONG_DATA.push(
     {
   "title": "花に亡霊-ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】12】夏日歌曲特辑！8 月即将结束...【2024年8月29日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=9",
   "source": "suu_usuwa.js"
@@ -7008,7 +7008,7 @@ window.SONG_DATA.push(
     {
   "title": "サマータイムレコード-じん （Piano version）",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】12】夏日歌曲特辑！8 月即将结束...【2024年8月29日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=10",
   "source": "suu_usuwa.js"
@@ -7016,7 +7016,7 @@ window.SONG_DATA.push(
     {
   "title": "若者のすべて-フジファブリック",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】12】夏日歌曲特辑！8 月即将结束...【2024年8月29日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=11",
   "source": "suu_usuwa.js"
@@ -7024,7 +7024,7 @@ window.SONG_DATA.push(
     {
   "title": "夏色-ゆず",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】12】夏日歌曲特辑！8 月即将结束...【2024年8月29日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=12",
   "source": "suu_usuwa.js"
@@ -7032,7 +7032,7 @@ window.SONG_DATA.push(
     {
   "title": "ダンスホール-Mrs. GREEN APPLE",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】16】🎶 #80 ダンスホール、 Lemon、夏色【240904】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=1",
   "source": "suu_usuwa.js"
@@ -7040,7 +7040,7 @@ window.SONG_DATA.push(
     {
   "title": "Lemon-米津玄師",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】16】🎶 #80 ダンスホール、 Lemon、夏色【240904】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=2",
   "source": "suu_usuwa.js"
@@ -7048,7 +7048,7 @@ window.SONG_DATA.push(
     {
   "title": "パラボラ-Official髭男dism",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】16】🎶 #80 ダンスホール、 Lemon、夏色【240904】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=3",
   "source": "suu_usuwa.js"
@@ -7056,7 +7056,7 @@ window.SONG_DATA.push(
     {
   "title": "ブルーバード-いきものがかり",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】16】🎶 #80 ダンスホール、 Lemon、夏色【240904】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=4",
   "source": "suu_usuwa.js"
@@ -7064,7 +7064,7 @@ window.SONG_DATA.push(
     {
   "title": "夏色-ゆず",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】16】🎶 #80 ダンスホール、 Lemon、夏色【240904】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=5",
   "source": "suu_usuwa.js"
@@ -7072,7 +7072,7 @@ window.SONG_DATA.push(
     {
   "title": "星座になれたら-結束バンド",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】16】🎶 #80 ダンスホール、 Lemon、夏色【240904】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=6",
   "source": "suu_usuwa.js"
@@ -7080,7 +7080,7 @@ window.SONG_DATA.push(
     {
   "title": "ルーマー-ポリスピカデリー",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】16】🎶 #80 ダンスホール、 Lemon、夏色【240904】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=7",
   "source": "suu_usuwa.js"
@@ -7088,7 +7088,7 @@ window.SONG_DATA.push(
     {
   "title": "melt bitter-さとうもか",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】16】🎶 #80 ダンスホール、 Lemon、夏色【240904】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=8",
   "source": "suu_usuwa.js"
@@ -7096,7 +7096,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーチラス-ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】16】🎶 #80 ダンスホール、 Lemon、夏色【240904】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=9",
   "source": "suu_usuwa.js"
@@ -7104,7 +7104,7 @@ window.SONG_DATA.push(
     {
   "title": "KissHug-aiko",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】16】🎶 #80 ダンスホール、 Lemon、夏色【240904】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=10",
   "source": "suu_usuwa.js"
@@ -7112,7 +7112,7 @@ window.SONG_DATA.push(
     {
   "title": "ヴィーナスとジーザス-やくしまるえつこ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】16】🎶 #80 ダンスホール、 Lemon、夏色【240904】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=11",
   "source": "suu_usuwa.js"
@@ -7120,7 +7120,7 @@ window.SONG_DATA.push(
     {
   "title": "星間飛行-ランカ・リー(中島愛)",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】16】🎶 #80 ダンスホール、 Lemon、夏色【240904】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=12",
   "source": "suu_usuwa.js"
@@ -7128,7 +7128,7 @@ window.SONG_DATA.push(
     {
   "title": "惑星ループ-ナユタン星人",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】16】🎶 #80 ダンスホール、 Lemon、夏色【240904】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=13",
   "source": "suu_usuwa.js"
@@ -7136,7 +7136,7 @@ window.SONG_DATA.push(
     {
   "title": "モザイクロール-DECO27",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】16】🎶 #80 ダンスホール、 Lemon、夏色【240904】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=14",
   "source": "suu_usuwa.js"
@@ -7144,7 +7144,7 @@ window.SONG_DATA.push(
     {
   "title": "え？あぁ、そう。-蝶々P",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】16】🎶 #80 ダンスホール、 Lemon、夏色【240904】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=15",
   "source": "suu_usuwa.js"
@@ -7152,7 +7152,7 @@ window.SONG_DATA.push(
     {
   "title": "ハロ／ハワユ-ナノウ （Piano version）",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】16】🎶 #80 ダンスホール、 Lemon、夏色【240904】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=16",
   "source": "suu_usuwa.js"
@@ -7160,7 +7160,7 @@ window.SONG_DATA.push(
     {
   "title": "アニマル-DECO27",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】9】标题为什么是猫雷🐱⚡❕",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=1",
   "source": "suu_usuwa.js"
@@ -7168,7 +7168,7 @@ window.SONG_DATA.push(
     {
   "title": "Loveit-biz×ZERA feat LOLUET",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】9】标题为什么是猫雷🐱⚡❕",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=2",
   "source": "suu_usuwa.js"
@@ -7176,7 +7176,7 @@ window.SONG_DATA.push(
     {
   "title": "エンヴィキャットウォーク-りぶ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】9】标题为什么是猫雷🐱⚡❕",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=3",
   "source": "suu_usuwa.js"
@@ -7184,7 +7184,7 @@ window.SONG_DATA.push(
     {
   "title": "キャットラビング-香椎モイミ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】9】标题为什么是猫雷🐱⚡❕",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=4",
   "source": "suu_usuwa.js"
@@ -7192,7 +7192,7 @@ window.SONG_DATA.push(
     {
   "title": "CAT'S EYE-杏里",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】9】标题为什么是猫雷🐱⚡❕",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=5",
   "source": "suu_usuwa.js"
@@ -7200,7 +7200,7 @@ window.SONG_DATA.push(
     {
   "title": "猫-DISH//",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】9】标题为什么是猫雷🐱⚡❕",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=6",
   "source": "suu_usuwa.js"
@@ -7208,7 +7208,7 @@ window.SONG_DATA.push(
     {
   "title": "風になる-つじあやの",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】9】标题为什么是猫雷🐱⚡❕",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=7",
   "source": "suu_usuwa.js"
@@ -7216,7 +7216,7 @@ window.SONG_DATA.push(
     {
   "title": "ドラえもん-星野源",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】9】标题为什么是猫雷🐱⚡❕",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=8",
   "source": "suu_usuwa.js"
@@ -7224,7 +7224,7 @@ window.SONG_DATA.push(
     {
   "title": "犬かキャットかで死ぬまで喧嘩しよう!-Official髭男dism",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】9】标题为什么是猫雷🐱⚡❕",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=9",
   "source": "suu_usuwa.js"
@@ -7232,7 +7232,7 @@ window.SONG_DATA.push(
     {
   "title": "地獄でなぜ悪い-星野源",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】🎶 #81 地獄でなぜ悪い、プラチナ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=1",
   "source": "suu_usuwa.js"
@@ -7240,7 +7240,7 @@ window.SONG_DATA.push(
     {
   "title": "プラチナ-坂本真綾",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】🎶 #81 地獄でなぜ悪い、プラチナ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=2",
   "source": "suu_usuwa.js"
@@ -7248,7 +7248,7 @@ window.SONG_DATA.push(
     {
   "title": "NIGHT DANCER-imase",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】🎶 #81 地獄でなぜ悪い、プラチナ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=3",
   "source": "suu_usuwa.js"
@@ -7256,7 +7256,7 @@ window.SONG_DATA.push(
     {
   "title": "Overdose-なとり",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】🎶 #81 地獄でなぜ悪い、プラチナ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=4",
   "source": "suu_usuwa.js"
@@ -7264,7 +7264,7 @@ window.SONG_DATA.push(
     {
   "title": "秒針を噛む-ずっと真夜中でいいのに。",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】🎶 #81 地獄でなぜ悪い、プラチナ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=5",
   "source": "suu_usuwa.js"
@@ -7272,7 +7272,7 @@ window.SONG_DATA.push(
     {
   "title": "魂のルフラン-高橋洋子",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】🎶 #81 地獄でなぜ悪い、プラチナ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=6",
   "source": "suu_usuwa.js"
@@ -7280,7 +7280,7 @@ window.SONG_DATA.push(
     {
   "title": "金木犀-くじら",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】🎶 #81 地獄でなぜ悪い、プラチナ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=7",
   "source": "suu_usuwa.js"
@@ -7288,7 +7288,7 @@ window.SONG_DATA.push(
     {
   "title": "チャイナアドバイス-相対性理論",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】🎶 #81 地獄でなぜ悪い、プラチナ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=8",
   "source": "suu_usuwa.js"
@@ -7296,7 +7296,7 @@ window.SONG_DATA.push(
     {
   "title": "三日月-絢香",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】🎶 #81 地獄でなぜ悪い、プラチナ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=9",
   "source": "suu_usuwa.js"
@@ -7304,7 +7304,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍-n-buna",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】🎶 #81 地獄でなぜ悪い、プラチナ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=10",
   "source": "suu_usuwa.js"
@@ -7312,7 +7312,7 @@ window.SONG_DATA.push(
     {
   "title": "赤黄色の金木犀-フジファブリック",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】🎶 #81 地獄でなぜ悪い、プラチナ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=11",
   "source": "suu_usuwa.js"
@@ -7320,7 +7320,7 @@ window.SONG_DATA.push(
     {
   "title": "若者のすべて-フジファブリック",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】🎶 #81 地獄でなぜ悪い、プラチナ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=12",
   "source": "suu_usuwa.js"
@@ -7328,7 +7328,7 @@ window.SONG_DATA.push(
     {
   "title": "エイリアンズ-キリンジ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】🎶 #81 地獄でなぜ悪い、プラチナ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=13",
   "source": "suu_usuwa.js"
@@ -7336,7 +7336,7 @@ window.SONG_DATA.push(
     {
   "title": "rain stops, good-bye-におP",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】🎶 #81 地獄でなぜ悪い、プラチナ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=14",
   "source": "suu_usuwa.js"
@@ -7344,7 +7344,7 @@ window.SONG_DATA.push(
     {
   "title": "世界に一つだけの花-SMAP",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】🎶 #81 地獄でなぜ悪い、プラチナ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=15",
   "source": "suu_usuwa.js"
@@ -7352,7 +7352,7 @@ window.SONG_DATA.push(
     {
   "title": "きらきら武士-レキシ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】🎶 #81 地獄でなぜ悪い、プラチナ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=16",
   "source": "suu_usuwa.js"
@@ -7360,7 +7360,7 @@ window.SONG_DATA.push(
     {
   "title": "青と夏-Mrs. GREEN APPLE",
   "artist": "前尘往事如昔故",
-  "collection": "【魔光リサ / 稀羽すう】夏祭り、君と夏フェス、ANIMA【240820】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=1",
   "source": "suu_usuwa.js"
@@ -7368,7 +7368,7 @@ window.SONG_DATA.push(
     {
   "title": "夏祭り-Whiteberry",
   "artist": "前尘往事如昔故",
-  "collection": "【魔光リサ / 稀羽すう】夏祭り、君と夏フェス、ANIMA【240820】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=2",
   "source": "suu_usuwa.js"
@@ -7376,7 +7376,7 @@ window.SONG_DATA.push(
     {
   "title": "君と夏フェス-SHISHAMO",
   "artist": "前尘往事如昔故",
-  "collection": "【魔光リサ / 稀羽すう】夏祭り、君と夏フェス、ANIMA【240820】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=3",
   "source": "suu_usuwa.js"
@@ -7384,7 +7384,7 @@ window.SONG_DATA.push(
     {
   "title": "ANIMA-ReoNa",
   "artist": "前尘往事如昔故",
-  "collection": "【魔光リサ / 稀羽すう】夏祭り、君と夏フェス、ANIMA【240820】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=4",
   "source": "suu_usuwa.js"
@@ -7392,7 +7392,7 @@ window.SONG_DATA.push(
     {
   "title": "SUMMER SONG-YUI",
   "artist": "前尘往事如昔故",
-  "collection": "【魔光リサ / 稀羽すう】夏祭り、君と夏フェス、ANIMA【240820】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=5",
   "source": "suu_usuwa.js"
@@ -7400,7 +7400,7 @@ window.SONG_DATA.push(
     {
   "title": "島人ぬ宝-BEGIN（by魔光リサ）",
   "artist": "前尘往事如昔故",
-  "collection": "【魔光リサ / 稀羽すう】夏祭り、君と夏フェス、ANIMA【240820】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=6",
   "source": "suu_usuwa.js"
@@ -7408,7 +7408,7 @@ window.SONG_DATA.push(
     {
   "title": "祝福-YOASOBI（by稀羽すう）",
   "artist": "前尘往事如昔故",
-  "collection": "【魔光リサ / 稀羽すう】夏祭り、君と夏フェス、ANIMA【240820】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=7",
   "source": "suu_usuwa.js"
@@ -7416,7 +7416,7 @@ window.SONG_DATA.push(
     {
   "title": "115万キロのフィルム-Official髭男dism",
   "artist": "前尘往事如昔故",
-  "collection": "【魔光リサ / 稀羽すう】夏祭り、君と夏フェス、ANIMA【240820】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=8",
   "source": "suu_usuwa.js"
@@ -7424,7 +7424,7 @@ window.SONG_DATA.push(
     {
   "title": "KissHug-aiko(2)",
   "artist": "前尘往事如昔故",
-  "collection": "【魔光リサ / 稀羽すう】夏祭り、君と夏フェス、ANIMA【240820】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=9",
   "source": "suu_usuwa.js"
@@ -7432,7 +7432,7 @@ window.SONG_DATA.push(
     {
   "title": "君の知らない物語-supercell",
   "artist": "前尘往事如昔故",
-  "collection": "【魔光リサ / 稀羽すう】夏祭り、君と夏フェス、ANIMA【240820】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=10",
   "source": "suu_usuwa.js"
@@ -7440,7 +7440,7 @@ window.SONG_DATA.push(
     {
   "title": "少女レイ-みきとP",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう 】周五定期竖屏✌  少女レイ、創聖のアクエリオン【2024年9月13日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=1",
   "source": "suu_usuwa.js"
@@ -7448,7 +7448,7 @@ window.SONG_DATA.push(
     {
   "title": "創聖のアクエリオン-AKINO",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう 】周五定期竖屏✌  少女レイ、創聖のアクエリオン【2024年9月13日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=2",
   "source": "suu_usuwa.js"
@@ -7456,7 +7456,7 @@ window.SONG_DATA.push(
     {
   "title": "フリージア-Uru",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう 】周五定期竖屏✌  少女レイ、創聖のアクエリオン【2024年9月13日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=3",
   "source": "suu_usuwa.js"
@@ -7464,7 +7464,7 @@ window.SONG_DATA.push(
     {
   "title": "真夜中のドア〜stay with me-松原みき",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう 】周五定期竖屏✌  少女レイ、創聖のアクエリオン【2024年9月13日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=4",
   "source": "suu_usuwa.js"
@@ -7472,7 +7472,7 @@ window.SONG_DATA.push(
     {
   "title": "年下の男の子-キャンディーズ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう 】周五定期竖屏✌  少女レイ、創聖のアクエリオン【2024年9月13日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=5",
   "source": "suu_usuwa.js"
@@ -7480,7 +7480,7 @@ window.SONG_DATA.push(
     {
   "title": "斜陽-ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう 】周五定期竖屏✌  少女レイ、創聖のアクエリオン【2024年9月13日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=6",
   "source": "suu_usuwa.js"
@@ -7488,7 +7488,7 @@ window.SONG_DATA.push(
     {
   "title": "左右盲-ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう 】周五定期竖屏✌  少女レイ、創聖のアクエリオン【2024年9月13日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=7",
   "source": "suu_usuwa.js"
@@ -7496,7 +7496,7 @@ window.SONG_DATA.push(
     {
   "title": "Pretender-Official髭男dism",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう 】周五定期竖屏✌  少女レイ、創聖のアクエリオン【2024年9月13日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=8",
   "source": "suu_usuwa.js"
@@ -7504,7 +7504,7 @@ window.SONG_DATA.push(
     {
   "title": "カタオモイ-Aimer",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう 】周五定期竖屏✌  少女レイ、創聖のアクエリオン【2024年9月13日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=9",
   "source": "suu_usuwa.js"
@@ -7512,7 +7512,7 @@ window.SONG_DATA.push(
     {
   "title": "愛を伝えたいだとか-あいみょん",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう 】周五定期竖屏✌  少女レイ、創聖のアクエリオン【2024年9月13日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=10",
   "source": "suu_usuwa.js"
@@ -7520,7 +7520,7 @@ window.SONG_DATA.push(
     {
   "title": "Catch You Catch Me-グミ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう 】周五定期竖屏✌  少女レイ、創聖のアクエリオン【2024年9月13日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=11",
   "source": "suu_usuwa.js"
@@ -7528,7 +7528,7 @@ window.SONG_DATA.push(
     {
   "title": "奏-スキマスイッチ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう 】周五定期竖屏✌  少女レイ、創聖のアクエリオン【2024年9月13日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=12",
   "source": "suu_usuwa.js"
@@ -7536,7 +7536,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーダウト-Official髭男dism",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう 】周五定期竖屏✌  少女レイ、創聖のアクエリオン【2024年9月13日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=13",
   "source": "suu_usuwa.js"
@@ -7544,7 +7544,7 @@ window.SONG_DATA.push(
     {
   "title": "KICK BACK-米津玄師",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう 】周五定期竖屏✌  少女レイ、創聖のアクエリオン【2024年9月13日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=14",
   "source": "suu_usuwa.js"
@@ -7552,7 +7552,7 @@ window.SONG_DATA.push(
     {
   "title": "ヴィーナスとジーザス-やくしまるえつこ",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう 】周五定期竖屏✌  少女レイ、創聖のアクエリオン【2024年9月13日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=15",
   "source": "suu_usuwa.js"
@@ -7560,7 +7560,7 @@ window.SONG_DATA.push(
     {
   "title": "LADY-Official髭男dism",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう 】周五定期竖屏✌  少女レイ、創聖のアクエリオン【2024年9月13日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=16",
   "source": "suu_usuwa.js"
@@ -7568,7 +7568,7 @@ window.SONG_DATA.push(
     {
   "title": "アルジャーノン-ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】19】助眠歌回 アルジャーノン、満ちてゆく、SWEET MEMORIES【240922】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -7576,7 +7576,7 @@ window.SONG_DATA.push(
     {
   "title": "満ちてゆく-藤井風",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】19】助眠歌回 アルジャーノン、満ちてゆく、SWEET MEMORIES【240922】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -7584,7 +7584,7 @@ window.SONG_DATA.push(
     {
   "title": "SWEET MEMORIES-松田聖子",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】19】助眠歌回 アルジャーノン、満ちてゆく、SWEET MEMORIES【240922】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -7592,7 +7592,7 @@ window.SONG_DATA.push(
     {
   "title": "melt bitter-さとうもか",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】19】助眠歌回 アルジャーノン、満ちてゆく、SWEET MEMORIES【240922】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -7600,7 +7600,7 @@ window.SONG_DATA.push(
     {
   "title": "月のワルツ-諫山実生",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】19】助眠歌回 アルジャーノン、満ちてゆく、SWEET MEMORIES【240922】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -7608,7 +7608,7 @@ window.SONG_DATA.push(
     {
   "title": "ひこうき雲-松任谷由実",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】19】助眠歌回 アルジャーノン、満ちてゆく、SWEET MEMORIES【240922】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -7616,7 +7616,7 @@ window.SONG_DATA.push(
     {
   "title": "左右盲-ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】19】助眠歌回 アルジャーノン、満ちてゆく、SWEET MEMORIES【240922】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -7624,7 +7624,7 @@ window.SONG_DATA.push(
     {
   "title": "ガーデン-藤井風",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】19】助眠歌回 アルジャーノン、満ちてゆく、SWEET MEMORIES【240922】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -7632,7 +7632,7 @@ window.SONG_DATA.push(
     {
   "title": "木綿のハンカチーフ-太田裕美",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】19】助眠歌回 アルジャーノン、満ちてゆく、SWEET MEMORIES【240922】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -7640,7 +7640,7 @@ window.SONG_DATA.push(
     {
   "title": "変わらないもの-奥華子",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】19】助眠歌回 アルジャーノン、満ちてゆく、SWEET MEMORIES【240922】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -7648,7 +7648,7 @@ window.SONG_DATA.push(
     {
   "title": "夜撫でるメノウ-Ayase",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】19】助眠歌回 アルジャーノン、満ちてゆく、SWEET MEMORIES【240922】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -7656,7 +7656,7 @@ window.SONG_DATA.push(
     {
   "title": "family song-星野源",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】19】助眠歌回 アルジャーノン、満ちてゆく、SWEET MEMORIES【240922】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=12",
   "source": "suu_usuwa.js"
@@ -7664,7 +7664,7 @@ window.SONG_DATA.push(
     {
   "title": "たばこ-コレサワ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】19】助眠歌回 アルジャーノン、満ちてゆく、SWEET MEMORIES【240922】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=13",
   "source": "suu_usuwa.js"
@@ -7672,7 +7672,7 @@ window.SONG_DATA.push(
     {
   "title": "そうだよ。-ランカ・リー(中島愛)",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】19】助眠歌回 アルジャーノン、満ちてゆく、SWEET MEMORIES【240922】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=14",
   "source": "suu_usuwa.js"
@@ -7680,7 +7680,7 @@ window.SONG_DATA.push(
     {
   "title": "エイリアンズ-キリンジ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】19】助眠歌回 アルジャーノン、満ちてゆく、SWEET MEMORIES【240922】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=15",
   "source": "suu_usuwa.js"
@@ -7688,7 +7688,7 @@ window.SONG_DATA.push(
     {
   "title": "糸-中島みゆき",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】19】助眠歌回 アルジャーノン、満ちてゆく、SWEET MEMORIES【240922】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=16",
   "source": "suu_usuwa.js"
@@ -7696,7 +7696,7 @@ window.SONG_DATA.push(
     {
   "title": "蝶々結び-Aimer",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】19】助眠歌回 アルジャーノン、満ちてゆく、SWEET MEMORIES【240922】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=17",
   "source": "suu_usuwa.js"
@@ -7704,7 +7704,7 @@ window.SONG_DATA.push(
     {
   "title": "灰色と青-米津玄師＆菅田将暉",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】19】助眠歌回 アルジャーノン、満ちてゆく、SWEET MEMORIES【240922】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=18",
   "source": "suu_usuwa.js"
@@ -7712,7 +7712,7 @@ window.SONG_DATA.push(
     {
   "title": "恋-星野源",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】19】助眠歌回 アルジャーノン、満ちてゆく、SWEET MEMORIES【240922】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=19",
   "source": "suu_usuwa.js"
@@ -7720,7 +7720,7 @@ window.SONG_DATA.push(
     {
   "title": "リスキーゲーム-黒うさP",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】15】🎶 #82リスキーゲーム、 シザーハンズ、香水【240925】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -7728,7 +7728,7 @@ window.SONG_DATA.push(
     {
   "title": "シザーハンズ-Nem",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】15】🎶 #82リスキーゲーム、 シザーハンズ、香水【240925】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -7736,7 +7736,7 @@ window.SONG_DATA.push(
     {
   "title": "ワンルーム・オール・ザット・ジャズ-DATEKEN",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】15】🎶 #82リスキーゲーム、 シザーハンズ、香水【240925】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -7744,7 +7744,7 @@ window.SONG_DATA.push(
     {
   "title": "香水-瑛人",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】15】🎶 #82リスキーゲーム、 シザーハンズ、香水【240925】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -7752,7 +7752,7 @@ window.SONG_DATA.push(
     {
   "title": "接吻-Original Love",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】15】🎶 #82リスキーゲーム、 シザーハンズ、香水【240925】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -7760,7 +7760,7 @@ window.SONG_DATA.push(
     {
   "title": "きらり-藤井 風",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】15】🎶 #82リスキーゲーム、 シザーハンズ、香水【240925】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -7768,7 +7768,7 @@ window.SONG_DATA.push(
     {
   "title": "fake face dance music-音田雅則",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】15】🎶 #82リスキーゲーム、 シザーハンズ、香水【240925】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -7776,7 +7776,7 @@ window.SONG_DATA.push(
     {
   "title": "春を告げる-yama",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】15】🎶 #82リスキーゲーム、 シザーハンズ、香水【240925】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -7784,7 +7784,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒッチコック-ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】15】🎶 #82リスキーゲーム、 シザーハンズ、香水【240925】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -7792,7 +7792,7 @@ window.SONG_DATA.push(
     {
   "title": "ノルニル-やくしまるえつこ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】15】🎶 #82リスキーゲーム、 シザーハンズ、香水【240925】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -7800,7 +7800,7 @@ window.SONG_DATA.push(
     {
   "title": "星座になれたら-結束バンド",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】15】🎶 #82リスキーゲーム、 シザーハンズ、香水【240925】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -7808,7 +7808,7 @@ window.SONG_DATA.push(
     {
   "title": "SWEET MEMORIES-松田聖子",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】15】🎶 #82リスキーゲーム、 シザーハンズ、香水【240925】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=12",
   "source": "suu_usuwa.js"
@@ -7816,7 +7816,7 @@ window.SONG_DATA.push(
     {
   "title": "キリトリセン-40mP",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】15】🎶 #82リスキーゲーム、 シザーハンズ、香水【240925】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=13",
   "source": "suu_usuwa.js"
@@ -7824,7 +7824,7 @@ window.SONG_DATA.push(
     {
   "title": "妄想感傷代償連盟-DECO27",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】15】🎶 #82リスキーゲーム、 シザーハンズ、香水【240925】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=14",
   "source": "suu_usuwa.js"
@@ -7832,7 +7832,7 @@ window.SONG_DATA.push(
     {
   "title": "回る空うさぎ-Orangestar",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】15】🎶 #82リスキーゲーム、 シザーハンズ、香水【240925】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=15",
   "source": "suu_usuwa.js"
@@ -7840,7 +7840,7 @@ window.SONG_DATA.push(
     {
   "title": "Mornin' Belll-稀羽すう",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】4魅力歌枠接力 】即使是实力系的角色，也可以魅力四射吗【2024年9月28日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=1",
   "source": "suu_usuwa.js"
@@ -7848,7 +7848,7 @@ window.SONG_DATA.push(
     {
   "title": "デスぺレート-TeddyLoid&Giga",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】4魅力歌枠接力 】即使是实力系的角色，也可以魅力四射吗【2024年9月28日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=2",
   "source": "suu_usuwa.js"
@@ -7856,7 +7856,7 @@ window.SONG_DATA.push(
     {
   "title": "女の子は誰でも-東京事変",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】4魅力歌枠接力 】即使是实力系的角色，也可以魅力四射吗【2024年9月28日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=3",
   "source": "suu_usuwa.js"
@@ -7864,7 +7864,7 @@ window.SONG_DATA.push(
     {
   "title": "シニカルナイトプラン-Ayase",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】4魅力歌枠接力 】即使是实力系的角色，也可以魅力四射吗【2024年9月28日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=4",
   "source": "suu_usuwa.js"
@@ -7872,7 +7872,7 @@ window.SONG_DATA.push(
     {
   "title": "悪魔の子 -ヒグチアイ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】悪魔の子 丸の内サディスティック メフィスト 名前のない怪物 🎶 #83",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -7880,7 +7880,7 @@ window.SONG_DATA.push(
     {
   "title": "丸の内サディスティック -椎名林檎",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】悪魔の子 丸の内サディスティック メフィスト 名前のない怪物 🎶 #83",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -7888,7 +7888,7 @@ window.SONG_DATA.push(
     {
   "title": "ANIMA -ReoNa",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】悪魔の子 丸の内サディスティック メフィスト 名前のない怪物 🎶 #83",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -7896,7 +7896,7 @@ window.SONG_DATA.push(
     {
   "title": "メフィスト -女王蜂",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】悪魔の子 丸の内サディスティック メフィスト 名前のない怪物 🎶 #83",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -7904,7 +7904,7 @@ window.SONG_DATA.push(
     {
   "title": "名前のない怪物 -EGOIST",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】悪魔の子 丸の内サディスティック メフィスト 名前のない怪物 🎶 #83",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -7912,7 +7912,7 @@ window.SONG_DATA.push(
     {
   "title": "NIGHT DANCER -imase",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】悪魔の子 丸の内サディスティック メフィスト 名前のない怪物 🎶 #83",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -7920,7 +7920,7 @@ window.SONG_DATA.push(
     {
   "title": "長く短い祭 -椎名林檎",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】悪魔の子 丸の内サディスティック メフィスト 名前のない怪物 🎶 #83",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -7928,7 +7928,7 @@ window.SONG_DATA.push(
     {
   "title": "公然の秘密 -椎名林檎",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】悪魔の子 丸の内サディスティック メフィスト 名前のない怪物 🎶 #83",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -7936,7 +7936,7 @@ window.SONG_DATA.push(
     {
   "title": "READY!! -765PRO ALLSTARS",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】悪魔の子 丸の内サディスティック メフィスト 名前のない怪物 🎶 #83",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -7944,7 +7944,7 @@ window.SONG_DATA.push(
     {
   "title": "祝福 -YOASOBI",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】悪魔の子 丸の内サディスティック メフィスト 名前のない怪物 🎶 #83",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -7952,7 +7952,7 @@ window.SONG_DATA.push(
     {
   "title": "ねぇ -Perfume",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】悪魔の子 丸の内サディスティック メフィスト 名前のない怪物 🎶 #83",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -7960,7 +7960,7 @@ window.SONG_DATA.push(
     {
   "title": "PONPONPON -きゃりーぱみゅぱみゅ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】悪魔の子 丸の内サディスティック メフィスト 名前のない怪物 🎶 #83",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=12",
   "source": "suu_usuwa.js"
@@ -7968,7 +7968,7 @@ window.SONG_DATA.push(
     {
   "title": "真生活 -案山子",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】悪魔の子 丸の内サディスティック メフィスト 名前のない怪物 🎶 #83",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=13",
   "source": "suu_usuwa.js"
@@ -7976,7 +7976,7 @@ window.SONG_DATA.push(
     {
   "title": "燈 -崎山蒼志",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】悪魔の子 丸の内サディスティック メフィスト 名前のない怪物 🎶 #83",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=14",
   "source": "suu_usuwa.js"
@@ -7984,7 +7984,7 @@ window.SONG_DATA.push(
     {
   "title": "さよーならまたいつか！ -米津玄師",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】悪魔の子 丸の内サディスティック メフィスト 名前のない怪物 🎶 #83",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=15",
   "source": "suu_usuwa.js"
@@ -7992,7 +7992,7 @@ window.SONG_DATA.push(
     {
   "title": "Ready To Party -稀羽すう",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】悪魔の子 丸の内サディスティック メフィスト 名前のない怪物 🎶 #83",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=16",
   "source": "suu_usuwa.js"
@@ -8000,7 +8000,7 @@ window.SONG_DATA.push(
     {
   "title": "アイドル",
   "artist": "YOASOBI",
-  "collection": "【稀羽すう】16竖屏周五定期】だから僕は音楽を辞めた ハナミズキ 夜に駆ける【241004】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -8008,7 +8008,7 @@ window.SONG_DATA.push(
     {
   "title": "God knows...",
   "artist": "涼宮ハルヒ(平野綾)",
-  "collection": "【稀羽すう】16竖屏周五定期】だから僕は音楽を辞めた ハナミズキ 夜に駆ける【241004】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -8016,7 +8016,7 @@ window.SONG_DATA.push(
     {
   "title": "だから僕は音楽を辞めた",
   "artist": "ヨルシカ",
-  "collection": "【稀羽すう】16竖屏周五定期】だから僕は音楽を辞めた ハナミズキ 夜に駆ける【241004】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -8024,7 +8024,7 @@ window.SONG_DATA.push(
     {
   "title": "からくりピエロ",
   "artist": "40mP",
-  "collection": "【稀羽すう】16竖屏周五定期】だから僕は音楽を辞めた ハナミズキ 夜に駆ける【241004】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -8032,7 +8032,7 @@ window.SONG_DATA.push(
     {
   "title": "ハナミズキ",
   "artist": "一青窈",
-  "collection": "【稀羽すう】16竖屏周五定期】だから僕は音楽を辞めた ハナミズキ 夜に駆ける【241004】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -8040,7 +8040,7 @@ window.SONG_DATA.push(
     {
   "title": "夜に駆ける",
   "artist": "YOASOBI",
-  "collection": "【稀羽すう】16竖屏周五定期】だから僕は音楽を辞めた ハナミズキ 夜に駆ける【241004】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -8048,7 +8048,7 @@ window.SONG_DATA.push(
     {
   "title": "星座になれたら",
   "artist": "結束バンド",
-  "collection": "【稀羽すう】16竖屏周五定期】だから僕は音楽を辞めた ハナミズキ 夜に駆ける【241004】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -8056,7 +8056,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れてやらない",
   "artist": "結束バンド",
-  "collection": "【稀羽すう】16竖屏周五定期】だから僕は音楽を辞めた ハナミズキ 夜に駆ける【241004】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -8064,7 +8064,7 @@ window.SONG_DATA.push(
     {
   "title": "Mrs. Pumpkinの滑稽な夢",
   "artist": "ハチ",
-  "collection": "【稀羽すう】16竖屏周五定期】だから僕は音楽を辞めた ハナミズキ 夜に駆ける【241004】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -8072,7 +8072,7 @@ window.SONG_DATA.push(
     {
   "title": "いーあるふぁんくらぶ",
   "artist": "みきとP",
-  "collection": "【稀羽すう】16竖屏周五定期】だから僕は音楽を辞めた ハナミズキ 夜に駆ける【241004】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -8080,7 +8080,7 @@ window.SONG_DATA.push(
     {
   "title": "チューリングラブ",
   "artist": "ナナヲアカリ",
-  "collection": "【稀羽すう】16竖屏周五定期】だから僕は音楽を辞めた ハナミズキ 夜に駆ける【241004】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -8088,7 +8088,7 @@ window.SONG_DATA.push(
     {
   "title": "シル・ヴ・プレジデント",
   "artist": "P丸様。",
-  "collection": "【稀羽すう】16竖屏周五定期】だから僕は音楽を辞めた ハナミズキ 夜に駆ける【241004】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -8096,7 +8096,7 @@ window.SONG_DATA.push(
     {
   "title": "夢をかなえてドラえもん",
   "artist": "mao",
-  "collection": "【稀羽すう】16竖屏周五定期】だから僕は音楽を辞めた ハナミズキ 夜に駆ける【241004】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -8104,7 +8104,7 @@ window.SONG_DATA.push(
     {
   "title": "ドラえもん",
   "artist": "星野源",
-  "collection": "【稀羽すう】16竖屏周五定期】だから僕は音楽を辞めた ハナミズキ 夜に駆ける【241004】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -8112,7 +8112,7 @@ window.SONG_DATA.push(
     {
   "title": "SUN",
   "artist": "星野源",
-  "collection": "【稀羽すう】16竖屏周五定期】だから僕は音楽を辞めた ハナミズキ 夜に駆ける【241004】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=15",
   "source": "suu_usuwa.js"
@@ -8120,7 +8120,7 @@ window.SONG_DATA.push(
     {
   "title": "コーヒーとシロップ",
   "artist": "Official髭男dism",
-  "collection": "【稀羽すう】16竖屏周五定期】だから僕は音楽を辞めた ハナミズキ 夜に駆ける【241004】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=16",
   "source": "suu_usuwa.js"
@@ -8128,7 +8128,7 @@ window.SONG_DATA.push(
     {
   "title": "HELLO-Official髭男dism",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】14】🎶 #84【241009】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -8136,7 +8136,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄-Vaundy(2)",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】14】🎶 #84【241009】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -8144,7 +8144,7 @@ window.SONG_DATA.push(
     {
   "title": "コネクト-ClariS",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】14】🎶 #84【241009】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -8152,7 +8152,7 @@ window.SONG_DATA.push(
     {
   "title": "いけないボーダーライン-ワルキューレ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】14】🎶 #84【241009】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -8160,7 +8160,7 @@ window.SONG_DATA.push(
     {
   "title": "ユニバーサル・バニー-シェリル・ノーム starring May'n",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】14】🎶 #84【241009】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -8168,7 +8168,7 @@ window.SONG_DATA.push(
     {
   "title": "fake face dance music-音田雅則",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】14】🎶 #84【241009】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -8176,7 +8176,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl-AKASAKI",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】14】🎶 #84【241009】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -8184,7 +8184,7 @@ window.SONG_DATA.push(
     {
   "title": "君は薔薇より美しい-布施明",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】14】🎶 #84【241009】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -8192,7 +8192,7 @@ window.SONG_DATA.push(
     {
   "title": "怪物-YOASOBI",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】14】🎶 #84【241009】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -8200,7 +8200,7 @@ window.SONG_DATA.push(
     {
   "title": "フライディ・チャイナタウン-泰葉",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】14】🎶 #84【241009】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -8208,7 +8208,7 @@ window.SONG_DATA.push(
     {
   "title": "ちゅ、多様性。-ano",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】14】🎶 #84【241009】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -8216,7 +8216,7 @@ window.SONG_DATA.push(
     {
   "title": "チャイナアドバイス-相対性理論",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】14】🎶 #84【241009】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -8224,7 +8224,7 @@ window.SONG_DATA.push(
     {
   "title": "ウォーアイニー-高橋 瞳 × BEAT CRUSADERS",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】14】🎶 #84【241009】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -8232,7 +8232,7 @@ window.SONG_DATA.push(
     {
   "title": "One more time,One more chance-山崎まさよし",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】14】🎶 #84【241009】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -8240,7 +8240,7 @@ window.SONG_DATA.push(
     {
   "title": "アイドル-YOASOBI",
   "artist": "前尘往事如昔故",
-  "collection": "【 魔光リサ / 稀羽すう  】一周年3D歌回【241011】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -8248,7 +8248,7 @@ window.SONG_DATA.push(
     {
   "title": "デスぺレート-TeddyLoid&Giga",
   "artist": "前尘往事如昔故",
-  "collection": "【 魔光リサ / 稀羽すう  】一周年3D歌回【241011】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -8256,7 +8256,7 @@ window.SONG_DATA.push(
     {
   "title": "Loveit-biz×ZERA feat LOLUET",
   "artist": "前尘往事如昔故",
-  "collection": "【 魔光リサ / 稀羽すう  】一周年3D歌回【241011】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -8264,7 +8264,7 @@ window.SONG_DATA.push(
     {
   "title": "fake face dance music-音田雅則",
   "artist": "前尘往事如昔故",
-  "collection": "【 魔光リサ / 稀羽すう  】一周年3D歌回【241011】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -8272,7 +8272,7 @@ window.SONG_DATA.push(
     {
   "title": "のびしろ-Creepy Nuts（by魔光リサ）",
   "artist": "前尘往事如昔故",
-  "collection": "【 魔光リサ / 稀羽すう  】一周年3D歌回【241011】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -8280,7 +8280,7 @@ window.SONG_DATA.push(
     {
   "title": "カナタハルカ-RADWIMPS（by稀羽すう）",
   "artist": "前尘往事如昔故",
-  "collection": "【 魔光リサ / 稀羽すう  】一周年3D歌回【241011】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -8288,7 +8288,7 @@ window.SONG_DATA.push(
     {
   "title": "灰色と青-米津玄師＆菅田将暉",
   "artist": "前尘往事如昔故",
-  "collection": "【 魔光リサ / 稀羽すう  】一周年3D歌回【241011】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -8296,7 +8296,7 @@ window.SONG_DATA.push(
     {
   "title": "メフィスト-女王蜂",
   "artist": "前尘往事如昔故",
-  "collection": "【 魔光リサ / 稀羽すう  】一周年3D歌回【241011】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -8304,7 +8304,7 @@ window.SONG_DATA.push(
     {
   "title": "I LOVE...-official髭男dism",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】15】I LOVE...  東京フラッシュ  カタオモイ【241015】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "suu_usuwa.js"
@@ -8312,7 +8312,7 @@ window.SONG_DATA.push(
     {
   "title": "東京フラッシュ-Vaundy",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】15】I LOVE...  東京フラッシュ  カタオモイ【241015】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "suu_usuwa.js"
@@ -8320,7 +8320,7 @@ window.SONG_DATA.push(
     {
   "title": "カタオモイ-Aimer",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】15】I LOVE...  東京フラッシュ  カタオモイ【241015】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "suu_usuwa.js"
@@ -8328,7 +8328,7 @@ window.SONG_DATA.push(
     {
   "title": "キミの記憶-川村ゆみ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】15】I LOVE...  東京フラッシュ  カタオモイ【241015】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "suu_usuwa.js"
@@ -8336,7 +8336,7 @@ window.SONG_DATA.push(
     {
   "title": "左右盲-ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】15】I LOVE...  東京フラッシュ  カタオモイ【241015】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=5",
   "source": "suu_usuwa.js"
@@ -8344,7 +8344,7 @@ window.SONG_DATA.push(
     {
   "title": "トウキョウ・シャンディ・ランデヴ-MAISONdes",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】15】I LOVE...  東京フラッシュ  カタオモイ【241015】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=6",
   "source": "suu_usuwa.js"
@@ -8352,7 +8352,7 @@ window.SONG_DATA.push(
     {
   "title": "きらり-藤井 風(2)",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】15】I LOVE...  東京フラッシュ  カタオモイ【241015】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=7",
   "source": "suu_usuwa.js"
@@ -8360,7 +8360,7 @@ window.SONG_DATA.push(
     {
   "title": "ダンスホール-Mrs. GREEN APPLE",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】15】I LOVE...  東京フラッシュ  カタオモイ【241015】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=8",
   "source": "suu_usuwa.js"
@@ -8368,7 +8368,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl-AKASAKI",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】15】I LOVE...  東京フラッシュ  カタオモイ【241015】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=9",
   "source": "suu_usuwa.js"
@@ -8376,7 +8376,7 @@ window.SONG_DATA.push(
     {
   "title": "ルーマー-ポリスピカデリー",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】15】I LOVE...  東京フラッシュ  カタオモイ【241015】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=10",
   "source": "suu_usuwa.js"
@@ -8384,7 +8384,7 @@ window.SONG_DATA.push(
     {
   "title": "Limbo-春野",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】15】I LOVE...  東京フラッシュ  カタオモイ【241015】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=11",
   "source": "suu_usuwa.js"
@@ -8392,7 +8392,7 @@ window.SONG_DATA.push(
     {
   "title": "プラチナ-坂本真綾",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】15】I LOVE...  東京フラッシュ  カタオモイ【241015】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=12",
   "source": "suu_usuwa.js"
@@ -8400,7 +8400,7 @@ window.SONG_DATA.push(
     {
   "title": "Catch You Catch Me-グミ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】15】I LOVE...  東京フラッシュ  カタオモイ【241015】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=13",
   "source": "suu_usuwa.js"
@@ -8408,7 +8408,7 @@ window.SONG_DATA.push(
     {
   "title": "CLEAR-坂本真綾",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】15】I LOVE...  東京フラッシュ  カタオモイ【241015】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=14",
   "source": "suu_usuwa.js"
@@ -8416,7 +8416,7 @@ window.SONG_DATA.push(
     {
   "title": "マジックナンバー-坂本真綾",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】15】I LOVE...  東京フラッシュ  カタオモイ【241015】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=15",
   "source": "suu_usuwa.js"
@@ -8424,7 +8424,7 @@ window.SONG_DATA.push(
     {
   "title": "空も飛べるはず",
   "artist": "スピッツ",
-  "collection": "【稀羽すう】14】 🎶 #85青のすみか ダーリン 秒針を噛む【20241023】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -8432,7 +8432,7 @@ window.SONG_DATA.push(
     {
   "title": "チェリー",
   "artist": "スピッツ",
-  "collection": "【稀羽すう】14】 🎶 #85青のすみか ダーリン 秒針を噛む【20241023】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -8440,7 +8440,7 @@ window.SONG_DATA.push(
     {
   "title": "Love so sweet",
   "artist": "嵐",
-  "collection": "【稀羽すう】14】 🎶 #85青のすみか ダーリン 秒針を噛む【20241023】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -8448,7 +8448,7 @@ window.SONG_DATA.push(
     {
   "title": "ブルーバード",
   "artist": "いきものがかり",
-  "collection": "【稀羽すう】14】 🎶 #85青のすみか ダーリン 秒針を噛む【20241023】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -8456,7 +8456,7 @@ window.SONG_DATA.push(
     {
   "title": "青のすみか",
   "artist": "キタニタツヤ",
-  "collection": "【稀羽すう】14】 🎶 #85青のすみか ダーリン 秒針を噛む【20241023】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -8464,7 +8464,7 @@ window.SONG_DATA.push(
     {
   "title": "ダーリン",
   "artist": "須田景凪",
-  "collection": "【稀羽すう】14】 🎶 #85青のすみか ダーリン 秒針を噛む【20241023】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -8472,7 +8472,7 @@ window.SONG_DATA.push(
     {
   "title": "金木犀",
   "artist": "くじら",
-  "collection": "【稀羽すう】14】 🎶 #85青のすみか ダーリン 秒針を噛む【20241023】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -8480,7 +8480,7 @@ window.SONG_DATA.push(
     {
   "title": "接吻",
   "artist": "Original Love",
-  "collection": "【稀羽すう】14】 🎶 #85青のすみか ダーリン 秒針を噛む【20241023】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -8488,7 +8488,7 @@ window.SONG_DATA.push(
     {
   "title": "たばこ",
   "artist": "コレサワ",
-  "collection": "【稀羽すう】14】 🎶 #85青のすみか ダーリン 秒針を噛む【20241023】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -8496,7 +8496,7 @@ window.SONG_DATA.push(
     {
   "title": "シンデレラボーイ",
   "artist": "Saucy Dog",
-  "collection": "【稀羽すう】14】 🎶 #85青のすみか ダーリン 秒針を噛む【20241023】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -8504,7 +8504,7 @@ window.SONG_DATA.push(
     {
   "title": "秒針を噛む",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【稀羽すう】14】 🎶 #85青のすみか ダーリン 秒針を噛む【20241023】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -8512,7 +8512,7 @@ window.SONG_DATA.push(
     {
   "title": "Beautiful World",
   "artist": "宇多田ヒカル",
-  "collection": "【稀羽すう】14】 🎶 #85青のすみか ダーリン 秒針を噛む【20241023】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -8520,7 +8520,7 @@ window.SONG_DATA.push(
     {
   "title": "My Dearest",
   "artist": "supercell",
-  "collection": "【稀羽すう】14】 🎶 #85青のすみか ダーリン 秒針を噛む【20241023】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -8528,7 +8528,7 @@ window.SONG_DATA.push(
     {
   "title": "NIGHT DANCER",
   "artist": "imase",
-  "collection": "【稀羽すう】14】 🎶 #85青のすみか ダーリン 秒針を噛む【20241023】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -8536,7 +8536,7 @@ window.SONG_DATA.push(
     {
   "title": "3月9日",
   "artist": "レミオロメン",
-  "collection": "【稀羽すう】12竖屏】3月9日 カブトムシ 366日【20241026】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -8544,7 +8544,7 @@ window.SONG_DATA.push(
     {
   "title": "カブトムシ",
   "artist": "aiko",
-  "collection": "【稀羽すう】12竖屏】3月9日 カブトムシ 366日【20241026】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -8552,7 +8552,7 @@ window.SONG_DATA.push(
     {
   "title": "366日",
   "artist": "HY",
-  "collection": "【稀羽すう】12竖屏】3月9日 カブトムシ 366日【20241026】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -8560,7 +8560,7 @@ window.SONG_DATA.push(
     {
   "title": "恋",
   "artist": "星野源",
-  "collection": "【稀羽すう】12竖屏】3月9日 カブトムシ 366日【20241026】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -8568,7 +8568,7 @@ window.SONG_DATA.push(
     {
   "title": "ひまわりの約束",
   "artist": "秦基博",
-  "collection": "【稀羽すう】12竖屏】3月9日 カブトムシ 366日【20241026】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -8576,7 +8576,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍",
   "artist": "n-buna",
-  "collection": "【稀羽すう】12竖屏】3月9日 カブトムシ 366日【20241026】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -8584,7 +8584,7 @@ window.SONG_DATA.push(
     {
   "title": "いのちの名前",
   "artist": "木村弓",
-  "collection": "【稀羽すう】12竖屏】3月9日 カブトムシ 366日【20241026】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -8592,7 +8592,7 @@ window.SONG_DATA.push(
     {
   "title": "First Love",
   "artist": "宇多田ヒカル",
-  "collection": "【稀羽すう】12竖屏】3月9日 カブトムシ 366日【20241026】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -8600,7 +8600,7 @@ window.SONG_DATA.push(
     {
   "title": "雪の華",
   "artist": "中島美嘉",
-  "collection": "【稀羽すう】12竖屏】3月9日 カブトムシ 366日【20241026】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -8608,7 +8608,7 @@ window.SONG_DATA.push(
     {
   "title": "SWEET MEMORIES",
   "artist": "松田聖子",
-  "collection": "【稀羽すう】12竖屏】3月9日 カブトムシ 366日【20241026】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -8616,7 +8616,7 @@ window.SONG_DATA.push(
     {
   "title": "DAN DAN 心魅かれてく",
   "artist": "FIELD OF VIEW",
-  "collection": "【稀羽すう】12竖屏】3月9日 カブトムシ 366日【20241026】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -8624,7 +8624,7 @@ window.SONG_DATA.push(
     {
   "title": "月のワルツ",
   "artist": "諫山実生",
-  "collection": "【稀羽すう】12竖屏】3月9日 カブトムシ 366日【20241026】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -8632,7 +8632,7 @@ window.SONG_DATA.push(
     {
   "title": "水平線",
   "artist": "back number",
-  "collection": "#86【稀羽すう】16】🎶 【20241030】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=1",
   "source": "suu_usuwa.js"
@@ -8640,7 +8640,7 @@ window.SONG_DATA.push(
     {
   "title": "廻廻奇譚",
   "artist": "Eve",
-  "collection": "#86【稀羽すう】16】🎶 【20241030】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=2",
   "source": "suu_usuwa.js"
@@ -8648,7 +8648,7 @@ window.SONG_DATA.push(
     {
   "title": "怪物",
   "artist": "YOASOBI",
-  "collection": "#86【稀羽すう】16】🎶 【20241030】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=3",
   "source": "suu_usuwa.js"
@@ -8656,7 +8656,7 @@ window.SONG_DATA.push(
     {
   "title": "ヴァンパイア",
   "artist": "DECO27",
-  "collection": "#86【稀羽すう】16】🎶 【20241030】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=4",
   "source": "suu_usuwa.js"
@@ -8664,7 +8664,7 @@ window.SONG_DATA.push(
     {
   "title": "Mrs. Pumpkinの滑稽な夢",
   "artist": "ハチ",
-  "collection": "#86【稀羽すう】16】🎶 【20241030】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=5",
   "source": "suu_usuwa.js"
@@ -8672,7 +8672,7 @@ window.SONG_DATA.push(
     {
   "title": "時よ",
   "artist": "星野源",
-  "collection": "#86【稀羽すう】16】🎶 【20241030】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=6",
   "source": "suu_usuwa.js"
@@ -8680,7 +8680,7 @@ window.SONG_DATA.push(
     {
   "title": "NEW LOOK",
   "artist": "安室奈美恵",
-  "collection": "#86【稀羽すう】16】🎶 【20241030】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=7",
   "source": "suu_usuwa.js"
@@ -8688,7 +8688,7 @@ window.SONG_DATA.push(
     {
   "title": "napori",
   "artist": "Vaundy",
-  "collection": "#86【稀羽すう】16】🎶 【20241030】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=8",
   "source": "suu_usuwa.js"
@@ -8696,7 +8696,7 @@ window.SONG_DATA.push(
     {
   "title": "接吻",
   "artist": "Original Love",
-  "collection": "#86【稀羽すう】16】🎶 【20241030】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=9",
   "source": "suu_usuwa.js"
@@ -8704,7 +8704,7 @@ window.SONG_DATA.push(
     {
   "title": "カタオモイ",
   "artist": "Aimer",
-  "collection": "#86【稀羽すう】16】🎶 【20241030】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=10",
   "source": "suu_usuwa.js"
@@ -8712,7 +8712,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌",
   "artist": "tuki.",
-  "collection": "#86【稀羽すう】16】🎶 【20241030】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=11",
   "source": "suu_usuwa.js"
@@ -8720,7 +8720,7 @@ window.SONG_DATA.push(
     {
   "title": "Revival",
   "artist": "スキマスイッチ",
-  "collection": "#86【稀羽すう】16】🎶 【20241030】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=12",
   "source": "suu_usuwa.js"
@@ -8728,7 +8728,7 @@ window.SONG_DATA.push(
     {
   "title": "願い",
   "artist": "Sumika",
-  "collection": "#86【稀羽すう】16】🎶 【20241030】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=13",
   "source": "suu_usuwa.js"
@@ -8736,7 +8736,7 @@ window.SONG_DATA.push(
     {
   "title": "さよならの夏 ～コクリコ坂から～",
   "artist": "手嶌葵",
-  "collection": "#86【稀羽すう】16】🎶 【20241030】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=14",
   "source": "suu_usuwa.js"
@@ -8744,7 +8744,7 @@ window.SONG_DATA.push(
     {
   "title": "さよーならまたいつか！",
   "artist": "米津玄師",
-  "collection": "#86【稀羽すう】16】🎶 【20241030】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=15",
   "source": "suu_usuwa.js"
@@ -8752,7 +8752,7 @@ window.SONG_DATA.push(
     {
   "title": "きらきら武士",
   "artist": "レキシ",
-  "collection": "#86【稀羽すう】16】🎶 【20241030】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=16",
   "source": "suu_usuwa.js"
@@ -8760,7 +8760,7 @@ window.SONG_DATA.push(
     {
   "title": "NIGHT DANCER",
   "artist": "imase",
-  "collection": "【稀羽すう】16】傍晚来听一些悠闲而帅气的歌曲怎么样~【2024年11月3日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -8768,7 +8768,7 @@ window.SONG_DATA.push(
     {
   "title": "フライデーナイト",
   "artist": "なとり",
-  "collection": "【稀羽すう】16】傍晚来听一些悠闲而帅气的歌曲怎么样~【2024年11月3日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -8776,7 +8776,7 @@ window.SONG_DATA.push(
     {
   "title": "Overdose",
   "artist": "なとり",
-  "collection": "【稀羽すう】16】傍晚来听一些悠闲而帅气的歌曲怎么样~【2024年11月3日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -8784,7 +8784,7 @@ window.SONG_DATA.push(
     {
   "title": "melt bitter",
   "artist": "さとうもか",
-  "collection": "【稀羽すう】16】傍晚来听一些悠闲而帅气的歌曲怎么样~【2024年11月3日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -8792,7 +8792,7 @@ window.SONG_DATA.push(
     {
   "title": "SWEET TWEET",
   "artist": "Official髭男dism",
-  "collection": "【稀羽すう】16】傍晚来听一些悠闲而帅气的歌曲怎么样~【2024年11月3日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -8800,7 +8800,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI",
-  "collection": "【稀羽すう】16】傍晚来听一些悠闲而帅气的歌曲怎么样~【2024年11月3日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -8808,7 +8808,7 @@ window.SONG_DATA.push(
     {
   "title": "fake face dance music",
   "artist": "音田雅則",
-  "collection": "【稀羽すう】16】傍晚来听一些悠闲而帅气的歌曲怎么样~【2024年11月3日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -8816,7 +8816,7 @@ window.SONG_DATA.push(
     {
   "title": "踊り子",
   "artist": "Vaundy",
-  "collection": "【稀羽すう】16】傍晚来听一些悠闲而帅气的歌曲怎么样~【2024年11月3日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -8824,7 +8824,7 @@ window.SONG_DATA.push(
     {
   "title": "死ぬのがいいわ",
   "artist": "藤井風",
-  "collection": "【稀羽すう】16】傍晚来听一些悠闲而帅气的歌曲怎么样~【2024年11月3日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -8832,7 +8832,7 @@ window.SONG_DATA.push(
     {
   "title": "花",
   "artist": "藤井風",
-  "collection": "【稀羽すう】16】傍晚来听一些悠闲而帅气的歌曲怎么样~【2024年11月3日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -8840,7 +8840,7 @@ window.SONG_DATA.push(
     {
   "title": "ルーマー",
   "artist": "ポリスピカデリー",
-  "collection": "【稀羽すう】16】傍晚来听一些悠闲而帅气的歌曲怎么样~【2024年11月3日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -8848,7 +8848,7 @@ window.SONG_DATA.push(
     {
   "title": "NEW LOOK",
   "artist": "安室奈美恵",
-  "collection": "【稀羽すう】16】傍晚来听一些悠闲而帅气的歌曲怎么样~【2024年11月3日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=12",
   "source": "suu_usuwa.js"
@@ -8856,7 +8856,7 @@ window.SONG_DATA.push(
     {
   "title": "君がいて水になる",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【稀羽すう】16】傍晚来听一些悠闲而帅气的歌曲怎么样~【2024年11月3日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=13",
   "source": "suu_usuwa.js"
@@ -8864,7 +8864,7 @@ window.SONG_DATA.push(
     {
   "title": "脳裏上のクラッカー",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【稀羽すう】16】傍晚来听一些悠闲而帅气的歌曲怎么样~【2024年11月3日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=14",
   "source": "suu_usuwa.js"
@@ -8872,7 +8872,7 @@ window.SONG_DATA.push(
     {
   "title": "Pop Virus",
   "artist": "星野源",
-  "collection": "【稀羽すう】16】傍晚来听一些悠闲而帅气的歌曲怎么样~【2024年11月3日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=15",
   "source": "suu_usuwa.js"
@@ -8880,7 +8880,7 @@ window.SONG_DATA.push(
     {
   "title": "夜撫でるメノウ",
   "artist": "Ayase",
-  "collection": "【稀羽すう】16】傍晚来听一些悠闲而帅气的歌曲怎么样~【2024年11月3日】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=16",
   "source": "suu_usuwa.js"
@@ -8888,7 +8888,7 @@ window.SONG_DATA.push(
     {
   "title": "雫",
   "artist": "スキマスイッチ",
-  "collection": "#87【稀羽すう】星期三的定期歌回🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=1",
   "source": "suu_usuwa.js"
@@ -8896,7 +8896,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れじの言の葉",
   "artist": "未来古代楽団",
-  "collection": "#87【稀羽すう】星期三的定期歌回🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=2",
   "source": "suu_usuwa.js"
@@ -8904,7 +8904,7 @@ window.SONG_DATA.push(
     {
   "title": "テルーの唄",
   "artist": "手嶌葵",
-  "collection": "#87【稀羽すう】星期三的定期歌回🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=3",
   "source": "suu_usuwa.js"
@@ -8912,7 +8912,7 @@ window.SONG_DATA.push(
     {
   "title": "君をのせて",
   "artist": "井上あずみ",
-  "collection": "#87【稀羽すう】星期三的定期歌回🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=4",
   "source": "suu_usuwa.js"
@@ -8920,7 +8920,7 @@ window.SONG_DATA.push(
     {
   "title": "もののけ姫",
   "artist": "米良美一",
-  "collection": "#87【稀羽すう】星期三的定期歌回🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=5",
   "source": "suu_usuwa.js"
@@ -8928,7 +8928,7 @@ window.SONG_DATA.push(
     {
   "title": "都落ち",
   "artist": "ヨルシカ",
-  "collection": "#87【稀羽すう】星期三的定期歌回🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=6",
   "source": "suu_usuwa.js"
@@ -8936,7 +8936,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
-  "collection": "#87【稀羽すう】星期三的定期歌回🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=7",
   "source": "suu_usuwa.js"
@@ -8944,7 +8944,7 @@ window.SONG_DATA.push(
     {
   "title": "なにやってもうまくいかない",
   "artist": "meiyo",
-  "collection": "#87【稀羽すう】星期三的定期歌回🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=8",
   "source": "suu_usuwa.js"
@@ -8952,7 +8952,7 @@ window.SONG_DATA.push(
     {
   "title": "アカシア",
   "artist": "BUMP OF CHICKEN",
-  "collection": "#87【稀羽すう】星期三的定期歌回🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=9",
   "source": "suu_usuwa.js"
@@ -8960,7 +8960,7 @@ window.SONG_DATA.push(
     {
   "title": "女の子は誰でも",
   "artist": "東京事変",
-  "collection": "#87【稀羽すう】星期三的定期歌回🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=10",
   "source": "suu_usuwa.js"
@@ -8968,7 +8968,7 @@ window.SONG_DATA.push(
     {
   "title": "Ready To Party",
   "artist": "稀羽すう",
-  "collection": "#87【稀羽すう】星期三的定期歌回🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=11",
   "source": "suu_usuwa.js"
@@ -8976,7 +8976,7 @@ window.SONG_DATA.push(
     {
   "title": "うれしい！たのしい！大好き!",
   "artist": "DREAMS COME TRUE",
-  "collection": "【稀羽すう】久违的歌声练习！【13 241115",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -8984,7 +8984,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI",
-  "collection": "【稀羽すう】久违的歌声练习！【13 241115",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -8992,7 +8992,7 @@ window.SONG_DATA.push(
     {
   "title": "イミテイション・ゴールド",
   "artist": "山口百恵",
-  "collection": "【稀羽すう】久违的歌声练习！【13 241115",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -9000,7 +9000,7 @@ window.SONG_DATA.push(
     {
   "title": "魔性の女A",
   "artist": "紫 今",
-  "collection": "【稀羽すう】久违的歌声练习！【13 241115",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -9008,7 +9008,7 @@ window.SONG_DATA.push(
     {
   "title": "I remember you",
   "artist": "YUI",
-  "collection": "【稀羽すう】久违的歌声练习！【13 241115",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -9016,7 +9016,7 @@ window.SONG_DATA.push(
     {
   "title": "愛とU",
   "artist": "Mega Shinnosuke",
-  "collection": "【稀羽すう】久违的歌声练习！【13 241115",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -9024,7 +9024,7 @@ window.SONG_DATA.push(
     {
   "title": "真赤な太陽",
   "artist": "美空ひばり",
-  "collection": "【稀羽すう】久违的歌声练习！【13 241115",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -9032,7 +9032,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ",
-  "collection": "【稀羽すう】久违的歌声练习！【13 241115",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -9040,7 +9040,7 @@ window.SONG_DATA.push(
     {
   "title": "ロマンスの神様",
   "artist": "広瀬香美",
-  "collection": "【稀羽すう】久违的歌声练习！【13 241115",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -9048,7 +9048,7 @@ window.SONG_DATA.push(
     {
   "title": "Subtitle",
   "artist": "Official髭男dism",
-  "collection": "【稀羽すう】久违的歌声练习！【13 241115",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -9056,7 +9056,7 @@ window.SONG_DATA.push(
     {
   "title": "大阪LOVER",
   "artist": "DREAMS COME TRUE",
-  "collection": "【稀羽すう】久违的歌声练习！【13 241115",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -9064,7 +9064,7 @@ window.SONG_DATA.push(
     {
   "title": "ドライフラワー",
   "artist": "優里",
-  "collection": "【稀羽すう】久违的歌声练习！【13 241115",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=12",
   "source": "suu_usuwa.js"
@@ -9072,7 +9072,7 @@ window.SONG_DATA.push(
     {
   "title": "トロイメライ",
   "artist": "稀羽すう",
-  "collection": "【稀羽すう】久违的歌声练习！【13 241115",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=13",
   "source": "suu_usuwa.js"
@@ -9080,7 +9080,7 @@ window.SONG_DATA.push(
     {
   "title": "Rolling Star",
   "artist": "YUI",
-  "collection": "#88【 稀羽すう】星期三的定期歌枠~🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -9088,7 +9088,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
-  "collection": "#88【 稀羽すう】星期三的定期歌枠~🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -9096,7 +9096,7 @@ window.SONG_DATA.push(
     {
   "title": "言って。",
   "artist": "ヨルシカ",
-  "collection": "#88【 稀羽すう】星期三的定期歌枠~🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -9104,7 +9104,7 @@ window.SONG_DATA.push(
     {
   "title": "都落ち",
   "artist": "ヨルシカ",
-  "collection": "#88【 稀羽すう】星期三的定期歌枠~🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -9112,7 +9112,7 @@ window.SONG_DATA.push(
     {
   "title": "雪の華",
   "artist": "中島美嘉",
-  "collection": "#88【 稀羽すう】星期三的定期歌枠~🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -9120,7 +9120,7 @@ window.SONG_DATA.push(
     {
   "title": "弱虫モンブラン",
   "artist": "DECO27",
-  "collection": "#88【 稀羽すう】星期三的定期歌枠~🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -9128,7 +9128,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌",
   "artist": "tuki.",
-  "collection": "#88【 稀羽すう】星期三的定期歌枠~🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -9136,7 +9136,7 @@ window.SONG_DATA.push(
     {
   "title": "勇気100%",
   "artist": "光GENJI",
-  "collection": "#88【 稀羽すう】星期三的定期歌枠~🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -9144,7 +9144,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄",
   "artist": "Vaundy",
-  "collection": "#88【 稀羽すう】星期三的定期歌枠~🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -9152,7 +9152,7 @@ window.SONG_DATA.push(
     {
   "title": "津軽海峡冬景色",
   "artist": "石川さゆり",
-  "collection": "#88【 稀羽すう】星期三的定期歌枠~🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -9160,7 +9160,7 @@ window.SONG_DATA.push(
     {
   "title": "モザイクロール",
   "artist": "DECO27",
-  "collection": "#88【 稀羽すう】星期三的定期歌枠~🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -9168,7 +9168,7 @@ window.SONG_DATA.push(
     {
   "title": "夜空ノムコウ",
   "artist": "SMAP",
-  "collection": "#88【 稀羽すう】星期三的定期歌枠~🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=12",
   "source": "suu_usuwa.js"
@@ -9176,7 +9176,7 @@ window.SONG_DATA.push(
     {
   "title": "気まぐれロマンティック",
   "artist": "いきものがかり",
-  "collection": "#89【稀羽すう 】星期三定期歌回🎶【18",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -9184,7 +9184,7 @@ window.SONG_DATA.push(
     {
   "title": "トウキョウ・シャンディ・ランデヴ",
   "artist": "MAISONdes",
-  "collection": "#89【稀羽すう 】星期三定期歌回🎶【18",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -9192,7 +9192,7 @@ window.SONG_DATA.push(
     {
   "title": "ダンスホール",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "#89【稀羽すう 】星期三定期歌回🎶【18",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -9200,7 +9200,7 @@ window.SONG_DATA.push(
     {
   "title": "私は最強",
   "artist": "Ado",
-  "collection": "#89【稀羽すう 】星期三定期歌回🎶【18",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -9208,7 +9208,7 @@ window.SONG_DATA.push(
     {
   "title": "トライアングラー",
   "artist": "坂本真綾",
-  "collection": "#89【稀羽すう 】星期三定期歌回🎶【18",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -9216,7 +9216,7 @@ window.SONG_DATA.push(
     {
   "title": "星間飛行",
   "artist": "中島愛",
-  "collection": "#89【稀羽すう 】星期三定期歌回🎶【18",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -9224,7 +9224,7 @@ window.SONG_DATA.push(
     {
   "title": "フォニイ",
   "artist": "ツミキ",
-  "collection": "#89【稀羽すう 】星期三定期歌回🎶【18",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -9232,7 +9232,7 @@ window.SONG_DATA.push(
     {
   "title": "きゅうくらりん",
   "artist": "いよわ",
-  "collection": "#89【稀羽すう 】星期三定期歌回🎶【18",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -9240,7 +9240,7 @@ window.SONG_DATA.push(
     {
   "title": "えれくとりっく・えんじぇぅ",
   "artist": "ヤスオ",
-  "collection": "#89【稀羽すう 】星期三定期歌回🎶【18",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -9248,7 +9248,7 @@ window.SONG_DATA.push(
     {
   "title": "ワールドイズマイン",
   "artist": "ryo",
-  "collection": "#89【稀羽すう 】星期三定期歌回🎶【18",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -9256,7 +9256,7 @@ window.SONG_DATA.push(
     {
   "title": "恋は戦争",
   "artist": "ryo",
-  "collection": "#89【稀羽すう 】星期三定期歌回🎶【18",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -9264,7 +9264,7 @@ window.SONG_DATA.push(
     {
   "title": "ドーナツホール",
   "artist": "ハチ",
-  "collection": "#89【稀羽すう 】星期三定期歌回🎶【18",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -9272,7 +9272,7 @@ window.SONG_DATA.push(
     {
   "title": "初めての恋が終わる時",
   "artist": "ryo",
-  "collection": "#89【稀羽すう 】星期三定期歌回🎶【18",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -9280,7 +9280,7 @@ window.SONG_DATA.push(
     {
   "title": "おじゃま虫",
   "artist": "DECO27",
-  "collection": "#89【稀羽すう 】星期三定期歌回🎶【18",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -9288,7 +9288,7 @@ window.SONG_DATA.push(
     {
   "title": "妄想感傷代償連盟",
   "artist": "DECO27",
-  "collection": "#89【稀羽すう 】星期三定期歌回🎶【18",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=15",
   "source": "suu_usuwa.js"
@@ -9296,7 +9296,7 @@ window.SONG_DATA.push(
     {
   "title": "本能",
   "artist": "椎名林檎",
-  "collection": "#89【稀羽すう 】星期三定期歌回🎶【18",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=16",
   "source": "suu_usuwa.js"
@@ -9304,7 +9304,7 @@ window.SONG_DATA.push(
     {
   "title": "Tell Me Baby",
   "artist": "Official髭男dism",
-  "collection": "#89【稀羽すう 】星期三定期歌回🎶【18",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=17",
   "source": "suu_usuwa.js"
@@ -9312,7 +9312,7 @@ window.SONG_DATA.push(
     {
   "title": "透明人間",
   "artist": "東京事変",
-  "collection": "#89【稀羽すう 】星期三定期歌回🎶【18",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=18",
   "source": "suu_usuwa.js"
@@ -9320,7 +9320,7 @@ window.SONG_DATA.push(
     {
   "title": "コネクト",
   "artist": "ClariS",
-  "collection": "#90 稀羽すう】星期三的定期歌回🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=1",
   "source": "suu_usuwa.js"
@@ -9328,7 +9328,7 @@ window.SONG_DATA.push(
     {
   "title": "ALIVE",
   "artist": "ClariS",
-  "collection": "#90 稀羽すう】星期三的定期歌回🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=2",
   "source": "suu_usuwa.js"
@@ -9336,7 +9336,7 @@ window.SONG_DATA.push(
     {
   "title": "God knows...",
   "artist": "涼宮ハルヒ(平野綾)",
-  "collection": "#90 稀羽すう】星期三的定期歌回🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=3",
   "source": "suu_usuwa.js"
@@ -9344,7 +9344,7 @@ window.SONG_DATA.push(
     {
   "title": "Don't say \"lazy\"",
   "artist": "放課後ティータイム",
-  "collection": "#90 稀羽すう】星期三的定期歌回🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=4",
   "source": "suu_usuwa.js"
@@ -9352,7 +9352,7 @@ window.SONG_DATA.push(
     {
   "title": "Paradise Lost",
   "artist": "茅原実里",
-  "collection": "#90 稀羽すう】星期三的定期歌回🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=5",
   "source": "suu_usuwa.js"
@@ -9360,7 +9360,7 @@ window.SONG_DATA.push(
     {
   "title": "名前のない怪物",
   "artist": "EGOIST",
-  "collection": "#90 稀羽すう】星期三的定期歌回🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=6",
   "source": "suu_usuwa.js"
@@ -9368,7 +9368,7 @@ window.SONG_DATA.push(
     {
   "title": "怪物",
   "artist": "YOASOBI",
-  "collection": "#90 稀羽すう】星期三的定期歌回🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=7",
   "source": "suu_usuwa.js"
@@ -9376,7 +9376,7 @@ window.SONG_DATA.push(
     {
   "title": "オリオンをなぞる",
   "artist": "UNISON SQUARE GARDEN",
-  "collection": "#90 稀羽すう】星期三的定期歌回🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=8",
   "source": "suu_usuwa.js"
@@ -9384,7 +9384,7 @@ window.SONG_DATA.push(
     {
   "title": "星座になれたら",
   "artist": "結束バンド",
-  "collection": "#90 稀羽すう】星期三的定期歌回🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=9",
   "source": "suu_usuwa.js"
@@ -9392,7 +9392,7 @@ window.SONG_DATA.push(
     {
   "title": "境界の彼方",
   "artist": "茅原実里",
-  "collection": "#90 稀羽すう】星期三的定期歌回🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=10",
   "source": "suu_usuwa.js"
@@ -9400,7 +9400,7 @@ window.SONG_DATA.push(
     {
   "title": "ANIMA",
   "artist": "ReoNa",
-  "collection": "#90 稀羽すう】星期三的定期歌回🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=11",
   "source": "suu_usuwa.js"
@@ -9408,7 +9408,7 @@ window.SONG_DATA.push(
     {
   "title": "残響賛歌",
   "artist": "Aimer",
-  "collection": "#90 稀羽すう】星期三的定期歌回🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=12",
   "source": "suu_usuwa.js"
@@ -9416,7 +9416,7 @@ window.SONG_DATA.push(
     {
   "title": "若者のすべて",
   "artist": "フジファブリック",
-  "collection": "#90 稀羽すう】星期三的定期歌回🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=13",
   "source": "suu_usuwa.js"
@@ -9424,7 +9424,7 @@ window.SONG_DATA.push(
     {
   "title": "君の知らない物語",
   "artist": "Supercell",
-  "collection": "【 稀羽すう 】久违的周五竖屏歌回【9【241206",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -9432,7 +9432,7 @@ window.SONG_DATA.push(
     {
   "title": "フリージア",
   "artist": "Uru",
-  "collection": "【 稀羽すう 】久违的周五竖屏歌回【9【241206",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -9440,7 +9440,7 @@ window.SONG_DATA.push(
     {
   "title": "ケセラセラ",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【 稀羽すう 】久违的周五竖屏歌回【9【241206",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -9448,7 +9448,7 @@ window.SONG_DATA.push(
     {
   "title": "アカシア",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【 稀羽すう 】久违的周五竖屏歌回【9【241206",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -9456,7 +9456,7 @@ window.SONG_DATA.push(
     {
   "title": "天体観測",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【 稀羽すう 】久违的周五竖屏歌回【9【241206",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -9464,7 +9464,7 @@ window.SONG_DATA.push(
     {
   "title": "なんでもないや",
   "artist": "RADWIMPS",
-  "collection": "【 稀羽すう 】久违的周五竖屏歌回【9【241206",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -9472,7 +9472,7 @@ window.SONG_DATA.push(
     {
   "title": "左右盲",
   "artist": "ヨルシカ",
-  "collection": "【 稀羽すう 】久违的周五竖屏歌回【9【241206",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -9480,7 +9480,7 @@ window.SONG_DATA.push(
     {
   "title": "まつり",
   "artist": "藤井風",
-  "collection": "【 稀羽すう 】久违的周五竖屏歌回【9【241206",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -9488,7 +9488,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花歌",
   "artist": "Vaundy",
-  "collection": "【 稀羽すう 】久违的周五竖屏歌回【9【241206",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -9496,7 +9496,7 @@ window.SONG_DATA.push(
     {
   "title": "すてきなホリデイ",
   "artist": "竹内まりや",
-  "collection": "#91【稀羽すう】圣诞、雪、冬天。水曜定期歌枠 🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -9504,7 +9504,7 @@ window.SONG_DATA.push(
     {
   "title": "プラチナ",
   "artist": "坂本真綾",
-  "collection": "#91【稀羽すう】圣诞、雪、冬天。水曜定期歌枠 🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -9512,7 +9512,7 @@ window.SONG_DATA.push(
     {
   "title": "Snow halation",
   "artist": "μ's",
-  "collection": "#91【稀羽すう】圣诞、雪、冬天。水曜定期歌枠 🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -9520,7 +9520,7 @@ window.SONG_DATA.push(
     {
   "title": "Shine!!",
   "artist": "CINDERELLA PROJECT",
-  "collection": "#91【稀羽すう】圣诞、雪、冬天。水曜定期歌枠 🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -9528,7 +9528,7 @@ window.SONG_DATA.push(
     {
   "title": "Study Equal Magic!",
   "artist": "S.E.M",
-  "collection": "#91【稀羽すう】圣诞、雪、冬天。水曜定期歌枠 🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -9536,7 +9536,7 @@ window.SONG_DATA.push(
     {
   "title": "サインはB",
   "artist": "B小町",
-  "collection": "#91【稀羽すう】圣诞、雪、冬天。水曜定期歌枠 🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -9544,7 +9544,7 @@ window.SONG_DATA.push(
     {
   "title": "fake face dance music",
   "artist": "音田雅則(2)",
-  "collection": "#91【稀羽すう】圣诞、雪、冬天。水曜定期歌枠 🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -9552,7 +9552,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI",
-  "collection": "#91【稀羽すう】圣诞、雪、冬天。水曜定期歌枠 🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -9560,7 +9560,7 @@ window.SONG_DATA.push(
     {
   "title": "雪の華",
   "artist": "中島美嘉",
-  "collection": "#91【稀羽すう】圣诞、雪、冬天。水曜定期歌枠 🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -9568,7 +9568,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーチラス",
   "artist": "ヨルシカ",
-  "collection": "#91【稀羽すう】圣诞、雪、冬天。水曜定期歌枠 🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -9576,7 +9576,7 @@ window.SONG_DATA.push(
     {
   "title": "地球儀",
   "artist": "米津玄師",
-  "collection": "#91【稀羽すう】圣诞、雪、冬天。水曜定期歌枠 🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -9584,7 +9584,7 @@ window.SONG_DATA.push(
     {
   "title": "クリスマスソング",
   "artist": "back number",
-  "collection": "#91【稀羽すう】圣诞、雪、冬天。水曜定期歌枠 🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -9592,7 +9592,7 @@ window.SONG_DATA.push(
     {
   "title": "悪魔の子",
   "artist": "ヒグチアイ",
-  "collection": "【稀羽すう】周五竖屏歌回 241215",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -9600,7 +9600,7 @@ window.SONG_DATA.push(
     {
   "title": "Together",
   "artist": "あきよしふみえ",
-  "collection": "【稀羽すう】周五竖屏歌回 241215",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -9608,7 +9608,7 @@ window.SONG_DATA.push(
     {
   "title": "めざせポケモンマスター",
   "artist": "松本 梨香",
-  "collection": "【稀羽すう】周五竖屏歌回 241215",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -9616,7 +9616,7 @@ window.SONG_DATA.push(
     {
   "title": "別の人の彼女になったよ",
   "artist": "wacci",
-  "collection": "【稀羽すう】周五竖屏歌回 241215",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -9624,7 +9624,7 @@ window.SONG_DATA.push(
     {
   "title": "SUN",
   "artist": "星野源",
-  "collection": "【稀羽すう】周五竖屏歌回 241215",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -9632,7 +9632,7 @@ window.SONG_DATA.push(
     {
   "title": "愛を伝えたいだとか",
   "artist": "あいみょん",
-  "collection": "【稀羽すう】周五竖屏歌回 241215",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -9640,7 +9640,7 @@ window.SONG_DATA.push(
     {
   "title": "変わらないもの",
   "artist": "奥華子",
-  "collection": "【稀羽すう】周五竖屏歌回 241215",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -9648,7 +9648,7 @@ window.SONG_DATA.push(
     {
   "title": "絶対アイドル辞めないで",
   "artist": "=LOVE",
-  "collection": "【稀羽すう】周五竖屏歌回 241215",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -9656,7 +9656,7 @@ window.SONG_DATA.push(
     {
   "title": "アイドル",
   "artist": "YOASOBI",
-  "collection": "【稀羽すう】周五竖屏歌回 241215",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -9664,7 +9664,7 @@ window.SONG_DATA.push(
     {
   "title": "カブトムシ",
   "artist": "aiko",
-  "collection": "【稀羽すう】周五竖屏歌回 241215",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -9672,7 +9672,7 @@ window.SONG_DATA.push(
     {
   "title": "ボーイフレンド",
   "artist": "aiko",
-  "collection": "【稀羽すう】周五竖屏歌回 241215",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -9680,7 +9680,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌",
   "artist": "tuki.",
-  "collection": "【稀羽すう】周五竖屏歌回 241215",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -9688,7 +9688,7 @@ window.SONG_DATA.push(
     {
   "title": "I LOVE...",
   "artist": "official髭男dism",
-  "collection": "#92【稀羽すう】水曜定期歌枠  🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=1",
   "source": "suu_usuwa.js"
@@ -9696,7 +9696,7 @@ window.SONG_DATA.push(
     {
   "title": "HELLO",
   "artist": "Official髭男dism",
-  "collection": "#92【稀羽すう】水曜定期歌枠  🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=2",
   "source": "suu_usuwa.js"
@@ -9704,7 +9704,7 @@ window.SONG_DATA.push(
     {
   "title": "Subtitle",
   "artist": "Official髭男dism",
-  "collection": "#92【稀羽すう】水曜定期歌枠  🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=3",
   "source": "suu_usuwa.js"
@@ -9712,7 +9712,7 @@ window.SONG_DATA.push(
     {
   "title": "そうだよ。",
   "artist": "ランカ・リー(中島愛)",
-  "collection": "#92【稀羽すう】水曜定期歌枠  🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=4",
   "source": "suu_usuwa.js"
@@ -9720,7 +9720,7 @@ window.SONG_DATA.push(
     {
   "title": "満ちてゆく",
   "artist": "藤井風",
-  "collection": "#92【稀羽すう】水曜定期歌枠  🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=5",
   "source": "suu_usuwa.js"
@@ -9728,7 +9728,7 @@ window.SONG_DATA.push(
     {
   "title": "カナタハルカ",
   "artist": "RADWIMPS",
-  "collection": "#92【稀羽すう】水曜定期歌枠  🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=6",
   "source": "suu_usuwa.js"
@@ -9736,7 +9736,7 @@ window.SONG_DATA.push(
     {
   "title": "エイリアンズ",
   "artist": "キリンジ",
-  "collection": "#92【稀羽すう】水曜定期歌枠  🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=7",
   "source": "suu_usuwa.js"
@@ -9744,7 +9744,7 @@ window.SONG_DATA.push(
     {
   "title": "地球儀",
   "artist": "米津玄師",
-  "collection": "#92【稀羽すう】水曜定期歌枠  🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=8",
   "source": "suu_usuwa.js"
@@ -9752,7 +9752,7 @@ window.SONG_DATA.push(
     {
   "title": "世界の約束",
   "artist": "倍賞千恵子",
-  "collection": "#92【稀羽すう】水曜定期歌枠  🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=9",
   "source": "suu_usuwa.js"
@@ -9760,7 +9760,7 @@ window.SONG_DATA.push(
     {
   "title": "ミス・パラレルワールド",
   "artist": "相対性理論",
-  "collection": "#92【稀羽すう】水曜定期歌枠  🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=10",
   "source": "suu_usuwa.js"
@@ -9768,7 +9768,7 @@ window.SONG_DATA.push(
     {
   "title": "(恋は)百年戦争",
   "artist": "相対性理論",
-  "collection": "#92【稀羽すう】水曜定期歌枠  🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=11",
   "source": "suu_usuwa.js"
@@ -9776,7 +9776,7 @@ window.SONG_DATA.push(
     {
   "title": "さようなら、花泥棒さん",
   "artist": "メル",
-  "collection": "#92【稀羽すう】水曜定期歌枠  🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=12",
   "source": "suu_usuwa.js"
@@ -9784,7 +9784,7 @@ window.SONG_DATA.push(
     {
   "title": "さよーならまたいつか！",
   "artist": "米津玄師",
-  "collection": "#92【稀羽すう】水曜定期歌枠  🎶",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=13",
   "source": "suu_usuwa.js"
@@ -9792,7 +9792,7 @@ window.SONG_DATA.push(
     {
   "title": "サンタが町にやってくる (圣诞老人来到小镇)",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう】圣诞水曜定期歌枠~ 🎶 #93",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -9800,7 +9800,7 @@ window.SONG_DATA.push(
     {
   "title": "白い雪のプリンセスは",
   "artist": "のぼる↑",
-  "collection": "【稀羽すう】圣诞水曜定期歌枠~ 🎶 #93",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -9808,7 +9808,7 @@ window.SONG_DATA.push(
     {
   "title": "シンデレラ (Giga First Night Remix)",
   "artist": "DECO27",
-  "collection": "【稀羽すう】圣诞水曜定期歌枠~ 🎶 #93",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -9816,7 +9816,7 @@ window.SONG_DATA.push(
     {
   "title": "粉雪",
   "artist": "レミオロメン",
-  "collection": "【稀羽すう】圣诞水曜定期歌枠~ 🎶 #93",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -9824,7 +9824,7 @@ window.SONG_DATA.push(
     {
   "title": "雪の華",
   "artist": "中島美嘉(2)",
-  "collection": "【稀羽すう】圣诞水曜定期歌枠~ 🎶 #93",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -9832,7 +9832,7 @@ window.SONG_DATA.push(
     {
   "title": "SWEET MEMORIES",
   "artist": "松田聖子",
-  "collection": "【稀羽すう】圣诞水曜定期歌枠~ 🎶 #93",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -9840,7 +9840,7 @@ window.SONG_DATA.push(
     {
   "title": "プラスティック・ラブ",
   "artist": "竹内まりや",
-  "collection": "【稀羽すう】圣诞水曜定期歌枠~ 🎶 #93",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -9848,7 +9848,7 @@ window.SONG_DATA.push(
     {
   "title": "夜撫でるメノウ",
   "artist": "Ayase",
-  "collection": "【稀羽すう】圣诞水曜定期歌枠~ 🎶 #93",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -9856,7 +9856,7 @@ window.SONG_DATA.push(
     {
   "title": "クリスマスソング",
   "artist": "back number",
-  "collection": "【稀羽すう】圣诞水曜定期歌枠~ 🎶 #93",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -9864,7 +9864,7 @@ window.SONG_DATA.push(
     {
   "title": "きらきら武士",
   "artist": "レキシ",
-  "collection": "【稀羽すう】新年初歌~🎍新年快乐",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -9872,7 +9872,7 @@ window.SONG_DATA.push(
     {
   "title": "SAKURA",
   "artist": "いきものがかり",
-  "collection": "【稀羽すう】新年初歌~🎍新年快乐",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -9880,7 +9880,7 @@ window.SONG_DATA.push(
     {
   "title": "世界はそれを愛と呼ぶんだぜ",
   "artist": "サンボマスター",
-  "collection": "【稀羽すう】新年初歌~🎍新年快乐",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -9888,7 +9888,7 @@ window.SONG_DATA.push(
     {
   "title": "できっこないをやらなくちゃ",
   "artist": "サンボマスター",
-  "collection": "【稀羽すう】新年初歌~🎍新年快乐",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -9896,7 +9896,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーダウト",
   "artist": "Official髭男dism",
-  "collection": "【稀羽すう】新年初歌~🎍新年快乐",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -9904,7 +9904,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI(2)",
-  "collection": "【稀羽すう】新年初歌~🎍新年快乐",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -9912,7 +9912,7 @@ window.SONG_DATA.push(
     {
   "title": "NIGHT DANCER",
   "artist": "imase",
-  "collection": "【稀羽すう】新年初歌~🎍新年快乐",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -9920,7 +9920,7 @@ window.SONG_DATA.push(
     {
   "title": "ファタール",
   "artist": "GEMN",
-  "collection": "【稀羽すう】新年初歌~🎍新年快乐",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -9928,7 +9928,7 @@ window.SONG_DATA.push(
     {
   "title": "青のすみか",
   "artist": "キタニタツヤ",
-  "collection": "【稀羽すう】新年初歌~🎍新年快乐",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -9936,7 +9936,7 @@ window.SONG_DATA.push(
     {
   "title": "カタオモイ",
   "artist": "Aimer(2)",
-  "collection": "【稀羽すう】新年初歌~🎍新年快乐",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -9944,7 +9944,7 @@ window.SONG_DATA.push(
     {
   "title": "地獄でなぜ悪い",
   "artist": "星野源",
-  "collection": "【稀羽すう】新年初歌~🎍新年快乐",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -9952,7 +9952,7 @@ window.SONG_DATA.push(
     {
   "title": "恋",
   "artist": "星野源",
-  "collection": "【稀羽すう】新年初歌~🎍新年快乐",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -9960,7 +9960,7 @@ window.SONG_DATA.push(
     {
   "title": "わたしの一番かわいいところ",
   "artist": "FRUITS ZIPPER",
-  "collection": "【稀羽すう】新年初歌~🎍新年快乐",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -9968,7 +9968,7 @@ window.SONG_DATA.push(
     {
   "title": "melt bitter",
   "artist": "さとうもか",
-  "collection": "【稀羽すう】新年初歌~🎍新年快乐",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -9976,7 +9976,7 @@ window.SONG_DATA.push(
     {
   "title": "祝福",
   "artist": "YOASOBI",
-  "collection": "【稀羽すう】新年初歌~🎍新年快乐",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=15",
   "source": "suu_usuwa.js"
@@ -9984,7 +9984,7 @@ window.SONG_DATA.push(
     {
   "title": "Climax jump",
   "artist": "AAA DEN-O form",
-  "collection": "【稀羽すう】新年初歌~🎍新年快乐",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=16",
   "source": "suu_usuwa.js"
@@ -9992,7 +9992,7 @@ window.SONG_DATA.push(
     {
   "title": "春を告げる",
   "artist": "yama",
-  "collection": "【稀羽すう】磨り硝子ボイスで歌います！13 250105",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "suu_usuwa.js"
@@ -10000,7 +10000,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒",
   "artist": "ヨルシカ",
-  "collection": "【稀羽すう】磨り硝子ボイスで歌います！13 250105",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "suu_usuwa.js"
@@ -10008,7 +10008,7 @@ window.SONG_DATA.push(
     {
   "title": "風になる",
   "artist": "つじあやの",
-  "collection": "【稀羽すう】磨り硝子ボイスで歌います！13 250105",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "suu_usuwa.js"
@@ -10016,7 +10016,7 @@ window.SONG_DATA.push(
     {
   "title": "花は桜 君は美し",
   "artist": "いきものがかり",
-  "collection": "【稀羽すう】磨り硝子ボイスで歌います！13 250105",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "suu_usuwa.js"
@@ -10024,7 +10024,7 @@ window.SONG_DATA.push(
     {
   "title": "接吻",
   "artist": "Original Love",
-  "collection": "【稀羽すう】磨り硝子ボイスで歌います！13 250105",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=5",
   "source": "suu_usuwa.js"
@@ -10032,7 +10032,7 @@ window.SONG_DATA.push(
     {
   "title": "満ちてゆく",
   "artist": "藤井風",
-  "collection": "【稀羽すう】磨り硝子ボイスで歌います！13 250105",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=6",
   "source": "suu_usuwa.js"
@@ -10040,7 +10040,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ",
-  "collection": "【稀羽すう】磨り硝子ボイスで歌います！13 250105",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=7",
   "source": "suu_usuwa.js"
@@ -10048,7 +10048,7 @@ window.SONG_DATA.push(
     {
   "title": "アイデア",
   "artist": "星野源",
-  "collection": "【稀羽すう】磨り硝子ボイスで歌います！13 250105",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=8",
   "source": "suu_usuwa.js"
@@ -10056,7 +10056,7 @@ window.SONG_DATA.push(
     {
   "title": "Pop Virus",
   "artist": "星野源",
-  "collection": "【稀羽すう】磨り硝子ボイスで歌います！13 250105",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=9",
   "source": "suu_usuwa.js"
@@ -10064,7 +10064,7 @@ window.SONG_DATA.push(
     {
   "title": "不思議",
   "artist": "星野源",
-  "collection": "【稀羽すう】磨り硝子ボイスで歌います！13 250105",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=10",
   "source": "suu_usuwa.js"
@@ -10072,7 +10072,7 @@ window.SONG_DATA.push(
     {
   "title": "Lemon",
   "artist": "米津玄師",
-  "collection": "【稀羽すう】磨り硝子ボイスで歌います！13 250105",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=11",
   "source": "suu_usuwa.js"
@@ -10080,7 +10080,7 @@ window.SONG_DATA.push(
     {
   "title": "幾億光年",
   "artist": "Omoinotake",
-  "collection": "【稀羽すう】磨り硝子ボイスで歌います！13 250105",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=12",
   "source": "suu_usuwa.js"
@@ -10088,7 +10088,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍",
   "artist": "n-buna",
-  "collection": "【稀羽すう】磨り硝子ボイスで歌います！13 250105",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=13",
   "source": "suu_usuwa.js"
@@ -10096,7 +10096,7 @@ window.SONG_DATA.push(
     {
   "title": "たぶん",
   "artist": "YOASOBI",
-  "collection": "【 稀羽すう 】水曜定期歌枠 #94",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=1",
   "source": "suu_usuwa.js"
@@ -10104,7 +10104,7 @@ window.SONG_DATA.push(
     {
   "title": "幾億光年",
   "artist": "Omoinotake",
-  "collection": "【 稀羽すう 】水曜定期歌枠 #94",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=2",
   "source": "suu_usuwa.js"
@@ -10112,7 +10112,7 @@ window.SONG_DATA.push(
     {
   "title": "空も飛べるはず",
   "artist": "スピッツ",
-  "collection": "【 稀羽すう 】水曜定期歌枠 #94",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=3",
   "source": "suu_usuwa.js"
@@ -10120,7 +10120,7 @@ window.SONG_DATA.push(
     {
   "title": "踊り子",
   "artist": "Vaundy",
-  "collection": "【 稀羽すう 】水曜定期歌枠 #94",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=4",
   "source": "suu_usuwa.js"
@@ -10128,7 +10128,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーダウト",
   "artist": "Official髭男dism(2)",
-  "collection": "【 稀羽すう 】水曜定期歌枠 #94",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=5",
   "source": "suu_usuwa.js"
@@ -10136,7 +10136,7 @@ window.SONG_DATA.push(
     {
   "title": "シニカルナイトプラン",
   "artist": "Ayase",
-  "collection": "【 稀羽すう 】水曜定期歌枠 #94",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=6",
   "source": "suu_usuwa.js"
@@ -10144,7 +10144,7 @@ window.SONG_DATA.push(
     {
   "title": "Mornin' Belll",
   "artist": "稀羽すう",
-  "collection": "【 稀羽すう 】水曜定期歌枠 #94",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=7",
   "source": "suu_usuwa.js"
@@ -10152,7 +10152,7 @@ window.SONG_DATA.push(
     {
   "title": "地球儀",
   "artist": "米津玄師(2)",
-  "collection": "【 稀羽すう 】水曜定期歌枠 #94",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=8",
   "source": "suu_usuwa.js"
@@ -10160,7 +10160,7 @@ window.SONG_DATA.push(
     {
   "title": "ハナミズキ",
   "artist": "一青窈",
-  "collection": "【 稀羽すう 】水曜定期歌枠 #94",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=9",
   "source": "suu_usuwa.js"
@@ -10168,7 +10168,7 @@ window.SONG_DATA.push(
     {
   "title": "都落ち",
   "artist": "ヨルシカ",
-  "collection": "【 稀羽すう 】水曜定期歌枠 #94",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=10",
   "source": "suu_usuwa.js"
@@ -10176,7 +10176,7 @@ window.SONG_DATA.push(
     {
   "title": "アルジャーノン",
   "artist": "ヨルシカ",
-  "collection": "【 稀羽すう 】水曜定期歌枠 #94",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=11",
   "source": "suu_usuwa.js"
@@ -10184,7 +10184,7 @@ window.SONG_DATA.push(
     {
   "title": "きらきら武士",
   "artist": "レキシ",
-  "collection": "【 稀羽すう 】水曜定期歌枠 #94",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=12",
   "source": "suu_usuwa.js"
@@ -10192,7 +10192,7 @@ window.SONG_DATA.push(
     {
   "title": "さよーならまたいつか！",
   "artist": "米津玄師(2)",
-  "collection": "【 稀羽すう 】水曜定期歌枠 #94",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=13",
   "source": "suu_usuwa.js"
@@ -10200,7 +10200,7 @@ window.SONG_DATA.push(
     {
   "title": "エイリアンズ",
   "artist": "キリンジ",
-  "collection": "【 稀羽すう 】水曜定期歌枠 #94",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=14",
   "source": "suu_usuwa.js"
@@ -10208,7 +10208,7 @@ window.SONG_DATA.push(
     {
   "title": "SUN",
   "artist": "星野源",
-  "collection": "【 稀羽すう 】昼下がりにお歌はいかが？ 15 250112",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=1",
   "source": "suu_usuwa.js"
@@ -10216,7 +10216,7 @@ window.SONG_DATA.push(
     {
   "title": "うるわしきひと",
   "artist": "いきものがかり",
-  "collection": "【 稀羽すう 】昼下がりにお歌はいかが？ 15 250112",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=2",
   "source": "suu_usuwa.js"
@@ -10224,7 +10224,7 @@ window.SONG_DATA.push(
     {
   "title": "きらり",
   "artist": "藤井 風",
-  "collection": "【 稀羽すう 】昼下がりにお歌はいかが？ 15 250112",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=3",
   "source": "suu_usuwa.js"
@@ -10232,7 +10232,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ",
-  "collection": "【 稀羽すう 】昼下がりにお歌はいかが？ 15 250112",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=4",
   "source": "suu_usuwa.js"
@@ -10240,7 +10240,7 @@ window.SONG_DATA.push(
     {
   "title": "春擬き",
   "artist": "やなぎなぎ",
-  "collection": "【 稀羽すう 】昼下がりにお歌はいかが？ 15 250112",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=5",
   "source": "suu_usuwa.js"
@@ -10248,7 +10248,7 @@ window.SONG_DATA.push(
     {
   "title": "もう恋なんてしない",
   "artist": "槇原敬之",
-  "collection": "【 稀羽すう 】昼下がりにお歌はいかが？ 15 250112",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=6",
   "source": "suu_usuwa.js"
@@ -10256,7 +10256,7 @@ window.SONG_DATA.push(
     {
   "title": "ヴィーナスとジーザス",
   "artist": "やくしまるえつこ",
-  "collection": "【 稀羽すう 】昼下がりにお歌はいかが？ 15 250112",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=7",
   "source": "suu_usuwa.js"
@@ -10264,7 +10264,7 @@ window.SONG_DATA.push(
     {
   "title": "少年よ我に帰れ",
   "artist": "やくしまるえつこ",
-  "collection": "【 稀羽すう 】昼下がりにお歌はいかが？ 15 250112",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=8",
   "source": "suu_usuwa.js"
@@ -10272,7 +10272,7 @@ window.SONG_DATA.push(
     {
   "title": "チャイナアドバイス",
   "artist": "相対性理論",
-  "collection": "【 稀羽すう 】昼下がりにお歌はいかが？ 15 250112",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=9",
   "source": "suu_usuwa.js"
@@ -10280,7 +10280,7 @@ window.SONG_DATA.push(
     {
   "title": "秒針を噛む",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【 稀羽すう 】昼下がりにお歌はいかが？ 15 250112",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=10",
   "source": "suu_usuwa.js"
@@ -10288,7 +10288,7 @@ window.SONG_DATA.push(
     {
   "title": "ダーリン",
   "artist": "須田景凪",
-  "collection": "【 稀羽すう 】昼下がりにお歌はいかが？ 15 250112",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=11",
   "source": "suu_usuwa.js"
@@ -10296,7 +10296,7 @@ window.SONG_DATA.push(
     {
   "title": "ギラギラ",
   "artist": "Ado",
-  "collection": "【 稀羽すう 】昼下がりにお歌はいかが？ 15 250112",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=12",
   "source": "suu_usuwa.js"
@@ -10304,7 +10304,7 @@ window.SONG_DATA.push(
     {
   "title": "レディメイド",
   "artist": "Ado",
-  "collection": "【 稀羽すう 】昼下がりにお歌はいかが？ 15 250112",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=13",
   "source": "suu_usuwa.js"
@@ -10312,7 +10312,7 @@ window.SONG_DATA.push(
     {
   "title": "シャルル",
   "artist": "バルーン",
-  "collection": "【 稀羽すう 】昼下がりにお歌はいかが？ 15 250112",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=14",
   "source": "suu_usuwa.js"
@@ -10320,7 +10320,7 @@ window.SONG_DATA.push(
     {
   "title": "左右盲",
   "artist": "ヨルシカ",
-  "collection": "【 稀羽すう 】昼下がりにお歌はいかが？ 15 250112",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=15",
   "source": "suu_usuwa.js"
@@ -10328,7 +10328,7 @@ window.SONG_DATA.push(
     {
   "title": "LA・LA・LA LOVE SONG-久保田利伸",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】水曜定期歌枠 #95",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -10336,7 +10336,7 @@ window.SONG_DATA.push(
     {
   "title": "I LOVE...-official髭男dism",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】水曜定期歌枠 #95",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -10344,7 +10344,7 @@ window.SONG_DATA.push(
     {
   "title": "小さな恋のうた-MONGOL800",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】水曜定期歌枠 #95",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -10352,7 +10352,7 @@ window.SONG_DATA.push(
     {
   "title": "恋-星野源",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】水曜定期歌枠 #95",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -10360,7 +10360,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒-ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】水曜定期歌枠 #95",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -10368,7 +10368,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーチラス-ヨルシカ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】水曜定期歌枠 #95",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -10376,7 +10376,7 @@ window.SONG_DATA.push(
     {
   "title": "First Love-宇多田ヒカル",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】水曜定期歌枠 #95",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -10384,7 +10384,7 @@ window.SONG_DATA.push(
     {
   "title": "プラスティック・ラブ-竹内まりや",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】水曜定期歌枠 #95",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -10392,7 +10392,7 @@ window.SONG_DATA.push(
     {
   "title": "シリョクケンサ-40mP",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】水曜定期歌枠 #95",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -10400,7 +10400,7 @@ window.SONG_DATA.push(
     {
   "title": "サリシノハラ-みきとP",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】水曜定期歌枠 #95",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -10408,7 +10408,7 @@ window.SONG_DATA.push(
     {
   "title": "メルト-ryo",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】水曜定期歌枠 #95",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -10416,7 +10416,7 @@ window.SONG_DATA.push(
     {
   "title": "いかないで-想太",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】水曜定期歌枠 #95",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=12",
   "source": "suu_usuwa.js"
@@ -10424,7 +10424,7 @@ window.SONG_DATA.push(
     {
   "title": "rain stops, good-bye-におP",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】水曜定期歌枠 #95",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=13",
   "source": "suu_usuwa.js"
@@ -10432,7 +10432,7 @@ window.SONG_DATA.push(
     {
   "title": "たぶん-YOASOBI",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう】水曜定期歌枠 #95",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=14",
   "source": "suu_usuwa.js"
@@ -10440,7 +10440,7 @@ window.SONG_DATA.push(
     {
   "title": "オリオンをなぞる-UNISON SQUARE GARDEN",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】アニソンしばり歌枠⚡ 15 2025年1月16日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -10448,7 +10448,7 @@ window.SONG_DATA.push(
     {
   "title": "星座になれたら-結束バンド",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】アニソンしばり歌枠⚡ 15 2025年1月16日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -10456,7 +10456,7 @@ window.SONG_DATA.push(
     {
   "title": "おジャ魔女カーニバル!!-MAHO堂",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】アニソンしばり歌枠⚡ 15 2025年1月16日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -10464,7 +10464,7 @@ window.SONG_DATA.push(
     {
   "title": "サインはB-B小町",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】アニソンしばり歌枠⚡ 15 2025年1月16日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -10472,7 +10472,7 @@ window.SONG_DATA.push(
     {
   "title": "ライオン-シェリル・ノーム starring May'n,ランカ・リー(中島愛)",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】アニソンしばり歌枠⚡ 15 2025年1月16日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -10480,7 +10480,7 @@ window.SONG_DATA.push(
     {
   "title": "君じゃなきゃダメみたい-オーイシマサヨシ",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】アニソンしばり歌枠⚡ 15 2025年1月16日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -10488,7 +10488,7 @@ window.SONG_DATA.push(
     {
   "title": "廻廻奇譚-Eve",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】アニソンしばり歌枠⚡ 15 2025年1月16日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -10496,7 +10496,7 @@ window.SONG_DATA.push(
     {
   "title": "曇天-DOES",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】アニソンしばり歌枠⚡ 15 2025年1月16日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -10504,7 +10504,7 @@ window.SONG_DATA.push(
     {
   "title": "青空のナミダ-高橋瞳",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】アニソンしばり歌枠⚡ 15 2025年1月16日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -10512,7 +10512,7 @@ window.SONG_DATA.push(
     {
   "title": "ファタール-GEMN",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】アニソンしばり歌枠⚡ 15 2025年1月16日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -10520,7 +10520,7 @@ window.SONG_DATA.push(
     {
   "title": "シャル・ウィ・ダンス？-ReoNa",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】アニソンしばり歌枠⚡ 15 2025年1月16日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -10528,7 +10528,7 @@ window.SONG_DATA.push(
     {
   "title": "One Last Kiss-宇多田ヒカル",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】アニソンしばり歌枠⚡ 15 2025年1月16日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=12",
   "source": "suu_usuwa.js"
@@ -10536,7 +10536,7 @@ window.SONG_DATA.push(
     {
   "title": "Beautiful World-宇多田ヒカル",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】アニソンしばり歌枠⚡ 15 2025年1月16日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=13",
   "source": "suu_usuwa.js"
@@ -10544,7 +10544,7 @@ window.SONG_DATA.push(
     {
   "title": "残酷な天使のテーゼ-高橋洋子",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】アニソンしばり歌枠⚡ 15 2025年1月16日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=14",
   "source": "suu_usuwa.js"
@@ -10552,7 +10552,7 @@ window.SONG_DATA.push(
     {
   "title": "創聖のアクエリオン-AKINO",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】アニソンしばり歌枠⚡ 15 2025年1月16日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=15",
   "source": "suu_usuwa.js"
@@ -10560,7 +10560,7 @@ window.SONG_DATA.push(
     {
   "title": "桜キッス-河辺千恵子",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】JOYSOUND for STREAMERで歌う！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -10568,7 +10568,7 @@ window.SONG_DATA.push(
     {
   "title": "朝ごはんの歌-手嶌葵",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】JOYSOUND for STREAMERで歌う！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -10576,7 +10576,7 @@ window.SONG_DATA.push(
     {
   "title": "ブラザーズ-Official髭男dism",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】JOYSOUND for STREAMERで歌う！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -10584,7 +10584,7 @@ window.SONG_DATA.push(
     {
   "title": "恋の前ならえ-Official髭男dism",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】JOYSOUND for STREAMERで歌う！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -10592,7 +10592,7 @@ window.SONG_DATA.push(
     {
   "title": "Clap Clap-Official髭男dism",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】JOYSOUND for STREAMERで歌う！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -10600,7 +10600,7 @@ window.SONG_DATA.push(
     {
   "title": "Supernova-雄之助×春野",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】JOYSOUND for STREAMERで歌う！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -10608,7 +10608,7 @@ window.SONG_DATA.push(
     {
   "title": "赤道を超えたら-椎名林檎",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】JOYSOUND for STREAMERで歌う！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -10616,7 +10616,7 @@ window.SONG_DATA.push(
     {
   "title": "Crazy Crazy-星野源",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】JOYSOUND for STREAMERで歌う！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -10624,7 +10624,7 @@ window.SONG_DATA.push(
     {
   "title": "family song-星野源",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】JOYSOUND for STREAMERで歌う！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -10632,7 +10632,7 @@ window.SONG_DATA.push(
     {
   "title": "ワークソング-星野源",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】JOYSOUND for STREAMERで歌う！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -10640,7 +10640,7 @@ window.SONG_DATA.push(
     {
   "title": "ユニバーサル・バニー-シェリル・ノーム starring May'n",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】JOYSOUND for STREAMERで歌う！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -10648,7 +10648,7 @@ window.SONG_DATA.push(
     {
   "title": "pink monsoon-シェリル・ノーム starring May'n",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】JOYSOUND for STREAMERで歌う！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=12",
   "source": "suu_usuwa.js"
@@ -10656,7 +10656,7 @@ window.SONG_DATA.push(
     {
   "title": "RIDE ON TIME-山下 達郎",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】JOYSOUND for STREAMERで歌う！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=13",
   "source": "suu_usuwa.js"
@@ -10664,7 +10664,7 @@ window.SONG_DATA.push(
     {
   "title": "Bye Bye-フジファブリック",
   "artist": "前尘往事如昔故",
-  "collection": "【 稀羽すう 】JOYSOUND for STREAMERで歌う！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=14",
   "source": "suu_usuwa.js"
@@ -10672,7 +10672,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌",
   "artist": "tuki.",
-  "collection": "【 稀羽すう 】深夜にまったり縦型歌枠🌙 2025年1月23日 13",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -10680,7 +10680,7 @@ window.SONG_DATA.push(
     {
   "title": "カタオモイ",
   "artist": "Aimer",
-  "collection": "【 稀羽すう 】深夜にまったり縦型歌枠🌙 2025年1月23日 13",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -10688,7 +10688,7 @@ window.SONG_DATA.push(
     {
   "title": "踊り子",
   "artist": "Vaundy",
-  "collection": "【 稀羽すう 】深夜にまったり縦型歌枠🌙 2025年1月23日 13",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -10696,7 +10696,7 @@ window.SONG_DATA.push(
     {
   "title": "東京フラッシュ",
   "artist": "Vaundy",
-  "collection": "【 稀羽すう 】深夜にまったり縦型歌枠🌙 2025年1月23日 13",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -10704,7 +10704,7 @@ window.SONG_DATA.push(
     {
   "title": "帰ろう",
   "artist": "藤井風",
-  "collection": "【 稀羽すう 】深夜にまったり縦型歌枠🌙 2025年1月23日 13",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -10712,7 +10712,7 @@ window.SONG_DATA.push(
     {
   "title": "ベテルギウス",
   "artist": "優里",
-  "collection": "【 稀羽すう 】深夜にまったり縦型歌枠🌙 2025年1月23日 13",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -10720,7 +10720,7 @@ window.SONG_DATA.push(
     {
   "title": "ドライフラワー",
   "artist": "優里",
-  "collection": "【 稀羽すう 】深夜にまったり縦型歌枠🌙 2025年1月23日 13",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -10728,7 +10728,7 @@ window.SONG_DATA.push(
     {
   "title": "変わらないもの",
   "artist": "奥華子",
-  "collection": "【 稀羽すう 】深夜にまったり縦型歌枠🌙 2025年1月23日 13",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -10736,7 +10736,7 @@ window.SONG_DATA.push(
     {
   "title": "ガーネット",
   "artist": "奥華子",
-  "collection": "【 稀羽すう 】深夜にまったり縦型歌枠🌙 2025年1月23日 13",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -10744,7 +10744,7 @@ window.SONG_DATA.push(
     {
   "title": "One more time,One more chance",
   "artist": "山崎まさよし",
-  "collection": "【 稀羽すう 】深夜にまったり縦型歌枠🌙 2025年1月23日 13",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -10752,7 +10752,7 @@ window.SONG_DATA.push(
     {
   "title": "幾億光年",
   "artist": "Omoinotake",
-  "collection": "【 稀羽すう 】深夜にまったり縦型歌枠🌙 2025年1月23日 13",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -10760,7 +10760,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れられないの",
   "artist": "サカナクション",
-  "collection": "【 稀羽すう 】深夜にまったり縦型歌枠🌙 2025年1月23日 13",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=12",
   "source": "suu_usuwa.js"
@@ -10768,7 +10768,7 @@ window.SONG_DATA.push(
     {
   "title": "寝・逃・げでリセット！",
   "artist": "柊つかさ(福原香織)",
-  "collection": "【 稀羽すう 】深夜にまったり縦型歌枠🌙 2025年1月23日 13",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=13",
   "source": "suu_usuwa.js"
@@ -10776,7 +10776,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ",
-  "collection": "【 稀羽すう】22 水曜定期歌枠 #96 + #97",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -10784,7 +10784,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄",
   "artist": "Vaundy",
-  "collection": "【 稀羽すう】22 水曜定期歌枠 #96 + #97",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -10792,7 +10792,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒",
   "artist": "ヨルシカ",
-  "collection": "【 稀羽すう】22 水曜定期歌枠 #96 + #97",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -10800,7 +10800,7 @@ window.SONG_DATA.push(
     {
   "title": "赤いスイートピー",
   "artist": "松田聖子",
-  "collection": "【 稀羽すう】22 水曜定期歌枠 #96 + #97",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -10808,7 +10808,7 @@ window.SONG_DATA.push(
     {
   "title": "ガーデン",
   "artist": "藤井風",
-  "collection": "【 稀羽すう】22 水曜定期歌枠 #96 + #97",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -10816,7 +10816,7 @@ window.SONG_DATA.push(
     {
   "title": "POP STAR",
   "artist": "平井堅",
-  "collection": "【 稀羽すう】22 水曜定期歌枠 #96 + #97",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -10824,7 +10824,7 @@ window.SONG_DATA.push(
     {
   "title": "水平線",
   "artist": "back number",
-  "collection": "【 稀羽すう】22 水曜定期歌枠 #96 + #97",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -10832,7 +10832,7 @@ window.SONG_DATA.push(
     {
   "title": "群青",
   "artist": "YOASOBI",
-  "collection": "【 稀羽すう】22 水曜定期歌枠 #96 + #97",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -10840,7 +10840,7 @@ window.SONG_DATA.push(
     {
   "title": "灰色と青",
   "artist": "米津玄師＆菅田将暉",
-  "collection": "【 稀羽すう】22 水曜定期歌枠 #96 + #97",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -10848,7 +10848,7 @@ window.SONG_DATA.push(
     {
   "title": "空も飛べるはず",
   "artist": "スピッツ",
-  "collection": "【 稀羽すう】22 水曜定期歌枠 #96 + #97",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -10856,7 +10856,7 @@ window.SONG_DATA.push(
     {
   "title": "風待ちジェット",
   "artist": "坂本真綾",
-  "collection": "【 稀羽すう】22 水曜定期歌枠 #96 + #97",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -10864,7 +10864,7 @@ window.SONG_DATA.push(
     {
   "title": "雪の華",
   "artist": "中島美嘉",
-  "collection": "【 稀羽すう】22 水曜定期歌枠 #96 + #97",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=12",
   "source": "suu_usuwa.js"
@@ -10872,7 +10872,7 @@ window.SONG_DATA.push(
     {
   "title": "ロマンスの神様",
   "artist": "広瀬香美",
-  "collection": "【 稀羽すう】22 水曜定期歌枠 #96 + #97",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=13",
   "source": "suu_usuwa.js"
@@ -10880,7 +10880,7 @@ window.SONG_DATA.push(
     {
   "title": "幾億光年",
   "artist": "Omoinotake",
-  "collection": "【 稀羽すう】22 水曜定期歌枠 #96 + #97",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=14",
   "source": "suu_usuwa.js"
@@ -10888,7 +10888,7 @@ window.SONG_DATA.push(
     {
   "title": "死ぬのがいいわ",
   "artist": "藤井風",
-  "collection": "【 稀羽すう】22 水曜定期歌枠 #96 + #97",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=15",
   "source": "suu_usuwa.js"
@@ -10896,7 +10896,7 @@ window.SONG_DATA.push(
     {
   "title": "満ちてゆく",
   "artist": "藤井風",
-  "collection": "【 稀羽すう】22 水曜定期歌枠 #96 + #97",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=16",
   "source": "suu_usuwa.js"
@@ -10904,7 +10904,7 @@ window.SONG_DATA.push(
     {
   "title": "Lemon",
   "artist": "米津玄師",
-  "collection": "【 稀羽すう】22 水曜定期歌枠 #96 + #97",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=17",
   "source": "suu_usuwa.js"
@@ -10912,7 +10912,7 @@ window.SONG_DATA.push(
     {
   "title": "愛を伝えたいだとか",
   "artist": "あいみょん",
-  "collection": "【 稀羽すう】22 水曜定期歌枠 #96 + #97",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=18",
   "source": "suu_usuwa.js"
@@ -10920,7 +10920,7 @@ window.SONG_DATA.push(
     {
   "title": "NIGHT DANCER",
   "artist": "imase",
-  "collection": "【 稀羽すう】22 水曜定期歌枠 #96 + #97",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=19",
   "source": "suu_usuwa.js"
@@ -10928,7 +10928,7 @@ window.SONG_DATA.push(
     {
   "title": "melt bitter",
   "artist": "さとうもか",
-  "collection": "【 稀羽すう】22 水曜定期歌枠 #96 + #97",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=20",
   "source": "suu_usuwa.js"
@@ -10936,7 +10936,7 @@ window.SONG_DATA.push(
     {
   "title": "そうだよ。",
   "artist": "ランカ・リー(中島愛)",
-  "collection": "【 稀羽すう】22 水曜定期歌枠 #96 + #97",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=21",
   "source": "suu_usuwa.js"
@@ -10944,7 +10944,7 @@ window.SONG_DATA.push(
     {
   "title": "Good-bye days",
   "artist": "YUI",
-  "collection": "【 稀羽すう】22 水曜定期歌枠 #96 + #97",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=22",
   "source": "suu_usuwa.js"
@@ -10952,7 +10952,7 @@ window.SONG_DATA.push(
     {
   "title": "真夜中のドア〜stay with me",
   "artist": "松原みき",
-  "collection": "【 稀羽すう  ＃巫てんり主催歌枠リレーResonance 】シティポップしばりでおしゃれな夜にします🕺✨",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -10960,7 +10960,7 @@ window.SONG_DATA.push(
     {
   "title": "RIDE ON TIME",
   "artist": "山下 達郎",
-  "collection": "【 稀羽すう  ＃巫てんり主催歌枠リレーResonance 】シティポップしばりでおしゃれな夜にします🕺✨",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -10968,7 +10968,7 @@ window.SONG_DATA.push(
     {
   "title": "プラスティック・ラブ",
   "artist": "竹内まりや",
-  "collection": "【 稀羽すう  ＃巫てんり主催歌枠リレーResonance 】シティポップしばりでおしゃれな夜にします🕺✨",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -10976,7 +10976,7 @@ window.SONG_DATA.push(
     {
   "title": "フライディ・チャイナタウン",
   "artist": "泰葉",
-  "collection": "【 稀羽すう  ＃巫てんり主催歌枠リレーResonance 】シティポップしばりでおしゃれな夜にします🕺✨",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -10984,7 +10984,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI",
-  "collection": "【 #メメメのメ 歌枠リレー 】だつりょく系Vsinger、わたしらしく歌います🦢✨【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -10992,7 +10992,7 @@ window.SONG_DATA.push(
     {
   "title": "たばこ",
   "artist": "コレサワ",
-  "collection": "【 #メメメのメ 歌枠リレー 】だつりょく系Vsinger、わたしらしく歌います🦢✨【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -11000,7 +11000,7 @@ window.SONG_DATA.push(
     {
   "title": "らしく。",
   "artist": "稀羽すう",
-  "collection": "【 #メメメのメ 歌枠リレー 】だつりょく系Vsinger、わたしらしく歌います🦢✨【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -11008,7 +11008,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄",
   "artist": "Vaundy",
-  "collection": "【 #メメメのメ 歌枠リレー 】だつりょく系Vsinger、わたしらしく歌います🦢✨【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -11016,7 +11016,7 @@ window.SONG_DATA.push(
     {
   "title": "チェリー",
   "artist": "スピッツ",
-  "collection": "【 稀羽すう 】バンド曲しばり歌枠🎸 2025年2月8日🎸 乐队曲目限定歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -11024,7 +11024,7 @@ window.SONG_DATA.push(
     {
   "title": "小さな恋のうた",
   "artist": "MONGOL800",
-  "collection": "【 稀羽すう 】バンド曲しばり歌枠🎸 2025年2月8日🎸 乐队曲目限定歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -11032,7 +11032,7 @@ window.SONG_DATA.push(
     {
   "title": "ファジーネーブル",
   "artist": "Conton Candy",
-  "collection": "【 稀羽すう 】バンド曲しばり歌枠🎸 2025年2月8日🎸 乐队曲目限定歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -11040,7 +11040,7 @@ window.SONG_DATA.push(
     {
   "title": "ブルーバード",
   "artist": "いきものがかり",
-  "collection": "【 稀羽すう 】バンド曲しばり歌枠🎸 2025年2月8日🎸 乐队曲目限定歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -11048,7 +11048,7 @@ window.SONG_DATA.push(
     {
   "title": "花は桜 君は美し",
   "artist": "いきものがかり",
-  "collection": "【 稀羽すう 】バンド曲しばり歌枠🎸 2025年2月8日🎸 乐队曲目限定歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -11056,7 +11056,7 @@ window.SONG_DATA.push(
     {
   "title": "シンデレラボーイ",
   "artist": "Saucy Dog",
-  "collection": "【 稀羽すう 】バンド曲しばり歌枠🎸 2025年2月8日🎸 乐队曲目限定歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -11064,7 +11064,7 @@ window.SONG_DATA.push(
     {
   "title": "若者のすべて",
   "artist": "フジファブリック",
-  "collection": "【 稀羽すう 】バンド曲しばり歌枠🎸 2025年2月8日🎸 乐队曲目限定歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -11072,7 +11072,7 @@ window.SONG_DATA.push(
     {
   "title": "赤黄色の金木犀",
   "artist": "フジファブリック",
-  "collection": "【 稀羽すう 】バンド曲しばり歌枠🎸 2025年2月8日🎸 乐队曲目限定歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -11080,7 +11080,7 @@ window.SONG_DATA.push(
     {
   "title": "世界はそれを愛と呼ぶんだぜ",
   "artist": "无",
-  "collection": "【 稀羽すう 】バンド曲しばり歌枠🎸 2025年2月8日🎸 乐队曲目限定歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -11088,7 +11088,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【 稀羽すう 】バンド曲しばり歌枠🎸 2025年2月8日🎸 乐队曲目限定歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -11096,7 +11096,7 @@ window.SONG_DATA.push(
     {
   "title": "ケセラセラ",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【 稀羽すう 】バンド曲しばり歌枠🎸 2025年2月8日🎸 乐队曲目限定歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -11104,7 +11104,7 @@ window.SONG_DATA.push(
     {
   "title": "シュガーソングとビターステップ",
   "artist": "UNISON SQUARE GARDEN",
-  "collection": "【 稀羽すう 】バンド曲しばり歌枠🎸 2025年2月8日🎸 乐队曲目限定歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=12",
   "source": "suu_usuwa.js"
@@ -11112,7 +11112,7 @@ window.SONG_DATA.push(
     {
   "title": "幾億光年",
   "artist": "Omoinotake",
-  "collection": "【 稀羽すう 】バンド曲しばり歌枠🎸 2025年2月8日🎸 乐队曲目限定歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=13",
   "source": "suu_usuwa.js"
@@ -11120,7 +11120,7 @@ window.SONG_DATA.push(
     {
   "title": "天体観測",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【 稀羽すう 】バンド曲しばり歌枠🎸 2025年2月8日🎸 乐队曲目限定歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=14",
   "source": "suu_usuwa.js"
@@ -11128,7 +11128,7 @@ window.SONG_DATA.push(
     {
   "title": "バレンタイン・キッス",
   "artist": "国生さゆり",
-  "collection": "【 稀羽すう】穿着新服装的情人节歌枠 🍫",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=1",
   "source": "suu_usuwa.js"
@@ -11136,7 +11136,7 @@ window.SONG_DATA.push(
     {
   "title": "Cafe Parade!",
   "artist": "Cafe Parade",
-  "collection": "【 稀羽すう】穿着新服装的情人节歌枠 🍫",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=2",
   "source": "suu_usuwa.js"
@@ -11144,7 +11144,7 @@ window.SONG_DATA.push(
     {
   "title": "Ready To Party",
   "artist": "稀羽すう",
-  "collection": "【 稀羽すう】穿着新服装的情人节歌枠 🍫",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=3",
   "source": "suu_usuwa.js"
@@ -11152,7 +11152,7 @@ window.SONG_DATA.push(
     {
   "title": "スイートマジック",
   "artist": "ろん×Junky",
-  "collection": "【 稀羽すう】穿着新服装的情人节歌枠 🍫",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=4",
   "source": "suu_usuwa.js"
@@ -11160,7 +11160,7 @@ window.SONG_DATA.push(
     {
   "title": "CANDY CANDY",
   "artist": "きゃりーぱみゅぱみゅ",
-  "collection": "【 稀羽すう】穿着新服装的情人节歌枠 🍫",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=5",
   "source": "suu_usuwa.js"
@@ -11168,7 +11168,7 @@ window.SONG_DATA.push(
     {
   "title": "けーたいみしてよ",
   "artist": "MAISONdes",
-  "collection": "【 稀羽すう】穿着新服装的情人节歌枠 🍫",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=6",
   "source": "suu_usuwa.js"
@@ -11176,7 +11176,7 @@ window.SONG_DATA.push(
     {
   "title": "気まぐれロマンティック",
   "artist": "いきものがかり",
-  "collection": "【 稀羽すう】穿着新服装的情人节歌枠 🍫",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=7",
   "source": "suu_usuwa.js"
@@ -11184,7 +11184,7 @@ window.SONG_DATA.push(
     {
   "title": "CHE.R.RY",
   "artist": "YUI",
-  "collection": "【 稀羽すう】穿着新服装的情人节歌枠 🍫",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=8",
   "source": "suu_usuwa.js"
@@ -11192,7 +11192,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【 稀羽すう】穿着新服装的情人节歌枠 🍫",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=9",
   "source": "suu_usuwa.js"
@@ -11200,7 +11200,7 @@ window.SONG_DATA.push(
     {
   "title": "不可幸力",
   "artist": "Vaund",
-  "collection": "【 稀羽すう】穿着新服装的情人节歌枠 🍫",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=10",
   "source": "suu_usuwa.js"
@@ -11208,7 +11208,7 @@ window.SONG_DATA.push(
     {
   "title": "フライデーナイト",
   "artist": "なとり",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠#98【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -11216,7 +11216,7 @@ window.SONG_DATA.push(
     {
   "title": "Beautiful World",
   "artist": "宇多田ヒカル",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠#98【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -11224,7 +11224,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーザンクロス",
   "artist": "シェリル・ノーム starring May'n",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠#98【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -11232,7 +11232,7 @@ window.SONG_DATA.push(
     {
   "title": "One Last Kiss",
   "artist": "宇多田ヒカル",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠#98【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -11240,7 +11240,7 @@ window.SONG_DATA.push(
     {
   "title": "Supernova",
   "artist": "雄之助×春野",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠#98【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -11248,7 +11248,7 @@ window.SONG_DATA.push(
     {
   "title": "不可幸力",
   "artist": "Vaundy",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠#98【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -11256,7 +11256,7 @@ window.SONG_DATA.push(
     {
   "title": "SPiCa",
   "artist": "とくP",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠#98【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -11264,7 +11264,7 @@ window.SONG_DATA.push(
     {
   "title": "＊ハロー、プラネット。",
   "artist": "sasakure.UK",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠#98【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -11272,7 +11272,7 @@ window.SONG_DATA.push(
     {
   "title": "カムパネルラ",
   "artist": "sasakure.UK",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠#98【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -11280,7 +11280,7 @@ window.SONG_DATA.push(
     {
   "title": "ワールドイズマイン",
   "artist": "ryo",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠#98【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -11288,7 +11288,7 @@ window.SONG_DATA.push(
     {
   "title": "恋は戦争",
   "artist": "ryo",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠#98【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -11296,7 +11296,7 @@ window.SONG_DATA.push(
     {
   "title": "地球儀",
   "artist": "米津玄師",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠#98【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=12",
   "source": "suu_usuwa.js"
@@ -11304,7 +11304,7 @@ window.SONG_DATA.push(
     {
   "title": "テルーの唄",
   "artist": "手嶌葵",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠#98【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=13",
   "source": "suu_usuwa.js"
@@ -11312,7 +11312,7 @@ window.SONG_DATA.push(
     {
   "title": "勇気100%",
   "artist": "光GENJI",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠#98【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=14",
   "source": "suu_usuwa.js"
@@ -11320,7 +11320,7 @@ window.SONG_DATA.push(
     {
   "title": "Climax jump",
   "artist": "AAA DEN-O form",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠#98【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=15",
   "source": "suu_usuwa.js"
@@ -11328,7 +11328,7 @@ window.SONG_DATA.push(
     {
   "title": "アンインストール",
   "artist": "石川智晶",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠#98【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=16",
   "source": "suu_usuwa.js"
@@ -11336,7 +11336,7 @@ window.SONG_DATA.push(
     {
   "title": "3月9日",
   "artist": "レミオロメン",
-  "collection": "【稀羽すう/Re:AcT】无回声(混响)的歌枠!? ✦ 【歌枠/KARAOKE】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -11344,7 +11344,7 @@ window.SONG_DATA.push(
     {
   "title": "カタオモイ",
   "artist": "Aimer",
-  "collection": "【稀羽すう/Re:AcT】无回声(混响)的歌枠!? ✦ 【歌枠/KARAOKE】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -11352,7 +11352,7 @@ window.SONG_DATA.push(
     {
   "title": "奏",
   "artist": "スキマスイッチ",
-  "collection": "【稀羽すう/Re:AcT】无回声(混响)的歌枠!? ✦ 【歌枠/KARAOKE】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -11360,7 +11360,7 @@ window.SONG_DATA.push(
     {
   "title": "風を食む",
   "artist": "ヨルシカ",
-  "collection": "【稀羽すう/Re:AcT】无回声(混响)的歌枠!? ✦ 【歌枠/KARAOKE】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -11368,7 +11368,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI",
-  "collection": "【稀羽すう/Re:AcT】无回声(混响)的歌枠!? ✦ 【歌枠/KARAOKE】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -11376,7 +11376,7 @@ window.SONG_DATA.push(
     {
   "title": "らしく。",
   "artist": "稀羽すう",
-  "collection": "【稀羽すう/Re:AcT】无回声(混响)的歌枠!? ✦ 【歌枠/KARAOKE】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -11384,7 +11384,7 @@ window.SONG_DATA.push(
     {
   "title": "愛を伝えたいだとか",
   "artist": "あいみょん",
-  "collection": "【稀羽すう/Re:AcT】无回声(混响)的歌枠!? ✦ 【歌枠/KARAOKE】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -11392,7 +11392,7 @@ window.SONG_DATA.push(
     {
   "title": "満ちてゆく",
   "artist": "藤井風",
-  "collection": "【稀羽すう/Re:AcT】无回声(混响)的歌枠!? ✦ 【歌枠/KARAOKE】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -11400,7 +11400,7 @@ window.SONG_DATA.push(
     {
   "title": "君の知らない物語",
   "artist": "supercell",
-  "collection": "【稀羽すう/Re:AcT】无回声(混响)的歌枠!? ✦ 【歌枠/KARAOKE】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -11408,7 +11408,7 @@ window.SONG_DATA.push(
     {
   "title": "NIGHT DANCER",
   "artist": "imase",
-  "collection": "【稀羽すう/Re:AcT】无回声(混响)的歌枠!? ✦ 【歌枠/KARAOKE】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -11416,7 +11416,7 @@ window.SONG_DATA.push(
     {
   "title": "踊り子",
   "artist": "Vaundy",
-  "collection": "【稀羽すう/Re:AcT】无回声(混响)的歌枠!? ✦ 【歌枠/KARAOKE】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -11424,7 +11424,7 @@ window.SONG_DATA.push(
     {
   "title": "春を告げる",
   "artist": "yama",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠 #99【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -11432,7 +11432,7 @@ window.SONG_DATA.push(
     {
   "title": "祝福",
   "artist": "YOASOBI",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠 #99【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -11440,7 +11440,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠 #99【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -11448,7 +11448,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーダウト",
   "artist": "Official髭男dism",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠 #99【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -11456,7 +11456,7 @@ window.SONG_DATA.push(
     {
   "title": "夜に駆ける",
   "artist": "YOASOBI",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠 #99【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -11464,7 +11464,7 @@ window.SONG_DATA.push(
     {
   "title": "アイドル",
   "artist": "YOASOBI",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠 #99【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -11472,7 +11472,7 @@ window.SONG_DATA.push(
     {
   "title": "ファタール",
   "artist": "GEMN",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠 #99【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -11480,7 +11480,7 @@ window.SONG_DATA.push(
     {
   "title": "Mornin' Belll",
   "artist": "稀羽すう",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠 #99【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -11488,7 +11488,7 @@ window.SONG_DATA.push(
     {
   "title": "Paradise Lost",
   "artist": "茅原実里",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠 #99【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -11496,7 +11496,7 @@ window.SONG_DATA.push(
     {
   "title": "射手座☆午後九時Don't be late",
   "artist": "シェリル・ノーム starring May'n",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠 #99【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -11504,7 +11504,7 @@ window.SONG_DATA.push(
     {
   "title": "KissHug",
   "artist": "aiko",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠 #99【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -11512,7 +11512,7 @@ window.SONG_DATA.push(
     {
   "title": "ハナミズキ",
   "artist": "一青窈",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠 #99【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=12",
   "source": "suu_usuwa.js"
@@ -11520,7 +11520,7 @@ window.SONG_DATA.push(
     {
   "title": "君がいて水になる",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠 #99【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=13",
   "source": "suu_usuwa.js"
@@ -11528,7 +11528,7 @@ window.SONG_DATA.push(
     {
   "title": "名前のない怪物",
   "artist": "EGOIST",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠 #99【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=14",
   "source": "suu_usuwa.js"
@@ -11536,7 +11536,7 @@ window.SONG_DATA.push(
     {
   "title": "雪、無音、窓辺にて。",
   "artist": "長門有希 (CV.茅原実里)",
-  "collection": "【 稀羽すう/Re:AcT 】縦型歌枠 #shorts #Vtuber 2025年02月28日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -11544,7 +11544,7 @@ window.SONG_DATA.push(
     {
   "title": "オレンジ",
   "artist": "逢坂大河(釘宮理恵),櫛枝実乃梨(堀江由衣),川嶋亜美(喜多村英梨)",
-  "collection": "【 稀羽すう/Re:AcT 】縦型歌枠 #shorts #Vtuber 2025年02月28日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -11552,7 +11552,7 @@ window.SONG_DATA.push(
     {
   "title": "プレパレード",
   "artist": "逢坂大河(釘宮理恵)・櫛枝実乃梨(堀江由衣)・川嶋亜美(喜多村英梨)",
-  "collection": "【 稀羽すう/Re:AcT 】縦型歌枠 #shorts #Vtuber 2025年02月28日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -11560,7 +11560,7 @@ window.SONG_DATA.push(
     {
   "title": "Just Be Friends",
   "artist": "Dixie Flatline",
-  "collection": "【 稀羽すう/Re:AcT 】縦型歌枠 #shorts #Vtuber 2025年02月28日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -11568,7 +11568,7 @@ window.SONG_DATA.push(
     {
   "title": "アイロニ",
   "artist": "すこっぷ",
-  "collection": "【 稀羽すう/Re:AcT 】縦型歌枠 #shorts #Vtuber 2025年02月28日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -11576,7 +11576,7 @@ window.SONG_DATA.push(
     {
   "title": "NOBODY KNOWS",
   "artist": "スガシカオ",
-  "collection": "【 稀羽すう/Re:AcT 】縦型歌枠 #shorts #Vtuber 2025年02月28日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -11584,7 +11584,7 @@ window.SONG_DATA.push(
     {
   "title": "Beyond the way",
   "artist": "Giga",
-  "collection": "【 稀羽すう/Re:AcT 】縦型歌枠 #shorts #Vtuber 2025年02月28日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -11592,7 +11592,7 @@ window.SONG_DATA.push(
     {
   "title": "CH4NGE",
   "artist": "Giga",
-  "collection": "【 稀羽すう/Re:AcT 】縦型歌枠 #shorts #Vtuber 2025年02月28日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -11600,7 +11600,7 @@ window.SONG_DATA.push(
     {
   "title": "フライデーナイト",
   "artist": "なとり",
-  "collection": "【 稀羽すう/Re:AcT 】縦型歌枠 #shorts #Vtuber 2025年02月28日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -11608,7 +11608,7 @@ window.SONG_DATA.push(
     {
   "title": "ヴィーナスとジーザス",
   "artist": "やくしまるえつこ",
-  "collection": "【 稀羽すう/Re:AcT 】縦型歌枠 #shorts #Vtuber 2025年02月28日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -11616,7 +11616,7 @@ window.SONG_DATA.push(
     {
   "title": "銀河鉄道999",
   "artist": "ゴダイゴ",
-  "collection": "【稀羽すう / Re:AcT】水曜定期歌枠㊗100 回【  歌枠 / KARAOKE  】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -11624,7 +11624,7 @@ window.SONG_DATA.push(
     {
   "title": "ルージュの伝言",
   "artist": "松任谷由実",
-  "collection": "【稀羽すう / Re:AcT】水曜定期歌枠㊗100 回【  歌枠 / KARAOKE  】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -11632,7 +11632,7 @@ window.SONG_DATA.push(
     {
   "title": "115万キロのフィルム",
   "artist": "Official髭男dism",
-  "collection": "【稀羽すう / Re:AcT】水曜定期歌枠㊗100 回【  歌枠 / KARAOKE  】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -11640,7 +11640,7 @@ window.SONG_DATA.push(
     {
   "title": "異端なスター",
   "artist": "Official髭男dism",
-  "collection": "【稀羽すう / Re:AcT】水曜定期歌枠㊗100 回【  歌枠 / KARAOKE  】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -11648,7 +11648,7 @@ window.SONG_DATA.push(
     {
   "title": "星座になれたら",
   "artist": "結束バンド",
-  "collection": "【稀羽すう / Re:AcT】水曜定期歌枠㊗100 回【  歌枠 / KARAOKE  】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -11656,7 +11656,7 @@ window.SONG_DATA.push(
     {
   "title": "オリオンをなぞる",
   "artist": "UNISON SQUARE GARDEN",
-  "collection": "【稀羽すう / Re:AcT】水曜定期歌枠㊗100 回【  歌枠 / KARAOKE  】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -11664,7 +11664,7 @@ window.SONG_DATA.push(
     {
   "title": "祝福",
   "artist": "YOASOBI",
-  "collection": "【稀羽すう / Re:AcT】水曜定期歌枠㊗100 回【  歌枠 / KARAOKE  】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -11672,7 +11672,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄",
   "artist": "Vaundy",
-  "collection": "【稀羽すう / Re:AcT】水曜定期歌枠㊗100 回【  歌枠 / KARAOKE  】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -11680,7 +11680,7 @@ window.SONG_DATA.push(
     {
   "title": "fake face dance music",
   "artist": "音田雅則",
-  "collection": "【稀羽すう / Re:AcT】水曜定期歌枠㊗100 回【  歌枠 / KARAOKE  】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -11688,7 +11688,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI",
-  "collection": "【稀羽すう / Re:AcT】水曜定期歌枠㊗100 回【  歌枠 / KARAOKE  】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -11696,7 +11696,7 @@ window.SONG_DATA.push(
     {
   "title": "ガーデン",
   "artist": "藤井風",
-  "collection": "【稀羽すう / Re:AcT】水曜定期歌枠㊗100 回【  歌枠 / KARAOKE  】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -11704,7 +11704,7 @@ window.SONG_DATA.push(
     {
   "title": "花",
   "artist": "藤井風",
-  "collection": "【稀羽すう / Re:AcT】水曜定期歌枠㊗100 回【  歌枠 / KARAOKE  】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -11712,7 +11712,7 @@ window.SONG_DATA.push(
     {
   "title": "アルジャーノン",
   "artist": "ヨルシカ",
-  "collection": "【稀羽すう / Re:AcT】水曜定期歌枠㊗100 回【  歌枠 / KARAOKE  】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -11720,7 +11720,7 @@ window.SONG_DATA.push(
     {
   "title": "左右盲",
   "artist": "ヨルシカ",
-  "collection": "【稀羽すう / Re:AcT】水曜定期歌枠㊗100 回【  歌枠 / KARAOKE  】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -11728,7 +11728,7 @@ window.SONG_DATA.push(
     {
   "title": "帰ろう",
   "artist": "藤井風",
-  "collection": "【稀羽すう / Re:AcT】水曜定期歌枠㊗100 回【  歌枠 / KARAOKE  】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=15",
   "source": "suu_usuwa.js"
@@ -11736,7 +11736,7 @@ window.SONG_DATA.push(
     {
   "title": "キミの記憶",
   "artist": "川村ゆみ",
-  "collection": "【稀羽すう / Re:AcT】水曜定期歌枠㊗100 回【  歌枠 / KARAOKE  】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=16",
   "source": "suu_usuwa.js"
@@ -11744,7 +11744,7 @@ window.SONG_DATA.push(
     {
   "title": "一難",
   "artist": "Penthouse",
-  "collection": "【稀羽すう/Re:AcT】欢迎新朋友!我想为周五之夜增添色彩【歌枠/KARAOKE】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "suu_usuwa.js"
@@ -11752,7 +11752,7 @@ window.SONG_DATA.push(
     {
   "title": "BLAZE",
   "artist": "キンヤ",
-  "collection": "【稀羽すう/Re:AcT】欢迎新朋友!我想为周五之夜增添色彩【歌枠/KARAOKE】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "suu_usuwa.js"
@@ -11760,7 +11760,7 @@ window.SONG_DATA.push(
     {
   "title": "ループ",
   "artist": "坂本真綾",
-  "collection": "【稀羽すう/Re:AcT】欢迎新朋友!我想为周五之夜增添色彩【歌枠/KARAOKE】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "suu_usuwa.js"
@@ -11768,7 +11768,7 @@ window.SONG_DATA.push(
     {
   "title": "IT'S",
   "artist": "キンヤ",
-  "collection": "【稀羽すう/Re:AcT】欢迎新朋友!我想为周五之夜增添色彩【歌枠/KARAOKE】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "suu_usuwa.js"
@@ -11776,7 +11776,7 @@ window.SONG_DATA.push(
     {
   "title": "風待ちジェット",
   "artist": "坂本真綾",
-  "collection": "【稀羽すう/Re:AcT】欢迎新朋友!我想为周五之夜增添色彩【歌枠/KARAOKE】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=5",
   "source": "suu_usuwa.js"
@@ -11784,7 +11784,7 @@ window.SONG_DATA.push(
     {
   "title": "サラマンダー",
   "artist": "DECO27",
-  "collection": "【稀羽すう/Re:AcT】欢迎新朋友!我想为周五之夜增添色彩【歌枠/KARAOKE】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=6",
   "source": "suu_usuwa.js"
@@ -11792,7 +11792,7 @@ window.SONG_DATA.push(
     {
   "title": "止マレ！- 涼宮ハルヒ(平野綾)・長門有希(茅原実里)・朝比奈みくる(後藤邑子)",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう/Re:AcT】欢迎新朋友!我想为周五之夜增添色彩【歌枠/KARAOKE】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=7",
   "source": "suu_usuwa.js"
@@ -11800,7 +11800,7 @@ window.SONG_DATA.push(
     {
   "title": "プリズム",
   "artist": "池田綾子",
-  "collection": "【稀羽すう/Re:AcT】欢迎新朋友!我想为周五之夜增添色彩【歌枠/KARAOKE】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=8",
   "source": "suu_usuwa.js"
@@ -11808,7 +11808,7 @@ window.SONG_DATA.push(
     {
   "title": "三日月",
   "artist": "絢香",
-  "collection": "【稀羽すう/Re:AcT】欢迎新朋友!我想为周五之夜增添色彩【歌枠/KARAOKE】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=9",
   "source": "suu_usuwa.js"
@@ -11816,7 +11816,7 @@ window.SONG_DATA.push(
     {
   "title": "テルーの唄",
   "artist": "手嶌葵",
-  "collection": "【稀羽すう/Re:AcT】欢迎新朋友!我想为周五之夜增添色彩【歌枠/KARAOKE】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=10",
   "source": "suu_usuwa.js"
@@ -11824,7 +11824,7 @@ window.SONG_DATA.push(
     {
   "title": "エイリアンズ",
   "artist": "キリンジ",
-  "collection": "【稀羽すう/Re:AcT】欢迎新朋友!我想为周五之夜增添色彩【歌枠/KARAOKE】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=11",
   "source": "suu_usuwa.js"
@@ -11832,7 +11832,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI",
-  "collection": "【 #CMYKProject 】これがわたしの世界です【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -11840,7 +11840,7 @@ window.SONG_DATA.push(
     {
   "title": "Floating",
   "artist": "稀羽すう",
-  "collection": "【 #CMYKProject 】これがわたしの世界です【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -11848,7 +11848,7 @@ window.SONG_DATA.push(
     {
   "title": "Rumor",
   "artist": "Police Piccadilly",
-  "collection": "【 #CMYKProject 】これがわたしの世界です【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -11856,7 +11856,7 @@ window.SONG_DATA.push(
     {
   "title": "トロイメライ",
   "artist": "稀羽すう",
-  "collection": "【 #CMYKProject 】これがわたしの世界です【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -11864,7 +11864,7 @@ window.SONG_DATA.push(
     {
   "title": "接吻",
   "artist": "Original Love",
-  "collection": "【 #CMYKProject 】これがわたしの世界です【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -11872,7 +11872,7 @@ window.SONG_DATA.push(
     {
   "title": "ギラギラ",
   "artist": "Ado",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠  #101【 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -11880,7 +11880,7 @@ window.SONG_DATA.push(
     {
   "title": "私は最強",
   "artist": "Ado",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠  #101【 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -11888,7 +11888,7 @@ window.SONG_DATA.push(
     {
   "title": "春を告げる",
   "artist": "yama",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠  #101【 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -11896,7 +11896,7 @@ window.SONG_DATA.push(
     {
   "title": "ダンスホール",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠  #101【 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -11904,7 +11904,7 @@ window.SONG_DATA.push(
     {
   "title": "メランコリック",
   "artist": "Junky",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠  #101【 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -11912,7 +11912,7 @@ window.SONG_DATA.push(
     {
   "title": "メリッサ",
   "artist": "ポルノグラフィティ",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠  #101【 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -11920,7 +11920,7 @@ window.SONG_DATA.push(
     {
   "title": "again",
   "artist": "YUI",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠  #101【 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -11928,7 +11928,7 @@ window.SONG_DATA.push(
     {
   "title": "Rolling Star",
   "artist": "YUI",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠  #101【 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -11936,7 +11936,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーダウト",
   "artist": "Official髭男dism",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠  #101【 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -11944,7 +11944,7 @@ window.SONG_DATA.push(
     {
   "title": "SAKURA-ハルヲウタワネバダ-",
   "artist": "矢島美容室",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠  #101【 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -11952,7 +11952,7 @@ window.SONG_DATA.push(
     {
   "title": "変わらないもの",
   "artist": "奥華子",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠  #101【 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -11960,7 +11960,7 @@ window.SONG_DATA.push(
     {
   "title": "花ハ踊レヤいろはにほ",
   "artist": "チームハナヤマタ",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠  #101【 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -11968,7 +11968,7 @@ window.SONG_DATA.push(
     {
   "title": "Happiness",
   "artist": "嵐",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠  #101【 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -11976,7 +11976,7 @@ window.SONG_DATA.push(
     {
   "title": "犬かキャットかで死ぬまで喧嘩しよう！",
   "artist": "Official髭男dism",
-  "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠  #101【 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -11984,7 +11984,7 @@ window.SONG_DATA.push(
     {
   "title": "Pretender",
   "artist": "Official髭男dism",
-  "collection": "【 稀羽すう / Re:AcT 】 失恋歌曲专场歌枠✦源视频：失恋ソングしばり歌枠✦【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -11992,7 +11992,7 @@ window.SONG_DATA.push(
     {
   "title": "猫",
   "artist": "DISH//",
-  "collection": "【 稀羽すう / Re:AcT 】 失恋歌曲专场歌枠✦源视频：失恋ソングしばり歌枠✦【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -12000,7 +12000,7 @@ window.SONG_DATA.push(
     {
   "title": "ドライフラワー",
   "artist": "優里",
-  "collection": "【 稀羽すう / Re:AcT 】 失恋歌曲专场歌枠✦源视频：失恋ソングしばり歌枠✦【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -12008,7 +12008,7 @@ window.SONG_DATA.push(
     {
   "title": "別の人の彼女になったよ",
   "artist": "wacci",
-  "collection": "【 稀羽すう / Re:AcT 】 失恋歌曲专场歌枠✦源视频：失恋ソングしばり歌枠✦【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -12016,7 +12016,7 @@ window.SONG_DATA.push(
     {
   "title": "366日",
   "artist": "HY",
-  "collection": "【 稀羽すう / Re:AcT 】 失恋歌曲专场歌枠✦源视频：失恋ソングしばり歌枠✦【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -12024,7 +12024,7 @@ window.SONG_DATA.push(
     {
   "title": "たばこ",
   "artist": "コレサワ",
-  "collection": "【 稀羽すう / Re:AcT 】 失恋歌曲专场歌枠✦源视频：失恋ソングしばり歌枠✦【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -12032,7 +12032,7 @@ window.SONG_DATA.push(
     {
   "title": "恋人失格",
   "artist": "コレサワ",
-  "collection": "【 稀羽すう / Re:AcT 】 失恋歌曲专场歌枠✦源视频：失恋ソングしばり歌枠✦【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -12040,7 +12040,7 @@ window.SONG_DATA.push(
     {
   "title": "melt bitter",
   "artist": "さとうもか",
-  "collection": "【 稀羽すう / Re:AcT 】 失恋歌曲专场歌枠✦源视频：失恋ソングしばり歌枠✦【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -12048,7 +12048,7 @@ window.SONG_DATA.push(
     {
   "title": "ツギハギスタッカート",
   "artist": "とあ",
-  "collection": "【 稀羽すう / Re:AcT 】 失恋歌曲专场歌枠✦源视频：失恋ソングしばり歌枠✦【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -12056,7 +12056,7 @@ window.SONG_DATA.push(
     {
   "title": "もう恋なんてしない",
   "artist": "槇原敬之",
-  "collection": "【 稀羽すう / Re:AcT 】 失恋歌曲专场歌枠✦源视频：失恋ソングしばり歌枠✦【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -12064,7 +12064,7 @@ window.SONG_DATA.push(
     {
   "title": "たぶん",
   "artist": "YOASOBI",
-  "collection": "【 稀羽すう / Re:AcT 】 失恋歌曲专场歌枠✦源视频：失恋ソングしばり歌枠✦【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -12072,7 +12072,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーダウト",
   "artist": "Official髭男dism",
-  "collection": "【 #歌枠 / KARAOKE 】水曜定期歌枠 #102【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -12080,7 +12080,7 @@ window.SONG_DATA.push(
     {
   "title": "丸の内サディスティック",
   "artist": "椎名林檎",
-  "collection": "【 #歌枠 / KARAOKE 】水曜定期歌枠 #102【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -12088,7 +12088,7 @@ window.SONG_DATA.push(
     {
   "title": "秒針を噛む",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【 #歌枠 / KARAOKE 】水曜定期歌枠 #102【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -12096,7 +12096,7 @@ window.SONG_DATA.push(
     {
   "title": "祝福",
   "artist": "YOASOBI",
-  "collection": "【 #歌枠 / KARAOKE 】水曜定期歌枠 #102【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -12104,7 +12104,7 @@ window.SONG_DATA.push(
     {
   "title": "幾億光年",
   "artist": "Omoinotake",
-  "collection": "【 #歌枠 / KARAOKE 】水曜定期歌枠 #102【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -12112,7 +12112,7 @@ window.SONG_DATA.push(
     {
   "title": "ベテルギウス",
   "artist": "優里(2)",
-  "collection": "【 #歌枠 / KARAOKE 】水曜定期歌枠 #102【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -12120,7 +12120,7 @@ window.SONG_DATA.push(
     {
   "title": "Subtitle",
   "artist": "Official髭男dism",
-  "collection": "【 #歌枠 / KARAOKE 】水曜定期歌枠 #102【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -12128,7 +12128,7 @@ window.SONG_DATA.push(
     {
   "title": "願い",
   "artist": "Sumika",
-  "collection": "【 #歌枠 / KARAOKE 】水曜定期歌枠 #102【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -12136,7 +12136,7 @@ window.SONG_DATA.push(
     {
   "title": "One more time,One more chance",
   "artist": "山崎まさよし",
-  "collection": "【 #歌枠 / KARAOKE 】水曜定期歌枠 #102【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -12144,7 +12144,7 @@ window.SONG_DATA.push(
     {
   "title": "悪魔の子",
   "artist": "ヒグチアイ",
-  "collection": "【 #歌枠 / KARAOKE 】水曜定期歌枠 #102【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -12152,7 +12152,7 @@ window.SONG_DATA.push(
     {
   "title": "だから僕は音楽を辞めた",
   "artist": "ヨルシカ",
-  "collection": "【 #歌枠 / KARAOKE 】水曜定期歌枠 #102【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -12160,7 +12160,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒",
   "artist": "ヨルシカ",
-  "collection": "【 #歌枠 / KARAOKE 】水曜定期歌枠 #102【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -12168,7 +12168,7 @@ window.SONG_DATA.push(
     {
   "title": "怪物",
   "artist": "YOASOBI",
-  "collection": "【 #歌枠 / KARAOKE 】水曜定期歌枠 #102【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -12176,7 +12176,7 @@ window.SONG_DATA.push(
     {
   "title": "透明人間",
   "artist": "東京事変",
-  "collection": "【 #歌枠 / KARAOKE 】水曜定期歌枠 #102【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -12184,7 +12184,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ",
-  "collection": "✦【 稀羽すう / Re:AcT 】あのさ、なんだか歌いたい気分なんだ。【 歌枠 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -12192,7 +12192,7 @@ window.SONG_DATA.push(
     {
   "title": "春擬き",
   "artist": "やなぎなぎ",
-  "collection": "✦【 稀羽すう / Re:AcT 】あのさ、なんだか歌いたい気分なんだ。【 歌枠 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -12200,7 +12200,7 @@ window.SONG_DATA.push(
     {
   "title": "君の知らない物語",
   "artist": "supercell",
-  "collection": "✦【 稀羽すう / Re:AcT 】あのさ、なんだか歌いたい気分なんだ。【 歌枠 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -12208,7 +12208,7 @@ window.SONG_DATA.push(
     {
   "title": "創聖のアクエリオン",
   "artist": "AKINO",
-  "collection": "✦【 稀羽すう / Re:AcT 】あのさ、なんだか歌いたい気分なんだ。【 歌枠 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -12216,7 +12216,7 @@ window.SONG_DATA.push(
     {
   "title": "少女レイ",
   "artist": "みきとP",
-  "collection": "✦【 稀羽すう / Re:AcT 】あのさ、なんだか歌いたい気分なんだ。【 歌枠 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -12224,7 +12224,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒",
   "artist": "ヨルシカ",
-  "collection": "✦【 稀羽すう / Re:AcT 】あのさ、なんだか歌いたい気分なんだ。【 歌枠 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -12232,7 +12232,7 @@ window.SONG_DATA.push(
     {
   "title": "左右盲",
   "artist": "ヨルシカ",
-  "collection": "✦【 稀羽すう / Re:AcT 】あのさ、なんだか歌いたい気分なんだ。【 歌枠 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -12240,7 +12240,7 @@ window.SONG_DATA.push(
     {
   "title": "たばこ",
   "artist": "コレサワ",
-  "collection": "✦【 稀羽すう / Re:AcT 】あのさ、なんだか歌いたい気分なんだ。【 歌枠 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -12248,7 +12248,7 @@ window.SONG_DATA.push(
     {
   "title": "春を告げる",
   "artist": "yama",
-  "collection": "【稀羽すう - Suu Usuwa -】 水曜定期歌枠 #103   (告知！！！🦢🎹🐺3D联动)",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -12256,7 +12256,7 @@ window.SONG_DATA.push(
     {
   "title": "コーヒーとシロップ",
   "artist": "Official髭男dism",
-  "collection": "【稀羽すう - Suu Usuwa -】 水曜定期歌枠 #103   (告知！！！🦢🎹🐺3D联动)",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -12264,7 +12264,7 @@ window.SONG_DATA.push(
     {
   "title": "春一番",
   "artist": "キャンディーズ",
-  "collection": "【稀羽すう - Suu Usuwa -】 水曜定期歌枠 #103   (告知！！！🦢🎹🐺3D联动)",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -12272,7 +12272,7 @@ window.SONG_DATA.push(
     {
   "title": "花は桜 君は美し",
   "artist": "いきものがかり",
-  "collection": "【稀羽すう - Suu Usuwa -】 水曜定期歌枠 #103   (告知！！！🦢🎹🐺3D联动)",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -12280,7 +12280,7 @@ window.SONG_DATA.push(
     {
   "title": "チェリー",
   "artist": "スピッツ",
-  "collection": "【稀羽すう - Suu Usuwa -】 水曜定期歌枠 #103   (告知！！！🦢🎹🐺3D联动)",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -12288,7 +12288,7 @@ window.SONG_DATA.push(
     {
   "title": "キリトリセン",
   "artist": "40mP",
-  "collection": "【稀羽すう - Suu Usuwa -】 水曜定期歌枠 #103   (告知！！！🦢🎹🐺3D联动)",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -12296,7 +12296,7 @@ window.SONG_DATA.push(
     {
   "title": "からくりピエロ",
   "artist": "40mP",
-  "collection": "【稀羽すう - Suu Usuwa -】 水曜定期歌枠 #103   (告知！！！🦢🎹🐺3D联动)",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -12304,7 +12304,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI",
-  "collection": "【稀羽すう - Suu Usuwa -】 水曜定期歌枠 #103   (告知！！！🦢🎹🐺3D联动)",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -12312,7 +12312,7 @@ window.SONG_DATA.push(
     {
   "title": "NIGHTDANCER",
   "artist": "imase",
-  "collection": "【稀羽すう - Suu Usuwa -】 水曜定期歌枠 #103   (告知！！！🦢🎹🐺3D联动)",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -12320,7 +12320,7 @@ window.SONG_DATA.push(
     {
   "title": "ホールニューワールド",
   "artist": "アラジンとジャスミン",
-  "collection": "【稀羽すう - Suu Usuwa -】 水曜定期歌枠 #103   (告知！！！🦢🎹🐺3D联动)",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -12328,7 +12328,7 @@ window.SONG_DATA.push(
     {
   "title": "パート・オブ・ユア・ワールド",
   "artist": "アリエル",
-  "collection": "【稀羽すう - Suu Usuwa -】 水曜定期歌枠 #103   (告知！！！🦢🎹🐺3D联动)",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -12336,7 +12336,7 @@ window.SONG_DATA.push(
     {
   "title": "Believe",
   "artist": "前尘往事如昔故",
-  "collection": "【稀羽すう - Suu Usuwa -】 水曜定期歌枠 #103   (告知！！！🦢🎹🐺3D联动)",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -12344,7 +12344,7 @@ window.SONG_DATA.push(
     {
   "title": "心の瞳",
   "artist": "坂本九",
-  "collection": "【稀羽すう - Suu Usuwa -】 水曜定期歌枠 #103   (告知！！！🦢🎹🐺3D联动)",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -12352,7 +12352,7 @@ window.SONG_DATA.push(
     {
   "title": "さよーならまたいつか！",
   "artist": "米津玄師",
-  "collection": "【稀羽すう - Suu Usuwa -】 水曜定期歌枠 #103   (告知！！！🦢🎹🐺3D联动)",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -12360,7 +12360,7 @@ window.SONG_DATA.push(
     {
   "title": "ダンスホール",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【 #るるすうセイ 】🎤 3D 卡拉 OK 合作🌸 【 稀羽すう/橙里セイ/陽月るるふ 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -12368,7 +12368,7 @@ window.SONG_DATA.push(
     {
   "title": "CLEAR",
   "artist": "坂本真綾",
-  "collection": "【 #るるすうセイ 】🎤 3D 卡拉 OK 合作🌸 【 稀羽すう/橙里セイ/陽月るるふ 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -12376,7 +12376,7 @@ window.SONG_DATA.push(
     {
   "title": "星座になれたら",
   "artist": "結束バンド",
-  "collection": "【 #るるすうセイ 】🎤 3D 卡拉 OK 合作🌸 【 稀羽すう/橙里セイ/陽月るるふ 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -12384,7 +12384,7 @@ window.SONG_DATA.push(
     {
   "title": "斜陽",
   "artist": "ヨルシカ",
-  "collection": "【 #るるすうセイ 】🎤 3D 卡拉 OK 合作🌸 【 稀羽すう/橙里セイ/陽月るるふ 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -12392,7 +12392,7 @@ window.SONG_DATA.push(
     {
   "title": "ひまわりの約束",
   "artist": "秦基博",
-  "collection": "【 #るるすうセイ 】🎤 3D 卡拉 OK 合作🌸 【 稀羽すう/橙里セイ/陽月るるふ 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -12400,7 +12400,7 @@ window.SONG_DATA.push(
     {
   "title": "星が瞬くこんな夜に",
   "artist": "Supercell",
-  "collection": "【 #るるすうセイ 】🎤 3D 卡拉 OK 合作🌸 【 稀羽すう/橙里セイ/陽月るるふ 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -12408,7 +12408,7 @@ window.SONG_DATA.push(
     {
   "title": "さよーならまたいつか！",
   "artist": "米津玄師",
-  "collection": "【 #るるすうセイ 】🎤 3D 卡拉 OK 合作🌸 【 稀羽すう/橙里セイ/陽月るるふ 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -12416,7 +12416,7 @@ window.SONG_DATA.push(
     {
   "title": "フリージア",
   "artist": "Uru",
-  "collection": "【 #るるすうセイ 】🎤 3D 卡拉 OK 合作🌸 【 稀羽すう/橙里セイ/陽月るるふ 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -12424,7 +12424,7 @@ window.SONG_DATA.push(
     {
   "title": "Mela!",
   "artist": "緑黄色社会",
-  "collection": "【 #るるすうセイ 】🎤 3D 卡拉 OK 合作🌸 【 稀羽すう/橙里セイ/陽月るるふ 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -12432,7 +12432,7 @@ window.SONG_DATA.push(
     {
   "title": "フリージア",
   "artist": "Uru",
-  "collection": "【 稀羽すう / Re:AcT 】夜、ここで待ってます。 ✦ Singing Stream【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -12440,7 +12440,7 @@ window.SONG_DATA.push(
     {
   "title": "地球儀",
   "artist": "米津玄師",
-  "collection": "【 稀羽すう / Re:AcT 】夜、ここで待ってます。 ✦ Singing Stream【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -12448,7 +12448,7 @@ window.SONG_DATA.push(
     {
   "title": "Pop Virus",
   "artist": "星野源",
-  "collection": "【 稀羽すう / Re:AcT 】夜、ここで待ってます。 ✦ Singing Stream【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -12456,7 +12456,7 @@ window.SONG_DATA.push(
     {
   "title": "アイデア",
   "artist": "星野源",
-  "collection": "【 稀羽すう / Re:AcT 】夜、ここで待ってます。 ✦ Singing Stream【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -12464,7 +12464,7 @@ window.SONG_DATA.push(
     {
   "title": "怪物",
   "artist": "YOASOBI",
-  "collection": "【 稀羽すう / Re:AcT 】夜、ここで待ってます。 ✦ Singing Stream【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -12472,7 +12472,7 @@ window.SONG_DATA.push(
     {
   "title": "都落ち",
   "artist": "ヨルシカ",
-  "collection": "【 稀羽すう / Re:AcT 】夜、ここで待ってます。 ✦ Singing Stream【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -12480,7 +12480,7 @@ window.SONG_DATA.push(
     {
   "title": "死ぬのがいいわ",
   "artist": "藤井風",
-  "collection": "【 稀羽すう / Re:AcT 】夜、ここで待ってます。 ✦ Singing Stream【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -12488,7 +12488,7 @@ window.SONG_DATA.push(
     {
   "title": "napori",
   "artist": "Vaundy",
-  "collection": "【 稀羽すう / Re:AcT 】夜、ここで待ってます。 ✦ Singing Stream【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -12496,7 +12496,7 @@ window.SONG_DATA.push(
     {
   "title": "東京フラッシュ",
   "artist": "Vaundy",
-  "collection": "【 稀羽すう / Re:AcT 】夜、ここで待ってます。 ✦ Singing Stream【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -12504,7 +12504,7 @@ window.SONG_DATA.push(
     {
   "title": "カタオモイ",
   "artist": "Aimer",
-  "collection": "【 稀羽すう / Re:AcT 】夜、ここで待ってます。 ✦ Singing Stream【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -12512,7 +12512,7 @@ window.SONG_DATA.push(
     {
   "title": "Good-bye days",
   "artist": "YUI",
-  "collection": "【 稀羽すう / Re:AcT 】夜、ここで待ってます。 ✦ Singing Stream【 歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -12520,7 +12520,7 @@ window.SONG_DATA.push(
     {
   "title": "Blooming♡Blooming",
   "artist": "るか from AIKATSU☆STARS",
-  "collection": "出道3周年纪念歌枠✦✦✦✦✦3rd Anniversary【 稀羽すう】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -12528,7 +12528,7 @@ window.SONG_DATA.push(
     {
   "title": "Mornin’ Belll",
   "artist": "稀羽すう",
-  "collection": "出道3周年纪念歌枠✦✦✦✦✦3rd Anniversary【 稀羽すう】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -12536,7 +12536,7 @@ window.SONG_DATA.push(
     {
   "title": "SUN",
   "artist": "星野源",
-  "collection": "出道3周年纪念歌枠✦✦✦✦✦3rd Anniversary【 稀羽すう】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -12544,7 +12544,7 @@ window.SONG_DATA.push(
     {
   "title": "Ready To Party",
   "artist": "稀羽すう",
-  "collection": "出道3周年纪念歌枠✦✦✦✦✦3rd Anniversary【 稀羽すう】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -12552,7 +12552,7 @@ window.SONG_DATA.push(
     {
   "title": "左右盲",
   "artist": "ヨルシカ",
-  "collection": "出道3周年纪念歌枠✦✦✦✦✦3rd Anniversary【 稀羽すう】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -12560,7 +12560,7 @@ window.SONG_DATA.push(
     {
   "title": "らしく。",
   "artist": "稀羽すう",
-  "collection": "出道3周年纪念歌枠✦✦✦✦✦3rd Anniversary【 稀羽すう】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -12568,7 +12568,7 @@ window.SONG_DATA.push(
     {
   "title": "空",
   "artist": "音無小鳥(滝田樹里)",
-  "collection": "出道3周年纪念歌枠✦✦✦✦✦3rd Anniversary【 稀羽すう】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -12576,7 +12576,7 @@ window.SONG_DATA.push(
     {
   "title": "満ちてゆく",
   "artist": "藤井風",
-  "collection": "出道3周年纪念歌枠✦✦✦✦✦3rd Anniversary【 稀羽すう】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -12584,7 +12584,7 @@ window.SONG_DATA.push(
     {
   "title": "桜キッス",
   "artist": "河辺千恵子",
-  "collection": "【 稀羽すう】この声が、聴こえていますか？ 午餐时间歌唱直播 ✦ Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -12592,7 +12592,7 @@ window.SONG_DATA.push(
     {
   "title": "朝ごはんの歌",
   "artist": "手嶌葵",
-  "collection": "【 稀羽すう】この声が、聴こえていますか？ 午餐时间歌唱直播 ✦ Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -12600,7 +12600,7 @@ window.SONG_DATA.push(
     {
   "title": "風になる",
   "artist": "つじあやの",
-  "collection": "【 稀羽すう】この声が、聴こえていますか？ 午餐时间歌唱直播 ✦ Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -12608,7 +12608,7 @@ window.SONG_DATA.push(
     {
   "title": "さよならの夏 ～コクリコ坂から～",
   "artist": "手嶌葵",
-  "collection": "【 稀羽すう】この声が、聴こえていますか？ 午餐时间歌唱直播 ✦ Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -12616,7 +12616,7 @@ window.SONG_DATA.push(
     {
   "title": "大阪LOVER",
   "artist": "DREAMS COME TRUE",
-  "collection": "【 稀羽すう】この声が、聴こえていますか？ 午餐时间歌唱直播 ✦ Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -12624,7 +12624,7 @@ window.SONG_DATA.push(
     {
   "title": "桜の森",
   "artist": "星野源",
-  "collection": "【 稀羽すう】この声が、聴こえていますか？ 午餐时间歌唱直播 ✦ Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -12632,7 +12632,7 @@ window.SONG_DATA.push(
     {
   "title": "地獄でなぜ悪い",
   "artist": "星野源",
-  "collection": "【 稀羽すう】この声が、聴こえていますか？ 午餐时间歌唱直播 ✦ Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -12640,7 +12640,7 @@ window.SONG_DATA.push(
     {
   "title": "Hello Song",
   "artist": "星野源",
-  "collection": "【 稀羽すう】この声が、聴こえていますか？ 午餐时间歌唱直播 ✦ Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -12648,7 +12648,7 @@ window.SONG_DATA.push(
     {
   "title": "Clap Clap",
   "artist": "Official髭男dism",
-  "collection": "【 稀羽すう】この声が、聴こえていますか？ 午餐时间歌唱直播 ✦ Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -12656,7 +12656,7 @@ window.SONG_DATA.push(
     {
   "title": "青のすみか",
   "artist": "キタニタツヤ",
-  "collection": "【 稀羽すう】この声が、聴こえていますか？ 午餐时间歌唱直播 ✦ Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -12664,7 +12664,7 @@ window.SONG_DATA.push(
     {
   "title": "はじめてのチュウ",
   "artist": "あんしんパパ",
-  "collection": "【 稀羽すう】この声が、聴こえていますか？ 午餐时间歌唱直播 ✦ Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -12672,7 +12672,7 @@ window.SONG_DATA.push(
     {
   "title": "愛・おぼえていますか",
   "artist": "飯島真理",
-  "collection": "【 稀羽すう】この声が、聴こえていますか？ 午餐时间歌唱直播 ✦ Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -12680,7 +12680,7 @@ window.SONG_DATA.push(
     {
   "title": "What 'bout my ster",
   "artist": "シェリル・ノーム starring May'n",
-  "collection": "【 稀羽すう】この声が、聴こえていますか？ 午餐时间歌唱直播 ✦ Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -12688,7 +12688,7 @@ window.SONG_DATA.push(
     {
   "title": "涙目爆発音",
   "artist": "ワルキューレ",
-  "collection": "【 稀羽すう】この声が、聴こえていますか？ 午餐时间歌唱直播 ✦ Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -12696,7 +12696,7 @@ window.SONG_DATA.push(
     {
   "title": "超時空飯店 娘々",
   "artist": "ランカ・リー(中島愛)",
-  "collection": "【 稀羽すう】この声が、聴こえていますか？ 午餐时间歌唱直播 ✦ Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=15",
   "source": "suu_usuwa.js"
@@ -12704,7 +12704,7 @@ window.SONG_DATA.push(
     {
   "title": "ニンジーン Loves you yeah!",
   "artist": "ランカ・リー(中島愛)",
-  "collection": "【 稀羽すう】この声が、聴こえていますか？ 午餐时间歌唱直播 ✦ Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=16",
   "source": "suu_usuwa.js"
@@ -12712,7 +12712,7 @@ window.SONG_DATA.push(
     {
   "title": "アナタノオト",
   "artist": "ランカ・リー(中島愛)",
-  "collection": "【 稀羽すう】この声が、聴こえていますか？ 午餐时间歌唱直播 ✦ Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=17",
   "source": "suu_usuwa.js"
@@ -12720,7 +12720,7 @@ window.SONG_DATA.push(
     {
   "title": "ANIMA",
   "artist": "ReoNa",
-  "collection": "【稀羽すう】歌おっか！水曜定期歌枠#104 2025年4月9日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=1",
   "source": "suu_usuwa.js"
@@ -12728,7 +12728,7 @@ window.SONG_DATA.push(
     {
   "title": "不可幸力",
   "artist": "Vaundy",
-  "collection": "【稀羽すう】歌おっか！水曜定期歌枠#104 2025年4月9日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=2",
   "source": "suu_usuwa.js"
@@ -12736,7 +12736,7 @@ window.SONG_DATA.push(
     {
   "title": "KICK BACK",
   "artist": "米津玄師",
-  "collection": "【稀羽すう】歌おっか！水曜定期歌枠#104 2025年4月9日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=3",
   "source": "suu_usuwa.js"
@@ -12744,7 +12744,7 @@ window.SONG_DATA.push(
     {
   "title": "メフィスト",
   "artist": "女王蜂",
-  "collection": "【稀羽すう】歌おっか！水曜定期歌枠#104 2025年4月9日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=4",
   "source": "suu_usuwa.js"
@@ -12752,7 +12752,7 @@ window.SONG_DATA.push(
     {
   "title": "悪魔の子",
   "artist": "ヒグチアイ",
-  "collection": "【稀羽すう】歌おっか！水曜定期歌枠#104 2025年4月9日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=5",
   "source": "suu_usuwa.js"
@@ -12760,7 +12760,7 @@ window.SONG_DATA.push(
     {
   "title": "Paradise Lost",
   "artist": "茅原実里",
-  "collection": "【稀羽すう】歌おっか！水曜定期歌枠#104 2025年4月9日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=6",
   "source": "suu_usuwa.js"
@@ -12768,7 +12768,7 @@ window.SONG_DATA.push(
     {
   "title": "オベリスク",
   "artist": "シェリル・ノーム starring May'n",
-  "collection": "【稀羽すう】歌おっか！水曜定期歌枠#104 2025年4月9日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=7",
   "source": "suu_usuwa.js"
@@ -12776,7 +12776,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーザンクロス",
   "artist": "シェリル・ノーム starring May'n",
-  "collection": "【稀羽すう】歌おっか！水曜定期歌枠#104 2025年4月9日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=8",
   "source": "suu_usuwa.js"
@@ -12784,7 +12784,7 @@ window.SONG_DATA.push(
     {
   "title": "射手座☆午後九時Don't be late",
   "artist": "シェリル・ノーム starring May'n",
-  "collection": "【稀羽すう】歌おっか！水曜定期歌枠#104 2025年4月9日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=9",
   "source": "suu_usuwa.js"
@@ -12792,7 +12792,7 @@ window.SONG_DATA.push(
     {
   "title": "祝福",
   "artist": "YOASOBI",
-  "collection": "【稀羽すう】歌おっか！水曜定期歌枠#104 2025年4月9日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=10",
   "source": "suu_usuwa.js"
@@ -12800,7 +12800,7 @@ window.SONG_DATA.push(
     {
   "title": "Plazma",
   "artist": "米津玄師",
-  "collection": "【稀羽すう】歌おっか！水曜定期歌枠#104 2025年4月9日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=11",
   "source": "suu_usuwa.js"
@@ -12808,7 +12808,7 @@ window.SONG_DATA.push(
     {
   "title": "罠",
   "artist": "THE BACK HORN",
-  "collection": "【稀羽すう】歌おっか！水曜定期歌枠#104 2025年4月9日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=12",
   "source": "suu_usuwa.js"
@@ -12816,7 +12816,7 @@ window.SONG_DATA.push(
     {
   "title": "Beautiful World",
   "artist": "宇多田ヒカル",
-  "collection": "【稀羽すう】歌おっか！水曜定期歌枠#104 2025年4月9日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=13",
   "source": "suu_usuwa.js"
@@ -12824,7 +12824,7 @@ window.SONG_DATA.push(
     {
   "title": "One Last Kiss",
   "artist": "宇多田ヒカル",
-  "collection": "【稀羽すう】歌おっか！水曜定期歌枠#104 2025年4月9日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=14",
   "source": "suu_usuwa.js"
@@ -12832,7 +12832,7 @@ window.SONG_DATA.push(
     {
   "title": "廻廻奇譚",
   "artist": "Eve",
-  "collection": "【稀羽すう】歌おっか！水曜定期歌枠#104 2025年4月9日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=15",
   "source": "suu_usuwa.js"
@@ -12840,7 +12840,7 @@ window.SONG_DATA.push(
     {
   "title": "青のすみか",
   "artist": "キタニタツヤ",
-  "collection": "【稀羽すう】歌おっか！水曜定期歌枠#104 2025年4月9日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=16",
   "source": "suu_usuwa.js"
@@ -12848,7 +12848,7 @@ window.SONG_DATA.push(
     {
   "title": "星座になれたら",
   "artist": "結束バンド",
-  "collection": "【 稀羽すう】水曜定期歌枠 #105 Singing Stream 2025年04月16日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=1",
   "source": "suu_usuwa.js"
@@ -12856,7 +12856,7 @@ window.SONG_DATA.push(
     {
   "title": "月のワルツ",
   "artist": "諫山実生",
-  "collection": "【 稀羽すう】水曜定期歌枠 #105 Singing Stream 2025年04月16日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=2",
   "source": "suu_usuwa.js"
@@ -12864,7 +12864,7 @@ window.SONG_DATA.push(
     {
   "title": "ルーマー",
   "artist": "ポリスピカデリー",
-  "collection": "【 稀羽すう】水曜定期歌枠 #105 Singing Stream 2025年04月16日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=3",
   "source": "suu_usuwa.js"
@@ -12872,7 +12872,7 @@ window.SONG_DATA.push(
     {
   "title": "カタオモイ",
   "artist": "Aimer",
-  "collection": "【 稀羽すう】水曜定期歌枠 #105 Singing Stream 2025年04月16日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=4",
   "source": "suu_usuwa.js"
@@ -12880,7 +12880,7 @@ window.SONG_DATA.push(
     {
   "title": "弱虫モンブラン",
   "artist": "DECO27",
-  "collection": "【 稀羽すう】水曜定期歌枠 #105 Singing Stream 2025年04月16日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=5",
   "source": "suu_usuwa.js"
@@ -12888,7 +12888,7 @@ window.SONG_DATA.push(
     {
   "title": "キラキラ",
   "artist": "aiko",
-  "collection": "【 稀羽すう】水曜定期歌枠 #105 Singing Stream 2025年04月16日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=6",
   "source": "suu_usuwa.js"
@@ -12896,7 +12896,7 @@ window.SONG_DATA.push(
     {
   "title": "不可思議のカルテ",
   "artist": "from青春ブタ野郎はバニーガール先輩の夢を見ない",
-  "collection": "【 稀羽すう】水曜定期歌枠 #105 Singing Stream 2025年04月16日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=7",
   "source": "suu_usuwa.js"
@@ -12904,7 +12904,7 @@ window.SONG_DATA.push(
     {
   "title": "シャル・ウィ・ダンス？",
   "artist": "ReoNa",
-  "collection": "【 稀羽すう】水曜定期歌枠 #105 Singing Stream 2025年04月16日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=8",
   "source": "suu_usuwa.js"
@@ -12912,7 +12912,7 @@ window.SONG_DATA.push(
     {
   "title": "Plazma",
   "artist": "米津玄師",
-  "collection": "【 稀羽すう】水曜定期歌枠 #105 Singing Stream 2025年04月16日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=9",
   "source": "suu_usuwa.js"
@@ -12920,7 +12920,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI",
-  "collection": "【 稀羽すう】水曜定期歌枠 #105 Singing Stream 2025年04月16日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=10",
   "source": "suu_usuwa.js"
@@ -12928,7 +12928,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【 稀羽すう】水曜定期歌枠 #105 Singing Stream 2025年04月16日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=11",
   "source": "suu_usuwa.js"
@@ -12936,7 +12936,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍",
   "artist": "n-buna",
-  "collection": "【 稀羽すう】水曜定期歌枠 #105 Singing Stream 2025年04月16日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=12",
   "source": "suu_usuwa.js"
@@ -12944,7 +12944,7 @@ window.SONG_DATA.push(
     {
   "title": "天体観測",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【 稀羽すう / Re:AcT 】歌おうぜ。 水曜定期歌枠 106 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "suu_usuwa.js"
@@ -12952,7 +12952,7 @@ window.SONG_DATA.push(
     {
   "title": "アカシア",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【 稀羽すう / Re:AcT 】歌おうぜ。 水曜定期歌枠 106 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "suu_usuwa.js"
@@ -12960,7 +12960,7 @@ window.SONG_DATA.push(
     {
   "title": "Plazma",
   "artist": "米津玄師",
-  "collection": "【 稀羽すう / Re:AcT 】歌おうぜ。 水曜定期歌枠 106 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "suu_usuwa.js"
@@ -12968,7 +12968,7 @@ window.SONG_DATA.push(
     {
   "title": "フォニイ",
   "artist": "ツミキ",
-  "collection": "【 稀羽すう / Re:AcT 】歌おうぜ。 水曜定期歌枠 106 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "suu_usuwa.js"
@@ -12976,7 +12976,7 @@ window.SONG_DATA.push(
     {
   "title": "トウキョウ・シャンディ・ランデヴ",
   "artist": "MAISONdes",
-  "collection": "【 稀羽すう / Re:AcT 】歌おうぜ。 水曜定期歌枠 106 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=5",
   "source": "suu_usuwa.js"
@@ -12984,7 +12984,7 @@ window.SONG_DATA.push(
     {
   "title": "夕景イエスタディ",
   "artist": "じん",
-  "collection": "【 稀羽すう / Re:AcT 】歌おうぜ。 水曜定期歌枠 106 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=6",
   "source": "suu_usuwa.js"
@@ -12992,7 +12992,7 @@ window.SONG_DATA.push(
     {
   "title": "RIDE ON TIME",
   "artist": "山下 達郎",
-  "collection": "【 稀羽すう / Re:AcT 】歌おうぜ。 水曜定期歌枠 106 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=7",
   "source": "suu_usuwa.js"
@@ -13000,7 +13000,7 @@ window.SONG_DATA.push(
     {
   "title": "時よ",
   "artist": "星野源",
-  "collection": "【 稀羽すう / Re:AcT 】歌おうぜ。 水曜定期歌枠 106 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=8",
   "source": "suu_usuwa.js"
@@ -13008,7 +13008,7 @@ window.SONG_DATA.push(
     {
   "title": "恋",
   "artist": "星野源",
-  "collection": "【 稀羽すう / Re:AcT 】歌おうぜ。 水曜定期歌枠 106 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=9",
   "source": "suu_usuwa.js"
@@ -13016,7 +13016,7 @@ window.SONG_DATA.push(
     {
   "title": "ひまわりの約束",
   "artist": "秦基博",
-  "collection": "【 稀羽すう / Re:AcT 】歌おうぜ。 水曜定期歌枠 106 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=10",
   "source": "suu_usuwa.js"
@@ -13024,7 +13024,7 @@ window.SONG_DATA.push(
     {
   "title": "花ざかりWeekend",
   "artist": "4Luxury",
-  "collection": "【稀羽すう 2025年04月26日偶像歌曲接力】我成为了偶像…！？",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "suu_usuwa.js"
@@ -13032,7 +13032,7 @@ window.SONG_DATA.push(
     {
   "title": "カレンダーガール",
   "artist": "STAR☆ANIS",
-  "collection": "【稀羽すう 2025年04月26日偶像歌曲接力】我成为了偶像…！？",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "suu_usuwa.js"
@@ -13040,7 +13040,7 @@ window.SONG_DATA.push(
     {
   "title": "too late",
   "artist": "月紫アリア",
-  "collection": "【稀羽すう 2025年04月26日偶像歌曲接力】我成为了偶像…！？",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "suu_usuwa.js"
@@ -13048,7 +13048,7 @@ window.SONG_DATA.push(
     {
   "title": "絶対アイドル辞めないで",
   "artist": "=LOVE",
-  "collection": "【稀羽すう 2025年04月26日偶像歌曲接力】我成为了偶像…！？",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "suu_usuwa.js"
@@ -13056,7 +13056,7 @@ window.SONG_DATA.push(
     {
   "title": "Beautiful World",
   "artist": "宇多田ヒカル",
-  "collection": "【 稀羽すう】水曜20時は定期歌枠 Singing Stream #107",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "suu_usuwa.js"
@@ -13064,7 +13064,7 @@ window.SONG_DATA.push(
     {
   "title": "星座になれたら",
   "artist": "結束バンド",
-  "collection": "【 稀羽すう】水曜20時は定期歌枠 Singing Stream #107",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "suu_usuwa.js"
@@ -13072,7 +13072,7 @@ window.SONG_DATA.push(
     {
   "title": "星間飛行",
   "artist": "ランカ・リー(中島愛)",
-  "collection": "【 稀羽すう】水曜20時は定期歌枠 Singing Stream #107",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "suu_usuwa.js"
@@ -13080,7 +13080,7 @@ window.SONG_DATA.push(
     {
   "title": "いけないボーダーライン",
   "artist": "ワルキューレ",
-  "collection": "【 稀羽すう】水曜20時は定期歌枠 Singing Stream #107",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "suu_usuwa.js"
@@ -13088,7 +13088,7 @@ window.SONG_DATA.push(
     {
   "title": "Shine!!",
   "artist": "CINDERELLA PROJECT",
-  "collection": "【 稀羽すう】水曜20時は定期歌枠 Singing Stream #107",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=5",
   "source": "suu_usuwa.js"
@@ -13096,7 +13096,7 @@ window.SONG_DATA.push(
     {
   "title": "幾億光年",
   "artist": "Omoinotake",
-  "collection": "【 稀羽すう】水曜20時は定期歌枠 Singing Stream #107",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=6",
   "source": "suu_usuwa.js"
@@ -13104,7 +13104,7 @@ window.SONG_DATA.push(
     {
   "title": "きらり",
   "artist": "藤井 風",
-  "collection": "【 稀羽すう】水曜20時は定期歌枠 Singing Stream #107",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=7",
   "source": "suu_usuwa.js"
@@ -13112,7 +13112,7 @@ window.SONG_DATA.push(
     {
   "title": "Plazma",
   "artist": "米津玄師",
-  "collection": "【 稀羽すう】水曜20時は定期歌枠 Singing Stream #107",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=8",
   "source": "suu_usuwa.js"
@@ -13120,7 +13120,7 @@ window.SONG_DATA.push(
     {
   "title": "プラチナ",
   "artist": "坂本真綾",
-  "collection": "【 稀羽すう】水曜20時は定期歌枠 Singing Stream #107",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=9",
   "source": "suu_usuwa.js"
@@ -13128,7 +13128,7 @@ window.SONG_DATA.push(
     {
   "title": "Catch You Catch Me",
   "artist": "グミ",
-  "collection": "【 稀羽すう】水曜20時は定期歌枠 Singing Stream #107",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=10",
   "source": "suu_usuwa.js"
@@ -13136,7 +13136,7 @@ window.SONG_DATA.push(
     {
   "title": "天体観測",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【 稀羽すう】水曜20時は定期歌枠 Singing Stream #107",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=11",
   "source": "suu_usuwa.js"
@@ -13144,7 +13144,7 @@ window.SONG_DATA.push(
     {
   "title": "Lost my music",
   "artist": "涼宮ハルヒ(平野綾)",
-  "collection": "【 稀羽すう】水曜20時は定期歌枠 Singing Stream #107",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=12",
   "source": "suu_usuwa.js"
@@ -13152,7 +13152,7 @@ window.SONG_DATA.push(
     {
   "title": "God knows...",
   "artist": "涼宮ハルヒ(平野綾)",
-  "collection": "【 稀羽すう】水曜20時は定期歌枠 Singing Stream #107",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=13",
   "source": "suu_usuwa.js"
@@ -13160,7 +13160,7 @@ window.SONG_DATA.push(
     {
   "title": "君の知らない物語",
   "artist": "supercell",
-  "collection": "【 稀羽すう】水曜20時は定期歌枠 Singing Stream #107",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=14",
   "source": "suu_usuwa.js"
@@ -13168,7 +13168,7 @@ window.SONG_DATA.push(
     {
   "title": "フリージア",
   "artist": "Uru",
-  "collection": "【 稀羽すう】水曜20時は定期歌枠 Singing Stream #107",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=15",
   "source": "suu_usuwa.js"
@@ -13176,7 +13176,7 @@ window.SONG_DATA.push(
     {
   "title": "地球儀",
   "artist": "米津玄師",
-  "collection": "【 稀羽すう】水曜20時は定期歌枠 Singing Stream #107",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=16",
   "source": "suu_usuwa.js"
@@ -13184,7 +13184,7 @@ window.SONG_DATA.push(
     {
   "title": "ベテルギウス",
   "artist": "優里",
-  "collection": "【 稀羽すう】水曜20時は定期歌枠 Singing Stream #107",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=17",
   "source": "suu_usuwa.js"
@@ -13192,7 +13192,7 @@ window.SONG_DATA.push(
     {
   "title": "ヴィーナスとジーザス",
   "artist": "やくしまるえつこ",
-  "collection": "稀羽すう 竖屏 夕暮れ時に歌をお届け 2025年5月7日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -13200,7 +13200,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄",
   "artist": "Vaundy",
-  "collection": "稀羽すう 竖屏 夕暮れ時に歌をお届け 2025年5月7日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -13208,7 +13208,7 @@ window.SONG_DATA.push(
     {
   "title": "プラチナ",
   "artist": "坂本真綾",
-  "collection": "稀羽すう 竖屏 夕暮れ時に歌をお届け 2025年5月7日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -13216,7 +13216,7 @@ window.SONG_DATA.push(
     {
   "title": "CLEAR",
   "artist": "坂本真綾",
-  "collection": "稀羽すう 竖屏 夕暮れ時に歌をお届け 2025年5月7日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -13224,7 +13224,7 @@ window.SONG_DATA.push(
     {
   "title": "Catch You Catch Me",
   "artist": "グミ",
-  "collection": "稀羽すう 竖屏 夕暮れ時に歌をお届け 2025年5月7日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -13232,7 +13232,7 @@ window.SONG_DATA.push(
     {
   "title": "風になる",
   "artist": "つじあやの",
-  "collection": "稀羽すう 竖屏 夕暮れ時に歌をお届け 2025年5月7日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -13240,7 +13240,7 @@ window.SONG_DATA.push(
     {
   "title": "ルージュの伝言",
   "artist": "松任谷由実",
-  "collection": "稀羽すう 竖屏 夕暮れ時に歌をお届け 2025年5月7日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -13248,7 +13248,7 @@ window.SONG_DATA.push(
     {
   "title": "Pop Virus",
   "artist": "星野源",
-  "collection": "稀羽すう 竖屏 夕暮れ時に歌をお届け 2025年5月7日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -13256,7 +13256,7 @@ window.SONG_DATA.push(
     {
   "title": "花に亡霊",
   "artist": "ヨルシカ",
-  "collection": "稀羽すう 竖屏 夕暮れ時に歌をお届け 2025年5月7日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -13264,7 +13264,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒",
   "artist": "ヨルシカ",
-  "collection": "稀羽すう 竖屏 夕暮れ時に歌をお届け 2025年5月7日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -13272,7 +13272,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ",
-  "collection": "稀羽すう 竖屏 夕暮れ時に歌をお届け 2025年5月7日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -13280,7 +13280,7 @@ window.SONG_DATA.push(
     {
   "title": "不可思議のカルテ",
   "artist": "from青春ブタ野郎はバニーガール先輩の夢を見ない",
-  "collection": "稀羽すう 竖屏 夕暮れ時に歌をお届け 2025年5月7日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -13288,7 +13288,7 @@ window.SONG_DATA.push(
     {
   "title": "シャル・ウィ・ダンス？",
   "artist": "ReoNa",
-  "collection": "稀羽すう 竖屏 夕暮れ時に歌をお届け 2025年5月7日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -13296,7 +13296,7 @@ window.SONG_DATA.push(
     {
   "title": "ANIMA",
   "artist": "ReoNa",
-  "collection": "稀羽すう 竖屏 夕暮れ時に歌をお届け 2025年5月7日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -13304,7 +13304,7 @@ window.SONG_DATA.push(
     {
   "title": "Plazma",
   "artist": "米津玄師",
-  "collection": "稀羽すう 竖屏 夕暮れ時に歌をお届け 2025年5月7日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=15",
   "source": "suu_usuwa.js"
@@ -13312,7 +13312,7 @@ window.SONG_DATA.push(
     {
   "title": "残響賛歌",
   "artist": "Aimer",
-  "collection": "稀羽すう 竖屏 夕暮れ時に歌をお届け 2025年5月7日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=16",
   "source": "suu_usuwa.js"
@@ -13320,7 +13320,7 @@ window.SONG_DATA.push(
     {
   "title": "ファタール",
   "artist": "GEMN",
-  "collection": "稀羽すう 竖屏 夕暮れ時に歌をお届け 2025年5月7日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=17",
   "source": "suu_usuwa.js"
@@ -13328,7 +13328,7 @@ window.SONG_DATA.push(
     {
   "title": "不可幸力",
   "artist": "Vaundy",
-  "collection": "稀羽すう 竖屏 夕暮れ時に歌をお届け 2025年5月7日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=18",
   "source": "suu_usuwa.js"
@@ -13336,7 +13336,7 @@ window.SONG_DATA.push(
     {
   "title": "ハレンチ",
   "artist": "ちゃんみな",
-  "collection": "稀羽すう 竖屏 夕暮れ時に歌をお届け 2025年5月7日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=19",
   "source": "suu_usuwa.js"
@@ -13344,7 +13344,7 @@ window.SONG_DATA.push(
     {
   "title": "都落ち",
   "artist": "ヨルシカ",
-  "collection": "稀羽すう 竖屏 夕暮れ時に歌をお届け 2025年5月7日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=20",
   "source": "suu_usuwa.js"
@@ -13352,7 +13352,7 @@ window.SONG_DATA.push(
     {
   "title": "やさしさに包まれたなら",
   "artist": "松任谷由実",
-  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -13360,7 +13360,7 @@ window.SONG_DATA.push(
     {
   "title": "朝ごはんの歌",
   "artist": "手嶌葵",
-  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -13368,7 +13368,7 @@ window.SONG_DATA.push(
     {
   "title": "Mornin’ Belll",
   "artist": "稀羽すう",
-  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -13376,7 +13376,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -13384,7 +13384,7 @@ window.SONG_DATA.push(
     {
   "title": "ケセラセラ",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -13392,7 +13392,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ",
-  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -13400,7 +13400,7 @@ window.SONG_DATA.push(
     {
   "title": "へび",
   "artist": "ヨルシカ",
-  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -13408,7 +13408,7 @@ window.SONG_DATA.push(
     {
   "title": "左右盲",
   "artist": "ヨルシカ",
-  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -13416,7 +13416,7 @@ window.SONG_DATA.push(
     {
   "title": "アイデア",
   "artist": "星野源",
-  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -13424,7 +13424,7 @@ window.SONG_DATA.push(
     {
   "title": "マジックナンバー",
   "artist": "坂本真綾",
-  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -13432,7 +13432,7 @@ window.SONG_DATA.push(
     {
   "title": "白金ディスコ",
   "artist": "阿良々木月火(井口裕香)",
-  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -13440,7 +13440,7 @@ window.SONG_DATA.push(
     {
   "title": "空",
   "artist": "音無小鳥(滝田樹里)",
-  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=12",
   "source": "suu_usuwa.js"
@@ -13448,7 +13448,7 @@ window.SONG_DATA.push(
     {
   "title": "スマイル・エンゲージ",
   "artist": "Beit",
-  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=13",
   "source": "suu_usuwa.js"
@@ -13456,7 +13456,7 @@ window.SONG_DATA.push(
     {
   "title": "Blooming♡Blooming",
   "artist": "るか from AIKATSU☆STARS！",
-  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=14",
   "source": "suu_usuwa.js"
@@ -13464,7 +13464,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れられないの",
   "artist": "サカナクション",
-  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=15",
   "source": "suu_usuwa.js"
@@ -13472,7 +13472,7 @@ window.SONG_DATA.push(
     {
   "title": "Lemon",
   "artist": "米津玄師",
-  "collection": "【稀羽すう 竖屏】 お昼から、歌う。 250517#shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -13480,7 +13480,7 @@ window.SONG_DATA.push(
     {
   "title": "オレンジ",
   "artist": "逢坂大河(cv.釘宮理恵)、櫛枝実乃梨(cv.堀江由衣)、川嶋亜美(cv.喜多村英梨)",
-  "collection": "【稀羽すう 竖屏】 お昼から、歌う。 250517#shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -13488,7 +13488,7 @@ window.SONG_DATA.push(
     {
   "title": "チェリー",
   "artist": "スピッツ",
-  "collection": "【稀羽すう 竖屏】 お昼から、歌う。 250517#shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -13496,7 +13496,7 @@ window.SONG_DATA.push(
     {
   "title": "CHE.R.RY",
   "artist": "YUI",
-  "collection": "【稀羽すう 竖屏】 お昼から、歌う。 250517#shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -13504,7 +13504,7 @@ window.SONG_DATA.push(
     {
   "title": "名前の無い怪物",
   "artist": "EGOIST",
-  "collection": "【稀羽すう 竖屏】 お昼から、歌う。 250517#shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -13512,7 +13512,7 @@ window.SONG_DATA.push(
     {
   "title": "地獄で何が悪い",
   "artist": "星野源",
-  "collection": "【稀羽すう 竖屏】 お昼から、歌う。 250517#shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -13520,7 +13520,7 @@ window.SONG_DATA.push(
     {
   "title": "supernova",
   "artist": "春野と雄之助",
-  "collection": "【稀羽すう 竖屏】 お昼から、歌う。 250517#shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -13528,7 +13528,7 @@ window.SONG_DATA.push(
     {
   "title": "静かなる逆襲",
   "artist": "椎名林檎",
-  "collection": "【稀羽すう 竖屏】 お昼から、歌う。 250517#shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -13536,7 +13536,7 @@ window.SONG_DATA.push(
     {
   "title": "丸の内サディスティック",
   "artist": "椎名林檎",
-  "collection": "【稀羽すう 竖屏】 お昼から、歌う。 250517#shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -13544,7 +13544,7 @@ window.SONG_DATA.push(
     {
   "title": "愛を伝えたいだとか",
   "artist": "あいみょん",
-  "collection": "【稀羽すう 竖屏】 お昼から、歌う。 250517#shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -13552,7 +13552,7 @@ window.SONG_DATA.push(
     {
   "title": "風になる",
   "artist": "つじあやの",
-  "collection": "【稀羽すう 竖屏】 お昼から、歌う。 250517#shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -13560,7 +13560,7 @@ window.SONG_DATA.push(
     {
   "title": "テルーの唄",
   "artist": "手嶌葵",
-  "collection": "【稀羽すう 竖屏】 お昼から、歌う。 250517#shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=12",
   "source": "suu_usuwa.js"
@@ -13568,7 +13568,7 @@ window.SONG_DATA.push(
     {
   "title": "少女レイ",
   "artist": "みきとP",
-  "collection": "【稀羽すう 竖屏】 お昼から、歌う。 250517#shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=13",
   "source": "suu_usuwa.js"
@@ -13576,7 +13576,7 @@ window.SONG_DATA.push(
     {
   "title": "できっこないを やらなくちゃ",
   "artist": "サンボマスター",
-  "collection": "【稀羽すう 竖屏】 お昼から、歌う。 250517#shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=14",
   "source": "suu_usuwa.js"
@@ -13584,7 +13584,7 @@ window.SONG_DATA.push(
     {
   "title": "世界はそれを愛と呼ぶんだぜ",
   "artist": "サンボマスター",
-  "collection": "【稀羽すう 竖屏】 お昼から、歌う。 250517#shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=15",
   "source": "suu_usuwa.js"
@@ -13592,7 +13592,7 @@ window.SONG_DATA.push(
     {
   "title": "犬かキャットかで死ぬまでケンカしよう",
   "artist": "Official髭男dism",
-  "collection": "【稀羽すう 竖屏】 お昼から、歌う。 250517#shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=16",
   "source": "suu_usuwa.js"
@@ -13600,7 +13600,7 @@ window.SONG_DATA.push(
     {
   "title": "君の知らない物語",
   "artist": "supercell",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=1",
   "source": "suu_usuwa.js"
@@ -13608,7 +13608,7 @@ window.SONG_DATA.push(
     {
   "title": "星間飛行",
   "artist": "ランカ・リー(中島愛)",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=2",
   "source": "suu_usuwa.js"
@@ -13616,7 +13616,7 @@ window.SONG_DATA.push(
     {
   "title": "オリオンをなぞる",
   "artist": "UNISON SQUARE GARDEN",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=3",
   "source": "suu_usuwa.js"
@@ -13624,7 +13624,7 @@ window.SONG_DATA.push(
     {
   "title": "メランコリック",
   "artist": "Junky",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=4",
   "source": "suu_usuwa.js"
@@ -13632,7 +13632,7 @@ window.SONG_DATA.push(
     {
   "title": "ユニバーサル・バニー",
   "artist": "シェリル・ノーム starring May'n",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=5",
   "source": "suu_usuwa.js"
@@ -13640,7 +13640,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣",
   "artist": "サカナクション",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=6",
   "source": "suu_usuwa.js"
@@ -13648,7 +13648,7 @@ window.SONG_DATA.push(
     {
   "title": "アポリア",
   "artist": "ヨルシカ",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=7",
   "source": "suu_usuwa.js"
@@ -13656,7 +13656,7 @@ window.SONG_DATA.push(
     {
   "title": "へび",
   "artist": "ヨルシカ",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=8",
   "source": "suu_usuwa.js"
@@ -13664,7 +13664,7 @@ window.SONG_DATA.push(
     {
   "title": "NIGHTDANCER",
   "artist": "imase",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=9",
   "source": "suu_usuwa.js"
@@ -13672,7 +13672,7 @@ window.SONG_DATA.push(
     {
   "title": "fake face dance music",
   "artist": "音田雅則",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=10",
   "source": "suu_usuwa.js"
@@ -13680,7 +13680,7 @@ window.SONG_DATA.push(
     {
   "title": "月のワルツ",
   "artist": "諫山実生",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=11",
   "source": "suu_usuwa.js"
@@ -13688,7 +13688,7 @@ window.SONG_DATA.push(
     {
   "title": "ワンルーム・オール・ザット・ジャズ",
   "artist": "DATEKEN",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=12",
   "source": "suu_usuwa.js"
@@ -13696,7 +13696,7 @@ window.SONG_DATA.push(
     {
   "title": "灰色と青",
   "artist": "米津玄師＆菅田将暉",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=13",
   "source": "suu_usuwa.js"
@@ -13704,7 +13704,7 @@ window.SONG_DATA.push(
     {
   "title": "回る空うさぎ",
   "artist": "Orangestar",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=14",
   "source": "suu_usuwa.js"
@@ -13712,7 +13712,7 @@ window.SONG_DATA.push(
     {
   "title": "トンデモワンダーズ",
   "artist": "sasakure.UK",
-  "collection": "【 稀羽すう / Re:AcT 】明日お誕生日です。 水曜20時は定期歌枠 #109",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -13720,7 +13720,7 @@ window.SONG_DATA.push(
     {
   "title": "HELLO",
   "artist": "Official髭男dism",
-  "collection": "【 稀羽すう / Re:AcT 】明日お誕生日です。 水曜20時は定期歌枠 #109",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -13728,7 +13728,7 @@ window.SONG_DATA.push(
     {
   "title": "ダンスホール",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【 稀羽すう / Re:AcT 】明日お誕生日です。 水曜20時は定期歌枠 #109",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -13736,7 +13736,7 @@ window.SONG_DATA.push(
     {
   "title": "アポロ",
   "artist": "ポルノグラフィティ",
-  "collection": "【 稀羽すう / Re:AcT 】明日お誕生日です。 水曜20時は定期歌枠 #109",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -13744,7 +13744,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣",
   "artist": "サカナクション",
-  "collection": "【 稀羽すう / Re:AcT 】明日お誕生日です。 水曜20時は定期歌枠 #109",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -13752,7 +13752,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーダウト",
   "artist": "Official髭男dism",
-  "collection": "【 稀羽すう / Re:AcT 】明日お誕生日です。 水曜20時は定期歌枠 #109",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -13760,7 +13760,7 @@ window.SONG_DATA.push(
     {
   "title": "Plazma",
   "artist": "米津玄師",
-  "collection": "【 稀羽すう / Re:AcT 】明日お誕生日です。 水曜20時は定期歌枠 #109",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -13768,7 +13768,7 @@ window.SONG_DATA.push(
     {
   "title": "祝福",
   "artist": "YOASOBI",
-  "collection": "【 稀羽すう / Re:AcT 】明日お誕生日です。 水曜20時は定期歌枠 #109",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -13776,7 +13776,7 @@ window.SONG_DATA.push(
     {
   "title": "ラブレター",
   "artist": "YOASOBI",
-  "collection": "【 稀羽すう / Re:AcT 】明日お誕生日です。 水曜20時は定期歌枠 #109",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -13784,7 +13784,7 @@ window.SONG_DATA.push(
     {
   "title": "DAN DAN 心魅かれてく",
   "artist": "FIELD OF VIEW",
-  "collection": "【 稀羽すう / Re:AcT 】明日お誕生日です。 水曜20時は定期歌枠 #109",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -13792,7 +13792,7 @@ window.SONG_DATA.push(
     {
   "title": "Booo!",
   "artist": "TOKOTOKO（西沢さんP）",
-  "collection": "【 稀羽すう / Re:AcT 】明日お誕生日です。 水曜20時は定期歌枠 #109",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -13800,7 +13800,7 @@ window.SONG_DATA.push(
     {
   "title": "カレンダーガール",
   "artist": "STAR☆ANIS",
-  "collection": "【 稀羽すう / Re:AcT 】明日お誕生日です。 水曜20時は定期歌枠 #109",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -13808,7 +13808,7 @@ window.SONG_DATA.push(
     {
   "title": "さよーならまたいつか！",
   "artist": "米津玄師",
-  "collection": "【 稀羽すう / Re:AcT 】明日お誕生日です。 水曜20時は定期歌枠 #109",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -13816,7 +13816,7 @@ window.SONG_DATA.push(
     {
   "title": "Ready To Party",
   "artist": "稀羽すう",
-  "collection": "【 #稀羽すう生誕祭2025 】3D BIRTHDAY LIVE 「ようこそ、喫茶シーニュへ！ 」",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -13824,7 +13824,7 @@ window.SONG_DATA.push(
     {
   "title": "ルージュの伝言",
   "artist": "荒井由実",
-  "collection": "【 #稀羽すう生誕祭2025 】3D BIRTHDAY LIVE 「ようこそ、喫茶シーニュへ！ 」",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -13832,7 +13832,7 @@ window.SONG_DATA.push(
     {
   "title": "クリームソーダとシャンデリア",
   "artist": "Mei & Henrii　with yosumi",
-  "collection": "【 #稀羽すう生誕祭2025 】3D BIRTHDAY LIVE 「ようこそ、喫茶シーニュへ！ 」",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -13840,7 +13840,7 @@ window.SONG_DATA.push(
     {
   "title": "コーヒーとシロップ",
   "artist": "Official髭男dism　with 巫てんり",
-  "collection": "【 #稀羽すう生誕祭2025 】3D BIRTHDAY LIVE 「ようこそ、喫茶シーニュへ！ 」",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -13848,7 +13848,7 @@ window.SONG_DATA.push(
     {
   "title": "平行線",
   "artist": "Eve × suis from ヨルシカ　with 花鋏キョウ",
-  "collection": "【 #稀羽すう生誕祭2025 】3D BIRTHDAY LIVE 「ようこそ、喫茶シーニュへ！ 」",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -13856,7 +13856,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ　with 涼海ネモ",
-  "collection": "【 #稀羽すう生誕祭2025 】3D BIRTHDAY LIVE 「ようこそ、喫茶シーニュへ！ 」",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -13864,7 +13864,7 @@ window.SONG_DATA.push(
     {
   "title": "seaglass",
   "artist": "稀羽すう",
-  "collection": "【 #稀羽すう生誕祭2025 】3D BIRTHDAY LIVE 「ようこそ、喫茶シーニュへ！ 」",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -13872,7 +13872,7 @@ window.SONG_DATA.push(
     {
   "title": "満ちてゆく",
   "artist": "藤井風",
-  "collection": "【 #稀羽すう生誕祭2025 】3D BIRTHDAY LIVE 「ようこそ、喫茶シーニュへ！ 」",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -13880,7 +13880,7 @@ window.SONG_DATA.push(
     {
   "title": "Beneath the Mask",
   "artist": "Lyn",
-  "collection": "【 #稀羽すう生誕祭2025 】3D BIRTHDAY LIVE 「ようこそ、喫茶シーニュへ！ 」",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -13888,7 +13888,7 @@ window.SONG_DATA.push(
     {
   "title": "雨傘",
   "artist": "TOKIO",
-  "collection": "【  稀羽すう 竖屏 】 雨の日を彩る歌 #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -13896,7 +13896,7 @@ window.SONG_DATA.push(
     {
   "title": "ブレーメン",
   "artist": "ヨルシカ",
-  "collection": "【  稀羽すう 竖屏 】 雨の日を彩る歌 #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -13904,7 +13904,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
-  "collection": "【  稀羽すう 竖屏 】 雨の日を彩る歌 #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -13912,7 +13912,7 @@ window.SONG_DATA.push(
     {
   "title": "アポリア",
   "artist": "ヨルシカ",
-  "collection": "【  稀羽すう 竖屏 】 雨の日を彩る歌 #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -13920,7 +13920,7 @@ window.SONG_DATA.push(
     {
   "title": "アイデア",
   "artist": "星野源",
-  "collection": "【  稀羽すう 竖屏 】 雨の日を彩る歌 #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -13928,7 +13928,7 @@ window.SONG_DATA.push(
     {
   "title": "ハレンチ",
   "artist": "ちゃんみな",
-  "collection": "【  稀羽すう 竖屏 】 雨の日を彩る歌 #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -13936,7 +13936,7 @@ window.SONG_DATA.push(
     {
   "title": "カブトムシ",
   "artist": "aiko",
-  "collection": "【  稀羽すう 竖屏 】 雨の日を彩る歌 #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -13944,7 +13944,7 @@ window.SONG_DATA.push(
     {
   "title": "キラキラ",
   "artist": "aiko",
-  "collection": "【  稀羽すう 竖屏 】 雨の日を彩る歌 #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -13952,7 +13952,7 @@ window.SONG_DATA.push(
     {
   "title": "プラチナ",
   "artist": "坂本真綾",
-  "collection": "【  稀羽すう 竖屏 】 雨の日を彩る歌 #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -13960,7 +13960,7 @@ window.SONG_DATA.push(
     {
   "title": "メルト",
   "artist": "ryo",
-  "collection": "【  稀羽すう 竖屏 】 雨の日を彩る歌 #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -13968,7 +13968,7 @@ window.SONG_DATA.push(
     {
   "title": "ミュージック・アワー",
   "artist": "ポルノグラフィティ",
-  "collection": "【  稀羽すう 竖屏 】 雨の日を彩る歌 #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -13976,7 +13976,7 @@ window.SONG_DATA.push(
     {
   "title": "長く短い祭",
   "artist": "椎名林檎",
-  "collection": "【  稀羽すう 竖屏 】 雨の日を彩る歌 #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -13984,7 +13984,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【  稀羽すう 竖屏 】 雨の日を彩る歌 #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -13992,7 +13992,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣",
   "artist": "サカナクション",
-  "collection": "【  稀羽すう 竖屏 】 雨の日を彩る歌 #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -14000,7 +14000,7 @@ window.SONG_DATA.push(
     {
   "title": "カタオモイ",
   "artist": "Aimer",
-  "collection": "【  稀羽すう 竖屏 】 雨の日を彩る歌 #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=15",
   "source": "suu_usuwa.js"
@@ -14008,7 +14008,7 @@ window.SONG_DATA.push(
     {
   "title": "花ざかりWeekend",
   "artist": "4Luxury",
-  "collection": "【  稀羽すう 竖屏 】 雨の日を彩る歌 #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=16",
   "source": "suu_usuwa.js"
@@ -14016,7 +14016,7 @@ window.SONG_DATA.push(
     {
   "title": "幾億光年",
   "artist": "Omoinotake",
-  "collection": "【  稀羽すう 竖屏 】 雨の日を彩る歌 #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=17",
   "source": "suu_usuwa.js"
@@ -14024,7 +14024,7 @@ window.SONG_DATA.push(
     {
   "title": "コーヒーとシロップ",
   "artist": "Official髭男dism",
-  "collection": "【 稀羽すう 】茶でもしばくか☕ 水曜20時は定期歌枠#110",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=1",
   "source": "suu_usuwa.js"
@@ -14032,7 +14032,7 @@ window.SONG_DATA.push(
     {
   "title": "気まぐれロマンティック",
   "artist": "いきものがかり",
-  "collection": "【 稀羽すう 】茶でもしばくか☕ 水曜20時は定期歌枠#110",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=2",
   "source": "suu_usuwa.js"
@@ -14040,7 +14040,7 @@ window.SONG_DATA.push(
     {
   "title": "接吻",
   "artist": "Original Love",
-  "collection": "【 稀羽すう 】茶でもしばくか☕ 水曜20時は定期歌枠#110",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=3",
   "source": "suu_usuwa.js"
@@ -14048,7 +14048,7 @@ window.SONG_DATA.push(
     {
   "title": "シュガーソングとビターステップ",
   "artist": "UNISON SQUARE GARDEN",
-  "collection": "【 稀羽すう 】茶でもしばくか☕ 水曜20時は定期歌枠#110",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=4",
   "source": "suu_usuwa.js"
@@ -14056,7 +14056,7 @@ window.SONG_DATA.push(
     {
   "title": "SWEET TWEET",
   "artist": "Official髭男dism",
-  "collection": "【 稀羽すう 】茶でもしばくか☕ 水曜20時は定期歌枠#110",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=5",
   "source": "suu_usuwa.js"
@@ -14064,7 +14064,7 @@ window.SONG_DATA.push(
     {
   "title": "赤いスイートピー",
   "artist": "松田聖子",
-  "collection": "【 稀羽すう 】茶でもしばくか☕ 水曜20時は定期歌枠#110",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=6",
   "source": "suu_usuwa.js"
@@ -14072,7 +14072,7 @@ window.SONG_DATA.push(
     {
   "title": "B級",
   "artist": "ちゃんみな",
-  "collection": "【 稀羽すう 】茶でもしばくか☕ 水曜20時は定期歌枠#110",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=7",
   "source": "suu_usuwa.js"
@@ -14080,7 +14080,7 @@ window.SONG_DATA.push(
     {
   "title": "ハレンチ",
   "artist": "ちゃんみな",
-  "collection": "【 稀羽すう 】茶でもしばくか☕ 水曜20時は定期歌枠#110",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=8",
   "source": "suu_usuwa.js"
@@ -14088,7 +14088,7 @@ window.SONG_DATA.push(
     {
   "title": "ロミオとシンデレラ",
   "artist": "doriko",
-  "collection": "【 稀羽すう 】茶でもしばくか☕ 水曜20時は定期歌枠#110",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=9",
   "source": "suu_usuwa.js"
@@ -14096,7 +14096,7 @@ window.SONG_DATA.push(
     {
   "title": "きらり",
   "artist": "藤井 風",
-  "collection": "【 稀羽すう 】茶でもしばくか☕ 水曜20時は定期歌枠#110",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=10",
   "source": "suu_usuwa.js"
@@ -14104,7 +14104,7 @@ window.SONG_DATA.push(
     {
   "title": "クリームソーダとシャンデリア",
   "artist": "mei × Henrii(feat.ねんね)",
-  "collection": "【 稀羽すう 】茶でもしばくか☕ 水曜20時は定期歌枠#110",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=11",
   "source": "suu_usuwa.js"
@@ -14112,7 +14112,7 @@ window.SONG_DATA.push(
     {
   "title": "melt bitter",
   "artist": "さとうもか",
-  "collection": "【 稀羽すう 】茶でもしばくか☕ 水曜20時は定期歌枠#110",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=12",
   "source": "suu_usuwa.js"
@@ -14120,7 +14120,7 @@ window.SONG_DATA.push(
     {
   "title": "トライアングラー",
   "artist": "坂本真綾",
-  "collection": "【 稀羽すう】活動開始5周年の歌をうたうよ。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=1",
   "source": "suu_usuwa.js"
@@ -14128,7 +14128,7 @@ window.SONG_DATA.push(
     {
   "title": "Plazma",
   "artist": "米津玄師",
-  "collection": "【 稀羽すう】活動開始5周年の歌をうたうよ。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=2",
   "source": "suu_usuwa.js"
@@ -14136,7 +14136,7 @@ window.SONG_DATA.push(
     {
   "title": "アカシア",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【 稀羽すう】活動開始5周年の歌をうたうよ。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=3",
   "source": "suu_usuwa.js"
@@ -14144,7 +14144,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄",
   "artist": "Vaundy",
-  "collection": "【 稀羽すう】活動開始5周年の歌をうたうよ。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=4",
   "source": "suu_usuwa.js"
@@ -14152,7 +14152,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れてやらない",
   "artist": "結束バンド",
-  "collection": "【 稀羽すう】活動開始5周年の歌をうたうよ。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=5",
   "source": "suu_usuwa.js"
@@ -14160,7 +14160,7 @@ window.SONG_DATA.push(
     {
   "title": "うるわしきひと",
   "artist": "いきものがかり",
-  "collection": "【 稀羽すう】活動開始5周年の歌をうたうよ。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=6",
   "source": "suu_usuwa.js"
@@ -14168,7 +14168,7 @@ window.SONG_DATA.push(
     {
   "title": "115万キロのフィルム",
   "artist": "Official髭男dism",
-  "collection": "【 稀羽すう】活動開始5周年の歌をうたうよ。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=7",
   "source": "suu_usuwa.js"
@@ -14176,7 +14176,7 @@ window.SONG_DATA.push(
     {
   "title": "ルーマー",
   "artist": "ポリスピカデリー",
-  "collection": "【 稀羽すう】活動開始5周年の歌をうたうよ。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=8",
   "source": "suu_usuwa.js"
@@ -14184,7 +14184,7 @@ window.SONG_DATA.push(
     {
   "title": "プラスティック・ラブ",
   "artist": "竹内まりや",
-  "collection": "【 稀羽すう】活動開始5周年の歌をうたうよ。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=9",
   "source": "suu_usuwa.js"
@@ -14192,7 +14192,7 @@ window.SONG_DATA.push(
     {
   "title": "なんでもないや",
   "artist": "RADWIMPS",
-  "collection": "【 稀羽すう】活動開始5周年の歌をうたうよ。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=10",
   "source": "suu_usuwa.js"
@@ -14200,7 +14200,7 @@ window.SONG_DATA.push(
     {
   "title": "変わらないもの",
   "artist": "奥華子",
-  "collection": "【 稀羽すう】活動開始5周年の歌をうたうよ。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=11",
   "source": "suu_usuwa.js"
@@ -14208,7 +14208,7 @@ window.SONG_DATA.push(
     {
   "title": "花に亡霊",
   "artist": "ヨルシカ",
-  "collection": "【 稀羽すう】活動開始5周年の歌をうたうよ。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=12",
   "source": "suu_usuwa.js"
@@ -14216,7 +14216,7 @@ window.SONG_DATA.push(
     {
   "title": "きらきら武士",
   "artist": "レキシ",
-  "collection": "【 稀羽すう】活動開始5周年の歌をうたうよ。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=13",
   "source": "suu_usuwa.js"
@@ -14224,7 +14224,7 @@ window.SONG_DATA.push(
     {
   "title": "ガーネット",
   "artist": "奥華子",
-  "collection": "【 稀羽すう / Re:AcT 】 ✦ 優しい夜の歌枠【 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -14232,7 +14232,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れじの言の葉",
   "artist": "未来古代楽団",
-  "collection": "【 稀羽すう / Re:AcT 】 ✦ 優しい夜の歌枠【 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -14240,7 +14240,7 @@ window.SONG_DATA.push(
     {
   "title": "やさしさに包まれたなら",
   "artist": "松任谷由実",
-  "collection": "【 稀羽すう / Re:AcT 】 ✦ 優しい夜の歌枠【 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -14248,7 +14248,7 @@ window.SONG_DATA.push(
     {
   "title": "世界の約束",
   "artist": "倍賞千恵子",
-  "collection": "【 稀羽すう / Re:AcT 】 ✦ 優しい夜の歌枠【 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -14256,7 +14256,7 @@ window.SONG_DATA.push(
     {
   "title": "ひまわりの約束",
   "artist": "秦基博",
-  "collection": "【 稀羽すう / Re:AcT 】 ✦ 優しい夜の歌枠【 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -14264,7 +14264,7 @@ window.SONG_DATA.push(
     {
   "title": "心拍数♯0822",
   "artist": "蝶々P",
-  "collection": "【 稀羽すう / Re:AcT 】 ✦ 優しい夜の歌枠【 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -14272,7 +14272,7 @@ window.SONG_DATA.push(
     {
   "title": "満ちてゆく",
   "artist": "藤井風",
-  "collection": "【 稀羽すう / Re:AcT 】 ✦ 優しい夜の歌枠【 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -14280,7 +14280,7 @@ window.SONG_DATA.push(
     {
   "title": "ガーデン",
   "artist": "藤井風",
-  "collection": "【 稀羽すう / Re:AcT 】 ✦ 優しい夜の歌枠【 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -14288,7 +14288,7 @@ window.SONG_DATA.push(
     {
   "title": "若者のすべて",
   "artist": "フジファブリック",
-  "collection": "【 稀羽すう / Re:AcT 】 ✦ 優しい夜の歌枠【 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -14296,7 +14296,7 @@ window.SONG_DATA.push(
     {
   "title": "エイリアンズ",
   "artist": "キリンジ",
-  "collection": "【 稀羽すう / Re:AcT 】 ✦ 優しい夜の歌枠【 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -14304,7 +14304,7 @@ window.SONG_DATA.push(
     {
   "title": "トロイメライ",
   "artist": "稀羽すう",
-  "collection": "【 稀羽すう / Re:AcT 】 ✦ 優しい夜の歌枠【 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -14312,7 +14312,7 @@ window.SONG_DATA.push(
     {
   "title": "夜撫でるメノウ",
   "artist": "Ayase",
-  "collection": "【 稀羽すう / Re:AcT 】 ✦ 優しい夜の歌枠【 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -14320,7 +14320,7 @@ window.SONG_DATA.push(
     {
   "title": "たぶん",
   "artist": "YOASOBI",
-  "collection": "【 稀羽すう / Re:AcT 】 ✦ 優しい夜の歌枠【 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -14328,7 +14328,7 @@ window.SONG_DATA.push(
     {
   "title": "DRIVE A LIVE",
   "artist": "315 ALLSTARS",
-  "collection": "【 稀羽すう / Re:AcT 】 ✦ 優しい夜の歌枠【 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -14336,7 +14336,7 @@ window.SONG_DATA.push(
     {
   "title": "STARLIGHT CELEBRATE!",
   "artist": "DRAMATIC STARS",
-  "collection": "【 稀羽すう / Re:AcT 】 ✦ 優しい夜の歌枠【 #歌枠 / KARAOKE 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=15",
   "source": "suu_usuwa.js"
@@ -14344,7 +14344,7 @@ window.SONG_DATA.push(
     {
   "title": "SUN",
   "artist": "星野源",
-  "collection": "2025年6月14日 稀羽すう 竖屏",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=1",
   "source": "suu_usuwa.js"
@@ -14352,7 +14352,7 @@ window.SONG_DATA.push(
     {
   "title": "桜の森",
   "artist": "星野源",
-  "collection": "2025年6月14日 稀羽すう 竖屏",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=2",
   "source": "suu_usuwa.js"
@@ -14360,7 +14360,7 @@ window.SONG_DATA.push(
     {
   "title": "できっこないを やらなくちゃ",
   "artist": "サンボマスター",
-  "collection": "2025年6月14日 稀羽すう 竖屏",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=3",
   "source": "suu_usuwa.js"
@@ -14368,7 +14368,7 @@ window.SONG_DATA.push(
     {
   "title": "孤独とランデブー",
   "artist": "サンボマスター",
-  "collection": "2025年6月14日 稀羽すう 竖屏",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=4",
   "source": "suu_usuwa.js"
@@ -14376,7 +14376,7 @@ window.SONG_DATA.push(
     {
   "title": "ロックンロール イズ ノットデッド",
   "artist": "サンボマスター",
-  "collection": "2025年6月14日 稀羽すう 竖屏",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=5",
   "source": "suu_usuwa.js"
@@ -14384,7 +14384,7 @@ window.SONG_DATA.push(
     {
   "title": "Clap Clap",
   "artist": "Official髭男dism",
-  "collection": "2025年6月14日 稀羽すう 竖屏",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=6",
   "source": "suu_usuwa.js"
@@ -14392,7 +14392,7 @@ window.SONG_DATA.push(
     {
   "title": "波乗りジョニー",
   "artist": "桑田佳祐",
-  "collection": "2025年6月14日 稀羽すう 竖屏",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=7",
   "source": "suu_usuwa.js"
@@ -14400,7 +14400,7 @@ window.SONG_DATA.push(
     {
   "title": "徒然モノクローム",
   "artist": "フジファブリック",
-  "collection": "2025年6月14日 稀羽すう 竖屏",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=8",
   "source": "suu_usuwa.js"
@@ -14408,7 +14408,7 @@ window.SONG_DATA.push(
     {
   "title": "TEENAGER",
   "artist": "フジファブリック",
-  "collection": "2025年6月14日 稀羽すう 竖屏",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=9",
   "source": "suu_usuwa.js"
@@ -14416,7 +14416,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
-  "collection": "2025年6月14日 稀羽すう 竖屏",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=10",
   "source": "suu_usuwa.js"
@@ -14424,7 +14424,7 @@ window.SONG_DATA.push(
     {
   "title": "ただ君に晴れ",
   "artist": "ヨルシカ",
-  "collection": "2025年6月14日 稀羽すう 竖屏",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=11",
   "source": "suu_usuwa.js"
@@ -14432,7 +14432,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒッチコック",
   "artist": "ヨルシカ",
-  "collection": "2025年6月14日 稀羽すう 竖屏",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=12",
   "source": "suu_usuwa.js"
@@ -14440,7 +14440,7 @@ window.SONG_DATA.push(
     {
   "title": "だから僕は音楽を辞めた",
   "artist": "ヨルシカ",
-  "collection": "2025年6月14日 稀羽すう 竖屏",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=13",
   "source": "suu_usuwa.js"
@@ -14448,7 +14448,7 @@ window.SONG_DATA.push(
     {
   "title": "rain stops, good-bye",
   "artist": "におP",
-  "collection": "2025年6月14日 稀羽すう 竖屏",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=14",
   "source": "suu_usuwa.js"
@@ -14456,7 +14456,7 @@ window.SONG_DATA.push(
     {
   "title": "天ノ弱",
   "artist": "164",
-  "collection": "2025年6月14日 稀羽すう 竖屏",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=15",
   "source": "suu_usuwa.js"
@@ -14464,7 +14464,7 @@ window.SONG_DATA.push(
     {
   "title": "Heart Beats",
   "artist": "emon（Tes.）",
-  "collection": "2025年6月14日 稀羽すう 竖屏",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=16",
   "source": "suu_usuwa.js"
@@ -14472,7 +14472,7 @@ window.SONG_DATA.push(
     {
   "title": "Climax jump",
   "artist": "AAA DEN-O form",
-  "collection": "2025年6月14日 稀羽すう 竖屏",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=17",
   "source": "suu_usuwa.js"
@@ -14480,7 +14480,7 @@ window.SONG_DATA.push(
     {
   "title": "冒険でしょでしょ",
   "artist": "平野綾",
-  "collection": "【 #歌枠 / KARAOKE 】あつさに負けたくないよ 水曜日は定期歌枠 Singing Stream #111【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=1",
   "source": "suu_usuwa.js"
@@ -14488,7 +14488,7 @@ window.SONG_DATA.push(
     {
   "title": "ライオン",
   "artist": "シェリル・ノーム starring May'n,ランカ・リー(中島愛)",
-  "collection": "【 #歌枠 / KARAOKE 】あつさに負けたくないよ 水曜日は定期歌枠 Singing Stream #111【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=2",
   "source": "suu_usuwa.js"
@@ -14496,7 +14496,7 @@ window.SONG_DATA.push(
     {
   "title": "Never More",
   "artist": "平田志穂子",
-  "collection": "【 #歌枠 / KARAOKE 】あつさに負けたくないよ 水曜日は定期歌枠 Singing Stream #111【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=3",
   "source": "suu_usuwa.js"
@@ -14504,7 +14504,7 @@ window.SONG_DATA.push(
     {
   "title": "Plazma",
   "artist": "米津玄師",
-  "collection": "【 #歌枠 / KARAOKE 】あつさに負けたくないよ 水曜日は定期歌枠 Singing Stream #111【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=4",
   "source": "suu_usuwa.js"
@@ -14512,7 +14512,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【 #歌枠 / KARAOKE 】あつさに負けたくないよ 水曜日は定期歌枠 Singing Stream #111【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=5",
   "source": "suu_usuwa.js"
@@ -14520,7 +14520,7 @@ window.SONG_DATA.push(
     {
   "title": "Cry Baby",
   "artist": "Official髭男dism",
-  "collection": "【 #歌枠 / KARAOKE 】あつさに負けたくないよ 水曜日は定期歌枠 Singing Stream #111【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=6",
   "source": "suu_usuwa.js"
@@ -14528,7 +14528,7 @@ window.SONG_DATA.push(
     {
   "title": "I LOVE...",
   "artist": "official髭男dism",
-  "collection": "【 #歌枠 / KARAOKE 】あつさに負けたくないよ 水曜日は定期歌枠 Singing Stream #111【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=7",
   "source": "suu_usuwa.js"
@@ -14536,7 +14536,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣",
   "artist": "サカナクション",
-  "collection": "【 #歌枠 / KARAOKE 】あつさに負けたくないよ 水曜日は定期歌枠 Singing Stream #111【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=8",
   "source": "suu_usuwa.js"
@@ -14544,7 +14544,7 @@ window.SONG_DATA.push(
     {
   "title": "アポリア",
   "artist": "ヨルシカ",
-  "collection": "【 #歌枠 / KARAOKE 】あつさに負けたくないよ 水曜日は定期歌枠 Singing Stream #111【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=9",
   "source": "suu_usuwa.js"
@@ -14552,7 +14552,7 @@ window.SONG_DATA.push(
     {
   "title": "secret base～君がくれたもの～",
   "artist": "ZONE",
-  "collection": "【 #歌枠 / KARAOKE 】あつさに負けたくないよ 水曜日は定期歌枠 Singing Stream #111【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=10",
   "source": "suu_usuwa.js"
@@ -14560,7 +14560,7 @@ window.SONG_DATA.push(
     {
   "title": "灼熱スイッチ",
   "artist": "雀が原中学卓球部",
-  "collection": "【 #歌枠 / KARAOKE 】あつさに負けたくないよ 水曜日は定期歌枠 Singing Stream #111【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=11",
   "source": "suu_usuwa.js"
@@ -14568,7 +14568,7 @@ window.SONG_DATA.push(
     {
   "title": "青のすみか",
   "artist": "キタニタツヤ",
-  "collection": "【 #歌枠 / KARAOKE 】あつさに負けたくないよ 水曜日は定期歌枠 Singing Stream #111【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=12",
   "source": "suu_usuwa.js"
@@ -14576,7 +14576,7 @@ window.SONG_DATA.push(
     {
   "title": "フライディ・チャイナタウン",
   "artist": "泰葉",
-  "collection": "【 #歌枠 / KARAOKE 】あつさに負けたくないよ 水曜日は定期歌枠 Singing Stream #111【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=13",
   "source": "suu_usuwa.js"
@@ -14584,7 +14584,7 @@ window.SONG_DATA.push(
     {
   "title": "キミの記憶",
   "artist": "川村ゆみ",
-  "collection": "【 #歌枠 / KARAOKE 】あつさに負けたくないよ 水曜日は定期歌枠 Singing Stream #111【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=14",
   "source": "suu_usuwa.js"
@@ -14592,7 +14592,7 @@ window.SONG_DATA.push(
     {
   "title": "夢色VOYAGER",
   "artist": "F-LAGS",
-  "collection": "【 #歌枠 / KARAOKE 】今日がいい日になりますように。ゲリラで歌います！【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "suu_usuwa.js"
@@ -14600,7 +14600,7 @@ window.SONG_DATA.push(
     {
   "title": "MISSION is ピースフル！",
   "artist": "FRAME",
-  "collection": "【 #歌枠 / KARAOKE 】今日がいい日になりますように。ゲリラで歌います！【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "suu_usuwa.js"
@@ -14608,7 +14608,7 @@ window.SONG_DATA.push(
     {
   "title": "STARLIGHT CELEBRATE!",
   "artist": "DRAMATIC STARS",
-  "collection": "【 #歌枠 / KARAOKE 】今日がいい日になりますように。ゲリラで歌います！【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "suu_usuwa.js"
@@ -14616,7 +14616,7 @@ window.SONG_DATA.push(
     {
   "title": "MOON NIGHTのせいにして",
   "artist": "DRAMATIC STARS",
-  "collection": "【 #歌枠 / KARAOKE 】今日がいい日になりますように。ゲリラで歌います！【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "suu_usuwa.js"
@@ -14624,7 +14624,7 @@ window.SONG_DATA.push(
     {
   "title": "ブレーメン",
   "artist": "ヨルシカ",
-  "collection": "【 #歌枠 / KARAOKE 】今日がいい日になりますように。ゲリラで歌います！【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=5",
   "source": "suu_usuwa.js"
@@ -14632,7 +14632,7 @@ window.SONG_DATA.push(
     {
   "title": "パラボラ",
   "artist": "Official髭男dism",
-  "collection": "【 #歌枠 / KARAOKE 】今日がいい日になりますように。ゲリラで歌います！【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=6",
   "source": "suu_usuwa.js"
@@ -14640,7 +14640,7 @@ window.SONG_DATA.push(
     {
   "title": "Stand by You",
   "artist": "Official髭男dism",
-  "collection": "【 #歌枠 / KARAOKE 】今日がいい日になりますように。ゲリラで歌います！【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=7",
   "source": "suu_usuwa.js"
@@ -14648,7 +14648,7 @@ window.SONG_DATA.push(
     {
   "title": "ハロ／ハワユ",
   "artist": "ナノウ",
-  "collection": "【 #歌枠 / KARAOKE 】今日がいい日になりますように。ゲリラで歌います！【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=8",
   "source": "suu_usuwa.js"
@@ -14656,7 +14656,7 @@ window.SONG_DATA.push(
     {
   "title": "いのちの名前",
   "artist": "木村弓",
-  "collection": "【 #歌枠 / KARAOKE 】今日がいい日になりますように。ゲリラで歌います！【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=9",
   "source": "suu_usuwa.js"
@@ -14664,7 +14664,7 @@ window.SONG_DATA.push(
     {
   "title": "secret base～君がくれたもの～",
   "artist": "ZONE  (2)",
-  "collection": "【 #歌枠 / KARAOKE 】今日がいい日になりますように。ゲリラで歌います！【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=10",
   "source": "suu_usuwa.js"
@@ -14672,7 +14672,7 @@ window.SONG_DATA.push(
     {
   "title": "不思議",
   "artist": "星野源",
-  "collection": "【 #歌枠 / KARAOKE 】今日がいい日になりますように。ゲリラで歌います！【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=11",
   "source": "suu_usuwa.js"
@@ -14680,7 +14680,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーチラス",
   "artist": "ヨルシカ",
-  "collection": "【 #歌枠 / KARAOKE 】今日がいい日になりますように。ゲリラで歌います！【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=12",
   "source": "suu_usuwa.js"
@@ -14688,7 +14688,7 @@ window.SONG_DATA.push(
     {
   "title": "たばこ",
   "artist": "コレサワ",
-  "collection": "【 #歌枠 / KARAOKE 】今日がいい日になりますように。ゲリラで歌います！【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=13",
   "source": "suu_usuwa.js"
@@ -14696,7 +14696,7 @@ window.SONG_DATA.push(
     {
   "title": "恋人失格",
   "artist": "コレサワ",
-  "collection": "【 #歌枠 / KARAOKE 】今日がいい日になりますように。ゲリラで歌います！【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=14",
   "source": "suu_usuwa.js"
@@ -14704,7 +14704,7 @@ window.SONG_DATA.push(
     {
   "title": "たぶん",
   "artist": "YOASOBI",
-  "collection": "【 #歌枠 / KARAOKE 】今日がいい日になりますように。ゲリラで歌います！【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=15",
   "source": "suu_usuwa.js"
@@ -14712,7 +14712,7 @@ window.SONG_DATA.push(
     {
   "title": "サインはB",
   "artist": "B小町",
-  "collection": "【 #歌枠 / KARAOKE 】今日がいい日になりますように。ゲリラで歌います！【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=16",
   "source": "suu_usuwa.js"
@@ -14720,7 +14720,7 @@ window.SONG_DATA.push(
     {
   "title": "星間飛行",
   "artist": "ランカ・リー(中島愛)",
-  "collection": "【 #歌枠 / KARAOKE 】今日がいい日になりますように。ゲリラで歌います！【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=17",
   "source": "suu_usuwa.js"
@@ -14728,7 +14728,7 @@ window.SONG_DATA.push(
     {
   "title": "18_2025-06-22-03.03.59.00_00515135",
   "artist": "前尘往事如昔故",
-  "collection": "【 #歌枠 / KARAOKE 】今日がいい日になりますように。ゲリラで歌います！【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=18",
   "source": "suu_usuwa.js"
@@ -14736,7 +14736,7 @@ window.SONG_DATA.push(
     {
   "title": "恋？で愛？で暴君です！",
   "artist": "Wake Up, Girls!",
-  "collection": "【 #歌枠 / KARAOKE 】今日がいい日になりますように。ゲリラで歌います！【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=19",
   "source": "suu_usuwa.js"
@@ -14744,7 +14744,7 @@ window.SONG_DATA.push(
     {
   "title": "20_2025-06-22-03.03.59.00_00570225",
   "artist": "前尘往事如昔故",
-  "collection": "【 #歌枠 / KARAOKE 】今日がいい日になりますように。ゲリラで歌います！【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=20",
   "source": "suu_usuwa.js"
@@ -14752,7 +14752,7 @@ window.SONG_DATA.push(
     {
   "title": "グッドラックライラック",
   "artist": "GATALIS",
-  "collection": "【 #歌枠 / KARAOKE 】今日がいい日になりますように。ゲリラで歌います！【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=21",
   "source": "suu_usuwa.js"
@@ -14760,7 +14760,7 @@ window.SONG_DATA.push(
     {
   "title": "花ハ踊レヤいろはにほ",
   "artist": "チーム“ハナヤマタ”",
-  "collection": "【 #歌枠 / KARAOKE 】今日がいい日になりますように。ゲリラで歌います！【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=22",
   "source": "suu_usuwa.js"
@@ -14768,7 +14768,7 @@ window.SONG_DATA.push(
     {
   "title": "ただ声一つ",
   "artist": "ロクデナシ",
-  "collection": "【 稀羽すう / Re:AcT 】水曜日20時は定期歌枠 #112 君のために歌おう。1時間ノンストップで！Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -14776,7 +14776,7 @@ window.SONG_DATA.push(
     {
   "title": "不可思議のカルテ",
   "artist": "from青春ブタ野郎はバニーガール先輩の夢を見ない",
-  "collection": "【 稀羽すう / Re:AcT 】水曜日20時は定期歌枠 #112 君のために歌おう。1時間ノンストップで！Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -14784,7 +14784,7 @@ window.SONG_DATA.push(
     {
   "title": "秒針を噛む",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【 稀羽すう / Re:AcT 】水曜日20時は定期歌枠 #112 君のために歌おう。1時間ノンストップで！Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -14792,7 +14792,7 @@ window.SONG_DATA.push(
     {
   "title": "青のすみか",
   "artist": "キタニタツヤ",
-  "collection": "【 稀羽すう / Re:AcT 】水曜日20時は定期歌枠 #112 君のために歌おう。1時間ノンストップで！Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -14800,7 +14800,7 @@ window.SONG_DATA.push(
     {
   "title": "からくりピエロ",
   "artist": "40mP",
-  "collection": "【 稀羽すう / Re:AcT 】水曜日20時は定期歌枠 #112 君のために歌おう。1時間ノンストップで！Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -14808,7 +14808,7 @@ window.SONG_DATA.push(
     {
   "title": "キリトリセン",
   "artist": "40mP",
-  "collection": "【 稀羽すう / Re:AcT 】水曜日20時は定期歌枠 #112 君のために歌おう。1時間ノンストップで！Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -14816,7 +14816,7 @@ window.SONG_DATA.push(
     {
   "title": "さようなら、花泥棒さん",
   "artist": "メル",
-  "collection": "【 稀羽すう / Re:AcT 】水曜日20時は定期歌枠 #112 君のために歌おう。1時間ノンストップで！Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -14824,7 +14824,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒",
   "artist": "ヨルシカ",
-  "collection": "【 稀羽すう / Re:AcT 】水曜日20時は定期歌枠 #112 君のために歌おう。1時間ノンストップで！Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -14832,7 +14832,7 @@ window.SONG_DATA.push(
     {
   "title": "心臓デモクラシー",
   "artist": "みきとP",
-  "collection": "【 稀羽すう / Re:AcT 】水曜日20時は定期歌枠 #112 君のために歌おう。1時間ノンストップで！Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -14840,7 +14840,7 @@ window.SONG_DATA.push(
     {
   "title": "バレリーコ",
   "artist": "みきとP",
-  "collection": "【 稀羽すう / Re:AcT 】水曜日20時は定期歌枠 #112 君のために歌おう。1時間ノンストップで！Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -14848,7 +14848,7 @@ window.SONG_DATA.push(
     {
   "title": "ハレンチ",
   "artist": "ちゃんみな",
-  "collection": "【 稀羽すう / Re:AcT 】水曜日20時は定期歌枠 #112 君のために歌おう。1時間ノンストップで！Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -14856,7 +14856,7 @@ window.SONG_DATA.push(
     {
   "title": "fake face dance music",
   "artist": "音田雅則",
-  "collection": "【 稀羽すう / Re:AcT 】水曜日20時は定期歌枠 #112 君のために歌おう。1時間ノンストップで！Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -14864,7 +14864,7 @@ window.SONG_DATA.push(
     {
   "title": "Plazma",
   "artist": "米津玄師",
-  "collection": "【 稀羽すう / Re:AcT 】水曜日20時は定期歌枠 #112 君のために歌おう。1時間ノンストップで！Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -14872,7 +14872,7 @@ window.SONG_DATA.push(
     {
   "title": "さよーならまたいつか！",
   "artist": "米津玄師",
-  "collection": "【 稀羽すう / Re:AcT 】水曜日20時は定期歌枠 #112 君のために歌おう。1時間ノンストップで！Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -14880,7 +14880,7 @@ window.SONG_DATA.push(
     {
   "title": "右肩の蝶",
   "artist": "のりP",
-  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=1",
   "source": "suu_usuwa.js"
@@ -14888,7 +14888,7 @@ window.SONG_DATA.push(
     {
   "title": "again",
   "artist": "YUI",
-  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=2",
   "source": "suu_usuwa.js"
@@ -14896,7 +14896,7 @@ window.SONG_DATA.push(
     {
   "title": "ダブルラリアット",
   "artist": "アゴアニキ",
-  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=3",
   "source": "suu_usuwa.js"
@@ -14904,7 +14904,7 @@ window.SONG_DATA.push(
     {
   "title": "magnet",
   "artist": "流星P",
-  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=4",
   "source": "suu_usuwa.js"
@@ -14912,7 +14912,7 @@ window.SONG_DATA.push(
     {
   "title": "B級",
   "artist": "ちゃんみな",
-  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=5",
   "source": "suu_usuwa.js"
@@ -14920,7 +14920,7 @@ window.SONG_DATA.push(
     {
   "title": "少女S",
   "artist": "SCANDAL",
-  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=6",
   "source": "suu_usuwa.js"
@@ -14928,7 +14928,7 @@ window.SONG_DATA.push(
     {
   "title": "ファジーネーブル",
   "artist": "Conton Candy",
-  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=7",
   "source": "suu_usuwa.js"
@@ -14936,7 +14936,7 @@ window.SONG_DATA.push(
     {
   "title": "少年よ我に帰れ",
   "artist": "やくしまるえつこ",
-  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=8",
   "source": "suu_usuwa.js"
@@ -14944,7 +14944,7 @@ window.SONG_DATA.push(
     {
   "title": "ルーマー",
   "artist": "ポリスピカデリー",
-  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=9",
   "source": "suu_usuwa.js"
@@ -14952,7 +14952,7 @@ window.SONG_DATA.push(
     {
   "title": "NIGHTDANCER",
   "artist": "imase",
-  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=10",
   "source": "suu_usuwa.js"
@@ -14960,7 +14960,7 @@ window.SONG_DATA.push(
     {
   "title": "寄り酔い",
   "artist": "和ぬか",
-  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=11",
   "source": "suu_usuwa.js"
@@ -14968,7 +14968,7 @@ window.SONG_DATA.push(
     {
   "title": "いかないで",
   "artist": "想太",
-  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=12",
   "source": "suu_usuwa.js"
@@ -14976,7 +14976,7 @@ window.SONG_DATA.push(
     {
   "title": "神のまにまに",
   "artist": "れるりり",
-  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=13",
   "source": "suu_usuwa.js"
@@ -14984,7 +14984,7 @@ window.SONG_DATA.push(
     {
   "title": "都落ち",
   "artist": "ヨルシカ",
-  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=14",
   "source": "suu_usuwa.js"
@@ -14992,7 +14992,7 @@ window.SONG_DATA.push(
     {
   "title": "花に亡霊",
   "artist": "ヨルシカ",
-  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=15",
   "source": "suu_usuwa.js"
@@ -15000,7 +15000,7 @@ window.SONG_DATA.push(
     {
   "title": "たぶん",
   "artist": "YOASOBI",
-  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/o?p=16",
   "source": "suu_usuwa.js"
@@ -15008,7 +15008,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠#114おうち3Dで歌っちゃいますかね～！  Singing Stream 【 稀羽すう / Re:Ac",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=1",
   "source": "suu_usuwa.js"
@@ -15016,7 +15016,7 @@ window.SONG_DATA.push(
     {
   "title": "君の知らない物語",
   "artist": "supercell",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠#114おうち3Dで歌っちゃいますかね～！  Singing Stream 【 稀羽すう / Re:Ac",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=2",
   "source": "suu_usuwa.js"
@@ -15024,7 +15024,7 @@ window.SONG_DATA.push(
     {
   "title": "星間飛行",
   "artist": "ランカ・リー(中島愛)  (2)",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠#114おうち3Dで歌っちゃいますかね～！  Singing Stream 【 稀羽すう / Re:Ac",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=3",
   "source": "suu_usuwa.js"
@@ -15032,7 +15032,7 @@ window.SONG_DATA.push(
     {
   "title": "射手座☆午後九時Don't be late",
   "artist": "シェリル・ノーム starring May'n",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠#114おうち3Dで歌っちゃいますかね～！  Singing Stream 【 稀羽すう / Re:Ac",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=4",
   "source": "suu_usuwa.js"
@@ -15040,7 +15040,7 @@ window.SONG_DATA.push(
     {
   "title": "STARLIGHT CELEBRATE!",
   "artist": "DRAMATIC STARS",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠#114おうち3Dで歌っちゃいますかね～！  Singing Stream 【 稀羽すう / Re:Ac",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=5",
   "source": "suu_usuwa.js"
@@ -15048,7 +15048,7 @@ window.SONG_DATA.push(
     {
   "title": "祝福",
   "artist": "YOASOBI",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠#114おうち3Dで歌っちゃいますかね～！  Singing Stream 【 稀羽すう / Re:Ac",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=6",
   "source": "suu_usuwa.js"
@@ -15056,7 +15056,7 @@ window.SONG_DATA.push(
     {
   "title": "アイドル",
   "artist": "YOASOBI",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠#114おうち3Dで歌っちゃいますかね～！  Singing Stream 【 稀羽すう / Re:Ac",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=7",
   "source": "suu_usuwa.js"
@@ -15064,7 +15064,7 @@ window.SONG_DATA.push(
     {
   "title": "ファタール",
   "artist": "GEMN",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠#114おうち3Dで歌っちゃいますかね～！  Singing Stream 【 稀羽すう / Re:Ac",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=8",
   "source": "suu_usuwa.js"
@@ -15072,7 +15072,7 @@ window.SONG_DATA.push(
     {
   "title": "Plazma",
   "artist": "米津玄師",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠#114おうち3Dで歌っちゃいますかね～！  Singing Stream 【 稀羽すう / Re:Ac",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=9",
   "source": "suu_usuwa.js"
@@ -15080,7 +15080,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣",
   "artist": "サカナクション",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠#114おうち3Dで歌っちゃいますかね～！  Singing Stream 【 稀羽すう / Re:Ac",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=10",
   "source": "suu_usuwa.js"
@@ -15088,7 +15088,7 @@ window.SONG_DATA.push(
     {
   "title": "NIGHTDANCER",
   "artist": "imase",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠#114おうち3Dで歌っちゃいますかね～！  Singing Stream 【 稀羽すう / Re:Ac",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=11",
   "source": "suu_usuwa.js"
@@ -15096,7 +15096,7 @@ window.SONG_DATA.push(
     {
   "title": "若者のすべて",
   "artist": "フジファブリック",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠#114おうち3Dで歌っちゃいますかね～！  Singing Stream 【 稀羽すう / Re:Ac",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=12",
   "source": "suu_usuwa.js"
@@ -15104,7 +15104,7 @@ window.SONG_DATA.push(
     {
   "title": "別の人の彼女になったよ",
   "artist": "wacci",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠#114おうち3Dで歌っちゃいますかね～！  Singing Stream 【 稀羽すう / Re:Ac",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=13",
   "source": "suu_usuwa.js"
@@ -15112,7 +15112,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れられないの",
   "artist": "サカナクション",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠#114おうち3Dで歌っちゃいますかね～！  Singing Stream 【 稀羽すう / Re:Ac",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=14",
   "source": "suu_usuwa.js"
@@ -15120,7 +15120,7 @@ window.SONG_DATA.push(
     {
   "title": "さよーならまたいつか！",
   "artist": "米津玄師",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠#114おうち3Dで歌っちゃいますかね～！  Singing Stream 【 稀羽すう / Re:Ac",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=15",
   "source": "suu_usuwa.js"
@@ -15128,7 +15128,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠 Singing Stream #115【 稀羽すう / Re:Act",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -15136,7 +15136,7 @@ window.SONG_DATA.push(
     {
   "title": "宿命",
   "artist": "Official髭男dism",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠 Singing Stream #115【 稀羽すう / Re:Act",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -15144,7 +15144,7 @@ window.SONG_DATA.push(
     {
   "title": "まつり",
   "artist": "藤井風",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠 Singing Stream #115【 稀羽すう / Re:Act",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -15152,7 +15152,7 @@ window.SONG_DATA.push(
     {
   "title": "ヨワネハキ",
   "artist": "MAISONdes",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠 Singing Stream #115【 稀羽すう / Re:Act",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -15160,7 +15160,7 @@ window.SONG_DATA.push(
     {
   "title": "鬼ノ宴",
   "artist": "友成空",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠 Singing Stream #115【 稀羽すう / Re:Act",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -15168,7 +15168,7 @@ window.SONG_DATA.push(
     {
   "title": "長く短い祭",
   "artist": "椎名林檎",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠 Singing Stream #115【 稀羽すう / Re:Act",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -15176,7 +15176,7 @@ window.SONG_DATA.push(
     {
   "title": "ダンスホール",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠 Singing Stream #115【 稀羽すう / Re:Act",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -15184,7 +15184,7 @@ window.SONG_DATA.push(
     {
   "title": "灼熱スイッチ",
   "artist": "雀が原中学卓球部",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠 Singing Stream #115【 稀羽すう / Re:Act",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -15192,7 +15192,7 @@ window.SONG_DATA.push(
     {
   "title": "Plazma",
   "artist": "米津玄師  (2)",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠 Singing Stream #115【 稀羽すう / Re:Act",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -15200,7 +15200,7 @@ window.SONG_DATA.push(
     {
   "title": "calling",
   "artist": "Team halcyon",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠 Singing Stream #115【 稀羽すう / Re:Act",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -15208,7 +15208,7 @@ window.SONG_DATA.push(
     {
   "title": "地球儀",
   "artist": "米津玄師",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠 Singing Stream #115【 稀羽すう / Re:Act",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -15216,7 +15216,7 @@ window.SONG_DATA.push(
     {
   "title": "不確定性☆COSMIC MOVEMENT",
   "artist": "ワルキューレ",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠#116 【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=1",
   "source": "suu_usuwa.js"
@@ -15224,7 +15224,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーザンクロス",
   "artist": "シェリル・ノーム starring May'n",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠#116 【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=2",
   "source": "suu_usuwa.js"
@@ -15232,7 +15232,7 @@ window.SONG_DATA.push(
     {
   "title": "インフィニティ",
   "artist": "シェリル・ノーム starring May'n",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠#116 【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=3",
   "source": "suu_usuwa.js"
@@ -15240,7 +15240,7 @@ window.SONG_DATA.push(
     {
   "title": "私の彼はパイロット",
   "artist": "飯島 真理",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠#116 【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=4",
   "source": "suu_usuwa.js"
@@ -15248,7 +15248,7 @@ window.SONG_DATA.push(
     {
   "title": "廻廻奇譚",
   "artist": "Eve",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠#116 【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=5",
   "source": "suu_usuwa.js"
@@ -15256,7 +15256,7 @@ window.SONG_DATA.push(
     {
   "title": "青のすみか",
   "artist": "キタニタツヤ",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠#116 【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=6",
   "source": "suu_usuwa.js"
@@ -15264,7 +15264,7 @@ window.SONG_DATA.push(
     {
   "title": "フォニイ",
   "artist": "ツミキ",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠#116 【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=7",
   "source": "suu_usuwa.js"
@@ -15272,7 +15272,7 @@ window.SONG_DATA.push(
     {
   "title": "トリノコシティ",
   "artist": "40mP",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠#116 【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=8",
   "source": "suu_usuwa.js"
@@ -15280,7 +15280,7 @@ window.SONG_DATA.push(
     {
   "title": "ZIGG-ZAGG",
   "artist": "Junky",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠#116 【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=9",
   "source": "suu_usuwa.js"
@@ -15288,7 +15288,7 @@ window.SONG_DATA.push(
     {
   "title": "スイートマジック",
   "artist": "Junky",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠#116 【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=10",
   "source": "suu_usuwa.js"
@@ -15296,7 +15296,7 @@ window.SONG_DATA.push(
     {
   "title": "CLEAR",
   "artist": "坂本真綾",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠#116 【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=11",
   "source": "suu_usuwa.js"
@@ -15304,7 +15304,7 @@ window.SONG_DATA.push(
     {
   "title": "Groovy!",
   "artist": "広瀬香美",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠#116 【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=12",
   "source": "suu_usuwa.js"
@@ -15312,7 +15312,7 @@ window.SONG_DATA.push(
     {
   "title": "接吻",
   "artist": "ORIGINAL LOVE",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠#116 【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=13",
   "source": "suu_usuwa.js"
@@ -15320,7 +15320,7 @@ window.SONG_DATA.push(
     {
   "title": "真夜中のドア〜stay with me",
   "artist": "松原 みき",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠#116 【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=14",
   "source": "suu_usuwa.js"
@@ -15328,7 +15328,7 @@ window.SONG_DATA.push(
     {
   "title": "ひこうき雲",
   "artist": "松任谷由実",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠#116 【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=15",
   "source": "suu_usuwa.js"
@@ -15336,7 +15336,7 @@ window.SONG_DATA.push(
     {
   "title": "やさしさに包まれたなら",
   "artist": "松任谷由実",
-  "collection": "【 #歌枠 / KARAOKE 】水曜日20時は定期歌枠#116 【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=16",
   "source": "suu_usuwa.js"
@@ -15344,7 +15344,7 @@ window.SONG_DATA.push(
     {
   "title": "SUMMERSONG",
   "artist": "YUI",
-  "collection": "【 #真夏の深海歌枠リレー 】涼やかな夜の海へ【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=1",
   "source": "suu_usuwa.js"
@@ -15352,7 +15352,7 @@ window.SONG_DATA.push(
     {
   "title": "都落ち",
   "artist": "ヨルシカ",
-  "collection": "【 #真夏の深海歌枠リレー 】涼やかな夜の海へ【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=2",
   "source": "suu_usuwa.js"
@@ -15360,7 +15360,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍",
   "artist": "n-buna",
-  "collection": "【 #真夏の深海歌枠リレー 】涼やかな夜の海へ【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=3",
   "source": "suu_usuwa.js"
@@ -15368,7 +15368,7 @@ window.SONG_DATA.push(
     {
   "title": "melt bitter",
   "artist": "さとうもか",
-  "collection": "【 #真夏の深海歌枠リレー 】涼やかな夜の海へ【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=4",
   "source": "suu_usuwa.js"
@@ -15376,7 +15376,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ",
-  "collection": "【 #歌枠 / KARAOKE 】昼下がりに歌を届けます【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=1",
   "source": "suu_usuwa.js"
@@ -15384,7 +15384,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【 #歌枠 / KARAOKE 】昼下がりに歌を届けます【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=2",
   "source": "suu_usuwa.js"
@@ -15392,7 +15392,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒",
   "artist": "ヨルシカ",
-  "collection": "【 #歌枠 / KARAOKE 】昼下がりに歌を届けます【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=3",
   "source": "suu_usuwa.js"
@@ -15400,7 +15400,7 @@ window.SONG_DATA.push(
     {
   "title": "TSUNAMI",
   "artist": "サザンオールスターズ",
-  "collection": "【 #歌枠 / KARAOKE 】昼下がりに歌を届けます【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=4",
   "source": "suu_usuwa.js"
@@ -15408,7 +15408,7 @@ window.SONG_DATA.push(
     {
   "title": "波乗りジョニー",
   "artist": "桑田佳祐",
-  "collection": "【 #歌枠 / KARAOKE 】昼下がりに歌を届けます【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=5",
   "source": "suu_usuwa.js"
@@ -15416,7 +15416,7 @@ window.SONG_DATA.push(
     {
   "title": "空も飛べるはず",
   "artist": "スピッツ",
-  "collection": "【 #歌枠 / KARAOKE 】昼下がりに歌を届けます【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=6",
   "source": "suu_usuwa.js"
@@ -15424,7 +15424,7 @@ window.SONG_DATA.push(
     {
   "title": "風になる",
   "artist": "つじあやの",
-  "collection": "【 #歌枠 / KARAOKE 】昼下がりに歌を届けます【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=7",
   "source": "suu_usuwa.js"
@@ -15432,7 +15432,7 @@ window.SONG_DATA.push(
     {
   "title": "ミックスナッツ",
   "artist": "Official髭男dism",
-  "collection": "【 #歌枠 / KARAOKE 】昼下がりに歌を届けます【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=8",
   "source": "suu_usuwa.js"
@@ -15440,7 +15440,7 @@ window.SONG_DATA.push(
     {
   "title": "プロポーズ",
   "artist": "なとり",
-  "collection": "【 #歌枠 / KARAOKE 】昼下がりに歌を届けます【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=9",
   "source": "suu_usuwa.js"
@@ -15448,7 +15448,7 @@ window.SONG_DATA.push(
     {
   "title": "不可幸力",
   "artist": "Vaundy",
-  "collection": "【 #歌枠 / KARAOKE 】昼下がりに歌を届けます【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=10",
   "source": "suu_usuwa.js"
@@ -15456,7 +15456,7 @@ window.SONG_DATA.push(
     {
   "title": "踊り子",
   "artist": "Vaundy",
-  "collection": "【 #歌枠 / KARAOKE 】昼下がりに歌を届けます【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=11",
   "source": "suu_usuwa.js"
@@ -15464,7 +15464,7 @@ window.SONG_DATA.push(
     {
   "title": "ミス・パラレルワールド",
   "artist": "相対性理論",
-  "collection": "【 #歌枠 / KARAOKE 】昼下がりに歌を届けます【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=12",
   "source": "suu_usuwa.js"
@@ -15472,7 +15472,7 @@ window.SONG_DATA.push(
     {
   "title": "チャイナアドバイス",
   "artist": "相対性理論",
-  "collection": "【 #歌枠 / KARAOKE 】昼下がりに歌を届けます【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=13",
   "source": "suu_usuwa.js"
@@ -15480,7 +15480,7 @@ window.SONG_DATA.push(
     {
   "title": "アポリア",
   "artist": "ヨルシカ",
-  "collection": "【 #歌枠 / KARAOKE 】昼下がりに歌を届けます【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=14",
   "source": "suu_usuwa.js"
@@ -15488,7 +15488,7 @@ window.SONG_DATA.push(
     {
   "title": "へび",
   "artist": "ヨルシカ",
-  "collection": "【 #歌枠 / KARAOKE 】昼下がりに歌を届けます【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=15",
   "source": "suu_usuwa.js"
@@ -15496,7 +15496,7 @@ window.SONG_DATA.push(
     {
   "title": "左右盲",
   "artist": "ヨルシカ",
-  "collection": "【 #歌枠 / KARAOKE 】 もしよかったら聴いていってくださいませんか #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=1",
   "source": "suu_usuwa.js"
@@ -15504,7 +15504,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒッチコック",
   "artist": "ヨルシカ",
-  "collection": "【 #歌枠 / KARAOKE 】 もしよかったら聴いていってくださいませんか #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=2",
   "source": "suu_usuwa.js"
@@ -15512,7 +15512,7 @@ window.SONG_DATA.push(
     {
   "title": "たぶん",
   "artist": "YOASOBI",
-  "collection": "【 #歌枠 / KARAOKE 】 もしよかったら聴いていってくださいませんか #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=3",
   "source": "suu_usuwa.js"
@@ -15520,7 +15520,7 @@ window.SONG_DATA.push(
     {
   "title": "帰ろう",
   "artist": "藤井風",
-  "collection": "【 #歌枠 / KARAOKE 】 もしよかったら聴いていってくださいませんか #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=4",
   "source": "suu_usuwa.js"
@@ -15528,7 +15528,7 @@ window.SONG_DATA.push(
     {
   "title": "アルジャーノン",
   "artist": "ヨルシカ",
-  "collection": "【 #歌枠 / KARAOKE 】 もしよかったら聴いていってくださいませんか #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=5",
   "source": "suu_usuwa.js"
@@ -15536,7 +15536,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌",
   "artist": "tuki.",
-  "collection": "【 #歌枠 / KARAOKE 】 もしよかったら聴いていってくださいませんか #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=6",
   "source": "suu_usuwa.js"
@@ -15544,7 +15544,7 @@ window.SONG_DATA.push(
     {
   "title": "変わらないもの",
   "artist": "奥華子",
-  "collection": "【 #歌枠 / KARAOKE 】 もしよかったら聴いていってくださいませんか #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=7",
   "source": "suu_usuwa.js"
@@ -15552,7 +15552,7 @@ window.SONG_DATA.push(
     {
   "title": "地球儀",
   "artist": "米津玄師",
-  "collection": "【 #歌枠 / KARAOKE 】 もしよかったら聴いていってくださいませんか #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=8",
   "source": "suu_usuwa.js"
@@ -15560,7 +15560,7 @@ window.SONG_DATA.push(
     {
   "title": "ハナミズキ",
   "artist": "一青窈",
-  "collection": "【 #歌枠 / KARAOKE 】 もしよかったら聴いていってくださいませんか #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=9",
   "source": "suu_usuwa.js"
@@ -15568,7 +15568,7 @@ window.SONG_DATA.push(
     {
   "title": "ひまわりの約束",
   "artist": "秦基博",
-  "collection": "【 #歌枠 / KARAOKE 】 もしよかったら聴いていってくださいませんか #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=10",
   "source": "suu_usuwa.js"
@@ -15576,7 +15576,7 @@ window.SONG_DATA.push(
     {
   "title": "月のワルツ",
   "artist": "諫山実生",
-  "collection": "【 稀羽すう】深夜静谧歌唱：七首歌的歌枠 #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=1",
   "source": "suu_usuwa.js"
@@ -15584,7 +15584,7 @@ window.SONG_DATA.push(
     {
   "title": "フリージア",
   "artist": "Uru",
-  "collection": "【 稀羽すう】深夜静谧歌唱：七首歌的歌枠 #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=2",
   "source": "suu_usuwa.js"
@@ -15592,7 +15592,7 @@ window.SONG_DATA.push(
     {
   "title": "なんでもないや",
   "artist": "RADWIMPS",
-  "collection": "【 稀羽すう】深夜静谧歌唱：七首歌的歌枠 #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=3",
   "source": "suu_usuwa.js"
@@ -15600,7 +15600,7 @@ window.SONG_DATA.push(
     {
   "title": "花に亡霊",
   "artist": "ヨルシカ",
-  "collection": "【 稀羽すう】深夜静谧歌唱：七首歌的歌枠 #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=4",
   "source": "suu_usuwa.js"
@@ -15608,7 +15608,7 @@ window.SONG_DATA.push(
     {
   "title": "ベテルギウス",
   "artist": "優里",
-  "collection": "【 稀羽すう】深夜静谧歌唱：七首歌的歌枠 #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=5",
   "source": "suu_usuwa.js"
@@ -15616,7 +15616,7 @@ window.SONG_DATA.push(
     {
   "title": "Family Song",
   "artist": "星野源",
-  "collection": "【 稀羽すう】深夜静谧歌唱：七首歌的歌枠 #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=6",
   "source": "suu_usuwa.js"
@@ -15624,7 +15624,7 @@ window.SONG_DATA.push(
     {
   "title": "水平線",
   "artist": "back number",
-  "collection": "【 稀羽すう】深夜静谧歌唱：七首歌的歌枠 #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=7",
   "source": "suu_usuwa.js"
@@ -15632,7 +15632,7 @@ window.SONG_DATA.push(
     {
   "title": "ダンスホール",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "#117【 稀羽すう】水曜日20時は定期歌枠 Singing Stream  01. ダンスホール - Mrs. GREEN APPLE",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "suu_usuwa.js"
@@ -15640,7 +15640,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "#117【 稀羽すう】水曜日20時は定期歌枠 Singing Stream  01. ダンスホール - Mrs. GREEN APPLE",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "suu_usuwa.js"
@@ -15648,7 +15648,7 @@ window.SONG_DATA.push(
     {
   "title": "ミュージック・アワー",
   "artist": "ポルノグラフィティ",
-  "collection": "#117【 稀羽すう】水曜日20時は定期歌枠 Singing Stream  01. ダンスホール - Mrs. GREEN APPLE",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "suu_usuwa.js"
@@ -15656,7 +15656,7 @@ window.SONG_DATA.push(
     {
   "title": "シュガーソングとビターステップ",
   "artist": "UNISON SQUARE GARDEN",
-  "collection": "#117【 稀羽すう】水曜日20時は定期歌枠 Singing Stream  01. ダンスホール - Mrs. GREEN APPLE",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "suu_usuwa.js"
@@ -15664,7 +15664,7 @@ window.SONG_DATA.push(
     {
   "title": "オリオンをなぞる",
   "artist": "UNISON SQUARE GARDEN",
-  "collection": "#117【 稀羽すう】水曜日20時は定期歌枠 Singing Stream  01. ダンスホール - Mrs. GREEN APPLE",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=5",
   "source": "suu_usuwa.js"
@@ -15672,7 +15672,7 @@ window.SONG_DATA.push(
     {
   "title": "Plazma",
   "artist": "米津玄師",
-  "collection": "#117【 稀羽すう】水曜日20時は定期歌枠 Singing Stream  01. ダンスホール - Mrs. GREEN APPLE",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=6",
   "source": "suu_usuwa.js"
@@ -15680,7 +15680,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣",
   "artist": "サカナクション",
-  "collection": "#117【 稀羽すう】水曜日20時は定期歌枠 Singing Stream  01. ダンスホール - Mrs. GREEN APPLE",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=7",
   "source": "suu_usuwa.js"
@@ -15688,7 +15688,7 @@ window.SONG_DATA.push(
     {
   "title": "プロポーズ",
   "artist": "なとり",
-  "collection": "#117【 稀羽すう】水曜日20時は定期歌枠 Singing Stream  01. ダンスホール - Mrs. GREEN APPLE",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=8",
   "source": "suu_usuwa.js"
@@ -15696,7 +15696,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI",
-  "collection": "#117【 稀羽すう】水曜日20時は定期歌枠 Singing Stream  01. ダンスホール - Mrs. GREEN APPLE",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=9",
   "source": "suu_usuwa.js"
@@ -15704,7 +15704,7 @@ window.SONG_DATA.push(
     {
   "title": "NIGHTDANCER",
   "artist": "imase",
-  "collection": "#117【 稀羽すう】水曜日20時は定期歌枠 Singing Stream  01. ダンスホール - Mrs. GREEN APPLE",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=10",
   "source": "suu_usuwa.js"
@@ -15712,7 +15712,7 @@ window.SONG_DATA.push(
     {
   "title": "若者のすべて",
   "artist": "フジファブリック",
-  "collection": "#117【 稀羽すう】水曜日20時は定期歌枠 Singing Stream  01. ダンスホール - Mrs. GREEN APPLE",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=11",
   "source": "suu_usuwa.js"
@@ -15720,7 +15720,7 @@ window.SONG_DATA.push(
     {
   "title": "夜撫でるメノウ",
   "artist": "Ayase",
-  "collection": "#117【 稀羽すう】水曜日20時は定期歌枠 Singing Stream  01. ダンスホール - Mrs. GREEN APPLE",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=12",
   "source": "suu_usuwa.js"
@@ -15728,7 +15728,7 @@ window.SONG_DATA.push(
     {
   "title": "斜陽",
   "artist": "ヨルシカ",
-  "collection": "#117【 稀羽すう】水曜日20時は定期歌枠 Singing Stream  01. ダンスホール - Mrs. GREEN APPLE",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=13",
   "source": "suu_usuwa.js"
@@ -15736,7 +15736,7 @@ window.SONG_DATA.push(
     {
   "title": "Reason!!",
   "artist": "315 STARS",
-  "collection": "#117【 稀羽すう】水曜日20時は定期歌枠 Singing Stream  01. ダンスホール - Mrs. GREEN APPLE",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=14",
   "source": "suu_usuwa.js"
@@ -15744,7 +15744,7 @@ window.SONG_DATA.push(
     {
   "title": "スマイル・エンゲージ",
   "artist": "Beit",
-  "collection": "#117【 稀羽すう】水曜日20時は定期歌枠 Singing Stream  01. ダンスホール - Mrs. GREEN APPLE",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=15",
   "source": "suu_usuwa.js"
@@ -15752,7 +15752,7 @@ window.SONG_DATA.push(
     {
   "title": "渚のバルコニー",
   "artist": "松田聖子",
-  "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -15760,7 +15760,7 @@ window.SONG_DATA.push(
     {
   "title": "君と夏フェス",
   "artist": "SHISHAMO",
-  "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -15768,7 +15768,7 @@ window.SONG_DATA.push(
     {
   "title": "Friend Ship",
   "artist": "星野源",
-  "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -15776,7 +15776,7 @@ window.SONG_DATA.push(
     {
   "title": "ワークソング",
   "artist": "星野源",
-  "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -15784,7 +15784,7 @@ window.SONG_DATA.push(
     {
   "title": "群青",
   "artist": "YOASOBI",
-  "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -15792,7 +15792,7 @@ window.SONG_DATA.push(
     {
   "title": "ハレンチ",
   "artist": "ちゃんみな",
-  "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -15800,7 +15800,7 @@ window.SONG_DATA.push(
     {
   "title": "深海少女",
   "artist": "ゆうゆ",
-  "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -15808,7 +15808,7 @@ window.SONG_DATA.push(
     {
   "title": "1/6",
   "artist": "- ぼーかりおどP",
-  "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -15816,7 +15816,7 @@ window.SONG_DATA.push(
     {
   "title": "1925",
   "artist": "とみー",
-  "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -15824,7 +15824,7 @@ window.SONG_DATA.push(
     {
   "title": "clock lock works",
   "artist": "ハチ",
-  "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -15832,7 +15832,7 @@ window.SONG_DATA.push(
     {
   "title": "怪盗・窪園チヨコは絶対ミスらない",
   "artist": "ぽわぽわP",
-  "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -15840,7 +15840,7 @@ window.SONG_DATA.push(
     {
   "title": "純情スカート",
   "artist": "40mP",
-  "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=12",
   "source": "suu_usuwa.js"
@@ -15848,7 +15848,7 @@ window.SONG_DATA.push(
     {
   "title": "恋愛裁判",
   "artist": "40mP",
-  "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=13",
   "source": "suu_usuwa.js"
@@ -15856,7 +15856,7 @@ window.SONG_DATA.push(
     {
   "title": "モザイクロール(Reloaded)",
   "artist": "DECO27",
-  "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=14",
   "source": "suu_usuwa.js"
@@ -15864,7 +15864,7 @@ window.SONG_DATA.push(
     {
   "title": "シンデレラ",
   "artist": "DECO27",
-  "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=15",
   "source": "suu_usuwa.js"
@@ -15872,7 +15872,7 @@ window.SONG_DATA.push(
     {
   "title": "セカイ",
   "artist": "DECO27と堀江晶太",
-  "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=16",
   "source": "suu_usuwa.js"
@@ -15880,7 +15880,7 @@ window.SONG_DATA.push(
     {
   "title": "妄想感傷代償連盟",
   "artist": "DECO27",
-  "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=17",
   "source": "suu_usuwa.js"
@@ -15888,7 +15888,7 @@ window.SONG_DATA.push(
     {
   "title": "二息歩行（Reloaded）",
   "artist": "DECO27",
-  "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=18",
   "source": "suu_usuwa.js"
@@ -15896,7 +15896,7 @@ window.SONG_DATA.push(
     {
   "title": "カムパネルラ",
   "artist": "sasakure.‌UK",
-  "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=19",
   "source": "suu_usuwa.js"
@@ -15904,7 +15904,7 @@ window.SONG_DATA.push(
     {
   "title": "孤独とランデブー",
   "artist": "サンボマスター",
-  "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=20",
   "source": "suu_usuwa.js"
@@ -15912,7 +15912,7 @@ window.SONG_DATA.push(
     {
   "title": "ロックンロール イズ ノットデッド",
   "artist": "サンボマスター",
-  "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=21",
   "source": "suu_usuwa.js"
@@ -15920,7 +15920,7 @@ window.SONG_DATA.push(
     {
   "title": "ByeBye",
   "artist": "フジファブリック",
-  "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=22",
   "source": "suu_usuwa.js"
@@ -15928,7 +15928,7 @@ window.SONG_DATA.push(
     {
   "title": "鬼ノ宴",
   "artist": "友成空",
-  "collection": "#118【 稀羽すう / Re:AcT 】水曜日20時は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -15936,7 +15936,7 @@ window.SONG_DATA.push(
     {
   "title": "長く短い祭",
   "artist": "椎名林檎",
-  "collection": "#118【 稀羽すう / Re:AcT 】水曜日20時は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -15944,7 +15944,7 @@ window.SONG_DATA.push(
     {
   "title": "夏色",
   "artist": "ゆず",
-  "collection": "#118【 稀羽すう / Re:AcT 】水曜日20時は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -15952,7 +15952,7 @@ window.SONG_DATA.push(
     {
   "title": "幾億光年",
   "artist": "Omoinotake",
-  "collection": "#118【 稀羽すう / Re:AcT 】水曜日20時は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -15960,7 +15960,7 @@ window.SONG_DATA.push(
     {
   "title": "残響賛歌",
   "artist": "Aimer",
-  "collection": "#118【 稀羽すう / Re:AcT 】水曜日20時は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -15968,7 +15968,7 @@ window.SONG_DATA.push(
     {
   "title": "イケナイ太陽",
   "artist": "ORANGE RANGE",
-  "collection": "#118【 稀羽すう / Re:AcT 】水曜日20時は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -15976,7 +15976,7 @@ window.SONG_DATA.push(
     {
   "title": "夏祭り",
   "artist": "Whiteberry",
-  "collection": "#118【 稀羽すう / Re:AcT 】水曜日20時は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -15984,7 +15984,7 @@ window.SONG_DATA.push(
     {
   "title": "涙そうそう",
   "artist": "夏川りみ",
-  "collection": "#118【 稀羽すう / Re:AcT 】水曜日20時は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -15992,7 +15992,7 @@ window.SONG_DATA.push(
     {
   "title": "少女レイ",
   "artist": "みきとP",
-  "collection": "#118【 稀羽すう / Re:AcT 】水曜日20時は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -16000,7 +16000,7 @@ window.SONG_DATA.push(
     {
   "title": "寄り酔い",
   "artist": "和ぬか",
-  "collection": "#118【 稀羽すう / Re:AcT 】水曜日20時は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -16008,7 +16008,7 @@ window.SONG_DATA.push(
     {
   "title": "花に亡霊",
   "artist": "ヨルシカ",
-  "collection": "#118【 稀羽すう / Re:AcT 】水曜日20時は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -16016,7 +16016,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍",
   "artist": "n-buna",
-  "collection": "#118【 稀羽すう / Re:AcT 】水曜日20時は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=12",
   "source": "suu_usuwa.js"
@@ -16024,7 +16024,7 @@ window.SONG_DATA.push(
     {
   "title": "君の知らない物語",
   "artist": "supercell",
-  "collection": "#118【 稀羽すう / Re:AcT 】水曜日20時は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=13",
   "source": "suu_usuwa.js"
@@ -16032,7 +16032,7 @@ window.SONG_DATA.push(
     {
   "title": "星座になれたら",
   "artist": "結束バンド",
-  "collection": "#118【 稀羽すう / Re:AcT 】水曜日20時は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=14",
   "source": "suu_usuwa.js"
@@ -16040,7 +16040,7 @@ window.SONG_DATA.push(
     {
   "title": "NIGHTDANCER",
   "artist": "imase",
-  "collection": "【 稀羽すう歌回接力/ Re:AcT 】我会给你一个𝓬𝓱𝓲𝓵𝓵，虽然我不配…… 01. NIGHTDANCER",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -16048,7 +16048,7 @@ window.SONG_DATA.push(
     {
   "title": "Floating",
   "artist": "稀羽すう",
-  "collection": "【 稀羽すう歌回接力/ Re:AcT 】我会给你一个𝓬𝓱𝓲𝓵𝓵，虽然我不配…… 01. NIGHTDANCER",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -16056,7 +16056,7 @@ window.SONG_DATA.push(
     {
   "title": "ルーマー",
   "artist": "ポリスピカデリー",
-  "collection": "【 稀羽すう歌回接力/ Re:AcT 】我会给你一个𝓬𝓱𝓲𝓵𝓵，虽然我不配…… 01. NIGHTDANCER",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -16064,7 +16064,7 @@ window.SONG_DATA.push(
     {
   "title": "夜撫でるメノウ",
   "artist": "Ayase",
-  "collection": "【 稀羽すう歌回接力/ Re:AcT 】我会给你一个𝓬𝓱𝓲𝓵𝓵，虽然我不配…… 01. NIGHTDANCER",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -16072,7 +16072,7 @@ window.SONG_DATA.push(
     {
   "title": "HELLO",
   "artist": "Official髭男dism",
-  "collection": "#119【稀羽すう】 水曜日20時は定期歌枠 1小时不间断歌唱！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=1",
   "source": "suu_usuwa.js"
@@ -16080,7 +16080,7 @@ window.SONG_DATA.push(
     {
   "title": "ブルーバード",
   "artist": "いきものがかり",
-  "collection": "#119【稀羽すう】 水曜日20時は定期歌枠 1小时不间断歌唱！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=2",
   "source": "suu_usuwa.js"
@@ -16088,7 +16088,7 @@ window.SONG_DATA.push(
     {
   "title": "ダンスホール",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "#119【稀羽すう】 水曜日20時は定期歌枠 1小时不间断歌唱！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=3",
   "source": "suu_usuwa.js"
@@ -16096,7 +16096,7 @@ window.SONG_DATA.push(
     {
   "title": "ブレーメン",
   "artist": "ヨルシカ",
-  "collection": "#119【稀羽すう】 水曜日20時は定期歌枠 1小时不间断歌唱！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=4",
   "source": "suu_usuwa.js"
@@ -16104,7 +16104,7 @@ window.SONG_DATA.push(
     {
   "title": "恋",
   "artist": "星野源",
-  "collection": "#119【稀羽すう】 水曜日20時は定期歌枠 1小时不间断歌唱！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=5",
   "source": "suu_usuwa.js"
@@ -16112,7 +16112,7 @@ window.SONG_DATA.push(
     {
   "title": "ファジーネーブル",
   "artist": "Conton Candy",
-  "collection": "#119【稀羽すう】 水曜日20時は定期歌枠 1小时不间断歌唱！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=6",
   "source": "suu_usuwa.js"
@@ -16120,7 +16120,7 @@ window.SONG_DATA.push(
     {
   "title": "ひまわりの約束",
   "artist": "秦基博",
-  "collection": "#119【稀羽すう】 水曜日20時は定期歌枠 1小时不间断歌唱！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=7",
   "source": "suu_usuwa.js"
@@ -16128,7 +16128,7 @@ window.SONG_DATA.push(
     {
   "title": "少年時代",
   "artist": "井上陽水",
-  "collection": "#119【稀羽すう】 水曜日20時は定期歌枠 1小时不间断歌唱！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=8",
   "source": "suu_usuwa.js"
@@ -16136,7 +16136,7 @@ window.SONG_DATA.push(
     {
   "title": "若者のすべて",
   "artist": "フジファブリック",
-  "collection": "#119【稀羽すう】 水曜日20時は定期歌枠 1小时不间断歌唱！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=9",
   "source": "suu_usuwa.js"
@@ -16144,7 +16144,7 @@ window.SONG_DATA.push(
     {
   "title": "左右盲",
   "artist": "ヨルシカ",
-  "collection": "#119【稀羽すう】 水曜日20時は定期歌枠 1小时不间断歌唱！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=10",
   "source": "suu_usuwa.js"
@@ -16152,7 +16152,7 @@ window.SONG_DATA.push(
     {
   "title": "3月9日",
   "artist": "レミオロメン",
-  "collection": "#119【稀羽すう】 水曜日20時は定期歌枠 1小时不间断歌唱！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=11",
   "source": "suu_usuwa.js"
@@ -16160,7 +16160,7 @@ window.SONG_DATA.push(
     {
   "title": "アイデア",
   "artist": "星野源",
-  "collection": "#119【稀羽すう】 水曜日20時は定期歌枠 1小时不间断歌唱！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=12",
   "source": "suu_usuwa.js"
@@ -16168,7 +16168,7 @@ window.SONG_DATA.push(
     {
   "title": "Lemon",
   "artist": "米津玄師",
-  "collection": "【稀羽すう竖屏 22】1曲きいていきませんか～！ 歌切 2025年9月14日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -16176,7 +16176,7 @@ window.SONG_DATA.push(
     {
   "title": "星間飛行",
   "artist": "ランカ・リー(中島愛)",
-  "collection": "【稀羽すう竖屏 22】1曲きいていきませんか～！ 歌切 2025年9月14日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -16184,7 +16184,7 @@ window.SONG_DATA.push(
     {
   "title": "ライオン",
   "artist": "シェリル・ノーム starring May'n,ランカ・リー(中島愛)",
-  "collection": "【稀羽すう竖屏 22】1曲きいていきませんか～！ 歌切 2025年9月14日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -16192,7 +16192,7 @@ window.SONG_DATA.push(
     {
   "title": "創聖のアクエリオン",
   "artist": "AKINO",
-  "collection": "【稀羽すう竖屏 22】1曲きいていきませんか～！ 歌切 2025年9月14日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -16200,7 +16200,7 @@ window.SONG_DATA.push(
     {
   "title": "私は最強",
   "artist": "Ado",
-  "collection": "【稀羽すう竖屏 22】1曲きいていきませんか～！ 歌切 2025年9月14日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -16208,7 +16208,7 @@ window.SONG_DATA.push(
     {
   "title": "ドライフラワー",
   "artist": "優里",
-  "collection": "【稀羽すう竖屏 22】1曲きいていきませんか～！ 歌切 2025年9月14日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -16216,7 +16216,7 @@ window.SONG_DATA.push(
     {
   "title": "Rolling Star",
   "artist": "YUI",
-  "collection": "【稀羽すう竖屏 22】1曲きいていきませんか～！ 歌切 2025年9月14日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -16224,7 +16224,7 @@ window.SONG_DATA.push(
     {
   "title": "ドラえもん",
   "artist": "星野源",
-  "collection": "【稀羽すう竖屏 22】1曲きいていきませんか～！ 歌切 2025年9月14日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -16232,7 +16232,7 @@ window.SONG_DATA.push(
     {
   "title": "愛♡スクリ～ム!",
   "artist": "AiScReam",
-  "collection": "【稀羽すう竖屏 22】1曲きいていきませんか～！ 歌切 2025年9月14日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -16240,7 +16240,7 @@ window.SONG_DATA.push(
     {
   "title": "サインはB",
   "artist": "B小町",
-  "collection": "【稀羽すう竖屏 22】1曲きいていきませんか～！ 歌切 2025年9月14日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -16248,7 +16248,7 @@ window.SONG_DATA.push(
     {
   "title": "君じゃなきゃダメみたい",
   "artist": "オーイシマサヨシ",
-  "collection": "【稀羽すう竖屏 22】1曲きいていきませんか～！ 歌切 2025年9月14日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -16256,7 +16256,7 @@ window.SONG_DATA.push(
     {
   "title": "バレリーコ",
   "artist": "みきとP",
-  "collection": "【稀羽すう竖屏 22】1曲きいていきませんか～！ 歌切 2025年9月14日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -16264,7 +16264,7 @@ window.SONG_DATA.push(
     {
   "title": "サリシノハラ",
   "artist": "みきとP",
-  "collection": "【稀羽すう竖屏 22】1曲きいていきませんか～！ 歌切 2025年9月14日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -16272,7 +16272,7 @@ window.SONG_DATA.push(
     {
   "title": "ヨンジュウナナ",
   "artist": "みきとP",
-  "collection": "【稀羽すう竖屏 22】1曲きいていきませんか～！ 歌切 2025年9月14日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -16280,7 +16280,7 @@ window.SONG_DATA.push(
     {
   "title": "さようなら、花泥棒さん",
   "artist": "メル",
-  "collection": "【稀羽すう竖屏 22】1曲きいていきませんか～！ 歌切 2025年9月14日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=15",
   "source": "suu_usuwa.js"
@@ -16288,7 +16288,7 @@ window.SONG_DATA.push(
     {
   "title": "いのちの名前",
   "artist": "木村弓",
-  "collection": "【稀羽すう竖屏 22】1曲きいていきませんか～！ 歌切 2025年9月14日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=16",
   "source": "suu_usuwa.js"
@@ -16296,7 +16296,7 @@ window.SONG_DATA.push(
     {
   "title": "ガーネット",
   "artist": "奥華子",
-  "collection": "【稀羽すう竖屏 22】1曲きいていきませんか～！ 歌切 2025年9月14日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=17",
   "source": "suu_usuwa.js"
@@ -16304,7 +16304,7 @@ window.SONG_DATA.push(
     {
   "title": "変わらないもの",
   "artist": "奥華子",
-  "collection": "【稀羽すう竖屏 22】1曲きいていきませんか～！ 歌切 2025年9月14日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=18",
   "source": "suu_usuwa.js"
@@ -16312,7 +16312,7 @@ window.SONG_DATA.push(
     {
   "title": "君をのせて",
   "artist": "井上あずみ",
-  "collection": "【稀羽すう竖屏 22】1曲きいていきませんか～！ 歌切 2025年9月14日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=19",
   "source": "suu_usuwa.js"
@@ -16320,7 +16320,7 @@ window.SONG_DATA.push(
     {
   "title": "アポリア",
   "artist": "ヨルシカ",
-  "collection": "【稀羽すう竖屏 22】1曲きいていきませんか～！ 歌切 2025年9月14日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=20",
   "source": "suu_usuwa.js"
@@ -16328,7 +16328,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣",
   "artist": "サカナクション",
-  "collection": "【稀羽すう竖屏 22】1曲きいていきませんか～！ 歌切 2025年9月14日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=21",
   "source": "suu_usuwa.js"
@@ -16336,7 +16336,7 @@ window.SONG_DATA.push(
     {
   "title": "けーたいみしてよ",
   "artist": "MAISONdes",
-  "collection": "【稀羽すう竖屏 22】1曲きいていきませんか～！ 歌切 2025年9月14日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=22",
   "source": "suu_usuwa.js"
@@ -16344,7 +16344,7 @@ window.SONG_DATA.push(
     {
   "title": "ヨワネハキ",
   "artist": "MAISONdes",
-  "collection": "【稀羽すう竖屏 22】1曲きいていきませんか～！ 歌切 2025年9月14日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=23",
   "source": "suu_usuwa.js"
@@ -16352,7 +16352,7 @@ window.SONG_DATA.push(
     {
   "title": "寄り酔い",
   "artist": "和ぬか",
-  "collection": "【稀羽すう竖屏 22】1曲きいていきませんか～！ 歌切 2025年9月14日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=24",
   "source": "suu_usuwa.js"
@@ -16360,7 +16360,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーチラス",
   "artist": "ヨルシカ",
-  "collection": "#120【 稀羽すう】ここにいるよ。 水曜日20時は定期歌枠 Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=1",
   "source": "suu_usuwa.js"
@@ -16368,7 +16368,7 @@ window.SONG_DATA.push(
     {
   "title": "だから僕は音楽を辞めた",
   "artist": "ヨルシカ",
-  "collection": "#120【 稀羽すう】ここにいるよ。 水曜日20時は定期歌枠 Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=2",
   "source": "suu_usuwa.js"
@@ -16376,7 +16376,7 @@ window.SONG_DATA.push(
     {
   "title": "悪魔の子",
   "artist": "ヒグチアイ",
-  "collection": "#120【 稀羽すう】ここにいるよ。 水曜日20時は定期歌枠 Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=3",
   "source": "suu_usuwa.js"
@@ -16384,7 +16384,7 @@ window.SONG_DATA.push(
     {
   "title": "フクロウ ～フクロウが知らせる客が来たと～",
   "artist": "KOKIA",
-  "collection": "#120【 稀羽すう】ここにいるよ。 水曜日20時は定期歌枠 Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=4",
   "source": "suu_usuwa.js"
@@ -16392,7 +16392,7 @@ window.SONG_DATA.push(
     {
   "title": "115万キロのフィルム",
   "artist": "Official髭男dism",
-  "collection": "#120【 稀羽すう】ここにいるよ。 水曜日20時は定期歌枠 Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=5",
   "source": "suu_usuwa.js"
@@ -16400,7 +16400,7 @@ window.SONG_DATA.push(
     {
   "title": "I LOVE...",
   "artist": "official髭男dism",
-  "collection": "#120【 稀羽すう】ここにいるよ。 水曜日20時は定期歌枠 Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=6",
   "source": "suu_usuwa.js"
@@ -16408,7 +16408,7 @@ window.SONG_DATA.push(
     {
   "title": "rain stops, good-bye",
   "artist": "におP",
-  "collection": "#120【 稀羽すう】ここにいるよ。 水曜日20時は定期歌枠 Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=7",
   "source": "suu_usuwa.js"
@@ -16416,7 +16416,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
-  "collection": "#120【 稀羽すう】ここにいるよ。 水曜日20時は定期歌枠 Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=8",
   "source": "suu_usuwa.js"
@@ -16424,7 +16424,7 @@ window.SONG_DATA.push(
     {
   "title": "名前の無い怪物",
   "artist": "EGOIST",
-  "collection": "#120【 稀羽すう】ここにいるよ。 水曜日20時は定期歌枠 Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=9",
   "source": "suu_usuwa.js"
@@ -16432,7 +16432,7 @@ window.SONG_DATA.push(
     {
   "title": "怪物",
   "artist": "YOASOBI",
-  "collection": "#120【 稀羽すう】ここにいるよ。 水曜日20時は定期歌枠 Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=10",
   "source": "suu_usuwa.js"
@@ -16440,7 +16440,7 @@ window.SONG_DATA.push(
     {
   "title": "シンデレラボーイ",
   "artist": "Saucy Dog",
-  "collection": "#120【 稀羽すう】ここにいるよ。 水曜日20時は定期歌枠 Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=11",
   "source": "suu_usuwa.js"
@@ -16448,7 +16448,7 @@ window.SONG_DATA.push(
     {
   "title": "ケセラセラ",
   "artist": "Mrs. GREEN APPLE  (2)",
-  "collection": "#120【 稀羽すう】ここにいるよ。 水曜日20時は定期歌枠 Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=12",
   "source": "suu_usuwa.js"
@@ -16456,7 +16456,7 @@ window.SONG_DATA.push(
     {
   "title": "HELLO",
   "artist": "Official髭男dism",
-  "collection": "#120【 稀羽すう】ここにいるよ。 水曜日20時は定期歌枠 Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=13",
   "source": "suu_usuwa.js"
@@ -16464,7 +16464,7 @@ window.SONG_DATA.push(
     {
   "title": "プロポーズ",
   "artist": "なとり",
-  "collection": "【 稀羽すう #歌枠 】竖屏 秋もうすぐってまじ？？？？？？",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -16472,7 +16472,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【 稀羽すう #歌枠 】竖屏 秋もうすぐってまじ？？？？？？",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -16480,7 +16480,7 @@ window.SONG_DATA.push(
     {
   "title": "Happiness",
   "artist": "嵐",
-  "collection": "【 稀羽すう #歌枠 】竖屏 秋もうすぐってまじ？？？？？？",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -16488,7 +16488,7 @@ window.SONG_DATA.push(
     {
   "title": "SWEET TWEET",
   "artist": "Official髭男dism",
-  "collection": "【 稀羽すう #歌枠 】竖屏 秋もうすぐってまじ？？？？？？",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -16496,7 +16496,7 @@ window.SONG_DATA.push(
     {
   "title": "都落ち",
   "artist": "ヨルシカ",
-  "collection": "【 稀羽すう #歌枠 】竖屏 秋もうすぐってまじ？？？？？？",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -16504,7 +16504,7 @@ window.SONG_DATA.push(
     {
   "title": "ただ君に晴れ",
   "artist": "ヨルシカ",
-  "collection": "【 稀羽すう #歌枠 】竖屏 秋もうすぐってまじ？？？？？？",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -16512,7 +16512,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍",
   "artist": "n-buna",
-  "collection": "【 稀羽すう #歌枠 】竖屏 秋もうすぐってまじ？？？？？？",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -16520,7 +16520,7 @@ window.SONG_DATA.push(
     {
   "title": "ハレンチ",
   "artist": "ちゃんみな",
-  "collection": "【 稀羽すう #歌枠 】竖屏 秋もうすぐってまじ？？？？？？",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -16528,7 +16528,7 @@ window.SONG_DATA.push(
     {
   "title": "レディメイド",
   "artist": "Ado",
-  "collection": "【 稀羽すう #歌枠 】竖屏 秋もうすぐってまじ？？？？？？",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -16536,7 +16536,7 @@ window.SONG_DATA.push(
     {
   "title": "妄想感傷代償連盟",
   "artist": "DECO27",
-  "collection": "【 稀羽すう #歌枠 】竖屏 秋もうすぐってまじ？？？？？？",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -16544,7 +16544,7 @@ window.SONG_DATA.push(
     {
   "title": "春擬き",
   "artist": "やなぎなぎ",
-  "collection": "【 稀羽すう #歌枠 】竖屏 秋もうすぐってまじ？？？？？？",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -16552,7 +16552,7 @@ window.SONG_DATA.push(
     {
   "title": "星座になれたら",
   "artist": "結束バンド",
-  "collection": "【 稀羽すう #歌枠 】竖屏 秋もうすぐってまじ？？？？？？",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -16560,7 +16560,7 @@ window.SONG_DATA.push(
     {
   "title": "君の知らない物語",
   "artist": "supercell",
-  "collection": "【 稀羽すう #歌枠 】竖屏 秋もうすぐってまじ？？？？？？",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -16568,7 +16568,7 @@ window.SONG_DATA.push(
     {
   "title": "天体観測",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【 稀羽すう #歌枠 】竖屏 秋もうすぐってまじ？？？？？？",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -16576,7 +16576,7 @@ window.SONG_DATA.push(
     {
   "title": "アカシア",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【 稀羽すう #歌枠 】竖屏 秋もうすぐってまじ？？？？？？",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=15",
   "source": "suu_usuwa.js"
@@ -16584,7 +16584,7 @@ window.SONG_DATA.push(
     {
   "title": "Together",
   "artist": "あきよしふみえ",
-  "collection": "【 稀羽すう #歌枠 】竖屏 秋もうすぐってまじ？？？？？？",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=16",
   "source": "suu_usuwa.js"
@@ -16592,7 +16592,7 @@ window.SONG_DATA.push(
     {
   "title": "Pretender",
   "artist": "Official髭男dism",
-  "collection": "#121【稀羽すう】水曜日20時は定期歌枠  最近なんか映画見た？Singing Stream 【 / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -16600,7 +16600,7 @@ window.SONG_DATA.push(
     {
   "title": "風になる",
   "artist": "つじあやの",
-  "collection": "#121【稀羽すう】水曜日20時は定期歌枠  最近なんか映画見た？Singing Stream 【 / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -16608,7 +16608,7 @@ window.SONG_DATA.push(
     {
   "title": "Part Of Your World",
   "artist": "リトル・マーメイド",
-  "collection": "#121【稀羽すう】水曜日20時は定期歌枠  最近なんか映画見た？Singing Stream 【 / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -16616,7 +16616,7 @@ window.SONG_DATA.push(
     {
   "title": "地球儀",
   "artist": "米津玄師",
-  "collection": "#121【稀羽すう】水曜日20時は定期歌枠  最近なんか映画見た？Singing Stream 【 / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -16624,7 +16624,7 @@ window.SONG_DATA.push(
     {
   "title": "One Last Kiss",
   "artist": "宇多田ヒカル",
-  "collection": "#121【稀羽すう】水曜日20時は定期歌枠  最近なんか映画見た？Singing Stream 【 / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -16632,7 +16632,7 @@ window.SONG_DATA.push(
     {
   "title": "Beautiful World",
   "artist": "宇多田ヒカル",
-  "collection": "#121【稀羽すう】水曜日20時は定期歌枠  最近なんか映画見た？Singing Stream 【 / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -16640,7 +16640,7 @@ window.SONG_DATA.push(
     {
   "title": "プロポーズ",
   "artist": "なとり",
-  "collection": "#121【稀羽すう】水曜日20時は定期歌枠  最近なんか映画見た？Singing Stream 【 / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -16648,7 +16648,7 @@ window.SONG_DATA.push(
     {
   "title": "ルージュの伝言",
   "artist": "荒井由実",
-  "collection": "#121【稀羽すう】水曜日20時は定期歌枠  最近なんか映画見た？Singing Stream 【 / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -16656,7 +16656,7 @@ window.SONG_DATA.push(
     {
   "title": "斜陽",
   "artist": "ヨルシカ",
-  "collection": "#121【稀羽すう】水曜日20時は定期歌枠  最近なんか映画見た？Singing Stream 【 / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -16664,7 +16664,7 @@ window.SONG_DATA.push(
     {
   "title": "左右盲",
   "artist": "ヨルシカ",
-  "collection": "#121【稀羽すう】水曜日20時は定期歌枠  最近なんか映画見た？Singing Stream 【 / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -16672,7 +16672,7 @@ window.SONG_DATA.push(
     {
   "title": "ガーネット",
   "artist": "奥華子",
-  "collection": "#121【稀羽すう】水曜日20時は定期歌枠  最近なんか映画見た？Singing Stream 【 / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -16680,7 +16680,7 @@ window.SONG_DATA.push(
     {
   "title": "366日",
   "artist": "HY",
-  "collection": "#121【稀羽すう】水曜日20時は定期歌枠  最近なんか映画見た？Singing Stream 【 / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -16688,7 +16688,7 @@ window.SONG_DATA.push(
     {
   "title": "One more time,One more chance",
   "artist": "山崎まさよし",
-  "collection": "#121【稀羽すう】水曜日20時は定期歌枠  最近なんか映画見た？Singing Stream 【 / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -16696,7 +16696,7 @@ window.SONG_DATA.push(
     {
   "title": "回る空うさぎ",
   "artist": "Orangestar",
-  "collection": "#121【稀羽すう】水曜日20時は定期歌枠  最近なんか映画見た？Singing Stream 【 / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -16704,7 +16704,7 @@ window.SONG_DATA.push(
     {
   "title": "孤独とランデブー",
   "artist": "サンボマスター",
-  "collection": "#121【稀羽すう】水曜日20時は定期歌枠  最近なんか映画見た？Singing Stream 【 / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=15",
   "source": "suu_usuwa.js"
@@ -16712,7 +16712,7 @@ window.SONG_DATA.push(
     {
   "title": "Mornin’ Belll",
   "artist": "稀羽すう",
-  "collection": "【 Re:AcT 2dayslive歌枠リレー切片 】稀羽すう   こんにちは！ライブに出る者です！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "suu_usuwa.js"
@@ -16720,7 +16720,7 @@ window.SONG_DATA.push(
     {
   "title": "fake face dance music",
   "artist": "音田雅則",
-  "collection": "【 Re:AcT 2dayslive歌枠リレー切片 】稀羽すう   こんにちは！ライブに出る者です！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "suu_usuwa.js"
@@ -16728,7 +16728,7 @@ window.SONG_DATA.push(
     {
   "title": "DRESSING ROOM",
   "artist": "なとり",
-  "collection": "【 Re:AcT 2dayslive歌枠リレー切片 】稀羽すう   こんにちは！ライブに出る者です！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "suu_usuwa.js"
@@ -16736,7 +16736,7 @@ window.SONG_DATA.push(
     {
   "title": "アポリア",
   "artist": "ヨルシカ",
-  "collection": "【 Re:AcT 2dayslive歌枠リレー切片 】稀羽すう   こんにちは！ライブに出る者です！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "suu_usuwa.js"
@@ -16744,7 +16744,7 @@ window.SONG_DATA.push(
     {
   "title": "らしく。",
   "artist": "稀羽すう",
-  "collection": "【 Re:AcT 2dayslive歌枠リレー切片 】稀羽すう   こんにちは！ライブに出る者です！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=5",
   "source": "suu_usuwa.js"
@@ -16752,7 +16752,7 @@ window.SONG_DATA.push(
     {
   "title": "seaglass",
   "artist": "稀羽すう",
-  "collection": "【 Re:AcT 2dayslive歌枠リレー切片 】稀羽すう   こんにちは！ライブに出る者です！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=6",
   "source": "suu_usuwa.js"
@@ -16760,7 +16760,7 @@ window.SONG_DATA.push(
     {
   "title": "都落ち",
   "artist": "ヨルシカ",
-  "collection": "【 #歌枠 】7曲「だけ」歌います。ウィスパーな歌 稀羽すう 2025年09月29日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -16768,7 +16768,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍",
   "artist": "n-buna",
-  "collection": "【 #歌枠 】7曲「だけ」歌います。ウィスパーな歌 稀羽すう 2025年09月29日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -16776,7 +16776,7 @@ window.SONG_DATA.push(
     {
   "title": "深海少女",
   "artist": "ゆうゆ",
-  "collection": "【 #歌枠 】7曲「だけ」歌います。ウィスパーな歌 稀羽すう 2025年09月29日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -16784,7 +16784,7 @@ window.SONG_DATA.push(
     {
   "title": "115万キロのフィルム",
   "artist": "Official髭男dism",
-  "collection": "【 #歌枠 】7曲「だけ」歌います。ウィスパーな歌 稀羽すう 2025年09月29日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -16792,7 +16792,7 @@ window.SONG_DATA.push(
     {
   "title": "幾億光年",
   "artist": "Omoinotake",
-  "collection": "【 #歌枠 】7曲「だけ」歌います。ウィスパーな歌 稀羽すう 2025年09月29日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -16800,7 +16800,7 @@ window.SONG_DATA.push(
     {
   "title": "トロイメライ",
   "artist": "稀羽すう",
-  "collection": "【 #歌枠 】7曲「だけ」歌います。ウィスパーな歌 稀羽すう 2025年09月29日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -16808,7 +16808,7 @@ window.SONG_DATA.push(
     {
   "title": "さよーならまたいつか！",
   "artist": "米津玄師",
-  "collection": "【 #歌枠 】7曲「だけ」歌います。ウィスパーな歌 稀羽すう 2025年09月29日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -16816,7 +16816,7 @@ window.SONG_DATA.push(
     {
   "title": "キラキラ",
   "artist": "aiko",
-  "collection": "【 稀羽すう】#122 きらきらになれ～！！水曜日は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -16824,7 +16824,7 @@ window.SONG_DATA.push(
     {
   "title": "きらきら武士",
   "artist": "レキシ",
-  "collection": "【 稀羽すう】#122 きらきらになれ～！！水曜日は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -16832,7 +16832,7 @@ window.SONG_DATA.push(
     {
   "title": "星間飛行",
   "artist": "ランカ・リー(中島愛)",
-  "collection": "【 稀羽すう】#122 きらきらになれ～！！水曜日は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -16840,7 +16840,7 @@ window.SONG_DATA.push(
     {
   "title": "きらり",
   "artist": "藤井風",
-  "collection": "【 稀羽すう】#122 きらきらになれ～！！水曜日は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -16848,7 +16848,7 @@ window.SONG_DATA.push(
     {
   "title": "POP STAR",
   "artist": "平井堅",
-  "collection": "【 稀羽すう】#122 きらきらになれ～！！水曜日は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -16856,7 +16856,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーダウト",
   "artist": "Official髭男dism",
-  "collection": "【 稀羽すう】#122 きらきらになれ～！！水曜日は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -16864,7 +16864,7 @@ window.SONG_DATA.push(
     {
   "title": "モニタリング",
   "artist": "DECO27",
-  "collection": "【 稀羽すう】#122 きらきらになれ～！！水曜日は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -16872,7 +16872,7 @@ window.SONG_DATA.push(
     {
   "title": "ダンスホール",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【 稀羽すう】#122 きらきらになれ～！！水曜日は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -16880,7 +16880,7 @@ window.SONG_DATA.push(
     {
   "title": "シル・ヴ・プレジデント",
   "artist": "P丸様。",
-  "collection": "【 稀羽すう】#122 きらきらになれ～！！水曜日は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -16888,7 +16888,7 @@ window.SONG_DATA.push(
     {
   "title": "ギラギラ",
   "artist": "Ado",
-  "collection": "【 稀羽すう】#122 きらきらになれ～！！水曜日は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -16896,7 +16896,7 @@ window.SONG_DATA.push(
     {
   "title": "残響散歌",
   "artist": "Aimer",
-  "collection": "【稀羽すう】10万人耐久。お願いします！！！！！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -16904,7 +16904,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーザンクロス",
   "artist": "シェリル・ノーム starring May'n",
-  "collection": "【稀羽すう】10万人耐久。お願いします！！！！！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -16912,7 +16912,7 @@ window.SONG_DATA.push(
     {
   "title": "Plazma",
   "artist": "米津玄師",
-  "collection": "【稀羽すう】10万人耐久。お願いします！！！！！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -16920,7 +16920,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI",
-  "collection": "【稀羽すう】10万人耐久。お願いします！！！！！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -16928,7 +16928,7 @@ window.SONG_DATA.push(
     {
   "title": "Overdose",
   "artist": "なとり",
-  "collection": "【稀羽すう】10万人耐久。お願いします！！！！！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -16936,7 +16936,7 @@ window.SONG_DATA.push(
     {
   "title": "プロポーズ",
   "artist": "なとり",
-  "collection": "【稀羽すう】10万人耐久。お願いします！！！！！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -16944,7 +16944,7 @@ window.SONG_DATA.push(
     {
   "title": "モニタリング",
   "artist": "DECO27",
-  "collection": "【稀羽すう】10万人耐久。お願いします！！！！！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -16952,7 +16952,7 @@ window.SONG_DATA.push(
     {
   "title": "花に亡霊",
   "artist": "ヨルシカ",
-  "collection": "【稀羽すう】10万人耐久。お願いします！！！！！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -16960,7 +16960,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒッチコック",
   "artist": "ヨルシカ",
-  "collection": "【稀羽すう】10万人耐久。お願いします！！！！！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -16968,7 +16968,7 @@ window.SONG_DATA.push(
     {
   "title": "都落ち",
   "artist": "ヨルシカ",
-  "collection": "【稀羽すう】10万人耐久。お願いします！！！！！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -16976,7 +16976,7 @@ window.SONG_DATA.push(
     {
   "title": "星座になれたら",
   "artist": "結束バンド",
-  "collection": "【稀羽すう】10万人耐久。お願いします！！！！！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -16984,7 +16984,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣",
   "artist": "サカナクション",
-  "collection": "【稀羽すう】10万人耐久。お願いします！！！！！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -16992,7 +16992,7 @@ window.SONG_DATA.push(
     {
   "title": "アポリア",
   "artist": "ヨルシカ",
-  "collection": "【稀羽すう】10万人耐久。お願いします！！！！！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -17000,7 +17000,7 @@ window.SONG_DATA.push(
     {
   "title": "恋",
   "artist": "星野源",
-  "collection": "【稀羽すう】10万人耐久。お願いします！！！！！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -17008,7 +17008,7 @@ window.SONG_DATA.push(
     {
   "title": "フリージア",
   "artist": "Uru",
-  "collection": "【稀羽すう】10万人耐久。お願いします！！！！！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=15",
   "source": "suu_usuwa.js"
@@ -17016,7 +17016,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【稀羽すう】10万人耐久。お願いします！！！！！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=16",
   "source": "suu_usuwa.js"
@@ -17024,7 +17024,7 @@ window.SONG_DATA.push(
     {
   "title": "ダンスホール",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【稀羽すう】10万人耐久。お願いします！！！！！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=17",
   "source": "suu_usuwa.js"
@@ -17032,7 +17032,7 @@ window.SONG_DATA.push(
     {
   "title": "115万キロのフィルム",
   "artist": "Official髭男dism",
-  "collection": "【稀羽すう】10万人耐久。お願いします！！！！！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=18",
   "source": "suu_usuwa.js"
@@ -17040,7 +17040,7 @@ window.SONG_DATA.push(
     {
   "title": "幾億光年",
   "artist": "Omoinotake",
-  "collection": "【稀羽すう】10万人耐久。お願いします！！！！！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=19",
   "source": "suu_usuwa.js"
@@ -17048,7 +17048,7 @@ window.SONG_DATA.push(
     {
   "title": "君の知らない物語",
   "artist": "supercell",
-  "collection": "【稀羽すう】10万人耐久。お願いします！！！！！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=20",
   "source": "suu_usuwa.js"
@@ -17056,7 +17056,7 @@ window.SONG_DATA.push(
     {
   "title": "メルト",
   "artist": "ryo",
-  "collection": "【稀羽すう】10万人耐久。お願いします！！！！！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=21",
   "source": "suu_usuwa.js"
@@ -17064,7 +17064,7 @@ window.SONG_DATA.push(
     {
   "title": "たばこ",
   "artist": "コレサワ",
-  "collection": "【稀羽すう】10万人耐久。お願いします！！！！！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=22",
   "source": "suu_usuwa.js"
@@ -17072,7 +17072,7 @@ window.SONG_DATA.push(
     {
   "title": "らしく。",
   "artist": "稀羽すう",
-  "collection": "【稀羽すう】10万人耐久。お願いします！！！！！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=23",
   "source": "suu_usuwa.js"
@@ -17080,7 +17080,7 @@ window.SONG_DATA.push(
     {
   "title": "琥珀色の街、上海蟹の朝",
   "artist": "くるり",
-  "collection": "【稀羽すう / 2025年10月15日 】水曜20時は定期歌枠 #123",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -17088,7 +17088,7 @@ window.SONG_DATA.push(
     {
   "title": "Burning Friday Night",
   "artist": "Lucky Kilimanjaro",
-  "collection": "【稀羽すう / 2025年10月15日 】水曜20時は定期歌枠 #123",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -17096,7 +17096,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒",
   "artist": "ヨルシカ",
-  "collection": "【稀羽すう / 2025年10月15日 】水曜20時は定期歌枠 #123",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -17104,7 +17104,7 @@ window.SONG_DATA.push(
     {
   "title": "赤黄色の金木犀",
   "artist": "フジファブリック",
-  "collection": "【稀羽すう / 2025年10月15日 】水曜20時は定期歌枠 #123",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -17112,7 +17112,7 @@ window.SONG_DATA.push(
     {
   "title": "金木犀",
   "artist": "くじら",
-  "collection": "【稀羽すう / 2025年10月15日 】水曜20時は定期歌枠 #123",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -17120,7 +17120,7 @@ window.SONG_DATA.push(
     {
   "title": "月のワルツ",
   "artist": "諫山実生",
-  "collection": "【稀羽すう / 2025年10月15日 】水曜20時は定期歌枠 #123",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -17128,7 +17128,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌",
   "artist": "tuki.",
-  "collection": "【稀羽すう / 2025年10月15日 】水曜20時は定期歌枠 #123",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -17136,7 +17136,7 @@ window.SONG_DATA.push(
     {
   "title": "ねむるまち",
   "artist": "くじら",
-  "collection": "【稀羽すう / 2025年10月15日 】水曜20時は定期歌枠 #123",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -17144,7 +17144,7 @@ window.SONG_DATA.push(
     {
   "title": "チャイナアドバイス",
   "artist": "相対性理論",
-  "collection": "【稀羽すう / 2025年10月15日 】水曜20時は定期歌枠 #123",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -17152,7 +17152,7 @@ window.SONG_DATA.push(
     {
   "title": "少年よ我に帰れ",
   "artist": "やくしまるえつこ",
-  "collection": "【稀羽すう / 2025年10月15日 】水曜20時は定期歌枠 #123",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -17160,7 +17160,7 @@ window.SONG_DATA.push(
     {
   "title": "ブレーメン",
   "artist": "ヨルシカ",
-  "collection": "【 稀羽すう  2025年10月18日接力 】让我们度过一个闪耀的夜晚 ~きらめく夜になれー",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "suu_usuwa.js"
@@ -17168,7 +17168,7 @@ window.SONG_DATA.push(
     {
   "title": "NIGHTDANCER",
   "artist": "imase",
-  "collection": "【 稀羽すう  2025年10月18日接力 】让我们度过一个闪耀的夜晚 ~きらめく夜になれー",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "suu_usuwa.js"
@@ -17176,7 +17176,7 @@ window.SONG_DATA.push(
     {
   "title": "トロイメライ",
   "artist": "稀羽すう",
-  "collection": "【 稀羽すう  2025年10月18日接力 】让我们度过一个闪耀的夜晚 ~きらめく夜になれー",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "suu_usuwa.js"
@@ -17184,7 +17184,7 @@ window.SONG_DATA.push(
     {
   "title": "ラブ・ストーリーは突然に",
   "artist": "小田和正",
-  "collection": "【 稀羽すう  2025年10月18日接力 】让我们度过一个闪耀的夜晚 ~きらめく夜になれー",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "suu_usuwa.js"
@@ -17192,7 +17192,7 @@ window.SONG_DATA.push(
     {
   "title": "Starry night",
   "artist": "稀羽すう",
-  "collection": "【 稀羽すう  2025年10月18日接力 】让我们度过一个闪耀的夜晚 ~きらめく夜になれー",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=5",
   "source": "suu_usuwa.js"
@@ -17200,7 +17200,7 @@ window.SONG_DATA.push(
     {
   "title": "未来予想図Ⅱ",
   "artist": "DREAMS COME TRUE",
-  "collection": "【 稀羽すう】7曲「だけ」歌います。ウィスパーな歌 2025年10月20日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -17208,7 +17208,7 @@ window.SONG_DATA.push(
     {
   "title": "ケセラセラ",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【 稀羽すう】7曲「だけ」歌います。ウィスパーな歌 2025年10月20日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -17216,7 +17216,7 @@ window.SONG_DATA.push(
     {
   "title": "水平線",
   "artist": "back number",
-  "collection": "【 稀羽すう】7曲「だけ」歌います。ウィスパーな歌 2025年10月20日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -17224,7 +17224,7 @@ window.SONG_DATA.push(
     {
   "title": "地球儀",
   "artist": "米津玄師",
-  "collection": "【 稀羽すう】7曲「だけ」歌います。ウィスパーな歌 2025年10月20日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -17232,7 +17232,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍",
   "artist": "n-buna",
-  "collection": "【 稀羽すう】7曲「だけ」歌います。ウィスパーな歌 2025年10月20日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -17240,7 +17240,7 @@ window.SONG_DATA.push(
     {
   "title": "たばこ",
   "artist": "コレサワ",
-  "collection": "【 稀羽すう】7曲「だけ」歌います。ウィスパーな歌 2025年10月20日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -17248,7 +17248,7 @@ window.SONG_DATA.push(
     {
   "title": "First Love",
   "artist": "宇多田ヒカル",
-  "collection": "【 稀羽すう】7曲「だけ」歌います。ウィスパーな歌 2025年10月20日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -17256,7 +17256,7 @@ window.SONG_DATA.push(
     {
   "title": "カタオモイ",
   "artist": "Aimer",
-  "collection": "【 稀羽すう】#124 该换衣服了。衣替えしなきゃ。水曜20時は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -17264,7 +17264,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒッチコック",
   "artist": "ヨルシカ",
-  "collection": "【 稀羽すう】#124 该换衣服了。衣替えしなきゃ。水曜20時は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -17272,7 +17272,7 @@ window.SONG_DATA.push(
     {
   "title": "Subtitle",
   "artist": "Official髭男dism",
-  "collection": "【 稀羽すう】#124 该换衣服了。衣替えしなきゃ。水曜20時は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -17280,7 +17280,7 @@ window.SONG_DATA.push(
     {
   "title": "SWEET TWEET",
   "artist": "Official髭男dism",
-  "collection": "【 稀羽すう】#124 该换衣服了。衣替えしなきゃ。水曜20時は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -17288,7 +17288,7 @@ window.SONG_DATA.push(
     {
   "title": "斜陽",
   "artist": "ヨルシカ",
-  "collection": "【 稀羽すう】#124 该换衣服了。衣替えしなきゃ。水曜20時は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -17296,7 +17296,7 @@ window.SONG_DATA.push(
     {
   "title": "アポリア",
   "artist": "ヨルシカ",
-  "collection": "【 稀羽すう】#124 该换衣服了。衣替えしなきゃ。水曜20時は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -17304,7 +17304,7 @@ window.SONG_DATA.push(
     {
   "title": "Limbo",
   "artist": "春野",
-  "collection": "【 稀羽すう】#124 该换衣服了。衣替えしなきゃ。水曜20時は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -17312,7 +17312,7 @@ window.SONG_DATA.push(
     {
   "title": "seaglass",
   "artist": "稀羽すう",
-  "collection": "【 稀羽すう】#124 该换衣服了。衣替えしなきゃ。水曜20時は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -17320,7 +17320,7 @@ window.SONG_DATA.push(
     {
   "title": "不可幸力",
   "artist": "Vaundy",
-  "collection": "【 稀羽すう】#124 该换衣服了。衣替えしなきゃ。水曜20時は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -17328,7 +17328,7 @@ window.SONG_DATA.push(
     {
   "title": "東京フラッシュ",
   "artist": "Vaundy",
-  "collection": "【 稀羽すう】#124 该换衣服了。衣替えしなきゃ。水曜20時は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -17336,7 +17336,7 @@ window.SONG_DATA.push(
     {
   "title": "(恋は)百年戦争",
   "artist": "相対性理論",
-  "collection": "【 稀羽すう】#124 该换衣服了。衣替えしなきゃ。水曜20時は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -17344,7 +17344,7 @@ window.SONG_DATA.push(
     {
   "title": "ナラタージュ",
   "artist": "稀羽すう",
-  "collection": "【 稀羽すう】#124 该换衣服了。衣替えしなきゃ。水曜20時は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -17352,7 +17352,7 @@ window.SONG_DATA.push(
     {
   "title": "DRESSING ROOM",
   "artist": "なとり",
-  "collection": "【 稀羽すう】#124 该换衣服了。衣替えしなきゃ。水曜20時は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -17360,7 +17360,7 @@ window.SONG_DATA.push(
     {
   "title": "大阪LOVER",
   "artist": "DREAMS COME TRUE",
-  "collection": "【 稀羽すう】#124 该换衣服了。衣替えしなきゃ。水曜20時は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -17368,7 +17368,7 @@ window.SONG_DATA.push(
     {
   "title": "クリスマスソング",
   "artist": "back number",
-  "collection": "【 稀羽すう】#124 该换衣服了。衣替えしなきゃ。水曜20時は定期歌枠",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=15",
   "source": "suu_usuwa.js"
@@ -17376,7 +17376,7 @@ window.SONG_DATA.push(
     {
   "title": "ブレーメン",
   "artist": "ヨルシカ",
-  "collection": "【 稀羽すう  歌枠 】ずいぶん涼しくなりまして。｜KARAOKE｜Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=1",
   "source": "suu_usuwa.js"
@@ -17384,7 +17384,7 @@ window.SONG_DATA.push(
     {
   "title": "Mela!",
   "artist": "緑黄色社会",
-  "collection": "【 稀羽すう  歌枠 】ずいぶん涼しくなりまして。｜KARAOKE｜Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=2",
   "source": "suu_usuwa.js"
@@ -17392,7 +17392,7 @@ window.SONG_DATA.push(
     {
   "title": "喜劇",
   "artist": "星野源",
-  "collection": "【 稀羽すう  歌枠 】ずいぶん涼しくなりまして。｜KARAOKE｜Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=3",
   "source": "suu_usuwa.js"
@@ -17400,7 +17400,7 @@ window.SONG_DATA.push(
     {
   "title": "ミックスナッツ",
   "artist": "Official髭男dism",
-  "collection": "【 稀羽すう  歌枠 】ずいぶん涼しくなりまして。｜KARAOKE｜Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=4",
   "source": "suu_usuwa.js"
@@ -17408,7 +17408,7 @@ window.SONG_DATA.push(
     {
   "title": "Beautiful World",
   "artist": "宇多田ヒカル",
-  "collection": "【 稀羽すう  歌枠 】ずいぶん涼しくなりまして。｜KARAOKE｜Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=5",
   "source": "suu_usuwa.js"
@@ -17416,7 +17416,7 @@ window.SONG_DATA.push(
     {
   "title": "One Last Kiss",
   "artist": "宇多田ヒカル",
-  "collection": "【 稀羽すう  歌枠 】ずいぶん涼しくなりまして。｜KARAOKE｜Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=6",
   "source": "suu_usuwa.js"
@@ -17424,7 +17424,7 @@ window.SONG_DATA.push(
     {
   "title": "風になる",
   "artist": "つじあやの",
-  "collection": "【 稀羽すう  歌枠 】ずいぶん涼しくなりまして。｜KARAOKE｜Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=7",
   "source": "suu_usuwa.js"
@@ -17432,7 +17432,7 @@ window.SONG_DATA.push(
     {
   "title": "テトラゴン",
   "artist": "やなぎなぎ",
-  "collection": "【 稀羽すう  歌枠 】ずいぶん涼しくなりまして。｜KARAOKE｜Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=8",
   "source": "suu_usuwa.js"
@@ -17440,7 +17440,7 @@ window.SONG_DATA.push(
     {
   "title": "ガーネット",
   "artist": "奥華子",
-  "collection": "【 稀羽すう  歌枠 】ずいぶん涼しくなりまして。｜KARAOKE｜Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=9",
   "source": "suu_usuwa.js"
@@ -17448,7 +17448,7 @@ window.SONG_DATA.push(
     {
   "title": "ファジーネーブル",
   "artist": "Conton Candy",
-  "collection": "【 稀羽すう  歌枠 】ずいぶん涼しくなりまして。｜KARAOKE｜Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=10",
   "source": "suu_usuwa.js"
@@ -17456,7 +17456,7 @@ window.SONG_DATA.push(
     {
   "title": "踊り子",
   "artist": "Vaundy",
-  "collection": "【 稀羽すう  歌枠 】ずいぶん涼しくなりまして。｜KARAOKE｜Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=11",
   "source": "suu_usuwa.js"
@@ -17464,7 +17464,7 @@ window.SONG_DATA.push(
     {
   "title": "琥珀色の街、上海蟹の朝",
   "artist": "くるり",
-  "collection": "【 稀羽すう  歌枠 】ずいぶん涼しくなりまして。｜KARAOKE｜Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=12",
   "source": "suu_usuwa.js"
@@ -17472,7 +17472,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
-  "collection": "【 稀羽すう  歌枠 】ずいぶん涼しくなりまして。｜KARAOKE｜Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=13",
   "source": "suu_usuwa.js"
@@ -17480,7 +17480,7 @@ window.SONG_DATA.push(
     {
   "title": "プロポーズ",
   "artist": "なとり",
-  "collection": "【 稀羽すう  歌枠 】ずいぶん涼しくなりまして。｜KARAOKE｜Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=14",
   "source": "suu_usuwa.js"
@@ -17488,7 +17488,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣",
   "artist": "サカナクション",
-  "collection": "【 稀羽すう】水曜20時は定期歌枠 #125 好冷啊，感觉像冬天一样。 もう冬みたいに寒くて無理。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -17496,7 +17496,7 @@ window.SONG_DATA.push(
     {
   "title": "プラチナ",
   "artist": "坂本真綾",
-  "collection": "【 稀羽すう】水曜20時は定期歌枠 #125 好冷啊，感觉像冬天一样。 もう冬みたいに寒くて無理。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -17504,7 +17504,7 @@ window.SONG_DATA.push(
     {
   "title": "セカイ",
   "artist": "DECO27, 堀江晶太",
-  "collection": "【 稀羽すう】水曜20時は定期歌枠 #125 好冷啊，感觉像冬天一样。 もう冬みたいに寒くて無理。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -17512,7 +17512,7 @@ window.SONG_DATA.push(
     {
   "title": "初めての恋が終わる時",
   "artist": "ryo",
-  "collection": "【 稀羽すう】水曜20時は定期歌枠 #125 好冷啊，感觉像冬天一样。 もう冬みたいに寒くて無理。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -17520,7 +17520,7 @@ window.SONG_DATA.push(
     {
   "title": "Starry night",
   "artist": "稀羽すう(2)",
-  "collection": "【 稀羽すう】水曜20時は定期歌枠 #125 好冷啊，感觉像冬天一样。 もう冬みたいに寒くて無理。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -17528,7 +17528,7 @@ window.SONG_DATA.push(
     {
   "title": "夜撫でるメノウ",
   "artist": "Ayase",
-  "collection": "【 稀羽すう】水曜20時は定期歌枠 #125 好冷啊，感觉像冬天一样。 もう冬みたいに寒くて無理。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -17536,7 +17536,7 @@ window.SONG_DATA.push(
     {
   "title": "へび",
   "artist": "ヨルシカ",
-  "collection": "【 稀羽すう】水曜20時は定期歌枠 #125 好冷啊，感觉像冬天一样。 もう冬みたいに寒くて無理。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -17544,7 +17544,7 @@ window.SONG_DATA.push(
     {
   "title": "左右盲",
   "artist": "ヨルシカ",
-  "collection": "【 稀羽すう】水曜20時は定期歌枠 #125 好冷啊，感觉像冬天一样。 もう冬みたいに寒くて無理。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -17552,7 +17552,7 @@ window.SONG_DATA.push(
     {
   "title": "シャル・ウィ・ダンス？",
   "artist": "ReoNa",
-  "collection": "【 稀羽すう】水曜20時は定期歌枠 #125 好冷啊，感觉像冬天一样。 もう冬みたいに寒くて無理。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -17560,7 +17560,7 @@ window.SONG_DATA.push(
     {
   "title": "不可思議のカルテ",
   "artist": "から青春ブタ野郎はバニーガール先輩の夢を見ない",
-  "collection": "【 稀羽すう】水曜20時は定期歌枠 #125 好冷啊，感觉像冬天一样。 もう冬みたいに寒くて無理。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -17568,7 +17568,7 @@ window.SONG_DATA.push(
     {
   "title": "粉雪",
   "artist": "レミオロメン",
-  "collection": "【 稀羽すう】水曜20時は定期歌枠 #125 好冷啊，感觉像冬天一样。 もう冬みたいに寒くて無理。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -17576,7 +17576,7 @@ window.SONG_DATA.push(
     {
   "title": "Good-bye days",
   "artist": "YUI",
-  "collection": "【 稀羽すう】水曜20時は定期歌枠 #125 好冷啊，感觉像冬天一样。 もう冬みたいに寒くて無理。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -17584,7 +17584,7 @@ window.SONG_DATA.push(
     {
   "title": "fake face dance music",
   "artist": "音田雅則",
-  "collection": "【歌切】遊びにおいで。水曜20時は定期歌枠 #126｜ KARAOKE｜Singing Stream 【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=1",
   "source": "suu_usuwa.js"
@@ -17592,7 +17592,7 @@ window.SONG_DATA.push(
     {
   "title": "メリッサ",
   "artist": "ポルノグラフィティ",
-  "collection": "【歌切】遊びにおいで。水曜20時は定期歌枠 #126｜ KARAOKE｜Singing Stream 【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=2",
   "source": "suu_usuwa.js"
@@ -17600,7 +17600,7 @@ window.SONG_DATA.push(
     {
   "title": "青のすみか",
   "artist": "キタニタツヤ",
-  "collection": "【歌切】遊びにおいで。水曜20時は定期歌枠 #126｜ KARAOKE｜Singing Stream 【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=3",
   "source": "suu_usuwa.js"
@@ -17608,7 +17608,7 @@ window.SONG_DATA.push(
     {
   "title": "Overdos",
   "artist": "なとり",
-  "collection": "【歌切】遊びにおいで。水曜20時は定期歌枠 #126｜ KARAOKE｜Singing Stream 【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=4",
   "source": "suu_usuwa.js"
@@ -17616,7 +17616,7 @@ window.SONG_DATA.push(
     {
   "title": "シャンティ",
   "artist": "Wotaku",
-  "collection": "【歌切】遊びにおいで。水曜20時は定期歌枠 #126｜ KARAOKE｜Singing Stream 【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=5",
   "source": "suu_usuwa.js"
@@ -17624,7 +17624,7 @@ window.SONG_DATA.push(
     {
   "title": "ハレンチ",
   "artist": "ちゃんみな",
-  "collection": "【歌切】遊びにおいで。水曜20時は定期歌枠 #126｜ KARAOKE｜Singing Stream 【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=6",
   "source": "suu_usuwa.js"
@@ -17632,7 +17632,7 @@ window.SONG_DATA.push(
     {
   "title": "残酷な天使のテーゼ",
   "artist": "高橋洋子",
-  "collection": "【歌切】遊びにおいで。水曜20時は定期歌枠 #126｜ KARAOKE｜Singing Stream 【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=7",
   "source": "suu_usuwa.js"
@@ -17640,7 +17640,7 @@ window.SONG_DATA.push(
     {
   "title": "フライディ・チャイナタウン",
   "artist": "泰葉",
-  "collection": "【歌切】遊びにおいで。水曜20時は定期歌枠 #126｜ KARAOKE｜Singing Stream 【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=8",
   "source": "suu_usuwa.js"
@@ -17648,7 +17648,7 @@ window.SONG_DATA.push(
     {
   "title": "DRESSING ROOM",
   "artist": "なとり",
-  "collection": "【歌切】遊びにおいで。水曜20時は定期歌枠 #126｜ KARAOKE｜Singing Stream 【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=9",
   "source": "suu_usuwa.js"
@@ -17656,7 +17656,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣",
   "artist": "サカナクション",
-  "collection": "【歌切】遊びにおいで。水曜20時は定期歌枠 #126｜ KARAOKE｜Singing Stream 【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=10",
   "source": "suu_usuwa.js"
@@ -17664,7 +17664,7 @@ window.SONG_DATA.push(
     {
   "title": "東京フラッシュ",
   "artist": "Vaundy",
-  "collection": "【歌切】遊びにおいで。水曜20時は定期歌枠 #126｜ KARAOKE｜Singing Stream 【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=11",
   "source": "suu_usuwa.js"
@@ -17672,7 +17672,7 @@ window.SONG_DATA.push(
     {
   "title": "夜空ノムコウ",
   "artist": "SMAP",
-  "collection": "【歌切】遊びにおいで。水曜20時は定期歌枠 #126｜ KARAOKE｜Singing Stream 【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=12",
   "source": "suu_usuwa.js"
@@ -17680,7 +17680,7 @@ window.SONG_DATA.push(
     {
   "title": "燈",
   "artist": "崎山蒼志",
-  "collection": "【歌切】遊びにおいで。水曜20時は定期歌枠 #126｜ KARAOKE｜Singing Stream 【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=13",
   "source": "suu_usuwa.js"
@@ -17688,7 +17688,7 @@ window.SONG_DATA.push(
     {
   "title": "琥珀色の街、上海蟹の朝",
   "artist": "くるり",
-  "collection": "【歌切】遊びにおいで。水曜20時は定期歌枠 #126｜ KARAOKE｜Singing Stream 【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=14",
   "source": "suu_usuwa.js"
@@ -17696,7 +17696,7 @@ window.SONG_DATA.push(
     {
   "title": "さよーならまたいつか！",
   "artist": "米津玄師",
-  "collection": "【歌切】遊びにおいで。水曜20時は定期歌枠 #126｜ KARAOKE｜Singing Stream 【 稀羽すう / Re:AcT 】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=15",
   "source": "suu_usuwa.js"
@@ -17704,7 +17704,7 @@ window.SONG_DATA.push(
     {
   "title": "ナラタージュ",
   "artist": "稀羽すう",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 #127 树木也渐染秋色呢。木々も色づいてまいりましたね。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -17712,7 +17712,7 @@ window.SONG_DATA.push(
     {
   "title": "春を告げる",
   "artist": "yama",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 #127 树木也渐染秋色呢。木々も色づいてまいりましたね。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -17720,7 +17720,7 @@ window.SONG_DATA.push(
     {
   "title": "涙のキッス",
   "artist": "サザンオールスターズ",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 #127 树木也渐染秋色呢。木々も色づいてまいりましたね。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -17728,7 +17728,7 @@ window.SONG_DATA.push(
     {
   "title": "秒針を噛む",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 #127 树木也渐染秋色呢。木々も色づいてまいりましたね。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -17736,7 +17736,7 @@ window.SONG_DATA.push(
     {
   "title": "My Dearest",
   "artist": "supercell",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 #127 树木也渐染秋色呢。木々も色づいてまいりましたね。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -17744,7 +17744,7 @@ window.SONG_DATA.push(
     {
   "title": "六兆年と一夜物語",
   "artist": "kemu",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 #127 树木也渐染秋色呢。木々も色づいてまいりましたね。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -17752,7 +17752,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣",
   "artist": "サカナクション",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 #127 树木也渐染秋色呢。木々も色づいてまいりましたね。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -17760,7 +17760,7 @@ window.SONG_DATA.push(
     {
   "title": "願い",
   "artist": "Sumika",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 #127 树木也渐染秋色呢。木々も色づいてまいりましたね。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -17768,7 +17768,7 @@ window.SONG_DATA.push(
     {
   "title": "dear...",
   "artist": "馬場このみ(CV 高橋未奈美)",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 #127 树木也渐染秋色呢。木々も色づいてまいりましたね。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -17776,7 +17776,7 @@ window.SONG_DATA.push(
     {
   "title": "祝福",
   "artist": "YOASOBI",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 #127 树木也渐染秋色呢。木々も色づいてまいりましたね。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -17784,7 +17784,7 @@ window.SONG_DATA.push(
     {
   "title": "Plazma",
   "artist": "米津玄師",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 #127 树木也渐染秋色呢。木々も色づいてまいりましたね。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -17792,7 +17792,7 @@ window.SONG_DATA.push(
     {
   "title": "fake face dance music",
   "artist": "音田雅則",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 #127 树木也渐染秋色呢。木々も色づいてまいりましたね。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -17800,7 +17800,7 @@ window.SONG_DATA.push(
     {
   "title": "Starry night",
   "artist": "稀羽すう",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 #127 树木也渐染秋色呢。木々も色づいてまいりましたね。",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -17808,7 +17808,7 @@ window.SONG_DATA.push(
     {
   "title": "Departures ～あなたにおくるアイの歌～",
   "artist": "EGOIST",
-  "collection": "【 稀羽すう / Re:AcT 】深夜に7曲だけ歌う枠。 2025年11月17日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=1",
   "source": "suu_usuwa.js"
@@ -17816,7 +17816,7 @@ window.SONG_DATA.push(
     {
   "title": "glow",
   "artist": "keeno",
-  "collection": "【 稀羽すう / Re:AcT 】深夜に7曲だけ歌う枠。 2025年11月17日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=2",
   "source": "suu_usuwa.js"
@@ -17824,7 +17824,7 @@ window.SONG_DATA.push(
     {
   "title": "へび",
   "artist": "ヨルシカ",
-  "collection": "【 稀羽すう / Re:AcT 】深夜に7曲だけ歌う枠。 2025年11月17日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=3",
   "source": "suu_usuwa.js"
@@ -17832,7 +17832,7 @@ window.SONG_DATA.push(
     {
   "title": "エイリアンズ",
   "artist": "キリンジ",
-  "collection": "【 稀羽すう / Re:AcT 】深夜に7曲だけ歌う枠。 2025年11月17日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=4",
   "source": "suu_usuwa.js"
@@ -17840,7 +17840,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌",
   "artist": "tuki.",
-  "collection": "【 稀羽すう / Re:AcT 】深夜に7曲だけ歌う枠。 2025年11月17日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=5",
   "source": "suu_usuwa.js"
@@ -17848,7 +17848,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍",
   "artist": "n-buna",
-  "collection": "【 稀羽すう / Re:AcT 】深夜に7曲だけ歌う枠。 2025年11月17日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=6",
   "source": "suu_usuwa.js"
@@ -17856,7 +17856,7 @@ window.SONG_DATA.push(
     {
   "title": "らしく。",
   "artist": "稀羽すう",
-  "collection": "【 稀羽すう / Re:AcT 】深夜に7曲だけ歌う枠。 2025年11月17日",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=7",
   "source": "suu_usuwa.js"
@@ -17864,7 +17864,7 @@ window.SONG_DATA.push(
     {
   "title": "ハッピー・ジャムジャム",
   "artist": "しまじろう",
-  "collection": "【  稀羽すう - Suu Usuwa -】 竖屏 2025年11月21日 歌うしかないんだけれども；/ KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -17872,7 +17872,7 @@ window.SONG_DATA.push(
     {
   "title": "ブレーメン",
   "artist": "ヨルシカ",
-  "collection": "【  稀羽すう - Suu Usuwa -】 竖屏 2025年11月21日 歌うしかないんだけれども；/ KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -17880,7 +17880,7 @@ window.SONG_DATA.push(
     {
   "title": "(恋は)百年戦争",
   "artist": "相対性理論",
-  "collection": "【  稀羽すう - Suu Usuwa -】 竖屏 2025年11月21日 歌うしかないんだけれども；/ KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -17888,7 +17888,7 @@ window.SONG_DATA.push(
     {
   "title": "dear...",
   "artist": "馬場このみ",
-  "collection": "【  稀羽すう - Suu Usuwa -】 竖屏 2025年11月21日 歌うしかないんだけれども；/ KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -17896,7 +17896,7 @@ window.SONG_DATA.push(
     {
   "title": "琥珀色の街、上海蟹の朝",
   "artist": "くるり",
-  "collection": "【  稀羽すう - Suu Usuwa -】 竖屏 2025年11月21日 歌うしかないんだけれども；/ KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -17904,7 +17904,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【  稀羽すう - Suu Usuwa -】 竖屏 2025年11月21日 歌うしかないんだけれども；/ KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -17912,7 +17912,7 @@ window.SONG_DATA.push(
     {
   "title": "うるわしきひと",
   "artist": "いきものがかり",
-  "collection": "【  稀羽すう - Suu Usuwa -】 竖屏 2025年11月21日 歌うしかないんだけれども；/ KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -17920,7 +17920,7 @@ window.SONG_DATA.push(
     {
   "title": "CLEAR",
   "artist": "坂本真綾",
-  "collection": "【  稀羽すう - Suu Usuwa -】 竖屏 2025年11月21日 歌うしかないんだけれども；/ KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -17928,7 +17928,7 @@ window.SONG_DATA.push(
     {
   "title": "Snow halation",
   "artist": "μ's",
-  "collection": "【  稀羽すう - Suu Usuwa -】 竖屏 2025年11月21日 歌うしかないんだけれども；/ KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -17936,7 +17936,7 @@ window.SONG_DATA.push(
     {
   "title": "死ぬのがいいわ",
   "artist": "藤井風",
-  "collection": "【  稀羽すう - Suu Usuwa -】 竖屏 2025年11月21日 歌うしかないんだけれども；/ KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -17944,7 +17944,7 @@ window.SONG_DATA.push(
     {
   "title": "孤独とランデブー",
   "artist": "サンボマスター",
-  "collection": "【  稀羽すう - Suu Usuwa -】 竖屏 2025年11月21日 歌うしかないんだけれども；/ KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -17952,7 +17952,7 @@ window.SONG_DATA.push(
     {
   "title": "夕景イエスタディ",
   "artist": "じん",
-  "collection": "【  稀羽すう - Suu Usuwa -】 竖屏 2025年11月21日 歌うしかないんだけれども；/ KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -17960,7 +17960,7 @@ window.SONG_DATA.push(
     {
   "title": "きらり",
   "artist": "藤井 風",
-  "collection": "【  稀羽すう - Suu Usuwa -】 竖屏 2025年11月21日 歌うしかないんだけれども；/ KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -17968,7 +17968,7 @@ window.SONG_DATA.push(
     {
   "title": "アポリア",
   "artist": "ヨルシカ",
-  "collection": "【  稀羽すう - Suu Usuwa -】 竖屏 2025年11月21日 歌うしかないんだけれども；/ KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -17976,7 +17976,7 @@ window.SONG_DATA.push(
     {
   "title": "Shine!!",
   "artist": "CINDERELLA PROJECT",
-  "collection": "【  稀羽すう - Suu Usuwa -】 竖屏 2025年11月21日 歌うしかないんだけれども；/ KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=15",
   "source": "suu_usuwa.js"
@@ -17984,7 +17984,7 @@ window.SONG_DATA.push(
     {
   "title": "火星人",
   "artist": "ヨルシカ",
-  "collection": "【稀羽すう - Suu Usuwa -】水曜20時は定期歌枠 #128｜ KARAOKE｜Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=1",
   "source": "suu_usuwa.js"
@@ -17992,7 +17992,7 @@ window.SONG_DATA.push(
     {
   "title": "Plazma",
   "artist": "米津玄師",
-  "collection": "【稀羽すう - Suu Usuwa -】水曜20時は定期歌枠 #128｜ KARAOKE｜Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=2",
   "source": "suu_usuwa.js"
@@ -18000,7 +18000,7 @@ window.SONG_DATA.push(
     {
   "title": "天体観測",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【稀羽すう - Suu Usuwa -】水曜20時は定期歌枠 #128｜ KARAOKE｜Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=3",
   "source": "suu_usuwa.js"
@@ -18008,7 +18008,7 @@ window.SONG_DATA.push(
     {
   "title": "不可幸力",
   "artist": "Vaundy",
-  "collection": "【稀羽すう - Suu Usuwa -】水曜20時は定期歌枠 #128｜ KARAOKE｜Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=4",
   "source": "suu_usuwa.js"
@@ -18016,7 +18016,7 @@ window.SONG_DATA.push(
     {
   "title": "Plastic Love",
   "artist": "竹内まりや",
-  "collection": "【稀羽すう - Suu Usuwa -】水曜20時は定期歌枠 #128｜ KARAOKE｜Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=5",
   "source": "suu_usuwa.js"
@@ -18024,7 +18024,7 @@ window.SONG_DATA.push(
     {
   "title": "プロポーズ",
   "artist": "なとり",
-  "collection": "【稀羽すう - Suu Usuwa -】水曜20時は定期歌枠 #128｜ KARAOKE｜Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=6",
   "source": "suu_usuwa.js"
@@ -18032,7 +18032,7 @@ window.SONG_DATA.push(
     {
   "title": "月のワルツ",
   "artist": "諫山実生",
-  "collection": "【稀羽すう - Suu Usuwa -】水曜20時は定期歌枠 #128｜ KARAOKE｜Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=7",
   "source": "suu_usuwa.js"
@@ -18040,7 +18040,7 @@ window.SONG_DATA.push(
     {
   "title": "雪の華",
   "artist": "中島美嘉",
-  "collection": "【稀羽すう - Suu Usuwa -】水曜20時は定期歌枠 #128｜ KARAOKE｜Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=8",
   "source": "suu_usuwa.js"
@@ -18048,7 +18048,7 @@ window.SONG_DATA.push(
     {
   "title": "アルジャーノン",
   "artist": "ヨルシカ",
-  "collection": "【稀羽すう - Suu Usuwa -】水曜20時は定期歌枠 #128｜ KARAOKE｜Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=9",
   "source": "suu_usuwa.js"
@@ -18056,7 +18056,7 @@ window.SONG_DATA.push(
     {
   "title": "思い出とペトリコール",
   "artist": "稀羽すう",
-  "collection": "【稀羽すう - Suu Usuwa -】水曜20時は定期歌枠 #128｜ KARAOKE｜Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=10",
   "source": "suu_usuwa.js"
@@ -18064,7 +18064,7 @@ window.SONG_DATA.push(
     {
   "title": "透明人間",
   "artist": "東京事変",
-  "collection": "【稀羽すう - Suu Usuwa -】水曜20時は定期歌枠 #128｜ KARAOKE｜Singing Stream",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=11",
   "source": "suu_usuwa.js"
@@ -18072,7 +18072,7 @@ window.SONG_DATA.push(
     {
   "title": "すてきなホリデイ",
   "artist": "竹内まりや",
-  "collection": "【稀羽すう - Suu Usuwa -】7曲「だけ」歌います。2025年12月01日 /  KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "suu_usuwa.js"
@@ -18080,7 +18080,7 @@ window.SONG_DATA.push(
     {
   "title": "ねむるまち",
   "artist": "くじら",
-  "collection": "【稀羽すう - Suu Usuwa -】7曲「だけ」歌います。2025年12月01日 /  KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "suu_usuwa.js"
@@ -18088,7 +18088,7 @@ window.SONG_DATA.push(
     {
   "title": "真夜中のドア〜stay with me",
   "artist": "松原みき",
-  "collection": "【稀羽すう - Suu Usuwa -】7曲「だけ」歌います。2025年12月01日 /  KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "suu_usuwa.js"
@@ -18096,7 +18096,7 @@ window.SONG_DATA.push(
     {
   "title": "心拍数♯0822 -Piano Ver.-",
   "artist": "蝶々P",
-  "collection": "【稀羽すう - Suu Usuwa -】7曲「だけ」歌います。2025年12月01日 /  KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "suu_usuwa.js"
@@ -18104,7 +18104,7 @@ window.SONG_DATA.push(
     {
   "title": "たぶん",
   "artist": "YOASOBI",
-  "collection": "【稀羽すう - Suu Usuwa -】7曲「だけ」歌います。2025年12月01日 /  KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=5",
   "source": "suu_usuwa.js"
@@ -18112,7 +18112,7 @@ window.SONG_DATA.push(
     {
   "title": "そうだよ。",
   "artist": "ランカ・リー(中島愛)",
-  "collection": "【稀羽すう - Suu Usuwa -】7曲「だけ」歌います。2025年12月01日 /  KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=6",
   "source": "suu_usuwa.js"
@@ -18120,7 +18120,7 @@ window.SONG_DATA.push(
     {
   "title": "満ちてゆく",
   "artist": "藤井風",
-  "collection": "【稀羽すう - Suu Usuwa -】7曲「だけ」歌います。2025年12月01日 /  KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=7",
   "source": "suu_usuwa.js"
@@ -18128,7 +18128,7 @@ window.SONG_DATA.push(
     {
   "title": "Starry night",
   "artist": "稀羽すう",
-  "collection": "【稀羽すう 新髪型 - Suu Usuwa -】✦ 登録者10万人記念 -新髪型お披露目- 3Dミニライブ ✦",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "suu_usuwa.js"
@@ -18136,7 +18136,7 @@ window.SONG_DATA.push(
     {
   "title": "プロポーズ",
   "artist": "なとり",
-  "collection": "【稀羽すう 新髪型 - Suu Usuwa -】✦ 登録者10万人記念 -新髪型お披露目- 3Dミニライブ ✦",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "suu_usuwa.js"
@@ -18144,7 +18144,7 @@ window.SONG_DATA.push(
     {
   "title": "Ready To Party",
   "artist": "稀羽すう feat.獅子神レオナ＆夢川かなう",
-  "collection": "【稀羽すう 新髪型 - Suu Usuwa -】✦ 登録者10万人記念 -新髪型お披露目- 3Dミニライブ ✦",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "suu_usuwa.js"
@@ -18152,7 +18152,7 @@ window.SONG_DATA.push(
     {
   "title": "Daisy",
   "artist": "花鋏キョウ",
-  "collection": "【稀羽すう 新髪型 - Suu Usuwa -】✦ 登録者10万人記念 -新髪型お披露目- 3Dミニライブ ✦",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "suu_usuwa.js"
@@ -18160,7 +18160,7 @@ window.SONG_DATA.push(
     {
   "title": "思い出とペトリコール",
   "artist": "稀羽すう",
-  "collection": "【稀羽すう 新髪型 - Suu Usuwa -】✦ 登録者10万人記念 -新髪型お披露目- 3Dミニライブ ✦",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=5",
   "source": "suu_usuwa.js"
@@ -18168,7 +18168,7 @@ window.SONG_DATA.push(
     {
   "title": "コネクト",
   "artist": "ClariS",
-  "collection": "【稀羽すう 歌切 - Suu Usuwa -】たすけて～！！！さむいよ～！！！極寒/ KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "suu_usuwa.js"
@@ -18176,7 +18176,7 @@ window.SONG_DATA.push(
     {
   "title": "ライオン",
   "artist": "May'n,中島 愛",
-  "collection": "【稀羽すう 歌切 - Suu Usuwa -】たすけて～！！！さむいよ～！！！極寒/ KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "suu_usuwa.js"
@@ -18184,7 +18184,7 @@ window.SONG_DATA.push(
     {
   "title": "ウミユリ海底譚",
   "artist": "n-buna",
-  "collection": "【稀羽すう 歌切 - Suu Usuwa -】たすけて～！！！さむいよ～！！！極寒/ KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "suu_usuwa.js"
@@ -18192,7 +18192,7 @@ window.SONG_DATA.push(
     {
   "title": "火星人",
   "artist": "ヨルシカ",
-  "collection": "【稀羽すう 歌切 - Suu Usuwa -】たすけて～！！！さむいよ～！！！極寒/ KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "suu_usuwa.js"
@@ -18200,7 +18200,7 @@ window.SONG_DATA.push(
     {
   "title": "ブレーメン",
   "artist": "ヨルシカ",
-  "collection": "【稀羽すう 歌切 - Suu Usuwa -】たすけて～！！！さむいよ～！！！極寒/ KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=5",
   "source": "suu_usuwa.js"
@@ -18208,7 +18208,7 @@ window.SONG_DATA.push(
     {
   "title": "SUN",
   "artist": "星野源",
-  "collection": "【稀羽すう 歌切 - Suu Usuwa -】たすけて～！！！さむいよ～！！！極寒/ KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=6",
   "source": "suu_usuwa.js"
@@ -18216,7 +18216,7 @@ window.SONG_DATA.push(
     {
   "title": "異端なスター",
   "artist": "Official髭男dism",
-  "collection": "【稀羽すう 歌切 - Suu Usuwa -】たすけて～！！！さむいよ～！！！極寒/ KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=7",
   "source": "suu_usuwa.js"
@@ -18224,7 +18224,7 @@ window.SONG_DATA.push(
     {
   "title": "subtitle",
   "artist": "Official髭男dism",
-  "collection": "【稀羽すう 歌切 - Suu Usuwa -】たすけて～！！！さむいよ～！！！極寒/ KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=8",
   "source": "suu_usuwa.js"
@@ -18232,7 +18232,7 @@ window.SONG_DATA.push(
     {
   "title": "星座になれたら",
   "artist": "結束バンド",
-  "collection": "【稀羽すう 歌切 - Suu Usuwa -】たすけて～！！！さむいよ～！！！極寒/ KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=9",
   "source": "suu_usuwa.js"
@@ -18240,7 +18240,7 @@ window.SONG_DATA.push(
     {
   "title": "ファジーネーブル",
   "artist": "Conton Candy",
-  "collection": "【稀羽すう 歌切 - Suu Usuwa -】たすけて～！！！さむいよ～！！！極寒/ KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=10",
   "source": "suu_usuwa.js"
@@ -18248,7 +18248,7 @@ window.SONG_DATA.push(
     {
   "title": "ハッピーシンセサイザ",
   "artist": "EasyPop",
-  "collection": "【稀羽すう 歌切 - Suu Usuwa -】たすけて～！！！さむいよ～！！！極寒/ KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=11",
   "source": "suu_usuwa.js"
@@ -18256,7 +18256,7 @@ window.SONG_DATA.push(
     {
   "title": "Snow halation",
   "artist": "μ's",
-  "collection": "【稀羽すう 歌切 - Suu Usuwa -】たすけて～！！！さむいよ～！！！極寒/ KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=12",
   "source": "suu_usuwa.js"
@@ -18264,7 +18264,7 @@ window.SONG_DATA.push(
     {
   "title": "My Dearest",
   "artist": "Supercell",
-  "collection": "【稀羽すう 歌切 - Suu Usuwa -】たすけて～！！！さむいよ～！！！極寒/ KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=13",
   "source": "suu_usuwa.js"
@@ -18272,7 +18272,7 @@ window.SONG_DATA.push(
     {
   "title": "Departures 〜あなたにおくるアイの歌〜",
   "artist": "EGOIST",
-  "collection": "【稀羽すう 歌切 - Suu Usuwa -】たすけて～！！！さむいよ～！！！極寒/ KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=14",
   "source": "suu_usuwa.js"
@@ -18280,7 +18280,7 @@ window.SONG_DATA.push(
     {
   "title": "創生のアクエリオン",
   "artist": "AKINO",
-  "collection": "【稀羽すう - Suu Usuwa -】#129 新髪型おうち3D見せびらかしながら～～～～ [FybbnmzxTPQ]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=1",
   "source": "suu_usuwa.js"
@@ -18288,7 +18288,7 @@ window.SONG_DATA.push(
     {
   "title": "Beautiful World",
   "artist": "宇多田ヒカル",
-  "collection": "【稀羽すう - Suu Usuwa -】#129 新髪型おうち3D見せびらかしながら～～～～ [FybbnmzxTPQ]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=2",
   "source": "suu_usuwa.js"
@@ -18296,7 +18296,7 @@ window.SONG_DATA.push(
     {
   "title": "愛♡スクリ～ム!",
   "artist": "AiScReam",
-  "collection": "【稀羽すう - Suu Usuwa -】#129 新髪型おうち3D見せびらかしながら～～～～ [FybbnmzxTPQ]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=3",
   "source": "suu_usuwa.js"
@@ -18304,7 +18304,7 @@ window.SONG_DATA.push(
     {
   "title": "サインはB",
   "artist": "B小町",
-  "collection": "【稀羽すう - Suu Usuwa -】#129 新髪型おうち3D見せびらかしながら～～～～ [FybbnmzxTPQ]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=4",
   "source": "suu_usuwa.js"
@@ -18312,7 +18312,7 @@ window.SONG_DATA.push(
     {
   "title": "星間飛行",
   "artist": "ランカ・リー(中島愛)",
-  "collection": "【稀羽すう - Suu Usuwa -】#129 新髪型おうち3D見せびらかしながら～～～～ [FybbnmzxTPQ]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=5",
   "source": "suu_usuwa.js"
@@ -18320,7 +18320,7 @@ window.SONG_DATA.push(
     {
   "title": "シュガーソングとビターステップ",
   "artist": "UNISON SQUARE GARDEN",
-  "collection": "【稀羽すう - Suu Usuwa -】#129 新髪型おうち3D見せびらかしながら～～～～ [FybbnmzxTPQ]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=6",
   "source": "suu_usuwa.js"
@@ -18328,7 +18328,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーダウト",
   "artist": "Official髭男dism",
-  "collection": "【稀羽すう - Suu Usuwa -】#129 新髪型おうち3D見せびらかしながら～～～～ [FybbnmzxTPQ]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=7",
   "source": "suu_usuwa.js"
@@ -18336,7 +18336,7 @@ window.SONG_DATA.push(
     {
   "title": "シャル・ウィ・ダンス？",
   "artist": "ReoNa",
-  "collection": "【稀羽すう - Suu Usuwa -】#129 新髪型おうち3D見せびらかしながら～～～～ [FybbnmzxTPQ]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=8",
   "source": "suu_usuwa.js"
@@ -18344,7 +18344,7 @@ window.SONG_DATA.push(
     {
   "title": "生まれてはじめて",
   "artist": "fromアナと雪の女王",
-  "collection": "【稀羽すう - Suu Usuwa -】#129 新髪型おうち3D見せびらかしながら～～～～ [FybbnmzxTPQ]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=9",
   "source": "suu_usuwa.js"
@@ -18352,7 +18352,7 @@ window.SONG_DATA.push(
     {
   "title": "パート・オブ・ユア・ワールド",
   "artist": "fromリトル・マーメイド",
-  "collection": "【稀羽すう - Suu Usuwa -】#129 新髪型おうち3D見せびらかしながら～～～～ [FybbnmzxTPQ]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=10",
   "source": "suu_usuwa.js"
@@ -18360,7 +18360,7 @@ window.SONG_DATA.push(
     {
   "title": "DRESSING ROOM",
   "artist": "なとり",
-  "collection": "【稀羽すう - Suu Usuwa -】#129 新髪型おうち3D見せびらかしながら～～～～ [FybbnmzxTPQ]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=11",
   "source": "suu_usuwa.js"
@@ -18368,7 +18368,7 @@ window.SONG_DATA.push(
     {
   "title": "クリームソーダとシャンデリア",
   "artist": "mei × Henrii",
-  "collection": "【稀羽すう - Suu Usuwa -】#129 新髪型おうち3D見せびらかしながら～～～～ [FybbnmzxTPQ]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=12",
   "source": "suu_usuwa.js"
@@ -18376,7 +18376,7 @@ window.SONG_DATA.push(
     {
   "title": "きらきら武士",
   "artist": "レキシ",
-  "collection": "【稀羽すう - Suu Usuwa -】#129 新髪型おうち3D見せびらかしながら～～～～ [FybbnmzxTPQ]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/j?p=13",
   "source": "suu_usuwa.js"
@@ -18384,7 +18384,7 @@ window.SONG_DATA.push(
     {
   "title": "クリスマスソング",
   "artist": "back number",
-  "collection": "【稀羽すう 切片 - Suu Usuwa -】2025年12月14日 初見さん怖くないよ～大丈夫よ～ / KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -18392,7 +18392,7 @@ window.SONG_DATA.push(
     {
   "title": "粉雪",
   "artist": "レミオロメン",
-  "collection": "【稀羽すう 切片 - Suu Usuwa -】2025年12月14日 初見さん怖くないよ～大丈夫よ～ / KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -18400,7 +18400,7 @@ window.SONG_DATA.push(
     {
   "title": "空も飛べるはず",
   "artist": "スピッツ",
-  "collection": "【稀羽すう 切片 - Suu Usuwa -】2025年12月14日 初見さん怖くないよ～大丈夫よ～ / KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -18408,7 +18408,7 @@ window.SONG_DATA.push(
     {
   "title": "アイデア",
   "artist": "星野源",
-  "collection": "【稀羽すう 切片 - Suu Usuwa -】2025年12月14日 初見さん怖くないよ～大丈夫よ～ / KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -18416,7 +18416,7 @@ window.SONG_DATA.push(
     {
   "title": "ドラえもん",
   "artist": "星野源",
-  "collection": "【稀羽すう 切片 - Suu Usuwa -】2025年12月14日 初見さん怖くないよ～大丈夫よ～ / KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -18424,7 +18424,7 @@ window.SONG_DATA.push(
     {
   "title": "LA・LA・LA LOVE SONG",
   "artist": "久保田利伸",
-  "collection": "【稀羽すう 切片 - Suu Usuwa -】2025年12月14日 初見さん怖くないよ～大丈夫よ～ / KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -18432,7 +18432,7 @@ window.SONG_DATA.push(
     {
   "title": "火星人",
   "artist": "ヨルシカ",
-  "collection": "【稀羽すう 切片 - Suu Usuwa -】2025年12月14日 初見さん怖くないよ～大丈夫よ～ / KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -18440,7 +18440,7 @@ window.SONG_DATA.push(
     {
   "title": "へび",
   "artist": "ヨルシカ",
-  "collection": "【稀羽すう 切片 - Suu Usuwa -】2025年12月14日 初見さん怖くないよ～大丈夫よ～ / KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -18448,7 +18448,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣",
   "artist": "サカナクション",
-  "collection": "【稀羽すう 切片 - Suu Usuwa -】2025年12月14日 初見さん怖くないよ～大丈夫よ～ / KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -18456,7 +18456,7 @@ window.SONG_DATA.push(
     {
   "title": "いつも何度でも",
   "artist": "木村弓",
-  "collection": "【稀羽すう 切片 - Suu Usuwa -】2025年12月14日 初見さん怖くないよ～大丈夫よ～ / KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -18464,7 +18464,7 @@ window.SONG_DATA.push(
     {
   "title": "いのちの名前",
   "artist": "木村弓",
-  "collection": "【稀羽すう 切片 - Suu Usuwa -】2025年12月14日 初見さん怖くないよ～大丈夫よ～ / KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -18472,7 +18472,7 @@ window.SONG_DATA.push(
     {
   "title": "ガーネット",
   "artist": "奥華子",
-  "collection": "【稀羽すう 切片 - Suu Usuwa -】2025年12月14日 初見さん怖くないよ～大丈夫よ～ / KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=12",
   "source": "suu_usuwa.js"
@@ -18480,7 +18480,7 @@ window.SONG_DATA.push(
     {
   "title": "満ちてゆく",
   "artist": "藤井風",
-  "collection": "【稀羽すう 切片 - Suu Usuwa -】2025年12月14日 初見さん怖くないよ～大丈夫よ～ / KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=13",
   "source": "suu_usuwa.js"
@@ -18488,7 +18488,7 @@ window.SONG_DATA.push(
     {
   "title": "ハロ／ハワユ",
   "artist": "ナノウ",
-  "collection": "【稀羽すう 切片 - Suu Usuwa -】2025年12月14日 初見さん怖くないよ～大丈夫よ～ / KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=14",
   "source": "suu_usuwa.js"
@@ -18496,7 +18496,7 @@ window.SONG_DATA.push(
     {
   "title": "ミス・パラレルワールド",
   "artist": "相対性理論",
-  "collection": "【稀羽すう 切片 - Suu Usuwa -】2025年12月14日 初見さん怖くないよ～大丈夫よ～ / KARAOKE #shorts #vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=15",
   "source": "suu_usuwa.js"
@@ -18504,7 +18504,7 @@ window.SONG_DATA.push(
     {
   "title": "すてきなホリデイ",
   "artist": "竹内まりあ",
-  "collection": "【稀羽すう - Suu Usuwa -】#130 在可爱的家中3D演唱——啊咧，今天是最后一天？あれ、今日までなんだよね。可憐なおうち3Dで歌う",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -18512,7 +18512,7 @@ window.SONG_DATA.push(
     {
   "title": "Together",
   "artist": "あきよしふみえの",
-  "collection": "【稀羽すう - Suu Usuwa -】#130 在可爱的家中3D演唱——啊咧，今天是最后一天？あれ、今日までなんだよね。可憐なおうち3Dで歌う",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -18520,7 +18520,7 @@ window.SONG_DATA.push(
     {
   "title": "Pop Virus",
   "artist": "星野源",
-  "collection": "【稀羽すう - Suu Usuwa -】#130 在可爱的家中3D演唱——啊咧，今天是最后一天？あれ、今日までなんだよね。可憐なおうち3Dで歌う",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -18528,7 +18528,7 @@ window.SONG_DATA.push(
     {
   "title": "NIGHTDANCER",
   "artist": "imase",
-  "collection": "【稀羽すう - Suu Usuwa -】#130 在可爱的家中3D演唱——啊咧，今天是最后一天？あれ、今日までなんだよね。可憐なおうち3Dで歌う",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -18536,7 +18536,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI",
-  "collection": "【稀羽すう - Suu Usuwa -】#130 在可爱的家中3D演唱——啊咧，今天是最后一天？あれ、今日までなんだよね。可憐なおうち3Dで歌う",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -18544,7 +18544,7 @@ window.SONG_DATA.push(
     {
   "title": "フォニイ",
   "artist": "ツキミ",
-  "collection": "【稀羽すう - Suu Usuwa -】#130 在可爱的家中3D演唱——啊咧，今天是最后一天？あれ、今日までなんだよね。可憐なおうち3Dで歌う",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -18552,7 +18552,7 @@ window.SONG_DATA.push(
     {
   "title": "モニタリング",
   "artist": "DECO27",
-  "collection": "【稀羽すう - Suu Usuwa -】#130 在可爱的家中3D演唱——啊咧，今天是最后一天？あれ、今日までなんだよね。可憐なおうち3Dで歌う",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -18560,7 +18560,7 @@ window.SONG_DATA.push(
     {
   "title": "IRIS OUT",
   "artist": "米津玄師",
-  "collection": "【稀羽すう - Suu Usuwa -】#130 在可爱的家中3D演唱——啊咧，今天是最后一天？あれ、今日までなんだよね。可憐なおうち3Dで歌う",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -18568,7 +18568,7 @@ window.SONG_DATA.push(
     {
   "title": "ちゅ、多様性。",
   "artist": "あの",
-  "collection": "【稀羽すう - Suu Usuwa -】#130 在可爱的家中3D演唱——啊咧，今天是最后一天？あれ、今日までなんだよね。可憐なおうち3Dで歌う",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -18576,7 +18576,7 @@ window.SONG_DATA.push(
     {
   "title": "スマイル・エンゲージ",
   "artist": "Beit",
-  "collection": "【稀羽すう - Suu Usuwa -】#130 在可爱的家中3D演唱——啊咧，今天是最后一天？あれ、今日までなんだよね。可憐なおうち3Dで歌う",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -18584,7 +18584,7 @@ window.SONG_DATA.push(
     {
   "title": "STARLIGHT CELEBRATE!",
   "artist": "DRAMATIC STARS",
-  "collection": "【稀羽すう - Suu Usuwa -】#130 在可爱的家中3D演唱——啊咧，今天是最后一天？あれ、今日までなんだよね。可憐なおうち3Dで歌う",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -18592,7 +18592,7 @@ window.SONG_DATA.push(
     {
   "title": "Reason!!",
   "artist": "315 STARS",
-  "collection": "【稀羽すう - Suu Usuwa -】#130 在可爱的家中3D演唱——啊咧，今天是最后一天？あれ、今日までなんだよね。可憐なおうち3Dで歌う",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -18600,7 +18600,7 @@ window.SONG_DATA.push(
     {
   "title": "dear...",
   "artist": "馬場このみ",
-  "collection": "【稀羽すう - Suu Usuwa -】#130 在可爱的家中3D演唱——啊咧，今天是最后一天？あれ、今日までなんだよね。可憐なおうち3Dで歌う",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -18608,7 +18608,7 @@ window.SONG_DATA.push(
     {
   "title": "Ready To Party",
   "artist": "稀羽すう",
-  "collection": "【🦢稀羽すう - Suu Usuwa - 歌切】#129 提前迎来圣诞欧拉！🎄 一足先に、メリークリスマスだオラァ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "suu_usuwa.js"
@@ -18616,7 +18616,7 @@ window.SONG_DATA.push(
     {
   "title": "好き！雪！本気マジック",
   "artist": "Mitchie M",
-  "collection": "【🦢稀羽すう - Suu Usuwa - 歌切】#129 提前迎来圣诞欧拉！🎄 一足先に、メリークリスマスだオラァ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "suu_usuwa.js"
@@ -18624,7 +18624,7 @@ window.SONG_DATA.push(
     {
   "title": "雪の華",
   "artist": "中島美嘉",
-  "collection": "【🦢稀羽すう - Suu Usuwa - 歌切】#129 提前迎来圣诞欧拉！🎄 一足先に、メリークリスマスだオラァ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "suu_usuwa.js"
@@ -18632,7 +18632,7 @@ window.SONG_DATA.push(
     {
   "title": "白い雪のプリンセスは",
   "artist": "のぼる↑",
-  "collection": "【🦢稀羽すう - Suu Usuwa - 歌切】#129 提前迎来圣诞欧拉！🎄 一足先に、メリークリスマスだオラァ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "suu_usuwa.js"
@@ -18640,7 +18640,7 @@ window.SONG_DATA.push(
     {
   "title": "Subtitle",
   "artist": "Official髭男dism",
-  "collection": "【🦢稀羽すう - Suu Usuwa - 歌切】#129 提前迎来圣诞欧拉！🎄 一足先に、メリークリスマスだオラァ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=5",
   "source": "suu_usuwa.js"
@@ -18648,7 +18648,7 @@ window.SONG_DATA.push(
     {
   "title": "雪は何色",
   "artist": "Kotoha",
-  "collection": "【🦢稀羽すう - Suu Usuwa - 歌切】#129 提前迎来圣诞欧拉！🎄 一足先に、メリークリスマスだオラァ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=6",
   "source": "suu_usuwa.js"
@@ -18656,7 +18656,7 @@ window.SONG_DATA.push(
     {
   "title": "クーネル・エンゲイザー",
   "artist": "電ǂ鯨",
-  "collection": "【🦢稀羽すう - Suu Usuwa - 歌切】#129 提前迎来圣诞欧拉！🎄 一足先に、メリークリスマスだオラァ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=7",
   "source": "suu_usuwa.js"
@@ -18664,7 +18664,7 @@ window.SONG_DATA.push(
     {
   "title": "すてきなホリデイ",
   "artist": "竹内まりや",
-  "collection": "【🦢稀羽すう - Suu Usuwa - 歌切】#129 提前迎来圣诞欧拉！🎄 一足先に、メリークリスマスだオラァ",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=8",
   "source": "suu_usuwa.js"
@@ -18672,7 +18672,7 @@ window.SONG_DATA.push(
     {
   "title": "ロマンスの神様",
   "artist": "広瀬香美",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】なに喰ったん.......?/KARAOKE #shorts#vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -18680,7 +18680,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】なに喰ったん.......?/KARAOKE #shorts#vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -18688,7 +18688,7 @@ window.SONG_DATA.push(
     {
   "title": "Burning Friday Night",
   "artist": "Lucky Kilimanjaro",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】なに喰ったん.......?/KARAOKE #shorts#vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -18696,7 +18696,7 @@ window.SONG_DATA.push(
     {
   "title": "HELLO",
   "artist": "Official髭男dism",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】なに喰ったん.......?/KARAOKE #shorts#vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -18704,7 +18704,7 @@ window.SONG_DATA.push(
     {
   "title": "クーネル・エンゲイザー",
   "artist": "電ǂ鯨",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】なに喰ったん.......?/KARAOKE #shorts#vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -18712,7 +18712,7 @@ window.SONG_DATA.push(
     {
   "title": "好き！雪！本気マジック",
   "artist": "Mitchie M",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】なに喰ったん.......?/KARAOKE #shorts#vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -18720,7 +18720,7 @@ window.SONG_DATA.push(
     {
   "title": "雪は何色",
   "artist": "Kotoha",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】なに喰ったん.......?/KARAOKE #shorts#vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -18728,7 +18728,7 @@ window.SONG_DATA.push(
     {
   "title": "春を告げる",
   "artist": "yama",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】なに喰ったん.......?/KARAOKE #shorts#vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -18736,7 +18736,7 @@ window.SONG_DATA.push(
     {
   "title": "愛を伝えたいだとか",
   "artist": "あいみょん",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】なに喰ったん.......?/KARAOKE #shorts#vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -18744,7 +18744,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】なに喰ったん.......?/KARAOKE #shorts#vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -18752,7 +18752,7 @@ window.SONG_DATA.push(
     {
   "title": "IRISOUT",
   "artist": "米津玄師",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】なに喰ったん.......?/KARAOKE #shorts#vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -18760,7 +18760,7 @@ window.SONG_DATA.push(
     {
   "title": "Starry night",
   "artist": "稀羽すう",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】なに喰ったん.......?/KARAOKE #shorts#vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -18768,7 +18768,7 @@ window.SONG_DATA.push(
     {
   "title": "らしく。",
   "artist": "稀羽すう",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】なに喰ったん.......?/KARAOKE #shorts#vtuber",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -18776,7 +18776,7 @@ window.SONG_DATA.push(
     {
   "title": "革命道中",
   "artist": "アイナ・ジ・エンド",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2025-12-31]今年最後。｜ KARAOKE｜Singing Stream [ZzOkBIXSKjA]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -18784,7 +18784,7 @@ window.SONG_DATA.push(
     {
   "title": "IRISOUT",
   "artist": "米津玄師",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2025-12-31]今年最後。｜ KARAOKE｜Singing Stream [ZzOkBIXSKjA]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -18792,7 +18792,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣",
   "artist": "サカナクション",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2025-12-31]今年最後。｜ KARAOKE｜Singing Stream [ZzOkBIXSKjA]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -18800,7 +18800,7 @@ window.SONG_DATA.push(
     {
   "title": "愛♡スクリ～ム!",
   "artist": "AiScReam",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2025-12-31]今年最後。｜ KARAOKE｜Singing Stream [ZzOkBIXSKjA]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -18808,7 +18808,7 @@ window.SONG_DATA.push(
     {
   "title": "桃色片想い",
   "artist": "松浦亜弥",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2025-12-31]今年最後。｜ KARAOKE｜Singing Stream [ZzOkBIXSKjA]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -18816,7 +18816,7 @@ window.SONG_DATA.push(
     {
   "title": "世界はそれを愛と呼ぶんだぜ",
   "artist": "サンボマスター",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2025-12-31]今年最後。｜ KARAOKE｜Singing Stream [ZzOkBIXSKjA]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -18824,7 +18824,7 @@ window.SONG_DATA.push(
     {
   "title": "津軽海峡冬景色",
   "artist": "石川さゆり",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2025-12-31]今年最後。｜ KARAOKE｜Singing Stream [ZzOkBIXSKjA]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -18832,7 +18832,7 @@ window.SONG_DATA.push(
     {
   "title": "神のまにまに",
   "artist": "れるりり",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2025-12-31]今年最後。｜ KARAOKE｜Singing Stream [ZzOkBIXSKjA]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -18840,7 +18840,7 @@ window.SONG_DATA.push(
     {
   "title": "ウミユリ海底譚",
   "artist": "n-buna",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2025-12-31]今年最後。｜ KARAOKE｜Singing Stream [ZzOkBIXSKjA]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -18848,7 +18848,7 @@ window.SONG_DATA.push(
     {
   "title": "都落ち",
   "artist": "ヨルシカ",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2025-12-31]今年最後。｜ KARAOKE｜Singing Stream [ZzOkBIXSKjA]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -18856,7 +18856,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーチラス",
   "artist": "ヨルシカ",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2025-12-31]今年最後。｜ KARAOKE｜Singing Stream [ZzOkBIXSKjA]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -18864,7 +18864,7 @@ window.SONG_DATA.push(
     {
   "title": "プロポーズ",
   "artist": "なとり",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2025-12-31]今年最後。｜ KARAOKE｜Singing Stream [ZzOkBIXSKjA]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=12",
   "source": "suu_usuwa.js"
@@ -18872,7 +18872,7 @@ window.SONG_DATA.push(
     {
   "title": "思い出とペトリコール",
   "artist": "稀羽すう",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2025-12-31]今年最後。｜ KARAOKE｜Singing Stream [ZzOkBIXSKjA]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=13",
   "source": "suu_usuwa.js"
@@ -18880,7 +18880,7 @@ window.SONG_DATA.push(
     {
   "title": "トロイメライ",
   "artist": "- 稀羽すう",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2025-12-31]今年最後。｜ KARAOKE｜Singing Stream [ZzOkBIXSKjA]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=14",
   "source": "suu_usuwa.js"
@@ -18888,7 +18888,7 @@ window.SONG_DATA.push(
     {
   "title": "Starry night",
   "artist": "稀羽すう",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2025-12-31]今年最後。｜ KARAOKE｜Singing Stream [ZzOkBIXSKjA]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=15",
   "source": "suu_usuwa.js"
@@ -18896,7 +18896,7 @@ window.SONG_DATA.push(
     {
   "title": "さよーならまたいつか！",
   "artist": "米津玄師",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2025-12-31]今年最後。｜ KARAOKE｜Singing Stream [ZzOkBIXSKjA]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=16",
   "source": "suu_usuwa.js"
@@ -18904,7 +18904,7 @@ window.SONG_DATA.push(
     {
   "title": "きらきら武士",
   "artist": "レキシ",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2025-12-31]今年最後。｜ KARAOKE｜Singing Stream [ZzOkBIXSKjA]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=17",
   "source": "suu_usuwa.js"
@@ -18912,7 +18912,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍",
   "artist": "n-buna",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】新 年 初 歌 あけおめ～～～～～～[2026-01-04]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -18920,7 +18920,7 @@ window.SONG_DATA.push(
     {
   "title": "いろは唄 ｰ Piano Ver. ｰ",
   "artist": "銀サク",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】新 年 初 歌 あけおめ～～～～～～[2026-01-04]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -18928,7 +18928,7 @@ window.SONG_DATA.push(
     {
   "title": "千本桜",
   "artist": "黒うさP",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】新 年 初 歌 あけおめ～～～～～～[2026-01-04]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -18936,7 +18936,7 @@ window.SONG_DATA.push(
     {
   "title": "神のまにまに",
   "artist": "れるりり",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】新 年 初 歌 あけおめ～～～～～～[2026-01-04]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -18944,7 +18944,7 @@ window.SONG_DATA.push(
     {
   "title": "花丸◎日和！",
   "artist": "大和守安定(市来光弘),加州清光(増田俊樹)",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】新 年 初 歌 あけおめ～～～～～～[2026-01-04]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -18952,7 +18952,7 @@ window.SONG_DATA.push(
     {
   "title": "春擬き",
   "artist": "やなぎなぎ",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】新 年 初 歌 あけおめ～～～～～～[2026-01-04]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -18960,7 +18960,7 @@ window.SONG_DATA.push(
     {
   "title": "星間飛行",
   "artist": "ランカ・リー(中島愛)",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】新 年 初 歌 あけおめ～～～～～～[2026-01-04]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -18968,7 +18968,7 @@ window.SONG_DATA.push(
     {
   "title": "まつり",
   "artist": "藤井風",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】新 年 初 歌 あけおめ～～～～～～[2026-01-04]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -18976,7 +18976,7 @@ window.SONG_DATA.push(
     {
   "title": "長く短い祭",
   "artist": "椎名林檎",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】新 年 初 歌 あけおめ～～～～～～[2026-01-04]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -18984,7 +18984,7 @@ window.SONG_DATA.push(
     {
   "title": "琥珀色の街、上海蟹の朝",
   "artist": "くるり",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】新 年 初 歌 あけおめ～～～～～～[2026-01-04]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -18992,7 +18992,7 @@ window.SONG_DATA.push(
     {
   "title": "IRISOUT",
   "artist": "米津玄師",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】新 年 初 歌 あけおめ～～～～～～[2026-01-04]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -19000,7 +19000,7 @@ window.SONG_DATA.push(
     {
   "title": "白金ディスコ",
   "artist": "阿良々木月火(井口裕香)",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】新 年 初 歌 あけおめ～～～～～～[2026-01-04]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -19008,7 +19008,7 @@ window.SONG_DATA.push(
     {
   "title": "花ハ踊レヤいろはにほ",
   "artist": "チーム\"ハナヤマタ\"",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】新 年 初 歌 あけおめ～～～～～～[2026-01-04]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -19016,7 +19016,7 @@ window.SONG_DATA.push(
     {
   "title": "革命道中",
   "artist": "アイナ・ジ・エンド",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】新 年 初 歌 あけおめ～～～～～～[2026-01-04]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -19024,7 +19024,7 @@ window.SONG_DATA.push(
     {
   "title": "回る空うさぎ",
   "artist": "Orangestar",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】新 年 初 歌 あけおめ～～～～～～[2026-01-04]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=15",
   "source": "suu_usuwa.js"
@@ -19032,7 +19032,7 @@ window.SONG_DATA.push(
     {
   "title": "NIGHTDANCER",
   "artist": "imase",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】#131 [2026-01-07] 水曜20時は定期歌枠 まだまだお正月気分でいさせてよ [OY1TjPOLu4I]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -19040,7 +19040,7 @@ window.SONG_DATA.push(
     {
   "title": "SAKURA",
   "artist": "いきものがかり",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】#131 [2026-01-07] 水曜20時は定期歌枠 まだまだお正月気分でいさせてよ [OY1TjPOLu4I]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -19048,7 +19048,7 @@ window.SONG_DATA.push(
     {
   "title": "seaglass",
   "artist": "稀羽すう",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】#131 [2026-01-07] 水曜20時は定期歌枠 まだまだお正月気分でいさせてよ [OY1TjPOLu4I]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -19056,7 +19056,7 @@ window.SONG_DATA.push(
     {
   "title": "カタオモイ",
   "artist": "Aimer",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】#131 [2026-01-07] 水曜20時は定期歌枠 まだまだお正月気分でいさせてよ [OY1TjPOLu4I]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -19064,7 +19064,7 @@ window.SONG_DATA.push(
     {
   "title": "ただ君に晴れ",
   "artist": "ヨルシカ",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】#131 [2026-01-07] 水曜20時は定期歌枠 まだまだお正月気分でいさせてよ [OY1TjPOLu4I]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -19072,7 +19072,7 @@ window.SONG_DATA.push(
     {
   "title": "火星人",
   "artist": "ヨルシカ",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】#131 [2026-01-07] 水曜20時は定期歌枠 まだまだお正月気分でいさせてよ [OY1TjPOLu4I]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -19080,7 +19080,7 @@ window.SONG_DATA.push(
     {
   "title": "脳裏上のクラッカー",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】#131 [2026-01-07] 水曜20時は定期歌枠 まだまだお正月気分でいさせてよ [OY1TjPOLu4I]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -19088,7 +19088,7 @@ window.SONG_DATA.push(
     {
   "title": "One more time,One more chance",
   "artist": "山崎まさよし",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】#131 [2026-01-07] 水曜20時は定期歌枠 まだまだお正月気分でいさせてよ [OY1TjPOLu4I]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -19096,7 +19096,7 @@ window.SONG_DATA.push(
     {
   "title": "真夜中のドア〜stay with me",
   "artist": "松原 みき",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】#131 [2026-01-07] 水曜20時は定期歌枠 まだまだお正月気分でいさせてよ [OY1TjPOLu4I]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -19104,7 +19104,7 @@ window.SONG_DATA.push(
     {
   "title": "ダンスホール",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】#131 [2026-01-07] 水曜20時は定期歌枠 まだまだお正月気分でいさせてよ [OY1TjPOLu4I]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -19112,7 +19112,7 @@ window.SONG_DATA.push(
     {
   "title": "napori",
   "artist": "Vaundy",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】#131 [2026-01-07] 水曜20時は定期歌枠 まだまだお正月気分でいさせてよ [OY1TjPOLu4I]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -19120,7 +19120,7 @@ window.SONG_DATA.push(
     {
   "title": "ダーリン",
   "artist": "須田景凪",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】#131 [2026-01-07] 水曜20時は定期歌枠 まだまだお正月気分でいさせてよ [OY1TjPOLu4I]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -19128,7 +19128,7 @@ window.SONG_DATA.push(
     {
   "title": "アカシア",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】#131 [2026-01-07] 水曜20時は定期歌枠 まだまだお正月気分でいさせてよ [OY1TjPOLu4I]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -19136,7 +19136,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄",
   "artist": "Vaundy",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】#131 [2026-01-07] 水曜20時は定期歌枠 まだまだお正月気分でいさせてよ [OY1TjPOLu4I]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=14",
   "source": "suu_usuwa.js"
@@ -19144,7 +19144,7 @@ window.SONG_DATA.push(
     {
   "title": "勇気100％",
   "artist": "光GENJI",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】#131 [2026-01-07] 水曜20時は定期歌枠 まだまだお正月気分でいさせてよ [OY1TjPOLu4I]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=15",
   "source": "suu_usuwa.js"
@@ -19152,7 +19152,7 @@ window.SONG_DATA.push(
     {
   "title": "満ちてゆく",
   "artist": "藤井風",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-10]【 #歌枠 】 黄昏時にあらわれた！[-BNCgSOAfNQ]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -19160,7 +19160,7 @@ window.SONG_DATA.push(
     {
   "title": "斜陽",
   "artist": "ヨルシカ",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-10]【 #歌枠 】 黄昏時にあらわれた！[-BNCgSOAfNQ]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -19168,7 +19168,7 @@ window.SONG_DATA.push(
     {
   "title": "Pop Virus",
   "artist": "星野源",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-10]【 #歌枠 】 黄昏時にあらわれた！[-BNCgSOAfNQ]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -19176,7 +19176,7 @@ window.SONG_DATA.push(
     {
   "title": "接吻",
   "artist": "Original Love",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-10]【 #歌枠 】 黄昏時にあらわれた！[-BNCgSOAfNQ]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -19184,7 +19184,7 @@ window.SONG_DATA.push(
     {
   "title": "LA・LA・LA LOVE SONG",
   "artist": "久保田利伸",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-10]【 #歌枠 】 黄昏時にあらわれた！[-BNCgSOAfNQ]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -19192,7 +19192,7 @@ window.SONG_DATA.push(
     {
   "title": "なんでもないや",
   "artist": "RADWIMPS",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-10]【 #歌枠 】 黄昏時にあらわれた！[-BNCgSOAfNQ]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -19200,7 +19200,7 @@ window.SONG_DATA.push(
     {
   "title": "ガーネット",
   "artist": "奥華子",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-10]【 #歌枠 】 黄昏時にあらわれた！[-BNCgSOAfNQ]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -19208,7 +19208,7 @@ window.SONG_DATA.push(
     {
   "title": "変わらないもの",
   "artist": "奥華子",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-10]【 #歌枠 】 黄昏時にあらわれた！[-BNCgSOAfNQ]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -19216,7 +19216,7 @@ window.SONG_DATA.push(
     {
   "title": "さよならの夏 ～コクリコ坂から～",
   "artist": "手嶌葵",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-10]【 #歌枠 】 黄昏時にあらわれた！[-BNCgSOAfNQ]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -19224,7 +19224,7 @@ window.SONG_DATA.push(
     {
   "title": "アポリア",
   "artist": "ヨルシカ",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-10]【 #歌枠 】 黄昏時にあらわれた！[-BNCgSOAfNQ]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -19232,7 +19232,7 @@ window.SONG_DATA.push(
     {
   "title": "星座になれたら",
   "artist": "結束バンド",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-10]【 #歌枠 】 黄昏時にあらわれた！[-BNCgSOAfNQ]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -19240,7 +19240,7 @@ window.SONG_DATA.push(
     {
   "title": "ベテルギウス",
   "artist": "優里",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-10]【 #歌枠 】 黄昏時にあらわれた！[-BNCgSOAfNQ]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -19248,7 +19248,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌",
   "artist": "tuki.",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-10]【 #歌枠 】 黄昏時にあらわれた！[-BNCgSOAfNQ]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=13",
   "source": "suu_usuwa.js"
@@ -19256,7 +19256,7 @@ window.SONG_DATA.push(
     {
   "title": "水流のロック",
   "artist": "日食なつこ",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-14]#132 あんまんのうまさに気づく冬[qRbyPXfRyBc]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "suu_usuwa.js"
@@ -19264,7 +19264,7 @@ window.SONG_DATA.push(
     {
   "title": "真生活",
   "artist": "案山子",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-14]#132 あんまんのうまさに気づく冬[qRbyPXfRyBc]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "suu_usuwa.js"
@@ -19272,7 +19272,7 @@ window.SONG_DATA.push(
     {
   "title": "怪盗・窪園チヨコは絶対ミスらない",
   "artist": "椎名もた",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-14]#132 あんまんのうまさに気づく冬[qRbyPXfRyBc]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "suu_usuwa.js"
@@ -19280,7 +19280,7 @@ window.SONG_DATA.push(
     {
   "title": "Ready To Party",
   "artist": "稀羽すう",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-14]#132 あんまんのうまさに気づく冬[qRbyPXfRyBc]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "suu_usuwa.js"
@@ -19288,7 +19288,7 @@ window.SONG_DATA.push(
     {
   "title": "DRESSING ROOM",
   "artist": "なとり",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-14]#132 あんまんのうまさに気づく冬[qRbyPXfRyBc]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "suu_usuwa.js"
@@ -19296,7 +19296,7 @@ window.SONG_DATA.push(
     {
   "title": "クリームソーダとシャンデリア",
   "artist": "mei × Henrii",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-14]#132 あんまんのうまさに気づく冬[qRbyPXfRyBc]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "suu_usuwa.js"
@@ -19304,7 +19304,7 @@ window.SONG_DATA.push(
     {
   "title": "Rumor",
   "artist": "Police Piccadilly",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-14]#132 あんまんのうまさに気づく冬[qRbyPXfRyBc]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "suu_usuwa.js"
@@ -19312,7 +19312,7 @@ window.SONG_DATA.push(
     {
   "title": "夜撫でるメノウ",
   "artist": "Ayase",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-14]#132 あんまんのうまさに気づく冬[qRbyPXfRyBc]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "suu_usuwa.js"
@@ -19320,7 +19320,7 @@ window.SONG_DATA.push(
     {
   "title": "踊り子",
   "artist": "Vaundy",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-14]#132 あんまんのうまさに気づく冬[qRbyPXfRyBc]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "suu_usuwa.js"
@@ -19328,7 +19328,7 @@ window.SONG_DATA.push(
     {
   "title": "若者のすべて",
   "artist": "フジファブリック",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-14]#132 あんまんのうまさに気づく冬[qRbyPXfRyBc]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "suu_usuwa.js"
@@ -19336,7 +19336,7 @@ window.SONG_DATA.push(
     {
   "title": "思い出とペトリコール",
   "artist": "稀羽すう",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-14]#132 あんまんのうまさに気づく冬[qRbyPXfRyBc]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "suu_usuwa.js"
@@ -19344,7 +19344,7 @@ window.SONG_DATA.push(
     {
   "title": "月のワルツ",
   "artist": "諫山実生",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-14]#132 あんまんのうまさに気づく冬[qRbyPXfRyBc]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=12",
   "source": "suu_usuwa.js"
@@ -19352,7 +19352,7 @@ window.SONG_DATA.push(
     {
   "title": "プロポーズ",
   "artist": "なとり",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-14]#132 あんまんのうまさに気づく冬[qRbyPXfRyBc]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=13",
   "source": "suu_usuwa.js"
@@ -19360,7 +19360,7 @@ window.SONG_DATA.push(
     {
   "title": "水平線",
   "artist": "back number",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-14]#132 あんまんのうまさに気づく冬[qRbyPXfRyBc]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=14",
   "source": "suu_usuwa.js"
@@ -19368,7 +19368,7 @@ window.SONG_DATA.push(
     {
   "title": "Beautiful World",
   "artist": "宇多田ヒカル",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-14]#132 あんまんのうまさに気づく冬[qRbyPXfRyBc]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/e?p=15",
   "source": "suu_usuwa.js"
@@ -19376,7 +19376,7 @@ window.SONG_DATA.push(
     {
   "title": "だから僕は音楽を辞めた",
   "artist": "ヨルシカ",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-17] 昼下がりに１曲どうぞ！ [TKqCdlLADRw]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=1",
   "source": "suu_usuwa.js"
@@ -19384,7 +19384,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-17] 昼下がりに１曲どうぞ！ [TKqCdlLADRw]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=2",
   "source": "suu_usuwa.js"
@@ -19392,7 +19392,7 @@ window.SONG_DATA.push(
     {
   "title": "ハロ／ハワユ",
   "artist": "ナノウ",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-17] 昼下がりに１曲どうぞ！ [TKqCdlLADRw]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=3",
   "source": "suu_usuwa.js"
@@ -19400,7 +19400,7 @@ window.SONG_DATA.push(
     {
   "title": "アイロニ",
   "artist": "すこっぷ",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-17] 昼下がりに１曲どうぞ！ [TKqCdlLADRw]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=4",
   "source": "suu_usuwa.js"
@@ -19408,7 +19408,7 @@ window.SONG_DATA.push(
     {
   "title": "サリシノハラ",
   "artist": "みきとP",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-17] 昼下がりに１曲どうぞ！ [TKqCdlLADRw]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=5",
   "source": "suu_usuwa.js"
@@ -19416,7 +19416,7 @@ window.SONG_DATA.push(
     {
   "title": "ヨンジュウナナ",
   "artist": "みきとP",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-17] 昼下がりに１曲どうぞ！ [TKqCdlLADRw]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=6",
   "source": "suu_usuwa.js"
@@ -19424,7 +19424,7 @@ window.SONG_DATA.push(
     {
   "title": "サインはB",
   "artist": "B小町",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-17] 昼下がりに１曲どうぞ！ [TKqCdlLADRw]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=7",
   "source": "suu_usuwa.js"
@@ -19432,7 +19432,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒアルロンリーガール",
   "artist": "ZOC",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-17] 昼下がりに１曲どうぞ！ [TKqCdlLADRw]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=8",
   "source": "suu_usuwa.js"
@@ -19440,7 +19440,7 @@ window.SONG_DATA.push(
     {
   "title": "モニタリング",
   "artist": "DECO27",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-17] 昼下がりに１曲どうぞ！ [TKqCdlLADRw]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=9",
   "source": "suu_usuwa.js"
@@ -19448,7 +19448,7 @@ window.SONG_DATA.push(
     {
   "title": "シャルル",
   "artist": "バルーン",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-17] 昼下がりに１曲どうぞ！ [TKqCdlLADRw]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=10",
   "source": "suu_usuwa.js"
@@ -19456,7 +19456,7 @@ window.SONG_DATA.push(
     {
   "title": "シンデレラボーイ",
   "artist": "Saucy Dog",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-17] 昼下がりに１曲どうぞ！ [TKqCdlLADRw]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=11",
   "source": "suu_usuwa.js"
@@ -19464,7 +19464,7 @@ window.SONG_DATA.push(
     {
   "title": "ヴィーナスとジーザス",
   "artist": "やくしまるえつこ",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-17] 昼下がりに１曲どうぞ！ [TKqCdlLADRw]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=12",
   "source": "suu_usuwa.js"
@@ -19472,7 +19472,7 @@ window.SONG_DATA.push(
     {
   "title": "Catch You Catch Me",
   "artist": "グミ",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-17] 昼下がりに１曲どうぞ！ [TKqCdlLADRw]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=13",
   "source": "suu_usuwa.js"
@@ -19480,7 +19480,7 @@ window.SONG_DATA.push(
     {
   "title": "プレパレード",
   "artist": "釘宮理恵,堀江由衣,喜多村英梨",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-17] 昼下がりに１曲どうぞ！ [TKqCdlLADRw]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=14",
   "source": "suu_usuwa.js"
@@ -19488,7 +19488,7 @@ window.SONG_DATA.push(
     {
   "title": "オレンジ",
   "artist": "釘宮理恵,堀江由衣,喜多村英梨",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-17] 昼下がりに１曲どうぞ！ [TKqCdlLADRw]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=15",
   "source": "suu_usuwa.js"
@@ -19496,7 +19496,7 @@ window.SONG_DATA.push(
     {
   "title": "あいつこそがテニスの王子様",
   "artist": "ミュージカル テニスの王子様",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-17] 昼下がりに１曲どうぞ！ [TKqCdlLADRw]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=16",
   "source": "suu_usuwa.js"
@@ -19504,7 +19504,7 @@ window.SONG_DATA.push(
     {
   "title": "ニンジーン Loves you yeah!",
   "artist": "ランカ・リー＝中島愛",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-17] 昼下がりに１曲どうぞ！ [TKqCdlLADRw]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=17",
   "source": "suu_usuwa.js"
@@ -19512,7 +19512,7 @@ window.SONG_DATA.push(
     {
   "title": "ねこ日記",
   "artist": "ランカ・リー＝中島愛",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-17] 昼下がりに１曲どうぞ！ [TKqCdlLADRw]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=18",
   "source": "suu_usuwa.js"
@@ -19520,7 +19520,7 @@ window.SONG_DATA.push(
     {
   "title": "蒼のエーテル",
   "artist": "ランカ・リー＝中島愛",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-17] 昼下がりに１曲どうぞ！ [TKqCdlLADRw]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=19",
   "source": "suu_usuwa.js"
@@ -19528,7 +19528,7 @@ window.SONG_DATA.push(
     {
   "title": "MOON NIGHTのせいにして",
   "artist": "DRAMATIC STARS",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-17] 昼下がりに１曲どうぞ！ [TKqCdlLADRw]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/t?p=20",
   "source": "suu_usuwa.js"
@@ -19536,7 +19536,7 @@ window.SONG_DATA.push(
     {
   "title": "革命道中",
   "artist": "アイナ・ジ・エンド （Acoustic ver.）",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-21]最強寒波に負けないでーーーーーっ！别被最强寒潮打败！ [vak2WG1TomU]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=1",
   "source": "suu_usuwa.js"
@@ -19544,7 +19544,7 @@ window.SONG_DATA.push(
     {
   "title": "HELLO",
   "artist": "Official髭男dism",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-21]最強寒波に負けないでーーーーーっ！别被最强寒潮打败！ [vak2WG1TomU]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=2",
   "source": "suu_usuwa.js"
@@ -19552,7 +19552,7 @@ window.SONG_DATA.push(
     {
   "title": "ウミユリ海底譚",
   "artist": "n-buna (Piano version)",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-21]最強寒波に負けないでーーーーーっ！别被最强寒潮打败！ [vak2WG1TomU]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=3",
   "source": "suu_usuwa.js"
@@ -19560,7 +19560,7 @@ window.SONG_DATA.push(
     {
   "title": "ぼくらのレットイットビー",
   "artist": "はりーP",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-21]最強寒波に負けないでーーーーーっ！别被最强寒潮打败！ [vak2WG1TomU]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=4",
   "source": "suu_usuwa.js"
@@ -19568,7 +19568,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-21]最強寒波に負けないでーーーーーっ！别被最强寒潮打败！ [vak2WG1TomU]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=5",
   "source": "suu_usuwa.js"
@@ -19576,7 +19576,7 @@ window.SONG_DATA.push(
     {
   "title": "不可幸力",
   "artist": "Vaundy",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-21]最強寒波に負けないでーーーーーっ！别被最强寒潮打败！ [vak2WG1TomU]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=6",
   "source": "suu_usuwa.js"
@@ -19584,7 +19584,7 @@ window.SONG_DATA.push(
     {
   "title": "ナラタージュ",
   "artist": "稀羽すう",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-21]最強寒波に負けないでーーーーーっ！别被最强寒潮打败！ [vak2WG1TomU]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=7",
   "source": "suu_usuwa.js"
@@ -19592,7 +19592,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒステリックナイトガール",
   "artist": "PSYQUI",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-21]最強寒波に負けないでーーーーーっ！别被最强寒潮打败！ [vak2WG1TomU]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=8",
   "source": "suu_usuwa.js"
@@ -19600,7 +19600,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-21]最強寒波に負けないでーーーーーっ！别被最强寒潮打败！ [vak2WG1TomU]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=9",
   "source": "suu_usuwa.js"
@@ -19608,7 +19608,7 @@ window.SONG_DATA.push(
     {
   "title": "うそつき",
   "artist": "めざめP",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-21]最強寒波に負けないでーーーーーっ！别被最强寒潮打败！ [vak2WG1TomU]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=10",
   "source": "suu_usuwa.js"
@@ -19616,7 +19616,7 @@ window.SONG_DATA.push(
     {
   "title": "水流のロック",
   "artist": "日食なつこ",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-21]最強寒波に負けないでーーーーーっ！别被最强寒潮打败！ [vak2WG1TomU]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=11",
   "source": "suu_usuwa.js"
@@ -19624,7 +19624,7 @@ window.SONG_DATA.push(
     {
   "title": "きらり",
   "artist": "藤井 風",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-21]最強寒波に負けないでーーーーーっ！别被最强寒潮打败！ [vak2WG1TomU]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=12",
   "source": "suu_usuwa.js"
@@ -19632,7 +19632,7 @@ window.SONG_DATA.push(
     {
   "title": "クリームソーダとシャンデリア",
   "artist": "mei × Henrii",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-21]最強寒波に負けないでーーーーーっ！别被最强寒潮打败！ [vak2WG1TomU]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=13",
   "source": "suu_usuwa.js"
@@ -19640,7 +19640,7 @@ window.SONG_DATA.push(
     {
   "title": "Starry night",
   "artist": "稀羽すう",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-21]最強寒波に負けないでーーーーーっ！别被最强寒潮打败！ [vak2WG1TomU]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=14",
   "source": "suu_usuwa.js"
@@ -19648,7 +19648,7 @@ window.SONG_DATA.push(
     {
   "title": "Never More",
   "artist": "平田志穂子",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-21]最強寒波に負けないでーーーーーっ！别被最强寒潮打败！ [vak2WG1TomU]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=15",
   "source": "suu_usuwa.js"
@@ -19656,7 +19656,7 @@ window.SONG_DATA.push(
     {
   "title": "東京フラッシュ",
   "artist": "Vaundy",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-21]最強寒波に負けないでーーーーーっ！别被最强寒潮打败！ [vak2WG1TomU]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=16",
   "source": "suu_usuwa.js"
@@ -19664,7 +19664,7 @@ window.SONG_DATA.push(
     {
   "title": "夜撫でるメノウ",
   "artist": "Ayase",
-  "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-21]最強寒波に負けないでーーーーーっ！别被最强寒潮打败！ [vak2WG1TomU]",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/b?p=17",
   "source": "suu_usuwa.js"
@@ -19672,7 +19672,7 @@ window.SONG_DATA.push(
     {
   "title": "calling",
   "artist": "Team halcyon",
-  "collection": "[2026-01-28]届けます。#134 水曜日20時は定期歌枠 [Ki_lumbpXRU]【🦢稀羽すう 歌切】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -19680,7 +19680,7 @@ window.SONG_DATA.push(
     {
   "title": "思い出とペトリコール",
   "artist": "稀羽すう",
-  "collection": "[2026-01-28]届けます。#134 水曜日20時は定期歌枠 [Ki_lumbpXRU]【🦢稀羽すう 歌切】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -19688,7 +19688,7 @@ window.SONG_DATA.push(
     {
   "title": "ワールドイズマイン",
   "artist": "ryo",
-  "collection": "[2026-01-28]届けます。#134 水曜日20時は定期歌枠 [Ki_lumbpXRU]【🦢稀羽すう 歌切】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -19696,7 +19696,7 @@ window.SONG_DATA.push(
     {
   "title": "弱虫モンブラン (reloaded)",
   "artist": "DECO×27",
-  "collection": "[2026-01-28]届けます。#134 水曜日20時は定期歌枠 [Ki_lumbpXRU]【🦢稀羽すう 歌切】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -19704,7 +19704,7 @@ window.SONG_DATA.push(
     {
   "title": "melt bitter",
   "artist": "さとうもか",
-  "collection": "[2026-01-28]届けます。#134 水曜日20時は定期歌枠 [Ki_lumbpXRU]【🦢稀羽すう 歌切】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -19712,7 +19712,7 @@ window.SONG_DATA.push(
     {
   "title": "115万キロのフィルム",
   "artist": "Official髭男dism",
-  "collection": "[2026-01-28]届けます。#134 水曜日20時は定期歌枠 [Ki_lumbpXRU]【🦢稀羽すう 歌切】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -19720,7 +19720,7 @@ window.SONG_DATA.push(
     {
   "title": "ただ君に晴れ",
   "artist": "ヨルシカ",
-  "collection": "[2026-01-28]届けます。#134 水曜日20時は定期歌枠 [Ki_lumbpXRU]【🦢稀羽すう 歌切】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -19728,7 +19728,7 @@ window.SONG_DATA.push(
     {
   "title": "琥珀色の街、上海蟹の朝",
   "artist": "くるり",
-  "collection": "[2026-01-28]届けます。#134 水曜日20時は定期歌枠 [Ki_lumbpXRU]【🦢稀羽すう 歌切】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -19736,7 +19736,7 @@ window.SONG_DATA.push(
     {
   "title": "異端なスター",
   "artist": "Official髭男dism",
-  "collection": "[2026-01-28]届けます。#134 水曜日20時は定期歌枠 [Ki_lumbpXRU]【🦢稀羽すう 歌切】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -19744,7 +19744,7 @@ window.SONG_DATA.push(
     {
   "title": "幾億光年",
   "artist": "Omoinotake",
-  "collection": "[2026-01-28]届けます。#134 水曜日20時は定期歌枠 [Ki_lumbpXRU]【🦢稀羽すう 歌切】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -19752,7 +19752,7 @@ window.SONG_DATA.push(
     {
   "title": "丸の内サディスティック",
   "artist": "椎名林檎",
-  "collection": "[2026-01-28]届けます。#134 水曜日20時は定期歌枠 [Ki_lumbpXRU]【🦢稀羽すう 歌切】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -19760,7 +19760,7 @@ window.SONG_DATA.push(
     {
   "title": "燈",
   "artist": "崎山蒼志",
-  "collection": "[2026-01-28]届けます。#134 水曜日20時は定期歌枠 [Ki_lumbpXRU]【🦢稀羽すう 歌切】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=12",
   "source": "suu_usuwa.js"
@@ -19768,7 +19768,7 @@ window.SONG_DATA.push(
     {
   "title": "Plazma",
   "artist": "米津玄師",
-  "collection": "[2026-01-30]急に！突発的な！アーカイブ残るか謎なやつです！突然！突发性！存档能否保留仍是谜团的存在！[MSQe1WkSJDw]【🦢稀羽すう歌切】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=1",
   "source": "suu_usuwa.js"
@@ -19776,7 +19776,7 @@ window.SONG_DATA.push(
     {
   "title": "水流のロック",
   "artist": "日食なつこ",
-  "collection": "[2026-01-30]急に！突発的な！アーカイブ残るか謎なやつです！突然！突发性！存档能否保留仍是谜团的存在！[MSQe1WkSJDw]【🦢稀羽すう歌切】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=2",
   "source": "suu_usuwa.js"
@@ -19784,7 +19784,7 @@ window.SONG_DATA.push(
     {
   "title": "革命道中",
   "artist": "アイナ・ジ・エンド",
-  "collection": "[2026-01-30]急に！突発的な！アーカイブ残るか謎なやつです！突然！突发性！存档能否保留仍是谜团的存在！[MSQe1WkSJDw]【🦢稀羽すう歌切】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=3",
   "source": "suu_usuwa.js"
@@ -19792,7 +19792,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒",
   "artist": "ヨルシカ",
-  "collection": "[2026-01-30]急に！突発的な！アーカイブ残るか謎なやつです！突然！突发性！存档能否保留仍是谜团的存在！[MSQe1WkSJDw]【🦢稀羽すう歌切】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=4",
   "source": "suu_usuwa.js"
@@ -19800,7 +19800,7 @@ window.SONG_DATA.push(
     {
   "title": "さようなら、花泥棒さん",
   "artist": "メル",
-  "collection": "[2026-01-30]急に！突発的な！アーカイブ残るか謎なやつです！突然！突发性！存档能否保留仍是谜团的存在！[MSQe1WkSJDw]【🦢稀羽すう歌切】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=5",
   "source": "suu_usuwa.js"
@@ -19808,7 +19808,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒステリックナイトガール",
   "artist": "PSYQUI",
-  "collection": "[2026-01-30]急に！突発的な！アーカイブ残るか謎なやつです！突然！突发性！存档能否保留仍是谜团的存在！[MSQe1WkSJDw]【🦢稀羽すう歌切】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=6",
   "source": "suu_usuwa.js"
@@ -19816,7 +19816,7 @@ window.SONG_DATA.push(
     {
   "title": "ハレンチ",
   "artist": "ちゃんみな",
-  "collection": "[2026-01-30]急に！突発的な！アーカイブ残るか謎なやつです！突然！突发性！存档能否保留仍是谜团的存在！[MSQe1WkSJDw]【🦢稀羽すう歌切】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=7",
   "source": "suu_usuwa.js"
@@ -19824,7 +19824,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI",
-  "collection": "[2026-01-30]急に！突発的な！アーカイブ残るか謎なやつです！突然！突发性！存档能否保留仍是谜团的存在！[MSQe1WkSJDw]【🦢稀羽すう歌切】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=8",
   "source": "suu_usuwa.js"
@@ -19832,7 +19832,7 @@ window.SONG_DATA.push(
     {
   "title": "群青",
   "artist": "YOASOBI",
-  "collection": "[2026-01-30]急に！突発的な！アーカイブ残るか謎なやつです！突然！突发性！存档能否保留仍是谜团的存在！[MSQe1WkSJDw]【🦢稀羽すう歌切】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=9",
   "source": "suu_usuwa.js"
@@ -19840,7 +19840,7 @@ window.SONG_DATA.push(
     {
   "title": "カタオモイ",
   "artist": "Aimer",
-  "collection": "[2026-01-30]急に！突発的な！アーカイブ残るか謎なやつです！突然！突发性！存档能否保留仍是谜团的存在！[MSQe1WkSJDw]【🦢稀羽すう歌切】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=10",
   "source": "suu_usuwa.js"
@@ -19848,7 +19848,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れてください",
   "artist": "ヨルシカ",
-  "collection": "[2026-01-30]急に！突発的な！アーカイブ残るか謎なやつです！突然！突发性！存档能否保留仍是谜团的存在！[MSQe1WkSJDw]【🦢稀羽すう歌切】",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
   "source": "suu_usuwa.js"
@@ -19856,7 +19856,7 @@ window.SONG_DATA.push(
     {
   "title": "Ready To Party",
   "artist": "稀羽すう",
-  "collection": "刚才眼神对上了！这样你和我就有缘了！[2026-02-04][x1CZfV72Q0I]【🦢稀羽すう歌切】いま目が合ったな！これでお前とも縁ができた！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "suu_usuwa.js"
@@ -19864,7 +19864,7 @@ window.SONG_DATA.push(
     {
   "title": "雪は何色",
   "artist": "Kotoha",
-  "collection": "刚才眼神对上了！这样你和我就有缘了！[2026-02-04][x1CZfV72Q0I]【🦢稀羽すう歌切】いま目が合ったな！これでお前とも縁ができた！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "suu_usuwa.js"
@@ -19872,7 +19872,7 @@ window.SONG_DATA.push(
     {
   "title": "ケセラセラ",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "刚才眼神对上了！这样你和我就有缘了！[2026-02-04][x1CZfV72Q0I]【🦢稀羽すう歌切】いま目が合ったな！これでお前とも縁ができた！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "suu_usuwa.js"
@@ -19880,7 +19880,7 @@ window.SONG_DATA.push(
     {
   "title": "深海少女",
   "artist": "ゆうゆ",
-  "collection": "刚才眼神对上了！这样你和我就有缘了！[2026-02-04][x1CZfV72Q0I]【🦢稀羽すう歌切】いま目が合ったな！これでお前とも縁ができた！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "suu_usuwa.js"
@@ -19888,7 +19888,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れてください",
   "artist": "ヨルシカ",
-  "collection": "刚才眼神对上了！这样你和我就有缘了！[2026-02-04][x1CZfV72Q0I]【🦢稀羽すう歌切】いま目が合ったな！これでお前とも縁ができた！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=5",
   "source": "suu_usuwa.js"
@@ -19896,7 +19896,7 @@ window.SONG_DATA.push(
     {
   "title": "へび",
   "artist": "ヨルシカ",
-  "collection": "刚才眼神对上了！这样你和我就有缘了！[2026-02-04][x1CZfV72Q0I]【🦢稀羽すう歌切】いま目が合ったな！これでお前とも縁ができた！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=6",
   "source": "suu_usuwa.js"
@@ -19904,7 +19904,7 @@ window.SONG_DATA.push(
     {
   "title": "First Love",
   "artist": "宇多田ヒカル",
-  "collection": "刚才眼神对上了！这样你和我就有缘了！[2026-02-04][x1CZfV72Q0I]【🦢稀羽すう歌切】いま目が合ったな！これでお前とも縁ができた！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=7",
   "source": "suu_usuwa.js"
@@ -19912,7 +19912,7 @@ window.SONG_DATA.push(
     {
   "title": "地球儀",
   "artist": "米津玄師",
-  "collection": "刚才眼神对上了！这样你和我就有缘了！[2026-02-04][x1CZfV72Q0I]【🦢稀羽すう歌切】いま目が合ったな！これでお前とも縁ができた！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=8",
   "source": "suu_usuwa.js"
@@ -19920,7 +19920,7 @@ window.SONG_DATA.push(
     {
   "title": "初めての恋が終わる時",
   "artist": "ryo",
-  "collection": "刚才眼神对上了！这样你和我就有缘了！[2026-02-04][x1CZfV72Q0I]【🦢稀羽すう歌切】いま目が合ったな！これでお前とも縁ができた！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=9",
   "source": "suu_usuwa.js"
@@ -19928,7 +19928,7 @@ window.SONG_DATA.push(
     {
   "title": "トリノコシティ",
   "artist": "40mP",
-  "collection": "刚才眼神对上了！这样你和我就有缘了！[2026-02-04][x1CZfV72Q0I]【🦢稀羽すう歌切】いま目が合ったな！これでお前とも縁ができた！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=10",
   "source": "suu_usuwa.js"
@@ -19936,7 +19936,7 @@ window.SONG_DATA.push(
     {
   "title": "ワールドイズマイン",
   "artist": "ryo",
-  "collection": "刚才眼神对上了！这样你和我就有缘了！[2026-02-04][x1CZfV72Q0I]【🦢稀羽すう歌切】いま目が合ったな！これでお前とも縁ができた！",
+  "collection": "[2023-6-25] 昼下がりの歌。小さきお披露目あります。 稀羽すう 13空 / 音無小鳥 (滝田樹里)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/c?p=11",
   "source": "suu_usuwa.js"

@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1zzZPBsEum
-// 生成时间: 2/21/2026, 12:13:00 AM
+// 生成时间: 2/21/2026, 12:43:28 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -984,7 +984,7 @@ window.SONG_DATA.push(
     {
   "title": "ハロ",
   "artist": "yama × ぼっちぼろまる",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=1",
   "source": "otomoneruki.js"
@@ -992,7 +992,7 @@ window.SONG_DATA.push(
     {
   "title": "チェリー",
   "artist": "スピッツ",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=2",
   "source": "otomoneruki.js"
@@ -1000,7 +1000,7 @@ window.SONG_DATA.push(
     {
   "title": "AIZO",
   "artist": "King Gnu",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=3",
   "source": "otomoneruki.js"
@@ -1008,7 +1008,7 @@ window.SONG_DATA.push(
     {
   "title": "ray",
   "artist": "BUMP OF CHICKEN",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=4",
   "source": "otomoneruki.js"
@@ -1016,7 +1016,7 @@ window.SONG_DATA.push(
     {
   "title": "ハッピーシンセサイザ",
   "artist": "EasyPop",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=5",
   "source": "otomoneruki.js"
@@ -1024,7 +1024,7 @@ window.SONG_DATA.push(
     {
   "title": "あの日タイムマシン",
   "artist": "LONG SHOT PARTY",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=6",
   "source": "otomoneruki.js"
@@ -1032,7 +1032,7 @@ window.SONG_DATA.push(
     {
   "title": "lulu.",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=7",
   "source": "otomoneruki.js"
@@ -1040,7 +1040,7 @@ window.SONG_DATA.push(
     {
   "title": "水平線",
   "artist": "back number",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=8",
   "source": "otomoneruki.js"
@@ -1048,7 +1048,7 @@ window.SONG_DATA.push(
     {
   "title": "ドライフラワー",
   "artist": "優里",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=9",
   "source": "otomoneruki.js"
@@ -1056,7 +1056,7 @@ window.SONG_DATA.push(
     {
   "title": "踊",
   "artist": "Ado",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=10",
   "source": "otomoneruki.js"
@@ -1064,7 +1064,7 @@ window.SONG_DATA.push(
     {
   "title": "カルマ",
   "artist": "BUMP OF CHICKEN",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=11",
   "source": "otomoneruki.js"
@@ -1072,7 +1072,7 @@ window.SONG_DATA.push(
     {
   "title": "Bling-Bang-Bang-Born",
   "artist": "Creepy Nuts",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=12",
   "source": "otomoneruki.js"
@@ -1080,7 +1080,7 @@ window.SONG_DATA.push(
     {
   "title": "HOT LIMIT",
   "artist": "T.M.Revolution",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=13",
   "source": "otomoneruki.js"
@@ -1088,7 +1088,7 @@ window.SONG_DATA.push(
     {
   "title": "インフェルノ",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=14",
   "source": "otomoneruki.js"
@@ -1096,7 +1096,7 @@ window.SONG_DATA.push(
     {
   "title": "以心電信",
   "artist": "ORANGE RANGE",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=15",
   "source": "otomoneruki.js"
@@ -1104,7 +1104,7 @@ window.SONG_DATA.push(
     {
   "title": "コロンブス",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=16",
   "source": "otomoneruki.js"
@@ -1112,7 +1112,7 @@ window.SONG_DATA.push(
     {
   "title": "なにやってもうまくいかない",
   "artist": "Meiyo",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=17",
   "source": "otomoneruki.js"
@@ -1120,7 +1120,7 @@ window.SONG_DATA.push(
     {
   "title": "死ぬな!",
   "artist": "こっちのけんと",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=18",
   "source": "otomoneruki.js"
@@ -1128,7 +1128,7 @@ window.SONG_DATA.push(
     {
   "title": "Mela!",
   "artist": "緑黄色社会",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=19",
   "source": "otomoneruki.js"
@@ -1136,7 +1136,7 @@ window.SONG_DATA.push(
     {
   "title": "Tokimeki",
   "artist": "Vaundy",
-  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=1",
   "source": "otomoneruki.js"
@@ -1144,7 +1144,7 @@ window.SONG_DATA.push(
     {
   "title": "Sweets Parade",
   "artist": "髏々宮カルタ(CV花澤香菜)",
-  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=2",
   "source": "otomoneruki.js"
@@ -1152,7 +1152,7 @@ window.SONG_DATA.push(
     {
   "title": "ダーリン",
   "artist": "須田景凪",
-  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=3",
   "source": "otomoneruki.js"
@@ -1160,7 +1160,7 @@ window.SONG_DATA.push(
     {
   "title": "ニア",
   "artist": "初音ミク feat. 夏代孝明",
-  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=4",
   "source": "otomoneruki.js"
@@ -1168,7 +1168,7 @@ window.SONG_DATA.push(
     {
   "title": "スキキライ",
   "artist": "ゴム(HoneyWorks) feat. 鏡音リン・鏡音レン",
-  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=5",
   "source": "otomoneruki.js"
@@ -1176,7 +1176,7 @@ window.SONG_DATA.push(
     {
   "title": "CHE.R.RY",
   "artist": "YUI",
-  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=6",
   "source": "otomoneruki.js"
@@ -1184,7 +1184,7 @@ window.SONG_DATA.push(
     {
   "title": "orion",
   "artist": "米津玄師",
-  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=7",
   "source": "otomoneruki.js"
@@ -1192,7 +1192,7 @@ window.SONG_DATA.push(
     {
   "title": "夜撫でるメノウ",
   "artist": "Ayase feat. 初音ミク",
-  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=8",
   "source": "otomoneruki.js"
@@ -1200,7 +1200,7 @@ window.SONG_DATA.push(
     {
   "title": "物の怪の類",
   "artist": "めいちゃん",
-  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=9",
   "source": "otomoneruki.js"
@@ -1208,7 +1208,7 @@ window.SONG_DATA.push(
     {
   "title": "Oz.",
   "artist": "yama",
-  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=10",
   "source": "otomoneruki.js"
@@ -1216,7 +1216,7 @@ window.SONG_DATA.push(
     {
   "title": "AIZO",
   "artist": "King Gnu",
-  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=11",
   "source": "otomoneruki.js"
@@ -1224,7 +1224,7 @@ window.SONG_DATA.push(
     {
   "title": "Butter-Fly",
   "artist": "和田光司",
-  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=12",
   "source": "otomoneruki.js"
@@ -1232,7 +1232,7 @@ window.SONG_DATA.push(
     {
   "title": "Calc.",
   "artist": "ジミーサムP feat. 初音ミク",
-  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=13",
   "source": "otomoneruki.js"
@@ -1240,7 +1240,7 @@ window.SONG_DATA.push(
     {
   "title": "アストロノーツ",
   "artist": "初音ミク(ぽわぽわP)",
-  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=14",
   "source": "otomoneruki.js"

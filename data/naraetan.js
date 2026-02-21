@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1G6fLB7Efr
-// 生成时间: 2/21/2026, 12:09:31 AM
+// 生成时间: 2/21/2026, 12:39:59 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -136,7 +136,7 @@ window.SONG_DATA.push(
     {
   "title": "シルエット",
   "artist": "KANA-BOON",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=1",
   "source": "naraetan.js"
@@ -144,7 +144,7 @@ window.SONG_DATA.push(
     {
   "title": "お気に召すまま",
   "artist": "Eve",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=2",
   "source": "naraetan.js"
@@ -152,7 +152,7 @@ window.SONG_DATA.push(
     {
   "title": "1／2",
   "artist": "川本真琴",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=3",
   "source": "naraetan.js"
@@ -160,7 +160,7 @@ window.SONG_DATA.push(
     {
   "title": "花束",
   "artist": "back number",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=4",
   "source": "naraetan.js"
@@ -168,7 +168,7 @@ window.SONG_DATA.push(
     {
   "title": "強盗と花束",
   "artist": "ヨルシカ",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=5",
   "source": "naraetan.js"
@@ -176,7 +176,7 @@ window.SONG_DATA.push(
     {
   "title": "カタオモイ",
   "artist": "Aimer",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=6",
   "source": "naraetan.js"
@@ -184,7 +184,7 @@ window.SONG_DATA.push(
     {
   "title": "森の小さなレストラン",
   "artist": "手嶌葵",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=7",
   "source": "naraetan.js"
@@ -192,7 +192,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒトリゴト",
   "artist": "ClariS",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=8",
   "source": "naraetan.js"
@@ -200,7 +200,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=9",
   "source": "naraetan.js"
@@ -208,7 +208,7 @@ window.SONG_DATA.push(
     {
   "title": "逆転劇",
   "artist": "月詠み",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=10",
   "source": "naraetan.js"
@@ -216,7 +216,7 @@ window.SONG_DATA.push(
     {
   "title": "ETERNAL BLAZE",
   "artist": "水樹奈々",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=11",
   "source": "naraetan.js"
@@ -224,7 +224,7 @@ window.SONG_DATA.push(
     {
   "title": "Shangri-La",
   "artist": "angela",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=12",
   "source": "naraetan.js"
@@ -232,7 +232,7 @@ window.SONG_DATA.push(
     {
   "title": "明日へのbrilliant road",
   "artist": "angela",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=13",
   "source": "naraetan.js"
@@ -240,7 +240,7 @@ window.SONG_DATA.push(
     {
   "title": "JANE DOE",
   "artist": "米津玄師・宇多田ヒカル",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=14",
   "source": "naraetan.js"
@@ -248,7 +248,7 @@ window.SONG_DATA.push(
     {
   "title": "ロマンスの神様",
   "artist": "広瀬香美",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=15",
   "source": "naraetan.js"
@@ -256,7 +256,7 @@ window.SONG_DATA.push(
     {
   "title": "uni-verse",
   "artist": "オーイシマサヨシ",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=16",
   "source": "naraetan.js"
@@ -264,7 +264,7 @@ window.SONG_DATA.push(
     {
   "title": "Driver's High",
   "artist": "L'Arc～en～Ciel",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=17",
   "source": "naraetan.js"
@@ -272,7 +272,7 @@ window.SONG_DATA.push(
     {
   "title": "Don't say \"lazy\"",
   "artist": "なれたん Naraetan Ch.🌷",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=18",
   "source": "naraetan.js"
@@ -280,7 +280,7 @@ window.SONG_DATA.push(
     {
   "title": "シリウス",
   "artist": "藍井エイル",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=19",
   "source": "naraetan.js"
@@ -288,7 +288,7 @@ window.SONG_DATA.push(
     {
   "title": "Here",
   "artist": "JUNNA",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=20",
   "source": "naraetan.js"
@@ -296,7 +296,7 @@ window.SONG_DATA.push(
     {
   "title": "白い雪のプリンセスは",
   "artist": "のぼる↑",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=21",
   "source": "naraetan.js"
@@ -304,7 +304,7 @@ window.SONG_DATA.push(
     {
   "title": "貴方の恋人になりたい",
   "artist": "チョーキューメイ",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=22",
   "source": "naraetan.js"
@@ -312,7 +312,7 @@ window.SONG_DATA.push(
     {
   "title": "だから僕は音楽を辞めた",
   "artist": "ヨルシカ",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=23",
   "source": "naraetan.js"
@@ -320,7 +320,7 @@ window.SONG_DATA.push(
     {
   "title": "地球最後の告白を",
   "artist": "kemu feat.GUMI",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=24",
   "source": "naraetan.js"
@@ -328,7 +328,7 @@ window.SONG_DATA.push(
     {
   "title": "ゴールデンタイムラバー",
   "artist": "スキマスイッチ",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=25",
   "source": "naraetan.js"
@@ -336,7 +336,7 @@ window.SONG_DATA.push(
     {
   "title": "恋文",
   "artist": "Every Little Thing",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=26",
   "source": "naraetan.js"
@@ -344,7 +344,7 @@ window.SONG_DATA.push(
     {
   "title": "愛の星",
   "artist": "水樹奈々",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=27",
   "source": "naraetan.js"
@@ -352,7 +352,7 @@ window.SONG_DATA.push(
     {
   "title": "GIRAFFE BLUES",
   "artist": "ワルキューレ",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=28",
   "source": "naraetan.js"
@@ -360,7 +360,7 @@ window.SONG_DATA.push(
     {
   "title": "Darling",
   "artist": "西野カナ",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=29",
   "source": "naraetan.js"
@@ -368,7 +368,7 @@ window.SONG_DATA.push(
     {
   "title": "ぎゅっと。",
   "artist": "もさを。",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=30",
   "source": "naraetan.js"
@@ -376,7 +376,7 @@ window.SONG_DATA.push(
     {
   "title": "ダンスホール",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=31",
   "source": "naraetan.js"
@@ -384,7 +384,7 @@ window.SONG_DATA.push(
     {
   "title": "adrenaline!!!",
   "artist": "TrySail",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=32",
   "source": "naraetan.js"
@@ -392,119 +392,119 @@ window.SONG_DATA.push(
     {
   "title": "丸の内サディスティック",
   "artist": "椎名林檎",
-  "collection": "[2025-12-06]土曜日の深夜歌枠💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
-  "up": "Go[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/t?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "光るなら",
   "artist": "Goose house",
-  "collection": "[2025-12-06]土曜日の深夜歌枠💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
-  "up": "Go[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/t?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "名前を呼ぶよ",
   "artist": "ラックライフ",
-  "collection": "[2025-12-06]土曜日の深夜歌枠💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
-  "up": "Go[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/t?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "白日",
   "artist": "King Gnu",
-  "collection": "[2025-12-06]土曜日の深夜歌枠💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
-  "up": "Go[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/t?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "Good-bye days",
   "artist": "YUI for 雨音薫",
-  "collection": "[2025-12-06]土曜日の深夜歌枠💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
-  "up": "Go[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/t?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "愛唄",
   "artist": "GReeeeN",
-  "collection": "[2025-12-06]土曜日の深夜歌枠💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
-  "up": "Go[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/t?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "手紙 ～拝啓十五の君へ～",
   "artist": "アンジェラ・アキ",
-  "collection": "[2025-12-06]土曜日の深夜歌枠💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
-  "up": "Go[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/t?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "愛のかたまり",
   "artist": "DOMOTO",
-  "collection": "[2025-12-06]土曜日の深夜歌枠💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
-  "up": "Go[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/t?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "炎",
   "artist": "LiSA",
-  "collection": "[2025-12-06]土曜日の深夜歌枠💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
-  "up": "Go[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/t?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "レオ",
   "artist": "優里",
-  "collection": "[2025-12-06]土曜日の深夜歌枠💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
-  "up": "Go[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/t?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "猫",
   "artist": "DISH",
-  "collection": "[2025-12-06]土曜日の深夜歌枠💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
-  "up": "Go[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/t?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "ライオン",
   "artist": "May'n&中島愛",
-  "collection": "[2025-12-06]土曜日の深夜歌枠💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
-  "up": "Go[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/t?p=12",
   "source": "naraetan.js"
 },
     {
   "title": "Unlasting",
   "artist": "LiSA",
-  "collection": "[2025-12-06]土曜日の深夜歌枠💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
-  "up": "Go[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/t?p=13",
   "source": "naraetan.js"
 },
     {
   "title": "Glorious Break",
   "artist": "水樹奈々",
-  "collection": "[2025-12-06]土曜日の深夜歌枠💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
-  "up": "Go[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/t?p=14",
   "source": "naraetan.js"
 },
     {
   "title": "I Love U",
   "artist": "THE★SCANTY",
-  "collection": "[2025-12-08]元気に好きな曲を歌う🍀Singing my favorite songs energetic[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=1",
   "source": "naraetan.js"
@@ -512,7 +512,7 @@ window.SONG_DATA.push(
     {
   "title": "HOT LIMIT",
   "artist": "T.M.Revolution",
-  "collection": "[2025-12-08]元気に好きな曲を歌う🍀Singing my favorite songs energetic[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=2",
   "source": "naraetan.js"
@@ -520,7 +520,7 @@ window.SONG_DATA.push(
     {
   "title": "浪漫飛行",
   "artist": "米米CLUB",
-  "collection": "[2025-12-08]元気に好きな曲を歌う🍀Singing my favorite songs energetic[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=3",
   "source": "naraetan.js"
@@ -528,7 +528,7 @@ window.SONG_DATA.push(
     {
   "title": "幾億光年",
   "artist": "OMOINOTAKE",
-  "collection": "[2025-12-08]元気に好きな曲を歌う🍀Singing my favorite songs energetic[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=4",
   "source": "naraetan.js"
@@ -536,7 +536,7 @@ window.SONG_DATA.push(
     {
   "title": "好きすぎて滅！",
   "artist": "M!LK",
-  "collection": "[2025-12-08]元気に好きな曲を歌う🍀Singing my favorite songs energetic[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=5",
   "source": "naraetan.js"
@@ -544,7 +544,7 @@ window.SONG_DATA.push(
     {
   "title": "愛とか恋とか",
   "artist": "Novelbright",
-  "collection": "[2025-12-08]元気に好きな曲を歌う🍀Singing my favorite songs energetic[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=6",
   "source": "naraetan.js"
@@ -552,7 +552,7 @@ window.SONG_DATA.push(
     {
   "title": "愛のかたまり",
   "artist": "DOMOTO",
-  "collection": "[2025-12-08]元気に好きな曲を歌う🍀Singing my favorite songs energetic[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=7",
   "source": "naraetan.js"
@@ -560,7 +560,7 @@ window.SONG_DATA.push(
     {
   "title": "かわいいだけじゃだめですか？",
   "artist": "CUTIE STREET",
-  "collection": "[2025-12-08]元気に好きな曲を歌う🍀Singing my favorite songs energetic[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=8",
   "source": "naraetan.js"
@@ -568,7 +568,7 @@ window.SONG_DATA.push(
     {
   "title": "わたしの一番かわいいところ",
   "artist": "FRUITS ZIPPER",
-  "collection": "[2025-12-08]元気に好きな曲を歌う🍀Singing my favorite songs energetic[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=9",
   "source": "naraetan.js"
@@ -576,7 +576,7 @@ window.SONG_DATA.push(
     {
   "title": "Lost My Music",
   "artist": "涼宮ハルヒ(CV平野綾)",
-  "collection": "[2025-12-08]元気に好きな曲を歌う🍀Singing my favorite songs energetic[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=10",
   "source": "naraetan.js"
@@ -584,7 +584,7 @@ window.SONG_DATA.push(
     {
   "title": "Letters to ME",
   "artist": "LiSA",
-  "collection": "[2025-12-08]元気に好きな曲を歌う🍀Singing my favorite songs energetic[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=11",
   "source": "naraetan.js"
@@ -592,7 +592,7 @@ window.SONG_DATA.push(
     {
   "title": "Super Driver",
   "artist": "平野綾",
-  "collection": "[2025-12-08]元気に好きな曲を歌う🍀Singing my favorite songs energetic[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=12",
   "source": "naraetan.js"
@@ -600,183 +600,183 @@ window.SONG_DATA.push(
     {
   "title": "微笑みの爆弾",
   "artist": "馬渡松子",
-  "collection": "[2025-12-09]少年ジャンプ縛り歌枠👒Shonen Jump–only singing stream[7Rt[なれたん Naraetan Ch.🌷]",
-  "up": "7Rt[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "1／3の純情な感情",
   "artist": "SIAM SHADE",
-  "collection": "[2025-12-09]少年ジャンプ縛り歌枠👒Shonen Jump–only singing stream[7Rt[なれたん Naraetan Ch.🌷]",
-  "up": "7Rt[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "～アスタリスク～",
   "artist": "ORANGE RANGE",
-  "collection": "[2025-12-09]少年ジャンプ縛り歌枠👒Shonen Jump–only singing stream[7Rt[なれたん Naraetan Ch.🌷]",
-  "up": "7Rt[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "ウィーアー!",
   "artist": "きただにひろし",
-  "collection": "[2025-12-09]少年ジャンプ縛り歌枠👒Shonen Jump–only singing stream[7Rt[なれたん Naraetan Ch.🌷]",
-  "up": "7Rt[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "あなただけ見つめてる",
   "artist": "大黒摩季",
-  "collection": "[2025-12-09]少年ジャンプ縛り歌枠👒Shonen Jump–only singing stream[7Rt[なれたん Naraetan Ch.🌷]",
-  "up": "7Rt[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "Northern Lights",
   "artist": "林原めぐみ",
-  "collection": "[2025-12-09]少年ジャンプ縛り歌枠👒Shonen Jump–only singing stream[7Rt[なれたん Naraetan Ch.🌷]",
-  "up": "7Rt[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "WILL",
   "artist": "米倉千尋",
-  "collection": "[2025-12-09]少年ジャンプ縛り歌枠👒Shonen Jump–only singing stream[7Rt[なれたん Naraetan Ch.🌷]",
-  "up": "7Rt[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "ピースサイン",
   "artist": "米津玄師",
-  "collection": "[2025-12-09]少年ジャンプ縛り歌枠👒Shonen Jump–only singing stream[7Rt[なれたん Naraetan Ch.🌷]",
-  "up": "7Rt[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "departure!",
   "artist": "小野正利",
-  "collection": "[2025-12-09]少年ジャンプ縛り歌枠👒Shonen Jump–only singing stream[7Rt[なれたん Naraetan Ch.🌷]",
-  "up": "7Rt[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "ブルーバード",
   "artist": "いきものがかり",
-  "collection": "[2025-12-09]少年ジャンプ縛り歌枠👒Shonen Jump–only singing stream[7Rt[なれたん Naraetan Ch.🌷]",
-  "up": "7Rt[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "サムライハート(Some Like It Hot!!)",
   "artist": "SPYAIR",
-  "collection": "[2025-12-09]少年ジャンプ縛り歌枠👒Shonen Jump–only singing stream[7Rt[なれたん Naraetan Ch.🌷]",
-  "up": "7Rt[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "夜もすがら君想ふ",
   "artist": "TOKOTOKO",
-  "collection": "[2025-12-18]感謝を込めて、3周年🎂With gratitude, 3rd anniversary[DsL[なれたん Naraetan Ch.🌷]",
-  "up": "DsL[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "Sunday",
   "artist": "ザ・ベイビースターズ",
-  "collection": "[2025-12-18]感謝を込めて、3周年🎂With gratitude, 3rd anniversary[DsL[なれたん Naraetan Ch.🌷]",
-  "up": "DsL[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "uni-verse",
   "artist": "オーイシマサヨシ",
-  "collection": "[2025-12-18]感謝を込めて、3周年🎂With gratitude, 3rd anniversary[DsL[なれたん Naraetan Ch.🌷]",
-  "up": "DsL[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "Ubiquitous dB",
   "artist": "ユナ(CV神田沙也加)",
-  "collection": "[2025-12-18]感謝を込めて、3周年🎂With gratitude, 3rd anniversary[DsL[なれたん Naraetan Ch.🌷]",
-  "up": "DsL[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "生きるよすが",
   "artist": "月詠み",
-  "collection": "[2025-12-18]感謝を込めて、3周年🎂With gratitude, 3rd anniversary[DsL[なれたん Naraetan Ch.🌷]",
-  "up": "DsL[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "プラリネ",
   "artist": "ジュリア(愛美)",
-  "collection": "[2025-12-18]感謝を込めて、3周年🎂With gratitude, 3rd anniversary[DsL[なれたん Naraetan Ch.🌷]",
-  "up": "DsL[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "花の塔",
   "artist": "さユり",
-  "collection": "[2025-12-18]感謝を込めて、3周年🎂With gratitude, 3rd anniversary[DsL[なれたん Naraetan Ch.🌷]",
-  "up": "DsL[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "好きすぎて滅!",
   "artist": "M!LK",
-  "collection": "[2025-12-18]感謝を込めて、3周年🎂With gratitude, 3rd anniversary[DsL[なれたん Naraetan Ch.🌷]",
-  "up": "DsL[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "ジェットロケット",
   "artist": "LiSA",
-  "collection": "[2025-12-18]感謝を込めて、3周年🎂With gratitude, 3rd anniversary[DsL[なれたん Naraetan Ch.🌷]",
-  "up": "DsL[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "ファンサ",
   "artist": "mona (CV夏川椎菜)",
-  "collection": "[2025-12-18]感謝を込めて、3周年🎂With gratitude, 3rd anniversary[DsL[なれたん Naraetan Ch.🌷]",
-  "up": "DsL[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "愛言葉Ⅲ",
   "artist": "DECO27",
-  "collection": "[2025-12-18]感謝を込めて、3周年🎂With gratitude, 3rd anniversary[DsL[なれたん Naraetan Ch.🌷]",
-  "up": "DsL[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "Breeze",
   "artist": "林原めぐみ",
-  "collection": "[2025-12-21]日曜日の歌枠🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=1",
   "source": "naraetan.js"
@@ -784,7 +784,7 @@ window.SONG_DATA.push(
     {
   "title": "マリーゴールド",
   "artist": "あいみょん",
-  "collection": "[2025-12-21]日曜日の歌枠🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=2",
   "source": "naraetan.js"
@@ -792,7 +792,7 @@ window.SONG_DATA.push(
     {
   "title": "真昼の月明かり",
   "artist": "月詠み",
-  "collection": "[2025-12-21]日曜日の歌枠🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=3",
   "source": "naraetan.js"
@@ -800,7 +800,7 @@ window.SONG_DATA.push(
     {
   "title": "宿命",
   "artist": "Official髭男dism",
-  "collection": "[2025-12-21]日曜日の歌枠🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=4",
   "source": "naraetan.js"
@@ -808,7 +808,7 @@ window.SONG_DATA.push(
     {
   "title": "冒険彗星",
   "artist": "榎本くるみ",
-  "collection": "[2025-12-21]日曜日の歌枠🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=5",
   "source": "naraetan.js"
@@ -816,7 +816,7 @@ window.SONG_DATA.push(
     {
   "title": "ロビンソン",
   "artist": "スピッツ",
-  "collection": "[2025-12-21]日曜日の歌枠🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=6",
   "source": "naraetan.js"
@@ -824,7 +824,7 @@ window.SONG_DATA.push(
     {
   "title": "紅茶",
   "artist": "坂本真綾",
-  "collection": "[2025-12-21]日曜日の歌枠🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=7",
   "source": "naraetan.js"
@@ -832,7 +832,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌",
   "artist": "tuki.",
-  "collection": "[2025-12-21]日曜日の歌枠🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=8",
   "source": "naraetan.js"
@@ -840,7 +840,7 @@ window.SONG_DATA.push(
     {
   "title": "言って。",
   "artist": "ヨルシカ",
-  "collection": "[2025-12-21]日曜日の歌枠🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=9",
   "source": "naraetan.js"
@@ -848,7 +848,7 @@ window.SONG_DATA.push(
     {
   "title": "APT.",
   "artist": "ROSÉ & Bruno Mars",
-  "collection": "[2025-12-21]日曜日の歌枠🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=10",
   "source": "naraetan.js"
@@ -856,7 +856,7 @@ window.SONG_DATA.push(
     {
   "title": "誇り高きアイドル",
   "artist": "HoneyWorks",
-  "collection": "[2025-12-21]日曜日の歌枠🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=11",
   "source": "naraetan.js"
@@ -864,7 +864,7 @@ window.SONG_DATA.push(
     {
   "title": "太陽曰く燃えよカオス",
   "artist": "後ろから這いより隊",
-  "collection": "[2025-12-21]日曜日の歌枠🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=12",
   "source": "naraetan.js"
@@ -872,7 +872,7 @@ window.SONG_DATA.push(
     {
   "title": "BOW AND ARROW",
   "artist": "米津玄師",
-  "collection": "[2025-12-23]今日こそ！米津玄師さん縛り歌枠🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=1",
   "source": "naraetan.js"
@@ -880,7 +880,7 @@ window.SONG_DATA.push(
     {
   "title": "感電",
   "artist": "米津玄師",
-  "collection": "[2025-12-23]今日こそ！米津玄師さん縛り歌枠🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=2",
   "source": "naraetan.js"
@@ -888,7 +888,7 @@ window.SONG_DATA.push(
     {
   "title": "Flamingo",
   "artist": "米津玄師",
-  "collection": "[2025-12-23]今日こそ！米津玄師さん縛り歌枠🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=3",
   "source": "naraetan.js"
@@ -896,7 +896,7 @@ window.SONG_DATA.push(
     {
   "title": "LOSER",
   "artist": "米津玄師",
-  "collection": "[2025-12-23]今日こそ！米津玄師さん縛り歌枠🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=4",
   "source": "naraetan.js"
@@ -904,7 +904,7 @@ window.SONG_DATA.push(
     {
   "title": "ピースサイン",
   "artist": "米津玄師",
-  "collection": "[2025-12-23]今日こそ！米津玄師さん縛り歌枠🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=5",
   "source": "naraetan.js"
@@ -912,7 +912,7 @@ window.SONG_DATA.push(
     {
   "title": "KICKBACK",
   "artist": "米津玄師",
-  "collection": "[2025-12-23]今日こそ！米津玄師さん縛り歌枠🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=6",
   "source": "naraetan.js"
@@ -920,7 +920,7 @@ window.SONG_DATA.push(
     {
   "title": "LADY",
   "artist": "米津玄師",
-  "collection": "[2025-12-23]今日こそ！米津玄師さん縛り歌枠🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=7",
   "source": "naraetan.js"
@@ -928,7 +928,7 @@ window.SONG_DATA.push(
     {
   "title": "さよーならまたいつか！",
   "artist": "米津玄師",
-  "collection": "[2025-12-23]今日こそ！米津玄師さん縛り歌枠🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=8",
   "source": "naraetan.js"
@@ -936,7 +936,7 @@ window.SONG_DATA.push(
     {
   "title": "orion",
   "artist": "米津玄師",
-  "collection": "[2025-12-23]今日こそ！米津玄師さん縛り歌枠🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=9",
   "source": "naraetan.js"
@@ -944,7 +944,7 @@ window.SONG_DATA.push(
     {
   "title": "アイネクライネ",
   "artist": "米津玄師",
-  "collection": "[2025-12-23]今日こそ！米津玄師さん縛り歌枠🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=10",
   "source": "naraetan.js"
@@ -952,7 +952,7 @@ window.SONG_DATA.push(
     {
   "title": "1991",
   "artist": "米津玄師",
-  "collection": "[2025-12-23]今日こそ！米津玄師さん縛り歌枠🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=11",
   "source": "naraetan.js"
@@ -960,7 +960,7 @@ window.SONG_DATA.push(
     {
   "title": "灰色と青",
   "artist": "米津玄師 (+菅田将暉)",
-  "collection": "[2025-12-23]今日こそ！米津玄師さん縛り歌枠🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=12",
   "source": "naraetan.js"
@@ -968,7 +968,7 @@ window.SONG_DATA.push(
     {
   "title": "JANE DOE",
   "artist": "米津玄師",
-  "collection": "[2025-12-23]今日こそ！米津玄師さん縛り歌枠🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=13",
   "source": "naraetan.js"
@@ -976,7 +976,7 @@ window.SONG_DATA.push(
     {
   "title": "IRIS OUT",
   "artist": "米津玄師",
-  "collection": "[2025-12-23]今日こそ！米津玄師さん縛り歌枠🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=14",
   "source": "naraetan.js"
@@ -984,7 +984,7 @@ window.SONG_DATA.push(
     {
   "title": "Lemon",
   "artist": "米津玄師",
-  "collection": "[2025-12-23]今日こそ！米津玄師さん縛り歌枠🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=15",
   "source": "naraetan.js"
@@ -992,7 +992,7 @@ window.SONG_DATA.push(
     {
   "title": "ロマンスの神様",
   "artist": "広瀬香美",
-  "collection": "[2025-12-25]クリスマスには食べて歌うしかない🎅🏼🦌At Christmas, all there i[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=1",
   "source": "naraetan.js"
@@ -1000,7 +1000,7 @@ window.SONG_DATA.push(
     {
   "title": "WISH",
   "artist": "嵐",
-  "collection": "[2025-12-25]クリスマスには食べて歌うしかない🎅🏼🦌At Christmas, all there i[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=2",
   "source": "naraetan.js"
@@ -1008,7 +1008,7 @@ window.SONG_DATA.push(
     {
   "title": "冬がはじまるよ",
   "artist": "槇原敬之",
-  "collection": "[2025-12-25]クリスマスには食べて歌うしかない🎅🏼🦌At Christmas, all there i[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=3",
   "source": "naraetan.js"
@@ -1016,7 +1016,7 @@ window.SONG_DATA.push(
     {
   "title": "クリスマス・イブ",
   "artist": "山下達郎",
-  "collection": "[2025-12-25]クリスマスには食べて歌うしかない🎅🏼🦌At Christmas, all there i[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=4",
   "source": "naraetan.js"
@@ -1024,7 +1024,7 @@ window.SONG_DATA.push(
     {
   "title": "Subtitle",
   "artist": "Official髭男dism",
-  "collection": "[2025-12-25]クリスマスには食べて歌うしかない🎅🏼🦌At Christmas, all there i[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=5",
   "source": "naraetan.js"
@@ -1032,7 +1032,7 @@ window.SONG_DATA.push(
     {
   "title": "粉雪",
   "artist": "レミオロメン",
-  "collection": "[2025-12-25]クリスマスには食べて歌うしかない🎅🏼🦌At Christmas, all there i[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=6",
   "source": "naraetan.js"
@@ -1040,7 +1040,7 @@ window.SONG_DATA.push(
     {
   "title": "深愛",
   "artist": "水樹奈々",
-  "collection": "[2025-12-25]クリスマスには食べて歌うしかない🎅🏼🦌At Christmas, all there i[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=7",
   "source": "naraetan.js"
@@ -1048,7 +1048,7 @@ window.SONG_DATA.push(
     {
   "title": "クリスマスソング",
   "artist": "back number",
-  "collection": "[2025-12-25]クリスマスには食べて歌うしかない🎅🏼🦌At Christmas, all there i[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=8",
   "source": "naraetan.js"
@@ -1056,7 +1056,7 @@ window.SONG_DATA.push(
     {
   "title": "Let It Go",
   "artist": "Idina Menzel",
-  "collection": "[2025-12-25]クリスマスには食べて歌うしかない🎅🏼🦌At Christmas, all there i[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=9",
   "source": "naraetan.js"
@@ -1064,7 +1064,7 @@ window.SONG_DATA.push(
     {
   "title": "All I Want for Christmas Is You",
   "artist": "Mariah Carey",
-  "collection": "[2025-12-25]クリスマスには食べて歌うしかない🎅🏼🦌At Christmas, all there i[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=10",
   "source": "naraetan.js"
@@ -1072,7 +1072,7 @@ window.SONG_DATA.push(
     {
   "title": "メリクリ",
   "artist": "BoA",
-  "collection": "[2025-12-25]クリスマスには食べて歌うしかない🎅🏼🦌At Christmas, all there i[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=11",
   "source": "naraetan.js"
@@ -1080,7 +1080,7 @@ window.SONG_DATA.push(
     {
   "title": "愛のかたまり",
   "artist": "DOMOTO",
-  "collection": "[2025-12-25]クリスマスには食べて歌うしかない🎅🏼🦌At Christmas, all there i[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=12",
   "source": "naraetan.js"
@@ -1088,7 +1088,7 @@ window.SONG_DATA.push(
     {
   "title": "再会",
   "artist": "Lisa × Uru",
-  "collection": "[2025-12-25]クリスマスには食べて歌うしかない🎅🏼🦌At Christmas, all there i[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=13",
   "source": "naraetan.js"
@@ -1096,7 +1096,7 @@ window.SONG_DATA.push(
     {
   "title": "雪の華",
   "artist": "中島美嘉",
-  "collection": "[2025-12-25]クリスマスには食べて歌うしかない🎅🏼🦌At Christmas, all there i[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=14",
   "source": "naraetan.js"
@@ -1104,7 +1104,7 @@ window.SONG_DATA.push(
     {
   "title": "Snow halation",
   "artist": "μ's",
-  "collection": "[2025-12-25]クリスマスには食べて歌うしかない🎅🏼🦌At Christmas, all there i[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=15",
   "source": "naraetan.js"
@@ -1112,7 +1112,7 @@ window.SONG_DATA.push(
     {
   "title": "白い雪のプリンセスは",
   "artist": "のぼる↑",
-  "collection": "[2025-12-25]クリスマスには食べて歌うしかない🎅🏼🦌At Christmas, all there i[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=16",
   "source": "naraetan.js"
@@ -1120,95 +1120,95 @@ window.SONG_DATA.push(
     {
   "title": "車輪の唄",
   "artist": "BUMP OF CHICKEN",
-  "collection": "[2025-12-27]土曜日の深夜歌枠🌨️Saturday late-night singing stream[e[なれたん Naraetan Ch.🌷]",
-  "up": "e[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "Last Piece",
   "artist": "Kirari",
-  "collection": "[2025-12-27]土曜日の深夜歌枠🌨️Saturday late-night singing stream[e[なれたん Naraetan Ch.🌷]",
-  "up": "e[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "イエスタデイ",
   "artist": "Official髭男dism",
-  "collection": "[2025-12-27]土曜日の深夜歌枠🌨️Saturday late-night singing stream[e[なれたん Naraetan Ch.🌷]",
-  "up": "e[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "秒針を噛む",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "[2025-12-27]土曜日の深夜歌枠🌨️Saturday late-night singing stream[e[なれたん Naraetan Ch.🌷]",
-  "up": "e[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "Alone",
   "artist": "下川みくに",
-  "collection": "[2025-12-27]土曜日の深夜歌枠🌨️Saturday late-night singing stream[e[なれたん Naraetan Ch.🌷]",
-  "up": "e[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "六等星の夜",
   "artist": "Aimer",
-  "collection": "[2025-12-27]土曜日の深夜歌枠🌨️Saturday late-night singing stream[e[なれたん Naraetan Ch.🌷]",
-  "up": "e[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "Rubia",
   "artist": "周深",
-  "collection": "[2025-12-27]土曜日の深夜歌枠🌨️Saturday late-night singing stream[e[なれたん Naraetan Ch.🌷]",
-  "up": "e[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "よくばり",
   "artist": "Ayase",
-  "collection": "[2025-12-27]土曜日の深夜歌枠🌨️Saturday late-night singing stream[e[なれたん Naraetan Ch.🌷]",
-  "up": "e[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "夜に駆ける",
   "artist": "YOASOBI",
-  "collection": "[2025-12-27]土曜日の深夜歌枠🌨️Saturday late-night singing stream[e[なれたん Naraetan Ch.🌷]",
-  "up": "e[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "初めての恋が終わる時",
   "artist": "ryo",
-  "collection": "[2025-12-27]土曜日の深夜歌枠🌨️Saturday late-night singing stream[e[なれたん Naraetan Ch.🌷]",
-  "up": "e[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "夢ノカケラ",
   "artist": "AAA",
-  "collection": "[2025-12-27]土曜日の深夜歌枠🌨️Saturday late-night singing stream[e[なれたん Naraetan Ch.🌷]",
-  "up": "e[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "火星人",
   "artist": "ヨルシカ",
-  "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=1",
   "source": "naraetan.js"
@@ -1216,7 +1216,7 @@ window.SONG_DATA.push(
     {
   "title": "ナツメグ",
   "artist": "PURPLE BUBBLE",
-  "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=2",
   "source": "naraetan.js"
@@ -1224,7 +1224,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=3",
   "source": "naraetan.js"
@@ -1232,7 +1232,7 @@ window.SONG_DATA.push(
     {
   "title": "今はいいんだよ。",
   "artist": "MIMI",
-  "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=4",
   "source": "naraetan.js"
@@ -1240,7 +1240,7 @@ window.SONG_DATA.push(
     {
   "title": "六等星",
   "artist": "ざらめ",
-  "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=5",
   "source": "naraetan.js"
@@ -1248,7 +1248,7 @@ window.SONG_DATA.push(
     {
   "title": "愛とか恋とか",
   "artist": "Novelbright(2)",
-  "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=6",
   "source": "naraetan.js"
@@ -1256,7 +1256,7 @@ window.SONG_DATA.push(
     {
   "title": "浪漫飛行",
   "artist": "米米CLUB",
-  "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=7",
   "source": "naraetan.js"
@@ -1264,7 +1264,7 @@ window.SONG_DATA.push(
     {
   "title": "みむかゥわナイストライ",
   "artist": "(不明)",
-  "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=8",
   "source": "naraetan.js"
@@ -1272,7 +1272,7 @@ window.SONG_DATA.push(
     {
   "title": "愛♡スクリーム！",
   "artist": "AiScReam",
-  "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=9",
   "source": "naraetan.js"
@@ -1280,7 +1280,7 @@ window.SONG_DATA.push(
     {
   "title": "革命道中",
   "artist": "アイナ・ジ・エンド",
-  "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=10",
   "source": "naraetan.js"
@@ -1288,7 +1288,7 @@ window.SONG_DATA.push(
     {
   "title": "好きすぎて滅！",
   "artist": "M!LK",
-  "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=11",
   "source": "naraetan.js"
@@ -1296,7 +1296,7 @@ window.SONG_DATA.push(
     {
   "title": "uni-verse",
   "artist": "オーイシマサヨシ",
-  "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=12",
   "source": "naraetan.js"
@@ -1304,7 +1304,7 @@ window.SONG_DATA.push(
     {
   "title": "愛言葉Ⅲ",
   "artist": "DECO27",
-  "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=13",
   "source": "naraetan.js"
@@ -1312,7 +1312,7 @@ window.SONG_DATA.push(
     {
   "title": "優しさの理由",
   "artist": "ChouCho",
-  "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=14",
   "source": "naraetan.js"
@@ -1320,7 +1320,7 @@ window.SONG_DATA.push(
     {
   "title": "アイドル",
   "artist": "YOASOBI",
-  "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=15",
   "source": "naraetan.js"
@@ -1328,7 +1328,7 @@ window.SONG_DATA.push(
     {
   "title": "StarDust",
   "artist": "Sound Horizon",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=1",
   "source": "naraetan.js"
@@ -1336,7 +1336,7 @@ window.SONG_DATA.push(
     {
   "title": "GO!!!",
   "artist": "FLOW",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=2",
   "source": "naraetan.js"
@@ -1344,7 +1344,7 @@ window.SONG_DATA.push(
     {
   "title": "ClimaxJump",
   "artist": "AAA",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=3",
   "source": "naraetan.js"
@@ -1352,7 +1352,7 @@ window.SONG_DATA.push(
     {
   "title": "RAIN",
   "artist": "SEKAI NO OWARI",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=4",
   "source": "naraetan.js"
@@ -1360,7 +1360,7 @@ window.SONG_DATA.push(
     {
   "title": "SPiCa",
   "artist": "とくP",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=5",
   "source": "naraetan.js"
@@ -1368,7 +1368,7 @@ window.SONG_DATA.push(
     {
   "title": "月光",
   "artist": "鬼束ちひろ",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=6",
   "source": "naraetan.js"
@@ -1376,7 +1376,7 @@ window.SONG_DATA.push(
     {
   "title": "七転八起☆至上主義",
   "artist": "KOTOKO",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=7",
   "source": "naraetan.js"
@@ -1384,7 +1384,7 @@ window.SONG_DATA.push(
     {
   "title": "ハナマル☆センセイション",
   "artist": "Little Non",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=8",
   "source": "naraetan.js"
@@ -1392,7 +1392,7 @@ window.SONG_DATA.push(
     {
   "title": "Blessing",
   "artist": "halyosy",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=9",
   "source": "naraetan.js"
@@ -1400,7 +1400,7 @@ window.SONG_DATA.push(
     {
   "title": "letter song",
   "artist": "doriko",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=10",
   "source": "naraetan.js"
@@ -1408,7 +1408,7 @@ window.SONG_DATA.push(
     {
   "title": "愛のかたまり",
   "artist": "Kinki Kids",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=11",
   "source": "naraetan.js"
@@ -1416,7 +1416,7 @@ window.SONG_DATA.push(
     {
   "title": "LAST STARDUST",
   "artist": "Aimer",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=12",
   "source": "naraetan.js"
@@ -1424,7 +1424,7 @@ window.SONG_DATA.push(
     {
   "title": "ダブルラリアット",
   "artist": "アゴアニキ",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=13",
   "source": "naraetan.js"
@@ -1432,7 +1432,7 @@ window.SONG_DATA.push(
     {
   "title": "JANE DOE",
   "artist": "米津玄師・宇多田ヒカル(2)",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=14",
   "source": "naraetan.js"
@@ -1440,7 +1440,7 @@ window.SONG_DATA.push(
     {
   "title": "不死鳥のフランメ",
   "artist": "マリア(日笠陽子)×風鳴翼(水樹奈々)",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=15",
   "source": "naraetan.js"
@@ -1448,7 +1448,7 @@ window.SONG_DATA.push(
     {
   "title": "My Dearest",
   "artist": "supercell",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=16",
   "source": "naraetan.js"
@@ -1456,7 +1456,7 @@ window.SONG_DATA.push(
     {
   "title": "Event Horizon",
   "artist": "ユンナ",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=17",
   "source": "naraetan.js"
@@ -1464,7 +1464,7 @@ window.SONG_DATA.push(
     {
   "title": "FIRE BIRD",
   "artist": "Roselia",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=18",
   "source": "naraetan.js"
@@ -1472,7 +1472,7 @@ window.SONG_DATA.push(
     {
   "title": "Os-宇宙人",
   "artist": "エリオをかまってちゃん",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=19",
   "source": "naraetan.js"
@@ -1480,7 +1480,7 @@ window.SONG_DATA.push(
     {
   "title": "You & Me",
   "artist": "田村ゆかり",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=20",
   "source": "naraetan.js"
@@ -1488,7 +1488,7 @@ window.SONG_DATA.push(
     {
   "title": "軌跡",
   "artist": "Roselia",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=21",
   "source": "naraetan.js"
@@ -1496,7 +1496,7 @@ window.SONG_DATA.push(
     {
   "title": "僕が一番欲しかったもの",
   "artist": "槇原敬之",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=22",
   "source": "naraetan.js"
@@ -1504,7 +1504,7 @@ window.SONG_DATA.push(
     {
   "title": "Butter-Fly",
   "artist": "和田光司",
-  "collection": "[2026-01-01]新年初歌枠！元気を届ける🎍✨[j_exchLMXHw][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "naraetan.js"
@@ -1512,7 +1512,7 @@ window.SONG_DATA.push(
     {
   "title": "さぁ",
   "artist": "SURFACE",
-  "collection": "[2026-01-01]新年初歌枠！元気を届ける🎍✨[j_exchLMXHw][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "naraetan.js"
@@ -1520,7 +1520,7 @@ window.SONG_DATA.push(
     {
   "title": "いーあるふぁんくらぶ",
   "artist": "みきとP",
-  "collection": "[2026-01-01]新年初歌枠！元気を届ける🎍✨[j_exchLMXHw][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "naraetan.js"
@@ -1528,7 +1528,7 @@ window.SONG_DATA.push(
     {
   "title": "ロキ",
   "artist": "みきとP",
-  "collection": "[2026-01-01]新年初歌枠！元気を届ける🎍✨[j_exchLMXHw][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "naraetan.js"
@@ -1536,7 +1536,7 @@ window.SONG_DATA.push(
     {
   "title": "115万キロのフィルム",
   "artist": "Official 髭男dism",
-  "collection": "[2026-01-01]新年初歌枠！元気を届ける🎍✨[j_exchLMXHw][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=5",
   "source": "naraetan.js"
@@ -1544,7 +1544,7 @@ window.SONG_DATA.push(
     {
   "title": "祝福",
   "artist": "YOASOBI",
-  "collection": "[2026-01-01]新年初歌枠！元気を届ける🎍✨[j_exchLMXHw][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=6",
   "source": "naraetan.js"
@@ -1552,7 +1552,7 @@ window.SONG_DATA.push(
     {
   "title": "Letters to ME",
   "artist": "LiSA",
-  "collection": "[2026-01-01]新年初歌枠！元気を届ける🎍✨[j_exchLMXHw][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=7",
   "source": "naraetan.js"
@@ -1560,7 +1560,7 @@ window.SONG_DATA.push(
     {
   "title": "天城越え",
   "artist": "石川さゆり",
-  "collection": "[2026-01-01]新年初歌枠！元気を届ける🎍✨[j_exchLMXHw][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=8",
   "source": "naraetan.js"
@@ -1568,7 +1568,7 @@ window.SONG_DATA.push(
     {
   "title": "私は最強",
   "artist": "Ado",
-  "collection": "[2026-01-01]新年初歌枠！元気を届ける🎍✨[j_exchLMXHw][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=9",
   "source": "naraetan.js"
@@ -1576,7 +1576,7 @@ window.SONG_DATA.push(
     {
   "title": "シル・ヴ・プレジデント",
   "artist": "P丸様。",
-  "collection": "[2026-01-01]新年初歌枠！元気を届ける🎍✨[j_exchLMXHw][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=10",
   "source": "naraetan.js"
@@ -1584,7 +1584,7 @@ window.SONG_DATA.push(
     {
   "title": "おどるポンポコリン",
   "artist": "B.B.クィンズ",
-  "collection": "[2026-01-01]新年初歌枠！元気を届ける🎍✨[j_exchLMXHw][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=11",
   "source": "naraetan.js"
@@ -1592,7 +1592,7 @@ window.SONG_DATA.push(
     {
   "title": "I'm so happy",
   "artist": "Janne Da Arc",
-  "collection": "[2026-01-01]新年初歌枠！元気を届ける🎍✨[j_exchLMXHw][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=12",
   "source": "naraetan.js"
@@ -1600,7 +1600,7 @@ window.SONG_DATA.push(
     {
   "title": "花束",
   "artist": "back number",
-  "collection": "[2026-01-03]土曜日の深夜歌枠🧧[vCnyeDS-Vh0][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "naraetan.js"
@@ -1608,7 +1608,7 @@ window.SONG_DATA.push(
     {
   "title": "Love Chronicle",
   "artist": "Changin' My Life",
-  "collection": "[2026-01-03]土曜日の深夜歌枠🧧[vCnyeDS-Vh0][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "naraetan.js"
@@ -1616,7 +1616,7 @@ window.SONG_DATA.push(
     {
   "title": "アヤノの幸福理論",
   "artist": "じん",
-  "collection": "[2026-01-03]土曜日の深夜歌枠🧧[vCnyeDS-Vh0][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "naraetan.js"
@@ -1624,7 +1624,7 @@ window.SONG_DATA.push(
     {
   "title": "Refrain",
   "artist": "Aimer",
-  "collection": "[2026-01-03]土曜日の深夜歌枠🧧[vCnyeDS-Vh0][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "naraetan.js"
@@ -1632,7 +1632,7 @@ window.SONG_DATA.push(
     {
   "title": "For フルーツバスケット",
   "artist": "岡崎律子",
-  "collection": "[2026-01-03]土曜日の深夜歌枠🧧[vCnyeDS-Vh0][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=5",
   "source": "naraetan.js"
@@ -1640,7 +1640,7 @@ window.SONG_DATA.push(
     {
   "title": "わかっていたはず",
   "artist": "佐藤朱美",
-  "collection": "[2026-01-03]土曜日の深夜歌枠🧧[vCnyeDS-Vh0][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=6",
   "source": "naraetan.js"
@@ -1648,7 +1648,7 @@ window.SONG_DATA.push(
     {
   "title": "ロビンソン",
   "artist": "スピッツ",
-  "collection": "[2026-01-03]土曜日の深夜歌枠🧧[vCnyeDS-Vh0][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=7",
   "source": "naraetan.js"
@@ -1656,7 +1656,7 @@ window.SONG_DATA.push(
     {
   "title": "楓",
   "artist": "スピッツ",
-  "collection": "[2026-01-03]土曜日の深夜歌枠🧧[vCnyeDS-Vh0][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=8",
   "source": "naraetan.js"
@@ -1664,7 +1664,7 @@ window.SONG_DATA.push(
     {
   "title": "愛の星",
   "artist": "水樹奈々",
-  "collection": "[2026-01-03]土曜日の深夜歌枠🧧[vCnyeDS-Vh0][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=9",
   "source": "naraetan.js"
@@ -1672,7 +1672,7 @@ window.SONG_DATA.push(
     {
   "title": "春はゆく",
   "artist": "Aimer",
-  "collection": "[2026-01-03]土曜日の深夜歌枠🧧[vCnyeDS-Vh0][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=10",
   "source": "naraetan.js"
@@ -1680,7 +1680,7 @@ window.SONG_DATA.push(
     {
   "title": "桜流し",
   "artist": "宇多田ヒカル",
-  "collection": "[2026-01-03]土曜日の深夜歌枠🧧[vCnyeDS-Vh0][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=11",
   "source": "naraetan.js"
@@ -1688,7 +1688,7 @@ window.SONG_DATA.push(
     {
   "title": "夜に駆ける",
   "artist": "YOASOBI",
-  "collection": "[2026-01-06]YOASOBIさん縛り歌枠💓🎤YOASOBI–only[KROhHaQNGn0][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "naraetan.js"
@@ -1696,7 +1696,7 @@ window.SONG_DATA.push(
     {
   "title": "アンコール",
   "artist": "YOASOBI",
-  "collection": "[2026-01-06]YOASOBIさん縛り歌枠💓🎤YOASOBI–only[KROhHaQNGn0][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "naraetan.js"
@@ -1704,7 +1704,7 @@ window.SONG_DATA.push(
     {
   "title": "群青",
   "artist": "YOASOBI",
-  "collection": "[2026-01-06]YOASOBIさん縛り歌枠💓🎤YOASOBI–only[KROhHaQNGn0][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "naraetan.js"
@@ -1712,7 +1712,7 @@ window.SONG_DATA.push(
     {
   "title": "あの夢をなぞって",
   "artist": "YOASOBI",
-  "collection": "[2026-01-06]YOASOBIさん縛り歌枠💓🎤YOASOBI–only[KROhHaQNGn0][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "naraetan.js"
@@ -1720,7 +1720,7 @@ window.SONG_DATA.push(
     {
   "title": "ハルジオン",
   "artist": "YOASOBI",
-  "collection": "[2026-01-06]YOASOBIさん縛り歌枠💓🎤YOASOBI–only[KROhHaQNGn0][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=5",
   "source": "naraetan.js"
@@ -1728,7 +1728,7 @@ window.SONG_DATA.push(
     {
   "title": "勇者",
   "artist": "YOASOBI",
-  "collection": "[2026-01-06]YOASOBIさん縛り歌枠💓🎤YOASOBI–only[KROhHaQNGn0][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=6",
   "source": "naraetan.js"
@@ -1736,7 +1736,7 @@ window.SONG_DATA.push(
     {
   "title": "たぶん",
   "artist": "YOASOBI",
-  "collection": "[2026-01-06]YOASOBIさん縛り歌枠💓🎤YOASOBI–only[KROhHaQNGn0][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=7",
   "source": "naraetan.js"
@@ -1744,7 +1744,7 @@ window.SONG_DATA.push(
     {
   "title": "怪物",
   "artist": "YOASOBI",
-  "collection": "[2026-01-06]YOASOBIさん縛り歌枠💓🎤YOASOBI–only[KROhHaQNGn0][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=8",
   "source": "naraetan.js"
@@ -1752,7 +1752,7 @@ window.SONG_DATA.push(
     {
   "title": "祝福",
   "artist": "YOASOBI",
-  "collection": "[2026-01-06]YOASOBIさん縛り歌枠💓🎤YOASOBI–only[KROhHaQNGn0][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=9",
   "source": "naraetan.js"
@@ -1760,7 +1760,7 @@ window.SONG_DATA.push(
     {
   "title": "UNDEAD",
   "artist": "YOASOBI",
-  "collection": "[2026-01-06]YOASOBIさん縛り歌枠💓🎤YOASOBI–only[KROhHaQNGn0][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=10",
   "source": "naraetan.js"
@@ -1768,7 +1768,7 @@ window.SONG_DATA.push(
     {
   "title": "アドレナ",
   "artist": "YOASOBI",
-  "collection": "[2026-01-06]YOASOBIさん縛り歌枠💓🎤YOASOBI–only[KROhHaQNGn0][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=11",
   "source": "naraetan.js"
@@ -1776,7 +1776,7 @@ window.SONG_DATA.push(
     {
   "title": "アイドル",
   "artist": "YOASOBI",
-  "collection": "[2026-01-06]YOASOBIさん縛り歌枠💓🎤YOASOBI–only[KROhHaQNGn0][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=12",
   "source": "naraetan.js"
@@ -1784,7 +1784,7 @@ window.SONG_DATA.push(
     {
   "title": "カクテル",
   "artist": "Hysteric Blue",
-  "collection": "[2026-01-09]気ままに歌う金曜日[FmZAKo9Aq-Q][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "naraetan.js"
@@ -1792,7 +1792,7 @@ window.SONG_DATA.push(
     {
   "title": "innocent starter",
   "artist": "水樹奈々",
-  "collection": "[2026-01-09]気ままに歌う金曜日[FmZAKo9Aq-Q][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "naraetan.js"
@@ -1800,7 +1800,7 @@ window.SONG_DATA.push(
     {
   "title": "Wind Climbing ～風にあそばれて～",
   "artist": "奥井亜紀",
-  "collection": "[2026-01-09]気ままに歌う金曜日[FmZAKo9Aq-Q][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "naraetan.js"
@@ -1808,7 +1808,7 @@ window.SONG_DATA.push(
     {
   "title": "シュガーソングとビターステップ",
   "artist": "UNISON SQUARE GARDEN",
-  "collection": "[2026-01-09]気ままに歌う金曜日[FmZAKo9Aq-Q][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "naraetan.js"
@@ -1816,7 +1816,7 @@ window.SONG_DATA.push(
     {
   "title": "アドレナ",
   "artist": "YOASOBI",
-  "collection": "[2026-01-09]気ままに歌う金曜日[FmZAKo9Aq-Q][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=5",
   "source": "naraetan.js"
@@ -1824,7 +1824,7 @@ window.SONG_DATA.push(
     {
   "title": "ワタリドリ",
   "artist": "『Alexandros』",
-  "collection": "[2026-01-09]気ままに歌う金曜日[FmZAKo9Aq-Q][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=6",
   "source": "naraetan.js"
@@ -1832,7 +1832,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "[2026-01-09]気ままに歌う金曜日[FmZAKo9Aq-Q][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=7",
   "source": "naraetan.js"
@@ -1840,7 +1840,7 @@ window.SONG_DATA.push(
     {
   "title": "楓",
   "artist": "スピッツ(2)",
-  "collection": "[2026-01-09]気ままに歌う金曜日[FmZAKo9Aq-Q][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=8",
   "source": "naraetan.js"
@@ -1848,7 +1848,7 @@ window.SONG_DATA.push(
     {
   "title": "c／2022YH",
   "artist": "ユンナ",
-  "collection": "[2026-01-09]気ままに歌う金曜日[FmZAKo9Aq-Q][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=9",
   "source": "naraetan.js"
@@ -1856,7 +1856,7 @@ window.SONG_DATA.push(
     {
   "title": "愛♡スクリーム!",
   "artist": "AiScReam",
-  "collection": "[2026-01-09]気ままに歌う金曜日[FmZAKo9Aq-Q][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=10",
   "source": "naraetan.js"
@@ -1864,7 +1864,7 @@ window.SONG_DATA.push(
     {
   "title": "コットンキャンディえいえいおー!",
   "artist": "黒澤ルビィ(降幡愛)",
-  "collection": "[2026-01-09]気ままに歌う金曜日[FmZAKo9Aq-Q][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=11",
   "source": "naraetan.js"
@@ -1872,495 +1872,495 @@ window.SONG_DATA.push(
     {
   "title": "あなたがいた森",
   "artist": "樹海",
-  "collection": "[2026-01-10]土曜日の深夜歌枠🍵Saturday late-night singing stream[NA[なれたん Naraetan Ch.🌷]",
-  "up": "NA[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/e?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "大好きだよ。",
   "artist": "大塚愛",
-  "collection": "[2026-01-10]土曜日の深夜歌枠🍵Saturday late-night singing stream[NA[なれたん Naraetan Ch.🌷]",
-  "up": "NA[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/e?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "アンインストール",
   "artist": "石川智晶",
-  "collection": "[2026-01-10]土曜日の深夜歌枠🍵Saturday late-night singing stream[NA[なれたん Naraetan Ch.🌷]",
-  "up": "NA[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/e?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "あんなに一緒だったのに",
   "artist": "See-Saw",
-  "collection": "[2026-01-10]土曜日の深夜歌枠🍵Saturday late-night singing stream[NA[なれたん Naraetan Ch.🌷]",
-  "up": "NA[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/e?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "あんずの花",
   "artist": "すりぃ",
-  "collection": "[2026-01-10]土曜日の深夜歌枠🍵Saturday late-night singing stream[NA[なれたん Naraetan Ch.🌷]",
-  "up": "NA[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/e?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "いのちの名前",
   "artist": "木村弓",
-  "collection": "[2026-01-10]土曜日の深夜歌枠🍵Saturday late-night singing stream[NA[なれたん Naraetan Ch.🌷]",
-  "up": "NA[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/e?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "Plastic Love",
   "artist": "竹内まりや",
-  "collection": "[2026-01-10]土曜日の深夜歌枠🍵Saturday late-night singing stream[NA[なれたん Naraetan Ch.🌷]",
-  "up": "NA[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/e?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "Square(2017)",
   "artist": "Yerin Baek",
-  "collection": "[2026-01-10]土曜日の深夜歌枠🍵Saturday late-night singing stream[NA[なれたん Naraetan Ch.🌷]",
-  "up": "NA[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/e?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "猫",
   "artist": "DISH／／",
-  "collection": "[2026-01-10]土曜日の深夜歌枠🍵Saturday late-night singing stream[NA[なれたん Naraetan Ch.🌷]",
-  "up": "NA[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/e?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "僕が一番欲しかったもの",
   "artist": "槇原敬之",
-  "collection": "[2026-01-10]土曜日の深夜歌枠🍵Saturday late-night singing stream[NA[なれたん Naraetan Ch.🌷]",
-  "up": "NA[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/e?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "Sweet Dreams, My Dear",
   "artist": "SoHyang",
-  "collection": "[2026-01-10]土曜日の深夜歌枠🍵Saturday late-night singing stream[NA[なれたん Naraetan Ch.🌷]",
-  "up": "NA[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/e?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "希望峰",
   "artist": "Strawberry JAM",
-  "collection": "[2026-01-10]土曜日の深夜歌枠🍵Saturday late-night singing stream[NA[なれたん Naraetan Ch.🌷]",
-  "up": "NA[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/e?p=12",
   "source": "naraetan.js"
 },
     {
   "title": "三日月",
   "artist": "絢香",
-  "collection": "[2026-01-10]土曜日の深夜歌枠🍵Saturday late-night singing stream[NA[なれたん Naraetan Ch.🌷]",
-  "up": "NA[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/e?p=13",
   "source": "naraetan.js"
 },
     {
   "title": "God knows...",
   "artist": "涼宮ハルヒ(平野綾)",
-  "collection": "[2026-01-10]土曜日の深夜歌枠🍵Saturday late-night singing stream[NA[なれたん Naraetan Ch.🌷]",
-  "up": "NA[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/e?p=14",
   "source": "naraetan.js"
 },
     {
   "title": "コネクト",
   "artist": "ClariS",
-  "collection": "[2026-01-10]土曜日の深夜歌枠🍵Saturday late-night singing stream[NA[なれたん Naraetan Ch.🌷]",
-  "up": "NA[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/e?p=15",
   "source": "naraetan.js"
 },
     {
   "title": "可愛くてごめん",
   "artist": "HoneyWorks",
-  "collection": "[2026-01-14]キュートをお届け！歌枠💝Delivering cuteness! KARAOKE[-eNT5[なれたん Naraetan Ch.🌷]",
-  "up": "-eNT5[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "恋愛サーキュレーション",
   "artist": "千石撫子(CV.花澤香菜)",
-  "collection": "[2026-01-14]キュートをお届け！歌枠💝Delivering cuteness! KARAOKE[-eNT5[なれたん Naraetan Ch.🌷]",
-  "up": "-eNT5[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "わたしの一番かわいいところ",
   "artist": "FRUITS ZIPPER",
-  "collection": "[2026-01-14]キュートをお届け！歌枠💝Delivering cuteness! KARAOKE[-eNT5[なれたん Naraetan Ch.🌷]",
-  "up": "-eNT5[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "愛♡スクリーム!",
   "artist": "AiScReam",
-  "collection": "[2026-01-14]キュートをお届け！歌枠💝Delivering cuteness! KARAOKE[-eNT5[なれたん Naraetan Ch.🌷]",
-  "up": "-eNT5[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "Cagayake!GIRLS",
   "artist": "放課後ティータイム",
-  "collection": "[2026-01-14]キュートをお届け！歌枠💝Delivering cuteness! KARAOKE[-eNT5[なれたん Naraetan Ch.🌷]",
-  "up": "-eNT5[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "U&I",
   "artist": "放課後ティータイム",
-  "collection": "[2026-01-14]キュートをお届け！歌枠💝Delivering cuteness! KARAOKE[-eNT5[なれたん Naraetan Ch.🌷]",
-  "up": "-eNT5[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "トウキョウ・シャンディ・ランデヴ",
   "artist": "MAISONdes",
-  "collection": "[2026-01-14]キュートをお届け！歌枠💝Delivering cuteness! KARAOKE[-eNT5[なれたん Naraetan Ch.🌷]",
-  "up": "-eNT5[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "はじめて♡しましょ!",
   "artist": "釘宮理恵",
-  "collection": "[2026-01-14]キュートをお届け！歌枠💝Delivering cuteness! KARAOKE[-eNT5[なれたん Naraetan Ch.🌷]",
-  "up": "-eNT5[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "スキキライ!スキ!!!",
   "artist": "ルイズ・フランソワーズ・ル・ブラン・ド・ラ・ヴァリエール(釘宮理恵)",
-  "collection": "[2026-01-14]キュートをお届け！歌枠💝Delivering cuteness! KARAOKE[-eNT5[なれたん Naraetan Ch.🌷]",
-  "up": "-eNT5[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "アドレナ",
   "artist": "YOASOBI",
-  "collection": "[2026-01-14]キュートをお届け！歌枠💝Delivering cuteness! KARAOKE[-eNT5[なれたん Naraetan Ch.🌷]",
-  "up": "-eNT5[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "adrenaline!!!",
   "artist": "TrySail",
-  "collection": "[2026-01-14]キュートをお届け！歌枠💝Delivering cuteness! KARAOKE[-eNT5[なれたん Naraetan Ch.🌷]",
-  "up": "-eNT5[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "ヒトリノ夜",
   "artist": "ポルノグラフィティ",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "オリオンをなぞる",
   "artist": "UNISON SQUARE GARDEN",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "サウダージ",
   "artist": "ポルノグラフィティ",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "インフェルノ",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "怪獣の花唄",
   "artist": "Vaundy",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "courage",
   "artist": "戸松遥",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "Hacking to the Gate",
   "artist": "いとうかなこ",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "NO, Thank You!",
   "artist": "放課後ティータイム",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "only my railgun",
   "artist": "fripSide",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "新時代",
   "artist": "Ado",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "Crossing Field",
   "artist": "LiSA",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "白銀",
   "artist": "LiSA",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=12",
   "source": "naraetan.js"
 },
     {
   "title": "花になって",
   "artist": "緑黄色社会",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=13",
   "source": "naraetan.js"
 },
     {
   "title": "革命道中",
   "artist": "アイナ・ジ・エンド",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=14",
   "source": "naraetan.js"
 },
     {
   "title": "IRIS OUT",
   "artist": "米津玄師",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=15",
   "source": "naraetan.js"
 },
     {
   "title": "Pretender",
   "artist": "Official髭男dism",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=16",
   "source": "naraetan.js"
 },
     {
   "title": "you",
   "artist": "癒月",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=17",
   "source": "naraetan.js"
 },
     {
   "title": "ENDLESS STORY",
   "artist": "REIRA starring YUNA ITO",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=18",
   "source": "naraetan.js"
 },
     {
   "title": "楓",
   "artist": "スピッツ",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=19",
   "source": "naraetan.js"
 },
     {
   "title": "隣に…",
   "artist": "三浦あずさ(たかはし智秋)",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=20",
   "source": "naraetan.js"
 },
     {
   "title": "なんでもないや(movie edit ver.)",
   "artist": "RADWIMPS",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=21",
   "source": "naraetan.js"
 },
     {
   "title": "狂乱Hey Kids!!",
   "artist": "THE ORAL CIGARETTES",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=22",
   "source": "naraetan.js"
 },
     {
   "title": "許婚っきゅん",
   "artist": "ano",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=23",
   "source": "naraetan.js"
 },
     {
   "title": "Hello, Worker",
   "artist": "KEI",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=24",
   "source": "naraetan.js"
 },
     {
   "title": "Grip!",
   "artist": "Every Little Thing",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=25",
   "source": "naraetan.js"
 },
     {
   "title": "Sincerely",
   "artist": "TRUE",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=26",
   "source": "naraetan.js"
 },
     {
   "title": "DUET",
   "artist": "ZICO & 幾田りら",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=27",
   "source": "naraetan.js"
 },
     {
   "title": "好きすぎて滅!",
   "artist": "M!LK",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=28",
   "source": "naraetan.js"
 },
     {
   "title": "シフクノトキ",
   "artist": "LiSA",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=29",
   "source": "naraetan.js"
 },
     {
   "title": "妄想感傷代償連盟",
   "artist": "DECO27",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=30",
   "source": "naraetan.js"
 },
     {
   "title": "すずめ",
   "artist": "RADWIMPS feat.十明",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=31",
   "source": "naraetan.js"
 },
     {
   "title": "月灯りふんわり落ちてくる夜",
   "artist": "小川七生",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=32",
   "source": "naraetan.js"
 },
     {
   "title": "remember",
   "artist": "Uru",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=33",
   "source": "naraetan.js"
 },
     {
   "title": "娘々サービスメドレー(特盛り)",
   "artist": "マクロスフロンティアより",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=34",
   "source": "naraetan.js"
 },
     {
   "title": "uni-verse",
   "artist": "オーイシマサヨシ",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=35",
   "source": "naraetan.js"
 },
     {
   "title": "夢の中へ",
   "artist": "井上陽水",
-  "collection": "[2026-01-17]土曜日の深夜歌枠🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "naraetan.js"
@@ -2368,7 +2368,7 @@ window.SONG_DATA.push(
     {
   "title": "プラチナ",
   "artist": "坂本真綾",
-  "collection": "[2026-01-17]土曜日の深夜歌枠🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "naraetan.js"
@@ -2376,7 +2376,7 @@ window.SONG_DATA.push(
     {
   "title": "たばこ",
   "artist": "コレサワ",
-  "collection": "[2026-01-17]土曜日の深夜歌枠🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "naraetan.js"
@@ -2384,7 +2384,7 @@ window.SONG_DATA.push(
     {
   "title": "恋人失格",
   "artist": "コレサワ",
-  "collection": "[2026-01-17]土曜日の深夜歌枠🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "naraetan.js"
@@ -2392,7 +2392,7 @@ window.SONG_DATA.push(
     {
   "title": "glow",
   "artist": "keeno",
-  "collection": "[2026-01-17]土曜日の深夜歌枠🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=5",
   "source": "naraetan.js"
@@ -2400,7 +2400,7 @@ window.SONG_DATA.push(
     {
   "title": "有心論",
   "artist": "RADWIMPS",
-  "collection": "[2026-01-17]土曜日の深夜歌枠🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=6",
   "source": "naraetan.js"
@@ -2408,7 +2408,7 @@ window.SONG_DATA.push(
     {
   "title": "星になる",
   "artist": "Islet feat.倚水",
-  "collection": "[2026-01-17]土曜日の深夜歌枠🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=7",
   "source": "naraetan.js"
@@ -2416,7 +2416,7 @@ window.SONG_DATA.push(
     {
   "title": "U",
   "artist": "EOW",
-  "collection": "[2026-01-17]土曜日の深夜歌枠🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=8",
   "source": "naraetan.js"
@@ -2424,7 +2424,7 @@ window.SONG_DATA.push(
     {
   "title": "ラブソング",
   "artist": "サンボマスター",
-  "collection": "[2026-01-17]土曜日の深夜歌枠🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=9",
   "source": "naraetan.js"
@@ -2432,7 +2432,7 @@ window.SONG_DATA.push(
     {
   "title": "春よ、来い",
   "artist": "松任谷由実",
-  "collection": "[2026-01-17]土曜日の深夜歌枠🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=10",
   "source": "naraetan.js"
@@ -2440,7 +2440,7 @@ window.SONG_DATA.push(
     {
   "title": "空の青さを知る人よ",
   "artist": "あいみょん",
-  "collection": "[2026-01-17]土曜日の深夜歌枠🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=11",
   "source": "naraetan.js"
@@ -2448,7 +2448,7 @@ window.SONG_DATA.push(
     {
   "title": "さよならメモリーズ",
   "artist": "supercell",
-  "collection": "[2026-01-17]土曜日の深夜歌枠🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=12",
   "source": "naraetan.js"
@@ -2456,7 +2456,7 @@ window.SONG_DATA.push(
     {
   "title": "Snow rain",
   "artist": "八神はやて(植田佳奈)",
-  "collection": "[2026-01-17]土曜日の深夜歌枠🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=13",
   "source": "naraetan.js"
@@ -2464,7 +2464,7 @@ window.SONG_DATA.push(
     {
   "title": "一番の宝物 ～Yui final ver.～",
   "artist": "LiSA",
-  "collection": "[2026-01-17]土曜日の深夜歌枠🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=14",
   "source": "naraetan.js"
@@ -2472,7 +2472,7 @@ window.SONG_DATA.push(
     {
   "title": "森の小さなレストラン",
   "artist": "手嶌葵",
-  "collection": "[2026-01-17]土曜日の深夜歌枠🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=15",
   "source": "naraetan.js"
@@ -2480,103 +2480,103 @@ window.SONG_DATA.push(
     {
   "title": "ピースサイン",
   "artist": "米津玄師",
-  "collection": "[2026-01-20]縦型配信で歌うよ🎙️I’ll sing in a vertical stream[PDBIi[なれたん Naraetan Ch.🌷]",
-  "up": "PDBIi[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "君はロックを聴かない",
   "artist": "あいみょん",
-  "collection": "[2026-01-20]縦型配信で歌うよ🎙️I’ll sing in a vertical stream[PDBIi[なれたん Naraetan Ch.🌷]",
-  "up": "PDBIi[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "DAN DAN 心魅かれてく",
   "artist": "FIELD OF VIEW",
-  "collection": "[2026-01-20]縦型配信で歌うよ🎙️I’ll sing in a vertical stream[PDBIi[なれたん Naraetan Ch.🌷]",
-  "up": "PDBIi[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "創聖のアクエリオン",
   "artist": "AKINO",
-  "collection": "[2026-01-20]縦型配信で歌うよ🎙️I’ll sing in a vertical stream[PDBIi[なれたん Naraetan Ch.🌷]",
-  "up": "PDBIi[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "恋",
   "artist": "星野源",
-  "collection": "[2026-01-20]縦型配信で歌うよ🎙️I’ll sing in a vertical stream[PDBIi[なれたん Naraetan Ch.🌷]",
-  "up": "PDBIi[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "ミックスナッツ",
   "artist": "Official髭男dism",
-  "collection": "[2026-01-20]縦型配信で歌うよ🎙️I’ll sing in a vertical stream[PDBIi[なれたん Naraetan Ch.🌷]",
-  "up": "PDBIi[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "星座になれたら",
   "artist": "結束バンド",
-  "collection": "[2026-01-20]縦型配信で歌うよ🎙️I’ll sing in a vertical stream[PDBIi[なれたん Naraetan Ch.🌷]",
-  "up": "PDBIi[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "LADYBUG",
   "artist": "緑黄色社会",
-  "collection": "[2026-01-20]縦型配信で歌うよ🎙️I’ll sing in a vertical stream[PDBIi[なれたん Naraetan Ch.🌷]",
-  "up": "PDBIi[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "優しさの理由",
   "artist": "ChouCho",
-  "collection": "[2026-01-20]縦型配信で歌うよ🎙️I’ll sing in a vertical stream[PDBIi[なれたん Naraetan Ch.🌷]",
-  "up": "PDBIi[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "さくらんぼ",
   "artist": "大塚愛",
-  "collection": "[2026-01-20]縦型配信で歌うよ🎙️I’ll sing in a vertical stream[PDBIi[なれたん Naraetan Ch.🌷]",
-  "up": "PDBIi[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "Mela!",
   "artist": "緑黄色社会",
-  "collection": "[2026-01-20]縦型配信で歌うよ🎙️I’ll sing in a vertical stream[PDBIi[なれたん Naraetan Ch.🌷]",
-  "up": "PDBIi[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "Over Soul",
   "artist": "林原めぐみ",
-  "collection": "[2026-01-20]縦型配信で歌うよ🎙️I’ll sing in a vertical stream[PDBIi[なれたん Naraetan Ch.🌷]",
-  "up": "PDBIi[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=12",
   "source": "naraetan.js"
 },
     {
   "title": "Cagayake!GIRLS",
   "artist": "放課後ティータイム",
-  "collection": "[2026-01-21]だぁい好きなのはアニソン縛り歌枠🐹What I really love is an anim[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "naraetan.js"
@@ -2584,7 +2584,7 @@ window.SONG_DATA.push(
     {
   "title": "ギターと孤独と蒼い惑星",
   "artist": "結束バンド",
-  "collection": "[2026-01-21]だぁい好きなのはアニソン縛り歌枠🐹What I really love is an anim[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "naraetan.js"
@@ -2592,7 +2592,7 @@ window.SONG_DATA.push(
     {
   "title": "ゆずれない願い",
   "artist": "田村直美",
-  "collection": "[2026-01-21]だぁい好きなのはアニソン縛り歌枠🐹What I really love is an anim[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "naraetan.js"
@@ -2600,7 +2600,7 @@ window.SONG_DATA.push(
     {
   "title": "バラライカ",
   "artist": "月島きらり starring 久住小春",
-  "collection": "[2026-01-21]だぁい好きなのはアニソン縛り歌枠🐹What I really love is an anim[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "naraetan.js"
@@ -2608,7 +2608,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒャダインのカカカタ☆カタオモイ-C",
   "artist": "ヒャダイン",
-  "collection": "[2026-01-21]だぁい好きなのはアニソン縛り歌枠🐹What I really love is an anim[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=5",
   "source": "naraetan.js"
@@ -2616,7 +2616,7 @@ window.SONG_DATA.push(
     {
   "title": "全力☆Summer!",
   "artist": "angela",
-  "collection": "[2026-01-21]だぁい好きなのはアニソン縛り歌枠🐹What I really love is an anim[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=6",
   "source": "naraetan.js"
@@ -2624,7 +2624,7 @@ window.SONG_DATA.push(
     {
   "title": "君の知らない物語",
   "artist": "supercell",
-  "collection": "[2026-01-21]だぁい好きなのはアニソン縛り歌枠🐹What I really love is an anim[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=7",
   "source": "naraetan.js"
@@ -2632,7 +2632,7 @@ window.SONG_DATA.push(
     {
   "title": "Shangri-La",
   "artist": "angela",
-  "collection": "[2026-01-21]だぁい好きなのはアニソン縛り歌枠🐹What I really love is an anim[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=8",
   "source": "naraetan.js"
@@ -2640,7 +2640,7 @@ window.SONG_DATA.push(
     {
   "title": "ADAMAS",
   "artist": "LiSA",
-  "collection": "[2026-01-21]だぁい好きなのはアニソン縛り歌枠🐹What I really love is an anim[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=9",
   "source": "naraetan.js"
@@ -2648,7 +2648,7 @@ window.SONG_DATA.push(
     {
   "title": "CANDY☆POP☆SWEET☆HEART",
   "artist": "新谷良子",
-  "collection": "[2026-01-21]だぁい好きなのはアニソン縛り歌枠🐹What I really love is an anim[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=10",
   "source": "naraetan.js"
@@ -2656,7 +2656,7 @@ window.SONG_DATA.push(
     {
   "title": "お願いマッスル",
   "artist": "紗倉ひびき(ファイルーズあい) & 街雄鳴造(石川界人)",
-  "collection": "[2026-01-21]だぁい好きなのはアニソン縛り歌枠🐹What I really love is an anim[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=11",
   "source": "naraetan.js"
@@ -2664,7 +2664,7 @@ window.SONG_DATA.push(
     {
   "title": "シリウス",
   "artist": "藍井エイル",
-  "collection": "[2026-01-21]だぁい好きなのはアニソン縛り歌枠🐹What I really love is an anim[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=12",
   "source": "naraetan.js"
@@ -2672,7 +2672,7 @@ window.SONG_DATA.push(
     {
   "title": "集結の園へ",
   "artist": "林原めぐみ",
-  "collection": "[2026-01-21]だぁい好きなのはアニソン縛り歌枠🐹What I really love is an anim[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=13",
   "source": "naraetan.js"
@@ -2680,7 +2680,7 @@ window.SONG_DATA.push(
     {
   "title": "甲賀忍法帖",
   "artist": "陰陽座",
-  "collection": "[2026-01-21]だぁい好きなのはアニソン縛り歌枠🐹What I really love is an anim[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=14",
   "source": "naraetan.js"
@@ -2688,7 +2688,7 @@ window.SONG_DATA.push(
     {
   "title": "残響散歌",
   "artist": "Aimer",
-  "collection": "[2026-01-27]アルコール弱い人の飲酒歌枠🥴🍺Lightweight drinking & KARAOKE[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "naraetan.js"
@@ -2696,7 +2696,7 @@ window.SONG_DATA.push(
     {
   "title": "Speaking",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "[2026-01-27]アルコール弱い人の飲酒歌枠🥴🍺Lightweight drinking & KARAOKE[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "naraetan.js"
@@ -2704,7 +2704,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ",
-  "collection": "[2026-01-27]アルコール弱い人の飲酒歌枠🥴🍺Lightweight drinking & KARAOKE[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "naraetan.js"
@@ -2712,7 +2712,7 @@ window.SONG_DATA.push(
     {
   "title": "ハレ晴レユカイ",
   "artist": "涼宮ハルヒ(平野綾), 長門有希(茅原実里), 朝比奈みくる(後藤邑子)",
-  "collection": "[2026-01-27]アルコール弱い人の飲酒歌枠🥴🍺Lightweight drinking & KARAOKE[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "naraetan.js"
@@ -2720,7 +2720,7 @@ window.SONG_DATA.push(
     {
   "title": "少女レイ",
   "artist": "みきとP",
-  "collection": "[2026-01-27]アルコール弱い人の飲酒歌枠🥴🍺Lightweight drinking & KARAOKE[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=5",
   "source": "naraetan.js"
@@ -2728,7 +2728,7 @@ window.SONG_DATA.push(
     {
   "title": "ビビデバ",
   "artist": "星街すいせい",
-  "collection": "[2026-01-27]アルコール弱い人の飲酒歌枠🥴🍺Lightweight drinking & KARAOKE[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=6",
   "source": "naraetan.js"
@@ -2736,7 +2736,7 @@ window.SONG_DATA.push(
     {
   "title": "革命道中",
   "artist": "アイナ・ジ・エンド",
-  "collection": "[2026-01-27]アルコール弱い人の飲酒歌枠🥴🍺Lightweight drinking & KARAOKE[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=7",
   "source": "naraetan.js"
@@ -2744,7 +2744,7 @@ window.SONG_DATA.push(
     {
   "title": "DUET",
   "artist": "ZICO & 幾田りら",
-  "collection": "[2026-01-27]アルコール弱い人の飲酒歌枠🥴🍺Lightweight drinking & KARAOKE[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=8",
   "source": "naraetan.js"
@@ -2752,7 +2752,7 @@ window.SONG_DATA.push(
     {
   "title": "小さな恋のうた",
   "artist": "MONGOL800",
-  "collection": "[2026-01-27]アルコール弱い人の飲酒歌枠🥴🍺Lightweight drinking & KARAOKE[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=9",
   "source": "naraetan.js"
@@ -2760,7 +2760,7 @@ window.SONG_DATA.push(
     {
   "title": "Catch the Moment",
   "artist": "LiSA",
-  "collection": "[2026-01-27]アルコール弱い人の飲酒歌枠🥴🍺Lightweight drinking & KARAOKE[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=10",
   "source": "naraetan.js"
@@ -2768,7 +2768,7 @@ window.SONG_DATA.push(
     {
   "title": "ワールドイズマイン",
   "artist": "supercell",
-  "collection": "[2026-01-27]アルコール弱い人の飲酒歌枠🥴🍺Lightweight drinking & KARAOKE[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=11",
   "source": "naraetan.js"
@@ -2776,7 +2776,7 @@ window.SONG_DATA.push(
     {
   "title": "White Reflection",
   "artist": "TWO-MIX",
-  "collection": "[2026-01-27]アルコール弱い人の飲酒歌枠🥴🍺Lightweight drinking & KARAOKE[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=12",
   "source": "naraetan.js"
@@ -2784,7 +2784,7 @@ window.SONG_DATA.push(
     {
   "title": "心做し",
   "artist": "蝶々P feat.GUMI",
-  "collection": "[2026-01-27]アルコール弱い人の飲酒歌枠🥴🍺Lightweight drinking & KARAOKE[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=13",
   "source": "naraetan.js"
@@ -2792,7 +2792,7 @@ window.SONG_DATA.push(
     {
   "title": "オレンジ",
   "artist": "7!!",
-  "collection": "[2026-01-27]アルコール弱い人の飲酒歌枠🥴🍺Lightweight drinking & KARAOKE[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=14",
   "source": "naraetan.js"
@@ -2800,391 +2800,391 @@ window.SONG_DATA.push(
     {
   "title": "CHE.R.RY",
   "artist": "YUI",
-  "collection": "[2026-01-29]一曲聞いてってください💗Please listen to one song[Nu9wHKoN[なれたん Naraetan Ch.🌷]",
-  "up": "Nu9wHKoN[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "都落ち",
   "artist": "ヨルシカ",
-  "collection": "[2026-01-29]一曲聞いてってください💗Please listen to one song[Nu9wHKoN[なれたん Naraetan Ch.🌷]",
-  "up": "Nu9wHKoN[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "花に亡霊",
   "artist": "ヨルシカ",
-  "collection": "[2026-01-29]一曲聞いてってください💗Please listen to one song[Nu9wHKoN[なれたん Naraetan Ch.🌷]",
-  "up": "Nu9wHKoN[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "115万キロのフィルム",
   "artist": "Official髭男dism",
-  "collection": "[2026-01-29]一曲聞いてってください💗Please listen to one song[Nu9wHKoN[なれたん Naraetan Ch.🌷]",
-  "up": "Nu9wHKoN[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "オトノナルホウヘ→",
   "artist": "Goose house",
-  "collection": "[2026-01-29]一曲聞いてってください💗Please listen to one song[Nu9wHKoN[なれたん Naraetan Ch.🌷]",
-  "up": "Nu9wHKoN[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "幾億光年",
   "artist": "omoinotake",
-  "collection": "[2026-01-29]一曲聞いてってください💗Please listen to one song[Nu9wHKoN[なれたん Naraetan Ch.🌷]",
-  "up": "Nu9wHKoN[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "No title",
   "artist": "Reol",
-  "collection": "[2026-01-29]一曲聞いてってください💗Please listen to one song[Nu9wHKoN[なれたん Naraetan Ch.🌷]",
-  "up": "Nu9wHKoN[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "ヒロイン",
   "artist": "back number",
-  "collection": "[2026-01-29]一曲聞いてってください💗Please listen to one song[Nu9wHKoN[なれたん Naraetan Ch.🌷]",
-  "up": "Nu9wHKoN[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "アスノヨゾラ哨戒班",
   "artist": "Orangestar",
-  "collection": "[2026-01-29]一曲聞いてってください💗Please listen to one song[Nu9wHKoN[なれたん Naraetan Ch.🌷]",
-  "up": "Nu9wHKoN[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "君の神話～アクエリオン第二章",
   "artist": "AKINO with bless4",
-  "collection": "[2026-01-29]一曲聞いてってください💗Please listen to one song[Nu9wHKoN[なれたん Naraetan Ch.🌷]",
-  "up": "Nu9wHKoN[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "THERE IS A REASON",
   "artist": "鈴木このみ",
-  "collection": "[2026-01-29]一曲聞いてってください💗Please listen to one song[Nu9wHKoN[なれたん Naraetan Ch.🌷]",
-  "up": "Nu9wHKoN[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "UNDO",
   "artist": "COOL JOKE",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "Plastic Love",
   "artist": "竹内まりや",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "リナリア",
   "artist": "まるりとりゅうが",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "再会",
   "artist": "LiSA×Uru",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "SPiCa",
   "artist": "とくP",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "unravel",
   "artist": "TK from 凛として時雨",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "思い出は億千万",
   "artist": "ゴム",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "恋のヒメヒメぺったんこ",
   "artist": "姫野湖鳥(田村ゆかり)",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "ドレミファロンド",
   "artist": "40mP",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "愛♡スクリーム!",
   "artist": "AiScReam",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "ダンスホール",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "天樂",
   "artist": "ゆうゆ",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=12",
   "source": "naraetan.js"
 },
     {
   "title": "LOUDER",
   "artist": "Roselia",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=13",
   "source": "naraetan.js"
 },
     {
   "title": "あなたのキスを数えましょう ～You were mine～",
   "artist": "小柳ゆき",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=14",
   "source": "naraetan.js"
 },
     {
   "title": "Grip!",
   "artist": "Every Little Thing",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=15",
   "source": "naraetan.js"
 },
     {
   "title": "革命道中",
   "artist": "アイナ・ジ・エンド",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=16",
   "source": "naraetan.js"
 },
     {
   "title": "ツギハギスタッカート",
   "artist": "とあ",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=17",
   "source": "naraetan.js"
 },
     {
   "title": "ロキ",
   "artist": "みきとP",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=18",
   "source": "naraetan.js"
 },
     {
   "title": "IN MY DREAM",
   "artist": "真行寺恵理",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=19",
   "source": "naraetan.js"
 },
     {
   "title": "今はいいんだよ。- MIMI",
-  "artist": "6s3[なれたん Naraetan Ch.🌷",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "artist": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=20",
   "source": "naraetan.js"
 },
     {
   "title": "New Future",
   "artist": "Changin' My Life",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=21",
   "source": "naraetan.js"
 },
     {
   "title": "FIRE BIRD",
   "artist": "Roselia",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=22",
   "source": "naraetan.js"
 },
     {
   "title": "火星人",
   "artist": "ヨルシカ",
-  "collection": "[2026-01-31]土曜日の深夜歌枠💅Saturday late-night singing stream[-w[なれたん Naraetan Ch.🌷]",
-  "up": "-w[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "勘ぐれい",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "[2026-01-31]土曜日の深夜歌枠💅Saturday late-night singing stream[-w[なれたん Naraetan Ch.🌷]",
-  "up": "-w[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "イフ",
   "artist": "月詠み",
-  "collection": "[2026-01-31]土曜日の深夜歌枠💅Saturday late-night singing stream[-w[なれたん Naraetan Ch.🌷]",
-  "up": "-w[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "ハナノイロ",
   "artist": "nano.RIPE",
-  "collection": "[2026-01-31]土曜日の深夜歌枠💅Saturday late-night singing stream[-w[なれたん Naraetan Ch.🌷]",
-  "up": "-w[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "鳥の詩",
   "artist": "Lia",
-  "collection": "[2026-01-31]土曜日の深夜歌枠💅Saturday late-night singing stream[-w[なれたん Naraetan Ch.🌷]",
-  "up": "-w[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "Way Back Home",
   "artist": "SHAUN",
-  "collection": "[2026-01-31]土曜日の深夜歌枠💅Saturday late-night singing stream[-w[なれたん Naraetan Ch.🌷]",
-  "up": "-w[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "花",
   "artist": "ORANGE RANGE",
-  "collection": "[2026-01-31]土曜日の深夜歌枠💅Saturday late-night singing stream[-w[なれたん Naraetan Ch.🌷]",
-  "up": "-w[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "Never Ending Story",
   "artist": "IU",
-  "collection": "[2026-01-31]土曜日の深夜歌枠💅Saturday late-night singing stream[-w[なれたん Naraetan Ch.🌷]",
-  "up": "-w[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "自傷無色",
   "artist": "ねこぼーろ feat.初音ミク",
-  "collection": "[2026-01-31]土曜日の深夜歌枠💅Saturday late-night singing stream[-w[なれたん Naraetan Ch.🌷]",
-  "up": "-w[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "オレンジ",
   "artist": "7!!",
-  "collection": "[2026-01-31]土曜日の深夜歌枠💅Saturday late-night singing stream[-w[なれたん Naraetan Ch.🌷]",
-  "up": "-w[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "メルト",
   "artist": "supercell",
-  "collection": "[2026-01-31]土曜日の深夜歌枠💅Saturday late-night singing stream[-w[なれたん Naraetan Ch.🌷]",
-  "up": "-w[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "恋文",
   "artist": "Every Little Thing",
-  "collection": "[2026-01-31]土曜日の深夜歌枠💅Saturday late-night singing stream[-w[なれたん Naraetan Ch.🌷]",
-  "up": "-w[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=12",
   "source": "naraetan.js"
 },
     {
   "title": "TSUNAMI",
   "artist": "サザンオールスターズ",
-  "collection": "[2026-01-31]土曜日の深夜歌枠💅Saturday late-night singing stream[-w[なれたん Naraetan Ch.🌷]",
-  "up": "-w[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=13",
   "source": "naraetan.js"
 },
     {
   "title": "Golden",
   "artist": "KPop Demon Hunters",
-  "collection": "[2026-01-31]土曜日の深夜歌枠💅Saturday late-night singing stream[-w[なれたん Naraetan Ch.🌷]",
-  "up": "-w[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=14",
   "source": "naraetan.js"
 },
     {
   "title": "モザイクカケラ",
   "artist": "SunSet Swish",
-  "collection": "[2026-01-31]土曜日の深夜歌枠💅Saturday late-night singing stream[-w[なれたん Naraetan Ch.🌷]",
-  "up": "-w[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/j?p=15",
   "source": "naraetan.js"
 },
     {
   "title": "Lovely Fruit",
   "artist": "水樹奈々",
-  "collection": "[2026-02-03]フルーツ縛りで歌うよ🍑🍒Fruit-themed KARAOKE[9RARtsp7ong][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "naraetan.js"
@@ -3192,7 +3192,7 @@ window.SONG_DATA.push(
     {
   "title": "♡桃色片想い♡",
   "artist": "松浦亜弥",
-  "collection": "[2026-02-03]フルーツ縛りで歌うよ🍑🍒Fruit-themed KARAOKE[9RARtsp7ong][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "naraetan.js"
@@ -3200,7 +3200,7 @@ window.SONG_DATA.push(
     {
   "title": "桃ノ花ビラ",
   "artist": "大塚愛",
-  "collection": "[2026-02-03]フルーツ縛りで歌うよ🍑🍒Fruit-themed KARAOKE[9RARtsp7ong][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "naraetan.js"
@@ -3208,7 +3208,7 @@ window.SONG_DATA.push(
     {
   "title": "Baby Sweet Berry Love",
   "artist": "小倉唯",
-  "collection": "[2026-02-03]フルーツ縛りで歌うよ🍑🍒Fruit-themed KARAOKE[9RARtsp7ong][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "naraetan.js"
@@ -3216,7 +3216,7 @@ window.SONG_DATA.push(
     {
   "title": "オレンジ",
   "artist": "逢坂大河(釘宮理恵) 櫛枝実乃梨(堀江由衣) 川嶋亜美(喜多村英梨)",
-  "collection": "[2026-02-03]フルーツ縛りで歌うよ🍑🍒Fruit-themed KARAOKE[9RARtsp7ong][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=5",
   "source": "naraetan.js"
@@ -3224,7 +3224,7 @@ window.SONG_DATA.push(
     {
   "title": "チェリー",
   "artist": "スピッツ",
-  "collection": "[2026-02-03]フルーツ縛りで歌うよ🍑🍒Fruit-themed KARAOKE[9RARtsp7ong][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=6",
   "source": "naraetan.js"
@@ -3232,7 +3232,7 @@ window.SONG_DATA.push(
     {
   "title": "Lemon",
   "artist": "米津玄師",
-  "collection": "[2026-02-03]フルーツ縛りで歌うよ🍑🍒Fruit-themed KARAOKE[9RARtsp7ong][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=7",
   "source": "naraetan.js"
@@ -3240,7 +3240,7 @@ window.SONG_DATA.push(
     {
   "title": "あんずの花",
   "artist": "すりぃ",
-  "collection": "[2026-02-03]フルーツ縛りで歌うよ🍑🍒Fruit-themed KARAOKE[9RARtsp7ong][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=8",
   "source": "naraetan.js"
@@ -3248,7 +3248,7 @@ window.SONG_DATA.push(
     {
   "title": "ラズベリー＊モンスター",
   "artist": "HoneyWorks",
-  "collection": "[2026-02-03]フルーツ縛りで歌うよ🍑🍒Fruit-themed KARAOKE[9RARtsp7ong][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=9",
   "source": "naraetan.js"
@@ -3256,7 +3256,7 @@ window.SONG_DATA.push(
     {
   "title": "PEACH",
   "artist": "大塚愛",
-  "collection": "[2026-02-03]フルーツ縛りで歌うよ🍑🍒Fruit-themed KARAOKE[9RARtsp7ong][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=10",
   "source": "naraetan.js"
@@ -3264,7 +3264,7 @@ window.SONG_DATA.push(
     {
   "title": "さくらんぼ",
   "artist": "大塚愛",
-  "collection": "[2026-02-03]フルーツ縛りで歌うよ🍑🍒Fruit-themed KARAOKE[9RARtsp7ong][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=11",
   "source": "naraetan.js"
@@ -3272,7 +3272,7 @@ window.SONG_DATA.push(
     {
   "title": "LADY",
   "artist": "米津玄師",
-  "collection": "[2026-02-04]気ままに歌う歌枠🛁A laid-back KARAOKE[Eq2A66Su6WM][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "naraetan.js"
@@ -3280,7 +3280,7 @@ window.SONG_DATA.push(
     {
   "title": "青空のラプソディ",
   "artist": "Fhána",
-  "collection": "[2026-02-04]気ままに歌う歌枠🛁A laid-back KARAOKE[Eq2A66Su6WM][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "naraetan.js"
@@ -3288,7 +3288,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒",
   "artist": "ヨルシカ",
-  "collection": "[2026-02-04]気ままに歌う歌枠🛁A laid-back KARAOKE[Eq2A66Su6WM][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "naraetan.js"
@@ -3296,7 +3296,7 @@ window.SONG_DATA.push(
     {
   "title": "ray",
   "artist": "BUMP OF CHICKEN",
-  "collection": "[2026-02-04]気ままに歌う歌枠🛁A laid-back KARAOKE[Eq2A66Su6WM][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "naraetan.js"
@@ -3304,7 +3304,7 @@ window.SONG_DATA.push(
     {
   "title": "冒険彗星",
   "artist": "榎本くるみ",
-  "collection": "[2026-02-04]気ままに歌う歌枠🛁A laid-back KARAOKE[Eq2A66Su6WM][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=5",
   "source": "naraetan.js"
@@ -3312,7 +3312,7 @@ window.SONG_DATA.push(
     {
   "title": "花の塔",
   "artist": "さユり",
-  "collection": "[2026-02-04]気ままに歌う歌枠🛁A laid-back KARAOKE[Eq2A66Su6WM][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=6",
   "source": "naraetan.js"
@@ -3320,7 +3320,7 @@ window.SONG_DATA.push(
     {
   "title": "フォニイ",
   "artist": "ツミキ",
-  "collection": "[2026-02-04]気ままに歌う歌枠🛁A laid-back KARAOKE[Eq2A66Su6WM][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=7",
   "source": "naraetan.js"
@@ -3328,7 +3328,7 @@ window.SONG_DATA.push(
     {
   "title": "ワールドイズマイン",
   "artist": "from  超かぐや姫",
-  "collection": "[2026-02-04]気ままに歌う歌枠🛁A laid-back KARAOKE[Eq2A66Su6WM][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=8",
   "source": "naraetan.js"
@@ -3336,7 +3336,7 @@ window.SONG_DATA.push(
     {
   "title": "so much love for you♡",
   "artist": "KOKIA",
-  "collection": "[2026-02-04]気ままに歌う歌枠🛁A laid-back KARAOKE[Eq2A66Su6WM][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=9",
   "source": "naraetan.js"
@@ -3344,7 +3344,7 @@ window.SONG_DATA.push(
     {
   "title": "桜ロック",
   "artist": "CHERRYBLOSSOM",
-  "collection": "[2026-02-04]気ままに歌う歌枠🛁A laid-back KARAOKE[Eq2A66Su6WM][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=10",
   "source": "naraetan.js"
@@ -3352,7 +3352,7 @@ window.SONG_DATA.push(
     {
   "title": "ファンサ",
   "artist": "HoneyWorks",
-  "collection": "[2026-02-04]気ままに歌う歌枠🛁A laid-back KARAOKE[Eq2A66Su6WM][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=11",
   "source": "naraetan.js"
@@ -3360,135 +3360,135 @@ window.SONG_DATA.push(
     {
   "title": "それが、愛でしょう",
   "artist": "下川みくに",
-  "collection": "[2026-02-07]土曜日の深夜歌枠🕊️Saturday late-night singing stream[_[なれたん Naraetan Ch.🌷]",
-  "up": "_[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "静かな夜に",
   "artist": "ラクス・クライン(田中理恵)",
-  "collection": "[2026-02-07]土曜日の深夜歌枠🕊️Saturday late-night singing stream[_[なれたん Naraetan Ch.🌷]",
-  "up": "_[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "蒼のエーテル",
   "artist": "ランカ・リー＝中島愛",
-  "collection": "[2026-02-07]土曜日の深夜歌枠🕊️Saturday late-night singing stream[_[なれたん Naraetan Ch.🌷]",
-  "up": "_[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "冬がくれた予感",
   "artist": "BiBi",
-  "collection": "[2026-02-07]土曜日の深夜歌枠🕊️Saturday late-night singing stream[_[なれたん Naraetan Ch.🌷]",
-  "up": "_[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "secret base 〜君がくれたもの〜",
   "artist": "ZONE",
-  "collection": "[2026-02-07]土曜日の深夜歌枠🕊️Saturday late-night singing stream[_[なれたん Naraetan Ch.🌷]",
-  "up": "_[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "隣に…",
   "artist": "三浦あずさ(たかはし智秋)",
-  "collection": "[2026-02-07]土曜日の深夜歌枠🕊️Saturday late-night singing stream[_[なれたん Naraetan Ch.🌷]",
-  "up": "_[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "1991",
   "artist": "米津玄師",
-  "collection": "[2026-02-07]土曜日の深夜歌枠🕊️Saturday late-night singing stream[_[なれたん Naraetan Ch.🌷]",
-  "up": "_[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "Way Back Home",
   "artist": "SHAUN",
-  "collection": "[2026-02-07]土曜日の深夜歌枠🕊️Saturday late-night singing stream[_[なれたん Naraetan Ch.🌷]",
-  "up": "_[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "Motherland",
   "artist": "Crystal Kay",
-  "collection": "[2026-02-07]土曜日の深夜歌枠🕊️Saturday late-night singing stream[_[なれたん Naraetan Ch.🌷]",
-  "up": "_[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "Subtitle",
   "artist": "Official髭男dism",
-  "collection": "[2026-02-07]土曜日の深夜歌枠🕊️Saturday late-night singing stream[_[なれたん Naraetan Ch.🌷]",
-  "up": "_[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "あの夢をなぞって",
   "artist": "YOASOBI",
-  "collection": "[2026-02-07]土曜日の深夜歌枠🕊️Saturday late-night singing stream[_[なれたん Naraetan Ch.🌷]",
-  "up": "_[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "ray",
   "artist": "BUMP OF CHICKEN",
-  "collection": "[2026-02-07]土曜日の深夜歌枠🕊️Saturday late-night singing stream[_[なれたん Naraetan Ch.🌷]",
-  "up": "_[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=12",
   "source": "naraetan.js"
 },
     {
   "title": "Link",
   "artist": "L'Arc～en～Ciel",
-  "collection": "[2026-02-07]土曜日の深夜歌枠🕊️Saturday late-night singing stream[_[なれたん Naraetan Ch.🌷]",
-  "up": "_[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=13",
   "source": "naraetan.js"
 },
     {
   "title": "新宝島",
   "artist": "サカナクション",
-  "collection": "[2026-02-07]土曜日の深夜歌枠🕊️Saturday late-night singing stream[_[なれたん Naraetan Ch.🌷]",
-  "up": "_[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=14",
   "source": "naraetan.js"
 },
     {
   "title": "Get along",
   "artist": "林原めぐみ・奥井雅美",
-  "collection": "[2026-02-07]土曜日の深夜歌枠🕊️Saturday late-night singing stream[_[なれたん Naraetan Ch.🌷]",
-  "up": "_[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=15",
   "source": "naraetan.js"
 },
     {
   "title": "破滅の純情",
   "artist": "ワルキューレ",
-  "collection": "[2026-02-07]土曜日の深夜歌枠🕊️Saturday late-night singing stream[_[なれたん Naraetan Ch.🌷]",
-  "up": "_[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=16",
   "source": "naraetan.js"
 },
     {
   "title": "ドラマツルギー",
   "artist": "Eve",
-  "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=1",
   "source": "naraetan.js"
@@ -3496,7 +3496,7 @@ window.SONG_DATA.push(
     {
   "title": "タイムマシン",
   "artist": "40mP",
-  "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=2",
   "source": "naraetan.js"
@@ -3504,7 +3504,7 @@ window.SONG_DATA.push(
     {
   "title": "天ノ弱",
   "artist": "164",
-  "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=3",
   "source": "naraetan.js"
@@ -3512,7 +3512,7 @@ window.SONG_DATA.push(
     {
   "title": "KING",
   "artist": "Kanaria",
-  "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=4",
   "source": "naraetan.js"
@@ -3520,7 +3520,7 @@ window.SONG_DATA.push(
     {
   "title": "ロキ",
   "artist": "みきとP",
-  "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=5",
   "source": "naraetan.js"
@@ -3528,7 +3528,7 @@ window.SONG_DATA.push(
     {
   "title": "踊れオーケストラ",
   "artist": "YASUHIRO(康寛)",
-  "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=6",
   "source": "naraetan.js"
@@ -3536,7 +3536,7 @@ window.SONG_DATA.push(
     {
   "title": "スキキライ",
   "artist": "HoneyWorks",
-  "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=7",
   "source": "naraetan.js"
@@ -3544,7 +3544,7 @@ window.SONG_DATA.push(
     {
   "title": "モニタリング",
   "artist": "DECO27",
-  "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=8",
   "source": "naraetan.js"
@@ -3552,7 +3552,7 @@ window.SONG_DATA.push(
     {
   "title": "ハロ／ハワユ",
   "artist": "ナノウ",
-  "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=9",
   "source": "naraetan.js"
@@ -3560,7 +3560,7 @@ window.SONG_DATA.push(
     {
   "title": "ドナーソング",
   "artist": "れるりり×もじゃ",
-  "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=10",
   "source": "naraetan.js"
@@ -3568,7 +3568,7 @@ window.SONG_DATA.push(
     {
   "title": "泥中に咲く",
   "artist": "HarryP",
-  "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=11",
   "source": "naraetan.js"
@@ -3576,7 +3576,7 @@ window.SONG_DATA.push(
     {
   "title": "メルト",
   "artist": "supercell",
-  "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=12",
   "source": "naraetan.js"
@@ -3584,7 +3584,7 @@ window.SONG_DATA.push(
     {
   "title": "夜もすがら君想ふ",
   "artist": "TOKOTOKO",
-  "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=13",
   "source": "naraetan.js"
@@ -3592,7 +3592,7 @@ window.SONG_DATA.push(
     {
   "title": "二息歩行",
   "artist": "DECO27",
-  "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=14",
   "source": "naraetan.js"
@@ -3600,7 +3600,7 @@ window.SONG_DATA.push(
     {
   "title": "劣等上等",
   "artist": "Giga",
-  "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/c?p=15",
   "source": "naraetan.js"
@@ -3608,464 +3608,464 @@ window.SONG_DATA.push(
     {
   "title": "夏色",
   "artist": "ゆず",
-  "collection": "[2026-02-12]アニソンとかJ-POPとか🎀Anime songs and J-pop[rt53XKla57[なれたん Naraetan Ch.🌷]",
-  "up": "rt53XKla57[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "Driver's High",
   "artist": "L'Arc〜en〜Ciel",
-  "collection": "[2026-02-12]アニソンとかJ-POPとか🎀Anime songs and J-pop[rt53XKla57[なれたん Naraetan Ch.🌷]",
-  "up": "rt53XKla57[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "IRIS OUT",
   "artist": "米津玄師",
-  "collection": "[2026-02-12]アニソンとかJ-POPとか🎀Anime songs and J-pop[rt53XKla57[なれたん Naraetan Ch.🌷]",
-  "up": "rt53XKla57[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "花になって",
   "artist": "緑黄色社会",
-  "collection": "[2026-02-12]アニソンとかJ-POPとか🎀Anime songs and J-pop[rt53XKla57[なれたん Naraetan Ch.🌷]",
-  "up": "rt53XKla57[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "麻痺",
   "artist": "yama",
-  "collection": "[2026-02-12]アニソンとかJ-POPとか🎀Anime songs and J-pop[rt53XKla57[なれたん Naraetan Ch.🌷]",
-  "up": "rt53XKla57[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "生きるよすが",
   "artist": "月詠み",
-  "collection": "[2026-02-12]アニソンとかJ-POPとか🎀Anime songs and J-pop[rt53XKla57[なれたん Naraetan Ch.🌷]",
-  "up": "rt53XKla57[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "GO MY WAY!!",
   "artist": "765PRO ALLSTARS",
-  "collection": "[2026-02-12]アニソンとかJ-POPとか🎀Anime songs and J-pop[rt53XKla57[なれたん Naraetan Ch.🌷]",
-  "up": "rt53XKla57[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "Do-Dai",
   "artist": "高槻やよい(仁後真耶子)",
-  "collection": "[2026-02-12]アニソンとかJ-POPとか🎀Anime songs and J-pop[rt53XKla57[なれたん Naraetan Ch.🌷]",
-  "up": "rt53XKla57[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "ワガママMIRROR HEART",
   "artist": "大橋彩香",
-  "collection": "[2026-02-12]アニソンとかJ-POPとか🎀Anime songs and J-pop[rt53XKla57[なれたん Naraetan Ch.🌷]",
-  "up": "rt53XKla57[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "いのちの名前",
   "artist": "木村弓",
-  "collection": "[2026-02-12]アニソンとかJ-POPとか🎀Anime songs and J-pop[rt53XKla57[なれたん Naraetan Ch.🌷]",
-  "up": "rt53XKla57[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "ジェットロケット",
   "artist": "LiSA",
-  "collection": "[2026-02-12]アニソンとかJ-POPとか🎀Anime songs and J-pop[rt53XKla57[なれたん Naraetan Ch.🌷]",
-  "up": "rt53XKla57[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "好きすぎて滅!",
   "artist": "M!LK",
-  "collection": "[2026-02-12]アニソンとかJ-POPとか🎀Anime songs and J-pop[rt53XKla57[なれたん Naraetan Ch.🌷]",
-  "up": "rt53XKla57[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=12",
   "source": "naraetan.js"
 },
     {
   "title": "Nobody's Home",
   "artist": "ONE OK ROCK",
-  "collection": "[2026-02-12]アニソンとかJ-POPとか🎀Anime songs and J-pop[rt53XKla57[なれたん Naraetan Ch.🌷]",
-  "up": "rt53XKla57[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=13",
   "source": "naraetan.js"
 },
     {
   "title": "経験値上昇中",
   "artist": "南春香(佐藤利奈)・南夏奈(井上麻里奈)・南千秋(茅原実里)",
-  "collection": "[2026-02-12]アニソンとかJ-POPとか🎀Anime songs and J-pop[rt53XKla57[なれたん Naraetan Ch.🌷]",
-  "up": "rt53XKla57[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=14",
   "source": "naraetan.js"
 },
     {
   "title": "夏の幻",
   "artist": "GARNET CROW",
-  "collection": "[2026-02-15]ゲリラ歌枠の時間だよ[xOa40qXXz_g][なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "[2026-02-15]ゲリラ歌枠の時間だよ[xOa40qXXz_g][なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "ダダダダ天使",
   "artist": "ナナヲアカリ",
-  "collection": "[2026-02-15]ゲリラ歌枠の時間だよ[xOa40qXXz_g][なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "テレキャスタービーボーイ",
   "artist": "すりぃ",
-  "collection": "[2026-02-15]ゲリラ歌枠の時間だよ[xOa40qXXz_g][なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "Unnamed World",
   "artist": "平野綾",
-  "collection": "[2026-02-15]ゲリラ歌枠の時間だよ[xOa40qXXz_g][なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "Seize The Day",
   "artist": "亜咲花",
-  "collection": "[2026-02-15]ゲリラ歌枠の時間だよ[xOa40qXXz_g][なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "Quiet Night C.E.73",
   "artist": "ミーア・キャンベル(田中理恵)",
-  "collection": "[2026-02-15]ゲリラ歌枠の時間だよ[xOa40qXXz_g][なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "トキヲコエテ",
   "artist": "GFRIEND",
-  "collection": "[2026-02-15]ゲリラ歌枠の時間だよ[xOa40qXXz_g][なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "今日から私たちは",
   "artist": "GFRIEND",
-  "collection": "[2026-02-15]ゲリラ歌枠の時間だよ[xOa40qXXz_g][なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "そばかす",
   "artist": "JUDY AND MARY",
-  "collection": "[2026-02-15]ゲリラ歌枠の時間だよ[xOa40qXXz_g][なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "バレンタイン・キッス",
   "artist": "国生さゆり",
-  "collection": "[2026-02-15]ゲリラ歌枠の時間だよ[xOa40qXXz_g][なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "Never Ending Story",
   "artist": "IU",
-  "collection": "[2026-02-15]ゲリラ歌枠の時間だよ[xOa40qXXz_g][なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=12",
   "source": "naraetan.js"
 },
     {
   "title": "Falco-ファルコ-",
   "artist": "島谷ひとみ",
-  "collection": "[2026-02-15]ゲリラ歌枠の時間だよ[xOa40qXXz_g][なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=13",
   "source": "naraetan.js"
 },
     {
   "title": "シルエット",
   "artist": "KANA-BOON",
-  "collection": "[2026-02-15]ゲリラ歌枠の時間だよ[xOa40qXXz_g][なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=14",
   "source": "naraetan.js"
 },
     {
   "title": "FEARLESS HERO",
   "artist": "水樹奈々",
-  "collection": "[2026-02-15]ゲリラ歌枠の時間だよ[xOa40qXXz_g][なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=15",
   "source": "naraetan.js"
 },
     {
   "title": "君じゃなきゃダメみたい",
   "artist": "オーイシマサヨシ",
-  "collection": "[2026-02-16]月曜日だから元気出してこ🎧[なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "Rolling star",
   "artist": "YUI",
-  "collection": "[2026-02-16]月曜日だから元気出してこ🎧[なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "SMILY",
   "artist": "大塚愛",
-  "collection": "[2026-02-16]月曜日だから元気出してこ🎧[なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "115万キロのフィルム",
   "artist": "Official髭男dism",
-  "collection": "[2026-02-16]月曜日だから元気出してこ🎧[なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "lulu.",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "[2026-02-16]月曜日だから元気出してこ🎧[なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "涙の種、笑顔の花",
   "artist": "中川翔子",
-  "collection": "[2026-02-16]月曜日だから元気出してこ🎧[なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "愛のかたまり",
   "artist": "DOMOTO(2)",
-  "collection": "[2026-02-16]月曜日だから元気出してこ🎧[なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "最高の片想い",
   "artist": "タイナカサチ",
-  "collection": "[2026-02-16]月曜日だから元気出してこ🎧[なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "アドレナ",
   "artist": "YOASOBI",
-  "collection": "[2026-02-16]月曜日だから元気出してこ🎧[なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "赤い罠(who loves it)",
   "artist": "LiSA",
-  "collection": "[2026-02-16]月曜日だから元気出してこ🎧[なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "ワールドイズマイン",
   "artist": "from  超かぐや姫",
-  "collection": "[2026-02-16]月曜日だから元気出してこ🎧[なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "Cutie Panther",
   "artist": "BiBi",
-  "collection": "[2026-02-16]月曜日だから元気出してこ🎧[なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=12",
   "source": "naraetan.js"
 },
     {
   "title": "世界に一つだけの花",
   "artist": "SMAP",
-  "collection": "[会限] 阿卡贝拉限定歌回【メン限】アカペラで歌うよ[なれたん 歌切🌷]",
-  "up": "前尘往事如昔故",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "RAIN",
   "artist": "SEKAI NO OWARI",
-  "collection": "[会限] 阿卡贝拉限定歌回【メン限】アカペラで歌うよ[なれたん 歌切🌷]",
-  "up": "前尘往事如昔故",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "すずめ",
   "artist": "RADWIMPS feat.十明",
-  "collection": "[会限] 阿卡贝拉限定歌回【メン限】アカペラで歌うよ[なれたん 歌切🌷]",
-  "up": "前尘往事如昔故",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "lulu.",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "[会限] 阿卡贝拉限定歌回【メン限】アカペラで歌うよ[なれたん 歌切🌷]",
-  "up": "前尘往事如昔故",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "天ノ弱",
   "artist": "164",
-  "collection": "[会限] 阿卡贝拉限定歌回【メン限】アカペラで歌うよ[なれたん 歌切🌷]",
-  "up": "前尘往事如昔故",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "ray",
   "artist": "BUMP OF CHICKEN",
-  "collection": "[会限] 阿卡贝拉限定歌回【メン限】アカペラで歌うよ[なれたん 歌切🌷]",
-  "up": "前尘往事如昔故",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "逆夢",
   "artist": "King Gnu",
-  "collection": "[会限] 阿卡贝拉限定歌回【メン限】アカペラで歌うよ[なれたん 歌切🌷]",
-  "up": "前尘往事如昔故",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "恋文",
   "artist": "HoneyWorks",
-  "collection": "[会限] 阿卡贝拉限定歌回【メン限】アカペラで歌うよ[なれたん 歌切🌷]",
-  "up": "前尘往事如昔故",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "打上花火",
   "artist": "DAOKO×米津玄師",
-  "collection": "[会限] 阿卡贝拉限定歌回【メン限】アカペラで歌うよ[なれたん 歌切🌷]",
-  "up": "前尘往事如昔故",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "ノーチラス",
   "artist": "ヨルシカ",
-  "collection": "[会限] 阿卡贝拉限定歌回【メン限】アカペラで歌うよ[なれたん 歌切🌷]",
-  "up": "前尘往事如昔故",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "Way Back Home",
   "artist": "SHAUN",
-  "collection": "[会限] 阿卡贝拉限定歌回【メン限】アカペラで歌うよ[なれたん 歌切🌷]",
-  "up": "前尘往事如昔故",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "1925",
   "artist": "冨田悠斗(とみー／T-POCKET)",
-  "collection": "【なれたん 歌切🌷】因为嗓子不舒服，所以慢慢来 [2026-02-20]【#雑談 #歌枠】喉の調子が悪いのでのんびり[KTSFm_zWibg]",
-  "up": "前尘往事如昔故",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "可愛くなりたい",
   "artist": "HoneyWorks",
-  "collection": "【なれたん 歌切🌷】因为嗓子不舒服，所以慢慢来 [2026-02-20]【#雑談 #歌枠】喉の調子が悪いのでのんびり[KTSFm_zWibg]",
-  "up": "前尘往事如昔故",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "浪漫飛行",
   "artist": "米米CLUB",
-  "collection": "【なれたん 歌切🌷】因为嗓子不舒服，所以慢慢来 [2026-02-20]【#雑談 #歌枠】喉の調子が悪いのでのんびり[KTSFm_zWibg]",
-  "up": "前尘往事如昔故",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "冒険彗星",
   "artist": "榎本くるみ",
-  "collection": "【なれたん 歌切🌷】因为嗓子不舒服，所以慢慢来 [2026-02-20]【#雑談 #歌枠】喉の調子が悪いのでのんびり[KTSFm_zWibg]",
-  "up": "前尘往事如昔故",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "フタリボシ",
   "artist": "40mP",
-  "collection": "【なれたん 歌切🌷】因为嗓子不舒服，所以慢慢来 [2026-02-20]【#雑談 #歌枠】喉の調子が悪いのでのんびり[KTSFm_zWibg]",
-  "up": "前尘往事如昔故",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "ヒトリゴト",
   "artist": "ClariS",
-  "collection": "【なれたん 歌切🌷】因为嗓子不舒服，所以慢慢来 [2026-02-20]【#雑談 #歌枠】喉の調子が悪いのでのんびり[KTSFm_zWibg]",
-  "up": "前尘往事如昔故",
+  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=6",
   "source": "naraetan.js"
 }
