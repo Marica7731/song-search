@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1ve411z7Nm
-// 生成时间: 2/21/2026, 9:10:50 AM
+// 生成时间: 2/21/2026, 9:23:11 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1030,104 +1030,104 @@ window.SONG_DATA.push(
   "source": "suu_usuwa.js"
 },
     {
-  "title": "回る空うさぎ / Orangestar",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "回る空うさぎ",
+  "artist": "Orangestar",
   "collection": "[2024-01-14]  稀羽すう🦢 13 】回る空うさぎ-Orangestar 静静地唱歌,是否适合作为睡眠引导?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1rK411e7mZ?p=1",
   "source": "suu_usuwa.js"
 },
     {
-  "title": "アヤノの幸福理論 / じん",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "アヤノの幸福理論",
+  "artist": "じん",
   "collection": "[2024-01-14]  稀羽すう🦢 13 】回る空うさぎ-Orangestar 静静地唱歌,是否适合作为睡眠引导?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1rK411e7mZ?p=2",
   "source": "suu_usuwa.js"
 },
     {
-  "title": "妄想感傷代償連盟 / DECO*27",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27",
   "collection": "[2024-01-14]  稀羽すう🦢 13 】回る空うさぎ-Orangestar 静静地唱歌,是否适合作为睡眠引导?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1rK411e7mZ?p=3",
   "source": "suu_usuwa.js"
 },
     {
-  "title": "蝶々結び / Aimer",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "蝶々結び",
+  "artist": "Aimer",
   "collection": "[2024-01-14]  稀羽すう🦢 13 】回る空うさぎ-Orangestar 静静地唱歌,是否适合作为睡眠引导?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1rK411e7mZ?p=4",
   "source": "suu_usuwa.js"
 },
     {
-  "title": "いのちの名前 / 木村弓",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "いのちの名前",
+  "artist": "木村弓",
   "collection": "[2024-01-14]  稀羽すう🦢 13 】回る空うさぎ-Orangestar 静静地唱歌,是否适合作为睡眠引导?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1rK411e7mZ?p=5",
   "source": "suu_usuwa.js"
 },
     {
-  "title": "clock lock works / ハチ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "clock lock works",
+  "artist": "ハチ",
   "collection": "[2024-01-14]  稀羽すう🦢 13 】回る空うさぎ-Orangestar 静静地唱歌,是否适合作为睡眠引导?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1rK411e7mZ?p=6",
   "source": "suu_usuwa.js"
 },
     {
-  "title": "1925 / 冨田悠斗(とみー/T-POCKET)",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "1925",
+  "artist": "冨田悠斗(とみー／T-POCKET)",
   "collection": "[2024-01-14]  稀羽すう🦢 13 】回る空うさぎ-Orangestar 静静地唱歌,是否适合作为睡眠引导?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1rK411e7mZ?p=7",
   "source": "suu_usuwa.js"
 },
     {
-  "title": "都落ち / ヨルシカ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "都落ち",
+  "artist": "ヨルシカ",
   "collection": "[2024-01-14]  稀羽すう🦢 13 】回る空うさぎ-Orangestar 静静地唱歌,是否适合作为睡眠引导?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1rK411e7mZ?p=8",
   "source": "suu_usuwa.js"
 },
     {
-  "title": "心拍数♯0822 / 蝶々P",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "心拍数♯0822",
+  "artist": "蝶々P",
   "collection": "[2024-01-14]  稀羽すう🦢 13 】回る空うさぎ-Orangestar 静静地唱歌,是否适合作为睡眠引导?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1rK411e7mZ?p=9",
   "source": "suu_usuwa.js"
 },
     {
-  "title": "弱虫モンブラン / DECO*27",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "弱虫モンブラン",
+  "artist": "DECO*27",
   "collection": "[2024-01-14]  稀羽すう🦢 13 】回る空うさぎ-Orangestar 静静地唱歌,是否适合作为睡眠引导?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1rK411e7mZ?p=10",
   "source": "suu_usuwa.js"
 },
     {
-  "title": "おじゃま虫 / DECO*27",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "おじゃま虫",
+  "artist": "DECO*27",
   "collection": "[2024-01-14]  稀羽すう🦢 13 】回る空うさぎ-Orangestar 静静地唱歌,是否适合作为睡眠引导?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1rK411e7mZ?p=11",
   "source": "suu_usuwa.js"
 },
     {
-  "title": "会いたい / Dios/シグナルP",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "会いたい",
+  "artist": "Dios／シグナルP",
   "collection": "[2024-01-14]  稀羽すう🦢 13 】回る空うさぎ-Orangestar 静静地唱歌,是否适合作为睡眠引导?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1rK411e7mZ?p=12",
   "source": "suu_usuwa.js"
 },
     {
-  "title": "夜明けと蛍 / n-buna",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "夜明けと蛍",
+  "artist": "n-buna",
   "collection": "[2024-01-14]  稀羽すう🦢 13 】回る空うさぎ-Orangestar 静静地唱歌,是否适合作为睡眠引导?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1rK411e7mZ?p=13",
