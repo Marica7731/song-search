@@ -510,7 +510,7 @@
         </div>
     </div>
 
-    <!-- 新增：统计信息+复制全部按钮容器 -->
+    <!-- 统计信息+复制全部按钮容器 -->
     <div class="stats-container">
         <div class="stats-msg" id="stats-msg">总歌曲数：0 | 筛选后：0 | 搜索结果：0</div>
         <button class="copy-all-btn" id="copy-all-btn" disabled>📋 复制全部搜索结果</button>
@@ -555,19 +555,20 @@
             }
         }
 
-        // 新增：生成搜索结果文本（格式：歌名 - 歌手（链接），多条换行）
+        // 生成搜索结果文本（核心修改：歌手为空时省略-歌手部分）
         function generateSearchResultText() {
             if (filteredBySearch.length === 0) return '';
             
             return filteredBySearch.map(item => {
                 const title = item.title || '未知歌曲';
-                const artist = item.artist || '未知歌手';
+                const artist = item.artist?.trim(); // 去除空格，兼容空字符串/undefined
                 const link = item.link || '无链接';
-                return `${title} - ${artist}（${link}）`;
+                // 有歌手则保留「- 歌手」，无歌手直接省略
+                return artist ? `${title} - ${artist}（${link}）` : `${title}（${link}）`;
             }).join('\n');
         }
 
-        // 新增：复制全部搜索结果
+        // 复制全部搜索结果
         async function copyAllSearchResults() {
             const text = generateSearchResultText();
             if (!text) {
@@ -716,7 +717,7 @@
             }
 
             updateStats();
-            // 新增：更新复制全部按钮状态
+            // 更新复制全部按钮状态
             const copyAllBtn = document.getElementById('copy-all-btn');
             copyAllBtn.disabled = filteredBySearch.length === 0;
             
@@ -1006,7 +1007,7 @@
                 generateFilterButtons();
                 initSearchFieldCheckboxes();
                 initSearch();
-                // 新增：绑定复制全部按钮事件
+                // 绑定复制全部按钮事件
                 document.getElementById('copy-all-btn').addEventListener('click', copyAllSearchResults);
                 
                 updateStats();
