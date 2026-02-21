@@ -172,13 +172,44 @@
             transform: translateY(-2px);
             box-shadow: 0 6px 20px rgba(0, 161, 214, 0.4);
         }
+        /* 统计信息 + 复制全部按钮容器 */
+        .stats-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+        }
         /* 统计信息 */
         .stats-msg {
-            text-align: right;
             font-size: 13px;
             color: #6c757d;
-            margin-bottom: 15px;
             font-weight: 500;
+        }
+        /* 复制全部搜索结果按钮 */
+        .copy-all-btn {
+            padding: 6px 12px;
+            background: linear-gradient(135deg, #6f42c1 0%, #8a6edb 100%);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 12px;
+            font-weight: 600;
+            cursor: pointer;
+            box-shadow: 0 2px 8px rgba(111, 66, 193, 0.25);
+            transition: all 0.2s ease;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+        .copy-all-btn:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 4px 12px rgba(111, 66, 193, 0.35);
+        }
+        .copy-all-btn:disabled {
+            background: #adb5bd;
+            cursor: not-allowed;
+            transform: none;
+            box-shadow: none;
         }
         /* 进度/提示信息 */
         .progress-msg { 
@@ -479,7 +510,12 @@
         </div>
     </div>
 
-    <div class="stats-msg" id="stats-msg">总歌曲数：0 | 筛选后：0 | 搜索结果：0</div>
+    <!-- 新增：统计信息+复制全部按钮容器 -->
+    <div class="stats-container">
+        <div class="stats-msg" id="stats-msg">总歌曲数：0 | 筛选后：0 | 搜索结果：0</div>
+        <button class="copy-all-btn" id="copy-all-btn" disabled>📋 复制全部搜索结果</button>
+    </div>
+
     <div class="progress-msg" id="progress-msg">📥 正在并行加载歌库，请稍候...</div>
     <div class="empty-msg" id="empty-msg">❌ 未找到匹配的歌曲</div>
     <ul id="song-list"></ul>
@@ -517,6 +553,28 @@
                 console.error('复制失败:', err);
                 alert('复制失败，请手动复制');
             }
+        }
+
+        // 新增：生成搜索结果文本（格式：歌名 - 歌手（链接），多条换行）
+        function generateSearchResultText() {
+            if (filteredBySearch.length === 0) return '';
+            
+            return filteredBySearch.map(item => {
+                const title = item.title || '未知歌曲';
+                const artist = item.artist || '未知歌手';
+                const link = item.link || '无链接';
+                return `${title} - ${artist}（${link}）`;
+            }).join('\n');
+        }
+
+        // 新增：复制全部搜索结果
+        async function copyAllSearchResults() {
+            const text = generateSearchResultText();
+            if (!text) {
+                alert('暂无搜索结果可复制');
+                return;
+            }
+            await copyToClipboard(text);
         }
 
         function getActiveSearchFields() {
@@ -658,6 +716,10 @@
             }
 
             updateStats();
+            // 新增：更新复制全部按钮状态
+            const copyAllBtn = document.getElementById('copy-all-btn');
+            copyAllBtn.disabled = filteredBySearch.length === 0;
+            
             renderSongList(filteredBySearch);
         }
 
@@ -944,6 +1006,9 @@
                 generateFilterButtons();
                 initSearchFieldCheckboxes();
                 initSearch();
+                // 新增：绑定复制全部按钮事件
+                document.getElementById('copy-all-btn').addEventListener('click', copyAllSearchResults);
+                
                 updateStats();
                 renderSongList(filteredBySearch);
 
