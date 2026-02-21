@@ -1,6 +1,6 @@
 // Figaro - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1HRfuBCEXN
-// 生成时间: 2/21/2026, 6:22:46 PM
+// 生成时间: 2/21/2026, 7:18:13 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1830,31 +1830,31 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "ハロ/ハワユ (HelloHow are you)",
-  "artist": "ナノウ (Nanou)",
+  "title": "ハロ／ハワユ",
+  "artist": "ナノウ",
   "collection": "【240411 Figaro 17首 】定期歌枠#9夜间广播  猫-DISH// 怪獣の花唄- Vaundy",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uD421p7nA?p=2",
   "source": "figaro.js"
 },
     {
-  "title": "アイロニ (Irony)",
-  "artist": "すこっぷ (Scop)",
+  "title": "アイロニ",
+  "artist": "すこっぷ",
   "collection": "【240411 Figaro 17首 】定期歌枠#9夜间广播  猫-DISH// 怪獣の花唄- Vaundy",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uD421p7nA?p=3",
   "source": "figaro.js"
 },
     {
-  "title": "お勉強しといてよ (STUDY ME)",
-  "artist": "ずっと真夜中でいいのに。 (ZUTOMAYO)",
+  "title": "お勉強しといてよ",
+  "artist": "ずっと真夜中でいいのに。",
   "collection": "【240411 Figaro 17首 】定期歌枠#9夜间广播  猫-DISH// 怪獣の花唄- Vaundy",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uD421p7nA?p=4",
   "source": "figaro.js"
 },
     {
-  "title": "明日への扉 (Asu e no Tobira)",
+  "title": "明日への扉",
   "artist": "I WiSH",
   "collection": "【240411 Figaro 17首 】定期歌枠#9夜间广播  猫-DISH// 怪獣の花唄- Vaundy",
   "up": "前尘往事如昔故",
@@ -1862,15 +1862,15 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "風を食む (Eat The Wind)",
-  "artist": "ヨルシカ (Yorushika)",
+  "title": "風を食む",
+  "artist": "ヨルシカ",
   "collection": "【240411 Figaro 17首 】定期歌枠#9夜间广播  猫-DISH// 怪獣の花唄- Vaundy",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uD421p7nA?p=6",
   "source": "figaro.js"
 },
     {
-  "title": "怪獣の花唄 (Kaiju no Hanauta)",
+  "title": "怪獣の花唄",
   "artist": "Vaundy",
   "collection": "【240411 Figaro 17首 】定期歌枠#9夜间广播  猫-DISH// 怪獣の花唄- Vaundy",
   "up": "前尘往事如昔故",
@@ -1878,7 +1878,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "W/X/Y",
+  "title": "W／X／Y",
   "artist": "Tani Yuuki",
   "collection": "【240411 Figaro 17首 】定期歌枠#9夜间广播  猫-DISH// 怪獣の花唄- Vaundy",
   "up": "前尘往事如昔故",
@@ -1886,7 +1886,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "たぶん (Probably)",
+  "title": "たぶん",
   "artist": "YOASOBI",
   "collection": "【240411 Figaro 17首 】定期歌枠#9夜间广播  猫-DISH// 怪獣の花唄- Vaundy",
   "up": "前尘往事如昔故",
@@ -1894,7 +1894,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "猫 (Neko)",
+  "title": "猫",
   "artist": "DISH//",
   "collection": "【240411 Figaro 17首 】定期歌枠#9夜间广播  猫-DISH// 怪獣の花唄- Vaundy",
   "up": "前尘往事如昔故",
@@ -1902,7 +1902,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "勿忘 (Wasurena)",
+  "title": "勿忘",
   "artist": "Awesome City Club",
   "collection": "【240411 Figaro 17首 】定期歌枠#9夜间广播  猫-DISH// 怪獣の花唄- Vaundy",
   "up": "前尘往事如昔故",
@@ -1911,22 +1911,22 @@ window.SONG_DATA.push(
 },
     {
   "title": "First Love",
-  "artist": "宇多田ヒカル (Hikaru Utada)",
+  "artist": "宇多田ヒカル",
   "collection": "【240411 Figaro 17首 】定期歌枠#9夜间广播  猫-DISH// 怪獣の花唄- Vaundy",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uD421p7nA?p=12",
   "source": "figaro.js"
 },
     {
-  "title": "シャルル (Charles)",
-  "artist": "バルーン (Balloon)",
+  "title": "シャルル",
+  "artist": "バルーン",
   "collection": "【240411 Figaro 17首 】定期歌枠#9夜间广播  猫-DISH// 怪獣の花唄- Vaundy",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uD421p7nA?p=13",
   "source": "figaro.js"
 },
     {
-  "title": "ハルジオン (Halzion)",
+  "title": "ハルジオン",
   "artist": "YOASOBI",
   "collection": "【240411 Figaro 17首 】定期歌枠#9夜间广播  猫-DISH// 怪獣の花唄- Vaundy",
   "up": "前尘往事如昔故",
@@ -1935,23 +1935,23 @@ window.SONG_DATA.push(
 },
     {
   "title": "Pretender",
-  "artist": "Official髭男dism (Official HIGE DANdism)",
+  "artist": "Official髭男dism",
   "collection": "【240411 Figaro 17首 】定期歌枠#9夜间广播  猫-DISH// 怪獣の花唄- Vaundy",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uD421p7nA?p=15",
   "source": "figaro.js"
 },
     {
-  "title": "ビビデバ (BIBBIDIBA)",
-  "artist": "星街すいせい (Hoshimachi Suisei)",
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
   "collection": "【240411 Figaro 17首 】定期歌枠#9夜间广播  猫-DISH// 怪獣の花唄- Vaundy",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uD421p7nA?p=16",
   "source": "figaro.js"
 },
     {
-  "title": "ツギハギスタッカート (Patchwork Staccato)",
-  "artist": "とあ (Toa)",
+  "title": "ツギハギスタッカート",
+  "artist": "とあ",
   "collection": "【240411 Figaro 17首 】定期歌枠#9夜间广播  猫-DISH// 怪獣の花唄- Vaundy",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uD421p7nA?p=17",
@@ -2806,8 +2806,8 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "少女レイ (Shoujo Rei)",
-  "artist": "みきとP (mikitoP)",
+  "title": "少女レイ",
+  "artist": "みきとP",
   "collection": "【240510 Figaro】18」突袭的周五！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xC411j7ps?p=1",
@@ -2815,14 +2815,14 @@ window.SONG_DATA.push(
 },
     {
   "title": "fake face dance music",
-  "artist": "音田雅則 (Masanori Otoda)",
+  "artist": "音田雅則",
   "collection": "【240510 Figaro】18」突袭的周五！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xC411j7ps?p=2",
   "source": "figaro.js"
 },
     {
-  "title": "ドラマツルギー (Dramaturgy)",
+  "title": "ドラマツルギー",
   "artist": "Eve",
   "collection": "【240510 Figaro】18」突袭的周五！",
   "up": "前尘往事如昔故",
@@ -2830,32 +2830,32 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "曖昧さ回避 (Ambiguity Avoidance)",
-  "artist": "ポリスピカデリー (Police Piccadilly)",
+  "title": "曖昧さ回避",
+  "artist": "ポリスピカデリー",
   "collection": "【240510 Figaro】18」突袭的周五！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xC411j7ps?p=4",
   "source": "figaro.js"
 },
     {
-  "title": "クイーンオブハート (Queen of Heart)",
-  "artist": "奏音69 (KANON69)",
+  "title": "クイーンオブハート",
+  "artist": "奏音69",
   "collection": "【240510 Figaro】18」突袭的周五！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xC411j7ps?p=5",
   "source": "figaro.js"
 },
     {
-  "title": "秒針を噛む (Byoushinwo Kamu)",
-  "artist": "ずっと真夜中でいいのに。 (ZUTOMAYO)",
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
   "collection": "【240510 Figaro】18」突袭的周五！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xC411j7ps?p=6",
   "source": "figaro.js"
 },
     {
-  "title": "メフィスト (Mephisto)",
-  "artist": "女王蜂 (QUEEN BEE)",
+  "title": "メフィスト",
+  "artist": "女王蜂",
   "collection": "【240510 Figaro】18」突袭的周五！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xC411j7ps?p=7",
@@ -2871,14 +2871,14 @@ window.SONG_DATA.push(
 },
     {
   "title": "Mela!",
-  "artist": "緑黄色社会 (Ryokuoushoku Shakai)",
+  "artist": "緑黄色社会",
   "collection": "【240510 Figaro】18」突袭的周五！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xC411j7ps?p=9",
   "source": "figaro.js"
 },
     {
-  "title": "祝福 (The Blessing)",
+  "title": "祝福",
   "artist": "YOASOBI",
   "collection": "【240510 Figaro】18」突袭的周五！",
   "up": "前尘往事如昔故",
@@ -2886,7 +2886,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "対象a (Taishou a)",
+  "title": "対象a",
   "artist": "anNina",
   "collection": "【240510 Figaro】18」突袭的周五！",
   "up": "前尘往事如昔故",
@@ -2894,8 +2894,8 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "コバルトメモリーズ (Cobalt Memories)",
-  "artist": "はるまきごはん (Harumaki Gohan)",
+  "title": "コバルトメモリーズ",
+  "artist": "はるまきごはん",
   "collection": "【240510 Figaro】18」突袭的周五！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xC411j7ps?p=12",
@@ -2910,23 +2910,23 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "第三の心臓 (The Third Heart)",
-  "artist": "はるまきごはん (Harumaki Gohan)",
+  "title": "第三の心臓",
+  "artist": "はるまきごはん",
   "collection": "【240510 Figaro】18」突袭的周五！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xC411j7ps?p=14",
   "source": "figaro.js"
 },
     {
-  "title": "メルティランドナイトメア (Melty Land Nightmare)",
-  "artist": "はるまきごはん (Harumaki Gohan)",
+  "title": "メルティランドナイトメア",
+  "artist": "はるまきごはん",
   "collection": "【240510 Figaro】18」突袭的周五！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xC411j7ps?p=15",
   "source": "figaro.js"
 },
     {
-  "title": "病名は愛だった (The Disease Called Love)",
+  "title": "病名は愛だった",
   "artist": "Neru & z'5",
   "collection": "【240510 Figaro】18」突袭的周五！",
   "up": "前尘往事如昔故",
@@ -2934,16 +2934,16 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "再会 (Reunion)",
-  "artist": "はるまきごはん (Harumaki Gohan)",
+  "title": "再会",
+  "artist": "はるまきごはん",
   "collection": "【240510 Figaro】18」突袭的周五！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xC411j7ps?p=17",
   "source": "figaro.js"
 },
     {
-  "title": "ルーマー (Rumor)",
-  "artist": "ポリスピカデリー (Police Piccadilly)",
+  "title": "ルーマー",
+  "artist": "ポリスピカデリー",
   "collection": "【240510 Figaro】18」突袭的周五！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xC411j7ps?p=18",
@@ -4686,7 +4686,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "ハロハワユ",
+  "title": "ハロ／ハワユ",
   "artist": "ナノウ",
   "collection": "【 Figaro】#14星期三定期歌回 斜陽、変わらないもの",
   "up": "前尘往事如昔故",
@@ -8246,7 +8246,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "ハロハワユ",
+  "title": "ハロ／ハワユ",
   "artist": "ナノウ",
   "collection": "【Figaro】20】風を食む うたかた花火 クリスマスソング 噓月 靴の花火 ヒッチコック【241006】】",
   "up": "前尘往事如昔故",
@@ -9934,7 +9934,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "ハロハワユ",
+  "title": "ハロ／ハワユ",
   "artist": "ナノウ",
   "collection": "【Figaro】20】每周一次的睡眠歌回第200回！",
   "up": "前尘往事如昔故",

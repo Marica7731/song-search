@@ -1,6 +1,6 @@
 // むんもっしゅ - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1UCkhBkEon
-// 生成时间: 2/21/2026, 6:26:29 PM
+// 生成时间: 2/21/2026, 7:22:42 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1966,7 +1966,7 @@ window.SONG_DATA.push(
   "source": "MunMosh.js"
 },
     {
-  "title": "ハロハワユ",
+  "title": "ハロ／ハワユ",
   "artist": "ナノウ(ほえほえP)",
   "collection": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "up": "前尘往事如昔故",
@@ -2398,7 +2398,7 @@ window.SONG_DATA.push(
   "source": "MunMosh.js"
 },
     {
-  "title": "ハロハワユ",
+  "title": "ハロ／ハワユ",
   "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
@@ -3214,7 +3214,7 @@ window.SONG_DATA.push(
   "source": "MunMosh.js"
 },
     {
-  "title": "ハロハワユ",
+  "title": "ハロ／ハワユ",
   "artist": "ナノウ(ほえほえP)",
   "collection": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "up": "前尘往事如昔故",
@@ -3742,7 +3742,7 @@ window.SONG_DATA.push(
   "source": "MunMosh.js"
 },
     {
-  "title": "ハロハワユ",
+  "title": "ハロ／ハワユ",
   "artist": "ナノウ(ほえほえP)",
   "collection": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "up": "前尘往事如昔故",
@@ -5382,288 +5382,288 @@ window.SONG_DATA.push(
   "source": "MunMosh.js"
 },
     {
-  "title": "回る空うさぎ-Orangestar",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "回る空うさぎ",
+  "artist": "Orangestar",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=1",
   "source": "MunMosh.js"
 },
     {
-  "title": "今はいいんだよ。-MIMI",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "今はいいんだよ。",
+  "artist": "MIMI",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=2",
   "source": "MunMosh.js"
 },
     {
-  "title": "ミカヅキ-さユり",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ミカヅキ",
+  "artist": "さユり",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=3",
   "source": "MunMosh.js"
 },
     {
-  "title": "それは小さな光のような-さユり",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "それは小さな光のような",
+  "artist": "さユり",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=4",
   "source": "MunMosh.js"
 },
     {
-  "title": "花の塔-さユり",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "花の塔",
+  "artist": "さユり",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=5",
   "source": "MunMosh.js"
 },
     {
-  "title": "アイドル-YOASOBI",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "アイドル",
+  "artist": "YOASOBI",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=6",
   "source": "MunMosh.js"
 },
     {
-  "title": "サインはB-B小町",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "サインはB",
+  "artist": "B小町",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=7",
   "source": "MunMosh.js"
 },
     {
-  "title": "アンインストール-石川智晶",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "アンインストール",
+  "artist": "石川智晶",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=8",
   "source": "MunMosh.js"
 },
     {
-  "title": "星座になれたら-結束バンド",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "星座になれたら",
+  "artist": "結束バンド",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=9",
   "source": "MunMosh.js"
 },
     {
-  "title": "世界のつづき-Ado",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "世界のつづき",
+  "artist": "Ado",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=10",
   "source": "MunMosh.js"
 },
     {
-  "title": "プラネタリウム-大塚愛",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=11",
   "source": "MunMosh.js"
 },
     {
-  "title": "5.",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "だきしめるまで。",
+  "artist": "feat. 可不",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=12",
   "source": "MunMosh.js"
 },
     {
-  "title": "花めづる君-傘村トータ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "花めづる君",
+  "artist": "傘村トータ",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=13",
   "source": "MunMosh.js"
 },
     {
-  "title": "ちゃんとあるよ-傘村トータ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ちゃんとあるよ",
+  "artist": "傘村トータ",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=14",
   "source": "MunMosh.js"
 },
     {
-  "title": "夜明けと蛍-n-buna",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "夜明けと蛍",
+  "artist": "n-buna",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=15",
   "source": "MunMosh.js"
 },
     {
-  "title": "ハロ／ハワユ-ナノウ(ほえほえP)",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ハロ／ハワユ",
+  "artist": "ナノウ(ほえほえP)",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=16",
   "source": "MunMosh.js"
 },
     {
-  "title": "from Y to Y-ジミーサムP",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "from Y to Y",
+  "artist": "ジミーサムP",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=17",
   "source": "MunMosh.js"
 },
     {
-  "title": "Calc.-ジミーサムP",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Calc.",
+  "artist": "ジミーサムP",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=18",
   "source": "MunMosh.js"
 },
     {
-  "title": "晴る-ヨルシカ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "晴る",
+  "artist": "ヨルシカ",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=19",
   "source": "MunMosh.js"
 },
     {
-  "title": "だから僕は音楽を辞めた-ヨルシカ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=20",
   "source": "MunMosh.js"
 },
     {
-  "title": "ただ君に晴れ-ヨルシカ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=21",
   "source": "MunMosh.js"
 },
     {
-  "title": "春泥棒-ヨルシカ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=22",
   "source": "MunMosh.js"
 },
     {
-  "title": "My Soul,Your Beats!-Lia",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "My Soul,Your Beats!",
+  "artist": "Lia",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=23",
   "source": "MunMosh.js"
 },
     {
-  "title": "一番の宝物 ～Yui final ver.～-Girls Dead Monster",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "一番の宝物 ～Yui final ver.～",
+  "artist": "Girls Dead Monster",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=24",
   "source": "MunMosh.js"
 },
     {
-  "title": "My Song-Girls Dead Monster",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "My Song",
+  "artist": "Girls Dead Monster",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=25",
   "source": "MunMosh.js"
 },
     {
-  "title": "夏影-Lia",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "夏影",
+  "artist": "Lia",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=26",
   "source": "MunMosh.js"
 },
     {
-  "title": "Ghost of a smile-EGOIST",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Ghost of a smile",
+  "artist": "EGOIST",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=27",
   "source": "MunMosh.js"
 },
     {
-  "title": "フリージア-Uru",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "フリージア",
+  "artist": "Uru",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=28",
   "source": "MunMosh.js"
 },
     {
-  "title": "Automatic-宇多田ヒカル",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Automatic",
+  "artist": "宇多田ヒカル",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=29",
   "source": "MunMosh.js"
 },
     {
-  "title": "One Last Kiss-宇多田ヒカル",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "One Last Kiss",
+  "artist": "宇多田ヒカル",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=30",
   "source": "MunMosh.js"
 },
     {
-  "title": "Goodbye Happiness-宇多田ヒカル",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Goodbye Happiness",
+  "artist": "宇多田ヒカル",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=31",
   "source": "MunMosh.js"
 },
     {
-  "title": "光-宇多田ヒカル",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "光",
+  "artist": "宇多田ヒカル",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=32",
   "source": "MunMosh.js"
 },
     {
-  "title": "First Love-宇多田ヒカル",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=33",
   "source": "MunMosh.js"
 },
     {
-  "title": "君の知らない物語-Supercell",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "君の知らない物語",
+  "artist": "Supercell",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=34",
   "source": "MunMosh.js"
 },
     {
-  "title": "ODDS&ENDS-ryo(supercell)",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ODDS&ENDS",
+  "artist": "ryo(supercell)",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=35",
   "source": "MunMosh.js"
 },
     {
-  "title": "ピエロ-KEI",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ピエロ",
+  "artist": "KEI",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=36",

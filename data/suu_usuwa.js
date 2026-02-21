@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1ve411z7Nm
-// 生成时间: 2/21/2026, 6:23:43 PM
+// 生成时间: 2/21/2026, 7:18:45 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7030,128 +7030,128 @@ window.SONG_DATA.push(
   "source": "suu_usuwa.js"
 },
     {
-  "title": "ダンスホール-Mrs. GREEN APPLE",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ダンスホール",
+  "artist": "Mrs. GREEN APPLE",
   "collection": "【 稀羽すう】16】🎶 #80 ダンスホール、 Lemon、夏色【240904】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TStEe8ES5?p=1",
   "source": "suu_usuwa.js"
 },
     {
-  "title": "Lemon-米津玄師",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Lemon",
+  "artist": "米津玄師",
   "collection": "【 稀羽すう】16】🎶 #80 ダンスホール、 Lemon、夏色【240904】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TStEe8ES5?p=2",
   "source": "suu_usuwa.js"
 },
     {
-  "title": "パラボラ-Official髭男dism",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "パラボラ",
+  "artist": "Official髭男dism",
   "collection": "【 稀羽すう】16】🎶 #80 ダンスホール、 Lemon、夏色【240904】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TStEe8ES5?p=3",
   "source": "suu_usuwa.js"
 },
     {
-  "title": "ブルーバード-いきものがかり",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
   "collection": "【 稀羽すう】16】🎶 #80 ダンスホール、 Lemon、夏色【240904】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TStEe8ES5?p=4",
   "source": "suu_usuwa.js"
 },
     {
-  "title": "夏色-ゆず",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "夏色",
+  "artist": "ゆず",
   "collection": "【 稀羽すう】16】🎶 #80 ダンスホール、 Lemon、夏色【240904】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TStEe8ES5?p=5",
   "source": "suu_usuwa.js"
 },
     {
-  "title": "星座になれたら-結束バンド",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "星座になれたら",
+  "artist": "結束バンド",
   "collection": "【 稀羽すう】16】🎶 #80 ダンスホール、 Lemon、夏色【240904】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TStEe8ES5?p=6",
   "source": "suu_usuwa.js"
 },
     {
-  "title": "ルーマー-ポリスピカデリー",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ルーマー",
+  "artist": "ポリスピカデリー",
   "collection": "【 稀羽すう】16】🎶 #80 ダンスホール、 Lemon、夏色【240904】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TStEe8ES5?p=7",
   "source": "suu_usuwa.js"
 },
     {
-  "title": "melt bitter-さとうもか",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "melt bitter",
+  "artist": "さとうもか",
   "collection": "【 稀羽すう】16】🎶 #80 ダンスホール、 Lemon、夏色【240904】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TStEe8ES5?p=8",
   "source": "suu_usuwa.js"
 },
     {
-  "title": "ノーチラス-ヨルシカ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
   "collection": "【 稀羽すう】16】🎶 #80 ダンスホール、 Lemon、夏色【240904】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TStEe8ES5?p=9",
   "source": "suu_usuwa.js"
 },
     {
-  "title": "KissHug-aiko",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "KissHug",
+  "artist": "aiko",
   "collection": "【 稀羽すう】16】🎶 #80 ダンスホール、 Lemon、夏色【240904】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TStEe8ES5?p=10",
   "source": "suu_usuwa.js"
 },
     {
-  "title": "ヴィーナスとジーザス-やくしまるえつこ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ヴィーナスとジーザス",
+  "artist": "やくしまるえつこ",
   "collection": "【 稀羽すう】16】🎶 #80 ダンスホール、 Lemon、夏色【240904】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TStEe8ES5?p=11",
   "source": "suu_usuwa.js"
 },
     {
-  "title": "星間飛行-ランカ・リー(中島愛)",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "星間飛行",
+  "artist": "ランカ・リー(中島愛)",
   "collection": "【 稀羽すう】16】🎶 #80 ダンスホール、 Lemon、夏色【240904】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TStEe8ES5?p=12",
   "source": "suu_usuwa.js"
 },
     {
-  "title": "惑星ループ-ナユタン星人",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "惑星ループ",
+  "artist": "ナユタン星人",
   "collection": "【 稀羽すう】16】🎶 #80 ダンスホール、 Lemon、夏色【240904】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TStEe8ES5?p=13",
   "source": "suu_usuwa.js"
 },
     {
-  "title": "モザイクロール-DECO27",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "モザイクロール",
+  "artist": "DECO27",
   "collection": "【 稀羽すう】16】🎶 #80 ダンスホール、 Lemon、夏色【240904】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TStEe8ES5?p=14",
   "source": "suu_usuwa.js"
 },
     {
-  "title": "え？あぁ、そう。-蝶々P",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "え？あぁ、そう。",
+  "artist": "蝶々P",
   "collection": "【 稀羽すう】16】🎶 #80 ダンスホール、 Lemon、夏色【240904】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TStEe8ES5?p=15",
   "source": "suu_usuwa.js"
 },
     {
-  "title": "ハロ／ハワユ-ナノウ （Piano version）",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ハロ／ハワユ",
+  "artist": "ナノウ (Piano version)",
   "collection": "【 稀羽すう】16】🎶 #80 ダンスホール、 Lemon、夏色【240904】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TStEe8ES5?p=16",

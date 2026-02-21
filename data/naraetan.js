@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1G6fLB7Efr
-// 生成时间: 2/21/2026, 6:22:14 PM
+// 生成时间: 2/21/2026, 7:17:49 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4067,6 +4067,54 @@ window.SONG_DATA.push(
   "collection": "【なれたん 歌切🌷】因为嗓子不舒服，所以慢慢来 [2026-02-20]【#雑談 #歌枠】喉の調子が悪いのでのんびり[KTSFm_zWibg]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "約束をしよう",
+  "artist": "supercell",
+  "collection": "【なれたん歌切🌷】[2026-02-21]土曜日の深夜歌枠🥱【Vsinger⧸なれたん】[bGD_OXxoyTg]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zcfHBMEzU?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "【なれたん歌切🌷】[2026-02-21]土曜日の深夜歌枠🥱【Vsinger⧸なれたん】[bGD_OXxoyTg]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zcfHBMEzU?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Spiritual Garden",
+  "artist": "田村ゆかり",
+  "collection": "【なれたん歌切🌷】[2026-02-21]土曜日の深夜歌枠🥱【Vsinger⧸なれたん】[bGD_OXxoyTg]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zcfHBMEzU?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【なれたん歌切🌷】[2026-02-21]土曜日の深夜歌枠🥱【Vsinger⧸なれたん】[bGD_OXxoyTg]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zcfHBMEzU?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "虹の彼方に",
+  "artist": "ReoNa",
+  "collection": "【なれたん歌切🌷】[2026-02-21]土曜日の深夜歌枠🥱【Vsinger⧸なれたん】[bGD_OXxoyTg]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zcfHBMEzU?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "8.32",
+  "artist": "*Luna",
+  "collection": "【なれたん歌切🌷】[2026-02-21]土曜日の深夜歌枠🥱【Vsinger⧸なれたん】[bGD_OXxoyTg]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zcfHBMEzU?p=6",
   "source": "naraetan.js"
 }
 );
