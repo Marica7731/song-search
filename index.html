@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>歌曲查询站 - B站分P直达</title>
     <style>
-        /* 全局样式重置 */
+        /* 全局样式保持不变 */
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body { 
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; 
@@ -13,9 +13,7 @@
             margin: 0 auto; 
             padding: 20px; 
         }
-        /* 标题样式 */
         h1 { text-align: center; color: #333; margin-bottom: 10px; }
-        /* 导航按钮 */
         .nav-btn-container { text-align: center; margin-bottom: 30px; }
         .nav-btn { 
             padding: 8px 16px; 
@@ -27,14 +25,12 @@
             display: inline-block; 
         }
         .nav-btn:hover { background-color: #218838; }
-        /* 筛选+搜索区域 */
         .filter-search-container {
             display: flex;
             flex-direction: column;
             gap: 15px;
             margin-bottom: 20px;
         }
-        /* 来源筛选栏 */
         .filter-bar {
             display: flex;
             gap: 8px;
@@ -77,7 +73,6 @@
         .filter-btn.clear:hover {
             background: #c82333;
         }
-        /* 搜索区域 */
         .search-container { 
             display: flex; 
             gap: 10px; 
@@ -104,7 +99,6 @@
             white-space: nowrap;
         }
         #search-btn:hover { background-color: #008ebf; }
-        /* 加载/进度提示 */
         .progress-msg { 
             text-align: center; 
             color: #666; 
@@ -119,14 +113,12 @@
             font-size: 16px; 
             display: none;
         }
-        /* 统计信息 */
         .stats-msg {
             text-align: right;
             font-size: 14px;
             color: #666;
             margin-bottom: 10px;
         }
-        /* 歌曲列表 */
         #song-list { 
             list-style: none; 
             padding: 0; 
@@ -169,7 +161,6 @@
             white-space: nowrap;
         }
         .song-link a:hover { background-color: #008ebf; }
-        /* 分页样式 */
         .pagination { 
             display: flex; 
             justify-content: center; 
@@ -205,82 +196,96 @@
         <a href="converter.html" target="_blank" class="nav-btn">🔄 打开歌单数据转换器</a>
     </div>
 
-    <!-- 新增：筛选+搜索组合区域 -->
     <div class="filter-search-container">
-        <!-- 来源筛选栏（对应你的10个JS文件） -->
         <div class="filter-bar" id="filter-bar">
             <span class="filter-label">🔍 按歌手/来源筛选：</span>
-            <!-- 筛选按钮会自动生成，对应index.json中的files -->
         </div>
 
-        <!-- 搜索区域 -->
         <div class="search-container">
             <input type="text" id="search-input" placeholder="输入歌名、歌手名、合集名或UP主搜索...">
             <button id="search-btn">🔍 全局搜索</button>
         </div>
     </div>
 
-    <!-- 统计信息（新增） -->
     <div class="stats-msg" id="stats-msg">总歌曲数：0 | 筛选后：0 | 搜索结果：0</div>
-
-    <!-- 状态提示 -->
-    <div class="progress-msg" id="progress-msg">📥 正在加载歌库（共12548条），请稍候...</div>
+    <div class="progress-msg" id="progress-msg">📥 正在并行加载歌库，请稍候...</div>
     <div class="empty-msg" id="empty-msg">❌ 未找到匹配的歌曲</div>
-
-    <!-- 歌曲列表 -->
     <ul id="song-list"></ul>
-
-    <!-- 分页容器 -->
     <div class="pagination" id="pagination"></div>
 
     <script>
-        // 全局变量
         window.SONG_DATA = [];
-        let originalData = []; // 原始数据（带来源标记）
-        let filteredBySource = []; // 按来源筛选后的数据
-        let filteredBySearch = []; // 最终搜索结果
-        const PAGE_SIZE = 50; // 每页显示50条
+        let originalData = [];
+        let filteredBySource = [];
+        let filteredBySearch = [];
+        const PAGE_SIZE = 50;
         let currentPage = 1;
-        let activeSource = 'all'; // 当前选中的来源（all=全部）
-        const fileNames = []; // 存储index.json中的文件名称
-        let FILE_TO_ALIAS = {}; // 存储file→alias映射（自动加载）
+        let activeSource = 'all';
+        const fileNames = [];
+        let FILE_TO_ALIAS = {};
 
-        // 1. 加载单个JS数据文件（新增：为每条数据标记来源）
-        function loadScript(url, fileName) {
-            return new Promise((resolve, reject) => {
-                const script = document.createElement('script');
-                script.src = url;
-                script.onload = () => {
-                    // 为刚加载的这批数据标记来源
-                    const newData = window.SONG_DATA.slice(-(window.SONG_DATA.length - originalData.length));
-                    newData.forEach(item => {
-                        item.source = fileName; // 标记来源文件（如figaro.js）
-                    });
-                    originalData = [...window.SONG_DATA]; // 更新原始数据
-                    resolve();
-                };
-                script.onerror = () => reject(new Error(`加载文件失败：${url}`));
-                document.body.appendChild(script);
+        // 【优化1】并行加载器：使用 Promise.all 同时发起所有请求
+        function loadScriptsParallel(fileList) {
+            const progressMsg = document.getElementById('progress-msg');
+            let loadedCount = 0;
+            const totalFiles = fileList.length;
+
+            // 为每个文件创建一个加载 Promise
+            const promises = fileList.map(fileName => {
+                return new Promise((resolve, reject) => {
+                    const script = document.createElement('script');
+                    script.src = `data/${fileName}`;
+                    
+                    script.onload = () => {
+                        // 【关键】标记当前这批数据的来源
+                        // 由于是并行加载，我们需要在每个脚本加载时立即处理
+                        // 这里利用闭包保存 fileName
+                        const currentTotalLength = window.SONG_DATA.length;
+                        const lastOriginalLength = originalData.length;
+                        const newDataCount = currentTotalLength - lastOriginalLength;
+                        
+                        if (newDataCount > 0) {
+                            const newData = window.SONG_DATA.slice(-newDataCount);
+                            newData.forEach(item => {
+                                item.source = fileName;
+                            });
+                            // 更新 originalData 为当前全量数据
+                            originalData = [...window.SONG_DATA];
+                        }
+
+                        // 更新进度
+                        loadedCount++;
+                        progressMsg.textContent = `📥 正在并行加载歌库（${loadedCount}/${totalFiles}个文件）...`;
+                        resolve();
+                    };
+                    
+                    script.onerror = () => {
+                        console.error(`❌ 加载失败：${fileName}`);
+                        loadedCount++;
+                        progressMsg.textContent = `📥 正在并行加载歌库（${loadedCount}/${totalFiles}个文件，部分失败）...`;
+                        resolve(); // 即使一个失败也不阻塞其他文件
+                    };
+                    
+                    document.body.appendChild(script);
+                });
             });
+
+            return Promise.all(promises);
         }
 
-        // 2. 生成来源筛选按钮（优化：显示alias）
         function generateFilterButtons() {
             const filterBar = document.getElementById('filter-bar');
-            // 清空原有按钮
             filterBar.innerHTML = '<span class="filter-label">🔍 按歌手/来源筛选：</span>';
 
-            // 全部按钮
             const allBtn = document.createElement('button');
             allBtn.className = `filter-btn ${activeSource === 'all' ? 'active' : ''}`;
             allBtn.textContent = '全部';
             allBtn.onclick = () => switchSource('all');
             filterBar.appendChild(allBtn);
 
-            // 为每个文件生成筛选按钮（显示alias，用file筛选）
             fileNames.forEach(fileName => {
                 const fileBase = fileName.replace('.js', '');
-                const btnText = FILE_TO_ALIAS[fileBase] || fileBase; // 优先显示alias
+                const btnText = FILE_TO_ALIAS[fileBase] || fileBase;
                 const btn = document.createElement('button');
                 btn.className = `filter-btn ${activeSource === fileName ? 'active' : ''}`;
                 btn.textContent = btnText;
@@ -288,7 +293,6 @@
                 filterBar.appendChild(btn);
             });
 
-            // 清空筛选按钮
             const clearBtn = document.createElement('button');
             clearBtn.className = 'filter-btn clear';
             clearBtn.textContent = '清空筛选';
@@ -300,11 +304,9 @@
             filterBar.appendChild(clearBtn);
         }
 
-        // 3. 切换来源筛选（优化：匹配alias显示）
         function switchSource(source) {
             activeSource = source;
-            currentPage = 1; // 切换筛选后重置到第一页
-            // 更新按钮样式
+            currentPage = 1;
             document.querySelectorAll('.filter-btn').forEach(btn => {
                 if (btn.textContent === '全部' && source === 'all') {
                     btn.classList.add('active');
@@ -319,20 +321,16 @@
                     btn.classList.remove('active');
                 }
             });
-            // 更新筛选和搜索结果
             updateFilterAndSearch();
         }
 
-        // 4. 更新筛选+搜索结果（核心：新增）
         function updateFilterAndSearch() {
-            // 第一步：按来源筛选
             if (activeSource === 'all') {
                 filteredBySource = [...originalData];
             } else {
                 filteredBySource = originalData.filter(item => item.source === activeSource);
             }
 
-            // 第二步：在来源筛选结果内做关键词搜索
             const keyword = document.getElementById('search-input').value.trim().toLowerCase();
             if (keyword) {
                 filteredBySearch = filteredBySource.filter(item => {
@@ -346,76 +344,63 @@
                 filteredBySearch = [...filteredBySource];
             }
 
-            // 更新统计信息
             updateStats();
-            // 渲染列表和分页
             renderSongList(filteredBySearch);
         }
 
-        // 5. 更新统计信息（新增）
         function updateStats() {
             const statsMsg = document.getElementById('stats-msg');
             statsMsg.textContent = `总歌曲数：${originalData.length} | 筛选后：${filteredBySource.length} | 搜索结果：${filteredBySearch.length}`;
         }
 
-        // 6. 渲染歌曲列表（优化：显示alias来源 + 仅在link有效时显示跳转按钮）
-function renderSongList(data) {
-    const songListEl = document.getElementById('song-list');
-    songListEl.innerHTML = ''; // 清空原有内容
+        function renderSongList(data) {
+            const songListEl = document.getElementById('song-list');
+            songListEl.innerHTML = '';
 
-    // 计算当前页显示的数据
-    const start = (currentPage - 1) * PAGE_SIZE;
-    const end = start + PAGE_SIZE;
-    const pageData = data.slice(start, end);
+            const start = (currentPage - 1) * PAGE_SIZE;
+            const end = start + PAGE_SIZE;
+            const pageData = data.slice(start, end);
 
-    // 渲染当前页数据
-    if (pageData.length === 0) {
-        document.getElementById('empty-msg').style.display = 'block';
-    } else {
-        document.getElementById('empty-msg').style.display = 'none';
-        pageData.forEach(item => {
-            // 来源显示alias
-            const sourceBase = item.source?.replace('.js', '');
-            const sourceAlias = FILE_TO_ALIAS[sourceBase] || item.source || '未知';
-            
-            // 核心修改：判断link是否有效（非null + 包含BV）
-            const isLinkValid = item.link && /BV\w+/.test(item.link);
-            // 生成跳转按钮（有效则显示，无效则为空）
-            const linkHtml = isLinkValid 
-                ? `<div class="song-link"><a href="${item.link}" target="_blank">直达B站</a></div>` 
-                : '';
-            
-            const li = document.createElement('li');
-            li.className = 'song-item';
-            li.innerHTML = `
-                <div class="song-info">
-                    <div class="song-title">${item.title || '未知歌曲'}</div>
-                    <div class="song-meta">
-                        歌手：${item.artist || '未知'} / 
-                        合集：${item.collection || '未知'} / 
-                        UP主：${item.up || '未知'}
-                    </div>
-                    <div class="song-source">来源：${sourceAlias}</div>
-                </div>
-                ${linkHtml} <!-- 仅link有效时显示按钮 -->
-            `;
-            songListEl.appendChild(li);
-        });
-    }
+            if (pageData.length === 0) {
+                document.getElementById('empty-msg').style.display = 'block';
+            } else {
+                document.getElementById('empty-msg').style.display = 'none';
+                pageData.forEach(item => {
+                    const sourceBase = item.source?.replace('.js', '');
+                    const sourceAlias = FILE_TO_ALIAS[sourceBase] || item.source || '未知';
+                    const isLinkValid = item.link && /BV\w+/.test(item.link);
+                    const linkHtml = isLinkValid 
+                        ? `<div class="song-link"><a href="${item.link}" target="_blank">直达B站</a></div>` 
+                        : '';
+                    
+                    const li = document.createElement('li');
+                    li.className = 'song-item';
+                    li.innerHTML = `
+                        <div class="song-info">
+                            <div class="song-title">${item.title || '未知歌曲'}</div>
+                            <div class="song-meta">
+                                歌手：${item.artist || '未知'} / 
+                                合集：${item.collection || '未知'} / 
+                                UP主：${item.up || '未知'}
+                            </div>
+                            <div class="song-source">来源：${sourceAlias}</div>
+                        </div>
+                        ${linkHtml}
+                    `;
+                    songListEl.appendChild(li);
+                });
+            }
 
-    // 渲染分页
-    renderPagination(data.length);
-}
+            renderPagination(data.length);
+        }
 
-        // 7. 渲染分页控件
         function renderPagination(total) {
             const paginationEl = document.getElementById('pagination');
             paginationEl.innerHTML = '';
 
             const totalPages = Math.ceil(total / PAGE_SIZE);
-            if (totalPages <= 1) return; // 只有1页，不显示分页
+            if (totalPages <= 1) return;
 
-            // 上一页按钮
             const prevBtn = document.createElement('button');
             prevBtn.className = `page-btn ${currentPage === 1 ? 'disabled' : ''}`;
             prevBtn.textContent = '上一页';
@@ -427,7 +412,6 @@ function renderSongList(data) {
             };
             paginationEl.appendChild(prevBtn);
 
-            // 页码按钮（只显示当前页前后3页）
             const startPage = Math.max(1, currentPage - 3);
             const endPage = Math.min(totalPages, currentPage + 3);
             for (let i = startPage; i <= endPage; i++) {
@@ -441,7 +425,6 @@ function renderSongList(data) {
                 paginationEl.appendChild(pageBtn);
             }
 
-            // 下一页按钮
             const nextBtn = document.createElement('button');
             nextBtn.className = `page-btn ${currentPage === totalPages ? 'disabled' : ''}`;
             nextBtn.textContent = '下一页';
@@ -454,12 +437,10 @@ function renderSongList(data) {
             paginationEl.appendChild(nextBtn);
         }
 
-        // 8. 初始化搜索事件（优化：关联筛选）
         function initSearch() {
             const searchInput = document.getElementById('search-input');
             const searchBtn = document.getElementById('search-btn');
 
-            // 回车事件
             searchInput.addEventListener('keydown', (e) => {
                 if (e.key === 'Enter' || e.keyCode === 13) {
                     e.preventDefault();
@@ -468,13 +449,11 @@ function renderSongList(data) {
                 }
             });
 
-            // 点击事件
             searchBtn.addEventListener('click', () => {
                 currentPage = 1;
                 updateFilterAndSearch();
             });
 
-            // 实时搜索（防抖）
             let searchTimer = null;
             searchInput.addEventListener('input', () => {
                 clearTimeout(searchTimer);
@@ -485,33 +464,28 @@ function renderSongList(data) {
             });
         }
 
-        // 9. 主流程：加载数据→初始化
+        // 【优化2】主流程：使用并行加载器
         async function bootstrap() {
             try {
-                // 加载index.json（含file→alias映射）
                 const res = await fetch('data/index.json');
                 if (!res.ok) throw new Error(`加载索引失败（状态码：${res.status}）`);
                 const config = await res.json();
-                fileNames.push(...(config.files || [])); // 存储文件名称
-                FILE_TO_ALIAS = config.fileToAlias || {}; // 加载alias映射
+                fileNames.push(...(config.files || []));
+                FILE_TO_ALIAS = config.fileToAlias || {};
 
                 if (fileNames.length === 0) throw new Error('index.json中无数据文件配置');
 
-                // 批量加载数据JS
                 const progressMsg = document.getElementById('progress-msg');
-                let loadedCount = 0;
-                for (const fileName of fileNames) {
-                    await loadScript(`data/${fileName}`, fileName);
-                    loadedCount++;
-                    progressMsg.textContent = `📥 正在加载歌库（${loadedCount}/${fileNames.length}个文件）...`;
-                }
+                progressMsg.textContent = `📥 正在并行加载 ${fileNames.length} 个歌库文件...`;
+
+                // 【关键】并行加载所有文件
+                await loadScriptsParallel(fileNames);
 
                 // 加载完成
                 progressMsg.textContent = `✅ 歌库加载完成，总歌曲数：${originalData.length}`;
                 filteredBySource = [...originalData];
                 filteredBySearch = [...originalData];
 
-                // 初始化筛选按钮+搜索+统计+列表
                 generateFilterButtons();
                 initSearch();
                 updateStats();
@@ -525,7 +499,6 @@ function renderSongList(data) {
             }
         }
 
-        // 页面加载完成后启动
         document.addEventListener('DOMContentLoaded', bootstrap);
     </script>
 </body>
