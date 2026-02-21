@@ -18,6 +18,11 @@ try {
     }
 }
 
+// ================= 可配置项（你可以在这里修改兜底文本） =================
+// 无标准歌手格式时的兜底文本，想要空值就改成 '' 即可
+const DEFAULT_ARTIST_TEXT = '来源处未提供标准格式歌手';
+// const DEFAULT_ARTIST_TEXT = ''; // 取消这行注释，歌手字段就会留空
+
 // ================= 通用重试函数 =================
 async function withRetry(fn, maxRetries = 3, delay = 5000) {
     let lastError;
@@ -39,7 +44,6 @@ const BILI_VIDEO_PREFIX = 'https://www.bilibili.com/video/';
 const BV_REGEX = /BV[0-9a-zA-Z]+/;
 const PLAYLIST_SELECTORS = ['.video-pod__list .pod-item'];
 
-// 【关键修复1】完全对齐油猴脚本的选择器定义
 const PART_TITLE_SELECTORS = [
     '.page-list .page-item.sub .title-txt', // 分P合集选择器 (在pod-item内部)
     '.title .title-txt'                      // 单集合集选择器 (直接在当前容器内找标题)
@@ -72,7 +76,7 @@ const SINGER_CONFIGS = [
 const DATA_DIR = path.join(__dirname, '..', 'data');
 const BILI_VIDEO_URL = (bvid) => `https://www.bilibili.com/video/${bvid}`;
 
-// ================= 3. 核心：Puppeteer加载页面（100%复刻油猴 getRawData 逻辑） =================
+// ================= 3. 核心：Puppeteer加载页面 =================
 async function loadVideoPageWithBrowser(bvid) {
     const url = BILI_VIDEO_URL(bvid);
     let browser;
@@ -109,17 +113,14 @@ async function loadVideoPageWithBrowser(bvid) {
 
         await new Promise(resolve => setTimeout(resolve, DELAY_TIME));
 
-        // 【关键修复2】完全复刻油猴脚本的 getRawData 函数逻辑，一行一行对齐
         const rawData = await page.evaluate((
             PLAYLIST_SELECTORS, 
             PART_TITLE_SELECTORS, 
             COLLECTION_TITLE_SELECTORS,
             inputBvid
         ) => {
-            // 浏览器内重新定义正则
             const BV_REGEX = /BV[0-9a-zA-Z]+/;
 
-            // 通用选择器函数：完全复刻油猴脚本
             function querySelectorFallback(container, selectors) {
                 for (const selector of selectors) {
                     const element = container.querySelector(selector);
@@ -146,13 +147,10 @@ async function loadVideoPageWithBrowser(bvid) {
                 return null;
             }
 
-            // 【关键修复3】移除有问题的“全局标题优先”逻辑，改为对每个容器独立处理
             return Array.from(containers).map((container, idx) => {
-                // 1. 提取合集标题（完全对齐油猴：只在当前容器内查找，找不到用默认值）
                 const colTitleNode = querySelectorFallback(container, COLLECTION_TITLE_SELECTORS);
                 const colTitle = colTitleNode?.textContent.trim() || `合集${idx+1}`;
 
-                // 2. 提取UP主
                 let upName = "未知UP主";
                 const upMatch = colTitle.match(/\[([^\]]+?\s*Ch\.[^\]]+)\]/);
                 if (upMatch) {
@@ -162,23 +160,18 @@ async function loadVideoPageWithBrowser(bvid) {
                     if (upEle) upName = upEle.textContent.trim();
                 }
 
-                // 3. 提取分P列表（完全对齐油猴逻辑）
-                // 优先找真正的分P
                 let partNodes = querySelectorAllFallback(container, [PART_TITLE_SELECTORS[0]]);
                 let parts = Array.from(partNodes).map(node => node.textContent.trim());
 
-                // 如果是单集（没有找到分P列表），则直接提取当前标题作为唯一的一集
                 if (parts.length === 0) {
                      const singleTitleNode = querySelectorFallback(container, [PART_TITLE_SELECTORS[1]]);
                      if (singleTitleNode) {
                          parts.push(singleTitleNode.textContent.trim());
                      } else if (colTitleNode) {
-                         // 兜底
                          parts.push(colTitle);
                      }
                 }
 
-                // 4. 提取BV号（优先data-key，失败用传入的inputBvid）
                 let collectionBv = inputBvid;
                 const dataKey = container.dataset.key;
                 if (dataKey) {
@@ -206,7 +199,7 @@ async function loadVideoPageWithBrowser(bvid) {
     }
 }
 
-// ================= 4. 处理单个歌手 =================
+// ================= 4. 处理单个歌手（核心逻辑重写，完全符合你的需求） =================
 async function processSinger(config) {
     const { bvid, file, alias } = config;
     console.log(`\n[处理中] ${alias} (BV: ${bvid})...`);
@@ -219,15 +212,29 @@ async function processSinger(config) {
     let songs = [];
     rawData.forEach(col => {
         col.parts.forEach((p, i) => {
-            let artist = col.up;
+            // 【核心重写】
+            // 1. 初始化歌手为兜底文本，不再默认填充alias
+            let artist = DEFAULT_ARTIST_TEXT;
             let songTitle = p;
             
+            // 2. 清洗标题：去掉序号、P前缀等无关内容
             let cleanTitle = p.replace(/^\d+\.\s*/, '').replace(/^P\d+[：:]\s*/, '');
+            
+            // 3. 只有标题包含「 - 」标准格式，才尝试提取歌手
             if (cleanTitle.includes(' - ')) {
-                const parts = cleanTitle.split(' - ');
-                songTitle = parts[0].trim();
-                artist = parts[parts.length - 1].trim() || artist;
+                const titleParts = cleanTitle.split(' - ');
+                // 取第一部分为歌名，最后一部分为歌手（兼容歌名里带「 - 」的情况）
+                const extractedTitle = titleParts[0].trim();
+                const extractedArtist = titleParts[titleParts.length - 1].trim();
+                
+                // 只有提取到有效歌手名，才覆盖兜底文本
+                if (extractedArtist) {
+                    artist = extractedArtist;
+                }
+                // 歌名用清洗后的内容
+                songTitle = extractedTitle;
             } else {
+                // 4. 无标准格式，直接用清洗后的标题当歌名，歌手保持兜底文本
                 songTitle = cleanTitle;
             }
 
@@ -243,7 +250,7 @@ async function processSinger(config) {
                 title: songTitle,
                 artist: artist,
                 collection: col.collectionTitle,
-                up: col.up,
+                up: col.up, // UP主字段独立保留，不影响歌手
                 link: link,
                 source: `${file}.js`
             });
@@ -270,7 +277,7 @@ async function processSinger(config) {
     return true;
 }
 
-// ================= 5. 生成index.json（含file→alias映射） =================
+// ================= 5. 生成index.json =================
 function generateIndexJson() {
     const indexPath = path.join(DATA_DIR, 'index.json');
     const indexData = {
@@ -287,7 +294,7 @@ function generateIndexJson() {
 // ================= 6. 主程序 =================
 async function main() {
     console.log("========================================");
-    console.log("   🚀 B站分P解析（油猴逻辑复刻）启动");
+    console.log("   🚀 B站分P解析（歌手字段规则优化版）启动");
     console.log("========================================");
     
     if (!fs.existsSync(DATA_DIR)) {
