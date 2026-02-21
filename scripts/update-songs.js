@@ -60,7 +60,7 @@ const SINGER_CONFIGS = [
     { bvid: "BV1p1zBBCEZ3", file: "yoshika", alias: "よしか YOSHIKA" },
     { bvid: "BV1aDzEBBE3S", file: "yuri", alias: "優莉 yuri" },
     { bvid: "BV1zzZPBsEum", file: "otomoneruki", alias: "音門るき" },
-    { bvid: "BV1PZHdzqE6k", file: "nayuta-piano-live", alias: "nayuta生演奏" },
+    { bvid: "BV1GXYFzXETo", file: "nayuta-piano-live", alias: "nayuta生演奏" },
     { bvid: "BV1MPpUzsE1D", file: "nayuta-daily", alias: "nayuta日常" },
     { bvid: "BV1UCkhBkEon", file: "MunMosh", alias: "むんもっしゅ" },
     { bvid: "BV1exR4YGE42", file: "test", alias: "测试单集" },
@@ -221,12 +221,20 @@ async function processSinger(config) {
                 songTitle = cleanTitle;
             }
 
+            // 核心修改：校验BV号有效性，无效则link设为null
+            let link = null;
+            if (BV_REGEX.test(col.collectionBv)) {
+                link = `${BILI_VIDEO_PREFIX}${col.collectionBv}?p=${i+1}`;
+            } else {
+                console.warn(`⚠️  无效BV号：${col.collectionBv}（${alias} - ${p}），跳过生成跳转链接`);
+            }
+
             songs.push({
                 title: songTitle,
                 artist: artist,
                 collection: col.collectionTitle,
                 up: col.up,
-                link: `${BILI_VIDEO_PREFIX}${col.collectionBv}?p=${i+1}`,
+                link: link, // 有效=完整链接，无效=null
                 source: `${file}.js`
             });
         });
