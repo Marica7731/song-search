@@ -1,2157 +1,2149 @@
 // むんもっしゅ - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1UCkhBkEon
-// 生成时间: 2/21/2026, 6:35:09 AM
+// 生成时间: 2/21/2026, 7:25:33 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
     {
-  "title": "1ノーチラス",
-  "artist": "前尘往事如昔故",
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=1",
   "source": "MunMosh.js"
 },
     {
-  "title": "2花に亡霊 、 ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=2",
   "source": "MunMosh.js"
 },
     {
-  "title": "3春泥棒 、 ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=3",
   "source": "MunMosh.js"
 },
     {
-  "title": "4ただ君に晴れ 、 ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=4",
   "source": "MunMosh.js"
 },
     {
-  "title": "5靴の花火 、 ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=5",
   "source": "MunMosh.js"
 },
     {
-  "title": "6言って。、 ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "title": "言って。",
+  "artist": "ヨルシカ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=6",
   "source": "MunMosh.js"
 },
     {
-  "title": "7ヒッチコック、 ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=7",
   "source": "MunMosh.js"
 },
     {
-  "title": "8パレード 、 ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "title": "パレード",
+  "artist": "ヨルシカ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=8",
   "source": "MunMosh.js"
 },
     {
-  "title": "9雲と幽霊  、 ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "title": "雲と幽霊",
+  "artist": "ヨルシカ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=9",
   "source": "MunMosh.js"
 },
     {
-  "title": "10トイレの神様、 植村 花菜",
-  "artist": "前尘往事如昔故",
+  "title": "トイレの神様",
+  "artist": "植村 花菜",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=10",
   "source": "MunMosh.js"
 },
     {
-  "title": "11プラチナ、 坂本真綾",
-  "artist": "前尘往事如昔故",
+  "title": "プラチナ",
+  "artist": "坂本真綾",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=11",
   "source": "MunMosh.js"
 },
     {
-  "title": "12tune the rainbow 、 坂本真綾",
-  "artist": "前尘往事如昔故",
+  "title": "tune the rainbow",
+  "artist": "坂本真綾",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=12",
   "source": "MunMosh.js"
 },
     {
-  "title": "13スピラーレ、 牧野由依",
-  "artist": "前尘往事如昔故",
+  "title": "スピラーレ",
+  "artist": "牧野由依",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=13",
   "source": "MunMosh.js"
 },
     {
-  "title": "14アムリタ、 牧野 由依",
-  "artist": "前尘往事如昔故",
+  "title": "アムリタ",
+  "artist": "牧野 由依",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=14",
   "source": "MunMosh.js"
 },
     {
-  "title": "15シンフォニー 、 牧野 由依",
-  "artist": "前尘往事如昔故",
+  "title": "シンフォニー",
+  "artist": "牧野 由依",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=15",
   "source": "MunMosh.js"
 },
     {
-  "title": "16ユーフォリア、 牧野 由依",
-  "artist": "前尘往事如昔故",
+  "title": "ユーフォリア",
+  "artist": "牧野 由依",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=16",
   "source": "MunMosh.js"
 },
     {
-  "title": "17もどかしい世界の上で、 牧野 由依",
-  "artist": "前尘往事如昔故",
+  "title": "もどかしい世界の上で",
+  "artist": "牧野 由依",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=17",
   "source": "MunMosh.js"
 },
     {
-  "title": "18ふわふわ♪、 牧野 由依",
-  "artist": "前尘往事如昔故",
+  "title": "ふわふわ♪",
+  "artist": "牧野 由依",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=18",
   "source": "MunMosh.js"
 },
     {
-  "title": "19カントリーロード、本名陽子",
-  "artist": "前尘往事如昔故",
+  "title": "カントリーロード",
+  "artist": "本名陽子",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=19",
   "source": "MunMosh.js"
 },
     {
-  "title": "20風になる 、 つじあやの",
-  "artist": "前尘往事如昔故",
+  "title": "風になる",
+  "artist": "つじあやの",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=20",
   "source": "MunMosh.js"
 },
     {
-  "title": "21君をのせて 、 井上あずみ",
-  "artist": "前尘往事如昔故",
+  "title": "君をのせて",
+  "artist": "井上あずみ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=21",
   "source": "MunMosh.js"
 },
     {
-  "title": "22さよならの夏～コクリコ坂から～、手嶌葵",
-  "artist": "前尘往事如昔故",
+  "title": "さよならの夏～コクリコ坂から～",
+  "artist": "手嶌葵",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=22",
   "source": "MunMosh.js"
 },
     {
-  "title": "23やさしさに包まれたなら 、 荒井由実",
-  "artist": "前尘往事如昔故",
+  "title": "やさしさに包まれたなら",
+  "artist": "荒井由実",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=23",
   "source": "MunMosh.js"
 },
     {
-  "title": "24卒業写真 、 荒井由実",
-  "artist": "前尘往事如昔故",
+  "title": "卒業写真",
+  "artist": "荒井由実",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=24",
   "source": "MunMosh.js"
 },
     {
-  "title": "25一番の宝物 ～Yui final ver.～ 、 Girls Dead Monster",
-  "artist": "前尘往事如昔故",
+  "title": "一番の宝物 ～Yui final ver.～",
+  "artist": "Girls Dead Monster",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=25",
   "source": "MunMosh.js"
 },
     {
-  "title": "26Alchemy 、 Girls Dead Monster",
-  "artist": "前尘往事如昔故",
+  "title": "Alchemy",
+  "artist": "Girls Dead Monster",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=26",
   "source": "MunMosh.js"
 },
     {
-  "title": "27Bravely You 、 Lia",
-  "artist": "前尘往事如昔故",
+  "title": "Bravely You",
+  "artist": "Lia",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=27",
   "source": "MunMosh.js"
 },
     {
-  "title": "28夏影 、 Lia",
-  "artist": "前尘往事如昔故",
+  "title": "夏影",
+  "artist": "Lia",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=28",
   "source": "MunMosh.js"
 },
     {
-  "title": "29青空 、 Lia",
-  "artist": "前尘往事如昔故",
+  "title": "青空",
+  "artist": "Lia",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=29",
   "source": "MunMosh.js"
 },
     {
-  "title": "30Before I Rise 、 麻枝准×やなぎなぎ",
-  "artist": "前尘往事如昔故",
+  "title": "Before I Rise",
+  "artist": "麻枝准 x やなぎなぎ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=30",
   "source": "MunMosh.js"
 },
     {
-  "title": "31きみの横顔 、 麻枝准×やなぎなぎ",
-  "artist": "前尘往事如昔故",
+  "title": "きみの横顔",
+  "artist": "麻枝准 x やなぎなぎ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=31",
   "source": "MunMosh.js"
 },
     {
-  "title": "32Deartures ～あなたにおくるアイの歌～、 EGOIST",
-  "artist": "前尘往事如昔故",
+  "title": "Ghost of a smile",
+  "artist": "EGOIST",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=32",
   "source": "MunMosh.js"
 },
     {
-  "title": "33Ghost of a smile 、 EGOIST",
-  "artist": "前尘往事如昔故",
+  "title": "The Everlasting Guilty Crown",
+  "artist": "EGOIST",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=33",
   "source": "MunMosh.js"
 },
     {
-  "title": "34The Everlasting Guilty Crown 、 EGOIST",
-  "artist": "前尘往事如昔故",
+  "title": "Planetes",
+  "artist": "EGOIST",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=34",
   "source": "MunMosh.js"
 },
     {
-  "title": "35Planetes 、 EGOIST",
-  "artist": "前尘往事如昔故",
+  "title": "涙そうそう",
+  "artist": "夏川りみ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=35",
   "source": "MunMosh.js"
 },
     {
-  "title": "36涙そうそう、 夏川りみ",
-  "artist": "前尘往事如昔故",
+  "title": "glow",
+  "artist": "Keeno",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=36",
   "source": "MunMosh.js"
 },
     {
-  "title": "37glow 、 Keeno",
-  "artist": "前尘往事如昔故",
+  "title": "Tell Your World",
+  "artist": "kz (livetune)",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=37",
   "source": "MunMosh.js"
 },
     {
-  "title": "38Tell Your World 、 kz (livetune)",
-  "artist": "前尘往事如昔故",
+  "title": "エウテルペ",
+  "artist": "EGOIST",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=38",
   "source": "MunMosh.js"
 },
     {
-  "title": "39エウテルペ、 EGOIST",
-  "artist": "前尘往事如昔故",
+  "title": "All Alone With You",
+  "artist": "EGOIST",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=39",
   "source": "MunMosh.js"
 },
     {
-  "title": "40All Alone With You 、 EGOIST",
-  "artist": "前尘往事如昔故",
+  "title": "One more time one more chance",
+  "artist": "山崎まさよし",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=40",
   "source": "MunMosh.js"
 },
     {
-  "title": "41One more time one more chance 、 山崎まさよし",
-  "artist": "前尘往事如昔故",
+  "title": "Secret of my heart",
+  "artist": "倉木麻衣",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=41",
   "source": "MunMosh.js"
 },
     {
-  "title": "42Secret of my heart 、倉木麻衣",
-  "artist": "前尘往事如昔故",
+  "title": "渡月橋 〜君 想ふ〜",
+  "artist": "倉木麻衣",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=42",
   "source": "MunMosh.js"
 },
     {
-  "title": "43渡月橋 〜君 想ふ〜、 倉木麻衣",
-  "artist": "前尘往事如昔故",
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=43",
   "source": "MunMosh.js"
 },
     {
-  "title": "44First Love 、 宇多田ヒカル",
-  "artist": "前尘往事如昔故",
+  "title": "春よ、来い",
+  "artist": "松任谷由実",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=44",
   "source": "MunMosh.js"
 },
     {
-  "title": "45春よ、来い 、 松任谷由実",
-  "artist": "前尘往事如昔故",
+  "title": "歌うたいのバラッド",
+  "artist": "斉藤和義",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=45",
   "source": "MunMosh.js"
 },
     {
-  "title": "46歌うたいのバラッド 、 斉藤和義",
-  "artist": "前尘往事如昔故",
+  "title": "コネクト",
+  "artist": "ClariS",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=46",
   "source": "MunMosh.js"
 },
     {
-  "title": "47コネクト 、 ClariS",
-  "artist": "前尘往事如昔故",
+  "title": "遥か",
+  "artist": "GReeeeN",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=47",
   "source": "MunMosh.js"
 },
     {
-  "title": "48遥か、 GReeeeN",
-  "artist": "前尘往事如昔故",
+  "title": "ビリミリオン",
+  "artist": "優里",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=48",
   "source": "MunMosh.js"
 },
     {
-  "title": "49ビリミリオン、 優里",
-  "artist": "前尘往事如昔故",
+  "title": "fight",
+  "artist": "YUI",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=49",
   "source": "MunMosh.js"
 },
     {
-  "title": "50fight 、 YUI",
-  "artist": "前尘往事如昔故",
+  "title": "GLORIA",
+  "artist": "YUI",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=50",
   "source": "MunMosh.js"
 },
     {
-  "title": "51GLORIA 、 YUI",
-  "artist": "前尘往事如昔故",
+  "title": "紅蓮華",
+  "artist": "LiSA",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=51",
   "source": "MunMosh.js"
 },
     {
-  "title": "52紅蓮華 、 LiSA",
-  "artist": "前尘往事如昔故",
+  "title": "Mela!",
+  "artist": "緑黄色社会",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=52",
   "source": "MunMosh.js"
 },
     {
-  "title": "53Mela! 、 緑黄色社会",
-  "artist": "前尘往事如昔故",
+  "title": "美しきもの",
+  "artist": "Sound Horizon",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=53",
   "source": "MunMosh.js"
 },
     {
-  "title": "54美しきもの、 Sound Horizon",
-  "artist": "前尘往事如昔故",
+  "title": "Ark",
+  "artist": "Sound Horizon",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=54",
   "source": "MunMosh.js"
 },
     {
-  "title": "55Ark 、 Sound Horizon",
-  "artist": "前尘往事如昔故",
+  "title": "小さなてのひら",
+  "artist": "riya",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=55",
   "source": "MunMosh.js"
 },
     {
-  "title": "56小さなてのひら、 riya",
-  "artist": "前尘往事如昔故",
+  "title": "君という神話",
+  "artist": "麻枝准 x やなぎなぎ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=56",
   "source": "MunMosh.js"
 },
     {
-  "title": "57君という神話、 麻枝准×やなぎなぎ",
-  "artist": "前尘往事如昔故",
+  "title": "鳥の詩",
+  "artist": "Lia",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=57",
   "source": "MunMosh.js"
 },
     {
-  "title": "58鳥の詩 、 Lia",
-  "artist": "前尘往事如昔故",
+  "title": "平行線",
+  "artist": "Eve x suis from ヨルシカ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=58",
   "source": "MunMosh.js"
 },
     {
-  "title": "59平行線、 Eve × suis from ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "title": "ファンサ",
+  "artist": "mona(CV-夏川椎菜)【HoneyWorks】",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=59",
   "source": "MunMosh.js"
 },
     {
-  "title": "60ファンサ 、 mona(CV：夏川椎菜)【HoneyWorks】",
-  "artist": "前尘往事如昔故",
-  "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=60",
-  "source": "MunMosh.js"
-},
-    {
-  "title": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
-  "artist": "前尘往事如昔故",
+  "title": "からくりピエロ",
+  "artist": "40mP",
   "collection": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ec411Y7vF?p=1",
   "source": "MunMosh.js"
 },
     {
-  "title": "1-2ロストワンの号哭  Neru",
-  "artist": "前尘往事如昔故",
+  "title": "ロストワンの号哭",
+  "artist": "Neru",
   "collection": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ec411Y7vF?p=2",
   "source": "MunMosh.js"
 },
     {
-  "title": "1-3ツギハギスタッカート  とあ",
-  "artist": "前尘往事如昔故",
+  "title": "ツギハギスタッカート",
+  "artist": "とあ",
   "collection": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ec411Y7vF?p=3",
   "source": "MunMosh.js"
 },
     {
-  "title": "1-4Calc.  ジミーサムP",
-  "artist": "前尘往事如昔故",
+  "title": "Calc.",
+  "artist": "ジミーサムP",
   "collection": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ec411Y7vF?p=4",
   "source": "MunMosh.js"
 },
     {
-  "title": "1-5 16 -out of the gravity  ぼーかりおどP",
-  "artist": "前尘往事如昔故",
+  "title": "16 -out of the gravity",
+  "artist": "ぼーかりおどP",
   "collection": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ec411Y7vF?p=5",
   "source": "MunMosh.js"
 },
     {
-  "title": "1-6夜明けと蛍  n-buna",
-  "artist": "前尘往事如昔故",
+  "title": "夜明けと蛍",
+  "artist": "n-buna",
   "collection": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ec411Y7vF?p=6",
   "source": "MunMosh.js"
 },
     {
-  "title": "1-7ブラック★ロックシューター  ryo(supercell)",
-  "artist": "前尘往事如昔故",
+  "title": "ブラック★ロックシューター",
+  "artist": "ryo(supercell)",
   "collection": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ec411Y7vF?p=7",
   "source": "MunMosh.js"
 },
     {
-  "title": "1-8天ノ弱  164",
-  "artist": "前尘往事如昔故",
+  "title": "天ノ弱",
+  "artist": "164",
   "collection": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ec411Y7vF?p=8",
   "source": "MunMosh.js"
 },
     {
-  "title": "1-9SPiCa  とくP",
-  "artist": "前尘往事如昔故",
+  "title": "SPiCa",
+  "artist": "とくP",
   "collection": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ec411Y7vF?p=9",
   "source": "MunMosh.js"
 },
     {
-  "title": "1-10Dear  19's Sound Factory",
-  "artist": "前尘往事如昔故",
+  "title": "Dear",
+  "artist": "19's Sound Factory",
   "collection": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ec411Y7vF?p=10",
   "source": "MunMosh.js"
 },
     {
-  "title": "1-11初めての恋が終わる時  ryo(supercell)",
-  "artist": "前尘往事如昔故",
+  "title": "初めての恋が終わる時",
+  "artist": "ryo(supercell)",
   "collection": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ec411Y7vF?p=11",
   "source": "MunMosh.js"
 },
     {
-  "title": "1-12アイロニ  すこっぷ",
-  "artist": "前尘往事如昔故",
+  "title": "アイロニ",
+  "artist": "すこっぷ",
   "collection": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ec411Y7vF?p=12",
   "source": "MunMosh.js"
 },
     {
-  "title": "1-13心做し  蝶々P",
-  "artist": "前尘往事如昔故",
+  "title": "心做し",
+  "artist": "蝶々P",
   "collection": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ec411Y7vF?p=13",
   "source": "MunMosh.js"
 },
     {
-  "title": "1-14いかないで  想太",
-  "artist": "前尘往事如昔故",
+  "title": "いかないで",
+  "artist": "想太",
   "collection": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ec411Y7vF?p=14",
   "source": "MunMosh.js"
 },
     {
-  "title": "1-15ロミオとシンデレラ  Doriko",
-  "artist": "前尘往事如昔故",
+  "title": "ロミオとシンデレラ",
+  "artist": "Doriko",
   "collection": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ec411Y7vF?p=15",
   "source": "MunMosh.js"
 },
     {
-  "title": "1-16from Y to Y  ジミーサムP",
-  "artist": "前尘往事如昔故",
+  "title": "from Y to Y",
+  "artist": "ジミーサムP",
   "collection": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ec411Y7vF?p=16",
   "source": "MunMosh.js"
 },
     {
-  "title": "1-17地球最後の告白を  kemu",
-  "artist": "前尘往事如昔故",
+  "title": "地球最後の告白を",
+  "artist": "kemu",
   "collection": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ec411Y7vF?p=17",
   "source": "MunMosh.js"
 },
     {
-  "title": "1-18心拍数 # 0822  蝶々P",
-  "artist": "前尘往事如昔故",
+  "title": "心拍数 # 0822",
+  "artist": "蝶々P",
   "collection": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ec411Y7vF?p=18",
   "source": "MunMosh.js"
 },
     {
-  "title": "2-19レオ  優里",
-  "artist": "前尘往事如昔故",
+  "title": "レオ",
+  "artist": "優里",
   "collection": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ec411Y7vF?p=19",
   "source": "MunMosh.js"
 },
     {
-  "title": "1-20Hello,Worker  KEI",
-  "artist": "前尘往事如昔故",
+  "title": "Hello,Worker",
+  "artist": "KEI",
   "collection": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ec411Y7vF?p=20",
   "source": "MunMosh.js"
 },
     {
-  "title": "1-21吉原ラメント  亜沙",
-  "artist": "前尘往事如昔故",
+  "title": "吉原ラメント",
+  "artist": "亜沙",
   "collection": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ec411Y7vF?p=21",
   "source": "MunMosh.js"
 },
     {
-  "title": "1-22ファンサ  mona (CV：夏川椎菜)",
-  "artist": "前尘往事如昔故",
+  "title": "ファンサ",
+  "artist": "mona (CV-夏川椎菜)",
   "collection": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ec411Y7vF?p=22",
   "source": "MunMosh.js"
 },
     {
-  "title": "1",
-  "artist": "前尘往事如昔故",
+  "title": "プラチナ",
+  "artist": "坂本真綾",
   "collection": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qK411e7K3?p=1",
   "source": "MunMosh.js"
 },
     {
-  "title": "2",
-  "artist": "前尘往事如昔故",
+  "title": "My Soul, Your Beats!",
+  "artist": "Lia",
   "collection": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qK411e7K3?p=2",
   "source": "MunMosh.js"
 },
     {
-  "title": "3",
-  "artist": "前尘往事如昔故",
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
   "collection": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qK411e7K3?p=3",
   "source": "MunMosh.js"
 },
     {
-  "title": "4",
-  "artist": "前尘往事如昔故",
+  "title": "ラムのラブソング",
+  "artist": "松谷祐子",
   "collection": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qK411e7K3?p=4",
   "source": "MunMosh.js"
 },
     {
-  "title": "5",
-  "artist": "前尘往事如昔故",
+  "title": "フリージア",
+  "artist": "Uru",
   "collection": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qK411e7K3?p=5",
   "source": "MunMosh.js"
 },
     {
-  "title": "6",
-  "artist": "前尘往事如昔故",
+  "title": "時を刻む唄",
+  "artist": "Lia",
   "collection": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qK411e7K3?p=6",
   "source": "MunMosh.js"
 },
     {
-  "title": "7",
-  "artist": "前尘往事如昔故",
+  "title": "鳥の詩",
+  "artist": "Lia",
   "collection": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qK411e7K3?p=7",
   "source": "MunMosh.js"
 },
     {
-  "title": "8",
-  "artist": "前尘往事如昔故",
+  "title": "小さなてのひら",
+  "artist": "riya",
   "collection": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qK411e7K3?p=8",
   "source": "MunMosh.js"
 },
     {
-  "title": "9",
-  "artist": "前尘往事如昔故",
+  "title": "だんご大家族",
+  "artist": "茶太",
   "collection": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qK411e7K3?p=9",
   "source": "MunMosh.js"
 },
     {
-  "title": "10",
-  "artist": "前尘往事如昔故",
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
   "collection": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qK411e7K3?p=10",
   "source": "MunMosh.js"
 },
     {
-  "title": "11",
-  "artist": "前尘往事如昔故",
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
   "collection": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qK411e7K3?p=11",
   "source": "MunMosh.js"
 },
     {
-  "title": "12",
-  "artist": "前尘往事如昔故",
+  "title": "めざせポケモンマスター",
+  "artist": "松本梨香",
   "collection": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qK411e7K3?p=12",
   "source": "MunMosh.js"
 },
     {
-  "title": "13",
-  "artist": "前尘往事如昔故",
+  "title": "Together",
+  "artist": "あきよしふみえ",
   "collection": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qK411e7K3?p=13",
   "source": "MunMosh.js"
 },
     {
-  "title": "14",
-  "artist": "前尘往事如昔故",
+  "title": "サムライハート(Some Like It Hot!!)",
+  "artist": "SPYAIR",
   "collection": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qK411e7K3?p=14",
   "source": "MunMosh.js"
 },
     {
-  "title": "15",
-  "artist": "前尘往事如昔故",
+  "title": "勇気100％",
+  "artist": "光GENJI",
   "collection": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qK411e7K3?p=15",
   "source": "MunMosh.js"
 },
     {
-  "title": "16",
-  "artist": "前尘往事如昔故",
+  "title": "はじめてのチュウ",
+  "artist": "あんしんパパ",
   "collection": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qK411e7K3?p=16",
   "source": "MunMosh.js"
 },
     {
-  "title": "17",
-  "artist": "前尘往事如昔故",
+  "title": "again",
+  "artist": "YUI",
   "collection": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qK411e7K3?p=17",
   "source": "MunMosh.js"
 },
     {
-  "title": "18",
-  "artist": "前尘往事如昔故",
+  "title": "Rolling star",
+  "artist": "YUI",
   "collection": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qK411e7K3?p=18",
   "source": "MunMosh.js"
 },
     {
-  "title": "19",
-  "artist": "前尘往事如昔故",
+  "title": "シルエット",
+  "artist": "KANA-BOON",
   "collection": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qK411e7K3?p=19",
   "source": "MunMosh.js"
 },
     {
-  "title": "20",
-  "artist": "前尘往事如昔故",
+  "title": "いつも何度でも",
+  "artist": "木村弓",
   "collection": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qK411e7K3?p=20",
   "source": "MunMosh.js"
 },
     {
-  "title": "①Calc.  ジミーサムP",
-  "artist": "前尘往事如昔故",
+  "title": "Calc.",
+  "artist": "ジミーサムP",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=1",
   "source": "MunMosh.js"
 },
     {
-  "title": "②ブルーバード いきものがかり",
-  "artist": "前尘往事如昔故",
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=2",
   "source": "MunMosh.js"
 },
     {
-  "title": "③16 -out of the gravity  ぼーかりおどP",
-  "artist": "前尘往事如昔故",
+  "title": "16 -out of the gravity",
+  "artist": "ぼーかりおどP",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=3",
   "source": "MunMosh.js"
 },
     {
-  "title": "④神のまにまに れるりり",
-  "artist": "前尘往事如昔故",
+  "title": "神のまにまに",
+  "artist": "れるりり",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=4",
   "source": "MunMosh.js"
 },
     {
-  "title": "⑤咲かせや咲かせ EGOIST",
-  "artist": "前尘往事如昔故",
+  "title": "咲かせや咲かせ",
+  "artist": "EGOIST",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=5",
   "source": "MunMosh.js"
 },
     {
-  "title": "⑥シリウスの心臓 ヰ世界情緒",
-  "artist": "前尘往事如昔故",
+  "title": "シリウスの心臓",
+  "artist": "ヰ世界情緒",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=6",
   "source": "MunMosh.js"
 },
     {
-  "title": "⑦WXY  Tani Yuuki",
-  "artist": "前尘往事如昔故",
+  "title": "WXY",
+  "artist": "Tani Yuuki",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=7",
   "source": "MunMosh.js"
 },
     {
-  "title": "⑧花に亡霊  ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=8",
   "source": "MunMosh.js"
 },
     {
-  "title": "⑨暁の車 FictionJunction YUUKA",
-  "artist": "前尘往事如昔故",
+  "title": "暁の車",
+  "artist": "FictionJunction YUUKA",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=9",
   "source": "MunMosh.js"
 },
     {
-  "title": "⑩ヒッチコック ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=10",
   "source": "MunMosh.js"
 },
     {
-  "title": "⑪ただ君に晴れ  ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=11",
   "source": "MunMosh.js"
 },
     {
-  "title": "⑫ノーチラス  ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=12",
   "source": "MunMosh.js"
 },
     {
-  "title": "⑬言って。ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "title": "言って。",
+  "artist": "ヨルシカ",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=13",
   "source": "MunMosh.js"
 },
     {
-  "title": "⑭準透明少年ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "title": "準透明少年",
+  "artist": "ヨルシカ",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=14",
   "source": "MunMosh.js"
 },
     {
-  "title": "⑮ファジーネーブル Conton Candy",
-  "artist": "前尘往事如昔故",
+  "title": "ファジーネーブル",
+  "artist": "Conton Candy",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=15",
   "source": "MunMosh.js"
 },
     {
-  "title": "⑯晩餐歌  弾き語りver.  tuki.",
-  "artist": "前尘往事如昔故",
+  "title": "晩餐歌 弾き語りver.",
+  "artist": "tuki.",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=16",
   "source": "MunMosh.js"
 },
     {
-  "title": "⑰カタオモイ Aimer",
-  "artist": "前尘往事如昔故",
+  "title": "カタオモイ",
+  "artist": "Aimer",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=17",
   "source": "MunMosh.js"
 },
     {
-  "title": "⑱茜さす Aimer",
-  "artist": "前尘往事如昔故",
+  "title": "茜さす",
+  "artist": "Aimer",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=18",
   "source": "MunMosh.js"
 },
     {
-  "title": "⑲蝶々結び Aimer",
-  "artist": "前尘往事如昔故",
+  "title": "蝶々結び",
+  "artist": "Aimer",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=19",
   "source": "MunMosh.js"
 },
     {
-  "title": "⑳Planetes  EGOIST",
-  "artist": "前尘往事如昔故",
+  "title": "Planetes",
+  "artist": "EGOIST",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=20",
   "source": "MunMosh.js"
 },
     {
-  "title": "㉑All Alone With You  EGOIST",
-  "artist": "前尘往事如昔故",
+  "title": "All Alone With You",
+  "artist": "EGOIST",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=21",
   "source": "MunMosh.js"
 },
     {
-  "title": "㉒The Everlasting Guilty Crown  EGOIST",
-  "artist": "前尘往事如昔故",
+  "title": "The Everlasting Guilty Crown",
+  "artist": "EGOIST",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=22",
   "source": "MunMosh.js"
 },
     {
-  "title": "㉓Ghost of a smile  EGOIST",
-  "artist": "前尘往事如昔故",
+  "title": "Ghost of a smile",
+  "artist": "EGOIST",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=23",
   "source": "MunMosh.js"
 },
     {
-  "title": "㉔夜もすがら君想ふ TOKOTOKO(西沢さんP)",
-  "artist": "前尘往事如昔故",
+  "title": "夜もすがら君想ふ",
+  "artist": "TOKOTOKO(西沢さんP)",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=24",
   "source": "MunMosh.js"
 },
     {
-  "title": "㉕ライカ yamada",
-  "artist": "前尘往事如昔故",
+  "title": "ライカ",
+  "artist": "yamada",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=25",
   "source": "MunMosh.js"
 },
     {
-  "title": "㉖少女レイ みきとP",
-  "artist": "前尘往事如昔故",
+  "title": "少女レイ",
+  "artist": "みきとP",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=26",
   "source": "MunMosh.js"
 },
     {
-  "title": "㉗アクアテラリウム  やなぎなぎ",
-  "artist": "前尘往事如昔故",
+  "title": "アクアテラリウム",
+  "artist": "やなぎなぎ",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=27",
   "source": "MunMosh.js"
 },
     {
-  "title": "㉘黒毛和牛上塩タン焼680円 大塚愛",
-  "artist": "前尘往事如昔故",
+  "title": "黒毛和牛上塩タン焼680円",
+  "artist": "大塚愛",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=28",
   "source": "MunMosh.js"
 },
     {
-  "title": "㉙夜明けと蛍 n-buna",
-  "artist": "前尘往事如昔故",
+  "title": "夜明けと蛍",
+  "artist": "n-buna",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=29",
   "source": "MunMosh.js"
 },
     {
-  "title": "㉚いかないで想太",
-  "artist": "前尘往事如昔故",
+  "title": "いかないで",
+  "artist": "想太",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=30",
   "source": "MunMosh.js"
 },
     {
-  "title": "㉛グレゴリオ feat. ちびた古川本舗",
-  "artist": "前尘往事如昔故",
+  "title": "グレゴリオ feat. ちびた",
+  "artist": "古川本舗",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=31",
   "source": "MunMosh.js"
 },
     {
-  "title": "㉜歌に形はないけれど doriko",
-  "artist": "前尘往事如昔故",
+  "title": "歌に形はないけれど",
+  "artist": "doriko",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=32",
   "source": "MunMosh.js"
 },
     {
-  "title": "㉝林檎売りの泡沫少女  Yukkedoluce",
-  "artist": "前尘往事如昔故",
+  "title": "林檎売りの泡沫少女",
+  "artist": "Yukkedoluce",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=33",
   "source": "MunMosh.js"
 },
     {
-  "title": "㉞For フルーツバスケット岡崎律子",
-  "artist": "前尘往事如昔故",
+  "title": "For",
+  "artist": "フルーツバスケット岡崎律子",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=34",
   "source": "MunMosh.js"
 },
     {
-  "title": "㉟プラチナ/ 坂本真綾",
-  "artist": "前尘往事如昔故",
+  "title": "プラチナ",
+  "artist": "坂本真綾",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=35",
   "source": "MunMosh.js"
 },
     {
-  "title": "㊱貴方の恋人になりたい/チョーキューメイ",
-  "artist": "前尘往事如昔故",
+  "title": "貴方の恋人になりたい",
+  "artist": "チョーキューメイ",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=36",
   "source": "MunMosh.js"
 },
     {
-  "title": "㊲キミガタメ Suara",
-  "artist": "前尘往事如昔故",
+  "title": "キミガタメ",
+  "artist": "Suara",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=37",
   "source": "MunMosh.js"
 },
     {
-  "title": "㊳忘れじの言の葉 / 未来古代楽団 feat. 安次嶺希和子",
-  "artist": "前尘往事如昔故",
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団 feat. 安次嶺希和子",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=38",
   "source": "MunMosh.js"
 },
     {
-  "title": "㊴コネクト/ ClariS",
-  "artist": "前尘往事如昔故",
+  "title": "コネクト",
+  "artist": "ClariS",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=39",
   "source": "MunMosh.js"
 },
     {
-  "title": "㊵君の知らない物語/ Supercell",
-  "artist": "前尘往事如昔故",
+  "title": "君の知らない物語",
+  "artist": "Supercell",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=40",
   "source": "MunMosh.js"
 },
     {
-  "title": "㊶Wishing レム(水瀬いのり)",
-  "artist": "前尘往事如昔故",
+  "title": "Wishing",
+  "artist": "レム(水瀬いのり)",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=41",
   "source": "MunMosh.js"
 },
     {
-  "title": "㊷オレンジ 7!! (seven oops)",
-  "artist": "前尘往事如昔故",
+  "title": "オレンジ",
+  "artist": "7!! (seven oops)",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=42",
   "source": "MunMosh.js"
 },
     {
-  "title": "㊸ウンディーネ牧野 由依",
-  "artist": "前尘往事如昔故",
+  "title": "ウンディーネ",
+  "artist": "牧野 由依",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=43",
   "source": "MunMosh.js"
 },
     {
-  "title": "㊹スピラーレ牧野由依",
-  "artist": "前尘往事如昔故",
+  "title": "スピラーレ",
+  "artist": "牧野由依",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=44",
   "source": "MunMosh.js"
 },
     {
-  "title": "㊺時には昔の話を 加藤登紀子",
-  "artist": "前尘往事如昔故",
+  "title": "時には昔の話を",
+  "artist": "加藤登紀子",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=45",
   "source": "MunMosh.js"
 },
     {
-  "title": "㊻星座になれたら  結束バンド",
-  "artist": "前尘往事如昔故",
+  "title": "星座になれたら",
+  "artist": "結束バンド",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=46",
   "source": "MunMosh.js"
 },
     {
-  "title": "㊼忘れてやらない 結束バンド",
-  "artist": "前尘往事如昔故",
+  "title": "忘れてやらない",
+  "artist": "結束バンド",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=47",
   "source": "MunMosh.js"
 },
     {
-  "title": "㊽ギターと孤独と蒼い惑星 結束バンド",
-  "artist": "前尘往事如昔故",
+  "title": "ギターと孤独と蒼い惑星",
+  "artist": "結束バンド",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=48",
   "source": "MunMosh.js"
 },
     {
-  "title": "㊾ハレ晴レユカイ 平野綾(涼宮ハルヒ)・茅原実里(長門有希)・後藤邑子(朝比奈みくる)",
-  "artist": "前尘往事如昔故",
+  "title": "ハレ晴レユカイ",
+  "artist": "平野綾(涼宮ハルヒ)、茅原実里(長門有希)、後藤邑子(朝比奈みくる)",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=49",
   "source": "MunMosh.js"
 },
     {
-  "title": "㊿Lost my music  涼宮ハルヒ(平野綾)",
-  "artist": "前尘往事如昔故",
+  "title": "Lost my music",
+  "artist": "涼宮ハルヒ(平野綾)",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fN4y1W7hX?p=50",
   "source": "MunMosh.js"
 },
     {
-  "title": "51God knows  涼宮ハルヒ(平野綾)",
-  "artist": "前尘往事如昔故",
+  "title": "God knows",
+  "artist": "涼宮ハルヒ(平野綾)",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=1",
   "source": "MunMosh.js"
 },
     {
-  "title": "52ふわふわ時間 放課後ティータイム",
-  "artist": "前尘往事如昔故",
+  "title": "ふわふわ時間",
+  "artist": "放課後ティータイム",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=2",
   "source": "MunMosh.js"
 },
     {
-  "title": "53変わらないもの 奥華子",
-  "artist": "前尘往事如昔故",
+  "title": "変わらないもの",
+  "artist": "奥華子",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=3",
   "source": "MunMosh.js"
 },
     {
-  "title": "54ガーネット 奥華子",
-  "artist": "前尘往事如昔故",
+  "title": "ガーネット",
+  "artist": "奥華子",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=4",
   "source": "MunMosh.js"
 },
     {
-  "title": "55Good-bye days  YUI",
-  "artist": "前尘往事如昔故",
+  "title": "Good-bye days",
+  "artist": "YUI",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=5",
   "source": "MunMosh.js"
 },
     {
-  "title": "56HELLO ～Paradise Kiss～ YUI",
-  "artist": "前尘往事如昔故",
+  "title": "HELLO ～Paradise Kiss～",
+  "artist": "YUI",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=6",
   "source": "MunMosh.js"
 },
     {
-  "title": "57GLORIA  YUI",
-  "artist": "前尘往事如昔故",
+  "title": "GLORIA",
+  "artist": "YUI",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=7",
   "source": "MunMosh.js"
 },
     {
-  "title": "58Tomorrow's way  YUI",
-  "artist": "前尘往事如昔故",
+  "title": "Tomorrow's way",
+  "artist": "YUI",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=8",
   "source": "MunMosh.js"
 },
     {
-  "title": "59TOKYO  YUI",
-  "artist": "前尘往事如昔故",
+  "title": "TOKYO",
+  "artist": "YUI",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=9",
   "source": "MunMosh.js"
 },
     {
-  "title": "60fight  YUI",
-  "artist": "前尘往事如昔故",
+  "title": "fight",
+  "artist": "YUI",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=10",
   "source": "MunMosh.js"
 },
     {
-  "title": "61カントリーロード本名陽子",
-  "artist": "前尘往事如昔故",
+  "title": "カントリーロード",
+  "artist": "本名陽子",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=11",
   "source": "MunMosh.js"
 },
     {
-  "title": "62名前のない怪物 EGOIST",
-  "artist": "前尘往事如昔故",
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=12",
   "source": "MunMosh.js"
 },
     {
-  "title": "63アンコール  YOASOBI",
-  "artist": "前尘往事如昔故",
+  "title": "アンコール",
+  "artist": "YOASOBI",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=13",
   "source": "MunMosh.js"
 },
     {
-  "title": "64あの夢をなぞって YOASOBI",
-  "artist": "前尘往事如昔故",
+  "title": "あの夢をなぞって",
+  "artist": "YOASOBI",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=14",
   "source": "MunMosh.js"
 },
     {
-  "title": "65たぶん YOASOBI",
-  "artist": "前尘往事如昔故",
+  "title": "たぶん",
+  "artist": "YOASOBI",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=15",
   "source": "MunMosh.js"
 },
     {
-  "title": "66勇者  YOASOBI",
-  "artist": "前尘往事如昔故",
+  "title": "勇者",
+  "artist": "YOASOBI",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=16",
   "source": "MunMosh.js"
 },
     {
-  "title": "67新時代  Ado",
-  "artist": "前尘往事如昔故",
+  "title": "新時代",
+  "artist": "Ado",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=17",
   "source": "MunMosh.js"
 },
     {
-  "title": "68世界のつづき  Ado",
-  "artist": "前尘往事如昔故",
+  "title": "世界のつづき",
+  "artist": "Ado",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=18",
   "source": "MunMosh.js"
 },
     {
-  "title": "69memories  大槻マキ",
-  "artist": "前尘往事如昔故",
+  "title": "memories",
+  "artist": "大槻マキ",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=19",
   "source": "MunMosh.js"
 },
     {
-  "title": "70星間飛行 ランカ・リー(中島愛)",
-  "artist": "前尘往事如昔故",
+  "title": "星間飛行",
+  "artist": "ランカ・リー(中島愛)",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=20",
   "source": "MunMosh.js"
 },
     {
-  "title": "71ライオン May'n＆中島愛",
-  "artist": "前尘往事如昔故",
+  "title": "ライオン",
+  "artist": "May'n & 中島愛",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=21",
   "source": "MunMosh.js"
 },
     {
-  "title": "72ねこ日記 ランカ・リー=中島愛",
-  "artist": "前尘往事如昔故",
+  "title": "ねこ日記",
+  "artist": "ランカ・リー=中島愛",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=22",
   "source": "MunMosh.js"
 },
     {
-  "title": "73涙がキラリ☆ スピッツ",
-  "artist": "前尘往事如昔故",
+  "title": "涙がキラリ☆",
+  "artist": "スピッツ",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=23",
   "source": "MunMosh.js"
 },
     {
-  "title": "74ロビンソン スピッツ",
-  "artist": "前尘往事如昔故",
+  "title": "ロビンソン",
+  "artist": "スピッツ",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=24",
   "source": "MunMosh.js"
 },
     {
-  "title": "75チェリー  スピッツ",
-  "artist": "前尘往事如昔故",
+  "title": "チェリー",
+  "artist": "スピッツ",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=25",
   "source": "MunMosh.js"
 },
     {
-  "title": "76君が思い出になる前に スピッツ",
-  "artist": "前尘往事如昔故",
+  "title": "君が思い出になる前に",
+  "artist": "スピッツ",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=26",
   "source": "MunMosh.js"
 },
     {
-  "title": "77赤いスイートピー  松田聖子",
-  "artist": "前尘往事如昔故",
+  "title": "赤いスイートピー",
+  "artist": "松田聖子",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=27",
   "source": "MunMosh.js"
 },
     {
-  "title": "78ちゅ、多様性。 ano",
-  "artist": "前尘往事如昔故",
+  "title": "ちゅ、多様性。",
+  "artist": "ano",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=28",
   "source": "MunMosh.js"
 },
     {
-  "title": "79可愛くてごめん HoneyWorks",
-  "artist": "前尘往事如昔故",
+  "title": "可愛くてごめん",
+  "artist": "HoneyWorks",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=29",
   "source": "MunMosh.js"
 },
     {
-  "title": "80誇り高きアイドル HoneyWorks  feat. Kotoha",
-  "artist": "前尘往事如昔故",
+  "title": "誇り高きアイドル",
+  "artist": "HoneyWorks feat. Kotoha",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=30",
   "source": "MunMosh.js"
 },
     {
-  "title": "81私、アイドル宣⾔ CHiCO with HoneyWorks",
-  "artist": "前尘往事如昔故",
+  "title": "私、アイドル宣言",
+  "artist": "CHiCO with HoneyWorks",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=31",
   "source": "MunMosh.js"
 },
     {
-  "title": "82そして花になる 花譜",
-  "artist": "前尘往事如昔故",
+  "title": "そして花になる",
+  "artist": "花譜",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=32",
   "source": "MunMosh.js"
 },
     {
-  "title": "83愛言葉Ⅲ  DECO27",
-  "artist": "前尘往事如昔故",
+  "title": "愛言葉Ⅲ",
+  "artist": "DECO27",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=33",
   "source": "MunMosh.js"
 },
     {
-  "title": "84才能なんか  葵木ゴウ(午後ティー)",
-  "artist": "前尘往事如昔故",
+  "title": "才能なんか",
+  "artist": "葵木ゴウ(午後ティー)",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=34",
   "source": "MunMosh.js"
 },
     {
-  "title": "85くらべられっ子  ツユ",
-  "artist": "前尘往事如昔故",
+  "title": "くらべられっ子",
+  "artist": "ツユ",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=35",
   "source": "MunMosh.js"
 },
     {
-  "title": "86心拍数♯0822 蝶々P",
-  "artist": "前尘往事如昔故",
+  "title": "心拍数♯0822",
+  "artist": "蝶々P",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=36",
   "source": "MunMosh.js"
 },
     {
-  "title": "87タイムマシン 1640mP(164x40mP)",
-  "artist": "前尘往事如昔故",
+  "title": "タイムマシン",
+  "artist": "1640mP(164x40mP)",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=37",
   "source": "MunMosh.js"
 },
     {
-  "title": "88アスノヨゾラ哨戒班  Orangestar",
-  "artist": "前尘往事如昔故",
+  "title": "アスノヨゾラ哨戒班",
+  "artist": "Orangestar",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=38",
   "source": "MunMosh.js"
 },
     {
-  "title": "89ブラック★ロックシューター ryo(supercell)",
-  "artist": "前尘往事如昔故",
+  "title": "ブラック★ロックシューター",
+  "artist": "ryo(supercell)",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=39",
   "source": "MunMosh.js"
 },
     {
-  "title": "90メルト ryo(supercell)",
-  "artist": "前尘往事如昔故",
+  "title": "メルト",
+  "artist": "ryo(supercell)",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=40",
   "source": "MunMosh.js"
 },
     {
-  "title": "91いつも何度でも  木村弓",
-  "artist": "前尘往事如昔故",
+  "title": "いつも何度でも",
+  "artist": "木村弓",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=41",
   "source": "MunMosh.js"
 },
     {
-  "title": "92いのちの名前  木村 弓",
-  "artist": "前尘往事如昔故",
+  "title": "いのちの名前",
+  "artist": "木村 弓",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=42",
   "source": "MunMosh.js"
 },
     {
-  "title": "93レオ  優里",
-  "artist": "前尘往事如昔故",
+  "title": "レオ",
+  "artist": "優里",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=43",
   "source": "MunMosh.js"
 },
     {
-  "title": "94ビリミリオン 優里",
-  "artist": "前尘往事如昔故",
+  "title": "ビリミリオン",
+  "artist": "優里",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=44",
   "source": "MunMosh.js"
 },
     {
-  "title": "95First Love  宇多田ヒカル",
-  "artist": "前尘往事如昔故",
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=45",
   "source": "MunMosh.js"
 },
     {
-  "title": "96メリクリ BoA",
-  "artist": "前尘往事如昔故",
+  "title": "メリクリ",
+  "artist": "BoA",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=46",
   "source": "MunMosh.js"
 },
     {
-  "title": "97 366日 HY",
-  "artist": "前尘往事如昔故",
+  "title": "366日",
+  "artist": "HY",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=47",
   "source": "MunMosh.js"
 },
     {
-  "title": "98回る空うさぎ  Orangestar",
-  "artist": "前尘往事如昔故",
+  "title": "回る空うさぎ",
+  "artist": "Orangestar",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=48",
   "source": "MunMosh.js"
 },
     {
-  "title": "99猫喫茶 むんもっしゅ",
-  "artist": "前尘往事如昔故",
+  "title": "猫喫茶",
+  "artist": "むんもっしゅ",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=49",
   "source": "MunMosh.js"
 },
     {
-  "title": "100ファンサ mona(CV：夏川椎菜)【HoneyWorks】",
-  "artist": "前尘往事如昔故",
+  "title": "ファンサ",
+  "artist": "mona(CV-夏川椎菜)【HoneyWorks】",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=50",
   "source": "MunMosh.js"
 },
     {
-  "title": "0:09:10 ハルジオン / YOASOBI",
-  "artist": "前尘往事如昔故",
+  "title": "ハルジオン",
+  "artist": "YOASOBI",
   "collection": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19b4y1P7Cn?p=1",
   "source": "MunMosh.js"
 },
     {
-  "title": "0:15:46 ラブレター / YOASOBI",
-  "artist": "前尘往事如昔故",
+  "title": "ラブレター",
+  "artist": "YOASOBI",
   "collection": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19b4y1P7Cn?p=2",
   "source": "MunMosh.js"
 },
     {
-  "title": "0:21:57 群青 / YOASOBI",
-  "artist": "前尘往事如昔故",
+  "title": "群青",
+  "artist": "YOASOBI",
   "collection": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19b4y1P7Cn?p=3",
   "source": "MunMosh.js"
 },
     {
-  "title": "0:28:17 アンコール / YOASOBI",
-  "artist": "前尘往事如昔故",
+  "title": "アンコール",
+  "artist": "YOASOBI",
   "collection": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19b4y1P7Cn?p=4",
   "source": "MunMosh.js"
 },
     {
-  "title": "0:35:47 ただ君に晴れ / ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
   "collection": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19b4y1P7Cn?p=5",
   "source": "MunMosh.js"
 },
     {
-  "title": "0:41:03 花に亡霊 / ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
   "collection": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19b4y1P7Cn?p=6",
   "source": "MunMosh.js"
 },
     {
-  "title": "0:46:34 春泥棒 / ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
   "collection": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19b4y1P7Cn?p=7",
   "source": "MunMosh.js"
 },
     {
-  "title": "0:54:11 言って。 / ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "title": "言って。",
+  "artist": "ヨルシカ",
   "collection": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19b4y1P7Cn?p=8",
   "source": "MunMosh.js"
 },
     {
-  "title": "1:01:07 ヒッチコック / ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
   "collection": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19b4y1P7Cn?p=9",
   "source": "MunMosh.js"
 },
     {
-  "title": "1:08:00 ノーチラス / ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
   "collection": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19b4y1P7Cn?p=10",
   "source": "MunMosh.js"
 },
     {
-  "title": "1:16:56 平行線 / Eve × suis from ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "title": "平行線",
+  "artist": "Eve × suis from ヨルシカ",
   "collection": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19b4y1P7Cn?p=11",
   "source": "MunMosh.js"
 },
     {
-  "title": "1:23:20 ヒロイン / back number",
-  "artist": "前尘往事如昔故",
+  "title": "ヒロイン",
+  "artist": "back number",
   "collection": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19b4y1P7Cn?p=12",
   "source": "MunMosh.js"
 },
     {
-  "title": "1:30:53 白い恋人達 / 桑田佳祐",
-  "artist": "前尘往事如昔故",
+  "title": "白い恋人達",
+  "artist": "桑田佳祐",
   "collection": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19b4y1P7Cn?p=13",
   "source": "MunMosh.js"
 },
     {
-  "title": "1:39:01 Flavor Of Life / 宇多田ヒカル",
-  "artist": "前尘往事如昔故",
+  "title": "Flavor Of Life",
+  "artist": "宇多田ヒカル",
   "collection": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19b4y1P7Cn?p=14",
   "source": "MunMosh.js"
 },
     {
-  "title": "1:46:21 First Love / 宇多田ヒカル",
-  "artist": "前尘往事如昔故",
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
   "collection": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19b4y1P7Cn?p=15",
   "source": "MunMosh.js"
 },
     {
-  "title": "15322 吉原ラメント  亜沙",
-  "artist": "前尘往事如昔故",
+  "title": "吉原ラメント",
+  "artist": "亜沙",
   "collection": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19b4y1P7Cn?p=16",
   "source": "MunMosh.js"
 },
     {
-  "title": "15910 GLAMOROUS SKY  中島美嘉",
-  "artist": "前尘往事如昔故",
+  "title": "GLAMOROUS SKY",
+  "artist": "中島美嘉",
   "collection": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19b4y1P7Cn?p=17",
   "source": "MunMosh.js"
 },
     {
-  "title": "20624 僕が死のうと思ったのは  中島美嘉",
-  "artist": "前尘往事如昔故",
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
   "collection": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19b4y1P7Cn?p=18",
   "source": "MunMosh.js"
 },
     {
-  "title": "21516 雪の華  中島美嘉",
-  "artist": "前尘往事如昔故",
+  "title": "雪の華",
+  "artist": "中島美嘉",
   "collection": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19b4y1P7Cn?p=19",
   "source": "MunMosh.js"
 },
     {
-  "title": "22428 粉雪  レミオロメン",
-  "artist": "前尘往事如昔故",
+  "title": "粉雪",
+  "artist": "レミオロメン",
   "collection": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19b4y1P7Cn?p=20",
   "source": "MunMosh.js"
 },
     {
-  "title": "23332 メリクリ  BoA",
-  "artist": "前尘往事如昔故",
+  "title": "メリクリ",
+  "artist": "BoA",
   "collection": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19b4y1P7Cn?p=21",
   "source": "MunMosh.js"
 },
     {
-  "title": "24255 なごり雪  イルカ",
-  "artist": "前尘往事如昔故",
+  "title": "なごり雪",
+  "artist": "イルカ",
   "collection": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19b4y1P7Cn?p=22",
   "source": "MunMosh.js"
 },
     {
-  "title": "25030 クリスマスソング  back number",
-  "artist": "前尘往事如昔故",
+  "title": "クリスマスソング",
+  "artist": "back number",
   "collection": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19b4y1P7Cn?p=23",
   "source": "MunMosh.js"
 },
     {
-  "title": "25823 ライカ  yamada",
-  "artist": "前尘往事如昔故",
+  "title": "ライカ",
+  "artist": "yamada",
   "collection": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19b4y1P7Cn?p=24",
   "source": "MunMosh.js"
 },
     {
-  "title": "30420 I LOVE YOU  尾崎豊",
-  "artist": "前尘往事如昔故",
+  "title": "I LOVE YOU",
+  "artist": "尾崎豊",
   "collection": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19b4y1P7Cn?p=25",
   "source": "MunMosh.js"
 },
     {
-  "title": "31301 歌うたいのバラッド  斉藤和義",
-  "artist": "前尘往事如昔故",
+  "title": "歌うたいのバラッド",
+  "artist": "斉藤和義",
   "collection": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19b4y1P7Cn?p=26",
   "source": "MunMosh.js"
 },
     {
-  "title": "31713 猫になりたい  スピッツ",
-  "artist": "前尘往事如昔故",
+  "title": "猫になりたい",
+  "artist": "スピッツ",
   "collection": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19b4y1P7Cn?p=27",
   "source": "MunMosh.js"
 },
     {
-  "title": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
-  "artist": "前尘往事如昔故",
+  "title": "変わらないもの",
+  "artist": "奥華子",
   "collection": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oK4y117rM?p=1",
   "source": "MunMosh.js"
 },
     {
-  "title": "2-2いつも何度でも  木村弓",
-  "artist": "前尘往事如昔故",
+  "title": "いつも何度でも",
+  "artist": "木村弓",
   "collection": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oK4y117rM?p=2",
   "source": "MunMosh.js"
 },
     {
-  "title": "2-3ルージュの伝言  荒井由実",
-  "artist": "前尘往事如昔故",
+  "title": "ルージュの伝言",
+  "artist": "荒井由実",
   "collection": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oK4y117rM?p=3",
   "source": "MunMosh.js"
 },
     {
-  "title": "2-4卒業写真  荒井由実",
-  "artist": "前尘往事如昔故",
+  "title": "卒業写真",
+  "artist": "荒井由実",
   "collection": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oK4y117rM?p=4",
   "source": "MunMosh.js"
 },
     {
-  "title": "2-5暁の車  FictionJunction YUUKA",
-  "artist": "前尘往事如昔故",
+  "title": "暁の車",
+  "artist": "FictionJunction YUUKA",
   "collection": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oK4y117rM?p=5",
   "source": "MunMosh.js"
 },
     {
-  "title": "2-6プラチナ  坂本真綾",
-  "artist": "前尘往事如昔故",
+  "title": "プラチナ",
+  "artist": "坂本真綾",
   "collection": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oK4y117rM?p=6",
   "source": "MunMosh.js"
 },
     {
-  "title": "2-7ロビンソン  スピッツ",
-  "artist": "前尘往事如昔故",
+  "title": "ロビンソン",
+  "artist": "スピッツ",
   "collection": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oK4y117rM?p=7",
   "source": "MunMosh.js"
 },
     {
-  "title": "2-8YUME日和  島谷ひとみ",
-  "artist": "前尘往事如昔故",
+  "title": "YUME日和",
+  "artist": "島谷ひとみ",
   "collection": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oK4y117rM?p=8",
   "source": "MunMosh.js"
 },
     {
-  "title": "2-9カプチーノ  椎名林檎",
-  "artist": "前尘往事如昔故",
+  "title": "カプチーノ",
+  "artist": "椎名林檎",
   "collection": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oK4y117rM?p=9",
   "source": "MunMosh.js"
 },
     {
-  "title": "2-10小さきもの  林明日香",
-  "artist": "前尘往事如昔故",
+  "title": "小さきもの",
+  "artist": "林明日香",
   "collection": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oK4y117rM?p=10",
   "source": "MunMosh.js"
 },
     {
-  "title": "2-11she  keeno",
-  "artist": "前尘往事如昔故",
+  "title": "she",
+  "artist": "keeno",
   "collection": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oK4y117rM?p=11",
   "source": "MunMosh.js"
 },
     {
-  "title": "2-12フィナーレ。 eill",
-  "artist": "前尘往事如昔故",
+  "title": "フィナーレ。",
+  "artist": "eill",
   "collection": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oK4y117rM?p=12",
   "source": "MunMosh.js"
 },
     {
-  "title": "2-13グレゴリオ feat. ちびた  古川本舗",
-  "artist": "前尘往事如昔故",
+  "title": "グレゴリオ feat. ちびた",
+  "artist": "古川本舗",
   "collection": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oK4y117rM?p=13",
   "source": "MunMosh.js"
 },
     {
-  "title": "2-14小さなてのひら  riya",
-  "artist": "前尘往事如昔故",
+  "title": "小さなてのひら",
+  "artist": "riya",
   "collection": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oK4y117rM?p=14",
   "source": "MunMosh.js"
 },
     {
-  "title": "2-15小さな恋のうた  MONGOL800",
-  "artist": "前尘往事如昔故",
+  "title": "小さな恋のうた",
+  "artist": "MONGOL800",
   "collection": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oK4y117rM?p=15",
   "source": "MunMosh.js"
 },
     {
-  "title": "2-16Before I Rise  麻枝准×やなぎなぎ",
-  "artist": "前尘往事如昔故",
+  "title": "Before I Rise",
+  "artist": "麻枝准 × やなぎなぎ",
   "collection": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oK4y117rM?p=16",
   "source": "MunMosh.js"
 },
     {
-  "title": "2-17カントリーロード  本名陽子",
-  "artist": "前尘往事如昔故",
+  "title": "カントリーロード",
+  "artist": "本名陽子",
   "collection": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oK4y117rM?p=17",
   "source": "MunMosh.js"
 },
     {
-  "title": "2-18ハロハワユ  ナノウ(ほえほえP)",
-  "artist": "前尘往事如昔故",
+  "title": "ハロハワユ",
+  "artist": "ナノウ(ほえほえP)",
   "collection": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oK4y117rM?p=18",
   "source": "MunMosh.js"
 },
     {
-  "title": "2-19レオ  優里",
-  "artist": "前尘往事如昔故",
+  "title": "レオ",
+  "artist": "優里",
   "collection": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oK4y117rM?p=19",
   "source": "MunMosh.js"
 },
     {
-  "title": "2-20琥珀色の街、上海蟹の朝  くるり",
-  "artist": "前尘往事如昔故",
+  "title": "琥珀色の街、上海蟹の朝",
+  "artist": "くるり",
   "collection": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oK4y117rM?p=20",
   "source": "MunMosh.js"
 },
     {
-  "title": "2-21楓  スピッツ",
-  "artist": "前尘往事如昔故",
+  "title": "楓",
+  "artist": "スピッツ",
   "collection": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oK4y117rM?p=21",
   "source": "MunMosh.js"
 },
     {
-  "title": "2-22Ghost of a smile  EGOIST",
-  "artist": "前尘往事如昔故",
+  "title": "Ghost of a smile",
+  "artist": "EGOIST",
   "collection": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oK4y117rM?p=22",
   "source": "MunMosh.js"
 },
     {
-  "title": "2-23GLAMOROUS SKY  中島美嘉",
-  "artist": "前尘往事如昔故",
+  "title": "GLAMOROUS SKY",
+  "artist": "中島美嘉",
   "collection": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oK4y117rM?p=23",
   "source": "MunMosh.js"
 },
     {
-  "title": "2-24回る空うさぎ  Orangestar",
-  "artist": "前尘往事如昔故",
+  "title": "回る空うさぎ",
+  "artist": "Orangestar",
   "collection": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oK4y117rM?p=24",
   "source": "MunMosh.js"
 },
     {
-  "title": "2-25雪の華  中島 美嘉",
-  "artist": "前尘往事如昔故",
+  "title": "雪の華",
+  "artist": "中島 美嘉",
   "collection": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oK4y117rM?p=25",
   "source": "MunMosh.js"
 },
     {
-  "title": "2-26ただ声一つ  ロクデナシ",
-  "artist": "前尘往事如昔故",
+  "title": "ただ声一つ",
+  "artist": "ロクデナシ",
   "collection": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oK4y117rM?p=26",
   "source": "MunMosh.js"
 },
     {
-  "title": "2-27たばこ  コレサワ",
-  "artist": "前尘往事如昔故",
+  "title": "たばこ",
+  "artist": "コレサワ",
   "collection": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oK4y117rM?p=27",
   "source": "MunMosh.js"
 },
     {
-  "title": "2-28歌に形はないけれど  doriko",
-  "artist": "前尘往事如昔故",
+  "title": "歌に形はないけれど",
+  "artist": "doriko",
   "collection": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oK4y117rM?p=28",
   "source": "MunMosh.js"
 },
     {
-  "title": "2-29flos  R Sound Design",
-  "artist": "前尘往事如昔故",
+  "title": "flos",
+  "artist": "R Sound Design",
   "collection": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oK4y117rM?p=29",
   "source": "MunMosh.js"
 },
     {
-  "title": "2-30天使にふれたよ！ 放課後ティータイム",
-  "artist": "前尘往事如昔故",
+  "title": "天使にふれたよ!",
+  "artist": "放課後ティータイム",
   "collection": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oK4y117rM?p=30",
   "source": "MunMosh.js"
 },
     {
-  "title": "2-31猫喫茶  むんもっしゅ【3rdオリジナル曲】",
-  "artist": "前尘往事如昔故",
+  "title": "猫喫茶",
+  "artist": "むんもっしゅ【3rdオリジナル曲】",
   "collection": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oK4y117rM?p=31",
   "source": "MunMosh.js"
 },
     {
-  "title": "00917 ウミユリ海底譚  n-buna",
-  "artist": "前尘往事如昔故",
+  "title": "ウミユリ海底譚",
+  "artist": "n-buna",
   "collection": "【むんもっしゅ切片整合】00917 ウミユリ海底譚  n-buna【2024年1月10日】ボカロ曲を弾き語り",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BW4y1w7SL?p=1",
   "source": "MunMosh.js"
 },
     {
-  "title": "01733 she  keeno",
-  "artist": "前尘往事如昔故",
+  "title": "she",
+  "artist": "keeno",
   "collection": "【むんもっしゅ切片整合】00917 ウミユリ海底譚  n-buna【2024年1月10日】ボカロ曲を弾き語り",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BW4y1w7SL?p=2",
   "source": "MunMosh.js"
 },
     {
-  "title": "02733 in the rain  keeno",
-  "artist": "前尘往事如昔故",
+  "title": "in the rain",
+  "artist": "keeno",
   "collection": "【むんもっしゅ切片整合】00917 ウミユリ海底譚  n-buna【2024年1月10日】ボカロ曲を弾き語り",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BW4y1w7SL?p=3",
   "source": "MunMosh.js"
 },
     {
-  "title": "03556 夜明けと蛍  n-buna",
-  "artist": "前尘往事如昔故",
+  "title": "夜明けと蛍",
+  "artist": "n-buna",
   "collection": "【むんもっしゅ切片整合】00917 ウミユリ海底譚  n-buna【2024年1月10日】ボカロ曲を弾き語り",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BW4y1w7SL?p=4",
   "source": "MunMosh.js"
 },
     {
-  "title": "04357 例えば、今此処に置かれた花に  164",
-  "artist": "前尘往事如昔故",
+  "title": "例えば、今此処に置かれた花に",
+  "artist": "164",
   "collection": "【むんもっしゅ切片整合】00917 ウミユリ海底譚  n-buna【2024年1月10日】ボカロ曲を弾き語り",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BW4y1w7SL?p=5",
   "source": "MunMosh.js"
 },
     {
-  "title": "05159 無理に笑わなくて良いよ  水野あつ",
-  "artist": "前尘往事如昔故",
+  "title": "無理に笑わなくて良いよ",
+  "artist": "水野あつ",
   "collection": "【むんもっしゅ切片整合】00917 ウミユリ海底譚  n-buna【2024年1月10日】ボカロ曲を弾き語り",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BW4y1w7SL?p=6",
   "source": "MunMosh.js"
 },
     {
-  "title": "05801 flos  R Sound Design",
-  "artist": "前尘往事如昔故",
+  "title": "flos",
+  "artist": "R Sound Design",
   "collection": "【むんもっしゅ切片整合】00917 ウミユリ海底譚  n-buna【2024年1月10日】ボカロ曲を弾き語り",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BW4y1w7SL?p=7",
   "source": "MunMosh.js"
 },
     {
-  "title": "10648 crack  keeno",
-  "artist": "前尘往事如昔故",
+  "title": "crack",
+  "artist": "keeno",
   "collection": "【むんもっしゅ切片整合】00917 ウミユリ海底譚  n-buna【2024年1月10日】ボカロ曲を弾き語り",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BW4y1w7SL?p=8",
   "source": "MunMosh.js"
 },
     {
-  "title": "11340 夜もすがら君想ふ  TOKOTOKO(西沢さんP)",
-  "artist": "前尘往事如昔故",
+  "title": "夜もすがら君想ふ",
+  "artist": "TOKOTOKO(西沢さんP)",
   "collection": "【むんもっしゅ切片整合】00917 ウミユリ海底譚  n-buna【2024年1月10日】ボカロ曲を弾き語り",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BW4y1w7SL?p=9",
