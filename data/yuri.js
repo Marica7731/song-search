@@ -1,6 +1,6 @@
 // 優莉 yuri - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1aDzEBBE3S
-// 生成时间: 2/21/2026, 12:42:56 AM
+// 生成时间: 2/21/2026, 12:55:25 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -298,7 +298,7 @@ window.SONG_DATA.push(
   "artist": "ryo(supercell)",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -306,7 +306,7 @@ window.SONG_DATA.push(
   "artist": "じん",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -314,7 +314,7 @@ window.SONG_DATA.push(
   "artist": "Kyu-kurarin",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -322,7 +322,7 @@ window.SONG_DATA.push(
   "artist": "sabio",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -330,7 +330,7 @@ window.SONG_DATA.push(
   "artist": "優莉",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -338,7 +338,7 @@ window.SONG_DATA.push(
   "artist": "優莉",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -346,7 +346,7 @@ window.SONG_DATA.push(
   "artist": "kemu",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -354,7 +354,7 @@ window.SONG_DATA.push(
   "artist": "じん",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -362,7 +362,7 @@ window.SONG_DATA.push(
   "artist": "優莉",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -370,7 +370,7 @@ window.SONG_DATA.push(
   "artist": "優莉",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -378,7 +378,7 @@ window.SONG_DATA.push(
   "artist": "優莉",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -386,7 +386,7 @@ window.SONG_DATA.push(
   "artist": "優莉",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -394,7 +394,7 @@ window.SONG_DATA.push(
   "artist": "初音ミク",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -402,7 +402,7 @@ window.SONG_DATA.push(
   "artist": "iroha(sasaki)",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -410,7 +410,7 @@ window.SONG_DATA.push(
   "artist": "ryo(supercell)",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -418,7 +418,7 @@ window.SONG_DATA.push(
   "artist": "涼宮ハルヒ『平野綾』",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -426,7 +426,7 @@ window.SONG_DATA.push(
   "artist": "涼宮ハルヒ『平野綾』",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -434,7 +434,7 @@ window.SONG_DATA.push(
   "artist": "優莉",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -442,7 +442,7 @@ window.SONG_DATA.push(
   "artist": "優莉",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -450,7 +450,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -458,7 +458,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -466,7 +466,7 @@ window.SONG_DATA.push(
   "artist": "優莉",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -578,7 +578,7 @@ window.SONG_DATA.push(
   "artist": "ryo_sub",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -586,7 +586,7 @@ window.SONG_DATA.push(
   "artist": "メル",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -594,7 +594,7 @@ window.SONG_DATA.push(
   "artist": "澤田 空海理",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -602,7 +602,7 @@ window.SONG_DATA.push(
   "artist": "優莉",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -610,7 +610,7 @@ window.SONG_DATA.push(
   "artist": "優莉",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -618,7 +618,7 @@ window.SONG_DATA.push(
   "artist": "Cover by 優莉",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -626,7 +626,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -634,7 +634,7 @@ window.SONG_DATA.push(
   "artist": "優莉",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -642,7 +642,7 @@ window.SONG_DATA.push(
   "artist": "cover by 優莉",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -650,7 +650,7 @@ window.SONG_DATA.push(
   "artist": "the brilliant green",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -658,7 +658,7 @@ window.SONG_DATA.push(
   "artist": "YUKI Cover by 優莉",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -666,7 +666,7 @@ window.SONG_DATA.push(
   "artist": "優莉",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -674,7 +674,7 @@ window.SONG_DATA.push(
   "artist": "レミオロメン",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -682,7 +682,7 @@ window.SONG_DATA.push(
   "artist": "Last Note.GUMI",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=14",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -690,7 +690,7 @@ window.SONG_DATA.push(
   "artist": "優莉",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=15",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -698,7 +698,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=16",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -706,7 +706,7 @@ window.SONG_DATA.push(
   "artist": "優莉",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=17",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -714,7 +714,7 @@ window.SONG_DATA.push(
   "artist": "優莉",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=18",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -722,7 +722,7 @@ window.SONG_DATA.push(
   "artist": "優莉",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=19",
+  "link": null,
   "source": "yuri.js"
 },
     {
@@ -730,7 +730,7 @@ window.SONG_DATA.push(
   "artist": "優莉",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=20",
+  "link": null,
   "source": "yuri.js"
 }
 );

@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1G6fLB7Efr
-// 生成时间: 2/21/2026, 12:39:59 AM
+// 生成时间: 2/21/2026, 12:53:02 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -138,7 +138,7 @@ window.SONG_DATA.push(
   "artist": "KANA-BOON",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -146,7 +146,7 @@ window.SONG_DATA.push(
   "artist": "Eve",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -154,7 +154,7 @@ window.SONG_DATA.push(
   "artist": "川本真琴",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -162,7 +162,7 @@ window.SONG_DATA.push(
   "artist": "back number",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -170,7 +170,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -178,7 +178,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -186,7 +186,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -194,7 +194,7 @@ window.SONG_DATA.push(
   "artist": "ClariS",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -202,7 +202,7 @@ window.SONG_DATA.push(
   "artist": "AKASAKI",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -210,7 +210,7 @@ window.SONG_DATA.push(
   "artist": "月詠み",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -218,7 +218,7 @@ window.SONG_DATA.push(
   "artist": "水樹奈々",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -226,7 +226,7 @@ window.SONG_DATA.push(
   "artist": "angela",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -234,7 +234,7 @@ window.SONG_DATA.push(
   "artist": "angela",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -242,7 +242,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師・宇多田ヒカル",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -250,7 +250,7 @@ window.SONG_DATA.push(
   "artist": "広瀬香美",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -258,7 +258,7 @@ window.SONG_DATA.push(
   "artist": "オーイシマサヨシ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=16",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -266,7 +266,7 @@ window.SONG_DATA.push(
   "artist": "L'Arc～en～Ciel",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=17",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -274,7 +274,7 @@ window.SONG_DATA.push(
   "artist": "なれたん Naraetan Ch.🌷",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=18",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -282,7 +282,7 @@ window.SONG_DATA.push(
   "artist": "藍井エイル",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=19",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -290,7 +290,7 @@ window.SONG_DATA.push(
   "artist": "JUNNA",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=20",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -298,7 +298,7 @@ window.SONG_DATA.push(
   "artist": "のぼる↑",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=21",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -306,7 +306,7 @@ window.SONG_DATA.push(
   "artist": "チョーキューメイ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=22",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -314,7 +314,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=23",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -322,7 +322,7 @@ window.SONG_DATA.push(
   "artist": "kemu feat.GUMI",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=24",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -330,7 +330,7 @@ window.SONG_DATA.push(
   "artist": "スキマスイッチ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=25",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -338,7 +338,7 @@ window.SONG_DATA.push(
   "artist": "Every Little Thing",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=26",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -346,7 +346,7 @@ window.SONG_DATA.push(
   "artist": "水樹奈々",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=27",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -354,7 +354,7 @@ window.SONG_DATA.push(
   "artist": "ワルキューレ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=28",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -362,7 +362,7 @@ window.SONG_DATA.push(
   "artist": "西野カナ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=29",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -370,7 +370,7 @@ window.SONG_DATA.push(
   "artist": "もさを。",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=30",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -378,7 +378,7 @@ window.SONG_DATA.push(
   "artist": "Mrs. GREEN APPLE",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=31",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -386,7 +386,7 @@ window.SONG_DATA.push(
   "artist": "TrySail",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=32",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -394,7 +394,7 @@ window.SONG_DATA.push(
   "artist": "椎名林檎",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -402,7 +402,7 @@ window.SONG_DATA.push(
   "artist": "Goose house",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -410,7 +410,7 @@ window.SONG_DATA.push(
   "artist": "ラックライフ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -418,7 +418,7 @@ window.SONG_DATA.push(
   "artist": "King Gnu",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -426,7 +426,7 @@ window.SONG_DATA.push(
   "artist": "YUI for 雨音薫",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -434,7 +434,7 @@ window.SONG_DATA.push(
   "artist": "GReeeeN",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -442,7 +442,7 @@ window.SONG_DATA.push(
   "artist": "アンジェラ・アキ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -450,7 +450,7 @@ window.SONG_DATA.push(
   "artist": "DOMOTO",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -458,7 +458,7 @@ window.SONG_DATA.push(
   "artist": "LiSA",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -466,7 +466,7 @@ window.SONG_DATA.push(
   "artist": "優里",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -474,7 +474,7 @@ window.SONG_DATA.push(
   "artist": "DISH",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -482,7 +482,7 @@ window.SONG_DATA.push(
   "artist": "May'n&中島愛",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -490,7 +490,7 @@ window.SONG_DATA.push(
   "artist": "LiSA",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -498,7 +498,7 @@ window.SONG_DATA.push(
   "artist": "水樹奈々",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1506,7 +1506,7 @@ window.SONG_DATA.push(
   "artist": "和田光司",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1514,7 +1514,7 @@ window.SONG_DATA.push(
   "artist": "SURFACE",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1522,7 +1522,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1530,7 +1530,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1538,7 +1538,7 @@ window.SONG_DATA.push(
   "artist": "Official 髭男dism",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1546,7 +1546,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1554,7 +1554,7 @@ window.SONG_DATA.push(
   "artist": "LiSA",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1562,7 +1562,7 @@ window.SONG_DATA.push(
   "artist": "石川さゆり",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1570,7 +1570,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1578,7 +1578,7 @@ window.SONG_DATA.push(
   "artist": "P丸様。",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1586,7 +1586,7 @@ window.SONG_DATA.push(
   "artist": "B.B.クィンズ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1594,7 +1594,7 @@ window.SONG_DATA.push(
   "artist": "Janne Da Arc",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1602,7 +1602,7 @@ window.SONG_DATA.push(
   "artist": "back number",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1610,7 +1610,7 @@ window.SONG_DATA.push(
   "artist": "Changin' My Life",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1618,7 +1618,7 @@ window.SONG_DATA.push(
   "artist": "じん",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1626,7 +1626,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1634,7 +1634,7 @@ window.SONG_DATA.push(
   "artist": "岡崎律子",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1642,7 +1642,7 @@ window.SONG_DATA.push(
   "artist": "佐藤朱美",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1650,7 +1650,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1658,7 +1658,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1666,7 +1666,7 @@ window.SONG_DATA.push(
   "artist": "水樹奈々",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1674,7 +1674,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1682,7 +1682,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1690,7 +1690,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1698,7 +1698,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1706,7 +1706,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1714,7 +1714,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1722,7 +1722,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1730,7 +1730,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1738,7 +1738,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1746,7 +1746,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1754,7 +1754,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1762,7 +1762,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1770,7 +1770,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1778,7 +1778,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1786,7 +1786,7 @@ window.SONG_DATA.push(
   "artist": "Hysteric Blue",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1794,7 +1794,7 @@ window.SONG_DATA.push(
   "artist": "水樹奈々",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1802,7 +1802,7 @@ window.SONG_DATA.push(
   "artist": "奥井亜紀",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1810,7 +1810,7 @@ window.SONG_DATA.push(
   "artist": "UNISON SQUARE GARDEN",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1818,7 +1818,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1826,7 +1826,7 @@ window.SONG_DATA.push(
   "artist": "『Alexandros』",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1834,7 +1834,7 @@ window.SONG_DATA.push(
   "artist": "Mrs. GREEN APPLE",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1842,7 +1842,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ(2)",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1850,7 +1850,7 @@ window.SONG_DATA.push(
   "artist": "ユンナ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1858,7 +1858,7 @@ window.SONG_DATA.push(
   "artist": "AiScReam",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1866,7 +1866,7 @@ window.SONG_DATA.push(
   "artist": "黒澤ルビィ(降幡愛)",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1874,7 +1874,7 @@ window.SONG_DATA.push(
   "artist": "樹海",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1882,7 +1882,7 @@ window.SONG_DATA.push(
   "artist": "大塚愛",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1890,7 +1890,7 @@ window.SONG_DATA.push(
   "artist": "石川智晶",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1898,7 +1898,7 @@ window.SONG_DATA.push(
   "artist": "See-Saw",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1906,7 +1906,7 @@ window.SONG_DATA.push(
   "artist": "すりぃ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1914,7 +1914,7 @@ window.SONG_DATA.push(
   "artist": "木村弓",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1922,7 +1922,7 @@ window.SONG_DATA.push(
   "artist": "竹内まりや",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1930,7 +1930,7 @@ window.SONG_DATA.push(
   "artist": "Yerin Baek",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1938,7 +1938,7 @@ window.SONG_DATA.push(
   "artist": "DISH／／",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1946,7 +1946,7 @@ window.SONG_DATA.push(
   "artist": "槇原敬之",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1954,7 +1954,7 @@ window.SONG_DATA.push(
   "artist": "SoHyang",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1962,7 +1962,7 @@ window.SONG_DATA.push(
   "artist": "Strawberry JAM",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1970,7 +1970,7 @@ window.SONG_DATA.push(
   "artist": "絢香",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1978,7 +1978,7 @@ window.SONG_DATA.push(
   "artist": "涼宮ハルヒ(平野綾)",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1986,7 +1986,7 @@ window.SONG_DATA.push(
   "artist": "ClariS",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -1994,7 +1994,7 @@ window.SONG_DATA.push(
   "artist": "HoneyWorks",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2002,7 +2002,7 @@ window.SONG_DATA.push(
   "artist": "千石撫子(CV.花澤香菜)",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2010,7 +2010,7 @@ window.SONG_DATA.push(
   "artist": "FRUITS ZIPPER",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2018,7 +2018,7 @@ window.SONG_DATA.push(
   "artist": "AiScReam",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2026,7 +2026,7 @@ window.SONG_DATA.push(
   "artist": "放課後ティータイム",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2034,7 +2034,7 @@ window.SONG_DATA.push(
   "artist": "放課後ティータイム",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2042,7 +2042,7 @@ window.SONG_DATA.push(
   "artist": "MAISONdes",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2050,7 +2050,7 @@ window.SONG_DATA.push(
   "artist": "釘宮理恵",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2058,7 +2058,7 @@ window.SONG_DATA.push(
   "artist": "ルイズ・フランソワーズ・ル・ブラン・ド・ラ・ヴァリエール(釘宮理恵)",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2066,7 +2066,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2074,7 +2074,7 @@ window.SONG_DATA.push(
   "artist": "TrySail",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2082,7 +2082,7 @@ window.SONG_DATA.push(
   "artist": "ポルノグラフィティ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2090,7 +2090,7 @@ window.SONG_DATA.push(
   "artist": "UNISON SQUARE GARDEN",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2098,7 +2098,7 @@ window.SONG_DATA.push(
   "artist": "ポルノグラフィティ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2106,7 +2106,7 @@ window.SONG_DATA.push(
   "artist": "Mrs. GREEN APPLE",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2114,7 +2114,7 @@ window.SONG_DATA.push(
   "artist": "Vaundy",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2122,7 +2122,7 @@ window.SONG_DATA.push(
   "artist": "戸松遥",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2130,7 +2130,7 @@ window.SONG_DATA.push(
   "artist": "いとうかなこ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2138,7 +2138,7 @@ window.SONG_DATA.push(
   "artist": "放課後ティータイム",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2146,7 +2146,7 @@ window.SONG_DATA.push(
   "artist": "fripSide",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2154,7 +2154,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2162,7 +2162,7 @@ window.SONG_DATA.push(
   "artist": "LiSA",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2170,7 +2170,7 @@ window.SONG_DATA.push(
   "artist": "LiSA",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2178,7 +2178,7 @@ window.SONG_DATA.push(
   "artist": "緑黄色社会",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2186,7 +2186,7 @@ window.SONG_DATA.push(
   "artist": "アイナ・ジ・エンド",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2194,7 +2194,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2202,7 +2202,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2210,7 +2210,7 @@ window.SONG_DATA.push(
   "artist": "癒月",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=17",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2218,7 +2218,7 @@ window.SONG_DATA.push(
   "artist": "REIRA starring YUNA ITO",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=18",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2226,7 +2226,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=19",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2234,7 +2234,7 @@ window.SONG_DATA.push(
   "artist": "三浦あずさ(たかはし智秋)",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=20",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2242,7 +2242,7 @@ window.SONG_DATA.push(
   "artist": "RADWIMPS",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=21",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2250,7 +2250,7 @@ window.SONG_DATA.push(
   "artist": "THE ORAL CIGARETTES",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=22",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2258,7 +2258,7 @@ window.SONG_DATA.push(
   "artist": "ano",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=23",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2266,7 +2266,7 @@ window.SONG_DATA.push(
   "artist": "KEI",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=24",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2274,7 +2274,7 @@ window.SONG_DATA.push(
   "artist": "Every Little Thing",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=25",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2282,7 +2282,7 @@ window.SONG_DATA.push(
   "artist": "TRUE",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=26",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2290,7 +2290,7 @@ window.SONG_DATA.push(
   "artist": "ZICO & 幾田りら",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=27",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2298,7 +2298,7 @@ window.SONG_DATA.push(
   "artist": "M!LK",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=28",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2306,7 +2306,7 @@ window.SONG_DATA.push(
   "artist": "LiSA",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=29",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2314,7 +2314,7 @@ window.SONG_DATA.push(
   "artist": "DECO27",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=30",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2322,7 +2322,7 @@ window.SONG_DATA.push(
   "artist": "RADWIMPS feat.十明",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=31",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2330,7 +2330,7 @@ window.SONG_DATA.push(
   "artist": "小川七生",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=32",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2338,7 +2338,7 @@ window.SONG_DATA.push(
   "artist": "Uru",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=33",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2346,7 +2346,7 @@ window.SONG_DATA.push(
   "artist": "マクロスフロンティアより",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=34",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2354,7 +2354,7 @@ window.SONG_DATA.push(
   "artist": "オーイシマサヨシ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=35",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2362,7 +2362,7 @@ window.SONG_DATA.push(
   "artist": "井上陽水",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2370,7 +2370,7 @@ window.SONG_DATA.push(
   "artist": "坂本真綾",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2378,7 +2378,7 @@ window.SONG_DATA.push(
   "artist": "コレサワ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2386,7 +2386,7 @@ window.SONG_DATA.push(
   "artist": "コレサワ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2394,7 +2394,7 @@ window.SONG_DATA.push(
   "artist": "keeno",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2402,7 +2402,7 @@ window.SONG_DATA.push(
   "artist": "RADWIMPS",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2410,7 +2410,7 @@ window.SONG_DATA.push(
   "artist": "Islet feat.倚水",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2418,7 +2418,7 @@ window.SONG_DATA.push(
   "artist": "EOW",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2426,7 +2426,7 @@ window.SONG_DATA.push(
   "artist": "サンボマスター",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2434,7 +2434,7 @@ window.SONG_DATA.push(
   "artist": "松任谷由実",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2442,7 +2442,7 @@ window.SONG_DATA.push(
   "artist": "あいみょん",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2450,7 +2450,7 @@ window.SONG_DATA.push(
   "artist": "supercell",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2458,7 +2458,7 @@ window.SONG_DATA.push(
   "artist": "八神はやて(植田佳奈)",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2466,7 +2466,7 @@ window.SONG_DATA.push(
   "artist": "LiSA",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2474,7 +2474,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2482,7 +2482,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2490,7 +2490,7 @@ window.SONG_DATA.push(
   "artist": "あいみょん",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2498,7 +2498,7 @@ window.SONG_DATA.push(
   "artist": "FIELD OF VIEW",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2506,7 +2506,7 @@ window.SONG_DATA.push(
   "artist": "AKINO",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2514,7 +2514,7 @@ window.SONG_DATA.push(
   "artist": "星野源",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2522,7 +2522,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2530,7 +2530,7 @@ window.SONG_DATA.push(
   "artist": "結束バンド",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2538,7 +2538,7 @@ window.SONG_DATA.push(
   "artist": "緑黄色社会",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2546,7 +2546,7 @@ window.SONG_DATA.push(
   "artist": "ChouCho",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2554,7 +2554,7 @@ window.SONG_DATA.push(
   "artist": "大塚愛",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2562,7 +2562,7 @@ window.SONG_DATA.push(
   "artist": "緑黄色社会",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2570,7 +2570,7 @@ window.SONG_DATA.push(
   "artist": "林原めぐみ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2578,7 +2578,7 @@ window.SONG_DATA.push(
   "artist": "放課後ティータイム",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2586,7 +2586,7 @@ window.SONG_DATA.push(
   "artist": "結束バンド",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2594,7 +2594,7 @@ window.SONG_DATA.push(
   "artist": "田村直美",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2602,7 +2602,7 @@ window.SONG_DATA.push(
   "artist": "月島きらり starring 久住小春",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2610,7 +2610,7 @@ window.SONG_DATA.push(
   "artist": "ヒャダイン",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2618,7 +2618,7 @@ window.SONG_DATA.push(
   "artist": "angela",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2626,7 +2626,7 @@ window.SONG_DATA.push(
   "artist": "supercell",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2634,7 +2634,7 @@ window.SONG_DATA.push(
   "artist": "angela",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2642,7 +2642,7 @@ window.SONG_DATA.push(
   "artist": "LiSA",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2650,7 +2650,7 @@ window.SONG_DATA.push(
   "artist": "新谷良子",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2658,7 +2658,7 @@ window.SONG_DATA.push(
   "artist": "紗倉ひびき(ファイルーズあい) & 街雄鳴造(石川界人)",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2666,7 +2666,7 @@ window.SONG_DATA.push(
   "artist": "藍井エイル",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2674,7 +2674,7 @@ window.SONG_DATA.push(
   "artist": "林原めぐみ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2682,7 +2682,7 @@ window.SONG_DATA.push(
   "artist": "陰陽座",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2690,7 +2690,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2698,7 +2698,7 @@ window.SONG_DATA.push(
   "artist": "Mrs. GREEN APPLE",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2706,7 +2706,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2714,7 +2714,7 @@ window.SONG_DATA.push(
   "artist": "涼宮ハルヒ(平野綾), 長門有希(茅原実里), 朝比奈みくる(後藤邑子)",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2722,7 +2722,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2730,7 +2730,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2738,7 +2738,7 @@ window.SONG_DATA.push(
   "artist": "アイナ・ジ・エンド",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2746,7 +2746,7 @@ window.SONG_DATA.push(
   "artist": "ZICO & 幾田りら",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2754,7 +2754,7 @@ window.SONG_DATA.push(
   "artist": "MONGOL800",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2762,7 +2762,7 @@ window.SONG_DATA.push(
   "artist": "LiSA",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2770,7 +2770,7 @@ window.SONG_DATA.push(
   "artist": "supercell",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2778,7 +2778,7 @@ window.SONG_DATA.push(
   "artist": "TWO-MIX",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2786,7 +2786,7 @@ window.SONG_DATA.push(
   "artist": "蝶々P feat.GUMI",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2794,7 +2794,7 @@ window.SONG_DATA.push(
   "artist": "7!!",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2802,7 +2802,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2810,7 +2810,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2818,7 +2818,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2826,7 +2826,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2834,7 +2834,7 @@ window.SONG_DATA.push(
   "artist": "Goose house",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2842,7 +2842,7 @@ window.SONG_DATA.push(
   "artist": "omoinotake",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2850,7 +2850,7 @@ window.SONG_DATA.push(
   "artist": "Reol",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2858,7 +2858,7 @@ window.SONG_DATA.push(
   "artist": "back number",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2866,7 +2866,7 @@ window.SONG_DATA.push(
   "artist": "Orangestar",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2874,7 +2874,7 @@ window.SONG_DATA.push(
   "artist": "AKINO with bless4",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2882,7 +2882,7 @@ window.SONG_DATA.push(
   "artist": "鈴木このみ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2890,7 +2890,7 @@ window.SONG_DATA.push(
   "artist": "COOL JOKE",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2898,7 +2898,7 @@ window.SONG_DATA.push(
   "artist": "竹内まりや",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2906,7 +2906,7 @@ window.SONG_DATA.push(
   "artist": "まるりとりゅうが",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2914,7 +2914,7 @@ window.SONG_DATA.push(
   "artist": "LiSA×Uru",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2922,7 +2922,7 @@ window.SONG_DATA.push(
   "artist": "とくP",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2930,7 +2930,7 @@ window.SONG_DATA.push(
   "artist": "TK from 凛として時雨",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2938,7 +2938,7 @@ window.SONG_DATA.push(
   "artist": "ゴム",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2946,7 +2946,7 @@ window.SONG_DATA.push(
   "artist": "姫野湖鳥(田村ゆかり)",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2954,7 +2954,7 @@ window.SONG_DATA.push(
   "artist": "40mP",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2962,7 +2962,7 @@ window.SONG_DATA.push(
   "artist": "AiScReam",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2970,7 +2970,7 @@ window.SONG_DATA.push(
   "artist": "Mrs. GREEN APPLE",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2978,7 +2978,7 @@ window.SONG_DATA.push(
   "artist": "ゆうゆ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2986,7 +2986,7 @@ window.SONG_DATA.push(
   "artist": "Roselia",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -2994,7 +2994,7 @@ window.SONG_DATA.push(
   "artist": "小柳ゆき",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3002,7 +3002,7 @@ window.SONG_DATA.push(
   "artist": "Every Little Thing",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3010,7 +3010,7 @@ window.SONG_DATA.push(
   "artist": "アイナ・ジ・エンド",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3018,7 +3018,7 @@ window.SONG_DATA.push(
   "artist": "とあ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=17",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3026,7 +3026,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=18",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3034,7 +3034,7 @@ window.SONG_DATA.push(
   "artist": "真行寺恵理",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=19",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3042,7 +3042,7 @@ window.SONG_DATA.push(
   "artist": "なれたん Naraetan Ch.🌷",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=20",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3050,7 +3050,7 @@ window.SONG_DATA.push(
   "artist": "Changin' My Life",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=21",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3058,7 +3058,7 @@ window.SONG_DATA.push(
   "artist": "Roselia",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=22",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3066,7 +3066,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3074,7 +3074,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3082,7 +3082,7 @@ window.SONG_DATA.push(
   "artist": "月詠み",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3090,7 +3090,7 @@ window.SONG_DATA.push(
   "artist": "nano.RIPE",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3098,7 +3098,7 @@ window.SONG_DATA.push(
   "artist": "Lia",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3106,7 +3106,7 @@ window.SONG_DATA.push(
   "artist": "SHAUN",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3114,7 +3114,7 @@ window.SONG_DATA.push(
   "artist": "ORANGE RANGE",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3122,7 +3122,7 @@ window.SONG_DATA.push(
   "artist": "IU",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3130,7 +3130,7 @@ window.SONG_DATA.push(
   "artist": "ねこぼーろ feat.初音ミク",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3138,7 +3138,7 @@ window.SONG_DATA.push(
   "artist": "7!!",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3146,7 +3146,7 @@ window.SONG_DATA.push(
   "artist": "supercell",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3154,7 +3154,7 @@ window.SONG_DATA.push(
   "artist": "Every Little Thing",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3162,7 +3162,7 @@ window.SONG_DATA.push(
   "artist": "サザンオールスターズ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3170,7 +3170,7 @@ window.SONG_DATA.push(
   "artist": "KPop Demon Hunters",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3178,7 +3178,7 @@ window.SONG_DATA.push(
   "artist": "SunSet Swish",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3186,7 +3186,7 @@ window.SONG_DATA.push(
   "artist": "水樹奈々",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3194,7 +3194,7 @@ window.SONG_DATA.push(
   "artist": "松浦亜弥",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3202,7 +3202,7 @@ window.SONG_DATA.push(
   "artist": "大塚愛",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3210,7 +3210,7 @@ window.SONG_DATA.push(
   "artist": "小倉唯",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3218,7 +3218,7 @@ window.SONG_DATA.push(
   "artist": "逢坂大河(釘宮理恵) 櫛枝実乃梨(堀江由衣) 川嶋亜美(喜多村英梨)",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3226,7 +3226,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3234,7 +3234,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3242,7 +3242,7 @@ window.SONG_DATA.push(
   "artist": "すりぃ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3250,7 +3250,7 @@ window.SONG_DATA.push(
   "artist": "HoneyWorks",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3258,7 +3258,7 @@ window.SONG_DATA.push(
   "artist": "大塚愛",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3266,7 +3266,7 @@ window.SONG_DATA.push(
   "artist": "大塚愛",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3274,7 +3274,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3282,7 +3282,7 @@ window.SONG_DATA.push(
   "artist": "Fhána",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3290,7 +3290,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3298,7 +3298,7 @@ window.SONG_DATA.push(
   "artist": "BUMP OF CHICKEN",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3306,7 +3306,7 @@ window.SONG_DATA.push(
   "artist": "榎本くるみ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3314,7 +3314,7 @@ window.SONG_DATA.push(
   "artist": "さユり",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3322,7 +3322,7 @@ window.SONG_DATA.push(
   "artist": "ツミキ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3330,7 +3330,7 @@ window.SONG_DATA.push(
   "artist": "from  超かぐや姫",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3338,7 +3338,7 @@ window.SONG_DATA.push(
   "artist": "KOKIA",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3346,7 +3346,7 @@ window.SONG_DATA.push(
   "artist": "CHERRYBLOSSOM",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3354,7 +3354,7 @@ window.SONG_DATA.push(
   "artist": "HoneyWorks",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3362,7 +3362,7 @@ window.SONG_DATA.push(
   "artist": "下川みくに",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3370,7 +3370,7 @@ window.SONG_DATA.push(
   "artist": "ラクス・クライン(田中理恵)",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3378,7 +3378,7 @@ window.SONG_DATA.push(
   "artist": "ランカ・リー＝中島愛",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3386,7 +3386,7 @@ window.SONG_DATA.push(
   "artist": "BiBi",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3394,7 +3394,7 @@ window.SONG_DATA.push(
   "artist": "ZONE",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3402,7 +3402,7 @@ window.SONG_DATA.push(
   "artist": "三浦あずさ(たかはし智秋)",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3410,7 +3410,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3418,7 +3418,7 @@ window.SONG_DATA.push(
   "artist": "SHAUN",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3426,7 +3426,7 @@ window.SONG_DATA.push(
   "artist": "Crystal Kay",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3434,7 +3434,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3442,7 +3442,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3450,7 +3450,7 @@ window.SONG_DATA.push(
   "artist": "BUMP OF CHICKEN",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3458,7 +3458,7 @@ window.SONG_DATA.push(
   "artist": "L'Arc～en～Ciel",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3466,7 +3466,7 @@ window.SONG_DATA.push(
   "artist": "サカナクション",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3474,7 +3474,7 @@ window.SONG_DATA.push(
   "artist": "林原めぐみ・奥井雅美",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3482,7 +3482,7 @@ window.SONG_DATA.push(
   "artist": "ワルキューレ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3490,7 +3490,7 @@ window.SONG_DATA.push(
   "artist": "Eve",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3498,7 +3498,7 @@ window.SONG_DATA.push(
   "artist": "40mP",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3506,7 +3506,7 @@ window.SONG_DATA.push(
   "artist": "164",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3514,7 +3514,7 @@ window.SONG_DATA.push(
   "artist": "Kanaria",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3522,7 +3522,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3530,7 +3530,7 @@ window.SONG_DATA.push(
   "artist": "YASUHIRO(康寛)",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3538,7 +3538,7 @@ window.SONG_DATA.push(
   "artist": "HoneyWorks",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3546,7 +3546,7 @@ window.SONG_DATA.push(
   "artist": "DECO27",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3554,7 +3554,7 @@ window.SONG_DATA.push(
   "artist": "ナノウ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3562,7 +3562,7 @@ window.SONG_DATA.push(
   "artist": "れるりり×もじゃ",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3570,7 +3570,7 @@ window.SONG_DATA.push(
   "artist": "HarryP",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3578,7 +3578,7 @@ window.SONG_DATA.push(
   "artist": "supercell",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3586,7 +3586,7 @@ window.SONG_DATA.push(
   "artist": "TOKOTOKO",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3594,7 +3594,7 @@ window.SONG_DATA.push(
   "artist": "DECO27",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "naraetan.js"
 },
     {
@@ -3602,7 +3602,7 @@ window.SONG_DATA.push(
   "artist": "Giga",
   "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "naraetan.js"
 },
     {

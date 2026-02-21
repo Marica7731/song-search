@@ -1,6 +1,6 @@
 // Figaro - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1HRfuBCEXN
-// 生成时间: 2/21/2026, 12:40:30 AM
+// 生成时间: 2/21/2026, 12:53:29 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -378,7 +378,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -386,7 +386,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -394,7 +394,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -402,7 +402,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -410,7 +410,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -418,7 +418,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -426,7 +426,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -434,7 +434,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -442,7 +442,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -450,7 +450,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -458,7 +458,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -466,7 +466,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -474,7 +474,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -482,7 +482,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -490,7 +490,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -498,7 +498,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -506,7 +506,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -514,7 +514,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -522,7 +522,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -530,7 +530,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -538,7 +538,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -546,7 +546,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -554,7 +554,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -562,7 +562,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -570,7 +570,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -578,7 +578,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -586,7 +586,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -594,7 +594,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -602,7 +602,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -610,7 +610,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -618,7 +618,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -626,7 +626,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -634,7 +634,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -642,7 +642,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -858,7 +858,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -866,7 +866,7 @@ window.SONG_DATA.push(
   "artist": "緑黄色社会",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -874,7 +874,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -882,7 +882,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -890,7 +890,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -898,7 +898,7 @@ window.SONG_DATA.push(
   "artist": "レミオロメン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -906,7 +906,7 @@ window.SONG_DATA.push(
   "artist": "森山直太朗",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -914,7 +914,7 @@ window.SONG_DATA.push(
   "artist": "メル",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -922,7 +922,7 @@ window.SONG_DATA.push(
   "artist": "日食なつこ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -930,7 +930,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -938,7 +938,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1274,7 +1274,7 @@ window.SONG_DATA.push(
   "artist": "諫山実生",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1282,7 +1282,7 @@ window.SONG_DATA.push(
   "artist": "木村弓",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1290,7 +1290,7 @@ window.SONG_DATA.push(
   "artist": "木村弓",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1298,7 +1298,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1306,7 +1306,7 @@ window.SONG_DATA.push(
   "artist": "井上あずみ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1314,7 +1314,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1322,7 +1322,7 @@ window.SONG_DATA.push(
   "artist": "エキゾチックかまたに",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1330,7 +1330,7 @@ window.SONG_DATA.push(
   "artist": "tuki.",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1338,7 +1338,7 @@ window.SONG_DATA.push(
   "artist": "蝶々P",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1346,7 +1346,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1354,7 +1354,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1362,7 +1362,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1370,7 +1370,7 @@ window.SONG_DATA.push(
   "artist": "七尾旅人",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1378,7 +1378,7 @@ window.SONG_DATA.push(
   "artist": "Heavenz",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1386,7 +1386,7 @@ window.SONG_DATA.push(
   "artist": "澤田 空海理",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1394,7 +1394,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1402,7 +1402,7 @@ window.SONG_DATA.push(
   "artist": "やなぎなぎ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1410,7 +1410,7 @@ window.SONG_DATA.push(
   "artist": "春野",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1418,7 +1418,7 @@ window.SONG_DATA.push(
   "artist": "傘村トータ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1426,7 +1426,7 @@ window.SONG_DATA.push(
   "artist": "DATEKEN",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=20",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1434,7 +1434,7 @@ window.SONG_DATA.push(
   "artist": "春野",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=21",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1442,7 +1442,7 @@ window.SONG_DATA.push(
   "artist": "藍色にしもん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=22",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1450,7 +1450,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=23",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1458,7 +1458,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=24",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1466,7 +1466,7 @@ window.SONG_DATA.push(
   "artist": "Heavenz",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=25",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1474,7 +1474,7 @@ window.SONG_DATA.push(
   "artist": "バルーン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=26",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1482,7 +1482,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1490,7 +1490,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1498,7 +1498,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1506,7 +1506,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1514,7 +1514,7 @@ window.SONG_DATA.push(
   "artist": "Ayase",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1522,7 +1522,7 @@ window.SONG_DATA.push(
   "artist": "DECO27",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1530,7 +1530,7 @@ window.SONG_DATA.push(
   "artist": "ryo",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1538,7 +1538,7 @@ window.SONG_DATA.push(
   "artist": "しぐれうい",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1546,7 +1546,7 @@ window.SONG_DATA.push(
   "artist": "宝鐘マリン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1554,7 +1554,7 @@ window.SONG_DATA.push(
   "artist": "supercell",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1562,7 +1562,7 @@ window.SONG_DATA.push(
   "artist": "Kanaria",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1570,7 +1570,7 @@ window.SONG_DATA.push(
   "artist": "なるみや",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1578,7 +1578,7 @@ window.SONG_DATA.push(
   "artist": "美川憲一",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1586,7 +1586,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1594,7 +1594,7 @@ window.SONG_DATA.push(
   "artist": "和ぬか",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1690,7 +1690,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1698,7 +1698,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1706,7 +1706,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1714,7 +1714,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1722,7 +1722,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1730,7 +1730,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1738,7 +1738,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1746,7 +1746,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1754,7 +1754,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1762,7 +1762,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1770,7 +1770,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1778,7 +1778,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1786,7 +1786,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1794,7 +1794,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1802,7 +1802,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1810,7 +1810,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1818,7 +1818,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1962,7 +1962,7 @@ window.SONG_DATA.push(
   "artist": "福山雅治",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1970,7 +1970,7 @@ window.SONG_DATA.push(
   "artist": "日食なつこ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1978,7 +1978,7 @@ window.SONG_DATA.push(
   "artist": "Belle",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1986,7 +1986,7 @@ window.SONG_DATA.push(
   "artist": "音田雅則",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -1994,7 +1994,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2002,7 +2002,7 @@ window.SONG_DATA.push(
   "artist": "HY",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2010,7 +2010,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2018,7 +2018,7 @@ window.SONG_DATA.push(
   "artist": "いきものがかり",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2026,7 +2026,7 @@ window.SONG_DATA.push(
   "artist": "未来古代楽団",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2034,7 +2034,7 @@ window.SONG_DATA.push(
   "artist": "諫山実生",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2042,7 +2042,7 @@ window.SONG_DATA.push(
   "artist": "Oasis",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2050,7 +2050,7 @@ window.SONG_DATA.push(
   "artist": "鬼束ちひろ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2058,7 +2058,7 @@ window.SONG_DATA.push(
   "artist": "鬼束ちひろ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2066,7 +2066,7 @@ window.SONG_DATA.push(
   "artist": "鬼束ちひろ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2074,7 +2074,7 @@ window.SONG_DATA.push(
   "artist": "KOKIA",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2082,7 +2082,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2090,7 +2090,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2098,7 +2098,7 @@ window.SONG_DATA.push(
   "artist": "Figaro",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2106,7 +2106,7 @@ window.SONG_DATA.push(
   "artist": "Figaro",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2114,7 +2114,7 @@ window.SONG_DATA.push(
   "artist": "おおはた雄一",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=20",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2122,7 +2122,7 @@ window.SONG_DATA.push(
   "artist": "七尾旅人",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=21",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2130,7 +2130,7 @@ window.SONG_DATA.push(
   "artist": "佐々木恵梨",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=22",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2138,7 +2138,7 @@ window.SONG_DATA.push(
   "artist": "花譜",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=23",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2146,7 +2146,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2274,7 +2274,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2282,7 +2282,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2290,7 +2290,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2298,7 +2298,7 @@ window.SONG_DATA.push(
   "artist": "ツミキ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2306,7 +2306,7 @@ window.SONG_DATA.push(
   "artist": "いきものがかり",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2314,7 +2314,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2322,7 +2322,7 @@ window.SONG_DATA.push(
   "artist": "tuki.",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2330,7 +2330,7 @@ window.SONG_DATA.push(
   "artist": "優里",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2338,7 +2338,7 @@ window.SONG_DATA.push(
   "artist": "Reol",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2346,7 +2346,7 @@ window.SONG_DATA.push(
   "artist": "日向電工",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2354,7 +2354,7 @@ window.SONG_DATA.push(
   "artist": "稲葉曇",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2362,7 +2362,7 @@ window.SONG_DATA.push(
   "artist": "カンザキイオリ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2370,7 +2370,7 @@ window.SONG_DATA.push(
   "artist": "UNISON SQUARE GARDEN",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2810,7 +2810,7 @@ window.SONG_DATA.push(
   "artist": "みきとP (mikitoP)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2818,7 +2818,7 @@ window.SONG_DATA.push(
   "artist": "音田雅則 (Masanori Otoda)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2826,7 +2826,7 @@ window.SONG_DATA.push(
   "artist": "Eve",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2834,7 +2834,7 @@ window.SONG_DATA.push(
   "artist": "ポリスピカデリー (Police Piccadilly)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2842,7 +2842,7 @@ window.SONG_DATA.push(
   "artist": "奏音69 (KANON69)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2850,7 +2850,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。 (ZUTOMAYO)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2858,7 +2858,7 @@ window.SONG_DATA.push(
   "artist": "女王蜂 (QUEEN BEE)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2866,7 +2866,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2874,7 +2874,7 @@ window.SONG_DATA.push(
   "artist": "緑黄色社会 (Ryokuoushoku Shakai)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2882,7 +2882,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2890,7 +2890,7 @@ window.SONG_DATA.push(
   "artist": "anNina",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2898,7 +2898,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん (Harumaki Gohan)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2906,7 +2906,7 @@ window.SONG_DATA.push(
   "artist": "GYARI",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2914,7 +2914,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん (Harumaki Gohan)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2922,7 +2922,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん (Harumaki Gohan)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2930,7 +2930,7 @@ window.SONG_DATA.push(
   "artist": "Neru & z'5",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2938,7 +2938,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん (Harumaki Gohan)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2946,7 +2946,7 @@ window.SONG_DATA.push(
   "artist": "ポリスピカデリー (Police Piccadilly)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2954,7 +2954,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2962,7 +2962,7 @@ window.SONG_DATA.push(
   "artist": "バルーン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2970,7 +2970,7 @@ window.SONG_DATA.push(
   "artist": "におP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2978,7 +2978,7 @@ window.SONG_DATA.push(
   "artist": "春野",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2986,7 +2986,7 @@ window.SONG_DATA.push(
   "artist": "一青窈",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -2994,7 +2994,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -3002,7 +3002,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -3010,7 +3010,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -3018,7 +3018,7 @@ window.SONG_DATA.push(
   "artist": "カンザキイオリ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -3026,7 +3026,7 @@ window.SONG_DATA.push(
   "artist": "LiSA",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -3034,7 +3034,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -3042,7 +3042,7 @@ window.SONG_DATA.push(
   "artist": "ふわりP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -3050,7 +3050,7 @@ window.SONG_DATA.push(
   "artist": "じん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -3058,7 +3058,7 @@ window.SONG_DATA.push(
   "artist": "Mrs. GREEN APPLE",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -3866,7 +3866,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -3874,7 +3874,7 @@ window.SONG_DATA.push(
   "artist": "日食なつこ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -3882,7 +3882,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -3890,7 +3890,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -3898,7 +3898,7 @@ window.SONG_DATA.push(
   "artist": "Figaro",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -3906,7 +3906,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -3914,7 +3914,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -3922,7 +3922,7 @@ window.SONG_DATA.push(
   "artist": "春野",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -3930,7 +3930,7 @@ window.SONG_DATA.push(
   "artist": "RADWIMPS",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -3938,7 +3938,7 @@ window.SONG_DATA.push(
   "artist": "Orangestar",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -3946,7 +3946,7 @@ window.SONG_DATA.push(
   "artist": "ナブナ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -3954,7 +3954,7 @@ window.SONG_DATA.push(
   "artist": "七尾旅人",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -3962,7 +3962,7 @@ window.SONG_DATA.push(
   "artist": "LiSA × Uru",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -3970,7 +3970,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -3978,7 +3978,7 @@ window.SONG_DATA.push(
   "artist": "KOH+",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -3986,7 +3986,7 @@ window.SONG_DATA.push(
   "artist": "Cocco",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -3994,7 +3994,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4002,7 +4002,7 @@ window.SONG_DATA.push(
   "artist": "Tani Yuuki",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4010,7 +4010,7 @@ window.SONG_DATA.push(
   "artist": "ジミーサムP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4018,7 +4018,7 @@ window.SONG_DATA.push(
   "artist": "ジミーサムP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4026,7 +4026,7 @@ window.SONG_DATA.push(
   "artist": "Heavenz",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4034,7 +4034,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4042,7 +4042,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4050,7 +4050,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4058,7 +4058,7 @@ window.SONG_DATA.push(
   "artist": "鬼束ちひろ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4066,7 +4066,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4074,7 +4074,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4082,7 +4082,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4090,7 +4090,7 @@ window.SONG_DATA.push(
   "artist": "友成空",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4098,7 +4098,7 @@ window.SONG_DATA.push(
   "artist": "ヰ世界情緒",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4106,7 +4106,7 @@ window.SONG_DATA.push(
   "artist": "相対性理論",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4114,7 +4114,7 @@ window.SONG_DATA.push(
   "artist": "相対性理論",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4122,7 +4122,7 @@ window.SONG_DATA.push(
   "artist": "つじあやの",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4130,7 +4130,7 @@ window.SONG_DATA.push(
   "artist": "松任谷由実",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4138,7 +4138,7 @@ window.SONG_DATA.push(
   "artist": "井上あずみ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4146,7 +4146,7 @@ window.SONG_DATA.push(
   "artist": "木村弓",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4154,7 +4154,7 @@ window.SONG_DATA.push(
   "artist": "木村弓",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4162,7 +4162,7 @@ window.SONG_DATA.push(
   "artist": "yukkedoluce",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4170,7 +4170,7 @@ window.SONG_DATA.push(
   "artist": "ジミーサムP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4178,7 +4178,7 @@ window.SONG_DATA.push(
   "artist": "カンザキイオリ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4186,7 +4186,7 @@ window.SONG_DATA.push(
   "artist": "Cö shu Nie",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=20",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4194,7 +4194,7 @@ window.SONG_DATA.push(
   "artist": "tuki.",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=21",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4402,7 +4402,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4410,7 +4410,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4418,7 +4418,7 @@ window.SONG_DATA.push(
   "artist": "ヰ世界情緒",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4426,7 +4426,7 @@ window.SONG_DATA.push(
   "artist": "back number",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4434,7 +4434,7 @@ window.SONG_DATA.push(
   "artist": "anNina",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4442,7 +4442,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4450,7 +4450,7 @@ window.SONG_DATA.push(
   "artist": "buzzG",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4458,7 +4458,7 @@ window.SONG_DATA.push(
   "artist": "ナブナ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4466,7 +4466,7 @@ window.SONG_DATA.push(
   "artist": "Eight",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4474,7 +4474,7 @@ window.SONG_DATA.push(
   "artist": "HY",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4482,7 +4482,7 @@ window.SONG_DATA.push(
   "artist": "millstones",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4490,7 +4490,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉(2)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4498,7 +4498,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4506,7 +4506,7 @@ window.SONG_DATA.push(
   "artist": "KOKIA",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4514,7 +4514,7 @@ window.SONG_DATA.push(
   "artist": "春野(2)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4522,7 +4522,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4530,7 +4530,7 @@ window.SONG_DATA.push(
   "artist": "コレサワ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4538,7 +4538,7 @@ window.SONG_DATA.push(
   "artist": "チャットモンチー",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4546,7 +4546,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4554,7 +4554,7 @@ window.SONG_DATA.push(
   "artist": "やくしまるえつこ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4562,7 +4562,7 @@ window.SONG_DATA.push(
   "artist": "やくしまるえつこ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4570,7 +4570,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4578,7 +4578,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4586,7 +4586,7 @@ window.SONG_DATA.push(
   "artist": "未来古代楽団",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4594,7 +4594,7 @@ window.SONG_DATA.push(
   "artist": "古川本舗",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4602,7 +4602,7 @@ window.SONG_DATA.push(
   "artist": "あいみょん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4610,7 +4610,7 @@ window.SONG_DATA.push(
   "artist": "LiSA",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4618,7 +4618,7 @@ window.SONG_DATA.push(
   "artist": "一青窈",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4626,7 +4626,7 @@ window.SONG_DATA.push(
   "artist": "ジミーサムP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4634,7 +4634,7 @@ window.SONG_DATA.push(
   "artist": "40メートルP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4642,7 +4642,7 @@ window.SONG_DATA.push(
   "artist": "におP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4650,7 +4650,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4658,7 +4658,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4666,7 +4666,7 @@ window.SONG_DATA.push(
   "artist": "ヒグチアイ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4674,7 +4674,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4682,7 +4682,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4690,7 +4690,7 @@ window.SONG_DATA.push(
   "artist": "ナノウ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4698,7 +4698,7 @@ window.SONG_DATA.push(
   "artist": "緑黄色社会",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4706,7 +4706,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4714,7 +4714,7 @@ window.SONG_DATA.push(
   "artist": "奧華子",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4722,7 +4722,7 @@ window.SONG_DATA.push(
   "artist": "Vaundy",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4730,7 +4730,7 @@ window.SONG_DATA.push(
   "artist": "sasakure .UK",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4738,7 +4738,7 @@ window.SONG_DATA.push(
   "artist": "緑黄色社会",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4746,7 +4746,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4754,7 +4754,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4762,7 +4762,7 @@ window.SONG_DATA.push(
   "artist": "Ayase",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4770,7 +4770,7 @@ window.SONG_DATA.push(
   "artist": "Giga",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4778,7 +4778,7 @@ window.SONG_DATA.push(
   "artist": "Giga",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4786,7 +4786,7 @@ window.SONG_DATA.push(
   "artist": "音田雅則",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4794,7 +4794,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4802,7 +4802,7 @@ window.SONG_DATA.push(
   "artist": "Kanaria",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4810,7 +4810,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4818,7 +4818,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4826,7 +4826,7 @@ window.SONG_DATA.push(
   "artist": "R Sound Design",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4834,7 +4834,7 @@ window.SONG_DATA.push(
   "artist": "YURiKA",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4842,7 +4842,7 @@ window.SONG_DATA.push(
   "artist": "バルーン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4850,7 +4850,7 @@ window.SONG_DATA.push(
   "artist": "バルーン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4858,7 +4858,7 @@ window.SONG_DATA.push(
   "artist": "ぬゆり",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4866,7 +4866,7 @@ window.SONG_DATA.push(
   "artist": "wotaku",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4874,7 +4874,7 @@ window.SONG_DATA.push(
   "artist": "やなぎなぎ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4882,7 +4882,7 @@ window.SONG_DATA.push(
   "artist": "案山子",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4890,7 +4890,7 @@ window.SONG_DATA.push(
   "artist": "ポリスピカデリー",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4898,7 +4898,7 @@ window.SONG_DATA.push(
   "artist": "じん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=20",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4906,7 +4906,7 @@ window.SONG_DATA.push(
   "artist": "ツミキ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=21",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4914,7 +4914,7 @@ window.SONG_DATA.push(
   "artist": "Neru & z'5",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=22",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4922,7 +4922,7 @@ window.SONG_DATA.push(
   "artist": "八王子P × Giga",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=23",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4930,7 +4930,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=24",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4938,7 +4938,7 @@ window.SONG_DATA.push(
   "artist": "友成空",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=25",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4946,7 +4946,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=26",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4954,7 +4954,7 @@ window.SONG_DATA.push(
   "artist": "ナブナ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4962,7 +4962,7 @@ window.SONG_DATA.push(
   "artist": "スキマスイッチ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4970,7 +4970,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4978,7 +4978,7 @@ window.SONG_DATA.push(
   "artist": "ゆず",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4986,7 +4986,7 @@ window.SONG_DATA.push(
   "artist": "じん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -4994,7 +4994,7 @@ window.SONG_DATA.push(
   "artist": "大塚愛",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5002,7 +5002,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ(2)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5010,7 +5010,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5018,7 +5018,7 @@ window.SONG_DATA.push(
   "artist": "supercell",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5026,7 +5026,7 @@ window.SONG_DATA.push(
   "artist": "DAOKO × 米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5034,7 +5034,7 @@ window.SONG_DATA.push(
   "artist": "Orangestar",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5042,7 +5042,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5050,7 +5050,7 @@ window.SONG_DATA.push(
   "artist": "Eight",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5058,7 +5058,7 @@ window.SONG_DATA.push(
   "artist": "フジファブリック",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5066,7 +5066,7 @@ window.SONG_DATA.push(
   "artist": "フジファブリック",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5074,7 +5074,7 @@ window.SONG_DATA.push(
   "artist": "supercell",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5082,7 +5082,7 @@ window.SONG_DATA.push(
   "artist": "コバソロ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5090,7 +5090,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5098,7 +5098,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5106,7 +5106,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5114,7 +5114,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5122,7 +5122,7 @@ window.SONG_DATA.push(
   "artist": "Bank Band with Salyu",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5130,7 +5130,7 @@ window.SONG_DATA.push(
   "artist": "tuki.",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5138,7 +5138,7 @@ window.SONG_DATA.push(
   "artist": "古川本舗",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5146,7 +5146,7 @@ window.SONG_DATA.push(
   "artist": "木村弓",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5154,7 +5154,7 @@ window.SONG_DATA.push(
   "artist": "鬼束ちひろ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5162,7 +5162,7 @@ window.SONG_DATA.push(
   "artist": "SINGER SONGER",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5170,7 +5170,7 @@ window.SONG_DATA.push(
   "artist": "福山雅治",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5178,7 +5178,7 @@ window.SONG_DATA.push(
   "artist": "Orangestar",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5186,7 +5186,7 @@ window.SONG_DATA.push(
   "artist": "絢香",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5194,7 +5194,7 @@ window.SONG_DATA.push(
   "artist": "MISIA",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5202,7 +5202,7 @@ window.SONG_DATA.push(
   "artist": "七尾旅人",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=20",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5210,7 +5210,7 @@ window.SONG_DATA.push(
   "artist": "中島愛",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5218,7 +5218,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5226,7 +5226,7 @@ window.SONG_DATA.push(
   "artist": "高橋洋子",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5234,7 +5234,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5242,7 +5242,7 @@ window.SONG_DATA.push(
   "artist": "halca",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5250,7 +5250,7 @@ window.SONG_DATA.push(
   "artist": "ClariS",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5258,7 +5258,7 @@ window.SONG_DATA.push(
   "artist": "中川翔子",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5266,7 +5266,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5274,7 +5274,7 @@ window.SONG_DATA.push(
   "artist": "Uru",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5282,7 +5282,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5290,7 +5290,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5298,7 +5298,7 @@ window.SONG_DATA.push(
   "artist": "SawanoHiroyuki[nZk]mizuki",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5306,7 +5306,7 @@ window.SONG_DATA.push(
   "artist": "rionos",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5314,7 +5314,7 @@ window.SONG_DATA.push(
   "artist": "牧野由依",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5322,7 +5322,7 @@ window.SONG_DATA.push(
   "artist": "佐々木恵梨",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5330,7 +5330,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5338,7 +5338,7 @@ window.SONG_DATA.push(
   "artist": "千綿ヒデノリ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5346,7 +5346,7 @@ window.SONG_DATA.push(
   "artist": "Official HIGE DANdism",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5354,7 +5354,7 @@ window.SONG_DATA.push(
   "artist": "香椎モイミ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5362,7 +5362,7 @@ window.SONG_DATA.push(
   "artist": "かいりきベア",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5370,7 +5370,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5378,7 +5378,7 @@ window.SONG_DATA.push(
   "artist": "緑黄色社会",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5386,7 +5386,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5394,7 +5394,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5402,7 +5402,7 @@ window.SONG_DATA.push(
   "artist": "鈴木瑛美子 × 亀田誠治",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5410,7 +5410,7 @@ window.SONG_DATA.push(
   "artist": "ジッタリン・ジン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5418,7 +5418,7 @@ window.SONG_DATA.push(
   "artist": "和ぬか",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5426,7 +5426,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5434,7 +5434,7 @@ window.SONG_DATA.push(
   "artist": "友成空",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5442,7 +5442,7 @@ window.SONG_DATA.push(
   "artist": "DAOKO × 米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5450,7 +5450,7 @@ window.SONG_DATA.push(
   "artist": "椎名林檎",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5458,7 +5458,7 @@ window.SONG_DATA.push(
   "artist": "ポリスピカデリー",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5466,7 +5466,7 @@ window.SONG_DATA.push(
   "artist": "ポリスピカデリー",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5474,7 +5474,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5482,7 +5482,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5490,7 +5490,7 @@ window.SONG_DATA.push(
   "artist": "未来古代楽団",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5498,7 +5498,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5506,7 +5506,7 @@ window.SONG_DATA.push(
   "artist": "鬼束ちひろ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5514,7 +5514,7 @@ window.SONG_DATA.push(
   "artist": "KOH+",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5522,7 +5522,7 @@ window.SONG_DATA.push(
   "artist": "LiSA × Uru",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5530,7 +5530,7 @@ window.SONG_DATA.push(
   "artist": "KOKIA",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5538,7 +5538,7 @@ window.SONG_DATA.push(
   "artist": "anNina",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5546,7 +5546,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5554,7 +5554,7 @@ window.SONG_DATA.push(
   "artist": "大柴広己",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5562,7 +5562,7 @@ window.SONG_DATA.push(
   "artist": "ナブナ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5570,7 +5570,7 @@ window.SONG_DATA.push(
   "artist": "Orangestar",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5578,7 +5578,7 @@ window.SONG_DATA.push(
   "artist": "40メートルP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5586,7 +5586,7 @@ window.SONG_DATA.push(
   "artist": "想太",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5594,7 +5594,7 @@ window.SONG_DATA.push(
   "artist": "DECO27",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5602,7 +5602,7 @@ window.SONG_DATA.push(
   "artist": "におP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5610,7 +5610,7 @@ window.SONG_DATA.push(
   "artist": "すこっぷ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5618,7 +5618,7 @@ window.SONG_DATA.push(
   "artist": "Heavenz",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5626,7 +5626,7 @@ window.SONG_DATA.push(
   "artist": "傘村トータ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5634,7 +5634,7 @@ window.SONG_DATA.push(
   "artist": "蝶々P",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5642,7 +5642,7 @@ window.SONG_DATA.push(
   "artist": "keeno",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5650,7 +5650,7 @@ window.SONG_DATA.push(
   "artist": "ジミーサムP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5658,7 +5658,7 @@ window.SONG_DATA.push(
   "artist": "buzzG",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5666,7 +5666,7 @@ window.SONG_DATA.push(
   "artist": "カンザキイオリ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5674,7 +5674,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5682,7 +5682,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5690,7 +5690,7 @@ window.SONG_DATA.push(
   "artist": "東京事変",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5698,7 +5698,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5706,7 +5706,7 @@ window.SONG_DATA.push(
   "artist": "平野綾",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5714,7 +5714,7 @@ window.SONG_DATA.push(
   "artist": "ASIAN KUNG-FU GENERATION",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5722,7 +5722,7 @@ window.SONG_DATA.push(
   "artist": "ELLEGARDEN",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5730,7 +5730,7 @@ window.SONG_DATA.push(
   "artist": "DECO27",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5738,7 +5738,7 @@ window.SONG_DATA.push(
   "artist": "DECO27",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5746,7 +5746,7 @@ window.SONG_DATA.push(
   "artist": "友成空",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5754,7 +5754,7 @@ window.SONG_DATA.push(
   "artist": "NOMELON NOLEMON",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5762,7 +5762,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5770,7 +5770,7 @@ window.SONG_DATA.push(
   "artist": "女王蜂",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5778,7 +5778,7 @@ window.SONG_DATA.push(
   "artist": "すりぃ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5786,7 +5786,7 @@ window.SONG_DATA.push(
   "artist": "すりぃ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5794,7 +5794,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5802,7 +5802,7 @@ window.SONG_DATA.push(
   "artist": "HoneyWorks",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5810,7 +5810,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5818,7 +5818,7 @@ window.SONG_DATA.push(
   "artist": "サカナクション",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5826,7 +5826,7 @@ window.SONG_DATA.push(
   "artist": "Ayase",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=20",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5834,7 +5834,7 @@ window.SONG_DATA.push(
   "artist": "音田雅則",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=21",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5842,7 +5842,7 @@ window.SONG_DATA.push(
   "artist": "ポルノグラフィティ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=22",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5850,7 +5850,7 @@ window.SONG_DATA.push(
   "artist": "有形ランペイジ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=23",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5858,7 +5858,7 @@ window.SONG_DATA.push(
   "artist": "なきゃむりゃ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=24",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5866,7 +5866,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5874,7 +5874,7 @@ window.SONG_DATA.push(
   "artist": "未来古代楽団",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5882,7 +5882,7 @@ window.SONG_DATA.push(
   "artist": "諫山実生",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5890,7 +5890,7 @@ window.SONG_DATA.push(
   "artist": "Heavenz",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5898,7 +5898,7 @@ window.SONG_DATA.push(
   "artist": "バルーン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5906,7 +5906,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5914,7 +5914,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5922,7 +5922,7 @@ window.SONG_DATA.push(
   "artist": "春野",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5930,7 +5930,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5938,7 +5938,7 @@ window.SONG_DATA.push(
   "artist": "supercell",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5946,7 +5946,7 @@ window.SONG_DATA.push(
   "artist": "優里",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5954,7 +5954,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5962,7 +5962,7 @@ window.SONG_DATA.push(
   "artist": "keeno",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5970,7 +5970,7 @@ window.SONG_DATA.push(
   "artist": "電ポルP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5978,7 +5978,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5986,7 +5986,7 @@ window.SONG_DATA.push(
   "artist": "RADWIMPS",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -5994,7 +5994,7 @@ window.SONG_DATA.push(
   "artist": "RADWIMPS",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6002,7 +6002,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6010,7 +6010,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6018,7 +6018,7 @@ window.SONG_DATA.push(
   "artist": "カンザキイオリ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6026,7 +6026,7 @@ window.SONG_DATA.push(
   "artist": "ツミキ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6034,7 +6034,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6042,7 +6042,7 @@ window.SONG_DATA.push(
   "artist": "back number",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6050,7 +6050,7 @@ window.SONG_DATA.push(
   "artist": "Heavenz",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6058,7 +6058,7 @@ window.SONG_DATA.push(
   "artist": "Tani Yuuki",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6066,7 +6066,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6074,7 +6074,7 @@ window.SONG_DATA.push(
   "artist": "椎名林檎",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6082,7 +6082,7 @@ window.SONG_DATA.push(
   "artist": "理芽",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6090,7 +6090,7 @@ window.SONG_DATA.push(
   "artist": "理芽",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6098,7 +6098,7 @@ window.SONG_DATA.push(
   "artist": "藍色にしもん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6106,7 +6106,7 @@ window.SONG_DATA.push(
   "artist": "millstones",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6114,7 +6114,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6122,7 +6122,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6130,7 +6130,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6138,7 +6138,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6146,7 +6146,7 @@ window.SONG_DATA.push(
   "artist": "DATEKEN",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6154,7 +6154,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6162,7 +6162,7 @@ window.SONG_DATA.push(
   "artist": "におP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6170,7 +6170,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6178,7 +6178,7 @@ window.SONG_DATA.push(
   "artist": "ナブナ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6186,7 +6186,7 @@ window.SONG_DATA.push(
   "artist": "なるみや",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6194,7 +6194,7 @@ window.SONG_DATA.push(
   "artist": "フジファブリック",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6202,7 +6202,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6210,7 +6210,7 @@ window.SONG_DATA.push(
   "artist": "相対性理論",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6218,7 +6218,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6226,7 +6226,7 @@ window.SONG_DATA.push(
   "artist": "未来古代楽団",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6234,7 +6234,7 @@ window.SONG_DATA.push(
   "artist": "友成空",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6242,7 +6242,7 @@ window.SONG_DATA.push(
   "artist": "春野",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6250,7 +6250,7 @@ window.SONG_DATA.push(
   "artist": "木村弓",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6258,7 +6258,7 @@ window.SONG_DATA.push(
   "artist": "大塚愛",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6266,7 +6266,7 @@ window.SONG_DATA.push(
   "artist": "井上陽水",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6274,7 +6274,7 @@ window.SONG_DATA.push(
   "artist": "ZONE",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6282,7 +6282,7 @@ window.SONG_DATA.push(
   "artist": "サザンオールスターズ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6290,7 +6290,7 @@ window.SONG_DATA.push(
   "artist": "奧華子",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6298,7 +6298,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6306,7 +6306,7 @@ window.SONG_DATA.push(
   "artist": "DAOKO × 米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6314,7 +6314,7 @@ window.SONG_DATA.push(
   "artist": "RADWIMPS",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6322,7 +6322,7 @@ window.SONG_DATA.push(
   "artist": "aiko",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6330,7 +6330,7 @@ window.SONG_DATA.push(
   "artist": "柴咲コウ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6338,7 +6338,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6346,7 +6346,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6354,7 +6354,7 @@ window.SONG_DATA.push(
   "artist": "back number",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6362,7 +6362,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6370,7 +6370,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6378,7 +6378,7 @@ window.SONG_DATA.push(
   "artist": "あいみょん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6386,7 +6386,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6394,7 +6394,7 @@ window.SONG_DATA.push(
   "artist": "とあ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6402,7 +6402,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6410,7 +6410,7 @@ window.SONG_DATA.push(
   "artist": "椎名林檎",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6418,7 +6418,7 @@ window.SONG_DATA.push(
   "artist": "酸欠少女さユり",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6426,7 +6426,7 @@ window.SONG_DATA.push(
   "artist": "緑黄色社会",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6434,7 +6434,7 @@ window.SONG_DATA.push(
   "artist": "和ぬか",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6442,7 +6442,7 @@ window.SONG_DATA.push(
   "artist": "鬼束ちひろ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6450,7 +6450,7 @@ window.SONG_DATA.push(
   "artist": "竹内まりや",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6458,7 +6458,7 @@ window.SONG_DATA.push(
   "artist": "未来古代楽団(2)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6466,7 +6466,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6474,7 +6474,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6482,7 +6482,7 @@ window.SONG_DATA.push(
   "artist": "七尾旅人",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6490,7 +6490,7 @@ window.SONG_DATA.push(
   "artist": "バルーン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6498,7 +6498,7 @@ window.SONG_DATA.push(
   "artist": "Awesome City Club",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6506,7 +6506,7 @@ window.SONG_DATA.push(
   "artist": "西沢さんP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6514,7 +6514,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6522,7 +6522,7 @@ window.SONG_DATA.push(
   "artist": "DECO27",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6530,7 +6530,7 @@ window.SONG_DATA.push(
   "artist": "buzzG",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6538,7 +6538,7 @@ window.SONG_DATA.push(
   "artist": "優里",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6546,7 +6546,7 @@ window.SONG_DATA.push(
   "artist": "蝶々P",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6554,7 +6554,7 @@ window.SONG_DATA.push(
   "artist": "春野",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6562,7 +6562,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6570,7 +6570,7 @@ window.SONG_DATA.push(
   "artist": "藤井風",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6578,7 +6578,7 @@ window.SONG_DATA.push(
   "artist": "Ayase",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6586,7 +6586,7 @@ window.SONG_DATA.push(
   "artist": "和ぬか",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6594,7 +6594,7 @@ window.SONG_DATA.push(
   "artist": "DUSTCELL",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6602,7 +6602,7 @@ window.SONG_DATA.push(
   "artist": "ポリスピカデリー",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6610,7 +6610,7 @@ window.SONG_DATA.push(
   "artist": "Eve",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6618,7 +6618,7 @@ window.SONG_DATA.push(
   "artist": "とあ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6626,7 +6626,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6634,7 +6634,7 @@ window.SONG_DATA.push(
   "artist": "YASUHIRO",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6642,7 +6642,7 @@ window.SONG_DATA.push(
   "artist": "CIRCRUSH",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6650,7 +6650,7 @@ window.SONG_DATA.push(
   "artist": "日向電工",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6658,7 +6658,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6666,7 +6666,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6674,7 +6674,7 @@ window.SONG_DATA.push(
   "artist": "Giga",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6682,7 +6682,7 @@ window.SONG_DATA.push(
   "artist": "Giga",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6690,7 +6690,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6698,7 +6698,7 @@ window.SONG_DATA.push(
   "artist": "フジファブリック",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6706,7 +6706,7 @@ window.SONG_DATA.push(
   "artist": "Neru & z'5",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6714,7 +6714,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6722,7 +6722,7 @@ window.SONG_DATA.push(
   "artist": "ダズビー",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6730,7 +6730,7 @@ window.SONG_DATA.push(
   "artist": "ダズビー",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=20",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6738,7 +6738,7 @@ window.SONG_DATA.push(
   "artist": "Perfume",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=21",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6746,7 +6746,7 @@ window.SONG_DATA.push(
   "artist": "じーざすP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=22",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6754,7 +6754,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=23",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6762,7 +6762,7 @@ window.SONG_DATA.push(
   "artist": "niki",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=24",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6770,7 +6770,7 @@ window.SONG_DATA.push(
   "artist": "Uru",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6778,7 +6778,7 @@ window.SONG_DATA.push(
   "artist": "ヒグチアイ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6786,7 +6786,7 @@ window.SONG_DATA.push(
   "artist": "tuki.",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6794,7 +6794,7 @@ window.SONG_DATA.push(
   "artist": "RADWIMPS",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6802,7 +6802,7 @@ window.SONG_DATA.push(
   "artist": "清竜人",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6810,7 +6810,7 @@ window.SONG_DATA.push(
   "artist": "堂島孝平",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6818,7 +6818,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6826,7 +6826,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ(2)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6834,7 +6834,7 @@ window.SONG_DATA.push(
   "artist": "Heavenz",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6842,7 +6842,7 @@ window.SONG_DATA.push(
   "artist": "じん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6850,7 +6850,7 @@ window.SONG_DATA.push(
   "artist": "花譜",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6858,7 +6858,7 @@ window.SONG_DATA.push(
   "artist": "ナブナ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6866,7 +6866,7 @@ window.SONG_DATA.push(
   "artist": "一青窈",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6874,7 +6874,7 @@ window.SONG_DATA.push(
   "artist": "Heavenz",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6882,7 +6882,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6890,7 +6890,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6898,7 +6898,7 @@ window.SONG_DATA.push(
   "artist": "sasakure .UK",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6906,7 +6906,7 @@ window.SONG_DATA.push(
   "artist": "HY",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6914,7 +6914,7 @@ window.SONG_DATA.push(
   "artist": "ポリスピカデリー",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6922,7 +6922,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6930,7 +6930,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6938,7 +6938,7 @@ window.SONG_DATA.push(
   "artist": "ピコン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6946,7 +6946,7 @@ window.SONG_DATA.push(
   "artist": "阿部真央",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6954,7 +6954,7 @@ window.SONG_DATA.push(
   "artist": "鬼束ちひろ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6962,7 +6962,7 @@ window.SONG_DATA.push(
   "artist": "コレサワ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6970,7 +6970,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6978,7 +6978,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6986,7 +6986,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -6994,7 +6994,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7002,7 +7002,7 @@ window.SONG_DATA.push(
   "artist": "Figaro",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7010,7 +7010,7 @@ window.SONG_DATA.push(
   "artist": "back number",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7018,7 +7018,7 @@ window.SONG_DATA.push(
   "artist": "井上陽水",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7026,7 +7026,7 @@ window.SONG_DATA.push(
   "artist": "サカナクション",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7034,7 +7034,7 @@ window.SONG_DATA.push(
   "artist": "春野",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7042,7 +7042,7 @@ window.SONG_DATA.push(
   "artist": "音田雅則",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7050,7 +7050,7 @@ window.SONG_DATA.push(
   "artist": "YURiKA",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7058,7 +7058,7 @@ window.SONG_DATA.push(
   "artist": "back number(2)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7066,7 +7066,7 @@ window.SONG_DATA.push(
   "artist": "藤田麻衣子",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7074,7 +7074,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7082,7 +7082,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7090,7 +7090,7 @@ window.SONG_DATA.push(
   "artist": "ナブナ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7098,7 +7098,7 @@ window.SONG_DATA.push(
   "artist": "ふわりP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7106,7 +7106,7 @@ window.SONG_DATA.push(
   "artist": "tuki.",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7114,7 +7114,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7122,7 +7122,7 @@ window.SONG_DATA.push(
   "artist": "ナブナ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7130,7 +7130,7 @@ window.SONG_DATA.push(
   "artist": "いきものがかり",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7138,7 +7138,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師(2)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7146,7 +7146,7 @@ window.SONG_DATA.push(
   "artist": "ピノキオピー",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7154,7 +7154,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7162,7 +7162,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7170,7 +7170,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7178,7 +7178,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7186,7 +7186,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7194,7 +7194,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7202,7 +7202,7 @@ window.SONG_DATA.push(
   "artist": "Orangestar",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7210,7 +7210,7 @@ window.SONG_DATA.push(
   "artist": "Orangestar",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7218,7 +7218,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7226,7 +7226,7 @@ window.SONG_DATA.push(
   "artist": "Mrs. GREEN APPLE",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7234,7 +7234,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7242,7 +7242,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7250,7 +7250,7 @@ window.SONG_DATA.push(
   "artist": "SODAKIT",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7258,7 +7258,7 @@ window.SONG_DATA.push(
   "artist": "あいみょん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7266,7 +7266,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7274,7 +7274,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7282,7 +7282,7 @@ window.SONG_DATA.push(
   "artist": "椎名林檎",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7290,7 +7290,7 @@ window.SONG_DATA.push(
   "artist": "奧華子",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7298,7 +7298,7 @@ window.SONG_DATA.push(
   "artist": "ZONE",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7306,7 +7306,7 @@ window.SONG_DATA.push(
   "artist": "Luna",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7314,7 +7314,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7322,7 +7322,7 @@ window.SONG_DATA.push(
   "artist": "日食なつこ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7330,7 +7330,7 @@ window.SONG_DATA.push(
   "artist": "じん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7338,7 +7338,7 @@ window.SONG_DATA.push(
   "artist": "supercell",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7346,7 +7346,7 @@ window.SONG_DATA.push(
   "artist": "Mrs. GREEN APPLE",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=20",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7354,7 +7354,7 @@ window.SONG_DATA.push(
   "artist": "DAOKO × 米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=21",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7362,7 +7362,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=22",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7370,7 +7370,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7378,7 +7378,7 @@ window.SONG_DATA.push(
   "artist": "いきものがかり",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7386,7 +7386,7 @@ window.SONG_DATA.push(
   "artist": "Figaro",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7394,7 +7394,7 @@ window.SONG_DATA.push(
   "artist": "ヰ世界情緒",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7402,7 +7402,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7410,7 +7410,7 @@ window.SONG_DATA.push(
   "artist": "KOKIA(2)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7418,7 +7418,7 @@ window.SONG_DATA.push(
   "artist": "諫山実生",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7426,7 +7426,7 @@ window.SONG_DATA.push(
   "artist": "anNina",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7434,7 +7434,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7442,7 +7442,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7450,7 +7450,7 @@ window.SONG_DATA.push(
   "artist": "友成空",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7458,7 +7458,7 @@ window.SONG_DATA.push(
   "artist": "tuki.",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7466,7 +7466,7 @@ window.SONG_DATA.push(
   "artist": "じん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7474,7 +7474,7 @@ window.SONG_DATA.push(
   "artist": "じん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7482,7 +7482,7 @@ window.SONG_DATA.push(
   "artist": "ONE OK ROCK",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7490,7 +7490,7 @@ window.SONG_DATA.push(
   "artist": "Avril Lavigne",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7498,7 +7498,7 @@ window.SONG_DATA.push(
   "artist": "ジミーサムP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7506,7 +7506,7 @@ window.SONG_DATA.push(
   "artist": "フジファブリック",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7514,7 +7514,7 @@ window.SONG_DATA.push(
   "artist": "Heavenz",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7522,7 +7522,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7530,7 +7530,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7538,7 +7538,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7546,7 +7546,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7554,7 +7554,7 @@ window.SONG_DATA.push(
   "artist": "rionos",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7562,7 +7562,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7570,7 +7570,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7578,7 +7578,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7586,7 +7586,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7594,7 +7594,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7602,7 +7602,7 @@ window.SONG_DATA.push(
   "artist": "佐々木恵梨",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7610,7 +7610,7 @@ window.SONG_DATA.push(
   "artist": "サザンオールスターズ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7618,7 +7618,7 @@ window.SONG_DATA.push(
   "artist": "夏川りみ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7626,7 +7626,7 @@ window.SONG_DATA.push(
   "artist": "木村弓",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7634,7 +7634,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7642,7 +7642,7 @@ window.SONG_DATA.push(
   "artist": "the pillows",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7650,7 +7650,7 @@ window.SONG_DATA.push(
   "artist": "春野",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7658,7 +7658,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7666,7 +7666,7 @@ window.SONG_DATA.push(
   "artist": "鬼束ちひろ(2)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7674,7 +7674,7 @@ window.SONG_DATA.push(
   "artist": "Figaro",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7682,7 +7682,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7690,7 +7690,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7698,7 +7698,7 @@ window.SONG_DATA.push(
   "artist": "DISH",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7706,7 +7706,7 @@ window.SONG_DATA.push(
   "artist": "anNina",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7714,7 +7714,7 @@ window.SONG_DATA.push(
   "artist": "すこっぷ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7722,7 +7722,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7730,7 +7730,7 @@ window.SONG_DATA.push(
   "artist": "HY",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7738,7 +7738,7 @@ window.SONG_DATA.push(
   "artist": "牧野由依",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7746,7 +7746,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7754,7 +7754,7 @@ window.SONG_DATA.push(
   "artist": "酸欠少女さユり",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7762,7 +7762,7 @@ window.SONG_DATA.push(
   "artist": "Bank Band with Salyu(2)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7770,7 +7770,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7778,7 +7778,7 @@ window.SONG_DATA.push(
   "artist": "ナブナ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7786,7 +7786,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7794,7 +7794,7 @@ window.SONG_DATA.push(
   "artist": "相対性理論",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7802,7 +7802,7 @@ window.SONG_DATA.push(
   "artist": "相対性理論",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7810,7 +7810,7 @@ window.SONG_DATA.push(
   "artist": "相対性理論",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7818,7 +7818,7 @@ window.SONG_DATA.push(
   "artist": "相対性理論",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7826,7 +7826,7 @@ window.SONG_DATA.push(
   "artist": "相対性理論",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7834,7 +7834,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7842,7 +7842,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7850,7 +7850,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7858,7 +7858,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7866,7 +7866,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7874,7 +7874,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7882,7 +7882,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7890,7 +7890,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7898,7 +7898,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7906,7 +7906,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7914,7 +7914,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7922,7 +7922,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7930,7 +7930,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7938,7 +7938,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7946,7 +7946,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7954,7 +7954,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7962,7 +7962,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7970,7 +7970,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7978,7 +7978,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7986,7 +7986,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=20",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -7994,7 +7994,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=21",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8002,7 +8002,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=22",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8010,7 +8010,7 @@ window.SONG_DATA.push(
   "artist": "やくしまるえつこ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8018,7 +8018,7 @@ window.SONG_DATA.push(
   "artist": "DATEKEN",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8026,7 +8026,7 @@ window.SONG_DATA.push(
   "artist": "DECO27",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8034,7 +8034,7 @@ window.SONG_DATA.push(
   "artist": "ナブナ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8042,7 +8042,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8050,7 +8050,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8058,7 +8058,7 @@ window.SONG_DATA.push(
   "artist": "バルーン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8066,7 +8066,7 @@ window.SONG_DATA.push(
   "artist": "想太",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8074,7 +8074,7 @@ window.SONG_DATA.push(
   "artist": "ぬゆり",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8082,7 +8082,7 @@ window.SONG_DATA.push(
   "artist": "ぬゆり",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8090,7 +8090,7 @@ window.SONG_DATA.push(
   "artist": "バルーン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8098,7 +8098,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8106,7 +8106,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8114,7 +8114,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8122,7 +8122,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8130,7 +8130,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8138,7 +8138,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8146,7 +8146,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8154,7 +8154,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8162,7 +8162,7 @@ window.SONG_DATA.push(
   "artist": "ポルカドットスティングレイ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=20",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8170,7 +8170,7 @@ window.SONG_DATA.push(
   "artist": "ポルカドットスティングレイ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=21",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8178,7 +8178,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=22",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8186,7 +8186,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=23",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8194,7 +8194,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8202,7 +8202,7 @@ window.SONG_DATA.push(
   "artist": "Tani Yuuki",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8210,7 +8210,7 @@ window.SONG_DATA.push(
   "artist": "supercell",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8218,7 +8218,7 @@ window.SONG_DATA.push(
   "artist": "back number",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8226,7 +8226,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8234,7 +8234,7 @@ window.SONG_DATA.push(
   "artist": "ジミーサムP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8242,7 +8242,7 @@ window.SONG_DATA.push(
   "artist": "安藤裕子",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8250,7 +8250,7 @@ window.SONG_DATA.push(
   "artist": "ナノウ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8258,7 +8258,7 @@ window.SONG_DATA.push(
   "artist": "Angela Aki",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8266,7 +8266,7 @@ window.SONG_DATA.push(
   "artist": "Angela Aki",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8274,7 +8274,7 @@ window.SONG_DATA.push(
   "artist": "tuki.(2)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8282,7 +8282,7 @@ window.SONG_DATA.push(
   "artist": "あいみょん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8290,7 +8290,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8298,7 +8298,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8306,7 +8306,7 @@ window.SONG_DATA.push(
   "artist": "春野",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8314,7 +8314,7 @@ window.SONG_DATA.push(
   "artist": "春野",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8322,7 +8322,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8330,7 +8330,7 @@ window.SONG_DATA.push(
   "artist": "鬼束ちひろ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8338,7 +8338,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8346,7 +8346,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=20",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8410,7 +8410,7 @@ window.SONG_DATA.push(
   "artist": "コレサワ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8418,7 +8418,7 @@ window.SONG_DATA.push(
   "artist": "コレサワ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8426,7 +8426,7 @@ window.SONG_DATA.push(
   "artist": "春野",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8434,7 +8434,7 @@ window.SONG_DATA.push(
   "artist": "春野",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8442,7 +8442,7 @@ window.SONG_DATA.push(
   "artist": "におP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8450,7 +8450,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8458,7 +8458,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8466,7 +8466,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8474,7 +8474,7 @@ window.SONG_DATA.push(
   "artist": "keeno",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8482,7 +8482,7 @@ window.SONG_DATA.push(
   "artist": "藍色にしもん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8490,7 +8490,7 @@ window.SONG_DATA.push(
   "artist": "傘村トータ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8498,7 +8498,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8506,7 +8506,7 @@ window.SONG_DATA.push(
   "artist": "相対性理論",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8514,7 +8514,7 @@ window.SONG_DATA.push(
   "artist": "ヰ世界情緒",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8522,7 +8522,7 @@ window.SONG_DATA.push(
   "artist": "DISH",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8530,7 +8530,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉(2)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8538,7 +8538,7 @@ window.SONG_DATA.push(
   "artist": "buzzG",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8546,7 +8546,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8554,7 +8554,7 @@ window.SONG_DATA.push(
   "artist": "和ぬか(2)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8562,7 +8562,7 @@ window.SONG_DATA.push(
   "artist": "くじら",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8570,7 +8570,7 @@ window.SONG_DATA.push(
   "artist": "香椎モイミ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8578,7 +8578,7 @@ window.SONG_DATA.push(
   "artist": "とあ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8586,7 +8586,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8594,7 +8594,7 @@ window.SONG_DATA.push(
   "artist": "福山雅治",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8602,7 +8602,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8610,7 +8610,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8618,7 +8618,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8626,7 +8626,7 @@ window.SONG_DATA.push(
   "artist": "YURiKA",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8634,7 +8634,7 @@ window.SONG_DATA.push(
   "artist": "有形ランペイジ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8642,7 +8642,7 @@ window.SONG_DATA.push(
   "artist": "なきゃむりゃ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8650,7 +8650,7 @@ window.SONG_DATA.push(
   "artist": "millstones(2)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8658,7 +8658,7 @@ window.SONG_DATA.push(
   "artist": "yukkedoluce",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8666,7 +8666,7 @@ window.SONG_DATA.push(
   "artist": "伊東歌詞太郎",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8674,7 +8674,7 @@ window.SONG_DATA.push(
   "artist": "Orangestar",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8682,7 +8682,7 @@ window.SONG_DATA.push(
   "artist": "やいり",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8690,7 +8690,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8698,7 +8698,7 @@ window.SONG_DATA.push(
   "artist": "澤田空海理",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=20",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8706,7 +8706,7 @@ window.SONG_DATA.push(
   "artist": "澤田空海理",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=21",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8714,7 +8714,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=22",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8858,7 +8858,7 @@ window.SONG_DATA.push(
   "artist": "SODAKIT",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8866,7 +8866,7 @@ window.SONG_DATA.push(
   "artist": "日食なつこ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8874,7 +8874,7 @@ window.SONG_DATA.push(
   "artist": "友成空",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8882,7 +8882,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8890,7 +8890,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8898,7 +8898,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8906,7 +8906,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8914,7 +8914,7 @@ window.SONG_DATA.push(
   "artist": "ポルカドットスティングレイ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8922,7 +8922,7 @@ window.SONG_DATA.push(
   "artist": "緑黄色社会",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8930,7 +8930,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8938,7 +8938,7 @@ window.SONG_DATA.push(
   "artist": "Uru",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8946,7 +8946,7 @@ window.SONG_DATA.push(
   "artist": "millennium parade & Belle",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8954,7 +8954,7 @@ window.SONG_DATA.push(
   "artist": "Belle",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8962,7 +8962,7 @@ window.SONG_DATA.push(
   "artist": "ササノマリイ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8970,7 +8970,7 @@ window.SONG_DATA.push(
   "artist": "ツミキ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8978,7 +8978,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8986,7 +8986,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -8994,7 +8994,7 @@ window.SONG_DATA.push(
   "artist": "音田雅則",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9002,7 +9002,7 @@ window.SONG_DATA.push(
   "artist": "なとり",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9010,7 +9010,7 @@ window.SONG_DATA.push(
   "artist": "Ayase",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=20",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9018,7 +9018,7 @@ window.SONG_DATA.push(
   "artist": "Ayase",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=21",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9026,7 +9026,7 @@ window.SONG_DATA.push(
   "artist": "菅田将暉",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=22",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9034,7 +9034,7 @@ window.SONG_DATA.push(
   "artist": "なるみや",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=23",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9042,7 +9042,7 @@ window.SONG_DATA.push(
   "artist": "相対性理論",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=24",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9322,7 +9322,7 @@ window.SONG_DATA.push(
   "artist": "優里",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9330,7 +9330,7 @@ window.SONG_DATA.push(
   "artist": "バルーン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9338,7 +9338,7 @@ window.SONG_DATA.push(
   "artist": "back number",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9346,7 +9346,7 @@ window.SONG_DATA.push(
   "artist": "back number",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9354,7 +9354,7 @@ window.SONG_DATA.push(
   "artist": "バルーン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9362,7 +9362,7 @@ window.SONG_DATA.push(
   "artist": "DECO27",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9370,7 +9370,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9378,7 +9378,7 @@ window.SONG_DATA.push(
   "artist": "古川本舗",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9386,7 +9386,7 @@ window.SONG_DATA.push(
   "artist": "Heavenz",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9394,7 +9394,7 @@ window.SONG_DATA.push(
   "artist": "日食なつこ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9402,7 +9402,7 @@ window.SONG_DATA.push(
   "artist": "やくしまるえつこ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9410,7 +9410,7 @@ window.SONG_DATA.push(
   "artist": "相対性理論",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9418,7 +9418,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9426,7 +9426,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9434,7 +9434,7 @@ window.SONG_DATA.push(
   "artist": "柴咲コウ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9442,7 +9442,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9450,7 +9450,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9458,7 +9458,7 @@ window.SONG_DATA.push(
   "artist": "KOH+",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9466,7 +9466,7 @@ window.SONG_DATA.push(
   "artist": "傘村トータ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9474,7 +9474,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=20",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9482,7 +9482,7 @@ window.SONG_DATA.push(
   "artist": "Ringo Sheena",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9490,7 +9490,7 @@ window.SONG_DATA.push(
   "artist": "ZUTOMAYO",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9498,7 +9498,7 @@ window.SONG_DATA.push(
   "artist": "Yorushika",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9506,7 +9506,7 @@ window.SONG_DATA.push(
   "artist": "Rie Takahash",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9514,7 +9514,7 @@ window.SONG_DATA.push(
   "artist": "Sakanaction",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9522,7 +9522,7 @@ window.SONG_DATA.push(
   "artist": "sakanaction",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9530,7 +9530,7 @@ window.SONG_DATA.push(
   "artist": "sakanaction",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9538,7 +9538,7 @@ window.SONG_DATA.push(
   "artist": "Mafumafu",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9546,7 +9546,7 @@ window.SONG_DATA.push(
   "artist": "Ayase",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9554,7 +9554,7 @@ window.SONG_DATA.push(
   "artist": "Ayase",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9562,7 +9562,7 @@ window.SONG_DATA.push(
   "artist": "Police Piccadilly",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9570,7 +9570,7 @@ window.SONG_DATA.push(
   "artist": "niki",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9578,7 +9578,7 @@ window.SONG_DATA.push(
   "artist": "DATEKEN",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9586,7 +9586,7 @@ window.SONG_DATA.push(
   "artist": "Picon",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9594,7 +9594,7 @@ window.SONG_DATA.push(
   "artist": "Tsumiki",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9602,7 +9602,7 @@ window.SONG_DATA.push(
   "artist": "Kenshi Yonezu",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9610,7 +9610,7 @@ window.SONG_DATA.push(
   "artist": "Kenshi Yonezu",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9618,7 +9618,7 @@ window.SONG_DATA.push(
   "artist": "Hiiragi Magnetite",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9626,7 +9626,7 @@ window.SONG_DATA.push(
   "artist": "Harumaki Gohan",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9914,7 +9914,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9922,7 +9922,7 @@ window.SONG_DATA.push(
   "artist": "あいみょん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9930,7 +9930,7 @@ window.SONG_DATA.push(
   "artist": "supercell",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9938,7 +9938,7 @@ window.SONG_DATA.push(
   "artist": "ナノウ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9946,7 +9946,7 @@ window.SONG_DATA.push(
   "artist": "sasakure .UK",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9954,7 +9954,7 @@ window.SONG_DATA.push(
   "artist": "木村弓",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9962,7 +9962,7 @@ window.SONG_DATA.push(
   "artist": "木村弓",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9970,7 +9970,7 @@ window.SONG_DATA.push(
   "artist": "大塚愛",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9978,7 +9978,7 @@ window.SONG_DATA.push(
   "artist": "春野",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9986,7 +9986,7 @@ window.SONG_DATA.push(
   "artist": "春野",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -9994,7 +9994,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10002,7 +10002,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10010,7 +10010,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10018,7 +10018,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10026,7 +10026,7 @@ window.SONG_DATA.push(
   "artist": "電ポルP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10034,7 +10034,7 @@ window.SONG_DATA.push(
   "artist": "back number",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10042,7 +10042,7 @@ window.SONG_DATA.push(
   "artist": "七尾旅人",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10050,7 +10050,7 @@ window.SONG_DATA.push(
   "artist": "Orangestar",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10058,7 +10058,7 @@ window.SONG_DATA.push(
   "artist": "コレサワ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10066,7 +10066,7 @@ window.SONG_DATA.push(
   "artist": "優里",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=20",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10154,7 +10154,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10162,7 +10162,7 @@ window.SONG_DATA.push(
   "artist": "ONE OK ROCK",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10170,7 +10170,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10178,7 +10178,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10186,7 +10186,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10194,7 +10194,7 @@ window.SONG_DATA.push(
   "artist": "優里",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10202,7 +10202,7 @@ window.SONG_DATA.push(
   "artist": "メル",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10210,7 +10210,7 @@ window.SONG_DATA.push(
   "artist": "おおはた雄一",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10218,7 +10218,7 @@ window.SONG_DATA.push(
   "artist": "電ポルP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10226,7 +10226,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10234,7 +10234,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10242,7 +10242,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10250,7 +10250,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10258,7 +10258,7 @@ window.SONG_DATA.push(
   "artist": "フジファブリック",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10266,7 +10266,7 @@ window.SONG_DATA.push(
   "artist": "クリープハイプ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10274,7 +10274,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10282,7 +10282,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10290,7 +10290,7 @@ window.SONG_DATA.push(
   "artist": "大柴広己",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10298,7 +10298,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10306,7 +10306,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10314,7 +10314,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10322,7 +10322,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10330,7 +10330,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10338,7 +10338,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10346,7 +10346,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10354,7 +10354,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10362,7 +10362,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10370,7 +10370,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ × はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10378,7 +10378,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10386,7 +10386,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10394,7 +10394,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10402,7 +10402,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10410,7 +10410,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10418,7 +10418,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10538,7 +10538,7 @@ window.SONG_DATA.push(
   "artist": "バルーン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10546,7 +10546,7 @@ window.SONG_DATA.push(
   "artist": "DATEKEN",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10554,7 +10554,7 @@ window.SONG_DATA.push(
   "artist": "ぬゆり",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10562,7 +10562,7 @@ window.SONG_DATA.push(
   "artist": "R Sound Design",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10570,7 +10570,7 @@ window.SONG_DATA.push(
   "artist": "R Sound Design",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10578,7 +10578,7 @@ window.SONG_DATA.push(
   "artist": "yamada",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10586,7 +10586,7 @@ window.SONG_DATA.push(
   "artist": "西沢さんP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10594,7 +10594,7 @@ window.SONG_DATA.push(
   "artist": "吉田夜世",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10602,7 +10602,7 @@ window.SONG_DATA.push(
   "artist": "ろくろ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10610,7 +10610,7 @@ window.SONG_DATA.push(
   "artist": "DECO27",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10618,7 +10618,7 @@ window.SONG_DATA.push(
   "artist": "柊マグネタイト",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10626,7 +10626,7 @@ window.SONG_DATA.push(
   "artist": "millstones",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10634,7 +10634,7 @@ window.SONG_DATA.push(
   "artist": "DATEKEN",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10642,7 +10642,7 @@ window.SONG_DATA.push(
   "artist": "ジミーサムP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10650,7 +10650,7 @@ window.SONG_DATA.push(
   "artist": "ポリスピカデリー",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10658,7 +10658,7 @@ window.SONG_DATA.push(
   "artist": "ピコン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10666,7 +10666,7 @@ window.SONG_DATA.push(
   "artist": "ピコン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10674,7 +10674,7 @@ window.SONG_DATA.push(
   "artist": "Neru & z'5",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10682,7 +10682,7 @@ window.SONG_DATA.push(
   "artist": "wotaku",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10690,7 +10690,7 @@ window.SONG_DATA.push(
   "artist": "niki",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=20",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10698,7 +10698,7 @@ window.SONG_DATA.push(
   "artist": "バルーン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=21",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10706,7 +10706,7 @@ window.SONG_DATA.push(
   "artist": "Heavenz",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=22",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10714,7 +10714,7 @@ window.SONG_DATA.push(
   "artist": "はりーP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=23",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10722,7 +10722,7 @@ window.SONG_DATA.push(
   "artist": "じん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=24",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10730,7 +10730,7 @@ window.SONG_DATA.push(
   "artist": "Ayase",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=25",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10738,7 +10738,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10746,7 +10746,7 @@ window.SONG_DATA.push(
   "artist": "あいみょん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10754,7 +10754,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10762,7 +10762,7 @@ window.SONG_DATA.push(
   "artist": "anNina",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10770,7 +10770,7 @@ window.SONG_DATA.push(
   "artist": "HACHI",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10778,7 +10778,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10786,7 +10786,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -10794,7 +10794,7 @@ window.SONG_DATA.push(
   "artist": "Figaro",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11162,7 +11162,7 @@ window.SONG_DATA.push(
   "artist": "桑田佳祐",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11170,7 +11170,7 @@ window.SONG_DATA.push(
   "artist": "Mariah Carey",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11178,7 +11178,7 @@ window.SONG_DATA.push(
   "artist": "山下達郎",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11186,7 +11186,7 @@ window.SONG_DATA.push(
   "artist": "back number",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11194,7 +11194,7 @@ window.SONG_DATA.push(
   "artist": "広瀬香美",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11202,7 +11202,7 @@ window.SONG_DATA.push(
   "artist": "BoA",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11210,7 +11210,7 @@ window.SONG_DATA.push(
   "artist": "40メートルP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11218,7 +11218,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11226,7 +11226,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11234,7 +11234,7 @@ window.SONG_DATA.push(
   "artist": "レミオロメン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11242,7 +11242,7 @@ window.SONG_DATA.push(
   "artist": "HY",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11250,7 +11250,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11258,7 +11258,7 @@ window.SONG_DATA.push(
   "artist": "蝶々P",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11266,7 +11266,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11274,7 +11274,7 @@ window.SONG_DATA.push(
   "artist": "佐々木恵梨",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11282,7 +11282,7 @@ window.SONG_DATA.push(
   "artist": "クリープハイプ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11290,7 +11290,7 @@ window.SONG_DATA.push(
   "artist": "石川さゆり",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11298,7 +11298,7 @@ window.SONG_DATA.push(
   "artist": "あいみょん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11306,7 +11306,7 @@ window.SONG_DATA.push(
   "artist": "あいみょん(2)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11314,7 +11314,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11322,7 +11322,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11330,7 +11330,7 @@ window.SONG_DATA.push(
   "artist": "KOKIA",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11338,7 +11338,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11346,7 +11346,7 @@ window.SONG_DATA.push(
   "artist": "ヰ世界情緒",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11354,7 +11354,7 @@ window.SONG_DATA.push(
   "artist": "DAOKO × 米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11362,7 +11362,7 @@ window.SONG_DATA.push(
   "artist": "清竜人",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11370,7 +11370,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11378,7 +11378,7 @@ window.SONG_DATA.push(
   "artist": "ジミーサムP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11386,7 +11386,7 @@ window.SONG_DATA.push(
   "artist": "鬼束ちひろ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11394,7 +11394,7 @@ window.SONG_DATA.push(
   "artist": "藍色にしもん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11402,7 +11402,7 @@ window.SONG_DATA.push(
   "artist": "春野",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11410,7 +11410,7 @@ window.SONG_DATA.push(
   "artist": "back number",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11418,7 +11418,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11426,7 +11426,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11434,7 +11434,7 @@ window.SONG_DATA.push(
   "artist": "buzzG",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11442,7 +11442,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11450,7 +11450,7 @@ window.SONG_DATA.push(
   "artist": "いきものがかり",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11458,7 +11458,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11466,7 +11466,7 @@ window.SONG_DATA.push(
   "artist": "yama",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11474,7 +11474,7 @@ window.SONG_DATA.push(
   "artist": "ナブナ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11482,7 +11482,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11490,7 +11490,7 @@ window.SONG_DATA.push(
   "artist": "AKASAKI",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11498,7 +11498,7 @@ window.SONG_DATA.push(
   "artist": "友成空",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11506,7 +11506,7 @@ window.SONG_DATA.push(
   "artist": "友成空",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11514,7 +11514,7 @@ window.SONG_DATA.push(
   "artist": "日食なつこ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11522,7 +11522,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11530,7 +11530,7 @@ window.SONG_DATA.push(
   "artist": "空白ごっこ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11538,7 +11538,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11546,7 +11546,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11554,7 +11554,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11562,7 +11562,7 @@ window.SONG_DATA.push(
   "artist": "こっちのけんと",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11570,7 +11570,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11578,7 +11578,7 @@ window.SONG_DATA.push(
   "artist": "GEMN",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11586,7 +11586,7 @@ window.SONG_DATA.push(
   "artist": "桑田佳祐",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11594,7 +11594,7 @@ window.SONG_DATA.push(
   "artist": "黒うさP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=20",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11602,7 +11602,7 @@ window.SONG_DATA.push(
   "artist": "松任谷由実",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=21",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11610,7 +11610,7 @@ window.SONG_DATA.push(
   "artist": "古川本舗",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11618,7 +11618,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11626,7 +11626,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11634,7 +11634,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11642,7 +11642,7 @@ window.SONG_DATA.push(
   "artist": "DISH",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11650,7 +11650,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11658,7 +11658,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11666,7 +11666,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11674,7 +11674,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11682,7 +11682,7 @@ window.SONG_DATA.push(
   "artist": "安藤裕子",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11690,7 +11690,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11698,7 +11698,7 @@ window.SONG_DATA.push(
   "artist": "anNina",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11706,7 +11706,7 @@ window.SONG_DATA.push(
   "artist": "DECO27",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11714,7 +11714,7 @@ window.SONG_DATA.push(
   "artist": "七尾旅人",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11722,7 +11722,7 @@ window.SONG_DATA.push(
   "artist": "大原櫻子",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11730,7 +11730,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11738,7 +11738,7 @@ window.SONG_DATA.push(
   "artist": "tuki",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11746,7 +11746,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11754,7 +11754,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11762,7 +11762,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11770,7 +11770,7 @@ window.SONG_DATA.push(
   "artist": "東京事変",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11778,7 +11778,7 @@ window.SONG_DATA.push(
   "artist": "はりーP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11786,7 +11786,7 @@ window.SONG_DATA.push(
   "artist": "SMAP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11794,7 +11794,7 @@ window.SONG_DATA.push(
   "artist": "緑黄色社会",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11802,7 +11802,7 @@ window.SONG_DATA.push(
   "artist": "40メートルP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11810,7 +11810,7 @@ window.SONG_DATA.push(
   "artist": "いきものがかり",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11818,7 +11818,7 @@ window.SONG_DATA.push(
   "artist": "フジファブリック",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11826,7 +11826,7 @@ window.SONG_DATA.push(
   "artist": "millennium parade & Belle",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11834,7 +11834,7 @@ window.SONG_DATA.push(
   "artist": "音田雅則",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11842,7 +11842,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11850,7 +11850,7 @@ window.SONG_DATA.push(
   "artist": "あいみょん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11858,7 +11858,7 @@ window.SONG_DATA.push(
   "artist": "バルーン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11866,7 +11866,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11874,7 +11874,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11882,7 +11882,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11890,7 +11890,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11898,7 +11898,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11906,7 +11906,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11914,7 +11914,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11922,7 +11922,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11930,7 +11930,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11938,7 +11938,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11946,7 +11946,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11954,7 +11954,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11962,7 +11962,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11970,7 +11970,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11978,7 +11978,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11986,7 +11986,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -11994,7 +11994,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12002,7 +12002,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12010,7 +12010,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12018,7 +12018,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12026,7 +12026,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=20",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12034,7 +12034,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12042,7 +12042,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12050,7 +12050,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12058,7 +12058,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12066,7 +12066,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12074,7 +12074,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12082,7 +12082,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12090,7 +12090,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12098,7 +12098,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12106,7 +12106,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12114,7 +12114,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12122,7 +12122,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12130,7 +12130,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12138,7 +12138,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12146,7 +12146,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12154,7 +12154,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12162,7 +12162,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12170,7 +12170,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12178,7 +12178,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12186,7 +12186,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12194,7 +12194,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12202,7 +12202,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12210,7 +12210,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12218,7 +12218,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12226,7 +12226,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12234,7 +12234,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12242,7 +12242,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12250,7 +12250,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12258,7 +12258,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12266,7 +12266,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12274,7 +12274,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12282,7 +12282,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12290,7 +12290,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12298,7 +12298,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12306,7 +12306,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12314,7 +12314,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12322,7 +12322,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=20",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12330,7 +12330,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12338,7 +12338,7 @@ window.SONG_DATA.push(
   "artist": "未来古代楽団",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12346,7 +12346,7 @@ window.SONG_DATA.push(
   "artist": "KOKIA",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12354,7 +12354,7 @@ window.SONG_DATA.push(
   "artist": "大塚愛",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12362,7 +12362,7 @@ window.SONG_DATA.push(
   "artist": "the pillows",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12370,7 +12370,7 @@ window.SONG_DATA.push(
   "artist": "the pillows",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12378,7 +12378,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12386,7 +12386,7 @@ window.SONG_DATA.push(
   "artist": "藤井風",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12394,7 +12394,7 @@ window.SONG_DATA.push(
   "artist": "ヰ世界情緒",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12402,7 +12402,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12410,7 +12410,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12418,7 +12418,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12426,7 +12426,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12434,7 +12434,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12442,7 +12442,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12450,7 +12450,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12458,7 +12458,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12466,7 +12466,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12474,7 +12474,7 @@ window.SONG_DATA.push(
   "artist": "藤井風",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12482,7 +12482,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12490,7 +12490,7 @@ window.SONG_DATA.push(
   "artist": "Heavenz",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12498,7 +12498,7 @@ window.SONG_DATA.push(
   "artist": "tuki.",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12506,7 +12506,7 @@ window.SONG_DATA.push(
   "artist": "クリープハイプ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12514,7 +12514,7 @@ window.SONG_DATA.push(
   "artist": "buzzG",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12522,7 +12522,7 @@ window.SONG_DATA.push(
   "artist": "rionos",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12530,7 +12530,7 @@ window.SONG_DATA.push(
   "artist": "蝶々P",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12538,7 +12538,7 @@ window.SONG_DATA.push(
   "artist": "じん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12546,7 +12546,7 @@ window.SONG_DATA.push(
   "artist": "チャットモンチー",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12554,7 +12554,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12562,7 +12562,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12570,7 +12570,7 @@ window.SONG_DATA.push(
   "artist": "sleep warp",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12578,7 +12578,7 @@ window.SONG_DATA.push(
   "artist": "藍色にしもん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12586,7 +12586,7 @@ window.SONG_DATA.push(
   "artist": "GYARI",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12594,7 +12594,7 @@ window.SONG_DATA.push(
   "artist": "Uru",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12602,7 +12602,7 @@ window.SONG_DATA.push(
   "artist": "Kanaria",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12610,7 +12610,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12618,7 +12618,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12626,7 +12626,7 @@ window.SONG_DATA.push(
   "artist": "坂本真綾",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12634,7 +12634,7 @@ window.SONG_DATA.push(
   "artist": "μ's",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12642,7 +12642,7 @@ window.SONG_DATA.push(
   "artist": "ヒグチアイ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12650,7 +12650,7 @@ window.SONG_DATA.push(
   "artist": "ポルノグラフィティ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12658,7 +12658,7 @@ window.SONG_DATA.push(
   "artist": "DECO27",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12666,7 +12666,7 @@ window.SONG_DATA.push(
   "artist": "フジファブリック",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12674,7 +12674,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12682,7 +12682,7 @@ window.SONG_DATA.push(
   "artist": "優里",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12690,7 +12690,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12698,7 +12698,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12706,7 +12706,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12714,7 +12714,7 @@ window.SONG_DATA.push(
   "artist": "back number",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12722,7 +12722,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12730,7 +12730,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12738,7 +12738,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12746,7 +12746,7 @@ window.SONG_DATA.push(
   "artist": "鬼束ちひろ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12754,7 +12754,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12762,7 +12762,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12770,7 +12770,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12778,7 +12778,7 @@ window.SONG_DATA.push(
   "artist": "におP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12786,7 +12786,7 @@ window.SONG_DATA.push(
   "artist": "sasakure .UK",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12794,7 +12794,7 @@ window.SONG_DATA.push(
   "artist": "Heavenz",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12802,7 +12802,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12810,7 +12810,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12818,7 +12818,7 @@ window.SONG_DATA.push(
   "artist": "一青窈",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12826,7 +12826,7 @@ window.SONG_DATA.push(
   "artist": "大柴広己",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12834,7 +12834,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12842,7 +12842,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12850,7 +12850,7 @@ window.SONG_DATA.push(
   "artist": "中島愛",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12858,7 +12858,7 @@ window.SONG_DATA.push(
   "artist": "HoneyWorks",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12866,7 +12866,7 @@ window.SONG_DATA.push(
   "artist": "Junky",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12874,7 +12874,7 @@ window.SONG_DATA.push(
   "artist": "いよわ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12882,7 +12882,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12890,7 +12890,7 @@ window.SONG_DATA.push(
   "artist": "かいりきベア",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12898,7 +12898,7 @@ window.SONG_DATA.push(
   "artist": "ポリスピカデリー",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12906,7 +12906,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12914,7 +12914,7 @@ window.SONG_DATA.push(
   "artist": "なるみや",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12922,7 +12922,7 @@ window.SONG_DATA.push(
   "artist": "バルーン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12930,7 +12930,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12938,7 +12938,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12946,7 +12946,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12954,7 +12954,7 @@ window.SONG_DATA.push(
   "artist": "バルーン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12962,7 +12962,7 @@ window.SONG_DATA.push(
   "artist": "鬼束ちひろ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12970,7 +12970,7 @@ window.SONG_DATA.push(
   "artist": "諫山実生",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12978,7 +12978,7 @@ window.SONG_DATA.push(
   "artist": "古川本舗",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12986,7 +12986,7 @@ window.SONG_DATA.push(
   "artist": "佐々木恵梨",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -12994,7 +12994,7 @@ window.SONG_DATA.push(
   "artist": "Tani Yuuki",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13002,7 +13002,7 @@ window.SONG_DATA.push(
   "artist": "ナブナ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13010,7 +13010,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13018,7 +13018,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13026,7 +13026,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13034,7 +13034,7 @@ window.SONG_DATA.push(
   "artist": "春野",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13042,7 +13042,7 @@ window.SONG_DATA.push(
   "artist": "牧野由依",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13050,7 +13050,7 @@ window.SONG_DATA.push(
   "artist": "anNina",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13058,7 +13058,7 @@ window.SONG_DATA.push(
   "artist": "七尾旅人(2)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13066,7 +13066,7 @@ window.SONG_DATA.push(
   "artist": "DATEKEN",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13074,7 +13074,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13082,7 +13082,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13090,7 +13090,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13098,7 +13098,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13106,7 +13106,7 @@ window.SONG_DATA.push(
   "artist": "Orangestar",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13114,7 +13114,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13122,7 +13122,7 @@ window.SONG_DATA.push(
   "artist": "ジミーサムP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13130,7 +13130,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13138,7 +13138,7 @@ window.SONG_DATA.push(
   "artist": "桑田佳祐",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13146,7 +13146,7 @@ window.SONG_DATA.push(
   "artist": "サザンオールスターズ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13154,7 +13154,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13162,7 +13162,7 @@ window.SONG_DATA.push(
   "artist": "ヰ世界情緒",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13170,7 +13170,7 @@ window.SONG_DATA.push(
   "artist": "aiko",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13178,7 +13178,7 @@ window.SONG_DATA.push(
   "artist": "きゃりーぱみゅぱみゅ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13186,7 +13186,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13194,7 +13194,7 @@ window.SONG_DATA.push(
   "artist": "ツミキ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13202,7 +13202,7 @@ window.SONG_DATA.push(
   "artist": "SODAKIT",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13210,7 +13210,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13218,7 +13218,7 @@ window.SONG_DATA.push(
   "artist": "サカナクション",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13226,7 +13226,7 @@ window.SONG_DATA.push(
   "artist": "DECO27",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13234,7 +13234,7 @@ window.SONG_DATA.push(
   "artist": "ピコン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13242,7 +13242,7 @@ window.SONG_DATA.push(
   "artist": "YURiKA",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13250,7 +13250,7 @@ window.SONG_DATA.push(
   "artist": "ポルカドットスティングレイ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13258,7 +13258,7 @@ window.SONG_DATA.push(
   "artist": "DATEKEN",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13266,7 +13266,7 @@ window.SONG_DATA.push(
   "artist": "奏音69",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13274,7 +13274,7 @@ window.SONG_DATA.push(
   "artist": "OSTER project",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13282,7 +13282,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13290,7 +13290,7 @@ window.SONG_DATA.push(
   "artist": "μ's",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13298,7 +13298,7 @@ window.SONG_DATA.push(
   "artist": "坂本真綾",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13306,7 +13306,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13314,7 +13314,7 @@ window.SONG_DATA.push(
   "artist": "クリープハイプ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13322,7 +13322,7 @@ window.SONG_DATA.push(
   "artist": "Neru & z'5",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13330,7 +13330,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13338,7 +13338,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13346,7 +13346,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13354,7 +13354,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13362,7 +13362,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13370,7 +13370,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13378,7 +13378,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13386,7 +13386,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13394,7 +13394,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13402,7 +13402,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13410,7 +13410,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13418,7 +13418,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13426,7 +13426,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13434,7 +13434,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13442,7 +13442,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13450,7 +13450,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13458,7 +13458,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13466,7 +13466,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13474,7 +13474,7 @@ window.SONG_DATA.push(
   "artist": "鬼束ちひろ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13482,7 +13482,7 @@ window.SONG_DATA.push(
   "artist": "鬼束ちひろ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13490,7 +13490,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13498,7 +13498,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13506,7 +13506,7 @@ window.SONG_DATA.push(
   "artist": "はりーP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13514,7 +13514,7 @@ window.SONG_DATA.push(
   "artist": "LiSA",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13522,7 +13522,7 @@ window.SONG_DATA.push(
   "artist": "藍色にしもん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13530,7 +13530,7 @@ window.SONG_DATA.push(
   "artist": "春野",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13538,7 +13538,7 @@ window.SONG_DATA.push(
   "artist": "春野",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13546,7 +13546,7 @@ window.SONG_DATA.push(
   "artist": "春野",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13554,7 +13554,7 @@ window.SONG_DATA.push(
   "artist": "春野",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13562,7 +13562,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13570,7 +13570,7 @@ window.SONG_DATA.push(
   "artist": "電ポルP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13578,7 +13578,7 @@ window.SONG_DATA.push(
   "artist": "あいみょん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13586,7 +13586,7 @@ window.SONG_DATA.push(
   "artist": "森山直太朗",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13594,7 +13594,7 @@ window.SONG_DATA.push(
   "artist": "レミオロメン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13602,7 +13602,7 @@ window.SONG_DATA.push(
   "artist": "大塚愛",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13762,7 +13762,7 @@ window.SONG_DATA.push(
   "artist": "Sakanaction",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13770,7 +13770,7 @@ window.SONG_DATA.push(
   "artist": "日食なつこ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13778,7 +13778,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13786,7 +13786,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -13794,7 +13794,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14338,7 +14338,7 @@ window.SONG_DATA.push(
   "artist": "浜崎あゆみ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14346,7 +14346,7 @@ window.SONG_DATA.push(
   "artist": "大塚愛",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14354,7 +14354,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14362,7 +14362,7 @@ window.SONG_DATA.push(
   "artist": "嵐",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14370,7 +14370,7 @@ window.SONG_DATA.push(
   "artist": "SMAP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14378,7 +14378,7 @@ window.SONG_DATA.push(
   "artist": "大塚愛",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14386,7 +14386,7 @@ window.SONG_DATA.push(
   "artist": "柴咲コウ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14394,7 +14394,7 @@ window.SONG_DATA.push(
   "artist": "鬼束ちひろ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14402,7 +14402,7 @@ window.SONG_DATA.push(
   "artist": "GReeeeN",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14410,7 +14410,7 @@ window.SONG_DATA.push(
   "artist": "MONGOL800",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14418,7 +14418,7 @@ window.SONG_DATA.push(
   "artist": "I WiSH",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14426,7 +14426,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14434,7 +14434,7 @@ window.SONG_DATA.push(
   "artist": "東京事変",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14442,7 +14442,7 @@ window.SONG_DATA.push(
   "artist": "モーニング娘",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14450,7 +14450,7 @@ window.SONG_DATA.push(
   "artist": "いきものがかり",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14458,7 +14458,7 @@ window.SONG_DATA.push(
   "artist": "氣志團",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14466,7 +14466,7 @@ window.SONG_DATA.push(
   "artist": "レミオロメン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14474,7 +14474,7 @@ window.SONG_DATA.push(
   "artist": "レミオロメン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14482,7 +14482,7 @@ window.SONG_DATA.push(
   "artist": "BUMP OF CHICKEN",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14490,7 +14490,7 @@ window.SONG_DATA.push(
   "artist": "絢香",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=20",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14498,7 +14498,7 @@ window.SONG_DATA.push(
   "artist": "HY",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=21",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14506,7 +14506,7 @@ window.SONG_DATA.push(
   "artist": "中島みゆき",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=22",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14514,7 +14514,7 @@ window.SONG_DATA.push(
   "artist": "一青窈",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=23",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14522,7 +14522,7 @@ window.SONG_DATA.push(
   "artist": "サザンオールスターズ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=24",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14530,7 +14530,7 @@ window.SONG_DATA.push(
   "artist": "imase",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14538,7 +14538,7 @@ window.SONG_DATA.push(
   "artist": "音田雅則",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14546,7 +14546,7 @@ window.SONG_DATA.push(
   "artist": "AKASAKI",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14554,7 +14554,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14562,7 +14562,7 @@ window.SONG_DATA.push(
   "artist": "優里",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14570,7 +14570,7 @@ window.SONG_DATA.push(
   "artist": "keeno",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14578,7 +14578,7 @@ window.SONG_DATA.push(
   "artist": "春野",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14586,7 +14586,7 @@ window.SONG_DATA.push(
   "artist": "サカナクション",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14594,7 +14594,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14602,7 +14602,7 @@ window.SONG_DATA.push(
   "artist": "ナブナ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14610,7 +14610,7 @@ window.SONG_DATA.push(
   "artist": "春野",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14618,7 +14618,7 @@ window.SONG_DATA.push(
   "artist": "春野",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14626,7 +14626,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14634,7 +14634,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14642,7 +14642,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14650,7 +14650,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14658,7 +14658,7 @@ window.SONG_DATA.push(
   "artist": "未来古代楽団",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14666,7 +14666,7 @@ window.SONG_DATA.push(
   "artist": "相対性理論",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14674,7 +14674,7 @@ window.SONG_DATA.push(
   "artist": "相対性理論",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14682,7 +14682,7 @@ window.SONG_DATA.push(
   "artist": "相対性理論",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=20",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14690,7 +14690,7 @@ window.SONG_DATA.push(
   "artist": "松任谷由実",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=21",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14698,7 +14698,7 @@ window.SONG_DATA.push(
   "artist": "藍色にしもん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=22",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14834,7 +14834,7 @@ window.SONG_DATA.push(
   "artist": "相川七瀬",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14842,7 +14842,7 @@ window.SONG_DATA.push(
   "artist": "椎名林檎",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14850,7 +14850,7 @@ window.SONG_DATA.push(
   "artist": "KinKi Kids",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14858,7 +14858,7 @@ window.SONG_DATA.push(
   "artist": "モーニング娘。",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14866,7 +14866,7 @@ window.SONG_DATA.push(
   "artist": "SURFACE",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14874,7 +14874,7 @@ window.SONG_DATA.push(
   "artist": "広瀬香美",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14882,7 +14882,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14890,7 +14890,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14898,7 +14898,7 @@ window.SONG_DATA.push(
   "artist": "竹内まりや",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14906,7 +14906,7 @@ window.SONG_DATA.push(
   "artist": "JUDY AND MARY",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14914,7 +14914,7 @@ window.SONG_DATA.push(
   "artist": "aiko",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14922,7 +14922,7 @@ window.SONG_DATA.push(
   "artist": "中島みゆき",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14930,7 +14930,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14938,7 +14938,7 @@ window.SONG_DATA.push(
   "artist": "サザンオールスターズ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14946,7 +14946,7 @@ window.SONG_DATA.push(
   "artist": "SMAP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14954,7 +14954,7 @@ window.SONG_DATA.push(
   "artist": "和田光司",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14962,7 +14962,7 @@ window.SONG_DATA.push(
   "artist": "アン・ルイス",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -14970,7 +14970,7 @@ window.SONG_DATA.push(
   "artist": "岩崎良美",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15346,7 +15346,7 @@ window.SONG_DATA.push(
   "artist": "miwa",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15354,7 +15354,7 @@ window.SONG_DATA.push(
   "artist": "坂本真綾",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15362,7 +15362,7 @@ window.SONG_DATA.push(
   "artist": "Orangestar",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15370,7 +15370,7 @@ window.SONG_DATA.push(
   "artist": "HoneyWorks feat. mona",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15378,7 +15378,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15386,7 +15386,7 @@ window.SONG_DATA.push(
   "artist": "中島愛",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15394,7 +15394,7 @@ window.SONG_DATA.push(
   "artist": "UNISON SQUARE GARDEN",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15402,7 +15402,7 @@ window.SONG_DATA.push(
   "artist": "日食なつこ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15410,7 +15410,7 @@ window.SONG_DATA.push(
   "artist": "緑黄色社会",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15418,7 +15418,7 @@ window.SONG_DATA.push(
   "artist": "平野綾",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15426,7 +15426,7 @@ window.SONG_DATA.push(
   "artist": "つじあやの",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15434,7 +15434,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15442,7 +15442,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15450,7 +15450,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15458,7 +15458,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15466,7 +15466,7 @@ window.SONG_DATA.push(
   "artist": "NOMELON NOLEMON",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15474,7 +15474,7 @@ window.SONG_DATA.push(
   "artist": "Vaundy",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15482,7 +15482,7 @@ window.SONG_DATA.push(
   "artist": "サカナクション",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15490,7 +15490,7 @@ window.SONG_DATA.push(
   "artist": "女王蜂",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15498,7 +15498,7 @@ window.SONG_DATA.push(
   "artist": "女王蜂",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=20",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15802,7 +15802,7 @@ window.SONG_DATA.push(
   "artist": "秦基博",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15810,7 +15810,7 @@ window.SONG_DATA.push(
   "artist": "電ポルP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15818,7 +15818,7 @@ window.SONG_DATA.push(
   "artist": "電ポルP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15826,7 +15826,7 @@ window.SONG_DATA.push(
   "artist": "Orangestar",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15834,7 +15834,7 @@ window.SONG_DATA.push(
   "artist": "牧野由依",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15842,7 +15842,7 @@ window.SONG_DATA.push(
   "artist": "DISH//",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15850,7 +15850,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15858,7 +15858,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15866,7 +15866,7 @@ window.SONG_DATA.push(
   "artist": "カンザキイオリ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15874,7 +15874,7 @@ window.SONG_DATA.push(
   "artist": "back number",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15882,7 +15882,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15890,7 +15890,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15898,7 +15898,7 @@ window.SONG_DATA.push(
   "artist": "サカナクション",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15906,7 +15906,7 @@ window.SONG_DATA.push(
   "artist": "KOH+",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15914,7 +15914,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15922,7 +15922,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15930,7 +15930,7 @@ window.SONG_DATA.push(
   "artist": "藍色にしもん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15938,7 +15938,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15946,7 +15946,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15954,7 +15954,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15962,7 +15962,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15970,7 +15970,7 @@ window.SONG_DATA.push(
   "artist": "いきものがかり",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15978,7 +15978,7 @@ window.SONG_DATA.push(
   "artist": "友成空",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15986,7 +15986,7 @@ window.SONG_DATA.push(
   "artist": "John Denver",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -15994,7 +15994,7 @@ window.SONG_DATA.push(
   "artist": "CIRCRUSH",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16002,7 +16002,7 @@ window.SONG_DATA.push(
   "artist": "日向電工",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16010,7 +16010,7 @@ window.SONG_DATA.push(
   "artist": "Giga",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16018,7 +16018,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16026,7 +16026,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16034,7 +16034,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16042,7 +16042,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ × はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16050,7 +16050,7 @@ window.SONG_DATA.push(
   "artist": "niki",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16058,7 +16058,7 @@ window.SONG_DATA.push(
   "artist": "wotaku",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16066,7 +16066,7 @@ window.SONG_DATA.push(
   "artist": "ピコン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16074,7 +16074,7 @@ window.SONG_DATA.push(
   "artist": "ピコン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16082,7 +16082,7 @@ window.SONG_DATA.push(
   "artist": "Neru & z’5",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16090,7 +16090,7 @@ window.SONG_DATA.push(
   "artist": "SODA KIT",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16098,7 +16098,7 @@ window.SONG_DATA.push(
   "artist": "SODA KIT",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16106,7 +16106,7 @@ window.SONG_DATA.push(
   "artist": "SODA KIT",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16114,7 +16114,7 @@ window.SONG_DATA.push(
   "artist": "SODA KIT",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16122,7 +16122,7 @@ window.SONG_DATA.push(
   "artist": "SODA KIT",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16130,7 +16130,7 @@ window.SONG_DATA.push(
   "artist": "SODA KIT",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16138,7 +16138,7 @@ window.SONG_DATA.push(
   "artist": "SODA KIT",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16146,7 +16146,7 @@ window.SONG_DATA.push(
   "artist": "SODA KIT",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16154,7 +16154,7 @@ window.SONG_DATA.push(
   "artist": "SODA KIT",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16162,7 +16162,7 @@ window.SONG_DATA.push(
   "artist": "SODA KIT",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16170,7 +16170,7 @@ window.SONG_DATA.push(
   "artist": "SODA KIT",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16178,7 +16178,7 @@ window.SONG_DATA.push(
   "artist": "SODA KIT",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16186,7 +16186,7 @@ window.SONG_DATA.push(
   "artist": "SODA KIT",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16194,7 +16194,7 @@ window.SONG_DATA.push(
   "artist": "SODA KIT",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16202,7 +16202,7 @@ window.SONG_DATA.push(
   "artist": "SODA KIT",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16210,7 +16210,7 @@ window.SONG_DATA.push(
   "artist": "ツミキ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16218,7 +16218,7 @@ window.SONG_DATA.push(
   "artist": "wowaka",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16226,7 +16226,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16234,7 +16234,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16242,7 +16242,7 @@ window.SONG_DATA.push(
   "artist": "バルーン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16250,7 +16250,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16258,7 +16258,7 @@ window.SONG_DATA.push(
   "artist": "いきものがかり",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16266,7 +16266,7 @@ window.SONG_DATA.push(
   "artist": "back number",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16274,7 +16274,7 @@ window.SONG_DATA.push(
   "artist": "DECO27",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16282,7 +16282,7 @@ window.SONG_DATA.push(
   "artist": "Eight",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16290,7 +16290,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16298,7 +16298,7 @@ window.SONG_DATA.push(
   "artist": "案山子",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16306,7 +16306,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16314,7 +16314,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16322,7 +16322,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16330,7 +16330,7 @@ window.SONG_DATA.push(
   "artist": "中島愛",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16338,7 +16338,7 @@ window.SONG_DATA.push(
   "artist": "ClariS",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16346,7 +16346,7 @@ window.SONG_DATA.push(
   "artist": "ナナヲアカリ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16354,7 +16354,7 @@ window.SONG_DATA.push(
   "artist": "Every Little Thing",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16362,7 +16362,7 @@ window.SONG_DATA.push(
   "artist": "μ's",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16370,7 +16370,7 @@ window.SONG_DATA.push(
   "artist": "空白ごっこ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16378,7 +16378,7 @@ window.SONG_DATA.push(
   "artist": "ダズビー",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=20",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16386,7 +16386,7 @@ window.SONG_DATA.push(
   "artist": "ダズビー",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=21",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16394,7 +16394,7 @@ window.SONG_DATA.push(
   "artist": "DECO27",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=22",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16402,7 +16402,7 @@ window.SONG_DATA.push(
   "artist": "ナユタン星人",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=23",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16410,7 +16410,7 @@ window.SONG_DATA.push(
   "artist": "doriko",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=24",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16418,7 +16418,7 @@ window.SONG_DATA.push(
   "artist": "ryo",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=25",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16426,7 +16426,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=26",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16434,7 +16434,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=27",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16738,7 +16738,7 @@ window.SONG_DATA.push(
   "artist": "春野",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16746,7 +16746,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16754,7 +16754,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16762,7 +16762,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ  (2)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16770,7 +16770,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16778,7 +16778,7 @@ window.SONG_DATA.push(
   "artist": "におP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16786,7 +16786,7 @@ window.SONG_DATA.push(
   "artist": "サザンオールスターズ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16794,7 +16794,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16802,7 +16802,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16810,7 +16810,7 @@ window.SONG_DATA.push(
   "artist": "Orangestar",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16818,7 +16818,7 @@ window.SONG_DATA.push(
   "artist": "はりーP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16826,7 +16826,7 @@ window.SONG_DATA.push(
   "artist": "サザンオールスターズ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16834,7 +16834,7 @@ window.SONG_DATA.push(
   "artist": "椿屋四重奏",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16842,7 +16842,7 @@ window.SONG_DATA.push(
   "artist": "Mrs. GREEN APPLE",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16850,7 +16850,7 @@ window.SONG_DATA.push(
   "artist": "Orangestar",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16858,7 +16858,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16866,7 +16866,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16874,7 +16874,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16882,7 +16882,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16890,7 +16890,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16898,7 +16898,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16906,7 +16906,7 @@ window.SONG_DATA.push(
   "artist": "藤井風",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16914,7 +16914,7 @@ window.SONG_DATA.push(
   "artist": "藤井風",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16922,7 +16922,7 @@ window.SONG_DATA.push(
   "artist": "SMAP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16930,7 +16930,7 @@ window.SONG_DATA.push(
   "artist": "松任谷由実",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16938,7 +16938,7 @@ window.SONG_DATA.push(
   "artist": "王菲",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16946,7 +16946,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16954,7 +16954,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16962,7 +16962,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16970,7 +16970,7 @@ window.SONG_DATA.push(
   "artist": "ダズビー",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16978,7 +16978,7 @@ window.SONG_DATA.push(
   "artist": "七尾旅人",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16986,7 +16986,7 @@ window.SONG_DATA.push(
   "artist": "相対性理論",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -16994,7 +16994,7 @@ window.SONG_DATA.push(
   "artist": "やくしまるえつこ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17002,7 +17002,7 @@ window.SONG_DATA.push(
   "artist": "Cocco",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17010,7 +17010,7 @@ window.SONG_DATA.push(
   "artist": "AKASAKI",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17018,7 +17018,7 @@ window.SONG_DATA.push(
   "artist": "NOMELON NOLEMON",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17026,7 +17026,7 @@ window.SONG_DATA.push(
   "artist": "ポリスピカデリー",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17034,7 +17034,7 @@ window.SONG_DATA.push(
   "artist": "Bank Band with Salyu",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17042,7 +17042,7 @@ window.SONG_DATA.push(
   "artist": "藤田麻衣子",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17050,7 +17050,7 @@ window.SONG_DATA.push(
   "artist": "幾田りら",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17058,7 +17058,7 @@ window.SONG_DATA.push(
   "artist": "いよわ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17066,7 +17066,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17074,7 +17074,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17082,7 +17082,7 @@ window.SONG_DATA.push(
   "artist": "バルーン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17090,7 +17090,7 @@ window.SONG_DATA.push(
   "artist": "DECO27",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17098,7 +17098,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17106,7 +17106,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17114,7 +17114,7 @@ window.SONG_DATA.push(
   "artist": "理芽",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17122,7 +17122,7 @@ window.SONG_DATA.push(
   "artist": "ダズビー",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17130,7 +17130,7 @@ window.SONG_DATA.push(
   "artist": "ぬゆり",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17138,7 +17138,7 @@ window.SONG_DATA.push(
   "artist": "絢香",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17146,7 +17146,7 @@ window.SONG_DATA.push(
   "artist": "supercell",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17154,7 +17154,7 @@ window.SONG_DATA.push(
   "artist": "優里",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17162,7 +17162,7 @@ window.SONG_DATA.push(
   "artist": "やなぎなぎ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17170,7 +17170,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17178,7 +17178,7 @@ window.SONG_DATA.push(
   "artist": "HY",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17186,7 +17186,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17194,7 +17194,7 @@ window.SONG_DATA.push(
   "artist": "Tani Yuuki",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17202,7 +17202,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17210,7 +17210,7 @@ window.SONG_DATA.push(
   "artist": "電ポルP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17218,7 +17218,7 @@ window.SONG_DATA.push(
   "artist": "福山雅治",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17226,7 +17226,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17234,7 +17234,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17242,7 +17242,7 @@ window.SONG_DATA.push(
   "artist": "Aimer  (2)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17250,7 +17250,7 @@ window.SONG_DATA.push(
   "artist": "スキマスイッチ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17258,7 +17258,7 @@ window.SONG_DATA.push(
   "artist": "RADWIMPS",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17266,7 +17266,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17274,7 +17274,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17282,7 +17282,7 @@ window.SONG_DATA.push(
   "artist": "佐々木恵梨",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17290,7 +17290,7 @@ window.SONG_DATA.push(
   "artist": "牧野由依",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17298,7 +17298,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17306,7 +17306,7 @@ window.SONG_DATA.push(
   "artist": "supercell",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17314,7 +17314,7 @@ window.SONG_DATA.push(
   "artist": "奧華子",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17322,7 +17322,7 @@ window.SONG_DATA.push(
   "artist": "奧華子",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17330,7 +17330,7 @@ window.SONG_DATA.push(
   "artist": "RADWIMPS",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17338,7 +17338,7 @@ window.SONG_DATA.push(
   "artist": "RADWIMPS",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17346,7 +17346,7 @@ window.SONG_DATA.push(
   "artist": "サカナクション",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17354,7 +17354,7 @@ window.SONG_DATA.push(
   "artist": "LiSA",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17362,7 +17362,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17370,7 +17370,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17378,7 +17378,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17386,7 +17386,7 @@ window.SONG_DATA.push(
   "artist": "木村弓",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17394,7 +17394,7 @@ window.SONG_DATA.push(
   "artist": "anNina",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17554,7 +17554,7 @@ window.SONG_DATA.push(
   "artist": "NOMELON NOLEMON",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17562,7 +17562,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17570,7 +17570,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17578,7 +17578,7 @@ window.SONG_DATA.push(
   "artist": "神はサイコロを振らない × キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17586,7 +17586,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17594,7 +17594,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17602,7 +17602,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17610,7 +17610,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17618,7 +17618,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17626,7 +17626,7 @@ window.SONG_DATA.push(
   "artist": "坂本真綾",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17634,7 +17634,7 @@ window.SONG_DATA.push(
   "artist": "Vaundy",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17642,7 +17642,7 @@ window.SONG_DATA.push(
   "artist": "ReoNa",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17650,7 +17650,7 @@ window.SONG_DATA.push(
   "artist": "サカナクション",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17658,7 +17658,7 @@ window.SONG_DATA.push(
   "artist": "サカナクション",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17666,7 +17666,7 @@ window.SONG_DATA.push(
   "artist": "ポルノグラフィティ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17674,7 +17674,7 @@ window.SONG_DATA.push(
   "artist": "諫山実生",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17682,7 +17682,7 @@ window.SONG_DATA.push(
   "artist": "鬼束ちひろ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17690,7 +17690,7 @@ window.SONG_DATA.push(
   "artist": "Bart Howard & Kaye Ballard",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17698,7 +17698,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17706,7 +17706,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17714,7 +17714,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17722,7 +17722,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17730,7 +17730,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17738,7 +17738,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17746,7 +17746,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17754,7 +17754,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17762,7 +17762,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17770,7 +17770,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17778,7 +17778,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17786,7 +17786,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17794,7 +17794,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17802,7 +17802,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17810,7 +17810,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17818,7 +17818,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17826,7 +17826,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17834,7 +17834,7 @@ window.SONG_DATA.push(
   "artist": "imase",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17842,7 +17842,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17850,7 +17850,7 @@ window.SONG_DATA.push(
   "artist": "音田雅則",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17858,7 +17858,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17866,7 +17866,7 @@ window.SONG_DATA.push(
   "artist": "なとり",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17874,7 +17874,7 @@ window.SONG_DATA.push(
   "artist": "AKASAKI",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17882,7 +17882,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17890,7 +17890,7 @@ window.SONG_DATA.push(
   "artist": "Ayase",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17898,7 +17898,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17906,7 +17906,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17914,7 +17914,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17922,7 +17922,7 @@ window.SONG_DATA.push(
   "artist": "和ぬか",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17930,7 +17930,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17938,7 +17938,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17946,7 +17946,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17954,7 +17954,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17962,7 +17962,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17970,7 +17970,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17978,7 +17978,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17986,7 +17986,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -17994,7 +17994,7 @@ window.SONG_DATA.push(
   "artist": "SHISHAMO",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18002,7 +18002,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師  (2)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18010,7 +18010,7 @@ window.SONG_DATA.push(
   "artist": "Orangestar",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18018,7 +18018,7 @@ window.SONG_DATA.push(
   "artist": "じん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18026,7 +18026,7 @@ window.SONG_DATA.push(
   "artist": "ゆず",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18034,7 +18034,7 @@ window.SONG_DATA.push(
   "artist": "鈴木瑛美子 × 亀田誠治",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18042,7 +18042,7 @@ window.SONG_DATA.push(
   "artist": "ポルカドットスティングレイ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18050,7 +18050,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18058,7 +18058,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18218,7 +18218,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18226,7 +18226,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18234,7 +18234,7 @@ window.SONG_DATA.push(
   "artist": "imase",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18242,7 +18242,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18250,7 +18250,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18258,7 +18258,7 @@ window.SONG_DATA.push(
   "artist": "星野源",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18266,7 +18266,7 @@ window.SONG_DATA.push(
   "artist": "星野源",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18274,7 +18274,7 @@ window.SONG_DATA.push(
   "artist": "平井堅",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18282,7 +18282,7 @@ window.SONG_DATA.push(
   "artist": "Ayase",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18290,7 +18290,7 @@ window.SONG_DATA.push(
   "artist": "Ayase",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18298,7 +18298,7 @@ window.SONG_DATA.push(
   "artist": "相対性理論",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18306,7 +18306,7 @@ window.SONG_DATA.push(
   "artist": "相対性理論",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18314,7 +18314,7 @@ window.SONG_DATA.push(
   "artist": "ぬゆり",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18322,7 +18322,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18330,7 +18330,7 @@ window.SONG_DATA.push(
   "artist": "松任谷由実",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18338,7 +18338,7 @@ window.SONG_DATA.push(
   "artist": "サザンオールスターズ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18346,7 +18346,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18354,7 +18354,7 @@ window.SONG_DATA.push(
   "artist": "ナブナ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18362,7 +18362,7 @@ window.SONG_DATA.push(
   "artist": "清竜人",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18370,7 +18370,7 @@ window.SONG_DATA.push(
   "artist": "チャットモンチー",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18378,7 +18378,7 @@ window.SONG_DATA.push(
   "artist": "鬼束ちひろ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18386,7 +18386,7 @@ window.SONG_DATA.push(
   "artist": "一青窈",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18394,7 +18394,7 @@ window.SONG_DATA.push(
   "artist": "安藤裕子",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18402,7 +18402,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵  (2)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18410,7 +18410,7 @@ window.SONG_DATA.push(
   "artist": "諫山実生  (2)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18418,7 +18418,7 @@ window.SONG_DATA.push(
   "artist": "サカナクション",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18426,7 +18426,7 @@ window.SONG_DATA.push(
   "artist": "Heavenz",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18434,7 +18434,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18442,7 +18442,7 @@ window.SONG_DATA.push(
   "artist": "ジミーサムP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18450,7 +18450,7 @@ window.SONG_DATA.push(
   "artist": "ジミーサムP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18458,7 +18458,7 @@ window.SONG_DATA.push(
   "artist": "蝶々P",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18466,7 +18466,7 @@ window.SONG_DATA.push(
   "artist": "ピコン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18474,7 +18474,7 @@ window.SONG_DATA.push(
   "artist": "大柴広己",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18482,7 +18482,7 @@ window.SONG_DATA.push(
   "artist": "バルーン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18490,7 +18490,7 @@ window.SONG_DATA.push(
   "artist": "DECO27",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18498,7 +18498,7 @@ window.SONG_DATA.push(
   "artist": "Uru",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18506,7 +18506,7 @@ window.SONG_DATA.push(
   "artist": "鬼束ちひろ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18514,7 +18514,7 @@ window.SONG_DATA.push(
   "artist": "Cocco",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18522,7 +18522,7 @@ window.SONG_DATA.push(
   "artist": "Cocco",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18530,7 +18530,7 @@ window.SONG_DATA.push(
   "artist": "ヰ世界情緒",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18538,7 +18538,7 @@ window.SONG_DATA.push(
   "artist": "あいみょん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18546,7 +18546,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18554,7 +18554,7 @@ window.SONG_DATA.push(
   "artist": "サカナクション  (2)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18562,7 +18562,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18570,7 +18570,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18578,7 +18578,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18586,7 +18586,7 @@ window.SONG_DATA.push(
   "artist": "フジファブリック",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18594,7 +18594,7 @@ window.SONG_DATA.push(
   "artist": "大塚愛",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18602,7 +18602,7 @@ window.SONG_DATA.push(
   "artist": "いきものがかり",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18610,7 +18610,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18618,7 +18618,7 @@ window.SONG_DATA.push(
   "artist": "中川翔子",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18626,7 +18626,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18634,7 +18634,7 @@ window.SONG_DATA.push(
   "artist": "緑黄色社会",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18642,7 +18642,7 @@ window.SONG_DATA.push(
   "artist": "Superfly",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18650,7 +18650,7 @@ window.SONG_DATA.push(
   "artist": "SURFACE",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18658,7 +18658,7 @@ window.SONG_DATA.push(
   "artist": "桜高軽音部",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18666,7 +18666,7 @@ window.SONG_DATA.push(
   "artist": "ナナヲアカリ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18674,7 +18674,7 @@ window.SONG_DATA.push(
   "artist": "KANA-BOON",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18682,7 +18682,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18690,7 +18690,7 @@ window.SONG_DATA.push(
   "artist": "AKINO",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18698,7 +18698,7 @@ window.SONG_DATA.push(
   "artist": "MAISONdes",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18706,7 +18706,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18714,7 +18714,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18722,7 +18722,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18730,7 +18730,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18738,7 +18738,7 @@ window.SONG_DATA.push(
   "artist": "Belle",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18746,7 +18746,7 @@ window.SONG_DATA.push(
   "artist": "millennium parade & Belle",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18754,7 +18754,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18762,7 +18762,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ  (2)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18770,7 +18770,7 @@ window.SONG_DATA.push(
   "artist": "カンザキイオリ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18778,7 +18778,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18786,7 +18786,7 @@ window.SONG_DATA.push(
   "artist": "anNina",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18794,7 +18794,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18802,7 +18802,7 @@ window.SONG_DATA.push(
   "artist": "鬼束ちひろ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18810,7 +18810,7 @@ window.SONG_DATA.push(
   "artist": "KOH+",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18818,7 +18818,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18826,7 +18826,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18834,7 +18834,7 @@ window.SONG_DATA.push(
   "artist": "蝶々P",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18842,7 +18842,7 @@ window.SONG_DATA.push(
   "artist": "tuki.",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18850,7 +18850,7 @@ window.SONG_DATA.push(
   "artist": "rionos",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18858,7 +18858,7 @@ window.SONG_DATA.push(
   "artist": "におP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18866,7 +18866,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18874,7 +18874,7 @@ window.SONG_DATA.push(
   "artist": "buzzG",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18882,7 +18882,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18890,7 +18890,7 @@ window.SONG_DATA.push(
   "artist": "みきとP  (2)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18898,7 +18898,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18906,7 +18906,7 @@ window.SONG_DATA.push(
   "artist": "じん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18914,7 +18914,7 @@ window.SONG_DATA.push(
   "artist": "May'n & 中島愛",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18922,7 +18922,7 @@ window.SONG_DATA.push(
   "artist": "tuki.",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18930,7 +18930,7 @@ window.SONG_DATA.push(
   "artist": "理芽",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18938,7 +18938,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18946,7 +18946,7 @@ window.SONG_DATA.push(
   "artist": "日食なつこ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18954,7 +18954,7 @@ window.SONG_DATA.push(
   "artist": "GReeeeN",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18962,7 +18962,7 @@ window.SONG_DATA.push(
   "artist": "R Sound Design",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18970,7 +18970,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18978,7 +18978,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18986,7 +18986,7 @@ window.SONG_DATA.push(
   "artist": "Giga",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -18994,7 +18994,7 @@ window.SONG_DATA.push(
   "artist": "Giga",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19002,7 +19002,7 @@ window.SONG_DATA.push(
   "artist": "バルーン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19010,7 +19010,7 @@ window.SONG_DATA.push(
   "artist": "ヰ世界情緒",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19018,7 +19018,7 @@ window.SONG_DATA.push(
   "artist": "友成空",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19026,7 +19026,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19034,7 +19034,7 @@ window.SONG_DATA.push(
   "artist": "CIRCRUSH",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=20",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19042,7 +19042,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=21",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19050,7 +19050,7 @@ window.SONG_DATA.push(
   "artist": "ナユタン星人",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=22",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19058,7 +19058,7 @@ window.SONG_DATA.push(
   "artist": "古川本舗",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=23",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19066,7 +19066,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=24",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19074,7 +19074,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19082,7 +19082,7 @@ window.SONG_DATA.push(
   "artist": "Heavenz",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19090,7 +19090,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師  (2)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19098,7 +19098,7 @@ window.SONG_DATA.push(
   "artist": "サカナクション",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19106,7 +19106,7 @@ window.SONG_DATA.push(
   "artist": "aiko",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19114,7 +19114,7 @@ window.SONG_DATA.push(
   "artist": "一青窈  (2)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19122,7 +19122,7 @@ window.SONG_DATA.push(
   "artist": "奧華子",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19130,7 +19130,7 @@ window.SONG_DATA.push(
   "artist": "奧華子",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19138,7 +19138,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19146,7 +19146,7 @@ window.SONG_DATA.push(
   "artist": "中島みゆき",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19154,7 +19154,7 @@ window.SONG_DATA.push(
   "artist": "大柴広己",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19162,7 +19162,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19170,7 +19170,7 @@ window.SONG_DATA.push(
   "artist": "傘村トータ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19178,7 +19178,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19186,7 +19186,7 @@ window.SONG_DATA.push(
   "artist": "爱缪",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19194,7 +19194,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19202,7 +19202,7 @@ window.SONG_DATA.push(
   "artist": "あいみょん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19210,7 +19210,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19218,7 +19218,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19226,7 +19226,7 @@ window.SONG_DATA.push(
   "artist": "フジファブリック",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19234,7 +19234,7 @@ window.SONG_DATA.push(
   "artist": "竹内まりや",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19242,7 +19242,7 @@ window.SONG_DATA.push(
   "artist": "いきものがかり",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19250,7 +19250,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19258,7 +19258,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19266,7 +19266,7 @@ window.SONG_DATA.push(
   "artist": "millstones",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19274,7 +19274,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19282,7 +19282,7 @@ window.SONG_DATA.push(
   "artist": "Figaro",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19290,7 +19290,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19298,7 +19298,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19306,7 +19306,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19314,7 +19314,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19322,7 +19322,7 @@ window.SONG_DATA.push(
   "artist": "SODAKIT",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19330,7 +19330,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19338,7 +19338,7 @@ window.SONG_DATA.push(
   "artist": "KOTORI",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19466,7 +19466,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19474,7 +19474,7 @@ window.SONG_DATA.push(
   "artist": "BUMP OF CHICKEN",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19482,7 +19482,7 @@ window.SONG_DATA.push(
   "artist": "古川本舗",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19490,7 +19490,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19498,7 +19498,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19506,7 +19506,7 @@ window.SONG_DATA.push(
   "artist": "由薫",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19514,7 +19514,7 @@ window.SONG_DATA.push(
   "artist": "buzzG",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19522,7 +19522,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19530,7 +19530,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19538,7 +19538,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19546,7 +19546,7 @@ window.SONG_DATA.push(
   "artist": "安藤裕子",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19554,7 +19554,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19562,7 +19562,7 @@ window.SONG_DATA.push(
   "artist": "七尾旅人",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19570,7 +19570,7 @@ window.SONG_DATA.push(
   "artist": "牧野由依",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19578,7 +19578,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19586,7 +19586,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19754,7 +19754,7 @@ window.SONG_DATA.push(
   "artist": "椎名林檎",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19762,7 +19762,7 @@ window.SONG_DATA.push(
   "artist": "松任谷由実",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19770,7 +19770,7 @@ window.SONG_DATA.push(
   "artist": "orange pekoe",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19778,7 +19778,7 @@ window.SONG_DATA.push(
   "artist": "あいみょん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19786,7 +19786,7 @@ window.SONG_DATA.push(
   "artist": "東京事変",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19794,7 +19794,7 @@ window.SONG_DATA.push(
   "artist": "KOTORI",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19802,7 +19802,7 @@ window.SONG_DATA.push(
   "artist": "香椎モイミ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19810,7 +19810,7 @@ window.SONG_DATA.push(
   "artist": "DISH",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19818,7 +19818,7 @@ window.SONG_DATA.push(
   "artist": "日食なつこ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19826,7 +19826,7 @@ window.SONG_DATA.push(
   "artist": "millennium parade & Belle",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19834,7 +19834,7 @@ window.SONG_DATA.push(
   "artist": "Belle",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19842,7 +19842,7 @@ window.SONG_DATA.push(
   "artist": "Bank Band with Salyu",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19850,7 +19850,7 @@ window.SONG_DATA.push(
   "artist": "imase",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19858,7 +19858,7 @@ window.SONG_DATA.push(
   "artist": "音田雅則",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19866,7 +19866,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19874,7 +19874,7 @@ window.SONG_DATA.push(
   "artist": "NOMELON NOLEMON",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19882,7 +19882,7 @@ window.SONG_DATA.push(
   "artist": "キリンジ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19890,7 +19890,7 @@ window.SONG_DATA.push(
   "artist": "星野源",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19898,7 +19898,7 @@ window.SONG_DATA.push(
   "artist": "風味堂",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19906,7 +19906,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19914,7 +19914,7 @@ window.SONG_DATA.push(
   "artist": "Luna",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19922,7 +19922,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19930,7 +19930,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19938,7 +19938,7 @@ window.SONG_DATA.push(
   "artist": "Figaro",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19946,7 +19946,7 @@ window.SONG_DATA.push(
   "artist": "Figaro",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=20",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19954,7 +19954,7 @@ window.SONG_DATA.push(
   "artist": "春野",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19962,7 +19962,7 @@ window.SONG_DATA.push(
   "artist": "諫山実生",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19970,7 +19970,7 @@ window.SONG_DATA.push(
   "artist": "millstones",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19978,7 +19978,7 @@ window.SONG_DATA.push(
   "artist": "藍色にしもん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19986,7 +19986,7 @@ window.SONG_DATA.push(
   "artist": "Figaro",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -19994,7 +19994,7 @@ window.SONG_DATA.push(
   "artist": "澤田 空海理",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20002,7 +20002,7 @@ window.SONG_DATA.push(
   "artist": "tuki.",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20010,7 +20010,7 @@ window.SONG_DATA.push(
   "artist": "森山直太朗",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20018,7 +20018,7 @@ window.SONG_DATA.push(
   "artist": "あいみょん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20026,7 +20026,7 @@ window.SONG_DATA.push(
   "artist": "あいみょん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20034,7 +20034,7 @@ window.SONG_DATA.push(
   "artist": "ストロベリー・フラワー",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20042,7 +20042,7 @@ window.SONG_DATA.push(
   "artist": "尾崎 豊",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20050,7 +20050,7 @@ window.SONG_DATA.push(
   "artist": "Cocco",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20058,7 +20058,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20066,7 +20066,7 @@ window.SONG_DATA.push(
   "artist": "クリープハイプ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20074,7 +20074,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20082,7 +20082,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20090,7 +20090,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20098,7 +20098,7 @@ window.SONG_DATA.push(
   "artist": "優里",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20106,7 +20106,7 @@ window.SONG_DATA.push(
   "artist": "大原櫻子",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20114,7 +20114,7 @@ window.SONG_DATA.push(
   "artist": "orange pekoe",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20122,7 +20122,7 @@ window.SONG_DATA.push(
   "artist": "キリンジ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20274,7 +20274,7 @@ window.SONG_DATA.push(
   "artist": "あいみょん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20282,7 +20282,7 @@ window.SONG_DATA.push(
   "artist": "MISIA",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20290,7 +20290,7 @@ window.SONG_DATA.push(
   "artist": "back number",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20298,7 +20298,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20306,7 +20306,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20314,7 +20314,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師 & 菅田将暉",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20322,7 +20322,7 @@ window.SONG_DATA.push(
   "artist": "KOKIA",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20330,7 +20330,7 @@ window.SONG_DATA.push(
   "artist": "anNina",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20338,7 +20338,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20346,7 +20346,7 @@ window.SONG_DATA.push(
   "artist": "buzzG",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20354,7 +20354,7 @@ window.SONG_DATA.push(
   "artist": "七尾旅人",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20362,7 +20362,7 @@ window.SONG_DATA.push(
   "artist": "orange pekoe",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20370,7 +20370,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20378,7 +20378,7 @@ window.SONG_DATA.push(
   "artist": "ヰ世界情緒",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20386,7 +20386,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20394,7 +20394,7 @@ window.SONG_DATA.push(
   "artist": "澤田空海理",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20402,7 +20402,7 @@ window.SONG_DATA.push(
   "artist": "やくしまるえつこ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20410,7 +20410,7 @@ window.SONG_DATA.push(
   "artist": "ダズビー",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20418,7 +20418,7 @@ window.SONG_DATA.push(
   "artist": "imase",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20426,7 +20426,7 @@ window.SONG_DATA.push(
   "artist": "なとり",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20434,7 +20434,7 @@ window.SONG_DATA.push(
   "artist": "椿屋四重奏",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20442,7 +20442,7 @@ window.SONG_DATA.push(
   "artist": "LiSA × Uru",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20450,7 +20450,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20458,7 +20458,7 @@ window.SONG_DATA.push(
   "artist": "桑田佳祐",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20466,7 +20466,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20474,7 +20474,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20482,7 +20482,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20490,7 +20490,7 @@ window.SONG_DATA.push(
   "artist": "藍色にしもん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20634,7 +20634,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20642,7 +20642,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20650,7 +20650,7 @@ window.SONG_DATA.push(
   "artist": "柴咲コウ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20658,7 +20658,7 @@ window.SONG_DATA.push(
   "artist": "藤田麻衣子",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20666,7 +20666,7 @@ window.SONG_DATA.push(
   "artist": "HY",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20674,7 +20674,7 @@ window.SONG_DATA.push(
   "artist": "鬼束ちひろ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20682,7 +20682,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20690,7 +20690,7 @@ window.SONG_DATA.push(
   "artist": "サカナクション",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20698,7 +20698,7 @@ window.SONG_DATA.push(
   "artist": "古川本舗",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20706,7 +20706,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20714,7 +20714,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ  (2)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20722,7 +20722,7 @@ window.SONG_DATA.push(
   "artist": "フジファブリック",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20730,7 +20730,7 @@ window.SONG_DATA.push(
   "artist": "バルーン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20738,7 +20738,7 @@ window.SONG_DATA.push(
   "artist": "佐々木恵梨",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20746,7 +20746,7 @@ window.SONG_DATA.push(
   "artist": "佐々木恵梨",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20754,7 +20754,7 @@ window.SONG_DATA.push(
   "artist": "優里",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -20994,7 +20994,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21002,7 +21002,7 @@ window.SONG_DATA.push(
   "artist": "Ayase",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21010,7 +21010,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21018,7 +21018,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21026,7 +21026,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21034,7 +21034,7 @@ window.SONG_DATA.push(
   "artist": "柴咲コウ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21042,7 +21042,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21050,7 +21050,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21058,7 +21058,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21066,7 +21066,7 @@ window.SONG_DATA.push(
   "artist": "日食なつこ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21074,7 +21074,7 @@ window.SONG_DATA.push(
   "artist": "サカナクション",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21082,7 +21082,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21090,7 +21090,7 @@ window.SONG_DATA.push(
   "artist": "石川智晶",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21098,7 +21098,7 @@ window.SONG_DATA.push(
   "artist": "Superfly",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21106,7 +21106,7 @@ window.SONG_DATA.push(
   "artist": "藤井風",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21114,7 +21114,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21250,7 +21250,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21258,7 +21258,7 @@ window.SONG_DATA.push(
   "artist": "西沢さんP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21266,7 +21266,7 @@ window.SONG_DATA.push(
   "artist": "ぬゆり",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21274,7 +21274,7 @@ window.SONG_DATA.push(
   "artist": "ツミキ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21282,7 +21282,7 @@ window.SONG_DATA.push(
   "artist": "ピノキオピー",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21290,7 +21290,7 @@ window.SONG_DATA.push(
   "artist": "黒うさP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21298,7 +21298,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ × はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21306,7 +21306,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21314,7 +21314,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21322,7 +21322,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21330,7 +21330,7 @@ window.SONG_DATA.push(
   "artist": "Junky",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21338,7 +21338,7 @@ window.SONG_DATA.push(
   "artist": "Kanaria",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21346,7 +21346,7 @@ window.SONG_DATA.push(
   "artist": "Kanaria",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21354,7 +21354,7 @@ window.SONG_DATA.push(
   "artist": "wotaku",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21362,7 +21362,7 @@ window.SONG_DATA.push(
   "artist": "ポリスピカデリー",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21370,7 +21370,7 @@ window.SONG_DATA.push(
   "artist": "niki",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21378,7 +21378,7 @@ window.SONG_DATA.push(
   "artist": "じーざすP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21386,7 +21386,7 @@ window.SONG_DATA.push(
   "artist": "柊マグネタイト",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21394,7 +21394,7 @@ window.SONG_DATA.push(
   "artist": "ピコン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21402,7 +21402,7 @@ window.SONG_DATA.push(
   "artist": "ササノマリイ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=20",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21410,7 +21410,7 @@ window.SONG_DATA.push(
   "artist": "ササノマリイ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=21",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21594,7 +21594,7 @@ window.SONG_DATA.push(
   "artist": "Heavenz",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21602,7 +21602,7 @@ window.SONG_DATA.push(
   "artist": "orange pekoe",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21610,7 +21610,7 @@ window.SONG_DATA.push(
   "artist": "七尾旅人",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21618,7 +21618,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21626,7 +21626,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21634,7 +21634,7 @@ window.SONG_DATA.push(
   "artist": "SawanoHiroyuki[nZk]",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21642,7 +21642,7 @@ window.SONG_DATA.push(
   "artist": "KOKIA",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21650,7 +21650,7 @@ window.SONG_DATA.push(
   "artist": "鬼束ちひろ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21658,7 +21658,7 @@ window.SONG_DATA.push(
   "artist": "一青窈",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21666,7 +21666,7 @@ window.SONG_DATA.push(
   "artist": "ZONE",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21674,7 +21674,7 @@ window.SONG_DATA.push(
   "artist": "ナブナ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21682,7 +21682,7 @@ window.SONG_DATA.push(
   "artist": "蝶々P",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21690,7 +21690,7 @@ window.SONG_DATA.push(
   "artist": "サカナクション",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21698,7 +21698,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21706,7 +21706,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -21714,7 +21714,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -22266,7 +22266,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -22274,7 +22274,7 @@ window.SONG_DATA.push(
   "artist": "the pillows",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -22282,7 +22282,7 @@ window.SONG_DATA.push(
   "artist": "the pillows",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -22290,7 +22290,7 @@ window.SONG_DATA.push(
   "artist": "RADWIMPS",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -22298,7 +22298,7 @@ window.SONG_DATA.push(
   "artist": "RADWIMPS",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -22306,7 +22306,7 @@ window.SONG_DATA.push(
   "artist": "RADWIMPS",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -22314,7 +22314,7 @@ window.SONG_DATA.push(
   "artist": "Uru",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -22322,7 +22322,7 @@ window.SONG_DATA.push(
   "artist": "はりーP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -22330,7 +22330,7 @@ window.SONG_DATA.push(
   "artist": "YEN TOWN BAND",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -22338,7 +22338,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -22346,7 +22346,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -22354,7 +22354,7 @@ window.SONG_DATA.push(
   "artist": "ナブナ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -22362,7 +22362,7 @@ window.SONG_DATA.push(
   "artist": "あいみょん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -22370,7 +22370,7 @@ window.SONG_DATA.push(
   "artist": "LiSA",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -22482,7 +22482,7 @@ window.SONG_DATA.push(
   "artist": "夏代孝明",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -22490,7 +22490,7 @@ window.SONG_DATA.push(
   "artist": "アンジェラ・アキ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -22498,7 +22498,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -22506,7 +22506,7 @@ window.SONG_DATA.push(
   "artist": "あいみょん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -22514,7 +22514,7 @@ window.SONG_DATA.push(
   "artist": "桑田佳祐",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -22522,7 +22522,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -22530,7 +22530,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -22538,7 +22538,7 @@ window.SONG_DATA.push(
   "artist": "相対性理論",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -22546,7 +22546,7 @@ window.SONG_DATA.push(
   "artist": "キリンジ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -22554,7 +22554,7 @@ window.SONG_DATA.push(
   "artist": "七尾旅人",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -22562,7 +22562,7 @@ window.SONG_DATA.push(
   "artist": "コレサワ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -22570,7 +22570,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -22578,7 +22578,7 @@ window.SONG_DATA.push(
   "artist": "KOKIA",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -22586,7 +22586,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -22594,7 +22594,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -22602,7 +22602,7 @@ window.SONG_DATA.push(
   "artist": "supercell",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23034,7 +23034,7 @@ window.SONG_DATA.push(
   "artist": "back number",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23042,7 +23042,7 @@ window.SONG_DATA.push(
   "artist": "広瀬香美",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23050,7 +23050,7 @@ window.SONG_DATA.push(
   "artist": "レミオロメン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23058,7 +23058,7 @@ window.SONG_DATA.push(
   "artist": "Uru",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23066,7 +23066,7 @@ window.SONG_DATA.push(
   "artist": "ヒグチアイ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23074,7 +23074,7 @@ window.SONG_DATA.push(
   "artist": "YURiKA",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23082,7 +23082,7 @@ window.SONG_DATA.push(
   "artist": "日食なつこ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23090,7 +23090,7 @@ window.SONG_DATA.push(
   "artist": "諫山実生",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23098,7 +23098,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23106,7 +23106,7 @@ window.SONG_DATA.push(
   "artist": "μ's",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23114,7 +23114,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23122,7 +23122,7 @@ window.SONG_DATA.push(
   "artist": "あいみょん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23130,7 +23130,7 @@ window.SONG_DATA.push(
   "artist": "[ALEXANDROS]",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23138,7 +23138,7 @@ window.SONG_DATA.push(
   "artist": "ONE OK ROCK",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23146,7 +23146,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23154,7 +23154,7 @@ window.SONG_DATA.push(
   "artist": "クリープハイプ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23314,7 +23314,7 @@ window.SONG_DATA.push(
   "artist": "やくしまるえつこ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23322,7 +23322,7 @@ window.SONG_DATA.push(
   "artist": "やくしまるえつこ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23330,7 +23330,7 @@ window.SONG_DATA.push(
   "artist": "高橋洋子",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23338,7 +23338,7 @@ window.SONG_DATA.push(
   "artist": "陰陽座",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23346,7 +23346,7 @@ window.SONG_DATA.push(
   "artist": "和田光司",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23354,7 +23354,7 @@ window.SONG_DATA.push(
   "artist": "AKINO",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23362,7 +23362,7 @@ window.SONG_DATA.push(
   "artist": "サカナクション",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23370,7 +23370,7 @@ window.SONG_DATA.push(
   "artist": "SawanoHiroyuki[nZk]",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23378,7 +23378,7 @@ window.SONG_DATA.push(
   "artist": "有阪美香",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23386,7 +23386,7 @@ window.SONG_DATA.push(
   "artist": "坂本真綾",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23394,7 +23394,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23402,7 +23402,7 @@ window.SONG_DATA.push(
   "artist": "鈴木雅之",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23410,7 +23410,7 @@ window.SONG_DATA.push(
   "artist": "halca",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23418,7 +23418,7 @@ window.SONG_DATA.push(
   "artist": "ナナヲアカリ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23426,7 +23426,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師 · 宇多田ヒカル",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23434,7 +23434,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23442,7 +23442,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23450,7 +23450,7 @@ window.SONG_DATA.push(
   "artist": "由薫",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23458,7 +23458,7 @@ window.SONG_DATA.push(
   "artist": "澤田 空海理",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23466,7 +23466,7 @@ window.SONG_DATA.push(
   "artist": "澤田 空海理",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23474,7 +23474,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23482,7 +23482,7 @@ window.SONG_DATA.push(
   "artist": "Heavenz",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23490,7 +23490,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23498,7 +23498,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23506,7 +23506,7 @@ window.SONG_DATA.push(
   "artist": "KOH+",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23514,7 +23514,7 @@ window.SONG_DATA.push(
   "artist": "柴咲コウ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23522,7 +23522,7 @@ window.SONG_DATA.push(
   "artist": "藍色にしもん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23530,7 +23530,7 @@ window.SONG_DATA.push(
   "artist": "rionos",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23538,7 +23538,7 @@ window.SONG_DATA.push(
   "artist": "バルーン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23546,7 +23546,7 @@ window.SONG_DATA.push(
   "artist": "伊東歌詞太郎",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23554,7 +23554,7 @@ window.SONG_DATA.push(
   "artist": "はりーP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23562,7 +23562,7 @@ window.SONG_DATA.push(
   "artist": "のぼる↑",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23570,7 +23570,7 @@ window.SONG_DATA.push(
   "artist": "doriko",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23578,7 +23578,7 @@ window.SONG_DATA.push(
   "artist": "柊マグネタイト",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23586,7 +23586,7 @@ window.SONG_DATA.push(
   "artist": "ツミキ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23594,7 +23594,7 @@ window.SONG_DATA.push(
   "artist": "バルーン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23602,7 +23602,7 @@ window.SONG_DATA.push(
   "artist": "kemu",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23610,7 +23610,7 @@ window.SONG_DATA.push(
   "artist": "DATEKEN",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23618,7 +23618,7 @@ window.SONG_DATA.push(
   "artist": "DATEKEN",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23626,7 +23626,7 @@ window.SONG_DATA.push(
   "artist": "ポリスピカデリー",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23634,7 +23634,7 @@ window.SONG_DATA.push(
   "artist": "40メートルP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23642,7 +23642,7 @@ window.SONG_DATA.push(
   "artist": "とあ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23650,7 +23650,7 @@ window.SONG_DATA.push(
   "artist": "とあ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23658,7 +23658,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23666,7 +23666,7 @@ window.SONG_DATA.push(
   "artist": "tama",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23674,7 +23674,7 @@ window.SONG_DATA.push(
   "artist": "瀬名航",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23682,7 +23682,7 @@ window.SONG_DATA.push(
   "artist": "黒澤まどか",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23690,7 +23690,7 @@ window.SONG_DATA.push(
   "artist": "バルーン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23698,7 +23698,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23706,7 +23706,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23714,7 +23714,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23722,7 +23722,7 @@ window.SONG_DATA.push(
   "artist": "サカナクション",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23730,7 +23730,7 @@ window.SONG_DATA.push(
   "artist": "キリンジ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23738,7 +23738,7 @@ window.SONG_DATA.push(
   "artist": "藤井風",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23746,7 +23746,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23754,7 +23754,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23762,7 +23762,7 @@ window.SONG_DATA.push(
   "artist": "安藤裕子",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23770,7 +23770,7 @@ window.SONG_DATA.push(
   "artist": "奧華子",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23778,7 +23778,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師 · 宇多田ヒカル",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23786,7 +23786,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23794,7 +23794,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23802,7 +23802,7 @@ window.SONG_DATA.push(
   "artist": "コレサワ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23810,7 +23810,7 @@ window.SONG_DATA.push(
   "artist": "tuki.",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23818,7 +23818,7 @@ window.SONG_DATA.push(
   "artist": "ヰ世界情緒",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23826,7 +23826,7 @@ window.SONG_DATA.push(
   "artist": "KOKIA",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23834,7 +23834,7 @@ window.SONG_DATA.push(
   "artist": "buzzG",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23842,7 +23842,7 @@ window.SONG_DATA.push(
   "artist": "Figaro",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23850,7 +23850,7 @@ window.SONG_DATA.push(
   "artist": "yama",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23858,7 +23858,7 @@ window.SONG_DATA.push(
   "artist": "泰葉",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23866,7 +23866,7 @@ window.SONG_DATA.push(
   "artist": "Mrs. GREEN APPLE",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23874,7 +23874,7 @@ window.SONG_DATA.push(
   "artist": "結束バンド",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23882,7 +23882,7 @@ window.SONG_DATA.push(
   "artist": "SODA KIT",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23890,7 +23890,7 @@ window.SONG_DATA.push(
   "artist": "NOMELON NOLEMON",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23898,7 +23898,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23906,7 +23906,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23914,7 +23914,7 @@ window.SONG_DATA.push(
   "artist": "imase",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23922,7 +23922,7 @@ window.SONG_DATA.push(
   "artist": "AKASAKI",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23930,7 +23930,7 @@ window.SONG_DATA.push(
   "artist": "なとり",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23938,7 +23938,7 @@ window.SONG_DATA.push(
   "artist": "内緒のピアス",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23946,7 +23946,7 @@ window.SONG_DATA.push(
   "artist": "雨良",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23954,7 +23954,7 @@ window.SONG_DATA.push(
   "artist": "KOTORI",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23962,7 +23962,7 @@ window.SONG_DATA.push(
   "artist": "春野",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23970,7 +23970,7 @@ window.SONG_DATA.push(
   "artist": "石川智晶",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23978,7 +23978,7 @@ window.SONG_DATA.push(
   "artist": "石川さゆり",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23986,7 +23986,7 @@ window.SONG_DATA.push(
   "artist": "陰陽座",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -23994,7 +23994,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24002,7 +24002,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=20",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24010,7 +24010,7 @@ window.SONG_DATA.push(
   "artist": "Figaro",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=21",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24018,7 +24018,7 @@ window.SONG_DATA.push(
   "artist": "チキンライスグラタン鍋(仮)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=22",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24146,7 +24146,7 @@ window.SONG_DATA.push(
   "artist": "あいみょん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24154,7 +24154,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24162,7 +24162,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24170,7 +24170,7 @@ window.SONG_DATA.push(
   "artist": "小田和正",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24178,7 +24178,7 @@ window.SONG_DATA.push(
   "artist": "未来古代楽団",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24186,7 +24186,7 @@ window.SONG_DATA.push(
   "artist": "RADWIMPS",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24194,7 +24194,7 @@ window.SONG_DATA.push(
   "artist": "木村弓",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24202,7 +24202,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24210,7 +24210,7 @@ window.SONG_DATA.push(
   "artist": "ジミーサムP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24218,7 +24218,7 @@ window.SONG_DATA.push(
   "artist": "Heavenz",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24226,7 +24226,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24234,7 +24234,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24242,7 +24242,7 @@ window.SONG_DATA.push(
   "artist": "佐々木恵梨",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24250,7 +24250,7 @@ window.SONG_DATA.push(
   "artist": "七尾旅人",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24258,7 +24258,7 @@ window.SONG_DATA.push(
   "artist": "orange pekoe",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24818,7 +24818,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24826,7 +24826,7 @@ window.SONG_DATA.push(
   "artist": "はりーP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24834,7 +24834,7 @@ window.SONG_DATA.push(
   "artist": "理芽",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24842,7 +24842,7 @@ window.SONG_DATA.push(
   "artist": "SawanoHiroyuki『nZk』：mizuki",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24850,7 +24850,7 @@ window.SONG_DATA.push(
   "artist": "くじら",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24858,7 +24858,7 @@ window.SONG_DATA.push(
   "artist": "Ayase",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24866,7 +24866,7 @@ window.SONG_DATA.push(
   "artist": "はりーP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24874,7 +24874,7 @@ window.SONG_DATA.push(
   "artist": "あいみょん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24882,7 +24882,7 @@ window.SONG_DATA.push(
   "artist": "サカナクション",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24890,7 +24890,7 @@ window.SONG_DATA.push(
   "artist": "サカナクション",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24898,7 +24898,7 @@ window.SONG_DATA.push(
   "artist": "柴咲コウ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24906,7 +24906,7 @@ window.SONG_DATA.push(
   "artist": "Uru",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24914,7 +24914,7 @@ window.SONG_DATA.push(
   "artist": "結束バンド",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24922,7 +24922,7 @@ window.SONG_DATA.push(
   "artist": "椎名林檎",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24930,7 +24930,7 @@ window.SONG_DATA.push(
   "artist": "東京事変",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24938,7 +24938,7 @@ window.SONG_DATA.push(
   "artist": "泰葉",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24946,7 +24946,7 @@ window.SONG_DATA.push(
   "artist": "μ's",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24954,7 +24954,7 @@ window.SONG_DATA.push(
   "artist": "Orangestar",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24962,7 +24962,7 @@ window.SONG_DATA.push(
   "artist": "Orangestar",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24970,7 +24970,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=20",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -24978,7 +24978,7 @@ window.SONG_DATA.push(
   "artist": "神はサイコロを振らない × キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=21",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25130,7 +25130,7 @@ window.SONG_DATA.push(
   "artist": "ヒグチアイ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25138,7 +25138,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25146,7 +25146,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25154,7 +25154,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25162,7 +25162,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25170,7 +25170,7 @@ window.SONG_DATA.push(
   "artist": "におP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25178,7 +25178,7 @@ window.SONG_DATA.push(
   "artist": "キリンジ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25186,7 +25186,7 @@ window.SONG_DATA.push(
   "artist": "諫山実生(2)",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25194,7 +25194,7 @@ window.SONG_DATA.push(
   "artist": "松任谷由実",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25202,7 +25202,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25210,7 +25210,7 @@ window.SONG_DATA.push(
   "artist": "安藤裕子",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25218,7 +25218,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25226,7 +25226,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25234,7 +25234,7 @@ window.SONG_DATA.push(
   "artist": "一青窈",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25378,7 +25378,7 @@ window.SONG_DATA.push(
   "artist": "やなぎなぎ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25386,7 +25386,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25394,7 +25394,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25402,7 +25402,7 @@ window.SONG_DATA.push(
   "artist": "サザンオールスターズ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25410,7 +25410,7 @@ window.SONG_DATA.push(
   "artist": "古川本舗",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25418,7 +25418,7 @@ window.SONG_DATA.push(
   "artist": "KOKIA",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25426,7 +25426,7 @@ window.SONG_DATA.push(
   "artist": "anNina",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25434,7 +25434,7 @@ window.SONG_DATA.push(
   "artist": "由薫",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25442,7 +25442,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25450,7 +25450,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25458,7 +25458,7 @@ window.SONG_DATA.push(
   "artist": "傘村トータ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25466,7 +25466,7 @@ window.SONG_DATA.push(
   "artist": "buzzG",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25474,7 +25474,7 @@ window.SONG_DATA.push(
   "artist": "佐々木恵梨",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25482,7 +25482,7 @@ window.SONG_DATA.push(
   "artist": "back number",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25490,7 +25490,7 @@ window.SONG_DATA.push(
   "artist": "ナブナ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25498,7 +25498,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25506,7 +25506,7 @@ window.SONG_DATA.push(
   "artist": "やくしまるえつこ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25514,7 +25514,7 @@ window.SONG_DATA.push(
   "artist": "風味堂",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25522,7 +25522,7 @@ window.SONG_DATA.push(
   "artist": "東京事変",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25530,7 +25530,7 @@ window.SONG_DATA.push(
   "artist": "椎名林檎",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25538,7 +25538,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25546,7 +25546,7 @@ window.SONG_DATA.push(
   "artist": "NOMELON NOLEMON",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25554,7 +25554,7 @@ window.SONG_DATA.push(
   "artist": "酸欠少女さユり",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25562,7 +25562,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25570,7 +25570,7 @@ window.SONG_DATA.push(
   "artist": "星野源",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25578,7 +25578,7 @@ window.SONG_DATA.push(
   "artist": "星野源",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25586,7 +25586,7 @@ window.SONG_DATA.push(
   "artist": "Lavt",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25594,7 +25594,7 @@ window.SONG_DATA.push(
   "artist": "サカナクション",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25602,7 +25602,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25610,7 +25610,7 @@ window.SONG_DATA.push(
   "artist": "HoneyWorks",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25618,7 +25618,7 @@ window.SONG_DATA.push(
   "artist": "supercell",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25626,7 +25626,7 @@ window.SONG_DATA.push(
   "artist": "UNISON SQUARE GARDEN",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25634,7 +25634,7 @@ window.SONG_DATA.push(
   "artist": "UNISON SQUARE GARDEN",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25642,7 +25642,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25650,7 +25650,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25658,7 +25658,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25666,7 +25666,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25674,7 +25674,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25682,7 +25682,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25690,7 +25690,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25698,7 +25698,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25706,7 +25706,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25714,7 +25714,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25722,7 +25722,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25730,7 +25730,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25738,7 +25738,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25746,7 +25746,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25754,7 +25754,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25762,7 +25762,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25770,7 +25770,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25778,7 +25778,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25786,7 +25786,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=19",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25794,7 +25794,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=20",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25802,7 +25802,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=21",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25810,7 +25810,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=22",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25818,7 +25818,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=23",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25826,7 +25826,7 @@ window.SONG_DATA.push(
   "artist": "日食なつこ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25834,7 +25834,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25842,7 +25842,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25850,7 +25850,7 @@ window.SONG_DATA.push(
   "artist": "HY",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25858,7 +25858,7 @@ window.SONG_DATA.push(
   "artist": "HY",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25866,7 +25866,7 @@ window.SONG_DATA.push(
   "artist": "DECO27",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25874,7 +25874,7 @@ window.SONG_DATA.push(
   "artist": "泰葉",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25882,7 +25882,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25890,7 +25890,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25898,7 +25898,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25906,7 +25906,7 @@ window.SONG_DATA.push(
   "artist": "AKASAKI",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25914,7 +25914,7 @@ window.SONG_DATA.push(
   "artist": "40メートルP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25922,7 +25922,7 @@ window.SONG_DATA.push(
   "artist": "結束バンド",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25930,7 +25930,7 @@ window.SONG_DATA.push(
   "artist": "木村弓",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25938,7 +25938,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25946,7 +25946,7 @@ window.SONG_DATA.push(
   "artist": "レミオロメン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25954,7 +25954,7 @@ window.SONG_DATA.push(
   "artist": "LiSA × Uru",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25962,7 +25962,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25970,7 +25970,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25978,7 +25978,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25986,7 +25986,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -25994,7 +25994,7 @@ window.SONG_DATA.push(
   "artist": "ヰ世界情緒",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26002,7 +26002,7 @@ window.SONG_DATA.push(
   "artist": "西沢さんP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26010,7 +26010,7 @@ window.SONG_DATA.push(
   "artist": "古川本舗",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26018,7 +26018,7 @@ window.SONG_DATA.push(
   "artist": "はるまき gohan",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26026,7 +26026,7 @@ window.SONG_DATA.push(
   "artist": "tuki.",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26034,7 +26034,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26042,7 +26042,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26050,7 +26050,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26058,7 +26058,7 @@ window.SONG_DATA.push(
   "artist": "μ's",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26066,7 +26066,7 @@ window.SONG_DATA.push(
   "artist": "坂本真綾",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26074,7 +26074,7 @@ window.SONG_DATA.push(
   "artist": "wotaku",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26082,7 +26082,7 @@ window.SONG_DATA.push(
   "artist": "DECO27",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26090,7 +26090,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26098,7 +26098,7 @@ window.SONG_DATA.push(
   "artist": "Cö shu Nie",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26106,7 +26106,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師・宇多田ヒカル",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26114,7 +26114,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26122,7 +26122,7 @@ window.SONG_DATA.push(
   "artist": "和ぬか",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26130,7 +26130,7 @@ window.SONG_DATA.push(
   "artist": "Giga",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26138,7 +26138,7 @@ window.SONG_DATA.push(
   "artist": "優里",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26146,7 +26146,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26154,7 +26154,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26162,7 +26162,7 @@ window.SONG_DATA.push(
   "artist": "バルーン",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26170,7 +26170,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26178,7 +26178,7 @@ window.SONG_DATA.push(
   "artist": "ジミーサムP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26186,7 +26186,7 @@ window.SONG_DATA.push(
   "artist": "とあ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26194,7 +26194,7 @@ window.SONG_DATA.push(
   "artist": "ジミーサムP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26202,7 +26202,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26210,7 +26210,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26218,7 +26218,7 @@ window.SONG_DATA.push(
   "artist": "澤田 空海理",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26226,7 +26226,7 @@ window.SONG_DATA.push(
   "artist": "RADWIMPS",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26234,7 +26234,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26242,7 +26242,7 @@ window.SONG_DATA.push(
   "artist": "サスケ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26250,7 +26250,7 @@ window.SONG_DATA.push(
   "artist": "奧華子",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26258,7 +26258,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26266,7 +26266,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=17",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26274,7 +26274,7 @@ window.SONG_DATA.push(
   "artist": "HoneyWorks_sub",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26282,7 +26282,7 @@ window.SONG_DATA.push(
   "artist": "HoneyWorks",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26290,7 +26290,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26298,7 +26298,7 @@ window.SONG_DATA.push(
   "artist": "国生さゆり",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26306,7 +26306,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26314,7 +26314,7 @@ window.SONG_DATA.push(
   "artist": "MISIA",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26322,7 +26322,7 @@ window.SONG_DATA.push(
   "artist": "MAISONdes",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26330,7 +26330,7 @@ window.SONG_DATA.push(
   "artist": "NOMELON NOLEMON",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26338,7 +26338,7 @@ window.SONG_DATA.push(
   "artist": "大塚愛",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26346,7 +26346,7 @@ window.SONG_DATA.push(
   "artist": "AKB48",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26354,7 +26354,7 @@ window.SONG_DATA.push(
   "artist": "いきものがかり",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26362,7 +26362,7 @@ window.SONG_DATA.push(
   "artist": "MAISONdes",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26370,7 +26370,7 @@ window.SONG_DATA.push(
   "artist": "Junky",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26378,7 +26378,7 @@ window.SONG_DATA.push(
   "artist": "星野源",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26386,7 +26386,7 @@ window.SONG_DATA.push(
   "artist": "藤井風",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26394,7 +26394,7 @@ window.SONG_DATA.push(
   "artist": "藤井風",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26402,7 +26402,7 @@ window.SONG_DATA.push(
   "artist": "キリンジ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26410,7 +26410,7 @@ window.SONG_DATA.push(
   "artist": "七尾旅人",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26418,7 +26418,7 @@ window.SONG_DATA.push(
   "artist": "orange pekoe",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26426,7 +26426,7 @@ window.SONG_DATA.push(
   "artist": "大塚愛",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26434,7 +26434,7 @@ window.SONG_DATA.push(
   "artist": "サカナクション",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26442,7 +26442,7 @@ window.SONG_DATA.push(
   "artist": "鬼束ちひろ",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26450,7 +26450,7 @@ window.SONG_DATA.push(
   "artist": "anNina",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26458,7 +26458,7 @@ window.SONG_DATA.push(
   "artist": "KOKIA",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26466,7 +26466,7 @@ window.SONG_DATA.push(
   "artist": "藍色にしもん",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26474,7 +26474,7 @@ window.SONG_DATA.push(
   "artist": "春野",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26482,7 +26482,7 @@ window.SONG_DATA.push(
   "artist": "春野",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26490,7 +26490,7 @@ window.SONG_DATA.push(
   "artist": "DATEKEN",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "figaro.js"
 },
     {
@@ -26498,7 +26498,7 @@ window.SONG_DATA.push(
   "artist": "春野",
   "collection": "【240207】#2 Figaro定期歌枠 03. 勘ぐれい - ずっと真夜中でいいのに。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=16",
+  "link": null,
   "source": "figaro.js"
 },
     {

@@ -1,6 +1,6 @@
 // 酢酸 / SAKUSAN - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1JSZHBrEVw
-// 生成时间: 2/21/2026, 12:42:17 AM
+// 生成时间: 2/21/2026, 12:54:58 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10,7 +10,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -18,7 +18,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -26,7 +26,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -34,7 +34,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -42,7 +42,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -730,7 +730,7 @@ window.SONG_DATA.push(
   "artist": "あたらよ",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -738,7 +738,7 @@ window.SONG_DATA.push(
   "artist": "あいみょん",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -866,7 +866,7 @@ window.SONG_DATA.push(
   "artist": "HY",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -874,7 +874,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -882,7 +882,7 @@ window.SONG_DATA.push(
   "artist": "May'n 中島愛（清唱）",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -890,7 +890,7 @@ window.SONG_DATA.push(
   "artist": "アイナ・ジ・エンド",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -898,7 +898,7 @@ window.SONG_DATA.push(
   "artist": "和ぬか",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -906,7 +906,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -914,7 +914,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -922,7 +922,7 @@ window.SONG_DATA.push(
   "artist": "Supercell",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -930,7 +930,7 @@ window.SONG_DATA.push(
   "artist": "HY",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -938,7 +938,7 @@ window.SONG_DATA.push(
   "artist": "シェリル・ノーム starring May'n",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -946,7 +946,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -954,7 +954,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師（清唱）",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -962,7 +962,7 @@ window.SONG_DATA.push(
   "artist": "緑黄色社会",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -970,7 +970,7 @@ window.SONG_DATA.push(
   "artist": "supercell",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -978,7 +978,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -986,7 +986,7 @@ window.SONG_DATA.push(
   "artist": "あいみょん",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -994,7 +994,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -1002,7 +1002,7 @@ window.SONG_DATA.push(
   "artist": "RADWIMPS",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -1010,7 +1010,7 @@ window.SONG_DATA.push(
   "artist": "合唱曲",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=19",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -1018,7 +1018,7 @@ window.SONG_DATA.push(
   "artist": "ヒグチアイ",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=20",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -1026,7 +1026,7 @@ window.SONG_DATA.push(
   "artist": "ヒグチアイ（清唱）",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=21",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -1034,7 +1034,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=22",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -1042,7 +1042,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=23",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -1050,7 +1050,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=24",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -1058,7 +1058,7 @@ window.SONG_DATA.push(
   "artist": "ヒグチアイ（清唱）",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=25",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -1066,7 +1066,7 @@ window.SONG_DATA.push(
   "artist": "美波",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=26",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -1074,7 +1074,7 @@ window.SONG_DATA.push(
   "artist": "DECO27",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=27",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -1082,7 +1082,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師 · 宇多田ヒカル",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=28",
+  "link": null,
   "source": "sakusan.js"
 },
     {
@@ -1090,7 +1090,7 @@ window.SONG_DATA.push(
   "artist": "水樹奈々",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=29",
+  "link": null,
   "source": "sakusan.js"
 },
     {

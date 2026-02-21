@@ -1,6 +1,6 @@
 // 其他歌手 - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV11GZtBcEsp
-// 生成时间: 2/21/2026, 12:46:31 AM
+// 生成时间: 2/21/2026, 12:57:52 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1610,7 +1610,7 @@ window.SONG_DATA.push(
   "artist": "如月千早(今井麻美)  [2025-12-25]  [rwTRmEDvB24]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1618,7 +1618,7 @@ window.SONG_DATA.push(
   "artist": "YUI  [2025-12-07]  [lNoJfI-SnA8]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1626,7 +1626,7 @@ window.SONG_DATA.push(
   "artist": "ダズビー  [2025-12-07]  [lNoJfI-SnA8]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1634,7 +1634,7 @@ window.SONG_DATA.push(
   "artist": "ReoNa  [2025-12-07]  [lNoJfI-SnA8]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1642,7 +1642,7 @@ window.SONG_DATA.push(
   "artist": "Kalafina  [2025-12-07]  [lNoJfI-SnA8]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1650,7 +1650,7 @@ window.SONG_DATA.push(
   "artist": "美波  [2025-12-07]  [lNoJfI-SnA8]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1658,7 +1658,7 @@ window.SONG_DATA.push(
   "artist": "CHiCO with HoneyWorks  [2025-12-14]  [QdEy9dajpwM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1666,7 +1666,7 @@ window.SONG_DATA.push(
   "artist": "坂本真綾  [2025-12-14]  [QdEy9dajpwM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1674,7 +1674,7 @@ window.SONG_DATA.push(
   "artist": "KANA-BOON  [2025-12-14]  [QdEy9dajpwM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1682,7 +1682,7 @@ window.SONG_DATA.push(
   "artist": "ReoNa  [2025-12-14]  [QdEy9dajpwM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1690,7 +1690,7 @@ window.SONG_DATA.push(
   "artist": "FictionJunction YUUKA  [2025-12-14]  [QdEy9dajpwM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1698,7 +1698,7 @@ window.SONG_DATA.push(
   "artist": "神崎エルザ starring ReoNa  [2025-12-14]  [QdEy9dajpwM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1706,7 +1706,7 @@ window.SONG_DATA.push(
   "artist": "Aimer  [2025-12-14]  [QdEy9dajpwM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1714,7 +1714,7 @@ window.SONG_DATA.push(
   "artist": "野田愛実  [2025-12-14]  [QdEy9dajpwM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1722,7 +1722,7 @@ window.SONG_DATA.push(
   "artist": "Suara  [2025-12-14]  [QdEy9dajpwM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1730,7 +1730,7 @@ window.SONG_DATA.push(
   "artist": "水樹奈々  [2025-12-14]  [QdEy9dajpwM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1738,7 +1738,7 @@ window.SONG_DATA.push(
   "artist": "レミオロメン  [2025-12-14]  [QdEy9dajpwM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=17",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1746,7 +1746,7 @@ window.SONG_DATA.push(
   "artist": "黒崎真音  [2025-12-14]  [QdEy9dajpwM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=18",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1754,7 +1754,7 @@ window.SONG_DATA.push(
   "artist": "とた  [2025-12-14]  [QdEy9dajpwM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=19",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1762,7 +1762,7 @@ window.SONG_DATA.push(
   "artist": "カノエラナ  [2025-12-21]  [06JYQPAUSHI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=20",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1770,7 +1770,7 @@ window.SONG_DATA.push(
   "artist": "ワルキューレ  [2025-12-21]  [06JYQPAUSHI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=21",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1778,7 +1778,7 @@ window.SONG_DATA.push(
   "artist": "シェリル・ノーム starring May'n  [2025-12-21]  [06JYQPAUSHI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=22",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1786,7 +1786,7 @@ window.SONG_DATA.push(
   "artist": "ヒトリエ  [2025-12-21]  [06JYQPAUSHI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=23",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1794,7 +1794,7 @@ window.SONG_DATA.push(
   "artist": "LiSA  [2025-12-21]  [06JYQPAUSHI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=24",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1802,7 +1802,7 @@ window.SONG_DATA.push(
   "artist": "LiSA  [2025-12-21]  [06JYQPAUSHI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=25",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1810,7 +1810,7 @@ window.SONG_DATA.push(
   "artist": "ワルキューレ  [2025-12-21]  [06JYQPAUSHI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=26",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1818,7 +1818,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI  [2025-12-21]  [06JYQPAUSHI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=27",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1826,7 +1826,7 @@ window.SONG_DATA.push(
   "artist": "GARNiDELiA  [2025-12-21]  [06JYQPAUSHI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=28",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1834,7 +1834,7 @@ window.SONG_DATA.push(
   "artist": "ONE OK ROCK  [2025-12-21]  [06JYQPAUSHI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=29",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1842,7 +1842,7 @@ window.SONG_DATA.push(
   "artist": "ゆうゆ  [2025-12-21]  [06JYQPAUSHI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=30",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1850,7 +1850,7 @@ window.SONG_DATA.push(
   "artist": "凛として時雨  [2025-12-21]  [06JYQPAUSHI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=31",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1858,7 +1858,7 @@ window.SONG_DATA.push(
   "artist": "彩音  [2025-12-21]  [06JYQPAUSHI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=32",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1866,7 +1866,7 @@ window.SONG_DATA.push(
   "artist": "彩音  [2025-12-21]  [06JYQPAUSHI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=33",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1874,7 +1874,7 @@ window.SONG_DATA.push(
   "artist": "Kalafina  [2025-12-21]  [06JYQPAUSHI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=34",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1882,7 +1882,7 @@ window.SONG_DATA.push(
   "artist": "FictionJunction YUUKA  [2025-12-21]  [06JYQPAUSHI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=35",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1890,7 +1890,7 @@ window.SONG_DATA.push(
   "artist": "ワルキューレ  [2025-12-21]  [06JYQPAUSHI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=36",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1898,7 +1898,7 @@ window.SONG_DATA.push(
   "artist": "ランカ・リー＝中島愛／シェリル・ノーム starring May'n  [2025-12-21]  [06JYQPAUSHI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=37",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1906,7 +1906,7 @@ window.SONG_DATA.push(
   "artist": "Lia  [2025-12-21]  [06JYQPAUSHI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=38",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1914,7 +1914,7 @@ window.SONG_DATA.push(
   "artist": "春奈るな  [2025-12-25]  [rwTRmEDvB24]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=39",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1922,7 +1922,7 @@ window.SONG_DATA.push(
   "artist": "Rainy。  [2025-12-25]  [rwTRmEDvB24]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=40",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1930,7 +1930,7 @@ window.SONG_DATA.push(
   "artist": "ReoNa  [2025-12-25]  [rwTRmEDvB24]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=41",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1938,7 +1938,7 @@ window.SONG_DATA.push(
   "artist": "黒崎真音  [2025-12-25]  [rwTRmEDvB24]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=42",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1946,7 +1946,7 @@ window.SONG_DATA.push(
   "artist": "Uru  [2025-12-25]  [rwTRmEDvB24]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=43",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1954,7 +1954,7 @@ window.SONG_DATA.push(
   "artist": "SawanoHiroyuki  [nZk]mizuki  [2025-12-25]  [rwTRmEDvB24]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=44",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1962,7 +1962,7 @@ window.SONG_DATA.push(
   "artist": "月詠み  [2025-12-25]  [rwTRmEDvB24]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=45",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1970,7 +1970,7 @@ window.SONG_DATA.push(
   "artist": "彩音  [2025-12-25]  [rwTRmEDvB24]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=46",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1978,7 +1978,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST  [2025-12-25]  [rwTRmEDvB24]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=47",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1986,7 +1986,7 @@ window.SONG_DATA.push(
   "artist": "FictionJunction YUUKA  [2025-12-25]  [rwTRmEDvB24]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=48",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -1994,7 +1994,7 @@ window.SONG_DATA.push(
   "artist": "やなぎなぎ  [2025-12-25]  [rwTRmEDvB24]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=49",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2002,7 +2002,7 @@ window.SONG_DATA.push(
   "artist": "Chevy  [2025-12-25]  [rwTRmEDvB24]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=50",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2010,7 +2010,7 @@ window.SONG_DATA.push(
   "artist": "Doriko  [2025-12-25]  [rwTRmEDvB24]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=51",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2018,7 +2018,7 @@ window.SONG_DATA.push(
   "artist": "Mrs. GREEN APPLE  [2025-12-25]  [rwTRmEDvB24]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=52",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2026,7 +2026,7 @@ window.SONG_DATA.push(
   "artist": "LiSA  [2025-12-25]  [rwTRmEDvB24]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=53",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2034,7 +2034,7 @@ window.SONG_DATA.push(
   "artist": "ReoNa  [2025-12-25]  [rwTRmEDvB24]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=54",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2042,7 +2042,7 @@ window.SONG_DATA.push(
   "artist": "ASCA  [2025-12-25]  [rwTRmEDvB24]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=55",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2050,7 +2050,7 @@ window.SONG_DATA.push(
   "artist": "T.M.Revolution  [2025-12-31]  [sEUzMCb7o-4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=56",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2058,7 +2058,7 @@ window.SONG_DATA.push(
   "artist": "alan  [2025-12-31]  [sEUzMCb7o-4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=57",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2066,7 +2066,7 @@ window.SONG_DATA.push(
   "artist": "Revo & 梶浦由記  [2025-12-31]  [sEUzMCb7o-4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=58",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2074,7 +2074,7 @@ window.SONG_DATA.push(
   "artist": "KOKIA  [2026-01-01]  [0pDvmCxhGrc]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=59",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2082,7 +2082,7 @@ window.SONG_DATA.push(
   "artist": "天野月子  [2026-01-01]  [0pDvmCxhGrc]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=60",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2090,7 +2090,7 @@ window.SONG_DATA.push(
   "artist": "黒崎真音  [2026-01-01]  [0pDvmCxhGrc]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=61",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2098,7 +2098,7 @@ window.SONG_DATA.push(
   "artist": "彩音  [2026-01-01]  [0pDvmCxhGrc]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=62",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2106,7 +2106,7 @@ window.SONG_DATA.push(
   "artist": "Kalafina  [2026-01-01]  [0pDvmCxhGrc]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=63",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2114,7 +2114,7 @@ window.SONG_DATA.push(
   "artist": "LiSA  [2026-01-01]  [0pDvmCxhGrc]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=64",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2122,7 +2122,7 @@ window.SONG_DATA.push(
   "artist": "Janne Da Arc  [2026-01-01]  [0pDvmCxhGrc]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=65",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2130,7 +2130,7 @@ window.SONG_DATA.push(
   "artist": "savage genius  [2026-01-01]  [0pDvmCxhGrc]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=66",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2138,7 +2138,7 @@ window.SONG_DATA.push(
   "artist": "放課後ティータイム  [2026-01-01]  [0pDvmCxhGrc]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=67",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2146,7 +2146,7 @@ window.SONG_DATA.push(
   "artist": "桜高軽音部  [2026-01-01]  [0pDvmCxhGrc]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=68",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2154,7 +2154,7 @@ window.SONG_DATA.push(
   "artist": "the brilliant green  [2026-01-01]  [0pDvmCxhGrc]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=69",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2162,7 +2162,7 @@ window.SONG_DATA.push(
   "artist": "岸田教団＆THE明星ロケッツ  [2026-01-01]  [0pDvmCxhGrc]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=70",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2170,7 +2170,7 @@ window.SONG_DATA.push(
   "artist": "やなぎなぎ  [2026-01-01]  [0pDvmCxhGrc]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=71",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2178,7 +2178,7 @@ window.SONG_DATA.push(
   "artist": "岸田教団&THE明星ロケッツ  [2026-01-01]  [0pDvmCxhGrc]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=72",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2186,7 +2186,7 @@ window.SONG_DATA.push(
   "artist": "やなぎなぎ  [2026-01-01]  [0pDvmCxhGrc]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=73",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2194,7 +2194,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST  [2026-01-01]  [0pDvmCxhGrc]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=74",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2202,7 +2202,7 @@ window.SONG_DATA.push(
   "artist": "麻枝准×やなぎなぎ  [2026-01-03]  [_Myg6vZCpSw]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=75",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2210,7 +2210,7 @@ window.SONG_DATA.push(
   "artist": "SPYAIR  [2026-01-03]  [_Myg6vZCpSw]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=76",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2218,7 +2218,7 @@ window.SONG_DATA.push(
   "artist": "LiSA  [2026-01-03]  [_Myg6vZCpSw]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=77",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2226,7 +2226,7 @@ window.SONG_DATA.push(
   "artist": "椎名豪 featuring 中川奈美  [2026-01-04]  [vj4DsnTuNZE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=78",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2234,7 +2234,7 @@ window.SONG_DATA.push(
   "artist": "ユナ(神田沙也加)  [2026-01-04]  [vj4DsnTuNZE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=79",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2242,7 +2242,7 @@ window.SONG_DATA.push(
   "artist": "藍井エイル  [2026-01-04]  [vj4DsnTuNZE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=80",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2250,7 +2250,7 @@ window.SONG_DATA.push(
   "artist": "水樹奈々  [2026-01-04]  [vj4DsnTuNZE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=81",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2258,7 +2258,7 @@ window.SONG_DATA.push(
   "artist": "KOTOKO  [2026-01-04]  [vj4DsnTuNZE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=82",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2266,7 +2266,7 @@ window.SONG_DATA.push(
   "artist": "水樹奈々  [2026-01-04]  [vj4DsnTuNZE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=83",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2274,7 +2274,7 @@ window.SONG_DATA.push(
   "artist": "Do As Infinity  [2026-01-04]  [vj4DsnTuNZE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=84",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2282,7 +2282,7 @@ window.SONG_DATA.push(
   "artist": "Do As Infinity  [2026-01-04]  [vj4DsnTuNZE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=85",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2290,7 +2290,7 @@ window.SONG_DATA.push(
   "artist": "LiSA  [2026-01-04]  [vj4DsnTuNZE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=86",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2298,7 +2298,7 @@ window.SONG_DATA.push(
   "artist": "女王蜂  [2026-01-04]  [vj4DsnTuNZE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=87",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2306,7 +2306,7 @@ window.SONG_DATA.push(
   "artist": "岸田教団&THE明星ロケッツ  [2026-01-04]  [vj4DsnTuNZE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=88",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2314,7 +2314,7 @@ window.SONG_DATA.push(
   "artist": "気多の巫女(戸松遥)  [2026-01-04]  [vj4DsnTuNZE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=89",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2322,7 +2322,7 @@ window.SONG_DATA.push(
   "artist": "Kalafina  [2026-01-04]  [vj4DsnTuNZE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=90",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2330,7 +2330,7 @@ window.SONG_DATA.push(
   "artist": "SCANDAL  [2026-01-04]  [vj4DsnTuNZE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=91",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2338,7 +2338,7 @@ window.SONG_DATA.push(
   "artist": "シユイ  [2026-01-04]  [vj4DsnTuNZE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=92",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2346,7 +2346,7 @@ window.SONG_DATA.push(
   "artist": "livetune adding Takuro Sugawara(from 9mm Parabellum Bullet)  [2026-01-",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=93",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2354,7 +2354,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST  [2026-01-04]  [vj4DsnTuNZE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=94",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2362,7 +2362,7 @@ window.SONG_DATA.push(
   "artist": "LiSA  [2026-01-04]  [vj4DsnTuNZE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=95",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2370,7 +2370,7 @@ window.SONG_DATA.push(
   "artist": "神崎エルザ starring ReoNa  [2026-01-04]  [vj4DsnTuNZE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=96",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2378,7 +2378,7 @@ window.SONG_DATA.push(
   "artist": "ワルキューレ  [2026-01-04]  [vj4DsnTuNZE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=97",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2386,7 +2386,7 @@ window.SONG_DATA.push(
   "artist": "JUNNA  [2026-01-04]  [vj4DsnTuNZE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=98",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2394,7 +2394,7 @@ window.SONG_DATA.push(
   "artist": "ロクデナシ  [2026-01-04]  [vj4DsnTuNZE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=99",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2402,7 +2402,7 @@ window.SONG_DATA.push(
   "artist": "TRUE   [2025-12-25]  [rwTRmEDvB24]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=100",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2410,7 +2410,7 @@ window.SONG_DATA.push(
   "artist": "神崎エルザ starring ReoNa  [2026-01-04]  [vj4DsnTuNZE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2418,7 +2418,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI  [2026-01-04]  [vj4DsnTuNZE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2426,7 +2426,7 @@ window.SONG_DATA.push(
   "artist": "Aimer  [2026-01-04]  [vj4DsnTuNZE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2434,7 +2434,7 @@ window.SONG_DATA.push(
   "artist": "Aimer  [2026-01-04]  [vj4DsnTuNZE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2442,7 +2442,7 @@ window.SONG_DATA.push(
   "artist": "LiSA  [2026-01-04]  [vj4DsnTuNZE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2450,7 +2450,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST  [2026-01-04]  [vj4DsnTuNZE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2458,7 +2458,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST  [2026-01-04]  [vj4DsnTuNZE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2466,7 +2466,7 @@ window.SONG_DATA.push(
   "artist": "阿良々木月火(井口裕香)  [2026-01-04]  [vj4DsnTuNZE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2474,7 +2474,7 @@ window.SONG_DATA.push(
   "artist": "ReoNa  [2026-01-11]  [BZvnzJhf39c]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2482,7 +2482,7 @@ window.SONG_DATA.push(
   "artist": "高橋瞳×BEAT CRUSADERS  [2026-01-11]  [BZvnzJhf39c]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2490,7 +2490,7 @@ window.SONG_DATA.push(
   "artist": "AKINO  [2026-01-11]  [BZvnzJhf39c]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2498,7 +2498,7 @@ window.SONG_DATA.push(
   "artist": "ReoNa  [2026-01-11]  [BZvnzJhf39c]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2506,7 +2506,7 @@ window.SONG_DATA.push(
   "artist": "鈴木このみ  [2026-01-11]  [BZvnzJhf39c]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2514,7 +2514,7 @@ window.SONG_DATA.push(
   "artist": "川田まみ  [2026-01-11]  [BZvnzJhf39c]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2522,7 +2522,7 @@ window.SONG_DATA.push(
   "artist": "LiSA  [2026-01-11]  [BZvnzJhf39c]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2530,7 +2530,7 @@ window.SONG_DATA.push(
   "artist": "Kalafina  [2026-01-11]  [BZvnzJhf39c]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2538,7 +2538,7 @@ window.SONG_DATA.push(
   "artist": "綾野ましろ  [2026-01-11]  [BZvnzJhf39c]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=17",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2546,7 +2546,7 @@ window.SONG_DATA.push(
   "artist": "春奈るな  [2026-01-11]  [BZvnzJhf39c]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=18",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2554,7 +2554,7 @@ window.SONG_DATA.push(
   "artist": "Kalafina  [2026-01-11]  [BZvnzJhf39c]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=19",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2562,7 +2562,7 @@ window.SONG_DATA.push(
   "artist": "タイナカサチ  [2026-01-11]  [BZvnzJhf39c]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=20",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2570,7 +2570,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST  [2026-01-11]  [BZvnzJhf39c]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=21",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2578,7 +2578,7 @@ window.SONG_DATA.push(
   "artist": "LiSA  [2026-01-11]  [BZvnzJhf39c]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=22",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2586,7 +2586,7 @@ window.SONG_DATA.push(
   "artist": "藍井エイル  [2026-01-11]  [BZvnzJhf39c]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=23",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2594,7 +2594,7 @@ window.SONG_DATA.push(
   "artist": "TK from 凛として時雨  [2026-01-11]  [BZvnzJhf39c]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=24",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2602,7 +2602,7 @@ window.SONG_DATA.push(
   "artist": "やなぎなぎ  [2026-01-11]  [BZvnzJhf39c]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=25",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2610,7 +2610,7 @@ window.SONG_DATA.push(
   "artist": "TK from 凛として時雨  [2026-01-11]  [BZvnzJhf39c]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=26",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2618,7 +2618,7 @@ window.SONG_DATA.push(
   "artist": "蓮花  [2026-01-11]  [BZvnzJhf39c]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=27",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2626,7 +2626,7 @@ window.SONG_DATA.push(
   "artist": "さユり  [2026-01-11]  [BZvnzJhf39c]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=28",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2634,7 +2634,7 @@ window.SONG_DATA.push(
   "artist": "やなぎなぎ  [2026-01-11]  [BZvnzJhf39c]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=29",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2642,7 +2642,7 @@ window.SONG_DATA.push(
   "artist": "Do As Infinity  [2026-01-18]  [puHbLe8RkRE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=30",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2650,7 +2650,7 @@ window.SONG_DATA.push(
   "artist": "平野綾  [2026-01-18]  [puHbLe8RkRE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=31",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2658,7 +2658,7 @@ window.SONG_DATA.push(
   "artist": "fripSide  [2026-01-18]  [puHbLe8RkRE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=32",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2666,7 +2666,7 @@ window.SONG_DATA.push(
   "artist": "藍井エイル  [2026-01-18]  [puHbLe8RkRE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=33",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2674,7 +2674,7 @@ window.SONG_DATA.push(
   "artist": "Aimer  [2026-01-18]  [puHbLe8RkRE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=34",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2682,7 +2682,7 @@ window.SONG_DATA.push(
   "artist": "まふまふ  [2026-01-18]  [puHbLe8RkRE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=35",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2690,7 +2690,7 @@ window.SONG_DATA.push(
   "artist": "Aimer  [2026-01-18]  [puHbLe8RkRE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=36",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2698,7 +2698,7 @@ window.SONG_DATA.push(
   "artist": "水樹奈々  [2026-01-18]  [puHbLe8RkRE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=37",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2706,7 +2706,7 @@ window.SONG_DATA.push(
   "artist": "玉置成実  [2026-01-18]  [puHbLe8RkRE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=38",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2714,7 +2714,7 @@ window.SONG_DATA.push(
   "artist": "玉置成実  [2026-01-18]  [puHbLe8RkRE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=39",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2722,7 +2722,7 @@ window.SONG_DATA.push(
   "artist": "亜咲花  [2026-01-18]  [puHbLe8RkRE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=40",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2730,7 +2730,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI  [2026-01-18]  [puHbLe8RkRE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=41",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2738,7 +2738,7 @@ window.SONG_DATA.push(
   "artist": "坂本真綾  [2026-01-18]  [puHbLe8RkRE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=42",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2746,7 +2746,7 @@ window.SONG_DATA.push(
   "artist": "FictionJunction  [2026-01-18]  [puHbLe8RkRE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=43",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2754,7 +2754,7 @@ window.SONG_DATA.push(
   "artist": "YUI  [2026-01-18]  [puHbLe8RkRE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=44",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2762,7 +2762,7 @@ window.SONG_DATA.push(
   "artist": "鈴木このみ  [2026-01-18]  [puHbLe8RkRE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=45",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2770,7 +2770,7 @@ window.SONG_DATA.push(
   "artist": "高橋瞳  [2026-01-18]  [puHbLe8RkRE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=46",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2778,7 +2778,7 @@ window.SONG_DATA.push(
   "artist": "ミーア・キャンベル(田中理恵)  [2026-01-18]  [puHbLe8RkRE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=47",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2786,7 +2786,7 @@ window.SONG_DATA.push(
   "artist": "ReoNa  [2026-01-18]  [puHbLe8RkRE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=48",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2794,7 +2794,7 @@ window.SONG_DATA.push(
   "artist": "ワルキューレ  [2026-01-18]  [puHbLe8RkRE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=49",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2802,7 +2802,7 @@ window.SONG_DATA.push(
   "artist": "ワルキューレ  [2026-01-18]  [puHbLe8RkRE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=50",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2810,7 +2810,7 @@ window.SONG_DATA.push(
   "artist": "ClariS  [2026-01-18]  [puHbLe8RkRE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=51",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2818,7 +2818,7 @@ window.SONG_DATA.push(
   "artist": "妖夢討伐隊  [2026-01-18]  [puHbLe8RkRE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=52",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2826,7 +2826,7 @@ window.SONG_DATA.push(
   "artist": "supercell  [2026-01-24]  [XxF50-VpTqg]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=53",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2834,7 +2834,7 @@ window.SONG_DATA.push(
   "artist": "林原めぐみ  [2026-01-24]  [XxF50-VpTqg]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=54",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2842,7 +2842,7 @@ window.SONG_DATA.push(
   "artist": "ClariS  [2026-01-24]  [XxF50-VpTqg]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=55",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2850,7 +2850,7 @@ window.SONG_DATA.push(
   "artist": "藍井エイル  [2026-01-24]  [XxF50-VpTqg]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=56",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2858,7 +2858,7 @@ window.SONG_DATA.push(
   "artist": "Dios  [2026-01-24]  [XxF50-VpTqg]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=57",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2866,7 +2866,7 @@ window.SONG_DATA.push(
   "artist": "DOES  [2026-01-24]  [XxF50-VpTqg]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=58",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2874,7 +2874,7 @@ window.SONG_DATA.push(
   "artist": "藍井エイル  [2026-01-24]  [XxF50-VpTqg]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=59",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2882,7 +2882,7 @@ window.SONG_DATA.push(
   "artist": "水樹奈々  [2026-01-24]  [XxF50-VpTqg]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=60",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2890,7 +2890,7 @@ window.SONG_DATA.push(
   "artist": "LiSA  [2026-01-24]  [XxF50-VpTqg]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=61",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2898,7 +2898,7 @@ window.SONG_DATA.push(
   "artist": "さユり  [2026-01-24]  [XxF50-VpTqg]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=62",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2906,7 +2906,7 @@ window.SONG_DATA.push(
   "artist": "ヴィヴィ(八木海莉)  [2026-01-24]  [XxF50-VpTqg]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=63",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2914,7 +2914,7 @@ window.SONG_DATA.push(
   "artist": "鈴木このみ  [2026-01-24]  [XxF50-VpTqg]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=64",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2922,7 +2922,7 @@ window.SONG_DATA.push(
   "artist": "Do As Infinity  [2026-01-24]  [XxF50-VpTqg]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=65",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2930,7 +2930,7 @@ window.SONG_DATA.push(
   "artist": "fripSide  [2026-01-24]  [XxF50-VpTqg]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=66",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2938,7 +2938,7 @@ window.SONG_DATA.push(
   "artist": "LiSA  [2026-01-24]  [XxF50-VpTqg]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=67",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2946,7 +2946,7 @@ window.SONG_DATA.push(
   "artist": "水樹奈々  [2026-01-24]  [XxF50-VpTqg]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=68",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2954,7 +2954,7 @@ window.SONG_DATA.push(
   "artist": "水樹奈々  [2026-01-24]  [XxF50-VpTqg]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=69",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2962,7 +2962,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST  [2026-01-24]  [XxF50-VpTqg]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=70",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2970,7 +2970,7 @@ window.SONG_DATA.push(
   "artist": "supercell  [2026-01-24]  [XxF50-VpTqg]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=71",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2978,7 +2978,7 @@ window.SONG_DATA.push(
   "artist": "トラボルタ  [2026-02-01]  [9vaL3yrSRUY]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=72",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2986,7 +2986,7 @@ window.SONG_DATA.push(
   "artist": "楠木ともり  [2026-02-01]  [9vaL3yrSRUY]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=73",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -2994,7 +2994,7 @@ window.SONG_DATA.push(
   "artist": "Faylan  [2026-02-01]  [9vaL3yrSRUY]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=74",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3002,7 +3002,7 @@ window.SONG_DATA.push(
   "artist": "水樹奈々  [2026-02-01]  [9vaL3yrSRUY]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=75",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3010,7 +3010,7 @@ window.SONG_DATA.push(
   "artist": "LiSA  [2026-02-01]  [9vaL3yrSRUY]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=76",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3018,7 +3018,7 @@ window.SONG_DATA.push(
   "artist": "鈴木このみ  [2026-02-01]  [9vaL3yrSRUY]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=77",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3026,7 +3026,7 @@ window.SONG_DATA.push(
   "artist": "BONNIE PINK  [2026-02-01]  [9vaL3yrSRUY]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=78",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3034,7 +3034,7 @@ window.SONG_DATA.push(
   "artist": "水樹奈々  [2026-02-01]  [9vaL3yrSRUY]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=79",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3042,7 +3042,7 @@ window.SONG_DATA.push(
   "artist": "FictionJunction feat. LiSA  [2026-02-01]  [9vaL3yrSRUY]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=80",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3050,7 +3050,7 @@ window.SONG_DATA.push(
   "artist": "yama  [2026-02-01]  [9vaL3yrSRUY]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=81",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3058,7 +3058,7 @@ window.SONG_DATA.push(
   "artist": "SawanoHiroyuki  [nZk]Tielle&Gemie  [2026-02-01]  [9vaL3yrSRUY]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=82",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3066,7 +3066,7 @@ window.SONG_DATA.push(
   "artist": "岸田教団＆THE明星ロケッツ  [2026-02-01]  [9vaL3yrSRUY]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=83",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3074,7 +3074,7 @@ window.SONG_DATA.push(
   "artist": "LiSA  [2026-02-01]  [9vaL3yrSRUY]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=84",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3082,7 +3082,7 @@ window.SONG_DATA.push(
   "artist": "天野月子  [2026-02-01]  [9vaL3yrSRUY]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=85",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3090,7 +3090,7 @@ window.SONG_DATA.push(
   "artist": "天野月子  [2026-02-01]  [9vaL3yrSRUY]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=86",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3098,7 +3098,7 @@ window.SONG_DATA.push(
   "artist": "天野月  [2026-02-01]  [9vaL3yrSRUY]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=87",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3106,7 +3106,7 @@ window.SONG_DATA.push(
   "artist": "天野月子  [2026-02-01]  [9vaL3yrSRUY]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=88",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3114,7 +3114,7 @@ window.SONG_DATA.push(
   "artist": "シャノン  [2026-02-01]  [9vaL3yrSRUY]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=89",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3122,7 +3122,7 @@ window.SONG_DATA.push(
   "artist": "Doriko  [2026-02-01]  [9vaL3yrSRUY]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=90",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3130,7 +3130,7 @@ window.SONG_DATA.push(
   "artist": "Tommy heavenly6  [2026-02-01]  [9vaL3yrSRUY]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=91",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3138,7 +3138,7 @@ window.SONG_DATA.push(
   "artist": "坂本真綾  [2026-02-08]  [w7-IBbFnmy0]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=92",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3146,7 +3146,7 @@ window.SONG_DATA.push(
   "artist": "水樹奈々  [2026-02-08]  [w7-IBbFnmy0]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=93",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3154,7 +3154,7 @@ window.SONG_DATA.push(
   "artist": "LiSA  [2026-02-08]  [w7-IBbFnmy0]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=94",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3162,7 +3162,7 @@ window.SONG_DATA.push(
   "artist": "μ's  [2026-02-08]  [w7-IBbFnmy0]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=95",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3170,7 +3170,7 @@ window.SONG_DATA.push(
   "artist": "水樹奈々  [2026-02-08]  [w7-IBbFnmy0]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=96",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3178,7 +3178,7 @@ window.SONG_DATA.push(
   "artist": "巡音ルカ samfree  [2025-12-25]  [tprHmEiSFEI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3186,7 +3186,7 @@ window.SONG_DATA.push(
   "artist": "ステファニー  [2025-12-25]  [tprHmEiSFEI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3194,7 +3194,7 @@ window.SONG_DATA.push(
   "artist": "涼宮ハルヒ(平野綾)  [2025-12-25]  [tprHmEiSFEI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3202,7 +3202,7 @@ window.SONG_DATA.push(
   "artist": "40mP  [2025-12-25]  [tprHmEiSFEI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3210,7 +3210,7 @@ window.SONG_DATA.push(
   "artist": "doriko  [2025-12-25]  [tprHmEiSFEI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3218,7 +3218,7 @@ window.SONG_DATA.push(
   "artist": "流星P  [2025-12-25]  [tprHmEiSFEI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3226,7 +3226,7 @@ window.SONG_DATA.push(
   "artist": "のりぴー  [2025-12-25]  [tprHmEiSFEI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3234,7 +3234,7 @@ window.SONG_DATA.push(
   "artist": "supercell  [2025-12-25]  [tprHmEiSFEI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3242,7 +3242,7 @@ window.SONG_DATA.push(
   "artist": "CHiCO with HoneyWorks  [2025-12-25]  [tprHmEiSFEI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3250,7 +3250,7 @@ window.SONG_DATA.push(
   "artist": "Buono!  [2025-12-25]  [tprHmEiSFEI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3258,7 +3258,7 @@ window.SONG_DATA.push(
   "artist": "CULUA  [2025-12-29]  [4RMYxZUG_Rc]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3266,7 +3266,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。  [2025-12-29]  [4RMYxZUG_Rc]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3274,7 +3274,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。  [2025-12-29]  [4RMYxZUG_Rc]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3282,7 +3282,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI  [2025-12-29]  [4RMYxZUG_Rc]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3290,7 +3290,7 @@ window.SONG_DATA.push(
   "artist": "CULUA  [2025-12-29]  [4RMYxZUG_Rc]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3298,7 +3298,7 @@ window.SONG_DATA.push(
   "artist": "日食なつこ  [2025-12-29]  [4RMYxZUG_Rc]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3306,7 +3306,7 @@ window.SONG_DATA.push(
   "artist": "DUSTCELL  [2025-12-29]  [4RMYxZUG_Rc]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=17",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3314,7 +3314,7 @@ window.SONG_DATA.push(
   "artist": "CULUA  [2025-12-29]  [4RMYxZUG_Rc]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=18",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3322,7 +3322,7 @@ window.SONG_DATA.push(
   "artist": "じん  [2025-12-29]  [4RMYxZUG_Rc]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=19",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3330,7 +3330,7 @@ window.SONG_DATA.push(
   "artist": "CULUA  [2025-12-29]  [4RMYxZUG_Rc]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=20",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3338,7 +3338,7 @@ window.SONG_DATA.push(
   "artist": "CULUA  [2025-12-29]  [4RMYxZUG_Rc]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=21",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3346,7 +3346,7 @@ window.SONG_DATA.push(
   "artist": "M!LK  [2026-01-01]  [cK30POeTNT4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=22",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3354,7 +3354,7 @@ window.SONG_DATA.push(
   "artist": "Creepy Nuts  [2026-01-01]  [cK30POeTNT4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=23",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3362,7 +3362,7 @@ window.SONG_DATA.push(
   "artist": "まふまふ  [2026-01-01]  [cK30POeTNT4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=24",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3370,7 +3370,7 @@ window.SONG_DATA.push(
   "artist": "Such  [2026-01-01]  [cK30POeTNT4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=25",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3378,7 +3378,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい  [2026-01-01]  [cK30POeTNT4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=26",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3386,7 +3386,7 @@ window.SONG_DATA.push(
   "artist": "MAISONdes  [2026-01-01]  [cK30POeTNT4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=27",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3394,7 +3394,7 @@ window.SONG_DATA.push(
   "artist": "花譜  [2026-01-01]  [cK30POeTNT4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=28",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3402,7 +3402,7 @@ window.SONG_DATA.push(
   "artist": "みきとP  [2026-01-01]  [cK30POeTNT4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=29",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3410,7 +3410,7 @@ window.SONG_DATA.push(
   "artist": "柊マグネタイト  [2026-01-01]  [cK30POeTNT4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=30",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3418,7 +3418,7 @@ window.SONG_DATA.push(
   "artist": "重音テト  [2026-01-01]  [cK30POeTNT4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=31",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3426,7 +3426,7 @@ window.SONG_DATA.push(
   "artist": "放課後ティータイム  [2026-01-01]  [cK30POeTNT4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=32",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3434,7 +3434,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。  [2026-01-01]  [cK30POeTNT4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=33",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3442,7 +3442,7 @@ window.SONG_DATA.push(
   "artist": "Belle  [2026-01-12]  [jkgV4HC9SEM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=34",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3450,7 +3450,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST  [2026-01-12]  [jkgV4HC9SEM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=35",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3458,7 +3458,7 @@ window.SONG_DATA.push(
   "artist": "Cö shu Nie  [2026-01-12]  [jkgV4HC9SEM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=36",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3466,7 +3466,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST  [2026-01-12]  [jkgV4HC9SEM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=37",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3474,7 +3474,7 @@ window.SONG_DATA.push(
   "artist": "Eight  [2026-01-12]  [jkgV4HC9SEM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=38",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3482,7 +3482,7 @@ window.SONG_DATA.push(
   "artist": "164  [2026-01-12]  [jkgV4HC9SEM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=39",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3490,7 +3490,7 @@ window.SONG_DATA.push(
   "artist": "傘村トータ  [2026-01-12]  [jkgV4HC9SEM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=40",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3498,7 +3498,7 @@ window.SONG_DATA.push(
   "artist": "25時、ナイトコードで。  [2026-01-12]  [jkgV4HC9SEM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=41",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3506,7 +3506,7 @@ window.SONG_DATA.push(
   "artist": "傘村トータ  [2026-01-12]  [jkgV4HC9SEM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=42",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3514,7 +3514,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST  [2026-01-12]  [jkgV4HC9SEM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=43",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3522,7 +3522,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。  [2026-01-14]  [iuMxbeWf3V4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=44",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3530,7 +3530,7 @@ window.SONG_DATA.push(
   "artist": "25時、ナイトコードで。  [2026-01-14]  [iuMxbeWf3V4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=45",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3538,7 +3538,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ  [2026-01-14]  [iuMxbeWf3V4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=46",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3546,7 +3546,7 @@ window.SONG_DATA.push(
   "artist": "CULUA  [2026-01-14]  [iuMxbeWf3V4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=47",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3554,7 +3554,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。  [2026-01-14]  [iuMxbeWf3V4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=48",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3562,7 +3562,7 @@ window.SONG_DATA.push(
   "artist": "V.W.P  [2026-01-14]  [iuMxbeWf3V4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=49",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3570,7 +3570,7 @@ window.SONG_DATA.push(
   "artist": "カンザキイオリ  [2026-01-14]  [iuMxbeWf3V4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=50",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3578,7 +3578,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI  [2026-01-14]  [iuMxbeWf3V4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=51",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3586,7 +3586,7 @@ window.SONG_DATA.push(
   "artist": "月村手毬  [2026-01-14]  [iuMxbeWf3V4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=52",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3594,7 +3594,7 @@ window.SONG_DATA.push(
   "artist": "ウォルピスカーター  [2026-01-14]  [iuMxbeWf3V4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=53",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3602,7 +3602,7 @@ window.SONG_DATA.push(
   "artist": "DAOKO x 米津玄師  [2026-01-15]  [ezzNa8GG_ks]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=54",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3610,7 +3610,7 @@ window.SONG_DATA.push(
   "artist": "miwa  [2026-01-15]  [ezzNa8GG_ks]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=55",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3618,7 +3618,7 @@ window.SONG_DATA.push(
   "artist": "家入レオ  [2026-01-15]  [ezzNa8GG_ks]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=56",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3626,7 +3626,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ  [2026-01-15]  [ezzNa8GG_ks]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=57",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3634,7 +3634,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI  [2026-01-15]  [ezzNa8GG_ks]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=58",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3642,7 +3642,7 @@ window.SONG_DATA.push(
   "artist": "優里  [2026-01-15]  [ezzNa8GG_ks]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=59",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3650,7 +3650,7 @@ window.SONG_DATA.push(
   "artist": "RADWIMPS  [2026-01-15]  [ezzNa8GG_ks]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=60",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3658,7 +3658,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師  [2026-01-15]  [ezzNa8GG_ks]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=61",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3666,7 +3666,7 @@ window.SONG_DATA.push(
   "artist": "ちゃんみな  [2026-01-15]  [ezzNa8GG_ks]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=62",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3674,7 +3674,7 @@ window.SONG_DATA.push(
   "artist": "supercell  [2026-01-15]  [ezzNa8GG_ks]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=63",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3682,7 +3682,7 @@ window.SONG_DATA.push(
   "artist": "Aimer  [2026-01-15]  [ezzNa8GG_ks]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=64",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3690,7 +3690,7 @@ window.SONG_DATA.push(
   "artist": "M2U x ダズビー  [2026-01-15]  [ezzNa8GG_ks]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=65",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3698,7 +3698,7 @@ window.SONG_DATA.push(
   "artist": "40mP_sub  [2026-01-18]  [YWmKLCc8D5w]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=66",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3706,7 +3706,7 @@ window.SONG_DATA.push(
   "artist": "40mP  [2026-01-18]  [YWmKLCc8D5w]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=67",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3714,7 +3714,7 @@ window.SONG_DATA.push(
   "artist": "みきとP  [2026-01-18]  [YWmKLCc8D5w]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=68",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3722,7 +3722,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。  [2026-01-18]  [YWmKLCc8D5w]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=69",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3730,7 +3730,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ  [2026-01-18]  [YWmKLCc8D5w]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=70",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3738,7 +3738,7 @@ window.SONG_DATA.push(
   "artist": "1e1  [2026-01-18]  [YWmKLCc8D5w]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=71",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3746,7 +3746,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。  [2026-01-18]  [YWmKLCc8D5w]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=72",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3754,7 +3754,7 @@ window.SONG_DATA.push(
   "artist": "GUMI  [2026-01-18]  [YWmKLCc8D5w]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=73",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3762,7 +3762,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師  [2026-01-18]  [YWmKLCc8D5w]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=74",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3770,7 +3770,7 @@ window.SONG_DATA.push(
   "artist": "doriko  [2026-01-18]  [YWmKLCc8D5w]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=75",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3778,7 +3778,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ  [2026-01-18]  [YWmKLCc8D5w]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=76",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3786,7 +3786,7 @@ window.SONG_DATA.push(
   "artist": "Junky feat.鏡音リン  [2026-01-18]  [YWmKLCc8D5w]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=77",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3794,7 +3794,7 @@ window.SONG_DATA.push(
   "artist": "40mP  [2026-01-22]  [aaFwQNDqX50]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=78",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3802,7 +3802,7 @@ window.SONG_DATA.push(
   "artist": "ポリスピカデリー  [2026-01-22]  [aaFwQNDqX50]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=79",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3810,7 +3810,7 @@ window.SONG_DATA.push(
   "artist": "てにをは  [2026-01-22]  [aaFwQNDqX50]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=80",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3818,7 +3818,7 @@ window.SONG_DATA.push(
   "artist": "DECO27  [2026-01-22]  [aaFwQNDqX50]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=81",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3826,7 +3826,7 @@ window.SONG_DATA.push(
   "artist": "Neru  [2026-01-22]  [aaFwQNDqX50]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=82",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3834,7 +3834,7 @@ window.SONG_DATA.push(
   "artist": "葵木ゴウ  [2026-01-22]  [aaFwQNDqX50]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=83",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3842,7 +3842,7 @@ window.SONG_DATA.push(
   "artist": "葵木ゴウ  [2026-01-22]  [aaFwQNDqX50]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=84",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3850,7 +3850,7 @@ window.SONG_DATA.push(
   "artist": "椎名もた  [2026-01-22]  [aaFwQNDqX50]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=85",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3858,7 +3858,7 @@ window.SONG_DATA.push(
   "artist": "椎名もた  [2026-01-22]  [aaFwQNDqX50]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=86",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3866,7 +3866,7 @@ window.SONG_DATA.push(
   "artist": "Guiano  [2026-01-22]  [aaFwQNDqX50]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=87",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3874,7 +3874,7 @@ window.SONG_DATA.push(
   "artist": "一二三  [2026-01-22]  [aaFwQNDqX50]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=88",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3882,7 +3882,7 @@ window.SONG_DATA.push(
   "artist": "Neru  [2026-01-22]  [aaFwQNDqX50]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=89",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3890,7 +3890,7 @@ window.SONG_DATA.push(
   "artist": "Neru  [2026-01-22]  [aaFwQNDqX50]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=90",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3898,7 +3898,7 @@ window.SONG_DATA.push(
   "artist": "クワガタP  [2026-01-22]  [aaFwQNDqX50]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=91",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3906,7 +3906,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ  [2026-01-19]  [BvaIEhz_PYI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=92",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3914,7 +3914,7 @@ window.SONG_DATA.push(
   "artist": "King Gnu  [2026-01-19]  [BvaIEhz_PYI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=93",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3922,7 +3922,7 @@ window.SONG_DATA.push(
   "artist": "ピコン  [2026-01-19]  [BvaIEhz_PYI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=94",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3930,7 +3930,7 @@ window.SONG_DATA.push(
   "artist": "Aimer  [2026-01-19]  [BvaIEhz_PYI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=95",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3938,7 +3938,7 @@ window.SONG_DATA.push(
   "artist": "清竜人  [2026-01-19]  [BvaIEhz_PYI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=96",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3946,7 +3946,7 @@ window.SONG_DATA.push(
   "artist": "ナノウ  [2026-01-19]  [BvaIEhz_PYI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=97",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3954,7 +3954,7 @@ window.SONG_DATA.push(
   "artist": "ryo  [2026-01-19]  [BvaIEhz_PYI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=98",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3962,7 +3962,7 @@ window.SONG_DATA.push(
   "artist": "蝶々P  [2026-01-19]  [BvaIEhz_PYI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=99",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3970,7 +3970,7 @@ window.SONG_DATA.push(
   "artist": "花譜  [2026-01-19]  [BvaIEhz_PYI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=100",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3978,7 +3978,7 @@ window.SONG_DATA.push(
   "artist": "Aqu3ra  [2026-01-19]  [BvaIEhz_PYI]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=101",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3986,7 +3986,7 @@ window.SONG_DATA.push(
   "artist": "なとり  [2026-01-26]  [EF7j0uBI9HM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=102",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -3994,7 +3994,7 @@ window.SONG_DATA.push(
   "artist": "相対性理論  [2026-01-26]  [EF7j0uBI9HM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=103",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4002,7 +4002,7 @@ window.SONG_DATA.push(
   "artist": "相対性理論  [2026-01-26]  [EF7j0uBI9HM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=104",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4010,7 +4010,7 @@ window.SONG_DATA.push(
   "artist": "MAISONdes  [2026-01-26]  [EF7j0uBI9HM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=105",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4018,7 +4018,7 @@ window.SONG_DATA.push(
   "artist": "さとうもか  [2026-01-26]  [EF7j0uBI9HM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=106",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4026,7 +4026,7 @@ window.SONG_DATA.push(
   "artist": "チョーキューメイ  [2026-01-26]  [EF7j0uBI9HM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=107",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4034,7 +4034,7 @@ window.SONG_DATA.push(
   "artist": "和ぬか  [2026-01-26]  [EF7j0uBI9HM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=108",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4042,7 +4042,7 @@ window.SONG_DATA.push(
   "artist": "YUI  [2026-01-26]  [EF7j0uBI9HM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=109",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4050,7 +4050,7 @@ window.SONG_DATA.push(
   "artist": "YUI  [2026-01-26]  [EF7j0uBI9HM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=110",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4058,7 +4058,7 @@ window.SONG_DATA.push(
   "artist": "ジェニーハイ  [2026-01-26]  [EF7j0uBI9HM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=111",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4066,7 +4066,7 @@ window.SONG_DATA.push(
   "artist": "ジェニーハイ  [2026-01-26]  [EF7j0uBI9HM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=112",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4074,7 +4074,7 @@ window.SONG_DATA.push(
   "artist": "椎名林檎  [2026-01-26]  [EF7j0uBI9HM]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=113",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4082,7 +4082,7 @@ window.SONG_DATA.push(
   "artist": "ウマ娘  [2026-01-29]  [zaDTmoxZ9wY]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=114",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4090,7 +4090,7 @@ window.SONG_DATA.push(
   "artist": "ST☆RISH  [2026-01-29]  [zaDTmoxZ9wY]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=115",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4098,7 +4098,7 @@ window.SONG_DATA.push(
   "artist": "ST☆RISH  [2026-01-29]  [zaDTmoxZ9wY]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=116",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4106,7 +4106,7 @@ window.SONG_DATA.push(
   "artist": "M!LK  [2026-01-29]  [zaDTmoxZ9wY]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=117",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4114,7 +4114,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI  [2026-01-29]  [zaDTmoxZ9wY]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=118",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4122,7 +4122,7 @@ window.SONG_DATA.push(
   "artist": "Creepy Nuts  [2026-01-29]  [zaDTmoxZ9wY]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=119",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4130,7 +4130,7 @@ window.SONG_DATA.push(
   "artist": "Division All Stars  [2026-01-29]  [zaDTmo",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=120",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4138,7 +4138,7 @@ window.SONG_DATA.push(
   "artist": "Giga  [2026-01-29]  [zaDTmoxZ9wY]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=121",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4146,7 +4146,7 @@ window.SONG_DATA.push(
   "artist": "Giga  [2026-01-29]  [zaDTmoxZ9wY]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=122",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4154,7 +4154,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。  [2026-01-29]  [zaDTmoxZ9wY]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=123",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4162,7 +4162,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。  [2026-01-29]  [zaDTmoxZ9wY]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=124",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4170,7 +4170,7 @@ window.SONG_DATA.push(
   "artist": "UNISON SQUARE GARDEN  [2026-01-29]  [zaDTmoxZ9wY]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=125",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4178,7 +4178,7 @@ window.SONG_DATA.push(
   "artist": "花譜×ツミキ  [2026-01-29]  [zaDTmoxZ9wY]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=126",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4186,7 +4186,7 @@ window.SONG_DATA.push(
   "artist": "じん  [2026-02-02]  [u15PJkKbZoE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=127",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4194,7 +4194,7 @@ window.SONG_DATA.push(
   "artist": "n-buna  [2026-02-02]  [u15PJkKbZoE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=128",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4202,7 +4202,7 @@ window.SONG_DATA.push(
   "artist": "和田たけあき  [2026-02-02]  [u15PJkKbZoE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=129",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4210,7 +4210,7 @@ window.SONG_DATA.push(
   "artist": "みきとP  [2026-02-02]  [u15PJkKbZoE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=130",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4218,7 +4218,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ  [2026-02-02]  [u15PJkKbZoE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=131",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4226,7 +4226,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ  [2026-02-02]  [u15PJkKbZoE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=132",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4234,7 +4234,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ  [2026-02-02]  [u15PJkKbZoE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=133",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4242,7 +4242,7 @@ window.SONG_DATA.push(
   "artist": "カンザキイオリ  [2026-02-02]  [u15PJkKbZoE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=134",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4250,7 +4250,7 @@ window.SONG_DATA.push(
   "artist": "クリープハイプ  [2026-02-02]  [u15PJkKbZoE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=135",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4258,7 +4258,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ  [2026-02-02]  [u15PJkKbZoE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=136",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4266,7 +4266,7 @@ window.SONG_DATA.push(
   "artist": "King Gnu  [2026-02-02]  [u15PJkKbZoE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=137",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4274,7 +4274,7 @@ window.SONG_DATA.push(
   "artist": "tuki.  [2026-02-02]  [u15PJkKbZoE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=138",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4282,7 +4282,7 @@ window.SONG_DATA.push(
   "artist": "Orangestar  [2026-02-02]  [u15PJkKbZoE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=139",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4290,7 +4290,7 @@ window.SONG_DATA.push(
   "artist": "高橋洋子  [2026-02-05]  [Ce2q-Rm5wV4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=140",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4298,7 +4298,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師  [2026-02-05]  [Ce2q-Rm5wV4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=141",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4306,7 +4306,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師  [2026-02-05]  [Ce2q-Rm5wV4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=142",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4314,7 +4314,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI  [2026-02-05]  [Ce2q-Rm5wV4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=143",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4322,7 +4322,7 @@ window.SONG_DATA.push(
   "artist": "Ado  [2026-02-05]  [Ce2q-Rm5wV4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=144",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4330,7 +4330,7 @@ window.SONG_DATA.push(
   "artist": "Aimer  [2026-02-05]  [Ce2q-Rm5wV4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=145",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4338,7 +4338,7 @@ window.SONG_DATA.push(
   "artist": "ReoNa  [2026-02-05]  [Ce2q-Rm5wV4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=146",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4346,7 +4346,7 @@ window.SONG_DATA.push(
   "artist": "ALI PROJECT  [2026-02-05]  [Ce2q-Rm5wV4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=147",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4354,7 +4354,7 @@ window.SONG_DATA.push(
   "artist": "ALI PROJECT  [2026-02-05]  [Ce2q-Rm5wV4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=148",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4362,7 +4362,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST  [2026-02-05]  [Ce2q-Rm5wV4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=149",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4370,7 +4370,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST  [2026-02-05]  [Ce2q-Rm5wV4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=150",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4378,7 +4378,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル、米津玄師  [2026-02-05]  [Ce2q-Rm5wV4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=151",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4386,7 +4386,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。  [2026-02-10]  [p3VOpFmxC_4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=152",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4394,7 +4394,7 @@ window.SONG_DATA.push(
   "artist": "DECO27  [2026-02-10]  [p3VOpFmxC_4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=153",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4402,7 +4402,7 @@ window.SONG_DATA.push(
   "artist": "DECO27  [2026-02-10]  [p3VOpFmxC_4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=154",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4410,7 +4410,7 @@ window.SONG_DATA.push(
   "artist": "YUI  [2026-02-10]  [p3VOpFmxC_4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=155",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4418,7 +4418,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。  [2026-02-10]  [p3VOpFmxC_4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=156",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4426,7 +4426,7 @@ window.SONG_DATA.push(
   "artist": "wowaka  [2026-02-10]  [p3VOpFmxC_4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=157",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4434,7 +4434,7 @@ window.SONG_DATA.push(
   "artist": "美波  [2026-02-10]  [p3VOpFmxC_4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=158",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4442,7 +4442,7 @@ window.SONG_DATA.push(
   "artist": "Ado  [2026-02-10]  [p3VOpFmxC_4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=159",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4450,7 +4450,7 @@ window.SONG_DATA.push(
   "artist": "Ado  [2026-02-10]  [p3VOpFmxC_4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=160",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4458,7 +4458,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。  [2026-02-10]  [p3VOpFmxC_4]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=161",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4466,7 +4466,7 @@ window.SONG_DATA.push(
   "artist": "DECO27  [2026-02-12]  [2AklhIDoLGE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=162",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4474,7 +4474,7 @@ window.SONG_DATA.push(
   "artist": "ゴジマジP  [2026-02-12]  [2AklhIDoLGE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=163",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4482,7 +4482,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい  [2026-02-12]  [2AklhIDoLGE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=164",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4490,7 +4490,7 @@ window.SONG_DATA.push(
   "artist": "ryo  [2026-02-12]  [2AklhIDoLGE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=165",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4498,7 +4498,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI  [2026-02-12]  [2AklhIDoLGE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=166",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4506,7 +4506,7 @@ window.SONG_DATA.push(
   "artist": "Eight  [2026-02-12]  [2AklhIDoLGE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=167",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4514,7 +4514,7 @@ window.SONG_DATA.push(
   "artist": "カンザキイオリ  [2026-02-12]  [2AklhIDoLGE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=168",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4522,7 +4522,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師  [2026-02-12]  [2AklhIDoLGE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=169",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4530,7 +4530,7 @@ window.SONG_DATA.push(
   "artist": "じん  [2026-02-12]  [2AklhIDoLGE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=170",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4538,7 +4538,7 @@ window.SONG_DATA.push(
   "artist": "ヒグチアイ  [2026-02-12]  [2AklhIDoLGE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=171",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4546,7 +4546,7 @@ window.SONG_DATA.push(
   "artist": "流星P  [2026-02-12]  [2AklhIDoLGE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=172",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4554,7 +4554,7 @@ window.SONG_DATA.push(
   "artist": "kaaruutaasoo  [2026-02-12]  [2AklhIDoLGE]",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=173",
+  "link": null,
   "source": "others.js"
 },
     {
@@ -4562,7 +4562,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=174",
+  "link": null,
   "source": "others.js"
 }
 );

@@ -1,6 +1,6 @@
 // むんもっしゅ - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1UCkhBkEon
-// 生成时间: 2/21/2026, 12:45:46 AM
+// 生成时间: 2/21/2026, 12:57:12 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10,7 +10,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -18,7 +18,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -26,7 +26,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -34,7 +34,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -42,7 +42,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -50,7 +50,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -58,7 +58,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -66,7 +66,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -74,7 +74,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -82,7 +82,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -90,7 +90,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -98,7 +98,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -106,7 +106,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -114,7 +114,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=14",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -122,7 +122,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=15",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -130,7 +130,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=16",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -138,7 +138,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=17",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -146,7 +146,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=18",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -154,7 +154,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=19",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -162,7 +162,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=20",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -170,7 +170,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=21",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -178,7 +178,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=22",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -186,7 +186,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=23",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -194,7 +194,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=24",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -202,7 +202,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=25",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -210,7 +210,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=26",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -218,7 +218,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=27",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -226,7 +226,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=28",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -234,7 +234,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=29",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -242,7 +242,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=30",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -250,7 +250,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=31",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -258,7 +258,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=32",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -266,7 +266,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=33",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -274,7 +274,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=34",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -282,7 +282,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=35",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -290,7 +290,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=36",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -298,7 +298,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=37",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -306,7 +306,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=38",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -314,7 +314,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=39",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -322,7 +322,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=40",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -330,7 +330,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=41",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -338,7 +338,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=42",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -346,7 +346,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=43",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -354,7 +354,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=44",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -362,7 +362,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=45",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -370,7 +370,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=46",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -378,7 +378,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=47",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -386,7 +386,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=48",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -394,7 +394,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=49",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -402,7 +402,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=50",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -410,7 +410,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=51",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -418,7 +418,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=52",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -426,7 +426,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=53",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -434,7 +434,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=54",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -442,7 +442,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=55",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -450,7 +450,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=56",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -458,7 +458,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=57",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -466,7 +466,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=58",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -474,7 +474,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=59",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -482,7 +482,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=60",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -490,7 +490,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -498,7 +498,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -506,7 +506,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -514,7 +514,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -522,7 +522,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -530,7 +530,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -538,7 +538,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -546,7 +546,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -554,7 +554,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -562,7 +562,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -570,7 +570,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -578,7 +578,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -586,7 +586,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -594,7 +594,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -602,7 +602,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -610,7 +610,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -618,7 +618,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -626,7 +626,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -634,7 +634,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=19",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -642,7 +642,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=20",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -650,7 +650,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=21",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -658,7 +658,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=22",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -666,7 +666,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -674,7 +674,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -682,7 +682,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -690,7 +690,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -698,7 +698,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -706,7 +706,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -714,7 +714,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -722,7 +722,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -730,7 +730,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -738,7 +738,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -746,7 +746,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -754,7 +754,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -762,7 +762,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -770,7 +770,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -778,7 +778,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -786,7 +786,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -794,7 +794,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -802,7 +802,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -810,7 +810,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=19",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -818,7 +818,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=20",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1226,7 +1226,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1234,7 +1234,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1242,7 +1242,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1250,7 +1250,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1258,7 +1258,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1266,7 +1266,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1274,7 +1274,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1282,7 +1282,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1290,7 +1290,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1298,7 +1298,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1306,7 +1306,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1314,7 +1314,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1322,7 +1322,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1330,7 +1330,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1338,7 +1338,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1346,7 +1346,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1354,7 +1354,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=17",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1362,7 +1362,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=18",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1370,7 +1370,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=19",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1378,7 +1378,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=20",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1386,7 +1386,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=21",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1394,7 +1394,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=22",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1402,7 +1402,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=23",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1410,7 +1410,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=24",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1418,7 +1418,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=25",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1426,7 +1426,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=26",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1434,7 +1434,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=27",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1442,7 +1442,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=28",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1450,7 +1450,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=29",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1458,7 +1458,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=30",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1466,7 +1466,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=31",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1474,7 +1474,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=32",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1482,7 +1482,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=33",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1490,7 +1490,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=34",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1498,7 +1498,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=35",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1506,7 +1506,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=36",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1514,7 +1514,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=37",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1522,7 +1522,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=38",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1530,7 +1530,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=39",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1538,7 +1538,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=40",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1546,7 +1546,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=41",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1554,7 +1554,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=42",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1562,7 +1562,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=43",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1570,7 +1570,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=44",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1578,7 +1578,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=45",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1586,7 +1586,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=46",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1594,7 +1594,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=47",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1602,7 +1602,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=48",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1610,7 +1610,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=49",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1618,7 +1618,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=50",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1626,7 +1626,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1634,7 +1634,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1642,7 +1642,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1650,7 +1650,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1658,7 +1658,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1666,7 +1666,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1674,7 +1674,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1682,7 +1682,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1690,7 +1690,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1698,7 +1698,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1706,7 +1706,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1714,7 +1714,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1722,7 +1722,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1730,7 +1730,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=14",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1738,7 +1738,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=15",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1746,7 +1746,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=16",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1754,7 +1754,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=17",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1762,7 +1762,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=18",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1770,7 +1770,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=19",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1778,7 +1778,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=20",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1786,7 +1786,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=21",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1794,7 +1794,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=22",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1802,7 +1802,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=23",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1810,7 +1810,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=24",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1818,7 +1818,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=25",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1826,7 +1826,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=26",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1834,7 +1834,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=27",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1842,7 +1842,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1850,7 +1850,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1858,7 +1858,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1866,7 +1866,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1874,7 +1874,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1882,7 +1882,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1890,7 +1890,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1898,7 +1898,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1906,7 +1906,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1914,7 +1914,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=10",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1922,7 +1922,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=11",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1930,7 +1930,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=12",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1938,7 +1938,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=13",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1946,7 +1946,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=14",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1954,7 +1954,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=15",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1962,7 +1962,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=16",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1970,7 +1970,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=17",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1978,7 +1978,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=18",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1986,7 +1986,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=19",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -1994,7 +1994,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=20",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2002,7 +2002,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=21",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2010,7 +2010,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=22",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2018,7 +2018,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=23",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2026,7 +2026,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=24",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2034,7 +2034,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=25",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2042,7 +2042,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=26",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2050,7 +2050,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=27",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2058,7 +2058,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=28",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2066,7 +2066,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=29",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2074,7 +2074,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=30",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2082,7 +2082,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=31",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2162,7 +2162,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2170,7 +2170,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2178,7 +2178,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2186,7 +2186,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2194,7 +2194,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2202,7 +2202,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2210,7 +2210,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2218,7 +2218,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2226,7 +2226,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2234,7 +2234,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2242,7 +2242,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2250,7 +2250,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2258,7 +2258,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2266,7 +2266,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2274,7 +2274,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2282,7 +2282,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2290,7 +2290,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=17",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2298,7 +2298,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=18",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2306,7 +2306,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=19",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2314,7 +2314,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=20",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2322,7 +2322,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=21",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2330,7 +2330,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=22",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2338,7 +2338,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=23",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2346,7 +2346,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=24",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2354,7 +2354,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=25",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2362,7 +2362,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=26",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2370,7 +2370,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=27",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2378,7 +2378,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=28",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2386,7 +2386,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=29",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2394,7 +2394,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=30",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2402,7 +2402,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=31",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2410,7 +2410,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=32",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2418,7 +2418,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=33",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2426,7 +2426,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=34",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2434,7 +2434,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=35",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2442,7 +2442,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=36",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2450,7 +2450,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=37",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2458,7 +2458,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=38",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2466,7 +2466,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=39",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2474,7 +2474,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=40",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2482,7 +2482,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=41",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2490,7 +2490,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=42",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2498,7 +2498,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=43",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2506,7 +2506,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=44",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2514,7 +2514,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=45",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2522,7 +2522,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=46",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2530,7 +2530,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=47",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2538,7 +2538,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=48",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2546,7 +2546,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=49",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2554,7 +2554,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=50",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2562,7 +2562,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=51",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2570,7 +2570,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=52",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2578,7 +2578,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=53",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2586,7 +2586,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=54",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2594,7 +2594,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=55",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2602,7 +2602,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=56",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2610,7 +2610,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=57",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2618,7 +2618,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=58",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2626,7 +2626,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=59",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2634,7 +2634,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=60",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -2642,7 +2642,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=61",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3058,7 +3058,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3066,7 +3066,7 @@ window.SONG_DATA.push(
   "artist": "やなぎなぎ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3074,7 +3074,7 @@ window.SONG_DATA.push(
   "artist": "Supercell",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3082,7 +3082,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3090,7 +3090,7 @@ window.SONG_DATA.push(
   "artist": "傘村トータ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3098,7 +3098,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3106,7 +3106,7 @@ window.SONG_DATA.push(
   "artist": "Orangestar",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3114,7 +3114,7 @@ window.SONG_DATA.push(
   "artist": "優里",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3122,7 +3122,7 @@ window.SONG_DATA.push(
   "artist": "チョーキューメイ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3130,7 +3130,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=10",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3138,7 +3138,7 @@ window.SONG_DATA.push(
   "artist": "古川本舗",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=11",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3146,7 +3146,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=12",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3154,7 +3154,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=13",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3162,7 +3162,7 @@ window.SONG_DATA.push(
   "artist": "蝶々P",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=14",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3170,7 +3170,7 @@ window.SONG_DATA.push(
   "artist": "島谷ひとみ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=15",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3178,7 +3178,7 @@ window.SONG_DATA.push(
   "artist": "結束バンド",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=16",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3186,7 +3186,7 @@ window.SONG_DATA.push(
   "artist": "doriko",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=17",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3194,7 +3194,7 @@ window.SONG_DATA.push(
   "artist": "蝶々P",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=18",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3202,7 +3202,7 @@ window.SONG_DATA.push(
   "artist": "本名陽子",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=19",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3210,7 +3210,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=20",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3218,7 +3218,7 @@ window.SONG_DATA.push(
   "artist": "Sound Horizon",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=21",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3226,7 +3226,7 @@ window.SONG_DATA.push(
   "artist": "ナノウ(ほえほえP)",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=22",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3234,7 +3234,7 @@ window.SONG_DATA.push(
   "artist": "Sound Horizon",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=23",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3242,7 +3242,7 @@ window.SONG_DATA.push(
   "artist": "つなまる(めざめP)",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=24",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3250,7 +3250,7 @@ window.SONG_DATA.push(
   "artist": "牧野 由依",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=25",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3258,7 +3258,7 @@ window.SONG_DATA.push(
   "artist": "岡崎律子",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=26",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3266,7 +3266,7 @@ window.SONG_DATA.push(
   "artist": "坂本真綾",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=27",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3274,7 +3274,7 @@ window.SONG_DATA.push(
   "artist": "花譜",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=28",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3282,7 +3282,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=29",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3290,7 +3290,7 @@ window.SONG_DATA.push(
   "artist": "PUFFY",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=30",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3298,7 +3298,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=31",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3306,7 +3306,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=32",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3314,7 +3314,7 @@ window.SONG_DATA.push(
   "artist": "とあ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=33",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3322,7 +3322,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=34",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3330,7 +3330,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=35",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3338,7 +3338,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=36",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3346,7 +3346,7 @@ window.SONG_DATA.push(
   "artist": "木村 弓",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=37",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3354,7 +3354,7 @@ window.SONG_DATA.push(
   "artist": "牧野 由依",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=38",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3362,7 +3362,7 @@ window.SONG_DATA.push(
   "artist": "7!! (seven oops)",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=39",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3370,7 +3370,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=40",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3378,7 +3378,7 @@ window.SONG_DATA.push(
   "artist": "n-buna",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=41",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3386,7 +3386,7 @@ window.SONG_DATA.push(
   "artist": "さユり",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=42",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3394,7 +3394,7 @@ window.SONG_DATA.push(
   "artist": "Orangestar",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=43",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3402,7 +3402,7 @@ window.SONG_DATA.push(
   "artist": "ryo(supercell)",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=44",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3410,7 +3410,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=45",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3418,7 +3418,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=46",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3426,7 +3426,7 @@ window.SONG_DATA.push(
   "artist": "涼宮ハルヒ(平野綾)",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=47",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3434,7 +3434,7 @@ window.SONG_DATA.push(
   "artist": "大塚愛",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=48",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3442,7 +3442,7 @@ window.SONG_DATA.push(
   "artist": "Girls Dead Monster",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=49",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3450,7 +3450,7 @@ window.SONG_DATA.push(
   "artist": "mona(CV：夏川椎菜)【HoneyWorks】",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=50",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3458,7 +3458,7 @@ window.SONG_DATA.push(
   "artist": "むんもっしゅ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=51",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3634,7 +3634,7 @@ window.SONG_DATA.push(
   "artist": "緑黄色社会",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3642,7 +3642,7 @@ window.SONG_DATA.push(
   "artist": "緑黄色社会",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3650,7 +3650,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3658,7 +3658,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3666,7 +3666,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3674,7 +3674,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3682,7 +3682,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3690,7 +3690,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3698,7 +3698,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3706,7 +3706,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3714,7 +3714,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3722,7 +3722,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3730,7 +3730,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3738,7 +3738,7 @@ window.SONG_DATA.push(
   "artist": "KEI",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3746,7 +3746,7 @@ window.SONG_DATA.push(
   "artist": "じん",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3754,7 +3754,7 @@ window.SONG_DATA.push(
   "artist": "ナノウ(ほえほえP)",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=16",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3762,7 +3762,7 @@ window.SONG_DATA.push(
   "artist": "ジミーサムP",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=17",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3770,7 +3770,7 @@ window.SONG_DATA.push(
   "artist": "川崎鷹也",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=18",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3778,7 +3778,7 @@ window.SONG_DATA.push(
   "artist": "涼宮ハルヒ(平野綾)",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=19",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3786,7 +3786,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=20",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3794,7 +3794,7 @@ window.SONG_DATA.push(
   "artist": "AKINO",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=21",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3802,7 +3802,7 @@ window.SONG_DATA.push(
   "artist": "倉木麻衣",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=22",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3810,7 +3810,7 @@ window.SONG_DATA.push(
   "artist": "倉木麻衣",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=23",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3818,7 +3818,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=24",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3826,7 +3826,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=25",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3834,7 +3834,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=26",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3842,7 +3842,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=27",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3850,7 +3850,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=28",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3858,7 +3858,7 @@ window.SONG_DATA.push(
   "artist": "加藤登紀子",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=29",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3866,7 +3866,7 @@ window.SONG_DATA.push(
   "artist": "木村 弓",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=30",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3874,7 +3874,7 @@ window.SONG_DATA.push(
   "artist": "平原綾香",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=31",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3882,7 +3882,7 @@ window.SONG_DATA.push(
   "artist": "井上あずみ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=32",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3890,7 +3890,7 @@ window.SONG_DATA.push(
   "artist": "n-buna",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=33",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3898,7 +3898,7 @@ window.SONG_DATA.push(
   "artist": "Orangestar",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=34",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3906,7 +3906,7 @@ window.SONG_DATA.push(
   "artist": "doriko",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=35",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3914,7 +3914,7 @@ window.SONG_DATA.push(
   "artist": "Orangestar",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=36",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3922,7 +3922,7 @@ window.SONG_DATA.push(
   "artist": "エミリア(高橋李依)",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=37",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3930,7 +3930,7 @@ window.SONG_DATA.push(
   "artist": "レム(水瀬いのり)",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=38",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3938,7 +3938,7 @@ window.SONG_DATA.push(
   "artist": "Kanaria",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=39",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3946,7 +3946,7 @@ window.SONG_DATA.push(
   "artist": "Kanaria",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=40",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3954,7 +3954,7 @@ window.SONG_DATA.push(
   "artist": "ラクス・クライン (田中理恵)",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=41",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3962,7 +3962,7 @@ window.SONG_DATA.push(
   "artist": "ラクス・クライン(田中理恵)",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=42",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3970,7 +3970,7 @@ window.SONG_DATA.push(
   "artist": "菅田将暉",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=43",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3978,7 +3978,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=44",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3986,7 +3986,7 @@ window.SONG_DATA.push(
   "artist": "Uru",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=45",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -3994,7 +3994,7 @@ window.SONG_DATA.push(
   "artist": "LiSA",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=46",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4002,7 +4002,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=47",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4010,7 +4010,7 @@ window.SONG_DATA.push(
   "artist": "Supercell",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=48",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4018,7 +4018,7 @@ window.SONG_DATA.push(
   "artist": "FictionJunction YUUKA",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=49",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4026,7 +4026,7 @@ window.SONG_DATA.push(
   "artist": "茶太",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=50",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4034,7 +4034,7 @@ window.SONG_DATA.push(
   "artist": "鬼束ちひろ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=51",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4042,7 +4042,7 @@ window.SONG_DATA.push(
   "artist": "ヒグチアイ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=52",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4050,7 +4050,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=53",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4058,7 +4058,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=54",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4066,7 +4066,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=55",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4074,7 +4074,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=56",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4082,7 +4082,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4090,7 +4090,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4098,7 +4098,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4106,7 +4106,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4114,7 +4114,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4122,7 +4122,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4130,7 +4130,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4138,7 +4138,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4146,7 +4146,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4154,7 +4154,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4162,7 +4162,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4170,7 +4170,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4178,7 +4178,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4186,7 +4186,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4194,7 +4194,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4202,7 +4202,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4210,7 +4210,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=17",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4218,7 +4218,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=18",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4226,7 +4226,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=19",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4234,7 +4234,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=20",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4242,7 +4242,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=21",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4250,7 +4250,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=22",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4258,7 +4258,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4266,7 +4266,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4274,7 +4274,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4282,7 +4282,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4290,7 +4290,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4298,7 +4298,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4306,7 +4306,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4314,7 +4314,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4322,7 +4322,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4330,7 +4330,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4338,7 +4338,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4346,7 +4346,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4354,7 +4354,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4362,7 +4362,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4370,7 +4370,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4378,7 +4378,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4386,7 +4386,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4394,7 +4394,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4402,7 +4402,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=19",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4410,7 +4410,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=20",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4418,7 +4418,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=21",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4426,7 +4426,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=22",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4434,7 +4434,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=23",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4442,7 +4442,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=24",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4450,7 +4450,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4458,7 +4458,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4466,7 +4466,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4474,7 +4474,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4482,7 +4482,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4490,7 +4490,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4498,7 +4498,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4506,7 +4506,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4514,7 +4514,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4522,7 +4522,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4530,7 +4530,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4538,7 +4538,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4546,7 +4546,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4554,7 +4554,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4562,7 +4562,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4570,7 +4570,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4578,7 +4578,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4586,7 +4586,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4594,7 +4594,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=19",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4602,7 +4602,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=20",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4610,7 +4610,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=21",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4618,7 +4618,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=22",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4626,7 +4626,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=23",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4634,7 +4634,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=24",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4642,7 +4642,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=25",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4650,7 +4650,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=26",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4658,7 +4658,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=27",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4666,7 +4666,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=28",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4674,7 +4674,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=29",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4682,7 +4682,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=30",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4690,7 +4690,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=31",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4698,7 +4698,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=32",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4706,7 +4706,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=33",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4714,7 +4714,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=34",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4722,7 +4722,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=35",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4730,7 +4730,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=36",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4738,7 +4738,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=37",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4746,7 +4746,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=38",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4754,7 +4754,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=39",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4762,7 +4762,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=40",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4770,7 +4770,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=41",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4778,7 +4778,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=42",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4786,7 +4786,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=43",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4794,7 +4794,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=44",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4802,7 +4802,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=45",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4810,7 +4810,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=46",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4818,7 +4818,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=47",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4826,7 +4826,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=48",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4834,7 +4834,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=49",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4842,7 +4842,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=50",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4850,7 +4850,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=51",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4858,7 +4858,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=52",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4866,7 +4866,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=53",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4874,7 +4874,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=54",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4882,7 +4882,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=55",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4890,7 +4890,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=56",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4898,7 +4898,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=57",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4906,7 +4906,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=58",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4914,7 +4914,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=59",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4922,7 +4922,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=60",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4930,7 +4930,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=61",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4938,7 +4938,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=62",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4946,7 +4946,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=63",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4954,7 +4954,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=64",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4962,7 +4962,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=65",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4970,7 +4970,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=66",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4978,7 +4978,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=67",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4986,7 +4986,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=68",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -4994,7 +4994,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=69",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5002,7 +5002,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=70",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5010,7 +5010,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=71",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5018,7 +5018,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=72",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5026,7 +5026,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=73",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5034,7 +5034,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=74",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5042,7 +5042,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=75",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5050,7 +5050,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=76",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5058,7 +5058,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=77",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5066,7 +5066,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=78",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5074,7 +5074,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=79",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5082,7 +5082,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=80",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5090,7 +5090,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=81",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5098,7 +5098,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=82",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5106,7 +5106,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=83",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5114,7 +5114,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=84",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5122,7 +5122,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=85",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5130,7 +5130,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=86",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5138,7 +5138,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=87",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5146,7 +5146,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=88",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5154,7 +5154,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=89",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5162,7 +5162,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=90",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5170,7 +5170,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=91",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5178,7 +5178,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=92",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5186,7 +5186,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=93",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5194,7 +5194,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=94",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5202,7 +5202,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=95",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5210,7 +5210,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=96",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5218,7 +5218,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=97",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5226,7 +5226,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=98",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5234,7 +5234,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=99",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5242,7 +5242,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=100",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5250,7 +5250,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5258,7 +5258,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5266,7 +5266,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5274,7 +5274,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5282,7 +5282,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5290,7 +5290,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5298,7 +5298,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5306,7 +5306,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5314,7 +5314,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5322,7 +5322,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5330,7 +5330,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5338,7 +5338,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5346,7 +5346,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5354,7 +5354,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5362,7 +5362,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5370,7 +5370,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5378,7 +5378,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5386,7 +5386,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5394,7 +5394,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5402,7 +5402,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5410,7 +5410,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5418,7 +5418,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5426,7 +5426,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5434,7 +5434,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5442,7 +5442,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5450,7 +5450,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5458,7 +5458,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5466,7 +5466,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5474,7 +5474,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5482,7 +5482,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5490,7 +5490,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5498,7 +5498,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5506,7 +5506,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5514,7 +5514,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5522,7 +5522,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=17",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5530,7 +5530,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=18",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5538,7 +5538,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=19",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5546,7 +5546,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=20",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5554,7 +5554,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=21",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5562,7 +5562,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=22",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5570,7 +5570,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=23",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5578,7 +5578,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=24",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5586,7 +5586,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=25",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5594,7 +5594,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=26",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5602,7 +5602,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=27",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5610,7 +5610,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=28",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5618,7 +5618,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=29",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5626,7 +5626,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=30",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5634,7 +5634,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=31",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5642,7 +5642,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=32",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5650,7 +5650,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=33",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5658,7 +5658,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=34",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5666,7 +5666,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=35",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5674,7 +5674,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=36",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5682,7 +5682,7 @@ window.SONG_DATA.push(
   "artist": "BoA",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5690,7 +5690,7 @@ window.SONG_DATA.push(
   "artist": "浜田雅功と槇原敬之",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5698,7 +5698,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5706,7 +5706,7 @@ window.SONG_DATA.push(
   "artist": "松任谷由実",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5714,7 +5714,7 @@ window.SONG_DATA.push(
   "artist": "back number",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5722,7 +5722,7 @@ window.SONG_DATA.push(
   "artist": "桑田佳祐",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5730,7 +5730,7 @@ window.SONG_DATA.push(
   "artist": "山下達郎",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5738,7 +5738,7 @@ window.SONG_DATA.push(
   "artist": "ryo(supercell)",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5746,7 +5746,7 @@ window.SONG_DATA.push(
   "artist": "嵐",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5754,7 +5754,7 @@ window.SONG_DATA.push(
   "artist": "坂本真綾",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5762,7 +5762,7 @@ window.SONG_DATA.push(
   "artist": "Rita",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5770,7 +5770,7 @@ window.SONG_DATA.push(
   "artist": "Girls Dead Monster",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5778,7 +5778,7 @@ window.SONG_DATA.push(
   "artist": "Girls Dead Monster",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5786,7 +5786,7 @@ window.SONG_DATA.push(
   "artist": "Girls Dead Monster",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5794,7 +5794,7 @@ window.SONG_DATA.push(
   "artist": "麻枝准×やなぎなぎ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5802,7 +5802,7 @@ window.SONG_DATA.push(
   "artist": "やなぎなぎ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5810,7 +5810,7 @@ window.SONG_DATA.push(
   "artist": "麻枝准×やなぎなぎ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5818,7 +5818,7 @@ window.SONG_DATA.push(
   "artist": "riya",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5826,7 +5826,7 @@ window.SONG_DATA.push(
   "artist": "Lia",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5834,7 +5834,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5842,7 +5842,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5850,7 +5850,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5858,7 +5858,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5866,7 +5866,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5874,7 +5874,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5882,7 +5882,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5890,7 +5890,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5898,7 +5898,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=19",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5906,7 +5906,7 @@ window.SONG_DATA.push(
   "artist": "木村弓",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=20",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5914,7 +5914,7 @@ window.SONG_DATA.push(
   "artist": "木村弓",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=21",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5922,7 +5922,7 @@ window.SONG_DATA.push(
   "artist": "平原綾香",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=22",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5930,7 +5930,7 @@ window.SONG_DATA.push(
   "artist": "井上あずみ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=23",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5938,7 +5938,7 @@ window.SONG_DATA.push(
   "artist": "井上あずみ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=24",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5946,7 +5946,7 @@ window.SONG_DATA.push(
   "artist": "井上あずみ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=25",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5954,7 +5954,7 @@ window.SONG_DATA.push(
   "artist": "加藤登紀子",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=26",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5962,7 +5962,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=27",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5970,7 +5970,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=28",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5978,7 +5978,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=29",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5986,7 +5986,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=30",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -5994,7 +5994,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=31",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6002,7 +6002,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=32",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6010,7 +6010,7 @@ window.SONG_DATA.push(
   "artist": "See-Saw",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=33",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6018,7 +6018,7 @@ window.SONG_DATA.push(
   "artist": "FictionJunction YUUKA",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=34",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6026,7 +6026,7 @@ window.SONG_DATA.push(
   "artist": "FictionJunction YUUKA",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=35",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6034,7 +6034,7 @@ window.SONG_DATA.push(
   "artist": "FictionJunction YUUKA",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=36",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6042,7 +6042,7 @@ window.SONG_DATA.push(
   "artist": "Kalafina",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=37",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6050,7 +6050,7 @@ window.SONG_DATA.push(
   "artist": "ユナ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=38",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6058,7 +6058,7 @@ window.SONG_DATA.push(
   "artist": "さユり",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=39",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6066,7 +6066,7 @@ window.SONG_DATA.push(
   "artist": "さユり",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=40",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6074,7 +6074,7 @@ window.SONG_DATA.push(
   "artist": "Kalafina",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=41",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6082,7 +6082,7 @@ window.SONG_DATA.push(
   "artist": "ヰ世界情緒",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=42",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6090,7 +6090,7 @@ window.SONG_DATA.push(
   "artist": "茶太",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=43",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6098,7 +6098,7 @@ window.SONG_DATA.push(
   "artist": "Girls Dead Monster",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=44",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6106,7 +6106,7 @@ window.SONG_DATA.push(
   "artist": "Lia",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=45",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6114,7 +6114,7 @@ window.SONG_DATA.push(
   "artist": "Sound Horizon",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=46",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6122,7 +6122,7 @@ window.SONG_DATA.push(
   "artist": "Sound Horizon",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=47",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6130,7 +6130,7 @@ window.SONG_DATA.push(
   "artist": "7!!",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=48",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6138,7 +6138,7 @@ window.SONG_DATA.push(
   "artist": "島谷ひとみ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=49",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6146,7 +6146,7 @@ window.SONG_DATA.push(
   "artist": "Uru",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=50",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6154,7 +6154,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=51",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6162,7 +6162,7 @@ window.SONG_DATA.push(
   "artist": "n-buna",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=52",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6170,7 +6170,7 @@ window.SONG_DATA.push(
   "artist": "ryo",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=53",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6178,7 +6178,7 @@ window.SONG_DATA.push(
   "artist": "むんもっしゅ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=54",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6186,7 +6186,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6194,7 +6194,7 @@ window.SONG_DATA.push(
   "artist": "むんもっしゅ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6202,7 +6202,7 @@ window.SONG_DATA.push(
   "artist": "むんもっしゅ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6210,7 +6210,7 @@ window.SONG_DATA.push(
   "artist": "むんもっしゅ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6218,7 +6218,7 @@ window.SONG_DATA.push(
   "artist": "むんもっしゅ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6226,7 +6226,7 @@ window.SONG_DATA.push(
   "artist": "Orangestar",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6234,7 +6234,7 @@ window.SONG_DATA.push(
   "artist": "むんもっしゅ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6362,7 +6362,7 @@ window.SONG_DATA.push(
   "artist": "19's Sound Factory",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6370,7 +6370,7 @@ window.SONG_DATA.push(
   "artist": "BUMP OF CHICKEN",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6378,7 +6378,7 @@ window.SONG_DATA.push(
   "artist": "Le Couple",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6386,7 +6386,7 @@ window.SONG_DATA.push(
   "artist": "Every Little Thing",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6394,7 +6394,7 @@ window.SONG_DATA.push(
   "artist": "SunSet Swish",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6402,7 +6402,7 @@ window.SONG_DATA.push(
   "artist": "ClariS",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6410,7 +6410,7 @@ window.SONG_DATA.push(
   "artist": "Kalafina",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6418,7 +6418,7 @@ window.SONG_DATA.push(
   "artist": "Kalafina",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6426,7 +6426,7 @@ window.SONG_DATA.push(
   "artist": "木村弓",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6434,7 +6434,7 @@ window.SONG_DATA.push(
   "artist": "木村弓",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6442,7 +6442,7 @@ window.SONG_DATA.push(
   "artist": "- ぼーかりおどP",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6450,7 +6450,7 @@ window.SONG_DATA.push(
   "artist": "涼宮ハルヒ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6458,7 +6458,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6466,7 +6466,7 @@ window.SONG_DATA.push(
   "artist": "牧野由依",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6474,7 +6474,7 @@ window.SONG_DATA.push(
   "artist": "牧野由依",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6482,7 +6482,7 @@ window.SONG_DATA.push(
   "artist": "放課後ティータイム",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6490,7 +6490,7 @@ window.SONG_DATA.push(
   "artist": "放課後ティータイム",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=17",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6498,7 +6498,7 @@ window.SONG_DATA.push(
   "artist": "菅田将暉",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=18",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6506,7 +6506,7 @@ window.SONG_DATA.push(
   "artist": "斉藤和義",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=19",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6514,7 +6514,7 @@ window.SONG_DATA.push(
   "artist": "山口百恵",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=20",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6522,7 +6522,7 @@ window.SONG_DATA.push(
   "artist": "植村花菜",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=21",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6530,7 +6530,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=22",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6538,7 +6538,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=23",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6546,7 +6546,7 @@ window.SONG_DATA.push(
   "artist": "未来古代楽団 feat. 安次嶺希和子",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=24",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6554,7 +6554,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=25",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6562,7 +6562,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=26",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6570,7 +6570,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=27",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6578,7 +6578,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=28",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6586,7 +6586,7 @@ window.SONG_DATA.push(
   "artist": "加藤登紀子",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=29",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6594,7 +6594,7 @@ window.SONG_DATA.push(
   "artist": "井上あずみ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=30",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6602,7 +6602,7 @@ window.SONG_DATA.push(
   "artist": "坂本九",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=31",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6610,7 +6610,7 @@ window.SONG_DATA.push(
   "artist": "ryo",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=32",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6618,7 +6618,7 @@ window.SONG_DATA.push(
   "artist": "ryo",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=33",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6626,7 +6626,7 @@ window.SONG_DATA.push(
   "artist": "ステレオポニー",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=34",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6634,7 +6634,7 @@ window.SONG_DATA.push(
   "artist": "ジミーサムP",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=35",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6642,7 +6642,7 @@ window.SONG_DATA.push(
   "artist": "エリオをかまってちゃん",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=36",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6650,7 +6650,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=37",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6658,7 +6658,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=38",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6666,7 +6666,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=39",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6674,7 +6674,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=40",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6682,7 +6682,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=41",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6690,7 +6690,7 @@ window.SONG_DATA.push(
   "artist": "Orangestar",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=42",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6698,7 +6698,7 @@ window.SONG_DATA.push(
   "artist": "Orangestar",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=43",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6706,7 +6706,7 @@ window.SONG_DATA.push(
   "artist": "Orangestar",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=44",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6714,7 +6714,7 @@ window.SONG_DATA.push(
   "artist": "Orangestar",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=45",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6722,7 +6722,7 @@ window.SONG_DATA.push(
   "artist": "ZARD",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=46",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6730,7 +6730,7 @@ window.SONG_DATA.push(
   "artist": "ZARD",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=47",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6738,7 +6738,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=48",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6746,7 +6746,7 @@ window.SONG_DATA.push(
   "artist": "イルカ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=49",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6754,7 +6754,7 @@ window.SONG_DATA.push(
   "artist": "Sound Horizon",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=50",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6762,7 +6762,7 @@ window.SONG_DATA.push(
   "artist": "MIMI",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=51",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6770,7 +6770,7 @@ window.SONG_DATA.push(
   "artist": "MIMI",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=52",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6778,7 +6778,7 @@ window.SONG_DATA.push(
   "artist": "ロクデナシ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=53",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6786,7 +6786,7 @@ window.SONG_DATA.push(
   "artist": "ロクデナシ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=54",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6794,7 +6794,7 @@ window.SONG_DATA.push(
   "artist": "傘村トータ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=55",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6802,7 +6802,7 @@ window.SONG_DATA.push(
   "artist": "傘村トータ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=56",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6810,7 +6810,7 @@ window.SONG_DATA.push(
   "artist": "TOKOTOKO",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=57",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6818,7 +6818,7 @@ window.SONG_DATA.push(
   "artist": "My Little Lover",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=58",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6826,7 +6826,7 @@ window.SONG_DATA.push(
   "artist": "におP",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=59",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6834,7 +6834,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=60",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6842,7 +6842,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=61",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6850,7 +6850,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=62",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6858,7 +6858,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=63",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6866,7 +6866,7 @@ window.SONG_DATA.push(
   "artist": "mona",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=64",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6874,7 +6874,7 @@ window.SONG_DATA.push(
   "artist": "関ゆみ子",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6882,7 +6882,7 @@ window.SONG_DATA.push(
   "artist": "Orangestar",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6890,7 +6890,7 @@ window.SONG_DATA.push(
   "artist": "ryo(supercell)",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6898,7 +6898,7 @@ window.SONG_DATA.push(
   "artist": "ryo(supercell)",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6906,7 +6906,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6914,7 +6914,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6922,7 +6922,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6930,7 +6930,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6938,7 +6938,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6946,7 +6946,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6954,7 +6954,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6962,7 +6962,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6970,7 +6970,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6978,7 +6978,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6986,7 +6986,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -6994,7 +6994,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7002,7 +7002,7 @@ window.SONG_DATA.push(
   "artist": "レミオロメン",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=17",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7010,7 +7010,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=18",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7018,7 +7018,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=19",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7026,7 +7026,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=20",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7034,7 +7034,7 @@ window.SONG_DATA.push(
   "artist": "本名陽子",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=21",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7042,7 +7042,7 @@ window.SONG_DATA.push(
   "artist": "亜沙",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=22",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7050,7 +7050,7 @@ window.SONG_DATA.push(
   "artist": "倉木麻衣",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=23",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7058,7 +7058,7 @@ window.SONG_DATA.push(
   "artist": "KANA-BOON",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=24",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7066,7 +7066,7 @@ window.SONG_DATA.push(
   "artist": "MAHO堂",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=25",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7074,7 +7074,7 @@ window.SONG_DATA.push(
   "artist": "田村直美",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=26",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7082,7 +7082,7 @@ window.SONG_DATA.push(
   "artist": "森口博子",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=27",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7090,7 +7090,7 @@ window.SONG_DATA.push(
   "artist": "和田光司",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=28",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7098,7 +7098,7 @@ window.SONG_DATA.push(
   "artist": "放課後ティータイム",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=29",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7106,7 +7106,7 @@ window.SONG_DATA.push(
   "artist": "涼宮ハルヒ(平野綾)・長門有希(茅原実里)・朝比奈みくる(後藤邑子)",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=30",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7114,7 +7114,7 @@ window.SONG_DATA.push(
   "artist": "涼宮ハルヒ(平野綾)",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=31",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7122,7 +7122,7 @@ window.SONG_DATA.push(
   "artist": "ZONE",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=32",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7130,7 +7130,7 @@ window.SONG_DATA.push(
   "artist": "7!!",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=33",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7138,7 +7138,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=34",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7146,7 +7146,7 @@ window.SONG_DATA.push(
   "artist": "石川智晶",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=35",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7154,7 +7154,7 @@ window.SONG_DATA.push(
   "artist": "Kalafina",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=36",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7162,7 +7162,7 @@ window.SONG_DATA.push(
   "artist": "牧野由依",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=37",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7170,7 +7170,7 @@ window.SONG_DATA.push(
   "artist": "牧野由依",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=38",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7178,7 +7178,7 @@ window.SONG_DATA.push(
   "artist": "牧野由依",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=39",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7186,7 +7186,7 @@ window.SONG_DATA.push(
   "artist": "千石撫子(花澤香菜)",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=40",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7194,7 +7194,7 @@ window.SONG_DATA.push(
   "artist": "Orangestar",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=41",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7202,7 +7202,7 @@ window.SONG_DATA.push(
   "artist": "- ぼーかりおどP(noa)",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=42",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7210,7 +7210,7 @@ window.SONG_DATA.push(
   "artist": "ナノウ(ほえほえP)",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=43",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7218,7 +7218,7 @@ window.SONG_DATA.push(
   "artist": "n-buna",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=44",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7226,7 +7226,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=45",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7234,7 +7234,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=46",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7242,7 +7242,7 @@ window.SONG_DATA.push(
   "artist": "平原綾香",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=47",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7250,7 +7250,7 @@ window.SONG_DATA.push(
   "artist": "木村弓",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=48",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7258,7 +7258,7 @@ window.SONG_DATA.push(
   "artist": "石田燿子",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=49",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7266,7 +7266,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=50",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7274,7 +7274,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=51",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7282,7 +7282,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=52",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7290,7 +7290,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=53",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7298,7 +7298,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=54",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7306,7 +7306,7 @@ window.SONG_DATA.push(
   "artist": "mona(夏川椎菜)",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=55",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7314,7 +7314,7 @@ window.SONG_DATA.push(
   "artist": "れるりり",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7322,7 +7322,7 @@ window.SONG_DATA.push(
   "artist": "TRUE",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7330,7 +7330,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7338,7 +7338,7 @@ window.SONG_DATA.push(
   "artist": "RADWIMPS",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7346,7 +7346,7 @@ window.SONG_DATA.push(
   "artist": "さユり",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7354,7 +7354,7 @@ window.SONG_DATA.push(
   "artist": "エミリア",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7362,7 +7362,7 @@ window.SONG_DATA.push(
   "artist": "やなぎなぎ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7370,7 +7370,7 @@ window.SONG_DATA.push(
   "artist": "さユり",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7378,7 +7378,7 @@ window.SONG_DATA.push(
   "artist": "癒月",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7386,7 +7386,7 @@ window.SONG_DATA.push(
   "artist": "Kalafina",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7394,7 +7394,7 @@ window.SONG_DATA.push(
   "artist": "牧野由依",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7402,7 +7402,7 @@ window.SONG_DATA.push(
   "artist": "森口博子",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7410,7 +7410,7 @@ window.SONG_DATA.push(
   "artist": "森口博子",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7418,7 +7418,7 @@ window.SONG_DATA.push(
   "artist": "中瀬聡美",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7426,7 +7426,7 @@ window.SONG_DATA.push(
   "artist": "椎名恵",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7434,7 +7434,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7442,7 +7442,7 @@ window.SONG_DATA.push(
   "artist": "See-Saw",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7450,7 +7450,7 @@ window.SONG_DATA.push(
   "artist": "See-Saw",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7458,7 +7458,7 @@ window.SONG_DATA.push(
   "artist": "ミーア・キャンベル",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7466,7 +7466,7 @@ window.SONG_DATA.push(
   "artist": "ミーア・キャンベル",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7474,7 +7474,7 @@ window.SONG_DATA.push(
   "artist": "ラクス・クライン",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7482,7 +7482,7 @@ window.SONG_DATA.push(
   "artist": "TWO-MIX",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7490,7 +7490,7 @@ window.SONG_DATA.push(
   "artist": "伊藤由奈",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7498,7 +7498,7 @@ window.SONG_DATA.push(
   "artist": "FictionJunction YUUKA",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7506,7 +7506,7 @@ window.SONG_DATA.push(
   "artist": "ラクス・クライン",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7514,7 +7514,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7522,7 +7522,7 @@ window.SONG_DATA.push(
   "artist": "椎名林檎",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7530,7 +7530,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7538,7 +7538,7 @@ window.SONG_DATA.push(
   "artist": "やなぎなぎ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7546,7 +7546,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7554,7 +7554,7 @@ window.SONG_DATA.push(
   "artist": "FictionJunction",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7562,7 +7562,7 @@ window.SONG_DATA.push(
   "artist": "奥華子",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7570,7 +7570,7 @@ window.SONG_DATA.push(
   "artist": "supercell",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7578,7 +7578,7 @@ window.SONG_DATA.push(
   "artist": "鎖那",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7586,7 +7586,7 @@ window.SONG_DATA.push(
   "artist": "keeno",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7594,7 +7594,7 @@ window.SONG_DATA.push(
   "artist": "R Sound Design",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7602,7 +7602,7 @@ window.SONG_DATA.push(
   "artist": "傘村トータ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7610,7 +7610,7 @@ window.SONG_DATA.push(
   "artist": "傘村トータ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7618,7 +7618,7 @@ window.SONG_DATA.push(
   "artist": "和田たけあき",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7626,7 +7626,7 @@ window.SONG_DATA.push(
   "artist": "Orangestar",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7634,7 +7634,7 @@ window.SONG_DATA.push(
   "artist": "牧野由依",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7642,7 +7642,7 @@ window.SONG_DATA.push(
   "artist": "eufonius",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7650,7 +7650,7 @@ window.SONG_DATA.push(
   "artist": "逢坂大河『釘宮理恵』・櫛枝実乃梨『堀江由衣』・川嶋亜美『喜多村英梨』",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7658,7 +7658,7 @@ window.SONG_DATA.push(
   "artist": "RYTHEM",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7666,7 +7666,7 @@ window.SONG_DATA.push(
   "artist": "Rita",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7674,7 +7674,7 @@ window.SONG_DATA.push(
   "artist": "Lia",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7682,7 +7682,7 @@ window.SONG_DATA.push(
   "artist": "Lia",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7690,7 +7690,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7698,7 +7698,7 @@ window.SONG_DATA.push(
   "artist": "玉置成実",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7706,7 +7706,7 @@ window.SONG_DATA.push(
   "artist": "平野綾",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7714,7 +7714,7 @@ window.SONG_DATA.push(
   "artist": "涼宮ハルヒ『平野綾』",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7722,7 +7722,7 @@ window.SONG_DATA.push(
   "artist": "涼宮ハルヒ『平野綾』",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7730,7 +7730,7 @@ window.SONG_DATA.push(
   "artist": "Lia",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7738,7 +7738,7 @@ window.SONG_DATA.push(
   "artist": "ステレオポニー",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7746,7 +7746,7 @@ window.SONG_DATA.push(
   "artist": "supercell",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7754,7 +7754,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7762,7 +7762,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7770,7 +7770,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7778,7 +7778,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7786,7 +7786,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7794,7 +7794,7 @@ window.SONG_DATA.push(
   "artist": "坂本真綾",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7802,7 +7802,7 @@ window.SONG_DATA.push(
   "artist": "グミ『日向めぐみ』",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7810,7 +7810,7 @@ window.SONG_DATA.push(
   "artist": "田村直美",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7818,7 +7818,7 @@ window.SONG_DATA.push(
   "artist": "Kalafina",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7826,7 +7826,7 @@ window.SONG_DATA.push(
   "artist": "荒井由実",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=10",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7834,7 +7834,7 @@ window.SONG_DATA.push(
   "artist": "Suara",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=11",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7842,7 +7842,7 @@ window.SONG_DATA.push(
   "artist": "Lia",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=12",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7850,7 +7850,7 @@ window.SONG_DATA.push(
   "artist": "riya",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=13",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7858,7 +7858,7 @@ window.SONG_DATA.push(
   "artist": "ClariS",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=14",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7866,7 +7866,7 @@ window.SONG_DATA.push(
   "artist": "牧野由依",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=15",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7874,7 +7874,7 @@ window.SONG_DATA.push(
   "artist": "牧野由依",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=16",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7882,7 +7882,7 @@ window.SONG_DATA.push(
   "artist": "牧野由依",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=17",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7890,7 +7890,7 @@ window.SONG_DATA.push(
   "artist": "木村弓",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=18",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -7898,7 +7898,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=19",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8026,7 +8026,7 @@ window.SONG_DATA.push(
   "artist": "keeno",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8034,7 +8034,7 @@ window.SONG_DATA.push(
   "artist": "松谷祐子",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8042,7 +8042,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8050,7 +8050,7 @@ window.SONG_DATA.push(
   "artist": "相対性理論",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8058,7 +8058,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8066,7 +8066,7 @@ window.SONG_DATA.push(
   "artist": "ふわりP",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8074,7 +8074,7 @@ window.SONG_DATA.push(
   "artist": "DECO★27",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8082,7 +8082,7 @@ window.SONG_DATA.push(
   "artist": "クワガタP",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8090,7 +8090,7 @@ window.SONG_DATA.push(
   "artist": "やなぎなぎ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8098,7 +8098,7 @@ window.SONG_DATA.push(
   "artist": "ユリイ・カノン",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=10",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8106,7 +8106,7 @@ window.SONG_DATA.push(
   "artist": "菅田将暉",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=11",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8114,7 +8114,7 @@ window.SONG_DATA.push(
   "artist": "Orangestar",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=12",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8122,7 +8122,7 @@ window.SONG_DATA.push(
   "artist": "ユナ(神田沙也加)",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8130,7 +8130,7 @@ window.SONG_DATA.push(
   "artist": "ユナ(神田沙也加)",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8138,7 +8138,7 @@ window.SONG_DATA.push(
   "artist": "牧野由依",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8146,7 +8146,7 @@ window.SONG_DATA.push(
   "artist": "牧野由依",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8154,7 +8154,7 @@ window.SONG_DATA.push(
   "artist": "Kalafina",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8162,7 +8162,7 @@ window.SONG_DATA.push(
   "artist": "Kalafina",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8170,7 +8170,7 @@ window.SONG_DATA.push(
   "artist": "Kalafina",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8178,7 +8178,7 @@ window.SONG_DATA.push(
   "artist": "Kalafina",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8186,7 +8186,7 @@ window.SONG_DATA.push(
   "artist": "Kalafina",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8194,7 +8194,7 @@ window.SONG_DATA.push(
   "artist": "LiSA",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8202,7 +8202,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8210,7 +8210,7 @@ window.SONG_DATA.push(
   "artist": "LiSA",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8218,7 +8218,7 @@ window.SONG_DATA.push(
   "artist": "Kalafina",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8226,7 +8226,7 @@ window.SONG_DATA.push(
   "artist": "Kalafina",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8234,7 +8234,7 @@ window.SONG_DATA.push(
   "artist": "FictionJunction YUUKA",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8650,7 +8650,7 @@ window.SONG_DATA.push(
   "artist": "西尾えつ子",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8658,7 +8658,7 @@ window.SONG_DATA.push(
   "artist": "松谷祐子",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8666,7 +8666,7 @@ window.SONG_DATA.push(
   "artist": "橋本潮",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8674,7 +8674,7 @@ window.SONG_DATA.push(
   "artist": "岩崎良美",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8682,7 +8682,7 @@ window.SONG_DATA.push(
   "artist": "横山智佐(真宮寺さくら) & 帝国歌劇団",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8690,7 +8690,7 @@ window.SONG_DATA.push(
   "artist": "井上あずみ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8698,7 +8698,7 @@ window.SONG_DATA.push(
   "artist": "安田成美",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8706,7 +8706,7 @@ window.SONG_DATA.push(
   "artist": "井上あずみ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8714,7 +8714,7 @@ window.SONG_DATA.push(
   "artist": "水森亜土、こおろぎ'73",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8722,7 +8722,7 @@ window.SONG_DATA.push(
   "artist": "篠原涼子",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8730,7 +8730,7 @@ window.SONG_DATA.push(
   "artist": "森口博子",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8738,7 +8738,7 @@ window.SONG_DATA.push(
   "artist": "飯島真理",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8746,7 +8746,7 @@ window.SONG_DATA.push(
   "artist": "椎名恵",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8754,7 +8754,7 @@ window.SONG_DATA.push(
   "artist": "椎名恵",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8762,7 +8762,7 @@ window.SONG_DATA.push(
   "artist": "ZARD",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8770,7 +8770,7 @@ window.SONG_DATA.push(
   "artist": "光GENJI",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "MunMosh.js"
 },
     {
@@ -8778,7 +8778,7 @@ window.SONG_DATA.push(
   "artist": "石田燿子",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=17",
+  "link": null,
   "source": "MunMosh.js"
 }
 );

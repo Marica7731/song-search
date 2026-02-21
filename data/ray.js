@@ -1,6 +1,6 @@
 // 來-Ray- - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1mJZwB8EVa
-// 生成时间: 2/21/2026, 12:42:02 AM
+// 生成时间: 2/21/2026, 12:54:35 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1514,7 +1514,7 @@ window.SONG_DATA.push(
   "artist": "なつめ千秋 [2025-12-07]  [550sMNBOBws]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1522,7 +1522,7 @@ window.SONG_DATA.push(
   "artist": "john feat. 初音ミク [2025-11-08]  [K8F7-Bcvgj8]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1530,7 +1530,7 @@ window.SONG_DATA.push(
   "artist": "かいりきベア feat. 初音ミク [2025-11-08]  [K8F7-Bcvgj8]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1538,7 +1538,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ [2025-11-08]  [K8F7-Bcvgj8]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1546,7 +1546,7 @@ window.SONG_DATA.push(
   "artist": "Eve feat. 初音ミク [2025-11-08]  [K8F7-Bcvgj8]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1554,7 +1554,7 @@ window.SONG_DATA.push(
   "artist": "SLAVE.V-V-R feat. 猫村いろは [2025-11-08]  [K8F7-Bcvgj",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1562,7 +1562,7 @@ window.SONG_DATA.push(
   "artist": "蝶々P feat. 初音ミク [2025-11-08]  [K8F7-Bcvgj8]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1570,7 +1570,7 @@ window.SONG_DATA.push(
   "artist": "niki [2025-11-08]  [K8F7-Bcvgj8]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1578,7 +1578,7 @@ window.SONG_DATA.push(
   "artist": "wotaku feat. KAITO [2025-11-08]  [K8F7-Bcvgj8]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1586,7 +1586,7 @@ window.SONG_DATA.push(
   "artist": "れるりり feat. 鳴花ヒメ [2025-11-08]  [K8F7-Bcvgj8]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1594,7 +1594,7 @@ window.SONG_DATA.push(
   "artist": "すりぃ feat. 鏡音レン [2025-11-08]  [K8F7-Bcvgj8]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1602,7 +1602,7 @@ window.SONG_DATA.push(
   "artist": "koyori(電ポルP) feat. 初音ミク [2025-11-08]  [K8F7-Bcvgj8]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1610,7 +1610,7 @@ window.SONG_DATA.push(
   "artist": "スダンナユズユリー [2025-11-22]  [7ydqh32yxnY]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1618,7 +1618,7 @@ window.SONG_DATA.push(
   "artist": "みきとP feat. GUMI [2025-11-22]  [7ydqh32yxnY]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1626,7 +1626,7 @@ window.SONG_DATA.push(
   "artist": "MI8k feat. GUMI [2025-11-22]  [7ydqh32yxnY]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1634,7 +1634,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ [2025-11-22]  [7ydqh32yxnY]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1642,7 +1642,7 @@ window.SONG_DATA.push(
   "artist": "emon(Tes.) feat. 初音ミク [2025-11-22]  [7ydqh32yxnY]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=17",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1650,7 +1650,7 @@ window.SONG_DATA.push(
   "artist": "椎名林檎 [2025-11-22]  [7ydqh32yxnY]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=18",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1658,7 +1658,7 @@ window.SONG_DATA.push(
   "artist": "奥華子×96猫_sub [2025-11-22]  [7ydqh32yxnY]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=19",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1666,7 +1666,7 @@ window.SONG_DATA.push(
   "artist": "164 feat. GUMI [2025-11-22]  [7ydqh32yxnY]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=20",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1674,7 +1674,7 @@ window.SONG_DATA.push(
   "artist": "バルーン feat. flower [2025-11-22]  [7ydqh32yxnY]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=21",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1682,7 +1682,7 @@ window.SONG_DATA.push(
   "artist": "梅とら feat. 巡音ルカ, 初音ミク, GUMI [2025-11-22]  [7ydqh32yxnY]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=22",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1690,7 +1690,7 @@ window.SONG_DATA.push(
   "artist": "八王子P × Giga feat. 初音ミク, 鏡音リン [2025-11-22]  [7ydqh32yxnY]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=23",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1698,7 +1698,7 @@ window.SONG_DATA.push(
   "artist": "Giga & KIRA feat. 初音ミク & GUMI [2025-11-22]  [7ydqh32yxnY]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=24",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1706,7 +1706,7 @@ window.SONG_DATA.push(
   "artist": "Ayase feat. 初音ミク [2025-11-22]  [7ydqh32yxnY]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=25",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1714,7 +1714,7 @@ window.SONG_DATA.push(
   "artist": "ツミキ feat. 初音ミク [2025-11-22]  [7ydqh32yxnY]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=26",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1722,7 +1722,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい [2025-11-22]  [7ydqh32yxnY]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=27",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1730,7 +1730,7 @@ window.SONG_DATA.push(
   "artist": "Orangestar feat. IA [2025-11-22]  [7ydqh32yxnY]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=28",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1738,7 +1738,7 @@ window.SONG_DATA.push(
   "artist": "あいみょん [2025-11-22]  [7ydqh32yxnY]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=29",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1746,7 +1746,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん feat. 初音ミク [2025-11-22]  [7ydqh32yxnY]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=30",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1754,7 +1754,7 @@ window.SONG_DATA.push(
   "artist": "とくP feat. 初音ミク [2025-11-22]  [7ydqh32yxnY]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=31",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1762,7 +1762,7 @@ window.SONG_DATA.push(
   "artist": "yamada feat. 初音ミク [2025-11-30]  [PczJ9RVd9wI]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=32",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1770,7 +1770,7 @@ window.SONG_DATA.push(
   "artist": "香椎モイミ feat. 花隈千冬 [2025-11-30]  [PczJ9RVd9wI]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=33",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1778,7 +1778,7 @@ window.SONG_DATA.push(
   "artist": "めろくる feat. 初音ミク [2025-11-30]  [PczJ9RVd9wI]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=34",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1786,7 +1786,7 @@ window.SONG_DATA.push(
   "artist": "一之瀬ユウ feat. 初音ミク [2025-11-30]  [PczJ9RVd9wI]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=35",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1794,7 +1794,7 @@ window.SONG_DATA.push(
   "artist": "TOKOTOKO(西沢さんP) feat. GUMI [2025-11-30]  [PczJ9RVd9wI]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=36",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1802,7 +1802,7 @@ window.SONG_DATA.push(
   "artist": "ユリイ・カノン feat. 裏命 [2025-11-30]  [PczJ9RVd9wI]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=37",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1810,7 +1810,7 @@ window.SONG_DATA.push(
   "artist": "柊マグネタイト feat. 可不 [2025-11-30]  [PczJ9RVd9wI]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=38",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1818,7 +1818,7 @@ window.SONG_DATA.push(
   "artist": "TOKOTOKO(西沢さんP) feat. MAYU [2025-11-30]  [PczJ9RVd9wI]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=39",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1826,7 +1826,7 @@ window.SONG_DATA.push(
   "artist": "MI8k feat. GUMI [2025-11-30]  [PczJ9RVd9wI]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=40",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1834,7 +1834,7 @@ window.SONG_DATA.push(
   "artist": "バルーン feat. flower [2025-11-30]  [PczJ9RVd9wI]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=41",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1842,7 +1842,7 @@ window.SONG_DATA.push(
   "artist": "バルーン feat. flower [2025-11-30]  [PczJ9RVd9wI]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=42",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1850,7 +1850,7 @@ window.SONG_DATA.push(
   "artist": "Kanaria feat. GUMI×初音ミク [2025-11-30]  [PczJ9RVd9wI]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=43",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1858,7 +1858,7 @@ window.SONG_DATA.push(
   "artist": "ピコン feat. 初音ミク [2025-11-30]  [PczJ9RVd9wI]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=44",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1866,7 +1866,7 @@ window.SONG_DATA.push(
   "artist": "ryo feat. 初音ミク [2025-11-30]  [PczJ9RVd9wI]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=45",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1874,7 +1874,7 @@ window.SONG_DATA.push(
   "artist": "kemu feat. GUMI [2025-11-30]  [PczJ9RVd9wI]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=46",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1882,7 +1882,7 @@ window.SONG_DATA.push(
   "artist": "ジミーサムP feat. 巡音ルカ [2025-11-30]  [PczJ9RVd9wI]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=47",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1890,7 +1890,7 @@ window.SONG_DATA.push(
   "artist": "Neru feat. 鏡音リン & 鏡音レン [2025-11-30]  [PczJ9RVd9wI]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=48",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1898,7 +1898,7 @@ window.SONG_DATA.push(
   "artist": "ナユタン星人 feat. 初音ミク [2025-11-30]  [PczJ9RVd9wI]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=49",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1906,7 +1906,7 @@ window.SONG_DATA.push(
   "artist": "T.M.Revolution [2025-11-30]  [PczJ9RVd9wI]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=50",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1914,7 +1914,7 @@ window.SONG_DATA.push(
   "artist": "國蛋GorDoN [2025-11-30]  [PczJ9RVd9wI]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=51",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1922,7 +1922,7 @@ window.SONG_DATA.push(
   "artist": "n-buna feat. miki [2025-11-30]  [PczJ9RVd9wI]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=52",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1930,7 +1930,7 @@ window.SONG_DATA.push(
   "artist": "n-buna feat. 初音ミク [2025-11-30]  [PczJ9RVd9wI]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=53",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1938,7 +1938,7 @@ window.SONG_DATA.push(
   "artist": "n-buna feat. GUMI [2025-11-30]  [PczJ9RVd9wI]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=54",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1946,7 +1946,7 @@ window.SONG_DATA.push(
   "artist": "香椎モイミ [2025-11-30]  [PczJ9RVd9wI]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=55",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1954,7 +1954,7 @@ window.SONG_DATA.push(
   "artist": "wotaku feat. KAITO [2025-11-30]  [PczJ9RVd9wI]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=56",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1962,7 +1962,7 @@ window.SONG_DATA.push(
   "artist": "香椎モイミ feat. 初音ミク [2025-11-30]  [PczJ9RVd9wI]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=57",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1970,7 +1970,7 @@ window.SONG_DATA.push(
   "artist": "香椎モイミ [2025-12-07]  [550sMNBOBws]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=58",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1978,7 +1978,7 @@ window.SONG_DATA.push(
   "artist": "Noz. [2025-12-07]  [550sMNBOBws]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=59",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1986,7 +1986,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉 [2025-12-07]  [550sMNBOBws]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=60",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -1994,7 +1994,7 @@ window.SONG_DATA.push(
   "artist": "ポリスピカデリー [2025-12-07]  [550sMNBOBws]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=61",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2002,7 +2002,7 @@ window.SONG_DATA.push(
   "artist": "Azari [2025-12-07]  [550sMNBOBws]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=62",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2010,7 +2010,7 @@ window.SONG_DATA.push(
   "artist": "なつめ千秋 [2025-12-07]  [550sMNBOBws]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=63",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2018,7 +2018,7 @@ window.SONG_DATA.push(
   "artist": "ツカダタカシゲ [2025-12-07]  [550sMNBOBws]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=64",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2026,7 +2026,7 @@ window.SONG_DATA.push(
   "artist": "seiza [2025-12-07]  [550sMNBOBws]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=65",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2034,7 +2034,7 @@ window.SONG_DATA.push(
   "artist": "梅とら [2025-12-07]  [550sMNBOBws]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=66",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2042,7 +2042,7 @@ window.SONG_DATA.push(
   "artist": "Aimer [2025-12-07]  [550sMNBOBws]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=67",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2050,7 +2050,7 @@ window.SONG_DATA.push(
   "artist": "ポリスピカデリー [2025-12-07]  [550sMNBOBws]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=68",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2058,7 +2058,7 @@ window.SONG_DATA.push(
   "artist": "samfree [2025-12-07]  [550sMNBOBws]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=69",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2066,7 +2066,7 @@ window.SONG_DATA.push(
   "artist": "keeno [2025-12-07]  [550sMNBOBws]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=70",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2074,7 +2074,7 @@ window.SONG_DATA.push(
   "artist": "n.k [2025-12-07]  [550sMNBOBws]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=71",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2082,7 +2082,7 @@ window.SONG_DATA.push(
   "artist": "香椎モイミ [2025-12-07]  [550sMNBOBws]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=72",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2090,7 +2090,7 @@ window.SONG_DATA.push(
   "artist": "香椎モイミ [2025-12-07]  [550sMNBOBws]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=73",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2098,7 +2098,7 @@ window.SONG_DATA.push(
   "artist": "すりぃ [2025-12-07]  [550sMNBOBws]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=74",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2106,7 +2106,7 @@ window.SONG_DATA.push(
   "artist": "Giga [2025-12-07]  [550sMNBOBws]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=75",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2114,7 +2114,7 @@ window.SONG_DATA.push(
   "artist": "asu [2025-12-07]  [550sMNBOBws]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=76",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2122,7 +2122,7 @@ window.SONG_DATA.push(
   "artist": "asu [2025-12-07]  [550sMNBOBws]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=77",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2130,7 +2130,7 @@ window.SONG_DATA.push(
   "artist": "蝶々P [2025-12-07]  [550sMNBOBws]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=78",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2138,7 +2138,7 @@ window.SONG_DATA.push(
   "artist": "ぬゆり [2025-12-07]  [550sMNBOBws]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=79",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2146,7 +2146,7 @@ window.SONG_DATA.push(
   "artist": "niki [2025-12-07]  [550sMNBOBws]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=80",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2154,7 +2154,7 @@ window.SONG_DATA.push(
   "artist": "梅とら [2025-12-07]  [550sMNBOBws]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=81",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2162,7 +2162,7 @@ window.SONG_DATA.push(
   "artist": "ポリスピカデリー [2025-12-07]  [550sMNBOBws]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=82",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2170,7 +2170,7 @@ window.SONG_DATA.push(
   "artist": "Giga [2025-12-07]  [550sMNBOBws]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=83",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2178,7 +2178,7 @@ window.SONG_DATA.push(
   "artist": "キョータ [2025-12-07]  [550sMNBOBws]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=84",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2186,7 +2186,7 @@ window.SONG_DATA.push(
   "artist": "廉 [2025-12-07]  [550sMNBOBws]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=85",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2194,7 +2194,7 @@ window.SONG_DATA.push(
   "artist": "のぼる↑ [2025-12-07]  [550sMNBOBws]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=86",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2202,7 +2202,7 @@ window.SONG_DATA.push(
   "artist": "millstones [2025-12-07]  [550sMNBOBws]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=87",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2210,7 +2210,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん [2025-12-14]  [Xrqzjo85qw4]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=88",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2218,7 +2218,7 @@ window.SONG_DATA.push(
   "artist": "niki [2025-12-14]  [Xrqzjo85qw4]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=89",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2226,7 +2226,7 @@ window.SONG_DATA.push(
   "artist": "The Kid LAROI, Justin Bieber [2025-12-14]  [Xrqzjo85qw4]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=90",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2234,7 +2234,7 @@ window.SONG_DATA.push(
   "artist": "MYTH&ROID [2025-12-14]  [Xrqzjo85qw4]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=91",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2242,7 +2242,7 @@ window.SONG_DATA.push(
   "artist": "ウォルピスカーター [2025-12-14]  [Xrqzjo85qw4]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=92",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2250,7 +2250,7 @@ window.SONG_DATA.push(
   "artist": "40mP [2025-12-14]  [Xrqzjo85qw4]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=93",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2258,7 +2258,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル [2025-12-14]  [Xrqzjo85qw4]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=94",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2266,7 +2266,7 @@ window.SONG_DATA.push(
   "artist": "ひとしずくP [2025-12-14]  [Xrqzjo85qw4]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=95",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2274,7 +2274,7 @@ window.SONG_DATA.push(
   "artist": "バルーン [2025-12-14]  [Xrqzjo85qw4]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=96",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2282,7 +2282,7 @@ window.SONG_DATA.push(
   "artist": "プロペリン [2025-12-14]  [Xrqzjo85qw4]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=97",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2290,7 +2290,7 @@ window.SONG_DATA.push(
   "artist": "risou [2025-12-14]  [Xrqzjo85qw4]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=98",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2298,7 +2298,7 @@ window.SONG_DATA.push(
   "artist": "niki [2025-12-14]  [Xrqzjo85qw4]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=99",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2306,7 +2306,7 @@ window.SONG_DATA.push(
   "artist": "獅子志司 [2025-12-14]  [Xrqzjo85qw4]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=100",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2314,7 +2314,7 @@ window.SONG_DATA.push(
   "artist": "獅子志司 [2025-12-14]  [Xrqzjo85qw4]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=101",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2322,7 +2322,7 @@ window.SONG_DATA.push(
   "artist": "廉 [2025-12-14]  [Xrqzjo85qw4]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=102",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2330,7 +2330,7 @@ window.SONG_DATA.push(
   "artist": "Kanaria [2025-12-14]  [Xrqzjo85qw4]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=103",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2338,7 +2338,7 @@ window.SONG_DATA.push(
   "artist": "Orangestar [2025-12-14]  [Xrqzjo85qw4]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=104",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2346,7 +2346,7 @@ window.SONG_DATA.push(
   "artist": "doriko [2025-12-14]  [Xrqzjo85qw4]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=105",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2354,7 +2354,7 @@ window.SONG_DATA.push(
   "artist": "iPPei [2025-12-14]  [Xrqzjo85qw4]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=106",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2362,7 +2362,7 @@ window.SONG_DATA.push(
   "artist": "梅とら [2025-12-14]  [Xrqzjo85qw4]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=107",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2370,7 +2370,7 @@ window.SONG_DATA.push(
   "artist": "Azari feat. v flower [2026-01-06]  [1jMCxfYhaEc]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=108",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2378,7 +2378,7 @@ window.SONG_DATA.push(
   "artist": "みきとP feat. GUMI [2026-01-06]  [1jMCxfYhaEc]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=109",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2386,7 +2386,7 @@ window.SONG_DATA.push(
   "artist": "アイナ・ジ・エンド [2026-01-06]  [1jMCxfYhaEc]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=110",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2394,7 +2394,7 @@ window.SONG_DATA.push(
   "artist": "夕凪機 [2026-01-06]  [1jMCxfYhaEc]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=111",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2402,7 +2402,7 @@ window.SONG_DATA.push(
   "artist": "はるまきごはん [2026-01-06]  [1jMCxfYhaEc]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=112",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2410,7 +2410,7 @@ window.SONG_DATA.push(
   "artist": "いよわ feat. 初音ミク, v flower [2026-01-06]  [1jMCxfYhaEc]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=113",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2418,7 +2418,7 @@ window.SONG_DATA.push(
   "artist": "吐息 feat. Such [2026-01-06]  [1jMCxfYhaEc]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=114",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2426,7 +2426,7 @@ window.SONG_DATA.push(
   "artist": "香椎モイミ feat. 羽累 [2026-01-06]  [1jMCxfYhaEc]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=115",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2434,7 +2434,7 @@ window.SONG_DATA.push(
   "artist": "明透 [2026-01-06]  [1jMCxfYhaEc]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=116",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2442,7 +2442,7 @@ window.SONG_DATA.push(
   "artist": "梅とら feat. 巡音ルカ, 初音ミク, GUMI, IA, 鏡音リン [2026-01-06]  [1jMCxfYhaEc]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=117",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2450,7 +2450,7 @@ window.SONG_DATA.push(
   "artist": "ポリスピカデリー [2026-01-18]  [PBvQEexlViU]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=118",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2458,7 +2458,7 @@ window.SONG_DATA.push(
   "artist": "Aqu3ra [2026-01-18]  [PBvQEexlViU]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=119",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2466,7 +2466,7 @@ window.SONG_DATA.push(
   "artist": "のりP [2026-01-18]  [PBvQEexlViU]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=120",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2474,7 +2474,7 @@ window.SONG_DATA.push(
   "artist": "niki [2026-01-18]  [PBvQEexlViU]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=121",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2482,7 +2482,7 @@ window.SONG_DATA.push(
   "artist": "Giga [2026-01-18]  [PBvQEexlViU]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=122",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2490,7 +2490,7 @@ window.SONG_DATA.push(
   "artist": "菅田将暉 [2026-01-18]  [PBvQEexlViU]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=123",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2498,7 +2498,7 @@ window.SONG_DATA.push(
   "artist": "Ado [2026-01-18]  [PBvQEexlViU]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=124",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2506,7 +2506,7 @@ window.SONG_DATA.push(
   "artist": "DECO27 [2026-01-18]  [PBvQEexlViU]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=125",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2514,7 +2514,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism [2026-01-18]  [PBvQEexlViU]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=126",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2522,7 +2522,7 @@ window.SONG_DATA.push(
   "artist": "BAAD [2026-01-18]  [PBvQEexlViU]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=127",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2530,7 +2530,7 @@ window.SONG_DATA.push(
   "artist": "梅とら [2026-01-18]  [PBvQEexlViU]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=128",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2538,7 +2538,7 @@ window.SONG_DATA.push(
   "artist": "niki [2026-01-18]  [PBvQEexlViU]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=129",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2546,7 +2546,7 @@ window.SONG_DATA.push(
   "artist": "Mrs. GREEN APPLE [2026-01-18]  [PBvQEexlViU]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=130",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2554,7 +2554,7 @@ window.SONG_DATA.push(
   "artist": "r-906 [2026-01-18]  [PBvQEexlViU]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=131",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2562,7 +2562,7 @@ window.SONG_DATA.push(
   "artist": "Crusher-P [2026-01-18]  [PBvQEexlViU]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=132",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2570,7 +2570,7 @@ window.SONG_DATA.push(
   "artist": "とあ [2026-01-18]  [PBvQEexlViU]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=133",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2578,7 +2578,7 @@ window.SONG_DATA.push(
   "artist": "r-906 [2026-01-18]  [PBvQEexlViU]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=134",
+  "link": null,
   "source": "ray.js"
 },
     {
@@ -2586,7 +2586,7 @@ window.SONG_DATA.push(
   "artist": "みきとP [2026-01-18]  [PBvQEexlViU]",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=135",
+  "link": null,
   "source": "ray.js"
 }
 );

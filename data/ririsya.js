@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1cofuBGEkX
-// 生成时间: 2/21/2026, 12:40:57 AM
+// 生成时间: 2/21/2026, 12:53:45 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -922,7 +922,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -930,7 +930,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -938,7 +938,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -946,7 +946,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -954,7 +954,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -962,7 +962,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -970,7 +970,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -978,7 +978,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -986,7 +986,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -994,7 +994,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1002,7 +1002,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1010,7 +1010,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1018,7 +1018,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1026,7 +1026,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=14",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1034,7 +1034,7 @@ window.SONG_DATA.push(
   "artist": "蝶々P,GUMI",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=15",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1042,7 +1042,7 @@ window.SONG_DATA.push(
   "artist": "Blue Journey",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=16",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1050,7 +1050,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=17",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1058,7 +1058,7 @@ window.SONG_DATA.push(
   "artist": "中島みゆき【睡眠導入歌回1】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1066,7 +1066,7 @@ window.SONG_DATA.push(
   "artist": "蝶々P【睡眠導入歌回1】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1074,7 +1074,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵【睡眠導入歌回1】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1082,7 +1082,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1090,7 +1090,7 @@ window.SONG_DATA.push(
   "artist": "DREAMS COME TRUE  【睡眠導入歌回1】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1098,7 +1098,7 @@ window.SONG_DATA.push(
   "artist": "RADWIMPS【睡眠導入歌回1】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1106,7 +1106,7 @@ window.SONG_DATA.push(
   "artist": "仓木麻衣【睡眠導入歌回1】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1114,7 +1114,7 @@ window.SONG_DATA.push(
   "artist": "aiko【睡眠導入歌回1】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1122,7 +1122,7 @@ window.SONG_DATA.push(
   "artist": "サスケ【睡眠導入歌回1】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1130,7 +1130,7 @@ window.SONG_DATA.push(
   "artist": "Saucy Dog【睡眠導入歌回1】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1138,7 +1138,7 @@ window.SONG_DATA.push(
   "artist": "Saucy Dog【睡眠導入歌回1】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1146,7 +1146,7 @@ window.SONG_DATA.push(
   "artist": "井上あずみ  【睡眠導入歌回1】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1154,7 +1154,7 @@ window.SONG_DATA.push(
   "artist": "松任谷由実  【睡眠導入歌回1】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1162,7 +1162,7 @@ window.SONG_DATA.push(
   "artist": "ナブナ【睡眠導入歌回1】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=14",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1170,7 +1170,7 @@ window.SONG_DATA.push(
   "artist": "HY【睡眠導入歌回1】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=15",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1178,7 +1178,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=16",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1186,7 +1186,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=17",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1194,7 +1194,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=18",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1202,7 +1202,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=19",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1210,7 +1210,7 @@ window.SONG_DATA.push(
   "artist": "癒月",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=20",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1218,7 +1218,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=21",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1226,7 +1226,7 @@ window.SONG_DATA.push(
   "artist": "ALI PROJECT",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=22",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1234,7 +1234,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=23",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1242,7 +1242,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=24",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1250,7 +1250,7 @@ window.SONG_DATA.push(
   "artist": "ReoNa",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=25",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1258,7 +1258,7 @@ window.SONG_DATA.push(
   "artist": "林肯公园【日常歌回",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=26",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1266,7 +1266,7 @@ window.SONG_DATA.push(
   "artist": "凛々咲【日常歌回",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=27",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1274,7 +1274,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=28",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1282,7 +1282,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=29",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1290,7 +1290,7 @@ window.SONG_DATA.push(
   "artist": "The Beatles【日常歌回",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=30",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1298,7 +1298,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=31",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1306,7 +1306,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=32",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1314,7 +1314,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=33",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1322,7 +1322,7 @@ window.SONG_DATA.push(
   "artist": "spuercell【日常歌回",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=34",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1330,7 +1330,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=35",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1338,7 +1338,7 @@ window.SONG_DATA.push(
   "artist": "FRUITS ZIPPER【日常歌回",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=36",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1346,7 +1346,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=37",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1354,7 +1354,7 @@ window.SONG_DATA.push(
   "artist": "凛々咲 【日常歌回",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=38",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1362,7 +1362,7 @@ window.SONG_DATA.push(
   "artist": "凛々咲【日常歌回",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=39",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1370,7 +1370,7 @@ window.SONG_DATA.push(
   "artist": "ReoNa【人类灭亡部的接力】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=40",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1378,7 +1378,7 @@ window.SONG_DATA.push(
   "artist": "TK from 凛冽时雨【人类灭亡部的接力】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=41",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1386,7 +1386,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=42",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1394,7 +1394,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST (エゴイスト)【人类灭亡部的接力】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=43",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1402,7 +1402,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=44",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1410,7 +1410,7 @@ window.SONG_DATA.push(
   "artist": "倉木麻衣【11月竖屏弹唱】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=45",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1418,7 +1418,7 @@ window.SONG_DATA.push(
   "artist": "Kaye Ballard 【11月竖屏弹唱】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=46",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1426,7 +1426,7 @@ window.SONG_DATA.push(
   "artist": "AKASAKI【11月竖屏弹唱】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=47",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1434,7 +1434,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=48",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1442,7 +1442,7 @@ window.SONG_DATA.push(
   "artist": "亜沙【11月竖屏弹唱】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=49",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1450,7 +1450,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=50",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1458,7 +1458,7 @@ window.SONG_DATA.push(
   "artist": "白上フブキ、百鬼あやめ、大神ミオ、さくらみこ【11月竖屏弹唱】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=51",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1466,7 +1466,7 @@ window.SONG_DATA.push(
   "artist": "黒うさP【11月竖屏弹唱】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=52",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1474,7 +1474,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師【11月竖屏弹唱】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=53",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1482,7 +1482,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師 【11月竖屏弹唱】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=54",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1490,7 +1490,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=55",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1498,7 +1498,7 @@ window.SONG_DATA.push(
   "artist": "Aimer【凛々咲】【11月】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=56",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1506,7 +1506,7 @@ window.SONG_DATA.push(
   "artist": "安田成美【凛々咲】【11月】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=57",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1514,7 +1514,7 @@ window.SONG_DATA.push(
   "artist": "つじあやの【凛々咲】【11月】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=58",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1522,7 +1522,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵【凛々咲】【11月】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=59",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1530,7 +1530,7 @@ window.SONG_DATA.push(
   "artist": "milet【凛々咲】【11月】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=60",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1538,7 +1538,7 @@ window.SONG_DATA.push(
   "artist": "John Denver【凛々咲】【11月】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=61",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1546,7 +1546,7 @@ window.SONG_DATA.push(
   "artist": "Daniel Powter【凛々咲】【11月】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=62",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1554,7 +1554,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉【凛々咲】【11月】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=63",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1562,7 +1562,7 @@ window.SONG_DATA.push(
   "artist": "スキマスイッチ【凛々咲】【11月】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=64",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1570,7 +1570,7 @@ window.SONG_DATA.push(
   "artist": "コレサワ【凛々咲】【11月】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=65",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1578,7 +1578,7 @@ window.SONG_DATA.push(
   "artist": "tuki.【凛々咲】【11月】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=66",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1586,7 +1586,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ【凛々咲】【11月】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=67",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1594,7 +1594,7 @@ window.SONG_DATA.push(
   "artist": "ONE OK ROCK【凛々咲】【11月】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=68",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1602,7 +1602,7 @@ window.SONG_DATA.push(
   "artist": "高橋広樹【凛々咲】【11月】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=69",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1610,7 +1610,7 @@ window.SONG_DATA.push(
   "artist": "紗倉ひびき【凛々咲】【11月耐久】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=70",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1618,7 +1618,7 @@ window.SONG_DATA.push(
   "artist": "Ado【凛々咲】【11月耐久】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=71",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1626,7 +1626,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=72",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1634,7 +1634,7 @@ window.SONG_DATA.push(
   "artist": "安野希世乃【凛々咲】【11月耐久】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=73",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1642,7 +1642,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=74",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1650,7 +1650,7 @@ window.SONG_DATA.push(
   "artist": "牧村三枝子【凛々咲】【11月耐久】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=75",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1658,7 +1658,7 @@ window.SONG_DATA.push(
   "artist": "井上あずみ 【凛々咲】【11月耐久】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=76",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1666,7 +1666,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=77",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1674,7 +1674,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=78",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1682,7 +1682,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=79",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1690,7 +1690,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=80",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1698,7 +1698,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=81",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1706,7 +1706,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=82",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1714,7 +1714,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI【凛々咲】【11月耐久】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=83",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1722,7 +1722,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=84",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1730,7 +1730,7 @@ window.SONG_DATA.push(
   "artist": "Fruits Zipper【凛々咲】【11月耐久】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=85",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1738,7 +1738,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=86",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1746,7 +1746,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=87",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1754,7 +1754,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=88",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1762,7 +1762,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=89",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1770,7 +1770,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=90",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1778,7 +1778,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=91",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1786,7 +1786,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=92",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1794,7 +1794,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=93",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1802,7 +1802,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=94",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1810,7 +1810,7 @@ window.SONG_DATA.push(
   "artist": "yoasobi【凛々咲】【11月耐久】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=95",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1818,7 +1818,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=96",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1826,7 +1826,7 @@ window.SONG_DATA.push(
   "artist": "猫又おかゆ【凛々咲】【11月耐久】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=97",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1834,7 +1834,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=98",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1842,7 +1842,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=99",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1850,7 +1850,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=100",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1858,7 +1858,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=101",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1866,7 +1866,7 @@ window.SONG_DATA.push(
   "artist": "B'z【凛々咲】【11月耐久】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=102",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1874,7 +1874,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=103",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1882,7 +1882,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=104",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1890,7 +1890,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=105",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1898,7 +1898,7 @@ window.SONG_DATA.push(
   "artist": "まんが日本昔ばなし【凛々咲】【11月耐久】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=106",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1906,7 +1906,7 @@ window.SONG_DATA.push(
   "artist": "ReGLOSS 【凛々咲】【11月耐久】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=107",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1914,7 +1914,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=108",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1922,7 +1922,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=109",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1930,7 +1930,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=110",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1938,7 +1938,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=111",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1946,7 +1946,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=112",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1954,7 +1954,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=113",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1962,7 +1962,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=114",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1970,7 +1970,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=115",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1978,7 +1978,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=116",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1986,7 +1986,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=117",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -1994,7 +1994,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=118",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -2002,7 +2002,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=119",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -2010,7 +2010,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=120",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -2018,7 +2018,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=121",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -2026,7 +2026,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=122",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -2034,7 +2034,7 @@ window.SONG_DATA.push(
   "artist": "愛内里菜 【凛々咲】【11月耐久2】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=123",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -2042,7 +2042,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=124",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -2050,7 +2050,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=125",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -2058,7 +2058,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=126",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -2066,7 +2066,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=127",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -2074,7 +2074,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=128",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -2082,7 +2082,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=129",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -2090,7 +2090,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=130",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -2098,7 +2098,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=131",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -2106,7 +2106,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=132",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -2114,7 +2114,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=133",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -2122,7 +2122,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=134",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -2130,7 +2130,7 @@ window.SONG_DATA.push(
   "artist": "凛々咲【凛々咲】【11月耐久2】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=135",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -2138,7 +2138,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=136",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -2146,7 +2146,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=137",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -2154,7 +2154,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=138",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -2162,7 +2162,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=139",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -2170,7 +2170,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=140",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -2178,7 +2178,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=141",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -2186,7 +2186,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=142",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -2194,7 +2194,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=143",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -2202,7 +2202,7 @@ window.SONG_DATA.push(
   "artist": "Moona Hoshinova【凛々咲】【11月29日常回】",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=144",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -2210,7 +2210,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=145",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -3402,7 +3402,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -3410,7 +3410,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -3418,7 +3418,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -3426,7 +3426,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -3434,7 +3434,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -3442,7 +3442,7 @@ window.SONG_DATA.push(
   "artist": "高橋洋樹",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -3450,7 +3450,7 @@ window.SONG_DATA.push(
   "artist": "こおろぎ'73,水森亜土",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -3458,7 +3458,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -3466,7 +3466,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -3474,7 +3474,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -3482,7 +3482,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -3490,7 +3490,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -3498,7 +3498,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -3506,7 +3506,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -3514,7 +3514,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -3522,7 +3522,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -3530,7 +3530,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -3538,7 +3538,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -3546,7 +3546,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -3946,7 +3946,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -3954,7 +3954,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -3962,7 +3962,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -3970,7 +3970,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -3978,7 +3978,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -3986,7 +3986,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -3994,7 +3994,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4002,7 +4002,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4010,7 +4010,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4018,7 +4018,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4026,7 +4026,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4034,7 +4034,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4042,7 +4042,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4050,7 +4050,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4058,7 +4058,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4066,7 +4066,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4074,7 +4074,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4082,7 +4082,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4090,7 +4090,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4098,7 +4098,7 @@ window.SONG_DATA.push(
   "artist": "阿部真央",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4106,7 +4106,7 @@ window.SONG_DATA.push(
   "artist": "阿部真央",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4114,7 +4114,7 @@ window.SONG_DATA.push(
   "artist": "阿部真央",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4122,7 +4122,7 @@ window.SONG_DATA.push(
   "artist": "阿部真央",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4130,7 +4130,7 @@ window.SONG_DATA.push(
   "artist": "阿部真央",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4138,7 +4138,7 @@ window.SONG_DATA.push(
   "artist": "back number",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4146,7 +4146,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4154,7 +4154,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4162,7 +4162,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4170,7 +4170,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4178,7 +4178,7 @@ window.SONG_DATA.push(
   "artist": "YUKA",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4186,7 +4186,7 @@ window.SONG_DATA.push(
   "artist": "CHICKS",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=13",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4194,7 +4194,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=14",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4202,7 +4202,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=15",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4210,7 +4210,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=16",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4218,7 +4218,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=17",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4226,7 +4226,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=18",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4234,7 +4234,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=19",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4746,7 +4746,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4754,7 +4754,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4762,7 +4762,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4770,7 +4770,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4778,7 +4778,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4786,7 +4786,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4794,7 +4794,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4802,7 +4802,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4810,7 +4810,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4818,7 +4818,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4826,7 +4826,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4834,7 +4834,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4842,7 +4842,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4850,7 +4850,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4858,7 +4858,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4866,7 +4866,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4874,7 +4874,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=17",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4882,7 +4882,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=18",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4890,7 +4890,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4898,7 +4898,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4906,7 +4906,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4914,7 +4914,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4922,7 +4922,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4930,7 +4930,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4938,7 +4938,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4946,7 +4946,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4954,7 +4954,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4962,7 +4962,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4970,7 +4970,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4978,7 +4978,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4986,7 +4986,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -4994,7 +4994,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5002,7 +5002,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5010,7 +5010,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5018,7 +5018,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=17",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5026,7 +5026,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=18",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5034,7 +5034,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5042,7 +5042,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5050,7 +5050,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5058,7 +5058,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5066,7 +5066,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5074,7 +5074,7 @@ window.SONG_DATA.push(
   "artist": "のはらしんのすけ(矢島晶子)",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5082,7 +5082,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5090,7 +5090,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5098,7 +5098,7 @@ window.SONG_DATA.push(
   "artist": "ReoNa",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5106,7 +5106,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5114,7 +5114,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5122,7 +5122,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5130,7 +5130,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5138,7 +5138,7 @@ window.SONG_DATA.push(
   "artist": "BUMP OF CHICKEN",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5146,7 +5146,7 @@ window.SONG_DATA.push(
   "artist": "ポルノグラフィティ ふりがな付",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5154,7 +5154,7 @@ window.SONG_DATA.push(
   "artist": "湊あくあ ふりがな付",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=16",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5162,7 +5162,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=17",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5170,7 +5170,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=18",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5178,7 +5178,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5186,7 +5186,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5194,7 +5194,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5202,7 +5202,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5210,7 +5210,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5218,7 +5218,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5226,7 +5226,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5234,7 +5234,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5242,7 +5242,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5250,7 +5250,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5258,7 +5258,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5266,7 +5266,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5274,7 +5274,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5282,7 +5282,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5290,7 +5290,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5298,7 +5298,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=16",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5306,7 +5306,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=17",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5314,7 +5314,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=18",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5322,7 +5322,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=19",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5330,7 +5330,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=20",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5338,7 +5338,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=21",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5346,7 +5346,7 @@ window.SONG_DATA.push(
   "artist": "Fischer's(フィッシャーズ) ふりがな付",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5354,7 +5354,7 @@ window.SONG_DATA.push(
   "artist": "大塚愛",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5362,7 +5362,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5370,7 +5370,7 @@ window.SONG_DATA.push(
   "artist": "コレサワ",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5378,7 +5378,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5386,7 +5386,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5394,7 +5394,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5402,7 +5402,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5410,7 +5410,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5418,7 +5418,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5426,7 +5426,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5434,7 +5434,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5442,7 +5442,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5450,7 +5450,7 @@ window.SONG_DATA.push(
   "artist": "中森明菜",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=14",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5458,7 +5458,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=15",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5466,7 +5466,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=16",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5474,7 +5474,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=17",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5482,7 +5482,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=18",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5490,7 +5490,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=19",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5498,7 +5498,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=20",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5506,7 +5506,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=21",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5514,7 +5514,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=22",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5522,7 +5522,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=23",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5530,7 +5530,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=24",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5538,7 +5538,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=25",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5546,7 +5546,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=26",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5554,7 +5554,7 @@ window.SONG_DATA.push(
   "artist": "RADWIMPS",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=27",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5562,7 +5562,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=28",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5570,7 +5570,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=29",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5786,7 +5786,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5794,7 +5794,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5802,7 +5802,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5810,7 +5810,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5818,7 +5818,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5826,7 +5826,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5834,7 +5834,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5842,7 +5842,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5850,7 +5850,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5858,7 +5858,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5866,7 +5866,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5874,7 +5874,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5882,7 +5882,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5890,7 +5890,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5898,7 +5898,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5906,7 +5906,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5914,7 +5914,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5922,7 +5922,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5930,7 +5930,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=19",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5938,7 +5938,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=20",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5946,7 +5946,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=21",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5954,7 +5954,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=22",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5962,7 +5962,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=23",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -5970,7 +5970,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=24",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6690,7 +6690,7 @@ window.SONG_DATA.push(
   "artist": "AKASAKI",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6698,7 +6698,7 @@ window.SONG_DATA.push(
   "artist": "なとり",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6706,7 +6706,7 @@ window.SONG_DATA.push(
   "artist": "DECO27",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6714,7 +6714,7 @@ window.SONG_DATA.push(
   "artist": "ONE OK ROCK",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6722,7 +6722,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6730,7 +6730,7 @@ window.SONG_DATA.push(
   "artist": "Leoneed × 初音ミク",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6738,7 +6738,7 @@ window.SONG_DATA.push(
   "artist": "n-buna",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6746,7 +6746,7 @@ window.SONG_DATA.push(
   "artist": "サザンオールスターズ",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6754,7 +6754,7 @@ window.SONG_DATA.push(
   "artist": "サザンオールスターズ",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6762,7 +6762,7 @@ window.SONG_DATA.push(
   "artist": "SHISHAMO",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6770,7 +6770,7 @@ window.SONG_DATA.push(
   "artist": "SHISHAMO",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6778,7 +6778,7 @@ window.SONG_DATA.push(
   "artist": "吉澤嘉代子",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6786,7 +6786,7 @@ window.SONG_DATA.push(
   "artist": "大塚愛",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6794,7 +6794,7 @@ window.SONG_DATA.push(
   "artist": "秦基博",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6802,7 +6802,7 @@ window.SONG_DATA.push(
   "artist": "大柴広己(もじゃ)",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6810,7 +6810,7 @@ window.SONG_DATA.push(
   "artist": "七尾旅人",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6818,7 +6818,7 @@ window.SONG_DATA.push(
   "artist": "tuki.",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=17",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6826,7 +6826,7 @@ window.SONG_DATA.push(
   "artist": "つじあやの",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=18",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6834,7 +6834,7 @@ window.SONG_DATA.push(
   "artist": "ツキミ",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=19",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6842,7 +6842,7 @@ window.SONG_DATA.push(
   "artist": "相対性理論",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=20",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6850,7 +6850,7 @@ window.SONG_DATA.push(
   "artist": "パルコ・フォルゴレ(高橋広樹)",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=21",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6858,7 +6858,7 @@ window.SONG_DATA.push(
   "artist": "あいみょん",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6866,7 +6866,7 @@ window.SONG_DATA.push(
   "artist": "ツヅリ・ヅクリ",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6874,7 +6874,7 @@ window.SONG_DATA.push(
   "artist": "佐々木恵梨",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6882,7 +6882,7 @@ window.SONG_DATA.push(
   "artist": "宮 武弘",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6890,7 +6890,7 @@ window.SONG_DATA.push(
   "artist": "松任谷由実",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6898,7 +6898,7 @@ window.SONG_DATA.push(
   "artist": "Ms.OOJA",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6906,7 +6906,7 @@ window.SONG_DATA.push(
   "artist": "梶裕貴",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6914,7 +6914,7 @@ window.SONG_DATA.push(
   "artist": "mao",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6922,7 +6922,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6930,7 +6930,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6938,7 +6938,7 @@ window.SONG_DATA.push(
   "artist": "AiScReam",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6946,7 +6946,7 @@ window.SONG_DATA.push(
   "artist": "エレファントカシマシ",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6954,7 +6954,7 @@ window.SONG_DATA.push(
   "artist": "斉藤和義",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=13",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6962,7 +6962,7 @@ window.SONG_DATA.push(
   "artist": "tuki.",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=14",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6970,7 +6970,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=15",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6978,7 +6978,7 @@ window.SONG_DATA.push(
   "artist": "suis",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=16",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6986,7 +6986,7 @@ window.SONG_DATA.push(
   "artist": "雪野五月",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=17",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -6994,7 +6994,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7002,7 +7002,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7010,7 +7010,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7018,7 +7018,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7026,7 +7026,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7034,7 +7034,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7042,7 +7042,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7050,7 +7050,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7058,7 +7058,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7066,7 +7066,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7074,7 +7074,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7082,7 +7082,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7090,7 +7090,7 @@ window.SONG_DATA.push(
   "artist": "ポルノグラフィティ",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7098,7 +7098,7 @@ window.SONG_DATA.push(
   "artist": "理芽",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7106,7 +7106,7 @@ window.SONG_DATA.push(
   "artist": "中島愛",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7114,7 +7114,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7122,7 +7122,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7130,7 +7130,7 @@ window.SONG_DATA.push(
   "artist": "back number",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7138,7 +7138,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7146,7 +7146,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7154,7 +7154,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7162,7 +7162,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7170,7 +7170,7 @@ window.SONG_DATA.push(
   "artist": "B'z",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7178,7 +7178,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7186,7 +7186,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7194,7 +7194,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7202,7 +7202,7 @@ window.SONG_DATA.push(
   "artist": "RADWIMPS",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7210,7 +7210,7 @@ window.SONG_DATA.push(
   "artist": "RADWIMPS",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7218,7 +7218,7 @@ window.SONG_DATA.push(
   "artist": "RADWIMPS",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7226,7 +7226,7 @@ window.SONG_DATA.push(
   "artist": "RADWIMPS",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7490,7 +7490,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7498,7 +7498,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7506,7 +7506,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7514,7 +7514,7 @@ window.SONG_DATA.push(
   "artist": "はてなブログ",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7522,7 +7522,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7530,7 +7530,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7538,7 +7538,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7546,7 +7546,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7554,7 +7554,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7562,7 +7562,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7570,7 +7570,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7578,7 +7578,7 @@ window.SONG_DATA.push(
   "artist": "Aqua Timez",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7586,7 +7586,7 @@ window.SONG_DATA.push(
   "artist": "平井堅",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7594,7 +7594,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7602,7 +7602,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7610,7 +7610,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7618,7 +7618,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=17",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7626,7 +7626,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=18",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7634,7 +7634,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=19",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7642,7 +7642,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=20",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7650,7 +7650,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=21",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7658,7 +7658,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=22",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7666,7 +7666,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=23",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7674,7 +7674,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7682,7 +7682,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7690,7 +7690,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7698,7 +7698,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7706,7 +7706,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7714,7 +7714,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7722,7 +7722,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7730,7 +7730,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7738,7 +7738,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7746,7 +7746,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7754,7 +7754,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7762,7 +7762,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7770,7 +7770,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -7778,7 +7778,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8194,7 +8194,7 @@ window.SONG_DATA.push(
   "artist": "RADWIMPS",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8202,7 +8202,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8210,7 +8210,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8218,7 +8218,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8226,7 +8226,7 @@ window.SONG_DATA.push(
   "artist": "ELLEGARDEN",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8234,7 +8234,7 @@ window.SONG_DATA.push(
   "artist": "ELLEGARDEN",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8242,7 +8242,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8250,7 +8250,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8258,7 +8258,7 @@ window.SONG_DATA.push(
   "artist": "=LOVE",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8266,7 +8266,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8274,7 +8274,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8282,7 +8282,7 @@ window.SONG_DATA.push(
   "artist": "Chatmonchy",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8290,7 +8290,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8298,7 +8298,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8306,7 +8306,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8314,7 +8314,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8322,7 +8322,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=17",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8330,7 +8330,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=18",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8338,7 +8338,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=19",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8346,7 +8346,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=20",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8354,7 +8354,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8362,7 +8362,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8370,7 +8370,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8378,7 +8378,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8386,7 +8386,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8394,7 +8394,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8402,7 +8402,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8410,7 +8410,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8418,7 +8418,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8426,7 +8426,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8434,7 +8434,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8442,7 +8442,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8450,7 +8450,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8458,7 +8458,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8466,7 +8466,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8474,7 +8474,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8482,7 +8482,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8490,7 +8490,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8498,7 +8498,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8506,7 +8506,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8514,7 +8514,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8522,7 +8522,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8530,7 +8530,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8538,7 +8538,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8546,7 +8546,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8554,7 +8554,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8562,7 +8562,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8570,7 +8570,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8578,7 +8578,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8586,7 +8586,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8594,7 +8594,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8602,7 +8602,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8610,7 +8610,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8618,7 +8618,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8626,7 +8626,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8634,7 +8634,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8642,7 +8642,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8650,7 +8650,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8658,7 +8658,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8666,7 +8666,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8674,7 +8674,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8682,7 +8682,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8690,7 +8690,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8698,7 +8698,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8706,7 +8706,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8714,7 +8714,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8722,7 +8722,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8730,7 +8730,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8738,7 +8738,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8746,7 +8746,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8754,7 +8754,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8762,7 +8762,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8770,7 +8770,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8778,7 +8778,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8786,7 +8786,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8794,7 +8794,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8802,7 +8802,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8810,7 +8810,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=19",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8818,7 +8818,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=20",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8826,7 +8826,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=21",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8834,7 +8834,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=22",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8842,7 +8842,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=23",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8850,7 +8850,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=24",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8858,7 +8858,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=25",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -8866,7 +8866,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=26",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9474,7 +9474,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9482,7 +9482,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9490,7 +9490,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9498,7 +9498,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9506,7 +9506,7 @@ window.SONG_DATA.push(
   "artist": "星野源",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9514,7 +9514,7 @@ window.SONG_DATA.push(
   "artist": "星野源",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9522,7 +9522,7 @@ window.SONG_DATA.push(
   "artist": "星野源",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9530,7 +9530,7 @@ window.SONG_DATA.push(
   "artist": "片平里菜",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9538,7 +9538,7 @@ window.SONG_DATA.push(
   "artist": "片平里菜",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9546,7 +9546,7 @@ window.SONG_DATA.push(
   "artist": "片平里菜",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9554,7 +9554,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9562,7 +9562,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9570,7 +9570,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9578,7 +9578,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9586,7 +9586,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9594,7 +9594,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9602,7 +9602,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9610,7 +9610,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9618,7 +9618,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=19",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9626,7 +9626,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=20",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9634,7 +9634,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=21",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9642,7 +9642,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=22",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9650,7 +9650,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=23",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9658,7 +9658,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=24",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9666,7 +9666,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=25",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9674,7 +9674,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=26",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9682,7 +9682,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=27",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9722,7 +9722,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9730,7 +9730,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9738,7 +9738,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9746,7 +9746,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9754,7 +9754,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9762,7 +9762,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9770,7 +9770,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9778,7 +9778,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9786,7 +9786,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9794,7 +9794,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9802,7 +9802,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9810,7 +9810,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9818,7 +9818,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9826,7 +9826,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=14",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9834,7 +9834,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=15",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9842,7 +9842,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=16",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9850,7 +9850,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=17",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9858,7 +9858,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9866,7 +9866,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9874,7 +9874,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9882,7 +9882,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -9890,7 +9890,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10114,7 +10114,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10122,7 +10122,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10130,7 +10130,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10138,7 +10138,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10146,7 +10146,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10154,7 +10154,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10162,7 +10162,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10170,7 +10170,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10178,7 +10178,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10186,7 +10186,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10194,7 +10194,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10202,7 +10202,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10210,7 +10210,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10218,7 +10218,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10226,7 +10226,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10234,7 +10234,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=16",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10242,7 +10242,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=17",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10250,7 +10250,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=18",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10258,7 +10258,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=19",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10266,7 +10266,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=20",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10274,7 +10274,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=21",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10282,7 +10282,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=22",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10290,7 +10290,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=23",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10298,7 +10298,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=24",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10450,7 +10450,7 @@ window.SONG_DATA.push(
   "artist": "理芽",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10458,7 +10458,7 @@ window.SONG_DATA.push(
   "artist": "凛々咲",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10466,7 +10466,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10474,7 +10474,7 @@ window.SONG_DATA.push(
   "artist": "Cover 初音ミク",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10482,7 +10482,7 @@ window.SONG_DATA.push(
   "artist": "TK from 凛として時雨",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10490,7 +10490,7 @@ window.SONG_DATA.push(
   "artist": "星街彗星",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10498,7 +10498,7 @@ window.SONG_DATA.push(
   "artist": "feat.鏡音レン",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10506,7 +10506,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10514,7 +10514,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10522,7 +10522,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10530,7 +10530,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10538,7 +10538,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10546,7 +10546,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10554,7 +10554,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10562,7 +10562,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10570,7 +10570,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10578,7 +10578,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10586,7 +10586,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10594,7 +10594,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10602,7 +10602,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10610,7 +10610,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10618,7 +10618,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10626,7 +10626,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10634,7 +10634,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10642,7 +10642,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10650,7 +10650,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10658,7 +10658,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10666,7 +10666,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10674,7 +10674,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10682,7 +10682,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10690,7 +10690,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10698,7 +10698,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10706,7 +10706,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10714,7 +10714,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10722,7 +10722,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10730,7 +10730,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10738,7 +10738,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10746,7 +10746,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10754,7 +10754,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10762,7 +10762,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10770,7 +10770,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10778,7 +10778,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10786,7 +10786,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10794,7 +10794,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10802,7 +10802,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10810,7 +10810,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10818,7 +10818,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10826,7 +10826,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10834,7 +10834,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10842,7 +10842,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10850,7 +10850,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10858,7 +10858,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10866,7 +10866,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10874,7 +10874,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=17",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10882,7 +10882,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=18",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10890,7 +10890,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10898,7 +10898,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10906,7 +10906,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10914,7 +10914,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10922,7 +10922,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10930,7 +10930,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10938,7 +10938,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10946,7 +10946,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10954,7 +10954,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10962,7 +10962,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10970,7 +10970,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10978,7 +10978,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10986,7 +10986,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -10994,7 +10994,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11002,7 +11002,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11010,7 +11010,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11018,7 +11018,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=17",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11026,7 +11026,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=18",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11034,7 +11034,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=19",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11042,7 +11042,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=20",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11050,7 +11050,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=21",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11058,7 +11058,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=22",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11106,7 +11106,7 @@ window.SONG_DATA.push(
   "artist": "中川翔子",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11114,7 +11114,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11122,7 +11122,7 @@ window.SONG_DATA.push(
   "artist": "阿部真央",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11130,7 +11130,7 @@ window.SONG_DATA.push(
   "artist": "ポルノグラフィティ",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11138,7 +11138,7 @@ window.SONG_DATA.push(
   "artist": "米津玄师",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11146,7 +11146,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11154,7 +11154,7 @@ window.SONG_DATA.push(
   "artist": "初音未来",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11162,7 +11162,7 @@ window.SONG_DATA.push(
   "artist": "初音未来",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11170,7 +11170,7 @@ window.SONG_DATA.push(
   "artist": "なとり(natori)",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11178,7 +11178,7 @@ window.SONG_DATA.push(
   "artist": "yama",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11186,7 +11186,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11194,7 +11194,7 @@ window.SONG_DATA.push(
   "artist": "Ayase",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11202,7 +11202,7 @@ window.SONG_DATA.push(
   "artist": "SMAP",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11210,7 +11210,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=14",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11218,7 +11218,7 @@ window.SONG_DATA.push(
   "artist": "MISIA、米倉利纪",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=15",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11226,7 +11226,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=16",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11234,7 +11234,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=17",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11242,7 +11242,7 @@ window.SONG_DATA.push(
   "artist": "結束バンド",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=18",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11250,7 +11250,7 @@ window.SONG_DATA.push(
   "artist": "miwa",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=19",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11258,7 +11258,7 @@ window.SONG_DATA.push(
   "artist": "星街彗星",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=20",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11266,7 +11266,7 @@ window.SONG_DATA.push(
   "artist": "凛々咲",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=21",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11274,7 +11274,7 @@ window.SONG_DATA.push(
   "artist": "斉藤和義",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11282,7 +11282,7 @@ window.SONG_DATA.push(
   "artist": "KurageP",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11290,7 +11290,7 @@ window.SONG_DATA.push(
   "artist": "凛々咲",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11298,7 +11298,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11306,7 +11306,7 @@ window.SONG_DATA.push(
   "artist": "斉藤和義",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11762,7 +11762,7 @@ window.SONG_DATA.push(
   "artist": "桑田佳祐",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11770,7 +11770,7 @@ window.SONG_DATA.push(
   "artist": "山下達郎",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11778,7 +11778,7 @@ window.SONG_DATA.push(
   "artist": "back number",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11786,7 +11786,7 @@ window.SONG_DATA.push(
   "artist": "ゆず",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11794,7 +11794,7 @@ window.SONG_DATA.push(
   "artist": "クマムシ",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11802,7 +11802,7 @@ window.SONG_DATA.push(
   "artist": "SHISHAMO",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11810,7 +11810,7 @@ window.SONG_DATA.push(
   "artist": "松任谷由実",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11818,7 +11818,7 @@ window.SONG_DATA.push(
   "artist": "サザンオールスターズ",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11826,7 +11826,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11834,7 +11834,7 @@ window.SONG_DATA.push(
   "artist": "back number",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11842,7 +11842,7 @@ window.SONG_DATA.push(
   "artist": "back number",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11850,7 +11850,7 @@ window.SONG_DATA.push(
   "artist": "YUKA",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11858,7 +11858,7 @@ window.SONG_DATA.push(
   "artist": "B'z",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=13",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11866,7 +11866,7 @@ window.SONG_DATA.push(
   "artist": "広瀬香美",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=14",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -11874,7 +11874,7 @@ window.SONG_DATA.push(
   "artist": "石川さゆ",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=15",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12338,7 +12338,7 @@ window.SONG_DATA.push(
   "artist": "桑田佳祐",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12346,7 +12346,7 @@ window.SONG_DATA.push(
   "artist": "B'z",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12354,7 +12354,7 @@ window.SONG_DATA.push(
   "artist": "Ayase",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12362,7 +12362,7 @@ window.SONG_DATA.push(
   "artist": "BoA",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12370,7 +12370,7 @@ window.SONG_DATA.push(
   "artist": "ryo (supercell)",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12378,7 +12378,7 @@ window.SONG_DATA.push(
   "artist": "山下達郎",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12386,7 +12386,7 @@ window.SONG_DATA.push(
   "artist": "松任谷由実",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12394,7 +12394,7 @@ window.SONG_DATA.push(
   "artist": "広瀬香美",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12402,7 +12402,7 @@ window.SONG_DATA.push(
   "artist": "のぼる↑",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12410,7 +12410,7 @@ window.SONG_DATA.push(
   "artist": "松たか子",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12418,7 +12418,7 @@ window.SONG_DATA.push(
   "artist": "Wham!",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12426,7 +12426,7 @@ window.SONG_DATA.push(
   "artist": "Mariah Carey",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12434,7 +12434,7 @@ window.SONG_DATA.push(
   "artist": "BUMP OF CHICKEN",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12442,7 +12442,7 @@ window.SONG_DATA.push(
   "artist": "Saucy Dog",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12450,7 +12450,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12458,7 +12458,7 @@ window.SONG_DATA.push(
   "artist": "レミオロメン",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12466,7 +12466,7 @@ window.SONG_DATA.push(
   "artist": "イルカ",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12474,7 +12474,7 @@ window.SONG_DATA.push(
   "artist": "石川さゆり",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=13",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12482,7 +12482,7 @@ window.SONG_DATA.push(
   "artist": "桑田佳祐",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=14",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12490,7 +12490,7 @@ window.SONG_DATA.push(
   "artist": "MISIA",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=15",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12498,7 +12498,7 @@ window.SONG_DATA.push(
   "artist": "back number",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=16",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12506,7 +12506,7 @@ window.SONG_DATA.push(
   "artist": "雪花ラミィ",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=17",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12514,7 +12514,7 @@ window.SONG_DATA.push(
   "artist": "μ's",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=18",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12522,7 +12522,7 @@ window.SONG_DATA.push(
   "artist": "凛々咲",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12530,7 +12530,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12538,7 +12538,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12546,7 +12546,7 @@ window.SONG_DATA.push(
   "artist": "凛々咲",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12554,7 +12554,7 @@ window.SONG_DATA.push(
   "artist": "新しい学校のリーダーズ",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12562,7 +12562,7 @@ window.SONG_DATA.push(
   "artist": "泰葉",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12570,7 +12570,7 @@ window.SONG_DATA.push(
   "artist": "寺尾聰",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12578,7 +12578,7 @@ window.SONG_DATA.push(
   "artist": "山口百恵",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12586,7 +12586,7 @@ window.SONG_DATA.push(
   "artist": "德永英明",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12594,7 +12594,7 @@ window.SONG_DATA.push(
   "artist": "大滝詠一",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12602,7 +12602,7 @@ window.SONG_DATA.push(
   "artist": "back number",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12610,7 +12610,7 @@ window.SONG_DATA.push(
   "artist": "back number",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12618,7 +12618,7 @@ window.SONG_DATA.push(
   "artist": "レミオロメン",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12626,7 +12626,7 @@ window.SONG_DATA.push(
   "artist": "猫又おかゆ",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=14",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12634,7 +12634,7 @@ window.SONG_DATA.push(
   "artist": "湊あくあ",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=15",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12642,7 +12642,7 @@ window.SONG_DATA.push(
   "artist": "白上フブキ、百鬼あやめ、大神ミオ、さくらみこ",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=16",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12650,7 +12650,7 @@ window.SONG_DATA.push(
   "artist": "Blue Journey",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=17",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12658,7 +12658,7 @@ window.SONG_DATA.push(
   "artist": "Moona Hoshinova",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=18",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12666,7 +12666,7 @@ window.SONG_DATA.push(
   "artist": "常闇トワ",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=19",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12674,7 +12674,7 @@ window.SONG_DATA.push(
   "artist": "天音かなた(2)",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=20",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12682,7 +12682,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブ4期生",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=21",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12690,7 +12690,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=22",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12698,7 +12698,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=23",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12706,7 +12706,7 @@ window.SONG_DATA.push(
   "artist": "凛々咲",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=24",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12714,7 +12714,7 @@ window.SONG_DATA.push(
   "artist": "凛々咲",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=25",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -12722,7 +12722,7 @@ window.SONG_DATA.push(
   "artist": "凛々咲",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=26",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13106,7 +13106,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13114,7 +13114,7 @@ window.SONG_DATA.push(
   "artist": "DECO×27",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13122,7 +13122,7 @@ window.SONG_DATA.push(
   "artist": "DECO×27",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13130,7 +13130,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13138,7 +13138,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13146,7 +13146,7 @@ window.SONG_DATA.push(
   "artist": "倉木麻衣",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13154,7 +13154,7 @@ window.SONG_DATA.push(
   "artist": "松任谷由実",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13162,7 +13162,7 @@ window.SONG_DATA.push(
   "artist": "小林明子",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13170,7 +13170,7 @@ window.SONG_DATA.push(
   "artist": "優里",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13178,7 +13178,7 @@ window.SONG_DATA.push(
   "artist": "aiko",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13186,7 +13186,7 @@ window.SONG_DATA.push(
   "artist": "SEKAI NO OWARI",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13194,7 +13194,7 @@ window.SONG_DATA.push(
   "artist": "中西保志",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13202,7 +13202,7 @@ window.SONG_DATA.push(
   "artist": "中島みゆき",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13210,7 +13210,7 @@ window.SONG_DATA.push(
   "artist": "もじゃ(大柴広己)",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13218,7 +13218,7 @@ window.SONG_DATA.push(
   "artist": "Saucy Dog",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13226,7 +13226,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13234,7 +13234,7 @@ window.SONG_DATA.push(
   "artist": "ELLEGARDEN",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13242,7 +13242,7 @@ window.SONG_DATA.push(
   "artist": "鬼束ちひろ",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13250,7 +13250,7 @@ window.SONG_DATA.push(
   "artist": "コレサワ",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13258,7 +13258,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13266,7 +13266,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13274,7 +13274,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13282,7 +13282,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13290,7 +13290,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13298,7 +13298,7 @@ window.SONG_DATA.push(
   "artist": "X JAPAN",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13306,7 +13306,7 @@ window.SONG_DATA.push(
   "artist": "結束バンド",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13314,7 +13314,7 @@ window.SONG_DATA.push(
   "artist": "国生さゆり",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13322,7 +13322,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13330,7 +13330,7 @@ window.SONG_DATA.push(
   "artist": "Buono!",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13338,7 +13338,7 @@ window.SONG_DATA.push(
   "artist": "Perfume",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13346,7 +13346,7 @@ window.SONG_DATA.push(
   "artist": "ろん×Junky",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13354,7 +13354,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13362,7 +13362,7 @@ window.SONG_DATA.push(
   "artist": "家入レオ",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13370,7 +13370,7 @@ window.SONG_DATA.push(
   "artist": "阿部真央",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13378,7 +13378,7 @@ window.SONG_DATA.push(
   "artist": "片平里菜",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13386,7 +13386,7 @@ window.SONG_DATA.push(
   "artist": "片平里菜",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13394,7 +13394,7 @@ window.SONG_DATA.push(
   "artist": "コレサワ",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13402,7 +13402,7 @@ window.SONG_DATA.push(
   "artist": "miwa",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13410,7 +13410,7 @@ window.SONG_DATA.push(
   "artist": "奥華子",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13418,7 +13418,7 @@ window.SONG_DATA.push(
   "artist": "奥華子",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13426,7 +13426,7 @@ window.SONG_DATA.push(
   "artist": "CHiCO with HoneyWorks",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13434,7 +13434,7 @@ window.SONG_DATA.push(
   "artist": "初星学園",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=16",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13442,7 +13442,7 @@ window.SONG_DATA.push(
   "artist": "欅坂46_sub",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13450,7 +13450,7 @@ window.SONG_DATA.push(
   "artist": "椎名林檎",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13458,7 +13458,7 @@ window.SONG_DATA.push(
   "artist": "My Hair is Bad",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13466,7 +13466,7 @@ window.SONG_DATA.push(
   "artist": "mona(夏川椎菜)",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13474,7 +13474,7 @@ window.SONG_DATA.push(
   "artist": "℃-ute",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13482,7 +13482,7 @@ window.SONG_DATA.push(
   "artist": "Buono!",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13490,7 +13490,7 @@ window.SONG_DATA.push(
   "artist": "ステレオポニー",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13498,7 +13498,7 @@ window.SONG_DATA.push(
   "artist": "Stereopony_sub",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13506,7 +13506,7 @@ window.SONG_DATA.push(
   "artist": "チャットモンチー",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13514,7 +13514,7 @@ window.SONG_DATA.push(
   "artist": "JUDY AND MARY",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13522,7 +13522,7 @@ window.SONG_DATA.push(
   "artist": "ポルノグラフィティ",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13530,7 +13530,7 @@ window.SONG_DATA.push(
   "artist": "ZARD",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13538,7 +13538,7 @@ window.SONG_DATA.push(
   "artist": "ZARD",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13546,7 +13546,7 @@ window.SONG_DATA.push(
   "artist": "ザ・ブルーハーツ",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13554,7 +13554,7 @@ window.SONG_DATA.push(
   "artist": "ザ・ブルーハーツ",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13562,7 +13562,7 @@ window.SONG_DATA.push(
   "artist": "SHISHAMO",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13570,7 +13570,7 @@ window.SONG_DATA.push(
   "artist": "SHISHAMO",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=17",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13578,7 +13578,7 @@ window.SONG_DATA.push(
   "artist": "SHISHAMO",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=18",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13586,7 +13586,7 @@ window.SONG_DATA.push(
   "artist": "SHISHAMO",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=19",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13594,7 +13594,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=20",
+  "link": null,
   "source": "ririsya.js"
 },
     {
@@ -13602,7 +13602,7 @@ window.SONG_DATA.push(
   "artist": "夏川りみ",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=21",
+  "link": null,
   "source": "ririsya.js"
 }
 );

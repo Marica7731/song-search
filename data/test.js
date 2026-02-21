@@ -1,6 +1,6 @@
 // 测试单集 - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1exR4YGE42
-// 生成时间: 2/21/2026, 12:46:19 AM
+// 生成时间: 2/21/2026, 12:57:22 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10,7 +10,7 @@ window.SONG_DATA.push(
   "artist": "王菲~2025年3月3日 【厄倫蒂兒】",
   "collection": "厄倫蒂兒中文歌",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "test.js"
 },
     {
@@ -18,7 +18,7 @@ window.SONG_DATA.push(
   "artist": "吉星出租~2025年3月3日 【厄倫蒂兒】",
   "collection": "厄倫蒂兒中文歌",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "test.js"
 },
     {
@@ -26,7 +26,7 @@ window.SONG_DATA.push(
   "artist": "毛不易~2025年3月3日 【厄倫蒂兒】",
   "collection": "厄倫蒂兒中文歌",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "test.js"
 },
     {
@@ -34,7 +34,7 @@ window.SONG_DATA.push(
   "artist": "向思思~2025年3月3日 【厄倫蒂兒】",
   "collection": "厄倫蒂兒中文歌",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "test.js"
 },
     {
@@ -42,7 +42,7 @@ window.SONG_DATA.push(
   "artist": "Crispy脆樂團~2025年3月3日 【厄倫蒂兒】",
   "collection": "厄倫蒂兒中文歌",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "test.js"
 },
     {
@@ -50,7 +50,7 @@ window.SONG_DATA.push(
   "artist": "魏如萱~2025年3月3日 【厄倫蒂兒】",
   "collection": "厄倫蒂兒中文歌",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "test.js"
 },
     {
@@ -74,7 +74,7 @@ window.SONG_DATA.push(
   "artist": "徐佳瑩~2025年3月3日 【厄倫蒂兒】",
   "collection": "厄倫蒂兒中文歌",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "test.js"
 },
     {
@@ -138,7 +138,7 @@ window.SONG_DATA.push(
   "artist": "蔡依林~2025年03月10日【厄倫蒂兒】",
   "collection": "厄倫蒂兒中文歌",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "test.js"
 },
     {
@@ -146,7 +146,7 @@ window.SONG_DATA.push(
   "artist": "黃玠~2025年03月10日【厄倫蒂兒】",
   "collection": "厄倫蒂兒中文歌",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "test.js"
 }
 );

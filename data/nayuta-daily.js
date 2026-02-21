@@ -1,6 +1,6 @@
 // nayuta日常 - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1MPpUzsE1D
-// 生成时间: 2/21/2026, 12:45:15 AM
+// 生成时间: 2/21/2026, 12:56:56 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -98,7 +98,7 @@ window.SONG_DATA.push(
   "artist": "玉置成実 『機動戦士ガンダムSEED DESTINY』ED",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -106,7 +106,7 @@ window.SONG_DATA.push(
   "artist": "高橋瞳 『機動戦士ガンダムSEED DESTINY』OP",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -114,7 +114,7 @@ window.SONG_DATA.push(
   "artist": "高橋瞳 『BLOOD+』OP",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -122,7 +122,7 @@ window.SONG_DATA.push(
   "artist": "HIGH and MIGHTY COLOR 『機動戦士ガンダムSEED DESTINY』OP",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -130,7 +130,7 @@ window.SONG_DATA.push(
   "artist": "See-Saw 『機動戦士ガンダムSEED』ED",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -138,7 +138,7 @@ window.SONG_DATA.push(
   "artist": "FictionJunction Yuuka 『機動戦士ガンダムSEED』挿入歌",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -146,7 +146,7 @@ window.SONG_DATA.push(
   "artist": "FictionJunction Yuuka 『機動戦士ガンダムSEED DESTINY』挿入歌",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -154,7 +154,7 @@ window.SONG_DATA.push(
   "artist": "有坂美香 『機動戦士ガンダムSEED DESTINY』ED",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -162,7 +162,7 @@ window.SONG_DATA.push(
   "artist": "ラクス・クライン（CV.田中理惠） 『機動戦士ガンダムSEED』挿入歌",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -170,7 +170,7 @@ window.SONG_DATA.push(
   "artist": "Dream 『ヒカルの碁』OP",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -178,7 +178,7 @@ window.SONG_DATA.push(
   "artist": "YUI 『BLEACH』OP",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -186,7 +186,7 @@ window.SONG_DATA.push(
   "artist": "YUI 『鋼の錬金術師 FULLMETAL ALCHEMIST』OP",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -194,7 +194,7 @@ window.SONG_DATA.push(
   "artist": "angela 『蒼穹のファフナー』OP",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -202,7 +202,7 @@ window.SONG_DATA.push(
   "artist": "KOTOKO 『神無月の巫女』ED",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=14",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -210,7 +210,7 @@ window.SONG_DATA.push(
   "artist": "川田まみ 『灼眼のシャナII』OP",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=15",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -218,7 +218,7 @@ window.SONG_DATA.push(
   "artist": "涼宮ハルヒ（CV.平野綾） 『涼宮ハルヒの憂鬱』OP",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=16",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -226,7 +226,7 @@ window.SONG_DATA.push(
   "artist": "涼宮ハルヒ（CV.平野綾） 『涼宮ハルヒの憂鬱』挿入歌",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=17",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -234,7 +234,7 @@ window.SONG_DATA.push(
   "artist": "水樹奈々 『魔法少女リリカルなのは』OP",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -242,7 +242,7 @@ window.SONG_DATA.push(
   "artist": "田村ゆかり 『極上生徒会』OP",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -250,7 +250,7 @@ window.SONG_DATA.push(
   "artist": "田村ゆかり 『銀の旋律、記憶の水音。』収録",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -258,7 +258,7 @@ window.SONG_DATA.push(
   "artist": "川田まみ 『灼眼のシャナ』OP",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -266,7 +266,7 @@ window.SONG_DATA.push(
   "artist": "牧野由依 『ARIA The NATURAL』OP",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -274,7 +274,7 @@ window.SONG_DATA.push(
   "artist": "See-Saw 『機動戦士ガンダムSEED DESTINY』ED",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -282,7 +282,7 @@ window.SONG_DATA.push(
   "artist": "有坂美香 『機動戦士ガンダムSEED DESTINY』ED",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -290,7 +290,7 @@ window.SONG_DATA.push(
   "artist": "Fiction Junction YUUKA 『hackRoots』OP",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -298,7 +298,7 @@ window.SONG_DATA.push(
   "artist": "高橋美佳子 『おねがいマイメロディ』OP",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -306,7 +306,7 @@ window.SONG_DATA.push(
   "artist": "石川智晶 『ぼくらの』OP",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -314,7 +314,7 @@ window.SONG_DATA.push(
   "artist": "kukui 『ローゼンメイデン トロイメント』ED",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -322,7 +322,7 @@ window.SONG_DATA.push(
   "artist": "ALI PROJECT 『ローゼンメイデン オーベルテューレ』OP",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -330,7 +330,7 @@ window.SONG_DATA.push(
   "artist": "ALI PROJECT 『ローゼンメイデン トロイメント』OP",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -338,7 +338,7 @@ window.SONG_DATA.push(
   "artist": "阿澄佳奈、水橋かおり、新谷良子、後藤邑子 『ひだまりスケッチ』OP",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=14",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -346,7 +346,7 @@ window.SONG_DATA.push(
   "artist": "AKINO 『創聖のアクエリオン』OP",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=15",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -354,7 +354,7 @@ window.SONG_DATA.push(
   "artist": "AKINO 『創聖のアクエリオン』OP",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=16",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -362,7 +362,7 @@ window.SONG_DATA.push(
   "artist": "水樹奈々 『魔法少女リリカルなのは』OP",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=17",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -370,7 +370,7 @@ window.SONG_DATA.push(
   "artist": "田村ゆかり 『極上生徒会』OP",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=18",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -378,7 +378,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -386,7 +386,7 @@ window.SONG_DATA.push(
   "artist": "麻帆良学園中等部2-A 『魔法先生ネギま!』OP",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -394,7 +394,7 @@ window.SONG_DATA.push(
   "artist": "みなみけ3姉妹 『みなみけ』OP",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -402,7 +402,7 @@ window.SONG_DATA.push(
   "artist": "ドクロちゃん 『撲殺天使ドクロちゃん』OP",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -410,7 +410,7 @@ window.SONG_DATA.push(
   "artist": "ハムちゃんず 『とっとこハム太郎』OP",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -418,7 +418,7 @@ window.SONG_DATA.push(
   "artist": "泉こなた、柊かがみ、柊つかさ、高良みゆき 『らき☆すた』OP",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -426,7 +426,7 @@ window.SONG_DATA.push(
   "artist": "坂本真綾 『カードキャプターさくら』OP3",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -434,7 +434,7 @@ window.SONG_DATA.push(
   "artist": "nomico",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -442,7 +442,7 @@ window.SONG_DATA.push(
   "artist": "FictionJunction featuring YUUKA 『機動戦士ガンダムSEED』挿入歌",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -450,7 +450,7 @@ window.SONG_DATA.push(
   "artist": "玉置成実 『機動戦士ガンダムSEED DESTINY』ED",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -458,7 +458,7 @@ window.SONG_DATA.push(
   "artist": "Kalafina 『空の境界』劇場アニメ 第一章 俯瞰風景 ED",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -466,7 +466,7 @@ window.SONG_DATA.push(
   "artist": "Kalafina 『空の境界』劇場アニメ 第五章 矛盾螺旋 ED",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -474,7 +474,7 @@ window.SONG_DATA.push(
   "artist": "Lia 『AIR』主題歌",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -1562,7 +1562,7 @@ window.SONG_DATA.push(
   "artist": "高橋美佳子",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -1570,7 +1570,7 @@ window.SONG_DATA.push(
   "artist": "相対性理論",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -1578,7 +1578,7 @@ window.SONG_DATA.push(
   "artist": "諫山実生",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -1586,7 +1586,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -1594,7 +1594,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -1602,7 +1602,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -1610,7 +1610,7 @@ window.SONG_DATA.push(
   "artist": "木村弓",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -1618,7 +1618,7 @@ window.SONG_DATA.push(
   "artist": "Orangestar",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -1626,7 +1626,7 @@ window.SONG_DATA.push(
   "artist": "傘村トータ",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -1634,7 +1634,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=10",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -1642,7 +1642,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=11",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -1650,7 +1650,7 @@ window.SONG_DATA.push(
   "artist": "ずっと真夜中でいいのに。",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=12",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -1658,7 +1658,7 @@ window.SONG_DATA.push(
   "artist": "豊崎愛生",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=13",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -1666,7 +1666,7 @@ window.SONG_DATA.push(
   "artist": "ナナヲアカリ",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=14",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {
@@ -1674,7 +1674,7 @@ window.SONG_DATA.push(
   "artist": "牧野由依",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=15",
+  "link": null,
   "source": "nayuta-daily.js"
 },
     {

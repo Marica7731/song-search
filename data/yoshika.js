@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1p1zBBCEZ3
-// 生成时间: 2/21/2026, 12:42:32 AM
+// 生成时间: 2/21/2026, 12:55:15 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -226,7 +226,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -234,7 +234,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -242,7 +242,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -250,7 +250,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -258,7 +258,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -266,7 +266,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -274,7 +274,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -282,7 +282,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -290,7 +290,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -298,7 +298,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -306,7 +306,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -314,7 +314,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -322,7 +322,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -330,7 +330,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -338,7 +338,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -1386,7 +1386,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -1394,7 +1394,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -1402,7 +1402,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -1410,7 +1410,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -1418,7 +1418,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -1426,7 +1426,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -1434,7 +1434,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -1442,7 +1442,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -1450,7 +1450,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -1458,7 +1458,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -1466,7 +1466,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -1474,7 +1474,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -1482,7 +1482,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -1642,7 +1642,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -1650,7 +1650,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -1658,7 +1658,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -1666,7 +1666,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -1674,7 +1674,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -1682,7 +1682,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -1690,7 +1690,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -1698,7 +1698,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -1706,7 +1706,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -1714,7 +1714,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -1722,7 +1722,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -1730,7 +1730,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -1738,7 +1738,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -1746,7 +1746,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -1754,7 +1754,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -1762,7 +1762,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -1770,7 +1770,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -1778,7 +1778,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -1786,7 +1786,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -1794,7 +1794,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -1802,7 +1802,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -2546,7 +2546,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -2554,7 +2554,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -2562,7 +2562,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -2570,7 +2570,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -2578,7 +2578,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -2586,7 +2586,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -2594,7 +2594,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -2602,7 +2602,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -2610,7 +2610,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -2618,7 +2618,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -2626,7 +2626,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -2634,7 +2634,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -2642,7 +2642,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -2650,7 +2650,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -2658,7 +2658,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -2666,7 +2666,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -2938,7 +2938,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -2946,7 +2946,7 @@ window.SONG_DATA.push(
   "artist": "きただにひろし",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -2954,7 +2954,7 @@ window.SONG_DATA.push(
   "artist": "いきものがかり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -2962,7 +2962,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -2970,7 +2970,7 @@ window.SONG_DATA.push(
   "artist": "緑黄色社会",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -2978,7 +2978,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -2986,7 +2986,7 @@ window.SONG_DATA.push(
   "artist": "スタァライト九九組",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -2994,7 +2994,7 @@ window.SONG_DATA.push(
   "artist": "高橋洋子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -3002,7 +3002,7 @@ window.SONG_DATA.push(
   "artist": "小野正利",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -3010,7 +3010,7 @@ window.SONG_DATA.push(
   "artist": "Tommy heavenly6",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -3018,7 +3018,7 @@ window.SONG_DATA.push(
   "artist": "千綿偉功",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -3026,7 +3026,7 @@ window.SONG_DATA.push(
   "artist": "MISIA",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -3034,7 +3034,7 @@ window.SONG_DATA.push(
   "artist": "DREAMS COME TRUE",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -3042,7 +3042,7 @@ window.SONG_DATA.push(
   "artist": "SMAP",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -3050,7 +3050,7 @@ window.SONG_DATA.push(
   "artist": "修二と彰",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -3058,7 +3058,7 @@ window.SONG_DATA.push(
   "artist": "Creepy Nuts",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -3066,7 +3066,7 @@ window.SONG_DATA.push(
   "artist": "伊集加代子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -3074,7 +3074,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -3874,7 +3874,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -3882,7 +3882,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -3890,7 +3890,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -3898,7 +3898,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -3906,7 +3906,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -3914,7 +3914,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -3922,7 +3922,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -3930,7 +3930,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -3938,7 +3938,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -3946,7 +3946,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -3954,7 +3954,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -3962,7 +3962,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -3970,7 +3970,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -3978,7 +3978,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -3986,7 +3986,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -3994,7 +3994,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4002,7 +4002,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4010,7 +4010,7 @@ window.SONG_DATA.push(
   "artist": "嵐",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4018,7 +4018,7 @@ window.SONG_DATA.push(
   "artist": "島谷ひとみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4026,7 +4026,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4034,7 +4034,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4042,7 +4042,7 @@ window.SONG_DATA.push(
   "artist": "中島愛",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4050,7 +4050,7 @@ window.SONG_DATA.push(
   "artist": "May'n 中島愛",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4058,7 +4058,7 @@ window.SONG_DATA.push(
   "artist": "MAHO堂",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4066,7 +4066,7 @@ window.SONG_DATA.push(
   "artist": "HoneyWorks",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4074,7 +4074,7 @@ window.SONG_DATA.push(
   "artist": "吉岡亜衣加",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4082,7 +4082,7 @@ window.SONG_DATA.push(
   "artist": "米倉千尋",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4090,7 +4090,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4098,7 +4098,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4106,7 +4106,7 @@ window.SONG_DATA.push(
   "artist": "一青窈",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4114,7 +4114,7 @@ window.SONG_DATA.push(
   "artist": "ノートルダムの鐘",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4122,7 +4122,7 @@ window.SONG_DATA.push(
   "artist": "久保田早紀",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4130,7 +4130,7 @@ window.SONG_DATA.push(
   "artist": "みきとP Feat.初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4138,7 +4138,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4146,7 +4146,7 @@ window.SONG_DATA.push(
   "artist": "松田聖子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4154,7 +4154,7 @@ window.SONG_DATA.push(
   "artist": "しぐれうい（9さい）",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4162,7 +4162,7 @@ window.SONG_DATA.push(
   "artist": "Buzy",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4170,7 +4170,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4178,7 +4178,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4186,7 +4186,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4194,7 +4194,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4202,7 +4202,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4210,7 +4210,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4218,7 +4218,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4226,7 +4226,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4234,7 +4234,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4242,7 +4242,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4250,7 +4250,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4258,7 +4258,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4266,7 +4266,7 @@ window.SONG_DATA.push(
   "artist": "Spinning Globe  米津玄師",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4274,7 +4274,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4282,7 +4282,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4290,7 +4290,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4298,7 +4298,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4306,7 +4306,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4314,7 +4314,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4322,7 +4322,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4330,7 +4330,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4338,7 +4338,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4346,7 +4346,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4354,7 +4354,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4362,7 +4362,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=25",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4370,7 +4370,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=26",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4378,7 +4378,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=27",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4386,7 +4386,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=28",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4394,7 +4394,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=29",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4402,7 +4402,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4410,7 +4410,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4418,7 +4418,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4426,7 +4426,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4434,7 +4434,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4442,7 +4442,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4450,7 +4450,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4458,7 +4458,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4466,7 +4466,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4474,7 +4474,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4482,7 +4482,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4490,7 +4490,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4498,7 +4498,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4506,7 +4506,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4842,7 +4842,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4850,7 +4850,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4858,7 +4858,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4866,7 +4866,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4874,7 +4874,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4882,7 +4882,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4890,7 +4890,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4898,7 +4898,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4906,7 +4906,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4914,7 +4914,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4922,7 +4922,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4930,7 +4930,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4938,7 +4938,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4946,7 +4946,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4954,7 +4954,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4962,7 +4962,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4970,7 +4970,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4978,7 +4978,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4986,7 +4986,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -4994,7 +4994,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5002,7 +5002,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5010,7 +5010,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5018,7 +5018,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5186,7 +5186,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5194,7 +5194,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5202,7 +5202,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5210,7 +5210,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5218,7 +5218,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5226,7 +5226,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5234,7 +5234,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5242,7 +5242,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5250,7 +5250,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5258,7 +5258,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5266,7 +5266,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5274,7 +5274,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5282,7 +5282,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5290,7 +5290,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5298,7 +5298,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5306,7 +5306,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5314,7 +5314,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5322,7 +5322,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5330,7 +5330,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5338,7 +5338,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5346,7 +5346,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5354,7 +5354,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5362,7 +5362,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5370,7 +5370,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5378,7 +5378,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=25",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5386,7 +5386,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=26",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5394,7 +5394,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=27",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5402,7 +5402,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=28",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5410,7 +5410,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=29",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5418,7 +5418,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=30",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5426,7 +5426,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5434,7 +5434,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5442,7 +5442,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5450,7 +5450,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5458,7 +5458,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5466,7 +5466,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5474,7 +5474,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5482,7 +5482,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5490,7 +5490,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5498,7 +5498,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5506,7 +5506,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5514,7 +5514,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5522,7 +5522,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5530,7 +5530,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5538,7 +5538,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5546,7 +5546,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5554,7 +5554,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5562,7 +5562,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5570,7 +5570,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5578,7 +5578,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5586,7 +5586,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5594,7 +5594,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -5602,7 +5602,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6066,7 +6066,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6074,7 +6074,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6082,7 +6082,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6090,7 +6090,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6098,7 +6098,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6106,7 +6106,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6114,7 +6114,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6122,7 +6122,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6130,7 +6130,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6138,7 +6138,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6146,7 +6146,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6154,7 +6154,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6162,7 +6162,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6170,7 +6170,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6178,7 +6178,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6186,7 +6186,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6194,7 +6194,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6202,7 +6202,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6210,7 +6210,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6218,7 +6218,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6226,7 +6226,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6234,7 +6234,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6242,7 +6242,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6250,7 +6250,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6258,7 +6258,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=25",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6266,7 +6266,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=26",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6274,7 +6274,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=27",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6282,7 +6282,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=28",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6290,7 +6290,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=29",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6298,7 +6298,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6306,7 +6306,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6314,7 +6314,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6322,7 +6322,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6330,7 +6330,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6338,7 +6338,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6346,7 +6346,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6354,7 +6354,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6362,7 +6362,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6370,7 +6370,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6378,7 +6378,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6386,7 +6386,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6394,7 +6394,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6402,7 +6402,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6410,7 +6410,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6418,7 +6418,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6426,7 +6426,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6434,7 +6434,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6442,7 +6442,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6450,7 +6450,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6458,7 +6458,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6466,7 +6466,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6474,7 +6474,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6482,7 +6482,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6490,7 +6490,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6498,7 +6498,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6506,7 +6506,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6514,7 +6514,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6522,7 +6522,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6530,7 +6530,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6538,7 +6538,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6546,7 +6546,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6554,7 +6554,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6562,7 +6562,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6570,7 +6570,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6578,7 +6578,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6586,7 +6586,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6594,7 +6594,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6602,7 +6602,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6610,7 +6610,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6618,7 +6618,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6626,7 +6626,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6634,7 +6634,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6642,7 +6642,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6650,7 +6650,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6658,7 +6658,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6666,7 +6666,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6674,7 +6674,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6682,7 +6682,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6690,7 +6690,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6698,7 +6698,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6706,7 +6706,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6714,7 +6714,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6722,7 +6722,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6730,7 +6730,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6738,7 +6738,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6746,7 +6746,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6754,7 +6754,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6762,7 +6762,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6770,7 +6770,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6778,7 +6778,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6786,7 +6786,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6794,7 +6794,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6802,7 +6802,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6810,7 +6810,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6818,7 +6818,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6826,7 +6826,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6834,7 +6834,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6842,7 +6842,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6850,7 +6850,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6858,7 +6858,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6866,7 +6866,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6874,7 +6874,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6882,7 +6882,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6890,7 +6890,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6898,7 +6898,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6906,7 +6906,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6914,7 +6914,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6922,7 +6922,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6930,7 +6930,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6938,7 +6938,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6946,7 +6946,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6954,7 +6954,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6962,7 +6962,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6970,7 +6970,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6978,7 +6978,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6986,7 +6986,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -6994,7 +6994,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7002,7 +7002,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7010,7 +7010,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7018,7 +7018,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7026,7 +7026,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7034,7 +7034,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7042,7 +7042,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7050,7 +7050,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7058,7 +7058,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7066,7 +7066,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7074,7 +7074,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7082,7 +7082,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7090,7 +7090,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7098,7 +7098,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=25",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7106,7 +7106,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=26",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7114,7 +7114,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=27",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7122,7 +7122,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7130,7 +7130,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7138,7 +7138,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7146,7 +7146,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7154,7 +7154,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7162,7 +7162,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7170,7 +7170,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7178,7 +7178,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7186,7 +7186,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7194,7 +7194,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7202,7 +7202,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7210,7 +7210,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7218,7 +7218,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7226,7 +7226,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7234,7 +7234,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7242,7 +7242,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7250,7 +7250,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7258,7 +7258,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7266,7 +7266,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7274,7 +7274,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7282,7 +7282,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7290,7 +7290,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7298,7 +7298,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7306,7 +7306,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7314,7 +7314,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7322,7 +7322,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7330,7 +7330,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7338,7 +7338,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7346,7 +7346,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7354,7 +7354,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7362,7 +7362,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=25",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7370,7 +7370,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=26",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7378,7 +7378,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=27",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7386,7 +7386,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7394,7 +7394,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7402,7 +7402,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7410,7 +7410,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7418,7 +7418,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7426,7 +7426,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7434,7 +7434,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7442,7 +7442,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7450,7 +7450,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7458,7 +7458,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7466,7 +7466,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7474,7 +7474,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7482,7 +7482,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7490,7 +7490,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7498,7 +7498,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7506,7 +7506,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7514,7 +7514,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7522,7 +7522,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7530,7 +7530,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7538,7 +7538,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7546,7 +7546,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7554,7 +7554,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7562,7 +7562,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7570,7 +7570,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7578,7 +7578,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7586,7 +7586,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7594,7 +7594,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7602,7 +7602,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7610,7 +7610,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7618,7 +7618,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7626,7 +7626,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7634,7 +7634,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7642,7 +7642,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7650,7 +7650,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7658,7 +7658,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7666,7 +7666,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7674,7 +7674,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7682,7 +7682,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7690,7 +7690,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7698,7 +7698,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7706,7 +7706,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7714,7 +7714,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7722,7 +7722,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7730,7 +7730,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7738,7 +7738,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7746,7 +7746,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7754,7 +7754,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7762,7 +7762,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7770,7 +7770,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7778,7 +7778,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7786,7 +7786,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7794,7 +7794,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7802,7 +7802,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7810,7 +7810,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7818,7 +7818,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7826,7 +7826,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7834,7 +7834,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7842,7 +7842,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7850,7 +7850,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7858,7 +7858,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=25",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7866,7 +7866,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=26",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7874,7 +7874,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7882,7 +7882,7 @@ window.SONG_DATA.push(
   "artist": "きただにひろし",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7890,7 +7890,7 @@ window.SONG_DATA.push(
   "artist": "いきものがかり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7898,7 +7898,7 @@ window.SONG_DATA.push(
   "artist": "Hololive IDOL PROJECT",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7906,7 +7906,7 @@ window.SONG_DATA.push(
   "artist": "ポルノグラフィティ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7914,7 +7914,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7922,7 +7922,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7930,7 +7930,7 @@ window.SONG_DATA.push(
   "artist": "高橋洋子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7938,7 +7938,7 @@ window.SONG_DATA.push(
   "artist": "GARNiDELiA",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7946,7 +7946,7 @@ window.SONG_DATA.push(
   "artist": "小野正利",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7954,7 +7954,7 @@ window.SONG_DATA.push(
   "artist": "アオイエマ。",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7962,7 +7962,7 @@ window.SONG_DATA.push(
   "artist": "黒うさP",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7970,7 +7970,7 @@ window.SONG_DATA.push(
   "artist": "久保田早紀",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7978,7 +7978,7 @@ window.SONG_DATA.push(
   "artist": "島谷 ひとみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7986,7 +7986,7 @@ window.SONG_DATA.push(
   "artist": "米倉千尋",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -7994,7 +7994,7 @@ window.SONG_DATA.push(
   "artist": "ZARD",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8002,7 +8002,7 @@ window.SONG_DATA.push(
   "artist": "紫咲シオン",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8010,7 +8010,7 @@ window.SONG_DATA.push(
   "artist": "吉岡亜衣加",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8018,7 +8018,7 @@ window.SONG_DATA.push(
   "artist": "Dream5",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8026,7 +8026,7 @@ window.SONG_DATA.push(
   "artist": "宝鐘マリン",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8034,7 +8034,7 @@ window.SONG_DATA.push(
   "artist": "のはらしんのすけ(矢島晶子)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8042,7 +8042,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8050,7 +8050,7 @@ window.SONG_DATA.push(
   "artist": "松田聖子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8058,7 +8058,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8066,7 +8066,7 @@ window.SONG_DATA.push(
   "artist": "雨宮天",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8074,7 +8074,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8082,7 +8082,7 @@ window.SONG_DATA.push(
   "artist": "嵐",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8090,7 +8090,7 @@ window.SONG_DATA.push(
   "artist": "MAHO堂",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8098,7 +8098,7 @@ window.SONG_DATA.push(
   "artist": "つじあやの",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8106,7 +8106,7 @@ window.SONG_DATA.push(
   "artist": "After the Rain（そらる×まふまふ）",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8114,7 +8114,7 @@ window.SONG_DATA.push(
   "artist": "坂本真綾",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8122,7 +8122,7 @@ window.SONG_DATA.push(
   "artist": "日向めぐみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8130,7 +8130,7 @@ window.SONG_DATA.push(
   "artist": "菅田将暉",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8138,7 +8138,7 @@ window.SONG_DATA.push(
   "artist": "アオイエマ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8146,7 +8146,7 @@ window.SONG_DATA.push(
   "artist": "Vaundy",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8154,7 +8154,7 @@ window.SONG_DATA.push(
   "artist": "tuki",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8162,7 +8162,7 @@ window.SONG_DATA.push(
   "artist": "倉木麻衣",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8170,7 +8170,7 @@ window.SONG_DATA.push(
   "artist": "ZARD",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8178,7 +8178,7 @@ window.SONG_DATA.push(
   "artist": "エリザベート",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8186,7 +8186,7 @@ window.SONG_DATA.push(
   "artist": "Dream5",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8194,7 +8194,7 @@ window.SONG_DATA.push(
   "artist": "さくらももこ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8202,7 +8202,7 @@ window.SONG_DATA.push(
   "artist": "傘村トータ feat. 可不",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8210,7 +8210,7 @@ window.SONG_DATA.push(
   "artist": "RADWIMPS",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8218,7 +8218,7 @@ window.SONG_DATA.push(
   "artist": "tuki",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8226,7 +8226,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8234,7 +8234,7 @@ window.SONG_DATA.push(
   "artist": "浦島太郎(桐谷健太)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8242,7 +8242,7 @@ window.SONG_DATA.push(
   "artist": "SID & 西平彰",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8250,7 +8250,7 @@ window.SONG_DATA.push(
   "artist": "Keno",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8258,7 +8258,7 @@ window.SONG_DATA.push(
   "artist": "つじあやの",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8266,7 +8266,7 @@ window.SONG_DATA.push(
   "artist": "大塚愛",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8274,7 +8274,7 @@ window.SONG_DATA.push(
   "artist": "40㍍P feat.初音ミク・GUMI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8282,7 +8282,7 @@ window.SONG_DATA.push(
   "artist": "坂本真綾",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8290,7 +8290,7 @@ window.SONG_DATA.push(
   "artist": "一青窈",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8298,7 +8298,7 @@ window.SONG_DATA.push(
   "artist": "みきとP Feat.初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8306,7 +8306,7 @@ window.SONG_DATA.push(
   "artist": "いおり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8314,7 +8314,7 @@ window.SONG_DATA.push(
   "artist": "シャーリー(折笠富美子)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8322,7 +8322,7 @@ window.SONG_DATA.push(
   "artist": "井上あずみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8330,7 +8330,7 @@ window.SONG_DATA.push(
   "artist": "加藤登紀子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8338,7 +8338,7 @@ window.SONG_DATA.push(
   "artist": "中島みゆき",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8346,7 +8346,7 @@ window.SONG_DATA.push(
   "artist": "ヒグチアイ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8354,7 +8354,7 @@ window.SONG_DATA.push(
   "artist": "アオイエマ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8362,7 +8362,7 @@ window.SONG_DATA.push(
   "artist": "中島みゆき",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8370,7 +8370,7 @@ window.SONG_DATA.push(
   "artist": "牧野由依",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8378,7 +8378,7 @@ window.SONG_DATA.push(
   "artist": "牧野由依",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8386,7 +8386,7 @@ window.SONG_DATA.push(
   "artist": "癒月",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8394,7 +8394,7 @@ window.SONG_DATA.push(
   "artist": "高鈴",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8402,7 +8402,7 @@ window.SONG_DATA.push(
   "artist": "tuki",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8410,7 +8410,7 @@ window.SONG_DATA.push(
   "artist": "KOKIA",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8418,7 +8418,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8426,7 +8426,7 @@ window.SONG_DATA.push(
   "artist": "IL DIVO",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=25",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8434,7 +8434,7 @@ window.SONG_DATA.push(
   "artist": "小宮知子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=26",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8442,7 +8442,7 @@ window.SONG_DATA.push(
   "artist": "茅原實里",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=27",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8450,7 +8450,7 @@ window.SONG_DATA.push(
   "artist": "きただにひろし",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8458,7 +8458,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブロボ子アキ・ローゼンタール百鬼あやめ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8466,7 +8466,7 @@ window.SONG_DATA.push(
   "artist": "Porno Graffitti",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8474,7 +8474,7 @@ window.SONG_DATA.push(
   "artist": "fourfolium（高田憂希／山口愛／戸田めぐみ／竹尾歩美）",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8482,7 +8482,7 @@ window.SONG_DATA.push(
   "artist": "ワルキューレ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8490,7 +8490,7 @@ window.SONG_DATA.push(
   "artist": "高橋洋子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8498,7 +8498,7 @@ window.SONG_DATA.push(
   "artist": "坂本真綾",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8506,7 +8506,7 @@ window.SONG_DATA.push(
   "artist": "高橋洋子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8514,7 +8514,7 @@ window.SONG_DATA.push(
   "artist": "Buzy",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8522,7 +8522,7 @@ window.SONG_DATA.push(
   "artist": "一青窈",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8530,7 +8530,7 @@ window.SONG_DATA.push(
   "artist": "傘村トータ feat. 可不",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8538,7 +8538,7 @@ window.SONG_DATA.push(
   "artist": "tuki",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8546,7 +8546,7 @@ window.SONG_DATA.push(
   "artist": "Vaundy",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8554,7 +8554,7 @@ window.SONG_DATA.push(
   "artist": "米米CLUB",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8562,7 +8562,7 @@ window.SONG_DATA.push(
   "artist": "久保田早紀",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8570,7 +8570,7 @@ window.SONG_DATA.push(
   "artist": "Kaco",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8578,7 +8578,7 @@ window.SONG_DATA.push(
   "artist": "MISIA",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8586,7 +8586,7 @@ window.SONG_DATA.push(
   "artist": "牧野由依",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8594,7 +8594,7 @@ window.SONG_DATA.push(
   "artist": "倉木麻衣",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8602,7 +8602,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8610,7 +8610,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8618,7 +8618,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8626,7 +8626,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8634,7 +8634,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8642,7 +8642,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8650,7 +8650,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8658,7 +8658,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8666,7 +8666,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8674,7 +8674,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8682,7 +8682,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8690,7 +8690,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8698,7 +8698,7 @@ window.SONG_DATA.push(
   "artist": "諫山実生",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8706,7 +8706,7 @@ window.SONG_DATA.push(
   "artist": "Elfen Lied",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8714,7 +8714,7 @@ window.SONG_DATA.push(
   "artist": "絢香",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8722,7 +8722,7 @@ window.SONG_DATA.push(
   "artist": "じん",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8730,7 +8730,7 @@ window.SONG_DATA.push(
   "artist": "I☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8738,7 +8738,7 @@ window.SONG_DATA.push(
   "artist": "Mihimaru GT",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8746,7 +8746,7 @@ window.SONG_DATA.push(
   "artist": "高橋洋子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8754,7 +8754,7 @@ window.SONG_DATA.push(
   "artist": "I☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8762,7 +8762,7 @@ window.SONG_DATA.push(
   "artist": "優里",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8770,7 +8770,7 @@ window.SONG_DATA.push(
   "artist": "タイナカ サチ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8778,7 +8778,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8786,7 +8786,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8794,7 +8794,7 @@ window.SONG_DATA.push(
   "artist": "秦基博",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8802,7 +8802,7 @@ window.SONG_DATA.push(
   "artist": "Hayley Westenra",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8810,7 +8810,7 @@ window.SONG_DATA.push(
   "artist": "SURFACE",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8818,7 +8818,7 @@ window.SONG_DATA.push(
   "artist": "小宮知子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8826,7 +8826,7 @@ window.SONG_DATA.push(
   "artist": "中島 美嘉",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8834,7 +8834,7 @@ window.SONG_DATA.push(
   "artist": "Tuki.",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8842,7 +8842,7 @@ window.SONG_DATA.push(
   "artist": "MAHO堂",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8850,7 +8850,7 @@ window.SONG_DATA.push(
   "artist": "吉岡亜衣加",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8858,7 +8858,7 @@ window.SONG_DATA.push(
   "artist": "島谷ひとみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8866,7 +8866,7 @@ window.SONG_DATA.push(
   "artist": "島谷ひとみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8874,7 +8874,7 @@ window.SONG_DATA.push(
   "artist": "HoneyWorks",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8882,7 +8882,7 @@ window.SONG_DATA.push(
   "artist": "超学生",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8890,7 +8890,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8898,7 +8898,7 @@ window.SONG_DATA.push(
   "artist": "いきものがかり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8906,7 +8906,7 @@ window.SONG_DATA.push(
   "artist": "緑黄色社会",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8914,7 +8914,7 @@ window.SONG_DATA.push(
   "artist": "アオイエマ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8922,7 +8922,7 @@ window.SONG_DATA.push(
   "artist": "岡崎律子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8930,7 +8930,7 @@ window.SONG_DATA.push(
   "artist": "岡崎律子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8938,7 +8938,7 @@ window.SONG_DATA.push(
   "artist": "柊つかさ(福原香織)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8946,7 +8946,7 @@ window.SONG_DATA.push(
   "artist": "ルイズ（釘宮理恵）",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8954,7 +8954,7 @@ window.SONG_DATA.push(
   "artist": "赤髪 feat. グミ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8962,7 +8962,7 @@ window.SONG_DATA.push(
   "artist": "ジミーサムP feat.巡音ルカ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8970,7 +8970,7 @@ window.SONG_DATA.push(
   "artist": "梅とら",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8978,7 +8978,7 @@ window.SONG_DATA.push(
   "artist": "夏代孝明 feat. GUMI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8986,7 +8986,7 @@ window.SONG_DATA.push(
   "artist": "M.S.J",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -8994,7 +8994,7 @@ window.SONG_DATA.push(
   "artist": "土間うまる(CV田中あいみ)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9002,7 +9002,7 @@ window.SONG_DATA.push(
   "artist": "癒月",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9010,7 +9010,7 @@ window.SONG_DATA.push(
   "artist": "Mey-chan",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9018,7 +9018,7 @@ window.SONG_DATA.push(
   "artist": "SMAP",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9026,7 +9026,7 @@ window.SONG_DATA.push(
   "artist": "きただにひろし",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9034,7 +9034,7 @@ window.SONG_DATA.push(
   "artist": "AAA",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9042,7 +9042,7 @@ window.SONG_DATA.push(
   "artist": "安次嶺希和子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9050,7 +9050,7 @@ window.SONG_DATA.push(
   "artist": "FLOW",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9058,7 +9058,7 @@ window.SONG_DATA.push(
   "artist": "tuki.",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9066,7 +9066,7 @@ window.SONG_DATA.push(
   "artist": "米米CLUB",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9074,7 +9074,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9082,7 +9082,7 @@ window.SONG_DATA.push(
   "artist": "牧野由依",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9090,7 +9090,7 @@ window.SONG_DATA.push(
   "artist": "諫山実生",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9098,7 +9098,7 @@ window.SONG_DATA.push(
   "artist": "浦島太郎(桐谷健太)(2)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9106,7 +9106,7 @@ window.SONG_DATA.push(
   "artist": "森川ココネ(高畑充希)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9114,7 +9114,7 @@ window.SONG_DATA.push(
   "artist": "samfree feat.GUMI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9122,7 +9122,7 @@ window.SONG_DATA.push(
   "artist": "ClariS",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9130,7 +9130,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブ宝鐘マリン",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9138,7 +9138,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9146,7 +9146,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブ湊あくあ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9154,7 +9154,7 @@ window.SONG_DATA.push(
   "artist": "Keno",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9162,7 +9162,7 @@ window.SONG_DATA.push(
   "artist": "Sunflower's Garden",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9170,7 +9170,7 @@ window.SONG_DATA.push(
   "artist": "中 孝介",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9178,7 +9178,7 @@ window.SONG_DATA.push(
   "artist": "坂本九",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9186,7 +9186,7 @@ window.SONG_DATA.push(
   "artist": "倉木麻衣",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9194,7 +9194,7 @@ window.SONG_DATA.push(
   "artist": "藤田麻衣子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9202,7 +9202,7 @@ window.SONG_DATA.push(
   "artist": "弟の姉",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9210,7 +9210,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9218,7 +9218,7 @@ window.SONG_DATA.push(
   "artist": "絢香",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9226,7 +9226,7 @@ window.SONG_DATA.push(
   "artist": "doriko feat.初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9234,7 +9234,7 @@ window.SONG_DATA.push(
   "artist": "164 feat.GUMI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9242,7 +9242,7 @@ window.SONG_DATA.push(
   "artist": "Nem feat.初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9250,7 +9250,7 @@ window.SONG_DATA.push(
   "artist": "ryo(supercell) feat.初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9258,7 +9258,7 @@ window.SONG_DATA.push(
   "artist": "いきものがかり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9266,7 +9266,7 @@ window.SONG_DATA.push(
   "artist": "本名陽子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9274,7 +9274,7 @@ window.SONG_DATA.push(
   "artist": "上白石萌音",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9282,7 +9282,7 @@ window.SONG_DATA.push(
   "artist": "Les Misérables",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9290,7 +9290,7 @@ window.SONG_DATA.push(
   "artist": "すずきまゆみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=25",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9298,7 +9298,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=26",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9306,7 +9306,7 @@ window.SONG_DATA.push(
   "artist": "松たか子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=27",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9314,7 +9314,7 @@ window.SONG_DATA.push(
   "artist": "SMAP",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9322,7 +9322,7 @@ window.SONG_DATA.push(
   "artist": "Porno Graffitti",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9330,7 +9330,7 @@ window.SONG_DATA.push(
   "artist": "有坂美香",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9338,7 +9338,7 @@ window.SONG_DATA.push(
   "artist": "ジミーサムP feat.初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9346,7 +9346,7 @@ window.SONG_DATA.push(
   "artist": "黒うさP feat.初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9354,7 +9354,7 @@ window.SONG_DATA.push(
   "artist": "凛として時雨",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9362,7 +9362,7 @@ window.SONG_DATA.push(
   "artist": "Uru",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9370,7 +9370,7 @@ window.SONG_DATA.push(
   "artist": "林明日香",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9378,7 +9378,7 @@ window.SONG_DATA.push(
   "artist": "西沢さんP feat.GUMI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9386,7 +9386,7 @@ window.SONG_DATA.push(
   "artist": "kemu feat.GUMI・鏡音リン",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9394,7 +9394,7 @@ window.SONG_DATA.push(
   "artist": "ryo ; supercell",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9402,7 +9402,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9410,7 +9410,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9418,7 +9418,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9426,7 +9426,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブ星街すいせい",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9434,7 +9434,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブ星街すいせい",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9442,7 +9442,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9450,7 +9450,7 @@ window.SONG_DATA.push(
   "artist": "kemu feat.GUMI・鏡音リン",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9458,7 +9458,7 @@ window.SONG_DATA.push(
   "artist": "Vaundy",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9466,7 +9466,7 @@ window.SONG_DATA.push(
   "artist": "tuki.",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9474,7 +9474,7 @@ window.SONG_DATA.push(
   "artist": "SunSet Swish",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9482,7 +9482,7 @@ window.SONG_DATA.push(
   "artist": "mona(CV：夏川椎菜)【HoneyWorks】",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9490,7 +9490,7 @@ window.SONG_DATA.push(
   "artist": "Doughnuts Hole",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9498,7 +9498,7 @@ window.SONG_DATA.push(
   "artist": "ぷす feat.初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9506,7 +9506,7 @@ window.SONG_DATA.push(
   "artist": "LiSA",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=25",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9514,7 +9514,7 @@ window.SONG_DATA.push(
   "artist": "坂本真綾",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=26",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9522,7 +9522,7 @@ window.SONG_DATA.push(
   "artist": "よしか⁂",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=27",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9530,7 +9530,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=28",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9538,7 +9538,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=29",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9546,7 +9546,7 @@ window.SONG_DATA.push(
   "artist": "土屋美紀、下屋則子（シェシェ、ミミ）",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=30",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9554,7 +9554,7 @@ window.SONG_DATA.push(
   "artist": "坂本真綾",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=31",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9562,7 +9562,7 @@ window.SONG_DATA.push(
   "artist": "UNISON SQUARE GARDEN",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=32",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9570,7 +9570,7 @@ window.SONG_DATA.push(
   "artist": "石川さゆり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=33",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9578,7 +9578,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブ宝鐘マリン",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=34",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9586,7 +9586,7 @@ window.SONG_DATA.push(
   "artist": "一青窈",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9594,7 +9594,7 @@ window.SONG_DATA.push(
   "artist": "中島みゆき",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9602,7 +9602,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9610,7 +9610,7 @@ window.SONG_DATA.push(
   "artist": "嵐",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9618,7 +9618,7 @@ window.SONG_DATA.push(
   "artist": "Dixie Flatline feat.巡音ルカ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9626,7 +9626,7 @@ window.SONG_DATA.push(
   "artist": "米良美一",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9634,7 +9634,7 @@ window.SONG_DATA.push(
   "artist": "癒月",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9642,7 +9642,7 @@ window.SONG_DATA.push(
   "artist": "牧野由依",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9650,7 +9650,7 @@ window.SONG_DATA.push(
   "artist": "奥華子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9658,7 +9658,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9666,7 +9666,7 @@ window.SONG_DATA.push(
   "artist": "中 孝介",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9674,7 +9674,7 @@ window.SONG_DATA.push(
   "artist": "諫山実生",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9682,7 +9682,7 @@ window.SONG_DATA.push(
   "artist": "安次嶺希和子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9690,7 +9690,7 @@ window.SONG_DATA.push(
   "artist": "KOKIA",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9698,7 +9698,7 @@ window.SONG_DATA.push(
   "artist": "Martin Hurkens",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9706,7 +9706,7 @@ window.SONG_DATA.push(
   "artist": "Kaco",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9714,7 +9714,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9722,7 +9722,7 @@ window.SONG_DATA.push(
   "artist": "シャーリー(折笠富美子)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9730,7 +9730,7 @@ window.SONG_DATA.push(
   "artist": "アオイエマ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9738,7 +9738,7 @@ window.SONG_DATA.push(
   "artist": "石橋陽彩",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9746,7 +9746,7 @@ window.SONG_DATA.push(
   "artist": "中川奈美",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9754,7 +9754,7 @@ window.SONG_DATA.push(
   "artist": "G. Giordani",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9762,7 +9762,7 @@ window.SONG_DATA.push(
   "artist": "MISIA",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9770,7 +9770,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9778,7 +9778,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=25",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9786,7 +9786,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブ湊あくあ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=26",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9794,7 +9794,7 @@ window.SONG_DATA.push(
   "artist": "ドリーミング",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9802,7 +9802,7 @@ window.SONG_DATA.push(
   "artist": "島谷ひとみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9810,7 +9810,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9818,7 +9818,7 @@ window.SONG_DATA.push(
   "artist": "きただにひろし",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9826,7 +9826,7 @@ window.SONG_DATA.push(
   "artist": "神戸みゆき",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9834,7 +9834,7 @@ window.SONG_DATA.push(
   "artist": "七海るちあ（CV. 中田あすみ）寶生波音（CV. 寺門仁美）洞院リナ（CV. 淺野まゆみ）",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9842,7 +9842,7 @@ window.SONG_DATA.push(
   "artist": "いおり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9850,7 +9850,7 @@ window.SONG_DATA.push(
   "artist": "高橋洋子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9858,7 +9858,7 @@ window.SONG_DATA.push(
   "artist": "ワルキューレ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9866,7 +9866,7 @@ window.SONG_DATA.push(
   "artist": "ルイズ（釘宮理恵）",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9874,7 +9874,7 @@ window.SONG_DATA.push(
   "artist": "B小町",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9882,7 +9882,7 @@ window.SONG_DATA.push(
   "artist": "B小町",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9890,7 +9890,7 @@ window.SONG_DATA.push(
   "artist": "倉木麻衣",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9898,7 +9898,7 @@ window.SONG_DATA.push(
   "artist": "優里",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9906,7 +9906,7 @@ window.SONG_DATA.push(
   "artist": "優里",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9914,7 +9914,7 @@ window.SONG_DATA.push(
   "artist": "中島みゆき",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9922,7 +9922,7 @@ window.SONG_DATA.push(
   "artist": "夏川りみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9930,7 +9930,7 @@ window.SONG_DATA.push(
   "artist": "奥華子×96猫",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9938,7 +9938,7 @@ window.SONG_DATA.push(
   "artist": "dateken feat.鏡音リン・レン",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9946,7 +9946,7 @@ window.SONG_DATA.push(
   "artist": "Changin' My Life",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9954,7 +9954,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブ星街すいせい",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9962,7 +9962,7 @@ window.SONG_DATA.push(
   "artist": "川嶋あい",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9970,7 +9970,7 @@ window.SONG_DATA.push(
   "artist": "菅田将暉",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9978,7 +9978,7 @@ window.SONG_DATA.push(
   "artist": "加藤ミリヤ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9986,7 +9986,7 @@ window.SONG_DATA.push(
   "artist": "よしか⁂",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=25",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -9994,7 +9994,7 @@ window.SONG_DATA.push(
   "artist": "LiSA",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=26",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10002,7 +10002,7 @@ window.SONG_DATA.push(
   "artist": "大塚愛",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10010,7 +10010,7 @@ window.SONG_DATA.push(
   "artist": "May'n 中島愛",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10018,7 +10018,7 @@ window.SONG_DATA.push(
   "artist": "fourfolium（高田憂希／山口愛／戸田めぐみ／竹尾歩美）",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10026,7 +10026,7 @@ window.SONG_DATA.push(
   "artist": "ClariS",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10034,7 +10034,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブロボ子アキ・ローゼンタール百鬼あやめ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10042,7 +10042,7 @@ window.SONG_DATA.push(
   "artist": "Dream5",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10050,7 +10050,7 @@ window.SONG_DATA.push(
   "artist": "つじあやの",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10058,7 +10058,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10066,7 +10066,7 @@ window.SONG_DATA.push(
   "artist": "髏々宮カルタ(花澤香菜)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10074,7 +10074,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10082,7 +10082,7 @@ window.SONG_DATA.push(
   "artist": "崎山蒼志",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10090,7 +10090,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10098,7 +10098,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10106,7 +10106,7 @@ window.SONG_DATA.push(
   "artist": "北出菜奈",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10114,7 +10114,7 @@ window.SONG_DATA.push(
   "artist": "緑黄色社会",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10122,7 +10122,7 @@ window.SONG_DATA.push(
   "artist": "mihimaru GT",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10130,7 +10130,7 @@ window.SONG_DATA.push(
   "artist": "加藤登紀子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10138,7 +10138,7 @@ window.SONG_DATA.push(
   "artist": "安次嶺希和子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10146,7 +10146,7 @@ window.SONG_DATA.push(
   "artist": "THE★SCANTY",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10154,7 +10154,7 @@ window.SONG_DATA.push(
   "artist": "DECO27 feat. 初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10162,7 +10162,7 @@ window.SONG_DATA.push(
   "artist": "夏川りみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10170,7 +10170,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブ宝鐘マリン",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10178,7 +10178,7 @@ window.SONG_DATA.push(
   "artist": "B小町",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10186,7 +10186,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10194,7 +10194,7 @@ window.SONG_DATA.push(
   "artist": "Tommy heavenly6",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=25",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10202,7 +10202,7 @@ window.SONG_DATA.push(
   "artist": "After the Rain（そらる×まふまふ）",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=26",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10210,7 +10210,7 @@ window.SONG_DATA.push(
   "artist": "梅とら",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=27",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10218,7 +10218,7 @@ window.SONG_DATA.push(
   "artist": "スタァライト九九組",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=28",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10226,7 +10226,7 @@ window.SONG_DATA.push(
   "artist": "スタァライト九九組",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=29",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10234,7 +10234,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=30",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10242,7 +10242,7 @@ window.SONG_DATA.push(
   "artist": "さユり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=31",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10250,7 +10250,7 @@ window.SONG_DATA.push(
   "artist": "凪乃ましろ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=32",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10498,7 +10498,7 @@ window.SONG_DATA.push(
   "artist": "米倉千尋",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10506,7 +10506,7 @@ window.SONG_DATA.push(
   "artist": "大塚愛",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10514,7 +10514,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブロボ子アキ・ローゼンタール百鬼あやめ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10522,7 +10522,7 @@ window.SONG_DATA.push(
   "artist": "諫山実生",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10530,7 +10530,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10538,7 +10538,7 @@ window.SONG_DATA.push(
   "artist": "samfree feat.GUMI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10546,7 +10546,7 @@ window.SONG_DATA.push(
   "artist": "緑黄色社会",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10554,7 +10554,7 @@ window.SONG_DATA.push(
   "artist": "妖精帝國",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10562,7 +10562,7 @@ window.SONG_DATA.push(
   "artist": "きただにひろし",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10570,7 +10570,7 @@ window.SONG_DATA.push(
   "artist": "Vaundy",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10578,7 +10578,7 @@ window.SONG_DATA.push(
   "artist": "tuki.",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10586,7 +10586,7 @@ window.SONG_DATA.push(
   "artist": "島谷ひとみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10594,7 +10594,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10602,7 +10602,7 @@ window.SONG_DATA.push(
   "artist": "井上あずみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10610,7 +10610,7 @@ window.SONG_DATA.push(
   "artist": "林原めぐみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10618,7 +10618,7 @@ window.SONG_DATA.push(
   "artist": "茅原實里",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10626,7 +10626,7 @@ window.SONG_DATA.push(
   "artist": "40㍍P feat.初音ミク×GUMI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10634,7 +10634,7 @@ window.SONG_DATA.push(
   "artist": "かいりきベアfeat.flower",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10642,7 +10642,7 @@ window.SONG_DATA.push(
   "artist": "ツミキ feat.KAFU",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10650,7 +10650,7 @@ window.SONG_DATA.push(
   "artist": "40㍍P feat. 初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10658,7 +10658,7 @@ window.SONG_DATA.push(
   "artist": "みきとP feat.GUMI・鏡音リン",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10666,7 +10666,7 @@ window.SONG_DATA.push(
   "artist": "ひとしずくP feat.鏡音リン・レン",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10674,7 +10674,7 @@ window.SONG_DATA.push(
   "artist": "北出菜奈",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10682,7 +10682,7 @@ window.SONG_DATA.push(
   "artist": "SURFACE",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10690,7 +10690,7 @@ window.SONG_DATA.push(
   "artist": "柴矢裕美",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=25",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10698,7 +10698,7 @@ window.SONG_DATA.push(
   "artist": "伊集加代子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=26",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10706,7 +10706,7 @@ window.SONG_DATA.push(
   "artist": "little by little",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=27",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10714,7 +10714,7 @@ window.SONG_DATA.push(
   "artist": "AliA",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=28",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10946,7 +10946,7 @@ window.SONG_DATA.push(
   "artist": "μ's",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10954,7 +10954,7 @@ window.SONG_DATA.push(
   "artist": "レミオロメン",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10962,7 +10962,7 @@ window.SONG_DATA.push(
   "artist": "木村弓",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10970,7 +10970,7 @@ window.SONG_DATA.push(
   "artist": "RADWIMPS",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10978,7 +10978,7 @@ window.SONG_DATA.push(
   "artist": "倍賞千恵子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10986,7 +10986,7 @@ window.SONG_DATA.push(
   "artist": "絢香",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -10994,7 +10994,7 @@ window.SONG_DATA.push(
   "artist": "菅田将暉",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11002,7 +11002,7 @@ window.SONG_DATA.push(
   "artist": "菅田将暉",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11010,7 +11010,7 @@ window.SONG_DATA.push(
   "artist": "奥華子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11018,7 +11018,7 @@ window.SONG_DATA.push(
   "artist": "中島みゆき",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11026,7 +11026,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11034,7 +11034,7 @@ window.SONG_DATA.push(
   "artist": "DREAMS COME TRUE",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11042,7 +11042,7 @@ window.SONG_DATA.push(
   "artist": "tuki.(2)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11050,7 +11050,7 @@ window.SONG_DATA.push(
   "artist": "緑黄色社会",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11058,7 +11058,7 @@ window.SONG_DATA.push(
   "artist": "井上あずみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11066,7 +11066,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブ星街すいせい",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11074,7 +11074,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11082,7 +11082,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11090,7 +11090,7 @@ window.SONG_DATA.push(
   "artist": "みきとP Feat.初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11098,7 +11098,7 @@ window.SONG_DATA.push(
   "artist": "久保田早紀(2)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11106,7 +11106,7 @@ window.SONG_DATA.push(
   "artist": "西沢さんP feat.GUMI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11114,7 +11114,7 @@ window.SONG_DATA.push(
   "artist": "嵐",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11122,7 +11122,7 @@ window.SONG_DATA.push(
   "artist": "菅田将暉",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11722,7 +11722,7 @@ window.SONG_DATA.push(
   "artist": "Uru",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11730,7 +11730,7 @@ window.SONG_DATA.push(
   "artist": "夏川りみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11738,7 +11738,7 @@ window.SONG_DATA.push(
   "artist": "優里",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11746,7 +11746,7 @@ window.SONG_DATA.push(
   "artist": "花は咲くプロジェクト",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11754,7 +11754,7 @@ window.SONG_DATA.push(
   "artist": "林明日香",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11762,7 +11762,7 @@ window.SONG_DATA.push(
   "artist": "doriko feat.初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11770,7 +11770,7 @@ window.SONG_DATA.push(
   "artist": "KEI feat.初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11778,7 +11778,7 @@ window.SONG_DATA.push(
   "artist": "癒月",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11786,7 +11786,7 @@ window.SONG_DATA.push(
   "artist": "倍賞千恵子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11794,7 +11794,7 @@ window.SONG_DATA.push(
   "artist": "木村弓",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11802,7 +11802,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11810,7 +11810,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11818,7 +11818,7 @@ window.SONG_DATA.push(
   "artist": "秦基博",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11826,7 +11826,7 @@ window.SONG_DATA.push(
   "artist": "一青窈",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11834,7 +11834,7 @@ window.SONG_DATA.push(
   "artist": "レミオロメン",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11842,7 +11842,7 @@ window.SONG_DATA.push(
   "artist": "中島みゆき(2)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11850,7 +11850,7 @@ window.SONG_DATA.push(
   "artist": "アオイエマ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11858,7 +11858,7 @@ window.SONG_DATA.push(
   "artist": "ZONE",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11866,7 +11866,7 @@ window.SONG_DATA.push(
   "artist": "諫山実生",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11874,7 +11874,7 @@ window.SONG_DATA.push(
   "artist": "岡崎律子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11882,7 +11882,7 @@ window.SONG_DATA.push(
   "artist": "安次嶺希和子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11890,7 +11890,7 @@ window.SONG_DATA.push(
   "artist": "傘村トータ feat. 可不",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -11898,7 +11898,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12234,7 +12234,7 @@ window.SONG_DATA.push(
   "artist": "きただにひろし",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12242,7 +12242,7 @@ window.SONG_DATA.push(
   "artist": "Keno",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12250,7 +12250,7 @@ window.SONG_DATA.push(
   "artist": "AKINO",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12258,7 +12258,7 @@ window.SONG_DATA.push(
   "artist": "島谷ひとみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12266,7 +12266,7 @@ window.SONG_DATA.push(
   "artist": "mihimaru GT",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12274,7 +12274,7 @@ window.SONG_DATA.push(
   "artist": "林原めぐみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12282,7 +12282,7 @@ window.SONG_DATA.push(
   "artist": "米米CLUB",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12290,7 +12290,7 @@ window.SONG_DATA.push(
   "artist": "コアラモード．",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12298,7 +12298,7 @@ window.SONG_DATA.push(
   "artist": "Ado with 初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12306,7 +12306,7 @@ window.SONG_DATA.push(
   "artist": "NMB48 Team N",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12314,7 +12314,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12322,7 +12322,7 @@ window.SONG_DATA.push(
   "artist": "宝鐘マリン",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12330,7 +12330,7 @@ window.SONG_DATA.push(
   "artist": "桃鈴ねね",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12338,7 +12338,7 @@ window.SONG_DATA.push(
   "artist": "7Mermaid",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12346,7 +12346,7 @@ window.SONG_DATA.push(
   "artist": "みきとP feat.GUMI・鏡音リン",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12354,7 +12354,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12362,7 +12362,7 @@ window.SONG_DATA.push(
   "artist": "緑黄色社会",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12370,7 +12370,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12378,7 +12378,7 @@ window.SONG_DATA.push(
   "artist": "UNISON SQUARE GARDEN",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12386,7 +12386,7 @@ window.SONG_DATA.push(
   "artist": "星野源",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12394,7 +12394,7 @@ window.SONG_DATA.push(
   "artist": "星野源",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12402,7 +12402,7 @@ window.SONG_DATA.push(
   "artist": "スタァライト九九組",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12410,7 +12410,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12418,7 +12418,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12426,7 +12426,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブロボ子アキ・ローゼンタール百鬼あやめ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=25",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12434,7 +12434,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=26",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12738,7 +12738,7 @@ window.SONG_DATA.push(
   "artist": "嵐",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12746,7 +12746,7 @@ window.SONG_DATA.push(
   "artist": "渡り廊下走り隊",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12754,7 +12754,7 @@ window.SONG_DATA.push(
   "artist": "mao",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12762,7 +12762,7 @@ window.SONG_DATA.push(
   "artist": "MAHO堂",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12770,7 +12770,7 @@ window.SONG_DATA.push(
   "artist": "スタァライト九九組",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12778,7 +12778,7 @@ window.SONG_DATA.push(
   "artist": "Dream5",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12786,7 +12786,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12794,7 +12794,7 @@ window.SONG_DATA.push(
   "artist": "岡本真夜",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12802,7 +12802,7 @@ window.SONG_DATA.push(
   "artist": "米米CLUB",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12810,7 +12810,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12818,7 +12818,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12826,7 +12826,7 @@ window.SONG_DATA.push(
   "artist": "femme fatale",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12834,7 +12834,7 @@ window.SONG_DATA.push(
   "artist": "林原めぐみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12842,7 +12842,7 @@ window.SONG_DATA.push(
   "artist": "清浦夏実",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12850,7 +12850,7 @@ window.SONG_DATA.push(
   "artist": "さくらももこ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12858,7 +12858,7 @@ window.SONG_DATA.push(
   "artist": "ちびまる子 & 爆チュー問題",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12866,7 +12866,7 @@ window.SONG_DATA.push(
   "artist": "まふまふ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12874,7 +12874,7 @@ window.SONG_DATA.push(
   "artist": "40㍍P feat.初音ミク×GUMI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12882,7 +12882,7 @@ window.SONG_DATA.push(
   "artist": "トラボルタ feat.巡音ルカ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12890,7 +12890,7 @@ window.SONG_DATA.push(
   "artist": "Nem feat.初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12898,7 +12898,7 @@ window.SONG_DATA.push(
   "artist": "Junky feat.鏡音リン",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12906,7 +12906,7 @@ window.SONG_DATA.push(
   "artist": "GUMI(40㍍)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12914,7 +12914,7 @@ window.SONG_DATA.push(
   "artist": "れるりり&ロンチーノ=ペペ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12922,7 +12922,7 @@ window.SONG_DATA.push(
   "artist": "クレヨンしんちゃん",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12930,7 +12930,7 @@ window.SONG_DATA.push(
   "artist": "AliA",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=25",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12938,7 +12938,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブ湊あくあ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=26",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12946,7 +12946,7 @@ window.SONG_DATA.push(
   "artist": "Ado with 初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=27",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12954,7 +12954,7 @@ window.SONG_DATA.push(
   "artist": "Puccini",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=28",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12962,7 +12962,7 @@ window.SONG_DATA.push(
   "artist": "Anna Netrebko",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=29",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12970,7 +12970,7 @@ window.SONG_DATA.push(
   "artist": "Giacomo Puccini",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=30",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -12978,7 +12978,7 @@ window.SONG_DATA.push(
   "artist": "牧野由依",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=31",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13050,7 +13050,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13058,7 +13058,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13066,7 +13066,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13074,7 +13074,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13082,7 +13082,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13090,7 +13090,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13098,7 +13098,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13106,7 +13106,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13114,7 +13114,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13122,7 +13122,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13130,7 +13130,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13138,7 +13138,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13146,7 +13146,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13154,7 +13154,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13162,7 +13162,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13170,7 +13170,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13178,7 +13178,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13186,7 +13186,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13194,7 +13194,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13202,7 +13202,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13210,7 +13210,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13218,7 +13218,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13226,7 +13226,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13234,7 +13234,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13242,7 +13242,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=25",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13250,7 +13250,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=26",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13258,7 +13258,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=27",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13266,7 +13266,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=28",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13274,7 +13274,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=29",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13282,7 +13282,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=30",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13290,7 +13290,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=31",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13298,7 +13298,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=32",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13306,7 +13306,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=33",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13562,7 +13562,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13570,7 +13570,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13578,7 +13578,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13586,7 +13586,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13594,7 +13594,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13602,7 +13602,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13610,7 +13610,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13618,7 +13618,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13626,7 +13626,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13634,7 +13634,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13642,7 +13642,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13650,7 +13650,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13658,7 +13658,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13666,7 +13666,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13674,7 +13674,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13682,7 +13682,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13690,7 +13690,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13698,7 +13698,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13706,7 +13706,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13714,7 +13714,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13722,7 +13722,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13730,7 +13730,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13738,7 +13738,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13746,7 +13746,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13754,7 +13754,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=25",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13762,7 +13762,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=26",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13770,7 +13770,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=27",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13778,7 +13778,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=28",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -13786,7 +13786,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=29",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14114,7 +14114,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14122,7 +14122,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14130,7 +14130,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14138,7 +14138,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14146,7 +14146,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14290,7 +14290,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14298,7 +14298,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14306,7 +14306,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14314,7 +14314,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14322,7 +14322,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14330,7 +14330,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14338,7 +14338,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14346,7 +14346,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14354,7 +14354,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14362,7 +14362,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14370,7 +14370,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14378,7 +14378,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14386,7 +14386,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14394,7 +14394,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14402,7 +14402,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14410,7 +14410,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14418,7 +14418,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14426,7 +14426,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14434,7 +14434,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14442,7 +14442,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14450,7 +14450,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14458,7 +14458,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14466,7 +14466,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14474,7 +14474,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14482,7 +14482,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=25",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14490,7 +14490,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=26",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14498,7 +14498,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=27",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14506,7 +14506,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14514,7 +14514,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14522,7 +14522,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14530,7 +14530,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14538,7 +14538,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14546,7 +14546,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14554,7 +14554,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14562,7 +14562,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14570,7 +14570,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14578,7 +14578,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14586,7 +14586,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14594,7 +14594,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14602,7 +14602,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14610,7 +14610,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14618,7 +14618,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14626,7 +14626,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14634,7 +14634,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14642,7 +14642,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14650,7 +14650,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14658,7 +14658,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14666,7 +14666,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14674,7 +14674,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14682,7 +14682,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14690,7 +14690,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14698,7 +14698,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=25",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14706,7 +14706,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=26",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14714,7 +14714,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=27",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14722,7 +14722,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=28",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14730,7 +14730,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14738,7 +14738,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14746,7 +14746,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14754,7 +14754,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14762,7 +14762,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14770,7 +14770,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14778,7 +14778,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14786,7 +14786,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14794,7 +14794,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14802,7 +14802,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14810,7 +14810,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14818,7 +14818,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14826,7 +14826,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14834,7 +14834,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14842,7 +14842,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14850,7 +14850,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14858,7 +14858,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14866,7 +14866,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14874,7 +14874,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14882,7 +14882,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14890,7 +14890,7 @@ window.SONG_DATA.push(
   "artist": "浦島太郎(桐谷健太)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14898,7 +14898,7 @@ window.SONG_DATA.push(
   "artist": "つじあやの",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14906,7 +14906,7 @@ window.SONG_DATA.push(
   "artist": "doriko feat.初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14914,7 +14914,7 @@ window.SONG_DATA.push(
   "artist": "みきとP feat.GUMI・鏡音リン",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14922,7 +14922,7 @@ window.SONG_DATA.push(
   "artist": "光GENJI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14930,7 +14930,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14938,7 +14938,7 @@ window.SONG_DATA.push(
   "artist": "月島きらり starring 久住小春（モーニング娘。）",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14946,7 +14946,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14954,7 +14954,7 @@ window.SONG_DATA.push(
   "artist": "緑黄色社会",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14962,7 +14962,7 @@ window.SONG_DATA.push(
   "artist": "島谷ひとみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14970,7 +14970,7 @@ window.SONG_DATA.push(
   "artist": "柴矢裕美",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14978,7 +14978,7 @@ window.SONG_DATA.push(
   "artist": "清浦夏実",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14986,7 +14986,7 @@ window.SONG_DATA.push(
   "artist": "mihimaru GT",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -14994,7 +14994,7 @@ window.SONG_DATA.push(
   "artist": "NMB48",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15002,7 +15002,7 @@ window.SONG_DATA.push(
   "artist": "NMB48 Team N",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15010,7 +15010,7 @@ window.SONG_DATA.push(
   "artist": "倉木麻衣",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15018,7 +15018,7 @@ window.SONG_DATA.push(
   "artist": "LiSA",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15026,7 +15026,7 @@ window.SONG_DATA.push(
   "artist": "mao",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15034,7 +15034,7 @@ window.SONG_DATA.push(
   "artist": "ジャイアン(木村昴)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15042,7 +15042,7 @@ window.SONG_DATA.push(
   "artist": "Hearts Grow",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15050,7 +15050,7 @@ window.SONG_DATA.push(
   "artist": "Tommy heavenly6",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15058,7 +15058,7 @@ window.SONG_DATA.push(
   "artist": "THE★SCANTY",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15066,7 +15066,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15074,7 +15074,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15082,7 +15082,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=25",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15090,7 +15090,7 @@ window.SONG_DATA.push(
   "artist": "諫山実生",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=26",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15098,7 +15098,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=27",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15106,7 +15106,7 @@ window.SONG_DATA.push(
   "artist": "月島きらり starring 久住小春（モーニング娘。）",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15114,7 +15114,7 @@ window.SONG_DATA.push(
   "artist": "角田信明&いはたじゅり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15122,7 +15122,7 @@ window.SONG_DATA.push(
   "artist": "佐香智久",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15130,7 +15130,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブ紫咲シオン",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15138,7 +15138,7 @@ window.SONG_DATA.push(
   "artist": "絢香",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15146,7 +15146,7 @@ window.SONG_DATA.push(
   "artist": "中島みゆき",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15154,7 +15154,7 @@ window.SONG_DATA.push(
   "artist": "いきものがかり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15162,7 +15162,7 @@ window.SONG_DATA.push(
   "artist": "川嶋あい",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15170,7 +15170,7 @@ window.SONG_DATA.push(
   "artist": "坂本真綾",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15178,7 +15178,7 @@ window.SONG_DATA.push(
   "artist": "坂本真綾",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15186,7 +15186,7 @@ window.SONG_DATA.push(
   "artist": "林原めぐみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15194,7 +15194,7 @@ window.SONG_DATA.push(
   "artist": "林原めぐみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15202,7 +15202,7 @@ window.SONG_DATA.push(
   "artist": "林原めぐみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15210,7 +15210,7 @@ window.SONG_DATA.push(
   "artist": "傘村トータ feat. 可不",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15218,7 +15218,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブロボ子アキ・ローゼンタール百鬼あやめ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15226,7 +15226,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブ夜空メル紫咲シオン癒月ちょこ潤羽るしあ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15234,7 +15234,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15242,7 +15242,7 @@ window.SONG_DATA.push(
   "artist": "MISIA",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15250,7 +15250,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15258,7 +15258,7 @@ window.SONG_DATA.push(
   "artist": "茅原実里",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15266,7 +15266,7 @@ window.SONG_DATA.push(
   "artist": "よしか⁂",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15274,7 +15274,7 @@ window.SONG_DATA.push(
   "artist": "よしか⁂",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15282,7 +15282,7 @@ window.SONG_DATA.push(
   "artist": "久保田早紀",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15290,7 +15290,7 @@ window.SONG_DATA.push(
   "artist": "森高千里",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15298,7 +15298,7 @@ window.SONG_DATA.push(
   "artist": "Uru",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=25",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15306,7 +15306,7 @@ window.SONG_DATA.push(
   "artist": "SMAP",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=26",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15314,7 +15314,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15322,7 +15322,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15330,7 +15330,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15338,7 +15338,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15346,7 +15346,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15354,7 +15354,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15362,7 +15362,7 @@ window.SONG_DATA.push(
   "artist": "一青窈(2)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15370,7 +15370,7 @@ window.SONG_DATA.push(
   "artist": "井上あずみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15378,7 +15378,7 @@ window.SONG_DATA.push(
   "artist": "doriko feat.初音ミク(2)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15386,7 +15386,7 @@ window.SONG_DATA.push(
   "artist": "シャーリー(折笠富美子)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15394,7 +15394,7 @@ window.SONG_DATA.push(
   "artist": "ナナリー（名塚佳織）",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15402,7 +15402,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15410,7 +15410,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15418,7 +15418,7 @@ window.SONG_DATA.push(
   "artist": "松田聖子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15426,7 +15426,7 @@ window.SONG_DATA.push(
   "artist": "坂本九",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15434,7 +15434,7 @@ window.SONG_DATA.push(
   "artist": "安次嶺希和子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15442,7 +15442,7 @@ window.SONG_DATA.push(
   "artist": "ZONE",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15450,7 +15450,7 @@ window.SONG_DATA.push(
   "artist": "菅田将暉",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15458,7 +15458,7 @@ window.SONG_DATA.push(
   "artist": "菅田将暉",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15466,7 +15466,7 @@ window.SONG_DATA.push(
   "artist": "諫山実生",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15474,7 +15474,7 @@ window.SONG_DATA.push(
   "artist": "いきものがかり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15482,7 +15482,7 @@ window.SONG_DATA.push(
   "artist": "久石譲",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15490,7 +15490,7 @@ window.SONG_DATA.push(
   "artist": "平原綾香",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15498,7 +15498,7 @@ window.SONG_DATA.push(
   "artist": "久石譲",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15506,7 +15506,7 @@ window.SONG_DATA.push(
   "artist": "タイナカサチ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15514,7 +15514,7 @@ window.SONG_DATA.push(
   "artist": "タイナカサチ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15522,7 +15522,7 @@ window.SONG_DATA.push(
   "artist": "高鈴",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15530,7 +15530,7 @@ window.SONG_DATA.push(
   "artist": "Uru",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15538,7 +15538,7 @@ window.SONG_DATA.push(
   "artist": "嵐(2)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15546,7 +15546,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15554,7 +15554,7 @@ window.SONG_DATA.push(
   "artist": "石川さゆり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15562,7 +15562,7 @@ window.SONG_DATA.push(
   "artist": "松本梨香&豊口めぐみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15570,7 +15570,7 @@ window.SONG_DATA.push(
   "artist": "大川茂伸",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15578,7 +15578,7 @@ window.SONG_DATA.push(
   "artist": "ClariS",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15586,7 +15586,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15594,7 +15594,7 @@ window.SONG_DATA.push(
   "artist": "M.S.J",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15602,7 +15602,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブ宝鐘マリン",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15610,7 +15610,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブアキ・ローゼンタール",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15618,7 +15618,7 @@ window.SONG_DATA.push(
   "artist": "Goma",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15626,7 +15626,7 @@ window.SONG_DATA.push(
   "artist": "クレヨンしんちゃん",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15634,7 +15634,7 @@ window.SONG_DATA.push(
   "artist": "米米CLUB",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/t?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15642,7 +15642,7 @@ window.SONG_DATA.push(
   "artist": "浦島太郎(桐谷健太)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15650,7 +15650,7 @@ window.SONG_DATA.push(
   "artist": "夏川りみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15658,7 +15658,7 @@ window.SONG_DATA.push(
   "artist": "アンジェラ・アキ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15666,7 +15666,7 @@ window.SONG_DATA.push(
   "artist": "坂本真綾",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15674,7 +15674,7 @@ window.SONG_DATA.push(
   "artist": "中 孝介",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15682,7 +15682,7 @@ window.SONG_DATA.push(
   "artist": "佐香智久",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15690,7 +15690,7 @@ window.SONG_DATA.push(
   "artist": "高鈴",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15698,7 +15698,7 @@ window.SONG_DATA.push(
   "artist": "Uru",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15706,7 +15706,7 @@ window.SONG_DATA.push(
   "artist": "牧野由依",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15714,7 +15714,7 @@ window.SONG_DATA.push(
   "artist": "岡崎律子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15722,7 +15722,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15730,7 +15730,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15738,7 +15738,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15746,7 +15746,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15754,7 +15754,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15762,7 +15762,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15770,7 +15770,7 @@ window.SONG_DATA.push(
   "artist": "湊あくあ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15778,7 +15778,7 @@ window.SONG_DATA.push(
   "artist": "IL DIVO",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15786,7 +15786,7 @@ window.SONG_DATA.push(
   "artist": "星村麻衣",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15794,7 +15794,7 @@ window.SONG_DATA.push(
   "artist": "布施明",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15802,7 +15802,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15810,7 +15810,7 @@ window.SONG_DATA.push(
   "artist": "絢香×コブクロ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15818,7 +15818,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15826,7 +15826,7 @@ window.SONG_DATA.push(
   "artist": "きただにひろし",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15834,7 +15834,7 @@ window.SONG_DATA.push(
   "artist": "小野正利",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=25",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15842,7 +15842,7 @@ window.SONG_DATA.push(
   "artist": "Keno",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=26",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15850,7 +15850,7 @@ window.SONG_DATA.push(
   "artist": "レディ･バット(小林沙苗)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=27",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15858,7 +15858,7 @@ window.SONG_DATA.push(
   "artist": "かいりきベアfeat.初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=28",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15866,7 +15866,7 @@ window.SONG_DATA.push(
   "artist": "かいりきベアfeat.flower",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=29",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15874,7 +15874,7 @@ window.SONG_DATA.push(
   "artist": "feat. 涼海ひより（CV：水瀬いのり） HoneyWorks",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=30",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15882,7 +15882,7 @@ window.SONG_DATA.push(
   "artist": "HoneyWorks feat.Kotoha",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=31",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15890,7 +15890,7 @@ window.SONG_DATA.push(
   "artist": "HoneyWorks",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=32",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15898,7 +15898,7 @@ window.SONG_DATA.push(
   "artist": "夏代孝明 feat. GUMI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=33",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15906,7 +15906,7 @@ window.SONG_DATA.push(
   "artist": "夏代孝明 feat. 初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=34",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15914,7 +15914,7 @@ window.SONG_DATA.push(
   "artist": "超学生",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=35",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15922,7 +15922,7 @@ window.SONG_DATA.push(
   "artist": "AAA",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=36",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15930,7 +15930,7 @@ window.SONG_DATA.push(
   "artist": "AAA",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=37",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15938,7 +15938,7 @@ window.SONG_DATA.push(
   "artist": "BOYSTYLE",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=38",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15946,7 +15946,7 @@ window.SONG_DATA.push(
   "artist": "山口あかり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=39",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15954,7 +15954,7 @@ window.SONG_DATA.push(
   "artist": "中島みゆき",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=40",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15962,7 +15962,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=41",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15970,7 +15970,7 @@ window.SONG_DATA.push(
   "artist": "MISIA",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=42",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15978,7 +15978,7 @@ window.SONG_DATA.push(
   "artist": "MISIA",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=43",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15986,7 +15986,7 @@ window.SONG_DATA.push(
   "artist": "M.S.J",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=44",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -15994,7 +15994,7 @@ window.SONG_DATA.push(
   "artist": "Uru",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=45",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16002,7 +16002,7 @@ window.SONG_DATA.push(
   "artist": "中島みゆき",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=46",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16010,7 +16010,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=47",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16018,7 +16018,7 @@ window.SONG_DATA.push(
   "artist": "DECO27 feat. 初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=48",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16026,7 +16026,7 @@ window.SONG_DATA.push(
   "artist": "DECO27 feat. 初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=49",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16034,7 +16034,7 @@ window.SONG_DATA.push(
   "artist": "DECO27 feat. 初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=50",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16042,7 +16042,7 @@ window.SONG_DATA.push(
   "artist": "卓球少年 feat. 鏡音レン",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=51",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16050,7 +16050,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブ宝鐘マリン",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=52",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16058,7 +16058,7 @@ window.SONG_DATA.push(
   "artist": "さくらももこ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=53",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16066,7 +16066,7 @@ window.SONG_DATA.push(
   "artist": "倉木麻衣",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16074,7 +16074,7 @@ window.SONG_DATA.push(
   "artist": "優里",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16082,7 +16082,7 @@ window.SONG_DATA.push(
   "artist": "牧野由依",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16090,7 +16090,7 @@ window.SONG_DATA.push(
   "artist": "HoneyWorks feat.Kotoha",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16098,7 +16098,7 @@ window.SONG_DATA.push(
   "artist": "よしか⁂",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16106,7 +16106,7 @@ window.SONG_DATA.push(
   "artist": "渡り廊下走り隊",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16114,7 +16114,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16122,7 +16122,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16130,7 +16130,7 @@ window.SONG_DATA.push(
   "artist": "40㍍P feat. 初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16138,7 +16138,7 @@ window.SONG_DATA.push(
   "artist": "MAHO堂",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16146,7 +16146,7 @@ window.SONG_DATA.push(
   "artist": "いきものがかり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16154,7 +16154,7 @@ window.SONG_DATA.push(
   "artist": "大塚愛",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16162,7 +16162,7 @@ window.SONG_DATA.push(
   "artist": "さくらももこ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16170,7 +16170,7 @@ window.SONG_DATA.push(
   "artist": "CHiCO with HoneyWorks",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16178,7 +16178,7 @@ window.SONG_DATA.push(
   "artist": "HoneyWorks feat.成海聖奈（CV.：雨宮天）",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16186,7 +16186,7 @@ window.SONG_DATA.push(
   "artist": "μ's",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16194,7 +16194,7 @@ window.SONG_DATA.push(
   "artist": "星空凛 (飯田里穂)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16202,7 +16202,7 @@ window.SONG_DATA.push(
   "artist": "μ's",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16210,7 +16210,7 @@ window.SONG_DATA.push(
   "artist": "μ's",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16218,7 +16218,7 @@ window.SONG_DATA.push(
   "artist": "Aqours",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16226,7 +16226,7 @@ window.SONG_DATA.push(
   "artist": "雨宮天",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16234,7 +16234,7 @@ window.SONG_DATA.push(
   "artist": "NMB48",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16242,7 +16242,7 @@ window.SONG_DATA.push(
   "artist": "HoneyWorks feat. 初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16250,7 +16250,7 @@ window.SONG_DATA.push(
   "artist": "THE★SCANTY",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16258,7 +16258,7 @@ window.SONG_DATA.push(
   "artist": "Strawberry JAM",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16266,7 +16266,7 @@ window.SONG_DATA.push(
   "artist": "ST☆RISH",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16274,7 +16274,7 @@ window.SONG_DATA.push(
   "artist": "一ノ瀬 トキヤ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16282,7 +16282,7 @@ window.SONG_DATA.push(
   "artist": "一ノ瀬 トキヤ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16290,7 +16290,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブ宝鐘マリン",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16298,7 +16298,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=25",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16306,7 +16306,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=26",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16314,7 +16314,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=27",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16322,7 +16322,7 @@ window.SONG_DATA.push(
   "artist": "山口あかり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=28",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16330,7 +16330,7 @@ window.SONG_DATA.push(
   "artist": "倖田來未",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16338,7 +16338,7 @@ window.SONG_DATA.push(
   "artist": "SID & 西平彰",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16346,7 +16346,7 @@ window.SONG_DATA.push(
   "artist": "北出菜奈",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16354,7 +16354,7 @@ window.SONG_DATA.push(
   "artist": "Porno Graffitti",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16362,7 +16362,7 @@ window.SONG_DATA.push(
   "artist": "ゴールデンボンバー",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16370,7 +16370,7 @@ window.SONG_DATA.push(
   "artist": "吉岡亜衣加",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16378,7 +16378,7 @@ window.SONG_DATA.push(
   "artist": ".コアラモード.",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16386,7 +16386,7 @@ window.SONG_DATA.push(
   "artist": "Goose house",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16394,7 +16394,7 @@ window.SONG_DATA.push(
   "artist": "須田景凪 feat.flower",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16402,7 +16402,7 @@ window.SONG_DATA.push(
   "artist": "れるりりfeat.初音ミク&GUMI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16410,7 +16410,7 @@ window.SONG_DATA.push(
   "artist": "ワルキューレ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16418,7 +16418,7 @@ window.SONG_DATA.push(
   "artist": "UNISON SQUARE GARDEN",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16426,7 +16426,7 @@ window.SONG_DATA.push(
   "artist": "ワルキューレ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16434,7 +16434,7 @@ window.SONG_DATA.push(
   "artist": "sumika",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16442,7 +16442,7 @@ window.SONG_DATA.push(
   "artist": "星野源",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16450,7 +16450,7 @@ window.SONG_DATA.push(
   "artist": "星野源",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16458,7 +16458,7 @@ window.SONG_DATA.push(
   "artist": "星野源",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16466,7 +16466,7 @@ window.SONG_DATA.push(
   "artist": "mao",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16474,7 +16474,7 @@ window.SONG_DATA.push(
   "artist": "平井 堅",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16482,7 +16482,7 @@ window.SONG_DATA.push(
   "artist": "平井 堅",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16490,7 +16490,7 @@ window.SONG_DATA.push(
   "artist": "坂本九",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16498,7 +16498,7 @@ window.SONG_DATA.push(
   "artist": "牧野由依",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16506,7 +16506,7 @@ window.SONG_DATA.push(
   "artist": "牧野由依",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16514,7 +16514,7 @@ window.SONG_DATA.push(
   "artist": "茅原實里",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16522,7 +16522,7 @@ window.SONG_DATA.push(
   "artist": "ちゃんみな",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=25",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16530,7 +16530,7 @@ window.SONG_DATA.push(
   "artist": "ちゃんみな",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=26",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16538,7 +16538,7 @@ window.SONG_DATA.push(
   "artist": "倉木麻衣",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=27",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16546,7 +16546,7 @@ window.SONG_DATA.push(
   "artist": "花は咲くプロジェクト",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=28",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16554,7 +16554,7 @@ window.SONG_DATA.push(
   "artist": "ゴールデンボンバー",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=29",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16562,7 +16562,7 @@ window.SONG_DATA.push(
   "artist": "絢香",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=30",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16570,7 +16570,7 @@ window.SONG_DATA.push(
   "artist": "北島三郎",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=31",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16578,7 +16578,7 @@ window.SONG_DATA.push(
   "artist": "Goma",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=32",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16586,7 +16586,7 @@ window.SONG_DATA.push(
   "artist": "よしか⁂",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=33",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16594,7 +16594,7 @@ window.SONG_DATA.push(
   "artist": "一青窈",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16602,7 +16602,7 @@ window.SONG_DATA.push(
   "artist": "7Mermaid",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16610,7 +16610,7 @@ window.SONG_DATA.push(
   "artist": "中島みゆき",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16618,7 +16618,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16626,7 +16626,7 @@ window.SONG_DATA.push(
   "artist": "奥華子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16634,7 +16634,7 @@ window.SONG_DATA.push(
   "artist": "奥華子×96猫",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16642,7 +16642,7 @@ window.SONG_DATA.push(
   "artist": "doriko feat.初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16650,7 +16650,7 @@ window.SONG_DATA.push(
   "artist": "The Member of LSOT",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16658,7 +16658,7 @@ window.SONG_DATA.push(
   "artist": "小宮知子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16666,7 +16666,7 @@ window.SONG_DATA.push(
   "artist": "奥華子(2)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16674,7 +16674,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16682,7 +16682,7 @@ window.SONG_DATA.push(
   "artist": "諫山実生",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16690,7 +16690,7 @@ window.SONG_DATA.push(
   "artist": "すずきまゆみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16698,7 +16698,7 @@ window.SONG_DATA.push(
   "artist": "tuki.",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16706,7 +16706,7 @@ window.SONG_DATA.push(
   "artist": "DREAMS COME TRUE",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16714,7 +16714,7 @@ window.SONG_DATA.push(
   "artist": "優里",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16722,7 +16722,7 @@ window.SONG_DATA.push(
   "artist": "牧野由依",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16730,7 +16730,7 @@ window.SONG_DATA.push(
   "artist": "菅田将暉",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16738,7 +16738,7 @@ window.SONG_DATA.push(
   "artist": "秦基博",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16746,7 +16746,7 @@ window.SONG_DATA.push(
   "artist": "Kaco",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16754,7 +16754,7 @@ window.SONG_DATA.push(
   "artist": "絢香",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16762,7 +16762,7 @@ window.SONG_DATA.push(
   "artist": "安次嶺希和子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16770,7 +16770,7 @@ window.SONG_DATA.push(
   "artist": "KOKIA",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16778,7 +16778,7 @@ window.SONG_DATA.push(
   "artist": "ヒグチアイ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16786,7 +16786,7 @@ window.SONG_DATA.push(
   "artist": "本名陽子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=25",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16794,7 +16794,7 @@ window.SONG_DATA.push(
   "artist": "Uru",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=26",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16802,7 +16802,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=27",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16810,7 +16810,7 @@ window.SONG_DATA.push(
   "artist": "Janne Da Arc",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16818,7 +16818,7 @@ window.SONG_DATA.push(
   "artist": "高橋洋子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16826,7 +16826,7 @@ window.SONG_DATA.push(
   "artist": "DECO27 feat. 初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16834,7 +16834,7 @@ window.SONG_DATA.push(
   "artist": "きただにひろし",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16842,7 +16842,7 @@ window.SONG_DATA.push(
   "artist": "BOYSTYLE",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16850,7 +16850,7 @@ window.SONG_DATA.push(
   "artist": "きただにひろし",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16858,7 +16858,7 @@ window.SONG_DATA.push(
   "artist": "松田聖子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16866,7 +16866,7 @@ window.SONG_DATA.push(
   "artist": "久保田早紀",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16874,7 +16874,7 @@ window.SONG_DATA.push(
   "artist": "島谷ひとみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16882,7 +16882,7 @@ window.SONG_DATA.push(
   "artist": "島谷ひとみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16890,7 +16890,7 @@ window.SONG_DATA.push(
   "artist": "後ろから這いより隊G",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16898,7 +16898,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16906,7 +16906,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16914,7 +16914,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16922,7 +16922,7 @@ window.SONG_DATA.push(
   "artist": "SMAP",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16930,7 +16930,7 @@ window.SONG_DATA.push(
   "artist": "Ado with 初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16938,7 +16938,7 @@ window.SONG_DATA.push(
   "artist": "きくお",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16946,7 +16946,7 @@ window.SONG_DATA.push(
   "artist": "平野綾(涼宮ハルヒ)・茅原実里(長門有希)・後藤邑子(朝比奈みくる)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16954,7 +16954,7 @@ window.SONG_DATA.push(
   "artist": "米米CLUB",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16962,7 +16962,7 @@ window.SONG_DATA.push(
   "artist": "さくらももこ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16970,7 +16970,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16978,7 +16978,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16986,7 +16986,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -16994,7 +16994,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17002,7 +17002,7 @@ window.SONG_DATA.push(
   "artist": "光GENJI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=25",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17010,7 +17010,7 @@ window.SONG_DATA.push(
   "artist": "ZARD",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=26",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17018,7 +17018,7 @@ window.SONG_DATA.push(
   "artist": "平井 堅",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=27",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17026,7 +17026,7 @@ window.SONG_DATA.push(
   "artist": "ゆず",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=28",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17034,7 +17034,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=29",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17042,7 +17042,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=30",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17050,7 +17050,7 @@ window.SONG_DATA.push(
   "artist": "LiSA",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=31",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17058,7 +17058,7 @@ window.SONG_DATA.push(
   "artist": "MISIA",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=32",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17066,7 +17066,7 @@ window.SONG_DATA.push(
   "artist": "山口あかり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=33",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17322,7 +17322,7 @@ window.SONG_DATA.push(
   "artist": "きただにひろし",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17330,7 +17330,7 @@ window.SONG_DATA.push(
   "artist": "嵐",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17338,7 +17338,7 @@ window.SONG_DATA.push(
   "artist": "高橋洋子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17346,7 +17346,7 @@ window.SONG_DATA.push(
   "artist": "涼宮ハルヒ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17354,7 +17354,7 @@ window.SONG_DATA.push(
   "artist": "涼宮ハルヒ 長門有希 朝比奈みくる",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17362,7 +17362,7 @@ window.SONG_DATA.push(
   "artist": "長門有希",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17370,7 +17370,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17378,7 +17378,7 @@ window.SONG_DATA.push(
   "artist": "いきものがかり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17386,7 +17386,7 @@ window.SONG_DATA.push(
   "artist": "Hololive IDOL PROJECT",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17394,7 +17394,7 @@ window.SONG_DATA.push(
   "artist": "いきものがかり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17402,7 +17402,7 @@ window.SONG_DATA.push(
   "artist": "ワルキューレ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17410,7 +17410,7 @@ window.SONG_DATA.push(
   "artist": "ワルキューレ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17418,7 +17418,7 @@ window.SONG_DATA.push(
   "artist": "星野源",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17426,7 +17426,7 @@ window.SONG_DATA.push(
   "artist": "高橋洋子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17434,7 +17434,7 @@ window.SONG_DATA.push(
   "artist": "Samfree",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17442,7 +17442,7 @@ window.SONG_DATA.push(
   "artist": "samfree",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17450,7 +17450,7 @@ window.SONG_DATA.push(
   "artist": "井上あずみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17458,7 +17458,7 @@ window.SONG_DATA.push(
   "artist": "木村弓",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17466,7 +17466,7 @@ window.SONG_DATA.push(
   "artist": "アオイエマ。",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17474,7 +17474,7 @@ window.SONG_DATA.push(
   "artist": "諫山実生",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17482,7 +17482,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17490,7 +17490,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17498,7 +17498,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17506,7 +17506,7 @@ window.SONG_DATA.push(
   "artist": "Fourfolium",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17514,7 +17514,7 @@ window.SONG_DATA.push(
   "artist": "桃鈴ねね",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=25",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17522,7 +17522,7 @@ window.SONG_DATA.push(
   "artist": "北出菜奈",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=26",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17530,7 +17530,7 @@ window.SONG_DATA.push(
   "artist": "surface",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=27",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17538,7 +17538,7 @@ window.SONG_DATA.push(
   "artist": "JUNE",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=28",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17546,7 +17546,7 @@ window.SONG_DATA.push(
   "artist": "池田綾子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=29",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17554,7 +17554,7 @@ window.SONG_DATA.push(
   "artist": "池田綾子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=30",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17562,7 +17562,7 @@ window.SONG_DATA.push(
   "artist": "よしか⁂",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=31",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17570,7 +17570,7 @@ window.SONG_DATA.push(
   "artist": "Tuki.",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=32",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17578,7 +17578,7 @@ window.SONG_DATA.push(
   "artist": "Vaundy",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=33",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17586,7 +17586,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=34",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17594,7 +17594,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=35",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17602,7 +17602,7 @@ window.SONG_DATA.push(
   "artist": "優里",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=36",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17610,7 +17610,7 @@ window.SONG_DATA.push(
   "artist": "めいちゃん",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=37",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17618,7 +17618,7 @@ window.SONG_DATA.push(
   "artist": "シェシェ・ミミ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=38",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17626,7 +17626,7 @@ window.SONG_DATA.push(
   "artist": "ヒグチアイ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=39",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17634,7 +17634,7 @@ window.SONG_DATA.push(
   "artist": "伊織",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=40",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17642,7 +17642,7 @@ window.SONG_DATA.push(
   "artist": "倉木麻衣",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=41",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17650,7 +17650,7 @@ window.SONG_DATA.push(
   "artist": "菅田将暉",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=42",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17658,7 +17658,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=43",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17666,7 +17666,7 @@ window.SONG_DATA.push(
   "artist": "DECO27",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=44",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17674,7 +17674,7 @@ window.SONG_DATA.push(
   "artist": "よしか⁂",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=45",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17682,7 +17682,7 @@ window.SONG_DATA.push(
   "artist": "よしか⁂",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=46",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17690,7 +17690,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=47",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17698,7 +17698,7 @@ window.SONG_DATA.push(
   "artist": "B.B.クィーンズ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=48",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17706,7 +17706,7 @@ window.SONG_DATA.push(
   "artist": "めいちゃん",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=49",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17714,7 +17714,7 @@ window.SONG_DATA.push(
   "artist": "月島きらり starring 久住小春（モーニング娘。）",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17722,7 +17722,7 @@ window.SONG_DATA.push(
   "artist": "森高千里",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17730,7 +17730,7 @@ window.SONG_DATA.push(
   "artist": "林明日香",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17738,7 +17738,7 @@ window.SONG_DATA.push(
   "artist": "40㍍P feat. GUMI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17746,7 +17746,7 @@ window.SONG_DATA.push(
   "artist": "スタァライト九九組",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17754,7 +17754,7 @@ window.SONG_DATA.push(
   "artist": "ロードオブメジャー",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17762,7 +17762,7 @@ window.SONG_DATA.push(
   "artist": "レディ･バット(小林沙苗)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17770,7 +17770,7 @@ window.SONG_DATA.push(
   "artist": "Strawberry JAM",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17778,7 +17778,7 @@ window.SONG_DATA.push(
   "artist": "梅とら",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17786,7 +17786,7 @@ window.SONG_DATA.push(
   "artist": "Janne Da Arc",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17794,7 +17794,7 @@ window.SONG_DATA.push(
   "artist": "光GENJI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17802,7 +17802,7 @@ window.SONG_DATA.push(
   "artist": "有坂美香",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17810,7 +17810,7 @@ window.SONG_DATA.push(
   "artist": "AAA",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17818,7 +17818,7 @@ window.SONG_DATA.push(
   "artist": "Goma",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17826,7 +17826,7 @@ window.SONG_DATA.push(
   "artist": "松平健",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17834,7 +17834,7 @@ window.SONG_DATA.push(
   "artist": "流星P feat. 巡音ルカ × 初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17842,7 +17842,7 @@ window.SONG_DATA.push(
   "artist": "wotaku feat.初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17850,7 +17850,7 @@ window.SONG_DATA.push(
   "artist": "諫山実生",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17858,7 +17858,7 @@ window.SONG_DATA.push(
   "artist": "渡辺真知子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17866,7 +17866,7 @@ window.SONG_DATA.push(
   "artist": "柴矢裕美",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17874,7 +17874,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17882,7 +17882,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17890,7 +17890,7 @@ window.SONG_DATA.push(
   "artist": "水樹奈々×T.M.Revolution",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17898,7 +17898,7 @@ window.SONG_DATA.push(
   "artist": "ryo ; supercell",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17906,7 +17906,7 @@ window.SONG_DATA.push(
   "artist": "Mrs. GREEN APPLE",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=25",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17914,7 +17914,7 @@ window.SONG_DATA.push(
   "artist": "月島きらり starring 久住小春（モーニング娘。）(2)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17922,7 +17922,7 @@ window.SONG_DATA.push(
   "artist": "SURFACE",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17930,7 +17930,7 @@ window.SONG_DATA.push(
   "artist": "Vaundy",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17938,7 +17938,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17946,7 +17946,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17954,7 +17954,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17962,7 +17962,7 @@ window.SONG_DATA.push(
   "artist": "MAHO堂",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17970,7 +17970,7 @@ window.SONG_DATA.push(
   "artist": "後ろから這いより隊G",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17978,7 +17978,7 @@ window.SONG_DATA.push(
   "artist": "渡辺真知子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17986,7 +17986,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -17994,7 +17994,7 @@ window.SONG_DATA.push(
   "artist": "緑黄色社会",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18002,7 +18002,7 @@ window.SONG_DATA.push(
   "artist": "Mrs. GREEN APPLE",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18010,7 +18010,7 @@ window.SONG_DATA.push(
   "artist": "LiSA",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18018,7 +18018,7 @@ window.SONG_DATA.push(
   "artist": "THE★SCANTY",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18026,7 +18026,7 @@ window.SONG_DATA.push(
   "artist": "井上あずみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18034,7 +18034,7 @@ window.SONG_DATA.push(
   "artist": "ryo(supercell) feat.初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18042,7 +18042,7 @@ window.SONG_DATA.push(
   "artist": "まふまふ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18050,7 +18050,7 @@ window.SONG_DATA.push(
   "artist": "いきものがかり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18058,7 +18058,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18066,7 +18066,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブ宝鐘マリン",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18074,7 +18074,7 @@ window.SONG_DATA.push(
   "artist": "UNISON SQUARE GARDEN",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18082,7 +18082,7 @@ window.SONG_DATA.push(
   "artist": "嵐",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18090,7 +18090,7 @@ window.SONG_DATA.push(
   "artist": "米米CLUB",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18098,7 +18098,7 @@ window.SONG_DATA.push(
   "artist": "SunSet Swish",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18106,7 +18106,7 @@ window.SONG_DATA.push(
   "artist": "みきとP Feat.初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18114,7 +18114,7 @@ window.SONG_DATA.push(
   "artist": "ピノキオピーfeat.初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18122,7 +18122,7 @@ window.SONG_DATA.push(
   "artist": "三森鈴子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18130,7 +18130,7 @@ window.SONG_DATA.push(
   "artist": "ツミキ feat.KAFU",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18138,7 +18138,7 @@ window.SONG_DATA.push(
   "artist": "After the Rain（そらる×まふまふ）",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18146,7 +18146,7 @@ window.SONG_DATA.push(
   "artist": "HoneyWorks feat. Gero",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18154,7 +18154,7 @@ window.SONG_DATA.push(
   "artist": "ゆうゆ feat.初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18162,7 +18162,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18170,7 +18170,7 @@ window.SONG_DATA.push(
   "artist": "より子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18178,7 +18178,7 @@ window.SONG_DATA.push(
   "artist": "wacci",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18186,7 +18186,7 @@ window.SONG_DATA.push(
   "artist": "みきとP feat.GUMI・鏡音リン",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18194,7 +18194,7 @@ window.SONG_DATA.push(
   "artist": "タイナカサチ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18202,7 +18202,7 @@ window.SONG_DATA.push(
   "artist": "冨田悠斗 feat.初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18210,7 +18210,7 @@ window.SONG_DATA.push(
   "artist": "宮澤和史",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18218,7 +18218,7 @@ window.SONG_DATA.push(
   "artist": "HACHI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18226,7 +18226,7 @@ window.SONG_DATA.push(
   "artist": "Neru.feat.鏡音リン",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18234,7 +18234,7 @@ window.SONG_DATA.push(
   "artist": ".天月-あまつき",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18242,7 +18242,7 @@ window.SONG_DATA.push(
   "artist": "石川さゆり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18250,7 +18250,7 @@ window.SONG_DATA.push(
   "artist": "吉岡亜衣加",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18258,7 +18258,7 @@ window.SONG_DATA.push(
   "artist": "ハチ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18266,7 +18266,7 @@ window.SONG_DATA.push(
   "artist": "月島きらり starring 久住小春（モーニング娘。 ）",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18274,7 +18274,7 @@ window.SONG_DATA.push(
   "artist": "Vaundy",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18282,7 +18282,7 @@ window.SONG_DATA.push(
   "artist": "松本梨香",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18290,7 +18290,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18298,7 +18298,7 @@ window.SONG_DATA.push(
   "artist": "Uru",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18306,7 +18306,7 @@ window.SONG_DATA.push(
   "artist": "平野綾(涼宮ハルヒ)・茅原実里(長門有希)・後藤邑子(朝比奈みくる)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18314,7 +18314,7 @@ window.SONG_DATA.push(
   "artist": "光GENJI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18322,7 +18322,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブ夜空メル紫咲シオン癒月ちょこ潤羽るしあ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18330,7 +18330,7 @@ window.SONG_DATA.push(
   "artist": "傘村トータ feat. 可不",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18538,7 +18538,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18546,7 +18546,7 @@ window.SONG_DATA.push(
   "artist": "μ's",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18554,7 +18554,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18562,7 +18562,7 @@ window.SONG_DATA.push(
   "artist": "森高千里",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18570,7 +18570,7 @@ window.SONG_DATA.push(
   "artist": "涼宮ハルヒ（平野綾）",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18578,7 +18578,7 @@ window.SONG_DATA.push(
   "artist": "大塚愛",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18586,7 +18586,7 @@ window.SONG_DATA.push(
   "artist": "いきものがかり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18594,7 +18594,7 @@ window.SONG_DATA.push(
   "artist": "Goma",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18602,7 +18602,7 @@ window.SONG_DATA.push(
   "artist": "tuki.",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18610,7 +18610,7 @@ window.SONG_DATA.push(
   "artist": "Porno Graffitti",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18618,7 +18618,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18626,7 +18626,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18634,7 +18634,7 @@ window.SONG_DATA.push(
   "artist": "ClariS",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18642,7 +18642,7 @@ window.SONG_DATA.push(
   "artist": "のぼる↑ feat. 初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18650,7 +18650,7 @@ window.SONG_DATA.push(
   "artist": "後ろから這いより隊G",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18658,7 +18658,7 @@ window.SONG_DATA.push(
   "artist": "月島きらり starring 久住小春",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18666,7 +18666,7 @@ window.SONG_DATA.push(
   "artist": "40㍍ feat. GUMI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18674,7 +18674,7 @@ window.SONG_DATA.push(
   "artist": "GUMI(40㍍)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18682,7 +18682,7 @@ window.SONG_DATA.push(
   "artist": "40㍍P feat. 初音ミク×GUMI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18690,7 +18690,7 @@ window.SONG_DATA.push(
   "artist": "halyosy feat. 初音ミク・鏡音リン・鏡音レン・巡音ルカ・KAITO・MEIKO",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18698,7 +18698,7 @@ window.SONG_DATA.push(
   "artist": "みきとP feat. 初音ミクAppend",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18706,7 +18706,7 @@ window.SONG_DATA.push(
   "artist": "Nem feat. 初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18714,7 +18714,7 @@ window.SONG_DATA.push(
   "artist": "koyori電ポルP　feat.初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18722,7 +18722,7 @@ window.SONG_DATA.push(
   "artist": "ゆずひこ feat.初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18730,7 +18730,7 @@ window.SONG_DATA.push(
   "artist": "ひとしずくP feat. 初音ミク・鏡音リン・鏡音レン・巡音ルカ・KAITO・MEIKO・GUMI・神威がくぽ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18738,7 +18738,7 @@ window.SONG_DATA.push(
   "artist": "黒うさ  feat.初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18746,7 +18746,7 @@ window.SONG_DATA.push(
   "artist": "CHiCO with HoneyWorks",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18754,7 +18754,7 @@ window.SONG_DATA.push(
   "artist": "HoneyWorks",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18762,7 +18762,7 @@ window.SONG_DATA.push(
   "artist": "HoneyWorks feat. 成海聖奈（CV.：雨宮天）",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18770,7 +18770,7 @@ window.SONG_DATA.push(
   "artist": "BiSH",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18778,7 +18778,7 @@ window.SONG_DATA.push(
   "artist": "ワルキューレ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18786,7 +18786,7 @@ window.SONG_DATA.push(
   "artist": "坂本真綾",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18794,7 +18794,7 @@ window.SONG_DATA.push(
   "artist": "ワルキューレ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18802,7 +18802,7 @@ window.SONG_DATA.push(
   "artist": "ワルキューレ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18810,7 +18810,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18818,7 +18818,7 @@ window.SONG_DATA.push(
   "artist": "布施明",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18826,7 +18826,7 @@ window.SONG_DATA.push(
   "artist": "矢島美容室",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18834,7 +18834,7 @@ window.SONG_DATA.push(
   "artist": "FLOW",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18842,7 +18842,7 @@ window.SONG_DATA.push(
   "artist": "橋本由香利",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18850,7 +18850,7 @@ window.SONG_DATA.push(
   "artist": "FLOW",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=25",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18858,7 +18858,7 @@ window.SONG_DATA.push(
   "artist": "ORANGE RANGE",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=26",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18866,7 +18866,7 @@ window.SONG_DATA.push(
   "artist": "Aqua Timez",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=27",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18874,7 +18874,7 @@ window.SONG_DATA.push(
   "artist": "ALI PROJECT",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=28",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18882,7 +18882,7 @@ window.SONG_DATA.push(
   "artist": "Buzy",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=29",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -18890,7 +18890,7 @@ window.SONG_DATA.push(
   "artist": "Buzy",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=30",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19354,7 +19354,7 @@ window.SONG_DATA.push(
   "artist": "月島きらり starring 久住小春（モーニング娘。）(2)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19362,7 +19362,7 @@ window.SONG_DATA.push(
   "artist": "後ろから這いより隊G",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19370,7 +19370,7 @@ window.SONG_DATA.push(
   "artist": "HoneyWorks feat. 初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19378,7 +19378,7 @@ window.SONG_DATA.push(
   "artist": "大塚愛",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19386,7 +19386,7 @@ window.SONG_DATA.push(
   "artist": "いおり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19394,7 +19394,7 @@ window.SONG_DATA.push(
   "artist": "久保田早紀",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19402,7 +19402,7 @@ window.SONG_DATA.push(
   "artist": "石川さゆり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19410,7 +19410,7 @@ window.SONG_DATA.push(
   "artist": "雨宮天",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19418,7 +19418,7 @@ window.SONG_DATA.push(
   "artist": "tuki.",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19426,7 +19426,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19434,7 +19434,7 @@ window.SONG_DATA.push(
   "artist": "キタニタツヤ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19442,7 +19442,7 @@ window.SONG_DATA.push(
   "artist": "西沢さんP feat.GUMI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19450,7 +19450,7 @@ window.SONG_DATA.push(
   "artist": "Buzy",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19458,7 +19458,7 @@ window.SONG_DATA.push(
   "artist": "Tommy heavenly6",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19466,7 +19466,7 @@ window.SONG_DATA.push(
   "artist": "Goma",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19474,7 +19474,7 @@ window.SONG_DATA.push(
   "artist": "samfree feat.GUMI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19482,7 +19482,7 @@ window.SONG_DATA.push(
   "artist": "安野モヨコ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19490,7 +19490,7 @@ window.SONG_DATA.push(
   "artist": "みきとP feat.GUMI・鏡音リン",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19498,7 +19498,7 @@ window.SONG_DATA.push(
   "artist": "SURFACE",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19506,7 +19506,7 @@ window.SONG_DATA.push(
   "artist": "Uru",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19514,7 +19514,7 @@ window.SONG_DATA.push(
   "artist": "Keno",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19522,7 +19522,7 @@ window.SONG_DATA.push(
   "artist": "月島きらり starring  久住小春（モーニング娘。）",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19530,7 +19530,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19538,7 +19538,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19546,7 +19546,7 @@ window.SONG_DATA.push(
   "artist": "佐香智久",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19554,7 +19554,7 @@ window.SONG_DATA.push(
   "artist": "久保田早紀",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19562,7 +19562,7 @@ window.SONG_DATA.push(
   "artist": "mihimaru GT",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19570,7 +19570,7 @@ window.SONG_DATA.push(
   "artist": "Hearts Grow",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19578,7 +19578,7 @@ window.SONG_DATA.push(
   "artist": "ヒグチアイ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19586,7 +19586,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI(2)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19594,7 +19594,7 @@ window.SONG_DATA.push(
   "artist": "松田聖子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19602,7 +19602,7 @@ window.SONG_DATA.push(
   "artist": "布施明",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19610,7 +19610,7 @@ window.SONG_DATA.push(
   "artist": "高橋洋子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19618,7 +19618,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19626,7 +19626,7 @@ window.SONG_DATA.push(
   "artist": "藤田麻衣子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19634,7 +19634,7 @@ window.SONG_DATA.push(
   "artist": "- 島谷ひとみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19874,7 +19874,7 @@ window.SONG_DATA.push(
   "artist": "月島きらり  starring 久住小春（モーニング娘。）",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19882,7 +19882,7 @@ window.SONG_DATA.push(
   "artist": "須田景凪 feat.flower",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19890,7 +19890,7 @@ window.SONG_DATA.push(
   "artist": "Vaundy",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19898,7 +19898,7 @@ window.SONG_DATA.push(
   "artist": "DECO27 feat. 初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19906,7 +19906,7 @@ window.SONG_DATA.push(
   "artist": "倉木麻衣",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19914,7 +19914,7 @@ window.SONG_DATA.push(
   "artist": "いきものがかり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19922,7 +19922,7 @@ window.SONG_DATA.push(
   "artist": "GUMI(40㍍)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19930,7 +19930,7 @@ window.SONG_DATA.push(
   "artist": "川嶋あい",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19938,7 +19938,7 @@ window.SONG_DATA.push(
   "artist": "佐香智久",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19946,7 +19946,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19954,7 +19954,7 @@ window.SONG_DATA.push(
   "artist": "松田聖子(2)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19962,7 +19962,7 @@ window.SONG_DATA.push(
   "artist": "水曜日のカンパネラ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19970,7 +19970,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19978,7 +19978,7 @@ window.SONG_DATA.push(
   "artist": "40㍍P feat.初音ミク×GUMI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19986,7 +19986,7 @@ window.SONG_DATA.push(
   "artist": "みきとP Feat.初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -19994,7 +19994,7 @@ window.SONG_DATA.push(
   "artist": "月島きらり starring 久住小春（モーニング娘。）",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20002,7 +20002,7 @@ window.SONG_DATA.push(
   "artist": "HoneyWorks feat. 初音ミク(2)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20010,7 +20010,7 @@ window.SONG_DATA.push(
   "artist": "BOYSTYLE",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20018,7 +20018,7 @@ window.SONG_DATA.push(
   "artist": "みきとP feat.GUMI・鏡音リン",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20026,7 +20026,7 @@ window.SONG_DATA.push(
   "artist": "島谷ひとみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20034,7 +20034,7 @@ window.SONG_DATA.push(
   "artist": "M.S.J",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20042,7 +20042,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20050,7 +20050,7 @@ window.SONG_DATA.push(
   "artist": "μ's",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20058,7 +20058,7 @@ window.SONG_DATA.push(
   "artist": "森高千里",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20066,7 +20066,7 @@ window.SONG_DATA.push(
   "artist": "倉木麻衣",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20074,7 +20074,7 @@ window.SONG_DATA.push(
   "artist": "井上あずみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20082,7 +20082,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20090,7 +20090,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20098,7 +20098,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20106,7 +20106,7 @@ window.SONG_DATA.push(
   "artist": "夏川りみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20114,7 +20114,7 @@ window.SONG_DATA.push(
   "artist": "平井 堅",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20122,7 +20122,7 @@ window.SONG_DATA.push(
   "artist": "よしか⁂",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20130,7 +20130,7 @@ window.SONG_DATA.push(
   "artist": "Vaundy",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20138,7 +20138,7 @@ window.SONG_DATA.push(
   "artist": "tuki.",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20146,7 +20146,7 @@ window.SONG_DATA.push(
   "artist": "May'n · 菅野よう子 · hal",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20154,7 +20154,7 @@ window.SONG_DATA.push(
   "artist": "月島きらり starring 久住小春（モーニング娘。）",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20162,7 +20162,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20170,7 +20170,7 @@ window.SONG_DATA.push(
   "artist": "Ado with 初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20178,7 +20178,7 @@ window.SONG_DATA.push(
   "artist": "M.S.J",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20186,7 +20186,7 @@ window.SONG_DATA.push(
   "artist": "佐香智久",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20194,7 +20194,7 @@ window.SONG_DATA.push(
   "artist": "西沢さんP feat.GUMI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20202,7 +20202,7 @@ window.SONG_DATA.push(
   "artist": "40㍍ feat. GUMI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20210,7 +20210,7 @@ window.SONG_DATA.push(
   "artist": "40㍍P feat. 初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20218,7 +20218,7 @@ window.SONG_DATA.push(
   "artist": "GUMI(40㍍)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20226,7 +20226,7 @@ window.SONG_DATA.push(
   "artist": "赤髪 feat. グミ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20234,7 +20234,7 @@ window.SONG_DATA.push(
   "artist": "tuki.",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20242,7 +20242,7 @@ window.SONG_DATA.push(
   "artist": "きただにひろし",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20250,7 +20250,7 @@ window.SONG_DATA.push(
   "artist": "AAA",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20258,7 +20258,7 @@ window.SONG_DATA.push(
   "artist": "ryo(supercell) feat.初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20266,7 +20266,7 @@ window.SONG_DATA.push(
   "artist": "中村倫也×木下晴香",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20274,7 +20274,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20282,7 +20282,7 @@ window.SONG_DATA.push(
   "artist": "小此木麻里・畠中洋",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20290,7 +20290,7 @@ window.SONG_DATA.push(
   "artist": "美女と野獣",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20298,7 +20298,7 @@ window.SONG_DATA.push(
   "artist": "前尘往事如昔故",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20306,7 +20306,7 @@ window.SONG_DATA.push(
   "artist": "SURFACE",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/e?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20314,7 +20314,7 @@ window.SONG_DATA.push(
   "artist": "DECO27 feat. 初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20322,7 +20322,7 @@ window.SONG_DATA.push(
   "artist": "大塚愛",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20330,7 +20330,7 @@ window.SONG_DATA.push(
   "artist": "May'n 中島愛",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20338,7 +20338,7 @@ window.SONG_DATA.push(
   "artist": "ワルキューレ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20346,7 +20346,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブ紫咲シオン",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20354,7 +20354,7 @@ window.SONG_DATA.push(
   "artist": "After the Rain（そらる×まふまふ）",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20362,7 +20362,7 @@ window.SONG_DATA.push(
   "artist": "須田景凪 feat.flower",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20370,7 +20370,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブ星街すいせい",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20378,7 +20378,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブロボ子アキ・ローゼンタール百鬼あやめ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20386,7 +20386,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブアキ・ローゼンタール",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20394,7 +20394,7 @@ window.SONG_DATA.push(
   "artist": "石川さゆり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20402,7 +20402,7 @@ window.SONG_DATA.push(
   "artist": "M.S.J",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20410,7 +20410,7 @@ window.SONG_DATA.push(
   "artist": "伊集加代子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20418,7 +20418,7 @@ window.SONG_DATA.push(
   "artist": "mihimaru GT",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20426,7 +20426,7 @@ window.SONG_DATA.push(
   "artist": "MISIA",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20594,7 +20594,7 @@ window.SONG_DATA.push(
   "artist": "月島きらり starring 久住小春（  モーニング娘。）",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20602,7 +20602,7 @@ window.SONG_DATA.push(
   "artist": "大塚愛  (2)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20610,7 +20610,7 @@ window.SONG_DATA.push(
   "artist": "μ's",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20618,7 +20618,7 @@ window.SONG_DATA.push(
   "artist": "平野綾(涼宮ハルヒ)・茅原実里(長門有希)・後藤邑子(朝比奈みくる)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20626,7 +20626,7 @@ window.SONG_DATA.push(
   "artist": "森高千里",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20634,7 +20634,7 @@ window.SONG_DATA.push(
   "artist": "和田光司",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20642,7 +20642,7 @@ window.SONG_DATA.push(
   "artist": "いきものがかり  (2)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20650,7 +20650,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブ宝鐘マリン",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20658,7 +20658,7 @@ window.SONG_DATA.push(
   "artist": "いきものがかり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20666,7 +20666,7 @@ window.SONG_DATA.push(
   "artist": "samfree feat.GUMI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20674,7 +20674,7 @@ window.SONG_DATA.push(
   "artist": "林原めぐみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20682,7 +20682,7 @@ window.SONG_DATA.push(
   "artist": "Tommy heavenly6",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20690,7 +20690,7 @@ window.SONG_DATA.push(
   "artist": "女王蜂",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20698,7 +20698,7 @@ window.SONG_DATA.push(
   "artist": "きくお",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20706,7 +20706,7 @@ window.SONG_DATA.push(
   "artist": "川嶋あい",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20714,7 +20714,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20722,7 +20722,7 @@ window.SONG_DATA.push(
   "artist": "星村麻衣",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20730,7 +20730,7 @@ window.SONG_DATA.push(
   "artist": "久保田早紀",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20738,7 +20738,7 @@ window.SONG_DATA.push(
   "artist": "さユり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20746,7 +20746,7 @@ window.SONG_DATA.push(
   "artist": "AKINO",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20754,7 +20754,7 @@ window.SONG_DATA.push(
   "artist": "Pabo",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20762,7 +20762,7 @@ window.SONG_DATA.push(
   "artist": "水曜日のカンパネラ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20770,7 +20770,7 @@ window.SONG_DATA.push(
   "artist": "UNISON SQUARE GARDEN",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20778,7 +20778,7 @@ window.SONG_DATA.push(
   "artist": "大塚愛",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20786,7 +20786,7 @@ window.SONG_DATA.push(
   "artist": "MAHO堂",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20794,7 +20794,7 @@ window.SONG_DATA.push(
   "artist": "LiSA",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20802,7 +20802,7 @@ window.SONG_DATA.push(
   "artist": "SMAP",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20810,7 +20810,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20818,7 +20818,7 @@ window.SONG_DATA.push(
   "artist": "DECO27 feat. 初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20826,7 +20826,7 @@ window.SONG_DATA.push(
   "artist": "HoneyWorks",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20834,7 +20834,7 @@ window.SONG_DATA.push(
   "artist": "松田聖子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20842,7 +20842,7 @@ window.SONG_DATA.push(
   "artist": "西沢さんP feat.GUMI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20850,7 +20850,7 @@ window.SONG_DATA.push(
   "artist": "のぼる↑ feat. 初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20858,7 +20858,7 @@ window.SONG_DATA.push(
   "artist": "ワルキューレ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -20866,7 +20866,7 @@ window.SONG_DATA.push(
   "artist": "ワルキューレ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -21234,7 +21234,7 @@ window.SONG_DATA.push(
   "artist": "月島きらり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -21242,7 +21242,7 @@ window.SONG_DATA.push(
   "artist": "HoneyWorks feat. 初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -21250,7 +21250,7 @@ window.SONG_DATA.push(
   "artist": "μ's  (2)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -21258,7 +21258,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -21266,7 +21266,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -21274,7 +21274,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -21282,7 +21282,7 @@ window.SONG_DATA.push(
   "artist": "安野モヨコ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -21290,7 +21290,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -21298,7 +21298,7 @@ window.SONG_DATA.push(
   "artist": "緑黄色社会",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -21306,7 +21306,7 @@ window.SONG_DATA.push(
   "artist": "きただにひろし",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -21314,7 +21314,7 @@ window.SONG_DATA.push(
   "artist": "AAA",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -21322,7 +21322,7 @@ window.SONG_DATA.push(
   "artist": "AAA",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -21330,7 +21330,7 @@ window.SONG_DATA.push(
   "artist": "夏川りみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -21338,7 +21338,7 @@ window.SONG_DATA.push(
   "artist": "Mrs. GREEN APPLE",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -21346,7 +21346,7 @@ window.SONG_DATA.push(
   "artist": "Mrs. GREEN APPLE",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -21354,7 +21354,7 @@ window.SONG_DATA.push(
   "artist": "NEUTRINO",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -21362,7 +21362,7 @@ window.SONG_DATA.push(
   "artist": "Buzy",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -21370,7 +21370,7 @@ window.SONG_DATA.push(
   "artist": "I☆Ris  (2)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -21378,7 +21378,7 @@ window.SONG_DATA.push(
   "artist": "より子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -21386,7 +21386,7 @@ window.SONG_DATA.push(
   "artist": "妖精帝國",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -21394,7 +21394,7 @@ window.SONG_DATA.push(
   "artist": "ALI PROJECT",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -21402,7 +21402,7 @@ window.SONG_DATA.push(
   "artist": "ALI PROJECT",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -21410,7 +21410,7 @@ window.SONG_DATA.push(
   "artist": "舞祭組",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -21418,7 +21418,7 @@ window.SONG_DATA.push(
   "artist": "矢島美容室",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -21426,7 +21426,7 @@ window.SONG_DATA.push(
   "artist": "Pabo",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=25",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -21434,7 +21434,7 @@ window.SONG_DATA.push(
   "artist": "Aqua Timez",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=26",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -21442,7 +21442,7 @@ window.SONG_DATA.push(
   "artist": "Ado with 初音ミク",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=27",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -21450,7 +21450,7 @@ window.SONG_DATA.push(
   "artist": "MISIA",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=28",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -21458,7 +21458,7 @@ window.SONG_DATA.push(
   "artist": "エリザベート",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=29",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -21466,7 +21466,7 @@ window.SONG_DATA.push(
   "artist": "Elfen Lied",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=30",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -21474,7 +21474,7 @@ window.SONG_DATA.push(
   "artist": "安次嶺希和子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=31",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -21482,7 +21482,7 @@ window.SONG_DATA.push(
   "artist": "まふまふ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=32",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -21490,7 +21490,7 @@ window.SONG_DATA.push(
   "artist": "164 feat.GUMI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=33",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23058,7 +23058,7 @@ window.SONG_DATA.push(
   "artist": "岡本真夜",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23066,7 +23066,7 @@ window.SONG_DATA.push(
   "artist": "UNISON SQUARE GARDEN",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23074,7 +23074,7 @@ window.SONG_DATA.push(
   "artist": "Perfume",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23082,7 +23082,7 @@ window.SONG_DATA.push(
   "artist": "米米CLUB",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23090,7 +23090,7 @@ window.SONG_DATA.push(
   "artist": "星野源",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23098,7 +23098,7 @@ window.SONG_DATA.push(
   "artist": "ClariS",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23106,7 +23106,7 @@ window.SONG_DATA.push(
   "artist": "BOYSTYLE",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23114,7 +23114,7 @@ window.SONG_DATA.push(
   "artist": "角田信明&いはたじゅり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23122,7 +23122,7 @@ window.SONG_DATA.push(
   "artist": "広瀬香美",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23130,7 +23130,7 @@ window.SONG_DATA.push(
   "artist": "Buzy",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23138,7 +23138,7 @@ window.SONG_DATA.push(
   "artist": "いおり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23146,7 +23146,7 @@ window.SONG_DATA.push(
   "artist": "KANA-BOON",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23154,7 +23154,7 @@ window.SONG_DATA.push(
   "artist": "ワルキューレ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23162,7 +23162,7 @@ window.SONG_DATA.push(
   "artist": "ワルキューレ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23170,7 +23170,7 @@ window.SONG_DATA.push(
   "artist": "ワルキューレ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23178,7 +23178,7 @@ window.SONG_DATA.push(
   "artist": "坂本真綾",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23186,7 +23186,7 @@ window.SONG_DATA.push(
   "artist": "藍井エイル",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23194,7 +23194,7 @@ window.SONG_DATA.push(
   "artist": "月島きらり starring 久住小春（モーニング娘。）[2025-12-24]",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23202,7 +23202,7 @@ window.SONG_DATA.push(
   "artist": "岡本真夜",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23210,7 +23210,7 @@ window.SONG_DATA.push(
   "artist": "松本梨香",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23218,7 +23218,7 @@ window.SONG_DATA.push(
   "artist": "角田信明&いはたじゅり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23226,7 +23226,7 @@ window.SONG_DATA.push(
   "artist": "平野綾(涼宮ハルヒ)・茅原実里(長門有希)・後藤邑子(朝比奈みくる)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23234,7 +23234,7 @@ window.SONG_DATA.push(
   "artist": "Mayumi Gojo",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23242,7 +23242,7 @@ window.SONG_DATA.push(
   "artist": "MAHO堂",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23250,7 +23250,7 @@ window.SONG_DATA.push(
   "artist": "μ's",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23258,7 +23258,7 @@ window.SONG_DATA.push(
   "artist": "UNISON SQUARE GARDEN",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23266,7 +23266,7 @@ window.SONG_DATA.push(
   "artist": "嵐",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23274,7 +23274,7 @@ window.SONG_DATA.push(
   "artist": "After the Rain（そらる×まふまふ）",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23282,7 +23282,7 @@ window.SONG_DATA.push(
   "artist": "M.S.J",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23290,7 +23290,7 @@ window.SONG_DATA.push(
   "artist": "さくらももこ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23298,7 +23298,7 @@ window.SONG_DATA.push(
   "artist": "小野正利",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23306,7 +23306,7 @@ window.SONG_DATA.push(
   "artist": "石川さゆり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23314,7 +23314,7 @@ window.SONG_DATA.push(
   "artist": "BOYSTYLE",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23322,7 +23322,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23330,7 +23330,7 @@ window.SONG_DATA.push(
   "artist": "μ's",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23338,7 +23338,7 @@ window.SONG_DATA.push(
   "artist": "渡り廊下走り隊",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23346,7 +23346,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23354,7 +23354,7 @@ window.SONG_DATA.push(
   "artist": "一ノ瀬 トキヤ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23362,7 +23362,7 @@ window.SONG_DATA.push(
   "artist": "倉木麻衣",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23370,7 +23370,7 @@ window.SONG_DATA.push(
   "artist": "広瀬香美",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23378,7 +23378,7 @@ window.SONG_DATA.push(
   "artist": "日向めぐみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23386,7 +23386,7 @@ window.SONG_DATA.push(
   "artist": "安野モヨコ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=25",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23394,7 +23394,7 @@ window.SONG_DATA.push(
   "artist": "千石撫子(花澤香菜)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=26",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23402,7 +23402,7 @@ window.SONG_DATA.push(
   "artist": "Perfume",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=27",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23410,7 +23410,7 @@ window.SONG_DATA.push(
   "artist": "DALI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=28",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23418,7 +23418,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブロボ子アキ・ローゼンタール百鬼あやめ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=29",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23426,7 +23426,7 @@ window.SONG_DATA.push(
   "artist": "倖田來未",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=30",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23434,7 +23434,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブアキ・ローゼンタール",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=31",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23442,7 +23442,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=32",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23450,7 +23450,7 @@ window.SONG_DATA.push(
   "artist": "Porno Graffitti",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=33",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23458,7 +23458,7 @@ window.SONG_DATA.push(
   "artist": "島谷ひとみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=34",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23466,7 +23466,7 @@ window.SONG_DATA.push(
   "artist": "林原めぐみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=35",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23474,7 +23474,7 @@ window.SONG_DATA.push(
   "artist": "夏川りみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=36",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23482,7 +23482,7 @@ window.SONG_DATA.push(
   "artist": "A応P",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=37",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23490,7 +23490,7 @@ window.SONG_DATA.push(
   "artist": "川嶋あい",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=38",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23498,7 +23498,7 @@ window.SONG_DATA.push(
   "artist": "久保田早紀",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=39",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23506,7 +23506,7 @@ window.SONG_DATA.push(
   "artist": "森高千里",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=40",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23514,7 +23514,7 @@ window.SONG_DATA.push(
   "artist": "AliA",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=41",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23522,7 +23522,7 @@ window.SONG_DATA.push(
   "artist": "月島きらり starring 久住小春（モーニング娘。）[2025-12-31] [sW5eB8cXoSM].mp4_V1-0001",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23530,7 +23530,7 @@ window.SONG_DATA.push(
   "artist": "松本梨香[2025-12-31] [sW5eB8cXoSM].mp4_V1-0002",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23538,7 +23538,7 @@ window.SONG_DATA.push(
   "artist": "後ろから這いより隊G[2025-12-31] [sW5eB8cXoSM].mp4_V1-0003",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23546,7 +23546,7 @@ window.SONG_DATA.push(
   "artist": "松平健[2025-12-31] [sW5eB8cXoSM].mp4_V1-0004",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23554,7 +23554,7 @@ window.SONG_DATA.push(
   "artist": "よしか⁂[2025-12-31] [sW5eB8cXoSM].mp4_V1-0005",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23562,7 +23562,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris[2025-12-31] [sW5eB8cXoSM].mp4_V1-0006",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23570,7 +23570,7 @@ window.SONG_DATA.push(
   "artist": "広瀬香美[2025-12-31] [sW5eB8cXoSM].mp4_V1-0007",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23578,7 +23578,7 @@ window.SONG_DATA.push(
   "artist": "FLOW[2025-12-31] [sW5eB8cXoSM].mp4_V1-0008",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23586,7 +23586,7 @@ window.SONG_DATA.push(
   "artist": "ZARD[2025-12-31] [sW5eB8cXoSM].mp4_V1-0009",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23594,7 +23594,7 @@ window.SONG_DATA.push(
   "artist": "月島きらり starring 久住小春",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23602,7 +23602,7 @@ window.SONG_DATA.push(
   "artist": "後ろから這いより隊G",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23610,7 +23610,7 @@ window.SONG_DATA.push(
   "artist": "Goma",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23618,7 +23618,7 @@ window.SONG_DATA.push(
   "artist": "さくらももこ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23626,7 +23626,7 @@ window.SONG_DATA.push(
   "artist": "平野綾・茅原実里・後藤邑子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23634,7 +23634,7 @@ window.SONG_DATA.push(
   "artist": "つじあやの",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23642,7 +23642,7 @@ window.SONG_DATA.push(
   "artist": "いきものがかり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23650,7 +23650,7 @@ window.SONG_DATA.push(
   "artist": "渡り廊下走り隊",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23658,7 +23658,7 @@ window.SONG_DATA.push(
   "artist": "島谷ひとみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23666,7 +23666,7 @@ window.SONG_DATA.push(
   "artist": "さユり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23674,7 +23674,7 @@ window.SONG_DATA.push(
   "artist": "松本梨香",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23682,7 +23682,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23690,7 +23690,7 @@ window.SONG_DATA.push(
   "artist": "samfree feat.GUMI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23698,7 +23698,7 @@ window.SONG_DATA.push(
   "artist": "千石撫子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23706,7 +23706,7 @@ window.SONG_DATA.push(
   "artist": "松田聖子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23714,7 +23714,7 @@ window.SONG_DATA.push(
   "artist": "松田聖子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23722,7 +23722,7 @@ window.SONG_DATA.push(
   "artist": "島谷ひとみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23730,7 +23730,7 @@ window.SONG_DATA.push(
   "artist": "倖田來未",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23738,7 +23738,7 @@ window.SONG_DATA.push(
   "artist": "ヒグチアイ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23746,7 +23746,7 @@ window.SONG_DATA.push(
   "artist": "Mrs. GREEN APPLE",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23754,7 +23754,7 @@ window.SONG_DATA.push(
   "artist": "広瀬香美",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23762,7 +23762,7 @@ window.SONG_DATA.push(
   "artist": "LiSA",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23770,7 +23770,7 @@ window.SONG_DATA.push(
   "artist": "ホロライブ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23778,7 +23778,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23786,7 +23786,7 @@ window.SONG_DATA.push(
   "artist": "I☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=25",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23794,7 +23794,7 @@ window.SONG_DATA.push(
   "artist": "石川さゆり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=26",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23802,7 +23802,7 @@ window.SONG_DATA.push(
   "artist": "月島きらり starring 久住小春(2)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23810,7 +23810,7 @@ window.SONG_DATA.push(
   "artist": "MAHO堂",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23818,7 +23818,7 @@ window.SONG_DATA.push(
   "artist": "Mayumi Gojo",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23826,7 +23826,7 @@ window.SONG_DATA.push(
   "artist": "スピッツ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23834,7 +23834,7 @@ window.SONG_DATA.push(
   "artist": "DALI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23842,7 +23842,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23850,7 +23850,7 @@ window.SONG_DATA.push(
   "artist": "雨宮天",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23858,7 +23858,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23866,7 +23866,7 @@ window.SONG_DATA.push(
   "artist": "ChouCho",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23874,7 +23874,7 @@ window.SONG_DATA.push(
   "artist": "かいりきベアfeat.flower",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23882,7 +23882,7 @@ window.SONG_DATA.push(
   "artist": "GUMI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23890,7 +23890,7 @@ window.SONG_DATA.push(
   "artist": "40㍍ feat. GUMI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23898,7 +23898,7 @@ window.SONG_DATA.push(
   "artist": "緑黄色社会",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23906,7 +23906,7 @@ window.SONG_DATA.push(
   "artist": "アオイエマ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23914,7 +23914,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23922,7 +23922,7 @@ window.SONG_DATA.push(
   "artist": "川田まみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23930,7 +23930,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23938,7 +23938,7 @@ window.SONG_DATA.push(
   "artist": "じん feat.IA",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23946,7 +23946,7 @@ window.SONG_DATA.push(
   "artist": "Keno",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/j?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23954,7 +23954,7 @@ window.SONG_DATA.push(
   "artist": "月島きらり starring 久住小春",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23962,7 +23962,7 @@ window.SONG_DATA.push(
   "artist": "松本梨香",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23970,7 +23970,7 @@ window.SONG_DATA.push(
   "artist": "岡本真夜",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23978,7 +23978,7 @@ window.SONG_DATA.push(
   "artist": "samfree feat. 巡音ルカ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23986,7 +23986,7 @@ window.SONG_DATA.push(
   "artist": "ZARD",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -23994,7 +23994,7 @@ window.SONG_DATA.push(
   "artist": "星野源",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24002,7 +24002,7 @@ window.SONG_DATA.push(
   "artist": "星野源",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24010,7 +24010,7 @@ window.SONG_DATA.push(
   "artist": "Perfume",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24018,7 +24018,7 @@ window.SONG_DATA.push(
   "artist": "YUI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24026,7 +24026,7 @@ window.SONG_DATA.push(
   "artist": "THE★SCANTY",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24034,7 +24034,7 @@ window.SONG_DATA.push(
   "artist": "川嶋あい",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24042,7 +24042,7 @@ window.SONG_DATA.push(
   "artist": "夏川りみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24050,7 +24050,7 @@ window.SONG_DATA.push(
   "artist": "角田信明&いはたじゅり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24058,7 +24058,7 @@ window.SONG_DATA.push(
   "artist": "ClariS",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24066,7 +24066,7 @@ window.SONG_DATA.push(
   "artist": "May'n 中島愛",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24074,7 +24074,7 @@ window.SONG_DATA.push(
   "artist": "ルイズ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24082,7 +24082,7 @@ window.SONG_DATA.push(
   "artist": "supercell",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24090,7 +24090,7 @@ window.SONG_DATA.push(
   "artist": "Buzy",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24098,7 +24098,7 @@ window.SONG_DATA.push(
   "artist": "浜崎あゆみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24106,7 +24106,7 @@ window.SONG_DATA.push(
   "artist": "access",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24114,7 +24114,7 @@ window.SONG_DATA.push(
   "artist": "CHERRYBLOSSOM",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24122,7 +24122,7 @@ window.SONG_DATA.push(
   "artist": "六道骸",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24130,7 +24130,7 @@ window.SONG_DATA.push(
   "artist": "小此木麻里・畠中洋",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24138,7 +24138,7 @@ window.SONG_DATA.push(
   "artist": "中村倫也×木下晴香",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24146,7 +24146,7 @@ window.SONG_DATA.push(
   "artist": "神田沙也加、津田英佑",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=25",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24154,7 +24154,7 @@ window.SONG_DATA.push(
   "artist": "美女と野獣",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=26",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24162,7 +24162,7 @@ window.SONG_DATA.push(
   "artist": "すずきまゆみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=27",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24170,7 +24170,7 @@ window.SONG_DATA.push(
   "artist": "アナ、エルサ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=28",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24314,7 +24314,7 @@ window.SONG_DATA.push(
   "artist": "月島きらり starring 久住小春『モーニング娘。』[2026-01-17]",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24322,7 +24322,7 @@ window.SONG_DATA.push(
   "artist": "After the Rain『そらる×まふまふ』",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24330,7 +24330,7 @@ window.SONG_DATA.push(
   "artist": "DALI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24338,7 +24338,7 @@ window.SONG_DATA.push(
   "artist": "MAHO堂",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24346,7 +24346,7 @@ window.SONG_DATA.push(
   "artist": "Mayumi Gojo",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24354,7 +24354,7 @@ window.SONG_DATA.push(
   "artist": "つじあやの(2)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24362,7 +24362,7 @@ window.SONG_DATA.push(
   "artist": "米米CLUB",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24370,7 +24370,7 @@ window.SONG_DATA.push(
   "artist": "平野綾『涼宮ハルヒ』・茅原実里『長門有希』・後藤邑子『朝比奈みくる』",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24378,7 +24378,7 @@ window.SONG_DATA.push(
   "artist": "日向めぐみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24386,7 +24386,7 @@ window.SONG_DATA.push(
   "artist": "UNISON SQUARE GARDEN",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24394,7 +24394,7 @@ window.SONG_DATA.push(
   "artist": "さくらももこ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24402,7 +24402,7 @@ window.SONG_DATA.push(
   "artist": "林原めぐみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24410,7 +24410,7 @@ window.SONG_DATA.push(
   "artist": "May'n",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24418,7 +24418,7 @@ window.SONG_DATA.push(
   "artist": "中島みゆき",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/o?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24658,7 +24658,7 @@ window.SONG_DATA.push(
   "artist": "後ろから這いより隊G",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24666,7 +24666,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24674,7 +24674,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24682,7 +24682,7 @@ window.SONG_DATA.push(
   "artist": "大塚愛",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24690,7 +24690,7 @@ window.SONG_DATA.push(
   "artist": "広瀬香美",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24698,7 +24698,7 @@ window.SONG_DATA.push(
   "artist": "AKINO",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24706,7 +24706,7 @@ window.SONG_DATA.push(
   "artist": "石川さゆり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24714,7 +24714,7 @@ window.SONG_DATA.push(
   "artist": "松平健",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24722,7 +24722,7 @@ window.SONG_DATA.push(
   "artist": "IL DIVO",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24730,7 +24730,7 @@ window.SONG_DATA.push(
   "artist": "samfree feat. 巡音ルカ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24738,7 +24738,7 @@ window.SONG_DATA.push(
   "artist": "samfree feat.GUMI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24746,7 +24746,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24754,7 +24754,7 @@ window.SONG_DATA.push(
   "artist": "SMAP",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24762,7 +24762,7 @@ window.SONG_DATA.push(
   "artist": "Pabo",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24770,7 +24770,7 @@ window.SONG_DATA.push(
   "artist": "光GENJI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -24778,7 +24778,7 @@ window.SONG_DATA.push(
   "artist": "BiSH",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/b?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25546,7 +25546,7 @@ window.SONG_DATA.push(
   "artist": "さくらももこ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=1",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25554,7 +25554,7 @@ window.SONG_DATA.push(
   "artist": "千石撫子(花澤香菜)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=2",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25562,7 +25562,7 @@ window.SONG_DATA.push(
   "artist": "和田光司",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=3",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25570,7 +25570,7 @@ window.SONG_DATA.push(
   "artist": "月島きらり starring 久住小春(モーニング娘。)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=4",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25578,7 +25578,7 @@ window.SONG_DATA.push(
   "artist": "きただにひろし",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=5",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25586,7 +25586,7 @@ window.SONG_DATA.push(
   "artist": "Porno Graffitti",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=6",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25594,7 +25594,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris(2)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=7",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25602,7 +25602,7 @@ window.SONG_DATA.push(
   "artist": "ゆず",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=8",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25610,7 +25610,7 @@ window.SONG_DATA.push(
   "artist": "島谷ひとみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=9",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25618,7 +25618,7 @@ window.SONG_DATA.push(
   "artist": "mihimaru GT",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=10",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25626,7 +25626,7 @@ window.SONG_DATA.push(
   "artist": "つじあやの",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=11",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25634,7 +25634,7 @@ window.SONG_DATA.push(
   "artist": "May'n",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=12",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25642,7 +25642,7 @@ window.SONG_DATA.push(
   "artist": "FLOW",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=13",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25650,7 +25650,7 @@ window.SONG_DATA.push(
   "artist": "＝LOVE(イコールラブ)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=14",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25658,7 +25658,7 @@ window.SONG_DATA.push(
   "artist": "後ろから這いより隊G",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=15",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25666,7 +25666,7 @@ window.SONG_DATA.push(
   "artist": "Mayumi Gojo",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=16",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25674,7 +25674,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師, 宇多田ヒカル",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=17",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25682,7 +25682,7 @@ window.SONG_DATA.push(
   "artist": "七海るちあ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=18",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25690,7 +25690,7 @@ window.SONG_DATA.push(
   "artist": "神戸みゆき",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=19",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25698,7 +25698,7 @@ window.SONG_DATA.push(
   "artist": "土屋美紀、下屋則子(シェシェ、ミミ)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=20",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25706,7 +25706,7 @@ window.SONG_DATA.push(
   "artist": "七海るちあ(CV. 中田あすみ)寶生波音(CV. 寺門仁美)洞院リナ(CV. 淺野まゆみ)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=21",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25714,7 +25714,7 @@ window.SONG_DATA.push(
   "artist": "七海るちあ(中田あすみ)・宝生波音(寺門仁美)・洞院リナ(浅野まゆみ)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=22",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25722,7 +25722,7 @@ window.SONG_DATA.push(
   "artist": "宮澤和史",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=23",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25730,7 +25730,7 @@ window.SONG_DATA.push(
   "artist": "林明日香",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=24",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25738,7 +25738,7 @@ window.SONG_DATA.push(
   "artist": "池田綾子",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=25",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25746,7 +25746,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=26",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25754,7 +25754,7 @@ window.SONG_DATA.push(
   "artist": "samfree feat.GUMI",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=27",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25762,7 +25762,7 @@ window.SONG_DATA.push(
   "artist": "松平健",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=28",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25770,7 +25770,7 @@ window.SONG_DATA.push(
   "artist": "広瀬香美",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=29",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25778,7 +25778,7 @@ window.SONG_DATA.push(
   "artist": "東山奈央",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=30",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25786,7 +25786,7 @@ window.SONG_DATA.push(
   "artist": "Perfume",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=31",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25794,7 +25794,7 @@ window.SONG_DATA.push(
   "artist": "IL DIVO",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=32",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25802,7 +25802,7 @@ window.SONG_DATA.push(
   "artist": "絢香",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=33",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25810,7 +25810,7 @@ window.SONG_DATA.push(
   "artist": "高鈴",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=34",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25818,7 +25818,7 @@ window.SONG_DATA.push(
   "artist": "島谷ひとみ",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=35",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25826,7 +25826,7 @@ window.SONG_DATA.push(
   "artist": "緑黄色社会",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=36",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25834,7 +25834,7 @@ window.SONG_DATA.push(
   "artist": "Goma",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=37",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25842,7 +25842,7 @@ window.SONG_DATA.push(
   "artist": "i☆Ris",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=38",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25850,7 +25850,7 @@ window.SONG_DATA.push(
   "artist": "いきものがかり",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=39",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25858,7 +25858,7 @@ window.SONG_DATA.push(
   "artist": "坂本真綾",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=40",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25866,7 +25866,7 @@ window.SONG_DATA.push(
   "artist": "ALI PROJECT",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=41",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25874,7 +25874,7 @@ window.SONG_DATA.push(
   "artist": "Vaundy",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=42",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25882,7 +25882,7 @@ window.SONG_DATA.push(
   "artist": "AliA",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=43",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25890,7 +25890,7 @@ window.SONG_DATA.push(
   "artist": "Mrs. GREEN APPLE",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=44",
+  "link": null,
   "source": "yoshika.js"
 },
     {
@@ -25898,7 +25898,7 @@ window.SONG_DATA.push(
   "artist": "＝LOVE(イコールラブ)",
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/c?p=45",
+  "link": null,
   "source": "yoshika.js"
 }
 );
