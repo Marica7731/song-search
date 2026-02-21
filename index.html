@@ -231,19 +231,21 @@
             gap: 22px; /* 歌名和歌手拉大间距 */
             margin-bottom: 8px;
             flex-wrap: wrap;
-            position: relative;
         }
-        /* 歌名容器：用于放置右上角复制图标 */
-        .song-title-wrapper {
+        /* 通用wrapper：用于放置右上角复制图标 */
+        .copy-wrapper {
             position: relative;
             display: inline-block;
+        }
+        /* 歌名/歌手/合集 文本：给复制图标留右侧空间 */
+        .song-title, .song-artist-inline, .collection-text {
+            padding-right: 20px;
         }
         .song-title { 
             font-weight: 700; 
             font-size: 17px; 
             color: #2c3e50; 
             line-height: 1.4;
-            padding-right: 20px; /* 给复制图标留空间 */
         }
         /* 歌手小标签：小、浅 */
         .artist-tag {
@@ -260,10 +262,16 @@
             color: #6c757d;
             font-weight: 400;
             white-space: nowrap;
-            display: flex;
+            display: inline-flex;
             align-items: center;
         }
-        /* 复制小图标：右上角、缩小、浅色、不占位 */
+        /* 合集文本样式 */
+        .collection-text {
+            font-size: 14px;
+            color: #6c757d;
+            line-height: 1.5;
+        }
+        /* 统一的复制小图标：右上角、缩小、浅色、不占位 */
         .copy-btn {
             position: absolute;
             top: 0;
@@ -276,10 +284,18 @@
             cursor: pointer;
             transition: all 0.2s ease;
             line-height: 1;
+            z-index: 1;
         }
         .copy-btn:hover {
             color: #00a1d6;
             transform: scale(1.2);
+        }
+        /* 直达B站按钮的复制图标：调整位置适配按钮 */
+        .link-copy-btn {
+            top: 50%;
+            right: 8px;
+            transform: translateY(-50%);
+            font-size: 10px;
         }
         .song-meta { 
             font-size: 14px; 
@@ -296,13 +312,16 @@
             margin-top: 6px;
             font-weight: 500;
         }
-        /* 右侧按钮：仅保留直达B站，移除BBDOWN */
+        /* 右侧按钮：仅保留直达B站 */
         .song-actions {
             display: flex;
             flex-direction: column;
             gap: 8px;
             align-items: stretch;
             min-width: 90px;
+        }
+        .song-link {
+            position: relative; /* 为B站链接复制图标定位 */
         }
         .song-link a { 
             padding: 8px 0;
@@ -318,6 +337,7 @@
             box-shadow: 0 2px 8px rgba(0, 161, 214, 0.25);
             transition: all 0.3s ease;
             display: block;
+            padding-right: 25px; /* 给复制图标留空间 */
         }
         .song-link a:hover { 
             transform: translateY(-1px);
@@ -646,7 +666,7 @@
             statsMsg.textContent = `总歌曲数：${originalData.length} | 筛选后：${filteredBySource.length} | 搜索结果：${filteredBySearch.length}`;
         }
 
-        // 修复布局：无错位版
+        // 完整带所有复制按钮的渲染函数
         function renderSongList(data) {
             const songListEl = document.getElementById('song-list');
             songListEl.innerHTML = '';
@@ -664,31 +684,47 @@
                     const sourceAlias = FILE_TO_ALIAS[sourceBase] || item.source || '未知';
                     const isLinkValid = item.link && /BV\w+/.test(item.link);
                     
-                    // 歌手左侧加小tag
+                    // 歌名+复制按钮
+                    const titleHtml = `<div class="copy-wrapper">
+                        <div class="song-title">${item.title || '未知歌曲'}</div>
+                        <button class="copy-btn" data-type="title">📋</button>
+                    </div>`;
+                    
+                    // 歌手+复制按钮
                     const artistHtml = item.artist 
-                        ? `<span class="song-artist-inline">
-                            <span class="artist-tag">歌手</span>${item.artist}
-                           </span>` 
+                        ? `<div class="copy-wrapper">
+                            <span class="song-artist-inline">
+                                <span class="artist-tag">歌手</span>${item.artist}
+                            </span>
+                            <button class="copy-btn" data-type="artist">📋</button>
+                          </div>` 
                         : '';
 
-                    // 右侧仅保留直达B站
+                    // 合集+复制按钮
+                    const collectionHtml = `<div class="copy-wrapper">
+                        <span class="collection-text">合集：${item.collection || '未知'}</span>
+                        <button class="copy-btn" data-type="collection">📋</button>
+                    </div>`;
+
+                    // 直达B站+复制链接按钮
                     const linkHtml = isLinkValid 
-                        ? `<div class="song-link"><a href="${item.link}" target="_blank">直达B站</a></div>` 
+                        ? `<div class="song-link">
+                            <a href="${item.link}" target="_blank">直达B站</a>
+                            <button class="copy-btn link-copy-btn" data-type="link">📋</button>
+                          </div>` 
                         : '';
 
+                    // 组装li元素
                     const li = document.createElement('li');
                     li.className = 'song-item';
                     li.innerHTML = `
                         <div class="song-info">
                             <div class="song-title-row">
-                                <div class="song-title-wrapper">
-                                    <div class="song-title">${item.title || '未知歌曲'}</div>
-                                    <button class="copy-btn" data-type="title">📋</button>
-                                </div>
+                                ${titleHtml}
                                 ${artistHtml}
                             </div>
                             <div class="song-meta">
-                                <span>合集：${item.collection || '未知'}</span>
+                                ${collectionHtml}
                             </div>
                             <div class="song-source">来源：${sourceAlias}</div>
                         </div>
@@ -697,10 +733,29 @@
                         </div>
                     `;
                     
-                    // 绑定复制
-                    const copyBtn = li.querySelector('.copy-btn');
-                    if (copyBtn) {
-                        copyBtn.onclick = () => copyToClipboard(item.title);
+                    // 绑定所有复制事件
+                    // 复制歌名
+                    const titleCopyBtn = li.querySelector('[data-type="title"]');
+                    if (titleCopyBtn) {
+                        titleCopyBtn.onclick = () => copyToClipboard(item.title || '未知歌曲');
+                    }
+                    
+                    // 复制歌手
+                    const artistCopyBtn = li.querySelector('[data-type="artist"]');
+                    if (artistCopyBtn) {
+                        artistCopyBtn.onclick = () => copyToClipboard(item.artist);
+                    }
+                    
+                    // 复制合集
+                    const collectionCopyBtn = li.querySelector('[data-type="collection"]');
+                    if (collectionCopyBtn) {
+                        collectionCopyBtn.onclick = () => copyToClipboard(item.collection || '未知');
+                    }
+                    
+                    // 复制B站链接
+                    const linkCopyBtn = li.querySelector('[data-type="link"]');
+                    if (linkCopyBtn) {
+                        linkCopyBtn.onclick = () => copyToClipboard(item.link);
                     }
                     
                     songListEl.appendChild(li);
