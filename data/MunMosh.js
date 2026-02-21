@@ -1,6 +1,6 @@
 // むんもっしゅ - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1UCkhBkEon
-// 生成时间: 2/21/2026, 8:24:59 AM
+// 生成时间: 2/21/2026, 9:13:42 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2151,7 +2151,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Secret of my heart",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=1",
@@ -2159,7 +2159,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "departure!",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=2",
@@ -2167,7 +2167,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "One Last Kiss",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=3",
@@ -2175,7 +2175,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "創聖のアクエリオン",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=4",
@@ -2183,7 +2183,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "オレンジ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=5",
@@ -2191,7 +2191,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "一番の宝物(Yui ver.)",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=6",
@@ -2199,7 +2199,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "時を刻む唄",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=7",
@@ -2207,7 +2207,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "小さなてのひら",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=8",
@@ -2215,7 +2215,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "雫",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=9",
@@ -2223,7 +2223,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ボクノート",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=10",
@@ -2231,7 +2231,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Departures ～あなたにおくるアイの歌～",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=11",
@@ -2239,7 +2239,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Ghost of a smile",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=12",
@@ -2247,7 +2247,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Planetes",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=13",
@@ -2255,7 +2255,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "エウテルペ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=14",
@@ -2263,7 +2263,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ブラック★ロックシューター",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=15",
@@ -2271,7 +2271,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "My Dearest",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=16",
@@ -2279,7 +2279,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "うたかた花火",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=17",
@@ -2287,7 +2287,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ライオン",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=18",
@@ -2295,7 +2295,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "フリージア",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=19",
@@ -2303,7 +2303,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君の知らない物語",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=20",
@@ -2311,7 +2311,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ラピスラズリ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=21",
@@ -2319,7 +2319,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "God knows",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=22",
@@ -2327,7 +2327,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Lost my music",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=23",
@@ -2335,7 +2335,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハレ晴レユカイ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=24",
@@ -2343,7 +2343,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "茜さす",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=25",
@@ -2351,7 +2351,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アンインストール",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=26",
@@ -2359,7 +2359,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シルシ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=27",
@@ -2367,7 +2367,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "1/2",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=28",
@@ -2375,7 +2375,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "1/3の純情な感情",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=29",
@@ -2383,7 +2383,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "暁の車",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=30",
@@ -2391,7 +2391,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君は僕に似ている",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=31",
@@ -2399,7 +2399,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハロハワユ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=32",
@@ -2407,7 +2407,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夜明けと蛍",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=33",
@@ -2415,7 +2415,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "glow",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=34",
@@ -2423,7 +2423,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "she",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=35",
@@ -2431,7 +2431,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "in the rain",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=36",
@@ -2439,7 +2439,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ロビンソン",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=37",
@@ -2447,7 +2447,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "運命の人",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=38",
@@ -2455,7 +2455,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "春の歌",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=39",
@@ -2463,7 +2463,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "晩餐歌 (弾き語りver.)",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=40",
@@ -2471,7 +2471,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハルノヒ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=41",
@@ -2479,7 +2479,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "蝶々結び",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=42",
@@ -2487,7 +2487,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シリウスの心臓",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=43",
@@ -2495,7 +2495,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "歌に形はないけれど",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=44",
@@ -2503,7 +2503,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Tell Your World",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=45",
@@ -2511,7 +2511,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "いつも何度でも",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=46",
@@ -2519,7 +2519,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "地球最後の告白を",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=47",
@@ -2527,7 +2527,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Dear",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=48",
@@ -2535,7 +2535,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハイドアンド・シーク",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=49",
@@ -2543,7 +2543,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "メルト",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=50",
@@ -2551,7 +2551,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "初めての恋が終わる時",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=51",
@@ -2559,7 +2559,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夜明けと蛍",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=52",
@@ -2567,7 +2567,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "回る空うさぎ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=53",
@@ -2575,7 +2575,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "小さなてのひら",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=54",
@@ -2583,7 +2583,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "鳥の詩",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=55",
@@ -2591,7 +2591,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "My Song",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=56",
@@ -2599,7 +2599,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Good-bye days～YUI Acoustic Version～",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=57",
@@ -2607,7 +2607,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Tomorrow's way",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=58",
@@ -2615,7 +2615,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君はロックを聴かない",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=59",
@@ -2623,7 +2623,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "プラネタリウム",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=60",
@@ -2631,7 +2631,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "栄光の架橋",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=61",
@@ -4071,7 +4071,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "secret base 〜君がくれたもの〜-ZONE",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=1",
@@ -4079,7 +4079,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "いつも何度でも-木村弓",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=2",
@@ -4087,7 +4087,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "さよならの夏～コクリコ坂から～-手嶌葵",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=3",
@@ -4095,7 +4095,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "小さなてのひら-riya",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=4",
@@ -4103,7 +4103,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "you-癒月",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=5",
@@ -4111,7 +4111,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Alice in 冷凍庫-Orangestar",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=6",
@@ -4119,7 +4119,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ひまわりの約束-秦基博",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=7",
@@ -4127,7 +4127,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハイドアンド・シーク-19's Sound Factory",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=8",
@@ -4135,7 +4135,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "いかないで-想太",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=9",
@@ -4143,7 +4143,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "HANABI-Mr.Children",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=10",
@@ -4151,7 +4151,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "あの夢をなぞって-YOASOBI",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=11",
@@ -4159,7 +4159,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "若者のすべて-フジファブリック",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=12",
@@ -4167,7 +4167,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "渚-スピッツ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=13",
@@ -4175,7 +4175,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "SUMMER SONG-YUI",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=14",
@@ -4183,7 +4183,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ガーネット-奥華子",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=15",
@@ -4191,7 +4191,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "水の中の雲-やなぎなぎ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=16",
@@ -4199,7 +4199,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "スパークル-RADWIMPS",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=17",
@@ -4207,7 +4207,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ウンディーネ-牧野 由依",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=18",
@@ -4215,7 +4215,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "青い栞-Galileo Galilei",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=19",
@@ -4223,7 +4223,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "世界は恋に落ちている-CHiCO with HoneyWorks",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=20",
@@ -4231,7 +4231,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "少女レイ-みきとP",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=21",
@@ -4239,7 +4239,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "鳥の詩-Lia",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=22",
@@ -4247,7 +4247,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Good-bye days-YUI",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=1",
@@ -4255,7 +4255,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "again-YUI",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=2",
@@ -4263,7 +4263,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "いのちの名前-木村 弓",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=3",
@@ -4271,7 +4271,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "だんご大家族-茶太",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=4",
@@ -4279,7 +4279,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ノーチラス-ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=5",
@@ -4287,7 +4287,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "暁の車-FictionJunction YUUKA",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=6",
@@ -4295,7 +4295,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "青空-Lia",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=7",
@@ -4303,7 +4303,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "少女レイ-みきとP",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=8",
@@ -4311,7 +4311,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夜明けと蛍-n-buna",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=9",
@@ -4319,7 +4319,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "楓-スピッツ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=10",
@@ -4327,7 +4327,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君が思い出になる前に-スピッツ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=11",
@@ -4335,7 +4335,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "涙がキラリ☆-スピッツ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=12",
@@ -4343,7 +4343,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "運命の人-スピッツ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=13",
@@ -4351,7 +4351,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ロビンソン-スピッツ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=14",
@@ -4359,7 +4359,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "空も飛べるはず-スピッツ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=15",
@@ -4367,7 +4367,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛のことば-スピッツ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=16",
@@ -4375,7 +4375,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シリウスの心臓-ヰ世界情緒",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=17",
@@ -4383,7 +4383,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "回る空うさぎ-Orangestar",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=18",
@@ -4391,7 +4391,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "オレンジ-7!! (seven oops)",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=19",
@@ -4399,7 +4399,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花束を君に-宇多田ヒカル",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=20",
@@ -4407,7 +4407,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "光-宇多田ヒカル",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=21",
@@ -4415,7 +4415,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Automatic-宇多田ヒカル",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=22",
@@ -4423,7 +4423,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "桜流し-宇多田ヒカル",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=23",
@@ -4431,7 +4431,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "レオ-優里",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=24",
@@ -4439,7 +4439,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Alchemy-Girls Dead Monster",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=1",
@@ -4447,7 +4447,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Ghost of a smile-EGOIST",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=2",
@@ -4455,7 +4455,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ギターと孤独と蒼い惑星-結束バンド",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=3",
@@ -4463,7 +4463,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "青春コンプレックス-結束バンド",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=4",
@@ -4471,7 +4471,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "星座になれたら-結束バンド",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=5",
@@ -4479,7 +4479,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Before I Rise-麻枝准×やなぎなぎ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=6",
@@ -4487,7 +4487,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "TOKYO-YUI",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=7",
@@ -4495,7 +4495,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "LIFE-YUI",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=8",
@@ -4503,7 +4503,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "you-癒月",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=9",
@@ -4511,7 +4511,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Wind Climbing ～風にあそばれて～-奥井亜紀",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=10",
@@ -4519,7 +4519,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シルシ-LiSA",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=11",
@@ -4527,7 +4527,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "地球最後の告白を-kemu",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=12",
@@ -4535,7 +4535,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "心拍数 # 0822-蝶々P",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=13",
@@ -4543,7 +4543,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "楓-スピッツ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=14",
@@ -4551,7 +4551,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "美しい鰭-スピッツ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=15",
@@ -4559,7 +4559,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "咲かせや咲かせ-EGOIST",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=16",
@@ -4567,7 +4567,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "からくりピエロ-40㍍P",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=17",
@@ -4575,7 +4575,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "去り際のロマンティクス-See-Saw",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=18",
@@ -4583,7 +4583,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ギラギラ-Ado",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=19",
@@ -4591,7 +4591,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "勇気100%-光GENJI",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=20",
@@ -4599,7 +4599,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛言葉Ⅲ-DECO27",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=21",
@@ -4607,7 +4607,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "もどかしい世界の上で-牧野 由依",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=22",
@@ -4615,7 +4615,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "黒毛和牛上塩タン焼680円-大塚愛",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=23",
@@ -4623,7 +4623,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "だから僕は音楽を辞めた-ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=24",
@@ -4631,7 +4631,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ちゅ、多様性。-ano",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=25",
@@ -4639,7 +4639,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "I remember you-YUI",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=26",
@@ -4647,7 +4647,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Fields of hope-ラクス・クライン(田中理恵)",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=27",
@@ -4655,7 +4655,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "YUME日和-島谷ひとみ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=28",
@@ -4663,7 +4663,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "深海少女-ゆうゆ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=29",
@@ -4671,7 +4671,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アムリタ-牧野 由依",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=30",
@@ -4679,7 +4679,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハロ／ハワユ-ナノウ(ほえほえP)",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=31",
@@ -4687,7 +4687,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "初めての恋が終わる時-ryo(supercell)",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=32",
@@ -4695,7 +4695,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "タイムマシン-1640mP(164x40㍍P)",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=33",
@@ -4703,7 +4703,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "歌うたいのバラッド-斉藤和義",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=34",
@@ -4711,7 +4711,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夜行-ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=35",
@@ -4719,7 +4719,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "スピラーレ-牧野由依",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=36",
@@ -4727,7 +4727,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "星間飛行-ランカ・リー (中島愛)",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=37",
@@ -4735,7 +4735,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シリウスの心臓-ヰ世界情緒",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=38",
@@ -4743,7 +4743,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "少女レイ-みきとP",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=39",
@@ -4751,7 +4751,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "林檎売りの泡沫少女-Yukkedoluce",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=40",
@@ -4759,7 +4759,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "しるし-Mr.Children",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=41",
@@ -4767,7 +4767,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "さくら-ケツメイシ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=42",
@@ -4775,7 +4775,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "光-宇多田ヒカル",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=43",
@@ -4783,7 +4783,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "虹-菅田将暉",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=44",
@@ -4791,7 +4791,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "明日への手紙-手嶌葵",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=45",
@@ -4799,7 +4799,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ひまわりの約束-秦基博",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=46",
@@ -4807,7 +4807,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "大切な人たちへ-傘村トータ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=47",
@@ -4815,7 +4815,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヒッチコック-ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=48",
@@ -4823,7 +4823,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "すずめ feat.十明-RADWIMPS",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=49",
@@ -4831,7 +4831,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Good-bye days-YUI",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=50",
@@ -4839,7 +4839,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛が灯る-ロクデナシ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=51",
@@ -4847,7 +4847,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "回る空うさぎ-Orangestar",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=52",
@@ -4855,7 +4855,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ダイアモンドクレバス-シェリル・ノーム starring May'n",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=53",
@@ -4863,7 +4863,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "glow-Keeno",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=54",
@@ -4871,7 +4871,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "あの夏が飽和する。-カンザキイオリ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=55",
@@ -4879,7 +4879,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Departures ～あなたにおくるアイの歌～-EGOIST",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=56",
@@ -4887,7 +4887,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "心做し-蝶々P",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=57",
@@ -4895,7 +4895,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "藍二乗-ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=58",
@@ -4903,7 +4903,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夏影-Lia",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=59",
@@ -4911,7 +4911,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アイロニ-すこっぷ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=60",
@@ -4919,7 +4919,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "自傷無色-ねこぼーろ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=61",
@@ -4927,7 +4927,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "茜さす-Aimer",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=62",
@@ -4935,7 +4935,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "永遠のあくる日-Ado",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=63",
@@ -4943,7 +4943,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "銀色Horizon-中瀬聡美",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=64",
@@ -4951,7 +4951,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花の塔-さユり",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=65",
@@ -4959,7 +4959,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君の知らない物語-Supercell",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=66",
@@ -4967,7 +4967,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花に亡霊-ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=67",
@@ -4975,7 +4975,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "猫になりたい-スピッツ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=68",
@@ -4983,7 +4983,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "空も飛べるはず-スピッツ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=69",
@@ -4991,7 +4991,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ロビンソン-スピッツ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=70",
@@ -4999,7 +4999,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君の銀の庭-Kalafina",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=71",
@@ -5007,7 +5007,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アクアテラリウム-やなぎなぎ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=72",
@@ -5015,7 +5015,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "変わらないもの-奥華子",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=73",
@@ -5023,7 +5023,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Ark-Sound Horizon",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=74",
@@ -5031,7 +5031,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "めざせポケモンマスター-松本梨香",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=75",
@@ -5039,7 +5039,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "メルト-ryo(supercell)",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=76",
@@ -5047,7 +5047,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "SUMMER SONG-YUI",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=77",
@@ -5055,7 +5055,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "レオ-優里",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=78",
@@ -5063,7 +5063,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "あの夢をなぞって-YOASOBI",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=79",
@@ -5071,7 +5071,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "鳥の詩-Lia",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=80",
@@ -5079,7 +5079,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "小さなてのひら-riya",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=81",
@@ -5087,7 +5087,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "だんご大家族-茶太",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=82",
@@ -5095,7 +5095,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "小さきもの-林明日香",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=83",
@@ -5103,7 +5103,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "いつも何度でも-木村弓",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=84",
@@ -5111,7 +5111,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "いのちの名前-木村 弓",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=85",
@@ -5119,7 +5119,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "flos-R Sound Design",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=86",
@@ -5127,7 +5127,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "オレンジ-7!! (seven oops)",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=87",
@@ -5135,7 +5135,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夜明けと蛍-n-buna",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=88",
@@ -5143,7 +5143,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "VOICES-新居昭乃",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=89",
@@ -5151,7 +5151,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "trust you-伊藤由奈",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=90",
@@ -5159,7 +5159,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Hello,Worker-KEI",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=91",
@@ -5167,7 +5167,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ユーフォリア-牧野 由依",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=92",
@@ -5175,7 +5175,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "First Love-宇多田ヒカル",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=93",
@@ -5183,7 +5183,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "暁の車-FictionJunction YUUKA",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=94",
@@ -5191,7 +5191,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "FIND THE WAY-中島美嘉",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=95",
@@ -5199,7 +5199,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "カントリーロード-本名陽子",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=96",
@@ -5207,7 +5207,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "春泥棒-ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=97",
@@ -5215,7 +5215,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "again-YUI",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=98",
@@ -5223,7 +5223,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "かけた月-むんもっしゅ【1stオリジナル曲】(音源)",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=99",
@@ -5231,7 +5231,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ファンサ-mona(CV：夏川椎菜)【HoneyWorks】",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=100",
@@ -5239,7 +5239,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "それは小さな光のような-さユり",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=1",
@@ -5247,7 +5247,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "空は高く風は歌う-春奈るな",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=2",
@@ -5255,7 +5255,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "瞳の欠片-FictionJunction YUUKA",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=3",
@@ -5263,7 +5263,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ユメノツバサ-牧野 由依",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=4",
@@ -5271,7 +5271,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君の銀の庭-Kalafina",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=5",
@@ -5279,7 +5279,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "into the world-Kalafina",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=6",
@@ -5287,7 +5287,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "storia-Kalafina",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=7",
@@ -5295,7 +5295,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "光の旋律-Kalafina",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=8",
@@ -5303,7 +5303,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "oblivious-Kalafina",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=9",
@@ -5311,7 +5311,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "水の証-ラクス・クライン(田中理恵)",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=10",
@@ -5319,7 +5319,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Fields of hope-ラクス・クライン(田中理恵)",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=11",
@@ -5327,7 +5327,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "焔の扉-Fiction Junction YUUKA",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=12",
@@ -5335,7 +5335,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "暁の車-FictionJunction YUUKA",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=13",
@@ -5343,7 +5343,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "春はゆく-Aimer",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=14",
@@ -5351,7 +5351,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花の唄-Aimer",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=15",
@@ -5359,7 +5359,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "symphonia-Kalafina",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=16",
@@ -5367,7 +5367,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "優しい夜明け-See-Saw",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=17",
@@ -5375,7 +5375,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "炎-LiSA",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=18",
@@ -5383,7 +5383,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "回る空うさぎ-Orangestar",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=1",
@@ -5391,7 +5391,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "今はいいんだよ。-MIMI",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=2",
@@ -5399,7 +5399,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ミカヅキ-さユり",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=3",
@@ -5407,7 +5407,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "それは小さな光のような-さユり",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=4",
@@ -5415,7 +5415,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花の塔-さユり",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=5",
@@ -5423,7 +5423,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アイドル-YOASOBI",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=6",
@@ -5431,7 +5431,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "サインはB-B小町",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=7",
@@ -5439,7 +5439,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アンインストール-石川智晶",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=8",
@@ -5447,7 +5447,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "星座になれたら-結束バンド",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=9",
@@ -5455,7 +5455,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "世界のつづき-Ado",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=10",
@@ -5463,7 +5463,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "プラネタリウム-大塚愛",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=11",
@@ -5471,7 +5471,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "5.",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=12",
@@ -5479,7 +5479,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花めづる君-傘村トータ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=13",
@@ -5487,7 +5487,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ちゃんとあるよ-傘村トータ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=14",
@@ -5495,7 +5495,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夜明けと蛍-n-buna",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=15",
@@ -5503,7 +5503,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハロ／ハワユ-ナノウ(ほえほえP)",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=16",
@@ -5511,7 +5511,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "from Y to Y-ジミーサムP",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=17",
@@ -5519,7 +5519,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Calc.-ジミーサムP",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=18",
@@ -5527,7 +5527,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "晴る-ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=19",
@@ -5535,7 +5535,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "だから僕は音楽を辞めた-ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=20",
@@ -5543,7 +5543,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ただ君に晴れ-ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=21",
@@ -5551,7 +5551,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "春泥棒-ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=22",
@@ -5559,7 +5559,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "My Soul,Your Beats!-Lia",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=23",
@@ -5567,7 +5567,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "一番の宝物 ～Yui final ver.～-Girls Dead Monster",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=24",
@@ -5575,7 +5575,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "My Song-Girls Dead Monster",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=25",
@@ -5583,7 +5583,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夏影-Lia",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=26",
@@ -5591,7 +5591,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Ghost of a smile-EGOIST",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=27",
@@ -5599,7 +5599,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "フリージア-Uru",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=28",
@@ -5607,7 +5607,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Automatic-宇多田ヒカル",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=29",
@@ -5615,7 +5615,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "One Last Kiss-宇多田ヒカル",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=30",
@@ -5623,7 +5623,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Goodbye Happiness-宇多田ヒカル",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=31",
@@ -5631,7 +5631,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "光-宇多田ヒカル",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=32",
@@ -5639,7 +5639,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "First Love-宇多田ヒカル",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=33",
@@ -5647,7 +5647,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君の知らない物語-Supercell",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=34",
@@ -5655,7 +5655,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ODDS&ENDS-ryo(supercell)",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=35",
@@ -5663,7 +5663,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ピエロ-KEI",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSycYeEJ7?p=36",
@@ -8447,7 +8447,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "一番の宝物『Yui ver.』- Girls Dead Monster",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "[2026-01-29]同接450人目指します！🎸＃耐久 [Y4RsLCOtfVk]【 むんもっしゅ 弾き語り】🌙🎀",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11B6yBiEuh?p=28",

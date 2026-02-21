@@ -1,6 +1,6 @@
 // 其他歌手 - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV11GZtBcEsp
-// 生成时间: 2/21/2026, 8:25:38 AM
+// 生成时间: 2/21/2026, 9:14:49 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4559,7 +4559,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "[2026-01-07]CULUA「少しの自信があったら、」Official Music Video[KKIKy5dS8i0]",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=174",

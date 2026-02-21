@@ -1,6 +1,6 @@
 // nayuta生演奏 - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1GXYFzXETo
-// 生成时间: 2/21/2026, 8:24:16 AM
+// 生成时间: 2/21/2026, 9:12:43 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -287,7 +287,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アルカテイル 【Summer Pockets】",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=1",
@@ -295,7 +295,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Bravely You 【Charlotte】",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=2",
@@ -303,7 +303,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "灼け落ちない翼 【Charlotte】",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=3",
@@ -311,7 +311,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "My Soul, Your Beats! 【Angel Beats!】",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=4",
@@ -319,7 +319,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "My Song 【Angel Beats!】",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=5",
@@ -327,7 +327,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Song for friends 【リトルバスターズ！】",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=6",
@@ -335,7 +335,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Saya's Song 【リトルバスターズ！】",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=7",
@@ -343,7 +343,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "時を刻む唄 【CLANNAD】",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=8",
@@ -351,7 +351,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "だんご大家族 【CLANNAD】",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=9",
@@ -359,7 +359,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Last regrets 【Kanon】",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=10",
@@ -367,7 +367,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "鳥之詩 【AIR】",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=11",
@@ -375,7 +375,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "メグメル 【CLANNAD】",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=12",
@@ -383,7 +383,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "一番の宝物 【Angel Beats!】",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=13",
@@ -1039,7 +1039,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "【有段钢琴独奏，一起切进来了】スペさん solo part",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【nayuta会限 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LVH1zoEfE?p=31",
@@ -1479,7 +1479,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ニコニコ動画流星群",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【nayuta限定】nayuta Acoustic Live vol.12 ~续 为频道会员的追加安可曲目",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LhH9z7Ex2?p=1",
@@ -1519,7 +1519,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "secret base～君がくれたもの～　-　ZONE 『キッズ・ウォー3』主題歌",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【nayuta会限13/21】突発！夏日特辑～声乐和钢琴的现场演奏会 vol.13 【2023年8月27日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aoHXz6Epd?p=1",
@@ -1703,7 +1703,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Jingle Bells",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【nayuta会限14/21】圣诞特辑～声乐和钢琴的现场演奏会 vol.14 【2023年12月22日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bwH9zTEUW?p=13",
@@ -2223,7 +2223,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "春よ、来い",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【nayuta会限20/21】15万人耐久 声乐和钢琴的现场演奏会 vol.20 【2025】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wmQSY1EFu?p=1",
@@ -2231,7 +2231,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "旅立ちの日に",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【nayuta会限20/21】15万人耐久 声乐和钢琴的现场演奏会 vol.20 【2025】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wmQSY1EFu?p=2",
@@ -2239,7 +2239,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "明日への扉",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【nayuta会限20/21】15万人耐久 声乐和钢琴的现场演奏会 vol.20 【2025】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wmQSY1EFu?p=3",
@@ -2247,7 +2247,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "春泥棒",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【nayuta会限20/21】15万人耐久 声乐和钢琴的现场演奏会 vol.20 【2025】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wmQSY1EFu?p=4",
@@ -2255,7 +2255,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "さよならメモリーズ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【nayuta会限20/21】15万人耐久 声乐和钢琴的现场演奏会 vol.20 【2025】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wmQSY1EFu?p=5",
@@ -2263,7 +2263,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "リフレクティア 《真实之泪》（true tears）的OP",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【nayuta会限20 续/21】15万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.20 续~【2025年3月15日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VBHdznEU6?p=1",
@@ -2287,7 +2287,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "God knows...",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【nayuta会限20 续/21】15万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.20 续~【2025年3月15日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VBHdznEU6?p=4",

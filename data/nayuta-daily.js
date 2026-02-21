@@ -1,6 +1,6 @@
 // nayuta日常 - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1MPpUzsE1D
-// 生成时间: 2/21/2026, 8:24:47 AM
+// 生成时间: 2/21/2026, 9:13:26 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -375,7 +375,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "レッツゴー！陰陽師",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18mpEzkEtH?p=1",
@@ -479,7 +479,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "エルの楽園 ［→ side：Ｅ →］",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=1",
@@ -487,7 +487,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Ark",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=2",
@@ -495,7 +495,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "エルの絵本 【魔女とラフレンツェ】",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=3",
@@ -503,7 +503,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Baroque",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=4",
@@ -511,7 +511,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "エルの肖像",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=5",
@@ -519,7 +519,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Yield",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=6",
@@ -527,7 +527,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "エルの天秤",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=7",
@@ -535,7 +535,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Sacrifice",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=8",
@@ -543,7 +543,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "エルの絵本 【笛吹き男とパレード】",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=9",
@@ -551,7 +551,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Stardust",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=10",
@@ -559,7 +559,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "エルの楽園 ［→ side：Ａ →］",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=11",
@@ -567,7 +567,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "星屑の革紐",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=12",
@@ -575,7 +575,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "澪音の世界",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=13",
@@ -583,7 +583,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "黒の予言書",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=14",
@@ -591,7 +591,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハジマリのChronicle",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=15",
@@ -687,7 +687,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "恋人を射ち堕とした日",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=1",
@@ -695,7 +695,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "エルの楽園［→ sideE →］",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=2",
@@ -703,7 +703,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "エルの天秤",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=3",
@@ -711,7 +711,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "エルの絵本【笛吹き男とパレード】",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=4",
@@ -719,7 +719,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Stardust",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=5",
@@ -727,7 +727,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "終端の王と異世界の騎士 ～The Endia & The Knights～",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=6",
@@ -735,7 +735,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "緋色の風車",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=7",
@@ -743,7 +743,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "schwarzweiß 〜霧の向こうに繋がる世界〜",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=8",
@@ -751,7 +751,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "雷神の系譜",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=9",
@@ -759,7 +759,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "星屑の革紐",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=10",
@@ -767,7 +767,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ARK",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=11",
@@ -775,7 +775,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "黒の予言書",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=12",
@@ -783,7 +783,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "澪音の世界",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=13",
@@ -791,7 +791,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "輪廻の砂時計",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=14",
@@ -799,7 +799,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "美しきもの",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=15",
@@ -807,7 +807,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "沈んだ歌姫",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=16",
@@ -815,7 +815,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "朝と夜の物語",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=17",
@@ -823,7 +823,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "＜ハジマリ＞のChronicle",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=18",
@@ -831,7 +831,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "壊れたマリオネット",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=19",
@@ -839,7 +839,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "11文字の伝言",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=20",
@@ -1007,7 +1007,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "21_2025-09-15-06.03.38.00_00225986",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XvpqzYEWu?p=21",

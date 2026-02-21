@@ -1,45 +1,45 @@
 // 酢酸 / SAKUSAN - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1JSZHBrEVw
-// 生成时间: 2/21/2026, 8:22:40 AM
+// 生成时间: 2/21/2026, 9:11:24 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
     {
-  "title": "Mela！-緑黄色社会",
-  "artist": "前尘往事如昔故",
+  "title": "Mela!",
+  "artist": "緑黄色社会",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13bBcY4EiW?p=1",
   "source": "sakusan.js"
 },
     {
-  "title": "カタオモイ-Aimer",
-  "artist": "前尘往事如昔故",
+  "title": "カタオモイ",
+  "artist": "Aimer",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13bBcY4EiW?p=2",
   "source": "sakusan.js"
 },
     {
-  "title": "唱-Ado",
-  "artist": "前尘往事如昔故",
+  "title": "唱",
+  "artist": "Ado",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13bBcY4EiW?p=3",
   "source": "sakusan.js"
 },
     {
-  "title": "裸の心-あいみょん",
-  "artist": "前尘往事如昔故",
+  "title": "裸の心",
+  "artist": "あいみょん",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13bBcY4EiW?p=4",
   "source": "sakusan.js"
 },
     {
-  "title": "ファンサ-mona(夏川椎菜)",
-  "artist": "前尘往事如昔故",
+  "title": "ファンサ",
+  "artist": "mona(夏川椎菜)",
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13bBcY4EiW?p=5",

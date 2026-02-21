@@ -1,6 +1,6 @@
 // Figaro - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1HRfuBCEXN
-// 生成时间: 2/21/2026, 8:21:07 AM
+// 生成时间: 2/21/2026, 9:09:29 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -255,7 +255,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "少女レイ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240228 Figaro】#3【15首横屏】あたらしいらじお。(仮)  1. 少女レイ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1k2421M7PJ?p=1",
@@ -263,7 +263,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "春を告げる",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240228 Figaro】#3【15首横屏】あたらしいらじお。(仮)  1. 少女レイ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1k2421M7PJ?p=2",
@@ -271,7 +271,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハッピーシンセサイザ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240228 Figaro】#3【15首横屏】あたらしいらじお。(仮)  1. 少女レイ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1k2421M7PJ?p=3",
@@ -279,7 +279,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "メランコリック",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240228 Figaro】#3【15首横屏】あたらしいらじお。(仮)  1. 少女レイ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1k2421M7PJ?p=4",
@@ -287,7 +287,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "スイートマジック",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240228 Figaro】#3【15首横屏】あたらしいらじお。(仮)  1. 少女レイ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1k2421M7PJ?p=5",
@@ -295,7 +295,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ムーン",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240228 Figaro】#3【15首横屏】あたらしいらじお。(仮)  1. 少女レイ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1k2421M7PJ?p=6",
@@ -303,7 +303,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "それがあなたの幸せとしても",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240228 Figaro】#3【15首横屏】あたらしいらじお。(仮)  1. 少女レイ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1k2421M7PJ?p=7",
@@ -311,7 +311,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "福寿草",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240228 Figaro】#3【15首横屏】あたらしいらじお。(仮)  1. 少女レイ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1k2421M7PJ?p=8",
@@ -319,7 +319,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "HEAVEN",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240228 Figaro】#3【15首横屏】あたらしいらじお。(仮)  1. 少女レイ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1k2421M7PJ?p=9",
@@ -327,7 +327,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "さようなら、花泥棒さん",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240228 Figaro】#3【15首横屏】あたらしいらじお。(仮)  1. 少女レイ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1k2421M7PJ?p=10",
@@ -335,7 +335,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "翡翠のまち",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240228 Figaro】#3【15首横屏】あたらしいらじお。(仮)  1. 少女レイ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1k2421M7PJ?p=11",
@@ -343,7 +343,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "唯々なりレイデエ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240228 Figaro】#3【15首横屏】あたらしいらじお。(仮)  1. 少女レイ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1k2421M7PJ?p=12",
@@ -351,7 +351,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "バレリーコ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240228 Figaro】#3【15首横屏】あたらしいらじお。(仮)  1. 少女レイ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1k2421M7PJ?p=13",
@@ -359,7 +359,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ジェヘナ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240228 Figaro】#3【15首横屏】あたらしいらじお。(仮)  1. 少女レイ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1k2421M7PJ?p=14",
@@ -367,7 +367,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "さよならだけが人生だ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240228 Figaro】#3【15首横屏】あたらしいらじお。(仮)  1. 少女レイ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1k2421M7PJ?p=15",
@@ -375,7 +375,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ルーマー",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240301 17竖屏】元気に縦型歌枠！【Figaro】01. ルーマー",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZS421c7BB?p=1",
@@ -383,7 +383,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "言って",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240301 17竖屏】元気に縦型歌枠！【Figaro】01. ルーマー",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZS421c7BB?p=2",
@@ -391,7 +391,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シニカルナイトプラン",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240301 17竖屏】元気に縦型歌枠！【Figaro】01. ルーマー",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZS421c7BB?p=3",
@@ -399,7 +399,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Overdose",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240301 17竖屏】元気に縦型歌枠！【Figaro】01. ルーマー",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZS421c7BB?p=4",
@@ -407,7 +407,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "絶頂讃歌",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240301 17竖屏】元気に縦型歌枠！【Figaro】01. ルーマー",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZS421c7BB?p=5",
@@ -415,7 +415,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "マーシャル・マキシマイザー",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240301 17竖屏】元気に縦型歌枠！【Figaro】01. ルーマー",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZS421c7BB?p=6",
@@ -423,7 +423,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "幾望の月",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240301 17竖屏】元気に縦型歌枠！【Figaro】01. ルーマー",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZS421c7BB?p=7",
@@ -431,7 +431,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ダーリン",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240301 17竖屏】元気に縦型歌枠！【Figaro】01. ルーマー",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZS421c7BB?p=8",
@@ -439,7 +439,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "フリィダム ロリィタ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240301 17竖屏】元気に縦型歌枠！【Figaro】01. ルーマー",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZS421c7BB?p=9",
@@ -447,7 +447,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "とても素敵な六月でした",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240301 17竖屏】元気に縦型歌枠！【Figaro】01. ルーマー",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZS421c7BB?p=10",
@@ -455,7 +455,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Brave Shine",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240301 17竖屏】元気に縦型歌枠！【Figaro】01. ルーマー",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZS421c7BB?p=11",
@@ -463,7 +463,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "RE I AM",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240301 17竖屏】元気に縦型歌枠！【Figaro】01. ルーマー",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZS421c7BB?p=12",
@@ -471,7 +471,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "病名は愛だった",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240301 17竖屏】元気に縦型歌枠！【Figaro】01. ルーマー",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZS421c7BB?p=13",
@@ -479,7 +479,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "G4L",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240301 17竖屏】元気に縦型歌枠！【Figaro】01. ルーマー",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZS421c7BB?p=14",
@@ -487,7 +487,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "CH4NGE",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240301 17竖屏】元気に縦型歌枠！【Figaro】01. ルーマー",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZS421c7BB?p=15",
@@ -495,7 +495,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "フォニイ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240301 17竖屏】元気に縦型歌枠！【Figaro】01. ルーマー",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZS421c7BB?p=16",
@@ -503,7 +503,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Stellar Stellar",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240301 17竖屏】元気に縦型歌枠！【Figaro】01. ルーマー",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZS421c7BB?p=17",
@@ -511,7 +511,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "月のワルツ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240303】#169 01. 月のワルツ【17 横屏】【 Figaro 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bw4m1o7ao?p=1",
@@ -519,7 +519,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "悪魔の子",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240303】#169 01. 月のワルツ【17 横屏】【 Figaro 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bw4m1o7ao?p=2",
@@ -527,7 +527,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "葛飾ラプソディー",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240303】#169 01. 月のワルツ【17 横屏】【 Figaro 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bw4m1o7ao?p=3",
@@ -535,7 +535,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "藍二乗",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240303】#169 01. 月のワルツ【17 横屏】【 Figaro 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bw4m1o7ao?p=4",
@@ -543,7 +543,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "憂一乗",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240303】#169 01. 月のワルツ【17 横屏】【 Figaro 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bw4m1o7ao?p=5",
@@ -551,7 +551,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ウィアートル",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240303】#169 01. 月のワルツ【17 横屏】【 Figaro 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bw4m1o7ao?p=6",
@@ -559,7 +559,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "晚餐歌",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240303】#169 01. 月のワルツ【17 横屏】【 Figaro 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bw4m1o7ao?p=7",
@@ -567,7 +567,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夜明けと蛍",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240303】#169 01. 月のワルツ【17 横屏】【 Figaro 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bw4m1o7ao?p=8",
@@ -575,7 +575,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "都落ち",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240303】#169 01. 月のワルツ【17 横屏】【 Figaro 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bw4m1o7ao?p=9",
@@ -583,7 +583,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "春泥棒",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240303】#169 01. 月のワルツ【17 横屏】【 Figaro 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bw4m1o7ao?p=10",
@@ -591,7 +591,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "忘れじの言の葉",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240303】#169 01. 月のワルツ【17 横屏】【 Figaro 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bw4m1o7ao?p=11",
@@ -599,7 +599,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "すずめ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240303】#169 01. 月のワルツ【17 横屏】【 Figaro 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bw4m1o7ao?p=12",
@@ -607,7 +607,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "フクロウ~フクロウが知らせる客が来たと~",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240303】#169 01. 月のワルツ【17 横屏】【 Figaro 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bw4m1o7ao?p=13",
@@ -615,7 +615,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ワールド・ランプシェード",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240303】#169 01. 月のワルツ【17 横屏】【 Figaro 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bw4m1o7ao?p=14",
@@ -623,7 +623,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "to U",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240303】#169 01. 月のワルツ【17 横屏】【 Figaro 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bw4m1o7ao?p=15",
@@ -631,7 +631,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "打上花火",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240303】#169 01. 月のワルツ【17 横屏】【 Figaro 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bw4m1o7ao?p=16",
@@ -639,7 +639,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "はるのとなり",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240303】#169 01. 月のワルツ【17 横屏】【 Figaro 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bw4m1o7ao?p=17",
@@ -1687,7 +1687,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "第一夜  The First Night",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=1",
@@ -1695,7 +1695,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "心に穴が空いた  Hole in the Heart",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=2",
@@ -1703,7 +1703,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ただ君に晴れ  Cloudless",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=3",
@@ -1711,7 +1711,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ブレーメン  Bremen",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=4",
@@ -1719,7 +1719,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "逃亡  Escape",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=5",
@@ -1727,7 +1727,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夜行  Night Journey",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=6",
@@ -1735,7 +1735,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "春泥棒  Spring Thief",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=7",
@@ -1743,7 +1743,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "爆弾魔  Bomber",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=8",
@@ -1751,7 +1751,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "左右盲  Left-Right Confusion",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=9",
@@ -1759,7 +1759,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "月光浴  Moonbath",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=10",
@@ -1767,7 +1767,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "藍二乗  Blur",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=11",
@@ -1775,7 +1775,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "靴の花火  Fireworks Beneath My Shoes",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=12",
@@ -1783,7 +1783,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "都落ち  Miyakoochi",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=13",
@@ -1791,7 +1791,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "斜陽  Setting Sun",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=14",
@@ -1799,7 +1799,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アルジャーノン  Algernon",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=15",
@@ -1807,7 +1807,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ノーチラス  Nautilus",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=16",
@@ -1815,7 +1815,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "だから僕は音楽を辞めた  That's Why I Gave Up on Music",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=17",
@@ -2143,7 +2143,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "【Figaro 3D】ファンサ-HoneyWorks【4周年記念】",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro 3D】ファンサ-HoneyWorks【4周年記念】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ez421k7tF?p=1",
@@ -4543,7 +4543,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "传了再说",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】#182蝶々結び\\たばこ\\染まるよ \\少年よ我に帰れ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d13cenEy8?p=4",
@@ -4943,7 +4943,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "唱 (Show)- Ado",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱【2024年6月21日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=26",
@@ -7831,7 +7831,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "雨とカプチーノ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】21p+1pv】雨とカプチーノ、思想犯、若者のすべて、悪魔の子【241003】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xUxfevEiA?p=1",
@@ -7839,7 +7839,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "思想犯",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】21p+1pv】雨とカプチーノ、思想犯、若者のすべて、悪魔の子【241003】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xUxfevEiA?p=2",
@@ -7847,7 +7847,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "若者のすべて",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】21p+1pv】雨とカプチーノ、思想犯、若者のすべて、悪魔の子【241003】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xUxfevEiA?p=3",
@@ -7855,7 +7855,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "悪魔の子",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】21p+1pv】雨とカプチーノ、思想犯、若者のすべて、悪魔の子【241003】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xUxfevEiA?p=4",
@@ -7863,7 +7863,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "きゅうくらりん",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】21p+1pv】雨とカプチーノ、思想犯、若者のすべて、悪魔の子【241003】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xUxfevEiA?p=5",
@@ -7871,7 +7871,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "コネクト",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】21p+1pv】雨とカプチーノ、思想犯、若者のすべて、悪魔の子【241003】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xUxfevEiA?p=6",
@@ -7879,7 +7879,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "空色デイズ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】21p+1pv】雨とカプチーノ、思想犯、若者のすべて、悪魔の子【241003】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xUxfevEiA?p=7",
@@ -7887,7 +7887,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "REIAM",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】21p+1pv】雨とカプチーノ、思想犯、若者のすべて、悪魔の子【241003】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xUxfevEiA?p=8",
@@ -7895,7 +7895,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "フリージア",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】21p+1pv】雨とカプチーノ、思想犯、若者のすべて、悪魔の子【241003】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xUxfevEiA?p=9",
@@ -7903,7 +7903,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "祝福",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】21p+1pv】雨とカプチーノ、思想犯、若者のすべて、悪魔の子【241003】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xUxfevEiA?p=10",
@@ -7911,7 +7911,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "不埒喝采",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】21p+1pv】雨とカプチーノ、思想犯、若者のすべて、悪魔の子【241003】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xUxfevEiA?p=11",
@@ -7919,7 +7919,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ルーマー",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】21p+1pv】雨とカプチーノ、思想犯、若者のすべて、悪魔の子【241003】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xUxfevEiA?p=12",
@@ -7927,7 +7927,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "気楼と生活",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】21p+1pv】雨とカプチーノ、思想犯、若者のすべて、悪魔の子【241003】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xUxfevEiA?p=13",
@@ -7935,7 +7935,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "人間だった",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】21p+1pv】雨とカプチーノ、思想犯、若者のすべて、悪魔の子【241003】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xUxfevEiA?p=14",
@@ -7943,7 +7943,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "月光浴",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】21p+1pv】雨とカプチーノ、思想犯、若者のすべて、悪魔の子【241003】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xUxfevEiA?p=15",
@@ -7951,7 +7951,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "fake face dance music",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】21p+1pv】雨とカプチーノ、思想犯、若者のすべて、悪魔の子【241003】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xUxfevEiA?p=16",
@@ -7959,7 +7959,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハイド・アンド・シーク",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】21p+1pv】雨とカプチーノ、思想犯、若者のすべて、悪魔の子【241003】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xUxfevEiA?p=17",
@@ -7967,7 +7967,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ビビデバ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】21p+1pv】雨とカプチーノ、思想犯、若者のすべて、悪魔の子【241003】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xUxfevEiA?p=18",
@@ -7975,7 +7975,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "オーバーライド",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】21p+1pv】雨とカプチーノ、思想犯、若者のすべて、悪魔の子【241003】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xUxfevEiA?p=19",
@@ -7983,7 +7983,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ファタール",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】21p+1pv】雨とカプチーノ、思想犯、若者のすべて、悪魔の子【241003】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xUxfevEiA?p=20",
@@ -7991,7 +7991,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "メフィスト",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】21p+1pv】雨とカプチーノ、思想犯、若者のすべて、悪魔の子【241003】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xUxfevEiA?p=21",
@@ -7999,7 +7999,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "人間みたいね _ キタニタツヤ Figaro cover【 歌ってみた 】",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】21p+1pv】雨とカプチーノ、思想犯、若者のすべて、悪魔の子【241003】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xUxfevEiA?p=22",
@@ -8391,7 +8391,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "水平線 // back number",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【 橙里セイ / Figaro 】7】和橙里セイ酱一起唱歌！【241008】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SJ2WYgEr7?p=6",
@@ -11839,7 +11839,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "11. 短  1",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro 】寒い日に暖かくして聴く歌回  14 250111",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV198cpeyEtZ?p=13",
@@ -11863,7 +11863,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "APT 短  2",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro 】寒い日に暖かくして聴く歌回  14 250111",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV198cpeyEtZ?p=16",
@@ -11871,7 +11871,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "月のワルツ-諫山実生",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #207 20 250113",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DHcDe9EhN?p=1",
@@ -11879,7 +11879,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Hello, Worker-KEI",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #207 20 250113",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DHcDe9EhN?p=2",
@@ -11887,7 +11887,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ニア-夏代孝明",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #207 20 250113",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DHcDe9EhN?p=3",
@@ -11895,7 +11895,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "地獄先生-相対性理論",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #207 20 250113",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DHcDe9EhN?p=4",
@@ -11903,7 +11903,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヒッチコック-ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #207 20 250113",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DHcDe9EhN?p=5",
@@ -11911,7 +11911,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "風を食む-ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #207 20 250113",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DHcDe9EhN?p=6",
@@ -11919,7 +11919,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "me me she-RADWIMPS",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #207 20 250113",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DHcDe9EhN?p=7",
@@ -11927,7 +11927,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "灰色と青-米津玄師 & 菅田将暉",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #207 20 250113",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DHcDe9EhN?p=8",
@@ -11935,7 +11935,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Eyes on Me-王菲",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #207 20 250113",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DHcDe9EhN?p=9",
@@ -11943,7 +11943,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "靴の花火-ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #207 20 250113",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DHcDe9EhN?p=10",
@@ -11951,7 +11951,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ノーチラス-ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #207 20 250113",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DHcDe9EhN?p=11",
@@ -11959,7 +11959,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "痛いよ-清竜人",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #207 20 250113",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DHcDe9EhN?p=12",
@@ -11967,7 +11967,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Currant-春野",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #207 20 250113",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DHcDe9EhN?p=13",
@@ -11975,7 +11975,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "楽園-春野",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #207 20 250113",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DHcDe9EhN?p=14",
@@ -11983,7 +11983,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Limbo-春野",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #207 20 250113",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DHcDe9EhN?p=15",
@@ -11991,7 +11991,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "メトロノーム-米津玄師",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #207 20 250113",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DHcDe9EhN?p=16",
@@ -11999,7 +11999,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "カタオモイ-Aimer",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #207 20 250113",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DHcDe9EhN?p=17",
@@ -12007,7 +12007,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "再会-LiSA × Uru",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #207 20 250113",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DHcDe9EhN?p=18",
@@ -12015,7 +12015,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "点描の唄-Mrs. GREEN APPLE",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #207 20 250113",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DHcDe9EhN?p=19",
@@ -12023,7 +12023,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アイノカタチ-MISIA",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #207 20 250113",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DHcDe9EhN?p=20",
@@ -12031,7 +12031,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "さよーならまたいつか!-米津玄師",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #208",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tTwWeVEqi?p=1",
@@ -12039,7 +12039,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "眩暈-鬼束ちひろ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #208",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tTwWeVEqi?p=2",
@@ -12047,7 +12047,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヴィーナスとジーザス-やくしまるえつこ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #208",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tTwWeVEqi?p=3",
@@ -12055,7 +12055,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "変わらないもの-奧華子",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #208",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tTwWeVEqi?p=4",
@@ -12063,7 +12063,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "僕が死のうと思ったのは-中島美嘉",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #208",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tTwWeVEqi?p=5",
@@ -12071,7 +12071,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "いさな-ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #208",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tTwWeVEqi?p=6",
@@ -12079,7 +12079,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ガーデン-藤井風",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #208",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tTwWeVEqi?p=7",
@@ -12087,7 +12087,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シリウスの心臓-ヰ世界情緒",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #208",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tTwWeVEqi?p=8",
@@ -12095,7 +12095,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君が夜の海に還るまで-キタニタツヤ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #208",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tTwWeVEqi?p=9",
@@ -12103,7 +12103,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夜明けと蛍-ナブナ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #208",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tTwWeVEqi?p=10",
@@ -12111,7 +12111,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "マリーゴールド-あいみょん",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #208",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tTwWeVEqi?p=11",
@@ -12119,7 +12119,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハナミズキ-一青窈",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #208",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tTwWeVEqi?p=12",
@@ -12127,7 +12127,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "to U-Bank Band with Salyu",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #208",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tTwWeVEqi?p=13",
@@ -12135,7 +12135,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "憂、燦々-クリープハイプ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #208",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tTwWeVEqi?p=14",
@@ -12143,7 +12143,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アポリア-ヨルシカ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #208",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tTwWeVEqi?p=15",
@@ -12151,7 +12151,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ポロメリア-Cocco",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #208",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tTwWeVEqi?p=16",
@@ -12159,7 +12159,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "約束をしよう-supercell",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #208",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tTwWeVEqi?p=17",
@@ -12167,7 +12167,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ミュージック-サカナクション",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】ゲリラ深夜歌枠 20  250120",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17hwxevEd1?p=1",
@@ -12175,7 +12175,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ネイティブダンサー-サカナクション",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】ゲリラ深夜歌枠 20  250120",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17hwxevEd1?p=2",
@@ -12183,7 +12183,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "食虫植物-理芽",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】ゲリラ深夜歌枠 20  250120",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17hwxevEd1?p=3",
@@ -12191,7 +12191,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "One Last Kiss-宇多田ヒカル",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】ゲリラ深夜歌枠 20  250120",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17hwxevEd1?p=4",
@@ -12199,7 +12199,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "自傷無色-ササノマリイ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】ゲリラ深夜歌枠 20  250120",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17hwxevEd1?p=5",
@@ -12207,7 +12207,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "人間だった-ピコン",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】ゲリラ深夜歌枠 20  250120",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17hwxevEd1?p=6",
@@ -12215,7 +12215,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君の脈で踊りたかった-ピコン",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】ゲリラ深夜歌枠 20  250120",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17hwxevEd1?p=7",
@@ -12223,7 +12223,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "人間みたいね-キタニタツヤ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】ゲリラ深夜歌枠 20  250120",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17hwxevEd1?p=8",
@@ -12231,7 +12231,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Bunny Girl-AKASAKI",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】ゲリラ深夜歌枠 20  250120",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17hwxevEd1?p=9",
@@ -12239,7 +12239,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ずうっといっしょ！-キタニタツヤ",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】ゲリラ深夜歌枠 20  250120",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17hwxevEd1?p=10",
@@ -12247,7 +12247,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ギラギラ-Ado",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】ゲリラ深夜歌枠 20  250120",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17hwxevEd1?p=11",
@@ -12255,7 +12255,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Wonderwall-Oasis",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】ゲリラ深夜歌枠 20  250120",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17hwxevEd1?p=12",
@@ -12263,7 +12263,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "traveling-宇多田ヒカル",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】ゲリラ深夜歌枠 20  250120",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17hwxevEd1?p=13",
@@ -12271,7 +12271,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "テレ東-相対性理論",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】ゲリラ深夜歌枠 20  250120",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17hwxevEd1?p=14",
@@ -12279,7 +12279,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "四角革命-相対性理論",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】ゲリラ深夜歌枠 20  250120",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17hwxevEd1?p=15",
@@ -12287,7 +12287,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "fake face dance music-音田雅則",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】ゲリラ深夜歌枠 20  250120",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17hwxevEd1?p=16",
@@ -12295,7 +12295,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ミュージック-サカナクション",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】ゲリラ深夜歌枠 20  250120",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17hwxevEd1?p=17",
@@ -12303,7 +12303,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アディオス-ダズビー",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】ゲリラ深夜歌枠 20  250120",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17hwxevEd1?p=18",
@@ -12311,7 +12311,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛じゃない-ダズビー",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】ゲリラ深夜歌枠 20  250120",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17hwxevEd1?p=19",
@@ -12319,7 +12319,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Limbo-春野",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】ゲリラ深夜歌枠 20  250120",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17hwxevEd1?p=20",
@@ -13327,7 +13327,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング _ Covered by Figaro【 歌ってみた 】",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "モニタリング _ Covered by Figaro【 歌ってみた 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV127XoYGEHf?p=1",
@@ -13783,7 +13783,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "flos-R Sound Design",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【 #CMYKProject 】CMYKの『F』の部分 💐 Karaoke【 Figaro / Vtuber 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ReRHYhEtz?p=4",
@@ -13791,7 +13791,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "潮騒 / Figaro",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【 #CMYKProject 】CMYKの『F』の部分 💐 Karaoke【 Figaro / Vtuber 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ReRHYhEtz?p=5",
@@ -14127,7 +14127,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "翻车",
-  "artist": "前尘往事如昔故",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【 #歌枠 Figaro 】しっとり睡眠導入歌回 - すやラジ #214【 Vtuber 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV119XuYGEUG?p=17",

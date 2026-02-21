@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1G6fLB7Efr
-// 生成时间: 2/21/2026, 8:20:41 AM
+// 生成时间: 2/21/2026, 9:09:05 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -271,7 +271,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Don't say \"lazy\"",
-  "artist": "なれたん Naraetan Ch.🌷",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1jxZABLEWJ?p=18",
@@ -3039,7 +3039,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "今はいいんだよ。- MIMI",
-  "artist": "6s3[なれたん Naraetan Ch.🌷",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
   "up": "6s3[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1GVc3zTEeu?p=20",
