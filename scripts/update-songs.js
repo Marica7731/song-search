@@ -52,7 +52,7 @@ const SINGER_CONFIGS = [
     { bvid: "BV1p1zBBCEZ3", file: "yoshika", alias: "よしか YOSHIKA" },
     { bvid: "BV1aDzEBBE3S", file: "yuri", alias: "優莉 yuri" },
     { bvid: "BV1zzZPBsEum", file: "otomoneruki", alias: "音門るき" },
-    { bvid: "BV1PZHdzqE6k", file: "nayuta-piano-live", alias: "nayuta生演奏" },
+    { bvid: "BV1AusszDEMf", file: "nayuta-piano-live", alias: "nayuta生演奏" },
     { bvid: "BV1MPpUzsE1D", file: "nayuta-daily", alias: "nayuta日常" },
     { bvid: "BV1UCkhBkEon", file: "MunMosh", alias: "むんもっしゅ" },
     { bvid: "BV11GZtBcEsp", file: "others", alias: "其他歌手" }
