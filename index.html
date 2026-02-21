@@ -358,49 +358,54 @@
             statsMsg.textContent = `总歌曲数：${originalData.length} | 筛选后：${filteredBySource.length} | 搜索结果：${filteredBySearch.length}`;
         }
 
-        // 6. 渲染歌曲列表（优化：显示alias来源）
-        function renderSongList(data) {
-            const songListEl = document.getElementById('song-list');
-            songListEl.innerHTML = ''; // 清空原有内容
+        // 6. 渲染歌曲列表（优化：显示alias来源 + 仅在link有效时显示跳转按钮）
+function renderSongList(data) {
+    const songListEl = document.getElementById('song-list');
+    songListEl.innerHTML = ''; // 清空原有内容
 
-            // 计算当前页显示的数据
-            const start = (currentPage - 1) * PAGE_SIZE;
-            const end = start + PAGE_SIZE;
-            const pageData = data.slice(start, end);
+    // 计算当前页显示的数据
+    const start = (currentPage - 1) * PAGE_SIZE;
+    const end = start + PAGE_SIZE;
+    const pageData = data.slice(start, end);
 
-            // 渲染当前页数据
-            if (pageData.length === 0) {
-                document.getElementById('empty-msg').style.display = 'block';
-            } else {
-                document.getElementById('empty-msg').style.display = 'none';
-                pageData.forEach(item => {
-                    // 来源显示alias
-                    const sourceBase = item.source?.replace('.js', '');
-                    const sourceAlias = FILE_TO_ALIAS[sourceBase] || item.source || '未知';
-                    
-                    const li = document.createElement('li');
-                    li.className = 'song-item';
-                    li.innerHTML = `
-                        <div class="song-info">
-                            <div class="song-title">${item.title || '未知歌曲'}</div>
-                            <div class="song-meta">
-                                歌手：${item.artist || '未知'} / 
-                                合集：${item.collection || '未知'} / 
-                                UP主：${item.up || '未知'}
-                            </div>
-                            <div class="song-source">来源：${sourceAlias}</div>
-                        </div>
-                        <div class="song-link">
-                            <a href="${item.link || '#'}" target="_blank">直达B站</a>
-                        </div>
-                    `;
-                    songListEl.appendChild(li);
-                });
-            }
+    // 渲染当前页数据
+    if (pageData.length === 0) {
+        document.getElementById('empty-msg').style.display = 'block';
+    } else {
+        document.getElementById('empty-msg').style.display = 'none';
+        pageData.forEach(item => {
+            // 来源显示alias
+            const sourceBase = item.source?.replace('.js', '');
+            const sourceAlias = FILE_TO_ALIAS[sourceBase] || item.source || '未知';
+            
+            // 核心修改：判断link是否有效（非null + 包含BV）
+            const isLinkValid = item.link && /BV\w+/.test(item.link);
+            // 生成跳转按钮（有效则显示，无效则为空）
+            const linkHtml = isLinkValid 
+                ? `<div class="song-link"><a href="${item.link}" target="_blank">直达B站</a></div>` 
+                : '';
+            
+            const li = document.createElement('li');
+            li.className = 'song-item';
+            li.innerHTML = `
+                <div class="song-info">
+                    <div class="song-title">${item.title || '未知歌曲'}</div>
+                    <div class="song-meta">
+                        歌手：${item.artist || '未知'} / 
+                        合集：${item.collection || '未知'} / 
+                        UP主：${item.up || '未知'}
+                    </div>
+                    <div class="song-source">来源：${sourceAlias}</div>
+                </div>
+                ${linkHtml} <!-- 仅link有效时显示按钮 -->
+            `;
+            songListEl.appendChild(li);
+        });
+    }
 
-            // 渲染分页
-            renderPagination(data.length);
-        }
+    // 渲染分页
+    renderPagination(data.length);
+}
 
         // 7. 渲染分页控件
         function renderPagination(total) {
