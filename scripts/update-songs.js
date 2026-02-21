@@ -33,20 +33,23 @@ async function withRetry(fn, maxRetries = 3, delay = 5000) {
     throw lastError;
 }
 
-// ================= 1. 常量配置（核心修改：扩展选择器为数组，适配单/分P） =================
+// ================= 1. 常量配置（核心修改：完全对齐油猴脚本选择器） =================
 const DELAY_TIME = 1500;
 const BILI_VIDEO_PREFIX = 'https://www.bilibili.com/video/';
 const BV_REGEX = /BV\w+/;
 const PLAYLIST_SELECTORS = ['.video-pod__list .pod-item'];
-// 核心修改1：扩展为数组，适配分P+单集合集
+
+// 【修复1】对齐油猴脚本：去掉 .pod-item 前缀，因为是在容器内部查找
 const PART_TITLE_SELECTORS = [
-    '.page-list .page-item.sub .title-txt', // 分P合集选择器
-    '.pod-item .title .title-txt'           // 单集合集选择器
+    '.page-list .page-item.sub .title-txt', // 分P合集选择器 (在pod-item内部)
+    '.title .title-txt'                      // 单集合集选择器 (直接在当前容器内找标题)
 ];
-// 核心修改2：扩展为数组，适配分P+单集合集
+
+// 【修复2】对齐油猴脚本：增加备用选择器，确保单集合集标题提取
 const COLLECTION_TITLE_SELECTORS = [
-    '.head .title-txt',                          // 分P合集标题
-    '.video-pod__header .header-top .left .title' // 单集合集标题
+    '.head .title .title-txt',               // 分P合集：从当前pod-item内部提取标题
+    '.video-pod__header .header-top .left .title', // 备用布局（单集合集全局标题）
+    '.title .title-txt'                       // 单集合集：直接把当前视频标题当作合集名
 ];
 
 // ================= 2. 歌手配置（你只需要维护这里） =================
@@ -70,7 +73,7 @@ const SINGER_CONFIGS = [
 const DATA_DIR = path.join(__dirname, '..', 'data');
 const BILI_VIDEO_URL = (bvid) => `https://www.bilibili.com/video/${bvid}`;
 
-// ================= 3. 核心：Puppeteer加载页面 =================
+// ================= 3. 核心：Puppeteer加载页面（逻辑完全复刻油猴） =================
 async function loadVideoPageWithBrowser(bvid) {
     const url = BILI_VIDEO_URL(bvid);
     let browser;
@@ -115,7 +118,7 @@ async function loadVideoPageWithBrowser(bvid) {
             BV_REGEX, 
             bvid
         ) => {
-            // 核心修改3：添加油猴的通用选择器函数
+            // 通用选择器函数：完全复刻油猴脚本
             function querySelectorFallback(container, selectors) {
                 for (const selector of selectors) {
                     const element = container.querySelector(selector);
@@ -142,7 +145,7 @@ async function loadVideoPageWithBrowser(bvid) {
                 return null;
             }
 
-            // 核心修改4：优先提取全局合集标题（单集合集场景）
+            // 优先提取全局合集标题（单集合集场景）
             let globalCollectionTitle = '';
             const collectionTitleNode = querySelectorFallback(document, COLLECTION_TITLE_SELECTORS);
             if (collectionTitleNode) {
@@ -150,7 +153,7 @@ async function loadVideoPageWithBrowser(bvid) {
             }
 
             return Array.from(containers).map((container, idx) => {
-                // 核心修改5：优先用全局标题，再容器内，最后默认
+                // 优先用全局标题，再容器内，最后默认
                 let colTitle = globalCollectionTitle;
                 if (!colTitle) {
                     const colTitleNode = querySelectorFallback(container, COLLECTION_TITLE_SELECTORS);
@@ -166,14 +169,16 @@ async function loadVideoPageWithBrowser(bvid) {
                     if (upEle) upName = upEle.textContent.trim();
                 }
 
-                // 核心修改6：用fallback函数提取分P/单集标题
+                // 用fallback函数提取分P/单集标题
                 const partNodes = querySelectorAllFallback(container, PART_TITLE_SELECTORS);
                 const parts = Array.from(partNodes).map(node => node.textContent.trim());
 
-                // 核心修改7：单集场景兜底（parts为空时补充标题）
-                const singlePartTitle = querySelectorFallback(container, PART_TITLE_SELECTORS);
-                if (parts.length === 0 && singlePartTitle) {
-                    parts.push(singlePartTitle.textContent.trim());
+                // 单集场景兜底（parts为空时补充标题）
+                if (parts.length === 0) {
+                    const singlePartTitle = querySelectorFallback(container, PART_TITLE_SELECTORS);
+                    if (singlePartTitle) {
+                        parts.push(singlePartTitle.textContent.trim());
+                    }
                 }
 
                 const collectionBv = container.dataset.key?.match(BV_REGEX)?.[0] || bvid;
@@ -221,7 +226,7 @@ async function processSinger(config) {
                 songTitle = cleanTitle;
             }
 
-            // 核心修改：校验BV号有效性，无效则link设为null
+            // 校验BV号有效性，无效则link设为null
             let link = null;
             if (BV_REGEX.test(col.collectionBv)) {
                 link = `${BILI_VIDEO_PREFIX}${col.collectionBv}?p=${i+1}`;
