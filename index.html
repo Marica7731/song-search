@@ -197,7 +197,7 @@
             display: none;
             font-weight: 500;
         }
-        /* 歌曲列表样式（核心修改：歌名右侧显示歌手） */
+        /* 歌曲列表样式（新增复制按钮） */
         #song-list { 
             list-style: none; 
             padding: 0; 
@@ -221,11 +221,11 @@
             box-shadow: 0 8px 20px rgba(0,0,0,0.08);
         }
         .song-info { flex: 1; min-width: 220px; }
-        /* 歌名+同行歌手样式 */
+        /* 歌名+同行歌手+复制按钮 */
         .song-title-row {
             display: flex;
             align-items: center;
-            gap: 12px;
+            gap: 10px;
             margin-bottom: 8px;
             flex-wrap: wrap;
         }
@@ -235,23 +235,56 @@
             color: #2c3e50; 
             line-height: 1.4;
         }
-        /* 同行歌手样式：字号更小、颜色更淡 */
         .song-artist-inline {
             font-size: 14px;
             color: #6c757d;
             font-weight: 400;
             white-space: nowrap;
         }
+        /* 【新增】迷你复制按钮样式 */
+        .copy-btn {
+            padding: 4px 10px;
+            background: #f8f9fa;
+            border: 1px solid #e9ecef;
+            border-radius: 6px;
+            color: #6c757d;
+            font-size: 12px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            white-space: nowrap;
+            font-weight: 500;
+        }
+        .copy-btn:hover {
+            background: #00a1d6;
+            border-color: #00a1d6;
+            color: white;
+        }
+        .copy-btn.copied {
+            background: #28a745;
+            border-color: #28a745;
+            color: white;
+        }
         .song-meta { 
             font-size: 14px; 
             color: #6c757d; 
             line-height: 1.5;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            flex-wrap: wrap;
         }
         .song-source {
             font-size: 12px;
             color: #adb5bd;
             margin-top: 6px;
             font-weight: 500;
+        }
+        /* 【新增】右侧按钮组 */
+        .song-actions {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            align-items: flex-end;
         }
         .song-link a { 
             padding: 10px 22px; 
@@ -269,7 +302,29 @@
             transform: translateY(-2px);
             box-shadow: 0 6px 16px rgba(0, 161, 214, 0.4);
         }
-        /* 分页样式（新增跳转指定页功能） */
+        /* 【新增】BBDown按钮样式 */
+        .bbdown-btn {
+            padding: 10px 22px;
+            background: linear-gradient(135deg, #6f42c1 0%, #845ef7 100%);
+            color: white;
+            border: none;
+            border-radius: 25px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            white-space: nowrap;
+            box-shadow: 0 4px 12px rgba(111, 66, 193, 0.3);
+            transition: all 0.3s ease;
+        }
+        .bbdown-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 16px rgba(111, 66, 193, 0.4);
+        }
+        .bbdown-btn.copied {
+            background: linear-gradient(135deg, #28a745 0%, #20c997 100%);
+            box-shadow: 0 4px 12px rgba(40, 167, 69, 0.3);
+        }
+        /* 分页样式 */
         .pagination { 
             display: flex; 
             justify-content: center; 
@@ -400,6 +455,24 @@
         let activeSource = 'all';
         const fileNames = [];
         let FILE_TO_ALIAS = {};
+
+        // 【新增】通用复制到剪贴板函数
+        async function copyToClipboard(text, btnElement) {
+            try {
+                await navigator.clipboard.writeText(text);
+                // 复制成功反馈
+                const originalText = btnElement.textContent;
+                btnElement.textContent = '已复制';
+                btnElement.classList.add('copied');
+                setTimeout(() => {
+                    btnElement.textContent = originalText;
+                    btnElement.classList.remove('copied');
+                }, 1500);
+            } catch (err) {
+                console.error('复制失败:', err);
+                alert('复制失败，请手动复制');
+            }
+        }
 
         function getActiveSearchFields() {
             return {
@@ -548,7 +621,7 @@
             statsMsg.textContent = `总歌曲数：${originalData.length} | 筛选后：${filteredBySource.length} | 搜索结果：${filteredBySearch.length}`;
         }
 
-        // 【核心修改】歌曲列表渲染：歌名右侧显示歌手
+        // 【核心修改】歌曲列表渲染：新增复制按钮和BBDown按钮
         function renderSongList(data) {
             const songListEl = document.getElementById('song-list');
             songListEl.innerHTML = '';
@@ -565,13 +638,31 @@
                     const sourceBase = item.source?.replace('.js', '');
                     const sourceAlias = FILE_TO_ALIAS[sourceBase] || item.source || '未知';
                     const isLinkValid = item.link && /BV\w+/.test(item.link);
+                    
+                    // 歌名复制按钮
+                    const titleCopyBtn = item.title 
+                        ? `<button class="copy-btn" data-type="title">复制</button>` 
+                        : '';
+                    
+                    // 歌手复制按钮（仅在有歌手时显示）
+                    const artistHtml = item.artist 
+                        ? `<span class="song-artist-inline">${item.artist}</span>
+                           <button class="copy-btn" data-type="artist">复制</button>` 
+                        : '';
+                    
+                    // 合集复制按钮
+                    const collectionCopyBtn = item.collection 
+                        ? `<button class="copy-btn" data-type="collection">复制</button>` 
+                        : '';
+
+                    // 右侧按钮组
                     const linkHtml = isLinkValid 
                         ? `<div class="song-link"><a href="${item.link}" target="_blank">直达B站</a></div>` 
                         : '';
                     
-                    // 歌手为空时不显示
-                    const artistHtml = item.artist 
-                        ? `<span class="song-artist-inline">${item.artist}</span>` 
+                    // BBDown按钮（仅在有链接时显示）
+                    const bbdownBtn = isLinkValid 
+                        ? `<button class="bbdown-btn" data-url="${item.link}">复制BBDown</button>` 
                         : '';
 
                     const li = document.createElement('li');
@@ -580,15 +671,45 @@
                         <div class="song-info">
                             <div class="song-title-row">
                                 <div class="song-title">${item.title || '未知歌曲'}</div>
+                                ${titleCopyBtn}
                                 ${artistHtml}
                             </div>
                             <div class="song-meta">
-                                合集：${item.collection || '未知'}
+                                <span>合集：${item.collection || '未知'}</span>
+                                ${collectionCopyBtn}
                             </div>
                             <div class="song-source">来源：${sourceAlias}</div>
                         </div>
-                        ${linkHtml}
+                        <div class="song-actions">
+                            ${linkHtml}
+                            ${bbdownBtn}
+                        </div>
                     `;
+                    
+                    // 绑定复制事件
+                    const titleBtn = li.querySelector('[data-type="title"]');
+                    if (titleBtn) {
+                        titleBtn.onclick = () => copyToClipboard(item.title, titleBtn);
+                    }
+                    
+                    const artistBtn = li.querySelector('[data-type="artist"]');
+                    if (artistBtn) {
+                        artistBtn.onclick = () => copyToClipboard(item.artist, artistBtn);
+                    }
+                    
+                    const collectionBtn = li.querySelector('[data-type="collection"]');
+                    if (collectionBtn) {
+                        collectionBtn.onclick = () => copyToClipboard(item.collection, collectionBtn);
+                    }
+                    
+                    const bbdownBtnEl = li.querySelector('.bbdown-btn');
+                    if (bbdownBtnEl) {
+                        bbdownBtnEl.onclick = () => {
+                            const bbdownCmd = `BBDown ${item.link}`;
+                            copyToClipboard(bbdownCmd, bbdownBtnEl);
+                        };
+                    }
+                    
                     songListEl.appendChild(li);
                 });
             }
@@ -596,7 +717,7 @@
             renderPagination(data.length);
         }
 
-        // 【核心修改】分页渲染：新增指定页跳转
+        // 分页渲染
         function renderPagination(total) {
             const paginationEl = document.getElementById('pagination');
             paginationEl.innerHTML = '';
@@ -684,7 +805,7 @@
             };
             paginationEl.appendChild(nextBtn);
 
-            // 【新增】跳转指定页区域
+            // 跳转指定页区域
             const jumpContainer = document.createElement('div');
             jumpContainer.className = 'page-jump-container';
             jumpContainer.innerHTML = `
@@ -699,27 +820,22 @@
             const jumpInput = jumpContainer.querySelector('.page-jump-input');
             const jumpBtn = jumpContainer.querySelector('#jump-btn');
 
-            // 跳转按钮点击事件
             jumpBtn.onclick = () => {
                 let targetPage = parseInt(jumpInput.value);
-                // 输入校验
                 if (isNaN(targetPage)) targetPage = 1;
                 targetPage = Math.max(1, Math.min(totalPages, targetPage));
-                // 跳转
                 if (targetPage !== currentPage) {
                     currentPage = targetPage;
                     renderSongList(filteredBySearch);
                 }
             };
 
-            // 输入框回车事件
             jumpInput.addEventListener('keydown', (e) => {
                 if (e.key === 'Enter' || e.keyCode === 13) {
                     jumpBtn.click();
                 }
             });
 
-            // 输入框限制非数字输入
             jumpInput.addEventListener('input', () => {
                 jumpInput.value = jumpInput.value.replace(/\D/g, '');
             });
