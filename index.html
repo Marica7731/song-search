@@ -197,7 +197,7 @@
             display: none;
             font-weight: 500;
         }
-        /* 【核心修改】歌曲列表样式 */
+        /* 歌曲列表样式 */
         #song-list { 
             list-style: none; 
             padding: 0; 
@@ -223,65 +223,64 @@
         .song-info { 
             flex: 1; 
             min-width: 220px;
-            position: relative; /* 新增：为复制图标绝对定位做准备 */
         }
-        /* 歌名+歌手+迷你复制图标 */
+        /* 歌名行：歌名+歌手，间距拉大 */
         .song-title-row {
             display: flex;
             align-items: center;
-            gap: 20px; /* 增大间距：拉开歌名和歌手的距离 */
+            gap: 22px; /* 歌名和歌手拉大间距 */
             margin-bottom: 8px;
             flex-wrap: wrap;
+            position: relative;
+        }
+        /* 歌名容器：用于放置右上角复制图标 */
+        .song-title-wrapper {
+            position: relative;
+            display: inline-block;
         }
         .song-title { 
             font-weight: 700; 
             font-size: 17px; 
             color: #2c3e50; 
             line-height: 1.4;
+            padding-right: 20px; /* 给复制图标留空间 */
+        }
+        /* 歌手小标签：小、浅 */
+        .artist-tag {
+            font-size: 11px;
+            color: #c0c4cc;
+            background: #f5f7fa;
+            padding: 1px 4px;
+            border-radius: 3px;
+            margin-right: 6px;
+            font-weight: 400;
         }
         .song-artist-inline {
             font-size: 14px;
             color: #6c757d;
             font-weight: 400;
             white-space: nowrap;
-        }
-        /* 新增：歌手标签样式 */
-        .singer-tag {
-            font-size: 12px;
-            color: #adb5bd; /* 浅灰色 */
-            margin-right: 4px;
-            font-weight: 400;
-        }
-        /* 【修改1】迷你复制图标按钮：调整为右上角定位、更小尺寸 */
-        .copy-btn {
-            padding: 0;
-            margin: 0;
-            background: transparent;
-            border: none;
-            color: #adb5bd;
-            font-size: 0.4em; /* 更小的尺寸 */
-            cursor: pointer;
-            transition: all 0.2s ease;
-            line-height: 1;
-            display: inline-flex;
+            display: flex;
             align-items: center;
-            justify-content: center;
-            /* 新增：绝对定位到右上角 */
+        }
+        /* 复制小图标：右上角、缩小、浅色、不占位 */
+        .copy-btn {
             position: absolute;
             top: 0;
             right: 0;
-            transform: translateY(-50%); /* 垂直居中微调 */
-            z-index: 1;
+            padding: 0;
+            background: transparent;
+            border: none;
+            color: #c0c4cc;
+            font-size: 10px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            line-height: 1;
         }
-        /* 调整复制图标hover效果 */
         .copy-btn:hover {
             color: #00a1d6;
-            transform: translateY(-50%) scale(1.2); /* 保持定位的同时放大 */
+            transform: scale(1.2);
         }
-        /* 区分不同类型的复制图标位置 */
-        .copy-btn.title-copy { top: 0; right: 0; }
-        .copy-btn.artist-copy { top: 0; right: 20px; }
-        .copy-btn.collection-copy { top: 30px; right: 0; }
         .song-meta { 
             font-size: 14px; 
             color: #6c757d; 
@@ -297,7 +296,7 @@
             margin-top: 6px;
             font-weight: 500;
         }
-        /* 右侧按钮组：统一尺寸、精简样式（移除BBDOWN相关） */
+        /* 右侧按钮：仅保留直达B站，移除BBDOWN */
         .song-actions {
             display: flex;
             flex-direction: column;
@@ -324,7 +323,7 @@
             transform: translateY(-1px);
             box-shadow: 0 4px 12px rgba(0, 161, 214, 0.35);
         }
-        /* 【新增】复制成功泡泡提示 */
+        /* 复制成功提示 */
         .copy-toast {
             position: fixed;
             bottom: 30px;
@@ -480,7 +479,7 @@
         const fileNames = [];
         let FILE_TO_ALIAS = {};
 
-        // 【修改】复制成功提示：弹出泡泡
+        // 复制成功提示
         function showCopyToast() {
             const toast = document.getElementById('copy-toast');
             toast.classList.add('show');
@@ -489,11 +488,11 @@
             }, 1500);
         }
 
-        // 通用复制到剪贴板函数
+        // 复制到剪贴板
         async function copyToClipboard(text) {
             try {
                 await navigator.clipboard.writeText(text);
-                showCopyToast(); // 复制成功弹出泡泡
+                showCopyToast();
             } catch (err) {
                 console.error('复制失败:', err);
                 alert('复制失败，请手动复制');
@@ -647,7 +646,7 @@
             statsMsg.textContent = `总歌曲数：${originalData.length} | 筛选后：${filteredBySource.length} | 搜索结果：${filteredBySearch.length}`;
         }
 
-        // 歌曲列表渲染：移除BBDOWN按钮、调整复制图标位置、增加歌手标签
+        // 修复布局：无错位版
         function renderSongList(data) {
             const songListEl = document.getElementById('song-list');
             songListEl.innerHTML = '';
@@ -665,24 +664,14 @@
                     const sourceAlias = FILE_TO_ALIAS[sourceBase] || item.source || '未知';
                     const isLinkValid = item.link && /BV\w+/.test(item.link);
                     
-                    // 歌名复制图标（调整class定位）
-                    const titleCopyBtn = item.title 
-                        ? `<button class="copy-btn title-copy" data-type="title">📋</button>` 
-                        : '';
-                    
-                    // 歌手部分：增加浅色小标签，拉开间距
+                    // 歌手左侧加小tag
                     const artistHtml = item.artist 
-                        ? `<span class="singer-tag">歌手</span>
-                           <span class="song-artist-inline">${item.artist}</span>
-                           <button class="copy-btn artist-copy" data-type="artist">📋</button>` 
-                        : '';
-                    
-                    // 合集复制图标（调整class定位）
-                    const collectionCopyBtn = item.collection 
-                        ? `<button class="copy-btn collection-copy" data-type="collection">📋</button>` 
+                        ? `<span class="song-artist-inline">
+                            <span class="artist-tag">歌手</span>${item.artist}
+                           </span>` 
                         : '';
 
-                    // 右侧按钮组：移除BBDOWN按钮
+                    // 右侧仅保留直达B站
                     const linkHtml = isLinkValid 
                         ? `<div class="song-link"><a href="${item.link}" target="_blank">直达B站</a></div>` 
                         : '';
@@ -691,14 +680,15 @@
                     li.className = 'song-item';
                     li.innerHTML = `
                         <div class="song-info">
-                            ${titleCopyBtn} <!-- 歌名复制图标移到song-info内顶部 -->
                             <div class="song-title-row">
-                                <div class="song-title">${item.title || '未知歌曲'}</div>
+                                <div class="song-title-wrapper">
+                                    <div class="song-title">${item.title || '未知歌曲'}</div>
+                                    <button class="copy-btn" data-type="title">📋</button>
+                                </div>
                                 ${artistHtml}
                             </div>
                             <div class="song-meta">
                                 <span>合集：${item.collection || '未知'}</span>
-                                ${collectionCopyBtn}
                             </div>
                             <div class="song-source">来源：${sourceAlias}</div>
                         </div>
@@ -707,20 +697,10 @@
                         </div>
                     `;
                     
-                    // 绑定复制事件
-                    const titleBtn = li.querySelector('[data-type="title"]');
-                    if (titleBtn) {
-                        titleBtn.onclick = () => copyToClipboard(item.title);
-                    }
-                    
-                    const artistBtn = li.querySelector('[data-type="artist"]');
-                    if (artistBtn) {
-                        artistBtn.onclick = () => copyToClipboard(item.artist);
-                    }
-                    
-                    const collectionBtn = li.querySelector('[data-type="collection"]');
-                    if (collectionBtn) {
-                        collectionBtn.onclick = () => copyToClipboard(item.collection);
+                    // 绑定复制
+                    const copyBtn = li.querySelector('.copy-btn');
+                    if (copyBtn) {
+                        copyBtn.onclick = () => copyToClipboard(item.title);
                     }
                     
                     songListEl.appendChild(li);
@@ -738,7 +718,6 @@
             const totalPages = Math.ceil(total / PAGE_SIZE);
             if (totalPages <= 1) return;
 
-            // 上一页按钮
             const prevBtn = document.createElement('button');
             prevBtn.className = `page-btn ${currentPage === 1 ? 'disabled' : ''}`;
             prevBtn.textContent = '上一页';
@@ -750,7 +729,6 @@
             };
             paginationEl.appendChild(prevBtn);
 
-            // 第一页按钮
             if (currentPage > 3) {
                 const firstBtn = document.createElement('button');
                 firstBtn.className = 'page-btn';
@@ -761,7 +739,6 @@
                 };
                 paginationEl.appendChild(firstBtn);
 
-                // 前面的省略号
                 if (currentPage > 4) {
                     const ellipsis = document.createElement('button');
                     ellipsis.className = 'page-btn ellipsis';
@@ -771,7 +748,6 @@
                 }
             }
 
-            // 页码按钮：当前页前后4页
             const startPage = Math.max(1, currentPage - 4);
             const endPage = Math.min(totalPages, currentPage + 4);
             for (let i = startPage; i <= endPage; i++) {
@@ -785,7 +761,6 @@
                 paginationEl.appendChild(pageBtn);
             }
 
-            // 后面的省略号
             if (currentPage < totalPages - 3) {
                 if (currentPage < totalPages - 4) {
                     const ellipsis = document.createElement('button');
@@ -795,7 +770,6 @@
                     paginationEl.appendChild(ellipsis);
                 }
 
-                // 最后一页按钮
                 const lastBtn = document.createElement('button');
                 lastBtn.className = 'page-btn';
                 lastBtn.textContent = totalPages;
@@ -806,7 +780,6 @@
                 paginationEl.appendChild(lastBtn);
             }
 
-            // 下一页按钮
             const nextBtn = document.createElement('button');
             nextBtn.className = `page-btn ${currentPage === totalPages ? 'disabled' : ''}`;
             nextBtn.textContent = '下一页';
@@ -818,7 +791,6 @@
             };
             paginationEl.appendChild(nextBtn);
 
-            // 跳转指定页区域
             const jumpContainer = document.createElement('div');
             jumpContainer.className = 'page-jump-container';
             jumpContainer.innerHTML = `
@@ -829,7 +801,6 @@
             `;
             paginationEl.appendChild(jumpContainer);
 
-            // 绑定跳转事件
             const jumpInput = jumpContainer.querySelector('.page-jump-input');
             const jumpBtn = jumpContainer.querySelector('#jump-btn');
 
@@ -899,7 +870,7 @@
         async function bootstrap() {
             try {
                 const res = await fetch('data/index.json');
-                if (!res.ok) throw new Error(`加载索引失败（状态码：${res.status}）`);
+                if (!res.ok) throw new Error(`加载索引失败（状态码：${res.status}`);
                 const config = await res.json();
                 fileNames.push(...(config.files || []));
                 FILE_TO_ALIAS = config.fileToAlias || {};
