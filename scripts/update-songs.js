@@ -33,22 +33,21 @@ async function withRetry(fn, maxRetries = 3, delay = 5000) {
     throw lastError;
 }
 
-// ================= 1. 常量配置（核心修改：完全对齐油猴脚本选择器） =================
+// ================= 1. 常量配置（完全对齐油猴脚本 v9.3） =================
 const DELAY_TIME = 1500;
 const BILI_VIDEO_PREFIX = 'https://www.bilibili.com/video/';
-const BV_REGEX = /BV\w+/;
+const BV_REGEX = /BV[0-9a-zA-Z]+/;
 const PLAYLIST_SELECTORS = ['.video-pod__list .pod-item'];
 
-// 【修复1】对齐油猴脚本：去掉 .pod-item 前缀，因为是在容器内部查找
+// 【关键修复1】完全对齐油猴脚本的选择器定义
 const PART_TITLE_SELECTORS = [
     '.page-list .page-item.sub .title-txt', // 分P合集选择器 (在pod-item内部)
     '.title .title-txt'                      // 单集合集选择器 (直接在当前容器内找标题)
 ];
 
-// 【修复2】对齐油猴脚本：增加备用选择器，确保单集合集标题提取
 const COLLECTION_TITLE_SELECTORS = [
     '.head .title .title-txt',               // 分P合集：从当前pod-item内部提取标题
-    '.video-pod__header .header-top .left .title', // 备用布局（单集合集全局标题）
+    '.video-pod__header .header-top .left .title', // 备用布局
     '.title .title-txt'                       // 单集合集：直接把当前视频标题当作合集名
 ];
 
@@ -73,7 +72,7 @@ const SINGER_CONFIGS = [
 const DATA_DIR = path.join(__dirname, '..', 'data');
 const BILI_VIDEO_URL = (bvid) => `https://www.bilibili.com/video/${bvid}`;
 
-// ================= 3. 核心：Puppeteer加载页面（逻辑完全复刻油猴） =================
+// ================= 3. 核心：Puppeteer加载页面（100%复刻油猴 getRawData 逻辑） =================
 async function loadVideoPageWithBrowser(bvid) {
     const url = BILI_VIDEO_URL(bvid);
     let browser;
@@ -88,8 +87,7 @@ async function loadVideoPageWithBrowser(bvid) {
                 '--disable-blink-features=AutomationControlled',
                 '--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
                 '--disable-gpu',
-                '--window-size=1920,1080',
-                '--headless=new'
+                '--window-size=1920,1080'
             ],
             executablePath: process.env.PUPPETEER_EXECUTABLE_PATH || '/usr/bin/google-chrome'
         });
@@ -111,13 +109,16 @@ async function loadVideoPageWithBrowser(bvid) {
 
         await new Promise(resolve => setTimeout(resolve, DELAY_TIME));
 
+        // 【关键修复2】完全复刻油猴脚本的 getRawData 函数逻辑，一行一行对齐
         const rawData = await page.evaluate((
             PLAYLIST_SELECTORS, 
             PART_TITLE_SELECTORS, 
-            COLLECTION_TITLE_SELECTORS, 
-            BV_REGEX, 
-            bvid
+            COLLECTION_TITLE_SELECTORS,
+            inputBvid
         ) => {
+            // 浏览器内重新定义正则
+            const BV_REGEX = /BV[0-9a-zA-Z]+/;
+
             // 通用选择器函数：完全复刻油猴脚本
             function querySelectorFallback(container, selectors) {
                 for (const selector of selectors) {
@@ -145,21 +146,13 @@ async function loadVideoPageWithBrowser(bvid) {
                 return null;
             }
 
-            // 优先提取全局合集标题（单集合集场景）
-            let globalCollectionTitle = '';
-            const collectionTitleNode = querySelectorFallback(document, COLLECTION_TITLE_SELECTORS);
-            if (collectionTitleNode) {
-                globalCollectionTitle = collectionTitleNode.textContent.trim();
-            }
-
+            // 【关键修复3】移除有问题的“全局标题优先”逻辑，改为对每个容器独立处理
             return Array.from(containers).map((container, idx) => {
-                // 优先用全局标题，再容器内，最后默认
-                let colTitle = globalCollectionTitle;
-                if (!colTitle) {
-                    const colTitleNode = querySelectorFallback(container, COLLECTION_TITLE_SELECTORS);
-                    colTitle = colTitleNode?.textContent.trim() || `合集${idx+1}`;
-                }
+                // 1. 提取合集标题（完全对齐油猴：只在当前容器内查找，找不到用默认值）
+                const colTitleNode = querySelectorFallback(container, COLLECTION_TITLE_SELECTORS);
+                const colTitle = colTitleNode?.textContent.trim() || `合集${idx+1}`;
 
+                // 2. 提取UP主
                 let upName = "未知UP主";
                 const upMatch = colTitle.match(/\[([^\]]+?\s*Ch\.[^\]]+)\]/);
                 if (upMatch) {
@@ -169,19 +162,31 @@ async function loadVideoPageWithBrowser(bvid) {
                     if (upEle) upName = upEle.textContent.trim();
                 }
 
-                // 用fallback函数提取分P/单集标题
-                const partNodes = querySelectorAllFallback(container, PART_TITLE_SELECTORS);
-                const parts = Array.from(partNodes).map(node => node.textContent.trim());
+                // 3. 提取分P列表（完全对齐油猴逻辑）
+                // 优先找真正的分P
+                let partNodes = querySelectorAllFallback(container, [PART_TITLE_SELECTORS[0]]);
+                let parts = Array.from(partNodes).map(node => node.textContent.trim());
 
-                // 单集场景兜底（parts为空时补充标题）
+                // 如果是单集（没有找到分P列表），则直接提取当前标题作为唯一的一集
                 if (parts.length === 0) {
-                    const singlePartTitle = querySelectorFallback(container, PART_TITLE_SELECTORS);
-                    if (singlePartTitle) {
-                        parts.push(singlePartTitle.textContent.trim());
-                    }
+                     const singleTitleNode = querySelectorFallback(container, [PART_TITLE_SELECTORS[1]]);
+                     if (singleTitleNode) {
+                         parts.push(singleTitleNode.textContent.trim());
+                     } else if (colTitleNode) {
+                         // 兜底
+                         parts.push(colTitle);
+                     }
                 }
 
-                const collectionBv = container.dataset.key?.match(BV_REGEX)?.[0] || bvid;
+                // 4. 提取BV号（优先data-key，失败用传入的inputBvid）
+                let collectionBv = inputBvid;
+                const dataKey = container.dataset.key;
+                if (dataKey) {
+                    const matchResult = dataKey.match(BV_REGEX);
+                    if (matchResult && matchResult[0]) {
+                        collectionBv = matchResult[0];
+                    }
+                }
 
                 return {
                     collectionBv: collectionBv,
@@ -190,7 +195,7 @@ async function loadVideoPageWithBrowser(bvid) {
                     parts: parts
                 };
             });
-        }, PLAYLIST_SELECTORS, PART_TITLE_SELECTORS, COLLECTION_TITLE_SELECTORS, BV_REGEX, bvid);
+        }, PLAYLIST_SELECTORS, PART_TITLE_SELECTORS, COLLECTION_TITLE_SELECTORS, bvid);
 
         await browser.close();
         return rawData;
@@ -226,12 +231,12 @@ async function processSinger(config) {
                 songTitle = cleanTitle;
             }
 
-            // 校验BV号有效性，无效则link设为null
+            // 校验BV号有效性
             let link = null;
             if (BV_REGEX.test(col.collectionBv)) {
                 link = `${BILI_VIDEO_PREFIX}${col.collectionBv}?p=${i+1}`;
             } else {
-                console.warn(`⚠️  无效BV号：${col.collectionBv}（${alias} - ${p}），跳过生成跳转链接`);
+                console.warn(`⚠️  无效BV号：【${col.collectionBv}】（${alias} - ${p}），跳过生成跳转链接`);
             }
 
             songs.push({
@@ -239,7 +244,7 @@ async function processSinger(config) {
                 artist: artist,
                 collection: col.collectionTitle,
                 up: col.up,
-                link: link, // 有效=完整链接，无效=null
+                link: link,
                 source: `${file}.js`
             });
         });
