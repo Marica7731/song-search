@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>歌曲查询站 - B站分P直达</title>
     <style>
-        /* 【全局样式优化】更现代的配色和间距 */
+        /* 全局样式 */
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body { 
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "PingFang SC", "Microsoft YaHei", sans-serif; 
@@ -46,7 +46,7 @@
             gap: 18px;
             margin-bottom: 25px;
         }
-        /* 【筛选栏样式优化】更柔和的配色 */
+        /* 筛选栏样式 */
         .filter-bar {
             display: flex;
             gap: 10px;
@@ -96,7 +96,7 @@
             transform: translateY(-1px);
             box-shadow: 0 6px 16px rgba(220, 53, 69, 0.4);
         }
-        /* 【搜索字段选择区域样式优化】 */
+        /* 搜索字段选择区域 */
         .search-field-bar {
             display: flex;
             gap: 20px;
@@ -133,7 +133,7 @@
             cursor: pointer;
             accent-color: #00a1d6;
         }
-        /* 【搜索框样式优化】更现代的设计 */
+        /* 搜索框样式 */
         .search-container { 
             display: flex; 
             gap: 12px; 
@@ -172,7 +172,7 @@
             transform: translateY(-2px);
             box-shadow: 0 6px 20px rgba(0, 161, 214, 0.4);
         }
-        /* 【统计信息样式优化】 */
+        /* 统计信息 */
         .stats-msg {
             text-align: right;
             font-size: 13px;
@@ -180,7 +180,7 @@
             margin-bottom: 15px;
             font-weight: 500;
         }
-        /* 【进度/提示信息样式优化】 */
+        /* 进度/提示信息 */
         .progress-msg { 
             text-align: center; 
             color: #495057; 
@@ -197,7 +197,7 @@
             display: none;
             font-weight: 500;
         }
-        /* 【歌曲列表样式优化】卡片式设计 */
+        /* 歌曲列表样式（核心修改：歌名右侧显示歌手） */
         #song-list { 
             list-style: none; 
             padding: 0; 
@@ -221,11 +221,26 @@
             box-shadow: 0 8px 20px rgba(0,0,0,0.08);
         }
         .song-info { flex: 1; min-width: 220px; }
+        /* 歌名+同行歌手样式 */
+        .song-title-row {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 8px;
+            flex-wrap: wrap;
+        }
         .song-title { 
             font-weight: 700; 
             font-size: 17px; 
             color: #2c3e50; 
-            margin-bottom: 8px; 
+            line-height: 1.4;
+        }
+        /* 同行歌手样式：字号更小、颜色更淡 */
+        .song-artist-inline {
+            font-size: 14px;
+            color: #6c757d;
+            font-weight: 400;
+            white-space: nowrap;
         }
         .song-meta { 
             font-size: 14px; 
@@ -254,7 +269,7 @@
             transform: translateY(-2px);
             box-shadow: 0 6px 16px rgba(0, 161, 214, 0.4);
         }
-        /* 【分页样式完全重写】更完整的分页逻辑 */
+        /* 分页样式（新增跳转指定页功能） */
         .pagination { 
             display: flex; 
             justify-content: center; 
@@ -278,7 +293,7 @@
             transition: all 0.2s ease;
             box-shadow: 0 2px 6px rgba(0,0,0,0.04);
         }
-        .page-btn:hover:not(.disabled):not(.active) { 
+        .page-btn:hover:not(.disabled):not(.active):not(.ellipsis) { 
             background: #f8f9fa;
             border-color: #00a1d6;
             color: #00a1d6;
@@ -306,6 +321,33 @@
         .page-btn.ellipsis:hover {
             background: transparent;
             color: #495057;
+        }
+        /* 跳转指定页样式 */
+        .page-jump-container {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-left: 15px;
+        }
+        .page-jump-input {
+            width: 60px;
+            padding: 10px 8px;
+            border: 1px solid #e9ecef;
+            border-radius: 8px;
+            text-align: center;
+            font-size: 14px;
+            outline: none;
+            transition: all 0.2s ease;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.04);
+        }
+        .page-jump-input:focus {
+            border-color: #00a1d6;
+            box-shadow: 0 0 0 3px rgba(0, 161, 214, 0.1);
+        }
+        .page-jump-text {
+            font-size: 14px;
+            color: #6c757d;
+            font-weight: 500;
         }
     </style>
 </head>
@@ -506,6 +548,7 @@
             statsMsg.textContent = `总歌曲数：${originalData.length} | 筛选后：${filteredBySource.length} | 搜索结果：${filteredBySearch.length}`;
         }
 
+        // 【核心修改】歌曲列表渲染：歌名右侧显示歌手
         function renderSongList(data) {
             const songListEl = document.getElementById('song-list');
             songListEl.innerHTML = '';
@@ -526,13 +569,20 @@
                         ? `<div class="song-link"><a href="${item.link}" target="_blank">直达B站</a></div>` 
                         : '';
                     
+                    // 歌手为空时不显示
+                    const artistHtml = item.artist 
+                        ? `<span class="song-artist-inline">${item.artist}</span>` 
+                        : '';
+
                     const li = document.createElement('li');
                     li.className = 'song-item';
                     li.innerHTML = `
                         <div class="song-info">
-                            <div class="song-title">${item.title || '未知歌曲'}</div>
+                            <div class="song-title-row">
+                                <div class="song-title">${item.title || '未知歌曲'}</div>
+                                ${artistHtml}
+                            </div>
                             <div class="song-meta">
-                                歌手：${item.artist || '未知'} / 
                                 合集：${item.collection || '未知'}
                             </div>
                             <div class="song-source">来源：${sourceAlias}</div>
@@ -546,7 +596,7 @@
             renderPagination(data.length);
         }
 
-        // 【分页逻辑完全重写】显示首尾页、当前页前后更多页码、省略号
+        // 【核心修改】分页渲染：新增指定页跳转
         function renderPagination(total) {
             const paginationEl = document.getElementById('pagination');
             paginationEl.innerHTML = '';
@@ -566,7 +616,7 @@
             };
             paginationEl.appendChild(prevBtn);
 
-            // 【新增】第一页按钮
+            // 第一页按钮
             if (currentPage > 3) {
                 const firstBtn = document.createElement('button');
                 firstBtn.className = 'page-btn';
@@ -577,7 +627,7 @@
                 };
                 paginationEl.appendChild(firstBtn);
 
-                // 【新增】前面的省略号
+                // 前面的省略号
                 if (currentPage > 4) {
                     const ellipsis = document.createElement('button');
                     ellipsis.className = 'page-btn ellipsis';
@@ -587,7 +637,7 @@
                 }
             }
 
-            // 页码按钮：显示当前页前后4页（共9页）
+            // 页码按钮：当前页前后4页
             const startPage = Math.max(1, currentPage - 4);
             const endPage = Math.min(totalPages, currentPage + 4);
             for (let i = startPage; i <= endPage; i++) {
@@ -601,7 +651,7 @@
                 paginationEl.appendChild(pageBtn);
             }
 
-            // 【新增】后面的省略号
+            // 后面的省略号
             if (currentPage < totalPages - 3) {
                 if (currentPage < totalPages - 4) {
                     const ellipsis = document.createElement('button');
@@ -611,7 +661,7 @@
                     paginationEl.appendChild(ellipsis);
                 }
 
-                // 【新增】最后一页按钮
+                // 最后一页按钮
                 const lastBtn = document.createElement('button');
                 lastBtn.className = 'page-btn';
                 lastBtn.textContent = totalPages;
@@ -633,6 +683,46 @@
                 }
             };
             paginationEl.appendChild(nextBtn);
+
+            // 【新增】跳转指定页区域
+            const jumpContainer = document.createElement('div');
+            jumpContainer.className = 'page-jump-container';
+            jumpContainer.innerHTML = `
+                <span class="page-jump-text">共 ${totalPages} 页，跳至</span>
+                <input type="number" class="page-jump-input" min="1" max="${totalPages}" value="${currentPage}">
+                <span class="page-jump-text">页</span>
+                <button class="page-btn" id="jump-btn">跳转</button>
+            `;
+            paginationEl.appendChild(jumpContainer);
+
+            // 绑定跳转事件
+            const jumpInput = jumpContainer.querySelector('.page-jump-input');
+            const jumpBtn = jumpContainer.querySelector('#jump-btn');
+
+            // 跳转按钮点击事件
+            jumpBtn.onclick = () => {
+                let targetPage = parseInt(jumpInput.value);
+                // 输入校验
+                if (isNaN(targetPage)) targetPage = 1;
+                targetPage = Math.max(1, Math.min(totalPages, targetPage));
+                // 跳转
+                if (targetPage !== currentPage) {
+                    currentPage = targetPage;
+                    renderSongList(filteredBySearch);
+                }
+            };
+
+            // 输入框回车事件
+            jumpInput.addEventListener('keydown', (e) => {
+                if (e.key === 'Enter' || e.keyCode === 13) {
+                    jumpBtn.click();
+                }
+            });
+
+            // 输入框限制非数字输入
+            jumpInput.addEventListener('input', () => {
+                jumpInput.value = jumpInput.value.replace(/\D/g, '');
+            });
         }
 
         function initSearchFieldCheckboxes() {
