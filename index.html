@@ -348,11 +348,12 @@
             display: flex;
             flex-direction: column;
             gap: 8px;
-            align-items: stretch;
+            align-items: flex-end; /* 改为右对齐，方便放圆形小按钮 */
             min-width: 90px;
         }
         .song-link {
             position: relative; /* 为B站链接复制图标定位 */
+            width: 100%;
         }
         .song-link a { 
             padding: 8px 0;
@@ -374,25 +375,27 @@
             transform: translateY(-1px);
             box-shadow: 0 4px 12px rgba(0, 161, 214, 0.35);
         }
-        /* 【新增】编辑页面按钮样式：仅图标、橙色主题 */
+        /* 【核心修改】迷你圆形编辑按钮 */
         .edit-link {
-            padding: 8px 0;
-            width: 100%;
-            text-align: center;
+            width: 24px;
+            height: 24px;
+            border-radius: 50%;
             background: linear-gradient(135deg, #ff7a18 0%, #ff9f43 100%);
             color: white;
             text-decoration: none;
-            border-radius: 8px;
-            font-size: 13px;
+            font-size: 12px;
             font-weight: 600;
             white-space: nowrap;
-            box-shadow: 0 2px 8px rgba(255, 122, 24, 0.25);
+            box-shadow: 0 2px 6px rgba(255, 122, 24, 0.3);
             transition: all 0.3s ease;
-            display: block;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            line-height: 1;
         }
         .edit-link:hover {
-            transform: translateY(-1px);
-            box-shadow: 0 4px 12px rgba(255, 122, 24, 0.35);
+            transform: scale(1.1);
+            box-shadow: 0 4px 10px rgba(255, 122, 24, 0.4);
         }
         /* 复制成功提示 */
         .copy-toast {
@@ -604,7 +607,7 @@
             await copyToClipboard(text);
         }
 
-        // 【新增】从链接中提取BV号的函数
+        // 从链接中提取BV号的函数
         function extractBvid(link) {
             if (!link) return null;
             const match = link.match(/BV[a-zA-Z0-9]+/);
@@ -761,7 +764,7 @@
             statsMsg.textContent = `总歌曲数：${originalData.length} | 筛选后：${filteredBySource.length} | 搜索结果：${filteredBySearch.length}`;
         }
 
-        // 【核心修改】渲染函数：添加编辑页面小图标按钮
+        // 渲染函数：迷你圆形编辑按钮
         function renderSongList(data) {
             const songListEl = document.getElementById('song-list');
             songListEl.innerHTML = '';
@@ -810,7 +813,7 @@
                           </div>` 
                         : '';
 
-                    // 【新增】编辑页面按钮：仅图标、橙色主题、仅在有BV号时显示
+                    // 迷你圆形编辑按钮：仅在有BV号时显示
                     const editHtml = bvid 
                         ? `<a href="https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=${bvid}" target="_blank" class="edit-link">✏️</a>`
                         : '';
