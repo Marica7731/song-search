@@ -1,6 +1,6 @@
 // Figaro - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1HRfuBCEXN
-// 生成时间: 2/22/2026, 4:08:37 AM
+// 生成时间: 2/22/2026, 5:44:59 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3998,7 +3998,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "WXY",
+  "title": "W／X／Y",
   "artist": "Tani Yuuki",
   "collection": "【Figaro #179 16 ただ君に晴れ、青のすみか、深昏睡、me me she",
   "up": "前尘往事如昔故",
@@ -17190,7 +17190,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "WXY",
+  "title": "W／X／Y",
   "artist": "Tani Yuuki",
   "collection": "【#歌枠/#KARAOKE】七夕之夜寄托愿望🌙安眠 Singing Stream 【 Figaro Vtuber 】",
   "up": "前尘往事如昔故",
@@ -22806,7 +22806,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "WXY",
+  "title": "W／X／Y",
   "artist": "Tani Yuuki",
   "collection": "【Figaro】#247 日曜の夜、眠れないあなたへ。透き通る声で届ける睡眠導入ライブ",
   "up": "前尘往事如昔故",

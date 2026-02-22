@@ -1,6 +1,6 @@
 // むんもっしゅ - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1UCkhBkEon
-// 生成时间: 2/22/2026, 4:13:04 AM
+// 生成时间: 2/22/2026, 5:49:02 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -862,7 +862,7 @@ window.SONG_DATA.push(
   "source": "MunMosh.js"
 },
     {
-  "title": "WXY",
+  "title": "W／X／Y",
   "artist": "Tani Yuuki",
   "collection": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
