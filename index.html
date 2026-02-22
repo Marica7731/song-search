@@ -343,7 +343,7 @@
             margin-top: 6px;
             font-weight: 500;
         }
-        /* 右侧按钮：仅保留直达B站 */
+        /* 右侧按钮组 */
         .song-actions {
             display: flex;
             flex-direction: column;
@@ -373,6 +373,26 @@
         .song-link a:hover { 
             transform: translateY(-1px);
             box-shadow: 0 4px 12px rgba(0, 161, 214, 0.35);
+        }
+        /* 【新增】编辑页面按钮样式：仅图标、橙色主题 */
+        .edit-link {
+            padding: 8px 0;
+            width: 100%;
+            text-align: center;
+            background: linear-gradient(135deg, #ff7a18 0%, #ff9f43 100%);
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-size: 13px;
+            font-weight: 600;
+            white-space: nowrap;
+            box-shadow: 0 2px 8px rgba(255, 122, 24, 0.25);
+            transition: all 0.3s ease;
+            display: block;
+        }
+        .edit-link:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 4px 12px rgba(255, 122, 24, 0.35);
         }
         /* 复制成功提示 */
         .copy-toast {
@@ -555,17 +575,14 @@
             }
         }
 
-        // ========== 关键修改1：新增判断有效歌手的函数 ==========
+        // 判断有效歌手的函数
         function isValidArtist(artist) {
-            // 无效歌手的判断条件：
-            // 1. 为空/undefined/null/空字符串
-            // 2. 包含"来源处未提供标准格式歌手"提示文字
             if (!artist || artist.trim() === '') return false;
             if (artist.includes('来源处未提供标准格式歌手')) return false;
             return true;
         }
 
-        // 生成搜索结果文本（核心修改：使用isValidArtist判断）
+        // 生成搜索结果文本
         function generateSearchResultText() {
             if (filteredBySearch.length === 0) return '';
             
@@ -573,7 +590,6 @@
                 const title = item.title || '未知歌曲';
                 const artist = item.artist?.trim();
                 const link = item.link || '无链接';
-                // 仅当歌手有效时才保留「- 歌手」
                 return isValidArtist(artist) ? `${title} - ${artist}（${link}）` : `${title}（${link}）`;
             }).join('\n');
         }
@@ -586,6 +602,13 @@
                 return;
             }
             await copyToClipboard(text);
+        }
+
+        // 【新增】从链接中提取BV号的函数
+        function extractBvid(link) {
+            if (!link) return null;
+            const match = link.match(/BV[a-zA-Z0-9]+/);
+            return match ? match[0] : null;
         }
 
         function getActiveSearchFields() {
@@ -727,7 +750,6 @@
             }
 
             updateStats();
-            // 更新复制全部按钮状态
             const copyAllBtn = document.getElementById('copy-all-btn');
             copyAllBtn.disabled = filteredBySearch.length === 0;
             
@@ -739,7 +761,7 @@
             statsMsg.textContent = `总歌曲数：${originalData.length} | 筛选后：${filteredBySource.length} | 搜索结果：${filteredBySearch.length}`;
         }
 
-        // 完整带所有复制按钮的渲染函数
+        // 【核心修改】渲染函数：添加编辑页面小图标按钮
         function renderSongList(data) {
             const songListEl = document.getElementById('song-list');
             songListEl.innerHTML = '';
@@ -756,6 +778,7 @@
                     const sourceBase = item.source?.replace('.js', '');
                     const sourceAlias = FILE_TO_ALIAS[sourceBase] || item.source || '未知';
                     const isLinkValid = item.link && /BV\w+/.test(item.link);
+                    const bvid = extractBvid(item.link);
                     
                     // 歌名+复制按钮
                     const titleHtml = `<div class="copy-wrapper">
@@ -763,7 +786,6 @@
                         <button class="copy-btn" data-type="title">📋</button>
                     </div>`;
                     
-                    // ========== 关键修改2：仅当歌手有效时才渲染歌手区域 ==========
                     // 歌手+复制按钮（仅有效歌手才显示）
                     const artistHtml = isValidArtist(item.artist) 
                         ? `<div class="copy-wrapper">
@@ -788,6 +810,11 @@
                           </div>` 
                         : '';
 
+                    // 【新增】编辑页面按钮：仅图标、橙色主题、仅在有BV号时显示
+                    const editHtml = bvid 
+                        ? `<a href="https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=${bvid}" target="_blank" class="edit-link">✏️</a>`
+                        : '';
+
                     // 组装li元素
                     const li = document.createElement('li');
                     li.className = 'song-item';
@@ -804,29 +831,26 @@
                         </div>
                         <div class="song-actions">
                             ${linkHtml}
+                            ${editHtml}
                         </div>
                     `;
                     
                     // 绑定所有复制事件
-                    // 复制歌名
                     const titleCopyBtn = li.querySelector('[data-type="title"]');
                     if (titleCopyBtn) {
                         titleCopyBtn.onclick = () => copyToClipboard(item.title || '未知歌曲');
                     }
                     
-                    // 复制歌手（仅当按钮存在时绑定）
                     const artistCopyBtn = li.querySelector('[data-type="artist"]');
                     if (artistCopyBtn) {
                         artistCopyBtn.onclick = () => copyToClipboard(item.artist);
                     }
                     
-                    // 复制合集
                     const collectionCopyBtn = li.querySelector('[data-type="collection"]');
                     if (collectionCopyBtn) {
                         collectionCopyBtn.onclick = () => copyToClipboard(item.collection || '未知');
                     }
                     
-                    // 复制B站链接
                     const linkCopyBtn = li.querySelector('[data-type="link"]');
                     if (linkCopyBtn) {
                         linkCopyBtn.onclick = () => copyToClipboard(item.link);
@@ -1018,7 +1042,6 @@
                 generateFilterButtons();
                 initSearchFieldCheckboxes();
                 initSearch();
-                // 绑定复制全部按钮事件
                 document.getElementById('copy-all-btn').addEventListener('click', copyAllSearchResults);
                 
                 updateStats();
