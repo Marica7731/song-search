@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1G6fLB7Efr
-// 生成时间: 2/22/2026, 5:44:39 AM
+// 生成时间: 2/22/2026, 6:32:56 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4115,6 +4115,14 @@ window.SONG_DATA.push(
   "collection": "【なれたん歌切🌷】[2026-02-21]土曜日の深夜歌枠🥱【Vsinger⧸なれたん】[bGD_OXxoyTg]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zcfHBMEzU?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "エルの絵本 【笛吹き男とパレード】",
+  "artist": "Sound Horizon cover by なれたん",
+  "collection": "エルの絵本 【笛吹き男とパレード】 - Sound Horizon cover by なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DfZfBFEDN?p=1",
   "source": "naraetan.js"
 }
 );

@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1cofuBGEkX
-// 生成时间: 2/22/2026, 5:45:27 AM
+// 生成时间: 2/22/2026, 6:33:32 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -13438,19 +13438,11 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "サイレントマジョリティー",
-  "artist": "欅坂46_sub",
-  "collection": "深夜のリクエスト歌枠 ✧ Night Singing [2026-02-19][A9tCz3_I9rs]【🐍凛々咲 Ririsya 歌切】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1cofuBGEkX?p=1",
-  "source": "ririsya.js"
-},
-    {
   "title": "本能",
   "artist": "椎名林檎",
   "collection": "深夜のリクエスト歌枠 ✧ Night Singing [2026-02-19][A9tCz3_I9rs]【🐍凛々咲 Ririsya 歌切】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1cofuBGEkX?p=2",
+  "link": "https://www.bilibili.com/video/BV1cofuBGEkX?p=1",
   "source": "ririsya.js"
 },
     {
@@ -13458,12 +13450,20 @@ window.SONG_DATA.push(
   "artist": "My Hair is Bad",
   "collection": "深夜のリクエスト歌枠 ✧ Night Singing [2026-02-19][A9tCz3_I9rs]【🐍凛々咲 Ririsya 歌切】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1cofuBGEkX?p=3",
+  "link": "https://www.bilibili.com/video/BV1cofuBGEkX?p=2",
   "source": "ririsya.js"
 },
     {
   "title": "ファンサ",
   "artist": "mona(夏川椎菜)",
+  "collection": "深夜のリクエスト歌枠 ✧ Night Singing [2026-02-19][A9tCz3_I9rs]【🐍凛々咲 Ririsya 歌切】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cofuBGEkX?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "サイレントマジョリティー",
+  "artist": "欅坂46_sub",
   "collection": "深夜のリクエスト歌枠 ✧ Night Singing [2026-02-19][A9tCz3_I9rs]【🐍凛々咲 Ririsya 歌切】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cofuBGEkX?p=4",
