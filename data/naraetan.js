@@ -1,10 +1,178 @@
 // なれたん Naraetan - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1G6fLB7Efr
-// 生成时间: 2/22/2026, 2:18:57 PM
+// 生成时间: 2/22/2026, 3:17:02 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
+    {
+  "title": "やさしさに包まれたなら",
+  "artist": "荒井由実",
+  "collection": "[25.12会限]阿卡贝拉歌回🧣【メン限】アカペラで歌うよ🧣[EjeoPyYPK3c]【なれたん歌切🌷】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1f2fAB9ECb?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "修羅",
+  "artist": "ヨルシカ",
+  "collection": "[25.12会限]阿卡贝拉歌回🧣【メン限】アカペラで歌うよ🧣[EjeoPyYPK3c]【なれたん歌切🌷】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1f2fAB9ECb?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "[25.12会限]阿卡贝拉歌回🧣【メン限】アカペラで歌うよ🧣[EjeoPyYPK3c]【なれたん歌切🌷】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1f2fAB9ECb?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ピアノ泥棒",
+  "artist": "amazarashi",
+  "collection": "[25.12会限]阿卡贝拉歌回🧣【メン限】アカペラで歌うよ🧣[EjeoPyYPK3c]【なれたん歌切🌷】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1f2fAB9ECb?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "シンデレラボーイ",
+  "artist": "Saucy Dog",
+  "collection": "[25.12会限]阿卡贝拉歌回🧣【メン限】アカペラで歌うよ🧣[EjeoPyYPK3c]【なれたん歌切🌷】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1f2fAB9ECb?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "フィナーレ。",
+  "artist": "eill",
+  "collection": "[25.12会限]阿卡贝拉歌回🧣【メン限】アカペラで歌うよ🧣[EjeoPyYPK3c]【なれたん歌切🌷】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1f2fAB9ECb?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "115万キロのフィルム",
+  "artist": "Official 髭男dism",
+  "collection": "[25.12会限]阿卡贝拉歌回🧣【メン限】アカペラで歌うよ🧣[EjeoPyYPK3c]【なれたん歌切🌷】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1f2fAB9ECb?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ゆっくり",
+  "artist": "三重野瞳",
+  "collection": "[25.12会限]阿卡贝拉歌回🧣【メン限】アカペラで歌うよ🧣[EjeoPyYPK3c]【なれたん歌切🌷】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1f2fAB9ECb?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "光の方へ",
+  "artist": "KOKIA",
+  "collection": "[25.12会限]阿卡贝拉歌回🧣【メン限】アカペラで歌うよ🧣[EjeoPyYPK3c]【なれたん歌切🌷】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1f2fAB9ECb?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師,宇多田ヒカル",
+  "collection": "[25.12会限]阿卡贝拉歌回🧣【メン限】アカペラで歌うよ🧣[EjeoPyYPK3c]【なれたん歌切🌷】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1f2fAB9ECb?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "世界に一つだけの花",
+  "artist": "SMAP",
+  "collection": "[26.02会限] 阿卡贝拉限定歌回【メン限】アカペラで歌うよ[なれたん 歌切🌷]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yafgB7EGf?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "RAIN",
+  "artist": "SEKAI NO OWARI",
+  "collection": "[26.02会限] 阿卡贝拉限定歌回【メン限】アカペラで歌うよ[なれたん 歌切🌷]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yafgB7EGf?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "すずめ",
+  "artist": "RADWIMPS feat.十明",
+  "collection": "[26.02会限] 阿卡贝拉限定歌回【メン限】アカペラで歌うよ[なれたん 歌切🌷]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yafgB7EGf?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "[26.02会限] 阿卡贝拉限定歌回【メン限】アカペラで歌うよ[なれたん 歌切🌷]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yafgB7EGf?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "天ノ弱",
+  "artist": "164",
+  "collection": "[26.02会限] 阿卡贝拉限定歌回【メン限】アカペラで歌うよ[なれたん 歌切🌷]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yafgB7EGf?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "[26.02会限] 阿卡贝拉限定歌回【メン限】アカペラで歌うよ[なれたん 歌切🌷]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yafgB7EGf?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "逆夢",
+  "artist": "King Gnu",
+  "collection": "[26.02会限] 阿卡贝拉限定歌回【メン限】アカペラで歌うよ[なれたん 歌切🌷]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yafgB7EGf?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "恋文",
+  "artist": "HoneyWorks",
+  "collection": "[26.02会限] 阿卡贝拉限定歌回【メン限】アカペラで歌うよ[なれたん 歌切🌷]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yafgB7EGf?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO×米津玄師",
+  "collection": "[26.02会限] 阿卡贝拉限定歌回【メン限】アカペラで歌うよ[なれたん 歌切🌷]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yafgB7EGf?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "[26.02会限] 阿卡贝拉限定歌回【メン限】アカペラで歌うよ[なれたん 歌切🌷]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yafgB7EGf?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Way Back Home",
+  "artist": "SHAUN",
+  "collection": "[26.02会限] 阿卡贝拉限定歌回【メン限】アカペラで歌うよ[なれたん 歌切🌷]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yafgB7EGf?p=11",
+  "source": "naraetan.js"
+},
     {
   "title": "愛をとりもどせ!!",
   "artist": "クリスタルキング",
@@ -3934,94 +4102,6 @@ window.SONG_DATA.push(
   "source": "naraetan.js"
 },
     {
-  "title": "世界に一つだけの花",
-  "artist": "SMAP",
-  "collection": "[会限] 阿卡贝拉限定歌回【メン限】アカペラで歌うよ[なれたん 歌切🌷]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1yafgB7EGf?p=1",
-  "source": "naraetan.js"
-},
-    {
-  "title": "RAIN",
-  "artist": "SEKAI NO OWARI",
-  "collection": "[会限] 阿卡贝拉限定歌回【メン限】アカペラで歌うよ[なれたん 歌切🌷]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1yafgB7EGf?p=2",
-  "source": "naraetan.js"
-},
-    {
-  "title": "すずめ",
-  "artist": "RADWIMPS feat.十明",
-  "collection": "[会限] 阿卡贝拉限定歌回【メン限】アカペラで歌うよ[なれたん 歌切🌷]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1yafgB7EGf?p=3",
-  "source": "naraetan.js"
-},
-    {
-  "title": "lulu.",
-  "artist": "Mrs. GREEN APPLE",
-  "collection": "[会限] 阿卡贝拉限定歌回【メン限】アカペラで歌うよ[なれたん 歌切🌷]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1yafgB7EGf?p=4",
-  "source": "naraetan.js"
-},
-    {
-  "title": "天ノ弱",
-  "artist": "164",
-  "collection": "[会限] 阿卡贝拉限定歌回【メン限】アカペラで歌うよ[なれたん 歌切🌷]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1yafgB7EGf?p=5",
-  "source": "naraetan.js"
-},
-    {
-  "title": "ray",
-  "artist": "BUMP OF CHICKEN",
-  "collection": "[会限] 阿卡贝拉限定歌回【メン限】アカペラで歌うよ[なれたん 歌切🌷]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1yafgB7EGf?p=6",
-  "source": "naraetan.js"
-},
-    {
-  "title": "逆夢",
-  "artist": "King Gnu",
-  "collection": "[会限] 阿卡贝拉限定歌回【メン限】アカペラで歌うよ[なれたん 歌切🌷]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1yafgB7EGf?p=7",
-  "source": "naraetan.js"
-},
-    {
-  "title": "恋文",
-  "artist": "HoneyWorks",
-  "collection": "[会限] 阿卡贝拉限定歌回【メン限】アカペラで歌うよ[なれたん 歌切🌷]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1yafgB7EGf?p=8",
-  "source": "naraetan.js"
-},
-    {
-  "title": "打上花火",
-  "artist": "DAOKO×米津玄師",
-  "collection": "[会限] 阿卡贝拉限定歌回【メン限】アカペラで歌うよ[なれたん 歌切🌷]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1yafgB7EGf?p=9",
-  "source": "naraetan.js"
-},
-    {
-  "title": "ノーチラス",
-  "artist": "ヨルシカ",
-  "collection": "[会限] 阿卡贝拉限定歌回【メン限】アカペラで歌うよ[なれたん 歌切🌷]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1yafgB7EGf?p=10",
-  "source": "naraetan.js"
-},
-    {
-  "title": "Way Back Home",
-  "artist": "SHAUN",
-  "collection": "[会限] 阿卡贝拉限定歌回【メン限】アカペラで歌うよ[なれたん 歌切🌷]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1yafgB7EGf?p=11",
-  "source": "naraetan.js"
-},
-    {
   "title": "1925",
   "artist": "冨田悠斗(とみー／T-POCKET)",
   "collection": "【なれたん 歌切🌷】因为嗓子不舒服，所以慢慢来 [2026-02-20]【#雑談 #歌枠】喉の調子が悪いのでのんびり[KTSFm_zWibg]",
@@ -4072,7 +4152,7 @@ window.SONG_DATA.push(
     {
   "title": "約束をしよう",
   "artist": "supercell",
-  "collection": "【なれたん歌切🌷】[2026-02-21]土曜日の深夜歌枠🥱【Vsinger⧸なれたん】[bGD_OXxoyTg]",
+  "collection": "【なれたん歌切🌷】土曜日の深夜歌枠🥱[2026-02-21][bGD_OXxoyTg]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zcfHBMEzU?p=1",
   "source": "naraetan.js"
@@ -4080,7 +4160,7 @@ window.SONG_DATA.push(
     {
   "title": "夜に駆ける",
   "artist": "YOASOBI",
-  "collection": "【なれたん歌切🌷】[2026-02-21]土曜日の深夜歌枠🥱【Vsinger⧸なれたん】[bGD_OXxoyTg]",
+  "collection": "【なれたん歌切🌷】土曜日の深夜歌枠🥱[2026-02-21][bGD_OXxoyTg]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zcfHBMEzU?p=2",
   "source": "naraetan.js"
@@ -4088,7 +4168,7 @@ window.SONG_DATA.push(
     {
   "title": "Spiritual Garden",
   "artist": "田村ゆかり",
-  "collection": "【なれたん歌切🌷】[2026-02-21]土曜日の深夜歌枠🥱【Vsinger⧸なれたん】[bGD_OXxoyTg]",
+  "collection": "【なれたん歌切🌷】土曜日の深夜歌枠🥱[2026-02-21][bGD_OXxoyTg]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zcfHBMEzU?p=3",
   "source": "naraetan.js"
@@ -4096,7 +4176,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
-  "collection": "【なれたん歌切🌷】[2026-02-21]土曜日の深夜歌枠🥱【Vsinger⧸なれたん】[bGD_OXxoyTg]",
+  "collection": "【なれたん歌切🌷】土曜日の深夜歌枠🥱[2026-02-21][bGD_OXxoyTg]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zcfHBMEzU?p=4",
   "source": "naraetan.js"
@@ -4104,7 +4184,7 @@ window.SONG_DATA.push(
     {
   "title": "虹の彼方に",
   "artist": "ReoNa",
-  "collection": "【なれたん歌切🌷】[2026-02-21]土曜日の深夜歌枠🥱【Vsinger⧸なれたん】[bGD_OXxoyTg]",
+  "collection": "【なれたん歌切🌷】土曜日の深夜歌枠🥱[2026-02-21][bGD_OXxoyTg]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zcfHBMEzU?p=5",
   "source": "naraetan.js"
@@ -4112,7 +4192,7 @@ window.SONG_DATA.push(
     {
   "title": "8.32",
   "artist": "*Luna",
-  "collection": "【なれたん歌切🌷】[2026-02-21]土曜日の深夜歌枠🥱【Vsinger⧸なれたん】[bGD_OXxoyTg]",
+  "collection": "【なれたん歌切🌷】土曜日の深夜歌枠🥱[2026-02-21][bGD_OXxoyTg]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zcfHBMEzU?p=6",
   "source": "naraetan.js"
