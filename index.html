@@ -18,27 +18,10 @@
         h1 { 
             text-align: center; 
             color: #2c3e50; 
-            margin-bottom: 15px; 
+            margin-bottom: 35px; /* 增大下边距，因为去掉了下面的按钮 */
             font-size: 28px;
             font-weight: 700;
             text-shadow: 0 2px 4px rgba(0,0,0,0.05);
-        }
-        .nav-btn-container { text-align: center; margin-bottom: 35px; }
-        .nav-btn { 
-            padding: 10px 24px; 
-            background: linear-gradient(135deg, #28a745 0%, #20c997 100%);
-            color: white; 
-            text-decoration: none; 
-            border-radius: 25px; 
-            font-size: 14px; 
-            font-weight: 600;
-            display: inline-block; 
-            box-shadow: 0 4px 15px rgba(40, 167, 69, 0.3);
-            transition: all 0.3s ease;
-        }
-        .nav-btn:hover { 
-            transform: translateY(-2px);
-            box-shadow: 0 6px 20px rgba(40, 167, 69, 0.4);
         }
         .filter-search-container {
             display: flex;
@@ -343,21 +326,21 @@
             margin-top: 6px;
             font-weight: 500;
         }
-        /* 右侧按钮组 */
+        /* 【核心修改】右侧按钮组：改为横向排列 */
         .song-actions {
             display: flex;
-            flex-direction: column;
+            flex-direction: row; /* 改为横向 */
             gap: 8px;
-            align-items: flex-end; /* 改为右对齐，方便放圆形小按钮 */
-            min-width: 90px;
+            align-items: center;
+            min-width: auto; /* 去掉固定宽度 */
         }
         .song-link {
             position: relative; /* 为B站链接复制图标定位 */
-            width: 100%;
+            width: auto; /* 改为自适应 */
         }
         .song-link a { 
-            padding: 8px 0;
-            width: 100%;
+            padding: 8px 25px 8px 18px; /* 调整内边距，给复制图标留空间 */
+            width: auto;
             text-align: center;
             background: linear-gradient(135deg, #00a1d6 0%, #00c6ff 100%);
             color: white; 
@@ -369,13 +352,12 @@
             box-shadow: 0 2px 8px rgba(0, 161, 214, 0.25);
             transition: all 0.3s ease;
             display: block;
-            padding-right: 25px; /* 给复制图标留空间 */
         }
         .song-link a:hover { 
             transform: translateY(-1px);
             box-shadow: 0 4px 12px rgba(0, 161, 214, 0.35);
         }
-        /* 【核心修改】迷你圆形编辑按钮 */
+        /* 迷你圆形编辑按钮 */
         .edit-link {
             width: 24px;
             height: 24px;
@@ -392,6 +374,7 @@
             align-items: center;
             justify-content: center;
             line-height: 1;
+            flex-shrink: 0; /* 防止被压缩 */
         }
         .edit-link:hover {
             transform: scale(1.1);
@@ -502,9 +485,6 @@
 </head>
 <body>
     <h1>🎵 我的已切歌曲查询站</h1>
-    <div class="nav-btn-container">
-        <a href="converter.html" target="_blank" class="nav-btn">🔄 打开歌单数据转换器</a>
-    </div>
 
     <div class="filter-search-container">
         <div class="filter-bar" id="filter-bar">
@@ -764,7 +744,7 @@
             statsMsg.textContent = `总歌曲数：${originalData.length} | 筛选后：${filteredBySource.length} | 搜索结果：${filteredBySearch.length}`;
         }
 
-        // 渲染函数：迷你圆形编辑按钮
+        // 渲染函数：按钮左右排列
         function renderSongList(data) {
             const songListEl = document.getElementById('song-list');
             songListEl.innerHTML = '';
