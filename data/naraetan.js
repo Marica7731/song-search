@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1G6fLB7Efr
-// 生成时间: 2/22/2026, 6:32:56 AM
+// 生成时间: 2/22/2026, 7:30:33 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4123,6 +4123,14 @@ window.SONG_DATA.push(
   "collection": "エルの絵本 【笛吹き男とパレード】 - Sound Horizon cover by なれたん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DfZfBFEDN?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "1／ｆ",
+  "artist": "LISA Cover by なねたん",
+  "collection": "1／ｆ - LISA Cover by なねたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yTfFB9Ekj?p=1",
   "source": "naraetan.js"
 }
 );
