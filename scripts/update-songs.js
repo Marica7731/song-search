@@ -69,7 +69,7 @@ const SINGER_CONFIGS = [
     { bvid: "BV1GXYFzXETo", file: "nayuta-piano-live", alias: "nayuta生演奏" },
     { bvid: "BV1MPpUzsE1D", file: "nayuta-daily", alias: "nayuta日常" },
     { bvid: "BV1UCkhBkEon", file: "MunMosh", alias: "むんもっしゅ" },
-    { bvid: "BV1exR4YGE42", file: "test", alias: "测试单集" },
+    { bvid: "BV1eTkKYDENL", file: "friends", alias: "联动" },
     { bvid: "BV11GZtBcEsp", file: "others", alias: "其他歌手" }
 ];
 
