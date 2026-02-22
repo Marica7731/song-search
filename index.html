@@ -18,7 +18,7 @@
         h1 { 
             text-align: center; 
             color: #2c3e50; 
-            margin-bottom: 35px; /* 增大下边距，因为去掉了下面的按钮 */
+            margin-bottom: 35px;
             font-size: 28px;
             font-weight: 700;
             text-shadow: 0 2px 4px rgba(0,0,0,0.05);
@@ -242,7 +242,7 @@
         .song-title-row {
             display: flex;
             align-items: center;
-            gap: 22px; /* 歌名和歌手拉大间距 */
+            gap: 22px;
             margin-bottom: 8px;
             flex-wrap: wrap;
         }
@@ -326,20 +326,20 @@
             margin-top: 6px;
             font-weight: 500;
         }
-        /* 【核心修改】右侧按钮组：改为横向排列 */
+        /* 右侧按钮组：横向排列 */
         .song-actions {
             display: flex;
-            flex-direction: row; /* 改为横向 */
+            flex-direction: row;
             gap: 8px;
             align-items: center;
-            min-width: auto; /* 去掉固定宽度 */
+            min-width: auto;
         }
         .song-link {
-            position: relative; /* 为B站链接复制图标定位 */
-            width: auto; /* 改为自适应 */
+            position: relative;
+            width: auto;
         }
         .song-link a { 
-            padding: 8px 25px 8px 18px; /* 调整内边距，给复制图标留空间 */
+            padding: 8px 25px 8px 18px;
             width: auto;
             text-align: center;
             background: linear-gradient(135deg, #00a1d6 0%, #00c6ff 100%);
@@ -374,7 +374,7 @@
             align-items: center;
             justify-content: center;
             line-height: 1;
-            flex-shrink: 0; /* 防止被压缩 */
+            flex-shrink: 0;
         }
         .edit-link:hover {
             transform: scale(1.1);
@@ -565,6 +565,74 @@
             return true;
         }
 
+        // ========== 【新增】模糊匹配核心函数 ==========
+        // 判断两个字符串是否有连续N个相同字符
+        function hasContinuousCommonStr(str1, str2, minLength = 2) {
+            const s1 = str1.trim();
+            const s2 = str2.trim();
+            // 任意一个字符串长度不足最小长度，直接返回false
+            if (s1.length < minLength || s2.length < minLength) return false;
+            // 遍历查找是否存在符合长度的连续公共子串
+            for (let i = 0; i <= s1.length - minLength; i++) {
+                const subStr = s1.substring(i, i + minLength);
+                if (s2.includes(subStr)) return true;
+            }
+            return false;
+        }
+
+        // 判断两首歌是否为同一首（歌名相同 + 歌手匹配规则）
+        function isSameSong(songA, songB) {
+            // 硬前提：歌名必须完全相同（trim后）
+            const titleA = (songA.title || '未知歌曲').trim();
+            const titleB = (songB.title || '未知歌曲').trim();
+            if (titleA !== titleB) return false;
+
+            // 提取歌手信息
+            const artistA = (songA.artist || '').trim();
+            const artistB = (songB.artist || '').trim();
+            const validA = isValidArtist(artistA);
+            const validB = isValidArtist(artistB);
+
+            // 情况1：两个歌手都无效，歌名相同即算同一首
+            if (!validA && !validB) return true;
+            // 情况2：一个有效一个无效，不算同一首
+            if (!validA || !validB) return false;
+            // 情况3：两个都有效，完全相同 或 有连续2个及以上相同字符，算同一首
+            return artistA === artistB || hasContinuousCommonStr(artistA, artistB);
+        }
+
+        // ========== 【重写】去重歌曲数计算函数（适配模糊匹配规则） ==========
+        function getUniqueSongCount(data) {
+            if (data.length === 0) return 0;
+            
+            // 第一步：按歌名分组，仅同歌名的歌曲需要比对歌手，大幅提升性能
+            const titleGroup = {};
+            data.forEach(song => {
+                const titleKey = (song.title || '未知歌曲').trim();
+                if (!titleGroup[titleKey]) titleGroup[titleKey] = [];
+                titleGroup[titleKey].push(song);
+            });
+
+            let totalUnique = 0;
+            // 第二步：对每个歌名分组内的歌曲进行去重
+            Object.values(titleGroup).forEach(group => {
+                if (group.length === 1) {
+                    totalUnique++;
+                    return;
+                }
+                // 分组内去重
+                const uniqueSongs = [];
+                group.forEach(currentSong => {
+                    // 检查当前歌曲是否和已存入的歌曲重复
+                    const isDuplicate = uniqueSongs.some(savedSong => isSameSong(currentSong, savedSong));
+                    if (!isDuplicate) uniqueSongs.push(currentSong);
+                });
+                totalUnique += uniqueSongs.length;
+            });
+
+            return totalUnique;
+        }
+
         // 生成搜索结果文本
         function generateSearchResultText() {
             if (filteredBySearch.length === 0) return '';
@@ -739,12 +807,17 @@
             renderSongList(filteredBySearch);
         }
 
+        // 更新统计信息：增加去重歌曲数
         function updateStats() {
             const statsMsg = document.getElementById('stats-msg');
-            statsMsg.textContent = `总歌曲数：${originalData.length} | 筛选后：${filteredBySource.length} | 搜索结果：${filteredBySearch.length}`;
+            const uniqueOriginal = getUniqueSongCount(originalData);
+            const uniqueFiltered = getUniqueSongCount(filteredBySource);
+            const uniqueSearch = getUniqueSongCount(filteredBySearch);
+            
+            statsMsg.textContent = `总歌曲数：${originalData.length}（去重：${uniqueOriginal}）| 筛选后：${filteredBySource.length}（去重：${uniqueFiltered}）| 搜索结果：${filteredBySearch.length}（去重：${uniqueSearch}）`;
         }
 
-        // 渲染函数：按钮左右排列
+        // 渲染函数
         function renderSongList(data) {
             const songListEl = document.getElementById('song-list');
             songListEl.innerHTML = '';
