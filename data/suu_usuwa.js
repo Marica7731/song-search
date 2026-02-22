@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1ve411z7Nm
-// 生成时间: 2/22/2026, 4:19:47 PM
+// 生成时间: 2/22/2026, 5:19:58 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2043,46 +2043,6 @@ window.SONG_DATA.push(
   "collection": "[2024-03-13]#62 【 稀羽すう/Re:AcT 13首 】水曜日は定期歌枠 08. 3月9日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Kr421n7VU?p=13",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "残酷な天使のテーゼ",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【5首 联动】【 稀羽すう/夢川かなう/シエル 】3D歌枠コラボ - CONNECT_Vが繋いだ絆編 - 01. 残酷な天使のテーゼ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Du4m1g7sx?p=1",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "悪魔の子",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【5首 联动】【 稀羽すう/夢川かなう/シエル 】3D歌枠コラボ - CONNECT_Vが繋いだ絆編 - 01. 残酷な天使のテーゼ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Du4m1g7sx?p=2",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "晩餐歌",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【5首 联动】【 稀羽すう/夢川かなう/シエル 】3D歌枠コラボ - CONNECT_Vが繋いだ絆編 - 01. 残酷な天使のテーゼ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Du4m1g7sx?p=3",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "貴方の恋人になりたい",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【5首 联动】【 稀羽すう/夢川かなう/シエル 】3D歌枠コラボ - CONNECT_Vが繋いだ絆編 - 01. 残酷な天使のテーゼ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Du4m1g7sx?p=4",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "創生のアクエリオン",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【5首 联动】【 稀羽すう/夢川かなう/シエル 】3D歌枠コラボ - CONNECT_Vが繋いだ絆編 - 01. 残酷な天使のテーゼ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Du4m1g7sx?p=5",
   "source": "suu_usuwa.js"
 },
     {

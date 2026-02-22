@@ -1,6 +1,6 @@
 // Figaro - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1HRfuBCEXN
-// 生成时间: 2/22/2026, 4:19:07 PM
+// 生成时间: 2/22/2026, 5:19:16 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -26755,6 +26755,126 @@ window.SONG_DATA.push(
   "collection": "【💐Figaro歌切 竖屏】[2026-02-21]3連休ですって...！？ぜひ聴いていってください！[JX_fIfAeRYs]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XVfHBFECX?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "猫",
+  "artist": "DISH／／",
+  "collection": "【💐Figaro歌切】#257 睡眠導入🌟安眠前のリラックスタイムにどうぞ🌙2026-02-22",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14UfwBeE7W?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "W／X／Y",
+  "artist": "Tani Yuuki",
+  "collection": "【💐Figaro歌切】#257 睡眠導入🌟安眠前のリラックスタイムにどうぞ🌙2026-02-22",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14UfwBeE7W?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "ベテルギウス",
+  "artist": "優里",
+  "collection": "【💐Figaro歌切】#257 睡眠導入🌟安眠前のリラックスタイムにどうぞ🌙2026-02-22",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14UfwBeE7W?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "レオ",
+  "artist": "優里",
+  "collection": "【💐Figaro歌切】#257 睡眠導入🌟安眠前のリラックスタイムにどうぞ🌙2026-02-22",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14UfwBeE7W?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "HEAVEN",
+  "artist": "はりーP",
+  "collection": "【💐Figaro歌切】#257 睡眠導入🌟安眠前のリラックスタイムにどうぞ🌙2026-02-22",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14UfwBeE7W?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "Starduster",
+  "artist": "ジミーサムP",
+  "collection": "【💐Figaro歌切】#257 睡眠導入🌟安眠前のリラックスタイムにどうぞ🌙2026-02-22",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14UfwBeE7W?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "しずかだなあ",
+  "artist": "手嶌葵",
+  "collection": "【💐Figaro歌切】#257 睡眠導入🌟安眠前のリラックスタイムにどうぞ🌙2026-02-22",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14UfwBeE7W?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "裸の心",
+  "artist": "あいみょん",
+  "collection": "【💐Figaro歌切】#257 睡眠導入🌟安眠前のリラックスタイムにどうぞ🌙2026-02-22",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14UfwBeE7W?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "愛の花",
+  "artist": "あいみょん",
+  "collection": "【💐Figaro歌切】#257 睡眠導入🌟安眠前のリラックスタイムにどうぞ🌙2026-02-22",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14UfwBeE7W?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "ナブナ",
+  "collection": "【💐Figaro歌切】#257 睡眠導入🌟安眠前のリラックスタイムにどうぞ🌙2026-02-22",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14UfwBeE7W?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "Ref：rain",
+  "artist": "Aimer",
+  "collection": "【💐Figaro歌切】#257 睡眠導入🌟安眠前のリラックスタイムにどうぞ🌙2026-02-22",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14UfwBeE7W?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【💐Figaro歌切】#257 睡眠導入🌟安眠前のリラックスタイムにどうぞ🌙2026-02-22",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14UfwBeE7W?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "【💐Figaro歌切】#257 睡眠導入🌟安眠前のリラックスタイムにどうぞ🌙2026-02-22",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14UfwBeE7W?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【💐Figaro歌切】#257 睡眠導入🌟安眠前のリラックスタイムにどうぞ🌙2026-02-22",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14UfwBeE7W?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "憂、燦々",
+  "artist": "クリープハイプ",
+  "collection": "【💐Figaro歌切】#257 睡眠導入🌟安眠前のリラックスタイムにどうぞ🌙2026-02-22",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14UfwBeE7W?p=15",
   "source": "figaro.js"
 }
 );

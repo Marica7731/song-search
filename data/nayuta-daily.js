@@ -1,6 +1,6 @@
 // nayuta日常 - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1MPpUzsE1D
-// 生成时间: 2/22/2026, 4:22:11 PM
+// 生成时间: 2/22/2026, 5:22:36 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1363,78 +1363,6 @@ window.SONG_DATA.push(
   "collection": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1【#なまゆた】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12NpUzXEdF?p=12",
-  "source": "nayuta-daily.js"
-},
-    {
-  "title": "ANIMA",
-  "artist": "ReoNa",
-  "collection": "【会限】棗いつき × nayuta 合作纪念歌回切片",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mNpUzXEiW?p=1",
-  "source": "nayuta-daily.js"
-},
-    {
-  "title": "春泥棒",
-  "artist": "ヨルシカ",
-  "collection": "【会限】棗いつき × nayuta 合作纪念歌回切片",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mNpUzXEiW?p=2",
-  "source": "nayuta-daily.js"
-},
-    {
-  "title": "秒針を噛む",
-  "artist": "ずっと真夜中でいいのに。",
-  "collection": "【会限】棗いつき × nayuta 合作纪念歌回切片",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mNpUzXEiW?p=3",
-  "source": "nayuta-daily.js"
-},
-    {
-  "title": "AXIA ~ダイスキでダイキライ~",
-  "artist": "ワルキューレ",
-  "collection": "【会限】棗いつき × nayuta 合作纪念歌回切片",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mNpUzXEiW?p=4",
-  "source": "nayuta-daily.js"
-},
-    {
-  "title": "Absolute 5",
-  "artist": "ワルキューレ",
-  "collection": "【会限】棗いつき × nayuta 合作纪念歌回切片",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mNpUzXEiW?p=5",
-  "source": "nayuta-daily.js"
-},
-    {
-  "title": "ルンがピカッと光ったら",
-  "artist": "ワルキューレ",
-  "collection": "【会限】棗いつき × nayuta 合作纪念歌回切片",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mNpUzXEiW?p=6",
-  "source": "nayuta-daily.js"
-},
-    {
-  "title": "可愛くなりたい",
-  "artist": "honeyworks feat.成海聖奈（CV：雨宮天）",
-  "collection": "【会限】棗いつき × nayuta 合作纪念歌回切片",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mNpUzXEiW?p=7",
-  "source": "nayuta-daily.js"
-},
-    {
-  "title": "青空のラプソディ",
-  "artist": "fhána",
-  "collection": "【会限】棗いつき × nayuta 合作纪念歌回切片",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mNpUzXEiW?p=8",
-  "source": "nayuta-daily.js"
-},
-    {
-  "title": "ライオン",
-  "artist": "May'n  中島愛",
-  "collection": "【会限】棗いつき × nayuta 合作纪念歌回切片",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mNpUzXEiW?p=9",
   "source": "nayuta-daily.js"
 },
     {
