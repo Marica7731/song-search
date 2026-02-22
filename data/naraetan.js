@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1G6fLB7Efr
-// 生成时间: 2/22/2026, 8:32:10 PM
+// 生成时间: 2/22/2026, 10:14:38 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -83,6 +83,118 @@ window.SONG_DATA.push(
   "collection": "[25.12会限]阿卡贝拉歌回🧣【メン限】アカペラで歌うよ🧣[EjeoPyYPK3c]【なれたん歌切🌷】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1f2fAB9ECb?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "指切り",
+  "artist": "すこっぷ",
+  "collection": "[26.01会限]星期日的点歌歌回✨【メン限】日曜日のゲリラ歌枠[WFWeVQnaCb0]【なれたん歌切🌷】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xRfPBMES8?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "DUET",
+  "artist": "ZICO & 幾田りら",
+  "collection": "[26.01会限]星期日的点歌歌回✨【メン限】日曜日のゲリラ歌枠[WFWeVQnaCb0]【なれたん歌切🌷】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xRfPBMES8?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Habit",
+  "artist": "SEKAI NO OWARI",
+  "collection": "[26.01会限]星期日的点歌歌回✨【メン限】日曜日のゲリラ歌枠[WFWeVQnaCb0]【なれたん歌切🌷】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xRfPBMES8?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夢を過ぎても",
+  "artist": "有坂美香",
+  "collection": "[26.01会限]星期日的点歌歌回✨【メン限】日曜日のゲリラ歌枠[WFWeVQnaCb0]【なれたん歌切🌷】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xRfPBMES8?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "寒い夜だから...",
+  "artist": "TRF",
+  "collection": "[26.01会限]星期日的点歌歌回✨【メン限】日曜日のゲリラ歌枠[WFWeVQnaCb0]【なれたん歌切🌷】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xRfPBMES8?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ローリンガール",
+  "artist": "wowaka",
+  "collection": "[26.01会限]星期日的点歌歌回✨【メン限】日曜日のゲリラ歌枠[WFWeVQnaCb0]【なれたん歌切🌷】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xRfPBMES8?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "新宝島",
+  "artist": "サカナクション",
+  "collection": "[26.01会限]星期日的点歌歌回✨【メン限】日曜日のゲリラ歌枠[WFWeVQnaCb0]【なれたん歌切🌷】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xRfPBMES8?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "アメヲマツ、",
+  "artist": "美波",
+  "collection": "[26.01会限]星期日的点歌歌回✨【メン限】日曜日のゲリラ歌枠[WFWeVQnaCb0]【なれたん歌切🌷】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xRfPBMES8?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Always",
+  "artist": "シンジ",
+  "collection": "[26.01会限]星期日的点歌歌回✨【メン限】日曜日のゲリラ歌枠[WFWeVQnaCb0]【なれたん歌切🌷】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xRfPBMES8?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "To My Youth",
+  "artist": "Bolbbalgan4 (BOL4)",
+  "collection": "[26.01会限]星期日的点歌歌回✨【メン限】日曜日のゲリラ歌枠[WFWeVQnaCb0]【なれたん歌切🌷】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xRfPBMES8?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "はいよろこんで",
+  "artist": "こっちのけんと",
+  "collection": "[26.01会限]星期日的点歌歌回✨【メン限】日曜日のゲリラ歌枠[WFWeVQnaCb0]【なれたん歌切🌷】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xRfPBMES8?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "One Last Kiss",
+  "artist": "宇多田ヒカル",
+  "collection": "[26.01会限]星期日的点歌歌回✨【メン限】日曜日のゲリラ歌枠[WFWeVQnaCb0]【なれたん歌切🌷】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xRfPBMES8?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Anytime Anywhere",
+  "artist": "Milet",
+  "collection": "[26.01会限]星期日的点歌歌回✨【メン限】日曜日のゲリラ歌枠[WFWeVQnaCb0]【なれたん歌切🌷】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xRfPBMES8?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "レスキューファイアー",
+  "artist": "JAM Project",
+  "collection": "[26.01会限]星期日的点歌歌回✨【メン限】日曜日のゲリラ歌枠[WFWeVQnaCb0]【なれたん歌切🌷】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xRfPBMES8?p=14",
   "source": "naraetan.js"
 },
     {

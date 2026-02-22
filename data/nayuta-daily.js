@@ -1,6 +1,6 @@
 // nayuta日常 - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1MPpUzsE1D
-// 生成时间: 2/22/2026, 8:36:10 PM
+// 生成时间: 2/22/2026, 10:18:05 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14,7 +14,7 @@ window.SONG_DATA.push(
   "source": "nayuta-daily.js"
 },
     {
-  "title": "ワールドイズマイン（世界第一的公主殿下）",
+  "title": "ワールドイズマイン",
   "artist": "supercell feat.初音ミク ('08)",
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",

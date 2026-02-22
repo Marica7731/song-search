@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1p1zBBCEZ3
-// 生成时间: 2/22/2026, 8:34:39 PM
+// 生成时间: 2/22/2026, 10:16:56 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -13766,256 +13766,256 @@ window.SONG_DATA.push(
   "source": "yoshika.js"
 },
     {
-  "title": "ハートビート急上昇-i☆Ris",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ハートビート急上昇",
+  "artist": "i Ris",
   "collection": "【YOSHIKA⁂Ch. 】起来！歌回！听歌！【241210】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KGqyYPEsd?p=1",
   "source": "yoshika.js"
 },
     {
-  "title": "星屑☆Shall we dance？-一ノ瀬 トキヤ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "星屑 Shall we dance!",
+  "artist": "一ノ瀬 トキヤ",
   "collection": "【YOSHIKA⁂Ch. 】起来！歌回！听歌！【241210】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KGqyYPEsd?p=2",
   "source": "yoshika.js"
 },
     {
-  "title": "departure-小野正利",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "departure",
+  "artist": "小野正利",
   "collection": "【YOSHIKA⁂Ch. 】起来！歌回！听歌！【241210】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KGqyYPEsd?p=3",
   "source": "yoshika.js"
 },
     {
-  "title": "おはよう。-Keno",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "おはよう。",
+  "artist": "Keno",
   "collection": "【YOSHIKA⁂Ch. 】起来！歌回！听歌！【241210】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KGqyYPEsd?p=4",
   "source": "yoshika.js"
 },
     {
-  "title": "ココロのちず-BOYSTYLE",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ココロのちず",
+  "artist": "BOYSTYLE",
   "collection": "【YOSHIKA⁂Ch. 】起来！歌回！听歌！【241210】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KGqyYPEsd?p=5",
   "source": "yoshika.js"
 },
     {
-  "title": "Wake up!-AAA",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Wake up!",
+  "artist": "AAA",
   "collection": "【YOSHIKA⁂Ch. 】起来！歌回！听歌！【241210】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KGqyYPEsd?p=6",
   "source": "yoshika.js"
 },
     {
-  "title": "Over the Top-きただにひろし",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Over the Top",
+  "artist": "きただにひろし",
   "collection": "【YOSHIKA⁂Ch. 】起来！歌回！听歌！【241210】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KGqyYPEsd?p=7",
   "source": "yoshika.js"
 },
     {
-  "title": "愛 for you！-i☆Ris",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "愛 for you!",
+  "artist": "i Ris",
   "collection": "【YOSHIKA⁂Ch. 】起来！歌回！听歌！【241210】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KGqyYPEsd?p=8",
   "source": "yoshika.js"
 },
     {
-  "title": "Happy New World☆-i☆Ris",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Happy New World",
+  "artist": "i Ris",
   "collection": "【YOSHIKA⁂Ch. 】起来！歌回！听歌！【241210】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KGqyYPEsd?p=9",
   "source": "yoshika.js"
 },
     {
-  "title": "Spending-i☆Ris",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Spending",
+  "artist": "i Ris",
   "collection": "【YOSHIKA⁂Ch. 】起来！歌回！听歌！【241210】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KGqyYPEsd?p=10",
   "source": "yoshika.js"
 },
     {
-  "title": "アルティメット☆MAGIC-i☆Ris",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "アルティメット MAGIC",
+  "artist": "i Ris",
   "collection": "【YOSHIKA⁂Ch. 】起来！歌回！听歌！【241210】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KGqyYPEsd?p=11",
   "source": "yoshika.js"
 },
     {
-  "title": "浪漫飛行-米米CLUB",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "浪漫飛行",
+  "artist": "米米CLUB",
   "collection": "【YOSHIKA⁂Ch. 】起来！歌回！听歌！【241210】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KGqyYPEsd?p=12",
   "source": "yoshika.js"
 },
     {
-  "title": "TOMORROW-岡本真夜",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "TOMORROW",
+  "artist": "岡本真夜",
   "collection": "【YOSHIKA⁂Ch. 】起来！歌回！听歌！【241210】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KGqyYPEsd?p=13",
   "source": "yoshika.js"
 },
     {
-  "title": "Winter Bells-倉木麻衣",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Winter Bells",
+  "artist": "倉木麻衣",
   "collection": "【YOSHIKA⁂Ch. 】起来！歌回！听歌！【241210】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KGqyYPEsd?p=14",
   "source": "yoshika.js"
 },
     {
-  "title": "渡月橋～君想ふ～-倉木麻衣",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "渡月橋～君想ふ～",
+  "artist": "倉木麻衣",
   "collection": "【YOSHIKA⁂Ch. 】起来！歌回！听歌！【241210】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KGqyYPEsd?p=15",
   "source": "yoshika.js"
 },
     {
-  "title": "PARADOX-雨宮天",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "PARADOX",
+  "artist": "雨宮天",
   "collection": "【YOSHIKA⁂Ch. 】起来！歌回！听歌！【241210】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KGqyYPEsd?p=16",
   "source": "yoshika.js"
 },
     {
-  "title": "ハッピー・ジャムジャム-M.S.J",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ハッピー・ジャムジャム",
+  "artist": "M.S.J",
   "collection": "【YOSHIKA⁂Ch. 】起来！歌回！听歌！【241210】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KGqyYPEsd?p=17",
   "source": "yoshika.js"
 },
     {
-  "title": "ショコラに夢中-安野モヨコ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ショコラに夢中",
+  "artist": "安野モヨコ",
   "collection": "【YOSHIKA⁂Ch. 】起来！歌回！听歌！【241210】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KGqyYPEsd?p=18",
   "source": "yoshika.js"
 },
     {
-  "title": "タッチ-岩崎良美",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "タッチ",
+  "artist": "岩崎良美",
   "collection": "【YOSHIKA⁂Ch. 】起来！歌回！听歌！【241210】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KGqyYPEsd?p=19",
   "source": "yoshika.js"
 },
     {
-  "title": "僕の心をつくってよ-平井 堅",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "僕の心をつくってよ",
+  "artist": "平井 堅",
   "collection": "【YOSHIKA⁂Ch. 】起来！歌回！听歌！【241210】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KGqyYPEsd?p=20",
   "source": "yoshika.js"
 },
     {
-  "title": "夢をかなえてドラえもん-mao",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao",
   "collection": "【YOSHIKA⁂Ch. 】起来！歌回！听歌！【241210】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KGqyYPEsd?p=21",
   "source": "yoshika.js"
 },
     {
-  "title": "YUME日和-島谷ひとみ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "YUME日和",
+  "artist": "島谷ひとみ",
   "collection": "【YOSHIKA⁂Ch. 】起来！歌回！听歌！【241210】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KGqyYPEsd?p=22",
   "source": "yoshika.js"
 },
     {
-  "title": "ハグしちゃお-夏川りみ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ハグしちゃお",
+  "artist": "夏川りみ",
   "collection": "【YOSHIKA⁂Ch. 】起来！歌回！听歌！【241210】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KGqyYPEsd?p=23",
   "source": "yoshika.js"
 },
     {
-  "title": "気まぐれロマンティック-いきものがかり",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
   "collection": "【YOSHIKA⁂Ch. 】起来！歌回！听歌！【241210】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KGqyYPEsd?p=24",
   "source": "yoshika.js"
 },
     {
-  "title": "ブルーバード-いきものがかり",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
   "collection": "【YOSHIKA⁂Ch. 】起来！歌回！听歌！【241210】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KGqyYPEsd?p=25",
   "source": "yoshika.js"
 },
     {
-  "title": "Everything-MISIA",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Everything",
+  "artist": "MISIA",
   "collection": "【YOSHIKA⁂Ch. 】起来！歌回！听歌！【241210】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KGqyYPEsd?p=26",
   "source": "yoshika.js"
 },
     {
-  "title": "逢いたくていま-MISIA",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "逢いたくていま",
+  "artist": "MISIA",
   "collection": "【YOSHIKA⁂Ch. 】起来！歌回！听歌！【241210】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KGqyYPEsd?p=27",
   "source": "yoshika.js"
 },
     {
-  "title": "talkin' 2 myself-浜崎あゆみ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "talkin' 2 myself",
+  "artist": "浜崎あゆみ",
   "collection": "【YOSHIKA⁂Ch. 】起来！歌回！听歌！【241210】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KGqyYPEsd?p=28",
   "source": "yoshika.js"
 },
     {
-  "title": "いけないボーダーライン-ワルキューレ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "いけないボーダーライン",
+  "artist": "ワルキューレ",
   "collection": "【YOSHIKA⁂Ch. 】起来！歌回！听歌！【241210】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KGqyYPEsd?p=29",
   "source": "yoshika.js"
 },
     {
-  "title": "AXIA～ダイスキでダイキライ-ワルキューレ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "AXIA～ダイスキでダイキライ",
+  "artist": "ワルキューレ",
   "collection": "【YOSHIKA⁂Ch. 】起来！歌回！听歌！【241210】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KGqyYPEsd?p=30",
   "source": "yoshika.js"
 },
     {
-  "title": "一度だけの恋なら-ワルキューレ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "一度だけの恋なら",
+  "artist": "ワルキューレ",
   "collection": "【YOSHIKA⁂Ch. 】起来！歌回！听歌！【241210】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KGqyYPEsd?p=31",
   "source": "yoshika.js"
 },
     {
-  "title": "テルーの唄-手嶌葵",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
   "collection": "【YOSHIKA⁂Ch. 】起来！歌回！听歌！【241210】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KGqyYPEsd?p=32",
