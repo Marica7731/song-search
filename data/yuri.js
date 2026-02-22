@@ -1,293 +1,293 @@
 // 優莉 yuri - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1aDzEBBE3S
-// 生成时间: 2/22/2026, 10:17:10 PM
+// 生成时间: 2/22/2026, 11:20:47 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
     {
-  "title": "[2025-12-31]01. なないろメモリー",
-  "artist": "優莉",
+  "title": "なないろメモリー",
+  "artist": "優莉 [2025-12-31]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=1",
   "source": "yuri.js"
 },
     {
-  "title": "[2025-12-31]02. YuMeKuI",
-  "artist": "優莉",
+  "title": "YuMeKuI",
+  "artist": "優莉 [2025-12-31]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=2",
   "source": "yuri.js"
 },
     {
-  "title": "[2025-12-31]03. よこがお",
-  "artist": "優莉 feat.初音ミク",
+  "title": "よこがお",
+  "artist": "優莉 feat. 初音ミク [2025-12-31]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=3",
   "source": "yuri.js"
 },
     {
-  "title": "[2025-12-31]04. Always",
-  "artist": "優莉",
+  "title": "Always",
+  "artist": "優莉 [2025-12-31]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=4",
   "source": "yuri.js"
 },
     {
-  "title": "[2025-12-31]05. Dear my friend",
-  "artist": "優莉",
+  "title": "Dear my friend",
+  "artist": "優莉 [2025-12-31]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=5",
   "source": "yuri.js"
 },
     {
-  "title": "[2025-12-31]06. God knows...",
-  "artist": "涼宮ハルヒ『平野綾』",
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ (平野綾) [2025-12-31]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=6",
   "source": "yuri.js"
 },
     {
-  "title": "[2025-12-31]07. ありがめさんのうた",
-  "artist": "優莉",
+  "title": "ありがめさんのうた",
+  "artist": "優莉 [2025-12-31]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=7",
   "source": "yuri.js"
 },
     {
-  "title": "[2025-12-31]08. 星に名前を",
-  "artist": "優莉",
+  "title": "星に名前を",
+  "artist": "優莉 [2025-12-31]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=8",
   "source": "yuri.js"
 },
     {
-  "title": "[2025-12-31]09. タイトル",
-  "artist": "優莉",
+  "title": "タイトル",
+  "artist": "優莉 [2025-12-31]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=9",
   "source": "yuri.js"
 },
     {
-  "title": "[2025-12-31]10. Enter!",
-  "artist": "優莉",
+  "title": "Enter!",
+  "artist": "優莉 [2025-12-31]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=10",
   "source": "yuri.js"
 },
     {
-  "title": "[2026-01-06]01. Always",
-  "artist": "優莉",
+  "title": "Always",
+  "artist": "優莉 [2026-01-06]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=11",
   "source": "yuri.js"
 },
     {
-  "title": "[2026-01-06]02. Dear my friend",
-  "artist": "NaYuri",
+  "title": "Dear my friend",
+  "artist": "NaYuri [2026-01-06]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=12",
   "source": "yuri.js"
 },
     {
-  "title": "[2026-01-06]03. 星に名前を",
-  "artist": "優莉",
+  "title": "星に名前を",
+  "artist": "優莉 [2026-01-06]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=13",
   "source": "yuri.js"
 },
     {
-  "title": "[2026-01-06]04. さよならミッドナイト",
-  "artist": "もじゃ（大柴広己）",
+  "title": "さよならミッドナイト",
+  "artist": "もじゃ (大柴広己) [2026-01-06]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=14",
   "source": "yuri.js"
 },
     {
-  "title": "[2026-01-06]05. 想像フォレスト",
-  "artist": "じん",
+  "title": "想像フォレスト",
+  "artist": "じん [2026-01-06]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=15",
   "source": "yuri.js"
 },
     {
-  "title": "[2026-01-06]06. glow",
-  "artist": "keeno",
+  "title": "glow",
+  "artist": "keeno [2026-01-06]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=16",
   "source": "yuri.js"
 },
     {
-  "title": "[2026-01-06]07. ローリンガール",
-  "artist": "wowaka",
+  "title": "ローリンガール",
+  "artist": "wowaka [2026-01-06]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=17",
   "source": "yuri.js"
 },
     {
-  "title": "[2026-01-06]08. テノヒラ",
-  "artist": "wowaka",
+  "title": "テノヒラ",
+  "artist": "wowaka [2026-01-06]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=18",
   "source": "yuri.js"
 },
     {
-  "title": "[2026-01-11]01. 想像フォレスト",
-  "artist": "じん",
+  "title": "想像フォレスト",
+  "artist": "じん [2026-01-11]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=19",
   "source": "yuri.js"
 },
     {
-  "title": "[2026-01-11]02. Always",
-  "artist": "優莉",
+  "title": "Always",
+  "artist": "優莉 [2026-01-11]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=20",
   "source": "yuri.js"
 },
     {
-  "title": "[2026-01-11]03. サマーハレーション",
-  "artist": "優莉",
+  "title": "サマーハレーション",
+  "artist": "優莉 [2026-01-11]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=21",
   "source": "yuri.js"
 },
     {
-  "title": "[2026-01-11]04. 地球最後の告白を",
-  "artist": "kemu",
+  "title": "地球最後の告白を",
+  "artist": "kemu [2026-01-11]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=22",
   "source": "yuri.js"
 },
     {
-  "title": "[2026-01-11]05. ステラ",
-  "artist": "Leo／need",
+  "title": "ステラ",
+  "artist": "Leo/need [2026-01-11]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=23",
   "source": "yuri.js"
 },
     {
-  "title": "[2026-01-11]06. Dear my friend",
-  "artist": "NaYuri",
+  "title": "Dear my friend",
+  "artist": "NaYuri [2026-01-11]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=24",
   "source": "yuri.js"
 },
     {
-  "title": "[2026-01-11]07. YuMeKuI",
-  "artist": "優莉",
+  "title": "YuMeKuI",
+  "artist": "優莉 [2026-01-11]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=25",
   "source": "yuri.js"
 },
     {
-  "title": "[2026-01-11]08. ありがめさんのうた",
-  "artist": "優莉",
+  "title": "ありがめさんのうた",
+  "artist": "優莉 [2026-01-11]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=26",
   "source": "yuri.js"
 },
     {
-  "title": "[2026-01-11]09. 星に名前を",
-  "artist": "優莉 Prod.HOMING ECHO",
+  "title": "星に名前を",
+  "artist": "優莉 (Prod. HOMING ECHO) [2026-01-11]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=27",
   "source": "yuri.js"
 },
     {
-  "title": "[2026-01-11]10. なないろメモリー",
-  "artist": "優莉",
+  "title": "なないろメモリー",
+  "artist": "優莉 [2026-01-11]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=28",
   "source": "yuri.js"
 },
     {
-  "title": "[2026-01-11]11. Enter!",
-  "artist": "優莉",
+  "title": "Enter!",
+  "artist": "優莉 [2026-01-11]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=29",
   "source": "yuri.js"
 },
     {
-  "title": "[2026-01-13]01. なないろメモリー",
-  "artist": "優莉",
+  "title": "なないろメモリー",
+  "artist": "優莉 [2026-01-13]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=30",
   "source": "yuri.js"
 },
     {
-  "title": "[2026-01-13]02. 餞に愛を",
-  "artist": "sabio",
+  "title": "餞に愛を",
+  "artist": "sabio [2026-01-13]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=31",
   "source": "yuri.js"
 },
     {
-  "title": "[2026-01-13]03. 瓦礫の塔",
-  "artist": "kemu feat. GUMI",
+  "title": "瓦礫の塔",
+  "artist": "kemu feat. GUMI [2026-01-13]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=32",
   "source": "yuri.js"
 },
     {
-  "title": "[2026-01-13]04. Human Party!!",
-  "artist": "優莉",
+  "title": "Human Party!!",
+  "artist": "優莉 [2026-01-13]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=33",
   "source": "yuri.js"
 },
     {
-  "title": "[2026-01-13]05. 星に名前を",
-  "artist": "優莉",
+  "title": "星に名前を",
+  "artist": "優莉 [2026-01-13]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=34",
   "source": "yuri.js"
 },
     {
-  "title": "[2026-01-13]06. Always",
-  "artist": "優莉",
+  "title": "Always",
+  "artist": "優莉 [2026-01-13]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=35",
   "source": "yuri.js"
 },
     {
-  "title": "[2026-01-13]07. Enter!",
-  "artist": "優莉",
+  "title": "Enter!",
+  "artist": "優莉 [2026-01-13]",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=36",
