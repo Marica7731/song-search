@@ -1,6 +1,6 @@
 // 來-Ray- - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1mJZwB8EVa
-// 生成时间: 2/23/2026, 8:39:41 AM
+// 生成时间: 2/23/2026, 9:25:41 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1662,7 +1662,7 @@ window.SONG_DATA.push(
   "source": "ray.js"
 },
     {
-  "title": "天ノ弱 -みきとPのアレンジ",
+  "title": "天ノ弱",
   "artist": "164 feat. GUMI [2025-11-22]  [7ydqh32yxnY]",
   "collection": "來-Ray-  歌切 2025-11-08 ~  2026-01-18",
   "up": "前尘往事如昔故",

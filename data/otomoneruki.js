@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1zzZPBsEum
-// 生成时间: 2/23/2026, 8:40:56 AM
+// 生成时间: 2/23/2026, 9:27:09 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -198,8 +198,8 @@ window.SONG_DATA.push(
   "source": "otomoneruki.js"
 },
     {
-  "title": "ハッピークリスマスパーティ- HoneyWorks [2025-12-25]SdfDBhgwGt0]",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ハッピークリスマスパーティ",
+  "artist": "HoneyWorks [2025-12-25]SdfDBhgwGt0]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=25",

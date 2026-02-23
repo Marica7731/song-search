@@ -1,6 +1,6 @@
 // むんもっしゅ - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1UCkhBkEon
-// 生成时间: 2/23/2026, 8:42:00 AM
+// 生成时间: 2/23/2026, 9:28:06 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3662,368 +3662,368 @@ window.SONG_DATA.push(
   "source": "MunMosh.js"
 },
     {
-  "title": "secret base 〜君がくれたもの〜-ZONE",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "secret base ～君がくれたもの～",
+  "artist": "ZONE",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=1",
   "source": "MunMosh.js"
 },
     {
-  "title": "いつも何度でも-木村弓",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "いつも何度でも",
+  "artist": "木村弓",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=2",
   "source": "MunMosh.js"
 },
     {
-  "title": "さよならの夏～コクリコ坂から～-手嶌葵",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "さよならの夏～コクリコ坂から～",
+  "artist": "手嶌葵",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=3",
   "source": "MunMosh.js"
 },
     {
-  "title": "小さなてのひら-riya",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "小さなてのひら",
+  "artist": "riya",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=4",
   "source": "MunMosh.js"
 },
     {
-  "title": "you-癒月",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "you",
+  "artist": "癒月",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=5",
   "source": "MunMosh.js"
 },
     {
-  "title": "Alice in 冷凍庫-Orangestar",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Alice in 冷凍庫",
+  "artist": "Orangestar",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=6",
   "source": "MunMosh.js"
 },
     {
-  "title": "ひまわりの約束-秦基博",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ひまわりの約束",
+  "artist": "秦基博",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=7",
   "source": "MunMosh.js"
 },
     {
-  "title": "ハイドアンド・シーク-19's Sound Factory",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ハイドアンド・シーク",
+  "artist": "19's Sound Factory",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=8",
   "source": "MunMosh.js"
 },
     {
-  "title": "いかないで-想太",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "いかないで",
+  "artist": "想太",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=9",
   "source": "MunMosh.js"
 },
     {
-  "title": "HANABI-Mr.Children",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "HANABI",
+  "artist": "Mr.Children",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=10",
   "source": "MunMosh.js"
 },
     {
-  "title": "あの夢をなぞって-YOASOBI",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "あの夢をなぞって",
+  "artist": "YOASOBI",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=11",
   "source": "MunMosh.js"
 },
     {
-  "title": "若者のすべて-フジファブリック",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=12",
   "source": "MunMosh.js"
 },
     {
-  "title": "渚-スピッツ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "渚",
+  "artist": "スピッツ",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=13",
   "source": "MunMosh.js"
 },
     {
-  "title": "SUMMER SONG-YUI",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "SUMMER SONG",
+  "artist": "YUI",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=14",
   "source": "MunMosh.js"
 },
     {
-  "title": "ガーネット-奥華子",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ガーネット",
+  "artist": "奥華子",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=15",
   "source": "MunMosh.js"
 },
     {
-  "title": "水の中の雲-やなぎなぎ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "水の中の雲",
+  "artist": "やなぎなぎ",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=16",
   "source": "MunMosh.js"
 },
     {
-  "title": "スパークル-RADWIMPS",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "スパークル",
+  "artist": "RADWIMPS",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=17",
   "source": "MunMosh.js"
 },
     {
-  "title": "ウンディーネ-牧野 由依",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ウンディーネ",
+  "artist": "牧野 由依",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=18",
   "source": "MunMosh.js"
 },
     {
-  "title": "青い栞-Galileo Galilei",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "青い栞",
+  "artist": "Galileo Galilei",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=19",
   "source": "MunMosh.js"
 },
     {
-  "title": "世界は恋に落ちている-CHiCO with HoneyWorks",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "世界は恋に落ちている",
+  "artist": "CHiCO with HoneyWorks",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=20",
   "source": "MunMosh.js"
 },
     {
-  "title": "少女レイ-みきとP",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "少女レイ",
+  "artist": "みきとP",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=21",
   "source": "MunMosh.js"
 },
     {
-  "title": "鳥の詩-Lia",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "鳥の詩",
+  "artist": "Lia",
   "collection": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ADhce2EQU?p=22",
   "source": "MunMosh.js"
 },
     {
-  "title": "Good-bye days-YUI",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Good-bye days",
+  "artist": "YUI",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=1",
   "source": "MunMosh.js"
 },
     {
-  "title": "again-YUI",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "again",
+  "artist": "YUI",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=2",
   "source": "MunMosh.js"
 },
     {
-  "title": "いのちの名前-木村 弓",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "いのちの名前",
+  "artist": "木村 弓",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=3",
   "source": "MunMosh.js"
 },
     {
-  "title": "だんご大家族-茶太",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "だんご大家族",
+  "artist": "茶太",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=4",
   "source": "MunMosh.js"
 },
     {
-  "title": "ノーチラス-ヨルシカ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=5",
   "source": "MunMosh.js"
 },
     {
-  "title": "暁の車-FictionJunction YUUKA",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "暁の車",
+  "artist": "FictionJunction YUUKA",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=6",
   "source": "MunMosh.js"
 },
     {
-  "title": "青空-Lia",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "青空",
+  "artist": "Lia",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=7",
   "source": "MunMosh.js"
 },
     {
-  "title": "少女レイ-みきとP",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "少女レイ",
+  "artist": "みきとP",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=8",
   "source": "MunMosh.js"
 },
     {
-  "title": "夜明けと蛍-n-buna",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "夜明けと蛍",
+  "artist": "n-buna",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=9",
   "source": "MunMosh.js"
 },
     {
-  "title": "楓-スピッツ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "楓",
+  "artist": "スピッツ",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=10",
   "source": "MunMosh.js"
 },
     {
-  "title": "君が思い出になる前に-スピッツ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "君が思い出になる前に",
+  "artist": "スピッツ",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=11",
   "source": "MunMosh.js"
 },
     {
-  "title": "涙がキラリ☆-スピッツ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "涙がキラリ☆",
+  "artist": "スピッツ",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=12",
   "source": "MunMosh.js"
 },
     {
-  "title": "運命の人-スピッツ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "運命の人",
+  "artist": "スピッツ",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=13",
   "source": "MunMosh.js"
 },
     {
-  "title": "ロビンソン-スピッツ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ロビンソン",
+  "artist": "スピッツ",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=14",
   "source": "MunMosh.js"
 },
     {
-  "title": "空も飛べるはず-スピッツ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "空も飛べるはず",
+  "artist": "スピッツ",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=15",
   "source": "MunMosh.js"
 },
     {
-  "title": "愛のことば-スピッツ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "愛のことば",
+  "artist": "スピッツ",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=16",
   "source": "MunMosh.js"
 },
     {
-  "title": "シリウスの心臓-ヰ世界情緒",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "シリウスの心臓",
+  "artist": "ヰ世界情緒",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=17",
   "source": "MunMosh.js"
 },
     {
-  "title": "回る空うさぎ-Orangestar",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "回る空うさぎ",
+  "artist": "Orangestar",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=18",
   "source": "MunMosh.js"
 },
     {
-  "title": "オレンジ-7!! (seven oops)",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "オレンジ",
+  "artist": "7!! (seven oops)",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=19",
   "source": "MunMosh.js"
 },
     {
-  "title": "花束を君に-宇多田ヒカル",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "花束を君に",
+  "artist": "宇多田ヒカル",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=20",
   "source": "MunMosh.js"
 },
     {
-  "title": "光-宇多田ヒカル",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "光",
+  "artist": "宇多田ヒカル",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=21",
   "source": "MunMosh.js"
 },
     {
-  "title": "Automatic-宇多田ヒカル",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Automatic",
+  "artist": "宇多田ヒカル",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=22",
   "source": "MunMosh.js"
 },
     {
-  "title": "桜流し-宇多田ヒカル",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "桜流し",
+  "artist": "宇多田ヒカル",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=23",
   "source": "MunMosh.js"
 },
     {
-  "title": "レオ-優里",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "レオ",
+  "artist": "優里",
   "collection": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ehcetEsn?p=24",
@@ -4830,144 +4830,144 @@ window.SONG_DATA.push(
   "source": "MunMosh.js"
 },
     {
-  "title": "それは小さな光のような-さユり",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "それは小さな光のような",
+  "artist": "さユり",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=1",
   "source": "MunMosh.js"
 },
     {
-  "title": "空は高く風は歌う-春奈るな",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "空は高く風は歌う",
+  "artist": "春奈るな",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=2",
   "source": "MunMosh.js"
 },
     {
-  "title": "瞳の欠片-FictionJunction YUUKA",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "瞳の欠片",
+  "artist": "FictionJunction YUUKA",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=3",
   "source": "MunMosh.js"
 },
     {
-  "title": "ユメノツバサ-牧野 由依",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ユメノツバサ",
+  "artist": "牧野 由依",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=4",
   "source": "MunMosh.js"
 },
     {
-  "title": "君の銀の庭-Kalafina",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "君の銀の庭",
+  "artist": "Kalafina",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=5",
   "source": "MunMosh.js"
 },
     {
-  "title": "into the world-Kalafina",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "into the world",
+  "artist": "Kalafina",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=6",
   "source": "MunMosh.js"
 },
     {
-  "title": "storia-Kalafina",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "storia",
+  "artist": "Kalafina",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=7",
   "source": "MunMosh.js"
 },
     {
-  "title": "光の旋律-Kalafina",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "光の旋律",
+  "artist": "Kalafina",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=8",
   "source": "MunMosh.js"
 },
     {
-  "title": "oblivious-Kalafina",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "oblivious",
+  "artist": "Kalafina",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=9",
   "source": "MunMosh.js"
 },
     {
-  "title": "水の証-ラクス・クライン(田中理恵)",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "水の証",
+  "artist": "ラクス・クライン(田中理恵)",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=10",
   "source": "MunMosh.js"
 },
     {
-  "title": "Fields of hope-ラクス・クライン(田中理恵)",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Fields of hope",
+  "artist": "ラクス・クライン(田中理恵)",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=11",
   "source": "MunMosh.js"
 },
     {
-  "title": "焔の扉-Fiction Junction YUUKA",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "焔の扉",
+  "artist": "Fiction Junction YUUKA",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=12",
   "source": "MunMosh.js"
 },
     {
-  "title": "暁の車-FictionJunction YUUKA",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "暁の車",
+  "artist": "FictionJunction YUUKA",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=13",
   "source": "MunMosh.js"
 },
     {
-  "title": "春はゆく-Aimer",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "春はゆく",
+  "artist": "Aimer",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=14",
   "source": "MunMosh.js"
 },
     {
-  "title": "花の唄-Aimer",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "花の唄",
+  "artist": "Aimer",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=15",
   "source": "MunMosh.js"
 },
     {
-  "title": "symphonia-Kalafina",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "symphonia",
+  "artist": "Kalafina",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=16",
   "source": "MunMosh.js"
 },
     {
-  "title": "優しい夜明け-See-Saw",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "優しい夜明け",
+  "artist": "See-Saw",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=17",
   "source": "MunMosh.js"
 },
     {
-  "title": "炎-LiSA",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "炎",
+  "artist": "LiSA",
   "collection": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCYDepE4g?p=18",
@@ -8038,8 +8038,8 @@ window.SONG_DATA.push(
   "source": "MunMosh.js"
 },
     {
-  "title": "一番の宝物『Yui ver.』- Girls Dead Monster",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "一番の宝物",
+  "artist": "Girls Dead Monster",
   "collection": "[2026-01-29]同接450人目指します！🎸＃耐久 [Y4RsLCOtfVk]【 むんもっしゅ 弾き語り】🌙🎀",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11B6yBiEuh?p=28",

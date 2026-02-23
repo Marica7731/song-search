@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1p1zBBCEZ3
-// 生成时间: 2/23/2026, 8:40:13 AM
+// 生成时间: 2/23/2026, 9:26:24 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7102,48 +7102,48 @@ window.SONG_DATA.push(
   "source": "yoshika.js"
 },
     {
-  "title": "アイドル-YOASOBI",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "アイドル",
+  "artist": "YOASOBI",
   "collection": "【 YOSHIKA⁂Ch. 】6横屏】3D披露LIVE【2024年6月16日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11a3xeTEzf?p=1",
   "source": "yoshika.js"
 },
     {
-  "title": "新時代-Ado",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "新時代",
+  "artist": "Ado",
   "collection": "【 YOSHIKA⁂Ch. 】6横屏】3D披露LIVE【2024年6月16日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11a3xeTEzf?p=2",
   "source": "yoshika.js"
 },
     {
-  "title": "ファンファーレ-よしか⁂",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ファンファーレ",
+  "artist": "よしか⁂",
   "collection": "【 YOSHIKA⁂Ch. 】6横屏】3D披露LIVE【2024年6月16日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11a3xeTEzf?p=3",
   "source": "yoshika.js"
 },
     {
-  "title": "想望-福山雅治",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "想望",
+  "artist": "福山雅治",
   "collection": "【 YOSHIKA⁂Ch. 】6横屏】3D披露LIVE【2024年6月16日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11a3xeTEzf?p=4",
   "source": "yoshika.js"
 },
     {
-  "title": "Stellar Stellar-ホロライブ星街すいせい",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Stellar Stellar",
+  "artist": "ホロライブ星街すいせい",
   "collection": "【 YOSHIKA⁂Ch. 】6横屏】3D披露LIVE【2024年6月16日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11a3xeTEzf?p=5",
   "source": "yoshika.js"
 },
     {
-  "title": "シング・サイン・シンフォニー-よしか⁂",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "シング・サイン・シンフォニー",
+  "artist": "よしか⁂",
   "collection": "【 YOSHIKA⁂Ch. 】6横屏】3D披露LIVE【2024年6月16日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11a3xeTEzf?p=6",
