@@ -18,11 +18,25 @@
         h1 { 
             text-align: center; 
             color: #2c3e50; 
-            margin-bottom: 35px;
+            margin-bottom: 10px; /* 改小一点，给副标题留空间 */
             font-size: 28px;
             font-weight: 700;
             text-shadow: 0 2px 4px rgba(0,0,0,0.05);
         }
+        /* 【新增】子标题样式 */
+        .sub-header {
+            text-align: center;
+            color: #6c757d;
+            margin-bottom: 30px;
+            font-size: 14px;
+        }
+        .nav-link {
+            color: #00a1d6;
+            text-decoration: none;
+            font-weight: 600;
+        }
+        .nav-link:hover { text-decoration: underline; }
+
         .filter-search-container {
             display: flex;
             flex-direction: column;
@@ -511,6 +525,10 @@
 </head>
 <body>
     <h1>🎵 我的已切歌曲查询站</h1>
+    <!-- 【新增】子标题与导航链接 -->
+    <div class="sub-header">
+        系统化管理你的音乐收藏 | <a href="stats.html" class="nav-link">查看演唱者统计与排行</a>
+    </div>
 
     <div class="filter-search-container">
         <div class="filter-bar" id="filter-bar">
@@ -758,26 +776,19 @@
             const filterBar = document.getElementById('filter-bar');
             filterBar.innerHTML = '<span class="filter-label">🔍 按歌手/来源筛选：</span>';
 
-            // 全部按钮
+            // 1. 全部按钮
             const allBtn = document.createElement('button');
             allBtn.className = `filter-btn ${activeSource === 'all' ? 'active' : ''}`;
             allBtn.textContent = '全部';
             allBtn.onclick = () => switchSource('all');
             filterBar.appendChild(allBtn);
 
-            // 【新增】缺失歌手按钮
-            const missingBtn = document.createElement('button');
-            missingBtn.className = `filter-btn missing-artist ${activeSource === 'missing-artist' ? 'active' : ''}`;
-            missingBtn.textContent = '⚠️ 缺失歌手';
-            missingBtn.onclick = () => switchSource('missing-artist');
-            filterBar.appendChild(missingBtn);
-
-            // 分隔线（可选，用空格代替）
+            // 2. 分隔线（可选，用空格代替）
             const spacer = document.createElement('span');
             spacer.style.width = '10px';
             filterBar.appendChild(spacer);
 
-            // 原有的文件来源按钮
+            // 3. 原有的文件来源按钮
             fileNames.forEach(fileName => {
                 const fileBase = fileName.replace('.js', '');
                 const btnText = FILE_TO_ALIAS[fileBase] || fileBase;
@@ -788,7 +799,14 @@
                 filterBar.appendChild(btn);
             });
 
-            // 清空筛选按钮
+            // 4. 【移动位置】缺失歌手按钮 (放在来源之后，清空前)
+            const missingBtn = document.createElement('button');
+            missingBtn.className = `filter-btn missing-artist ${activeSource === 'missing-artist' ? 'active' : ''}`;
+            missingBtn.textContent = '⚠️ 缺失歌手';
+            missingBtn.onclick = () => switchSource('missing-artist');
+            filterBar.appendChild(missingBtn);
+
+            // 5. 清空筛选按钮 (保持在最右)
             const clearBtn = document.createElement('button');
             clearBtn.className = 'filter-btn clear';
             clearBtn.textContent = '清空筛选';
