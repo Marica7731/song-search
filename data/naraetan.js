@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1G6fLB7Efr
-// 生成时间: 2/23/2026, 3:38:41 PM
+// 生成时间: 2/23/2026, 4:45:02 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4323,6 +4323,14 @@ window.SONG_DATA.push(
   "collection": "1／ｆ - LISA Cover by なねたん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yTfFB9Ekj?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "奏",
+  "artist": "スキマスイッチ cover by なねたん",
+  "collection": "奏 - スキマスイッチ cover by なねたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XcfBBGEL5?p=1",
   "source": "naraetan.js"
 }
 );
