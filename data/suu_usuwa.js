@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1ve411z7Nm
-// 生成时间: 2/23/2026, 9:40:59 AM
+// 生成时间: 2/23/2026, 10:42:36 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2519,7 +2519,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "エイリアンズ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "きのホ。 feat. 初音ミク",
   "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vH4y1J747?p=1",
@@ -2527,7 +2527,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "いのちの名前",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "木村弓",
   "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vH4y1J747?p=2",
@@ -2535,7 +2535,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "輝く未来",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "手嶌葵",
   "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vH4y1J747?p=3",
@@ -2543,15 +2543,15 @@ window.SONG_DATA.push(
 },
     {
   "title": "燈",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "星街すいせい",
   "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vH4y1J747?p=4",
   "source": "suu_usuwa.js"
 },
     {
-  "title": "晴る(2)",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "晴る",
+  "artist": "ヨルシカ",
   "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vH4y1J747?p=5",
@@ -2559,7 +2559,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夜に駆ける",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "YOASOBI",
   "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vH4y1J747?p=6",
@@ -2567,7 +2567,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夜撫でるメノウ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "Ayase feat. 初音ミク",
   "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vH4y1J747?p=7",
@@ -2575,7 +2575,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "回る空うさぎ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "やなぎなぎ",
   "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vH4y1J747?p=8",
@@ -2583,7 +2583,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "忘れじの言の葉",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "やなぎなぎ",
   "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vH4y1J747?p=9",
@@ -2591,7 +2591,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "カタオモイ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "Aimer",
   "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vH4y1J747?p=10",
@@ -2599,7 +2599,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "さくら (独唱)",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "森山直太朗",
   "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vH4y1J747?p=11",
@@ -2607,7 +2607,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "春泥棒",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "ヨルシカ",
   "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vH4y1J747?p=12",
@@ -2615,7 +2615,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "涙そうそう",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "BEGIN",
   "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vH4y1J747?p=13",
@@ -2623,7 +2623,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Lemon",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "米津玄師",
   "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vH4y1J747?p=14",
@@ -2631,7 +2631,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "たばこ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "コレサワ",
   "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vH4y1J747?p=15",
@@ -2639,7 +2639,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "One more time,One more chance",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "山崎まさよし",
   "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vH4y1J747?p=16",
