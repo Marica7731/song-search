@@ -565,11 +565,43 @@
             return true;
         }
 
+        // ========== 【核心优化】字符串标准化函数 ==========
+        function normalizeString(str) {
+            if (!str) return '';
+            let s = str.trim();
+            
+            // 1. 全角转半角（覆盖：字母、数字、标点、空格、波浪线等）
+            // 全角字符范围：\uFF01-\uFF5E，全角空格：\u3000
+            s = s.replace(/[\uFF01-\uFF5E]/g, function(ch) {
+                return String.fromCharCode(ch.charCodeAt(0) - 0xFEE0);
+            });
+            s = s.replace(/\u3000/g, ' '); // 全角空格转半角
+            
+            // 2. 统一特殊符号
+            // 波浪线统一：全角～ 及其他变体 -> 半角~
+            s = s.replace(/[～〜˜]/g, '~');
+            // 破折号统一：长破折号、短破折号 -> 标准连字符-
+            s = s.replace(/[—–―]/g, '-');
+            // 引号统一：中文引号 -> 英文引号
+            s = s.replace(/[“”]/g, '"').replace(/[‘’]/g, "'");
+            // 省略号统一
+            s = s.replace(/…/g, '...');
+            
+            // 3. 处理空格：合并多个空格为一个
+            s = s.replace(/\s+/g, ' ');
+            
+            // 4. 统一大小写（可选，针对英文歌名/歌手）
+            // s = s.toLowerCase();
+            
+            return s;
+        }
+
         // ========== 模糊匹配核心函数 ==========
         // 判断两个字符串是否有连续N个相同字符
         function hasContinuousCommonStr(str1, str2, minLength = 2) {
-            const s1 = str1.trim();
-            const s2 = str2.trim();
+            // 注意：这里也使用标准化后的字符串进行比较
+            const s1 = normalizeString(str1);
+            const s2 = normalizeString(str2);
             if (s1.length < minLength || s2.length < minLength) return false;
             for (let i = 0; i <= s1.length - minLength; i++) {
                 const subStr = s1.substring(i, i + minLength);
@@ -580,10 +612,12 @@
 
         // 判断两首歌是否为同一首（歌名相同 + 歌手匹配规则）
         function isSameSong(songA, songB) {
-            const titleA = (songA.title || '未知歌曲').trim();
-            const titleB = (songB.title || '未知歌曲').trim();
+            // 【修改】使用标准化后的歌名进行比较
+            const titleA = normalizeString(songA.title || '未知歌曲');
+            const titleB = normalizeString(songB.title || '未知歌曲');
             if (titleA !== titleB) return false;
 
+            // 提取歌手信息
             const artistA = (songA.artist || '').trim();
             const artistB = (songB.artist || '').trim();
             const validA = isValidArtist(artistA);
@@ -591,16 +625,21 @@
 
             if (!validA && !validB) return true;
             if (!validA || !validB) return false;
-            return artistA === artistB || hasContinuousCommonStr(artistA, artistB);
+            
+            // 【修改】歌手比较也优先使用标准化后的完全匹配，再用模糊匹配
+            const normArtistA = normalizeString(artistA);
+            const normArtistB = normalizeString(artistB);
+            return normArtistA === normArtistB || hasContinuousCommonStr(artistA, artistB);
         }
 
         // 去重歌曲数计算函数
         function getUniqueSongCount(data) {
             if (data.length === 0) return 0;
             
+            // 【优化】分组时也使用标准化后的歌名作为Key，确保不同写法的同一首歌能分到一组
             const titleGroup = {};
             data.forEach(song => {
-                const titleKey = (song.title || '未知歌曲').trim();
+                const titleKey = normalizeString(song.title || '未知歌曲');
                 if (!titleGroup[titleKey]) titleGroup[titleKey] = [];
                 titleGroup[titleKey].push(song);
             });
@@ -880,17 +919,16 @@
                         </div>
                     `;
                     
-                    // ========== 【核心修改】歌名旁复制按钮改为复制「歌手 - 歌名」 ==========
+                    // 歌名旁复制按钮：复制「歌手 - 歌名」
                     const titleCopyBtn = li.querySelector('[data-type="title"]');
                     if (titleCopyBtn) {
                         const title = item.title || '未知歌曲';
                         const artist = item.artist?.trim();
-                        // 构造复制文本：有歌手则为「歌名 - 歌手」，无歌手则仅歌名
                         const copyText = isValidArtist(artist) ? `${title} - ${artist}` : title;
                         titleCopyBtn.onclick = () => copyToClipboard(copyText);
                     }
                     
-                    // 歌手复制按钮（保持原样：仅复制歌手名）
+                    // 歌手复制按钮（保持原样）
                     const artistCopyBtn = li.querySelector('[data-type="artist"]');
                     if (artistCopyBtn) {
                         artistCopyBtn.onclick = () => copyToClipboard(item.artist);
