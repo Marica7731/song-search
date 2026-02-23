@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1p1zBBCEZ3
-// 生成时间: 2/23/2026, 7:10:18 AM
+// 生成时间: 2/23/2026, 8:04:08 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3767,7 +3767,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ウィーアー!",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "きただにひろし",
   "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=1",
@@ -3775,7 +3775,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Rolling star",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "YUI",
   "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=2",
@@ -3783,7 +3783,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "キューティーハニー",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "前川陽子",
   "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=3",
@@ -3791,7 +3791,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "キミがいれば",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "いおり",
   "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=4",
@@ -3799,7 +3799,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "雪、無音、窓辺にて。",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "長門有希(CV.茅原実里) 『涼宮ハルヒの憂鬱』キャラクターソング",
   "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=5",
@@ -3807,7 +3807,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "世界に一つだけの花",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "SMAP",
   "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=6",
@@ -3815,7 +3815,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "となりのトトロ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "井上あずみ",
   "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=7",
@@ -3823,7 +3823,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "only my railgun",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "fripSide",
   "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=8",
@@ -3831,7 +3831,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "残酷な天使のテーゼ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "高橋洋子",
   "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=9",
@@ -3839,7 +3839,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "海の声",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "桐谷健太",
   "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=10",
@@ -3847,7 +3847,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ダイアの花",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "より子",
   "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=11",
@@ -3855,7 +3855,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "コッペリアの柩",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "ALI PROJECT",
   "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=12",
@@ -5591,7 +5591,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "SAKURAスキップ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "fourfolium（高田憂希／山口愛／戸田めぐみ／竹尾歩美）",
   "collection": "26首横屏【YOSHIKA⁂Ch.  歌枠】新衣装で初歌枠01. SAKURAスキップ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Zp421m7QS?p=1",
@@ -5599,7 +5599,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "勇気100％",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "光GENJI",
   "collection": "26首横屏【YOSHIKA⁂Ch.  歌枠】新衣装で初歌枠01. SAKURAスキップ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Zp421m7QS?p=2",
@@ -5607,15 +5607,15 @@ window.SONG_DATA.push(
 },
     {
   "title": "シュガーソングとビターステップ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "UNISON SQUARE GARDEN",
   "collection": "26首横屏【YOSHIKA⁂Ch.  歌枠】新衣装で初歌枠01. SAKURAスキップ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Zp421m7QS?p=3",
   "source": "yoshika.js"
 },
     {
-  "title": "粛聖!! ロリ神レクイエム☆",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "粛聖!! ロリ神レクイエム",
+  "artist": "しぐれうい（9さい）",
   "collection": "26首横屏【YOSHIKA⁂Ch.  歌枠】新衣装で初歌枠01. SAKURAスキップ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Zp421m7QS?p=4",
@@ -5623,7 +5623,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ココロのちず",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "BOYSTYLE",
   "collection": "26首横屏【YOSHIKA⁂Ch.  歌枠】新衣装で初歌枠01. SAKURAスキップ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Zp421m7QS?p=5",
@@ -5631,7 +5631,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シル・ヴ・プレジデント",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "P丸様。",
   "collection": "26首横屏【YOSHIKA⁂Ch.  歌枠】新衣装で初歌枠01. SAKURAスキップ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Zp421m7QS?p=6",
@@ -5639,7 +5639,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Hello,星を数えて",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "μ's",
   "collection": "26首横屏【YOSHIKA⁂Ch.  歌枠】新衣装で初歌枠01. SAKURAスキップ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Zp421m7QS?p=7",
@@ -5647,7 +5647,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シャルイース",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "ホロライブ／アキ・ローゼンタール",
   "collection": "26首横屏【YOSHIKA⁂Ch.  歌枠】新衣装で初歌枠01. SAKURAスキップ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Zp421m7QS?p=8",
@@ -5655,7 +5655,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "１・２・３",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "After the Rain（そらる×まふまふ）",
   "collection": "26首横屏【YOSHIKA⁂Ch.  歌枠】新衣装で初歌枠01. SAKURAスキップ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Zp421m7QS?p=9",
@@ -5663,7 +5663,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "エガオノキミへ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "三森鈴子",
   "collection": "26首横屏【YOSHIKA⁂Ch.  歌枠】新衣装で初歌枠01. SAKURAスキップ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Zp421m7QS?p=10",
@@ -5671,7 +5671,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Star Divine",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "スタァライト九九組",
   "collection": "26首横屏【YOSHIKA⁂Ch.  歌枠】新衣装で初歌枠01. SAKURAスキップ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Zp421m7QS?p=11",
@@ -5679,7 +5679,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "虹",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "菅田将暉",
   "collection": "26首横屏【YOSHIKA⁂Ch.  歌枠】新衣装で初歌枠01. SAKURAスキップ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Zp421m7QS?p=12",
@@ -5687,7 +5687,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Bling Bang Bang Born",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "Creepy Nuts",
   "collection": "26首横屏【YOSHIKA⁂Ch.  歌枠】新衣装で初歌枠01. SAKURAスキップ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Zp421m7QS?p=13",
@@ -5695,7 +5695,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "七色シンフォニー",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "コアラモード．",
   "collection": "26首横屏【YOSHIKA⁂Ch.  歌枠】新衣装で初歌枠01. SAKURAスキップ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Zp421m7QS?p=14",
@@ -5703,7 +5703,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "キミがいれば",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "いおり",
   "collection": "26首横屏【YOSHIKA⁂Ch.  歌枠】新衣装で初歌枠01. SAKURAスキップ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Zp421m7QS?p=15",
@@ -5711,7 +5711,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "全ての人の魂の詩",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "小宮知子",
   "collection": "26首横屏【YOSHIKA⁂Ch.  歌枠】新衣装で初歌枠01. SAKURAスキップ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Zp421m7QS?p=16",
@@ -5719,7 +5719,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "you",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "癒月",
   "collection": "26首横屏【YOSHIKA⁂Ch.  歌枠】新衣装で初歌枠01. SAKURAスキップ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Zp421m7QS?p=17",
@@ -5727,7 +5727,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "みちしるべ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "茅原實里",
   "collection": "26首横屏【YOSHIKA⁂Ch.  歌枠】新衣装で初歌枠01. SAKURAスキップ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Zp421m7QS?p=18",
@@ -5735,7 +5735,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "渡月橋～君想ふ～",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "倉木麻衣",
   "collection": "26首横屏【YOSHIKA⁂Ch.  歌枠】新衣装で初歌枠01. SAKURAスキップ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Zp421m7QS?p=19",
@@ -5743,15 +5743,15 @@ window.SONG_DATA.push(
 },
     {
   "title": "MOTHER",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "奥華子×96猫",
   "collection": "26首横屏【YOSHIKA⁂Ch.  歌枠】新衣装で初歌枠01. SAKURAスキップ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Zp421m7QS?p=20",
   "source": "yoshika.js"
 },
     {
-  "title": "实现梦想的哆啦a梦",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao",
   "collection": "26首横屏【YOSHIKA⁂Ch.  歌枠】新衣装で初歌枠01. SAKURAスキップ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Zp421m7QS?p=21",
@@ -5759,7 +5759,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "めざせポケモンマスター",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "松本梨香",
   "collection": "26首横屏【YOSHIKA⁂Ch.  歌枠】新衣装で初歌枠01. SAKURAスキップ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Zp421m7QS?p=22",
@@ -5767,7 +5767,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛しい人へ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "タイナカサチ",
   "collection": "26首横屏【YOSHIKA⁂Ch.  歌枠】新衣装で初歌枠01. SAKURAスキップ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Zp421m7QS?p=23",
@@ -5775,7 +5775,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "天城越え",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "石川さゆり",
   "collection": "26首横屏【YOSHIKA⁂Ch.  歌枠】新衣装で初歌枠01. SAKURAスキップ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Zp421m7QS?p=24",
@@ -5783,7 +5783,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "新時代",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "Ado",
   "collection": "26首横屏【YOSHIKA⁂Ch.  歌枠】新衣装で初歌枠01. SAKURAスキップ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Zp421m7QS?p=25",
@@ -5791,7 +5791,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アイドル",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "YOASOBI",
   "collection": "26首横屏【YOSHIKA⁂Ch.  歌枠】新衣装で初歌枠01. SAKURAスキップ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Zp421m7QS?p=26",
@@ -17607,7 +17607,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "キミがいれば",
-  "artist": "伊織",
+  "artist": "いおり",
   "collection": "【耐久歌枠（49）】🍠向着梦想一起前进的10万粉丝耐久歌回🌟【YOSHIKA⁂Ch.】2025年03月05日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14bRFYxEpC?p=40",

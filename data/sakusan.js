@@ -1,6 +1,6 @@
 // 酢酸 / SAKUSAN - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1JSZHBrEVw
-// 生成时间: 2/23/2026, 7:10:01 AM
+// 生成时间: 2/23/2026, 8:03:45 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -94,7 +94,7 @@ window.SONG_DATA.push(
   "source": "sakusan.js"
 },
     {
-  "title": "アイドルでよかった",
+  "title": "アイドルでよかった (feat.HoneyWorks)",
   "artist": "mona(CV：夏川椎菜)",
   "collection": "酢酸かのん 2025.5.5直播 主流程歌切",
   "up": "前尘往事如昔故",
@@ -358,8 +358,8 @@ window.SONG_DATA.push(
   "source": "sakusan.js"
 },
     {
-  "title": "キミがいれば(黒鉄の魚影 サントラヴァージョン)",
-  "artist": "伊織",
+  "title": "キミがいれば",
+  "artist": "いおり(黒鉄の魚影 サントラヴァージョン)",
   "collection": "【酢酸 / SAKUSAN 歌切】[2025-05-15]うた聴いていってください...！🤍＼初見さんも大歓迎／[50t3HUO3ODU]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15YzHBmEJi?p=2",
@@ -382,8 +382,8 @@ window.SONG_DATA.push(
   "source": "sakusan.js"
 },
     {
-  "title": "はじめてのチュウ（1番のみ）",
-  "artist": "あんしんパパ",
+  "title": "はじめてのチュウ",
+  "artist": "あんしんパパ（1番のみ）",
   "collection": "【酢酸 / SAKUSAN 歌切】[2025-05-15]うた聴いていってください...！🤍＼初見さんも大歓迎／[50t3HUO3ODU]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15YzHBmEJi?p=5",
@@ -406,8 +406,8 @@ window.SONG_DATA.push(
   "source": "sakusan.js"
 },
     {
-  "title": "いのちの名前（1番のみ）",
-  "artist": "木村弓",
+  "title": "いのちの名前",
+  "artist": "木村弓（1番のみ）",
   "collection": "【酢酸 / SAKUSAN 歌切】[2025-05-15]うた聴いていってください...！🤍＼初見さんも大歓迎／[50t3HUO3ODU]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15YzHBmEJi?p=8",
@@ -478,8 +478,8 @@ window.SONG_DATA.push(
   "source": "sakusan.js"
 },
     {
-  "title": "春を告げる（1番のみ）",
-  "artist": "Yama",
+  "title": "春を告げる",
+  "artist": "Yama（1番のみ）",
   "collection": "【酢酸 / SAKUSAN 歌切】[2025-05-15]うた聴いていってください...！🤍＼初見さんも大歓迎／[50t3HUO3ODU]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15YzHBmEJi?p=17",
@@ -542,16 +542,16 @@ window.SONG_DATA.push(
   "source": "sakusan.js"
 },
     {
-  "title": "プロローグ（1番のみ）",
-  "artist": "Uru",
+  "title": "プロローグ",
+  "artist": "Uru（1番のみ）",
   "collection": "【酢酸 / SAKUSAN 歌切】[2025-05-15]うた聴いていってください...！🤍＼初見さんも大歓迎／[50t3HUO3ODU]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15YzHBmEJi?p=25",
   "source": "sakusan.js"
 },
     {
-  "title": "10月無口な君を忘れる（冒頭）",
-  "artist": "あたらよ",
+  "title": "10月無口な君を忘れる",
+  "artist": "あたらよ（冒頭）",
   "collection": "【酢酸 / SAKUSAN 歌切】[2025-05-15]うた聴いていってください...！🤍＼初見さんも大歓迎／[50t3HUO3ODU]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15YzHBmEJi?p=26",

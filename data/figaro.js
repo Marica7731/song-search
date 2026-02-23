@@ -1,6 +1,6 @@
 // Figaro - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1HRfuBCEXN
-// 生成时间: 2/23/2026, 7:08:30 AM
+// 生成时间: 2/23/2026, 8:01:57 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -511,7 +511,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "月のワルツ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "諫山実生",
   "collection": "【240303】#169 01. 月のワルツ【17 横屏】【 Figaro 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bw4m1o7ao?p=1",
@@ -519,7 +519,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "悪魔の子",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "ヒグチアイ",
   "collection": "【240303】#169 01. 月のワルツ【17 横屏】【 Figaro 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bw4m1o7ao?p=2",
@@ -527,7 +527,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "葛飾ラプソディー",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "堂島孝平",
   "collection": "【240303】#169 01. 月のワルツ【17 横屏】【 Figaro 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bw4m1o7ao?p=3",
@@ -535,7 +535,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "藍二乗",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "ヨルシカ",
   "collection": "【240303】#169 01. 月のワルツ【17 横屏】【 Figaro 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bw4m1o7ao?p=4",
@@ -543,7 +543,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "憂一乗",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "ヨルシカ",
   "collection": "【240303】#169 01. 月のワルツ【17 横屏】【 Figaro 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bw4m1o7ao?p=5",
@@ -551,7 +551,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ウィアートル",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "rionos",
   "collection": "【240303】#169 01. 月のワルツ【17 横屏】【 Figaro 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bw4m1o7ao?p=6",
@@ -559,7 +559,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "晚餐歌",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "tuki.",
   "collection": "【240303】#169 01. 月のワルツ【17 横屏】【 Figaro 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bw4m1o7ao?p=7",
@@ -567,7 +567,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夜明けと蛍",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "ナブナ",
   "collection": "【240303】#169 01. 月のワルツ【17 横屏】【 Figaro 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bw4m1o7ao?p=8",
@@ -575,7 +575,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "都落ち",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "ヨルシカ",
   "collection": "【240303】#169 01. 月のワルツ【17 横屏】【 Figaro 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bw4m1o7ao?p=9",
@@ -583,7 +583,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "春泥棒",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "ヨルシカ",
   "collection": "【240303】#169 01. 月のワルツ【17 横屏】【 Figaro 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bw4m1o7ao?p=10",
@@ -591,7 +591,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "忘れじの言の葉",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "未来古代楽団 feat. 安次嶺希和子",
   "collection": "【240303】#169 01. 月のワルツ【17 横屏】【 Figaro 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bw4m1o7ao?p=11",
@@ -599,15 +599,15 @@ window.SONG_DATA.push(
 },
     {
   "title": "すずめ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "RADWIMPS feat.十明",
   "collection": "【240303】#169 01. 月のワルツ【17 横屏】【 Figaro 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bw4m1o7ao?p=12",
   "source": "figaro.js"
 },
     {
-  "title": "フクロウ~フクロウが知らせる客が来たと~",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "フクロウ ～フクロウが知らせる客が来たと",
+  "artist": "KOKIA",
   "collection": "【240303】#169 01. 月のワルツ【17 横屏】【 Figaro 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bw4m1o7ao?p=13",
@@ -615,7 +615,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ワールド・ランプシェード",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "buzzG",
   "collection": "【240303】#169 01. 月のワルツ【17 横屏】【 Figaro 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bw4m1o7ao?p=14",
@@ -623,7 +623,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "to U",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "Bank Band with Salyu",
   "collection": "【240303】#169 01. 月のワルツ【17 横屏】【 Figaro 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bw4m1o7ao?p=15",
@@ -631,7 +631,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "打上花火",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "DAOKO×米津玄師",
   "collection": "【240303】#169 01. 月のワルツ【17 横屏】【 Figaro 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bw4m1o7ao?p=16",
@@ -639,7 +639,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "はるのとなり",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "佐々木恵梨",
   "collection": "【240303】#169 01. 月のワルツ【17 横屏】【 Figaro 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bw4m1o7ao?p=17",
@@ -1686,136 +1686,136 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "第一夜  The First Night",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "第一夜",
+  "artist": "ヨルシカ",
   "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=1",
   "source": "figaro.js"
 },
     {
-  "title": "心に穴が空いた  Hole in the Heart",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "心に穴が空いた",
+  "artist": "ヨルシカ",
   "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=2",
   "source": "figaro.js"
 },
     {
-  "title": "ただ君に晴れ  Cloudless",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
   "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=3",
   "source": "figaro.js"
 },
     {
-  "title": "ブレーメン  Bremen",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ブレーメン",
+  "artist": "ヨルシカ",
   "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=4",
   "source": "figaro.js"
 },
     {
-  "title": "逃亡  Escape",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "逃亡",
+  "artist": "ヨルシカ",
   "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=5",
   "source": "figaro.js"
 },
     {
-  "title": "夜行  Night Journey",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "夜行",
+  "artist": "ヨルシカ",
   "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=6",
   "source": "figaro.js"
 },
     {
-  "title": "春泥棒  Spring Thief",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
   "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=7",
   "source": "figaro.js"
 },
     {
-  "title": "爆弾魔  Bomber",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "爆弾魔",
+  "artist": "ヨルシカ",
   "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=8",
   "source": "figaro.js"
 },
     {
-  "title": "左右盲  Left-Right Confusion",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "左右盲",
+  "artist": "ヨルシカ",
   "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=9",
   "source": "figaro.js"
 },
     {
-  "title": "月光浴  Moonbath",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "月光浴",
+  "artist": "ヨルシカ",
   "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=10",
   "source": "figaro.js"
 },
     {
-  "title": "藍二乗  Blur",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
   "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=11",
   "source": "figaro.js"
 },
     {
-  "title": "靴の花火  Fireworks Beneath My Shoes",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
   "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=12",
   "source": "figaro.js"
 },
     {
-  "title": "都落ち  Miyakoochi",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "都落ち",
+  "artist": "ヨルシカ",
   "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=13",
   "source": "figaro.js"
 },
     {
-  "title": "斜陽  Setting Sun",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "斜陽",
+  "artist": "ヨルシカ",
   "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=14",
   "source": "figaro.js"
 },
     {
-  "title": "アルジャーノン  Algernon",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
   "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=15",
   "source": "figaro.js"
 },
     {
-  "title": "ノーチラス  Nautilus",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
   "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=16",
   "source": "figaro.js"
 },
     {
-  "title": "だから僕は音楽を辞めた  That's Why I Gave Up on Music",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
   "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=17",
@@ -14550,7 +14550,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "たぶん (Probably)",
+  "title": "たぶん",
   "artist": "YOASOBI",
   "collection": "🎤 【竖屏歌曲直播 】在深夜时分…🎶｜为您带来心安的歌声💐#短视频【 Vsinger Figaro 】",
   "up": "前尘往事如昔故",
@@ -14558,7 +14558,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "ドライフラワー (Dried Flower)",
+  "title": "ドライフラワー",
   "artist": "優里",
   "collection": "🎤 【竖屏歌曲直播 】在深夜时分…🎶｜为您带来心安的歌声💐#短视频【 Vsinger Figaro 】",
   "up": "前尘往事如昔故",
@@ -14582,7 +14582,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "怪獣 (Kaiju)",
+  "title": "怪獣",
   "artist": "サカナクション",
   "collection": "🎤 【竖屏歌曲直播 】在深夜时分…🎶｜为您带来心安的歌声💐#短视频【 Vsinger Figaro 】",
   "up": "前尘往事如昔故",
@@ -14590,7 +14590,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "明日への手紙 (Asu e no Tegami)",
+  "title": "明日への手紙",
   "artist": "手嶌葵",
   "collection": "🎤 【竖屏歌曲直播 】在深夜时分…🎶｜为您带来心安的歌声💐#短视频【 Vsinger Figaro 】",
   "up": "前尘往事如昔故",
@@ -14598,7 +14598,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "夜明けと蛍 (Dawn and Firefly)",
+  "title": "夜明けと蛍",
   "artist": "ナブナ",
   "collection": "🎤 【竖屏歌曲直播 】在深夜时分…🎶｜为您带来心安的歌声💐#短视频【 Vsinger Figaro 】",
   "up": "前尘往事如昔故",
@@ -14606,7 +14606,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "深昏睡 (Deep coma)",
+  "title": "深昏睡",
   "artist": "春野",
   "collection": "🎤 【竖屏歌曲直播 】在深夜时分…🎶｜为您带来心安的歌声💐#短视频【 Vsinger Figaro 】",
   "up": "前尘往事如昔故",
@@ -14614,7 +14614,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "楽園 (lost paradise)",
+  "title": "楽園",
   "artist": "春野",
   "collection": "🎤 【竖屏歌曲直播 】在深夜时分…🎶｜为您带来心安的歌声💐#短视频【 Vsinger Figaro 】",
   "up": "前尘往事如昔故",
@@ -14622,7 +14622,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "ポラリス (Polaris)",
+  "title": "ポラリス",
   "artist": "Aimer",
   "collection": "🎤 【竖屏歌曲直播 】在深夜时分…🎶｜为您带来心安的歌声💐#短视频【 Vsinger Figaro 】",
   "up": "前尘往事如昔故",
@@ -14630,7 +14630,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "風を食む (Eat The Wind)",
+  "title": "風を食む",
   "artist": "ヨルシカ",
   "collection": "🎤 【竖屏歌曲直播 】在深夜时分…🎶｜为您带来心安的歌声💐#短视频【 Vsinger Figaro 】",
   "up": "前尘往事如昔故",
@@ -14638,7 +14638,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "秒針を噛む (Byoushinwo Kamu)",
+  "title": "秒針を噛む",
   "artist": "ずっと真夜中でいいのに。",
   "collection": "🎤 【竖屏歌曲直播 】在深夜时分…🎶｜为您带来心安的歌声💐#短视频【 Vsinger Figaro 】",
   "up": "前尘往事如昔故",
@@ -14646,7 +14646,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "チノカテ (Chinokate)",
+  "title": "チノカテ",
   "artist": "ヨルシカ",
   "collection": "🎤 【竖屏歌曲直播 】在深夜时分…🎶｜为您带来心安的歌声💐#短视频【 Vsinger Figaro 】",
   "up": "前尘往事如昔故",
@@ -14654,7 +14654,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "忘れじの言の葉 (Wasureji no Kotonoha)",
+  "title": "忘れじの言の葉",
   "artist": "未来古代楽団",
   "collection": "🎤 【竖屏歌曲直播 】在深夜时分…🎶｜为您带来心安的歌声💐#短视频【 Vsinger Figaro 】",
   "up": "前尘往事如昔故",
@@ -14662,7 +14662,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "地獄先生 (Jigoku Sensei)",
+  "title": "地獄先生",
   "artist": "相対性理論",
   "collection": "🎤 【竖屏歌曲直播 】在深夜时分…🎶｜为您带来心安的歌声💐#短视频【 Vsinger Figaro 】",
   "up": "前尘往事如昔故",
@@ -14670,7 +14670,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "(恋は)百年戦争 ((Koi wa) Hyakunen Sensou)",
+  "title": "(恋は)百年戦争",
   "artist": "相対性理論",
   "collection": "🎤 【竖屏歌曲直播 】在深夜时分…🎶｜为您带来心安的歌声💐#短视频【 Vsinger Figaro 】",
   "up": "前尘往事如昔故",
@@ -14678,7 +14678,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "ミス・パラレルワールド (Miss Parallel World)",
+  "title": "ミス・パラレルワールド",
   "artist": "相対性理論",
   "collection": "🎤 【竖屏歌曲直播 】在深夜时分…🎶｜为您带来心安的歌声💐#短视频【 Vsinger Figaro 】",
   "up": "前尘往事如昔故",
@@ -14686,7 +14686,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "ルージュの伝言 (Lipstick Message)",
+  "title": "ルージュの伝言",
   "artist": "松任谷由実",
   "collection": "🎤 【竖屏歌曲直播 】在深夜时分…🎶｜为您带来心安的歌声💐#短视频【 Vsinger Figaro 】",
   "up": "前尘往事如昔故",
@@ -14694,7 +14694,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "夜間飛行 (Yakan Hikou)",
+  "title": "夜間飛行",
   "artist": "藍色にしもん",
   "collection": "🎤 【竖屏歌曲直播 】在深夜时分…🎶｜为您带来心安的歌声💐#短视频【 Vsinger Figaro 】",
   "up": "前尘往事如昔故",

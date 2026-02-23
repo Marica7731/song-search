@@ -1,6 +1,6 @@
 // むんもっしゅ - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1UCkhBkEon
-// 生成时间: 2/23/2026, 7:12:15 AM
+// 生成时间: 2/23/2026, 8:06:06 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4414,8 +4414,8 @@ window.SONG_DATA.push(
   "source": "MunMosh.js"
 },
     {
-  "title": "すずめ feat.十明",
-  "artist": "RADWIMPS",
+  "title": "すずめ",
+  "artist": "RADWIMPS feat.十明",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=49",
