@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>歌曲查询站 - B站分P直达</title>
     <style>
-        /* 样式不变，省略 */
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body { 
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "PingFang SC", "Microsoft YaHei", sans-serif; 
@@ -15,6 +14,7 @@
         h1 { text-align: center; color: #2c3e50; margin-bottom: 10px; font-size: 28px; font-weight: 700; }
         .sub-header { text-align: center; color: #6c757d; margin-bottom: 30px; font-size: 14px; }
         .nav-link { color: #00a1d6; text-decoration: none; font-weight: 600; }
+        .nav-link:hover { text-decoration: underline; }
         .filter-search-container { display: flex; flex-direction: column; gap: 18px; margin-bottom: 25px; }
         .filter-bar { display: flex; gap: 10px; flex-wrap: wrap; padding: 15px 20px; background: white; border-radius: 12px; align-items: center; box-shadow: 0 2px 10px rgba(0,0,0,0.05); }
         .filter-label { font-size: 14px; color: #495057; font-weight: 600; white-space: nowrap; }
@@ -33,19 +33,22 @@
         .progress-msg { text-align: center; color: #495057; padding: 40px 20px; font-size: 16px; font-weight: 500; }
         .empty-msg { text-align: center; color: #6c757d; padding: 60px 20px; font-size: 16px; display: none; font-weight: 500; }
         #song-list { list-style: none; padding: 0; margin-bottom: 35px; }
-        .song-item { padding: 20px 25px; margin-bottom: 12px; background: white; border-radius: 12px; display: flex; justify-content: space-between; align-items: center; gap: 15px; flex-wrap: wrap; box-shadow: 0 2px 8px rgba(0,0,0,0.04); }
+        .song-item { padding: 20px 25px; margin-bottom: 12px; background: white; border-radius: 12px; display: flex; justify-content: space-between; align-items: center; gap: 15px; flex-wrap: wrap; box-shadow: 0 2px 8px rgba(0,0,0,0.04); transition: all 0.3s ease; }
+        .song-item:hover { transform: translateY(-2px); }
         .song-item.missing-artist { border: 2px solid #dc3545; background: linear-gradient(135deg, #fff5f5 0%, #ffffff 100%); }
         .copy-wrapper { position: relative; display: inline-block; }
-        .song-title { font-weight: 700; font-size: 17px; color: #2c3e50; padding-right: 20px; }
-        .song-artist-inline { font-size: 14px; color: #6c757d; padding-right: 20px; }
+        .song-title, .song-artist-inline, .collection-text { padding-right: 20px; }
+        .song-title { font-weight: 700; font-size: 17px; color: #2c3e50; line-height: 1.4; }
         .artist-tag { font-size: 11px; color: #c0c4cc; background: #f5f7fa; padding: 1px 4px; border-radius: 3px; margin-right: 6px; }
-        .collection-text { font-size: 14px; color: #6c757d; padding-right: 20px; }
+        .song-artist-inline { font-size: 14px; color: #6c757d; display: inline-flex; align-items: center; }
+        .collection-text { font-size: 14px; color: #6c757d; line-height: 1.5; }
         .copy-btn { position: absolute; top: 0; right: 0; background: transparent; border: none; color: #c0c4cc; font-size: 10px; cursor: pointer; }
         .copy-btn:hover { color: #00a1d6; transform: scale(1.2); }
         .song-source { font-size: 12px; color: #adb5bd; margin-top: 6px; font-weight: 500; }
-        .song-actions { display: flex; gap: 8px; align-items: center; }
-        .song-link a { padding: 8px 25px 8px 18px; background: linear-gradient(135deg, #00a1d6 0%, #00c6ff 100%); color: white; text-decoration: none; border-radius: 8px; font-size: 13px; font-weight: 600; }
-        .edit-link { width: 24px; height: 24px; border-radius: 50%; background: linear-gradient(135deg, #ff7a18 0%, #ff9f43 100%); color: white; text-decoration: none; font-size: 12px; font-weight: 600; display: flex; align-items: center; justify-content: center; }
+        .song-actions { display: flex; flex-direction: row; gap: 8px; align-items: center; }
+        .song-link a { padding: 8px 25px 8px 18px; background: linear-gradient(135deg, #00a1d6 0%, #00c6ff 100%); color: white; text-decoration: none; border-radius: 8px; font-size: 13px; font-weight: 600; display: block; }
+        .edit-link { width: 24px; height: 24px; border-radius: 50%; background: linear-gradient(135deg, #ff7a18 0%, #ff9f43 100%); color: white; text-decoration: none; font-size: 12px; font-weight: 600; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+        .edit-link:hover { transform: scale(1.1); }
         .copy-toast { position: fixed; bottom: 30px; right: 30px; padding: 10px 20px; background: rgba(0, 0, 0, 0.75); color: white; border-radius: 20px; font-size: 14px; font-weight: 500; z-index: 9999; opacity: 0; transform: translateY(10px); transition: all 0.3s ease; pointer-events: none; }
         .copy-toast.show { opacity: 1; transform: translateY(0); }
         .pagination { display: flex; justify-content: center; align-items: center; gap: 8px; margin-top: 30px; padding: 20px; }
@@ -87,7 +90,6 @@
 
     <script src="common.js"></script>
     <script>
-        // 页面私有变量
         window.SONG_DATA = [];
         let originalData = [];
         let filteredBySource = [];
@@ -97,8 +99,6 @@
         let activeSource = 'all';
         const fileNames = [];
         let FILE_TO_ALIAS = {};
-        
-        // 状态锁
         let isDataReady = false;
 
         function showCopyToast() {
@@ -117,7 +117,6 @@
             return match ? match[0] : null;
         }
 
-        // 🔧 优化：直接用 DOM 操作生成按钮，不做复杂重绘
         function generateFilterButtons() {
             const filterBar = document.getElementById('filter-bar');
             filterBar.innerHTML = '<span class="filter-label">🔍 按歌手/来源筛选：</span>';
@@ -167,24 +166,20 @@
             updateFilterAndSearch();
         }
 
-        // 🔧 优化：筛选逻辑保持轻量
         function updateFilterAndSearch() {
             if (!isDataReady) return;
 
-            // 1. 来源筛选
             if (activeSource === 'all') {
-                filteredBySource = originalData; // 直接引用，不复制
+                filteredBySource = originalData;
             } else if (activeSource === 'missing-artist') {
                 filteredBySource = originalData.filter(item => !isValidArtist(item.artist));
             } else {
                 filteredBySource = originalData.filter(item => item.source === activeSource);
             }
 
-            // 2. 搜索筛选
             const keyword = document.getElementById('search-input').value.trim().toLowerCase();
             if (keyword) {
                 filteredBySearch = filteredBySource.filter(item => {
-                    // 简单的包含判断，不做复杂正则
                     const t = (item.title || '').toLowerCase();
                     const a = (item.artist || '').toLowerCase();
                     const c = (item.collection || '').toLowerCase();
@@ -194,12 +189,8 @@
                 filteredBySearch = filteredBySource;
             }
 
-            // 3. 更新统计 (使用超快的 Set 算法)
             const statsMsg = document.getElementById('stats-msg');
-            // 注意：为了极致速度，这里可以只在第一次或数据变化时算 totalUnique
-            // 这里为了简单，每次都算，但因为是 O(n) 所以依然很快
             const uniqueSearch = getUniqueSongCount(filteredBySearch);
-            
             statsMsg.textContent = `总歌曲数：${originalData.length} | 筛选后：${filteredBySource.length} | 搜索结果：${filteredBySearch.length}（去重：${uniqueSearch}）`;
             
             document.getElementById('copy-all-btn').disabled = filteredBySearch.length === 0;
@@ -208,7 +199,7 @@
 
         function renderSongList(data) {
             const listEl = document.getElementById('song-list');
-            listEl.innerHTML = ''; // 清空
+            listEl.innerHTML = '';
             const start = (currentPage - 1) * PAGE_SIZE;
             const pageData = data.slice(start, start + PAGE_SIZE);
 
@@ -216,39 +207,65 @@
                 document.getElementById('empty-msg').style.display = 'block';
             } else {
                 document.getElementById('empty-msg').style.display = 'none';
-                // 使用 DocumentFragment 减少重绘
                 const frag = document.createDocumentFragment();
+                
                 pageData.forEach(item => {
-                    const sourceAlias = FILE_TO_ALIAS[item.source?.replace('.js', '')] || item.source || '未知';
+                    const sourceBase = item.source?.replace('.js', '');
+                    const sourceAlias = FILE_TO_ALIAS[sourceBase] || item.source || '未知';
+                    const isLinkValid = item.link && /BV\w+/.test(item.link);
                     const bvid = extractBvid(item.link);
                     const hasValidArtist = isValidArtist(item.artist);
 
                     const li = document.createElement('li');
                     li.className = `song-item ${hasValidArtist ? '' : 'missing-artist'}`;
-                    // 简化 innerHTML 拼接
+                    
+                    // ✅ 恢复：合集字段、编辑按钮、完整的复制按钮
                     li.innerHTML = `
                         <div class="song-info">
-                            <div style="display:flex;align-items:center;gap:22px;flex-wrap:wrap;margin-bottom:8px;">
+                            <div class="song-title-row" style="display:flex;align-items:center;gap:22px;flex-wrap:wrap;margin-bottom:8px;">
                                 <div class="copy-wrapper">
                                     <div class="song-title">${item.title || '未知歌曲'}</div>
                                     <button class="copy-btn" data-type="title">📋</button>
                                 </div>
                                 ${hasValidArtist ? `
                                 <div class="copy-wrapper">
-                                    <span class="song-artist-inline"><span class="artist-tag">歌手</span>${item.artist}</span>
+                                    <span class="song-artist-inline">
+                                        <span class="artist-tag">歌手</span>${item.artist}
+                                    </span>
                                     <button class="copy-btn" data-type="artist">📋</button>
                                 </div>` : ''}
+                            </div>
+                            <div class="song-meta">
+                                <div class="copy-wrapper">
+                                    <span class="collection-text">合集：${item.collection || '未知'}</span>
+                                    <button class="copy-btn" data-type="collection">📋</button>
+                                </div>
                             </div>
                             <div class="song-source">来源：${sourceAlias}</div>
                         </div>
                         <div class="song-actions">
-                            ${item.link ? `<a href="${item.link}" target="_blank" style="padding:8px 18px;background:#00a1d6;color:white;text-decoration:none;border-radius:8px;font-size:13px;">直达B站</a>` : ''}
+                            ${isLinkValid ? `
+                            <div class="song-link">
+                                <a href="${item.link}" target="_blank">直达B站</a>
+                            </div>` : ''}
+                            ${bvid ? `<a href="https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=${bvid}" target="_blank" class="edit-link">✏️</a>` : ''}
                         </div>
                     `;
                     
                     // 绑定事件
-                    const titleBtn = li.querySelector('[data-type="title"]');
-                    if(titleBtn) titleBtn.onclick = () => copyToClipboard(hasValidArtist ? `${item.title} - ${item.artist}` : item.title);
+                    const titleCopyBtn = li.querySelector('[data-type="title"]');
+                    if (titleCopyBtn) {
+                        const title = item.title || '未知歌曲';
+                        const artist = item.artist?.trim();
+                        const copyText = hasValidArtist ? `${title} - ${artist}` : title;
+                        titleCopyBtn.onclick = () => copyToClipboard(copyText);
+                    }
+                    
+                    const artistCopyBtn = li.querySelector('[data-type="artist"]');
+                    if (artistCopyBtn) artistCopyBtn.onclick = () => copyToClipboard(item.artist);
+                    
+                    const collectionCopyBtn = li.querySelector('[data-type="collection"]');
+                    if (collectionCopyBtn) collectionCopyBtn.onclick = () => copyToClipboard(item.collection || '未知');
                     
                     frag.appendChild(li);
                 });
@@ -278,46 +295,39 @@
             addBtn('下一页', currentPage === totalPages ? 'disabled' : '', () => { if(currentPage<totalPages) { currentPage++; renderSongList(filteredBySearch); }});
         }
 
-        // 🔧 优化启动流程：先显示UI，再静默加载
         async function bootstrap() {
             const progressMsg = document.getElementById('progress-msg');
             try {
-                // 1. 先加载 index.json (很快)
                 progressMsg.textContent = '📥 读取配置...';
                 const res = await fetch('data/index.json');
                 const config = await res.json();
                 fileNames.push(...(config.files || []));
                 FILE_TO_ALIAS = config.fileToAlias || {};
 
-                // 2. 立即生成筛选按钮 (让用户先看到界面)
                 generateFilterButtons();
                 progressMsg.textContent = '📥 加载歌库数据...';
 
-                // 3. 并行加载 JS
                 await loadScriptsParallel(fileNames);
 
-                // 4. 数据准备完毕
                 isDataReady = true;
                 filteredBySource = originalData;
                 filteredBySearch = originalData;
 
-                // 5. 解锁 UI
                 document.getElementById('search-input').disabled = false;
                 document.getElementById('search-btn').disabled = false;
                 progressMsg.style.display = 'none';
 
-                // 6. 只算一次总去重数显示
                 const totalUnique = getUniqueSongCount(originalData);
                 document.getElementById('stats-msg').textContent = `总歌曲数：${originalData.length}（去重：${totalUnique}）`;
 
-                // 7. 渲染列表
                 renderSongList(originalData);
 
-                // 绑定事件
                 document.getElementById('search-btn').addEventListener('click', () => { currentPage=1; updateFilterAndSearch(); });
                 document.getElementById('search-input').addEventListener('keydown', (e) => { if(e.key==='Enter') { currentPage=1; updateFilterAndSearch(); }});
                 document.getElementById('copy-all-btn').addEventListener('click', () => {
-                    const text = filteredBySearch.map(item => `${item.title} - ${item.artist || '未知'}（${item.link}）`).join('\n');
+                    const text = filteredBySearch.map(item => {
+                        return isValidArtist(item.artist) ? `${item.title} - ${item.artist}（${item.link}）` : `${item.title}（${item.link}）`;
+                    }).join('\n');
                     if(text) copyToClipboard(text);
                 });
 
@@ -329,43 +339,28 @@
 
         function loadScriptsParallel(fileList) {
             const progressMsg = document.getElementById('progress-msg');
-            let loadedCount = 0;
-            
-            // 🔧 优化：不使用 Promise.all 等全部，而是来一个处理一个
-            // 但为了保持数据一致性，我们还是等全部，但内部处理加快
             return new Promise((resolve) => {
                 let resolvedCount = 0;
                 const total = fileList.length;
-                
-                if (total === 0) {
-                    resolve();
-                    return;
-                }
+                if (total === 0) { resolve(); return; }
 
                 fileList.forEach(fileName => {
                     const script = document.createElement('script');
                     script.src = `data/${fileName}`;
                     script.onload = () => {
-                        // 快速处理数据
                         const newDataCount = window.SONG_DATA.length - originalData.length;
                         if (newDataCount > 0) {
                             const newData = window.SONG_DATA.slice(-newDataCount);
-                            // 这里的循环是必须的，但很快
                             for(let i=0; i<newData.length; i++) {
                                 newData[i].source = fileName;
                             }
-                            // 直接替换引用，不要 [...spread] 复制大数组
                             originalData = window.SONG_DATA;
                         }
-                        loadedCount++;
-                        progressMsg.textContent = `📥 加载数据 (${loadedCount}/${total})...`;
-                        
-                        resolvedCount++;
+                        progressMsg.textContent = `📥 加载数据 (${++resolvedCount}/${total})...`;
                         if (resolvedCount === total) resolve();
                     };
                     script.onerror = () => {
-                        resolvedCount++;
-                        if (resolvedCount === total) resolve();
+                        if (++resolvedCount === total) resolve();
                     };
                     document.body.appendChild(script);
                 });
