@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1cofuBGEkX
-// 生成时间: 2/23/2026, 10:42:06 AM
+// 生成时间: 2/23/2026, 11:35:12 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2118,8 +2118,8 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "粛聖!! ロリ神レクイエム",
-  "artist": "时雨羽衣 [2024-11-26]",
+  "title": "粛聖!! ロリ神レクイエム☆",
+  "artist": "しぐれうい(9さい) [2024-11-26]",
   "collection": "补合集 🐍凛々咲 2024年11月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LP6VBbE7g?p=134",

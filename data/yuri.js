@@ -1,6 +1,6 @@
 // 優莉 yuri - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1aDzEBBE3S
-// 生成时间: 2/23/2026, 10:43:50 AM
+// 生成时间: 2/23/2026, 11:37:06 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -695,7 +695,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ないしょのパレット",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "優莉",
   "collection": "【優莉】弾き語りするよ♪[2026-02-07][s3kLx-ChK_o]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gBF4zGEbm?p=16",

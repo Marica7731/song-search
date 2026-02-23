@@ -1,6 +1,6 @@
 // 联动 - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1eTkKYDENL
-// 生成时间: 2/23/2026, 10:45:25 AM
+// 生成时间: 2/23/2026, 11:39:15 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -699,6 +699,86 @@ window.SONG_DATA.push(
   "collection": "【5首 联动】【 稀羽すう/夢川かなう/シエル 】3D歌枠コラボ - CONNECT_Vが繋いだ絆編 - 01. 残酷な天使のテーゼ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Du4m1g7sx?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "【 橙里セイ / Figaro 】7】和橙里セイ酱一起唱歌！【241008】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SJ2WYgEr7?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "蝶々結び",
+  "artist": "Aimer",
+  "collection": "【 橙里セイ / Figaro 】7】和橙里セイ酱一起唱歌！【241008】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SJ2WYgEr7?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生(2)",
+  "collection": "【 橙里セイ / Figaro 】7】和橙里セイ酱一起唱歌！【241008】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SJ2WYgEr7?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【 橙里セイ / Figaro 】7】和橙里セイ酱一起唱歌！【241008】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SJ2WYgEr7?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "点描の唄",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【 橙里セイ / Figaro 】7】和橙里セイ酱一起唱歌！【241008】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SJ2WYgEr7?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "水平線 // back number",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【 橙里セイ / Figaro 】7】和橙里セイ酱一起唱歌！【241008】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SJ2WYgEr7?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【 橙里セイ / Figaro 】7】和橙里セイ酱一起唱歌！【241008】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SJ2WYgEr7?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "青春アミーゴ",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【稀羽すう 3首】【まこうすわ2】🎉まこうすわ2周年纪念直播🎊 聊天和唱歌来庆祝吧！3. KICK BACK",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qz421o78z?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "SWEET MEMORIES",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【稀羽すう 3首】【まこうすわ2】🎉まこうすわ2周年纪念直播🎊 聊天和唱歌来庆祝吧！3. KICK BACK",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qz421o78z?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "KICK BACK",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【稀羽すう 3首】【まこうすわ2】🎉まこうすわ2周年纪念直播🎊 聊天和唱歌来庆祝吧！3. KICK BACK",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qz421o78z?p=3",
   "source": "friends.js"
 }
 );

@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1p1zBBCEZ3
-// 生成时间: 2/23/2026, 10:43:37 AM
+// 生成时间: 2/23/2026, 11:36:40 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1383,7 +1383,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ムーンライト伝説",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "DALI",
   "collection": "【20240315 13首竖屏】【YOSHIKA⁂Ch. 】眠れない人の KARAOKE 01. ムーンライト伝説",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iZ421b7iv?p=1",
@@ -1391,7 +1391,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "破滅の純情",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "ワルキューレ",
   "collection": "【20240315 13首竖屏】【YOSHIKA⁂Ch. 】眠れない人の KARAOKE 01. ムーンライト伝説",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iZ421b7iv?p=2",
@@ -1399,7 +1399,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "美少女無罪♡パイレーツ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "放課後ティータイム",
   "collection": "【20240315 13首竖屏】【YOSHIKA⁂Ch. 】眠れない人の KARAOKE 01. ムーンライト伝説",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iZ421b7iv?p=3",
@@ -1407,7 +1407,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "プラチナ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "坂本真綾",
   "collection": "【20240315 13首竖屏】【YOSHIKA⁂Ch. 】眠れない人の KARAOKE 01. ムーンライト伝説",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iZ421b7iv?p=4",
@@ -1415,7 +1415,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "気まぐれロマンティック",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "いきものがかり",
   "collection": "【20240315 13首竖屏】【YOSHIKA⁂Ch. 】眠れない人の KARAOKE 01. ムーンライト伝説",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iZ421b7iv?p=5",
@@ -1423,7 +1423,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ブルーバード",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "いきものがかり",
   "collection": "【20240315 13首竖屏】【YOSHIKA⁂Ch. 】眠れない人の KARAOKE 01. ムーンライト伝説",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iZ421b7iv?p=6",
@@ -1431,7 +1431,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Catch You Catch Me",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "グミ",
   "collection": "【20240315 13首竖屏】【YOSHIKA⁂Ch. 】眠れない人の KARAOKE 01. ムーンライト伝説",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iZ421b7iv?p=7",
@@ -1439,7 +1439,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ループ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "やなぎなぎ",
   "collection": "【20240315 13首竖屏】【YOSHIKA⁂Ch. 】眠れない人の KARAOKE 01. ムーンライト伝説",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iZ421b7iv?p=8",
@@ -1447,7 +1447,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花になって",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "緑黄色社会",
   "collection": "【20240315 13首竖屏】【YOSHIKA⁂Ch. 】眠れない人の KARAOKE 01. ムーンライト伝説",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iZ421b7iv?p=9",
@@ -1455,7 +1455,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ミックスナッツ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "Official髭男dism",
   "collection": "【20240315 13首竖屏】【YOSHIKA⁂Ch. 】眠れない人の KARAOKE 01. ムーンライト伝説",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iZ421b7iv?p=10",
@@ -1463,7 +1463,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Falco-ファルコ-",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "鷲尾須美",
   "collection": "【20240315 13首竖屏】【YOSHIKA⁂Ch. 】眠れない人の KARAOKE 01. ムーンライト伝説",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iZ421b7iv?p=11",
@@ -1471,7 +1471,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "晴れのち夏の雨",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "森口博子",
   "collection": "【20240315 13首竖屏】【YOSHIKA⁂Ch. 】眠れない人の KARAOKE 01. ムーンライト伝説",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iZ421b7iv?p=12",
@@ -1479,7 +1479,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Bling Bang Bang Born",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "Creepy Nuts",
   "collection": "【20240315 13首竖屏】【YOSHIKA⁂Ch. 】眠れない人の KARAOKE 01. ムーンライト伝説",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iZ421b7iv?p=13",
@@ -1487,7 +1487,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ココロのちず",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "BOYSTYLE",
   "collection": "【YOSHIKA⁂Ch. 20240319】【19首竖屏】YUME日和 バラライカ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xZ42187z3?p=1",
@@ -1495,7 +1495,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "メイジ・オブ・ヴァイオレット",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "ホロライブ紫咲シオン",
   "collection": "【YOSHIKA⁂Ch. 20240319】【19首竖屏】YUME日和 バラライカ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xZ42187z3?p=2",
@@ -1503,7 +1503,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "粛聖!! ロリ神レクイエム☆",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "しぐれうい(9さい)",
   "collection": "【YOSHIKA⁂Ch. 20240319】【19首竖屏】YUME日和 バラライカ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xZ42187z3?p=3",
@@ -1511,7 +1511,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "春に一番近い街",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "40メートルP",
   "collection": "【YOSHIKA⁂Ch. 20240319】【19首竖屏】YUME日和 バラライカ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xZ42187z3?p=4",
@@ -1519,7 +1519,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Shiny Smily Story",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "hololive IDOL PROJECT",
   "collection": "【YOSHIKA⁂Ch. 20240319】【19首竖屏】YUME日和 バラライカ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xZ42187z3?p=5",
@@ -1527,7 +1527,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "おジャ魔女カーニバル!!",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "MAHO堂",
   "collection": "【YOSHIKA⁂Ch. 20240319】【19首竖屏】YUME日和 バラライカ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xZ42187z3?p=6",
@@ -1535,7 +1535,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "YUME日和",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "島谷ひとみ",
   "collection": "【YOSHIKA⁂Ch. 20240319】【19首竖屏】YUME日和 バラライカ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xZ42187z3?p=7",
@@ -1543,7 +1543,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "バラライカ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
   "collection": "【YOSHIKA⁂Ch. 20240319】【19首竖屏】YUME日和 バラライカ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xZ42187z3?p=8",
@@ -1551,7 +1551,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "祝福",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "YOASOBI",
   "collection": "【YOSHIKA⁂Ch. 20240319】【19首竖屏】YUME日和 バラライカ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xZ42187z3?p=9",
@@ -1559,7 +1559,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "時には昔の話を",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "加藤登紀子",
   "collection": "【YOSHIKA⁂Ch. 20240319】【19首竖屏】YUME日和 バラライカ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xZ42187z3?p=10",
@@ -1567,7 +1567,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花に亡霊",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "ヨルシカ",
   "collection": "【YOSHIKA⁂Ch. 20240319】【19首竖屏】YUME日和 バラライカ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xZ42187z3?p=11",
@@ -1575,7 +1575,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "青のすみか",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "キタニタツヤ",
   "collection": "【YOSHIKA⁂Ch. 20240319】【19首竖屏】YUME日和 バラライカ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xZ42187z3?p=12",
@@ -1583,7 +1583,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "みちづれ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "星街すいせい",
   "collection": "【YOSHIKA⁂Ch. 20240319】【19首竖屏】YUME日和 バラライカ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xZ42187z3?p=13",
@@ -1591,7 +1591,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ソワレ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "星街すいせい",
   "collection": "【YOSHIKA⁂Ch. 20240319】【19首竖屏】YUME日和 バラライカ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xZ42187z3?p=14",
@@ -1599,7 +1599,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ただいま",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "手嶌葵",
   "collection": "【YOSHIKA⁂Ch. 20240319】【19首竖屏】YUME日和 バラライカ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xZ42187z3?p=15",
@@ -1607,7 +1607,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ライオン",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "May'n & 中島愛",
   "collection": "【YOSHIKA⁂Ch. 20240319】【19首竖屏】YUME日和 バラライカ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xZ42187z3?p=16",
@@ -1615,7 +1615,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "月迷風影",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "有阪美香",
   "collection": "【YOSHIKA⁂Ch. 20240319】【19首竖屏】YUME日和 バラライカ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xZ42187z3?p=17",
@@ -1623,7 +1623,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "かもめが翔んだ日",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "渡辺真知子",
   "collection": "【YOSHIKA⁂Ch. 20240319】【19首竖屏】YUME日和 バラライカ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xZ42187z3?p=18",
@@ -1631,7 +1631,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君は薔薇より美しい",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "布施明",
   "collection": "【YOSHIKA⁂Ch. 20240319】【19首竖屏】YUME日和 バラライカ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xZ42187z3?p=19",

@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1G6fLB7Efr
-// 生成时间: 2/23/2026, 10:41:14 AM
+// 生成时间: 2/23/2026, 11:34:19 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -551,7 +551,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Don't say \"lazy\"",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "桜高軽音部",
   "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1jxZABLEWJ?p=18",

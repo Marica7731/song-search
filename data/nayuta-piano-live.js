@@ -1,6 +1,6 @@
 // nayuta生演奏 - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1GXYFzXETo
-// 生成时间: 2/23/2026, 10:44:27 AM
+// 生成时间: 2/23/2026, 11:37:44 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -286,104 +286,104 @@ window.SONG_DATA.push(
   "source": "nayuta-piano-live.js"
 },
     {
-  "title": "アルカテイル 【Summer Pockets】",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "アルカテイル",
+  "artist": "Summer Pockets",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=1",
   "source": "nayuta-piano-live.js"
 },
     {
-  "title": "Bravely You 【Charlotte】",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Bravely You",
+  "artist": "Charlotte",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=2",
   "source": "nayuta-piano-live.js"
 },
     {
-  "title": "灼け落ちない翼 【Charlotte】",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "灼け落ちない翼",
+  "artist": "Charlotte",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=3",
   "source": "nayuta-piano-live.js"
 },
     {
-  "title": "My Soul, Your Beats! 【Angel Beats!】",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "My Soul, Your Beats!",
+  "artist": "Angel Beats!",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=4",
   "source": "nayuta-piano-live.js"
 },
     {
-  "title": "My Song 【Angel Beats!】",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "My Song",
+  "artist": "Angel Beats!",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=5",
   "source": "nayuta-piano-live.js"
 },
     {
-  "title": "Song for friends 【リトルバスターズ！】",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Song for friends",
+  "artist": "リトルバスターズ！",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=6",
   "source": "nayuta-piano-live.js"
 },
     {
-  "title": "Saya's Song 【リトルバスターズ！】",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Saya's Song",
+  "artist": "リトルバスターズ！",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=7",
   "source": "nayuta-piano-live.js"
 },
     {
-  "title": "時を刻む唄 【CLANNAD】",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "時を刻む唄",
+  "artist": "CLANNAD",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=8",
   "source": "nayuta-piano-live.js"
 },
     {
-  "title": "だんご大家族 【CLANNAD】",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "だんご大家族",
+  "artist": "CLANNAD",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=9",
   "source": "nayuta-piano-live.js"
 },
     {
-  "title": "Last regrets 【Kanon】",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Last regrets",
+  "artist": "Kanon",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=10",
   "source": "nayuta-piano-live.js"
 },
     {
-  "title": "鳥之詩 【AIR】",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "鳥之詩",
+  "artist": "AIR",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=11",
   "source": "nayuta-piano-live.js"
 },
     {
-  "title": "メグメル 【CLANNAD】",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "メグメル",
+  "artist": "CLANNAD",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=12",
   "source": "nayuta-piano-live.js"
 },
     {
-  "title": "一番の宝物 【Angel Beats!】",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "一番の宝物",
+  "artist": "Angel Beats!",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=13",
