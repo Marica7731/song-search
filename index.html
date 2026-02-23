@@ -5,282 +5,64 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>歌曲查询站 - B站分P直达</title>
     <style>
-        /* 全局样式保持不变，此处省略，直接复制原样式即可 */
+        /* 样式保持不变，为节省篇幅此处省略，直接使用你原有的样式即可 */
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body { 
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "PingFang SC", "Microsoft YaHei", sans-serif; 
-            max-width: 1200px; 
-            margin: 0 auto; 
-            padding: 30px 20px; 
-            background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%);
-            min-height: 100vh;
+            max-width: 1200px; margin: 0 auto; padding: 30px 20px; 
+            background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); min-height: 100vh;
         }
-        h1 { 
-            text-align: center; 
-            color: #2c3e50; 
-            margin-bottom: 10px;
-            font-size: 28px;
-            font-weight: 700;
-            text-shadow: 0 2px 4px rgba(0,0,0,0.05);
-        }
-        .sub-header {
-            text-align: center;
-            color: #6c757d;
-            margin-bottom: 30px;
-            font-size: 14px;
-        }
-        .nav-link {
-            color: #00a1d6;
-            text-decoration: none;
-            font-weight: 600;
-        }
+        h1 { text-align: center; color: #2c3e50; margin-bottom: 10px; font-size: 28px; font-weight: 700; }
+        .sub-header { text-align: center; color: #6c757d; margin-bottom: 30px; font-size: 14px; }
+        .nav-link { color: #00a1d6; text-decoration: none; font-weight: 600; }
         .nav-link:hover { text-decoration: underline; }
-        .filter-search-container {
-            display: flex;
-            flex-direction: column;
-            gap: 18px;
-            margin-bottom: 25px;
-        }
-        .filter-bar {
-            display: flex;
-            gap: 10px;
-            flex-wrap: wrap;
-            padding: 15px 20px;
-            background: white;
-            border-radius: 12px;
-            align-items: center;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
-        }
-        .filter-label {
-            font-size: 14px;
-            color: #495057;
-            font-weight: 600;
-            white-space: nowrap;
-        }
-        .filter-btn {
-            padding: 7px 16px;
-            border: 1px solid #e9ecef;
-            border-radius: 20px;
-            background: #f8f9fa;
-            cursor: pointer;
-            font-size: 14px;
-            font-weight: 500;
-            color: #495057;
-            transition: all 0.2s ease;
-        }
-        .filter-btn:hover {
-            border-color: #00a1d6;
-            color: #00a1d6;
-            background: #f0f9ff;
-        }
-        .filter-btn.active {
-            background: linear-gradient(135deg, #00a1d6 0%, #00c6ff 100%);
-            color: white;
-            border-color: transparent;
-            box-shadow: 0 4px 12px rgba(0, 161, 214, 0.3);
-        }
-        .filter-btn.missing-artist {
-            border-color: #dc3545;
-            color: #dc3545;
-        }
-        .filter-btn.missing-artist:hover {
-            background: #fff5f5;
-        }
-        .filter-btn.missing-artist.active {
-            background: linear-gradient(135deg, #dc3545 0%, #ff6b6b 100%);
-            color: white;
-            border-color: transparent;
-            box-shadow: 0 4px 12px rgba(220, 53, 69, 0.3);
-        }
-        .filter-btn.clear {
-            margin-left: auto;
-            background: linear-gradient(135deg, #6c757d 0%, #adb5bd 100%);
-            color: white;
-            border-color: transparent;
-            box-shadow: 0 4px 12px rgba(108, 117, 125, 0.3);
-        }
-        .filter-btn.clear:hover {
-            transform: translateY(-1px);
-            box-shadow: 0 6px 16px rgba(108, 117, 125, 0.4);
-        }
-        .search-field-bar {
-            display: flex;
-            gap: 20px;
-            flex-wrap: wrap;
-            padding: 15px 20px;
-            background: white;
-            border-radius: 12px;
-            align-items: center;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
-        }
-        .search-field-label {
-            font-size: 14px;
-            color: #495057;
-            font-weight: 600;
-            white-space: nowrap;
-        }
-        .search-field-option {
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            cursor: pointer;
-            font-size: 14px;
-            font-weight: 500;
-            color: #495057;
-            user-select: none;
-            transition: color 0.2s;
-        }
-        .search-field-option:hover {
-            color: #00a1d6;
-        }
-        .search-field-option input[type="checkbox"] {
-            width: 18px;
-            height: 18px;
-            cursor: pointer;
-            accent-color: #00a1d6;
-        }
+        .filter-search-container { display: flex; flex-direction: column; gap: 18px; margin-bottom: 25px; }
+        .filter-bar { display: flex; gap: 10px; flex-wrap: wrap; padding: 15px 20px; background: white; border-radius: 12px; align-items: center; box-shadow: 0 2px 10px rgba(0,0,0,0.05); }
+        .filter-label { font-size: 14px; color: #495057; font-weight: 600; white-space: nowrap; }
+        .filter-btn { padding: 7px 16px; border: 1px solid #e9ecef; border-radius: 20px; background: #f8f9fa; cursor: pointer; font-size: 14px; font-weight: 500; color: #495057; transition: all 0.2s ease; }
+        .filter-btn:hover { border-color: #00a1d6; color: #00a1d6; background: #f0f9ff; }
+        .filter-btn.active { background: linear-gradient(135deg, #00a1d6 0%, #00c6ff 100%); color: white; border-color: transparent; box-shadow: 0 4px 12px rgba(0, 161, 214, 0.3); }
+        .filter-btn.missing-artist { border-color: #dc3545; color: #dc3545; }
+        .filter-btn.missing-artist.active { background: linear-gradient(135deg, #dc3545 0%, #ff6b6b 100%); color: white; }
+        .filter-btn.clear { margin-left: auto; background: linear-gradient(135deg, #6c757d 0%, #adb5bd 100%); color: white; }
+        .search-field-bar { display: flex; gap: 20px; flex-wrap: wrap; padding: 15px 20px; background: white; border-radius: 12px; align-items: center; box-shadow: 0 2px 10px rgba(0,0,0,0.05); }
+        .search-field-option { display: flex; align-items: center; gap: 8px; cursor: pointer; font-size: 14px; font-weight: 500; color: #495057; }
+        .search-field-option input[type="checkbox"] { width: 18px; height: 18px; accent-color: #00a1d6; }
         .search-container { display: flex; gap: 12px; flex-wrap: wrap; }
-        #search-input { 
-            flex: 1; min-width: 250px; padding: 16px 20px; font-size: 16px; 
-            border: 2px solid #e9ecef; border-radius: 12px; outline: none; 
-            background: white; box-shadow: 0 2px 10px rgba(0,0,0,0.05);
-            transition: all 0.3s ease;
-        }
+        #search-input { flex: 1; min-width: 250px; padding: 16px 20px; font-size: 16px; border: 2px solid #e9ecef; border-radius: 12px; outline: none; background: white; box-shadow: 0 2px 10px rgba(0,0,0,0.05); }
         #search-input:focus { border-color: #00a1d6; box-shadow: 0 0 0 4px rgba(0, 161, 214, 0.1); }
-        #search-btn { 
-            padding: 0 32px; background: linear-gradient(135deg, #00a1d6 0%, #00c6ff 100%);
-            color: white; border: none; border-radius: 12px; font-size: 16px; 
-            font-weight: 600; cursor: pointer; white-space: nowrap;
-            box-shadow: 0 4px 15px rgba(0, 161, 214, 0.3);
-            transition: all 0.3s ease;
-        }
-        #search-btn:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(0, 161, 214, 0.4); }
-        .stats-container {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 15px;
-        }
+        #search-btn { padding: 0 32px; background: linear-gradient(135deg, #00a1d6 0%, #00c6ff 100%); color: white; border: none; border-radius: 12px; font-size: 16px; font-weight: 600; cursor: pointer; }
+        .stats-container { display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; }
         .stats-msg { font-size: 13px; color: #6c757d; font-weight: 500; }
-        .copy-all-btn {
-            padding: 6px 12px;
-            background: linear-gradient(135deg, #6f42c1 0%, #8a6edb 100%);
-            color: white;
-            border: none;
-            border-radius: 8px;
-            font-size: 12px;
-            font-weight: 600;
-            cursor: pointer;
-            box-shadow: 0 2px 8px rgba(111, 66, 193, 0.25);
-            transition: all 0.2s ease;
-            display: flex;
-            align-items: center;
-            gap: 4px;
-        }
-        .copy-all-btn:hover { transform: translateY(-1px); box-shadow: 0 4px 12px rgba(111, 66, 193, 0.35); }
-        .copy-all-btn:disabled { background: #adb5bd; cursor: not-allowed; transform: none; box-shadow: none; }
+        .copy-all-btn { padding: 6px 12px; background: linear-gradient(135deg, #6f42c1 0%, #8a6edb 100%); color: white; border: none; border-radius: 8px; font-size: 12px; font-weight: 600; cursor: pointer; }
+        .copy-all-btn:disabled { background: #adb5bd; cursor: not-allowed; }
         .progress-msg { text-align: center; color: #495057; padding: 40px 20px; font-size: 16px; font-weight: 500; }
-        .error-msg { color: #dc3545; }
         .empty-msg { text-align: center; color: #6c757d; padding: 60px 20px; font-size: 16px; display: none; font-weight: 500; }
         #song-list { list-style: none; padding: 0; margin-bottom: 35px; }
-        .song-item { 
-            padding: 20px 25px; margin-bottom: 12px; background: white; border-radius: 12px;
-            display: flex; justify-content: space-between; align-items: center; gap: 15px;
-            flex-wrap: wrap; box-shadow: 0 2px 8px rgba(0,0,0,0.04); transition: all 0.3s ease;
-        }
-        .song-item:hover { transform: translateY(-2px); box-shadow: 0 8px 20px rgba(0,0,0,0.08); }
-        .song-item.missing-artist {
-            border: 2px solid #dc3545;
-            background: linear-gradient(135deg, #fff5f5 0%, #ffffff 100%);
-        }
-        .song-item.missing-artist:hover { box-shadow: 0 8px 20px rgba(220, 53, 69, 0.15); }
-        .song-info { flex: 1; min-width: 220px; }
-        .song-title-row {
-            display: flex; align-items: center; gap: 22px; margin-bottom: 8px; flex-wrap: wrap;
-        }
+        .song-item { padding: 20px 25px; margin-bottom: 12px; background: white; border-radius: 12px; display: flex; justify-content: space-between; align-items: center; gap: 15px; flex-wrap: wrap; box-shadow: 0 2px 8px rgba(0,0,0,0.04); transition: all 0.3s ease; }
+        .song-item:hover { transform: translateY(-2px); }
+        .song-item.missing-artist { border: 2px solid #dc3545; background: linear-gradient(135deg, #fff5f5 0%, #ffffff 100%); }
         .copy-wrapper { position: relative; display: inline-block; }
         .song-title, .song-artist-inline, .collection-text { padding-right: 20px; }
         .song-title { font-weight: 700; font-size: 17px; color: #2c3e50; line-height: 1.4; }
-        .song-item.missing-artist .song-title { color: #dc3545; }
-        .artist-tag {
-            font-size: 11px; color: #c0c4cc; background: #f5f7fa;
-            padding: 1px 4px; border-radius: 3px; margin-right: 6px; font-weight: 400;
-        }
-        .song-artist-inline {
-            font-size: 14px; color: #6c757d; font-weight: 400;
-            white-space: nowrap; display: inline-flex; align-items: center;
-        }
+        .artist-tag { font-size: 11px; color: #c0c4cc; background: #f5f7fa; padding: 1px 4px; border-radius: 3px; margin-right: 6px; }
+        .song-artist-inline { font-size: 14px; color: #6c757d; display: inline-flex; align-items: center; }
         .collection-text { font-size: 14px; color: #6c757d; line-height: 1.5; }
-        .copy-btn {
-            position: absolute; top: 0; right: 0; padding: 0; background: transparent; border: none;
-            color: #c0c4cc; font-size: 10px; cursor: pointer; transition: all 0.2s ease; line-height: 1; z-index: 1;
-        }
+        .copy-btn { position: absolute; top: 0; right: 0; background: transparent; border: none; color: #c0c4cc; font-size: 10px; cursor: pointer; }
         .copy-btn:hover { color: #00a1d6; transform: scale(1.2); }
-        .link-copy-btn { top: 50%; right: 8px; transform: translateY(-50%); font-size: 10px; }
-        .song-meta { 
-            font-size: 14px; color: #6c757d; line-height: 1.5;
-            display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
-        }
         .song-source { font-size: 12px; color: #adb5bd; margin-top: 6px; font-weight: 500; }
-        .song-actions { display: flex; flex-direction: row; gap: 8px; align-items: center; min-width: auto; }
-        .song-link { position: relative; width: auto; }
-        .song-link a { 
-            padding: 8px 25px 8px 18px; width: auto; text-align: center;
-            background: linear-gradient(135deg, #00a1d6 0%, #00c6ff 100%);
-            color: white; text-decoration: none; border-radius: 8px; font-size: 13px; font-weight: 600;
-            white-space: nowrap; box-shadow: 0 2px 8px rgba(0, 161, 214, 0.25);
-            transition: all 0.3s ease; display: block;
-        }
-        .song-link a:hover { transform: translateY(-1px); box-shadow: 0 4px 12px rgba(0, 161, 214, 0.35); }
-        .edit-link {
-            width: 24px; height: 24px; border-radius: 50%;
-            background: linear-gradient(135deg, #ff7a18 0%, #ff9f43 100%);
-            color: white; text-decoration: none; font-size: 12px; font-weight: 600;
-            white-space: nowrap; box-shadow: 0 2px 6px rgba(255, 122, 24, 0.3);
-            transition: all 0.3s ease; display: flex; align-items: center; justify-content: center;
-            line-height: 1; flex-shrink: 0;
-        }
-        .edit-link:hover { transform: scale(1.1); box-shadow: 0 4px 10px rgba(255, 122, 24, 0.4); }
-        .copy-toast {
-            position: fixed; bottom: 30px; right: 30px; padding: 10px 20px;
-            background: rgba(0, 0, 0, 0.75); color: white; border-radius: 20px;
-            font-size: 14px; font-weight: 500; z-index: 9999;
-            opacity: 0; transform: translateY(10px); transition: all 0.3s ease; pointer-events: none;
-        }
+        .song-actions { display: flex; flex-direction: row; gap: 8px; align-items: center; }
+        .song-link a { padding: 8px 25px 8px 18px; background: linear-gradient(135deg, #00a1d6 0%, #00c6ff 100%); color: white; text-decoration: none; border-radius: 8px; font-size: 13px; font-weight: 600; display: block; }
+        .edit-link { width: 24px; height: 24px; border-radius: 50%; background: linear-gradient(135deg, #ff7a18 0%, #ff9f43 100%); color: white; text-decoration: none; font-size: 12px; font-weight: 600; display: flex; align-items: center; justify-content: center; }
+        .copy-toast { position: fixed; bottom: 30px; right: 30px; padding: 10px 20px; background: rgba(0, 0, 0, 0.75); color: white; border-radius: 20px; font-size: 14px; font-weight: 500; z-index: 9999; opacity: 0; transform: translateY(10px); transition: all 0.3s ease; pointer-events: none; }
         .copy-toast.show { opacity: 1; transform: translateY(0); }
-        .pagination { 
-            display: flex; justify-content: center; align-items: center; gap: 8px; 
-            flex-wrap: wrap; margin-top: 30px; padding: 20px;
-        }
-        .page-btn { 
-            padding: 10px 16px; border: 1px solid #e9ecef; border-radius: 8px; 
-            background: white; cursor: pointer; font-size: 14px; font-weight: 500;
-            color: #495057; min-width: 44px; text-align: center;
-            transition: all 0.2s ease; box-shadow: 0 2px 6px rgba(0,0,0,0.04);
-        }
-        .page-btn:hover:not(.disabled):not(.active):not(.ellipsis) { 
-            background: #f8f9fa; border-color: #00a1d6; color: #00a1d6;
-        }
-        .page-btn.active { 
-            background: linear-gradient(135deg, #00a1d6 0%, #00c6ff 100%);
-            color: white; border-color: transparent; box-shadow: 0 4px 12px rgba(0, 161, 214, 0.3);
-        }
-        .page-btn.disabled { 
-            cursor: not-allowed; color: #adb5bd; background: #f8f9fa;
-            border-color: #e9ecef; box-shadow: none;
-        }
-        .page-btn.ellipsis {
-            border: none; background: transparent; box-shadow: none; cursor: default; min-width: 30px;
-        }
-        .page-btn.ellipsis:hover { background: transparent; color: #495057; }
+        .pagination { display: flex; justify-content: center; align-items: center; gap: 8px; flex-wrap: wrap; margin-top: 30px; padding: 20px; }
+        .page-btn { padding: 10px 16px; border: 1px solid #e9ecef; border-radius: 8px; background: white; cursor: pointer; font-size: 14px; font-weight: 500; color: #495057; min-width: 44px; text-align: center; }
+        .page-btn:hover:not(.disabled):not(.active) { background: #f8f9fa; border-color: #00a1d6; color: #00a1d6; }
+        .page-btn.active { background: linear-gradient(135deg, #00a1d6 0%, #00c6ff 100%); color: white; border-color: transparent; }
+        .page-btn.disabled { cursor: not-allowed; color: #adb5bd; background: #f8f9fa; }
         .page-jump-container { display: flex; align-items: center; gap: 8px; margin-left: 15px; }
-        .page-jump-input {
-            width: 60px; padding: 10px 8px; border: 1px solid #e9ecef; border-radius: 8px;
-            text-align: center; font-size: 14px; outline: none;
-            transition: all 0.2s ease; box-shadow: 0 2px 6px rgba(0,0,0,0.04);
-        }
-        .page-jump-input:focus { border-color: #00a1d6; box-shadow: 0 0 0 3px rgba(0, 161, 214, 0.1); }
-        .page-jump-text { font-size: 14px; color: #6c757d; font-weight: 500; }
+        .page-jump-input { width: 60px; padding: 10px 8px; border: 1px solid #e9ecef; border-radius: 8px; text-align: center; font-size: 14px; outline: none; }
     </style>
 </head>
 <body>
@@ -290,26 +72,13 @@
     </div>
 
     <div class="filter-search-container">
-        <div class="filter-bar" id="filter-bar">
-            <span class="filter-label">🔍 按歌手/来源筛选：</span>
-        </div>
-
+        <div class="filter-bar" id="filter-bar"></div>
         <div class="search-field-bar" id="search-field-bar">
             <span class="search-field-label">📌 搜索范围：</span>
-            <label class="search-field-option">
-                <input type="checkbox" id="search-title" checked>
-                <span>歌名</span>
-            </label>
-            <label class="search-field-option">
-                <input type="checkbox" id="search-artist" checked>
-                <span>歌手</span>
-            </label>
-            <label class="search-field-option">
-                <input type="checkbox" id="search-collection" checked>
-                <span>合集</span>
-            </label>
+            <label class="search-field-option"><input type="checkbox" id="search-title" checked><span>歌名</span></label>
+            <label class="search-field-option"><input type="checkbox" id="search-artist" checked><span>歌手</span></label>
+            <label class="search-field-option"><input type="checkbox" id="search-collection" checked><span>合集</span></label>
         </div>
-
         <div class="search-container">
             <input type="text" id="search-input" placeholder="输入关键词搜索...">
             <button id="search-btn">🔍 搜索</button>
@@ -325,10 +94,12 @@
     <div class="empty-msg" id="empty-msg">❌ 未找到匹配的歌曲</div>
     <ul id="song-list"></ul>
     <div class="pagination" id="pagination"></div>
-
     <div class="copy-toast" id="copy-toast">copy ok!</div>
 
+    <!-- 引入公共逻辑 -->
+    <script src="common.js"></script>
     <script>
+        // 页面私有变量
         window.SONG_DATA = [];
         let originalData = [];
         let filteredBySource = [];
@@ -339,170 +110,26 @@
         const fileNames = [];
         let FILE_TO_ALIAS = {};
 
+        // 复制提示
         function showCopyToast() {
             const toast = document.getElementById('copy-toast');
             toast.classList.add('show');
             setTimeout(() => toast.classList.remove('show'), 1500);
         }
-
         async function copyToClipboard(text) {
-            try {
-                await navigator.clipboard.writeText(text);
-                showCopyToast();
-            } catch (err) {
-                console.error('复制失败:', err);
-                alert('复制失败，请手动复制');
-            }
+            try { await navigator.clipboard.writeText(text); showCopyToast(); } 
+            catch (err) { console.error('复制失败:', err); alert('复制失败，请手动复制'); }
         }
 
-        function isValidArtist(artist) {
-            if (!artist || artist.trim() === '') return false;
-            if (artist.includes('来源处未提供标准格式歌手')) return false;
-            return true;
-        }
-
-        // ==========================================
-        // 🔧 【核心修改】超级强化版字符串标准化函数
-        // ==========================================
-        function normalizeString(str) {
-            if (!str) return '';
-            let s = str.trim();
-            
-            // 1. 全角转半角 (基础)
-            s = s.replace(/[\uFF01-\uFF5E]/g, ch => String.fromCharCode(ch.charCodeAt(0) - 0xFEE0));
-            s = s.replace(/\u3000/g, ' ');
-
-            // 2. 统一特殊符号 (关键！)
-            s = s.replace(/[～〜˜]/g, '~');
-            s = s.replace(/[—–―]/g, '-');
-            s = s.replace(/[“”]/g, '"').replace(/[‘’]/g, "'");
-            s = s.replace(/…/g, '...');
-            
-            // 3. 【新增】处理装饰性符号 (针对 "☆" 这种)
-            s = s.replace(/[☆★♪♫❤️✨]/g, ''); // 移除常见装饰
-            s = s.replace(/!!/g, '!'); // 合并双感叹号
-            s = s.replace(/！！/g, '!'); // 全角也处理
-            
-            // 4. 【新增】处理括号 (关键！针对 "(9さい)" 和 "（9さい）")
-            // 4.1 全角括号转半角
-            s = s.replace(/（/g, '(').replace(/）/g, ')');
-            // 4.2 移除括号前后的空格
-            s = s.replace(/\s*\(\s*/g, '(');
-            s = s.replace(/\s*\)\s*/g, ')');
-            
-            // 5. 【新增】移除常见的年龄/身份后缀 (针对 "(9さい)")
-            // 这一步是可选的，如果你想保留括号里的内容但不影响比较，可以注释掉
-            // 但为了去重，我们可以把 "(数字+さい)" 这种视为干扰项移除，或者标准化
-            // 这里选择：如果是 "(数字さい)" 格式，直接移除整个括号内容
-            s = s.replace(/\(\d+さい\)/gi, '');
-            s = s.replace(/\(\d+岁\)/gi, '');
-
-            // 6. 【新增】处理 " - " 分隔符周围的空格
-            // 确保 "歌名-歌手" 和 "歌名 - 歌手" 一致
-            s = s.replace(/\s*-\s*/g, '-');
-
-            // 7. 终极处理空格
-            s = s.replace(/\s+/g, ' '); // 多个空格变一个
-            s = s.trim();
-
-            // 8. 转小写 (确保大小写不敏感)
-            s = s.toLowerCase();
-
-            return s;
-        }
-
-        // ========== 模糊匹配核心函数 ==========
-        function hasContinuousCommonStr(str1, str2, minLength = 2) {
-            const s1 = normalizeString(str1);
-            const s2 = normalizeString(str2);
-            if (s1.length < minLength || s2.length < minLength) return false;
-            for (let i = 0; i <= s1.length - minLength; i++) {
-                const subStr = s1.substring(i, i + minLength);
-                if (s2.includes(subStr)) return true;
-            }
-            return false;
-        }
-
-        // ========== 【核心逻辑】判断两首歌是否为同一首 ==========
-        function isSameSong(songA, songB) {
-            // 1. 歌名必须高度相似 (使用强化版 normalize)
-            const titleA = normalizeString(songA.title || '未知歌曲');
-            const titleB = normalizeString(songB.title || '未知歌曲');
-            
-            // 如果标准化后的歌名完全一样，直接进入下一步
-            // 如果不一样，看看是不是包含关系 (防止其中一个多了个 "(Short Ver)" 之类的)
-            if (titleA !== titleB) {
-                // 检查是否一个包含另一个 (长度差异不大的情况下)
-                const lenA = titleA.length;
-                const lenB = titleB.length;
-                const lenDiff = Math.abs(lenA - lenB);
-                // 如果长度差超过5，认为是不同的歌；否则看是否包含
-                if (lenDiff > 5) return false;
-                if (!titleA.includes(titleB) && !titleB.includes(titleA)) return false;
-            }
-
-            // 2. 歌手匹配逻辑
-            const artistA = (songA.artist || '').trim();
-            const artistB = (songB.artist || '').trim();
-            const validA = isValidArtist(artistA);
-            const validB = isValidArtist(artistB);
-
-            // 只要有一方没歌手，且歌名一样，就算同一首
-            if (!validA || !validB) return true;
-
-            // 双方都有歌手时，使用强化版 normalize 比较
-            const normArtistA = normalizeString(artistA);
-            const normArtistB = normalizeString(artistB);
-            
-            return normArtistA === normArtistB || hasContinuousCommonStr(artistA, artistB);
-        }
-
-        // 去重歌曲数计算函数
+        // 去重歌曲数计算 (使用 common.js 中的 isSameSong)
         function getUniqueSongCount(data) {
             if (data.length === 0) return 0;
-            
-            const titleGroup = {};
-            data.forEach(song => {
-                // 这里也用 normalize 后的歌名做分组 key，确保 "A" 和 "A☆" 进同一个组
-                const titleKey = normalizeString(song.title || '未知歌曲');
-                if (!titleGroup[titleKey]) titleGroup[titleKey] = [];
-                titleGroup[titleKey].push(song);
+            const uniqueSongs = [];
+            data.forEach(currentSong => {
+                const isDuplicate = uniqueSongs.some(savedSong => isSameSong(currentSong, savedSong));
+                if (!isDuplicate) uniqueSongs.push(currentSong);
             });
-
-            let totalUnique = 0;
-            Object.values(titleGroup).forEach(group => {
-                if (group.length === 1) {
-                    totalUnique++;
-                    return;
-                }
-                const uniqueSongs = [];
-                group.forEach(currentSong => {
-                    const isDuplicate = uniqueSongs.some(savedSong => isSameSong(currentSong, savedSong));
-                    if (!isDuplicate) uniqueSongs.push(currentSong);
-                });
-                totalUnique += uniqueSongs.length;
-            });
-
-            return totalUnique;
-        }
-
-        function generateSearchResultText() {
-            if (filteredBySearch.length === 0) return '';
-            return filteredBySearch.map(item => {
-                const title = item.title || '未知歌曲';
-                const artist = item.artist?.trim();
-                const link = item.link || '无链接';
-                return isValidArtist(artist) ? `${title} - ${artist}（${link}）` : `${title}（${link}）`;
-            }).join('\n');
-        }
-
-        async function copyAllSearchResults() {
-            const text = generateSearchResultText();
-            if (!text) {
-                alert('暂无搜索结果可复制');
-                return;
-            }
-            await copyToClipboard(text);
+            return uniqueSongs.length;
         }
 
         function extractBvid(link) {
@@ -511,42 +138,25 @@
             return match ? match[0] : null;
         }
 
-        function getActiveSearchFields() {
-            return {
-                title: document.getElementById('search-title').checked,
-                artist: document.getElementById('search-artist').checked,
-                collection: document.getElementById('search-collection').checked
-            };
-        }
-
         function loadScriptsParallel(fileList) {
             const progressMsg = document.getElementById('progress-msg');
             let loadedCount = 0;
-            const totalFiles = fileList.length;
-
             const promises = fileList.map(fileName => {
                 return new Promise((resolve) => {
                     const script = document.createElement('script');
                     script.src = `data/${fileName}`;
                     script.onload = () => {
-                        const currentTotalLength = window.SONG_DATA.length;
-                        const lastOriginalLength = originalData.length;
-                        const newDataCount = currentTotalLength - lastOriginalLength;
+                        const newDataCount = window.SONG_DATA.length - originalData.length;
                         if (newDataCount > 0) {
                             const newData = window.SONG_DATA.slice(-newDataCount);
                             newData.forEach(item => item.source = fileName);
                             originalData = [...window.SONG_DATA];
                         }
                         loadedCount++;
-                        progressMsg.textContent = `📥 正在并行加载歌库（${loadedCount}/${totalFiles}个文件）...`;
+                        progressMsg.textContent = `📥 加载中（${loadedCount}/${fileList.length}）...`;
                         resolve();
                     };
-                    script.onerror = () => {
-                        console.error(`❌ 加载失败：${fileName}`);
-                        loadedCount++;
-                        progressMsg.textContent = `📥 正在并行加载歌库（${loadedCount}/${totalFiles}个文件，部分失败）...`;
-                        resolve();
-                    };
+                    script.onerror = () => resolve();
                     document.body.appendChild(script);
                 });
             });
@@ -611,25 +221,18 @@
             }
 
             const keyword = document.getElementById('search-input').value.trim().toLowerCase();
-            const fields = getActiveSearchFields();
+            const searchTitle = document.getElementById('search-title').checked;
+            const searchArtist = document.getElementById('search-artist').checked;
+            const searchColl = document.getElementById('search-collection').checked;
 
-            if (!fields.title && !fields.artist && !fields.collection) {
+            if (!searchTitle && !searchArtist && !searchColl) {
                 filteredBySearch = [...filteredBySource];
             } else if (keyword) {
                 filteredBySearch = filteredBySource.filter(item => {
                     let match = false;
-                    if (fields.title) {
-                        const title = (item.title || '').toLowerCase();
-                        if (title.includes(keyword)) match = true;
-                    }
-                    if (!match && fields.artist) {
-                        const artist = (item.artist || '').toLowerCase();
-                        if (artist.includes(keyword)) match = true;
-                    }
-                    if (!match && fields.collection) {
-                        const collection = (item.collection || '').toLowerCase();
-                        if (collection.includes(keyword)) match = true;
-                    }
+                    if (searchTitle && (item.title || '').toLowerCase().includes(keyword)) match = true;
+                    if (!match && searchArtist && (item.artist || '').toLowerCase().includes(keyword)) match = true;
+                    if (!match && searchColl && (item.collection || '').toLowerCase().includes(keyword)) match = true;
                     return match;
                 });
             } else {
@@ -646,281 +249,122 @@
             const uniqueOriginal = getUniqueSongCount(originalData);
             const uniqueFiltered = getUniqueSongCount(filteredBySource);
             const uniqueSearch = getUniqueSongCount(filteredBySearch);
-            
             statsMsg.textContent = `总歌曲数：${originalData.length}（去重：${uniqueOriginal}）| 筛选后：${filteredBySource.length}（去重：${uniqueFiltered}）| 搜索结果：${filteredBySearch.length}（去重：${uniqueSearch}）`;
         }
 
         function renderSongList(data) {
-            const songListEl = document.getElementById('song-list');
-            songListEl.innerHTML = '';
-
+            const listEl = document.getElementById('song-list');
+            listEl.innerHTML = '';
             const start = (currentPage - 1) * PAGE_SIZE;
-            const end = start + PAGE_SIZE;
-            const pageData = data.slice(start, end);
+            const pageData = data.slice(start, start + PAGE_SIZE);
 
             if (pageData.length === 0) {
                 document.getElementById('empty-msg').style.display = 'block';
             } else {
                 document.getElementById('empty-msg').style.display = 'none';
                 pageData.forEach(item => {
-                    const sourceBase = item.source?.replace('.js', '');
-                    const sourceAlias = FILE_TO_ALIAS[sourceBase] || item.source || '未知';
-                    const isLinkValid = item.link && /BV\w+/.test(item.link);
+                    const sourceAlias = FILE_TO_ALIAS[item.source?.replace('.js', '')] || item.source || '未知';
                     const bvid = extractBvid(item.link);
                     const hasValidArtist = isValidArtist(item.artist);
-
-                    const titleHtml = `<div class="copy-wrapper">
-                        <div class="song-title">${item.title || '未知歌曲'}</div>
-                        <button class="copy-btn" data-type="title">📋</button>
-                    </div>`;
-                    
-                    const artistHtml = hasValidArtist 
-                        ? `<div class="copy-wrapper">
-                            <span class="song-artist-inline">
-                                <span class="artist-tag">歌手</span>${item.artist}
-                            </span>
-                            <button class="copy-btn" data-type="artist">📋</button>
-                          </div>` 
-                        : '';
-
-                    const collectionHtml = `<div class="copy-wrapper">
-                        <span class="collection-text">合集：${item.collection || '未知'}</span>
-                        <button class="copy-btn" data-type="collection">📋</button>
-                    </div>`;
-
-                    const linkHtml = isLinkValid 
-                        ? `<div class="song-link">
-                            <a href="${item.link}" target="_blank">直达B站</a>
-                            <button class="copy-btn link-copy-btn" data-type="link">📋</button>
-                          </div>` 
-                        : '';
-
-                    const editHtml = bvid 
-                        ? `<a href="https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=${bvid}" target="_blank" class="edit-link">✏️</a>`
-                        : '';
 
                     const li = document.createElement('li');
                     li.className = `song-item ${hasValidArtist ? '' : 'missing-artist'}`;
                     li.innerHTML = `
                         <div class="song-info">
-                            <div class="song-title-row">
-                                ${titleHtml}
-                                ${artistHtml}
+                            <div class="song-title-row" style="display:flex;align-items:center;gap:22px;flex-wrap:wrap;margin-bottom:8px;">
+                                <div class="copy-wrapper">
+                                    <div class="song-title">${item.title || '未知歌曲'}</div>
+                                    <button class="copy-btn" data-type="title">📋</button>
+                                </div>
+                                ${hasValidArtist ? `
+                                <div class="copy-wrapper">
+                                    <span class="song-artist-inline"><span class="artist-tag">歌手</span>${item.artist}</span>
+                                    <button class="copy-btn" data-type="artist">📋</button>
+                                </div>` : ''}
                             </div>
                             <div class="song-meta">
-                                ${collectionHtml}
+                                <div class="copy-wrapper">
+                                    <span class="collection-text">合集：${item.collection || '未知'}</span>
+                                    <button class="copy-btn" data-type="collection">📋</button>
+                                </div>
                             </div>
                             <div class="song-source">来源：${sourceAlias}</div>
                         </div>
                         <div class="song-actions">
-                            ${linkHtml}
-                            ${editHtml}
+                            ${item.link ? `<div class="song-link"><a href="${item.link}" target="_blank">直达B站</a></div>` : ''}
+                            ${bvid ? `<a href="https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=${bvid}" target="_blank" class="edit-link">✏️</a>` : ''}
                         </div>
                     `;
                     
-                    const titleCopyBtn = li.querySelector('[data-type="title"]');
-                    if (titleCopyBtn) {
-                        const title = item.title || '未知歌曲';
-                        const artist = item.artist?.trim();
-                        const copyText = hasValidArtist ? `${title} - ${artist}` : title;
-                        titleCopyBtn.onclick = () => copyToClipboard(copyText);
-                    }
+                    li.querySelector('[data-type="title"]').onclick = () => {
+                        const text = hasValidArtist ? `${item.title} - ${item.artist}` : item.title;
+                        copyToClipboard(text);
+                    };
+                    if(hasValidArtist) li.querySelector('[data-type="artist"]').onclick = () => copyToClipboard(item.artist);
+                    li.querySelector('[data-type="collection"]').onclick = () => copyToClipboard(item.collection || '未知');
                     
-                    const artistCopyBtn = li.querySelector('[data-type="artist"]');
-                    if (artistCopyBtn) artistCopyBtn.onclick = () => copyToClipboard(item.artist);
-                    
-                    const collectionCopyBtn = li.querySelector('[data-type="collection"]');
-                    if (collectionCopyBtn) collectionCopyBtn.onclick = () => copyToClipboard(item.collection || '未知');
-                    
-                    const linkCopyBtn = li.querySelector('[data-type="link"]');
-                    if (linkCopyBtn) linkCopyBtn.onclick = () => copyToClipboard(item.link);
-                    
-                    songListEl.appendChild(li);
+                    listEl.appendChild(li);
                 });
             }
-
             renderPagination(data.length);
         }
 
         function renderPagination(total) {
-            const paginationEl = document.getElementById('pagination');
-            paginationEl.innerHTML = '';
+            const el = document.getElementById('pagination');
+            el.innerHTML = '';
             const totalPages = Math.ceil(total / PAGE_SIZE);
             if (totalPages <= 1) return;
 
-            const prevBtn = document.createElement('button');
-            prevBtn.className = `page-btn ${currentPage === 1 ? 'disabled' : ''}`;
-            prevBtn.textContent = '上一页';
-            prevBtn.onclick = () => {
-                if (currentPage > 1) {
-                    currentPage--;
-                    renderSongList(filteredBySearch);
-                }
+            const addBtn = (text, cls, onClick) => {
+                const btn = document.createElement('button');
+                btn.className = `page-btn ${cls || ''}`;
+                btn.textContent = text;
+                btn.onclick = onClick;
+                el.appendChild(btn);
             };
-            paginationEl.appendChild(prevBtn);
 
-            if (currentPage > 3) {
-                const firstBtn = document.createElement('button');
-                firstBtn.className = 'page-btn';
-                firstBtn.textContent = '1';
-                firstBtn.onclick = () => {
-                    currentPage = 1;
-                    renderSongList(filteredBySearch);
-                };
-                paginationEl.appendChild(firstBtn);
-                if (currentPage > 4) {
-                    const ellipsis = document.createElement('button');
-                    ellipsis.className = 'page-btn ellipsis';
-                    ellipsis.textContent = '...';
-                    ellipsis.disabled = true;
-                    paginationEl.appendChild(ellipsis);
-                }
+            addBtn('上一页', currentPage === 1 ? 'disabled' : '', () => { if(currentPage>1) { currentPage--; renderSongList(filteredBySearch); }});
+            
+            for(let i=Math.max(1, currentPage-4); i<=Math.min(totalPages, currentPage+4); i++) {
+                addBtn(i, i === currentPage ? 'active' : '', () => { currentPage = i; renderSongList(filteredBySearch); });
             }
-
-            const startPage = Math.max(1, currentPage - 4);
-            const endPage = Math.min(totalPages, currentPage + 4);
-            for (let i = startPage; i <= endPage; i++) {
-                const pageBtn = document.createElement('button');
-                pageBtn.className = `page-btn ${i === currentPage ? 'active' : ''}`;
-                pageBtn.textContent = i;
-                pageBtn.onclick = () => {
-                    currentPage = i;
-                    renderSongList(filteredBySearch);
-                };
-                paginationEl.appendChild(pageBtn);
-            }
-
-            if (currentPage < totalPages - 3) {
-                if (currentPage < totalPages - 4) {
-                    const ellipsis = document.createElement('button');
-                    ellipsis.className = 'page-btn ellipsis';
-                    ellipsis.textContent = '...';
-                    ellipsis.disabled = true;
-                    paginationEl.appendChild(ellipsis);
-                }
-                const lastBtn = document.createElement('button');
-                lastBtn.className = 'page-btn';
-                lastBtn.textContent = totalPages;
-                lastBtn.onclick = () => {
-                    currentPage = totalPages;
-                    renderSongList(filteredBySearch);
-                };
-                paginationEl.appendChild(lastBtn);
-            }
-
-            const nextBtn = document.createElement('button');
-            nextBtn.className = `page-btn ${currentPage === totalPages ? 'disabled' : ''}`;
-            nextBtn.textContent = '下一页';
-            nextBtn.onclick = () => {
-                if (currentPage < totalPages) {
-                    currentPage++;
-                    renderSongList(filteredBySearch);
-                }
-            };
-            paginationEl.appendChild(nextBtn);
-
-            const jumpContainer = document.createElement('div');
-            jumpContainer.className = 'page-jump-container';
-            jumpContainer.innerHTML = `
-                <span class="page-jump-text">共 ${totalPages} 页，跳至</span>
-                <input type="number" class="page-jump-input" min="1" max="${totalPages}" value="${currentPage}">
-                <span class="page-jump-text">页</span>
-                <button class="page-btn" id="jump-btn">跳转</button>
-            `;
-            paginationEl.appendChild(jumpContainer);
-
-            const jumpInput = jumpContainer.querySelector('.page-jump-input');
-            const jumpBtn = jumpContainer.querySelector('#jump-btn');
-            jumpBtn.onclick = () => {
-                let targetPage = parseInt(jumpInput.value);
-                if (isNaN(targetPage)) targetPage = 1;
-                targetPage = Math.max(1, Math.min(totalPages, targetPage));
-                if (targetPage !== currentPage) {
-                    currentPage = targetPage;
-                    renderSongList(filteredBySearch);
-                }
-            };
-            jumpInput.addEventListener('keydown', (e) => {
-                if (e.key === 'Enter' || e.keyCode === 13) jumpBtn.click();
-            });
-            jumpInput.addEventListener('input', () => {
-                jumpInput.value = jumpInput.value.replace(/\D/g, '');
-            });
-        }
-
-        function initSearchFieldCheckboxes() {
-            const checkboxes = [
-                document.getElementById('search-title'),
-                document.getElementById('search-artist'),
-                document.getElementById('search-collection')
-            ];
-            checkboxes.forEach(cb => {
-                cb.addEventListener('change', () => {
-                    currentPage = 1;
-                    updateFilterAndSearch();
-                });
-            });
-        }
-
-        function initSearch() {
-            const searchInput = document.getElementById('search-input');
-            const searchBtn = document.getElementById('search-btn');
-            searchInput.addEventListener('keydown', (e) => {
-                if (e.key === 'Enter' || e.keyCode === 13) {
-                    e.preventDefault();
-                    currentPage = 1;
-                    updateFilterAndSearch();
-                }
-            });
-            searchBtn.addEventListener('click', () => {
-                currentPage = 1;
-                updateFilterAndSearch();
-            });
-            let searchTimer = null;
-            searchInput.addEventListener('input', () => {
-                clearTimeout(searchTimer);
-                searchTimer = setTimeout(() => {
-                    currentPage = 1;
-                    updateFilterAndSearch();
-                }, 300);
-            });
+            
+            addBtn('下一页', currentPage === totalPages ? 'disabled' : '', () => { if(currentPage<totalPages) { currentPage++; renderSongList(filteredBySearch); }});
         }
 
         async function bootstrap() {
             try {
                 const res = await fetch('data/index.json');
-                if (!res.ok) throw new Error(`加载索引失败（状态码：${res.status}`);
                 const config = await res.json();
                 fileNames.push(...(config.files || []));
                 FILE_TO_ALIAS = config.fileToAlias || {};
 
-                if (fileNames.length === 0) throw new Error('index.json中无数据文件配置');
-
-                const progressMsg = document.getElementById('progress-msg');
-                progressMsg.textContent = `📥 正在并行加载 ${fileNames.length} 个歌库文件...`;
-
                 await loadScriptsParallel(fileNames);
-
-                progressMsg.textContent = `✅ 歌库加载完成，总歌曲数：${originalData.length}`;
+                document.getElementById('progress-msg').style.display = 'none';
                 filteredBySource = [...originalData];
                 filteredBySearch = [...originalData];
 
                 generateFilterButtons();
-                initSearchFieldCheckboxes();
-                initSearch();
-                document.getElementById('copy-all-btn').addEventListener('click', copyAllSearchResults);
                 
+                document.getElementById('search-btn').addEventListener('click', () => { currentPage=1; updateFilterAndSearch(); });
+                document.getElementById('search-input').addEventListener('keydown', (e) => { if(e.key==='Enter') { currentPage=1; updateFilterAndSearch(); }});
+                document.getElementById('search-title').addEventListener('change', updateFilterAndSearch);
+                document.getElementById('search-artist').addEventListener('change', updateFilterAndSearch);
+                document.getElementById('search-collection').addEventListener('change', updateFilterAndSearch);
+                document.getElementById('copy-all-btn').addEventListener('click', () => {
+                    const text = filteredBySearch.map(item => {
+                        return isValidArtist(item.artist) ? `${item.title} - ${item.artist}（${item.link}）` : `${item.title}（${item.link}）`;
+                    }).join('\n');
+                    if(text) copyToClipboard(text);
+                });
+
                 updateStats();
                 renderSongList(filteredBySearch);
-
-            } catch (error) {
-                console.error('❌ 启动失败：', error);
-                const progressMsg = document.getElementById('progress-msg');
-                progressMsg.className = 'progress-msg error-msg';
-                progressMsg.textContent = `❌ 加载失败：${error.message}`;
+            } catch (err) {
+                console.error(err);
+                document.getElementById('progress-msg').textContent = `❌ 加载失败: ${err.message}`;
             }
         }
-
         document.addEventListener('DOMContentLoaded', bootstrap);
     </script>
 </body>
