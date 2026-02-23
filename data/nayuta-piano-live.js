@@ -1,6 +1,6 @@
 // nayuta生演奏 - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1GXYFzXETo
-// 生成时间: 2/23/2026, 2:05:52 PM
+// 生成时间: 2/23/2026, 3:43:30 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2262,8 +2262,8 @@ window.SONG_DATA.push(
   "source": "nayuta-piano-live.js"
 },
     {
-  "title": "リフレクティア 《真实之泪》（true tears）的OP",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "リフレクティア",
+  "artist": "eufonius 「true tears」OP",
   "collection": "【nayuta会限20 续/21】15万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.20 续~【2025年3月15日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VBHdznEU6?p=1",
@@ -2287,7 +2287,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "God knows...",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "涼宮ハルヒ(平野綾)",
   "collection": "【nayuta会限20 续/21】15万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.20 续~【2025年3月15日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VBHdznEU6?p=4",
@@ -2302,7 +2302,7 @@ window.SONG_DATA.push(
   "source": "nayuta-piano-live.js"
 },
     {
-  "title": "encore01. 蒼のキャンバス",
+  "title": "蒼のキャンバス",
   "artist": "nayuta",
   "collection": "【nayuta会限20 续/21】15万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.20 续~【2025年3月15日】【生演奏系列】",
   "up": "前尘往事如昔故",
@@ -2310,7 +2310,7 @@ window.SONG_DATA.push(
   "source": "nayuta-piano-live.js"
 },
     {
-  "title": "encore02. こうやって、いつまでも。",
+  "title": "こうやって、いつまでも。",
   "artist": "nayuta",
   "collection": "【nayuta会限20 续/21】15万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.20 续~【2025年3月15日】【生演奏系列】",
   "up": "前尘往事如昔故",

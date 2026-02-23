@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1cofuBGEkX
-// 生成时间: 2/23/2026, 2:03:09 PM
+// 生成时间: 2/23/2026, 3:39:40 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -11111,7 +11111,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シャングリラ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "チャットモンチー",
   "collection": "【凛々咲 切片】ALL GENRE SINGING 💜 オールジャンル歌枠 2025年11月17日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KYCBB4E8b?p=2",
@@ -11206,8 +11206,8 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "たばこ -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "たばこ",
+  "artist": "コレサワ",
   "collection": "【凛々咲 切片】ALL GENRE SINGING 💜 オールジャンル歌枠 2025年11月17日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KYCBB4E8b?p=14",
@@ -13608,7 +13608,7 @@ window.SONG_DATA.push(
     {
   "title": "パラレルナイト",
   "artist": "凛々咲",
-  "collection": "【🐍凛々咲歌切】市役所で歌枠リレー ~ この声、川口市に届け～！[2026-02-22][K6PWi-onaWQ]",
+  "collection": "【🐍凛々咲歌切】市役所で歌枠リレー ~ この声、川口市に届け～！[2026-02-23][K6PWi-onaWQ]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1n1fqBWECg?p=1",
   "source": "ririsya.js"
@@ -13616,7 +13616,7 @@ window.SONG_DATA.push(
     {
   "title": "夜に駆ける",
   "artist": "YOASOBI",
-  "collection": "【🐍凛々咲歌切】市役所で歌枠リレー ~ この声、川口市に届け～！[2026-02-22][K6PWi-onaWQ]",
+  "collection": "【🐍凛々咲歌切】市役所で歌枠リレー ~ この声、川口市に届け～！[2026-02-23][K6PWi-onaWQ]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1n1fqBWECg?p=2",
   "source": "ririsya.js"
@@ -13624,7 +13624,7 @@ window.SONG_DATA.push(
     {
   "title": "未来予想図II",
   "artist": "DREAMS COME TRUE",
-  "collection": "【🐍凛々咲歌切】市役所で歌枠リレー ~ この声、川口市に届け～！[2026-02-22][K6PWi-onaWQ]",
+  "collection": "【🐍凛々咲歌切】市役所で歌枠リレー ~ この声、川口市に届け～！[2026-02-23][K6PWi-onaWQ]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1n1fqBWECg?p=3",
   "source": "ririsya.js"
@@ -13632,7 +13632,7 @@ window.SONG_DATA.push(
     {
   "title": "Re,Future",
   "artist": "凛々咲",
-  "collection": "【🐍凛々咲歌切】市役所で歌枠リレー ~ この声、川口市に届け～！[2026-02-22][K6PWi-onaWQ]",
+  "collection": "【🐍凛々咲歌切】市役所で歌枠リレー ~ この声、川口市に届け～！[2026-02-23][K6PWi-onaWQ]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1n1fqBWECg?p=4",
   "source": "ririsya.js"

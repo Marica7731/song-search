@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1ve411z7Nm
-// 生成时间: 2/23/2026, 2:03:36 PM
+// 生成时间: 2/23/2026, 3:41:19 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9406,8 +9406,8 @@ window.SONG_DATA.push(
   "source": "suu_usuwa.js"
 },
     {
-  "title": "サンタが街にやってくる",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "サンタが町にやってくる",
+  "artist": "深見梨加, 音羽ゆりかご会",
   "collection": "【稀羽すう】圣诞水曜定期歌枠~ 🎶 #93",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ChCvYDELa?p=1",

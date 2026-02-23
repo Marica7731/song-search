@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1p1zBBCEZ3
-// 生成时间: 2/23/2026, 2:04:58 PM
+// 生成时间: 2/23/2026, 3:42:19 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8566,8 +8566,8 @@ window.SONG_DATA.push(
   "source": "yoshika.js"
 },
     {
-  "title": "O mio babbino caroGiacomo Puccini",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "O mio babbino caro",
+  "artist": "Giacomo Puccini",
   "collection": "【 YOSHIKA⁂Ch. 】20横屏】新设备试歌🎤O mio babbino caroGiacomo Puccini【240823】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV145tReFE9u?p=20",
