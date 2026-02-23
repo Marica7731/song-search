@@ -1,6 +1,6 @@
 // nayuta生演奏 - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1GXYFzXETo
-// 生成时间: 2/23/2026, 6:03:09 AM
+// 生成时间: 2/23/2026, 7:11:33 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1518,8 +1518,8 @@ window.SONG_DATA.push(
   "source": "nayuta-piano-live.js"
 },
     {
-  "title": "secret base～君がくれたもの～　-　ZONE 『キッズ・ウォー3』主題歌",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "secret base～君がくれたもの～",
+  "artist": "ZONE 『キッズ・ウォー3』主題歌",
   "collection": "【nayuta会限13/21】突発！夏日特辑～声乐和钢琴的现场演奏会 vol.13 【2023年8月27日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aoHXz6Epd?p=1",

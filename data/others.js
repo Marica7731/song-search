@@ -1,6 +1,6 @@
 // 其他歌手 - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV11GZtBcEsp
-// 生成时间: 2/23/2026, 6:04:26 AM
+// 生成时间: 2/23/2026, 7:12:52 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4558,8 +4558,8 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "[2026-01-07]CULUA「少しの自信があったら、」Official Music Video[KKIKy5dS8i0]",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "少しの自信があったら、",
+  "artist": "CULUA [KKIKy5dS8i0][2026-01-07]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=174",

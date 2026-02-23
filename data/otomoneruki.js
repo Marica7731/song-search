@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1zzZPBsEum
-// 生成时间: 2/23/2026, 6:02:56 AM
+// 生成时间: 2/23/2026, 7:11:08 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -190,15 +190,15 @@ window.SONG_DATA.push(
   "source": "otomoneruki.js"
 },
     {
-  "title": "クリスマスソング [2025-12-25]SdfDBhgwGt0]",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "クリスマスソング",
+  "artist": "back number [2025-12-25]SdfDBhgwGt0]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=24",
   "source": "otomoneruki.js"
 },
     {
-  "title": "ハッピークリスマスパーティ [2025-12-25]SdfDBhgwGt0]",
+  "title": "ハッピークリスマスパーティ- HoneyWorks [2025-12-25]SdfDBhgwGt0]",
   "artist": "来源处未提供标准格式歌手",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
@@ -206,56 +206,56 @@ window.SONG_DATA.push(
   "source": "otomoneruki.js"
 },
     {
-  "title": "恋人がサンタクロース [2025-12-25]SdfDBhgwGt0]",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "恋人がサンタクロース",
+  "artist": "松任谷由実 [2025-12-25]SdfDBhgwGt0]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=26",
   "source": "otomoneruki.js"
 },
     {
-  "title": "clock lock works [2025-12-25]SdfDBhgwGt0]",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "clock lock works",
+  "artist": "ハチ  [2025-12-25]SdfDBhgwGt0]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=27",
   "source": "otomoneruki.js"
 },
     {
-  "title": "抱きしめたいほど美しい日々に [2025-12-25]SdfDBhgwGt0]",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "抱きしめたいほど美しい日々に",
+  "artist": "くじら [2025-12-25]SdfDBhgwGt0]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=28",
   "source": "otomoneruki.js"
 },
     {
-  "title": "いつかのメリ-クリスマス [2025-12-25]SdfDBhgwGt0]",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "いつかのメリークリスマス",
+  "artist": "B'z [2025-12-25]SdfDBhgwGt0]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=29",
   "source": "otomoneruki.js"
 },
     {
-  "title": "Overdose [2025-12-25]SdfDBhgwGt0]",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Overdose",
+  "artist": "なとり [2025-12-25]SdfDBhgwGt0]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=30",
   "source": "otomoneruki.js"
 },
     {
-  "title": "恋愛サーキュレーション [2025-12-25]SdfDBhgwGt0]",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "恋愛サーキュレーション",
+  "artist": "千石撫子(CV.花澤香菜) [2025-12-25]SdfDBhgwGt0]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=31",
   "source": "otomoneruki.js"
 },
     {
-  "title": "メリクリ [2025-12-25]SdfDBhgwGt0]",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "メリクリ",
+  "artist": "BoA [2025-12-25]SdfDBhgwGt0]",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=32",

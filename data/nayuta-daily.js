@@ -1,6 +1,6 @@
 // nayuta日常 - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1MPpUzsE1D
-// 生成时间: 2/23/2026, 6:03:24 AM
+// 生成时间: 2/23/2026, 7:12:00 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1006,8 +1006,8 @@ window.SONG_DATA.push(
   "source": "nayuta-daily.js"
 },
     {
-  "title": "21_2025-09-15-06.03.38.00_00225986",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Don't say lazy",
+  "artist": "桜高軽音部",
   "collection": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XvpqzYEWu?p=21",

@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1ve411z7Nm
-// 生成时间: 2/23/2026, 6:01:14 AM
+// 生成时间: 2/23/2026, 7:09:15 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14366,8 +14366,8 @@ window.SONG_DATA.push(
   "source": "suu_usuwa.js"
 },
     {
-  "title": "18_2025-06-22-03.03.59.00_00515135",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "アタシポンコツアンドロイド",
+  "artist": "五十嵐裕美 / 高森奈津美 / 大橋彩香 / 津田美波 / 三宅麻理恵",
   "collection": "【 #歌枠 / KARAOKE 】今日がいい日になりますように。ゲリラで歌います！【 稀羽すう / Re:AcT 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pGKpzNEce?p=18",
@@ -14382,8 +14382,8 @@ window.SONG_DATA.push(
   "source": "suu_usuwa.js"
 },
     {
-  "title": "20_2025-06-22-03.03.59.00_00570225",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "もってけ!セーラーふく",
+  "artist": "泉こなた、柊かがみ、柊つかさ、高良みゆき 『らき☆すた』OP",
   "collection": "【 #歌枠 / KARAOKE 】今日がいい日になりますように。ゲリラで歌います！【 稀羽すう / Re:AcT 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pGKpzNEce?p=20",

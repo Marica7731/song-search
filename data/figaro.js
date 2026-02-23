@@ -1,6 +1,6 @@
 // Figaro - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1HRfuBCEXN
-// 生成时间: 2/23/2026, 6:00:27 AM
+// 生成时间: 2/23/2026, 7:08:30 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -12030,136 +12030,136 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "さよーならまたいつか!-米津玄師",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "さよーならまたいつか!",
+  "artist": "米津玄師",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #208",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tTwWeVEqi?p=1",
   "source": "figaro.js"
 },
     {
-  "title": "眩暈-鬼束ちひろ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "眩暈",
+  "artist": "鬼束ちひろ",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #208",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tTwWeVEqi?p=2",
   "source": "figaro.js"
 },
     {
-  "title": "ヴィーナスとジーザス-やくしまるえつこ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ヴィーナスとジーザス",
+  "artist": "やくしまるえつこ",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #208",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tTwWeVEqi?p=3",
   "source": "figaro.js"
 },
     {
-  "title": "変わらないもの-奧華子",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "変わらないもの",
+  "artist": "奧華子",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #208",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tTwWeVEqi?p=4",
   "source": "figaro.js"
 },
     {
-  "title": "僕が死のうと思ったのは-中島美嘉",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #208",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tTwWeVEqi?p=5",
   "source": "figaro.js"
 },
     {
-  "title": "いさな-ヨルシカ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "いさな",
+  "artist": "ヨルシカ",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #208",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tTwWeVEqi?p=6",
   "source": "figaro.js"
 },
     {
-  "title": "ガーデン-藤井風",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ガーデン",
+  "artist": "藤井風",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #208",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tTwWeVEqi?p=7",
   "source": "figaro.js"
 },
     {
-  "title": "シリウスの心臓-ヰ世界情緒",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "シリウスの心臓",
+  "artist": "ヰ世界情緒",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #208",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tTwWeVEqi?p=8",
   "source": "figaro.js"
 },
     {
-  "title": "君が夜の海に還るまで-キタニタツヤ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "君が夜の海に還るまで",
+  "artist": "キタニタツヤ",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #208",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tTwWeVEqi?p=9",
   "source": "figaro.js"
 },
     {
-  "title": "夜明けと蛍-ナブナ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "夜明けと蛍",
+  "artist": "ナブナ",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #208",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tTwWeVEqi?p=10",
   "source": "figaro.js"
 },
     {
-  "title": "マリーゴールド-あいみょん",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "マリーゴールド",
+  "artist": "あいみょん",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #208",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tTwWeVEqi?p=11",
   "source": "figaro.js"
 },
     {
-  "title": "ハナミズキ-一青窈",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ハナミズキ",
+  "artist": "一青窈",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #208",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tTwWeVEqi?p=12",
   "source": "figaro.js"
 },
     {
-  "title": "to U-Bank Band with Salyu",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "to U",
+  "artist": "Bank Band with Salyu",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #208",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tTwWeVEqi?p=13",
   "source": "figaro.js"
 },
     {
-  "title": "憂、燦々-クリープハイプ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "憂、燦々",
+  "artist": "クリープハイプ",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #208",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tTwWeVEqi?p=14",
   "source": "figaro.js"
 },
     {
-  "title": "アポリア-ヨルシカ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "アポリア",
+  "artist": "ヨルシカ",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #208",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tTwWeVEqi?p=15",
   "source": "figaro.js"
 },
     {
-  "title": "ポロメリア-Cocco",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ポロメリア",
+  "artist": "Cocco",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #208",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tTwWeVEqi?p=16",
   "source": "figaro.js"
 },
     {
-  "title": "約束をしよう-supercell",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "約束をしよう",
+  "artist": "supercell",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #208",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tTwWeVEqi?p=17",
