@@ -36,15 +36,16 @@
         }
         .nav-link:hover { text-decoration: underline; }
 
-        /* --- 新增：Tab 切换器样式 --- */
+        /* --- Tab 切换器样式 --- */
         .tabs-container {
             display: flex;
             justify-content: center;
-            gap: 15px;
+            gap: 12px;
             margin-bottom: 25px;
+            flex-wrap: wrap;
         }
         .tab-btn {
-            padding: 12px 35px;
+            padding: 12px 28px;
             border: none;
             border-radius: 25px;
             font-size: 15px;
@@ -182,7 +183,23 @@
         .tab-content { display: none; }
         .tab-content.active { display: block; }
 
-        /* --- Tab 1: 排行样式 (优化版) --- */
+        /* --- 【新增】展开/收起按钮样式 --- */
+        .toggle-perf-btn {
+            padding: 4px 10px;
+            border: 1px solid #e9ecef;
+            border-radius: 6px;
+            background: white;
+            color: #6c757d;
+            font-size: 12px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .toggle-perf-btn:hover {
+            border-color: #00a1d6;
+            color: #00a1d6;
+        }
+
+        /* --- Tab 1: 歌曲总出场排行样式 --- */
         #rank-list { list-style: none; padding: 0; margin-bottom: 35px; }
         .rank-item {
             padding: 22px 25px;
@@ -191,15 +208,18 @@
             border-radius: 12px;
             box-shadow: 0 2px 8px rgba(0,0,0,0.04);
             transition: all 0.3s ease;
+        }
+        .rank-item:hover { transform: translateY(-2px); box-shadow: 0 8px 20px rgba(0,0,0,0.08); }
+        .rank-header-row {
             display: flex;
             justify-content: space-between;
             align-items: flex-start;
             gap: 20px;
             flex-wrap: wrap;
+            margin-bottom: 12px;
         }
-        .rank-item:hover { transform: translateY(-2px); box-shadow: 0 8px 20px rgba(0,0,0,0.08); }
         .rank-main { flex: 1; min-width: 250px; }
-        .rank-header {
+        .rank-title-row {
             display: flex;
             align-items: center;
             gap: 12px;
@@ -247,13 +267,27 @@
             box-shadow: 0 4px 12px rgba(111, 66, 193, 0.3);
             white-space: nowrap;
         }
+        .perf-container {
+            border-top: 1px solid #f1f3f5;
+            padding-top: 12px;
+        }
+        .perf-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+        .perf-label {
+            font-size: 12px;
+            color: #adb5bd;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
         .perf-grid {
             display: flex;
             flex-wrap: wrap;
             gap: 8px;
-            margin-top: 12px;
-            border-top: 1px solid #f1f3f5;
-            padding-top: 12px;
         }
         .perf-link {
             display: inline-block;
@@ -272,17 +306,18 @@
             background: #f0f9ff;
             transform: translateY(-1px);
         }
+        .perf-hidden { display: none; }
 
-        /* --- Tab 2: VTuber 分类样式 --- */
-        #vtuber-list { list-style: none; padding: 0; margin-bottom: 35px; }
-        .vtuber-group {
+        /* --- Tab 2: VTuber 来源分类样式 --- */
+        #vtuber-source-list { list-style: none; padding: 0; margin-bottom: 35px; }
+        .vtuber-source-group {
             margin-bottom: 30px;
             background: white;
             border-radius: 16px;
             overflow: hidden;
             box-shadow: 0 4px 12px rgba(0,0,0,0.05);
         }
-        .vtuber-header {
+        .vtuber-source-header {
             padding: 18px 25px;
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
@@ -290,37 +325,37 @@
             justify-content: space-between;
             align-items: center;
         }
-        .vtuber-name {
+        .vtuber-source-name {
             font-size: 20px;
             font-weight: 800;
             display: flex;
             align-items: center;
             gap: 10px;
         }
-        .vtuber-count {
+        .vtuber-source-count {
             font-size: 14px;
             opacity: 0.9;
             background: rgba(255,255,255,0.2);
             padding: 4px 12px;
             border-radius: 12px;
         }
-        .vtuber-songs {
+        .vtuber-source-songs {
             padding: 20px 25px;
         }
-        .vtuber-song-item {
+        .vtuber-source-song-item {
             display: flex;
             justify-content: space-between;
             align-items: center;
             padding: 12px 0;
             border-bottom: 1px dashed #f1f3f5;
         }
-        .vtuber-song-item:last-child { border-bottom: none; }
-        .vtuber-song-title {
+        .vtuber-source-song-item:last-child { border-bottom: none; }
+        .vtuber-source-song-title {
             font-weight: 600;
             color: #2c3e50;
             font-size: 15px;
         }
-        .vtuber-song-meta {
+        .vtuber-source-song-meta {
             display: flex;
             align-items: center;
             gap: 10px;
@@ -333,7 +368,60 @@
             border-radius: 8px;
         }
 
-        /* --- 分页 (复用) --- */
+        /* --- Tab 3: 歌手分类样式 --- */
+        #artist-list { list-style: none; padding: 0; margin-bottom: 35px; }
+        .artist-group {
+            margin-bottom: 30px;
+            background: white;
+            border-radius: 16px;
+            overflow: hidden;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+        }
+        .artist-header {
+            padding: 18px 25px;
+            background: linear-gradient(135deg, #00a1d6 0%, #00c6ff 100%);
+            color: white;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .artist-name {
+            font-size: 20px;
+            font-weight: 800;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .artist-count {
+            font-size: 14px;
+            opacity: 0.9;
+            background: rgba(255,255,255,0.2);
+            padding: 4px 12px;
+            border-radius: 12px;
+        }
+        .artist-songs {
+            padding: 20px 25px;
+        }
+        .artist-song-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 12px 0;
+            border-bottom: 1px dashed #f1f3f5;
+        }
+        .artist-song-item:last-child { border-bottom: none; }
+        .artist-song-title {
+            font-weight: 600;
+            color: #2c3e50;
+            font-size: 15px;
+        }
+        .artist-song-meta {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        /* --- 分页样式 --- */
         .pagination { 
             display: flex; 
             justify-content: center; 
@@ -380,22 +468,23 @@
 <body>
     <h1>📊 歌曲统计与分析</h1>
     <div class="sub-header">
-        查看歌曲出场频率与 VTuber 个人歌单 | <a href="index.html" class="nav-link">返回歌曲查询站</a>
+        查看歌曲出场频率、VTuber合集歌单与歌手分类 | <a href="index.html" class="nav-link">返回歌曲查询站</a>
     </div>
 
     <!-- Tab 切换器 -->
     <div class="tabs-container">
         <button class="tab-btn active" data-tab="rank">🏆 歌曲总出场排行</button>
-        <button class="tab-btn" data-tab="vtuber">🎤 按 VTuber 分类</button>
+        <button class="tab-btn" data-tab="vtuber-source">🎤 按VTuber分类</button>
+        <button class="tab-btn" data-tab="artist">🎙️ 按歌手分类</button>
     </div>
 
     <!-- 筛选与搜索 (共用) -->
     <div class="filter-search-container">
         <div class="filter-bar" id="filter-bar">
-            <span class="filter-label">🔍 筛选来源/VTuber：</span>
+            <span class="filter-label">🔍 筛选VTuber/来源：</span>
         </div>
         <div class="search-container">
-            <input type="text" id="search-input" placeholder="输入歌名或歌手搜索...">
+            <input type="text" id="search-input" placeholder="输入歌名、歌手、合集搜索...">
             <button id="search-btn">🔍 搜索</button>
         </div>
     </div>
@@ -407,16 +496,20 @@
     <div class="progress-msg" id="progress-msg">📥 正在加载并统计数据...</div>
     <div class="empty-msg" id="empty-msg">❌ 暂无数据</div>
 
-    <!-- Tab 1 内容：排行 -->
+    <!-- Tab 1 内容：歌曲总出场排行 -->
     <div id="tab-rank" class="tab-content active">
         <ul id="rank-list"></ul>
         <div class="pagination" id="pagination-rank"></div>
     </div>
 
-    <!-- Tab 2 内容：VTuber 分类 -->
-    <div id="tab-vtuber" class="tab-content">
-        <ul id="vtuber-list"></ul>
-        <!-- VTuber 分类暂时不分页，或者可以后续添加 -->
+    <!-- Tab 2 内容：按VTuber来源分类 -->
+    <div id="tab-vtuber-source" class="tab-content">
+        <ul id="vtuber-source-list"></ul>
+    </div>
+
+    <!-- Tab 3 内容：按歌手分类 -->
+    <div id="tab-artist" class="tab-content">
+        <ul id="artist-list"></ul>
     </div>
 
     <script>
@@ -427,7 +520,7 @@
         let FILE_TO_ALIAS = {};
         
         // 当前状态
-        let activeTab = 'rank'; // 'rank' or 'vtuber'
+        let activeTab = 'rank'; // 'rank' | 'vtuber-source' | 'artist'
         let activeFilter = 'all';
         let searchKeyword = '';
         const PAGE_SIZE = 30;
@@ -446,18 +539,16 @@
             s = s.replace(/\u3000/g, ' ');
             s = s.replace(/[～〜˜]/g, '~').replace(/[—–―]/g, '-');
             s = s.replace(/\s+/g, ' ');
-            return s;
+            return s.toLowerCase();
         }
 
         // ========== 1. 数据聚合逻辑 ==========
         
-        // 聚合类型 1: 按 "歌名+歌手" 聚合 (用于排行)
+        // 聚合1: 按 "歌名+歌手" 聚合 (用于排行Tab)
         function aggregateBySong(data) {
             const map = new Map();
             data.forEach(item => {
                 const artist = item.artist || '';
-                if (!isValidArtist(artist)) return;
-
                 const title = item.title || '未知歌曲';
                 const key = `${normalizeString(title)}|${normalizeString(artist)}`;
 
@@ -481,25 +572,26 @@
             return arr;
         }
 
-        // 聚合类型 2: 按 "歌手/VTuber" 聚合 (用于分类)
-        function aggregateByVtuber(data) {
+        // 聚合2: 按 VTuber来源文件 聚合 (用于VTuber分类Tab)
+        function aggregateByVtuberSource(data) {
             const map = new Map();
+            // 先按来源文件分组
             data.forEach(item => {
-                const artist = item.artist || '';
-                if (!isValidArtist(artist)) return;
+                const sourceFile = item.source || '未知来源';
+                const sourceKey = sourceFile.replace('.js', '');
+                const vtuberName = FILE_TO_ALIAS[sourceKey] || sourceKey;
 
-                // 这里的 key 就是歌手名
-                const key = normalizeString(artist);
-                if (!map.has(key)) {
-                    map.set(key, {
-                        name: artist, // 保留原始显示名
-                        songs: new Map() // 用 Map 存该歌手的歌曲去重
+                if (!map.has(sourceKey)) {
+                    map.set(sourceKey, {
+                        name: vtuberName,
+                        sourceFile: sourceFile,
+                        songs: new Map()
                     });
                 }
-                const vtuberEntry = map.get(key);
+                const vtuberEntry = map.get(sourceKey);
                 
-                // 统计该歌手的这首歌
-                const songKey = normalizeString(item.title || '未知');
+                // 统计该VTuber的这首歌
+                const songKey = normalizeString(item.title || '未知歌曲');
                 if (!vtuberEntry.songs.has(songKey)) {
                     vtuberEntry.songs.set(songKey, {
                         title: item.title || '未知歌曲',
@@ -515,19 +607,56 @@
             // 转为数组并排序
             const result = Array.from(map.values());
             // 按歌曲总数排序
-            result.sort((a, b) => {
-                const sumA = Array.from(a.songs.values()).reduce((acc, s) => acc + s.count, 0);
-                const sumB = Array.from(b.songs.values()).reduce((acc, s) => acc + s.count, 0);
-                return sumB - sumA;
-            });
-
-            // 内部歌曲也按次数排序
             result.forEach(v => {
                 const songArr = Array.from(v.songs.values());
                 songArr.sort((a, b) => b.count - a.count);
-                v.songs = songArr; // 替换为数组
+                v.songs = songArr;
                 v.totalCount = songArr.reduce((acc, s) => acc + s.count, 0);
             });
+            result.sort((a, b) => b.totalCount - a.totalCount);
+
+            return result;
+        }
+
+        // 聚合3: 按 artist歌手字段 聚合 (用于歌手分类Tab)
+        function aggregateByArtist(data) {
+            const map = new Map();
+            data.forEach(item => {
+                const artist = item.artist || '';
+                if (!isValidArtist(artist)) return;
+
+                const key = normalizeString(artist);
+                if (!map.has(key)) {
+                    map.set(key, {
+                        name: artist,
+                        songs: new Map()
+                    });
+                }
+                const artistEntry = map.get(key);
+                
+                // 统计该歌手的这首歌
+                const songKey = normalizeString(item.title || '未知歌曲');
+                if (!artistEntry.songs.has(songKey)) {
+                    artistEntry.songs.set(songKey, {
+                        title: item.title || '未知歌曲',
+                        count: 0,
+                        links: []
+                    });
+                }
+                const songEntry = artistEntry.songs.get(songKey);
+                songEntry.count++;
+                if (item.link) songEntry.links.push(item.link);
+            });
+
+            // 转为数组并排序
+            const result = Array.from(map.values());
+            result.forEach(v => {
+                const songArr = Array.from(v.songs.values());
+                songArr.sort((a, b) => b.count - a.count);
+                v.songs = songArr;
+                v.totalCount = songArr.reduce((acc, s) => acc + s.count, 0);
+            });
+            result.sort((a, b) => b.totalCount - a.totalCount);
 
             return result;
         }
@@ -536,22 +665,18 @@
         function getFilteredData() {
             let data = [...originalData];
 
-            // 1. 按来源筛选 (activeFilter 可能是 'all' 或 文件名 或 'missing-artist')
+            // 1. 按来源筛选
             if (activeFilter !== 'all') {
-                if (activeFilter === 'missing-artist') {
-                    data = data.filter(item => !isValidArtist(item.artist));
-                } else {
-                    data = data.filter(item => item.source === activeFilter);
-                }
+                data = data.filter(item => item.source === activeFilter);
             }
 
             // 2. 按关键词搜索
             if (searchKeyword) {
-                const kw = searchKeyword.toLowerCase();
+                const kw = normalizeString(searchKeyword);
                 data = data.filter(item => {
-                    const t = (item.title || '').toLowerCase();
-                    const a = (item.artist || '').toLowerCase();
-                    const c = (item.collection || '').toLowerCase();
+                    const t = normalizeString(item.title || '');
+                    const a = normalizeString(item.artist || '');
+                    const c = normalizeString(item.collection || '');
                     return t.includes(kw) || a.includes(kw) || c.includes(kw);
                 });
             }
@@ -563,32 +688,40 @@
 
         function generateFilterButtons() {
             const filterBar = document.getElementById('filter-bar');
-            filterBar.innerHTML = '<span class="filter-label">🔍 筛选来源/VTuber：</span>';
+            filterBar.innerHTML = '<span class="filter-label">🔍 筛选VTuber/来源：</span>';
 
-            // 全部
+            // 全部按钮
             const allBtn = document.createElement('button');
             allBtn.className = `filter-btn ${activeFilter === 'all' ? 'active' : ''}`;
             allBtn.textContent = '全部';
-            allBtn.onclick = () => { activeFilter = 'all'; currentRankPage = 1; updateAllViews(); };
+            allBtn.onclick = () => { 
+                activeFilter = 'all'; 
+                currentRankPage = 1; 
+                updateAllViews(); 
+            };
             filterBar.appendChild(allBtn);
 
             const spacer = document.createElement('span');
             spacer.style.width = '10px';
             filterBar.appendChild(spacer);
 
-            // 来源文件
+            // 来源文件按钮 (和index.html保持一致)
             fileNames.forEach(fileName => {
                 const fileBase = fileName.replace('.js', '');
                 const btnText = FILE_TO_ALIAS[fileBase] || fileBase;
                 const btn = document.createElement('button');
                 btn.className = `filter-btn ${activeFilter === fileName ? 'active' : ''}`;
                 btn.textContent = btnText;
-                btn.onclick = () => { activeFilter = fileName; currentRankPage = 1; updateAllViews(); };
+                btn.onclick = () => { 
+                    activeFilter = fileName; 
+                    currentRankPage = 1; 
+                    updateAllViews(); 
+                };
                 filterBar.appendChild(btn);
             });
         }
 
-        // --- Tab 1 渲染: 排行 ---
+        // --- Tab 1 渲染: 歌曲总出场排行 (带展开收起) ---
         function renderRankList(data) {
             const listEl = document.getElementById('rank-list');
             const aggData = aggregateBySong(data);
@@ -615,43 +748,84 @@
                     else if (globalRank === 2) rankClass = 'rank-2';
                     else if (globalRank === 3) rankClass = 'rank-3';
 
-                    const linksHtml = item.performances.slice(0, 5).map(p => // 只显示前5个链接防止太长
+                    // 拆分场次：前5个默认显示，剩下的隐藏
+                    const showCount = 5;
+                    const showPerfs = item.performances.slice(0, showCount);
+                    const hiddenPerfs = item.performances.slice(showCount);
+                    const hasMore = hiddenPerfs.length > 0;
+
+                    // 显示的场次HTML
+                    const showLinksHtml = showPerfs.map(p => 
                         `<a href="${p.link}" target="_blank" class="perf-link">${p.collection}</a>`
                     ).join('');
-                    const moreHint = item.performances.length > 5 ? `<span style="font-size:12px;color:#adb5bd;">...还有 ${item.performances.length - 5} 个场次</span>` : '';
+
+                    // 隐藏的场次HTML
+                    const hiddenLinksHtml = hasMore 
+                        ? hiddenPerfs.map(p => 
+                            `<a href="${p.link}" target="_blank" class="perf-link perf-hidden">${p.collection}</a>`
+                        ).join('')
+                        : '';
 
                     const li = document.createElement('li');
                     li.className = 'rank-item';
                     li.innerHTML = `
-                        <div class="rank-main">
-                            <div class="rank-header">
-                                <div class="rank-badge ${rankClass}">${globalRank}</div>
-                                <div>
-                                    <div class="song-title-large">${item.title}</div>
-                                    <span class="info-chip chip-artist">🎤 ${item.artist}</span>
+                        <div class="rank-header-row">
+                            <div class="rank-main">
+                                <div class="rank-title-row">
+                                    <div class="rank-badge ${rankClass}">${globalRank}</div>
+                                    <div>
+                                        <div class="song-title-large">${item.title}</div>
+                                        <span class="info-chip chip-artist">🎤 ${isValidArtist(item.artist) ? item.artist : '无歌手信息'}</span>
+                                    </div>
                                 </div>
                             </div>
+                            <div class="count-badge">${item.count} 次</div>
+                        </div>
+                        <div class="perf-container">
+                            <div class="perf-header">
+                                <span class="perf-label">🎬 演唱场次</span>
+                                ${hasMore ? `<button class="toggle-perf-btn" data-state="closed">展开全部 ${item.count} 个场次</button>` : ''}
+                            </div>
                             <div class="perf-grid">
-                                ${linksHtml}
-                                ${moreHint}
+                                ${showLinksHtml}
+                                ${hiddenLinksHtml}
                             </div>
                         </div>
-                        <div class="count-badge">${item.count} 次</div>
                     `;
                     listEl.appendChild(li);
+
+                    // 绑定展开收起事件
+                    const toggleBtn = li.querySelector('.toggle-perf-btn');
+                    if (toggleBtn) {
+                        const hiddenLinks = li.querySelectorAll('.perf-hidden');
+                        toggleBtn.addEventListener('click', () => {
+                            const isClosed = toggleBtn.dataset.state === 'closed';
+                            if (isClosed) {
+                                // 展开
+                                hiddenLinks.forEach(el => el.classList.remove('perf-hidden'));
+                                toggleBtn.textContent = '收起';
+                                toggleBtn.dataset.state = 'open';
+                            } else {
+                                // 收起
+                                hiddenLinks.forEach(el => el.classList.add('perf-hidden'));
+                                toggleBtn.textContent = `展开全部 ${item.count} 个场次`;
+                                toggleBtn.dataset.state = 'closed';
+                            }
+                        });
+                    }
                 });
             }
 
-            renderPagination(aggData.length, 'rank');
+            renderPagination(aggData.length);
         }
 
-        // --- Tab 2 渲染: VTuber 分类 ---
-        function renderVtuberList(data) {
-            const listEl = document.getElementById('vtuber-list');
-            const aggData = aggregateByVtuber(data);
+        // --- Tab 2 渲染: 按VTuber来源分类 ---
+        function renderVtuberSourceList(data) {
+            const listEl = document.getElementById('vtuber-source-list');
+            const aggData = aggregateByVtuberSource(data);
 
-            // 更新摘要 (覆盖)
-            document.getElementById('summary-text').textContent = `🎤 共收录 ${aggData.length} 位 VTuber/歌手的歌单`;
+            // 更新摘要
+            document.getElementById('summary-text').textContent = `🎤 共收录 ${aggData.length} 位VTuber的合集歌单`;
 
             if (aggData.length === 0) {
                 document.getElementById('empty-msg').style.display = 'block';
@@ -664,10 +838,10 @@
                     const songsHtml = vtuber.songs.map(song => {
                         const firstLink = song.links[0] || '#';
                         return `
-                            <div class="vtuber-song-item">
-                                <div class="vtuber-song-title">${song.title}</div>
-                                <div class="vtuber-song-meta">
-                                    <span class="mini-count">唱了 ${song.count} 次</span>
+                            <div class="vtuber-source-song-item">
+                                <div class="vtuber-source-song-title">${song.title}</div>
+                                <div class="vtuber-source-song-meta">
+                                    <span class="mini-count">收录 ${song.count} 次</span>
                                     <a href="${firstLink}" target="_blank" class="perf-link" style="padding:4px 8px;">直达</a>
                                 </div>
                             </div>
@@ -675,15 +849,62 @@
                     }).join('');
 
                     const li = document.createElement('li');
-                    li.className = 'vtuber-group';
+                    li.className = 'vtuber-source-group';
                     li.innerHTML = `
-                        <div class="vtuber-header">
-                            <div class="vtuber-name">
+                        <div class="vtuber-source-header">
+                            <div class="vtuber-source-name">
                                 🎙️ ${vtuber.name}
                             </div>
-                            <div class="vtuber-count">总计 ${vtuber.totalCount} 首投稿</div>
+                            <div class="vtuber-source-count">总计 ${vtuber.totalCount} 首投稿</div>
                         </div>
-                        <div class="vtuber-songs">
+                        <div class="vtuber-source-songs">
+                            ${songsHtml}
+                        </div>
+                    `;
+                    listEl.appendChild(li);
+                });
+            }
+        }
+
+        // --- Tab 3 渲染: 按歌手分类 ---
+        function renderArtistList(data) {
+            const listEl = document.getElementById('artist-list');
+            const aggData = aggregateByArtist(data);
+
+            // 更新摘要
+            document.getElementById('summary-text').textContent = `🎙️ 共收录 ${aggData.length} 位歌手的歌单`;
+
+            if (aggData.length === 0) {
+                document.getElementById('empty-msg').style.display = 'block';
+                listEl.innerHTML = '';
+            } else {
+                document.getElementById('empty-msg').style.display = 'none';
+                listEl.innerHTML = '';
+
+                aggData.forEach(artist => {
+                    const songsHtml = artist.songs.map(song => {
+                        const firstLink = song.links[0] || '#';
+                        return `
+                            <div class="artist-song-item">
+                                <div class="artist-song-title">${song.title}</div>
+                                <div class="artist-song-meta">
+                                    <span class="mini-count">演唱 ${song.count} 次</span>
+                                    <a href="${firstLink}" target="_blank" class="perf-link" style="padding:4px 8px;">直达</a>
+                                </div>
+                            </div>
+                        `;
+                    }).join('');
+
+                    const li = document.createElement('li');
+                    li.className = 'artist-group';
+                    li.innerHTML = `
+                        <div class="artist-header">
+                            <div class="artist-name">
+                                🎤 ${artist.name}
+                            </div>
+                            <div class="artist-count">总计 ${artist.totalCount} 首演唱</div>
+                        </div>
+                        <div class="artist-songs">
                             ${songsHtml}
                         </div>
                     `;
@@ -693,10 +914,8 @@
         }
 
         // 分页渲染
-        function renderPagination(total, type) {
+        function renderPagination(total) {
             const el = document.getElementById('pagination-rank');
-            if (type !== 'rank') return; // VTuber tab 暂时不分页
-            
             el.innerHTML = '';
             const totalPages = Math.ceil(total / PAGE_SIZE);
             if (totalPages <= 1) return;
@@ -704,7 +923,12 @@
             const prev = document.createElement('button');
             prev.className = `page-btn ${currentRankPage === 1 ? 'disabled' : ''}`;
             prev.textContent = '上一页';
-            prev.onclick = () => { if(currentRankPage>1) { currentRankPage--; updateAllViews(); } };
+            prev.onclick = () => { 
+                if(currentRankPage>1) { 
+                    currentRankPage--; 
+                    updateAllViews(); 
+                } 
+            };
             el.appendChild(prev);
 
             const start = Math.max(1, currentRankPage - 3);
@@ -713,47 +937,60 @@
                 const btn = document.createElement('button');
                 btn.className = `page-btn ${i === currentRankPage ? 'active' : ''}`;
                 btn.textContent = i;
-                btn.onclick = () => { currentRankPage = i; updateAllViews(); };
+                btn.onclick = () => { 
+                    currentRankPage = i; 
+                    updateAllViews(); 
+                };
                 el.appendChild(btn);
             }
 
             const next = document.createElement('button');
             next.className = `page-btn ${currentRankPage === totalPages ? 'disabled' : ''}`;
             next.textContent = '下一页';
-            next.onclick = () => { if(currentRankPage < totalPages) { currentRankPage++; updateAllViews(); } };
+            next.onclick = () => { 
+                if(currentRankPage < totalPages) { 
+                    currentRankPage++; 
+                    updateAllViews(); 
+                } 
+            };
             el.appendChild(next);
         }
 
         // ========== 4. 总控与初始化 ==========
 
         function updateAllViews() {
-            generateFilterButtons(); // 保持按钮状态同步
+            generateFilterButtons();
             const data = getFilteredData();
             
-            // 控制空状态显示
+            // 空状态控制
             if (data.length === 0) {
                 document.getElementById('empty-msg').style.display = 'block';
                 document.getElementById('rank-list').innerHTML = '';
-                document.getElementById('vtuber-list').innerHTML = '';
+                document.getElementById('vtuber-source-list').innerHTML = '';
+                document.getElementById('artist-list').innerHTML = '';
                 document.getElementById('summary-text').textContent = '😔 当前筛选下没有数据';
             } else {
                 document.getElementById('empty-msg').style.display = 'none';
+                // 根据当前Tab渲染对应内容
                 if (activeTab === 'rank') {
                     renderRankList(data);
-                } else {
-                    renderVtuberList(data);
+                } else if (activeTab === 'vtuber-source') {
+                    renderVtuberSourceList(data);
+                } else if (activeTab === 'artist') {
+                    renderArtistList(data);
                 }
             }
         }
 
         function switchTab(tab) {
             activeTab = tab;
+            // 更新Tab按钮状态
             document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
             document.querySelector(`.tab-btn[data-tab="${tab}"]`).classList.add('active');
-            
+            // 更新Tab内容显示
             document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
             document.getElementById(`tab-${tab}`).classList.add('active');
-
+            // 刷新视图
             updateAllViews();
         }
 
@@ -797,7 +1034,7 @@
 
                 document.getElementById('progress-msg').style.display = 'none';
                 
-                // 绑定 Tab 事件
+                // 绑定 Tab 切换事件
                 document.querySelectorAll('.tab-btn').forEach(btn => {
                     btn.addEventListener('click', () => switchTab(btn.dataset.tab));
                 });
