@@ -3,129 +3,557 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>歌曲查询站 - B站分P直达</title>
+    <title>歌曲统计 - 出场频率与VTuber歌单</title>
     <style>
-        /* 样式不变，省略 */
+        /* --- 全局样式复用 --- */
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body { 
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "PingFang SC", "Microsoft YaHei", sans-serif; 
-            max-width: 1200px; margin: 0 auto; padding: 30px 20px; 
-            background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%); min-height: 100vh;
+            max-width: 1200px; 
+            margin: 0 auto; 
+            padding: 30px 20px; 
+            background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%);
+            min-height: 100vh;
         }
-        h1 { text-align: center; color: #2c3e50; margin-bottom: 10px; font-size: 28px; font-weight: 700; }
-        .sub-header { text-align: center; color: #6c757d; margin-bottom: 30px; font-size: 14px; }
-        .nav-link { color: #00a1d6; text-decoration: none; font-weight: 600; }
-        .filter-search-container { display: flex; flex-direction: column; gap: 18px; margin-bottom: 25px; }
-        .filter-bar { display: flex; gap: 10px; flex-wrap: wrap; padding: 15px 20px; background: white; border-radius: 12px; align-items: center; box-shadow: 0 2px 10px rgba(0,0,0,0.05); }
-        .filter-label { font-size: 14px; color: #495057; font-weight: 600; white-space: nowrap; }
-        .filter-btn { padding: 7px 16px; border: 1px solid #e9ecef; border-radius: 20px; background: #f8f9fa; cursor: pointer; font-size: 14px; font-weight: 500; color: #495057; transition: all 0.2s ease; }
+        h1 { 
+            text-align: center; 
+            color: #2c3e50; 
+            margin-bottom: 10px;
+            font-size: 28px;
+            font-weight: 700;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        }
+        .sub-header {
+            text-align: center;
+            color: #6c757d;
+            margin-bottom: 25px;
+            font-size: 14px;
+        }
+        .nav-link {
+            color: #00a1d6;
+            text-decoration: none;
+            font-weight: 600;
+        }
+        .nav-link:hover { text-decoration: underline; }
+
+        /* --- Tab 切换器 --- */
+        .tabs-container {
+            display: flex;
+            justify-content: center;
+            gap: 12px;
+            margin-bottom: 25px;
+            flex-wrap: wrap;
+        }
+        .tab-btn {
+            padding: 12px 28px;
+            border: none;
+            border-radius: 25px;
+            font-size: 15px;
+            font-weight: 600;
+            cursor: pointer;
+            background: white;
+            color: #495057;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+            transition: all 0.3s ease;
+        }
+        .tab-btn:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+        .tab-btn.active {
+            background: linear-gradient(135deg, #00a1d6 0%, #00c6ff 100%);
+            color: white;
+            box-shadow: 0 4px 15px rgba(0, 161, 214, 0.4);
+        }
+
+        /* --- 筛选与搜索 --- */
+        .filter-search-container {
+            display: flex;
+            flex-direction: column;
+            gap: 18px;
+            margin-bottom: 25px;
+        }
+        .filter-bar {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            padding: 15px 20px;
+            background: white;
+            border-radius: 12px;
+            align-items: center;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+        .filter-label {
+            font-size: 14px;
+            color: #495057;
+            font-weight: 600;
+            white-space: nowrap;
+        }
+        .filter-btn {
+            padding: 7px 16px;
+            border: 1px solid #e9ecef;
+            border-radius: 20px;
+            background: #f8f9fa;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 500;
+            color: #495057;
+            transition: all 0.2s ease;
+        }
         .filter-btn:hover { border-color: #00a1d6; color: #00a1d6; background: #f0f9ff; }
-        .filter-btn.active { background: linear-gradient(135deg, #00a1d6 0%, #00c6ff 100%); color: white; border-color: transparent; }
-        .filter-btn.missing-artist { border-color: #dc3545; color: #dc3545; }
-        .filter-btn.clear { margin-left: auto; background: linear-gradient(135deg, #6c757d 0%, #adb5bd 100%); color: white; }
+        .filter-btn.active {
+            background: linear-gradient(135deg, #00a1d6 0%, #00c6ff 100%);
+            color: white;
+            border-color: transparent;
+            box-shadow: 0 4px 12px rgba(0, 161, 214, 0.3);
+        }
         .search-container { display: flex; gap: 12px; flex-wrap: wrap; }
-        #search-input { flex: 1; min-width: 250px; padding: 16px 20px; font-size: 16px; border: 2px solid #e9ecef; border-radius: 12px; outline: none; background: white; }
-        #search-btn { padding: 0 32px; background: linear-gradient(135deg, #00a1d6 0%, #00c6ff 100%); color: white; border: none; border-radius: 12px; font-size: 16px; font-weight: 600; cursor: pointer; }
-        .stats-container { display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; }
-        .stats-msg { font-size: 13px; color: #6c757d; font-weight: 500; }
-        .copy-all-btn { padding: 6px 12px; background: linear-gradient(135deg, #6f42c1 0%, #8a6edb 100%); color: white; border: none; border-radius: 8px; font-size: 12px; font-weight: 600; cursor: pointer; }
-        .copy-all-btn:disabled { background: #adb5bd; cursor: not-allowed; }
-        .progress-msg { text-align: center; color: #495057; padding: 40px 20px; font-size: 16px; font-weight: 500; }
+        #search-input { 
+            flex: 1; min-width: 250px; padding: 16px 20px; font-size: 16px; 
+            border: 2px solid #e9ecef; border-radius: 12px; outline: none; 
+            background: white; box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+            transition: all 0.3s ease;
+        }
+        #search-input:focus { border-color: #00a1d6; box-shadow: 0 0 0 4px rgba(0, 161, 214, 0.1); }
+        #search-btn { 
+            padding: 0 32px; background: linear-gradient(135deg, #00a1d6 0%, #00c6ff 100%);
+            color: white; border: none; border-radius: 12px; font-size: 16px; 
+            font-weight: 600; cursor: pointer; white-space: nowrap;
+            box-shadow: 0 4px 15px rgba(0, 161, 214, 0.3);
+            transition: all 0.3s ease;
+        }
+        #search-btn:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(0, 161, 214, 0.4); }
+
+        /* --- 统计信息栏 --- */
+        .stats-bar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+            padding: 0 5px;
+        }
+        .stats-text { font-size: 13px; color: #6c757d; font-weight: 500; }
+
+        /* --- 通用列表与进度 --- */
+        .progress-msg { text-align: center; color: #495057; padding: 60px 20px; font-size: 16px; font-weight: 500; }
         .empty-msg { text-align: center; color: #6c757d; padding: 60px 20px; font-size: 16px; display: none; font-weight: 500; }
-        #song-list { list-style: none; padding: 0; margin-bottom: 35px; }
-        .song-item { padding: 20px 25px; margin-bottom: 12px; background: white; border-radius: 12px; display: flex; justify-content: space-between; align-items: center; gap: 15px; flex-wrap: wrap; box-shadow: 0 2px 8px rgba(0,0,0,0.04); }
-        .song-item.missing-artist { border: 2px solid #dc3545; background: linear-gradient(135deg, #fff5f5 0%, #ffffff 100%); }
-        .copy-wrapper { position: relative; display: inline-block; }
-        .song-title { font-weight: 700; font-size: 17px; color: #2c3e50; padding-right: 20px; }
-        .song-artist-inline { font-size: 14px; color: #6c757d; padding-right: 20px; }
-        .artist-tag { font-size: 11px; color: #c0c4cc; background: #f5f7fa; padding: 1px 4px; border-radius: 3px; margin-right: 6px; }
-        .collection-text { font-size: 14px; color: #6c757d; padding-right: 20px; }
-        .copy-btn { position: absolute; top: 0; right: 0; background: transparent; border: none; color: #c0c4cc; font-size: 10px; cursor: pointer; }
-        .copy-btn:hover { color: #00a1d6; transform: scale(1.2); }
-        .song-source { font-size: 12px; color: #adb5bd; margin-top: 6px; font-weight: 500; }
-        .song-actions { display: flex; gap: 8px; align-items: center; }
-        .song-link a { padding: 8px 25px 8px 18px; background: linear-gradient(135deg, #00a1d6 0%, #00c6ff 100%); color: white; text-decoration: none; border-radius: 8px; font-size: 13px; font-weight: 600; }
-        .edit-link { width: 24px; height: 24px; border-radius: 50%; background: linear-gradient(135deg, #ff7a18 0%, #ff9f43 100%); color: white; text-decoration: none; font-size: 12px; font-weight: 600; display: flex; align-items: center; justify-content: center; }
-        .copy-toast { position: fixed; bottom: 30px; right: 30px; padding: 10px 20px; background: rgba(0, 0, 0, 0.75); color: white; border-radius: 20px; font-size: 14px; font-weight: 500; z-index: 9999; opacity: 0; transform: translateY(10px); transition: all 0.3s ease; pointer-events: none; }
-        .copy-toast.show { opacity: 1; transform: translateY(0); }
-        .pagination { display: flex; justify-content: center; align-items: center; gap: 8px; margin-top: 30px; padding: 20px; }
-        .page-btn { padding: 10px 16px; border: 1px solid #e9ecef; border-radius: 8px; background: white; cursor: pointer; font-size: 14px; color: #495057; }
+        .tab-content { display: none; }
+        .tab-content.active { display: block; }
+
+        /* --- 通用：展开/收起按钮 --- */
+        .toggle-btn {
+            padding: 6px 14px;
+            border: 1px solid #e9ecef;
+            border-radius: 8px;
+            background: white;
+            color: #6c757d;
+            font-size: 13px;
+            cursor: pointer;
+            transition: all 0.2s;
+            width: 100%;
+            margin-top: 10px;
+        }
+        .toggle-btn:hover { border-color: #00a1d6; color: #00a1d6; background: #f0f9ff; }
+        
+        /* --- 通用：场次链接网格 --- */
+        .perf-grid-small {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+            margin-top: 10px;
+            padding-top: 10px;
+            border-top: 1px dashed #f1f3f5;
+        }
+        .perf-link-small {
+            display: inline-block;
+            padding: 4px 10px;
+            background: #f8f9fa;
+            border: 1px solid #e9ecef;
+            border-radius: 6px;
+            font-size: 12px;
+            color: #495057;
+            text-decoration: none;
+            transition: all 0.2s;
+        }
+        .perf-link-small:hover {
+            border-color: #00a1d6;
+            color: #00a1d6;
+            background: #f0f9ff;
+            transform: translateY(-1px);
+        }
+        .hidden { display: none; }
+
+        /* --- Tab 1: 歌曲总出场排行 (带展开收起) --- */
+        #rank-list { list-style: none; padding: 0; margin-bottom: 35px; }
+        .rank-item {
+            padding: 22px 25px;
+            margin-bottom: 15px;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+            transition: all 0.3s ease;
+        }
+        .rank-item:hover { transform: translateY(-2px); box-shadow: 0 8px 20px rgba(0,0,0,0.08); }
+        .rank-header-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin-bottom: 12px;
+        }
+        .rank-main { flex: 1; min-width: 250px; }
+        .rank-title-row {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 8px;
+        }
+        .rank-badge {
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 800;
+            font-size: 14px;
+            flex-shrink: 0;
+        }
+        .rank-1 { background: linear-gradient(135deg, #ffd700 0%, #ffed4e 100%); color: #8b6914; }
+        .rank-2 { background: linear-gradient(135deg, #c0c0c0 0%, #e8e8e8 100%); color: #5a5a5a; }
+        .rank-3 { background: linear-gradient(135deg, #cd7f32 0%, #e9a66a 100%); color: #5c3a1a; }
+        .rank-other { background: #f8f9fa; color: #6c757d; border: 1px solid #e9ecef; }
+        .song-title-large { font-size: 20px; font-weight: 800; color: #2c3e50; line-height: 1.3; }
+        .info-chip {
+            display: inline-flex; align-items: center; gap: 6px;
+            padding: 4px 10px; border-radius: 12px; font-size: 13px; font-weight: 500; margin-top: 6px;
+        }
+        .chip-artist { background: #e3f2fd; color: #1565c0; }
+        .count-badge {
+            padding: 8px 18px; border-radius: 20px; font-size: 16px; font-weight: 800;
+            background: linear-gradient(135deg, #6f42c1 0%, #8a6edb 100%);
+            color: white; box-shadow: 0 4px 12px rgba(111, 66, 193, 0.3); white-space: nowrap;
+        }
+        .perf-container { border-top: 1px solid #f1f3f5; padding-top: 12px; }
+        .perf-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; }
+        .perf-label { font-size: 12px; color: #adb5bd; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; }
+        .perf-grid { display: flex; flex-wrap: wrap; gap: 8px; }
+        .perf-link {
+            display: inline-block; padding: 5px 12px; background: #f8f9fa; border: 1px solid #e9ecef;
+            border-radius: 6px; font-size: 12px; color: #495057; text-decoration: none; transition: all 0.2s;
+        }
+        .perf-link:hover { border-color: #00a1d6; color: #00a1d6; background: #f0f9ff; transform: translateY(-1px); }
+        .perf-hidden { display: none; }
+        .toggle-perf-btn {
+            padding: 4px 10px; border: 1px solid #e9ecef; border-radius: 6px;
+            background: white; color: #6c757d; font-size: 12px; cursor: pointer; transition: all 0.2s;
+        }
+        .toggle-perf-btn:hover { border-color: #00a1d6; color: #00a1d6; }
+
+        /* --- Tab 2 & 3: 通用分组卡片样式 --- */
+        .group-card {
+            margin-bottom: 30px;
+            background: white;
+            border-radius: 16px;
+            overflow: hidden;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+        }
+        .group-header {
+            padding: 18px 25px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .group-header.vtuber { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; }
+        .group-header.artist { background: linear-gradient(135deg, #00a1d6 0%, #00c6ff 100%); color: white; }
+        .group-name { font-size: 20px; font-weight: 800; display: flex; align-items: center; gap: 10px; }
+        .group-count {
+            font-size: 13px; opacity: 0.95; background: rgba(255,255,255,0.2);
+            padding: 5px 12px; border-radius: 12px;
+        }
+        .group-songs { padding: 20px 25px; }
+        .song-item-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            padding: 12px 0;
+            border-bottom: 1px dashed #f1f3f5;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        .song-item-row:last-child { border-bottom: none; }
+        .song-info-left { flex: 1; min-width: 200px; }
+        .song-title-main { font-weight: 600; color: #2c3e50; font-size: 15px; margin-bottom: 4px; }
+        .song-original-artist { font-size: 12px; color: #868e96; }
+        .song-meta-right {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            flex-shrink: 0;
+        }
+        .count-clickable {
+            font-size: 12px; color: #495057; background: #f8f9fa;
+            padding: 4px 10px; border-radius: 8px; cursor: pointer;
+            border: 1px solid #e9ecef; transition: all 0.2s;
+        }
+        .count-clickable:hover { border-color: #6f42c1; color: #6f42c1; background: #f3f0ff; }
+
+        /* --- 分页 --- */
+        .pagination { 
+            display: flex; justify-content: center; align-items: center; gap: 8px; 
+            flex-wrap: wrap; margin-top: 30px; padding: 20px;
+        }
+        .page-btn { 
+            padding: 10px 16px; border: 1px solid #e9ecef; border-radius: 8px; 
+            background: white; cursor: pointer; font-size: 14px; font-weight: 500;
+            color: #495057; min-width: 44px; text-align: center;
+            transition: all 0.2s ease; box-shadow: 0 2px 6px rgba(0,0,0,0.04);
+        }
         .page-btn:hover:not(.disabled):not(.active) { background: #f8f9fa; border-color: #00a1d6; color: #00a1d6; }
-        .page-btn.active { background: linear-gradient(135deg, #00a1d6 0%, #00c6ff 100%); color: white; border-color: transparent; }
-        .page-btn.disabled { cursor: not-allowed; color: #adb5bd; background: #f8f9fa; }
+        .page-btn.active { 
+            background: linear-gradient(135deg, #00a1d6 0%, #00c6ff 100%);
+            color: white; border-color: transparent; box-shadow: 0 4px 12px rgba(0, 161, 214, 0.3);
+        }
+        .page-btn.disabled { 
+            cursor: not-allowed; color: #adb5bd; background: #f8f9fa;
+            border-color: #e9ecef; box-shadow: none;
+        }
     </style>
 </head>
 <body>
-    <h1>🎵 我的已切歌曲查询站</h1>
+    <h1>📊 歌曲统计与分析</h1>
     <div class="sub-header">
-        系统化管理你的音乐收藏 | <a href="stats.html" class="nav-link">查看演唱者统计与排行</a>
+        查看歌曲出场频率、VTuber合集歌单与歌手分类 | <a href="index.html" class="nav-link">返回歌曲查询站</a>
     </div>
 
+    <!-- Tab 切换器 -->
+    <div class="tabs-container">
+        <button class="tab-btn active" data-tab="rank">🏆 歌曲总出场排行</button>
+        <button class="tab-btn" data-tab="vtuber-source">🎤 按VTuber分类</button>
+        <button class="tab-btn" data-tab="artist">🎙️ 按歌手分类</button>
+    </div>
+
+    <!-- 筛选与搜索 (共用) -->
     <div class="filter-search-container">
         <div class="filter-bar" id="filter-bar">
-            <span class="filter-label">🔍 按歌手/来源筛选：</span>
-            <button class="filter-btn active" id="btn-all">全部</button>
-            <span style="width:10px;"></span>
-            <span style="color:#adb5bd;font-size:13px;">(加载中...)</span>
+            <span class="filter-label">🔍 筛选VTuber/来源：</span>
         </div>
         <div class="search-container">
-            <input type="text" id="search-input" placeholder="输入关键词搜索..." disabled>
-            <button id="search-btn" disabled>🔍 搜索</button>
+            <input type="text" id="search-input" placeholder="输入歌名、歌手、合集搜索...">
+            <button id="search-btn">🔍 搜索</button>
         </div>
     </div>
 
-    <div class="stats-container">
-        <div class="stats-msg" id="stats-msg">准备就绪...</div>
-        <button class="copy-all-btn" id="copy-all-btn" disabled>📋 复制全部搜索结果</button>
+    <div class="stats-bar">
+        <div class="stats-text" id="summary-text">加载中...</div>
     </div>
 
-    <div class="progress-msg" id="progress-msg">📥 正在初始化...</div>
-    <div class="empty-msg" id="empty-msg">❌ 未找到匹配的歌曲</div>
-    <ul id="song-list"></ul>
-    <div class="pagination" id="pagination"></div>
-    <div class="copy-toast" id="copy-toast">copy ok!</div>
+    <div class="progress-msg" id="progress-msg">📥 正在加载并统计数据...</div>
+    <div class="empty-msg" id="empty-msg">❌ 暂无数据</div>
 
-    <script src="common.js"></script>
+    <!-- Tab 1 内容：歌曲总出场排行 -->
+    <div id="tab-rank" class="tab-content active">
+        <ul id="rank-list"></ul>
+        <div class="pagination" id="pagination-rank"></div>
+    </div>
+
+    <!-- Tab 2 内容：按VTuber来源分类 -->
+    <div id="tab-vtuber-source" class="tab-content">
+        <ul id="vtuber-source-list"></ul>
+    </div>
+
+    <!-- Tab 3 内容：按歌手分类 -->
+    <div id="tab-artist" class="tab-content">
+        <ul id="artist-list"></ul>
+    </div>
+
     <script>
-        // 页面私有变量
+        // 全局数据
         window.SONG_DATA = [];
         let originalData = [];
-        let filteredBySource = [];
-        let filteredBySearch = [];
-        const PAGE_SIZE = 50;
-        let currentPage = 1;
-        let activeSource = 'all';
-        const fileNames = [];
+        let fileNames = [];
         let FILE_TO_ALIAS = {};
         
-        // 状态锁
-        let isDataReady = false;
+        // 当前状态
+        let activeTab = 'rank';
+        let activeFilter = 'all';
+        let searchKeyword = '';
+        const PAGE_SIZE = 30;
+        let currentRankPage = 1;
 
-        function showCopyToast() {
-            const toast = document.getElementById('copy-toast');
-            toast.classList.add('show');
-            setTimeout(() => toast.classList.remove('show'), 1500);
+        // 工具函数
+        function isValidArtist(artist) {
+            if (!artist || artist.trim() === '') return false;
+            if (artist.includes('来源处未提供标准格式歌手')) return false;
+            return true;
         }
-        async function copyToClipboard(text) {
-            try { await navigator.clipboard.writeText(text); showCopyToast(); } 
-            catch (err) { console.error('复制失败:', err); alert('复制失败，请手动复制'); }
+        function normalizeString(str) {
+            if (!str) return '';
+            let s = str.trim();
+            s = s.replace(/[\uFF01-\uFF5E]/g, ch => String.fromCharCode(ch.charCodeAt(0) - 0xFEE0));
+            s = s.replace(/\u3000/g, ' ');
+            s = s.replace(/[～〜˜]/g, '~').replace(/[—–―]/g, '-');
+            s = s.replace(/\s+/g, ' ');
+            return s.toLowerCase();
         }
 
-        function extractBvid(link) {
-            if (!link) return null;
-            const match = link.match(/BV[a-zA-Z0-9]+/);
-            return match ? match[0] : null;
+        // ========== 1. 数据聚合逻辑 ==========
+        
+        // 聚合1: 按 "歌名+歌手" 聚合 (用于排行Tab)
+        function aggregateBySong(data) {
+            const map = new Map();
+            data.forEach(item => {
+                const artist = item.artist || '';
+                const title = item.title || '未知歌曲';
+                const key = `${normalizeString(title)}|${normalizeString(artist)}`;
+
+                if (!map.has(key)) {
+                    map.set(key, {
+                        title: title,
+                        artist: artist,
+                        originalArtist: item.originalArtist || '', // 保留原唱
+                        count: 0,
+                        performances: []
+                    });
+                }
+                const entry = map.get(key);
+                entry.count++;
+                entry.performances.push({
+                    link: item.link,
+                    collection: item.collection || '未知合集'
+                });
+            });
+            const arr = Array.from(map.values());
+            arr.sort((a, b) => b.count - a.count);
+            return arr;
         }
 
-        // 🔧 优化：直接用 DOM 操作生成按钮，不做复杂重绘
+        // 聚合2: 按 VTuber来源文件 聚合
+        function aggregateByVtuberSource(data) {
+            const map = new Map();
+            data.forEach(item => {
+                const sourceFile = item.source || '未知来源';
+                const sourceKey = sourceFile.replace('.js', '');
+                const vtuberName = FILE_TO_ALIAS[sourceKey] || sourceKey;
+
+                if (!map.has(sourceKey)) {
+                    map.set(sourceKey, {
+                        name: vtuberName,
+                        sourceFile: sourceFile,
+                        songs: new Map()
+                    });
+                }
+                const vtuberEntry = map.get(sourceKey);
+                
+                const songKey = normalizeString(item.title || '未知歌曲');
+                if (!vtuberEntry.songs.has(songKey)) {
+                    vtuberEntry.songs.set(songKey, {
+                        title: item.title || '未知歌曲',
+                        originalArtist: item.originalArtist || '', // 保留原唱
+                        artist: item.artist || '', // 保留数据中的歌手
+                        count: 0,
+                        links: [] // 保留所有链接
+                    });
+                }
+                const songEntry = vtuberEntry.songs.get(songKey);
+                songEntry.count++;
+                if (item.link) songEntry.links.push({
+                    link: item.link,
+                    collection: item.collection || '未知合集'
+                });
+            });
+
+            const result = Array.from(map.values());
+            result.forEach(v => {
+                const songArr = Array.from(v.songs.values());
+                songArr.sort((a, b) => b.count - a.count);
+                v.songs = songArr;
+                v.totalCount = songArr.reduce((acc, s) => acc + s.count, 0);
+                v.uniqueCount = songArr.length; // 去重数量
+            });
+            result.sort((a, b) => b.totalCount - a.totalCount);
+            return result;
+        }
+
+        // 聚合3: 按 artist歌手字段 聚合
+        function aggregateByArtist(data) {
+            const map = new Map();
+            data.forEach(item => {
+                const artist = item.artist || '';
+                if (!isValidArtist(artist)) return;
+
+                const key = normalizeString(artist);
+                if (!map.has(key)) {
+                    map.set(key, {
+                        name: artist,
+                        songs: new Map()
+                    });
+                }
+                const artistEntry = map.get(key);
+                
+                const songKey = normalizeString(item.title || '未知歌曲');
+                if (!artistEntry.songs.has(songKey)) {
+                    artistEntry.songs.set(songKey, {
+                        title: item.title || '未知歌曲',
+                        originalArtist: item.originalArtist || '',
+                        count: 0,
+                        links: []
+                    });
+                }
+                const songEntry = artistEntry.songs.get(songKey);
+                songEntry.count++;
+                if (item.link) songEntry.links.push({
+                    link: item.link,
+                    collection: item.collection || '未知合集'
+                });
+            });
+
+            const result = Array.from(map.values());
+            result.forEach(v => {
+                const songArr = Array.from(v.songs.values());
+                songArr.sort((a, b) => b.count - a.count);
+                v.songs = songArr;
+                v.totalCount = songArr.reduce((acc, s) => acc + s.count, 0);
+                v.uniqueCount = songArr.length;
+            });
+            result.sort((a, b) => b.totalCount - a.totalCount);
+            return result;
+        }
+
+        // ========== 2. 筛选与搜索逻辑 ==========
+        function getFilteredData() {
+            let data = [...originalData];
+
+            if (activeFilter !== 'all') {
+                data = data.filter(item => item.source === activeFilter);
+            }
+
+            if (searchKeyword) {
+                const kw = normalizeString(searchKeyword);
+                data = data.filter(item => {
+                    const t = normalizeString(item.title || '');
+                    const a = normalizeString(item.artist || '');
+                    const c = normalizeString(item.collection || '');
+                    const o = normalizeString(item.originalArtist || '');
+                    return t.includes(kw) || a.includes(kw) || c.includes(kw) || o.includes(kw);
+                });
+            }
+
+            return data;
+        }
+
+        // ========== 3. 渲染逻辑 ==========
+
         function generateFilterButtons() {
             const filterBar = document.getElementById('filter-bar');
-            filterBar.innerHTML = '<span class="filter-label">🔍 按歌手/来源筛选：</span>';
+            filterBar.innerHTML = '<span class="filter-label">🔍 筛选VTuber/来源：</span>';
 
             const allBtn = document.createElement('button');
-            allBtn.className = `filter-btn ${activeSource === 'all' ? 'active' : ''}`;
+            allBtn.className = `filter-btn ${activeFilter === 'all' ? 'active' : ''}`;
             allBtn.textContent = '全部';
-            allBtn.onclick = () => switchSource('all');
+            allBtn.onclick = () => { 
+                activeFilter = 'all'; 
+                currentRankPage = 1; 
+                updateAllViews(); 
+            };
             filterBar.appendChild(allBtn);
 
             const spacer = document.createElement('span');
@@ -136,240 +564,379 @@
                 const fileBase = fileName.replace('.js', '');
                 const btnText = FILE_TO_ALIAS[fileBase] || fileBase;
                 const btn = document.createElement('button');
-                btn.className = `filter-btn ${activeSource === fileName ? 'active' : ''}`;
+                btn.className = `filter-btn ${activeFilter === fileName ? 'active' : ''}`;
                 btn.textContent = btnText;
-                btn.onclick = () => switchSource(fileName);
+                btn.onclick = () => { 
+                    activeFilter = fileName; 
+                    currentRankPage = 1; 
+                    updateAllViews(); 
+                };
                 filterBar.appendChild(btn);
             });
-
-            const missingBtn = document.createElement('button');
-            missingBtn.className = `filter-btn missing-artist ${activeSource === 'missing-artist' ? 'active' : ''}`;
-            missingBtn.textContent = '⚠️ 缺失歌手';
-            missingBtn.onclick = () => switchSource('missing-artist');
-            filterBar.appendChild(missingBtn);
-
-            const clearBtn = document.createElement('button');
-            clearBtn.className = 'filter-btn clear';
-            clearBtn.textContent = '清空筛选';
-            clearBtn.onclick = () => {
-                activeSource = 'all';
-                document.getElementById('search-input').value = '';
-                if(isDataReady) updateFilterAndSearch();
-            };
-            filterBar.appendChild(clearBtn);
         }
 
-        function switchSource(source) {
-            if (!isDataReady) return;
-            activeSource = source;
-            currentPage = 1;
-            generateFilterButtons();
-            updateFilterAndSearch();
+        // --- 辅助：生成唯一ID ---
+        function uniqueId() {
+            return Math.random().toString(36).substr(2, 9);
         }
 
-        // 🔧 优化：筛选逻辑保持轻量
-        function updateFilterAndSearch() {
-            if (!isDataReady) return;
-
-            // 1. 来源筛选
-            if (activeSource === 'all') {
-                filteredBySource = originalData; // 直接引用，不复制
-            } else if (activeSource === 'missing-artist') {
-                filteredBySource = originalData.filter(item => !isValidArtist(item.artist));
-            } else {
-                filteredBySource = originalData.filter(item => item.source === activeSource);
-            }
-
-            // 2. 搜索筛选
-            const keyword = document.getElementById('search-input').value.trim().toLowerCase();
-            if (keyword) {
-                filteredBySearch = filteredBySource.filter(item => {
-                    // 简单的包含判断，不做复杂正则
-                    const t = (item.title || '').toLowerCase();
-                    const a = (item.artist || '').toLowerCase();
-                    const c = (item.collection || '').toLowerCase();
-                    return t.includes(keyword) || a.includes(keyword) || c.includes(keyword);
-                });
-            } else {
-                filteredBySearch = filteredBySource;
-            }
-
-            // 3. 更新统计 (使用超快的 Set 算法)
-            const statsMsg = document.getElementById('stats-msg');
-            // 注意：为了极致速度，这里可以只在第一次或数据变化时算 totalUnique
-            // 这里为了简单，每次都算，但因为是 O(n) 所以依然很快
-            const uniqueSearch = getUniqueSongCount(filteredBySearch);
+        // --- Tab 1 渲染: 歌曲总出场排行 ---
+        function renderRankList(data) {
+            const listEl = document.getElementById('rank-list');
+            const aggData = aggregateBySong(data);
             
-            statsMsg.textContent = `总歌曲数：${originalData.length} | 筛选后：${filteredBySource.length} | 搜索结果：${filteredBySearch.length}（去重：${uniqueSearch}）`;
-            
-            document.getElementById('copy-all-btn').disabled = filteredBySearch.length === 0;
-            renderSongList(filteredBySearch);
-        }
+            document.getElementById('summary-text').textContent = `📊 共统计 ${aggData.length} 首不同的“歌曲+歌手”组合`;
 
-        function renderSongList(data) {
-            const listEl = document.getElementById('song-list');
-            listEl.innerHTML = ''; // 清空
-            const start = (currentPage - 1) * PAGE_SIZE;
-            const pageData = data.slice(start, start + PAGE_SIZE);
+            const start = (currentRankPage - 1) * PAGE_SIZE;
+            const end = start + PAGE_SIZE;
+            const pageData = aggData.slice(start, end);
 
             if (pageData.length === 0) {
                 document.getElementById('empty-msg').style.display = 'block';
+                listEl.innerHTML = '';
             } else {
                 document.getElementById('empty-msg').style.display = 'none';
-                // 使用 DocumentFragment 减少重绘
-                const frag = document.createDocumentFragment();
-                pageData.forEach(item => {
-                    const sourceAlias = FILE_TO_ALIAS[item.source?.replace('.js', '')] || item.source || '未知';
-                    const bvid = extractBvid(item.link);
-                    const hasValidArtist = isValidArtist(item.artist);
+                listEl.innerHTML = '';
+                
+                pageData.forEach((item, idx) => {
+                    const globalRank = start + idx + 1;
+                    let rankClass = 'rank-other';
+                    if (globalRank === 1) rankClass = 'rank-1';
+                    else if (globalRank === 2) rankClass = 'rank-2';
+                    else if (globalRank === 3) rankClass = 'rank-3';
+
+                    const showCount = 5;
+                    const showPerfs = item.performances.slice(0, showCount);
+                    const hiddenPerfs = item.performances.slice(showCount);
+                    const hasMore = hiddenPerfs.length > 0;
+                    const id = uniqueId();
+
+                    const showLinksHtml = showPerfs.map(p => 
+                        `<a href="${p.link}" target="_blank" class="perf-link">${p.collection}</a>`
+                    ).join('');
+
+                    const hiddenLinksHtml = hasMore 
+                        ? hiddenPerfs.map(p => 
+                            `<a href="${p.link}" target="_blank" class="perf-link perf-hidden" id="p-${id}-${p.link.slice(-8)}">${p.collection}</a>`
+                        ).join('')
+                        : '';
 
                     const li = document.createElement('li');
-                    li.className = `song-item ${hasValidArtist ? '' : 'missing-artist'}`;
-                    // 简化 innerHTML 拼接
+                    li.className = 'rank-item';
                     li.innerHTML = `
-                        <div class="song-info">
-                            <div style="display:flex;align-items:center;gap:22px;flex-wrap:wrap;margin-bottom:8px;">
-                                <div class="copy-wrapper">
-                                    <div class="song-title">${item.title || '未知歌曲'}</div>
-                                    <button class="copy-btn" data-type="title">📋</button>
+                        <div class="rank-header-row">
+                            <div class="rank-main">
+                                <div class="rank-title-row">
+                                    <div class="rank-badge ${rankClass}">${globalRank}</div>
+                                    <div>
+                                        <div class="song-title-large">${item.title}</div>
+                                        <span class="info-chip chip-artist">🎤 ${isValidArtist(item.artist) ? item.artist : '无歌手信息'}</span>
+                                        ${item.originalArtist ? `<span class="info-chip" style="background:#fff3e0;color:#e65100;">📝 原唱: ${item.originalArtist}</span>` : ''}
+                                    </div>
                                 </div>
-                                ${hasValidArtist ? `
-                                <div class="copy-wrapper">
-                                    <span class="song-artist-inline"><span class="artist-tag">歌手</span>${item.artist}</span>
-                                    <button class="copy-btn" data-type="artist">📋</button>
-                                </div>` : ''}
                             </div>
-                            <div class="song-source">来源：${sourceAlias}</div>
+                            <div class="count-badge">${item.count} 次</div>
                         </div>
-                        <div class="song-actions">
-                            ${item.link ? `<a href="${item.link}" target="_blank" style="padding:8px 18px;background:#00a1d6;color:white;text-decoration:none;border-radius:8px;font-size:13px;">直达B站</a>` : ''}
+                        <div class="perf-container">
+                            <div class="perf-header">
+                                <span class="perf-label">🎬 演唱场次</span>
+                                ${hasMore ? `<button class="toggle-perf-btn" id="btn-${id}">展开全部 ${item.count} 个场次</button>` : ''}
+                            </div>
+                            <div class="perf-grid">
+                                ${showLinksHtml}
+                                ${hiddenLinksHtml}
+                            </div>
                         </div>
                     `;
-                    
-                    // 绑定事件
-                    const titleBtn = li.querySelector('[data-type="title"]');
-                    if(titleBtn) titleBtn.onclick = () => copyToClipboard(hasValidArtist ? `${item.title} - ${item.artist}` : item.title);
-                    
-                    frag.appendChild(li);
+                    listEl.appendChild(li);
+
+                    if (hasMore) {
+                        const toggleBtn = li.querySelector(`#btn-${id}`);
+                        const hiddenLinks = li.querySelectorAll('.perf-hidden');
+                        toggleBtn.addEventListener('click', () => {
+                            const isClosed = toggleBtn.textContent.includes('展开');
+                            if (isClosed) {
+                                hiddenLinks.forEach(el => el.classList.remove('perf-hidden'));
+                                toggleBtn.textContent = '收起';
+                            } else {
+                                hiddenLinks.forEach(el => el.classList.add('perf-hidden'));
+                                toggleBtn.textContent = `展开全部 ${item.count} 个场次`;
+                            }
+                        });
+                    }
                 });
-                listEl.appendChild(frag);
             }
-            renderPagination(data.length);
+
+            renderPagination(aggData.length);
         }
 
+        // --- 通用：渲染分组列表 (用于 VTuber 和 歌手) ---
+        function renderGroupList(data, listElId, type) {
+            const listEl = document.getElementById(listElId);
+            
+            if (data.length === 0) {
+                document.getElementById('empty-msg').style.display = 'block';
+                listEl.innerHTML = '';
+                return;
+            }
+            
+            document.getElementById('empty-msg').style.display = 'none';
+            listEl.innerHTML = '';
+
+            data.forEach(group => {
+                const groupId = uniqueId();
+                const showSongCount = 3;
+                const showSongs = group.songs.slice(0, showSongCount);
+                const hiddenSongs = group.songs.slice(showSongCount);
+                const hasMoreSongs = hiddenSongs.length > 0;
+
+                // 渲染歌曲行
+                const renderSongRow = (song, songIdx) => {
+                    const songId = uniqueId();
+                    const originalText = song.originalArtist 
+                        ? `<div class="song-original-artist">📝 原唱: ${song.originalArtist}</div>` 
+                        : (song.artist && type === 'vtuber' ? `<div class="song-original-artist">🎤 演唱: ${song.artist}</div>` : '');
+
+                    return `
+                        <div class="song-item-row">
+                            <div class="song-info-left">
+                                <div class="song-title-main">${song.title}</div>
+                                ${originalText}
+                            </div>
+                            <div class="song-meta-right">
+                                <span class="count-clickable" id="count-btn-${songId}">
+                                    ${type === 'vtuber' ? '收录' : '演唱'} ${song.count} 次
+                                </span>
+                                <a href="${song.links[0]?.link || '#'}" target="_blank" class="perf-link-small">直达</a>
+                            </div>
+                            <div class="perf-grid-small hidden" id="perf-grid-${songId}">
+                                ${song.links.map(l => `<a href="${l.link}" target="_blank" class="perf-link-small">${l.collection}</a>`).join('')}
+                            </div>
+                        </div>
+                    `;
+                };
+
+                const showSongsHtml = showSongs.map((s, i) => renderSongRow(s, i)).join('');
+                const hiddenSongsHtml = hasMoreSongs 
+                    ? `<div id="songs-hidden-${groupId}" class="hidden">${hiddenSongs.map((s, i) => renderSongRow(s, i + showSongCount)).join('')}</div>`
+                    : '';
+
+                const li = document.createElement('li');
+                li.className = 'group-card';
+                li.innerHTML = `
+                    <div class="group-header ${type}">
+                        <div class="group-name">
+                            ${type === 'vtuber' ? '🎙️' : '🎤'} ${group.name}
+                        </div>
+                        <div class="group-count">
+                            总计 ${group.totalCount} 首投稿（去重 ${group.uniqueCount} 首）
+                        </div>
+                    </div>
+                    <div class="group-songs">
+                        ${showSongsHtml}
+                        ${hiddenSongsHtml}
+                        ${hasMoreSongs ? `<button class="toggle-btn" id="toggle-songs-${groupId}">展开全部 ${group.songs.length} 首歌曲</button>` : ''}
+                    </div>
+                `;
+                listEl.appendChild(li);
+
+                // 绑定：展开/收起歌曲列表
+                if (hasMoreSongs) {
+                    const toggleSongsBtn = li.querySelector(`#toggle-songs-${groupId}`);
+                    const hiddenSongsDiv = li.querySelector(`#songs-hidden-${groupId}`);
+                    toggleSongsBtn.addEventListener('click', () => {
+                        const isClosed = toggleSongsBtn.textContent.includes('展开');
+                        if (isClosed) {
+                            hiddenSongsDiv.classList.remove('hidden');
+                            toggleSongsBtn.textContent = '收起';
+                        } else {
+                            hiddenSongsDiv.classList.add('hidden');
+                            toggleSongsBtn.textContent = `展开全部 ${group.songs.length} 首歌曲`;
+                        }
+                    });
+                }
+
+                // 绑定：点击次数展开场次
+                group.songs.forEach((song, idx) => {
+                    // 我们需要在DOM中找到对应的按钮，这里通过遍历li内的按钮来绑定更稳妥
+                    // 或者在render时就生成好id，这里通过li.querySelector
+                });
+                
+                // 重新遍历当前li绑定所有场次展开事件
+                const allCountBtns = li.querySelectorAll('.count-clickable');
+                allCountBtns.forEach(btn => {
+                    const songId = btn.id.replace('count-btn-', '');
+                    const grid = li.querySelector(`#perf-grid-${songId}`);
+                    btn.addEventListener('click', () => {
+                        const isHidden = grid.classList.contains('hidden');
+                        if (isHidden) {
+                            grid.classList.remove('hidden');
+                            btn.style.borderColor = '#6f42c1';
+                            btn.style.color = '#6f42c1';
+                        } else {
+                            grid.classList.add('hidden');
+                            btn.style.borderColor = '#e9ecef';
+                            btn.style.color = '#495057';
+                        }
+                    });
+                });
+            });
+        }
+
+        // --- Tab 2 渲染: 按VTuber来源分类 ---
+        function renderVtuberSourceList(data) {
+            const aggData = aggregateByVtuberSource(data);
+            document.getElementById('summary-text').textContent = `🎤 共收录 ${aggData.length} 位VTuber的合集歌单`;
+            renderGroupList(aggData, 'vtuber-source-list', 'vtuber');
+        }
+
+        // --- Tab 3 渲染: 按歌手分类 ---
+        function renderArtistList(data) {
+            const aggData = aggregateByArtist(data);
+            document.getElementById('summary-text').textContent = `🎙️ 共收录 ${aggData.length} 位歌手的歌单`;
+            renderGroupList(aggData, 'artist-list', 'artist');
+        }
+
+        // 分页渲染
         function renderPagination(total) {
-            const el = document.getElementById('pagination');
+            const el = document.getElementById('pagination-rank');
             el.innerHTML = '';
             const totalPages = Math.ceil(total / PAGE_SIZE);
             if (totalPages <= 1) return;
 
-            const addBtn = (text, cls, onClick) => {
-                const btn = document.createElement('button');
-                btn.className = `page-btn ${cls || ''}`;
-                btn.textContent = text;
-                btn.onclick = onClick;
-                el.appendChild(btn);
+            const prev = document.createElement('button');
+            prev.className = `page-btn ${currentRankPage === 1 ? 'disabled' : ''}`;
+            prev.textContent = '上一页';
+            prev.onclick = () => { 
+                if(currentRankPage>1) { 
+                    currentRankPage--; 
+                    updateAllViews(); 
+                } 
             };
+            el.appendChild(prev);
 
-            addBtn('上一页', currentPage === 1 ? 'disabled' : '', () => { if(currentPage>1) { currentPage--; renderSongList(filteredBySearch); }});
-            for(let i=Math.max(1, currentPage-2); i<=Math.min(totalPages, currentPage+2); i++) {
-                addBtn(i, i === currentPage ? 'active' : '', () => { currentPage = i; renderSongList(filteredBySearch); });
+            const start = Math.max(1, currentRankPage - 3);
+            const end = Math.min(totalPages, currentRankPage + 3);
+            for(let i=start; i<=end; i++) {
+                const btn = document.createElement('button');
+                btn.className = `page-btn ${i === currentRankPage ? 'active' : ''}`;
+                btn.textContent = i;
+                btn.onclick = () => { 
+                    currentRankPage = i; 
+                    updateAllViews(); 
+                };
+                el.appendChild(btn);
             }
-            addBtn('下一页', currentPage === totalPages ? 'disabled' : '', () => { if(currentPage<totalPages) { currentPage++; renderSongList(filteredBySearch); }});
+
+            const next = document.createElement('button');
+            next.className = `page-btn ${currentRankPage === totalPages ? 'disabled' : ''}`;
+            next.textContent = '下一页';
+            next.onclick = () => { 
+                if(currentRankPage < totalPages) { 
+                    currentRankPage++; 
+                    updateAllViews(); 
+                } 
+            };
+            el.appendChild(next);
         }
 
-        // 🔧 优化启动流程：先显示UI，再静默加载
-        async function bootstrap() {
-            const progressMsg = document.getElementById('progress-msg');
-            try {
-                // 1. 先加载 index.json (很快)
-                progressMsg.textContent = '📥 读取配置...';
-                const res = await fetch('data/index.json');
-                const config = await res.json();
-                fileNames.push(...(config.files || []));
-                FILE_TO_ALIAS = config.fileToAlias || {};
+        // ========== 4. 总控与初始化 ==========
 
-                // 2. 立即生成筛选按钮 (让用户先看到界面)
-                generateFilterButtons();
-                progressMsg.textContent = '📥 加载歌库数据...';
-
-                // 3. 并行加载 JS
-                await loadScriptsParallel(fileNames);
-
-                // 4. 数据准备完毕
-                isDataReady = true;
-                filteredBySource = originalData;
-                filteredBySearch = originalData;
-
-                // 5. 解锁 UI
-                document.getElementById('search-input').disabled = false;
-                document.getElementById('search-btn').disabled = false;
-                progressMsg.style.display = 'none';
-
-                // 6. 只算一次总去重数显示
-                const totalUnique = getUniqueSongCount(originalData);
-                document.getElementById('stats-msg').textContent = `总歌曲数：${originalData.length}（去重：${totalUnique}）`;
-
-                // 7. 渲染列表
-                renderSongList(originalData);
-
-                // 绑定事件
-                document.getElementById('search-btn').addEventListener('click', () => { currentPage=1; updateFilterAndSearch(); });
-                document.getElementById('search-input').addEventListener('keydown', (e) => { if(e.key==='Enter') { currentPage=1; updateFilterAndSearch(); }});
-                document.getElementById('copy-all-btn').addEventListener('click', () => {
-                    const text = filteredBySearch.map(item => `${item.title} - ${item.artist || '未知'}（${item.link}）`).join('\n');
-                    if(text) copyToClipboard(text);
-                });
-
-            } catch (err) {
-                console.error(err);
-                progressMsg.textContent = `❌ 加载失败: ${err.message}`;
+        function updateAllViews() {
+            generateFilterButtons();
+            const data = getFilteredData();
+            
+            if (data.length === 0) {
+                document.getElementById('empty-msg').style.display = 'block';
+                document.getElementById('rank-list').innerHTML = '';
+                document.getElementById('vtuber-source-list').innerHTML = '';
+                document.getElementById('artist-list').innerHTML = '';
+                document.getElementById('summary-text').textContent = '😔 当前筛选下没有数据';
+            } else {
+                document.getElementById('empty-msg').style.display = 'none';
+                if (activeTab === 'rank') {
+                    renderRankList(data);
+                } else if (activeTab === 'vtuber-source') {
+                    renderVtuberSourceList(data);
+                } else if (activeTab === 'artist') {
+                    renderArtistList(data);
+                }
             }
+        }
+
+        function switchTab(tab) {
+            activeTab = tab;
+            document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+            document.querySelector(`.tab-btn[data-tab="${tab}"]`).classList.add('active');
+            document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+            document.getElementById(`tab-${tab}`).classList.add('active');
+            updateAllViews();
         }
 
         function loadScriptsParallel(fileList) {
             const progressMsg = document.getElementById('progress-msg');
             let loadedCount = 0;
-            
-            // 🔧 优化：不使用 Promise.all 等全部，而是来一个处理一个
-            // 但为了保持数据一致性，我们还是等全部，但内部处理加快
-            return new Promise((resolve) => {
-                let resolvedCount = 0;
-                const total = fileList.length;
-                
-                if (total === 0) {
-                    resolve();
-                    return;
-                }
+            const totalFiles = fileList.length;
 
-                fileList.forEach(fileName => {
+            const promises = fileList.map(fileName => {
+                return new Promise((resolve) => {
                     const script = document.createElement('script');
                     script.src = `data/${fileName}`;
                     script.onload = () => {
-                        // 快速处理数据
                         const newDataCount = window.SONG_DATA.length - originalData.length;
                         if (newDataCount > 0) {
                             const newData = window.SONG_DATA.slice(-newDataCount);
-                            // 这里的循环是必须的，但很快
-                            for(let i=0; i<newData.length; i++) {
-                                newData[i].source = fileName;
-                            }
-                            // 直接替换引用，不要 [...spread] 复制大数组
-                            originalData = window.SONG_DATA;
+                            newData.forEach(item => item.source = fileName);
+                            originalData = [...window.SONG_DATA];
                         }
                         loadedCount++;
-                        progressMsg.textContent = `📥 加载数据 (${loadedCount}/${total})...`;
-                        
-                        resolvedCount++;
-                        if (resolvedCount === total) resolve();
+                        progressMsg.textContent = `📥 加载数据 (${loadedCount}/${totalFiles})...`;
+                        resolve();
                     };
-                    script.onerror = () => {
-                        resolvedCount++;
-                        if (resolvedCount === total) resolve();
-                    };
+                    script.onerror = () => resolve();
                     document.body.appendChild(script);
                 });
             });
+            return Promise.all(promises);
+        }
+
+        async function bootstrap() {
+            try {
+                const res = await fetch('data/index.json');
+                if (!res.ok) throw new Error('无法加载 index.json');
+                const config = await res.json();
+                fileNames.push(...(config.files || []));
+                FILE_TO_ALIAS = config.fileToAlias || {};
+
+                await loadScriptsParallel(fileNames);
+
+                document.getElementById('progress-msg').style.display = 'none';
+                
+                document.querySelectorAll('.tab-btn').forEach(btn => {
+                    btn.addEventListener('click', () => switchTab(btn.dataset.tab));
+                });
+
+                const searchInput = document.getElementById('search-input');
+                const searchBtn = document.getElementById('search-btn');
+                
+                const doSearch = () => {
+                    searchKeyword = searchInput.value.trim();
+                    currentRankPage = 1;
+                    updateAllViews();
+                };
+
+                searchBtn.addEventListener('click', doSearch);
+                searchInput.addEventListener('keydown', (e) => {
+                    if (e.key === 'Enter') doSearch();
+                });
+
+                generateFilterButtons();
+                updateAllViews();
+
+            } catch (err) {
+                console.error(err);
+                document.getElementById('progress-msg').textContent = `❌ 加载失败: ${err.message}`;
+            }
         }
 
         document.addEventListener('DOMContentLoaded', bootstrap);
