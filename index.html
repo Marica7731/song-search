@@ -565,14 +565,12 @@
             return true;
         }
 
-        // ========== 【新增】模糊匹配核心函数 ==========
+        // ========== 模糊匹配核心函数 ==========
         // 判断两个字符串是否有连续N个相同字符
         function hasContinuousCommonStr(str1, str2, minLength = 2) {
             const s1 = str1.trim();
             const s2 = str2.trim();
-            // 任意一个字符串长度不足最小长度，直接返回false
             if (s1.length < minLength || s2.length < minLength) return false;
-            // 遍历查找是否存在符合长度的连续公共子串
             for (let i = 0; i <= s1.length - minLength; i++) {
                 const subStr = s1.substring(i, i + minLength);
                 if (s2.includes(subStr)) return true;
@@ -582,30 +580,24 @@
 
         // 判断两首歌是否为同一首（歌名相同 + 歌手匹配规则）
         function isSameSong(songA, songB) {
-            // 硬前提：歌名必须完全相同（trim后）
             const titleA = (songA.title || '未知歌曲').trim();
             const titleB = (songB.title || '未知歌曲').trim();
             if (titleA !== titleB) return false;
 
-            // 提取歌手信息
             const artistA = (songA.artist || '').trim();
             const artistB = (songB.artist || '').trim();
             const validA = isValidArtist(artistA);
             const validB = isValidArtist(artistB);
 
-            // 情况1：两个歌手都无效，歌名相同即算同一首
             if (!validA && !validB) return true;
-            // 情况2：一个有效一个无效，不算同一首
             if (!validA || !validB) return false;
-            // 情况3：两个都有效，完全相同 或 有连续2个及以上相同字符，算同一首
             return artistA === artistB || hasContinuousCommonStr(artistA, artistB);
         }
 
-        // ========== 【重写】去重歌曲数计算函数（适配模糊匹配规则） ==========
+        // 去重歌曲数计算函数
         function getUniqueSongCount(data) {
             if (data.length === 0) return 0;
             
-            // 第一步：按歌名分组，仅同歌名的歌曲需要比对歌手，大幅提升性能
             const titleGroup = {};
             data.forEach(song => {
                 const titleKey = (song.title || '未知歌曲').trim();
@@ -614,16 +606,13 @@
             });
 
             let totalUnique = 0;
-            // 第二步：对每个歌名分组内的歌曲进行去重
             Object.values(titleGroup).forEach(group => {
                 if (group.length === 1) {
                     totalUnique++;
                     return;
                 }
-                // 分组内去重
                 const uniqueSongs = [];
                 group.forEach(currentSong => {
-                    // 检查当前歌曲是否和已存入的歌曲重复
                     const isDuplicate = uniqueSongs.some(savedSong => isSameSong(currentSong, savedSong));
                     if (!isDuplicate) uniqueSongs.push(currentSong);
                 });
@@ -891,22 +880,29 @@
                         </div>
                     `;
                     
-                    // 绑定所有复制事件
+                    // ========== 【核心修改】歌名旁复制按钮改为复制「歌手 - 歌名」 ==========
                     const titleCopyBtn = li.querySelector('[data-type="title"]');
                     if (titleCopyBtn) {
-                        titleCopyBtn.onclick = () => copyToClipboard(item.title || '未知歌曲');
+                        const title = item.title || '未知歌曲';
+                        const artist = item.artist?.trim();
+                        // 构造复制文本：有歌手则为「歌名 - 歌手」，无歌手则仅歌名
+                        const copyText = isValidArtist(artist) ? `${title} - ${artist}` : title;
+                        titleCopyBtn.onclick = () => copyToClipboard(copyText);
                     }
                     
+                    // 歌手复制按钮（保持原样：仅复制歌手名）
                     const artistCopyBtn = li.querySelector('[data-type="artist"]');
                     if (artistCopyBtn) {
                         artistCopyBtn.onclick = () => copyToClipboard(item.artist);
                     }
                     
+                    // 合集复制按钮（保持原样）
                     const collectionCopyBtn = li.querySelector('[data-type="collection"]');
                     if (collectionCopyBtn) {
                         collectionCopyBtn.onclick = () => copyToClipboard(item.collection || '未知');
                     }
                     
+                    // 链接复制按钮（保持原样）
                     const linkCopyBtn = li.querySelector('[data-type="link"]');
                     if (linkCopyBtn) {
                         linkCopyBtn.onclick = () => copyToClipboard(item.link);
