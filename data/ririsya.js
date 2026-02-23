@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1cofuBGEkX
-// 生成时间: 2/23/2026, 8:02:39 AM
+// 生成时间: 2/23/2026, 8:38:42 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -799,7 +799,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ムーンライト伝説",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "DALI",
   "collection": "【凛々咲】16】十月感觉没几期了，不凑合集了，等B站听歌识曲吧【2024年10月20日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dEy7YfEWx?p=2",
@@ -807,15 +807,15 @@ window.SONG_DATA.push(
 },
     {
   "title": "cat's eye",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "杏里",
   "collection": "【凛々咲】16】十月感觉没几期了，不凑合集了，等B站听歌识曲吧【2024年10月20日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dEy7YfEWx?p=3",
   "source": "ririsya.js"
 },
     {
-  "title": "bunny girl",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
   "collection": "【凛々咲】16】十月感觉没几期了，不凑合集了，等B站听歌识曲吧【2024年10月20日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dEy7YfEWx?p=4",
@@ -823,7 +823,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "はいよろこんで",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "こっちのけんと",
   "collection": "【凛々咲】16】十月感觉没几期了，不凑合集了，等B站听歌识曲吧【2024年10月20日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dEy7YfEWx?p=5",
@@ -831,7 +831,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モエチャッカファイア",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "弌誠",
   "collection": "【凛々咲】16】十月感觉没几期了，不凑合集了，等B站听歌识曲吧【2024年10月20日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dEy7YfEWx?p=6",
@@ -855,7 +855,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "サリシノハラ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "みきとP feat. 初音ミク",
   "collection": "【凛々咲】16】十月感觉没几期了，不凑合集了，等B站听歌识曲吧【2024年10月20日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dEy7YfEWx?p=9",
@@ -863,7 +863,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ルビーの指環",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "寺尾聰",
   "collection": "【凛々咲】16】十月感觉没几期了，不凑合集了，等B站听歌识曲吧【2024年10月20日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dEy7YfEWx?p=10",
@@ -871,7 +871,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "メロディー",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "玉置浩二",
   "collection": "【凛々咲】16】十月感觉没几期了，不凑合集了，等B站听歌识曲吧【2024年10月20日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dEy7YfEWx?p=11",
@@ -879,7 +879,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "We Are Never Ever Getting Back Together",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "Taylor Swift",
   "collection": "【凛々咲】16】十月感觉没几期了，不凑合集了，等B站听歌识曲吧【2024年10月20日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dEy7YfEWx?p=12",
@@ -887,15 +887,15 @@ window.SONG_DATA.push(
 },
     {
   "title": "bad day",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "Daniel Powter",
   "collection": "【凛々咲】16】十月感觉没几期了，不凑合集了，等B站听歌识曲吧【2024年10月20日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dEy7YfEWx?p=13",
   "source": "ririsya.js"
 },
     {
-  "title": "3时12分",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "3時12分",
+  "artist": "TAKU INOUE & 星街すいせい",
   "collection": "【凛々咲】16】十月感觉没几期了，不凑合集了，等B站听歌识曲吧【2024年10月20日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dEy7YfEWx?p=14",
@@ -903,7 +903,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ソワレ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "星街すいせい",
   "collection": "【凛々咲】16】十月感觉没几期了，不凑合集了，等B站听歌识曲吧【2024年10月20日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dEy7YfEWx?p=15",
@@ -911,7 +911,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "唱",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "Ado",
   "collection": "【凛々咲】16】十月感觉没几期了，不凑合集了，等B站听歌识曲吧【2024年10月20日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dEy7YfEWx?p=16",
@@ -919,7 +919,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヴァンパイア",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "DECO*27 feat. 初音ミク",
   "collection": "【 凛々咲】17】怎么这么多套衣服  ---~万圣节歌回+26接力",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ESSZYbECv?p=1",
@@ -927,15 +927,15 @@ window.SONG_DATA.push(
 },
     {
   "title": "ないない",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "ReoNa",
   "collection": "【 凛々咲】17】怎么这么多套衣服  ---~万圣节歌回+26接力",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ESSZYbECv?p=2",
   "source": "ririsya.js"
 },
     {
-  "title": "もうそう♥えくすぷれす (妄想♥快车)",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "もうそう♥えくすぷれす",
+  "artist": "花澤香菜 (千石撫子)",
   "collection": "【 凛々咲】17】怎么这么多套衣服  ---~万圣节歌回+26接力",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ESSZYbECv?p=3",
@@ -943,7 +943,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "スイートマジック",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "Junky feat. 鏡音リン",
   "collection": "【 凛々咲】17】怎么这么多套衣服  ---~万圣节歌回+26接力",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ESSZYbECv?p=4",
@@ -951,23 +951,23 @@ window.SONG_DATA.push(
 },
     {
   "title": "Bunny Girl",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "AKASAKI",
   "collection": "【 凛々咲】17】怎么这么多套衣服  ---~万圣节歌回+26接力",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ESSZYbECv?p=5",
   "source": "ririsya.js"
 },
     {
-  "title": "チャイナアドバイス/China Advice",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "チャイナアドバイス",
+  "artist": "相対性理論",
   "collection": "【 凛々咲】17】怎么这么多套衣服  ---~万圣节歌回+26接力",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ESSZYbECv?p=6",
   "source": "ririsya.js"
 },
     {
-  "title": "ゴーストルール-DECO27",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ゴーストルール",
+  "artist": "DECO*27 feat. 初音ミク",
   "collection": "【 凛々咲】17】怎么这么多套衣服  ---~万圣节歌回+26接力",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ESSZYbECv?p=7",
@@ -975,7 +975,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "怪物",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "YOASOBI",
   "collection": "【 凛々咲】17】怎么这么多套衣服  ---~万圣节歌回+26接力",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ESSZYbECv?p=8",
@@ -983,7 +983,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "悪魔の子",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "ヒグチアイ",
   "collection": "【 凛々咲】17】怎么这么多套衣服  ---~万圣节歌回+26接力",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ESSZYbECv?p=9",
@@ -991,7 +991,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "bygone days",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "ねこぼー feat. 初音ミク",
   "collection": "【 凛々咲】17】怎么这么多套衣服  ---~万圣节歌回+26接力",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ESSZYbECv?p=10",
@@ -999,7 +999,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "唱",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "Ado",
   "collection": "【 凛々咲】17】怎么这么多套衣服  ---~万圣节歌回+26接力",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ESSZYbECv?p=11",
@@ -1007,7 +1007,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ジャンキーナイトタウンオーケストラ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "すりぃ feat. 鏡音レン",
   "collection": "【 凛々咲】17】怎么这么多套衣服  ---~万圣节歌回+26接力",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ESSZYbECv?p=12",
@@ -1015,7 +1015,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "みちづれ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "牧村三枝子",
   "collection": "【 凛々咲】17】怎么这么多套衣服  ---~万圣节歌回+26接力",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ESSZYbECv?p=13",
@@ -1031,7 +1031,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "心做し",
-  "artist": "蝶々P,GUMI",
+  "artist": "蝶々P feat. GUMI",
   "collection": "【 凛々咲】17】怎么这么多套衣服  ---~万圣节歌回+26接力",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ESSZYbECv?p=15",
@@ -1047,7 +1047,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君の知らない物語",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "supercell feat. やなぎなぎ",
   "collection": "【 凛々咲】17】怎么这么多套衣服  ---~万圣节歌回+26接力",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ESSZYbECv?p=17",
@@ -3302,96 +3302,96 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "怪獣の花唄 -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
   "collection": "【凛々咲 Ririsya】💜完全復活！元気もりもり歌枠【Karaoke/歌枠】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XCQDYTE9K?p=1",
   "source": "ririsya.js"
 },
     {
-  "title": "花になって -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "花になって",
+  "artist": "緑黄色社会",
   "collection": "【凛々咲 Ririsya】💜完全復活！元気もりもり歌枠【Karaoke/歌枠】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XCQDYTE9K?p=2",
   "source": "ririsya.js"
 },
     {
-  "title": "紅蓮華 -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "紅蓮華",
+  "artist": "LiSA",
   "collection": "【凛々咲 Ririsya】💜完全復活！元気もりもり歌枠【Karaoke/歌枠】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XCQDYTE9K?p=3",
   "source": "ririsya.js"
 },
     {
-  "title": "残響贊歌 -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "残響贊歌",
+  "artist": "Aimer",
   "collection": "【凛々咲 Ririsya】💜完全復活！元気もりもり歌枠【Karaoke/歌枠】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XCQDYTE9K?p=4",
   "source": "ririsya.js"
 },
     {
-  "title": "晴る -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "晴る",
+  "artist": "ヨルシカ",
   "collection": "【凛々咲 Ririsya】💜完全復活！元気もりもり歌枠【Karaoke/歌枠】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XCQDYTE9K?p=5",
   "source": "ririsya.js"
 },
     {
-  "title": "赤いスイートピー -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "赤いスイートピー",
+  "artist": "松田聖子",
   "collection": "【凛々咲 Ririsya】💜完全復活！元気もりもり歌枠【Karaoke/歌枠】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XCQDYTE9K?p=6",
   "source": "ririsya.js"
 },
     {
-  "title": "3月9日 -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "3月9日",
+  "artist": "レミオロメン",
   "collection": "【凛々咲 Ririsya】💜完全復活！元気もりもり歌枠【Karaoke/歌枠】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XCQDYTE9K?p=7",
   "source": "ririsya.js"
 },
     {
-  "title": "YELL -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "YELL",
+  "artist": "いきものがかり",
   "collection": "【凛々咲 Ririsya】💜完全復活！元気もりもり歌枠【Karaoke/歌枠】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XCQDYTE9K?p=8",
   "source": "ririsya.js"
 },
     {
-  "title": "モニタリング -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "モニタリング",
+  "artist": "DECO*27 feat. 初音ミク",
   "collection": "【凛々咲 Ririsya】💜完全復活！元気もりもり歌枠【Karaoke/歌枠】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XCQDYTE9K?p=9",
   "source": "ririsya.js"
 },
     {
-  "title": "トウキョウ‧シャンディ‧ランデヴ -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "トウキョウ‧シャンディ‧ランデヴ",
+  "artist": "MAISONdes feat. 花譜, ツミキ",
   "collection": "【凛々咲 Ririsya】💜完全復活！元気もりもり歌枠【Karaoke/歌枠】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XCQDYTE9K?p=10",
   "source": "ririsya.js"
 },
     {
-  "title": "そばかす -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "そばかす",
+  "artist": "JUDY AND MARY",
   "collection": "【凛々咲 Ririsya】💜完全復活！元気もりもり歌枠【Karaoke/歌枠】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XCQDYTE9K?p=11",
   "source": "ririsya.js"
 },
     {
-  "title": "ケセラセラ -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ケセラセラ",
+  "artist": "Mrs. GREEN APPLE",
   "collection": "【凛々咲 Ririsya】💜完全復活！元気もりもり歌枠【Karaoke/歌枠】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XCQDYTE9K?p=12",
@@ -4239,7 +4239,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "糸",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "中島みゆき",
   "collection": "【凛々咲  钢琴卡拉OK】唱一些感人的歌，让泪水洗去花粉",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CK54zPEGA?p=1",
@@ -4247,7 +4247,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ドライフラワー",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "優里",
   "collection": "【凛々咲  钢琴卡拉OK】唱一些感人的歌，让泪水洗去花粉",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CK54zPEGA?p=2",
@@ -4255,7 +4255,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "別の人の彼女になったよ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "wacci",
   "collection": "【凛々咲  钢琴卡拉OK】唱一些感人的歌，让泪水洗去花粉",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CK54zPEGA?p=3",
@@ -4263,7 +4263,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アイネクライネ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "米津玄師",
   "collection": "【凛々咲  钢琴卡拉OK】唱一些感人的歌，让泪水洗去花粉",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CK54zPEGA?p=4",
@@ -4271,7 +4271,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "First Love",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "宇多田ヒカル",
   "collection": "【凛々咲  钢琴卡拉OK】唱一些感人的歌，让泪水洗去花粉",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CK54zPEGA?p=5",
@@ -4279,7 +4279,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "スパークル",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "RADWIMPS",
   "collection": "【凛々咲  钢琴卡拉OK】唱一些感人的歌，让泪水洗去花粉",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CK54zPEGA?p=6",
@@ -4287,7 +4287,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Butter-Fly",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "和田光司",
   "collection": "【凛々咲  钢琴卡拉OK】唱一些感人的歌，让泪水洗去花粉",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CK54zPEGA?p=7",
@@ -4295,7 +4295,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "カサブタ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "千綿ヒデノリ",
   "collection": "【凛々咲  钢琴卡拉OK】唱一些感人的歌，让泪水洗去花粉",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CK54zPEGA?p=8",
@@ -4303,7 +4303,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ひまわりの約束",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "秦基博",
   "collection": "【凛々咲  钢琴卡拉OK】唱一些感人的歌，让泪水洗去花粉",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CK54zPEGA?p=9",
@@ -4311,7 +4311,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "奏",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "スキマスイッチ",
   "collection": "【凛々咲  钢琴卡拉OK】唱一些感人的歌，让泪水洗去花粉",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CK54zPEGA?p=10",
@@ -4319,7 +4319,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヒッチコック",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "ヨルシカ",
   "collection": "【凛々咲  钢琴卡拉OK】唱一些感人的歌，让泪水洗去花粉",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CK54zPEGA?p=11",
@@ -4327,15 +4327,15 @@ window.SONG_DATA.push(
 },
     {
   "title": "だから僕は音楽を辞めた",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "ヨルシカ",
   "collection": "【凛々咲  钢琴卡拉OK】唱一些感人的歌，让泪水洗去花粉",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CK54zPEGA?p=12",
   "source": "ririsya.js"
 },
     {
-  "title": "Departurre~あなたにおくるアイの歌~",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Departurre～あなたにおくるアイの歌～",
+  "artist": "EGOIST",
   "collection": "【凛々咲  钢琴卡拉OK】唱一些感人的歌，让泪水洗去花粉",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CK54zPEGA?p=13",
@@ -4343,7 +4343,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "初恋",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "村下孝蔵",
   "collection": "【凛々咲  钢琴卡拉OK】唱一些感人的歌，让泪水洗去花粉",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CK54zPEGA?p=14",
@@ -4351,7 +4351,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "楔",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "奥華子",
   "collection": "【凛々咲  钢琴卡拉OK】唱一些感人的歌，让泪水洗去花粉",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CK54zPEGA?p=15",
@@ -4359,15 +4359,15 @@ window.SONG_DATA.push(
 },
     {
   "title": "変わらないもの",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "奥華子",
   "collection": "【凛々咲  钢琴卡拉OK】唱一些感人的歌，让泪水洗去花粉",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CK54zPEGA?p=16",
   "source": "ririsya.js"
 },
     {
-  "title": "secret base~君がくれたもの",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "secret base～君がくれたもの",
+  "artist": "ZONE",
   "collection": "【凛々咲  钢琴卡拉OK】唱一些感人的歌，让泪水洗去花粉",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CK54zPEGA?p=17",
@@ -5174,8 +5174,8 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "ハナミズキ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ハナミズキ",
+  "artist": "一青窈",
   "collection": "【VTuber/凛々咲 Ririsya】竖屏钢琴ピアノ伴奏で歌う🎹💜2025年5月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B87QzvEPj?p=1",
@@ -5183,15 +5183,15 @@ window.SONG_DATA.push(
 },
     {
   "title": "弱虫モンブラン",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "DECO*27 feat. 初音ミク",
   "collection": "【VTuber/凛々咲 Ririsya】竖屏钢琴ピアノ伴奏で歌う🎹💜2025年5月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B87QzvEPj?p=2",
   "source": "ririsya.js"
 },
     {
-  "title": "妄想感伤代偿联盟",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27 feat. 初音ミク",
   "collection": "【VTuber/凛々咲 Ririsya】竖屏钢琴ピアノ伴奏で歌う🎹💜2025年5月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B87QzvEPj?p=3",
@@ -5199,7 +5199,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "酔いどれ知らず",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "Kanaria feat. GUMI",
   "collection": "【VTuber/凛々咲 Ririsya】竖屏钢琴ピアノ伴奏で歌う🎹💜2025年5月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B87QzvEPj?p=4",
@@ -5207,7 +5207,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヨワネハキ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "DECO*27 feat. 初音ミク",
   "collection": "【VTuber/凛々咲 Ririsya】竖屏钢琴ピアノ伴奏で歌う🎹💜2025年5月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B87QzvEPj?p=5",
@@ -5215,7 +5215,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ビビデバ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "星街すいせい",
   "collection": "【VTuber/凛々咲 Ririsya】竖屏钢琴ピアノ伴奏で歌う🎹💜2025年5月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B87QzvEPj?p=6",
@@ -5223,7 +5223,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花になって",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "緑黄色社会",
   "collection": "【VTuber/凛々咲 Ririsya】竖屏钢琴ピアノ伴奏で歌う🎹💜2025年5月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B87QzvEPj?p=7",
@@ -5231,7 +5231,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "きゅうくらりん",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "いよわ feat. 可不",
   "collection": "【VTuber/凛々咲 Ririsya】竖屏钢琴ピアノ伴奏で歌う🎹💜2025年5月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B87QzvEPj?p=8",
@@ -5239,7 +5239,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "少女レイ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "みきとP feat. 初音ミク",
   "collection": "【VTuber/凛々咲 Ririsya】竖屏钢琴ピアノ伴奏で歌う🎹💜2025年5月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B87QzvEPj?p=9",
@@ -5247,7 +5247,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "フラジール",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "ツミキ feat. 初音ミク",
   "collection": "【VTuber/凛々咲 Ririsya】竖屏钢琴ピアノ伴奏で歌う🎹💜2025年5月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B87QzvEPj?p=10",
@@ -5255,7 +5255,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "サリシノハラ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "みきとP feat. 初音ミク",
   "collection": "【VTuber/凛々咲 Ririsya】竖屏钢琴ピアノ伴奏で歌う🎹💜2025年5月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B87QzvEPj?p=11",
@@ -5263,7 +5263,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "テルーの唄",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "手嶌葵",
   "collection": "【VTuber/凛々咲 Ririsya】竖屏钢琴ピアノ伴奏で歌う🎹💜2025年5月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B87QzvEPj?p=12",
@@ -5271,7 +5271,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "さよならの夏",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "スピッツ",
   "collection": "【VTuber/凛々咲 Ririsya】竖屏钢琴ピアノ伴奏で歌う🎹💜2025年5月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B87QzvEPj?p=13",
@@ -5279,7 +5279,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "さよならミッドナイト",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "大柴広己",
   "collection": "【VTuber/凛々咲 Ririsya】竖屏钢琴ピアノ伴奏で歌う🎹💜2025年5月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B87QzvEPj?p=14",
@@ -5287,7 +5287,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "天体観測",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "BUMP OF CHICKEN",
   "collection": "【VTuber/凛々咲 Ririsya】竖屏钢琴ピアノ伴奏で歌う🎹💜2025年5月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B87QzvEPj?p=15",
@@ -5295,7 +5295,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "流星群",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "コブクロ",
   "collection": "【VTuber/凛々咲 Ririsya】竖屏钢琴ピアノ伴奏で歌う🎹💜2025年5月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B87QzvEPj?p=16",
@@ -5303,7 +5303,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シンデレラボーイ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "Saucy Dog",
   "collection": "【VTuber/凛々咲 Ririsya】竖屏钢琴ピアノ伴奏で歌う🎹💜2025年5月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B87QzvEPj?p=17",
@@ -5311,7 +5311,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "なんでもないよ、",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "コブクロ",
   "collection": "【VTuber/凛々咲 Ririsya】竖屏钢琴ピアノ伴奏で歌う🎹💜2025年5月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B87QzvEPj?p=18",
@@ -5319,7 +5319,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アスノヨゾラ哨戒班",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "Orangestar feat. IA",
   "collection": "【VTuber/凛々咲 Ririsya】竖屏钢琴ピアノ伴奏で歌う🎹💜2025年5月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B87QzvEPj?p=19",
@@ -5327,7 +5327,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "スパークル",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "RADWIMPS",
   "collection": "【VTuber/凛々咲 Ririsya】竖屏钢琴ピアノ伴奏で歌う🎹💜2025年5月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B87QzvEPj?p=20",
@@ -5335,7 +5335,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "怪獣",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "サカナクション",
   "collection": "【VTuber/凛々咲 Ririsya】竖屏钢琴ピアノ伴奏で歌う🎹💜2025年5月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B87QzvEPj?p=21",
@@ -5359,7 +5359,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "怪獣",
-  "artist": "米津玄師",
+  "artist": "サカナクション",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=3",
@@ -9158,48 +9158,48 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "01 . シュガーソングとビターステップ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
   "collection": "【卡拉 OK / #唱歌】看我独唱卡拉 OK🎤【VTuber / #凛々咲  】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vDHXzyELF?p=1",
   "source": "ririsya.js"
 },
     {
-  "title": "02 . 残響散歌",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "残響散歌",
+  "artist": "Aimer",
   "collection": "【卡拉 OK / #唱歌】看我独唱卡拉 OK🎤【VTuber / #凛々咲  】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vDHXzyELF?p=2",
   "source": "ririsya.js"
 },
     {
-  "title": "03 . 怪物",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "怪物",
+  "artist": "YOASOBI",
   "collection": "【卡拉 OK / #唱歌】看我独唱卡拉 OK🎤【VTuber / #凛々咲  】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vDHXzyELF?p=3",
   "source": "ririsya.js"
 },
     {
-  "title": "04 . 夜に駆ける",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
   "collection": "【卡拉 OK / #唱歌】看我独唱卡拉 OK🎤【VTuber / #凛々咲  】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vDHXzyELF?p=4",
   "source": "ririsya.js"
 },
     {
-  "title": "05 . アイドル",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "アイドル",
+  "artist": "YOASOBI",
   "collection": "【卡拉 OK / #唱歌】看我独唱卡拉 OK🎤【VTuber / #凛々咲  】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vDHXzyELF?p=5",
   "source": "ririsya.js"
 },
     {
-  "title": "06 . 魔訶不思議アドベンチャー!",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "魔訶不思議アドベンチャー!",
+  "artist": "高橋洋樹",
   "collection": "【卡拉 OK / #唱歌】看我独唱卡拉 OK🎤【VTuber / #凛々咲  】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vDHXzyELF?p=6",
@@ -9207,79 +9207,79 @@ window.SONG_DATA.push(
 },
     {
   "title": "ペガサス幻想",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "MAKE-UP",
   "collection": "【卡拉 OK / #唱歌】看我独唱卡拉 OK🎤【VTuber / #凛々咲  】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vDHXzyELF?p=7",
   "source": "ririsya.js"
 },
     {
-  "title": "08 . CAT'S EYE",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "CAT'S EYE",
+  "artist": "杏里",
   "collection": "【卡拉 OK / #唱歌】看我独唱卡拉 OK🎤【VTuber / #凛々咲  】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vDHXzyELF?p=8",
   "source": "ririsya.js"
 },
     {
-  "title": "09 . フレンズ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "フレンズ",
+  "artist": "REBECCA",
   "collection": "【卡拉 OK / #唱歌】看我独唱卡拉 OK🎤【VTuber / #凛々咲  】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vDHXzyELF?p=9",
   "source": "ririsya.js"
 },
     {
-  "title": "11 . 呪文降臨～マジカル・フォース",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "呪文降臨～マジカル・フォース",
+  "artist": "Sister MAYO",
   "collection": "【卡拉 OK / #唱歌】看我独唱卡拉 OK🎤【VTuber / #凛々咲  】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vDHXzyELF?p=10",
   "source": "ririsya.js"
 },
     {
-  "title": "12 . グロウアップ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "グロウアップ",
+  "artist": "Hysteric Blue",
   "collection": "【卡拉 OK / #唱歌】看我独唱卡拉 OK🎤【VTuber / #凛々咲  】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vDHXzyELF?p=11",
   "source": "ririsya.js"
 },
     {
-  "title": "13 . Sexy Sexy,",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Sexy Sexy,",
+  "artist": "CASCADE",
   "collection": "【卡拉 OK / #唱歌】看我独唱卡拉 OK🎤【VTuber / #凛々咲  】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vDHXzyELF?p=12",
   "source": "ririsya.js"
 },
     {
-  "title": "14 . 心絵",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "心絵",
+  "artist": "ロードオブメジャー",
   "collection": "【卡拉 OK / #唱歌】看我独唱卡拉 OK🎤【VTuber / #凛々咲  】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vDHXzyELF?p=13",
   "source": "ririsya.js"
 },
     {
-  "title": "15 . 桜キッス",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "桜キッス",
+  "artist": "河野マリナ",
   "collection": "【卡拉 OK / #唱歌】看我独唱卡拉 OK🎤【VTuber / #凛々咲  】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vDHXzyELF?p=14",
   "source": "ririsya.js"
 },
     {
-  "title": "16 . ゆめいっぱい",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ゆめいっぱい",
+  "artist": "関ゆみ子",
   "collection": "【卡拉 OK / #唱歌】看我独唱卡拉 OK🎤【VTuber / #凛々咲  】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vDHXzyELF?p=15",
   "source": "ririsya.js"
 },
     {
-  "title": "17 .  走れ正直者",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "走れ正直者",
+  "artist": "西城秀樹",
   "collection": "【卡拉 OK / #唱歌】看我独唱卡拉 OK🎤【VTuber / #凛々咲  】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vDHXzyELF?p=16",
@@ -9718,16 +9718,16 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "01 . シュガーソングとビターステップ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
   "collection": "【#凛々咲  歌切】 低音で歌ってみる歌枠 ✧ Deep Voice Singing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dbnszwEyh?p=1",
   "source": "ririsya.js"
 },
     {
-  "title": "Bunny girl",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
   "collection": "【#凛々咲  歌切】 低音で歌ってみる歌枠 ✧ Deep Voice Singing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dbnszwEyh?p=2",
@@ -9735,7 +9735,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Fake face dance music",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "音田雅則",
   "collection": "【#凛々咲  歌切】 低音で歌ってみる歌枠 ✧ Deep Voice Singing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dbnszwEyh?p=3",
@@ -9743,7 +9743,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "独りんぼエンヴィ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "koyori feat. 初音ミク",
   "collection": "【#凛々咲  歌切】 低音で歌ってみる歌枠 ✧ Deep Voice Singing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dbnszwEyh?p=4",
@@ -9751,7 +9751,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヴィラン",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "てにをは feat. flower",
   "collection": "【#凛々咲  歌切】 低音で歌ってみる歌枠 ✧ Deep Voice Singing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dbnszwEyh?p=5",
@@ -9759,7 +9759,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モエチャッカファイヤ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "弌誠",
   "collection": "【#凛々咲  歌切】 低音で歌ってみる歌枠 ✧ Deep Voice Singing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dbnszwEyh?p=6",
@@ -9767,7 +9767,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "酔いどれ知らず",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "Kanaria feat. GUMI",
   "collection": "【#凛々咲  歌切】 低音で歌ってみる歌枠 ✧ Deep Voice Singing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dbnszwEyh?p=7",
@@ -9775,7 +9775,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "鬼の宴",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "キタニタツヤ",
   "collection": "【#凛々咲  歌切】 低音で歌ってみる歌枠 ✧ Deep Voice Singing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dbnszwEyh?p=8",
@@ -9783,7 +9783,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ルビーの指環",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "寺尾聰",
   "collection": "【#凛々咲  歌切】 低音で歌ってみる歌枠 ✧ Deep Voice Singing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dbnszwEyh?p=9",
@@ -9791,7 +9791,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "サウダージ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "ポルノグラフィティ",
   "collection": "【#凛々咲  歌切】 低音で歌ってみる歌枠 ✧ Deep Voice Singing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dbnszwEyh?p=10",
@@ -9799,7 +9799,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "トレモロ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "RADWIMPS",
   "collection": "【#凛々咲  歌切】 低音で歌ってみる歌枠 ✧ Deep Voice Singing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dbnszwEyh?p=11",
@@ -9807,7 +9807,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "さよならエレジー",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "優里",
   "collection": "【#凛々咲  歌切】 低音で歌ってみる歌枠 ✧ Deep Voice Singing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dbnszwEyh?p=12",
@@ -9815,7 +9815,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想感傷代償連盟",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "DECO*27 feat. 初音ミク",
   "collection": "【#凛々咲  歌切】 低音で歌ってみる歌枠 ✧ Deep Voice Singing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dbnszwEyh?p=13",
@@ -9823,7 +9823,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ラヴィ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "すりぃ feat. 鏡音レン",
   "collection": "【#凛々咲  歌切】 低音で歌ってみる歌枠 ✧ Deep Voice Singing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dbnszwEyh?p=14",
@@ -9831,7 +9831,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "曇天",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "DOES",
   "collection": "【#凛々咲  歌切】 低音で歌ってみる歌枠 ✧ Deep Voice Singing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dbnszwEyh?p=15",
@@ -9839,7 +9839,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Cry baby",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "Official髭男dism",
   "collection": "【#凛々咲  歌切】 低音で歌ってみる歌枠 ✧ Deep Voice Singing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dbnszwEyh?p=16",
@@ -9847,7 +9847,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Iris out",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "米津玄師",
   "collection": "【#凛々咲  歌切】 低音で歌ってみる歌枠 ✧ Deep Voice Singing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dbnszwEyh?p=17",
@@ -11414,8 +11414,8 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "1/2",
-  "artist": "やなぎなぎ",
+  "title": "1／2",
+  "artist": "川本真琴",
   "collection": "【凛々咲 切片 / Ririsya】让人怀念的动漫歌曲💜懐かしのアニソン歌枠 💜 ANISON SINGING",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Kv24BTEgF?p=2",
@@ -11455,15 +11455,15 @@ window.SONG_DATA.push(
 },
     {
   "title": "月灯りふんわり落ちてくる夜",
-  "artist": "やなぎなぎ",
+  "artist": "小川七生",
   "collection": "【凛々咲 切片 / Ririsya】让人怀念的动漫歌曲💜懐かしのアニソン歌枠 💜 ANISON SINGING",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Kv24BTEgF?p=7",
   "source": "ririsya.js"
 },
     {
-  "title": "バラライカ",
-  "artist": "DALI",
+  "title": "バラライカ+ムーンライト伝説",
+  "artist": "月島きらり +DALI",
   "collection": "【凛々咲 切片 / Ririsya】让人怀念的动漫歌曲💜懐かしのアニソン歌枠 💜 ANISON SINGING",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Kv24BTEgF?p=8",
@@ -11502,8 +11502,8 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "オレンジ（Orange）",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "オレンジ",
+  "artist": "逢坂大河(釘宮理恵) 櫛枝実乃梨(堀江由衣) 川嶋亜美(喜多村英梨)",
   "collection": "【凛々咲 切片 / Ririsya】让人怀念的动漫歌曲💜懐かしのアニソン歌枠 💜 ANISON SINGING",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Kv24BTEgF?p=13",

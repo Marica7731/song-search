@@ -1,6 +1,6 @@
 // 联动 - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1eTkKYDENL
-// 生成时间: 2/23/2026, 8:06:25 AM
+// 生成时间: 2/23/2026, 8:42:12 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -583,7 +583,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "怪獣の花唄",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "Vaundy",
   "collection": "【 稀羽すう/巫てんり/涼海ネモ 】【 3D联动10首 】 🎤3Dカラオケコラボ✨ - 1stEP カバーミニアルバム発売記念 01. 怪獣の花唄",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jJ4m1h7Sh?p=1",
@@ -591,7 +591,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "春を告げる",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "yama",
   "collection": "【 稀羽すう/巫てんり/涼海ネモ 】【 3D联动10首 】 🎤3Dカラオケコラボ✨ - 1stEP カバーミニアルバム発売記念 01. 怪獣の花唄",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jJ4m1h7Sh?p=2",
@@ -599,7 +599,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ノーチラス",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "ヨルシカ",
   "collection": "【 稀羽すう/巫てんり/涼海ネモ 】【 3D联动10首 】 🎤3Dカラオケコラボ✨ - 1stEP カバーミニアルバム発売記念 01. 怪獣の花唄",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jJ4m1h7Sh?p=3",
@@ -607,7 +607,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "正しくなれない",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "ZUTOMAYO",
   "collection": "【 稀羽すう/巫てんり/涼海ネモ 】【 3D联动10首 】 🎤3Dカラオケコラボ✨ - 1stEP カバーミニアルバム発売記念 01. 怪獣の花唄",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jJ4m1h7Sh?p=4",
@@ -615,7 +615,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Butter-Fly",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "和田光司",
   "collection": "【 稀羽すう/巫てんり/涼海ネモ 】【 3D联动10首 】 🎤3Dカラオケコラボ✨ - 1stEP カバーミニアルバム発売記念 01. 怪獣の花唄",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jJ4m1h7Sh?p=5",
@@ -623,7 +623,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "unravel",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "TK from 凛として時雨",
   "collection": "【 稀羽すう/巫てんり/涼海ネモ 】【 3D联动10首 】 🎤3Dカラオケコラボ✨ - 1stEP カバーミニアルバム発売記念 01. 怪獣の花唄",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jJ4m1h7Sh?p=6",
@@ -631,7 +631,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "祝福",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "YOASOBI",
   "collection": "【 稀羽すう/巫てんり/涼海ネモ 】【 3D联动10首 】 🎤3Dカラオケコラボ✨ - 1stEP カバーミニアルバム発売記念 01. 怪獣の花唄",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jJ4m1h7Sh?p=7",
@@ -639,7 +639,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ラブレター",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "優里",
   "collection": "【 稀羽すう/巫てんり/涼海ネモ 】【 3D联动10首 】 🎤3Dカラオケコラボ✨ - 1stEP カバーミニアルバム発売記念 01. 怪獣の花唄",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jJ4m1h7Sh?p=8",
@@ -647,7 +647,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "115万キロのフィルム",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "Official髭男dism",
   "collection": "【 稀羽すう/巫てんり/涼海ネモ 】【 3D联动10首 】 🎤3Dカラオケコラボ✨ - 1stEP カバーミニアルバム発売記念 01. 怪獣の花唄",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jJ4m1h7Sh?p=9",
@@ -655,7 +655,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "星座になれたら",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "スピッツ",
   "collection": "【 稀羽すう/巫てんり/涼海ネモ 】【 3D联动10首 】 🎤3Dカラオケコラボ✨ - 1stEP カバーミニアルバム発売記念 01. 怪獣の花唄",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jJ4m1h7Sh?p=10",

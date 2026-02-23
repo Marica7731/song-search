@@ -1,6 +1,6 @@
 // むんもっしゅ - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1UCkhBkEon
-// 生成时间: 2/23/2026, 8:06:06 AM
+// 生成时间: 2/23/2026, 8:42:00 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2151,7 +2151,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Secret of my heart",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "倉木麻衣",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=1",
@@ -2159,7 +2159,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "departure!",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "小野正利",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=2",
@@ -2167,7 +2167,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "One Last Kiss",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "宇多田ヒカル",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=3",
@@ -2175,7 +2175,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "創聖のアクエリオン",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "AKINO",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=4",
@@ -2183,7 +2183,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "オレンジ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "7!!",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=5",
@@ -2191,7 +2191,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "一番の宝物(Yui ver.)",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "LiSA",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=6",
@@ -2199,7 +2199,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "時を刻む唄",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "Lia",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=7",
@@ -2207,7 +2207,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "小さなてのひら",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "riya",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=8",
@@ -2215,7 +2215,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "雫",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "スキマスイッチ",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=9",
@@ -2223,7 +2223,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ボクノート",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "スキマスイッチ",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=10",
@@ -2231,7 +2231,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Departures ～あなたにおくるアイの歌～",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "EGOIST",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=11",
@@ -2239,7 +2239,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Ghost of a smile",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "The Pogues",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=12",
@@ -2247,7 +2247,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Planetes",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "キタニタツヤ",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=13",
@@ -2255,7 +2255,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "エウテルペ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "やなぎなぎ",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=14",
@@ -2263,7 +2263,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ブラック★ロックシューター",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "supercell feat. 初音ミク",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=15",
@@ -2271,7 +2271,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "My Dearest",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "supercell feat. やなぎなぎ",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=16",
@@ -2279,7 +2279,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "うたかた花火",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "supercell feat. やなぎなぎ",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=17",
@@ -2287,7 +2287,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ライオン",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "May'n & 中島愛",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=18",
@@ -2295,7 +2295,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "フリージア",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "藍井エイル",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=19",
@@ -2303,7 +2303,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君の知らない物語",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "supercell feat. やなぎなぎ",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=20",
@@ -2311,15 +2311,15 @@ window.SONG_DATA.push(
 },
     {
   "title": "ラピスラズリ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "やなぎなぎ",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=21",
   "source": "MunMosh.js"
 },
     {
-  "title": "God knows",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "God knows...",
+  "artist": "平野綾",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=22",
@@ -2327,7 +2327,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Lost my music",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "平野綾",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=23",
@@ -2335,7 +2335,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハレ晴レユカイ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "平野綾、茅原実里、後藤邑子",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=24",
@@ -2343,7 +2343,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "茜さす",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "Aimer",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=25",
@@ -2351,7 +2351,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アンインストール",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "石川智晶",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=26",
@@ -2359,15 +2359,15 @@ window.SONG_DATA.push(
 },
     {
   "title": "シルシ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "LiSA",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=27",
   "source": "MunMosh.js"
 },
     {
-  "title": "1/2",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "1／2",
+  "artist": "川本真琴",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=28",
@@ -2375,7 +2375,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "1/3の純情な感情",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "川本真琴",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=29",
@@ -2383,7 +2383,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "暁の車",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "川井憲次",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=30",
@@ -2391,7 +2391,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君は僕に似ている",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "見田村千晴",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=31",
@@ -2399,7 +2399,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハロ／ハワユ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "ナノウ feat. 初音ミク",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=32",
@@ -2407,7 +2407,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夜明けと蛍",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "n-buna feat. 初音ミク",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=33",
@@ -2415,7 +2415,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "glow",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "Keina Suda",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=34",
@@ -2423,7 +2423,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "she",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "川田まみ",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=35",
@@ -2431,7 +2431,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "in the rain",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "やなぎなぎ",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=36",
@@ -2439,7 +2439,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ロビンソン",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "スピッツ",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=37",
@@ -2447,7 +2447,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "運命の人",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "スピッツ",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=38",
@@ -2455,7 +2455,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "春の歌",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "スピッツ",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=39",
@@ -2463,7 +2463,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "晩餐歌 (弾き語りver.)",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "tuki.",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=40",
@@ -2471,7 +2471,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハルノヒ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "あいみょん",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=41",
@@ -2479,7 +2479,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "蝶々結び",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "Aimer",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=42",
@@ -2487,7 +2487,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シリウスの心臓",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "ねこぼーろ",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=43",
@@ -2495,7 +2495,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "歌に形はないけれど",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "やなぎなぎ",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=44",
@@ -2503,7 +2503,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Tell Your World",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "初音ミク",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=45",
@@ -2511,7 +2511,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "いつも何度でも",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "木村弓",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=46",
@@ -2519,7 +2519,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "地球最後の告白を",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "kemu feat. GUMI",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=47",
@@ -2527,7 +2527,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Dear",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "田中理恵",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=48",
@@ -2535,7 +2535,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハイドアンド・シーク",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "やなぎなぎ",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=49",
@@ -2543,7 +2543,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "メルト",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "ryo feat. 初音ミク",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=50",
@@ -2551,7 +2551,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "初めての恋が終わる時",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "みきとP feat. 初音ミク",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=51",
@@ -2559,7 +2559,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夜明けと蛍",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "n-buna feat. 初音ミク",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=52",
@@ -2567,7 +2567,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "回る空うさぎ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "やなぎなぎ",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=53",
@@ -2575,7 +2575,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "小さなてのひら",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "riya",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=54",
@@ -2583,7 +2583,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "鳥の詩",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "Lia",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=55",
@@ -2591,7 +2591,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "My Song",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "やなぎなぎ",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=56",
@@ -2599,7 +2599,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Good-bye days～YUI Acoustic Version～",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "YUI",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=57",
@@ -2607,7 +2607,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Tomorrow's way",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "YUI",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=58",
@@ -2615,7 +2615,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君はロックを聴かない",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "あいみょん",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=59",
@@ -2623,7 +2623,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "プラネタリウム",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "太田美知",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=60",
@@ -2631,7 +2631,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "栄光の架橋",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "ゆず",
   "collection": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tq421F7jY?p=61",

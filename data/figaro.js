@@ -1,6 +1,6 @@
 // Figaro - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1HRfuBCEXN
-// 生成时间: 2/23/2026, 8:01:57 AM
+// 生成时间: 2/23/2026, 8:38:26 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -151,7 +151,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "やさしさに包まれたなら",
-  "artist": "松任谷由実",
+  "artist": "荒井由実",
   "collection": "【240225】【Figaro】14】#168 ひまわりの約束、3月9日、左右盲、ノーチラス、グレゴリオ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WJ4m1A7Rk?p=3",
@@ -2366,8 +2366,8 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "[Short Ver.] シュガーソングとビターステップ",
-  "artist": "UNISON SQUARE GARDEN",
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN[Short Ver.]",
   "collection": "【240501】Figaro】#10周三定期歌枠 ヒビカセ - Reol",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vt421c7jC?p=13",
@@ -16927,7 +16927,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "やさしさに包まれたなら",
-  "artist": "松任谷由実",
+  "artist": "荒井由実",
   "collection": "【 #歌枠 / KARAOKE 】一息つける歌、そろえておきました。【Figaro / Vtuber】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ptNpzcEL4?p=10",
