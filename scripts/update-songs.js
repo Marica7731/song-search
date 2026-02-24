@@ -70,7 +70,8 @@ const SINGER_CONFIGS = [
     { bvid: "BV1MPpUzsE1D", file: "nayuta-daily", alias: "nayuta日常" },
     { bvid: "BV1UCkhBkEon", file: "MunMosh", alias: "むんもっしゅ" },
     { bvid: "BV1eTkKYDENL", file: "friends", alias: "联动" },
-    { bvid: "BV11GZtBcEsp", file: "others", alias: "其他歌手" }
+    { bvid: "BV11GZtBcEsp", file: "others", alias: "其他歌手" },
+    { bvid: "BV1dGqeYpEuc", file: "earendel", alias: "厄倫蒂兒" }
 ];
 
 const DATA_DIR = path.join(__dirname, '..', 'data');
@@ -219,6 +220,9 @@ async function processSinger(config) {
             
             // 2. 清洗标题：去掉序号、P前缀等无关内容
             let cleanTitle = p.replace(/^\d+\.\s*/, '').replace(/^P\d+[：:]\s*/, '');
+            
+            // 【新增逻辑】去掉日期标签 [YYYYMMDD]，支持开头和结尾
+            cleanTitle = cleanTitle.replace(/\[\d{8}\]/g, '').trim();
             
             // 3. 只有标题包含「 - 」标准格式，才尝试提取歌手
             if (cleanTitle.includes(' - ')) {
