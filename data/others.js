@@ -1,13 +1,13 @@
 // 其他歌手 - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV11GZtBcEsp
-// 生成时间: 2/24/2026, 4:04:21 PM
+// 生成时间: 2/24/2026, 4:31:13 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
     {
   "title": "からくりピエロ",
-  "artist": "40mP[2026-01-27]",
+  "artist": "40mP",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=1",
@@ -15,7 +15,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ここにしか咲かない花",
-  "artist": "コブクロ[2026-01-27]",
+  "artist": "コブクロ",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=2",
@@ -23,7 +23,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "そばかす",
-  "artist": "JUDY AND MARY[2026-01-27]",
+  "artist": "JUDY AND MARY",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=3",
@@ -31,7 +31,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "恋するフォーチュンクッキー",
-  "artist": "AKB48[2026-01-27]",
+  "artist": "AKB48",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=4",
@@ -39,7 +39,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "千の夜をこえて",
-  "artist": "Aqua Timez[2026-01-27]",
+  "artist": "Aqua Timez",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=5",
@@ -47,7 +47,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ultra soul",
-  "artist": "B'z[2026-01-27]",
+  "artist": "B'z",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=6",
@@ -55,7 +55,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "音のすみか",
-  "artist": "キタニタツヤ[2026-01-27]",
+  "artist": "キタニタツヤ",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=7",
@@ -63,7 +63,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "FIRE GROUND",
-  "artist": "Official髭男dism[2026-01-27]",
+  "artist": "Official髭男dism",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=8",
@@ -71,7 +71,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "残酷な天使のテーゼ",
-  "artist": "高橋洋子[2026-01-27]",
+  "artist": "高橋洋子",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=9",
@@ -79,7 +79,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Wherever you are",
-  "artist": "ONE OK ROCK[2026-01-27]",
+  "artist": "ONE OK ROCK",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=10",
@@ -87,7 +87,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "鳥の詩",
-  "artist": "Lia[2026-01-27]",
+  "artist": "Lia",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=11",
@@ -95,7 +95,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "繋いだ手から",
-  "artist": "back number[2026-01-27]",
+  "artist": "back number",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=12",
@@ -103,7 +103,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "SHAKE",
-  "artist": "SMAP[2026-01-27]",
+  "artist": "SMAP",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=13",
@@ -111,7 +111,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夏夜のマジック",
-  "artist": "indigo la End[2026-01-27]",
+  "artist": "indigo la End",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=14",
@@ -119,7 +119,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "言葉にできない",
-  "artist": "小田和正[2026-01-27]",
+  "artist": "小田和正",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=15",
@@ -127,7 +127,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ショコラに夢中",
-  "artist": "野本かりあ[2026-01-27]",
+  "artist": "野本かりあ",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=16",
@@ -135,7 +135,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "聖者の行進",
-  "artist": "キタニタツヤ[2026-01-27]",
+  "artist": "キタニタツヤ",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=17",
@@ -143,7 +143,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "歩いて帰ろう",
-  "artist": "斉藤和義[2026-01-27]",
+  "artist": "斉藤和義",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=18",
@@ -151,7 +151,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "スマイル",
-  "artist": "森七菜[2026-01-27]",
+  "artist": "森七菜",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=19",
@@ -159,7 +159,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "One more time, One more chance",
-  "artist": "山崎まさよし[2026-01-27]",
+  "artist": "山崎まさよし",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=20",
@@ -167,7 +167,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ロキ",
-  "artist": "みきと P[2026-01-27]",
+  "artist": "みきと P",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=21",
@@ -175,7 +175,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "お勉強しといてよ",
-  "artist": "ずっと真夜中でいいのに。[2026-01-27]",
+  "artist": "ずっと真夜中でいいのに。",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=22",
@@ -183,7 +183,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "キラキラ",
-  "artist": "aiko[2025-12-29]",
+  "artist": "aiko",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=23",
@@ -191,7 +191,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "366日",
-  "artist": "HY[2025-12-29]",
+  "artist": "HY",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=24",
@@ -199,7 +199,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "栞",
-  "artist": "クリープハイプ[2025-12-29]",
+  "artist": "クリープハイプ",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=25",
@@ -207,7 +207,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハレンチ",
-  "artist": "ちゃんみな[2025-12-29]",
+  "artist": "ちゃんみな",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=26",
@@ -215,7 +215,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "かわいいだけじゃだめですか？",
-  "artist": "CUTIE STREET[2025-12-29]",
+  "artist": "CUTIE STREET",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=27",
@@ -223,7 +223,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "冬がはじまるよ",
-  "artist": "槇原敬之[2025-12-29]",
+  "artist": "槇原敬之",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=28",
@@ -231,7 +231,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "私は最強",
-  "artist": "Ado[2025-12-29]",
+  "artist": "Ado",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=29",
@@ -239,7 +239,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夜に駆ける",
-  "artist": "YOASOBI[2025-12-29]",
+  "artist": "YOASOBI",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=30",
@@ -247,7 +247,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "KICK BACK",
-  "artist": "米津玄師[2025-12-29]",
+  "artist": "米津玄師",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=31",
@@ -255,7 +255,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "可愛くてごめん",
-  "artist": "HoneyWorks[2025-12-29]",
+  "artist": "HoneyWorks",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=32",
@@ -263,7 +263,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "白くまは左利き",
-  "artist": "萌水団[2025-12-29]",
+  "artist": "萌水団",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=33",
@@ -271,7 +271,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "LOVEマシーン",
-  "artist": "モーニング娘。[2025-12-29]",
+  "artist": "モーニング娘。",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=34",
@@ -279,7 +279,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "PERFECT HUMAN",
-  "artist": "RADIO FISH[2025-12-29]",
+  "artist": "RADIO FISH",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=35",
@@ -287,7 +287,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "粉雪",
-  "artist": "レミオロメン[2025-12-29]",
+  "artist": "レミオロメン",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=36",
@@ -295,7 +295,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "神のまにまに",
-  "artist": "れるりり[2025-12-29]",
+  "artist": "れるりり",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=37",
@@ -303,7 +303,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "fragile",
-  "artist": "Every Little Thing[2025-12-29]",
+  "artist": "Every Little Thing",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=38",
@@ -311,7 +311,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "いとしのエリー",
-  "artist": "サザンオールスターズ[2025-12-29]",
+  "artist": "サザンオールスターズ",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=39",
@@ -319,7 +319,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "FACT",
-  "artist": "常闇トワ[2025-12-29]",
+  "artist": "常闇トワ",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=40",
@@ -327,7 +327,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ふっかつのじゅもん",
-  "artist": "sumika[2025-12-29]",
+  "artist": "sumika",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=41",
@@ -335,7 +335,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ツバサ",
-  "artist": "アンダーグラフ[2025-12-29]",
+  "artist": "アンダーグラフ",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=42",
@@ -343,7 +343,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "好きすぎて滅！",
-  "artist": "M!LK[2025-12-29]",
+  "artist": "M!LK",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=43",
@@ -351,7 +351,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "明日への扉",
-  "artist": "I WiSH[2025-12-29]",
+  "artist": "I WiSH",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=44",
@@ -359,7 +359,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "レット・イット・ゴー～28ありのままで～",
-  "artist": "松たか子[2025-12-29]",
+  "artist": "松たか子",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=45",
@@ -367,7 +367,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "いざゆけ若鷹軍団",
-  "artist": "ホーク・ウィングス[2025-12-29]",
+  "artist": "ホーク・ウィングス",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=46",
@@ -375,7 +375,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ブルーバード",
-  "artist": "いきものがかり[2025-12-29]",
+  "artist": "いきものがかり",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=47",
@@ -383,7 +383,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "レイニーブルー",
-  "artist": "徳永英明[2025-12-29]",
+  "artist": "徳永英明",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=48",
@@ -391,7 +391,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夢花火",
-  "artist": "萌水団[2025-12-29]",
+  "artist": "萌水団",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=49",
@@ -399,7 +399,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "LIFE",
-  "artist": "YUI[2026-01-05]",
+  "artist": "YUI",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=50",
@@ -407,7 +407,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "マイペース",
-  "artist": "Sunset Swish[2026-01-05]",
+  "artist": "Sunset Swish",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=51",
@@ -415,7 +415,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Subtitle",
-  "artist": "Official髭男dism[2026-01-05]",
+  "artist": "Official髭男dism",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=52",
@@ -423,7 +423,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "欲望に満ちた青年団",
-  "artist": "ONE OK ROCK[2026-01-05]",
+  "artist": "ONE OK ROCK",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=53",
@@ -431,7 +431,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "初恋",
-  "artist": "aiko[2026-01-05]",
+  "artist": "aiko",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=54",
@@ -439,7 +439,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Happiness",
-  "artist": "嵐[2026-01-05]",
+  "artist": "嵐",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=55",
@@ -447,7 +447,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "はつ恋",
-  "artist": "福山雅治[2026-01-05]",
+  "artist": "福山雅治",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=56",
@@ -455,7 +455,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "AS IF IT'S YOUR LAST",
-  "artist": "BLACKPINK[2026-01-05]",
+  "artist": "BLACKPINK",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=57",
@@ -463,7 +463,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "RIVER",
-  "artist": "AKB48[2026-01-05]",
+  "artist": "AKB48",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=58",
@@ -471,7 +471,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "恋する季節",
-  "artist": "てれび戦士2012[2026-01-05]",
+  "artist": "てれび戦士2012",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=59",
@@ -479,7 +479,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Doki it",
-  "artist": "なにわ男子[2026-01-05]",
+  "artist": "なにわ男子",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=60",
@@ -487,7 +487,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "涙そうそう",
-  "artist": "夏川りみ[2026-01-08]",
+  "artist": "夏川りみ",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=61",
@@ -495,7 +495,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "さくら",
-  "artist": "ケツメイシ[2026-01-08]",
+  "artist": "ケツメイシ",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=62",
@@ -503,7 +503,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ズッコケ男道",
-  "artist": "SUPER EIGHT[2026-01-08]",
+  "artist": "SUPER EIGHT",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=63",
@@ -511,7 +511,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "世界に一つだけの花",
-  "artist": "SMAP[2026-01-08]",
+  "artist": "SMAP",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=64",
@@ -519,7 +519,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "LOVE LOVE LOVE",
-  "artist": "DREAMS COME TRUE[2026-01-08]",
+  "artist": "DREAMS COME TRUE",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=65",
@@ -527,7 +527,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "恋音と雨空",
-  "artist": "AAA[2026-01-08]",
+  "artist": "AAA",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=66",
@@ -535,7 +535,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハナミズキ",
-  "artist": "一青窈[2026-01-08]",
+  "artist": "一青窈",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=67",
@@ -543,7 +543,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "三日月",
-  "artist": "綾香[2026-01-08]",
+  "artist": "綾香",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=68",
@@ -551,7 +551,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "赤いスイートピー",
-  "artist": "松田聖子[2026-01-08]",
+  "artist": "松田聖子",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=69",
@@ -559,7 +559,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "まちぶせ",
-  "artist": "石川ひとみ[2026-01-08]",
+  "artist": "石川ひとみ",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=70",
@@ -567,7 +567,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Automatic",
-  "artist": "宇多田ヒカル[2026-01-08]",
+  "artist": "宇多田ヒカル",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=71",
@@ -575,7 +575,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "イケナイ太陽",
-  "artist": "ORANGE RANGE[2026-01-08]",
+  "artist": "ORANGE RANGE",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=72",
@@ -583,7 +583,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シンデレラボーイ",
-  "artist": "Saucy Dog[2026-01-08]",
+  "artist": "Saucy Dog",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=73",
@@ -591,7 +591,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "YUME日和",
-  "artist": "島谷ひとみ[2026-01-08]",
+  "artist": "島谷ひとみ",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=74",
@@ -599,7 +599,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "青春アミーゴ",
-  "artist": "修二と彰[2026-01-08]",
+  "artist": "修二と彰",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=75",
@@ -607,7 +607,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "糸",
-  "artist": "中島みゆき[2026-01-08]",
+  "artist": "中島みゆき",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=76",
@@ -615,7 +615,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "栄光の架橋",
-  "artist": "ゆず[2026-01-08]",
+  "artist": "ゆず",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=77",
@@ -623,7 +623,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "冬と春",
-  "artist": "back number[2026-01-11]",
+  "artist": "back number",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=78",
@@ -631,7 +631,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "となりのトトロ",
-  "artist": "井上あずみ[2026-01-11]",
+  "artist": "井上あずみ",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=79",
@@ -639,7 +639,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "眠り姫",
-  "artist": "SEKAI NO OWARI[2026-01-11]",
+  "artist": "SEKAI NO OWARI",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=80",
@@ -647,7 +647,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "天城越え",
-  "artist": "石川さゆり[2026-01-11]",
+  "artist": "石川さゆり",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=81",
@@ -655,7 +655,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Walking with you",
-  "artist": "Novelbright[2026-01-11]",
+  "artist": "Novelbright",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=82",
@@ -663,7 +663,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想感傷代償連盟",
-  "artist": "DECO＊27[2026-01-11]",
+  "artist": "DECO＊27",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=83",
@@ -671,7 +671,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "タクシーレイン",
-  "artist": "萌水団[2026-01-11]",
+  "artist": "萌水団",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=84",
@@ -679,7 +679,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花鳥風月",
-  "artist": "優里[2026-01-11]",
+  "artist": "優里",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=85",
@@ -687,7 +687,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "わたしの一番かわいいところ",
-  "artist": "FRUITS ZIPPER[2026-01-11]",
+  "artist": "FRUITS ZIPPER",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=86",
@@ -695,7 +695,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "世界の約束",
-  "artist": "倍賞千恵子[2026-01-11]",
+  "artist": "倍賞千恵子",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=87",
@@ -703,7 +703,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "蜜月アン・ドゥ・トロワ",
-  "artist": "DATEKEN[2026-01-11]",
+  "artist": "DATEKEN",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=88",
@@ -711,7 +711,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Lovers Again",
-  "artist": "EXILE[2026-01-11]",
+  "artist": "EXILE",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=89",
@@ -719,7 +719,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ちゅきちゅきハリケーン",
-  "artist": "なにわ男子[2026-01-11]",
+  "artist": "なにわ男子",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=90",
@@ -727,7 +727,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "オドループ",
-  "artist": "フレデリック[2026-01-11]",
+  "artist": "フレデリック",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=91",
@@ -735,7 +735,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "勇者",
-  "artist": "YOASOBI[2026-01-11]",
+  "artist": "YOASOBI",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=92",
@@ -743,7 +743,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "リライト",
-  "artist": "ASIAN KUNG-FU GENERATION[2026-01-11]",
+  "artist": "ASIAN KUNG-FU GENERATION",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=93",
@@ -751,7 +751,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "星座になれたら",
-  "artist": "結束バンド[2026-01-11]",
+  "artist": "結束バンド",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=94",
@@ -759,7 +759,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "プラスティック・ラブ",
-  "artist": "竹内まりや[2026-01-11]",
+  "artist": "竹内まりや",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=95",
@@ -767,7 +767,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Never Romantic",
-  "artist": "なにわ男子[2026-01-11]",
+  "artist": "なにわ男子",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=96",
@@ -775,7 +775,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "リッツパーティー",
-  "artist": "back number[2026-01-13]",
+  "artist": "back number",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=97",
@@ -783,7 +783,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "レモンパイ",
-  "artist": "マカロニえんぴつ[2026-01-13]",
+  "artist": "マカロニえんぴつ",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=98",
@@ -791,7 +791,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "またねがあれば",
-  "artist": "Sori Sawada[2026-01-13]",
+  "artist": "Sori Sawada",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=99",
@@ -799,7 +799,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "裸の心",
-  "artist": "あいみょん[2026-01-13]",
+  "artist": "あいみょん",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=100",
@@ -807,7 +807,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "桜の木になろう",
-  "artist": "AKB48[2026-01-13]",
+  "artist": "AKB48",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=101",
@@ -815,7 +815,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Butterfly",
-  "artist": "木村カエラ[2026-01-13]",
+  "artist": "木村カエラ",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=102",
@@ -823,7 +823,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "DEAR MY LOVER",
-  "artist": "Hey!Say!JUMP[2026-01-13]",
+  "artist": "Hey!Say!JUMP",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=103",
@@ -831,7 +831,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "POP STAR",
-  "artist": "平井堅[2026-01-13]",
+  "artist": "平井堅",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=104",
@@ -839,7 +839,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "つつみ込むように...",
-  "artist": "MISIA[2026-01-13]",
+  "artist": "MISIA",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=105",
@@ -847,7 +847,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "HANABI",
-  "artist": "いきものがかり[2026-01-13]",
+  "artist": "いきものがかり",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=106",
@@ -855,7 +855,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "かがみ",
-  "artist": "FRUITS ZIPPER[2026-01-13]",
+  "artist": "FRUITS ZIPPER",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=107",
@@ -863,7 +863,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "部屋とYシャツと私",
-  "artist": "平松愛理[2026-01-13]",
+  "artist": "平松愛理",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=108",
@@ -871,7 +871,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花ハ踊レヤいろはにほ",
-  "artist": "チーム『ハナヤマタ』[2026-01-13]",
+  "artist": "チーム『ハナヤマタ』",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=109",
@@ -879,7 +879,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君の好きなうた",
-  "artist": "UVERworld[2026-01-18]",
+  "artist": "UVERworld",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=110",
@@ -887,7 +887,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "PINK",
-  "artist": "キタニタツヤ[2026-01-18]",
+  "artist": "キタニタツヤ",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=111",
@@ -895,7 +895,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Secret of my heart",
-  "artist": "倉木麻衣[2026-01-18]",
+  "artist": "倉木麻衣",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=112",
@@ -903,7 +903,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "彼氏はいません今夜だけ",
-  "artist": "コレサワ[2026-01-18]",
+  "artist": "コレサワ",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=113",
@@ -911,7 +911,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "結",
-  "artist": "Saucy Dog[2026-01-18]",
+  "artist": "Saucy Dog",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=114",
@@ -919,7 +919,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "God knows...",
-  "artist": "平野綾[2026-01-18]",
+  "artist": "平野綾",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=115",
@@ -927,7 +927,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "病名恋ワズライ",
-  "artist": "HoneyWorks[2026-01-18]",
+  "artist": "HoneyWorks",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=116",
@@ -935,7 +935,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "バリア",
-  "artist": "SixTONES[2026-01-18]",
+  "artist": "SixTONES",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=117",
@@ -943,7 +943,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "時の流れに身をまかせ",
-  "artist": "テレサ・テン[2026-01-18]",
+  "artist": "テレサ・テン",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=118",
@@ -951,7 +951,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Heart,Mind and Soul",
-  "artist": "東方神起[2026-01-18]",
+  "artist": "東方神起",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=119",
@@ -959,7 +959,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "怪盗",
-  "artist": "back number[2026-01-18]",
+  "artist": "back number",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=120",
@@ -967,7 +967,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛のメモリー",
-  "artist": "松崎しげる[2026-01-18]",
+  "artist": "松崎しげる",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=121",
@@ -975,7 +975,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "廻廻奇譚",
-  "artist": "Eve[2026-01-18]",
+  "artist": "Eve",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=122",
@@ -983,7 +983,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ベノム",
-  "artist": "かいりきベア[2026-01-18]",
+  "artist": "かいりきベア",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=123",
@@ -991,7 +991,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "乙女解剖",
-  "artist": "DECO＊27[2026-01-18]",
+  "artist": "DECO＊27",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=124",
@@ -999,7 +999,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "春の歌",
-  "artist": "スピッツ[2026-01-20]",
+  "artist": "スピッツ",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=125",
@@ -1007,7 +1007,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "青",
-  "artist": "164[2026-01-20]",
+  "artist": "164",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=126",
@@ -1015,7 +1015,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "TSUNAMI",
-  "artist": "サザンオールスターズ[2026-01-20]",
+  "artist": "サザンオールスターズ",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=127",
@@ -1023,7 +1023,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ウインターマジック",
-  "artist": "KARA[2026-01-20]",
+  "artist": "KARA",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=128",
@@ -1031,7 +1031,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "雫",
-  "artist": "スキマスイッチ[2026-01-20]",
+  "artist": "スキマスイッチ",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=129",
@@ -1039,7 +1039,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "日常",
-  "artist": "Official髭男dism[2026-01-20]",
+  "artist": "Official髭男dism",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=130",
@@ -1047,7 +1047,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "青のすみか",
-  "artist": "キタニタツヤ[2026-01-20]",
+  "artist": "キタニタツヤ",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=131",
@@ -1055,7 +1055,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "めざせポケモンマスター",
-  "artist": "松本梨香[2026-01-20]",
+  "artist": "松本梨香",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=132",
@@ -1063,7 +1063,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "勝手にMY SOUL",
-  "artist": "DISH／／[2026-01-20]",
+  "artist": "DISH／／",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=133",
@@ -1071,7 +1071,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Perfect Love",
-  "artist": "50TA[2026-01-20]",
+  "artist": "50TA",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=134",
@@ -1079,7 +1079,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "世田谷ラブストーリー",
-  "artist": "back number[2026-01-20]",
+  "artist": "back number",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=135",
@@ -1087,7 +1087,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "I LOVE YOU",
-  "artist": "尾崎豊[2026-01-20]",
+  "artist": "尾崎豊",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=136",
@@ -1095,7 +1095,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "VALENTI",
-  "artist": "BoA[2026-01-20]",
+  "artist": "BoA",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=137",
@@ -1103,7 +1103,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花になって",
-  "artist": "緑黄色社会[2026-01-20]",
+  "artist": "緑黄色社会",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=138",
@@ -1111,7 +1111,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夜撫でるメノウ",
-  "artist": "Ayase[2026-01-20]",
+  "artist": "Ayase",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=139",
@@ -1119,7 +1119,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "大阪LOVER",
-  "artist": "DREAMS COME TRUE[2026-01-20]",
+  "artist": "DREAMS COME TRUE",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=140",
@@ -1127,7 +1127,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "トウキョウ・シャンディ・ランデヴ",
-  "artist": "MAISONde[2026-01-20]",
+  "artist": "MAISONde",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=141",
@@ -1135,7 +1135,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "希望の丘",
-  "artist": "King＆Prince[2026-01-20]",
+  "artist": "King＆Prince",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=142",
@@ -1143,7 +1143,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "そっけない",
-  "artist": "RADWIMPS[2026-01-22]",
+  "artist": "RADWIMPS",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=143",
@@ -1151,7 +1151,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "気づけよ Baby",
-  "artist": "THE ORAL CIGARETTES[2026-01-22]",
+  "artist": "THE ORAL CIGARETTES",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=144",
@@ -1159,7 +1159,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "狂乱 Hey Kids!!",
-  "artist": "THE ORAL CIGARETTES[2026-01-22]",
+  "artist": "THE ORAL CIGARETTES",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=145",
@@ -1167,7 +1167,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "BLACK MEMORY",
-  "artist": "THE ORAL CIGARETTES[2026-01-22]",
+  "artist": "THE ORAL CIGARETTES",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=146",
@@ -1175,7 +1175,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "くちびる",
-  "artist": "aiko[2026-01-22]",
+  "artist": "aiko",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=147",
@@ -1183,7 +1183,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Ti Amo",
-  "artist": "EXILE[2026-01-22]",
+  "artist": "EXILE",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=148",
@@ -1191,7 +1191,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "さよならの夏",
-  "artist": "手嶌葵[2026-01-22]",
+  "artist": "手嶌葵",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=149",
@@ -1199,7 +1199,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "あとひとつ",
-  "artist": "FUNKY MONKEY BABYS[2026-01-22]",
+  "artist": "FUNKY MONKEY BABYS",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=150",
@@ -1207,7 +1207,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "完全感覚 Dreamer",
-  "artist": "ONE OK ROCK[2026-01-22]",
+  "artist": "ONE OK ROCK",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=151",
@@ -1215,7 +1215,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "二人",
-  "artist": "aiko[2026-01-22]",
+  "artist": "aiko",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=152",
@@ -1223,7 +1223,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Can You Keep A Secret",
-  "artist": "宇多田ヒカル[2026-01-22]",
+  "artist": "宇多田ヒカル",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=153",
@@ -1231,7 +1231,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "わたし",
-  "artist": "SixTONES[2026-01-22]",
+  "artist": "SixTONES",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=154",
@@ -1239,7 +1239,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "修羅＋曇天",
-  "artist": "DOES[2026-01-22]",
+  "artist": "DOES",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=155",
@@ -1247,7 +1247,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "4月の雨",
-  "artist": "aiko[2026-01-22]",
+  "artist": "aiko",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=156",
@@ -1255,7 +1255,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Time goes by",
-  "artist": "Every Little Thing[2026-01-22]",
+  "artist": "Every Little Thing",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=157",
@@ -1263,7 +1263,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "半透明人間",
-  "artist": "backnumber[2026-01-22]",
+  "artist": "backnumber",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=158",
@@ -1271,7 +1271,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ノンフィクション",
-  "artist": "平井堅[2026-01-22]",
+  "artist": "平井堅",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=159",
@@ -1279,7 +1279,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "あたしの向こう",
-  "artist": "aiko[2026-01-25]",
+  "artist": "aiko",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=160",
@@ -1287,7 +1287,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "空も飛べるはず",
-  "artist": "スピッツ[2026-01-25]",
+  "artist": "スピッツ",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=161",
@@ -1295,7 +1295,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Always",
-  "artist": "西野カナ[2026-01-25]",
+  "artist": "西野カナ",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=162",
@@ -1303,7 +1303,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "感情",
-  "artist": "wacci[2026-01-25]",
+  "artist": "wacci",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=163",
@@ -1311,7 +1311,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シーソーゲーム～勇敢な恋の歌～",
-  "artist": "Mr.Children[2026-01-25]",
+  "artist": "Mr.Children",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=164",
@@ -1319,7 +1319,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "憂、燦々",
-  "artist": "クリープハイプ[2026-01-25]",
+  "artist": "クリープハイプ",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=165",
@@ -1327,7 +1327,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "めぐる季節",
-  "artist": "井上あずみ[2026-01-25]",
+  "artist": "井上あずみ",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=166",
@@ -1335,7 +1335,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "制服のマネキン",
-  "artist": "乃木坂46[2026-01-25]",
+  "artist": "乃木坂46",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=167",
@@ -1343,7 +1343,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "らいおんハート",
-  "artist": "SMAP[2026-01-25]",
+  "artist": "SMAP",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=168",
@@ -1351,7 +1351,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "蕾",
-  "artist": "コブクロ[2026-01-25]",
+  "artist": "コブクロ",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=169",
@@ -1359,7 +1359,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "春を歌にして",
-  "artist": "back number[2025-12-26]",
+  "artist": "back number",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=170",
@@ -1367,7 +1367,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "怪物",
-  "artist": "YOASOBI[2025-12-26]",
+  "artist": "YOASOBI",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=171",
@@ -1375,7 +1375,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "インフェルノ",
-  "artist": "Mrs.GREEN APPLE[2025-12-26]",
+  "artist": "Mrs.GREEN APPLE",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=172",
@@ -1383,7 +1383,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ずうっといっしょ!",
-  "artist": "キタニタツヤ[2025-12-26]",
+  "artist": "キタニタツヤ",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=173",
@@ -1391,7 +1391,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "晴る",
-  "artist": "ヨルシカ[2025-12-26]",
+  "artist": "ヨルシカ",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=174",
@@ -1399,7 +1399,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Stellar Stellar",
-  "artist": "星街すいせい[2025-12-26]",
+  "artist": "星街すいせい",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=175",
@@ -1407,7 +1407,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "スロウダウナー",
-  "artist": "ろくろ[2025-12-26]",
+  "artist": "ろくろ",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=176",
@@ -1415,7 +1415,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "マーメイドシアター",
-  "artist": "Royal Scandal[2025-12-26]",
+  "artist": "Royal Scandal",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=177",
@@ -1423,7 +1423,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "明日晴れるかな",
-  "artist": "桑田佳祐[2025-12-26]",
+  "artist": "桑田佳祐",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=178",
@@ -1431,7 +1431,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "茜色の約束",
-  "artist": "いきものがかり[2025-12-26]",
+  "artist": "いきものがかり",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=179",
@@ -1439,7 +1439,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Together",
-  "artist": "EXILE[2025-12-26]",
+  "artist": "EXILE",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=180",
@@ -1447,7 +1447,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "70億にただ1つの奇跡",
-  "artist": "ACE COLLECTION[2026-01-30]",
+  "artist": "ACE COLLECTION",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=181",
@@ -1455,7 +1455,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "恋",
-  "artist": "back number[2026-01-30]",
+  "artist": "back number",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=182",
@@ -1463,7 +1463,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "恋におちて-Fall in Love-",
-  "artist": "小林明子[2026-01-30]",
+  "artist": "小林明子",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=183",
@@ -1471,7 +1471,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "瞬き",
-  "artist": "back number[2026-01-30]",
+  "artist": "back number",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=184",
@@ -1479,7 +1479,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "SWEET MEMORIES",
-  "artist": "松田聖子[2026-01-30]",
+  "artist": "松田聖子",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=185",
@@ -1487,7 +1487,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "NAO",
-  "artist": "HY[2026-01-30]",
+  "artist": "HY",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=186",
@@ -1495,7 +1495,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "帰りたくなったよ",
-  "artist": "いきものがかり[2026-01-30]",
+  "artist": "いきものがかり",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=187",
@@ -1503,7 +1503,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "あなたがいることで",
-  "artist": "Uru[2026-01-30]",
+  "artist": "Uru",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=188",
@@ -1511,7 +1511,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "瞳",
-  "artist": "aiko[2026-01-30]",
+  "artist": "aiko",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=189",
@@ -1519,7 +1519,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "キミを忘れないよ",
-  "artist": "大原櫻子[2026-01-30]",
+  "artist": "大原櫻子",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=190",
@@ -1527,7 +1527,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "忘れてください",
-  "artist": "ヨルシカ[2026-01-30]",
+  "artist": "ヨルシカ",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=191",
@@ -1535,7 +1535,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "最後の恋煩い",
-  "artist": "Official 髭男 dism[2026-02-01]",
+  "artist": "Official 髭男 dism",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=192",
@@ -1543,7 +1543,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "透明ドロップ",
-  "artist": "aiko[2026-02-01]",
+  "artist": "aiko",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=193",
@@ -1551,7 +1551,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夢見る隙間",
-  "artist": "aiko[2026-02-01]",
+  "artist": "aiko",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=194",
@@ -1559,7 +1559,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "バッドフォーミー",
-  "artist": "Official 髭男 dism[2026-02-01]",
+  "artist": "Official 髭男 dism",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=195",
@@ -1567,7 +1567,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Laughter",
-  "artist": "Official 髭男 dism[2026-02-01]",
+  "artist": "Official 髭男 dism",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=196",
@@ -1575,7 +1575,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Anarchy",
-  "artist": "Official 髭男 dism[2026-02-01]",
+  "artist": "Official 髭男 dism",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=197",
@@ -1583,7 +1583,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ガーネット",
-  "artist": "奥華子[2026-02-01]",
+  "artist": "奥華子",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=198",
@@ -1591,7 +1591,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "女の子は泣かない",
-  "artist": "片平里菜[2026-02-01]",
+  "artist": "片平里菜",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=199",
@@ -1599,7 +1599,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Loveletter",
-  "artist": "aiko[2026-02-01]",
+  "artist": "aiko",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=200",
@@ -1607,7 +1607,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "約束",
-  "artist": "如月千早(今井麻美)  [2025-12-25]  [rwTRmEDvB24]",
+  "artist": "如月千早(今井麻美)    [rwTRmEDvB24]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=1",
@@ -1615,7 +1615,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "CHE.R.RY",
-  "artist": "YUI  [2025-12-07]  [lNoJfI-SnA8]",
+  "artist": "YUI    [lNoJfI-SnA8]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=2",
@@ -1623,7 +1623,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛じゃない",
-  "artist": "ダズビー  [2025-12-07]  [lNoJfI-SnA8]",
+  "artist": "ダズビー    [lNoJfI-SnA8]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=3",
@@ -1631,7 +1631,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シャル・ウィ・ダンス",
-  "artist": "ReoNa  [2025-12-07]  [lNoJfI-SnA8]",
+  "artist": "ReoNa    [lNoJfI-SnA8]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=4",
@@ -1639,7 +1639,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "光の旋律",
-  "artist": "Kalafina  [2025-12-07]  [lNoJfI-SnA8]",
+  "artist": "Kalafina    [lNoJfI-SnA8]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=5",
@@ -1647,7 +1647,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "カワキヲアメク",
-  "artist": "美波  [2025-12-07]  [lNoJfI-SnA8]",
+  "artist": "美波    [lNoJfI-SnA8]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=6",
@@ -1655,7 +1655,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "プライド革命",
-  "artist": "CHiCO with HoneyWorks  [2025-12-14]  [QdEy9dajpwM]",
+  "artist": "CHiCO with HoneyWorks    [QdEy9dajpwM]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=7",
@@ -1663,7 +1663,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ループ",
-  "artist": "坂本真綾  [2025-12-14]  [QdEy9dajpwM]",
+  "artist": "坂本真綾    [QdEy9dajpwM]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=8",
@@ -1671,7 +1671,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シルエット",
-  "artist": "KANA-BOON  [2025-12-14]  [QdEy9dajpwM]",
+  "artist": "KANA-BOON    [QdEy9dajpwM]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=9",
@@ -1679,7 +1679,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ないない",
-  "artist": "ReoNa  [2025-12-14]  [QdEy9dajpwM]",
+  "artist": "ReoNa    [QdEy9dajpwM]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=10",
@@ -1687,7 +1687,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "nowhere",
-  "artist": "FictionJunction YUUKA  [2025-12-14]  [QdEy9dajpwM]",
+  "artist": "FictionJunction YUUKA    [QdEy9dajpwM]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=11",
@@ -1695,7 +1695,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "革命",
-  "artist": "神崎エルザ starring ReoNa  [2025-12-14]  [QdEy9dajpwM]",
+  "artist": "神崎エルザ starring ReoNa    [QdEy9dajpwM]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=12",
@@ -1703,7 +1703,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "REI AM",
-  "artist": "Aimer  [2025-12-14]  [QdEy9dajpwM]",
+  "artist": "Aimer    [QdEy9dajpwM]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=13",
@@ -1711,7 +1711,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "衝動",
-  "artist": "野田愛実  [2025-12-14]  [QdEy9dajpwM]",
+  "artist": "野田愛実    [QdEy9dajpwM]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=14",
@@ -1719,7 +1719,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "キミガタメ",
-  "artist": "Suara  [2025-12-14]  [QdEy9dajpwM]",
+  "artist": "Suara    [QdEy9dajpwM]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=15",
@@ -1727,7 +1727,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "深愛",
-  "artist": "水樹奈々  [2025-12-14]  [QdEy9dajpwM]",
+  "artist": "水樹奈々    [QdEy9dajpwM]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=16",
@@ -1735,7 +1735,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "粉雪",
-  "artist": "レミオロメン  [2025-12-14]  [QdEy9dajpwM]",
+  "artist": "レミオロメン    [QdEy9dajpwM]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=17",
@@ -1743,7 +1743,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君と太陽が死んだ日",
-  "artist": "黒崎真音  [2025-12-14]  [QdEy9dajpwM]",
+  "artist": "黒崎真音    [QdEy9dajpwM]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=18",
@@ -1751,7 +1751,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "紡ぐ",
-  "artist": "とた  [2025-12-14]  [QdEy9dajpwM]",
+  "artist": "とた    [QdEy9dajpwM]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=19",
@@ -1759,7 +1759,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Queen of the Night",
-  "artist": "カノエラナ  [2025-12-21]  [06JYQPAUSHI]",
+  "artist": "カノエラナ    [06JYQPAUSHI]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=20",
@@ -1767,7 +1767,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Absolute 5",
-  "artist": "ワルキューレ  [2025-12-21]  [06JYQPAUSHI]",
+  "artist": "ワルキューレ    [06JYQPAUSHI]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=21",
@@ -1775,7 +1775,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "射手座☆午後九時Don't be late",
-  "artist": "シェリル・ノーム starring May'n  [2025-12-21]  [06JYQPAUSHI]",
+  "artist": "シェリル・ノーム starring May'n    [06JYQPAUSHI]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=22",
@@ -1783,7 +1783,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "オン・ザ・フロントライン",
-  "artist": "ヒトリエ  [2025-12-21]  [06JYQPAUSHI]",
+  "artist": "ヒトリエ    [06JYQPAUSHI]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=23",
@@ -1791,7 +1791,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "紅蓮華",
-  "artist": "LiSA  [2025-12-21]  [06JYQPAUSHI]",
+  "artist": "LiSA    [06JYQPAUSHI]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=24",
@@ -1799,7 +1799,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "残酷な夜に輝け",
-  "artist": "LiSA  [2025-12-21]  [06JYQPAUSHI]",
+  "artist": "LiSA    [06JYQPAUSHI]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=25",
@@ -1807,7 +1807,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Walkure Attack!",
-  "artist": "ワルキューレ  [2025-12-21]  [06JYQPAUSHI]",
+  "artist": "ワルキューレ    [06JYQPAUSHI]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=26",
@@ -1815,7 +1815,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "セブンティーン",
-  "artist": "YOASOBI  [2025-12-21]  [06JYQPAUSHI]",
+  "artist": "YOASOBI    [06JYQPAUSHI]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=27",
@@ -1823,7 +1823,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Désir",
-  "artist": "GARNiDELiA  [2025-12-21]  [06JYQPAUSHI]",
+  "artist": "GARNiDELiA    [06JYQPAUSHI]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=28",
@@ -1831,7 +1831,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "完全感覚Dreamer",
-  "artist": "ONE OK ROCK  [2025-12-21]  [06JYQPAUSHI]",
+  "artist": "ONE OK ROCK    [06JYQPAUSHI]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=29",
@@ -1839,7 +1839,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "天樂",
-  "artist": "ゆうゆ  [2025-12-21]  [06JYQPAUSHI]",
+  "artist": "ゆうゆ    [06JYQPAUSHI]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=30",
@@ -1847,7 +1847,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Who What Who What",
-  "artist": "凛として時雨  [2025-12-21]  [06JYQPAUSHI]",
+  "artist": "凛として時雨    [06JYQPAUSHI]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=31",
@@ -1855,7 +1855,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "嘆きノ森",
-  "artist": "彩音  [2025-12-21]  [06JYQPAUSHI]",
+  "artist": "彩音    [06JYQPAUSHI]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=32",
@@ -1863,7 +1863,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "神様のシンドローム",
-  "artist": "彩音  [2025-12-21]  [06JYQPAUSHI]",
+  "artist": "彩音    [06JYQPAUSHI]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=33",
@@ -1871,7 +1871,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "One Light",
-  "artist": "Kalafina  [2025-12-21]  [06JYQPAUSHI]",
+  "artist": "Kalafina    [06JYQPAUSHI]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=34",
@@ -1879,7 +1879,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Silly-Go-Round",
-  "artist": "FictionJunction YUUKA  [2025-12-21]  [06JYQPAUSHI]",
+  "artist": "FictionJunction YUUKA    [06JYQPAUSHI]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=35",
@@ -1887,7 +1887,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "GIRAFFE BLUES",
-  "artist": "ワルキューレ  [2025-12-21]  [06JYQPAUSHI]",
+  "artist": "ワルキューレ    [06JYQPAUSHI]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=36",
@@ -1895,7 +1895,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "時の迷宮",
-  "artist": "ランカ・リー＝中島愛／シェリル・ノーム starring May'n  [2025-12-21]  [06JYQPAUSHI]",
+  "artist": "ランカ・リー＝中島愛／シェリル・ノーム starring May'n    [06JYQPAUSHI]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=37",
@@ -1903,7 +1903,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "鳥の詩",
-  "artist": "Lia  [2025-12-21]  [06JYQPAUSHI]",
+  "artist": "Lia    [06JYQPAUSHI]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=38",
@@ -1911,7 +1911,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Overfly",
-  "artist": "春奈るな  [2025-12-25]  [rwTRmEDvB24]",
+  "artist": "春奈るな    [rwTRmEDvB24]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=39",
@@ -1919,7 +1919,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Find the truth",
-  "artist": "Rainy。  [2025-12-25]  [rwTRmEDvB24]",
+  "artist": "Rainy。    [rwTRmEDvB24]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=40",
@@ -1927,7 +1927,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "生命線",
-  "artist": "ReoNa  [2025-12-25]  [rwTRmEDvB24]",
+  "artist": "ReoNa    [rwTRmEDvB24]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=41",
@@ -1935,7 +1935,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "メモリーズ・ラスト",
-  "artist": "黒崎真音  [2025-12-25]  [rwTRmEDvB24]",
+  "artist": "黒崎真音    [rwTRmEDvB24]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=42",
@@ -1943,7 +1943,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アンビバレント",
-  "artist": "Uru  [2025-12-25]  [rwTRmEDvB24]",
+  "artist": "Uru    [rwTRmEDvB24]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=43",
@@ -1951,7 +1951,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Avid",
-  "artist": "SawanoHiroyuki  [nZk]mizuki  [2025-12-25]  [rwTRmEDvB24]",
+  "artist": "SawanoHiroyuki  [nZk]mizuki    [rwTRmEDvB24]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=44",
@@ -1959,7 +1959,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "生きるよすが",
-  "artist": "月詠み  [2025-12-25]  [rwTRmEDvB24]",
+  "artist": "月詠み    [rwTRmEDvB24]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=45",
@@ -1967,7 +1967,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "いつもこの場所で",
-  "artist": "彩音  [2025-12-25]  [rwTRmEDvB24]",
+  "artist": "彩音    [rwTRmEDvB24]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=46",
@@ -1975,7 +1975,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Planetes",
-  "artist": "EGOIST  [2025-12-25]  [rwTRmEDvB24]",
+  "artist": "EGOIST    [rwTRmEDvB24]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=47",
@@ -1983,7 +1983,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "angel gate",
-  "artist": "FictionJunction YUUKA  [2025-12-25]  [rwTRmEDvB24]",
+  "artist": "FictionJunction YUUKA    [rwTRmEDvB24]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=48",
@@ -1991,7 +1991,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "三つ葉の結びめ",
-  "artist": "やなぎなぎ  [2025-12-25]  [rwTRmEDvB24]",
+  "artist": "やなぎなぎ    [rwTRmEDvB24]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=49",
@@ -1999,7 +1999,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "傷つく誰かの心を守ることができたなら",
-  "artist": "Chevy  [2025-12-25]  [rwTRmEDvB24]",
+  "artist": "Chevy    [rwTRmEDvB24]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=50",
@@ -2007,7 +2007,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "歌に形はないけれど",
-  "artist": "Doriko  [2025-12-25]  [rwTRmEDvB24]",
+  "artist": "Doriko    [rwTRmEDvB24]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=51",
@@ -2015,7 +2015,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Soranji",
-  "artist": "Mrs. GREEN APPLE  [2025-12-25]  [rwTRmEDvB24]",
+  "artist": "Mrs. GREEN APPLE    [rwTRmEDvB24]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=52",
@@ -2023,7 +2023,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シルシ",
-  "artist": "LiSA  [2025-12-25]  [rwTRmEDvB24]",
+  "artist": "LiSA    [rwTRmEDvB24]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=53",
@@ -2031,7 +2031,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Till the End",
-  "artist": "ReoNa  [2025-12-25]  [rwTRmEDvB24]",
+  "artist": "ReoNa    [rwTRmEDvB24]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=54",
@@ -2039,7 +2039,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "明日世界が終わるとしても",
-  "artist": "ASCA  [2025-12-25]  [rwTRmEDvB24]",
+  "artist": "ASCA    [rwTRmEDvB24]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=55",
@@ -2047,7 +2047,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "FLAGS",
-  "artist": "T.M.Revolution  [2025-12-31]  [sEUzMCb7o-4]",
+  "artist": "T.M.Revolution    [sEUzMCb7o-4]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=56",
@@ -2055,7 +2055,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Over the clouds",
-  "artist": "alan  [2025-12-31]  [sEUzMCb7o-4]",
+  "artist": "alan    [sEUzMCb7o-4]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=57",
@@ -2063,7 +2063,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "砂塵の彼方へ…",
-  "artist": "Revo & 梶浦由記  [2025-12-31]  [sEUzMCb7o-4]",
+  "artist": "Revo & 梶浦由記    [sEUzMCb7o-4]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=58",
@@ -2071,7 +2071,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "たった1つの想い",
-  "artist": "KOKIA  [2026-01-01]  [0pDvmCxhGrc]",
+  "artist": "KOKIA    [0pDvmCxhGrc]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=59",
@@ -2079,7 +2079,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花冠",
-  "artist": "天野月子  [2026-01-01]  [0pDvmCxhGrc]",
+  "artist": "天野月子    [0pDvmCxhGrc]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=60",
@@ -2087,7 +2087,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "黎鳴-reimei-",
-  "artist": "黒崎真音  [2026-01-01]  [0pDvmCxhGrc]",
+  "artist": "黒崎真音    [0pDvmCxhGrc]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=61",
@@ -2095,7 +2095,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "龍刻の彼方へ",
-  "artist": "彩音  [2026-01-01]  [0pDvmCxhGrc]",
+  "artist": "彩音    [0pDvmCxhGrc]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=62",
@@ -2103,7 +2103,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "neverending",
-  "artist": "Kalafina  [2026-01-01]  [0pDvmCxhGrc]",
+  "artist": "Kalafina    [0pDvmCxhGrc]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=63",
@@ -2111,7 +2111,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "明け星",
-  "artist": "LiSA  [2026-01-01]  [0pDvmCxhGrc]",
+  "artist": "LiSA    [0pDvmCxhGrc]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=64",
@@ -2119,7 +2119,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "月光花",
-  "artist": "Janne Da Arc  [2026-01-01]  [0pDvmCxhGrc]",
+  "artist": "Janne Da Arc    [0pDvmCxhGrc]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=65",
@@ -2127,7 +2127,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Forever...",
-  "artist": "savage genius  [2026-01-01]  [0pDvmCxhGrc]",
+  "artist": "savage genius    [0pDvmCxhGrc]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=66",
@@ -2135,7 +2135,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Listen!!",
-  "artist": "放課後ティータイム  [2026-01-01]  [0pDvmCxhGrc]",
+  "artist": "放課後ティータイム    [0pDvmCxhGrc]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=67",
@@ -2143,7 +2143,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Don't say lazy",
-  "artist": "桜高軽音部  [2026-01-01]  [0pDvmCxhGrc]",
+  "artist": "桜高軽音部    [0pDvmCxhGrc]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=68",
@@ -2151,7 +2151,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Ash Like Snow",
-  "artist": "the brilliant green  [2026-01-01]  [0pDvmCxhGrc]",
+  "artist": "the brilliant green    [0pDvmCxhGrc]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=69",
@@ -2159,7 +2159,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "HIGHSCHOOL OF THE DEAD",
-  "artist": "岸田教団＆THE明星ロケッツ  [2026-01-01]  [0pDvmCxhGrc]",
+  "artist": "岸田教団＆THE明星ロケッツ    [0pDvmCxhGrc]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=70",
@@ -2167,7 +2167,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "トコハナ",
-  "artist": "やなぎなぎ  [2026-01-01]  [0pDvmCxhGrc]",
+  "artist": "やなぎなぎ    [0pDvmCxhGrc]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=71",
@@ -2175,7 +2175,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "GATE II 〜世界を超えて〜",
-  "artist": "岸田教団&THE明星ロケッツ  [2026-01-01]  [0pDvmCxhGrc]",
+  "artist": "岸田教団&THE明星ロケッツ    [0pDvmCxhGrc]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=72",
@@ -2183,7 +2183,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Zoetrope",
-  "artist": "やなぎなぎ  [2026-01-01]  [0pDvmCxhGrc]",
+  "artist": "やなぎなぎ    [0pDvmCxhGrc]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=73",
@@ -2191,7 +2191,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "咲かせや咲かせ",
-  "artist": "EGOIST  [2026-01-01]  [0pDvmCxhGrc]",
+  "artist": "EGOIST    [0pDvmCxhGrc]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=74",
@@ -2199,7 +2199,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Indigo in Blue",
-  "artist": "麻枝准×やなぎなぎ  [2026-01-03]  [_Myg6vZCpSw]",
+  "artist": "麻枝准×やなぎなぎ    [_Myg6vZCpSw]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=75",
@@ -2207,7 +2207,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "サムライハート(Some Like It Hot!!)",
-  "artist": "SPYAIR  [2026-01-03]  [_Myg6vZCpSw]",
+  "artist": "SPYAIR    [_Myg6vZCpSw]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=76",
@@ -2215,7 +2215,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ROCK-mode",
-  "artist": "LiSA  [2026-01-03]  [_Myg6vZCpSw]",
+  "artist": "LiSA    [_Myg6vZCpSw]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=77",
@@ -2223,7 +2223,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "竈門炭治郎のうた",
-  "artist": "椎名豪 featuring 中川奈美  [2026-01-04]  [vj4DsnTuNZE]",
+  "artist": "椎名豪 featuring 中川奈美    [vj4DsnTuNZE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=78",
@@ -2231,7 +2231,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "longing",
-  "artist": "ユナ(神田沙也加)  [2026-01-04]  [vj4DsnTuNZE]",
+  "artist": "ユナ(神田沙也加)    [vj4DsnTuNZE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=79",
@@ -2239,7 +2239,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "MEMORIA",
-  "artist": "藍井エイル  [2026-01-04]  [vj4DsnTuNZE]",
+  "artist": "藍井エイル    [vj4DsnTuNZE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=80",
@@ -2247,7 +2247,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "BRIGHT STREAM",
-  "artist": "水樹奈々  [2026-01-04]  [vj4DsnTuNZE]",
+  "artist": "水樹奈々    [vj4DsnTuNZE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=81",
@@ -2255,7 +2255,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "蒼-iconoclast",
-  "artist": "KOTOKO  [2026-01-04]  [vj4DsnTuNZE]",
+  "artist": "KOTOKO    [vj4DsnTuNZE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=82",
@@ -2263,7 +2263,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Don't be long",
-  "artist": "水樹奈々  [2026-01-04]  [vj4DsnTuNZE]",
+  "artist": "水樹奈々    [vj4DsnTuNZE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=83",
@@ -2271,7 +2271,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "深い森",
-  "artist": "Do As Infinity  [2026-01-04]  [vj4DsnTuNZE]",
+  "artist": "Do As Infinity    [vj4DsnTuNZE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=84",
@@ -2279,7 +2279,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Desire",
-  "artist": "Do As Infinity  [2026-01-04]  [vj4DsnTuNZE]",
+  "artist": "Do As Infinity    [vj4DsnTuNZE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=85",
@@ -2287,7 +2287,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ブラックボックス",
-  "artist": "LiSA  [2026-01-04]  [vj4DsnTuNZE]",
+  "artist": "LiSA    [vj4DsnTuNZE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=86",
@@ -2295,7 +2295,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "01",
-  "artist": "女王蜂  [2026-01-04]  [vj4DsnTuNZE]",
+  "artist": "女王蜂    [vj4DsnTuNZE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=87",
@@ -2303,7 +2303,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Blood on the EDGE",
-  "artist": "岸田教団&THE明星ロケッツ  [2026-01-04]  [vj4DsnTuNZE]",
+  "artist": "岸田教団&THE明星ロケッツ    [vj4DsnTuNZE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=88",
@@ -2311,7 +2311,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モノクローム",
-  "artist": "気多の巫女(戸松遥)  [2026-01-04]  [vj4DsnTuNZE]",
+  "artist": "気多の巫女(戸松遥)    [vj4DsnTuNZE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=89",
@@ -2319,7 +2319,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "傷跡",
-  "artist": "Kalafina  [2026-01-04]  [vj4DsnTuNZE]",
+  "artist": "Kalafina    [vj4DsnTuNZE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=90",
@@ -2327,7 +2327,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Pride",
-  "artist": "SCANDAL  [2026-01-04]  [vj4DsnTuNZE]",
+  "artist": "SCANDAL    [vj4DsnTuNZE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=91",
@@ -2335,7 +2335,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君よ 気高くあれ",
-  "artist": "シユイ  [2026-01-04]  [vj4DsnTuNZE]",
+  "artist": "シユイ    [vj4DsnTuNZE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=92",
@@ -2351,7 +2351,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Fallen",
-  "artist": "EGOIST  [2026-01-04]  [vj4DsnTuNZE]",
+  "artist": "EGOIST    [vj4DsnTuNZE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=94",
@@ -2359,7 +2359,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "QUEEN",
-  "artist": "LiSA  [2026-01-04]  [vj4DsnTuNZE]",
+  "artist": "LiSA    [vj4DsnTuNZE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=95",
@@ -2367,7 +2367,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Independence",
-  "artist": "神崎エルザ starring ReoNa  [2026-01-04]  [vj4DsnTuNZE]",
+  "artist": "神崎エルザ starring ReoNa    [vj4DsnTuNZE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=96",
@@ -2375,7 +2375,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "AXIA～ダイスキでダイキライ～",
-  "artist": "ワルキューレ  [2026-01-04]  [vj4DsnTuNZE]",
+  "artist": "ワルキューレ    [vj4DsnTuNZE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=97",
@@ -2383,7 +2383,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Here",
-  "artist": "JUNNA  [2026-01-04]  [vj4DsnTuNZE]",
+  "artist": "JUNNA    [vj4DsnTuNZE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=98",
@@ -2391,7 +2391,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ユリイカ",
-  "artist": "ロクデナシ  [2026-01-04]  [vj4DsnTuNZE]",
+  "artist": "ロクデナシ    [vj4DsnTuNZE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=99",
@@ -2399,7 +2399,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "WILL",
-  "artist": "TRUE   [2025-12-25]  [rwTRmEDvB24]",
+  "artist": "TRUE     [rwTRmEDvB24]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tzcHzFEox?p=100",
@@ -2407,7 +2407,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Weaker",
-  "artist": "神崎エルザ starring ReoNa  [2026-01-04]  [vj4DsnTuNZE]",
+  "artist": "神崎エルザ starring ReoNa    [vj4DsnTuNZE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=1",
@@ -2415,7 +2415,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "祝福",
-  "artist": "YOASOBI  [2026-01-04]  [vj4DsnTuNZE]",
+  "artist": "YOASOBI    [vj4DsnTuNZE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=2",
@@ -2423,7 +2423,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Black Bird",
-  "artist": "Aimer  [2026-01-04]  [vj4DsnTuNZE]",
+  "artist": "Aimer    [vj4DsnTuNZE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=3",
@@ -2431,7 +2431,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "春はゆく",
-  "artist": "Aimer  [2026-01-04]  [vj4DsnTuNZE]",
+  "artist": "Aimer    [vj4DsnTuNZE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=4",
@@ -2439,7 +2439,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "unlasting",
-  "artist": "LiSA  [2026-01-04]  [vj4DsnTuNZE]",
+  "artist": "LiSA    [vj4DsnTuNZE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=5",
@@ -2447,7 +2447,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "All Alone With You",
-  "artist": "EGOIST  [2026-01-04]  [vj4DsnTuNZE]",
+  "artist": "EGOIST    [vj4DsnTuNZE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=6",
@@ -2455,7 +2455,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Euterpe",
-  "artist": "EGOIST  [2026-01-04]  [vj4DsnTuNZE]",
+  "artist": "EGOIST    [vj4DsnTuNZE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=7",
@@ -2463,7 +2463,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "白金ディスコ",
-  "artist": "阿良々木月火(井口裕香)  [2026-01-04]  [vj4DsnTuNZE]",
+  "artist": "阿良々木月火(井口裕香)    [vj4DsnTuNZE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=8",
@@ -2471,7 +2471,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ANIMA",
-  "artist": "ReoNa  [2026-01-11]  [BZvnzJhf39c]",
+  "artist": "ReoNa    [BZvnzJhf39c]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=9",
@@ -2479,7 +2479,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ウォーアイニー",
-  "artist": "高橋瞳×BEAT CRUSADERS  [2026-01-11]  [BZvnzJhf39c]",
+  "artist": "高橋瞳×BEAT CRUSADERS    [BZvnzJhf39c]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=10",
@@ -2487,7 +2487,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "創聖のアクエリオン",
-  "artist": "AKINO  [2026-01-11]  [BZvnzJhf39c]",
+  "artist": "AKINO    [BZvnzJhf39c]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=11",
@@ -2495,7 +2495,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Untitled world",
-  "artist": "ReoNa  [2026-01-11]  [BZvnzJhf39c]",
+  "artist": "ReoNa    [BZvnzJhf39c]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=12",
@@ -2503,7 +2503,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "This game",
-  "artist": "鈴木このみ  [2026-01-11]  [BZvnzJhf39c]",
+  "artist": "鈴木このみ    [BZvnzJhf39c]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=13",
@@ -2511,7 +2511,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "緋色の空",
-  "artist": "川田まみ  [2026-01-11]  [BZvnzJhf39c]",
+  "artist": "川田まみ    [BZvnzJhf39c]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=14",
@@ -2519,7 +2519,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "oath sign",
-  "artist": "LiSA  [2026-01-11]  [BZvnzJhf39c]",
+  "artist": "LiSA    [BZvnzJhf39c]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=15",
@@ -2527,7 +2527,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "満天",
-  "artist": "Kalafina  [2026-01-11]  [BZvnzJhf39c]",
+  "artist": "Kalafina    [BZvnzJhf39c]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=16",
@@ -2535,7 +2535,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ideal white",
-  "artist": "綾野ましろ  [2026-01-11]  [BZvnzJhf39c]",
+  "artist": "綾野ましろ    [BZvnzJhf39c]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=17",
@@ -2543,7 +2543,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "空は高く風は歌う",
-  "artist": "春奈るな  [2026-01-11]  [BZvnzJhf39c]",
+  "artist": "春奈るな    [BZvnzJhf39c]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=18",
@@ -2551,7 +2551,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "to the beginning",
-  "artist": "Kalafina  [2026-01-11]  [BZvnzJhf39c]",
+  "artist": "Kalafina    [BZvnzJhf39c]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=19",
@@ -2559,7 +2559,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "disillusion",
-  "artist": "タイナカサチ  [2026-01-11]  [BZvnzJhf39c]",
+  "artist": "タイナカサチ    [BZvnzJhf39c]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=20",
@@ -2567,7 +2567,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "英雄 運命の詩",
-  "artist": "EGOIST  [2026-01-11]  [BZvnzJhf39c]",
+  "artist": "EGOIST    [BZvnzJhf39c]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=21",
@@ -2575,7 +2575,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ASH",
-  "artist": "LiSA  [2026-01-11]  [BZvnzJhf39c]",
+  "artist": "LiSA    [BZvnzJhf39c]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=22",
@@ -2583,7 +2583,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "翼",
-  "artist": "藍井エイル  [2026-01-11]  [BZvnzJhf39c]",
+  "artist": "藍井エイル    [BZvnzJhf39c]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=23",
@@ -2591,7 +2591,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "誰我為",
-  "artist": "TK from 凛として時雨  [2026-01-11]  [BZvnzJhf39c]",
+  "artist": "TK from 凛として時雨    [BZvnzJhf39c]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=24",
@@ -2599,7 +2599,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ラテラリティ",
-  "artist": "やなぎなぎ  [2026-01-11]  [BZvnzJhf39c]",
+  "artist": "やなぎなぎ    [BZvnzJhf39c]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=25",
@@ -2607,7 +2607,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "unravel",
-  "artist": "TK from 凛として時雨  [2026-01-11]  [BZvnzJhf39c]",
+  "artist": "TK from 凛として時雨    [BZvnzJhf39c]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=26",
@@ -2615,7 +2615,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Don't Cry",
-  "artist": "蓮花  [2026-01-11]  [BZvnzJhf39c]",
+  "artist": "蓮花    [BZvnzJhf39c]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=27",
@@ -2623,7 +2623,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ミカヅキ",
-  "artist": "さユり  [2026-01-11]  [BZvnzJhf39c]",
+  "artist": "さユり    [BZvnzJhf39c]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=28",
@@ -2631,7 +2631,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アクアテラリウム",
-  "artist": "やなぎなぎ  [2026-01-11]  [BZvnzJhf39c]",
+  "artist": "やなぎなぎ    [BZvnzJhf39c]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=29",
@@ -2639,7 +2639,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "TAO",
-  "artist": "Do As Infinity  [2026-01-18]  [puHbLe8RkRE]",
+  "artist": "Do As Infinity    [puHbLe8RkRE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=30",
@@ -2647,7 +2647,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "God knows...",
-  "artist": "平野綾  [2026-01-18]  [puHbLe8RkRE]",
+  "artist": "平野綾    [puHbLe8RkRE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=31",
@@ -2655,7 +2655,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "only my railgun",
-  "artist": "fripSide  [2026-01-18]  [puHbLe8RkRE]",
+  "artist": "fripSide    [puHbLe8RkRE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=32",
@@ -2663,7 +2663,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "GENESIS",
-  "artist": "藍井エイル  [2026-01-18]  [puHbLe8RkRE]",
+  "artist": "藍井エイル    [puHbLe8RkRE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=33",
@@ -2671,7 +2671,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ninelie cry-v",
-  "artist": "Aimer  [2026-01-18]  [puHbLe8RkRE]",
+  "artist": "Aimer    [puHbLe8RkRE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=34",
@@ -2679,7 +2679,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "携帯恋話",
-  "artist": "まふまふ  [2026-01-18]  [puHbLe8RkRE]",
+  "artist": "まふまふ    [puHbLe8RkRE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=35",
@@ -2687,7 +2687,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "SPARK‐AGAIN",
-  "artist": "Aimer  [2026-01-18]  [puHbLe8RkRE]",
+  "artist": "Aimer    [puHbLe8RkRE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=36",
@@ -2695,7 +2695,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Pray",
-  "artist": "水樹奈々  [2026-01-18]  [puHbLe8RkRE]",
+  "artist": "水樹奈々    [puHbLe8RkRE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=37",
@@ -2703,7 +2703,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Reason",
-  "artist": "玉置成実  [2026-01-18]  [puHbLe8RkRE]",
+  "artist": "玉置成実    [puHbLe8RkRE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=38",
@@ -2711,7 +2711,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Realize",
-  "artist": "玉置成実  [2026-01-18]  [puHbLe8RkRE]",
+  "artist": "玉置成実    [puHbLe8RkRE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=39",
@@ -2719,7 +2719,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "I believe what you said",
-  "artist": "亜咲花  [2026-01-18]  [puHbLe8RkRE]",
+  "artist": "亜咲花    [puHbLe8RkRE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=40",
@@ -2727,7 +2727,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "UNDEAD",
-  "artist": "YOASOBI  [2026-01-18]  [puHbLe8RkRE]",
+  "artist": "YOASOBI    [puHbLe8RkRE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=41",
@@ -2735,7 +2735,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Buddy",
-  "artist": "坂本真綾  [2026-01-18]  [puHbLe8RkRE]",
+  "artist": "坂本真綾    [puHbLe8RkRE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=42",
@@ -2743,7 +2743,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Parallel Hearts",
-  "artist": "FictionJunction  [2026-01-18]  [puHbLe8RkRE]",
+  "artist": "FictionJunction    [puHbLe8RkRE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=43",
@@ -2751,7 +2751,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "again",
-  "artist": "YUI  [2026-01-18]  [puHbLe8RkRE]",
+  "artist": "YUI    [puHbLe8RkRE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=44",
@@ -2759,7 +2759,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Realize",
-  "artist": "鈴木このみ  [2026-01-18]  [puHbLe8RkRE]",
+  "artist": "鈴木このみ    [puHbLe8RkRE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=45",
@@ -2767,7 +2767,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "青空のナミダ",
-  "artist": "高橋瞳  [2026-01-18]  [puHbLe8RkRE]",
+  "artist": "高橋瞳    [puHbLe8RkRE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=46",
@@ -2775,7 +2775,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "EMOTION",
-  "artist": "ミーア・キャンベル(田中理恵)  [2026-01-18]  [puHbLe8RkRE]",
+  "artist": "ミーア・キャンベル(田中理恵)    [puHbLe8RkRE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=47",
@@ -2783,7 +2783,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "VITA",
-  "artist": "ReoNa  [2026-01-18]  [puHbLe8RkRE]",
+  "artist": "ReoNa    [puHbLe8RkRE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=48",
@@ -2791,7 +2791,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "一度だけの恋なら",
-  "artist": "ワルキューレ  [2026-01-18]  [puHbLe8RkRE]",
+  "artist": "ワルキューレ    [puHbLe8RkRE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=49",
@@ -2799,7 +2799,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ALIVE～祈りの唄～",
-  "artist": "ワルキューレ  [2026-01-18]  [puHbLe8RkRE]",
+  "artist": "ワルキューレ    [puHbLe8RkRE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=50",
@@ -2807,7 +2807,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "コネクト",
-  "artist": "ClariS  [2026-01-18]  [puHbLe8RkRE]",
+  "artist": "ClariS    [puHbLe8RkRE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=51",
@@ -2815,7 +2815,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "約束の絆",
-  "artist": "妖夢討伐隊  [2026-01-18]  [puHbLe8RkRE]",
+  "artist": "妖夢討伐隊    [puHbLe8RkRE]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=52",
@@ -2823,7 +2823,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ブラック★ロックシューター",
-  "artist": "supercell  [2026-01-24]  [XxF50-VpTqg]",
+  "artist": "supercell    [XxF50-VpTqg]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=53",
@@ -2831,7 +2831,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Over soul",
-  "artist": "林原めぐみ  [2026-01-24]  [XxF50-VpTqg]",
+  "artist": "林原めぐみ    [XxF50-VpTqg]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=54",
@@ -2839,7 +2839,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ALIVE",
-  "artist": "ClariS  [2026-01-24]  [XxF50-VpTqg]",
+  "artist": "ClariS    [XxF50-VpTqg]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=55",
@@ -2847,7 +2847,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "AURORA",
-  "artist": "藍井エイル  [2026-01-24]  [XxF50-VpTqg]",
+  "artist": "藍井エイル    [XxF50-VpTqg]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=56",
@@ -2855,7 +2855,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "芝居の終焉",
-  "artist": "Dios  [2026-01-24]  [XxF50-VpTqg]",
+  "artist": "Dios    [XxF50-VpTqg]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=57",
@@ -2863,7 +2863,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "曇天",
-  "artist": "DOES  [2026-01-24]  [XxF50-VpTqg]",
+  "artist": "DOES    [XxF50-VpTqg]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=58",
@@ -2871,7 +2871,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "IGNITE",
-  "artist": "藍井エイル  [2026-01-24]  [XxF50-VpTqg]",
+  "artist": "藍井エイル    [XxF50-VpTqg]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=59",
@@ -2879,7 +2879,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "NEXT ARCADIA",
-  "artist": "水樹奈々  [2026-01-24]  [XxF50-VpTqg]",
+  "artist": "水樹奈々    [XxF50-VpTqg]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=60",
@@ -2887,7 +2887,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Catch the Moment",
-  "artist": "LiSA  [2026-01-24]  [XxF50-VpTqg]",
+  "artist": "LiSA    [XxF50-VpTqg]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=61",
@@ -2895,7 +2895,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花の塔",
-  "artist": "さユり  [2026-01-24]  [XxF50-VpTqg]",
+  "artist": "さユり    [XxF50-VpTqg]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=62",
@@ -2903,7 +2903,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Sing My Pleasure",
-  "artist": "ヴィヴィ(八木海莉)  [2026-01-24]  [XxF50-VpTqg]",
+  "artist": "ヴィヴィ(八木海莉)    [XxF50-VpTqg]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=63",
@@ -2911,7 +2911,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "THERE IS A REASON",
-  "artist": "鈴木このみ  [2026-01-24]  [XxF50-VpTqg]",
+  "artist": "鈴木このみ    [XxF50-VpTqg]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=64",
@@ -2919,7 +2919,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "真実の詩",
-  "artist": "Do As Infinity  [2026-01-24]  [XxF50-VpTqg]",
+  "artist": "Do As Infinity    [XxF50-VpTqg]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=65",
@@ -2927,7 +2927,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "LEVEL5-judgelight-",
-  "artist": "fripSide  [2026-01-24]  [XxF50-VpTqg]",
+  "artist": "fripSide    [XxF50-VpTqg]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=66",
@@ -2935,7 +2935,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Rising Hope",
-  "artist": "LiSA  [2026-01-24]  [XxF50-VpTqg]",
+  "artist": "LiSA    [XxF50-VpTqg]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=67",
@@ -2943,7 +2943,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "SCARLET KNIGHT",
-  "artist": "水樹奈々  [2026-01-24]  [XxF50-VpTqg]",
+  "artist": "水樹奈々    [XxF50-VpTqg]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=68",
@@ -2951,7 +2951,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Heart-shaped chant",
-  "artist": "水樹奈々  [2026-01-24]  [XxF50-VpTqg]",
+  "artist": "水樹奈々    [XxF50-VpTqg]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=69",
@@ -2959,7 +2959,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "The Everlasting Guilty Crown",
-  "artist": "EGOIST  [2026-01-24]  [XxF50-VpTqg]",
+  "artist": "EGOIST    [XxF50-VpTqg]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=70",
@@ -2967,7 +2967,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "My Dearest",
-  "artist": "supercell  [2026-01-24]  [XxF50-VpTqg]",
+  "artist": "supercell    [XxF50-VpTqg]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=71",
@@ -2975,7 +2975,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ココロ",
-  "artist": "トラボルタ  [2026-02-01]  [9vaL3yrSRUY]",
+  "artist": "トラボルタ    [9vaL3yrSRUY]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=72",
@@ -2983,7 +2983,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハミダシモノ",
-  "artist": "楠木ともり  [2026-02-01]  [9vaL3yrSRUY]",
+  "artist": "楠木ともり    [9vaL3yrSRUY]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=73",
@@ -2991,7 +2991,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "mind as Judgment",
-  "artist": "Faylan  [2026-02-01]  [9vaL3yrSRUY]",
+  "artist": "Faylan    [9vaL3yrSRUY]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=74",
@@ -2999,7 +2999,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ETERNAL BLAZE",
-  "artist": "水樹奈々  [2026-02-01]  [9vaL3yrSRUY]",
+  "artist": "水樹奈々    [9vaL3yrSRUY]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=75",
@@ -3007,7 +3007,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "往け",
-  "artist": "LiSA  [2026-02-01]  [9vaL3yrSRUY]",
+  "artist": "LiSA    [9vaL3yrSRUY]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=76",
@@ -3015,7 +3015,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "白花",
-  "artist": "鈴木このみ  [2026-02-01]  [9vaL3yrSRUY]",
+  "artist": "鈴木このみ    [9vaL3yrSRUY]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=77",
@@ -3023,7 +3023,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "鐘を鳴らして",
-  "artist": "BONNIE PINK  [2026-02-01]  [9vaL3yrSRUY]",
+  "artist": "BONNIE PINK    [9vaL3yrSRUY]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=78",
@@ -3031,7 +3031,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "UNLIMITED BEAT",
-  "artist": "水樹奈々  [2026-02-01]  [9vaL3yrSRUY]",
+  "artist": "水樹奈々    [9vaL3yrSRUY]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=79",
@@ -3039,7 +3039,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "from the edge",
-  "artist": "FictionJunction feat. LiSA  [2026-02-01]  [9vaL3yrSRUY]",
+  "artist": "FictionJunction feat. LiSA    [9vaL3yrSRUY]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=80",
@@ -3047,7 +3047,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "slash",
-  "artist": "yama  [2026-02-01]  [9vaL3yrSRUY]",
+  "artist": "yama    [9vaL3yrSRUY]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=81",
@@ -3055,7 +3055,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "sh0ut",
-  "artist": "SawanoHiroyuki  [nZk]Tielle&Gemie  [2026-02-01]  [9vaL3yrSRUY]",
+  "artist": "SawanoHiroyuki  [nZk]Tielle&Gemie    [9vaL3yrSRUY]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=82",
@@ -3063,7 +3063,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "天鏡のアルデラミン",
-  "artist": "岸田教団＆THE明星ロケッツ  [2026-02-01]  [9vaL3yrSRUY]",
+  "artist": "岸田教団＆THE明星ロケッツ    [9vaL3yrSRUY]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=83",
@@ -3071,7 +3071,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヒトリワラッテ",
-  "artist": "LiSA  [2026-02-01]  [9vaL3yrSRUY]",
+  "artist": "LiSA    [9vaL3yrSRUY]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=84",
@@ -3079,7 +3079,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "聲",
-  "artist": "天野月子  [2026-02-01]  [9vaL3yrSRUY]",
+  "artist": "天野月子    [9vaL3yrSRUY]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=85",
@@ -3087,7 +3087,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ゼロの調律",
-  "artist": "天野月子  [2026-02-01]  [9vaL3yrSRUY]",
+  "artist": "天野月子    [9vaL3yrSRUY]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=86",
@@ -3095,7 +3095,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "鳥籠 —in this cage—",
-  "artist": "天野月  [2026-02-01]  [9vaL3yrSRUY]",
+  "artist": "天野月    [9vaL3yrSRUY]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=87",
@@ -3103,7 +3103,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "蝶",
-  "artist": "天野月子  [2026-02-01]  [9vaL3yrSRUY]",
+  "artist": "天野月子    [9vaL3yrSRUY]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=88",
@@ -3111,7 +3111,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヨミクダリの灯",
-  "artist": "シャノン  [2026-02-01]  [9vaL3yrSRUY]",
+  "artist": "シャノン    [9vaL3yrSRUY]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=89",
@@ -3119,7 +3119,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "文学者の恋文",
-  "artist": "Doriko  [2026-02-01]  [9vaL3yrSRUY]",
+  "artist": "Doriko    [9vaL3yrSRUY]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=90",
@@ -3127,7 +3127,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "pray",
-  "artist": "Tommy heavenly6  [2026-02-01]  [9vaL3yrSRUY]",
+  "artist": "Tommy heavenly6    [9vaL3yrSRUY]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=91",
@@ -3135,7 +3135,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "独白",
-  "artist": "坂本真綾  [2026-02-08]  [w7-IBbFnmy0]",
+  "artist": "坂本真綾    [w7-IBbFnmy0]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=92",
@@ -3143,7 +3143,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Orchestral Fantasia",
-  "artist": "水樹奈々  [2026-02-08]  [w7-IBbFnmy0]",
+  "artist": "水樹奈々    [w7-IBbFnmy0]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=93",
@@ -3151,7 +3151,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛錠",
-  "artist": "LiSA  [2026-02-08]  [w7-IBbFnmy0]",
+  "artist": "LiSA    [w7-IBbFnmy0]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=94",
@@ -3159,7 +3159,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Snow halation",
-  "artist": "μ's  [2026-02-08]  [w7-IBbFnmy0]",
+  "artist": "μ's    [w7-IBbFnmy0]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=95",
@@ -3167,7 +3167,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "BRAVE PHOENIX",
-  "artist": "水樹奈々  [2026-02-08]  [w7-IBbFnmy0]",
+  "artist": "水樹奈々    [w7-IBbFnmy0]",
   "collection": "天使 2025-12-01 ~ 2026-02-08 去重 CYBILL",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15acWzkE5k?p=96",
@@ -3175,7 +3175,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ルカルカ★ナイトフィーバー",
-  "artist": "巡音ルカ samfree  [2025-12-25]  [tprHmEiSFEI]",
+  "artist": "巡音ルカ samfree    [tprHmEiSFEI]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=1",
@@ -3183,7 +3183,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "フレンズ",
-  "artist": "ステファニー  [2025-12-25]  [tprHmEiSFEI]",
+  "artist": "ステファニー    [tprHmEiSFEI]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=2",
@@ -3191,7 +3191,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "God knows...",
-  "artist": "涼宮ハルヒ(平野綾)  [2025-12-25]  [tprHmEiSFEI]",
+  "artist": "涼宮ハルヒ(平野綾)    [tprHmEiSFEI]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=3",
@@ -3199,7 +3199,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "恋愛裁判",
-  "artist": "40mP  [2025-12-25]  [tprHmEiSFEI]",
+  "artist": "40mP    [tprHmEiSFEI]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=4",
@@ -3207,7 +3207,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ロミオとシンデレラ",
-  "artist": "doriko  [2025-12-25]  [tprHmEiSFEI]",
+  "artist": "doriko    [tprHmEiSFEI]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=5",
@@ -3215,7 +3215,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "magnet",
-  "artist": "流星P  [2025-12-25]  [tprHmEiSFEI]",
+  "artist": "流星P    [tprHmEiSFEI]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=6",
@@ -3223,7 +3223,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "右肩の蝶",
-  "artist": "のりぴー  [2025-12-25]  [tprHmEiSFEI]",
+  "artist": "のりぴー    [tprHmEiSFEI]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=7",
@@ -3231,7 +3231,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君の知らない物語",
-  "artist": "supercell  [2025-12-25]  [tprHmEiSFEI]",
+  "artist": "supercell    [tprHmEiSFEI]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=8",
@@ -3239,7 +3239,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "世界は恋に落ちている",
-  "artist": "CHiCO with HoneyWorks  [2025-12-25]  [tprHmEiSFEI]",
+  "artist": "CHiCO with HoneyWorks    [tprHmEiSFEI]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=9",
@@ -3247,7 +3247,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "初恋サイダー",
-  "artist": "Buono!  [2025-12-25]  [tprHmEiSFEI]",
+  "artist": "Buono!    [tprHmEiSFEI]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=10",
@@ -3255,7 +3255,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ベビ・デビ arrange ver.",
-  "artist": "CULUA  [2025-12-29]  [4RMYxZUG_Rc]",
+  "artist": "CULUA    [4RMYxZUG_Rc]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=11",
@@ -3263,7 +3263,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "サターン",
-  "artist": "ずっと真夜中でいいのに。  [2025-12-29]  [4RMYxZUG_Rc]",
+  "artist": "ずっと真夜中でいいのに。    [4RMYxZUG_Rc]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=12",
@@ -3271,7 +3271,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "正しくなれない",
-  "artist": "ずっと真夜中でいいのに。  [2025-12-29]  [4RMYxZUG_Rc]",
+  "artist": "ずっと真夜中でいいのに。    [4RMYxZUG_Rc]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=13",
@@ -3279,7 +3279,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夜に駆ける",
-  "artist": "YOASOBI  [2025-12-29]  [4RMYxZUG_Rc]",
+  "artist": "YOASOBI    [4RMYxZUG_Rc]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=14",
@@ -3287,7 +3287,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハレバレ",
-  "artist": "CULUA  [2025-12-29]  [4RMYxZUG_Rc]",
+  "artist": "CULUA    [4RMYxZUG_Rc]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=15",
@@ -3295,7 +3295,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "水流のロック",
-  "artist": "日食なつこ  [2025-12-29]  [4RMYxZUG_Rc]",
+  "artist": "日食なつこ    [4RMYxZUG_Rc]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=16",
@@ -3303,7 +3303,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "足りない",
-  "artist": "DUSTCELL  [2025-12-29]  [4RMYxZUG_Rc]",
+  "artist": "DUSTCELL    [4RMYxZUG_Rc]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=17",
@@ -3311,7 +3311,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "デマデーモン",
-  "artist": "CULUA  [2025-12-29]  [4RMYxZUG_Rc]",
+  "artist": "CULUA    [4RMYxZUG_Rc]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=18",
@@ -3319,7 +3319,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "チルドレンレコード",
-  "artist": "じん  [2025-12-29]  [4RMYxZUG_Rc]",
+  "artist": "じん    [4RMYxZUG_Rc]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=19",
@@ -3327,7 +3327,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "てんぺんちー",
-  "artist": "CULUA  [2025-12-29]  [4RMYxZUG_Rc]",
+  "artist": "CULUA    [4RMYxZUG_Rc]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=20",
@@ -3335,7 +3335,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ベビ・デビ",
-  "artist": "CULUA  [2025-12-29]  [4RMYxZUG_Rc]",
+  "artist": "CULUA    [4RMYxZUG_Rc]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=21",
@@ -3343,7 +3343,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "好きすぎて滅!",
-  "artist": "M!LK  [2026-01-01]  [cK30POeTNT4]",
+  "artist": "M!LK    [cK30POeTNT4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=22",
@@ -3351,7 +3351,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Bling-Bang-Bang-Born",
-  "artist": "Creepy Nuts  [2026-01-01]  [cK30POeTNT4]",
+  "artist": "Creepy Nuts    [cK30POeTNT4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=23",
@@ -3359,7 +3359,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モエチャッカファイア",
-  "artist": "まふまふ  [2026-01-01]  [cK30POeTNT4]",
+  "artist": "まふまふ    [cK30POeTNT4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=24",
@@ -3367,7 +3367,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヒステリックナイトガール",
-  "artist": "Such  [2026-01-01]  [cK30POeTNT4]",
+  "artist": "Such    [cK30POeTNT4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=25",
@@ -3375,7 +3375,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ビビデバ",
-  "artist": "星街すいせい  [2026-01-01]  [cK30POeTNT4]",
+  "artist": "星街すいせい    [cK30POeTNT4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=26",
@@ -3383,7 +3383,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "トウキョウ・シャンディ・ランデヴー",
-  "artist": "MAISONdes  [2026-01-01]  [cK30POeTNT4]",
+  "artist": "MAISONdes    [cK30POeTNT4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=27",
@@ -3391,7 +3391,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "チューイン・ディスコ",
-  "artist": "花譜  [2026-01-01]  [cK30POeTNT4]",
+  "artist": "花譜    [cK30POeTNT4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=28",
@@ -3399,7 +3399,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ロキ",
-  "artist": "みきとP  [2026-01-01]  [cK30POeTNT4]",
+  "artist": "みきとP    [cK30POeTNT4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=29",
@@ -3407,7 +3407,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "マーシャル・マキシマイザー",
-  "artist": "柊マグネタイト  [2026-01-01]  [cK30POeTNT4]",
+  "artist": "柊マグネタイト    [cK30POeTNT4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=30",
@@ -3415,7 +3415,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "テトリス",
-  "artist": "重音テト  [2026-01-01]  [cK30POeTNT4]",
+  "artist": "重音テト    [cK30POeTNT4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=31",
@@ -3423,7 +3423,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "GO! GO! MANIAC",
-  "artist": "放課後ティータイム  [2026-01-01]  [cK30POeTNT4]",
+  "artist": "放課後ティータイム    [cK30POeTNT4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=32",
@@ -3431,7 +3431,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "あいつら全員同窓会",
-  "artist": "ずっと真夜中でいいのに。  [2026-01-01]  [cK30POeTNT4]",
+  "artist": "ずっと真夜中でいいのに。    [cK30POeTNT4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=33",
@@ -3439,7 +3439,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "歌よ",
-  "artist": "Belle  [2026-01-12]  [jkgV4HC9SEM]",
+  "artist": "Belle    [jkgV4HC9SEM]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=34",
@@ -3447,7 +3447,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Ghost of a smile",
-  "artist": "EGOIST  [2026-01-12]  [jkgV4HC9SEM]",
+  "artist": "EGOIST    [jkgV4HC9SEM]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=35",
@@ -3455,7 +3455,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "asphyxia",
-  "artist": "Cö shu Nie  [2026-01-12]  [jkgV4HC9SEM]",
+  "artist": "Cö shu Nie    [jkgV4HC9SEM]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=36",
@@ -3463,7 +3463,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "All Alone With You",
-  "artist": "EGOIST  [2026-01-12]  [jkgV4HC9SEM]",
+  "artist": "EGOIST    [jkgV4HC9SEM]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=37",
@@ -3471,7 +3471,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "とても素敵な六月でした",
-  "artist": "Eight  [2026-01-12]  [jkgV4HC9SEM]",
+  "artist": "Eight    [jkgV4HC9SEM]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=38",
@@ -3479,7 +3479,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "天ノ弱",
-  "artist": "164  [2026-01-12]  [jkgV4HC9SEM]",
+  "artist": "164    [jkgV4HC9SEM]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=39",
@@ -3487,7 +3487,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "あなたの夜が明けるまで",
-  "artist": "傘村トータ  [2026-01-12]  [jkgV4HC9SEM]",
+  "artist": "傘村トータ    [jkgV4HC9SEM]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=40",
@@ -3495,7 +3495,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "カナデトモスソラ",
-  "artist": "25時、ナイトコードで。  [2026-01-12]  [jkgV4HC9SEM]",
+  "artist": "25時、ナイトコードで。    [jkgV4HC9SEM]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=41",
@@ -3503,7 +3503,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "贖罪",
-  "artist": "傘村トータ  [2026-01-12]  [jkgV4HC9SEM]",
+  "artist": "傘村トータ    [jkgV4HC9SEM]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=42",
@@ -3511,7 +3511,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Planetes",
-  "artist": "EGOIST  [2026-01-12]  [jkgV4HC9SEM]",
+  "artist": "EGOIST    [jkgV4HC9SEM]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=43",
@@ -3519,7 +3519,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "正しくなれない",
-  "artist": "ずっと真夜中でいいのに。  [2026-01-14]  [iuMxbeWf3V4]",
+  "artist": "ずっと真夜中でいいのに。    [iuMxbeWf3V4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=44",
@@ -3527,7 +3527,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "限りなく灰色へ",
-  "artist": "25時、ナイトコードで。  [2026-01-14]  [iuMxbeWf3V4]",
+  "artist": "25時、ナイトコードで。    [iuMxbeWf3V4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=45",
@@ -3535,7 +3535,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "人間みたいね",
-  "artist": "キタニタツヤ  [2026-01-14]  [iuMxbeWf3V4]",
+  "artist": "キタニタツヤ    [iuMxbeWf3V4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=46",
@@ -3543,7 +3543,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハレバレ",
-  "artist": "CULUA  [2026-01-14]  [iuMxbeWf3V4]",
+  "artist": "CULUA    [iuMxbeWf3V4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=47",
@@ -3551,7 +3551,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "またね幻",
-  "artist": "ずっと真夜中でいいのに。  [2026-01-14]  [iuMxbeWf3V4]",
+  "artist": "ずっと真夜中でいいのに。    [iuMxbeWf3V4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=48",
@@ -3559,7 +3559,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "言霊",
-  "artist": "V.W.P  [2026-01-14]  [iuMxbeWf3V4]",
+  "artist": "V.W.P    [iuMxbeWf3V4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=49",
@@ -3567,7 +3567,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "命に嫌われている",
-  "artist": "カンザキイオリ  [2026-01-14]  [iuMxbeWf3V4]",
+  "artist": "カンザキイオリ    [iuMxbeWf3V4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=50",
@@ -3575,7 +3575,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "群青",
-  "artist": "YOASOBI  [2026-01-14]  [iuMxbeWf3V4]",
+  "artist": "YOASOBI    [iuMxbeWf3V4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=51",
@@ -3583,7 +3583,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Luna say maybe",
-  "artist": "月村手毬  [2026-01-14]  [iuMxbeWf3V4]",
+  "artist": "月村手毬    [iuMxbeWf3V4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=52",
@@ -3591,7 +3591,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "泥中に咲く",
-  "artist": "ウォルピスカーター  [2026-01-14]  [iuMxbeWf3V4]",
+  "artist": "ウォルピスカーター    [iuMxbeWf3V4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=53",
@@ -3599,7 +3599,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "打上花火",
-  "artist": "DAOKO x 米津玄師  [2026-01-15]  [ezzNa8GG_ks]",
+  "artist": "DAOKO x 米津玄師    [ezzNa8GG_ks]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=54",
@@ -3607,7 +3607,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヒカリヘ",
-  "artist": "miwa  [2026-01-15]  [ezzNa8GG_ks]",
+  "artist": "miwa    [ezzNa8GG_ks]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=55",
@@ -3615,7 +3615,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君がくれた夏",
-  "artist": "家入レオ  [2026-01-15]  [ezzNa8GG_ks]",
+  "artist": "家入レオ    [ezzNa8GG_ks]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=56",
@@ -3623,7 +3623,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アポリア",
-  "artist": "ヨルシカ  [2026-01-15]  [ezzNa8GG_ks]",
+  "artist": "ヨルシカ    [ezzNa8GG_ks]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=57",
@@ -3631,7 +3631,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "優しい彗星",
-  "artist": "YOASOBI  [2026-01-15]  [ezzNa8GG_ks]",
+  "artist": "YOASOBI    [ezzNa8GG_ks]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=58",
@@ -3639,7 +3639,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ベテルギウス",
-  "artist": "優里  [2026-01-15]  [ezzNa8GG_ks]",
+  "artist": "優里    [ezzNa8GG_ks]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=59",
@@ -3647,7 +3647,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "なんでもないや",
-  "artist": "RADWIMPS  [2026-01-15]  [ezzNa8GG_ks]",
+  "artist": "RADWIMPS    [ezzNa8GG_ks]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=60",
@@ -3655,7 +3655,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アイネクライネ",
-  "artist": "米津玄師  [2026-01-15]  [ezzNa8GG_ks]",
+  "artist": "米津玄師    [ezzNa8GG_ks]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=61",
@@ -3663,7 +3663,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "SAD SONG",
-  "artist": "ちゃんみな  [2026-01-15]  [ezzNa8GG_ks]",
+  "artist": "ちゃんみな    [ezzNa8GG_ks]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=62",
@@ -3671,7 +3671,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君の知らない物語",
-  "artist": "supercell  [2026-01-15]  [ezzNa8GG_ks]",
+  "artist": "supercell    [ezzNa8GG_ks]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=63",
@@ -3679,7 +3679,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "蝶々結び",
-  "artist": "Aimer  [2026-01-15]  [ezzNa8GG_ks]",
+  "artist": "Aimer    [ezzNa8GG_ks]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=64",
@@ -3687,7 +3687,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夜明けの歌",
-  "artist": "M2U x ダズビー  [2026-01-15]  [ezzNa8GG_ks]",
+  "artist": "M2U x ダズビー    [ezzNa8GG_ks]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=65",
@@ -3695,7 +3695,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "トリノコシティ",
-  "artist": "40mP_sub  [2026-01-18]  [YWmKLCc8D5w]",
+  "artist": "40mP_sub    [YWmKLCc8D5w]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=66",
@@ -3703,7 +3703,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "恋愛裁判",
-  "artist": "40mP  [2026-01-18]  [YWmKLCc8D5w]",
+  "artist": "40mP    [YWmKLCc8D5w]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=67",
@@ -3711,7 +3711,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "サリシノハラ",
-  "artist": "みきとP  [2026-01-18]  [YWmKLCc8D5w]",
+  "artist": "みきとP    [YWmKLCc8D5w]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=68",
@@ -3719,7 +3719,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "蹴っ飛ばした毛布",
-  "artist": "ずっと真夜中でいいのに。  [2026-01-18]  [YWmKLCc8D5w]",
+  "artist": "ずっと真夜中でいいのに。    [YWmKLCc8D5w]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=69",
@@ -3727,7 +3727,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "だから僕は音楽を辞めた",
-  "artist": "ヨルシカ  [2026-01-18]  [YWmKLCc8D5w]",
+  "artist": "ヨルシカ    [YWmKLCc8D5w]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=70",
@@ -3735,7 +3735,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "キメラ",
-  "artist": "1e1  [2026-01-18]  [YWmKLCc8D5w]",
+  "artist": "1e1    [YWmKLCc8D5w]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=71",
@@ -3743,7 +3743,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "あいつら全員同窓会",
-  "artist": "ずっと真夜中でいいのに。  [2026-01-18]  [YWmKLCc8D5w]",
+  "artist": "ずっと真夜中でいいのに。    [YWmKLCc8D5w]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=72",
@@ -3751,7 +3751,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ケッペキショウ",
-  "artist": "GUMI  [2026-01-18]  [YWmKLCc8D5w]",
+  "artist": "GUMI    [YWmKLCc8D5w]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=73",
@@ -3759,7 +3759,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ドーナツホール",
-  "artist": "米津玄師  [2026-01-18]  [YWmKLCc8D5w]",
+  "artist": "米津玄師    [YWmKLCc8D5w]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=74",
@@ -3767,7 +3767,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ロミオとシンデレラ",
-  "artist": "doriko  [2026-01-18]  [YWmKLCc8D5w]",
+  "artist": "doriko    [YWmKLCc8D5w]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=75",
@@ -3775,7 +3775,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "都落ち",
-  "artist": "ヨルシカ  [2026-01-18]  [YWmKLCc8D5w]",
+  "artist": "ヨルシカ    [YWmKLCc8D5w]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=76",
@@ -3783,7 +3783,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "メランコリック",
-  "artist": "Junky feat.鏡音リン  [2026-01-18]  [YWmKLCc8D5w]",
+  "artist": "Junky feat.鏡音リン    [YWmKLCc8D5w]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=77",
@@ -3791,7 +3791,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "社会距離",
-  "artist": "40mP  [2026-01-22]  [aaFwQNDqX50]",
+  "artist": "40mP    [aaFwQNDqX50]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=78",
@@ -3799,7 +3799,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Boi",
-  "artist": "ポリスピカデリー  [2026-01-22]  [aaFwQNDqX50]",
+  "artist": "ポリスピカデリー    [aaFwQNDqX50]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=79",
@@ -3807,7 +3807,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヴィラン",
-  "artist": "てにをは  [2026-01-22]  [aaFwQNDqX50]",
+  "artist": "てにをは    [aaFwQNDqX50]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=80",
@@ -3815,7 +3815,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "二息歩行",
-  "artist": "DECO27  [2026-01-22]  [aaFwQNDqX50]",
+  "artist": "DECO27    [aaFwQNDqX50]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=81",
@@ -3823,7 +3823,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "延命治療",
-  "artist": "Neru  [2026-01-22]  [aaFwQNDqX50]",
+  "artist": "Neru    [aaFwQNDqX50]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=82",
@@ -3831,7 +3831,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "生きるってなんだよ",
-  "artist": "葵木ゴウ  [2026-01-22]  [aaFwQNDqX50]",
+  "artist": "葵木ゴウ    [aaFwQNDqX50]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=83",
@@ -3839,7 +3839,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "比較症候群",
-  "artist": "葵木ゴウ  [2026-01-22]  [aaFwQNDqX50]",
+  "artist": "葵木ゴウ    [aaFwQNDqX50]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=84",
@@ -3847,7 +3847,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Q",
-  "artist": "椎名もた  [2026-01-22]  [aaFwQNDqX50]",
+  "artist": "椎名もた    [aaFwQNDqX50]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=85",
@@ -3855,7 +3855,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アストロノーツ",
-  "artist": "椎名もた  [2026-01-22]  [aaFwQNDqX50]",
+  "artist": "椎名もた    [aaFwQNDqX50]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=86",
@@ -3863,7 +3863,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "死んでしまったのだろうか",
-  "artist": "Guiano  [2026-01-22]  [aaFwQNDqX50]",
+  "artist": "Guiano    [aaFwQNDqX50]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=87",
@@ -3871,7 +3871,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "猛独が襲う",
-  "artist": "一二三  [2026-01-22]  [aaFwQNDqX50]",
+  "artist": "一二三    [aaFwQNDqX50]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=88",
@@ -3879,7 +3879,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ロストワンの号哭",
-  "artist": "Neru  [2026-01-22]  [aaFwQNDqX50]",
+  "artist": "Neru    [aaFwQNDqX50]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=89",
@@ -3887,7 +3887,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハウトゥー世界征服",
-  "artist": "Neru  [2026-01-22]  [aaFwQNDqX50]",
+  "artist": "Neru    [aaFwQNDqX50]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=90",
@@ -3895,7 +3895,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "インタビュア",
-  "artist": "クワガタP  [2026-01-22]  [aaFwQNDqX50]",
+  "artist": "クワガタP    [aaFwQNDqX50]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=91",
@@ -3903,7 +3903,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "思想犯",
-  "artist": "ヨルシカ  [2026-01-19]  [BvaIEhz_PYI]",
+  "artist": "ヨルシカ    [BvaIEhz_PYI]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=92",
@@ -3911,7 +3911,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "The hole",
-  "artist": "King Gnu  [2026-01-19]  [BvaIEhz_PYI]",
+  "artist": "King Gnu    [BvaIEhz_PYI]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=93",
@@ -3919,7 +3919,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君の脈で踊りたかった",
-  "artist": "ピコン  [2026-01-19]  [BvaIEhz_PYI]",
+  "artist": "ピコン    [BvaIEhz_PYI]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=94",
@@ -3927,7 +3927,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Refrain",
-  "artist": "Aimer  [2026-01-19]  [BvaIEhz_PYI]",
+  "artist": "Aimer    [BvaIEhz_PYI]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=95",
@@ -3935,7 +3935,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "痛いよ",
-  "artist": "清竜人  [2026-01-19]  [BvaIEhz_PYI]",
+  "artist": "清竜人    [BvaIEhz_PYI]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=96",
@@ -3943,7 +3943,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハロ／ハワユ",
-  "artist": "ナノウ  [2026-01-19]  [BvaIEhz_PYI]",
+  "artist": "ナノウ    [BvaIEhz_PYI]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=97",
@@ -3951,7 +3951,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "メルト",
-  "artist": "ryo  [2026-01-19]  [BvaIEhz_PYI]",
+  "artist": "ryo    [BvaIEhz_PYI]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=98",
@@ -3959,7 +3959,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "心拍数♯0822",
-  "artist": "蝶々P  [2026-01-19]  [BvaIEhz_PYI]",
+  "artist": "蝶々P    [BvaIEhz_PYI]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=99",
@@ -3967,7 +3967,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "雛鳥",
-  "artist": "花譜  [2026-01-19]  [BvaIEhz_PYI]",
+  "artist": "花譜    [BvaIEhz_PYI]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=100",
@@ -3975,7 +3975,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ロンリーユニバース",
-  "artist": "Aqu3ra  [2026-01-19]  [BvaIEhz_PYI]",
+  "artist": "Aqu3ra    [BvaIEhz_PYI]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=101",
@@ -3983,7 +3983,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "プロポーズ",
-  "artist": "なとり  [2026-01-26]  [EF7j0uBI9HM]",
+  "artist": "なとり    [EF7j0uBI9HM]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=102",
@@ -3991,7 +3991,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "地獄先生",
-  "artist": "相対性理論  [2026-01-26]  [EF7j0uBI9HM]",
+  "artist": "相対性理論    [EF7j0uBI9HM]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=103",
@@ -3999,7 +3999,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "(恋は)百年戦争",
-  "artist": "相対性理論  [2026-01-26]  [EF7j0uBI9HM]",
+  "artist": "相対性理論    [EF7j0uBI9HM]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=104",
@@ -4007,7 +4007,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヨワネハキ",
-  "artist": "MAISONdes  [2026-01-26]  [EF7j0uBI9HM]",
+  "artist": "MAISONdes    [EF7j0uBI9HM]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=105",
@@ -4015,7 +4015,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "melt bitter",
-  "artist": "さとうもか  [2026-01-26]  [EF7j0uBI9HM]",
+  "artist": "さとうもか    [EF7j0uBI9HM]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=106",
@@ -4023,7 +4023,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "貴方の恋人になりたい",
-  "artist": "チョーキューメイ  [2026-01-26]  [EF7j0uBI9HM]",
+  "artist": "チョーキューメイ    [EF7j0uBI9HM]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=107",
@@ -4031,7 +4031,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "寄り酔い",
-  "artist": "和ぬか  [2026-01-26]  [EF7j0uBI9HM]",
+  "artist": "和ぬか    [EF7j0uBI9HM]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=108",
@@ -4039,7 +4039,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Hello ～ Paradise Kiss",
-  "artist": "YUI  [2026-01-26]  [EF7j0uBI9HM]",
+  "artist": "YUI    [EF7j0uBI9HM]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=109",
@@ -4047,7 +4047,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "CHE.R.RY",
-  "artist": "YUI  [2026-01-26]  [EF7j0uBI9HM]",
+  "artist": "YUI    [EF7j0uBI9HM]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=110",
@@ -4055,7 +4055,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "不便な可愛げ",
-  "artist": "ジェニーハイ  [2026-01-26]  [EF7j0uBI9HM]",
+  "artist": "ジェニーハイ    [EF7j0uBI9HM]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=111",
@@ -4063,7 +4063,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "華奢なリップ",
-  "artist": "ジェニーハイ  [2026-01-26]  [EF7j0uBI9HM]",
+  "artist": "ジェニーハイ    [EF7j0uBI9HM]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=112",
@@ -4071,7 +4071,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ここでキスして",
-  "artist": "椎名林檎  [2026-01-26]  [EF7j0uBI9HM]",
+  "artist": "椎名林檎    [EF7j0uBI9HM]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=113",
@@ -4079,7 +4079,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "うまぴょい伝説",
-  "artist": "ウマ娘  [2026-01-29]  [zaDTmoxZ9wY]",
+  "artist": "ウマ娘    [zaDTmoxZ9wY]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=114",
@@ -4087,7 +4087,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "マジLOVE1000%",
-  "artist": "ST☆RISH  [2026-01-29]  [zaDTmoxZ9wY]",
+  "artist": "ST☆RISH    [zaDTmoxZ9wY]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=115",
@@ -4095,7 +4095,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "マジLOVE2000%",
-  "artist": "ST☆RISH  [2026-01-29]  [zaDTmoxZ9wY]",
+  "artist": "ST☆RISH    [zaDTmoxZ9wY]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=116",
@@ -4103,7 +4103,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "好きすぎて滅",
-  "artist": "M!LK  [2026-01-29]  [zaDTmoxZ9wY]",
+  "artist": "M!LK    [zaDTmoxZ9wY]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=117",
@@ -4111,7 +4111,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アイドル",
-  "artist": "YOASOBI  [2026-01-29]  [zaDTmoxZ9wY]",
+  "artist": "YOASOBI    [zaDTmoxZ9wY]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=118",
@@ -4119,7 +4119,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Bling-Bang-Bang-Born",
-  "artist": "Creepy Nuts  [2026-01-29]  [zaDTmoxZ9wY]",
+  "artist": "Creepy Nuts    [zaDTmoxZ9wY]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=119",
@@ -4127,7 +4127,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヒプノシスマイク -Division Battle Anthem",
-  "artist": "Division All Stars  [2026-01-29]  [zaDTmo",
+  "artist": "Division All Stars    [zaDTmo",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=120",
@@ -4135,7 +4135,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "CH4NGE",
-  "artist": "Giga  [2026-01-29]  [zaDTmoxZ9wY]",
+  "artist": "Giga    [zaDTmoxZ9wY]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=121",
@@ -4143,7 +4143,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "G4L",
-  "artist": "Giga  [2026-01-29]  [zaDTmoxZ9wY]",
+  "artist": "Giga    [zaDTmoxZ9wY]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=122",
@@ -4151,7 +4151,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "低血ボルト",
-  "artist": "ずっと真夜中でいいのに。  [2026-01-29]  [zaDTmoxZ9wY]",
+  "artist": "ずっと真夜中でいいのに。    [zaDTmoxZ9wY]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=123",
@@ -4159,7 +4159,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "脳裏上のクラッカー",
-  "artist": "ずっと真夜中でいいのに。  [2026-01-29]  [zaDTmoxZ9wY]",
+  "artist": "ずっと真夜中でいいのに。    [zaDTmoxZ9wY]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=124",
@@ -4167,7 +4167,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シュガーソングとビターステップ",
-  "artist": "UNISON SQUARE GARDEN  [2026-01-29]  [zaDTmoxZ9wY]",
+  "artist": "UNISON SQUARE GARDEN    [zaDTmoxZ9wY]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=125",
@@ -4175,7 +4175,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "チューイン・ディスコ",
-  "artist": "花譜×ツミキ  [2026-01-29]  [zaDTmoxZ9wY]",
+  "artist": "花譜×ツミキ    [zaDTmoxZ9wY]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=126",
@@ -4183,7 +4183,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "サマータイムレコード",
-  "artist": "じん  [2026-02-02]  [u15PJkKbZoE]",
+  "artist": "じん    [u15PJkKbZoE]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=127",
@@ -4191,7 +4191,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ウミユリ海底譚",
-  "artist": "n-buna  [2026-02-02]  [u15PJkKbZoE]",
+  "artist": "n-buna    [u15PJkKbZoE]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=128",
@@ -4199,7 +4199,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "わたしのアール",
-  "artist": "和田たけあき  [2026-02-02]  [u15PJkKbZoE]",
+  "artist": "和田たけあき    [u15PJkKbZoE]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=129",
@@ -4207,7 +4207,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "サリシノハラ",
-  "artist": "みきとP  [2026-02-02]  [u15PJkKbZoE]",
+  "artist": "みきとP    [u15PJkKbZoE]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=130",
@@ -4215,7 +4215,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヒッチコック",
-  "artist": "ヨルシカ  [2026-02-02]  [u15PJkKbZoE]",
+  "artist": "ヨルシカ    [u15PJkKbZoE]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=131",
@@ -4223,7 +4223,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君が夜の海に還るまで",
-  "artist": "キタニタツヤ  [2026-02-02]  [u15PJkKbZoE]",
+  "artist": "キタニタツヤ    [u15PJkKbZoE]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=132",
@@ -4231,7 +4231,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "人間みたいね",
-  "artist": "キタニタツヤ  [2026-02-02]  [u15PJkKbZoE]",
+  "artist": "キタニタツヤ    [u15PJkKbZoE]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=133",
@@ -4239,7 +4239,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君の神様になりたい。",
-  "artist": "カンザキイオリ  [2026-02-02]  [u15PJkKbZoE]",
+  "artist": "カンザキイオリ    [u15PJkKbZoE]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=134",
@@ -4247,7 +4247,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "おやすみ泣き声、さよなら歌姫",
-  "artist": "クリープハイプ  [2026-02-02]  [u15PJkKbZoE]",
+  "artist": "クリープハイプ    [u15PJkKbZoE]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=135",
@@ -4255,7 +4255,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "忘れてください",
-  "artist": "ヨルシカ  [2026-02-02]  [u15PJkKbZoE]",
+  "artist": "ヨルシカ    [u15PJkKbZoE]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=136",
@@ -4263,7 +4263,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "白日",
-  "artist": "King Gnu  [2026-02-02]  [u15PJkKbZoE]",
+  "artist": "King Gnu    [u15PJkKbZoE]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=137",
@@ -4271,7 +4271,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "晚餐歌",
-  "artist": "tuki.  [2026-02-02]  [u15PJkKbZoE]",
+  "artist": "tuki.    [u15PJkKbZoE]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=138",
@@ -4279,7 +4279,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "雨き声殘響",
-  "artist": "Orangestar  [2026-02-02]  [u15PJkKbZoE]",
+  "artist": "Orangestar    [u15PJkKbZoE]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=139",
@@ -4287,7 +4287,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "魂のルフラン",
-  "artist": "高橋洋子  [2026-02-05]  [Ce2q-Rm5wV4]",
+  "artist": "高橋洋子    [Ce2q-Rm5wV4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=140",
@@ -4295,7 +4295,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "KICK BACK",
-  "artist": "米津玄師  [2026-02-05]  [Ce2q-Rm5wV4]",
+  "artist": "米津玄師    [Ce2q-Rm5wV4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=141",
@@ -4303,7 +4303,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "IRIS OUT",
-  "artist": "米津玄師  [2026-02-05]  [Ce2q-Rm5wV4]",
+  "artist": "米津玄師    [Ce2q-Rm5wV4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=142",
@@ -4311,7 +4311,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "怪物",
-  "artist": "YOASOBI  [2026-02-05]  [Ce2q-Rm5wV4]",
+  "artist": "YOASOBI    [Ce2q-Rm5wV4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=143",
@@ -4319,7 +4319,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ウタカタララバイ",
-  "artist": "Ado  [2026-02-05]  [Ce2q-Rm5wV4]",
+  "artist": "Ado    [Ce2q-Rm5wV4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=144",
@@ -4327,7 +4327,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "I beg you",
-  "artist": "Aimer  [2026-02-05]  [Ce2q-Rm5wV4]",
+  "artist": "Aimer    [Ce2q-Rm5wV4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=145",
@@ -4335,7 +4335,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ないない",
-  "artist": "ReoNa  [2026-02-05]  [Ce2q-Rm5wV4]",
+  "artist": "ReoNa    [Ce2q-Rm5wV4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=146",
@@ -4343,7 +4343,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "聖少女領域",
-  "artist": "ALI PROJECT  [2026-02-05]  [Ce2q-Rm5wV4]",
+  "artist": "ALI PROJECT    [Ce2q-Rm5wV4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=147",
@@ -4351,7 +4351,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "禁じられた遊び",
-  "artist": "ALI PROJECT  [2026-02-05]  [Ce2q-Rm5wV4]",
+  "artist": "ALI PROJECT    [Ce2q-Rm5wV4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=148",
@@ -4359,7 +4359,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Fallen",
-  "artist": "EGOIST  [2026-02-05]  [Ce2q-Rm5wV4]",
+  "artist": "EGOIST    [Ce2q-Rm5wV4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=149",
@@ -4367,7 +4367,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "名前のない怪物",
-  "artist": "EGOIST  [2026-02-05]  [Ce2q-Rm5wV4]",
+  "artist": "EGOIST    [Ce2q-Rm5wV4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=150",
@@ -4375,7 +4375,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "JANE DOE",
-  "artist": "宇多田ヒカル、米津玄師  [2026-02-05]  [Ce2q-Rm5wV4]",
+  "artist": "宇多田ヒカル、米津玄師    [Ce2q-Rm5wV4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=151",
@@ -4383,7 +4383,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "サターン",
-  "artist": "ずっと真夜中でいいのに。  [2026-02-10]  [p3VOpFmxC_4]",
+  "artist": "ずっと真夜中でいいのに。    [p3VOpFmxC_4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=152",
@@ -4391,7 +4391,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヒバナ",
-  "artist": "DECO27  [2026-02-10]  [p3VOpFmxC_4]",
+  "artist": "DECO27    [p3VOpFmxC_4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=153",
@@ -4399,7 +4399,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ゴーストルール",
-  "artist": "DECO27  [2026-02-10]  [p3VOpFmxC_4]",
+  "artist": "DECO27    [p3VOpFmxC_4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=154",
@@ -4407,7 +4407,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "GLORIA",
-  "artist": "YUI  [2026-02-10]  [p3VOpFmxC_4]",
+  "artist": "YUI    [p3VOpFmxC_4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=155",
@@ -4415,7 +4415,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "またね幻",
-  "artist": "ずっと真夜中でいいのに。  [2026-02-10]  [p3VOpFmxC_4]",
+  "artist": "ずっと真夜中でいいのに。    [p3VOpFmxC_4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=156",
@@ -4423,7 +4423,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ローリンガール",
-  "artist": "wowaka  [2026-02-10]  [p3VOpFmxC_4]",
+  "artist": "wowaka    [p3VOpFmxC_4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=157",
@@ -4431,7 +4431,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アメヲマツ、",
-  "artist": "美波  [2026-02-10]  [p3VOpFmxC_4]",
+  "artist": "美波    [p3VOpFmxC_4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=158",
@@ -4439,7 +4439,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "value",
-  "artist": "Ado  [2026-02-10]  [p3VOpFmxC_4]",
+  "artist": "Ado    [p3VOpFmxC_4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=159",
@@ -4447,7 +4447,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "心という名前の不可解",
-  "artist": "Ado  [2026-02-10]  [p3VOpFmxC_4]",
+  "artist": "Ado    [p3VOpFmxC_4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=160",
@@ -4455,7 +4455,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Dear. Mr「F」",
-  "artist": "ずっと真夜中でいいのに。  [2026-02-10]  [p3VOpFmxC_4]",
+  "artist": "ずっと真夜中でいいのに。    [p3VOpFmxC_4]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=161",
@@ -4463,7 +4463,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "DECO27  [2026-02-12]  [2AklhIDoLGE]",
+  "artist": "DECO27    [2AklhIDoLGE]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=162",
@@ -4471,7 +4471,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "おちゃめ機能",
-  "artist": "ゴジマジP  [2026-02-12]  [2AklhIDoLGE]",
+  "artist": "ゴジマジP    [2AklhIDoLGE]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=163",
@@ -4479,7 +4479,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ビビデバ",
-  "artist": "星街すいせい  [2026-02-12]  [2AklhIDoLGE]",
+  "artist": "星街すいせい    [2AklhIDoLGE]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=164",
@@ -4487,7 +4487,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "メルト",
-  "artist": "ryo  [2026-02-12]  [2AklhIDoLGE]",
+  "artist": "ryo    [2AklhIDoLGE]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=165",
@@ -4495,7 +4495,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "勇者",
-  "artist": "YOASOBI  [2026-02-12]  [2AklhIDoLGE]",
+  "artist": "YOASOBI    [2AklhIDoLGE]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=166",
@@ -4503,7 +4503,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "とても素敵な六月でした",
-  "artist": "Eight  [2026-02-12]  [2AklhIDoLGE]",
+  "artist": "Eight    [2AklhIDoLGE]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=167",
@@ -4511,7 +4511,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "あの夏が飽和する。",
-  "artist": "カンザキイオリ  [2026-02-12]  [2AklhIDoLGE]",
+  "artist": "カンザキイオリ    [2AklhIDoLGE]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=168",
@@ -4519,7 +4519,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "LOSER",
-  "artist": "米津玄師  [2026-02-12]  [2AklhIDoLGE]",
+  "artist": "米津玄師    [2AklhIDoLGE]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=169",
@@ -4527,7 +4527,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ロスタイムメモリー",
-  "artist": "じん  [2026-02-12]  [2AklhIDoLGE]",
+  "artist": "じん    [2AklhIDoLGE]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=170",
@@ -4535,7 +4535,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "惡魔の子",
-  "artist": "ヒグチアイ  [2026-02-12]  [2AklhIDoLGE]",
+  "artist": "ヒグチアイ    [2AklhIDoLGE]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=171",
@@ -4543,7 +4543,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "magnet",
-  "artist": "流星P  [2026-02-12]  [2AklhIDoLGE]",
+  "artist": "流星P    [2AklhIDoLGE]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=172",
@@ -4551,7 +4551,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "てんぺんち",
-  "artist": "kaaruutaasoo  [2026-02-12]  [2AklhIDoLGE]",
+  "artist": "kaaruutaasoo    [2AklhIDoLGE]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=173",
@@ -4559,7 +4559,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "少しの自信があったら、",
-  "artist": "CULUA [KKIKy5dS8i0][2026-01-07]",
+  "artist": "CULUA [KKIKy5dS8i0]",
   "collection": "CULUA 2025圣诞节到现在",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=174",

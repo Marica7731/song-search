@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1p1zBBCEZ3
-// 生成时间: 2/24/2026, 4:01:56 PM
+// 生成时间: 2/24/2026, 4:28:40 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -23151,7 +23151,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "バラライカ",
-  "artist": "月島きらり starring 久住小春（モーニング娘。）[2025-12-24]",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
   "collection": "【🍠YOSHIKA⁂Ch. 歌切】[2025-12-24]【#歌枠】 1曲聴いてってください！  #shorts  #vtuber  #vsinger [fO",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AgBoB4ENc?p=1",
@@ -23479,7 +23479,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "バラライカ",
-  "artist": "月島きらり starring 久住小春（モーニング娘。）[2025-12-31] [sW5eB8cXoSM].mp4_V1-0001",
+  "artist": "月島きらり starring 久住小春（モーニング娘。） [sW5eB8cXoSM].mp4_V1-0001",
   "collection": "【🍠YOSHIKA⁂Ch. 歌切】[2025-12-31]2025年ありがとう！年越し歌枠🎍 [sW5eB8cXoSM].mp4",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o4vQBbE3s?p=1",
@@ -23487,7 +23487,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アローラ!!",
-  "artist": "松本梨香[2025-12-31] [sW5eB8cXoSM].mp4_V1-0002",
+  "artist": "松本梨香 [sW5eB8cXoSM].mp4_V1-0002",
   "collection": "【🍠YOSHIKA⁂Ch. 歌切】[2025-12-31]2025年ありがとう！年越し歌枠🎍 [sW5eB8cXoSM].mp4",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o4vQBbE3s?p=2",
@@ -23495,7 +23495,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "恋は渾沌の隷也",
-  "artist": "後ろから這いより隊G[2025-12-31] [sW5eB8cXoSM].mp4_V1-0003",
+  "artist": "後ろから這いより隊G [sW5eB8cXoSM].mp4_V1-0003",
   "collection": "【🍠YOSHIKA⁂Ch. 歌切】[2025-12-31]2025年ありがとう！年越し歌枠🎍 [sW5eB8cXoSM].mp4",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o4vQBbE3s?p=3",
@@ -23503,7 +23503,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "マツケンサンバⅡ",
-  "artist": "松平健[2025-12-31] [sW5eB8cXoSM].mp4_V1-0004",
+  "artist": "松平健 [sW5eB8cXoSM].mp4_V1-0004",
   "collection": "【🍠YOSHIKA⁂Ch. 歌切】[2025-12-31]2025年ありがとう！年越し歌枠🎍 [sW5eB8cXoSM].mp4",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o4vQBbE3s?p=4",
@@ -23511,7 +23511,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シング・サイン・シンフォニー",
-  "artist": "よしか⁂[2025-12-31] [sW5eB8cXoSM].mp4_V1-0005",
+  "artist": "よしか⁂ [sW5eB8cXoSM].mp4_V1-0005",
   "collection": "【🍠YOSHIKA⁂Ch. 歌切】[2025-12-31]2025年ありがとう！年越し歌枠🎍 [sW5eB8cXoSM].mp4",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o4vQBbE3s?p=5",
@@ -23519,7 +23519,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛 for you！",
-  "artist": "i☆Ris[2025-12-31] [sW5eB8cXoSM].mp4_V1-0006",
+  "artist": "i☆Ris [sW5eB8cXoSM].mp4_V1-0006",
   "collection": "【🍠YOSHIKA⁂Ch. 歌切】[2025-12-31]2025年ありがとう！年越し歌枠🎍 [sW5eB8cXoSM].mp4",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o4vQBbE3s?p=6",
@@ -23527,7 +23527,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ロマンスの神様",
-  "artist": "広瀬香美[2025-12-31] [sW5eB8cXoSM].mp4_V1-0007",
+  "artist": "広瀬香美 [sW5eB8cXoSM].mp4_V1-0007",
   "collection": "【🍠YOSHIKA⁂Ch. 歌切】[2025-12-31]2025年ありがとう！年越し歌枠🎍 [sW5eB8cXoSM].mp4",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o4vQBbE3s?p=7",
@@ -23535,7 +23535,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Go!!!",
-  "artist": "FLOW[2025-12-31] [sW5eB8cXoSM].mp4_V1-0008",
+  "artist": "FLOW [sW5eB8cXoSM].mp4_V1-0008",
   "collection": "【🍠YOSHIKA⁂Ch. 歌切】[2025-12-31]2025年ありがとう！年越し歌枠🎍 [sW5eB8cXoSM].mp4",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o4vQBbE3s?p=8",
@@ -23543,7 +23543,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "負けないで",
-  "artist": "ZARD[2025-12-31] [sW5eB8cXoSM].mp4_V1-0009",
+  "artist": "ZARD [sW5eB8cXoSM].mp4_V1-0009",
   "collection": "【🍠YOSHIKA⁂Ch. 歌切】[2025-12-31]2025年ありがとう！年越し歌枠🎍 [sW5eB8cXoSM].mp4",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o4vQBbE3s?p=9",
@@ -24135,7 +24135,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "バラライカ",
-  "artist": "月島きらり starring 久住小春『モーニング娘。』[2026-01-16]",
+  "artist": "月島きらり starring 久住小春『モーニング娘。』",
   "collection": "【🍠YOSHIKA⁂Ch. 歌切】[2026-01-16]1曲聴いてってください！ [wOI7tKjdwV0]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fir9BQELd?p=1",
@@ -24271,7 +24271,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "バラライカ",
-  "artist": "月島きらり starring 久住小春『モーニング娘。』[2026-01-17]",
+  "artist": "月島きらり starring 久住小春『モーニング娘。』",
   "collection": "【🍠YOSHIKA⁂Ch. 歌切】[2026-01-17]1曲聴いてってください！ [yc8aWIXE4mI]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A8r9BoEPz?p=1",
@@ -24383,7 +24383,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "バラライカ",
-  "artist": "月島きらり starring 久住小春（モーニング娘。）[2026-01-23]",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
   "collection": "【よしか⁂🍠歌切】[2026-01-23]1曲聴いてってください！ [qyk7TUkDI8k]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1X9zCBkE84?p=1",

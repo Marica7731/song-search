@@ -1,6 +1,6 @@
 // 厄倫蒂兒 - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1dGqeYpEuc
-// 生成时间: 2/24/2026, 4:04:48 PM
+// 生成时间: 2/24/2026, 4:31:32 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1510,7 +1510,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. 下雨的晚上",
+  "title": "下雨的晚上",
   "artist": "黃玠",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1518,7 +1518,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. 世界の約束",
+  "title": "世界の約束",
   "artist": "倍賞千恵子",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1526,7 +1526,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. 使一顆心免於哀傷",
+  "title": "使一顆心免於哀傷",
   "artist": "CHEVY",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1534,7 +1534,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. 你啊你啊",
+  "title": "你啊你啊",
   "artist": "魏如萱",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1542,7 +1542,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. アサガオの散る頃に",
+  "title": "アサガオの散る頃に",
   "artist": "ツユ",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1550,7 +1550,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 她說",
+  "title": "她說",
   "artist": "林俊傑",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1558,7 +1558,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. テルーの唄",
+  "title": "テルーの唄",
   "artist": "手嶌葵",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1566,7 +1566,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. 這是你期盼的長大嗎",
+  "title": "這是你期盼的長大嗎",
   "artist": "向思思",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1574,7 +1574,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. メリーゴーランド",
+  "title": "メリーゴーランド",
   "artist": "優里",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1582,7 +1582,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. 星の消えた夜に",
+  "title": "星の消えた夜に",
   "artist": "Aimer",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1590,7 +1590,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "11. 心拍數♯0822",
+  "title": "心拍數♯0822",
   "artist": "蝶々P feat. 初音ミク",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1598,7 +1598,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "12. 下雨的夜晚",
+  "title": "下雨的夜晚",
   "artist": "蘇打綠",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1606,7 +1606,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. 使一顆心免於哀傷",
+  "title": "使一顆心免於哀傷",
   "artist": "知更鳥(Chevy)",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1614,7 +1614,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. 愛してる",
+  "title": "愛してる",
   "artist": "高鈴",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1622,7 +1622,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. 安和橋",
+  "title": "安和橋",
   "artist": "宋冬野",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1630,7 +1630,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. HAVE A NICE DAY",
+  "title": "HAVE A NICE DAY",
   "artist": "魏如萱",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1638,7 +1638,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. 片想い",
+  "title": "片想い",
   "artist": "miwa",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1646,7 +1646,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 太陽",
+  "title": "太陽",
   "artist": "邱振哲",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1654,7 +1654,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. ほろよい",
+  "title": "ほろよい",
   "artist": "さんひ",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1662,7 +1662,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. 喜歡你",
+  "title": "喜歡你",
   "artist": "徐佳瑩",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1670,7 +1670,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. 想和你看五月的晚霞",
+  "title": "想和你看五月的晚霞",
   "artist": "陳華",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1678,7 +1678,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. 買你",
+  "title": "買你",
   "artist": "魏如萱",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1686,7 +1686,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "11. 晩餐歌",
+  "title": "晩餐歌",
   "artist": "tuki.",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1694,7 +1694,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. 永不失聯的愛",
+  "title": "永不失聯的愛",
   "artist": "周興哲",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1702,7 +1702,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. glow",
+  "title": "glow",
   "artist": "keeno feat. 初音ミク",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1710,7 +1710,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. 如果可以",
+  "title": "如果可以",
   "artist": "韋禮安",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1718,7 +1718,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. 明日への手紙",
+  "title": "明日への手紙",
   "artist": "手嶌葵",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1726,7 +1726,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. 起風了",
+  "title": "起風了",
   "artist": "吳青峰",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1734,7 +1734,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. Butter-Fly",
+  "title": "Butter-Fly",
   "artist": "和田光司",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1742,7 +1742,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. 我愛的人",
+  "title": "我愛的人",
   "artist": "陳小春",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1750,7 +1750,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. 言って",
+  "title": "言って",
   "artist": "ヨルシカ",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1758,7 +1758,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. 那些年",
+  "title": "那些年",
   "artist": "胡夏",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1766,7 +1766,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. 老鼠愛大米",
+  "title": "老鼠愛大米",
   "artist": "王啟文",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1774,7 +1774,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. HAVE A NICE DAY",
+  "title": "HAVE A NICE DAY",
   "artist": "魏如萱",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1782,7 +1782,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. 小さな祈り",
+  "title": "小さな祈り",
   "artist": "岡崎律子",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1790,7 +1790,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. 情歌",
+  "title": "情歌",
   "artist": "梁静茹",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1798,7 +1798,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. やさしさに包まれたなら",
+  "title": "やさしさに包まれたなら",
   "artist": "荒井由実",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1806,7 +1806,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. 尋人啟事",
+  "title": "尋人啟事",
   "artist": "徐佳瑩",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1814,7 +1814,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. プラチナ piano ver.",
+  "title": "プラチナ piano ver.",
   "artist": "坂本真綾",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1822,7 +1822,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. 這是你期盼的長大嗎",
+  "title": "這是你期盼的長大嗎",
   "artist": "張齊山",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1830,7 +1830,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. 太陽",
+  "title": "太陽",
   "artist": "邱振哲",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1838,7 +1838,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. 真夜中のドア〜Stay With Me",
+  "title": "真夜中のドア〜Stay With Me",
   "artist": "松原みき",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1846,7 +1846,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. Butter-Fly",
+  "title": "Butter-Fly",
   "artist": "和田光司",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1854,7 +1854,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. かくれんぼ",
+  "title": "かくれんぼ",
   "artist": "優里",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1862,7 +1862,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. 有一種悲傷",
+  "title": "有一種悲傷",
   "artist": "A-Lin",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1870,7 +1870,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. 藍悼花",
+  "title": "藍悼花",
   "artist": "酔シグレ feat.Lucia",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1878,7 +1878,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. 無名",
+  "title": "無名",
   "artist": "厄倫蒂兒",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1886,7 +1886,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. 僕が死のうと思ったのは",
+  "title": "僕が死のうと思ったのは",
   "artist": "中島美嘉",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1894,7 +1894,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 求救訊號",
+  "title": "求救訊號",
   "artist": "Vast & Hazy",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1902,7 +1902,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. 刻在我心底的名字",
+  "title": "刻在我心底的名字",
   "artist": "盧廣仲",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1910,7 +1910,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. 世界のつづき",
+  "title": "世界のつづき",
   "artist": "Ado",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1918,7 +1918,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. 燈光",
+  "title": "燈光",
   "artist": "謝震廷",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1926,7 +1926,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. 孤獨的總和",
+  "title": "孤獨的總和",
   "artist": "吳汶芳",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1934,7 +1934,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. 星屑ビーナス",
+  "title": "星屑ビーナス",
   "artist": "Aimer",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1942,7 +1942,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. 人啊",
+  "title": "人啊",
   "artist": "徐佳瑩",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1950,7 +1950,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. 無名",
+  "title": "無名",
   "artist": "厄倫蒂兒",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1958,7 +1958,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. For フルーツバスケット",
+  "title": "For フルーツバスケット",
   "artist": "岡崎律子",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1966,7 +1966,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 雨天",
+  "title": "雨天",
   "artist": "孫燕姿",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1974,7 +1974,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. 六等星の夜",
+  "title": "六等星の夜",
   "artist": "Aimer",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1982,7 +1982,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. 小夜子",
+  "title": "小夜子",
   "artist": "みきとP",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1990,7 +1990,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. 總會有人",
+  "title": "總會有人",
   "artist": "向思思",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -1998,7 +1998,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. 六等星の夜",
+  "title": "六等星の夜",
   "artist": "Aimer",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2006,7 +2006,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. 當我回家",
+  "title": "當我回家",
   "artist": "許莉潔 & 安懂",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2014,7 +2014,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. ちゃんとあるよ",
+  "title": "ちゃんとあるよ",
   "artist": "傘村トータ feat.可不",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2022,7 +2022,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 嘉賓",
+  "title": "嘉賓",
   "artist": "張遠",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2030,7 +2030,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. アムリタ",
+  "title": "アムリタ",
   "artist": "牧野由依",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2038,7 +2038,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. 太陽",
+  "title": "太陽",
   "artist": "邱振哲",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2046,7 +2046,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. 藍悼花",
+  "title": "藍悼花",
   "artist": "酔シグレ feat.Lucia",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2054,7 +2054,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. 求救訊號",
+  "title": "求救訊號",
   "artist": "Vast & Hazy",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2062,7 +2062,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "11. 下雨的夜晚",
+  "title": "下雨的夜晚",
   "artist": "蘇打綠",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2070,7 +2070,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "12. 下雨的晚上",
+  "title": "下雨的晚上",
   "artist": "黃玠",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2078,7 +2078,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "13. 無名",
+  "title": "無名",
   "artist": "厄倫蒂兒",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2086,7 +2086,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. HAVE A NICE DAY",
+  "title": "HAVE A NICE DAY",
   "artist": "魏如萱",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2094,7 +2094,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. ソラゴト",
+  "title": "ソラゴト",
   "artist": "明透",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2102,7 +2102,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. 埋",
+  "title": "埋",
   "artist": "好樂團 Good Band",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2110,7 +2110,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. Only Human",
+  "title": "Only Human",
   "artist": "K",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2118,7 +2118,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. 壞人",
+  "title": "壞人",
   "artist": "方炯鑌",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2126,7 +2126,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. secret base ～君がくれたもの～",
+  "title": "secret base ～君がくれたもの～",
   "artist": "ZONE",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2134,7 +2134,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. 最長的電影",
+  "title": "最長的電影",
   "artist": "周杰倫",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2142,7 +2142,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. 天ノ弱",
+  "title": "天ノ弱",
   "artist": "164 feat.GUMI",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2150,7 +2150,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. 嘉賓",
+  "title": "嘉賓",
   "artist": "張遠",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2158,7 +2158,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. Ninelie-Aimer",
+  "title": "Ninelie-Aimer",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2166,7 +2166,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. 天然的最好-盧廣仲",
+  "title": "天然的最好-盧廣仲",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2174,7 +2174,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. 少女レイ-みきとP feat.初音ミク",
+  "title": "少女レイ-みきとP feat.初音ミク",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2182,7 +2182,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. 自娛自樂-金志文",
+  "title": "自娛自樂-金志文",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2190,7 +2190,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. 打上花火-DAOKO、米津玄師",
+  "title": "打上花火-DAOKO、米津玄師",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2198,7 +2198,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. deja vu-Olivia Rodrigo",
+  "title": "deja vu-Olivia Rodrigo",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2206,7 +2206,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. コネクト-ClariS",
+  "title": "コネクト-ClariS",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2214,7 +2214,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. 東京の真ン中で寝転ぶ-40mP feat.初音ミク",
+  "title": "東京の真ン中で寝転ぶ-40mP feat.初音ミク",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2222,7 +2222,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. 謎-小松未歩",
+  "title": "謎-小松未歩",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2230,7 +2230,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. I'll be the one-HΛL",
+  "title": "I'll be the one-HΛL",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2238,7 +2238,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "11. NO, Thank You!-K-ON!",
+  "title": "NO, Thank You!-K-ON!",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2246,7 +2246,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "12. Butter-Fly-和田光司",
+  "title": "Butter-Fly-和田光司",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2254,7 +2254,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. 誰-李友廷",
+  "title": "誰-李友廷",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2262,7 +2262,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. 連名帶姓-張惠妹",
+  "title": "連名帶姓-張惠妹",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2270,7 +2270,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. メリーゴーランド-優里",
+  "title": "メリーゴーランド-優里",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2278,7 +2278,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. 在迦納共和國離婚-菲道爾",
+  "title": "在迦納共和國離婚-菲道爾",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2286,7 +2286,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. 星屑ビーナス-Aimer",
+  "title": "星屑ビーナス-Aimer",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2294,7 +2294,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 我們一樣可惜-好樂團 GoodBand",
+  "title": "我們一樣可惜-好樂團 GoodBand",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2302,7 +2302,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. 這是你期盼的長大嗎-張齊山",
+  "title": "這是你期盼的長大嗎-張齊山",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2310,7 +2310,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. 打上花火-DAOKO、米津玄師",
+  "title": "打上花火-DAOKO、米津玄師",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2318,7 +2318,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. 埋-好樂團 GoodBand",
+  "title": "埋-好樂團 GoodBand",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2326,7 +2326,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. 雪の華-中島美嘉",
+  "title": "雪の華-中島美嘉",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2334,7 +2334,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "11. フクロウ ～フクロウが知らせる客が来たと～-KOKIA",
+  "title": "フクロウ ～フクロウが知らせる客が来たと～-KOKIA",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2342,7 +2342,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. 残響散歌",
+  "title": "残響散歌",
   "artist": "Aimer",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2350,7 +2350,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. 逆光",
+  "title": "逆光",
   "artist": "Ado",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2358,7 +2358,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. 愛你",
+  "title": "愛你",
   "artist": "王心凌",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2366,7 +2366,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. Butter-Fly",
+  "title": "Butter-Fly",
   "artist": "和田光司",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2374,7 +2374,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. Shake it！",
+  "title": "Shake it！",
   "artist": "初音ミク feat 鏡音リン・レン",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2382,7 +2382,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. Catch You Catch Me",
+  "title": "Catch You Catch Me",
   "artist": "日向めぐみ",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2390,7 +2390,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. unravel",
+  "title": "unravel",
   "artist": "TK from 凛として時雨",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2398,7 +2398,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. 19時のニュース",
+  "title": "19時のニュース",
   "artist": "TOKIO",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2406,7 +2406,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. 花になって",
+  "title": "花になって",
   "artist": "緑黄色社会",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2414,7 +2414,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. God knows...",
+  "title": "God knows...",
   "artist": "平野綾",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2422,7 +2422,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "11. 新時代",
+  "title": "新時代",
   "artist": "Ado",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2430,7 +2430,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "12. 残酷な天使のテーゼ",
+  "title": "残酷な天使のテーゼ",
   "artist": "高橋洋子",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2438,7 +2438,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "13. only my railgun",
+  "title": "only my railgun",
   "artist": "fripSide",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2446,7 +2446,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "14. 光るなら",
+  "title": "光るなら",
   "artist": "Goose house",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2454,7 +2454,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "15. Don't say lazy",
+  "title": "Don't say lazy",
   "artist": "K-ON!",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2462,7 +2462,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "16. ブルーバード",
+  "title": "ブルーバード",
   "artist": "いきものがかり",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2470,7 +2470,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "17. 晴る",
+  "title": "晴る",
   "artist": "ヨルシカ",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2478,7 +2478,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "18. 君が好きだと叫びたい",
+  "title": "君が好きだと叫びたい",
   "artist": "BAAD",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2486,7 +2486,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "19. I'll be the one",
+  "title": "I'll be the one",
   "artist": "HΛL",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2494,7 +2494,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "20. Over Soul",
+  "title": "Over Soul",
   "artist": "林原めぐみ",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2502,7 +2502,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. 天然的最好",
+  "title": "天然的最好",
   "artist": "盧廣仲",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2510,7 +2510,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. HAVE A NICE DAY",
+  "title": "HAVE A NICE DAY",
   "artist": "魏如萱",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2518,7 +2518,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. Take Me Home, Country Roads(Japanese Ver.)",
+  "title": "Take Me Home, Country Roads(Japanese Ver.)",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2526,7 +2526,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. わたしと君とを繋ぐもの",
+  "title": "わたしと君とを繋ぐもの",
   "artist": "きっきょん feat. 初音ミク",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2534,7 +2534,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. ハロ-ハワユ-",
+  "title": "ハロ-ハワユ-",
   "artist": "初音ミク",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2542,7 +2542,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 星になる",
+  "title": "星になる",
   "artist": "Islet feat.倚水",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2550,7 +2550,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. プラチナ",
+  "title": "プラチナ",
   "artist": "坂本真綾",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2558,7 +2558,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. 桜キッス",
+  "title": "桜キッス",
   "artist": "河辺千恵子",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2566,7 +2566,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. 約束の場所へ",
+  "title": "約束の場所へ",
   "artist": "米倉千尋",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2574,7 +2574,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. ビビデバ",
+  "title": "ビビデバ",
   "artist": "星街すいせい",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2582,7 +2582,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "11. 月牙灣",
+  "title": "月牙灣",
   "artist": "F.I.R.",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2590,7 +2590,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "12. 孤獨的總和",
+  "title": "孤獨的總和",
   "artist": "吳汶芳",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2598,7 +2598,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "13. 在迦納共和國離婚",
+  "title": "在迦納共和國離婚",
   "artist": "菲道爾",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2606,7 +2606,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "14. 残響散歌",
+  "title": "残響散歌",
   "artist": "Aimer",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2614,7 +2614,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "15. おジャ魔女カーニバル!!",
+  "title": "おジャ魔女カーニバル!!",
   "artist": "MAHO堂",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2622,7 +2622,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "16. サマータイムレコード",
+  "title": "サマータイムレコード",
   "artist": "じん",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2630,7 +2630,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "17. 少女レイ",
+  "title": "少女レイ",
   "artist": "みきとP feat.初音ミク",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2638,7 +2638,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "18. 神のまにまに",
+  "title": "神のまにまに",
   "artist": "れるりり feat.ミク & リン & GUMI",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2646,7 +2646,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "19. 金曜日のおはよう",
+  "title": "金曜日のおはよう",
   "artist": "HoneyWorks",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2654,7 +2654,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "20. おはよう",
+  "title": "おはよう",
   "artist": "Keno",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2662,7 +2662,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "21. 夏祭り",
+  "title": "夏祭り",
   "artist": "Whiteberry",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2670,7 +2670,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "22. みちしるべ",
+  "title": "みちしるべ",
   "artist": "茅原実里",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2678,7 +2678,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "23. 君さえいれば",
+  "title": "君さえいれば",
   "artist": "DEEN",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2686,7 +2686,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "24. 君が君が",
+  "title": "君が君が",
   "artist": "むぅfeat.初音ミク",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2694,7 +2694,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "25. ルピナスの子守唄",
+  "title": "ルピナスの子守唄",
   "artist": "MAHO堂",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2702,7 +2702,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "26. 変わらないもの",
+  "title": "変わらないもの",
   "artist": "奥華子",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2710,7 +2710,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "27. 夢と葉桜",
+  "title": "夢と葉桜",
   "artist": "青木月光",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2718,7 +2718,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "28. コネクト",
+  "title": "コネクト",
   "artist": "ClariS",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2726,7 +2726,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. プラネタリウム(Piano Ver.)",
+  "title": "プラネタリウム(Piano Ver.)",
   "artist": "大塚愛",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2734,7 +2734,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. 浪費",
+  "title": "浪費",
   "artist": "林宥嘉",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2742,7 +2742,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. 変わらないもの",
+  "title": "変わらないもの",
   "artist": "奥華子",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2750,7 +2750,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. 情歌",
+  "title": "情歌",
   "artist": "梁静茹",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2758,7 +2758,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. 我的一個道姑朋友",
+  "title": "我的一個道姑朋友",
   "artist": "以冬",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2766,7 +2766,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 夢と葉桜",
+  "title": "夢と葉桜",
   "artist": "青木月光",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2774,7 +2774,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. 那年夏天寧靜的海",
+  "title": "那年夏天寧靜的海",
   "artist": "王心凌",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2782,7 +2782,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. フォニイ(Piano Ver.)",
+  "title": "フォニイ(Piano Ver.)",
   "artist": "ツミキ feat. 可不",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2790,7 +2790,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. 有一種悲傷",
+  "title": "有一種悲傷",
   "artist": "A-Lin",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2798,7 +2798,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. 連名帶姓",
+  "title": "連名帶姓",
   "artist": "張惠妹",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2806,7 +2806,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "11. メリーゴーランド",
+  "title": "メリーゴーランド",
   "artist": "優里",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2814,7 +2814,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "12. プラチナ",
+  "title": "プラチナ",
   "artist": "坂本真綾",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2822,7 +2822,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "13. 下雨的晚上",
+  "title": "下雨的晚上",
   "artist": "黃玠",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2830,7 +2830,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. グレゴリオ",
+  "title": "グレゴリオ",
   "artist": "古川本舗",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2838,7 +2838,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. プラネタリウム",
+  "title": "プラネタリウム",
   "artist": "大塚愛",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2846,7 +2846,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. 夢と葉桜",
+  "title": "夢と葉桜",
   "artist": "青木月光",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2854,7 +2854,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. ひまわりの約束",
+  "title": "ひまわりの約束",
   "artist": "秦 基博",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2862,7 +2862,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. A Thousand Years",
+  "title": "A Thousand Years",
   "artist": "Christina Perri",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2870,7 +2870,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. テルーの唄",
+  "title": "テルーの唄",
   "artist": "手嶌葵",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2878,7 +2878,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. 路過人間",
+  "title": "路過人間",
   "artist": "郁可唯",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2886,7 +2886,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. いのちの名前",
+  "title": "いのちの名前",
   "artist": "木村弓",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2894,7 +2894,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. 星屑ビーナス",
+  "title": "星屑ビーナス",
   "artist": "Aimer",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2902,7 +2902,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. 六等星の夜",
+  "title": "六等星の夜",
   "artist": "Aimer",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2910,7 +2910,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "11. 下雨的晚上",
+  "title": "下雨的晚上",
   "artist": "黃玠",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2918,7 +2918,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. 還想聽你的故事",
+  "title": "還想聽你的故事",
   "artist": "謝春花 ft. 王碧浪",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2926,7 +2926,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. 藍悼花",
+  "title": "藍悼花",
   "artist": "酔シグレ feat.Lucia",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2934,7 +2934,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. 這是你期盼的長大嗎",
+  "title": "這是你期盼的長大嗎",
   "artist": "張齊山",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2942,7 +2942,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. 當我回家",
+  "title": "當我回家",
   "artist": "許莉潔 & 安懂",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2950,7 +2950,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. Words",
+  "title": "Words",
   "artist": "Aimer",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2958,7 +2958,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 撲朔",
+  "title": "撲朔",
   "artist": "徐佳瑩",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2966,7 +2966,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. secret base ～君がくれたもの～",
+  "title": "secret base ～君がくれたもの～",
   "artist": "ZONE",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2974,7 +2974,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. 無名",
+  "title": "無名",
   "artist": "厄倫蒂兒",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2982,7 +2982,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. ソラゴト",
+  "title": "ソラゴト",
   "artist": "明透",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2990,7 +2990,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. 走了嗎",
+  "title": "走了嗎",
   "artist": "袁惟仁 feat.張若凡",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -2998,7 +2998,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "11. 晩餐歌",
+  "title": "晩餐歌",
   "artist": "tuki.",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -3006,7 +3006,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "12. ちゃんとあるよ",
+  "title": "ちゃんとあるよ",
   "artist": "傘村トータ feat.可不",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -3014,7 +3014,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "13. 埋",
+  "title": "埋",
   "artist": "好樂團 GoodBand",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -3022,7 +3022,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "14. 好想愛這個世界啊",
+  "title": "好想愛這個世界啊",
   "artist": "華晨宇",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -3030,7 +3030,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "15. I LOVE YOU",
+  "title": "I LOVE YOU",
   "artist": "クリス・ハート",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -3038,7 +3038,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "16. 在迦納共和國離婚",
+  "title": "在迦納共和國離婚",
   "artist": "菲道爾",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
@@ -3046,7 +3046,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. 小さな祈り",
+  "title": "小さな祈り",
   "artist": "岡崎律子",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3054,7 +3054,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. A Thousand Years",
+  "title": "A Thousand Years",
   "artist": "Christina Perri",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3062,7 +3062,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. Fly Me To The Moon",
+  "title": "Fly Me To The Moon",
   "artist": "Frank Sinatra",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3070,7 +3070,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. 六等星の夜",
+  "title": "六等星の夜",
   "artist": "Aimer",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3078,7 +3078,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. プラネタリウム",
+  "title": "プラネタリウム",
   "artist": "大塚愛",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3086,7 +3086,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 也可以",
+  "title": "也可以",
   "artist": "閻奕格",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3094,7 +3094,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. 想和你看五月的晚霞",
+  "title": "想和你看五月的晚霞",
   "artist": "陳華",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3102,7 +3102,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. 藍悼花",
+  "title": "藍悼花",
   "artist": "酔シグレ feat.Lucia",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3110,7 +3110,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. 壞人",
+  "title": "壞人",
   "artist": "方炯鑌",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3118,7 +3118,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. 心做し",
+  "title": "心做し",
   "artist": "蝶々P feat. GUMI",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3126,7 +3126,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "11. Stellar Stellar",
+  "title": "Stellar Stellar",
   "artist": "星街すいせい",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3134,7 +3134,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "12. GHOST",
+  "title": "GHOST",
   "artist": "星街すいせい",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3142,7 +3142,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. 夢と葉桜",
+  "title": "夢と葉桜",
   "artist": "青木月光",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3150,7 +3150,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. 暮色迴響",
+  "title": "暮色迴響",
   "artist": "吉星出租",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3158,7 +3158,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. アヤノの幸福理論",
+  "title": "アヤノの幸福理論",
   "artist": "じん",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3166,7 +3166,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. 消愁",
+  "title": "消愁",
   "artist": "毛不易",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3174,7 +3174,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. すずめ",
+  "title": "すずめ",
   "artist": "RADWIMPS feat.十明",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3182,7 +3182,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 大魚",
+  "title": "大魚",
   "artist": "周深",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3190,7 +3190,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. 夜明けと蛍",
+  "title": "夜明けと蛍",
   "artist": "ナブナ",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3198,7 +3198,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. 這是你期盼的長大嗎",
+  "title": "這是你期盼的長大嗎",
   "artist": "張齊山",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3206,7 +3206,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. Lemon",
+  "title": "Lemon",
   "artist": "米津玄師",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3214,7 +3214,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. 海の幽霊",
+  "title": "海の幽霊",
   "artist": "米津玄師",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3222,7 +3222,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "11. 葉子",
+  "title": "葉子",
   "artist": "阿桑",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3230,7 +3230,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "12. 蒲公英的約定",
+  "title": "蒲公英的約定",
   "artist": "周杰倫",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3238,7 +3238,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "13. 君に最後の口づけを",
+  "title": "君に最後の口づけを",
   "artist": "majiko",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3246,7 +3246,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "14. 埋",
+  "title": "埋",
   "artist": "好樂團 GoodBand",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3254,7 +3254,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "15. 也可以",
+  "title": "也可以",
   "artist": "閻奕格",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3262,7 +3262,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. 別找我麻煩",
+  "title": "別找我麻煩",
   "artist": "蔡健雅",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3270,7 +3270,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. 旋木",
+  "title": "旋木",
   "artist": "王菲",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3278,7 +3278,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. やさしさに包まれたなら",
+  "title": "やさしさに包まれたなら",
   "artist": "荒井由実",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3286,7 +3286,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. 自娛自樂",
+  "title": "自娛自樂",
   "artist": "金志文",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3294,7 +3294,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. 残響散歌",
+  "title": "残響散歌",
   "artist": "Aimer",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3302,7 +3302,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. ビビデバ",
+  "title": "ビビデバ",
   "artist": "星街すいせい",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3310,7 +3310,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. コネクト",
+  "title": "コネクト",
   "artist": "ClariS",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3318,7 +3318,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. 與浪之間",
+  "title": "與浪之間",
   "artist": "Vast & Hazy",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3326,7 +3326,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. Catch You Catch Me",
+  "title": "Catch You Catch Me",
   "artist": "日向めぐみ",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3334,7 +3334,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. 夕景イエスタデイ",
+  "title": "夕景イエスタデイ",
   "artist": "じん feat.IA",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3342,7 +3342,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "11. 暮色迴響",
+  "title": "暮色迴響",
   "artist": "吉星出租",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3350,7 +3350,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "12. メリーゴーランド",
+  "title": "メリーゴーランド",
   "artist": "優里",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3358,7 +3358,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "13. またあした",
+  "title": "またあした",
   "artist": "ふわりP feat.初音ミク",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3366,7 +3366,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "14. Summertime",
+  "title": "Summertime",
   "artist": "cinnamons × evening cinema",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3374,7 +3374,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. 路過人間",
+  "title": "路過人間",
   "artist": "郁可唯",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3382,7 +3382,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. 打上花火",
+  "title": "打上花火",
   "artist": "DAOKO、米津玄師",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3390,7 +3390,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. 不曾回來過",
+  "title": "不曾回來過",
   "artist": "李千娜",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3398,7 +3398,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. you are my love",
+  "title": "you are my love",
   "artist": "牧野由依",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3406,7 +3406,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. アムリタ",
+  "title": "アムリタ",
   "artist": "牧野由依",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3414,7 +3414,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 你不是第一個離開的人",
+  "title": "你不是第一個離開的人",
   "artist": "鄧紫棋",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3422,7 +3422,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. Heavenly Days",
+  "title": "Heavenly Days",
   "artist": "新垣結衣",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3430,7 +3430,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. 騙",
+  "title": "騙",
   "artist": "張碧晨",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3438,7 +3438,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. 失恋ソング沢山聴いて 泣いてばかりの私はもう。",
+  "title": "失恋ソング沢山聴いて 泣いてばかりの私はもう。",
   "artist": "りりあ。",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3446,7 +3446,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. 暮色迴響",
+  "title": "暮色迴響",
   "artist": "吉星出租",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3454,7 +3454,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "11. ありがとう",
+  "title": "ありがとう",
   "artist": "kokia",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3462,7 +3462,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "12. 白月光",
+  "title": "白月光",
   "artist": "張信哲",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3470,7 +3470,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "13. 你啊你啊",
+  "title": "你啊你啊",
   "artist": "魏如萱",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3478,7 +3478,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "14. 崇拜",
+  "title": "崇拜",
   "artist": "梁靜茹",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3486,7 +3486,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. nuit",
+  "title": "nuit",
   "artist": "春野",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3494,7 +3494,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. 被愛灌溉長大的人",
+  "title": "被愛灌溉長大的人",
   "artist": "好樂團GoodBand",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3502,7 +3502,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. 弾けないギターを片手に。",
+  "title": "弾けないギターを片手に。",
   "artist": "ねこぼーろ Ft. 初音ミク",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3510,7 +3510,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. 眼淚記得你",
+  "title": "眼淚記得你",
   "artist": "孫盛希",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3518,7 +3518,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. 人間だった",
+  "title": "人間だった",
   "artist": "ピコン",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3526,7 +3526,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 時間都去哪兒了",
+  "title": "時間都去哪兒了",
   "artist": "姚貝娜",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3534,7 +3534,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. 僕が死のうと思ったのは",
+  "title": "僕が死のうと思ったのは",
   "artist": "中島美嘉",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3542,7 +3542,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. 你知道星星多重嗎",
+  "title": "你知道星星多重嗎",
   "artist": "鄭興",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3550,7 +3550,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. 行走的魚",
+  "title": "行走的魚",
   "artist": "徐佳瑩",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3558,7 +3558,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. ドライフラワー",
+  "title": "ドライフラワー",
   "artist": "優里",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3566,7 +3566,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "11. 風のゆくえ",
+  "title": "風のゆくえ",
   "artist": "Ado",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3574,7 +3574,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "12. 下雨的晚上",
+  "title": "下雨的晚上",
   "artist": "黃玠",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3582,7 +3582,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. 我睡不著-守夜人",
+  "title": "我睡不著-守夜人",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3590,7 +3590,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. ピエロ-KEI feat.初音ミク",
+  "title": "ピエロ-KEI feat.初音ミク",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3598,7 +3598,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. 妥協-蔡依林",
+  "title": "妥協-蔡依林",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3606,7 +3606,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. 突然好想你-五月天",
+  "title": "突然好想你-五月天",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3614,7 +3614,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. オレンジ-7!!",
+  "title": "オレンジ-7!!",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3622,7 +3622,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 在迦納共和國離婚-菲道爾",
+  "title": "在迦納共和國離婚-菲道爾",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3630,7 +3630,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. ソラゴト-明透",
+  "title": "ソラゴト-明透",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3638,7 +3638,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. 我只在乎你-鄧麗君",
+  "title": "我只在乎你-鄧麗君",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3646,7 +3646,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. 茜さす-Aimer",
+  "title": "茜さす-Aimer",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3654,7 +3654,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. 愛してる-高鈴",
+  "title": "愛してる-高鈴",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3662,7 +3662,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "11. 有一種悲傷-A-Lin",
+  "title": "有一種悲傷-A-Lin",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3670,7 +3670,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "12. 瘋子-許哲珮",
+  "title": "瘋子-許哲珮",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3678,7 +3678,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "13. 心做し-蝶々P feat. GUMI",
+  "title": "心做し-蝶々P feat. GUMI",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3686,7 +3686,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "14. 行走的魚-徐佳瑩",
+  "title": "行走的魚-徐佳瑩",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3694,7 +3694,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "15. 路過人間-郁可唯",
+  "title": "路過人間-郁可唯",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3702,7 +3702,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. 旋木-王菲",
+  "title": "旋木-王菲",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3710,7 +3710,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. 旅の途中-清浦夏実",
+  "title": "旅の途中-清浦夏実",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3718,7 +3718,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. おはよう-Keno",
+  "title": "おはよう-Keno",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3726,7 +3726,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. 喜歡你-陳潔儀",
+  "title": "喜歡你-陳潔儀",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3734,7 +3734,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. 可愛くてごめん-HoneyWorks",
+  "title": "可愛くてごめん-HoneyWorks",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3742,7 +3742,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 買你-魏如萱",
+  "title": "買你-魏如萱",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3750,7 +3750,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. 六等星の夜-Aimer",
+  "title": "六等星の夜-Aimer",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3758,7 +3758,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. 妥協-蔡依林",
+  "title": "妥協-蔡依林",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3766,7 +3766,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. 暮色迴響-吉星出租",
+  "title": "暮色迴響-吉星出租",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3774,7 +3774,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. 隱形的翅膀-張韶涵",
+  "title": "隱形的翅膀-張韶涵",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3782,7 +3782,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "11. 天ノ弱-164 feat.GUMI",
+  "title": "天ノ弱-164 feat.GUMI",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3790,7 +3790,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "12. 親愛的那不是愛情-張韶涵",
+  "title": "親愛的那不是愛情-張韶涵",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3798,7 +3798,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "14. Mela!-緑黄色社会",
+  "title": "Mela!-緑黄色社会",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3806,7 +3806,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "15. 新時代-Ado",
+  "title": "新時代-Ado",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3814,7 +3814,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "16. 逆光-Ado",
+  "title": "逆光-Ado",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3822,7 +3822,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "17. 怪物-YOASOBI",
+  "title": "怪物-YOASOBI",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3830,7 +3830,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "18. 残響散歌-Aimer",
+  "title": "残響散歌-Aimer",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3838,7 +3838,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "19. 打上花火-DAOKO、米津玄師",
+  "title": "打上花火-DAOKO、米津玄師",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3846,7 +3846,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "20. ドライフラワー-優里",
+  "title": "ドライフラワー-優里",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3854,7 +3854,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. 夢と葉桜-青木月光",
+  "title": "夢と葉桜-青木月光",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3862,7 +3862,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. 你的行李-謝震廷 & 徐靖玟",
+  "title": "你的行李-謝震廷 & 徐靖玟",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3870,7 +3870,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. 会いたくて 会いたくて-西野カナ",
+  "title": "会いたくて 会いたくて-西野カナ",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3878,7 +3878,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. 身後-張惠妹",
+  "title": "身後-張惠妹",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3886,7 +3886,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. Refrain-Aimer",
+  "title": "Refrain-Aimer",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3894,7 +3894,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 11-黃禮格",
+  "title": "11-黃禮格",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3902,7 +3902,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. 変わらないもの-奥華子",
+  "title": "変わらないもの-奥華子",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3910,7 +3910,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. 這是你期盼的長大嗎-張齊山",
+  "title": "這是你期盼的長大嗎-張齊山",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3918,7 +3918,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. secret base ～君がくれたもの～-ZONE",
+  "title": "secret base ～君がくれたもの～-ZONE",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3926,7 +3926,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. 太陽-邱振哲",
+  "title": "太陽-邱振哲",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3934,7 +3934,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "11. ありがとう-kokia",
+  "title": "ありがとう-kokia",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3942,7 +3942,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. ひまわりの約束",
+  "title": "ひまわりの約束",
   "artist": "秦 基博",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3950,7 +3950,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. 心花開",
+  "title": "心花開",
   "artist": "李千那",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3958,7 +3958,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. 出口",
+  "title": "出口",
   "artist": "徐佳瑩",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3966,7 +3966,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. 你啊你啊",
+  "title": "你啊你啊",
   "artist": "魏如萱",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3974,7 +3974,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. 家後",
+  "title": "家後",
   "artist": "江蕙",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3982,7 +3982,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. HAVE A NICE DAY",
+  "title": "HAVE A NICE DAY",
   "artist": "魏如萱",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3990,7 +3990,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. ゆずれない願い",
+  "title": "ゆずれない願い",
   "artist": "田村直美",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -3998,7 +3998,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. 逆光",
+  "title": "逆光",
   "artist": "Ado",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4006,7 +4006,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. 暮色迴響",
+  "title": "暮色迴響",
   "artist": "吉星出租",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4014,7 +4014,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. レオ",
+  "title": "レオ",
   "artist": "優里",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4022,7 +4022,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "11. 在迦納共和國離婚",
+  "title": "在迦納共和國離婚",
   "artist": "菲道爾",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4030,7 +4030,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "12. メフィスト",
+  "title": "メフィスト",
   "artist": "女王蜂",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4038,7 +4038,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "13. 残響散歌",
+  "title": "残響散歌",
   "artist": "Aimer",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4046,7 +4046,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. 11-黃禮格",
+  "title": "11-黃禮格",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4054,7 +4054,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. ちゃんとあるよ-傘村トータ feat.可不",
+  "title": "ちゃんとあるよ-傘村トータ feat.可不",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4062,7 +4062,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. 讓世界暫停一分鐘-鄧紫棋",
+  "title": "讓世界暫停一分鐘-鄧紫棋",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4070,7 +4070,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. 沿海地帶-弦子",
+  "title": "沿海地帶-弦子",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4078,7 +4078,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. メリーゴーランド-優里",
+  "title": "メリーゴーランド-優里",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4086,7 +4086,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 行走的魚-徐佳瑩",
+  "title": "行走的魚-徐佳瑩",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4094,7 +4094,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. プラネタリウム-大塚愛",
+  "title": "プラネタリウム-大塚愛",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4102,7 +4102,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. 消愁-毛不易",
+  "title": "消愁-毛不易",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4110,7 +4110,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. 心做し-蝶々P feat. GUMI",
+  "title": "心做し-蝶々P feat. GUMI",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4118,7 +4118,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. 長大以後-Vising",
+  "title": "長大以後-Vising",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4126,7 +4126,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "11. ひまわりの約束-秦 基博",
+  "title": "ひまわりの約束-秦 基博",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4134,7 +4134,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "12. 下雨的晚上-黃玠",
+  "title": "下雨的晚上-黃玠",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4142,7 +4142,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. 瞬き",
+  "title": "瞬き",
   "artist": "back number",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4150,7 +4150,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. ウィーアー!",
+  "title": "ウィーアー!",
   "artist": "きただにひろし",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4158,7 +4158,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. 新時代",
+  "title": "新時代",
   "artist": "Ado",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4166,7 +4166,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. Shake it！",
+  "title": "Shake it！",
   "artist": "初音ミク feat 鏡音リン・レン",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4174,7 +4174,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. 残響散歌",
+  "title": "残響散歌",
   "artist": "Aimer",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4182,7 +4182,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 気分上々↑↑",
+  "title": "気分上々↑↑",
   "artist": "mihimaru GT",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4190,7 +4190,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. エンゼルフィッシュ",
+  "title": "エンゼルフィッシュ",
   "artist": "EVO+",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4198,7 +4198,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. God knows...",
+  "title": "God knows...",
   "artist": "平野綾",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4206,7 +4206,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. アイドル",
+  "title": "アイドル",
   "artist": "YOASOBI",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4214,7 +4214,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. ビビデバ",
+  "title": "ビビデバ",
   "artist": "星街すいせい",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4222,7 +4222,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "11. フォニイ",
+  "title": "フォニイ",
   "artist": "ツミキ feat. 可不",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4230,7 +4230,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "12. CH4NGE",
+  "title": "CH4NGE",
   "artist": "Giga",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4238,7 +4238,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "13. GHOST",
+  "title": "GHOST",
   "artist": "星街すいせい",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4246,7 +4246,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "14. シリウスの心臓",
+  "title": "シリウスの心臓",
   "artist": "ヰ世界情緒",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4254,7 +4254,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "15. 買你",
+  "title": "買你",
   "artist": "魏如萱",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4262,7 +4262,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. 月牙灣",
+  "title": "月牙灣",
   "artist": "F.I.R.",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4270,7 +4270,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. 鳥の詩",
+  "title": "鳥の詩",
   "artist": "Lia",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4278,7 +4278,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. 渡月橋 ～君 想ふ～",
+  "title": "渡月橋 ～君 想ふ～",
   "artist": "倉木麻衣",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4286,7 +4286,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. 一番の宝物",
+  "title": "一番の宝物",
   "artist": "Karuta",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4294,7 +4294,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. 左手指月",
+  "title": "左手指月",
   "artist": "薩頂頂",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4302,7 +4302,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. 披星戴月的想你",
+  "title": "披星戴月的想你",
   "artist": "告五人",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4310,7 +4310,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. 世界のつづき",
+  "title": "世界のつづき",
   "artist": "Ado",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4318,7 +4318,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. となりのトトロ",
+  "title": "となりのトトロ",
   "artist": "井上あずみ",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4326,7 +4326,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. ムーンライト伝説",
+  "title": "ムーンライト伝説",
   "artist": "美少女戰士",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4334,7 +4334,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. HAVE A NICE DAY",
+  "title": "HAVE A NICE DAY",
   "artist": "魏如萱",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4342,7 +4342,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. Tell Your World",
+  "title": "Tell Your World",
   "artist": "livetune feat. 初音ミク",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4350,7 +4350,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. 第一天",
+  "title": "第一天",
   "artist": "孫燕姿",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4358,7 +4358,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 花になって",
+  "title": "花になって",
   "artist": "緑黄色社会",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4366,7 +4366,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. Butter-Fly",
+  "title": "Butter-Fly",
   "artist": "和田光司",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4374,7 +4374,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. Summertime",
+  "title": "Summertime",
   "artist": "cinnamons × evening cinema",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4382,7 +4382,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. 買你",
+  "title": "買你",
   "artist": "魏如萱",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4390,7 +4390,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. 暮色迴響",
+  "title": "暮色迴響",
   "artist": "吉星出租",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4398,7 +4398,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. 自娛自樂",
+  "title": "自娛自樂",
   "artist": "金志文",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4406,7 +4406,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. HAVE A NICE DAY",
+  "title": "HAVE A NICE DAY",
   "artist": "魏如萱",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4414,7 +4414,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 残響散歌",
+  "title": "残響散歌",
   "artist": "Aimer",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4422,7 +4422,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. Every Heart ミンナノキモチ",
+  "title": "Every Heart ミンナノキモチ",
   "artist": "BoA",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4430,7 +4430,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. Paranoia",
+  "title": "Paranoia",
   "artist": "めざめP feat.初音ミク",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4438,7 +4438,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. Butter-Fly",
+  "title": "Butter-Fly",
   "artist": "和田光司",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4446,7 +4446,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. 晴る",
+  "title": "晴る",
   "artist": "ヨルシカ",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4454,7 +4454,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. 少女レイ",
+  "title": "少女レイ",
   "artist": "みきとP feat.初音ミク",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4462,7 +4462,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. ウィーアー!",
+  "title": "ウィーアー!",
   "artist": "きただにひろし",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4470,7 +4470,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. 粛聖!! ロリ神レクイエム☆",
+  "title": "粛聖!! ロリ神レクイエム☆",
   "artist": "しぐれうい（9さい）",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4478,7 +4478,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. 千本桜",
+  "title": "千本桜",
   "artist": "黒うさP",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4486,7 +4486,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 七彩的微風",
+  "title": "七彩的微風",
   "artist": "真珠美人魚",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4494,7 +4494,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. 鼓動",
+  "title": "鼓動",
   "artist": "真珠美人魚",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4502,7 +4502,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. 君の知らない物語",
+  "title": "君の知らない物語",
   "artist": "supercell",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4510,7 +4510,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. 別找我麻煩",
+  "title": "別找我麻煩",
   "artist": "蔡健雅",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4518,7 +4518,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. 晩餐歌",
+  "title": "晩餐歌",
   "artist": "tuki.",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4526,7 +4526,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "11. I Really Want to Stay at Your House",
+  "title": "I Really Want to Stay at Your House",
   "artist": "Rosa Walton & Hallie Coggins",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4534,7 +4534,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "12. SPiCa",
+  "title": "SPiCa",
   "artist": "初音ミク",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4542,7 +4542,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "13. 星になる",
+  "title": "星になる",
   "artist": "Islet feat.倚水",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4550,7 +4550,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "14. 新時代",
+  "title": "新時代",
   "artist": "Ado",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4558,7 +4558,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "15. 光るなら",
+  "title": "光るなら",
   "artist": "Goose house",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4566,7 +4566,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. 暮色迴響",
+  "title": "暮色迴響",
   "artist": "吉星出租",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4574,7 +4574,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "16. 夜に駆ける",
+  "title": "夜に駆ける",
   "artist": "YOASOBI",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4582,7 +4582,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "17. 花になって",
+  "title": "花になって",
   "artist": "緑黄色社会",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4590,7 +4590,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "18. 逆光",
+  "title": "逆光",
   "artist": "Ado",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
@@ -4598,7 +4598,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01.一番の宝物",
+  "title": "一番の宝物",
   "artist": "Karuta",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4606,7 +4606,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. 埋",
+  "title": "埋",
   "artist": "好樂團GoodBand",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4614,7 +4614,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. 我這個人",
+  "title": "我這個人",
   "artist": "艾怡良",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4622,7 +4622,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. 願溫柔的你被世界溫柔以待",
+  "title": "願溫柔的你被世界溫柔以待",
   "artist": "綠繡眼Zos",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4630,7 +4630,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. 六等星の夜",
+  "title": "六等星の夜",
   "artist": "Aimer",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4638,7 +4638,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 也可以",
+  "title": "也可以",
   "artist": "閻奕格",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4646,7 +4646,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. ソラゴト",
+  "title": "ソラゴト",
   "artist": "明透",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4654,7 +4654,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. 求救訊號",
+  "title": "求救訊號",
   "artist": "Vast & Hazy",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4662,7 +4662,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. 心做し",
+  "title": "心做し",
   "artist": "蝶々P feat. GUMI",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4670,7 +4670,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. 晩餐歌",
+  "title": "晩餐歌",
   "artist": "tuki.",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4678,7 +4678,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "12. 暮色迴響",
+  "title": "暮色迴響",
   "artist": "吉星出租",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4686,7 +4686,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "14. 瞬き",
+  "title": "瞬き",
   "artist": "back number",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4694,7 +4694,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "15. 太阳",
+  "title": "太阳",
   "artist": "邱振哲",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4702,7 +4702,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. 誰",
+  "title": "誰",
   "artist": "李友廷",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4710,7 +4710,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. 讓世界暫停一分鐘",
+  "title": "讓世界暫停一分鐘",
   "artist": "鄧紫棋",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4718,7 +4718,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. 僕が死のうと思ったのは",
+  "title": "僕が死のうと思ったのは",
   "artist": "中島美嘉",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4726,7 +4726,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. 沒有我的那個宇宙",
+  "title": "沒有我的那個宇宙",
   "artist": "持修",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4734,7 +4734,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. 藍悼花",
+  "title": "藍悼花",
   "artist": "酔シグレ feat.Lucia",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4742,7 +4742,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 你不是第一個離開的人",
+  "title": "你不是第一個離開的人",
   "artist": "鄧紫棋",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4750,7 +4750,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. 時間都去哪兒了",
+  "title": "時間都去哪兒了",
   "artist": "姚貝娜",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4758,7 +4758,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. secret base ～君がくれたもの～",
+  "title": "secret base ～君がくれたもの～",
   "artist": "ZONE",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4766,7 +4766,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. 求救訊號",
+  "title": "求救訊號",
   "artist": "Vast & Hazy",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4774,7 +4774,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. 像我這樣的人",
+  "title": "像我這樣的人",
   "artist": "毛不易",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4782,7 +4782,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "11. 消愁",
+  "title": "消愁",
   "artist": "毛不易",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4790,7 +4790,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "12. 夢と葉桜",
+  "title": "夢と葉桜",
   "artist": "青木月光",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4798,7 +4798,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "13. 暮色迴響",
+  "title": "暮色迴響",
   "artist": "吉星出租",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4806,7 +4806,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "14. 好想愛這個世界啊",
+  "title": "好想愛這個世界啊",
   "artist": "華晨宇",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4814,7 +4814,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "15. 突然好想你",
+  "title": "突然好想你",
   "artist": "五月天",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4822,7 +4822,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "16. 変わらないもの",
+  "title": "変わらないもの",
   "artist": "奥華子",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4830,7 +4830,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "17. 魚仔",
+  "title": "魚仔",
   "artist": "盧廣仲",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4838,7 +4838,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "18. 嘉賓",
+  "title": "嘉賓",
   "artist": "張遠",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4846,7 +4846,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "19. 有一種悲傷",
+  "title": "有一種悲傷",
   "artist": "A-Lin",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4854,7 +4854,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "20. 行走的魚",
+  "title": "行走的魚",
   "artist": "徐佳瑩",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4862,7 +4862,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "21. ピエロ",
+  "title": "ピエロ",
   "artist": "kei feat.初音ミク",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4870,7 +4870,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. プラチナ-坂本真綾",
+  "title": "プラチナ-坂本真綾",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4878,7 +4878,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. たからもの-こむろゆい",
+  "title": "たからもの-こむろゆい",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4886,7 +4886,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. メリーゴーランド-優里",
+  "title": "メリーゴーランド-優里",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4894,7 +4894,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. おジャ魔女カーニバル!!-MAHO堂",
+  "title": "おジャ魔女カーニバル!!-MAHO堂",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4902,7 +4902,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. となりのトトロ-井上あずみ",
+  "title": "となりのトトロ-井上あずみ",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4910,7 +4910,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 僕らの手には何もないけど-RAM WIRE",
+  "title": "僕らの手には何もないけど-RAM WIRE",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4918,7 +4918,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. Dearest-浜崎あゆみ",
+  "title": "Dearest-浜崎あゆみ",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4926,7 +4926,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. 深い森-Do As Infinity",
+  "title": "深い森-Do As Infinity",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4934,7 +4934,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. Get Over-Dream",
+  "title": "Get Over-Dream",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4942,7 +4942,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. I'll be the one-H∧L",
+  "title": "I'll be the one-H∧L",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4950,7 +4950,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "11. おはよう-Keno",
+  "title": "おはよう-Keno",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4958,7 +4958,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "12. 風のうた-本田美奈子",
+  "title": "風のうた-本田美奈子",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4966,7 +4966,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "13. Pray-Wish",
+  "title": "Pray-Wish",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4974,7 +4974,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "14. Over Soul-林原めぐみ",
+  "title": "Over Soul-林原めぐみ",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4982,7 +4982,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "15. Butter-Fly-和田光司",
+  "title": "Butter-Fly-和田光司",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4990,7 +4990,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. 人質",
+  "title": "人質",
   "artist": "張惠妹",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -4998,7 +4998,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. A Thousand Years",
+  "title": "A Thousand Years",
   "artist": "Christina Perri",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5006,7 +5006,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. I LOVE YOU",
+  "title": "I LOVE YOU",
   "artist": "クリス・ハート",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5014,7 +5014,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. 路過人間",
+  "title": "路過人間",
   "artist": "郁可唯",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5022,7 +5022,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. To My Youth (Jap. ver)",
+  "title": "To My Youth (Jap. ver)",
   "artist": "Bolbbalgan4",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5030,7 +5030,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 他們說我是沒有用的年輕人",
+  "title": "他們說我是沒有用的年輕人",
   "artist": "好樂團GoodBand",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5038,7 +5038,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. 明日への手紙",
+  "title": "明日への手紙",
   "artist": "手嶌葵",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5046,7 +5046,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. 這是你期盼的長大嗎",
+  "title": "這是你期盼的長大嗎",
   "artist": "張齊山",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5054,7 +5054,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. BREATHE (Jap. ver)",
+  "title": "BREATHE (Jap. ver)",
   "artist": "Leehi",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5062,7 +5062,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. 那些年",
+  "title": "那些年",
   "artist": "胡夏",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5070,7 +5070,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "11. 六等星の夜",
+  "title": "六等星の夜",
   "artist": "Aimer",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5078,7 +5078,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "12. 小幸運",
+  "title": "小幸運",
   "artist": "田馥甄",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5086,7 +5086,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "13. 僕が死のうと思ったのは",
+  "title": "僕が死のうと思ったのは",
   "artist": "中島美嘉",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5094,7 +5094,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "14. 魚仔",
+  "title": "魚仔",
   "artist": "盧廣仲",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5102,7 +5102,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "15. 我要快樂",
+  "title": "我要快樂",
   "artist": "張惠妹",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5110,7 +5110,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. 恋",
+  "title": "恋",
   "artist": "星野源",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5118,7 +5118,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. 不醉不會",
+  "title": "不醉不會",
   "artist": "田馥甄",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5126,7 +5126,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. 三天三夜",
+  "title": "三天三夜",
   "artist": "張惠妹",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5134,7 +5134,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. 晴る",
+  "title": "晴る",
   "artist": "ヨルシカ",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5142,7 +5142,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. おジャ魔女カーニバル!!",
+  "title": "おジャ魔女カーニバル!!",
   "artist": "MAHO堂",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5150,7 +5150,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 墓仔埔也敢去",
+  "title": "墓仔埔也敢去",
   "artist": "伍佰",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5158,7 +5158,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. 神のまにまに",
+  "title": "神のまにまに",
   "artist": "れるりり feat.ミク & リン & GUMI",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5166,7 +5166,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. Mela!",
+  "title": "Mela!",
   "artist": "緑黄色社会",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5174,7 +5174,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. 第一天",
+  "title": "第一天",
   "artist": "孫燕姿",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5182,7 +5182,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. PONPONPON",
+  "title": "PONPONPON",
   "artist": "きゃりーぱみゅぱみゅ",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5190,7 +5190,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "11. only my railgun",
+  "title": "only my railgun",
   "artist": "fripSide",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5198,7 +5198,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. 你知道星星多重嗎-鄭興",
+  "title": "你知道星星多重嗎-鄭興",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5206,7 +5206,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. 花に亡霊-ヨルシカ",
+  "title": "花に亡霊-ヨルシカ",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5214,7 +5214,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. Fly Me To The Moon-Frank Sinatra",
+  "title": "Fly Me To The Moon-Frank Sinatra",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5222,7 +5222,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. 崇拜-梁靜茹",
+  "title": "崇拜-梁靜茹",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5230,7 +5230,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. シリウスの心臓-ヰ世界情緒",
+  "title": "シリウスの心臓-ヰ世界情緒",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5238,7 +5238,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 你不是第一個離開的人-鄧紫棋",
+  "title": "你不是第一個離開的人-鄧紫棋",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5246,7 +5246,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. 六等星の夜-Aimer",
+  "title": "六等星の夜-Aimer",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5254,7 +5254,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. 求救訊號-Vast & Hazy",
+  "title": "求救訊號-Vast & Hazy",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5262,7 +5262,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. deja vu-Olivia Rodrigo",
+  "title": "deja vu-Olivia Rodrigo",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5270,7 +5270,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. 心做し-蝶々P feat. GUMI",
+  "title": "心做し-蝶々P feat. GUMI",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5278,7 +5278,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "11. 路過人間-郁可唯",
+  "title": "路過人間-郁可唯",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5286,7 +5286,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "12. ドライフラワー-優里",
+  "title": "ドライフラワー-優里",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5294,7 +5294,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "13. 六等星-ざらめ",
+  "title": "六等星-ざらめ",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5302,7 +5302,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "14. 失落沙洲-徐佳瑩",
+  "title": "失落沙洲-徐佳瑩",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5310,7 +5310,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "15. メリーゴーランド-優里",
+  "title": "メリーゴーランド-優里",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5318,7 +5318,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "16. 也可以-閻奕格",
+  "title": "也可以-閻奕格",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5326,7 +5326,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "17. 無名-厄倫蒂兒",
+  "title": "無名-厄倫蒂兒",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5334,7 +5334,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. 恋-星野源",
+  "title": "恋-星野源",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5342,7 +5342,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. We Are! (ウィーアー!)-北谷洋",
+  "title": "We Are! (ウィーアー!)-北谷洋",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5350,7 +5350,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. 老闆吃我煎餃(未取名原創曲)-蒂兒",
+  "title": "老闆吃我煎餃(未取名原創曲)-蒂兒",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5358,7 +5358,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. 七彩的微風",
+  "title": "七彩的微風",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5366,7 +5366,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. 新時代-ADO",
+  "title": "新時代-ADO",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5374,7 +5374,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "11. 好想愛這個世界啊",
+  "title": "好想愛這個世界啊",
   "artist": "華晨宇",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5382,7 +5382,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 小さな恋のうた-MONGOL800",
+  "title": "小さな恋のうた-MONGOL800",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5390,7 +5390,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "13. Lemon",
+  "title": "Lemon",
   "artist": "米津玄師",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5398,7 +5398,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. 神っぽいな-DECO27",
+  "title": "神っぽいな-DECO27",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5406,7 +5406,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. アイドル-YOASOBI",
+  "title": "アイドル-YOASOBI",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5414,7 +5414,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. 你的微笑-F.I.R.飛兒樂團",
+  "title": "你的微笑-F.I.R.飛兒樂團",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5422,7 +5422,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "11. 千本桜-初音ミク",
+  "title": "千本桜-初音ミク",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5430,7 +5430,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "12. 自娛自樂-金志文",
+  "title": "自娛自樂-金志文",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5438,7 +5438,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "13. 不太確定這首是什麼 (原創曲嗎)",
+  "title": "不太確定這首是什麼 (原創曲嗎)",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5446,7 +5446,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. 埋-好樂團 Good Band",
+  "title": "埋-好樂團 Good Band",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5454,7 +5454,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. 月影-Aimer",
+  "title": "月影-Aimer",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5462,7 +5462,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. 六等星-ざらめ",
+  "title": "六等星-ざらめ",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5470,7 +5470,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. 最長的電影-周杰倫",
+  "title": "最長的電影-周杰倫",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5478,7 +5478,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. Pretender-Official髭男dism",
+  "title": "Pretender-Official髭男dism",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5486,7 +5486,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 黑暗的盡頭-Crispy脆樂團",
+  "title": "黑暗的盡頭-Crispy脆樂團",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5494,7 +5494,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. 雪の華-中島美嘉",
+  "title": "雪の華-中島美嘉",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5502,7 +5502,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. 如果可以-韋禮安",
+  "title": "如果可以-韋禮安",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5510,7 +5510,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. からくりピエロ-初音ミク",
+  "title": "からくりピエロ-初音ミク",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5518,7 +5518,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. 燈光-謝震廷",
+  "title": "燈光-謝震廷",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5526,7 +5526,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "11. メリーゴーランド-優里",
+  "title": "メリーゴーランド-優里",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5534,7 +5534,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "12. 葉子-阿桑",
+  "title": "葉子-阿桑",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5542,7 +5542,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "13. ちゃんとあるよ-可不",
+  "title": "ちゃんとあるよ-可不",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5550,7 +5550,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "14. 変わらないもの-奧華子",
+  "title": "変わらないもの-奧華子",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5558,7 +5558,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "15. 太陽-邱振哲",
+  "title": "太陽-邱振哲",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5566,7 +5566,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. 晚餐歌-tuki.",
+  "title": "晚餐歌-tuki.",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5574,7 +5574,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. いってらっしゃい-Ai Higuchi",
+  "title": "いってらっしゃい-Ai Higuchi",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5582,7 +5582,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. あなたにおくるアイの歌-EGOIST",
+  "title": "あなたにおくるアイの歌-EGOIST",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5590,7 +5590,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. 讓世界暫停一分鐘-G.E.M鄧紫棋",
+  "title": "讓世界暫停一分鐘-G.E.M鄧紫棋",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5598,7 +5598,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. かたちなきもの-ヰ世界情緒",
+  "title": "かたちなきもの-ヰ世界情緒",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5606,7 +5606,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 沒有我的那個宇宙-持修",
+  "title": "沒有我的那個宇宙-持修",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5614,7 +5614,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. 能不能請你別把我丟下-好樂團GoodBand",
+  "title": "能不能請你別把我丟下-好樂團GoodBand",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5622,7 +5622,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. 黑暗的盡頭-Crispy脆樂團",
+  "title": "黑暗的盡頭-Crispy脆樂團",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5630,7 +5630,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. 路過人間-郁可唯",
+  "title": "路過人間-郁可唯",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5638,7 +5638,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. 六等星の夜-Aimer",
+  "title": "六等星の夜-Aimer",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5646,7 +5646,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. となりのトトロ-井上杏美",
+  "title": "となりのトトロ-井上杏美",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5654,7 +5654,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. さんぽ-井上杏美",
+  "title": "さんぽ-井上杏美",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5662,7 +5662,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. 黑暗的盡頭-Crispy脆樂團",
+  "title": "黑暗的盡頭-Crispy脆樂團",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5670,7 +5670,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. 星屑の夜空-厄倫蒂兒 Earendel",
+  "title": "星屑の夜空-厄倫蒂兒 Earendel",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5678,7 +5678,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. 情歌-梁靜茹",
+  "title": "情歌-梁靜茹",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5686,7 +5686,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 晚餐歌-Tuki.",
+  "title": "晚餐歌-Tuki.",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5694,7 +5694,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. あなたにおくるアイの歌-EGOIST",
+  "title": "あなたにおくるアイの歌-EGOIST",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5702,7 +5702,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. いのちの名前-木村弓",
+  "title": "いのちの名前-木村弓",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5710,7 +5710,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. いつも何度でも-木村弓",
+  "title": "いつも何度でも-木村弓",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5718,7 +5718,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. 君をのせて-井上杏美",
+  "title": "君をのせて-井上杏美",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5726,7 +5726,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "11. テルの唄-手嶌葵",
+  "title": "テルの唄-手嶌葵",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5734,7 +5734,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "12. 六等星の夜-Aimer",
+  "title": "六等星の夜-Aimer",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5742,7 +5742,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. 殘響散歌-Aimer",
+  "title": "殘響散歌-Aimer",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5750,7 +5750,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. 老闆吃我煎餃(未取名原創曲)-蒂兒",
+  "title": "老闆吃我煎餃(未取名原創曲)-蒂兒",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5758,7 +5758,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. 想和你看五月的晚霞-陳華",
+  "title": "想和你看五月的晚霞-陳華",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5766,7 +5766,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. さんぽ-井上杏美",
+  "title": "さんぽ-井上杏美",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5774,7 +5774,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. いなりのトトロ-井上杏美",
+  "title": "いなりのトトロ-井上杏美",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5782,7 +5782,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 朝ごはんの歌-手嶌葵",
+  "title": "朝ごはんの歌-手嶌葵",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5790,7 +5790,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. 本当の恋-May J",
+  "title": "本当の恋-May J",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5798,7 +5798,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. APT-ROSÉ & Bruno Mars",
+  "title": "APT-ROSÉ & Bruno Mars",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5806,7 +5806,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. 六等星-Zarame",
+  "title": "六等星-Zarame",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5814,7 +5814,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. ハナミズキ-一青窈",
+  "title": "ハナミズキ-一青窈",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5822,7 +5822,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. 月影-Aimer",
+  "title": "月影-Aimer",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5830,7 +5830,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. 黑暗的盡頭-Crispy脆樂團",
+  "title": "黑暗的盡頭-Crispy脆樂團",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5838,7 +5838,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. シリウスの心臓-ヰ世界情緒",
+  "title": "シリウスの心臓-ヰ世界情緒",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5846,7 +5846,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. 我把我的青春給你-好樂團 GoodBand",
+  "title": "我把我的青春給你-好樂團 GoodBand",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5854,7 +5854,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 六等星の夜-Aimer",
+  "title": "六等星の夜-Aimer",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5862,7 +5862,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. あなたにおくるアイの歌-EGOIST",
+  "title": "あなたにおくるアイの歌-EGOIST",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5870,7 +5870,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. いのちの名前-木村弓",
+  "title": "いのちの名前-木村弓",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5878,7 +5878,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. 星象儀-大塚愛",
+  "title": "星象儀-大塚愛",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5886,7 +5886,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. ひまわりの約束-秦基博",
+  "title": "ひまわりの約束-秦基博",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5894,7 +5894,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. 尋人啟事-徐佳瑩",
+  "title": "尋人啟事-徐佳瑩",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5902,7 +5902,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. sercret base 君がくねたもの-ZONE",
+  "title": "sercret base 君がくねたもの-ZONE",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5910,7 +5910,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. 這是你期待的長大嗎-張齊山",
+  "title": "這是你期待的長大嗎-張齊山",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5918,7 +5918,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. オレンジ-7!!",
+  "title": "オレンジ-7!!",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5926,7 +5926,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. 我的一個道姑朋友-雙笙",
+  "title": "我的一個道姑朋友-雙笙",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5934,7 +5934,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. ソラゴト-明透",
+  "title": "ソラゴト-明透",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5942,7 +5942,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. 騙-張碧晨",
+  "title": "騙-張碧晨",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5950,7 +5950,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. 晚餐歌-Tuki.",
+  "title": "晚餐歌-Tuki.",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5958,7 +5958,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. 暮色迴響-吉星出租",
+  "title": "暮色迴響-吉星出租",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5966,7 +5966,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. 心做し-GUMI",
+  "title": "心做し-GUMI",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5974,7 +5974,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "11. 你知道星星多重嗎-鄭興",
+  "title": "你知道星星多重嗎-鄭興",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5982,7 +5982,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "12. 突然好想你-五月天",
+  "title": "突然好想你-五月天",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5990,7 +5990,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. Groovy!-廣瀨香美",
+  "title": "Groovy!-廣瀨香美",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -5998,7 +5998,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. Platinum-坂本真綾",
+  "title": "Platinum-坂本真綾",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -6006,7 +6006,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. Good Moring (おはよう)-Miura Jam",
+  "title": "Good Moring (おはよう)-Miura Jam",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -6014,7 +6014,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. Natural Is The Best (天然的最好)-盧廣仲",
+  "title": "Natural Is The Best (天然的最好)-盧廣仲",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -6022,7 +6022,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. KiLLER LADY-Kurokumo",
+  "title": "KiLLER LADY-Kurokumo",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -6030,7 +6030,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 鳥の詩-Lia",
+  "title": "鳥の詩-Lia",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -6038,7 +6038,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. Butter-Fly-和田光司",
+  "title": "Butter-Fly-和田光司",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -6046,7 +6046,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. 人質-張惠妹",
+  "title": "人質-張惠妹",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -6054,7 +6054,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. 崇拜-梁靜茹",
+  "title": "崇拜-梁靜茹",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -6062,7 +6062,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. 未取名原創曲-蒂兒",
+  "title": "未取名原創曲-蒂兒",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -6070,7 +6070,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. 月影-Aimer",
+  "title": "月影-Aimer",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -6078,7 +6078,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. Have a Nice Day-魏如萱",
+  "title": "Have a Nice Day-魏如萱",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -6086,7 +6086,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 老闆吃我煎餃-蒂兒",
+  "title": "老闆吃我煎餃-蒂兒",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -6094,7 +6094,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. 下雨的晚上-黃玠",
+  "title": "下雨的晚上-黃玠",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -6102,7 +6102,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. 埋-好樂團GoodBand",
+  "title": "埋-好樂團GoodBand",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -6110,7 +6110,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. Fly Me To The Moon-Kaye Ballard",
+  "title": "Fly Me To The Moon-Kaye Ballard",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -6118,7 +6118,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. Stay With Me-松原美紀",
+  "title": "Stay With Me-松原美紀",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -6126,7 +6126,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "11. いってらっしゃい-樋口愛",
+  "title": "いってらっしゃい-樋口愛",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -6134,7 +6134,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "12. あなたにおくるアイの歌-EGOIST",
+  "title": "あなたにおくるアイの歌-EGOIST",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -6142,7 +6142,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "13. 路過人間-郁可唯",
+  "title": "路過人間-郁可唯",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -6150,7 +6150,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "14. Let It Go-Idina Menzel",
+  "title": "Let It Go-Idina Menzel",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -6158,7 +6158,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "15. Let It Go-台語版",
+  "title": "Let It Go-台語版",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -6166,7 +6166,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. 粛聖!! ロリ神レクイエム-しぐれうい",
+  "title": "粛聖!! ロリ神レクイエム-しぐれうい",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
@@ -6174,7 +6174,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. 福寿草-初音ミク",
+  "title": "福寿草-初音ミク",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6182,7 +6182,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. rain stop, good-bye-初音ミク",
+  "title": "rain stop, good-bye-初音ミク",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6190,7 +6190,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. World on Colour-初音ミク",
+  "title": "World on Colour-初音ミク",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6198,7 +6198,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. ひとつの国のリラ-初音ミク",
+  "title": "ひとつの国のリラ-初音ミク",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6206,7 +6206,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. メリュー-初音ミク",
+  "title": "メリュー-初音ミク",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6214,7 +6214,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. World Is Mine-初音ミク",
+  "title": "World Is Mine-初音ミク",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6222,7 +6222,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. 四季折の羽-ゆめこ",
+  "title": "四季折の羽-ゆめこ",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6230,7 +6230,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. トリノコシティ-初音ミク",
+  "title": "トリノコシティ-初音ミク",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6238,7 +6238,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. 炉心融解-鏡音リン",
+  "title": "炉心融解-鏡音リン",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6246,7 +6246,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. 愛情≪Carnation-初音ミク",
+  "title": "愛情≪Carnation-初音ミク",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6254,7 +6254,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "11. サンドリヨン-初音ミク & KAITO",
+  "title": "サンドリヨン-初音ミク & KAITO",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6262,7 +6262,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "12. サリシノハラ-初音ミク",
+  "title": "サリシノハラ-初音ミク",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6270,7 +6270,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "13. ヨウジュウナナ-初音ミク",
+  "title": "ヨウジュウナナ-初音ミク",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6278,7 +6278,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "14. アカイト-初音ミク",
+  "title": "アカイト-初音ミク",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6286,7 +6286,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "15. 星の唄-GUMI",
+  "title": "星の唄-GUMI",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6294,7 +6294,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "16. Tell Your World-初音ミク",
+  "title": "Tell Your World-初音ミク",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6302,7 +6302,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "17. 月陽 -ツキアカリ-初音ミク",
+  "title": "月陽 -ツキアカリ-初音ミク",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6310,7 +6310,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "18. Shake it-Emon",
+  "title": "Shake it-Emon",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6318,7 +6318,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "19. 心做し-GUMI",
+  "title": "心做し-GUMI",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6326,7 +6326,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "20. Rolling Girl-初音ミク",
+  "title": "Rolling Girl-初音ミク",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6334,7 +6334,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "21. おじゃま虫-初音ミク",
+  "title": "おじゃま虫-初音ミク",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6342,7 +6342,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "22. またあした-初音ミク",
+  "title": "またあした-初音ミク",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6350,7 +6350,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. Bleeding Love-里歐娜·路易斯",
+  "title": "Bleeding Love-里歐娜·路易斯",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6358,7 +6358,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. 全世界誰傾聽你-林宥嘉",
+  "title": "全世界誰傾聽你-林宥嘉",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6366,7 +6366,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. フィナーレ。-eill",
+  "title": "フィナーレ。-eill",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6374,7 +6374,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. 我曾遇到一束光-葉斯淳",
+  "title": "我曾遇到一束光-葉斯淳",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6382,7 +6382,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. For フルーツバスケット-岡崎律子",
+  "title": "For フルーツバスケット-岡崎律子",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6390,7 +6390,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 刻在我心底的名字-盧廣仲",
+  "title": "刻在我心底的名字-盧廣仲",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6398,7 +6398,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. 下雨天-南拳媽媽",
+  "title": "下雨天-南拳媽媽",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6406,7 +6406,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. 暮色迴響-吉星出租",
+  "title": "暮色迴響-吉星出租",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6414,7 +6414,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. ありがとう-KOKIA",
+  "title": "ありがとう-KOKIA",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6422,7 +6422,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "10. 總會有人-向思思",
+  "title": "總會有人-向思思",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6430,7 +6430,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "01. 小さな祈り-岡崎律子",
+  "title": "小さな祈り-岡崎律子",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6438,7 +6438,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "02. 買你-魏如萱",
+  "title": "買你-魏如萱",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6446,7 +6446,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "03. 可愛くてごめん-ちゅーたん（CV：早見沙織）",
+  "title": "可愛くてごめん-ちゅーたん（CV：早見沙織）",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6454,7 +6454,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "04. 姍姍來遲的你-林宥嘉",
+  "title": "姍姍來遲的你-林宥嘉",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6462,7 +6462,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "05. 暮色迴響-張韶涵",
+  "title": "暮色迴響-張韶涵",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6470,7 +6470,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "06. 変わらないもの-奧華子",
+  "title": "変わらないもの-奧華子",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6478,7 +6478,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "07. 風になる-辻亞彌乃",
+  "title": "風になる-辻亞彌乃",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6486,7 +6486,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "08. 小さな恋のうた-MONGOL800",
+  "title": "小さな恋のうた-MONGOL800",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6494,7 +6494,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "09. 晴る-ヨルシカ",
+  "title": "晴る-ヨルシカ",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
@@ -6502,7 +6502,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-06] 01. 埋",
+  "title": "01. 埋",
   "artist": "好樂團GoodBand",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6510,7 +6510,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-06] 02. ちゃんとあるよ",
+  "title": "02. ちゃんとあるよ",
   "artist": "可不",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6518,7 +6518,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-06] 03. 求救信號",
+  "title": "03. 求救信號",
   "artist": "VH (Vast & Hazy)",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6526,7 +6526,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-06] 04. 風のゆくえ",
+  "title": "04. 風のゆくえ",
   "artist": "Ado",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6534,7 +6534,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-06] 05. 斑馬斑馬",
+  "title": "05. 斑馬斑馬",
   "artist": "宋冬野",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6542,7 +6542,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-06] 06. 晚餐歌",
+  "title": "06. 晚餐歌",
   "artist": "tuki.",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6550,7 +6550,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-06] 07. 親愛的不要哭",
+  "title": "07. 親愛的不要哭",
   "artist": "于冬然",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6558,7 +6558,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-06] 08. 親愛的不要哭（清唱）",
+  "title": "08. 親愛的不要哭（清唱）",
   "artist": "于冬然",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6566,7 +6566,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-06] 09. 歌に形はないけれど",
+  "title": "09. 歌に形はないけれど",
   "artist": "Doriko ft. 初音ミク",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6574,7 +6574,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-06] 10. 求救信號",
+  "title": "10. 求救信號",
   "artist": "VH (Vast & Hazy) (響Hibiki 鋼琴ver.)",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6582,7 +6582,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-06] 11. A Thousand Years",
+  "title": "11. A Thousand Years",
   "artist": "Christina Perri",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6590,7 +6590,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-06] 12. 小王",
+  "title": "12. 小王",
   "artist": "毛不易",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6598,7 +6598,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-06] 13. 失落沙洲",
+  "title": "13. 失落沙洲",
   "artist": "徐佳瑩 (再一次)",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6606,7 +6606,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-06] 14. 路過人間",
+  "title": "14. 路過人間",
   "artist": "郁可唯",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6614,7 +6614,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-06] 15. 六等星の夜",
+  "title": "15. 六等星の夜",
   "artist": "Aimer",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6622,7 +6622,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-10] 01. プラチナ",
+  "title": "01. プラチナ",
   "artist": "カードキャプターさくら",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6630,7 +6630,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-10] 02. コネクト",
+  "title": "02. コネクト",
   "artist": "ClariS",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6638,7 +6638,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-10] 03. SUN",
+  "title": "03. SUN",
   "artist": "星野源",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6646,7 +6646,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-10] 04. 天然的最好",
+  "title": "04. 天然的最好",
   "artist": "盧廣仲",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6654,7 +6654,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-10] 05. God knows",
+  "title": "05. God knows",
   "artist": "平野綾",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6662,7 +6662,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-10] 06. Catch You Catch Me",
+  "title": "06. Catch You Catch Me",
   "artist": "日向惠",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6670,7 +6670,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-10] 07. BON VOYAGE!",
+  "title": "07. BON VOYAGE!",
   "artist": "Bon-Bon Blanco",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6678,7 +6678,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-10] 08. となりのトトロ",
+  "title": "08. となりのトトロ",
   "artist": "井上あずみ",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6686,7 +6686,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-10] 09. おジャ魔女カーニバル!!",
+  "title": "09. おジャ魔女カーニバル!!",
   "artist": "MAHO堂",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6694,7 +6694,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-10] 10. 暁の車",
+  "title": "10. 暁の車",
   "artist": "FictionJunction",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6702,7 +6702,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-10] 11. 暁の車（清唱版）",
+  "title": "11. 暁の車（清唱版）",
   "artist": "FictionJunction",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6710,7 +6710,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-10] 12. 暮色迴響",
+  "title": "12. 暮色迴響",
   "artist": "吉星出租",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6718,7 +6718,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-10] 13. ウィーアー! (We Are!)",
+  "title": "13. ウィーアー! (We Are!)",
   "artist": "北谷洋",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6726,7 +6726,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-10] 14. 新時代",
+  "title": "14. 新時代",
   "artist": "Ado",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6734,7 +6734,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-10] 15. 群青",
+  "title": "15. 群青",
   "artist": "YOASOBI",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6742,7 +6742,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-10] 16. Episode X（一小段）",
+  "title": "16. Episode X（一小段）",
   "artist": "Ado",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6750,7 +6750,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-10] 17. 残酷な天使のテーゼ",
+  "title": "17. 残酷な天使のテーゼ",
   "artist": "高橋洋子",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6758,7 +6758,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-10] 18. 小幸運",
+  "title": "18. 小幸運",
   "artist": "田馥甄",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6766,7 +6766,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-10] 19. Butter-Fly",
+  "title": "19. Butter-Fly",
   "artist": "和田光司",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6774,7 +6774,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-13] 01. 孤獨的總和",
+  "title": "01. 孤獨的總和",
   "artist": "吳汶芳",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6782,7 +6782,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-13] 02. 明日への手紙",
+  "title": "02. 明日への手紙",
   "artist": "手嶌葵",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6790,7 +6790,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-13] 03. 能不能請你別把我丟下",
+  "title": "03. 能不能請你別把我丟下",
   "artist": "好樂團Goodband",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6798,7 +6798,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-13] 04. オレンジ",
+  "title": "04. オレンジ",
   "artist": "7!!",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6806,7 +6806,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-13] 05. 願溫柔的你被世界溫柔以待",
+  "title": "05. 願溫柔的你被世界溫柔以待",
   "artist": "綠繡眼Zos",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6814,7 +6814,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-13] 06. Older",
+  "title": "06. Older",
   "artist": "Sasha Alex Sloan",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6822,7 +6822,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-13] 07. 言不由衷",
+  "title": "07. 言不由衷",
   "artist": "徐佳瑩(再一次)",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6830,7 +6830,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-13] 08. 言不由衷（清唱版）",
+  "title": "08. 言不由衷（清唱版）",
   "artist": "徐佳瑩",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6838,7 +6838,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-13] 09. 人間だった",
+  "title": "09. 人間だった",
   "artist": "ピコン ft. 初音ミク",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6846,7 +6846,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-13] 10. 星屑ビーナス",
+  "title": "10. 星屑ビーナス",
   "artist": "Aimer",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6854,7 +6854,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-13] 11. 身後",
+  "title": "11. 身後",
   "artist": "張惠妹",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6862,7 +6862,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-13] 12. 身後（清唱版）",
+  "title": "12. 身後（清唱版）",
   "artist": "張惠妹",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6870,7 +6870,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-13] 13. secret base ～君がくれたもの",
+  "title": "13. secret base ～君がくれたもの",
   "artist": "ZONE",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6878,7 +6878,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-13] 14. 晴る",
+  "title": "14. 晴る",
   "artist": "ヨルシカ",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6886,7 +6886,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-13] 15. 安和橋",
+  "title": "15. 安和橋",
   "artist": "宋冬野",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6894,7 +6894,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-13] 16. 消愁",
+  "title": "16. 消愁",
   "artist": "毛不易",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6902,7 +6902,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-13] 17. 像我這樣的人",
+  "title": "17. 像我這樣的人",
   "artist": "毛不易",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6910,7 +6910,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-13] 18. テルーの唄",
+  "title": "18. テルーの唄",
   "artist": "手嶌葵",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6918,7 +6918,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-13] 19. 下雨的晚上",
+  "title": "19. 下雨的晚上",
   "artist": "黃玠",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6926,7 +6926,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-19] 01. 想放假 (老闆偷吃我煎餃)",
+  "title": "01. 想放假 (老闆偷吃我煎餃)",
   "artist": "蒂兒",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6934,7 +6934,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-19] 02. 星屑の夜空",
+  "title": "02. 星屑の夜空",
   "artist": "蒂兒",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6942,7 +6942,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-19] 03. Butter-Fly",
+  "title": "03. Butter-Fly",
   "artist": "和田光司",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6950,7 +6950,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-19] 04. 買你",
+  "title": "04. 買你",
   "artist": "魏如萱",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6958,7 +6958,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-20] 01. 埋",
+  "title": "01. 埋",
   "artist": "好樂團 GoodBand",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6966,7 +6966,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-20] 02. ちゃんとあるよ",
+  "title": "02. ちゃんとあるよ",
   "artist": "可不kafu",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6974,7 +6974,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-20] 03. 我愛你，卻不能拯救你",
+  "title": "03. 我愛你，卻不能拯救你",
   "artist": "好樂團 GoodBand",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6982,7 +6982,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-20] 04. レオ",
+  "title": "04. レオ",
   "artist": "優里",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6990,7 +6990,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-20] 05. 希望你回來",
+  "title": "05. 希望你回來",
   "artist": "TRASH",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -6998,7 +6998,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-20] 06. 一番の宝物",
+  "title": "06. 一番の宝物",
   "artist": "Lia (再一次)",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -7006,7 +7006,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-20] 07. 這是你期盼的長大嗎",
+  "title": "07. 這是你期盼的長大嗎",
   "artist": "張齊山",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -7014,7 +7014,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-20] 08. 想幸福的人（清唱版）",
+  "title": "08. 想幸福的人（清唱版）",
   "artist": "楊丞琳",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -7022,7 +7022,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-20] 09. 優しい人（清唱版）",
+  "title": "09. 優しい人（清唱版）",
   "artist": "猫アレルギー",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -7030,7 +7030,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-20] 10. 僕が死のうと思ったのは",
+  "title": "10. 僕が死のうと思ったのは",
   "artist": "中島美嘉",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -7038,7 +7038,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-20] 11. 我們一樣可惜",
+  "title": "11. 我們一樣可惜",
   "artist": "好樂團 GoodBand",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -7046,7 +7046,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-20] 12. secret base 〜君がくれたもの",
+  "title": "12. secret base 〜君がくれたもの",
   "artist": "ZONE",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -7054,7 +7054,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-27] 01. 不難",
+  "title": "01. 不難",
   "artist": "徐佳瑩 [BV1ZXNeeAEqZ_p1]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -7062,7 +7062,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-27] 02. Departures ～あなたにおくるアイの歌～",
+  "title": "02. Departures ～あなたにおくるアイの歌～",
   "artist": "EGOIST [BV1ZXNeeAEqZ_p2]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -7070,7 +7070,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-27] 03. 如果那通電話有接通",
+  "title": "03. 如果那通電話有接通",
   "artist": "DIOR大穎 [BV1ZXNeeAEqZ_p3]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -7078,7 +7078,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-27] 04. メリーゴーランド",
+  "title": "04. メリーゴーランド",
   "artist": "優里 [BV1ZXNeeAEqZ_p4]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -7086,7 +7086,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-27] 05. 小幸運",
+  "title": "05. 小幸運",
   "artist": "田馥甄 [BV1ZXNeeAEqZ_p5]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -7094,7 +7094,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-27] 06. Answer",
+  "title": "06. Answer",
   "artist": "幾田りら [BV1ZXNeeAEqZ_p6]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -7102,7 +7102,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-27] 07. 推開世界的門",
+  "title": "07. 推開世界的門",
   "artist": "楊乃文 [BV1ZXNeeAEqZ_p7]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -7110,7 +7110,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-27] 08. A Thousand Years",
+  "title": "08. A Thousand Years",
   "artist": "Christina Perri [BV1ZXNeeAEqZ_p8]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -7118,7 +7118,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-27] 09. 未命名原創曲",
+  "title": "09. 未命名原創曲",
   "artist": "蒂兒 [BV1ZXNeeAEqZ_p9]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -7126,7 +7126,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-27] 10. 迴避型人格",
+  "title": "10. 迴避型人格",
   "artist": "蒂兒 [BV1ZXNeeAEqZ_p10]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -7134,7 +7134,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-27] 11. I Love You",
+  "title": "11. I Love You",
   "artist": "クリス・ハート [BV1ZXNeeAEqZ_p11]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -7142,7 +7142,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-27] 12. 500天",
+  "title": "12. 500天",
   "artist": "九九 [BV1ZXNeeAEqZ_p12]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -7150,7 +7150,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-27] 13. ドライフラワー",
+  "title": "13. ドライフラワー",
   "artist": "優里 [BV1ZXNeeAEqZ_p13]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -7158,7 +7158,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-27] 14. 太陽",
+  "title": "14. 太陽",
   "artist": "邱振哲 [BV1ZXNeeAEqZ_p14]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -7166,7 +7166,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-27] 15. Stay With Me",
+  "title": "15. Stay With Me",
   "artist": "松原美紀 [BV1ZXNeeAEqZ_p15]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -7174,7 +7174,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-27] 16. 路過人間",
+  "title": "16. 路過人間",
   "artist": "郁可唯 [BV1ZXNeeAEqZ_p16]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -7182,7 +7182,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-01-27] 17. また あした",
+  "title": "17. また あした",
   "artist": "ふわりP ft. 初音ミク [BV1ZXNeeAEqZ_p17]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
@@ -7190,7 +7190,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-03] 01. 人質",
+  "title": "01. 人質",
   "artist": "張惠妹 [BV1ZXNeeAEqZ_p18]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7198,7 +7198,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-03] 02. わたしと君とを繋ぐもの",
+  "title": "02. わたしと君とを繋ぐもの",
   "artist": "初音ミク [BV1ZXNeeAEqZ_p19]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7206,7 +7206,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-03] 03. 蒲公英的約定",
+  "title": "03. 蒲公英的約定",
   "artist": "周杰倫 [BV1ZXNeeAEqZ_p20]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7214,7 +7214,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-03] 04. 六等星の夜",
+  "title": "04. 六等星の夜",
   "artist": "Aimer [BV1ZXNeeAEqZ_p21]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7222,7 +7222,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-03] 05. 我曾遇到一束光",
+  "title": "05. 我曾遇到一束光",
   "artist": "葉斯淳 [BV1ZXNeeAEqZ_p22]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7230,7 +7230,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-03] 06. ひまわりの約束",
+  "title": "06. ひまわりの約束",
   "artist": "秦基博 [BV1ZXNeeAEqZ_p23]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7238,7 +7238,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-03] 07. 我喜歡你",
+  "title": "07. 我喜歡你",
   "artist": "洪安妮 [BV1ZXNeeAEqZ_p24]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7246,7 +7246,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-03] 08. いのちの名前",
+  "title": "08. いのちの名前",
   "artist": "木村弓 [BV1ZXNeeAEqZ_p25]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7254,7 +7254,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-03] 09. 愛你[BV1ZXNeeAEqZ_p26]",
+  "title": "09. 愛你[BV1ZXNeeAEqZ_p26]",
   "artist": "来源处未提供标准格式歌手",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7262,7 +7262,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-03] 10. たからもの",
+  "title": "10. たからもの",
   "artist": "こむろゆい [BV1ZXNeeAEqZ_p27]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7270,7 +7270,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-03] 11. 月光",
+  "title": "11. 月光",
   "artist": "王心凌 [BV1ZXNeeAEqZ_p28]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7278,7 +7278,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-03] 12. 天ノ弱",
+  "title": "12. 天ノ弱",
   "artist": "Akie秋繪 [BV1ZXNeeAEqZ_p29]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7286,7 +7286,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-03] 13. 我懷念的",
+  "title": "13. 我懷念的",
   "artist": "孫燕姿 [BV1ZXNeeAEqZ_p30]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7294,7 +7294,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-03] 14. 晚餐歌",
+  "title": "14. 晚餐歌",
   "artist": "Tuki. [BV1ZXNeeAEqZ_p31]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7302,7 +7302,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-03] 15. 暮色迴響",
+  "title": "15. 暮色迴響",
   "artist": "吉星出租 [BV1ZXNeeAEqZ_p32]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7310,7 +7310,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-03] 16. 風のゆくえ",
+  "title": "16. 風のゆくえ",
   "artist": "Ado [BV1ZXNeeAEqZ_p33]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7318,7 +7318,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-03] 17. 逆光",
+  "title": "17. 逆光",
   "artist": "孫燕姿 [BV1ZXNeeAEqZ_p34]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7326,7 +7326,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-03] 18. シリウスの心臓",
+  "title": "18. シリウスの心臓",
   "artist": "ヰ世界情緒 [BV1ZXNeeAEqZ_p35]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7334,7 +7334,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-03] 19. 好想愛這個世界啊",
+  "title": "19. 好想愛這個世界啊",
   "artist": "華晨宇 [BV1ZXNeeAEqZ_p36]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7342,7 +7342,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-03] 20. For フルーツバスケット",
+  "title": "20. For フルーツバスケット",
   "artist": "岡崎律子 [BV1ZXNeeAEqZ_p37]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7350,7 +7350,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-03] 21. 買你",
+  "title": "21. 買你",
   "artist": "魏如萱 [BV1ZXNeeAEqZ_p38]",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7358,7 +7358,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-09] 01. 言って",
+  "title": "01. 言って",
   "artist": "ヨルシカ",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7366,7 +7366,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-09] 02. Catch You Catch Me",
+  "title": "02. Catch You Catch Me",
   "artist": "日向惠",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7374,7 +7374,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-09] 03. 別找我麻煩",
+  "title": "03. 別找我麻煩",
   "artist": "蔡健雅",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7382,7 +7382,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-09] 04. SUN",
+  "title": "04. SUN",
   "artist": "星野源",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7390,7 +7390,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-09] 05. 月光",
+  "title": "05. 月光",
   "artist": "王心凌",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7398,7 +7398,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-09] 06. 星星降落的某個地方",
+  "title": "06. 星星降落的某個地方",
   "artist": "蒂兒 (再一次)",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7406,7 +7406,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-09] 07. 晴る",
+  "title": "07. 晴る",
   "artist": "ヨルシカ",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7414,7 +7414,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-09] 08. ムーンライト伝説",
+  "title": "08. ムーンライト伝説",
   "artist": "DALI",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7422,7 +7422,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-09] 09. ゆずれない願い",
+  "title": "09. ゆずれない願い",
   "artist": "田村直美",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7430,7 +7430,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-09] 10. Believe",
+  "title": "10. Believe",
   "artist": "Folder5",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7438,7 +7438,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-09] 11. はじまりの風",
+  "title": "11. はじまりの風",
   "artist": "平原綾香",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7446,7 +7446,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-09] 12. 勇気100%",
+  "title": "12. 勇気100%",
   "artist": "光GENJI",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7454,7 +7454,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-09] 13. Groovy!",
+  "title": "13. Groovy!",
   "artist": "廣瀨香美",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7462,7 +7462,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-09] 14. となりのトトロ",
+  "title": "14. となりのトトロ",
   "artist": "井上あずみ",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7470,7 +7470,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-09] 15. 鳥の詩",
+  "title": "15. 鳥の詩",
   "artist": "Lia",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7478,7 +7478,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-09] 16. 君をのせて",
+  "title": "16. 君をのせて",
   "artist": "井上あずみ",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7486,7 +7486,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-09] 17. 君をのせて（钢琴版）",
+  "title": "17. 君をのせて（钢琴版）",
   "artist": "井上あずみ",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7494,7 +7494,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-09] 18. 新時代",
+  "title": "18. 新時代",
   "artist": "Ado",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7502,7 +7502,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-09] 19. Only my railgun",
+  "title": "19. Only my railgun",
   "artist": "南條愛乃",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7510,7 +7510,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-09] 20. Butterfly",
+  "title": "20. Butterfly",
   "artist": "和田光司",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7518,7 +7518,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-10] 01. いつも何度でも",
+  "title": "01. いつも何度でも",
   "artist": "木村弓",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7526,7 +7526,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-10] 02. 行星",
+  "title": "02. 行星",
   "artist": "理想混蛋",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7534,7 +7534,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-10] 03. もののけ姫",
+  "title": "03. もののけ姫",
   "artist": "大瀧若菜",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7542,7 +7542,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-10] 04. もののけ姫（清唱版）",
+  "title": "04. もののけ姫（清唱版）",
   "artist": "大瀧若菜",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7550,7 +7550,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-10] 05. 籠",
+  "title": "05. 籠",
   "artist": "張碧晨",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7558,7 +7558,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-10] 06. ソラゴト",
+  "title": "06. ソラゴト",
   "artist": "明透",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7566,7 +7566,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-10] 07. 最幸褔的事",
+  "title": "07. 最幸褔的事",
   "artist": "梁文音",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7574,7 +7574,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-10] 08. secret base 〜君がくれたもの",
+  "title": "08. secret base 〜君がくれたもの",
   "artist": "ZONE",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7582,7 +7582,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-10] 09. 我睡不著",
+  "title": "09. 我睡不著",
   "artist": "守夜人",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7590,7 +7590,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-10] 10. 我睡不著（清唱版）",
+  "title": "10. 我睡不著（清唱版）",
   "artist": "守夜人",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7598,7 +7598,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-10] 11. 一番の宝物",
+  "title": "11. 一番の宝物",
   "artist": "Lia",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7606,7 +7606,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-10] 12. 你知道星星多重嗎",
+  "title": "12. 你知道星星多重嗎",
   "artist": "鄭興",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7614,7 +7614,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-10] 13. 花は桜 君は美し",
+  "title": "13. 花は桜 君は美し",
   "artist": "いきものがかり",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7622,7 +7622,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-10] 14. 這是你期盼的長大嗎",
+  "title": "14. 這是你期盼的長大嗎",
   "artist": "張齊山ZQS",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7630,7 +7630,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-10] 15. 黑暗的盡頭",
+  "title": "15. 黑暗的盡頭",
   "artist": "Crispy脆樂團",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7638,7 +7638,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-10] 16. 晴る",
+  "title": "16. 晴る",
   "artist": "ヨロシカ",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7646,7 +7646,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-10] 17. 刻在你心底的名字",
+  "title": "17. 刻在你心底的名字",
   "artist": "盧廣仲",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7654,7 +7654,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-10] 18. 六等星の夜",
+  "title": "18. 六等星の夜",
   "artist": "Aimer",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7662,7 +7662,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-10] 19. 孤獨的總和",
+  "title": "19. 孤獨的總和",
   "artist": "吳汶芳",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7670,7 +7670,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-10] 20. 孤獨的總和（清唱版）",
+  "title": "20. 孤獨的總和（清唱版）",
   "artist": "吳汶芳",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7678,7 +7678,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-17] 01. 旋木",
+  "title": "01. 旋木",
   "artist": "王菲",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7686,7 +7686,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-17] 02. 六等星",
+  "title": "02. 六等星",
   "artist": "ざらめ",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7694,7 +7694,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-17] 03. 雨天",
+  "title": "03. 雨天",
   "artist": "孫燕姿",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7702,7 +7702,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-17] 04. 雨天（清唱一小段）",
+  "title": "04. 雨天（清唱一小段）",
   "artist": "孫燕姿",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7710,7 +7710,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-17] 05. 僕が死のうと思ったのは",
+  "title": "05. 僕が死のうと思ったのは",
   "artist": "中島美嘉",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7718,7 +7718,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-17] 06. 魚在水裏哭",
+  "title": "06. 魚在水裏哭",
   "artist": "深白色二人組",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7726,7 +7726,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-17] 07. 魚在水裏哭（清唱一小段）",
+  "title": "07. 魚在水裏哭（清唱一小段）",
   "artist": "深白色二人組",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7734,7 +7734,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-17] 08. 晩餐歌",
+  "title": "08. 晩餐歌",
   "artist": "tuki.",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7742,7 +7742,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-17] 09. 一直很安靜",
+  "title": "09. 一直很安靜",
   "artist": "阿桑 (再一次)",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7750,7 +7750,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-17] 10. Refrain",
+  "title": "10. Refrain",
   "artist": "Aimer",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7758,7 +7758,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-17] 11. 星屑の夜空",
+  "title": "11. 星屑の夜空",
   "artist": "蒂兒",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7766,7 +7766,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-17] 12. 在加納共和國離婚",
+  "title": "12. 在加納共和國離婚",
   "artist": "菲道爾 & DIOR大穎 (再一次)",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7774,7 +7774,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-17] 13. 六等星の夜",
+  "title": "13. 六等星の夜",
   "artist": "Aimer",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7782,7 +7782,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-17] 14. 下雨的晚上",
+  "title": "14. 下雨的晚上",
   "artist": "黃玠",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7790,7 +7790,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-17] 15. 買你",
+  "title": "15. 買你",
   "artist": "魏如萱",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7798,7 +7798,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-24] 01. 燈光",
+  "title": "01. 燈光",
   "artist": "謝震廷",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7806,7 +7806,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-24] 02. 逢いたくていま（清唱一小段）",
+  "title": "02. 逢いたくていま（清唱一小段）",
   "artist": "MISIA",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7814,7 +7814,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-24] 03. 逢いたくていま",
+  "title": "03. 逢いたくていま",
   "artist": "MISIA",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7822,7 +7822,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-24] 04. 你還是你嗎",
+  "title": "04. 你還是你嗎",
   "artist": "魏如萱",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7830,7 +7830,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-24] 05. 世界の約束",
+  "title": "05. 世界の約束",
   "artist": "倍賞千恵子",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7838,7 +7838,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-24] 06. 暖暖",
+  "title": "06. 暖暖",
   "artist": "梁靜茹",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7846,7 +7846,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-24] 07. 暖暖（清唱一小段）",
+  "title": "07. 暖暖（清唱一小段）",
   "artist": "梁靜茹",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7854,7 +7854,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-24] 08. 星屑の夜空",
+  "title": "08. 星屑の夜空",
   "artist": "蒂兒",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7862,7 +7862,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-24] 09. 有一種悲傷",
+  "title": "09. 有一種悲傷",
   "artist": "A-Lin (再一次)",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7870,7 +7870,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-24] 10. secret base ～君がくれたもの～",
+  "title": "10. secret base ～君がくれたもの～",
   "artist": "ZONE",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7878,7 +7878,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-24] 11. 總會有人",
+  "title": "11. 總會有人",
   "artist": "向思思",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7886,7 +7886,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-24] 12. 總會有人（清唱一小段）",
+  "title": "12. 總會有人（清唱一小段）",
   "artist": "向思思",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7894,7 +7894,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-24] 13. 僕が死のうと思ったのは",
+  "title": "13. 僕が死のうと思ったのは",
   "artist": "中島美嘉",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7902,7 +7902,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-24] 14. 六等星の夜",
+  "title": "14. 六等星の夜",
   "artist": "Aimer",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7910,7 +7910,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-24] 15. 歌に形はないけれど",
+  "title": "15. 歌に形はないけれど",
   "artist": "Doriko ft. 初音ミク",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7918,7 +7918,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-02-24] 16. 下雨的夜晚",
+  "title": "16. 下雨的夜晚",
   "artist": "蘇打綠",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
@@ -7926,7 +7926,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-03] 01. 言不由衷",
+  "title": "01. 言不由衷",
   "artist": "徐佳瑩",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -7934,7 +7934,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-03] 02. secret base 〜君がくれたもの",
+  "title": "02. secret base 〜君がくれたもの",
   "artist": "ZONE",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -7942,7 +7942,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-03] 03. 行星",
+  "title": "03. 行星",
   "artist": "理想混蛋",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -7950,7 +7950,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-03] 04. 行星（清唱版）",
+  "title": "04. 行星（清唱版）",
   "artist": "理想混蛋",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -7958,7 +7958,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-03] 05. 也可以",
+  "title": "05. 也可以",
   "artist": "閻奕格",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -7966,7 +7966,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-03] 06. 六等星",
+  "title": "06. 六等星",
   "artist": "ざらめ",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -7974,7 +7974,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-03] 07. 晩餐歌",
+  "title": "07. 晩餐歌",
   "artist": "tuki.",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -7982,7 +7982,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-03] 08. 你還是你嗎",
+  "title": "08. 你還是你嗎",
   "artist": "魏如萱",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -7990,7 +7990,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-03] 09. 落日",
+  "title": "09. 落日",
   "artist": "東京事變",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -7998,7 +7998,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-03] 10. I LOVE YOU",
+  "title": "10. I LOVE YOU",
   "artist": "クリス・ハート",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8006,7 +8006,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-03] 11. 黑暗的盡頭",
+  "title": "11. 黑暗的盡頭",
   "artist": "Crispy脆樂團",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8014,7 +8014,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-03] 12. 黑暗的盡頭（清唱版）",
+  "title": "12. 黑暗的盡頭（清唱版）",
   "artist": "Crispy脆樂團",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8022,7 +8022,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-03] 13. ピエロ",
+  "title": "13. ピエロ",
   "artist": "伊東歌詞太郎",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8030,7 +8030,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-03] 14. 總會有人",
+  "title": "14. 總會有人",
   "artist": "向思思",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8038,7 +8038,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-03] 15. 紅豆（清唱版）",
+  "title": "15. 紅豆（清唱版）",
   "artist": "王菲",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8046,7 +8046,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-03] 16. 紅豆",
+  "title": "16. 紅豆",
   "artist": "王菲",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8054,7 +8054,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-03] 17. 消愁",
+  "title": "17. 消愁",
   "artist": "毛不易",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8062,7 +8062,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-03] 18. 小さきもの",
+  "title": "18. 小さきもの",
   "artist": "林明日香",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8070,7 +8070,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-03] 19. 暮色迴響",
+  "title": "19. 暮色迴響",
   "artist": "吉星出租",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8078,7 +8078,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-03] 20. 暮色迴響（清唱版）",
+  "title": "20. 暮色迴響（清唱版）",
   "artist": "吉星出租",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8086,7 +8086,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-10] 01. 好久不見",
+  "title": "01. 好久不見",
   "artist": "陳奕迅",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8094,7 +8094,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-10] 02. 好久不見（清唱版）",
+  "title": "02. 好久不見（清唱版）",
   "artist": "陳奕迅",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8102,7 +8102,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-10] 03. 花に亡霊",
+  "title": "03. 花に亡霊",
   "artist": "ヨルシカ",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8110,7 +8110,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-10] 04. 長大以後",
+  "title": "04. 長大以後",
   "artist": "Vising",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8118,7 +8118,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-10] 05. 長大以後（清唱版）",
+  "title": "05. 長大以後（清唱版）",
   "artist": "Vising",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8126,7 +8126,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-10] 06. 僕が死のうと思ったのは",
+  "title": "06. 僕が死のうと思ったのは",
   "artist": "中島美嘉",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8134,7 +8134,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-10] 07. 魚在水裡哭",
+  "title": "07. 魚在水裡哭",
   "artist": "深白色二人組",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8142,7 +8142,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-10] 08. 魚在水裡哭（清唱版）",
+  "title": "08. 魚在水裡哭（清唱版）",
   "artist": "深白色二人組",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8150,7 +8150,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-10] 09. メリーゴーランド",
+  "title": "09. メリーゴーランド",
   "artist": "優里",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8158,7 +8158,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-10] 10. 求救信號",
+  "title": "10. 求救信號",
   "artist": "VH (Vast & Hazy)",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8166,7 +8166,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-10] 11. 夢と葉桜",
+  "title": "11. 夢と葉桜",
   "artist": "初音ミク",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8174,7 +8174,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-10] 12. 夢と葉桜（清唱版）",
+  "title": "12. 夢と葉桜（清唱版）",
   "artist": "初音ミク",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8182,7 +8182,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-10] 13. 這是你期盼的長大嗎",
+  "title": "13. 這是你期盼的長大嗎",
   "artist": "張齊山 ZQS",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8190,7 +8190,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-10] 14. 六等星",
+  "title": "14. 六等星",
   "artist": "ざらめ",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8198,7 +8198,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-10] 15. 我曾經遇到的一束光",
+  "title": "15. 我曾經遇到的一束光",
   "artist": "葉斯淳",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8206,7 +8206,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-10] 16. ちゃんとあるよ",
+  "title": "16. ちゃんとあるよ",
   "artist": "kafu 可不",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8214,7 +8214,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-10] 17. 全世界誰傾聽你",
+  "title": "17. 全世界誰傾聽你",
   "artist": "林宥嘉",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8222,7 +8222,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-10] 18. 行走的魚",
+  "title": "18. 行走的魚",
   "artist": "徐佳瑩",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8230,7 +8230,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-10] 19. いのちの名前",
+  "title": "19. いのちの名前",
   "artist": "木村弓",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8238,7 +8238,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-10] 20. 倒帶",
+  "title": "20. 倒帶",
   "artist": "蔡依林",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8246,7 +8246,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-10] 21. 下雨的晚上",
+  "title": "21. 下雨的晚上",
   "artist": "黃玠",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8254,7 +8254,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-15] 01. 想和你看五月的晚霞",
+  "title": "01. 想和你看五月的晚霞",
   "artist": "陳華",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8262,7 +8262,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-15] 02. 致姍姍來遲的你",
+  "title": "02. 致姍姍來遲的你",
   "artist": "阿肆 & 林宥嘉",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8270,7 +8270,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-15] 03. 致姍姍來遲的你（清唱版）",
+  "title": "03. 致姍姍來遲的你（清唱版）",
   "artist": "阿肆 & 林宥嘉",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8278,7 +8278,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-15] 04. ワールドイズマイン",
+  "title": "04. ワールドイズマイン",
   "artist": "Supercell ft. 初音ミク",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8286,7 +8286,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-15] 05. 小さな恋のうた",
+  "title": "05. 小さな恋のうた",
   "artist": "MONGOL800",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8294,7 +8294,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-17] 01. 讓世界暫停一分鐘",
+  "title": "01. 讓世界暫停一分鐘",
   "artist": "G.E.M.鄧紫棋",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8302,7 +8302,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-17] 02. もう頑張らないで",
+  "title": "02. もう頑張らないで",
   "artist": "ASA",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8310,7 +8310,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-17] 03. 火金姑",
+  "title": "03. 火金姑",
   "artist": "吳汶芳",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8318,7 +8318,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-17] 04. ひまわりの約束",
+  "title": "04. ひまわりの約束",
   "artist": "秦基博",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8326,7 +8326,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-17] 05. 今天就做回小孩吧",
+  "title": "05. 今天就做回小孩吧",
   "artist": "承桓",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8334,7 +8334,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-17] 06. 夢と葉桜",
+  "title": "06. 夢と葉桜",
   "artist": "初音ミク",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8342,7 +8342,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-17] 07. 夢と葉桜（清唱版）",
+  "title": "07. 夢と葉桜（清唱版）",
   "artist": "初音ミク",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8350,7 +8350,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-17] 08. 迴避型人格",
+  "title": "08. 迴避型人格",
   "artist": "蒂兒",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8358,7 +8358,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-17] 09. 迴避型人格（清唱版）",
+  "title": "09. 迴避型人格（清唱版）",
   "artist": "蒂兒",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8366,7 +8366,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-17] 10. 與浪之間",
+  "title": "10. 與浪之間",
   "artist": "VH (Vast & Hazy)",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8374,7 +8374,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-17] 11. 晩餐歌",
+  "title": "11. 晩餐歌",
   "artist": "tuki.",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8382,7 +8382,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-17] 12. 崇拜",
+  "title": "12. 崇拜",
   "artist": "梁靜茹",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8390,7 +8390,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-17] 13. 崇拜（清唱版）",
+  "title": "13. 崇拜（清唱版）",
   "artist": "梁靜茹",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8398,7 +8398,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-17] 14. 瞬き",
+  "title": "14. 瞬き",
   "artist": "back number",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8406,7 +8406,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-17] 15. 十年",
+  "title": "15. 十年",
   "artist": "陳奕迅",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8414,7 +8414,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-17] 16. 十年（清唱版）",
+  "title": "16. 十年（清唱版）",
   "artist": "陳奕迅",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8422,7 +8422,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-17] 17. Avid",
+  "title": "17. Avid",
   "artist": "SawanoHiroyuki[nZk]mizuki",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8430,7 +8430,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-17] 18. 走了嗎",
+  "title": "18. 走了嗎",
   "artist": "張若凡",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8438,7 +8438,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-17] 19. 買你",
+  "title": "19. 買你",
   "artist": "魏如萱",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8446,7 +8446,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-23] 01. となりのトトロ",
+  "title": "01. となりのトトロ",
   "artist": "井上あずみ",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8454,7 +8454,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-23] 02. 君をのせて",
+  "title": "02. 君をのせて",
   "artist": "井上あずみ",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8462,7 +8462,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-23] 03. 星座になれたら",
+  "title": "03. 星座になれたら",
   "artist": "結束バンド",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8470,7 +8470,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-23] 04. WWW",
+  "title": "04. WWW",
   "artist": "ヒメヒナ",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8478,7 +8478,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-23] 05. 神のまにまに",
+  "title": "05. 神のまにまに",
   "artist": "れるりり ft. 初音ミク & 鏡音リン & GUMI",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8486,7 +8486,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-23] 06. 怪獣の花唄",
+  "title": "06. 怪獣の花唄",
   "artist": "Vaundy",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8494,7 +8494,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-23] 07. 晴る",
+  "title": "07. 晴る",
   "artist": "ヨルシカ",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8502,7 +8502,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-23] 08. 世界上最重要的人",
+  "title": "08. 世界上最重要的人",
   "artist": "韋禮安",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8510,7 +8510,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-23] 09. 買你",
+  "title": "09. 買你",
   "artist": "魏如萱",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8518,7 +8518,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-23] 10. いーあるふぁんくらぶ",
+  "title": "10. いーあるふぁんくらぶ",
   "artist": "みきとP ft. GUMI・鏡音リン",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8526,7 +8526,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-23] 11. 七彩的微風",
+  "title": "11. 七彩的微風",
   "artist": "珍珠美人魚",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8534,7 +8534,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-23] 12. アイのシナリオ",
+  "title": "12. アイのシナリオ",
   "artist": "CHiCO with HoneyWorks",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8542,7 +8542,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-23] 13. ブルーバード",
+  "title": "13. ブルーバード",
   "artist": "いきものがかり",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8550,7 +8550,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-23] 14. 月陽-ツキアカリ-",
+  "title": "14. 月陽-ツキアカリ-",
   "artist": "みきとP ft. GUMI",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8558,7 +8558,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-23] 15. 小さな恋のうた",
+  "title": "15. 小さな恋のうた",
   "artist": "MONGOL800",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8566,7 +8566,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-23] 16. 新時代",
+  "title": "16. 新時代",
   "artist": "ADO",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8574,7 +8574,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-23] 17. 自娛自樂",
+  "title": "17. 自娛自樂",
   "artist": "金志文",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8582,7 +8582,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-23] 18. 我喜歡你",
+  "title": "18. 我喜歡你",
   "artist": "洪安妮",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8590,7 +8590,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-23] 19. 喜歡你",
+  "title": "19. 喜歡你",
   "artist": "徐佳瑩",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8598,7 +8598,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-23] 20. Butter Fly",
+  "title": "20. Butter Fly",
   "artist": "和田光司",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8606,7 +8606,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-23] 21. 春泥棒",
+  "title": "21. 春泥棒",
   "artist": "ヨルシカ",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8614,7 +8614,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-23] 22. Shake it!",
+  "title": "22. Shake it!",
   "artist": "emon (Tes.) ft. 初音ミク・鏡音リン・レン",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8622,7 +8622,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-23] 23. 残響散歌",
+  "title": "23. 残響散歌",
   "artist": "Aimer",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8630,7 +8630,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-24] 01. ただ君に晴れ",
+  "title": "01. ただ君に晴れ",
   "artist": "ヨルシカ",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8638,7 +8638,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-24] 02. ただ君に晴れ（清唱版）",
+  "title": "02. ただ君に晴れ（清唱版）",
   "artist": "ヨルシカ",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8646,7 +8646,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-24] 03. 言不由衷",
+  "title": "03. 言不由衷",
   "artist": "徐佳瑩",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8654,7 +8654,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-24] 04. ドライフラワー",
+  "title": "04. ドライフラワー",
   "artist": "優里",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8662,7 +8662,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-24] 05. 太空",
+  "title": "05. 太空",
   "artist": "吳青峰",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8670,7 +8670,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-24] 06. 太空（清唱版）",
+  "title": "06. 太空（清唱版）",
   "artist": "吳青峰",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8678,7 +8678,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-24] 07. 明日晴れるかな",
+  "title": "07. 明日晴れるかな",
   "artist": "桑田佳佑",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8686,7 +8686,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-24] 08. 明日晴れるかな（清唱版）",
+  "title": "08. 明日晴れるかな（清唱版）",
   "artist": "桑田佳佑",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8694,7 +8694,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-24] 09. 這是你期盼的長大嗎",
+  "title": "09. 這是你期盼的長大嗎",
   "artist": "張齊山ZQS",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8702,7 +8702,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-24] 10. 未命名原創曲",
+  "title": "10. 未命名原創曲",
   "artist": "蒂兒",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8710,7 +8710,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-24] 11. 後來（清唱版）",
+  "title": "11. 後來（清唱版）",
   "artist": "劉若英",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8718,7 +8718,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-24] 12. lemon",
+  "title": "12. lemon",
   "artist": "米津玄師",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8726,7 +8726,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-24] 13. 500天",
+  "title": "13. 500天",
   "artist": "九九",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8734,7 +8734,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-24] 14. 身騎白馬",
+  "title": "14. 身騎白馬",
   "artist": "徐佳瑩",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8742,7 +8742,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-24] 15. 身騎白馬（清唱版）",
+  "title": "15. 身騎白馬（清唱版）",
   "artist": "徐佳瑩",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8750,7 +8750,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-24] 16. 寶貝",
+  "title": "16. 寶貝",
   "artist": "張懸",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8758,7 +8758,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-24] 17. departures~あなたにおくるアイの歌~",
+  "title": "17. departures~あなたにおくるアイの歌~",
   "artist": "EGOIST",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8766,7 +8766,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-24] 18. 心做し",
+  "title": "18. 心做し",
   "artist": "蝶々P ft. GUMI",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8774,7 +8774,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-24] 19. 下雨的晚上",
+  "title": "19. 下雨的晚上",
   "artist": "黃玠",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8782,7 +8782,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-31] 01. 斑馬，斑馬",
+  "title": "01. 斑馬，斑馬",
   "artist": "宋冬野",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8790,7 +8790,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-31] 02. 地球儀",
+  "title": "02. 地球儀",
   "artist": "米津玄師",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8798,7 +8798,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-31] 03. 不為誰而作的歌",
+  "title": "03. 不為誰而作的歌",
   "artist": "林俊傑",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8806,7 +8806,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-31] 04. letter song",
+  "title": "04. letter song",
   "artist": "Akie秋繪",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8814,7 +8814,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-31] 05. 愛人錯過",
+  "title": "05. 愛人錯過",
   "artist": "告五人",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8822,7 +8822,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-31] 06. オレンジ",
+  "title": "06. オレンジ",
   "artist": "7!!",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8830,7 +8830,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-31] 07. オレンジ（清唱版）",
+  "title": "07. オレンジ（清唱版）",
   "artist": "7!!",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8838,7 +8838,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-31] 08. 連名帶姓",
+  "title": "08. 連名帶姓",
   "artist": "張惠妹",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8846,7 +8846,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-31] 09. 連名帶姓（清唱版）",
+  "title": "09. 連名帶姓（清唱版）",
   "artist": "張惠妹",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8854,7 +8854,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-31] 10. 僕が死のうと思ったのは",
+  "title": "10. 僕が死のうと思ったのは",
   "artist": "中島美嘉",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8862,7 +8862,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-31] 11. 僕が死のうと思ったのは（清唱版）",
+  "title": "11. 僕が死のうと思ったのは（清唱版）",
   "artist": "中島美嘉",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8870,7 +8870,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-31] 12. 歌に形はないけれど",
+  "title": "12. 歌に形はないけれど",
   "artist": "Doriko ft. 初音ミク",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8878,7 +8878,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-31] 13. 你還是你嗎",
+  "title": "13. 你還是你嗎",
   "artist": "魏如萱",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8886,7 +8886,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-31] 14. 使一顆心免於哀傷 If I Can Stop One Heart From Breaking",
+  "title": "14. 使一顆心免於哀傷 If I Can Stop One Heart From Breaking",
   "artist": "知更鳥 (Chevy)",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8894,7 +8894,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-31] 15. 還是要幸福",
+  "title": "15. 還是要幸福",
   "artist": "田馥甄",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8902,7 +8902,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-31] 16. 我們一樣可惜",
+  "title": "16. 我們一樣可惜",
   "artist": "好樂團",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8910,7 +8910,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-31] 17. 天ノ弱",
+  "title": "17. 天ノ弱",
   "artist": "Akie秋繪",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8918,7 +8918,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-31] 18. 你知道星星多重嗎",
+  "title": "18. 你知道星星多重嗎",
   "artist": "鄭興",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8926,7 +8926,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-03-31] 19. 你知道星星多重嗎（清唱版）",
+  "title": "19. 你知道星星多重嗎（清唱版）",
   "artist": "鄭興",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
@@ -8934,7 +8934,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-07] 01. 葉子",
+  "title": "01. 葉子",
   "artist": "阿桑 (再一次)",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -8942,7 +8942,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-07] 02. 六等星",
+  "title": "02. 六等星",
   "artist": "ざらめ",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -8950,7 +8950,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-07] 03. 時間都去哪兒了",
+  "title": "03. 時間都去哪兒了",
   "artist": "姚貝娜",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -8958,7 +8958,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-07] 04. 贖罪",
+  "title": "04. 贖罪",
   "artist": "傘村トータ ft. VOCALOIDs",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -8966,7 +8966,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-07] 05. 好想愛這個世界啊",
+  "title": "05. 好想愛這個世界啊",
   "artist": "華晨宇",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -8974,7 +8974,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-07] 06. ピエロ",
+  "title": "06. ピエロ",
   "artist": "鹿乃",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -8982,7 +8982,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-07] 07. 總會有人",
+  "title": "07. 總會有人",
   "artist": "向思思",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -8990,7 +8990,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-07] 08. 僕が死のうと思ったのは",
+  "title": "08. 僕が死のうと思ったのは",
   "artist": "中島美嘉",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -8998,7 +8998,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-07] 09. 你還是你嗎",
+  "title": "09. 你還是你嗎",
   "artist": "魏如萱",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9006,7 +9006,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-07] 10. 私の思春期へ",
+  "title": "10. 私の思春期へ",
   "artist": "臉紅的思春期",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9014,7 +9014,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-07] 11. 也可以",
+  "title": "11. 也可以",
   "artist": "閻奕格",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9022,7 +9022,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-14] 01. 路過人間",
+  "title": "01. 路過人間",
   "artist": "郁可唯",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9030,7 +9030,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-14] 02. 生きてるだけでえらいよ",
+  "title": "02. 生きてるだけでえらいよ",
   "artist": "ReoNa",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9038,7 +9038,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-14] 03. 蒲公英的約定",
+  "title": "03. 蒲公英的約定",
   "artist": "周杰倫",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9046,7 +9046,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-14] 04. 心做し",
+  "title": "04. 心做し",
   "artist": "蝶々P ft. GUMI",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9054,7 +9054,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-14] 05. 埋",
+  "title": "05. 埋",
   "artist": "好樂團GoodBand",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9062,7 +9062,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-14] 06. 一番の寶物",
+  "title": "06. 一番の寶物",
   "artist": "LiSA",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9070,7 +9070,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-14] 07. 一番の寶物（清唱）",
+  "title": "07. 一番の寶物（清唱）",
   "artist": "LiSA",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9078,7 +9078,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-14] 08. 人啊",
+  "title": "08. 人啊",
   "artist": "徐佳瑩",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9086,7 +9086,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-14] 09. 人啊（清唱）",
+  "title": "09. 人啊（清唱）",
   "artist": "徐佳瑩",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9094,7 +9094,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-14] 10. 落日",
+  "title": "10. 落日",
   "artist": "東京事變",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9102,7 +9102,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-14] 11. 這是你期盼的長大嗎",
+  "title": "11. 這是你期盼的長大嗎",
   "artist": "張齊山ZQS",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9110,7 +9110,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-14] 12. 求救訊號",
+  "title": "12. 求救訊號",
   "artist": "VH (Vast & Hazy)",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9118,7 +9118,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-14] 13. A Thousand Years",
+  "title": "13. A Thousand Years",
   "artist": "Christina Perri",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9126,7 +9126,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-14] 14. 六等星の夜",
+  "title": "14. 六等星の夜",
   "artist": "Aimer",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9134,7 +9134,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-14] 15. 買你",
+  "title": "15. 買你",
   "artist": "魏如萱",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9142,7 +9142,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-21] 01. nuit",
+  "title": "01. nuit",
   "artist": "春野 ft. 初音ミク",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9150,7 +9150,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-21] 02. 最幸福的事",
+  "title": "02. 最幸福的事",
   "artist": "梁文音",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9158,7 +9158,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-21] 03. 最終花",
+  "title": "03. 最終花",
   "artist": "藍璃 かんな",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9166,7 +9166,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-21] 04. 流浪記",
+  "title": "04. 流浪記",
   "artist": "紀曉君",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9174,7 +9174,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-21] 05. 流浪記（清唱）",
+  "title": "05. 流浪記（清唱）",
   "artist": "紀曉君",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9182,7 +9182,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-21] 06. 歌に形はないけれど",
+  "title": "06. 歌に形はないけれど",
   "artist": "doriko ft. 初音ミク",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9190,7 +9190,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-21] 07. 身後",
+  "title": "07. 身後",
   "artist": "張惠妹",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9198,7 +9198,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-21] 08. 身後（清唱）",
+  "title": "08. 身後（清唱）",
   "artist": "張惠妹",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9206,7 +9206,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-21] 09. かたちなきもの",
+  "title": "09. かたちなきもの",
   "artist": "ヰ世界情緒",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9214,7 +9214,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-21] 10. 人質",
+  "title": "10. 人質",
   "artist": "張惠妹",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9222,7 +9222,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-21] 11. Departures 〜あなたにおくるアイの歌〜",
+  "title": "11. Departures 〜あなたにおくるアイの歌〜",
   "artist": "EGOIST",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9230,7 +9230,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-21] 12. 嘉賓",
+  "title": "12. 嘉賓",
   "artist": "張遠",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9238,7 +9238,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-21] 13. I LOVE YOU",
+  "title": "13. I LOVE YOU",
   "artist": "クリス・ハート",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9246,7 +9246,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-21] 15. 夜明けと蛍",
+  "title": "15. 夜明けと蛍",
   "artist": "初音ミク",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9254,7 +9254,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-21] 16. 失落沙洲",
+  "title": "16. 失落沙洲",
   "artist": "徐佳瑩",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9262,7 +9262,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-21] 17. 路過人間",
+  "title": "17. 路過人間",
   "artist": "郁可唯",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9270,7 +9270,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-21] 18. 你還是你嗎",
+  "title": "18. 你還是你嗎",
   "artist": "魏如萱",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9278,7 +9278,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-24] 01. For フルーツバスケット",
+  "title": "01. For フルーツバスケット",
   "artist": "岡崎律子",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9286,7 +9286,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-24] 02. いのちの名前",
+  "title": "02. いのちの名前",
   "artist": "木村弓",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9294,7 +9294,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-24] 03. 変わらないもの",
+  "title": "03. 変わらないもの",
   "artist": "奧華子",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9302,7 +9302,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-24] 04. 人質",
+  "title": "04. 人質",
   "artist": "張惠妹",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9310,7 +9310,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-24] 05. 迴避型人格",
+  "title": "05. 迴避型人格",
   "artist": "蒂兒 (再一次)",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9318,7 +9318,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-24] 06. 斑馬，斑馬",
+  "title": "06. 斑馬，斑馬",
   "artist": "宋冬野",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9326,7 +9326,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-24] 07. テルーの唄",
+  "title": "07. テルーの唄",
   "artist": "手嶌葵",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9334,7 +9334,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-24] 08. わたしのつばさ",
+  "title": "08. わたしのつばさ",
   "artist": "中司雅美",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9342,7 +9342,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-24] 09. 一直很安靜",
+  "title": "09. 一直很安靜",
   "artist": "阿桑",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9350,7 +9350,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-24] 10. 一直很安靜（清唱）",
+  "title": "10. 一直很安靜（清唱）",
   "artist": "阿桑",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9358,7 +9358,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-24] 11. 晩餐歌",
+  "title": "11. 晩餐歌",
   "artist": "tuki.",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9366,7 +9366,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-24] 12. 言不由衷",
+  "title": "12. 言不由衷",
   "artist": "徐佳瑩",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9374,7 +9374,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-24] 13. 小幸運",
+  "title": "13. 小幸運",
   "artist": "田馥甄",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9382,7 +9382,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-24] 14. 下雨的夜晚",
+  "title": "14. 下雨的夜晚",
   "artist": "蘇打綠",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9390,7 +9390,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-24] 15. 下雨的夜晚（清唱）",
+  "title": "15. 下雨的夜晚（清唱）",
   "artist": "蘇打綠",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9398,7 +9398,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-04-24] 16. Departures 〜あなたにおくるアイの歌〜",
+  "title": "16. Departures 〜あなたにおくるアイの歌〜",
   "artist": "EGOIST",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
@@ -9406,7 +9406,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-02] 01. ハナミズキ",
+  "title": "01. ハナミズキ",
   "artist": "一青窈",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9414,7 +9414,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-02] 02. ハナミズキ（清唱）",
+  "title": "02. ハナミズキ（清唱）",
   "artist": "一青窈",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9422,7 +9422,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-02] 03. 魚在水𥚃哭",
+  "title": "03. 魚在水𥚃哭",
   "artist": "深白色二人組",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9430,7 +9430,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-02] 04. Fly Me To The Moon",
+  "title": "04. Fly Me To The Moon",
   "artist": "Kaye Ballard",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9438,7 +9438,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-02] 05. letter song",
+  "title": "05. letter song",
   "artist": "Akie秋絵",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9446,7 +9446,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-02] 06. 還是要幸福",
+  "title": "06. 還是要幸福",
   "artist": "田馥甄",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9454,7 +9454,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-02] 07. わたしのつばさ",
+  "title": "07. わたしのつばさ",
   "artist": "中司雅美",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9462,7 +9462,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-02] 08. 你還是你嗎",
+  "title": "08. 你還是你嗎",
   "artist": "魏如萱",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9470,7 +9470,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-02] 09. 也可以",
+  "title": "09. 也可以",
   "artist": "閻奕格",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9478,7 +9478,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-02] 10. Departures ～あなたにおくるアイの歌～",
+  "title": "10. Departures ～あなたにおくるアイの歌～",
   "artist": "EGOIST",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9486,7 +9486,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-02] 11. 黑暗的盡頭",
+  "title": "11. 黑暗的盡頭",
   "artist": "Crispy脆樂團",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9494,7 +9494,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-02] 12. 黑暗的盡頭（清唱）",
+  "title": "12. 黑暗的盡頭（清唱）",
   "artist": "Crispy脆樂團",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9502,7 +9502,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-02] 13. 求救信號",
+  "title": "13. 求救信號",
   "artist": "VH (Vast & Hazy)",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9510,7 +9510,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-02] 14. 這是你期盼的長大嗎",
+  "title": "14. 這是你期盼的長大嗎",
   "artist": "張齊山ZQS",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9518,7 +9518,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-02] 15. 這是你期盼的長大嗎（清唱）",
+  "title": "15. 這是你期盼的長大嗎（清唱）",
   "artist": "張齊山ZQS",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9526,7 +9526,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-02] 16. 11",
+  "title": "16. 11",
   "artist": "隊長 (再一次)",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9534,7 +9534,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-02] 17. 僕が死のうと思ったのは",
+  "title": "17. 僕が死のうと思ったのは",
   "artist": "中島美嘉",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9542,7 +9542,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-02] 18. 總會有人",
+  "title": "18. 總會有人",
   "artist": "向思思",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9550,7 +9550,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-02] 19. 總會有人（清唱）",
+  "title": "19. 總會有人（清唱）",
   "artist": "向思思",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9558,7 +9558,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-02] 20. 幾分之幾",
+  "title": "20. 幾分之幾",
   "artist": "盧廣仲",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9566,7 +9566,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-02] 21. 下雨的晚上",
+  "title": "21. 下雨的晚上",
   "artist": "黃玠",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9574,7 +9574,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-05] 01. 雨天",
+  "title": "01. 雨天",
   "artist": "孫燕姿",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9582,7 +9582,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-05] 02. 雨天（清唱）",
+  "title": "02. 雨天（清唱）",
   "artist": "孫燕姿",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9590,7 +9590,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-05] 03. 永遠のあくる日",
+  "title": "03. 永遠のあくる日",
   "artist": "Ado",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9598,7 +9598,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-05] 04. 沒有我的那個宇宙",
+  "title": "04. 沒有我的那個宇宙",
   "artist": "持修",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9606,7 +9606,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-05] 05. もう頑張らないで",
+  "title": "05. もう頑張らないで",
   "artist": "ASA",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9614,7 +9614,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-05] 06. 眼淚記得你",
+  "title": "06. 眼淚記得你",
   "artist": "孫盛希 (再一次)",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9622,7 +9622,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-05] 07. 僕が死のうと思ったのは",
+  "title": "07. 僕が死のうと思ったのは",
   "artist": "中島美嘉",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9630,7 +9630,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-05] 08. 燈光",
+  "title": "08. 燈光",
   "artist": "謝震廷",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9638,7 +9638,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-05] 09. ひまわりの約束",
+  "title": "09. ひまわりの約束",
   "artist": "秦基博",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9646,7 +9646,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-05] 10. 下一個天亮",
+  "title": "10. 下一個天亮",
   "artist": "郭靜",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9654,7 +9654,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-05] 11. 星屑の夜空",
+  "title": "11. 星屑の夜空",
   "artist": "蒂兒",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9662,7 +9662,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-05] 12. 行星",
+  "title": "12. 行星",
   "artist": "理想混蛋",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9670,7 +9670,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-05] 13. 你還是你嗎",
+  "title": "13. 你還是你嗎",
   "artist": "魏如萱",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9678,7 +9678,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-05] 14. 心做し",
+  "title": "14. 心做し",
   "artist": "蝶々P ft. GUMI",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9686,7 +9686,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-05] 15. 記得帶走",
+  "title": "15. 記得帶走",
   "artist": "徐佳瑩",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9694,7 +9694,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-05] 16. 記得帶走（清唱）",
+  "title": "16. 記得帶走（清唱）",
   "artist": "徐佳瑩",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9702,7 +9702,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-05] 17. 世界の約束",
+  "title": "17. 世界の約束",
   "artist": "倍賞千恵子",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9710,7 +9710,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-12] 01. 人間だった",
+  "title": "01. 人間だった",
   "artist": "ピコン ft. 初音ミク",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9718,7 +9718,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-12] 02. 使一顆心免於哀傷",
+  "title": "02. 使一顆心免於哀傷",
   "artist": "Chevy (知更鳥)",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9726,7 +9726,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-12] 03. 總會有人",
+  "title": "03. 總會有人",
   "artist": "向思思",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9734,7 +9734,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-12] 04. Ash Again",
+  "title": "04. Ash Again",
   "artist": "Gawr Gura",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9742,7 +9742,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-12] 05. 人啊",
+  "title": "05. 人啊",
   "artist": "徐佳瑩",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9750,7 +9750,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-12] 06. オレンジ",
+  "title": "06. オレンジ",
   "artist": "7!!",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9758,7 +9758,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-12] 07. 像我這樣的人",
+  "title": "07. 像我這樣的人",
   "artist": "毛不易",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9766,7 +9766,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-12] 08. ちゃんとあるよ",
+  "title": "08. ちゃんとあるよ",
   "artist": "可不 kafu",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9774,7 +9774,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-12] 09. 只怕想家",
+  "title": "09. 只怕想家",
   "artist": "黃美珍",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9782,7 +9782,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-12] 10. 変わらないもの",
+  "title": "10. 変わらないもの",
   "artist": "奥華子",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9790,7 +9790,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-12] 11. 逃避型人格",
+  "title": "11. 逃避型人格",
   "artist": "蒂兒",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9798,7 +9798,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-12] 12. 火金姑",
+  "title": "12. 火金姑",
   "artist": "吳汶芳",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9806,7 +9806,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-12] 13. 拋物線",
+  "title": "13. 拋物線",
   "artist": "蔡健雅",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9814,7 +9814,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-12] 14. 晩餐歌",
+  "title": "14. 晩餐歌",
   "artist": "tuki.",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9822,7 +9822,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-12] 15. 給我一個理由忘記",
+  "title": "15. 給我一個理由忘記",
   "artist": "A-Lin",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9830,7 +9830,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-12] 16. 水星記",
+  "title": "16. 水星記",
   "artist": "郭頂",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9838,7 +9838,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-12] 17. Avid",
+  "title": "17. Avid",
   "artist": "SawanoHiroyuki[nZk]mizuki",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9846,7 +9846,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-12] 18. 暮色迴響",
+  "title": "18. 暮色迴響",
   "artist": "吉星出租",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9854,7 +9854,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-12] 19. 明日への手紙",
+  "title": "19. 明日への手紙",
   "artist": "手嶌葵",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9862,7 +9862,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-19] 01. 埋",
+  "title": "01. 埋",
   "artist": "好樂團 Good Band",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9870,7 +9870,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-19] 02. 366日",
+  "title": "02. 366日",
   "artist": "HY",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9878,7 +9878,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-19] 03. 記得回來",
+  "title": "03. 記得回來",
   "artist": "韋禮安",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9886,7 +9886,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-19] 04. メリーゴーランド",
+  "title": "04. メリーゴーランド",
   "artist": "優里",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9894,7 +9894,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-19] 05. 能不能請你別把我丟下",
+  "title": "05. 能不能請你別把我丟下",
   "artist": "好樂團 Good Band",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9902,7 +9902,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-19] 06. 僕が死のうと思ったのは",
+  "title": "06. 僕が死のうと思ったのは",
   "artist": "中島美嘉",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9910,7 +9910,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-19] 07. 下雨天",
+  "title": "07. 下雨天",
   "artist": "南拳媽媽",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9918,7 +9918,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-19] 08. プラネタリウム",
+  "title": "08. プラネタリウム",
   "artist": "大塚愛",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9926,7 +9926,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-19] 09. 最幸福的事",
+  "title": "09. 最幸福的事",
   "artist": "梁文音",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9934,7 +9934,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-19] 10. シリウスの心臓",
+  "title": "10. シリウスの心臓",
   "artist": "ヰ世界情緒",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9942,7 +9942,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-19] 11. 斑馬，斑馬",
+  "title": "11. 斑馬，斑馬",
   "artist": "宋冬野",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9950,7 +9950,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-19] 12. 也可以",
+  "title": "12. 也可以",
   "artist": "閻奕格",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9958,7 +9958,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-19] 13. 藍悼花",
+  "title": "13. 藍悼花",
   "artist": "Lucia",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9966,7 +9966,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-19] 14. 給我一個理由忘記",
+  "title": "14. 給我一個理由忘記",
   "artist": "A-Lin",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9974,7 +9974,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-19] 15. 失戀無罪",
+  "title": "15. 失戀無罪",
   "artist": "A-Lin",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9982,7 +9982,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-19] 16. 買你",
+  "title": "16. 買你",
   "artist": "魏如萱",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9990,7 +9990,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-26] 01. 好久不見",
+  "title": "01. 好久不見",
   "artist": "陳奕迅",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -9998,7 +9998,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-26] 02. 今はいいんだよ",
+  "title": "02. 今はいいんだよ",
   "artist": "MIMI ft. 可不",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -10006,7 +10006,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-26] 03. 我也曾經想過這樣殺了我自己",
+  "title": "03. 我也曾經想過這樣殺了我自己",
   "artist": "南西肯恩",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -10014,7 +10014,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-26] 04. 粉雪",
+  "title": "04. 粉雪",
   "artist": "Remioromen",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -10022,7 +10022,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-26] 05. 消愁",
+  "title": "05. 消愁",
   "artist": "毛不易",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -10030,7 +10030,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-26] 06. 私の思春期へ",
+  "title": "06. 私の思春期へ",
   "artist": "赤頬思春期",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -10038,7 +10038,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-26] 07. 言不由衷",
+  "title": "07. 言不由衷",
   "artist": "徐佳瑩",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -10046,7 +10046,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-26] 08. 這是你期盼的長大嗎",
+  "title": "08. 這是你期盼的長大嗎",
   "artist": "張齊山ZQS",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -10054,7 +10054,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-26] 09. First Love",
+  "title": "09. First Love",
   "artist": "宇多田光",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -10062,7 +10062,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-26] 10. 僕が死のうと思ったのは",
+  "title": "10. 僕が死のうと思ったのは",
   "artist": "中島美嘉",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -10070,7 +10070,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-26] 11. 火金姑",
+  "title": "11. 火金姑",
   "artist": "吳汶芳",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -10078,7 +10078,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-26] 12. 六等星の夜",
+  "title": "12. 六等星の夜",
   "artist": "Aimer",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -10086,7 +10086,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-26] 13. 求救訊號",
+  "title": "13. 求救訊號",
   "artist": "VH (Vast & Hazy)",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -10094,7 +10094,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-05-26] 14. 想和你看五月的晚霞",
+  "title": "14. 想和你看五月的晚霞",
   "artist": "陳華",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
@@ -10102,7 +10102,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-02] 01. わたしのつばさ",
+  "title": "01. わたしのつばさ",
   "artist": "中司雅美",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10110,7 +10110,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-02] 02. 送給你的",
+  "title": "02. 送給你的",
   "artist": "好樂團 Good Band",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10118,7 +10118,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-02] 03. ドライフラワー",
+  "title": "03. ドライフラワー",
   "artist": "優里",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10126,7 +10126,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-02] 04. 火金姑",
+  "title": "04. 火金姑",
   "artist": "吳汶芳",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10134,7 +10134,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-02] 05. 心のそばに",
+  "title": "05. 心のそばに",
   "artist": "中村佳穗",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10142,7 +10142,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-02] 06. 人啊",
+  "title": "06. 人啊",
   "artist": "徐佳瑩",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10150,7 +10150,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-02] 07. 星の消えた夜に",
+  "title": "07. 星の消えた夜に",
   "artist": "Aimer",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10158,7 +10158,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-02] 08. 蒲公英的約定",
+  "title": "08. 蒲公英的約定",
   "artist": "周杰倫",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10166,7 +10166,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-02] 09. トイレの神様",
+  "title": "09. トイレの神様",
   "artist": "植村花菜",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10174,7 +10174,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-02] 10. 你還是你嗎",
+  "title": "10. 你還是你嗎",
   "artist": "魏如萱",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10182,7 +10182,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-02] 11. 言不由衷",
+  "title": "11. 言不由衷",
   "artist": "徐佳瑩",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10190,7 +10190,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-02] 12. 言不由衷（清唱）",
+  "title": "12. 言不由衷（清唱）",
   "artist": "徐佳瑩",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10198,7 +10198,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-02] 13. 幾分之幾",
+  "title": "13. 幾分之幾",
   "artist": "盧廣仲",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10206,7 +10206,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-02] 14. Departures~あなたにおくるアイの歌~",
+  "title": "14. Departures~あなたにおくるアイの歌~",
   "artist": "EGOIST",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10214,7 +10214,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 01. 怪獣の花唄",
+  "title": "01. 怪獣の花唄",
   "artist": "Vaundy",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10222,7 +10222,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 02. PONPONPON",
+  "title": "02. PONPONPON",
   "artist": "卡莉怪妞",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10230,7 +10230,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 03. 第一天",
+  "title": "03. 第一天",
   "artist": "孫燕姿",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10238,7 +10238,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 04. 自娛自樂",
+  "title": "04. 自娛自樂",
   "artist": "金志文",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10246,7 +10246,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 05. 星になる",
+  "title": "05. 星になる",
   "artist": "tayori",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10254,7 +10254,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 06. フォニイ",
+  "title": "06. フォニイ",
   "artist": "Tsumiki",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10262,7 +10262,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 07. 星座になれたら",
+  "title": "07. 星座になれたら",
   "artist": "kessoku band",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10270,7 +10270,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 08. プラチナ",
+  "title": "08. プラチナ",
   "artist": "坂本真綾",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10278,7 +10278,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 09. Catch You Catch Me",
+  "title": "09. Catch You Catch Me",
   "artist": "日向惠",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10286,7 +10286,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 10. コネクト",
+  "title": "10. コネクト",
   "artist": "ClariS",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10294,7 +10294,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 11. Lilac（ライラック）",
+  "title": "11. Lilac（ライラック）",
   "artist": "Mrs. GREEN APPLE",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10302,7 +10302,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 12. マカロン",
+  "title": "12. マカロン",
   "artist": "ATOLS",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10310,7 +10310,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 13. paranoia",
+  "title": "13. paranoia",
   "artist": "つなまる(めざめP)",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10318,7 +10318,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 14. Butter-Fly",
+  "title": "14. Butter-Fly",
   "artist": "和田光司",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10326,7 +10326,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 15. おジャ魔女カーニバル",
+  "title": "15. おジャ魔女カーニバル",
   "artist": "MAHO堂",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10334,7 +10334,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 16. 小さな恋のうた",
+  "title": "16. 小さな恋のうた",
   "artist": "MONGOL800",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10342,7 +10342,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 17. 逆光",
+  "title": "17. 逆光",
   "artist": "孫燕姿",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10350,7 +10350,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 21. 夜に駆ける",
+  "title": "21. 夜に駆ける",
   "artist": "YOASOBI",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10358,7 +10358,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 19. 残響散歌",
+  "title": "19. 残響散歌",
   "artist": "Aimer",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10366,7 +10366,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 20. 悪魔の子",
+  "title": "20. 悪魔の子",
   "artist": "樋口愛",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10374,7 +10374,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 22. Idol",
+  "title": "22. Idol",
   "artist": "YOASOBI",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10382,7 +10382,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 18. 逆光",
+  "title": "18. 逆光",
   "artist": "Ado",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10390,7 +10390,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 23. メフィスト",
+  "title": "23. メフィスト",
   "artist": "女王蜂",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10398,7 +10398,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 24. ファンサ",
+  "title": "24. ファンサ",
   "artist": "成海萌奈",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10406,7 +10406,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 25. Legend of Mermaid（七彩的微風）",
+  "title": "25. Legend of Mermaid（七彩的微風）",
   "artist": "三井ゆきこ",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10414,7 +10414,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 26. 好きだから。",
+  "title": "26. 好きだから。",
   "artist": "Yuika",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10422,7 +10422,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 27. SawanoHiroyuki[nZk]mizuki『Avid』",
+  "title": "27. SawanoHiroyuki[nZk]mizuki『Avid』",
   "artist": "mizuki",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10430,7 +10430,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 28. 恋愛サーキュレーション",
+  "title": "28. 恋愛サーキュレーション",
   "artist": "花澤香菜",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10438,7 +10438,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 29. １１",
+  "title": "29. １１",
   "artist": "鄧紫棋",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10446,7 +10446,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 30. 雪の華",
+  "title": "30. 雪の華",
   "artist": "中島美嘉",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10454,7 +10454,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 31. レオ（LEO）",
+  "title": "31. レオ（LEO）",
   "artist": "Yuuri",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10462,7 +10462,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 32. 六等星の夜",
+  "title": "32. 六等星の夜",
   "artist": "Aimer",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10470,7 +10470,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 33. 世界一ごはん",
+  "title": "33. 世界一ごはん",
   "artist": "植村花菜",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10478,7 +10478,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 34. Lemon",
+  "title": "34. Lemon",
   "artist": "米津玄師",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10486,7 +10486,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 35. A Thousand Years（千年之戀）",
+  "title": "35. A Thousand Years（千年之戀）",
   "artist": "克莉絲汀・派瑞",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10494,7 +10494,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 36. 遇見",
+  "title": "36. 遇見",
   "artist": "孫燕姿",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10502,7 +10502,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 37. 突然好想你",
+  "title": "37. 突然好想你",
   "artist": "五月天",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10510,7 +10510,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 38. 修煉愛情",
+  "title": "38. 修煉愛情",
   "artist": "林俊傑",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10518,7 +10518,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 39. 我的一個道姑朋友",
+  "title": "39. 我的一個道姑朋友",
   "artist": "雙笙",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10526,7 +10526,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 40. 暮色迴響",
+  "title": "40. 暮色迴響",
   "artist": "張韶涵",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10534,7 +10534,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 41. 歌に形はないけれど",
+  "title": "41. 歌に形はないけれど",
   "artist": "Doriko",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10542,7 +10542,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-08] 42. 火金姑",
+  "title": "42. 火金姑",
   "artist": "吳汶芳",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10550,7 +10550,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-09] 01. 路過人間",
+  "title": "01. 路過人間",
   "artist": "郁可唯",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10558,7 +10558,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-09] 02. 地球儀",
+  "title": "02. 地球儀",
   "artist": "米津玄師",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10566,7 +10566,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-09] 03. 我也曾經想過這樣殺了我自己",
+  "title": "03. 我也曾經想過這樣殺了我自己",
   "artist": "南西肯恩",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10574,7 +10574,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-09] 04. 右螢光棒我也",
+  "title": "04. 右螢光棒我也",
   "artist": "蒂兒",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10582,7 +10582,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-09] 05. アヤノの幸福理論",
+  "title": "05. アヤノの幸福理論",
   "artist": "IA",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10590,7 +10590,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-09] 06. 起風了",
+  "title": "06. 起風了",
   "artist": "吳青峰",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10598,7 +10598,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-09] 07. 夜明けと蛍",
+  "title": "07. 夜明けと蛍",
   "artist": "ナブナ",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10606,7 +10606,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-09] 08. 崇拜",
+  "title": "08. 崇拜",
   "artist": "梁靜茹",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10614,7 +10614,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-09] 09. Refrain",
+  "title": "09. Refrain",
   "artist": "Aimer",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10622,7 +10622,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-09] 10. 右螢光棒 我也",
+  "title": "10. 右螢光棒 我也",
   "artist": "蒂兒",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10630,7 +10630,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-09] 11. 在加納共和國離婚",
+  "title": "11. 在加納共和國離婚",
   "artist": "菲道尔 & Dior大颖",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10638,7 +10638,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-09] 12. ドライフラワー",
+  "title": "12. ドライフラワー",
   "artist": "優里",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10646,7 +10646,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-09] 13. 你知道星星多重嗎",
+  "title": "13. 你知道星星多重嗎",
   "artist": "鄭興",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10654,7 +10654,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-09] 14. 愛してる",
+  "title": "14. 愛してる",
   "artist": "高鈴",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10662,7 +10662,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-09] 15. 求救信號",
+  "title": "15. 求救信號",
   "artist": "VH (Vast & Hazy)",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10670,7 +10670,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-09] 16. 我喜歡你",
+  "title": "16. 我喜歡你",
   "artist": "洪安妮",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10678,7 +10678,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-16] 01. 好想愛這個世界啊",
+  "title": "01. 好想愛這個世界啊",
   "artist": "華晨宇",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10686,7 +10686,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-16] 02. 風になる",
+  "title": "02. 風になる",
   "artist": "つじあやの",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10694,7 +10694,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-16] 03. 你還是你嗎",
+  "title": "03. 你還是你嗎",
   "artist": "魏如萱",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10702,7 +10702,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-16] 04. 小夜子",
+  "title": "04. 小夜子",
   "artist": "みきとP ft. 初音ミク",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10710,7 +10710,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-16] 05. 我也",
+  "title": "05. 我也",
   "artist": "蒂兒",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10718,7 +10718,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-16] 06. そこに空があるから",
+  "title": "06. そこに空があるから",
   "artist": "江崎稔子",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10726,7 +10726,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-16] 07. 迴避型人格",
+  "title": "07. 迴避型人格",
   "artist": "蒂兒",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10734,7 +10734,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-16] 08. 行星",
+  "title": "08. 行星",
   "artist": "理想混蛋",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10742,7 +10742,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-16] 09. To My Youth",
+  "title": "09. To My Youth",
   "artist": "臉紅的思春期",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10750,7 +10750,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-16] 10. 燈光",
+  "title": "10. 燈光",
   "artist": "謝震廷",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10758,7 +10758,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-16] 11. 僕が死のうと思ったのは",
+  "title": "11. 僕が死のうと思ったのは",
   "artist": "中島美嘉",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10766,7 +10766,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-16] 12. 葉子",
+  "title": "12. 葉子",
   "artist": "阿桑",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10774,7 +10774,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-16] 13. 心做し",
+  "title": "13. 心做し",
   "artist": "GUMI",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10782,7 +10782,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-16] 14. 當我回家",
+  "title": "14. 當我回家",
   "artist": "許莉潔 & 安懂",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10790,7 +10790,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-16] 15. 晩餐歌",
+  "title": "15. 晩餐歌",
   "artist": "tuki.",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10798,7 +10798,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-16] 16. 你知道星星多重嗎",
+  "title": "16. 你知道星星多重嗎",
   "artist": "鄭興",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10806,7 +10806,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-22] 01. 自娛自樂",
+  "title": "01. 自娛自樂",
   "artist": "金志文",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10814,7 +10814,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-22] 02. プラチナ",
+  "title": "02. プラチナ",
   "artist": "坂本真綾",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10822,7 +10822,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-22] 03. 悪魔の子",
+  "title": "03. 悪魔の子",
   "artist": "樋口愛",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10830,7 +10830,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-22] 04. 可愛くてごめん",
+  "title": "04. 可愛くてごめん",
   "artist": "HoneyWorks",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10838,7 +10838,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-22] 05. 天然的最好",
+  "title": "05. 天然的最好",
   "artist": "盧廣仲",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10846,7 +10846,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-22] 06. 怪獣の花唄",
+  "title": "06. 怪獣の花唄",
   "artist": "Vaundy",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10854,7 +10854,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-22] 07. 買你",
+  "title": "07. 買你",
   "artist": "魏如萱",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10862,7 +10862,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-22] 08. メリーゴーランド",
+  "title": "08. メリーゴーランド",
   "artist": "優里",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10870,7 +10870,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-23] 01. HAVE A NICE DAY",
+  "title": "01. HAVE A NICE DAY",
   "artist": "魏如萱",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10878,7 +10878,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-23] 02. For フルーツバスケット",
+  "title": "02. For フルーツバスケット",
   "artist": "岡崎律子",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10886,7 +10886,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-23] 03. 雨天",
+  "title": "03. 雨天",
   "artist": "孫燕姿",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10894,7 +10894,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-23] 04. フクロウ ～フクロウが知らせる客が来たと～",
+  "title": "04. フクロウ ～フクロウが知らせる客が来たと～",
   "artist": "KOKIA",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10902,7 +10902,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-23] 05. 太陽",
+  "title": "05. 太陽",
   "artist": "邱振哲",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10910,7 +10910,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-23] 06. GHOST",
+  "title": "06. GHOST",
   "artist": "星街すいせい",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10918,7 +10918,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-23] 07. 魚在水裡哭",
+  "title": "07. 魚在水裡哭",
   "artist": "深白色二人組",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10926,7 +10926,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-23] 08. 魚在水裡哭 （清唱）",
+  "title": "08. 魚在水裡哭 （清唱）",
   "artist": "深白色二人組",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10934,7 +10934,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-23] 09. 歌に形はないけれど",
+  "title": "09. 歌に形はないけれど",
   "artist": "doriko feat. 初音ミク",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10942,7 +10942,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-23] 10. 路過人間",
+  "title": "10. 路過人間",
   "artist": "郁可唯",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10950,7 +10950,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-23] 11. A Thousand Years",
+  "title": "11. A Thousand Years",
   "artist": "Christina Perri",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10958,7 +10958,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-23] 12. 星屑ビーナス",
+  "title": "12. 星屑ビーナス",
   "artist": "Aimer",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10966,7 +10966,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-23] 13. ドライフラワー",
+  "title": "13. ドライフラワー",
   "artist": "優里",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10974,7 +10974,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-23] 14. 六等星の夜",
+  "title": "14. 六等星の夜",
   "artist": "Aimer",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10982,7 +10982,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-23] 15. 旋木",
+  "title": "15. 旋木",
   "artist": "王菲",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10990,7 +10990,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-23] 16. GHOST",
+  "title": "16. GHOST",
   "artist": "星街すいせい (鋼琴版)",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -10998,7 +10998,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-30] 01. 拾光者",
+  "title": "01. 拾光者",
   "artist": "厄倫蒂兒 (清唱)",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -11006,7 +11006,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-30] 02. 火金姑",
+  "title": "02. 火金姑",
   "artist": "吳汶芳",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -11014,7 +11014,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-30] 03. 燈光",
+  "title": "03. 燈光",
   "artist": "謝震廷",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -11022,7 +11022,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-30] 04. ソラゴト",
+  "title": "04. ソラゴト",
   "artist": "明透",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -11030,7 +11030,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-30] 05. Fly Me To The Moon",
+  "title": "05. Fly Me To The Moon",
   "artist": "Frank Sinatra",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -11038,7 +11038,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-30] 06. 星屑ビーナス",
+  "title": "06. 星屑ビーナス",
   "artist": "Aimer",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
@@ -11046,7 +11046,7 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "[2025-06-30] 07. 行星",
+  "title": "07. 行星",
   "artist": "理想混蛋",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
