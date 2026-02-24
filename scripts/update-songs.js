@@ -218,11 +218,19 @@ async function processSinger(config) {
             let artist = DEFAULT_ARTIST_TEXT;
             let songTitle = p;
             
-            // 2. 清洗标题：去掉序号、P前缀等无关内容
-            let cleanTitle = p.replace(/^\d+\.\s*/, '').replace(/^P\d+[：:]\s*/, '');
+            // 2. 【优化清洗逻辑：调整顺序，增强正则】
+            let cleanTitle = p;
             
-            // 【新增逻辑】去掉日期标签 [YYYYMMDD]，支持开头和结尾
-            cleanTitle = cleanTitle.replace(/\[\d{8}\]/g, '').trim();
+            // 第一步：去掉所有格式的日期标签
+            // 兼容 [20240604] 和 [2025-06-23]
+            cleanTitle = cleanTitle.replace(/\[\d{4}[-]?\d{2}[-]?\d{2}\]/g, '');
+            
+            // 第二步：去掉序号 (如 "01.", "P01:", "02. " 等)
+            // 必须在去掉日期之后，因为日期可能在序号前面
+            cleanTitle = cleanTitle.replace(/^\d+\.\s*/, '').replace(/^P\d+[：:]\s*/, '');
+
+            // 第三步：去除首尾可能留下的多余空格
+            cleanTitle = cleanTitle.trim();
             
             // 3. 只有标题包含「 - 」标准格式，才尝试提取歌手
             if (cleanTitle.includes(' - ')) {
