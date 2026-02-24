@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1G6fLB7Efr
-// 生成时间: 2/24/2026, 10:39:22 AM
+// 生成时间: 2/24/2026, 11:35:10 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4331,6 +4331,14 @@ window.SONG_DATA.push(
   "collection": "奏 - スキマスイッチ cover by なねたん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XcfBBGEL5?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "声",
+  "artist": "HarryP cover by なれたん",
+  "collection": "声 - HarryP cover by なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EsfmBmE1z?p=1",
   "source": "naraetan.js"
 }
 );
