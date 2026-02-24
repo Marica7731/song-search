@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1cofuBGEkX
-// 生成时间: 2/24/2026, 4:57:29 PM
+// 生成时间: 2/24/2026, 5:53:10 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1214,8 +1214,8 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "旅の途中 + Anytime Anywhere -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "旅の途中 + Anytime Anywhere",
+  "artist": "串烧",
   "collection": "补合集 🐍凛々咲 2024年11月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LP6VBbE7g?p=21",
@@ -1230,8 +1230,8 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "トライアングラー + ライオン -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "トライアングラー + ライオン",
+  "artist": "串烧",
   "collection": "补合集 🐍凛々咲 2024年11月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LP6VBbE7g?p=23",
@@ -1782,8 +1782,8 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "宝可梦主题曲 -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "めざせポケモンマスター",
+  "artist": "松本梨香",
   "collection": "补合集 🐍凛々咲 2024年11月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LP6VBbE7g?p=92",
@@ -2078,8 +2078,8 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "ネバーフィクション -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ネバーフィクション",
+  "artist": "Kanaria&星街すいせい",
   "collection": "补合集 🐍凛々咲 2024年11月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LP6VBbE7g?p=129",
@@ -2182,16 +2182,16 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "夜撫でるメノウ + fake face dance music + bunnygirl -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "夜撫でるメノウ + fake face dance music + bunnygirl",
+  "artist": "串烧",
   "collection": "补合集 🐍凛々咲 2024年11月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LP6VBbE7g?p=142",
   "source": "ririsya.js"
 },
     {
-  "title": "Overdose + help!! -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Overdose + help!!",
+  "artist": "串烧",
   "collection": "补合集 🐍凛々咲 2024年11月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LP6VBbE7g?p=143",
@@ -2310,8 +2310,8 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "ロミオとシンデレラ -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko",
   "collection": "补合集 🐍凛々咲 2024年12月~2025年02月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iN6LBiEgE?p=13",
@@ -2742,8 +2742,8 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "palette -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Palette",
+  "artist": "常闇トワ",
   "collection": "补合集 🐍凛々咲 2024年12月~2025年02月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iN6LBiEgE?p=67",
@@ -2862,8 +2862,8 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "Starring... + けーたいみしてよ + ラヴィ -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Starring... + けーたいみしてよ + ラヴィ",
+  "artist": "串烧",
   "collection": "补合集 🐍凛々咲 2024年12月~2025年02月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iN6LBiEgE?p=82",
@@ -3038,8 +3038,8 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "piero -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ピエロ",
+  "artist": "KEI feat.初音ミク",
   "collection": "补合集 🐍凛々咲 2024年12月~2025年02月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iN6LBiEgE?p=104",
@@ -3142,8 +3142,8 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "VIOLET -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "VIOLET",
+  "artist": "Ninomae Ina'nis",
   "collection": "补合集 🐍凛々咲 2024年12月~2025年02月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iN6LBiEgE?p=117",
@@ -3254,8 +3254,8 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "この恋はスクープされない -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "この恋はスクープされない",
+  "artist": "コレサワ",
   "collection": "补合集 🐍凛々咲 2024年12月~2025年02月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iN6LBiEgE?p=131",
@@ -8567,7 +8567,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "この恋はスクープされない",
-  "artist": "乃木坂46",
+  "artist": "コレサワ",
   "collection": "【凛々咲 】8月20日睡眠導入弾き語り🌙01. この恋はスクープされない",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MaeZzjErN?p=1",
