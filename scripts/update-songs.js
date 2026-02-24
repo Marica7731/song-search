@@ -200,7 +200,7 @@ async function loadVideoPageWithBrowser(bvid) {
     }
 }
 
-// ================= 4. 处理单个歌手（核心逻辑重写，完全符合你的需求） =================
+// ================= 4. 处理单个歌手（核心清洗逻辑重构，彻底解决序号残留） =================
 async function processSinger(config) {
     const { bvid, file, alias } = config;
     console.log(`\n[处理中] ${alias} (BV: ${bvid})...`);
@@ -213,23 +213,23 @@ async function processSinger(config) {
     let songs = [];
     rawData.forEach(col => {
         col.parts.forEach((p, i) => {
-            // 【核心重写】
             // 1. 初始化歌手为兜底文本，不再默认填充alias
             let artist = DEFAULT_ARTIST_TEXT;
             let songTitle = p;
             
-            // 2. 【优化清洗逻辑：调整顺序，增强正则】
+            // 2. 【重构核心清洗逻辑：固定执行顺序，彻底解决序号残留】
             let cleanTitle = p;
-            
-            // 第一步：去掉所有格式的日期标签
-            // 兼容 [20240604] 和 [2025-06-23]
+
+            // 第一步：全局清除所有格式的日期标签（兼容[YYYYMMDD]、[YYYY-MM-DD]）
             cleanTitle = cleanTitle.replace(/\[\d{4}[-]?\d{2}[-]?\d{2}\]/g, '');
-            
-            // 第二步：去掉序号 (如 "01.", "P01:", "02. " 等)
-            // 必须在去掉日期之后，因为日期可能在序号前面
+
+            // 第二步：先Trim首尾空格，让序号暴露在字符串最开头，解决空格导致正则失效的核心问题
+            cleanTitle = cleanTitle.trim();
+
+            // 第三步：清除开头的序号（01.、10.、100. 等）、P前缀（P01:、P10：等）
             cleanTitle = cleanTitle.replace(/^\d+\.\s*/, '').replace(/^P\d+[：:]\s*/, '');
 
-            // 第三步：去除首尾可能留下的多余空格
+            // 第四步：最终Trim收尾，清除所有首尾残留空白
             cleanTitle = cleanTitle.trim();
             
             // 3. 只有标题包含「 - 」标准格式，才尝试提取歌手
@@ -243,7 +243,6 @@ async function processSinger(config) {
                 if (extractedArtist) {
                     artist = extractedArtist;
                 }
-                // 歌名用清洗后的内容
                 songTitle = extractedTitle;
             } else {
                 // 4. 无标准格式，直接用清洗后的标题当歌名，歌手保持兜底文本
@@ -262,7 +261,7 @@ async function processSinger(config) {
                 title: songTitle,
                 artist: artist,
                 collection: col.collectionTitle,
-                up: col.up, // UP主字段独立保留，不影响歌手
+                up: col.up,
                 link: link,
                 source: `${file}.js`
             });
@@ -306,7 +305,7 @@ function generateIndexJson() {
 // ================= 6. 主程序 =================
 async function main() {
     console.log("========================================");
-    console.log("   🚀 B站分P解析（歌手字段规则优化版）启动");
+    console.log("   🚀 B站分P解析（序号彻底清除版）启动");
     console.log("========================================");
     
     if (!fs.existsSync(DATA_DIR)) {
