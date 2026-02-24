@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1G6fLB7Efr
-// 生成时间: 2/24/2026, 5:52:18 PM
+// 生成时间: 2/24/2026, 6:48:52 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4339,6 +4339,102 @@ window.SONG_DATA.push(
   "collection": "声 - HarryP cover by なれたん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EsfmBmE1z?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "LOSER",
+  "artist": "米津玄師",
+  "collection": "【なれたん歌切🌷】一曲だけでも聞いてってください[2026-02-24]💕Please stay and listen to at least one so",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Q4fUBNEKb?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "嘘",
+  "artist": "シド",
+  "collection": "【なれたん歌切🌷】一曲だけでも聞いてってください[2026-02-24]💕Please stay and listen to at least one so",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Q4fUBNEKb?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "アゲハ蝶",
+  "artist": "ポルノグラフィティ",
+  "collection": "【なれたん歌切🌷】一曲だけでも聞いてってください[2026-02-24]💕Please stay and listen to at least one so",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Q4fUBNEKb?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "DUET",
+  "artist": "ZICO & 幾田りら",
+  "collection": "【なれたん歌切🌷】一曲だけでも聞いてってください[2026-02-24]💕Please stay and listen to at least one so",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Q4fUBNEKb?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【なれたん歌切🌷】一曲だけでも聞いてってください[2026-02-24]💕Please stay and listen to at least one so",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Q4fUBNEKb?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "愛を伝えたいだとか",
+  "artist": "あいみょん",
+  "collection": "【なれたん歌切🌷】一曲だけでも聞いてってください[2026-02-24]💕Please stay and listen to at least one so",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Q4fUBNEKb?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "【なれたん歌切🌷】一曲だけでも聞いてってください[2026-02-24]💕Please stay and listen to at least one so",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Q4fUBNEKb?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "拍手喝采歌合",
+  "artist": "supercell",
+  "collection": "【なれたん歌切🌷】一曲だけでも聞いてってください[2026-02-24]💕Please stay and listen to at least one so",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Q4fUBNEKb?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "猫",
+  "artist": "DISH／／",
+  "collection": "【なれたん歌切🌷】一曲だけでも聞いてってください[2026-02-24]💕Please stay and listen to at least one so",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Q4fUBNEKb?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO27",
+  "collection": "【なれたん歌切🌷】一曲だけでも聞いてってください[2026-02-24]💕Please stay and listen to at least one so",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Q4fUBNEKb?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ミックスナッツ",
+  "artist": "Official髭男dism",
+  "collection": "【なれたん歌切🌷】一曲だけでも聞いてってください[2026-02-24]💕Please stay and listen to at least one so",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Q4fUBNEKb?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ごはんはおかず",
+  "artist": "放課後ティータイム",
+  "collection": "【なれたん歌切🌷】一曲だけでも聞いてってください[2026-02-24]💕Please stay and listen to at least one so",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Q4fUBNEKb?p=12",
   "source": "naraetan.js"
 }
 );

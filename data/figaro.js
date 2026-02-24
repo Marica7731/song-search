@@ -1,6 +1,6 @@
 // Figaro - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1HRfuBCEXN
-// 生成时间: 2/24/2026, 5:52:41 PM
+// 生成时间: 2/24/2026, 6:49:15 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -26779,6 +26779,110 @@ window.SONG_DATA.push(
   "collection": "【💐Figaro歌切】#257 睡眠導入🌟安眠前のリラックスタイムにどうぞ🌙2026-02-22",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14UfwBeE7W?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "朝を呑む",
+  "artist": "バルーン",
+  "collection": "【💐Figaro歌切】少しだけ夜中のチルタイム。[2026-02-24] [AHheSucrGVU]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KdfmB4Ea3?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "カガリビト",
+  "artist": "millstones",
+  "collection": "【💐Figaro歌切】少しだけ夜中のチルタイム。[2026-02-24] [AHheSucrGVU]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KdfmB4Ea3?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "翡翠のまち",
+  "artist": "メル",
+  "collection": "【💐Figaro歌切】少しだけ夜中のチルタイム。[2026-02-24] [AHheSucrGVU]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KdfmB4Ea3?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "アポリア",
+  "artist": "ヨルシカ",
+  "collection": "【💐Figaro歌切】少しだけ夜中のチルタイム。[2026-02-24] [AHheSucrGVU]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KdfmB4Ea3?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "修羅",
+  "artist": "ヨルシカ",
+  "collection": "【💐Figaro歌切】少しだけ夜中のチルタイム。[2026-02-24] [AHheSucrGVU]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KdfmB4Ea3?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "四月馬鹿",
+  "artist": "Cocco",
+  "collection": "【💐Figaro歌切】少しだけ夜中のチルタイム。[2026-02-24] [AHheSucrGVU]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KdfmB4Ea3?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "Avid",
+  "artist": "SawanoHiroyuki[nZk];mizuki",
+  "collection": "【💐Figaro歌切】少しだけ夜中のチルタイム。[2026-02-24] [AHheSucrGVU]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KdfmB4Ea3?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "さみしいひと",
+  "artist": "理芽",
+  "collection": "【💐Figaro歌切】少しだけ夜中のチルタイム。[2026-02-24] [AHheSucrGVU]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KdfmB4Ea3?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "シュガーコート",
+  "artist": "ダズビー",
+  "collection": "【💐Figaro歌切】少しだけ夜中のチルタイム。[2026-02-24] [AHheSucrGVU]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KdfmB4Ea3?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団",
+  "collection": "【💐Figaro歌切】少しだけ夜中のチルタイム。[2026-02-24] [AHheSucrGVU]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KdfmB4Ea3?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "fake face dance music",
+  "artist": "音田雅則",
+  "collection": "【💐Figaro歌切】少しだけ夜中のチルタイム。[2026-02-24] [AHheSucrGVU]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KdfmB4Ea3?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "エイリアンズ",
+  "artist": "キリンジ",
+  "collection": "【💐Figaro歌切】少しだけ夜中のチルタイム。[2026-02-24] [AHheSucrGVU]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KdfmB4Ea3?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "彗星の夜明け",
+  "artist": "Figaro",
+  "collection": "【💐Figaro歌切】少しだけ夜中のチルタイム。[2026-02-24] [AHheSucrGVU]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KdfmB4Ea3?p=13",
   "source": "figaro.js"
 }
 );

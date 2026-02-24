@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1zzZPBsEum
-// 生成时间: 2/24/2026, 5:54:58 PM
+// 生成时间: 2/24/2026, 6:51:46 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1243,6 +1243,118 @@ window.SONG_DATA.push(
   "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=14",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "喜劇",
+  "artist": "星野源",
+  "collection": "【音門るき😈歌切】代替广播的傍晚歌枠📻🎶下班回家时的陪伴请享用[2026-02-24][mArEZMlGx1Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YfUBcETn?p=1",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ケセラセラ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【音門るき😈歌切】代替广播的傍晚歌枠📻🎶下班回家时的陪伴请享用[2026-02-24][mArEZMlGx1Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YfUBcETn?p=2",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "残酷の天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "【音門るき😈歌切】代替广播的傍晚歌枠📻🎶下班回家时的陪伴请享用[2026-02-24][mArEZMlGx1Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YfUBcETn?p=3",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "Get Wild",
+  "artist": "TM NETWORK",
+  "collection": "【音門るき😈歌切】代替广播的傍晚歌枠📻🎶下班回家时的陪伴请享用[2026-02-24][mArEZMlGx1Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YfUBcETn?p=4",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "嫌嫌",
+  "artist": "HALVES",
+  "collection": "【音門るき😈歌切】代替广播的傍晚歌枠📻🎶下班回家时的陪伴请享用[2026-02-24][mArEZMlGx1Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YfUBcETn?p=5",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "オレンジ",
+  "artist": "SPYAIR",
+  "collection": "【音門るき😈歌切】代替广播的傍晚歌枠📻🎶下班回家时的陪伴请享用[2026-02-24][mArEZMlGx1Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YfUBcETn?p=6",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "コロンブス",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【音門るき😈歌切】代替广播的傍晚歌枠📻🎶下班回家时的陪伴请享用[2026-02-24][mArEZMlGx1Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YfUBcETn?p=7",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "以心電信",
+  "artist": "ORANGE RANGE",
+  "collection": "【音門るき😈歌切】代替广播的傍晚歌枠📻🎶下班回家时的陪伴请享用[2026-02-24][mArEZMlGx1Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YfUBcETn?p=8",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "勇者",
+  "artist": "YOASOBI",
+  "collection": "【音門るき😈歌切】代替广播的傍晚歌枠📻🎶下班回家时的陪伴请享用[2026-02-24][mArEZMlGx1Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YfUBcETn?p=9",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【音門るき😈歌切】代替广播的傍晚歌枠📻🎶下班回家时的陪伴请享用[2026-02-24][mArEZMlGx1Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YfUBcETn?p=10",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【音門るき😈歌切】代替广播的傍晚歌枠📻🎶下班回家时的陪伴请享用[2026-02-24][mArEZMlGx1Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YfUBcETn?p=11",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "CITRUS",
+  "artist": "Da-iCE",
+  "collection": "【音門るき😈歌切】代替广播的傍晚歌枠📻🎶下班回家时的陪伴请享用[2026-02-24][mArEZMlGx1Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YfUBcETn?p=12",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【音門るき😈歌切】代替广播的傍晚歌枠📻🎶下班回家时的陪伴请享用[2026-02-24][mArEZMlGx1Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YfUBcETn?p=13",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【音門るき😈歌切】代替广播的傍晚歌枠📻🎶下班回家时的陪伴请享用[2026-02-24][mArEZMlGx1Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YfUBcETn?p=14",
   "source": "otomoneruki.js"
 }
 );

@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1p1zBBCEZ3
-// 生成时间: 2/24/2026, 5:54:20 PM
+// 生成时间: 2/24/2026, 6:51:14 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -13054,8 +13054,8 @@ window.SONG_DATA.push(
   "source": "yoshika.js"
 },
     {
-  "title": "KODOU",
-  "artist": "～パーフェクト・ハーモニー～",
+  "title": "KODOU ~パーフェクト・ハーモニー~",
+  "artist": "七海るちあ(中田あすみ)・宝生波音(寺門仁美)・洞院リナ(浅野まゆみ)",
   "collection": "【YOSHIKA⁂Ch. 】居然自带卡拉OK轴的歌词？有点高端了==我回来了！33【日常回2024年11月29日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tHzHY1EDG?p=7",
@@ -17166,8 +17166,8 @@ window.SONG_DATA.push(
   "source": "yoshika.js"
 },
     {
-  "title": "KODOU",
-  "artist": "～パーフェクト・ハーモニー～",
+  "title": "KODOU ~パーフェクト・ハーモニー~",
+  "artist": "七海るちあ(中田あすみ)・宝生波音(寺門仁美)・洞院リナ(浅野まゆみ)",
   "collection": "【YOSHIKA⁂Ch. 】（31）2025年3月3日歌回～初見さん大募集😍Singing Stream🍠KARAOKE【Vtuber】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZC9ZYTEJ9?p=18",
