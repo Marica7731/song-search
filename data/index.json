@@ -13,7 +13,8 @@
     "nayuta-daily.js",
     "MunMosh.js",
     "friends.js",
-    "others.js"
+    "others.js",
+    "earendel.js"
   ],
   "fileToAlias": {
     "naraetan": "なれたん Naraetan",
@@ -29,6 +30,7 @@
     "nayuta-daily": "nayuta日常",
     "MunMosh": "むんもっしゅ",
     "friends": "联动",
-    "others": "其他歌手"
+    "others": "其他歌手",
+    "earendel": "厄倫蒂兒"
   }
 }
