@@ -1,6 +1,6 @@
 // Figaro - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1HRfuBCEXN
-// 生成时间: 2/25/2026, 7:50:20 PM
+// 生成时间: 2/25/2026, 8:27:33 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -26883,6 +26883,158 @@ window.SONG_DATA.push(
   "collection": "【💐Figaro歌切】少しだけ夜中のチルタイム。[2026-02-24] [AHheSucrGVU]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KdfmB4Ea3?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【💐Figaro歌切】[2026-02-25]元気な曲も穏やかな曲も！ [miMZY1Sm1Cg]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pDfaByERN?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【💐Figaro歌切】[2026-02-25]元気な曲も穏やかな曲も！ [miMZY1Sm1Cg]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pDfaByERN?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "天球、彗星は夜を跨いで",
+  "artist": "星街すいせい",
+  "collection": "【💐Figaro歌切】[2026-02-25]元気な曲も穏やかな曲も！ [miMZY1Sm1Cg]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pDfaByERN?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "GHOST",
+  "artist": "星街すいせい",
+  "collection": "【💐Figaro歌切】[2026-02-25]元気な曲も穏やかな曲も！ [miMZY1Sm1Cg]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pDfaByERN?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【💐Figaro歌切】[2026-02-25]元気な曲も穏やかな曲も！ [miMZY1Sm1Cg]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pDfaByERN?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "明日への手紙",
+  "artist": "手嶌葵",
+  "collection": "【💐Figaro歌切】[2026-02-25]元気な曲も穏やかな曲も！ [miMZY1Sm1Cg]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pDfaByERN?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "プラネテス",
+  "artist": "キタニタツヤ",
+  "collection": "【💐Figaro歌切】[2026-02-25]元気な曲も穏やかな曲も！ [miMZY1Sm1Cg]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pDfaByERN?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【💐Figaro歌切】[2026-02-25]元気な曲も穏やかな曲も！ [miMZY1Sm1Cg]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pDfaByERN?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "みちづれ",
+  "artist": "星街すいせい",
+  "collection": "【💐Figaro歌切】[2026-02-25]元気な曲も穏やかな曲も！ [miMZY1Sm1Cg]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pDfaByERN?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "明日の私に幸あれ",
+  "artist": "ナナヲアカリ",
+  "collection": "【💐Figaro歌切】[2026-02-25]元気な曲も穏やかな曲も！ [miMZY1Sm1Cg]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pDfaByERN?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "愛のけだもの",
+  "artist": "神はサイコロを振らない × キタニタツヤ",
+  "collection": "【💐Figaro歌切】[2026-02-25]元気な曲も穏やかな曲も！ [miMZY1Sm1Cg]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pDfaByERN?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "記憶の水槽",
+  "artist": "キタニタツヤ",
+  "collection": "【💐Figaro歌切】[2026-02-25]元気な曲も穏やかな曲も！ [miMZY1Sm1Cg]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pDfaByERN?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "Stellar Stellar",
+  "artist": "星街すいせい",
+  "collection": "【💐Figaro歌切】[2026-02-25]元気な曲も穏やかな曲も！ [miMZY1Sm1Cg]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pDfaByERN?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "シュノーケル",
+  "artist": "文藝天国",
+  "collection": "【💐Figaro歌切】[2026-02-25]元気な曲も穏やかな曲も！ [miMZY1Sm1Cg]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pDfaByERN?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "Plazma",
+  "artist": "米津玄師",
+  "collection": "【💐Figaro歌切】[2026-02-25]元気な曲も穏やかな曲も！ [miMZY1Sm1Cg]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pDfaByERN?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "ミッドナイト・リフレクション",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【💐Figaro歌切】[2026-02-25]元気な曲も穏やかな曲も！ [miMZY1Sm1Cg]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pDfaByERN?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "魔法",
+  "artist": "KOTORI",
+  "collection": "【💐Figaro歌切】[2026-02-25]元気な曲も穏やかな曲も！ [miMZY1Sm1Cg]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pDfaByERN?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "真生活",
+  "artist": "案山子",
+  "collection": "【💐Figaro歌切】[2026-02-25]元気な曲も穏やかな曲も！ [miMZY1Sm1Cg]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pDfaByERN?p=18",
+  "source": "figaro.js"
+},
+    {
+  "title": "彗星になれたなら",
+  "artist": "はるまきごはん",
+  "collection": "【💐Figaro歌切】[2026-02-25]元気な曲も穏やかな曲も！ [miMZY1Sm1Cg]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pDfaByERN?p=19",
   "source": "figaro.js"
 }
 );
