@@ -1,14 +1,11 @@
-// scripts/update-songs.js
 const fs = require('fs');
 const path = require('path');
 
 // ================= 关键兼容：适配全局安装的 Puppeteer =================
 let puppeteer;
 try {
-    // 优先本地引入（本地开发环境）
     puppeteer = require('puppeteer');
 } catch (err) {
-    // 本地无则从全局引入（GitHub Actions 环境）
     try {
         const globalModules = path.resolve(process.execPath, '../..', 'lib/node_modules');
         puppeteer = require(path.join(globalModules, 'puppeteer'));
@@ -18,12 +15,8 @@ try {
     }
 }
 
-// ================= 可配置项（你可以在这里修改兜底文本） =================
-// 无标准歌手格式时的兜底文本，想要空值就改成 '' 即可
 const DEFAULT_ARTIST_TEXT = '来源处未提供标准格式歌手';
-// const DEFAULT_ARTIST_TEXT = ''; // 取消这行注释，歌手字段就会留空
 
-// ================= 通用重试函数 =================
 async function withRetry(fn, maxRetries = 3, delay = 5000) {
     let lastError;
     for (let attempt = 1; attempt <= maxRetries; attempt++) {
@@ -38,24 +31,20 @@ async function withRetry(fn, maxRetries = 3, delay = 5000) {
     throw lastError;
 }
 
-// ================= 1. 常量配置（完全对齐油猴脚本 v9.3） =================
 const DELAY_TIME = 1500;
 const BILI_VIDEO_PREFIX = 'https://www.bilibili.com/video/';
 const BV_REGEX = /BV[0-9a-zA-Z]+/;
 const PLAYLIST_SELECTORS = ['.video-pod__list .pod-item'];
-
 const PART_TITLE_SELECTORS = [
-    '.page-list .page-item.sub .title-txt', // 分P合集选择器 (在pod-item内部)
-    '.title .title-txt'                      // 单集合集选择器 (直接在当前容器内找标题)
+    '.page-list .page-item.sub .title-txt',
+    '.title .title-txt'
 ];
-
 const COLLECTION_TITLE_SELECTORS = [
-    '.head .title .title-txt',               // 分P合集：从当前pod-item内部提取标题
-    '.video-pod__header .header-top .left .title', // 备用布局
-    '.title .title-txt'                       // 单集合集：直接把当前视频标题当作合集名
+    '.head .title .title-txt',
+    '.video-pod__header .header-top .left .title',
+    '.title .title-txt'
 ];
 
-// ================= 2. 歌手配置（你只需要维护这里） =================
 const SINGER_CONFIGS = [
     { bvid: "BV1G6fLB7Efr", file: "naraetan", alias: "なれたん Naraetan" },
     { bvid: "BV1HRfuBCEXN", file: "figaro", alias: "Figaro" },
@@ -77,7 +66,6 @@ const SINGER_CONFIGS = [
 const DATA_DIR = path.join(__dirname, '..', 'data');
 const BILI_VIDEO_URL = (bvid) => `https://www.bilibili.com/video/${bvid}`;
 
-// ================= 3. 核心：Puppeteer加载页面 =================
 async function loadVideoPageWithBrowser(bvid) {
     const url = BILI_VIDEO_URL(bvid);
     let browser;
@@ -200,7 +188,6 @@ async function loadVideoPageWithBrowser(bvid) {
     }
 }
 
-// ================= 4. 处理单个歌手（核心清洗逻辑重构，彻底解决序号残留） =================
 async function processSinger(config) {
     const { bvid, file, alias } = config;
     console.log(`\n[处理中] ${alias} (BV: ${bvid})...`);
@@ -213,48 +200,51 @@ async function processSinger(config) {
     let songs = [];
     rawData.forEach(col => {
         col.parts.forEach((p, i) => {
-            // 1. 初始化歌手为兜底文本，不再默认填充alias
             let artist = DEFAULT_ARTIST_TEXT;
             let songTitle = p;
             
-            // 2. 【重构核心清洗逻辑：固定执行顺序，彻底解决序号残留】
+            // ==========================================
+            // 🔧 【核心修改】清洗逻辑升级
+            // ==========================================
             let cleanTitle = p;
 
-            // 第一步：全局清除所有格式的日期标签（兼容[YYYYMMDD]、[YYYY-MM-DD]）
+            // 1. 清除所有日期标签
             cleanTitle = cleanTitle.replace(/\[\d{4}[-]?\d{2}[-]?\d{2}\]/g, '');
 
-            // 第二步：先Trim首尾空格，让序号暴露在字符串最开头，解决空格导致正则失效的核心问题
+            // 2. 🔧 新增：循环清除末尾的特征码/任意方括号 (如 [3RiwmKBR-Aw])
+            let prevLen;
+            do {
+                prevLen = cleanTitle.length;
+                // 正则含义：匹配字符串末尾的 [任意非括号字符]，并移除后面可能跟着的空格
+                cleanTitle = cleanTitle.replace(/\[[^\[\]]*\]\s*$/, '');
+            } while (cleanTitle.length !== prevLen); // 如果长度变了，说明去掉了东西，再检查一遍有没有漏网之鱼
+
+            // 3. 清除首尾空格
             cleanTitle = cleanTitle.trim();
 
-            // 第三步：清除开头的序号（01.、10.、100. 等）、P前缀（P01:、P10：等）
+            // 4. 清除开头序号
             cleanTitle = cleanTitle.replace(/^\d+\.\s*/, '').replace(/^P\d+[：:]\s*/, '');
 
-            // 第四步：最终Trim收尾，清除所有首尾残留空白
+            // 5. 最终收尾
             cleanTitle = cleanTitle.trim();
-            
-            // 3. 只有标题包含「 - 」标准格式，才尝试提取歌手
+            // ==========================================
+
             if (cleanTitle.includes(' - ')) {
                 const titleParts = cleanTitle.split(' - ');
-                // 取第一部分为歌名，最后一部分为歌手（兼容歌名里带「 - 」的情况）
                 const extractedTitle = titleParts[0].trim();
                 const extractedArtist = titleParts[titleParts.length - 1].trim();
                 
-                // 只有提取到有效歌手名，才覆盖兜底文本
                 if (extractedArtist) {
                     artist = extractedArtist;
                 }
                 songTitle = extractedTitle;
             } else {
-                // 4. 无标准格式，直接用清洗后的标题当歌名，歌手保持兜底文本
                 songTitle = cleanTitle;
             }
 
-            // 校验BV号有效性
             let link = null;
             if (BV_REGEX.test(col.collectionBv)) {
                 link = `${BILI_VIDEO_PREFIX}${col.collectionBv}?p=${i+1}`;
-            } else {
-                console.warn(`⚠️  无效BV号：【${col.collectionBv}】（${alias} - ${p}），跳过生成跳转链接`);
             }
 
             songs.push({
@@ -269,7 +259,7 @@ async function processSinger(config) {
     });
 
     const outputPath = path.join(DATA_DIR, `${file}.js`);
-    let outputContent = `// ${alias} - 歌单数据（油猴逻辑复刻版）\n`;
+    let outputContent = `// ${alias} - 歌单数据\n`;
     outputContent += `// 来源: ${BILI_VIDEO_URL(bvid)}\n`;
     outputContent += `// 生成时间: ${new Date().toLocaleString()}\n\n`;
     outputContent += `window.SONG_DATA = window.SONG_DATA || [];\n\n`;
@@ -288,7 +278,6 @@ async function processSinger(config) {
     return true;
 }
 
-// ================= 5. 生成index.json =================
 function generateIndexJson() {
     const indexPath = path.join(DATA_DIR, 'index.json');
     const indexData = {
@@ -299,13 +288,12 @@ function generateIndexJson() {
         }, {})
     };
     fs.writeFileSync(indexPath, JSON.stringify(indexData, null, 2), 'utf8');
-    console.log(`\n✅ 生成index.json: 包含 ${indexData.files.length} 个数据文件 + 别名映射`);
+    console.log(`\n✅ 生成index.json: 包含 ${indexData.files.length} 个数据文件`);
 }
 
-// ================= 6. 主程序 =================
 async function main() {
     console.log("========================================");
-    console.log("   🚀 B站分P解析（序号彻底清除版）启动");
+    console.log("   🚀 B站分P解析（特征码清除版）启动");
     console.log("========================================");
     
     if (!fs.existsSync(DATA_DIR)) {
@@ -329,14 +317,7 @@ async function main() {
 
     console.log("\n========================================");
     console.log(`   🏁 任务结束: 成功更新 ${successCount}/${SINGER_CONFIGS.length} 位歌手`);
-    if (failList.length > 0) {
-        console.log(`   ❌ 失败列表:`);
-        failList.forEach(item => {
-            console.log(`     - ${item.alias} (${item.bvid}): ${item.error.slice(0, 100)}`);
-        });
-    }
     console.log("========================================");
-
     process.exit(0);
 }
 
