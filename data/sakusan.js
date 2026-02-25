@@ -1,6 +1,6 @@
-// 酢酸 / SAKUSAN - 歌单数据（油猴逻辑复刻版）
+// 酢酸 / SAKUSAN - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1JSZHBrEVw
-// 生成时间: 2/25/2026, 5:59:50 PM
+// 生成时间: 2/25/2026, 7:25:12 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 

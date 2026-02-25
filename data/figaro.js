@@ -1,6 +1,6 @@
-// Figaro - 歌单数据（油猴逻辑复刻版）
+// Figaro - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1HRfuBCEXN
-// 生成时间: 2/25/2026, 5:58:24 PM
+// 生成时间: 2/25/2026, 7:23:39 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2359,7 +2359,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シュガーソングとビターステップ",
-  "artist": "UNISON SQUARE GARDEN[Short Ver.]",
+  "artist": "UNISON SQUARE GARDEN",
   "collection": "【240501】Figaro】#10周三定期歌枠 ヒビカセ - Reol",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vt421c7jC?p=13",
@@ -13623,7 +13623,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Avid",
-  "artist": "SawanoHiroyuki[nZk]",
+  "artist": "SawanoHiroyuki",
   "collection": "【Figaro 】唱很多动漫歌曲吧！#karaoke  #VSinge",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mS9mYpEYL?p=14",
@@ -19630,8 +19630,8 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "アルペジオ",
-  "artist": "[ALEXANDROS]",
+  "title": "アルペジオ -",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro/弾き語り】音楽合宿 Day2 #バトってふぃがろ オフコラボ！2025年9月18日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11kWTzgEXZ?p=9",
@@ -21535,7 +21535,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Call of Silence",
-  "artist": "SawanoHiroyuki[nZk]",
+  "artist": "SawanoHiroyuki",
   "collection": "【歌切】 #242 冬日的脚步与温柔的歌声🌙 冬の足音と穏やかなお歌 Singing Stream【 Figaro Vtuber 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aZ1tBjEU8?p=6",
@@ -22879,7 +22879,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Call of Silence",
-  "artist": "SawanoHiroyuki[nZk]",
+  "artist": "SawanoHiroyuki",
   "collection": "【Figaro】🎧#248 寝落ち推奨 歌枠 日曜日24時｜月曜日への最高の睡眠導入BGM🎧 優しい歌声で眠りへ【Vsinger Figaro】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kBm6BvEhS?p=11",
@@ -23030,8 +23030,8 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "アルペジオ",
-  "artist": "[ALEXANDROS]",
+  "title": "アルペジオ -",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【Figaro】2025年12月17日 今日もお疲れ様！明日への元気をチャージする夜の歌。初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WpqLBVEeR?p=13",
@@ -23271,7 +23271,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "gravityWall",
-  "artist": "SawanoHiroyuki[nZk]",
+  "artist": "SawanoHiroyuki",
   "collection": "【Figaro】華の金曜日と楽しのアニソンの時間！2025年12月19日 【初見さん歓迎 / Vsinger Figaro】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tNqrBDEPP?p=8",

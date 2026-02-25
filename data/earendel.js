@@ -1,6 +1,6 @@
-// 厄倫蒂兒 - 歌单数据（油猴逻辑复刻版）
+// 厄倫蒂兒 - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1dGqeYpEuc
-// 生成时间: 2/25/2026, 6:03:47 PM
+// 生成时间: 2/25/2026, 7:28:19 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7055,7 +7055,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "不難",
-  "artist": "徐佳瑩 [BV1ZXNeeAEqZ_p1]",
+  "artist": "徐佳瑩",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=70",
@@ -7063,7 +7063,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Departures ～あなたにおくるアイの歌～",
-  "artist": "EGOIST [BV1ZXNeeAEqZ_p2]",
+  "artist": "EGOIST",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=71",
@@ -7071,7 +7071,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "如果那通電話有接通",
-  "artist": "DIOR大穎 [BV1ZXNeeAEqZ_p3]",
+  "artist": "DIOR大穎",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=72",
@@ -7079,7 +7079,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "メリーゴーランド",
-  "artist": "優里 [BV1ZXNeeAEqZ_p4]",
+  "artist": "優里",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=73",
@@ -7087,7 +7087,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "小幸運",
-  "artist": "田馥甄 [BV1ZXNeeAEqZ_p5]",
+  "artist": "田馥甄",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=74",
@@ -7095,7 +7095,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Answer",
-  "artist": "幾田りら [BV1ZXNeeAEqZ_p6]",
+  "artist": "幾田りら",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=75",
@@ -7103,7 +7103,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "推開世界的門",
-  "artist": "楊乃文 [BV1ZXNeeAEqZ_p7]",
+  "artist": "楊乃文",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=76",
@@ -7111,7 +7111,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "A Thousand Years",
-  "artist": "Christina Perri [BV1ZXNeeAEqZ_p8]",
+  "artist": "Christina Perri",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=77",
@@ -7119,7 +7119,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "未命名原創曲",
-  "artist": "蒂兒 [BV1ZXNeeAEqZ_p9]",
+  "artist": "蒂兒",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=78",
@@ -7127,7 +7127,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "迴避型人格",
-  "artist": "蒂兒 [BV1ZXNeeAEqZ_p10]",
+  "artist": "蒂兒",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=79",
@@ -7135,7 +7135,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "I Love You",
-  "artist": "クリス・ハート [BV1ZXNeeAEqZ_p11]",
+  "artist": "クリス・ハート",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=80",
@@ -7143,7 +7143,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "500天",
-  "artist": "九九 [BV1ZXNeeAEqZ_p12]",
+  "artist": "九九",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=81",
@@ -7151,7 +7151,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ドライフラワー",
-  "artist": "優里 [BV1ZXNeeAEqZ_p13]",
+  "artist": "優里",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=82",
@@ -7159,7 +7159,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "太陽",
-  "artist": "邱振哲 [BV1ZXNeeAEqZ_p14]",
+  "artist": "邱振哲",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=83",
@@ -7167,7 +7167,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Stay With Me",
-  "artist": "松原美紀 [BV1ZXNeeAEqZ_p15]",
+  "artist": "松原美紀",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=84",
@@ -7175,7 +7175,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "路過人間",
-  "artist": "郁可唯 [BV1ZXNeeAEqZ_p16]",
+  "artist": "郁可唯",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=85",
@@ -7183,7 +7183,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "また あした",
-  "artist": "ふわりP ft. 初音ミク [BV1ZXNeeAEqZ_p17]",
+  "artist": "ふわりP ft. 初音ミク",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=86",

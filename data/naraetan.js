@@ -1,6 +1,6 @@
-// なれたん Naraetan - 歌单数据（油猴逻辑复刻版）
+// なれたん Naraetan - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1G6fLB7Efr
-// 生成时间: 2/25/2026, 5:57:50 PM
+// 生成时间: 2/25/2026, 7:23:12 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
