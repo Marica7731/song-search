@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1G6fLB7Efr
-// 生成时间: 2/25/2026, 4:12:04 AM
+// 生成时间: 2/25/2026, 5:55:10 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1543,7 +1543,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "みむかゥわナイストライ",
-  "artist": "(不明)",
+  "artist": "初音ミク",
   "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1R3ZKBHEBf?p=8",
