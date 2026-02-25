@@ -1,6 +1,6 @@
 // 來-Ray- - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1mJZwB8EVa
-// 生成时间: 2/25/2026, 7:24:57 PM
+// 生成时间: 2/25/2026, 7:51:31 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -79,7 +79,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Lockdown(feat. NEONA)",
-  "artist": "PIKASONIC&Tatsunoshin&Neona    [_A45Ew8l",
+  "artist": "PIKASONIC&Tatsunoshin&Neona",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mJZwB8EVa?p=10",
@@ -1551,7 +1551,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "このピアノでお前を8759632145回ぶん殴る",
-  "artist": "SLAVE.V-V-R feat. 猫村いろは   [K8F7-Bcvgj",
+  "artist": "SLAVE.V-V-R feat. 猫村いろは",
   "collection": "來-Ray-  歌切 2025-11-08 ~  2026-01-18",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wUZcBQEBo?p=6",
