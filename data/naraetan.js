@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1G6fLB7Efr
-// 生成时间: 2/25/2026, 6:52:43 AM
+// 生成时间: 2/25/2026, 7:45:55 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4319,16 +4319,16 @@ window.SONG_DATA.push(
 },
     {
   "title": "1／ｆ",
-  "artist": "LISA Cover by なねたん",
-  "collection": "1／ｆ - LISA Cover by なねたん",
+  "artist": "LISA Cover by なれたん",
+  "collection": "1／ｆ - LISA Cover by なれたん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yTfFB9Ekj?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "奏",
-  "artist": "スキマスイッチ cover by なねたん",
-  "collection": "奏 - スキマスイッチ cover by なねたん",
+  "artist": "スキマスイッチ cover by なれたん",
+  "collection": "奏 - スキマスイッチ cover by なれたん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XcfBBGEL5?p=1",
   "source": "naraetan.js"
@@ -4435,6 +4435,14 @@ window.SONG_DATA.push(
   "collection": "【なれたん歌切🌷】一曲だけでも聞いてってください[2026-02-24]💕Please stay and listen to at least one so",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Q4fUBNEKb?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "カワキヲアメク",
+  "artist": "美波 cover by なれたん",
+  "collection": "カワキヲアメク - 美波 cover by なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dif4BUENb?p=1",
   "source": "naraetan.js"
 }
 );
