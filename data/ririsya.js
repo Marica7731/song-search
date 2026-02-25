@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1cofuBGEkX
-// 生成时间: 2/25/2026, 8:39:19 AM
+// 生成时间: 2/25/2026, 9:44:23 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9734,7 +9734,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "Fake face dance music",
+  "title": "fake face dance music",
   "artist": "音田雅則",
   "collection": "【#凛々咲  歌切】 低音で歌ってみる歌枠 ✧ Deep Voice Singing",
   "up": "前尘往事如昔故",

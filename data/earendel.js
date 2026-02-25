@@ -1,6 +1,6 @@
 // 厄倫蒂兒 - 歌单数据（油猴逻辑复刻版）
 // 来源: https://www.bilibili.com/video/BV1dGqeYpEuc
-// 生成时间: 2/25/2026, 8:44:37 AM
+// 生成时间: 2/25/2026, 9:48:30 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10422,8 +10422,8 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "SawanoHiroyuki[nZk]mizuki『Avid』",
-  "artist": "mizuki",
+  "title": "Avid",
+  "artist": "SawanoHiroyuki[nZk]mizuki",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=41",
