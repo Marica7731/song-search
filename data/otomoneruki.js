@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1zzZPBsEum
-// 生成时间: 2/25/2026, 9:32:21 PM
+// 生成时间: 2/25/2026, 10:26:10 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8,7 +8,7 @@ window.SONG_DATA.push(
     {
   "title": "Bling-Bang-Bang-Born",
   "artist": "Creepy Nuts",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=1",
   "source": "otomoneruki.js"
@@ -16,7 +16,7 @@ window.SONG_DATA.push(
     {
   "title": "Butter-Fly",
   "artist": "和田光司",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=2",
   "source": "otomoneruki.js"
@@ -24,7 +24,7 @@ window.SONG_DATA.push(
     {
   "title": "踊",
   "artist": "Ado",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=3",
   "source": "otomoneruki.js"
@@ -32,7 +32,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄",
   "artist": "Vaundy",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=4",
   "source": "otomoneruki.js"
@@ -40,7 +40,7 @@ window.SONG_DATA.push(
     {
   "title": "バイオレンス",
   "artist": "女王蜂",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=5",
   "source": "otomoneruki.js"
@@ -48,7 +48,7 @@ window.SONG_DATA.push(
     {
   "title": "感電",
   "artist": "米津玄師",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=6",
   "source": "otomoneruki.js"
@@ -56,7 +56,7 @@ window.SONG_DATA.push(
     {
   "title": "きっとビタミン",
   "artist": "音門るき",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=7",
   "source": "otomoneruki.js"
@@ -64,7 +64,7 @@ window.SONG_DATA.push(
     {
   "title": "さくらんぼ",
   "artist": "大塚愛",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=8",
   "source": "otomoneruki.js"
@@ -72,7 +72,7 @@ window.SONG_DATA.push(
     {
   "title": "メロウ",
   "artist": "須田景凪",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=9",
   "source": "otomoneruki.js"
@@ -80,7 +80,7 @@ window.SONG_DATA.push(
     {
   "title": "私は最強",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=10",
   "source": "otomoneruki.js"
@@ -88,7 +88,7 @@ window.SONG_DATA.push(
     {
   "title": "オリオンをなぞる",
   "artist": "UNISON SQUARE GARDEN",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=11",
   "source": "otomoneruki.js"
@@ -96,7 +96,7 @@ window.SONG_DATA.push(
     {
   "title": "月光花",
   "artist": "Janne Da Arc",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=12",
   "source": "otomoneruki.js"
@@ -104,7 +104,7 @@ window.SONG_DATA.push(
     {
   "title": "曇天",
   "artist": "DOES",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=13",
   "source": "otomoneruki.js"
@@ -112,7 +112,7 @@ window.SONG_DATA.push(
     {
   "title": "メルト",
   "artist": "ryo(supercell)",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=14",
   "source": "otomoneruki.js"
@@ -120,7 +120,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=15",
   "source": "otomoneruki.js"
@@ -128,7 +128,7 @@ window.SONG_DATA.push(
     {
   "title": "雨傘",
   "artist": "TOKIO",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=16",
   "source": "otomoneruki.js"
@@ -136,7 +136,7 @@ window.SONG_DATA.push(
     {
   "title": "虹",
   "artist": "福山雅治",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=17",
   "source": "otomoneruki.js"
@@ -144,7 +144,7 @@ window.SONG_DATA.push(
     {
   "title": "瞬き",
   "artist": "back number",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=18",
   "source": "otomoneruki.js"
@@ -152,7 +152,7 @@ window.SONG_DATA.push(
     {
   "title": "ホログラム",
   "artist": "NICO Touches the Walls",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=19",
   "source": "otomoneruki.js"
@@ -160,7 +160,7 @@ window.SONG_DATA.push(
     {
   "title": "レイン",
   "artist": "シド",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=20",
   "source": "otomoneruki.js"
@@ -168,7 +168,7 @@ window.SONG_DATA.push(
     {
   "title": "ランデヴー",
   "artist": "シャイトープ",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=21",
   "source": "otomoneruki.js"
@@ -176,7 +176,7 @@ window.SONG_DATA.push(
     {
   "title": "カワキヲアメク",
   "artist": "美波",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=22",
   "source": "otomoneruki.js"
@@ -184,7 +184,7 @@ window.SONG_DATA.push(
     {
   "title": "Lemon",
   "artist": "米津玄師",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=23",
   "source": "otomoneruki.js"
@@ -192,7 +192,7 @@ window.SONG_DATA.push(
     {
   "title": "雫",
   "artist": "スキマスイッチ",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=24",
   "source": "otomoneruki.js"
@@ -200,7 +200,7 @@ window.SONG_DATA.push(
     {
   "title": "Glare",
   "artist": "dtto.",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=25",
   "source": "otomoneruki.js"
@@ -208,7 +208,7 @@ window.SONG_DATA.push(
     {
   "title": "恋風邪にのせて",
   "artist": "Vaundy",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=26",
   "source": "otomoneruki.js"
@@ -216,7 +216,7 @@ window.SONG_DATA.push(
     {
   "title": "天体観測",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=27",
   "source": "otomoneruki.js"
@@ -224,7 +224,7 @@ window.SONG_DATA.push(
     {
   "title": "Plazma",
   "artist": "米津玄師",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=28",
   "source": "otomoneruki.js"
@@ -232,7 +232,7 @@ window.SONG_DATA.push(
     {
   "title": "クスシキ",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=29",
   "source": "otomoneruki.js"
@@ -240,7 +240,7 @@ window.SONG_DATA.push(
     {
   "title": "群青讃歌",
   "artist": "Eve",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=30",
   "source": "otomoneruki.js"
@@ -248,7 +248,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣",
   "artist": "サカナクション",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=31",
   "source": "otomoneruki.js"
@@ -256,7 +256,7 @@ window.SONG_DATA.push(
     {
   "title": "サムライハート",
   "artist": "SPYAIR",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=32",
   "source": "otomoneruki.js"
@@ -264,7 +264,7 @@ window.SONG_DATA.push(
     {
   "title": "アゲハ蝶",
   "artist": "ポルノグラフィティ",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=33",
   "source": "otomoneruki.js"
@@ -272,7 +272,7 @@ window.SONG_DATA.push(
     {
   "title": "青と夏",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=34",
   "source": "otomoneruki.js"
@@ -280,7 +280,7 @@ window.SONG_DATA.push(
     {
   "title": "マトリョシカ",
   "artist": "ハチ",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=35",
   "source": "otomoneruki.js"
@@ -288,7 +288,7 @@ window.SONG_DATA.push(
     {
   "title": "Plazma",
   "artist": "米津玄師",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=36",
   "source": "otomoneruki.js"
@@ -296,7 +296,7 @@ window.SONG_DATA.push(
     {
   "title": "新宝島",
   "artist": "サカナクション",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=37",
   "source": "otomoneruki.js"
@@ -304,7 +304,7 @@ window.SONG_DATA.push(
     {
   "title": "星間飛行",
   "artist": "ランカ・リー = 中島愛",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=38",
   "source": "otomoneruki.js"
@@ -312,7 +312,7 @@ window.SONG_DATA.push(
     {
   "title": "クスシキ",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=39",
   "source": "otomoneruki.js"
@@ -320,7 +320,7 @@ window.SONG_DATA.push(
     {
   "title": "深海少女",
   "artist": "ゆうゆ feat.初音ミク",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=40",
   "source": "otomoneruki.js"
@@ -328,7 +328,7 @@ window.SONG_DATA.push(
     {
   "title": "君の知らない物語",
   "artist": "supercell",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=41",
   "source": "otomoneruki.js"
@@ -336,7 +336,7 @@ window.SONG_DATA.push(
     {
   "title": "表裏一体",
   "artist": "ゆず",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=42",
   "source": "otomoneruki.js"
@@ -344,7 +344,7 @@ window.SONG_DATA.push(
     {
   "title": "Diver",
   "artist": "NICO Touches the walls",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=43",
   "source": "otomoneruki.js"
@@ -352,7 +352,7 @@ window.SONG_DATA.push(
     {
   "title": "からくりピエロ",
   "artist": "40mP(feat.初音ミク)",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=44",
   "source": "otomoneruki.js"
@@ -360,7 +360,7 @@ window.SONG_DATA.push(
     {
   "title": "ブラックロック★シューター",
   "artist": "supercell",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=45",
   "source": "otomoneruki.js"
@@ -368,7 +368,7 @@ window.SONG_DATA.push(
     {
   "title": "ウィーアー！",
   "artist": "きただにひろし",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=46",
   "source": "otomoneruki.js"
@@ -376,7 +376,7 @@ window.SONG_DATA.push(
     {
   "title": "Bling-Bang-Bang-Born",
   "artist": "Creepy Nuts",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=47",
   "source": "otomoneruki.js"
@@ -384,7 +384,7 @@ window.SONG_DATA.push(
     {
   "title": "え!あぁ、そう。",
   "artist": "蝶々P feat.初音ミク",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=48",
   "source": "otomoneruki.js"
@@ -392,7 +392,7 @@ window.SONG_DATA.push(
     {
   "title": "KICK BACK",
   "artist": "米津玄師",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=49",
   "source": "otomoneruki.js"
@@ -400,7 +400,7 @@ window.SONG_DATA.push(
     {
   "title": "clock lock works",
   "artist": "ハチ",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=50",
   "source": "otomoneruki.js"
@@ -408,7 +408,7 @@ window.SONG_DATA.push(
     {
   "title": "ラフメイカー",
   "artist": "BUMP OFCHICKEN",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=51",
   "source": "otomoneruki.js"
@@ -416,7 +416,7 @@ window.SONG_DATA.push(
     {
   "title": "クスシキ",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=52",
   "source": "otomoneruki.js"
@@ -424,7 +424,7 @@ window.SONG_DATA.push(
     {
   "title": "美しい鰭",
   "artist": "スピッツ",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=53",
   "source": "otomoneruki.js"
@@ -432,7 +432,7 @@ window.SONG_DATA.push(
     {
   "title": "花に亡霊",
   "artist": "ヨルシカ",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=54",
   "source": "otomoneruki.js"
@@ -440,7 +440,7 @@ window.SONG_DATA.push(
     {
   "title": "甲賀忍法帖",
   "artist": "陰陽座",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=55",
   "source": "otomoneruki.js"
@@ -448,7 +448,7 @@ window.SONG_DATA.push(
     {
   "title": "星間飛行",
   "artist": "ランカ・リー",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=56",
   "source": "otomoneruki.js"
@@ -456,7 +456,7 @@ window.SONG_DATA.push(
     {
   "title": "Walking with you",
   "artist": "Novelbright",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=57",
   "source": "otomoneruki.js"
@@ -464,7 +464,7 @@ window.SONG_DATA.push(
     {
   "title": "ともに",
   "artist": "WANIMA",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=58",
   "source": "otomoneruki.js"
@@ -472,7 +472,7 @@ window.SONG_DATA.push(
     {
   "title": "シルエット",
   "artist": "KANA-BOON",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=59",
   "source": "otomoneruki.js"
@@ -480,7 +480,7 @@ window.SONG_DATA.push(
     {
   "title": "Mela！",
   "artist": "緑黄色社会",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=60",
   "source": "otomoneruki.js"
@@ -488,7 +488,7 @@ window.SONG_DATA.push(
     {
   "title": "イケナイ太陽",
   "artist": "ORANGE RANGE",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=61",
   "source": "otomoneruki.js"
@@ -496,7 +496,7 @@ window.SONG_DATA.push(
     {
   "title": "メランコリーキッチン",
   "artist": "米津玄師",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=62",
   "source": "otomoneruki.js"
@@ -504,7 +504,7 @@ window.SONG_DATA.push(
     {
   "title": "恋",
   "artist": "星野源",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=63",
   "source": "otomoneruki.js"
@@ -512,7 +512,7 @@ window.SONG_DATA.push(
     {
   "title": "気まぐれロマンティック",
   "artist": "いきものがかり",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=64",
   "source": "otomoneruki.js"
@@ -520,7 +520,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs.GEEN APPLE",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=65",
   "source": "otomoneruki.js"
@@ -528,7 +528,7 @@ window.SONG_DATA.push(
     {
   "title": "ソラニン",
   "artist": "ASIAN KUNG-FU GENERATION",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=66",
   "source": "otomoneruki.js"
@@ -536,7 +536,7 @@ window.SONG_DATA.push(
     {
   "title": "ミスター・ブルースカイ",
   "artist": "マカロニえんぴつ",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=67",
   "source": "otomoneruki.js"
@@ -544,7 +544,7 @@ window.SONG_DATA.push(
     {
   "title": "踊り子",
   "artist": "Vaundy",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=68",
   "source": "otomoneruki.js"
@@ -552,7 +552,7 @@ window.SONG_DATA.push(
     {
   "title": "アナタノオト",
   "artist": "ランカ・リー=中島愛",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=69",
   "source": "otomoneruki.js"
@@ -560,7 +560,7 @@ window.SONG_DATA.push(
     {
   "title": "ケセラセラ",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=70",
   "source": "otomoneruki.js"
@@ -568,7 +568,7 @@ window.SONG_DATA.push(
     {
   "title": "Habit",
   "artist": "SEKAI NO OWARI",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=71",
   "source": "otomoneruki.js"
@@ -576,7 +576,7 @@ window.SONG_DATA.push(
     {
   "title": "死ぬな！",
   "artist": "こっちのけんと",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=72",
   "source": "otomoneruki.js"
@@ -584,7 +584,7 @@ window.SONG_DATA.push(
     {
   "title": "残響散歌",
   "artist": "Aimer",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=73",
   "source": "otomoneruki.js"
@@ -592,7 +592,7 @@ window.SONG_DATA.push(
     {
   "title": "more than words",
   "artist": "羊文学",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=74",
   "source": "otomoneruki.js"
@@ -600,7 +600,7 @@ window.SONG_DATA.push(
     {
   "title": "毎日",
   "artist": "米津玄師",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=75",
   "source": "otomoneruki.js"
@@ -608,7 +608,7 @@ window.SONG_DATA.push(
     {
   "title": "Happiness",
   "artist": "嵐",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=76",
   "source": "otomoneruki.js"
@@ -616,7 +616,7 @@ window.SONG_DATA.push(
     {
   "title": "なにやってもうまくいかない",
   "artist": "meiyo",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=77",
   "source": "otomoneruki.js"
@@ -624,7 +624,7 @@ window.SONG_DATA.push(
     {
   "title": "深海少女",
   "artist": "ゆうゆ feat.初音ミク",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=78",
   "source": "otomoneruki.js"
@@ -632,7 +632,7 @@ window.SONG_DATA.push(
     {
   "title": "花に亡霊",
   "artist": "ヨルシカ",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=79",
   "source": "otomoneruki.js"
@@ -640,7 +640,7 @@ window.SONG_DATA.push(
     {
   "title": "タイムマシーン",
   "artist": "1640mP(164×40mP) feat.初音ミク",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=80",
   "source": "otomoneruki.js"
@@ -648,7 +648,7 @@ window.SONG_DATA.push(
     {
   "title": "花占い",
   "artist": "Vaundy",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=81",
   "source": "otomoneruki.js"
@@ -656,7 +656,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄",
   "artist": "Vaundy",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=82",
   "source": "otomoneruki.js"
@@ -664,7 +664,7 @@ window.SONG_DATA.push(
     {
   "title": "花に亡霊",
   "artist": "ヨルシカ",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=83",
   "source": "otomoneruki.js"
@@ -672,7 +672,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌",
   "artist": "tuki.",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=84",
   "source": "otomoneruki.js"
@@ -680,7 +680,7 @@ window.SONG_DATA.push(
     {
   "title": "V.I.P",
   "artist": "シド",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=85",
   "source": "otomoneruki.js"
@@ -688,7 +688,7 @@ window.SONG_DATA.push(
     {
   "title": "恋",
   "artist": "星野源",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=86",
   "source": "otomoneruki.js"
@@ -696,7 +696,7 @@ window.SONG_DATA.push(
     {
   "title": "オリオンをなぞる",
   "artist": "UNISON SQUARE GARDEN",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=87",
   "source": "otomoneruki.js"
@@ -704,7 +704,7 @@ window.SONG_DATA.push(
     {
   "title": "きっとビタミン",
   "artist": "音門るき",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=88",
   "source": "otomoneruki.js"
@@ -712,7 +712,7 @@ window.SONG_DATA.push(
     {
   "title": "シルエット",
   "artist": "KANA-BOON",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=89",
   "source": "otomoneruki.js"
@@ -720,7 +720,7 @@ window.SONG_DATA.push(
     {
   "title": "Bling-Bang-Bang-Born",
   "artist": "Creepy Nuts",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=90",
   "source": "otomoneruki.js"
@@ -728,7 +728,7 @@ window.SONG_DATA.push(
     {
   "title": "ビビデバ",
   "artist": "星街すいせい",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=91",
   "source": "otomoneruki.js"
@@ -736,7 +736,7 @@ window.SONG_DATA.push(
     {
   "title": "勇者",
   "artist": "YOASOBI",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=92",
   "source": "otomoneruki.js"
@@ -744,7 +744,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=93",
   "source": "otomoneruki.js"
@@ -752,7 +752,7 @@ window.SONG_DATA.push(
     {
   "title": "ロマンティックあげるよ",
   "artist": "橋本潮",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=94",
   "source": "otomoneruki.js"
@@ -760,7 +760,7 @@ window.SONG_DATA.push(
     {
   "title": "雫",
   "artist": "スキマスイッチ",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=95",
   "source": "otomoneruki.js"
@@ -768,7 +768,7 @@ window.SONG_DATA.push(
     {
   "title": "ミュージック・アワー",
   "artist": "ポルノグラフィティ",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=96",
   "source": "otomoneruki.js"
@@ -776,7 +776,7 @@ window.SONG_DATA.push(
     {
   "title": "消せない罪",
   "artist": "北出菜奈",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=97",
   "source": "otomoneruki.js"
@@ -784,7 +784,7 @@ window.SONG_DATA.push(
     {
   "title": "青と夏(acoustic cover)",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=98",
   "source": "otomoneruki.js"
@@ -792,7 +792,7 @@ window.SONG_DATA.push(
     {
   "title": "おとせサンダー",
   "artist": "ぼっちぼろまる",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=99",
   "source": "otomoneruki.js"
@@ -800,7 +800,7 @@ window.SONG_DATA.push(
     {
   "title": "青い珊瑚礁",
   "artist": "松田聖子",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=100",
   "source": "otomoneruki.js"
@@ -808,7 +808,7 @@ window.SONG_DATA.push(
     {
   "title": "ピースサイン",
   "artist": "米津玄師",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=101",
   "source": "otomoneruki.js"
@@ -816,7 +816,7 @@ window.SONG_DATA.push(
     {
   "title": "HOT LIMIT",
   "artist": "T.M.Revolution",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=102",
   "source": "otomoneruki.js"
@@ -824,7 +824,7 @@ window.SONG_DATA.push(
     {
   "title": "青のすみか",
   "artist": "キタニタツヤ",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=103",
   "source": "otomoneruki.js"
@@ -832,7 +832,7 @@ window.SONG_DATA.push(
     {
   "title": "ココロオドル",
   "artist": "nobodyknows+",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=104",
   "source": "otomoneruki.js"
@@ -840,7 +840,7 @@ window.SONG_DATA.push(
     {
   "title": "サムライハート(Some Like It Hot！)",
   "artist": "SPYAIR",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=105",
   "source": "otomoneruki.js"
@@ -848,7 +848,7 @@ window.SONG_DATA.push(
     {
   "title": "きっとビタミン",
   "artist": "音門るき",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=106",
   "source": "otomoneruki.js"
@@ -856,7 +856,7 @@ window.SONG_DATA.push(
     {
   "title": "踊り子",
   "artist": "Vaundy",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=107",
   "source": "otomoneruki.js"
@@ -864,7 +864,7 @@ window.SONG_DATA.push(
     {
   "title": "アイネクライネ",
   "artist": "米津玄師",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=108",
   "source": "otomoneruki.js"
@@ -872,7 +872,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=109",
   "source": "otomoneruki.js"
@@ -880,7 +880,7 @@ window.SONG_DATA.push(
     {
   "title": "クスシキ",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=110",
   "source": "otomoneruki.js"
@@ -888,7 +888,7 @@ window.SONG_DATA.push(
     {
   "title": "新宝島",
   "artist": "サカナクション",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=111",
   "source": "otomoneruki.js"
@@ -896,7 +896,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣",
   "artist": "サカナクション",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=112",
   "source": "otomoneruki.js"
@@ -904,7 +904,7 @@ window.SONG_DATA.push(
     {
   "title": "ワールドイズマイン",
   "artist": "supercell",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=113",
   "source": "otomoneruki.js"
@@ -912,7 +912,7 @@ window.SONG_DATA.push(
     {
   "title": "タイヨウのうた",
   "artist": "Kaoru Amane",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=114",
   "source": "otomoneruki.js"
@@ -920,7 +920,7 @@ window.SONG_DATA.push(
     {
   "title": "火炎",
   "artist": "女王蜂",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=115",
   "source": "otomoneruki.js"
@@ -928,7 +928,7 @@ window.SONG_DATA.push(
     {
   "title": "glow",
   "artist": "Kneeno feat.初音ミク",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=116",
   "source": "otomoneruki.js"
@@ -936,7 +936,7 @@ window.SONG_DATA.push(
     {
   "title": "貴方解剖純愛歌~死ね~",
   "artist": "あいみょん",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=117",
   "source": "otomoneruki.js"
@@ -944,7 +944,7 @@ window.SONG_DATA.push(
     {
   "title": "DANZEN！ふたりはプリキュア(Ver.Max Heart)",
   "artist": "五條真由美",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=118",
   "source": "otomoneruki.js"
@@ -952,7 +952,7 @@ window.SONG_DATA.push(
     {
   "title": "Plazma",
   "artist": "米津玄師",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=119",
   "source": "otomoneruki.js"
@@ -960,7 +960,7 @@ window.SONG_DATA.push(
     {
   "title": "革命道中",
   "artist": "アイナ・ジ・エンド",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=120",
   "source": "otomoneruki.js"
@@ -968,7 +968,7 @@ window.SONG_DATA.push(
     {
   "title": "なんでもないよ、",
   "artist": "マカロニえんぴつ",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=121",
   "source": "otomoneruki.js"
@@ -976,7 +976,7 @@ window.SONG_DATA.push(
     {
   "title": "花占い",
   "artist": "Vaundy",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=122",
   "source": "otomoneruki.js"
@@ -984,7 +984,7 @@ window.SONG_DATA.push(
     {
   "title": "金曜日のおはよう",
   "artist": "HoneyWorks",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=123",
   "source": "otomoneruki.js"
@@ -992,7 +992,7 @@ window.SONG_DATA.push(
     {
   "title": "メロウ",
   "artist": "須田景凪",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=124",
   "source": "otomoneruki.js"
@@ -1000,7 +1000,7 @@ window.SONG_DATA.push(
     {
   "title": "水平線",
   "artist": "back number",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=125",
   "source": "otomoneruki.js"
@@ -1008,7 +1008,7 @@ window.SONG_DATA.push(
     {
   "title": "イケナイ太陽",
   "artist": "ORANGE RANGE",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=126",
   "source": "otomoneruki.js"
@@ -1016,7 +1016,7 @@ window.SONG_DATA.push(
     {
   "title": "コネクト",
   "artist": "ClariS",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=127",
   "source": "otomoneruki.js"
@@ -1024,7 +1024,7 @@ window.SONG_DATA.push(
     {
   "title": "サマータイムレコード",
   "artist": "じん(自然の敵P)feat.IA",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=128",
   "source": "otomoneruki.js"
@@ -1032,7 +1032,7 @@ window.SONG_DATA.push(
     {
   "title": "ムーンライト伝説",
   "artist": "DALI",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=129",
   "source": "otomoneruki.js"
@@ -1040,7 +1040,7 @@ window.SONG_DATA.push(
     {
   "title": "君の知らない物語",
   "artist": "supercell",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=130",
   "source": "otomoneruki.js"
@@ -1048,7 +1048,7 @@ window.SONG_DATA.push(
     {
   "title": "CHA-LA HEAD-CHA-LA",
   "artist": "影山ヒロノブ",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=131",
   "source": "otomoneruki.js"
@@ -1056,7 +1056,7 @@ window.SONG_DATA.push(
     {
   "title": "ライバル！",
   "artist": "松本梨香",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=132",
   "source": "otomoneruki.js"
@@ -1064,7 +1064,7 @@ window.SONG_DATA.push(
     {
   "title": "気まぐれロマンティック",
   "artist": "いきものがかり",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=133",
   "source": "otomoneruki.js"
@@ -1072,7 +1072,7 @@ window.SONG_DATA.push(
     {
   "title": "Fire◎Flower",
   "artist": "halyosy feat.鏡音レン",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=134",
   "source": "otomoneruki.js"
@@ -1080,7 +1080,7 @@ window.SONG_DATA.push(
     {
   "title": "インフェルノ",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=135",
   "source": "otomoneruki.js"
@@ -1088,7 +1088,7 @@ window.SONG_DATA.push(
     {
   "title": "ダイヤモンドクレバス",
   "artist": "シェリル・ノーム starring May'n",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=136",
   "source": "otomoneruki.js"
@@ -1096,7 +1096,7 @@ window.SONG_DATA.push(
     {
   "title": "シルエット",
   "artist": "KANA-BOON",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=137",
   "source": "otomoneruki.js"
@@ -1104,7 +1104,7 @@ window.SONG_DATA.push(
     {
   "title": "可愛くなりたい",
   "artist": "HoneyWorks",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=138",
   "source": "otomoneruki.js"
@@ -1112,7 +1112,7 @@ window.SONG_DATA.push(
     {
   "title": "ケセラセラ",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=139",
   "source": "otomoneruki.js"
@@ -1120,7 +1120,7 @@ window.SONG_DATA.push(
     {
   "title": "私は最強",
   "artist": "Ado",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=140",
   "source": "otomoneruki.js"
@@ -1128,7 +1128,7 @@ window.SONG_DATA.push(
     {
   "title": "青と夏(アコースティックver.)",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=141",
   "source": "otomoneruki.js"
@@ -1136,7 +1136,7 @@ window.SONG_DATA.push(
     {
   "title": "シャルル",
   "artist": "バルーン",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=142",
   "source": "otomoneruki.js"
@@ -1144,7 +1144,7 @@ window.SONG_DATA.push(
     {
   "title": "ひゅるりらぱっぱ",
   "artist": "tuki.",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=143",
   "source": "otomoneruki.js"
@@ -1152,7 +1152,7 @@ window.SONG_DATA.push(
     {
   "title": "スターマイン",
   "artist": "Da-iCE",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=144",
   "source": "otomoneruki.js"
@@ -1160,7 +1160,7 @@ window.SONG_DATA.push(
     {
   "title": "喜劇",
   "artist": "星野 源",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=145",
   "source": "otomoneruki.js"
@@ -1168,7 +1168,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=146",
   "source": "otomoneruki.js"
@@ -1176,7 +1176,7 @@ window.SONG_DATA.push(
     {
   "title": "Squall",
   "artist": "福山雅治",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=147",
   "source": "otomoneruki.js"
@@ -1184,7 +1184,7 @@ window.SONG_DATA.push(
     {
   "title": "ひゅるりらぱっぱ",
   "artist": "tuki.",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=148",
   "source": "otomoneruki.js"
@@ -1192,7 +1192,7 @@ window.SONG_DATA.push(
     {
   "title": "ハナミズキ",
   "artist": "一青窈",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=149",
   "source": "otomoneruki.js"
@@ -1200,7 +1200,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れてください",
   "artist": "ヨルシカ",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=150",
   "source": "otomoneruki.js"
@@ -1208,7 +1208,7 @@ window.SONG_DATA.push(
     {
   "title": "アカシア",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=151",
   "source": "otomoneruki.js"
@@ -1216,7 +1216,7 @@ window.SONG_DATA.push(
     {
   "title": "SKILL",
   "artist": "JAM Project",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=152",
   "source": "otomoneruki.js"
@@ -1224,7 +1224,7 @@ window.SONG_DATA.push(
     {
   "title": "雪、無音、窓辺にて。",
   "artist": "茅原実里",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=153",
   "source": "otomoneruki.js"
@@ -1232,7 +1232,7 @@ window.SONG_DATA.push(
     {
   "title": "青春アミーゴ",
   "artist": "修二と彰",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=154",
   "source": "otomoneruki.js"
@@ -1240,7 +1240,7 @@ window.SONG_DATA.push(
     {
   "title": "キセキ",
   "artist": "GReeeeN",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=155",
   "source": "otomoneruki.js"
@@ -1248,7 +1248,7 @@ window.SONG_DATA.push(
     {
   "title": "イージーゲーム",
   "artist": "natsumi(feat.和ぬか)",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=156",
   "source": "otomoneruki.js"
@@ -1256,7 +1256,7 @@ window.SONG_DATA.push(
     {
   "title": "死ぬな！",
   "artist": "こっちのけんと",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=157",
   "source": "otomoneruki.js"
@@ -1264,7 +1264,7 @@ window.SONG_DATA.push(
     {
   "title": "真っ赤な誓い",
   "artist": "福山芳樹",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=158",
   "source": "otomoneruki.js"
@@ -1272,7 +1272,7 @@ window.SONG_DATA.push(
     {
   "title": "ようこそジャパリパークへ",
   "artist": "どうぶつビスケッツ×PPP",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=159",
   "source": "otomoneruki.js"
@@ -1280,7 +1280,7 @@ window.SONG_DATA.push(
     {
   "title": "クスシキ",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=160",
   "source": "otomoneruki.js"
@@ -1288,7 +1288,7 @@ window.SONG_DATA.push(
     {
   "title": "涙そうそう",
   "artist": "夏川りみ",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=161",
   "source": "otomoneruki.js"
@@ -1296,7 +1296,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍",
   "artist": "n-buna",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=162",
   "source": "otomoneruki.js"
@@ -1304,7 +1304,7 @@ window.SONG_DATA.push(
     {
   "title": "ジェンガ",
   "artist": "40mP feat.初音ミク",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=163",
   "source": "otomoneruki.js"
@@ -1312,7 +1312,7 @@ window.SONG_DATA.push(
     {
   "title": "ピエロ",
   "artist": "KEI",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=164",
   "source": "otomoneruki.js"
@@ -1320,7 +1320,7 @@ window.SONG_DATA.push(
     {
   "title": "若者のすべて",
   "artist": "フジファブリック",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=165",
   "source": "otomoneruki.js"
@@ -1328,7 +1328,7 @@ window.SONG_DATA.push(
     {
   "title": "悪者",
   "artist": "くじら",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=166",
   "source": "otomoneruki.js"
@@ -1336,7 +1336,7 @@ window.SONG_DATA.push(
     {
   "title": "よるのあと",
   "artist": "adieu",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=167",
   "source": "otomoneruki.js"
@@ -1344,7 +1344,7 @@ window.SONG_DATA.push(
     {
   "title": "青と夏(アコースティックver.)",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=168",
   "source": "otomoneruki.js"
@@ -1352,7 +1352,7 @@ window.SONG_DATA.push(
     {
   "title": "ルージュの伝言",
   "artist": "荒井由実",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=169",
   "source": "otomoneruki.js"
@@ -1360,7 +1360,7 @@ window.SONG_DATA.push(
     {
   "title": "残酷な天使のテーゼ",
   "artist": "高橋洋子",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=170",
   "source": "otomoneruki.js"
@@ -1368,7 +1368,7 @@ window.SONG_DATA.push(
     {
   "title": "BOW AND ARROW",
   "artist": "米津玄師",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=171",
   "source": "otomoneruki.js"
@@ -1376,7 +1376,7 @@ window.SONG_DATA.push(
     {
   "title": "ultra soul",
   "artist": "B'z",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=172",
   "source": "otomoneruki.js"
@@ -1384,7 +1384,7 @@ window.SONG_DATA.push(
     {
   "title": "世界に一つだけの花",
   "artist": "SMAP",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=173",
   "source": "otomoneruki.js"
@@ -1392,7 +1392,7 @@ window.SONG_DATA.push(
     {
   "title": "残響散歌",
   "artist": "Aimer",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=174",
   "source": "otomoneruki.js"
@@ -1400,7 +1400,7 @@ window.SONG_DATA.push(
     {
   "title": "未来予想図Ⅱ",
   "artist": "DREAMS COME TRUE",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=175",
   "source": "otomoneruki.js"
@@ -1408,7 +1408,7 @@ window.SONG_DATA.push(
     {
   "title": "チェリー",
   "artist": "スピッツ",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=176",
   "source": "otomoneruki.js"
@@ -1416,7 +1416,7 @@ window.SONG_DATA.push(
     {
   "title": "女々しくて",
   "artist": "ゴールデンボンバー",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=177",
   "source": "otomoneruki.js"
@@ -1424,7 +1424,7 @@ window.SONG_DATA.push(
     {
   "title": "はじめてのチュウ",
   "artist": "あんしんパパ",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=178",
   "source": "otomoneruki.js"
@@ -1432,7 +1432,7 @@ window.SONG_DATA.push(
     {
   "title": "ドライフラワー",
   "artist": "優里",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=179",
   "source": "otomoneruki.js"
@@ -1440,7 +1440,7 @@ window.SONG_DATA.push(
     {
   "title": "物の怪の類",
   "artist": "めいちゃん",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=180",
   "source": "otomoneruki.js"
@@ -1448,7 +1448,7 @@ window.SONG_DATA.push(
     {
   "title": "アポロ",
   "artist": "ポルノグラフィティ",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=181",
   "source": "otomoneruki.js"
@@ -1456,7 +1456,7 @@ window.SONG_DATA.push(
     {
   "title": "マツケンサンバⅡ",
   "artist": "松平健",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=182",
   "source": "otomoneruki.js"
@@ -1464,7 +1464,7 @@ window.SONG_DATA.push(
     {
   "title": "心絵",
   "artist": "ロードオブメジャー",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=183",
   "source": "otomoneruki.js"
@@ -1472,7 +1472,7 @@ window.SONG_DATA.push(
     {
   "title": "東京",
   "artist": "くじら",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=184",
   "source": "otomoneruki.js"
@@ -1480,7 +1480,7 @@ window.SONG_DATA.push(
     {
   "title": "glow",
   "artist": "Keeno feat.初音ミク",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=185",
   "source": "otomoneruki.js"
@@ -1488,7 +1488,7 @@ window.SONG_DATA.push(
     {
   "title": "シルエット",
   "artist": "KANA-BOON",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=186",
   "source": "otomoneruki.js"
@@ -1496,7 +1496,7 @@ window.SONG_DATA.push(
     {
   "title": "死神",
   "artist": "米津玄師",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=187",
   "source": "otomoneruki.js"
@@ -1504,7 +1504,7 @@ window.SONG_DATA.push(
     {
   "title": "ドライフラワー",
   "artist": "優里",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=188",
   "source": "otomoneruki.js"
@@ -1512,7 +1512,7 @@ window.SONG_DATA.push(
     {
   "title": "Overdose",
   "artist": "なとり",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=189",
   "source": "otomoneruki.js"
@@ -1520,7 +1520,7 @@ window.SONG_DATA.push(
     {
   "title": "Calc.",
   "artist": "ジミーサムP",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=190",
   "source": "otomoneruki.js"
@@ -1528,7 +1528,7 @@ window.SONG_DATA.push(
     {
   "title": "Bling-Bang-Bang-Born",
   "artist": "Creepy Nuts",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=191",
   "source": "otomoneruki.js"
@@ -1536,7 +1536,7 @@ window.SONG_DATA.push(
     {
   "title": "オトノケ",
   "artist": "Creepy Nuts",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=192",
   "source": "otomoneruki.js"
@@ -1544,7 +1544,7 @@ window.SONG_DATA.push(
     {
   "title": "Habit",
   "artist": "SEKAI NO OWARI",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=193",
   "source": "otomoneruki.js"
@@ -1552,7 +1552,7 @@ window.SONG_DATA.push(
     {
   "title": "シャルル",
   "artist": "バルーン",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=194",
   "source": "otomoneruki.js"
@@ -1560,7 +1560,7 @@ window.SONG_DATA.push(
     {
   "title": "ビビデバ",
   "artist": "星街すいせい",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=195",
   "source": "otomoneruki.js"
@@ -1568,7 +1568,7 @@ window.SONG_DATA.push(
     {
   "title": "ケセラセラ",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=196",
   "source": "otomoneruki.js"
@@ -1576,7 +1576,7 @@ window.SONG_DATA.push(
     {
   "title": "ハッピーラッキーチャッピー",
   "artist": "ano",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=197",
   "source": "otomoneruki.js"
@@ -1584,9 +1584,761 @@ window.SONG_DATA.push(
     {
   "title": "花占い",
   "artist": "Vaundy",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-08-21",
+  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=198",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "嫌々",
+  "artist": "HALVES",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=1",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "猫",
+  "artist": "DISH__",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=2",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "燈",
+  "artist": "崎山蒼志",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=3",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=4",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "呼吸",
+  "artist": "くじら",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=5",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=6",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "踊り子",
+  "artist": "Vaundy",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=7",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ソラニン",
+  "artist": "ASIAN KUNG-FU GENERATION",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=8",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=9",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "メロウ",
+  "artist": "須田景凪",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=10",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "美しい鰭",
+  "artist": "スピッツ",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=11",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ぎゅっと。",
+  "artist": "もさを",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=12",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=13",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "月光花",
+  "artist": "Janne Da Arc",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=14",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ラヴィ",
+  "artist": "すりぃ",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=15",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "レオ",
+  "artist": "優里",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=16",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "翼をください",
+  "artist": "桜高軽音部(けいおん！)",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=17",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "クスシキ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=18",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "One Love",
+  "artist": "嵐",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=19",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T. M. Revolution",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=20",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "感電",
+  "artist": "米津玄師",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=21",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=22",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "Fire◎Flower",
+  "artist": "halyosy feat. 鏡音レン",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=23",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "めざせポケモンマスター",
+  "artist": "松本梨香",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=24",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ワンダーランドと羊の歌",
+  "artist": "ハチ",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=25",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "スターマイン",
+  "artist": "Da-iCE",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=26",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "レイン",
+  "artist": "シド",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=27",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "恋",
+  "artist": "星野源",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=28",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "フレンジャー",
+  "artist": "大塚 愛",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=29",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ハレンチ",
+  "artist": "ちゃんみな",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=30",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "おとせサンダー",
+  "artist": "ぼっちぼろまる",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=31",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=32",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "愛を伝えたいだとか",
+  "artist": "あいみょん",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=33",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "オリオンをなぞる",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=34",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=35",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "水平線",
+  "artist": "back number",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=36",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ランデヴー",
+  "artist": "シャイトープ",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=37",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ミスター・ブルースカイ",
+  "artist": "マカロニえんぴつ",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=38",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ヴァンパイア",
+  "artist": "DECO#27",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=39",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=40",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "カサブタ",
+  "artist": "千綿ヒデノリ",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=41",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "東京",
+  "artist": "くじら",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=42",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "夜撫でるメノウ",
+  "artist": "Ayase feat. 初音ミク",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=43",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "三日月",
+  "artist": "絢香",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=44",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=45",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=46",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "アカシア",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=47",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=48",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=49",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "Oz.",
+  "artist": "yama",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=50",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ラフメイカー",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=51",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=52",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "メーベル",
+  "artist": "flower",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=53",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさ feat.初音ミク",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=54",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=55",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "天体観測",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=56",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "なんでもないや",
+  "artist": "上白石萌音",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=57",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "プラネテス",
+  "artist": "seiza",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=58",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40mP",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=59",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=60",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "イケナイ太陽",
+  "artist": "ORANGE RANGE",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=61",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "オリオンをなぞる",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=62",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "サウダージ",
+  "artist": "ポルノグラフィティ",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=63",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "以心電信",
+  "artist": "ORANGE RANGE",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=64",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "アポロ",
+  "artist": "ポルノグラフィティ",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=65",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=66",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ハレ晴れユカイ",
+  "artist": "涼宮ハルヒ(平野綾)×長門有希(茅原実里)×朝比奈みくる(後藤邑子)",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=67",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "曇天",
+  "artist": "DOES",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=68",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "美しい鰭",
+  "artist": "スピッツ",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=69",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=70",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "Soranji",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=71",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "GLAMOROUS SKY",
+  "artist": "中島美嘉",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=72",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ハネウマライダー",
+  "artist": "ポルノグラフィティ",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=73",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "夜桜",
+  "artist": "くじら feat. めいちゃん",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=74",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=75",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "水平線",
+  "artist": "back number",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=76",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "キラキラ",
+  "artist": "aiko",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=77",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "光のすみか",
+  "artist": "安田レイ",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=78",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=79",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "breakfast",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=80",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=81",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "花",
+  "artist": "ORANGE RANGE",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=82",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "オトノケ",
+  "artist": "Creepy Nuts",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=83",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "アイデア",
+  "artist": "星野源",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=84",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "表裏一体",
+  "artist": "ゆず",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=85",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "じょいふる",
+  "artist": "いきものがかり",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=86",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "イマジネーション",
+  "artist": "SPYAIR",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=87",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "いきものがかり",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=88",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=89",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "オトノケ",
+  "artist": "Creepy Nuts",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=90",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "BLUE WATER",
+  "artist": "森川美穂",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=91",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=92",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "裸の勇者",
+  "artist": "Vaudy",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=93",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "逆光",
+  "artist": "Ado",
+  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=94",
   "source": "otomoneruki.js"
 },
     {
