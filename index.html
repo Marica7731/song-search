@@ -178,19 +178,22 @@
             transform: translateY(-2px);
             box-shadow: 0 6px 20px rgba(0, 161, 214, 0.4);
         }
-        .search-hint {
+        /* 搜索语法提示 */
+        .search-syntax-hint {
             font-size: 12px;
-            color: #868e96;
-            margin-top: 8px;
-            padding: 0 4px;
+            color: #6c757d;
+            padding: 10px 20px;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
             line-height: 1.6;
         }
-        .search-hint code {
-            background: #f1f3f5;
+        .search-syntax-hint code {
+            background: #f0f9ff;
+            color: #00a1d6;
             padding: 2px 6px;
             border-radius: 4px;
             font-family: Consolas, Monaco, monospace;
-            color: #495057;
         }
         .stats-container {
             display: flex;
@@ -545,11 +548,18 @@
         </div>
 
         <div class="search-container">
-            <input type="text" id="search-input" placeholder='输入关键词搜索...（支持 "精确匹配"、OR 搜索）'>
+            <input type="text" id="search-input" placeholder='输入关键词搜索...（支持高级语法："精确匹配"、AND/OR、\'带空格\'）'>
             <button id="search-btn">🔍 搜索</button>
         </div>
-        <div class="search-hint">
-            💡 搜索语法：<code>"いつか"</code> 精确独立匹配 | <code>いつか</code> 模糊包含 | <code>い か</code> 包含任一 | <code>'い か'</code> 短语匹配
+
+        <!-- 搜索语法提示 -->
+        <div class="search-syntax-hint">
+            <strong>💡 搜索语法：</strong>
+            <code>"いつか"</code> 精确匹配 | 
+            <code>いつか</code> 模糊匹配 | 
+            <code>い AND か</code> 同时包含 | 
+            <code>い OR か</code> 包含任一 | 
+            <code>'い か'</code> 保留空格
         </div>
     </div>
 
@@ -696,9 +706,10 @@
             return match ? match[0] : null;
         }
 
-        function getSourceAlias(item) {
-            const sourceBase = item.source?.replace('.js', '');
-            return FILE_TO_ALIAS[sourceBase] || item.source || '未知';
+        function getSourceAlias(source) {
+            if (!source) return '';
+            const sourceBase = source.replace('.js', '');
+            return FILE_TO_ALIAS[sourceBase] || sourceBase || '';
         }
 
         function getActiveSearchFields() {
@@ -710,87 +721,82 @@
             };
         }
 
-        // ========== 【新增】高级搜索解析器 ==========
+        // ========== 【新增】高级搜索语法解析器 ==========
         function parseSearchQuery(query) {
             if (!query || !query.trim()) return null;
-            
-            const q = query.trim();
-            
-            // 1. 双引号：精确独立匹配 "关键词"
-            if (q.startsWith('"') && q.endsWith('"')) {
-                const keyword = q.slice(1, -1).trim();
-                if (keyword) {
+
+            const trimmedQuery = query.trim();
+
+            // 1. 检查 AND/OR 逻辑
+            if (trimmedQuery.includes(' AND ') || trimmedQuery.includes(' OR ')) {
+                const isAnd = trimmedQuery.includes(' AND ');
+                const separator = isAnd ? ' AND ' : ' OR ';
+                const parts = trimmedQuery.split(separator).map(p => p.trim()).filter(p => p);
+                
+                if (parts.length >= 2) {
                     return {
-                        type: 'exact',
-                        keyword: keyword,
-                        match: (text) => {
-                            if (!text) return false;
-                            const normText = normalizeString(text);
-                            const normKeyword = normalizeString(keyword);
-                            // 使用正则匹配独立的词（支持日文、英文、数字）
-                            const regex = new RegExp(
-                                '(^|[\\s\\p{P}\\p{Z}])' + 
-                                escapeRegex(normKeyword) + 
-                                '($|[\\s\\p{P}\\p{Z}])', 
-                                'iu'
-                            );
-                            return regex.test(normText);
-                        }
+                        type: isAnd ? 'and' : 'or',
+                        terms: parts.map(p => parseSingleTerm(p))
                     };
                 }
             }
-            
-            // 2. 单引号：短语模糊匹配 '关键词 关键词'
-            if (q.startsWith("'") && q.endsWith("'")) {
-                const keyword = q.slice(1, -1).trim();
-                if (keyword) {
-                    return {
-                        type: 'phrase',
-                        keyword: keyword,
-                        match: (text) => {
-                            if (!text) return false;
-                            const normText = normalizeString(text);
-                            const normKeyword = normalizeString(keyword);
-                            return normText.includes(normKeyword);
-                        }
-                    };
-                }
+
+            // 2. 单个词项
+            return parseSingleTerm(trimmedQuery);
+        }
+
+        function parseSingleTerm(term) {
+            // 双引号：精确匹配
+            if (term.startsWith('"') && term.endsWith('"')) {
+                return {
+                    type: 'exact',
+                    value: term.substring(1, term.length - 1).toLowerCase()
+                };
             }
-            
-            // 3. 包含空格：OR匹配 关键词1 关键词2
-            if (q.includes(' ')) {
-                const keywords = q.split(/\s+/).filter(k => k.trim());
-                if (keywords.length > 0) {
-                    return {
-                        type: 'or',
-                        keywords: keywords,
-                        match: (text) => {
-                            if (!text) return false;
-                            const normText = normalizeString(text);
-                            return keywords.some(kw => {
-                                const normKw = normalizeString(kw);
-                                return normText.includes(normKw);
-                            });
-                        }
-                    };
-                }
+
+            // 单引号：模糊匹配（保留空格）
+            if (term.startsWith("'") && term.endsWith("'")) {
+                return {
+                    type: 'fuzzy',
+                    value: term.substring(1, term.length - 1).toLowerCase()
+                };
             }
-            
-            // 4. 默认：模糊包含匹配 关键词
+
+            // 普通：模糊匹配
             return {
-                type: 'contains',
-                keyword: q,
-                match: (text) => {
-                    if (!text) return false;
-                    const normText = normalizeString(text);
-                    const normKeyword = normalizeString(q);
-                    return normText.includes(normKeyword);
-                }
+                type: 'fuzzy',
+                value: term.toLowerCase()
             };
         }
 
-        function escapeRegex(string) {
-            return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+        // ========== 【新增】匹配检查函数 ==========
+        function matchesSearch(text, parsedQuery) {
+            if (!parsedQuery) return true;
+            if (!text) text = '';
+            
+            const normText = text.toLowerCase();
+
+            // 处理 AND/OR 逻辑
+            if (parsedQuery.type === 'and' || parsedQuery.type === 'or') {
+                const results = parsedQuery.terms.map(term => matchesSearch(text, term));
+                if (parsedQuery.type === 'and') {
+                    return results.every(r => r);
+                } else {
+                    return results.some(r => r);
+                }
+            }
+
+            // 精确匹配
+            if (parsedQuery.type === 'exact') {
+                return normText === parsedQuery.value;
+            }
+
+            // 模糊匹配
+            if (parsedQuery.type === 'fuzzy') {
+                return normText.includes(parsedQuery.value);
+            }
+
+            return false;
         }
 
         function loadScriptsParallel(fileList) {
@@ -883,7 +889,7 @@
             updateFilterAndSearch();
         }
 
-        // ========== 【修改】更新搜索逻辑 ==========
+        // ========== 【修改】更新搜索逻辑以支持高级语法 ==========
         function updateFilterAndSearch() {
             // 1. 先按来源/缺失歌手筛选
             if (activeSource === 'all') {
@@ -897,32 +903,33 @@
             // 2. 再按关键词搜索
             const keyword = document.getElementById('search-input').value.trim();
             const fields = getActiveSearchFields();
-            const searchQuery = parseSearchQuery(keyword);
 
             if (!fields.title && !fields.artist && !fields.collection && !fields.source) {
                 filteredBySearch = [...filteredBySource];
-            } else if (searchQuery) {
+            } else if (keyword) {
+                const parsedQuery = parseSearchQuery(keyword);
+                
                 filteredBySearch = filteredBySource.filter(item => {
                     let match = false;
                     
                     if (fields.title) {
                         const title = item.title || '';
-                        if (searchQuery.match(title)) match = true;
+                        if (matchesSearch(title, parsedQuery)) match = true;
                     }
                     
                     if (!match && fields.artist) {
                         const artist = item.artist || '';
-                        if (searchQuery.match(artist)) match = true;
+                        if (matchesSearch(artist, parsedQuery)) match = true;
                     }
                     
                     if (!match && fields.collection) {
                         const collection = item.collection || '';
-                        if (searchQuery.match(collection)) match = true;
+                        if (matchesSearch(collection, parsedQuery)) match = true;
                     }
                     
                     if (!match && fields.source) {
-                        const sourceAlias = getSourceAlias(item);
-                        if (searchQuery.match(sourceAlias)) match = true;
+                        const sourceAlias = getSourceAlias(item.source);
+                        if (matchesSearch(sourceAlias, parsedQuery)) match = true;
                     }
                     
                     return match;
@@ -960,7 +967,8 @@
             } else {
                 document.getElementById('empty-msg').style.display = 'none';
                 pageData.forEach(item => {
-                    const sourceAlias = getSourceAlias(item);
+                    const sourceBase = item.source?.replace('.js', '');
+                    const sourceAlias = FILE_TO_ALIAS[sourceBase] || item.source || '未知';
                     const isLinkValid = item.link && /BV\w+/.test(item.link);
                     const bvid = extractBvid(item.link);
                     const hasValidArtist = isValidArtist(item.artist);
