@@ -18,12 +18,11 @@
         h1 { 
             text-align: center; 
             color: #2c3e50; 
-            margin-bottom: 10px; /* 改小一点，给副标题留空间 */
+            margin-bottom: 10px;
             font-size: 28px;
             font-weight: 700;
             text-shadow: 0 2px 4px rgba(0,0,0,0.05);
         }
-        /* 【新增】子标题样式 */
         .sub-header {
             text-align: center;
             color: #6c757d;
@@ -43,7 +42,6 @@
             gap: 18px;
             margin-bottom: 25px;
         }
-        /* 筛选栏样式 */
         .filter-bar {
             display: flex;
             gap: 10px;
@@ -82,7 +80,6 @@
             border-color: transparent;
             box-shadow: 0 4px 12px rgba(0, 161, 214, 0.3);
         }
-        /* 【新增】缺失歌手筛选按钮的特殊样式 */
         .filter-btn.missing-artist {
             border-color: #dc3545;
             color: #dc3545;
@@ -107,7 +104,6 @@
             transform: translateY(-1px);
             box-shadow: 0 6px 16px rgba(108, 117, 125, 0.4);
         }
-        /* 搜索字段选择区域 */
         .search-field-bar {
             display: flex;
             gap: 20px;
@@ -144,7 +140,6 @@
             cursor: pointer;
             accent-color: #00a1d6;
         }
-        /* 搜索框样式 */
         .search-container { 
             display: flex; 
             gap: 12px; 
@@ -183,20 +178,31 @@
             transform: translateY(-2px);
             box-shadow: 0 6px 20px rgba(0, 161, 214, 0.4);
         }
-        /* 统计信息 + 复制全部按钮容器 */
+        .search-hint {
+            font-size: 12px;
+            color: #868e96;
+            margin-top: 8px;
+            padding: 0 4px;
+            line-height: 1.6;
+        }
+        .search-hint code {
+            background: #f1f3f5;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-family: Consolas, Monaco, monospace;
+            color: #495057;
+        }
         .stats-container {
             display: flex;
             justify-content: space-between;
             align-items: center;
             margin-bottom: 15px;
         }
-        /* 统计信息 */
         .stats-msg {
             font-size: 13px;
             color: #6c757d;
             font-weight: 500;
         }
-        /* 复制全部搜索结果按钮 */
         .copy-all-btn {
             padding: 6px 12px;
             background: linear-gradient(135deg, #6f42c1 0%, #8a6edb 100%);
@@ -222,7 +228,6 @@
             transform: none;
             box-shadow: none;
         }
-        /* 进度/提示信息 */
         .progress-msg { 
             text-align: center; 
             color: #495057; 
@@ -239,7 +244,6 @@
             display: none;
             font-weight: 500;
         }
-        /* 歌曲列表样式 */
         #song-list { 
             list-style: none; 
             padding: 0; 
@@ -262,7 +266,6 @@
             transform: translateY(-2px);
             box-shadow: 0 8px 20px rgba(0,0,0,0.08);
         }
-        /* 【新增】缺失歌手的歌曲条目样式：红色边框/背景高亮 */
         .song-item.missing-artist {
             border: 2px solid #dc3545;
             background: linear-gradient(135deg, #fff5f5 0%, #ffffff 100%);
@@ -274,7 +277,6 @@
             flex: 1; 
             min-width: 220px;
         }
-        /* 歌名行：歌名+歌手，间距拉大 */
         .song-title-row {
             display: flex;
             align-items: center;
@@ -282,12 +284,10 @@
             margin-bottom: 8px;
             flex-wrap: wrap;
         }
-        /* 通用wrapper：用于放置右上角复制图标 */
         .copy-wrapper {
             position: relative;
             display: inline-block;
         }
-        /* 歌名/歌手/合集 文本：给复制图标留右侧空间 */
         .song-title, .song-artist-inline, .collection-text {
             padding-right: 20px;
         }
@@ -297,11 +297,9 @@
             color: #2c3e50; 
             line-height: 1.4;
         }
-        /* 【新增】缺失歌手时的歌名颜色 */
         .song-item.missing-artist .song-title {
             color: #dc3545;
         }
-        /* 歌手小标签：小、浅 */
         .artist-tag {
             font-size: 11px;
             color: #c0c4cc;
@@ -319,13 +317,11 @@
             display: inline-flex;
             align-items: center;
         }
-        /* 合集文本样式 */
         .collection-text {
             font-size: 14px;
             color: #6c757d;
             line-height: 1.5;
         }
-        /* 统一的复制小图标：右上角、缩小、浅色、不占位 */
         .copy-btn {
             position: absolute;
             top: 0;
@@ -344,7 +340,6 @@
             color: #00a1d6;
             transform: scale(1.2);
         }
-        /* 直达B站按钮的复制图标：调整位置适配按钮 */
         .link-copy-btn {
             top: 50%;
             right: 8px;
@@ -366,7 +361,6 @@
             margin-top: 6px;
             font-weight: 500;
         }
-        /* 右侧按钮组：横向排列 */
         .song-actions {
             display: flex;
             flex-direction: row;
@@ -397,7 +391,6 @@
             transform: translateY(-1px);
             box-shadow: 0 4px 12px rgba(0, 161, 214, 0.35);
         }
-        /* 迷你圆形编辑按钮 */
         .edit-link {
             width: 24px;
             height: 24px;
@@ -420,7 +413,6 @@
             transform: scale(1.1);
             box-shadow: 0 4px 10px rgba(255, 122, 24, 0.4);
         }
-        /* 复制成功提示 */
         .copy-toast {
             position: fixed;
             bottom: 30px;
@@ -441,7 +433,6 @@
             opacity: 1;
             transform: translateY(0);
         }
-        /* 分页样式 */
         .pagination { 
             display: flex; 
             justify-content: center; 
@@ -494,7 +485,6 @@
             background: transparent;
             color: #495057;
         }
-        /* 跳转指定页样式 */
         .page-jump-container {
             display: flex;
             align-items: center;
@@ -525,7 +515,6 @@
 </head>
 <body>
     <h1>🎵 我的已切歌曲查询站</h1>
-    <!-- 【新增】子标题与导航链接 -->
     <div class="sub-header">
         系统化管理你的音乐收藏 | <a href="stats.html" class="nav-link">查看演唱者统计与排行</a>
     </div>
@@ -546,18 +535,24 @@
                 <span>歌手</span>
             </label>
             <label class="search-field-option">
-                <input type="checkbox" id="search-collection" checked>
+                <input type="checkbox" id="search-collection">
                 <span>合集</span>
+            </label>
+            <label class="search-field-option">
+                <input type="checkbox" id="search-source">
+                <span>来源</span>
             </label>
         </div>
 
         <div class="search-container">
-            <input type="text" id="search-input" placeholder="输入关键词搜索...">
+            <input type="text" id="search-input" placeholder='输入关键词搜索...（支持 "精确匹配"、OR 搜索）'>
             <button id="search-btn">🔍 搜索</button>
+        </div>
+        <div class="search-hint">
+            💡 搜索语法：<code>"いつか"</code> 精确独立匹配 | <code>いつか</code> 模糊包含 | <code>い か</code> 包含任一 | <code>'い か'</code> 短语匹配
         </div>
     </div>
 
-    <!-- 统计信息+复制全部按钮容器 -->
     <div class="stats-container">
         <div class="stats-msg" id="stats-msg">总歌曲数：0 | 筛选后：0 | 搜索结果：0</div>
         <button class="copy-all-btn" id="copy-all-btn" disabled>📋 复制全部搜索结果</button>
@@ -568,7 +563,6 @@
     <ul id="song-list"></ul>
     <div class="pagination" id="pagination"></div>
 
-    <!-- 复制成功泡泡提示 -->
     <div class="copy-toast" id="copy-toast">copy ok!</div>
 
     <script>
@@ -578,11 +572,10 @@
         let filteredBySearch = [];
         const PAGE_SIZE = 50;
         let currentPage = 1;
-        let activeSource = 'all'; // 'all' | 'missing-artist' | fileName
+        let activeSource = 'all';
         const fileNames = [];
         let FILE_TO_ALIAS = {};
 
-        // 复制成功提示
         function showCopyToast() {
             const toast = document.getElementById('copy-toast');
             toast.classList.add('show');
@@ -591,7 +584,6 @@
             }, 1500);
         }
 
-        // 复制到剪贴板
         async function copyToClipboard(text) {
             try {
                 await navigator.clipboard.writeText(text);
@@ -602,37 +594,27 @@
             }
         }
 
-        // 判断有效歌手的函数
         function isValidArtist(artist) {
             if (!artist || artist.trim() === '') return false;
             if (artist.includes('来源处未提供标准格式歌手')) return false;
             return true;
         }
 
-        // ========== 字符串标准化函数 ==========
         function normalizeString(str) {
             if (!str) return '';
             let s = str.trim();
-            
-            // 1. 全角转半角
             s = s.replace(/[\uFF01-\uFF5E]/g, function(ch) {
                 return String.fromCharCode(ch.charCodeAt(0) - 0xFEE0);
             });
             s = s.replace(/\u3000/g, ' ');
-            
-            // 2. 统一特殊符号
             s = s.replace(/[～〜˜]/g, '~');
             s = s.replace(/[—–―]/g, '-');
             s = s.replace(/[“”]/g, '"').replace(/[‘’]/g, "'");
             s = s.replace(/…/g, '...');
-            
-            // 3. 处理空格
             s = s.replace(/\s+/g, ' ');
-            
             return s;
         }
 
-        // ========== 模糊匹配核心函数 ==========
         function hasContinuousCommonStr(str1, str2, minLength = 2) {
             const s1 = normalizeString(str1);
             const s2 = normalizeString(str2);
@@ -644,7 +626,6 @@
             return false;
         }
 
-        // ========== 【核心优化】判断两首歌是否为同一首 ==========
         function isSameSong(songA, songB) {
             const titleA = normalizeString(songA.title || '未知歌曲');
             const titleB = normalizeString(songB.title || '未知歌曲');
@@ -655,17 +636,13 @@
             const validA = isValidArtist(artistA);
             const validB = isValidArtist(artistB);
 
-            // 【优化逻辑】
-            // 1. 如果任意一方无歌手，且歌名相同，直接视为同一首
             if (!validA || !validB) return true;
 
-            // 2. 双方都有歌手时，按原逻辑比较
             const normArtistA = normalizeString(artistA);
             const normArtistB = normalizeString(artistB);
             return normArtistA === normArtistB || hasContinuousCommonStr(artistA, artistB);
         }
 
-        // 去重歌曲数计算函数
         function getUniqueSongCount(data) {
             if (data.length === 0) return 0;
             
@@ -693,7 +670,6 @@
             return totalUnique;
         }
 
-        // 生成搜索结果文本
         function generateSearchResultText() {
             if (filteredBySearch.length === 0) return '';
             
@@ -705,7 +681,6 @@
             }).join('\n');
         }
 
-        // 复制全部搜索结果
         async function copyAllSearchResults() {
             const text = generateSearchResultText();
             if (!text) {
@@ -715,19 +690,107 @@
             await copyToClipboard(text);
         }
 
-        // 从链接中提取BV号的函数
         function extractBvid(link) {
             if (!link) return null;
             const match = link.match(/BV[a-zA-Z0-9]+/);
             return match ? match[0] : null;
         }
 
+        function getSourceAlias(item) {
+            const sourceBase = item.source?.replace('.js', '');
+            return FILE_TO_ALIAS[sourceBase] || item.source || '未知';
+        }
+
         function getActiveSearchFields() {
             return {
                 title: document.getElementById('search-title').checked,
                 artist: document.getElementById('search-artist').checked,
-                collection: document.getElementById('search-collection').checked
+                collection: document.getElementById('search-collection').checked,
+                source: document.getElementById('search-source').checked
             };
+        }
+
+        // ========== 【新增】高级搜索解析器 ==========
+        function parseSearchQuery(query) {
+            if (!query || !query.trim()) return null;
+            
+            const q = query.trim();
+            
+            // 1. 双引号：精确独立匹配 "关键词"
+            if (q.startsWith('"') && q.endsWith('"')) {
+                const keyword = q.slice(1, -1).trim();
+                if (keyword) {
+                    return {
+                        type: 'exact',
+                        keyword: keyword,
+                        match: (text) => {
+                            if (!text) return false;
+                            const normText = normalizeString(text);
+                            const normKeyword = normalizeString(keyword);
+                            // 使用正则匹配独立的词（支持日文、英文、数字）
+                            const regex = new RegExp(
+                                '(^|[\\s\\p{P}\\p{Z}])' + 
+                                escapeRegex(normKeyword) + 
+                                '($|[\\s\\p{P}\\p{Z}])', 
+                                'iu'
+                            );
+                            return regex.test(normText);
+                        }
+                    };
+                }
+            }
+            
+            // 2. 单引号：短语模糊匹配 '关键词 关键词'
+            if (q.startsWith("'") && q.endsWith("'")) {
+                const keyword = q.slice(1, -1).trim();
+                if (keyword) {
+                    return {
+                        type: 'phrase',
+                        keyword: keyword,
+                        match: (text) => {
+                            if (!text) return false;
+                            const normText = normalizeString(text);
+                            const normKeyword = normalizeString(keyword);
+                            return normText.includes(normKeyword);
+                        }
+                    };
+                }
+            }
+            
+            // 3. 包含空格：OR匹配 关键词1 关键词2
+            if (q.includes(' ')) {
+                const keywords = q.split(/\s+/).filter(k => k.trim());
+                if (keywords.length > 0) {
+                    return {
+                        type: 'or',
+                        keywords: keywords,
+                        match: (text) => {
+                            if (!text) return false;
+                            const normText = normalizeString(text);
+                            return keywords.some(kw => {
+                                const normKw = normalizeString(kw);
+                                return normText.includes(normKw);
+                            });
+                        }
+                    };
+                }
+            }
+            
+            // 4. 默认：模糊包含匹配 关键词
+            return {
+                type: 'contains',
+                keyword: q,
+                match: (text) => {
+                    if (!text) return false;
+                    const normText = normalizeString(text);
+                    const normKeyword = normalizeString(q);
+                    return normText.includes(normKeyword);
+                }
+            };
+        }
+
+        function escapeRegex(string) {
+            return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
         }
 
         function loadScriptsParallel(fileList) {
@@ -776,19 +839,16 @@
             const filterBar = document.getElementById('filter-bar');
             filterBar.innerHTML = '<span class="filter-label">🔍 按歌手/来源筛选：</span>';
 
-            // 1. 全部按钮
             const allBtn = document.createElement('button');
             allBtn.className = `filter-btn ${activeSource === 'all' ? 'active' : ''}`;
             allBtn.textContent = '全部';
             allBtn.onclick = () => switchSource('all');
             filterBar.appendChild(allBtn);
 
-            // 2. 分隔线（可选，用空格代替）
             const spacer = document.createElement('span');
             spacer.style.width = '10px';
             filterBar.appendChild(spacer);
 
-            // 3. 原有的文件来源按钮
             fileNames.forEach(fileName => {
                 const fileBase = fileName.replace('.js', '');
                 const btnText = FILE_TO_ALIAS[fileBase] || fileBase;
@@ -799,14 +859,12 @@
                 filterBar.appendChild(btn);
             });
 
-            // 4. 【移动位置】缺失歌手按钮 (放在来源之后，清空前)
             const missingBtn = document.createElement('button');
             missingBtn.className = `filter-btn missing-artist ${activeSource === 'missing-artist' ? 'active' : ''}`;
             missingBtn.textContent = '⚠️ 缺失歌手';
             missingBtn.onclick = () => switchSource('missing-artist');
             filterBar.appendChild(missingBtn);
 
-            // 5. 清空筛选按钮 (保持在最右)
             const clearBtn = document.createElement('button');
             clearBtn.className = 'filter-btn clear';
             clearBtn.textContent = '清空筛选';
@@ -821,45 +879,50 @@
         function switchSource(source) {
             activeSource = source;
             currentPage = 1;
-            generateFilterButtons(); // 重新生成以更新active状态
+            generateFilterButtons();
             updateFilterAndSearch();
         }
 
-        // ========== 【核心修改】更新筛选逻辑 ==========
+        // ========== 【修改】更新搜索逻辑 ==========
         function updateFilterAndSearch() {
             // 1. 先按来源/缺失歌手筛选
             if (activeSource === 'all') {
                 filteredBySource = [...originalData];
             } else if (activeSource === 'missing-artist') {
-                // 【新增】筛选出所有缺失歌手的歌曲
                 filteredBySource = originalData.filter(item => !isValidArtist(item.artist));
             } else {
                 filteredBySource = originalData.filter(item => item.source === activeSource);
             }
 
             // 2. 再按关键词搜索
-            const keyword = document.getElementById('search-input').value.trim().toLowerCase();
+            const keyword = document.getElementById('search-input').value.trim();
             const fields = getActiveSearchFields();
+            const searchQuery = parseSearchQuery(keyword);
 
-            if (!fields.title && !fields.artist && !fields.collection) {
+            if (!fields.title && !fields.artist && !fields.collection && !fields.source) {
                 filteredBySearch = [...filteredBySource];
-            } else if (keyword) {
+            } else if (searchQuery) {
                 filteredBySearch = filteredBySource.filter(item => {
                     let match = false;
                     
                     if (fields.title) {
-                        const title = (item.title || '').toLowerCase();
-                        if (title.includes(keyword)) match = true;
+                        const title = item.title || '';
+                        if (searchQuery.match(title)) match = true;
                     }
                     
                     if (!match && fields.artist) {
-                        const artist = (item.artist || '').toLowerCase();
-                        if (artist.includes(keyword)) match = true;
+                        const artist = item.artist || '';
+                        if (searchQuery.match(artist)) match = true;
                     }
                     
                     if (!match && fields.collection) {
-                        const collection = (item.collection || '').toLowerCase();
-                        if (collection.includes(keyword)) match = true;
+                        const collection = item.collection || '';
+                        if (searchQuery.match(collection)) match = true;
+                    }
+                    
+                    if (!match && fields.source) {
+                        const sourceAlias = getSourceAlias(item);
+                        if (searchQuery.match(sourceAlias)) match = true;
                     }
                     
                     return match;
@@ -875,7 +938,6 @@
             renderSongList(filteredBySearch);
         }
 
-        // 更新统计信息
         function updateStats() {
             const statsMsg = document.getElementById('stats-msg');
             const uniqueOriginal = getUniqueSongCount(originalData);
@@ -885,7 +947,6 @@
             statsMsg.textContent = `总歌曲数：${originalData.length}（去重：${uniqueOriginal}）| 筛选后：${filteredBySource.length}（去重：${uniqueFiltered}）| 搜索结果：${filteredBySearch.length}（去重：${uniqueSearch}）`;
         }
 
-        // 渲染函数
         function renderSongList(data) {
             const songListEl = document.getElementById('song-list');
             songListEl.innerHTML = '';
@@ -899,19 +960,16 @@
             } else {
                 document.getElementById('empty-msg').style.display = 'none';
                 pageData.forEach(item => {
-                    const sourceBase = item.source?.replace('.js', '');
-                    const sourceAlias = FILE_TO_ALIAS[sourceBase] || item.source || '未知';
+                    const sourceAlias = getSourceAlias(item);
                     const isLinkValid = item.link && /BV\w+/.test(item.link);
                     const bvid = extractBvid(item.link);
-                    const hasValidArtist = isValidArtist(item.artist); // 【新增】判断是否有有效歌手
+                    const hasValidArtist = isValidArtist(item.artist);
 
-                    // 歌名+复制按钮
                     const titleHtml = `<div class="copy-wrapper">
                         <div class="song-title">${item.title || '未知歌曲'}</div>
                         <button class="copy-btn" data-type="title">📋</button>
                     </div>`;
                     
-                    // 歌手+复制按钮（仅有效歌手才显示）
                     const artistHtml = hasValidArtist 
                         ? `<div class="copy-wrapper">
                             <span class="song-artist-inline">
@@ -921,13 +979,11 @@
                           </div>` 
                         : '';
 
-                    // 合集+复制按钮
                     const collectionHtml = `<div class="copy-wrapper">
                         <span class="collection-text">合集：${item.collection || '未知'}</span>
                         <button class="copy-btn" data-type="collection">📋</button>
                     </div>`;
 
-                    // 直达B站+复制链接按钮
                     const linkHtml = isLinkValid 
                         ? `<div class="song-link">
                             <a href="${item.link}" target="_blank">直达B站</a>
@@ -935,12 +991,10 @@
                           </div>` 
                         : '';
 
-                    // 迷你圆形编辑按钮
                     const editHtml = bvid 
                         ? `<a href="https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=${bvid}" target="_blank" class="edit-link">✏️</a>`
                         : '';
 
-                    // 【修改】组装li元素，如果缺失歌手，添加 missing-artist 类
                     const li = document.createElement('li');
                     li.className = `song-item ${hasValidArtist ? '' : 'missing-artist'}`;
                     li.innerHTML = `
@@ -960,7 +1014,6 @@
                         </div>
                     `;
                     
-                    // 绑定复制事件
                     const titleCopyBtn = li.querySelector('[data-type="title"]');
                     if (titleCopyBtn) {
                         const title = item.title || '未知歌曲';
@@ -991,7 +1044,6 @@
             renderPagination(data.length);
         }
 
-        // 分页渲染
         function renderPagination(total) {
             const paginationEl = document.getElementById('pagination');
             paginationEl.innerHTML = '';
@@ -1110,7 +1162,8 @@
             const checkboxes = [
                 document.getElementById('search-title'),
                 document.getElementById('search-artist'),
-                document.getElementById('search-collection')
+                document.getElementById('search-collection'),
+                document.getElementById('search-source')
             ];
             
             checkboxes.forEach(cb => {
