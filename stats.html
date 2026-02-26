@@ -367,7 +367,7 @@
         .modal-body {
             margin-bottom: 20px;
         }
-        .format-select, .column-select, .data-type-select {
+        .format-select, .column-select, .data-type-select, .sort-select {
             margin-bottom: 15px;
         }
         .format-select label, .data-type-select label {
@@ -378,7 +378,7 @@
             color: #495057;
             font-weight: 500;
         }
-        .column-select strong {
+        .column-select strong, .sort-select strong {
             display: block;
             margin-bottom: 10px;
             color: #2c3e50;
@@ -390,6 +390,25 @@
             margin-bottom: 8px;
             cursor: pointer;
             color: #495057;
+        }
+        .sort-select select {
+            width: 100%;
+            padding: 10px 14px;
+            border: 1px solid #e9ecef;
+            border-radius: 8px;
+            font-size: 14px;
+            color: #495057;
+            background: white;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .sort-select select:hover {
+            border-color: #00a1d6;
+        }
+        .sort-select select:focus {
+            outline: none;
+            border-color: #00a1d6;
+            box-shadow: 0 0 0 3px rgba(0, 161, 214, 0.1);
         }
         .modal-footer {
             display: flex;
@@ -549,6 +568,12 @@
                     <label><input type="radio" name="data-type" value="unique" checked> 去重歌曲列表</label>
                     <label><input type="radio" name="data-type" value="all"> 未去重全部场次</label>
                 </div>
+                <div class="sort-select" id="sort-select-container">
+                    <strong>排序方式：</strong>
+                    <select id="sort-select">
+                        <!-- 动态生成排序选项 -->
+                    </select>
+                </div>
                 <div class="column-select" id="column-select-container">
                     <!-- 动态生成列选项 -->
                 </div>
@@ -581,6 +606,7 @@
         let currentCopyData = null;
         let currentCopyColumns = [];
         let currentCopyType = null; // 'vtuber', 'rank', 'artist'
+        let currentCopyOriginalData = null; // 保存原始数据用于排序
 
         // 工具函数
         function isValidArtist(artist) {
@@ -598,6 +624,105 @@
             return s.toLowerCase();
         }
 
+        // ========== 日语假名转罗马音 ==========
+        const KANA_TO_ROMA = {
+            // 五十音图
+            'あ':'a','い':'i','う':'u','え':'e','お':'o',
+            'か':'ka','き':'ki','く':'ku','け':'ke','こ':'ko',
+            'さ':'sa','し':'shi','す':'su','せ':'se','そ':'so',
+            'た':'ta','ち':'chi','つ':'tsu','て':'te','と':'to',
+            'な':'na','に':'ni','ぬ':'nu','ね':'ne','の':'no',
+            'は':'ha','ひ':'hi','ふ':'fu','へ':'he','ほ':'ho',
+            'ま':'ma','み':'mi','む':'mu','め':'me','も':'mo',
+            'や':'ya','ゆ':'yu','よ':'yo',
+            'ら':'ra','り':'ri','る':'ru','れ':'re','ろ':'ro',
+            'わ':'wa','を':'wo','ん':'n',
+            // 浊音
+            'が':'ga','ぎ':'gi','ぐ':'gu','げ':'ge','ご':'go',
+            'ざ':'za','じ':'ji','ず':'zu','ぜ':'ze','ぞ':'zo',
+            'だ':'da','ぢ':'ji','づ':'zu','で':'de','ど':'do',
+            'ば':'ba','び':'bi','ぶ':'bu','べ':'be','ぼ':'bo',
+            // 半浊音
+            'ぱ':'pa','ぴ':'pi','ぷ':'pu','ぺ':'pe','ぽ':'po',
+            // 拗音
+            'きゃ':'kya','きゅ':'kyu','きょ':'kyo',
+            'しゃ':'sha','しゅ':'shu','しょ':'sho',
+            'ちゃ':'cha','ちゅ':'chu','ちょ':'cho',
+            'にゃ':'nya','にゅ':'nyu','にょ':'nyo',
+            'ひゃ':'hya','ひゅ':'hyu','ひょ':'hyo',
+            'みゃ':'mya','みゅ':'myu','みょ':'myo',
+            'りゃ':'rya','りゅ':'ryu','りょ':'ryo',
+            'ぎゃ':'gya','ぎゅ':'gyu','ぎょ':'gyo',
+            'じゃ':'ja','じゅ':'ju','じょ':'jo',
+            'ぢゃ':'ja','ぢゅ':'ju','ぢょ':'jo',
+            'びゃ':'bya','びゅ':'byu','びょ':'byo',
+            'ぴゃ':'pya','ぴゅ':'pyu','ぴょ':'pyo',
+            // 片假名（基本对应）
+            'ア':'a','イ':'i','ウ':'u','エ':'e','オ':'o',
+            'カ':'ka','キ':'ki','ク':'ku','ケ':'ke','コ':'ko',
+            'サ':'sa','シ':'shi','ス':'su','セ':'se','ソ':'so',
+            'タ':'ta','チ':'chi','ツ':'tsu','テ':'te','ト':'to',
+            'ナ':'na','ニ':'ni','ヌ':'nu','ネ':'ne','ノ':'no',
+            'ハ':'ha','ヒ':'hi','フ':'fu','ヘ':'he','ホ':'ho',
+            'マ':'ma','ミ':'mi','ム':'mu','メ':'me','モ':'mo',
+            'ヤ':'ya','ユ':'yu','ヨ':'yo',
+            'ラ':'ra','リ':'ri','ル':'ru','レ':'re','ロ':'ro',
+            'ワ':'wa','ヲ':'wo','ン':'n',
+            'ガ':'ga','ギ':'gi','グ':'gu','ゲ':'ge','ゴ':'go',
+            'ザ':'za','ジ':'ji','ズ':'zu','ゼ':'ze','ゾ':'zo',
+            'ダ':'da','ヂ':'ji','ヅ':'zu','デ':'de','ド':'do',
+            'バ':'ba','ビ':'bi','ブ':'bu','ベ':'be','ボ':'bo',
+            'パ':'pa','ピ':'pi','プ':'pu','ペ':'pe','ポ':'po',
+            'キャ':'kya','キュ':'kyu','キョ':'kyo',
+            'シャ':'sha','シュ':'shu','ショ':'sho',
+            'チャ':'cha','チュ':'chu','チョ':'cho',
+            'ニャ':'nya','ニュ':'nyu','ニョ':'nyo',
+            'ヒャ':'hya','ヒュ':'hyu','ヒョ':'hyo',
+            'ミャ':'mya','ミュ':'myu','ミョ':'myo',
+            'リャ':'rya','リュ':'ryu','リョ':'ryo',
+            'ギャ':'gya','ギュ':'gyu','ギョ':'gyo',
+            'ジャ':'ja','ジュ':'ju','ジョ':'jo',
+            'ヂャ':'ja','ヂュ':'ju','ヂョ':'jo',
+            'ビャ':'bya','ビュ':'byu','ビョ':'byo',
+            'ピャ':'pya','ピュ':'pyu','ピョ':'pyo',
+            // 促音、长音等特殊情况不处理，直接保留
+        };
+
+        function kanaToRomaji(text) {
+            if (!text) return '';
+            let result = '';
+            let i = 0;
+            while (i < text.length) {
+                // 先尝试匹配2字符的拗音
+                if (i + 1 < text.length) {
+                    const twoChar = text.substring(i, i + 2);
+                    if (KANA_TO_ROMA[twoChar]) {
+                        result += KANA_TO_ROMA[twoChar];
+                        i += 2;
+                        continue;
+                    }
+                }
+                // 匹配单字符
+                const oneChar = text.charAt(i);
+                if (KANA_TO_ROMA[oneChar]) {
+                    result += KANA_TO_ROMA[oneChar];
+                } else {
+                    // 非假名直接保留
+                    result += oneChar;
+                }
+                i++;
+            }
+            return result;
+        }
+
+        function getSortKey(text) {
+            if (!text) return '';
+            // 转换假名为罗马音
+            const romaji = kanaToRomaji(text);
+            // 转为小写并移除特殊字符
+            return normalizeString(romaji);
+        }
+
         // ========== Toast 气泡提示 ==========
         function showToast(message, type = 'success') {
             const container = document.getElementById('toast-container');
@@ -613,8 +738,84 @@
             }, 3000);
         }
 
+        // ========== 排序选项配置 ==========
+        function getSortOptions(copyType) {
+            const options = {
+                'vtuber': [
+                    { value: 'count-desc', label: '按出场次数（从多到少）' },
+                    { value: 'count-asc', label: '按出场次数（从少到多）' },
+                    { value: 'title-asc', label: '按歌名首字母（A-Z）' },
+                    { value: 'title-desc', label: '按歌名首字母（Z-A）' },
+                    { value: 'artist-asc', label: '按歌手首字母（A-Z）' },
+                    { value: 'artist-desc', label: '按歌手首字母（Z-A）' }
+                ],
+                'rank': [
+                    { value: 'count-desc', label: '按出场次数（从多到少）' },
+                    { value: 'count-asc', label: '按出场次数（从少到多）' },
+                    { value: 'title-asc', label: '按歌名首字母（A-Z）' },
+                    { value: 'title-desc', label: '按歌名首字母（Z-A）' },
+                    { value: 'artist-asc', label: '按歌手首字母（A-Z）' },
+                    { value: 'artist-desc', label: '按歌手首字母（Z-A）' }
+                ],
+                'artist': [
+                    { value: 'count-desc', label: '按出场次数（从多到少）' },
+                    { value: 'count-asc', label: '按出场次数（从少到多）' },
+                    { value: 'title-asc', label: '按歌名首字母（A-Z）' },
+                    { value: 'title-desc', label: '按歌名首字母（Z-A）' },
+                    { value: 'collection-asc', label: '按场次名称（A-Z）' },
+                    { value: 'collection-desc', label: '按场次名称（Z-A）' }
+                ]
+            };
+            return options[copyType] || options['vtuber'];
+        }
+
+        // ========== 排序函数 ==========
+        function sortData(data, sortValue, copyType) {
+            if (!data || data.length === 0) return data;
+            
+            const [field, direction] = sortValue.split('-');
+            const sorted = [...data];
+            
+            sorted.sort((a, b) => {
+                let valA, valB;
+                
+                switch (field) {
+                    case 'count':
+                        // 对于count，我们需要从数据中获取
+                        valA = a.count || 0;
+                        valB = b.count || 0;
+                        // 如果没有count字段，尝试从links长度获取
+                        if (valA === 0 && a.links) valA = a.links.length;
+                        if (valB === 0 && b.links) valB = b.links.length;
+                        break;
+                    case 'title':
+                    case 'artist':
+                    case 'collection':
+                    case 'source':
+                        valA = getSortKey(a[field] || '');
+                        valB = getSortKey(b[field] || '');
+                        break;
+                    default:
+                        valA = getSortKey(a.title || a.collection || '');
+                        valB = getSortKey(b.title || b.collection || '');
+                }
+                
+                if (field === 'count') {
+                    return direction === 'desc' ? valB - valA : valA - valB;
+                } else {
+                    return direction === 'asc' 
+                        ? valA.localeCompare(valB, 'en')
+                        : valB.localeCompare(valA, 'en');
+                }
+            });
+            
+            return sorted;
+        }
+
         // ========== 模态框控制 ==========
         function showModal(copyType, data, columns, showDataType = false) {
+            // 保存原始数据的深拷贝
+            currentCopyOriginalData = JSON.parse(JSON.stringify(data));
             currentCopyData = data;
             currentCopyType = copyType;
             currentCopyColumns = columns;
@@ -622,6 +823,18 @@
             const modal = document.getElementById('copy-modal');
             const columnContainer = document.getElementById('column-select-container');
             const dataTypeContainer = document.getElementById('data-type-select-container');
+            const sortContainer = document.getElementById('sort-select-container');
+            const sortSelect = document.getElementById('sort-select');
+            
+            // 生成排序选项
+            sortSelect.innerHTML = '';
+            const sortOptions = getSortOptions(copyType);
+            sortOptions.forEach(opt => {
+                const option = document.createElement('option');
+                option.value = opt.value;
+                option.textContent = opt.label;
+                sortSelect.appendChild(option);
+            });
             
             // 生成列选项
             columnContainer.innerHTML = '<strong>选择要复制的列（至少选1个）：</strong>';
@@ -647,6 +860,7 @@
             
             // 显示/隐藏数据类型选择（仅VTuber）
             dataTypeContainer.style.display = showDataType ? 'block' : 'none';
+            sortContainer.style.display = 'block';
             
             modal.style.display = 'flex';
         }
@@ -654,6 +868,7 @@
         function hideModal() {
             document.getElementById('copy-modal').style.display = 'none';
             currentCopyData = null;
+            currentCopyOriginalData = null;
             currentCopyType = null;
             currentCopyColumns = [];
         }
@@ -684,6 +899,7 @@
 
         function generateCopyContent() {
             const format = document.querySelector('input[name="copy-format"]:checked').value;
+            const sortValue = document.getElementById('sort-select').value;
             const selectedColumns = Array.from(document.querySelectorAll('.column-checkbox:checked')).map(cb => cb.value);
             
             if (selectedColumns.length === 0) {
@@ -691,7 +907,8 @@
                 return null;
             }
             
-            let data = currentCopyData;
+            // 使用原始数据进行排序
+            let data = JSON.parse(JSON.stringify(currentCopyOriginalData));
             let processedData = [];
 
             // 数据预处理
@@ -700,7 +917,10 @@
                 if (dataType === 'unique') {
                     // 去重数据：每个歌曲取第一个场次
                     processedData = data.map(song => {
-                        const row = {};
+                        const row = {
+                            // 保留count用于排序
+                            count: song.count || (song.links ? song.links.length : 0)
+                        };
                         selectedColumns.forEach(col => {
                             if (col === 'collection' || col === 'link') {
                                 row[col] = song.links && song.links[0] ? song.links[0][col] : '';
@@ -715,7 +935,9 @@
                     data.forEach(song => {
                         if (song.links) {
                             song.links.forEach(link => {
-                                const row = {};
+                                const row = {
+                                    count: 1 // 展开后每个都是1次
+                                };
                                 selectedColumns.forEach(col => {
                                     if (col === 'collection' || col === 'link') {
                                         row[col] = link[col] || '';
@@ -728,15 +950,26 @@
                         }
                     });
                 }
+            } else if (currentCopyType === 'rank') {
+                // Rank 数据：确保有count字段
+                processedData = data.map(item => ({
+                    ...item,
+                    count: item.count || 1
+                }));
             } else {
-                // Rank 和 Artist 直接使用数据
+                // Artist 直接使用数据
                 processedData = data;
             }
 
-            // 生成输出
+            // 应用排序
+            processedData = sortData(processedData, sortValue, currentCopyType);
+
+            // 生成输出（移除count字段，不显示）
             if (format === 'text') {
                 return processedData.map(row => {
-                    return selectedColumns.map(col => row[col] || '').join(' - ');
+                    const outputRow = {...row};
+                    delete outputRow.count;
+                    return selectedColumns.map(col => outputRow[col] || '').join(' - ');
                 }).join('\n');
             } else {
                 // 表格（TSV）
@@ -745,7 +978,9 @@
                     return colDef ? colDef.label : col;
                 }).join('\t');
                 const rows = processedData.map(row => {
-                    return selectedColumns.map(col => row[col] || '').join('\t');
+                    const outputRow = {...row};
+                    delete outputRow.count;
+                    return selectedColumns.map(col => outputRow[col] || '').join('\t');
                 }).join('\n');
                 return header + '\n' + rows;
             }
@@ -1033,7 +1268,10 @@
                             return {
                                 source: source,
                                 collection: perf.collection,
-                                link: perf.link
+                                link: perf.link,
+                                count: 1, // 添加count用于排序
+                                title: item.title, // 添加title用于排序
+                                artist: item.artist // 添加artist用于排序
                             };
                         });
                         
@@ -1197,7 +1435,8 @@
                                     title: song.title,
                                     source: source,
                                     collection: link.collection,
-                                    link: link.link
+                                    link: link.link,
+                                    count: 1 // 添加count用于排序
                                 });
                             });
                         });
