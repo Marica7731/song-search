@@ -316,6 +316,135 @@
             cursor: not-allowed; color: #adb5bd; background: #f8f9fa;
             border-color: #e9ecef; box-shadow: none;
         }
+
+        /* --- 模态框样式 --- */
+        .modal {
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0,0,0,0.5);
+            display: none;
+            justify-content: center;
+            align-items: center;
+        }
+        .modal-content {
+            background: white;
+            padding: 25px;
+            border-radius: 16px;
+            max-width: 500px;
+            width: 90%;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            animation: modalFadeIn 0.3s ease;
+        }
+        @keyframes modalFadeIn {
+            from { opacity: 0; transform: translateY(-20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .modal-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        .modal-header h3 {
+            margin: 0;
+            color: #2c3e50;
+            font-size: 20px;
+        }
+        .modal-close {
+            background: none;
+            border: none;
+            font-size: 28px;
+            cursor: pointer;
+            color: #6c757d;
+            line-height: 1;
+            transition: color 0.2s;
+        }
+        .modal-close:hover { color: #2c3e50; }
+        .modal-body {
+            margin-bottom: 20px;
+        }
+        .format-select, .column-select, .data-type-select {
+            margin-bottom: 15px;
+        }
+        .format-select label, .data-type-select label {
+            display: inline-block;
+            margin-right: 20px;
+            margin-bottom: 8px;
+            cursor: pointer;
+            color: #495057;
+            font-weight: 500;
+        }
+        .column-select strong {
+            display: block;
+            margin-bottom: 10px;
+            color: #2c3e50;
+        }
+        .column-select label {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 8px;
+            cursor: pointer;
+            color: #495057;
+        }
+        .modal-footer {
+            display: flex;
+            justify-content: flex-end;
+            gap: 10px;
+        }
+        .modal-btn {
+            padding: 10px 24px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 14px;
+            transition: all 0.2s;
+        }
+        .modal-btn.cancel {
+            background: #e9ecef;
+            color: #495057;
+        }
+        .modal-btn.cancel:hover { background: #dee2e6; }
+        .modal-btn.confirm {
+            background: linear-gradient(135deg, #00a1d6 0%, #00c6ff 100%);
+            color: white;
+            box-shadow: 0 4px 12px rgba(0, 161, 214, 0.3);
+        }
+        .modal-btn.confirm:hover { transform: translateY(-1px); box-shadow: 0 6px 16px rgba(0, 161, 214, 0.4); }
+
+        /* --- 复制按钮样式 --- */
+        .copy-btn {
+            padding: 6px 14px;
+            border: 1px solid rgba(255,255,255,0.3);
+            border-radius: 8px;
+            background: rgba(255,255,255,0.15);
+            color: white;
+            font-size: 13px;
+            cursor: pointer;
+            transition: all 0.2s;
+            font-weight: 500;
+            backdrop-filter: blur(4px);
+        }
+        .copy-btn:hover {
+            background: rgba(255,255,255,0.25);
+            border-color: rgba(255,255,255,0.5);
+            transform: translateY(-1px);
+        }
+        .rank-item .copy-btn {
+            background: white;
+            color: #6c757d;
+            border: 1px solid #e9ecef;
+        }
+        .rank-item .copy-btn:hover {
+            border-color: #00a1d6;
+            color: #00a1d6;
+            background: #f0f9ff;
+        }
     </style>
 </head>
 <body>
@@ -326,8 +455,8 @@
 
     <!-- Tab 切换器 -->
     <div class="tabs-container">
-        <button class="tab-btn active" data-tab="rank">🏆 歌曲总出场排行</button>
-        <button class="tab-btn" data-tab="vtuber-source">🎤 按VTuber分类</button>
+        <button class="tab-btn active" data-tab="vtuber-source">🎤 按VTuber分类</button>
+        <button class="tab-btn" data-tab="rank">🏆 歌曲总出场排行</button>
         <button class="tab-btn" data-tab="artist">🎙️ 按歌手分类</button>
     </div>
 
@@ -349,20 +478,49 @@
     <div class="progress-msg" id="progress-msg">📥 正在加载并统计数据...</div>
     <div class="empty-msg" id="empty-msg">❌ 暂无数据</div>
 
-    <!-- Tab 1 内容：歌曲总出场排行 -->
-    <div id="tab-rank" class="tab-content active">
-        <ul id="rank-list"></ul>
-        <div class="pagination" id="pagination-rank"></div>
+    <!-- Tab 1 内容：按VTuber来源分类 -->
+    <div id="tab-vtuber-source" class="tab-content active">
+        <ul id="vtuber-source-list"></ul>
     </div>
 
-    <!-- Tab 2 内容：按VTuber来源分类 -->
-    <div id="tab-vtuber-source" class="tab-content">
-        <ul id="vtuber-source-list"></ul>
+    <!-- Tab 2 内容：歌曲总出场排行 -->
+    <div id="tab-rank" class="tab-content">
+        <ul id="rank-list"></ul>
+        <div class="pagination" id="pagination-rank"></div>
     </div>
 
     <!-- Tab 3 内容：按歌手分类 -->
     <div id="tab-artist" class="tab-content">
         <ul id="artist-list"></ul>
+    </div>
+
+    <!-- 复制模态框 -->
+    <div id="copy-modal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>📋 选择复制内容</h3>
+                <button class="modal-close">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="format-select">
+                    <strong>复制格式：</strong>
+                    <label><input type="radio" name="copy-format" value="text" checked> 纯文本</label>
+                    <label><input type="radio" name="copy-format" value="table"> 表格（TSV）</label>
+                </div>
+                <div class="data-type-select" id="data-type-select-container">
+                    <strong>数据类型：</strong>
+                    <label><input type="radio" name="data-type" value="unique" checked> 去重歌曲列表</label>
+                    <label><input type="radio" name="data-type" value="all"> 未去重全部场次</label>
+                </div>
+                <div class="column-select" id="column-select-container">
+                    <!-- 动态生成列选项 -->
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="modal-btn cancel">取消</button>
+                <button class="modal-btn confirm">复制</button>
+            </div>
+        </div>
     </div>
 
     <script>
@@ -373,11 +531,16 @@
         let FILE_TO_ALIAS = {};
         
         // 当前状态
-        let activeTab = 'rank';
+        let activeTab = 'vtuber-source';
         let activeFilter = 'all';
         let searchKeyword = '';
         const PAGE_SIZE = 30;
         let currentRankPage = 1;
+
+        // 当前复制相关
+        let currentCopyData = null;
+        let currentCopyColumns = [];
+        let currentCopyType = null; // 'vtuber', 'rank', 'artist'
 
         // 工具函数
         function isValidArtist(artist) {
@@ -393,6 +556,130 @@
             s = s.replace(/[～〜˜]/g, '~').replace(/[—–―]/g, '-');
             s = s.replace(/\s+/g, ' ');
             return s.toLowerCase();
+        }
+
+        // ========== 模态框控制 ==========
+        function showModal(copyType, data, columns, showDataType = false) {
+            currentCopyData = data;
+            currentCopyType = copyType;
+            currentCopyColumns = columns;
+            
+            const modal = document.getElementById('copy-modal');
+            const columnContainer = document.getElementById('column-select-container');
+            const dataTypeContainer = document.getElementById('data-type-select-container');
+            
+            // 生成列选项
+            columnContainer.innerHTML = '<strong>选择要复制的列（至少选1个）：</strong>';
+            columns.forEach(col => {
+                const label = document.createElement('label');
+                label.innerHTML = `<input type="checkbox" class="column-checkbox" value="${col.key}" checked> ${col.label}`;
+                columnContainer.appendChild(label);
+            });
+            
+            // 显示/隐藏数据类型选择（仅VTuber）
+            dataTypeContainer.style.display = showDataType ? 'block' : 'none';
+            
+            modal.style.display = 'flex';
+        }
+
+        function hideModal() {
+            document.getElementById('copy-modal').style.display = 'none';
+            currentCopyData = null;
+            currentCopyType = null;
+            currentCopyColumns = [];
+        }
+
+        // ========== 复制功能核心 ==========
+        function copyToClipboard(text) {
+            const textarea = document.createElement('textarea');
+            textarea.value = text;
+            textarea.style.position = 'fixed';
+            textarea.style.left = '-9999px';
+            textarea.style.top = '-9999px';
+            textarea.style.opacity = '0';
+            document.body.appendChild(textarea);
+            textarea.select();
+            try {
+                const successful = document.execCommand('copy');
+                if (successful) {
+                    alert('✅ 复制成功！');
+                } else {
+                    alert('❌ 复制失败，请手动选择复制');
+                }
+            } catch (err) {
+                alert('❌ 复制失败，请手动选择复制');
+                console.error(err);
+            }
+            document.body.removeChild(textarea);
+        }
+
+        function generateCopyContent() {
+            const format = document.querySelector('input[name="copy-format"]:checked').value;
+            const selectedColumns = Array.from(document.querySelectorAll('.column-checkbox:checked')).map(cb => cb.value);
+            
+            if (selectedColumns.length === 0) {
+                alert('⚠️ 请至少选择一列！');
+                return null;
+            }
+            
+            let data = currentCopyData;
+            let processedData = [];
+
+            // 数据预处理
+            if (currentCopyType === 'vtuber') {
+                const dataType = document.querySelector('input[name="data-type"]:checked').value;
+                if (dataType === 'unique') {
+                    // 去重数据：每个歌曲取第一个场次
+                    processedData = data.map(song => {
+                        const row = {};
+                        selectedColumns.forEach(col => {
+                            if (col === 'collection' || col === 'link') {
+                                row[col] = song.links && song.links[0] ? song.links[0][col] : '';
+                            } else {
+                                row[col] = song[col] || '';
+                            }
+                        });
+                        return row;
+                    });
+                } else {
+                    // 未去重数据：展开所有links
+                    data.forEach(song => {
+                        if (song.links) {
+                            song.links.forEach(link => {
+                                const row = {};
+                                selectedColumns.forEach(col => {
+                                    if (col === 'collection' || col === 'link') {
+                                        row[col] = link[col] || '';
+                                    } else {
+                                        row[col] = song[col] || '';
+                                    }
+                                });
+                                processedData.push(row);
+                            });
+                        }
+                    });
+                }
+            } else {
+                // Rank 和 Artist 直接使用数据
+                processedData = data;
+            }
+
+            // 生成输出
+            if (format === 'text') {
+                return processedData.map(row => {
+                    return selectedColumns.map(col => row[col] || '').join(' - ');
+                }).join('\n');
+            } else {
+                // 表格（TSV）
+                const header = selectedColumns.map(col => {
+                    const colDef = currentCopyColumns.find(c => c.key === col);
+                    return colDef ? colDef.label : col;
+                }).join('\t');
+                const rows = processedData.map(row => {
+                    return selectedColumns.map(col => row[col] || '').join('\t');
+                }).join('\n');
+                return header + '\n' + rows;
+            }
         }
 
         // ========== 1. 数据聚合逻辑 ==========
@@ -437,7 +724,7 @@
                 if (!map.has(sourceKey)) {
                     map.set(sourceKey, {
                         name: vtuberName,
-                        sourceFile: sourceFile,
+                        sourceFile: sourceFile, // 保留源文件名用于映射
                         songs: new Map()
                     });
                 }
@@ -635,7 +922,10 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="count-badge">${item.count} 次</div>
+                            <div style="display: flex; align-items: center; gap: 10px;">
+                                <div class="count-badge">${item.count} 次</div>
+                                <button class="copy-btn" data-rank-index="${idx}">📋 复制场次</button>
+                            </div>
                         </div>
                         <div class="perf-container">
                             <div class="perf-header">
@@ -650,6 +940,7 @@
                     `;
                     listEl.appendChild(li);
 
+                    // 绑定展开/收起
                     if (hasMore) {
                         const toggleBtn = li.querySelector(`#btn-${id}`);
                         const hiddenLinks = li.querySelectorAll('.perf-hidden');
@@ -664,6 +955,29 @@
                             }
                         });
                     }
+
+                    // 绑定复制按钮
+                    const copyBtn = li.querySelector('.copy-btn');
+                    copyBtn.addEventListener('click', () => {
+                        const data = item.performances.map(perf => {
+                            const sourceItem = originalData.find(i => i.link === perf.link);
+                            const sourceFile = sourceItem ? sourceItem.source : null;
+                            const source = sourceFile ? (FILE_TO_ALIAS[sourceFile.replace('.js', '')] || sourceFile) : '';
+                            return {
+                                source: source,
+                                collection: perf.collection,
+                                link: perf.link
+                            };
+                        });
+                        
+                        const columns = [
+                            { key: 'source', label: '来源' },
+                            { key: 'collection', label: '具体场次' },
+                            { key: 'link', label: '链接' }
+                        ];
+                        
+                        showModal('rank', data, columns, false);
+                    });
                 });
             }
 
@@ -728,8 +1042,11 @@
                         <div class="group-name">
                             ${type === 'vtuber' ? '🎙️' : '🎤'} ${group.name}
                         </div>
-                        <div class="group-count">
-                            总计 ${group.totalCount} 首投稿（去重 ${group.uniqueCount} 首）
+                        <div style="display: flex; align-items: center; gap: 10px;">
+                            <div class="group-count">
+                                总计 ${group.totalCount} 首投稿（去重 ${group.uniqueCount} 首）
+                            </div>
+                            <button class="copy-btn">📋 复制列表</button>
                         </div>
                     </div>
                     <div class="group-songs">
@@ -755,14 +1072,8 @@
                         }
                     });
                 }
-
-                // 绑定：点击次数展开场次
-                group.songs.forEach((song, idx) => {
-                    // 我们需要在DOM中找到对应的按钮，这里通过遍历li内的按钮来绑定更稳妥
-                    // 或者在render时就生成好id，这里通过li.querySelector
-                });
                 
-                // 重新遍历当前li绑定所有场次展开事件
+                // 绑定：点击次数展开场次
                 const allCountBtns = li.querySelectorAll('.count-clickable');
                 allCountBtns.forEach(btn => {
                     const songId = btn.id.replace('count-btn-', '');
@@ -779,6 +1090,56 @@
                             btn.style.color = '#495057';
                         }
                     });
+                });
+
+                // 绑定复制按钮
+                const copyBtn = li.querySelector('.copy-btn');
+                copyBtn.addEventListener('click', () => {
+                    const sourceAlias = FILE_TO_ALIAS[group.sourceFile] || group.name;
+                    
+                    if (type === 'vtuber') {
+                        const columns = [
+                            { key: 'title', label: '歌名' },
+                            { key: 'artist', label: '歌手' },
+                            { key: 'originalArtist', label: '原唱' },
+                            { key: 'source', label: '来源' },
+                            { key: 'collection', label: '场次名称' },
+                            { key: 'link', label: '场次链接' }
+                        ];
+                        
+                        const dataWithSource = group.songs.map(song => ({
+                            ...song,
+                            source: sourceAlias
+                        }));
+                        
+                        showModal('vtuber', dataWithSource, columns, true);
+                    } else if (type === 'artist') {
+                        const columns = [
+                            { key: 'title', label: '歌名' },
+                            { key: 'originalArtist', label: '原唱' },
+                            { key: 'source', label: '来源' },
+                            { key: 'collection', label: '场次名称' },
+                            { key: 'link', label: '场次链接' }
+                        ];
+                        
+                        const data = [];
+                        group.songs.forEach(song => {
+                            song.links.forEach(link => {
+                                const sourceItem = originalData.find(i => i.link === link.link);
+                                const sourceFile = sourceItem ? sourceItem.source : null;
+                                const source = sourceFile ? (FILE_TO_ALIAS[sourceFile.replace('.js', '')] || sourceFile) : '';
+                                data.push({
+                                    title: song.title,
+                                    originalArtist: song.originalArtist,
+                                    source: source,
+                                    collection: link.collection,
+                                    link: link.link
+                                });
+                            });
+                        });
+                        
+                        showModal('artist', data, columns, false);
+                    }
                 });
             });
         }
@@ -928,6 +1289,21 @@
                 searchBtn.addEventListener('click', doSearch);
                 searchInput.addEventListener('keydown', (e) => {
                     if (e.key === 'Enter') doSearch();
+                });
+
+                // 模态框事件绑定
+                const modal = document.getElementById('copy-modal');
+                modal.querySelector('.modal-close').addEventListener('click', hideModal);
+                modal.querySelector('.modal-btn.cancel').addEventListener('click', hideModal);
+                modal.querySelector('.modal-btn.confirm').addEventListener('click', () => {
+                    const content = generateCopyContent();
+                    if (content) {
+                        copyToClipboard(content);
+                        hideModal();
+                    }
+                });
+                modal.addEventListener('click', (e) => {
+                    if (e.target === modal) hideModal();
                 });
 
                 generateFilterButtons();
