@@ -445,6 +445,43 @@
             color: #00a1d6;
             background: #f0f9ff;
         }
+
+        /* --- Toast 气泡提示 --- */
+        .toast-container {
+            position: fixed;
+            z-index: 2000;
+            top: 30px;
+            left: 50%;
+            transform: translateX(-50%);
+            pointer-events: none;
+        }
+        .toast {
+            background: #323232;
+            color: white;
+            padding: 12px 24px;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 500;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            animation: toastIn 0.3s ease, toastOut 0.3s ease 2.7s forwards;
+        }
+        .toast.success {
+            background: linear-gradient(135deg, #52c41a 0%, #73d13d 100%);
+        }
+        .toast.error {
+            background: linear-gradient(135deg, #ff4d4f 0%, #ff7875 100%);
+        }
+        @keyframes toastIn {
+            from { opacity: 0; transform: translateY(-10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        @keyframes toastOut {
+            from { opacity: 1; transform: translateY(0); }
+            to { opacity: 0; transform: translateY(-10px); }
+        }
     </style>
 </head>
 <body>
@@ -523,6 +560,9 @@
         </div>
     </div>
 
+    <!-- Toast 容器 -->
+    <div class="toast-container" id="toast-container"></div>
+
     <script>
         // 全局数据
         window.SONG_DATA = [];
@@ -558,6 +598,21 @@
             return s.toLowerCase();
         }
 
+        // ========== Toast 气泡提示 ==========
+        function showToast(message, type = 'success') {
+            const container = document.getElementById('toast-container');
+            const toast = document.createElement('div');
+            toast.className = `toast ${type}`;
+            toast.innerHTML = type === 'success' 
+                ? `<span>✅</span> ${message}` 
+                : `<span>❌</span> ${message}`;
+            container.appendChild(toast);
+            
+            setTimeout(() => {
+                toast.remove();
+            }, 3000);
+        }
+
         // ========== 模态框控制 ==========
         function showModal(copyType, data, columns, showDataType = false) {
             currentCopyData = data;
@@ -572,7 +627,21 @@
             columnContainer.innerHTML = '<strong>选择要复制的列（至少选1个）：</strong>';
             columns.forEach(col => {
                 const label = document.createElement('label');
-                label.innerHTML = `<input type="checkbox" class="column-checkbox" value="${col.key}" checked> ${col.label}`;
+                
+                // 根据类型设置默认勾选
+                let isChecked = false;
+                if (copyType === 'vtuber') {
+                    // VTuber：默认勾选歌名、歌手
+                    isChecked = (col.key === 'title' || col.key === 'artist');
+                } else if (copyType === 'rank') {
+                    // 排行：默认勾选具体场次、链接
+                    isChecked = (col.key === 'collection' || col.key === 'link');
+                } else if (copyType === 'artist') {
+                    // 歌手：默认勾选歌名、具体场次、链接
+                    isChecked = (col.key === 'title' || col.key === 'collection' || col.key === 'link');
+                }
+                
+                label.innerHTML = `<input type="checkbox" class="column-checkbox" value="${col.key}" ${isChecked ? 'checked' : ''}> ${col.label}`;
                 columnContainer.appendChild(label);
             });
             
@@ -602,12 +671,12 @@
             try {
                 const successful = document.execCommand('copy');
                 if (successful) {
-                    alert('✅ 复制成功！');
+                    showToast('复制成功！', 'success');
                 } else {
-                    alert('❌ 复制失败，请手动选择复制');
+                    showToast('复制失败，请手动选择复制', 'error');
                 }
             } catch (err) {
-                alert('❌ 复制失败，请手动选择复制');
+                showToast('复制失败，请手动选择复制', 'error');
                 console.error(err);
             }
             document.body.removeChild(textarea);
@@ -618,7 +687,7 @@
             const selectedColumns = Array.from(document.querySelectorAll('.column-checkbox:checked')).map(cb => cb.value);
             
             if (selectedColumns.length === 0) {
-                alert('⚠️ 请至少选择一列！');
+                showToast('请至少选择一列！', 'error');
                 return null;
             }
             
@@ -734,7 +803,6 @@
                 if (!vtuberEntry.songs.has(songKey)) {
                     vtuberEntry.songs.set(songKey, {
                         title: item.title || '未知歌曲',
-                        originalArtist: item.originalArtist || '', // 保留原唱
                         artist: item.artist || '', // 保留数据中的歌手
                         count: 0,
                         links: [] // 保留所有链接
@@ -780,7 +848,6 @@
                 if (!artistEntry.songs.has(songKey)) {
                     artistEntry.songs.set(songKey, {
                         title: item.title || '未知歌曲',
-                        originalArtist: item.originalArtist || '',
                         count: 0,
                         links: []
                     });
@@ -1101,7 +1168,6 @@
                         const columns = [
                             { key: 'title', label: '歌名' },
                             { key: 'artist', label: '歌手' },
-                            { key: 'originalArtist', label: '原唱' },
                             { key: 'source', label: '来源' },
                             { key: 'collection', label: '场次名称' },
                             { key: 'link', label: '场次链接' }
@@ -1116,7 +1182,6 @@
                     } else if (type === 'artist') {
                         const columns = [
                             { key: 'title', label: '歌名' },
-                            { key: 'originalArtist', label: '原唱' },
                             { key: 'source', label: '来源' },
                             { key: 'collection', label: '场次名称' },
                             { key: 'link', label: '场次链接' }
@@ -1130,7 +1195,6 @@
                                 const source = sourceFile ? (FILE_TO_ALIAS[sourceFile.replace('.js', '')] || sourceFile) : '';
                                 data.push({
                                     title: song.title,
-                                    originalArtist: song.originalArtist,
                                     source: source,
                                     collection: link.collection,
                                     link: link.link
