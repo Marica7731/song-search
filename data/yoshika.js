@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1p1zBBCEZ3
-// 生成时间: 2/26/2026, 7:39:56 PM
+// 生成时间: 2/26/2026, 8:29:41 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -24918,8 +24918,8 @@ window.SONG_DATA.push(
   "source": "yoshika.js"
 },
     {
-  "title": "God knows",
-  "artist": "涼宮ハルヒ（平野綾）",
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ(平野綾)",
   "collection": "【よしか⁂🍠歌切】🎂 生誕祭歌回🎉[2026-01-26] [Yg9fD9wdJ5w]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1p1zBBCEZ3?p=23",
@@ -25286,8 +25286,8 @@ window.SONG_DATA.push(
   "source": "yoshika.js"
 },
     {
-  "title": "God knows",
-  "artist": "涼宮ハルヒ（平野綾）",
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ(平野綾)",
   "collection": "[2026-02-05]初見さん大募集！歌回🌸【よしか⁂🍠 YOSHIKA🦍歌切】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EKFEzwEYL?p=2",
