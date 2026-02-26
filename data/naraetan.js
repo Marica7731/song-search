@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1G6fLB7Efr
-// 生成时间: 2/26/2026, 2:04:02 PM
+// 生成时间: 2/26/2026, 3:44:52 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4443,6 +4443,14 @@ window.SONG_DATA.push(
   "collection": "カワキヲアメク - 美波 cover by なれたん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dif4BUENb?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "今はいいんだよ。",
+  "artist": "MIMI cover by なれたん",
+  "collection": "今はいいんだよ。 - MIMI cover by なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13KAkzcEYu?p=1",
   "source": "naraetan.js"
 }
 );
