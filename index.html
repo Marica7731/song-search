@@ -497,7 +497,6 @@
             color: #6c757d;
             font-weight: 500;
         }
-        /* 搜索语法提示 */
         .search-tips {
             font-size: 12px;
             color: #868e96;
@@ -604,16 +603,19 @@
         function normalizeString(str) {
             if (!str) return '';
             let s = str.trim();
+            // 全角转半角（仅对符号/数字/英文生效，不破坏日语假名）
             s = s.replace(/[\uFF01-\uFF5E]/g, function(ch) {
                 return String.fromCharCode(ch.charCodeAt(0) - 0xFEE0);
             });
             s = s.replace(/\u3000/g, ' ');
+            // 统一特殊符号，不修改日语内容
             s = s.replace(/[～〜˜]/g, '~');
             s = s.replace(/[—–―]/g, '-');
             s = s.replace(/[“”]/g, '"').replace(/[‘’]/g, "'");
             s = s.replace(/…/g, '...');
+            // 合并多余空格
             s = s.replace(/\s+/g, ' ');
-            return s;
+            return s.toLowerCase();
         }
 
         function hasContinuousCommonStr(str1, str2, minLength = 2) {
@@ -706,13 +708,13 @@
             };
         }
 
-        // ========== 【新增】高级搜索解析器 ==========
+        // ========== 高级搜索解析器 ==========
         function parseSearchQuery(query) {
             if (!query || !query.trim()) return null;
             
             const q = query.trim();
             
-            // 1. 处理双引号：精确匹配 "关键词"
+            // 1. 双引号：精确匹配 "关键词"
             const exactMatchRegex = /^"([^"]+)"$/;
             const exactMatch = q.match(exactMatchRegex);
             if (exactMatch) {
@@ -722,7 +724,7 @@
                 };
             }
             
-            // 2. 处理单引号：短语模糊匹配 '关键词'
+            // 2. 单引号：短语模糊匹配 '关键词'
             const phraseMatchRegex = /^'([^']+)'$/;
             const phraseMatch = q.match(phraseMatchRegex);
             if (phraseMatch) {
@@ -732,7 +734,7 @@
                 };
             }
             
-            // 3. 处理 OR 逻辑
+            // 3. OR 逻辑
             if (q.toUpperCase().includes(' OR ')) {
                 const parts = q.split(/\s+OR\s+/i);
                 return {
@@ -741,15 +743,14 @@
                 };
             }
             
-            // 4. 处理 AND 逻辑（显式 AND 或 空格）
-            // 先将 - 替换为空格，方便搜索"歌名 - 歌手"
+            // 4. AND 逻辑（显式 AND 或 空格），自动把「-」替换为空格，适配「歌名 - 歌手」格式
             const processedQuery = q.replace(/\s*-\s*/g, ' ');
             
             let andParts = [];
             if (processedQuery.toUpperCase().includes(' AND ')) {
                 andParts = processedQuery.split(/\s+AND\s+/i);
             } else {
-                // 按空格分割，但保留引号内的内容
+                // 按空格分割，保留引号内的内容
                 andParts = splitWithQuotes(processedQuery);
             }
             
@@ -796,8 +797,8 @@
             return result;
         }
 
-        // ========== 【新增】匹配检查函数 ==========
-        function matchesCondition(text, condition) {
+        // ========== 单条件匹配函数 ==========
+        function matchesSingleCondition(text, condition) {
             if (!text) return false;
             const normText = normalizeString(text);
             
@@ -805,20 +806,16 @@
                 case 'exact':
                     return normText === condition.value;
                 case 'phrase':
-                    return normText.includes(condition.value);
                 case 'fuzzy':
                     return normText.includes(condition.value);
-                case 'and':
-                    return condition.values.every(v => matchesCondition(text, v));
-                case 'or':
-                    return condition.values.some(v => matchesCondition(text, v));
                 default:
                     return false;
             }
         }
 
-        // ========== 【修改】搜索主函数 ==========
+        // ========== 【核心修复】跨字段搜索匹配主函数 ==========
         function searchItem(item, condition, fields) {
+            // 先获取当前歌曲所有启用字段的文本内容
             const sourceBase = item.source?.replace('.js', '');
             const sourceAlias = FILE_TO_ALIAS[sourceBase] || item.source || '未知';
             
@@ -828,20 +825,37 @@
                 collection: item.collection || '',
                 source: sourceAlias
             };
-            
-            // 如果没有指定任何字段，返回 false
-            if (!fields.title && !fields.artist && !fields.collection && !fields.source) {
-                return false;
-            }
-            
-            // 检查每个启用的字段
-            for (const [field, enabled] of Object.entries(fields)) {
-                if (enabled && matchesCondition(fieldTexts[field], condition)) {
-                    return true;
+
+            // 过滤出用户启用的字段
+            const enabledFields = Object.entries(fields)
+                .filter(([_, enabled]) => enabled)
+                .map(([field, _]) => fieldTexts[field]);
+
+            if (enabledFields.length === 0) return false;
+
+            // 递归判断条件是否满足（支持跨字段）
+            function checkCondition(cond) {
+                switch (cond.type) {
+                    // 基础条件：只要有一个启用的字段满足即可
+                    case 'exact':
+                    case 'phrase':
+                    case 'fuzzy':
+                        return enabledFields.some(text => matchesSingleCondition(text, cond));
+                    
+                    // AND条件：所有子条件都必须满足
+                    case 'and':
+                        return cond.values.every(subCond => checkCondition(subCond));
+                    
+                    // OR条件：至少一个子条件满足
+                    case 'or':
+                        return cond.values.some(subCond => checkCondition(subCond));
+                    
+                    default:
+                        return false;
                 }
             }
-            
-            return false;
+
+            return checkCondition(condition);
         }
 
         function loadScriptsParallel(fileList) {
@@ -850,7 +864,7 @@
             const totalFiles = fileList.length;
 
             const promises = fileList.map(fileName => {
-                return new Promise((resolve, reject) => {
+                return new Promise((resolve) => {
                     const script = document.createElement('script');
                     script.src = `data/${fileName}`;
                     
@@ -935,6 +949,7 @@
         }
 
         function updateFilterAndSearch() {
+            // 1. 来源筛选
             if (activeSource === 'all') {
                 filteredBySource = [...originalData];
             } else if (activeSource === 'missing-artist') {
@@ -943,6 +958,7 @@
                 filteredBySource = originalData.filter(item => item.source === activeSource);
             }
 
+            // 2. 关键词搜索
             const keyword = document.getElementById('search-input').value.trim();
             const fields = getActiveSearchFields();
 
@@ -959,6 +975,7 @@
                 filteredBySearch = [...filteredBySource];
             }
 
+            // 3. 更新UI
             updateStats();
             const copyAllBtn = document.getElementById('copy-all-btn');
             copyAllBtn.disabled = filteredBySearch.length === 0;
