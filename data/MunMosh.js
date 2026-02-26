@@ -1,6 +1,6 @@
 // むんもっしゅ - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1UCkhBkEon
-// 生成时间: 2/26/2026, 6:43:36 PM
+// 生成时间: 2/26/2026, 7:41:50 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1214,8 +1214,8 @@ window.SONG_DATA.push(
   "source": "MunMosh.js"
 },
     {
-  "title": "God knows",
-  "artist": "涼宮ハルヒ(平野綾)",
+  "title": "God knows...",
+  "artist": "平野綾",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=1",
@@ -3358,8 +3358,8 @@ window.SONG_DATA.push(
   "source": "MunMosh.js"
 },
     {
-  "title": "God knows",
-  "artist": "涼宮ハルヒ(平野綾)",
+  "title": "God knows...",
+  "artist": "平野綾",
   "collection": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HC411G7jZ?p=19",

@@ -1,6 +1,6 @@
 // 厄倫蒂兒 - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1dGqeYpEuc
-// 生成时间: 2/26/2026, 6:44:45 PM
+// 生成时间: 2/26/2026, 7:42:47 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6654,8 +6654,8 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "God knows",
-  "artist": "平野綾",
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ(平野綾)",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=20",

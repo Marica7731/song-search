@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1p1zBBCEZ3
-// 生成时间: 2/26/2026, 6:42:02 PM
+// 生成时间: 2/26/2026, 7:39:56 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5846,8 +5846,8 @@ window.SONG_DATA.push(
   "source": "yoshika.js"
 },
     {
-  "title": "God knows",
-  "artist": "涼宮ハルヒ（平野綾）",
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ(平野綾)",
   "collection": "【YOSHIKA⁂Ch. 12首竖屏 2024.4.13】【歌枠】活动前的卡拉OK",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yp421Q7A4?p=7",
@@ -7006,7 +7006,7 @@ window.SONG_DATA.push(
   "source": "yoshika.js"
 },
     {
-  "title": "God knows",
+  "title": "God knows...",
   "artist": "涼宮ハルヒ(平野綾)",
   "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
   "up": "前尘往事如昔故",
@@ -7374,7 +7374,7 @@ window.SONG_DATA.push(
   "source": "yoshika.js"
 },
     {
-  "title": "God knows",
+  "title": "God knows...",
   "artist": "涼宮ハルヒ(平野綾)",
   "collection": "【YOSHIKA】11竖屏】God knows、Pray、舞台少女心得【240709】",
   "up": "前尘往事如昔故",
@@ -14294,7 +14294,7 @@ window.SONG_DATA.push(
   "source": "yoshika.js"
 },
     {
-  "title": "God knows",
+  "title": "God knows...",
   "artist": "涼宮ハルヒ(平野綾)",
   "collection": "【YOSHIKA⁂Ch. 】🍠🍠まったり～歌回～ 2024年12月16日 27",
   "up": "前尘往事如昔故",
@@ -17303,7 +17303,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "God knows...",
-  "artist": "涼宮ハルヒ",
+  "artist": "涼宮ハルヒ(平野綾)",
   "collection": "【耐久歌枠（49）】🍠向着梦想一起前进的10万粉丝耐久歌回🌟【YOSHIKA⁂Ch.】2025年03月05日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14bRFYxEpC?p=4",
@@ -18526,8 +18526,8 @@ window.SONG_DATA.push(
   "source": "yoshika.js"
 },
     {
-  "title": "God knows",
-  "artist": "涼宮ハルヒ（平野綾）",
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ(平野綾)",
   "collection": "【 YOSHIKA⁂Ch.  15 竖屏】2025年04月18日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1rj5bzNE33?p=5",
@@ -22622,8 +22622,8 @@ window.SONG_DATA.push(
   "source": "yoshika.js"
 },
     {
-  "title": "God knows",
-  "artist": "涼宮ハルヒ（平野綾）",
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ(平野綾)",
   "collection": "【YOSHIKA⁂Ch. 】[2025-12-07] 歌枠  1曲聴いてってください！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kwmHB7E2h?p=6",
