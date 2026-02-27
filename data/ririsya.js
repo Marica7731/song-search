@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1cofuBGEkX
-// 生成时间: 2/27/2026, 3:31:51 PM
+// 生成时间: 2/27/2026, 4:30:51 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6790,8 +6790,8 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "Rain",
-  "artist": "秦基博",
+  "title": "RAIN",
+  "artist": "SEKAI NO OWARI",
   "collection": "【 Acoustic / 弾き語り 】睡眠導入しっとり弾き語り🌙Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wKM9ztEsk?p=14",
