@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1G6fLB7Efr
-// 生成时间: 2/27/2026, 4:29:59 PM
+// 生成时间: 2/27/2026, 5:26:43 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4459,6 +4459,166 @@ window.SONG_DATA.push(
   "collection": "フィナーレ。 - eill cover by なれたん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV174ASzfEnK?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "FIRE!!",
+  "artist": "和田光司",
+  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "近道したい",
+  "artist": "たかはし智秋",
+  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "砂の惑星",
+  "artist": "米津玄師",
+  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "祈り～You Raise Me Up",
+  "artist": "川合結人",
+  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "RAIN",
+  "artist": "SEKAI NO OWARI",
+  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "愛唄",
+  "artist": "GReeeeN",
+  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "恋人を射ち堕とした日",
+  "artist": "Sound Horizon",
+  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "カクテル",
+  "artist": "Hysteric Blue",
+  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "初めての恋が終わる時",
+  "artist": "ryo(supercell)",
+  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "軌跡",
+  "artist": "Roselia",
+  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "最高の片想い",
+  "artist": "タイナカサチ",
+  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ロビンソン",
+  "artist": "スピッツ",
+  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Connecting",
+  "artist": "halyosy、初音ミク",
+  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "願い事ひとつだけ",
+  "artist": "小松未歩",
+  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ゴーストルール",
+  "artist": "DECO27",
+  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=16",
+  "source": "naraetan.js"
+},
+    {
+  "title": "優しさの理由",
+  "artist": "ChouCho",
+  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=17",
+  "source": "naraetan.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=18",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Shining Tears",
+  "artist": "保志総一朗",
+  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=19",
+  "source": "naraetan.js"
+},
+    {
+  "title": "TESTAMENT",
+  "artist": "水樹奈々",
+  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=20",
   "source": "naraetan.js"
 }
 );

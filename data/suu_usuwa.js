@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1ve411z7Nm
-// 生成时间: 2/27/2026, 4:31:22 PM
+// 生成时间: 2/27/2026, 5:28:00 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -19555,6 +19555,118 @@ window.SONG_DATA.push(
   "collection": "刚才眼神对上了！这样你和我就有缘了！[2026-02-04][x1CZfV72Q0I]【🦢稀羽すう歌切】いま目が合ったな！これでお前とも縁ができた！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPFczzE6R?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "水平線",
+  "artist": "back number",
+  "collection": "【🦢稀羽すう歌切】3週間ぶりに歌うけどどうする？[2026-02-27]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pkAXzLEcg?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "アカシア",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【🦢稀羽すう歌切】3週間ぶりに歌うけどどうする？[2026-02-27]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pkAXzLEcg?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Starry night",
+  "artist": "稀羽すう",
+  "collection": "【🦢稀羽すう歌切】3週間ぶりに歌うけどどうする？[2026-02-27]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pkAXzLEcg?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "都落ち",
+  "artist": "ヨルシカ",
+  "collection": "【🦢稀羽すう歌切】3週間ぶりに歌うけどどうする？[2026-02-27]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pkAXzLEcg?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【🦢稀羽すう歌切】3週間ぶりに歌うけどどうする？[2026-02-27]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pkAXzLEcg?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Overdose",
+  "artist": "なとり",
+  "collection": "【🦢稀羽すう歌切】3週間ぶりに歌うけどどうする？[2026-02-27]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pkAXzLEcg?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "思い出とペトリコール",
+  "artist": "稀羽すう",
+  "collection": "【🦢稀羽すう歌切】3週間ぶりに歌うけどどうする？[2026-02-27]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pkAXzLEcg?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "【🦢稀羽すう歌切】3週間ぶりに歌うけどどうする？[2026-02-27]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pkAXzLEcg?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "琥珀色の街、上海蟹の朝",
+  "artist": "くるり",
+  "collection": "【🦢稀羽すう歌切】3週間ぶりに歌うけどどうする？[2026-02-27]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pkAXzLEcg?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ルカルカ☆ナイトフィーバー",
+  "artist": "samfree",
+  "collection": "【🦢稀羽すう歌切】3週間ぶりに歌うけどどうする？[2026-02-27]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pkAXzLEcg?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO#27",
+  "collection": "【🦢稀羽すう歌切】3週間ぶりに歌うけどどうする？[2026-02-27]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pkAXzLEcg?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo",
+  "collection": "【🦢稀羽すう歌切】3週間ぶりに歌うけどどうする？[2026-02-27]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pkAXzLEcg?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "トリノコシティ",
+  "artist": "40mP",
+  "collection": "【🦢稀羽すう歌切】3週間ぶりに歌うけどどうする？[2026-02-27]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pkAXzLEcg?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "NIGHT DANCER",
+  "artist": "imase",
+  "collection": "【🦢稀羽すう歌切】3週間ぶりに歌うけどどうする？[2026-02-27]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pkAXzLEcg?p=14",
   "source": "suu_usuwa.js"
 }
 );
