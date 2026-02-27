@@ -1,6 +1,6 @@
 // Figaro - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1HRfuBCEXN
-// 生成时间: 2/27/2026, 5:27:07 PM
+// 生成时间: 2/27/2026, 6:29:57 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2854,7 +2854,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "REI AM",
+  "title": "RE: I AM",
   "artist": "Aimer",
   "collection": "【240510 Figaro】18」突袭的周五！",
   "up": "前尘往事如昔故",
@@ -5374,7 +5374,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "REI AM",
+  "title": "RE: I AM",
   "artist": "Aimer",
   "collection": "【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ【240705】",
   "up": "前尘往事如昔故",
@@ -6654,7 +6654,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "REI AM",
+  "title": "RE: I AM",
   "artist": "Aimer",
   "collection": "【Figaro】絶頂讃歌、CULT、ドラマツルギー.不定期歌回【240913】",
   "up": "前尘往事如昔故",
@@ -7878,7 +7878,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "RE:I AM",
+  "title": "RE: I AM",
   "artist": "Aimer",
   "collection": "【Figaro】21p+1pv】雨とカプチーノ、思想犯、若者のすべて、悪魔の子【241003】",
   "up": "前尘往事如昔故",
@@ -10934,7 +10934,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "REI AM",
+  "title": "RE: I AM",
   "artist": "Aimer",
   "collection": "【Figaro】周末前的动漫曲歌回  27  2024年12月13日",
   "up": "前尘往事如昔故",
@@ -16134,7 +16134,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "REI AM",
+  "title": "RE: I AM",
   "artist": "Aimer",
   "collection": "2025年6月5日 Figaro竖屏 27",
   "up": "前尘往事如昔故",
@@ -17446,7 +17446,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "REI AM",
+  "title": "RE: I AM",
   "artist": "Aimer",
   "collection": "【 #歌枠 / KARAOKE 】元気なアニソンはお好きですか？【Figaro / Vtuber】",
   "up": "前尘往事如昔故",
@@ -19830,7 +19830,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "REI AM",
+  "title": "RE: I AM",
   "artist": "Aimer",
   "collection": "【Figaro】高評価1000行くまで終われません🔥耐久歌配信！",
   "up": "前尘往事如昔故",
