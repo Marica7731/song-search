@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1G6fLB7Efr
-// 生成时间: 2/27/2026, 6:40:46 AM
+// 生成时间: 2/27/2026, 7:40:25 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4451,6 +4451,14 @@ window.SONG_DATA.push(
   "collection": "今はいいんだよ。 - MIMI cover by なれたん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13KAkzcEYu?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "フィナーレ。",
+  "artist": "eill cover by なれたん",
+  "collection": "フィナーレ。 - eill cover by なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV174ASzfEnK?p=1",
   "source": "naraetan.js"
 }
 );
