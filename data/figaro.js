@@ -1,6 +1,6 @@
 // Figaro - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1HRfuBCEXN
-// 生成时间: 2/27/2026, 6:29:57 PM
+// 生成时间: 2/27/2026, 7:27:41 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7966,7 +7966,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "オーバーライト",
+  "title": "オーバーライド",
   "artist": "吉田夜世",
   "collection": "【Figaro】21p+1pv】雨とカプチーノ、思想犯、若者のすべて、悪魔の子【241003】",
   "up": "前尘往事如昔故",

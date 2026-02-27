@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1G6fLB7Efr
-// 生成时间: 2/27/2026, 6:29:38 PM
+// 生成时间: 2/27/2026, 7:27:11 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4471,7 +4471,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "近道したい",
-  "artist": "たかはし智秋",
+  "artist": "木村良平",
   "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=2",
