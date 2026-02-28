@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>歌库分P重复分析 - 歌曲查询站</title>
+    <title>歌库分P重复分析工具</title>
     <style>
         /* 复用主页面全局样式 */
         * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -332,7 +332,7 @@
             return s.toLowerCase();
         }
 
-        // 修复：精准提取BV号（不管有没有?p=xx后缀）
+        // 精准提取BV号（不管有没有?p=xx后缀）
         function extractBvidFromLink(link) {
             if (!link) return '';
             // 匹配BV开头，后面跟任意字母数字，直到遇到?或/或空格
@@ -340,7 +340,7 @@
             return bvidMatch ? bvidMatch[0] : '';
         }
 
-        // 修复：BV号匹配逻辑（输入的BV号和歌库中的BV号精准匹配）
+        // BV号匹配逻辑（输入的BV号和歌库中的BV号精准匹配）
         function isBvidMatch(inputBvid, songBvid) {
             if (!inputBvid || !songBvid) return false;
             // 先提取纯BV号（去掉可能的后缀）
@@ -427,7 +427,7 @@
             document.getElementById('progress-msg').textContent = `✅ 筛选完成（${filteredSongs.length} 首），请输入关键词或留空分析全部`;
         }
 
-        // ================= 加载歌库数据 =================
+        // ================= 修复核心：歌库加载逻辑 =================
         async function loadSiteSongs() {
             try {
                 const progressMsg = document.getElementById('progress-msg');
@@ -439,38 +439,62 @@
                 const indexData = await indexRes.json();
                 FILE_TO_ALIAS = indexData.fileToAlias || {};
 
-                // 2. 并行加载所有歌曲文件
-                const filePromises = indexData.files.map(fileName => {
-                    return fetch(`data/${fileName}`)
-                        .then(res => {
-                            if (!res.ok) throw new Error(`加载${fileName}失败`);
-                            return res.text();
-                        })
-                        .then(jsContent => {
-                            const fakeWindow = { SONG_DATA: [] };
-                            eval(jsContent.replace('window.', 'fakeWindow.'));
-                            // 给每首歌添加source字段和提取BV号
-                            fakeWindow.SONG_DATA.forEach(item => {
-                                item.source = fileName;
-                                item.bvid = extractBvidFromLink(item.link); // 提取纯BV号
-                            });
-                            console.log(`加载${fileName}：`, fakeWindow.SONG_DATA); // 调试：打印加载的数据
-                            return fakeWindow.SONG_DATA;
-                        })
-                        .catch(err => {
-                            console.warn(`⚠️  加载${fileName}失败：${err.message}`);
-                            return [];
-                        });
-                });
+                // 2. 重构：适配动态构建SONG_DATA的加载逻辑
+                const loadSingleFile = async (fileName) => {
+                    try {
+                        const res = await fetch(`data/${fileName}`);
+                        if (!res.ok) throw new Error(`HTTP错误 ${res.status}`);
+                        const jsContent = await res.text();
 
-                // 3. 合并所有歌曲
-                const songArrays = await Promise.all(filePromises);
-                allSiteSongs = songArrays.flat();
+                        // 关键修复：创建完整的模拟环境，先初始化SONG_DATA再执行代码
+                        const fakeWindow = {};
+                        // 第一步：先初始化空数组
+                        fakeWindow.SONG_DATA = [];
+                        // 第二步：执行JS文件内容（此时SONG_DATA已存在，push不会报错）
+                        try {
+                            // 使用Function构造器执行，避免eval的作用域问题
+                            const executeCode = new Function('window', jsContent);
+                            executeCode(fakeWindow);
+                        } catch (execErr) {
+                            console.warn(`⚠️  执行${fileName}时警告：`, execErr.message);
+                            // 兼容旧版：尝试直接提取数组
+                            const match = jsContent.match(/window\.SONG_DATA\s*=\s*(\[.+\]);/s);
+                            if (match && match[1]) {
+                                fakeWindow.SONG_DATA = JSON.parse(match[1]);
+                            }
+                        }
+
+                        // 验证加载结果
+                        const loadedSongs = Array.isArray(fakeWindow.SONG_DATA) ? fakeWindow.SONG_DATA : [];
+                        console.log(`✅ 加载${fileName}成功：${loadedSongs.length} 首`, loadedSongs.slice(0, 2));
+
+                        // 给每首歌添加source字段和提取BV号
+                        loadedSongs.forEach(item => {
+                            item.source = fileName;
+                            item.bvid = extractBvidFromLink(item.link); // 提取纯BV号
+                        });
+
+                        return loadedSongs;
+                    } catch (err) {
+                        console.error(`❌ 加载${fileName}失败：`, err.message);
+                        return [];
+                    }
+                };
+
+                // 3. 串行加载（避免并行加载导致的内存问题）
+                const allLoadedSongs = [];
+                for (const fileName of indexData.files) {
+                    const songs = await loadSingleFile(fileName);
+                    allLoadedSongs.push(...songs);
+                }
+
+                // 4. 合并所有歌曲
+                allSiteSongs = allLoadedSongs;
                 filteredSongs = [...allSiteSongs]; // 初始筛选为全部
 
-                console.log('全部歌库数据：', allSiteSongs); // 调试：打印全部数据
+                console.log(`✅ 所有歌库加载完成：共 ${allSiteSongs.length} 首`, allSiteSongs.slice(0, 2));
 
-                // 4. 生成筛选按钮
+                // 5. 生成筛选按钮
                 generateFilterButtons(indexData.files);
 
                 progressMsg.textContent = `✅ 歌库加载完成（共 ${allSiteSongs.length} 首），请输入关键词或留空分析全部`;
@@ -484,7 +508,7 @@
             }
         }
 
-        // ================= 核心：重复分析逻辑（纯歌库数据源） =================
+        // ================= 核心：重复分析逻辑 =================
         function analyzeDuplicateSongs(keyword) {
             // 1. 先根据关键词筛选要分析的歌曲
             let songsToAnalyze = [...filteredSongs];
@@ -494,7 +518,7 @@
                 const isBvidInput = inputStr.startsWith('BV'); // 判断是否输入的是BV号
                 const normKeyword = normalizeString(inputStr);
                 
-                // 修复：精准匹配BV号 或 模糊匹配标题
+                // 精准匹配BV号 或 模糊匹配标题
                 songsToAnalyze = filteredSongs.filter(song => {
                     if (isBvidInput) {
                         // 输入的是BV号：精准匹配歌库中的BV号
@@ -507,7 +531,7 @@
                 });
             }
 
-            console.log('筛选后要分析的歌曲：', songsToAnalyze); // 调试：打印筛选结果
+            console.log(`🔍 筛选后要分析的歌曲：${songsToAnalyze.length} 首`, songsToAnalyze);
 
             if (songsToAnalyze.length === 0) {
                 throw new Error(`未找到匹配「${keyword.trim() || '全部歌库'}」的歌曲数据`);
@@ -581,7 +605,7 @@
 
                 // 执行重复分析
                 const analysis = analyzeDuplicateSongs(keyword);
-                console.log('分析结果：', analysis); // 调试：打印分析结果
+                console.log('📈 分析结果：', analysis);
 
                 // 保存最终结果
                 currentAnalysisResult = analysis;
@@ -590,7 +614,7 @@
                 renderResult();
 
             } catch (err) {
-                console.error('分析出错：', err); // 调试：打印错误
+                console.error('❌ 分析出错：', err);
                 document.getElementById('progress-msg').style.display = 'none';
                 document.getElementById('error-msg').style.display = 'block';
                 document.getElementById('error-msg').textContent = `❌ 分析失败：${err.message}`;
@@ -821,7 +845,7 @@
 
             analyzeBtn.addEventListener('click', () => {
                 const keyword = keywordInput.value;
-                console.log('用户输入：', keyword); // 调试：打印用户输入
+                console.log('👤 用户输入：', keyword);
                 // 重置结果
                 document.getElementById('stats-card').style.display = 'none';
                 document.getElementById('result-tabs').style.display = 'none';
