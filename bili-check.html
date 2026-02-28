@@ -332,11 +332,21 @@
             return s.toLowerCase();
         }
 
-        // 从链接中提取BV号
+        // 修复：精准提取BV号（不管有没有?p=xx后缀）
         function extractBvidFromLink(link) {
             if (!link) return '';
+            // 匹配BV开头，后面跟任意字母数字，直到遇到?或/或空格
             const bvidMatch = link.match(/BV[a-zA-Z0-9]+/);
             return bvidMatch ? bvidMatch[0] : '';
+        }
+
+        // 修复：BV号匹配逻辑（输入的BV号和歌库中的BV号精准匹配）
+        function isBvidMatch(inputBvid, songBvid) {
+            if (!inputBvid || !songBvid) return false;
+            // 先提取纯BV号（去掉可能的后缀）
+            const pureInputBvid = extractBvidFromLink(inputBvid);
+            const pureSongBvid = extractBvidFromLink(songBvid);
+            return pureInputBvid === pureSongBvid;
         }
 
         // ================= 复制工具函数 =================
@@ -442,8 +452,9 @@
                             // 给每首歌添加source字段和提取BV号
                             fakeWindow.SONG_DATA.forEach(item => {
                                 item.source = fileName;
-                                item.bvid = extractBvidFromLink(item.link); // 从link提取BV号
+                                item.bvid = extractBvidFromLink(item.link); // 提取纯BV号
                             });
+                            console.log(`加载${fileName}：`, fakeWindow.SONG_DATA); // 调试：打印加载的数据
                             return fakeWindow.SONG_DATA;
                         })
                         .catch(err => {
@@ -456,6 +467,8 @@
                 const songArrays = await Promise.all(filePromises);
                 allSiteSongs = songArrays.flat();
                 filteredSongs = [...allSiteSongs]; // 初始筛选为全部
+
+                console.log('全部歌库数据：', allSiteSongs); // 调试：打印全部数据
 
                 // 4. 生成筛选按钮
                 generateFilterButtons(indexData.files);
@@ -477,17 +490,27 @@
             let songsToAnalyze = [...filteredSongs];
             
             if (keyword && keyword.trim()) {
-                const normKeyword = normalizeString(keyword.trim());
-                // 支持按标题/ BV号筛选
+                const inputStr = keyword.trim();
+                const isBvidInput = inputStr.startsWith('BV'); // 判断是否输入的是BV号
+                const normKeyword = normalizeString(inputStr);
+                
+                // 修复：精准匹配BV号 或 模糊匹配标题
                 songsToAnalyze = filteredSongs.filter(song => {
-                    const normTitle = normalizeString(song.title || '');
-                    const bvid = extractBvidFromLink(song.link);
-                    return normTitle.includes(normKeyword) || bvid.includes(keyword.trim());
+                    if (isBvidInput) {
+                        // 输入的是BV号：精准匹配歌库中的BV号
+                        return isBvidMatch(inputStr, song.bvid);
+                    } else {
+                        // 输入的是关键词：模糊匹配标题
+                        const normTitle = normalizeString(song.title || '');
+                        return normTitle.includes(normKeyword);
+                    }
                 });
             }
 
+            console.log('筛选后要分析的歌曲：', songsToAnalyze); // 调试：打印筛选结果
+
             if (songsToAnalyze.length === 0) {
-                throw new Error('未找到匹配的歌曲数据');
+                throw new Error(`未找到匹配「${keyword.trim() || '全部歌库'}」的歌曲数据`);
             }
 
             // 2. 构建歌曲重复统计映射（标题 -> 出现次数/来源/详情）
@@ -558,6 +581,7 @@
 
                 // 执行重复分析
                 const analysis = analyzeDuplicateSongs(keyword);
+                console.log('分析结果：', analysis); // 调试：打印分析结果
 
                 // 保存最终结果
                 currentAnalysisResult = analysis;
@@ -566,6 +590,7 @@
                 renderResult();
 
             } catch (err) {
+                console.error('分析出错：', err); // 调试：打印错误
                 document.getElementById('progress-msg').style.display = 'none';
                 document.getElementById('error-msg').style.display = 'block';
                 document.getElementById('error-msg').textContent = `❌ 分析失败：${err.message}`;
@@ -796,6 +821,7 @@
 
             analyzeBtn.addEventListener('click', () => {
                 const keyword = keywordInput.value;
+                console.log('用户输入：', keyword); // 调试：打印用户输入
                 // 重置结果
                 document.getElementById('stats-card').style.display = 'none';
                 document.getElementById('result-tabs').style.display = 'none';
