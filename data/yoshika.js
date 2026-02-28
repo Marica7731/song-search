@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1p1zBBCEZ3
-// 生成时间: 2/28/2026, 7:18:01 PM
+// 生成时间: 2/28/2026, 9:11:26 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -25859,6 +25859,158 @@ window.SONG_DATA.push(
   "collection": "初見さん募集！深夜歌回🌙Singing Stream🍠[2026-02-08][bxvH5o6Vuuc]【よしか⁂🍠 YOSHIKA🦍歌切】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EhctzfEJ5?p=45",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アローラ!!",
+  "artist": "松本梨香",
+  "collection": "【🍠YOSHIKA🦍歌切】[2026-02-28]ただいま～！復活！リハビリ  歌回[FZ63ba_fedc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bcAizuETy?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "COLORS",
+  "artist": "FLOW",
+  "collection": "【🍠YOSHIKA🦍歌切】[2026-02-28]ただいま～！復活！リハビリ  歌回[FZ63ba_fedc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bcAizuETy?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "恋は渾沌の隷也",
+  "artist": "後ろから這いより隊G",
+  "collection": "【🍠YOSHIKA🦍歌切】[2026-02-28]ただいま～！復活！リハビリ  歌回[FZ63ba_fedc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bcAizuETy?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "気分上々↑↑",
+  "artist": "mihimaru GT",
+  "collection": "【🍠YOSHIKA🦍歌切】[2026-02-28]ただいま～！復活！リハビリ  歌回[FZ63ba_fedc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bcAizuETy?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おどるポンポコリン",
+  "artist": "さくらももこ",
+  "collection": "【🍠YOSHIKA🦍歌切】[2026-02-28]ただいま～！復活！リハビリ  歌回[FZ63ba_fedc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bcAizuETy?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ロマンスの神様",
+  "artist": "広瀬香美",
+  "collection": "【🍠YOSHIKA🦍歌切】[2026-02-28]ただいま～！復活！リハビリ  歌回[FZ63ba_fedc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bcAizuETy?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "メランコリック",
+  "artist": "Junky feat.鏡音リン",
+  "collection": "【🍠YOSHIKA🦍歌切】[2026-02-28]ただいま～！復活！リハビリ  歌回[FZ63ba_fedc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bcAizuETy?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハッピーシンセサイザ",
+  "artist": "EasyPop",
+  "collection": "【🍠YOSHIKA🦍歌切】[2026-02-28]ただいま～！復活！リハビリ  歌回[FZ63ba_fedc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bcAizuETy?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "キューティーハニー",
+  "artist": "倖田來未",
+  "collection": "【🍠YOSHIKA🦍歌切】[2026-02-28]ただいま～！復活！リハビリ  歌回[FZ63ba_fedc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bcAizuETy?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "とくべチュ、して",
+  "artist": "＝LOVE（イコールラブ）",
+  "collection": "【🍠YOSHIKA🦍歌切】[2026-02-28]ただいま～！復活！リハビリ  歌回[FZ63ba_fedc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bcAizuETy?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Music S.T.A.R.T!!",
+  "artist": "μ's",
+  "collection": "【🍠YOSHIKA🦍歌切】[2026-02-28]ただいま～！復活！リハビリ  歌回[FZ63ba_fedc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bcAizuETy?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【🍠YOSHIKA🦍歌切】[2026-02-28]ただいま～！復活！リハビリ  歌回[FZ63ba_fedc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bcAizuETy?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【🍠YOSHIKA🦍歌切】[2026-02-28]ただいま～！復活！リハビリ  歌回[FZ63ba_fedc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bcAizuETy?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ルカルカ★ナイトフィーバー",
+  "artist": "samfree feat. 巡音ルカ",
+  "collection": "【🍠YOSHIKA🦍歌切】[2026-02-28]ただいま～！復活！リハビリ  歌回[FZ63ba_fedc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bcAizuETy?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "めざせポケモンマスター",
+  "artist": "松本梨香",
+  "collection": "【🍠YOSHIKA🦍歌切】[2026-02-28]ただいま～！復活！リハビリ  歌回[FZ63ba_fedc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bcAizuETy?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "未来のミュージアム",
+  "artist": "Perfume",
+  "collection": "【🍠YOSHIKA🦍歌切】[2026-02-28]ただいま～！復活！リハビリ  歌回[FZ63ba_fedc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bcAizuETy?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "星の伝言",
+  "artist": "東山奈央",
+  "collection": "【🍠YOSHIKA🦍歌切】[2026-02-28]ただいま～！復活！リハビリ  歌回[FZ63ba_fedc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bcAizuETy?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "サインはＢ",
+  "artist": "B小町",
+  "collection": "【🍠YOSHIKA🦍歌切】[2026-02-28]ただいま～！復活！リハビリ  歌回[FZ63ba_fedc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bcAizuETy?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "旅立ちの日に",
+  "artist": "高橋浩美",
+  "collection": "【🍠YOSHIKA🦍歌切】[2026-02-28]ただいま～！復活！リハビリ  歌回[FZ63ba_fedc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bcAizuETy?p=19",
   "source": "yoshika.js"
 }
 );

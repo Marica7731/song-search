@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1zzZPBsEum
-// 生成时间: 2/28/2026, 7:18:47 PM
+// 生成时间: 2/28/2026, 9:12:01 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3731,6 +3731,94 @@ window.SONG_DATA.push(
   "collection": "【音門るき😈歌切】[2026-02-28]接力-愛が伝わる歌枠を[CGEcI9_4IdU]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TeAazcERq?p=5",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "orion",
+  "artist": "米津玄師",
+  "collection": "【音門るき😈歌切】[2026-02-28]ラジオ代わりの深夜歌枠📻🎶睡眠できるかは不明👿[VrpinzvczyU]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BiAYzmE1y?p=1",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "オリオンをなぞる",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【音門るき😈歌切】[2026-02-28]ラジオ代わりの深夜歌枠📻🎶睡眠できるかは不明👿[VrpinzvczyU]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BiAYzmE1y?p=2",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "コトノハ",
+  "artist": "tuki.",
+  "collection": "【音門るき😈歌切】[2026-02-28]ラジオ代わりの深夜歌枠📻🎶睡眠できるかは不明👿[VrpinzvczyU]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BiAYzmE1y?p=3",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "カルマ",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【音門るき😈歌切】[2026-02-28]ラジオ代わりの深夜歌枠📻🎶睡眠できるかは不明👿[VrpinzvczyU]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BiAYzmE1y?p=4",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "バイオレンス",
+  "artist": "女王蜂",
+  "collection": "【音門るき😈歌切】[2026-02-28]ラジオ代わりの深夜歌枠📻🎶睡眠できるかは不明👿[VrpinzvczyU]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BiAYzmE1y?p=5",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ジェンガ",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "【音門るき😈歌切】[2026-02-28]ラジオ代わりの深夜歌枠📻🎶睡眠できるかは不明👿[VrpinzvczyU]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BiAYzmE1y?p=6",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "燈",
+  "artist": "崎山蒼志",
+  "collection": "【音門るき😈歌切】[2026-02-28]ラジオ代わりの深夜歌枠📻🎶睡眠できるかは不明👿[VrpinzvczyU]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BiAYzmE1y?p=7",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "花占い",
+  "artist": "Vaundy",
+  "collection": "【音門るき😈歌切】[2026-02-28]ラジオ代わりの深夜歌枠📻🎶睡眠できるかは不明👿[VrpinzvczyU]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BiAYzmE1y?p=8",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "初めての恋が終わる時",
+  "artist": "supercell feat. 初音ミク",
+  "collection": "【音門るき😈歌切】[2026-02-28]ラジオ代わりの深夜歌枠📻🎶睡眠できるかは不明👿[VrpinzvczyU]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BiAYzmE1y?p=9",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestars",
+  "collection": "【音門るき😈歌切】[2026-02-28]ラジオ代わりの深夜歌枠📻🎶睡眠できるかは不明👿[VrpinzvczyU]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BiAYzmE1y?p=10",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【音門るき😈歌切】[2026-02-28]ラジオ代わりの深夜歌枠📻🎶睡眠できるかは不明👿[VrpinzvczyU]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BiAYzmE1y?p=11",
   "source": "otomoneruki.js"
 }
 );
