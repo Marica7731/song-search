@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1p1zBBCEZ3
-// 生成时间: 2/28/2026, 9:11:26 PM
+// 生成时间: 2/28/2026, 10:15:54 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -17390,7 +17390,7 @@ window.SONG_DATA.push(
   "source": "yoshika.js"
 },
     {
-  "title": "メグメグ☆ファイアーエンドレスナイト",
+  "title": "メグメグ★ファイアーエンドレスナイト",
   "artist": "Samfree",
   "collection": "【耐久歌枠（49）】🍠向着梦想一起前进的10万粉丝耐久歌回🌟【YOSHIKA⁂Ch.】2025年03月05日",
   "up": "前尘往事如昔故",

@@ -1,6 +1,6 @@
 // Figaro - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1HRfuBCEXN
-// 生成时间: 2/28/2026, 9:09:10 PM
+// 生成时间: 2/28/2026, 10:14:17 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1895,7 +1895,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "猫",
-  "artist": "DISH//",
+  "artist": "DISH／／",
   "collection": "【240411 Figaro 17首 】定期歌枠#9夜间广播  猫-DISH// 怪獣の花唄- Vaundy",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uD421p7nA?p=10",
@@ -8447,7 +8447,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "猫",
-  "artist": "DISH",
+  "artist": "DISH／／",
   "collection": "【Figaro】17#195】たばこ 恋人失格 スコール 楽園 猫",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1v4m7YNEWj?p=15",
@@ -11567,7 +11567,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "猫",
-  "artist": "DISH",
+  "artist": "DISH／／",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #206 17",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XUrCYWEYb?p=5",
@@ -15743,7 +15743,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "猫",
-  "artist": "DISH//",
+  "artist": "DISH／／",
   "collection": "【睡眠導入歌枠】#220 眠れない夜に。しっとり癒しの睡眠導入歌配信｜Figaro【Vtuber / 歌枠】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1j7JAzTEH6?p=6",
@@ -19711,7 +19711,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "猫",
-  "artist": "DISH",
+  "artist": "DISH／／",
   "collection": "【Figaro】高評価1000行くまで終われません🔥耐久歌配信！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PznjzWEnt?p=3",

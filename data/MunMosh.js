@@ -1,6 +1,6 @@
 // むんもっしゅ - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1UCkhBkEon
-// 生成时间: 2/28/2026, 9:12:53 PM
+// 生成时间: 2/28/2026, 10:17:38 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8191,7 +8191,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "猫",
-  "artist": "DISH",
+  "artist": "DISH／／",
   "collection": "[2026-02-03]初見さん大歓迎✨️リクエスト曲を弾き語り🎸 [ziXV0hkYrL0]【 むんもっしゅ 弾き語り】🌙🎀",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WrFFzsERn?p=11",

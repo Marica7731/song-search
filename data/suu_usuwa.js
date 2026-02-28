@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1ve411z7Nm
-// 生成时间: 2/28/2026, 9:09:57 PM
+// 生成时间: 2/28/2026, 10:14:58 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1511,7 +1511,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "猫",
-  "artist": "DISH",
+  "artist": "DISH／／",
   "collection": "[2024-02-22] 【 稀羽すう 12首】猫の日🐈 猫 / DISH//",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18Z42117tX?p=1",
@@ -6959,7 +6959,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "猫",
-  "artist": "DISH//",
+  "artist": "DISH／／",
   "collection": "【 稀羽すう 】9】标题为什么是猫雷🐱⚡❕",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aAtReqERy?p=6",
@@ -11607,7 +11607,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "猫",
-  "artist": "DISH//",
+  "artist": "DISH／／",
   "collection": "【 稀羽すう / Re:AcT 】 失恋歌曲专场歌枠✦源视频：失恋ソングしばり歌枠✦【 歌枠 / KARAOKE 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JSQKYsEQr?p=2",
@@ -19630,7 +19630,7 @@ window.SONG_DATA.push(
   "source": "suu_usuwa.js"
 },
     {
-  "title": "ルカルカ☆ナイトフィーバー",
+  "title": "ルカルカ★ナイトフィーバー",
   "artist": "samfree",
   "collection": "【🦢稀羽すう歌切】3週間ぶりに歌うけどどうする？[2026-02-27]",
   "up": "前尘往事如昔故",

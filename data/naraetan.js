@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1G6fLB7Efr
-// 生成时间: 2/28/2026, 9:08:34 PM
+// 生成时间: 2/28/2026, 10:14:02 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -751,7 +751,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "猫",
-  "artist": "DISH",
+  "artist": "DISH／／",
   "collection": "[2025-12-06]土曜日の深夜歌枠💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
   "up": "Go[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1V8ZABkEtf?p=11",
@@ -4622,7 +4622,7 @@ window.SONG_DATA.push(
   "source": "naraetan.js"
 },
     {
-  "title": "２人",
+  "title": "2人",
   "artist": "ともさかりえ",
   "collection": "【なれたん歌切🌷】[2026-02-28]土曜日の深夜歌枠🍊[gwKYOXeCfR0]",
   "up": "前尘往事如昔故",
@@ -4646,11 +4646,19 @@ window.SONG_DATA.push(
   "source": "naraetan.js"
 },
     {
+  "title": "永遠の花",
+  "artist": "石田燿子(续)",
+  "collection": "【なれたん歌切🌷】[2026-02-28]土曜日の深夜歌枠🍊[gwKYOXeCfR0]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=4",
+  "source": "naraetan.js"
+},
+    {
   "title": "lulu.",
   "artist": "Mrs. GREEN APPLE",
   "collection": "【なれたん歌切🌷】[2026-02-28]土曜日の深夜歌枠🍊[gwKYOXeCfR0]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=4",
+  "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=5",
   "source": "naraetan.js"
 },
     {
@@ -4658,7 +4666,7 @@ window.SONG_DATA.push(
   "artist": "Yerin Baek",
   "collection": "【なれたん歌切🌷】[2026-02-28]土曜日の深夜歌枠🍊[gwKYOXeCfR0]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=5",
+  "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=6",
   "source": "naraetan.js"
 },
     {
@@ -4666,7 +4674,7 @@ window.SONG_DATA.push(
   "artist": "Tani Yuuki",
   "collection": "【なれたん歌切🌷】[2026-02-28]土曜日の深夜歌枠🍊[gwKYOXeCfR0]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=6",
+  "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=7",
   "source": "naraetan.js"
 },
     {
@@ -4674,7 +4682,7 @@ window.SONG_DATA.push(
   "artist": "Superfly",
   "collection": "【なれたん歌切🌷】[2026-02-28]土曜日の深夜歌枠🍊[gwKYOXeCfR0]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=7",
+  "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=8",
   "source": "naraetan.js"
 },
     {
@@ -4682,7 +4690,7 @@ window.SONG_DATA.push(
   "artist": "ReoNa",
   "collection": "【なれたん歌切🌷】[2026-02-28]土曜日の深夜歌枠🍊[gwKYOXeCfR0]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=8",
+  "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=9",
   "source": "naraetan.js"
 },
     {
@@ -4690,7 +4698,7 @@ window.SONG_DATA.push(
   "artist": "徳永英明",
   "collection": "【なれたん歌切🌷】[2026-02-28]土曜日の深夜歌枠🍊[gwKYOXeCfR0]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=9",
+  "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=10",
   "source": "naraetan.js"
 },
     {
@@ -4698,7 +4706,7 @@ window.SONG_DATA.push(
   "artist": "YeLLOW Generation",
   "collection": "【なれたん歌切🌷】[2026-02-28]土曜日の深夜歌枠🍊[gwKYOXeCfR0]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=10",
+  "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=11",
   "source": "naraetan.js"
 },
     {
@@ -4706,7 +4714,7 @@ window.SONG_DATA.push(
   "artist": "Janne Da Arc",
   "collection": "【なれたん歌切🌷】[2026-02-28]土曜日の深夜歌枠🍊[gwKYOXeCfR0]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=11",
+  "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=12",
   "source": "naraetan.js"
 },
     {
@@ -4714,7 +4722,7 @@ window.SONG_DATA.push(
   "artist": "EasyPop",
   "collection": "【なれたん歌切🌷】[2026-02-28]土曜日の深夜歌枠🍊[gwKYOXeCfR0]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=12",
+  "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=13",
   "source": "naraetan.js"
 },
     {
@@ -4722,7 +4730,7 @@ window.SONG_DATA.push(
   "artist": "Janne Da Arc",
   "collection": "【なれたん歌切🌷】[2026-02-28]土曜日の深夜歌枠🍊[gwKYOXeCfR0]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=13",
+  "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=14",
   "source": "naraetan.js"
 },
     {
@@ -4730,20 +4738,12 @@ window.SONG_DATA.push(
   "artist": "茅原実里",
   "collection": "【なれたん歌切🌷】[2026-02-28]土曜日の深夜歌枠🍊[gwKYOXeCfR0]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=14",
+  "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=15",
   "source": "naraetan.js"
 },
     {
   "title": "ルンに花咲く恋もある",
   "artist": "ワルキューレ",
-  "collection": "【なれたん歌切🌷】[2026-02-28]土曜日の深夜歌枠🍊[gwKYOXeCfR0]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=15",
-  "source": "naraetan.js"
-},
-    {
-  "title": "【#歌枠 #KARAOKE】土曜日の深夜歌枠Saturday late-night singing stream【Vsinger⧸なれた",
-  "artist": "来源处未提供标准格式歌手",
   "collection": "【なれたん歌切🌷】[2026-02-28]土曜日の深夜歌枠🍊[gwKYOXeCfR0]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=16",
