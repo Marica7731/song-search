@@ -106,7 +106,7 @@
         }
         .search-field-bar {
             display: flex;
-            gap: 20px;
+            gap: 10px;
             flex-wrap: wrap;
             padding: 15px 20px;
             background: white;
@@ -578,6 +578,14 @@
         const fileNames = [];
         let FILE_TO_ALIAS = {};
 
+        // 加载配置常量
+        const LOAD_CONFIG = {
+            MAX_RETRIES: 3,          // 最大重试次数
+            RETRY_DELAY_BASE: 1000,  // 基础重试延迟(ms)，使用指数退避
+            TIMEOUT: 10000,          // 单个文件加载超时时间(ms)
+            CONCURRENT_LIMIT: 8      // 最大并发加载数，避免浏览器请求阻塞
+        };
+
         function showCopyToast() {
             const toast = document.getElementById('copy-toast');
             toast.classList.add('show');
@@ -860,46 +868,182 @@
             return checkCondition(condition);
         }
 
-        function loadScriptsParallel(fileList) {
+        /**
+         * 带重试和超时的单个脚本加载函数
+         * @param {string} fileName - 文件名
+         * @param {number} retryCount - 当前重试次数
+         * @returns {Promise} 加载结果
+         */
+        async function loadScriptWithRetry(fileName, retryCount = 0) {
+            return new Promise((resolve, reject) => {
+                // 创建AbortController用于超时控制
+                const controller = new AbortController();
+                const signal = controller.signal;
+                
+                // 设置超时
+                const timeoutId = setTimeout(() => {
+                    controller.abort();
+                    reject(new Error(`加载超时: ${fileName}`));
+                }, LOAD_CONFIG.TIMEOUT);
+
+                const script = document.createElement('script');
+                script.src = `data/${fileName}`;
+                script.async = true; // 确保异步加载
+                script.defer = true; // 延迟执行，提升加载性能
+                
+                // 加载成功处理
+                script.onload = () => {
+                    clearTimeout(timeoutId);
+                    const currentTotalLength = window.SONG_DATA.length;
+                    const lastOriginalLength = originalData.length;
+                    const newDataCount = currentTotalLength - lastOriginalLength;
+                    
+                    if (newDataCount > 0) {
+                        const newData = window.SONG_DATA.slice(-newDataCount);
+                        newData.forEach(item => {
+                            item.source = fileName;
+                        });
+                        originalData = [...window.SONG_DATA];
+                    }
+                    
+                    resolve({ fileName, success: true });
+                };
+                
+                // 加载失败处理
+                script.onerror = (error) => {
+                    clearTimeout(timeoutId);
+                    const errorMsg = `加载失败: ${fileName} (重试${retryCount}/${LOAD_CONFIG.MAX_RETRIES})`;
+                    
+                    // 达到最大重试次数，拒绝Promise
+                    if (retryCount >= LOAD_CONFIG.MAX_RETRIES) {
+                        console.error(`❌ ${errorMsg} - 已达最大重试次数`);
+                        reject(new Error(errorMsg));
+                        return;
+                    }
+                    
+                    // 计算指数退避延迟：base * 2^retryCount
+                    const delay = LOAD_CONFIG.RETRY_DELAY_BASE * Math.pow(2, retryCount);
+                    console.warn(`⚠️ ${errorMsg} - ${delay}ms后重试`);
+                    
+                    // 延迟后重试
+                    setTimeout(() => {
+                        loadScriptWithRetry(fileName, retryCount + 1)
+                            .then(resolve)
+                            .catch(reject);
+                    }, delay);
+                };
+                
+                // 中止信号处理
+                signal.addEventListener('abort', () => {
+                    reject(new Error(`加载中止(超时): ${fileName}`));
+                });
+                
+                // 添加到文档并加载
+                document.body.appendChild(script);
+                
+                // 清理函数
+                script.onload = script.onerror = null;
+            });
+        }
+
+        /**
+         * 带并发控制的批量脚本加载函数
+         * @param {string[]} fileList - 文件列表
+         * @returns {Promise} 所有文件加载结果
+         */
+        async function loadScriptsWithConcurrency(fileList) {
             const progressMsg = document.getElementById('progress-msg');
             let loadedCount = 0;
+            let successCount = 0;
+            let failCount = 0;
             const totalFiles = fileList.length;
+            
+            // 更新进度信息
+            const updateProgress = () => {
+                let statusText = `📥 正在并行加载歌库（${loadedCount}/${totalFiles}个文件）`;
+                if (failCount > 0) {
+                    statusText += `，失败${failCount}个（自动重试中）`;
+                }
+                statusText += '...';
+                progressMsg.textContent = statusText;
+            };
 
-            const promises = fileList.map(fileName => {
-                return new Promise((resolve) => {
-                    const script = document.createElement('script');
-                    script.src = `data/${fileName}`;
+            // 并发执行器
+            const executeInBatches = async () => {
+                const results = [];
+                const queue = [...fileList];
+                
+                // 启动初始并发任务
+                const initialBatch = queue.splice(0, LOAD_CONFIG.CONCURRENT_LIMIT);
+                let promises = initialBatch.map(file => 
+                    loadScriptWithRetry(file)
+                        .then(result => {
+                            loadedCount++;
+                            successCount++;
+                            updateProgress();
+                            return result;
+                        })
+                        .catch(error => {
+                            loadedCount++;
+                            failCount++;
+                            updateProgress();
+                            return { fileName: error.message.match(/: (.+)$/)[1], success: false, error: error.message };
+                        })
+                );
+                
+                // 持续处理队列，保持并发数
+                while (queue.length > 0) {
+                    // 等待一个任务完成
+                    const [finished] = await Promise.race(promises.map(p => p.then(r => [r])));
+                    results.push(finished);
                     
-                    script.onload = () => {
-                        const currentTotalLength = window.SONG_DATA.length;
-                        const lastOriginalLength = originalData.length;
-                        const newDataCount = currentTotalLength - lastOriginalLength;
-                        
-                        if (newDataCount > 0) {
-                            const newData = window.SONG_DATA.slice(-newDataCount);
-                            newData.forEach(item => {
-                                item.source = fileName;
+                    // 移除已完成的promise
+                    promises = promises.filter(p => !p.isResolved);
+                    
+                    // 添加新任务
+                    if (queue.length > 0) {
+                        const nextFile = queue.shift();
+                        const newPromise = loadScriptWithRetry(nextFile)
+                            .then(result => {
+                                loadedCount++;
+                                successCount++;
+                                updateProgress();
+                                return result;
+                            })
+                            .catch(error => {
+                                loadedCount++;
+                                failCount++;
+                                updateProgress();
+                                return { fileName: error.message.match(/: (.+)$/)[1], success: false, error: error.message };
                             });
-                            originalData = [...window.SONG_DATA];
-                        }
+                        // 标记promise状态
+                        newPromise.isResolved = false;
+                        newPromise.then(() => { newPromise.isResolved = true; });
+                        promises.push(newPromise);
+                    }
+                }
+                
+                // 等待剩余任务完成
+                const remainingResults = await Promise.all(promises);
+                results.push(...remainingResults);
+                
+                return results;
+            };
 
-                        loadedCount++;
-                        progressMsg.textContent = `📥 正在并行加载歌库（${loadedCount}/${totalFiles}个文件）...`;
-                        resolve();
-                    };
-                    
-                    script.onerror = () => {
-                        console.error(`❌ 加载失败：${fileName}`);
-                        loadedCount++;
-                        progressMsg.textContent = `📥 正在并行加载歌库（${loadedCount}/${totalFiles}个文件，部分失败）...`;
-                        resolve();
-                    };
-                    
-                    document.body.appendChild(script);
-                });
-            });
-
-            return Promise.all(promises);
+            // 执行加载
+            const results = await executeInBatches();
+            
+            // 输出加载统计
+            console.log(`📊 加载完成统计: 成功${successCount}/${totalFiles}, 失败${failCount}`);
+            
+            // 报告最终状态
+            if (failCount > 0) {
+                progressMsg.textContent = `⚠️ 歌库加载完成（成功${successCount}/${totalFiles}，失败${failCount}个文件），总歌曲数：${originalData.length}`;
+            } else {
+                progressMsg.textContent = `✅ 歌库加载完成，总歌曲数：${originalData.length}`;
+            }
+            
+            return results;
         }
 
         function generateFilterButtons() {
@@ -1262,9 +1406,9 @@
                 const progressMsg = document.getElementById('progress-msg');
                 progressMsg.textContent = `📥 正在并行加载 ${fileNames.length} 个歌库文件...`;
 
-                await loadScriptsParallel(fileNames);
+                // 使用优化后的加载函数
+                await loadScriptsWithConcurrency(fileNames);
 
-                progressMsg.textContent = `✅ 歌库加载完成，总歌曲数：${originalData.length}`;
                 filteredBySource = [...originalData];
                 filteredBySearch = [...originalData];
 
