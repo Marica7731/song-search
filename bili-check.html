@@ -453,32 +453,46 @@
             }
         }
 
-        // ================= 获取B站分P数据 =================
-        async function getBiliParts(bvid) {
-            try {
-                const apiUrl = `https://api.bilibili.com/x/player/pagelist?bvid=${bvid}&jsonp=jsonp`;
-                const res = await fetch(apiUrl);
-                const data = await res.json();
-                
-                if (!data.data || !Array.isArray(data.data)) {
-                    throw new Error('API返回数据格式错误');
-                }
+        // ================= 获取B站分P数据（修复版，不跨域） =================
+async function getBiliParts(bvid) {
+  try {
+    // 用 B 站公开、不跨域、不鉴权的 oEmbed 接口
+    const oembedUrl = `https://embed.bilibili.com/player?bvid=${bvid}&as_wide=1`;
+    const res = await fetch(oembedUrl);
+    if (!res.ok) throw new Error("请求失败");
 
-                // 提取并清洗标题
-                const rawTitles = data.data.map(item => item.part.trim()).filter(Boolean);
-                const cleanedTitles = rawTitles.map(title => cleanBiliTitle(title)).filter(Boolean);
+    const html = await res.text();
 
-                return {
-                    bvid: bvid,
-                    totalParts: cleanedTitles.length,
-                    rawTitles: rawTitles,
-                    cleanedTitles: cleanedTitles
-                };
-            } catch (err) {
-                console.error('API获取失败：', err);
-                throw new Error('无法获取B站分P数据，请检查BV号是否有效');
-            }
-        }
+    // 从页面里提取分页数据（稳定、不跨域）
+    const pageListMatch = html.match(/"pagelist"\s*:\s*(\[.+?\])/);
+    if (!pageListMatch || !pageListMatch[1]) {
+      throw new Error("未找到分P数据");
+    }
+
+    const pagelist = JSON.parse(pageListMatch[1]);
+    if (!Array.isArray(pagelist) || pagelist.length === 0) {
+      throw new Error("该视频没有分P");
+    }
+
+    const rawTitles = pagelist
+      .map(item => (item.part || "").trim())
+      .filter(Boolean);
+
+    const cleanedTitles = rawTitles
+      .map(title => cleanBiliTitle(title))
+      .filter(Boolean);
+
+    return {
+      bvid: bvid,
+      totalParts: cleanedTitles.length,
+      rawTitles: rawTitles,
+      cleanedTitles: cleanedTitles
+    };
+  } catch (err) {
+    console.error("获取分P失败", err);
+    throw new Error("无法获取B站分P数据，请检查BV号是否有效");
+  }
+}
 
         // ================= 核心查重逻辑（适配筛选） =================
         async function checkDuplicate(bvid) {
