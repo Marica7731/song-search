@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1G6fLB7Efr
-// 生成时间: 2/28/2026, 12:26:11 PM
+// 生成时间: 2/28/2026, 1:31:25 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4606,11 +4606,19 @@ window.SONG_DATA.push(
   "source": "naraetan.js"
 },
     {
+  "title": "Shining Tears",
+  "artist": "保志総一朗",
+  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=19",
+  "source": "naraetan.js"
+},
+    {
   "title": "TESTAMENT",
   "artist": "水樹奈々",
   "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=19",
+  "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=20",
   "source": "naraetan.js"
 }
 );

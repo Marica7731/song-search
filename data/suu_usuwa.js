@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1ve411z7Nm
-// 生成时间: 2/28/2026, 12:27:39 PM
+// 生成时间: 2/28/2026, 1:32:55 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -19667,6 +19667,126 @@ window.SONG_DATA.push(
   "collection": "【🦢稀羽すう歌切】3週間ぶりに歌うけどどうする？[2026-02-27]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pkAXzLEcg?p=14",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🦢稀羽すう歌切】 お昼にまったりしませんか？[i7OjULSNQq0]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gbAazeE1g?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "君の記憶",
+  "artist": "川村ゆみ",
+  "collection": "【🦢稀羽すう歌切】 お昼にまったりしませんか？[i7OjULSNQq0]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gbAazeE1g?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "3月9日",
+  "artist": "レミオロメン",
+  "collection": "【🦢稀羽すう歌切】 お昼にまったりしませんか？[i7OjULSNQq0]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gbAazeE1g?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "すずめ feat.十明",
+  "artist": "RADWIMPS",
+  "collection": "【🦢稀羽すう歌切】 お昼にまったりしませんか？[i7OjULSNQq0]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gbAazeE1g?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【🦢稀羽すう歌切】 お昼にまったりしませんか？[i7OjULSNQq0]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gbAazeE1g?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "アポリア",
+  "artist": "ヨルシカ",
+  "collection": "【🦢稀羽すう歌切】 お昼にまったりしませんか？[i7OjULSNQq0]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gbAazeE1g?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "きらきら武士",
+  "artist": "レキシ",
+  "collection": "【🦢稀羽すう歌切】 お昼にまったりしませんか？[i7OjULSNQq0]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gbAazeE1g?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO#27",
+  "collection": "【🦢稀羽すう歌切】 お昼にまったりしませんか？[i7OjULSNQq0]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gbAazeE1g?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "右肩の蝶",
+  "artist": "のりP",
+  "collection": "【🦢稀羽すう歌切】 お昼にまったりしませんか？[i7OjULSNQq0]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gbAazeE1g?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "弱虫モンブラン",
+  "artist": "DECO#27",
+  "collection": "【🦢稀羽すう歌切】 お昼にまったりしませんか？[i7OjULSNQq0]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gbAazeE1g?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Beyond the way",
+  "artist": "Gig",
+  "collection": "【🦢稀羽すう歌切】 お昼にまったりしませんか？[i7OjULSNQq0]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gbAazeE1g?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【🦢稀羽すう歌切】 お昼にまったりしませんか？[i7OjULSNQq0]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gbAazeE1g?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "サラマンダー",
+  "artist": "DECO#27",
+  "collection": "【🦢稀羽すう歌切】 お昼にまったりしませんか？[i7OjULSNQq0]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gbAazeE1g?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "アンパンマンのマーチ",
+  "artist": "ドリーミング",
+  "collection": "【🦢稀羽すう歌切】 お昼にまったりしませんか？[i7OjULSNQq0]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gbAazeE1g?p=14",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "おどるポンポコリン",
+  "artist": "B.B.クイーンズ",
+  "collection": "【🦢稀羽すう歌切】 お昼にまったりしませんか？[i7OjULSNQq0]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gbAazeE1g?p=15",
   "source": "suu_usuwa.js"
 }
 );

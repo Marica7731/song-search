@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1zzZPBsEum
-// 生成时间: 2/28/2026, 12:29:26 PM
+// 生成时间: 2/28/2026, 1:34:55 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3691,6 +3691,46 @@ window.SONG_DATA.push(
   "collection": "【音門るき😈歌切】代替广播的傍晚歌枠📻🎶下班回家时的陪伴请享用[2026-02-24][mArEZMlGx1Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12YfUBcETn?p=14",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "I",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【音門るき😈歌切】[2026-02-28]接力-愛が伝わる歌枠を[CGEcI9_4IdU]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TeAazcERq?p=1",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "瞬き",
+  "artist": "back number",
+  "collection": "【音門るき😈歌切】[2026-02-28]接力-愛が伝わる歌枠を[CGEcI9_4IdU]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TeAazcERq?p=2",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ぎゅっと。",
+  "artist": "もさを。",
+  "collection": "【音門るき😈歌切】[2026-02-28]接力-愛が伝わる歌枠を[CGEcI9_4IdU]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TeAazcERq?p=3",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "Anytime Anywhere",
+  "artist": "Milet",
+  "collection": "【音門るき😈歌切】[2026-02-28]接力-愛が伝わる歌枠を[CGEcI9_4IdU]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TeAazcERq?p=4",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【音門るき😈歌切】[2026-02-28]接力-愛が伝わる歌枠を[CGEcI9_4IdU]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TeAazcERq?p=5",
   "source": "otomoneruki.js"
 }
 );
