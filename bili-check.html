@@ -108,6 +108,30 @@
             cursor: not-allowed;
         }
         
+        /* 高级筛选选项 */
+        .advanced-filter {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 1px solid #f1f3f5;
+        }
+        .filter-option {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .filter-option label {
+            font-size: 14px;
+            color: #495057;
+        }
+        .filter-option input {
+            width: 16px;
+            height: 16px;
+            cursor: pointer;
+        }
+        
         /* 结果样式 */
         .progress-msg, .error-msg, .empty-msg {
             text-align: center;
@@ -263,6 +287,22 @@
             <input type="text" id="keyword-input" placeholder="输入分P标题关键词/BV号（留空分析全部歌库）" maxlength="50">
             <button id="analyze-btn">🚀 开始分析</button>
         </div>
+        
+        <!-- 高级筛选选项 -->
+        <div class="advanced-filter">
+            <div class="filter-option">
+                <input type="checkbox" id="full-analysis" checked>
+                <label for="full-analysis">全库重复检测（跨BV号/来源）</label>
+            </div>
+            <div class="filter-option">
+                <input type="checkbox" id="case-sensitive">
+                <label for="case-sensitive">标题大小写敏感</label>
+            </div>
+            <div class="filter-option">
+                <input type="checkbox" id="include-artist">
+                <label for="include-artist">结合歌手名检测重复</label>
+            </div>
+        </div>
     </div>
 
     <div class="progress-msg" id="progress-msg">请输入关键词/BV号或留空分析全部歌库</div>
@@ -317,19 +357,22 @@
         let FILE_TO_ALIAS = {};      // 文件别名映射
 
         // ================= 核心工具函数 =================
-        function normalizeString(str) {
+        function normalizeString(str, caseSensitive = false) {
             if (!str) return '';
             let s = str.trim();
+            // 全角转半角
             s = s.replace(/[\uFF01-\uFF5E]/g, function(ch) {
                 return String.fromCharCode(ch.charCodeAt(0) - 0xFEE0);
             });
+            // 特殊符号统一
             s = s.replace(/\u3000/g, ' ');
             s = s.replace(/[～〜˜]/g, '~');
             s = s.replace(/[—–―]/g, '-');
             s = s.replace(/[“”]/g, '"').replace(/[‘’]/g, "'");
             s = s.replace(/…/g, '...');
             s = s.replace(/\s+/g, ' ');
-            return s.toLowerCase();
+            // 大小写处理
+            return caseSensitive ? s : s.toLowerCase();
         }
 
         // 精准提取BV号（不管有没有?p=xx后缀）
@@ -427,7 +470,7 @@
             document.getElementById('progress-msg').textContent = `✅ 筛选完成（${filteredSongs.length} 首），请输入关键词或留空分析全部`;
         }
 
-        // ================= 修复核心：歌库加载逻辑 =================
+        // ================= 修复核心：异步加载歌库数据 =================
         async function loadSiteSongs() {
             try {
                 const progressMsg = document.getElementById('progress-msg');
@@ -439,18 +482,15 @@
                 const indexData = await indexRes.json();
                 FILE_TO_ALIAS = indexData.fileToAlias || {};
 
-                // 2. 重构：适配动态构建SONG_DATA的加载逻辑
+                // 2. 异步加载单个文件（修复push报错问题）
                 const loadSingleFile = async (fileName) => {
                     try {
                         const res = await fetch(`data/${fileName}`);
                         if (!res.ok) throw new Error(`HTTP错误 ${res.status}`);
                         const jsContent = await res.text();
 
-                        // 关键修复：创建完整的模拟环境，先初始化SONG_DATA再执行代码
-                        const fakeWindow = {};
-                        // 第一步：先初始化空数组
-                        fakeWindow.SONG_DATA = [];
-                        // 第二步：执行JS文件内容（此时SONG_DATA已存在，push不会报错）
+                        // 关键修复：先初始化SONG_DATA再执行代码
+                        const fakeWindow = { SONG_DATA: [] };
                         try {
                             // 使用Function构造器执行，避免eval的作用域问题
                             const executeCode = new Function('window', jsContent);
@@ -466,7 +506,7 @@
 
                         // 验证加载结果
                         const loadedSongs = Array.isArray(fakeWindow.SONG_DATA) ? fakeWindow.SONG_DATA : [];
-                        console.log(`✅ 加载${fileName}成功：${loadedSongs.length} 首`, loadedSongs.slice(0, 2));
+                        console.log(`✅ 加载${fileName}成功：${loadedSongs.length} 首`);
 
                         // 给每首歌添加source字段和提取BV号
                         loadedSongs.forEach(item => {
@@ -481,18 +521,15 @@
                     }
                 };
 
-                // 3. 串行加载（避免并行加载导致的内存问题）
-                const allLoadedSongs = [];
-                for (const fileName of indexData.files) {
-                    const songs = await loadSingleFile(fileName);
-                    allLoadedSongs.push(...songs);
-                }
-
+                // 3. 异步并行加载（恢复主文件的加载速度）
+                const filePromises = indexData.files.map(fileName => loadSingleFile(fileName));
+                const songArrays = await Promise.all(filePromises);
+                
                 // 4. 合并所有歌曲
-                allSiteSongs = allLoadedSongs;
+                allSiteSongs = songArrays.flat();
                 filteredSongs = [...allSiteSongs]; // 初始筛选为全部
 
-                console.log(`✅ 所有歌库加载完成：共 ${allSiteSongs.length} 首`, allSiteSongs.slice(0, 2));
+                console.log(`✅ 所有歌库加载完成：共 ${allSiteSongs.length} 首`);
 
                 // 5. 生成筛选按钮
                 generateFilterButtons(indexData.files);
@@ -508,44 +545,60 @@
             }
         }
 
-        // ================= 核心：重复分析逻辑 =================
+        // ================= 核心：修复重复分析逻辑 =================
         function analyzeDuplicateSongs(keyword) {
-            // 1. 先根据关键词筛选要分析的歌曲
-            let songsToAnalyze = [...filteredSongs];
+            // 获取高级筛选选项
+            const fullAnalysis = document.getElementById('full-analysis').checked;
+            const caseSensitive = document.getElementById('case-sensitive').checked;
+            const includeArtist = document.getElementById('include-artist').checked;
+
+            // 1. 第一步：筛选基础数据集
+            let baseSongs = [...filteredSongs]; // 基础数据集（来源筛选后的全部歌曲）
+            let targetSongs = [...filteredSongs]; // 要展示的目标歌曲
             
             if (keyword && keyword.trim()) {
                 const inputStr = keyword.trim();
-                const isBvidInput = inputStr.startsWith('BV'); // 判断是否输入的是BV号
-                const normKeyword = normalizeString(inputStr);
+                const isBvidInput = inputStr.startsWith('BV');
+                const normKeyword = normalizeString(inputStr, caseSensitive);
                 
-                // 精准匹配BV号 或 模糊匹配标题
-                songsToAnalyze = filteredSongs.filter(song => {
+                // 筛选目标歌曲（用户搜索的内容）
+                targetSongs = filteredSongs.filter(song => {
                     if (isBvidInput) {
-                        // 输入的是BV号：精准匹配歌库中的BV号
                         return isBvidMatch(inputStr, song.bvid);
                     } else {
-                        // 输入的是关键词：模糊匹配标题
-                        const normTitle = normalizeString(song.title || '');
+                        const normTitle = normalizeString(song.title || '', caseSensitive);
                         return normTitle.includes(normKeyword);
                     }
                 });
+
+                // 如果开启全库重复检测，基础数据集还是全部筛选后的歌曲
+                // 否则基础数据集只包含目标歌曲（原逻辑）
+                if (!fullAnalysis) {
+                    baseSongs = [...targetSongs];
+                }
             }
 
-            console.log(`🔍 筛选后要分析的歌曲：${songsToAnalyze.length} 首`, songsToAnalyze);
+            console.log(`🔍 筛选结果 - 基础数据集：${baseSongs.length} 首 | 目标展示：${targetSongs.length} 首`);
 
-            if (songsToAnalyze.length === 0) {
+            if (targetSongs.length === 0) {
                 throw new Error(`未找到匹配「${keyword.trim() || '全部歌库'}」的歌曲数据`);
             }
 
-            // 2. 构建歌曲重复统计映射（标题 -> 出现次数/来源/详情）
+            // 2. 构建全库重复统计映射（标题 -> 所有匹配的歌曲）
             const songStats = {};
             
-            // 统计每首歌的出现情况
-            songsToAnalyze.forEach(song => {
-                const normTitle = normalizeString(song.title || '未知歌曲');
-                if (!songStats[normTitle]) {
-                    songStats[normTitle] = {
+            // 遍历基础数据集，统计所有歌曲的重复情况
+            baseSongs.forEach(song => {
+                // 生成唯一标识：可选择是否结合歌手名
+                let songKey = normalizeString(song.title || '未知歌曲', caseSensitive);
+                if (includeArtist) {
+                    songKey += '|' + normalizeString(song.artist || '未知歌手', caseSensitive);
+                }
+
+                if (!songStats[songKey]) {
+                    songStats[songKey] = {
                         originalTitle: song.title || '未知歌曲',
+                        originalArtist: song.artist || '未知歌手',
                         count: 0,                  // 总出现次数
                         duplicateTimes: 0,         // 重复次数（count-1）
                         duplicateSessions: 0,      // 重复场次（不同来源数-1）
@@ -555,35 +608,47 @@
                     };
                 }
                 
-                songStats[normTitle].count++;
-                songStats[normTitle].sources.add(song.source || '未知');
-                songStats[normTitle].bvids.add(song.bvid || '未知');
-                songStats[normTitle].songs.push(song);
+                songStats[songKey].count++;
+                songStats[songKey].sources.add(song.source || '未知');
+                songStats[songKey].bvids.add(song.bvid || '未知');
+                songStats[songKey].songs.push(song);
             });
 
-            // 计算重复次数和场次（首次出现不算重复）
+            // 计算重复次数和场次
             Object.keys(songStats).forEach(key => {
                 const stats = songStats[key];
-                stats.duplicateTimes = Math.max(0, stats.count - 1);       // 重复次数 = 总次数-1
-                stats.duplicateSessions = Math.max(0, stats.sources.size - 1); // 重复场次 = 来源数-1
+                stats.duplicateTimes = Math.max(0, stats.count - 1);
+                stats.duplicateSessions = Math.max(0, stats.sources.size - 1);
                 stats.sources = Array.from(stats.sources);
                 stats.bvids = Array.from(stats.bvids);
             });
 
-            // 3. 整理分析结果
-            const allSongsList = Object.values(songStats);
-            const uniqueSongs = allSongsList.filter(stats => stats.count === 1); // 仅出现1次 = 未重复
-            const duplicateSongs = allSongsList.filter(stats => stats.count > 1); // 出现≥2次 = 重复
+            // 3. 筛选出目标歌曲对应的统计结果
+            const targetSongKeys = new Set();
+            targetSongs.forEach(song => {
+                let songKey = normalizeString(song.title || '未知歌曲', caseSensitive);
+                if (includeArtist) {
+                    songKey += '|' + normalizeString(song.artist || '未知歌手', caseSensitive);
+                }
+                targetSongKeys.add(songKey);
+            });
 
-            // 4. 计算统计数据
-            const totalSongs = songsToAnalyze.length;
+            // 提取目标歌曲的统计数据
+            const targetStats = Array.from(targetSongKeys).map(key => songStats[key]);
+            
+            // 4. 分类未重复/重复歌曲
+            const uniqueSongs = targetStats.filter(stats => stats.count === 1);
+            const duplicateSongs = targetStats.filter(stats => stats.count > 1);
+
+            // 5. 计算统计数据
+            const totalSongs = targetSongs.length;
             const uniqueCount = uniqueSongs.length;
             const duplicateCount = duplicateSongs.length;
-            const duplicateRate = totalSongs > 0 ? (duplicateCount / allSongsList.length * 100).toFixed(2) : 0;
+            const duplicateRate = targetStats.length > 0 ? (duplicateCount / targetStats.length * 100).toFixed(2) : 0;
 
             return {
-                songsToAnalyze: songsToAnalyze,
-                allSongs: allSongsList,
+                songsToAnalyze: targetSongs,
+                allSongs: targetStats,
                 uniqueSongs: uniqueSongs,
                 duplicateSongs: duplicateSongs,
                 stats: {
@@ -685,6 +750,7 @@
                                         <div>👤 歌手：${song.artist || '未知'}</div>
                                         <div>📁 合集：${song.collection || '未知'}</div>
                                         <div>🔗 <a href="${song.link}" target="_blank" style="color:#00a1d6;">直达B站</a></div>
+                                        <div>📺 BV号：${song.bvid || '未知'}</div>
                                     </div>
                                 `).join('')}
                             </div>
@@ -702,6 +768,7 @@
                         ${idx+1}. ${item.originalTitle} ${titleTag}
                     </div>
                     <div class="item-meta">
+                        <div>👤 歌手：${item.originalArtist || '未知'}</div>
                         <div>📁 来源：${sourceTags || '未知'}</div>
                         <div>📺 BV号：${bvidTags || '未知'}</div>
                         ${matchedHtml}
@@ -745,6 +812,7 @@
                         ${idx+1}. ${item.originalTitle} <span class="unique-tag">未重复</span>
                     </div>
                     <div class="item-meta">
+                        <div>👤 歌手：${item.originalArtist || '未知'}</div>
                         <div>📁 来源：${sourceTags || '未知'}</div>
                         <div>📺 BV号：${bvidTags || '未知'}</div>
                         <div style="color: #28a745; margin-top: 8px;">✅ 仅出现1次（无重复）</div>
@@ -788,6 +856,7 @@
                         ${idx+1}. ${item.originalTitle} <span class="duplicate-tag">重复${item.duplicateTimes}次</span>
                     </div>
                     <div class="item-meta">
+                        <div>👤 歌手：${item.originalArtist || '未知'}</div>
                         <div>📊 统计：共出现 ${item.count} 次 | 跨 ${item.sources.length} 个来源 | 重复 ${item.duplicateSessions} 场次</div>
                         <div>📁 来源：${sourceTags || '未知'}</div>
                         <div>📺 BV号：${bvidTags || '未知'}</div>
@@ -798,6 +867,7 @@
                                     <div>👤 歌手：${song.artist || '未知'}</div>
                                     <div>📁 合集：${song.collection || '未知'}</div>
                                     <div>🔗 <a href="${song.link}" target="_blank" style="color:#00a1d6;">直达B站</a></div>
+                                    <div>📺 BV号：${song.bvid || '未知'}</div>
                                 </div>
                             `).join('')}
                         </div>
