@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BV号查重 - 歌曲查询站</title>
+    <title>歌曲重复分析 - 歌曲查询站</title>
     <style>
         /* 复用主页面全局样式 */
         * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -65,8 +65,8 @@
             box-shadow: 0 4px 12px rgba(108, 117, 125, 0.3);
         }
         
-        /* 查重表单样式 */
-        .check-container {
+        /* 分析表单样式 */
+        .analysis-container {
             background: white;
             border-radius: 12px;
             padding: 25px;
@@ -92,7 +92,7 @@
             border-color: #00a1d6;
             box-shadow: 0 0 0 4px rgba(0, 161, 214, 0.1);
         }
-        #check-btn {
+        #analyze-btn {
             padding: 0 32px;
             background: linear-gradient(135deg, #00a1d6 0%, #00c6ff 100%);
             color: white;
@@ -103,7 +103,7 @@
             cursor: pointer;
             white-space: nowrap;
         }
-        #check-btn:disabled {
+        #analyze-btn:disabled {
             background: #adb5bd;
             cursor: not-allowed;
         }
@@ -142,9 +142,8 @@
             font-size: 14px;
             color: #6c757d;
         }
-        .duplicate-rate {
-            color: #dc3545 !important;
-        }
+        .duplicate-rate { color: #dc3545 !important; }
+        .unique-count { color: #28a745 !important; }
         
         /* 列表样式 */
         .result-tabs {
@@ -176,6 +175,17 @@
             border-radius: 8px;
             margin-bottom: 10px;
             box-shadow: 0 2px 4px rgba(0,0,0,0.04);
+            transition: all 0.2s;
+        }
+        /* 高亮未重复歌曲 */
+        .result-item.unique {
+            border-left: 4px solid #28a745;
+            background: linear-gradient(90deg, #f0fff4 0%, #ffffff 100%);
+        }
+        /* 重复歌曲样式 */
+        .result-item.duplicate {
+            border-left: 4px solid #dc3545;
+            background: linear-gradient(90deg, #fff5f5 0%, #ffffff 100%);
         }
         .item-title {
             font-weight: 700;
@@ -187,6 +197,34 @@
             color: #6c757d;
             line-height: 1.5;
         }
+        .duplicate-tag {
+            display: inline-block;
+            padding: 2px 8px;
+            background: #dc3545;
+            color: white;
+            border-radius: 4px;
+            font-size: 12px;
+            margin-left: 8px;
+        }
+        .unique-tag {
+            display: inline-block;
+            padding: 2px 8px;
+            background: #28a745;
+            color: white;
+            border-radius: 4px;
+            font-size: 12px;
+            margin-left: 8px;
+        }
+        .source-tag {
+            display: inline-block;
+            padding: 2px 6px;
+            background: #00a1d6;
+            color: white;
+            border-radius: 3px;
+            font-size: 11px;
+            margin-right: 6px;
+        }
+        
         .copy-toast {
             position: fixed;
             bottom: 30px;
@@ -210,24 +248,24 @@
     </style>
 </head>
 <body>
-    <h1>🔍 BV号查重工具</h1>
+    <h1>📊 歌曲重复分析工具</h1>
     <div class="sub-header">
-        输入B站BV号，自动对比歌库重复情况 | <a href="index.html" class="nav-link">返回歌曲查询</a> | <a href="stats.html" class="nav-link">演唱者统计</a>
+        分析歌库中歌曲的重复场次/次数 | <a href="index.html" class="nav-link">返回歌曲查询</a> | <a href="stats.html" class="nav-link">演唱者统计</a>
     </div>
 
-    <!-- 新增：来源筛选栏 -->
+    <!-- 来源筛选栏 -->
     <div class="filter-bar" id="filter-bar">
         <span class="filter-label">🔍 按来源筛选：</span>
     </div>
 
-    <div class="check-container">
+    <div class="analysis-container">
         <div class="form-group">
             <input type="text" id="bvid-input" placeholder="输入BV号（如 BV1aDzEBBE3S）" maxlength="20">
-            <button id="check-btn">🚀 开始查重</button>
+            <button id="analyze-btn">🚀 开始分析</button>
         </div>
     </div>
 
-    <div class="progress-msg" id="progress-msg">请输入BV号并点击查重按钮</div>
+    <div class="progress-msg" id="progress-msg">请输入BV号并点击分析按钮</div>
     <div class="error-msg" id="error-msg" style="display: none;"></div>
     
     <!-- 统计卡片（初始隐藏） -->
@@ -237,8 +275,12 @@
             <div class="stat-label">B站分P总数</div>
         </div>
         <div class="stat-item">
+            <div class="stat-value unique-count" id="unique-count">0</div>
+            <div class="stat-label">未重复歌曲数</div>
+        </div>
+        <div class="stat-item">
             <div class="stat-value" id="duplicate-count">0</div>
-            <div class="stat-label">重复分P数</div>
+            <div class="stat-label">重复歌曲数</div>
         </div>
         <div class="stat-item">
             <div class="stat-value duplicate-rate" id="duplicate-rate">0.00%</div>
@@ -252,14 +294,17 @@
 
     <!-- 结果标签页（初始隐藏） -->
     <div id="result-tabs" class="result-tabs" style="display: none;">
-        <button class="tab-btn active" data-tab="duplicate">重复的分P</button>
-        <button class="tab-btn" data-tab="non-duplicate">未重复的分P</button>
+        <button class="tab-btn active" data-tab="all">全部歌曲</button>
+        <button class="tab-btn" data-tab="unique">未重复歌曲</button>
+        <button class="tab-btn" data-tab="duplicate">重复歌曲</button>
     </div>
 
+    <!-- 全部结果列表（初始隐藏） -->
+    <ul id="all-list" class="result-list" style="display: none;"></ul>
+    <!-- 未重复结果列表（初始隐藏） -->
+    <ul id="unique-list" class="result-list" style="display: none;"></ul>
     <!-- 重复结果列表（初始隐藏） -->
     <ul id="duplicate-list" class="result-list" style="display: none;"></ul>
-    <!-- 未重复结果列表（初始隐藏） -->
-    <ul id="non-duplicate-list" class="result-list" style="display: none;"></ul>
 
     <div class="copy-toast" id="copy-toast">copy ok!</div>
 
@@ -267,12 +312,12 @@
         // ================= 全局变量 =================
         let allSiteSongs = [];       // 所有歌曲数据
         let filteredSongs = [];      // 筛选后的歌曲数据
-        let currentCheckResult = null;
+        let currentAnalysisResult = null;
         let activeSource = 'all';    // 当前选中的来源
         let FILE_TO_ALIAS = {};      // 文件别名映射
         const BV_REGEX = /BV[0-9a-zA-Z]+/;
 
-        // ================= 复用主页面核心函数 =================
+        // ================= 核心工具函数 =================
         function normalizeString(str) {
             if (!str) return '';
             let s = str.trim();
@@ -294,18 +339,6 @@
             return true;
         }
 
-        function isSameSong(biliTitle, siteSong) {
-            const titleA = normalizeString(biliTitle);
-            const titleB = normalizeString(siteSong.title || '未知歌曲');
-            if (titleA !== titleB) return false;
-
-            const artist = (siteSong.artist || '').trim();
-            const validArtist = isValidArtist(artist);
-            if (!validArtist) return true;
-
-            return true;
-        }
-
         function cleanBiliTitle(title) {
             let clean = title;
             // 清除日期 [2026-01-30]
@@ -321,7 +354,7 @@
             return clean;
         }
 
-        // ================= 工具函数 =================
+        // ================= 复制工具函数 =================
         function showCopyToast() {
             const toast = document.getElementById('copy-toast');
             toast.classList.add('show');
@@ -338,7 +371,7 @@
             }
         }
 
-        // ================= 来源筛选核心逻辑 =================
+        // ================= 来源筛选逻辑 =================
         function generateFilterButtons(fileNames) {
             const filterBar = document.getElementById('filter-bar');
             filterBar.innerHTML = '<span class="filter-label">🔍 按来源筛选：</span>';
@@ -382,12 +415,11 @@
             activeSource = source;
             generateFilterButtons(Object.keys(FILE_TO_ALIAS).map(key => `${key}.js`));
             updateFilteredSongs();
-            // 重置查重结果
+            // 重置分析结果
             document.getElementById('stats-card').style.display = 'none';
             document.getElementById('result-tabs').style.display = 'none';
-            document.getElementById('duplicate-list').style.display = 'none';
-            document.getElementById('non-duplicate-list').style.display = 'none';
-            document.getElementById('progress-msg').textContent = `已筛选：${source === 'all' ? '全部来源' : FILE_TO_ALIAS[source.replace('.js', '')] || source}，请输入BV号查重`;
+            document.querySelectorAll('.result-list').forEach(list => list.style.display = 'none');
+            document.getElementById('progress-msg').textContent = `已筛选：${source === 'all' ? '全部来源' : FILE_TO_ALIAS[source.replace('.js', '')] || source}，请输入BV号分析`;
         }
 
         function updateFilteredSongs() {
@@ -397,7 +429,7 @@
             } else {
                 filteredSongs = allSiteSongs.filter(item => item.source === activeSource);
             }
-            document.getElementById('progress-msg').textContent = `✅ 筛选完成（${filteredSongs.length} 首），请输入BV号查重`;
+            document.getElementById('progress-msg').textContent = `✅ 筛选完成（${filteredSongs.length} 首），请输入BV号分析`;
         }
 
         // ================= 加载歌库数据 =================
@@ -442,108 +474,174 @@
                 // 4. 生成筛选按钮
                 generateFilterButtons(indexData.files);
 
-                progressMsg.textContent = `✅ 歌库加载完成（共 ${allSiteSongs.length} 首），请输入BV号查重`;
-                document.getElementById('check-btn').disabled = false;
+                progressMsg.textContent = `✅ 歌库加载完成（共 ${allSiteSongs.length} 首），请输入BV号分析`;
+                document.getElementById('analyze-btn').disabled = false;
 
             } catch (err) {
                 document.getElementById('progress-msg').style.display = 'none';
                 document.getElementById('error-msg').style.display = 'block';
                 document.getElementById('error-msg').textContent = `❌ 歌库加载失败：${err.message}`;
-                document.getElementById('check-btn').disabled = true;
+                document.getElementById('analyze-btn').disabled = true;
             }
         }
 
-        // ================= 获取B站分P数据（修复版，不跨域） =================
-async function getBiliParts(bvid) {
-  try {
-    // 用 B 站公开、不跨域、不鉴权的 oEmbed 接口
-    const oembedUrl = `https://embed.bilibili.com/player?bvid=${bvid}&as_wide=1`;
-    const res = await fetch(oembedUrl);
-    if (!res.ok) throw new Error("请求失败");
+        // ================= 获取B站分P数据（稳定不跨域版） =================
+        async function getBiliParts(bvid) {
+            try {
+                // 使用B站嵌入页接口（无跨域限制）
+                const oembedUrl = `https://embed.bilibili.com/player?bvid=${bvid}&as_wide=1`;
+                const res = await fetch(oembedUrl);
+                if (!res.ok) throw new Error("请求B站数据失败");
 
-    const html = await res.text();
+                const html = await res.text();
 
-    // 从页面里提取分页数据（稳定、不跨域）
-    const pageListMatch = html.match(/"pagelist"\s*:\s*(\[.+?\])/);
-    if (!pageListMatch || !pageListMatch[1]) {
-      throw new Error("未找到分P数据");
-    }
+                // 从页面中提取分P数据
+                const pageListMatch = html.match(/"pagelist"\s*:\s*(\[.+?\])/);
+                if (!pageListMatch || !pageListMatch[1]) {
+                    throw new Error("未找到分P数据");
+                }
 
-    const pagelist = JSON.parse(pageListMatch[1]);
-    if (!Array.isArray(pagelist) || pagelist.length === 0) {
-      throw new Error("该视频没有分P");
-    }
+                const pagelist = JSON.parse(pageListMatch[1]);
+                if (!Array.isArray(pagelist) || pagelist.length === 0) {
+                    throw new Error("该视频没有分P");
+                }
 
-    const rawTitles = pagelist
-      .map(item => (item.part || "").trim())
-      .filter(Boolean);
+                // 提取并清洗标题
+                const rawTitles = pagelist.map(item => (item.part || "").trim()).filter(Boolean);
+                const cleanedTitles = rawTitles.map(title => cleanBiliTitle(title)).filter(Boolean);
 
-    const cleanedTitles = rawTitles
-      .map(title => cleanBiliTitle(title))
-      .filter(Boolean);
+                return {
+                    bvid: bvid,
+                    totalParts: cleanedTitles.length,
+                    rawTitles: rawTitles,
+                    cleanedTitles: cleanedTitles
+                };
+            } catch (err) {
+                console.error("获取B站分P失败：", err);
+                throw new Error("无法获取B站分P数据，请检查BV号是否有效");
+            }
+        }
 
-    return {
-      bvid: bvid,
-      totalParts: cleanedTitles.length,
-      rawTitles: rawTitles,
-      cleanedTitles: cleanedTitles
-    };
-  } catch (err) {
-    console.error("获取分P失败", err);
-    throw new Error("无法获取B站分P数据，请检查BV号是否有效");
-  }
-}
+        // ================= 核心：重复分析逻辑 =================
+        function analyzeDuplicateSongs(biliTitles, siteSongs) {
+            // 1. 构建歌曲重复统计映射（标题 -> 出现次数/来源/详情）
+            const songStats = {};
+            
+            // 先统计歌库中每首歌的出现情况
+            siteSongs.forEach(song => {
+                const normTitle = normalizeString(song.title || '未知歌曲');
+                if (!songStats[normTitle]) {
+                    songStats[normTitle] = {
+                        originalTitles: new Set(), // 原始标题（去重）
+                        count: 0,                  // 总出现次数
+                        duplicateTimes: 0,         // 重复次数（count-1）
+                        duplicateSessions: 0,      // 重复场次（不同来源数-1）
+                        sources: new Set(),        // 来源集合
+                        songs: []                  // 所有匹配的歌曲详情
+                    };
+                }
+                
+                songStats[normTitle].originalTitles.add(song.title || '未知歌曲');
+                songStats[normTitle].count++;
+                songStats[normTitle].sources.add(song.source || '未知');
+                songStats[normTitle].songs.push(song);
+            });
 
-        // ================= 核心查重逻辑（适配筛选） =================
-        async function checkDuplicate(bvid) {
+            // 计算重复次数和场次（首次出现不算重复）
+            Object.keys(songStats).forEach(key => {
+                const stats = songStats[key];
+                stats.duplicateTimes = Math.max(0, stats.count - 1);       // 重复次数 = 总次数-1
+                stats.duplicateSessions = Math.max(0, stats.sources.size - 1); // 重复场次 = 来源数-1
+                stats.originalTitles = Array.from(stats.originalTitles);
+                stats.sources = Array.from(stats.sources);
+            });
+
+            // 2. 分析B站分P和歌库的匹配情况
+            const analysisResult = {
+                totalBiliTitles: biliTitles.length,
+                uniqueSongs: [],    // 未重复歌曲（仅出现1次或未匹配）
+                duplicateSongs: [], // 重复歌曲（出现≥2次）
+                allSongs: []        // 所有歌曲（带标记）
+            };
+
+            // 遍历B站分P标题
+            biliTitles.forEach(biliTitle => {
+                const normBiliTitle = normalizeString(biliTitle);
+                const matchedStats = songStats[normBiliTitle];
+                
+                const songItem = {
+                    biliTitle: biliTitle,
+                    isUnique: true,          // 默认未重复
+                    matchCount: 0,           // 匹配数量
+                    duplicateTimes: 0,       // 重复次数
+                    duplicateSessions: 0,    // 重复场次
+                    sources: [],             // 来源列表
+                    matchedSongs: []         // 匹配的歌曲详情
+                };
+
+                if (matchedStats) {
+                    songItem.matchCount = matchedStats.count;
+                    songItem.duplicateTimes = matchedStats.duplicateTimes;
+                    songItem.duplicateSessions = matchedStats.duplicateSessions;
+                    songItem.sources = matchedStats.sources;
+                    songItem.matchedSongs = matchedStats.songs.map(song => ({
+                        title: song.title,
+                        artist: song.artist,
+                        collection: song.collection,
+                        link: song.link,
+                        source: FILE_TO_ALIAS[song.source?.replace('.js', '')] || song.source?.replace('.js', '') || '未知'
+                    }));
+                    
+                    // 仅出现1次 = 未重复，≥2次 = 重复
+                    songItem.isUnique = matchedStats.count === 1;
+                }
+
+                analysisResult.allSongs.push(songItem);
+                
+                if (songItem.isUnique) {
+                    analysisResult.uniqueSongs.push(songItem);
+                } else {
+                    analysisResult.duplicateSongs.push(songItem);
+                }
+            });
+
+            return analysisResult;
+        }
+
+        // ================= 核心分析入口 =================
+        async function analyzeSongs(bvid) {
             try {
                 const progressMsg = document.getElementById('progress-msg');
                 progressMsg.textContent = `🔍 正在查询 BV${bvid} 的分P数据...`;
 
-                // 1. 获取B站分P
+                // 1. 获取B站分P数据
                 const biliData = await getBiliParts(bvid);
                 if (biliData.totalParts === 0) {
                     throw new Error('该BV号无分P数据');
                 }
 
-                progressMsg.textContent = `🔍 对比中（B站分P：${biliData.totalParts}，筛选后歌库：${filteredSongs.length}）...`;
+                progressMsg.textContent = `📊 正在分析重复情况（B站分P：${biliData.totalParts}，筛选后歌库：${filteredSongs.length}）...`;
 
-                // 2. 对比重复（使用筛选后的歌曲数据）
-                const duplicateDetails = [];
-                const nonDuplicateTitles = [];
+                // 2. 执行重复分析
+                const analysis = analyzeDuplicateSongs(biliData.cleanedTitles, filteredSongs);
 
-                for (const title of biliData.cleanedTitles) {
-                    const matchedSongs = filteredSongs.filter(song => isSameSong(title, song));
-                    
-                    if (matchedSongs.length > 0) {
-                        duplicateDetails.push({
-                            title: title,
-                            matchedCount: matchedSongs.length,
-                            matchedSongs: matchedSongs.map(song => ({
-                                title: song.title,
-                                artist: song.artist,
-                                collection: song.collection,
-                                link: song.link,
-                                source: song.source?.replace('.js', '')
-                            }))
-                        });
-                    } else {
-                        nonDuplicateTitles.push(title);
-                    }
-                }
+                // 3. 计算统计数据
+                const totalBili = biliData.totalParts;
+                const uniqueCount = analysis.uniqueSongs.length;
+                const duplicateCount = analysis.duplicateSongs.length;
+                const duplicateRate = totalBili > 0 ? (duplicateCount / totalBili * 100).toFixed(2) : 0;
 
-                // 3. 计算统计
-                const duplicateCount = duplicateDetails.length;
-                const duplicateRate = biliData.totalParts > 0 ? (duplicateCount / biliData.totalParts * 100).toFixed(2) : 0;
-
-                // 4. 保存结果
-                currentCheckResult = {
+                // 4. 保存最终结果
+                currentAnalysisResult = {
                     biliData: biliData,
-                    duplicateCount: duplicateCount,
-                    duplicateRate: duplicateRate,
-                    duplicateDetails: duplicateDetails,
-                    nonDuplicateTitles: nonDuplicateTitles,
-                    filterTotal: filteredSongs.length
+                    analysis: analysis,
+                    stats: {
+                        totalBili: totalBili,
+                        uniqueCount: uniqueCount,
+                        duplicateCount: duplicateCount,
+                        duplicateRate: duplicateRate,
+                        filterTotal: filteredSongs.length
+                    }
                 };
 
                 // 5. 渲染结果
@@ -552,13 +650,16 @@ async function getBiliParts(bvid) {
             } catch (err) {
                 document.getElementById('progress-msg').style.display = 'none';
                 document.getElementById('error-msg').style.display = 'block';
-                document.getElementById('error-msg').textContent = `❌ 查重失败：${err.message}`;
+                document.getElementById('error-msg').textContent = `❌ 分析失败：${err.message}`;
             }
         }
 
-        // ================= 渲染查重结果 =================
+        // ================= 渲染分析结果 =================
         function renderResult() {
-            if (!currentCheckResult) return;
+            if (!currentAnalysisResult) return;
+
+            const stats = currentAnalysisResult.stats;
+            const analysis = currentAnalysisResult.analysis;
 
             // 隐藏加载/错误提示
             document.getElementById('progress-msg').style.display = 'none';
@@ -566,90 +667,168 @@ async function getBiliParts(bvid) {
 
             // 显示统计卡片
             document.getElementById('stats-card').style.display = 'flex';
-            document.getElementById('bili-total').textContent = currentCheckResult.biliData.totalParts;
-            document.getElementById('duplicate-count').textContent = currentCheckResult.duplicateCount;
-            document.getElementById('duplicate-rate').textContent = `${currentCheckResult.duplicateRate}%`;
-            document.getElementById('filter-total').textContent = currentCheckResult.filterTotal;
+            document.getElementById('bili-total').textContent = stats.totalBili;
+            document.getElementById('unique-count').textContent = stats.uniqueCount;
+            document.getElementById('duplicate-count').textContent = stats.duplicateCount;
+            document.getElementById('duplicate-rate').textContent = `${stats.duplicateRate}%`;
+            document.getElementById('filter-total').textContent = stats.filterTotal;
 
             // 显示标签页
             document.getElementById('result-tabs').style.display = 'flex';
 
-            // 渲染重复列表
+            // 渲染所有列表
+            renderAllList();
+            renderUniqueList();
             renderDuplicateList();
-            // 渲染未重复列表
-            renderNonDuplicateList();
 
-            // 默认显示重复列表
-            switchTab('duplicate');
+            // 默认显示全部列表
+            switchTab('all');
         }
 
-        function renderDuplicateList() {
-            const listEl = document.getElementById('duplicate-list');
+        // 渲染全部歌曲列表
+        function renderAllList() {
+            const listEl = document.getElementById('all-list');
             listEl.innerHTML = '';
 
-            if (currentCheckResult.duplicateDetails.length === 0) {
-                listEl.innerHTML = '<li class="result-item"><div class="item-title">暂无重复的分P</div></li>';
+            if (currentAnalysisResult.analysis.allSongs.length === 0) {
+                listEl.innerHTML = '<li class="result-item"><div class="item-title">暂无分析数据</div></li>';
                 return;
             }
 
-            currentCheckResult.duplicateDetails.forEach((item, idx) => {
+            currentAnalysisResult.analysis.allSongs.forEach((item, idx) => {
                 const li = document.createElement('li');
-                li.className = 'result-item';
+                // 标记未重复/重复样式
+                li.className = `result-item ${item.isUnique ? 'unique' : 'duplicate'}`;
                 
-                // 拼接匹配的歌曲信息
+                // 构建来源标签
+                const sourceTags = item.sources.map(source => `<span class="source-tag">${source}</span>`).join('');
+                
+                // 构建匹配歌曲详情
                 let matchedHtml = '';
-                item.matchedSongs.forEach((song, sIdx) => {
-                    matchedHtml += `
+                if (item.matchedSongs.length > 0) {
+                    matchedHtml = `
                         <div style="margin-top: 8px; padding-top: 8px; border-top: 1px solid #f1f3f5;">
-                            <div>🎵 ${song.title}</div>
-                            <div>👤 歌手：${song.artist || '未知'}</div>
-                            <div>📁 合集：${song.collection || '未知'}</div>
-                            <div>🔗 来源：${song.source || '未知'} | <a href="${song.link}" target="_blank" style="color:#00a1d6;">直达B站</a></div>
+                            <div>📊 统计：共出现 ${item.matchCount} 次 | 重复 ${item.duplicateTimes} 次 | 跨 ${item.sources.length} 个来源 | 重复 ${item.duplicateSessions} 场次</div>
+                            <div style="margin-top: 8px;">
+                                ${item.matchedSongs.map((song, sIdx) => `
+                                    <div style="margin-bottom: 6px; padding: 6px; background: #f8f9fa; border-radius: 4px;">
+                                        <div>🎵 ${song.title}</div>
+                                        <div>👤 歌手：${song.artist || '未知'}</div>
+                                        <div>📁 合集：${song.collection || '未知'}</div>
+                                        <div>🔗 <a href="${song.link}" target="_blank" style="color:#00a1d6;">直达B站</a></div>
+                                    </div>
+                                `).join('')}
+                            </div>
                         </div>
                     `;
-                });
+                } else {
+                    matchedHtml = '<div style="margin-top: 8px; color: #dc3545;">❌ 未在歌库中找到匹配歌曲</div>';
+                }
+
+                // 标题标签
+                const titleTag = item.isUnique 
+                    ? '<span class="unique-tag">未重复</span>' 
+                    : `<span class="duplicate-tag">重复${item.duplicateTimes}次</span>`;
 
                 li.innerHTML = `
-                    <div class="item-title">${idx+1}. ${item.title} <span style="font-size:14px; font-weight:normal; color:#6c757d;">（匹配${item.matchedCount}首）</span></div>
+                    <div class="item-title">
+                        ${idx+1}. ${item.biliTitle} ${titleTag}
+                    </div>
                     <div class="item-meta">
+                        <div>📁 来源：${sourceTags || '无匹配来源'}</div>
                         ${matchedHtml}
-                        <button class="copy-btn" style="margin-top:8px; padding:4px 8px; background:#6f42c1; color:white; border:none; border-radius:4px; cursor:pointer;" data-title="${item.title}">📋 复制歌名</button>
+                        <button class="copy-btn" style="margin-top:8px; padding:4px 8px; background:#6f42c1; color:white; border:none; border-radius:4px; cursor:pointer;" data-title="${item.biliTitle}">📋 复制歌名</button>
                     </div>
                 `;
 
                 // 绑定复制事件
                 const copyBtn = li.querySelector('.copy-btn');
                 copyBtn.addEventListener('click', () => {
-                    copyToClipboard(item.title);
+                    copyToClipboard(item.biliTitle);
                 });
 
                 listEl.appendChild(li);
             });
         }
 
-        function renderNonDuplicateList() {
-            const listEl = document.getElementById('non-duplicate-list');
+        // 渲染未重复歌曲列表
+        function renderUniqueList() {
+            const listEl = document.getElementById('unique-list');
             listEl.innerHTML = '';
 
-            if (currentCheckResult.nonDuplicateTitles.length === 0) {
-                listEl.innerHTML = '<li class="result-item"><div class="item-title">所有分P均已存在于歌库</div></li>';
+            const uniqueSongs = currentAnalysisResult.analysis.uniqueSongs;
+            if (uniqueSongs.length === 0) {
+                listEl.innerHTML = '<li class="result-item"><div class="item-title">暂无未重复歌曲</div></li>';
                 return;
             }
 
-            currentCheckResult.nonDuplicateTitles.forEach((title, idx) => {
+            uniqueSongs.forEach((item, idx) => {
                 const li = document.createElement('li');
-                li.className = 'result-item';
+                li.className = 'result-item unique';
+                
+                let descHtml = item.matchCount === 0 
+                    ? '<div style="color: #28a745; margin-top: 8px;">✅ 未在歌库中出现（可新增）</div>'
+                    : `<div style="color: #28a745; margin-top: 8px;">✅ 仅出现1次（无重复）</div>`;
+
                 li.innerHTML = `
-                    <div class="item-title">${idx+1}. ${title}</div>
+                    <div class="item-title">
+                        ${idx+1}. ${item.biliTitle} <span class="unique-tag">未重复</span>
+                    </div>
                     <div class="item-meta">
-                        <button class="copy-btn" style="margin-top:4px; padding:4px 8px; background:#6f42c1; color:white; border:none; border-radius:4px; cursor:pointer;" data-title="${title}">📋 复制</button>
+                        ${descHtml}
+                        <button class="copy-btn" style="margin-top:8px; padding:4px 8px; background:#6f42c1; color:white; border:none; border-radius:4px; cursor:pointer;" data-title="${item.biliTitle}">📋 复制歌名</button>
                     </div>
                 `;
 
                 // 绑定复制事件
                 const copyBtn = li.querySelector('.copy-btn');
                 copyBtn.addEventListener('click', () => {
-                    copyToClipboard(title);
+                    copyToClipboard(item.biliTitle);
+                });
+
+                listEl.appendChild(li);
+            });
+        }
+
+        // 渲染重复歌曲列表
+        function renderDuplicateList() {
+            const listEl = document.getElementById('duplicate-list');
+            listEl.innerHTML = '';
+
+            const duplicateSongs = currentAnalysisResult.analysis.duplicateSongs;
+            if (duplicateSongs.length === 0) {
+                listEl.innerHTML = '<li class="result-item"><div class="item-title">暂无重复歌曲</div></li>';
+                return;
+            }
+
+            duplicateSongs.forEach((item, idx) => {
+                const li = document.createElement('li');
+                li.className = 'result-item duplicate';
+
+                li.innerHTML = `
+                    <div class="item-title">
+                        ${idx+1}. ${item.biliTitle} <span class="duplicate-tag">重复${item.duplicateTimes}次</span>
+                    </div>
+                    <div class="item-meta">
+                        <div>📊 统计：共出现 ${item.matchCount} 次 | 跨 ${item.sources.length} 个来源 | 重复 ${item.duplicateSessions} 场次</div>
+                        <div style="margin-top: 8px; padding-top: 8px; border-top: 1px solid #f1f3f5;">
+                            ${item.matchedSongs.map((song, sIdx) => `
+                                <div style="margin-bottom: 6px; padding: 6px; background: #f8f9fa; border-radius: 4px;">
+                                    <div>🎵 ${song.title}</div>
+                                    <div>👤 歌手：${song.artist || '未知'}</div>
+                                    <div>📁 合集：${song.collection || '未知'}</div>
+                                    <div>🔗 <a href="${song.link}" target="_blank" style="color:#00a1d6;">直达B站</a></div>
+                                </div>
+                            `).join('')}
+                        </div>
+                        <button class="copy-btn" style="margin-top:8px; padding:4px 8px; background:#6f42c1; color:white; border:none; border-radius:4px; cursor:pointer;" data-title="${item.biliTitle}">📋 复制歌名</button>
+                    </div>
+                `;
+
+                // 绑定复制事件
+                const copyBtn = li.querySelector('.copy-btn');
+                copyBtn.addEventListener('click', () => {
+                    copyToClipboard(item.biliTitle);
                 });
 
                 listEl.appendChild(li);
@@ -669,8 +848,9 @@ async function getBiliParts(bvid) {
             });
 
             // 切换列表显示
+            document.getElementById('all-list').style.display = tabName === 'all' ? 'block' : 'none';
+            document.getElementById('unique-list').style.display = tabName === 'unique' ? 'block' : 'none';
             document.getElementById('duplicate-list').style.display = tabName === 'duplicate' ? 'block' : 'none';
-            document.getElementById('non-duplicate-list').style.display = tabName === 'non-duplicate' ? 'block' : 'none';
         }
 
         // ================= 初始化 =================
@@ -678,12 +858,12 @@ async function getBiliParts(bvid) {
             // 加载歌库数据
             loadSiteSongs();
 
-            // 绑定查重按钮事件
-            const checkBtn = document.getElementById('check-btn');
+            // 绑定分析按钮事件
+            const analyzeBtn = document.getElementById('analyze-btn');
             const bvidInput = document.getElementById('bvid-input');
-            checkBtn.disabled = true;
+            analyzeBtn.disabled = true;
 
-            checkBtn.addEventListener('click', () => {
+            analyzeBtn.addEventListener('click', () => {
                 const bvid = bvidInput.value.trim();
                 if (!BV_REGEX.test(bvid)) {
                     alert('请输入有效的BV号（如 BV1aDzEBBE3S）');
@@ -692,18 +872,17 @@ async function getBiliParts(bvid) {
                 // 重置结果
                 document.getElementById('stats-card').style.display = 'none';
                 document.getElementById('result-tabs').style.display = 'none';
-                document.getElementById('duplicate-list').style.display = 'none';
-                document.getElementById('non-duplicate-list').style.display = 'none';
+                document.querySelectorAll('.result-list').forEach(list => list.style.display = 'none');
                 document.getElementById('error-msg').style.display = 'none';
                 document.getElementById('progress-msg').style.display = 'block';
-                // 开始查重
-                checkDuplicate(bvid);
+                // 开始分析
+                analyzeSongs(bvid);
             });
 
-            // 回车触发查重
+            // 回车触发分析
             bvidInput.addEventListener('keydown', (e) => {
-                if (e.key === 'Enter' && !checkBtn.disabled) {
-                    checkBtn.click();
+                if (e.key === 'Enter' && !analyzeBtn.disabled) {
+                    analyzeBtn.click();
                 }
             });
 
