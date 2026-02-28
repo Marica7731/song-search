@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>BV歌库重复检查（最终版）</title>
+<title>歌库跨库重复检查</title>
 <style>
 /* 基础样式 */
 *{margin:0;padding:0;box-sizing:border-box}
@@ -12,6 +12,10 @@ body{font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-ser
 .header{text-align:center;margin-bottom:24px}
 .header h2{color:#2c3e50;margin-bottom:8px}
 .header p{color:#6c757d;font-size:14px}
+/* 新增导航链接样式 */
+.sub-header{text-align:center;margin-bottom:16px;font-size:14px;color:#6c757d}
+.nav-link{color:#00a1d6;text-decoration:none;font-weight:500}
+.nav-link:hover{text-decoration:underline}
 
 /* 搜索栏 */
 .search-box{display:flex;gap:12px;margin-bottom:24px;flex-wrap:wrap}
@@ -73,10 +77,15 @@ body{font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-ser
 </head>
 <body>
 <div class="main">
-  <!-- 头部 -->
+  <!-- 头部（修改：去掉最终版，添加导航链接） -->
   <div class="header">
-    <h2>🔍 BV歌库跨库重复检查（最终版）</h2>
-    <p>输入BV号 → 自动定位来源 → 切换标签页即在对应库查重 | 支持灵活复制筛选</p>
+    <h2>🔍 BV歌库跨库重复检查</h2>
+    <div class="sub-header">
+      输入BV号 → 自动定位来源 → 切换标签页即在对应库查重 | 
+      <a href="index.html" class="nav-link">返回歌曲查询主站</a> | 
+      <a href="stats.html" class="nav-link">查看演唱者统计与排行</a>
+    </div>
+    <p>支持灵活复制筛选 | 折叠态展示核心信息</p>
   </div>
 
   <!-- 搜索栏 -->
