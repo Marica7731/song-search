@@ -39,17 +39,34 @@ body{font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-ser
 .title-controls{display:flex;gap:12px;flex-wrap:wrap;justify-content:flex-end}
 #searchTitleBtn{padding:8px 24px;background:#00a1d6;color:white;border:0;border-radius:8px;cursor:pointer;font-size:14px;font-weight:500}
 #searchTitleBtn:hover{background:#008fb3}
+#validateBtn{padding:8px 24px;background:#28a745;color:white;border:0;border-radius:8px;cursor:pointer;font-size:14px;font-weight:500;margin-left:8px}
+#validateBtn:hover{background:#218838}
 
 /* 歌手选择区（新增） */
 .artist-select-area{margin-bottom:24px;display:none}
 .artist-select-area.active{display:block}
 .select-item{background:white;border-radius:8px;padding:16px;margin-bottom:12px;box-shadow:0 2px 4px rgba(0,0,0,0.04)}
-.select-item h4{margin-bottom:8px;color:#2c3e50;font-size:15px}
+.select-item h4{margin-bottom:8px;color:#2c3e50;font-size:15px;display:flex;align-items:center;gap:8px}
+.valid-tag{color:#28a745;font-size:12px;font-weight:normal}
+.invalid-tag{color:#dc3545;font-size:12px;font-weight:normal}
 .artist-options{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:8px}
 .artist-option{padding:4px 12px;background:#f1f3f5;border:1px solid #ddd;border-radius:6px;cursor:pointer;font-size:13px}
 .artist-option:hover{border-color:#00a1d6;color:#00a1d6}
 .artist-option.selected{background:#00a1d6;color:white;border-color:#00a1d6}
+.artist-option.matched{background:#e8f5e9;border-color:#28a745;color:#28a745}
 .no-result{color:#6c757d;font-size:13px;padding:4px 0}
+
+/* 排列组合区（新增） */
+.combination-area{margin-bottom:24px;display:none;padding:16px;background:white;border-radius:8px;box-shadow:0 2px 4px rgba(0,0,0,0.04)}
+.combination-area.active{display:block}
+.combination-area h4{margin-bottom:12px;color:#2c3e50;font-size:15px}
+.combination-list{max-height:200px;overflow-y:auto;margin-bottom:12px;border:1px solid #e9ecef;border-radius:6px;padding:8px}
+.combination-item{padding:6px 8px;margin-bottom:4px;border-radius:4px;cursor:pointer;font-size:14px}
+.combination-item:hover{background:#f1f3f5}
+.combination-item.selected{background:#00a1d6;color:white}
+.combination-controls{display:flex;gap:12px;justify-content:flex-end}
+.generate-combination-btn{padding:6px 16px;background:#6f42c1;color:white;border:0;border-radius:6px;cursor:pointer;font-size:13px}
+.generate-combination-btn:hover{background:#5a32a3}
 
 /* 结果生成区（新增） */
 .result-generate-area{margin-bottom:24px;display:none}
@@ -125,13 +142,13 @@ body{font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-ser
       <a href="stats.html" class="nav-link">查看演唱者统计与排行</a> | 
       <a href="bili-check.html" class="nav-link">BV号查重工具</a>
     </div>
-    <p>支持BV号查重、歌名-歌手批量查询 | 数据跨库匹配</p>
+    <p>支持BV号查重、歌名-歌手批量查询/校验 | 自动生成排列组合</p>
   </div>
 
   <!-- 功能标签切换 -->
   <div class="function-tabs">
     <div class="function-tab active" id="bvCheckTab">BV号查重</div>
-    <div class="function-tab" id="titleSearchTab">歌名-歌手查询</div>
+    <div class="function-tab" id="titleSearchTab">歌名-歌手查询/校验</div>
   </div>
 
   <!-- BV号查重功能区 -->
@@ -172,18 +189,34 @@ body{font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-ser
   <!-- 歌名-歌手查询功能区（新增） -->
   <div id="titleSearchArea" class="title-search-area">
     <!-- 歌名输入框 -->
-    <textarea id="titleInput" placeholder="请输入要查询的歌名，每行一个：
+    <textarea id="titleInput" placeholder="支持两种输入格式：
+1. 纯歌名（每行一个）：
 絶頂讃歌
 月光
-シニカル・シニカル"></textarea>
+シニカル・シニカル
+
+2. 完整格式（带序号和歌手）：
+01. 絶頂讃歌 - 和ぬか
+02. 月光 - はるまきごはん
+03. シニカル・シニカル - 吐息 feat. Such"></textarea>
     
     <div class="title-controls">
-      <button id="searchTitleBtn">查询歌手</button>
+      <button id="searchTitleBtn">查询/校验歌手</button>
+      <button id="validateBtn">生成排列组合</button>
     </div>
 
     <!-- 歌手选择区 -->
     <div class="artist-select-area" id="artistSelectArea">
       <div id="artistSelectContainer"></div>
+    </div>
+
+    <!-- 排列组合区（新增） -->
+    <div class="combination-area" id="combinationArea">
+      <h4>🎭 所有可能的排列组合</h4>
+      <div class="combination-list" id="combinationList"></div>
+      <div class="combination-controls">
+        <button class="generate-combination-btn" id="useCombinationBtn">使用选中的组合</button>
+      </div>
     </div>
 
     <!-- 结果生成区 -->
@@ -209,6 +242,9 @@ let analysisResult = [];    // 最新分析结果
 let showOnlyUnique = false; // 是否只显示未重复歌曲
 let titleSearchResults = []; // 歌名查询结果
 let selectedArtists = {};   // 选中的歌手映射 {歌名: 歌手}
+let inputFormatType = '';   // 输入格式类型：pure(纯歌名)/full(完整格式)
+let allCombinations = [];   // 所有可能的排列组合
+let selectedCombination = ''; // 选中的排列组合
 
 // ================= 工具函数 =================
 // 提取BV号
@@ -247,31 +283,143 @@ function toggleShowMode(onlyUnique) {
   renderSongList();
 }
 
-// ================= 歌名-歌手查询功能（新增核心） =================
-// 解析输入的歌名列表
-function parseTitleInput() {
+// 解析输入内容（支持两种格式）
+function parseInputContent() {
   const input = document.getElementById('titleInput').value.trim();
   if (!input) {
     alert('请输入要查询的歌名！');
     return [];
   }
-  // 按行分割，去空行，去重
-  return input.split('\n')
-    .map(line => line.trim())
-    .filter(line => line);
+  
+  const lines = input.split('\n').map(line => line.trim()).filter(line => line);
+  const result = [];
+  
+  // 检测输入格式
+  const fullFormatRegex = /^\d{1,2}\.\s*(.+?)\s*-\s*(.+)$/;
+  let hasFullFormat = false;
+  
+  lines.forEach(line => {
+    const fullMatch = line.match(fullFormatRegex);
+    if (fullMatch) {
+      hasFullFormat = true;
+      // 完整格式：01. 絶頂讃歌 - 和ぬか
+      result.push({
+        title: fullMatch[1].trim(),
+        inputArtist: fullMatch[2].trim(),
+        line: line
+      });
+    } else {
+      // 纯歌名格式
+      result.push({
+        title: line.trim(),
+        inputArtist: '',
+        line: line
+      });
+    }
+  });
+  
+  // 设置输入格式类型
+  inputFormatType = hasFullFormat ? 'full' : 'pure';
+  
+  return result;
 }
 
-// 查询歌名对应的歌手
-function searchTitleArtists() {
-  const titles = parseTitleInput();
-  if (titles.length === 0) return;
+// 生成所有可能的排列组合
+function generateAllCombinations() {
+  if (titleSearchResults.length === 0) {
+    alert('请先查询歌手信息！');
+    return;
+  }
+  
+  // 获取每首歌的可选歌手列表
+  const optionsList = titleSearchResults.map(item => {
+    return item.artists.length > 0 ? item.artists : [''];
+  });
+  
+  // 递归生成笛卡尔积（排列组合）
+  function cartesianProduct(arr) {
+    return arr.reduce((a, b) => {
+      return a.flatMap(d => b.map(e => [d, e].flat()));
+    }, [[]]);
+  }
+  
+  // 生成所有组合
+  const combinations = cartesianProduct(optionsList);
+  
+  // 转换为文本格式
+  allCombinations = combinations.map((comb, idx) => {
+    let text = '';
+    comb.forEach((artist, lineIdx) => {
+      const num = (lineIdx + 1).toString().padStart(2, '0');
+      const title = titleSearchResults[lineIdx].title;
+      text += `${num}. ${title} ${artist ? '- ' + artist : ''}\n`;
+    });
+    return text.trim();
+  });
+  
+  // 去重（避免重复组合）
+  allCombinations = [...new Set(allCombinations)];
+  
+  // 渲染组合列表
+  renderCombinationList();
+  
+  // 显示排列组合区
+  document.getElementById('combinationArea').classList.add('active');
+  
+  return allCombinations;
+}
+
+// 渲染排列组合列表
+function renderCombinationList() {
+  const container = document.getElementById('combinationList');
+  container.innerHTML = '';
+  
+  if (allCombinations.length === 0) {
+    container.innerHTML = '<div style="text-align:center;padding:8px;color:#6c757d;">暂无可用组合</div>';
+    return;
+  }
+  
+  allCombinations.forEach((comb, idx) => {
+    const item = document.createElement('div');
+    item.className = `combination-item ${idx === 0 ? 'selected' : ''}`;
+    item.textContent = comb;
+    item.dataset.index = idx;
+    
+    // 默认选中第一个组合
+    if (idx === 0) {
+      selectedCombination = comb;
+    }
+    
+    // 点击选中组合
+    item.addEventListener('click', () => {
+      // 移除其他选中状态
+      container.querySelectorAll('.combination-item').forEach(el => {
+        el.classList.remove('selected');
+      });
+      // 添加当前选中状态
+      item.classList.add('selected');
+      selectedCombination = comb;
+    });
+    
+    container.appendChild(item);
+  });
+}
+
+// ================= 歌名-歌手查询/校验功能（核心增强） =================
+// 查询/校验歌手信息
+function searchAndValidateArtists() {
+  const inputItems = parseInputContent();
+  if (inputItems.length === 0) return;
   
   // 清空之前的结果
   titleSearchResults = [];
   selectedArtists = {};
   
-  // 遍历每个歌名查询匹配的歌手
-  titles.forEach(title => {
+  // 遍历每个输入项查询匹配的歌手
+  inputItems.forEach(item => {
+    const title = item.title;
+    const inputArtist = item.inputArtist;
+    
     // 不区分大小写匹配歌名
     const lowerTitle = title.toLowerCase().trim();
     const matchedSongs = allSongs.filter(song => 
@@ -281,23 +429,37 @@ function searchTitleArtists() {
     // 提取去重的歌手列表
     const artists = [...new Set(matchedSongs.map(song => song.artist || '未知歌手'))].filter(Boolean);
     
+    // 校验输入的歌手是否正确
+    let isArtistValid = false;
+    if (inputArtist && artists.length > 0) {
+      isArtistValid = artists.some(artist => 
+        artist.toLowerCase().trim() === inputArtist.toLowerCase().trim()
+      );
+    }
+    
     // 保存结果
     titleSearchResults.push({
       title: title,
+      inputArtist: inputArtist,
       artists: artists,
-      hasResult: artists.length > 0
+      hasResult: artists.length > 0,
+      isArtistValid: isArtistValid,
+      originalLine: item.line
     });
     
-    // 默认选中第一个歌手
-    if (artists.length > 0) {
-      selectedArtists[title] = artists[0];
-    } else {
-      selectedArtists[title] = '';
+    // 默认选中：如果是完整格式且歌手有效，选中输入的歌手；否则选第一个
+    let defaultArtist = '';
+    if (inputFormatType === 'full' && isArtistValid) {
+      defaultArtist = inputArtist;
+    } else if (artists.length > 0) {
+      defaultArtist = artists[0];
     }
+    
+    selectedArtists[title] = defaultArtist;
   });
   
-  // 渲染歌手选择界面
-  renderArtistSelect();
+  // 渲染歌手选择界面（带校验结果）
+  renderArtistSelectWithValidation();
   
   // 显示歌手选择区和结果生成区
   document.getElementById('artistSelectArea').classList.add('active');
@@ -307,8 +469,8 @@ function searchTitleArtists() {
   generateResultText();
 }
 
-// 渲染歌手选择界面
-function renderArtistSelect() {
+// 渲染歌手选择界面（带校验结果）
+function renderArtistSelectWithValidation() {
   const container = document.getElementById('artistSelectContainer');
   container.innerHTML = '';
   
@@ -316,8 +478,19 @@ function renderArtistSelect() {
     const selectItem = document.createElement('div');
     selectItem.className = 'select-item';
     
-    // 标题
-    selectItem.innerHTML = `<h4>${item.title}</h4>`;
+    // 标题（带校验状态）
+    let titleHtml = `<h4>${item.title}`;
+    if (inputFormatType === 'full') {
+      if (item.hasResult) {
+        titleHtml += item.isArtistValid 
+          ? `<span class="valid-tag">✅ 歌手 "${item.inputArtist}" 验证通过</span>`
+          : `<span class="invalid-tag">❌ 歌手 "${item.inputArtist}" 验证失败，正确歌手：${item.artists.join(' / ')}</span>`;
+      } else {
+        titleHtml += `<span class="invalid-tag">❌ 未找到该歌曲信息</span>`;
+      }
+    }
+    titleHtml += `</h4>`;
+    selectItem.innerHTML = titleHtml;
     
     // 歌手选项
     const optionsDiv = document.createElement('div');
@@ -327,15 +500,20 @@ function renderArtistSelect() {
       // 生成歌手选项按钮
       item.artists.forEach(artist => {
         const optionBtn = document.createElement('div');
-        optionBtn.className = `artist-option ${selectedArtists[item.title] === artist ? 'selected' : ''}`;
+        // 标记匹配的歌手（输入的歌手）
+        const isMatched = inputFormatType === 'full' && artist.toLowerCase() === item.inputArtist.toLowerCase();
+        optionBtn.className = `artist-option 
+          ${selectedArtists[item.title] === artist ? 'selected' : ''}
+          ${isMatched ? 'matched' : ''}`;
         optionBtn.textContent = artist;
         optionBtn.onclick = () => {
           // 更新选中的歌手
           selectedArtists[item.title] = artist;
           // 更新按钮样式
           optionsDiv.querySelectorAll('.artist-option').forEach(btn => {
-            btn.classList.toggle('selected', btn.textContent === artist);
+            btn.classList.remove('selected');
           });
+          optionBtn.classList.add('selected');
           // 重新生成结果
           generateResultText();
         };
@@ -345,7 +523,7 @@ function renderArtistSelect() {
       // 无匹配结果
       const noResult = document.createElement('div');
       noResult.className = 'no-result';
-      noResult.textContent = '❌ 未找到匹配的歌手信息';
+      noResult.textContent = '❌ 未找到匹配的歌曲信息';
       optionsDiv.appendChild(noResult);
     }
     
@@ -356,6 +534,13 @@ function renderArtistSelect() {
 
 // 生成结果文本
 function generateResultText() {
+  // 如果选中了排列组合，优先使用组合内容
+  if (selectedCombination) {
+    document.getElementById('resultText').value = selectedCombination;
+    return;
+  }
+  
+  // 否则使用手动选择的歌手
   let result = '';
   
   titleSearchResults.forEach((item, index) => {
@@ -366,6 +551,31 @@ function generateResultText() {
   
   // 更新结果文本框
   document.getElementById('resultText').value = result.trim();
+}
+
+// 使用选中的排列组合
+function useSelectedCombination() {
+  if (!selectedCombination) {
+    alert('请先选择一个排列组合！');
+    return;
+  }
+  
+  // 更新结果文本
+  document.getElementById('resultText').value = selectedCombination;
+  
+  // 解析组合内容，更新选中的歌手映射
+  const lines = selectedCombination.split('\n');
+  lines.forEach(line => {
+    const match = line.match(/^\d{1,2}\.\s*(.+?)\s*-\s*(.+)$/);
+    if (match) {
+      const title = match[1].trim();
+      const artist = match[2].trim();
+      selectedArtists[title] = artist;
+    }
+  });
+  
+  // 重新渲染歌手选择界面
+  renderArtistSelectWithValidation();
 }
 
 // 复制歌名-歌手结果
@@ -761,14 +971,16 @@ function init() {
   document.getElementById('showUniqueBtn').addEventListener('click', () => toggleShowMode(true));
   document.getElementById('copyBtn').addEventListener('click', copyResults);
 
-  // 绑定歌名-歌手查询相关事件（新增）
-  document.getElementById('searchTitleBtn').addEventListener('click', searchTitleArtists);
+  // 绑定歌名-歌手查询/校验相关事件（增强）
+  document.getElementById('searchTitleBtn').addEventListener('click', searchAndValidateArtists);
+  document.getElementById('validateBtn').addEventListener('click', generateAllCombinations);
+  document.getElementById('useCombinationBtn').addEventListener('click', useSelectedCombination);
   document.getElementById('copyResultBtn').addEventListener('click', copyResultText);
   
   // 支持回车查询歌名
   document.getElementById('titleInput').addEventListener('keydown', e => {
     if (e.key === 'Enter' && e.ctrlKey) { // Ctrl+Enter 查询
-      searchTitleArtists();
+      searchAndValidateArtists();
     }
   });
 }
