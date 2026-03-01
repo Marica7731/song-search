@@ -57,6 +57,8 @@ body{font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-ser
 /* 新增：错误答案样式 */
 .artist-option.error{background:#fdf2f8;border:1px solid #dc3545;color:#dc3545;font-weight:500}
 .artist-option.error:hover{background:#fef0f5;border-color:#c82333;color:#c82333}
+/* 新增：来源标签样式 */
+.source-label{font-size:11px;color:#6c757d;margin-left:6px}
 .no-result{color:#6c757d;font-size:13px;padding:4px 0}
 
 /* 排列组合区（新增） */
@@ -352,7 +354,7 @@ function generateAllCombinations() {
       options.push(item.inputArtist);
     }
     // 再加入正确的歌手列表
-    options = options.concat(item.artists.length > 0 ? item.artists : ['']);
+    options = options.concat(item.artists.map(artistItem => artistItem.name));
     return options;
   });
   
@@ -446,13 +448,30 @@ function searchAndValidateArtists() {
       (song.title || '').toLowerCase().trim() === lowerTitle
     );
     
-    // 提取去重的歌手列表
-    const artists = [...new Set(matchedSongs.map(song => song.artist || '未知歌手'))].filter(Boolean);
+    // 重构：收集歌手及其来源信息（去重）
+    const artistMap = new Map(); // key: 歌手名, value: 来源列表
+    matchedSongs.forEach(song => {
+      const artist = song.artist || '未知歌手';
+      const source = getSourceAlias(song.source);
+      if (!artistMap.has(artist)) {
+        artistMap.set(artist, new Set());
+      }
+      artistMap.get(artist).add(source);
+    });
+    
+    // 转换为带来源的歌手列表
+    const artists = Array.from(artistMap.entries()).map(([name, sources]) => ({
+      name: name,
+      sources: Array.from(sources).join(' / ')
+    })).filter(Boolean);
+    
+    // 提取纯歌手名列表（用于校验）
+    const artistNames = artists.map(artist => artist.name);
     
     // 校验输入的歌手是否正确
     let isArtistValid = false;
-    if (inputArtist && artists.length > 0) {
-      isArtistValid = artists.some(artist => 
+    if (inputArtist && artistNames.length > 0) {
+      isArtistValid = artistNames.some(artist => 
         artist.toLowerCase().trim() === inputArtist.toLowerCase().trim()
       );
     }
@@ -461,7 +480,8 @@ function searchAndValidateArtists() {
     titleSearchResults.push({
       title: title,
       inputArtist: inputArtist,
-      artists: artists,
+      artists: artists, // 改为带来源的歌手对象列表
+      artistNames: artistNames, // 保留纯歌手名列表
       hasResult: artists.length > 0,
       isArtistValid: isArtistValid,
       originalLine: item.line
@@ -471,14 +491,14 @@ function searchAndValidateArtists() {
     let defaultArtist = '';
     if (inputFormatType === 'full' && inputArtist.trim()) {
       defaultArtist = inputArtist; // 优先选中输入的歌手（错误答案也保留）
-    } else if (artists.length > 0) {
-      defaultArtist = artists[0];
+    } else if (artistNames.length > 0) {
+      defaultArtist = artistNames[0];
     }
     
     selectedArtists[title] = defaultArtist;
   });
   
-  // 渲染歌手选择界面（带校验结果+错误答案）
+  // 渲染歌手选择界面（带校验结果+错误答案+来源）
   renderArtistSelectWithValidation();
   
   // 显示歌手选择区和结果生成区
@@ -489,7 +509,7 @@ function searchAndValidateArtists() {
   generateResultText();
 }
 
-// 渲染歌手选择界面（带校验结果+错误答案）
+// 渲染歌手选择界面（带校验结果+错误答案+来源）
 function renderArtistSelectWithValidation() {
   const container = document.getElementById('artistSelectContainer');
   container.innerHTML = '';
@@ -504,7 +524,7 @@ function renderArtistSelectWithValidation() {
       if (item.hasResult) {
         titleHtml += item.isArtistValid 
           ? `<span class="valid-tag">✅ 歌手 "${item.inputArtist}" 验证通过</span>`
-          : `<span class="invalid-tag">❌ 歌手 "${item.inputArtist}" 与库中不符，库中歌手：${item.artists.join(' / ')}</span>`;
+          : `<span class="invalid-tag">❌ 歌手 "${item.inputArtist}" 与库中不符，库中歌手：${item.artistNames.join(' / ')}</span>`;
       } else {
         titleHtml += `<span class="invalid-tag">❌ 未找到该歌曲信息</span>`;
       }
@@ -521,7 +541,7 @@ function renderArtistSelectWithValidation() {
       if (inputFormatType === 'full' && item.inputArtist.trim() && !item.isArtistValid) {
         const errorBtn = document.createElement('div');
         errorBtn.className = `artist-option error ${selectedArtists[item.title] === item.inputArtist ? 'selected' : ''}`;
-        errorBtn.textContent = item.inputArtist + ' (输入值)';
+        errorBtn.innerHTML = `${item.inputArtist} (输入值) <span class="source-label">无匹配来源</span>`;
         errorBtn.onclick = () => {
           // 更新选中的歌手
           selectedArtists[item.title] = item.inputArtist;
@@ -544,18 +564,19 @@ function renderArtistSelectWithValidation() {
         optionsDiv.appendChild(divider);
       }
       
-      // 2. 显示库中的正确歌手列表
+      // 2. 显示库中的正确歌手列表（带来源）
       item.artists.forEach(artist => {
         const optionBtn = document.createElement('div');
         // 标记匹配的歌手（输入的正确歌手）
-        const isMatched = inputFormatType === 'full' && artist.toLowerCase() === item.inputArtist.toLowerCase();
+        const isMatched = inputFormatType === 'full' && artist.name.toLowerCase() === item.inputArtist.toLowerCase();
         optionBtn.className = `artist-option 
-          ${selectedArtists[item.title] === artist ? 'selected' : ''}
+          ${selectedArtists[item.title] === artist.name ? 'selected' : ''}
           ${isMatched ? 'matched' : ''}`;
-        optionBtn.textContent = artist + ' (库中值)';
+        // 显示歌手名 + 来源信息
+        optionBtn.innerHTML = `${artist.name} (库中值) <span class="source-label">来源：${artist.sources}</span>`;
         optionBtn.onclick = () => {
           // 更新选中的歌手
-          selectedArtists[item.title] = artist;
+          selectedArtists[item.title] = artist.name;
           // 更新按钮样式
           optionsDiv.querySelectorAll('.artist-option').forEach(btn => {
             btn.classList.remove('selected');
@@ -571,7 +592,7 @@ function renderArtistSelectWithValidation() {
       if (inputFormatType === 'full' && item.inputArtist.trim()) {
         const errorBtn = document.createElement('div');
         errorBtn.className = `artist-option error ${selectedArtists[item.title] === item.inputArtist ? 'selected' : ''}`;
-        errorBtn.textContent = item.inputArtist + ' (输入值)';
+        errorBtn.innerHTML = `${item.inputArtist} (输入值) <span class="source-label">无匹配来源</span>`;
         errorBtn.onclick = () => {
           selectedArtists[item.title] = item.inputArtist;
           optionsDiv.querySelectorAll('.artist-option').forEach(btn => {
