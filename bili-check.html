@@ -179,8 +179,9 @@ body{font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-ser
       <label><input type="checkbox" id="copyOnlyUnique" checked> 仅复制非重复歌曲</label>
       <label><input type="checkbox" id="copyTitle" checked> 歌名</label>
       <label><input type="checkbox" id="copyLink"> 歌曲链接</label>
-      <label><input type="checkbox" id="copySource" checked> 来源</label> <!-- 新增：复制来源选项 -->
       <label><input type="checkbox" id="copyCount"> 出现次数</label>
+      <!-- 新增：复制来源选项 -->
+      <label><input type="checkbox" id="copySource"> 来源</label>
       <label><input type="radio" name="copyFormat" id="copyText" checked> 纯文本</label>
       <label><input type="radio" name="copyFormat" id="copyTable"> 表格</label>
       <button class="copy-btn" id="copyBtn">📋 复制结果</button>
@@ -258,9 +259,12 @@ function extractBV(str) {
   return match ? match[0] : '';
 }
 
-// 获取来源显示名称
-function getSourceDisplayName(source) {
-  return fileAlias[source.replace('.js', '')] || source;
+// 获取来源别名（核心新增：统一处理来源显示）
+function getSourceAlias(source) {
+  if (!source) return '未知来源';
+  // 去掉.js后缀后查找别名
+  const key = source.replace('.js', '');
+  return fileAlias[key] || source;
 }
 
 // 显示复制提示
@@ -727,7 +731,7 @@ function renderSourceTabs() {
   fileList.forEach(fileName => {
     const tab = document.createElement('div');
     tab.className = `source-tab ${currentTab === fileName ? 'active' : ''}`;
-    tab.textContent = fileAlias[fileName.replace('.js', '')] || fileName;
+    tab.textContent = getSourceAlias(fileName); // 使用统一的来源别名函数
     tab.onclick = () => switchSourceTab(fileName);
     container.appendChild(tab);
   });
@@ -759,7 +763,8 @@ function renderSongList() {
     const isDup = item.isDup;
     const dupList = item.dupList;
     const dupCount = dupList.length;
-    const songSource = getSourceDisplayName(song.source);
+    // 获取歌曲来源别名
+    const songSource = getSourceAlias(song.source);
     
     // 歌曲项容器
     const songItem = document.createElement('div');
@@ -774,7 +779,7 @@ function renderSongList() {
         ${isDup ? `<span class="dup-tag">重复 ${dupCount} 次</span>` : `<span class="unique-tag">无重复</span>`}
       </div>
       <div class="title-right">
-        <span style="font-size:12px;margin-right:8px;">来源：${songSource}</span>
+        <span style="font-size:12px;margin-right:8px;">${songSource}</span>
         <span class="collapse-toggle">▼</span>
       </div>
     `;
@@ -790,7 +795,7 @@ function renderSongList() {
       <div class="summary-item">📦 来源：${songSource}</div>
       <div class="summary-item">🔗 BV号：${extractBV(song.link)}</div>
       <div class="summary-item">🌐 链接：<a href="${song.link}" target="_blank" style="color:#00a1d6;">点击查看</a></div>
-      <div class="summary-item">📊 当前筛选库：${currentTab === 'all' ? '全部' : getSourceDisplayName(currentTab)} | 匹配结果：${dupCount} 条</div>
+      <div class="summary-item">📊 当前库：${getSourceAlias(currentTab)} | 匹配结果：${dupCount} 条</div>
     `;
 
     // 重复预览（最多3条）
@@ -802,7 +807,7 @@ function renderSongList() {
         previewHtml.push(`
           <div class="dup-preview-item">
             <span class="bv-tag">${extractBV(dup.link)}</span>
-            ${dup.title} | 来源：${getSourceDisplayName(dup.source)}
+            ${dup.title} | ${getSourceAlias(dup.source)}
           </div>
         `);
       });
@@ -823,7 +828,7 @@ function renderSongList() {
     const contentDiv = document.createElement('div');
     contentDiv.className = 'collapse-content';
     
-    // 展开内容详情
+    // 展开内容详情（强化来源显示）
     let dupListHtml = '';
     if (isDup) {
       dupList.forEach(dup => {
@@ -833,7 +838,7 @@ function renderSongList() {
             <div style="flex:1;">
               <div>${dup.title}</div>
               <div style="font-size:11px;color:#6c757d;">
-                歌手：${dup.artist || '未知'} | 来源：${getSourceDisplayName(dup.source)}
+                歌手：${dup.artist || '未知'} | 来源：${getSourceAlias(dup.source)}
                 <br>链接：<a href="${dup.link}" target="_blank" style="color:#00a1d6;">${dup.link}</a>
               </div>
             </div>
@@ -850,7 +855,7 @@ function renderSongList() {
         <div class="meta-row">🔗 链接：<a href="${song.link}" target="_blank" style="color:#00a1d6;">${song.link}</a></div>
         <div class="sub-info">
           <div style="font-weight:500;margin-bottom:8px;">
-            在${currentTab === 'all' ? '全部库' : getSourceDisplayName(currentTab)}中找到 ${dupCount} 条匹配结果：
+            在 ${getSourceAlias(currentTab)} 中找到 ${dupCount} 条匹配结果：
           </div>
           <div class="dup-list">${isDup ? dupListHtml : '<div style="color:#28a745;">✅ 无重复记录</div>'}</div>
         </div>
@@ -938,16 +943,16 @@ function analyzeDuplicates() {
   const total = targetBvSongs.length;
   const dupCount = analysisResult.filter(item => item.isDup).length;
   const uniqueCount = total - dupCount;
-  const currentSourceName = currentTab === 'all' ? '全部' : getSourceDisplayName(currentTab);
+  const currentSourceName = getSourceAlias(currentTab); // 使用统一的来源别名
   
   document.getElementById('statInfo').textContent = 
-    `分析BV歌曲：${total} 首 | 当前筛选库：${currentSourceName} | 重复：${dupCount} 首 | 非重复：${uniqueCount} 首`;
+    `分析BV歌曲：${total} 首 | 当前库：${currentSourceName} | 重复：${dupCount} 首 | 非重复：${uniqueCount} 首`;
 
   // 渲染结果列表
   renderSongList();
 }
 
-// 复制功能（BV查重）- 新增来源复制选项
+// 复制功能（BV查重）- 新增复制来源选项
 function copyResults() {
   if (analysisResult.length === 0) {
     alert('暂无分析结果可复制！');
@@ -958,8 +963,8 @@ function copyResults() {
   const onlyUnique = document.getElementById('copyOnlyUnique').checked;
   const includeTitle = document.getElementById('copyTitle').checked;
   const includeLink = document.getElementById('copyLink').checked;
-  const includeSource = document.getElementById('copySource').checked; // 新增：来源选项
   const includeCount = document.getElementById('copyCount').checked;
+  const includeSource = document.getElementById('copySource').checked; // 新增来源选项
   const isTextFormat = document.getElementById('copyText').checked;
 
   // 筛选要复制的歌曲
@@ -981,7 +986,7 @@ function copyResults() {
     copyData.forEach(item => {
       const parts = [];
       if (includeTitle) parts.push(item.song.title || '未知歌曲');
-      if (includeSource) parts.push(`来源：${getSourceDisplayName(item.song.source)}`); // 新增：来源
+      if (includeSource) parts.push(`来源：${getSourceAlias(item.song.source)}`); // 新增来源
       if (includeLink) parts.push(`链接：${item.song.link}`);
       if (includeCount) parts.push(`次数：${item.dupCount}`);
       content += parts.join(' | ') + '\n';
@@ -992,7 +997,7 @@ function copyResults() {
     // 表头
     const headers = [];
     if (includeTitle) headers.push('歌名');
-    if (includeSource) headers.push('来源'); // 新增：来源表头
+    if (includeSource) headers.push('来源'); // 新增来源表头
     if (includeLink) headers.push('歌曲链接');
     if (includeCount) headers.push('出现次数');
     content += headers.join('\t') + '\n';
@@ -1001,7 +1006,7 @@ function copyResults() {
     copyData.forEach(item => {
       const row = [];
       if (includeTitle) row.push(item.song.title || '未知歌曲');
-      if (includeSource) row.push(getSourceDisplayName(item.song.source)); // 新增：来源内容
+      if (includeSource) row.push(getSourceAlias(item.song.source)); // 新增来源内容
       if (includeLink) row.push(item.song.link);
       if (includeCount) row.push(item.dupCount);
       content += row.join('\t') + '\n';
