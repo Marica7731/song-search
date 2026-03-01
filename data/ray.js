@@ -1,6 +1,6 @@
 // 來-Ray- - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1mJZwB8EVa
-// 生成时间: 3/1/2026, 9:16:38 PM
+// 生成时间: 3/1/2026, 10:16:32 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2587,6 +2587,222 @@ window.SONG_DATA.push(
   "collection": "來-Ray-  歌切 2025-11-08 ~  2026-01-18",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wUZcBQEBo?p=135",
+  "source": "ray.js"
+},
+    {
+  "title": "絶頂讃歌",
+  "artist": "和ぬか_sub",
+  "collection": "【歌切】[2026-03-01]流しめ歌枠1[X0gLxVt9sDg] 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZAP3z9EX4?p=1",
+  "source": "ray.js"
+},
+    {
+  "title": "月光",
+  "artist": "はるまきごはん",
+  "collection": "【歌切】[2026-03-01]流しめ歌枠1[X0gLxVt9sDg] 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZAP3z9EX4?p=2",
+  "source": "ray.js"
+},
+    {
+  "title": "シニカル・シニカル",
+  "artist": "吐息 feat. Such",
+  "collection": "【歌切】[2026-03-01]流しめ歌枠1[X0gLxVt9sDg] 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZAP3z9EX4?p=3",
+  "source": "ray.js"
+},
+    {
+  "title": "Blood",
+  "artist": "ASIAN KUNG-FU GENERATION",
+  "collection": "【歌切】[2026-03-01]流しめ歌枠1[X0gLxVt9sDg] 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZAP3z9EX4?p=4",
+  "source": "ray.js"
+},
+    {
+  "title": "ラヴィ",
+  "artist": "すりぃ feat. 鏡音レン",
+  "collection": "【歌切】[2026-03-01]流しめ歌枠1[X0gLxVt9sDg] 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZAP3z9EX4?p=5",
+  "source": "ray.js"
+},
+    {
+  "title": "ドーナツホール",
+  "artist": "ハチ feat. GUMI",
+  "collection": "【歌切】[2026-03-01]流しめ歌枠1[X0gLxVt9sDg] 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZAP3z9EX4?p=6",
+  "source": "ray.js"
+},
+    {
+  "title": "恋愛フィロソフィア",
+  "artist": "黒うさP feat.初音ミク",
+  "collection": "【歌切】[2026-03-01]流しめ歌枠1[X0gLxVt9sDg] 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZAP3z9EX4?p=7",
+  "source": "ray.js"
+},
+    {
+  "title": "雨き声残響",
+  "artist": "Orangestar",
+  "collection": "【歌切】[2026-03-01]流しめ歌枠1[X0gLxVt9sDg] 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZAP3z9EX4?p=8",
+  "source": "ray.js"
+},
+    {
+  "title": "paranoia",
+  "artist": "めざめP feat.初音ミク",
+  "collection": "【歌切】[2026-03-01]流しめ歌枠1[X0gLxVt9sDg] 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZAP3z9EX4?p=9",
+  "source": "ray.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "supercell feat.初音ミク",
+  "collection": "【歌切】[2026-03-01]流しめ歌枠1[X0gLxVt9sDg] 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZAP3z9EX4?p=10",
+  "source": "ray.js"
+},
+    {
+  "title": "ブルーミングガール",
+  "artist": "かいりきベア feat. 初音ミク",
+  "collection": "【歌切】[2026-03-01]流しめ歌枠1[X0gLxVt9sDg] 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZAP3z9EX4?p=11",
+  "source": "ray.js"
+},
+    {
+  "title": "アバウト",
+  "artist": "ヤバス&初音ミク",
+  "collection": "【歌切】[2026-03-01]流しめ歌枠1[X0gLxVt9sDg] 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZAP3z9EX4?p=12",
+  "source": "ray.js"
+},
+    {
+  "title": "Shadow Shadow",
+  "artist": "Azari feat. v flower",
+  "collection": "【歌切】[2026-03-01]流しめ歌枠1[X0gLxVt9sDg] 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZAP3z9EX4?p=13",
+  "source": "ray.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-03-01]流しめ歌枠1[X0gLxVt9sDg] 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZAP3z9EX4?p=14",
+  "source": "ray.js"
+},
+    {
+  "title": "再見ロマネスク",
+  "artist": "VALIS feat. 初音ミク",
+  "collection": "【歌切】[2026-03-01]流しめ歌枠1[X0gLxVt9sDg] 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZAP3z9EX4?p=15",
+  "source": "ray.js"
+},
+    {
+  "title": "アイデンティティ",
+  "artist": "Kanaria feat. GUMI×初音ミク",
+  "collection": "【歌切】[2026-03-01]流しめ歌枠1[X0gLxVt9sDg] 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZAP3z9EX4?p=16",
+  "source": "ray.js"
+},
+    {
+  "title": "FOCUS",
+  "artist": "KIRA feat. GUMI",
+  "collection": "【歌切】[2026-03-01]流しめ歌枠1[X0gLxVt9sDg] 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZAP3z9EX4?p=17",
+  "source": "ray.js"
+},
+    {
+  "title": "記憶の水槽",
+  "artist": "キタニタツヤ",
+  "collection": "【歌切】[2026-03-01]流しめ歌枠1[X0gLxVt9sDg] 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZAP3z9EX4?p=18",
+  "source": "ray.js"
+},
+    {
+  "title": "夏の半券",
+  "artist": "みきとP",
+  "collection": "【歌切】[2026-03-01]流しめ歌枠1[X0gLxVt9sDg] 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZAP3z9EX4?p=19",
+  "source": "ray.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "【歌切】[2026-03-01]流しめ歌枠1[X0gLxVt9sDg] 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZAP3z9EX4?p=20",
+  "source": "ray.js"
+},
+    {
+  "title": "夕立のりぼん",
+  "artist": "みきとP",
+  "collection": "【歌切】[2026-03-01]流しめ歌枠1[X0gLxVt9sDg] 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZAP3z9EX4?p=21",
+  "source": "ray.js"
+},
+    {
+  "title": "お茶ガール",
+  "artist": "コウ feat.初音ミク",
+  "collection": "【歌切】[2026-03-01]流しめ歌枠1[X0gLxVt9sDg] 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZAP3z9EX4?p=22",
+  "source": "ray.js"
+},
+    {
+  "title": "小さきもの",
+  "artist": "林明日香",
+  "collection": "【歌切】[2026-03-01]流しめ歌枠1[X0gLxVt9sDg] 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZAP3z9EX4?p=23",
+  "source": "ray.js"
+},
+    {
+  "title": "magnet",
+  "artist": "minato feat. 初音ミク & 巡音ルカ",
+  "collection": "【歌切】[2026-03-01]流しめ歌枠1[X0gLxVt9sDg] 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZAP3z9EX4?p=24",
+  "source": "ray.js"
+},
+    {
+  "title": "エリカの憂い",
+  "artist": "ヰ世界情緒",
+  "collection": "【歌切】[2026-03-01]流しめ歌枠1[X0gLxVt9sDg] 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZAP3z9EX4?p=25",
+  "source": "ray.js"
+},
+    {
+  "title": "Before the Dawn",
+  "artist": "milet",
+  "collection": "【歌切】[2026-03-01]流しめ歌枠1[X0gLxVt9sDg] 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZAP3z9EX4?p=26",
+  "source": "ray.js"
+},
+    {
+  "title": "イレヴンス",
+  "artist": "ポリスピカデリー feat. 初音ミク",
+  "collection": "【歌切】[2026-03-01]流しめ歌枠1[X0gLxVt9sDg] 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZAP3z9EX4?p=27",
   "source": "ray.js"
 }
 );
