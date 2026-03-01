@@ -24,14 +24,23 @@ body{font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-ser
 .function-tab:hover{border-color:#00a1d6;color:#00a1d6}
 .function-tab.active{background:#00a1d6;color:white;border-color:#00a1d6}
 
+/* 查重模式切换（新增） */
+.check-mode-tabs{display:flex;gap:8px;margin-bottom:16px;justify-content:center}
+.check-mode-tab{padding:6px 16px;background:white;border:1px solid #ddd;border-radius:6px;cursor:pointer;font-size:13px;transition:all 0.2s}
+.check-mode-tab:hover{border-color:#00a1d6;color:#00a1d6}
+.check-mode-tab.active{background:#00a1d6;color:white;border-color:#00a1d6}
+
 /* 搜索栏（BV查重） */
 .search-box{display:flex;gap:12px;margin-bottom:24px;flex-wrap:wrap}
 #bvInput{flex:1;min-width:280px;padding:14px 16px;border:1px solid #ddd;border-radius:8px;font-size:14px;outline:none;transition:border 0.2s}
 #bvInput:focus{border-color:#00a1d6;box-shadow:0 0 0 3px rgba(0,161,214,0.1)}
+/* 歌名-歌手输入框（新增） */
+#titleArtistInput{flex:1;min-width:280px;padding:14px 16px;border:1px solid #ddd;border-radius:8px;font-size:14px;outline:none;transition:border 0.2s;display:none}
+#titleArtistInput:focus{border-color:#00a1d6;box-shadow:0 0 0 3px rgba(0,161,214,0.1)}
 #searchBtn{padding:0 24px;background:#00a1d6;color:white;border:0;border-radius:8px;cursor:pointer;font-size:14px;font-weight:500;transition:background 0.2s}
 #searchBtn:hover{background:#008fb3}
 
-/* 歌名查询区（新增） */
+/* 歌名查询区（原有） */
 .title-search-area{margin-bottom:24px;display:none}
 .title-search-area.active{display:block}
 #titleInput{width:100%;min-height:120px;padding:14px 16px;border:1px solid #ddd;border-radius:8px;font-size:14px;outline:none;transition:border 0.2s;margin-bottom:16px;resize:vertical;font-family:inherit}
@@ -42,7 +51,7 @@ body{font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-ser
 #validateBtn{padding:8px 24px;background:#28a745;color:white;border:0;border-radius:8px;cursor:pointer;font-size:14px;font-weight:500;margin-left:8px}
 #validateBtn:hover{background:#218838}
 
-/* 歌手选择区（新增） */
+/* 歌手选择区（原有） */
 .artist-select-area{margin-bottom:24px;display:none}
 .artist-select-area.active{display:block}
 .select-item{background:white;border-radius:8px;padding:16px;margin-bottom:12px;box-shadow:0 2px 4px rgba(0,0,0,0.04)}
@@ -61,7 +70,7 @@ body{font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-ser
 .source-label{font-size:11px;color:#6c757d;margin-left:6px}
 .no-result{color:#6c757d;font-size:13px;padding:4px 0}
 
-/* 排列组合区（新增） */
+/* 排列组合区（原有） */
 .combination-area{margin-bottom:24px;display:none;padding:16px;background:white;border-radius:8px;box-shadow:0 2px 4px rgba(0,0,0,0.04)}
 .combination-area.active{display:block}
 .combination-area h4{margin-bottom:12px;color:#2c3e50;font-size:15px}
@@ -73,7 +82,7 @@ body{font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-ser
 .generate-combination-btn{padding:6px 16px;background:#6f42c1;color:white;border:0;border-radius:6px;cursor:pointer;font-size:13px}
 .generate-combination-btn:hover{background:#5a32a3}
 
-/* 结果生成区（新增） */
+/* 结果生成区（原有） */
 .result-generate-area{margin-bottom:24px;display:none}
 .result-generate-area.active{display:block}
 #resultText{width:100%;min-height:150px;padding:14px 16px;border:1px solid #ddd;border-radius:8px;font-size:14px;outline:none;transition:border 0.2s;margin-bottom:16px;resize:vertical;font-family:inherit;background:#f8f9fa}
@@ -152,15 +161,22 @@ body{font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-ser
 
   <!-- 功能标签切换 -->
   <div class="function-tabs">
-    <div class="function-tab active" id="bvCheckTab">BV号查重</div>
+    <div class="function-tab active" id="bvCheckTab">BV号/歌名查重</div>
     <div class="function-tab" id="titleSearchTab">歌名-歌手查询/校验</div>
   </div>
 
-  <!-- BV号查重功能区 -->
+  <!-- BV号/歌名查重功能区 -->
   <div id="bvCheckArea">
+    <!-- 查重模式切换（新增） -->
+    <div class="check-mode-tabs">
+      <div class="check-mode-tab active" id="bvModeTab">BV号模式</div>
+      <div class="check-mode-tab" id="titleArtistModeTab">歌名-歌手模式</div>
+    </div>
+    
     <!-- 搜索栏 -->
     <div class="search-box">
       <input id="bvInput" placeholder="输入BV号或B站视频链接（例如：BV1pDfaByERN）" type="text">
+      <input id="titleArtistInput" placeholder="输入歌名-歌手格式（例如：絶頂讃歌 - 和ぬか），支持批量每行一个" type="text">
       <button id="searchBtn">开始分析</button>
     </div>
 
@@ -169,7 +185,7 @@ body{font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-ser
 
     <!-- 筛选栏 + 统计 -->
     <div class="filter-bar">
-      <div class="stat-info" id="statInfo">请输入BV号开始分析</div>
+      <div class="stat-info" id="statInfo">请输入BV号或歌名-歌手开始分析</div>
       <div>
         <button class="filter-btn" id="showAllBtn">显示全部歌曲</button>
         <button class="filter-btn" id="showUniqueBtn">只看未重复歌曲</button>
@@ -193,7 +209,7 @@ body{font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-ser
     <div class="result-list" id="resultList"></div>
   </div>
 
-  <!-- 歌名-歌手查询功能区（新增） -->
+  <!-- 歌名-歌手查询功能区（原有） -->
   <div id="titleSearchArea" class="title-search-area">
     <!-- 歌名输入框 -->
     <textarea id="titleInput" placeholder="支持两种输入格式：
@@ -244,6 +260,7 @@ let fileList = [];          // JS文件列表
 let fileAlias = {};         // 文件别名映射
 let currentTab = 'all';     // 当前选中的来源标签
 let targetBvSongs = [];     // 输入BV对应的所有歌曲（全库筛选）
+let targetTitleArtistSongs = []; // 输入歌名-歌手对应的歌曲
 let bvToSourceMap = new Map(); // BV号到来源的映射
 let analysisResult = [];    // 最新分析结果
 let showOnlyUnique = false; // 是否只显示未重复歌曲
@@ -252,6 +269,7 @@ let selectedArtists = {};   // 选中的歌手映射 {歌名: 歌手}
 let inputFormatType = '';   // 输入格式类型：pure(纯歌名)/full(完整格式)
 let allCombinations = [];   // 所有可能的排列组合
 let selectedCombination = ''; // 选中的排列组合
+let currentCheckMode = 'bv'; // 当前查重模式：bv / titleArtist
 
 // ================= 工具函数 =================
 // 提取BV号
@@ -288,6 +306,33 @@ function switchFunctionTab(tabId) {
   document.getElementById('titleSearchArea').classList.toggle('active', tabId === 'titleSearchTab');
 }
 
+// 切换查重模式（新增）
+function switchCheckMode(mode) {
+  currentCheckMode = mode;
+  
+  // 切换模式标签样式
+  document.getElementById('bvModeTab').classList.toggle('active', mode === 'bv');
+  document.getElementById('titleArtistModeTab').classList.toggle('active', mode === 'titleArtist');
+  
+  // 切换输入框显示
+  document.getElementById('bvInput').style.display = mode === 'bv' ? 'block' : 'none';
+  document.getElementById('titleArtistInput').style.display = mode === 'titleArtist' ? 'block' : 'none';
+  
+  // 重置输入框提示文字
+  if (mode === 'titleArtist') {
+    document.getElementById('titleArtistInput').placeholder = '输入歌名-歌手格式（例如：絶頂讃歌 - 和ぬか），支持批量每行一个';
+  }
+  
+  // 清空结果
+  analysisResult = [];
+  targetBvSongs = [];
+  targetTitleArtistSongs = [];
+  document.getElementById('statInfo').textContent = mode === 'bv' 
+    ? '请输入BV号开始分析' 
+    : '请输入歌名-歌手开始分析';
+  document.getElementById('resultList').innerHTML = `<div style="text-align:center;padding:20px;color:#6c757d;">请输入${mode === 'bv' ? 'BV号' : '歌名-歌手'}开始分析</div>`;
+}
+
 // 切换显示模式（全部/仅未重复）
 function toggleShowMode(onlyUnique) {
   showOnlyUnique = onlyUnique;
@@ -298,7 +343,36 @@ function toggleShowMode(onlyUnique) {
   renderSongList();
 }
 
-// 解析输入内容（支持两种格式）
+// 解析歌名-歌手输入（新增）
+function parseTitleArtistInput(input) {
+  if (!input.trim()) return [];
+  
+  const lines = input.trim().split('\n').map(line => line.trim()).filter(line => line);
+  const result = [];
+  
+  const regex = /(.+?)\s*-\s*(.+)/;
+  lines.forEach(line => {
+    const match = line.match(regex);
+    if (match) {
+      result.push({
+        title: match[1].trim(),
+        artist: match[2].trim(),
+        originalLine: line
+      });
+    } else {
+      // 如果没有匹配到歌手，只按歌名查询
+      result.push({
+        title: line.trim(),
+        artist: '',
+        originalLine: line
+      });
+    }
+  });
+  
+  return result;
+}
+
+// 解析输入内容（原有）
 function parseInputContent() {
   const input = document.getElementById('titleInput').value.trim();
   if (!input) {
@@ -764,7 +838,7 @@ function renderSongList() {
   container.innerHTML = '';
 
   if (analysisResult.length === 0) {
-    container.innerHTML = '<div style="text-align:center;padding:20px;color:#6c757d;">暂无分析结果，请输入BV号开始分析</div>';
+    container.innerHTML = `<div style="text-align:center;padding:20px;color:#6c757d;">暂无分析结果，请输入${currentCheckMode === 'bv' ? 'BV号' : '歌名-歌手'}开始分析</div>`;
     return;
   }
 
@@ -903,38 +977,93 @@ function renderSongList() {
 function switchSourceTab(tab) {
   currentTab = tab;
   renderSourceTabs();
-  // 重新分析（带着之前的BV歌曲列表）
-  if (targetBvSongs.length > 0) {
+  // 重新分析（根据当前模式）
+  if (currentCheckMode === 'bv' && targetBvSongs.length > 0) {
+    analyzeDuplicates();
+  } else if (currentCheckMode === 'titleArtist' && targetTitleArtistSongs.length > 0) {
     analyzeDuplicates();
   }
 }
 
-// 搜索BV号（全库筛选对应歌曲）
-function searchBV() {
-  const input = document.getElementById('bvInput').value.trim();
-  const bv = extractBV(input);
-  
-  if (!bv) {
-    alert('请输入有效的BV号或B站视频链接！');
-    return;
-  }
-
+// 搜索（支持BV号和歌名-歌手模式）
+function search() {
   // 重置筛选状态
   toggleShowMode(false);
-
-  // 全库筛选该BV对应的所有歌曲
-  targetBvSongs = allSongs.filter(song => extractBV(song.link) === bv);
   
-  if (targetBvSongs.length === 0) {
-    document.getElementById('statInfo').textContent = `未找到BV号「${bv}」的相关歌曲`;
-    document.getElementById('resultList').innerHTML = `<div style="text-align:center;padding:20px;color:#6c757d;">未找到BV号「${bv}」的相关歌曲</div>`;
-    analysisResult = [];
-    return;
-  }
+  if (currentCheckMode === 'bv') {
+    // BV号模式
+    const input = document.getElementById('bvInput').value.trim();
+    const bv = extractBV(input);
+    
+    if (!bv) {
+      alert('请输入有效的BV号或B站视频链接！');
+      return;
+    }
 
-  // 自动切换到该BV的主要来源标签
-  const mainSource = targetBvSongs[0].source;
-  switchSourceTab(mainSource);
+    // 全库筛选该BV对应的所有歌曲
+    targetBvSongs = allSongs.filter(song => extractBV(song.link) === bv);
+    targetTitleArtistSongs = [];
+    
+    if (targetBvSongs.length === 0) {
+      document.getElementById('statInfo').textContent = `未找到BV号「${bv}」的相关歌曲`;
+      document.getElementById('resultList').innerHTML = `<div style="text-align:center;padding:20px;color:#6c757d;">未找到BV号「${bv}」的相关歌曲</div>`;
+      analysisResult = [];
+      return;
+    }
+
+    // 自动切换到该BV的主要来源标签
+    const mainSource = targetBvSongs[0].source;
+    switchSourceTab(mainSource);
+    
+  } else {
+    // 歌名-歌手模式
+    const input = document.getElementById('titleArtistInput').value.trim();
+    if (!input) {
+      alert('请输入歌名-歌手格式的内容！');
+      return;
+    }
+    
+    const parsedItems = parseTitleArtistInput(input);
+    if (parsedItems.length === 0) {
+      alert('输入格式不正确，请使用 歌名 - 歌手 格式！');
+      return;
+    }
+    
+    // 全库筛选匹配的歌曲
+    targetTitleArtistSongs = [];
+    parsedItems.forEach(item => {
+      const lowerTitle = item.title.toLowerCase().trim();
+      let matchedSongs = allSongs.filter(song => 
+        (song.title || '').toLowerCase().trim() === lowerTitle
+      );
+      
+      // 如果指定了歌手，进一步筛选
+      if (item.artist) {
+        const lowerArtist = item.artist.toLowerCase().trim();
+        matchedSongs = matchedSongs.filter(song => 
+          (song.artist || '').toLowerCase().trim() === lowerArtist
+        );
+      }
+      
+      targetTitleArtistSongs = targetTitleArtistSongs.concat(matchedSongs);
+    });
+    
+    targetBvSongs = [];
+    
+    if (targetTitleArtistSongs.length === 0) {
+      document.getElementById('statInfo').textContent = `未找到匹配的歌曲`;
+      document.getElementById('resultList').innerHTML = `<div style="text-align:center;padding:20px;color:#6c757d;">未找到匹配的歌曲</div>`;
+      analysisResult = [];
+      return;
+    }
+    
+    // 自动切换到第一个匹配歌曲的来源
+    const mainSource = targetTitleArtistSongs[0].source;
+    switchSourceTab(mainSource);
+  }
+  
+  // 执行重复分析
+  analyzeDuplicates();
 }
 
 // 分析重复（核心：在当前标签库中查重）
@@ -944,8 +1073,11 @@ function analyzeDuplicates() {
     ? allSongs 
     : allSongs.filter(song => song.source === currentTab);
 
+  // 确定分析的目标歌曲列表
+  const targetSongs = currentCheckMode === 'bv' ? targetBvSongs : targetTitleArtistSongs;
+
   // 分析每首目标歌曲的重复情况
-  analysisResult = targetBvSongs.map(song => {
+  analysisResult = targetSongs.map(song => {
     // 按标题（忽略大小写）匹配重复项
     const songTitle = (song.title || '').trim().toLowerCase();
     const dupList = currentPool.filter(item => 
@@ -961,13 +1093,13 @@ function analyzeDuplicates() {
   });
 
   // 更新统计信息
-  const total = targetBvSongs.length;
+  const total = targetSongs.length;
   const dupCount = analysisResult.filter(item => item.isDup).length;
   const uniqueCount = total - dupCount;
   const currentSourceName = getSourceAlias(currentTab); // 使用统一的来源别名
   
   document.getElementById('statInfo').textContent = 
-    `分析BV歌曲：${total} 首 | 当前库：${currentSourceName} | 重复：${dupCount} 首 | 非重复：${uniqueCount} 首`;
+    `分析${currentCheckMode === 'bv' ? 'BV' : '歌名-歌手'}歌曲：${total} 首 | 当前库：${currentSourceName} | 重复：${dupCount} 首 | 非重复：${uniqueCount} 首`;
 
   // 渲染结果列表
   renderSongList();
@@ -1054,11 +1186,20 @@ function init() {
   document.getElementById('bvCheckTab').addEventListener('click', () => switchFunctionTab('bvCheckTab'));
   document.getElementById('titleSearchTab').addEventListener('click', () => switchFunctionTab('titleSearchTab'));
 
-  // 绑定BV查重相关事件
-  document.getElementById('searchBtn').addEventListener('click', searchBV);
+  // 绑定查重模式切换事件（新增）
+  document.getElementById('bvModeTab').addEventListener('click', () => switchCheckMode('bv'));
+  document.getElementById('titleArtistModeTab').addEventListener('click', () => switchCheckMode('titleArtist'));
+
+  // 绑定搜索事件（统一处理）
+  document.getElementById('searchBtn').addEventListener('click', search);
   document.getElementById('bvInput').addEventListener('keydown', e => {
-    if (e.key === 'Enter') searchBV();
+    if (e.key === 'Enter' && currentCheckMode === 'bv') search();
   });
+  document.getElementById('titleArtistInput').addEventListener('keydown', e => {
+    if (e.key === 'Enter' && currentCheckMode === 'titleArtist') search();
+  });
+
+  // 绑定筛选按钮事件
   document.getElementById('showAllBtn').addEventListener('click', () => toggleShowMode(false));
   document.getElementById('showUniqueBtn').addEventListener('click', () => toggleShowMode(true));
   document.getElementById('copyBtn').addEventListener('click', copyResults);
