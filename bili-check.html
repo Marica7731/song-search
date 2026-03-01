@@ -54,6 +54,9 @@ body{font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-ser
 .artist-option:hover{border-color:#00a1d6;color:#00a1d6}
 .artist-option.selected{background:#00a1d6;color:white;border-color:#00a1d6}
 .artist-option.matched{background:#e8f5e9;border-color:#28a745;color:#28a745}
+/* 新增：错误答案样式 */
+.artist-option.error{background:#fdf2f8;border:1px solid #dc3545;color:#dc3545;font-weight:500}
+.artist-option.error:hover{background:#fef0f5;border-color:#c82333;color:#c82333}
 .no-result{color:#6c757d;font-size:13px;padding:4px 0}
 
 /* 排列组合区（新增） */
@@ -324,16 +327,23 @@ function parseInputContent() {
   return result;
 }
 
-// 生成所有可能的排列组合
+// 生成所有可能的排列组合（包含错误答案）
 function generateAllCombinations() {
   if (titleSearchResults.length === 0) {
     alert('请先查询歌手信息！');
     return;
   }
   
-  // 获取每首歌的可选歌手列表
+  // 获取每首歌的可选歌手列表（包含错误答案）
   const optionsList = titleSearchResults.map(item => {
-    return item.artists.length > 0 ? item.artists : [''];
+    let options = [];
+    // 如果有输入的错误歌手，先加入
+    if (item.inputArtist && !item.isArtistValid && item.inputArtist.trim()) {
+      options.push(item.inputArtist);
+    }
+    // 再加入正确的歌手列表
+    options = options.concat(item.artists.length > 0 ? item.artists : ['']);
+    return options;
   });
   
   // 递归生成笛卡尔积（排列组合）
@@ -447,10 +457,10 @@ function searchAndValidateArtists() {
       originalLine: item.line
     });
     
-    // 默认选中：如果是完整格式且歌手有效，选中输入的歌手；否则选第一个
+    // 默认选中：如果是完整格式，优先选中输入的歌手（即使是错误的），否则选第一个正确歌手
     let defaultArtist = '';
-    if (inputFormatType === 'full' && isArtistValid) {
-      defaultArtist = inputArtist;
+    if (inputFormatType === 'full' && inputArtist.trim()) {
+      defaultArtist = inputArtist; // 优先选中输入的歌手（错误答案也保留）
     } else if (artists.length > 0) {
       defaultArtist = artists[0];
     }
@@ -458,7 +468,7 @@ function searchAndValidateArtists() {
     selectedArtists[title] = defaultArtist;
   });
   
-  // 渲染歌手选择界面（带校验结果）
+  // 渲染歌手选择界面（带校验结果+错误答案）
   renderArtistSelectWithValidation();
   
   // 显示歌手选择区和结果生成区
@@ -469,7 +479,7 @@ function searchAndValidateArtists() {
   generateResultText();
 }
 
-// 渲染歌手选择界面（带校验结果）
+// 渲染歌手选择界面（带校验结果+错误答案）
 function renderArtistSelectWithValidation() {
   const container = document.getElementById('artistSelectContainer');
   container.innerHTML = '';
@@ -484,7 +494,7 @@ function renderArtistSelectWithValidation() {
       if (item.hasResult) {
         titleHtml += item.isArtistValid 
           ? `<span class="valid-tag">✅ 歌手 "${item.inputArtist}" 验证通过</span>`
-          : `<span class="invalid-tag">❌ 歌手 "${item.inputArtist}" 验证失败，正确歌手：${item.artists.join(' / ')}</span>`;
+          : `<span class="invalid-tag">❌ 歌手 "${item.inputArtist}" 与库中不符，库中歌手：${item.artists.join(' / ')}</span>`;
       } else {
         titleHtml += `<span class="invalid-tag">❌ 未找到该歌曲信息</span>`;
       }
@@ -497,15 +507,42 @@ function renderArtistSelectWithValidation() {
     optionsDiv.className = 'artist-options';
     
     if (item.hasResult) {
-      // 生成歌手选项按钮
+      // 1. 如果有输入的错误歌手，先显示（标红）
+      if (inputFormatType === 'full' && item.inputArtist.trim() && !item.isArtistValid) {
+        const errorBtn = document.createElement('div');
+        errorBtn.className = `artist-option error ${selectedArtists[item.title] === item.inputArtist ? 'selected' : ''}`;
+        errorBtn.textContent = item.inputArtist + ' (输入值)';
+        errorBtn.onclick = () => {
+          // 更新选中的歌手
+          selectedArtists[item.title] = item.inputArtist;
+          // 更新按钮样式
+          optionsDiv.querySelectorAll('.artist-option').forEach(btn => {
+            btn.classList.remove('selected');
+          });
+          errorBtn.classList.add('selected');
+          // 重新生成结果
+          generateResultText();
+        };
+        optionsDiv.appendChild(errorBtn);
+        
+        // 添加分隔符
+        const divider = document.createElement('div');
+        divider.style.width = '100%';
+        divider.style.height = '1px';
+        divider.style.backgroundColor = '#eee';
+        divider.style.margin = '4px 0';
+        optionsDiv.appendChild(divider);
+      }
+      
+      // 2. 显示库中的正确歌手列表
       item.artists.forEach(artist => {
         const optionBtn = document.createElement('div');
-        // 标记匹配的歌手（输入的歌手）
+        // 标记匹配的歌手（输入的正确歌手）
         const isMatched = inputFormatType === 'full' && artist.toLowerCase() === item.inputArtist.toLowerCase();
         optionBtn.className = `artist-option 
           ${selectedArtists[item.title] === artist ? 'selected' : ''}
           ${isMatched ? 'matched' : ''}`;
-        optionBtn.textContent = artist;
+        optionBtn.textContent = artist + ' (库中值)';
         optionBtn.onclick = () => {
           // 更新选中的歌手
           selectedArtists[item.title] = artist;
@@ -520,11 +557,27 @@ function renderArtistSelectWithValidation() {
         optionsDiv.appendChild(optionBtn);
       });
     } else {
-      // 无匹配结果
-      const noResult = document.createElement('div');
-      noResult.className = 'no-result';
-      noResult.textContent = '❌ 未找到匹配的歌曲信息';
-      optionsDiv.appendChild(noResult);
+      // 无匹配结果，但仍显示输入的歌手（如果有）
+      if (inputFormatType === 'full' && item.inputArtist.trim()) {
+        const errorBtn = document.createElement('div');
+        errorBtn.className = `artist-option error ${selectedArtists[item.title] === item.inputArtist ? 'selected' : ''}`;
+        errorBtn.textContent = item.inputArtist + ' (输入值)';
+        errorBtn.onclick = () => {
+          selectedArtists[item.title] = item.inputArtist;
+          optionsDiv.querySelectorAll('.artist-option').forEach(btn => {
+            btn.classList.remove('selected');
+          });
+          errorBtn.classList.add('selected');
+          generateResultText();
+        };
+        optionsDiv.appendChild(errorBtn);
+      } else {
+        // 无匹配结果
+        const noResult = document.createElement('div');
+        noResult.className = 'no-result';
+        noResult.textContent = '❌ 未找到匹配的歌曲信息';
+        optionsDiv.appendChild(noResult);
+      }
     }
     
     selectItem.appendChild(optionsDiv);
@@ -540,7 +593,7 @@ function generateResultText() {
     return;
   }
   
-  // 否则使用手动选择的歌手
+  // 否则使用手动选择的歌手（包含错误答案）
   let result = '';
   
   titleSearchResults.forEach((item, index) => {
