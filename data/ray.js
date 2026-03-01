@@ -1,6 +1,6 @@
 // 來-Ray- - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1mJZwB8EVa
-// 生成时间: 3/1/2026, 5:17:39 PM
+// 生成时间: 3/1/2026, 8:17:54 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -855,7 +855,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Blood",
-  "artist": "ASIAN KUNG-FU GENERATION",
+  "artist": "Azari",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mJZwB8EVa?p=107",
@@ -2391,7 +2391,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アバウト",
-  "artist": "夕凪機",
+  "artist": "ヤバス&初音ミク",
   "collection": "來-Ray-  歌切 2025-11-08 ~  2026-01-18",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wUZcBQEBo?p=111",

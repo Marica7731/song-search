@@ -1,6 +1,6 @@
 // Figaro - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1HRfuBCEXN
-// 生成时间: 3/1/2026, 5:16:27 PM
+// 生成时间: 3/1/2026, 8:16:52 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -375,7 +375,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ルーマー",
-  "artist": "Police Piccadilly",
+  "artist": "ポリスピカデリー",
   "collection": "【240301 17竖屏】元気に縦型歌枠！【Figaro】01. ルーマー",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZS421c7BB?p=1",
@@ -383,7 +383,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "言って",
-  "artist": "Yorushika",
+  "artist": "ヨルシカ",
   "collection": "【240301 17竖屏】元気に縦型歌枠！【Figaro】01. ルーマー",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZS421c7BB?p=2",
@@ -399,7 +399,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Overdose",
-  "artist": "natori",
+  "artist": "なとり(natori)",
   "collection": "【240301 17竖屏】元気に縦型歌枠！【Figaro】01. ルーマー",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZS421c7BB?p=4",
@@ -407,7 +407,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "絶頂讃歌",
-  "artist": "Wanuka",
+  "artist": "和ぬか",
   "collection": "【240301 17竖屏】元気に縦型歌枠！【Figaro】01. ルーマー",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZS421c7BB?p=5",
@@ -415,7 +415,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "マーシャル・マキシマイザー",
-  "artist": "Hiiragi Magnetite",
+  "artist": "柊マグネタイト",
   "collection": "【240301 17竖屏】元気に縦型歌枠！【Figaro】01. ルーマー",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZS421c7BB?p=6",
@@ -423,7 +423,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "幾望の月",
-  "artist": "Nakyamurya",
+  "artist": "なきゃむりゃ",
   "collection": "【240301 17竖屏】元気に縦型歌枠！【Figaro】01. ルーマー",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZS421c7BB?p=7",
@@ -431,7 +431,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ダーリン",
-  "artist": "Balloon",
+  "artist": "バルーン",
   "collection": "【240301 17竖屏】元気に縦型歌枠！【Figaro】01. ルーマー",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZS421c7BB?p=8",
@@ -439,7 +439,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "フリィダム ロリィタ",
-  "artist": "Nejishiki",
+  "artist": "ねじ式、結月ゆかり",
   "collection": "【240301 17竖屏】元気に縦型歌枠！【Figaro】01. ルーマー",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZS421c7BB?p=9",
@@ -495,7 +495,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "フォニイ",
-  "artist": "Tsumiki",
+  "artist": "ツミキ feat. 花譜",
   "collection": "【240301 17竖屏】元気に縦型歌枠！【Figaro】01. ルーマー",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZS421c7BB?p=16",
@@ -503,7 +503,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Stellar Stellar",
-  "artist": "Hoshimachi Suisei",
+  "artist": "ホロライブ／星街すいせい",
   "collection": "【240301 17竖屏】元気に縦型歌枠！【Figaro】01. ルーマー",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZS421c7BB?p=17",
