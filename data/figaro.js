@@ -1,6 +1,6 @@
 // Figaro - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1HRfuBCEXN
-// 生成时间: 3/1/2026, 8:16:52 PM
+// 生成时间: 3/1/2026, 9:15:19 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -27035,6 +27035,150 @@ window.SONG_DATA.push(
   "collection": "【💐Figaro歌切】[2026-02-25]元気な曲も穏やかな曲も！ [miMZY1Sm1Cg]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pDfaByERN?p=19",
+  "source": "figaro.js"
+},
+    {
+  "title": "私とワルツを",
+  "artist": "鬼束ちひろ_sub",
+  "collection": "【💐歌切】#258 [2026-03-01]睡眠導入歌枠✨安眠前のリラックスタイムにどうぞ🌙[5BIJeKkf6r8]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ARPgzcEye?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "月のしずく",
+  "artist": "柴咲コウ",
+  "collection": "【💐歌切】#258 [2026-03-01]睡眠導入歌枠✨安眠前のリラックスタイムにどうぞ🌙[5BIJeKkf6r8]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ARPgzcEye?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "君はロックを聴かない",
+  "artist": "あいみょん",
+  "collection": "【💐歌切】#258 [2026-03-01]睡眠導入歌枠✨安眠前のリラックスタイムにどうぞ🌙[5BIJeKkf6r8]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ARPgzcEye?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "マリーゴールド",
+  "artist": "あいみょん",
+  "collection": "【💐歌切】#258 [2026-03-01]睡眠導入歌枠✨安眠前のリラックスタイムにどうぞ🌙[5BIJeKkf6r8]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ARPgzcEye?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "地獄先生",
+  "artist": "相対性理論",
+  "collection": "【💐歌切】#258 [2026-03-01]睡眠導入歌枠✨安眠前のリラックスタイムにどうぞ🌙[5BIJeKkf6r8]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ARPgzcEye?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "ヴィーナスとジーザス",
+  "artist": "やくしまるえつこ",
+  "collection": "【💐歌切】#258 [2026-03-01]睡眠導入歌枠✨安眠前のリラックスタイムにどうぞ🌙[5BIJeKkf6r8]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ARPgzcEye?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "【💐歌切】#258 [2026-03-01]睡眠導入歌枠✨安眠前のリラックスタイムにどうぞ🌙[5BIJeKkf6r8]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ARPgzcEye?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "テロメアの産声",
+  "artist": "Heavenz",
+  "collection": "【💐歌切】#258 [2026-03-01]睡眠導入歌枠✨安眠前のリラックスタイムにどうぞ🌙[5BIJeKkf6r8]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ARPgzcEye?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P",
+  "collection": "【💐歌切】#258 [2026-03-01]睡眠導入歌枠✨安眠前のリラックスタイムにどうぞ🌙[5BIJeKkf6r8]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ARPgzcEye?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【💐歌切】#258 [2026-03-01]睡眠導入歌枠✨安眠前のリラックスタイムにどうぞ🌙[5BIJeKkf6r8]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ARPgzcEye?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "スピラーレ",
+  "artist": "牧野由依",
+  "collection": "【💐歌切】#258 [2026-03-01]睡眠導入歌枠✨安眠前のリラックスタイムにどうぞ🌙[5BIJeKkf6r8]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ARPgzcEye?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "アクアテラリウム",
+  "artist": "やなぎなぎ",
+  "collection": "【💐歌切】#258 [2026-03-01]睡眠導入歌枠✨安眠前のリラックスタイムにどうぞ🌙[5BIJeKkf6r8]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ARPgzcEye?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "砂糖玉の月",
+  "artist": "やなぎなぎ",
+  "collection": "【💐歌切】#258 [2026-03-01]睡眠導入歌枠✨安眠前のリラックスタイムにどうぞ🌙[5BIJeKkf6r8]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ARPgzcEye?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "SAKURA",
+  "artist": "いきものがかり",
+  "collection": "【💐歌切】#258 [2026-03-01]睡眠導入歌枠✨安眠前のリラックスタイムにどうぞ🌙[5BIJeKkf6r8]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ARPgzcEye?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "さくら（独唱）",
+  "artist": "森山直太朗",
+  "collection": "【💐歌切】#258 [2026-03-01]睡眠導入歌枠✨安眠前のリラックスタイムにどうぞ🌙[5BIJeKkf6r8]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ARPgzcEye?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "グレゴリオ",
+  "artist": "古川本舗",
+  "collection": "【💐歌切】#258 [2026-03-01]睡眠導入歌枠✨安眠前のリラックスタイムにどうぞ🌙[5BIJeKkf6r8]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ARPgzcEye?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "朝を呑む",
+  "artist": "バルーン",
+  "collection": "【💐歌切】#258 [2026-03-01]睡眠導入歌枠✨安眠前のリラックスタイムにどうぞ🌙[5BIJeKkf6r8]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ARPgzcEye?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【💐歌切】#258 [2026-03-01]睡眠導入歌枠✨安眠前のリラックスタイムにどうぞ🌙[5BIJeKkf6r8]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ARPgzcEye?p=18",
   "source": "figaro.js"
 }
 );
