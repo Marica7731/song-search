@@ -1134,6 +1134,7 @@ function search() {
 }
 
 // 分析重复（核心修改：保证输入X条输出X条结果）
+// 分析重复（核心修复：按输入行汇总结果，保证输入输出数量严格一致）
 function analyzeDuplicates() {
   // 筛选当前标签库的歌曲池
   const currentPool = currentTab === 'all' 
@@ -1144,7 +1145,7 @@ function analyzeDuplicates() {
   analysisResult = [];
 
   if (currentCheckMode === 'bv') {
-    // BV号模式分析逻辑（原有）
+    // BV号模式分析逻辑（原有，保持不变）
     const targetSongs = targetBvSongs;
 
     // 分析每首目标歌曲的重复情况
@@ -1163,14 +1164,14 @@ function analyzeDuplicates() {
       });
     });
   } else {
-    // 歌名-歌手模式分析逻辑（核心修改：保证输入输出数量一致）
+    // 歌名-歌手模式分析逻辑（核心修复：按输入行汇总）
     titleArtistInputItems.forEach(inputItem => {
       const lowerTitle = inputItem.title.toLowerCase().trim();
       const lowerArtist = inputItem.artist.toLowerCase().trim();
       
-      // 查找匹配的歌曲
+      // 查找当前库中匹配的所有歌曲
       let matchedSongs = currentPool.filter(song => 
-        (song.title || '').toLowerCase().trim() === lowerTitle
+        (song.title || '').trim().toLowerCase() === lowerTitle
       );
       
       // 如果指定了歌手，进一步筛选
@@ -1180,25 +1181,26 @@ function analyzeDuplicates() {
         );
       }
       
-      // 如果找到匹配歌曲，分析每首的重复情况
+      // 汇总该输入项的所有重复歌曲
+      const allDupList = currentPool.filter(item => 
+        (item.title || '').trim().toLowerCase() === lowerTitle &&
+        (inputItem.artist ? (item.artist || '').toLowerCase().trim() === lowerArtist : true)
+      );
+      
+      // 生成单行汇总结果（核心修复点）
       if (matchedSongs.length > 0) {
-        matchedSongs.forEach(song => {
-          const dupList = currentPool.filter(item => 
-            (item.title || '').trim().toLowerCase() === lowerTitle &&
-            (inputItem.artist ? (item.artist || '').toLowerCase().trim() === lowerArtist : true)
-          );
-          
-          analysisResult.push({
-            song: song,
-            dupList: dupList,
-            isDup: dupList.length > 1,
-            dupCount: dupList.length,
-            isNotFound: false,
-            originalInput: inputItem.originalLine // 保存原始输入
-          });
+        // 取第一个匹配的歌曲作为主展示项，dupList包含所有重复项
+        const mainSong = matchedSongs[0];
+        analysisResult.push({
+          song: mainSong,
+          dupList: allDupList,
+          isDup: allDupList.length > 1,
+          dupCount: allDupList.length,
+          isNotFound: false,
+          originalInput: inputItem.originalLine // 保存原始输入
         });
       } else {
-        // 未找到匹配歌曲，仍添加到结果中并标记
+        // 未找到匹配歌曲，添加单行未找到结果
         analysisResult.push({
           song: null,
           dupList: [],
