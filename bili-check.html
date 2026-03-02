@@ -34,8 +34,8 @@ body{font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-ser
 .search-box{display:flex;gap:12px;margin-bottom:24px;flex-wrap:wrap}
 #bvInput{flex:1;min-width:280px;padding:14px 16px;border:1px solid #ddd;border-radius:8px;font-size:14px;outline:none;transition:border 0.2s}
 #bvInput:focus{border-color:#00a1d6;box-shadow:0 0 0 3px rgba(0,161,214,0.1)}
-/* 歌名-歌手输入框（新增） */
-#titleArtistInput{flex:1;min-width:280px;padding:14px 16px;border:1px solid #ddd;border-radius:8px;font-size:14px;outline:none;transition:border 0.2s;display:none}
+/* 歌名-歌手输入框（修改：从input改为textarea，支持换行） */
+#titleArtistInput{flex:1;min-width:280px;min-height:120px;padding:14px 16px;border:1px solid #ddd;border-radius:8px;font-size:14px;outline:none;transition:border 0.2s;display:none;resize:vertical;font-family:inherit}
 #titleArtistInput:focus{border-color:#00a1d6;box-shadow:0 0 0 3px rgba(0,161,214,0.1)}
 #searchBtn{padding:0 24px;background:#00a1d6;color:white;border:0;border-radius:8px;cursor:pointer;font-size:14px;font-weight:500;transition:background 0.2s}
 #searchBtn:hover{background:#008fb3}
@@ -177,7 +177,8 @@ body{font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-ser
     <!-- 搜索栏 -->
     <div class="search-box">
       <input id="bvInput" placeholder="输入BV号或B站视频链接（例如：BV1pDfaByERN）" type="text">
-      <input id="titleArtistInput" placeholder="输入歌名-歌手格式（例如：絶頂讃歌 - 和ぬか），支持批量每行一个" type="text">
+      <!-- 修改：从input改为textarea，支持换行输入 -->
+      <textarea id="titleArtistInput" placeholder="输入歌名-歌手格式（例如：絶頂讃歌 - 和ぬか），支持批量每行一个" style="display: none;"></textarea>
       <button id="searchBtn">开始分析</button>
     </div>
 
@@ -1330,7 +1331,10 @@ function init() {
     if (e.key === 'Enter' && currentCheckMode === 'bv') search();
   });
   document.getElementById('titleArtistInput').addEventListener('keydown', e => {
-    if (e.key === 'Enter' && currentCheckMode === 'titleArtist') search();
+    if (e.key === 'Enter' && currentCheckMode === 'titleArtist' && !e.shiftKey) {
+      e.preventDefault(); // 阻止默认换行行为
+      search();
+    }
   });
 
   // 绑定筛选按钮事件
