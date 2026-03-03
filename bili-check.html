@@ -63,9 +63,11 @@ body{font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-ser
 .artist-option:hover{border-color:#00a1d6;color:#00a1d6}
 .artist-option.selected{background:#00a1d6;color:white;border-color:#00a1d6}
 .artist-option.matched{background:#e8f5e9;border-color:#28a745;color:#28a745}
-/* 新增：自动选择（来源最多）的样式 */
-.artist-option.auto-selected{background:#ff7e29;color:white;border-color:#ff7e29}
-.artist-option.auto-selected:hover{background:#e67020;border-color:#e67020}
+/* 修改：自动选择（来源最多）的样式 - 拆分为绿色和紫色 */
+.artist-option.auto-selected-green{background:#28a745;color:white;border-color:#28a745}
+.artist-option.auto-selected-green:hover{background:#218838;border-color:#218838}
+.artist-option.auto-selected-purple{background:#6f42c1;color:white;border-color:#6f42c1}
+.artist-option.auto-selected-purple:hover{background:#5a32a3;border-color:#5a32a3}
 /* 新增：错误答案样式 */
 .artist-option.error{background:#fdf2f8;border:1px solid #dc3545;color:#dc3545;font-weight:500}
 .artist-option.error:hover{background:#fef0f5;border-color:#c82333;color:#c82333}
@@ -660,7 +662,7 @@ function renderArtistSelectWithValidation() {
           selectedArtists[item.title] = item.inputArtist;
           // 更新按钮样式
           optionsDiv.querySelectorAll('.artist-option').forEach(btn => {
-            btn.classList.remove('selected', 'auto-selected');
+            btn.classList.remove('selected', 'auto-selected-green', 'auto-selected-purple');
           });
           errorBtn.classList.add('selected');
           // 重新生成结果
@@ -683,12 +685,19 @@ function renderArtistSelectWithValidation() {
         // 标记匹配的歌手（输入的正确歌手）
         const isMatched = inputFormatType === 'full' && artist.name.toLowerCase() === item.inputArtist.toLowerCase();
         // 判断是否是自动选择的来源最多的歌手
-        const isAutoSelected = artist.name === item.maxSourceArtist && selectedArtists[item.title] === artist.name;
+        const isMaxSourceArtist = artist.name === item.maxSourceArtist;
         
-        // 设置样式类
+        // 设置样式类 - 核心修改：根据规则判断颜色
         let className = 'artist-option';
-        if (isAutoSelected) {
-          className += ' auto-selected'; // 来源最多的自动选中项用橙色标注
+        if (isMaxSourceArtist) {
+          // 判断是否显示绿色或紫色
+          if (!item.inputArtist.trim() || (item.inputArtist.trim() && artist.name.toLowerCase() === item.inputArtist.toLowerCase())) {
+            // 用户未提供来源 或 来源最多的与用户提供的相同 → 绿色
+            className += ' auto-selected-green';
+          } else {
+            // 来源最多的与用户提供的不同 → 紫色
+            className += ' auto-selected-purple';
+          }
         } else if (selectedArtists[item.title] === artist.name) {
           className += ' selected'; // 普通选中项用蓝色
         } else if (isMatched) {
@@ -704,7 +713,7 @@ function renderArtistSelectWithValidation() {
           selectedArtists[item.title] = artist.name;
           // 更新按钮样式
           optionsDiv.querySelectorAll('.artist-option').forEach(btn => {
-            btn.classList.remove('selected', 'auto-selected');
+            btn.classList.remove('selected', 'auto-selected-green', 'auto-selected-purple');
           });
           optionBtn.classList.add('selected');
           // 重新生成结果
@@ -721,7 +730,7 @@ function renderArtistSelectWithValidation() {
         errorBtn.onclick = () => {
           selectedArtists[item.title] = item.inputArtist;
           optionsDiv.querySelectorAll('.artist-option').forEach(btn => {
-            btn.classList.remove('selected', 'auto-selected');
+            btn.classList.remove('selected', 'auto-selected-green', 'auto-selected-purple');
           });
           errorBtn.classList.add('selected');
           generateResultText();
@@ -1025,6 +1034,7 @@ function renderSongList() {
       // 展开内容详情（强化来源显示）
       let dupListHtml = '';
       if (isDup) {
+        dupListHtml = '';
         dupList.forEach(dup => {
           dupListHtml += `
             <div class="dup-item">
