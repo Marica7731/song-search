@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1G6fLB7Efr
-// 生成时间: 3/3/2026, 4:06:33 AM
+// 生成时间: 3/3/2026, 5:42:31 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4835,6 +4835,14 @@ window.SONG_DATA.push(
   "collection": "【なれたん歌切🌷】[2026-02-28]土曜日の深夜歌枠🍊[gwKYOXeCfR0]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=16",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夜明け生まれ来る少女",
+  "artist": "高橋洋子 cover by ねれたん",
+  "collection": "夜明け生まれ来る少女 - 高橋洋子 cover by ねれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13uAdzvEJw?p=1",
   "source": "naraetan.js"
 }
 );
