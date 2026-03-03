@@ -63,6 +63,9 @@ body{font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-ser
 .artist-option:hover{border-color:#00a1d6;color:#00a1d6}
 .artist-option.selected{background:#00a1d6;color:white;border-color:#00a1d6}
 .artist-option.matched{background:#e8f5e9;border-color:#28a745;color:#28a745}
+/* 新增：自动选择（来源最多）的样式 */
+.artist-option.auto-selected{background:#ff7e29;color:white;border-color:#ff7e29}
+.artist-option.auto-selected:hover{background:#e67020;border-color:#e67020}
 /* 新增：错误答案样式 */
 .artist-option.error{background:#fdf2f8;border:1px solid #dc3545;color:#dc3545;font-weight:500}
 .artist-option.error:hover{background:#fef0f5;border-color:#c82333;color:#c82333}
@@ -553,11 +556,24 @@ function searchAndValidateArtists() {
       artistMap.get(artist).add(source);
     });
     
-    // 转换为带来源的歌手列表
+    // 转换为带来源和来源数量的歌手列表
     const artists = Array.from(artistMap.entries()).map(([name, sources]) => ({
       name: name,
-      sources: Array.from(sources).join(' / ')
+      sources: Array.from(sources).join(' / '),
+      sourceCount: Array.from(sources).length // 新增：来源数量
     })).filter(Boolean);
+    
+    // 找到来源数量最多的歌手
+    let maxSourceArtist = '';
+    let maxSourceCount = 0;
+    if (artists.length > 0) {
+      artists.forEach(artist => {
+        if (artist.sourceCount > maxSourceCount) {
+          maxSourceCount = artist.sourceCount;
+          maxSourceArtist = artist.name;
+        }
+      });
+    }
     
     // 提取纯歌手名列表（用于校验）
     const artistNames = artists.map(artist => artist.name);
@@ -574,19 +590,22 @@ function searchAndValidateArtists() {
     titleSearchResults.push({
       title: title,
       inputArtist: inputArtist,
-      artists: artists, // 改为带来源的歌手对象列表
+      artists: artists, // 改为带来源和来源数量的歌手对象列表
       artistNames: artistNames, // 保留纯歌手名列表
+      maxSourceArtist: maxSourceArtist, // 新增：来源最多的歌手
       hasResult: artists.length > 0,
       isArtistValid: isArtistValid,
       originalLine: item.line
     });
     
-    // 默认选中：如果是完整格式，优先选中输入的歌手（即使是错误的），否则选第一个正确歌手
+    // 自动选择来源最多的歌手（优先级：完整格式输入的歌手 > 来源最多的歌手 > 第一个歌手）
     let defaultArtist = '';
     if (inputFormatType === 'full' && inputArtist.trim()) {
-      defaultArtist = inputArtist; // 优先选中输入的歌手（错误答案也保留）
+      defaultArtist = inputArtist; // 完整格式优先选中输入的歌手（错误答案也保留）
+    } else if (maxSourceArtist) {
+      defaultArtist = maxSourceArtist; // 自动选择来源最多的歌手
     } else if (artistNames.length > 0) {
-      defaultArtist = artistNames[0];
+      defaultArtist = artistNames[0]; // 备用：选第一个歌手
     }
     
     selectedArtists[title] = defaultArtist;
@@ -641,7 +660,7 @@ function renderArtistSelectWithValidation() {
           selectedArtists[item.title] = item.inputArtist;
           // 更新按钮样式
           optionsDiv.querySelectorAll('.artist-option').forEach(btn => {
-            btn.classList.remove('selected');
+            btn.classList.remove('selected', 'auto-selected');
           });
           errorBtn.classList.add('selected');
           // 重新生成结果
@@ -663,17 +682,29 @@ function renderArtistSelectWithValidation() {
         const optionBtn = document.createElement('div');
         // 标记匹配的歌手（输入的正确歌手）
         const isMatched = inputFormatType === 'full' && artist.name.toLowerCase() === item.inputArtist.toLowerCase();
-        optionBtn.className = `artist-option 
-          ${selectedArtists[item.title] === artist.name ? 'selected' : ''}
-          ${isMatched ? 'matched' : ''}`;
-        // 显示歌手名 + 来源信息
-        optionBtn.innerHTML = `${artist.name} (库中值) <span class="source-label">来源：${artist.sources}</span>`;
+        // 判断是否是自动选择的来源最多的歌手
+        const isAutoSelected = artist.name === item.maxSourceArtist && selectedArtists[item.title] === artist.name;
+        
+        // 设置样式类
+        let className = 'artist-option';
+        if (isAutoSelected) {
+          className += ' auto-selected'; // 来源最多的自动选中项用橙色标注
+        } else if (selectedArtists[item.title] === artist.name) {
+          className += ' selected'; // 普通选中项用蓝色
+        } else if (isMatched) {
+          className += ' matched'; // 匹配项用绿色
+        }
+        
+        optionBtn.className = className;
+        
+        // 显示歌手名 + 来源信息 + 来源数量
+        optionBtn.innerHTML = `${artist.name} (库中值) <span class="source-label">来源(${artist.sourceCount})：${artist.sources}</span>`;
         optionBtn.onclick = () => {
           // 更新选中的歌手
           selectedArtists[item.title] = artist.name;
           // 更新按钮样式
           optionsDiv.querySelectorAll('.artist-option').forEach(btn => {
-            btn.classList.remove('selected');
+            btn.classList.remove('selected', 'auto-selected');
           });
           optionBtn.classList.add('selected');
           // 重新生成结果
@@ -690,7 +721,7 @@ function renderArtistSelectWithValidation() {
         errorBtn.onclick = () => {
           selectedArtists[item.title] = item.inputArtist;
           optionsDiv.querySelectorAll('.artist-option').forEach(btn => {
-            btn.classList.remove('selected');
+            btn.classList.remove('selected', 'auto-selected');
           });
           errorBtn.classList.add('selected');
           generateResultText();
