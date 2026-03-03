@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1G6fLB7Efr
-// 生成时间: 3/3/2026, 6:35:50 PM
+// 生成时间: 3/3/2026, 8:23:54 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3911,7 +3911,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "DECO27",
+  "artist": "DECO*27 feat. 初音ミク",
   "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV12uc5ziEQZ?p=8",
@@ -3919,7 +3919,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハロ／ハワユ",
-  "artist": "ナノウ",
+  "artist": "ナノウ feat. 初音ミク",
   "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV12uc5ziEQZ?p=9",
@@ -3943,7 +3943,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "メルト",
-  "artist": "supercell",
+  "artist": "ryo(supercell)",
   "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV12uc5ziEQZ?p=12",

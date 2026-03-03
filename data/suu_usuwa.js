@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1ve411z7Nm
-// 生成时间: 3/3/2026, 6:37:04 PM
+// 生成时间: 3/3/2026, 8:25:17 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2711,7 +2711,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "春擬き",
-  "artist": "ヨルシカ",
+  "artist": "やなぎなぎ",
   "collection": "#65【 稀羽すう 18首】周三是定期歌枠🎶  Singing Stream  1. 春を告げる",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cm421J78K?p=2",
@@ -2751,7 +2751,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ノーダウト",
-  "artist": "Porno Graffitti",
+  "artist": "Official髭男dism",
   "collection": "#65【 稀羽すう 18首】周三是定期歌枠🎶  Singing Stream  1. 春を告げる",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cm421J78K?p=7",
@@ -2759,7 +2759,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛を伝えたいだとか",
-  "artist": "aiko",
+  "artist": "あいみょん",
   "collection": "#65【 稀羽すう 18首】周三是定期歌枠🎶  Singing Stream  1. 春を告げる",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cm421J78K?p=8",
@@ -2791,7 +2791,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "けーたいみしてよ",
-  "artist": "かいりきベア feat. 初音ミク",
+  "artist": "MAISONdes feat. はしメロ, maeshima soshi",
   "collection": "#65【 稀羽すう 18首】周三是定期歌枠🎶  Singing Stream  1. 春を告げる",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cm421J78K?p=12",
@@ -2807,7 +2807,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "トウキョウ・シャンディ・ランデヴ",
-  "artist": "MAISONdes feat. 花譜, ツミキ",
+  "artist": "MAISONdes",
   "collection": "#65【 稀羽すう 18首】周三是定期歌枠🎶  Singing Stream  1. 春を告げる",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cm421J78K?p=14",
@@ -2823,7 +2823,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "鬼ノ宴",
-  "artist": "キタニタツヤ",
+  "artist": "友成空",
   "collection": "#65【 稀羽すう 18首】周三是定期歌枠🎶  Singing Stream  1. 春を告げる",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cm421J78K?p=16",
