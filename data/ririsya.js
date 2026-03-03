@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1cofuBGEkX
-// 生成时间: 3/3/2026, 4:36:53 PM
+// 生成时间: 3/3/2026, 5:36:52 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -13635,6 +13635,118 @@ window.SONG_DATA.push(
   "collection": "【🐍凛々咲歌切】市役所で歌枠リレー ~ この声、川口市に届け～！[2026-02-23][K6PWi-onaWQ]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1n1fqBWECg?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "君はロックを聴かない",
+  "artist": "あいみょん",
+  "collection": "【🐍歌切】[2026-03-03]还不让你睡的歌枠 ✧まだ寝かせない歌枠 ✧ Night Singing[Kbg7iRSjZzc]凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FxPczFEpo?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "春を告げる",
+  "artist": "yama",
+  "collection": "【🐍歌切】[2026-03-03]还不让你睡的歌枠 ✧まだ寝かせない歌枠 ✧ Night Singing[Kbg7iRSjZzc]凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FxPczFEpo?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "かわいいだけじゃだめですか？",
+  "artist": "CUTIE STREET",
+  "collection": "【🐍歌切】[2026-03-03]还不让你睡的歌枠 ✧まだ寝かせない歌枠 ✧ Night Singing[Kbg7iRSjZzc]凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FxPczFEpo?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "だいしきゅーだいしゅき",
+  "artist": "femme fatale",
+  "collection": "【🐍歌切】[2026-03-03]还不让你睡的歌枠 ✧まだ寝かせない歌枠 ✧ Night Singing[Kbg7iRSjZzc]凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FxPczFEpo?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "すきっ！～超ver～",
+  "artist": "Cho Tokimeki♡Sendenbu",
+  "collection": "【🐍歌切】[2026-03-03]还不让你睡的歌枠 ✧まだ寝かせない歌枠 ✧ Night Singing[Kbg7iRSjZzc]凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FxPczFEpo?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "キューティーハニー",
+  "artist": "前川陽子",
+  "collection": "【🐍歌切】[2026-03-03]还不让你睡的歌枠 ✧まだ寝かせない歌枠 ✧ Night Singing[Kbg7iRSjZzc]凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FxPczFEpo?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "3月9日",
+  "artist": "レミオロメン",
+  "collection": "【🐍歌切】[2026-03-03]还不让你睡的歌枠 ✧まだ寝かせない歌枠 ✧ Night Singing[Kbg7iRSjZzc]凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FxPczFEpo?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "サラバ青春",
+  "artist": "チャットモンチー",
+  "collection": "【🐍歌切】[2026-03-03]还不让你睡的歌枠 ✧まだ寝かせない歌枠 ✧ Night Singing[Kbg7iRSjZzc]凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FxPczFEpo?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "卒業",
+  "artist": "My Hair is Bad",
+  "collection": "【🐍歌切】[2026-03-03]还不让你睡的歌枠 ✧まだ寝かせない歌枠 ✧ Night Singing[Kbg7iRSjZzc]凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FxPczFEpo?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "卒業",
+  "artist": "尾崎豊",
+  "collection": "【🐍歌切】[2026-03-03]还不让你睡的歌枠 ✧まだ寝かせない歌枠 ✧ Night Singing[Kbg7iRSjZzc]凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FxPczFEpo?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "私とワルツを",
+  "artist": "鬼束ちひろ",
+  "collection": "【🐍歌切】[2026-03-03]还不让你睡的歌枠 ✧まだ寝かせない歌枠 ✧ Night Singing[Kbg7iRSjZzc]凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FxPczFEpo?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Blue Jeans",
+  "artist": "HANA",
+  "collection": "【🐍歌切】[2026-03-03]还不让你睡的歌枠 ✧まだ寝かせない歌枠 ✧ Night Singing[Kbg7iRSjZzc]凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FxPczFEpo?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "トウキョウ・シャンディ・ランデヴ",
+  "artist": "花譜, ツミキ",
+  "collection": "【🐍歌切】[2026-03-03]还不让你睡的歌枠 ✧まだ寝かせない歌枠 ✧ Night Singing[Kbg7iRSjZzc]凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FxPczFEpo?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "departure!",
+  "artist": "小野正利",
+  "collection": "【🐍歌切】[2026-03-03]还不让你睡的歌枠 ✧まだ寝かせない歌枠 ✧ Night Singing[Kbg7iRSjZzc]凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FxPczFEpo?p=14",
   "source": "ririsya.js"
 }
 );

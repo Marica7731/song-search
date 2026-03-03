@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1G6fLB7Efr
-// 生成时间: 3/3/2026, 4:36:11 PM
+// 生成时间: 3/3/2026, 5:36:13 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4934,7 +4934,7 @@ window.SONG_DATA.push(
   "source": "naraetan.js"
 },
     {
-  "title": "Wind Climbing～風にあそばれて～",
+  "title": "Wind Climbing ～風にあそばれて～",
   "artist": "奥井亜紀",
   "collection": "【🌷歌切】[2026-03-03]时隔一亿年的午间歌枠☕一億年ぶりのお昼歌枠☕[u_jJcVG6818]なれたん",
   "up": "前尘往事如昔故",
