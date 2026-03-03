@@ -1,6 +1,6 @@
 // むんもっしゅ - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1UCkhBkEon
-// 生成时间: 3/3/2026, 5:40:52 PM
+// 生成时间: 3/3/2026, 6:40:42 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -142,16 +142,16 @@ window.SONG_DATA.push(
   "source": "MunMosh.js"
 },
     {
-  "title": "ふわふわ♪",
-  "artist": "牧野 由依",
+  "title": "カントリーロード",
+  "artist": "本名陽子",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=18",
   "source": "MunMosh.js"
 },
     {
-  "title": "カントリーロード",
-  "artist": "本名陽子",
+  "title": "君をのせて",
+  "artist": "井上あずみ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=19",
@@ -166,19 +166,11 @@ window.SONG_DATA.push(
   "source": "MunMosh.js"
 },
     {
-  "title": "君をのせて",
-  "artist": "井上あずみ",
-  "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=21",
-  "source": "MunMosh.js"
-},
-    {
   "title": "さよならの夏～コクリコ坂から～",
   "artist": "手嶌葵",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=22",
+  "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=21",
   "source": "MunMosh.js"
 },
     {
@@ -186,7 +178,7 @@ window.SONG_DATA.push(
   "artist": "荒井由実",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=23",
+  "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=22",
   "source": "MunMosh.js"
 },
     {
@@ -194,7 +186,7 @@ window.SONG_DATA.push(
   "artist": "荒井由実",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=24",
+  "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=23",
   "source": "MunMosh.js"
 },
     {
@@ -202,12 +194,20 @@ window.SONG_DATA.push(
   "artist": "Girls Dead Monster",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=25",
+  "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=24",
   "source": "MunMosh.js"
 },
     {
   "title": "Alchemy",
   "artist": "Girls Dead Monster",
+  "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=25",
+  "source": "MunMosh.js"
+},
+    {
+  "title": "夏影",
+  "artist": "Lia",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=26",
@@ -222,7 +222,7 @@ window.SONG_DATA.push(
   "source": "MunMosh.js"
 },
     {
-  "title": "夏影",
+  "title": "青空",
   "artist": "Lia",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
@@ -230,16 +230,16 @@ window.SONG_DATA.push(
   "source": "MunMosh.js"
 },
     {
-  "title": "青空",
-  "artist": "Lia",
+  "title": "Before I Rise",
+  "artist": "麻枝准 x やなぎなぎ",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=29",
   "source": "MunMosh.js"
 },
     {
-  "title": "Before I Rise",
-  "artist": "麻枝准 x やなぎなぎ",
+  "title": "Departures ～あなたにおくるアイの歌～",
+  "artist": "EGOIST",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=30",
@@ -471,7 +471,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ファンサ",
-  "artist": "mona(CV-夏川椎菜)【HoneyWorks】",
+  "artist": "mona(CV-夏川椎菜)",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zb4y1V7ng?p=59",
