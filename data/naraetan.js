@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1G6fLB7Efr
-// 生成时间: 3/3/2026, 3:39:35 PM
+// 生成时间: 3/3/2026, 4:36:11 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4843,6 +4843,118 @@ window.SONG_DATA.push(
   "collection": "夜明け生まれ来る少女 - 高橋洋子 cover by ねれたん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13uAdzvEJw?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "恋",
+  "artist": "星野源_sub",
+  "collection": "【🌷歌切】[2026-03-03]时隔一亿年的午间歌枠☕一億年ぶりのお昼歌枠☕[u_jJcVG6818]なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CGAfzFE68?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Breeze",
+  "artist": "林原めぐみ",
+  "collection": "【🌷歌切】[2026-03-03]时隔一亿年的午间歌枠☕一億年ぶりのお昼歌枠☕[u_jJcVG6818]なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CGAfzFE68?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【🌷歌切】[2026-03-03]时隔一亿年的午间歌枠☕一億年ぶりのお昼歌枠☕[u_jJcVG6818]なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CGAfzFE68?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "My Dearest",
+  "artist": "supercell",
+  "collection": "【🌷歌切】[2026-03-03]时隔一亿年的午间歌枠☕一億年ぶりのお昼歌枠☕[u_jJcVG6818]なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CGAfzFE68?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "うたかた花火",
+  "artist": "supercell",
+  "collection": "【🌷歌切】[2026-03-03]时隔一亿年的午间歌枠☕一億年ぶりのお昼歌枠☕[u_jJcVG6818]なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CGAfzFE68?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "fragile",
+  "artist": "Every Little Thing",
+  "collection": "【🌷歌切】[2026-03-03]时隔一亿年的午间歌枠☕一億年ぶりのお昼歌枠☕[u_jJcVG6818]なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CGAfzFE68?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "青い珊瑚礁",
+  "artist": "松田聖子",
+  "collection": "【🌷歌切】[2026-03-03]时隔一亿年的午间歌枠☕一億年ぶりのお昼歌枠☕[u_jJcVG6818]なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CGAfzFE68?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "全部ホントで全部ウソ",
+  "artist": "ナナヲアカリ",
+  "collection": "【🌷歌切】[2026-03-03]时隔一亿年的午间歌枠☕一億年ぶりのお昼歌枠☕[u_jJcVG6818]なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CGAfzFE68?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Lost my music",
+  "artist": "涼宮ハルヒ(CV平野綾)",
+  "collection": "【🌷歌切】[2026-03-03]时隔一亿年的午间歌枠☕一億年ぶりのお昼歌枠☕[u_jJcVG6818]なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CGAfzFE68?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "APT.",
+  "artist": "ROSÉ & Bruno Mars",
+  "collection": "【🌷歌切】[2026-03-03]时隔一亿年的午间歌枠☕一億年ぶりのお昼歌枠☕[u_jJcVG6818]なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CGAfzFE68?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ダンスホール",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🌷歌切】[2026-03-03]时隔一亿年的午间歌枠☕一億年ぶりのお昼歌枠☕[u_jJcVG6818]なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CGAfzFE68?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Wind Climbing～風にあそばれて～",
+  "artist": "奥井亜紀",
+  "collection": "【🌷歌切】[2026-03-03]时隔一亿年的午间歌枠☕一億年ぶりのお昼歌枠☕[u_jJcVG6818]なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CGAfzFE68?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ダイアモンドクレバス",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【🌷歌切】[2026-03-03]时隔一亿年的午间歌枠☕一億年ぶりのお昼歌枠☕[u_jJcVG6818]なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CGAfzFE68?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "黒毛和牛上塩タン焼680円",
+  "artist": "大塚愛",
+  "collection": "【🌷歌切】[2026-03-03]时隔一亿年的午间歌枠☕一億年ぶりのお昼歌枠☕[u_jJcVG6818]なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CGAfzFE68?p=14",
   "source": "naraetan.js"
 }
 );
