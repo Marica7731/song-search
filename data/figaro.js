@@ -1,6 +1,6 @@
 // Figaro - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1HRfuBCEXN
-// 生成时间: 3/4/2026, 4:33:36 PM
+// 生成时间: 3/4/2026, 5:32:46 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -27179,6 +27179,158 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】#258 [2026-03-01]睡眠導入歌枠✨安眠前のリラックスタイムにどうぞ🌙[5BIJeKkf6r8]Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ARPgzcEye?p=18",
+  "source": "figaro.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【💐歌切 竖屏】[2026-03-04]今週もたくさん歌うよ！ #shorts #vtuber #vsinger[AsnI8Kywn_A]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b4PizLEYM?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "西沢さんP",
+  "collection": "【💐歌切 竖屏】[2026-03-04]今週もたくさん歌うよ！ #shorts #vtuber #vsinger[AsnI8Kywn_A]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b4PizLEYM?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "【💐歌切 竖屏】[2026-03-04]今週もたくさん歌うよ！ #shorts #vtuber #vsinger[AsnI8Kywn_A]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b4PizLEYM?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "中島愛",
+  "collection": "【💐歌切 竖屏】[2026-03-04]今週もたくさん歌うよ！ #shorts #vtuber #vsinger[AsnI8Kywn_A]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b4PizLEYM?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切 竖屏】[2026-03-04]今週もたくさん歌うよ！ #shorts #vtuber #vsinger[AsnI8Kywn_A]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b4PizLEYM?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "火星人",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切 竖屏】[2026-03-04]今週もたくさん歌うよ！ #shorts #vtuber #vsinger[AsnI8Kywn_A]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b4PizLEYM?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "ずうっといっしょ！",
+  "artist": "キタニタツヤ",
+  "collection": "【💐歌切 竖屏】[2026-03-04]今週もたくさん歌うよ！ #shorts #vtuber #vsinger[AsnI8Kywn_A]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b4PizLEYM?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "愛言葉III",
+  "artist": "DECO＊27",
+  "collection": "【💐歌切 竖屏】[2026-03-04]今週もたくさん歌うよ！ #shorts #vtuber #vsinger[AsnI8Kywn_A]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b4PizLEYM?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "又三郎",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切 竖屏】[2026-03-04]今週もたくさん歌うよ！ #shorts #vtuber #vsinger[AsnI8Kywn_A]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b4PizLEYM?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "閃光少女",
+  "artist": "東京事変",
+  "collection": "【💐歌切 竖屏】[2026-03-04]今週もたくさん歌うよ！ #shorts #vtuber #vsinger[AsnI8Kywn_A]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b4PizLEYM?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "モルト",
+  "artist": "Lavt",
+  "collection": "【💐歌切 竖屏】[2026-03-04]今週もたくさん歌うよ！ #shorts #vtuber #vsinger[AsnI8Kywn_A]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b4PizLEYM?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "バレリーコ",
+  "artist": "みきとP",
+  "collection": "【💐歌切 竖屏】[2026-03-04]今週もたくさん歌うよ！ #shorts #vtuber #vsinger[AsnI8Kywn_A]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b4PizLEYM?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "ルーマー",
+  "artist": "ポリスピカデリー",
+  "collection": "【💐歌切 竖屏】[2026-03-04]今週もたくさん歌うよ！ #shorts #vtuber #vsinger[AsnI8Kywn_A]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b4PizLEYM?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "スイミー",
+  "artist": "Every Little Thing",
+  "collection": "【💐歌切 竖屏】[2026-03-04]今週もたくさん歌うよ！ #shorts #vtuber #vsinger[AsnI8Kywn_A]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b4PizLEYM?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "蛍はいなかった",
+  "artist": "はるまきごはん",
+  "collection": "【💐歌切 竖屏】[2026-03-04]今週もたくさん歌うよ！ #shorts #vtuber #vsinger[AsnI8Kywn_A]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b4PizLEYM?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "魔法使いエバ",
+  "artist": "はるまきごはん",
+  "collection": "【💐歌切 竖屏】[2026-03-04]今週もたくさん歌うよ！ #shorts #vtuber #vsinger[AsnI8Kywn_A]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b4PizLEYM?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "幻影",
+  "artist": "はるまきごはん",
+  "collection": "【💐歌切 竖屏】[2026-03-04]今週もたくさん歌うよ！ #shorts #vtuber #vsinger[AsnI8Kywn_A]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b4PizLEYM?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "アンインストール",
+  "artist": "石川智晶",
+  "collection": "【💐歌切 竖屏】[2026-03-04]今週もたくさん歌うよ！ #shorts #vtuber #vsinger[AsnI8Kywn_A]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b4PizLEYM?p=18",
+  "source": "figaro.js"
+},
+    {
+  "title": "かたちあるもの",
+  "artist": "柴咲コウ",
+  "collection": "【💐歌切 竖屏】[2026-03-04]今週もたくさん歌うよ！ #shorts #vtuber #vsinger[AsnI8Kywn_A]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b4PizLEYM?p=19",
   "source": "figaro.js"
 }
 );

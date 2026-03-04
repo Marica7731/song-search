@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1ve411z7Nm
-// 生成时间: 3/4/2026, 4:34:18 PM
+// 生成时间: 3/4/2026, 5:33:43 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -19823,7 +19823,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "火星人",
-  "artist": "ヨルシカ",
+  "artist": "ヨルシカ_sub",
   "collection": "【🦢歌切】#135[2026-03-04]初见和老观众都跳起来～！初見さんも常連さんも踊れ～！[M7IptBgWxro]稀羽すう",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DKPqzmEAJ?p=5",
