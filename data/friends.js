@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1eTkKYDENL
-// 生成时间: 3/5/2026, 3:22:46 PM
+// 生成时间: 3/5/2026, 3:37:37 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -283,6 +283,14 @@ window.SONG_DATA.push(
   "collection": "【魔光リサ / 稀羽すう 联动】夏祭り、君と夏フェス、ANIMA【240820】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C6t9epEgF?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "ANIMA",
+  "artist": "ReoNa",
+  "collection": "【魔光リサ / 稀羽すう 联动】夏祭り、君と夏フェス、ANIMA【240820】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C6t9epEgF?p=4",
   "source": "friends.js"
 },
     {
@@ -638,6 +646,14 @@ window.SONG_DATA.push(
   "source": "friends.js"
 },
     {
+  "title": "115万キロのフィルム",
+  "artist": "Official髭男dism",
+  "collection": "【 稀羽すう/巫てんり/涼海ネモ 】【 3D联动10首 】 🎤3Dカラオケコラボ✨ - 1stEP カバーミニアルバム発売記念 01. 怪獣の花唄",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jJ4m1h7Sh?p=9",
+  "source": "friends.js"
+},
+    {
   "title": "星座になれたら",
   "artist": "スピッツ",
   "collection": "【 稀羽すう/巫てんり/涼海ネモ 】【 3D联动10首 】 🎤3Dカラオケコラボ✨ - 1stEP カバーミニアルバム発売記念 01. 怪獣の花唄",
@@ -686,6 +702,14 @@ window.SONG_DATA.push(
   "source": "friends.js"
 },
     {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "【 橙里セイ / Figaro 】7】和橙里セイ酱一起唱歌！【241008】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SJ2WYgEr7?p=1",
+  "source": "friends.js"
+},
+    {
   "title": "蝶々結び",
   "artist": "Aimer",
   "collection": "【 橙里セイ / Figaro 】7】和橙里セイ酱一起唱歌！【241008】",
@@ -695,7 +719,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "月のワルツ",
-  "artist": "諫山実生(2)",
+  "artist": "諫山実生",
   "collection": "【 橙里セイ / Figaro 】7】和橙里セイ酱一起唱歌！【241008】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SJ2WYgEr7?p=3",
