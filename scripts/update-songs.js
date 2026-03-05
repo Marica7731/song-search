@@ -58,7 +58,7 @@ const SINGER_CONFIGS = [
     { bvids: ["BV1p1zBBCEZ3"], file: "yoshika", alias: "よしか YOSHIKA" },
     { bvids: ["BV1aDzEBBE3S"], file: "yuri", alias: "優莉 yuri" },
     { bvids: ["BV1zzZPBsEum"], file: "otomoneruki", alias: "音門るき" },
-    { bvids: ["BV1GXYFzXETo", "BV1MPpUzsE1D"], file: "nayuta", alias: "nayuta" },
+    { bvids: ["BV1GXYFzXETo", "BV1MPpUzsE1D","BV184W5zeE1Z"], file: "nayuta", alias: "nayuta" },
     { bvids: ["BV1UCkhBkEon"], file: "MunMosh", alias: "むんもっしゅ" },
     { bvids: ["BV1eTkKYDENL"], file: "friends", alias: "联动" },
     { bvids: ["BV11GZtBcEsp"], file: "others", alias: "其他歌手" },
