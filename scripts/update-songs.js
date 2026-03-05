@@ -24,7 +24,7 @@ async function withRetry(fn, maxRetries = 3, delay = 5000) {
             return await fn();
         } catch (err) {
             lastError = err;
-            console.log(`⚠️  第 ${attempt} 次尝试失败，${delay/1000}秒后重试... 错误：${err.message.slice(0, 100)}`);
+            console.log(`⚠️  第 ${attempt} 次尝试失败，${delay / 1000}秒后重试... 错误：${err.message.slice(0, 100)}`);
             await new Promise(resolve => setTimeout(resolve, delay));
         }
     }
@@ -46,11 +46,11 @@ const COLLECTION_TITLE_SELECTORS = [
 ];
 
 // ==========================================
-// 🔧 配置区：bvids 改为数组格式，支持填入多个
+// 🔧 配置区
 // ==========================================
 const SINGER_CONFIGS = [
     { bvids: ["BV1G6fLB7Efr"], file: "naraetan", alias: "なれたん Naraetan" },
-    { bvids: ["BV1HRfuBCEXN", "BV1xxxxxxxx"], file: "figaro", alias: "Figaro" }, // 示例：双BV
+    { bvids: ["BV1HRfuBCEXN"], file: "figaro", alias: "Figaro" },
     { bvids: ["BV1cofuBGEkX"], file: "ririsya", alias: "凛凛咲 ririsya" },
     { bvids: ["BV1ve411z7Nm"], file: "suu_usuwa", alias: "稀羽すう Suu_Usuwa" },
     { bvids: ["BV1mJZwB8EVa"], file: "ray", alias: "來-Ray-" },
@@ -58,12 +58,12 @@ const SINGER_CONFIGS = [
     { bvids: ["BV1p1zBBCEZ3"], file: "yoshika", alias: "よしか YOSHIKA" },
     { bvids: ["BV1aDzEBBE3S"], file: "yuri", alias: "優莉 yuri" },
     { bvids: ["BV1zzZPBsEum"], file: "otomoneruki", alias: "音門るき" },
-    { bvids: ["BV1GXYFzXETo","BV1MPpUzsE1D"], file: "nayuta", alias: "nayuta" },
+    { bvids: ["BV1GXYFzXETo", "BV1MPpUzsE1D"], file: "nayuta", alias: "nayuta" },
     { bvids: ["BV1UCkhBkEon"], file: "MunMosh", alias: "むんもっしゅ" },
     { bvids: ["BV1eTkKYDENL"], file: "friends", alias: "联动" },
     { bvids: ["BV11GZtBcEsp"], file: "others", alias: "其他歌手" },
     { bvids: ["BV1dGqeYpEuc"], file: "earendel", alias: "厄倫蒂兒" },
-    { bvids: ["BV1hw4m1i7qN"], file: "linon", alias: "天籠りのん" }
+    { bvids: ["BV1hw4m1i7nN"], file: "linon", alias: "天籠りのん" }
 ];
 
 const DATA_DIR = path.join(__dirname, '..', 'data');
@@ -72,119 +72,58 @@ const BILI_VIDEO_URL = (bvid) => `https://www.bilibili.com/video/${bvid}`;
 async function loadVideoPageWithBrowser(bvid) {
     const url = BILI_VIDEO_URL(bvid);
     let browser;
-
     try {
         browser = await puppeteer.launch({
             headless: 'new',
-            args: [
-                '--no-sandbox',
-                '--disable-setuid-sandbox',
-                '--disable-dev-shm-usage',
-                '--disable-blink-features=AutomationControlled',
-                '--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
-                '--disable-gpu',
-                '--window-size=1920,1080'
-            ],
+            args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage', '--disable-blink-features=AutomationControlled', '--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36', '--disable-gpu', '--window-size=1920,1080'],
             executablePath: process.env.PUPPETEER_EXECUTABLE_PATH || '/usr/bin/google-chrome'
         });
-
         const page = await browser.newPage();
-        await page.setExtraHTTPHeaders({
-            'Referer': 'https://www.bilibili.com/',
-            'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8'
-        });
-
-        await page.evaluateOnNewDocument(() => {
-            delete window.navigator.webdriver;
-        });
-
-        await page.goto(url, {
-            waitUntil: 'networkidle2',
-            timeout: 60000
-        });
-
+        await page.setExtraHTTPHeaders({ 'Referer': 'https://www.bilibili.com/', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8' });
+        await page.evaluateOnNewDocument(() => { delete window.navigator.webdriver; });
+        await page.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
         await new Promise(resolve => setTimeout(resolve, DELAY_TIME));
 
-        const rawData = await page.evaluate((
-            PLAYLIST_SELECTORS, 
-            PART_TITLE_SELECTORS, 
-            COLLECTION_TITLE_SELECTORS,
-            inputBvid
-        ) => {
+        const rawData = await page.evaluate((PS, PTS, CTS, inputBvid) => {
             const BV_REGEX = /BV[0-9a-zA-Z]+/;
-
-            function querySelectorFallback(container, selectors) {
-                for (const selector of selectors) {
-                    const element = container.querySelector(selector);
-                    if (element) return element;
-                }
-                return null;
-            }
-
-            function querySelectorAllFallback(container, selectors) {
-                for (const selector of selectors) {
-                    const elements = container.querySelectorAll(selector);
-                    if (elements.length > 0) return elements;
-                }
-                return [];
-            }
+            function qSF(c, s) { for (const sel of s) { const e = c.querySelector(sel); if (e) return e; } return null; }
+            function qSAF(c, s) { for (const sel of s) { const e = c.querySelectorAll(sel); if (e.length > 0) return e; } return []; }
 
             let containers = [];
-            for (const sel of PLAYLIST_SELECTORS) {
+            for (const sel of PS) {
                 containers = document.querySelectorAll(sel);
                 if (containers.length > 0) break;
             }
-
-            if (containers.length === 0) {
-                return null;
-            }
+            if (containers.length === 0) return null;
 
             return Array.from(containers).map((container, idx) => {
-                const colTitleNode = querySelectorFallback(container, COLLECTION_TITLE_SELECTORS);
-                const colTitle = colTitleNode?.textContent.trim() || `合集${idx+1}`;
-
+                const colTitleNode = qSF(container, CTS);
+                const colTitle = colTitleNode?.textContent.trim() || `合集${idx + 1}`;
                 let upName = "未知UP主";
                 const upMatch = colTitle.match(/\[([^\]]+?\s*Ch\.[^\]]+)\]/);
-                if (upMatch) {
-                    upName = upMatch[1];
-                } else {
-                    const upEle = document.querySelector('.up-name');
-                    if (upEle) upName = upEle.textContent.trim();
-                }
+                if (upMatch) upName = upMatch[1];
+                else { const upEle = document.querySelector('.up-name'); if (upEle) upName = upEle.textContent.trim(); }
 
-                let partNodes = querySelectorAllFallback(container, [PART_TITLE_SELECTORS[0]]);
+                let partNodes = qSAF(container, [PTS[0]]);
                 let parts = Array.from(partNodes).map(node => node.textContent.trim());
-
                 if (parts.length === 0) {
-                     const singleTitleNode = querySelectorFallback(container, [PART_TITLE_SELECTORS[1]]);
-                     if (singleTitleNode) {
-                         parts.push(singleTitleNode.textContent.trim());
-                     } else if (colTitleNode) {
-                         parts.push(colTitle);
-                     }
+                    const sTN = qSF(container, [PTS[1]]);
+                    if (sTN) parts.push(sTN.textContent.trim());
+                    else if (colTitleNode) parts.push(colTitle);
                 }
 
                 let collectionBv = inputBvid;
                 const dataKey = container.dataset.key;
                 if (dataKey) {
                     const matchResult = dataKey.match(BV_REGEX);
-                    if (matchResult && matchResult[0]) {
-                        collectionBv = matchResult[0];
-                    }
+                    if (matchResult && matchResult[0]) collectionBv = matchResult[0];
                 }
-
-                return {
-                    collectionBv: collectionBv,
-                    collectionTitle: colTitle,
-                    up: upName,
-                    parts: parts
-                };
+                return { collectionBv, collectionTitle: colTitle, up: upName, parts };
             });
         }, PLAYLIST_SELECTORS, PART_TITLE_SELECTORS, COLLECTION_TITLE_SELECTORS, bvid);
 
         await browser.close();
         return rawData;
-
     } catch (err) {
         if (browser) await browser.close();
         throw new Error(`浏览器加载失败: ${err.message}`);
@@ -192,18 +131,16 @@ async function loadVideoPageWithBrowser(bvid) {
 }
 
 // ==========================================
-// 🔧 核心改动：支持多BV处理逻辑
+// 🔧 核心逻辑：移除去重，保留后缀清洗
 // ==========================================
 async function processSinger(config) {
     const { bvids, file, alias } = config;
     console.log(`\n[开始处理] ${alias} (共 ${bvids.length} 个BV号)...`);
-    
+
     let allSongs = [];
-    const songUniqueKeys = new Set(); // 用于去重
 
     for (const bvid of bvids) {
         console.log(`  🔍 正在解析 BV: ${bvid}...`);
-        
         const rawData = await loadVideoPageWithBrowser(bvid);
         if (!rawData || rawData.length === 0) {
             console.warn(`  ⚠️  BV:${bvid} 未解析到数据，跳过`);
@@ -214,7 +151,7 @@ async function processSinger(config) {
             col.parts.forEach((p, i) => {
                 let cleanTitle = p;
 
-                // 清洗逻辑
+                // 1. 基础标签清除
                 cleanTitle = cleanTitle.replace(/\[\d{4}[-]?\d{2}[-]?\d{2}\]/g, '');
                 let prevLen;
                 do {
@@ -222,29 +159,32 @@ async function processSinger(config) {
                     cleanTitle = cleanTitle.replace(/\[[^\[\]]*\]\s*$/, '');
                 } while (cleanTitle.length !== prevLen);
 
-                cleanTitle = cleanTitle.trim().replace(/^\d+\.\s*/, '').replace(/^P\d+[：:]\s*/, '').trim();
+                // 2. 清除开头编号
+                cleanTitle = cleanTitle.trim()
+                    .replace(/^\d+\.\s*/, '')
+                    .replace(/^P\d+[：:]\s*/, '')
+                    .trim();
+
+                // 3. ✨ 关键逻辑：清除 (2), _sub 等后缀，但不去重 ✨
+                const artifactRegex = /(\s*\(\d+\)|_(sub|copy|backup|1080p|720p|\d+))$/i;
+                cleanTitle = cleanTitle.replace(artifactRegex, '').trim();
 
                 let artist = DEFAULT_ARTIST_TEXT;
                 let songTitle = cleanTitle;
 
                 if (cleanTitle.includes(' - ')) {
                     const titleParts = cleanTitle.split(' - ');
-                    songTitle = titleParts[0].trim();
-                    artist = titleParts[titleParts.length - 1].trim();
+                    // 对切割后的部分再次洗涤后缀
+                    songTitle = titleParts[0].replace(artifactRegex, '').trim();
+                    artist = titleParts[titleParts.length - 1].replace(artifactRegex, '').trim();
                 }
-
-                // 生成唯一键用于去重 (歌名+歌手)
-                const uniqueKey = `${songTitle.toLowerCase()}|${artist.toLowerCase()}`;
-                if (songUniqueKeys.has(uniqueKey)) {
-                    return; // 跳过重复歌曲
-                }
-                songUniqueKeys.add(uniqueKey);
 
                 let link = null;
                 if (BV_REGEX.test(col.collectionBv)) {
-                    link = `${BILI_VIDEO_PREFIX}${col.collectionBv}?p=${i+1}`;
+                    link = `${BILI_VIDEO_PREFIX}${col.collectionBv}?p=${i + 1}`;
                 }
 
+                // 直接推送，不再检查重复
                 allSongs.push({
                     title: songTitle,
                     artist: artist,
@@ -255,32 +195,25 @@ async function processSinger(config) {
                 });
             });
         });
-        
-        // 多个BV抓取之间稍微停顿，避免被反爬
+
         if (bvids.indexOf(bvid) < bvids.length - 1) {
             await new Promise(resolve => setTimeout(resolve, 2000));
         }
     }
 
-    if (allSongs.length === 0) {
-        throw new Error(`未解析到任何有效歌曲数据`);
-    }
+    if (allSongs.length === 0) throw new Error(`未解析到任何有效歌曲数据`);
 
     const outputPath = path.join(DATA_DIR, `${file}.js`);
     let outputContent = `// ${alias} - 歌单数据 (多合集汇总)\n`;
     outputContent += `// 来源: ${bvids.join(', ')}\n`;
     outputContent += `// 生成时间: ${new Date().toLocaleString()}\n\n`;
-    outputContent += `window.SONG_DATA = window.SONG_DATA || [];\n\n`;
-    outputContent += `window.SONG_DATA.push(\n`;
-    
-    allSongs.forEach((song, idx) => {
-        outputContent += `    ${JSON.stringify(song, null, 2)}`;
-        if (idx < allSongs.length - 1) outputContent += ",";
-        outputContent += "\n";
-    });
-    
-    outputContent += `);\n`;
+    outputContent += `window.SONG_DATA = window.SONG_DATA || [];\n\nwindow.SONG_DATA.push(\n`;
 
+    allSongs.forEach((song, idx) => {
+        outputContent += `    ${JSON.stringify(song, null, 2)}${idx < allSongs.length - 1 ? "," : ""}\n`;
+    });
+
+    outputContent += `);\n`;
     fs.writeFileSync(outputPath, outputContent, { encoding: 'utf8', mode: 0o644 });
     console.log(`  ✅ 成功: 汇总 ${allSongs.length} 首歌曲 -> ${file}.js`);
     return true;
@@ -296,38 +229,26 @@ function generateIndexJson() {
         }, {})
     };
     fs.writeFileSync(indexPath, JSON.stringify(indexData, null, 2), 'utf8');
-    console.log(`\n✅ 生成index.json: 包含 ${indexData.files.length} 个数据文件`);
 }
 
 async function main() {
     console.log("========================================");
-    console.log("   🚀 B站多BV合集解析工具 启动");
+    console.log("   🚀 B站直播源解析工具 (不去重模式)");
     console.log("========================================");
-    
-    if (!fs.existsSync(DATA_DIR)) {
-        fs.mkdirSync(DATA_DIR, { recursive: true });
-    }
-
+    if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
     let successCount = 0;
     for (const config of SINGER_CONFIGS) {
         try {
             await withRetry(() => processSinger(config), 3, 5000);
             successCount++;
-        } catch (err) {
-            console.error(`  ❌ 最终失败: ${config.alias}`, err.message);
-        }
+        } catch (err) { console.error(`  ❌ 最终失败: ${config.alias}`, err.message); }
         await new Promise(resolve => setTimeout(resolve, 2000));
     }
-
     generateIndexJson();
-
     console.log("\n========================================");
-    console.log(`   🏁 任务结束: 成功更新 ${successCount}/${SINGER_CONFIGS.length} 位歌手`);
+    console.log(`   🏁 任务结束: 更新 ${successCount}/${SINGER_CONFIGS.length} 位歌手`);
     console.log("========================================");
     process.exit(0);
 }
 
-main().catch(err => {
-    console.error("❌ 全局错误:", err.message);
-    process.exit(1);
-});
+main().catch(err => { console.error("❌ 全局错误:", err.message); process.exit(1); });
