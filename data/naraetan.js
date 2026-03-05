@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr
-// 生成时间: 3/5/2026, 5:54:36 PM
+// 生成时间: 3/5/2026, 7:09:06 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4963,6 +4963,166 @@ window.SONG_DATA.push(
   "collection": "君に最後の口づけを - majiko cover by なれたん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11tPCzoE5y?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ベテルギウス",
+  "artist": "優里",
+  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "愛とか恋とか",
+  "artist": "Novelbright",
+  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "again",
+  "artist": "YUI",
+  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "アイのシナリオ",
+  "artist": "CHiCO with HoneyWorks 『まじっく快斗』OP",
+  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Drowning",
+  "artist": "WOODZ",
+  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ロマンスの神様",
+  "artist": "広瀬香美",
+  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO27",
+  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "嘆きの華",
+  "artist": "水樹奈々",
+  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "最強○×計画",
+  "artist": "MOSAIC.WAV",
+  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "世界に一つだけの花",
+  "artist": "SMAP",
+  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "金曜日のおはよう",
+  "artist": "HoneyWorks",
+  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "消せない罪",
+  "artist": "北出菜奈",
+  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=16",
+  "source": "naraetan.js"
+},
+    {
+  "title": "空色デイズ",
+  "artist": "中川翔子",
+  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=17",
+  "source": "naraetan.js"
+},
+    {
+  "title": "uni-verse",
+  "artist": "オーイシマサヨシ",
+  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=18",
+  "source": "naraetan.js"
+},
+    {
+  "title": "シリウス",
+  "artist": "藍井エイル",
+  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=19",
+  "source": "naraetan.js"
+},
+    {
+  "title": "森の小さなレストラン",
+  "artist": "手嶌葵",
+  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=20",
   "source": "naraetan.js"
 }
 );
