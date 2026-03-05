@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据 (多合集汇总)
 // 来源: BV1zzZPBsEum
-// 生成时间: 3/5/2026, 7:12:48 PM
+// 生成时间: 3/5/2026, 8:33:15 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -927,7 +927,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "glow",
-  "artist": "Kneeno feat.初音ミク",
+  "artist": "keeno feat.初音ミク",
   "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=116",
