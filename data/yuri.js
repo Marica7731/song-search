@@ -1,6 +1,6 @@
-// 優莉 yuri - 歌单数据
-// 来源: https://www.bilibili.com/video/BV1aDzEBBE3S
-// 生成时间: 3/5/2026, 2:42:46 PM
+// 優莉 yuri - 歌单数据 (多合集汇总)
+// 来源: BV1aDzEBBE3S
+// 生成时间: 3/5/2026, 3:21:05 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -86,27 +86,11 @@ window.SONG_DATA.push(
   "source": "yuri.js"
 },
     {
-  "title": "Always",
-  "artist": "優莉",
-  "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=11",
-  "source": "yuri.js"
-},
-    {
   "title": "Dear my friend",
   "artist": "NaYuri",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=12",
-  "source": "yuri.js"
-},
-    {
-  "title": "星に名前を",
-  "artist": "優莉",
-  "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=13",
   "source": "yuri.js"
 },
     {
@@ -150,22 +134,6 @@ window.SONG_DATA.push(
   "source": "yuri.js"
 },
     {
-  "title": "想像フォレスト",
-  "artist": "じん",
-  "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=19",
-  "source": "yuri.js"
-},
-    {
-  "title": "Always",
-  "artist": "優莉",
-  "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=20",
-  "source": "yuri.js"
-},
-    {
   "title": "サマーハレーション",
   "artist": "優莉",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
@@ -190,59 +158,11 @@ window.SONG_DATA.push(
   "source": "yuri.js"
 },
     {
-  "title": "Dear my friend",
-  "artist": "NaYuri",
-  "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=24",
-  "source": "yuri.js"
-},
-    {
-  "title": "YuMeKuI",
-  "artist": "優莉",
-  "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=25",
-  "source": "yuri.js"
-},
-    {
-  "title": "ありがめさんのうた",
-  "artist": "優莉",
-  "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=26",
-  "source": "yuri.js"
-},
-    {
   "title": "星に名前を",
   "artist": "優莉 (Prod. HOMING ECHO)",
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=27",
-  "source": "yuri.js"
-},
-    {
-  "title": "なないろメモリー",
-  "artist": "優莉",
-  "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=28",
-  "source": "yuri.js"
-},
-    {
-  "title": "Enter!",
-  "artist": "優莉",
-  "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=29",
-  "source": "yuri.js"
-},
-    {
-  "title": "なないろメモリー",
-  "artist": "優莉",
-  "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=30",
   "source": "yuri.js"
 },
     {
@@ -270,43 +190,11 @@ window.SONG_DATA.push(
   "source": "yuri.js"
 },
     {
-  "title": "星に名前を",
-  "artist": "優莉",
-  "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=34",
-  "source": "yuri.js"
-},
-    {
-  "title": "Always",
-  "artist": "優莉",
-  "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=35",
-  "source": "yuri.js"
-},
-    {
-  "title": "Enter!",
-  "artist": "優莉",
-  "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌 [oZ01tozAeSM]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=36",
-  "source": "yuri.js"
-},
-    {
   "title": "初めての恋が終わる時",
   "artist": "ryo(supercell)",
   "collection": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uwzcBEEGJ?p=1",
-  "source": "yuri.js"
-},
-    {
-  "title": "想像フォレスト",
-  "artist": "じん",
-  "collection": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uwzcBEEGJ?p=2",
   "source": "yuri.js"
 },
     {
@@ -355,38 +243,6 @@ window.SONG_DATA.push(
   "collection": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uwzcBEEGJ?p=8",
-  "source": "yuri.js"
-},
-    {
-  "title": "星に名前を",
-  "artist": "優莉",
-  "collection": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uwzcBEEGJ?p=9",
-  "source": "yuri.js"
-},
-    {
-  "title": "Enter!",
-  "artist": "優莉",
-  "collection": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uwzcBEEGJ?p=10",
-  "source": "yuri.js"
-},
-    {
-  "title": "星に名前を",
-  "artist": "優莉",
-  "collection": "【優莉 弾き語】[2026-01-25] 弾き語ります！！ [EQ8XsBzLBYo]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV17qztBuEYz?p=1",
-  "source": "yuri.js"
-},
-    {
-  "title": "Always",
-  "artist": "優莉",
-  "collection": "【優莉 弾き語】[2026-01-25] 弾き語ります！！ [EQ8XsBzLBYo]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV17qztBuEYz?p=2",
   "source": "yuri.js"
 },
     {
@@ -462,35 +318,11 @@ window.SONG_DATA.push(
   "source": "yuri.js"
 },
     {
-  "title": "Enter!",
-  "artist": "優莉",
-  "collection": "【優莉 弾き語】[2026-01-25] 弾き語ります！！ [EQ8XsBzLBYo]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV17qztBuEYz?p=12",
-  "source": "yuri.js"
-},
-    {
   "title": "眠らない星",
   "artist": "優莉",
   "collection": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17uFuzMEuY?p=1",
-  "source": "yuri.js"
-},
-    {
-  "title": "Always",
-  "artist": "優莉",
-  "collection": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV17uFuzMEuY?p=2",
-  "source": "yuri.js"
-},
-    {
-  "title": "タイトル",
-  "artist": "優莉",
-  "collection": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV17uFuzMEuY?p=3",
   "source": "yuri.js"
 },
     {
@@ -550,27 +382,11 @@ window.SONG_DATA.push(
   "source": "yuri.js"
 },
     {
-  "title": "T.A.O.",
-  "artist": "じん",
-  "collection": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV17uFuzMEuY?p=11",
-  "source": "yuri.js"
-},
-    {
   "title": "GOOD NIGHT STAR",
   "artist": "優莉",
   "collection": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17uFuzMEuY?p=12",
-  "source": "yuri.js"
-},
-    {
-  "title": "Enter!",
-  "artist": "優莉",
-  "collection": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV17uFuzMEuY?p=13",
   "source": "yuri.js"
 },
     {
@@ -598,22 +414,6 @@ window.SONG_DATA.push(
   "source": "yuri.js"
 },
     {
-  "title": "残贈",
-  "artist": "優莉",
-  "collection": "【優莉】弾き語りするよ♪[2026-02-07][s3kLx-ChK_o]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1gBF4zGEbm?p=4",
-  "source": "yuri.js"
-},
-    {
-  "title": "Always",
-  "artist": "優莉",
-  "collection": "【優莉】弾き語りするよ♪[2026-02-07][s3kLx-ChK_o]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1gBF4zGEbm?p=5",
-  "source": "yuri.js"
-},
-    {
   "title": "明日も",
   "artist": "Cover by 優莉",
   "collection": "【優莉】弾き語りするよ♪[2026-02-07][s3kLx-ChK_o]",
@@ -627,14 +427,6 @@ window.SONG_DATA.push(
   "collection": "【優莉】弾き語りするよ♪[2026-02-07][s3kLx-ChK_o]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gBF4zGEbm?p=7",
-  "source": "yuri.js"
-},
-    {
-  "title": "星に名前を",
-  "artist": "優莉",
-  "collection": "【優莉】弾き語りするよ♪[2026-02-07][s3kLx-ChK_o]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1gBF4zGEbm?p=8",
   "source": "yuri.js"
 },
     {
@@ -686,51 +478,11 @@ window.SONG_DATA.push(
   "source": "yuri.js"
 },
     {
-  "title": "YuMeKuI",
-  "artist": "優莉",
-  "collection": "【優莉】弾き語りするよ♪[2026-02-07][s3kLx-ChK_o]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1gBF4zGEbm?p=15",
-  "source": "yuri.js"
-},
-    {
   "title": "ないしょのパレット",
   "artist": "優莉",
   "collection": "【優莉】弾き語りするよ♪[2026-02-07][s3kLx-ChK_o]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gBF4zGEbm?p=16",
-  "source": "yuri.js"
-},
-    {
-  "title": "眠らない星",
-  "artist": "優莉",
-  "collection": "【優莉】弾き語りするよ♪[2026-02-07][s3kLx-ChK_o]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1gBF4zGEbm?p=17",
-  "source": "yuri.js"
-},
-    {
-  "title": "ありがめさんのうた",
-  "artist": "優莉",
-  "collection": "【優莉】弾き語りするよ♪[2026-02-07][s3kLx-ChK_o]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1gBF4zGEbm?p=18",
-  "source": "yuri.js"
-},
-    {
-  "title": "GOOD NIGHT STAR",
-  "artist": "優莉",
-  "collection": "【優莉】弾き語りするよ♪[2026-02-07][s3kLx-ChK_o]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1gBF4zGEbm?p=19",
-  "source": "yuri.js"
-},
-    {
-  "title": "Enter!",
-  "artist": "優莉",
-  "collection": "【優莉】弾き語りするよ♪[2026-02-07][s3kLx-ChK_o]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1gBF4zGEbm?p=20",
   "source": "yuri.js"
 }
 );

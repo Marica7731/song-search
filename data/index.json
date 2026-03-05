@@ -9,12 +9,12 @@
     "yoshika.js",
     "yuri.js",
     "otomoneruki.js",
-    "nayuta-piano-live.js",
-    "nayuta-daily.js",
+    "nayuta.js",
     "MunMosh.js",
     "friends.js",
     "others.js",
-    "earendel.js"
+    "earendel.js",
+    "linon.js"
   ],
   "fileToAlias": {
     "naraetan": "なれたん Naraetan",
@@ -26,11 +26,11 @@
     "yoshika": "よしか YOSHIKA",
     "yuri": "優莉 yuri",
     "otomoneruki": "音門るき",
-    "nayuta-piano-live": "nayuta生演奏",
-    "nayuta-daily": "nayuta日常",
+    "nayuta": "nayuta",
     "MunMosh": "むんもっしゅ",
     "friends": "联动",
     "others": "其他歌手",
-    "earendel": "厄倫蒂兒"
+    "earendel": "厄倫蒂兒",
+    "linon": "天籠りのん"
   }
 }

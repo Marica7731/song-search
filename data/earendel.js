@@ -1,6 +1,6 @@
-// 厄倫蒂兒 - 歌单数据
-// 来源: https://www.bilibili.com/video/BV1dGqeYpEuc
-// 生成时间: 3/5/2026, 2:45:14 PM
+// 厄倫蒂兒 - 歌单数据 (多合集汇总)
+// 来源: BV1dGqeYpEuc
+// 生成时间: 3/5/2026, 3:23:21 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -262,30 +262,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "燈光",
-  "artist": "謝震廷",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=33",
-  "source": "earendel.js"
-},
-    {
-  "title": "六等星の夜",
-  "artist": "Aimer",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=34",
-  "source": "earendel.js"
-},
-    {
-  "title": "下雨的晚上",
-  "artist": "黃玠",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=35",
-  "source": "earendel.js"
-},
-    {
   "title": "我睡不著",
   "artist": "守夜人",
   "collection": "厄倫蒂兒 1期 240101-240506",
@@ -382,14 +358,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "小王",
-  "artist": "毛不易",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=48",
-  "source": "earendel.js"
-},
-    {
   "title": "ベルベットの詩",
   "artist": "back number",
   "collection": "厄倫蒂兒 1期 240101-240506",
@@ -403,14 +371,6 @@ window.SONG_DATA.push(
   "collection": "厄倫蒂兒 1期 240101-240506",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=50",
-  "source": "earendel.js"
-},
-    {
-  "title": "ちゃんとあるよ",
-  "artist": "傘村トータ feat.可不",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=51",
   "source": "earendel.js"
 },
     {
@@ -542,14 +502,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "ベルベットの詩",
-  "artist": "back number",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=68",
-  "source": "earendel.js"
-},
-    {
   "title": "洋蔥",
   "artist": "楊宗緯",
   "collection": "厄倫蒂兒 1期 240101-240506",
@@ -571,14 +523,6 @@ window.SONG_DATA.push(
   "collection": "厄倫蒂兒 1期 240101-240506",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=71",
-  "source": "earendel.js"
-},
-    {
-  "title": "下雨的晚上",
-  "artist": "黃玠",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=72",
   "source": "earendel.js"
 },
     {
@@ -630,27 +574,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "メリーゴーランド",
-  "artist": "優里",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=79",
-  "source": "earendel.js"
-},
-    {
   "title": "你不屬於我",
   "artist": "周興哲",
   "collection": "厄倫蒂兒 1期 240101-240506",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=80",
-  "source": "earendel.js"
-},
-    {
-  "title": "僕が死のうと思ったのは",
-  "artist": "中島美嘉",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=81",
   "source": "earendel.js"
 },
     {
@@ -667,14 +595,6 @@ window.SONG_DATA.push(
   "collection": "厄倫蒂兒 1期 240101-240506",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=83",
-  "source": "earendel.js"
-},
-    {
-  "title": "Lemon",
-  "artist": "米津玄師",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=84",
   "source": "earendel.js"
 },
     {
@@ -710,14 +630,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "ドライフラワー",
-  "artist": "優里",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=89",
-  "source": "earendel.js"
-},
-    {
   "title": "達爾文",
   "artist": "蔡健雅",
   "collection": "厄倫蒂兒 1期 240101-240506",
@@ -731,22 +643,6 @@ window.SONG_DATA.push(
   "collection": "厄倫蒂兒 1期 240101-240506",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=91",
-  "source": "earendel.js"
-},
-    {
-  "title": "人啊",
-  "artist": "徐佳瑩",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=92",
-  "source": "earendel.js"
-},
-    {
-  "title": "ベテルギウス",
-  "artist": "優里",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=93",
   "source": "earendel.js"
 },
     {
@@ -806,14 +702,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "僕が死のうと思ったのは",
-  "artist": "中島美嘉",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=101",
-  "source": "earendel.js"
-},
-    {
   "title": "下雨的夜晚",
   "artist": "蘇打綠",
   "collection": "厄倫蒂兒 1期 240101-240506",
@@ -822,35 +710,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "GHOST",
-  "artist": "星街すいせい",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=103",
-  "source": "earendel.js"
-},
-    {
-  "title": "我反芻著你留下的寂寞",
-  "artist": "理想混蛋",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=104",
-  "source": "earendel.js"
-},
-    {
   "title": "I LOVE YOU",
   "artist": "クリス・ハート",
   "collection": "厄倫蒂兒 1期 240101-240506",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=105",
-  "source": "earendel.js"
-},
-    {
-  "title": "孤獨的總和",
-  "artist": "吳汶芳",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=106",
   "source": "earendel.js"
 },
     {
@@ -878,43 +742,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "求救訊號",
-  "artist": "Vast & Hazy",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=110",
-  "source": "earendel.js"
-},
-    {
-  "title": "與浪之間",
-  "artist": "Vast & Hazy",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=111",
-  "source": "earendel.js"
-},
-    {
-  "title": "茜さす",
-  "artist": "Aimer",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=112",
-  "source": "earendel.js"
-},
-    {
   "title": "買你",
   "artist": "魏如萱",
   "collection": "厄倫蒂兒 1期 240101-240506",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=113",
-  "source": "earendel.js"
-},
-    {
-  "title": "星屑ビーナス",
-  "artist": "Aimer",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=114",
   "source": "earendel.js"
 },
     {
@@ -926,43 +758,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "deja vu",
-  "artist": "Olivia Rodrigo",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=116",
-  "source": "earendel.js"
-},
-    {
-  "title": "葉子",
-  "artist": "阿桑",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=117",
-  "source": "earendel.js"
-},
-    {
-  "title": "メリーゴーランド",
-  "artist": "優里",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=118",
-  "source": "earendel.js"
-},
-    {
   "title": "也不只是第一次死了",
   "artist": "李嫣",
   "collection": "厄倫蒂兒 1期 240101-240506",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=119",
-  "source": "earendel.js"
-},
-    {
-  "title": "全世界誰傾聽你",
-  "artist": "林宥嘉",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=120",
   "source": "earendel.js"
 },
     {
@@ -979,14 +779,6 @@ window.SONG_DATA.push(
   "collection": "厄倫蒂兒 1期 240101-240506",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=122",
-  "source": "earendel.js"
-},
-    {
-  "title": "六等星の夜",
-  "artist": "Aimer",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=123",
   "source": "earendel.js"
 },
     {
@@ -1062,14 +854,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "歌に形はないけれど",
-  "artist": "doriko",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=133",
-  "source": "earendel.js"
-},
-    {
   "title": "小幸運",
   "artist": "田馥甄",
   "collection": "厄倫蒂兒 1期 240101-240506",
@@ -1086,35 +870,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "好想愛這個世界啊",
-  "artist": "華晨宇",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=136",
-  "source": "earendel.js"
-},
-    {
-  "title": "いのちの名前",
-  "artist": "木村弓",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=137",
-  "source": "earendel.js"
-},
-    {
   "title": "晴天",
   "artist": "周杰倫",
   "collection": "厄倫蒂兒 1期 240101-240506",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=138",
-  "source": "earendel.js"
-},
-    {
-  "title": "蒲公英的約定",
-  "artist": "周杰倫",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=139",
   "source": "earendel.js"
 },
     {
@@ -1126,14 +886,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "他們說我是沒有用的年輕人",
-  "artist": "好樂團 Good Band",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=141",
-  "source": "earendel.js"
-},
-    {
   "title": "First Love",
   "artist": "宇多田ヒカル",
   "collection": "厄倫蒂兒 1期 240101-240506",
@@ -1142,123 +894,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "A Thousand Years",
-  "artist": "Christina Perri",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=143",
-  "source": "earendel.js"
-},
-    {
-  "title": "Lydia",
-  "artist": "F.I.R.",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=144",
-  "source": "earendel.js"
-},
-    {
-  "title": "心做し",
-  "artist": "蝶々P feat. GUMI",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=145",
-  "source": "earendel.js"
-},
-    {
-  "title": "下雨的夜晚",
-  "artist": "蘇打綠",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=146",
-  "source": "earendel.js"
-},
-    {
-  "title": "人間不值得",
-  "artist": "黃詩扶",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=147",
-  "source": "earendel.js"
-},
-    {
-  "title": "ちゃんとあるよ",
-  "artist": "傘村トータ feat.可不",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=148",
-  "source": "earendel.js"
-},
-    {
-  "title": "消愁",
-  "artist": "毛不易",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=149",
-  "source": "earendel.js"
-},
-    {
-  "title": "人間だった",
-  "artist": "ピコン",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=150",
-  "source": "earendel.js"
-},
-    {
-  "title": "也可以",
-  "artist": "閻奕格",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=151",
-  "source": "earendel.js"
-},
-    {
-  "title": "ベテルギウス",
-  "artist": "優里",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=152",
-  "source": "earendel.js"
-},
-    {
-  "title": "メリーゴーランド",
-  "artist": "優里",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=153",
-  "source": "earendel.js"
-},
-    {
-  "title": "燈光",
-  "artist": "謝震廷",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=154",
-  "source": "earendel.js"
-},
-    {
-  "title": "路過人間",
-  "artist": "郁可唯",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=155",
-  "source": "earendel.js"
-},
-    {
   "title": "晩餐歌",
   "artist": "tuki.",
   "collection": "厄倫蒂兒 1期 240101-240506",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=156",
-  "source": "earendel.js"
-},
-    {
-  "title": "嘉賓",
-  "artist": "張遠",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=157",
   "source": "earendel.js"
 },
     {
@@ -1275,22 +915,6 @@ window.SONG_DATA.push(
   "collection": "厄倫蒂兒 1期 240101-240506",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=159",
-  "source": "earendel.js"
-},
-    {
-  "title": "GHOST",
-  "artist": "星街すいせい",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=160",
-  "source": "earendel.js"
-},
-    {
-  "title": "買你",
-  "artist": "魏如萱",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=161",
   "source": "earendel.js"
 },
     {
@@ -1390,35 +1014,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "我睡不著",
-  "artist": "守夜人",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=174",
-  "source": "earendel.js"
-},
-    {
-  "title": "下雨天",
-  "artist": "南拳媽媽",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=175",
-  "source": "earendel.js"
-},
-    {
   "title": "Tell Your World",
   "artist": "livetune feat. 初音ミク",
   "collection": "厄倫蒂兒 1期 240101-240506",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=176",
-  "source": "earendel.js"
-},
-    {
-  "title": "騙",
-  "artist": "張碧晨",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=177",
   "source": "earendel.js"
 },
     {
@@ -1443,78 +1043,6 @@ window.SONG_DATA.push(
   "collection": "厄倫蒂兒 1期 240101-240506",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=180",
-  "source": "earendel.js"
-},
-    {
-  "title": "身後",
-  "artist": "張惠妹",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=181",
-  "source": "earendel.js"
-},
-    {
-  "title": "僕が死のうと思ったのは",
-  "artist": "中島美嘉",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=182",
-  "source": "earendel.js"
-},
-    {
-  "title": "500天",
-  "artist": "九九",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=183",
-  "source": "earendel.js"
-},
-    {
-  "title": "風のゆくえ",
-  "artist": "Ado",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=184",
-  "source": "earendel.js"
-},
-    {
-  "title": "像我這樣的人",
-  "artist": "毛不易",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=185",
-  "source": "earendel.js"
-},
-    {
-  "title": "deja vu",
-  "artist": "Olivia Rodrigo",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=186",
-  "source": "earendel.js"
-},
-    {
-  "title": "葉子",
-  "artist": "阿桑",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=187",
-  "source": "earendel.js"
-},
-    {
-  "title": "也可以",
-  "artist": "閻奕格",
-  "collection": "厄倫蒂兒 1期 240101-240506",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dGqeYpEuc?p=188",
-  "source": "earendel.js"
-},
-    {
-  "title": "下雨的晚上",
-  "artist": "黃玠",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=1",
   "source": "earendel.js"
 },
     {
@@ -1558,27 +1086,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "テルーの唄",
-  "artist": "手嶌葵",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=7",
-  "source": "earendel.js"
-},
-    {
   "title": "這是你期盼的長大嗎",
   "artist": "向思思",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=8",
-  "source": "earendel.js"
-},
-    {
-  "title": "メリーゴーランド",
-  "artist": "優里",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=9",
   "source": "earendel.js"
 },
     {
@@ -1598,27 +1110,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "下雨的夜晚",
-  "artist": "蘇打綠",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=12",
-  "source": "earendel.js"
-},
-    {
   "title": "使一顆心免於哀傷",
   "artist": "知更鳥(Chevy)",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=13",
-  "source": "earendel.js"
-},
-    {
-  "title": "愛してる",
-  "artist": "高鈴",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=14",
   "source": "earendel.js"
 },
     {
@@ -1646,14 +1142,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "太陽",
-  "artist": "邱振哲",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=18",
-  "source": "earendel.js"
-},
-    {
   "title": "ほろよい",
   "artist": "さんひ",
   "collection": "厄倫蒂兒 2期 240513-240722",
@@ -1678,22 +1166,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "買你",
-  "artist": "魏如萱",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=22",
-  "source": "earendel.js"
-},
-    {
-  "title": "晩餐歌",
-  "artist": "tuki.",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=23",
-  "source": "earendel.js"
-},
-    {
   "title": "永不失聯的愛",
   "artist": "周興哲",
   "collection": "厄倫蒂兒 2期 240513-240722",
@@ -1702,27 +1174,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "glow",
-  "artist": "keeno feat. 初音ミク",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=25",
-  "source": "earendel.js"
-},
-    {
   "title": "如果可以",
   "artist": "韋禮安",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=26",
-  "source": "earendel.js"
-},
-    {
-  "title": "明日への手紙",
-  "artist": "手嶌葵",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=27",
   "source": "earendel.js"
 },
     {
@@ -1774,14 +1230,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "HAVE A NICE DAY",
-  "artist": "魏如萱",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=34",
-  "source": "earendel.js"
-},
-    {
   "title": "小さな祈り",
   "artist": "岡崎律子",
   "collection": "厄倫蒂兒 2期 240513-240722",
@@ -1806,51 +1254,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "尋人啟事",
-  "artist": "徐佳瑩",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=38",
-  "source": "earendel.js"
-},
-    {
   "title": "プラチナ piano ver.",
   "artist": "坂本真綾",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=39",
-  "source": "earendel.js"
-},
-    {
-  "title": "這是你期盼的長大嗎",
-  "artist": "張齊山",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=40",
-  "source": "earendel.js"
-},
-    {
-  "title": "太陽",
-  "artist": "邱振哲",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=41",
-  "source": "earendel.js"
-},
-    {
-  "title": "真夜中のドア～Stay With Me",
-  "artist": "松原みき",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=42",
-  "source": "earendel.js"
-},
-    {
-  "title": "Butter-Fly",
-  "artist": "和田光司",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=43",
   "source": "earendel.js"
 },
     {
@@ -1862,99 +1270,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "有一種悲傷",
-  "artist": "A-Lin",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=45",
-  "source": "earendel.js"
-},
-    {
-  "title": "藍悼花",
-  "artist": "酔シグレ feat.Lucia",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=46",
-  "source": "earendel.js"
-},
-    {
   "title": "無名",
   "artist": "厄倫蒂兒",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=47",
-  "source": "earendel.js"
-},
-    {
-  "title": "僕が死のうと思ったのは",
-  "artist": "中島美嘉",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=48",
-  "source": "earendel.js"
-},
-    {
-  "title": "求救訊號",
-  "artist": "Vast & Hazy",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=49",
-  "source": "earendel.js"
-},
-    {
-  "title": "刻在我心底的名字",
-  "artist": "盧廣仲",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=50",
-  "source": "earendel.js"
-},
-    {
-  "title": "世界のつづき",
-  "artist": "Ado",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=51",
-  "source": "earendel.js"
-},
-    {
-  "title": "燈光",
-  "artist": "謝震廷",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=52",
-  "source": "earendel.js"
-},
-    {
-  "title": "孤獨的總和",
-  "artist": "吳汶芳",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=53",
-  "source": "earendel.js"
-},
-    {
-  "title": "星屑ビーナス",
-  "artist": "Aimer",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=54",
-  "source": "earendel.js"
-},
-    {
-  "title": "人啊",
-  "artist": "徐佳瑩",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=55",
-  "source": "earendel.js"
-},
-    {
-  "title": "無名",
-  "artist": "厄倫蒂兒",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=56",
   "source": "earendel.js"
 },
     {
@@ -1966,43 +1286,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "雨天",
-  "artist": "孫燕姿",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=58",
-  "source": "earendel.js"
-},
-    {
-  "title": "六等星の夜",
-  "artist": "Aimer",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=59",
-  "source": "earendel.js"
-},
-    {
   "title": "小夜子",
   "artist": "みきとP",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=60",
-  "source": "earendel.js"
-},
-    {
-  "title": "總會有人",
-  "artist": "向思思",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=61",
-  "source": "earendel.js"
-},
-    {
-  "title": "六等星の夜",
-  "artist": "Aimer",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=62",
   "source": "earendel.js"
 },
     {
@@ -2014,83 +1302,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "ちゃんとあるよ",
-  "artist": "傘村トータ feat.可不",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=64",
-  "source": "earendel.js"
-},
-    {
-  "title": "嘉賓",
-  "artist": "張遠",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=65",
-  "source": "earendel.js"
-},
-    {
   "title": "アムリタ",
   "artist": "牧野由依",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=66",
-  "source": "earendel.js"
-},
-    {
-  "title": "太陽",
-  "artist": "邱振哲",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=67",
-  "source": "earendel.js"
-},
-    {
-  "title": "藍悼花",
-  "artist": "酔シグレ feat.Lucia",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=68",
-  "source": "earendel.js"
-},
-    {
-  "title": "求救訊號",
-  "artist": "Vast & Hazy",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=69",
-  "source": "earendel.js"
-},
-    {
-  "title": "下雨的夜晚",
-  "artist": "蘇打綠",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=70",
-  "source": "earendel.js"
-},
-    {
-  "title": "下雨的晚上",
-  "artist": "黃玠",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=71",
-  "source": "earendel.js"
-},
-    {
-  "title": "無名",
-  "artist": "厄倫蒂兒",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=72",
-  "source": "earendel.js"
-},
-    {
-  "title": "HAVE A NICE DAY",
-  "artist": "魏如萱",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=73",
   "source": "earendel.js"
 },
     {
@@ -2126,14 +1342,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "secret base ～君がくれたもの～",
-  "artist": "ZONE",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=78",
-  "source": "earendel.js"
-},
-    {
   "title": "最長的電影",
   "artist": "周杰倫",
   "collection": "厄倫蒂兒 2期 240513-240722",
@@ -2147,14 +1355,6 @@ window.SONG_DATA.push(
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=80",
-  "source": "earendel.js"
-},
-    {
-  "title": "嘉賓",
-  "artist": "張遠",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=81",
   "source": "earendel.js"
 },
     {
@@ -2198,14 +1398,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "deja vu",
-  "artist": "Olivia Rodrigo",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=87",
-  "source": "earendel.js"
-},
-    {
   "title": "コネクト",
   "artist": "ClariS",
   "collection": "厄倫蒂兒 2期 240513-240722",
@@ -2246,35 +1438,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "Butter-Fly",
-  "artist": "和田光司",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=93",
-  "source": "earendel.js"
-},
-    {
-  "title": "誰",
-  "artist": "李友廷",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=94",
-  "source": "earendel.js"
-},
-    {
   "title": "連名帶姓",
   "artist": "張惠妹",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=95",
-  "source": "earendel.js"
-},
-    {
-  "title": "メリーゴーランド",
-  "artist": "優里",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=96",
   "source": "earendel.js"
 },
     {
@@ -2286,35 +1454,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "星屑ビーナス",
-  "artist": "Aimer",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=98",
-  "source": "earendel.js"
-},
-    {
   "title": "我們一樣可惜",
   "artist": "好樂團 GoodBand",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=99",
-  "source": "earendel.js"
-},
-    {
-  "title": "這是你期盼的長大嗎",
-  "artist": "張齊山",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=100",
-  "source": "earendel.js"
-},
-    {
-  "title": "打上花火",
-  "artist": "DAOKO、米津玄師",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=101",
   "source": "earendel.js"
 },
     {
@@ -2363,14 +1507,6 @@ window.SONG_DATA.push(
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=107",
-  "source": "earendel.js"
-},
-    {
-  "title": "Butter-Fly",
-  "artist": "和田光司",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=108",
   "source": "earendel.js"
 },
     {
@@ -2486,35 +1622,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "I'll be the one",
-  "artist": "HΛL",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=123",
-  "source": "earendel.js"
-},
-    {
   "title": "Over Soul",
   "artist": "林原めぐみ",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=124",
-  "source": "earendel.js"
-},
-    {
-  "title": "天然的最好",
-  "artist": "盧廣仲",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=125",
-  "source": "earendel.js"
-},
-    {
-  "title": "HAVE A NICE DAY",
-  "artist": "魏如萱",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=126",
   "source": "earendel.js"
 },
     {
@@ -2590,30 +1702,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "孤獨的總和",
-  "artist": "吳汶芳",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=136",
-  "source": "earendel.js"
-},
-    {
-  "title": "在迦納共和國離婚",
-  "artist": "菲道爾",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=137",
-  "source": "earendel.js"
-},
-    {
-  "title": "残響散歌",
-  "artist": "Aimer",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=138",
-  "source": "earendel.js"
-},
-    {
   "title": "おジャ魔女カーニバル!!",
   "artist": "MAHO堂",
   "collection": "厄倫蒂兒 2期 240513-240722",
@@ -2627,14 +1715,6 @@ window.SONG_DATA.push(
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=140",
-  "source": "earendel.js"
-},
-    {
-  "title": "少女レイ",
-  "artist": "みきとP feat.初音ミク",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=141",
   "source": "earendel.js"
 },
     {
@@ -2702,27 +1782,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "変わらないもの",
-  "artist": "奥華子",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=150",
-  "source": "earendel.js"
-},
-    {
   "title": "夢と葉桜",
   "artist": "青木月光",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=151",
-  "source": "earendel.js"
-},
-    {
-  "title": "コネクト",
-  "artist": "ClariS",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=152",
   "source": "earendel.js"
 },
     {
@@ -2742,38 +1806,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "変わらないもの",
-  "artist": "奥華子",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=155",
-  "source": "earendel.js"
-},
-    {
-  "title": "情歌",
-  "artist": "梁靜茹",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=156",
-  "source": "earendel.js"
-},
-    {
-  "title": "我的一個道姑朋友",
-  "artist": "以冬",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=157",
-  "source": "earendel.js"
-},
-    {
-  "title": "夢と葉桜",
-  "artist": "青木月光",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=158",
-  "source": "earendel.js"
-},
-    {
   "title": "那年夏天寧靜的海",
   "artist": "王心凌",
   "collection": "厄倫蒂兒 2期 240513-240722",
@@ -2790,163 +1822,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "有一種悲傷",
-  "artist": "A-Lin",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=161",
-  "source": "earendel.js"
-},
-    {
-  "title": "連名帶姓",
-  "artist": "張惠妹",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=162",
-  "source": "earendel.js"
-},
-    {
-  "title": "メリーゴーランド",
-  "artist": "優里",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=163",
-  "source": "earendel.js"
-},
-    {
-  "title": "プラチナ",
-  "artist": "坂本真綾",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=164",
-  "source": "earendel.js"
-},
-    {
-  "title": "下雨的晚上",
-  "artist": "黃玠",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=165",
-  "source": "earendel.js"
-},
-    {
   "title": "グレゴリオ",
   "artist": "古川本舗",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=166",
-  "source": "earendel.js"
-},
-    {
-  "title": "プラネタリウム",
-  "artist": "大塚愛",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=167",
-  "source": "earendel.js"
-},
-    {
-  "title": "夢と葉桜",
-  "artist": "青木月光",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=168",
-  "source": "earendel.js"
-},
-    {
-  "title": "ひまわりの約束",
-  "artist": "秦 基博",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=169",
-  "source": "earendel.js"
-},
-    {
-  "title": "A Thousand Years",
-  "artist": "Christina Perri",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=170",
-  "source": "earendel.js"
-},
-    {
-  "title": "テルーの唄",
-  "artist": "手嶌葵",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=171",
-  "source": "earendel.js"
-},
-    {
-  "title": "路過人間",
-  "artist": "郁可唯",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=172",
-  "source": "earendel.js"
-},
-    {
-  "title": "いのちの名前",
-  "artist": "木村弓",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=173",
-  "source": "earendel.js"
-},
-    {
-  "title": "星屑ビーナス",
-  "artist": "Aimer",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=174",
-  "source": "earendel.js"
-},
-    {
-  "title": "六等星の夜",
-  "artist": "Aimer",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=175",
-  "source": "earendel.js"
-},
-    {
-  "title": "下雨的晚上",
-  "artist": "黃玠",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=176",
-  "source": "earendel.js"
-},
-    {
-  "title": "還想聽你的故事",
-  "artist": "謝春花 ft. 王碧浪",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=177",
-  "source": "earendel.js"
-},
-    {
-  "title": "藍悼花",
-  "artist": "酔シグレ feat.Lucia",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=178",
-  "source": "earendel.js"
-},
-    {
-  "title": "這是你期盼的長大嗎",
-  "artist": "張齊山",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=179",
-  "source": "earendel.js"
-},
-    {
-  "title": "當我回家",
-  "artist": "許莉潔 & 安懂",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=180",
   "source": "earendel.js"
 },
     {
@@ -2966,102 +1846,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "secret base ～君がくれたもの～",
-  "artist": "ZONE",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=183",
-  "source": "earendel.js"
-},
-    {
-  "title": "無名",
-  "artist": "厄倫蒂兒",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=184",
-  "source": "earendel.js"
-},
-    {
-  "title": "ソラゴト",
-  "artist": "明透",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=185",
-  "source": "earendel.js"
-},
-    {
-  "title": "走了嗎",
-  "artist": "袁惟仁 feat.張若凡",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=186",
-  "source": "earendel.js"
-},
-    {
-  "title": "晩餐歌",
-  "artist": "tuki.",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=187",
-  "source": "earendel.js"
-},
-    {
-  "title": "ちゃんとあるよ",
-  "artist": "傘村トータ feat.可不",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=188",
-  "source": "earendel.js"
-},
-    {
-  "title": "埋",
-  "artist": "好樂團 GoodBand",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=189",
-  "source": "earendel.js"
-},
-    {
-  "title": "好想愛這個世界啊",
-  "artist": "華晨宇",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=190",
-  "source": "earendel.js"
-},
-    {
-  "title": "I LOVE YOU",
-  "artist": "クリス・ハート",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=191",
-  "source": "earendel.js"
-},
-    {
-  "title": "在迦納共和國離婚",
-  "artist": "菲道爾",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=192",
-  "source": "earendel.js"
-},
-    {
-  "title": "小さな祈り",
-  "artist": "岡崎律子",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=1",
-  "source": "earendel.js"
-},
-    {
-  "title": "A Thousand Years",
-  "artist": "Christina Perri",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=2",
-  "source": "earendel.js"
-},
-    {
   "title": "Fly Me To The Moon",
   "artist": "Frank Sinatra",
   "collection": "厄倫蒂兒 3期 240723-240920",
@@ -3070,83 +1854,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "六等星の夜",
-  "artist": "Aimer",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=4",
-  "source": "earendel.js"
-},
-    {
-  "title": "プラネタリウム",
-  "artist": "大塚愛",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=5",
-  "source": "earendel.js"
-},
-    {
-  "title": "也可以",
-  "artist": "閻奕格",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=6",
-  "source": "earendel.js"
-},
-    {
-  "title": "想和你看五月的晚霞",
-  "artist": "陳華",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=7",
-  "source": "earendel.js"
-},
-    {
-  "title": "藍悼花",
-  "artist": "酔シグレ feat.Lucia",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=8",
-  "source": "earendel.js"
-},
-    {
-  "title": "壞人",
-  "artist": "方炯鑌",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=9",
-  "source": "earendel.js"
-},
-    {
-  "title": "心做し",
-  "artist": "蝶々P feat. GUMI",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=10",
-  "source": "earendel.js"
-},
-    {
   "title": "Stellar Stellar",
   "artist": "星街すいせい",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=11",
-  "source": "earendel.js"
-},
-    {
-  "title": "GHOST",
-  "artist": "星街すいせい",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=12",
-  "source": "earendel.js"
-},
-    {
-  "title": "夢と葉桜",
-  "artist": "青木月光",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=13",
   "source": "earendel.js"
 },
     {
@@ -3163,14 +1875,6 @@ window.SONG_DATA.push(
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=15",
-  "source": "earendel.js"
-},
-    {
-  "title": "消愁",
-  "artist": "毛不易",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=16",
   "source": "earendel.js"
 },
     {
@@ -3198,67 +1902,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "這是你期盼的長大嗎",
-  "artist": "張齊山",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=20",
-  "source": "earendel.js"
-},
-    {
-  "title": "Lemon",
-  "artist": "米津玄師",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=21",
-  "source": "earendel.js"
-},
-    {
   "title": "海の幽霊",
   "artist": "米津玄師",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=22",
-  "source": "earendel.js"
-},
-    {
-  "title": "葉子",
-  "artist": "阿桑",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=23",
-  "source": "earendel.js"
-},
-    {
-  "title": "蒲公英的約定",
-  "artist": "周杰倫",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=24",
-  "source": "earendel.js"
-},
-    {
-  "title": "君に最後の口づけを",
-  "artist": "majiko",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=25",
-  "source": "earendel.js"
-},
-    {
-  "title": "埋",
-  "artist": "好樂團 GoodBand",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=26",
-  "source": "earendel.js"
-},
-    {
-  "title": "也可以",
-  "artist": "閻奕格",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=27",
   "source": "earendel.js"
 },
     {
@@ -3278,83 +1926,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "やさしさに包まれたなら",
-  "artist": "荒井由実",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=30",
-  "source": "earendel.js"
-},
-    {
-  "title": "自娛自樂",
-  "artist": "金志文",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=31",
-  "source": "earendel.js"
-},
-    {
-  "title": "残響散歌",
-  "artist": "Aimer",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=32",
-  "source": "earendel.js"
-},
-    {
-  "title": "ビビデバ",
-  "artist": "星街すいせい",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=33",
-  "source": "earendel.js"
-},
-    {
-  "title": "コネクト",
-  "artist": "ClariS",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=34",
-  "source": "earendel.js"
-},
-    {
-  "title": "與浪之間",
-  "artist": "Vast & Hazy",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=35",
-  "source": "earendel.js"
-},
-    {
-  "title": "Catch You Catch Me",
-  "artist": "日向めぐみ",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=36",
-  "source": "earendel.js"
-},
-    {
   "title": "夕景イエスタデイ",
   "artist": "じん feat.IA",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=37",
-  "source": "earendel.js"
-},
-    {
-  "title": "暮色迴響",
-  "artist": "吉星出租",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=38",
-  "source": "earendel.js"
-},
-    {
-  "title": "メリーゴーランド",
-  "artist": "優里",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=39",
   "source": "earendel.js"
 },
     {
@@ -3374,22 +1950,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "路過人間",
-  "artist": "郁可唯",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=42",
-  "source": "earendel.js"
-},
-    {
-  "title": "打上花火",
-  "artist": "DAOKO、米津玄師",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=43",
-  "source": "earendel.js"
-},
-    {
   "title": "不曾回來過",
   "artist": "李千娜",
   "collection": "厄倫蒂兒 3期 240723-240920",
@@ -3403,14 +1963,6 @@ window.SONG_DATA.push(
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=45",
-  "source": "earendel.js"
-},
-    {
-  "title": "アムリタ",
-  "artist": "牧野由依",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=46",
   "source": "earendel.js"
 },
     {
@@ -3430,30 +1982,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "騙",
-  "artist": "張碧晨",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=49",
-  "source": "earendel.js"
-},
-    {
-  "title": "失恋ソング沢山聴いて 泣いてばかりの私はもう。",
-  "artist": "りりあ。",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=50",
-  "source": "earendel.js"
-},
-    {
-  "title": "暮色迴響",
-  "artist": "吉星出租",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=51",
-  "source": "earendel.js"
-},
-    {
   "title": "ありがとう",
   "artist": "kokia",
   "collection": "厄倫蒂兒 3期 240723-240920",
@@ -3467,14 +1995,6 @@ window.SONG_DATA.push(
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=53",
-  "source": "earendel.js"
-},
-    {
-  "title": "你啊你啊",
-  "artist": "魏如萱",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=54",
   "source": "earendel.js"
 },
     {
@@ -3518,27 +2038,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "人間だった",
-  "artist": "ピコン",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=60",
-  "source": "earendel.js"
-},
-    {
   "title": "時間都去哪兒了",
   "artist": "姚貝娜",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=61",
-  "source": "earendel.js"
-},
-    {
-  "title": "僕が死のうと思ったのは",
-  "artist": "中島美嘉",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=62",
   "source": "earendel.js"
 },
     {
@@ -3550,91 +2054,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "行走的魚",
-  "artist": "徐佳瑩",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=64",
-  "source": "earendel.js"
-},
-    {
-  "title": "ドライフラワー",
-  "artist": "優里",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=65",
-  "source": "earendel.js"
-},
-    {
-  "title": "風のゆくえ",
-  "artist": "Ado",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=66",
-  "source": "earendel.js"
-},
-    {
-  "title": "下雨的晚上",
-  "artist": "黃玠",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=67",
-  "source": "earendel.js"
-},
-    {
-  "title": "我睡不著",
-  "artist": "守夜人",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=68",
-  "source": "earendel.js"
-},
-    {
-  "title": "ピエロ",
-  "artist": "KEI feat.初音ミク",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=69",
-  "source": "earendel.js"
-},
-    {
   "title": "妥協",
   "artist": "蔡依林",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=70",
-  "source": "earendel.js"
-},
-    {
-  "title": "突然好想你",
-  "artist": "五月天",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=71",
-  "source": "earendel.js"
-},
-    {
-  "title": "オレンジ",
-  "artist": "7!!",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=72",
-  "source": "earendel.js"
-},
-    {
-  "title": "在迦納共和國離婚",
-  "artist": "菲道爾",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=73",
-  "source": "earendel.js"
-},
-    {
-  "title": "ソラゴト",
-  "artist": "明透",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=74",
   "source": "earendel.js"
 },
     {
@@ -3646,83 +2070,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "茜さす",
-  "artist": "Aimer",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=76",
-  "source": "earendel.js"
-},
-    {
-  "title": "愛してる",
-  "artist": "高鈴",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=77",
-  "source": "earendel.js"
-},
-    {
-  "title": "有一種悲傷",
-  "artist": "A-Lin",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=78",
-  "source": "earendel.js"
-},
-    {
-  "title": "瘋子",
-  "artist": "許哲珮",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=79",
-  "source": "earendel.js"
-},
-    {
-  "title": "心做し",
-  "artist": "蝶々P feat. GUMI",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=80",
-  "source": "earendel.js"
-},
-    {
-  "title": "行走的魚",
-  "artist": "徐佳瑩",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=81",
-  "source": "earendel.js"
-},
-    {
-  "title": "路過人間",
-  "artist": "郁可唯",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=82",
-  "source": "earendel.js"
-},
-    {
-  "title": "旋木",
-  "artist": "王菲",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=83",
-  "source": "earendel.js"
-},
-    {
   "title": "旅の途中",
   "artist": "清浦夏実",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=84",
-  "source": "earendel.js"
-},
-    {
-  "title": "おはよう",
-  "artist": "Keno",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=85",
   "source": "earendel.js"
 },
     {
@@ -3742,51 +2094,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "買你",
-  "artist": "魏如萱",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=88",
-  "source": "earendel.js"
-},
-    {
-  "title": "六等星の夜",
-  "artist": "Aimer",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=89",
-  "source": "earendel.js"
-},
-    {
-  "title": "妥協",
-  "artist": "蔡依林",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=90",
-  "source": "earendel.js"
-},
-    {
-  "title": "暮色迴響",
-  "artist": "吉星出租",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=91",
-  "source": "earendel.js"
-},
-    {
   "title": "隱形的翅膀",
   "artist": "張韶涵",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=92",
-  "source": "earendel.js"
-},
-    {
-  "title": "天ノ弱",
-  "artist": "164 feat.GUMI",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=93",
   "source": "earendel.js"
 },
     {
@@ -3806,67 +2118,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "新時代",
-  "artist": "Ado",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=96",
-  "source": "earendel.js"
-},
-    {
-  "title": "逆光",
-  "artist": "Ado",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=97",
-  "source": "earendel.js"
-},
-    {
   "title": "怪物",
   "artist": "YOASOBI",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=98",
-  "source": "earendel.js"
-},
-    {
-  "title": "残響散歌",
-  "artist": "Aimer",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=99",
-  "source": "earendel.js"
-},
-    {
-  "title": "打上花火",
-  "artist": "DAOKO、米津玄師",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=100",
-  "source": "earendel.js"
-},
-    {
-  "title": "ドライフラワー",
-  "artist": "優里",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=101",
-  "source": "earendel.js"
-},
-    {
-  "title": "夢と葉桜",
-  "artist": "青木月光",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=102",
-  "source": "earendel.js"
-},
-    {
-  "title": "你的行李",
-  "artist": "謝震廷 & 徐靖玟",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=103",
   "source": "earendel.js"
 },
     {
@@ -3878,75 +2134,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "身後",
-  "artist": "張惠妹",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=105",
-  "source": "earendel.js"
-},
-    {
-  "title": "Refrain",
-  "artist": "Aimer",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=106",
-  "source": "earendel.js"
-},
-    {
   "title": "11",
   "artist": "黃禮格",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=107",
-  "source": "earendel.js"
-},
-    {
-  "title": "変わらないもの",
-  "artist": "奥華子",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=108",
-  "source": "earendel.js"
-},
-    {
-  "title": "這是你期盼的長大嗎",
-  "artist": "張齊山",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=109",
-  "source": "earendel.js"
-},
-    {
-  "title": "secret base ～君がくれたもの～",
-  "artist": "ZONE",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=110",
-  "source": "earendel.js"
-},
-    {
-  "title": "太陽",
-  "artist": "邱振哲",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=111",
-  "source": "earendel.js"
-},
-    {
-  "title": "ありがとう",
-  "artist": "kokia",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=112",
-  "source": "earendel.js"
-},
-    {
-  "title": "ひまわりの約束",
-  "artist": "秦 基博",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=113",
   "source": "earendel.js"
 },
     {
@@ -3958,35 +2150,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "出口",
-  "artist": "徐佳瑩",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=115",
-  "source": "earendel.js"
-},
-    {
-  "title": "你啊你啊",
-  "artist": "魏如萱",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=116",
-  "source": "earendel.js"
-},
-    {
   "title": "家後",
   "artist": "江蕙",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=117",
-  "source": "earendel.js"
-},
-    {
-  "title": "HAVE A NICE DAY",
-  "artist": "魏如萱",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=118",
   "source": "earendel.js"
 },
     {
@@ -3998,67 +2166,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "逆光",
-  "artist": "Ado",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=120",
-  "source": "earendel.js"
-},
-    {
-  "title": "暮色迴響",
-  "artist": "吉星出租",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=121",
-  "source": "earendel.js"
-},
-    {
-  "title": "レオ",
-  "artist": "優里",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=122",
-  "source": "earendel.js"
-},
-    {
-  "title": "在迦納共和國離婚",
-  "artist": "菲道爾",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=123",
-  "source": "earendel.js"
-},
-    {
   "title": "メフィスト",
   "artist": "女王蜂",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=124",
-  "source": "earendel.js"
-},
-    {
-  "title": "残響散歌",
-  "artist": "Aimer",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=125",
-  "source": "earendel.js"
-},
-    {
-  "title": "11",
-  "artist": "黃禮格",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=126",
-  "source": "earendel.js"
-},
-    {
-  "title": "ちゃんとあるよ",
-  "artist": "傘村トータ feat.可不",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=127",
   "source": "earendel.js"
 },
     {
@@ -4078,67 +2190,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "メリーゴーランド",
-  "artist": "優里",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=130",
-  "source": "earendel.js"
-},
-    {
-  "title": "行走的魚",
-  "artist": "徐佳瑩",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=131",
-  "source": "earendel.js"
-},
-    {
-  "title": "プラネタリウム",
-  "artist": "大塚愛",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=132",
-  "source": "earendel.js"
-},
-    {
-  "title": "消愁",
-  "artist": "毛不易",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=133",
-  "source": "earendel.js"
-},
-    {
-  "title": "心做し",
-  "artist": "蝶々P feat. GUMI",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=134",
-  "source": "earendel.js"
-},
-    {
   "title": "長大以後",
   "artist": "Vising",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=135",
-  "source": "earendel.js"
-},
-    {
-  "title": "ひまわりの約束",
-  "artist": "秦 基博",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=136",
-  "source": "earendel.js"
-},
-    {
-  "title": "下雨的晚上",
-  "artist": "黃玠",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=137",
   "source": "earendel.js"
 },
     {
@@ -4158,30 +2214,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "新時代",
-  "artist": "Ado",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=140",
-  "source": "earendel.js"
-},
-    {
-  "title": "Shake it！",
-  "artist": "初音ミク feat 鏡音リン・レン",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=141",
-  "source": "earendel.js"
-},
-    {
-  "title": "残響散歌",
-  "artist": "Aimer",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=142",
-  "source": "earendel.js"
-},
-    {
   "title": "気分上々↑↑",
   "artist": "mihimaru GT",
   "collection": "厄倫蒂兒 3期 240723-240920",
@@ -4198,27 +2230,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "God knows...",
-  "artist": "平野綾",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=145",
-  "source": "earendel.js"
-},
-    {
   "title": "アイドル",
   "artist": "YOASOBI",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=146",
-  "source": "earendel.js"
-},
-    {
-  "title": "ビビデバ",
-  "artist": "星街すいせい",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=147",
   "source": "earendel.js"
 },
     {
@@ -4238,35 +2254,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "GHOST",
-  "artist": "星街すいせい",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=150",
-  "source": "earendel.js"
-},
-    {
   "title": "シリウスの心臓",
   "artist": "ヰ世界情緒",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=151",
-  "source": "earendel.js"
-},
-    {
-  "title": "買你",
-  "artist": "魏如萱",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=152",
-  "source": "earendel.js"
-},
-    {
-  "title": "月牙灣",
-  "artist": "F.I.R.",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=153",
   "source": "earendel.js"
 },
     {
@@ -4310,14 +2302,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "世界のつづき",
-  "artist": "Ado",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=159",
-  "source": "earendel.js"
-},
-    {
   "title": "となりのトトロ",
   "artist": "井上あずみ",
   "collection": "厄倫蒂兒 3期 240723-240920",
@@ -4334,91 +2318,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "HAVE A NICE DAY",
-  "artist": "魏如萱",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=162",
-  "source": "earendel.js"
-},
-    {
-  "title": "Tell Your World",
-  "artist": "livetune feat. 初音ミク",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=163",
-  "source": "earendel.js"
-},
-    {
   "title": "第一天",
   "artist": "孫燕姿",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=164",
-  "source": "earendel.js"
-},
-    {
-  "title": "花になって",
-  "artist": "緑黄色社会",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=165",
-  "source": "earendel.js"
-},
-    {
-  "title": "Butter-Fly",
-  "artist": "和田光司",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=166",
-  "source": "earendel.js"
-},
-    {
-  "title": "Summertime",
-  "artist": "cinnamons × evening cinema",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=167",
-  "source": "earendel.js"
-},
-    {
-  "title": "買你",
-  "artist": "魏如萱",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=168",
-  "source": "earendel.js"
-},
-    {
-  "title": "暮色迴響",
-  "artist": "吉星出租",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=169",
-  "source": "earendel.js"
-},
-    {
-  "title": "自娛自樂",
-  "artist": "金志文",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=170",
-  "source": "earendel.js"
-},
-    {
-  "title": "HAVE A NICE DAY",
-  "artist": "魏如萱",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=171",
-  "source": "earendel.js"
-},
-    {
-  "title": "残響散歌",
-  "artist": "Aimer",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=172",
   "source": "earendel.js"
 },
     {
@@ -4435,38 +2339,6 @@ window.SONG_DATA.push(
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=174",
-  "source": "earendel.js"
-},
-    {
-  "title": "Butter-Fly",
-  "artist": "和田光司",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=175",
-  "source": "earendel.js"
-},
-    {
-  "title": "晴る",
-  "artist": "ヨルシカ",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=176",
-  "source": "earendel.js"
-},
-    {
-  "title": "少女レイ",
-  "artist": "みきとP feat.初音ミク",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=177",
-  "source": "earendel.js"
-},
-    {
-  "title": "ウィーアー!",
-  "artist": "きただにひろし",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=178",
   "source": "earendel.js"
 },
     {
@@ -4510,22 +2382,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "別找我麻煩",
-  "artist": "蔡健雅",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=184",
-  "source": "earendel.js"
-},
-    {
-  "title": "晩餐歌",
-  "artist": "tuki.",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=185",
-  "source": "earendel.js"
-},
-    {
   "title": "I Really Want to Stay at Your House",
   "artist": "Rosa Walton & Hallie Coggins",
   "collection": "厄倫蒂兒 3期 240723-240920",
@@ -4542,67 +2398,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "星になる",
-  "artist": "Islet feat.倚水",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=188",
-  "source": "earendel.js"
-},
-    {
-  "title": "新時代",
-  "artist": "Ado",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=189",
-  "source": "earendel.js"
-},
-    {
-  "title": "光るなら",
-  "artist": "Goose house",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=190",
-  "source": "earendel.js"
-},
-    {
-  "title": "暮色迴響",
-  "artist": "吉星出租",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=191",
-  "source": "earendel.js"
-},
-    {
   "title": "夜に駆ける",
   "artist": "YOASOBI",
   "collection": "厄倫蒂兒 3期 240723-240920",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=192",
-  "source": "earendel.js"
-},
-    {
-  "title": "花になって",
-  "artist": "緑黄色社会",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=193",
-  "source": "earendel.js"
-},
-    {
-  "title": "逆光",
-  "artist": "Ado",
-  "collection": "厄倫蒂兒 3期 240723-240920",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV169kNY8EA8?p=194",
-  "source": "earendel.js"
-},
-    {
-  "title": "一番の宝物",
-  "artist": "Karuta",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=1",
   "source": "earendel.js"
 },
     {
@@ -4630,99 +2430,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "六等星の夜",
-  "artist": "Aimer",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=5",
-  "source": "earendel.js"
-},
-    {
-  "title": "也可以",
-  "artist": "閻奕格",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=6",
-  "source": "earendel.js"
-},
-    {
-  "title": "ソラゴト",
-  "artist": "明透",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=7",
-  "source": "earendel.js"
-},
-    {
-  "title": "求救訊號",
-  "artist": "Vast & Hazy",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=8",
-  "source": "earendel.js"
-},
-    {
-  "title": "心做し",
-  "artist": "蝶々P feat. GUMI",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=9",
-  "source": "earendel.js"
-},
-    {
-  "title": "晩餐歌",
-  "artist": "tuki.",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=10",
-  "source": "earendel.js"
-},
-    {
-  "title": "暮色迴響",
-  "artist": "吉星出租",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=11",
-  "source": "earendel.js"
-},
-    {
-  "title": "瞬き",
-  "artist": "back number",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=12",
-  "source": "earendel.js"
-},
-    {
   "title": "太阳",
   "artist": "邱振哲",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=13",
-  "source": "earendel.js"
-},
-    {
-  "title": "誰",
-  "artist": "李友廷",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=14",
-  "source": "earendel.js"
-},
-    {
-  "title": "讓世界暫停一分鐘",
-  "artist": "鄧紫棋",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=15",
-  "source": "earendel.js"
-},
-    {
-  "title": "僕が死のうと思ったのは",
-  "artist": "中島美嘉",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=16",
   "source": "earendel.js"
 },
     {
@@ -4734,179 +2446,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "藍悼花",
-  "artist": "酔シグレ feat.Lucia",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=18",
-  "source": "earendel.js"
-},
-    {
-  "title": "你不是第一個離開的人",
-  "artist": "鄧紫棋",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=19",
-  "source": "earendel.js"
-},
-    {
-  "title": "時間都去哪兒了",
-  "artist": "姚貝娜",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=20",
-  "source": "earendel.js"
-},
-    {
-  "title": "secret base ～君がくれたもの～",
-  "artist": "ZONE",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=21",
-  "source": "earendel.js"
-},
-    {
-  "title": "求救訊號",
-  "artist": "Vast & Hazy",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=22",
-  "source": "earendel.js"
-},
-    {
-  "title": "像我這樣的人",
-  "artist": "毛不易",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=23",
-  "source": "earendel.js"
-},
-    {
-  "title": "消愁",
-  "artist": "毛不易",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=24",
-  "source": "earendel.js"
-},
-    {
-  "title": "夢と葉桜",
-  "artist": "青木月光",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=25",
-  "source": "earendel.js"
-},
-    {
-  "title": "暮色迴響",
-  "artist": "吉星出租",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=26",
-  "source": "earendel.js"
-},
-    {
-  "title": "好想愛這個世界啊",
-  "artist": "華晨宇",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=27",
-  "source": "earendel.js"
-},
-    {
-  "title": "突然好想你",
-  "artist": "五月天",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=28",
-  "source": "earendel.js"
-},
-    {
-  "title": "変わらないもの",
-  "artist": "奥華子",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=29",
-  "source": "earendel.js"
-},
-    {
-  "title": "魚仔",
-  "artist": "盧廣仲",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=30",
-  "source": "earendel.js"
-},
-    {
-  "title": "嘉賓",
-  "artist": "張遠",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=31",
-  "source": "earendel.js"
-},
-    {
-  "title": "有一種悲傷",
-  "artist": "A-Lin",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=32",
-  "source": "earendel.js"
-},
-    {
-  "title": "行走的魚",
-  "artist": "徐佳瑩",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=33",
-  "source": "earendel.js"
-},
-    {
-  "title": "ピエロ",
-  "artist": "kei feat.初音ミク",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=34",
-  "source": "earendel.js"
-},
-    {
-  "title": "プラチナ",
-  "artist": "坂本真綾",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=35",
-  "source": "earendel.js"
-},
-    {
   "title": "たからもの",
   "artist": "こむろゆい",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=36",
-  "source": "earendel.js"
-},
-    {
-  "title": "メリーゴーランド",
-  "artist": "優里",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=37",
-  "source": "earendel.js"
-},
-    {
-  "title": "おジャ魔女カーニバル!!",
-  "artist": "MAHO堂",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=38",
-  "source": "earendel.js"
-},
-    {
-  "title": "となりのトトロ",
-  "artist": "井上あずみ",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=39",
   "source": "earendel.js"
 },
     {
@@ -4950,14 +2494,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "おはよう",
-  "artist": "Keno",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=45",
-  "source": "earendel.js"
-},
-    {
   "title": "風のうた",
   "artist": "本田美奈子",
   "collection": "厄倫蒂兒 4期 240923-241115",
@@ -4974,62 +2510,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "Over Soul",
-  "artist": "林原めぐみ",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=48",
-  "source": "earendel.js"
-},
-    {
-  "title": "Butter-Fly",
-  "artist": "和田光司",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=49",
-  "source": "earendel.js"
-},
-    {
-  "title": "人質",
-  "artist": "張惠妹",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=50",
-  "source": "earendel.js"
-},
-    {
-  "title": "A Thousand Years",
-  "artist": "Christina Perri",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=51",
-  "source": "earendel.js"
-},
-    {
-  "title": "I LOVE YOU",
-  "artist": "クリス・ハート",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=52",
-  "source": "earendel.js"
-},
-    {
-  "title": "路過人間",
-  "artist": "郁可唯",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=53",
-  "source": "earendel.js"
-},
-    {
-  "title": "To My Youth (Jap. ver)",
-  "artist": "Bolbbalgan4",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=54",
-  "source": "earendel.js"
-},
-    {
   "title": "他們說我是沒有用的年輕人",
   "artist": "好樂團GoodBand",
   "collection": "厄倫蒂兒 4期 240923-241115",
@@ -5038,75 +2518,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "明日への手紙",
-  "artist": "手嶌葵",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=56",
-  "source": "earendel.js"
-},
-    {
-  "title": "這是你期盼的長大嗎",
-  "artist": "張齊山",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=57",
-  "source": "earendel.js"
-},
-    {
   "title": "BREATHE (Jap. ver)",
   "artist": "Leehi",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=58",
-  "source": "earendel.js"
-},
-    {
-  "title": "那些年",
-  "artist": "胡夏",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=59",
-  "source": "earendel.js"
-},
-    {
-  "title": "六等星の夜",
-  "artist": "Aimer",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=60",
-  "source": "earendel.js"
-},
-    {
-  "title": "小幸運",
-  "artist": "田馥甄",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=61",
-  "source": "earendel.js"
-},
-    {
-  "title": "僕が死のうと思ったのは",
-  "artist": "中島美嘉",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=62",
-  "source": "earendel.js"
-},
-    {
-  "title": "魚仔",
-  "artist": "盧廣仲",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=63",
-  "source": "earendel.js"
-},
-    {
-  "title": "我要快樂",
-  "artist": "張惠妹",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=64",
   "source": "earendel.js"
 },
     {
@@ -5134,51 +2550,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "晴る",
-  "artist": "ヨルシカ",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=68",
-  "source": "earendel.js"
-},
-    {
-  "title": "おジャ魔女カーニバル!!",
-  "artist": "MAHO堂",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=69",
-  "source": "earendel.js"
-},
-    {
   "title": "墓仔埔也敢去",
   "artist": "伍佰",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=70",
-  "source": "earendel.js"
-},
-    {
-  "title": "神のまにまに",
-  "artist": "れるりり feat.ミク & リン & GUMI",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=71",
-  "source": "earendel.js"
-},
-    {
-  "title": "Mela!",
-  "artist": "緑黄色社会",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=72",
-  "source": "earendel.js"
-},
-    {
-  "title": "第一天",
-  "artist": "孫燕姿",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=73",
   "source": "earendel.js"
 },
     {
@@ -5190,107 +2566,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "only my railgun",
-  "artist": "fripSide",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=75",
-  "source": "earendel.js"
-},
-    {
-  "title": "你知道星星多重嗎",
-  "artist": "鄭興",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=76",
-  "source": "earendel.js"
-},
-    {
   "title": "花に亡霊",
   "artist": "ヨルシカ",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=77",
-  "source": "earendel.js"
-},
-    {
-  "title": "Fly Me To The Moon",
-  "artist": "Frank Sinatra",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=78",
-  "source": "earendel.js"
-},
-    {
-  "title": "崇拜",
-  "artist": "梁靜茹",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=79",
-  "source": "earendel.js"
-},
-    {
-  "title": "シリウスの心臓",
-  "artist": "ヰ世界情緒",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=80",
-  "source": "earendel.js"
-},
-    {
-  "title": "你不是第一個離開的人",
-  "artist": "鄧紫棋",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=81",
-  "source": "earendel.js"
-},
-    {
-  "title": "六等星の夜",
-  "artist": "Aimer",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=82",
-  "source": "earendel.js"
-},
-    {
-  "title": "求救訊號",
-  "artist": "Vast & Hazy",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=83",
-  "source": "earendel.js"
-},
-    {
-  "title": "deja vu",
-  "artist": "Olivia Rodrigo",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=84",
-  "source": "earendel.js"
-},
-    {
-  "title": "心做し",
-  "artist": "蝶々P feat. GUMI",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=85",
-  "source": "earendel.js"
-},
-    {
-  "title": "路過人間",
-  "artist": "郁可唯",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=86",
-  "source": "earendel.js"
-},
-    {
-  "title": "ドライフラワー",
-  "artist": "優里",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=87",
   "source": "earendel.js"
 },
     {
@@ -5307,38 +2587,6 @@ window.SONG_DATA.push(
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=89",
-  "source": "earendel.js"
-},
-    {
-  "title": "メリーゴーランド",
-  "artist": "優里",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=90",
-  "source": "earendel.js"
-},
-    {
-  "title": "也可以",
-  "artist": "閻奕格",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=91",
-  "source": "earendel.js"
-},
-    {
-  "title": "無名",
-  "artist": "厄倫蒂兒",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=92",
-  "source": "earendel.js"
-},
-    {
-  "title": "恋",
-  "artist": "星野源",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=93",
   "source": "earendel.js"
 },
     {
@@ -5366,22 +2614,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "新時代",
-  "artist": "ADO",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=97",
-  "source": "earendel.js"
-},
-    {
-  "title": "好想愛這個世界啊",
-  "artist": "華晨宇",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=98",
-  "source": "earendel.js"
-},
-    {
   "title": "小さな恋のうた",
   "artist": "MONGOL800",
   "collection": "厄倫蒂兒 4期 240923-241115",
@@ -5390,27 +2622,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "Lemon",
-  "artist": "米津玄師",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=100",
-  "source": "earendel.js"
-},
-    {
   "title": "神っぽいな",
   "artist": "DECO27",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=101",
-  "source": "earendel.js"
-},
-    {
-  "title": "アイドル",
-  "artist": "YOASOBI",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=102",
   "source": "earendel.js"
 },
     {
@@ -5430,14 +2646,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "自娛自樂",
-  "artist": "金志文",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=105",
-  "source": "earendel.js"
-},
-    {
   "title": "不太確定這首是什麼 (原創曲嗎) -",
   "artist": "来源处未提供标准格式歌手",
   "collection": "厄倫蒂兒 4期 240923-241115",
@@ -5446,35 +2654,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "埋",
-  "artist": "好樂團 Good Band",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=107",
-  "source": "earendel.js"
-},
-    {
   "title": "月影",
   "artist": "Aimer",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=108",
-  "source": "earendel.js"
-},
-    {
-  "title": "六等星",
-  "artist": "ざらめ",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=109",
-  "source": "earendel.js"
-},
-    {
-  "title": "最長的電影",
-  "artist": "周杰倫",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=110",
   "source": "earendel.js"
 },
     {
@@ -5494,51 +2678,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "雪の華",
-  "artist": "中島美嘉",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=113",
-  "source": "earendel.js"
-},
-    {
-  "title": "如果可以",
-  "artist": "韋禮安",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=114",
-  "source": "earendel.js"
-},
-    {
   "title": "からくりピエロ",
   "artist": "初音ミク",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=115",
-  "source": "earendel.js"
-},
-    {
-  "title": "燈光",
-  "artist": "謝震廷",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=116",
-  "source": "earendel.js"
-},
-    {
-  "title": "メリーゴーランド",
-  "artist": "優里",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=117",
-  "source": "earendel.js"
-},
-    {
-  "title": "葉子",
-  "artist": "阿桑",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=118",
   "source": "earendel.js"
 },
     {
@@ -5555,14 +2699,6 @@ window.SONG_DATA.push(
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=120",
-  "source": "earendel.js"
-},
-    {
-  "title": "太陽",
-  "artist": "邱振哲",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=121",
   "source": "earendel.js"
 },
     {
@@ -5606,43 +2742,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "沒有我的那個宇宙",
-  "artist": "持修",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=127",
-  "source": "earendel.js"
-},
-    {
   "title": "能不能請你別把我丟下",
   "artist": "好樂團GoodBand",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=128",
-  "source": "earendel.js"
-},
-    {
-  "title": "黑暗的盡頭",
-  "artist": "Crispy脆樂團",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=129",
-  "source": "earendel.js"
-},
-    {
-  "title": "路過人間",
-  "artist": "郁可唯",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=130",
-  "source": "earendel.js"
-},
-    {
-  "title": "六等星の夜",
-  "artist": "Aimer",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=131",
   "source": "earendel.js"
 },
     {
@@ -5662,51 +2766,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "黑暗的盡頭",
-  "artist": "Crispy脆樂團",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=134",
-  "source": "earendel.js"
-},
-    {
   "title": "星屑の夜空",
   "artist": "厄倫蒂兒 Earendel",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=135",
-  "source": "earendel.js"
-},
-    {
-  "title": "情歌",
-  "artist": "梁靜茹",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=136",
-  "source": "earendel.js"
-},
-    {
-  "title": "晚餐歌",
-  "artist": "Tuki.",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=137",
-  "source": "earendel.js"
-},
-    {
-  "title": "あなたにおくるアイの歌",
-  "artist": "EGOIST",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=138",
-  "source": "earendel.js"
-},
-    {
-  "title": "いのちの名前",
-  "artist": "木村弓",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=139",
   "source": "earendel.js"
 },
     {
@@ -5731,46 +2795,6 @@ window.SONG_DATA.push(
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=142",
-  "source": "earendel.js"
-},
-    {
-  "title": "六等星の夜",
-  "artist": "Aimer",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=143",
-  "source": "earendel.js"
-},
-    {
-  "title": "残響散歌",
-  "artist": "Aimer",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=144",
-  "source": "earendel.js"
-},
-    {
-  "title": "老闆吃我煎餃(未取名原創曲)",
-  "artist": "蒂兒",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=145",
-  "source": "earendel.js"
-},
-    {
-  "title": "想和你看五月的晚霞",
-  "artist": "陳華",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=146",
-  "source": "earendel.js"
-},
-    {
-  "title": "さんぽ",
-  "artist": "井上杏美",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=147",
   "source": "earendel.js"
 },
     {
@@ -5822,59 +2846,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "月影",
-  "artist": "Aimer",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=154",
-  "source": "earendel.js"
-},
-    {
-  "title": "黑暗的盡頭",
-  "artist": "Crispy脆樂團",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=155",
-  "source": "earendel.js"
-},
-    {
-  "title": "シリウスの心臓",
-  "artist": "ヰ世界情緒",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=156",
-  "source": "earendel.js"
-},
-    {
   "title": "我把我的青春給你",
   "artist": "好樂團 GoodBand",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=157",
-  "source": "earendel.js"
-},
-    {
-  "title": "六等星の夜",
-  "artist": "Aimer",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=158",
-  "source": "earendel.js"
-},
-    {
-  "title": "あなたにおくるアイの歌",
-  "artist": "EGOIST",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=159",
-  "source": "earendel.js"
-},
-    {
-  "title": "いのちの名前",
-  "artist": "木村弓",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=160",
   "source": "earendel.js"
 },
     {
@@ -5894,14 +2870,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "尋人啟事",
-  "artist": "徐佳瑩",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=163",
-  "source": "earendel.js"
-},
-    {
   "title": "sercret base 君がくねたもの",
   "artist": "ZONE",
   "collection": "厄倫蒂兒 4期 240923-241115",
@@ -5918,14 +2886,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "オレンジ",
-  "artist": "7!!",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=166",
-  "source": "earendel.js"
-},
-    {
   "title": "我的一個道姑朋友",
   "artist": "雙笙",
   "collection": "厄倫蒂兒 4期 240923-241115",
@@ -5934,59 +2894,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "ソラゴト",
-  "artist": "明透",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=168",
-  "source": "earendel.js"
-},
-    {
-  "title": "騙",
-  "artist": "張碧晨",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=169",
-  "source": "earendel.js"
-},
-    {
-  "title": "晚餐歌",
-  "artist": "Tuki.",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=170",
-  "source": "earendel.js"
-},
-    {
-  "title": "暮色迴響",
-  "artist": "吉星出租",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=171",
-  "source": "earendel.js"
-},
-    {
   "title": "心做し",
   "artist": "GUMI",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=172",
-  "source": "earendel.js"
-},
-    {
-  "title": "你知道星星多重嗎",
-  "artist": "鄭興",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=173",
-  "source": "earendel.js"
-},
-    {
-  "title": "突然好想你",
-  "artist": "五月天",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=174",
   "source": "earendel.js"
 },
     {
@@ -6030,38 +2942,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "鳥の詩",
-  "artist": "Lia",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=180",
-  "source": "earendel.js"
-},
-    {
-  "title": "Butter-Fly",
-  "artist": "和田光司",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=181",
-  "source": "earendel.js"
-},
-    {
-  "title": "人質",
-  "artist": "張惠妹",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=182",
-  "source": "earendel.js"
-},
-    {
-  "title": "崇拜",
-  "artist": "梁靜茹",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=183",
-  "source": "earendel.js"
-},
-    {
   "title": "未取名原創曲",
   "artist": "蒂兒",
   "collection": "厄倫蒂兒 4期 240923-241115",
@@ -6070,43 +2950,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "月影",
-  "artist": "Aimer",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=185",
-  "source": "earendel.js"
-},
-    {
-  "title": "Have a Nice Day",
-  "artist": "魏如萱",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=186",
-  "source": "earendel.js"
-},
-    {
   "title": "老闆吃我煎餃",
   "artist": "蒂兒",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=187",
-  "source": "earendel.js"
-},
-    {
-  "title": "下雨的晚上",
-  "artist": "黃玠",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=188",
-  "source": "earendel.js"
-},
-    {
-  "title": "埋",
-  "artist": "好樂團GoodBand",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=189",
   "source": "earendel.js"
 },
     {
@@ -6131,22 +2979,6 @@ window.SONG_DATA.push(
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=192",
-  "source": "earendel.js"
-},
-    {
-  "title": "あなたにおくるアイの歌",
-  "artist": "EGOIST",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=193",
-  "source": "earendel.js"
-},
-    {
-  "title": "路過人間",
-  "artist": "郁可唯",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=194",
   "source": "earendel.js"
 },
     {
@@ -6318,14 +3150,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "心做し",
-  "artist": "GUMI",
-  "collection": "厄倫蒂兒 5期 241212-241218",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BXk2YGETn?p=19",
-  "source": "earendel.js"
-},
-    {
   "title": "Rolling Girl",
   "artist": "初音ミク",
   "collection": "厄倫蒂兒 5期 241212-241218",
@@ -6358,14 +3182,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "全世界誰傾聽你",
-  "artist": "林宥嘉",
-  "collection": "厄倫蒂兒 5期 241212-241218",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BXk2YGETn?p=24",
-  "source": "earendel.js"
-},
-    {
   "title": "フィナーレ。",
   "artist": "eill",
   "collection": "厄倫蒂兒 5期 241212-241218",
@@ -6379,70 +3195,6 @@ window.SONG_DATA.push(
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BXk2YGETn?p=26",
-  "source": "earendel.js"
-},
-    {
-  "title": "For フルーツバスケット",
-  "artist": "岡崎律子",
-  "collection": "厄倫蒂兒 5期 241212-241218",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BXk2YGETn?p=27",
-  "source": "earendel.js"
-},
-    {
-  "title": "刻在我心底的名字",
-  "artist": "盧廣仲",
-  "collection": "厄倫蒂兒 5期 241212-241218",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BXk2YGETn?p=28",
-  "source": "earendel.js"
-},
-    {
-  "title": "下雨天",
-  "artist": "南拳媽媽",
-  "collection": "厄倫蒂兒 5期 241212-241218",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BXk2YGETn?p=29",
-  "source": "earendel.js"
-},
-    {
-  "title": "暮色迴響",
-  "artist": "吉星出租",
-  "collection": "厄倫蒂兒 5期 241212-241218",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BXk2YGETn?p=30",
-  "source": "earendel.js"
-},
-    {
-  "title": "ありがとう",
-  "artist": "KOKIA",
-  "collection": "厄倫蒂兒 5期 241212-241218",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BXk2YGETn?p=31",
-  "source": "earendel.js"
-},
-    {
-  "title": "總會有人",
-  "artist": "向思思",
-  "collection": "厄倫蒂兒 5期 241212-241218",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BXk2YGETn?p=32",
-  "source": "earendel.js"
-},
-    {
-  "title": "小さな祈り",
-  "artist": "岡崎律子",
-  "collection": "厄倫蒂兒 5期 241212-241218",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BXk2YGETn?p=33",
-  "source": "earendel.js"
-},
-    {
-  "title": "買你",
-  "artist": "魏如萱",
-  "collection": "厄倫蒂兒 5期 241212-241218",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BXk2YGETn?p=34",
   "source": "earendel.js"
 },
     {
@@ -6462,59 +3214,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "暮色迴響",
-  "artist": "吉星出租",
-  "collection": "厄倫蒂兒 5期 241212-241218",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BXk2YGETn?p=37",
-  "source": "earendel.js"
-},
-    {
-  "title": "変わらないもの",
-  "artist": "奧華子",
-  "collection": "厄倫蒂兒 5期 241212-241218",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BXk2YGETn?p=38",
-  "source": "earendel.js"
-},
-    {
   "title": "風になる",
   "artist": "辻亞彌乃",
   "collection": "厄倫蒂兒 5期 241212-241218",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BXk2YGETn?p=39",
-  "source": "earendel.js"
-},
-    {
-  "title": "小さな恋のうた",
-  "artist": "MONGOL800",
-  "collection": "厄倫蒂兒 5期 241212-241218",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BXk2YGETn?p=40",
-  "source": "earendel.js"
-},
-    {
-  "title": "晴る",
-  "artist": "ヨルシカ",
-  "collection": "厄倫蒂兒 5期 241212-241218",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BXk2YGETn?p=41",
-  "source": "earendel.js"
-},
-    {
-  "title": "埋",
-  "artist": "好樂團GoodBand",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=1",
-  "source": "earendel.js"
-},
-    {
-  "title": "ちゃんとあるよ",
-  "artist": "可不",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=2",
   "source": "earendel.js"
 },
     {
@@ -6526,27 +3230,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "風のゆくえ",
-  "artist": "Ado",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=4",
-  "source": "earendel.js"
-},
-    {
   "title": "斑馬斑馬",
   "artist": "宋冬野",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=5",
-  "source": "earendel.js"
-},
-    {
-  "title": "晚餐歌",
-  "artist": "tuki.",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=6",
   "source": "earendel.js"
 },
     {
@@ -6582,43 +3270,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "A Thousand Years",
-  "artist": "Christina Perri",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=11",
-  "source": "earendel.js"
-},
-    {
-  "title": "小王",
-  "artist": "毛不易",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=12",
-  "source": "earendel.js"
-},
-    {
   "title": "失落沙洲",
   "artist": "徐佳瑩 (再一次)",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=13",
-  "source": "earendel.js"
-},
-    {
-  "title": "路過人間",
-  "artist": "郁可唯",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=14",
-  "source": "earendel.js"
-},
-    {
-  "title": "六等星の夜",
-  "artist": "Aimer",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=15",
   "source": "earendel.js"
 },
     {
@@ -6630,27 +3286,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "コネクト",
-  "artist": "ClariS",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=17",
-  "source": "earendel.js"
-},
-    {
   "title": "SUN",
   "artist": "星野源",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=18",
-  "source": "earendel.js"
-},
-    {
-  "title": "天然的最好",
-  "artist": "盧廣仲",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=19",
   "source": "earendel.js"
 },
     {
@@ -6678,22 +3318,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "となりのトトロ",
-  "artist": "井上あずみ",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=23",
-  "source": "earendel.js"
-},
-    {
-  "title": "おジャ魔女カーニバル!!",
-  "artist": "MAHO堂",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=24",
-  "source": "earendel.js"
-},
-    {
   "title": "暁の車",
   "artist": "FictionJunction",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
@@ -6710,27 +3334,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "暮色迴響",
-  "artist": "吉星出租",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=27",
-  "source": "earendel.js"
-},
-    {
   "title": "ウィーアー! (We Are!)",
   "artist": "北谷洋",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=28",
-  "source": "earendel.js"
-},
-    {
-  "title": "新時代",
-  "artist": "Ado",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=29",
   "source": "earendel.js"
 },
     {
@@ -6747,70 +3355,6 @@ window.SONG_DATA.push(
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=31",
-  "source": "earendel.js"
-},
-    {
-  "title": "残酷な天使のテーゼ",
-  "artist": "高橋洋子",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=32",
-  "source": "earendel.js"
-},
-    {
-  "title": "小幸運",
-  "artist": "田馥甄",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=33",
-  "source": "earendel.js"
-},
-    {
-  "title": "Butter-Fly",
-  "artist": "和田光司",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=34",
-  "source": "earendel.js"
-},
-    {
-  "title": "孤獨的總和",
-  "artist": "吳汶芳",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=35",
-  "source": "earendel.js"
-},
-    {
-  "title": "明日への手紙",
-  "artist": "手嶌葵",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=36",
-  "source": "earendel.js"
-},
-    {
-  "title": "能不能請你別把我丟下",
-  "artist": "好樂團Goodband",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=37",
-  "source": "earendel.js"
-},
-    {
-  "title": "オレンジ",
-  "artist": "7!!",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=38",
-  "source": "earendel.js"
-},
-    {
-  "title": "願溫柔的你被世界溫柔以待",
-  "artist": "綠繡眼Zos",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=39",
   "source": "earendel.js"
 },
     {
@@ -6846,22 +3390,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "星屑ビーナス",
-  "artist": "Aimer",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=44",
-  "source": "earendel.js"
-},
-    {
-  "title": "身後",
-  "artist": "張惠妹",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=45",
-  "source": "earendel.js"
-},
-    {
   "title": "身後（清唱版）",
   "artist": "張惠妹",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
@@ -6875,54 +3403,6 @@ window.SONG_DATA.push(
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=47",
-  "source": "earendel.js"
-},
-    {
-  "title": "晴る",
-  "artist": "ヨルシカ",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=48",
-  "source": "earendel.js"
-},
-    {
-  "title": "安和橋",
-  "artist": "宋冬野",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=49",
-  "source": "earendel.js"
-},
-    {
-  "title": "消愁",
-  "artist": "毛不易",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=50",
-  "source": "earendel.js"
-},
-    {
-  "title": "像我這樣的人",
-  "artist": "毛不易",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=51",
-  "source": "earendel.js"
-},
-    {
-  "title": "テルーの唄",
-  "artist": "手嶌葵",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=52",
-  "source": "earendel.js"
-},
-    {
-  "title": "下雨的晚上",
-  "artist": "黃玠",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=53",
   "source": "earendel.js"
 },
     {
@@ -6942,30 +3422,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "Butter-Fly",
-  "artist": "和田光司",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=56",
-  "source": "earendel.js"
-},
-    {
-  "title": "買你",
-  "artist": "魏如萱",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=57",
-  "source": "earendel.js"
-},
-    {
-  "title": "埋",
-  "artist": "好樂團 GoodBand",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=58",
-  "source": "earendel.js"
-},
-    {
   "title": "ちゃんとあるよ",
   "artist": "可不kafu",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
@@ -6979,14 +3435,6 @@ window.SONG_DATA.push(
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=60",
-  "source": "earendel.js"
-},
-    {
-  "title": "レオ",
-  "artist": "優里",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=61",
   "source": "earendel.js"
 },
     {
@@ -7006,14 +3454,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "這是你期盼的長大嗎",
-  "artist": "張齊山",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=64",
-  "source": "earendel.js"
-},
-    {
   "title": "想幸福的人（清唱版）",
   "artist": "楊丞琳",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
@@ -7030,35 +3470,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "僕が死のうと思ったのは",
-  "artist": "中島美嘉",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=67",
-  "source": "earendel.js"
-},
-    {
-  "title": "我們一樣可惜",
-  "artist": "好樂團 GoodBand",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=68",
-  "source": "earendel.js"
-},
-    {
   "title": "secret base 〜君がくれたもの",
   "artist": "ZONE",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=69",
-  "source": "earendel.js"
-},
-    {
-  "title": "不難",
-  "artist": "徐佳瑩",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=70",
   "source": "earendel.js"
 },
     {
@@ -7078,22 +3494,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "メリーゴーランド",
-  "artist": "優里",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=73",
-  "source": "earendel.js"
-},
-    {
-  "title": "小幸運",
-  "artist": "田馥甄",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=74",
-  "source": "earendel.js"
-},
-    {
   "title": "Answer",
   "artist": "幾田りら",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
@@ -7107,14 +3507,6 @@ window.SONG_DATA.push(
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=76",
-  "source": "earendel.js"
-},
-    {
-  "title": "A Thousand Years",
-  "artist": "Christina Perri",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=77",
   "source": "earendel.js"
 },
     {
@@ -7134,54 +3526,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "I Love You",
-  "artist": "クリス・ハート",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=80",
-  "source": "earendel.js"
-},
-    {
-  "title": "500天",
-  "artist": "九九",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=81",
-  "source": "earendel.js"
-},
-    {
-  "title": "ドライフラワー",
-  "artist": "優里",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=82",
-  "source": "earendel.js"
-},
-    {
-  "title": "太陽",
-  "artist": "邱振哲",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=83",
-  "source": "earendel.js"
-},
-    {
-  "title": "Stay With Me",
-  "artist": "松原美紀",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=84",
-  "source": "earendel.js"
-},
-    {
-  "title": "路過人間",
-  "artist": "郁可唯",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tiSwB3E7c?p=85",
-  "source": "earendel.js"
-},
-    {
   "title": "また あした",
   "artist": "ふわりP ft. 初音ミク",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年01月06日~2025年01月27日 86p",
@@ -7190,83 +3534,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "人質",
-  "artist": "張惠妹",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=1",
-  "source": "earendel.js"
-},
-    {
   "title": "わたしと君とを繋ぐもの",
   "artist": "初音ミク",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=2",
-  "source": "earendel.js"
-},
-    {
-  "title": "蒲公英的約定",
-  "artist": "周杰倫",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=3",
-  "source": "earendel.js"
-},
-    {
-  "title": "六等星の夜",
-  "artist": "Aimer",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=4",
-  "source": "earendel.js"
-},
-    {
-  "title": "我曾遇到一束光",
-  "artist": "葉斯淳",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=5",
-  "source": "earendel.js"
-},
-    {
-  "title": "ひまわりの約束",
-  "artist": "秦基博",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=6",
-  "source": "earendel.js"
-},
-    {
-  "title": "我喜歡你",
-  "artist": "洪安妮",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=7",
-  "source": "earendel.js"
-},
-    {
-  "title": "いのちの名前",
-  "artist": "木村弓",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=8",
-  "source": "earendel.js"
-},
-    {
-  "title": "愛你",
-  "artist": "王心凌",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=9",
-  "source": "earendel.js"
-},
-    {
-  "title": "たからもの",
-  "artist": "こむろゆい",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=10",
   "source": "earendel.js"
 },
     {
@@ -7294,107 +3566,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "晚餐歌",
-  "artist": "Tuki.",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=14",
-  "source": "earendel.js"
-},
-    {
-  "title": "暮色迴響",
-  "artist": "吉星出租",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=15",
-  "source": "earendel.js"
-},
-    {
-  "title": "風のゆくえ",
-  "artist": "Ado",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=16",
-  "source": "earendel.js"
-},
-    {
   "title": "逆光",
   "artist": "孫燕姿",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=17",
-  "source": "earendel.js"
-},
-    {
-  "title": "シリウスの心臓",
-  "artist": "ヰ世界情緒",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=18",
-  "source": "earendel.js"
-},
-    {
-  "title": "好想愛這個世界啊",
-  "artist": "華晨宇",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=19",
-  "source": "earendel.js"
-},
-    {
-  "title": "For フルーツバスケット",
-  "artist": "岡崎律子",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=20",
-  "source": "earendel.js"
-},
-    {
-  "title": "買你",
-  "artist": "魏如萱",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=21",
-  "source": "earendel.js"
-},
-    {
-  "title": "言って",
-  "artist": "ヨルシカ",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=22",
-  "source": "earendel.js"
-},
-    {
-  "title": "Catch You Catch Me",
-  "artist": "日向惠",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=23",
-  "source": "earendel.js"
-},
-    {
-  "title": "別找我麻煩",
-  "artist": "蔡健雅",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=24",
-  "source": "earendel.js"
-},
-    {
-  "title": "SUN",
-  "artist": "星野源",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=25",
-  "source": "earendel.js"
-},
-    {
-  "title": "月光",
-  "artist": "王心凌",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=26",
   "source": "earendel.js"
 },
     {
@@ -7406,27 +3582,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "晴る",
-  "artist": "ヨルシカ",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=28",
-  "source": "earendel.js"
-},
-    {
   "title": "ムーンライト伝説",
   "artist": "DALI",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=29",
-  "source": "earendel.js"
-},
-    {
-  "title": "ゆずれない願い",
-  "artist": "田村直美",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=30",
   "source": "earendel.js"
 },
     {
@@ -7454,51 +3614,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "Groovy!",
-  "artist": "廣瀨香美",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=34",
-  "source": "earendel.js"
-},
-    {
-  "title": "となりのトトロ",
-  "artist": "井上あずみ",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=35",
-  "source": "earendel.js"
-},
-    {
-  "title": "鳥の詩",
-  "artist": "Lia",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=36",
-  "source": "earendel.js"
-},
-    {
-  "title": "君をのせて",
-  "artist": "井上あずみ",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=37",
-  "source": "earendel.js"
-},
-    {
   "title": "君をのせて（钢琴版）",
   "artist": "井上あずみ",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=38",
-  "source": "earendel.js"
-},
-    {
-  "title": "新時代",
-  "artist": "Ado",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=39",
   "source": "earendel.js"
 },
     {
@@ -7515,14 +3635,6 @@ window.SONG_DATA.push(
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=41",
-  "source": "earendel.js"
-},
-    {
-  "title": "いつも何度でも",
-  "artist": "木村弓",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=42",
   "source": "earendel.js"
 },
     {
@@ -7558,14 +3670,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "ソラゴト",
-  "artist": "明透",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=47",
-  "source": "earendel.js"
-},
-    {
   "title": "最幸福的事",
   "artist": "梁文音",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
@@ -7579,14 +3683,6 @@ window.SONG_DATA.push(
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=49",
-  "source": "earendel.js"
-},
-    {
-  "title": "我睡不著",
-  "artist": "守夜人",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=50",
   "source": "earendel.js"
 },
     {
@@ -7606,35 +3702,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "你知道星星多重嗎",
-  "artist": "鄭興",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=53",
-  "source": "earendel.js"
-},
-    {
   "title": "花は桜 君は美し",
   "artist": "いきものがかり",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=54",
-  "source": "earendel.js"
-},
-    {
-  "title": "這是你期盼的長大嗎",
-  "artist": "張齊山",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=55",
-  "source": "earendel.js"
-},
-    {
-  "title": "黑暗的盡頭",
-  "artist": "Crispy脆樂團",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=56",
   "source": "earendel.js"
 },
     {
@@ -7654,22 +3726,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "六等星の夜",
-  "artist": "Aimer",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=59",
-  "source": "earendel.js"
-},
-    {
-  "title": "孤獨的總和",
-  "artist": "吳汶芳",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=60",
-  "source": "earendel.js"
-},
-    {
   "title": "孤獨的總和（清唱版）",
   "artist": "吳汶芳",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
@@ -7678,43 +3734,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "旋木",
-  "artist": "王菲",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=62",
-  "source": "earendel.js"
-},
-    {
-  "title": "六等星",
-  "artist": "ざらめ",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=63",
-  "source": "earendel.js"
-},
-    {
-  "title": "雨天",
-  "artist": "孫燕姿",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=64",
-  "source": "earendel.js"
-},
-    {
   "title": "雨天（清唱一小段）",
   "artist": "孫燕姿",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=65",
-  "source": "earendel.js"
-},
-    {
-  "title": "僕が死のうと思ったのは",
-  "artist": "中島美嘉",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=66",
   "source": "earendel.js"
 },
     {
@@ -7734,14 +3758,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "晩餐歌",
-  "artist": "tuki.",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=69",
-  "source": "earendel.js"
-},
-    {
   "title": "一直很安靜",
   "artist": "阿桑",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
@@ -7750,59 +3766,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "Refrain",
-  "artist": "Aimer",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=71",
-  "source": "earendel.js"
-},
-    {
-  "title": "星屑の夜空",
-  "artist": "蒂兒",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=72",
-  "source": "earendel.js"
-},
-    {
   "title": "在加納共和國離婚",
   "artist": "菲道爾 & DIOR大穎",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=73",
-  "source": "earendel.js"
-},
-    {
-  "title": "六等星の夜",
-  "artist": "Aimer",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=74",
-  "source": "earendel.js"
-},
-    {
-  "title": "下雨的晚上",
-  "artist": "黃玠",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=75",
-  "source": "earendel.js"
-},
-    {
-  "title": "買你",
-  "artist": "魏如萱",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=76",
-  "source": "earendel.js"
-},
-    {
-  "title": "燈光",
-  "artist": "謝震廷",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=77",
   "source": "earendel.js"
 },
     {
@@ -7830,14 +3798,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "世界の約束",
-  "artist": "倍賞千恵子",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=81",
-  "source": "earendel.js"
-},
-    {
   "title": "暖暖",
   "artist": "梁靜茹",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
@@ -7854,75 +3814,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "星屑の夜空",
-  "artist": "蒂兒",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=84",
-  "source": "earendel.js"
-},
-    {
-  "title": "有一種悲傷",
-  "artist": "A-Lin",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=85",
-  "source": "earendel.js"
-},
-    {
-  "title": "secret base ～君がくれたもの～",
-  "artist": "ZONE",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=86",
-  "source": "earendel.js"
-},
-    {
-  "title": "總會有人",
-  "artist": "向思思",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=87",
-  "source": "earendel.js"
-},
-    {
   "title": "總會有人（清唱一小段）",
   "artist": "向思思",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=88",
-  "source": "earendel.js"
-},
-    {
-  "title": "僕が死のうと思ったのは",
-  "artist": "中島美嘉",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=89",
-  "source": "earendel.js"
-},
-    {
-  "title": "六等星の夜",
-  "artist": "Aimer",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=90",
-  "source": "earendel.js"
-},
-    {
-  "title": "歌に形はないけれど",
-  "artist": "Doriko ft. 初音ミク",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=91",
-  "source": "earendel.js"
-},
-    {
-  "title": "下雨的夜晚",
-  "artist": "蘇打綠",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025年02月03日~2025年02月24日 92p",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USScBrEkU?p=92",
   "source": "earendel.js"
 },
     {
@@ -7934,22 +3830,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "secret base 〜君がくれたもの",
-  "artist": "ZONE",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=2",
-  "source": "earendel.js"
-},
-    {
-  "title": "行星",
-  "artist": "理想混蛋",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=3",
-  "source": "earendel.js"
-},
-    {
   "title": "行星（清唱版）",
   "artist": "理想混蛋",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
@@ -7958,59 +3838,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "也可以",
-  "artist": "閻奕格",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=5",
-  "source": "earendel.js"
-},
-    {
-  "title": "六等星",
-  "artist": "ざらめ",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=6",
-  "source": "earendel.js"
-},
-    {
-  "title": "晩餐歌",
-  "artist": "tuki.",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=7",
-  "source": "earendel.js"
-},
-    {
-  "title": "你還是你嗎",
-  "artist": "魏如萱",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=8",
-  "source": "earendel.js"
-},
-    {
   "title": "落日",
   "artist": "東京事變",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=9",
-  "source": "earendel.js"
-},
-    {
-  "title": "I LOVE YOU",
-  "artist": "クリス・ハート",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=10",
-  "source": "earendel.js"
-},
-    {
-  "title": "黑暗的盡頭",
-  "artist": "Crispy脆樂團",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=11",
   "source": "earendel.js"
 },
     {
@@ -8030,14 +3862,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "總會有人",
-  "artist": "向思思",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=14",
-  "source": "earendel.js"
-},
-    {
   "title": "紅豆（清唱版）",
   "artist": "王菲",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
@@ -8054,27 +3878,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "消愁",
-  "artist": "毛不易",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=17",
-  "source": "earendel.js"
-},
-    {
   "title": "小さきもの",
   "artist": "林明日香",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=18",
-  "source": "earendel.js"
-},
-    {
-  "title": "暮色迴響",
-  "artist": "吉星出租",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=19",
   "source": "earendel.js"
 },
     {
@@ -8102,35 +3910,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "花に亡霊",
-  "artist": "ヨルシカ",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=23",
-  "source": "earendel.js"
-},
-    {
-  "title": "長大以後",
-  "artist": "Vising",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=24",
-  "source": "earendel.js"
-},
-    {
   "title": "長大以後（清唱版）",
   "artist": "Vising",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=25",
-  "source": "earendel.js"
-},
-    {
-  "title": "僕が死のうと思ったのは",
-  "artist": "中島美嘉",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=26",
   "source": "earendel.js"
 },
     {
@@ -8147,22 +3931,6 @@ window.SONG_DATA.push(
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=28",
-  "source": "earendel.js"
-},
-    {
-  "title": "メリーゴーランド",
-  "artist": "優里",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=29",
-  "source": "earendel.js"
-},
-    {
-  "title": "求救信號",
-  "artist": "VH (Vast & Hazy)",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=30",
   "source": "earendel.js"
 },
     {
@@ -8190,14 +3958,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "六等星",
-  "artist": "ざらめ",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=34",
-  "source": "earendel.js"
-},
-    {
   "title": "我曾經遇到的一束光",
   "artist": "葉斯淳",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
@@ -8214,51 +3974,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "全世界誰傾聽你",
-  "artist": "林宥嘉",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=37",
-  "source": "earendel.js"
-},
-    {
-  "title": "行走的魚",
-  "artist": "徐佳瑩",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=38",
-  "source": "earendel.js"
-},
-    {
-  "title": "いのちの名前",
-  "artist": "木村弓",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=39",
-  "source": "earendel.js"
-},
-    {
   "title": "倒帶",
   "artist": "蔡依林",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=40",
-  "source": "earendel.js"
-},
-    {
-  "title": "下雨的晚上",
-  "artist": "黃玠",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=41",
-  "source": "earendel.js"
-},
-    {
-  "title": "想和你看五月的晚霞",
-  "artist": "陳華",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=42",
   "source": "earendel.js"
 },
     {
@@ -8286,27 +4006,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "小さな恋のうた",
-  "artist": "MONGOL800",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=46",
-  "source": "earendel.js"
-},
-    {
   "title": "讓世界暫停一分鐘",
   "artist": "G.E.M.鄧紫棋",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=47",
-  "source": "earendel.js"
-},
-    {
-  "title": "もう頑張らないで",
-  "artist": "ASA",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=48",
   "source": "earendel.js"
 },
     {
@@ -8318,43 +4022,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "ひまわりの約束",
-  "artist": "秦基博",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=50",
-  "source": "earendel.js"
-},
-    {
   "title": "今天就做回小孩吧",
   "artist": "承桓",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=51",
-  "source": "earendel.js"
-},
-    {
-  "title": "夢と葉桜",
-  "artist": "初音ミク",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=52",
-  "source": "earendel.js"
-},
-    {
-  "title": "夢と葉桜（清唱版）",
-  "artist": "初音ミク",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=53",
-  "source": "earendel.js"
-},
-    {
-  "title": "迴避型人格",
-  "artist": "蒂兒",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=54",
   "source": "earendel.js"
 },
     {
@@ -8374,35 +4046,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "晩餐歌",
-  "artist": "tuki.",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=57",
-  "source": "earendel.js"
-},
-    {
-  "title": "崇拜",
-  "artist": "梁靜茹",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=58",
-  "source": "earendel.js"
-},
-    {
   "title": "崇拜（清唱版）",
   "artist": "梁靜茹",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=59",
-  "source": "earendel.js"
-},
-    {
-  "title": "瞬き",
-  "artist": "back number",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=60",
   "source": "earendel.js"
 },
     {
@@ -8438,30 +4086,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "買你",
-  "artist": "魏如萱",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=65",
-  "source": "earendel.js"
-},
-    {
-  "title": "となりのトトロ",
-  "artist": "井上あずみ",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=66",
-  "source": "earendel.js"
-},
-    {
-  "title": "君をのせて",
-  "artist": "井上あずみ",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=67",
-  "source": "earendel.js"
-},
-    {
   "title": "星座になれたら",
   "artist": "結束バンド",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
@@ -8494,27 +4118,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "晴る",
-  "artist": "ヨルシカ",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=72",
-  "source": "earendel.js"
-},
-    {
   "title": "世界上最重要的人",
   "artist": "韋禮安",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=73",
-  "source": "earendel.js"
-},
-    {
-  "title": "買你",
-  "artist": "魏如萱",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=74",
   "source": "earendel.js"
 },
     {
@@ -8542,59 +4150,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "ブルーバード",
-  "artist": "いきものがかり",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=78",
-  "source": "earendel.js"
-},
-    {
   "title": "月陽-ツキアカリ-",
   "artist": "みきとP ft. GUMI",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=79",
-  "source": "earendel.js"
-},
-    {
-  "title": "小さな恋のうた",
-  "artist": "MONGOL800",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=80",
-  "source": "earendel.js"
-},
-    {
-  "title": "新時代",
-  "artist": "ADO",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=81",
-  "source": "earendel.js"
-},
-    {
-  "title": "自娛自樂",
-  "artist": "金志文",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=82",
-  "source": "earendel.js"
-},
-    {
-  "title": "我喜歡你",
-  "artist": "洪安妮",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=83",
-  "source": "earendel.js"
-},
-    {
-  "title": "喜歡你",
-  "artist": "徐佳瑩",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=84",
   "source": "earendel.js"
 },
     {
@@ -8622,14 +4182,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "残響散歌",
-  "artist": "Aimer",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=88",
-  "source": "earendel.js"
-},
-    {
   "title": "ただ君に晴れ",
   "artist": "ヨルシカ",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
@@ -8643,22 +4195,6 @@ window.SONG_DATA.push(
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=90",
-  "source": "earendel.js"
-},
-    {
-  "title": "言不由衷",
-  "artist": "徐佳瑩",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=91",
-  "source": "earendel.js"
-},
-    {
-  "title": "ドライフラワー",
-  "artist": "優里",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=92",
   "source": "earendel.js"
 },
     {
@@ -8702,35 +4238,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "未命名原創曲",
-  "artist": "蒂兒",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=98",
-  "source": "earendel.js"
-},
-    {
   "title": "後來（清唱版）",
   "artist": "劉若英",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=99",
-  "source": "earendel.js"
-},
-    {
-  "title": "lemon",
-  "artist": "米津玄師",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=100",
-  "source": "earendel.js"
-},
-    {
-  "title": "500天",
-  "artist": "九九",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=101",
   "source": "earendel.js"
 },
     {
@@ -8774,14 +4286,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "下雨的晚上",
-  "artist": "黃玠",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=107",
-  "source": "earendel.js"
-},
-    {
   "title": "斑馬，斑馬",
   "artist": "宋冬野",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
@@ -8822,27 +4326,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "オレンジ",
-  "artist": "7!!",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=113",
-  "source": "earendel.js"
-},
-    {
   "title": "オレンジ（清唱版）",
   "artist": "7!!",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=114",
-  "source": "earendel.js"
-},
-    {
-  "title": "連名帶姓",
-  "artist": "張惠妹",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=115",
   "source": "earendel.js"
 },
     {
@@ -8854,35 +4342,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "僕が死のうと思ったのは",
-  "artist": "中島美嘉",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=117",
-  "source": "earendel.js"
-},
-    {
   "title": "僕が死のうと思ったのは（清唱版）",
   "artist": "中島美嘉",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=118",
-  "source": "earendel.js"
-},
-    {
-  "title": "歌に形はないけれど",
-  "artist": "Doriko ft. 初音ミク",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=119",
-  "source": "earendel.js"
-},
-    {
-  "title": "你還是你嗎",
-  "artist": "魏如萱",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=120",
   "source": "earendel.js"
 },
     {
@@ -8910,22 +4374,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "天ノ弱",
-  "artist": "Akie秋繪",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=124",
-  "source": "earendel.js"
-},
-    {
-  "title": "你知道星星多重嗎",
-  "artist": "鄭興",
-  "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WASmB8E5f?p=125",
-  "source": "earendel.js"
-},
-    {
   "title": "你知道星星多重嗎（清唱版）",
   "artist": "鄭興",
   "collection": "【 Earendel ch. 厄倫蒂兒 切片】2025年03月03日 ~ 2025年03月30日",
@@ -8942,35 +4390,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "六等星",
-  "artist": "ざらめ",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=2",
-  "source": "earendel.js"
-},
-    {
-  "title": "時間都去哪兒了",
-  "artist": "姚貝娜",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=3",
-  "source": "earendel.js"
-},
-    {
   "title": "贖罪",
   "artist": "傘村トータ ft. VOCALOIDs",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=4",
-  "source": "earendel.js"
-},
-    {
-  "title": "好想愛這個世界啊",
-  "artist": "華晨宇",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=5",
   "source": "earendel.js"
 },
     {
@@ -8982,30 +4406,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "總會有人",
-  "artist": "向思思",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=7",
-  "source": "earendel.js"
-},
-    {
-  "title": "僕が死のうと思ったのは",
-  "artist": "中島美嘉",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=8",
-  "source": "earendel.js"
-},
-    {
-  "title": "你還是你嗎",
-  "artist": "魏如萱",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=9",
-  "source": "earendel.js"
-},
-    {
   "title": "私の思春期へ",
   "artist": "臉紅的思春期",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
@@ -9014,51 +4414,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "也可以",
-  "artist": "閻奕格",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=11",
-  "source": "earendel.js"
-},
-    {
-  "title": "路過人間",
-  "artist": "郁可唯",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=12",
-  "source": "earendel.js"
-},
-    {
   "title": "生きてるだけでえらいよ",
   "artist": "ReoNa",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=13",
-  "source": "earendel.js"
-},
-    {
-  "title": "蒲公英的約定",
-  "artist": "周杰倫",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=14",
-  "source": "earendel.js"
-},
-    {
-  "title": "心做し",
-  "artist": "蝶々P ft. GUMI",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=15",
-  "source": "earendel.js"
-},
-    {
-  "title": "埋",
-  "artist": "好樂團GoodBand",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=16",
   "source": "earendel.js"
 },
     {
@@ -9078,35 +4438,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "人啊",
-  "artist": "徐佳瑩",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=19",
-  "source": "earendel.js"
-},
-    {
   "title": "人啊（清唱）",
   "artist": "徐佳瑩",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=20",
-  "source": "earendel.js"
-},
-    {
-  "title": "落日",
-  "artist": "東京事變",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=21",
-  "source": "earendel.js"
-},
-    {
-  "title": "這是你期盼的長大嗎",
-  "artist": "張齊山ZQS",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=22",
   "source": "earendel.js"
 },
     {
@@ -9118,43 +4454,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "A Thousand Years",
-  "artist": "Christina Perri",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=24",
-  "source": "earendel.js"
-},
-    {
-  "title": "六等星の夜",
-  "artist": "Aimer",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=25",
-  "source": "earendel.js"
-},
-    {
-  "title": "買你",
-  "artist": "魏如萱",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=26",
-  "source": "earendel.js"
-},
-    {
   "title": "nuit",
   "artist": "春野 ft. 初音ミク",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=27",
-  "source": "earendel.js"
-},
-    {
-  "title": "最幸福的事",
-  "artist": "梁文音",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=28",
   "source": "earendel.js"
 },
     {
@@ -9182,43 +4486,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "歌に形はないけれど",
-  "artist": "doriko ft. 初音ミク",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=32",
-  "source": "earendel.js"
-},
-    {
-  "title": "身後",
-  "artist": "張惠妹",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=33",
-  "source": "earendel.js"
-},
-    {
   "title": "身後（清唱）",
   "artist": "張惠妹",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=34",
-  "source": "earendel.js"
-},
-    {
-  "title": "かたちなきもの",
-  "artist": "ヰ世界情緒",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=35",
-  "source": "earendel.js"
-},
-    {
-  "title": "人質",
-  "artist": "張惠妹",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=36",
   "source": "earendel.js"
 },
     {
@@ -9230,83 +4502,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "嘉賓",
-  "artist": "張遠",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=38",
-  "source": "earendel.js"
-},
-    {
-  "title": "I LOVE YOU",
-  "artist": "クリス・ハート",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=39",
-  "source": "earendel.js"
-},
-    {
   "title": "夜明けと蛍",
   "artist": "初音ミク",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=40",
-  "source": "earendel.js"
-},
-    {
-  "title": "失落沙洲",
-  "artist": "徐佳瑩",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=41",
-  "source": "earendel.js"
-},
-    {
-  "title": "路過人間",
-  "artist": "郁可唯",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=42",
-  "source": "earendel.js"
-},
-    {
-  "title": "你還是你嗎",
-  "artist": "魏如萱",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=43",
-  "source": "earendel.js"
-},
-    {
-  "title": "For フルーツバスケット",
-  "artist": "岡崎律子",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=44",
-  "source": "earendel.js"
-},
-    {
-  "title": "いのちの名前",
-  "artist": "木村弓",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=45",
-  "source": "earendel.js"
-},
-    {
-  "title": "変わらないもの",
-  "artist": "奧華子",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=46",
-  "source": "earendel.js"
-},
-    {
-  "title": "人質",
-  "artist": "張惠妹",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=47",
   "source": "earendel.js"
 },
     {
@@ -9318,35 +4518,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "斑馬，斑馬",
-  "artist": "宋冬野",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=49",
-  "source": "earendel.js"
-},
-    {
-  "title": "テルーの唄",
-  "artist": "手嶌葵",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=50",
-  "source": "earendel.js"
-},
-    {
   "title": "わたしのつばさ",
   "artist": "中司雅美",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=51",
-  "source": "earendel.js"
-},
-    {
-  "title": "一直很安靜",
-  "artist": "阿桑",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=52",
   "source": "earendel.js"
 },
     {
@@ -9358,59 +4534,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "晩餐歌",
-  "artist": "tuki.",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=54",
-  "source": "earendel.js"
-},
-    {
-  "title": "言不由衷",
-  "artist": "徐佳瑩",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=55",
-  "source": "earendel.js"
-},
-    {
-  "title": "小幸運",
-  "artist": "田馥甄",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=56",
-  "source": "earendel.js"
-},
-    {
-  "title": "下雨的夜晚",
-  "artist": "蘇打綠",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=57",
-  "source": "earendel.js"
-},
-    {
   "title": "下雨的夜晚（清唱）",
   "artist": "蘇打綠",
   "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=58",
-  "source": "earendel.js"
-},
-    {
-  "title": "Departures 〜あなたにおくるアイの歌〜",
-  "artist": "EGOIST",
-  "collection": "【 Earendel ch. 厄倫蒂兒】60P 2025-04-07 ~ 2025-04-24",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15LBEBzEWi?p=59",
-  "source": "earendel.js"
-},
-    {
-  "title": "ハナミズキ",
-  "artist": "一青窈",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=1",
   "source": "earendel.js"
 },
     {
@@ -9430,14 +4558,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "Fly Me To The Moon",
-  "artist": "Kaye Ballard",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=4",
-  "source": "earendel.js"
-},
-    {
   "title": "letter song",
   "artist": "Akie秋絵",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
@@ -9446,75 +4566,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "還是要幸福",
-  "artist": "田馥甄",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=6",
-  "source": "earendel.js"
-},
-    {
-  "title": "わたしのつばさ",
-  "artist": "中司雅美",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=7",
-  "source": "earendel.js"
-},
-    {
-  "title": "你還是你嗎",
-  "artist": "魏如萱",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=8",
-  "source": "earendel.js"
-},
-    {
-  "title": "也可以",
-  "artist": "閻奕格",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=9",
-  "source": "earendel.js"
-},
-    {
-  "title": "Departures ～あなたにおくるアイの歌～",
-  "artist": "EGOIST",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=10",
-  "source": "earendel.js"
-},
-    {
-  "title": "黑暗的盡頭",
-  "artist": "Crispy脆樂團",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=11",
-  "source": "earendel.js"
-},
-    {
   "title": "黑暗的盡頭（清唱）",
   "artist": "Crispy脆樂團",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=12",
-  "source": "earendel.js"
-},
-    {
-  "title": "求救信號",
-  "artist": "VH (Vast & Hazy)",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=13",
-  "source": "earendel.js"
-},
-    {
-  "title": "這是你期盼的長大嗎",
-  "artist": "張齊山ZQS",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=14",
   "source": "earendel.js"
 },
     {
@@ -9534,22 +4590,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "僕が死のうと思ったのは",
-  "artist": "中島美嘉",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=17",
-  "source": "earendel.js"
-},
-    {
-  "title": "總會有人",
-  "artist": "向思思",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=18",
-  "source": "earendel.js"
-},
-    {
   "title": "總會有人（清唱）",
   "artist": "向思思",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
@@ -9563,22 +4603,6 @@ window.SONG_DATA.push(
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=20",
-  "source": "earendel.js"
-},
-    {
-  "title": "下雨的晚上",
-  "artist": "黃玠",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=21",
-  "source": "earendel.js"
-},
-    {
-  "title": "雨天",
-  "artist": "孫燕姿",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=22",
   "source": "earendel.js"
 },
     {
@@ -9598,22 +4622,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "沒有我的那個宇宙",
-  "artist": "持修",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=25",
-  "source": "earendel.js"
-},
-    {
-  "title": "もう頑張らないで",
-  "artist": "ASA",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=26",
-  "source": "earendel.js"
-},
-    {
   "title": "眼淚記得你",
   "artist": "孫盛希 (再一次)",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
@@ -9622,67 +4630,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "僕が死のうと思ったのは",
-  "artist": "中島美嘉",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=28",
-  "source": "earendel.js"
-},
-    {
-  "title": "燈光",
-  "artist": "謝震廷",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=29",
-  "source": "earendel.js"
-},
-    {
-  "title": "ひまわりの約束",
-  "artist": "秦基博",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=30",
-  "source": "earendel.js"
-},
-    {
   "title": "下一個天亮",
   "artist": "郭靜",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=31",
-  "source": "earendel.js"
-},
-    {
-  "title": "星屑の夜空",
-  "artist": "蒂兒",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=32",
-  "source": "earendel.js"
-},
-    {
-  "title": "行星",
-  "artist": "理想混蛋",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=33",
-  "source": "earendel.js"
-},
-    {
-  "title": "你還是你嗎",
-  "artist": "魏如萱",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=34",
-  "source": "earendel.js"
-},
-    {
-  "title": "心做し",
-  "artist": "蝶々P ft. GUMI",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=35",
   "source": "earendel.js"
 },
     {
@@ -9702,22 +4654,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "世界の約束",
-  "artist": "倍賞千恵子",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=38",
-  "source": "earendel.js"
-},
-    {
-  "title": "人間だった",
-  "artist": "ピコン ft. 初音ミク",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=39",
-  "source": "earendel.js"
-},
-    {
   "title": "使一顆心免於哀傷",
   "artist": "Chevy (知更鳥)",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
@@ -9726,43 +4662,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "總會有人",
-  "artist": "向思思",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=41",
-  "source": "earendel.js"
-},
-    {
   "title": "Ash Again",
   "artist": "Gawr Gura",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=42",
-  "source": "earendel.js"
-},
-    {
-  "title": "人啊",
-  "artist": "徐佳瑩",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=43",
-  "source": "earendel.js"
-},
-    {
-  "title": "オレンジ",
-  "artist": "7!!",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=44",
-  "source": "earendel.js"
-},
-    {
-  "title": "像我這樣的人",
-  "artist": "毛不易",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=45",
   "source": "earendel.js"
 },
     {
@@ -9782,27 +4686,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "変わらないもの",
-  "artist": "奥華子",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=48",
-  "source": "earendel.js"
-},
-    {
   "title": "逃避型人格",
   "artist": "蒂兒",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=49",
-  "source": "earendel.js"
-},
-    {
-  "title": "火金姑",
-  "artist": "吳汶芳",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=50",
   "source": "earendel.js"
 },
     {
@@ -9814,59 +4702,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "晩餐歌",
-  "artist": "tuki.",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=52",
-  "source": "earendel.js"
-},
-    {
-  "title": "給我一個理由忘記",
-  "artist": "A-Lin",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=53",
-  "source": "earendel.js"
-},
-    {
   "title": "水星記",
   "artist": "郭頂",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=54",
-  "source": "earendel.js"
-},
-    {
-  "title": "Avid",
-  "artist": "SawanoHiroyuki[nZk]mizuki",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=55",
-  "source": "earendel.js"
-},
-    {
-  "title": "暮色迴響",
-  "artist": "吉星出租",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=56",
-  "source": "earendel.js"
-},
-    {
-  "title": "明日への手紙",
-  "artist": "手嶌葵",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=57",
-  "source": "earendel.js"
-},
-    {
-  "title": "埋",
-  "artist": "好樂團 Good Band",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=58",
   "source": "earendel.js"
 },
     {
@@ -9886,14 +4726,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "メリーゴーランド",
-  "artist": "優里",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=61",
-  "source": "earendel.js"
-},
-    {
   "title": "能不能請你別把我丟下",
   "artist": "好樂團 Good Band",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
@@ -9902,99 +4734,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "僕が死のうと思ったのは",
-  "artist": "中島美嘉",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=63",
-  "source": "earendel.js"
-},
-    {
-  "title": "下雨天",
-  "artist": "南拳媽媽",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=64",
-  "source": "earendel.js"
-},
-    {
-  "title": "プラネタリウム",
-  "artist": "大塚愛",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=65",
-  "source": "earendel.js"
-},
-    {
-  "title": "最幸福的事",
-  "artist": "梁文音",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=66",
-  "source": "earendel.js"
-},
-    {
-  "title": "シリウスの心臓",
-  "artist": "ヰ世界情緒",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=67",
-  "source": "earendel.js"
-},
-    {
-  "title": "斑馬，斑馬",
-  "artist": "宋冬野",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=68",
-  "source": "earendel.js"
-},
-    {
-  "title": "也可以",
-  "artist": "閻奕格",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=69",
-  "source": "earendel.js"
-},
-    {
   "title": "藍悼花",
   "artist": "Lucia",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=70",
-  "source": "earendel.js"
-},
-    {
-  "title": "給我一個理由忘記",
-  "artist": "A-Lin",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=71",
-  "source": "earendel.js"
-},
-    {
-  "title": "失戀無罪",
-  "artist": "A-Lin",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=72",
-  "source": "earendel.js"
-},
-    {
-  "title": "買你",
-  "artist": "魏如萱",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=73",
-  "source": "earendel.js"
-},
-    {
-  "title": "好久不見",
-  "artist": "陳奕迅",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=74",
   "source": "earendel.js"
 },
     {
@@ -10022,35 +4766,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "消愁",
-  "artist": "毛不易",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=78",
-  "source": "earendel.js"
-},
-    {
   "title": "私の思春期へ",
   "artist": "赤頬思春期",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=79",
-  "source": "earendel.js"
-},
-    {
-  "title": "言不由衷",
-  "artist": "徐佳瑩",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=80",
-  "source": "earendel.js"
-},
-    {
-  "title": "這是你期盼的長大嗎",
-  "artist": "張齊山ZQS",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=81",
   "source": "earendel.js"
 },
     {
@@ -10062,75 +4782,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "僕が死のうと思ったのは",
-  "artist": "中島美嘉",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=83",
-  "source": "earendel.js"
-},
-    {
-  "title": "火金姑",
-  "artist": "吳汶芳",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=84",
-  "source": "earendel.js"
-},
-    {
-  "title": "六等星の夜",
-  "artist": "Aimer",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=85",
-  "source": "earendel.js"
-},
-    {
-  "title": "求救訊號",
-  "artist": "VH (Vast & Hazy)",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=86",
-  "source": "earendel.js"
-},
-    {
-  "title": "想和你看五月的晚霞",
-  "artist": "陳華",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=87",
-  "source": "earendel.js"
-},
-    {
-  "title": "わたしのつばさ",
-  "artist": "中司雅美",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=1",
-  "source": "earendel.js"
-},
-    {
   "title": "送給你的",
   "artist": "好樂團 Good Band",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=2",
-  "source": "earendel.js"
-},
-    {
-  "title": "ドライフラワー",
-  "artist": "優里",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=3",
-  "source": "earendel.js"
-},
-    {
-  "title": "火金姑",
-  "artist": "吳汶芳",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=4",
   "source": "earendel.js"
 },
     {
@@ -10142,51 +4798,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "人啊",
-  "artist": "徐佳瑩",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=6",
-  "source": "earendel.js"
-},
-    {
-  "title": "星の消えた夜に",
-  "artist": "Aimer",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=7",
-  "source": "earendel.js"
-},
-    {
-  "title": "蒲公英的約定",
-  "artist": "周杰倫",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=8",
-  "source": "earendel.js"
-},
-    {
   "title": "トイレの神様",
   "artist": "植村花菜",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=9",
-  "source": "earendel.js"
-},
-    {
-  "title": "你還是你嗎",
-  "artist": "魏如萱",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=10",
-  "source": "earendel.js"
-},
-    {
-  "title": "言不由衷",
-  "artist": "徐佳瑩",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=11",
   "source": "earendel.js"
 },
     {
@@ -10198,51 +4814,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "幾分之幾",
-  "artist": "盧廣仲",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=13",
-  "source": "earendel.js"
-},
-    {
-  "title": "Departures~あなたにおくるアイの歌~",
-  "artist": "EGOIST",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=14",
-  "source": "earendel.js"
-},
-    {
-  "title": "怪獣の花唄",
-  "artist": "Vaundy",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=15",
-  "source": "earendel.js"
-},
-    {
   "title": "PONPONPON",
   "artist": "卡莉怪妞",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=16",
-  "source": "earendel.js"
-},
-    {
-  "title": "第一天",
-  "artist": "孫燕姿",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=17",
-  "source": "earendel.js"
-},
-    {
-  "title": "自娛自樂",
-  "artist": "金志文",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=18",
   "source": "earendel.js"
 },
     {
@@ -10270,30 +4846,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "プラチナ",
-  "artist": "坂本真綾",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=22",
-  "source": "earendel.js"
-},
-    {
-  "title": "Catch You Catch Me",
-  "artist": "日向惠",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=23",
-  "source": "earendel.js"
-},
-    {
-  "title": "コネクト",
-  "artist": "ClariS",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=24",
-  "source": "earendel.js"
-},
-    {
   "title": "Lilac（ライラック）",
   "artist": "Mrs. GREEN APPLE",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
@@ -10318,51 +4870,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "Butter-Fly",
-  "artist": "和田光司",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=28",
-  "source": "earendel.js"
-},
-    {
   "title": "おジャ魔女カーニバル",
   "artist": "MAHO堂",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=29",
-  "source": "earendel.js"
-},
-    {
-  "title": "小さな恋のうた",
-  "artist": "MONGOL800",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=30",
-  "source": "earendel.js"
-},
-    {
-  "title": "逆光",
-  "artist": "孫燕姿",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=31",
-  "source": "earendel.js"
-},
-    {
-  "title": "夜に駆ける",
-  "artist": "YOASOBI",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=32",
-  "source": "earendel.js"
-},
-    {
-  "title": "残響散歌",
-  "artist": "Aimer",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=33",
   "source": "earendel.js"
 },
     {
@@ -10379,22 +4891,6 @@ window.SONG_DATA.push(
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=35",
-  "source": "earendel.js"
-},
-    {
-  "title": "逆光",
-  "artist": "Ado",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=36",
-  "source": "earendel.js"
-},
-    {
-  "title": "メフィスト",
-  "artist": "女王蜂",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=37",
   "source": "earendel.js"
 },
     {
@@ -10422,14 +4918,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "Avid",
-  "artist": "SawanoHiroyuki[nZk]mizuki",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=41",
-  "source": "earendel.js"
-},
-    {
   "title": "恋愛サーキュレーション",
   "artist": "花澤香菜",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
@@ -10446,14 +4934,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "雪の華",
-  "artist": "中島美嘉",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=44",
-  "source": "earendel.js"
-},
-    {
   "title": "レオ（LEO）",
   "artist": "Yuuri",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
@@ -10462,27 +4942,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "六等星の夜",
-  "artist": "Aimer",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=46",
-  "source": "earendel.js"
-},
-    {
   "title": "世界一ごはん",
   "artist": "植村花菜",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=47",
-  "source": "earendel.js"
-},
-    {
-  "title": "Lemon",
-  "artist": "米津玄師",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=48",
   "source": "earendel.js"
 },
     {
@@ -10502,14 +4966,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "突然好想你",
-  "artist": "五月天",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=51",
-  "source": "earendel.js"
-},
-    {
   "title": "修煉愛情",
   "artist": "林俊傑",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
@@ -10518,59 +4974,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "我的一個道姑朋友",
-  "artist": "雙笙",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=53",
-  "source": "earendel.js"
-},
-    {
   "title": "暮色迴響",
   "artist": "張韶涵",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=54",
-  "source": "earendel.js"
-},
-    {
-  "title": "歌に形はないけれど",
-  "artist": "Doriko",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=55",
-  "source": "earendel.js"
-},
-    {
-  "title": "火金姑",
-  "artist": "吳汶芳",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=56",
-  "source": "earendel.js"
-},
-    {
-  "title": "路過人間",
-  "artist": "郁可唯",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=57",
-  "source": "earendel.js"
-},
-    {
-  "title": "地球儀",
-  "artist": "米津玄師",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=58",
-  "source": "earendel.js"
-},
-    {
-  "title": "我也曾經想過這樣殺了我自己",
-  "artist": "南西肯恩",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=59",
   "source": "earendel.js"
 },
     {
@@ -10590,38 +4998,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "起風了",
-  "artist": "吳青峰",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=62",
-  "source": "earendel.js"
-},
-    {
-  "title": "夜明けと蛍",
-  "artist": "ナブナ",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=63",
-  "source": "earendel.js"
-},
-    {
-  "title": "崇拜",
-  "artist": "梁靜茹",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=64",
-  "source": "earendel.js"
-},
-    {
-  "title": "Refrain",
-  "artist": "Aimer",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=65",
-  "source": "earendel.js"
-},
-    {
   "title": "右螢光棒 我也",
   "artist": "蒂兒",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
@@ -10638,67 +5014,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "ドライフラワー",
-  "artist": "優里",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=68",
-  "source": "earendel.js"
-},
-    {
-  "title": "你知道星星多重嗎",
-  "artist": "鄭興",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=69",
-  "source": "earendel.js"
-},
-    {
-  "title": "愛してる",
-  "artist": "高鈴",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=70",
-  "source": "earendel.js"
-},
-    {
-  "title": "求救信號",
-  "artist": "VH (Vast & Hazy)",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=71",
-  "source": "earendel.js"
-},
-    {
-  "title": "我喜歡你",
-  "artist": "洪安妮",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=72",
-  "source": "earendel.js"
-},
-    {
-  "title": "好想愛這個世界啊",
-  "artist": "華晨宇",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=73",
-  "source": "earendel.js"
-},
-    {
   "title": "風になる",
   "artist": "つじあやの",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=74",
-  "source": "earendel.js"
-},
-    {
-  "title": "你還是你嗎",
-  "artist": "魏如萱",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=75",
   "source": "earendel.js"
 },
     {
@@ -10726,203 +5046,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "迴避型人格",
-  "artist": "蒂兒",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=79",
-  "source": "earendel.js"
-},
-    {
-  "title": "行星",
-  "artist": "理想混蛋",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=80",
-  "source": "earendel.js"
-},
-    {
   "title": "To My Youth",
   "artist": "臉紅的思春期",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=81",
-  "source": "earendel.js"
-},
-    {
-  "title": "燈光",
-  "artist": "謝震廷",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=82",
-  "source": "earendel.js"
-},
-    {
-  "title": "僕が死のうと思ったのは",
-  "artist": "中島美嘉",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=83",
-  "source": "earendel.js"
-},
-    {
-  "title": "葉子",
-  "artist": "阿桑",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=84",
-  "source": "earendel.js"
-},
-    {
-  "title": "心做し",
-  "artist": "GUMI",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=85",
-  "source": "earendel.js"
-},
-    {
-  "title": "當我回家",
-  "artist": "許莉潔 & 安懂",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=86",
-  "source": "earendel.js"
-},
-    {
-  "title": "晩餐歌",
-  "artist": "tuki.",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=87",
-  "source": "earendel.js"
-},
-    {
-  "title": "你知道星星多重嗎",
-  "artist": "鄭興",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=88",
-  "source": "earendel.js"
-},
-    {
-  "title": "自娛自樂",
-  "artist": "金志文",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=89",
-  "source": "earendel.js"
-},
-    {
-  "title": "プラチナ",
-  "artist": "坂本真綾",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=90",
-  "source": "earendel.js"
-},
-    {
-  "title": "悪魔の子",
-  "artist": "樋口愛",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=91",
-  "source": "earendel.js"
-},
-    {
-  "title": "可愛くてごめん",
-  "artist": "HoneyWorks",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=92",
-  "source": "earendel.js"
-},
-    {
-  "title": "天然的最好",
-  "artist": "盧廣仲",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=93",
-  "source": "earendel.js"
-},
-    {
-  "title": "怪獣の花唄",
-  "artist": "Vaundy",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=94",
-  "source": "earendel.js"
-},
-    {
-  "title": "買你",
-  "artist": "魏如萱",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=95",
-  "source": "earendel.js"
-},
-    {
-  "title": "メリーゴーランド",
-  "artist": "優里",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=96",
-  "source": "earendel.js"
-},
-    {
-  "title": "HAVE A NICE DAY",
-  "artist": "魏如萱",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=97",
-  "source": "earendel.js"
-},
-    {
-  "title": "For フルーツバスケット",
-  "artist": "岡崎律子",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=98",
-  "source": "earendel.js"
-},
-    {
-  "title": "雨天",
-  "artist": "孫燕姿",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=99",
-  "source": "earendel.js"
-},
-    {
-  "title": "フクロウ ～フクロウが知らせる客が来たと～",
-  "artist": "KOKIA",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=100",
-  "source": "earendel.js"
-},
-    {
-  "title": "太陽",
-  "artist": "邱振哲",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=101",
-  "source": "earendel.js"
-},
-    {
-  "title": "GHOST",
-  "artist": "星街すいせい",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=102",
-  "source": "earendel.js"
-},
-    {
-  "title": "魚在水裡哭",
-  "artist": "深白色二人組",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=103",
   "source": "earendel.js"
 },
     {
@@ -10942,54 +5070,6 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "路過人間",
-  "artist": "郁可唯",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=106",
-  "source": "earendel.js"
-},
-    {
-  "title": "A Thousand Years",
-  "artist": "Christina Perri",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=107",
-  "source": "earendel.js"
-},
-    {
-  "title": "星屑ビーナス",
-  "artist": "Aimer",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=108",
-  "source": "earendel.js"
-},
-    {
-  "title": "ドライフラワー",
-  "artist": "優里",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=109",
-  "source": "earendel.js"
-},
-    {
-  "title": "六等星の夜",
-  "artist": "Aimer",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=110",
-  "source": "earendel.js"
-},
-    {
-  "title": "旋木",
-  "artist": "王菲",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=111",
-  "source": "earendel.js"
-},
-    {
   "title": "GHOST",
   "artist": "星街すいせい (鋼琴版)",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
@@ -11003,54 +5083,6 @@ window.SONG_DATA.push(
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=113",
-  "source": "earendel.js"
-},
-    {
-  "title": "火金姑",
-  "artist": "吳汶芳",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=114",
-  "source": "earendel.js"
-},
-    {
-  "title": "燈光",
-  "artist": "謝震廷",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=115",
-  "source": "earendel.js"
-},
-    {
-  "title": "ソラゴト",
-  "artist": "明透",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=116",
-  "source": "earendel.js"
-},
-    {
-  "title": "Fly Me To The Moon",
-  "artist": "Frank Sinatra",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=117",
-  "source": "earendel.js"
-},
-    {
-  "title": "星屑ビーナス",
-  "artist": "Aimer",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=118",
-  "source": "earendel.js"
-},
-    {
-  "title": "行星",
-  "artist": "理想混蛋",
-  "collection": "【 Earendel ch. 厄倫蒂兒】2025-06-02 ~ 2025-06-30 119P",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13cBbBfETR?p=119",
   "source": "earendel.js"
 }
 );
