@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据
 // 来源: https://www.bilibili.com/video/BV1p1zBBCEZ3
-// 生成时间: 3/5/2026, 1:15:16 AM
+// 生成时间: 3/5/2026, 4:06:58 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -26227,6 +26227,206 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-03-03]初見さん大募集！ [6k9OGUF71Tc]YOSHIKA よしか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1f6PFzfE9N?p=27",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "collection": "【🍠🦍歌切】[2026-03-04]初見さん大募集！[dvlUPx1S_1A] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjP6zBEFr?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "カサブタ",
+  "artist": "千綿偉功",
+  "collection": "【🍠🦍歌切】[2026-03-04]初見さん大募集！[dvlUPx1S_1A] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjP6zBEFr?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アローラ!!",
+  "artist": "松本梨香",
+  "collection": "【🍠🦍歌切】[2026-03-04]初見さん大募集！[dvlUPx1S_1A] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjP6zBEFr?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "１・２・３",
+  "artist": "After the Rain（そらる×まふまふ）",
+  "collection": "【🍠🦍歌切】[2026-03-04]初見さん大募集！[dvlUPx1S_1A] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjP6zBEFr?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【🍠🦍歌切】[2026-03-04]初見さん大募集！[dvlUPx1S_1A] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjP6zBEFr?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "気分上々↑↑",
+  "artist": "mihimaru GT",
+  "collection": "【🍠🦍歌切】[2026-03-04]初見さん大募集！[dvlUPx1S_1A] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjP6zBEFr?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【🍠🦍歌切】[2026-03-04]初見さん大募集！[dvlUPx1S_1A] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjP6zBEFr?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "【🍠🦍歌切】[2026-03-04]初見さん大募集！[dvlUPx1S_1A] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjP6zBEFr?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ロマンスの神様",
+  "artist": "広瀬香美",
+  "collection": "【🍠🦍歌切】[2026-03-04]初見さん大募集！[dvlUPx1S_1A] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjP6zBEFr?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【🍠🦍歌切】[2026-03-04]初見さん大募集！[dvlUPx1S_1A] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjP6zBEFr?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "キミがいれば",
+  "artist": "いおり",
+  "collection": "【🍠🦍歌切】[2026-03-04]初見さん大募集！[dvlUPx1S_1A] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjP6zBEFr?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "【🍠🦍歌切】[2026-03-04]初見さん大募集！[dvlUPx1S_1A] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjP6zBEFr?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "CLEAR",
+  "artist": "坂本真綾",
+  "collection": "【🍠🦍歌切】[2026-03-04]初見さん大募集！[dvlUPx1S_1A] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjP6zBEFr?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "God knows",
+  "artist": "涼宮ハルヒ（平野綾）",
+  "collection": "【🍠🦍歌切】[2026-03-04]初見さん大募集！[dvlUPx1S_1A] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjP6zBEFr?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハートビート急上昇",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-03-04]初見さん大募集！[dvlUPx1S_1A] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjP6zBEFr?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Wake up!",
+  "artist": "AAA",
+  "collection": "【🍠🦍歌切】[2026-03-04]初見さん大募集！[dvlUPx1S_1A] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjP6zBEFr?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ココロのちず",
+  "artist": "BOYSTYLE",
+  "collection": "【🍠🦍歌切】[2026-03-04]初見さん大募集！[dvlUPx1S_1A] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjP6zBEFr?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【🍠🦍歌切】[2026-03-04]初見さん大募集！[dvlUPx1S_1A] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjP6zBEFr?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "サインはＢ",
+  "artist": "B小町",
+  "collection": "【🍠🦍歌切】[2026-03-04]初見さん大募集！[dvlUPx1S_1A] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjP6zBEFr?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハイタッチ",
+  "artist": "松本梨香&豊口めぐみ",
+  "collection": "【🍠🦍歌切】[2026-03-04]初見さん大募集！[dvlUPx1S_1A] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjP6zBEFr?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おはよう。",
+  "artist": "Keno",
+  "collection": "【🍠🦍歌切】[2026-03-04]初見さん大募集！[dvlUPx1S_1A] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjP6zBEFr?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "departure",
+  "artist": "小野正利",
+  "collection": "【🍠🦍歌切】[2026-03-04]初見さん大募集！[dvlUPx1S_1A] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjP6zBEFr?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【🍠🦍歌切】[2026-03-04]初見さん大募集！[dvlUPx1S_1A] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjP6zBEFr?p=23",
+  "source": "yoshika.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【🍠🦍歌切】[2026-03-04]初見さん大募集！[dvlUPx1S_1A] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjP6zBEFr?p=24",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ディスカバリー!",
+  "artist": "スタァライト九九組",
+  "collection": "【🍠🦍歌切】[2026-03-04]初見さん大募集！[dvlUPx1S_1A] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjP6zBEFr?p=25",
   "source": "yoshika.js"
 }
 );
