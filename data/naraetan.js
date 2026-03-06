@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr
-// 生成时间: 3/6/2026, 5:39:22 AM
+// 生成时间: 3/6/2026, 6:35:49 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5123,6 +5123,14 @@ window.SONG_DATA.push(
   "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=20",
+  "source": "naraetan.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子 cover by なれたん",
+  "collection": "変わらないもの - 奥華子 cover by なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fcPpzREyR?p=1",
   "source": "naraetan.js"
 }
 );
