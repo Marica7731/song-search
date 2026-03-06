@@ -1,6 +1,6 @@
 // 厄倫蒂兒 - 歌单数据 (多合集汇总)
 // 来源: BV1dGqeYpEuc
-// 生成时间: 3/6/2026, 7:34:44 PM
+// 生成时间: 3/6/2026, 8:28:09 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1855,7 +1855,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "かくれんぼ",
-  "artist": "優里",
+  "artist": "AliA",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=44",
