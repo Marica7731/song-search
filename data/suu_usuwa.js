@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 3/6/2026, 8:29:00 AM
+// 生成时间: 3/6/2026, 9:30:45 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -238,6 +238,102 @@ window.SONG_DATA.push(
   "source": "suu_usuwa.js"
 },
     {
+  "title": "花ざかりWeekend",
+  "artist": "4Luxury",
+  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15w411G7LA?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Tulip",
+  "artist": "THE IDOLM@STER CINDERELLA GIRLS",
+  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15w411G7LA?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15w411G7LA?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "雪の華",
+  "artist": "中島美嘉",
+  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15w411G7LA?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15w411G7LA?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Pretender",
+  "artist": "Official髭男dism",
+  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15w411G7LA?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Subtitle",
+  "artist": "Official髭男dism",
+  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15w411G7LA?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "花",
+  "artist": "藤井風",
+  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15w411G7LA?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Snow halation",
+  "artist": "μ's",
+  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15w411G7LA?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "MOON NIGHTのせいにして",
+  "artist": "DRAMATIC STARS",
+  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15w411G7LA?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "READY!!",
+  "artist": "765PRO ALLSTARS",
+  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15w411G7LA?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "青空のナミダ",
+  "artist": "高橋瞳",
+  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15w411G7LA?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
   "title": "(恋は)百年戦争",
   "artist": "相対性理論",
   "collection": "【 稀羽すう 16首竖屏  2023年12月18日 】 縦型配信ならではの… 14One more time, One more chance",
@@ -363,102 +459,6 @@ window.SONG_DATA.push(
   "collection": "【 稀羽すう 16首竖屏  2023年12月18日 】 縦型配信ならではの… 14One more time, One more chance",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nw411u7HY?p=16",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "花ざかりWeekend",
-  "artist": "4Luxury",
-  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15w411G7LA?p=1",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "Tulip",
-  "artist": "THE IDOLM@STER CINDERELLA GIRLS",
-  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15w411G7LA?p=2",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "Mela!",
-  "artist": "緑黄色社会",
-  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15w411G7LA?p=3",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "雪の華",
-  "artist": "中島美嘉",
-  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15w411G7LA?p=4",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "怪獣の花唄",
-  "artist": "Vaundy",
-  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15w411G7LA?p=5",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "Pretender",
-  "artist": "Official髭男dism",
-  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15w411G7LA?p=6",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "Subtitle",
-  "artist": "Official髭男dism",
-  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15w411G7LA?p=7",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "花",
-  "artist": "藤井風",
-  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15w411G7LA?p=8",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "Snow halation",
-  "artist": "μ's",
-  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15w411G7LA?p=9",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "MOON NIGHTのせいにして",
-  "artist": "DRAMATIC STARS",
-  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15w411G7LA?p=10",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "READY!!",
-  "artist": "765PRO ALLSTARS",
-  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15w411G7LA?p=11",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "青空のナミダ",
-  "artist": "高橋瞳",
-  "collection": "[2023-12-06]#56 水曜日は定期歌枠 8花ざかりWeekend 9Tulip【 稀羽すう ReAcT 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15w411G7LA?p=12",
   "source": "suu_usuwa.js"
 },
     {
@@ -3726,6 +3726,126 @@ window.SONG_DATA.push(
   "source": "suu_usuwa.js"
 },
     {
+  "title": "花は桜 君は美し",
+  "artist": "いきものがかり",
+  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Kp421D7r3?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "春を告げる",
+  "artist": "yama",
+  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Kp421D7r3?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "パラボラ",
+  "artist": "Official髭男dism",
+  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Kp421D7r3?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Kp421D7r3?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "春擬き",
+  "artist": "やなぎなぎ",
+  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Kp421D7r3?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Blooming♡Blooming",
+  "artist": "るか from AIKATSU☆STARS！",
+  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Kp421D7r3?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "赤いスイートピー",
+  "artist": "松田聖子",
+  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Kp421D7r3?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Kp421D7r3?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "チェリー",
+  "artist": "スピッツ",
+  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Kp421D7r3?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "メロンソーダ",
+  "artist": "aiko",
+  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Kp421D7r3?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "桜の森",
+  "artist": "星野源",
+  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Kp421D7r3?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "SAKURA",
+  "artist": "いきものがかり",
+  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Kp421D7r3?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "3月9日",
+  "artist": "レミオロメン",
+  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Kp421D7r3?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "One more time,One more chance",
+  "artist": "山崎まさよし",
+  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Kp421D7r3?p=14",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Kp421D7r3?p=15",
+  "source": "suu_usuwa.js"
+},
+    {
   "title": "カタオモイ",
   "artist": "Aimer",
   "collection": "240503 稀羽すう live前夕！在家3D唱歌！01. カタオモイ - Aimer",
@@ -4387,126 +4507,6 @@ window.SONG_DATA.push(
   "collection": "240522【稀羽すう🦢】8】2024年3D生日Live！🎹",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jb421q7Bi?p=8",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "花は桜 君は美し",
-  "artist": "いきものがかり",
-  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Kp421D7r3?p=1",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "春を告げる",
-  "artist": "yama",
-  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Kp421D7r3?p=2",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "パラボラ",
-  "artist": "Official髭男dism",
-  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Kp421D7r3?p=3",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "晴る",
-  "artist": "ヨルシカ",
-  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Kp421D7r3?p=4",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "春擬き",
-  "artist": "やなぎなぎ",
-  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Kp421D7r3?p=5",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "Blooming♡Blooming",
-  "artist": "るか from AIKATSU☆STARS！",
-  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Kp421D7r3?p=6",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "赤いスイートピー",
-  "artist": "松田聖子",
-  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Kp421D7r3?p=7",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "CHE.R.RY",
-  "artist": "YUI",
-  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Kp421D7r3?p=8",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "チェリー",
-  "artist": "スピッツ",
-  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Kp421D7r3?p=9",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "メロンソーダ",
-  "artist": "aiko",
-  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Kp421D7r3?p=10",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "桜の森",
-  "artist": "星野源",
-  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Kp421D7r3?p=11",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "SAKURA",
-  "artist": "いきものがかり",
-  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Kp421D7r3?p=12",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "3月9日",
-  "artist": "レミオロメン",
-  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Kp421D7r3?p=13",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "One more time,One more chance",
-  "artist": "山崎まさよし",
-  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Kp421D7r3?p=14",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "春泥棒",
-  "artist": "ヨルシカ",
-  "collection": "【稀羽すう】15】春天，请不要离开我！【20240430】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Kp421D7r3?p=15",
   "source": "suu_usuwa.js"
 },
     {
