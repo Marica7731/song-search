@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 3/6/2026, 4:29:55 PM
+// 生成时间: 3/6/2026, 5:28:28 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -27331,6 +27331,166 @@ window.SONG_DATA.push(
   "collection": "【💐歌切 竖屏】[2026-03-04]今週もたくさん歌うよ！ #shorts #vtuber #vsinger[AsnI8Kywn_A]Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b4PizLEYM?p=19",
+  "source": "figaro.js"
+},
+    {
+  "title": "シネマ",
+  "artist": "Ayase",
+  "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "長く短い祭",
+  "artist": "椎名林檎",
+  "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "怪物",
+  "artist": "YOASOBI",
+  "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "絶頂讃歌",
+  "artist": "和ぬか",
+  "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "フライディ・チャイナタウン",
+  "artist": "泰葉",
+  "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "幽霊東京",
+  "artist": "Ayase",
+  "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "帝国少女",
+  "artist": "R Sound Design",
+  "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "Night Dancer",
+  "artist": "imase",
+  "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
+  "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "POP STAR",
+  "artist": "平井堅",
+  "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "stay tune",
+  "artist": "7co",
+  "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "Limbo",
+  "artist": "春野",
+  "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "traveling",
+  "artist": "宇多田ヒカル",
+  "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "Automatic",
+  "artist": "宇多田ヒカル",
+  "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "One Last Kiss",
+  "artist": "宇多田ヒカル",
+  "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "ミュージック",
+  "artist": "サカナクション",
+  "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "ミッドナイト・リフレクション",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=18",
+  "source": "figaro.js"
+},
+    {
+  "title": "『バッハの旋律を夜に聴いたせいです。』",
+  "artist": "サカナクション",
+  "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=19",
+  "source": "figaro.js"
+},
+    {
+  "title": "三日月サンセット",
+  "artist": "サカナクション",
+  "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=20",
   "source": "figaro.js"
 }
 );
