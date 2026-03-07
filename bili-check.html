@@ -1182,6 +1182,7 @@ function switchSourceTab(tab) {
 }
 
 // 搜索（支持BV号和歌名-歌手模式，核心修改：保证输入输出数量一致）
+// 搜索（支持BV号和歌名-歌手模式，核心修改：保证输入输出数量一致）
 function search() {
   // 重置筛选状态
   toggleShowMode(false);
@@ -1211,12 +1212,12 @@ function search() {
       return;
     }
 
-    // 自动切换到该BV的主要来源标签
+    // 自动切换到该BV的主要来源标签（BV模式保留此功能）
     const mainSource = targetBvSongs[0].source;
     switchSourceTab(mainSource);
     
   } else {
-    // 歌名-歌手模式（核心修改）
+    // 歌名-歌手模式（核心修改：移除自动切换来源标签）
     const input = document.getElementById('titleArtistInput').value.trim();
     if (!input) {
       showToast('请输入歌名-歌手格式的内容！');
@@ -1238,30 +1239,25 @@ function search() {
         (song.title || '').toLowerCase().trim() === lowerTitle
       );
       
-      // 如果指定了歌手，筛选：仅匹配前两个字符（不区分大小写）
-if (item.artist) {
-  const targetArtist = item.artist.toLowerCase().trim();
-  // 取输入歌手的前2个字符（如果不足2个则取全部）
-  const targetPrefix = targetArtist.substring(0, 2);
-  matchedSongs = matchedSongs.filter(song => {
-    const songArtist = (song.artist || '').toLowerCase().trim();
-    // 取库中歌手的前2个字符进行匹配
-    const songPrefix = songArtist.substring(0, 2);
-    return songPrefix === targetPrefix;
-  });
-}
-      
+      // 如果指定了歌手，进一步筛选（不区分大小写）
+      if (item.artist) {
+        const lowerArtist = item.artist.toLowerCase().trim();
+        matchedSongs = matchedSongs.filter(song => 
+          (song.artist || '').toLowerCase().trim() === lowerArtist
+        );
+      }
       
       targetTitleArtistSongs = targetTitleArtistSongs.concat(matchedSongs);
     });
     
     targetBvSongs = []; // 清空BV号结果
     
-    // 自动切换到第一个匹配歌曲的来源（如果有）
-    if (targetTitleArtistSongs.length > 0) {
-      const mainSource = targetTitleArtistSongs[0].source;
-      switchSourceTab(mainSource);
-    }
+    // 【关键修改】移除歌名-歌手模式下的自动切换来源标签逻辑
+    // 注释/删除以下代码即可：
+    // if (targetTitleArtistSongs.length > 0) {
+    //   const mainSource = targetTitleArtistSongs[0].source;
+    //   switchSourceTab(mainSource);
+    // }
   }
   
   // 执行重复分析
