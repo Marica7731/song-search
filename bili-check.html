@@ -373,20 +373,21 @@ function toggleShowMode(onlyUnique) {
   renderSongList();
 }
 
-// 解析歌名-歌手输入（修复：支持任意序号 + 严格分隔符）
+// 解析歌名-歌手输入（修复：恢复宽松匹配逻辑，支持原有格式）
 function parseTitleArtistInput(input) {
   if (!input.trim()) return [];
   
   const lines = input.trim().split('\n').map(line => line.trim()).filter(line => line);
   const result = [];
   
-  // 修复1：支持任意位数序号 (\d+)
-  // 修复2：严格要求分隔符为 " - "（前后都有空格）
-  const fullFormatRegex = /^(\d+)\.\s*(.+?)\s+-\s+(.+)$/;
-  const normalRegex = /^(.+?)\s+-\s+(.+)$/;
+  // 修复：恢复宽松的匹配逻辑，兼容原有格式
+  // 1. 匹配带序号的格式（01. 歌名 - 歌手）
+  const fullFormatRegex = /^(\d+)\.?\s*(.+?)\s*-\s*(.+)$/;
+  // 2. 匹配普通的歌名-歌手格式
+  const normalRegex = /^(.+?)\s*-\s*(.+)$/;
   
   lines.forEach(line => {
-    // 先匹配带序号的格式
+    // 先匹配带序号的格式（宽松匹配，支持小数点可有可无，空格任意）
     let fullMatch = line.match(fullFormatRegex);
     if (fullMatch) {
       result.push({
@@ -396,7 +397,7 @@ function parseTitleArtistInput(input) {
         hasNumber: true
       });
     } else {
-      // 匹配普通的歌名-歌手格式（严格 " - "）
+      // 匹配普通的歌名-歌手格式（宽松匹配空格）
       const match = line.match(normalRegex);
       if (match) {
         result.push({
@@ -420,7 +421,7 @@ function parseTitleArtistInput(input) {
   return result;
 }
 
-// 解析输入内容（修复：支持任意序号 + 严格分隔符）
+// 解析输入内容（修复：恢复宽松匹配逻辑）
 function parseInputContent() {
   const input = document.getElementById('titleInput').value.trim();
   if (!input) {
@@ -431,9 +432,8 @@ function parseInputContent() {
   const lines = input.split('\n').map(line => line.trim()).filter(line => line);
   const result = [];
   
-  // 修复1：支持任意位数序号 (\d+)
-  // 修复2：严格要求分隔符为 " - "（前后都有空格）
-  const fullFormatRegex = /^(\d+)\.\s*(.+?)\s+-\s+(.+)$/;
+  // 修复：恢复宽松的匹配逻辑
+  const fullFormatRegex = /^(\d+)\.?\s*(.+?)\s*-\s*(.+)$/;
   let hasFullFormat = false;
   
   lines.forEach(line => {
