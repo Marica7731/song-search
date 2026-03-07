@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据 (多合集汇总)
 // 来源: BV1zzZPBsEum
-// 生成时间: 3/7/2026, 4:21:32 PM
+// 生成时间: 3/7/2026, 5:17:13 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3819,6 +3819,118 @@ window.SONG_DATA.push(
   "collection": "【音門るき😈歌切】[2026-02-28]ラジオ代わりの深夜歌枠📻🎶睡眠できるかは不明👿[VrpinzvczyU]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BiAYzmE1y?p=11",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【👿歌切】[2026-03-07]ラジオ代わりの夜歌枠📻🎶とりあえず一曲聞いてって～😈✨[raUb6SWkOKw]音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jNNPzPEnu?p=1",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "I",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【👿歌切】[2026-03-07]ラジオ代わりの夜歌枠📻🎶とりあえず一曲聞いてって～😈✨[raUb6SWkOKw]音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jNNPzPEnu?p=2",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "夜桜",
+  "artist": "くじら feat. めいちゃん",
+  "collection": "【👿歌切】[2026-03-07]ラジオ代わりの夜歌枠📻🎶とりあえず一曲聞いてって～😈✨[raUb6SWkOKw]音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jNNPzPEnu?p=3",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ニア",
+  "artist": "初音ミク feat. 夏代孝明",
+  "collection": "【👿歌切】[2026-03-07]ラジオ代わりの夜歌枠📻🎶とりあえず一曲聞いてって～😈✨[raUb6SWkOKw]音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jNNPzPEnu?p=4",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "AIZO",
+  "artist": "KING Gnu",
+  "collection": "【👿歌切】[2026-03-07]ラジオ代わりの夜歌枠📻🎶とりあえず一曲聞いてって～😈✨[raUb6SWkOKw]音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jNNPzPEnu?p=5",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ハロ／ハワユ",
+  "artist": "ナノウ（ほえほえP） feat. 初音ミク",
+  "collection": "【👿歌切】[2026-03-07]ラジオ代わりの夜歌枠📻🎶とりあえず一曲聞いてって～😈✨[raUb6SWkOKw]音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jNNPzPEnu?p=6",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【👿歌切】[2026-03-07]ラジオ代わりの夜歌枠📻🎶とりあえず一曲聞いてって～😈✨[raUb6SWkOKw]音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jNNPzPEnu?p=7",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【👿歌切】[2026-03-07]ラジオ代わりの夜歌枠📻🎶とりあえず一曲聞いてって～😈✨[raUb6SWkOKw]音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jNNPzPEnu?p=8",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "オトノケ",
+  "artist": "Creepy Nuts",
+  "collection": "【👿歌切】[2026-03-07]ラジオ代わりの夜歌枠📻🎶とりあえず一曲聞いてって～😈✨[raUb6SWkOKw]音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jNNPzPEnu?p=9",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "Anytime Anywhere",
+  "artist": "Milet",
+  "collection": "【👿歌切】[2026-03-07]ラジオ代わりの夜歌枠📻🎶とりあえず一曲聞いてって～😈✨[raUb6SWkOKw]音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jNNPzPEnu?p=10",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "クスシキ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【👿歌切】[2026-03-07]ラジオ代わりの夜歌枠📻🎶とりあえず一曲聞いてって～😈✨[raUb6SWkOKw]音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jNNPzPEnu?p=11",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【👿歌切】[2026-03-07]ラジオ代わりの夜歌枠📻🎶とりあえず一曲聞いてって～😈✨[raUb6SWkOKw]音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jNNPzPEnu?p=12",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【👿歌切】[2026-03-07]ラジオ代わりの夜歌枠📻🎶とりあえず一曲聞いてって～😈✨[raUb6SWkOKw]音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jNNPzPEnu?p=13",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "最高到達点",
+  "artist": "SEKAI NO OWARI",
+  "collection": "【👿歌切】[2026-03-07]ラジオ代わりの夜歌枠📻🎶とりあえず一曲聞いてって～😈✨[raUb6SWkOKw]音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jNNPzPEnu?p=14",
   "source": "otomoneruki.js"
 }
 );
