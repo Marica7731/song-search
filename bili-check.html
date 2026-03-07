@@ -298,6 +298,55 @@ let currentCheckMode = 'bv'; // 当前查重模式：bv / titleArtist
 let dupThreshold = 0; // 新增：非重复判定阈值，0=0次匹配为非重复，1=1次匹配为非重复
 
 // ================= 工具函数 =================
+// 通用Toast提示（成功/错误）
+function showToast(message, type = 'info') {
+  // 创建toast元素（如果不存在）
+  let toast = document.getElementById('commonToast');
+  if (!toast) {
+    toast = document.createElement('div');
+    toast.id = 'commonToast';
+    toast.style.position = 'fixed';
+    toast.style.bottom = '60px';
+    toast.style.right = '30px';
+    toast.style.padding = '10px 20px';
+    toast.style.borderRadius = '4px';
+    toast.style.fontSize = '14px';
+    toast.style.opacity = '0';
+    toast.style.transform = 'translateY(20px)';
+    toast.style.transition = 'all 0.3s';
+    toast.style.pointerEvents = 'none';
+    toast.style.zIndex = '9999';
+    document.body.appendChild(toast);
+  }
+
+  // 设置样式
+  if (type === 'error') {
+    toast.style.background = 'rgba(220, 53, 69, 0.9)';
+    toast.style.color = 'white';
+  } else if (type === 'success') {
+    toast.style.background = 'rgba(40, 167, 69, 0.9)';
+    toast.style.color = 'white';
+  } else {
+    toast.style.background = 'rgba(0, 0, 0, 0.8)';
+    toast.style.color = 'white';
+  }
+
+  // 设置内容并显示
+  toast.textContent = message;
+  toast.classList.add('show');
+  toast.style.opacity = '1';
+  toast.style.transform = 'translateY(0)';
+
+  // 3秒后隐藏
+  setTimeout(() => {
+    toast.style.opacity = '0';
+    toast.style.transform = 'translateY(20px)';
+    setTimeout(() => {
+      toast.textContent = '';
+    }, 300);
+  }, 3000);
+}
+
 // 提取BV号
 function extractBV(str) {
   if (!str) return '';
@@ -424,7 +473,7 @@ function parseTitleArtistInput(input) {
 function parseInputContent() {
   const input = document.getElementById('titleInput').value.trim();
   if (!input) {
-    alert('请输入要查询的歌名！');
+    showToast('请输入要查询的歌名！');
     return [];
   }
   
@@ -461,7 +510,7 @@ function parseInputContent() {
 // 生成所有可能的排列组合（包含错误答案）
 function generateAllCombinations() {
   if (titleSearchResults.length === 0) {
-    alert('请先查询歌手信息！');
+    showToast('请先查询歌手信息！');
     return;
   }
   
@@ -800,7 +849,7 @@ function generateResultText() {
 // 使用选中的排列组合
 function useSelectedCombination() {
   if (!selectedCombination) {
-    alert('请先选择一个排列组合！');
+    showToast('请先选择一个排列组合！');
     return;
   }
   
@@ -826,7 +875,7 @@ function useSelectedCombination() {
 function copyResultText() {
   const resultText = document.getElementById('resultText').value.trim();
   if (!resultText) {
-    alert('暂无结果可复制！');
+    showToast('暂无结果可复制！');
     return;
   }
   
@@ -837,7 +886,7 @@ function copyResultText() {
     })
     .catch(err => {
       console.error('复制失败：', err);
-      alert('复制失败，请手动复制！');
+      showToast('复制失败，请手动复制！');
     });
 }
 
@@ -893,6 +942,11 @@ async function loadAllData() {
     console.error('❌ 数据加载失败：', err);
     document.getElementById('statInfo').textContent = `数据加载失败：${err.message}`;
   }
+}
+
+// 修改原有的复制提示函数，复用通用toast
+function showCopyToast() {
+  showToast('复制成功！', 'success');
 }
 
 // ================= 界面渲染 =================
@@ -1139,7 +1193,7 @@ function search() {
     const bv = extractBV(input);
     
     if (!bv) {
-      alert('请输入有效的BV号或B站视频链接！');
+      showToast('请输入有效的BV号或B站视频链接！');
       return;
     }
 
@@ -1163,14 +1217,14 @@ function search() {
     // 歌名-歌手模式（核心修改）
     const input = document.getElementById('titleArtistInput').value.trim();
     if (!input) {
-      alert('请输入歌名-歌手格式的内容！');
+      showToast('请输入歌名-歌手格式的内容！');
       return;
     }
     
     // 解析输入项（支持换行和带序号格式，移除序号）
     titleArtistInputItems = parseTitleArtistInput(input);
     if (titleArtistInputItems.length === 0) {
-      alert('输入格式不正确，请使用 歌名 - 歌手 格式！');
+      showToast('输入格式不正确，请使用 歌名 - 歌手 格式！');
       return;
     }
     
@@ -1313,7 +1367,7 @@ function analyzeDuplicates() {
 // 复制功能（BV查重）- 新增复制来源选项
 function copyResults() {
   if (analysisResult.length === 0) {
-    alert('暂无分析结果可复制！');
+    showToast('暂无分析结果可复制！', 'error');
     return;
   }
 
@@ -1328,15 +1382,15 @@ function copyResults() {
   // 筛选要复制的歌曲
   let copyData = analysisResult;
   if (onlyUnique) {
-    // 新增：根据阈值筛选非重复歌曲
+    // 修复：未找到的歌曲也视为非重复，加入可复制列表
     copyData = analysisResult.filter(item => {
-      if (item.isNotFound) return false;
+      if (item.isNotFound) return true; // 未找到的也算非重复
       return dupThreshold === 0 ? item.dupCount === 0 : item.dupCount <= 1;
     });
   }
 
   if (copyData.length === 0) {
-    alert('没有符合筛选条件的歌曲可复制！');
+    showToast('没有符合筛选条件的歌曲可复制！', 'error');
     return;
   }
 
@@ -1359,45 +1413,34 @@ function copyResults() {
     });
   } 
   // 表格格式（TSV，可直接粘贴到Excel）
-  else {
-    // 表头
-    const headers = [];
-    headers.push('状态'); // 新增状态列
-    if (includeTitle) headers.push('歌名');
-    if (includeSource) headers.push('来源'); // 新增来源表头
-    if (includeLink) headers.push('歌曲链接');
-    if (includeCount) headers.push('出现次数');
-    content += headers.join('\t') + '\n';
-    
-    // 内容行
-    copyData.forEach(item => {
-      const row = [];
-      if (item.isNotFound) {
-        row.push('未找到');
-        row.push(item.originalInput || '未知歌曲');
-        row.push('');
-        row.push('');
-        row.push('0');
-      } else {
-        row.push(item.isDup ? '重复' : '唯一');
-        if (includeTitle) row.push(item.song.title || '未知歌曲');
-        if (includeSource) row.push(getSourceAlias(item.song.source)); // 新增来源内容
-        if (includeLink) row.push(item.song.link);
-        if (includeCount) row.push(item.dupCount);
-      }
-      content += row.join('\t') + '\n';
-    });
-  }
-
-  // 复制到剪贴板
-  navigator.clipboard.writeText(content.trim())
-    .then(() => {
-      showCopyToast();
-    })
-    .catch(err => {
-      console.error('复制失败：', err);
-      alert('复制失败，请手动复制！');
-    });
+else {
+  // 表头
+  const headers = [];
+  headers.push('状态'); // 新增状态列
+  if (includeTitle) headers.push('歌名');
+  if (includeSource) headers.push('来源'); // 新增来源表头
+  if (includeLink) headers.push('歌曲链接');
+  if (includeCount) headers.push('出现次数');
+  content += headers.join('\t') + '\n';
+  
+  // 内容行
+  copyData.forEach(item => {
+    const row = [];
+    if (item.isNotFound) {
+      row.push('未找到');
+      if (includeTitle) row.push(item.originalInput || '未知歌曲');
+      if (includeSource) row.push('');
+      if (includeLink) row.push('');
+      if (includeCount) row.push('0');
+    } else {
+      row.push(item.isDup ? '重复' : '唯一');
+      if (includeTitle) row.push(item.song.title || '未知歌曲');
+      if (includeSource) row.push(getSourceAlias(item.song.source)); // 新增来源内容
+      if (includeLink) row.push(item.song.link);
+      if (includeCount) row.push(item.dupCount);
+    }
+    content += row.join('\t') + '\n';
+  });
 }
 
 // ================= 初始化 =================
@@ -1419,11 +1462,11 @@ function init() {
     if (e.key === 'Enter' && currentCheckMode === 'bv') search();
   });
   document.getElementById('titleArtistInput').addEventListener('keydown', e => {
-    if (e.key === 'Enter' && currentCheckMode === 'titleArtist' && !e.shiftKey) {
-      e.preventDefault(); // 阻止默认换行行为
-      search();
-    }
-  });
+  if (e.key === 'Enter' && e.ctrlKey) { // 仅Ctrl+Enter触发搜索
+    e.preventDefault();
+    search();
+  }
+});
 
   // 绑定筛选按钮事件
   document.getElementById('showAllBtn').addEventListener('click', () => toggleShowMode(false));
