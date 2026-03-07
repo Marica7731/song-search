@@ -373,31 +373,30 @@ function toggleShowMode(onlyUnique) {
   renderSongList();
 }
 
-// 解析歌名-歌手输入（修复：恢复宽松匹配逻辑，支持原有格式）
+// 解析歌名-歌手输入（核心修复：移除序号并保留纯歌名-歌手）
 function parseTitleArtistInput(input) {
   if (!input.trim()) return [];
   
   const lines = input.trim().split('\n').map(line => line.trim()).filter(line => line);
   const result = [];
   
-  // 修复：恢复宽松的匹配逻辑，兼容原有格式
-  // 1. 匹配带序号的格式（01. 歌名 - 歌手）
+  // 匹配带序号的格式（01. 歌名 - 歌手），并移除序号
   const fullFormatRegex = /^(\d+)\.?\s*(.+?)\s*-\s*(.+)$/;
-  // 2. 匹配普通的歌名-歌手格式
+  // 匹配普通的歌名-歌手格式
   const normalRegex = /^(.+?)\s*-\s*(.+)$/;
   
   lines.forEach(line => {
-    // 先匹配带序号的格式（宽松匹配，支持小数点可有可无，空格任意）
+    // 先匹配带序号的格式，提取纯歌名和歌手
     let fullMatch = line.match(fullFormatRegex);
     if (fullMatch) {
       result.push({
         title: fullMatch[2].trim(),
         artist: fullMatch[3].trim(),
-        originalLine: line,
+        originalLine: line.replace(/^\d+\.?\s*/, ''), // 移除序号后的原始行
         hasNumber: true
       });
     } else {
-      // 匹配普通的歌名-歌手格式（宽松匹配空格）
+      // 匹配普通的歌名-歌手格式
       const match = line.match(normalRegex);
       if (match) {
         result.push({
@@ -421,7 +420,7 @@ function parseTitleArtistInput(input) {
   return result;
 }
 
-// 解析输入内容（修复：恢复宽松匹配逻辑）
+// 解析输入内容（修复：移除序号）
 function parseInputContent() {
   const input = document.getElementById('titleInput').value.trim();
   if (!input) {
@@ -432,7 +431,7 @@ function parseInputContent() {
   const lines = input.split('\n').map(line => line.trim()).filter(line => line);
   const result = [];
   
-  // 修复：恢复宽松的匹配逻辑
+  // 匹配带序号的格式并移除序号
   const fullFormatRegex = /^(\d+)\.?\s*(.+?)\s*-\s*(.+)$/;
   let hasFullFormat = false;
   
@@ -443,7 +442,7 @@ function parseInputContent() {
       result.push({
         title: fullMatch[2].trim(),
         inputArtist: fullMatch[3].trim(),
-        line: line
+        line: line.replace(/^\d+\.?\s*/, '') // 移除序号
       });
     } else {
       // 纯歌名格式
@@ -488,13 +487,12 @@ function generateAllCombinations() {
   // 生成所有组合
   const combinations = cartesianProduct(optionsList);
   
-  // 转换为文本格式
+  // 转换为文本格式（核心修复：不自动添加序号）
   allCombinations = combinations.map((comb, idx) => {
     let text = '';
     comb.forEach((artist, lineIdx) => {
-      const num = (lineIdx + 1).toString().padStart(2, '0');
       const title = titleSearchResults[lineIdx].title;
-      text += `${num}. ${title} ${artist ? '- ' + artist : ''}\n`;
+      text += `${title} ${artist ? '- ' + artist : ''}\n`; // 移除序号
     });
     return text.trim();
   });
@@ -779,7 +777,7 @@ function renderArtistSelectWithValidation() {
   });
 }
 
-// 生成结果文本
+// 生成结果文本（核心修复：移除自动添加的序号）
 function generateResultText() {
   // 如果选中了排列组合，优先使用组合内容
   if (selectedCombination) {
@@ -791,9 +789,8 @@ function generateResultText() {
   let result = '';
   
   titleSearchResults.forEach((item, index) => {
-    const num = (index + 1).toString().padStart(2, '0');
     const artist = selectedArtists[item.title] || '';
-    result += `${num}. ${item.title} ${artist ? '- ' + artist : ''}\n`;
+    result += `${item.title} ${artist ? '- ' + artist : ''}\n`; // 移除序号
   });
   
   // 更新结果文本框
@@ -813,7 +810,7 @@ function useSelectedCombination() {
   // 解析组合内容，更新选中的歌手映射
   const lines = selectedCombination.split('\n');
   lines.forEach(line => {
-    const match = line.match(/^\d{1,2}\.\s*(.+?)\s*-\s*(.+)$/);
+    const match = line.match(/^(.+?)\s*-\s*(.+)$/); // 移除序号匹配
     if (match) {
       const title = match[1].trim();
       const artist = match[2].trim();
@@ -969,12 +966,12 @@ function renderSongList() {
     const titleDiv = document.createElement('div');
     titleDiv.className = 'song-title';
     
-    // 新增：未找到的标题显示
+    // 新增：未找到的标题显示（修复：移除列表序号）
     let titleHtml = '';
     if (isNotFound) {
       titleHtml = `
         <div class="title-left">
-          ${index + 1}. ${item.originalInput || '未知歌曲'}
+          ${item.originalInput || '未知歌曲'}
           <span class="not-found-tag">未找到</span>
         </div>
         <div class="title-right">
@@ -985,7 +982,7 @@ function renderSongList() {
     } else {
       titleHtml = `
         <div class="title-left">
-          ${index + 1}. ${song.title}
+          ${song.title}
           ${isDup ? `<span class="dup-tag">重复 ${dupCount} 次</span>` : `<span class="unique-tag">无重复</span>`}
         </div>
         <div class="title-right">
@@ -1170,7 +1167,7 @@ function search() {
       return;
     }
     
-    // 解析输入项（支持换行和带序号格式）
+    // 解析输入项（支持换行和带序号格式，移除序号）
     titleArtistInputItems = parseTitleArtistInput(input);
     if (titleArtistInputItems.length === 0) {
       alert('输入格式不正确，请使用 歌名 - 歌手 格式！');
@@ -1209,7 +1206,6 @@ function search() {
   analyzeDuplicates();
 }
 
-// 分析重复（核心修改：保证输入X条输出X条结果）
 // 分析重复（核心修复：按输入行汇总结果，保证输入输出数量严格一致）
 function analyzeDuplicates() {
   // 筛选当前标签库的歌曲池
@@ -1283,7 +1279,7 @@ function analyzeDuplicates() {
           isDup: isDup,
           dupCount: allDupList.length,
           isNotFound: false,
-          originalInput: inputItem.originalLine // 保存原始输入
+          originalInput: inputItem.originalLine // 保存移除序号后的原始输入
         });
       } else {
         // 未找到匹配歌曲，添加单行未找到结果
@@ -1293,7 +1289,7 @@ function analyzeDuplicates() {
           isDup: false,
           dupCount: 0,
           isNotFound: true,
-          originalInput: inputItem.originalLine // 保存原始输入
+          originalInput: inputItem.originalLine // 保存移除序号后的原始输入
         });
       }
     });
