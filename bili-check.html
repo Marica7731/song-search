@@ -648,13 +648,15 @@ function searchAndValidateArtists() {
     // 提取纯歌手名列表（用于校验）
     const artistNames = artists.map(artist => artist.name);
     
-    // 校验输入的歌手是否正确
-    let isArtistValid = false;
-    if (inputArtist && artistNames.length > 0) {
-      isArtistValid = artistNames.some(artist => 
-        artist.toLowerCase().trim() === inputArtist.toLowerCase().trim()
-      );
-    }
+    // 校验输入的歌手是否正确（仅匹配前两个字符）
+let isArtistValid = false;
+if (inputArtist && artistNames.length > 0) {
+  const inputPrefix = inputArtist.toLowerCase().trim().substring(0, 2);
+  isArtistValid = artistNames.some(artist => {
+    const artistPrefix = artist.toLowerCase().trim().substring(0, 2);
+    return artistPrefix === inputPrefix;
+  });
+}
     
     // 保存结果
     titleSearchResults.push({
@@ -1236,13 +1238,19 @@ function search() {
         (song.title || '').toLowerCase().trim() === lowerTitle
       );
       
-      // 如果指定了歌手，进一步筛选（不区分大小写）
-      if (item.artist) {
-        const lowerArtist = item.artist.toLowerCase().trim();
-        matchedSongs = matchedSongs.filter(song => 
-          (song.artist || '').toLowerCase().trim() === lowerArtist
-        );
-      }
+      // 如果指定了歌手，筛选：仅匹配前两个字符（不区分大小写）
+if (item.artist) {
+  const targetArtist = item.artist.toLowerCase().trim();
+  // 取输入歌手的前2个字符（如果不足2个则取全部）
+  const targetPrefix = targetArtist.substring(0, 2);
+  matchedSongs = matchedSongs.filter(song => {
+    const songArtist = (song.artist || '').toLowerCase().trim();
+    // 取库中歌手的前2个字符进行匹配
+    const songPrefix = songArtist.substring(0, 2);
+    return songPrefix === targetPrefix;
+  });
+}
+      
       
       targetTitleArtistSongs = targetTitleArtistSongs.concat(matchedSongs);
     });
@@ -1307,11 +1315,16 @@ function analyzeDuplicates() {
         );
       }
       
-      // 汇总该输入项的所有重复歌曲
-      const allDupList = currentPool.filter(item => 
-        (item.title || '').toLowerCase().trim() === lowerTitle &&
-        (inputItem.artist ? (item.artist || '').toLowerCase().trim() === lowerArtist : true)
-      );
+      // 汇总该输入项的所有重复歌曲（歌手仅匹配前两个字符）
+const allDupList = currentPool.filter(item => {
+  const titleMatch = (item.title || '').toLowerCase().trim() === lowerTitle;
+  if (!inputItem.artist) return titleMatch;
+  
+  // 歌手匹配：仅比较前两个字符
+  const itemArtistPrefix = (item.artist || '').toLowerCase().trim().substring(0, 2);
+  const inputArtistPrefix = lowerArtist.substring(0, 2);
+  return titleMatch && itemArtistPrefix === inputArtistPrefix;
+});
       
       // 新增：根据阈值判断是否重复
       let isDup = false;
