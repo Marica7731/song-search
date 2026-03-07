@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 3/7/2026, 1:09:11 AM
+// 生成时间: 3/7/2026, 3:53:18 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -27342,19 +27342,11 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "長く短い祭",
-  "artist": "椎名林檎",
-  "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=2",
-  "source": "figaro.js"
-},
-    {
   "title": "怪物",
   "artist": "YOASOBI",
   "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=3",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=2",
   "source": "figaro.js"
 },
     {
@@ -27362,7 +27354,7 @@ window.SONG_DATA.push(
   "artist": "和ぬか",
   "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=4",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=3",
   "source": "figaro.js"
 },
     {
@@ -27370,7 +27362,7 @@ window.SONG_DATA.push(
   "artist": "泰葉",
   "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=5",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=4",
   "source": "figaro.js"
 },
     {
@@ -27378,7 +27370,7 @@ window.SONG_DATA.push(
   "artist": "Ayase",
   "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=6",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=5",
   "source": "figaro.js"
 },
     {
@@ -27386,7 +27378,7 @@ window.SONG_DATA.push(
   "artist": "R Sound Design",
   "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=7",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=6",
   "source": "figaro.js"
 },
     {
@@ -27394,7 +27386,7 @@ window.SONG_DATA.push(
   "artist": "imase",
   "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=8",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=7",
   "source": "figaro.js"
 },
     {
@@ -27402,7 +27394,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=9",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=8",
   "source": "figaro.js"
 },
     {
@@ -27410,7 +27402,7 @@ window.SONG_DATA.push(
   "artist": "AKASAKI",
   "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=10",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=9",
   "source": "figaro.js"
 },
     {
@@ -27418,7 +27410,7 @@ window.SONG_DATA.push(
   "artist": "平井堅",
   "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=11",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=10",
   "source": "figaro.js"
 },
     {
@@ -27426,7 +27418,7 @@ window.SONG_DATA.push(
   "artist": "7co",
   "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=12",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=11",
   "source": "figaro.js"
 },
     {
@@ -27434,7 +27426,7 @@ window.SONG_DATA.push(
   "artist": "春野",
   "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=13",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=12",
   "source": "figaro.js"
 },
     {
@@ -27442,7 +27434,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=14",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=13",
   "source": "figaro.js"
 },
     {
@@ -27450,7 +27442,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=15",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=14",
   "source": "figaro.js"
 },
     {
@@ -27458,7 +27450,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=16",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=15",
   "source": "figaro.js"
 },
     {
@@ -27466,7 +27458,7 @@ window.SONG_DATA.push(
   "artist": "サカナクション",
   "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=17",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=16",
   "source": "figaro.js"
 },
     {
@@ -27474,7 +27466,7 @@ window.SONG_DATA.push(
   "artist": "NOMELON NOLEMON",
   "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=18",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=17",
   "source": "figaro.js"
 },
     {
@@ -27482,7 +27474,7 @@ window.SONG_DATA.push(
   "artist": "サカナクション",
   "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=19",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=18",
   "source": "figaro.js"
 },
     {
@@ -27490,7 +27482,7 @@ window.SONG_DATA.push(
   "artist": "サカナクション",
   "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=20",
+  "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=19",
   "source": "figaro.js"
 }
 );
