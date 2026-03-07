@@ -1401,7 +1401,8 @@ function copyResults() {
     copyData.forEach(item => {
       const parts = [];
       if (item.isNotFound) {
-        parts.push(`[未找到] ${item.originalInput || '未知歌曲'}`);
+        // 核心修改：移除 [未找到] 前缀
+        parts.push(`${item.originalInput || '未知歌曲'}`);
       } else {
         if (includeTitle) parts.push(item.song.title || '未知歌曲');
         if (includeSource) parts.push(`来源：${getSourceAlias(item.song.source)}`);
