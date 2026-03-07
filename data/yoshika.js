@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 3/7/2026, 5:16:38 PM
+// 生成时间: 3/7/2026, 7:17:23 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -26923,6 +26923,118 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-03-04]初見さん大募集！[dvlUPx1S_1A] YOSHIKA よしか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EjP6zBEFr?p=25",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春",
+  "collection": "【🍠🦍歌切】[2026-03-07]初見さん大募集！  #shorts  #vtuber  #vsinger[d9gxlpzvzqU]YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HXNAzGEqw?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "味楽る！ミミカ ナンバーワン",
+  "artist": "Goma",
+  "collection": "【🍠🦍歌切】[2026-03-07]初見さん大募集！  #shorts  #vtuber  #vsinger[d9gxlpzvzqU]YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HXNAzGEqw?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "COLORS",
+  "artist": "FLOW",
+  "collection": "【🍠🦍歌切】[2026-03-07]初見さん大募集！  #shorts  #vtuber  #vsinger[d9gxlpzvzqU]YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HXNAzGEqw?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Falco",
+  "artist": "島谷ひとみ",
+  "collection": "【🍠🦍歌切】[2026-03-07]初見さん大募集！  #shorts  #vtuber  #vsinger[d9gxlpzvzqU]YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HXNAzGEqw?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "DANZEN！ふたりはプリキュア",
+  "artist": "Mayumi Gojo",
+  "collection": "【🍠🦍歌切】[2026-03-07]初見さん大募集！  #shorts  #vtuber  #vsinger[d9gxlpzvzqU]YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HXNAzGEqw?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Catch You Catch Me",
+  "artist": "日向めぐみ",
+  "collection": "【🍠🦍歌切】[2026-03-07]初見さん大募集！  #shorts  #vtuber  #vsinger[d9gxlpzvzqU]YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HXNAzGEqw?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "浪漫飛行",
+  "artist": "米米CLUB",
+  "collection": "【🍠🦍歌切】[2026-03-07]初見さん大募集！  #shorts  #vtuber  #vsinger[d9gxlpzvzqU]YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HXNAzGEqw?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Suspect",
+  "artist": "ホロライブ／ロボ子／アキ・ローゼンタール／百鬼あやめ",
+  "collection": "【🍠🦍歌切】[2026-03-07]初見さん大募集！  #shorts  #vtuber  #vsinger[d9gxlpzvzqU]YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HXNAzGEqw?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "メリッサ",
+  "artist": "Porno Graffitti",
+  "collection": "【🍠🦍歌切】[2026-03-07]初見さん大募集！  #shorts  #vtuber  #vsinger[d9gxlpzvzqU]YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HXNAzGEqw?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【🍠🦍歌切】[2026-03-07]初見さん大募集！  #shorts  #vtuber  #vsinger[d9gxlpzvzqU]YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HXNAzGEqw?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "十六夜涙",
+  "artist": "吉岡亜衣加",
+  "collection": "【🍠🦍歌切】[2026-03-07]初見さん大募集！  #shorts  #vtuber  #vsinger[d9gxlpzvzqU]YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HXNAzGEqw?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【🍠🦍歌切】[2026-03-07]初見さん大募集！  #shorts  #vtuber  #vsinger[d9gxlpzvzqU]YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HXNAzGEqw?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "負けないで",
+  "artist": "ZARD",
+  "collection": "【🍠🦍歌切】[2026-03-07]初見さん大募集！  #shorts  #vtuber  #vsinger[d9gxlpzvzqU]YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HXNAzGEqw?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "メグメグ☆ファイアーエンドレスナイト",
+  "artist": "samfree feat.GUMI",
+  "collection": "【🍠🦍歌切】[2026-03-07]初見さん大募集！  #shorts  #vtuber  #vsinger[d9gxlpzvzqU]YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HXNAzGEqw?p=14",
   "source": "yoshika.js"
 }
 );
