@@ -1376,15 +1376,14 @@ function copyResults() {
   const includeTitle = document.getElementById('copyTitle').checked;
   const includeLink = document.getElementById('copyLink').checked;
   const includeCount = document.getElementById('copyCount').checked;
-  const includeSource = document.getElementById('copySource').checked; // 新增来源选项
+  const includeSource = document.getElementById('copySource').checked;
   const isTextFormat = document.getElementById('copyText').checked;
 
   // 筛选要复制的歌曲
   let copyData = analysisResult;
   if (onlyUnique) {
-    // 修复：未找到的歌曲也视为非重复，加入可复制列表
     copyData = analysisResult.filter(item => {
-      if (item.isNotFound) return true; // 未找到的也算非重复
+      if (item.isNotFound) return true;
       return dupThreshold === 0 ? item.dupCount === 0 : item.dupCount <= 1;
     });
   }
@@ -1405,42 +1404,50 @@ function copyResults() {
         parts.push(`[未找到] ${item.originalInput || '未知歌曲'}`);
       } else {
         if (includeTitle) parts.push(item.song.title || '未知歌曲');
-        if (includeSource) parts.push(`来源：${getSourceAlias(item.song.source)}`); // 新增来源
+        if (includeSource) parts.push(`来源：${getSourceAlias(item.song.source)}`);
         if (includeLink) parts.push(`链接：${item.song.link}`);
         if (includeCount) parts.push(`次数：${item.dupCount}`);
       }
       content += parts.join(' | ') + '\n';
     });
   } 
-  // 表格格式（TSV，可直接粘贴到Excel）
-else {
-  // 表头
-  const headers = [];
-  headers.push('状态'); // 新增状态列
-  if (includeTitle) headers.push('歌名');
-  if (includeSource) headers.push('来源'); // 新增来源表头
-  if (includeLink) headers.push('歌曲链接');
-  if (includeCount) headers.push('出现次数');
-  content += headers.join('\t') + '\n';
-  
-  // 内容行
-  copyData.forEach(item => {
-    const row = [];
-    if (item.isNotFound) {
-      row.push('未找到');
-      if (includeTitle) row.push(item.originalInput || '未知歌曲');
-      if (includeSource) row.push('');
-      if (includeLink) row.push('');
-      if (includeCount) row.push('0');
-    } else {
-      row.push(item.isDup ? '重复' : '唯一');
-      if (includeTitle) row.push(item.song.title || '未知歌曲');
-      if (includeSource) row.push(getSourceAlias(item.song.source)); // 新增来源内容
-      if (includeLink) row.push(item.song.link);
-      if (includeCount) row.push(item.dupCount);
-    }
-    content += row.join('\t') + '\n';
-  });
+  // 表格格式
+  else {
+    const headers = ['状态'];
+    if (includeTitle) headers.push('歌名');
+    if (includeSource) headers.push('来源');
+    if (includeLink) headers.push('歌曲链接');
+    if (includeCount) headers.push('出现次数');
+    content += headers.join('\t') + '\n';
+    
+    copyData.forEach(item => {
+      const row = [];
+      if (item.isNotFound) {
+        row.push('未找到');
+        if (includeTitle) row.push(item.originalInput || '未知歌曲');
+        if (includeSource) row.push('');
+        if (includeLink) row.push('');
+        if (includeCount) row.push('0');
+      } else {
+        row.push(item.isDup ? '重复' : '唯一');
+        if (includeTitle) row.push(item.song.title || '未知歌曲');
+        if (includeSource) row.push(getSourceAlias(item.song.source));
+        if (includeLink) row.push(item.song.link);
+        if (includeCount) row.push(item.dupCount);
+      }
+      content += row.join('\t') + '\n';
+    });
+  }
+
+  // 复制到剪贴板
+  navigator.clipboard.writeText(content.trim())
+    .then(() => {
+      showToast('复制成功！', 'success');
+    })
+    .catch(err => {
+      console.error('复制失败：', err);
+      showToast('复制失败，请手动复制！', 'error');
+    });
 }
 
 // ================= 初始化 =================
