@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 3/7/2026, 3:15:49 PM
+// 生成时间: 3/7/2026, 4:18:51 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -19792,7 +19792,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒",
   "artist": "ヨルシカ",
-  "collection": "【🦢歌切】#135[2026-03-04]初见和老观众都跳起来～！初見さんも常連さんも踊れ～！[M7IptBgWxro]稀羽すう",
+  "collection": "【🦢歌切】#135[2026-03-04]初见和常连都跳起来～！初見さんも常連さんも踊れ～！[M7IptBgWxro]稀羽すう",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DKPqzmEAJ?p=1",
   "source": "suu_usuwa.js"
@@ -19800,7 +19800,7 @@ window.SONG_DATA.push(
     {
   "title": "プラチナ",
   "artist": "坂本真綾",
-  "collection": "【🦢歌切】#135[2026-03-04]初见和老观众都跳起来～！初見さんも常連さんも踊れ～！[M7IptBgWxro]稀羽すう",
+  "collection": "【🦢歌切】#135[2026-03-04]初见和常连都跳起来～！初見さんも常連さんも踊れ～！[M7IptBgWxro]稀羽すう",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DKPqzmEAJ?p=2",
   "source": "suu_usuwa.js"
@@ -19808,7 +19808,7 @@ window.SONG_DATA.push(
     {
   "title": "Ready To Party",
   "artist": "稀羽すう",
-  "collection": "【🦢歌切】#135[2026-03-04]初见和老观众都跳起来～！初見さんも常連さんも踊れ～！[M7IptBgWxro]稀羽すう",
+  "collection": "【🦢歌切】#135[2026-03-04]初见和常连都跳起来～！初見さんも常連さんも踊れ～！[M7IptBgWxro]稀羽すう",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DKPqzmEAJ?p=3",
   "source": "suu_usuwa.js"
@@ -19816,7 +19816,7 @@ window.SONG_DATA.push(
     {
   "title": "春を告げる",
   "artist": "yama",
-  "collection": "【🦢歌切】#135[2026-03-04]初见和老观众都跳起来～！初見さんも常連さんも踊れ～！[M7IptBgWxro]稀羽すう",
+  "collection": "【🦢歌切】#135[2026-03-04]初见和常连都跳起来～！初見さんも常連さんも踊れ～！[M7IptBgWxro]稀羽すう",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DKPqzmEAJ?p=4",
   "source": "suu_usuwa.js"
@@ -19824,7 +19824,7 @@ window.SONG_DATA.push(
     {
   "title": "火星人",
   "artist": "ヨルシカ",
-  "collection": "【🦢歌切】#135[2026-03-04]初见和老观众都跳起来～！初見さんも常連さんも踊れ～！[M7IptBgWxro]稀羽すう",
+  "collection": "【🦢歌切】#135[2026-03-04]初见和常连都跳起来～！初見さんも常連さんも踊れ～！[M7IptBgWxro]稀羽すう",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DKPqzmEAJ?p=5",
   "source": "suu_usuwa.js"
@@ -19832,7 +19832,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーチラス",
   "artist": "ヨルシカ",
-  "collection": "【🦢歌切】#135[2026-03-04]初见和老观众都跳起来～！初見さんも常連さんも踊れ～！[M7IptBgWxro]稀羽すう",
+  "collection": "【🦢歌切】#135[2026-03-04]初见和常连都跳起来～！初見さんも常連さんも踊れ～！[M7IptBgWxro]稀羽すう",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DKPqzmEAJ?p=6",
   "source": "suu_usuwa.js"
@@ -19840,7 +19840,7 @@ window.SONG_DATA.push(
     {
   "title": "Laughter",
   "artist": "Official髭男dism",
-  "collection": "【🦢歌切】#135[2026-03-04]初见和老观众都跳起来～！初見さんも常連さんも踊れ～！[M7IptBgWxro]稀羽すう",
+  "collection": "【🦢歌切】#135[2026-03-04]初见和常连都跳起来～！初見さんも常連さんも踊れ～！[M7IptBgWxro]稀羽すう",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DKPqzmEAJ?p=7",
   "source": "suu_usuwa.js"
@@ -19848,7 +19848,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーダウト",
   "artist": "Official髭男dism",
-  "collection": "【🦢歌切】#135[2026-03-04]初见和老观众都跳起来～！初見さんも常連さんも踊れ～！[M7IptBgWxro]稀羽すう",
+  "collection": "【🦢歌切】#135[2026-03-04]初见和常连都跳起来～！初見さんも常連さんも踊れ～！[M7IptBgWxro]稀羽すう",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DKPqzmEAJ?p=8",
   "source": "suu_usuwa.js"
@@ -19856,7 +19856,7 @@ window.SONG_DATA.push(
     {
   "title": "クリームソーダとシャンデリア",
   "artist": "mei × Henrii",
-  "collection": "【🦢歌切】#135[2026-03-04]初见和老观众都跳起来～！初見さんも常連さんも踊れ～！[M7IptBgWxro]稀羽すう",
+  "collection": "【🦢歌切】#135[2026-03-04]初见和常连都跳起来～！初見さんも常連さんも踊れ～！[M7IptBgWxro]稀羽すう",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DKPqzmEAJ?p=9",
   "source": "suu_usuwa.js"
