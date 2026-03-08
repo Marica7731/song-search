@@ -15,7 +15,7 @@
     "others.js",
     "earendel.js",
     "linon.js",
-    "linon.js"
+    "stella.js"
   ],
   "fileToAlias": {
     "naraetan": "なれたん Naraetan",
@@ -32,6 +32,7 @@
     "friends": "联动",
     "others": "非常驻妹妹",
     "earendel": "厄倫蒂兒",
-    "linon": "天ノ譜ステラ"
+    "linon": "天籠りのん",
+    "stella": "天ノ譜ステラ"
   }
 }
