@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 3/8/2026, 7:35:33 PM
+// 生成时间: 3/8/2026, 8:17:59 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -21910,8 +21910,8 @@ window.SONG_DATA.push(
   "source": "yoshika.js"
 },
     {
-  "title": "あくあ色ぱれっと",
-  "artist": "ホロライブ湊あくあ",
+  "title": "#あくあ色ぱれっと",
+  "artist": "湊あくあ",
   "collection": "2025年7月21日 竖屏",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CSgszHEoc?p=16",
@@ -27102,7 +27102,7 @@ window.SONG_DATA.push(
   "source": "yoshika.js"
 },
     {
-  "title": "＃あくあ色ぱれっと",
+  "title": "#あくあ色ぱれっと",
   "artist": "湊あくあ",
   "collection": "【🍠🦍歌切】[2026-03-08]初見さん大募集！[Tz8jXrEBDqI] YOSHIKA よしか",
   "up": "前尘往事如昔故",
