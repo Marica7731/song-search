@@ -14,6 +14,7 @@
     "friends.js",
     "others.js",
     "earendel.js",
+    "linon.js",
     "linon.js"
   ],
   "fileToAlias": {
@@ -29,8 +30,8 @@
     "nayuta": "nayuta",
     "MunMosh": "むんもっしゅ",
     "friends": "联动",
-    "others": "其他歌手",
+    "others": "非常驻妹妹",
     "earendel": "厄倫蒂兒",
-    "linon": "天籠りのん"
+    "linon": "天ノ譜ステラ"
   }
 }

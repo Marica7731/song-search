@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 3/8/2026, 4:18:38 PM
+// 生成时间: 3/8/2026, 7:17:59 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -27483,6 +27483,206 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-03-06]華の金曜日を楽しむような歌枠！[Q_UNNderMGk] Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1rMPbz5Et8?p=19",
+  "source": "figaro.js"
+},
+    {
+  "title": "Ham",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【💐歌切】#259[2026-03-08]歌多多的助眠歌枠✨安眠前的放松时光请享用🌙安眠前のリラックスタイムにどうぞ[nnz7J3KOpT4]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11FNGzzEdw?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "それがあなたの幸せとしても",
+  "artist": "Heavenz",
+  "collection": "【💐歌切】#259[2026-03-08]歌多多的助眠歌枠✨安眠前的放松时光请享用🌙安眠前のリラックスタイムにどうぞ[nnz7J3KOpT4]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11FNGzzEdw?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "明日への手紙",
+  "artist": "手嶌葵",
+  "collection": "【💐歌切】#259[2026-03-08]歌多多的助眠歌枠✨安眠前的放松时光请享用🌙安眠前のリラックスタイムにどうぞ[nnz7J3KOpT4]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11FNGzzEdw?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "ありあまる富",
+  "artist": "椎名林檎",
+  "collection": "【💐歌切】#259[2026-03-08]歌多多的助眠歌枠✨安眠前的放松时光请享用🌙安眠前のリラックスタイムにどうぞ[nnz7J3KOpT4]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11FNGzzEdw?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "Alice",
+  "artist": "古川本舗",
+  "collection": "【💐歌切】#259[2026-03-08]歌多多的助眠歌枠✨安眠前的放松时光请享用🌙安眠前のリラックスタイムにどうぞ[nnz7J3KOpT4]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11FNGzzEdw?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【💐歌切】#259[2026-03-08]歌多多的助眠歌枠✨安眠前的放松时光请享用🌙安眠前のリラックスタイムにどうぞ[nnz7J3KOpT4]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11FNGzzEdw?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "木蘭の涙",
+  "artist": "スターダスト☆レビュー",
+  "collection": "【💐歌切】#259[2026-03-08]歌多多的助眠歌枠✨安眠前的放松时光请享用🌙安眠前のリラックスタイムにどうぞ[nnz7J3KOpT4]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11FNGzzEdw?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "3月9日",
+  "artist": "レミオロメン",
+  "collection": "【💐歌切】#259[2026-03-08]歌多多的助眠歌枠✨安眠前的放松时光请享用🌙安眠前のリラックスタイムにどうぞ[nnz7J3KOpT4]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11FNGzzEdw?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "最愛",
+  "artist": "KOH+",
+  "collection": "【💐歌切】#259[2026-03-08]歌多多的助眠歌枠✨安眠前的放松时光请享用🌙安眠前のリラックスタイムにどうぞ[nnz7J3KOpT4]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11FNGzzEdw?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "Squall",
+  "artist": "福山雅治",
+  "collection": "【💐歌切】#259[2026-03-08]歌多多的助眠歌枠✨安眠前的放松时光请享用🌙安眠前のリラックスタイムにどうぞ[nnz7J3KOpT4]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11FNGzzEdw?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "たしかなこと",
+  "artist": "小田和正",
+  "collection": "【💐歌切】#259[2026-03-08]歌多多的助眠歌枠✨安眠前的放松时光请享用🌙安眠前のリラックスタイムにどうぞ[nnz7J3KOpT4]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11FNGzzEdw?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "水平線",
+  "artist": "back number",
+  "collection": "【💐歌切】#259[2026-03-08]歌多多的助眠歌枠✨安眠前的放松时光请享用🌙安眠前のリラックスタイムにどうぞ[nnz7J3KOpT4]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11FNGzzEdw?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "ナブナ",
+  "collection": "【💐歌切】#259[2026-03-08]歌多多的助眠歌枠✨安眠前的放松时光请享用🌙安眠前のリラックスタイムにどうぞ[nnz7J3KOpT4]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11FNGzzEdw?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】#259[2026-03-08]歌多多的助眠歌枠✨安眠前的放松时光请享用🌙安眠前のリラックスタイムにどうぞ[nnz7J3KOpT4]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11FNGzzEdw?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】#259[2026-03-08]歌多多的助眠歌枠✨安眠前的放松时光请享用🌙安眠前のリラックスタイムにどうぞ[nnz7J3KOpT4]Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11FNGzzEdw?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "ポロメリア",
+  "artist": "Cocco",
+  "collection": "2026-03-08会限 粉丝向 弹语",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV117N3zMEiw?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "Alice",
+  "artist": "古川本舗",
+  "collection": "2026-03-08会限 粉丝向 弹语",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV117N3zMEiw?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "ナブナ",
+  "collection": "2026-03-08会限 粉丝向 弹语",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV117N3zMEiw?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "2026-03-08会限 粉丝向 弹语",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV117N3zMEiw?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "愛のうた",
+  "artist": "ストロベリー・フラワー",
+  "collection": "2026-03-08会限 粉丝向 弹语",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV117N3zMEiw?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "メトロノーム",
+  "artist": "米津玄師",
+  "collection": "2026-03-08会限 粉丝向 弹语",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV117N3zMEiw?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO×米津玄師",
+  "collection": "2026-03-08会限 粉丝向 弹语",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV117N3zMEiw?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "2026-03-08会限 粉丝向 弹语",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV117N3zMEiw?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "シュノーケル",
+  "artist": "文藝天国",
+  "collection": "2026-03-08会限 粉丝向 弹语",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV117N3zMEiw?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "2026-03-08会限 粉丝向 弹语",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV117N3zMEiw?p=10",
   "source": "figaro.js"
 }
 );

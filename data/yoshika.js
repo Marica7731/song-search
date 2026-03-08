@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 3/8/2026, 4:20:54 PM
+// 生成时间: 3/8/2026, 7:19:28 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -27035,6 +27035,134 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-03-07]初見さん大募集！  #shorts  #vtuber  #vsinger[d9gxlpzvzqU]YOSHIKA よしか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HXNAzGEqw?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "フローリア",
+  "artist": "佐香智久",
+  "collection": "【🍠🦍歌切】[2026-03-08]初見さん大募集！[Tz8jXrEBDqI] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14dN3zGE23?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ココロのちず",
+  "artist": "BOYSTYLE",
+  "collection": "【🍠🦍歌切】[2026-03-08]初見さん大募集！[Tz8jXrEBDqI] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14dN3zGE23?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春",
+  "collection": "【🍠🦍歌切】[2026-03-08]初見さん大募集！[Tz8jXrEBDqI] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14dN3zGE23?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハレ晴レユカイ",
+  "artist": "平野綾，茅原実里，後藤邑子",
+  "collection": "【🍠🦍歌切】[2026-03-08]初見さん大募集！[Tz8jXrEBDqI] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14dN3zGE23?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "GO MY WAY!!",
+  "artist": "M@STER",
+  "collection": "【🍠🦍歌切】[2026-03-08]初見さん大募集！[Tz8jXrEBDqI] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14dN3zGE23?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさＰ feat 初音ミク",
+  "collection": "【🍠🦍歌切】[2026-03-08]初見さん大募集！[Tz8jXrEBDqI] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14dN3zGE23?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【🍠🦍歌切】[2026-03-08]初見さん大募集！[Tz8jXrEBDqI] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14dN3zGE23?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【🍠🦍歌切】[2026-03-08]初見さん大募集！[Tz8jXrEBDqI] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14dN3zGE23?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "＃あくあ色ぱれっと",
+  "artist": "湊あくあ",
+  "collection": "【🍠🦍歌切】[2026-03-08]初見さん大募集！[Tz8jXrEBDqI] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14dN3zGE23?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "God knows",
+  "artist": "涼宮ハルヒ",
+  "collection": "【🍠🦍歌切】[2026-03-08]初見さん大募集！[Tz8jXrEBDqI] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14dN3zGE23?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "中島愛",
+  "collection": "【🍠🦍歌切】[2026-03-08]初見さん大募集！[Tz8jXrEBDqI] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14dN3zGE23?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Winter Bells",
+  "artist": "倉木麻衣",
+  "collection": "【🍠🦍歌切】[2026-03-08]初見さん大募集！[Tz8jXrEBDqI] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14dN3zGE23?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "【🍠🦍歌切】[2026-03-08]初見さん大募集！[Tz8jXrEBDqI] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14dN3zGE23?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ラピスラズリ",
+  "artist": "藍井エイル",
+  "collection": "【🍠🦍歌切】[2026-03-08]初見さん大募集！[Tz8jXrEBDqI] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14dN3zGE23?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "桜日和とタイムマシン",
+  "artist": "Ado with 初音ミク",
+  "collection": "【🍠🦍歌切】[2026-03-08]初見さん大募集！[Tz8jXrEBDqI] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14dN3zGE23?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "破滅の純情",
+  "artist": "ワルキューレ",
+  "collection": "【🍠🦍歌切】[2026-03-08]初見さん大募集！[Tz8jXrEBDqI] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14dN3zGE23?p=16",
   "source": "yoshika.js"
 }
 );

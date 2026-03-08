@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr
-// 生成时间: 3/8/2026, 4:18:04 PM
+// 生成时间: 3/8/2026, 7:17:33 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -371,6 +371,358 @@ window.SONG_DATA.push(
   "collection": "[26.02会限] 阿卡贝拉限定歌回【メン限】アカペラで歌うよ[なれたん 歌切🌷]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yafgB7EGf?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "3月9日",
+  "artist": "レミオロメン[us2MJt3HbVo]",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "恐山ル・ヴォワール",
+  "artist": "かぴたろう",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夢と葉桜",
+  "artist": "青木月光",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "相思相愛",
+  "artist": "aiko",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "今好きになる。",
+  "artist": "HoneyWorks",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "愉快な鼓動",
+  "artist": "米倉千尋",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "空の青さを知る人よ",
+  "artist": "あいみょん",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "瞳をとじて",
+  "artist": "平井堅",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "生きるよすが",
+  "artist": "月詠み",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "幾億光年",
+  "artist": "Omoinotake",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "よくばり",
+  "artist": "Ayase",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "For Real",
+  "artist": "徳山秀典",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "STILL TIME",
+  "artist": "徳山秀典",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "じゃじゃ馬にさせないで",
+  "artist": "西尾えつ子",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夢の中へ",
+  "artist": "井上陽水",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=16",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=17",
+  "source": "naraetan.js"
+},
+    {
+  "title": "LEVEL5-judgelight-",
+  "artist": "fripSide",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=18",
+  "source": "naraetan.js"
+},
+    {
+  "title": "スカイクラッドの観測者",
+  "artist": "いとうかなこ",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=19",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Habit",
+  "artist": "SEKAI NO OWARI",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=20",
+  "source": "naraetan.js"
+},
+    {
+  "title": "貴方の恋人になりたい",
+  "artist": "チョーキューメイ",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=21",
+  "source": "naraetan.js"
+},
+    {
+  "title": "天使にふれたよ！",
+  "artist": "放課後ティータイム",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=22",
+  "source": "naraetan.js"
+},
+    {
+  "title": "愛唄",
+  "artist": "GReeeeN",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=23",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Wind Climbing ～風にあそばれて～",
+  "artist": "奥井亜紀",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=24",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Ubiquitous dB",
+  "artist": "ユナ（CV：神田沙也加）",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=25",
+  "source": "naraetan.js"
+},
+    {
+  "title": "星になる",
+  "artist": "Islet feat.倚水",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=26",
+  "source": "naraetan.js"
+},
+    {
+  "title": "なんでもないや",
+  "artist": "RADWIMPS",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=27",
+  "source": "naraetan.js"
+},
+    {
+  "title": "長い間",
+  "artist": "Kiroro",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=28",
+  "source": "naraetan.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=29",
+  "source": "naraetan.js"
+},
+    {
+  "title": "remember",
+  "artist": "Uru",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=30",
+  "source": "naraetan.js"
+},
+    {
+  "title": "白日",
+  "artist": "King Gnu",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=31",
+  "source": "naraetan.js"
+},
+    {
+  "title": "フィナーレ。",
+  "artist": "eill",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=32",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=33",
+  "source": "naraetan.js"
+},
+    {
+  "title": "青春ライン",
+  "artist": "いきものがかり",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=34",
+  "source": "naraetan.js"
+},
+    {
+  "title": "涙の種、笑顔の花",
+  "artist": "中川翔子",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=35",
+  "source": "naraetan.js"
+},
+    {
+  "title": "NO, Thank You!",
+  "artist": "放課後ティータイム",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=36",
+  "source": "naraetan.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=37",
+  "source": "naraetan.js"
+},
+    {
+  "title": "破滅の純情",
+  "artist": "ワルキューレ",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=38",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "May'n&中島愛",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=39",
+  "source": "naraetan.js"
+},
+    {
+  "title": "深愛",
+  "artist": "水樹奈々",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=40",
+  "source": "naraetan.js"
+},
+    {
+  "title": "カワキヲアメク",
+  "artist": "美波",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=41",
+  "source": "naraetan.js"
+},
+    {
+  "title": "み む かｩ わ ナ イ ス ト ラ イ",
+  "artist": "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ[eiiYLRoPVb",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=42",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ダダダダ天使",
+  "artist": "ナナヲアカリ",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=43",
+  "source": "naraetan.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=44",
   "source": "naraetan.js"
 },
     {
@@ -5131,6 +5483,86 @@ window.SONG_DATA.push(
   "collection": "変わらないもの - 奥華子 cover by なれたん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fcPpzREyR?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "車輪の唄",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【なれたん歌切】[2026-03-08]康复后的歌枠🦵リハビリ後の歌枠🦵[CLKz5TTP2rM] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h2N3zEEvW?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ヒーロー",
+  "artist": "supercell",
+  "collection": "【なれたん歌切】[2026-03-08]康复后的歌枠🦵リハビリ後の歌枠🦵[CLKz5TTP2rM] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h2N3zEEvW?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "晴れてハレルヤ",
+  "artist": "奥井亜紀",
+  "collection": "【なれたん歌切】[2026-03-08]康复后的歌枠🦵リハビリ後の歌枠🦵[CLKz5TTP2rM] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h2N3zEEvW?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Cagayake!GIRLS",
+  "artist": "放課後ティータイム",
+  "collection": "【なれたん歌切】[2026-03-08]康复后的歌枠🦵リハビリ後の歌枠🦵[CLKz5TTP2rM] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h2N3zEEvW?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "【なれたん歌切】[2026-03-08]康复后的歌枠🦵リハビリ後の歌枠🦵[CLKz5TTP2rM] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h2N3zEEvW?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ほうき星",
+  "artist": "ユンナ",
+  "collection": "【なれたん歌切】[2026-03-08]康复后的歌枠🦵リハビリ後の歌枠🦵[CLKz5TTP2rM] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h2N3zEEvW?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "おジャ魔女カーニバル！！",
+  "artist": "MAHO堂",
+  "collection": "【なれたん歌切】[2026-03-08]康复后的歌枠🦵リハビリ後の歌枠🦵[CLKz5TTP2rM] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h2N3zEEvW?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ホタルノヒカリ",
+  "artist": "いきものがかり",
+  "collection": "【なれたん歌切】[2026-03-08]康复后的歌枠🦵リハビリ後の歌枠🦵[CLKz5TTP2rM] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h2N3zEEvW?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "宵々古今",
+  "artist": "REOL",
+  "collection": "【なれたん歌切】[2026-03-08]康复后的歌枠🦵リハビリ後の歌枠🦵[CLKz5TTP2rM] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h2N3zEEvW?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【なれたん歌切】[2026-03-08]康复后的歌枠🦵リハビリ後の歌枠🦵[CLKz5TTP2rM] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h2N3zEEvW?p=10",
   "source": "naraetan.js"
 }
 );
