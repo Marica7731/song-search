@@ -61,9 +61,10 @@ const SINGER_CONFIGS = [
     { bvids: ["BV1GXYFzXETo","BV1MPpUzsE1D","BV184W5zeE1Z"], file: "nayuta", alias: "nayuta" },
     { bvids: ["BV1UCkhBkEon"], file: "MunMosh", alias: "むんもっしゅ" },
     { bvids: ["BV1eTkKYDENL"], file: "friends", alias: "联动" },
-    { bvids: ["BV11GZtBcEsp"], file: "others", alias: "其他歌手" },
+    { bvids: ["BV11GZtBcEsp"], file: "others", alias: "非常驻妹妹" },
     { bvids: ["BV1dGqeYpEuc"], file: "earendel", alias: "厄倫蒂兒" },
-    { bvids: ["BV1hw4m1i7nN"], file: "linon", alias: "天籠りのん" }
+    { bvids: ["BV1hw4m1i7nN"], file: "linon", alias: "天籠りのん" },
+    { bvids: ["BV1MEP8z4E1J"], file: "linon", alias: "天ノ譜ステラ" }
 ];
 
 const DATA_DIR = path.join(__dirname, '..', 'data');
