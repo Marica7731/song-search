@@ -64,7 +64,7 @@ const SINGER_CONFIGS = [
     { bvids: ["BV11GZtBcEsp"], file: "others", alias: "非常驻妹妹" },
     { bvids: ["BV1dGqeYpEuc"], file: "earendel", alias: "厄倫蒂兒" },
     { bvids: ["BV1hw4m1i7nN"], file: "linon", alias: "天籠りのん" },
-    { bvids: ["BV1MEP8z4E1J"], file: "linon", alias: "天ノ譜ステラ" }
+    { bvids: ["BV1MEP8z4E1J"], file: "stella", alias: "天ノ譜ステラ" }
 ];
 
 const DATA_DIR = path.join(__dirname, '..', 'data');
