@@ -1,6 +1,6 @@
 // 天ノ譜ステラ - 歌单数据 (多合集汇总)
 // 来源: BV1MEP8z4E1J
-// 生成时间: 3/9/2026, 2:59:35 PM
+// 生成时间: 3/9/2026, 3:56:53 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -694,19 +694,11 @@ window.SONG_DATA.push(
   "source": "stella.js"
 },
     {
-  "title": "オリオンをなぞる",
-  "artist": "UNISON SQUARE GARDEN[IgQX9apS1iE].mp4",
-  "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=87",
-  "source": "stella.js"
-},
-    {
   "title": "きゅうくらりん",
   "artist": "いよわ[IgQX9apS1iE].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=88",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=87",
   "source": "stella.js"
 },
     {
@@ -714,7 +706,7 @@ window.SONG_DATA.push(
   "artist": "HoneyWorks[IgQX9apS1iE].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=89",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=88",
   "source": "stella.js"
 },
     {
@@ -722,7 +714,7 @@ window.SONG_DATA.push(
   "artist": "doriko[IgQX9apS1iE].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=90",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=89",
   "source": "stella.js"
 },
     {
@@ -730,7 +722,7 @@ window.SONG_DATA.push(
   "artist": "ジミーサムP[IgQX9apS1iE].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=91",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=90",
   "source": "stella.js"
 },
     {
@@ -738,7 +730,7 @@ window.SONG_DATA.push(
   "artist": "ryo[IgQX9apS1iE].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=92",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=91",
   "source": "stella.js"
 },
     {
@@ -746,7 +738,7 @@ window.SONG_DATA.push(
   "artist": "千石撫子(花澤香菜)[IgQX9apS1iE].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=93",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=92",
   "source": "stella.js"
 },
     {
@@ -754,7 +746,7 @@ window.SONG_DATA.push(
   "artist": "髏々宮カルタ(花澤香菜)[IgQX9apS1iE].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=94",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=93",
   "source": "stella.js"
 },
     {
@@ -762,7 +754,7 @@ window.SONG_DATA.push(
   "artist": "阿良々木月火(井口裕香)[IgQX9apS1iE].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=95",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=94",
   "source": "stella.js"
 },
     {
@@ -770,7 +762,7 @@ window.SONG_DATA.push(
   "artist": "HoneyWorks[IgQX9apS1iE].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=96",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=95",
   "source": "stella.js"
 },
     {
@@ -778,7 +770,7 @@ window.SONG_DATA.push(
   "artist": "椎名林檎[IgQX9apS1iE].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=97",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=96",
   "source": "stella.js"
 },
     {
@@ -786,7 +778,7 @@ window.SONG_DATA.push(
   "artist": "PiKi[IgQX9apS1iE].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=98",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=97",
   "source": "stella.js"
 },
     {
@@ -794,7 +786,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI[AFHGqWlDrYk].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=99",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=98",
   "source": "stella.js"
 },
     {
@@ -802,7 +794,7 @@ window.SONG_DATA.push(
   "artist": "Ado[AFHGqWlDrYk].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=100",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=99",
   "source": "stella.js"
 },
     {
@@ -810,7 +802,7 @@ window.SONG_DATA.push(
   "artist": "和田たけあき(くらげP)[AFHGqWlDrYk].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=101",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=100",
   "source": "stella.js"
 },
     {
@@ -818,7 +810,7 @@ window.SONG_DATA.push(
   "artist": "GRe4N BOYZ(GReeeeN)[AFHGqWlDrYk].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=102",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=101",
   "source": "stella.js"
 },
     {
@@ -826,7 +818,7 @@ window.SONG_DATA.push(
   "artist": "Ayase[AFHGqWlDrYk].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=103",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=102",
   "source": "stella.js"
 },
     {
@@ -834,7 +826,7 @@ window.SONG_DATA.push(
   "artist": "LiSA[AFHGqWlDrYk].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=104",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=103",
   "source": "stella.js"
 },
     {
@@ -842,7 +834,7 @@ window.SONG_DATA.push(
   "artist": "fripSide[AFHGqWlDrYk].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=105",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=104",
   "source": "stella.js"
 },
     {
@@ -850,7 +842,7 @@ window.SONG_DATA.push(
   "artist": "涼宮ハルヒ(平野綾)[AFHGqWlDrYk].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=106",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=105",
   "source": "stella.js"
 },
     {
@@ -858,7 +850,7 @@ window.SONG_DATA.push(
   "artist": "和田光司[AFHGqWlDrYk].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=107",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=106",
   "source": "stella.js"
 },
     {
@@ -866,7 +858,7 @@ window.SONG_DATA.push(
   "artist": "halyosy[AFHGqWlDrYk].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=108",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=107",
   "source": "stella.js"
 },
     {
@@ -874,7 +866,7 @@ window.SONG_DATA.push(
   "artist": "wowaka(現実逃避P)[AFHGqWlDrYk].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=109",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=108",
   "source": "stella.js"
 },
     {
@@ -882,7 +874,7 @@ window.SONG_DATA.push(
   "artist": "minato(流星P)[AFHGqWlDrYk].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=110",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=109",
   "source": "stella.js"
 },
     {
@@ -890,7 +882,7 @@ window.SONG_DATA.push(
   "artist": "緑黄色社会[AFHGqWlDrYk].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=111",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=110",
   "source": "stella.js"
 },
     {
@@ -898,7 +890,7 @@ window.SONG_DATA.push(
   "artist": "女王蜂[AFHGqWlDrYk].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=112",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=111",
   "source": "stella.js"
 },
     {
@@ -906,7 +898,7 @@ window.SONG_DATA.push(
   "artist": "DECO#27[AFHGqWlDrYk].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=113",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=112",
   "source": "stella.js"
 },
     {
@@ -914,7 +906,7 @@ window.SONG_DATA.push(
   "artist": "ZONE[AFHGqWlDrYk].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=114",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=113",
   "source": "stella.js"
 },
     {
@@ -922,7 +914,7 @@ window.SONG_DATA.push(
   "artist": "keeno[AFHGqWlDrYk].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=115",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=114",
   "source": "stella.js"
 },
     {
@@ -930,7 +922,7 @@ window.SONG_DATA.push(
   "artist": "19's Sound Factory[AFHGqWlDrYk].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=116",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=115",
   "source": "stella.js"
 },
     {
@@ -938,7 +930,7 @@ window.SONG_DATA.push(
   "artist": "TOKOTOKO(西沢さんP)[AFHGqWlDrYk].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=117",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=116",
   "source": "stella.js"
 },
     {
@@ -946,7 +938,7 @@ window.SONG_DATA.push(
   "artist": "ハチ[AFHGqWlDrYk].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=118",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=117",
   "source": "stella.js"
 },
     {
@@ -954,7 +946,7 @@ window.SONG_DATA.push(
   "artist": "日向電工[AFHGqWlDrYk].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=119",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=118",
   "source": "stella.js"
 },
     {
@@ -962,7 +954,7 @@ window.SONG_DATA.push(
   "artist": "ハチ[AFHGqWlDrYk].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=120",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=119",
   "source": "stella.js"
 },
     {
@@ -970,7 +962,7 @@ window.SONG_DATA.push(
   "artist": "さつき が てんこもり[FZKH8_mETOo].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=121",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=120",
   "source": "stella.js"
 },
     {
@@ -978,7 +970,7 @@ window.SONG_DATA.push(
   "artist": "シド[FZKH8_mETOo].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=122",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=121",
   "source": "stella.js"
 },
     {
@@ -986,7 +978,7 @@ window.SONG_DATA.push(
   "artist": "あいみょん[FZKH8_mETOo].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=123",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=122",
   "source": "stella.js"
 },
     {
@@ -994,7 +986,7 @@ window.SONG_DATA.push(
   "artist": "Ado[FZKH8_mETOo].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=124",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=123",
   "source": "stella.js"
 },
     {
@@ -1002,7 +994,7 @@ window.SONG_DATA.push(
   "artist": "嵐[FZKH8_mETOo].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=125",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=124",
   "source": "stella.js"
 },
     {
@@ -1010,7 +1002,7 @@ window.SONG_DATA.push(
   "artist": "n-buna[FZKH8_mETOo].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=126",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=125",
   "source": "stella.js"
 },
     {
@@ -1018,7 +1010,7 @@ window.SONG_DATA.push(
   "artist": "じん(自然の敵P)[FZKH8_mETOo].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=127",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=126",
   "source": "stella.js"
 },
     {
@@ -1026,39 +1018,7 @@ window.SONG_DATA.push(
   "artist": "すこっぷ[FZKH8_mETOo].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=128",
-  "source": "stella.js"
-},
-    {
-  "title": "Overdose",
-  "artist": "なとり[UtFE-pmzpY8].mp4",
-  "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=129",
-  "source": "stella.js"
-},
-    {
-  "title": "少女レイ",
-  "artist": "みきとP[UtFE-pmzpY8].mp4",
-  "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=130",
-  "source": "stella.js"
-},
-    {
-  "title": "愛をこめて花束を",
-  "artist": "Superfly[UtFE-pmzpY8].mp4",
-  "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=131",
-  "source": "stella.js"
-},
-    {
-  "title": "タマシイレボリューション",
-  "artist": "Superfly[UtFE-pmzpY8].mp4",
-  "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=132",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=127",
   "source": "stella.js"
 },
     {
@@ -1066,7 +1026,7 @@ window.SONG_DATA.push(
   "artist": "tuki.[hUzOuWr_-1s].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=133",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=128",
   "source": "stella.js"
 },
     {
@@ -1074,7 +1034,7 @@ window.SONG_DATA.push(
   "artist": "優里[hUzOuWr_-1s].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=134",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=129",
   "source": "stella.js"
 },
     {
@@ -1082,7 +1042,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師[hUzOuWr_-1s].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=135",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=130",
   "source": "stella.js"
 },
     {
@@ -1090,7 +1050,7 @@ window.SONG_DATA.push(
   "artist": "ツミキ[hUzOuWr_-1s].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=136",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=131",
   "source": "stella.js"
 },
     {
@@ -1098,7 +1058,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST[hUzOuWr_-1s].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=137",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=132",
   "source": "stella.js"
 },
     {
@@ -1106,7 +1066,7 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル[hUzOuWr_-1s].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=138",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=133",
   "source": "stella.js"
 },
     {
@@ -1114,7 +1074,7 @@ window.SONG_DATA.push(
   "artist": "Ado[hUzOuWr_-1s].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=139",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=134",
   "source": "stella.js"
 },
     {
@@ -1122,7 +1082,7 @@ window.SONG_DATA.push(
   "artist": "すこっぷ_1[hUzOuWr_-1s].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=140",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=135",
   "source": "stella.js"
 },
     {
@@ -1130,7 +1090,7 @@ window.SONG_DATA.push(
   "artist": "fripSide[hUzOuWr_-1s].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=141",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=136",
   "source": "stella.js"
 },
     {
@@ -1138,7 +1098,7 @@ window.SONG_DATA.push(
   "artist": "ワルキューレ[hUzOuWr_-1s].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=142",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=137",
   "source": "stella.js"
 },
     {
@@ -1146,7 +1106,7 @@ window.SONG_DATA.push(
   "artist": "Disney[hUzOuWr_-1s].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=143",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=138",
   "source": "stella.js"
 },
     {
@@ -1154,7 +1114,7 @@ window.SONG_DATA.push(
   "artist": "koyori(電ポルP)[hUzOuWr_-1s].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=144",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=139",
   "source": "stella.js"
 },
     {
@@ -1162,7 +1122,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ[hUzOuWr_-1s].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=145",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=140",
   "source": "stella.js"
 },
     {
@@ -1170,7 +1130,7 @@ window.SONG_DATA.push(
   "artist": "シェリル・ノーム starring May'n[hUzOuWr_-1s].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=146",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=141",
   "source": "stella.js"
 },
     {
@@ -1178,7 +1138,7 @@ window.SONG_DATA.push(
   "artist": "におP[hUzOuWr_-1s].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=147",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=142",
   "source": "stella.js"
 },
     {
@@ -1186,7 +1146,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI[hUzOuWr_-1s].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=148",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=143",
   "source": "stella.js"
 },
     {
@@ -1194,7 +1154,7 @@ window.SONG_DATA.push(
   "artist": "LiSA[hUzOuWr_-1s].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=149",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=144",
   "source": "stella.js"
 },
     {
@@ -1202,7 +1162,7 @@ window.SONG_DATA.push(
   "artist": "SPYAIR[hUzOuWr_-1s].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=150",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=145",
   "source": "stella.js"
 },
     {
@@ -1210,7 +1170,7 @@ window.SONG_DATA.push(
   "artist": "CHiCO with HoneyWorks[hUzOuWr_-1s].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=151",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=146",
   "source": "stella.js"
 },
     {
@@ -1218,7 +1178,7 @@ window.SONG_DATA.push(
   "artist": "あいみょん[hUzOuWr_-1s].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=152",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=147",
   "source": "stella.js"
 },
     {
@@ -1226,7 +1186,7 @@ window.SONG_DATA.push(
   "artist": "Vaundy[hUzOuWr_-1s].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=153",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=148",
   "source": "stella.js"
 },
     {
@@ -1234,7 +1194,7 @@ window.SONG_DATA.push(
   "artist": "蝶々P[hUzOuWr_-1s].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=154",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=149",
   "source": "stella.js"
 },
     {
@@ -1242,7 +1202,7 @@ window.SONG_DATA.push(
   "artist": "みきとP[hUzOuWr_-1s].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=155",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=150",
   "source": "stella.js"
 },
     {
@@ -1250,7 +1210,7 @@ window.SONG_DATA.push(
   "artist": "みきとP[hUzOuWr_-1s].mp4",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=156",
+  "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=151",
   "source": "stella.js"
 }
 );

@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1eTkKYDENL
-// 生成时间: 3/9/2026, 2:57:43 PM
+// 生成时间: 3/9/2026, 3:54:33 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -779,6 +779,62 @@ window.SONG_DATA.push(
   "collection": "【稀羽すう 3首】【まこうすわ2】🎉まこうすわ2周年纪念直播🎊 聊天和唱歌来庆祝吧！3. KICK BACK",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qz421o78z?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "🦢🕊联动 稀羽すう🦢  ✖️ 神凪アンナ🕊 2026-03-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV152PXziEaB?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "🦢🕊联动 稀羽すう🦢  ✖️ 神凪アンナ🕊 2026-03-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV152PXziEaB?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP　神凪アンナ Solo",
+  "collection": "🦢🕊联动 稀羽すう🦢  ✖️ 神凪アンナ🕊 2026-03-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV152PXziEaB?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "3月9日",
+  "artist": "レミオロメン　稀羽すう Solo",
+  "collection": "🦢🕊联动 稀羽すう🦢  ✖️ 神凪アンナ🕊 2026-03-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV152PXziEaB?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "🦢🕊联动 稀羽すう🦢  ✖️ 神凪アンナ🕊 2026-03-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV152PXziEaB?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "夜撫でるメノウ",
+  "artist": "Ayase",
+  "collection": "🦢🕊联动 稀羽すう🦢  ✖️ 神凪アンナ🕊 2026-03-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV152PXziEaB?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "🦢🕊联动 稀羽すう🦢  ✖️ 神凪アンナ🕊 2026-03-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV152PXziEaB?p=7",
   "source": "friends.js"
 }
 );
