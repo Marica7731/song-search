@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 3/9/2026, 5:44:00 PM
+// 生成时间: 3/9/2026, 6:42:02 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2271,7 +2271,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "SAKURAスキップ",
-  "artist": "fourfolium",
+  "artist": "fourfolium（高田憂希／山口愛／戸田めぐみ／竹尾歩美）",
   "collection": "【 YOSHIKA⁂Ch. 】16横屏】楽しく歌って行くよ🌸 1. SAKURAスキップ 2. さくらんぼ【20240320】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xf421Z7x5?p=1",
@@ -2351,7 +2351,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ラピスラズリ",
-  "artist": "やなぎなぎ",
+  "artist": "藍井エイル",
   "collection": "【 YOSHIKA⁂Ch. 】16横屏】楽しく歌って行くよ🌸 1. SAKURAスキップ 2. さくらんぼ【20240320】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xf421Z7x5?p=11",
