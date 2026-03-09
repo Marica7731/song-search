@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr
-// 生成时间: 3/9/2026, 4:47:55 PM
+// 生成时间: 3/9/2026, 5:41:29 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5563,6 +5563,142 @@ window.SONG_DATA.push(
   "collection": "【なれたん歌切】[2026-03-08]康复后的歌枠🦵リハビリ後の歌枠🦵[CLKz5TTP2rM] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h2N3zEEvW?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "3月9日",
+  "artist": "レミオロメン",
+  "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "1／2",
+  "artist": "川本真琴",
+  "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Drop Pop Candy",
+  "artist": "Giga",
+  "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "너만을 느끼며",
+  "artist": "정우,유연석,손호준",
+  "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "世界中の誰よりきっと",
+  "artist": "中山美穂＆WANDS",
+  "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Hello, Worker",
+  "artist": "KEI",
+  "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Drowing",
+  "artist": "WOODZ",
+  "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ヒロイン",
+  "artist": "back number",
+  "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Snow halation",
+  "artist": "μ's",
+  "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Pretender",
+  "artist": "Official髭男dism",
+  "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "勇侠青春謳",
+  "artist": "ALI PROJECT",
+  "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "今日から私たちは",
+  "artist": "GFRIEND",
+  "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "聖少女領域",
+  "artist": "ALI PROJECT",
+  "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ノーザンクロス",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Anemone heart",
+  "artist": "南ことり(内田彩), 園田海未(三森すずこ)",
+  "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=16",
+  "source": "naraetan.js"
+},
+    {
+  "title": "プラリネ",
+  "artist": "ジュリア(愛美)",
+  "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=17",
   "source": "naraetan.js"
 }
 );
