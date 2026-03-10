@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr
-// 生成时间: 3/10/2026, 3:52:57 PM
+// 生成时间: 3/10/2026, 4:47:09 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5699,6 +5699,94 @@ window.SONG_DATA.push(
   "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=17",
+  "source": "naraetan.js"
+},
+    {
+  "title": "鬼ノ宴",
+  "artist": "友成空",
+  "collection": "【なれたん歌切】[2026-03-10]刚刚睡醒的歌枠🥺[yaEpe_J0gDM] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m7cRzpEXb?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "I beg you",
+  "artist": "Aimer",
+  "collection": "【なれたん歌切】[2026-03-10]刚刚睡醒的歌枠🥺[yaEpe_J0gDM] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m7cRzpEXb?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "愛のかたまり",
+  "artist": "DOMOTO",
+  "collection": "【なれたん歌切】[2026-03-10]刚刚睡醒的歌枠🥺[yaEpe_J0gDM] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m7cRzpEXb?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "君という名の翼",
+  "artist": "コブクロ",
+  "collection": "【なれたん歌切】[2026-03-10]刚刚睡醒的歌枠🥺[yaEpe_J0gDM] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m7cRzpEXb?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "光の破片",
+  "artist": "高橋優",
+  "collection": "【なれたん歌切】[2026-03-10]刚刚睡醒的歌枠🥺[yaEpe_J0gDM] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m7cRzpEXb?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "新宝島",
+  "artist": "サカナクション",
+  "collection": "【なれたん歌切】[2026-03-10]刚刚睡醒的歌枠🥺[yaEpe_J0gDM] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m7cRzpEXb?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ",
+  "collection": "【なれたん歌切】[2026-03-10]刚刚睡醒的歌枠🥺[yaEpe_J0gDM] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m7cRzpEXb?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ユニバース",
+  "artist": "夏代孝明 feat. GUMI",
+  "collection": "【なれたん歌切】[2026-03-10]刚刚睡醒的歌枠🥺[yaEpe_J0gDM] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m7cRzpEXb?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "桜キッス",
+  "artist": "河辺千恵子",
+  "collection": "【なれたん歌切】[2026-03-10]刚刚睡醒的歌枠🥺[yaEpe_J0gDM] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m7cRzpEXb?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "シマウマノヨル",
+  "artist": "越智千恵子",
+  "collection": "【なれたん歌切】[2026-03-10]刚刚睡醒的歌枠🥺[yaEpe_J0gDM] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m7cRzpEXb?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Beyond the BLADE",
+  "artist": "水樹奈々",
+  "collection": "【なれたん歌切】[2026-03-10]刚刚睡醒的歌枠🥺[yaEpe_J0gDM] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m7cRzpEXb?p=11",
   "source": "naraetan.js"
 }
 );

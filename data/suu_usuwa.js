@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 3/10/2026, 3:54:18 PM
+// 生成时间: 3/10/2026, 4:48:20 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -19859,6 +19859,150 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】#135[2026-03-04]初见和常连都跳起来～！初見さんも常連さんも踊れ～！[M7IptBgWxro]稀羽すう",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DKPqzmEAJ?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "MOON NIGHTのせいにして",
+  "artist": "DRAMATIC STARS",
+  "collection": "【🦢歌切】[2026-03-10]好心情音乐♪ [O4pWm1_fR5Q] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C4cRzjEse?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Starry night",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】[2026-03-10]好心情音乐♪ [O4pWm1_fR5Q] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C4cRzjEse?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "異端なスター",
+  "artist": "Official髭男dism",
+  "collection": "【🦢歌切】[2026-03-10]好心情音乐♪ [O4pWm1_fR5Q] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C4cRzjEse?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "NIGHTDANCER",
+  "artist": "imase",
+  "collection": "【🦢歌切】[2026-03-10]好心情音乐♪ [O4pWm1_fR5Q] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C4cRzjEse?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "DRESSING ROOM",
+  "artist": "なとり",
+  "collection": "【🦢歌切】[2026-03-10]好心情音乐♪ [O4pWm1_fR5Q] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C4cRzjEse?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "愛を伝えたいだとか",
+  "artist": "あいみょん",
+  "collection": "【🦢歌切】[2026-03-10]好心情音乐♪ [O4pWm1_fR5Q] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C4cRzjEse?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ダンスホール",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🦢歌切】[2026-03-10]好心情音乐♪ [O4pWm1_fR5Q] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C4cRzjEse?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Plazma",
+  "artist": "米津玄師",
+  "collection": "【🦢歌切】[2026-03-10]好心情音乐♪ [O4pWm1_fR5Q] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C4cRzjEse?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】[2026-03-10]好心情音乐♪ [O4pWm1_fR5Q] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C4cRzjEse?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ラブレター",
+  "artist": "YOASOBI",
+  "collection": "【🦢歌切】[2026-03-10]好心情音乐♪ [O4pWm1_fR5Q] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C4cRzjEse?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "SAKURA",
+  "artist": "いきものがかり",
+  "collection": "【🦢歌切】[2026-03-10]好心情音乐♪ [O4pWm1_fR5Q] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C4cRzjEse?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "花は桜 君は美し",
+  "artist": "いきものがかり",
+  "collection": "【🦢歌切】[2026-03-10]好心情音乐♪ [O4pWm1_fR5Q] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C4cRzjEse?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "春擬き",
+  "artist": "やなぎなぎ",
+  "collection": "【🦢歌切】[2026-03-10]好心情音乐♪ [O4pWm1_fR5Q] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C4cRzjEse?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "テトラゴン",
+  "artist": "やなぎなぎ",
+  "collection": "【🦢歌切】[2026-03-10]好心情音乐♪ [O4pWm1_fR5Q] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C4cRzjEse?p=14",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "フリージア",
+  "artist": "Uru",
+  "collection": "【🦢歌切】[2026-03-10]好心情音乐♪ [O4pWm1_fR5Q] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C4cRzjEse?p=15",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ベテルギウス",
+  "artist": "優里",
+  "collection": "【🦢歌切】[2026-03-10]好心情音乐♪ [O4pWm1_fR5Q] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C4cRzjEse?p=16",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】[2026-03-10]好心情音乐♪ [O4pWm1_fR5Q] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C4cRzjEse?p=17",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "again",
+  "artist": "YUI",
+  "collection": "【🦢歌切】[2026-03-10]好心情音乐♪ [O4pWm1_fR5Q] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C4cRzjEse?p=18",
   "source": "suu_usuwa.js"
 }
 );
