@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1eTkKYDENL
-// 生成时间: 3/10/2026, 2:47:05 PM
+// 生成时间: 3/10/2026, 3:58:07 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -835,6 +835,70 @@ window.SONG_DATA.push(
   "collection": "🦢🕊联动 稀羽すう🦢  ✖️ 神凪アンナ🕊 2026-03-09",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV152PXziEaB?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "联动歌切 涼海ネモ × Figaro [2026-03-10]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ojcQz4Eno?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "联动歌切 涼海ネモ × Figaro [2026-03-10]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ojcQz4Eno?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "联动歌切 涼海ネモ × Figaro [2026-03-10]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ojcQz4Eno?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "联动歌切 涼海ネモ × Figaro [2026-03-10]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ojcQz4Eno?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "感電",
+  "artist": "米津玄師",
+  "collection": "联动歌切 涼海ネモ × Figaro [2026-03-10]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ojcQz4Eno?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "联动歌切 涼海ネモ × Figaro [2026-03-10]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ojcQz4Eno?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "联动歌切 涼海ネモ × Figaro [2026-03-10]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ojcQz4Eno?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "夏の半券",
+  "artist": "みきとP",
+  "collection": "联动歌切 涼海ネモ × Figaro [2026-03-10]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ojcQz4Eno?p=8",
   "source": "friends.js"
 }
 );
