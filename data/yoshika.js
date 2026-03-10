@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 3/10/2026, 5:41:50 PM
+// 生成时间: 3/10/2026, 6:38:21 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -27163,6 +27163,174 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-03-08]初見さん大募集！[Tz8jXrEBDqI] YOSHIKA よしか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14dN3zGE23?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春『モーニング娘。』",
+  "collection": "【🍠🦍歌切】初见大募集 YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcRzYE5Q?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "【🍠🦍歌切】初见大募集 YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcRzYE5Q?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アローラ!!",
+  "artist": "松本梨香",
+  "collection": "【🍠🦍歌切】初见大募集 YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcRzYE5Q?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "TOMORROW",
+  "artist": "岡本真夜",
+  "collection": "【🍠🦍歌切】初见大募集 YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcRzYE5Q?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【🍠🦍歌切】初见大募集 YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcRzYE5Q?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "とくべチュ、して",
+  "artist": "＝LOVE『イコールラブ』",
+  "collection": "【🍠🦍歌切】初见大募集 YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcRzYE5Q?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "未来のミュージアム",
+  "artist": "Perfume",
+  "collection": "【🍠🦍歌切】初见大募集 YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcRzYE5Q?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "恋愛サーキュレーション",
+  "artist": "千石撫子『花澤香菜』",
+  "collection": "【🍠🦍歌切】初见大募集 YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcRzYE5Q?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Northern Lights",
+  "artist": "林原めぐみ",
+  "collection": "【🍠🦍歌切】初见大募集 YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcRzYE5Q?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "スイートマジック",
+  "artist": "Junky／鏡音リン",
+  "collection": "【🍠🦍歌切】初见大募集 YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcRzYE5Q?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "sweets parade",
+  "artist": "髏々宮カルタ『花澤香菜』",
+  "collection": "【🍠🦍歌切】初见大募集 YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcRzYE5Q?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【🍠🦍歌切】初见大募集 YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcRzYE5Q?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "海の声",
+  "artist": "浦島太郎『桐谷健太』",
+  "collection": "【🍠🦍歌切】初见大募集 YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcRzYE5Q?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "涙そうそう",
+  "artist": "夏川りみ",
+  "collection": "【🍠🦍歌切】初见大募集 YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcRzYE5Q?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "世界に一つだけの花",
+  "artist": "SMAP",
+  "collection": "【🍠🦍歌切】初见大募集 YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcRzYE5Q?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "緋色の空",
+  "artist": "川田まみ",
+  "collection": "【🍠🦍歌切】初见大募集 YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcRzYE5Q?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "噓",
+  "artist": "SID ＆ 西平彰",
+  "collection": "【🍠🦍歌切】初见大募集 YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcRzYE5Q?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "異邦人",
+  "artist": "久保田早紀",
+  "collection": "【🍠🦍歌切】初见大募集 YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcRzYE5Q?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "私がオバさんになっても",
+  "artist": "森高千里",
+  "collection": "【🍠🦍歌切】初见大募集 YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcRzYE5Q?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Amazing Grace",
+  "artist": "IL DIVO",
+  "collection": "【🍠🦍歌切】初见大募集 YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcRzYE5Q?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "O mio babbino caro",
+  "artist": "Giacomo Puccini",
+  "collection": "【🍠🦍歌切】初见大募集 YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcRzYE5Q?p=21",
   "source": "yoshika.js"
 }
 );
