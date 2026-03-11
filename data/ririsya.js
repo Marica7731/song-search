@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 3/11/2026, 6:42:47 PM
+// 生成时间: 3/11/2026, 7:37:43 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -13747,6 +13747,110 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-03-03]还不让你睡的歌枠 ✧まだ寝かせない歌枠 ✧ Night Singing[Kbg7iRSjZzc]凛々咲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FxPczFEpo?p=14",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "n-buna",
+  "collection": "【🐍歌切】[2026-03-11] 钢琴伴奏的睡眠导入歌回 [XdFoXShxKHY] 凛々咲 Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x7wwziE4X?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-03-11] 钢琴伴奏的睡眠导入歌回 [XdFoXShxKHY] 凛々咲 Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x7wwziE4X?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-03-11] 钢琴伴奏的睡眠导入歌回 [XdFoXShxKHY] 凛々咲 Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x7wwziE4X?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "明日への手紙",
+  "artist": "手嶌葵",
+  "collection": "【🐍歌切】[2026-03-11] 钢琴伴奏的睡眠导入歌回 [XdFoXShxKHY] 凛々咲 Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x7wwziE4X?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "瑠璃色の地球",
+  "artist": "松田聖子",
+  "collection": "【🐍歌切】[2026-03-11] 钢琴伴奏的睡眠导入歌回 [XdFoXShxKHY] 凛々咲 Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x7wwziE4X?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "私とワルツを",
+  "artist": "鬼束ちひろ",
+  "collection": "【🐍歌切】[2026-03-11] 钢琴伴奏的睡眠导入歌回 [XdFoXShxKHY] 凛々咲 Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x7wwziE4X?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "流星群",
+  "artist": "鬼束ちひろ",
+  "collection": "【🐍歌切】[2026-03-11] 钢琴伴奏的睡眠导入歌回 [XdFoXShxKHY] 凛々咲 Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x7wwziE4X?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "YELL",
+  "artist": "いきものがかり",
+  "collection": "【🐍歌切】[2026-03-11] 钢琴伴奏的睡眠导入歌回 [XdFoXShxKHY] 凛々咲 Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x7wwziE4X?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "3月9日",
+  "artist": "レミオロメン",
+  "collection": "【🐍歌切】[2026-03-11] 钢琴伴奏的睡眠导入歌回 [XdFoXShxKHY] 凛々咲 Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x7wwziE4X?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "小さな恋のうた",
+  "artist": "MONGOL800",
+  "collection": "【🐍歌切】[2026-03-11] 钢琴伴奏的睡眠导入歌回 [XdFoXShxKHY] 凛々咲 Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x7wwziE4X?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【🐍歌切】[2026-03-11] 钢琴伴奏的睡眠导入歌回 [XdFoXShxKHY] 凛々咲 Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x7wwziE4X?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "天ノ弱",
+  "artist": "164",
+  "collection": "【🐍歌切】[2026-03-11] 钢琴伴奏的睡眠导入歌回 [XdFoXShxKHY] 凛々咲 Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x7wwziE4X?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "裸の心",
+  "artist": "あいみょん",
+  "collection": "【🐍歌切】[2026-03-11] 钢琴伴奏的睡眠导入歌回 [XdFoXShxKHY] 凛々咲 Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x7wwziE4X?p=13",
   "source": "ririsya.js"
 }
 );
