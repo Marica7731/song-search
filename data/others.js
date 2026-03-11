@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1owcoz3Ekw
-// 生成时间: 3/11/2026, 6:46:44 AM
+// 生成时间: 3/11/2026, 7:37:20 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8627,6 +8627,278 @@ window.SONG_DATA.push(
   "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=63",
+  "source": "others.js"
+},
+    {
+  "title": "星丘公園",
+  "artist": "Hump Back",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "FAST PASS",
+  "artist": "アンジュルム",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "1／2",
+  "artist": "川本真琴",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "ツキアカリのミチシルベ",
+  "artist": "ステレオポニー",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "春の歌",
+  "artist": "スピッツ",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "涙のふるさと",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "君をのせて",
+  "artist": "井上あずみ",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "ジョバイロ",
+  "artist": "ポルノグラフィティ",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "おどるポンポコリン",
+  "artist": "B.B.クィーンズ",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "サウダージ",
+  "artist": "ポルノグラフィティ",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "しおり",
+  "artist": "Aqua Timez",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "さよならメモリーズ",
+  "artist": "supercell",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "LIFE",
+  "artist": "YUI",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "ルル",
+  "artist": "やくしまるえつこ",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "Os-宇宙人",
+  "artist": "エリオをかまってちゃん",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "HELLO ～Paradise Kiss～",
+  "artist": "YUI",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "ケルベロス",
+  "artist": "相対性理論",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "約束をしよう",
+  "artist": "supercell",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "ラブソングに襲われる",
+  "artist": "＝LOVE",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "愛のうた",
+  "artist": "ストロベリー・フラワー",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "sweets parade",
+  "artist": "花澤香菜",
+  "collection": "花野彩晴 2026-03-10 YrDWIDpEmnI 歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xucZzxEkZ?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "スーパースターになったら",
+  "artist": "back number",
+  "collection": "花野彩晴 2026-03-10 YrDWIDpEmnI 歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xucZzxEkZ?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "25 Hours a Day",
+  "artist": "花澤香菜",
+  "collection": "花野彩晴 2026-03-10 YrDWIDpEmnI 歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xucZzxEkZ?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "風の強い日",
+  "artist": "back number",
+  "collection": "花野彩晴 2026-03-10 YrDWIDpEmnI 歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xucZzxEkZ?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "マラソン",
+  "artist": "花澤香菜",
+  "collection": "花野彩晴 2026-03-10 YrDWIDpEmnI 歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xucZzxEkZ?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "君の恋人になったら",
+  "artist": "back number",
+  "collection": "花野彩晴 2026-03-10 YrDWIDpEmnI 歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xucZzxEkZ?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "こきゅうとす",
+  "artist": "花澤香菜",
+  "collection": "花野彩晴 2026-03-10 YrDWIDpEmnI 歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xucZzxEkZ?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "003",
+  "artist": "back number",
+  "collection": "花野彩晴 2026-03-10 YrDWIDpEmnI 歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xucZzxEkZ?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "雲に歌えば",
+  "artist": "花澤香菜",
+  "collection": "花野彩晴 2026-03-10 YrDWIDpEmnI 歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xucZzxEkZ?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "思い出せなくなるその日まで",
+  "artist": "back number",
+  "collection": "花野彩晴 2026-03-10 YrDWIDpEmnI 歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xucZzxEkZ?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "ドラマチックじゃなくても",
+  "artist": "花澤香菜",
+  "collection": "花野彩晴 2026-03-10 YrDWIDpEmnI 歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xucZzxEkZ?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "手紙",
+  "artist": "back number",
+  "collection": "花野彩晴 2026-03-10 YrDWIDpEmnI 歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xucZzxEkZ?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "moonlight magic",
+  "artist": "花澤香菜",
+  "collection": "花野彩晴 2026-03-10 YrDWIDpEmnI 歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xucZzxEkZ?p=13",
   "source": "others.js"
 }
 );
