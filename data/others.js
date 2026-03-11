@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
-// 来源: BV11GZtBcEsp
-// 生成时间: 3/11/2026, 5:47:28 AM
+// 来源: BV11GZtBcEsp, BV1owcoz3Ekw
+// 生成时间: 3/11/2026, 6:46:44 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8123,6 +8123,510 @@ window.SONG_DATA.push(
   "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=200",
+  "source": "others.js"
+},
+    {
+  "title": "3月9日",
+  "artist": "レミオロメン",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "奏",
+  "artist": "スキマスイッチ",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "ETERNAL WIND～ほほえみは光る風の中～",
+  "artist": "森口博子",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "トライアングラー",
+  "artist": "坂本真綾",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "オベリスク",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ETERNAL BLAZE",
+  "artist": "水樹奈々",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "サインはB -New Arrange Ver.-",
+  "artist": "B小町 『ルビー、有馬かな、MEMちょ』",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさP",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "みくみくにしてあげる【してやんよ】",
+  "artist": "ika『feat. 初音ミク』",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "エルフ",
+  "artist": "Ado",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "革命道中 On The Way",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "瞬き",
+  "artist": "back number",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "ホシキラ",
+  "artist": "ランカ・リー＝中島愛",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "いけないボーダーライン",
+  "artist": "ワルキューレ",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "一度だけの恋なら",
+  "artist": "ワルキューレ",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "そうだよ。",
+  "artist": "ランカ・リー(中島愛)",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "promise",
+  "artist": "広瀬香美",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "まもりたい ～White Wishes～",
+  "artist": "Boa",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "メフィスト",
+  "artist": "女王蜂",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "檄！帝国華撃団",
+  "artist": "横山智佐(真宮寺さくら) & 帝国歌劇団",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "御旗のもとに",
+  "artist": "巴里華撃団",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "Stellar Stellar",
+  "artist": "ホロライブ／星街すいせい",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "ソワレ",
+  "artist": "星街すいせい",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=27",
+  "source": "others.js"
+},
+    {
+  "title": "灼熱にて純情",
+  "artist": "ホロライブ／星街すいせい",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=28",
+  "source": "others.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=29",
+  "source": "others.js"
+},
+    {
+  "title": "初音ミクの消失",
+  "artist": "cosMo@暴走P feat. 初音ミク",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=30",
+  "source": "others.js"
+},
+    {
+  "title": "ローリンガール",
+  "artist": "wowaka",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=31",
+  "source": "others.js"
+},
+    {
+  "title": "六兆年と一夜物語",
+  "artist": "kemu",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=32",
+  "source": "others.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=33",
+  "source": "others.js"
+},
+    {
+  "title": "愛言葉Ⅲ",
+  "artist": "DECO27",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=34",
+  "source": "others.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo(supercell)",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=35",
+  "source": "others.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師,宇多田ヒカル",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=36",
+  "source": "others.js"
+},
+    {
+  "title": "U",
+  "artist": "millennium parade x Belle",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=37",
+  "source": "others.js"
+},
+    {
+  "title": "Sincerely",
+  "artist": "TRUE 『ヴァイオレット・エヴァーガーデン』OP",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=38",
+  "source": "others.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=39",
+  "source": "others.js"
+},
+    {
+  "title": "CALC.",
+  "artist": "ジミーサムP",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=40",
+  "source": "others.js"
+},
+    {
+  "title": "天城越え",
+  "artist": "石川さゆり",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=41",
+  "source": "others.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=42",
+  "source": "others.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=43",
+  "source": "others.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団 feat. 安次嶺希和子",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=44",
+  "source": "others.js"
+},
+    {
+  "title": "貴方の恋人になりたい",
+  "artist": "チョーキューメイ",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=45",
+  "source": "others.js"
+},
+    {
+  "title": "ベリーメロン～私の心をつかんだ良いメロン～",
+  "artist": "ビクトリーム 『若本規夫』",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=46",
+  "source": "others.js"
+},
+    {
+  "title": "満ちてゆく",
+  "artist": "藤井風",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=47",
+  "source": "others.js"
+},
+    {
+  "title": "a.m.3：21",
+  "artist": "yama",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=48",
+  "source": "others.js"
+},
+    {
+  "title": "そこに空があるから",
+  "artist": "江崎稔子",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=49",
+  "source": "others.js"
+},
+    {
+  "title": "空の欠片",
+  "artist": "池田綾子",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=50",
+  "source": "others.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=51",
+  "source": "others.js"
+},
+    {
+  "title": "今はいいんだよ。",
+  "artist": "MIMI",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=52",
+  "source": "others.js"
+},
+    {
+  "title": "キミソラキセキ",
+  "artist": "EGOIST",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=53",
+  "source": "others.js"
+},
+    {
+  "title": "さくら『独唱』",
+  "artist": "森山直太朗",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=54",
+  "source": "others.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団 feat. 安次嶺希和子",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=55",
+  "source": "others.js"
+},
+    {
+  "title": "深海のリトルクライ",
+  "artist": "sasakure .UK",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=56",
+  "source": "others.js"
+},
+    {
+  "title": "だから僕は音楽辞めた",
+  "artist": "ヨルシカ",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=57",
+  "source": "others.js"
+},
+    {
+  "title": "Ghost of a smile",
+  "artist": "EGOIST 『ハーモニー』主題歌",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=58",
+  "source": "others.js"
+},
+    {
+  "title": "愛が灯る",
+  "artist": "ロクデナシ",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=59",
+  "source": "others.js"
+},
+    {
+  "title": "セツナトリップ",
+  "artist": "Last Note.GUMI",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=60",
+  "source": "others.js"
+},
+    {
+  "title": "sakura",
+  "artist": "NIRGILIS",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=61",
+  "source": "others.js"
+},
+    {
+  "title": "IN MY DREAM",
+  "artist": "真行寺恵理",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=62",
+  "source": "others.js"
+},
+    {
+  "title": "丸の内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=63",
   "source": "others.js"
 }
 );

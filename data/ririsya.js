@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 3/11/2026, 5:43:11 AM
+// 生成时间: 3/11/2026, 6:42:14 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4815,7 +4815,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君の知らない物語",
-  "artist": "supercell feat. やなぎなぎ",
+  "artist": "supercell",
   "collection": "2025年5月13日 凛々咲 竖屏歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MkJNzZEKc?p=10",
@@ -6631,7 +6631,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "うたかた花火",
-  "artist": "supercell feat. やなぎなぎ",
+  "artist": "supercell",
   "collection": "【 Karaoke / 歌枠 】Piano Arrange Karaoke 🎹 ピアノ伴奏歌枠 【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV146KrzZEAm?p=14",
@@ -8407,7 +8407,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君の知らない物語",
-  "artist": "supercell feat. やなぎなぎ",
+  "artist": "supercell",
   "collection": "【 Karaoke / #歌枠 】SUMMER SINGING 🏖️ 夏の歌枠【 VTuber / #凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hYb7zREE5?p=8",
@@ -8935,7 +8935,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君の知らない物語",
-  "artist": "supercell feat. やなぎなぎ",
+  "artist": "supercell",
   "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=9",
@@ -8967,7 +8967,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "うたかた花火",
-  "artist": "supercell feat. やなぎなぎ",
+  "artist": "supercell",
   "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=13",
@@ -10423,7 +10423,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "My song",
-  "artist": "やなぎなぎ",
+  "artist": "Girls Dead Monster",
   "collection": "【凛々咲】久违的歌枠 ✧ Singing Stream After a Long Time ✧ 久しぶりの歌枠",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LVWZzAEfE?p=16",
