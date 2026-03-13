@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 3/13/2026, 1:13:46 AM
+// 生成时间: 3/13/2026, 4:05:57 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -27331,6 +27331,166 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】初见大募集 YOSHIKA よしか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owcRzYE5Q?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "恋は渾沌の隷也",
+  "artist": "後ろから這いより隊G",
+  "collection": "【🍠🦍歌切】[2026-03-12]初見大募集[600_mj5uI00] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gHcmzqE15?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさＰ feat 初音ミク",
+  "collection": "【🍠🦍歌切】[2026-03-12]初見大募集[600_mj5uI00] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gHcmzqE15?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "mona",
+  "collection": "【🍠🦍歌切】[2026-03-12]初見大募集[600_mj5uI00] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gHcmzqE15?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ココロのちず",
+  "artist": "BOYSTYLE",
+  "collection": "【🍠🦍歌切】[2026-03-12]初見大募集[600_mj5uI00] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gHcmzqE15?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "メリッサ",
+  "artist": "Porno Graffitti",
+  "collection": "【🍠🦍歌切】[2026-03-12]初見大募集[600_mj5uI00] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gHcmzqE15?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【🍠🦍歌切】[2026-03-12]初見大募集[600_mj5uI00] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gHcmzqE15?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Over Soul",
+  "artist": "林原めぐみ",
+  "collection": "【🍠🦍歌切】[2026-03-12]初見大募集[600_mj5uI00] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gHcmzqE15?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "さくらんぼ",
+  "artist": "大塚愛",
+  "collection": "【🍠🦍歌切】[2026-03-12]初見大募集[600_mj5uI00] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gHcmzqE15?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "空も飛べるはず",
+  "artist": "スピッツ",
+  "collection": "【🍠🦍歌切】[2026-03-12]初見大募集[600_mj5uI00] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gHcmzqE15?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Queens Bluff",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-03-12]初見大募集[600_mj5uI00] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gHcmzqE15?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "マツケンサンバⅡ",
+  "artist": "松平健",
+  "collection": "【🍠🦍歌切】[2026-03-12]初見大募集[600_mj5uI00] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gHcmzqE15?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おどるポンポコリン",
+  "artist": "さくらももこ",
+  "collection": "【🍠🦍歌切】[2026-03-12]初見大募集[600_mj5uI00] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gHcmzqE15?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【🍠🦍歌切】[2026-03-12]初見大募集[600_mj5uI00] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gHcmzqE15?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "未来のミュージアム",
+  "artist": "Perfume",
+  "collection": "【🍠🦍歌切】[2026-03-12]初見大募集[600_mj5uI00] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gHcmzqE15?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ロマンスの神様",
+  "artist": "広瀬香美",
+  "collection": "【🍠🦍歌切】[2026-03-12]初見大募集[600_mj5uI00] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gHcmzqE15?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "PARADOX",
+  "artist": "雨宮天",
+  "collection": "【🍠🦍歌切】[2026-03-12]初見大募集[600_mj5uI00] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gHcmzqE15?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ヒトリゴト",
+  "artist": "ClariS",
+  "collection": "【🍠🦍歌切】[2026-03-12]初見大募集[600_mj5uI00] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gHcmzqE15?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "光るなら",
+  "artist": "Goose house",
+  "collection": "【🍠🦍歌切】[2026-03-12]初見大募集[600_mj5uI00] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gHcmzqE15?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "花は咲く",
+  "artist": "花は咲くプロジェクト",
+  "collection": "【🍠🦍歌切】[2026-03-12]初見大募集[600_mj5uI00] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gHcmzqE15?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "エンジョイ",
+  "artist": "Mey-chan",
+  "collection": "【🍠🦍歌切】[2026-03-12]初見大募集[600_mj5uI00] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gHcmzqE15?p=20",
   "source": "yoshika.js"
 }
 );
