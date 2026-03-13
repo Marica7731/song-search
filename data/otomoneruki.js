@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据 (多合集汇总)
 // 来源: BV1zzZPBsEum
-// 生成时间: 3/13/2026, 4:06:47 AM
+// 生成时间: 3/13/2026, 5:44:57 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3931,6 +3931,134 @@ window.SONG_DATA.push(
   "collection": "【👿歌切】[2026-03-07]ラジオ代わりの夜歌枠📻🎶とりあえず一曲聞いてって～😈✨[raUb6SWkOKw]音門るき",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jNNPzPEnu?p=14",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "メランコリーキッチン",
+  "artist": "米津玄師",
+  "collection": "【👿歌切】[2026-03-13]代替电台的早歌时段📻🎶请听一首哦😈✨[jVy9ltTcTAk] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtcSz3EG8?p=1",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【👿歌切】[2026-03-13]代替电台的早歌时段📻🎶请听一首哦😈✨[jVy9ltTcTAk] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtcSz3EG8?p=2",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "アナタノオト",
+  "artist": "ランカ・リー",
+  "collection": "【👿歌切】[2026-03-13]代替电台的早歌时段📻🎶请听一首哦😈✨[jVy9ltTcTAk] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtcSz3EG8?p=3",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "心拍数# 0822",
+  "artist": "蝶々P feat. 初音ミク",
+  "collection": "【👿歌切】[2026-03-13]代替电台的早歌时段📻🎶请听一首哦😈✨[jVy9ltTcTAk] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtcSz3EG8?p=4",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "金曜日のおはよう",
+  "artist": "HoneyWorks",
+  "collection": "【👿歌切】[2026-03-13]代替电台的早歌时段📻🎶请听一首哦😈✨[jVy9ltTcTAk] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtcSz3EG8?p=5",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "breakfast",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【👿歌切】[2026-03-13]代替电台的早歌时段📻🎶请听一首哦😈✨[jVy9ltTcTAk] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtcSz3EG8?p=6",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "呼吸",
+  "artist": "くじら",
+  "collection": "【👿歌切】[2026-03-13]代替电台的早歌时段📻🎶请听一首哦😈✨[jVy9ltTcTAk] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtcSz3EG8?p=7",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "雫",
+  "artist": "スキマスイッチ",
+  "collection": "【👿歌切】[2026-03-13]代替电台的早歌时段📻🎶请听一首哦😈✨[jVy9ltTcTAk] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtcSz3EG8?p=8",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【👿歌切】[2026-03-13]代替电台的早歌时段📻🎶请听一首哦😈✨[jVy9ltTcTAk] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtcSz3EG8?p=9",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "Tokimeki",
+  "artist": "Vaundy",
+  "collection": "【👿歌切】[2026-03-13]代替电台的早歌时段📻🎶请听一首哦😈✨[jVy9ltTcTAk] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtcSz3EG8?p=10",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "weeeek",
+  "artist": "NewS",
+  "collection": "【👿歌切】[2026-03-13]代替电台的早歌时段📻🎶请听一首哦😈✨[jVy9ltTcTAk] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtcSz3EG8?p=11",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【👿歌切】[2026-03-13]代替电台的早歌时段📻🎶请听一首哦😈✨[jVy9ltTcTAk] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtcSz3EG8?p=12",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【👿歌切】[2026-03-13]代替电台的早歌时段📻🎶请听一首哦😈✨[jVy9ltTcTAk] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtcSz3EG8?p=13",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ケセラセラ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【👿歌切】[2026-03-13]代替电台的早歌时段📻🎶请听一首哦😈✨[jVy9ltTcTAk] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtcSz3EG8?p=14",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "Love So Sweet",
+  "artist": "嵐",
+  "collection": "【👿歌切】[2026-03-13]代替电台的早歌时段📻🎶请听一首哦😈✨[jVy9ltTcTAk] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtcSz3EG8?p=15",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "できっこないをやらなくちゃ",
+  "artist": "サンボマスター",
+  "collection": "【👿歌切】[2026-03-13]代替电台的早歌时段📻🎶请听一首哦😈✨[jVy9ltTcTAk] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtcSz3EG8?p=16",
   "source": "otomoneruki.js"
 }
 );
