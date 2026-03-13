@@ -1,6 +1,6 @@
 // 朱名 - 歌单数据 (多合集汇总)
 // 来源: BV167c2znErj
-// 生成时间: 3/13/2026, 7:32:46 PM
+// 生成时间: 3/13/2026, 8:32:08 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2259,6 +2259,222 @@ window.SONG_DATA.push(
   "collection": "3月的SHUNA（2）",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=82",
+  "source": "shuna.js"
+},
+    {
+  "title": "ピースサイン",
+  "artist": "米津玄師",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=83",
+  "source": "shuna.js"
+},
+    {
+  "title": "KICK BACK",
+  "artist": "米津玄師",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=84",
+  "source": "shuna.js"
+},
+    {
+  "title": "Cry Baby",
+  "artist": "Official髭男dism",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=85",
+  "source": "shuna.js"
+},
+    {
+  "title": "怪物",
+  "artist": "YOASOBI",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=86",
+  "source": "shuna.js"
+},
+    {
+  "title": "うっせぇわ",
+  "artist": "Ado",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=87",
+  "source": "shuna.js"
+},
+    {
+  "title": "神っぽいな",
+  "artist": "ピノキオピー",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=88",
+  "source": "shuna.js"
+},
+    {
+  "title": "ギラギラ",
+  "artist": "Ado",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=89",
+  "source": "shuna.js"
+},
+    {
+  "title": "人魚",
+  "artist": "ポルカドットスティングレイ",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=90",
+  "source": "shuna.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=91",
+  "source": "shuna.js"
+},
+    {
+  "title": "本能",
+  "artist": "椎名林檎",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=92",
+  "source": "shuna.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=93",
+  "source": "shuna.js"
+},
+    {
+  "title": "さよならエレジー",
+  "artist": "菅田将暉",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=94",
+  "source": "shuna.js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=95",
+  "source": "shuna.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=96",
+  "source": "shuna.js"
+},
+    {
+  "title": "インフィニティ",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=97",
+  "source": "shuna.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=98",
+  "source": "shuna.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=99",
+  "source": "shuna.js"
+},
+    {
+  "title": "阿修羅ちゃん",
+  "artist": "Ado",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=100",
+  "source": "shuna.js"
+},
+    {
+  "title": "踊",
+  "artist": "Ado",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=101",
+  "source": "shuna.js"
+},
+    {
+  "title": "唱",
+  "artist": "Ado",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=102",
+  "source": "shuna.js"
+},
+    {
+  "title": "新時代",
+  "artist": "Ado",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=103",
+  "source": "shuna.js"
+},
+    {
+  "title": "逆光",
+  "artist": "Ado",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=104",
+  "source": "shuna.js"
+},
+    {
+  "title": "ルル",
+  "artist": "Ado",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=105",
+  "source": "shuna.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=106",
+  "source": "shuna.js"
+},
+    {
+  "title": "ウタカタララバイ",
+  "artist": "Ado",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=107",
+  "source": "shuna.js"
+},
+    {
+  "title": "Tot Musica",
+  "artist": "Ado",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=108",
+  "source": "shuna.js"
+},
+    {
+  "title": "unravel",
+  "artist": "TK from 凛として時雨",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=109",
   "source": "shuna.js"
 }
 );

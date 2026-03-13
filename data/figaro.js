@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 3/13/2026, 7:26:23 PM
+// 生成时间: 3/13/2026, 8:24:39 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -27683,6 +27683,118 @@ window.SONG_DATA.push(
   "collection": "2026-03-08会限 粉丝向 弹语",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV117N3zMEiw?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "SAKURA",
+  "artist": "いきものがかり",
+  "collection": "【💐歌切】[2026-03-13]春や卒業の歌にしますか！[OHLwe_7fnWY] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kwnzwED8?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "さくら",
+  "artist": "森山直太朗",
+  "collection": "【💐歌切】[2026-03-13]春や卒業の歌にしますか！[OHLwe_7fnWY] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kwnzwED8?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "さよならメモリーズ",
+  "artist": "supercell",
+  "collection": "【💐歌切】[2026-03-13]春や卒業の歌にしますか！[OHLwe_7fnWY] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kwnzwED8?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "桜",
+  "artist": "コブクロ",
+  "collection": "【💐歌切】[2026-03-13]春や卒業の歌にしますか！[OHLwe_7fnWY] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kwnzwED8?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "蕾",
+  "artist": "コブクロ",
+  "collection": "【💐歌切】[2026-03-13]春や卒業の歌にしますか！[OHLwe_7fnWY] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kwnzwED8?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "オレンジ",
+  "artist": "SPYAIR",
+  "collection": "【💐歌切】[2026-03-13]春や卒業の歌にしますか！[OHLwe_7fnWY] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kwnzwED8?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-03-13]春や卒業の歌にしますか！[OHLwe_7fnWY] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kwnzwED8?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-03-13]春や卒業の歌にしますか！[OHLwe_7fnWY] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kwnzwED8?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "3月9日",
+  "artist": "レミオロメン",
+  "collection": "【💐歌切】[2026-03-13]春や卒業の歌にしますか！[OHLwe_7fnWY] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kwnzwED8?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "YELL",
+  "artist": "いきものがかり",
+  "collection": "【💐歌切】[2026-03-13]春や卒業の歌にしますか！[OHLwe_7fnWY] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kwnzwED8?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "勿忘",
+  "artist": "Awesome City Club",
+  "collection": "【💐歌切】[2026-03-13]春や卒業の歌にしますか！[OHLwe_7fnWY] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kwnzwED8?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "花は桜 君は美し",
+  "artist": "いきものがかり",
+  "collection": "【💐歌切】[2026-03-13]春や卒業の歌にしますか！[OHLwe_7fnWY] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kwnzwED8?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "修羅",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-03-13]春や卒業の歌にしますか！[OHLwe_7fnWY] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kwnzwED8?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "春の歌",
+  "artist": "スピッツ",
+  "collection": "【💐歌切】[2026-03-13]春や卒業の歌にしますか！[OHLwe_7fnWY] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kwnzwED8?p=14",
   "source": "figaro.js"
 }
 );
