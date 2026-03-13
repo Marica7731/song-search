@@ -144,12 +144,26 @@ async function processSinger(config) {
 
     for (const bvid of bvids) {
         console.log(`  🔍 正在解析 BV: ${bvid}...`);
-        const rawData = await loadVideoPageWithBrowser(bvid);
-        if (!rawData || rawData.length === 0) {
-            console.warn(`  ⚠️  BV:${bvid} 未解析到数据，跳过`);
+        
+        let rawData = null;
+        try {
+            // 🔧 修复点：将重试逻辑应用在单个BV号上
+            rawData = await withRetry(async () => {
+                const data = await loadVideoPageWithBrowser(bvid);
+                // 如果返回为空，手动抛出错误以触发重试
+                if (!data || data.length === 0) {
+                    throw new Error(`未解析到有效列表数据`);
+                }
+                return data;
+            }, 3, 5000); // 这里的 3 和 5000 可以根据需要调整
+
+        } catch (err) {
+            // 如果单个BV重试多次后依然失败，记录日志并跳过该BV，继续下一个
+            console.warn(`  ⚠️  BV:${bvid} 经过多次重试后依然失败，跳过。错误：${err.message}`);
             continue;
         }
 
+        // 只有成功获取到 rawData 才会执行到这里
         rawData.forEach(col => {
             col.parts.forEach((p, i) => {
                 let cleanTitle = p;
@@ -204,7 +218,8 @@ async function processSinger(config) {
         }
     }
 
-    if (allSongs.length === 0) throw new Error(`未解析到任何有效歌曲数据`);
+    // 🔧 修复点：只有当所有BV都处理完且一首歌都没抓到时，才认为整个任务失败
+    if (allSongs.length === 0) throw new Error(`未解析到任何有效歌曲数据（所有BV均失败或无数据）`);
 
     const outputPath = path.join(DATA_DIR, `${file}.js`);
     let outputContent = `// ${alias} - 歌单数据 (多合集汇总)\n`;
@@ -242,7 +257,9 @@ async function main() {
     let successCount = 0;
     for (const config of SINGER_CONFIGS) {
         try {
-            await withRetry(() => processSinger(config), 3, 5000);
+            // 外层依然保留整体重试（作为兜底，防止例如文件写入失败等非BV解析错误）
+            // 但主要的BV级重试已经在 processSinger 内部完成
+            await withRetry(() => processSinger(config), 1, 5000); 
             successCount++;
         } catch (err) { console.error(`  ❌ 最终失败: ${config.alias}`, err.message); }
         await new Promise(resolve => setTimeout(resolve, 2000));
