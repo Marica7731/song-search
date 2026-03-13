@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr
-// 生成时间: 3/13/2026, 8:24:11 PM
+// 生成时间: 3/13/2026, 9:24:52 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5787,6 +5787,142 @@ window.SONG_DATA.push(
   "collection": "【なれたん歌切】[2026-03-10]刚刚睡醒的歌枠🥺[yaEpe_J0gDM] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m7cRzpEXb?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ちゅ、多様性。",
+  "artist": "ano",
+  "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "勇者",
+  "artist": "YOASOBI",
+  "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "신호등",
+  "artist": "李茂珍",
+  "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ギターと孤独と蒼い惑星",
+  "artist": "結束バンド",
+  "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "光るなら",
+  "artist": "Goose house",
+  "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "白い雪のプリンセスは",
+  "artist": "のぼる↑",
+  "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Make Me Wonder",
+  "artist": "Official髭男dism",
+  "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Rubia",
+  "artist": "周深",
+  "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Little Wing",
+  "artist": "Jimi Hendrix",
+  "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "百花",
+  "artist": "Mirror,Mirror",
+  "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "希望峰",
+  "artist": "Strawberry JAM",
+  "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "TOMORROW",
+  "artist": "岡本真夜",
+  "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "なのです☆",
+  "artist": "堀江由衣",
+  "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Baby Sweet Berry Love",
+  "artist": "小倉唯",
+  "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "호랑풍류가",
+  "artist": "나래",
+  "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=16",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Super Driver",
+  "artist": "涼宮ハルヒ『涼宮ハルヒの憂鬱』OP",
+  "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=17",
   "source": "naraetan.js"
 }
 );
