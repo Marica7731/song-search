@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1owcoz3Ekw
-// 生成时间: 3/13/2026, 6:46:28 AM
+// 生成时间: 3/13/2026, 7:46:32 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9323,22 +9323,6 @@ window.SONG_DATA.push(
   "collection": "歌势推荐：緋那ちび 2026-03-11 s-5vTe6E-0M",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b3wwz6EVy?p=11",
-  "source": "others.js"
-},
-    {
-  "title": "楔 －くさび－",
-  "artist": "奥 華子[K_zaaEE2Jag]_V1-0001",
-  "collection": "百百波美 2026-03-05 K_zaaEE2Jag",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV153cmz5EBJ?p=1",
-  "source": "others.js"
-},
-    {
-  "title": "Avid",
-  "artist": "SawanoHiroyuki『nZk』：mizuki[K_zaaEE2Jag]_V1-0002",
-  "collection": "百百波美 2026-03-05 K_zaaEE2Jag",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV153cmz5EBJ?p=2",
   "source": "others.js"
 },
     {
