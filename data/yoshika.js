@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 3/14/2026, 10:19:50 PM
+// 生成时间: 3/14/2026, 11:21:33 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -27491,6 +27491,206 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-03-12]初見大募集[600_mj5uI00] YOSHIKA よしか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gHcmzqE15?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アローラ！！",
+  "artist": "松本梨香",
+  "collection": "【🍠🦍歌切】[2026-03-14]重大告知、新衣装歌回[taZBm9eV-uU] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SpwhzREPk?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【🍠🦍歌切】[2026-03-14]重大告知、新衣装歌回[taZBm9eV-uU] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SpwhzREPk?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "TOMORROW",
+  "artist": "岡本真夜",
+  "collection": "【🍠🦍歌切】[2026-03-14]重大告知、新衣装歌回[taZBm9eV-uU] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SpwhzREPk?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "めざせポケモンマスター",
+  "artist": "松本梨香",
+  "collection": "【🍠🦍歌切】[2026-03-14]重大告知、新衣装歌回[taZBm9eV-uU] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SpwhzREPk?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ショコラに夢中",
+  "artist": "安野モヨコ",
+  "collection": "【🍠🦍歌切】[2026-03-14]重大告知、新衣装歌回[taZBm9eV-uU] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SpwhzREPk?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "未来のミュージアム",
+  "artist": "Perfume",
+  "collection": "【🍠🦍歌切】[2026-03-14]重大告知、新衣装歌回[taZBm9eV-uU] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SpwhzREPk?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おジャ魔女カーニバル！！",
+  "artist": "MAHO堂",
+  "collection": "【🍠🦍歌切】[2026-03-14]重大告知、新衣装歌回[taZBm9eV-uU] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SpwhzREPk?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【🍠🦍歌切】[2026-03-14]重大告知、新衣装歌回[taZBm9eV-uU] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SpwhzREPk?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Spending",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-03-14]重大告知、新衣装歌回[taZBm9eV-uU] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SpwhzREPk?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ガーネット",
+  "artist": "奥華子",
+  "collection": "【🍠🦍歌切】[2026-03-14]重大告知、新衣装歌回[taZBm9eV-uU] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SpwhzREPk?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【🍠🦍歌切】[2026-03-14]重大告知、新衣装歌回[taZBm9eV-uU] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SpwhzREPk?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "【🍠🦍歌切】[2026-03-14]重大告知、新衣装歌回[taZBm9eV-uU] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SpwhzREPk?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "【🍠🦍歌切】[2026-03-14]重大告知、新衣装歌回[taZBm9eV-uU] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SpwhzREPk?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハートビート急上昇",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-03-14]重大告知、新衣装歌回[taZBm9eV-uU] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SpwhzREPk?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【🍠🦍歌切】[2026-03-14]重大告知、新衣装歌回[taZBm9eV-uU] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SpwhzREPk?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "恋",
+  "artist": "星野源",
+  "collection": "【🍠🦍歌切】[2026-03-14]重大告知、新衣装歌回[taZBm9eV-uU] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SpwhzREPk?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "【🍠🦍歌切】[2026-03-14]重大告知、新衣装歌回[taZBm9eV-uU] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SpwhzREPk?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【🍠🦍歌切】[2026-03-14]重大告知、新衣装歌回[taZBm9eV-uU] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SpwhzREPk?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "みちしるべ",
+  "artist": "茅原實里",
+  "collection": "【🍠🦍歌切】[2026-03-14]重大告知、新衣装歌回[taZBm9eV-uU] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SpwhzREPk?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "フリージア",
+  "artist": "Uru",
+  "collection": "【🍠🦍歌切】[2026-03-14]重大告知、新衣装歌回[taZBm9eV-uU] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SpwhzREPk?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "愛してる",
+  "artist": "高鈴",
+  "collection": "【🍠🦍歌切】[2026-03-14]重大告知、新衣装歌回[taZBm9eV-uU] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SpwhzREPk?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "あなたがいることで",
+  "artist": "Uru",
+  "collection": "【🍠🦍歌切】[2026-03-14]重大告知、新衣装歌回[taZBm9eV-uU] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SpwhzREPk?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シング・サイン・シンフォニー",
+  "artist": "よしか⁂",
+  "collection": "【🍠🦍歌切】[2026-03-14]重大告知、新衣装歌回[taZBm9eV-uU] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SpwhzREPk?p=23",
+  "source": "yoshika.js"
+},
+    {
+  "title": "星の伝言",
+  "artist": "東山奈央",
+  "collection": "【🍠🦍歌切】[2026-03-14]重大告知、新衣装歌回[taZBm9eV-uU] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SpwhzREPk?p=24",
+  "source": "yoshika.js"
+},
+    {
+  "title": "カモミールに踊って",
+  "artist": "よしか⁂",
+  "collection": "【🍠🦍歌切】[2026-03-14]重大告知、新衣装歌回[taZBm9eV-uU] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SpwhzREPk?p=25",
   "source": "yoshika.js"
 }
 );
