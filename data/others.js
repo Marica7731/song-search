@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1owcoz3Ekw
-// 生成时间: 3/14/2026, 8:22:52 PM
+// 生成时间: 3/14/2026, 9:24:19 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10379,6 +10379,230 @@ window.SONG_DATA.push(
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=62",
+  "source": "others.js"
+},
+    {
+  "title": "どこまでも～How Far I'll Go",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "がびのお部屋 2026-03-04 8fP3sK_OgpE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtwtzREbp?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団 feat. 安次嶺希和子",
+  "collection": "がびのお部屋 2026-03-04 8fP3sK_OgpE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtwtzREbp?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "フクロウ~フクロウが知らせる客が来たと~",
+  "artist": "KOKIA",
+  "collection": "がびのお部屋 2026-03-04 8fP3sK_OgpE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtwtzREbp?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "がびのお部屋 2026-03-04 8fP3sK_OgpE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtwtzREbp?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "天使にふれたよ！",
+  "artist": "放課後ティータイム",
+  "collection": "がびのお部屋 2026-03-04 8fP3sK_OgpE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtwtzREbp?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "プライド革命",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "がびのお部屋 2026-03-04 8fP3sK_OgpE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtwtzREbp?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "HoneyWorks feat. mona",
+  "collection": "がびのお部屋 2026-03-04 8fP3sK_OgpE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtwtzREbp?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "イントゥ・ジ・アンノウン～心のままに",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "がびのお部屋 2026-03-04 8fP3sK_OgpE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtwtzREbp?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "すずめ feat.十明",
+  "artist": "RADWIMPS",
+  "collection": "がびのお部屋 2026-03-04 8fP3sK_OgpE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtwtzREbp?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono!",
+  "collection": "がびのお部屋 2026-03-04 8fP3sK_OgpE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtwtzREbp?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "路地裏ユニバース",
+  "artist": "一之瀬ユウ feat. MAYU",
+  "collection": "がびのお部屋 2026-03-04 8fP3sK_OgpE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtwtzREbp?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "あなたを忘れない",
+  "artist": "劇団四季",
+  "collection": "がびのお部屋 2026-03-04 8fP3sK_OgpE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtwtzREbp?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "ゲームはまだやめられない",
+  "artist": "INGふれんず",
+  "collection": "がびのお部屋 2026-03-04 8fP3sK_OgpE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtwtzREbp?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "がびのお部屋 2026-03-04 8fP3sK_OgpE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtwtzREbp?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "you",
+  "artist": "癒月",
+  "collection": "がびのお部屋 2026-03-04 8fP3sK_OgpE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtwtzREbp?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "輝く未来",
+  "artist": "手嶌葵",
+  "collection": "がびのお部屋 2026-03-04 8fP3sK_OgpE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtwtzREbp?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "CLEAR",
+  "artist": "坂本真綾",
+  "collection": "がびのお部屋 2026-03-04 8fP3sK_OgpE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtwtzREbp?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "オン・マイ・オウン",
+  "artist": "上白石萌音",
+  "collection": "がびのお部屋 2026-03-04 8fP3sK_OgpE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtwtzREbp?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "蜜月アン・ドゥ・トロワ",
+  "artist": "DATEKEN",
+  "collection": "がびのお部屋 2026-03-04 8fP3sK_OgpE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtwtzREbp?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "がびのお部屋 2026-03-04 8fP3sK_OgpE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtwtzREbp?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "Rose",
+  "artist": "Kaco",
+  "collection": "がびのお部屋 2026-03-04 8fP3sK_OgpE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtwtzREbp?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "For フルーツバスケット",
+  "artist": "岡崎律子",
+  "collection": "がびのお部屋 2026-03-04 8fP3sK_OgpE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtwtzREbp?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "プロローグ",
+  "artist": "Uru",
+  "collection": "がびのお部屋 2026-03-04 8fP3sK_OgpE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtwtzREbp?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "奇跡の海TV动画",
+  "artist": "坂本真綾",
+  "collection": "がびのお部屋 2026-03-04 8fP3sK_OgpE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtwtzREbp?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
+  "collection": "がびのお部屋 2026-03-04 8fP3sK_OgpE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtwtzREbp?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "Everything",
+  "artist": "MISIA",
+  "collection": "がびのお部屋 2026-03-04 8fP3sK_OgpE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtwtzREbp?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "やさしさに包まれたなら",
+  "artist": "荒井由実",
+  "collection": "がびのお部屋 2026-03-04 8fP3sK_OgpE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtwtzREbp?p=27",
+  "source": "others.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "がびのお部屋 2026-03-04 8fP3sK_OgpE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtwtzREbp?p=28",
   "source": "others.js"
 },
     {
