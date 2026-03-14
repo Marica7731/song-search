@@ -1,6 +1,6 @@
 // 朱名 - 歌单数据 (多合集汇总)
 // 来源: BV167c2znErj
-// 生成时间: 3/14/2026, 5:27:52 PM
+// 生成时间: 3/14/2026, 6:32:16 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2475,6 +2475,230 @@ window.SONG_DATA.push(
   "collection": "3月的SHUNA（2）",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=109",
+  "source": "shuna.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=110",
+  "source": "shuna.js"
+},
+    {
+  "title": "Subtitle",
+  "artist": "Official髭男dism",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=111",
+  "source": "shuna.js"
+},
+    {
+  "title": "宿命",
+  "artist": "Official髭男dism",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=112",
+  "source": "shuna.js"
+},
+    {
+  "title": "明日も",
+  "artist": "大原櫻子",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=113",
+  "source": "shuna.js"
+},
+    {
+  "title": "どんなときも。",
+  "artist": "槇原敬之",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=114",
+  "source": "shuna.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=115",
+  "source": "shuna.js"
+},
+    {
+  "title": "ミックスナッツ",
+  "artist": "Official髭男dism",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=116",
+  "source": "shuna.js"
+},
+    {
+  "title": "Catch the Moment",
+  "artist": "LiSA",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=117",
+  "source": "shuna.js"
+},
+    {
+  "title": "oath sign",
+  "artist": "LiSA",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=118",
+  "source": "shuna.js"
+},
+    {
+  "title": "Pretender",
+  "artist": "Official髭男dism",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=119",
+  "source": "shuna.js"
+},
+    {
+  "title": "シルシ",
+  "artist": "LiSA",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=120",
+  "source": "shuna.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=121",
+  "source": "shuna.js"
+},
+    {
+  "title": "ヒーロー",
+  "artist": "supercell",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=122",
+  "source": "shuna.js"
+},
+    {
+  "title": "ハッピーエンド",
+  "artist": "back number",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=123",
+  "source": "shuna.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=124",
+  "source": "shuna.js"
+},
+    {
+  "title": "ガーネット",
+  "artist": "奥華子",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=125",
+  "source": "shuna.js"
+},
+    {
+  "title": "サンキュー。",
+  "artist": "大原櫻子",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=126",
+  "source": "shuna.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=127",
+  "source": "shuna.js"
+},
+    {
+  "title": "初恋",
+  "artist": "奥華子",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=128",
+  "source": "shuna.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=129",
+  "source": "shuna.js"
+},
+    {
+  "title": "スターラブレイション",
+  "artist": "ケラケラ",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=130",
+  "source": "shuna.js"
+},
+    {
+  "title": "Good-bye days",
+  "artist": "YUI for 雨音薫",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=131",
+  "source": "shuna.js"
+},
+    {
+  "title": "M",
+  "artist": "PRINCESS PRINCESS",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=132",
+  "source": "shuna.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=133",
+  "source": "shuna.js"
+},
+    {
+  "title": "心に穴が空いた",
+  "artist": "ヨルシカ",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=134",
+  "source": "shuna.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=135",
+  "source": "shuna.js"
+},
+    {
+  "title": "なくもんか",
+  "artist": "いきものがかり",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=136",
+  "source": "shuna.js"
+},
+    {
+  "title": "瞳",
+  "artist": "大原櫻子",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=137",
   "source": "shuna.js"
 }
 );
