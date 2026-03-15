@@ -1,6 +1,6 @@
 // 朱名 - 歌单数据 (多合集汇总)
 // 来源: BV167c2znErj
-// 生成时间: 3/15/2026, 12:38:51 PM
+// 生成时间: 3/15/2026, 1:47:48 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2699,6 +2699,102 @@ window.SONG_DATA.push(
   "collection": "3月的SHUNA（2）",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=137",
+  "source": "shuna.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=138",
+  "source": "shuna.js"
+},
+    {
+  "title": "蝶々結び",
+  "artist": "Aimer",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=139",
+  "source": "shuna.js"
+},
+    {
+  "title": "雲の向こう",
+  "artist": "いであやか",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=140",
+  "source": "shuna.js"
+},
+    {
+  "title": "エレクトリック・パブリック",
+  "artist": "ポルカドットスティングレイ",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=141",
+  "source": "shuna.js"
+},
+    {
+  "title": "The Bravery",
+  "artist": "supercell",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=142",
+  "source": "shuna.js"
+},
+    {
+  "title": "素直",
+  "artist": "槇原敬之",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=143",
+  "source": "shuna.js"
+},
+    {
+  "title": "ちこくしちゃうよ",
+  "artist": "いきものがかり",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=144",
+  "source": "shuna.js"
+},
+    {
+  "title": "メトロノーム",
+  "artist": "米津玄師",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=145",
+  "source": "shuna.js"
+},
+    {
+  "title": "もう恋なんてしない",
+  "artist": "槇原敬之",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=146",
+  "source": "shuna.js"
+},
+    {
+  "title": "ヒミツ",
+  "artist": "ポルカドットスティングレイ",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=147",
+  "source": "shuna.js"
+},
+    {
+  "title": "流星ミラクル",
+  "artist": "いきものがかり",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=148",
+  "source": "shuna.js"
+},
+    {
+  "title": "マリーゴールド",
+  "artist": "あいみょん",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=149",
   "source": "shuna.js"
 }
 );
