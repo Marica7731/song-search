@@ -1,6 +1,6 @@
 // 來-Ray- - 歌单数据 (多合集汇总)
 // 来源: BV1mJZwB8EVa
-// 生成时间: 3/15/2026, 4:23:06 PM
+// 生成时间: 3/15/2026, 5:21:43 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -399,7 +399,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "メリュー",
-  "artist": "ヨルシカ feat.初音ミク",
+  "artist": "n-buna feat.初音ミク",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mJZwB8EVa?p=50",
@@ -455,7 +455,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ARROW",
-  "artist": "トゲナシトゲアリ",
+  "artist": "niki",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mJZwB8EVa?p=57",
@@ -2803,6 +2803,214 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-03-01]流しめ歌枠1[X0gLxVt9sDg] 來-Ray-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZAP3z9EX4?p=27",
+  "source": "ray.js"
+},
+    {
+  "title": "トリノコシティ",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "【來 歌切】[2026-03-15]久违的歌枠[1YMG2SdUD6Y] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gfwgz6E27?p=1",
+  "source": "ray.js"
+},
+    {
+  "title": "ガーネットの涙",
+  "artist": "香椎モイミ_KAITO",
+  "collection": "【來 歌切】[2026-03-15]久违的歌枠[1YMG2SdUD6Y] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gfwgz6E27?p=2",
+  "source": "ray.js"
+},
+    {
+  "title": "L愛KE",
+  "artist": "梅とら feat. 初音ミク",
+  "collection": "【來 歌切】[2026-03-15]久违的歌枠[1YMG2SdUD6Y] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gfwgz6E27?p=3",
+  "source": "ray.js"
+},
+    {
+  "title": "ARROW",
+  "artist": "niki",
+  "collection": "【來 歌切】[2026-03-15]久违的歌枠[1YMG2SdUD6Y] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gfwgz6E27?p=4",
+  "source": "ray.js"
+},
+    {
+  "title": "FOCUS",
+  "artist": "KIRA feat. GUMI",
+  "collection": "【來 歌切】[2026-03-15]久违的歌枠[1YMG2SdUD6Y] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gfwgz6E27?p=5",
+  "source": "ray.js"
+},
+    {
+  "title": "水星都市計画",
+  "artist": "R Sound Design",
+  "collection": "【來 歌切】[2026-03-15]久违的歌枠[1YMG2SdUD6Y] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gfwgz6E27?p=6",
+  "source": "ray.js"
+},
+    {
+  "title": "花となれ",
+  "artist": "可不_雄之助_攻",
+  "collection": "【來 歌切】[2026-03-15]久违的歌枠[1YMG2SdUD6Y] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gfwgz6E27?p=7",
+  "source": "ray.js"
+},
+    {
+  "title": "メリュー",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【來 歌切】[2026-03-15]久违的歌枠[1YMG2SdUD6Y] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gfwgz6E27?p=8",
+  "source": "ray.js"
+},
+    {
+  "title": "ハウトゥー世界征服",
+  "artist": "Neru feat. 鏡音リン & 鏡音レン",
+  "collection": "【來 歌切】[2026-03-15]久违的歌枠[1YMG2SdUD6Y] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gfwgz6E27?p=9",
+  "source": "ray.js"
+},
+    {
+  "title": "セパレイト",
+  "artist": "ポリスピカデリー",
+  "collection": "【來 歌切】[2026-03-15]久违的歌枠[1YMG2SdUD6Y] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gfwgz6E27?p=10",
+  "source": "ray.js"
+},
+    {
+  "title": "消えてしまえたならいいのに、なんて",
+  "artist": "エキゾチックかまたに",
+  "collection": "【來 歌切】[2026-03-15]久违的歌枠[1YMG2SdUD6Y] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gfwgz6E27?p=11",
+  "source": "ray.js"
+},
+    {
+  "title": "Bye-Bye Lover",
+  "artist": "samfree",
+  "collection": "【來 歌切】[2026-03-15]久违的歌枠[1YMG2SdUD6Y] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gfwgz6E27?p=12",
+  "source": "ray.js"
+},
+    {
+  "title": "Boi",
+  "artist": "ポリスピカデリー",
+  "collection": "【來 歌切】[2026-03-15]久违的歌枠[1YMG2SdUD6Y] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gfwgz6E27?p=13",
+  "source": "ray.js"
+},
+    {
+  "title": "SPiCa",
+  "artist": "とくP／初音ミク",
+  "collection": "【來 歌切】[2026-03-15]久违的歌枠[1YMG2SdUD6Y] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gfwgz6E27?p=14",
+  "source": "ray.js"
+},
+    {
+  "title": "未来景イノセンス",
+  "artist": "koyori",
+  "collection": "【來 歌切】[2026-03-15]久违的歌枠[1YMG2SdUD6Y] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gfwgz6E27?p=15",
+  "source": "ray.js"
+},
+    {
+  "title": "シリョクケンサ",
+  "artist": "40mP feat. GUMI",
+  "collection": "【來 歌切】[2026-03-15]久违的歌枠[1YMG2SdUD6Y] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gfwgz6E27?p=16",
+  "source": "ray.js"
+},
+    {
+  "title": "花降らし",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【來 歌切】[2026-03-15]久违的歌枠[1YMG2SdUD6Y] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gfwgz6E27?p=17",
+  "source": "ray.js"
+},
+    {
+  "title": "7",
+  "artist": "梅とら feat. LOLUET",
+  "collection": "【來 歌切】[2026-03-15]久违的歌枠[1YMG2SdUD6Y] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gfwgz6E27?p=18",
+  "source": "ray.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾 『カードキャプターさくら』OP",
+  "collection": "【來 歌切】[2026-03-15]久违的歌枠[1YMG2SdUD6Y] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gfwgz6E27?p=19",
+  "source": "ray.js"
+},
+    {
+  "title": "六兆年と一夜物語",
+  "artist": "kemu",
+  "collection": "【來 歌切】[2026-03-15]久违的歌枠[1YMG2SdUD6Y] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gfwgz6E27?p=20",
+  "source": "ray.js"
+},
+    {
+  "title": "by your side",
+  "artist": "ぱなまん",
+  "collection": "【來 歌切】[2026-03-15]久违的歌枠[1YMG2SdUD6Y] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gfwgz6E27?p=21",
+  "source": "ray.js"
+},
+    {
+  "title": "ワンルーム・オール・ザット・ジャズ",
+  "artist": "DATEKEN",
+  "collection": "【來 歌切】[2026-03-15]久违的歌枠[1YMG2SdUD6Y] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gfwgz6E27?p=22",
+  "source": "ray.js"
+},
+    {
+  "title": "ハッピーシンセサイザ",
+  "artist": "EasyPop feat. 巡音ルカ",
+  "collection": "【來 歌切】[2026-03-15]久违的歌枠[1YMG2SdUD6Y] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gfwgz6E27?p=23",
+  "source": "ray.js"
+},
+    {
+  "title": "とても素敵な六月でした",
+  "artist": "Eight",
+  "collection": "【來 歌切】[2026-03-15]久违的歌枠[1YMG2SdUD6Y] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gfwgz6E27?p=24",
+  "source": "ray.js"
+},
+    {
+  "title": "my crush",
+  "artist": "香椎モイミ_初音ミク",
+  "collection": "【來 歌切】[2026-03-15]久违的歌枠[1YMG2SdUD6Y] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gfwgz6E27?p=25",
+  "source": "ray.js"
+},
+    {
+  "title": "雨音ペトリコール",
+  "artist": "くろくも",
+  "collection": "【來 歌切】[2026-03-15]久违的歌枠[1YMG2SdUD6Y] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gfwgz6E27?p=26",
   "source": "ray.js"
 }
 );
