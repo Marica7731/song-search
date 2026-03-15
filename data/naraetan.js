@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr
-// 生成时间: 3/15/2026, 5:20:04 PM
+// 生成时间: 3/15/2026, 6:25:42 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5923,6 +5923,190 @@ window.SONG_DATA.push(
   "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=17",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Rain",
+  "artist": "秦基博",
+  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Way Back Home",
+  "artist": "SHAUN",
+  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "だから僕は音楽をやめた",
+  "artist": "ヨルシカ",
+  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "星になる",
+  "artist": "Islet feat.倚水",
+  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Just Be Friends",
+  "artist": "Dixie Flatline",
+  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "たぶん",
+  "artist": "YOASOBI",
+  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "アドレナ",
+  "artist": "YOASOBI",
+  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ハナノイロ",
+  "artist": "nano.RIPE",
+  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ツキミソウ",
+  "artist": "Novelbright",
+  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "さよーならまたいつか！",
+  "artist": "米津玄師",
+  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "DUET",
+  "artist": "ZICO & 幾田りら",
+  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "幾億光年",
+  "artist": "Omoinotake",
+  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "マイ フレンド",
+  "artist": "ZARD",
+  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Happy Happy Birthday!",
+  "artist": "SePTENTRION",
+  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=16",
+  "source": "naraetan.js"
+},
+    {
+  "title": "サインはB",
+  "artist": "B小町",
+  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=17",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Give a reason",
+  "artist": "林原めぐみ",
+  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=18",
+  "source": "naraetan.js"
+},
+    {
+  "title": "花束",
+  "artist": "back number",
+  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=19",
+  "source": "naraetan.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=20",
+  "source": "naraetan.js"
+},
+    {
+  "title": "優しさの理由",
+  "artist": "ChouCho",
+  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=21",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ルンがピカッと光ったら",
+  "artist": "ワルキューレ",
+  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=22",
+  "source": "naraetan.js"
+},
+    {
+  "title": "恋文",
+  "artist": "Every Little Thing",
+  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=23",
   "source": "naraetan.js"
 }
 );
