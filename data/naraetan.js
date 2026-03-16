@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr
-// 生成时间: 3/16/2026, 6:15:27 AM
+// 生成时间: 3/16/2026, 8:02:47 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6046,19 +6046,11 @@ window.SONG_DATA.push(
   "source": "naraetan.js"
 },
     {
-  "title": "Happy Happy Birthday!",
-  "artist": "SePTENTRION",
-  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=16",
-  "source": "naraetan.js"
-},
-    {
   "title": "サインはB",
   "artist": "B小町",
   "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=17",
+  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=16",
   "source": "naraetan.js"
 },
     {
@@ -6066,7 +6058,7 @@ window.SONG_DATA.push(
   "artist": "林原めぐみ",
   "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=18",
+  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=17",
   "source": "naraetan.js"
 },
     {
@@ -6074,7 +6066,7 @@ window.SONG_DATA.push(
   "artist": "back number",
   "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=19",
+  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=18",
   "source": "naraetan.js"
 },
     {
@@ -6082,7 +6074,7 @@ window.SONG_DATA.push(
   "artist": "さユり",
   "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=20",
+  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=19",
   "source": "naraetan.js"
 },
     {
@@ -6090,7 +6082,7 @@ window.SONG_DATA.push(
   "artist": "ChouCho",
   "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=21",
+  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=20",
   "source": "naraetan.js"
 },
     {
@@ -6098,7 +6090,7 @@ window.SONG_DATA.push(
   "artist": "ワルキューレ",
   "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=22",
+  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=21",
   "source": "naraetan.js"
 },
     {
@@ -6106,7 +6098,7 @@ window.SONG_DATA.push(
   "artist": "Every Little Thing",
   "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=23",
+  "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=22",
   "source": "naraetan.js"
 }
 );
