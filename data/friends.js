@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1eTkKYDENL
-// 生成时间: 3/16/2026, 4:01:30 PM
+// 生成时间: 3/16/2026, 5:01:13 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -899,6 +899,62 @@ window.SONG_DATA.push(
   "collection": "联动歌切 涼海ネモ × Figaro [2026-03-10]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ojcQz4Eno?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "SUN",
+  "artist": "星野源",
+  "collection": "🐋🌊🦢 不知名イヲ ❌ 稀羽すう【联动歌切】 [2026-03-17][zgsbykzjzzw]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1i7w2z5EjT?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "クリームソーダとシャンデリア",
+  "artist": "Henriiとmei",
+  "collection": "🐋🌊🦢 不知名イヲ ❌ 稀羽すう【联动歌切】 [2026-03-17][zgsbykzjzzw]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1i7w2z5EjT?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "きらきら武士",
+  "artist": "レキシ",
+  "collection": "🐋🌊🦢 不知名イヲ ❌ 稀羽すう【联动歌切】 [2026-03-17][zgsbykzjzzw]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1i7w2z5EjT?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST 🦢稀羽すうSolo",
+  "collection": "🐋🌊🦢 不知名イヲ ❌ 稀羽すう【联动歌切】 [2026-03-17][zgsbykzjzzw]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1i7w2z5EjT?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生 🐋🌊不知名イヲSolo",
+  "collection": "🐋🌊🦢 不知名イヲ ❌ 稀羽すう【联动歌切】 [2026-03-17][zgsbykzjzzw]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1i7w2z5EjT?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "🐋🌊🦢 不知名イヲ ❌ 稀羽すう【联动歌切】 [2026-03-17][zgsbykzjzzw]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1i7w2z5EjT?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "🐋🌊🦢 不知名イヲ ❌ 稀羽すう【联动歌切】 [2026-03-17][zgsbykzjzzw]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1i7w2z5EjT?p=7",
   "source": "friends.js"
 }
 );
