@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 3/16/2026, 5:56:10 PM
+// 生成时间: 3/16/2026, 6:49:42 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2519,7 +2519,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "エイリアンズ",
-  "artist": "きのホ。 feat. 初音ミク",
+  "artist": "キリンジ",
   "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vH4y1J747?p=1",
@@ -2543,7 +2543,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "燈",
-  "artist": "星街すいせい",
+  "artist": "崎山蒼志",
   "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vH4y1J747?p=4",
@@ -2575,7 +2575,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "回る空うさぎ",
-  "artist": "やなぎなぎ",
+  "artist": "Orangestar",
   "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vH4y1J747?p=8",
@@ -2583,7 +2583,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "忘れじの言の葉",
-  "artist": "やなぎなぎ",
+  "artist": "未来古代楽団 feat. 安次嶺希和子",
   "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vH4y1J747?p=9",
@@ -2615,7 +2615,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "涙そうそう",
-  "artist": "BEGIN",
+  "artist": "夏川りみ",
   "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vH4y1J747?p=13",
