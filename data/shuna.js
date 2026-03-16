@@ -1,6 +1,6 @@
 // 朱名 - 歌单数据 (多合集汇总)
 // 来源: BV167c2znErj
-// 生成时间: 3/16/2026, 5:03:35 PM
+// 生成时间: 3/16/2026, 6:02:38 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2795,6 +2795,142 @@ window.SONG_DATA.push(
   "collection": "3月的SHUNA（2）",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=149",
+  "source": "shuna.js"
+},
+    {
+  "title": "ソプラノ",
+  "artist": "いきものがかり",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=150",
+  "source": "shuna.js"
+},
+    {
+  "title": "タユムコトナキナガレノナカデ",
+  "artist": "いきものがかり",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=151",
+  "source": "shuna.js"
+},
+    {
+  "title": "なくもんか",
+  "artist": "いきものがかり",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=152",
+  "source": "shuna.js"
+},
+    {
+  "title": "夏・コイ",
+  "artist": "いきものがかり",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=153",
+  "source": "shuna.js"
+},
+    {
+  "title": "Happy Smile Again",
+  "artist": "いきものがかり",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=154",
+  "source": "shuna.js"
+},
+    {
+  "title": "ノスタルジア",
+  "artist": "いきものがかり",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=155",
+  "source": "shuna.js"
+},
+    {
+  "title": "花は桜 君は美し",
+  "artist": "いきものがかり",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=156",
+  "source": "shuna.js"
+},
+    {
+  "title": "HANABI",
+  "artist": "いきものがかり",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=157",
+  "source": "shuna.js"
+},
+    {
+  "title": "ふたり",
+  "artist": "いきものがかり",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=158",
+  "source": "shuna.js"
+},
+    {
+  "title": "ホタルノヒカリ",
+  "artist": "いきものがかり",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=159",
+  "source": "shuna.js"
+},
+    {
+  "title": "ホットミルク",
+  "artist": "いきものがかり",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=160",
+  "source": "shuna.js"
+},
+    {
+  "title": "真昼の月",
+  "artist": "いきものがかり",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=161",
+  "source": "shuna.js"
+},
+    {
+  "title": "流星ミラクル",
+  "artist": "いきものがかり",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=162",
+  "source": "shuna.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=163",
+  "source": "shuna.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=164",
+  "source": "shuna.js"
+},
+    {
+  "title": "春を告げる",
+  "artist": "yama",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=165",
+  "source": "shuna.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=166",
   "source": "shuna.js"
 }
 );
