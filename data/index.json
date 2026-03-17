@@ -1,5 +1,9 @@
 {
   "files": [
+    "asuyumekanae.js",
+    "chiyutori .js",
+    "momijimaru.js",
+    "kukuri.js",
     "naraetan.js",
     "figaro.js",
     "ririsya.js",
@@ -20,6 +24,10 @@
     "shuna.js"
   ],
   "fileToAlias": {
+    "asuyumekanae": "明日夢かなえ",
+    "chiyutori ": "知悠",
+    "momijimaru": "紅葉丸",
+    "kukuri": "戸鎖くくり",
     "naraetan": "なれたん Naraetan",
     "figaro": "Figaro",
     "ririsya": "凛凛咲 ririsya",

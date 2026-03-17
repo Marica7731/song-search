@@ -1,0 +1,808 @@
+// 紅葉丸 - 歌单数据 (多合集汇总)
+// 来源: BV1R2wQzfEuY
+// 生成时间: 3/17/2026, 5:11:28 AM
+
+window.SONG_DATA = window.SONG_DATA || [];
+
+window.SONG_DATA.push(
+    {
+  "title": "シャルル",
+  "artist": "バルーン",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "閃光花",
+  "artist": "Penthouse",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "花瓶に触れた",
+  "artist": "須田景凪v flower",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "花",
+  "artist": "ORANGE RANGE",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ヒバナ",
+  "artist": "DECO27",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "花は咲く",
+  "artist": "花は咲くプロジェクト",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "マリーゴールド",
+  "artist": "あいみょん",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ひまわりの約束",
+  "artist": "秦基博",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "赤いスイートピー",
+  "artist": "松田聖子",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "flos",
+  "artist": "R Sound Design",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "金木犀",
+  "artist": "くじら",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "タッチ",
+  "artist": "岩崎良美",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=15",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=16",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=17",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=18",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "恋愛裁判",
+  "artist": "40mP",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=19",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=20",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ハッピーシンセサイザ",
+  "artist": "EasyPop",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=21",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo(supercell)",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=22",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "不可幸力",
+  "artist": "Vaund",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=23",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "I LOVE...",
+  "artist": "Official髭男dism",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=24",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "点描の唄",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=25",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=26",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=27",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "糸",
+  "artist": "中島みゆき",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=28",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "I LOVE YOU",
+  "artist": "尾崎豊",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=29",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ラブ・イズ・オーバー",
+  "artist": "欧陽菲菲",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=30",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "愛をこめて花束を",
+  "artist": "Superfly",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=31",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ぎゅっと。",
+  "artist": "もさを。",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=32",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "幾億光年",
+  "artist": "Omoinotake",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=33",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "高嶺の花子さん",
+  "artist": "back number",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=34",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "あたしが死んでも",
+  "artist": "コレサワ",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=35",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "フィナーレ。",
+  "artist": "eill",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=36",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat.GUMI",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=37",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師,宇多田ヒカル",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=38",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40mP",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=39",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=40",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=41",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=42",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=43",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=44",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師,宇多田ヒカル",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=45",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Loser",
+  "artist": "米津玄師",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=46",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "死神",
+  "artist": "米津玄師",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=47",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "がらくた",
+  "artist": "野田愛実",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=48",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "我愛你",
+  "artist": "Penthouse",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=49",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "一難",
+  "artist": "Penthouse",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=50",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ブライトサイン",
+  "artist": "Meychan",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=51",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ラプラス",
+  "artist": "Meychan",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=52",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "魔法の絨毯",
+  "artist": "川崎鷹也",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=53",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "RAIN",
+  "artist": "SEKAI NO OWARI",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=54",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "虹色の戦争",
+  "artist": "SEKAI NO OWARI",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=55",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "フィナーレ。",
+  "artist": "eill",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=56",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "朝ごはんの歌",
+  "artist": "手嶌葵",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=57",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Arrietty’s Song",
+  "artist": "Cécile Corbel",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=58",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "オー・シャンゼリゼ",
+  "artist": "奇妙礼太郎トラベルスイング楽団",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=59",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "あこがれの夏",
+  "artist": "ピエール瀧",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=60",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Defying Gravity",
+  "artist": "Cynthia ErivoAriana Grande",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=61",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=62",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ずうっといっしょ！",
+  "artist": "キタニタツヤ",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=63",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO27",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=64",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ロスタイムメモリー",
+  "artist": "じん",
+  "collection": "紅葉丸チャンネル 2~3月节选 65P",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=65",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ルーム No.4",
+  "artist": "ふぉるて",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "サイコ",
+  "artist": "超学生",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "エウレカ",
+  "artist": "柊キライ_v flower",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ボッカデラベリタ",
+  "artist": "feat. v flower",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "きょういくばんぐみのテーマ",
+  "artist": "やみのおねえさん",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "うらみのワルツ",
+  "artist": "kikuo",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "孤独毒毒",
+  "artist": "syudou_初音ミク",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "シャンティ",
+  "artist": "wotaku",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "バットオンリーユー",
+  "artist": "ryo (supercell)",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "レディメイド",
+  "artist": "Ado",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Tot Musica",
+  "artist": "Ado",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Make you hot!",
+  "artist": "あたたかくなる × FAKE TYPE.",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "廻廻奇譚",
+  "artist": "Eve",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "フィクサー",
+  "artist": "ぬゆり",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ファタール",
+  "artist": "GEMN",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=15",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ロウワー",
+  "artist": "ぬゆり",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=16",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ひゅ～どろどろ",
+  "artist": "蜂屋ななし&初音ミク&MEIKO",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=17",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "物の怪の類",
+  "artist": "めいちゃん",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=18",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=19",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "恋の魔法",
+  "artist": "菅原纱由理",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=20",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "クスシキ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=21",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=22",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "もう恋なんてしない",
+  "artist": "槇原敬之",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=23",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "シンデレラボーイ",
+  "artist": "Saucy Dog",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=24",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=25",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "小悪魔だってかまわない！",
+  "artist": "HoneyWorks feat. 初音ミク",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=26",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ロメオ",
+  "artist": "HoneyWorks&内山昂輝&島﨑信長",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=27",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Pretender",
+  "artist": "Official髭男dism",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=28",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "HAPPY BIRTHDAY",
+  "artist": "back number",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=29",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "がらくた",
+  "artist": "野田愛実",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=30",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "MONSTER",
+  "artist": "梅とら",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=31",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "小さな恋のうた",
+  "artist": "MONGOL800a",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=32",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "トドカナイカラ",
+  "artist": "平井堅",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=33",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "I LOVE YOU",
+  "artist": "尾崎豊",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=34",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "幾億光年",
+  "artist": "Omoinotake",
+  "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=35",
+  "source": "momijimaru.js"
+}
+);
