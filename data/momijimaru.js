@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 3/17/2026, 7:49:18 AM
+// 生成时间: 3/17/2026, 8:42:28 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -767,7 +767,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "MONSTER",
-  "artist": "梅とら",
+  "artist": "嵐",
   "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=31",
@@ -791,7 +791,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "I LOVE YOU",
-  "artist": "尾崎豊",
+  "artist": "Chris Hart",
   "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=34",
