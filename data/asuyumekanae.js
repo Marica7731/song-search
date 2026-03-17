@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 3/17/2026, 6:49:41 PM
+// 生成时间: 3/17/2026, 7:50:51 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -507,6 +507,198 @@ window.SONG_DATA.push(
   "collection": "【明日夢🎸歌切】[2026-03-01]有花粉过敏，请多关照[zW5b_ln0fv8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1icwSzXEYv?p=30",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "修羅",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸歌切】[2025-08-16]夜晚才刚刚开始[bR8bP6HBSc4]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RfwdzTEu2?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "さよならエレジー",
+  "artist": "菅田将晖",
+  "collection": "【明日夢🎸歌切】[2025-08-16]夜晚才刚刚开始[bR8bP6HBSc4]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RfwdzTEu2?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "貴方の恋人になりたいのです",
+  "artist": "阿部真央",
+  "collection": "【明日夢🎸歌切】[2025-08-16]夜晚才刚刚开始[bR8bP6HBSc4]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RfwdzTEu2?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ストーカーの唄～3丁目、貴方の家～",
+  "artist": "阿部真央",
+  "collection": "【明日夢🎸歌切】[2025-08-16]夜晚才刚刚开始[bR8bP6HBSc4]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RfwdzTEu2?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "貴方解剖純愛歌~死ね~",
+  "artist": "あいみょん",
+  "collection": "【明日夢🎸歌切】[2025-08-16]夜晚才刚刚开始[bR8bP6HBSc4]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RfwdzTEu2?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "君がいない夜を越えられやしない",
+  "artist": "あいみょん",
+  "collection": "【明日夢🎸歌切】[2025-08-16]夜晚才刚刚开始[bR8bP6HBSc4]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RfwdzTEu2?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "How craz",
+  "artist": "YUI",
+  "collection": "【明日夢🎸歌切】[2025-08-16]夜晚才刚刚开始[bR8bP6HBSc4]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RfwdzTEu2?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Oh JANE",
+  "artist": "片平里菜",
+  "collection": "【明日夢🎸歌切】[2025-08-16]夜晚才刚刚开始[bR8bP6HBSc4]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RfwdzTEu2?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "女の子は泣かない",
+  "artist": "片平里菜",
+  "collection": "【明日夢🎸歌切】[2025-08-16]夜晚才刚刚开始[bR8bP6HBSc4]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RfwdzTEu2?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "うたかた花火",
+  "artist": "supercell",
+  "collection": "【明日夢🎸歌切】[2025-08-16]夜晚才刚刚开始[bR8bP6HBSc4]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RfwdzTEu2?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "世界を終わらせて",
+  "artist": "ハルカミライ",
+  "collection": "【明日夢🎸歌切】[2025-08-16]夜晚才刚刚开始[bR8bP6HBSc4]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RfwdzTEu2?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "アストロビスタ",
+  "artist": "ハルカミライ",
+  "collection": "【明日夢🎸歌切】[2025-08-16]夜晚才刚刚开始[bR8bP6HBSc4]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RfwdzTEu2?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "more than words",
+  "artist": "羊文学",
+  "collection": "【明日夢🎸歌切】[2025-08-16]夜晚才刚刚开始[bR8bP6HBSc4]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RfwdzTEu2?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "世界は恋に落ちている",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【明日夢🎸歌切】[2025-08-16]夜晚才刚刚开始[bR8bP6HBSc4]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RfwdzTEu2?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "天使にふれたよ！",
+  "artist": "放課後ティータイム",
+  "collection": "【明日夢🎸歌切】[2025-08-16]夜晚才刚刚开始[bR8bP6HBSc4]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RfwdzTEu2?p=15",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸歌切】[2025-08-16]夜晚才刚刚开始[bR8bP6HBSc4]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RfwdzTEu2?p=16",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "【明日夢🎸歌切】[2025-08-16]夜晚才刚刚开始[bR8bP6HBSc4]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RfwdzTEu2?p=17",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "ナブナ feat.初音ミク",
+  "collection": "【明日夢🎸歌切】[2025-08-16]夜晚才刚刚开始[bR8bP6HBSc4]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RfwdzTEu2?p=18",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "貴方の恋人になりたい",
+  "artist": "チョーキューメイ",
+  "collection": "【明日夢🎸歌切】[2025-08-16]夜晚才刚刚开始[bR8bP6HBSc4]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RfwdzTEu2?p=19",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "すずめ",
+  "artist": "RADWIMPS feat.十明",
+  "collection": "【明日夢🎸歌切】[2025-08-16]夜晚才刚刚开始[bR8bP6HBSc4]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RfwdzTEu2?p=20",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "overdose",
+  "artist": "なとり",
+  "collection": "【明日夢🎸歌切】[2025-08-16]夜晚才刚刚开始[bR8bP6HBSc4]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RfwdzTEu2?p=21",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "風のゆくえ",
+  "artist": "Ado",
+  "collection": "【明日夢🎸歌切】[2025-08-16]夜晚才刚刚开始[bR8bP6HBSc4]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RfwdzTEu2?p=22",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P feat.GUMI",
+  "collection": "【明日夢🎸歌切】[2025-08-16]夜晚才刚刚开始[bR8bP6HBSc4]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RfwdzTEu2?p=23",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "フクロウ ～フクロウが知らせる客が来たと～",
+  "artist": "KOKIA",
+  "collection": "【明日夢🎸歌切】[2025-08-16]夜晚才刚刚开始[bR8bP6HBSc4]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RfwdzTEu2?p=24",
   "source": "asuyumekanae.js"
 }
 );

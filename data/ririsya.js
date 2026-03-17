@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 3/17/2026, 6:52:29 PM
+// 生成时间: 3/17/2026, 7:52:35 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2190,8 +2190,8 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "Overdose + help!!",
-  "artist": "串烧",
+  "title": "overdose",
+  "artist": "なとり",
   "collection": "补合集 🐍凛々咲 2024年11月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LP6VBbE7g?p=143",
