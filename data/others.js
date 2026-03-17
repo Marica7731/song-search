@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1owcoz3Ekw
-// 生成时间: 3/17/2026, 1:20:45 AM
+// 生成时间: 3/17/2026, 4:16:27 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8467,6 +8467,398 @@ window.SONG_DATA.push(
   "collection": "歌势推荐：知悠 2026-03-14 WdDhLrM0ek0",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV199whzeE6R?p=33",
+  "source": "others.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat. 可不",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "月の繭",
+  "artist": "奥井亜紀",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "抜錨",
+  "artist": "ナナホシ管弦楽団",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "レクイエム",
+  "artist": "Kanaria",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ワールドイズマイン CPK! Remix",
+  "artist": "なし",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "ココロオドル",
+  "artist": "nobodyknows+",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "イケナイ太陽",
+  "artist": "ORANGE RANGE",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "群青",
+  "artist": "YOASOBI",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "God Knows…",
+  "artist": "涼宮ハルヒ",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono!",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "-ERROR",
+  "artist": "niki feat.Lily",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "音楽のすゝめ",
+  "artist": "日食なつこ",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "ログマロープ",
+  "artist": "日食なつこ",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "ギターと孤独と蒼い惑星",
+  "artist": "結束バンド",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "天晴レ紅白歌",
+  "artist": "赫ノ白亞",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "津軽海峡・冬景色",
+  "artist": "石川さゆり",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "天城越え",
+  "artist": "石川さゆり",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "Departures",
+  "artist": "EGOIST",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "満ちてゆく",
+  "artist": "藤井風",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "Everything",
+  "artist": "MISIA",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "Jupiter",
+  "artist": "平原綾香",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=27",
+  "source": "others.js"
+},
+    {
+  "title": "Best Friend",
+  "artist": "Kiroro",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=28",
+  "source": "others.js"
+},
+    {
+  "title": "secret base～君がくれたもの～",
+  "artist": "ZONE",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=29",
+  "source": "others.js"
+},
+    {
+  "title": "you",
+  "artist": "癒月",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=30",
+  "source": "others.js"
+},
+    {
+  "title": "青空",
+  "artist": "Lia",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=31",
+  "source": "others.js"
+},
+    {
+  "title": "世界のつづき",
+  "artist": "Ado",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=32",
+  "source": "others.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=33",
+  "source": "others.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=34",
+  "source": "others.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=35",
+  "source": "others.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=36",
+  "source": "others.js"
+},
+    {
+  "title": "ベリーメロン～私の心をつかんだ良いメロン～",
+  "artist": "ビクトリーム",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=37",
+  "source": "others.js"
+},
+    {
+  "title": "蝋人形の館",
+  "artist": "聖飢魔II",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=38",
+  "source": "others.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=39",
+  "source": "others.js"
+},
+    {
+  "title": "蕾",
+  "artist": "コブクロ",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=40",
+  "source": "others.js"
+},
+    {
+  "title": "天体観測",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=41",
+  "source": "others.js"
+},
+    {
+  "title": "奏",
+  "artist": "スキマスイッチ",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=42",
+  "source": "others.js"
+},
+    {
+  "title": "ハッピーエンド",
+  "artist": "back number",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=43",
+  "source": "others.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=44",
+  "source": "others.js"
+},
+    {
+  "title": "明日への手紙",
+  "artist": "手嶌葵",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=45",
+  "source": "others.js"
+},
+    {
+  "title": "猫",
+  "artist": "DISH",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=46",
+  "source": "others.js"
+},
+    {
+  "title": "365日の紙飛行機",
+  "artist": "AKB48",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=47",
+  "source": "others.js"
+},
+    {
+  "title": "君とコーヒー",
+  "artist": "Islet",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=48",
+  "source": "others.js"
+},
+    {
+  "title": "夜の女王のアリア",
+  "artist": "Yucca",
+  "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=49",
   "source": "others.js"
 }
 );

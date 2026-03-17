@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 3/17/2026, 1:14:48 AM
+// 生成时间: 3/17/2026, 4:11:14 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7415,7 +7415,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "もう恋なんてしない",
-  "artist": "中山美穂",
+  "artist": "槇原敬之",
   "collection": "【 Karaoke / 歌枠 】ウィスパーボイスで睡眠導入💤Whispering Lullabies Singing Stream【 VTuber / 凛々咲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11Qg4zZEEz?p=7",
@@ -8575,7 +8575,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "もう恋なんてしない",
-  "artist": "中山美穂",
+  "artist": "槇原敬之",
   "collection": "【凛々咲 】8月20日睡眠導入弾き語り🌙01. この恋はスクープされない",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MaeZzjErN?p=2",
