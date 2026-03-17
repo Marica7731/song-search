@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 3/17/2026, 4:58:09 PM
+// 生成时间: 3/17/2026, 5:56:06 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -846,7 +846,7 @@ window.SONG_DATA.push(
   "source": "momijimaru.js"
 },
     {
-  "title": "PIANO#GIRL",
+  "title": "PIANO*GIRL",
   "artist": "OSTER project",
   "collection": "【紅葉丸 歌切】[2026-03-17]时尚歌曲_仅限爵士乐歌回🥂✨[T7hc7rASrfA]",
   "up": "前尘往事如昔故",

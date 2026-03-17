@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 3/17/2026, 4:59:14 PM
+// 生成时间: 3/17/2026, 5:57:32 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -27915,6 +27915,150 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】#260 [2026-03-15]睡眠导入歌枠✨安眠前的放松时间请享用🌙[jHaGTMSHkS4] Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gcw3zuEvM?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "ひとりごつ",
+  "artist": "ハチワレ",
+  "collection": "【💐歌切】[2026-03-17]吉他弹唱练习🎸[8SeA6lJNUAQ] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WFwZzxEiS?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "ありあまる富",
+  "artist": "椎名林檎",
+  "collection": "【💐歌切】[2026-03-17]吉他弹唱练习🎸[8SeA6lJNUAQ] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WFwZzxEiS?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "きみのかみ",
+  "artist": "澤田 空海理",
+  "collection": "【💐歌切】[2026-03-17]吉他弹唱练习🎸[8SeA6lJNUAQ] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WFwZzxEiS?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "高嶺の花子さん",
+  "artist": "back number",
+  "collection": "【💐歌切】[2026-03-17]吉他弹唱练习🎸[8SeA6lJNUAQ] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WFwZzxEiS?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "ふゆびより",
+  "artist": "佐々木恵梨",
+  "collection": "【💐歌切】[2026-03-17]吉他弹唱练习🎸[8SeA6lJNUAQ] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WFwZzxEiS?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "はるのとなり",
+  "artist": "佐々木恵梨",
+  "collection": "【💐歌切】[2026-03-17]吉他弹唱练习🎸[8SeA6lJNUAQ] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WFwZzxEiS?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "ひとりごつ",
+  "artist": "ハチワレ",
+  "collection": "【💐歌切】[2026-03-17]吉他弹唱练习🎸[8SeA6lJNUAQ] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WFwZzxEiS?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "ポロメリア",
+  "artist": "Cocco",
+  "collection": "【💐歌切】[2026-03-17]吉他弹唱练习🎸[8SeA6lJNUAQ] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WFwZzxEiS?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "櫂",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-03-17]吉他弹唱练习🎸[8SeA6lJNUAQ] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WFwZzxEiS?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "櫂",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-03-17]吉他弹唱练习🎸[8SeA6lJNUAQ] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WFwZzxEiS?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "櫂",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-03-17]吉他弹唱练习🎸[8SeA6lJNUAQ] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WFwZzxEiS?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-03-17]吉他弹唱练习🎸[8SeA6lJNUAQ] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WFwZzxEiS?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-03-17]吉他弹唱练习🎸[8SeA6lJNUAQ] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WFwZzxEiS?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "いさな",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-03-17]吉他弹唱练习🎸[8SeA6lJNUAQ] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WFwZzxEiS?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "憂、燦々",
+  "artist": "クリープハイプ",
+  "collection": "【💐歌切】[2026-03-17]吉他弹唱练习🎸[8SeA6lJNUAQ] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WFwZzxEiS?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "愛の花",
+  "artist": "あいみょん",
+  "collection": "【💐歌切】[2026-03-17]吉他弹唱练习🎸[8SeA6lJNUAQ] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WFwZzxEiS?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "痛いよ",
+  "artist": "清竜人",
+  "collection": "【💐歌切】[2026-03-17]吉他弹唱练习🎸[8SeA6lJNUAQ] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WFwZzxEiS?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "喜劇",
+  "artist": "星野源",
+  "collection": "【💐歌切】[2026-03-17]吉他弹唱练习🎸[8SeA6lJNUAQ] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WFwZzxEiS?p=18",
   "source": "figaro.js"
 }
 );

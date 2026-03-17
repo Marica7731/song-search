@@ -1,6 +1,6 @@
 // 朱名 - 歌单数据 (多合集汇总)
 // 来源: BV167c2znErj
-// 生成时间: 3/17/2026, 5:07:24 PM
+// 生成时间: 3/17/2026, 6:04:06 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2931,6 +2931,190 @@ window.SONG_DATA.push(
   "collection": "3月的SHUNA（2）",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=166",
+  "source": "shuna.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=167",
+  "source": "shuna.js"
+},
+    {
+  "title": "ハッピーエンド",
+  "artist": "back number",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=168",
+  "source": "shuna.js"
+},
+    {
+  "title": "幸せ",
+  "artist": "back number",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=169",
+  "source": "shuna.js"
+},
+    {
+  "title": "ヒロイン",
+  "artist": "back number",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=170",
+  "source": "shuna.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=171",
+  "source": "shuna.js"
+},
+    {
+  "title": "恋人失格",
+  "artist": "コレサワ",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=172",
+  "source": "shuna.js"
+},
+    {
+  "title": "初恋",
+  "artist": "奥華子",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=173",
+  "source": "shuna.js"
+},
+    {
+  "title": "ガーネット",
+  "artist": "奥華子",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=174",
+  "source": "shuna.js"
+},
+    {
+  "title": "シンデレラボーイ",
+  "artist": "Saucy Dog",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=175",
+  "source": "shuna.js"
+},
+    {
+  "title": "Just Be Friends",
+  "artist": "巡音ルカ(Dixie Flatline)",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=176",
+  "source": "shuna.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=177",
+  "source": "shuna.js"
+},
+    {
+  "title": "M",
+  "artist": "PRINCESS PRINCESS",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=178",
+  "source": "shuna.js"
+},
+    {
+  "title": "元気を出して",
+  "artist": "竹内まりや",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=179",
+  "source": "shuna.js"
+},
+    {
+  "title": "もう恋なんてしない",
+  "artist": "槇原敬之",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=180",
+  "source": "shuna.js"
+},
+    {
+  "title": "Umbrella",
+  "artist": "YUI",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=181",
+  "source": "shuna.js"
+},
+    {
+  "title": "初めての恋が終わる時",
+  "artist": "supercell feat. 初音ミク",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=182",
+  "source": "shuna.js"
+},
+    {
+  "title": "I LOVE YOU",
+  "artist": "クリス・ハート",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=183",
+  "source": "shuna.js"
+},
+    {
+  "title": "ソプラノ",
+  "artist": "いきものがかり",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=184",
+  "source": "shuna.js"
+},
+    {
+  "title": "ノスタルジア",
+  "artist": "いきものがかり",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=185",
+  "source": "shuna.js"
+},
+    {
+  "title": "瞳をとじて",
+  "artist": "平井堅",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=186",
+  "source": "shuna.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=187",
+  "source": "shuna.js"
+},
+    {
+  "title": "Pretender",
+  "artist": "Official髭男dism",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=188",
+  "source": "shuna.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "3月的SHUNA（2）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=189",
   "source": "shuna.js"
 }
 );
