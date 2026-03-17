@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 3/17/2026, 3:58:16 PM
+// 生成时间: 3/17/2026, 4:58:37 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -643,6 +643,142 @@ window.SONG_DATA.push(
   "collection": "【戸鎖 歌切】 [2026-03-14]休息日也还在努力的人，来这里休息下如何~？歌枠[9FKqZC4qH9A]戸鎖くくり kukuri ch *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Rrwmz2EbJ?p=19",
+  "source": "kukuri.js"
+},
+    {
+  "title": "片っぽ",
+  "artist": "eill",
+  "collection": "【戸鎖 歌切】[2026-03-17]虽然很短但要尽情歌唱的歌回 #shorts[j6cigyr8RoM] 戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UwwRz4Ef2?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【戸鎖 歌切】[2026-03-17]虽然很短但要尽情歌唱的歌回 #shorts[j6cigyr8RoM] 戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UwwRz4Ef2?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【戸鎖 歌切】[2026-03-17]虽然很短但要尽情歌唱的歌回 #shorts[j6cigyr8RoM] 戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UwwRz4Ef2?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "メリュー",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【戸鎖 歌切】[2026-03-17]虽然很短但要尽情歌唱的歌回 #shorts[j6cigyr8RoM] 戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UwwRz4Ef2?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "10月無口な君を忘れる",
+  "artist": "あたらよ",
+  "collection": "【戸鎖 歌切】[2026-03-17]虽然很短但要尽情歌唱的歌回 #shorts[j6cigyr8RoM] 戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UwwRz4Ef2?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "丸の内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【戸鎖 歌切】[2026-03-17]虽然很短但要尽情歌唱的歌回 #shorts[j6cigyr8RoM] 戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UwwRz4Ef2?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "I Love You",
+  "artist": "尾崎豊",
+  "collection": "【戸鎖 歌切】[2026-03-17]虽然很短但要尽情歌唱的歌回 #shorts[j6cigyr8RoM] 戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UwwRz4Ef2?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "OH MY LITTLE GIRL",
+  "artist": "尾崎豊",
+  "collection": "【戸鎖 歌切】[2026-03-17]虽然很短但要尽情歌唱的歌回 #shorts[j6cigyr8RoM] 戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UwwRz4Ef2?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ナラタージュ",
+  "artist": "adieu",
+  "collection": "【戸鎖 歌切】[2026-03-17]虽然很短但要尽情歌唱的歌回 #shorts[j6cigyr8RoM] 戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UwwRz4Ef2?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "よるのあと",
+  "artist": "adieu",
+  "collection": "【戸鎖 歌切】[2026-03-17]虽然很短但要尽情歌唱的歌回 #shorts[j6cigyr8RoM] 戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UwwRz4Ef2?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "NIGHT DANCER",
+  "artist": "imase",
+  "collection": "【戸鎖 歌切】[2026-03-17]虽然很短但要尽情歌唱的歌回 #shorts[j6cigyr8RoM] 戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UwwRz4Ef2?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Flamingo",
+  "artist": "米津玄師",
+  "collection": "【戸鎖 歌切】[2026-03-17]虽然很短但要尽情歌唱的歌回 #shorts[j6cigyr8RoM] 戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UwwRz4Ef2?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "死神",
+  "artist": "米津玄師",
+  "collection": "【戸鎖 歌切】[2026-03-17]虽然很短但要尽情歌唱的歌回 #shorts[j6cigyr8RoM] 戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UwwRz4Ef2?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ハレンチ",
+  "artist": "ちゃんみな",
+  "collection": "【戸鎖 歌切】[2026-03-17]虽然很短但要尽情歌唱的歌回 #shorts[j6cigyr8RoM] 戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UwwRz4Ef2?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Pop Virus",
+  "artist": "星野源",
+  "collection": "【戸鎖 歌切】[2026-03-17]虽然很短但要尽情歌唱的歌回 #shorts[j6cigyr8RoM] 戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UwwRz4Ef2?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "のうぜんかつら",
+  "artist": "安藤裕子",
+  "collection": "【戸鎖 歌切】[2026-03-17]虽然很短但要尽情歌唱的歌回 #shorts[j6cigyr8RoM] 戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UwwRz4Ef2?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "オリビアを聴きながら",
+  "artist": "杏里",
+  "collection": "【戸鎖 歌切】[2026-03-17]虽然很短但要尽情歌唱的歌回 #shorts[j6cigyr8RoM] 戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UwwRz4Ef2?p=17",
   "source": "kukuri.js"
 }
 );

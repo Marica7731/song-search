@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 3/17/2026, 3:58:04 PM
+// 生成时间: 3/17/2026, 4:58:09 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -803,6 +803,134 @@ window.SONG_DATA.push(
   "collection": "【紅葉丸 歌切】  2026-03-11 + 2026-03-13 LtSuM8PIfmc  b9c0b0lmd0o",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R2wQzfEuY?p=35",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【紅葉丸 歌切】[2026-03-17]时尚歌曲_仅限爵士乐歌回🥂✨[T7hc7rASrfA]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D2wozNEb9?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "on the rocks",
+  "artist": "MEIKOKAITOOSTER project",
+  "collection": "【紅葉丸 歌切】[2026-03-17]时尚歌曲_仅限爵士乐歌回🥂✨[T7hc7rASrfA]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D2wozNEb9?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ゴシップ",
+  "artist": "OSTER project",
+  "collection": "【紅葉丸 歌切】[2026-03-17]时尚歌曲_仅限爵士乐歌回🥂✨[T7hc7rASrfA]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D2wozNEb9?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン",
+  "collection": "【紅葉丸 歌切】[2026-03-17]时尚歌曲_仅限爵士乐歌回🥂✨[T7hc7rASrfA]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D2wozNEb9?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ミルククラウン・オン・ソーネチカ",
+  "artist": "ユジー初音ミク",
+  "collection": "【紅葉丸 歌切】[2026-03-17]时尚歌曲_仅限爵士乐歌回🥂✨[T7hc7rASrfA]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D2wozNEb9?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "PIANO#GIRL",
+  "artist": "OSTER project",
+  "collection": "【紅葉丸 歌切】[2026-03-17]时尚歌曲_仅限爵士乐歌回🥂✨[T7hc7rASrfA]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D2wozNEb9?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "蜜月アン・ドゥ・トロワ",
+  "artist": "DATEKEN",
+  "collection": "【紅葉丸 歌切】[2026-03-17]时尚歌曲_仅限爵士乐歌回🥂✨[T7hc7rASrfA]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D2wozNEb9?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "はじめてのチュウ",
+  "artist": "あんしんパパ",
+  "collection": "【紅葉丸 歌切】[2026-03-17]时尚歌曲_仅限爵士乐歌回🥂✨[T7hc7rASrfA]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D2wozNEb9?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "【紅葉丸 歌切】[2026-03-17]时尚歌曲_仅限爵士乐歌回🥂✨[T7hc7rASrfA]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D2wozNEb9?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "シザーハンズ",
+  "artist": "Nem",
+  "collection": "【紅葉丸 歌切】[2026-03-17]时尚歌曲_仅限爵士乐歌回🥂✨[T7hc7rASrfA]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D2wozNEb9?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Fly Me To The Moon",
+  "artist": "Bart HowardKaye Ballard",
+  "collection": "【紅葉丸 歌切】[2026-03-17]时尚歌曲_仅限爵士乐歌回🥂✨[T7hc7rASrfA]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D2wozNEb9?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "女の子は誰でも",
+  "artist": "東京事変",
+  "collection": "【紅葉丸 歌切】[2026-03-17]时尚歌曲_仅限爵士乐歌回🥂✨[T7hc7rASrfA]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D2wozNEb9?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ワンルームオールザットジャズ",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【紅葉丸 歌切】[2026-03-17]时尚歌曲_仅限爵士乐歌回🥂✨[T7hc7rASrfA]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D2wozNEb9?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "一難",
+  "artist": "Penthouse",
+  "collection": "【紅葉丸 歌切】[2026-03-17]时尚歌曲_仅限爵士乐歌回🥂✨[T7hc7rASrfA]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D2wozNEb9?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "閃光花",
+  "artist": "Penthouse",
+  "collection": "【紅葉丸 歌切】[2026-03-17]时尚歌曲_仅限爵士乐歌回🥂✨[T7hc7rASrfA]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D2wozNEb9?p=15",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "人生は夢だらけ",
+  "artist": "椎名林檎",
+  "collection": "【紅葉丸 歌切】[2026-03-17]时尚歌曲_仅限爵士乐歌回🥂✨[T7hc7rASrfA]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D2wozNEb9?p=16",
   "source": "momijimaru.js"
 }
 );
