@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 3/17/2026, 5:57:55 PM
+// 生成时间: 3/17/2026, 6:52:29 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3622,8 +3622,8 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "天使にふれたよ!",
-  "artist": "ふわふわ",
+  "title": "天使にふれたよ！",
+  "artist": "放課後ティータイム",
   "collection": "【VTuber/凛々咲 Ririsya】卒業ソング歌うよ～🌸Sing the graduation song【Karaoke/歌枠】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ziZWYUEAT?p=6",
@@ -6055,7 +6055,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "さよならエレジー",
-  "artist": "優里",
+  "artist": "菅田将暉",
   "collection": "【凛々咲】リクエストで歌う弾き語り💜#歌枠 #VTuber #shorts",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D1MDzAEg7?p=11",
@@ -8598,8 +8598,8 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "天使にふれたよ!",
-  "artist": "ふわふわ",
+  "title": "天使にふれたよ！",
+  "artist": "放課後ティータイム",
   "collection": "【凛々咲 】8月20日睡眠導入弾き語り🌙01. この恋はスクープされない",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MaeZzjErN?p=5",
@@ -8927,7 +8927,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "貴方の恋人になりたいのです",
-  "artist": "かいりきベア feat. 初音ミク",
+  "artist": "阿部真央",
   "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=8",
@@ -9807,7 +9807,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "さよならエレジー",
-  "artist": "優里",
+  "artist": "菅田将晖",
   "collection": "【#凛々咲  歌切】 低音で歌ってみる歌枠 ✧ Deep Voice Singing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dbnszwEyh?p=12",
@@ -10054,8 +10054,8 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "貴方解剖純愛歌～死ね～",
-  "artist": "うみろ feat. 初音ミク",
+  "title": "貴方解剖純愛歌~死ね~",
+  "artist": "あいみょん",
   "collection": "【 弾き語り / 凛々咲】リクエストで弾き語り💜Sing with a guitar requested songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yNHKzfE3f?p=21",

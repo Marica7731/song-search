@@ -1,6 +1,6 @@
 // 朱名 - 歌单数据 (多合集汇总)
 // 来源: BV167c2znErj
-// 生成时间: 3/17/2026, 6:04:06 PM
+// 生成时间: 3/17/2026, 6:59:32 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1958,7 +1958,7 @@ window.SONG_DATA.push(
   "source": "shuna.js"
 },
     {
-  "title": "貴方解剖純愛歌",
+  "title": "貴方解剖純愛歌~死ね~",
   "artist": "あいみょん",
   "collection": "3月的SHUNA（2）",
   "up": "前尘往事如昔故",
