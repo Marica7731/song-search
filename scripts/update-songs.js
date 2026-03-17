@@ -49,6 +49,10 @@ const COLLECTION_TITLE_SELECTORS = [
 // 🔧 配置区
 // ==========================================
 const SINGER_CONFIGS = [
+    { bvids: ["BV1JRwUzoEpM","BV1icwSzXEYv"], file: "asuyumekanae", alias: "明日夢かなえ" },
+    { bvids: ["BV1owcoz3Ekw"], file: "chiyutori ", alias: "知悠" },
+    { bvids: ["BV1R2wQzfEuY"], file: "momijimaru", alias: "紅葉丸" },
+    { bvids: ["BV1G4wxzmEV5"], file: "kukuri", alias: "戸鎖くくり" },
     { bvids: ["BV1G6fLB7Efr"], file: "naraetan", alias: "なれたん Naraetan" },
     { bvids: ["BV1HRfuBCEXN"], file: "figaro", alias: "Figaro" },
     { bvids: ["BV1cofuBGEkX"], file: "ririsya", alias: "凛凛咲 ririsya" },
