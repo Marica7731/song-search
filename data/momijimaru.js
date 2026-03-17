@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 3/17/2026, 6:54:48 AM
+// 生成时间: 3/17/2026, 7:49:18 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -183,7 +183,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "不可幸力",
-  "artist": "Vaund",
+  "artist": "Vaundy",
   "collection": "紅葉丸チャンネル 2~3月节选 65P",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=23",
