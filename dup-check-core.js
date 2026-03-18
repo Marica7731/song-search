@@ -1,0 +1,415 @@
+// Shared duplicate-check logic for:
+// 1) bv-dup-check.html
+// 2) title-artist-dup-check.html
+
+let allSongs = [];
+let fileList = [];
+let fileAlias = {};
+let currentTab = 'all';
+let analysisResult = [];
+let showOnlyUnique = false;
+let currentMode = 'bv';
+let bvInputItems = [];
+let titleArtistInputItems = [];
+
+function extractBV(str) {
+  if (!str) return '';
+  const match = String(str).match(/BV[a-zA-Z0-9]+/);
+  return match ? match[0] : '';
+}
+
+function normalizeText(value) {
+  return (value || '').toLowerCase().trim();
+}
+
+function getSourceAlias(source) {
+  if (!source) return '未知来源';
+  const key = source.replace('.js', '');
+  return fileAlias[key] || source;
+}
+
+function showCopyToast() {
+  const toast = document.getElementById('copyToast');
+  if (!toast) return;
+  toast.classList.add('show');
+  setTimeout(() => toast.classList.remove('show'), 1800);
+}
+
+function parseTitleArtistInput(input) {
+  if (!input.trim()) return [];
+  const lines = input.split('\n').map(line => line.trim()).filter(Boolean);
+  const fullFormatRegex = /^(\d+)\.\s*(.+?)\s+-\s+(.+)$/;
+  const normalRegex = /^(.+?)\s+-\s+(.+)$/;
+  const result = [];
+
+  lines.forEach(line => {
+    const full = line.match(fullFormatRegex);
+    if (full) {
+      result.push({
+        title: full[2].trim(),
+        artist: full[3].trim(),
+        originalLine: line
+      });
+      return;
+    }
+    const normal = line.match(normalRegex);
+    if (normal) {
+      result.push({
+        title: normal[1].trim(),
+        artist: normal[2].trim(),
+        originalLine: line
+      });
+      return;
+    }
+    result.push({
+      title: line.trim(),
+      artist: '',
+      originalLine: line
+    });
+  });
+
+  return result;
+}
+
+async function loadAllData() {
+  try {
+    const indexRes = await fetch('data/index.json');
+    const indexData = await indexRes.json();
+    fileList = indexData.files || [];
+    fileAlias = indexData.fileToAlias || {};
+
+    renderSourceTabs();
+
+    const loadTasks = fileList.map(fileName =>
+      fetch(`data/${fileName}`)
+        .then(res => res.text())
+        .then(jsContent => {
+          const fakeWindow = { SONG_DATA: [] };
+          try {
+            const run = new Function('window', jsContent);
+            run(fakeWindow);
+          } catch (e) {
+            console.warn(`执行 ${fileName} 出错:`, e.message);
+          }
+          return fakeWindow.SONG_DATA.map(song => ({
+            ...song,
+            source: fileName
+          }));
+        })
+        .catch(() => [])
+    );
+
+    const songArrays = await Promise.all(loadTasks);
+    allSongs = songArrays.flat();
+    updateStat('数据已加载，请输入内容开始分析');
+  } catch (err) {
+    updateStat(`数据加载失败: ${err.message}`);
+  }
+}
+
+function updateStat(text) {
+  const stat = document.getElementById('statInfo');
+  if (stat) stat.textContent = text;
+}
+
+function renderSourceTabs() {
+  const container = document.getElementById('tabContainer');
+  if (!container) return;
+  container.innerHTML = '';
+
+  const allTab = document.createElement('div');
+  allTab.className = `source-tab ${currentTab === 'all' ? 'active' : ''}`;
+  allTab.textContent = '全部';
+  allTab.onclick = () => switchSourceTab('all');
+  container.appendChild(allTab);
+
+  fileList.forEach(fileName => {
+    const tab = document.createElement('div');
+    tab.className = `source-tab ${currentTab === fileName ? 'active' : ''}`;
+    tab.textContent = getSourceAlias(fileName);
+    tab.onclick = () => switchSourceTab(fileName);
+    container.appendChild(tab);
+  });
+}
+
+function switchSourceTab(tab) {
+  currentTab = tab;
+  renderSourceTabs();
+  if (analysisResult.length > 0) analyzeDuplicates();
+}
+
+function getCurrentPool() {
+  if (currentTab === 'all') return allSongs;
+  return allSongs.filter(song => song.source === currentTab);
+}
+
+function search() {
+  toggleShowMode(false);
+  analysisResult = [];
+
+  if (currentMode === 'bv') {
+    const input = (document.getElementById('bvInput')?.value || '').trim();
+    if (!input) {
+      alert('请输入 BV 号或链接');
+      return;
+    }
+    const lines = input.split('\n').map(line => line.trim()).filter(Boolean);
+    bvInputItems = lines.map(line => ({
+      raw: line,
+      bv: extractBV(line)
+    }));
+    if (!bvInputItems.some(item => item.bv)) {
+      alert('未识别到有效 BV 号');
+      return;
+    }
+    titleArtistInputItems = [];
+  } else {
+    const input = (document.getElementById('titleArtistInput')?.value || '').trim();
+    if (!input) {
+      alert('请输入 歌名 - 歌手 格式（可批量）');
+      return;
+    }
+    titleArtistInputItems = parseTitleArtistInput(input);
+    if (titleArtistInputItems.length === 0) {
+      alert('输入为空或格式无效');
+      return;
+    }
+    bvInputItems = [];
+  }
+
+  analyzeDuplicates();
+}
+
+function analyzeDuplicates() {
+  const currentPool = getCurrentPool();
+  analysisResult = [];
+
+  if (currentMode === 'bv') {
+    bvInputItems.forEach(item => {
+      if (!item.bv) {
+        analysisResult.push({
+          isNotFound: true,
+          originalInput: item.raw,
+          dupCount: 0,
+          isDup: false,
+          dupList: [],
+          song: null
+        });
+        return;
+      }
+
+      const matchedSongs = allSongs.filter(song => extractBV(song.link) === item.bv);
+      if (matchedSongs.length === 0) {
+        analysisResult.push({
+          isNotFound: true,
+          originalInput: item.raw,
+          dupCount: 0,
+          isDup: false,
+          dupList: [],
+          song: null
+        });
+        return;
+      }
+
+      matchedSongs.forEach(song => {
+        const titleKey = normalizeText(song.title);
+        const dupList = currentPool.filter(it => normalizeText(it.title) === titleKey);
+        analysisResult.push({
+          isNotFound: false,
+          originalInput: item.raw,
+          song,
+          dupList,
+          dupCount: dupList.length,
+          isDup: dupList.length > 1
+        });
+      });
+    });
+  } else {
+    titleArtistInputItems.forEach(inputItem => {
+      const titleKey = normalizeText(inputItem.title);
+      const artistKey = normalizeText(inputItem.artist);
+
+      let matchedSongs = currentPool.filter(song => normalizeText(song.title) === titleKey);
+      if (inputItem.artist) {
+        matchedSongs = matchedSongs.filter(song => normalizeText(song.artist) === artistKey);
+      }
+
+      let dupList = currentPool.filter(song => normalizeText(song.title) === titleKey);
+      if (inputItem.artist) {
+        dupList = dupList.filter(song => normalizeText(song.artist) === artistKey);
+      }
+
+      if (matchedSongs.length === 0) {
+        analysisResult.push({
+          isNotFound: true,
+          originalInput: inputItem.originalLine,
+          song: null,
+          dupList: [],
+          dupCount: 0,
+          isDup: false
+        });
+      } else {
+        analysisResult.push({
+          isNotFound: false,
+          originalInput: inputItem.originalLine,
+          song: matchedSongs[0],
+          dupList,
+          dupCount: dupList.length,
+          isDup: dupList.length > 1
+        });
+      }
+    });
+  }
+
+  const total = analysisResult.length;
+  const notFound = analysisResult.filter(i => i.isNotFound).length;
+  const found = total - notFound;
+  const dup = analysisResult.filter(i => !i.isNotFound && i.isDup).length;
+  const unique = found - dup;
+  updateStat(`总计 ${total} | 找到 ${found} | 未找到 ${notFound} | 重复 ${dup} | 非重复 ${unique} | 当前库 ${getSourceAlias(currentTab)}`);
+
+  renderSongList();
+}
+
+function toggleShowMode(onlyUnique) {
+  showOnlyUnique = onlyUnique;
+  const allBtn = document.getElementById('showAllBtn');
+  const uniqueBtn = document.getElementById('showUniqueBtn');
+  if (allBtn) allBtn.classList.toggle('active', !onlyUnique);
+  if (uniqueBtn) uniqueBtn.classList.toggle('active', onlyUnique);
+  renderSongList();
+}
+
+function renderSongList() {
+  const container = document.getElementById('resultList');
+  if (!container) return;
+  container.innerHTML = '';
+
+  let viewItems = analysisResult.slice();
+  if (showOnlyUnique) {
+    viewItems = viewItems.filter(item => !item.isNotFound && !item.isDup);
+  }
+
+  if (viewItems.length === 0) {
+    container.innerHTML = '<div style="text-align:center;padding:20px;color:#6c757d;">暂无结果</div>';
+    return;
+  }
+
+  viewItems.forEach((item, index) => {
+    const card = document.createElement('div');
+    card.className = `song-item ${item.isNotFound ? 'not-found' : (item.isDup ? 'dup' : 'unique')}`;
+
+    if (item.isNotFound) {
+      card.innerHTML = `
+        <div class="song-title">${index + 1}. ${item.originalInput || '未识别输入'} <span class="not-found-tag">未找到</span></div>
+        <div class="meta-info">请尝试切换来源或修正输入格式。</div>
+      `;
+      container.appendChild(card);
+      return;
+    }
+
+    const song = item.song;
+    const dupPreview = item.dupList
+      .slice(0, 5)
+      .map(dup => `<div class="dup-item"><span class="bv-tag">${extractBV(dup.link)}</span>${dup.title} - ${dup.artist || '未知'} | ${getSourceAlias(dup.source)}</div>`)
+      .join('');
+
+    card.innerHTML = `
+      <div class="song-title">
+        ${index + 1}. ${song.title}
+        ${item.isDup ? `<span class="dup-tag">重复 ${item.dupCount}</span>` : '<span class="unique-tag">唯一</span>'}
+      </div>
+      <div class="meta-info">
+        <div>歌手：${song.artist || '未知'}</div>
+        <div>来源：${getSourceAlias(song.source)}</div>
+        <div>链接：<a href="${song.link}" target="_blank" style="color:#00a1d6;">${song.link}</a></div>
+      </div>
+      <div class="dup-list">${dupPreview || '<div style="color:#28a745;">当前库无重复项</div>'}</div>
+    `;
+
+    container.appendChild(card);
+  });
+}
+
+function copyResults() {
+  if (analysisResult.length === 0) {
+    alert('暂无可复制结果');
+    return;
+  }
+
+  const onlyUnique = !!document.getElementById('copyOnlyUnique')?.checked;
+  const includeTitle = !!document.getElementById('copyTitle')?.checked;
+  const includeLink = !!document.getElementById('copyLink')?.checked;
+  const includeCount = !!document.getElementById('copyCount')?.checked;
+  const includeSource = !!document.getElementById('copySource')?.checked;
+  const isTextFormat = !!document.getElementById('copyText')?.checked;
+
+  let copyData = analysisResult.slice();
+  if (onlyUnique) {
+    copyData = copyData.filter(item => !item.isNotFound && !item.isDup);
+  }
+  if (copyData.length === 0) {
+    alert('筛选后无可复制项');
+    return;
+  }
+
+  let content = '';
+  if (isTextFormat) {
+    copyData.forEach(item => {
+      if (item.isNotFound) {
+        content += `[未找到] ${item.originalInput || '未知输入'}\n`;
+        return;
+      }
+      const parts = [];
+      if (includeTitle) parts.push(item.song.title || '未知歌曲');
+      if (includeSource) parts.push(`来源:${getSourceAlias(item.song.source)}`);
+      if (includeLink) parts.push(`链接:${item.song.link}`);
+      if (includeCount) parts.push(`次数:${item.dupCount}`);
+      content += parts.join(' | ') + '\n';
+    });
+  } else {
+    const headers = ['状态'];
+    if (includeTitle) headers.push('歌名');
+    if (includeSource) headers.push('来源');
+    if (includeLink) headers.push('链接');
+    if (includeCount) headers.push('出现次数');
+    content += headers.join('\t') + '\n';
+
+    copyData.forEach(item => {
+      if (item.isNotFound) {
+        content += ['未找到', item.originalInput || '未知输入', '', '', '0'].join('\t') + '\n';
+        return;
+      }
+      const row = [item.isDup ? '重复' : '唯一'];
+      if (includeTitle) row.push(item.song.title || '未知歌曲');
+      if (includeSource) row.push(getSourceAlias(item.song.source));
+      if (includeLink) row.push(item.song.link);
+      if (includeCount) row.push(String(item.dupCount));
+      content += row.join('\t') + '\n';
+    });
+  }
+
+  navigator.clipboard.writeText(content.trim())
+    .then(showCopyToast)
+    .catch(() => alert('复制失败，请手动复制'));
+}
+
+function initDupCheckPage(mode) {
+  currentMode = mode;
+  loadAllData();
+
+  document.getElementById('searchBtn')?.addEventListener('click', search);
+  document.getElementById('showAllBtn')?.addEventListener('click', () => toggleShowMode(false));
+  document.getElementById('showUniqueBtn')?.addEventListener('click', () => toggleShowMode(true));
+  document.getElementById('copyBtn')?.addEventListener('click', copyResults);
+
+  document.getElementById('bvInput')?.addEventListener('keydown', e => {
+    if (e.key === 'Enter' && currentMode === 'bv') search();
+  });
+  document.getElementById('titleArtistInput')?.addEventListener('keydown', e => {
+    if (e.key === 'Enter' && currentMode === 'titleArtist' && !e.shiftKey) {
+      e.preventDefault();
+      search();
+    }
+  });
+}

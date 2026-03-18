@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>歌名-歌手查询校验</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:#f6f7f9;padding:20px}
+.main{max-width:1100px;margin:0 auto}
+.header{text-align:center;margin-bottom:20px}
+.header h2{color:#2c3e50;margin-bottom:8px}
+.header p{color:#6c757d;font-size:14px}
+.nav{margin-bottom:18px;text-align:center}
+.nav a{color:#00a1d6;text-decoration:none}
+.nav a:hover{text-decoration:underline}
+.title-search-area{margin-bottom:24px}
+#titleInput{width:100%;min-height:140px;padding:14px 16px;border:1px solid #ddd;border-radius:8px;font-size:14px;outline:none;transition:border .2s;margin-bottom:16px;resize:vertical;font-family:inherit}
+#titleInput:focus{border-color:#00a1d6;box-shadow:0 0 0 3px rgba(0,161,214,.1)}
+.title-controls{display:flex;gap:12px;justify-content:flex-end;flex-wrap:wrap}
+button{padding:8px 24px;color:#fff;border:0;border-radius:8px;cursor:pointer;font-size:14px;font-weight:500}
+#searchTitleBtn{background:#00a1d6}
+#searchTitleBtn:hover{background:#008fb3}
+#validateBtn{background:#28a745}
+#validateBtn:hover{background:#218838}
+#copyResultBtn{background:#6f42c1}
+#copyResultBtn:hover{background:#5a32a3}
+.artist-select-area{margin:24px 0 0 0;display:none}
+.artist-select-area.active{display:block}
+.select-item{background:#fff;border-radius:8px;padding:16px;margin-bottom:12px;box-shadow:0 2px 4px rgba(0,0,0,.04)}
+.select-item h4{margin-bottom:8px;color:#2c3e50;font-size:15px;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.valid-tag{color:#28a745;font-size:12px;font-weight:normal}
+.invalid-tag{color:#dc3545;font-size:12px;font-weight:normal}
+.artist-options{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:8px}
+.artist-option{padding:4px 12px;background:#f1f3f5;border:1px solid #ddd;border-radius:6px;cursor:pointer;font-size:13px}
+.artist-option:hover{border-color:#00a1d6;color:#00a1d6}
+.artist-option.selected{background:#28a745;color:#fff;border-color:#28a745}
+.artist-option.max-source{background:#28a745;color:#fff;border-color:#28a745}
+.artist-option.user-provided{background:#6f42c1;color:#fff;border-color:#6f42c1}
+.artist-option.error{background:#fdf2f8;border:1px solid #dc3545;color:#dc3545;font-weight:500}
+.source-label{font-size:11px;color:#6c757d;margin-left:6px}
+.no-result{color:#6c757d;font-size:13px;padding:4px 0}
+.combination-area{margin-top:16px;display:none;padding:16px;background:#fff;border-radius:8px;box-shadow:0 2px 4px rgba(0,0,0,.04)}
+.combination-area.active{display:block}
+.combination-area h4{margin-bottom:12px;color:#2c3e50;font-size:15px}
+.combination-list{max-height:220px;overflow-y:auto;margin-bottom:12px;border:1px solid #e9ecef;border-radius:6px;padding:8px}
+.combination-item{padding:6px 8px;margin-bottom:4px;border-radius:4px;cursor:pointer;font-size:14px;white-space:pre-wrap}
+.combination-item:hover{background:#f1f3f5}
+.combination-item.selected{background:#00a1d6;color:#fff}
+.combination-controls{display:flex;justify-content:flex-end}
+#useCombinationBtn{background:#6f42c1}
+#useCombinationBtn:hover{background:#5a32a3}
+.result-generate-area{margin-top:16px;display:none}
+.result-generate-area.active{display:block}
+#resultText{width:100%;min-height:170px;padding:14px 16px;border:1px solid #ddd;border-radius:8px;font-size:14px;outline:none;margin-bottom:16px;resize:vertical;background:#f8f9fa}
+.copy-toast{position:fixed;bottom:30px;right:30px;padding:10px 20px;background:rgba(0,0,0,.8);color:#fff;border-radius:4px;font-size:14px;opacity:0;transform:translateY(20px);transition:all .3s;pointer-events:none;z-index:9999}
+.copy-toast.show{opacity:1;transform:translateY(0)}
+</style>
+</head>
+<body>
+<div class="main">
+  <div class="header">
+    <h2>歌名-歌手查询/校验</h2>
+    <p>独立维护页：查询歌手、校验输入、生成排列组合</p>
+  </div>
+  <div class="nav">
+    <a href="index.html">首页</a> |
+    <a href="bv-dup-check.html">BV号查重</a> |
+    <a href="title-artist-dup-check.html">歌名-歌手查重</a> |
+    歌名-歌手查询/校验 |
+    <a href="stats.html">统计页</a>
+  </div>
+
+  <div class="title-search-area">
+    <textarea id="titleInput" placeholder="支持两种输入格式：
+1. 纯歌名（每行一个）
+絶頂讃歌
+月光
+
+2. 完整格式（带序号和歌手）
+01. 絶頂讃歌 - 和ぬか
+02. 月光 - るまき"></textarea>
+    <div class="title-controls">
+      <button id="searchTitleBtn">查询/校验歌手</button>
+      <button id="validateBtn">生成排列组合</button>
+    </div>
+  </div>
+
+  <div class="artist-select-area" id="artistSelectArea">
+    <div id="artistSelectContainer"></div>
+  </div>
+
+  <div class="combination-area" id="combinationArea">
+    <h4>所有可能的排列组合</h4>
+    <div class="combination-list" id="combinationList"></div>
+    <div class="combination-controls">
+      <button id="useCombinationBtn">使用选中组合</button>
+    </div>
+  </div>
+
+  <div class="result-generate-area" id="resultGenerateArea">
+    <textarea id="resultText" readonly placeholder="生成结果会显示在这里"></textarea>
+    <button id="copyResultBtn">复制结果</button>
+  </div>
+</div>
+
+<div class="copy-toast" id="copyToast">复制成功</div>
+
+<script>
+let allSongs = [];
+let fileList = [];
+let fileAlias = {};
+let titleSearchResults = [];
+let selectedArtists = {};
+let inputFormatType = '';
+let allCombinations = [];
+let selectedCombination = '';
+
+function getSourceAlias(source) {
+  if (!source) return '未知来源';
+  const key = source.replace('.js', '');
+  return fileAlias[key] || source;
+}
+
+function showCopyToast() {
+  const toast = document.getElementById('copyToast');
+  toast.classList.add('show');
+  setTimeout(() => toast.classList.remove('show'), 2000);
+}
+
+async function loadAllData() {
+  try {
+    const indexRes = await fetch('data/index.json');
+    const indexData = await indexRes.json();
+    fileList = indexData.files || [];
+    fileAlias = indexData.fileToAlias || {};
+
+    const loadFileTasks = fileList.map(fileName =>
+      fetch(`data/${fileName}`)
+        .then(res => res.text())
+        .then(jsContent => {
+          const fakeWindow = { SONG_DATA: [] };
+          try {
+            const executeCode = new Function('window', jsContent);
+            executeCode(fakeWindow);
+          } catch (e) {
+            console.warn(`执行 ${fileName} 出错:`, e.message);
+          }
+          return fakeWindow.SONG_DATA.map(song => ({ ...song, source: fileName }));
+        })
+        .catch(() => [])
+    );
+
+    const songArrays = await Promise.all(loadFileTasks);
+    allSongs = songArrays.flat();
+  } catch (err) {
+    alert(`数据加载失败: ${err.message}`);
+  }
+}
+</script>
+<script src="bili-check-title-artist.js"></script>
+<script>
+function initTitleArtistPage() {
+  loadAllData();
+  document.getElementById('searchTitleBtn').addEventListener('click', searchAndValidateArtists);
+  document.getElementById('validateBtn').addEventListener('click', generateAllCombinations);
+  document.getElementById('useCombinationBtn').addEventListener('click', useSelectedCombination);
+  document.getElementById('copyResultBtn').addEventListener('click', copyResultText);
+  document.getElementById('titleInput').addEventListener('keydown', e => {
+    if (e.key === 'Enter' && e.ctrlKey) searchAndValidateArtists();
+  });
+}
+document.addEventListener('DOMContentLoaded', initTitleArtistPage);
+</script>
+</body>
+</html>

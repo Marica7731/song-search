@@ -215,6 +215,39 @@
             transform: none;
             box-shadow: none;
         }
+        .copy-controls {
+            display: flex;
+            gap: 12px;
+            align-items: center;
+            flex-wrap: wrap;
+            margin-bottom: 15px;
+            padding: 12px 16px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+        }
+        .copy-controls label {
+            font-size: 13px;
+            color: #495057;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            cursor: pointer;
+        }
+        .copy-controls input[type="checkbox"],
+        .copy-controls input[type="radio"] {
+            width: 16px;
+            height: 16px;
+        }
+        .copy-separator-input {
+            width: 120px;
+            padding: 5px 8px;
+            border: 1px solid #d0d7de;
+            border-radius: 6px;
+            font-size: 12px;
+            color: #495057;
+        }
+
         .progress-msg { 
             text-align: center; 
             color: #495057; 
@@ -518,7 +551,9 @@
     <div class="sub-header">
     系统化管理你的音乐收藏 | 
     <a href="stats.html" class="nav-link">查看演唱者统计与排行</a> | 
-    <a href="bili-check.html" class="nav-link">BV号查重工具</a>
+    <a href="bv-dup-check.html" class="nav-link">BV号查重</a> |
+    <a href="title-artist-dup-check.html" class="nav-link">歌名-歌手查重</a> |
+    <a href="title-artist-check.html" class="nav-link">歌名-歌手查询/校验</a>
     </div>
 
     <div class="filter-search-container">
@@ -560,6 +595,18 @@
         <div class="stats-msg" id="stats-msg">总歌曲数：0 | 筛选后：0 | 搜索结果：0</div>
         <button class="copy-all-btn" id="copy-all-btn" disabled>📋 复制全部搜索结果</button>
     </div>
+    <div class="copy-controls">
+        <label><input type="checkbox" id="copy-title" checked>歌名</label>
+        <label><input type="checkbox" id="copy-artist" checked>歌手</label>
+        <label><input type="checkbox" id="copy-collection">合集</label>
+        <label><input type="checkbox" id="copy-source">来源</label>
+        <label><input type="checkbox" id="copy-link" checked>链接</label>
+        <label><input type="checkbox" id="copy-valid-artist-only">仅复制有歌手</label>
+        <label>分隔符 <input type="text" id="copy-separator" class="copy-separator-input" value=" " placeholder="默认空格"></label>
+        <label><input type="radio" name="copy-format" id="copy-format-text" checked>纯文本</label>
+        <label><input type="radio" name="copy-format" id="copy-format-table">表格</label>
+    </div>
+
 
     <div class="progress-msg" id="progress-msg">📥 正在并行加载歌库，请稍候...</div>
     <div class="empty-msg" id="empty-msg">❌ 未找到匹配的歌曲</div>
@@ -676,15 +723,68 @@
             return totalUnique;
         }
 
+        function getCopyOptions() {
+            return {
+                title: document.getElementById('copy-title').checked,
+                artist: document.getElementById('copy-artist').checked,
+                collection: document.getElementById('copy-collection').checked,
+                source: document.getElementById('copy-source').checked,
+                link: document.getElementById('copy-link').checked,
+                validArtistOnly: document.getElementById('copy-valid-artist-only').checked,
+                separator: document.getElementById('copy-separator').value,
+                textFormat: document.getElementById('copy-format-text').checked
+            };
+        }
+
         function generateSearchResultText() {
             if (filteredBySearch.length === 0) return '';
-            
-            return filteredBySearch.map(item => {
-                const title = item.title || '未知歌曲';
-                const artist = item.artist?.trim();
-                const link = item.link || '无链接';
-                return isValidArtist(artist) ? `${title} - ${artist}（${link}）` : `${title}（${link}）`;
-            }).join('\n');
+
+            const options = getCopyOptions();
+            const sourceLabel = (item) => {
+                const sourceBase = item.source?.replace('.js', '');
+                return FILE_TO_ALIAS[sourceBase] || item.source || '未知';
+            };
+
+            let copyData = [...filteredBySearch];
+            if (options.validArtistOnly) {
+                copyData = copyData.filter(item => isValidArtist(item.artist));
+            }
+            if (copyData.length === 0) return '';
+
+            let separator = options.separator;
+            if (separator == null || separator === '') separator = ' ';
+            if (separator === '\\t') separator = '\t';
+
+            if (options.textFormat) {
+                return copyData.map(item => {
+                    const parts = [];
+                    if (options.title) parts.push(item.title || '未知歌曲');
+                    if (options.artist && isValidArtist(item.artist)) parts.push(item.artist.trim());
+                    if (options.collection) parts.push(`合集:${item.collection || '未知'}`);
+                    if (options.source) parts.push(`来源:${sourceLabel(item)}`);
+                    if (options.link) parts.push(`链接:${item.link || '无链接'}`);
+                    return parts.join(separator);
+                }).join('\n');
+            }
+
+            const headers = [];
+            if (options.title) headers.push('歌名');
+            if (options.artist) headers.push('歌手');
+            if (options.collection) headers.push('合集');
+            if (options.source) headers.push('来源');
+            if (options.link) headers.push('链接');
+
+            let content = headers.join('\t') + '\n';
+            copyData.forEach(item => {
+                const row = [];
+                if (options.title) row.push(item.title || '未知歌曲');
+                if (options.artist) row.push(isValidArtist(item.artist) ? item.artist.trim() : '');
+                if (options.collection) row.push(item.collection || '未知');
+                if (options.source) row.push(sourceLabel(item));
+                if (options.link) row.push(item.link || '');
+                content += row.join('\t') + '\n';
+            });
+            return content.trim();
         }
 
         async function copyAllSearchResults() {
