@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr
-// 生成时间: 3/18/2026, 1:19:16 AM
+// 生成时间: 3/18/2026, 4:17:23 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6099,6 +6099,238 @@ window.SONG_DATA.push(
   "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=22",
+  "source": "naraetan.js"
+},
+    {
+  "title": "INVOKE",
+  "artist": "T.M.Revolution",
+  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "新宝島",
+  "artist": "サカナクション",
+  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "サウダージ",
+  "artist": "ポルノグラフィティ",
+  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Drowing",
+  "artist": "WOODZ",
+  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "お気に召すまま",
+  "artist": "Eve",
+  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "shake it!",
+  "artist": "emon(Tes.)",
+  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "カサブタ",
+  "artist": "千綿偉功",
+  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ETERNAL BLAZE",
+  "artist": "水樹奈々",
+  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "NO, Thank You!",
+  "artist": "放課後ティータイム",
+  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "あんなに一緒だったのに",
+  "artist": "See-Saw",
+  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夜明け生まれ来る少女",
+  "artist": "高橋洋子",
+  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Shangri-La",
+  "artist": "angela",
+  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "oath sign",
+  "artist": "LiSA",
+  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=16",
+  "source": "naraetan.js"
+},
+    {
+  "title": "片翼のイカロス",
+  "artist": "榊原ゆい",
+  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=17",
+  "source": "naraetan.js"
+},
+    {
+  "title": "WILL",
+  "artist": "米倉千尋",
+  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=18",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ヒトリノ夜",
+  "artist": "ポルノグラフィティ",
+  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=19",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ピアノ泥棒",
+  "artist": "Amazarashi",
+  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=20",
+  "source": "naraetan.js"
+},
+    {
+  "title": "1/f",
+  "artist": "LiSA",
+  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=21",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=22",
+  "source": "naraetan.js"
+},
+    {
+  "title": "真赤な誓い",
+  "artist": "福山芳樹",
+  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=23",
+  "source": "naraetan.js"
+},
+    {
+  "title": "グロウアップ",
+  "artist": "Hysteric Blue",
+  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=24",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Letters to ME",
+  "artist": "LiSA",
+  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=25",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Ark",
+  "artist": "Sound Horizon",
+  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=26",
+  "source": "naraetan.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=27",
+  "source": "naraetan.js"
+},
+    {
+  "title": "COLORS",
+  "artist": "FLOW",
+  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=28",
+  "source": "naraetan.js"
+},
+    {
+  "title": "誇り高きアイドル",
+  "artist": "HoneyWorks",
+  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=29",
   "source": "naraetan.js"
 }
 );
