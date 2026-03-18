@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 3/18/2026, 4:04:04 PM
+// 生成时间: 3/18/2026, 5:56:43 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1607,7 +1607,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "お願いマッスル",
-  "artist": "紗倉ひびき(ファイルーズあい) & 街雄鳴造(石川界人)",
+  "artist": "紗倉ひびき(ファイルーズあい)&街雄鳴造(石川界人)",
   "collection": "补合集 🐍凛々咲 2024年11月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LP6VBbE7g?p=70",

@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr
-// 生成时间: 3/18/2026, 4:03:21 PM
+// 生成时间: 3/18/2026, 5:55:25 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3375,7 +3375,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "お願いマッスル",
-  "artist": "紗倉ひびき(ファイルーズあい) & 街雄鳴造(石川界人)",
+  "artist": "紗倉ひびき(ファイルーズあい)&街雄鳴造(石川界人)",
   "collection": "[2026-01-21]だぁい好きなのはアニソン縛り歌枠🐹What I really love is an anim[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1qcc3zLEzd?p=11",

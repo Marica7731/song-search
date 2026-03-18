@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 3/18/2026, 4:02:29 PM
+// 生成时间: 3/18/2026, 5:54:36 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -931,6 +931,166 @@ window.SONG_DATA.push(
   "collection": "【紅葉丸 歌切】[2026-03-17]时尚歌曲_仅限爵士乐歌回🥂✨[T7hc7rASrfA]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D2wozNEb9?p=16",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "めざせポケモンマスター",
+  "artist": "松本梨香",
+  "collection": "【紅葉丸 歌切】[2026-03-18]动画歌曲限定翻唱直播🔥✨[ooJHKqLGkSQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18LwBzCEAL?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【紅葉丸 歌切】[2026-03-18]动画歌曲限定翻唱直播🔥✨[ooJHKqLGkSQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18LwBzCEAL?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ウィーアー！",
+  "artist": "きただにひろし",
+  "collection": "【紅葉丸 歌切】[2026-03-18]动画歌曲限定翻唱直播🔥✨[ooJHKqLGkSQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18LwBzCEAL?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【紅葉丸 歌切】[2026-03-18]动画歌曲限定翻唱直播🔥✨[ooJHKqLGkSQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18LwBzCEAL?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ピースサイン",
+  "artist": "米津玄師",
+  "collection": "【紅葉丸 歌切】[2026-03-18]动画歌曲限定翻唱直播🔥✨[ooJHKqLGkSQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18LwBzCEAL?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "けっかおーらい",
+  "artist": "こっちのけんと",
+  "collection": "【紅葉丸 歌切】[2026-03-18]动画歌曲限定翻唱直播🔥✨[ooJHKqLGkSQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18LwBzCEAL?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "デビルマンのうた",
+  "artist": "Rasmus Faber",
+  "collection": "【紅葉丸 歌切】[2026-03-18]动画歌曲限定翻唱直播🔥✨[ooJHKqLGkSQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18LwBzCEAL?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "お願いマッスル",
+  "artist": "紗倉ひびき(ファイルーズあい)&街雄鳴造(石川界人)",
+  "collection": "【紅葉丸 歌切】[2026-03-18]动画歌曲限定翻唱直播🔥✨[ooJHKqLGkSQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18LwBzCEAL?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao",
+  "collection": "【紅葉丸 歌切】[2026-03-18]动画歌曲限定翻唱直播🔥✨[ooJHKqLGkSQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18LwBzCEAL?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【紅葉丸 歌切】[2026-03-18]动画歌曲限定翻唱直播🔥✨[ooJHKqLGkSQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18LwBzCEAL?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【紅葉丸 歌切】[2026-03-18]动画歌曲限定翻唱直播🔥✨[ooJHKqLGkSQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18LwBzCEAL?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ペガサス幻想",
+  "artist": "MAKE-UP",
+  "collection": "【紅葉丸 歌切】[2026-03-18]动画歌曲限定翻唱直播🔥✨[ooJHKqLGkSQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18LwBzCEAL?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "宇宙戦艦ヤマト",
+  "artist": "ささきいさお",
+  "collection": "【紅葉丸 歌切】[2026-03-18]动画歌曲限定翻唱直播🔥✨[ooJHKqLGkSQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18LwBzCEAL?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "銀河鉄道999",
+  "artist": "ゴダイゴ",
+  "collection": "【紅葉丸 歌切】[2026-03-18]动画歌曲限定翻唱直播🔥✨[ooJHKqLGkSQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18LwBzCEAL?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ETERNAL WIND~ほほえみは光る風の中~",
+  "artist": "森口博子",
+  "collection": "【紅葉丸 歌切】[2026-03-18]动画歌曲限定翻唱直播🔥✨[ooJHKqLGkSQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18LwBzCEAL?p=15",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【紅葉丸 歌切】[2026-03-18]动画歌曲限定翻唱直播🔥✨[ooJHKqLGkSQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18LwBzCEAL?p=16",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ルパン三世のテーマ",
+  "artist": "大野雄二",
+  "collection": "【紅葉丸 歌切】[2026-03-18]动画歌曲限定翻唱直播🔥✨[ooJHKqLGkSQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18LwBzCEAL?p=17",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【紅葉丸 歌切】[2026-03-18]动画歌曲限定翻唱直播🔥✨[ooJHKqLGkSQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18LwBzCEAL?p=18",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【紅葉丸 歌切】[2026-03-18]动画歌曲限定翻唱直播🔥✨[ooJHKqLGkSQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18LwBzCEAL?p=19",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ハッピー・ジャムジャム",
+  "artist": "M.S.J",
+  "collection": "【紅葉丸 歌切】[2026-03-18]动画歌曲限定翻唱直播🔥✨[ooJHKqLGkSQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18LwBzCEAL?p=20",
   "source": "momijimaru.js"
 }
 );

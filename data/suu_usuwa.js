@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 3/18/2026, 4:04:25 PM
+// 生成时间: 3/18/2026, 5:57:01 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -20003,6 +20003,78 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】[2026-03-10]好心情音乐♪ [O4pWm1_fR5Q] 稀羽すう",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C4cRzjEse?p=18",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【🦢歌切】#136[2026-03-18]周三定期歌回！樱花季过得如何～？🌸[8cC22P7M9jM]稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GDwBzSEhd?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "キミの記憶",
+  "artist": "川村ゆみ",
+  "collection": "【🦢歌切】#136[2026-03-18]周三定期歌回！樱花季过得如何～？🌸[8cC22P7M9jM]稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GDwBzSEhd?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】#136[2026-03-18]周三定期歌回！樱花季过得如何～？🌸[8cC22P7M9jM]稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GDwBzSEhd?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ケセラセラ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🦢歌切】#136[2026-03-18]周三定期歌回！樱花季过得如何～？🌸[8cC22P7M9jM]稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GDwBzSEhd?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Mornin’ Bell",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】#136[2026-03-18]周三定期歌回！樱花季过得如何～？🌸[8cC22P7M9jM]稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GDwBzSEhd?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "チャイナアドバイス",
+  "artist": "相対性理論",
+  "collection": "【🦢歌切】#136[2026-03-18]周三定期歌回！樱花季过得如何～？🌸[8cC22P7M9jM]稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GDwBzSEhd?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Floating",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】#136[2026-03-18]周三定期歌回！樱花季过得如何～？🌸[8cC22P7M9jM]稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GDwBzSEhd?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "桜の森",
+  "artist": "星野源",
+  "collection": "【🦢歌切】#136[2026-03-18]周三定期歌回！樱花季过得如何～？🌸[8cC22P7M9jM]稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GDwBzSEhd?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "赤いスイートピー",
+  "artist": "松田聖子",
+  "collection": "【🦢歌切】#136[2026-03-18]周三定期歌回！樱花季过得如何～？🌸[8cC22P7M9jM]稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GDwBzSEhd?p=9",
   "source": "suu_usuwa.js"
 }
 );

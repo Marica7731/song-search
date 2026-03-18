@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据 (多合集汇总)
 // 来源: BV1zzZPBsEum
-// 生成时间: 3/18/2026, 4:06:27 PM
+// 生成时间: 3/18/2026, 5:58:52 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4059,6 +4059,142 @@ window.SONG_DATA.push(
   "collection": "【👿歌切】[2026-03-13]代替电台的早歌时段📻🎶请听一首哦😈✨[jVy9ltTcTAk] 音門るき",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gtcSz3EG8?p=16",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "アカシア",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=1",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ジェンガ",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=2",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "めざせポケモンマスター",
+  "artist": "松本梨香",
+  "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=3",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "レイン",
+  "artist": "シド",
+  "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=4",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=5",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=6",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "雨傘",
+  "artist": "TOKIO",
+  "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=7",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=8",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ハロ",
+  "artist": "yama × ぼっちぼろまる",
+  "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=9",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "カサブタ",
+  "artist": "千綿偉功",
+  "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=10",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "恋",
+  "artist": "星野源",
+  "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=11",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs GREEN APPLE",
+  "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=12",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "抱きしめたいほど美しい日々に",
+  "artist": "くじら",
+  "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=13",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=14",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=15",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "Bling-Bang-Bang-Born",
+  "artist": "Creepy Nuts",
+  "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=16",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=17",
   "source": "otomoneruki.js"
 }
 );
