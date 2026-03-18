@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr
-// 生成时间: 3/18/2026, 5:55:25 PM
+// 生成时间: 3/18/2026, 6:46:51 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -375,7 +375,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "3月9日",
-  "artist": "レミオロメン[us2MJt3HbVo]",
+  "artist": "レミオロメン",
   "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=1",
