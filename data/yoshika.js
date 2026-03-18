@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 3/18/2026, 7:47:24 PM
+// 生成时间: 3/18/2026, 8:31:03 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -27872,7 +27872,7 @@ window.SONG_DATA.push(
     {
   "title": "アローラ！！",
   "artist": "松本梨香",
-  "collection": "【🍠🦍歌切】YOSHIKA よしか",
+  "collection": "【🍠🦍歌切】[2026-03-18]初见大募集 YOSHIKA よしか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12zwqzMEqY?p=1",
   "source": "yoshika.js"
@@ -27880,7 +27880,7 @@ window.SONG_DATA.push(
     {
   "title": "Go!!!",
   "artist": "FLOW",
-  "collection": "【🍠🦍歌切】YOSHIKA よしか",
+  "collection": "【🍠🦍歌切】[2026-03-18]初见大募集 YOSHIKA よしか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12zwqzMEqY?p=2",
   "source": "yoshika.js"
@@ -27888,7 +27888,7 @@ window.SONG_DATA.push(
     {
   "title": "学園天国",
   "artist": "Dream5",
-  "collection": "【🍠🦍歌切】YOSHIKA よしか",
+  "collection": "【🍠🦍歌切】[2026-03-18]初见大募集 YOSHIKA よしか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12zwqzMEqY?p=3",
   "source": "yoshika.js"
@@ -27896,7 +27896,7 @@ window.SONG_DATA.push(
     {
   "title": "ケロッ！とマーチ",
   "artist": "角田信明&いはたじゅり",
-  "collection": "【🍠🦍歌切】YOSHIKA よしか",
+  "collection": "【🍠🦍歌切】[2026-03-18]初见大募集 YOSHIKA よしか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12zwqzMEqY?p=4",
   "source": "yoshika.js"
@@ -27904,7 +27904,7 @@ window.SONG_DATA.push(
     {
   "title": "ハレ晴レユカイ",
   "artist": "平野綾・茅原実里・後藤邑子",
-  "collection": "【🍠🦍歌切】YOSHIKA よしか",
+  "collection": "【🍠🦍歌切】[2026-03-18]初见大募集 YOSHIKA よしか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12zwqzMEqY?p=5",
   "source": "yoshika.js"
@@ -27912,7 +27912,7 @@ window.SONG_DATA.push(
     {
   "title": "ブルーバード",
   "artist": "いきものがかり",
-  "collection": "【🍠🦍歌切】YOSHIKA よしか",
+  "collection": "【🍠🦍歌切】[2026-03-18]初见大募集 YOSHIKA よしか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12zwqzMEqY?p=6",
   "source": "yoshika.js"
@@ -27920,7 +27920,7 @@ window.SONG_DATA.push(
     {
   "title": "Rolling star",
   "artist": "YUI",
-  "collection": "【🍠🦍歌切】YOSHIKA よしか",
+  "collection": "【🍠🦍歌切】[2026-03-18]初见大募集 YOSHIKA よしか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12zwqzMEqY?p=7",
   "source": "yoshika.js"
@@ -27928,7 +27928,7 @@ window.SONG_DATA.push(
     {
   "title": "夢をかなえてドラえもん",
   "artist": "mao",
-  "collection": "【🍠🦍歌切】YOSHIKA よしか",
+  "collection": "【🍠🦍歌切】[2026-03-18]初见大募集 YOSHIKA よしか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12zwqzMEqY?p=8",
   "source": "yoshika.js"
@@ -27936,7 +27936,7 @@ window.SONG_DATA.push(
     {
   "title": "YUME日和",
   "artist": "島谷ひとみ",
-  "collection": "【🍠🦍歌切】YOSHIKA よしか",
+  "collection": "【🍠🦍歌切】[2026-03-18]初见大募集 YOSHIKA よしか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12zwqzMEqY?p=9",
   "source": "yoshika.js"
@@ -27944,7 +27944,7 @@ window.SONG_DATA.push(
     {
   "title": "風になる",
   "artist": "つじあやの",
-  "collection": "【🍠🦍歌切】YOSHIKA よしか",
+  "collection": "【🍠🦍歌切】[2026-03-18]初见大募集 YOSHIKA よしか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12zwqzMEqY?p=10",
   "source": "yoshika.js"
@@ -27952,7 +27952,7 @@ window.SONG_DATA.push(
     {
   "title": "とくべチュ、して",
   "artist": "＝LOVE",
-  "collection": "【🍠🦍歌切】YOSHIKA よしか",
+  "collection": "【🍠🦍歌切】[2026-03-18]初见大募集 YOSHIKA よしか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12zwqzMEqY?p=11",
   "source": "yoshika.js"
@@ -27960,7 +27960,7 @@ window.SONG_DATA.push(
     {
   "title": "シルエット",
   "artist": "KANA-BOON",
-  "collection": "【🍠🦍歌切】YOSHIKA よしか",
+  "collection": "【🍠🦍歌切】[2026-03-18]初见大募集 YOSHIKA よしか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12zwqzMEqY?p=12",
   "source": "yoshika.js"
@@ -27968,7 +27968,7 @@ window.SONG_DATA.push(
     {
   "title": "ニホンノミカタ －ネバダカラキマシタ－",
   "artist": "矢島美容室",
-  "collection": "【🍠🦍歌切】YOSHIKA よしか",
+  "collection": "【🍠🦍歌切】[2026-03-18]初见大募集 YOSHIKA よしか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12zwqzMEqY?p=13",
   "source": "yoshika.js"
@@ -27976,7 +27976,7 @@ window.SONG_DATA.push(
     {
   "title": "崖の上のポニョ",
   "artist": "大橋のぞみ",
-  "collection": "【🍠🦍歌切】YOSHIKA よしか",
+  "collection": "【🍠🦍歌切】[2026-03-18]初见大募集 YOSHIKA よしか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12zwqzMEqY?p=14",
   "source": "yoshika.js"
@@ -27984,7 +27984,7 @@ window.SONG_DATA.push(
     {
   "title": "Music S.T.A.R.T!!",
   "artist": "μ's",
-  "collection": "【🍠🦍歌切】YOSHIKA よしか",
+  "collection": "【🍠🦍歌切】[2026-03-18]初见大募集 YOSHIKA よしか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12zwqzMEqY?p=15",
   "source": "yoshika.js"
@@ -27992,7 +27992,7 @@ window.SONG_DATA.push(
     {
   "title": "愛 for you！",
   "artist": "i☆Ris",
-  "collection": "【🍠🦍歌切】YOSHIKA よしか",
+  "collection": "【🍠🦍歌切】[2026-03-18]初见大募集 YOSHIKA よしか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12zwqzMEqY?p=16",
   "source": "yoshika.js"
@@ -28000,7 +28000,7 @@ window.SONG_DATA.push(
     {
   "title": "ルカルカ＊ナイトフィーバー",
   "artist": "samfree feat. 巡音ルカ",
-  "collection": "【🍠🦍歌切】YOSHIKA よしか",
+  "collection": "【🍠🦍歌切】[2026-03-18]初见大募集 YOSHIKA よしか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12zwqzMEqY?p=17",
   "source": "yoshika.js"
@@ -28008,7 +28008,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーザンクロス",
   "artist": "May'n",
-  "collection": "【🍠🦍歌切】YOSHIKA よしか",
+  "collection": "【🍠🦍歌切】[2026-03-18]初见大募集 YOSHIKA よしか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12zwqzMEqY?p=18",
   "source": "yoshika.js"
@@ -28016,7 +28016,7 @@ window.SONG_DATA.push(
     {
   "title": "ray",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【🍠🦍歌切】YOSHIKA よしか",
+  "collection": "【🍠🦍歌切】[2026-03-18]初见大募集 YOSHIKA よしか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12zwqzMEqY?p=19",
   "source": "yoshika.js"
@@ -28024,7 +28024,7 @@ window.SONG_DATA.push(
     {
   "title": "First Love",
   "artist": "宇多田ヒカル",
-  "collection": "【🍠🦍歌切】YOSHIKA よしか",
+  "collection": "【🍠🦍歌切】[2026-03-18]初见大募集 YOSHIKA よしか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12zwqzMEqY?p=20",
   "source": "yoshika.js"
@@ -28032,7 +28032,7 @@ window.SONG_DATA.push(
     {
   "title": "JANE DOE",
   "artist": "米津玄師, 宇多田ヒカル",
-  "collection": "【🍠🦍歌切】YOSHIKA よしか",
+  "collection": "【🍠🦍歌切】[2026-03-18]初见大募集 YOSHIKA よしか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12zwqzMEqY?p=21",
   "source": "yoshika.js"
