@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 3/18/2026, 11:41:00 AM
+// 生成时间: 3/18/2026, 12:47:17 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -839,7 +839,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ミルククラウン・オン・ソーネチカ",
-  "artist": "ユジー初音ミク",
+  "artist": "ユジー&初音ミク",
   "collection": "【紅葉丸 歌切】[2026-03-17]时尚歌曲_仅限爵士乐歌回🥂✨[T7hc7rASrfA]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D2wozNEb9?p=5",
@@ -903,7 +903,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ワンルームオールザットジャズ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "DATEKEN",
   "collection": "【紅葉丸 歌切】[2026-03-17]时尚歌曲_仅限爵士乐歌回🥂✨[T7hc7rASrfA]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D2wozNEb9?p=13",
