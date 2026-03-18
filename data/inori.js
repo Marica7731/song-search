@@ -1,6 +1,6 @@
 // 祈祷 - 歌单数据 (多合集汇总)
 // 来源: BV117P2zwEuq
-// 生成时间: 3/18/2026, 6:53:44 PM
+// 生成时间: 3/18/2026, 7:52:43 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -523,6 +523,78 @@ window.SONG_DATA.push(
   "collection": "祈祷 𓆩︎✟𓆪  2026-03-12 y6cl6_s2_Ck",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KhcmzhE26?p=12",
+  "source": "inori.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【 𓆩︎✟𓆪 歌切】[2026-03-18]𓆩︎✟𓆪对最近自己的歌有很多想法，所以唱一唱[4KY3unXYvzY] 祈祷",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11kwqzKEi7?p=1",
+  "source": "inori.js"
+},
+    {
+  "title": "GIRAFFE BLUES",
+  "artist": "ワルキューレ",
+  "collection": "【 𓆩︎✟𓆪 歌切】[2026-03-18]𓆩︎✟𓆪对最近自己的歌有很多想法，所以唱一唱[4KY3unXYvzY] 祈祷",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11kwqzKEi7?p=2",
+  "source": "inori.js"
+},
+    {
+  "title": "AXIA～ダイスキでダイキライ～",
+  "artist": "ワルキューレ",
+  "collection": "【 𓆩︎✟𓆪 歌切】[2026-03-18]𓆩︎✟𓆪对最近自己的歌有很多想法，所以唱一唱[4KY3unXYvzY] 祈祷",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11kwqzKEi7?p=3",
+  "source": "inori.js"
+},
+    {
+  "title": "星降る海",
+  "artist": "Aqu3ra,月見ヤチヨ『早見沙織』",
+  "collection": "【 𓆩︎✟𓆪 歌切】[2026-03-18]𓆩︎✟𓆪对最近自己的歌有很多想法，所以唱一唱[4KY3unXYvzY] 祈祷",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11kwqzKEi7?p=4",
+  "source": "inori.js"
+},
+    {
+  "title": "コンプレックス・イマージュ",
+  "artist": "彩音",
+  "collection": "【 𓆩︎✟𓆪 歌切】[2026-03-18]𓆩︎✟𓆪对最近自己的歌有很多想法，所以唱一唱[4KY3unXYvzY] 祈祷",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11kwqzKEi7?p=5",
+  "source": "inori.js"
+},
+    {
+  "title": "LAST STARDUST",
+  "artist": "Aimer",
+  "collection": "【 𓆩︎✟𓆪 歌切】[2026-03-18]𓆩︎✟𓆪对最近自己的歌有很多想法，所以唱一唱[4KY3unXYvzY] 祈祷",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11kwqzKEi7?p=6",
+  "source": "inori.js"
+},
+    {
+  "title": "桜流し",
+  "artist": "宇多田ヒカル",
+  "collection": "【 𓆩︎✟𓆪 歌切】[2026-03-18]𓆩︎✟𓆪对最近自己的歌有很多想法，所以唱一唱[4KY3unXYvzY] 祈祷",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11kwqzKEi7?p=7",
+  "source": "inori.js"
+},
+    {
+  "title": "Rainy veil",
+  "artist": "やなぎなぎ",
+  "collection": "【 𓆩︎✟𓆪 歌切】[2026-03-18]𓆩︎✟𓆪对最近自己的歌有很多想法，所以唱一唱[4KY3unXYvzY] 祈祷",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11kwqzKEi7?p=8",
+  "source": "inori.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "【 𓆩︎✟𓆪 歌切】[2026-03-18]𓆩︎✟𓆪对最近自己的歌有很多想法，所以唱一唱[4KY3unXYvzY] 祈祷",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11kwqzKEi7?p=9",
   "source": "inori.js"
 }
 );
