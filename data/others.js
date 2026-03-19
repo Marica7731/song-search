@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1owcoz3Ekw
-// 生成时间: 3/19/2026, 4:56:32 PM
+// 生成时间: 3/19/2026, 5:56:25 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6094,11 +6094,219 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "CULUA 2025-12-25 ~ 2026-02-12",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=174",
+  "source": "others.js"
+},
+    {
+  "title": "wherever you are",
+  "artist": "ONE OK ROCK",
+  "collection": "CULUA 2025-12-25 ~ 2026-02-12",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=175",
+  "source": "others.js"
+},
+    {
+  "title": "Departures 〜あなたにおくるアイの歌〜",
+  "artist": "EGOIST",
+  "collection": "CULUA 2025-12-25 ~ 2026-02-12",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=176",
+  "source": "others.js"
+},
+    {
+  "title": "思いを巡らす100の事象",
+  "artist": "EGOIST",
+  "collection": "CULUA 2025-12-25 ~ 2026-02-12",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=177",
+  "source": "others.js"
+},
+    {
+  "title": "優しい彗星",
+  "artist": "YOASOBI",
+  "collection": "CULUA 2025-12-25 ~ 2026-02-12",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=178",
+  "source": "others.js"
+},
+    {
+  "title": "ピエロ",
+  "artist": "KEI",
+  "collection": "CULUA 2025-12-25 ~ 2026-02-12",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=179",
+  "source": "others.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar",
+  "collection": "CULUA 2025-12-25 ~ 2026-02-12",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=180",
+  "source": "others.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "ナブナ",
+  "collection": "CULUA 2025-12-25 ~ 2026-02-12",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=181",
+  "source": "others.js"
+},
+    {
+  "title": "生きる",
+  "artist": "水野あつ",
+  "collection": "CULUA 2025-12-25 ~ 2026-02-12",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=182",
+  "source": "others.js"
+},
+    {
+  "title": "今はいいんだよ",
+  "artist": "MIMI",
+  "collection": "CULUA 2025-12-25 ~ 2026-02-12",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=183",
+  "source": "others.js"
+},
+    {
+  "title": "星の消えた夜に",
+  "artist": "Aimer",
+  "collection": "CULUA 2025-12-25 ~ 2026-02-12",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=184",
+  "source": "others.js"
+},
+    {
+  "title": "背景、夏に溺れる",
+  "artist": "ナブナ",
+  "collection": "CULUA 2025-12-25 ~ 2026-02-12",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=185",
+  "source": "others.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P",
+  "collection": "CULUA 2025-12-25 ~ 2026-02-12",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=186",
+  "source": "others.js"
+},
+    {
+  "title": "ケッペキショウ",
+  "artist": "GUMI",
+  "collection": "CULUA 2025-12-25 ~ 2026-02-12",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=187",
+  "source": "others.js"
+},
+    {
+  "title": "エンパープル",
+  "artist": "はるまきごはん",
+  "collection": "CULUA 2025-12-25 ~ 2026-02-12",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=188",
+  "source": "others.js"
+},
+    {
+  "title": "パラサイト",
+  "artist": "DECO#27",
+  "collection": "CULUA 2025-12-25 ~ 2026-02-12",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=189",
+  "source": "others.js"
+},
+    {
+  "title": "Who!",
+  "artist": "Azari",
+  "collection": "CULUA 2025-12-25 ~ 2026-02-12",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=190",
+  "source": "others.js"
+},
+    {
+  "title": "猫の食卓",
+  "artist": "きくお",
+  "collection": "CULUA 2025-12-25 ~ 2026-02-12",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=191",
+  "source": "others.js"
+},
+    {
+  "title": "大女優さん",
+  "artist": "いよわ",
+  "collection": "CULUA 2025-12-25 ~ 2026-02-12",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=192",
+  "source": "others.js"
+},
+    {
+  "title": "化孵化",
+  "artist": "sasakure UK",
+  "collection": "CULUA 2025-12-25 ~ 2026-02-12",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=193",
+  "source": "others.js"
+},
+    {
+  "title": "琥珀の身体",
+  "artist": "HIMEHINA",
+  "collection": "CULUA 2025-12-25 ~ 2026-02-12",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=194",
+  "source": "others.js"
+},
+    {
+  "title": "レッド・パージ！！！",
+  "artist": "P.I.N.A.",
+  "collection": "CULUA 2025-12-25 ~ 2026-02-12",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=195",
+  "source": "others.js"
+},
+    {
+  "title": "世界寿命と最後の一日",
+  "artist": "スズム",
+  "collection": "CULUA 2025-12-25 ~ 2026-02-12",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=196",
+  "source": "others.js"
+},
+    {
+  "title": "三日月ステップ",
+  "artist": "r-906",
+  "collection": "CULUA 2025-12-25 ~ 2026-02-12",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=197",
+  "source": "others.js"
+},
+    {
+  "title": "あわよくばきみの眷属になりたいな",
+  "artist": "Peg",
+  "collection": "CULUA 2025-12-25 ~ 2026-02-12",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=198",
+  "source": "others.js"
+},
+    {
+  "title": "二息步行",
+  "artist": "DECO#27",
+  "collection": "CULUA 2025-12-25 ~ 2026-02-12",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=199",
+  "source": "others.js"
+},
+    {
   "title": "少しの自信があったら、",
   "artist": "CULUA",
   "collection": "CULUA 2025-12-25 ~ 2026-02-12",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=174",
+  "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=200",
   "source": "others.js"
 },
     {

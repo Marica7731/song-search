@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 3/19/2026, 4:48:55 PM
+// 生成时间: 3/19/2026, 5:49:40 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1091,6 +1091,62 @@ window.SONG_DATA.push(
   "collection": "【紅葉丸 歌切】[2026-03-18]动画歌曲限定翻唱直播🔥✨[ooJHKqLGkSQ]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18LwBzCEAL?p=20",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "朝ごはんの歌",
+  "artist": "手嶌葵",
+  "collection": "【🍁歌切】[2026-03-19]早晨的最佳伴侣！！悠闲杂谈＆歌回🍁✨[5UnDRAHbkr0]紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h9AGz1EEs?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "マリーゴールド",
+  "artist": "あいみょん",
+  "collection": "【🍁歌切】[2026-03-19]早晨的最佳伴侣！！悠闲杂谈＆歌回🍁✨[5UnDRAHbkr0]紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h9AGz1EEs?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ケセラセラ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍁歌切】[2026-03-19]早晨的最佳伴侣！！悠闲杂谈＆歌回🍁✨[5UnDRAHbkr0]紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h9AGz1EEs?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "春を待つ",
+  "artist": "Islet",
+  "collection": "【🍁歌切】[2026-03-19]早晨的最佳伴侣！！悠闲杂谈＆歌回🍁✨[5UnDRAHbkr0]紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h9AGz1EEs?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ハッピーラッキーチャッピー",
+  "artist": "ano",
+  "collection": "【🍁歌切】[2026-03-19]早晨的最佳伴侣！！悠闲杂谈＆歌回🍁✨[5UnDRAHbkr0]紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h9AGz1EEs?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "TOKOTOKO",
+  "collection": "【🍁歌切】[2026-03-19]早晨的最佳伴侣！！悠闲杂谈＆歌回🍁✨[5UnDRAHbkr0]紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h9AGz1EEs?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "すみれ色の紅",
+  "artist": "紅葉丸チャンネル",
+  "collection": "【🍁歌切】[2026-03-19]早晨的最佳伴侣！！悠闲杂谈＆歌回🍁✨[5UnDRAHbkr0]紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h9AGz1EEs?p=7",
   "source": "momijimaru.js"
 }
 );
