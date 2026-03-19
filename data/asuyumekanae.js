@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 3/19/2026, 7:38:53 PM
+// 生成时间: 3/19/2026, 8:28:08 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -859,6 +859,270 @@ window.SONG_DATA.push(
   "collection": "【明日夢🎸弾き語り歌切】[2025-09-08]想唱ヨルシカ的「前世」！[WWDPzmy7DgE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDALz5EWP?p=16",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Ham",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-15]ヨルシカ、ずとまよ などなど[np2Af2HfRoQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yRALzrEjY?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Dear Mr 「F」",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-15]ヨルシカ、ずとまよ などなど[np2Af2HfRoQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yRALzrEjY?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "春を待つ",
+  "artist": "Islet(tayori)",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-15]ヨルシカ、ずとまよ などなど[np2Af2HfRoQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yRALzrEjY?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "正しくなれない",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-15]ヨルシカ、ずとまよ などなど[np2Af2HfRoQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yRALzrEjY?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-15]ヨルシカ、ずとまよ などなど[np2Af2HfRoQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yRALzrEjY?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "雲と幽霊",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-15]ヨルシカ、ずとまよ などなど[np2Af2HfRoQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yRALzrEjY?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-15]ヨルシカ、ずとまよ などなど[np2Af2HfRoQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yRALzrEjY?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "月に吠える",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-15]ヨルシカ、ずとまよ などなど[np2Af2HfRoQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yRALzrEjY?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "風を食む",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-15]ヨルシカ、ずとまよ などなど[np2Af2HfRoQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yRALzrEjY?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "雪解け",
+  "artist": "Islet",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-15]ヨルシカ、ずとまよ などなど[np2Af2HfRoQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yRALzrEjY?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "風のたより",
+  "artist": "tayori",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-15]ヨルシカ、ずとまよ などなど[np2Af2HfRoQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yRALzrEjY?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ミラーチューン",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-15]ヨルシカ、ずとまよ などなど[np2Af2HfRoQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yRALzrEjY?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-15]ヨルシカ、ずとまよ などなど[np2Af2HfRoQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yRALzrEjY?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "神様のダンス",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-15]ヨルシカ、ずとまよ などなど[np2Af2HfRoQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yRALzrEjY?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-15]ヨルシカ、ずとまよ などなど[np2Af2HfRoQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yRALzrEjY?p=15",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "安次嶺希和子",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-15]ヨルシカ、ずとまよ などなど[np2Af2HfRoQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yRALzrEjY?p=16",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "明日への扉",
+  "artist": "I WiSH",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-15]ヨルシカ、ずとまよ などなど[np2Af2HfRoQ]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yRALzrEjY?p=17",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "チノカテ",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-26] ヨルシカ歌回 [SjL5dI6N8IY]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P9ALzVEpr?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-26] ヨルシカ歌回 [SjL5dI6N8IY]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P9ALzVEpr?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-26] ヨルシカ歌回 [SjL5dI6N8IY]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P9ALzVEpr?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "風を食む",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-26] ヨルシカ歌回 [SjL5dI6N8IY]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P9ALzVEpr?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "逃亡",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-26] ヨルシカ歌回 [SjL5dI6N8IY]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P9ALzVEpr?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "雲と幽霊",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-26] ヨルシカ歌回 [SjL5dI6N8IY]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P9ALzVEpr?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-26] ヨルシカ歌回 [SjL5dI6N8IY]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P9ALzVEpr?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-26] ヨルシカ歌回 [SjL5dI6N8IY]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P9ALzVEpr?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "いさな",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-26] ヨルシカ歌回 [SjL5dI6N8IY]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P9ALzVEpr?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "嘘月",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-26] ヨルシカ歌回 [SjL5dI6N8IY]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P9ALzVEpr?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-26] ヨルシカ歌回 [SjL5dI6N8IY]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P9ALzVEpr?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-26] ヨルシカ歌回 [SjL5dI6N8IY]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P9ALzVEpr?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-26] ヨルシカ歌回 [SjL5dI6N8IY]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P9ALzVEpr?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "さよならモルテン",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-26] ヨルシカ歌回 [SjL5dI6N8IY]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P9ALzVEpr?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-26] ヨルシカ歌回 [SjL5dI6N8IY]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P9ALzVEpr?p=15",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "憂一乗",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-26] ヨルシカ歌回 [SjL5dI6N8IY]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P9ALzVEpr?p=16",
   "source": "asuyumekanae.js"
 },
     {
