@@ -1,5 +1,4 @@
-// bili-check title-artist query/validation module
-// Extracted from bili-check.html for independent maintenance.
+// title-artist query/validation module
 
 function parseInputContent() {
   const input = document.getElementById('titleInput').value.trim();
@@ -109,8 +108,8 @@ function setDefaultSelectedArtist(item, previousSelected = '') {
   selectedArtists[item.title] = '';
 }
 
-function getNeteaseSearchUrl(title) {
-  return `https://music.163.com/#/search/m/?s=${encodeURIComponent(title)}&type=1`;
+function getNeteaseSearchUrl(keyword) {
+  return `https://music.163.com/#/search/m/?s=${encodeURIComponent(keyword)}&type=1`;
 }
 
 function createRetitleTools(item, index) {
@@ -121,16 +120,27 @@ function createRetitleTools(item, index) {
   tools.style.flexWrap = 'wrap';
   tools.style.alignItems = 'center';
 
-  const input = document.createElement('input');
-  input.type = 'text';
-  input.value = item.title;
-  input.placeholder = '可修改歌名后重查';
-  input.style.flex = '1';
-  input.style.minWidth = '220px';
-  input.style.padding = '6px 10px';
-  input.style.border = '1px solid #ddd';
-  input.style.borderRadius = '6px';
-  input.style.fontSize = '13px';
+  const titleInput = document.createElement('input');
+  titleInput.type = 'text';
+  titleInput.value = item.title;
+  titleInput.placeholder = '可修改歌名后重查';
+  titleInput.style.flex = '1';
+  titleInput.style.minWidth = '220px';
+  titleInput.style.padding = '6px 10px';
+  titleInput.style.border = '1px solid #ddd';
+  titleInput.style.borderRadius = '6px';
+  titleInput.style.fontSize = '13px';
+
+  const artistInput = document.createElement('input');
+  artistInput.type = 'text';
+  artistInput.value = selectedArtists[item.title] || item.inputArtist || '';
+  artistInput.placeholder = '可手动填写正确歌手';
+  artistInput.style.flex = '1';
+  artistInput.style.minWidth = '180px';
+  artistInput.style.padding = '6px 10px';
+  artistInput.style.border = '1px solid #ddd';
+  artistInput.style.borderRadius = '6px';
+  artistInput.style.fontSize = '13px';
 
   const retryBtn = document.createElement('button');
   retryBtn.type = 'button';
@@ -143,8 +153,25 @@ function createRetitleTools(item, index) {
   retryBtn.style.fontSize = '12px';
   retryBtn.style.cursor = 'pointer';
 
+  const applyArtistBtn = document.createElement('button');
+  applyArtistBtn.type = 'button';
+  applyArtistBtn.textContent = '应用歌手';
+  applyArtistBtn.style.padding = '6px 12px';
+  applyArtistBtn.style.border = '0';
+  applyArtistBtn.style.borderRadius = '6px';
+  applyArtistBtn.style.background = '#28a745';
+  applyArtistBtn.style.color = '#fff';
+  applyArtistBtn.style.fontSize = '12px';
+  applyArtistBtn.style.cursor = 'pointer';
+
   const link = document.createElement('a');
-  link.href = getNeteaseSearchUrl(item.title);
+  const refreshSearchLink = () => {
+    const t = (titleInput.value || item.title || '').trim();
+    const a = (artistInput.value || '').trim();
+    const keyword = a ? `${t} - ${a}` : t;
+    link.href = getNeteaseSearchUrl(keyword);
+  };
+  refreshSearchLink();
   link.target = '_blank';
   link.rel = 'noopener noreferrer';
   link.textContent = '网易云搜索';
@@ -152,12 +179,11 @@ function createRetitleTools(item, index) {
   link.style.fontSize = '12px';
   link.style.textDecoration = 'none';
 
-  input.addEventListener('input', () => {
-    link.href = getNeteaseSearchUrl(input.value.trim() || item.title);
-  });
+  titleInput.addEventListener('input', refreshSearchLink);
+  artistInput.addEventListener('input', refreshSearchLink);
 
   retryBtn.onclick = () => {
-    const newTitle = input.value.trim();
+    const newTitle = titleInput.value.trim();
     if (!newTitle) {
       alert('请输入要重查的歌名');
       return;
@@ -182,8 +208,24 @@ function createRetitleTools(item, index) {
     generateResultText();
   };
 
-  tools.appendChild(input);
+  applyArtistBtn.onclick = () => {
+    const newArtist = artistInput.value.trim();
+    if (!newArtist) {
+      alert('请输入要应用的歌手');
+      return;
+    }
+    selectedArtists[item.title] = newArtist;
+    item.inputArtist = newArtist;
+    item.isArtistValid = item.artistNames.some(name => normalizeText(name) === normalizeText(newArtist));
+    selectedCombination = '';
+    renderArtistSelectWithValidation();
+    generateResultText();
+  };
+
+  tools.appendChild(titleInput);
+  tools.appendChild(artistInput);
   tools.appendChild(retryBtn);
+  tools.appendChild(applyArtistBtn);
   tools.appendChild(link);
   return tools;
 }

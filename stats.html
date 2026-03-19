@@ -1483,8 +1483,28 @@
             };
             el.appendChild(prev);
 
-            const start = Math.max(1, currentRankPage - 3);
-            const end = Math.min(totalPages, currentRankPage + 3);
+            const start = Math.max(1, currentRankPage - 4);
+            const end = Math.min(totalPages, currentRankPage + 4);
+
+            if (start > 1) {
+                const first = document.createElement('button');
+                first.className = 'page-btn';
+                first.textContent = '1';
+                first.onclick = () => {
+                    currentRankPage = 1;
+                    updateAllViews();
+                };
+                el.appendChild(first);
+
+                if (start > 2) {
+                    const dots = document.createElement('button');
+                    dots.className = 'page-btn disabled';
+                    dots.textContent = '...';
+                    dots.disabled = true;
+                    el.appendChild(dots);
+                }
+            }
+
             for(let i=start; i<=end; i++) {
                 const btn = document.createElement('button');
                 btn.className = `page-btn ${i === currentRankPage ? 'active' : ''}`;
@@ -1494,6 +1514,25 @@
                     updateAllViews(); 
                 };
                 el.appendChild(btn);
+            }
+
+            if (end < totalPages) {
+                if (end < totalPages - 1) {
+                    const dots = document.createElement('button');
+                    dots.className = 'page-btn disabled';
+                    dots.textContent = '...';
+                    dots.disabled = true;
+                    el.appendChild(dots);
+                }
+
+                const last = document.createElement('button');
+                last.className = 'page-btn';
+                last.textContent = totalPages;
+                last.onclick = () => {
+                    currentRankPage = totalPages;
+                    updateAllViews();
+                };
+                el.appendChild(last);
             }
 
             const next = document.createElement('button');
