@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 3/19/2026, 4:14:20 AM
+// 生成时间: 3/19/2026, 5:53:21 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -310,7 +310,7 @@ window.SONG_DATA.push(
   "source": "asuyumekanae.js"
 },
     {
-  "title": "君がいない夜を越えられやしない",
+  "title": "生きていたんだよなない",
   "artist": "あいみょん",
   "collection": "【明日夢🎸歌切】[2025-08-16]夜晚才刚刚开始[bR8bP6HBSc4]",
   "up": "前尘往事如昔故",
@@ -464,7 +464,7 @@ window.SONG_DATA.push(
     {
   "title": "Your Heaven",
   "artist": "YUI",
-  "collection": "【明日夢🎸歌切】[2025-09-01]想唱动漫歌曲之类的！[i0rx6w9xdYY]",
+  "collection": "【明日夢🎸弾き語り 歌切】[2025-08-24] 📻 [E_HggJupySc]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hAwezKEdU?p=1",
   "source": "asuyumekanae.js"
@@ -472,7 +472,7 @@ window.SONG_DATA.push(
     {
   "title": "例えば",
   "artist": "asmi",
-  "collection": "【明日夢🎸歌切】[2025-09-01]想唱动漫歌曲之类的！[i0rx6w9xdYY]",
+  "collection": "【明日夢🎸弾き語り 歌切】[2025-08-24] 📻 [E_HggJupySc]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hAwezKEdU?p=2",
   "source": "asuyumekanae.js"
@@ -480,7 +480,7 @@ window.SONG_DATA.push(
     {
   "title": "火星人",
   "artist": "ヨルシカ",
-  "collection": "【明日夢🎸歌切】[2025-09-01]想唱动漫歌曲之类的！[i0rx6w9xdYY]",
+  "collection": "【明日夢🎸弾き語り 歌切】[2025-08-24] 📻 [E_HggJupySc]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hAwezKEdU?p=3",
   "source": "asuyumekanae.js"
@@ -488,7 +488,7 @@ window.SONG_DATA.push(
     {
   "title": "修羅",
   "artist": "ヨルシカ",
-  "collection": "【明日夢🎸歌切】[2025-09-01]想唱动漫歌曲之类的！[i0rx6w9xdYY]",
+  "collection": "【明日夢🎸弾き語り 歌切】[2025-08-24] 📻 [E_HggJupySc]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hAwezKEdU?p=4",
   "source": "asuyumekanae.js"
@@ -496,7 +496,7 @@ window.SONG_DATA.push(
     {
   "title": "革命道中",
   "artist": "アイナ・ジ・エンド",
-  "collection": "【明日夢🎸歌切】[2025-09-01]想唱动漫歌曲之类的！[i0rx6w9xdYY]",
+  "collection": "【明日夢🎸弾き語り 歌切】[2025-08-24] 📻 [E_HggJupySc]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hAwezKEdU?p=5",
   "source": "asuyumekanae.js"
@@ -504,7 +504,7 @@ window.SONG_DATA.push(
     {
   "title": "リカ",
   "artist": "SIX LOUNGE",
-  "collection": "【明日夢🎸歌切】[2025-09-01]想唱动漫歌曲之类的！[i0rx6w9xdYY]",
+  "collection": "【明日夢🎸弾き語り 歌切】[2025-08-24] 📻 [E_HggJupySc]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hAwezKEdU?p=6",
   "source": "asuyumekanae.js"
@@ -512,7 +512,7 @@ window.SONG_DATA.push(
     {
   "title": "メリールー",
   "artist": "SIX LOUNGE",
-  "collection": "【明日夢🎸歌切】[2025-09-01]想唱动漫歌曲之类的！[i0rx6w9xdYY]",
+  "collection": "【明日夢🎸弾き語り 歌切】[2025-08-24] 📻 [E_HggJupySc]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hAwezKEdU?p=7",
   "source": "asuyumekanae.js"
@@ -520,7 +520,7 @@ window.SONG_DATA.push(
     {
   "title": "正しくなれない",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【明日夢🎸歌切】[2025-09-01]想唱动漫歌曲之类的！[i0rx6w9xdYY]",
+  "collection": "【明日夢🎸弾き語り 歌切】[2025-08-24] 📻 [E_HggJupySc]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hAwezKEdU?p=8",
   "source": "asuyumekanae.js"
@@ -528,7 +528,7 @@ window.SONG_DATA.push(
     {
   "title": "いつか",
   "artist": "Saucy Dog",
-  "collection": "【明日夢🎸歌切】[2025-09-01]想唱动漫歌曲之类的！[i0rx6w9xdYY]",
+  "collection": "【明日夢🎸弾き語り 歌切】[2025-08-24] 📻 [E_HggJupySc]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hAwezKEdU?p=9",
   "source": "asuyumekanae.js"
@@ -536,7 +536,7 @@ window.SONG_DATA.push(
     {
   "title": "僕だけを",
   "artist": "麗奈",
-  "collection": "【明日夢🎸歌切】[2025-09-01]想唱动漫歌曲之类的！[i0rx6w9xdYY]",
+  "collection": "【明日夢🎸弾き語り 歌切】[2025-08-24] 📻 [E_HggJupySc]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hAwezKEdU?p=10",
   "source": "asuyumekanae.js"
@@ -544,7 +544,7 @@ window.SONG_DATA.push(
     {
   "title": "花瓶の花",
   "artist": "石崎ひゅーい",
-  "collection": "【明日夢🎸歌切】[2025-09-01]想唱动漫歌曲之类的！[i0rx6w9xdYY]",
+  "collection": "【明日夢🎸弾き語り 歌切】[2025-08-24] 📻 [E_HggJupySc]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hAwezKEdU?p=11",
   "source": "asuyumekanae.js"
@@ -552,7 +552,7 @@ window.SONG_DATA.push(
     {
   "title": "your song",
   "artist": "SUPER BEAVER",
-  "collection": "【明日夢🎸歌切】[2025-09-01]想唱动漫歌曲之类的！[i0rx6w9xdYY]",
+  "collection": "【明日夢🎸弾き語り 歌切】[2025-08-24] 📻 [E_HggJupySc]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hAwezKEdU?p=12",
   "source": "asuyumekanae.js"
@@ -560,7 +560,7 @@ window.SONG_DATA.push(
     {
   "title": "東京",
   "artist": "SUPER BEAVER",
-  "collection": "【明日夢🎸歌切】[2025-09-01]想唱动漫歌曲之类的！[i0rx6w9xdYY]",
+  "collection": "【明日夢🎸弾き語り 歌切】[2025-08-24] 📻 [E_HggJupySc]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hAwezKEdU?p=13",
   "source": "asuyumekanae.js"
@@ -568,7 +568,7 @@ window.SONG_DATA.push(
     {
   "title": "ソラニン",
   "artist": "ASIAN KUNG-FU GENERATION",
-  "collection": "【明日夢🎸歌切】[2025-09-01]想唱动漫歌曲之类的！[i0rx6w9xdYY]",
+  "collection": "【明日夢🎸弾き語り 歌切】[2025-08-24] 📻 [E_HggJupySc]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hAwezKEdU?p=14",
   "source": "asuyumekanae.js"
@@ -576,7 +576,7 @@ window.SONG_DATA.push(
     {
   "title": "よるのあと",
   "artist": "adieu",
-  "collection": "【明日夢🎸歌切】[2025-09-01]想唱动漫歌曲之类的！[i0rx6w9xdYY]",
+  "collection": "【明日夢🎸弾き語り 歌切】[2025-08-24] 📻 [E_HggJupySc]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hAwezKEdU?p=15",
   "source": "asuyumekanae.js"
@@ -584,7 +584,7 @@ window.SONG_DATA.push(
     {
   "title": "ナラタージュ",
   "artist": "adieu",
-  "collection": "【明日夢🎸歌切】[2025-09-01]想唱动漫歌曲之类的！[i0rx6w9xdYY]",
+  "collection": "【明日夢🎸弾き語り 歌切】[2025-08-24] 📻 [E_HggJupySc]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hAwezKEdU?p=16",
   "source": "asuyumekanae.js"
@@ -592,7 +592,7 @@ window.SONG_DATA.push(
     {
   "title": "hope",
   "artist": "マカロニえんぴつ",
-  "collection": "【明日夢🎸歌切】[2025-09-01]想唱动漫歌曲之类的！[i0rx6w9xdYY]",
+  "collection": "【明日夢🎸弾き語り 歌切】[2025-08-24] 📻 [E_HggJupySc]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hAwezKEdU?p=17",
   "source": "asuyumekanae.js"
@@ -600,7 +600,7 @@ window.SONG_DATA.push(
     {
   "title": "風を食む",
   "artist": "ヨルシカ",
-  "collection": "【明日夢🎸歌切】[2025-09-01]想唱动漫歌曲之类的！[i0rx6w9xdYY]",
+  "collection": "【明日夢🎸弾き語り 歌切】[2025-08-24] 📻 [E_HggJupySc]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hAwezKEdU?p=18",
   "source": "asuyumekanae.js"
@@ -608,7 +608,7 @@ window.SONG_DATA.push(
     {
   "title": "いさな",
   "artist": "ヨルシカ",
-  "collection": "【明日夢🎸歌切】[2025-09-01]想唱动漫歌曲之类的！[i0rx6w9xdYY]",
+  "collection": "【明日夢🎸弾き語り 歌切】[2025-08-24] 📻 [E_HggJupySc]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hAwezKEdU?p=19",
   "source": "asuyumekanae.js"
@@ -616,7 +616,7 @@ window.SONG_DATA.push(
     {
   "title": "星丘公園",
   "artist": "Hump Back",
-  "collection": "【明日夢🎸歌切】[2025-09-01]想唱动漫歌曲之类的！[i0rx6w9xdYY]",
+  "collection": "【明日夢🎸弾き語り 歌切】[2025-08-24] 📻 [E_HggJupySc]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hAwezKEdU?p=20",
   "source": "asuyumekanae.js"
