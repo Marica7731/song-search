@@ -1,6 +1,6 @@
 // 知悠 - 歌单数据 (多合集汇总)
 // 来源: BV1owcoz3Ekw
-// 生成时间: 3/19/2026, 5:49:13 PM
+// 生成时间: 3/19/2026, 7:39:19 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -583,7 +583,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ワールドイズマインCPK! Remix",
-  "artist": "初音ミク",
+  "artist": "かぐや(cv.夏吉ゆうこ) 月見ヤチヨ(cv.早見沙織)",
   "collection": "歌势推荐：知悠 2026-03-14 WdDhLrM0ek0",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV199whzeE6R?p=10",

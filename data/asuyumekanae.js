@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 3/19/2026, 5:48:43 PM
+// 生成时间: 3/19/2026, 7:38:53 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -622,6 +622,246 @@ window.SONG_DATA.push(
   "source": "asuyumekanae.js"
 },
     {
+  "title": "ルバート",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-01]夏日的终章、8月结束了[Kt5pfSmEJJs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bdAGz5EDk?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "形",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-01]夏日的终章、8月结束了[Kt5pfSmEJJs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bdAGz5EDk?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Make-up Shadow",
+  "artist": "井上陽水",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-01]夏日的终章、8月结束了[Kt5pfSmEJJs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bdAGz5EDk?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ミスター・ブルースカイ",
+  "artist": "マカロニえんぴつ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-01]夏日的终章、8月结束了[Kt5pfSmEJJs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bdAGz5EDk?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "My Generation",
+  "artist": "YUI",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-01]夏日的终章、8月结束了[Kt5pfSmEJJs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bdAGz5EDk?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "SUMMER SONG",
+  "artist": "YUI",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-01]夏日的终章、8月结束了[Kt5pfSmEJJs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bdAGz5EDk?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "花火",
+  "artist": "aiko",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-01]夏日的终章、8月结束了[Kt5pfSmEJJs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bdAGz5EDk?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-01]夏日的终章、8月结束了[Kt5pfSmEJJs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bdAGz5EDk?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ルージュの伝言",
+  "artist": "松任谷由実",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-01]夏日的终章、8月结束了[Kt5pfSmEJJs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bdAGz5EDk?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-01]夏日的终章、8月结束了[Kt5pfSmEJJs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bdAGz5EDk?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "雫",
+  "artist": "スキマスイッチ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-01]夏日的终章、8月结束了[Kt5pfSmEJJs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bdAGz5EDk?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "残ってる",
+  "artist": "吉澤嘉代子",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-01]夏日的终章、8月结束了[Kt5pfSmEJJs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bdAGz5EDk?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "金木犀の夜",
+  "artist": "きのこ帝国",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-01]夏日的终章、8月结束了[Kt5pfSmEJJs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bdAGz5EDk?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "憂一乗",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-01]夏日的终章、8月结束了[Kt5pfSmEJJs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bdAGz5EDk?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "負け犬にアンコールはいらない",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-08]想唱ヨルシカ的「前世」！[WWDPzmy7DgE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDALz5EWP?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "あの夏に咲け",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-08]想唱ヨルシカ的「前世」！[WWDPzmy7DgE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDALz5EWP?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-08]想唱ヨルシカ的「前世」！[WWDPzmy7DgE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDALz5EWP?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-08]想唱ヨルシカ的「前世」！[WWDPzmy7DgE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDALz5EWP?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-08]想唱ヨルシカ的「前世」！[WWDPzmy7DgE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDALz5EWP?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-08]想唱ヨルシカ的「前世」！[WWDPzmy7DgE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDALz5EWP?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ルバート",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-08]想唱ヨルシカ的「前世」！[WWDPzmy7DgE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDALz5EWP?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-08]想唱ヨルシカ的「前世」！[WWDPzmy7DgE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDALz5EWP?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "嘘月",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-08]想唱ヨルシカ的「前世」！[WWDPzmy7DgE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDALz5EWP?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-08]想唱ヨルシカ的「前世」！[WWDPzmy7DgE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDALz5EWP?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-08]想唱ヨルシカ的「前世」！[WWDPzmy7DgE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDALz5EWP?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-08]想唱ヨルシカ的「前世」！[WWDPzmy7DgE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDALz5EWP?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "冬眠",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-08]想唱ヨルシカ的「前世」！[WWDPzmy7DgE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDALz5EWP?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "都落ち",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-08]想唱ヨルシカ的「前世」！[WWDPzmy7DgE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDALz5EWP?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "パレード",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-08]想唱ヨルシカ的「前世」！[WWDPzmy7DgE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDALz5EWP?p=15",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-08]想唱ヨルシカ的「前世」！[WWDPzmy7DgE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDALz5EWP?p=16",
+  "source": "asuyumekanae.js"
+},
+    {
   "title": "雪解け",
   "artist": "Islet",
   "collection": "【明日夢🎸弾き語り歌切】[2026-03-01]有花粉过敏，请多关照[zW5b_ln0fv8]",
@@ -1091,118 +1331,6 @@ window.SONG_DATA.push(
   "collection": "【明日夢🎸弾き語り歌切】[2026-03-18]わ！！！[1pZsyiPAyxg]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ssw6zLEZE?p=29",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "ルバート",
-  "artist": "ヨルシカ",
-  "collection": "【明日夢🎸弾き語り歌切】[2025-09-01]夏日的终章、8月结束了[Kt5pfSmEJJs]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bdAGz5EDk?p=1",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "形",
-  "artist": "ずっと真夜中でいいのに。",
-  "collection": "【明日夢🎸弾き語り歌切】[2025-09-01]夏日的终章、8月结束了[Kt5pfSmEJJs]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bdAGz5EDk?p=2",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "Make-up Shadow",
-  "artist": "井上陽水",
-  "collection": "【明日夢🎸弾き語り歌切】[2025-09-01]夏日的终章、8月结束了[Kt5pfSmEJJs]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bdAGz5EDk?p=3",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "ミスター・ブルースカイ",
-  "artist": "マカロニえんぴつ",
-  "collection": "【明日夢🎸弾き語り歌切】[2025-09-01]夏日的终章、8月结束了[Kt5pfSmEJJs]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bdAGz5EDk?p=4",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "My Generation",
-  "artist": "YUI",
-  "collection": "【明日夢🎸弾き語り歌切】[2025-09-01]夏日的终章、8月结束了[Kt5pfSmEJJs]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bdAGz5EDk?p=5",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "SUMMER SONG",
-  "artist": "YUI",
-  "collection": "【明日夢🎸弾き語り歌切】[2025-09-01]夏日的终章、8月结束了[Kt5pfSmEJJs]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bdAGz5EDk?p=6",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "花火",
-  "artist": "aiko",
-  "collection": "【明日夢🎸弾き語り歌切】[2025-09-01]夏日的终章、8月结束了[Kt5pfSmEJJs]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bdAGz5EDk?p=7",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "若者のすべて",
-  "artist": "フジファブリック",
-  "collection": "【明日夢🎸弾き語り歌切】[2025-09-01]夏日的终章、8月结束了[Kt5pfSmEJJs]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bdAGz5EDk?p=8",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "ルージュの伝言",
-  "artist": "松任谷由実",
-  "collection": "【明日夢🎸弾き語り歌切】[2025-09-01]夏日的终章、8月结束了[Kt5pfSmEJJs]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bdAGz5EDk?p=9",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "変わらないもの",
-  "artist": "奥華子",
-  "collection": "【明日夢🎸弾き語り歌切】[2025-09-01]夏日的终章、8月结束了[Kt5pfSmEJJs]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bdAGz5EDk?p=10",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "雫",
-  "artist": "スキマスイッチ",
-  "collection": "【明日夢🎸弾き語り歌切】[2025-09-01]夏日的终章、8月结束了[Kt5pfSmEJJs]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bdAGz5EDk?p=11",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "残ってる",
-  "artist": "吉澤嘉代子",
-  "collection": "【明日夢🎸弾き語り歌切】[2025-09-01]夏日的终章、8月结束了[Kt5pfSmEJJs]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bdAGz5EDk?p=12",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "金木犀の夜",
-  "artist": "きのこ帝国",
-  "collection": "【明日夢🎸弾き語り歌切】[2025-09-01]夏日的终章、8月结束了[Kt5pfSmEJJs]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bdAGz5EDk?p=13",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "憂一乗",
-  "artist": "ヨルシカ",
-  "collection": "【明日夢🎸弾き語り歌切】[2025-09-01]夏日的终章、8月结束了[Kt5pfSmEJJs]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bdAGz5EDk?p=14",
   "source": "asuyumekanae.js"
 }
 );

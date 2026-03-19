@@ -1,6 +1,6 @@
 // 天ノ譜ステラ - 歌单数据 (多合集汇总)
 // 来源: BV1MEP8z4E1J
-// 生成时间: 3/19/2026, 5:57:39 PM
+// 生成时间: 3/19/2026, 7:45:53 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1211,6 +1211,54 @@ window.SONG_DATA.push(
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=151",
+  "source": "stella.js"
+},
+    {
+  "title": "奏",
+  "artist": "スキマスイッチ",
+  "collection": "【 🍚💫歌切】[2026-03-19]【㊗收益化恢复】周四22时⌚定期直播✨开始！[ZoMaQwSgSzE] 天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XBALzpEc3?p=1",
+  "source": "stella.js"
+},
+    {
+  "title": "from Y to Y",
+  "artist": "ジミーサムP",
+  "collection": "【 🍚💫歌切】[2026-03-19]【㊗收益化恢复】周四22时⌚定期直播✨开始！[ZoMaQwSgSzE] 天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XBALzpEc3?p=2",
+  "source": "stella.js"
+},
+    {
+  "title": "ネトゲ廃人シュプレヒコール",
+  "artist": "さつき が てんこもり",
+  "collection": "【 🍚💫歌切】[2026-03-19]【㊗收益化恢复】周四22时⌚定期直播✨开始！[ZoMaQwSgSzE] 天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XBALzpEc3?p=3",
+  "source": "stella.js"
+},
+    {
+  "title": "ワールドイズマインCPK! Remix",
+  "artist": "かぐや(cv.夏吉ゆうこ) 月見ヤチヨ(cv.早見沙織)",
+  "collection": "【 🍚💫歌切】[2026-03-19]【㊗收益化恢复】周四22时⌚定期直播✨开始！[ZoMaQwSgSzE] 天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XBALzpEc3?p=4",
+  "source": "stella.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "supercell",
+  "collection": "【 🍚💫歌切】[2026-03-19]【㊗收益化恢复】周四22时⌚定期直播✨开始！[ZoMaQwSgSzE] 天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XBALzpEc3?p=5",
+  "source": "stella.js"
+},
+    {
+  "title": "心拍数♯0822",
+  "artist": "蝶々P feat. 初音ミク Append DARK",
+  "collection": "【 🍚💫歌切】[2026-03-19]【㊗收益化恢复】周四22时⌚定期直播✨开始！[ZoMaQwSgSzE] 天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XBALzpEc3?p=6",
   "source": "stella.js"
 }
 );
