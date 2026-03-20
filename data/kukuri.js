@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 3/20/2026, 3:36:41 PM
+// 生成时间: 3/20/2026, 4:34:43 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -779,6 +779,150 @@ window.SONG_DATA.push(
   "collection": "【戸鎖 歌切】[2026-03-17]虽然很短但要尽情歌唱的歌回 #shorts[j6cigyr8RoM] 戸鎖くくり kukuri ch *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UwwRz4Ef2?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "最後の恋",
+  "artist": "奥華子",
+  "collection": "【戸鎖 歌切】[2026-03-20]听说今天昼夜等长，那就来唱歌吧[OmC5ZGr3I-I]  戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZeAHzJEZx?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【戸鎖 歌切】[2026-03-20]听说今天昼夜等长，那就来唱歌吧[OmC5ZGr3I-I]  戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZeAHzJEZx?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【戸鎖 歌切】[2026-03-20]听说今天昼夜等长，那就来唱歌吧[OmC5ZGr3I-I]  戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZeAHzJEZx?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "風を食む",
+  "artist": "ヨルシカ",
+  "collection": "【戸鎖 歌切】[2026-03-20]听说今天昼夜等长，那就来唱歌吧[OmC5ZGr3I-I]  戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZeAHzJEZx?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【戸鎖 歌切】[2026-03-20]听说今天昼夜等长，那就来唱歌吧[OmC5ZGr3I-I]  戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZeAHzJEZx?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【戸鎖 歌切】[2026-03-20]听说今天昼夜等长，那就来唱歌吧[OmC5ZGr3I-I]  戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZeAHzJEZx?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "明日への手紙",
+  "artist": "手嶌葵",
+  "collection": "【戸鎖 歌切】[2026-03-20]听说今天昼夜等长，那就来唱歌吧[OmC5ZGr3I-I]  戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZeAHzJEZx?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "点描の唄",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【戸鎖 歌切】[2026-03-20]听说今天昼夜等长，那就来唱歌吧[OmC5ZGr3I-I]  戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZeAHzJEZx?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ハナミズキ",
+  "artist": "一青窈",
+  "collection": "【戸鎖 歌切】[2026-03-20]听说今天昼夜等长，那就来唱歌吧[OmC5ZGr3I-I]  戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZeAHzJEZx?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "最愛",
+  "artist": "KOH+",
+  "collection": "【戸鎖 歌切】[2026-03-20]听说今天昼夜等长，那就来唱歌吧[OmC5ZGr3I-I]  戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZeAHzJEZx?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "哀歌",
+  "artist": "平井堅",
+  "collection": "【戸鎖 歌切】[2026-03-20]听说今天昼夜等长，那就来唱歌吧[OmC5ZGr3I-I]  戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZeAHzJEZx?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "東京フラッシュ",
+  "artist": "Vaundy",
+  "collection": "【戸鎖 歌切】[2026-03-20]听说今天昼夜等长，那就来唱歌吧[OmC5ZGr3I-I]  戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZeAHzJEZx?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "踊り子",
+  "artist": "Vaundy",
+  "collection": "【戸鎖 歌切】[2026-03-20]听说今天昼夜等长，那就来唱歌吧[OmC5ZGr3I-I]  戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZeAHzJEZx?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "napori",
+  "artist": "Vaundy",
+  "collection": "【戸鎖 歌切】[2026-03-20]听说今天昼夜等长，那就来唱歌吧[OmC5ZGr3I-I]  戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZeAHzJEZx?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "春を告げる",
+  "artist": "yama",
+  "collection": "【戸鎖 歌切】[2026-03-20]听说今天昼夜等长，那就来唱歌吧[OmC5ZGr3I-I]  戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZeAHzJEZx?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ねむるまち",
+  "artist": "くじら feat. yama",
+  "collection": "【戸鎖 歌切】[2026-03-20]听说今天昼夜等长，那就来唱歌吧[OmC5ZGr3I-I]  戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZeAHzJEZx?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【戸鎖 歌切】[2026-03-20]听说今天昼夜等长，那就来唱歌吧[OmC5ZGr3I-I]  戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZeAHzJEZx?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "さくら",
+  "artist": "森山直太朗",
+  "collection": "【戸鎖 歌切】[2026-03-20]听说今天昼夜等长，那就来唱歌吧[OmC5ZGr3I-I]  戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZeAHzJEZx?p=18",
   "source": "kukuri.js"
 }
 );
