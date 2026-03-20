@@ -1,6 +1,6 @@
 // 朱名 - 歌单数据 (多合集汇总)
 // 来源: BV167c2znErj
-// 生成时间: 3/20/2026, 2:47:35 PM
+// 生成时间: 3/20/2026, 3:45:26 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3291,6 +3291,30 @@ window.SONG_DATA.push(
   "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=11",
+  "source": "shuna.js"
+},
+    {
+  "title": "蒼のエーテル",
+  "artist": "ランカ・リー=中島愛",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=12",
+  "source": "shuna.js"
+},
+    {
+  "title": "そうだよ。",
+  "artist": "ランカ・リー=中島愛",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=13",
+  "source": "shuna.js"
+},
+    {
+  "title": "ホシキラ",
+  "artist": "ランカ・リー=中島愛",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=14",
   "source": "shuna.js"
 }
 );
