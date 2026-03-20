@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 3/20/2026, 12:39:36 PM
+// 生成时间: 3/20/2026, 1:58:30 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -20075,6 +20075,94 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】#136[2026-03-18]周三定期歌回！樱花季过得如何～？🌸[8cC22P7M9jM]稀羽すう",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GDwBzSEhd?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】[2026-03-20]在午后等着你呢。[FWUfmFhvQQc] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1epApz2EfY?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【🦢歌切】[2026-03-20]在午后等着你呢。[FWUfmFhvQQc] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1epApz2EfY?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "水平線",
+  "artist": "back number",
+  "collection": "【🦢歌切】[2026-03-20]在午后等着你呢。[FWUfmFhvQQc] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1epApz2EfY?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "SUN",
+  "artist": "星野源",
+  "collection": "【🦢歌切】[2026-03-20]在午后等着你呢。[FWUfmFhvQQc] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1epApz2EfY?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "カザキリ",
+  "artist": "やなぎなぎ",
+  "collection": "【🦢歌切】[2026-03-20]在午后等着你呢。[FWUfmFhvQQc] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1epApz2EfY?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "雪は何色",
+  "artist": "kotoha",
+  "collection": "【🦢歌切】[2026-03-20]在午后等着你呢。[FWUfmFhvQQc] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1epApz2EfY?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "恋は百年戦争",
+  "artist": "相対性理論",
+  "collection": "【🦢歌切】[2026-03-20]在午后等着你呢。[FWUfmFhvQQc] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1epApz2EfY?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ウミユリ海底譚",
+  "artist": "n-buna",
+  "collection": "【🦢歌切】[2026-03-20]在午后等着你呢。[FWUfmFhvQQc] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1epApz2EfY?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Stand By You",
+  "artist": "Official髭男dism",
+  "collection": "【🦢歌切】[2026-03-20]在午后等着你呢。[FWUfmFhvQQc] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1epApz2EfY?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "パラボラ",
+  "artist": "Official髭男dism",
+  "collection": "【🦢歌切】[2026-03-20]在午后等着你呢。[FWUfmFhvQQc] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1epApz2EfY?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "思い出とペトリコール",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】[2026-03-20]在午后等着你呢。[FWUfmFhvQQc] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1epApz2EfY?p=11",
   "source": "suu_usuwa.js"
 }
 );
