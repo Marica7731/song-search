@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ
-// 生成时间: 3/20/2026, 9:29:07 PM
+// 生成时间: 3/20/2026, 10:27:11 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9070,8 +9070,8 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "どこまでも～How Far I'll Go",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "どこまでも ~How Far I'll Go~",
+  "artist": "屋比久知奈",
   "collection": "がびのお部屋 2026-03-04 8fP3sK_OgpE",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtwtzREbp?p=1",
@@ -9127,7 +9127,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "イントゥ・ジ・アンノウン～心のままに",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "広橋真紀子",
   "collection": "がびのお部屋 2026-03-04 8fP3sK_OgpE",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtwtzREbp?p=8",
