@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 3/20/2026, 10:20:50 PM
+// 生成时间: 3/20/2026, 11:21:32 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1147,6 +1147,134 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-03-19]早晨的最佳伴侣！！悠闲杂谈＆歌回🍁✨[5UnDRAHbkr0]紅葉丸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h9AGz1EEs?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "アンダー・ザ・シー",
+  "artist": "PrincessCelesta",
+  "collection": "【🍁歌切】[2026-03-20]听我唱一首!!音乐剧歌曲限定歌回✨[0Fy2PkvgLsg] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o2AxzoEmQ?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "どこまでも～How FarI'll Go～",
+  "artist": "屋比久知奈",
+  "collection": "【🍁歌切】[2026-03-20]听我唱一首!!音乐剧歌曲限定歌回✨[0Fy2PkvgLsg] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o2AxzoEmQ?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Let It Go ～ありのままで～",
+  "artist": "松たか子",
+  "collection": "【🍁歌切】[2026-03-20]听我唱一首!!音乐剧歌曲限定歌回✨[0Fy2PkvgLsg] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o2AxzoEmQ?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "生まれてはじめて",
+  "artist": "fromアナと雪の女王",
+  "collection": "【🍁歌切】[2026-03-20]听我唱一首!!音乐剧歌曲限定歌回✨[0Fy2PkvgLsg] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o2AxzoEmQ?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "アラビアン・ナイト",
+  "artist": "大橋純子&美乃家セントラル・ステイション",
+  "collection": "【🍁歌切】[2026-03-20]听我唱一首!!音乐剧歌曲限定歌回✨[0Fy2PkvgLsg] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o2AxzoEmQ?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "A Whole New World",
+  "artist": "Regina Belle & Peabo Bryson",
+  "collection": "【🍁歌切】[2026-03-20]听我唱一首!!音乐剧歌曲限定歌回✨[0Fy2PkvgLsg] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o2AxzoEmQ?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "フレンド・ライク・ミー",
+  "artist": "SmallWorld",
+  "collection": "【🍁歌切】[2026-03-20]听我唱一首!!音乐剧歌曲限定歌回✨[0Fy2PkvgLsg] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o2AxzoEmQ?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "パート・オブ・ユア・ワールド",
+  "artist": "アリエル",
+  "collection": "【🍁歌切】[2026-03-20]听我唱一首!!音乐剧歌曲限定歌回✨[0Fy2PkvgLsg] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o2AxzoEmQ?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "哀れな人々",
+  "artist": "浦嶋りんこ",
+  "collection": "【🍁歌切】[2026-03-20]听我唱一首!!音乐剧歌曲限定歌回✨[0Fy2PkvgLsg] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o2AxzoEmQ?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Insane",
+  "artist": "BlackGryph0n&Baasik",
+  "collection": "【🍁歌切】[2026-03-20]听我唱一首!!音乐剧歌曲限定歌回✨[0Fy2PkvgLsg] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o2AxzoEmQ?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Stayed Gone",
+  "artist": "ChristianBorle&AmirTalai&JoelPerez&HazbinHotel&AndrewUnderberg",
+  "collection": "【🍁歌切】[2026-03-20]听我唱一首!!音乐剧歌曲限定歌回✨[0Fy2PkvgLsg] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o2AxzoEmQ?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Defying Gravity",
+  "artist": "Cynthia ErivoAriana Grande",
+  "collection": "【🍁歌切】[2026-03-20]听我唱一首!!音乐剧歌曲限定歌回✨[0Fy2PkvgLsg] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o2AxzoEmQ?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Defying Gravity",
+  "artist": "Cynthia ErivoAriana Grande",
+  "collection": "【🍁歌切】[2026-03-20]听我唱一首!!音乐剧歌曲限定歌回✨[0Fy2PkvgLsg] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o2AxzoEmQ?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "トゥモロー",
+  "artist": "石井里奈&森の木児童合唱団",
+  "collection": "【🍁歌切】[2026-03-20]听我唱一首!!音乐剧歌曲限定歌回✨[0Fy2PkvgLsg] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o2AxzoEmQ?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "夢はひそかに",
+  "artist": "高畑充希&城田優",
+  "collection": "【🍁歌切】[2026-03-20]听我唱一首!!音乐剧歌曲限定歌回✨[0Fy2PkvgLsg] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o2AxzoEmQ?p=15",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "So Close ~ そばにいて ~",
+  "artist": "杉浦奎介",
+  "collection": "【🍁歌切】[2026-03-20]听我唱一首!!音乐剧歌曲限定歌回✨[0Fy2PkvgLsg] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o2AxzoEmQ?p=16",
   "source": "momijimaru.js"
 }
 );
