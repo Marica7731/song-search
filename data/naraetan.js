@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr
-// 生成时间: 3/21/2026, 7:19:02 PM
+// 生成时间: 3/21/2026, 8:18:07 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6331,6 +6331,158 @@ window.SONG_DATA.push(
   "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=29",
+  "source": "naraetan.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ハルジオン",
+  "artist": "YOASOBI",
+  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "カントリー・ロード",
+  "artist": "本名陽子",
+  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "シンデレラボーイ",
+  "artist": "Saucy Dog",
+  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "もらい泣き",
+  "artist": "一青窈",
+  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "楓",
+  "artist": "スピッツ",
+  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "灼け落ちない翼",
+  "artist": "多田葵",
+  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "指輪",
+  "artist": "坂本真綾",
+  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "オレンジ",
+  "artist": "7!!",
+  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "remember",
+  "artist": "Uru",
+  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "世界は恋に落ちている",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP",
+  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "つないだ手",
+  "artist": "Lil'B",
+  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "浪漫飛行",
+  "artist": "米米CLUB",
+  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "SOUL TAKER",
+  "artist": "JAM Project",
+  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Catch the Moment",
+  "artist": "LiSA",
+  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=16",
+  "source": "naraetan.js"
+},
+    {
+  "title": "キョリ感",
+  "artist": "ハコニワリリィ",
+  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=17",
+  "source": "naraetan.js"
+},
+    {
+  "title": "恋文",
+  "artist": "Every Little Thing",
+  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=18",
+  "source": "naraetan.js"
+},
+    {
+  "title": "adrenaline!!!",
+  "artist": "TrySail",
+  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=19",
   "source": "naraetan.js"
 }
 );

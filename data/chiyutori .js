@@ -1,6 +1,6 @@
 // 知悠 - 歌单数据 (多合集汇总)
 // 来源: BV1owcoz3Ekw
-// 生成时间: 3/21/2026, 7:17:56 PM
+// 生成时间: 3/21/2026, 8:17:21 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1235,6 +1235,110 @@ window.SONG_DATA.push(
   "collection": "【知悠 歌切】[2026-03-21]超時空要塞Frontier 限定歌回接力！开幕！[uPoG5UTt_Hw]  知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZWAPzPEBM?p=9",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ライオン",
+  "artist": "May'n 中島愛",
+  "collection": "【知悠 歌切】[2026-03-21]悄悄地复仇！！！[lSmMH-QCinU] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XjANzoEmX?p=1",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "アイモ",
+  "artist": "May'n 中島愛",
+  "collection": "【知悠 歌切】[2026-03-21]悄悄地复仇！！！[lSmMH-QCinU] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XjANzoEmX?p=2",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Get it on ～光速クライmax",
+  "artist": "シェリル・ノーム,ランカ・リー",
+  "collection": "【知悠 歌切】[2026-03-21]悄悄地复仇！！！[lSmMH-QCinU] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XjANzoEmX?p=3",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "永遠",
+  "artist": "シェリル・ノーム",
+  "collection": "【知悠 歌切】[2026-03-21]悄悄地复仇！！！[lSmMH-QCinU] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XjANzoEmX?p=4",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "リーベ～幻の光",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【知悠 歌切】[2026-03-21]悄悄地复仇！！！[lSmMH-QCinU] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XjANzoEmX?p=5",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "恋はドッグファイト",
+  "artist": "中島愛",
+  "collection": "【知悠 歌切】[2026-03-21]悄悄地复仇！！！[lSmMH-QCinU] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XjANzoEmX?p=6",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "放課後オーバーフロウ",
+  "artist": "中島愛",
+  "collection": "【知悠 歌切】[2026-03-21]悄悄地复仇！！！[lSmMH-QCinU] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XjANzoEmX?p=7",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "dシュディスタb",
+  "artist": "中島愛&May'n",
+  "collection": "【知悠 歌切】[2026-03-21]悄悄地复仇！！！[lSmMH-QCinU] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XjANzoEmX?p=8",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ゴ～～ジャス",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【知悠 歌切】[2026-03-21]悄悄地复仇！！！[lSmMH-QCinU] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XjANzoEmX?p=9",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "オペリスク",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【知悠 歌切】[2026-03-21]悄悄地复仇！！！[lSmMH-QCinU] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XjANzoEmX?p=10",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ホシキラ",
+  "artist": "ランカ・リー＝中島愛",
+  "collection": "【知悠 歌切】[2026-03-21]悄悄地复仇！！！[lSmMH-QCinU] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XjANzoEmX?p=11",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "SMS小隊の歌～あの娘はエイリアン",
+  "artist": "SMSのみなさん",
+  "collection": "【知悠 歌切】[2026-03-21]悄悄地复仇！！！[lSmMH-QCinU] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XjANzoEmX?p=12",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "シェリルの宇宙兄弟船",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【知悠 歌切】[2026-03-21]悄悄地复仇！！！[lSmMH-QCinU] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XjANzoEmX?p=13",
   "source": "chiyutori .js"
 }
 );
