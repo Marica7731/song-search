@@ -1,6 +1,6 @@
 // 朱名 - 歌单数据 (多合集汇总)
 // 来源: BV167c2znErj
-// 生成时间: 3/21/2026, 4:29:05 PM
+// 生成时间: 3/21/2026, 5:28:52 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3315,6 +3315,118 @@ window.SONG_DATA.push(
   "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=14",
+  "source": "shuna.js"
+},
+    {
+  "title": "心の花を咲かせよう",
+  "artist": "いきものがかり",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=15",
+  "source": "shuna.js"
+},
+    {
+  "title": "ムーンライト伝説",
+  "artist": "DALI",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=16",
+  "source": "shuna.js"
+},
+    {
+  "title": "I remember you",
+  "artist": "YUI",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=17",
+  "source": "shuna.js"
+},
+    {
+  "title": "おどるポンポコリン",
+  "artist": "B.B.クィーンズ",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=18",
+  "source": "shuna.js"
+},
+    {
+  "title": "ハム太郎とっとこうた",
+  "artist": "ハムちゃんず",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=19",
+  "source": "shuna.js"
+},
+    {
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=20",
+  "source": "shuna.js"
+},
+    {
+  "title": "ドラえもんのうた",
+  "artist": "大杉久美子",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=21",
+  "source": "shuna.js"
+},
+    {
+  "title": "アンパンマンのマーチ",
+  "artist": "ドリーミング",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=22",
+  "source": "shuna.js"
+},
+    {
+  "title": "アンパンマンたいそう",
+  "artist": "ドリーミング",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=23",
+  "source": "shuna.js"
+},
+    {
+  "title": "SUMMER SONG",
+  "artist": "YUI",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=24",
+  "source": "shuna.js"
+},
+    {
+  "title": "手のひらを太陽に",
+  "artist": "宮城まり子 & ビクター児童合唱団",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=25",
+  "source": "shuna.js"
+},
+    {
+  "title": "信じる",
+  "artist": "合唱曲",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=26",
+  "source": "shuna.js"
+},
+    {
+  "title": "怪獣のバラード",
+  "artist": "合唱曲",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=27",
+  "source": "shuna.js"
+},
+    {
+  "title": "翼をください",
+  "artist": "合唱曲",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=28",
   "source": "shuna.js"
 }
 );
