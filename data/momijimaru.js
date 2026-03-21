@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 3/21/2026, 2:20:49 PM
+// 生成时间: 3/21/2026, 3:18:57 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1275,6 +1275,182 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-03-20]听我唱一首!!音乐剧歌曲限定歌回✨[0Fy2PkvgLsg] 紅葉丸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o2AxzoEmQ?p=16",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "QUEEN",
+  "artist": "LiSA",
+  "collection": "【🍁歌切】[2026-03-21]反应50万次耐久歌回!!主打暗黑风格曲目💀✨[_eWB8jDRHug] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zzAAzPEhY?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "カートゥーンガール",
+  "artist": "kanaria",
+  "collection": "【🍁歌切】[2026-03-21]反应50万次耐久歌回!!主打暗黑风格曲目💀✨[_eWB8jDRHug] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zzAAzPEhY?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ハローディストピア",
+  "artist": "そらる",
+  "collection": "【🍁歌切】[2026-03-21]反应50万次耐久歌回!!主打暗黑风格曲目💀✨[_eWB8jDRHug] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zzAAzPEhY?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "デーモンロード",
+  "artist": "kanaria&初音ミク",
+  "collection": "【🍁歌切】[2026-03-21]反应50万次耐久歌回!!主打暗黑风格曲目💀✨[_eWB8jDRHug] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zzAAzPEhY?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ハングリーニコル",
+  "artist": "煮ル果実&vflower",
+  "collection": "【🍁歌切】[2026-03-21]反应50万次耐久歌回!!主打暗黑风格曲目💀✨[_eWB8jDRHug] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zzAAzPEhY?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "うっせえわ",
+  "artist": "匿名ミラージュ",
+  "collection": "【🍁歌切】[2026-03-21]反应50万次耐久歌回!!主打暗黑风格曲目💀✨[_eWB8jDRHug] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zzAAzPEhY?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ルーム No.4",
+  "artist": "ふぉるて",
+  "collection": "【🍁歌切】[2026-03-21]反应50万次耐久歌回!!主打暗黑风格曲目💀✨[_eWB8jDRHug] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zzAAzPEhY?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "サイコ",
+  "artist": "超学生",
+  "collection": "【🍁歌切】[2026-03-21]反应50万次耐久歌回!!主打暗黑风格曲目💀✨[_eWB8jDRHug] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zzAAzPEhY?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ビーバー",
+  "artist": "すりぃ&初音ミク",
+  "collection": "【🍁歌切】[2026-03-21]反应50万次耐久歌回!!主打暗黑风格曲目💀✨[_eWB8jDRHug] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zzAAzPEhY?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "哀れな人々",
+  "artist": "浦嶋りんこ",
+  "collection": "【🍁歌切】[2026-03-21]反应50万次耐久歌回!!主打暗黑风格曲目💀✨[_eWB8jDRHug] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zzAAzPEhY?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ラブカ？",
+  "artist": "柊キライ",
+  "collection": "【🍁歌切】[2026-03-21]反应50万次耐久歌回!!主打暗黑风格曲目💀✨[_eWB8jDRHug] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zzAAzPEhY?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ずうっといっしょ！",
+  "artist": "キタニタツヤ",
+  "collection": "【🍁歌切】[2026-03-21]反应50万次耐久歌回!!主打暗黑风格曲目💀✨[_eWB8jDRHug] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zzAAzPEhY?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【🍁歌切】[2026-03-21]反应50万次耐久歌回!!主打暗黑风格曲目💀✨[_eWB8jDRHug] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zzAAzPEhY?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【🍁歌切】[2026-03-21]反应50万次耐久歌回!!主打暗黑风格曲目💀✨[_eWB8jDRHug] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zzAAzPEhY?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "逆光",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-03-21]反应50万次耐久歌回!!主打暗黑风格曲目💀✨[_eWB8jDRHug] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zzAAzPEhY?p=15",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "馬鹿",
+  "artist": "syudou&初音ミク",
+  "collection": "【🍁歌切】[2026-03-21]反应50万次耐久歌回!!主打暗黑风格曲目💀✨[_eWB8jDRHug] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zzAAzPEhY?p=16",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "フィラデルフィア",
+  "artist": "Gero",
+  "collection": "【🍁歌切】[2026-03-21]反应50万次耐久歌回!!主打暗黑风格曲目💀✨[_eWB8jDRHug] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zzAAzPEhY?p=17",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "DOGMA",
+  "artist": "wotaku",
+  "collection": "【🍁歌切】[2026-03-21]反应50万次耐久歌回!!主打暗黑风格曲目💀✨[_eWB8jDRHug] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zzAAzPEhY?p=18",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "うらみのワルツ",
+  "artist": "kikuo",
+  "collection": "【🍁歌切】[2026-03-21]反应50万次耐久歌回!!主打暗黑风格曲目💀✨[_eWB8jDRHug] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zzAAzPEhY?p=19",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "愛して愛して愛して",
+  "artist": "きくお",
+  "collection": "【🍁歌切】[2026-03-21]反应50万次耐久歌回!!主打暗黑风格曲目💀✨[_eWB8jDRHug] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zzAAzPEhY?p=20",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "小夜子",
+  "artist": "みきとP",
+  "collection": "【🍁歌切】[2026-03-21]反应50万次耐久歌回!!主打暗黑风格曲目💀✨[_eWB8jDRHug] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zzAAzPEhY?p=21",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "人間みたいね",
+  "artist": "キタニタツヤ",
+  "collection": "【🍁歌切】[2026-03-21]反应50万次耐久歌回!!主打暗黑风格曲目💀✨[_eWB8jDRHug] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zzAAzPEhY?p=22",
   "source": "momijimaru.js"
 }
 );
