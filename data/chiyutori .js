@@ -1,6 +1,6 @@
 // 知悠 - 歌单数据 (多合集汇总)
 // 来源: BV1owcoz3Ekw
-// 生成时间: 3/21/2026, 5:19:24 PM
+// 生成时间: 3/21/2026, 6:24:10 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1167,7 +1167,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ニンジーン Loves you yeah!",
-  "artist": "ランカ・リー",
+  "artist": "May'n 中島愛",
   "collection": "【知悠 歌切】[2026-03-21]超時空要塞Frontier 限定歌回接力！开幕！[uPoG5UTt_Hw]  知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZWAPzPEBM?p=1",
@@ -1182,7 +1182,7 @@ window.SONG_DATA.push(
   "source": "chiyutori .js"
 },
     {
-  "title": "ライオン",
+  "title": "超時空飯店 娘々 CMソング",
   "artist": "May'n 中島愛",
   "collection": "【知悠 歌切】[2026-03-21]超時空要塞Frontier 限定歌回接力！开幕！[uPoG5UTt_Hw]  知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
@@ -1190,11 +1190,27 @@ window.SONG_DATA.push(
   "source": "chiyutori .js"
 },
     {
-  "title": "虹いろ・クマクマ",
-  "artist": "ランカ・リー",
+  "title": "だるまゼミナール",
+  "artist": "May'n 中島愛",
   "collection": "【知悠 歌切】[2026-03-21]超時空要塞Frontier 限定歌回接力！开幕！[uPoG5UTt_Hw]  知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZWAPzPEBM?p=4",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ライオン",
+  "artist": "May'n 中島愛",
+  "collection": "【知悠 歌切】[2026-03-21]超時空要塞Frontier 限定歌回接力！开幕！[uPoG5UTt_Hw]  知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWAPzPEBM?p=5",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "虹いろ・クマクマ",
+  "artist": "May'n 中島愛",
+  "collection": "【知悠 歌切】[2026-03-21]超時空要塞Frontier 限定歌回接力！开幕！[uPoG5UTt_Hw]  知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWAPzPEBM?p=6",
   "source": "chiyutori .js"
 },
     {
@@ -1202,7 +1218,7 @@ window.SONG_DATA.push(
   "artist": "シェリル・ノーム,ランカ・リー",
   "collection": "【知悠 歌切】[2026-03-21]超時空要塞Frontier 限定歌回接力！开幕！[uPoG5UTt_Hw]  知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZWAPzPEBM?p=5",
+  "link": "https://www.bilibili.com/video/BV1ZWAPzPEBM?p=7",
   "source": "chiyutori .js"
 },
     {
@@ -1210,7 +1226,7 @@ window.SONG_DATA.push(
   "artist": "シェリル・ノーム",
   "collection": "【知悠 歌切】[2026-03-21]超時空要塞Frontier 限定歌回接力！开幕！[uPoG5UTt_Hw]  知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZWAPzPEBM?p=6",
+  "link": "https://www.bilibili.com/video/BV1ZWAPzPEBM?p=8",
   "source": "chiyutori .js"
 },
     {
@@ -1218,7 +1234,7 @@ window.SONG_DATA.push(
   "artist": "シェリル・ノーム",
   "collection": "【知悠 歌切】[2026-03-21]超時空要塞Frontier 限定歌回接力！开幕！[uPoG5UTt_Hw]  知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZWAPzPEBM?p=7",
+  "link": "https://www.bilibili.com/video/BV1ZWAPzPEBM?p=9",
   "source": "chiyutori .js"
 },
     {
@@ -1226,7 +1242,7 @@ window.SONG_DATA.push(
   "artist": "SMSのみなさん",
   "collection": "【知悠 歌切】[2026-03-21]超時空要塞Frontier 限定歌回接力！开幕！[uPoG5UTt_Hw]  知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZWAPzPEBM?p=8",
+  "link": "https://www.bilibili.com/video/BV1ZWAPzPEBM?p=10",
   "source": "chiyutori .js"
 }
 );
