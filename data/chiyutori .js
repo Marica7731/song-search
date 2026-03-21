@@ -1,6 +1,6 @@
 // 知悠 - 歌单数据 (多合集汇总)
 // 来源: BV1owcoz3Ekw
-// 生成时间: 3/21/2026, 11:16:52 AM
+// 生成时间: 3/21/2026, 12:28:42 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1163,6 +1163,62 @@ window.SONG_DATA.push(
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=49",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ニンジーン Loves you yeah!",
+  "artist": "ランカ・リー",
+  "collection": "【知悠 歌切】[2026-03-21]超時空要塞Frontier 限定歌回接力！开幕！[uPoG5UTt_Hw]  知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWAPzPEBM?p=1",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ライオン",
+  "artist": "May'n 中島愛",
+  "collection": "【知悠 歌切】[2026-03-21]超時空要塞Frontier 限定歌回接力！开幕！[uPoG5UTt_Hw]  知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWAPzPEBM?p=2",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "虹いろ・クマクマ",
+  "artist": "ランカ・リー",
+  "collection": "【知悠 歌切】[2026-03-21]超時空要塞Frontier 限定歌回接力！开幕！[uPoG5UTt_Hw]  知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWAPzPEBM?p=3",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Get it on ～光速クライmax",
+  "artist": "シェリル・ノーム,ランカ・リー",
+  "collection": "【知悠 歌切】[2026-03-21]超時空要塞Frontier 限定歌回接力！开幕！[uPoG5UTt_Hw]  知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWAPzPEBM?p=4",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "永遠",
+  "artist": "シェリル・ノーム",
+  "collection": "【知悠 歌切】[2026-03-21]超時空要塞Frontier 限定歌回接力！开幕！[uPoG5UTt_Hw]  知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWAPzPEBM?p=5",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "オベリスク",
+  "artist": "シェリル・ノーム",
+  "collection": "【知悠 歌切】[2026-03-21]超時空要塞Frontier 限定歌回接力！开幕！[uPoG5UTt_Hw]  知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWAPzPEBM?p=6",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "SMS小隊の歌～あの娘はエイリアン",
+  "artist": "SMSのみなさん",
+  "collection": "【知悠 歌切】[2026-03-21]超時空要塞Frontier 限定歌回接力！开幕！[uPoG5UTt_Hw]  知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWAPzPEBM?p=7",
   "source": "chiyutori .js"
 }
 );
