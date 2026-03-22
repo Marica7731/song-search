@@ -1,6 +1,6 @@
 // 天籠りのん - 歌单数据 (多合集汇总)
 // 来源: BV1hw4m1i7qN
-// 生成时间: 3/22/2026, 1:26:27 AM
+// 生成时间: 3/22/2026, 4:18:49 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1894,32 +1894,32 @@ window.SONG_DATA.push(
   "source": "linon.js"
 },
     {
-  "title": "オレンジ-逢坂大河(釘宮理恵), 櫛枝実乃梨(堀江由衣), 川嶋亜美(喜多村英梨)",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "オレンジ",
+  "artist": "逢坂大河(釘宮理恵), 櫛枝実乃梨(堀江由衣), 川嶋亜美(喜多村英梨)",
   "collection": "【Linon ch. 天籠りのん】オレンジ、花に亡霊、恋愛サーキュレーション、晩餐歌【240706】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iLhQekET3?p=1",
   "source": "linon.js"
 },
     {
-  "title": "花に亡霊-ヨルシカ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
   "collection": "【Linon ch. 天籠りのん】オレンジ、花に亡霊、恋愛サーキュレーション、晩餐歌【240706】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iLhQekET3?p=2",
   "source": "linon.js"
 },
     {
-  "title": "恋愛サーキュレーション-千石撫子(花澤香菜)",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "恋愛サーキュレーション",
+  "artist": "千石撫子(花澤香菜)",
   "collection": "【Linon ch. 天籠りのん】オレンジ、花に亡霊、恋愛サーキュレーション、晩餐歌【240706】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iLhQekET3?p=3",
   "source": "linon.js"
 },
     {
-  "title": "晩餐歌-tuki.",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "晩餐歌",
+  "artist": "tuki.",
   "collection": "【Linon ch. 天籠りのん】オレンジ、花に亡霊、恋愛サーキュレーション、晩餐歌【240706】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iLhQekET3?p=4",
