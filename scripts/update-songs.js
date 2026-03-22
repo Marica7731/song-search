@@ -61,16 +61,17 @@ const SINGER_CONFIGS = [
     { bvids: ["BV1JSZHBrEVw"], file: "sakusan", alias: "酢酸 / SAKUSAN" },
     { bvids: ["BV1p1zBBCEZ3"], file: "yoshika", alias: "よしか YOSHIKA" },
     { bvids: ["BV1aDzEBBE3S"], file: "yuri", alias: "優莉 yuri" },
-    { bvids: ["BV1zzZPBsEum"], file: "otomoneruki", alias: "音門るき" },
-    { bvids: ["BV1GXYFzXETo","BV1MPpUzsE1D","BV184W5zeE1Z"], file: "nayuta", alias: "nayuta" },
-    { bvids: ["BV1UCkhBkEon"], file: "MunMosh", alias: "むんもっしゅ" },
-    { bvids: ["BV1eTkKYDENL"], file: "friends", alias: "联动" },
-    { bvids: ["BV11GZtBcEsp","BV1xucZzxEkZ"], file: "others", alias: "非常驻妹妹" },
+    { bvids: ["BV1zzZPBsEum"], file: "otomoneruki", alias: "音門るき" }
     { bvids: ["BV1dGqeYpEuc"], file: "earendel", alias: "厄倫蒂兒" },
     { bvids: ["BV1hw4m1i7qN"], file: "linon", alias: "天籠りのん" },
     { bvids: ["BV1MEP8z4E1J"], file: "stella", alias: "天ノ譜ステラ" },
+    { bvids: ["BV11fQSB2ELX"], file: "hoshiho", alias: "HoshiHo" },
+    { bvids: ["BV167c2znErj"], file: "shuna", alias: "朱名" },
+    { bvids: ["BV1GXYFzXETo","BV1MPpUzsE1D","BV184W5zeE1Z"], file: "nayuta", alias: "nayuta" },
+    { bvids: ["BV1UCkhBkEon"], file: "MunMosh", alias: "むんもっしゅ" },
     { bvids: ["BV117P2zwEuq"], file: "inori", alias: "祈祷" },
-    { bvids: ["BV167c2znErj"], file: "shuna", alias: "朱名" }
+    { bvids: ["BV1eTkKYDENL"], file: "friends", alias: "联动" },
+    { bvids: ["BV11GZtBcEsp","BV1xucZzxEkZ"], file: "others", alias: "非常驻妹妹" },
 ];
 
 const DATA_DIR = path.join(__dirname, '..', 'data');
