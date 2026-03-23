@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据 (多合集汇总)
 // 来源: BV1zzZPBsEum
-// 生成时间: 3/23/2026, 4:52:15 PM
+// 生成时间: 3/23/2026, 5:48:32 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4195,6 +4195,150 @@ window.SONG_DATA.push(
   "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=17",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "はいよろこんで",
+  "artist": "こっちのけんと",
+  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=1",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "GOOD DAY",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=2",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=3",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ゴールデンタイムラバー",
+  "artist": "スキマスイッチ",
+  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=4",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ピースサイン",
+  "artist": "米津玄師",
+  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=5",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "キセキ",
+  "artist": "GReeeeN",
+  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=6",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "I",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=7",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "Pretender",
+  "artist": "Official 髭男dism",
+  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=8",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "クスシキ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=9",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=10",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "イマジネーション",
+  "artist": "SPYAIR",
+  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=11",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=12",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "恋愛サーキュレーション",
+  "artist": "千石撫子",
+  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=13",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ウィーアー！",
+  "artist": "きただにひろし",
+  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=14",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "Happiness",
+  "artist": "嵐",
+  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=15",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "イケナイ太陽",
+  "artist": "ORANGE RANGE",
+  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=16",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "以心電信",
+  "artist": "ORANGE RANGE",
+  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=17",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ようこそジャパリパーク",
+  "artist": "どうぶつビスケッツ×PPP",
+  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=18",
   "source": "otomoneruki.js"
 }
 );

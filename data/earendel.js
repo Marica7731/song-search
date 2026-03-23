@@ -1,6 +1,6 @@
 // 厄倫蒂兒 - 歌单数据 (多合集汇总)
 // 来源: BV1dGqeYpEuc
-// 生成时间: 3/23/2026, 4:52:43 PM
+// 生成时间: 3/23/2026, 5:48:51 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9998,8 +9998,8 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "今はいいんだよ",
-  "artist": "MIMI ft. 可不",
+  "title": "今はいいんだよ。",
+  "artist": "MIMI",
   "collection": "【 Earendel ch. 厄倫蒂兒】2025-05-02 ~ 2025-05-26",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KXB7BsE5v?p=75",
