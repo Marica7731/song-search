@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 3/23/2026, 7:41:45 PM
+// 生成时间: 3/23/2026, 7:57:46 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1235,6 +1235,182 @@ window.SONG_DATA.push(
   "collection": "【明日夢🎸弾き語り歌切】[2025-09-29]稍微[GTWHV_cFUGY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16hXcBvEaY?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-10-05]闪闪发光的弦[rZhIJkSeV1M]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yWXcBgE12?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ブルーベリー・ナイツ",
+  "artist": "マカロニえんぴつ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-10-05]闪闪发光的弦[rZhIJkSeV1M]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yWXcBgE12?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "君はロックを聴かない",
+  "artist": "あいみょん",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-10-05]闪闪发光的弦[rZhIJkSeV1M]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yWXcBgE12?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Good-bye days",
+  "artist": "YUI",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-10-05]闪闪发光的弦[rZhIJkSeV1M]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yWXcBgE12?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "GLORIA",
+  "artist": "YUI",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-10-05]闪闪发光的弦[rZhIJkSeV1M]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yWXcBgE12?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-10-05]闪闪发光的弦[rZhIJkSeV1M]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yWXcBgE12?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ムーンライト伝説",
+  "artist": "DALI",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-10-05]闪闪发光的弦[rZhIJkSeV1M]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yWXcBgE12?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "美しい鰭",
+  "artist": "スピッツ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-10-05]闪闪发光的弦[rZhIJkSeV1M]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yWXcBgE12?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "楓",
+  "artist": "スピッツ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-10-05]闪闪发光的弦[rZhIJkSeV1M]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yWXcBgE12?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "卒業写真",
+  "artist": "松任谷由実",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-10-05]闪闪发光的弦[rZhIJkSeV1M]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yWXcBgE12?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ハッピーエンド",
+  "artist": "back number",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-10-05]闪闪发光的弦[rZhIJkSeV1M]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yWXcBgE12?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "トリセツ",
+  "artist": "西野カナ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-10-05]闪闪发光的弦[rZhIJkSeV1M]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yWXcBgE12?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "グレゴリオ",
+  "artist": "古川本舗",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-10-05]闪闪发光的弦[rZhIJkSeV1M]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yWXcBgE12?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ノマド",
+  "artist": "バルーン",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-10-05]闪闪发光的弦[rZhIJkSeV1M]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yWXcBgE12?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-10-05]闪闪发光的弦[rZhIJkSeV1M]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yWXcBgE12?p=15",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "届かない",
+  "artist": "Saucy Dog",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-10-05]闪闪发光的弦[rZhIJkSeV1M]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yWXcBgE12?p=16",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "またね",
+  "artist": "miwa",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-10-05]闪闪发光的弦[rZhIJkSeV1M]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yWXcBgE12?p=17",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "金木犀の夜",
+  "artist": "きのこ帝国",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-10-05]闪闪发光的弦[rZhIJkSeV1M]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yWXcBgE12?p=18",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "me me she",
+  "artist": "RADWIMPS",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-10-05]闪闪发光的弦[rZhIJkSeV1M]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yWXcBgE12?p=19",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "スノースマイル",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-10-05]闪闪发光的弦[rZhIJkSeV1M]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yWXcBgE12?p=20",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "花の名",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-10-05]闪闪发光的弦[rZhIJkSeV1M]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yWXcBgE12?p=21",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "深海少女",
+  "artist": "ゆうゆ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-10-05]闪闪发光的弦[rZhIJkSeV1M]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yWXcBgE12?p=22",
   "source": "asuyumekanae.js"
 },
     {
