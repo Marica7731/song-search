@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 3/23/2026, 6:41:03 PM
+// 生成时间: 3/23/2026, 7:41:45 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1123,6 +1123,118 @@ window.SONG_DATA.push(
   "collection": "【明日夢🎸弾き語り歌切】[2025-09-26] ヨルシカ歌回 [SjL5dI6N8IY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1P9ALzVEpr?p=16",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "瞬き",
+  "artist": "back number",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-29]稍微[GTWHV_cFUGY]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16hXcBvEaY?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "花",
+  "artist": "SHISHAMO",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-29]稍微[GTWHV_cFUGY]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16hXcBvEaY?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "明日も",
+  "artist": "SHISHAMO",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-29]稍微[GTWHV_cFUGY]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16hXcBvEaY?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "僕に彼女ができたんだ",
+  "artist": "SHISHAMO",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-29]稍微[GTWHV_cFUGY]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16hXcBvEaY?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "夏の恋人",
+  "artist": "SHISHAMO",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-29]稍微[GTWHV_cFUGY]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16hXcBvEaY?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "キンモクセイ",
+  "artist": "オレンジスパイニクラブ",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-29]稍微[GTWHV_cFUGY]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16hXcBvEaY?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "セプテンバーさん",
+  "artist": "RADWIMPS",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-29]稍微[GTWHV_cFUGY]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16hXcBvEaY?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-29]稍微[GTWHV_cFUGY]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16hXcBvEaY?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-29]稍微[GTWHV_cFUGY]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16hXcBvEaY?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ガーネット",
+  "artist": "奥華子",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-29]稍微[GTWHV_cFUGY]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16hXcBvEaY?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "踊り子",
+  "artist": "Vaundy",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-29]稍微[GTWHV_cFUGY]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16hXcBvEaY?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "くだらないの中に",
+  "artist": "星野源",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-29]稍微[GTWHV_cFUGY]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16hXcBvEaY?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "月光浴",
+  "artist": "柴田淳",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-29]稍微[GTWHV_cFUGY]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16hXcBvEaY?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Departures",
+  "artist": "EGOIST",
+  "collection": "【明日夢🎸弾き語り歌切】[2025-09-29]稍微[GTWHV_cFUGY]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16hXcBvEaY?p=14",
   "source": "asuyumekanae.js"
 },
     {
