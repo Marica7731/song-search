@@ -53,7 +53,7 @@ const SINGER_CONFIGS = [
     { bvids: ["BV1owcoz3Ekw"], file: "chiyutori ", alias: "知悠" },
     { bvids: ["BV1R2wQzfEuY"], file: "momijimaru", alias: "紅葉丸" },
     { bvids: ["BV1G4wxzmEV5"], file: "kukuri", alias: "戸鎖くくり" },
-    { bvids: ["BV1G6fLB7Efr"], file: "naraetan", alias: "なれたん Naraetan" },
+    { bvids: ["BV1G6fLB7Efr","BV1J5P7zrEB3"], file: "naraetan", alias: "なれたん Naraetan" },
     { bvids: ["BV1HRfuBCEXN"], file: "figaro", alias: "Figaro" },
     { bvids: ["BV1cofuBGEkX"], file: "ririsya", alias: "凛凛咲 ririsya" },
     { bvids: ["BV1ve411z7Nm"], file: "suu_usuwa", alias: "稀羽すう Suu_Usuwa" },
