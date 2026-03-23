@@ -360,6 +360,13 @@
             color: #00a1d6;
             transform: scale(1.2);
         }
+        .copy-btn-left {
+            left: 0;
+            right: auto;
+        }
+        .title-copy-main {
+            padding-left: 20px;
+        }
         .link-copy-btn {
             top: 50%;
             right: 8px;
@@ -544,16 +551,41 @@
             font-family: monospace;
             color: #495057;
         }
+        .back-top {
+            position: fixed;
+            right: 24px;
+            bottom: 24px;
+            width: 42px;
+            height: 42px;
+            border: none;
+            border-radius: 999px;
+            background: #00a1d6;
+            color: #fff;
+            font-size: 18px;
+            cursor: pointer;
+            box-shadow: 0 6px 16px rgba(0, 161, 214, 0.35);
+            opacity: 0;
+            pointer-events: none;
+            transform: translateY(6px);
+            transition: all 0.2s;
+            z-index: 3000;
+        }
+        .back-top.show {
+            opacity: 1;
+            pointer-events: auto;
+            transform: translateY(0);
+        }
     </style>
 </head>
 <body>
     <h1>🎵 切片歌曲数据查询站</h1>
     <div class="sub-header">
-    系统化管理你的音乐收藏 | 
-    <a href="stats.html" class="nav-link">查看演唱者统计与排行</a> | 
+    首页 |
+    <a href="stats.html" class="nav-link">查看演唱者统计与排行</a> |
     <a href="bv-dup-check.html" class="nav-link">BV号查重</a> |
     <a href="title-artist-dup-check.html" class="nav-link">歌名-歌手查重</a> |
-    <a href="title-artist-check.html" class="nav-link">歌名-歌手查询/校验</a>
+    <a href="title-artist-check.html" class="nav-link">歌名-歌手查询/校验</a> |
+    <a href="song-growth.html" class="nav-link">歌曲增长日报</a>
     </div>
 
     <div class="filter-search-container">
@@ -613,8 +645,9 @@
     <div class="empty-msg" id="empty-msg">❌ 未找到匹配的歌曲</div>
     <ul id="song-list"></ul>
     <div class="pagination" id="pagination"></div>
-
+    
     <div class="copy-toast" id="copy-toast">copy ok!</div>
+    <button class="back-top" id="backTopBtn" type="button" aria-label="回到顶部">↑</button>
 
     <script>
         window.SONG_DATA = [];
@@ -762,8 +795,8 @@
                     const parts = [];
                     if (options.title) parts.push(item.title || '未知歌曲');
                     if (options.artist && isValidArtist(item.artist)) parts.push(item.artist.trim());
-                    if (options.collection) parts.push(`合集:${item.collection || '未知'}`);
-                    if (options.source) parts.push(`来源:${sourceLabel(item)}`);
+                    if (options.collection) parts.push(item.collection || '未知');
+                    if (options.source) parts.push(sourceLabel(item));
                     if (options.link) parts.push(item.link || '');
                     if (options.bvid) parts.push(extractBvid(item.link) || '');
                     return parts.join(separator);
@@ -1120,7 +1153,8 @@
                     const hasValidArtist = isValidArtist(item.artist);
 
                     const titleHtml = `<div class="copy-wrapper">
-                        <div class="song-title">${item.title || '未知歌曲'}</div>
+                        <button class="copy-btn copy-btn-left" data-type="title-artist">📋</button>
+                        <div class="song-title title-copy-main">${item.title || '未知歌曲'}</div>
                         <button class="copy-btn" data-type="title">📋</button>
                     </div>`;
                     
@@ -1171,9 +1205,15 @@
                     const titleCopyBtn = li.querySelector('[data-type="title"]');
                     if (titleCopyBtn) {
                         const title = item.title || '未知歌曲';
+                        titleCopyBtn.onclick = () => copyToClipboard(title);
+                    }
+
+                    const titleArtistCopyBtn = li.querySelector('[data-type="title-artist"]');
+                    if (titleArtistCopyBtn) {
+                        const title = item.title || '未知歌曲';
                         const artist = item.artist?.trim();
                         const copyText = hasValidArtist ? `${title} - ${artist}` : title;
-                        titleCopyBtn.onclick = () => copyToClipboard(copyText);
+                        titleArtistCopyBtn.onclick = () => copyToClipboard(copyText);
                     }
                     
                     const artistCopyBtn = li.querySelector('[data-type="artist"]');
@@ -1355,6 +1395,15 @@
             });
         }
 
+        function initBackTop() {
+            const backTopBtn = document.getElementById('backTopBtn');
+            if (!backTopBtn) return;
+            const updateBackTop = () => backTopBtn.classList.toggle('show', window.scrollY > 260);
+            window.addEventListener('scroll', updateBackTop, { passive: true });
+            backTopBtn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+            updateBackTop();
+        }
+
         async function bootstrap() {
             try {
                 const res = await fetch('data/index.json');
@@ -1390,7 +1439,10 @@
             }
         }
 
-        document.addEventListener('DOMContentLoaded', bootstrap);
+        document.addEventListener('DOMContentLoaded', () => {
+            initBackTop();
+            bootstrap();
+        });
     </script>
 </body>
 </html>

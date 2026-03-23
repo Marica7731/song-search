@@ -41,6 +41,8 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;b
 .bv-tag{display:inline-block;background:#6f42c1;color:#fff;font-size:11px;padding:2px 6px;border-radius:3px}
 .copy-toast{position:fixed;bottom:30px;right:30px;padding:10px 20px;background:rgba(0,0,0,.8);color:#fff;border-radius:4px;font-size:14px;opacity:0;transform:translateY(20px);transition:all .3s;pointer-events:none;z-index:9999}
 .copy-toast.show{opacity:1;transform:translateY(0)}
+.back-top{position:fixed;right:24px;bottom:24px;width:42px;height:42px;border:0;border-radius:999px;background:#00a1d6;color:#fff;font-size:18px;cursor:pointer;box-shadow:0 6px 16px rgba(0,161,214,.35);opacity:0;pointer-events:none;transform:translateY(6px);transition:all .2s;z-index:3000}
+.back-top.show{opacity:1;pointer-events:auto;transform:translateY(0)}
 </style>
 </head>
 <body>
@@ -51,16 +53,18 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;b
   </div>
   <div class="module-nav">
     <a href="index.html">首页</a> |
+    <a href="stats.html">查看演唱者统计与排行</a> |
     <a href="bv-dup-check.html">BV号查重</a> |
     歌名-歌手查重 |
     <a href="title-artist-check.html">歌名-歌手查询/校验</a> |
-    <a href="stats.html">统计页</a>
+    <a href="song-growth.html">歌曲增长日报</a>
   </div>
 
   <div class="search-box">
     <textarea id="titleArtistInput" placeholder="输入格式支持：
-1) 歌名 - 歌手
-2) 01. 歌名 - 歌手
+1) 01. 歌名 - 歌手
+2) 歌名
+3) 歌名 - 歌手
 可批量每行一条"></textarea>
     <button id="searchBtn">开始分析</button>
   </div>
@@ -89,9 +93,17 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;b
   <div class="result-list" id="resultList"></div>
 </div>
 <div class="copy-toast" id="copyToast">复制成功</div>
+<button class="back-top" id="backTopBtn" type="button" aria-label="回到顶部">↑</button>
 <script src="dup-check-core.js"></script>
 <script>
-document.addEventListener('DOMContentLoaded', () => initDupCheckPage('titleArtist'));
+document.addEventListener('DOMContentLoaded', () => {
+  initDupCheckPage('titleArtist');
+  const backTopBtn = document.getElementById('backTopBtn');
+  const updateBackTop = () => backTopBtn.classList.toggle('show', window.scrollY > 260);
+  window.addEventListener('scroll', updateBackTop, { passive: true });
+  backTopBtn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+  updateBackTop();
+});
 </script>
 </body>
 </html>

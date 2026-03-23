@@ -494,6 +494,30 @@
         .toast.error {
             background: linear-gradient(135deg, #ff4d4f 0%, #ff7875 100%);
         }
+        .back-top {
+            position: fixed;
+            right: 24px;
+            bottom: 24px;
+            width: 42px;
+            height: 42px;
+            border: none;
+            border-radius: 999px;
+            background: #00a1d6;
+            color: #fff;
+            font-size: 18px;
+            cursor: pointer;
+            box-shadow: 0 6px 16px rgba(0, 161, 214, 0.35);
+            opacity: 0;
+            pointer-events: none;
+            transform: translateY(6px);
+            transition: all 0.2s;
+            z-index: 3000;
+        }
+        .back-top.show {
+            opacity: 1;
+            pointer-events: auto;
+            transform: translateY(0);
+        }
         @keyframes toastIn {
             from { opacity: 0; transform: translateY(-10px); }
             to { opacity: 1; transform: translateY(0); }
@@ -507,10 +531,12 @@
 <body>
     <h1>📊 歌曲统计与分析</h1>
     <div class="sub-header">
-        查看歌曲出场频率、VTuber合集歌单与歌手分类 | <a href="index.html" class="nav-link">返回歌曲查询站</a> |
+        <a href="index.html" class="nav-link">首页</a> |
+        查看演唱者统计与排行 |
         <a href="bv-dup-check.html" class="nav-link">BV号查重</a> |
         <a href="title-artist-dup-check.html" class="nav-link">歌名-歌手查重</a> |
-        <a href="title-artist-check.html" class="nav-link">歌名-歌手查询/校验</a>
+        <a href="title-artist-check.html" class="nav-link">歌名-歌手查询/校验</a> |
+        <a href="song-growth.html" class="nav-link">歌曲增长日报</a>
     </div>
 
     <!-- Tab 切换器 -->
@@ -591,6 +617,7 @@
 
     <!-- Toast 容器 -->
     <div class="toast-container" id="toast-container"></div>
+    <button class="back-top" id="backTopBtn" type="button" aria-label="回到顶部">↑</button>
 
     <script>
         // 全局数据
@@ -1661,7 +1688,19 @@
             }
         }
 
-        document.addEventListener('DOMContentLoaded', bootstrap);
+        function initBackTop() {
+            const backTopBtn = document.getElementById('backTopBtn');
+            if (!backTopBtn) return;
+            const updateBackTop = () => backTopBtn.classList.toggle('show', window.scrollY > 260);
+            window.addEventListener('scroll', updateBackTop, { passive: true });
+            backTopBtn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+            updateBackTop();
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            initBackTop();
+            bootstrap();
+        });
     </script>
 </body>
 </html>

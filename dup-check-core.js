@@ -37,9 +37,14 @@ function showCopyToast() {
 
 function parseTitleArtistInput(input) {
   if (!input.trim()) return [];
-  const lines = input.split('\n').map(line => line.trim()).filter(Boolean);
-  const fullFormatRegex = /^(\d+)\.\s*(.+?)\s+-\s+(.+)$/;
-  const normalRegex = /^(.+?)\s+-\s+(.+)$/;
+  const lines = input
+    .split('\n')
+    .map(line => line.trim())
+    .filter(Boolean)
+    .map(line => line.replace(/^\|\s*/, '').replace(/\s*\|$/, '').trim())
+    .filter(line => line && !/^[-|]+$/.test(line));
+  const fullFormatRegex = /^(\d+)[\.\)]\s*(.+?)\s*-\s*(.+)$/;
+  const normalRegex = /^(.+?)\s*-\s*(.+)$/;
   const result = [];
 
   lines.forEach(line => {
@@ -229,44 +234,52 @@ function analyzeDuplicates() {
       const titleKey = normalizeText(inputItem.title);
       const artistKey = normalizeText(inputItem.artist);
 
-      let matchedSongs = currentPool.filter(song => normalizeText(song.title) === titleKey);
-      if (inputItem.artist) {
-        matchedSongs = matchedSongs.filter(song => normalizeText(song.artist) === artistKey);
-      }
-
       let dupList = currentPool.filter(song => normalizeText(song.title) === titleKey);
       if (inputItem.artist) {
         dupList = dupList.filter(song => normalizeText(song.artist) === artistKey);
       }
 
-      if (matchedSongs.length === 0) {
+      if (dupList.length === 0) {
         analysisResult.push({
-          isNotFound: true,
+          isNotFound: false,
           originalInput: inputItem.originalLine,
-          song: null,
+          song: {
+            title: inputItem.title || '未知歌曲',
+            artist: inputItem.artist || '',
+            source: '',
+            link: ''
+          },
           dupList: [],
           dupCount: 0,
-          isDup: false
+          isDup: false,
+          isFirst: true
         });
       } else {
         analysisResult.push({
           isNotFound: false,
           originalInput: inputItem.originalLine,
-          song: matchedSongs[0],
+          song: dupList[0],
           dupList,
           dupCount: dupList.length,
-          isDup: dupList.length > 1
+          isDup: true,
+          isFirst: false
         });
       }
     });
   }
 
   const total = analysisResult.length;
-  const notFound = analysisResult.filter(i => i.isNotFound).length;
-  const found = total - notFound;
-  const dup = analysisResult.filter(i => !i.isNotFound && i.isDup).length;
-  const unique = found - dup;
-  updateStat(`总计 ${total} | 找到 ${found} | 未找到 ${notFound} | 重复 ${dup} | 非重复 ${unique} | 当前库 ${getSourceAlias(currentTab)}`);
+  if (currentMode === 'titleArtist') {
+    const first = analysisResult.filter(i => !i.isNotFound && i.isFirst).length;
+    const exists = total - first;
+    updateStat(`总计 ${total} | 已收录 ${exists} | 首次 ${first} | 当前库 ${getSourceAlias(currentTab)}`);
+  } else {
+    const notFound = analysisResult.filter(i => i.isNotFound).length;
+    const found = total - notFound;
+    const dup = analysisResult.filter(i => !i.isNotFound && i.isDup).length;
+    const unique = found - dup;
+    updateStat(`总计 ${total} | 找到 ${found} | 未找到 ${notFound} | 重复 ${dup} | 非重复 ${unique} | 当前库 ${getSourceAlias(currentTab)}`);
+  }
 
   renderSongList();
 }
@@ -287,7 +300,11 @@ function renderSongList() {
 
   let viewItems = analysisResult.slice();
   if (showOnlyUnique) {
-    viewItems = viewItems.filter(item => !item.isNotFound && !item.isDup);
+    if (currentMode === 'titleArtist') {
+      viewItems = viewItems.filter(item => !item.isNotFound && !!item.isFirst);
+    } else {
+      viewItems = viewItems.filter(item => !item.isNotFound && !item.isDup);
+    }
   }
 
   if (viewItems.length === 0) {
@@ -314,17 +331,25 @@ function renderSongList() {
       .map(dup => `<div class="dup-item"><span class="bv-tag">${extractBV(dup.link)}</span>${dup.title} - ${dup.artist || '未知'} | ${getSourceAlias(dup.source)}</div>`)
       .join('');
 
+    const statusTag = currentMode === 'titleArtist'
+      ? (item.isFirst
+        ? '<span class="unique-tag">首次</span>'
+        : `<span class="dup-tag">重复 ${item.dupCount}</span>`)
+      : (item.isDup
+        ? `<span class="dup-tag">重复 ${item.dupCount}</span>`
+        : '<span class="unique-tag">唯一</span>');
+
     card.innerHTML = `
       <div class="song-title">
         ${index + 1}. ${song.title}
-        ${item.isDup ? `<span class="dup-tag">重复 ${item.dupCount}</span>` : '<span class="unique-tag">唯一</span>'}
+        ${statusTag}
       </div>
       <div class="meta-info">
         <div>歌手：${song.artist || '未知'}</div>
-        <div>来源：${getSourceAlias(song.source)}</div>
-        <div>链接：<a href="${song.link}" target="_blank" style="color:#00a1d6;">${song.link}</a></div>
+        <div>来源：${song.source ? getSourceAlias(song.source) : '输入值（库内首次）'}</div>
+        <div>链接：${song.link ? `<a href="${song.link}" target="_blank" style="color:#00a1d6;">${song.link}</a>` : '-'}</div>
       </div>
-      <div class="dup-list">${dupPreview || '<div style="color:#28a745;">当前库无重复项</div>'}</div>
+      <div class="dup-list">${dupPreview || '<div style="color:#28a745;">当前库未收录，记为首次</div>'}</div>
     `;
 
     container.appendChild(card);
@@ -346,7 +371,11 @@ function copyResults() {
 
   let copyData = analysisResult.slice();
   if (onlyUnique) {
-    copyData = copyData.filter(item => !item.isNotFound && !item.isDup);
+    if (currentMode === 'titleArtist') {
+      copyData = copyData.filter(item => !item.isNotFound && !!item.isFirst);
+    } else {
+      copyData = copyData.filter(item => !item.isNotFound && !item.isDup);
+    }
   }
   if (copyData.length === 0) {
     alert('筛选后无可复制项');
@@ -362,9 +391,9 @@ function copyResults() {
       }
       const parts = [];
       if (includeTitle) parts.push(item.song.title || '未知歌曲');
-      if (includeSource) parts.push(`来源:${getSourceAlias(item.song.source)}`);
+      if (includeSource) parts.push(`来源:${item.song.source ? getSourceAlias(item.song.source) : '输入值（库内首次）'}`);
       if (includeLink) parts.push(`链接:${item.song.link}`);
-      if (includeCount) parts.push(`次数:${item.dupCount}`);
+      if (includeCount) parts.push(`次数:${currentMode === 'titleArtist' && item.isFirst ? '首次' : item.dupCount}`);
       content += parts.join(' | ') + '\n';
     });
   } else {
@@ -380,11 +409,11 @@ function copyResults() {
         content += ['未找到', item.originalInput || '未知输入', '', '', '0'].join('\t') + '\n';
         return;
       }
-      const row = [item.isDup ? '重复' : '唯一'];
+      const row = [currentMode === 'titleArtist' ? (item.isFirst ? '首次' : `重复${item.dupCount}`) : (item.isDup ? '重复' : '唯一')];
       if (includeTitle) row.push(item.song.title || '未知歌曲');
-      if (includeSource) row.push(getSourceAlias(item.song.source));
+      if (includeSource) row.push(item.song.source ? getSourceAlias(item.song.source) : '输入值（库内首次）');
       if (includeLink) row.push(item.song.link);
-      if (includeCount) row.push(String(item.dupCount));
+      if (includeCount) row.push(currentMode === 'titleArtist' && item.isFirst ? '首次' : String(item.dupCount));
       content += row.join('\t') + '\n';
     });
   }
