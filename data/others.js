@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ
-// 生成时间: 3/23/2026, 11:47:56 AM
+// 生成时间: 3/23/2026, 12:51:07 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6166,7 +6166,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "今はいいんだよ",
+  "title": "今はいいんだよ。",
   "artist": "MIMI",
   "collection": "CULUA 2025-12-25 ~ 2026-02-12",
   "up": "前尘往事如昔故",
