@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ
-// 生成时间: 3/22/2026, 8:23:54 PM
+// 生成时间: 3/23/2026, 3:29:03 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10227,6 +10227,774 @@ window.SONG_DATA.push(
   "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "弱虫モンブラン",
+  "artist": "GUMI",
+  "collection": "小鳥遊ゆとは 2026-03-10 -O--pKkRIqk",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18qQXBbE6a?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "九月",
+  "artist": "Kalafina",
+  "collection": "小鳥遊ゆとは 2026-03-10 -O--pKkRIqk",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18qQXBbE6a?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "シンフォニー",
+  "artist": "牧野由依",
+  "collection": "小鳥遊ゆとは 2026-03-10 -O--pKkRIqk",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18qQXBbE6a?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "小鳥遊ゆとは 2026-03-10 -O--pKkRIqk",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18qQXBbE6a?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "炎",
+  "artist": "LiSA",
+  "collection": "小鳥遊ゆとは 2026-03-10 -O--pKkRIqk",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18qQXBbE6a?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "fairytale",
+  "artist": "Kalafina",
+  "collection": "小鳥遊ゆとは 2026-03-10 -O--pKkRIqk",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18qQXBbE6a?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "なわとび",
+  "artist": "小泉花陽",
+  "collection": "小鳥遊ゆとは 2026-03-10 -O--pKkRIqk",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18qQXBbE6a?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "LOST",
+  "artist": "萩原雪歩",
+  "collection": "小鳥遊ゆとは 2026-03-10 -O--pKkRIqk",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18qQXBbE6a?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "Blue Moon",
+  "artist": "絢香",
+  "collection": "小鳥遊ゆとは 2026-03-10 -O--pKkRIqk",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18qQXBbE6a?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "楔-くさび-",
+  "artist": "奥華子",
+  "collection": "小鳥遊ゆとは 2026-03-10 -O--pKkRIqk",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18qQXBbE6a?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "猫",
+  "artist": "DISH",
+  "collection": "小鳥遊ゆとは 2026-03-10 -O--pKkRIqk",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18qQXBbE6a?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "トライアングル",
+  "artist": "奥華子×藤田麻衣子",
+  "collection": "小鳥遊ゆとは 2026-03-10 -O--pKkRIqk",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18qQXBbE6a?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "everywhere",
+  "artist": "坂本真綾",
+  "collection": "小鳥遊ゆとは 2026-03-10 -O--pKkRIqk",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18qQXBbE6a?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "囀りのない部屋",
+  "artist": "田村ゆかり",
+  "collection": "小鳥遊ゆとは 2026-03-10 -O--pKkRIqk",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18qQXBbE6a?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "あなたに好きと言われたい",
+  "artist": "奥華子",
+  "collection": "小鳥遊ゆとは 2026-03-10 -O--pKkRIqk",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18qQXBbE6a?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "つないだ手にキスを",
+  "artist": "小林沙苗",
+  "collection": "小鳥遊ゆとは 2026-03-10 -O--pKkRIqk",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18qQXBbE6a?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "Gloria",
+  "artist": "Kalafina",
+  "collection": "小鳥遊ゆとは 2026-03-10 -O--pKkRIqk",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18qQXBbE6a?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "深海少女",
+  "artist": "初音ミク",
+  "collection": "小鳥遊ゆとは 2026-03-10 -O--pKkRIqk",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18qQXBbE6a?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "約束",
+  "artist": "如月千早",
+  "collection": "小鳥遊ゆとは 2026-03-10 -O--pKkRIqk",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18qQXBbE6a?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "モノクロ∞ブルースカイ",
+  "artist": "初音ミク",
+  "collection": "小鳥遊ゆとは 2026-03-10 -O--pKkRIqk",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18qQXBbE6a?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "ウンディーネ",
+  "artist": "牧野由依",
+  "collection": "小鳥遊ゆとは 2026-03-10 -O--pKkRIqk",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18qQXBbE6a?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "恋",
+  "artist": "奥華子",
+  "collection": "小鳥遊ゆとは 2026-03-10 -O--pKkRIqk",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18qQXBbE6a?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "永遠の明日",
+  "artist": "DEEN",
+  "collection": "小鳥遊ゆとは 2026-03-10 -O--pKkRIqk",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18qQXBbE6a?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "蒼い鳥",
+  "artist": "如月千早",
+  "collection": "小鳥遊ゆとは 2026-03-10 -O--pKkRIqk",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18qQXBbE6a?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "私の銀河",
+  "artist": "謎のアイドルX「オルタ」",
+  "collection": "小鳥遊ゆとは 2026-03-10 -O--pKkRIqk",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18qQXBbE6a?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "眠り姫",
+  "artist": "如月千早",
+  "collection": "小鳥遊ゆとは 2026-03-10 -O--pKkRIqk",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18qQXBbE6a?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "猫背",
+  "artist": "坂本真綾",
+  "collection": "小鳥遊ゆとは 2026-03-10 -O--pKkRIqk",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18qQXBbE6a?p=27",
+  "source": "others.js"
+},
+    {
+  "title": "スピラーレ",
+  "artist": "牧野由依",
+  "collection": "小鳥遊ゆとは 2026-03-10 -O--pKkRIqk",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18qQXBbE6a?p=28",
+  "source": "others.js"
+},
+    {
+  "title": "僕たちが恋をする理由",
+  "artist": "坂本真綾",
+  "collection": "小鳥遊ゆとは 2026-03-10 -O--pKkRIqk",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18qQXBbE6a?p=29",
+  "source": "others.js"
+},
+    {
+  "title": "蛍火",
+  "artist": "須藤まゆみ",
+  "collection": "小鳥遊ゆとは 2026-03-10 -O--pKkRIqk",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18qQXBbE6a?p=30",
+  "source": "others.js"
+},
+    {
+  "title": "カザミドリ",
+  "artist": "坂本真綾",
+  "collection": "小鳥遊ゆとは 2026-03-10 -O--pKkRIqk",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18qQXBbE6a?p=31",
+  "source": "others.js"
+},
+    {
+  "title": "永遠のひとつ",
+  "artist": "田村ゆかり",
+  "collection": "小鳥遊ゆとは 2026-03-10 -O--pKkRIqk",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18qQXBbE6a?p=32",
+  "source": "others.js"
+},
+    {
+  "title": "くだらない中に",
+  "artist": "星野源",
+  "collection": "ちゅんちゅんこやぎ 2026-03-14 cwcRpJJzduQ 2026-03-22 RnSi4ACSzxE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vWQXBME2e?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "アゲハ蝶",
+  "artist": "ポルノグラフィティ",
+  "collection": "ちゅんちゅんこやぎ 2026-03-14 cwcRpJJzduQ 2026-03-22 RnSi4ACSzxE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vWQXBME2e?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "モエチャッカファイア",
+  "artist": "弌誠",
+  "collection": "ちゅんちゅんこやぎ 2026-03-14 cwcRpJJzduQ 2026-03-22 RnSi4ACSzxE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vWQXBME2e?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師＆宇多田ヒカル",
+  "collection": "ちゅんちゅんこやぎ 2026-03-14 cwcRpJJzduQ 2026-03-22 RnSi4ACSzxE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vWQXBME2e?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "カーテンコール",
+  "artist": "優里",
+  "collection": "ちゅんちゅんこやぎ 2026-03-14 cwcRpJJzduQ 2026-03-22 RnSi4ACSzxE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vWQXBME2e?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "ホムンクルス",
+  "artist": "Vaundy",
+  "collection": "ちゅんちゅんこやぎ 2026-03-14 cwcRpJJzduQ 2026-03-22 RnSi4ACSzxE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vWQXBME2e?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "君の街まで",
+  "artist": "ASIAN KUNG-FU GENERATION",
+  "collection": "ちゅんちゅんこやぎ 2026-03-14 cwcRpJJzduQ 2026-03-22 RnSi4ACSzxE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vWQXBME2e?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "海岸通り",
+  "artist": "ASIAN KUNG-FU GENERATION",
+  "collection": "ちゅんちゅんこやぎ 2026-03-14 cwcRpJJzduQ 2026-03-22 RnSi4ACSzxE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vWQXBME2e?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "ちゅんちゅんこやぎ 2026-03-14 cwcRpJJzduQ 2026-03-22 RnSi4ACSzxE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vWQXBME2e?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "me me she",
+  "artist": "RADWIMPS",
+  "collection": "ちゅんちゅんこやぎ 2026-03-14 cwcRpJJzduQ 2026-03-22 RnSi4ACSzxE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vWQXBME2e?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "スパークル",
+  "artist": "RADWIMPS",
+  "collection": "ちゅんちゅんこやぎ 2026-03-14 cwcRpJJzduQ 2026-03-22 RnSi4ACSzxE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vWQXBME2e?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "TSUNAMI",
+  "artist": "サザンオールスターズ",
+  "collection": "ちゅんちゅんこやぎ 2026-03-14 cwcRpJJzduQ 2026-03-22 RnSi4ACSzxE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vWQXBME2e?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "桜",
+  "artist": "河口恭吾",
+  "collection": "ちゅんちゅんこやぎ 2026-03-14 cwcRpJJzduQ 2026-03-22 RnSi4ACSzxE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vWQXBME2e?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "遠く遠く",
+  "artist": "槇原敬之",
+  "collection": "ちゅんちゅんこやぎ 2026-03-14 cwcRpJJzduQ 2026-03-22 RnSi4ACSzxE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vWQXBME2e?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "ロビンソン",
+  "artist": "スピッツ",
+  "collection": "ちゅんちゅんこやぎ 2026-03-14 cwcRpJJzduQ 2026-03-22 RnSi4ACSzxE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vWQXBME2e?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "赤いスイートピー",
+  "artist": "松田聖子",
+  "collection": "ちゅんちゅんこやぎ 2026-03-14 cwcRpJJzduQ 2026-03-22 RnSi4ACSzxE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vWQXBME2e?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "森山直太朗",
+  "artist": "さくら",
+  "collection": "ちゅんちゅんこやぎ 2026-03-14 cwcRpJJzduQ 2026-03-22 RnSi4ACSzxE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vWQXBME2e?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "3月9日",
+  "artist": "レミオロメン",
+  "collection": "ちゅんちゅんこやぎ 2026-03-14 cwcRpJJzduQ 2026-03-22 RnSi4ACSzxE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vWQXBME2e?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "なごり雪",
+  "artist": "イルカ",
+  "collection": "ちゅんちゅんこやぎ 2026-03-14 cwcRpJJzduQ 2026-03-22 RnSi4ACSzxE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vWQXBME2e?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "手紙～拝啓 十五の君へ～",
+  "artist": "アンジェラ・アキ",
+  "collection": "ちゅんちゅんこやぎ 2026-03-14 cwcRpJJzduQ 2026-03-22 RnSi4ACSzxE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vWQXBME2e?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "サクラ色",
+  "artist": "アンジェラ・アキ",
+  "collection": "ちゅんちゅんこやぎ 2026-03-14 cwcRpJJzduQ 2026-03-22 RnSi4ACSzxE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vWQXBME2e?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "ちゅんちゅんこやぎ 2026-03-14 cwcRpJJzduQ 2026-03-22 RnSi4ACSzxE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vWQXBME2e?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "ちゅんちゅんこやぎ 2026-03-14 cwcRpJJzduQ 2026-03-22 RnSi4ACSzxE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vWQXBME2e?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "さようなら、花泥棒さん",
+  "artist": "メル",
+  "collection": "ちゅんちゅんこやぎ 2026-03-14 cwcRpJJzduQ 2026-03-22 RnSi4ACSzxE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vWQXBME2e?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "サクラキミワタシ",
+  "artist": "tuki.",
+  "collection": "ちゅんちゅんこやぎ 2026-03-14 cwcRpJJzduQ 2026-03-22 RnSi4ACSzxE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vWQXBME2e?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "Make-up Shadow",
+  "artist": "井上陽水",
+  "collection": "えん 2026-03-22 ozTzjWxKQE4",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EfQXB5Et1?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "オノマトペ",
+  "artist": "羽生まゐご",
+  "collection": "えん 2026-03-22 ozTzjWxKQE4",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EfQXB5Et1?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "シュノーケル",
+  "artist": "文藝天国",
+  "collection": "えん 2026-03-22 ozTzjWxKQE4",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EfQXB5Et1?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "地獄先生",
+  "artist": "相対性理論",
+  "collection": "えん 2026-03-22 ozTzjWxKQE4",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EfQXB5Et1?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "give it back",
+  "artist": "Cö shu Nie",
+  "collection": "えん 2026-03-22 ozTzjWxKQE4",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EfQXB5Et1?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "グラスとラムレーズン",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "えん 2026-03-22 ozTzjWxKQE4",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EfQXB5Et1?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ただ声一つ",
+  "artist": "ロクデナシ",
+  "collection": "えん 2026-03-22 ozTzjWxKQE4",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EfQXB5Et1?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "夢をみせて",
+  "artist": "Cö shu Nie",
+  "collection": "えん 2026-03-22 ozTzjWxKQE4",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EfQXB5Et1?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "Ghost of a smile",
+  "artist": "EGOIST",
+  "collection": "えん 2026-03-22 ozTzjWxKQE4",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EfQXB5Et1?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "深昏睡",
+  "artist": "春野",
+  "collection": "えん 2026-03-22 ozTzjWxKQE4",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EfQXB5Et1?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "あかつき るき 2026-03-22 XJcoJYZvFvg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pXQXBEENT?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "さよならメモリーズ",
+  "artist": "supercell",
+  "collection": "あかつき るき 2026-03-22 XJcoJYZvFvg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pXQXBEENT?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "栞",
+  "artist": "クリープハイプ",
+  "collection": "あかつき るき 2026-03-22 XJcoJYZvFvg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pXQXBEENT?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "桜流し",
+  "artist": "宇多田ヒカル",
+  "collection": "あかつき るき 2026-03-22 XJcoJYZvFvg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pXQXBEENT?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "SAKURA",
+  "artist": "いきものがかり",
+  "collection": "あかつき るき 2026-03-22 XJcoJYZvFvg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pXQXBEENT?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "3月9日",
+  "artist": "レミオロメン",
+  "collection": "あかつき るき 2026-03-22 XJcoJYZvFvg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pXQXBEENT?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "お別れの歌",
+  "artist": "never young beach",
+  "collection": "あかつき るき 2026-03-22 XJcoJYZvFvg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pXQXBEENT?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "melt bitter",
+  "artist": "さとうもか",
+  "collection": "あかつき るき 2026-03-22 XJcoJYZvFvg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pXQXBEENT?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "さよーならまたいつか！",
+  "artist": "米津玄師",
+  "collection": "あかつき るき 2026-03-22 XJcoJYZvFvg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pXQXBEENT?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "楓",
+  "artist": "スピッツ",
+  "collection": "あかつき るき 2026-03-22 XJcoJYZvFvg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pXQXBEENT?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "接吻",
+  "artist": "ORIGINAL LOVE",
+  "collection": "あかつき るき 2026-03-22 XJcoJYZvFvg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pXQXBEENT?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "部屋とYシャツと私",
+  "artist": "平松愛理",
+  "collection": "あかつき るき 2026-03-22 XJcoJYZvFvg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pXQXBEENT?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "はいよろこんで",
+  "artist": "こっちのけんと",
+  "collection": "あかつき るき 2026-03-22 XJcoJYZvFvg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pXQXBEENT?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "桜",
+  "artist": "コブクロ",
+  "collection": "あかつき るき 2026-03-22 XJcoJYZvFvg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pXQXBEENT?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "ここにしか咲かない花",
+  "artist": "コブクロ",
+  "collection": "あかつき るき 2026-03-22 XJcoJYZvFvg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pXQXBEENT?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P",
+  "collection": "あかつき るき 2026-03-22 XJcoJYZvFvg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pXQXBEENT?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "愛を伝えたいだとか",
+  "artist": "あいみょん",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-22 uFO8GvSxPcU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iHQXBzEgU?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "未だ",
+  "artist": "阿部真央",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-22 uFO8GvSxPcU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iHQXBzEgU?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "Sing My Pleasure",
+  "artist": "ヴィヴィ",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-22 uFO8GvSxPcU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iHQXBzEgU?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "Sunday n'AI'ght",
+  "artist": "ロマニードットアイオー",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-22 uFO8GvSxPcU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iHQXBzEgU?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "ミッドナイト・リフレクション",
+  "artist": "NOMELON NOLEMON",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-22 uFO8GvSxPcU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iHQXBzEgU?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "Swallowtail Butterfly～あいのうた～",
+  "artist": "YEN TOWN BAND",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-22 uFO8GvSxPcU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iHQXBzEgU?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "天体観測",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-22 uFO8GvSxPcU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iHQXBzEgU?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "God knows",
+  "artist": "涼宮ハルヒ（平野綾）",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-22 uFO8GvSxPcU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iHQXBzEgU?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "Flavor Of Life",
+  "artist": "宇多田ヒカル",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-22 uFO8GvSxPcU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iHQXBzEgU?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-22 uFO8GvSxPcU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iHQXBzEgU?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "ネムレナイ夜",
+  "artist": "ロマニードットアイオー",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-22 uFO8GvSxPcU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iHQXBzEgU?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-22 uFO8GvSxPcU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iHQXBzEgU?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "イキナクチャ",
+  "artist": "ロマニードットアイオー",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-22 uFO8GvSxPcU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iHQXBzEgU?p=13",
   "source": "others.js"
 }
 );

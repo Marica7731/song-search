@@ -1,6 +1,6 @@
 // 來-Ray- - 歌单数据 (多合集汇总)
 // 来源: BV1mJZwB8EVa
-// 生成时间: 3/22/2026, 8:19:32 PM
+// 生成时间: 3/23/2026, 3:23:11 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3011,6 +3011,182 @@ window.SONG_DATA.push(
   "collection": "【來 歌切】[2026-03-15]久违的歌枠[1YMG2SdUD6Y] -Ray-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gfwgz6E27?p=26",
+  "source": "ray.js"
+},
+    {
+  "title": "曖昧さ回避",
+  "artist": "ポリスピカデリー",
+  "collection": "【來 歌切】[2026-03-22]Super歌枠Time！！[k9XDD7QEJ9w] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XUQSBWEc3?p=1",
+  "source": "ray.js"
+},
+    {
+  "title": "幽霊東京",
+  "artist": "Ayase",
+  "collection": "【來 歌切】[2026-03-22]Super歌枠Time！！[k9XDD7QEJ9w] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XUQSBWEc3?p=2",
+  "source": "ray.js"
+},
+    {
+  "title": "ラブ&デストロイ",
+  "artist": "YUUKI MIYAKE／GUMI",
+  "collection": "【來 歌切】[2026-03-22]Super歌枠Time！！[k9XDD7QEJ9w] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XUQSBWEc3?p=3",
+  "source": "ray.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさP",
+  "collection": "【來 歌切】[2026-03-22]Super歌枠Time！！[k9XDD7QEJ9w] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XUQSBWEc3?p=4",
+  "source": "ray.js"
+},
+    {
+  "title": "木星のビート",
+  "artist": "ナユタン星人 feat. 初音ミク",
+  "collection": "【來 歌切】[2026-03-22]Super歌枠Time！！[k9XDD7QEJ9w] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XUQSBWEc3?p=5",
+  "source": "ray.js"
+},
+    {
+  "title": "花瓶に触れた",
+  "artist": "須田景凪v flower",
+  "collection": "【來 歌切】[2026-03-22]Super歌枠Time！！[k9XDD7QEJ9w] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XUQSBWEc3?p=6",
+  "source": "ray.js"
+},
+    {
+  "title": "侵蝕",
+  "artist": "niki&星界",
+  "collection": "【來 歌切】[2026-03-22]Super歌枠Time！！[k9XDD7QEJ9w] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XUQSBWEc3?p=7",
+  "source": "ray.js"
+},
+    {
+  "title": "烈火",
+  "artist": "niki&初音ミク",
+  "collection": "【來 歌切】[2026-03-22]Super歌枠Time！！[k9XDD7QEJ9w] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XUQSBWEc3?p=8",
+  "source": "ray.js"
+},
+    {
+  "title": "Awake Now",
+  "artist": "雄之助",
+  "collection": "【來 歌切】[2026-03-22]Super歌枠Time！！[k9XDD7QEJ9w] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XUQSBWEc3?p=9",
+  "source": "ray.js"
+},
+    {
+  "title": "crack",
+  "artist": "keeno",
+  "collection": "【來 歌切】[2026-03-22]Super歌枠Time！！[k9XDD7QEJ9w] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XUQSBWEc3?p=10",
+  "source": "ray.js"
+},
+    {
+  "title": "L愛KE",
+  "artist": "梅とら feat. 初音ミク",
+  "collection": "【來 歌切】[2026-03-22]Super歌枠Time！！[k9XDD7QEJ9w] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XUQSBWEc3?p=11",
+  "source": "ray.js"
+},
+    {
+  "title": "LUVORATORRRRRY!",
+  "artist": "GUMI",
+  "collection": "【來 歌切】[2026-03-22]Super歌枠Time！！[k9XDD7QEJ9w] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XUQSBWEc3?p=12",
+  "source": "ray.js"
+},
+    {
+  "title": "ユアライト",
+  "artist": "エキゾチックかまたに feat. 初音ミク",
+  "collection": "【來 歌切】[2026-03-22]Super歌枠Time！！[k9XDD7QEJ9w] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XUQSBWEc3?p=13",
+  "source": "ray.js"
+},
+    {
+  "title": "月陽-ツキアカリ-",
+  "artist": "みきとP feat. GUMI",
+  "collection": "【來 歌切】[2026-03-22]Super歌枠Time！！[k9XDD7QEJ9w] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XUQSBWEc3?p=14",
+  "source": "ray.js"
+},
+    {
+  "title": "アサガオの散る頃に",
+  "artist": "ぷす feat.初音ミク",
+  "collection": "【來 歌切】[2026-03-22]Super歌枠Time！！[k9XDD7QEJ9w] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XUQSBWEc3?p=15",
+  "source": "ray.js"
+},
+    {
+  "title": "8.32",
+  "artist": "*Luna",
+  "collection": "【來 歌切】[2026-03-22]Super歌枠Time！！[k9XDD7QEJ9w] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XUQSBWEc3?p=16",
+  "source": "ray.js"
+},
+    {
+  "title": "Reunion",
+  "artist": "ClariS",
+  "collection": "【來 歌切】[2026-03-22]Super歌枠Time！！[k9XDD7QEJ9w] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XUQSBWEc3?p=17",
+  "source": "ray.js"
+},
+    {
+  "title": "マフィア",
+  "artist": "wotaku&初音ミク",
+  "collection": "【來 歌切】[2026-03-22]Super歌枠Time！！[k9XDD7QEJ9w] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XUQSBWEc3?p=18",
+  "source": "ray.js"
+},
+    {
+  "title": "シネマ",
+  "artist": "Ayase",
+  "collection": "【來 歌切】[2026-03-22]Super歌枠Time！！[k9XDD7QEJ9w] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XUQSBWEc3?p=19",
+  "source": "ray.js"
+},
+    {
+  "title": "恋をしたような",
+  "artist": "EasyPop feat. 巡音ルカ, 初音ミク",
+  "collection": "【來 歌切】[2026-03-22]Super歌枠Time！！[k9XDD7QEJ9w] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XUQSBWEc3?p=20",
+  "source": "ray.js"
+},
+    {
+  "title": "GETCHA!",
+  "artist": "Giga & KIRA feat. 初音ミク & GUMI",
+  "collection": "【來 歌切】[2026-03-22]Super歌枠Time！！[k9XDD7QEJ9w] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XUQSBWEc3?p=21",
+  "source": "ray.js"
+},
+    {
+  "title": "Alienate",
+  "artist": "初音ミク&forute",
+  "collection": "【來 歌切】[2026-03-22]Super歌枠Time！！[k9XDD7QEJ9w] -Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XUQSBWEc3?p=22",
   "source": "ray.js"
 }
 );

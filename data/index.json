@@ -13,15 +13,16 @@
     "yoshika.js",
     "yuri.js",
     "otomoneruki.js",
-    "nayuta.js",
-    "MunMosh.js",
-    "friends.js",
-    "others.js",
     "earendel.js",
     "linon.js",
     "stella.js",
+    "hoshiho.js",
+    "shuna.js",
+    "nayuta.js",
+    "MunMosh.js",
     "inori.js",
-    "shuna.js"
+    "friends.js",
+    "others.js"
   ],
   "fileToAlias": {
     "asuyumekanae": "明日夢かなえ",
@@ -37,14 +38,15 @@
     "yoshika": "よしか YOSHIKA",
     "yuri": "優莉 yuri",
     "otomoneruki": "音門るき",
-    "nayuta": "nayuta",
-    "MunMosh": "むんもっしゅ",
-    "friends": "联动",
-    "others": "非常驻妹妹",
     "earendel": "厄倫蒂兒",
     "linon": "天籠りのん",
     "stella": "天ノ譜ステラ",
+    "hoshiho": "HoshiHo",
+    "shuna": "朱名",
+    "nayuta": "nayuta",
+    "MunMosh": "むんもっしゅ",
     "inori": "祈祷",
-    "shuna": "朱名"
+    "friends": "联动",
+    "others": "非常驻妹妹"
   }
 }
