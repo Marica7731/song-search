@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 3/23/2026, 10:24:33 PM
+// 生成时间: 3/23/2026, 11:26:31 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9407,7 +9407,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "長く短い祭",
-  "artist": "Ringo Sheena",
+  "artist": "椎名林檎",
   "collection": "【 Figaro】新宝島  朧月 砂の惑星【19【241107】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HnD9YdEoJ?p=1",
@@ -9415,7 +9415,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Ham",
-  "artist": "ZUTOMAYO",
+  "artist": "ずっと真夜中でいいのに。",
   "collection": "【 Figaro】新宝島  朧月 砂の惑星【19【241107】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HnD9YdEoJ?p=2",
@@ -9423,7 +9423,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "エイミー",
-  "artist": "Yorushika",
+  "artist": "ヨルシカ",
   "collection": "【 Figaro】新宝島  朧月 砂の惑星【19【241107】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HnD9YdEoJ?p=3",
@@ -9431,7 +9431,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Stay Alive",
-  "artist": "Rie Takahash",
+  "artist": "高橋李依",
   "collection": "【 Figaro】新宝島  朧月 砂の惑星【19【241107】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HnD9YdEoJ?p=4",
@@ -9439,7 +9439,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ミュージック",
-  "artist": "Sakanaction",
+  "artist": "サカナクション",
   "collection": "【 Figaro】新宝島  朧月 砂の惑星【19【241107】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HnD9YdEoJ?p=5",
@@ -9447,7 +9447,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "新宝島",
-  "artist": "sakanaction",
+  "artist": "サカナクション",
   "collection": "【 Figaro】新宝島  朧月 砂の惑星【19【241107】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HnD9YdEoJ?p=6",
@@ -9455,7 +9455,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "三日月サンセット",
-  "artist": "sakanaction",
+  "artist": "サカナクション",
   "collection": "【 Figaro】新宝島  朧月 砂の惑星【19【241107】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HnD9YdEoJ?p=7",
@@ -9463,7 +9463,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "朧月",
-  "artist": "Mafumafu",
+  "artist": "まふまふ",
   "collection": "【 Figaro】新宝島  朧月 砂の惑星【19【241107】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HnD9YdEoJ?p=8",
@@ -9487,7 +9487,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ナーヴ・インパルス",
-  "artist": "Police Piccadilly",
+  "artist": "ポリスピカデリー",
   "collection": "【 Figaro】新宝島  朧月 砂の惑星【19【241107】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HnD9YdEoJ?p=11",
@@ -9511,7 +9511,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ガランド",
-  "artist": "Picon",
+  "artist": "ピコン",
   "collection": "【 Figaro】新宝島  朧月 砂の惑星【19【241107】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HnD9YdEoJ?p=14",
@@ -9519,7 +9519,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "リコレクションエンドロウル",
-  "artist": "Tsumiki",
+  "artist": "ツミキ",
   "collection": "【 Figaro】新宝島  朧月 砂の惑星【19【241107】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HnD9YdEoJ?p=15",
@@ -9527,7 +9527,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "砂の惑星",
-  "artist": "Kenshi Yonezu",
+  "artist": "ハチ",
   "collection": "【 Figaro】新宝島  朧月 砂の惑星【19【241107】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HnD9YdEoJ?p=16",
@@ -9535,7 +9535,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ドーナツホール",
-  "artist": "Kenshi Yonezu",
+  "artist": "ハチ feat. GUMI",
   "collection": "【 Figaro】新宝島  朧月 砂の惑星【19【241107】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HnD9YdEoJ?p=17",
@@ -9543,7 +9543,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "マーシャル・マキシマイザー",
-  "artist": "Hiiragi Magnetite",
+  "artist": "柊マグネタイト feat. 可不",
   "collection": "【 Figaro】新宝島  朧月 砂の惑星【19【241107】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HnD9YdEoJ?p=18",
@@ -9551,7 +9551,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "カルデネ",
-  "artist": "Harumaki Gohan",
+  "artist": "はるまきごはん",
   "collection": "【 Figaro】新宝島  朧月 砂の惑星【19【241107】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HnD9YdEoJ?p=19",
@@ -19630,8 +19630,8 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "アルペジオ -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "アルペジオ",
+  "artist": "『Alexandros』",
   "collection": "【Figaro/弾き語り】音楽合宿 Day2 #バトってふぃがろ オフコラボ！2025年9月18日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11kWTzgEXZ?p=9",
@@ -23030,8 +23030,8 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "アルペジオ -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "アルペジオ",
+  "artist": "『Alexandros』",
   "collection": "【Figaro】2025年12月17日 今日もお疲れ様！明日への元気をチャージする夜の歌。初見さん歓迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WpqLBVEeR?p=13",

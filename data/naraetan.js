@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 3/23/2026, 10:23:59 PM
+// 生成时间: 3/23/2026, 11:26:06 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6142,8 +6142,8 @@ window.SONG_DATA.push(
   "source": "naraetan.js"
 },
     {
-  "title": "ワタリドリ -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ワタリドリ",
+  "artist": "『Alexandros』",
   "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=4",
