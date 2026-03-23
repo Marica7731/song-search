@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 3/23/2026, 5:45:41 PM
+// 生成时间: 3/23/2026, 6:42:52 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6115,6 +6115,142 @@ window.SONG_DATA.push(
   "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=19",
+  "source": "naraetan.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Habit",
+  "artist": "SEKAI NO OWARI",
+  "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "GLAMOROUS SKY",
+  "artist": "中島美嘉",
+  "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ワタリドリ -",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "怪物",
+  "artist": "YOASOBI",
+  "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Grip!",
+  "artist": "Every Little Thing",
+  "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "きみにとどけ",
+  "artist": "タニザワトモフミ",
+  "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "白日",
+  "artist": "King Gnu",
+  "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "DAYBREAK FRONTLINE",
+  "artist": "Orangestar",
+  "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "サムライハート",
+  "artist": "SPYAIR",
+  "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "変わらない場所",
+  "artist": "アリエP",
+  "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "あの夢をなぞって",
+  "artist": "YOASOBI",
+  "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "微笑みの爆弾",
+  "artist": "馬渡松子",
+  "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "White Reflection",
+  "artist": "TWO-MIX",
+  "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "宿命",
+  "artist": "Official髭男dism",
+  "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=16",
+  "source": "naraetan.js"
+},
+    {
+  "title": "いけないボーダーライン",
+  "artist": "ワルキューレ",
+  "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=17",
   "source": "naraetan.js"
 },
     {
