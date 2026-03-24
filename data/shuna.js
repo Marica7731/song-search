@@ -1,6 +1,6 @@
 // 朱名 - 歌单数据 (多合集汇总)
 // 来源: BV167c2znErj
-// 生成时间: 3/24/2026, 5:55:44 PM
+// 生成时间: 3/24/2026, 6:57:12 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3931,6 +3931,198 @@ window.SONG_DATA.push(
   "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=91",
+  "source": "shuna.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=92",
+  "source": "shuna.js"
+},
+    {
+  "title": "アイのシナリオ",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=93",
+  "source": "shuna.js"
+},
+    {
+  "title": "CQCQ",
+  "artist": "神様、僕は気づいてしまった",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=94",
+  "source": "shuna.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=95",
+  "source": "shuna.js"
+},
+    {
+  "title": "メトロノーム",
+  "artist": "米津玄師",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=96",
+  "source": "shuna.js"
+},
+    {
+  "title": "三日月",
+  "artist": "絢香",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=97",
+  "source": "shuna.js"
+},
+    {
+  "title": "平行線",
+  "artist": "さユり",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=98",
+  "source": "shuna.js"
+},
+    {
+  "title": "Iʼll be",
+  "artist": "YUI",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=99",
+  "source": "shuna.js"
+},
+    {
+  "title": "Good-bye days",
+  "artist": "YUI for 雨音 薫",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=100",
+  "source": "shuna.js"
+},
+    {
+  "title": "トゥインクル",
+  "artist": "Junky feat. 鏡音リン",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=101",
+  "source": "shuna.js"
+},
+    {
+  "title": "赤い糸",
+  "artist": "コブクロ",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=102",
+  "source": "shuna.js"
+},
+    {
+  "title": "Zoetrope",
+  "artist": "やなぎなぎ",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=103",
+  "source": "shuna.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=104",
+  "source": "shuna.js"
+},
+    {
+  "title": "アナタノオト",
+  "artist": "ランカ・リー=中島愛",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=105",
+  "source": "shuna.js"
+},
+    {
+  "title": "高嶺の花子さん",
+  "artist": "back number",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=106",
+  "source": "shuna.js"
+},
+    {
+  "title": "わたがし",
+  "artist": "back number",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=107",
+  "source": "shuna.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=108",
+  "source": "shuna.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=109",
+  "source": "shuna.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=110",
+  "source": "shuna.js"
+},
+    {
+  "title": "ありがとう",
+  "artist": "いきものがかり",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=111",
+  "source": "shuna.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=112",
+  "source": "shuna.js"
+},
+    {
+  "title": "群青",
+  "artist": "YOASOBI",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=113",
+  "source": "shuna.js"
+},
+    {
+  "title": "愛唄〜since 2007〜",
+  "artist": "whiteeeen",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=114",
+  "source": "shuna.js"
+},
+    {
+  "title": "キセキ",
+  "artist": "GReeeeN",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=115",
   "source": "shuna.js"
 }
 );
