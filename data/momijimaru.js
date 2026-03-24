@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 3/24/2026, 11:41:18 AM
+// 生成时间: 3/24/2026, 12:48:21 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1451,6 +1451,118 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-03-21]反应50万次耐久歌回!!主打暗黑风格曲目💀✨[_eWB8jDRHug] 紅葉丸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzAAzPEhY?p=22",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "朝ごはんの歌",
+  "artist": "手嶌葵",
+  "collection": "【🍁歌切】[2026-03-24]来当早上的伴侣吧!!悠闲闲聊＆歌回🍁✨[038pREvvt4Y] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NEQBBjEJG?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Arrietty’s Song",
+  "artist": "Cécile Corbel",
+  "collection": "【🍁歌切】[2026-03-24]来当早上的伴侣吧!!悠闲闲聊＆歌回🍁✨[038pREvvt4Y] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NEQBBjEJG?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団 feat. 安次嶺希和子",
+  "collection": "【🍁歌切】[2026-03-24]来当早上的伴侣吧!!悠闲闲聊＆歌回🍁✨[038pREvvt4Y] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NEQBBjEJG?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【🍁歌切】[2026-03-24]来当早上的伴侣吧!!悠闲闲聊＆歌回🍁✨[038pREvvt4Y] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NEQBBjEJG?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "タイムパラどックス",
+  "artist": "Vaundy",
+  "collection": "【🍁歌切】[2026-03-24]来当早上的伴侣吧!!悠闲闲聊＆歌回🍁✨[038pREvvt4Y] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NEQBBjEJG?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "flos",
+  "artist": "R Sound Design",
+  "collection": "【🍁歌切】[2026-03-24]来当早上的伴侣吧!!悠闲闲聊＆歌回🍁✨[038pREvvt4Y] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NEQBBjEJG?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "オーダーメイド",
+  "artist": "RADWIMPS",
+  "collection": "【🍁歌切】[2026-03-24]来当早上的伴侣吧!!悠闲闲聊＆歌回🍁✨[038pREvvt4Y] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NEQBBjEJG?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ゆめゆめ",
+  "artist": "DECO_27&初音ミク",
+  "collection": "【🍁歌切】[2026-03-24]来当早上的伴侣吧!!悠闲闲聊＆歌回🍁✨[038pREvvt4Y] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NEQBBjEJG?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "夜桜",
+  "artist": "くじら feat. めいちゃん",
+  "collection": "【🍁歌切】[2026-03-24]来当早上的伴侣吧!!悠闲闲聊＆歌回🍁✨[038pREvvt4Y] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NEQBBjEJG?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "No Logic",
+  "artist": "ジミーサムP feat. 巡音ルカ",
+  "collection": "【🍁歌切】[2026-03-24]来当早上的伴侣吧!!悠闲闲聊＆歌回🍁✨[038pREvvt4Y] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NEQBBjEJG?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍁歌切】[2026-03-24]来当早上的伴侣吧!!悠闲闲聊＆歌回🍁✨[038pREvvt4Y] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NEQBBjEJG?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "クダリ",
+  "artist": "Mrs.GREENAPPLE",
+  "collection": "【🍁歌切】[2026-03-24]来当早上的伴侣吧!!悠闲闲聊＆歌回🍁✨[038pREvvt4Y] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NEQBBjEJG?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "エンジョイ",
+  "artist": "Mey-chan",
+  "collection": "【🍁歌切】[2026-03-24]来当早上的伴侣吧!!悠闲闲聊＆歌回🍁✨[038pREvvt4Y] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NEQBBjEJG?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "すみれ色の紅",
+  "artist": "紅葉丸チャンネル",
+  "collection": "【🍁歌切】[2026-03-24]来当早上的伴侣吧!!悠闲闲聊＆歌回🍁✨[038pREvvt4Y] 紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NEQBBjEJG?p=14",
   "source": "momijimaru.js"
 }
 );
