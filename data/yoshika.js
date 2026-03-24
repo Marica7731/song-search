@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 3/24/2026, 7:52:16 PM
+// 生成时间: 3/24/2026, 8:37:21 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -28323,6 +28323,102 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-03-20]初見大募集！ [hoQXHNA11A8] YOSHIKA よしか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV153AxzQEVV?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春",
+  "collection": "【🍠🦍歌切】[2026-03-24]初見大募集！[e4Wkj4SkDDc] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14WQkBtESs?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アローラ!!",
+  "artist": "松本梨香",
+  "collection": "【🍠🦍歌切】[2026-03-24]初見大募集！[e4Wkj4SkDDc] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14WQkBtESs?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-03-24]初見大募集！[e4Wkj4SkDDc] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14WQkBtESs?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "中島愛",
+  "collection": "【🍠🦍歌切】[2026-03-24]初見大募集！[e4Wkj4SkDDc] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14WQkBtESs?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Queens Bluff",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-03-24]初見大募集！[e4Wkj4SkDDc] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14WQkBtESs?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "恋は渾沌の隷也",
+  "artist": "後ろから這いより隊G",
+  "collection": "【🍠🦍歌切】[2026-03-24]初見大募集！[e4Wkj4SkDDc] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14WQkBtESs?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "破滅の純情",
+  "artist": "ワルキューレ",
+  "collection": "【🍠🦍歌切】[2026-03-24]初見大募集！[e4Wkj4SkDDc] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14WQkBtESs?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ムーンライト伝説",
+  "artist": "DALI",
+  "collection": "【🍠🦍歌切】[2026-03-24]初見大募集！[e4Wkj4SkDDc] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14WQkBtESs?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "太陽の楽園～Promised Land",
+  "artist": "神戸みゆき",
+  "collection": "【🍠🦍歌切】[2026-03-24]初見大募集！[e4Wkj4SkDDc] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14WQkBtESs?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "departure",
+  "artist": "小野正利",
+  "collection": "【🍠🦍歌切】[2026-03-24]初見大募集！[e4Wkj4SkDDc] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14WQkBtESs?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "マツケンサンバⅡ",
+  "artist": "松平健",
+  "collection": "【🍠🦍歌切】[2026-03-24]初見大募集！[e4Wkj4SkDDc] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14WQkBtESs?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "天城越え",
+  "artist": "石川さゆり",
+  "collection": "【🍠🦍歌切】[2026-03-24]初見大募集！[e4Wkj4SkDDc] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14WQkBtESs?p=12",
   "source": "yoshika.js"
 }
 );
