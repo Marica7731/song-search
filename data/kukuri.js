@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 3/24/2026, 3:59:52 PM
+// 生成时间: 3/24/2026, 5:50:26 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -923,6 +923,182 @@ window.SONG_DATA.push(
   "collection": "【戸鎖 歌切】[2026-03-20]听说今天昼夜等长，那就来唱歌吧[OmC5ZGr3I-I]  戸鎖くくり kukuri ch *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZeAHzJEZx?p=18",
+  "source": "kukuri.js"
+},
+    {
+  "title": "恋愛写真",
+  "artist": "大塚愛",
+  "collection": "【戸鎖 歌切】 [2026-03-24]只决定要做歌回・・・[Ut3TKdk1AdE]戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iFQ6BKE7X?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "黒毛和牛上塩タン焼680円",
+  "artist": "大塚愛",
+  "collection": "【戸鎖 歌切】 [2026-03-24]只决定要做歌回・・・[Ut3TKdk1AdE]戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iFQ6BKE7X?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "瞳",
+  "artist": "aiko",
+  "collection": "【戸鎖 歌切】 [2026-03-24]只决定要做歌回・・・[Ut3TKdk1AdE]戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iFQ6BKE7X?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "KissHug",
+  "artist": "aiko",
+  "collection": "【戸鎖 歌切】 [2026-03-24]只决定要做歌回・・・[Ut3TKdk1AdE]戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iFQ6BKE7X?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "【戸鎖 歌切】 [2026-03-24]只决定要做歌回・・・[Ut3TKdk1AdE]戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iFQ6BKE7X?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "キラキラ",
+  "artist": "aiko",
+  "collection": "【戸鎖 歌切】 [2026-03-24]只决定要做歌回・・・[Ut3TKdk1AdE]戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iFQ6BKE7X?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "恋をしたのは",
+  "artist": "aiko",
+  "collection": "【戸鎖 歌切】 [2026-03-24]只决定要做歌回・・・[Ut3TKdk1AdE]戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iFQ6BKE7X?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "スター",
+  "artist": "aiko",
+  "collection": "【戸鎖 歌切】 [2026-03-24]只决定要做歌回・・・[Ut3TKdk1AdE]戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iFQ6BKE7X?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "シンデレラボーイ",
+  "artist": "Saucy Dog",
+  "collection": "【戸鎖 歌切】 [2026-03-24]只决定要做歌回・・・[Ut3TKdk1AdE]戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iFQ6BKE7X?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "赤い糸",
+  "artist": "コブクロ",
+  "collection": "【戸鎖 歌切】 [2026-03-24]只决定要做歌回・・・[Ut3TKdk1AdE]戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iFQ6BKE7X?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ボクノート",
+  "artist": "スキマスイッチ",
+  "collection": "【戸鎖 歌切】 [2026-03-24]只决定要做歌回・・・[Ut3TKdk1AdE]戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iFQ6BKE7X?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "奏",
+  "artist": "スキマスイッチ",
+  "collection": "【戸鎖 歌切】 [2026-03-24]只决定要做歌回・・・[Ut3TKdk1AdE]戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iFQ6BKE7X?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ダイアモンド クレバス",
+  "artist": "May'n",
+  "collection": "【戸鎖 歌切】 [2026-03-24]只决定要做歌回・・・[Ut3TKdk1AdE]戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iFQ6BKE7X?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Magia",
+  "artist": "Kalafina",
+  "collection": "【戸鎖 歌切】 [2026-03-24]只决定要做歌回・・・[Ut3TKdk1AdE]戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iFQ6BKE7X?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "sprinter",
+  "artist": "Kalafina",
+  "collection": "【戸鎖 歌切】 [2026-03-24]只决定要做歌回・・・[Ut3TKdk1AdE]戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iFQ6BKE7X?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "oblivious",
+  "artist": "Kalafina",
+  "collection": "【戸鎖 歌切】 [2026-03-24]只决定要做歌回・・・[Ut3TKdk1AdE]戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iFQ6BKE7X?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "傷跡",
+  "artist": "Kalafina",
+  "collection": "【戸鎖 歌切】 [2026-03-24]只决定要做歌回・・・[Ut3TKdk1AdE]戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iFQ6BKE7X?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "修羅場",
+  "artist": "東京事変",
+  "collection": "【戸鎖 歌切】 [2026-03-24]只决定要做歌回・・・[Ut3TKdk1AdE]戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iFQ6BKE7X?p=18",
+  "source": "kukuri.js"
+},
+    {
+  "title": "金魚の箱",
+  "artist": "東京事変",
+  "collection": "【戸鎖 歌切】 [2026-03-24]只决定要做歌回・・・[Ut3TKdk1AdE]戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iFQ6BKE7X?p=19",
+  "source": "kukuri.js"
+},
+    {
+  "title": "禁じられた遊び",
+  "artist": "東京事変",
+  "collection": "【戸鎖 歌切】 [2026-03-24]只决定要做歌回・・・[Ut3TKdk1AdE]戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iFQ6BKE7X?p=20",
+  "source": "kukuri.js"
+},
+    {
+  "title": "勘冴えて悔しいわ",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【戸鎖 歌切】 [2026-03-24]只决定要做歌回・・・[Ut3TKdk1AdE]戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iFQ6BKE7X?p=21",
+  "source": "kukuri.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【戸鎖 歌切】 [2026-03-24]只决定要做歌回・・・[Ut3TKdk1AdE]戸鎖くくり kukuri ch *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iFQ6BKE7X?p=22",
   "source": "kukuri.js"
 }
 );

@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ
-// 生成时间: 3/24/2026, 4:08:52 PM
+// 生成时间: 3/24/2026, 5:58:32 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10995,6 +10995,142 @@ window.SONG_DATA.push(
   "collection": "歌势推荐：ロマニードットアイオー 2026-03-22 uFO8GvSxPcU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iHQXBzEgU?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "貴方の恋人になりたい",
+  "artist": "チョーキューメイ",
+  "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "アポリア",
+  "artist": "ヨルシカ",
+  "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "Sincerely",
+  "artist": "TRUE",
+  "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "脳裏上のクラッカー",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "だってアタシのヒーロー。",
+  "artist": "LiSA",
+  "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "瞳の欠片",
+  "artist": "FictionJunction YUUKA",
+  "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "晴れ",
+  "artist": "ヨルシカ",
+  "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "courage",
+  "artist": "戸松遥",
+  "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "Honey sweet tea time",
+  "artist": "放課後ティータイム",
+  "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "夢灯籠",
+  "artist": "RADWIMPS",
+  "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "月光",
+  "artist": "鬼束ちひろ",
+  "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "ひとりごつ",
+  "artist": "ハチワレ",
+  "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=17",
   "source": "others.js"
 }
 );
