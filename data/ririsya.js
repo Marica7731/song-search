@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 3/25/2026, 1:18:55 AM
+// 生成时间: 3/25/2026, 4:14:27 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -13851,6 +13851,158 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-03-11] 钢琴伴奏的睡眠导入歌回 [XdFoXShxKHY] 凛々咲 Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1x7wwziE4X?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "天球、彗星は夜を跨いで",
+  "artist": "星街すいせい",
+  "collection": "【🐍歌切】[2026-03-24]身体恢复了歌回✧[ioQlpADpjio] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12CQrBRECh?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "春を告げる",
+  "artist": "yama",
+  "collection": "【🐍歌切】[2026-03-24]身体恢复了歌回✧[ioQlpADpjio] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12CQrBRECh?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "春の歌",
+  "artist": "スピッツ",
+  "collection": "【🐍歌切】[2026-03-24]身体恢复了歌回✧[ioQlpADpjio] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12CQrBRECh?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "君はロックを聴かない",
+  "artist": "あいみょん",
+  "collection": "【🐍歌切】[2026-03-24]身体恢复了歌回✧[ioQlpADpjio] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12CQrBRECh?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "愛を伝えたいだとか",
+  "artist": "あいみょん",
+  "collection": "【🐍歌切】[2026-03-24]身体恢复了歌回✧[ioQlpADpjio] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12CQrBRECh?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "トリノコシティ",
+  "artist": "40mP",
+  "collection": "【🐍歌切】[2026-03-24]身体恢复了歌回✧[ioQlpADpjio] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12CQrBRECh?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "シリョクケンサ",
+  "artist": "40mP",
+  "collection": "【🐍歌切】[2026-03-24]身体恢复了歌回✧[ioQlpADpjio] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12CQrBRECh?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "アスノヨゾラ哨戒班",
+  "artist": "Orangestar",
+  "collection": "【🐍歌切】[2026-03-24]身体恢复了歌回✧[ioQlpADpjio] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12CQrBRECh?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P",
+  "collection": "【🐍歌切】[2026-03-24]身体恢复了歌回✧[ioQlpADpjio] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12CQrBRECh?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Wherever you are",
+  "artist": "ONE OK ROCK",
+  "collection": "【🐍歌切】[2026-03-24]身体恢复了歌回✧[ioQlpADpjio] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12CQrBRECh?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ひこうき雲",
+  "artist": "松任谷由実",
+  "collection": "【🐍歌切】[2026-03-24]身体恢复了歌回✧[ioQlpADpjio] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12CQrBRECh?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "時には昔の話を",
+  "artist": "加藤登紀子",
+  "collection": "【🐍歌切】[2026-03-24]身体恢复了歌回✧[ioQlpADpjio] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12CQrBRECh?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Flavor Of Life",
+  "artist": "宇多田ヒカル",
+  "collection": "【🐍歌切】[2026-03-24]身体恢复了歌回✧[ioQlpADpjio] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12CQrBRECh?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【🐍歌切】[2026-03-24]身体恢复了歌回✧[ioQlpADpjio] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12CQrBRECh?p=14",
+  "source": "ririsya.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "【🐍歌切】[2026-03-24]身体恢复了歌回✧[ioQlpADpjio] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12CQrBRECh?p=15",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Blue Jeans",
+  "artist": "HANA",
+  "collection": "【🐍歌切】[2026-03-24]身体恢复了歌回✧[ioQlpADpjio] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12CQrBRECh?p=16",
+  "source": "ririsya.js"
+},
+    {
+  "title": "3時12分",
+  "artist": "TAKU INOUE ＆ 星街すいせい",
+  "collection": "【🐍歌切】[2026-03-24]身体恢复了歌回✧[ioQlpADpjio] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12CQrBRECh?p=17",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Andromeda",
+  "artist": "星街すいせい",
+  "collection": "【🐍歌切】[2026-03-24]身体恢复了歌回✧[ioQlpADpjio] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12CQrBRECh?p=18",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Re,Future",
+  "artist": "凛々咲",
+  "collection": "【🐍歌切】[2026-03-24]身体恢复了歌回✧[ioQlpADpjio] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12CQrBRECh?p=19",
   "source": "ririsya.js"
 }
 );

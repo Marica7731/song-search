@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 3/25/2026, 1:16:27 AM
+// 生成时间: 3/25/2026, 4:11:40 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1411,6 +1411,126 @@ window.SONG_DATA.push(
   "collection": "【明日夢🎸弾き語り歌切】[2025-10-05]闪闪发光的弦[rZhIJkSeV1M]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yWXcBgE12?p=22",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ブルーベリー・ナイツ",
+  "artist": "マカロニえんぴつ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-01-26]晚了点[kbkisZsjiWs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iVQ2BDEaf?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ミスター・ブルースカイ",
+  "artist": "マカロニえんぴつ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-01-26]晚了点[kbkisZsjiWs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iVQ2BDEaf?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ユー！",
+  "artist": "ヤユヨ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-01-26]晚了点[kbkisZsjiWs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iVQ2BDEaf?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "あばよ、",
+  "artist": "ヤユヨ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-01-26]晚了点[kbkisZsjiWs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iVQ2BDEaf?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "今日くらいは",
+  "artist": "TETORA",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-01-26]晚了点[kbkisZsjiWs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iVQ2BDEaf?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ずるい人",
+  "artist": "TETORA",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-01-26]晚了点[kbkisZsjiWs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iVQ2BDEaf?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ワンダー",
+  "artist": "tayori",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-01-26]晚了点[kbkisZsjiWs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iVQ2BDEaf?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "花がら",
+  "artist": "tayori",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-01-26]晚了点[kbkisZsjiWs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iVQ2BDEaf?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "第一夜",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-01-26]晚了点[kbkisZsjiWs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iVQ2BDEaf?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-01-26]晚了点[kbkisZsjiWs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iVQ2BDEaf?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "嘘月",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-01-26]晚了点[kbkisZsjiWs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iVQ2BDEaf?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "風を食む",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-01-26]晚了点[kbkisZsjiWs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iVQ2BDEaf?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono!",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-01-26]晚了点[kbkisZsjiWs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iVQ2BDEaf?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "KissHug",
+  "artist": "aiko",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-01-26]晚了点[kbkisZsjiWs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iVQ2BDEaf?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "くだらないの中に",
+  "artist": "星野源",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-01-26]晚了点[kbkisZsjiWs]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iVQ2BDEaf?p=15",
   "source": "asuyumekanae.js"
 },
     {

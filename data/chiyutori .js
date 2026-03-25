@@ -1,6 +1,6 @@
 // 知悠 - 歌单数据 (多合集汇总)
 // 来源: BV1owcoz3Ekw
-// 生成时间: 3/25/2026, 1:16:58 AM
+// 生成时间: 3/25/2026, 4:11:52 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1339,6 +1339,318 @@ window.SONG_DATA.push(
   "collection": "【知悠 歌切】[2026-03-21]悄悄地复仇！！！[lSmMH-QCinU] 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XjANzoEmX?p=13",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "歌よ",
+  "artist": "Belle",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=1",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "U",
+  "artist": "millennium parade × Belle",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=2",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ココロオドル",
+  "artist": "nobodyknows+",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=3",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ライオン",
+  "artist": "May'n 中島愛",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=4",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "革命道中 On The Way",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=5",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ダイヤモンドクレバス",
+  "artist": "シェリル・ノーム",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=6",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "超時空飯店 娘々 CMソング -",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=7",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ユニバーサル・バニー",
+  "artist": "シェリル・ノーム",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=8",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "天城越え",
+  "artist": "石川さゆり",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=9",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "イケナイ太陽",
+  "artist": "ORANGERANGE",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=10",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=11",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "甲賀忍法帖",
+  "artist": "陰陽座",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=12",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=13",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=14",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "群青",
+  "artist": "YOASOBI",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=15",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "群青",
+  "artist": "スピッツ",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=16",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "いけないボーダーライン",
+  "artist": "ワルキューレ",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=17",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Starry Heavens",
+  "artist": "Day after tomorrow",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=18",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "オトノケ",
+  "artist": "Creepy Nuts",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=19",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ウタカタララバイ",
+  "artist": "Ado",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=20",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "God Knows…",
+  "artist": "涼宮ハルヒ",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=21",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "思想犯",
+  "artist": "ヨルシカ",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=22",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "月の繭",
+  "artist": "奥井亜紀",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=23",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Rising Hope",
+  "artist": "LiSA",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=24",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "キミソラキセキ",
+  "artist": "EGOIST",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=25",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "メフィスト",
+  "artist": "女王蜂",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=26",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=27",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団 feat. 安次嶺希和子",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=28",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ギラギラ",
+  "artist": "Ado",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=29",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "カルマ",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=30",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "光るなら",
+  "artist": "Goose house",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=31",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "蝋人形の館",
+  "artist": "聖飢魔II",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=32",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "御旗のもとに",
+  "artist": "巴里華撃団",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=33",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "オー・シャンゼリゼ -",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=34",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "糸",
+  "artist": "中島みゆき",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=35",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Don't say 「lazy」",
+  "artist": "放課後ティータイム",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=36",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ヘミソフィア",
+  "artist": "坂本真綾",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=37",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "なんでもないや",
+  "artist": "RADWIMPS",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=38",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ファイト！",
+  "artist": "中島みゆき",
+  "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=39",
   "source": "chiyutori .js"
 }
 );
