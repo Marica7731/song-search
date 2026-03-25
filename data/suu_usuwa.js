@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 3/25/2026, 2:15:26 PM
+// 生成时间: 3/25/2026, 4:04:13 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -20163,6 +20163,78 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】[2026-03-20]在午后等着你呢。[FWUfmFhvQQc] 稀羽すう",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1epApz2EfY?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Overdose",
+  "artist": "なとり",
+  "collection": "【🦢歌切】#137[2026-03-25]周三定期歌回。即使精疲力尽也会继续歌唱[PKkBBQ4gWFw] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hWQUBQEzW?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【🦢歌切】#137[2026-03-25]周三定期歌回。即使精疲力尽也会继续歌唱[PKkBBQ4gWFw] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hWQUBQEzW?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団",
+  "collection": "【🦢歌切】#137[2026-03-25]周三定期歌回。即使精疲力尽也会继续歌唱[PKkBBQ4gWFw] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hWQUBQEzW?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "琥珀色の街、上海蟹の朝",
+  "artist": "くるり",
+  "collection": "【🦢歌切】#137[2026-03-25]周三定期歌回。即使精疲力尽也会继续歌唱[PKkBBQ4gWFw] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hWQUBQEzW?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "シャル・ウィ・ダンス？",
+  "artist": "ReoNa",
+  "collection": "【🦢歌切】#137[2026-03-25]周三定期歌回。即使精疲力尽也会继续歌唱[PKkBBQ4gWFw] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hWQUBQEzW?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "なとり",
+  "collection": "【🦢歌切】#137[2026-03-25]周三定期歌回。即使精疲力尽也会继续歌唱[PKkBBQ4gWFw] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hWQUBQEzW?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【🦢歌切】#137[2026-03-25]周三定期歌回。即使精疲力尽也会继续歌唱[PKkBBQ4gWFw] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hWQUBQEzW?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "燈",
+  "artist": "崎山蒼志",
+  "collection": "【🦢歌切】#137[2026-03-25]周三定期歌回。即使精疲力尽也会继续歌唱[PKkBBQ4gWFw] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hWQUBQEzW?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "アポリア",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】#137[2026-03-25]周三定期歌回。即使精疲力尽也会继续歌唱[PKkBBQ4gWFw] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hWQUBQEzW?p=9",
   "source": "suu_usuwa.js"
 }
 );

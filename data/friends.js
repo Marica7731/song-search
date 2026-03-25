@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1eTkKYDENL
-// 生成时间: 3/25/2026, 2:21:59 PM
+// 生成时间: 3/25/2026, 4:09:31 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -955,6 +955,78 @@ window.SONG_DATA.push(
   "collection": "🐋🌊🦢 不知名イヲ ❌ 稀羽すう【联动歌切】 [2026-03-17][zgsbykzjzzw]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1i7w2z5EjT?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "丸の内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "ファム・ファタル × Figaro【联动歌切】[2026-03-25][fuyZsJmTq7g]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19nQUB9EyB?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "ファム・ファタル × Figaro【联动歌切】[2026-03-25][fuyZsJmTq7g]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19nQUB9EyB?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "本能",
+  "artist": "椎名林檎",
+  "collection": "ファム・ファタル × Figaro【联动歌切】[2026-03-25][fuyZsJmTq7g]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19nQUB9EyB?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "ファム・ファタル × Figaro【联动歌切】[2026-03-25][fuyZsJmTq7g]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19nQUB9EyB?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師,宇多田ヒカル",
+  "collection": "ファム・ファタル × Figaro【联动歌切】[2026-03-25][fuyZsJmTq7g]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19nQUB9EyB?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "トウキョウ・シャンディ・ランデヴ",
+  "artist": "MAISONdes",
+  "collection": "ファム・ファタル × Figaro【联动歌切】[2026-03-25][fuyZsJmTq7g]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19nQUB9EyB?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "だから僕は音楽をやめた",
+  "artist": "ヨルシカ",
+  "collection": "ファム・ファタル × Figaro【联动歌切】[2026-03-25][fuyZsJmTq7g]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19nQUB9EyB?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "憂、燦々",
+  "artist": "クリープハイプ",
+  "collection": "ファム・ファタル × Figaro【联动歌切】[2026-03-25][fuyZsJmTq7g]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19nQUB9EyB?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "ファム・ファタル × Figaro【联动歌切】[2026-03-25][fuyZsJmTq7g]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19nQUB9EyB?p=9",
   "source": "friends.js"
 }
 );
