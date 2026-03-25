@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 3/25/2026, 10:27:35 PM
+// 生成时间: 3/25/2026, 11:26:56 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1563,6 +1563,94 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-03-24]来当早上的伴侣吧!!悠闲闲聊＆歌回🍁✨[038pREvvt4Y] 紅葉丸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NEQBBjEJG?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【🍁歌切】[2026-03-25]朝活悠闲闲聊＆歌回🍁✨[QAGVHCkaIeQ]紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HJXJBdE5z?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP",
+  "collection": "【🍁歌切】[2026-03-25]朝活悠闲闲聊＆歌回🍁✨[QAGVHCkaIeQ]紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HJXJBdE5z?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "インタビュア",
+  "artist": "クワガタP",
+  "collection": "【🍁歌切】[2026-03-25]朝活悠闲闲聊＆歌回🍁✨[QAGVHCkaIeQ]紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HJXJBdE5z?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ハロ/ハワユ",
+  "artist": "ナノウ",
+  "collection": "【🍁歌切】[2026-03-25]朝活悠闲闲聊＆歌回🍁✨[QAGVHCkaIeQ]紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HJXJBdE5z?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "アイロニ",
+  "artist": "すこっぷ",
+  "collection": "【🍁歌切】[2026-03-25]朝活悠闲闲聊＆歌回🍁✨[QAGVHCkaIeQ]紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HJXJBdE5z?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ケセラセラ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍁歌切】[2026-03-25]朝活悠闲闲聊＆歌回🍁✨[QAGVHCkaIeQ]紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HJXJBdE5z?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍁歌切】[2026-03-25]朝活悠闲闲聊＆歌回🍁✨[QAGVHCkaIeQ]紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HJXJBdE5z?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "クスシキ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍁歌切】[2026-03-25]朝活悠闲闲聊＆歌回🍁✨[QAGVHCkaIeQ]紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HJXJBdE5z?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "SUN",
+  "artist": "星野源",
+  "collection": "【🍁歌切】[2026-03-25]朝活悠闲闲聊＆歌回🍁✨[QAGVHCkaIeQ]紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HJXJBdE5z?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "アイデア",
+  "artist": "星野源",
+  "collection": "【🍁歌切】[2026-03-25]朝活悠闲闲聊＆歌回🍁✨[QAGVHCkaIeQ]紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HJXJBdE5z?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ダンスホール",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍁歌切】[2026-03-25]朝活悠闲闲聊＆歌回🍁✨[QAGVHCkaIeQ]紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HJXJBdE5z?p=11",
   "source": "momijimaru.js"
 }
 );

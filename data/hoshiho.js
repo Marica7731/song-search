@@ -1,10 +1,330 @@
 // HoshiHo - 歌单数据 (多合集汇总)
 // 来源: BV11fQSB2ELX
-// 生成时间: 3/25/2026, 10:33:19 PM
+// 生成时间: 3/25/2026, 11:33:13 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
+    {
+  "title": "夢見るシャンソン人形",
+  "artist": "フランス・ギャル",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=1",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "夢見る愛天使",
+  "artist": "『愛天使伝説ウェディングピーチ』FURIL",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=2",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "WHITE ALBUM",
+  "artist": "『WHITE ALBUM』",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=3",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "深愛",
+  "artist": "『WHITE ALBUM』水樹奈々",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=4",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "夢幻",
+  "artist": "『WHITE ALBUM』水樹奈々",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=5",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "ツイてるねノッてるね",
+  "artist": "『WHITE ALBUM』中山美穂",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=6",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "ebullient future",
+  "artist": "a tale of melodies.』ELISA",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=7",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "euphoric field",
+  "artist": "a tale of memories.』ELISA",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=8",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "届かない恋",
+  "artist": "『WHITE ALBUM2』上原れな",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=9",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "POWDER SNOW",
+  "artist": "『WHITE ALBUM』AKKO",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=10",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "幸せな記憶",
+  "artist": "『WHITE ALBUM2』上原れな",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=11",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Twinkle Snow",
+  "artist": "『WHITE ALBUM2』津田朱里",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=12",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "After All 綴る想い",
+  "artist": "『WHITE ALBUM2』上原れな",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=13",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "舞い落ちる雪のように",
+  "artist": "『WHITE ALBUM』Suara",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=14",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Feeling Heart",
+  "artist": "『To Heart』中司雅美",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=15",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "トモシビ",
+  "artist": "『To Heart2』Suara",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=16",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "あなたを想いたい",
+  "artist": "『Routes -ルーツ-』池田春菜",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=17",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "innocent starter",
+  "artist": "『魔法少女リリカルなのは』水樹奈々",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=18",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Little Wish ～lyrical step～",
+  "artist": "『魔法少女リリカルなのは』田村ゆかり",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=19",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "ETERNAL BLAZE",
+  "artist": "『魔法少女リリカルなのはA's』水樹奈々",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=20",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "BRAVE PHOENIX",
+  "artist": "『魔法少女リリカルなのはA's』水樹奈々",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=21",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Snow Rain",
+  "artist": "『魔法少女リリカルなのはA's』八神はやて(CV：植田佳奈)",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=22",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "SECRET AMBITION",
+  "artist": "『魔法少女リリカルなのはStrikerS』水樹奈々",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=23",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "夏祭り",
+  "artist": "Jitterin’ Jinn(Cover：Whiteberry)",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=24",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "星空のSpica",
+  "artist": "『魔法少女リリカルなのはStrikerS』田村ゆかり",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=25",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Beautiful Amulet",
+  "artist": "『魔法少女リリカルなのはStrikerS』田村ゆかり",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=26",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Pray",
+  "artist": "『魔法少女リリカルなのはStrikerS』水樹奈々",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=27",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "ONENESS HARMONY",
+  "artist": "『プリンセッション・オーケストラ』オルケリア",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=28",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "晴る",
+  "artist": "『葬送のフリーレン』ヨルシカ",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=29",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "PHANTOM MINDS",
+  "artist": "『魔法少女リリカルなのは The MOVIE 1st』水樹奈々",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=30",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "BRIGHT STREAM",
+  "artist": "『魔法少女リリカルなのは The MOVIE 2nd A's』水樹奈々",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=31",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "SCARLET KNIGHT",
+  "artist": "『DOG DAYS』水樹奈々",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=32",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Divine Spell",
+  "artist": "『レガリア The Three Sacred Stars』TRUE",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=33",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "True My Heart",
+  "artist": "『Nursery Rhyme -ナーサリィ☆ライム-』佐倉紗織",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=34",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "キミとアイドルプリキュア♪ Light Up！",
+  "artist": "『キミとアイドルプリキュア♪』石井あみ・熊田茜音・吉武千颯",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=35",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Trio Dreams",
+  "artist": "『キミとアイドルプリキュア♪』キュアアイドル(CV：松岡美里)＆キュアウインク(CV：髙橋ミナミ)＆キュアキュンキュン(CV",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=36",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "旅の途中",
+  "artist": "『狼と香辛料』清浦夏実",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=37",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "カントリー・ロード",
+  "artist": "『耳をすませば』本名陽子",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=38",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "けせら・せら",
+  "artist": "『明日のナージャ』小清水亜美",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=39",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "ナージャ!!",
+  "artist": "『明日のナージャ』本田美奈子",
+  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=40",
+  "source": "hoshiho.js"
+},
     {
   "title": "去り際のロマンティクス",
   "artist": "See-Saw『機動戦士ガンダムSEED FREEDOM』",
