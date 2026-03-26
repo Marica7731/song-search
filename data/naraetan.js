@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 3/26/2026, 10:23:37 PM
+// 生成时间: 3/26/2026, 11:24:35 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6251,6 +6251,102 @@ window.SONG_DATA.push(
   "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=17",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Get Wild",
+  "artist": "TM NETWORK",
+  "collection": "【なれたん歌切】[2026-03-26]突然冷起来了[ZutL4auiGKg]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12TXbBRE1U?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "狂乱Hey Kids!!",
+  "artist": "THE ORAL CIGARETTES",
+  "collection": "【なれたん歌切】[2026-03-26]突然冷起来了[ZutL4auiGKg]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12TXbBRE1U?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "サクラミツツキ",
+  "artist": "SPYAIR",
+  "collection": "【なれたん歌切】[2026-03-26]突然冷起来了[ZutL4auiGKg]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12TXbBRE1U?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "翼はPleasure Line",
+  "artist": "栗林みな実",
+  "collection": "【なれたん歌切】[2026-03-26]突然冷起来了[ZutL4auiGKg]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12TXbBRE1U?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "心よ原始に戻れ",
+  "artist": "高橋洋子",
+  "collection": "【なれたん歌切】[2026-03-26]突然冷起来了[ZutL4auiGKg]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12TXbBRE1U?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "stone cold",
+  "artist": "FictionJunction",
+  "collection": "【なれたん歌切】[2026-03-26]突然冷起来了[ZutL4auiGKg]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12TXbBRE1U?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "BOY MEETS GIRL",
+  "artist": "TRF",
+  "collection": "【なれたん歌切】[2026-03-26]突然冷起来了[ZutL4auiGKg]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12TXbBRE1U?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【なれたん歌切】[2026-03-26]突然冷起来了[ZutL4auiGKg]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12TXbBRE1U?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "プレイバックPart2",
+  "artist": "山口百恵",
+  "collection": "【なれたん歌切】[2026-03-26]突然冷起来了[ZutL4auiGKg]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12TXbBRE1U?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "オルフェンズの涙",
+  "artist": "Misia",
+  "collection": "【なれたん歌切】[2026-03-26]突然冷起来了[ZutL4auiGKg]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12TXbBRE1U?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "はつ恋",
+  "artist": "水樹奈々",
+  "collection": "【なれたん歌切】[2026-03-26]突然冷起来了[ZutL4auiGKg]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12TXbBRE1U?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【なれたん歌切】[2026-03-26]突然冷起来了[ZutL4auiGKg]naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12TXbBRE1U?p=12",
   "source": "naraetan.js"
 },
     {

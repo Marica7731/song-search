@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 3/26/2026, 10:22:02 PM
+// 生成时间: 3/26/2026, 11:23:41 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1651,6 +1651,126 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-03-25]朝活悠闲闲聊＆歌回🍁✨[QAGVHCkaIeQ]紅葉丸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HJXJBdE5z?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "n-buna",
+  "collection": "【🍁歌切】[2026-03-26]催泪歌曲限定歌回💧✨[r45_UZe8G6c]紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VKXxBfED1?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "なんでもないや",
+  "artist": "RADWIMPS",
+  "collection": "【🍁歌切】[2026-03-26]催泪歌曲限定歌回💧✨[r45_UZe8G6c]紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VKXxBfED1?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "スパークル",
+  "artist": "RADWIMPS",
+  "collection": "【🍁歌切】[2026-03-26]催泪歌曲限定歌回💧✨[r45_UZe8G6c]紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VKXxBfED1?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "紡ぐ",
+  "artist": "とた",
+  "collection": "【🍁歌切】[2026-03-26]催泪歌曲限定歌回💧✨[r45_UZe8G6c]紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VKXxBfED1?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "メトロノーム",
+  "artist": "米津玄師",
+  "collection": "【🍁歌切】[2026-03-26]催泪歌曲限定歌回💧✨[r45_UZe8G6c]紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VKXxBfED1?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "がらくた",
+  "artist": "野田愛実",
+  "collection": "【🍁歌切】[2026-03-26]催泪歌曲限定歌回💧✨[r45_UZe8G6c]紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VKXxBfED1?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【🍁歌切】[2026-03-26]催泪歌曲限定歌回💧✨[r45_UZe8G6c]紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VKXxBfED1?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【🍁歌切】[2026-03-26]催泪歌曲限定歌回💧✨[r45_UZe8G6c]紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VKXxBfED1?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【🍁歌切】[2026-03-26]催泪歌曲限定歌回💧✨[r45_UZe8G6c]紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VKXxBfED1?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "恋人失格",
+  "artist": "コレサワ",
+  "collection": "【🍁歌切】[2026-03-26]催泪歌曲限定歌回💧✨[r45_UZe8G6c]紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VKXxBfED1?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "別の人の彼女になったよ",
+  "artist": "wacci",
+  "collection": "【🍁歌切】[2026-03-26]催泪歌曲限定歌回💧✨[r45_UZe8G6c]紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VKXxBfED1?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "オーダーメイド",
+  "artist": "RADWIMPS",
+  "collection": "【🍁歌切】[2026-03-26]催泪歌曲限定歌回💧✨[r45_UZe8G6c]紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VKXxBfED1?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P",
+  "collection": "【🍁歌切】[2026-03-26]催泪歌曲限定歌回💧✨[r45_UZe8G6c]紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VKXxBfED1?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【🍁歌切】[2026-03-26]催泪歌曲限定歌回💧✨[r45_UZe8G6c]紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VKXxBfED1?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "【🍁歌切】[2026-03-26]催泪歌曲限定歌回💧✨[r45_UZe8G6c]紅葉丸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VKXxBfED1?p=15",
   "source": "momijimaru.js"
 }
 );
