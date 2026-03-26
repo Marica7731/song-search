@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ
-// 生成时间: 3/26/2026, 7:02:58 PM
+// 生成时间: 3/26/2026, 8:00:36 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -11403,6 +11403,366 @@ window.SONG_DATA.push(
   "collection": "歌势推荐：ロマニードットアイオー 2026-03-26 RshiNWlJadg",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KHXxBUErU?p=27",
+  "source": "others.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27",
+  "collection": "歌势推荐：雨宮みやび 2026-03-25 64gqupP-gHY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEXbB7EkM?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "あなたのことをおしえて",
+  "artist": "キタニタツヤ",
+  "collection": "歌势推荐：雨宮みやび 2026-03-25 64gqupP-gHY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEXbB7EkM?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ハイド・アンド・シーク",
+  "artist": "NOMELON NOLEMON",
+  "collection": "歌势推荐：雨宮みやび 2026-03-25 64gqupP-gHY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEXbB7EkM?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "新興宗教",
+  "artist": "是",
+  "collection": "歌势推荐：雨宮みやび 2026-03-25 64gqupP-gHY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEXbB7EkM?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "最終電車",
+  "artist": "パスピエ",
+  "collection": "歌势推荐：雨宮みやび 2026-03-25 64gqupP-gHY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEXbB7EkM?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "夕凪、某、花惑い",
+  "artist": "ヨルシカ",
+  "collection": "歌势推荐：雨宮みやび 2026-03-25 64gqupP-gHY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEXbB7EkM?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "合法的トビ方ノススメ",
+  "artist": "Creepy Nuts",
+  "collection": "歌势推荐：雨宮みやび 2026-03-25 64gqupP-gHY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEXbB7EkM?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "星屑☆シーカー",
+  "artist": "WITCH NUMBER 4",
+  "collection": "歌势推荐：雨宮みやび 2026-03-25 64gqupP-gHY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEXbB7EkM?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "Petit Etoile",
+  "artist": "温泉むすめ",
+  "collection": "歌势推荐：雨宮みやび 2026-03-25 64gqupP-gHY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEXbB7EkM?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "Hello,星を数えて",
+  "artist": "星空凛(CV:飯田里穂)、西木野真姫(CV:Pile)、小泉花陽(CV:久保ユリカ)",
+  "collection": "歌势推荐：雨宮みやび 2026-03-25 64gqupP-gHY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEXbB7EkM?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "新天体",
+  "artist": "ルンルン",
+  "collection": "歌势推荐：雨宮みやび 2026-03-25 64gqupP-gHY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEXbB7EkM?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "トラフィック・ジャム",
+  "artist": "煮ル果実",
+  "collection": "歌势推荐：雨宮みやび 2026-03-25 64gqupP-gHY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEXbB7EkM?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "ミルククラウン・オン・ソーネチカ",
+  "artist": "ユジー",
+  "collection": "歌势推荐：雨宮みやび 2026-03-25 64gqupP-gHY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEXbB7EkM?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "死んでしまったんだ",
+  "artist": "椎乃味醂",
+  "collection": "歌势推荐：雨宮みやび 2026-03-25 64gqupP-gHY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEXbB7EkM?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "愛を伝えたいだとか",
+  "artist": "あいみょん",
+  "collection": "歌势推荐：雨宮みやび 2026-03-25 64gqupP-gHY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEXbB7EkM?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ(CV:平野綾)",
+  "collection": "歌势推荐：雨宮みやび 2026-03-25 64gqupP-gHY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEXbB7EkM?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "公然の秘密",
+  "artist": "椎名林檎",
+  "collection": "歌势推荐：雨宮みやび 2026-03-25 64gqupP-gHY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEXbB7EkM?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "女の子は誰でも",
+  "artist": "東京事変",
+  "collection": "歌势推荐：雨宮みやび 2026-03-25 64gqupP-gHY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEXbB7EkM?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "Shamrock Vivace",
+  "artist": "CLEVER CLOVER ※Game ver",
+  "collection": "歌势推荐：雨宮みやび 2026-03-25 64gqupP-gHY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEXbB7EkM?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono!",
+  "collection": "歌势推荐：雨宮みやび 2026-03-25 64gqupP-gHY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEXbB7EkM?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "インドア系ならトラックメイカー",
+  "artist": "Yunomi、nicamoq",
+  "collection": "歌势推荐：雨宮みやび 2026-03-25 64gqupP-gHY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEXbB7EkM?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "INTERNET OVERDOSE",
+  "artist": "Aiobahn、にゃるら",
+  "collection": "歌势推荐：雨宮みやび 2026-03-25 64gqupP-gHY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEXbB7EkM?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "千鳥",
+  "artist": "ヨルシカ",
+  "collection": "歌势推荐：潤水りん 2026-03-25 d4mJVc0L2F4",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11gXbBXEaj?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "魔性",
+  "artist": "ヨルシカ",
+  "collection": "歌势推荐：潤水りん 2026-03-25 d4mJVc0L2F4",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11gXbBXEaj?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "シェードの埃は延長",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "歌势推荐：潤水りん 2026-03-25 d4mJVc0L2F4",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11gXbBXEaj?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "歌势推荐：潤水りん 2026-03-25 d4mJVc0L2F4",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11gXbBXEaj?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "鬼ノ宴",
+  "artist": "友成空",
+  "collection": "歌势推荐：潤水りん 2026-03-25 d4mJVc0L2F4",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11gXbBXEaj?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師,宇多田ヒカル",
+  "collection": "歌势推荐：潤水りん 2026-03-25 d4mJVc0L2F4",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11gXbBXEaj?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "三日月",
+  "artist": "絢香",
+  "collection": "歌势推荐：潤水りん 2026-03-25 d4mJVc0L2F4",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11gXbBXEaj?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー=中島愛",
+  "collection": "歌势推荐：潤水りん 2026-03-25 d4mJVc0L2F4",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11gXbBXEaj?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "あたしが死んでも",
+  "artist": "コレサワ",
+  "collection": "歌势推荐：澄花-sumica- 2026-03-25 VV-RazfOfQ8 コレサワ限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kLXbBJEiZ?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "バカでしょ",
+  "artist": "コレサワ",
+  "collection": "歌势推荐：澄花-sumica- 2026-03-25 VV-RazfOfQ8 コレサワ限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kLXbBJEiZ?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ライブ終わりに",
+  "artist": "コレサワ",
+  "collection": "歌势推荐：澄花-sumica- 2026-03-25 VV-RazfOfQ8 コレサワ限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kLXbBJEiZ?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "君とインドカレー",
+  "artist": "コレサワ",
+  "collection": "歌势推荐：澄花-sumica- 2026-03-25 VV-RazfOfQ8 コレサワ限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kLXbBJEiZ?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "いただきます",
+  "artist": "コレサワ",
+  "collection": "歌势推荐：澄花-sumica- 2026-03-25 VV-RazfOfQ8 コレサワ限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kLXbBJEiZ?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "わんちゃん",
+  "artist": "コレサワ",
+  "collection": "歌势推荐：澄花-sumica- 2026-03-25 VV-RazfOfQ8 コレサワ限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kLXbBJEiZ?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "にゃんにゃんにゃん",
+  "artist": "コレサワ",
+  "collection": "歌势推荐：澄花-sumica- 2026-03-25 VV-RazfOfQ8 コレサワ限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kLXbBJEiZ?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "さよなら恋人",
+  "artist": "コレサワ",
+  "collection": "歌势推荐：澄花-sumica- 2026-03-25 VV-RazfOfQ8 コレサワ限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kLXbBJEiZ?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "彼氏はいません今夜だけ",
+  "artist": "コレサワ",
+  "collection": "歌势推荐：澄花-sumica- 2026-03-25 VV-RazfOfQ8 コレサワ限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kLXbBJEiZ?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "ほっぺた",
+  "artist": "コレサワ",
+  "collection": "歌势推荐：澄花-sumica- 2026-03-25 VV-RazfOfQ8 コレサワ限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kLXbBJEiZ?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "帰りたくないって",
+  "artist": "コレサワ",
+  "collection": "歌势推荐：澄花-sumica- 2026-03-25 VV-RazfOfQ8 コレサワ限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kLXbBJEiZ?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "I LOVE ME",
+  "artist": "コレサワ",
+  "collection": "歌势推荐：澄花-sumica- 2026-03-25 VV-RazfOfQ8 コレサワ限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kLXbBJEiZ?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "ご褒美みたいな今日",
+  "artist": "コレサワ",
+  "collection": "歌势推荐：澄花-sumica- 2026-03-25 VV-RazfOfQ8 コレサワ限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kLXbBJEiZ?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "歌势推荐：澄花-sumica- 2026-03-25 VV-RazfOfQ8 コレサワ限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kLXbBJEiZ?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "SSW",
+  "artist": "コレサワ",
+  "collection": "歌势推荐：澄花-sumica- 2026-03-25 VV-RazfOfQ8 コレサワ限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kLXbBJEiZ?p=15",
   "source": "others.js"
 }
 );

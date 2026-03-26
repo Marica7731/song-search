@@ -1,6 +1,6 @@
 // 天ノ譜ステラ - 歌单数据 (多合集汇总)
 // 来源: BV1MEP8z4E1J
-// 生成时间: 3/26/2026, 6:59:27 PM
+// 生成时间: 3/26/2026, 7:57:04 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -15,7 +15,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夕景イエスタデイ",
-  "artist": "じん(自然の敵P)[pU9jYZR10OU].mp4",
+  "artist": "じん(自然の敵P)",
   "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=2",
@@ -23,7 +23,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ムーンライト伝説",
-  "artist": "DALI[JPFbp477qB4].mp4",
+  "artist": "DALI",
   "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=3",
@@ -71,7 +71,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "トロイの花",
-  "artist": "アマーブレ[IgQX9apS1iE].mp4",
+  "artist": "アマーブレ",
   "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=9",
@@ -79,7 +79,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "オリオンをなぞる",
-  "artist": "UNISON SQUARE GARDEN[IgQX9apS1iE].mp4",
+  "artist": "UNISON SQUARE GARDEN",
   "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=10",
@@ -87,7 +87,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Wherever you are",
-  "artist": "ONE OK ROCK[AFHGqWlDrYk].mp4",
+  "artist": "ONE OK ROCK",
   "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=11",
@@ -255,7 +255,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Overdose",
-  "artist": "なとり[UtFE-pmzpY8].mp4",
+  "artist": "なとり",
   "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=32",
@@ -263,7 +263,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "少女レイ",
-  "artist": "みきとP[UtFE-pmzpY8].mp4",
+  "artist": "みきとP",
   "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=33",
@@ -271,7 +271,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛をこめて花束を",
-  "artist": "Superfly[UtFE-pmzpY8].mp4",
+  "artist": "Superfly",
   "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=34",
@@ -279,7 +279,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "タマシイレボリューション",
-  "artist": "Superfly[UtFE-pmzpY8].mp4",
+  "artist": "Superfly",
   "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=35",
