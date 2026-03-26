@@ -22,6 +22,10 @@ function normalizeText(value) {
   return (value || '').toLowerCase().trim();
 }
 
+function encodeCopyValue(value) {
+  return encodeURIComponent(value == null ? '' : String(value));
+}
+
 function getSourceAlias(source) {
   if (!source) return '未知来源';
   const key = source.replace('.js', '');
@@ -328,7 +332,7 @@ function renderSongList() {
     const song = item.song;
     const dupPreview = item.dupList
       .slice(0, 5)
-      .map(dup => `<div class="dup-item"><span class="bv-tag">${extractBV(dup.link)}</span>${dup.title} - ${dup.artist || '未知'} | ${getSourceAlias(dup.source)}</div>`)
+      .map(dup => `<div class="dup-item"><span class="bv-tag">${extractBV(dup.link)}</span><span class="copyable" data-copy="${encodeCopyValue(dup.title || '')}">${dup.title}</span> - <span class="copyable" data-copy="${encodeCopyValue(dup.artist || '')}">${dup.artist || '未知'}</span> | <span class="copyable" data-copy="${encodeCopyValue(getSourceAlias(dup.source))}">${getSourceAlias(dup.source)}</span></div>`)
       .join('');
 
     const statusTag = currentMode === 'titleArtist'
@@ -341,16 +345,38 @@ function renderSongList() {
 
     card.innerHTML = `
       <div class="song-title">
-        ${index + 1}. ${song.title}
+        ${index + 1}. <span class="copyable" data-copy="${encodeCopyValue(song.title || '')}">${song.title}</span>
         ${statusTag}
       </div>
       <div class="meta-info">
-        <div>歌手：${song.artist || '未知'}</div>
-        <div>来源：${song.source ? getSourceAlias(song.source) : '输入值（库内首次）'}</div>
+        <div>歌手：<span class="copyable" data-copy="${encodeCopyValue(song.artist || '')}">${song.artist || '未知'}</span></div>
+        <div>来源：<span class="copyable" data-copy="${encodeCopyValue(song.source ? getSourceAlias(song.source) : '输入值（库内首次）')}">${song.source ? getSourceAlias(song.source) : '输入值（库内首次）'}</span>${currentMode === 'bv' && song.source ? ` <button type="button" class="jump-tab-btn" data-source="${song.source}" style="margin-left:8px;padding:2px 8px;border:1px solid #00a1d6;border-radius:12px;background:#fff;color:#00a1d6;font-size:12px;cursor:pointer;">跳转来源</button>` : ''}</div>
         <div>链接：${song.link ? `<a href="${song.link}" target="_blank" style="color:#00a1d6;">${song.link}</a>` : '-'}</div>
       </div>
       <div class="dup-list">${dupPreview || '<div style="color:#28a745;">当前库未收录，记为首次</div>'}</div>
     `;
+
+    card.querySelectorAll('.copyable').forEach(copyEl => {
+      copyEl.style.cursor = 'pointer';
+      copyEl.title = '点击复制';
+      copyEl.addEventListener('click', () => {
+        const encoded = copyEl.getAttribute('data-copy') || '';
+        const text = encoded ? decodeURIComponent(encoded) : (copyEl.textContent || '');
+        navigator.clipboard.writeText((text || '').trim())
+          .then(showCopyToast)
+          .catch(() => alert('复制失败，请手动复制'));
+      });
+    });
+
+    card.querySelectorAll('.jump-tab-btn').forEach(jumpBtn => {
+      jumpBtn.addEventListener('click', () => {
+        const source = jumpBtn.getAttribute('data-source');
+        if (!source) return;
+        currentTab = source;
+        renderSourceTabs();
+        analyzeDuplicates();
+      });
+    });
 
     container.appendChild(card);
   });
@@ -365,7 +391,6 @@ function copyResults() {
   const onlyUnique = !!document.getElementById('copyOnlyUnique')?.checked;
   const includeTitle = !!document.getElementById('copyTitle')?.checked;
   const includeLink = !!document.getElementById('copyLink')?.checked;
-  const includeCount = !!document.getElementById('copyCount')?.checked;
   const includeSource = !!document.getElementById('copySource')?.checked;
   const isTextFormat = !!document.getElementById('copyText')?.checked;
 
@@ -391,9 +416,8 @@ function copyResults() {
       }
       const parts = [];
       if (includeTitle) parts.push(item.song.title || '未知歌曲');
-      if (includeSource) parts.push(`来源:${item.song.source ? getSourceAlias(item.song.source) : '输入值（库内首次）'}`);
-      if (includeLink) parts.push(`链接:${item.song.link}`);
-      if (includeCount) parts.push(`次数:${currentMode === 'titleArtist' && item.isFirst ? '首次' : item.dupCount}`);
+      if (includeSource) parts.push(item.song.source ? getSourceAlias(item.song.source) : '输入值（库内首次）');
+      if (includeLink) parts.push(item.song.link || '');
       content += parts.join(' | ') + '\n';
     });
   } else {
@@ -401,19 +425,17 @@ function copyResults() {
     if (includeTitle) headers.push('歌名');
     if (includeSource) headers.push('来源');
     if (includeLink) headers.push('链接');
-    if (includeCount) headers.push('出现次数');
     content += headers.join('\t') + '\n';
 
     copyData.forEach(item => {
       if (item.isNotFound) {
-        content += ['未找到', item.originalInput || '未知输入', '', '', '0'].join('\t') + '\n';
+        content += ['未找到', item.originalInput || '未知输入', '', ''].join('\t') + '\n';
         return;
       }
       const row = [currentMode === 'titleArtist' ? (item.isFirst ? '首次' : `重复${item.dupCount}`) : (item.isDup ? '重复' : '唯一')];
       if (includeTitle) row.push(item.song.title || '未知歌曲');
       if (includeSource) row.push(item.song.source ? getSourceAlias(item.song.source) : '输入值（库内首次）');
       if (includeLink) row.push(item.song.link);
-      if (includeCount) row.push(currentMode === 'titleArtist' && item.isFirst ? '首次' : String(item.dupCount));
       content += row.join('\t') + '\n';
     });
   }

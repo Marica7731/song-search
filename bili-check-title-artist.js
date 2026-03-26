@@ -10,6 +10,7 @@ function parseInputContent() {
   const lines = input.split('\n').map(line => line.trim()).filter(Boolean);
   const result = [];
   const fullFormatRegex = /^(\d+)\.\s*(.+?)\s+-\s+(.+)$/;
+  const normalFormatRegex = /^(.+?)\s+-\s+(.+)$/;
   let hasFullFormat = false;
 
   lines.forEach(line => {
@@ -19,6 +20,14 @@ function parseInputContent() {
       result.push({
         title: fullMatch[2].trim(),
         inputArtist: fullMatch[3].trim(),
+        line
+      });
+    } else if (normalFormatRegex.test(line)) {
+      const normalMatch = line.match(normalFormatRegex);
+      hasFullFormat = true;
+      result.push({
+        title: normalMatch[1].trim(),
+        inputArtist: normalMatch[2].trim(),
         line
       });
     } else {
@@ -112,6 +121,35 @@ function getNeteaseSearchUrl(keyword) {
   return `https://music.163.com/#/search/m/?s=${encodeURIComponent(keyword)}&type=1`;
 }
 
+function parseTitleArtistText(text) {
+  const value = (text || '').trim();
+  if (!value) return { title: '', artist: '' };
+  const matched = value.match(/^(.+?)\s+-\s+(.+)$/);
+  if (matched) {
+    return {
+      title: matched[1].trim(),
+      artist: matched[2].trim()
+    };
+  }
+  return { title: value, artist: '' };
+}
+
+function getTitleSuggestions(keyword) {
+  const key = normalizeText(keyword);
+  if (!key) return [];
+  const titleMap = new Map();
+  allSongs.forEach(song => {
+    const title = (song.title || '').trim();
+    if (!title) return;
+    const norm = normalizeText(title);
+    if (!norm.includes(key)) return;
+    if (!titleMap.has(title)) {
+      titleMap.set(title, true);
+    }
+  });
+  return Array.from(titleMap.keys()).slice(0, 16);
+}
+
 function createRetitleTools(item, index) {
   const tools = document.createElement('div');
   tools.style.marginTop = '8px';
@@ -123,7 +161,7 @@ function createRetitleTools(item, index) {
   const titleInput = document.createElement('input');
   titleInput.type = 'text';
   titleInput.value = item.title;
-  titleInput.placeholder = '可修改歌名后重查';
+  titleInput.placeholder = '可修改歌名，支持粘贴“歌名 - 歌手”';
   titleInput.style.flex = '1';
   titleInput.style.minWidth = '220px';
   titleInput.style.padding = '6px 10px';
@@ -134,7 +172,7 @@ function createRetitleTools(item, index) {
   const artistInput = document.createElement('input');
   artistInput.type = 'text';
   artistInput.value = selectedArtists[item.title] || item.inputArtist || '';
-  artistInput.placeholder = '可手动填写正确歌手';
+  artistInput.placeholder = '可修改歌手，或粘贴“歌名 - 歌手”';
   artistInput.style.flex = '1';
   artistInput.style.minWidth = '180px';
   artistInput.style.padding = '6px 10px';
@@ -142,9 +180,20 @@ function createRetitleTools(item, index) {
   artistInput.style.borderRadius = '6px';
   artistInput.style.fontSize = '13px';
 
+  const suggestionList = document.createElement('datalist');
+  const datalistId = `titleSuggestion-${index}-${Date.now()}`;
+  suggestionList.id = datalistId;
+  titleInput.setAttribute('list', datalistId);
+
+  const renderTitleSuggestions = () => {
+    const currentTitle = parseTitleArtistText(titleInput.value).title || titleInput.value;
+    const suggestions = getTitleSuggestions(currentTitle);
+    suggestionList.innerHTML = suggestions.map(name => `<option value="${name.replace(/"/g, '&quot;')}"></option>`).join('');
+  };
+
   const retryBtn = document.createElement('button');
   retryBtn.type = 'button';
-  retryBtn.textContent = '按新歌名重查';
+  retryBtn.textContent = '按修改值重查';
   retryBtn.style.padding = '6px 12px';
   retryBtn.style.border = '0';
   retryBtn.style.borderRadius = '6px';
@@ -155,7 +204,7 @@ function createRetitleTools(item, index) {
 
   const applyArtistBtn = document.createElement('button');
   applyArtistBtn.type = 'button';
-  applyArtistBtn.textContent = '应用歌手';
+  applyArtistBtn.textContent = '仅应用歌手';
   applyArtistBtn.style.padding = '6px 12px';
   applyArtistBtn.style.border = '0';
   applyArtistBtn.style.borderRadius = '6px';
@@ -166,8 +215,10 @@ function createRetitleTools(item, index) {
 
   const link = document.createElement('a');
   const refreshSearchLink = () => {
-    const t = (titleInput.value || item.title || '').trim();
-    const a = (artistInput.value || '').trim();
+    const parsedTitle = parseTitleArtistText(titleInput.value);
+    const parsedArtist = parseTitleArtistText(artistInput.value);
+    const t = (parsedTitle.title || item.title || '').trim();
+    const a = (parsedTitle.artist || parsedArtist.artist || artistInput.value || '').trim();
     const keyword = a ? `${t} - ${a}` : t;
     link.href = getNeteaseSearchUrl(keyword);
   };
@@ -179,11 +230,20 @@ function createRetitleTools(item, index) {
   link.style.fontSize = '12px';
   link.style.textDecoration = 'none';
 
-  titleInput.addEventListener('input', refreshSearchLink);
+  titleInput.addEventListener('input', () => {
+    renderTitleSuggestions();
+    refreshSearchLink();
+  });
+  titleInput.addEventListener('focus', renderTitleSuggestions);
+  titleInput.addEventListener('change', refreshSearchLink);
   artistInput.addEventListener('input', refreshSearchLink);
+  artistInput.addEventListener('change', refreshSearchLink);
 
   retryBtn.onclick = () => {
-    const newTitle = titleInput.value.trim();
+    const parsedTitle = parseTitleArtistText(titleInput.value);
+    const parsedArtist = parseTitleArtistText(artistInput.value);
+    const newTitle = (parsedTitle.title || '').trim();
+    const manualArtist = (parsedTitle.artist || parsedArtist.artist || artistInput.value || '').trim();
     if (!newTitle) {
       alert('请输入要重查的歌名');
       return;
@@ -197,19 +257,24 @@ function createRetitleTools(item, index) {
 
     const refreshed = buildTitleArtistResultItem({
       title: newTitle,
-      inputArtist: item.inputArtist,
+      inputArtist: manualArtist || item.inputArtist,
       line: item.originalLine
     });
 
     titleSearchResults[index] = refreshed;
     setDefaultSelectedArtist(refreshed, previousSelected);
-    selectedCombination = '';
+    if (manualArtist) {
+      selectedArtists[newTitle] = manualArtist;
+      refreshed.inputArtist = manualArtist;
+      refreshed.isArtistValid = refreshed.artistNames.some(name => normalizeText(name) === normalizeText(manualArtist));
+    }
     renderArtistSelectWithValidation();
     generateResultText();
   };
 
   applyArtistBtn.onclick = () => {
-    const newArtist = artistInput.value.trim();
+    const parsedTitle = parseTitleArtistText(artistInput.value);
+    const newArtist = (parsedTitle.artist || artistInput.value || '').trim();
     if (!newArtist) {
       alert('请输入要应用的歌手');
       return;
@@ -217,87 +282,23 @@ function createRetitleTools(item, index) {
     selectedArtists[item.title] = newArtist;
     item.inputArtist = newArtist;
     item.isArtistValid = item.artistNames.some(name => normalizeText(name) === normalizeText(newArtist));
-    selectedCombination = '';
     renderArtistSelectWithValidation();
     generateResultText();
   };
 
   tools.appendChild(titleInput);
   tools.appendChild(artistInput);
+  tools.appendChild(suggestionList);
   tools.appendChild(retryBtn);
   tools.appendChild(applyArtistBtn);
   tools.appendChild(link);
   return tools;
 }
 
-function generateAllCombinations() {
-  if (titleSearchResults.length === 0) {
-    alert('请先查询歌手信息！');
-    return;
-  }
-
-  const optionsList = titleSearchResults.map(item => {
-    let options = [];
-    if (item.inputArtist && !item.isArtistValid && item.inputArtist.trim()) {
-      options.push(item.inputArtist.trim());
-    }
-    options = options.concat(item.artists.map(artistItem => artistItem.name));
-    return options;
-  });
-
-  function cartesianProduct(arr) {
-    return arr.reduce((a, b) => a.flatMap(d => b.map(e => [d, e].flat())), [[]]);
-  }
-
-  const combinations = cartesianProduct(optionsList);
-  allCombinations = combinations.map(comb => {
-    let text = '';
-    comb.forEach((artist, lineIdx) => {
-      const num = (lineIdx + 1).toString().padStart(2, '0');
-      const title = titleSearchResults[lineIdx].title;
-      text += `${num}. ${title} ${artist ? '- ' + artist : ''}\n`;
-    });
-    return text.trim();
-  });
-
-  allCombinations = [...new Set(allCombinations)];
-  renderCombinationList();
-  document.getElementById('combinationArea').classList.add('active');
-  return allCombinations;
-}
-
-function renderCombinationList() {
-  const container = document.getElementById('combinationList');
-  container.innerHTML = '';
-
-  if (allCombinations.length === 0) {
-    container.innerHTML = '<div style="text-align:center;padding:8px;color:#6c757d;">暂无可用组合</div>';
-    return;
-  }
-
-  allCombinations.forEach((comb, idx) => {
-    const item = document.createElement('div');
-    item.className = `combination-item ${idx === 0 ? 'selected' : ''}`;
-    item.textContent = comb;
-    item.dataset.index = idx;
-    if (idx === 0) selectedCombination = comb;
-
-    item.addEventListener('click', () => {
-      container.querySelectorAll('.combination-item').forEach(el => el.classList.remove('selected'));
-      item.classList.add('selected');
-      selectedCombination = comb;
-    });
-
-    container.appendChild(item);
-  });
-}
-
 function searchAndValidateArtists() {
   const inputItems = parseInputContent();
   if (inputItems.length === 0) return;
 
-  selectedCombination = '';
-  allCombinations = [];
   titleSearchResults = [];
   selectedArtists = {};
 
@@ -350,7 +351,6 @@ function renderArtistSelectWithValidation() {
         userBtn.innerHTML = `${item.inputArtist} (用户输入) <span class="source-label">来源：用户输入</span>`;
         userBtn.onclick = () => {
           selectedArtists[item.title] = item.inputArtist;
-          selectedCombination = '';
           optionsDiv.querySelectorAll('.artist-option').forEach(btn => btn.classList.remove('selected'));
           userBtn.classList.add('selected');
           generateResultText();
@@ -378,7 +378,6 @@ function renderArtistSelectWithValidation() {
         optionBtn.innerHTML = `${artist.name} (库中值) <span class="source-label">来源(${artist.sourceCount})：${artist.sources}</span>`;
         optionBtn.onclick = () => {
           selectedArtists[item.title] = artist.name;
-          selectedCombination = '';
           optionsDiv.querySelectorAll('.artist-option').forEach(btn => btn.classList.remove('selected'));
           optionBtn.classList.add('selected');
           generateResultText();
@@ -396,7 +395,6 @@ function renderArtistSelectWithValidation() {
         errorBtn.innerHTML = `${item.inputArtist} (输入值) <span class="source-label">无匹配来源</span>`;
         errorBtn.onclick = () => {
           selectedArtists[item.title] = item.inputArtist;
-          selectedCombination = '';
           optionsDiv.querySelectorAll('.artist-option').forEach(btn => btn.classList.remove('selected'));
           errorBtn.classList.add('selected');
           generateResultText();
@@ -412,20 +410,13 @@ function renderArtistSelectWithValidation() {
 
     selectItem.appendChild(optionsDiv);
 
-    if (!item.hasResult) {
-      selectItem.appendChild(createRetitleTools(item, index));
-    }
+    selectItem.appendChild(createRetitleTools(item, index));
 
     container.appendChild(selectItem);
   });
 }
 
 function generateResultText() {
-  if (selectedCombination) {
-    document.getElementById('resultText').value = selectedCombination;
-    return;
-  }
-
   let result = '';
   titleSearchResults.forEach((item, index) => {
     const num = (index + 1).toString().padStart(2, '0');
@@ -434,26 +425,6 @@ function generateResultText() {
   });
 
   document.getElementById('resultText').value = result.trim();
-}
-
-function useSelectedCombination() {
-  if (!selectedCombination) {
-    alert('请先选择一个排列组合！');
-    return;
-  }
-
-  document.getElementById('resultText').value = selectedCombination;
-  const lines = selectedCombination.split('\n');
-  lines.forEach(line => {
-    const match = line.match(/^\d{1,2}\.\s*(.+?)\s*-\s*(.+)$/);
-    if (match) {
-      const title = match[1].trim();
-      const artist = match[2].trim();
-      selectedArtists[title] = artist;
-    }
-  });
-
-  renderArtistSelectWithValidation();
 }
 
 function copyResultText() {

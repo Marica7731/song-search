@@ -21,8 +21,6 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;b
 button{padding:8px 24px;color:#fff;border:0;border-radius:8px;cursor:pointer;font-size:14px;font-weight:500}
 #searchTitleBtn{background:#00a1d6}
 #searchTitleBtn:hover{background:#008fb3}
-#validateBtn{background:#28a745}
-#validateBtn:hover{background:#218838}
 #copyResultBtn{background:#6f42c1}
 #copyResultBtn:hover{background:#5a32a3}
 .artist-select-area{margin:24px 0 0 0;display:none}
@@ -40,16 +38,6 @@ button{padding:8px 24px;color:#fff;border:0;border-radius:8px;cursor:pointer;fon
 .artist-option.error{background:#fdf2f8;border:1px solid #dc3545;color:#dc3545;font-weight:500}
 .source-label{font-size:11px;color:#6c757d;margin-left:6px}
 .no-result{color:#6c757d;font-size:13px;padding:4px 0}
-.combination-area{margin-top:16px;display:none;padding:16px;background:#fff;border-radius:8px;box-shadow:0 2px 4px rgba(0,0,0,.04)}
-.combination-area.active{display:block}
-.combination-area h4{margin-bottom:12px;color:#2c3e50;font-size:15px}
-.combination-list{max-height:220px;overflow-y:auto;margin-bottom:12px;border:1px solid #e9ecef;border-radius:6px;padding:8px}
-.combination-item{padding:6px 8px;margin-bottom:4px;border-radius:4px;cursor:pointer;font-size:14px;white-space:pre-wrap}
-.combination-item:hover{background:#f1f3f5}
-.combination-item.selected{background:#00a1d6;color:#fff}
-.combination-controls{display:flex;justify-content:flex-end}
-#useCombinationBtn{background:#6f42c1}
-#useCombinationBtn:hover{background:#5a32a3}
 .result-generate-area{margin-top:16px;display:none}
 .result-generate-area.active{display:block}
 #resultText{width:100%;min-height:170px;padding:14px 16px;border:1px solid #ddd;border-radius:8px;font-size:14px;outline:none;margin-bottom:16px;resize:vertical;background:#f8f9fa}
@@ -63,7 +51,7 @@ button{padding:8px 24px;color:#fff;border:0;border-radius:8px;cursor:pointer;fon
 <div class="main">
   <div class="header">
     <h2>歌名-歌手查询/校验</h2>
-    <p>独立维护页：查询歌手、校验输入、生成排列组合</p>
+    <p>独立维护页：查询歌手、校验输入、修正歌名/歌手并快速检索</p>
   </div>
   <div class="nav">
     <a href="index.html">首页</a> |
@@ -82,23 +70,17 @@ button{padding:8px 24px;color:#fff;border:0;border-radius:8px;cursor:pointer;fon
 
 2. 完整格式（带序号和歌手）
 01. 絶頂讃歌 - 和ぬか
-02. 月光 - るまき"></textarea>
+02. 月光 - るまき
+
+3. 简写格式（歌名 - 歌手）
+絶頂讃歌 - 和ぬか"></textarea>
     <div class="title-controls">
       <button id="searchTitleBtn">查询/校验歌手</button>
-      <button id="validateBtn">生成排列组合</button>
     </div>
   </div>
 
   <div class="artist-select-area" id="artistSelectArea">
     <div id="artistSelectContainer"></div>
-  </div>
-
-  <div class="combination-area" id="combinationArea">
-    <h4>所有可能的排列组合</h4>
-    <div class="combination-list" id="combinationList"></div>
-    <div class="combination-controls">
-      <button id="useCombinationBtn">使用选中组合</button>
-    </div>
   </div>
 
   <div class="result-generate-area" id="resultGenerateArea">
@@ -117,8 +99,6 @@ let fileAlias = {};
 let titleSearchResults = [];
 let selectedArtists = {};
 let inputFormatType = '';
-let allCombinations = [];
-let selectedCombination = '';
 
 function getSourceAlias(source) {
   if (!source) return '未知来源';
@@ -167,8 +147,6 @@ async function loadAllData() {
 function initTitleArtistPage() {
   loadAllData();
   document.getElementById('searchTitleBtn').addEventListener('click', searchAndValidateArtists);
-  document.getElementById('validateBtn').addEventListener('click', generateAllCombinations);
-  document.getElementById('useCombinationBtn').addEventListener('click', useSelectedCombination);
   document.getElementById('copyResultBtn').addEventListener('click', copyResultText);
   document.getElementById('titleInput').addEventListener('keydown', e => {
     if (e.key === 'Enter' && e.ctrlKey) searchAndValidateArtists();

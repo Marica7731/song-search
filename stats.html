@@ -655,6 +655,14 @@
             return s.toLowerCase();
         }
 
+        function escapeAttr(value) {
+            return String(value || '')
+                .replace(/&/g, '&amp;')
+                .replace(/"/g, '&quot;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;');
+        }
+
         // ========== 日语假名转罗马音 ==========
         const KANA_TO_ROMA = {
             // 五十音图
@@ -926,6 +934,22 @@
                 console.error(err);
             }
             document.body.removeChild(textarea);
+        }
+
+        function bindQuickCopy(container) {
+            if (!container) return;
+            const copyNodes = container.querySelectorAll('[data-quick-copy]');
+            copyNodes.forEach(node => {
+                node.style.cursor = 'pointer';
+                node.title = '点击复制';
+                node.addEventListener('click', (event) => {
+                    if (event.target.closest('a')) return;
+                    event.preventDefault();
+                    event.stopPropagation();
+                    const text = node.getAttribute('data-quick-copy') || '';
+                    if (text.trim()) copyToClipboard(text.trim());
+                });
+            });
         }
 
         function generateCopyContent() {
@@ -1249,8 +1273,8 @@
                                 <div class="rank-title-row">
                                     <div class="rank-badge ${rankClass}">${globalRank}</div>
                                     <div>
-                                        <div class="song-title-large">${item.title}</div>
-                                        <span class="info-chip chip-artist">🎤 ${isValidArtist(item.artist) ? item.artist : '无歌手信息'}</span>
+                                        <div class="song-title-large" data-quick-copy="${escapeAttr(item.title)}">${item.title}</div>
+                                        <span class="info-chip chip-artist" data-quick-copy="${escapeAttr(isValidArtist(item.artist) ? item.artist : '无歌手信息')}">🎤 ${isValidArtist(item.artist) ? item.artist : '无歌手信息'}</span>
                                         ${item.originalArtist ? `<span class="info-chip" style="background:#fff3e0;color:#e65100;">📝 原唱: ${item.originalArtist}</span>` : ''}
                                     </div>
                                 </div>
@@ -1314,6 +1338,7 @@
                         
                         showModal('rank', data, columns, false);
                     });
+                    bindQuickCopy(li);
                 });
             }
 
@@ -1344,13 +1369,13 @@
                 const renderSongRow = (song, songIdx) => {
                     const songId = uniqueId();
                     const originalText = song.originalArtist 
-                        ? `<div class="song-original-artist">📝 原唱: ${song.originalArtist}</div>` 
-                        : (song.artist && type === 'vtuber' ? `<div class="song-original-artist">🎤 演唱: ${song.artist}</div>` : '');
+                        ? `<div class="song-original-artist" data-quick-copy="${escapeAttr(song.originalArtist)}">📝 原唱: ${song.originalArtist}</div>` 
+                        : (song.artist && type === 'vtuber' ? `<div class="song-original-artist" data-quick-copy="${escapeAttr(song.artist)}">🎤 演唱: ${song.artist}</div>` : '');
 
                     return `
                         <div class="song-item-row">
                             <div class="song-info-left">
-                                <div class="song-title-main">${song.title}</div>
+                                <div class="song-title-main" data-quick-copy="${escapeAttr(song.title)}">${song.title}</div>
                                 ${originalText}
                             </div>
                             <div class="song-meta-right">
@@ -1376,7 +1401,7 @@
                 li.innerHTML = `
                     <div class="group-header ${type}">
                         <div class="group-name">
-                            ${type === 'vtuber' ? '🎙️' : '🎤'} ${group.name}
+                            <span data-quick-copy="${escapeAttr(group.name)}">${type === 'vtuber' ? '🎙️' : '🎤'} ${group.name}</span>
                         </div>
                         <div style="display: flex; align-items: center; gap: 10px;">
                             <div class="group-count">
@@ -1475,6 +1500,7 @@
                         showModal('artist', data, columns, false);
                     }
                 });
+                bindQuickCopy(li);
             });
         }
 
