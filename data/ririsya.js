@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 3/26/2026, 2:25:03 PM
+// 生成时间: 3/26/2026, 4:06:08 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1198,8 +1198,8 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "staple stable + オレンジ",
-  "artist": "斎藤千和 逢坂大河",
+  "title": "staple stable",
+  "artist": "神前暁, 斎藤千和",
   "collection": "补合集 🐍凛々咲 2024年11月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LP6VBbE7g?p=19",
@@ -4231,7 +4231,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "staple stable",
-  "artist": "斎藤千和",
+  "artist": "神前暁, 斎藤千和",
   "collection": "【凛々咲】夜の弾き語り🌙Sing with a guitar at night【VTuber/ Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YYo3YuE9V?p=19",
@@ -4519,7 +4519,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "staple stable",
-  "artist": "斎藤千和",
+  "artist": "神前暁, 斎藤千和",
   "collection": "【凛々咲 Ririsya】让我们一起欢唱动漫歌曲💜ANIME SONG SINGING",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kQV3zWEB7?p=10",
@@ -9287,7 +9287,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "少女レイ",
-  "artist": "みきとP feat. 初音ミク",
+  "artist": "みきとP",
   "collection": "【 凛々咲/ #歌切】17岁凛凛的水手服形态見て ✧ High School Uniform Riri at 17",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BFpwz6EhJ?p=1",
@@ -9327,7 +9327,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "メランコリック",
-  "artist": "Junky feat. 鏡音リン",
+  "artist": "Junky",
   "collection": "【 凛々咲/ #歌切】17岁凛凛的水手服形态見て ✧ High School Uniform Riri at 17",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BFpwz6EhJ?p=6",
@@ -9351,15 +9351,15 @@ window.SONG_DATA.push(
 },
     {
   "title": "地獄先生",
-  "artist": "かいりきベア feat. 初音ミク",
+  "artist": "相対性理論",
   "collection": "【 凛々咲/ #歌切】17岁凛凛的水手服形态見て ✧ High School Uniform Riri at 17",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BFpwz6EhJ?p=9",
   "source": "ririsya.js"
 },
     {
-  "title": "（恋は）百年戦争",
-  "artist": "板野友美",
+  "title": "恋は百年戦争",
+  "artist": "相対性理論",
   "collection": "【 凛々咲/ #歌切】17岁凛凛的水手服形态見て ✧ High School Uniform Riri at 17",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BFpwz6EhJ?p=10",
@@ -9431,7 +9431,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "staple stable",
-  "artist": "坂本真綾",
+  "artist": "斎藤千和",
   "collection": "【 凛々咲/ #歌切】17岁凛凛的水手服形态見て ✧ High School Uniform Riri at 17",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BFpwz6EhJ?p=19",
@@ -9447,7 +9447,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハレ晴レユカイ",
-  "artist": "平野綾、茅原実里、後藤邑子",
+  "artist": "涼宮ハルヒ(平野綾), 長門有希(茅原実里), 朝比奈みくる(後藤邑子)",
   "collection": "【 凛々咲/ #歌切】17岁凛凛的水手服形态見て ✧ High School Uniform Riri at 17",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BFpwz6EhJ?p=21",
@@ -9455,7 +9455,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "桜キッス",
-  "artist": "河野マリナ",
+  "artist": "河辺千恵子",
   "collection": "【 凛々咲/ #歌切】17岁凛凛的水手服形态見て ✧ High School Uniform Riri at 17",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BFpwz6EhJ?p=22",
