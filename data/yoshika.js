@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 3/26/2026, 9:28:11 PM
+// 生成时间: 3/26/2026, 10:25:43 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -28419,6 +28419,190 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-03-24]初見大募集！[e4Wkj4SkDDc] YOSHIKA よしか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14WQkBtESs?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春",
+  "collection": "【🍠🦍歌切】[2026-03-26]初見大募集！ [K51k69T-8so] よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QdXtBAEQf?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アローラ!!",
+  "artist": "松本梨香",
+  "collection": "【🍠🦍歌切】[2026-03-26]初見大募集！ [K51k69T-8so] よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QdXtBAEQf?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハレ晴レユカイ",
+  "artist": "平野綾(涼宮ハルヒ)・茅原実里(長門有希)・後藤邑子(朝比奈みくる)",
+  "collection": "【🍠🦍歌切】[2026-03-26]初見大募集！ [K51k69T-8so] よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QdXtBAEQf?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-03-26]初見大募集！ [K51k69T-8so] よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QdXtBAEQf?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ウィーアー!",
+  "artist": "きただにひろし",
+  "collection": "【🍠🦍歌切】[2026-03-26]初見大募集！ [K51k69T-8so] よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QdXtBAEQf?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "世界に一つだけの花",
+  "artist": "SMAP",
+  "collection": "【🍠🦍歌切】[2026-03-26]初見大募集！ [K51k69T-8so] よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QdXtBAEQf?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Spending",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-03-26]初見大募集！ [K51k69T-8so] よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QdXtBAEQf?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "キミがいれば",
+  "artist": "いおり",
+  "collection": "【🍠🦍歌切】[2026-03-26]初見大募集！ [K51k69T-8so] よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QdXtBAEQf?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "【🍠🦍歌切】[2026-03-26]初見大募集！ [K51k69T-8so] よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QdXtBAEQf?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【🍠🦍歌切】[2026-03-26]初見大募集！ [K51k69T-8so] よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QdXtBAEQf?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "桜日和",
+  "artist": "星村麻衣",
+  "collection": "【🍠🦍歌切】[2026-03-26]初見大募集！ [K51k69T-8so] よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QdXtBAEQf?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP Feat.初音ミク",
+  "collection": "【🍠🦍歌切】[2026-03-26]初見大募集！ [K51k69T-8so] よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QdXtBAEQf?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "桜日和とタイムマシン",
+  "artist": "Ado with 初音ミク",
+  "collection": "【🍠🦍歌切】[2026-03-26]初見大募集！ [K51k69T-8so] よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QdXtBAEQf?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "【🍠🦍歌切】[2026-03-26]初見大募集！ [K51k69T-8so] よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QdXtBAEQf?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ギラギラ",
+  "artist": "Ado",
+  "collection": "【🍠🦍歌切】[2026-03-26]初見大募集！ [K51k69T-8so] よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QdXtBAEQf?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【🍠🦍歌切】[2026-03-26]初見大募集！ [K51k69T-8so] よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QdXtBAEQf?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おどるポンポコリン",
+  "artist": "さくらももこ",
+  "collection": "【🍠🦍歌切】[2026-03-26]初見大募集！ [K51k69T-8so] よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QdXtBAEQf?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao",
+  "collection": "【🍠🦍歌切】[2026-03-26]初見大募集！ [K51k69T-8so] よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QdXtBAEQf?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【🍠🦍歌切】[2026-03-26]初見大募集！ [K51k69T-8so] よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QdXtBAEQf?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Diamonds",
+  "artist": "プリンセス プリンセス",
+  "collection": "【🍠🦍歌切】[2026-03-26]初見大募集！ [K51k69T-8so] よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QdXtBAEQf?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "赤いスイートピー",
+  "artist": "松田聖子",
+  "collection": "【🍠🦍歌切】[2026-03-26]初見大募集！ [K51k69T-8so] よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QdXtBAEQf?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "さくらんぼ",
+  "artist": "大塚愛",
+  "collection": "【🍠🦍歌切】[2026-03-26]初見大募集！ [K51k69T-8so] よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QdXtBAEQf?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "私がオバさんになっても",
+  "artist": "森高千里",
+  "collection": "【🍠🦍歌切】[2026-03-26]初見大募集！ [K51k69T-8so] よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QdXtBAEQf?p=23",
   "source": "yoshika.js"
 }
 );
