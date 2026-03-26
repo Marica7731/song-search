@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ
-// 生成时间: 3/26/2026, 6:03:23 PM
+// 生成时间: 3/26/2026, 7:02:58 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -11187,6 +11187,222 @@ window.SONG_DATA.push(
   "collection": "July's song 2026-03-25 0zhhYroVvdE",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t7XxBHE64?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-26 RshiNWlJadg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KHXxBUErU?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "GG",
+  "artist": "ReoNa",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-26 RshiNWlJadg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KHXxBUErU?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "RE: I AM",
+  "artist": "Aimer",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-26 RshiNWlJadg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KHXxBUErU?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "ミッドナイト・リフレクション",
+  "artist": "NOMELON NOLEMON",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-26 RshiNWlJadg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KHXxBUErU?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "unravel",
+  "artist": "TK from 凛として時雨",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-26 RshiNWlJadg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KHXxBUErU?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-26 RshiNWlJadg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KHXxBUErU?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "I beg you",
+  "artist": "Aimer",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-26 RshiNWlJadg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KHXxBUErU?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-26 RshiNWlJadg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KHXxBUErU?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "すずめ",
+  "artist": "RADWIMPS feat.十明",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-26 RshiNWlJadg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KHXxBUErU?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "怪物",
+  "artist": "YOASOBI",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-26 RshiNWlJadg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KHXxBUErU?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "oath sign",
+  "artist": "LiSA",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-26 RshiNWlJadg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KHXxBUErU?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-26 RshiNWlJadg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KHXxBUErU?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "again",
+  "artist": "YUI",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-26 RshiNWlJadg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KHXxBUErU?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-26 RshiNWlJadg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KHXxBUErU?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-26 RshiNWlJadg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KHXxBUErU?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-26 RshiNWlJadg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KHXxBUErU?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "世界は恋に落ちている",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-26 RshiNWlJadg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KHXxBUErU?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "中島愛",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-26 RshiNWlJadg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KHXxBUErU?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "Galaxy Anthem",
+  "artist": "ディーヴァ(八木海莉)",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-26 RshiNWlJadg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KHXxBUErU?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "ゆずれない願い",
+  "artist": "田村直美",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-26 RshiNWlJadg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KHXxBUErU?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-26 RshiNWlJadg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KHXxBUErU?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "UNDEAD",
+  "artist": "YOASOBI",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-26 RshiNWlJadg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KHXxBUErU?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "staple stable",
+  "artist": "神前暁, 斎藤千和",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-26 RshiNWlJadg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KHXxBUErU?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "もうどうなってもいいや",
+  "artist": "星街すいせい",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-26 RshiNWlJadg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KHXxBUErU?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "シルシ",
+  "artist": "LiSA",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-26 RshiNWlJadg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KHXxBUErU?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "Sing My Pleasure",
+  "artist": "ヴィヴィ",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-26 RshiNWlJadg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KHXxBUErU?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "ラブドリ!",
+  "artist": "ロマニードットアイオー",
+  "collection": "歌势推荐：ロマニードットアイオー 2026-03-26 RshiNWlJadg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KHXxBUErU?p=27",
   "source": "others.js"
 }
 );
