@@ -1,6 +1,6 @@
 // 天ノ譜ステラ - 歌单数据 (多合集汇总)
 // 来源: BV1MEP8z4E1J
-// 生成时间: 3/26/2026, 8:35:12 PM
+// 生成时间: 3/26/2026, 9:30:01 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1579,6 +1579,38 @@ window.SONG_DATA.push(
   "collection": "【 🍚💫歌切】[2026-03-19]【㊗收益化恢复】周四22时⌚定期直播✨开始！[ZoMaQwSgSzE] 天ノ譜ステラ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XBALzpEc3?p=6",
+  "source": "stella.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【 🍚💫歌切】[2026-03-26]周四22点⌚定期歌回✨[TL8QmlT_O_E] 天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XoXtBaETd?p=1",
+  "source": "stella.js"
+},
+    {
+  "title": "可愛くなりたい",
+  "artist": "HoneyWorks",
+  "collection": "【 🍚💫歌切】[2026-03-26]周四22点⌚定期歌回✨[TL8QmlT_O_E] 天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XoXtBaETd?p=2",
+  "source": "stella.js"
+},
+    {
+  "title": "メランコリック",
+  "artist": "Junky",
+  "collection": "【 🍚💫歌切】[2026-03-26]周四22点⌚定期歌回✨[TL8QmlT_O_E] 天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XoXtBaETd?p=3",
+  "source": "stella.js"
+},
+    {
+  "title": "夕景イエスタデイ",
+  "artist": "じん(自然の敵P)",
+  "collection": "【 🍚💫歌切】[2026-03-26]周四22点⌚定期歌回✨[TL8QmlT_O_E] 天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XoXtBaETd?p=4",
   "source": "stella.js"
 }
 );
