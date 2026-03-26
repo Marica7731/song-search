@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ
-// 生成时间: 3/26/2026, 4:14:26 PM
+// 生成时间: 3/26/2026, 6:03:23 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -11131,6 +11131,62 @@ window.SONG_DATA.push(
   "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "さくらんぼ",
+  "artist": "大塚愛",
+  "collection": "July's song 2026-03-25 0zhhYroVvdE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t7XxBHE64?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "恋せよ女の子",
+  "artist": "田村ゆかり",
+  "collection": "July's song 2026-03-25 0zhhYroVvdE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t7XxBHE64?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "キラキラ",
+  "artist": "aiko",
+  "collection": "July's song 2026-03-25 0zhhYroVvdE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t7XxBHE64?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "Blooming♡Blooming",
+  "artist": "るか from AIKATSU＊STARS!",
+  "collection": "July's song 2026-03-25 0zhhYroVvdE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t7XxBHE64?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "カレンダーガール",
+  "artist": "わか・ふうり・すなお from STAR＊ANIS",
+  "collection": "July's song 2026-03-25 0zhhYroVvdE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t7XxBHE64?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー=中島愛",
+  "collection": "July's song 2026-03-25 0zhhYroVvdE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t7XxBHE64?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "うたたね",
+  "artist": "July",
+  "collection": "July's song 2026-03-25 0zhhYroVvdE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t7XxBHE64?p=7",
   "source": "others.js"
 }
 );
