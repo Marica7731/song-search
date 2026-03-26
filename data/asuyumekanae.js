@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 3/25/2026, 11:26:24 PM
+// 生成时间: 3/26/2026, 1:22:26 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -267,6 +267,94 @@ window.SONG_DATA.push(
   "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=33",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Remember",
+  "artist": "yuigot、月見ヤチヨ『cv.早見沙織』",
+  "collection": "【明日夢 歌切】[2026-03-25]超时空辉夜姬曲目限定翻唱歌回🌕🎍[TYlqAn75L2o]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HJXJBdEFs?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "星降る海",
+  "artist": "Aqu3ra、月見ヤチヨ『cv.早見沙織』",
+  "collection": "【明日夢 歌切】[2026-03-25]超时空辉夜姬曲目限定翻唱歌回🌕🎍[TYlqAn75L2o]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HJXJBdEFs?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "私は、わたしの事が好き。",
+  "artist": "HoneyWorks&かぐや『cv.夏吉ゆうこ』",
+  "collection": "【明日夢 歌切】[2026-03-25]超时空辉夜姬曲目限定翻唱歌回🌕🎍[TYlqAn75L2o]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HJXJBdEFs?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ワールドイズマインCPK! Remix",
+  "artist": "かぐや『cv.夏吉ゆうこ』 月見ヤチヨ『cv.早見沙織』",
+  "collection": "【明日夢 歌切】[2026-03-25]超时空辉夜姬曲目限定翻唱歌回🌕🎍[TYlqAn75L2o]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HJXJBdEFs?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Ex-Otogibanashi",
+  "artist": "ryo(supercell)&かぐや『cv.夏吉ゆうこ』&早見沙織",
+  "collection": "【明日夢 歌切】[2026-03-25]超时空辉夜姬曲目限定翻唱歌回🌕🎍[TYlqAn75L2o]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HJXJBdEFs?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ハッピーシンセサイザ",
+  "artist": "かぐや『cv.夏吉ゆうこ』",
+  "collection": "【明日夢 歌切】[2026-03-25]超时空辉夜姬曲目限定翻唱歌回🌕🎍[TYlqAn75L2o]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HJXJBdEFs?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "瞬間、シンフォニー。",
+  "artist": "40mP、かぐや『cv.夏吉ゆうこ』",
+  "collection": "【明日夢 歌切】[2026-03-25]超时空辉夜姬曲目限定翻唱歌回🌕🎍[TYlqAn75L2o]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HJXJBdEFs?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Reply",
+  "artist": "かぐや『cv.夏吉ゆうこ』",
+  "collection": "【明日夢 歌切】[2026-03-25]超时空辉夜姬曲目限定翻唱歌回🌕🎍[TYlqAn75L2o]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HJXJBdEFs?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ray (超かぐや姫！ Version)",
+  "artist": "かぐや『cv.夏吉ゆうこ』&早見沙織",
+  "collection": "【明日夢 歌切】[2026-03-25]超时空辉夜姬曲目限定翻唱歌回🌕🎍[TYlqAn75L2o]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HJXJBdEFs?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "メルト (かぐや ver.) [CPK! Remix]",
+  "artist": "ryo(supercell)&かぐや『cv.夏吉ゆうこ』",
+  "collection": "【明日夢 歌切】[2026-03-25]超时空辉夜姬曲目限定翻唱歌回🌕🎍[TYlqAn75L2o]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HJXJBdEFs?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "トリノコシティ",
+  "artist": "月見ヤチヨ『cv.早見沙織』&あさかみ",
+  "collection": "【明日夢 歌切】[2026-03-25]超时空辉夜姬曲目限定翻唱歌回🌕🎍[TYlqAn75L2o]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HJXJBdEFs?p=11",
   "source": "asuyumekanae.js"
 },
     {
