@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 3/27/2026, 10:24:03 PM
+// 生成时间: 3/27/2026, 11:24:42 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1695,7 +1695,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "がらくた",
-  "artist": "野田愛実",
+  "artist": "米津玄師",
   "collection": "【🍁歌切】[2026-03-26]催泪歌曲限定歌回💧✨[r45_UZe8G6c]紅葉丸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VKXxBfED1?p=6",
