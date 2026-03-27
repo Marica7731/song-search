@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 3/27/2026, 12:43:47 PM
+// 生成时间: 3/27/2026, 2:08:27 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14003,6 +14003,134 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-03-24]身体恢复了歌回✧[ioQlpADpjio] 凛々咲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12CQrBRECh?p=19",
+  "source": "ririsya.js"
+},
+    {
+  "title": "手紙～拝啓  十五の君へ～",
+  "artist": "アンジェラ・アキ",
+  "collection": "【🐍歌切】[2026-03-27]没有毕业，只是唱「毕业」的歌✧毕业歌曲演唱🌸[leNSYjPB-Pk]凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vmXNBgEkj?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "さくら(独唱)",
+  "artist": "森山直太朗",
+  "collection": "【🐍歌切】[2026-03-27]没有毕业，只是唱「毕业」的歌✧毕业歌曲演唱🌸[leNSYjPB-Pk]凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vmXNBgEkj?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "桜",
+  "artist": "コブクロ",
+  "collection": "【🐍歌切】[2026-03-27]没有毕业，只是唱「毕业」的歌✧毕业歌曲演唱🌸[leNSYjPB-Pk]凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vmXNBgEkj?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "YELL",
+  "artist": "いきものがかり",
+  "collection": "【🐍歌切】[2026-03-27]没有毕业，只是唱「毕业」的歌✧毕业歌曲演唱🌸[leNSYjPB-Pk]凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vmXNBgEkj?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ありがとう",
+  "artist": "いきものがかり",
+  "collection": "【🐍歌切】[2026-03-27]没有毕业，只是唱「毕业」的歌✧毕业歌曲演唱🌸[leNSYjPB-Pk]凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vmXNBgEkj?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "虹",
+  "artist": "ELLEGARDEN",
+  "collection": "【🐍歌切】[2026-03-27]没有毕业，只是唱「毕业」的歌✧毕业歌曲演唱🌸[leNSYjPB-Pk]凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vmXNBgEkj?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "天使にふれたよ!",
+  "artist": "放課後ティータイム",
+  "collection": "【🐍歌切】[2026-03-27]没有毕业，只是唱「毕业」的歌✧毕业歌曲演唱🌸[leNSYjPB-Pk]凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vmXNBgEkj?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "第3ボタン",
+  "artist": "SHISHAMO",
+  "collection": "【🐍歌切】[2026-03-27]没有毕业，只是唱「毕业」的歌✧毕业歌曲演唱🌸[leNSYjPB-Pk]凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vmXNBgEkj?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "サラバ青春",
+  "artist": "チャットモンチー",
+  "collection": "【🐍歌切】[2026-03-27]没有毕业，只是唱「毕业」的歌✧毕业歌曲演唱🌸[leNSYjPB-Pk]凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vmXNBgEkj?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Best Friend",
+  "artist": "西野カナ",
+  "collection": "【🐍歌切】[2026-03-27]没有毕业，只是唱「毕业」的歌✧毕业歌曲演唱🌸[leNSYjPB-Pk]凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vmXNBgEkj?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "奏（かなで）",
+  "artist": "スキマスイッチ",
+  "collection": "【🐍歌切】[2026-03-27]没有毕业，只是唱「毕业」的歌✧毕业歌曲演唱🌸[leNSYjPB-Pk]凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vmXNBgEkj?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "空も飛べるはず",
+  "artist": "スピッツ",
+  "collection": "【🐍歌切】[2026-03-27]没有毕业，只是唱「毕业」的歌✧毕业歌曲演唱🌸[leNSYjPB-Pk]凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vmXNBgEkj?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ガーネット",
+  "artist": "奥華子",
+  "collection": "【🐍歌切】[2026-03-27]没有毕业，只是唱「毕业」的歌✧毕业歌曲演唱🌸[leNSYjPB-Pk]凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vmXNBgEkj?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【🐍歌切】[2026-03-27]没有毕业，只是唱「毕业」的歌✧毕业歌曲演唱🌸[leNSYjPB-Pk]凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vmXNBgEkj?p=14",
+  "source": "ririsya.js"
+},
+    {
+  "title": "旅立ちの日に...",
+  "artist": "川嶋あい",
+  "collection": "【🐍歌切】[2026-03-27]没有毕业，只是唱「毕业」的歌✧毕业歌曲演唱🌸[leNSYjPB-Pk]凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vmXNBgEkj?p=15",
+  "source": "ririsya.js"
+},
+    {
+  "title": "旅立ちの日に",
+  "artist": "(合唱曲)",
+  "collection": "【🐍歌切】[2026-03-27]没有毕业，只是唱「毕业」的歌✧毕业歌曲演唱🌸[leNSYjPB-Pk]凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vmXNBgEkj?p=16",
   "source": "ririsya.js"
 }
 );
