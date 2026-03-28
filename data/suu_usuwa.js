@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 3/28/2026, 8:33:53 AM
+// 生成时间: 3/28/2026, 9:31:47 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -20291,6 +20291,78 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】#137[2026-03-25]周三定期歌回。即使精疲力尽也会继续歌唱[PKkBBQ4gWFw] 稀羽すう",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hWQUBQEzW?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【🦢歌切】[2026-03-28]午后唱歌。｜卡拉OK｜唱歌直播[lf0oFR62Jcs] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aDX5BFEHt?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "勇気100%",
+  "artist": "光GENJI",
+  "collection": "【🦢歌切】[2026-03-28]午后唱歌。｜卡拉OK｜唱歌直播[lf0oFR62Jcs] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aDX5BFEHt?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "さくら (独唱)",
+  "artist": "森山直太朗",
+  "collection": "【🦢歌切】[2026-03-28]午后唱歌。｜卡拉OK｜唱歌直播[lf0oFR62Jcs] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aDX5BFEHt?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "翼をください",
+  "artist": "桜高軽音部",
+  "collection": "【🦢歌切】[2026-03-28]午后唱歌。｜卡拉OK｜唱歌直播[lf0oFR62Jcs] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aDX5BFEHt?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Believe",
+  "artist": "杉本竜一",
+  "collection": "【🦢歌切】[2026-03-28]午后唱歌。｜卡拉OK｜唱歌直播[lf0oFR62Jcs] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aDX5BFEHt?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【🦢歌切】[2026-03-28]午后唱歌。｜卡拉OK｜唱歌直播[lf0oFR62Jcs] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aDX5BFEHt?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【🦢歌切】[2026-03-28]午后唱歌。｜卡拉OK｜唱歌直播[lf0oFR62Jcs] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aDX5BFEHt?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "なとり",
+  "collection": "【🦢歌切】[2026-03-28]午后唱歌。｜卡拉OK｜唱歌直播[lf0oFR62Jcs] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aDX5BFEHt?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "キミの記憶",
+  "artist": "川村ゆみ",
+  "collection": "【🦢歌切】[2026-03-28]午后唱歌。｜卡拉OK｜唱歌直播[lf0oFR62Jcs] 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aDX5BFEHt?p=9",
   "source": "suu_usuwa.js"
 }
 );
