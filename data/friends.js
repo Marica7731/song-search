@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1eTkKYDENL
-// 生成时间: 3/28/2026, 7:32:52 PM
+// 生成时间: 3/28/2026, 8:28:55 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1091,6 +1091,70 @@ window.SONG_DATA.push(
   "collection": "皇美緒奈 × Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZgqiYaEDv?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "SUN",
+  "artist": "星野源",
+  "collection": "联动歌切 涼海ネモ × Figaro [2026-03-27]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t3XyBMECH?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "雲と幽霊",
+  "artist": "ヨルシカ",
+  "collection": "联动歌切 涼海ネモ × Figaro [2026-03-27]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t3XyBMECH?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "チノカテ",
+  "artist": "ヨルシカ",
+  "collection": "联动歌切 涼海ネモ × Figaro [2026-03-27]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t3XyBMECH?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "U",
+  "artist": "millennium parade×Belle",
+  "collection": "联动歌切 涼海ネモ × Figaro [2026-03-27]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t3XyBMECH?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko",
+  "collection": "联动歌切 涼海ネモ × Figaro [2026-03-27]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t3XyBMECH?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "群青",
+  "artist": "YOASOBI",
+  "collection": "联动歌切 涼海ネモ × Figaro [2026-03-27]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t3XyBMECH?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "联动歌切 涼海ネモ × Figaro [2026-03-27]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t3XyBMECH?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna",
+  "collection": "联动歌切 涼海ネモ × Figaro [2026-03-27]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t3XyBMECH?p=8",
   "source": "friends.js"
 }
 );
