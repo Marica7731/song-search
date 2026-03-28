@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 3/28/2026, 8:22:07 PM
+// 生成时间: 3/28/2026, 9:23:31 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6347,6 +6347,262 @@ window.SONG_DATA.push(
   "collection": "【なれたん歌切】[2026-03-26]突然冷起来了[ZutL4auiGKg]naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12TXbBRE1U?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "花占い",
+  "artist": "Vaundy",
+  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "貴方の恋人になりたい",
+  "artist": "チョーキューメイ",
+  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夢と葉桜",
+  "artist": "青木月光",
+  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ムーンライト伝説",
+  "artist": "DALI",
+  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "God knows",
+  "artist": "涼宮ハルヒ（平野綾）",
+  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "W/X/Y",
+  "artist": "Tani Yuuki",
+  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "GLAMOROUS SKY",
+  "artist": "中島美嘉",
+  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "宵々古今",
+  "artist": "REOL",
+  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Alone",
+  "artist": "下川みくに",
+  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "車輪の唄",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "この広い空の下で",
+  "artist": "sevenoops",
+  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Stellar Stellar",
+  "artist": "星街すいせい",
+  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "極楽浄土",
+  "artist": "GARNiDELiA",
+  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "射手座☆午後九時Don't be late",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "鎖の少女",
+  "artist": "のぼる↑",
+  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Sound of destiny",
+  "artist": "水樹奈々",
+  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=16",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Golden",
+  "artist": "KPop Demon Hunters",
+  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=17",
+  "source": "naraetan.js"
+},
+    {
+  "title": "1／3の純情な感情",
+  "artist": "SIAM SHADE",
+  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=18",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Glorious Break",
+  "artist": "水樹奈々",
+  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=19",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Grand Blue",
+  "artist": "湘南乃風",
+  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=20",
+  "source": "naraetan.js"
+},
+    {
+  "title": "もう恋なんてしない",
+  "artist": "槇原敬之",
+  "collection": "【なれたん歌切】[2026-03-28]周六深夜歌回💐[xwfLaTHh6hI] naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AHXyBaEUZ?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【なれたん歌切】[2026-03-28]周六深夜歌回💐[xwfLaTHh6hI] naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AHXyBaEUZ?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "渡月橋～君 想ふ～",
+  "artist": "倉木麻衣",
+  "collection": "【なれたん歌切】[2026-03-28]周六深夜歌回💐[xwfLaTHh6hI] naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AHXyBaEUZ?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "花束",
+  "artist": "back number",
+  "collection": "【なれたん歌切】[2026-03-28]周六深夜歌回💐[xwfLaTHh6hI] naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AHXyBaEUZ?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【なれたん歌切】[2026-03-28]周六深夜歌回💐[xwfLaTHh6hI] naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AHXyBaEUZ?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "手紙 〜拝啓 十五の君へ〜",
+  "artist": "アンジェラ・アキ",
+  "collection": "【なれたん歌切】[2026-03-28]周六深夜歌回💐[xwfLaTHh6hI] naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AHXyBaEUZ?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "月光",
+  "artist": "鬼束ちひろ",
+  "collection": "【なれたん歌切】[2026-03-28]周六深夜歌回💐[xwfLaTHh6hI] naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AHXyBaEUZ?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師,宇多田ヒカル",
+  "collection": "【なれたん歌切】[2026-03-28]周六深夜歌回💐[xwfLaTHh6hI] naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AHXyBaEUZ?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "春はゆく",
+  "artist": "Aimer",
+  "collection": "【なれたん歌切】[2026-03-28]周六深夜歌回💐[xwfLaTHh6hI] naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AHXyBaEUZ?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Sweet Dreams, My Dear",
+  "artist": "SoHyang",
+  "collection": "【なれたん歌切】[2026-03-28]周六深夜歌回💐[xwfLaTHh6hI] naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AHXyBaEUZ?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Rubia",
+  "artist": "周深",
+  "collection": "【なれたん歌切】[2026-03-28]周六深夜歌回💐[xwfLaTHh6hI] naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AHXyBaEUZ?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団 feat. 安次嶺希和子",
+  "collection": "【なれたん歌切】[2026-03-28]周六深夜歌回💐[xwfLaTHh6hI] naraetan",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AHXyBaEUZ?p=12",
   "source": "naraetan.js"
 },
     {

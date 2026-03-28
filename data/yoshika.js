@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 3/28/2026, 8:24:31 PM
+// 生成时间: 3/28/2026, 9:25:21 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -28603,6 +28603,110 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-03-26]初見大募集！ [K51k69T-8so] よしか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QdXtBAEQf?p=23",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アローラ!!",
+  "artist": "松本梨香",
+  "collection": "【🍠🦍歌切】[2026-03-28]初見大募集！[Ie6klIRSP0I] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zbXyBdEEN?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "collection": "【🍠🦍歌切】[2026-03-28]初見大募集！[Ie6klIRSP0I] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zbXyBdEEN?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ココロのちず",
+  "artist": "BOYSTYLE",
+  "collection": "【🍠🦍歌切】[2026-03-28]初見大募集！[Ie6klIRSP0I] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zbXyBdEEN?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "TOMORROW",
+  "artist": "岡本真夜",
+  "collection": "【🍠🦍歌切】[2026-03-28]初見大募集！[Ie6klIRSP0I] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zbXyBdEEN?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "First kiss",
+  "artist": "ICHIKO",
+  "collection": "【🍠🦍歌切】[2026-03-28]初見大募集！[Ie6klIRSP0I] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zbXyBdEEN?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Diamonds",
+  "artist": "プリンセス プリンセス",
+  "collection": "【🍠🦍歌切】[2026-03-28]初見大募集！[Ie6klIRSP0I] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zbXyBdEEN?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ANGELUS -アンジェラス",
+  "artist": "島谷ひとみ",
+  "collection": "【🍠🦍歌切】[2026-03-28]初見大募集！[Ie6klIRSP0I] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zbXyBdEEN?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "未来のミュージアム",
+  "artist": "Perfume",
+  "collection": "【🍠🦍歌切】[2026-03-28]初見大募集！[Ie6klIRSP0I] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zbXyBdEEN?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Music S.T.A.R.T!!",
+  "artist": "μ's",
+  "collection": "【🍠🦍歌切】[2026-03-28]初見大募集！[Ie6klIRSP0I] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zbXyBdEEN?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【🍠🦍歌切】[2026-03-28]初見大募集！[Ie6klIRSP0I] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zbXyBdEEN?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Pray",
+  "artist": "Tommy heavenly6",
+  "collection": "【🍠🦍歌切】[2026-03-28]初見大募集！[Ie6klIRSP0I] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zbXyBdEEN?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "負けないで",
+  "artist": "ZARD",
+  "collection": "【🍠🦍歌切】[2026-03-28]初見大募集！[Ie6klIRSP0I] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zbXyBdEEN?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "COLORS",
+  "artist": "FLOW",
+  "collection": "【🍠🦍歌切】[2026-03-28]初見大募集！[Ie6klIRSP0I] YOSHIKA よしか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zbXyBdEEN?p=13",
   "source": "yoshika.js"
 }
 );

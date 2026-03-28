@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据 (多合集汇总)
 // 来源: BV1zzZPBsEum
-// 生成时间: 3/28/2026, 8:24:59 PM
+// 生成时间: 3/28/2026, 9:26:13 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4339,6 +4339,150 @@ window.SONG_DATA.push(
   "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=18",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "flower",
+  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=1",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "幽霊東京",
+  "artist": "Ayase feat. 初音ミク",
+  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=2",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "夜撫でるメノウ",
+  "artist": "Ayase feat. 初音ミク",
+  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=3",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "よるのあと",
+  "artist": "adieu",
+  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=4",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "Soranji",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=5",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=6",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "丸の内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=7",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=8",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=9",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "最高到達点",
+  "artist": "SEKAI NO OWARI",
+  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=10",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna",
+  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=11",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "美しい鰭",
+  "artist": "スピッツ",
+  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=12",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=13",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "レオ",
+  "artist": "優里",
+  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=14",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "踊り子",
+  "artist": "Vaundy",
+  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=15",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "春を告げる",
+  "artist": "yama",
+  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=16",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "なんでもないや(movie ver.)",
+  "artist": "上白石萌音",
+  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=17",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ブラック★ロックシューター",
+  "artist": "supercell",
+  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=18",
   "source": "otomoneruki.js"
 }
 );
