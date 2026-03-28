@@ -1,6 +1,6 @@
 // 朱名 - 歌单数据 (多合集汇总)
 // 来源: BV167c2znErj
-// 生成时间: 3/28/2026, 9:27:57 PM
+// 生成时间: 3/28/2026, 10:26:59 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4419,6 +4419,294 @@ window.SONG_DATA.push(
   "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=152",
+  "source": "shuna.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=153",
+  "source": "shuna.js"
+},
+    {
+  "title": "ガーネット",
+  "artist": "奥華子",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=154",
+  "source": "shuna.js"
+},
+    {
+  "title": "初恋",
+  "artist": "奥華子",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=155",
+  "source": "shuna.js"
+},
+    {
+  "title": "M",
+  "artist": "PRINCESS PRINCESS",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=156",
+  "source": "shuna.js"
+},
+    {
+  "title": "I LOVE YOU",
+  "artist": "尾崎豊",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=157",
+  "source": "shuna.js"
+},
+    {
+  "title": "眩しいDNAだけ",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=158",
+  "source": "shuna.js"
+},
+    {
+  "title": "初めての恋が終わる時",
+  "artist": "supercell",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=159",
+  "source": "shuna.js"
+},
+    {
+  "title": "雪の華",
+  "artist": "中島美嘉",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=160",
+  "source": "shuna.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=161",
+  "source": "shuna.js"
+},
+    {
+  "title": "恋愛写真",
+  "artist": "大塚愛",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=162",
+  "source": "shuna.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=163",
+  "source": "shuna.js"
+},
+    {
+  "title": "ユキトキ",
+  "artist": "やなぎなぎ",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=164",
+  "source": "shuna.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=165",
+  "source": "shuna.js"
+},
+    {
+  "title": "orion",
+  "artist": "米津玄師",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=166",
+  "source": "shuna.js"
+},
+    {
+  "title": "北風 〜君にとどきますように〜",
+  "artist": "槇原敬之",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=167",
+  "source": "shuna.js"
+},
+    {
+  "title": "タユムコトナキナガレノナカデ",
+  "artist": "いきものがかり",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=168",
+  "source": "shuna.js"
+},
+    {
+  "title": "月とあたしと冷蔵庫",
+  "artist": "いきものがかり",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=169",
+  "source": "shuna.js"
+},
+    {
+  "title": "Perfect Day",
+  "artist": "supercell",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=170",
+  "source": "shuna.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=171",
+  "source": "shuna.js"
+},
+    {
+  "title": "さくら（独唱）",
+  "artist": "森山直太朗",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=172",
+  "source": "shuna.js"
+},
+    {
+  "title": "朧月夜～祈り",
+  "artist": "中島美嘉",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=173",
+  "source": "shuna.js"
+},
+    {
+  "title": "風の谷のナウシカ",
+  "artist": "安田成美",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=174",
+  "source": "shuna.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=175",
+  "source": "shuna.js"
+},
+    {
+  "title": "踊",
+  "artist": "Ado",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=176",
+  "source": "shuna.js"
+},
+    {
+  "title": "唱",
+  "artist": "Ado",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=177",
+  "source": "shuna.js"
+},
+    {
+  "title": "いけないボーダーライン",
+  "artist": "ワルキューレ",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=178",
+  "source": "shuna.js"
+},
+    {
+  "title": "どんなときも。",
+  "artist": "槇原敬之",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=179",
+  "source": "shuna.js"
+},
+    {
+  "title": "シル・ヴ・プレジデント",
+  "artist": "P丸様。",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=180",
+  "source": "shuna.js"
+},
+    {
+  "title": "風と未来",
+  "artist": "いきものがかり",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=181",
+  "source": "shuna.js"
+},
+    {
+  "title": "負け犬にアンコールはいらない",
+  "artist": "ヨルシカ",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=182",
+  "source": "shuna.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=183",
+  "source": "shuna.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=184",
+  "source": "shuna.js"
+},
+    {
+  "title": "シンデレラボーイ",
+  "artist": "Saucy Dog",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=185",
+  "source": "shuna.js"
+},
+    {
+  "title": "タマシイレボリューション",
+  "artist": "Superfly",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=186",
+  "source": "shuna.js"
+},
+    {
+  "title": "愛をこめて花束を",
+  "artist": "Superfly",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=187",
+  "source": "shuna.js"
+},
+    {
+  "title": "手紙 〜拝啓 十五の君へ〜",
+  "artist": "アンジェラ・アキ",
+  "collection": "朱名 歌切 2026-03-18 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=188",
   "source": "shuna.js"
 }
 );

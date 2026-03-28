@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 3/28/2026, 9:24:16 PM
+// 生成时间: 3/28/2026, 10:22:42 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14131,6 +14131,190 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-03-27]没有毕业，只是唱「毕业」的歌✧毕业歌曲演唱🌸[leNSYjPB-Pk]凛々咲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vmXNBgEkj?p=16",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Overdose",
+  "artist": "なとり",
+  "collection": "【🐍歌切】[2026-03-28]睡不着夜晚想听的放松歌回[4dmg1ra4KCI] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wGXmBNEtN?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
+  "collection": "【🐍歌切】[2026-03-28]睡不着夜晚想听的放松歌回[4dmg1ra4KCI] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wGXmBNEtN?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "独りんぼエンヴィー",
+  "artist": "りぶ",
+  "collection": "【🐍歌切】[2026-03-28]睡不着夜晚想听的放松歌回[4dmg1ra4KCI] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wGXmBNEtN?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "fake face dance music",
+  "artist": "音田雅則",
+  "collection": "【🐍歌切】[2026-03-28]睡不着夜晚想听的放松歌回[4dmg1ra4KCI] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wGXmBNEtN?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "地獄先生",
+  "artist": "相対性理論",
+  "collection": "【🐍歌切】[2026-03-28]睡不着夜晚想听的放松歌回[4dmg1ra4KCI] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wGXmBNEtN?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ヴィーナスとジーザス",
+  "artist": "やくしまるえつこ",
+  "collection": "【🐍歌切】[2026-03-28]睡不着夜晚想听的放松歌回[4dmg1ra4KCI] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wGXmBNEtN?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "バーモント・キッス",
+  "artist": "相対性理論",
+  "collection": "【🐍歌切】[2026-03-28]睡不着夜晚想听的放松歌回[4dmg1ra4KCI] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wGXmBNEtN?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "(恋は)百年戦争",
+  "artist": "相対性理論",
+  "collection": "【🐍歌切】[2026-03-28]睡不着夜晚想听的放松歌回[4dmg1ra4KCI] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wGXmBNEtN?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "me me she",
+  "artist": "RADWIMPS",
+  "collection": "【🐍歌切】[2026-03-28]睡不着夜晚想听的放松歌回[4dmg1ra4KCI] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wGXmBNEtN?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【🐍歌切】[2026-03-28]睡不着夜晚想听的放松歌回[4dmg1ra4KCI] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wGXmBNEtN?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "夜空ノムコウ",
+  "artist": "SMAP",
+  "collection": "【🐍歌切】[2026-03-28]睡不着夜晚想听的放松歌回[4dmg1ra4KCI] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wGXmBNEtN?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "エイリアンズ",
+  "artist": "キリンジ",
+  "collection": "【🐍歌切】[2026-03-28]睡不着夜晚想听的放松歌回[4dmg1ra4KCI] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wGXmBNEtN?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "この恋はスクープされない",
+  "artist": "コレサワ",
+  "collection": "【🐍歌切】[2026-03-28]睡不着夜晚想听的放松歌回[4dmg1ra4KCI] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wGXmBNEtN?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "サーカスナイト",
+  "artist": "七尾旅人",
+  "collection": "【🐍歌切】[2026-03-28]睡不着夜晚想听的放松歌回[4dmg1ra4KCI] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wGXmBNEtN?p=14",
+  "source": "ririsya.js"
+},
+    {
+  "title": "フィルム",
+  "artist": "星野源",
+  "collection": "【🐍歌切】[2026-03-28]睡不着夜晚想听的放松歌回[4dmg1ra4KCI] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wGXmBNEtN?p=15",
+  "source": "ririsya.js"
+},
+    {
+  "title": "くせのうた",
+  "artist": "星野源",
+  "collection": "【🐍歌切】[2026-03-28]睡不着夜晚想听的放松歌回[4dmg1ra4KCI] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wGXmBNEtN?p=16",
+  "source": "ririsya.js"
+},
+    {
+  "title": "虎",
+  "artist": "ハンバートハンバート",
+  "collection": "【🐍歌切】[2026-03-28]睡不着夜晚想听的放松歌回[4dmg1ra4KCI] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wGXmBNEtN?p=17",
+  "source": "ririsya.js"
+},
+    {
+  "title": "勿忘",
+  "artist": "Awesome City Club",
+  "collection": "【🐍歌切】[2026-03-28]睡不着夜晚想听的放松歌回[4dmg1ra4KCI] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wGXmBNEtN?p=18",
+  "source": "ririsya.js"
+},
+    {
+  "title": "小夜子",
+  "artist": "みきとP",
+  "collection": "【🐍歌切】[2026-03-28]睡不着夜晚想听的放松歌回[4dmg1ra4KCI] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wGXmBNEtN?p=19",
+  "source": "ririsya.js"
+},
+    {
+  "title": "帝国少女",
+  "artist": "R Sound Design",
+  "collection": "【🐍歌切】[2026-03-28]睡不着夜晚想听的放松歌回[4dmg1ra4KCI] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wGXmBNEtN?p=20",
+  "source": "ririsya.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン",
+  "collection": "【🐍歌切】[2026-03-28]睡不着夜晚想听的放松歌回[4dmg1ra4KCI] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wGXmBNEtN?p=21",
+  "source": "ririsya.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【🐍歌切】[2026-03-28]睡不着夜晚想听的放松歌回[4dmg1ra4KCI] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wGXmBNEtN?p=22",
+  "source": "ririsya.js"
+},
+    {
+  "title": "よるがくればまた",
+  "artist": "和田たけあき feat. 初音ミク",
+  "collection": "【🐍歌切】[2026-03-28]睡不着夜晚想听的放松歌回[4dmg1ra4KCI] 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wGXmBNEtN?p=23",
   "source": "ririsya.js"
 }
 );
