@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 3/28/2026, 1:18:27 AM
+// 生成时间: 3/28/2026, 3:14:18 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -303,7 +303,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "それがあなたの幸せとしても",
-  "artist": "鬱P feat. v flower",
+  "artist": "Heavenz",
   "collection": "【240228 Figaro】#3【15首横屏】あたらしいらじお。(仮)  1. 少女レイ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1k2421M7PJ?p=7",

@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 3/28/2026, 1:19:00 AM
+// 生成时间: 3/28/2026, 3:14:35 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -622,8 +622,8 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "晚餐歌 + 花に亡霊",
-  "artist": "tuki  ヨルシカ",
+  "title": "晚餐歌",
+  "artist": "tuki.",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=78",
@@ -3574,7 +3574,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "春泥棒 +  だから僕は音楽を辞めた",
+  "title": "春泥棒",
   "artist": "ヨルシカ",
   "collection": "【 #ココロで歌う歌枠リレー 】ピアノの音色と歌でココロを届けます💜【VTuber/凛々咲 Ririsya】",
   "up": "前尘往事如昔故",

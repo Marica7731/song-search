@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 3/28/2026, 1:19:36 AM
+// 生成时间: 3/28/2026, 3:15:03 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -17419,6 +17419,62 @@ window.SONG_DATA.push(
   "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 #127 树木也渐染秋色呢。木々も色づいてまいりましたね。",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ENCLB7E2Y?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【稀羽すう】 深夜に7曲だけ歌う枠。睡眠導入ですかね 2025年11月11日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qvkvBeEei?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ひまわりの約束",
+  "artist": "秦基博",
+  "collection": "【稀羽すう】 深夜に7曲だけ歌う枠。睡眠導入ですかね 2025年11月11日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qvkvBeEei?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "生きる",
+  "artist": "水野あつ",
+  "collection": "【稀羽すう】 深夜に7曲だけ歌う枠。睡眠導入ですかね 2025年11月11日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qvkvBeEei?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "なんでもないや",
+  "artist": "RADWIMPS",
+  "collection": "【稀羽すう】 深夜に7曲だけ歌う枠。睡眠導入ですかね 2025年11月11日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qvkvBeEei?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ただ声一つ",
+  "artist": "ロクデナシ",
+  "collection": "【稀羽すう】 深夜に7曲だけ歌う枠。睡眠導入ですかね 2025年11月11日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qvkvBeEei?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ダイアモンドクレバス",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【稀羽すう】 深夜に7曲だけ歌う枠。睡眠導入ですかね 2025年11月11日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qvkvBeEei?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar",
+  "collection": "【稀羽すう】 深夜に7曲だけ歌う枠。睡眠導入ですかね 2025年11月11日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qvkvBeEei?p=7",
   "source": "suu_usuwa.js"
 },
     {

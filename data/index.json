@@ -22,6 +22,7 @@
     "MunMosh.js",
     "inori.js",
     "friends.js",
+    "relay.js",
     "others.js"
   ],
   "fileToAlias": {
@@ -47,6 +48,7 @@
     "MunMosh": "むんもっしゅ",
     "inori": "祈祷",
     "friends": "联动",
+    "relay": "接力",
     "others": "非常驻妹妹"
   }
 }
