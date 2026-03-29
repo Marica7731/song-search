@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 3/29/2026, 10:25:05 PM
+// 生成时间: 3/29/2026, 11:26:27 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -28059,6 +28059,254 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-03-17]吉他弹唱练习🎸[8SeA6lJNUAQ] Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WFwZzxEiS?p=18",
+  "source": "figaro.js"
+},
+    {
+  "title": "ありあまる富",
+  "artist": "椎名林檎",
+  "collection": "会限 26-03-28 练吉他 粉丝向",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YJXRBkEmT?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "六月は雨上がりの街を書く",
+  "artist": "ヨルシカ",
+  "collection": "会限 26-03-28 练吉他 粉丝向",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YJXRBkEmT?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "六月は雨上がりの街を書く",
+  "artist": "ヨルシカ",
+  "collection": "会限 26-03-28 练吉他 粉丝向",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YJXRBkEmT?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "月光浴",
+  "artist": "柴田淳",
+  "collection": "会限 26-03-28 练吉他 粉丝向",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YJXRBkEmT?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "チノカテ",
+  "artist": "ヨルシカ",
+  "collection": "会限 26-03-28 练吉他 粉丝向",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YJXRBkEmT?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "憂一乗",
+  "artist": "ヨルシカ",
+  "collection": "会限 26-03-28 练吉他 粉丝向",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YJXRBkEmT?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "パレード",
+  "artist": "ヨルシカ",
+  "collection": "会限 26-03-28 练吉他 粉丝向",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YJXRBkEmT?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "ひとりごつ",
+  "artist": "ハチワレ",
+  "collection": "会限 26-03-28 练吉他 粉丝向",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YJXRBkEmT?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "コイスルオトメ",
+  "artist": "いきものがかり",
+  "collection": "会限 26-03-28 练吉他 粉丝向",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YJXRBkEmT?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "YELL",
+  "artist": "いきものがかり",
+  "collection": "会限 26-03-28 练吉他 粉丝向",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YJXRBkEmT?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "会限 26-03-28 练吉他 粉丝向",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YJXRBkEmT?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "恋人失格",
+  "artist": "コレサワ",
+  "collection": "会限 26-03-28 练吉他 粉丝向",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YJXRBkEmT?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "しずかだなあ",
+  "artist": "手嶌葵",
+  "collection": "会限 26-03-28 练吉他 粉丝向",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YJXRBkEmT?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
+  "collection": "会限 26-03-28 练吉他 粉丝向",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YJXRBkEmT?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "さくら（独唱）",
+  "artist": "森山直太朗",
+  "collection": "会限 26-03-28 练吉他 粉丝向",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YJXRBkEmT?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "会限 26-03-28 练吉他 粉丝向",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YJXRBkEmT?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "森の小さなレストラン",
+  "artist": "手嶌葵",
+  "collection": "【💐歌切】#261 [2026-03-29]助眠歌回✨睡前放松时光必听🌙[alFHB84GPGI] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1szXRBfExa?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "【💐歌切】#261 [2026-03-29]助眠歌回✨睡前放松时光必听🌙[alFHB84GPGI] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1szXRBfExa?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "フクロウ~フクロウが知らせる客が来たと~",
+  "artist": "KOKIA",
+  "collection": "【💐歌切】#261 [2026-03-29]助眠歌回✨睡前放松时光必听🌙[alFHB84GPGI] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1szXRBfExa?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "アクアテラリウム",
+  "artist": "やなぎなぎ",
+  "collection": "【💐歌切】#261 [2026-03-29]助眠歌回✨睡前放松时光必听🌙[alFHB84GPGI] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1szXRBfExa?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団",
+  "collection": "【💐歌切】#261 [2026-03-29]助眠歌回✨睡前放松时光必听🌙[alFHB84GPGI] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1szXRBfExa?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "すずめ",
+  "artist": "RADWIMPS",
+  "collection": "【💐歌切】#261 [2026-03-29]助眠歌回✨睡前放松时光必听🌙[alFHB84GPGI] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1szXRBfExa?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【💐歌切】#261 [2026-03-29]助眠歌回✨睡前放松时光必听🌙[alFHB84GPGI] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1szXRBfExa?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "ハナミズキ",
+  "artist": "一青窈",
+  "collection": "【💐歌切】#261 [2026-03-29]助眠歌回✨睡前放松时光必听🌙[alFHB84GPGI] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1szXRBfExa?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "明日への手紙",
+  "artist": "手嶌葵",
+  "collection": "【💐歌切】#261 [2026-03-29]助眠歌回✨睡前放松时光必听🌙[alFHB84GPGI] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1szXRBfExa?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "蜜月アン・ドゥ・トロワ",
+  "artist": "DATEKEN",
+  "collection": "【💐歌切】#261 [2026-03-29]助眠歌回✨睡前放松时光必听🌙[alFHB84GPGI] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1szXRBfExa?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "私とワルツを",
+  "artist": "鬼束ちひろ",
+  "collection": "【💐歌切】#261 [2026-03-29]助眠歌回✨睡前放松时光必听🌙[alFHB84GPGI] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1szXRBfExa?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "月光",
+  "artist": "鬼束ちひろ",
+  "collection": "【💐歌切】#261 [2026-03-29]助眠歌回✨睡前放松时光必听🌙[alFHB84GPGI] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1szXRBfExa?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】#261 [2026-03-29]助眠歌回✨睡前放松时光必听🌙[alFHB84GPGI] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1szXRBfExa?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "第一夜",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】#261 [2026-03-29]助眠歌回✨睡前放松时光必听🌙[alFHB84GPGI] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1szXRBfExa?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "対象a",
+  "artist": "anNina",
+  "collection": "【💐歌切】#261 [2026-03-29]助眠歌回✨睡前放松时光必听🌙[alFHB84GPGI] Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1szXRBfExa?p=15",
   "source": "figaro.js"
 }
 );

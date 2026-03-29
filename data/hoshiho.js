@@ -1,6 +1,6 @@
 // HoshiHo - 歌单数据 (多合集汇总)
 // 来源: BV11fQSB2ELX
-// 生成时间: 3/29/2026, 10:29:06 PM
+// 生成时间: 3/29/2026, 11:30:31 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -955,6 +955,78 @@ window.SONG_DATA.push(
   "collection": "【🌟💐HoshiHo歌切】[2026-03-21]歌回闲聊配信_SingingStream[yYOPjr5wbwI]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11fQSB2ELX?p=31",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "YOU GET TO BURNING",
+  "artist": "松澤由美",
+  "collection": "【🌟💐HoshiHo歌切】[2026-03-29]歌回直播[fG1ugxfO35A]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WzXRBfE8C?p=1",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "盛れ！ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "【🌟💐HoshiHo歌切】[2026-03-29]歌回直播[fG1ugxfO35A]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WzXRBfE8C?p=2",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "異邦人",
+  "artist": "久保田早紀",
+  "collection": "【🌟💐HoshiHo歌切】[2026-03-29]歌回直播[fG1ugxfO35A]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WzXRBfE8C?p=3",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "The Sound of Music",
+  "artist": "「サウンド・オブ・ミュージック」",
+  "collection": "【🌟💐HoshiHo歌切】[2026-03-29]歌回直播[fG1ugxfO35A]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WzXRBfE8C?p=4",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Do-Re-Mi",
+  "artist": "「サウンド・オブ・ミュージック」",
+  "collection": "【🌟💐HoshiHo歌切】[2026-03-29]歌回直播[fG1ugxfO35A]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WzXRBfE8C?p=5",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "fairytale",
+  "artist": "Kalafina",
+  "collection": "【🌟💐HoshiHo歌切】[2026-03-29]歌回直播[fG1ugxfO35A]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WzXRBfE8C?p=6",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "FEEL×ALIVE",
+  "artist": "佐咲紗花",
+  "collection": "【🌟💐HoshiHo歌切】[2026-03-29]歌回直播[fG1ugxfO35A]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WzXRBfE8C?p=7",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "太陽が呼んでいる",
+  "artist": "加藤いづみ",
+  "collection": "【🌟💐HoshiHo歌切】[2026-03-29]歌回直播[fG1ugxfO35A]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WzXRBfE8C?p=8",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Perseus",
+  "artist": "- 島谷ひとみ",
+  "collection": "【🌟💐HoshiHo歌切】[2026-03-29]歌回直播[fG1ugxfO35A]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WzXRBfE8C?p=9",
   "source": "hoshiho.js"
 }
 );
