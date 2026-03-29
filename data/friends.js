@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1eTkKYDENL
-// 生成时间: 3/29/2026, 4:34:14 PM
+// 生成时间: 3/29/2026, 5:31:23 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1155,6 +1155,78 @@ window.SONG_DATA.push(
   "collection": "联动歌切 涼海ネモ × Figaro [2026-03-27]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t3XyBMECH?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono! 🦢△▼🌚",
+  "collection": "🦢△▼🌚 稀羽すう❌巫てんり❌涼海ネモ 2026-03-29 联动歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZbX9B2EY3?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえの △▼solo",
+  "collection": "🦢△▼🌚 稀羽すう❌巫てんり❌涼海ネモ 2026-03-29 联动歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZbX9B2EY3?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "西沢さんP △▼🌚",
+  "collection": "🦢△▼🌚 稀羽すう❌巫てんり❌涼海ネモ 2026-03-29 联动歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZbX9B2EY3?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "異端なスター",
+  "artist": "Official髭男dism 🦢solo",
+  "collection": "🦢△▼🌚 稀羽すう❌巫てんり❌涼海ネモ 2026-03-29 联动歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZbX9B2EY3?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "夜撫でるメノウ",
+  "artist": "Ayase 🦢△▼",
+  "collection": "🦢△▼🌚 稀羽すう❌巫てんり❌涼海ネモ 2026-03-29 联动歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZbX9B2EY3?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ 🌚solo",
+  "collection": "🦢△▼🌚 稀羽すう❌巫てんり❌涼海ネモ 2026-03-29 联动歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZbX9B2EY3?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ 🦢🌚",
+  "collection": "🦢△▼🌚 稀羽すう❌巫てんり❌涼海ネモ 2026-03-29 联动歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZbX9B2EY3?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "ラブレター",
+  "artist": "YOASOBI 🦢△▼🌚",
+  "collection": "🦢△▼🌚 稀羽すう❌巫てんり❌涼海ネモ 2026-03-29 联动歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZbX9B2EY3?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN 🦢△▼🌚",
+  "collection": "🦢△▼🌚 稀羽すう❌巫てんり❌涼海ネモ 2026-03-29 联动歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZbX9B2EY3?p=9",
   "source": "friends.js"
 }
 );
