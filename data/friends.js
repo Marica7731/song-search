@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1eTkKYDENL
-// 生成时间: 3/29/2026, 5:31:23 PM
+// 生成时间: 3/29/2026, 6:38:00 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -543,7 +543,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "コネクト",
-  "artist": "cover by よしか⁂ and 厄倫蒂兒",
+  "artist": "ClariS",
   "collection": "[2024-08-31]よしか⁂ and 厄倫蒂兒 联动",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eTkKYDENL?p=1",
@@ -551,7 +551,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ウィーアー!",
-  "artist": "cover by よしか⁂ and 厄倫蒂兒",
+  "artist": "きただにひろし",
   "collection": "[2024-08-31]よしか⁂ and 厄倫蒂兒 联动",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eTkKYDENL?p=2",
@@ -559,7 +559,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "残響散歌",
-  "artist": "cover by よしか⁂ and 厄倫蒂兒",
+  "artist": "Aimer",
   "collection": "[2024-08-31]よしか⁂ and 厄倫蒂兒 联动",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eTkKYDENL?p=3",
@@ -567,7 +567,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "少女レイ",
-  "artist": "cover by よしか⁂ and 厄倫蒂兒",
+  "artist": "みきとP",
   "collection": "[2024-08-31]よしか⁂ and 厄倫蒂兒 联动",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eTkKYDENL?p=4",
@@ -575,7 +575,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Smile Again",
-  "artist": "cover by よしか⁂ and 厄倫蒂兒",
+  "artist": "40mP feat.初音ミク・GUMI",
   "collection": "[2024-08-31]よしか⁂ and 厄倫蒂兒 联动",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eTkKYDENL?p=5",
@@ -583,7 +583,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "メフィスト",
-  "artist": "cover by よしか⁂ and 厄倫蒂兒",
+  "artist": "女王蜂",
   "collection": "[2024-08-31]よしか⁂ and 厄倫蒂兒 联动",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eTkKYDENL?p=6",
@@ -591,7 +591,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛してる",
-  "artist": "cover by よしか⁂ and 厄倫蒂兒",
+  "artist": "高鈴",
   "collection": "[2024-08-31]よしか⁂ and 厄倫蒂兒 联动",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eTkKYDENL?p=7",
@@ -599,7 +599,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "変わらないもの",
-  "artist": "cover by よしか⁂ and 厄倫蒂兒",
+  "artist": "奥華子",
   "collection": "[2024-08-31]よしか⁂ and 厄倫蒂兒 联动",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eTkKYDENL?p=8",
@@ -607,7 +607,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "secret base ～君がくれたもの～",
-  "artist": "cover by よしか⁂ and 厄倫蒂兒",
+  "artist": "ZONE",
   "collection": "[2024-08-31]よしか⁂ and 厄倫蒂兒 联动",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eTkKYDENL?p=9",
@@ -615,7 +615,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "晩餐歌",
-  "artist": "cover by よしか⁂ and 厄倫蒂兒",
+  "artist": "tuki.",
   "collection": "[2024-08-31]よしか⁂ and 厄倫蒂兒 联动",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eTkKYDENL?p=10",
@@ -623,7 +623,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Butter-Fly",
-  "artist": "cover by よしか⁂ and 厄倫蒂兒",
+  "artist": "和田光司",
   "collection": "[2024-08-31]よしか⁂ and 厄倫蒂兒 联动",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eTkKYDENL?p=11",
@@ -631,7 +631,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花になって",
-  "artist": "cover by よしか⁂ and 厄倫蒂兒",
+  "artist": "緑黄色社会",
   "collection": "[2024-08-31]よしか⁂ and 厄倫蒂兒 联动",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eTkKYDENL?p=12",
@@ -639,7 +639,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハッピーシンセサイザ",
-  "artist": "cover by よしか⁂ and 厄倫ティ兒",
+  "artist": "EasyPop",
   "collection": "[2024-08-31]よしか⁂ and 厄倫蒂兒 联动",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eTkKYDENL?p=13",
@@ -647,7 +647,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "桜キッス",
-  "artist": "cover by よしか⁂ and 厄倫蒂兒",
+  "artist": "河辺千恵子",
   "collection": "[2024-08-31]よしか⁂ and 厄倫蒂兒 联动",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eTkKYDENL?p=14",
@@ -655,7 +655,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Love so sweet",
-  "artist": "cover by よしか⁂ and 厄倫蒂兒",
+  "artist": "嵐",
   "collection": "[2024-08-31]よしか⁂ and 厄倫蒂兒 联动",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eTkKYDENL?p=15",
@@ -779,6 +779,70 @@ window.SONG_DATA.push(
   "collection": "【 魔光リサ / 稀羽すう 联动】一周年3D歌回【241011】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1et2RYKEk1?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "さよならミッドナイト",
+  "artist": "大柴広己",
+  "collection": "皇美緒奈 × Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZgqiYaEDv?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "Alice",
+  "artist": "古川本舗",
+  "collection": "皇美緒奈 × Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZgqiYaEDv?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "Eyes on Me",
+  "artist": "王菲",
+  "collection": "皇美緒奈 × Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZgqiYaEDv?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "それがあなたの幸せとしても",
+  "artist": "Heavenz",
+  "collection": "皇美緒奈 × Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZgqiYaEDv?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "rain stops, good-bye",
+  "artist": "におP",
+  "collection": "皇美緒奈 × Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZgqiYaEDv?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40メートルP",
+  "collection": "皇美緒奈 × Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZgqiYaEDv?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "いけないボーダーライン",
+  "artist": "ワルキューレ",
+  "collection": "皇美緒奈 × Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZgqiYaEDv?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "May'n & 中島愛",
+  "collection": "皇美緒奈 × Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZgqiYaEDv?p=8",
   "source": "friends.js"
 },
     {
@@ -1027,70 +1091,6 @@ window.SONG_DATA.push(
   "collection": "ファム・ファタル × Figaro【联动歌切】[2026-03-25][fuyZsJmTq7g]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19nQUB9EyB?p=9",
-  "source": "friends.js"
-},
-    {
-  "title": "さよならミッドナイト",
-  "artist": "大柴広己",
-  "collection": "皇美緒奈 × Figaro",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZgqiYaEDv?p=1",
-  "source": "friends.js"
-},
-    {
-  "title": "Alice",
-  "artist": "古川本舗",
-  "collection": "皇美緒奈 × Figaro",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZgqiYaEDv?p=2",
-  "source": "friends.js"
-},
-    {
-  "title": "Eyes on Me",
-  "artist": "王菲",
-  "collection": "皇美緒奈 × Figaro",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZgqiYaEDv?p=3",
-  "source": "friends.js"
-},
-    {
-  "title": "それがあなたの幸せとしても",
-  "artist": "Heavenz",
-  "collection": "皇美緒奈 × Figaro",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZgqiYaEDv?p=4",
-  "source": "friends.js"
-},
-    {
-  "title": "rain stops, good-bye",
-  "artist": "におP",
-  "collection": "皇美緒奈 × Figaro",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZgqiYaEDv?p=5",
-  "source": "friends.js"
-},
-    {
-  "title": "からくりピエロ",
-  "artist": "40メートルP",
-  "collection": "皇美緒奈 × Figaro",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZgqiYaEDv?p=6",
-  "source": "friends.js"
-},
-    {
-  "title": "いけないボーダーライン",
-  "artist": "ワルキューレ",
-  "collection": "皇美緒奈 × Figaro",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZgqiYaEDv?p=7",
-  "source": "friends.js"
-},
-    {
-  "title": "ライオン",
-  "artist": "May'n & 中島愛",
-  "collection": "皇美緒奈 × Figaro",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZgqiYaEDv?p=8",
   "source": "friends.js"
 },
     {
