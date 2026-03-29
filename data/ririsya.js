@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 3/29/2026, 1:27:28 AM
+// 生成时间: 3/29/2026, 4:33:58 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14086,16 +14086,16 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "奏（かなで）",
-  "artist": "スキマスイッチ",
+  "title": "空も飛べるはず",
+  "artist": "スピッツ",
   "collection": "【🐍歌切】[2026-03-27]没有毕业，只是唱「毕业」的歌✧毕业歌曲演唱🌸[leNSYjPB-Pk]凛々咲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vmXNBgEkj?p=11",
   "source": "ririsya.js"
 },
     {
-  "title": "空も飛べるはず",
-  "artist": "スピッツ",
+  "title": "奏（かなで）",
+  "artist": "スキマスイッチ",
   "collection": "【🐍歌切】[2026-03-27]没有毕业，只是唱「毕业」的歌✧毕业歌曲演唱🌸[leNSYjPB-Pk]凛々咲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vmXNBgEkj?p=12",

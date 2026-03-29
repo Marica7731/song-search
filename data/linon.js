@@ -1,6 +1,6 @@
 // 天籠りのん - 歌单数据 (多合集汇总)
 // 来源: BV1hw4m1i7qN
-// 生成时间: 3/29/2026, 1:29:38 AM
+// 生成时间: 3/29/2026, 4:37:22 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2886,46 +2886,6 @@ window.SONG_DATA.push(
   "source": "linon.js"
 },
     {
-  "title": "アスノヨゾラ哨戒班",
-  "artist": "Orangestar",
-  "collection": "2025年7月19日 01. アスノヨゾラ哨戒班 - Orangestar",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tsgxztEWa?p=1",
-  "source": "linon.js"
-},
-    {
-  "title": "再開",
-  "artist": "LiSA × Uru",
-  "collection": "2025年7月19日 01. アスノヨゾラ哨戒班 - Orangestar",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tsgxztEWa?p=2",
-  "source": "linon.js"
-},
-    {
-  "title": "Catch the Moment",
-  "artist": "LiSA",
-  "collection": "2025年7月19日 01. アスノヨゾラ哨戒班 - Orangestar",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tsgxztEWa?p=3",
-  "source": "linon.js"
-},
-    {
-  "title": "妄想感傷代償連盟",
-  "artist": "DECO27",
-  "collection": "2025年7月19日 01. アスノヨゾラ哨戒班 - Orangestar",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tsgxztEWa?p=4",
-  "source": "linon.js"
-},
-    {
-  "title": "ただ君に晴れ",
-  "artist": "ヨルシカ",
-  "collection": "2025年7月19日 01. アスノヨゾラ哨戒班 - Orangestar",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tsgxztEWa?p=5",
-  "source": "linon.js"
-},
-    {
   "title": "晩餐歌",
   "artist": "tuki.",
   "collection": "2025年7月18日01. 晩餐歌 - tuki.",
@@ -2995,6 +2955,46 @@ window.SONG_DATA.push(
   "collection": "2025年7月18日01. 晩餐歌 - tuki.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1k9gszUEbd?p=9",
+  "source": "linon.js"
+},
+    {
+  "title": "アスノヨゾラ哨戒班",
+  "artist": "Orangestar",
+  "collection": "2025年7月19日 01. アスノヨゾラ哨戒班 - Orangestar",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tsgxztEWa?p=1",
+  "source": "linon.js"
+},
+    {
+  "title": "再開",
+  "artist": "LiSA × Uru",
+  "collection": "2025年7月19日 01. アスノヨゾラ哨戒班 - Orangestar",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tsgxztEWa?p=2",
+  "source": "linon.js"
+},
+    {
+  "title": "Catch the Moment",
+  "artist": "LiSA",
+  "collection": "2025年7月19日 01. アスノヨゾラ哨戒班 - Orangestar",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tsgxztEWa?p=3",
+  "source": "linon.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO27",
+  "collection": "2025年7月19日 01. アスノヨゾラ哨戒班 - Orangestar",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tsgxztEWa?p=4",
+  "source": "linon.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "2025年7月19日 01. アスノヨゾラ哨戒班 - Orangestar",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tsgxztEWa?p=5",
   "source": "linon.js"
 },
     {
