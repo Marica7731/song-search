@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 3/30/2026, 2:13:14 AM
+// 生成时间: 3/30/2026, 4:41:09 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14315,6 +14315,38 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-03-28]睡不着夜晚想听的放松歌回[4dmg1ra4KCI] 凛々咲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wGXmBNEtN?p=23",
+  "source": "ririsya.js"
+},
+    {
+  "title": "3時12分",
+  "artist": "TAKU INOUE & 星街すいせい",
+  "collection": "接力歌切 2026-03-29 時を繋ぐ歌枠リレー 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PEX9BsE1f?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "時には昔の話を",
+  "artist": "加藤登紀子",
+  "collection": "接力歌切 2026-03-29 時を繋ぐ歌枠リレー 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PEX9BsE1f?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Re,Future",
+  "artist": "凛々咲",
+  "collection": "接力歌切 2026-03-29 時を繋ぐ歌枠リレー 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PEX9BsE1f?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "さよならメモリーズ",
+  "artist": "ryo(supercell)",
+  "collection": "接力歌切 2026-03-29 時を繋ぐ歌枠リレー 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PEX9BsE1f?p=4",
   "source": "ririsya.js"
 }
 );

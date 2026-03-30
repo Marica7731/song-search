@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 3/30/2026, 2:12:41 AM
+// 生成时间: 3/30/2026, 4:40:51 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -28187,6 +28187,46 @@ window.SONG_DATA.push(
   "collection": "会限 26-03-28 练吉他 粉丝向",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YJXRBkEmT?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "接力歌切 2026-03-29 時を繋ぐ歌枠リレー Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PEX9BsEao?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "GHOST",
+  "artist": "星街すいせい",
+  "collection": "接力歌切 2026-03-29 時を繋ぐ歌枠リレー Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PEX9BsEao?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "ミッドナイト・リフレクション",
+  "artist": "NOMELON NOLEMON",
+  "collection": "接力歌切 2026-03-29 時を繋ぐ歌枠リレー Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PEX9BsEao?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "夜間飛行",
+  "artist": "藍色にしもん feat. ゲキヤク",
+  "collection": "接力歌切 2026-03-29 時を繋ぐ歌枠リレー Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PEX9BsEao?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "彗星の夜明け",
+  "artist": "Figaro",
+  "collection": "接力歌切 2026-03-29 時を繋ぐ歌枠リレー Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PEX9BsEao?p=5",
   "source": "figaro.js"
 },
     {

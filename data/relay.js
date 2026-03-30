@@ -1,6 +1,6 @@
 // 接力 - 歌单数据 (多合集汇总)
 // 来源: BV1rkCTYzEZN, BV1wt421j7gT, BV1KpCdYmE3T, BV1aC4ce2E5s, BV1JbX9BmE5m
-// 生成时间: 3/30/2026, 2:21:32 AM
+// 生成时间: 3/30/2026, 4:50:56 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1478,46 +1478,6 @@ window.SONG_DATA.push(
   "source": "relay.js"
 },
     {
-  "title": "夜永唄",
-  "artist": "神はサイコロを振らない",
-  "collection": "接力歌切 2026-03-29 時を繋ぐ歌枠リレー kukuri ch _ 戸鎖 くくり _",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wJX9B9Enc?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "がらくた",
-  "artist": "米津玄師",
-  "collection": "接力歌切 2026-03-29 時を繋ぐ歌枠リレー kukuri ch _ 戸鎖 くくり _",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wJX9B9Enc?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "晩餐歌",
-  "artist": "tuki.",
-  "collection": "接力歌切 2026-03-29 時を繋ぐ歌枠リレー kukuri ch _ 戸鎖 くくり _",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wJX9B9Enc?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "One more time, One more chance",
-  "artist": "山崎まさよし",
-  "collection": "接力歌切 2026-03-29 時を繋ぐ歌枠リレー kukuri ch _ 戸鎖 くくり _",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wJX9B9Enc?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "CHE.R.RY",
-  "artist": "YUI",
-  "collection": "接力歌切 2026-03-29 時を繋ぐ歌枠リレー kukuri ch _ 戸鎖 くくり _",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wJX9B9Enc?p=5",
-  "source": "relay.js"
-},
-    {
   "title": "clock lock works",
   "artist": "ハチ",
   "collection": "接力歌切 2026-03-29 時を繋ぐ歌枠リレー Muan ch.茨むあん",
@@ -1579,78 +1539,6 @@ window.SONG_DATA.push(
   "collection": "接力歌切 2026-03-29 時を繋ぐ歌枠リレー  稍 麦 - yayamugi -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1htXRBTEMX?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "秒針を噛む",
-  "artist": "ずっと真夜中でいいのに。",
-  "collection": "接力歌切 2026-03-29 時を繋ぐ歌枠リレー Figaro",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PEX9BsEao?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "GHOST",
-  "artist": "星街すいせい",
-  "collection": "接力歌切 2026-03-29 時を繋ぐ歌枠リレー Figaro",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PEX9BsEao?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "ミッドナイト・リフレクション",
-  "artist": "NOMELON NOLEMON",
-  "collection": "接力歌切 2026-03-29 時を繋ぐ歌枠リレー Figaro",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PEX9BsEao?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "夜間飛行",
-  "artist": "藍色にしもん feat. ゲキヤク",
-  "collection": "接力歌切 2026-03-29 時を繋ぐ歌枠リレー Figaro",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PEX9BsEao?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "彗星の夜明け",
-  "artist": "Figaro",
-  "collection": "接力歌切 2026-03-29 時を繋ぐ歌枠リレー Figaro",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PEX9BsEao?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "3時12分",
-  "artist": "TAKU INOUE & 星街すいせい",
-  "collection": "接力歌切 2026-03-29 時を繋ぐ歌枠リレー 凛々咲",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PEX9BsE1f?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "時には昔の話を",
-  "artist": "加藤登紀子",
-  "collection": "接力歌切 2026-03-29 時を繋ぐ歌枠リレー 凛々咲",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PEX9BsE1f?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "Re,Future",
-  "artist": "凛々咲",
-  "collection": "接力歌切 2026-03-29 時を繋ぐ歌枠リレー 凛々咲",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PEX9BsE1f?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "さよならメモリーズ",
-  "artist": "ryo(supercell)",
-  "collection": "接力歌切 2026-03-29 時を繋ぐ歌枠リレー 凛々咲",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PEX9BsE1f?p=4",
   "source": "relay.js"
 }
 );

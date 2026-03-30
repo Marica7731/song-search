@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 3/30/2026, 2:11:14 AM
+// 生成时间: 3/30/2026, 4:39:36 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1099,6 +1099,46 @@ window.SONG_DATA.push(
   "collection": "【戸鎖 歌切】 [2026-03-24]只决定要做歌回・・・[Ut3TKdk1AdE]戸鎖くくり kukuri ch *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iFQ6BKE7X?p=22",
+  "source": "kukuri.js"
+},
+    {
+  "title": "夜永唄",
+  "artist": "神はサイコロを振らない",
+  "collection": "接力歌切 2026-03-29 時を繋ぐ歌枠リレー kukuri ch _ 戸鎖 くくり _",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wJX9B9Enc?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "がらくた",
+  "artist": "米津玄師",
+  "collection": "接力歌切 2026-03-29 時を繋ぐ歌枠リレー kukuri ch _ 戸鎖 くくり _",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wJX9B9Enc?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "接力歌切 2026-03-29 時を繋ぐ歌枠リレー kukuri ch _ 戸鎖 くくり _",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wJX9B9Enc?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "One more time, One more chance",
+  "artist": "山崎まさよし",
+  "collection": "接力歌切 2026-03-29 時を繋ぐ歌枠リレー kukuri ch _ 戸鎖 くくり _",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wJX9B9Enc?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "接力歌切 2026-03-29 時を繋ぐ歌枠リレー kukuri ch _ 戸鎖 くくり _",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wJX9B9Enc?p=5",
   "source": "kukuri.js"
 }
 );

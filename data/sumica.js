@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 3/30/2026, 2:18:24 AM
+// 生成时间: 3/30/2026, 4:47:01 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -123,6 +123,190 @@ window.SONG_DATA.push(
   "collection": "歌势推荐：澄花-sumica- 2026-03-25 VV-RazfOfQ8 コレサワ限定歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kLXbBJEiZ?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【澄花歌切】[2026-03-29]中午悠闲听弹唱如何～☀[UD2rGd5ZtNc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ttXXBbE3j?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "ぷんぷん",
+  "artist": "コレサワ",
+  "collection": "【澄花歌切】[2026-03-29]中午悠闲听弹唱如何～☀[UD2rGd5ZtNc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ttXXBbE3j?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "シアワセ",
+  "artist": "aiko",
+  "collection": "【澄花歌切】[2026-03-29]中午悠闲听弹唱如何～☀[UD2rGd5ZtNc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ttXXBbE3j?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "ダーリン",
+  "artist": "須田景凪",
+  "collection": "【澄花歌切】[2026-03-29]中午悠闲听弹唱如何～☀[UD2rGd5ZtNc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ttXXBbE3j?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "メロウ",
+  "artist": "須田景凪",
+  "collection": "【澄花歌切】[2026-03-29]中午悠闲听弹唱如何～☀[UD2rGd5ZtNc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ttXXBbE3j?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "アヤノの幸福理論",
+  "artist": "じん",
+  "collection": "【澄花歌切】[2026-03-29]中午悠闲听弹唱如何～☀[UD2rGd5ZtNc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ttXXBbE3j?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "more than words",
+  "artist": "羊文学",
+  "collection": "【澄花歌切】[2026-03-29]中午悠闲听弹唱如何～☀[UD2rGd5ZtNc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ttXXBbE3j?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【澄花歌切】[2026-03-29]中午悠闲听弹唱如何～☀[UD2rGd5ZtNc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ttXXBbE3j?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "泣き虫上等",
+  "artist": "澄花",
+  "collection": "【澄花歌切】[2026-03-29]中午悠闲听弹唱如何～☀[UD2rGd5ZtNc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ttXXBbE3j?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "チノカテ",
+  "artist": "ヨルシカ",
+  "collection": "【澄花歌切】[2026-03-29]中午悠闲听弹唱如何～☀[UD2rGd5ZtNc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ttXXBbE3j?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "【澄花歌切】[2026-03-29]中午悠闲听弹唱如何～☀[UD2rGd5ZtNc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ttXXBbE3j?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "嘘つき",
+  "artist": "阿部真央",
+  "collection": "【澄花歌切】[2026-03-29]中午悠闲听弹唱如何～☀[UD2rGd5ZtNc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ttXXBbE3j?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "ハッピーエンド",
+  "artist": "back number",
+  "collection": "【澄花歌切】[2026-03-29]中午悠闲听弹唱如何～☀[UD2rGd5ZtNc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ttXXBbE3j?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko",
+  "collection": "【澄花歌切】[2026-03-29]中午悠闲听弹唱如何～☀[UD2rGd5ZtNc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ttXXBbE3j?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "よるのあと",
+  "artist": "adieu",
+  "collection": "【澄花歌切】[2026-03-29]中午悠闲听弹唱如何～☀[UD2rGd5ZtNc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ttXXBbE3j?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "Automatic",
+  "artist": "宇多田ヒカル",
+  "collection": "【澄花歌切】[2026-03-29]中午悠闲听弹唱如何～☀[UD2rGd5ZtNc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ttXXBbE3j?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "Hey my friend",
+  "artist": "Tommy heavenly6",
+  "collection": "【澄花歌切】[2026-03-29]中午悠闲听弹唱如何～☀[UD2rGd5ZtNc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ttXXBbE3j?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "まぶしい",
+  "artist": "上白石萌音",
+  "collection": "【澄花歌切】[2026-03-29]中午悠闲听弹唱如何～☀[UD2rGd5ZtNc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ttXXBbE3j?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "ギブス",
+  "artist": "椎名林檎",
+  "collection": "【澄花歌切】[2026-03-29]中午悠闲听弹唱如何～☀[UD2rGd5ZtNc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ttXXBbE3j?p=19",
+  "source": "sumica.js"
+},
+    {
+  "title": "思想犯",
+  "artist": "ヨルシカ",
+  "collection": "【澄花歌切】[2026-03-29]中午悠闲听弹唱如何～☀[UD2rGd5ZtNc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ttXXBbE3j?p=20",
+  "source": "sumica.js"
+},
+    {
+  "title": "コイスルオトメ",
+  "artist": "いきものがかり",
+  "collection": "【澄花歌切】[2026-03-29]中午悠闲听弹唱如何～☀[UD2rGd5ZtNc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ttXXBbE3j?p=21",
+  "source": "sumica.js"
+},
+    {
+  "title": "メイクミー",
+  "artist": "澄花",
+  "collection": "【澄花歌切】[2026-03-29]中午悠闲听弹唱如何～☀[UD2rGd5ZtNc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ttXXBbE3j?p=22",
+  "source": "sumica.js"
+},
+    {
+  "title": "ちょっと待って！",
+  "artist": "澄花",
+  "collection": "【澄花歌切】[2026-03-29]中午悠闲听弹唱如何～☀[UD2rGd5ZtNc]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ttXXBbE3j?p=23",
   "source": "sumica.js"
 }
 );
