@@ -69,10 +69,11 @@ const SINGER_CONFIGS = [
     { bvids: ["BV167c2znErj"], file: "shuna", alias: "朱名" },
     { bvids: ["BV1GXYFzXETo","BV1MPpUzsE1D","BV184W5zeE1Z"], file: "nayuta", alias: "nayuta" },
     { bvids: ["BV1UCkhBkEon"], file: "MunMosh", alias: "むんもっしゅ" },
-    { bvids: ["BV117P2zwEuq"], file: "inori", alias: "祈祷" },
+    { bvids: ["BV1kLXbBJEiZ"], file: "sumica", alias: "澄花" },
+    { bvids: ["BV1KHXxBUErU","BV1iHQXBzEgU"], file: "romany", alias: "ロマニ" },
     { bvids: ["BV1eTkKYDENL"], file: "friends", alias: "联动" },
-    { bvids: ["BV1rkCTYzEZN","BV1wt421j7gT","BV1KpCdYmE3T","BV1aC4ce2E5s"], file: "relay", alias: "接力" },
-    { bvids: ["BV11GZtBcEsp","BV1xucZzxEkZ"], file: "others", alias: "非常驻妹妹" }
+    { bvids: ["BV1rkCTYzEZN","BV1wt421j7gT","BV1KpCdYmE3T","BV1aC4ce2E5s","BV1JbX9BmE5m"], file: "relay", alias: "接力" },
+    { bvids: ["BV11GZtBcEsp","BV1xucZzxEkZ","BV117P2zwEuq"], file: "others", alias: "非常驻妹妹" }
 ];
 
 const DATA_DIR = path.join(__dirname, '..', 'data');
