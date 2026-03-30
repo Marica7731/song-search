@@ -1,6 +1,6 @@
 // 朱名 - 歌单数据 (多合集汇总)
 // 来源: BV167c2znErj
-// 生成时间: 3/30/2026, 6:54:06 PM
+// 生成时间: 3/30/2026, 7:56:19 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4915,6 +4915,126 @@ window.SONG_DATA.push(
   "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=26",
+  "source": "shuna.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=27",
+  "source": "shuna.js"
+},
+    {
+  "title": "頑張ったっていいんじゃない",
+  "artist": "大原櫻子",
+  "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=28",
+  "source": "shuna.js"
+},
+    {
+  "title": "サンキュー。",
+  "artist": "大原櫻子",
+  "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=29",
+  "source": "shuna.js"
+},
+    {
+  "title": "ミックスナッツ",
+  "artist": "Official髭男dism",
+  "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=30",
+  "source": "shuna.js"
+},
+    {
+  "title": "ヒーロー",
+  "artist": "supercell",
+  "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=31",
+  "source": "shuna.js"
+},
+    {
+  "title": "茜色の約束",
+  "artist": "いきものがかり",
+  "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=32",
+  "source": "shuna.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=33",
+  "source": "shuna.js"
+},
+    {
+  "title": "点描の唄",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=34",
+  "source": "shuna.js"
+},
+    {
+  "title": "奏",
+  "artist": "スキマスイッチ",
+  "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=35",
+  "source": "shuna.js"
+},
+    {
+  "title": "逆光",
+  "artist": "Ado",
+  "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=36",
+  "source": "shuna.js"
+},
+    {
+  "title": "ドレミファロンド",
+  "artist": "40mP feat.初音ミク",
+  "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=37",
+  "source": "shuna.js"
+},
+    {
+  "title": "人魚",
+  "artist": "ポルカドットスティングレイ",
+  "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=38",
+  "source": "shuna.js"
+},
+    {
+  "title": "ヒミツ",
+  "artist": "ポルカドットスティングレイ",
+  "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=39",
+  "source": "shuna.js"
+},
+    {
+  "title": "Absolute 5",
+  "artist": "ワルキューレ",
+  "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=40",
+  "source": "shuna.js"
+},
+    {
+  "title": "ロマンスの神様",
+  "artist": "広瀬香美",
+  "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=41",
   "source": "shuna.js"
 }
 );
