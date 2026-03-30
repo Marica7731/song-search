@@ -20,7 +20,8 @@
     "shuna.js",
     "nayuta.js",
     "MunMosh.js",
-    "inori.js",
+    "sumica.js",
+    "romany.js",
     "friends.js",
     "relay.js",
     "others.js"
@@ -46,7 +47,8 @@
     "shuna": "朱名",
     "nayuta": "nayuta",
     "MunMosh": "むんもっしゅ",
-    "inori": "祈祷",
+    "sumica": "澄花",
+    "romany": "ロマニ",
     "friends": "联动",
     "relay": "接力",
     "others": "非常驻妹妹"
