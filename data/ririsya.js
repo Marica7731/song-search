@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 3/31/2026, 1:25:21 AM
+// 生成时间: 3/31/2026, 4:31:47 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14347,6 +14347,158 @@ window.SONG_DATA.push(
   "collection": "接力歌切 2026-03-29 時を繋ぐ歌枠リレー 凛々咲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PEX9BsE1f?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "はじめてのチュウ",
+  "artist": "あんしんパパ",
+  "collection": "【🐍歌切】[2026-03-30]深夜吉他弹唱歌回✧ 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAXBBnEDR?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "春を告げる",
+  "artist": "yama",
+  "collection": "【🐍歌切】[2026-03-30]深夜吉他弹唱歌回✧ 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAXBBnEDR?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "赤いスイートピー",
+  "artist": "松田聖子",
+  "collection": "【🐍歌切】[2026-03-30]深夜吉他弹唱歌回✧ 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAXBBnEDR?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "木綿のハンカチーフ",
+  "artist": "太田裕美",
+  "collection": "【🐍歌切】[2026-03-30]深夜吉他弹唱歌回✧ 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAXBBnEDR?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "SWEET MEMORIES",
+  "artist": "松田聖子",
+  "collection": "【🐍歌切】[2026-03-30]深夜吉他弹唱歌回✧ 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAXBBnEDR?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-03-30]深夜吉他弹唱歌回✧ 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAXBBnEDR?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-03-30]深夜吉他弹唱歌回✧ 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAXBBnEDR?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "チェリー",
+  "artist": "スピッツ",
+  "collection": "【🐍歌切】[2026-03-30]深夜吉他弹唱歌回✧ 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAXBBnEDR?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ロビンソン",
+  "artist": "スピッツ",
+  "collection": "【🐍歌切】[2026-03-30]深夜吉他弹唱歌回✧ 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAXBBnEDR?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Mysterious Eyes",
+  "artist": "GARNET CROW",
+  "collection": "【🐍歌切】[2026-03-30]深夜吉他弹唱歌回✧ 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAXBBnEDR?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "運命のルーレット廻して",
+  "artist": "ZARD",
+  "collection": "【🐍歌切】[2026-03-30]深夜吉他弹唱歌回✧ 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAXBBnEDR?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "幸福論",
+  "artist": "椎名林檎",
+  "collection": "【🐍歌切】[2026-03-30]深夜吉他弹唱歌回✧ 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAXBBnEDR?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ギブス",
+  "artist": "椎名林檎",
+  "collection": "【🐍歌切】[2026-03-30]深夜吉他弹唱歌回✧ 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAXBBnEDR?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "愛を伝えたいだとか",
+  "artist": "あいみょん",
+  "collection": "【🐍歌切】[2026-03-30]深夜吉他弹唱歌回✧ 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAXBBnEDR?p=14",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ex ダーリン",
+  "artist": "クリープハイプ",
+  "collection": "【🐍歌切】[2026-03-30]深夜吉他弹唱歌回✧ 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAXBBnEDR?p=15",
+  "source": "ririsya.js"
+},
+    {
+  "title": "二十九、三十",
+  "artist": "クリープハイプ",
+  "collection": "【🐍歌切】[2026-03-30]深夜吉他弹唱歌回✧ 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAXBBnEDR?p=16",
+  "source": "ririsya.js"
+},
+    {
+  "title": "夢で逢えたら",
+  "artist": "銀杏BOYZ",
+  "collection": "【🐍歌切】[2026-03-30]深夜吉他弹唱歌回✧ 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAXBBnEDR?p=17",
+  "source": "ririsya.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【🐍歌切】[2026-03-30]深夜吉他弹唱歌回✧ 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAXBBnEDR?p=18",
+  "source": "ririsya.js"
+},
+    {
+  "title": "恋人失格",
+  "artist": "コレサワ",
+  "collection": "【🐍歌切】[2026-03-30]深夜吉他弹唱歌回✧ 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAXBBnEDR?p=19",
   "source": "ririsya.js"
 }
 );

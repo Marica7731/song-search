@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq
-// 生成时间: 3/31/2026, 1:35:08 AM
+// 生成时间: 3/31/2026, 4:43:27 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -11323,6 +11323,166 @@ window.SONG_DATA.push(
   "collection": "歌势推荐：潤水りん 2026-03-25 d4mJVc0L2F4",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11gXbBXEaj?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "テロメアの産声",
+  "artist": "Heavenz",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "ゆるふわ樹海ガール",
+  "artist": "石風呂",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "風待ちハローワールド",
+  "artist": "ヘリP",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "S・K・Y",
+  "artist": "ライブP",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "君の体温",
+  "artist": "クワガタP",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "無限ノスタルジー",
+  "artist": "nuts rock",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "指切り",
+  "artist": "すこっぷ",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "HERE",
+  "artist": "KEI",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "Hello, Worker",
+  "artist": "KEI",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "アイラビューアイニジュー",
+  "artist": "KEI",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "走れ",
+  "artist": "KEI",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "迷子の僕に",
+  "artist": "KEI",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "防衛本能",
+  "artist": "桑爺",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "メリーとニコラウス",
+  "artist": "buzzG",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "BO-ZU",
+  "artist": "てにをは",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "青",
+  "artist": "164",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "ふつーの魔法少女でごめんなさい。",
+  "artist": "みきとP",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "Painful World",
+  "artist": "いろなP",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "Colorful World",
+  "artist": "gomezP",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "ワールド・コーリング",
+  "artist": "自然の敵P",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=20",
   "source": "others.js"
 },
     {
