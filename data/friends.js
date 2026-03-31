@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1eTkKYDENL
-// 生成时间: 3/31/2026, 4:09:53 PM
+// 生成时间: 3/31/2026, 6:01:42 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1227,6 +1227,70 @@ window.SONG_DATA.push(
   "collection": "🦢△▼🌚 稀羽すう❌巫てんり❌涼海ネモ 2026-03-29 联动歌切",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZbX9B2EY3?p=9",
+  "source": "friends.js"
+},
+    {
+  "title": "Plazma",
+  "artist": "米津玄師",
+  "collection": "🦢💐 稀羽すう × Figaro 联动歌切 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nMXCBHEKt?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "🦢💐 稀羽すう × Figaro 联动歌切 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nMXCBHEKt?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "すずめ",
+  "artist": "RADWIMPS",
+  "collection": "🦢💐 稀羽すう × Figaro 联动歌切 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nMXCBHEKt?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
+  "collection": "🦢💐 稀羽すう × Figaro 联动歌切 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nMXCBHEKt?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "SUN",
+  "artist": "星野源",
+  "collection": "🦢💐 稀羽すう × Figaro 联动歌切 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nMXCBHEKt?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "Limbo",
+  "artist": "春野",
+  "collection": "🦢💐 稀羽すう × Figaro 联动歌切 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nMXCBHEKt?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "エイリアンズ",
+  "artist": "キリンジ",
+  "collection": "🦢💐 稀羽すう × Figaro 联动歌切 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nMXCBHEKt?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "水平線",
+  "artist": "back number",
+  "collection": "🦢💐 稀羽すう × Figaro 联动歌切 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nMXCBHEKt?p=8",
   "source": "friends.js"
 }
 );
