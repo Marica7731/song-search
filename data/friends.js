@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1eTkKYDENL
-// 生成时间: 4/1/2026, 8:45:28 PM
+// 生成时间: 4/1/2026, 9:43:55 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1291,6 +1291,22 @@ window.SONG_DATA.push(
   "collection": "🦢💐 稀羽すう × Figaro 联动歌切 2026-03-31",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nMXCBHEKt?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "Blue Jeans",
+  "artist": "HANA",
+  "collection": "2026-04-01 联动歌切 神秘嘉宾是谁？！愚人节特别歌回 ✧凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1269JBNEQy?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "Sad Song",
+  "artist": "ちゃんみな",
+  "collection": "2026-04-01 联动歌切 神秘嘉宾是谁？！愚人节特别歌回 ✧凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1269JBNEQy?p=2",
   "source": "friends.js"
 }
 );

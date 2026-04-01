@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 4/1/2026, 8:37:02 PM
+// 生成时间: 4/1/2026, 9:35:42 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1139,6 +1139,214 @@ window.SONG_DATA.push(
   "collection": "接力歌切 2026-03-29 時を繋ぐ歌枠リレー kukuri ch _ 戸鎖 くくり _",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wJX9B9Enc?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "give it back",
+  "artist": "Cö shu Nie",
+  "collection": "【歌切】[2026-04-01]樱花请别凋谢！🌸歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xb9JBkEHm?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "燈",
+  "artist": "崎山蒼志",
+  "collection": "【歌切】[2026-04-01]樱花请别凋谢！🌸歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xb9JBkEHm?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "words",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-04-01]樱花请别凋谢！🌸歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xb9JBkEHm?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-04-01]樱花请别凋谢！🌸歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xb9JBkEHm?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-01]樱花请别凋谢！🌸歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xb9JBkEHm?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "雨が降る",
+  "artist": "坂本真綾",
+  "collection": "【歌切】[2026-04-01]樱花请别凋谢！🌸歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xb9JBkEHm?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "rain stops, good-bye",
+  "artist": "におP feat. 初音ミク",
+  "collection": "【歌切】[2026-04-01]樱花请别凋谢！🌸歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xb9JBkEHm?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "アムリタ",
+  "artist": "牧野由依",
+  "collection": "【歌切】[2026-04-01]樱花请别凋谢！🌸歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xb9JBkEHm?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "4月の雨",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-04-01]樱花请别凋谢！🌸歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xb9JBkEHm?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "最後の雨",
+  "artist": "中西保志",
+  "collection": "【歌切】[2026-04-01]樱花请别凋谢！🌸歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xb9JBkEHm?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "闇に降る雨",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-04-01]樱花请别凋谢！🌸歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xb9JBkEHm?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "群青日和",
+  "artist": "東京事変",
+  "collection": "【歌切】[2026-04-01]樱花请别凋谢！🌸歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xb9JBkEHm?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ギブス",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-04-01]樱花请别凋谢！🌸歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xb9JBkEHm?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "幸福論",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-04-01]樱花请别凋谢！🌸歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xb9JBkEHm?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "シドと白昼夢",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-04-01]樱花请别凋谢！🌸歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xb9JBkEHm?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "意識",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-04-01]樱花请别凋谢！🌸歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xb9JBkEHm?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ケセラセラ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-04-01]樱花请别凋谢！🌸歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xb9JBkEHm?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Rain",
+  "artist": "秦基博",
+  "collection": "【歌切】[2026-04-01]樱花请别凋谢！🌸歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xb9JBkEHm?p=18",
+  "source": "kukuri.js"
+},
+    {
+  "title": "旬",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-04-01]樱花请别凋谢！🌸歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xb9JBkEHm?p=19",
+  "source": "kukuri.js"
+},
+    {
+  "title": "対象a",
+  "artist": "anNina",
+  "collection": "【歌切】[2026-04-01]樱花请别凋谢！🌸歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xb9JBkEHm?p=20",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ツキアカリ",
+  "artist": "Rie Fu",
+  "collection": "【歌切】[2026-04-01]樱花请别凋谢！🌸歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xb9JBkEHm?p=21",
+  "source": "kukuri.js"
+},
+    {
+  "title": "余所事",
+  "artist": "におP feat. 鏡音リン",
+  "collection": "【歌切】[2026-04-01]樱花请别凋谢！🌸歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xb9JBkEHm?p=22",
+  "source": "kukuri.js"
+},
+    {
+  "title": "帰り道",
+  "artist": "におP feat. 初音ミク",
+  "collection": "【歌切】[2026-04-01]樱花请别凋谢！🌸歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xb9JBkEHm?p=23",
+  "source": "kukuri.js"
+},
+    {
+  "title": "世田谷ナイトサファリ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "【歌切】[2026-04-01]樱花请别凋谢！🌸歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xb9JBkEHm?p=24",
+  "source": "kukuri.js"
+},
+    {
+  "title": "心という名の不可解",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-04-01]樱花请别凋谢！🌸歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xb9JBkEHm?p=25",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ギラギラ",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-04-01]樱花请别凋谢！🌸歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xb9JBkEHm?p=26",
   "source": "kukuri.js"
 }
 );

@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 4/1/2026, 8:40:06 PM
+// 生成时间: 4/1/2026, 9:39:00 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -28883,6 +28883,166 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-03-29]初見大募集！[lBuLoN95tkM] YOSHIKA よしか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1axXRBBEvt?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春",
+  "collection": "【🍠🦍歌切】[2026-04-01]欢迎初见！四月初歌回期待相遇！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bJ9pBjEmA?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アローラ!!",
+  "artist": "松本梨香",
+  "collection": "【🍠🦍歌切】[2026-04-01]欢迎初见！四月初歌回期待相遇！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bJ9pBjEmA?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【🍠🦍歌切】[2026-04-01]欢迎初见！四月初歌回期待相遇！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bJ9pBjEmA?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-04-01]欢迎初见！四月初歌回期待相遇！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bJ9pBjEmA?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "YUME日和",
+  "artist": "島谷ひとみ",
+  "collection": "【🍠🦍歌切】[2026-04-01]欢迎初见！四月初歌回期待相遇！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bJ9pBjEmA?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "オラは人気者",
+  "artist": "クレヨンしんちゃん",
+  "collection": "【🍠🦍歌切】[2026-04-01]欢迎初见！四月初歌回期待相遇！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bJ9pBjEmA?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "未来のミュージアム",
+  "artist": "Perfume",
+  "collection": "【🍠🦍歌切】[2026-04-01]欢迎初见！四月初歌回期待相遇！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bJ9pBjEmA?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【🍠🦍歌切】[2026-04-01]欢迎初见！四月初歌回期待相遇！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bJ9pBjEmA?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "【🍠🦍歌切】[2026-04-01]欢迎初见！四月初歌回期待相遇！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bJ9pBjEmA?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "いーあるふぁんくらぶ",
+  "artist": "みきとP feat.GUMI・鏡音リン",
+  "collection": "【🍠🦍歌切】[2026-04-01]欢迎初见！四月初歌回期待相遇！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bJ9pBjEmA?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "極楽浄土",
+  "artist": "GARNiDELiA",
+  "collection": "【🍠🦍歌切】[2026-04-01]欢迎初见！四月初歌回期待相遇！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bJ9pBjEmA?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "輝夜の城で踊りたい",
+  "artist": "μ's",
+  "collection": "【🍠🦍歌切】[2026-04-01]欢迎初见！四月初歌回期待相遇！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bJ9pBjEmA?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ヘビーローテーション",
+  "artist": "AKB48",
+  "collection": "【🍠🦍歌切】[2026-04-01]欢迎初见！四月初歌回期待相遇！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bJ9pBjEmA?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Diamonds",
+  "artist": "プリンセス プリンセス",
+  "collection": "【🍠🦍歌切】[2026-04-01]欢迎初见！四月初歌回期待相遇！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bJ9pBjEmA?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "祝福",
+  "artist": "YOASOBI",
+  "collection": "【🍠🦍歌切】[2026-04-01]欢迎初见！四月初歌回期待相遇！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bJ9pBjEmA?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "青い珊瑚礁",
+  "artist": "松田聖子",
+  "collection": "【🍠🦍歌切】[2026-04-01]欢迎初见！四月初歌回期待相遇！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bJ9pBjEmA?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "DANZEN！ふたりはプリキュア",
+  "artist": "Mayumi Gojo",
+  "collection": "【🍠🦍歌切】[2026-04-01]欢迎初见！四月初歌回期待相遇！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bJ9pBjEmA?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "味楽る!ミミカ ナンバーワン",
+  "artist": "Goma",
+  "collection": "【🍠🦍歌切】[2026-04-01]欢迎初见！四月初歌回期待相遇！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bJ9pBjEmA?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Over the Top",
+  "artist": "きただにひろし",
+  "collection": "【🍠🦍歌切】[2026-04-01]欢迎初见！四月初歌回期待相遇！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bJ9pBjEmA?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夢の続きへ",
+  "artist": "SURFACE",
+  "collection": "【🍠🦍歌切】[2026-04-01]欢迎初见！四月初歌回期待相遇！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bJ9pBjEmA?p=20",
   "source": "yoshika.js"
 }
 );

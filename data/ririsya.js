@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 4/1/2026, 8:38:34 PM
+// 生成时间: 4/1/2026, 9:37:38 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14499,6 +14499,78 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-03-30]深夜吉他弹唱歌回✧ 凛々咲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MAXBBnEDR?p=19",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ペテン師が笑う頃に",
+  "artist": "梨本うい",
+  "collection": "【🐍歌切】[2026-04-01]神秘嘉宾是谁？！愚人节特别歌回 ✧凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m69JBNEm7?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ",
+  "collection": "【🐍歌切】[2026-04-01]神秘嘉宾是谁？！愚人节特别歌回 ✧凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m69JBNEm7?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "神っぽいな",
+  "artist": "ピノキオピー",
+  "collection": "【🐍歌切】[2026-04-01]神秘嘉宾是谁？！愚人节特别歌回 ✧凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m69JBNEm7?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "嘘つきの世界",
+  "artist": "すこっぷ",
+  "collection": "【🐍歌切】[2026-04-01]神秘嘉宾是谁？！愚人节特别歌回 ✧凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m69JBNEm7?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "天ノ弱",
+  "artist": "164",
+  "collection": "【🐍歌切】[2026-04-01]神秘嘉宾是谁？！愚人节特别歌回 ✧凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m69JBNEm7?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "素直になれないんだ",
+  "artist": "nyankobrq ft. Ririsya",
+  "collection": "【🐍歌切】[2026-04-01]神秘嘉宾是谁？！愚人节特别歌回 ✧凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m69JBNEm7?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "【🐍歌切】[2026-04-01]神秘嘉宾是谁？！愚人节特别歌回 ✧凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m69JBNEm7?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "恋愛裁判",
+  "artist": "40mP",
+  "collection": "【🐍歌切】[2026-04-01]神秘嘉宾是谁？！愚人节特别歌回 ✧凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m69JBNEm7?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "アイのシナリオ",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【🐍歌切】[2026-04-01]神秘嘉宾是谁？！愚人节特别歌回 ✧凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m69JBNEm7?p=9",
   "source": "ririsya.js"
 }
 );

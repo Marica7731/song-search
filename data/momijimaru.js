@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 4/1/2026, 8:36:42 PM
+// 生成时间: 4/1/2026, 9:35:18 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1771,6 +1771,126 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-03-26]催泪歌曲限定歌回💧✨[r45_UZe8G6c]紅葉丸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VKXxBfED1?p=15",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Arrietty's Song",
+  "artist": "CécileCorbel",
+  "collection": "【🍁歌切】[2026-03-31]早晨的陪伴，来一起悠闲聊天和歌回吧🍁✨紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eT9nB2E62?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "オー・シャンゼリゼ",
+  "artist": "奇妙礼太郎トラベルスイング楽団",
+  "collection": "【🍁歌切】[2026-03-31]早晨的陪伴，来一起悠闲聊天和歌回吧🍁✨紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eT9nB2E62?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【🍁歌切】[2026-03-31]早晨的陪伴，来一起悠闲聊天和歌回吧🍁✨紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eT9nB2E62?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【🍁歌切】[2026-03-31]早晨的陪伴，来一起悠闲聊天和歌回吧🍁✨紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eT9nB2E62?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍁歌切】[2026-03-31]早晨的陪伴，来一起悠闲聊天和歌回吧🍁✨紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eT9nB2E62?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【🍁歌切】[2026-03-31]早晨的陪伴，来一起悠闲聊天和歌回吧🍁✨紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eT9nB2E62?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO27",
+  "collection": "【🍁歌切】[2026-03-31]早晨的陪伴，来一起悠闲聊天和歌回吧🍁✨紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eT9nB2E62?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "きゅうくらりん",
+  "artist": "いよわ",
+  "collection": "【🍁歌切】[2026-03-31]早晨的陪伴，来一起悠闲聊天和歌回吧🍁✨紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eT9nB2E62?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "マザーデイズ",
+  "artist": "Chinozo",
+  "collection": "【🍁歌切】[2026-03-31]早晨的陪伴，来一起悠闲聊天和歌回吧🍁✨紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eT9nB2E62?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ノートリアス",
+  "artist": "てにをは&可不",
+  "collection": "【🍁歌切】[2026-03-31]早晨的陪伴，来一起悠闲聊天和歌回吧🍁✨紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eT9nB2E62?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "つづみぐさ",
+  "artist": "いよわ",
+  "collection": "【🍁歌切】[2026-03-31]早晨的陪伴，来一起悠闲聊天和歌回吧🍁✨紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eT9nB2E62?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【🍁歌切】[2026-03-31]早晨的陪伴，来一起悠闲聊天和歌回吧🍁✨紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eT9nB2E62?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【🍁歌切】[2026-03-31]早晨的陪伴，来一起悠闲聊天和歌回吧🍁✨紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eT9nB2E62?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "一難",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-03-31]早晨的陪伴，来一起悠闲聊天和歌回吧🍁✨紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eT9nB2E62?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "エンジョイ",
+  "artist": "Mey-chan",
+  "collection": "【🍁歌切】[2026-03-31]早晨的陪伴，来一起悠闲聊天和歌回吧🍁✨紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eT9nB2E62?p=15",
   "source": "momijimaru.js"
 }
 );

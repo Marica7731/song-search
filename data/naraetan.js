@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 4/1/2026, 8:37:46 PM
+// 生成时间: 4/1/2026, 9:36:39 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6603,6 +6603,126 @@ window.SONG_DATA.push(
   "collection": "【なれたん歌切】[2026-03-28]周六深夜歌回💐[xwfLaTHh6hI] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AHXyBaEUZ?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "マリーゴールド",
+  "artist": "あいみょん",
+  "collection": "【歌切】[2026-03-31]限定与花相关的歌回🌸なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NC9JBPEan?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-03-31]限定与花相关的歌回🌸なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NC9JBPEan?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ハルジオン",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-03-31]限定与花相关的歌回🌸なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NC9JBPEan?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "桜",
+  "artist": "コブクロ",
+  "collection": "【歌切】[2026-03-31]限定与花相关的歌回🌸なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NC9JBPEan?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "サクラミツツキ",
+  "artist": "SPYAIR",
+  "collection": "【歌切】[2026-03-31]限定与花相关的歌回🌸なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NC9JBPEan?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "赤いスイートピー",
+  "artist": "松田聖子",
+  "collection": "【歌切】[2026-03-31]限定与花相关的歌回🌸なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NC9JBPEan?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "愛をこめて花束を",
+  "artist": "Superfly",
+  "collection": "【歌切】[2026-03-31]限定与花相关的歌回🌸なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NC9JBPEan?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-03-31]限定与花相关的歌回🌸なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NC9JBPEan?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-03-31]限定与花相关的歌回🌸なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NC9JBPEan?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【歌切】[2026-03-31]限定与花相关的歌回🌸なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NC9JBPEan?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "アイノカタチ",
+  "artist": "misia",
+  "collection": "【歌切】[2026-03-31]限定与花相关的歌回🌸なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NC9JBPEan?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "涙の種、笑顔の花",
+  "artist": "中川翔子",
+  "collection": "【歌切】[2026-03-31]限定与花相关的歌回🌸なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NC9JBPEan?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "月光花",
+  "artist": "Janne Da Arc",
+  "collection": "【歌切】[2026-03-31]限定与花相关的歌回🌸なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NC9JBPEan?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-03-31]限定与花相关的歌回🌸なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NC9JBPEan?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "봄이좋냐？？",
+  "artist": "10cm",
+  "collection": "【歌切】[2026-03-31]限定与花相关的歌回🌸なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NC9JBPEan?p=15",
   "source": "naraetan.js"
 },
     {

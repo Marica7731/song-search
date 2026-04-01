@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据 (多合集汇总)
 // 来源: BV1zzZPBsEum
-// 生成时间: 4/1/2026, 8:40:47 PM
+// 生成时间: 4/1/2026, 9:39:35 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4483,6 +4483,158 @@ window.SONG_DATA.push(
   "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=18",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "fake face dance music",
+  "artist": "音田雅則",
+  "collection": "【👿歌切】[2026-04-01]夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=1",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "嫌々",
+  "artist": "HALVES",
+  "collection": "【👿歌切】[2026-04-01]夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=2",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "【👿歌切】[2026-04-01]夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=3",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ギラギラ",
+  "artist": "Ado",
+  "collection": "【👿歌切】[2026-04-01]夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=4",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "可愛くてごめん",
+  "artist": "HoneyWorks",
+  "collection": "【👿歌切】[2026-04-01]夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=5",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "死ぬな！",
+  "artist": "こっちのけんと",
+  "collection": "【👿歌切】[2026-04-01]夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=6",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "Mela！",
+  "artist": "緑黄色社会",
+  "collection": "【👿歌切】[2026-04-01]夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=7",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "サムライハート",
+  "artist": "SPYAIR",
+  "collection": "【👿歌切】[2026-04-01]夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=8",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "悪者",
+  "artist": "くじら",
+  "collection": "【👿歌切】[2026-04-01]夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=9",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "死神",
+  "artist": "米津玄師",
+  "collection": "【👿歌切】[2026-04-01]夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=10",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "more than words",
+  "artist": "羊文学",
+  "collection": "【👿歌切】[2026-04-01]夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=11",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ラフメイカー",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【👿歌切】[2026-04-01]夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=12",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "翼をください",
+  "artist": "桜高軽音部",
+  "collection": "【👿歌切】[2026-04-01]夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=13",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "コロンブス",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【👿歌切】[2026-04-01]夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=14",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar",
+  "collection": "【👿歌切】[2026-04-01]夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=15",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【👿歌切】[2026-04-01]夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=16",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【👿歌切】[2026-04-01]夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=17",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "トンツカタンタン",
+  "artist": "クレイジーウォウウォウ",
+  "collection": "【👿歌切】[2026-04-01]夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=18",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【👿歌切】[2026-04-01]夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=19",
   "source": "otomoneruki.js"
 }
 );
