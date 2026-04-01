@@ -1,6 +1,6 @@
 // 朱名 - 歌单数据 (多合集汇总)
 // 来源: BV167c2znErj
-// 生成时间: 4/1/2026, 1:02:39 PM
+// 生成时间: 4/1/2026, 2:34:01 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5110,11 +5110,19 @@ window.SONG_DATA.push(
   "source": "shuna.js"
 },
     {
+  "title": "YUME日和",
+  "artist": "島谷ひとみ",
+  "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=51",
+  "source": "shuna.js"
+},
+    {
   "title": "心絵",
   "artist": "ロードオブメジャー",
   "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=51",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=52",
   "source": "shuna.js"
 },
     {
@@ -5122,7 +5130,7 @@ window.SONG_DATA.push(
   "artist": "コブクロ",
   "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=52",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=53",
   "source": "shuna.js"
 },
     {
@@ -5130,7 +5138,7 @@ window.SONG_DATA.push(
   "artist": "さユり",
   "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=53",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=54",
   "source": "shuna.js"
 },
     {
@@ -5138,7 +5146,7 @@ window.SONG_DATA.push(
   "artist": "緑黄色社会",
   "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=54",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=55",
   "source": "shuna.js"
 },
     {
@@ -5146,7 +5154,7 @@ window.SONG_DATA.push(
   "artist": "千菅春香",
   "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=55",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=56",
   "source": "shuna.js"
 },
     {
@@ -5154,7 +5162,7 @@ window.SONG_DATA.push(
   "artist": "LiSA",
   "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=56",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=57",
   "source": "shuna.js"
 },
     {
@@ -5162,7 +5170,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=57",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=58",
   "source": "shuna.js"
 },
     {
@@ -5170,7 +5178,7 @@ window.SONG_DATA.push(
   "artist": "ランカ・リー＝中島愛",
   "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=58",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=59",
   "source": "shuna.js"
 },
     {
@@ -5178,7 +5186,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST",
   "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=59",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=60",
   "source": "shuna.js"
 },
     {
@@ -5186,7 +5194,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=60",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=61",
   "source": "shuna.js"
 },
     {
@@ -5194,7 +5202,7 @@ window.SONG_DATA.push(
   "artist": "LiSA",
   "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=61",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=62",
   "source": "shuna.js"
 },
     {
@@ -5202,7 +5210,7 @@ window.SONG_DATA.push(
   "artist": "いきものがかり",
   "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=62",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=63",
   "source": "shuna.js"
 },
     {
@@ -5210,7 +5218,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=63",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=64",
   "source": "shuna.js"
 },
     {
@@ -5218,7 +5226,7 @@ window.SONG_DATA.push(
   "artist": "ワルキューレ",
   "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=64",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=65",
   "source": "shuna.js"
 },
     {
@@ -5226,7 +5234,7 @@ window.SONG_DATA.push(
   "artist": "Superfly",
   "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=65",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=66",
   "source": "shuna.js"
 },
     {
@@ -5234,7 +5242,7 @@ window.SONG_DATA.push(
   "artist": "いきものがかり",
   "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=66",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=67",
   "source": "shuna.js"
 },
     {
@@ -5242,7 +5250,7 @@ window.SONG_DATA.push(
   "artist": "ワルキューレ",
   "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=67",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=68",
   "source": "shuna.js"
 },
     {
@@ -5250,7 +5258,7 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=68",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=69",
   "source": "shuna.js"
 },
     {
@@ -5258,20 +5266,12 @@ window.SONG_DATA.push(
   "artist": "TK from 凛として時雨",
   "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=69",
+  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=70",
   "source": "shuna.js"
 },
     {
   "title": "夜明けと蛍",
   "artist": "n-buna",
-  "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=70",
-  "source": "shuna.js"
-},
-    {
-  "title": "YUME日和",
-  "artist": "島谷ひとみ",
   "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=71",
