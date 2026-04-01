@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 4/1/2026, 7:57:15 PM
+// 生成时间: 4/1/2026, 8:38:49 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -20363,6 +20363,54 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】[2026-03-28]午后唱歌。｜卡拉OK｜唱歌直播[lf0oFR62Jcs] 稀羽すう",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDX5BFEHt?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono！",
+  "collection": "【🦢歌切】#138[2026-04-01]水曜日の定期歌枠！きゅるきゅるりん★稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh9JB3EUL?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー＝中島愛",
+  "collection": "【🦢歌切】#138[2026-04-01]水曜日の定期歌枠！きゅるきゅるりん★稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh9JB3EUL?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "可愛くてごめん",
+  "artist": "HoneyWorks",
+  "collection": "【🦢歌切】#138[2026-04-01]水曜日の定期歌枠！きゅるきゅるりん★稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh9JB3EUL?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "可愛くなりたい",
+  "artist": "HoneyWorks",
+  "collection": "【🦢歌切】#138[2026-04-01]水曜日の定期歌枠！きゅるきゅるりん★稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh9JB3EUL?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Blooming♡Blooming",
+  "artist": "るか from AIKATSU☆STARS！",
+  "collection": "【🦢歌切】#138[2026-04-01]水曜日の定期歌枠！きゅるきゅるりん★稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh9JB3EUL?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Booo！",
+  "artist": "西沢さんP",
+  "collection": "【🦢歌切】#138[2026-04-01]水曜日の定期歌枠！きゅるきゅるりん★稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh9JB3EUL?p=6",
   "source": "suu_usuwa.js"
 }
 );
