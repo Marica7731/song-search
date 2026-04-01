@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq
-// 生成时间: 4/1/2026, 7:00:47 PM
+// 生成时间: 4/1/2026, 8:07:03 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -11483,6 +11483,198 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "人形",
+  "artist": "天野月子",
+  "collection": "2026-03-31 Shinami ch.　シナミマユ / 新人VSinger doragon_473 Ic-YFNZwV5c",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mv9JBBE1p?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "Astrogation",
+  "artist": "水樹奈々",
+  "collection": "2026-03-31 Shinami ch.　シナミマユ / 新人VSinger doragon_473 Ic-YFNZwV5c",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mv9JBBE1p?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "インフェルノ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "2026-03-31 Shinami ch.　シナミマユ / 新人VSinger doragon_473 Ic-YFNZwV5c",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mv9JBBE1p?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "ゆずれない願い",
+  "artist": "田村直美",
+  "collection": "2026-03-31 Shinami ch.　シナミマユ / 新人VSinger doragon_473 Ic-YFNZwV5c",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mv9JBBE1p?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "YOU GET TO BURNING",
+  "artist": "松澤由美",
+  "collection": "2026-03-31 Shinami ch.　シナミマユ / 新人VSinger doragon_473 Ic-YFNZwV5c",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mv9JBBE1p?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "盛れ!ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "2026-03-31 Shinami ch.　シナミマユ / 新人VSinger doragon_473 Ic-YFNZwV5c",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mv9JBBE1p?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "悦楽カメリア",
+  "artist": "水樹奈々",
+  "collection": "2026-03-31 Shinami ch.　シナミマユ / 新人VSinger doragon_473 Ic-YFNZwV5c",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mv9JBBE1p?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "第六感",
+  "artist": "Reol",
+  "collection": "2026-03-31 Shinami ch.　シナミマユ / 新人VSinger doragon_473 Ic-YFNZwV5c",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mv9JBBE1p?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "Gimme×Gimme",
+  "artist": "八王子P×Giga",
+  "collection": "2026-03-31 Shinami ch.　シナミマユ / 新人VSinger doragon_473 Ic-YFNZwV5c",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mv9JBBE1p?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "The Biggest Dreamer",
+  "artist": "和田光司",
+  "collection": "2026-03-31 Shinami ch.　シナミマユ / 新人VSinger doragon_473 Ic-YFNZwV5c",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mv9JBBE1p?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "moment",
+  "artist": "Vivian or Kazuma",
+  "collection": "2026-03-31 Shinami ch.　シナミマユ / 新人VSinger doragon_473 Ic-YFNZwV5c",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mv9JBBE1p?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "次々続々",
+  "artist": "アンジュルム",
+  "collection": "2026-03-31 Shinami ch.　シナミマユ / 新人VSinger doragon_473 Ic-YFNZwV5c",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mv9JBBE1p?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "黒猫 ～Adult Black Cat～",
+  "artist": "Acid Black Cherry",
+  "collection": "2026-03-31 Shinami ch.　シナミマユ / 新人VSinger doragon_473 Ic-YFNZwV5c",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mv9JBBE1p?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "Just a game",
+  "artist": "takamatt",
+  "collection": "2026-03-31 Shinami ch.　シナミマユ / 新人VSinger doragon_473 Ic-YFNZwV5c",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mv9JBBE1p?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "六等星の夜",
+  "artist": "Aimer",
+  "collection": "2026-03-31 Shinami ch.　シナミマユ / 新人VSinger doragon_473 Ic-YFNZwV5c",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mv9JBBE1p?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "空中アクアリウム",
+  "artist": "40mP",
+  "collection": "2026-03-31 Shinami ch.　シナミマユ / 新人VSinger doragon_473 Ic-YFNZwV5c",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mv9JBBE1p?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "フタリボシ",
+  "artist": "40mP",
+  "collection": "2026-03-31 Shinami ch.　シナミマユ / 新人VSinger doragon_473 Ic-YFNZwV5c",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mv9JBBE1p?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "2026-03-31 Shinami ch.　シナミマユ / 新人VSinger doragon_473 Ic-YFNZwV5c",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mv9JBBE1p?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "アンコール",
+  "artist": "YOASOBI",
+  "collection": "2026-03-31 Shinami ch.　シナミマユ / 新人VSinger doragon_473 Ic-YFNZwV5c",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mv9JBBE1p?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "想いを奏でて",
+  "artist": "savage genius",
+  "collection": "2026-03-31 Shinami ch.　シナミマユ / 新人VSinger doragon_473 Ic-YFNZwV5c",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mv9JBBE1p?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "New Future",
+  "artist": "Changin' My Life",
+  "collection": "2026-03-31 Shinami ch.　シナミマユ / 新人VSinger doragon_473 Ic-YFNZwV5c",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mv9JBBE1p?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "Love Chronicle",
+  "artist": "Changin' My Life",
+  "collection": "2026-03-31 Shinami ch.　シナミマユ / 新人VSinger doragon_473 Ic-YFNZwV5c",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mv9JBBE1p?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "pink Monsoon",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "2026-03-31 Shinami ch.　シナミマユ / 新人VSinger doragon_473 Ic-YFNZwV5c",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mv9JBBE1p?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "1st Priority",
+  "artist": "メロキュア",
+  "collection": "2026-03-31 Shinami ch.　シナミマユ / 新人VSinger doragon_473 Ic-YFNZwV5c",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mv9JBBE1p?p=24",
   "source": "others.js"
 },
     {
