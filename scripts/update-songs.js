@@ -73,20 +73,66 @@ const SINGER_CONFIGS = [
     { bvids: ["BV1KHXxBUErU","BV1iHQXBzEgU"], file: "romany", alias: "ロマニ" },
     { bvids: ["BV1eTkKYDENL"], file: "friends", alias: "联动" },
     { bvids: ["BV1rkCTYzEZN","BV1wt421j7gT","BV1KpCdYmE3T","BV1aC4ce2E5s","BV1JbX9BmE5m"], file: "relay", alias: "接力" },
-    { bvids: ["BV11GZtBcEsp","BV1xucZzxEkZ","BV117P2zwEuq"], file: "others", alias: "非常驻妹妹" }
+    { bvids: ["BV11GZtBcEsp","BV1xucZzxEkZ","BV117P2zwEuq"], file: "others", alias: "非常驻妹妹" },
+    { bvids: ["BV1Qa9JB6EAw"], alias: "陽月るるふ" }
 ];
+
+function resolveConfig(config) {
+    const alias = config.alias || config.file || config.bvids?.[0] || 'unknown';
+    if (config.file) {
+        return { ...config, alias, resolvedFile: config.file };
+    }
+
+    const aliasSlug = String(alias)
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g, '-')
+        .replace(/^-+|-+$/g, '');
+    const fallbackSlug = String(config.bvids?.[0] || 'source').toLowerCase();
+
+    return {
+        ...config,
+        alias,
+        resolvedFile: aliasSlug || fallbackSlug
+    };
+}
+
+const RESOLVED_SINGER_CONFIGS = SINGER_CONFIGS.map(resolveConfig);
 
 const DATA_DIR = path.join(__dirname, '..', 'data');
 const BILI_VIDEO_URL = (bvid) => `https://www.bilibili.com/video/${bvid}`;
+
+function resolveBrowserExecutable() {
+    if (process.env.PUPPETEER_EXECUTABLE_PATH) {
+        return process.env.PUPPETEER_EXECUTABLE_PATH;
+    }
+
+    const platform = process.platform;
+    const candidates = platform === 'win32'
+        ? [
+            'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
+            'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe',
+            'C:\\Program Files\\Microsoft\\Edge\\Application\\msedge.exe',
+            'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe'
+        ]
+        : [
+            '/usr/bin/google-chrome',
+            '/usr/bin/chromium-browser',
+            '/usr/bin/chromium',
+            '/snap/bin/chromium'
+        ];
+
+    return candidates.find(filePath => fs.existsSync(filePath)) || null;
+}
 
 async function loadVideoPageWithBrowser(bvid) {
     const url = BILI_VIDEO_URL(bvid);
     let browser;
     try {
+        const executablePath = resolveBrowserExecutable();
         browser = await puppeteer.launch({
             headless: 'new',
             args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage', '--disable-blink-features=AutomationControlled', '--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36', '--disable-gpu', '--window-size=1920,1080'],
-            executablePath: process.env.PUPPETEER_EXECUTABLE_PATH || '/usr/bin/google-chrome'
+            ...(executablePath ? { executablePath } : {})
         });
         const page = await browser.newPage();
         await page.setExtraHTTPHeaders({ 'Referer': 'https://www.bilibili.com/', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8' });
@@ -144,7 +190,7 @@ async function loadVideoPageWithBrowser(bvid) {
 // 🔧 核心逻辑：移除去重，保留后缀清洗
 // ==========================================
 async function processSinger(config) {
-    const { bvids, file, alias } = config;
+    const { bvids, alias, resolvedFile } = config;
     console.log(`\n[开始处理] ${alias} (共 ${bvids.length} 个BV号)...`);
 
     let allSongs = [];
@@ -215,7 +261,7 @@ async function processSinger(config) {
                     collection: col.collectionTitle,
                     up: col.up,
                     link: link,
-                    source: `${file}.js`
+                    source: `${resolvedFile}.js`
                 });
             });
         });
@@ -228,7 +274,7 @@ async function processSinger(config) {
     // 🔧 修复点：只有当所有BV都处理完且一首歌都没抓到时，才认为整个任务失败
     if (allSongs.length === 0) throw new Error(`未解析到任何有效歌曲数据（所有BV均失败或无数据）`);
 
-    const outputPath = path.join(DATA_DIR, `${file}.js`);
+    const outputPath = path.join(DATA_DIR, `${resolvedFile}.js`);
     let outputContent = `// ${alias} - 歌单数据 (多合集汇总)\n`;
     outputContent += `// 来源: ${bvids.join(', ')}\n`;
     outputContent += `// 生成时间: ${new Date().toLocaleString()}\n\n`;
@@ -240,16 +286,16 @@ async function processSinger(config) {
 
     outputContent += `);\n`;
     fs.writeFileSync(outputPath, outputContent, { encoding: 'utf8', mode: 0o644 });
-    console.log(`  ✅ 成功: 汇总 ${allSongs.length} 首歌曲 -> ${file}.js`);
+    console.log(`  ✅ 成功: 汇总 ${allSongs.length} 首歌曲 -> ${resolvedFile}.js`);
     return true;
 }
 
 function generateIndexJson() {
     const indexPath = path.join(DATA_DIR, 'index.json');
     const indexData = {
-        files: SINGER_CONFIGS.map(config => `${config.file}.js`),
-        fileToAlias: SINGER_CONFIGS.reduce((map, config) => {
-            map[config.file] = config.alias;
+        files: RESOLVED_SINGER_CONFIGS.map(config => `${config.resolvedFile}.js`),
+        fileToAlias: RESOLVED_SINGER_CONFIGS.reduce((map, config) => {
+            map[config.resolvedFile] = config.alias;
             return map;
         }, {})
     };
@@ -262,7 +308,7 @@ async function main() {
     console.log("========================================");
     if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
     let successCount = 0;
-    for (const config of SINGER_CONFIGS) {
+    for (const config of RESOLVED_SINGER_CONFIGS) {
         try {
             // 外层依然保留整体重试（作为兜底，防止例如文件写入失败等非BV解析错误）
             // 但主要的BV级重试已经在 processSinger 内部完成
@@ -273,7 +319,7 @@ async function main() {
     }
     generateIndexJson();
     console.log("\n========================================");
-    console.log(`   🏁 任务结束: 更新 ${successCount}/${SINGER_CONFIGS.length} 位歌手`);
+    console.log(`   🏁 任务结束: 更新 ${successCount}/${RESOLVED_SINGER_CONFIGS.length} 位歌手`);
     console.log("========================================");
     process.exit(0);
 }

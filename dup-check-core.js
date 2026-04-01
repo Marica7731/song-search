@@ -157,13 +157,24 @@ function renderSourceTabs() {
   allTab.onclick = () => switchSourceTab('all');
   container.appendChild(allTab);
 
+  const select = document.createElement('select');
+  select.className = 'source-select';
+
+  const placeholder = document.createElement('option');
+  placeholder.value = 'all';
+  placeholder.textContent = '选择来源';
+  select.appendChild(placeholder);
+
   fileList.forEach(fileName => {
-    const tab = document.createElement('div');
-    tab.className = `source-tab ${currentTab === fileName ? 'active' : ''}`;
-    tab.textContent = getSourceAlias(fileName);
-    tab.onclick = () => switchSourceTab(fileName);
-    container.appendChild(tab);
+    const option = document.createElement('option');
+    option.value = fileName;
+    option.textContent = getSourceAlias(fileName);
+    select.appendChild(option);
   });
+
+  select.value = currentTab === 'all' ? 'all' : currentTab;
+  select.addEventListener('change', () => switchSourceTab(select.value || 'all'));
+  container.appendChild(select);
 }
 
 function switchSourceTab(tab) {

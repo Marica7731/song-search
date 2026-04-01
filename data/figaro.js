@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 4/1/2026, 9:37:07 PM
+// 生成时间: 2026/4/2 06:02:29
 
 window.SONG_DATA = window.SONG_DATA || [];
 

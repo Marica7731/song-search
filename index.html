@@ -59,6 +59,15 @@
             font-weight: 600;
             white-space: nowrap;
         }
+        .filter-select {
+            min-width: 220px;
+            padding: 8px 12px;
+            border: 1px solid #e9ecef;
+            border-radius: 12px;
+            background: white;
+            font-size: 14px;
+            color: #495057;
+        }
         .filter-btn {
             padding: 7px 16px;
             border: 1px solid #e9ecef;
@@ -1058,15 +1067,26 @@
             spacer.style.width = '10px';
             filterBar.appendChild(spacer);
 
+            const sourceSelect = document.createElement('select');
+            sourceSelect.className = 'filter-select';
+
+            const placeholder = document.createElement('option');
+            placeholder.value = 'all';
+            placeholder.textContent = '选择来源';
+            sourceSelect.appendChild(placeholder);
+
             fileNames.forEach(fileName => {
                 const fileBase = fileName.replace('.js', '');
                 const btnText = FILE_TO_ALIAS[fileBase] || fileBase;
-                const btn = document.createElement('button');
-                btn.className = `filter-btn ${activeSource === fileName ? 'active' : ''}`;
-                btn.textContent = btnText;
-                btn.onclick = () => switchSource(fileName);
-                filterBar.appendChild(btn);
+                const option = document.createElement('option');
+                option.value = fileName;
+                option.textContent = btnText;
+                sourceSelect.appendChild(option);
             });
+
+            sourceSelect.value = fileNames.includes(activeSource) ? activeSource : 'all';
+            sourceSelect.onchange = () => switchSource(sourceSelect.value || 'all');
+            filterBar.appendChild(sourceSelect);
 
             const missingBtn = document.createElement('button');
             missingBtn.className = `filter-btn missing-artist ${activeSource === 'missing-artist' ? 'active' : ''}`;

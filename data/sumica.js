@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 4/1/2026, 9:43:05 PM
+// 生成时间: 2026/4/2 06:04:32
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -312,7 +312,7 @@ window.SONG_DATA.push(
     {
   "title": "Bye by me",
   "artist": "Vaundy",
-  "collection": "【歌切】[2026-04-01]春の夜にゆったりぽっかりなアコギ弾き語り🌸-sumica-澄花",
+  "collection": "【歌切】[2026-04-01]春日夜晚悠闲地吉他弹唱🎸🌸-sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C29JBcEiP?p=1",
   "source": "sumica.js"
@@ -320,7 +320,7 @@ window.SONG_DATA.push(
     {
   "title": "片想い",
   "artist": "miwa",
-  "collection": "【歌切】[2026-04-01]春の夜にゆったりぽっかりなアコギ弾き語り🌸-sumica-澄花",
+  "collection": "【歌切】[2026-04-01]春日夜晚悠闲地吉他弹唱🎸🌸-sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C29JBcEiP?p=2",
   "source": "sumica.js"
@@ -328,7 +328,7 @@ window.SONG_DATA.push(
     {
   "title": "カタオモイ",
   "artist": "Aimer",
-  "collection": "【歌切】[2026-04-01]春の夜にゆったりぽっかりなアコギ弾き語り🌸-sumica-澄花",
+  "collection": "【歌切】[2026-04-01]春日夜晚悠闲地吉他弹唱🎸🌸-sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C29JBcEiP?p=3",
   "source": "sumica.js"
@@ -336,7 +336,7 @@ window.SONG_DATA.push(
     {
   "title": "へび",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-04-01]春の夜にゆったりぽっかりなアコギ弾き語り🌸-sumica-澄花",
+  "collection": "【歌切】[2026-04-01]春日夜晚悠闲地吉他弹唱🎸🌸-sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C29JBcEiP?p=4",
   "source": "sumica.js"
@@ -344,7 +344,7 @@ window.SONG_DATA.push(
     {
   "title": "ビンテージ",
   "artist": "Official髭男dism",
-  "collection": "【歌切】[2026-04-01]春の夜にゆったりぽっかりなアコギ弾き語り🌸-sumica-澄花",
+  "collection": "【歌切】[2026-04-01]春日夜晚悠闲地吉他弹唱🎸🌸-sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C29JBcEiP?p=5",
   "source": "sumica.js"
@@ -352,7 +352,7 @@ window.SONG_DATA.push(
     {
   "title": "シャルル",
   "artist": "バルーン",
-  "collection": "【歌切】[2026-04-01]春の夜にゆったりぽっかりなアコギ弾き語り🌸-sumica-澄花",
+  "collection": "【歌切】[2026-04-01]春日夜晚悠闲地吉他弹唱🎸🌸-sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C29JBcEiP?p=6",
   "source": "sumica.js"
@@ -360,7 +360,7 @@ window.SONG_DATA.push(
     {
   "title": "メルト",
   "artist": "ryo(supercell)",
-  "collection": "【歌切】[2026-04-01]春の夜にゆったりぽっかりなアコギ弾き語り🌸-sumica-澄花",
+  "collection": "【歌切】[2026-04-01]春日夜晚悠闲地吉他弹唱🎸🌸-sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C29JBcEiP?p=7",
   "source": "sumica.js"
@@ -368,7 +368,7 @@ window.SONG_DATA.push(
     {
   "title": "ベーコンエビ",
   "artist": "TOMOO",
-  "collection": "【歌切】[2026-04-01]春の夜にゆったりぽっかりなアコギ弾き語り🌸-sumica-澄花",
+  "collection": "【歌切】[2026-04-01]春日夜晚悠闲地吉他弹唱🎸🌸-sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C29JBcEiP?p=8",
   "source": "sumica.js"
@@ -376,7 +376,7 @@ window.SONG_DATA.push(
     {
   "title": "Cinderella",
   "artist": "TOMOO",
-  "collection": "【歌切】[2026-04-01]春の夜にゆったりぽっかりなアコギ弾き語り🌸-sumica-澄花",
+  "collection": "【歌切】[2026-04-01]春日夜晚悠闲地吉他弹唱🎸🌸-sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C29JBcEiP?p=9",
   "source": "sumica.js"
@@ -384,7 +384,7 @@ window.SONG_DATA.push(
     {
   "title": "Honey Boy",
   "artist": "TOMOO",
-  "collection": "【歌切】[2026-04-01]春の夜にゆったりぽっかりなアコギ弾き語り🌸-sumica-澄花",
+  "collection": "【歌切】[2026-04-01]春日夜晚悠闲地吉他弹唱🎸🌸-sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C29JBcEiP?p=10",
   "source": "sumica.js"
@@ -392,7 +392,7 @@ window.SONG_DATA.push(
     {
   "title": "フラレガイガール",
   "artist": "酸欠少女さユり",
-  "collection": "【歌切】[2026-04-01]春の夜にゆったりぽっかりなアコギ弾き語り🌸-sumica-澄花",
+  "collection": "【歌切】[2026-04-01]春日夜晚悠闲地吉他弹唱🎸🌸-sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C29JBcEiP?p=11",
   "source": "sumica.js"
@@ -400,7 +400,7 @@ window.SONG_DATA.push(
     {
   "title": "ラプンツェル",
   "artist": "n-buna",
-  "collection": "【歌切】[2026-04-01]春の夜にゆったりぽっかりなアコギ弾き語り🌸-sumica-澄花",
+  "collection": "【歌切】[2026-04-01]春日夜晚悠闲地吉他弹唱🎸🌸-sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C29JBcEiP?p=12",
   "source": "sumica.js"
@@ -408,7 +408,7 @@ window.SONG_DATA.push(
     {
   "title": "いつか",
   "artist": "Saucy Dog",
-  "collection": "【歌切】[2026-04-01]春の夜にゆったりぽっかりなアコギ弾き語り🌸-sumica-澄花",
+  "collection": "【歌切】[2026-04-01]春日夜晚悠闲地吉他弹唱🎸🌸-sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C29JBcEiP?p=13",
   "source": "sumica.js"
@@ -416,7 +416,7 @@ window.SONG_DATA.push(
     {
   "title": "花人局",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-04-01]春の夜にゆったりぽっかりなアコギ弾き語り🌸-sumica-澄花",
+  "collection": "【歌切】[2026-04-01]春日夜晚悠闲地吉他弹唱🎸🌸-sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C29JBcEiP?p=14",
   "source": "sumica.js"
@@ -424,7 +424,7 @@ window.SONG_DATA.push(
     {
   "title": "焦がれ",
   "artist": "澄花",
-  "collection": "【歌切】[2026-04-01]春の夜にゆったりぽっかりなアコギ弾き語り🌸-sumica-澄花",
+  "collection": "【歌切】[2026-04-01]春日夜晚悠闲地吉他弹唱🎸🌸-sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C29JBcEiP?p=15",
   "source": "sumica.js"
@@ -432,7 +432,7 @@ window.SONG_DATA.push(
     {
   "title": "一日惚れ",
   "artist": "澄花",
-  "collection": "【歌切】[2026-04-01]春の夜にゆったりぽっかりなアコギ弾き語り🌸-sumica-澄花",
+  "collection": "【歌切】[2026-04-01]春日夜晚悠闲地吉他弹唱🎸🌸-sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C29JBcEiP?p=16",
   "source": "sumica.js"
