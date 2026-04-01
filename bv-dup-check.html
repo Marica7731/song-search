@@ -26,6 +26,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;b
 .filter-btn.active{background:#1e7e34}
 .copy-controls{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:18px}
 .copy-controls label{font-size:13px;color:#495057;display:flex;align-items:center;gap:4px}
+.copy-index-input{width:84px;padding:5px 8px;border:1px solid #ddd;border-radius:6px;font-size:13px}
 .copy-btn{padding:6px 14px;background:#6f42c1;color:#fff;border:0;border-radius:6px;cursor:pointer;font-size:13px}
 .result-list{margin-bottom:30px}
 .song-item{background:#fff;border-radius:8px;padding:14px;margin-bottom:10px;border-left:4px solid #ddd;box-shadow:0 2px 4px rgba(0,0,0,.04)}
@@ -79,6 +80,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;b
     <label><input type="checkbox" id="copyOnlyUnique" checked>仅复制非重复</label>
     <label><input type="checkbox" id="copyTitle" checked>歌名</label>
     <label><input type="checkbox" id="copyLink">链接</label>
+    <label>复制第 <input type="number" id="copyDupIndex" class="copy-index-input" min="1" placeholder="默认最后"> 个重复链接</label>
     <label><input type="checkbox" id="copySource">来源</label>
     <label><input type="radio" name="copyFormat" id="copyText" checked>纯文本</label>
     <label><input type="radio" name="copyFormat" id="copyTable">表格</label>

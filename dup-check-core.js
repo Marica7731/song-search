@@ -32,6 +32,31 @@ function getSourceAlias(source) {
   return fileAlias[key] || source;
 }
 
+function getCopyDuplicateIndex() {
+  const input = document.getElementById('copyDupIndex');
+  if (!input) return null;
+  const value = String(input.value || '').trim();
+  if (!value) return null;
+  const parsed = parseInt(value, 10);
+  if (Number.isNaN(parsed) || parsed < 1) return null;
+  return parsed;
+}
+
+function getLinkForCopy(item) {
+  if (!item || !item.song) return '';
+  if (currentMode !== 'bv') return item.song.link || '';
+  const dupList = Array.isArray(item.dupList) ? item.dupList : [];
+  if (dupList.length === 0) return item.song.link || '';
+
+  const nth = getCopyDuplicateIndex();
+  if (nth == null) {
+    return dupList[dupList.length - 1]?.link || item.song.link || '';
+  }
+
+  const index = Math.max(0, Math.min(dupList.length - 1, nth - 1));
+  return dupList[index]?.link || item.song.link || '';
+}
+
 function showCopyToast() {
   const toast = document.getElementById('copyToast');
   if (!toast) return;
@@ -417,7 +442,7 @@ function copyResults() {
       const parts = [];
       if (includeTitle) parts.push(item.song.title || '未知歌曲');
       if (includeSource) parts.push(item.song.source ? getSourceAlias(item.song.source) : '输入值（库内首次）');
-      if (includeLink) parts.push(item.song.link || '');
+      if (includeLink) parts.push(getLinkForCopy(item));
       content += parts.join(' | ') + '\n';
     });
   } else {
@@ -435,7 +460,7 @@ function copyResults() {
       const row = [currentMode === 'titleArtist' ? (item.isFirst ? '首次' : `重复${item.dupCount}`) : (item.isDup ? '重复' : '唯一')];
       if (includeTitle) row.push(item.song.title || '未知歌曲');
       if (includeSource) row.push(item.song.source ? getSourceAlias(item.song.source) : '输入值（库内首次）');
-      if (includeLink) row.push(item.song.link);
+      if (includeLink) row.push(getLinkForCopy(item));
       content += row.join('\t') + '\n';
     });
   }
