@@ -1,6 +1,6 @@
 // nayuta - 歌单数据 (多合集汇总)
 // 来源: BV1GXYFzXETo, BV1MPpUzsE1D, BV184W5zeE1Z
-// 生成时间: 4/1/2026, 1:37:57 AM
+// 生成时间: 4/1/2026, 4:49:22 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2680,7 +2680,7 @@ window.SONG_DATA.push(
     {
   "title": "旅立ちの日に",
   "artist": "合唱曲",
-  "collection": "【nayuta歌切】nayuta Acoustic Live vol.25 生演奏live～唱毕业季的曲目、欢迎来到新学年～",
+  "collection": "【nayuta歌切】vol.25 生演奏 Live～唱毕业季的曲目、欢迎来到新学年～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cNXCBWEvk?p=1",
   "source": "nayuta.js"
@@ -2688,7 +2688,7 @@ window.SONG_DATA.push(
     {
   "title": "3月9日",
   "artist": "レミオロメン",
-  "collection": "【nayuta歌切】nayuta Acoustic Live vol.25 生演奏live～唱毕业季的曲目、欢迎来到新学年～",
+  "collection": "【nayuta歌切】vol.25 生演奏 Live～唱毕业季的曲目、欢迎来到新学年～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cNXCBWEvk?p=2",
   "source": "nayuta.js"
@@ -2696,7 +2696,7 @@ window.SONG_DATA.push(
     {
   "title": "Best Friend",
   "artist": "Kiroro",
-  "collection": "【nayuta歌切】nayuta Acoustic Live vol.25 生演奏live～唱毕业季的曲目、欢迎来到新学年～",
+  "collection": "【nayuta歌切】vol.25 生演奏 Live～唱毕业季的曲目、欢迎来到新学年～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cNXCBWEvk?p=3",
   "source": "nayuta.js"
@@ -2704,7 +2704,7 @@ window.SONG_DATA.push(
     {
   "title": "柊",
   "artist": "Do As Infinity",
-  "collection": "【nayuta歌切】nayuta Acoustic Live vol.25 生演奏live～唱毕业季的曲目、欢迎来到新学年～",
+  "collection": "【nayuta歌切】vol.25 生演奏 Live～唱毕业季的曲目、欢迎来到新学年～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cNXCBWEvk?p=4",
   "source": "nayuta.js"
@@ -2712,7 +2712,7 @@ window.SONG_DATA.push(
     {
   "title": "春よ、来い",
   "artist": "松任谷由実",
-  "collection": "【nayuta歌切】nayuta Acoustic Live vol.25 生演奏live～唱毕业季的曲目、欢迎来到新学年～",
+  "collection": "【nayuta歌切】vol.25 生演奏 Live～唱毕业季的曲目、欢迎来到新学年～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cNXCBWEvk?p=5",
   "source": "nayuta.js"
@@ -2720,7 +2720,7 @@ window.SONG_DATA.push(
     {
   "title": "さよならメモリーズ",
   "artist": "supercell",
-  "collection": "【nayuta歌切】nayuta Acoustic Live vol.25 生演奏live～唱毕业季的曲目、欢迎来到新学年～",
+  "collection": "【nayuta歌切】vol.25 生演奏 Live～唱毕业季的曲目、欢迎来到新学年～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cNXCBWEvk?p=6",
   "source": "nayuta.js"
@@ -2728,7 +2728,7 @@ window.SONG_DATA.push(
     {
   "title": "春擬き",
   "artist": "やなぎなぎ",
-  "collection": "【nayuta歌切】nayuta Acoustic Live vol.25 生演奏live～唱毕业季的曲目、欢迎来到新学年～",
+  "collection": "【nayuta歌切】vol.25 生演奏 Live～唱毕业季的曲目、欢迎来到新学年～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cNXCBWEvk?p=7",
   "source": "nayuta.js"
@@ -2736,7 +2736,7 @@ window.SONG_DATA.push(
     {
   "title": "小さなてのひら",
   "artist": "riyA 『CLANNAD』ED",
-  "collection": "【nayuta歌切】nayuta Acoustic Live vol.25 生演奏live～唱毕业季的曲目、欢迎来到新学年～",
+  "collection": "【nayuta歌切】vol.25 生演奏 Live～唱毕业季的曲目、欢迎来到新学年～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cNXCBWEvk?p=8",
   "source": "nayuta.js"
@@ -2744,7 +2744,7 @@ window.SONG_DATA.push(
     {
   "title": "ray",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【nayuta歌切】nayuta Acoustic Live vol.25 生演奏live～唱毕业季的曲目、欢迎来到新学年～",
+  "collection": "【nayuta歌切】vol.25 生演奏 Live～唱毕业季的曲目、欢迎来到新学年～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cNXCBWEvk?p=9",
   "source": "nayuta.js"
@@ -2752,7 +2752,7 @@ window.SONG_DATA.push(
     {
   "title": "一番の宝物",
   "artist": "Girls Dead Monster",
-  "collection": "【nayuta歌切】nayuta Acoustic Live vol.25 生演奏live～唱毕业季的曲目、欢迎来到新学年～",
+  "collection": "【nayuta歌切】vol.25 生演奏 Live～唱毕业季的曲目、欢迎来到新学年～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cNXCBWEvk?p=10",
   "source": "nayuta.js"
