@@ -99,6 +99,7 @@ let fileAlias = {};
 let titleSearchResults = [];
 let selectedArtists = {};
 let inputFormatType = '';
+let isApiMode = false;
 
 function getSourceAlias(source) {
   if (!source) return '未知来源';
@@ -115,15 +116,17 @@ function showCopyToast() {
 async function loadAllData() {
   try {
     try {
-      const apiRes = await fetch('/api/all-songs');
+      const apiRes = await fetch('/api/bootstrap');
       if (!apiRes.ok) throw new Error(`API 状态码 ${apiRes.status}`);
       const apiData = await apiRes.json();
       fileList = apiData.files || [];
       fileAlias = apiData.fileToAlias || {};
-      allSongs = Array.isArray(apiData.items) ? apiData.items : [];
+      allSongs = [];
+      isApiMode = true;
       return;
     } catch (apiError) {
       console.warn('API 数据加载失败，回退到静态模式：', apiError);
+      isApiMode = false;
     }
 
     const indexRes = await fetch('data/index.json');

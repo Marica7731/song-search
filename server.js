@@ -14,7 +14,9 @@ let store = {
   songs: [],
   files: [],
   fileToAlias: {},
-  totalUnique: 0
+  totalUnique: 0,
+  titleEntries: [],
+  titleMap: new Map()
 };
 
 function isValidArtist(artist) {
@@ -274,11 +276,75 @@ function loadSongStore() {
     }
   });
 
+  const titleMap = new Map();
+  songs.forEach((song, index) => {
+    const title = String(song.title || '').trim();
+    if (!title) return;
+    const key = normalizeString(title);
+    if (!titleMap.has(key)) {
+      titleMap.set(key, {
+        title,
+        songs: [],
+        firstSeen: index
+      });
+    }
+    titleMap.get(key).songs.push(song);
+  });
+
+  const titleEntries = Array.from(titleMap.values())
+    .sort((a, b) => a.firstSeen - b.firstSeen)
+    .map(entry => ({
+      title: entry.title,
+      firstSeen: entry.firstSeen
+    }));
+
   store = {
     songs,
     files: indexData.files || [],
     fileToAlias: indexData.fileToAlias || {},
-    totalUnique: getUniqueSongCount(songs)
+    totalUnique: getUniqueSongCount(songs),
+    titleEntries,
+    titleMap
+  };
+}
+
+function buildArtistSummaryByTitle(title) {
+  const normalizedTitle = normalizeString(title);
+  const entry = store.titleMap.get(normalizedTitle);
+  const matchedSongs = entry ? entry.songs : [];
+  const artistMap = new Map();
+
+  matchedSongs.forEach((song, index) => {
+    const artistName = (song.artist || '未知歌手').trim();
+    const sourceAlias = store.fileToAlias[String(song.source || '').replace('.js', '')] || song.source || '未知来源';
+    if (!artistMap.has(artistName)) {
+      artistMap.set(artistName, {
+        name: artistName,
+        sources: new Set(),
+        firstSeen: index
+      });
+    }
+    artistMap.get(artistName).sources.add(sourceAlias);
+  });
+
+  const artists = Array.from(artistMap.values())
+    .map(item => ({
+      name: item.name,
+      sources: Array.from(item.sources).join(' / '),
+      sourceCount: item.sources.size,
+      firstSeen: item.firstSeen
+    }))
+    .sort((a, b) => {
+      if (b.sourceCount !== a.sourceCount) return b.sourceCount - a.sourceCount;
+      return a.firstSeen - b.firstSeen;
+    });
+
+  return {
+    title,
+    artists,
+    artistNames: artists.map(item => item.name),
+    maxSourceArtist: artists.length > 0 ? artists[0].name : '',
+    hasResult: artists.length > 0
   };
 }
 
@@ -591,6 +657,66 @@ function handleSongGrowth(res) {
   sendJson(res, 200, { rows });
 }
 
+function handleTitleSuggest(reqUrl, res) {
+  const keyword = normalizeString(reqUrl.searchParams.get('q') || '');
+  if (!keyword) {
+    sendJson(res, 200, { items: [] });
+    return;
+  }
+  const items = store.titleEntries
+    .filter(entry => normalizeString(entry.title).includes(keyword))
+    .slice(0, 16)
+    .map(entry => entry.title);
+  sendJson(res, 200, { items });
+}
+
+function handleTitleLookup(req, res, body) {
+  let payload;
+  try {
+    payload = body ? JSON.parse(body) : {};
+  } catch {
+    sendJson(res, 400, { error: 'Invalid JSON body' });
+    return;
+  }
+
+  const items = Array.isArray(payload.items) ? payload.items : [];
+  const results = items.map(item => {
+    const title = String(item?.title || '').trim();
+    const inputArtist = String(item?.inputArtist || '').trim();
+    const summary = buildArtistSummaryByTitle(title);
+    const isArtistValid = inputArtist
+      ? summary.artistNames.some(name => normalizeString(name) === normalizeString(inputArtist))
+      : false;
+    return {
+      ...summary,
+      inputArtist,
+      isArtistValid,
+      originalLine: String(item?.line || '')
+    };
+  });
+
+  sendJson(res, 200, { items: results });
+}
+
+function handleInternalReload(req, res) {
+  const remote = req.socket.remoteAddress || '';
+  const isLocal = remote === '127.0.0.1' || remote === '::1' || remote === '::ffff:127.0.0.1';
+  if (!isLocal) {
+    sendJson(res, 403, { error: 'Forbidden' });
+    return;
+  }
+  try {
+    loadSongStore();
+    sendJson(res, 200, {
+      ok: true,
+      totalSongs: store.songs.length,
+      totalUnique: store.totalUnique
+    });
+  } catch (error) {
+    sendJson(res, 500, { error: error.message });
+  }
+}
+
 function serveStatic(reqUrl, res) {
   let pathname = decodeURIComponent(reqUrl.pathname);
   if (pathname === '/') pathname = '/index.html';
@@ -616,9 +742,23 @@ function serveStatic(reqUrl, res) {
   });
 }
 
+function readRequestBody(req) {
+  return new Promise((resolve, reject) => {
+    let body = '';
+    req.on('data', chunk => {
+      body += chunk;
+      if (body.length > 1024 * 1024) {
+        reject(new Error('Request body too large'));
+      }
+    });
+    req.on('end', () => resolve(body));
+    req.on('error', reject);
+  });
+}
+
 loadSongStore();
 
-const server = http.createServer((req, res) => {
+const server = http.createServer(async (req, res) => {
   const reqUrl = new URL(req.url, `http://${req.headers.host || 'localhost'}`);
 
   if (reqUrl.pathname === '/api/health') {
@@ -647,6 +787,23 @@ const server = http.createServer((req, res) => {
   }
   if (reqUrl.pathname === '/api/song-growth') {
     handleSongGrowth(res);
+    return;
+  }
+  if (reqUrl.pathname === '/api/title-artist/suggest') {
+    handleTitleSuggest(reqUrl, res);
+    return;
+  }
+  if (reqUrl.pathname === '/api/title-artist/lookup' && req.method === 'POST') {
+    try {
+      const body = await readRequestBody(req);
+      handleTitleLookup(req, res, body);
+    } catch (error) {
+      sendJson(res, 500, { error: error.message });
+    }
+    return;
+  }
+  if (reqUrl.pathname === '/internal/reload') {
+    handleInternalReload(req, res);
     return;
   }
 

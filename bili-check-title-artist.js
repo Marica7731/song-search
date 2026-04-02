@@ -47,6 +47,28 @@ function normalizeText(value) {
   return (value || '').toLowerCase().trim();
 }
 
+async function fetchTitleLookup(items) {
+  const res = await fetch('/api/title-artist/lookup', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({ items })
+  });
+  if (!res.ok) {
+    throw new Error(`查询失败（状态码：${res.status}）`);
+  }
+  return res.json();
+}
+
+async function fetchTitleSuggestions(keyword) {
+  const res = await fetch(`/api/title-artist/suggest?q=${encodeURIComponent(keyword)}`);
+  if (!res.ok) {
+    throw new Error(`建议加载失败（状态码：${res.status}）`);
+  }
+  return res.json();
+}
+
 function getArtistSummaryByTitle(title) {
   const normalizedTitle = normalizeText(title);
   const matchedSongs = allSongs.filter(song => normalizeText(song.title) === normalizedTitle);
@@ -99,6 +121,11 @@ function buildTitleArtistResultItem(item) {
     isArtistValid,
     originalLine: item.line || ''
   };
+}
+
+async function buildTitleArtistResultItemViaApi(item) {
+  const payload = await fetchTitleLookup([item]);
+  return Array.isArray(payload.items) && payload.items.length > 0 ? payload.items[0] : buildTitleArtistResultItem(item);
 }
 
 function setDefaultSelectedArtist(item, previousSelected = '') {
@@ -185,9 +212,19 @@ function createRetitleTools(item, index) {
   suggestionList.id = datalistId;
   titleInput.setAttribute('list', datalistId);
 
-  const renderTitleSuggestions = () => {
+  const renderTitleSuggestions = async () => {
     const currentTitle = parseTitleArtistText(titleInput.value).title || titleInput.value;
-    const suggestions = getTitleSuggestions(currentTitle);
+    let suggestions = [];
+    if (isApiMode) {
+      try {
+        const payload = await fetchTitleSuggestions(currentTitle);
+        suggestions = Array.isArray(payload.items) ? payload.items : [];
+      } catch (error) {
+        console.warn('标题建议加载失败：', error);
+      }
+    } else {
+      suggestions = getTitleSuggestions(currentTitle);
+    }
     suggestionList.innerHTML = suggestions.map(name => `<option value="${name.replace(/"/g, '&quot;')}"></option>`).join('');
   };
 
@@ -239,7 +276,7 @@ function createRetitleTools(item, index) {
   artistInput.addEventListener('input', refreshSearchLink);
   artistInput.addEventListener('change', refreshSearchLink);
 
-  retryBtn.onclick = () => {
+  retryBtn.onclick = async () => {
     const parsedTitle = parseTitleArtistText(titleInput.value);
     const parsedArtist = parseTitleArtistText(artistInput.value);
     const newTitle = (parsedTitle.title || '').trim();
@@ -255,11 +292,14 @@ function createRetitleTools(item, index) {
       delete selectedArtists[oldTitle];
     }
 
-    const refreshed = buildTitleArtistResultItem({
+    const queryItem = {
       title: newTitle,
       inputArtist: manualArtist || item.inputArtist,
       line: item.originalLine
-    });
+    };
+    const refreshed = isApiMode
+      ? await buildTitleArtistResultItemViaApi(queryItem)
+      : buildTitleArtistResultItem(queryItem);
 
     titleSearchResults[index] = refreshed;
     setDefaultSelectedArtist(refreshed, previousSelected);
@@ -295,17 +335,31 @@ function createRetitleTools(item, index) {
   return tools;
 }
 
-function searchAndValidateArtists() {
+async function searchAndValidateArtists() {
   const inputItems = parseInputContent();
   if (inputItems.length === 0) return;
 
   titleSearchResults = [];
   selectedArtists = {};
 
-  inputItems.forEach(item => {
-    const resultItem = buildTitleArtistResultItem(item);
-    titleSearchResults.push(resultItem);
-    setDefaultSelectedArtist(resultItem);
+  if (isApiMode) {
+    try {
+      const payload = await fetchTitleLookup(inputItems);
+      titleSearchResults = Array.isArray(payload.items) ? payload.items : [];
+    } catch (error) {
+      console.error('批量查询失败：', error);
+      alert(`查询失败：${error.message}`);
+      return;
+    }
+  } else {
+    inputItems.forEach(item => {
+      const resultItem = buildTitleArtistResultItem(item);
+      titleSearchResults.push(resultItem);
+    });
+  }
+
+  titleSearchResults.forEach(item => {
+    setDefaultSelectedArtist(item);
   });
 
   renderArtistSelectWithValidation();
