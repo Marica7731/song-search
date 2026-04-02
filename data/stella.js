@@ -1,6 +1,6 @@
 // 天ノ譜ステラ - 歌单数据 (多合集汇总)
 // 来源: BV1MEP8z4E1J
-// 生成时间: 4/2/2026, 6:48:50 PM
+// 生成时间: 4/2/2026, 7:49:06 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1611,6 +1611,54 @@ window.SONG_DATA.push(
   "collection": "【 🍚💫歌切】[2026-03-26]周四22点⌚定期歌回✨[TL8QmlT_O_E] 天ノ譜ステラ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XoXtBaETd?p=4",
+  "source": "stella.js"
+},
+    {
+  "title": "新時代",
+  "artist": "Ado",
+  "collection": "【 🍚💫歌切】[2026-04-02]✨星期四22点定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tb9PBtEuf?p=1",
+  "source": "stella.js"
+},
+    {
+  "title": "secret base ～君がくれたもの～",
+  "artist": "ZONE",
+  "collection": "【 🍚💫歌切】[2026-04-02]✨星期四22点定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tb9PBtEuf?p=2",
+  "source": "stella.js"
+},
+    {
+  "title": "恋愛裁判",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "【 🍚💫歌切】[2026-04-02]✨星期四22点定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tb9PBtEuf?p=3",
+  "source": "stella.js"
+},
+    {
+  "title": "トリノコシティ",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "【 🍚💫歌切】[2026-04-02]✨星期四22点定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tb9PBtEuf?p=4",
+  "source": "stella.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【 🍚💫歌切】[2026-04-02]✨星期四22点定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tb9PBtEuf?p=5",
+  "source": "stella.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師,宇多田ヒカル",
+  "collection": "【 🍚💫歌切】[2026-04-02]✨星期四22点定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tb9PBtEuf?p=6",
   "source": "stella.js"
 }
 );

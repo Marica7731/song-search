@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 4/2/2026, 6:44:42 PM
+// 生成时间: 4/2/2026, 7:45:09 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6723,6 +6723,174 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-03-31]限定与花相关的歌回🌸なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NC9JBPEan?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "めざせポケモンマスター",
+  "artist": "松本梨香",
+  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Butterfly Kiss",
+  "artist": "米倉千尋",
+  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "光るなら",
+  "artist": "Goose house",
+  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ピースサイン",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Q&A リサイタル！",
+  "artist": "戸松遥",
+  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "PEACH",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO27",
+  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "恋はスリル、ショック、サスペンス",
+  "artist": "愛内里菜",
+  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "新時代",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ADAMAS",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "逆転劇",
+  "artist": "月詠み",
+  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Cry Baby",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat.GUMI",
+  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=16",
+  "source": "naraetan.js"
+},
+    {
+  "title": "かわいいだけじゃだめですか？",
+  "artist": "CUTIE STREET",
+  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=17",
+  "source": "naraetan.js"
+},
+    {
+  "title": "→unfinished→",
+  "artist": "KOTOKO",
+  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=18",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Wherever You Are",
+  "artist": "ONE OK ROCK",
+  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=19",
+  "source": "naraetan.js"
+},
+    {
+  "title": "森の小さなレストラン",
+  "artist": "手嶌葵",
+  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=20",
+  "source": "naraetan.js"
+},
+    {
+  "title": "空耳ケーキ",
+  "artist": "Oranges&Lemons",
+  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=21",
   "source": "naraetan.js"
 },
     {

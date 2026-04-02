@@ -1,6 +1,6 @@
 // 陽月るるふ - 歌单数据 (多合集汇总)
 // 来源: BV1Qa9JB6EAw
-// 生成时间: 4/2/2026, 6:54:40 PM
+// 生成时间: 4/2/2026, 7:56:07 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -235,6 +235,118 @@ window.SONG_DATA.push(
   "collection": "🐺🎀 打卡生日月每日歌回 Day2 陽月るるふ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12r9JBeEeB?p=14",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "ミズキリ",
+  "artist": "優里",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1my9cBSE56?p=1",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "ミザリー",
+  "artist": "優里",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1my9cBSE56?p=2",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "オベリスク",
+  "artist": "シェリル・ノーム starring May's",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1my9cBSE56?p=3",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "Walkure Attack！",
+  "artist": "ワルキューレ",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1my9cBSE56?p=4",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "LOVE！ THUNDER GLOW",
+  "artist": "ワルキューレ",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1my9cBSE56?p=5",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "One・Two・Three",
+  "artist": "モーニング娘。",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1my9cBSE56?p=6",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "わがまま 気のまま 愛のジョーク",
+  "artist": "モーニング娘。",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1my9cBSE56?p=7",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "愛の軍団",
+  "artist": "モーニング娘。",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1my9cBSE56?p=8",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "制服のマネキン",
+  "artist": "乃木坂46",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1my9cBSE56?p=9",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "バレッタ",
+  "artist": "乃木坂46",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1my9cBSE56?p=10",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "誰のことを一番愛してる？",
+  "artist": "坂道AKB",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1my9cBSE56?p=11",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "風に吹かれても",
+  "artist": "欅坂46",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1my9cBSE56?p=12",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "アンビバレント",
+  "artist": "欅坂46",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1my9cBSE56?p=13",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "語るなら未来を...",
+  "artist": "欅坂46",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1my9cBSE56?p=14",
   "source": "bv1qa9jb6eaw.js"
 }
 );
