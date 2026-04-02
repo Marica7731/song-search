@@ -155,6 +155,16 @@
             gap: 12px; 
             flex-wrap: wrap;
         }
+        .sort-select {
+            min-width: 210px;
+            padding: 8px 12px;
+            border: 2px solid #e9ecef;
+            border-radius: 12px;
+            background: white;
+            font-size: 14px;
+            color: #495057;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
         #search-input { 
             flex: 1; 
             min-width: 250px;
@@ -394,6 +404,24 @@
             gap: 8px;
             flex-wrap: wrap;
         }
+        .song-extra-meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            color: #6c757d;
+            font-size: 12px;
+            margin-top: 6px;
+        }
+        .meta-chip {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            padding: 4px 8px;
+            background: #f8f9fa;
+            border: 1px solid #e9ecef;
+            border-radius: 999px;
+            cursor: pointer;
+        }
         .song-source {
             font-size: 12px;
             color: #adb5bd;
@@ -627,6 +655,11 @@
 
         <div class="search-container">
             <input type="text" id="search-input" placeholder='输入关键词搜索...（支持 "精确匹配" AND OR 语法）'>
+            <select id="sort-select" class="sort-select">
+                <option value="pubdate_desc" selected>发布时间：新到旧</option>
+                <option value="pubdate_asc">发布时间：旧到新</option>
+                <option value="original">原始顺序</option>
+            </select>
             <button id="search-btn">🔍 搜索</button>
         </div>
         
@@ -669,6 +702,7 @@
         const PAGE_SIZE = 50;
         let currentPage = 1;
         let activeSource = 'all';
+        let currentSortMode = 'pubdate_desc';
         const fileNames = [];
         let FILE_TO_ALIAS = {};
         let isApiMode = false;
@@ -850,7 +884,8 @@
                 page: '1',
                 pageSize: '10000',
                 source: activeSource,
-                fields: enabledFields
+                fields: enabledFields,
+                sort: currentSortMode
             });
             if (keyword) {
                 params.set('q', keyword);
@@ -891,6 +926,32 @@
             if (!link) return null;
             const match = link.match(/BV[a-zA-Z0-9]+/);
             return match ? match[0] : null;
+        }
+
+        function formatShanghaiDateTime(timestamp) {
+            const value = Number(timestamp || 0);
+            if (!value) return '';
+            const date = new Date(value * 1000);
+            return new Intl.DateTimeFormat('zh-CN', {
+                timeZone: 'Asia/Shanghai',
+                year: 'numeric',
+                month: '2-digit',
+                day: '2-digit',
+                hour: '2-digit',
+                minute: '2-digit',
+                second: '2-digit',
+                hour12: false
+            }).format(date);
+        }
+
+        function sortSongs(data) {
+            const items = [...data];
+            if (currentSortMode === 'pubdate_desc') {
+                items.sort((a, b) => Number(b.pubdate || 0) - Number(a.pubdate || 0));
+            } else if (currentSortMode === 'pubdate_asc') {
+                items.sort((a, b) => Number(a.pubdate || 0) - Number(b.pubdate || 0));
+            }
+            return items;
         }
 
         function getActiveSearchFields() {
@@ -1171,7 +1232,8 @@
                         page: String(currentPage),
                         pageSize: String(PAGE_SIZE),
                         source: activeSource,
-                        fields: enabledFields
+                        fields: enabledFields,
+                        sort: currentSortMode
                     });
                     if (keyword) {
                         params.set('q', keyword);
@@ -1229,6 +1291,8 @@
                 filteredBySearch = [...filteredBySource];
             }
 
+            filteredBySearch = sortSongs(filteredBySearch);
+
             // 3. 更新UI
             updateStats();
             const copyAllBtn = document.getElementById('copy-all-btn');
@@ -1267,6 +1331,7 @@
                     const isLinkValid = item.link && /BV\w+/.test(item.link);
                     const bvid = extractBvid(item.link);
                     const hasValidArtist = isValidArtist(item.artist);
+                    const publishTime = formatShanghaiDateTime(item.pubdate);
 
                     const titleHtml = `<div class="copy-wrapper">
                         <button class="copy-btn copy-btn-left" data-type="title-artist">📋</button>
@@ -1284,6 +1349,12 @@
                     const collectionHtml = `<div class="copy-wrapper quick-copy-text" data-type="collection-text">
                         <span class="collection-text">合集：${item.collection || '未知'}</span>
                     </div>`;
+                    const extraMetaHtml = `
+                        <div class="song-extra-meta">
+                            ${bvid ? `<span class="meta-chip quick-copy-text" data-type="bvid-text">BV：${bvid}</span>` : ''}
+                            ${publishTime ? `<span class="meta-chip quick-copy-text" data-type="pubdate-text">发布时间：${publishTime}</span>` : ''}
+                        </div>
+                    `;
 
                     const linkHtml = isLinkValid 
                         ? `<div class="song-link">
@@ -1307,6 +1378,7 @@
                             <div class="song-meta">
                                 ${collectionHtml}
                             </div>
+                            ${extraMetaHtml}
                             <div class="song-source quick-copy-text" data-type="source-text">来源：${sourceAlias}</div>
                         </div>
                         <div class="song-actions">
@@ -1342,6 +1414,16 @@
                     const sourceText = li.querySelector('[data-type="source-text"]');
                     if (sourceText) {
                         sourceText.onclick = () => copyToClipboard(sourceAlias);
+                    }
+
+                    const bvidText = li.querySelector('[data-type="bvid-text"]');
+                    if (bvidText && bvid) {
+                        bvidText.onclick = () => copyToClipboard(bvid);
+                    }
+
+                    const pubdateText = li.querySelector('[data-type="pubdate-text"]');
+                    if (pubdateText && publishTime) {
+                        pubdateText.onclick = () => copyToClipboard(publishTime);
                     }
                     
                     const linkCopyBtn = li.querySelector('[data-type="link"]');
@@ -1513,6 +1595,7 @@
         function initSearch() {
             const searchInput = document.getElementById('search-input');
             const searchBtn = document.getElementById('search-btn');
+            const sortSelect = document.getElementById('sort-select');
 
             searchInput.addEventListener('keydown', (e) => {
                 if (e.key === 'Enter' || e.keyCode === 13) {
@@ -1534,6 +1617,12 @@
                     currentPage = 1;
                     updateFilterAndSearch();
                 }, 300);
+            });
+
+            sortSelect.addEventListener('change', () => {
+                currentSortMode = sortSelect.value || 'pubdate_desc';
+                currentPage = 1;
+                updateFilterAndSearch();
             });
         }
 

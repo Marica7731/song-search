@@ -191,6 +191,29 @@ function searchItem(item, condition, fields) {
   return checkCondition(condition);
 }
 
+function sortSongs(data, sortMode) {
+  const items = data.slice();
+  if (sortMode === 'pubdate_asc') {
+    items.sort((a, b) => {
+      const av = Number(a.pubdate || 0);
+      const bv = Number(b.pubdate || 0);
+      if (av !== bv) return av - bv;
+      return 0;
+    });
+    return items;
+  }
+  if (sortMode === 'pubdate_desc') {
+    items.sort((a, b) => {
+      const av = Number(a.pubdate || 0);
+      const bv = Number(b.pubdate || 0);
+      if (av !== bv) return bv - av;
+      return 0;
+    });
+    return items;
+  }
+  return items;
+}
+
 function readJson(filePath) {
   return JSON.parse(fs.readFileSync(filePath, 'utf8'));
 }
@@ -502,6 +525,7 @@ function handleStatsView(reqUrl, res) {
 function handleSearch(reqUrl, res) {
   const query = reqUrl.searchParams.get('q') || '';
   const source = reqUrl.searchParams.get('source') || 'all';
+  const sort = reqUrl.searchParams.get('sort') || 'pubdate_desc';
   const page = Math.max(1, Number(reqUrl.searchParams.get('page') || '1'));
   const pageSize = Math.max(1, Math.min(10000, Number(reqUrl.searchParams.get('pageSize') || '50')));
   const fieldsParam = reqUrl.searchParams.get('fields') || 'title,artist';
@@ -529,6 +553,8 @@ function handleSearch(reqUrl, res) {
     }
   }
 
+  data = sortSongs(data, sort);
+
   const total = data.length;
   const totalUnique = getUniqueSongCount(data);
   const start = (page - 1) * pageSize;
@@ -538,6 +564,7 @@ function handleSearch(reqUrl, res) {
     items,
     page,
     pageSize,
+    sort,
     total,
     totalPages: Math.max(1, Math.ceil(total / pageSize)),
     summary: {
