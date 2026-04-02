@@ -13,6 +13,9 @@
 > 站点地址（GitHub Pages）：  
 > [https://marica7731.github.io/song-search/](https://marica7731.github.io/song-search/)
 
+> 服务端部署地址：  
+> [https://song.loushan.site/](https://song.loushan.site/)
+
 ## 当前功能概览
 
 ### 查询与筛选
@@ -57,16 +60,21 @@
 
 ## 本地运行
 
-请不要直接用 `file://` 打开页面，`fetch('data/...')` 会被浏览器安全策略限制。
+优先使用内置 Node 服务运行，这样首页、统计、查重、校验、增长页都会走统一 API。
 
-在项目根目录启动 HTTP 服务：
+在项目根目录执行：
 
 ```bash
-python -m http.server 8000
+node server.js
 ```
 
 然后访问：
-- `http://127.0.0.1:8000/index.html`
+- `http://127.0.0.1:8080/`
+
+说明：
+- 服务端模式下，页面优先请求 `/api/*`
+- 如果后端不可用，部分页面会回退到静态 `data/*.js` 方式
+- 不建议直接用 `file://` 打开，仍会受到浏览器安全策略限制
 
 ## 目录说明
 
@@ -79,9 +87,12 @@ song-search/
 ├─ bv-dup-check.html
 ├─ title-artist-dup-check.html
 ├─ title-artist-check.html
+├─ song-growth.html
+├─ server.js                   # 统一 API 与静态资源服务
 ├─ dup-check-core.js
 ├─ bili-check-title-artist.js
 ├─ data/                       # 自动生成数据
+├─ reports/                    # 增长日报历史
 ├─ scripts/
 │  └─ update-songs.js          # 数据抓取与生成脚本
 └─ .github/workflows/

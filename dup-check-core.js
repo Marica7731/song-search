@@ -107,34 +107,44 @@ function parseTitleArtistInput(input) {
 
 async function loadAllData() {
   try {
-    const indexRes = await fetch('data/index.json');
-    const indexData = await indexRes.json();
-    fileList = indexData.files || [];
-    fileAlias = indexData.fileToAlias || {};
+    try {
+      const apiRes = await fetch('/api/all-songs');
+      if (!apiRes.ok) throw new Error(`API 状态码 ${apiRes.status}`);
+      const apiData = await apiRes.json();
+      fileList = apiData.files || [];
+      fileAlias = apiData.fileToAlias || {};
+      allSongs = Array.isArray(apiData.items) ? apiData.items : [];
+    } catch (apiError) {
+      console.warn('API 数据加载失败，回退到静态模式：', apiError);
+      const indexRes = await fetch('data/index.json');
+      const indexData = await indexRes.json();
+      fileList = indexData.files || [];
+      fileAlias = indexData.fileToAlias || {};
+
+      const loadTasks = fileList.map(fileName =>
+        fetch(`data/${fileName}`)
+          .then(res => res.text())
+          .then(jsContent => {
+            const fakeWindow = { SONG_DATA: [] };
+            try {
+              const run = new Function('window', jsContent);
+              run(fakeWindow);
+            } catch (e) {
+              console.warn(`执行 ${fileName} 出错:`, e.message);
+            }
+            return fakeWindow.SONG_DATA.map(song => ({
+              ...song,
+              source: fileName
+            }));
+          })
+          .catch(() => [])
+      );
+
+      const songArrays = await Promise.all(loadTasks);
+      allSongs = songArrays.flat();
+    }
 
     renderSourceTabs();
-
-    const loadTasks = fileList.map(fileName =>
-      fetch(`data/${fileName}`)
-        .then(res => res.text())
-        .then(jsContent => {
-          const fakeWindow = { SONG_DATA: [] };
-          try {
-            const run = new Function('window', jsContent);
-            run(fakeWindow);
-          } catch (e) {
-            console.warn(`执行 ${fileName} 出错:`, e.message);
-          }
-          return fakeWindow.SONG_DATA.map(song => ({
-            ...song,
-            source: fileName
-          }));
-        })
-        .catch(() => [])
-    );
-
-    const songArrays = await Promise.all(loadTasks);
-    allSongs = songArrays.flat();
     updateStat('数据已加载，请输入内容开始分析');
   } catch (err) {
     updateStat(`数据加载失败: ${err.message}`);

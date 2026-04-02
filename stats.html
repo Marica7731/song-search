@@ -641,6 +641,8 @@
         let searchKeyword = '';
         const PAGE_SIZE = 30;
         let currentRankPage = 1;
+        let isApiMode = false;
+        let currentStatsPayload = null;
 
         // 当前复制相关
         let currentCopyData = null;
@@ -1245,15 +1247,17 @@
         }
 
         // --- Tab 1 渲染: 歌曲总出场排行 ---
-        function renderRankList(data) {
+        function renderRankList(data, alreadyAggregated = false) {
             const listEl = document.getElementById('rank-list');
-            const aggData = aggregateBySong(data);
+            const aggData = alreadyAggregated ? data : aggregateBySong(data);
             
-            document.getElementById('summary-text').textContent = `📊 共统计 ${aggData.length} 首不同的“歌曲+歌手”组合`;
+            if (!isApiMode) {
+                document.getElementById('summary-text').textContent = `📊 共统计 ${aggData.length} 首不同的“歌曲+歌手”组合`;
+            }
 
             const start = (currentRankPage - 1) * PAGE_SIZE;
             const end = start + PAGE_SIZE;
-            const pageData = aggData.slice(start, end);
+            const pageData = isApiMode ? aggData : aggData.slice(start, end);
 
             if (pageData.length === 0) {
                 document.getElementById('empty-msg').style.display = 'block';
@@ -1337,11 +1341,8 @@
                     const copyBtn = li.querySelector('.copy-btn');
                     copyBtn.addEventListener('click', () => {
                         const data = item.performances.map(perf => {
-                            const sourceItem = originalData.find(i => i.link === perf.link);
-                            const sourceFile = sourceItem ? sourceItem.source : null;
-                            const source = sourceFile ? (FILE_TO_ALIAS[sourceFile.replace('.js', '')] || sourceFile) : '';
                             return {
-                                source: source,
+                                source: perf.source || '',
                                 collection: perf.collection,
                                 link: perf.link,
                                 count: 1, // 添加count用于排序
@@ -1362,7 +1363,7 @@
                 });
             }
 
-            renderPagination(aggData.length);
+            renderPagination(isApiMode && currentStatsPayload ? currentStatsPayload.total : aggData.length);
         }
 
         // --- 通用：渲染分组列表 (用于 VTuber 和 歌手) ---
@@ -1504,12 +1505,9 @@
                         const data = [];
                         group.songs.forEach(song => {
                             song.links.forEach(link => {
-                                const sourceItem = originalData.find(i => i.link === link.link);
-                                const sourceFile = sourceItem ? sourceItem.source : null;
-                                const source = sourceFile ? (FILE_TO_ALIAS[sourceFile.replace('.js', '')] || sourceFile) : '';
                                 data.push({
                                     title: song.title,
-                                    source: source,
+                                    source: link.source || '',
                                     collection: link.collection,
                                     link: link.link,
                                     count: 1 // 添加count用于排序
@@ -1525,17 +1523,23 @@
         }
 
         // --- Tab 2 渲染: 按VTuber来源分类 ---
-        function renderVtuberSourceList(data) {
-            const aggData = aggregateByVtuberSource(data);
-            document.getElementById('summary-text').textContent = `🎤 共收录 ${aggData.length} 位VTuber的合集歌单`;
+        function renderVtuberSourceList(data, alreadyAggregated = false) {
+            const aggData = alreadyAggregated ? data : aggregateByVtuberSource(data);
+            if (!isApiMode) {
+                document.getElementById('summary-text').textContent = `🎤 共收录 ${aggData.length} 位VTuber的合集歌单`;
+            }
             renderGroupList(aggData, 'vtuber-source-list', 'vtuber');
+            renderPagination(isApiMode && currentStatsPayload ? currentStatsPayload.total : aggData.length);
         }
 
         // --- Tab 3 渲染: 按歌手分类 ---
-        function renderArtistList(data) {
-            const aggData = aggregateByArtist(data);
-            document.getElementById('summary-text').textContent = `🎙️ 共收录 ${aggData.length} 位歌手的歌单`;
+        function renderArtistList(data, alreadyAggregated = false) {
+            const aggData = alreadyAggregated ? data : aggregateByArtist(data);
+            if (!isApiMode) {
+                document.getElementById('summary-text').textContent = `🎙️ 共收录 ${aggData.length} 位歌手的歌单`;
+            }
             renderGroupList(aggData, 'artist-list', 'artist');
+            renderPagination(isApiMode && currentStatsPayload ? currentStatsPayload.total : aggData.length);
         }
 
         // 分页渲染
@@ -1622,8 +1626,52 @@
 
         // ========== 4. 总控与初始化 ==========
 
-        function updateAllViews() {
+        async function fetchStatsView() {
+            const params = new URLSearchParams({
+                tab: activeTab,
+                source: activeFilter,
+                q: searchKeyword,
+                page: String(currentRankPage),
+                pageSize: String(PAGE_SIZE)
+            });
+            const res = await fetch(`/api/stats/view?${params.toString()}`);
+            if (!res.ok) throw new Error(`统计接口失败（状态码：${res.status}）`);
+            return res.json();
+        }
+
+        async function updateAllViews() {
             generateFilterButtons();
+
+            if (isApiMode) {
+                try {
+                    currentStatsPayload = await fetchStatsView();
+                    currentRankPage = currentStatsPayload.page || currentRankPage;
+                    document.getElementById('summary-text').textContent = currentStatsPayload.summaryText || '';
+                    if (!currentStatsPayload.hasData || !Array.isArray(currentStatsPayload.items) || currentStatsPayload.items.length === 0) {
+                        document.getElementById('empty-msg').style.display = 'block';
+                        document.getElementById('rank-list').innerHTML = '';
+                        document.getElementById('vtuber-source-list').innerHTML = '';
+                        document.getElementById('artist-list').innerHTML = '';
+                        renderPagination(currentStatsPayload.total || 0);
+                        return;
+                    }
+
+                    document.getElementById('empty-msg').style.display = 'none';
+                    if (activeTab === 'rank') {
+                        renderRankList(currentStatsPayload.items, true);
+                    } else if (activeTab === 'vtuber-source') {
+                        renderVtuberSourceList(currentStatsPayload.items, true);
+                    } else if (activeTab === 'artist') {
+                        renderArtistList(currentStatsPayload.items, true);
+                    }
+                    return;
+                } catch (error) {
+                    console.error('服务端统计失败，回退到前端统计：', error);
+                    isApiMode = false;
+                    currentStatsPayload = null;
+                }
+            }
+
             const data = getFilteredData();
             
             if (data.length === 0) {
@@ -1680,15 +1728,30 @@
             return Promise.all(promises);
         }
 
+        async function loadAllDataFromApi() {
+            const res = await fetch('/api/bootstrap');
+            if (!res.ok) throw new Error(`API 状态码 ${res.status}`);
+            const payload = await res.json();
+            fileNames = payload.files || [];
+            FILE_TO_ALIAS = payload.fileToAlias || {};
+            originalData = [];
+            isApiMode = true;
+        }
+
         async function bootstrap() {
             try {
-                const res = await fetch('data/index.json');
-                if (!res.ok) throw new Error('无法加载 index.json');
-                const config = await res.json();
-                fileNames.push(...(config.files || []));
-                FILE_TO_ALIAS = config.fileToAlias || {};
-
-                await loadScriptsParallel(fileNames);
+                try {
+                    await loadAllDataFromApi();
+                } catch (apiError) {
+                    console.warn('API 数据加载失败，回退到静态模式：', apiError);
+                    isApiMode = false;
+                    const res = await fetch('data/index.json');
+                    if (!res.ok) throw new Error('无法加载 index.json');
+                    const config = await res.json();
+                    fileNames.push(...(config.files || []));
+                    FILE_TO_ALIAS = config.fileToAlias || {};
+                    await loadScriptsParallel(fileNames);
+                }
 
                 document.getElementById('progress-msg').style.display = 'none';
                 

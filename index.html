@@ -671,6 +671,8 @@
         let activeSource = 'all';
         const fileNames = [];
         let FILE_TO_ALIAS = {};
+        let isApiMode = false;
+        let currentSearchMeta = null;
 
         function showCopyToast() {
             const toast = document.getElementById('copy-toast');
@@ -837,13 +839,52 @@
             return content.trim();
         }
 
-        async function copyAllSearchResults() {
-            const text = generateSearchResultText();
-            if (!text) {
-                alert('暂无搜索结果可复制');
-                return;
+        async function fetchAllSearchResultsForCopy() {
+            const keyword = document.getElementById('search-input').value.trim();
+            const fields = getActiveSearchFields();
+            const enabledFields = Object.entries(fields)
+                .filter(([_, enabled]) => enabled)
+                .map(([field]) => field)
+                .join(',');
+            const params = new URLSearchParams({
+                page: '1',
+                pageSize: '10000',
+                source: activeSource,
+                fields: enabledFields
+            });
+            if (keyword) {
+                params.set('q', keyword);
             }
-            await copyToClipboard(text);
+            const res = await fetch(`/api/search?${params.toString()}`);
+            if (!res.ok) {
+                throw new Error(`复制结果加载失败（状态码：${res.status}）`);
+            }
+            const payload = await res.json();
+            return Array.isArray(payload.items) ? payload.items : [];
+        }
+
+        async function copyAllSearchResults() {
+            let originalFiltered = null;
+            try {
+                if (isApiMode) {
+                    const allItems = await fetchAllSearchResultsForCopy();
+                    originalFiltered = filteredBySearch;
+                    filteredBySearch = allItems;
+                }
+                const text = generateSearchResultText();
+                if (!text) {
+                    alert('暂无搜索结果可复制');
+                    return;
+                }
+                await copyToClipboard(text);
+            } catch (error) {
+                console.error('复制汇总失败：', error);
+                alert(`复制失败：${error.message}`);
+            } finally {
+                if (originalFiltered) {
+                    filteredBySearch = originalFiltered;
+                }
+            }
         }
 
         function extractBvid(link) {
@@ -1112,7 +1153,56 @@
             updateFilterAndSearch();
         }
 
-        function updateFilterAndSearch() {
+        async function updateFilterAndSearch() {
+            if (isApiMode) {
+                const keyword = document.getElementById('search-input').value.trim();
+                const fields = getActiveSearchFields();
+                const enabledFields = Object.entries(fields)
+                    .filter(([_, enabled]) => enabled)
+                    .map(([field]) => field)
+                    .join(',');
+                const progressMsg = document.getElementById('progress-msg');
+
+                try {
+                    progressMsg.style.display = 'block';
+                    progressMsg.textContent = '🔎 正在从服务端查询歌库...';
+
+                    const params = new URLSearchParams({
+                        page: String(currentPage),
+                        pageSize: String(PAGE_SIZE),
+                        source: activeSource,
+                        fields: enabledFields
+                    });
+                    if (keyword) {
+                        params.set('q', keyword);
+                    }
+
+                    const res = await fetch(`/api/search?${params.toString()}`);
+                    if (!res.ok) {
+                        throw new Error(`查询失败（状态码：${res.status}）`);
+                    }
+
+                    const payload = await res.json();
+                    filteredBySearch = Array.isArray(payload.items) ? payload.items : [];
+                    currentSearchMeta = payload;
+                    progressMsg.textContent = `✅ 查询完成，共 ${payload.total || 0} 条结果`;
+                    updateStats();
+                    const copyAllBtn = document.getElementById('copy-all-btn');
+                    copyAllBtn.disabled = filteredBySearch.length === 0;
+                    renderSongList(filteredBySearch, payload.total || filteredBySearch.length);
+                    return;
+                } catch (error) {
+                    console.error('API 查询失败：', error);
+                    progressMsg.className = 'progress-msg error-msg';
+                    progressMsg.textContent = `❌ 查询失败：${error.message}`;
+                    filteredBySearch = [];
+                    currentSearchMeta = null;
+                    updateStats();
+                    renderSongList([]);
+                    return;
+                }
+            }
+
             // 1. 来源筛选
             if (activeSource === 'all') {
                 filteredBySource = [...originalData];
@@ -1149,6 +1239,11 @@
 
         function updateStats() {
             const statsMsg = document.getElementById('stats-msg');
+            if (isApiMode && currentSearchMeta && currentSearchMeta.summary) {
+                const summary = currentSearchMeta.summary;
+                statsMsg.textContent = `总歌曲数：${summary.totalSongs}（去重：${summary.totalUnique}）| 筛选后：${summary.filteredBySourceCount}（去重：${summary.filteredBySourceUnique}）| 搜索结果：${summary.searchCount}（去重：${summary.searchUnique}）`;
+                return;
+            }
             const uniqueOriginal = getUniqueSongCount(originalData);
             const uniqueFiltered = getUniqueSongCount(filteredBySource);
             const uniqueSearch = getUniqueSongCount(filteredBySearch);
@@ -1156,13 +1251,11 @@
             statsMsg.textContent = `总歌曲数：${originalData.length}（去重：${uniqueOriginal}）| 筛选后：${filteredBySource.length}（去重：${uniqueFiltered}）| 搜索结果：${filteredBySearch.length}（去重：${uniqueSearch}）`;
         }
 
-        function renderSongList(data) {
+        function renderSongList(data, totalOverride) {
             const songListEl = document.getElementById('song-list');
             songListEl.innerHTML = '';
 
-            const start = (currentPage - 1) * PAGE_SIZE;
-            const end = start + PAGE_SIZE;
-            const pageData = data.slice(start, end);
+            const pageData = isApiMode ? data : data.slice((currentPage - 1) * PAGE_SIZE, (currentPage - 1) * PAGE_SIZE + PAGE_SIZE);
 
             if (pageData.length === 0) {
                 document.getElementById('empty-msg').style.display = 'block';
@@ -1260,7 +1353,7 @@
                 });
             }
 
-            renderPagination(data.length);
+            renderPagination(typeof totalOverride === 'number' ? totalOverride : data.length);
         }
 
         function renderPagination(total) {
@@ -1276,7 +1369,11 @@
             prevBtn.onclick = () => {
                 if (currentPage > 1) {
                     currentPage--;
-                    renderSongList(filteredBySearch);
+                    if (isApiMode) {
+                        updateFilterAndSearch();
+                    } else {
+                        renderSongList(filteredBySearch);
+                    }
                 }
             };
             paginationEl.appendChild(prevBtn);
@@ -1287,7 +1384,11 @@
                 firstBtn.textContent = '1';
                 firstBtn.onclick = () => {
                     currentPage = 1;
-                    renderSongList(filteredBySearch);
+                    if (isApiMode) {
+                        updateFilterAndSearch();
+                    } else {
+                        renderSongList(filteredBySearch);
+                    }
                 };
                 paginationEl.appendChild(firstBtn);
 
@@ -1308,7 +1409,11 @@
                 pageBtn.textContent = i;
                 pageBtn.onclick = () => {
                     currentPage = i;
-                    renderSongList(filteredBySearch);
+                    if (isApiMode) {
+                        updateFilterAndSearch();
+                    } else {
+                        renderSongList(filteredBySearch);
+                    }
                 };
                 paginationEl.appendChild(pageBtn);
             }
@@ -1327,7 +1432,11 @@
                 lastBtn.textContent = totalPages;
                 lastBtn.onclick = () => {
                     currentPage = totalPages;
-                    renderSongList(filteredBySearch);
+                    if (isApiMode) {
+                        updateFilterAndSearch();
+                    } else {
+                        renderSongList(filteredBySearch);
+                    }
                 };
                 paginationEl.appendChild(lastBtn);
             }
@@ -1338,7 +1447,11 @@
             nextBtn.onclick = () => {
                 if (currentPage < totalPages) {
                     currentPage++;
-                    renderSongList(filteredBySearch);
+                    if (isApiMode) {
+                        updateFilterAndSearch();
+                    } else {
+                        renderSongList(filteredBySearch);
+                    }
                 }
             };
             paginationEl.appendChild(nextBtn);
@@ -1362,7 +1475,11 @@
                 targetPage = Math.max(1, Math.min(totalPages, targetPage));
                 if (targetPage !== currentPage) {
                     currentPage = targetPage;
-                    renderSongList(filteredBySearch);
+                    if (isApiMode) {
+                        updateFilterAndSearch();
+                    } else {
+                        renderSongList(filteredBySearch);
+                    }
                 }
             };
 
@@ -1431,30 +1548,60 @@
 
         async function bootstrap() {
             try {
-                const res = await fetch('data/index.json');
-                if (!res.ok) throw new Error(`加载索引失败（状态码：${res.status}`);
-                const config = await res.json();
-                fileNames.push(...(config.files || []));
-                FILE_TO_ALIAS = config.fileToAlias || {};
-
-                if (fileNames.length === 0) throw new Error('index.json中无数据文件配置');
-
                 const progressMsg = document.getElementById('progress-msg');
-                progressMsg.textContent = `📥 正在并行加载 ${fileNames.length} 个歌库文件...`;
+                try {
+                    const apiRes = await fetch('/api/bootstrap');
+                    if (!apiRes.ok) throw new Error(`API 启动信息加载失败（状态码：${apiRes.status}）`);
+                    const apiConfig = await apiRes.json();
+                    isApiMode = apiConfig.mode === 'api';
+                    if (!isApiMode) throw new Error('API 模式不可用');
 
-                await loadScriptsParallel(fileNames);
+                    fileNames.push(...(apiConfig.files || []));
+                    FILE_TO_ALIAS = apiConfig.fileToAlias || {};
+                    progressMsg.textContent = `✅ 服务端歌库已就绪，总歌曲数：${apiConfig.totalSongs || 0}`;
+                    filteredBySource = [];
+                    filteredBySearch = [];
+                    currentSearchMeta = {
+                        summary: {
+                            totalSongs: apiConfig.totalSongs || 0,
+                            totalUnique: apiConfig.totalUnique || 0,
+                            filteredBySourceCount: apiConfig.totalSongs || 0,
+                            filteredBySourceUnique: apiConfig.totalUnique || 0,
+                            searchCount: 0,
+                            searchUnique: 0
+                        }
+                    };
+                } catch (apiError) {
+                    console.warn('API 模式不可用，回退到静态模式：', apiError);
+                    isApiMode = false;
 
-                progressMsg.textContent = `✅ 歌库加载完成，总歌曲数：${originalData.length}`;
-                filteredBySource = [...originalData];
-                filteredBySearch = [...originalData];
+                    const res = await fetch('data/index.json');
+                    if (!res.ok) throw new Error(`加载索引失败（状态码：${res.status}）`);
+                    const config = await res.json();
+                    fileNames.push(...(config.files || []));
+                    FILE_TO_ALIAS = config.fileToAlias || {};
+
+                    if (fileNames.length === 0) throw new Error('index.json中无数据文件配置');
+
+                    progressMsg.textContent = `📥 正在并行加载 ${fileNames.length} 个歌库文件...`;
+
+                    await loadScriptsParallel(fileNames);
+
+                    progressMsg.textContent = `✅ 歌库加载完成，总歌曲数：${originalData.length}`;
+                    filteredBySource = [...originalData];
+                    filteredBySearch = [...originalData];
+                }
 
                 generateFilterButtons();
                 initSearchFieldCheckboxes();
                 initSearch();
                 document.getElementById('copy-all-btn').addEventListener('click', copyAllSearchResults);
-                
                 updateStats();
-                renderSongList(filteredBySearch);
+                if (isApiMode) {
+                    await updateFilterAndSearch();
+                } else {
+                    renderSongList(filteredBySearch);
+                }
 
             } catch (error) {
                 console.error('❌ 启动失败：', error);

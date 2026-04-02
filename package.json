@@ -1,0 +1,9 @@
+{
+  "name": "song-search",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Song search site with optional server-side API mode",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

@@ -114,6 +114,18 @@ function showCopyToast() {
 
 async function loadAllData() {
   try {
+    try {
+      const apiRes = await fetch('/api/all-songs');
+      if (!apiRes.ok) throw new Error(`API 状态码 ${apiRes.status}`);
+      const apiData = await apiRes.json();
+      fileList = apiData.files || [];
+      fileAlias = apiData.fileToAlias || {};
+      allSongs = Array.isArray(apiData.items) ? apiData.items : [];
+      return;
+    } catch (apiError) {
+      console.warn('API 数据加载失败，回退到静态模式：', apiError);
+    }
+
     const indexRes = await fetch('data/index.json');
     const indexData = await indexRes.json();
     fileList = indexData.files || [];
