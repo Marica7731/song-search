@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 4/2/2026, 3:56:03 PM
+// 生成时间: 4/2/2026, 5:45:17 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -20411,6 +20411,46 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】#138[2026-04-01]星期三定期歌回★稀羽すう - Suu Usuwa -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qh9JB3EUL?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "【🦢歌切】[2026-04-02]4周年纪念歌回！用歌声传递感谢与爱！❤️稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tb9wBSE5w?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ひまわりの約束",
+  "artist": "秦基博",
+  "collection": "【🦢歌切】[2026-04-02]4周年纪念歌回！用歌声传递感谢与爱！❤️稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tb9wBSE5w?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【🦢歌切】[2026-04-02]4周年纪念歌回！用歌声传递感谢与爱！❤️稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tb9wBSE5w?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Ready To Party",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】[2026-04-02]4周年纪念歌回！用歌声传递感谢与爱！❤️稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tb9wBSE5w?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Starry night",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】[2026-04-02]4周年纪念歌回！用歌声传递感谢与爱！❤️稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tb9wBSE5w?p=5",
   "source": "suu_usuwa.js"
 }
 );

@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 4/2/2026, 3:54:56 PM
+// 生成时间: 4/2/2026, 5:44:30 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -28491,6 +28491,46 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-04-01]吉他弹唱练习 Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ek9pBhEUB?p=18",
+  "source": "figaro.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【💐歌切】[2026-04-02]妖精爆誕祭歌回接力💐 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nb9wBSEUp?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "新時代",
+  "artist": "Ado",
+  "collection": "【💐歌切】[2026-04-02]妖精爆誕祭歌回接力💐 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nb9wBSEUp?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "【💐歌切】[2026-04-02]妖精爆誕祭歌回接力💐 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nb9wBSEUp?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-04-02]妖精爆誕祭歌回接力💐 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nb9wBSEUp?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "トワイライト",
+  "artist": "Figaro",
+  "collection": "【💐歌切】[2026-04-02]妖精爆誕祭歌回接力💐 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nb9wBSEUp?p=5",
   "source": "figaro.js"
 }
 );
