@@ -1,53 +1,12 @@
 const fs = require('fs');
 const path = require('path');
 
-// ================= 关键兼容：适配全局安装的 Puppeteer =================
-let puppeteer;
-try {
-    puppeteer = require('puppeteer');
-} catch (err) {
-    try {
-        const globalModules = path.resolve(process.execPath, '../..', 'lib/node_modules');
-        puppeteer = require(path.join(globalModules, 'puppeteer'));
-    } catch (globalErr) {
-        console.error('❌ Puppeteer 未安装，请执行 npm install puppeteer 或 npm install -g puppeteer');
-        process.exit(1);
-    }
-}
-
 const DEFAULT_ARTIST_TEXT = '来源处未提供标准格式歌手';
-
-async function withRetry(fn, maxRetries = 3, delay = 5000) {
-    let lastError;
-    for (let attempt = 1; attempt <= maxRetries; attempt++) {
-        try {
-            return await fn();
-        } catch (err) {
-            lastError = err;
-            console.log(`⚠️  第 ${attempt} 次尝试失败，${delay / 1000}秒后重试... 错误：${err.message.slice(0, 100)}`);
-            await new Promise(resolve => setTimeout(resolve, delay));
-        }
-    }
-    throw lastError;
-}
-
-const DELAY_TIME = 1500;
 const BILI_VIDEO_PREFIX = 'https://www.bilibili.com/video/';
+const BILI_VIEW_API = 'https://api.bilibili.com/x/web-interface/view?bvid=';
 const BV_REGEX = /BV[0-9a-zA-Z]+/;
-const PLAYLIST_SELECTORS = ['.video-pod__list .pod-item'];
-const PART_TITLE_SELECTORS = [
-    '.page-list .page-item.sub .title-txt',
-    '.title .title-txt'
-];
-const COLLECTION_TITLE_SELECTORS = [
-    '.head .title .title-txt',
-    '.video-pod__header .header-top .left .title',
-    '.title .title-txt'
-];
+const CLEAN_SUFFIX_REGEX = /(\s*\(\d+\)|_(sub|copy|backup|1080p|720p|\d+))$/i;
 
-// ==========================================
-// 🔧 配置区
-// ==========================================
 const SINGER_CONFIGS = [
     { bvids: ["BV1JRwUzoEpM","BV1icwSzXEYv"], file: "asuyumekanae", alias: "明日夢かなえ" },
     { bvids: ["BV1owcoz3Ekw"], file: "chiyutori ", alias: "知悠" },
@@ -77,6 +36,38 @@ const SINGER_CONFIGS = [
     { bvids: ["BV1Qa9JB6EAw"], alias: "陽月るるふ" }
 ];
 
+const ROOT_DIR = path.join(__dirname, '..');
+const DATA_DIR = path.join(ROOT_DIR, 'data');
+const REPORT_DIR = path.join(ROOT_DIR, 'reports');
+const INDEX_PATH = path.join(DATA_DIR, 'index.json');
+const METADATA_CACHE_PATH = path.join(REPORT_DIR, 'bv-metadata-cache.json');
+
+function ensureDir(dirPath) {
+    if (!fs.existsSync(dirPath)) {
+        fs.mkdirSync(dirPath, { recursive: true });
+    }
+}
+
+function sleep(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+async function withRetry(fn, maxRetries = 3, delay = 2500) {
+    let lastError;
+    for (let attempt = 1; attempt <= maxRetries; attempt += 1) {
+        try {
+            return await fn();
+        } catch (error) {
+            lastError = error;
+            console.warn(`⚠️  第 ${attempt} 次尝试失败：${error.message}`);
+            if (attempt < maxRetries) {
+                await sleep(delay);
+            }
+        }
+    }
+    throw lastError;
+}
+
 function resolveConfig(config) {
     const alias = config.alias || config.file || config.bvids?.[0] || 'unknown';
     if (config.file) {
@@ -98,200 +89,220 @@ function resolveConfig(config) {
 
 const RESOLVED_SINGER_CONFIGS = SINGER_CONFIGS.map(resolveConfig);
 
-const DATA_DIR = path.join(__dirname, '..', 'data');
-const BILI_VIDEO_URL = (bvid) => `https://www.bilibili.com/video/${bvid}`;
-
-function resolveBrowserExecutable() {
-    if (process.env.PUPPETEER_EXECUTABLE_PATH) {
-        return process.env.PUPPETEER_EXECUTABLE_PATH;
-    }
-
-    const platform = process.platform;
-    const candidates = platform === 'win32'
-        ? [
-            'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
-            'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe',
-            'C:\\Program Files\\Microsoft\\Edge\\Application\\msedge.exe',
-            'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe'
-        ]
-        : [
-            '/usr/bin/google-chrome',
-            '/usr/bin/chromium-browser',
-            '/usr/bin/chromium',
-            '/snap/bin/chromium'
-        ];
-
-    return candidates.find(filePath => fs.existsSync(filePath)) || null;
-}
-
-async function loadVideoPageWithBrowser(bvid) {
-    const url = BILI_VIDEO_URL(bvid);
-    let browser;
+function loadMetadataCache() {
+    if (!fs.existsSync(METADATA_CACHE_PATH)) return {};
     try {
-        const executablePath = resolveBrowserExecutable();
-        browser = await puppeteer.launch({
-            headless: 'new',
-            args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage', '--disable-blink-features=AutomationControlled', '--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36', '--disable-gpu', '--window-size=1920,1080'],
-            ...(executablePath ? { executablePath } : {})
-        });
-        const page = await browser.newPage();
-        await page.setExtraHTTPHeaders({ 'Referer': 'https://www.bilibili.com/', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8' });
-        await page.evaluateOnNewDocument(() => { delete window.navigator.webdriver; });
-        await page.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
-        await new Promise(resolve => setTimeout(resolve, DELAY_TIME));
-
-        const rawData = await page.evaluate((PS, PTS, CTS, inputBvid) => {
-            const BV_REGEX = /BV[0-9a-zA-Z]+/;
-            function qSF(c, s) { for (const sel of s) { const e = c.querySelector(sel); if (e) return e; } return null; }
-            function qSAF(c, s) { for (const sel of s) { const e = c.querySelectorAll(sel); if (e.length > 0) return e; } return []; }
-
-            let containers = [];
-            for (const sel of PS) {
-                containers = document.querySelectorAll(sel);
-                if (containers.length > 0) break;
-            }
-            if (containers.length === 0) return null;
-
-            return Array.from(containers).map((container, idx) => {
-                const colTitleNode = qSF(container, CTS);
-                const colTitle = colTitleNode?.textContent.trim() || `合集${idx + 1}`;
-                let upName = "未知UP主";
-                const upMatch = colTitle.match(/\[([^\]]+?\s*Ch\.[^\]]+)\]/);
-                if (upMatch) upName = upMatch[1];
-                else { const upEle = document.querySelector('.up-name'); if (upEle) upName = upEle.textContent.trim(); }
-
-                let partNodes = qSAF(container, [PTS[0]]);
-                let parts = Array.from(partNodes).map(node => node.textContent.trim());
-                if (parts.length === 0) {
-                    const sTN = qSF(container, [PTS[1]]);
-                    if (sTN) parts.push(sTN.textContent.trim());
-                    else if (colTitleNode) parts.push(colTitle);
-                }
-
-                let collectionBv = inputBvid;
-                const dataKey = container.dataset.key;
-                if (dataKey) {
-                    const matchResult = dataKey.match(BV_REGEX);
-                    if (matchResult && matchResult[0]) collectionBv = matchResult[0];
-                }
-                return { collectionBv, collectionTitle: colTitle, up: upName, parts };
-            });
-        }, PLAYLIST_SELECTORS, PART_TITLE_SELECTORS, COLLECTION_TITLE_SELECTORS, bvid);
-
-        await browser.close();
-        return rawData;
-    } catch (err) {
-        if (browser) await browser.close();
-        throw new Error(`浏览器加载失败: ${err.message}`);
+        const parsed = JSON.parse(fs.readFileSync(METADATA_CACHE_PATH, 'utf8'));
+        return parsed && typeof parsed === 'object' ? parsed : {};
+    } catch {
+        return {};
     }
 }
 
-// ==========================================
-// 🔧 核心逻辑：移除去重，保留后缀清洗
-// ==========================================
-async function processSinger(config) {
-    const { bvids, alias, resolvedFile } = config;
-    console.log(`\n[开始处理] ${alias} (共 ${bvids.length} 个BV号)...`);
+function saveMetadataCache(cache) {
+    fs.writeFileSync(METADATA_CACHE_PATH, JSON.stringify(cache, null, 2), 'utf8');
+}
 
-    let allSongs = [];
-
-    for (const bvid of bvids) {
-        console.log(`  🔍 正在解析 BV: ${bvid}...`);
-        
-        let rawData = null;
-        try {
-            // 🔧 修复点：将重试逻辑应用在单个BV号上
-            rawData = await withRetry(async () => {
-                const data = await loadVideoPageWithBrowser(bvid);
-                // 如果返回为空，手动抛出错误以触发重试
-                if (!data || data.length === 0) {
-                    throw new Error(`未解析到有效列表数据`);
-                }
-                return data;
-            }, 3, 5000); // 这里的 3 和 5000 可以根据需要调整
-
-        } catch (err) {
-            // 如果单个BV重试多次后依然失败，记录日志并跳过该BV，继续下一个
-            console.warn(`  ⚠️  BV:${bvid} 经过多次重试后依然失败，跳过。错误：${err.message}`);
-            continue;
+async function fetchJson(url) {
+    const response = await fetch(url, {
+        headers: {
+            'User-Agent': 'Mozilla/5.0',
+            'Referer': 'https://www.bilibili.com/'
         }
+    });
+    if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`);
+    }
+    return response.json();
+}
 
-        // 只有成功获取到 rawData 才会执行到这里
-        rawData.forEach(col => {
-            col.parts.forEach((p, i) => {
-                let cleanTitle = p;
+async function fetchBvMetadata(bvid, cache, forceRefresh = false) {
+    if (!BV_REGEX.test(bvid)) return null;
+    if (!forceRefresh && cache[bvid]) return cache[bvid];
 
-                // 1. 基础标签清除
-                cleanTitle = cleanTitle.replace(/\[\d{4}[-]?\d{2}[-]?\d{2}\]/g, '');
-                let prevLen;
-                do {
-                    prevLen = cleanTitle.length;
-                    cleanTitle = cleanTitle.replace(/\[[^\[\]]*\]\s*$/, '');
-                } while (cleanTitle.length !== prevLen);
+    const payload = await withRetry(async () => {
+        const json = await fetchJson(`${BILI_VIEW_API}${bvid}`);
+        if (!json || json.code !== 0 || !json.data) {
+            throw new Error(`B站接口返回异常：code=${json?.code}`);
+        }
+        return json.data;
+    });
 
-                // 2. 清除开头编号
-                cleanTitle = cleanTitle.trim()
-                    .replace(/^\d+\.\s*/, '')
-                    .replace(/^P\d+[：:]\s*/, '')
-                    .trim();
+    const metadata = {
+        bvid: payload.bvid,
+        aid: payload.aid,
+        title: payload.title || '',
+        ownerName: payload.owner?.name || '',
+        ownerMid: payload.owner?.mid || null,
+        pubdate: payload.pubdate || null,
+        ctime: payload.ctime || null,
+        duration: payload.duration || null,
+        videos: payload.videos || 0,
+        seasonId: payload.ugc_season?.id || null,
+        seasonTitle: payload.ugc_season?.title || '',
+        pages: Array.isArray(payload.pages) ? payload.pages.map(page => ({
+            cid: page.cid || null,
+            page: page.page || null,
+            part: page.part || '',
+            duration: page.duration || null,
+            ctime: page.ctime || null
+        })) : [],
+        sections: Array.isArray(payload.ugc_season?.sections) ? payload.ugc_season.sections.map(section => ({
+            title: section.title || '',
+            episodes: Array.isArray(section.episodes) ? section.episodes.map(episode => ({
+                bvid: episode.bvid,
+                aid: episode.aid,
+                cid: episode.cid || episode.page?.cid || null,
+                title: episode.title || '',
+                arcTitle: episode.arc?.title || '',
+                pagePart: episode.page?.part || '',
+                pageDuration: episode.page?.duration || null
+            })) : []
+        })) : [],
+        fetchedAt: Date.now()
+    };
 
-                // 3. ✨ 关键逻辑：清除 (2), _sub 等后缀，但不去重 ✨
-                const artifactRegex = /(\s*\(\d+\)|_(sub|copy|backup|1080p|720p|\d+))$/i;
-                cleanTitle = cleanTitle.replace(artifactRegex, '').trim();
+    cache[bvid] = metadata;
+    return metadata;
+}
 
-                let artist = DEFAULT_ARTIST_TEXT;
-                let songTitle = cleanTitle;
+function cleanTitle(rawTitle) {
+    let title = String(rawTitle || '');
+    title = title.replace(/\[\d{4}[-]?\d{2}[-]?\d{2}\]/g, '');
+    let previousLength;
+    do {
+        previousLength = title.length;
+        title = title.replace(/\[[^\[\]]*\]\s*$/, '');
+    } while (title.length !== previousLength);
+    title = title.trim()
+        .replace(/^\d+\.\s*/, '')
+        .replace(/^P\d+[：:]\s*/, '')
+        .trim();
+    return title.replace(CLEAN_SUFFIX_REGEX, '').trim();
+}
 
-                if (cleanTitle.includes(' - ')) {
-                    const titleParts = cleanTitle.split(' - ');
-                    // 对切割后的部分再次洗涤后缀
-                    songTitle = titleParts[0].replace(artifactRegex, '').trim();
-                    artist = titleParts[titleParts.length - 1].replace(artifactRegex, '').trim();
+function splitSongTitleAndArtist(partTitle) {
+    const cleaned = cleanTitle(partTitle);
+    let title = cleaned;
+    let artist = DEFAULT_ARTIST_TEXT;
+
+    if (cleaned.includes(' - ')) {
+        const parts = cleaned.split(' - ');
+        title = cleanTitle(parts[0]);
+        artist = cleanTitle(parts[parts.length - 1]) || DEFAULT_ARTIST_TEXT;
+    }
+
+    return { title, artist };
+}
+
+function collectEpisodeBvids(anchorMetadata) {
+    const episodeMap = new Map();
+
+    if (Array.isArray(anchorMetadata.sections) && anchorMetadata.sections.length > 0) {
+        anchorMetadata.sections.forEach(section => {
+            (section.episodes || []).forEach(episode => {
+                if (BV_REGEX.test(episode.bvid) && !episodeMap.has(episode.bvid)) {
+                    episodeMap.set(episode.bvid, episode);
                 }
-
-                let link = null;
-                if (BV_REGEX.test(col.collectionBv)) {
-                    link = `${BILI_VIDEO_PREFIX}${col.collectionBv}?p=${i + 1}`;
-                }
-
-                // 直接推送，不再检查重复
-                allSongs.push({
-                    title: songTitle,
-                    artist: artist,
-                    collection: col.collectionTitle,
-                    up: col.up,
-                    link: link,
-                    source: `${resolvedFile}.js`
-                });
             });
         });
+    }
 
-        if (bvids.indexOf(bvid) < bvids.length - 1) {
-            await new Promise(resolve => setTimeout(resolve, 2000));
+    if (episodeMap.size === 0 && BV_REGEX.test(anchorMetadata.bvid)) {
+        episodeMap.set(anchorMetadata.bvid, {
+            bvid: anchorMetadata.bvid,
+            title: anchorMetadata.title,
+            arcTitle: anchorMetadata.title,
+            pagePart: anchorMetadata.pages?.[0]?.part || '',
+            pageDuration: anchorMetadata.pages?.[0]?.duration || null
+        });
+    }
+
+    return Array.from(episodeMap.values());
+}
+
+function buildSongItem(config, episodeMetadata, pageMeta) {
+    const parsed = splitSongTitleAndArtist(pageMeta.part || '');
+    return {
+        title: parsed.title,
+        artist: parsed.artist,
+        collection: episodeMetadata.title,
+        up: episodeMetadata.ownerName || '未知UP主',
+        link: `${BILI_VIDEO_PREFIX}${episodeMetadata.bvid}?p=${pageMeta.page}`,
+        source: `${config.resolvedFile}.js`,
+        bvid: episodeMetadata.bvid,
+        aid: episodeMetadata.aid,
+        cid: pageMeta.cid || null,
+        page: pageMeta.page || null,
+        pubdate: episodeMetadata.pubdate,
+        ctime: episodeMetadata.ctime,
+        videoDuration: episodeMetadata.duration,
+        partDuration: pageMeta.duration || null,
+        videos: episodeMetadata.videos,
+        videoTitle: episodeMetadata.title,
+        uploader: episodeMetadata.ownerName || '',
+        uploaderMid: episodeMetadata.ownerMid || null
+    };
+}
+
+async function processSinger(config, cache) {
+    const { alias, resolvedFile, bvids } = config;
+    console.log(`\n[开始处理] ${alias} (共 ${bvids.length} 个入口BV号)...`);
+
+    const episodeBvids = new Map();
+    for (const anchorBvid of bvids) {
+        console.log(`  🔍 正在解析入口 BV: ${anchorBvid}`);
+        try {
+            const anchorMetadata = await fetchBvMetadata(anchorBvid, cache, true);
+            collectEpisodeBvids(anchorMetadata).forEach(episode => {
+                if (!episodeBvids.has(episode.bvid)) {
+                    episodeBvids.set(episode.bvid, episode);
+                }
+            });
+            await sleep(300);
+        } catch (error) {
+            console.warn(`  ⚠️  入口 BV 解析失败 ${anchorBvid}: ${error.message}`);
         }
     }
 
-    // 🔧 修复点：只有当所有BV都处理完且一首歌都没抓到时，才认为整个任务失败
-    if (allSongs.length === 0) throw new Error(`未解析到任何有效歌曲数据（所有BV均失败或无数据）`);
+    const allSongs = [];
+    const allEpisodeBvids = Array.from(episodeBvids.keys());
+    console.log(`  📚 共发现 ${allEpisodeBvids.length} 个合集 BV`);
+
+    for (const [index, episodeBvid] of allEpisodeBvids.entries()) {
+        try {
+            const metadata = await fetchBvMetadata(episodeBvid, cache, false);
+            const pages = Array.isArray(metadata.pages) ? metadata.pages : [];
+            pages.forEach(pageMeta => {
+                allSongs.push(buildSongItem(config, metadata, pageMeta));
+            });
+            if ((index + 1) % 25 === 0) {
+                console.log(`    · 已处理 ${index + 1}/${allEpisodeBvids.length} 个合集 BV`);
+            }
+            await sleep(120);
+        } catch (error) {
+            console.warn(`  ⚠️  合集 BV 元数据失败 ${episodeBvid}: ${error.message}`);
+        }
+    }
+
+    if (allSongs.length === 0) {
+        throw new Error('未解析到任何有效歌曲数据');
+    }
 
     const outputPath = path.join(DATA_DIR, `${resolvedFile}.js`);
     let outputContent = `// ${alias} - 歌单数据 (多合集汇总)\n`;
     outputContent += `// 来源: ${bvids.join(', ')}\n`;
     outputContent += `// 生成时间: ${new Date().toLocaleString()}\n\n`;
     outputContent += `window.SONG_DATA = window.SONG_DATA || [];\n\nwindow.SONG_DATA.push(\n`;
-
-    allSongs.forEach((song, idx) => {
-        outputContent += `    ${JSON.stringify(song, null, 2)}${idx < allSongs.length - 1 ? "," : ""}\n`;
+    allSongs.forEach((song, index) => {
+        outputContent += `    ${JSON.stringify(song, null, 2)}${index < allSongs.length - 1 ? ',' : ''}\n`;
     });
-
     outputContent += `);\n`;
     fs.writeFileSync(outputPath, outputContent, { encoding: 'utf8', mode: 0o644 });
     console.log(`  ✅ 成功: 汇总 ${allSongs.length} 首歌曲 -> ${resolvedFile}.js`);
-    return true;
 }
 
 function generateIndexJson() {
-    const indexPath = path.join(DATA_DIR, 'index.json');
     const indexData = {
         files: RESOLVED_SINGER_CONFIGS.map(config => `${config.resolvedFile}.js`),
         fileToAlias: RESOLVED_SINGER_CONFIGS.reduce((map, config) => {
@@ -299,29 +310,40 @@ function generateIndexJson() {
             return map;
         }, {})
     };
-    fs.writeFileSync(indexPath, JSON.stringify(indexData, null, 2), 'utf8');
+    fs.writeFileSync(INDEX_PATH, JSON.stringify(indexData, null, 2), 'utf8');
 }
 
 async function main() {
-    console.log("========================================");
-    console.log("   🚀 B站直播源解析工具 (不去重模式)");
-    console.log("========================================");
-    if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
+    console.log('========================================');
+    console.log('   🚀 B站直播源解析工具 (合集 API + BV 元数据缓存)');
+    console.log('========================================');
+
+    ensureDir(DATA_DIR);
+    ensureDir(REPORT_DIR);
+
+    const metadataCache = loadMetadataCache();
     let successCount = 0;
+
     for (const config of RESOLVED_SINGER_CONFIGS) {
         try {
-            // 外层依然保留整体重试（作为兜底，防止例如文件写入失败等非BV解析错误）
-            // 但主要的BV级重试已经在 processSinger 内部完成
-            await withRetry(() => processSinger(config), 1, 5000); 
-            successCount++;
-        } catch (err) { console.error(`  ❌ 最终失败: ${config.alias}`, err.message); }
-        await new Promise(resolve => setTimeout(resolve, 2000));
+            await processSinger(config, metadataCache);
+            successCount += 1;
+        } catch (error) {
+            console.error(`  ❌ 最终失败: ${config.alias} ${error.message}`);
+        }
+        await sleep(800);
     }
+
     generateIndexJson();
-    console.log("\n========================================");
+    saveMetadataCache(metadataCache);
+
+    console.log('\n========================================');
     console.log(`   🏁 任务结束: 更新 ${successCount}/${RESOLVED_SINGER_CONFIGS.length} 位歌手`);
-    console.log("========================================");
-    process.exit(0);
+    console.log(`   🧱 BV 元数据缓存: ${METADATA_CACHE_PATH}`);
+    console.log('========================================');
 }
 
-main().catch(err => { console.error("❌ 全局错误:", err.message); process.exit(1); });
+main().catch(error => {
+    console.error('❌ 全局错误:', error.message);
+    process.exit(1);
+});
