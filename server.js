@@ -253,6 +253,34 @@ function buildDailyGrowthRows(history) {
   return rows;
 }
 
+function buildPublishGrowthRows(songs) {
+  const byDate = new Map();
+  songs.forEach(song => {
+    const pubdate = Number(song.pubdate || 0);
+    if (!pubdate) return;
+    const date = formatShanghaiDate(pubdate * 1000);
+    if (!byDate.has(date)) {
+      byDate.set(date, { date, delta: 0, ts: pubdate * 1000 });
+    }
+    const row = byDate.get(date);
+    row.delta += 1;
+    if (pubdate * 1000 > row.ts) row.ts = pubdate * 1000;
+  });
+
+  let total = 0;
+  return Array.from(byDate.values())
+    .sort((a, b) => a.date.localeCompare(b.date))
+    .map(row => {
+      total += row.delta;
+      return {
+        date: row.date,
+        total,
+        ts: row.ts,
+        delta: row.delta
+      };
+    });
+}
+
 function loadSongStore() {
   const indexData = readJson(INDEX_PATH);
   const songs = [];
@@ -645,16 +673,24 @@ function handleSearch(reqUrl, res) {
 }
 
 function handleSongGrowth(res) {
-  let rows = [];
+  let collectionRows = [];
   if (fs.existsSync(GROWTH_HISTORY_PATH)) {
     try {
-      rows = buildDailyGrowthRows(readJson(GROWTH_HISTORY_PATH));
+      collectionRows = buildDailyGrowthRows(readJson(GROWTH_HISTORY_PATH));
     } catch (error) {
       sendJson(res, 500, { error: `Failed to read growth history: ${error.message}` });
       return;
     }
   }
-  sendJson(res, 200, { rows });
+  const publishRows = buildPublishGrowthRows(store.songs);
+  sendJson(res, 200, {
+    collectionRows,
+    publishRows,
+    latest: {
+      collection: collectionRows[collectionRows.length - 1] || null,
+      publish: publishRows[publishRows.length - 1] || null
+    }
+  });
 }
 
 function handleTitleSuggest(reqUrl, res) {

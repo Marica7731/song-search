@@ -6,7 +6,6 @@ const DATA_DIR = path.join(ROOT, 'data');
 const INDEX_PATH = path.join(DATA_DIR, 'index.json');
 const REPORT_DIR = path.join(ROOT, 'reports');
 const HISTORY_PATH = path.join(REPORT_DIR, 'song-growth-history.json');
-const PAGE_PATH = path.join(ROOT, 'song-growth.html');
 const README_PATH = path.join(ROOT, 'README.md');
 
 const SH_TZ = 'Asia/Shanghai';
@@ -40,9 +39,13 @@ function formatShanghaiDateTime(ts) {
 }
 
 function loadSongCount() {
+  return loadAllSongs().length;
+}
+
+function loadAllSongs() {
   const indexData = JSON.parse(fs.readFileSync(INDEX_PATH, 'utf8'));
   const files = indexData.files || [];
-  let total = 0;
+  const songs = [];
 
   files.forEach(fileName => {
     const p = path.join(DATA_DIR, fileName);
@@ -52,13 +55,15 @@ function loadSongCount() {
     try {
       const executeCode = new Function('window', jsContent);
       executeCode(fakeWindow);
-      total += Array.isArray(fakeWindow.SONG_DATA) ? fakeWindow.SONG_DATA.length : 0;
+      if (Array.isArray(fakeWindow.SONG_DATA)) {
+        songs.push(...fakeWindow.SONG_DATA);
+      }
     } catch (e) {
       console.warn(`skip invalid data file: ${fileName}, err=${e.message}`);
     }
   });
 
-  return total;
+  return songs;
 }
 
 function loadHistory() {
@@ -94,299 +99,44 @@ function buildDailyRows(history) {
   });
 }
 
+function buildPublishDailyRows(songs) {
+  const byDate = new Map();
+  songs.forEach(song => {
+    const pubdate = Number(song.pubdate || 0);
+    if (!pubdate) return;
+    const date = formatShanghaiDate(pubdate * 1000);
+    const current = byDate.get(date) || { date, ts: pubdate * 1000, delta: 0 };
+    current.delta += 1;
+    if (pubdate * 1000 > current.ts) current.ts = pubdate * 1000;
+    byDate.set(date, current);
+  });
+
+  let total = 0;
+  return Array.from(byDate.values())
+    .sort((a, b) => a.date.localeCompare(b.date))
+    .map(row => {
+      total += row.delta;
+      return {
+        date: row.date,
+        total,
+        ts: row.ts,
+        delta: row.delta
+      };
+    });
+}
+
 function deltaHtml(delta) {
   if (delta > 0) return `<span style="color:#28a745;font-weight:600;">+${delta}</span>`;
   if (delta < 0) return `<span style="color:#dc3545;font-weight:600;">${delta}</span>`;
   return `<span style="color:#6c757d;">0</span>`;
 }
 
-function generatePage(dailyRows, latestTotal, latestTs) {
-  const latestDelta = dailyRows.length > 1 ? dailyRows[dailyRows.length - 1].delta : 0;
-
-  const html = `<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>歌曲总量日报</title>
-  <style>
-    *{box-sizing:border-box}
-    body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:linear-gradient(135deg,#f5f7fa 0%,#e4e8ec 100%);margin:0;padding:28px 16px;color:#24323f}
-    .main{max-width:1200px;margin:0 auto}
-    .panel{background:#fff;border-radius:14px;box-shadow:0 3px 14px rgba(0,0,0,.06);padding:18px}
-    h1{margin:0 0 8px;color:#2c3e50}
-    .sub{margin-bottom:14px;color:#6c757d;font-size:14px;line-height:1.5}
-    .nav{margin-bottom:16px;text-align:center;color:#6c757d;font-size:14px}
-    .nav a{color:#00a1d6;text-decoration:none;font-weight:600}
-    .nav a:hover{text-decoration:underline}
-    .kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:10px;margin:12px 0 16px}
-    .kpi{background:#f8fafc;border:1px solid #e7edf3;border-radius:10px;padding:10px 12px}
-    .kpi .label{font-size:12px;color:#7b8794;margin-bottom:4px}
-    .kpi .value{font-size:20px;color:#203040;font-weight:700}
-    .kpi .value.up{color:#1a8f4c}
-    .kpi .value.down{color:#cc2f3f}
-    .controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:10px}
-    .range-btn{border:1px solid #d6e3ef;background:#fff;color:#335;cursor:pointer;padding:6px 12px;border-radius:999px;font-size:13px}
-    .range-btn.active{background:#00a1d6;color:#fff;border-color:#00a1d6}
-    .metric-select{padding:6px 10px;border:1px solid #d6e3ef;border-radius:8px;background:#fff}
-    .chart-wrap{border:1px solid #e7edf3;border-radius:12px;background:#fff;padding:10px}
-    #growthChart{width:100%;height:360px;display:block}
-    .chart-foot{display:flex;justify-content:space-between;color:#6c757d;font-size:12px;margin-top:8px}
-    .table-wrap{margin-top:18px;overflow:auto;border:1px solid #e7edf3;border-radius:10px}
-    table{width:100%;border-collapse:collapse;min-width:560px}
-    th,td{border-bottom:1px solid #eef2f6;padding:10px 12px;text-align:left}
-    th{background:#f8fafc;color:#33475b}
-    tbody tr:hover{background:#f9fcff}
-    .delta-up{color:#1a8f4c;font-weight:700}
-    .delta-down{color:#cc2f3f;font-weight:700}
-    .delta-flat{color:#6c757d}
-    .pager{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap;margin-top:10px}
-    .pager-btn{padding:6px 10px;border:1px solid #d6e3ef;background:#fff;border-radius:8px;cursor:pointer}
-    .pager-btn:disabled{opacity:.45;cursor:not-allowed}
-    .pager .info{font-size:13px;color:#6c757d}
-    .back-top{position:fixed;right:24px;bottom:24px;width:42px;height:42px;border:0;border-radius:999px;background:#00a1d6;color:#fff;font-size:18px;cursor:pointer;box-shadow:0 6px 16px rgba(0,161,214,.35);opacity:0;pointer-events:none;transform:translateY(6px);transition:all .2s;z-index:3000}
-    .back-top.show{opacity:1;pointer-events:auto;transform:translateY(0)}
-  </style>
-</head>
-<body>
-  <div class="main panel">
-    <h1>歌曲总量日报</h1>
-    <div class="sub">更新时间：${formatShanghaiDateTime(latestTs)}（上海时间）</div>
-    <div class="nav">
-      <a href="index.html">首页</a> |
-      <a href="stats.html">查看演唱者统计与排行</a> |
-      <a href="bv-dup-check.html">BV号查重</a> |
-      <a href="title-artist-dup-check.html">歌名-歌手查重</a> |
-      <a href="title-artist-check.html">歌名-歌手查询/校验</a> |
-      歌曲增长日报
-    </div>
-
-    <div class="kpis">
-      <div class="kpi"><div class="label">当前总曲数</div><div class="value">${latestTotal}</div></div>
-      <div class="kpi"><div class="label">较前一日增量</div><div class="value ${latestDelta > 0 ? 'up' : latestDelta < 0 ? 'down' : ''}">${latestDelta > 0 ? `+${latestDelta}` : latestDelta}</div></div>
-      <div class="kpi"><div class="label">累计记录天数</div><div class="value">${dailyRows.length}</div></div>
-    </div>
-
-    <div class="controls">
-      <button class="range-btn active" data-range="30">近30天</button>
-      <button class="range-btn" data-range="90">近90天</button>
-      <button class="range-btn" data-range="180">近180天</button>
-      <button class="range-btn" data-range="all">全部</button>
-      <select class="metric-select" id="metricSelect">
-        <option value="total">总曲数</option>
-        <option value="delta">较前一日增量</option>
-      </select>
-    </div>
-
-    <div class="chart-wrap">
-      <canvas id="growthChart"></canvas>
-      <div class="chart-foot">
-        <span id="chartRangeText"></span>
-        <span id="chartHint">可切换范围与指标，支持长期数据增长</span>
-      </div>
-    </div>
-
-    <div class="table-wrap">
-      <table>
-        <thead><tr><th>日期</th><th>总曲数</th><th>较前一日增量</th></tr></thead>
-        <tbody id="growthTableBody"></tbody>
-      </table>
-    </div>
-    <div class="pager">
-      <div class="info" id="pagerInfo"></div>
-      <div>
-        <button class="pager-btn" id="prevPageBtn">上一页</button>
-        <button class="pager-btn" id="nextPageBtn">下一页</button>
-      </div>
-    </div>
-  </div>
-  <button class="back-top" id="backTopBtn" type="button" aria-label="回到顶部">↑</button>
-
-  <script>
-    const growthRows = ${JSON.stringify(dailyRows)};
-    const chartCanvas = document.getElementById('growthChart');
-    const rangeTextEl = document.getElementById('chartRangeText');
-    const metricSelect = document.getElementById('metricSelect');
-    const tableBody = document.getElementById('growthTableBody');
-    const pagerInfo = document.getElementById('pagerInfo');
-    const prevPageBtn = document.getElementById('prevPageBtn');
-    const nextPageBtn = document.getElementById('nextPageBtn');
-
-    let currentRange = '30';
-    let currentMetric = 'total';
-    let currentPage = 1;
-    const pageSize = 30;
-
-    function numberText(value) {
-      return Number(value || 0).toLocaleString('zh-CN');
-    }
-
-    function deltaText(value) {
-      if (value > 0) return '+' + value;
-      return String(value);
-    }
-
-    function deltaClass(value) {
-      if (value > 0) return 'delta-up';
-      if (value < 0) return 'delta-down';
-      return 'delta-flat';
-    }
-
-    function getRangeRows() {
-      if (currentRange === 'all') return growthRows.slice();
-      const days = Number(currentRange);
-      if (!days || days <= 0) return growthRows.slice();
-      return growthRows.slice(-days);
-    }
-
-    function drawChart() {
-      const rows = getRangeRows();
-      const rect = chartCanvas.getBoundingClientRect();
-      const dpr = window.devicePixelRatio || 1;
-      const width = Math.max(320, Math.floor(rect.width));
-      const height = 360;
-      chartCanvas.width = Math.floor(width * dpr);
-      chartCanvas.height = Math.floor(height * dpr);
-      const ctx = chartCanvas.getContext('2d');
-      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
-      ctx.clearRect(0, 0, width, height);
-
-      const pad = { left: 66, right: 22, top: 16, bottom: 42 };
-      const cw = width - pad.left - pad.right;
-      const ch = height - pad.top - pad.bottom;
-
-      if (!rows.length) {
-        ctx.fillStyle = '#6c757d';
-        ctx.font = '14px sans-serif';
-        ctx.fillText('暂无数据', 16, 30);
-        return;
-      }
-
-      const values = rows.map(r => currentMetric === 'total' ? Number(r.total || 0) : Number(r.delta || 0));
-      let min = Math.min(...values);
-      let max = Math.max(...values);
-      if (min === max) {
-        min -= 1;
-        max += 1;
-      }
-      const padY = (max - min) * 0.08;
-      min -= padY;
-      max += padY;
-
-      ctx.strokeStyle = '#edf2f7';
-      ctx.lineWidth = 1;
-      ctx.fillStyle = '#6c757d';
-      ctx.font = '12px sans-serif';
-      for (let i = 0; i <= 5; i++) {
-        const y = pad.top + (ch / 5) * i;
-        ctx.beginPath();
-        ctx.moveTo(pad.left, y);
-        ctx.lineTo(width - pad.right, y);
-        ctx.stroke();
-        const val = max - (max - min) * (i / 5);
-        ctx.fillText(numberText(Math.round(val)), 8, y + 4);
-      }
-
-      const xAt = idx => pad.left + (rows.length === 1 ? cw / 2 : (cw * idx) / (rows.length - 1));
-      const yAt = v => pad.top + ((max - v) / (max - min)) * ch;
-
-      ctx.strokeStyle = currentMetric === 'total' ? '#00a1d6' : '#1a8f4c';
-      ctx.lineWidth = 2;
-      ctx.beginPath();
-      values.forEach((v, i) => {
-        const x = xAt(i);
-        const y = yAt(v);
-        if (i === 0) ctx.moveTo(x, y); else ctx.lineTo(x, y);
-      });
-      ctx.stroke();
-
-      ctx.fillStyle = currentMetric === 'total' ? '#00a1d6' : '#1a8f4c';
-      values.forEach((v, i) => {
-        const x = xAt(i);
-        const y = yAt(v);
-        ctx.beginPath();
-        ctx.arc(x, y, 2.5, 0, Math.PI * 2);
-        ctx.fill();
-      });
-
-      ctx.fillStyle = '#6c757d';
-      ctx.font = '12px sans-serif';
-      ctx.textAlign = 'left';
-      ctx.fillText(rows[0].date, pad.left, height - 12);
-      ctx.textAlign = 'right';
-      ctx.fillText(rows[rows.length - 1].date, width - pad.right, height - 12);
-      ctx.textAlign = 'left';
-
-      rangeTextEl.textContent = rows[0].date + ' 至 ' + rows[rows.length - 1].date + '（' + rows.length + ' 天）';
-    }
-
-    function renderTable() {
-      const rows = growthRows.slice().reverse();
-      const totalPages = Math.max(1, Math.ceil(rows.length / pageSize));
-      if (currentPage > totalPages) currentPage = totalPages;
-      const start = (currentPage - 1) * pageSize;
-      const pageRows = rows.slice(start, start + pageSize);
-
-      tableBody.innerHTML = pageRows.map(row => {
-        return '<tr>' +
-          '<td>' + row.date + '</td>' +
-          '<td>' + numberText(row.total) + '</td>' +
-          '<td><span class="' + deltaClass(row.delta) + '">' + deltaText(row.delta) + '</span></td>' +
-          '</tr>';
-      }).join('');
-
-      pagerInfo.textContent = '第 ' + currentPage + ' / ' + totalPages + ' 页，共 ' + rows.length + ' 条';
-      prevPageBtn.disabled = currentPage <= 1;
-      nextPageBtn.disabled = currentPage >= totalPages;
-    }
-
-    function bindEvents() {
-      document.querySelectorAll('.range-btn').forEach(btn => {
-        btn.addEventListener('click', () => {
-          document.querySelectorAll('.range-btn').forEach(x => x.classList.remove('active'));
-          btn.classList.add('active');
-          currentRange = btn.dataset.range;
-          drawChart();
-        });
-      });
-
-      metricSelect.addEventListener('change', () => {
-        currentMetric = metricSelect.value;
-        drawChart();
-      });
-
-      prevPageBtn.addEventListener('click', () => {
-        currentPage -= 1;
-        renderTable();
-      });
-      nextPageBtn.addEventListener('click', () => {
-        currentPage += 1;
-        renderTable();
-      });
-
-      window.addEventListener('resize', drawChart);
-
-      const backTopBtn = document.getElementById('backTopBtn');
-      const updateBackTop = () => backTopBtn.classList.toggle('show', window.scrollY > 260);
-      window.addEventListener('scroll', updateBackTop, { passive: true });
-      backTopBtn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
-      updateBackTop();
-    }
-
-    bindEvents();
-    drawChart();
-    renderTable();
-  </script>
-</body>
-</html>`;
-
-  fs.writeFileSync(PAGE_PATH, html, 'utf8');
-}
-
-function updateReadmeSection(dailyRows, latestTotal, latestTs) {
+function updateReadmeSection(collectionRows, publishRows, latestTotal, latestTs) {
   const markerStart = '<!-- SONG_GROWTH_START -->';
   const markerEnd = '<!-- SONG_GROWTH_END -->';
-  const tableRows = dailyRows
+  const latestCollection = collectionRows[collectionRows.length - 1] || { delta: 0 };
+  const latestPublish = publishRows[publishRows.length - 1] || { delta: 0 };
+  const tableRows = collectionRows
     .slice(-14)
     .reverse()
     .map(row => `| ${row.date} | ${row.total} | ${row.delta > 0 ? `<span style="color:#28a745;">+${row.delta}</span>` : (row.delta < 0 ? `<span style="color:#dc3545;">${row.delta}</span>` : '0')} |`)
@@ -397,7 +147,15 @@ function updateReadmeSection(dailyRows, latestTotal, latestTs) {
 
 - 最新总曲数：**${latestTotal}**
 - 更新时间（上海时间）：${formatShanghaiDateTime(latestTs)}
+- 最新库收录日增：**${latestCollection.delta > 0 ? `+${latestCollection.delta}` : latestCollection.delta || 0}**
+- 最新按投稿时间日增：**${latestPublish.delta > 0 ? `+${latestPublish.delta}` : latestPublish.delta || 0}**
 - 完整页面：[\`song-growth.html\`](./song-growth.html)
+
+口径说明：
+- \`库收录增长\`：按你的站点实际抓取入库时间统计
+- \`按投稿时间增长\`：按歌曲 \`pubdate\` 统计真实投稿时间增长
+
+库收录增长近 14 天：
 
 | 日期 | 总曲数 | 较前一日增量 |
 |---|---:|---:|
@@ -416,16 +174,17 @@ ${markerEnd}`;
 
 function main() {
   ensureDir(REPORT_DIR);
-  const total = loadSongCount();
+  const songs = loadAllSongs();
+  const total = songs.length;
   const now = Date.now();
 
   const history = loadHistory();
   history.push({ ts: now, total });
   saveHistory(history);
 
-  const dailyRows = buildDailyRows(history);
-  generatePage(dailyRows, total, now);
-  updateReadmeSection(dailyRows, total, now);
+  const collectionRows = buildDailyRows(history);
+  const publishRows = buildPublishDailyRows(songs);
+  updateReadmeSection(collectionRows, publishRows, total, now);
 
   console.log(`song total=${total}, history=${history.length}`);
 }

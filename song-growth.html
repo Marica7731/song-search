@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>歌曲总量日报</title>
+  <title>歌曲增长日报</title>
   <style>
     *{box-sizing:border-box}
     body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:linear-gradient(135deg,#f5f7fa 0%,#e4e8ec 100%);margin:0;padding:28px 16px;color:#24323f}
@@ -14,6 +14,7 @@
     .nav{margin-bottom:16px;text-align:center;color:#6c757d;font-size:14px}
     .nav a{color:#00a1d6;text-decoration:none;font-weight:600}
     .nav a:hover{text-decoration:underline}
+    .hint-box{margin:0 0 14px;padding:12px 14px;border-radius:12px;background:#f8fbff;border:1px solid #ddeaf5;color:#52606d;font-size:13px;line-height:1.6}
     .kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:10px;margin:12px 0 16px}
     .kpi{background:#f8fafc;border:1px solid #e7edf3;border-radius:10px;padding:10px 12px}
     .kpi .label{font-size:12px;color:#7b8794;margin-bottom:4px}
@@ -21,12 +22,12 @@
     .kpi .value.up{color:#1a8f4c}
     .kpi .value.down{color:#cc2f3f}
     .controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:10px}
+    .mode-select,.metric-select{padding:6px 10px;border:1px solid #d6e3ef;border-radius:8px;background:#fff}
     .range-btn{border:1px solid #d6e3ef;background:#fff;color:#335;cursor:pointer;padding:6px 12px;border-radius:999px;font-size:13px}
     .range-btn.active{background:#00a1d6;color:#fff;border-color:#00a1d6}
-    .metric-select{padding:6px 10px;border:1px solid #d6e3ef;border-radius:8px;background:#fff}
     .chart-wrap{border:1px solid #e7edf3;border-radius:12px;background:#fff;padding:10px}
     #growthChart{width:100%;height:360px;display:block}
-    .chart-foot{display:flex;justify-content:space-between;color:#6c757d;font-size:12px;margin-top:8px}
+    .chart-foot{display:flex;justify-content:space-between;color:#6c757d;font-size:12px;margin-top:8px;gap:10px;flex-wrap:wrap}
     .table-wrap{margin-top:18px;overflow:auto;border:1px solid #e7edf3;border-radius:10px}
     table{width:100%;border-collapse:collapse;min-width:560px}
     th,td{border-bottom:1px solid #eef2f6;padding:10px 12px;text-align:left}
@@ -45,7 +46,7 @@
 </head>
 <body>
   <div class="main panel">
-    <h1>歌曲总量日报</h1>
+    <h1>歌曲增长日报</h1>
     <div class="sub" id="updatedAtText">更新时间：加载中…</div>
     <div class="nav">
       <a href="index.html">首页</a> |
@@ -55,21 +56,29 @@
       <a href="title-artist-check.html">歌名-歌手查询/校验</a> |
       歌曲增长日报
     </div>
+    <div class="hint-box" id="modeHint">
+      `库收录增长` 按你的站点实际抓取入库时间统计。`按投稿时间增长` 按歌曲 `pubdate` 统计真实投稿时间增长。
+    </div>
 
     <div class="kpis">
       <div class="kpi"><div class="label">当前总曲数</div><div class="value" id="kpiTotal">-</div></div>
-      <div class="kpi"><div class="label">较前一日增量</div><div class="value" id="kpiDelta">-</div></div>
+      <div class="kpi"><div class="label">当日增量</div><div class="value" id="kpiDelta">-</div></div>
       <div class="kpi"><div class="label">累计记录天数</div><div class="value" id="kpiDays">-</div></div>
+      <div class="kpi"><div class="label">当前口径</div><div class="value" id="kpiMode">-</div></div>
     </div>
 
     <div class="controls">
+      <select class="mode-select" id="modeSelect">
+        <option value="collection" selected>库收录增长</option>
+        <option value="publish">按投稿时间增长</option>
+      </select>
       <button class="range-btn active" data-range="30">近30天</button>
       <button class="range-btn" data-range="90">近90天</button>
       <button class="range-btn" data-range="180">近180天</button>
       <button class="range-btn" data-range="all">全部</button>
       <select class="metric-select" id="metricSelect">
-        <option value="total">总曲数</option>
-        <option value="delta">较前一日增量</option>
+        <option value="total">累计总量</option>
+        <option value="delta">当日增量</option>
       </select>
     </div>
 
@@ -77,13 +86,13 @@
       <canvas id="growthChart"></canvas>
       <div class="chart-foot">
         <span id="chartRangeText"></span>
-        <span id="chartHint">可切换范围与指标，支持长期数据增长</span>
+        <span id="chartHint">支持切换口径、范围和指标</span>
       </div>
     </div>
 
     <div class="table-wrap">
       <table>
-        <thead><tr><th>日期</th><th>总曲数</th><th>较前一日增量</th></tr></thead>
+        <thead><tr><th>日期</th><th>累计总量</th><th>当日增量</th></tr></thead>
         <tbody id="growthTableBody"></tbody>
       </table>
     </div>
@@ -98,16 +107,21 @@
   <button class="back-top" id="backTopBtn" type="button" aria-label="回到顶部">↑</button>
 
   <script>
-    const embeddedGrowthRows = [{"date":"2026-03-19","total":18819,"ts":1773935175308,"delta":0},{"date":"2026-03-20","total":19084,"ts":1773983769276,"delta":265},{"date":"2026-03-21","total":19297,"ts":1774069604615,"delta":213},{"date":"2026-03-22","total":19432,"ts":1774156747970,"delta":135},{"date":"2026-03-23","total":19619,"ts":1774244397705,"delta":187},{"date":"2026-03-24","total":19726,"ts":1774329804942,"delta":107},{"date":"2026-03-25","total":19936,"ts":1774416209462,"delta":210},{"date":"2026-03-26","total":20040,"ts":1774503689233,"delta":104},{"date":"2026-03-27","total":20186,"ts":1774590151291,"delta":146},{"date":"2026-03-28","total":20461,"ts":1774675296862,"delta":275},{"date":"2026-03-29","total":20600,"ts":1774763020301,"delta":139},{"date":"2026-03-30","total":20761,"ts":1774850318889,"delta":161},{"date":"2026-03-31","total":20863,"ts":1774935860144,"delta":102},{"date":"2026-04-01","total":20911,"ts":1775022931022,"delta":48},{"date":"2026-04-02","total":20911,"ts":1775062573003,"delta":0}];
-    let growthRows = embeddedGrowthRows.slice();
     const chartCanvas = document.getElementById('growthChart');
     const rangeTextEl = document.getElementById('chartRangeText');
     const metricSelect = document.getElementById('metricSelect');
+    const modeSelect = document.getElementById('modeSelect');
     const tableBody = document.getElementById('growthTableBody');
     const pagerInfo = document.getElementById('pagerInfo');
     const prevPageBtn = document.getElementById('prevPageBtn');
     const nextPageBtn = document.getElementById('nextPageBtn');
 
+    const growthData = {
+      collection: [],
+      publish: []
+    };
+
+    let currentMode = 'collection';
     let currentRange = '30';
     let currentMetric = 'total';
     let currentPage = 1;
@@ -119,7 +133,7 @@
 
     function deltaText(value) {
       if (value > 0) return '+' + value;
-      return String(value);
+      return String(value || 0);
     }
 
     function deltaClass(value) {
@@ -128,32 +142,44 @@
       return 'delta-flat';
     }
 
+    function getModeLabel() {
+      return currentMode === 'publish' ? '按投稿时间增长' : '库收录增长';
+    }
+
+    function getCurrentRows() {
+      return growthData[currentMode] || [];
+    }
+
+    function getRangeRows() {
+      const rows = getCurrentRows();
+      if (currentRange === 'all') return rows.slice();
+      const days = Number(currentRange);
+      if (!days || days <= 0) return rows.slice();
+      return rows.slice(-days);
+    }
+
     function updateHeaderSummary() {
-      const last = growthRows[growthRows.length - 1];
+      const rows = getCurrentRows();
+      const last = rows[rows.length - 1];
       const updatedAtText = document.getElementById('updatedAtText');
       const kpiTotal = document.getElementById('kpiTotal');
       const kpiDelta = document.getElementById('kpiDelta');
       const kpiDays = document.getElementById('kpiDays');
+      const kpiMode = document.getElementById('kpiMode');
       if (!last) {
         updatedAtText.textContent = '更新时间：暂无数据';
         kpiTotal.textContent = '-';
         kpiDelta.textContent = '-';
         kpiDays.textContent = '0';
-        kpiDelta.className = 'value';
+        kpiMode.textContent = getModeLabel();
         return;
       }
       updatedAtText.textContent = '更新时间：' + last.date + '（上海时间日统计）';
       kpiTotal.textContent = numberText(last.total);
       kpiDelta.textContent = deltaText(last.delta);
       kpiDelta.className = 'value ' + (last.delta > 0 ? 'up' : (last.delta < 0 ? 'down' : ''));
-      kpiDays.textContent = String(growthRows.length);
-    }
-
-    function getRangeRows() {
-      if (currentRange === 'all') return growthRows.slice();
-      const days = Number(currentRange);
-      if (!days || days <= 0) return growthRows.slice();
-      return growthRows.slice(-days);
+      kpiDays.textContent = String(rows.length);
+      kpiMode.textContent = getModeLabel();
     }
 
     function drawChart() {
@@ -207,7 +233,8 @@
       const xAt = idx => pad.left + (rows.length === 1 ? cw / 2 : (cw * idx) / (rows.length - 1));
       const yAt = v => pad.top + ((max - v) / (max - min)) * ch;
 
-      ctx.strokeStyle = currentMetric === 'total' ? '#00a1d6' : '#1a8f4c';
+      const lineColor = currentMode === 'publish' ? '#1a8f4c' : '#00a1d6';
+      ctx.strokeStyle = lineColor;
       ctx.lineWidth = 2;
       ctx.beginPath();
       values.forEach((v, i) => {
@@ -217,7 +244,7 @@
       });
       ctx.stroke();
 
-      ctx.fillStyle = currentMetric === 'total' ? '#00a1d6' : '#1a8f4c';
+      ctx.fillStyle = lineColor;
       values.forEach((v, i) => {
         const x = xAt(i);
         const y = yAt(v);
@@ -233,12 +260,11 @@
       ctx.textAlign = 'right';
       ctx.fillText(rows[rows.length - 1].date, width - pad.right, height - 12);
       ctx.textAlign = 'left';
-
-      rangeTextEl.textContent = rows[0].date + ' 至 ' + rows[rows.length - 1].date + '（' + rows.length + ' 天）';
+      rangeTextEl.textContent = getModeLabel() + '：' + rows[0].date + ' 至 ' + rows[rows.length - 1].date + '（' + rows.length + ' 天）';
     }
 
     function renderTable() {
-      const rows = growthRows.slice().reverse();
+      const rows = getCurrentRows().slice().reverse();
       const totalPages = Math.max(1, Math.ceil(rows.length / pageSize));
       if (currentPage > totalPages) currentPage = totalPages;
       const start = (currentPage - 1) * pageSize;
@@ -252,9 +278,16 @@
           '</tr>';
       }).join('');
 
-      pagerInfo.textContent = '第 ' + currentPage + ' / ' + totalPages + ' 页，共 ' + rows.length + ' 条';
+      pagerInfo.textContent = getModeLabel() + '：第 ' + currentPage + ' / ' + totalPages + ' 页，共 ' + rows.length + ' 条';
       prevPageBtn.disabled = currentPage <= 1;
       nextPageBtn.disabled = currentPage >= totalPages;
+    }
+
+    function refreshView() {
+      currentPage = 1;
+      updateHeaderSummary();
+      drawChart();
+      renderTable();
     }
 
     function bindEvents() {
@@ -270,6 +303,11 @@
       metricSelect.addEventListener('change', () => {
         currentMetric = metricSelect.value;
         drawChart();
+      });
+
+      modeSelect.addEventListener('change', () => {
+        currentMode = modeSelect.value;
+        refreshView();
       });
 
       prevPageBtn.addEventListener('click', () => {
@@ -291,24 +329,22 @@
     }
 
     async function loadGrowthRows() {
-      try {
-        const res = await fetch('/api/song-growth');
-        if (!res.ok) throw new Error(`API 状态码 ${res.status}`);
-        const payload = await res.json();
-        if (Array.isArray(payload.rows) && payload.rows.length > 0) {
-          growthRows = payload.rows.slice();
-        }
-      } catch (error) {
-        console.warn('增长数据 API 加载失败，回退到内嵌数据：', error);
-      }
+      const res = await fetch('/api/song-growth');
+      if (!res.ok) throw new Error(`API 状态码 ${res.status}`);
+      const payload = await res.json();
+      growthData.collection = Array.isArray(payload.collectionRows) ? payload.collectionRows : [];
+      growthData.publish = Array.isArray(payload.publishRows) ? payload.publishRows : [];
     }
 
     async function initPage() {
       bindEvents();
-      await loadGrowthRows();
-      updateHeaderSummary();
-      drawChart();
-      renderTable();
+      try {
+        await loadGrowthRows();
+      } catch (error) {
+        document.getElementById('updatedAtText').textContent = '更新时间：加载失败';
+        console.error(error);
+      }
+      refreshView();
     }
 
     initPage();
