@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq
-// 生成时间: 4/3/2026, 1:35:54 AM
+// 生成时间: 4/3/2026, 4:34:57 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7910,6 +7910,846 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "KICK BACK",
+  "artist": "米津玄師",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "ピースサイン",
+  "artist": "米津玄師",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "恋愛裁判",
+  "artist": "40mP",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40mP",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "テトリス",
+  "artist": "柊マグネタイト",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "マトリョシカ",
+  "artist": "ハチ",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "マリーゴールド",
+  "artist": "あいみょん",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "愛を伝えたいだとか",
+  "artist": "あいみょん",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "猫",
+  "artist": "DISH／／",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "魔法の絨毯",
+  "artist": "川崎鷹也",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "高嶺の花子さん",
+  "artist": "back number",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "さよならエレジー",
+  "artist": "菅田将暉",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "小さな恋のうた",
+  "artist": "MONGOL800",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "アボカド",
+  "artist": "yonige",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "キセキ",
+  "artist": "GReeeeN",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "ハルジオン",
+  "artist": "YOASOBI",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "群青",
+  "artist": "YOASOBI",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "シンデレラボーイ",
+  "artist": "Saucy Dog",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "ホワイトアウト",
+  "artist": "reGretGirl",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "恋人ができたんだ",
+  "artist": "My Hair is Bad",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=27",
+  "source": "others.js"
+},
+    {
+  "title": "ブルーベリー・ナイツ",
+  "artist": "マカロニえんぴつ",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=28",
+  "source": "others.js"
+},
+    {
+  "title": "恋人ごっこ",
+  "artist": "マカロニえんぴつ",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=29",
+  "source": "others.js"
+},
+    {
+  "title": "インフェルノ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=30",
+  "source": "others.js"
+},
+    {
+  "title": "夜咄ディセイブ",
+  "artist": "じん",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=31",
+  "source": "others.js"
+},
+    {
+  "title": "曇天",
+  "artist": "DOES",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=32",
+  "source": "others.js"
+},
+    {
+  "title": "サムライハート",
+  "artist": "SPYAIR",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=33",
+  "source": "others.js"
+},
+    {
+  "title": "プライド革命",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=34",
+  "source": "others.js"
+},
+    {
+  "title": "タッチ",
+  "artist": "岩崎良美",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=35",
+  "source": "others.js"
+},
+    {
+  "title": "はなまるぴっぴはよいこだけ",
+  "artist": "A応P",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=36",
+  "source": "others.js"
+},
+    {
+  "title": "Rolling star",
+  "artist": "YUI",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=37",
+  "source": "others.js"
+},
+    {
+  "title": "狂乱 Hey Kids!!",
+  "artist": "THE ORAL CIGARETTES",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=38",
+  "source": "others.js"
+},
+    {
+  "title": "SPECIALZ",
+  "artist": "King Gnu",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=39",
+  "source": "others.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=40",
+  "source": "others.js"
+},
+    {
+  "title": "第ゼロ感",
+  "artist": "10-FEET",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=41",
+  "source": "others.js"
+},
+    {
+  "title": "そばかす",
+  "artist": "JUDY AND MARY",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=42",
+  "source": "others.js"
+},
+    {
+  "title": "太陽",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=43",
+  "source": "others.js"
+},
+    {
+  "title": "ブレーメン",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=44",
+  "source": "others.js"
+},
+    {
+  "title": "火星人",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=45",
+  "source": "others.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=46",
+  "source": "others.js"
+},
+    {
+  "title": "チノカテ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=47",
+  "source": "others.js"
+},
+    {
+  "title": "あの夏に咲け",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=48",
+  "source": "others.js"
+},
+    {
+  "title": "都落ち",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=49",
+  "source": "others.js"
+},
+    {
+  "title": "五月は花緑青の窓辺から",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=50",
+  "source": "others.js"
+},
+    {
+  "title": "水平線",
+  "artist": "back number",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=51",
+  "source": "others.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=52",
+  "source": "others.js"
+},
+    {
+  "title": "スパークル",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=53",
+  "source": "others.js"
+},
+    {
+  "title": "君に届け",
+  "artist": "flumpool",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=54",
+  "source": "others.js"
+},
+    {
+  "title": "ギミチョコ！！",
+  "artist": "BABYMETAL",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=55",
+  "source": "others.js"
+},
+    {
+  "title": "1／3の純情な感情",
+  "artist": "SIAM SHADE",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=56",
+  "source": "others.js"
+},
+    {
+  "title": "うっせぇわ",
+  "artist": "Ado",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=57",
+  "source": "others.js"
+},
+    {
+  "title": "KING",
+  "artist": "Kanaria",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=58",
+  "source": "others.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=59",
+  "source": "others.js"
+},
+    {
+  "title": "もうどうなってもいいや",
+  "artist": "星街すいせい",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=60",
+  "source": "others.js"
+},
+    {
+  "title": "魔法少女とチョコレゐト",
+  "artist": "ピノキオピー",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=61",
+  "source": "others.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=62",
+  "source": "others.js"
+},
+    {
+  "title": "ド屑",
+  "artist": "なきそ",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=63",
+  "source": "others.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "内緒のピアス",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=64",
+  "source": "others.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=65",
+  "source": "others.js"
+},
+    {
+  "title": "快晴",
+  "artist": "Orangestar",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=66",
+  "source": "others.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=67",
+  "source": "others.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=68",
+  "source": "others.js"
+},
+    {
+  "title": "UNDEAD",
+  "artist": "YOASOBI",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=69",
+  "source": "others.js"
+},
+    {
+  "title": "勇者",
+  "artist": "YOASOBI",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=70",
+  "source": "others.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=71",
+  "source": "others.js"
+},
+    {
+  "title": "たぶん",
+  "artist": "YOASOBI",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=72",
+  "source": "others.js"
+},
+    {
+  "title": "優しい彗星",
+  "artist": "YOASOBI",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=73",
+  "source": "others.js"
+},
+    {
+  "title": "あの夢をなぞって",
+  "artist": "YOASOBI",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=74",
+  "source": "others.js"
+},
+    {
+  "title": "ハルカ",
+  "artist": "YOASOBI",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=75",
+  "source": "others.js"
+},
+    {
+  "title": "阿修羅ちゃん",
+  "artist": "Ado",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=76",
+  "source": "others.js"
+},
+    {
+  "title": "踊",
+  "artist": "Ado",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=77",
+  "source": "others.js"
+},
+    {
+  "title": "レディメイド",
+  "artist": "Ado",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=78",
+  "source": "others.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=79",
+  "source": "others.js"
+},
+    {
+  "title": "新時代",
+  "artist": "Ado",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=80",
+  "source": "others.js"
+},
+    {
+  "title": "逆光",
+  "artist": "Ado",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=81",
+  "source": "others.js"
+},
+    {
+  "title": "Tot Musica",
+  "artist": "Ado",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=82",
+  "source": "others.js"
+},
+    {
+  "title": "ウタカタララバイ",
+  "artist": "Ado",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=83",
+  "source": "others.js"
+},
+    {
+  "title": "ギラギラ",
+  "artist": "Ado",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=84",
+  "source": "others.js"
+},
+    {
+  "title": "唱",
+  "artist": "Ado",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=85",
+  "source": "others.js"
+},
+    {
+  "title": "月に向かって撃て",
+  "artist": "星街すいせい",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=86",
+  "source": "others.js"
+},
+    {
+  "title": "天球、彗星は夜を跨いで",
+  "artist": "星街すいせい",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=87",
+  "source": "others.js"
+},
+    {
+  "title": "灼熱にて純情 (wii-wii-woo)",
+  "artist": "星街すいせい",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=88",
+  "source": "others.js"
+},
+    {
+  "title": "みちづれ",
+  "artist": "星街すいせい",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=89",
+  "source": "others.js"
+},
+    {
+  "title": "TEMPLATE",
+  "artist": "星街すいせい",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=90",
+  "source": "others.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=91",
+  "source": "others.js"
+},
+    {
+  "title": "Caramel Pain",
+  "artist": "星街すいせい",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=92",
+  "source": "others.js"
+},
+    {
+  "title": "駆けろ",
+  "artist": "星街すいせい",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=93",
+  "source": "others.js"
+},
+    {
+  "title": "Orbital Period",
+  "artist": "星街すいせい",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=94",
+  "source": "others.js"
+},
+    {
+  "title": "ムーンライト",
+  "artist": "星街すいせい",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=95",
+  "source": "others.js"
+},
+    {
+  "title": "ザイオン",
+  "artist": "星街すいせい",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=96",
+  "source": "others.js"
+},
+    {
+  "title": "GHOST",
+  "artist": "星街すいせい",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=97",
+  "source": "others.js"
+},
+    {
+  "title": "ソワレ",
+  "artist": "星街すいせい",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=98",
+  "source": "others.js"
+},
+    {
+  "title": "Stellar Stellar",
+  "artist": "星街すいせい",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=99",
+  "source": "others.js"
+},
+    {
+  "title": "Shooting Star",
+  "artist": "Mixstgirls",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=100",
+  "source": "others.js"
+},
+    {
+  "title": "光るなら",
+  "artist": "Goose house",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=101",
+  "source": "others.js"
+},
+    {
+  "title": "Luna say maybe",
+  "artist": "初星学園",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=102",
+  "source": "others.js"
+},
+    {
+  "title": "空色デイズ",
+  "artist": "中川翔子",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=103",
+  "source": "others.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=104",
+  "source": "others.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【歌切】105首耐久、10小时、高评价1777耐久歌回，向更高目标迈进。🎤渚沢シチ / Shichi Channel【ミクスト】[2026-04-02]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SD9NBwEUv?p=105",
+  "source": "others.js"
+},
+    {
   "title": "星丘公園",
   "artist": "Hump Back",
   "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
@@ -11747,6 +12587,150 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-04-01 somunia LM7JCWKNvj8",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Nb9wBSE2n?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "ジェラシー ジェラシー",
+  "artist": "モーニング娘。'17",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "一難",
+  "artist": "Penthouse",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "思い出せなくなるその日まで",
+  "artist": "back number",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "パラボラ",
+  "artist": "Official髭男dism",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "犬かキャットかで死ぬまで喧嘩しよう！",
+  "artist": "Official髭男dism",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "テロメアの産声",
+  "artist": "Heavenz",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "欲望に満ちた青年団",
+  "artist": "ONE OK ROCK",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "サブリナ",
+  "artist": "家入レオ",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "Darling",
+  "artist": "西野カナ",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "異邦人",
+  "artist": "久保田早紀",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "大きな愛でもてなして",
+  "artist": "℃-ute",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "魔法って言っていいかな？",
+  "artist": "平井堅",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "おはよう。",
+  "artist": "Keno",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "じゃあ、何故",
+  "artist": "阿部真央",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "這い上がれ MY WAY",
+  "artist": "阿部真央",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "キレイな唄",
+  "artist": "阿部真央",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "boyfriend",
+  "artist": "阿部真央",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "私は貴方がいいのです",
+  "artist": "阿部真央",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=18",
   "source": "others.js"
 },
     {

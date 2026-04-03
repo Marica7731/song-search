@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 4/3/2026, 1:26:35 AM
+// 生成时间: 4/3/2026, 4:26:52 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -29043,6 +29043,206 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-04-01]欢迎初见！四月初歌回期待相遇！YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bJ9pBjEmA?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春",
+  "collection": "【🍠🦍歌切】[2026-04-02]欢迎新观众！目标16万粉丝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1439NBfEak?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "気分上々↑↑",
+  "artist": "mihimaru GT",
+  "collection": "【🍠🦍歌切】[2026-04-02]欢迎新观众！目标16万粉丝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1439NBfEak?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アローラ！！",
+  "artist": "松本梨香",
+  "collection": "【🍠🦍歌切】[2026-04-02]欢迎新观众！目标16万粉丝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1439NBfEak?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハレ晴レユカイ",
+  "artist": "平野綾・茅原実里・後藤邑子",
+  "collection": "【🍠🦍歌切】[2026-04-02]欢迎新观众！目标16万粉丝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1439NBfEak?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "TOMORROW",
+  "artist": "岡本真夜",
+  "collection": "【🍠🦍歌切】[2026-04-02]欢迎新观众！目标16万粉丝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1439NBfEak?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "【🍠🦍歌切】[2026-04-02]欢迎新观众！目标16万粉丝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1439NBfEak?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "さくらんぼ",
+  "artist": "大塚愛",
+  "collection": "【🍠🦍歌切】[2026-04-02]欢迎新观众！目标16万粉丝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1439NBfEak?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-04-02]欢迎新观众！目标16万粉丝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1439NBfEak?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Pray",
+  "artist": "Tommy heavenly6",
+  "collection": "【🍠🦍歌切】[2026-04-02]欢迎新观众！目标16万粉丝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1439NBfEak?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Music S.T.A.R.T！！",
+  "artist": "μ's",
+  "collection": "【🍠🦍歌切】[2026-04-02]欢迎新观众！目标16万粉丝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1439NBfEak?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "となりのトトロ",
+  "artist": "井上あずみ",
+  "collection": "【🍠🦍歌切】[2026-04-02]欢迎新观众！目标16万粉丝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1439NBfEak?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【🍠🦍歌切】[2026-04-02]欢迎新观众！目标16万粉丝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1439NBfEak?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ココロのちず",
+  "artist": "BOYSTYLE",
+  "collection": "【🍠🦍歌切】[2026-04-02]欢迎新观众！目标16万粉丝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1439NBfEak?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Diamonds",
+  "artist": "プリンセス プリンセス",
+  "collection": "【🍠🦍歌切】[2026-04-02]欢迎新观众！目标16万粉丝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1439NBfEak?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ロマンスの神様",
+  "artist": "広瀬香美",
+  "collection": "【🍠🦍歌切】[2026-04-02]欢迎新观众！目标16万粉丝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1439NBfEak?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "浪漫飛行",
+  "artist": "米米CLUB",
+  "collection": "【🍠🦍歌切】[2026-04-02]欢迎新观众！目标16万粉丝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1439NBfEak?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "I♥U",
+  "artist": "THE★SCANTY",
+  "collection": "【🍠🦍歌切】[2026-04-02]欢迎新观众！目标16万粉丝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1439NBfEak?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "雪、無音、窓辺にて。",
+  "artist": "茅原実里",
+  "collection": "【🍠🦍歌切】[2026-04-02]欢迎新观众！目标16万粉丝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1439NBfEak?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Northern Lights",
+  "artist": "林原めぐみ",
+  "collection": "【🍠🦍歌切】[2026-04-02]欢迎新观众！目标16万粉丝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1439NBfEak?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "GO MY WAY！！",
+  "artist": "M@STER",
+  "collection": "【🍠🦍歌切】[2026-04-02]欢迎新观众！目标16万粉丝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1439NBfEak?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Butterfly Kiss",
+  "artist": "米倉千尋",
+  "collection": "【🍠🦍歌切】[2026-04-02]欢迎新观众！目标16万粉丝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1439NBfEak?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ノーザンクロス",
+  "artist": "May'n",
+  "collection": "【🍠🦍歌切】[2026-04-02]欢迎新观众！目标16万粉丝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1439NBfEak?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "エガオノキミへ",
+  "artist": "三森鈴子",
+  "collection": "【🍠🦍歌切】[2026-04-02]欢迎新观众！目标16万粉丝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1439NBfEak?p=23",
+  "source": "yoshika.js"
+},
+    {
+  "title": "舞台少女心得",
+  "artist": "スタァライト九九組",
+  "collection": "【🍠🦍歌切】[2026-04-02]欢迎新观众！目标16万粉丝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1439NBfEak?p=24",
+  "source": "yoshika.js"
+},
+    {
+  "title": "負けないで",
+  "artist": "ZARD",
+  "collection": "【🍠🦍歌切】[2026-04-02]欢迎新观众！目标16万粉丝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1439NBfEak?p=25",
   "source": "yoshika.js"
 }
 );
