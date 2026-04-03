@@ -25,9 +25,13 @@
     .mode-select,.metric-select{padding:6px 10px;border:1px solid #d6e3ef;border-radius:8px;background:#fff}
     .range-btn{border:1px solid #d6e3ef;background:#fff;color:#335;cursor:pointer;padding:6px 12px;border-radius:999px;font-size:13px}
     .range-btn.active{background:#00a1d6;color:#fff;border-color:#00a1d6}
-    .chart-wrap{border:1px solid #e7edf3;border-radius:12px;background:#fff;padding:10px}
+    .chart-wrap{position:relative;border:1px solid #e7edf3;border-radius:12px;background:#fff;padding:10px}
     #growthChart{width:100%;height:360px;display:block}
     .chart-foot{display:flex;justify-content:space-between;color:#6c757d;font-size:12px;margin-top:8px;gap:10px;flex-wrap:wrap}
+    .chart-tooltip{position:absolute;display:none;min-width:220px;max-width:280px;padding:10px 12px;border-radius:10px;background:rgba(32,48,64,.95);color:#fff;font-size:12px;line-height:1.6;box-shadow:0 10px 24px rgba(0,0,0,.22);pointer-events:none;z-index:20}
+    .chart-tooltip.show{display:block}
+    .chart-tooltip strong{display:block;margin-bottom:4px;font-size:13px}
+    .chart-tooltip .muted{color:rgba(255,255,255,.72)}
     .table-wrap{margin-top:18px;overflow:auto;border:1px solid #e7edf3;border-radius:10px}
     table{width:100%;border-collapse:collapse;min-width:560px}
     th,td{border-bottom:1px solid #eef2f6;padding:10px 12px;text-align:left}
@@ -86,6 +90,7 @@
 
     <div class="chart-wrap">
       <canvas id="growthChart"></canvas>
+      <div class="chart-tooltip" id="chartTooltip"></div>
       <div class="chart-foot">
         <span id="chartRangeText"></span>
         <span id="chartHint">支持切换口径、范围和指标</span>
@@ -115,6 +120,7 @@
     const rangeTextEl = document.getElementById('chartRangeText');
     const metricSelect = document.getElementById('metricSelect');
     const modeSelect = document.getElementById('modeSelect');
+    const chartTooltip = document.getElementById('chartTooltip');
     const tableBody = document.getElementById('growthTableBody');
     const pagerInfo = document.getElementById('pagerInfo');
     const prevPageBtn = document.getElementById('prevPageBtn');
@@ -132,6 +138,7 @@
     let currentMetric = 'total';
     let currentPage = 1;
     const pageSize = 30;
+    let chartState = null;
 
     function numberText(value) {
       return Number(value || 0).toLocaleString('zh-CN');
@@ -154,6 +161,67 @@
 
     function getCurrentRows() {
       return growthData[currentMode] || [];
+    }
+
+    function shiftDate(dateText, offsetDays) {
+      const [year, month, day] = String(dateText || '').split('-').map(Number);
+      if (!year || !month || !day) return '';
+      const dt = new Date(Date.UTC(year, month - 1, day));
+      dt.setUTCDate(dt.getUTCDate() + offsetDays);
+      return dt.toISOString().slice(0, 10);
+    }
+
+    function getDeltaVsDate(row, offsetDays) {
+      const rows = getCurrentRows();
+      const rowMap = new Map(rows.map(item => [item.date, item]));
+      const compareDate = shiftDate(row.date, -offsetDays);
+      const baseRow = rowMap.get(compareDate);
+      if (!baseRow) return null;
+      return {
+        delta: row.total - baseRow.total,
+        percent: baseRow.total > 0 ? ((row.total - baseRow.total) / baseRow.total) * 100 : null
+      };
+    }
+
+    function formatDeltaWithPercent(result) {
+      if (!result) return '-';
+      const deltaPart = deltaText(result.delta);
+      if (!Number.isFinite(result.percent)) return deltaPart;
+      const sign = result.percent > 0 ? '+' : '';
+      return deltaPart + '（' + sign + result.percent.toFixed(2) + '%）';
+    }
+
+    function buildTooltipHtml(row) {
+      const week = getDeltaVsDate(row, 7);
+      const month = getDeltaVsDate(row, 30);
+      const year = getDeltaVsDate(row, 365);
+      return [
+        '<strong>' + row.date + '</strong>',
+        '<div>累计总量：' + numberText(row.total) + '</div>',
+        '<div>当日增量：' + deltaText(row.delta) + '</div>',
+        '<div>前7日增量：' + formatDeltaWithPercent(week) + '</div>',
+        '<div>前30日增量：' + (month ? deltaText(month.delta) : '-') + '</div>',
+        '<div>上年增量：' + (year ? deltaText(year.delta) : '-') + '</div>'
+      ].join('');
+    }
+
+    function hideTooltip() {
+      chartTooltip.classList.remove('show');
+    }
+
+    function showTooltip(clientX, clientY, row) {
+      chartTooltip.innerHTML = buildTooltipHtml(row);
+      chartTooltip.classList.add('show');
+      const wrapRect = chartCanvas.parentElement.getBoundingClientRect();
+      const tipRect = chartTooltip.getBoundingClientRect();
+      let left = clientX - wrapRect.left + 14;
+      let top = clientY - wrapRect.top - tipRect.height - 14;
+      if (left + tipRect.width > wrapRect.width - 8) left = wrapRect.width - tipRect.width - 8;
+      if (left < 8) left = 8;
+      if (top < 8) top = clientY - wrapRect.top + 14;
+      if (top + tipRect.height > wrapRect.height - 8) top = wrapRect.height - tipRect.height - 8;
+      chartTooltip.style.left = left + 'px';
+      chartTooltip.style.top = top + 'px';
     }
 
     function getRangeRows() {
@@ -205,6 +273,8 @@
       const ch = height - pad.top - pad.bottom;
 
       if (!rows.length) {
+        chartState = null;
+        hideTooltip();
         ctx.fillStyle = '#6c757d';
         ctx.font = '14px sans-serif';
         ctx.fillText('暂无数据', 16, 30);
@@ -240,6 +310,7 @@
 
       const xAt = idx => pad.left + (rows.length === 1 ? cw / 2 : (cw * idx) / (rows.length - 1));
       const yAt = v => pad.top + ((max - v) / (max - min)) * ch;
+      chartState = { rows, pad, width, height, xAt, yAt, values };
 
       const lineColor = currentMode === 'publish' ? '#1a8f4c' : '#00a1d6';
       ctx.strokeStyle = lineColor;
@@ -345,6 +416,35 @@
       });
 
       window.addEventListener('resize', drawChart);
+      chartCanvas.addEventListener('mouseleave', hideTooltip);
+      chartCanvas.addEventListener('mousemove', event => {
+        if (!chartState || !chartState.rows.length) {
+          hideTooltip();
+          return;
+        }
+        const rect = chartCanvas.getBoundingClientRect();
+        const localX = event.clientX - rect.left;
+        const localY = event.clientY - rect.top;
+        const minX = chartState.pad.left;
+        const maxX = chartState.width - chartState.pad.right;
+        const minY = chartState.pad.top;
+        const maxY = chartState.height - chartState.pad.bottom;
+        if (localX < minX || localX > maxX || localY < minY || localY > maxY) {
+          hideTooltip();
+          return;
+        }
+        let bestIndex = 0;
+        let bestDistance = Infinity;
+        chartState.rows.forEach((row, index) => {
+          const distance = Math.abs(chartState.xAt(index) - localX);
+          if (distance < bestDistance) {
+            bestDistance = distance;
+            bestIndex = index;
+          }
+        });
+        const row = chartState.rows[bestIndex];
+        showTooltip(event.clientX, event.clientY, row);
+      });
 
       const backTopBtn = document.getElementById('backTopBtn');
       const updateBackTop = () => backTopBtn.classList.toggle('show', window.scrollY > 260);
