@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq
-// 生成时间: 4/2/2026, 11:38:45 PM
+// 生成时间: 4/3/2026, 1:35:54 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -11711,7 +11711,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "歌切 2026-04-01 somunia LM7JCWKNvj8",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Nb9wBSE2n?p=5",
