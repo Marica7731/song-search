@@ -69,8 +69,8 @@
 
     <div class="controls">
       <select class="mode-select" id="modeSelect">
-        <option value="collection" selected>库收录增长</option>
-        <option value="publish">按投稿时间增长</option>
+        <option value="collection">库收录增长</option>
+        <option value="publish" selected>按投稿时间增长</option>
       </select>
       <button class="range-btn active" data-range="30">近30天</button>
       <button class="range-btn" data-range="90">近90天</button>
@@ -121,7 +121,7 @@
       publish: []
     };
 
-    let currentMode = 'collection';
+    let currentMode = 'publish';
     let currentRange = '30';
     let currentMetric = 'total';
     let currentPage = 1;
@@ -215,6 +215,8 @@
       const padY = (max - min) * 0.08;
       min -= padY;
       max += padY;
+      if (min < 0) min = 0;
+      if (max <= min) max = min + 1;
 
       ctx.strokeStyle = '#edf2f7';
       ctx.lineWidth = 1;
