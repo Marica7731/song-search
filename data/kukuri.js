@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 4/4/2026, 6:29:46 PM
+// 生成时间: 4/4/2026, 7:26:55 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -918,7 +918,7 @@ window.SONG_DATA.push(
   "source": "kukuri.js"
 },
     {
-  "title": "さくら",
+  "title": "さくら（独唱）",
   "artist": "森山直太朗",
   "collection": "【戸鎖 歌切】[2026-03-20]听说今天昼夜等长，那就来唱歌吧[OmC5ZGr3I-I]  戸鎖くくり kukuri ch *",
   "up": "前尘往事如昔故",

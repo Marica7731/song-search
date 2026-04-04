@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 4/4/2026, 6:32:04 PM
+// 生成时间: 4/4/2026, 7:29:00 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2598,7 +2598,7 @@ window.SONG_DATA.push(
   "source": "suu_usuwa.js"
 },
     {
-  "title": "さくら (独唱)",
+  "title": "さくら（独唱）",
   "artist": "森山直太朗",
   "collection": "2024年3月31日 16首【稀羽すう】【歌枠】深夜催眠歌枠 sing a song1. エイリアンズ",
   "up": "前尘往事如昔故",
@@ -20310,7 +20310,7 @@ window.SONG_DATA.push(
   "source": "suu_usuwa.js"
 },
     {
-  "title": "さくら (独唱)",
+  "title": "さくら（独唱）",
   "artist": "森山直太朗",
   "collection": "【🦢歌切】[2026-03-28]午后唱歌。｜卡拉OK｜唱歌直播[lf0oFR62Jcs] 稀羽すう",
   "up": "前尘往事如昔故",

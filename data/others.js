@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq
-// 生成时间: 4/4/2026, 6:41:30 PM
+// 生成时间: 4/4/2026, 7:38:30 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6382,7 +6382,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "さくら",
+  "title": "さくら（独唱）",
   "artist": "森山直太朗",
   "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
   "up": "前尘往事如昔故",
@@ -11454,8 +11454,8 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "森山直太朗",
-  "artist": "さくら",
+  "title": "さくら（独唱）",
+  "artist": "森山直太朗",
   "collection": "ちゅんちゅんこやぎ 2026-03-14 cwcRpJJzduQ 2026-03-22 RnSi4ACSzxE",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vWQXBME2e?p=17",

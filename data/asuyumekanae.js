@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 4/4/2026, 6:28:31 PM
+// 生成时间: 4/4/2026, 7:25:12 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1950,7 +1950,7 @@ window.SONG_DATA.push(
   "source": "asuyumekanae.js"
 },
     {
-  "title": "さくら",
+  "title": "さくら（独唱）",
   "artist": "森山直太朗",
   "collection": "【明日夢🎸弾き語り歌切】[2026-03-18]わ！！！[1pZsyiPAyxg]",
   "up": "前尘往事如昔故",

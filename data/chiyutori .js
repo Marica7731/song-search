@@ -1,6 +1,6 @@
 // 知悠 - 歌单数据 (多合集汇总)
 // 来源: BV1owcoz3Ekw
-// 生成时间: 4/4/2026, 6:28:49 PM
+// 生成时间: 4/4/2026, 7:25:41 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -430,7 +430,7 @@ window.SONG_DATA.push(
   "source": "chiyutori .js"
 },
     {
-  "title": "さくら",
+  "title": "さくら（独唱）",
   "artist": "森山直太朗",
   "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
   "up": "前尘往事如昔故",

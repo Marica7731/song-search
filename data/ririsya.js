@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 4/4/2026, 6:31:50 PM
+// 生成时间: 4/4/2026, 7:28:29 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14014,7 +14014,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "さくら(独唱)",
+  "title": "さくら（独唱）",
   "artist": "森山直太朗",
   "collection": "【🐍歌切】[2026-03-27]没有毕业，只是唱「毕业」的歌✧毕业歌曲演唱🌸[leNSYjPB-Pk]凛々咲",
   "up": "前尘往事如昔故",
