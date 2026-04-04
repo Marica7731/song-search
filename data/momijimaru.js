@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 4/4/2026, 6:50:29 AM
+// 生成时间: 4/4/2026, 7:44:41 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2051,6 +2051,134 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-04-02]早晨的陪伴，悠闲杂谈&歌回直播🍁✨紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1c69wBGEXy?p=20",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【🍁歌切】[2026-04-03]１曲聴いてって！ 一瞬で惚れるパワフルボイスの歌枠✨紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrDNBtEm1?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "死神",
+  "artist": "米津玄師",
+  "collection": "【🍁歌切】[2026-04-03]１曲聴いてって！ 一瞬で惚れるパワフルボイスの歌枠✨紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrDNBtEm1?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ギラギラ",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-04-03]１曲聴いてって！ 一瞬で惚れるパワフルボイスの歌枠✨紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrDNBtEm1?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "KICK BACK",
+  "artist": "米津玄師",
+  "collection": "【🍁歌切】[2026-04-03]１曲聴いてって！ 一瞬で惚れるパワフルボイスの歌枠✨紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrDNBtEm1?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ルーム No.4",
+  "artist": "超学生",
+  "collection": "【🍁歌切】[2026-04-03]１曲聴いてって！ 一瞬で惚れるパワフルボイスの歌枠✨紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrDNBtEm1?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "サイコ",
+  "artist": "超学生",
+  "collection": "【🍁歌切】[2026-04-03]１曲聴いてって！ 一瞬で惚れるパワフルボイスの歌枠✨紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrDNBtEm1?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ヴィラン",
+  "artist": "てにをは",
+  "collection": "【🍁歌切】[2026-04-03]１曲聴いてって！ 一瞬で惚れるパワフルボイスの歌枠✨紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrDNBtEm1?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ゴシップ",
+  "artist": "OSTER project",
+  "collection": "【🍁歌切】[2026-04-03]１曲聴いてって！ 一瞬で惚れるパワフルボイスの歌枠✨紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrDNBtEm1?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ころしちゃった！",
+  "artist": "夏山よつぎ&初音ミク",
+  "collection": "【🍁歌切】[2026-04-03]１曲聴いてって！ 一瞬で惚れるパワフルボイスの歌枠✨紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrDNBtEm1?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "月陽-ツキアカリ-",
+  "artist": "みきとP feat. GUMI",
+  "collection": "【🍁歌切】[2026-04-03]１曲聴いてって！ 一瞬で惚れるパワフルボイスの歌枠✨紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrDNBtEm1?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "絶頂讃歌",
+  "artist": "和ぬか",
+  "collection": "【🍁歌切】[2026-04-03]１曲聴いてって！ 一瞬で惚れるパワフルボイスの歌枠✨紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrDNBtEm1?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "鬼ノ宴",
+  "artist": "友成空",
+  "collection": "【🍁歌切】[2026-04-03]１曲聴いてって！ 一瞬で惚れるパワフルボイスの歌枠✨紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrDNBtEm1?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "爆笑",
+  "artist": "syudou",
+  "collection": "【🍁歌切】[2026-04-03]１曲聴いてって！ 一瞬で惚れるパワフルボイスの歌枠✨紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrDNBtEm1?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "一難",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-04-03]１曲聴いてって！ 一瞬で惚れるパワフルボイスの歌枠✨紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrDNBtEm1?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "一旦ステイTONIGHT",
+  "artist": "不破湊",
+  "collection": "【🍁歌切】[2026-04-03]１曲聴いてって！ 一瞬で惚れるパワフルボイスの歌枠✨紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrDNBtEm1?p=15",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "イカサマダンス",
+  "artist": "まふまふ",
+  "collection": "【🍁歌切】[2026-04-03]１曲聴いてって！ 一瞬で惚れるパワフルボイスの歌枠✨紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrDNBtEm1?p=16",
   "source": "momijimaru.js"
 }
 );
