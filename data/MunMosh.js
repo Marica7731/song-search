@@ -1,6 +1,6 @@
 // むんもっしゅ - 歌单数据 (多合集汇总)
 // 来源: BV1UCkhBkEon
-// 生成时间: 4/4/2026, 8:28:21 PM
+// 生成时间: 4/4/2026, 9:31:36 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1054,7 +1054,7 @@ window.SONG_DATA.push(
   "source": "MunMosh.js"
 },
     {
-  "title": "One more time one more chance",
+  "title": "One more time, One more chance",
   "artist": "山崎まさよし",
   "collection": "【60首】【もしゅらいぶ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "up": "前尘往事如昔故",
