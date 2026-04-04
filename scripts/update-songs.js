@@ -6,6 +6,9 @@ const BILI_VIDEO_PREFIX = 'https://www.bilibili.com/video/';
 const BILI_VIEW_API = 'https://api.bilibili.com/x/web-interface/view?bvid=';
 const BV_REGEX = /BV[0-9a-zA-Z]+/;
 const CLEAN_SUFFIX_REGEX = /(\s*\(\d+\)|_(sub|copy|backup|1080p|720p|\d+))$/i;
+const TRAILING_TAG_REGEX = /(?:\s*(?:\[[^\]]*\]|【[^】]*】|【[^】]*))+$/;
+const LEADING_SOURCE_REGEX = /^(?:\s*【[^】]+】)+\s*/;
+const LEADING_INDEX_REGEX = /^(?:\s*\[\d+(?:\s*[-/]\s*\d+)+\]\.?\s*|\s*\d+\.\s*|\s*P\d+[：:]\s*)/i;
 
 const SINGER_CONFIGS = [
     { bvids: ["BV1JRwUzoEpM","BV1icwSzXEYv"], file: "asuyumekanae", alias: "明日夢かなえ" },
@@ -174,22 +177,41 @@ function cleanTitle(rawTitle) {
         previousLength = title.length;
         title = title.replace(/\[[^\[\]]*\]\s*$/, '');
     } while (title.length !== previousLength);
-    title = title.trim()
-        .replace(/^\d+\.\s*/, '')
-        .replace(/^P\d+[：:]\s*/, '')
+    title = title
+        .replace(TRAILING_TAG_REGEX, '')
         .trim();
+
+    do {
+        previousLength = title.length;
+        title = title
+            .replace(LEADING_SOURCE_REGEX, '')
+            .replace(LEADING_INDEX_REGEX, '')
+            .trim();
+    } while (title.length !== previousLength);
+
     return title.replace(CLEAN_SUFFIX_REGEX, '').trim();
 }
 
+function cleanArtist(rawArtist) {
+    let artist = String(rawArtist || '').trim();
+    artist = artist.replace(TRAILING_TAG_REGEX, '').trim();
+    artist = artist.replace(LEADING_SOURCE_REGEX, '').trim();
+    return artist.replace(CLEAN_SUFFIX_REGEX, '').trim();
+}
+
 function splitSongTitleAndArtist(partTitle) {
-    const cleaned = cleanTitle(partTitle);
+    const normalized = String(partTitle || '')
+        .replace(LEADING_SOURCE_REGEX, '')
+        .replace(LEADING_INDEX_REGEX, '')
+        .trim();
+    const cleaned = cleanTitle(normalized);
     let title = cleaned;
     let artist = DEFAULT_ARTIST_TEXT;
 
-    if (cleaned.includes(' - ')) {
-        const parts = cleaned.split(' - ');
+    if (normalized.includes(' - ')) {
+        const parts = normalized.split(' - ');
         title = cleanTitle(parts[0]);
-        artist = cleanTitle(parts[parts.length - 1]) || DEFAULT_ARTIST_TEXT;
+        artist = cleanArtist(parts[parts.length - 1]) || DEFAULT_ARTIST_TEXT;
     }
 
     return { title, artist };

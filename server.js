@@ -19,6 +19,17 @@ let store = {
   titleMap: new Map()
 };
 
+const ROUTE_ALIASES = {
+  '/': 'index.html',
+  '/stats': 'stats.html',
+  '/bv': 'bv-dup-check.html',
+  '/dup': 'title-artist-dup-check.html',
+  '/check': 'title-artist-check.html',
+  '/growth': 'song-growth.html',
+  '/convert': 'converter.html',
+  '/legacy': 'bili-check.html'
+};
+
 function isValidArtist(artist) {
   if (!artist || !artist.trim()) return false;
   return !artist.includes('来源处未提供标准格式歌手');
@@ -755,7 +766,11 @@ function handleInternalReload(req, res) {
 
 function serveStatic(reqUrl, res) {
   let pathname = decodeURIComponent(reqUrl.pathname);
-  if (pathname === '/') pathname = '/index.html';
+  if (ROUTE_ALIASES[pathname]) {
+    pathname = `/${ROUTE_ALIASES[pathname]}`;
+  } else if (pathname === '/') {
+    pathname = '/index.html';
+  }
   const filePath = path.normalize(path.join(ROOT, pathname));
   if (!filePath.startsWith(ROOT)) {
     sendJson(res, 403, { error: 'Forbidden' });
