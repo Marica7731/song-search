@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 4/4/2026, 7:43:48 AM
+// 生成时间: 4/4/2026, 8:31:22 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2091,6 +2091,62 @@ window.SONG_DATA.push(
   "collection": "【明日夢🎸弾き語り歌切】[2026-03-18]わ！！！[1pZsyiPAyxg]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ssw6zLEZE?p=29",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "届かない",
+  "artist": "Saucy Dog",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-03]感谢虚拟咖啡厅！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t8DMBaEkq?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Good-bye days",
+  "artist": "YUI",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-03]感谢虚拟咖啡厅！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t8DMBaEkq?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "月が綺麗",
+  "artist": "岩見拓馬",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-03]感谢虚拟咖啡厅！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t8DMBaEkq?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ピンクムーン",
+  "artist": "ハルカミライ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-03]感谢虚拟咖啡厅！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t8DMBaEkq?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-03]感谢虚拟咖啡厅！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t8DMBaEkq?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "煙たい",
+  "artist": "片平里菜",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-03]感谢虚拟咖啡厅！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t8DMBaEkq?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "雪解け",
+  "artist": "Islet feat. 倚水",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-03]感谢虚拟咖啡厅！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t8DMBaEkq?p=7",
   "source": "asuyumekanae.js"
 }
 );

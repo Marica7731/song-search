@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 4/4/2026, 7:45:51 AM
+// 生成时间: 4/4/2026, 8:33:13 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -28531,6 +28531,126 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-04-02]妖精爆誕祭歌回接力💐 Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Nb9wBSEUp?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "赤いスイートピー",
+  "artist": "松田聖子",
+  "collection": "【💐歌切】[2026-04-03]樱花与Chill的歌回🌸Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vjDMB3EPT?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "SAKURA",
+  "artist": "いきものがかり",
+  "collection": "【💐歌切】[2026-04-03]樱花与Chill的歌回🌸Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vjDMB3EPT?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "蕾",
+  "artist": "コブクロ",
+  "collection": "【💐歌切】[2026-04-03]樱花与Chill的歌回🌸Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vjDMB3EPT?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【💐歌切】[2026-04-03]樱花与Chill的歌回🌸Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vjDMB3EPT?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "花は桜 君は美し",
+  "artist": "いきものがかり",
+  "collection": "【💐歌切】[2026-04-03]樱花与Chill的歌回🌸Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vjDMB3EPT?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "都落ち",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-04-03]樱花与Chill的歌回🌸Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vjDMB3EPT?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "花降らし",
+  "artist": "ナブナ",
+  "collection": "【💐歌切】[2026-04-03]樱花与Chill的歌回🌸Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vjDMB3EPT?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "春を告げる",
+  "artist": "yama",
+  "collection": "【💐歌切】[2026-04-03]樱花与Chill的歌回🌸Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vjDMB3EPT?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-04-03]樱花与Chill的歌回🌸Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vjDMB3EPT?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "さようなら、花泥棒さん",
+  "artist": "メル",
+  "collection": "【💐歌切】[2026-04-03]樱花与Chill的歌回🌸Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vjDMB3EPT?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "フライディ・チャイナタウン",
+  "artist": "泰葉",
+  "collection": "【💐歌切】[2026-04-03]樱花与Chill的歌回🌸Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vjDMB3EPT?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "サウダージ",
+  "artist": "ポルノグラフィティ",
+  "collection": "【💐歌切】[2026-04-03]樱花与Chill的歌回🌸Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vjDMB3EPT?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "アゲハ蝶",
+  "artist": "ポルノグラフィティ",
+  "collection": "【💐歌切】[2026-04-03]樱花与Chill的歌回🌸Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vjDMB3EPT?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "【💐歌切】[2026-04-03]樱花与Chill的歌回🌸Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vjDMB3EPT?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "Night Dancer",
+  "artist": "imase",
+  "collection": "【💐歌切】[2026-04-03]樱花与Chill的歌回🌸Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vjDMB3EPT?p=15",
   "source": "figaro.js"
 }
 );
