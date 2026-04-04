@@ -1,6 +1,6 @@
 // 陽月るるふ - 歌单数据 (多合集汇总)
 // 来源: BV1Qa9JB6EAw
-// 生成时间: 4/4/2026, 6:03:38 AM
+// 生成时间: 4/4/2026, 7:03:34 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -347,6 +347,62 @@ window.SONG_DATA.push(
   "collection": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1my9cBSE56?p=14",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day4 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dbDNBvEsv?p=1",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "clock lock works",
+  "artist": "ハチ",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day4 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dbDNBvEsv?p=2",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "rain stops,good-bye",
+  "artist": "におP",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day4 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dbDNBvEsv?p=3",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "from Y to Y",
+  "artist": "ジミーサムP",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day4 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dbDNBvEsv?p=4",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "アイロニ",
+  "artist": "すこっぷ",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day4 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dbDNBvEsv?p=5",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "サリシノハラ",
+  "artist": "みきとP",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day4 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dbDNBvEsv?p=6",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day4 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dbDNBvEsv?p=7",
   "source": "bv1qa9jb6eaw.js"
 }
 );
