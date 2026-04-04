@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 4/4/2026, 5:25:48 PM
+// 生成时间: 4/4/2026, 6:32:04 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -19695,7 +19695,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想感傷代償連盟",
-  "artist": "DECO#27",
+  "artist": "DECO*27",
   "collection": "【🦢稀羽すう歌切】3週間ぶりに歌うけどどうする？[2026-02-27]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pkAXzLEcg?p=11",
@@ -19783,7 +19783,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "DECO#27",
+  "artist": "DECO*27",
   "collection": "【🦢稀羽すう歌切】 お昼にまったりしませんか？[i7OjULSNQq0]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gbAazeE1g?p=8",
@@ -19799,7 +19799,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "弱虫モンブラン",
-  "artist": "DECO#27",
+  "artist": "DECO*27",
   "collection": "【🦢稀羽すう歌切】 お昼にまったりしませんか？[i7OjULSNQq0]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gbAazeE1g?p=10",
@@ -19823,7 +19823,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "サラマンダー",
-  "artist": "DECO#27",
+  "artist": "DECO*27",
   "collection": "【🦢稀羽すう歌切】 お昼にまったりしませんか？[i7OjULSNQq0]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gbAazeE1g?p=13",

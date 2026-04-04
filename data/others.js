@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq
-// 生成时间: 4/4/2026, 5:36:08 PM
+// 生成时间: 4/4/2026, 6:41:30 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5351,7 +5351,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "二息歩行",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "CULUA 2025-12-25 ~ 2026-02-12",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=81",
@@ -5927,7 +5927,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヒバナ",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "CULUA 2025-12-25 ~ 2026-02-12",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=153",
@@ -5935,7 +5935,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ゴーストルール",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "CULUA 2025-12-25 ~ 2026-02-12",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=154",
@@ -5999,7 +5999,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "CULUA 2025-12-25 ~ 2026-02-12",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=162",
@@ -6215,7 +6215,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "パラサイト",
-  "artist": "DECO#27",
+  "artist": "DECO*27",
   "collection": "CULUA 2025-12-25 ~ 2026-02-12",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=189",
@@ -6799,7 +6799,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "乙女解剖",
-  "artist": "DECO＊27",
+  "artist": "DECO*27",
   "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=62",
@@ -7359,7 +7359,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "乙女解剖",
-  "artist": "DECO＊27",
+  "artist": "DECO*27",
   "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=132",
@@ -7599,7 +7599,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シンデレラ",
-  "artist": "DECO＊27",
+  "artist": "DECO*27",
   "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=162",
@@ -9183,7 +9183,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "おじゃま虫",
-  "artist": "DECO＊27",
+  "artist": "DECO*27",
   "collection": "歌势推荐：言ノ葉みくろ 2026-03-10   yfCv3XI-duk",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D4wAzEESL?p=2",
@@ -9199,7 +9199,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "チェリーポップ",
-  "artist": "DECO＊27",
+  "artist": "DECO*27",
   "collection": "歌势推荐：言ノ葉みくろ 2026-03-10   yfCv3XI-duk",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D4wAzEESL?p=4",
@@ -10319,7 +10319,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヴァンパイア",
-  "artist": "DECO＊27",
+  "artist": "DECO*27",
   "collection": "いくぜ! 42首术力口 2026-03-16 _1uVja1r1qU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16TwUzfEXQ?p=1",
@@ -10487,7 +10487,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "DECO＊27",
+  "artist": "DECO*27",
   "collection": "いくぜ! 42首术力口 2026-03-16 _1uVja1r1qU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16TwUzfEXQ?p=22",
@@ -10495,7 +10495,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想感傷代償連盟",
-  "artist": "DECO＊27 feat. 初音ミク",
+  "artist": "DECO*27",
   "collection": "いくぜ! 42首术力口 2026-03-16 _1uVja1r1qU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16TwUzfEXQ?p=23",
@@ -10503,7 +10503,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "乙女解剖",
-  "artist": "DECO＊27",
+  "artist": "DECO*27",
   "collection": "いくぜ! 42首术力口 2026-03-16 _1uVja1r1qU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16TwUzfEXQ?p=24",
@@ -13175,7 +13175,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "乙女解剖",
-  "artist": "DECO＊27 feat. 初音ミク",
+  "artist": "DECO*27",
   "collection": "祈祷 𓆩︎✟𓆪  2026-03-12 y6cl6_s2_Ck",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KhcmzhE26?p=3",

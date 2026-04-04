@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 4/4/2026, 5:23:03 PM
+// 生成时间: 4/4/2026, 6:28:31 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -79,7 +79,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想感傷代償連盟",
-  "artist": "DECO＊27",
+  "artist": "DECO*27",
   "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=10",
@@ -127,7 +127,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "乙女解剖",
-  "artist": "DECO＊27",
+  "artist": "DECO*27",
   "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=16",

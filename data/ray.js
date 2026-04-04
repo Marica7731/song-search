@@ -1,6 +1,6 @@
 // 來-Ray- - 歌单数据 (多合集汇总)
 // 来源: BV1mJZwB8EVa
-// 生成时间: 4/4/2026, 5:26:08 PM
+// 生成时间: 4/4/2026, 6:32:22 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -135,7 +135,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ライアーダンス",
-  "artist": "DECO27／初音ミク",
+  "artist": "DECO*27",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mJZwB8EVa?p=17",
@@ -1255,7 +1255,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハートアラモード",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mJZwB8EVa?p=157",
@@ -1351,7 +1351,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "サラマンダー",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mJZwB8EVa?p=169",
@@ -1359,7 +1359,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ストリーミングハート",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mJZwB8EVa?p=170",
@@ -1367,7 +1367,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シンデレラ(Giga First Night Remix)",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mJZwB8EVa?p=171",
@@ -2503,7 +2503,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "來-Ray-  歌切 2025-11-08 ~  2026-01-18",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wUZcBQEBo?p=125",

@@ -1,6 +1,6 @@
 // 天ノ譜ステラ - 歌单数据 (多合集汇总)
 // 来源: BV1MEP8z4E1J
-// 生成时间: 4/4/2026, 5:29:02 PM
+// 生成时间: 4/4/2026, 6:35:08 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1215,7 +1215,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "DECO#27",
+  "artist": "DECO*27",
   "collection": "天ノ譜ステラ🍚💫2025-10 ~ 2026-03  主流程歌切",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MEP8z4E1J?p=112",

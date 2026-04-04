@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据 (多合集汇总)
 // 来源: BV1zzZPBsEum
-// 生成时间: 4/4/2026, 5:27:46 PM
+// 生成时间: 4/4/2026, 6:33:54 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1895,7 +1895,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヴァンパイア",
-  "artist": "DECO#27",
+  "artist": "DECO*27",
   "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=39",

@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 4/4/2026, 5:23:50 PM
+// 生成时间: 4/4/2026, 6:29:18 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -47,7 +47,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヒバナ",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "紅葉丸チャンネル 2~3月节选 65P",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=6",
@@ -511,7 +511,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "紅葉丸チャンネル 2~3月节选 65P",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b3wPzEEvs?p=64",
@@ -1511,7 +1511,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ゆめゆめ",
-  "artist": "DECO_27&初音ミク",
+  "artist": "DECO*27",
   "collection": "【🍁歌切】[2026-03-24]来当早上的伴侣吧!!悠闲闲聊＆歌回🍁✨[038pREvvt4Y] 紅葉丸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NEQBBjEJG?p=8",
@@ -1823,7 +1823,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【🍁歌切】[2026-03-31]早晨的陪伴，来一起悠闲聊天和歌回吧🍁✨紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eT9nB2E62?p=7",

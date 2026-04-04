@@ -1,6 +1,6 @@
 // 朱名 - 歌单数据 (多合集汇总)
 // 来源: BV167c2znErj
-// 生成时间: 4/4/2026, 5:29:39 PM
+// 生成时间: 4/4/2026, 6:35:53 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1143,7 +1143,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モザイクロール",
-  "artist": "DECO『27",
+  "artist": "DECO*27",
   "collection": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV167c2znErj?p=143",
@@ -1151,7 +1151,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "おじゃま虫",
-  "artist": "DECO『27",
+  "artist": "DECO*27",
   "collection": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV167c2znErj?p=144",
@@ -1159,7 +1159,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ゴーストルール",
-  "artist": "DECO『27",
+  "artist": "DECO*27",
   "collection": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV167c2znErj?p=145",
@@ -1167,7 +1167,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想税",
-  "artist": "DECO『27",
+  "artist": "DECO*27",
   "collection": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV167c2znErj?p=146",
@@ -1175,7 +1175,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "弱虫モンブラン",
-  "artist": "DECO『27",
+  "artist": "DECO*27",
   "collection": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV167c2znErj?p=147",

@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 4/4/2026, 5:24:40 PM
+// 生成时间: 4/4/2026, 6:31:12 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1119,7 +1119,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛言葉Ⅲ",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "[2025-12-18]感謝を込めて、3周年🎂With gratitude, 3rd anniversary[DsL[なれたん Naraetan Ch.🌷]",
   "up": "DsL[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1V8ZABkEgQ?p=11",
@@ -1655,7 +1655,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛言葉Ⅲ",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1R3ZKBHEBf?p=13",
@@ -3895,7 +3895,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "DECO*27 feat. 初音ミク",
+  "artist": "DECO*27",
   "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV12uc5ziEQZ?p=8",
@@ -3943,7 +3943,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "二息歩行",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV12uc5ziEQZ?p=14",
@@ -4487,7 +4487,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【なれたん歌切🌷】一曲だけでも聞いてってください[2026-02-24]💕Please stay and listen to at least one so",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Q4fUBNEKb?p=10",
@@ -4655,7 +4655,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ゴーストルール",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=16",
@@ -5015,7 +5015,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=9",
@@ -6783,7 +6783,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=8",

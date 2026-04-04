@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 4/4/2026, 5:25:15 PM
+// 生成时间: 4/4/2026, 6:31:35 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -27239,7 +27239,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛言葉III",
-  "artist": "DECO＊27",
+  "artist": "DECO*27",
   "collection": "【💐歌切 竖屏】[2026-03-04]今週もたくさん歌うよ！ #shorts #vtuber #vsinger[AsnI8Kywn_A]Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b4PizLEYM?p=8",
