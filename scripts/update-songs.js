@@ -8,7 +8,7 @@ const BV_REGEX = /BV[0-9a-zA-Z]+/;
 const CLEAN_SUFFIX_REGEX = /(\s*\(\d+\)|_(sub|copy|backup|1080p|720p|\d+))$/i;
 const TRAILING_TAG_REGEX = /(?:\s*(?:\[[^\]]*\]|【[^】]*】|【[^】]*))+$/;
 const LEADING_SOURCE_REGEX = /^(?:\s*【[^】]+】)+\s*/;
-const LEADING_INDEX_REGEX = /^(?:\s*\[\d+(?:\s*[-/]\s*\d+)+\]\.?\s*|\s*\d+\.\s*|\s*P\d+[：:]\s*)/i;
+const LEADING_INDEX_REGEX = /^(?:\s*\[\d+(?:\s*[-/]\s*\d+)+\]\.?\s*|\s*\d+\.\s+|\s*P\d+[：:]\s*)/i;
 
 const SINGER_CONFIGS = [
     { bvids: ["BV1JRwUzoEpM","BV1icwSzXEYv"], file: "asuyumekanae", alias: "明日夢かなえ" },

@@ -76,6 +76,10 @@ const samples = [
     expected: { title: '弱虫モンブラン', artist: 'DECO『27' }
   },
   {
+    input: '16. 8.32 - *Luna',
+    expected: { title: '8.32', artist: '*Luna' }
+  },
+  {
     input: '[2-7]. フクロウ~フクロウが知らせる客が来たと~ - KOKIA【治愈接力【Figaro】',
     expected: { title: 'フクロウ~フクロウが知らせる客が来たと~', artist: 'KOKIA' }
   }
