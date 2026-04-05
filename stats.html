@@ -88,7 +88,9 @@
             white-space: nowrap;
         }
         .filter-select {
-            min-width: 220px;
+            min-width: 360px;
+            flex: 1 1 420px;
+            max-width: 560px;
             padding: 8px 12px;
             border: 1px solid #e9ecef;
             border-radius: 12px;
@@ -635,6 +637,8 @@
         let fileNames = [];
         let FILE_TO_ALIAS = {};
         let SOURCE_STATS = {};
+        let bootstrapTotalSongs = 0;
+        let bootstrapTotalUnique = 0;
         
         // 当前状态
         let activeTab = 'vtuber-source';
@@ -1230,8 +1234,8 @@
             sourceSelect.className = 'filter-select';
 
             const placeholder = document.createElement('option');
-            placeholder.value = 'all';
-            placeholder.textContent = '选择来源';
+            placeholder.value = '';
+            placeholder.textContent = `选择来源（全部：投稿 ${bootstrapTotalSongs} | 去重 ${bootstrapTotalUnique}）`;
             sourceSelect.appendChild(placeholder);
 
             fileNames.forEach(fileName => {
@@ -1246,9 +1250,10 @@
                 sourceSelect.appendChild(option);
             });
 
-            sourceSelect.value = fileNames.includes(activeFilter) ? activeFilter : 'all';
+            sourceSelect.value = fileNames.includes(activeFilter) ? activeFilter : '';
             sourceSelect.onchange = () => {
-                activeFilter = sourceSelect.value || 'all';
+                if (!sourceSelect.value) return;
+                activeFilter = sourceSelect.value;
                 currentRankPage = 1;
                 updateAllViews();
             };
@@ -1749,6 +1754,8 @@
             fileNames = payload.files || [];
             FILE_TO_ALIAS = payload.fileToAlias || {};
             SOURCE_STATS = payload.sourceStats || {};
+            bootstrapTotalSongs = payload.totalSongs || 0;
+            bootstrapTotalUnique = payload.totalUnique || 0;
             originalData = [];
             isApiMode = true;
         }

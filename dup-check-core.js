@@ -6,6 +6,8 @@ let allSongs = [];
 let fileList = [];
 let fileAlias = {};
 let sourceStats = {};
+let bootstrapTotalSongs = 0;
+let bootstrapTotalUnique = 0;
 let currentTab = 'all';
 let analysisResult = [];
 let showOnlyUnique = false;
@@ -36,7 +38,7 @@ function getSourceAlias(source) {
 
 function getSourceOptionLabel(source) {
   if (source === 'all') {
-    return `全部 | 投稿 ${allSongs.length} | 去重 ${getUniqueSongCount(allSongs)}`;
+    return `全部 | 投稿 ${bootstrapTotalSongs} | 去重 ${bootstrapTotalUnique}`;
   }
   const stat = sourceStats[source];
   const alias = getSourceAlias(source);
@@ -161,6 +163,8 @@ async function loadAllData() {
         fileList = bootstrapData.files || [];
         fileAlias = bootstrapData.fileToAlias || {};
         sourceStats = bootstrapData.sourceStats || {};
+        bootstrapTotalSongs = bootstrapData.totalSongs || 0;
+        bootstrapTotalUnique = bootstrapData.totalUnique || 0;
         renderSourceTabs();
         updateStat('来源已加载，正在加载数据...');
       }
@@ -176,6 +180,8 @@ async function loadAllData() {
       fileAlias = apiData.fileToAlias || fileAlias || {};
       sourceStats = apiData.sourceStats || sourceStats || {};
       allSongs = Array.isArray(apiData.items) ? apiData.items : [];
+      if (!bootstrapTotalSongs) bootstrapTotalSongs = apiData.items?.length || 0;
+      if (!bootstrapTotalUnique) bootstrapTotalUnique = getUniqueSongCount(allSongs);
     } catch (apiError) {
       console.warn('API 数据加载失败，回退到静态模式：', apiError);
       const indexRes = await fetch('data/index.json');
@@ -183,6 +189,8 @@ async function loadAllData() {
       fileList = indexData.files || fileList || [];
       fileAlias = indexData.fileToAlias || fileAlias || {};
       sourceStats = {};
+      bootstrapTotalSongs = 0;
+      bootstrapTotalUnique = 0;
       renderSourceTabs();
 
       const loadTasks = fileList.map(fileName =>
@@ -206,6 +214,8 @@ async function loadAllData() {
 
       const songArrays = await Promise.all(loadTasks);
       allSongs = songArrays.flat();
+      bootstrapTotalSongs = allSongs.length;
+      bootstrapTotalUnique = getUniqueSongCount(allSongs);
     }
 
     dataLoaded = true;
@@ -236,8 +246,8 @@ function renderSourceTabs() {
   select.className = 'source-select';
 
   const placeholder = document.createElement('option');
-  placeholder.value = 'all';
-  placeholder.textContent = '选择来源';
+  placeholder.value = '';
+  placeholder.textContent = '选择来源（右侧含投稿/去重）';
   select.appendChild(placeholder);
 
   fileList.forEach(fileName => {
@@ -247,8 +257,11 @@ function renderSourceTabs() {
     select.appendChild(option);
   });
 
-  select.value = currentTab === 'all' ? 'all' : currentTab;
-  select.addEventListener('change', () => switchSourceTab(select.value || 'all'));
+  select.value = currentTab === 'all' ? '' : currentTab;
+  select.addEventListener('change', () => {
+    if (!select.value) return;
+    switchSourceTab(select.value);
+  });
   container.appendChild(select);
 }
 

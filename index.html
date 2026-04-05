@@ -60,7 +60,9 @@
             white-space: nowrap;
         }
         .filter-select {
-            min-width: 220px;
+            min-width: 360px;
+            flex: 1 1 420px;
+            max-width: 560px;
             padding: 8px 12px;
             border: 1px solid #e9ecef;
             border-radius: 12px;
@@ -91,6 +93,7 @@
             box-shadow: 0 4px 12px rgba(0, 161, 214, 0.3);
         }
         .filter-btn.missing-artist {
+            margin-left: auto;
             border-color: #dc3545;
             color: #dc3545;
         }
@@ -104,7 +107,6 @@
             box-shadow: 0 4px 12px rgba(220, 53, 69, 0.3);
         }
         .filter-btn.clear {
-            margin-left: auto;
             background: linear-gradient(135deg, #6c757d 0%, #adb5bd 100%);
             color: white;
             border-color: transparent;
@@ -705,8 +707,11 @@
         let currentSortMode = 'pubdate_desc';
         const fileNames = [];
         let FILE_TO_ALIAS = {};
+        let SOURCE_STATS = {};
         let isApiMode = false;
         let currentSearchMeta = null;
+        let bootstrapTotalSongs = 0;
+        let bootstrapTotalUnique = 0;
 
         function showCopyToast() {
             const toast = document.getElementById('copy-toast');
@@ -803,6 +808,18 @@
             });
 
             return totalUnique;
+        }
+
+        function getSourceOptionLabel(source) {
+            if (source === 'all') {
+                return `全部 | 投稿 ${bootstrapTotalSongs} | 去重 ${bootstrapTotalUnique}`;
+            }
+
+            const stat = SOURCE_STATS[source];
+            const fileBase = source.replace('.js', '');
+            const alias = FILE_TO_ALIAS[fileBase] || fileBase;
+            if (!stat) return alias;
+            return `${alias} | 投稿 ${stat.totalSongs} | 去重 ${stat.totalUnique}`;
         }
 
         function getCopyOptions() {
@@ -1173,21 +1190,22 @@
             sourceSelect.className = 'filter-select';
 
             const placeholder = document.createElement('option');
-            placeholder.value = 'all';
-            placeholder.textContent = '选择来源';
+            placeholder.value = '';
+            placeholder.textContent = '选择来源（右侧含投稿/去重）';
             sourceSelect.appendChild(placeholder);
 
             fileNames.forEach(fileName => {
-                const fileBase = fileName.replace('.js', '');
-                const btnText = FILE_TO_ALIAS[fileBase] || fileBase;
                 const option = document.createElement('option');
                 option.value = fileName;
-                option.textContent = btnText;
+                option.textContent = getSourceOptionLabel(fileName);
                 sourceSelect.appendChild(option);
             });
 
-            sourceSelect.value = fileNames.includes(activeSource) ? activeSource : 'all';
-            sourceSelect.onchange = () => switchSource(sourceSelect.value || 'all');
+            sourceSelect.value = fileNames.includes(activeSource) ? activeSource : '';
+            sourceSelect.onchange = () => {
+                if (!sourceSelect.value) return;
+                switchSource(sourceSelect.value);
+            };
             filterBar.appendChild(sourceSelect);
 
             const missingBtn = document.createElement('button');
@@ -1647,6 +1665,9 @@
 
                     fileNames.push(...(apiConfig.files || []));
                     FILE_TO_ALIAS = apiConfig.fileToAlias || {};
+                    SOURCE_STATS = apiConfig.sourceStats || {};
+                    bootstrapTotalSongs = apiConfig.totalSongs || 0;
+                    bootstrapTotalUnique = apiConfig.totalUnique || 0;
                     progressMsg.textContent = `✅ 服务端歌库已就绪，总歌曲数：${apiConfig.totalSongs || 0}`;
                     filteredBySource = [];
                     filteredBySearch = [];
@@ -1669,12 +1690,15 @@
                     const config = await res.json();
                     fileNames.push(...(config.files || []));
                     FILE_TO_ALIAS = config.fileToAlias || {};
+                    SOURCE_STATS = {};
 
                     if (fileNames.length === 0) throw new Error('index.json中无数据文件配置');
 
                     progressMsg.textContent = `📥 正在并行加载 ${fileNames.length} 个歌库文件...`;
 
                     await loadScriptsParallel(fileNames);
+                    bootstrapTotalSongs = originalData.length;
+                    bootstrapTotalUnique = getUniqueSongCount(originalData);
 
                     progressMsg.textContent = `✅ 歌库加载完成，总歌曲数：${originalData.length}`;
                     filteredBySource = [...originalData];
