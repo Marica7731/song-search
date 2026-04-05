@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 4/5/2026, 10:29:15 AM
+// 生成时间: 4/5/2026, 11:26:40 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -29243,6 +29243,214 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-04-02]欢迎新观众！目标16万粉丝！YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1439NBfEak?p=25",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春",
+  "collection": "【🍠🦍歌切】[2026-04-03]初見さん歓迎！16万人突破感謝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dcSUBSE6g?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-04-03]初見さん歓迎！16万人突破感謝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dcSUBSE6g?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "１・２・３",
+  "artist": "After the Rain",
+  "collection": "【🍠🦍歌切】[2026-04-03]初見さん歓迎！16万人突破感謝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dcSUBSE6g?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao",
+  "collection": "【🍠🦍歌切】[2026-04-03]初見さん歓迎！16万人突破感謝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dcSUBSE6g?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Go!!!",
+  "artist": "FLOW",
+  "collection": "【🍠🦍歌切】[2026-04-03]初見さん歓迎！16万人突破感謝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dcSUBSE6g?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "未来のミュージアム",
+  "artist": "Perfume",
+  "collection": "【🍠🦍歌切】[2026-04-03]初見さん歓迎！16万人突破感謝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dcSUBSE6g?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ケロッ!とマーチ",
+  "artist": "角田信明&いはたじゅり",
+  "collection": "【🍠🦍歌切】[2026-04-03]初見さん歓迎！16万人突破感謝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dcSUBSE6g?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おどるポンポコリン",
+  "artist": "さくらももこ",
+  "collection": "【🍠🦍歌切】[2026-04-03]初見さん歓迎！16万人突破感謝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dcSUBSE6g?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Winter Bells",
+  "artist": "倉木麻衣",
+  "collection": "【🍠🦍歌切】[2026-04-03]初見さん歓迎！16万人突破感謝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dcSUBSE6g?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "【🍠🦍歌切】[2026-04-03]初見さん歓迎！16万人突破感謝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dcSUBSE6g?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "【🍠🦍歌切】[2026-04-03]初見さん歓迎！16万人突破感謝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dcSUBSE6g?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アローラ!!",
+  "artist": "松本梨香",
+  "collection": "【🍠🦍歌切】[2026-04-03]初見さん歓迎！16万人突破感謝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dcSUBSE6g?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "【🍠🦍歌切】[2026-04-03]初見さん歓迎！16万人突破感謝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dcSUBSE6g?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "緋色の空",
+  "artist": "川田まみ",
+  "collection": "【🍠🦍歌切】[2026-04-03]初見さん歓迎！16万人突破感謝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dcSUBSE6g?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "only my railgun",
+  "artist": "fripSide",
+  "collection": "【🍠🦍歌切】[2026-04-03]初見さん歓迎！16万人突破感謝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dcSUBSE6g?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "you",
+  "artist": "癒月",
+  "collection": "【🍠🦍歌切】[2026-04-03]初見さん歓迎！16万人突破感謝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dcSUBSE6g?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【🍠🦍歌切】[2026-04-03]初見さん歓迎！16万人突破感謝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dcSUBSE6g?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "異邦人",
+  "artist": "久保田早紀",
+  "collection": "【🍠🦍歌切】[2026-04-03]初見さん歓迎！16万人突破感謝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dcSUBSE6g?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "全ての人の魂の詩",
+  "artist": "小宮知子",
+  "collection": "【🍠🦍歌切】[2026-04-03]初見さん歓迎！16万人突破感謝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dcSUBSE6g?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【🍠🦍歌切】[2026-04-03]初見さん歓迎！16万人突破感謝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dcSUBSE6g?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "マツケンサンバⅡ",
+  "artist": "松平健",
+  "collection": "【🍠🦍歌切】[2026-04-03]初見さん歓迎！16万人突破感謝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dcSUBSE6g?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【🍠🦍歌切】[2026-04-03]初見さん歓迎！16万人突破感謝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dcSUBSE6g?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【🍠🦍歌切】[2026-04-03]初見さん歓迎！16万人突破感謝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dcSUBSE6g?p=23",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Queens Bluff",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-04-03]初見さん歓迎！16万人突破感謝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dcSUBSE6g?p=24",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "【🍠🦍歌切】[2026-04-03]初見さん歓迎！16万人突破感謝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dcSUBSE6g?p=25",
+  "source": "yoshika.js"
+},
+    {
+  "title": "みちしるべ",
+  "artist": "茅原實里",
+  "collection": "【🍠🦍歌切】[2026-04-03]初見さん歓迎！16万人突破感謝！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dcSUBSE6g?p=26",
   "source": "yoshika.js"
 }
 );

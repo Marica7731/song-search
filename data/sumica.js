@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 4/5/2026, 10:33:52 AM
+// 生成时间: 4/5/2026, 11:31:23 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -435,6 +435,238 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-04-01]春日夜晚悠闲地吉他弹唱🎸🌸-sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C29JBcEiP?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "ただ声一つ",
+  "artist": "ロクデナシ",
+  "collection": "【歌切】[2026-04-04]一起享受悠闲的弹唱与熬夜吧-sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VcSUBDEoJ?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "君とインドカレー",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-04-04]一起享受悠闲的弹唱与熬夜吧-sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VcSUBDEoJ?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "ベーコンエピ",
+  "artist": "TOMOO",
+  "collection": "【歌切】[2026-04-04]一起享受悠闲的弹唱与熬夜吧-sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VcSUBDEoJ?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "猫とアレルギー",
+  "artist": "きのこ帝国",
+  "collection": "【歌切】[2026-04-04]一起享受悠闲的弹唱与熬夜吧-sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VcSUBDEoJ?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "Shout Baby",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-04-04]一起享受悠闲的弹唱与熬夜吧-sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VcSUBDEoJ?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-04-04]一起享受悠闲的弹唱与熬夜吧-sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VcSUBDEoJ?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "サリシノハラ",
+  "artist": "みきとP",
+  "collection": "【歌切】[2026-04-04]一起享受悠闲的弹唱与熬夜吧-sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VcSUBDEoJ?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "ヨンジュウナナ",
+  "artist": "みきとP",
+  "collection": "【歌切】[2026-04-04]一起享受悠闲的弹唱与熬夜吧-sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VcSUBDEoJ?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "千鳥",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-04]一起享受悠闲的弹唱与熬夜吧-sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VcSUBDEoJ?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "うめき",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-04]一起享受悠闲的弹唱与熬夜吧-sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VcSUBDEoJ?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "紡ぐ",
+  "artist": "とた",
+  "collection": "【歌切】[2026-04-04]一起享受悠闲的弹唱与熬夜吧-sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VcSUBDEoJ?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "春風",
+  "artist": "Rihwa",
+  "collection": "【歌切】[2026-04-04]一起享受悠闲的弹唱与熬夜吧-sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VcSUBDEoJ?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "春の歌",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-04-04]一起享受悠闲的弹唱与熬夜吧-sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VcSUBDEoJ?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-04-04]一起享受悠闲的弹唱与熬夜吧-sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VcSUBDEoJ?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "横顔",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-04-04]一起享受悠闲的弹唱与熬夜吧-sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VcSUBDEoJ?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "相思相愛",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-04-04]一起享受悠闲的弹唱与熬夜吧-sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VcSUBDEoJ?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "me me she",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-04-04]一起享受悠闲的弹唱与熬夜吧-sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VcSUBDEoJ?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "夜撫でるメノウ",
+  "artist": "Ayase",
+  "collection": "【歌切】[2026-04-04]一起享受悠闲的弹唱与熬夜吧-sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VcSUBDEoJ?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "ナイトルーティーン",
+  "artist": "キタニタツヤ",
+  "collection": "【歌切】[2026-04-04]一起享受悠闲的弹唱与熬夜吧-sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VcSUBDEoJ?p=19",
+  "source": "sumica.js"
+},
+    {
+  "title": "SAKURA",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-04-04]一起享受悠闲的弹唱与熬夜吧-sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VcSUBDEoJ?p=20",
+  "source": "sumica.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-04]一起享受悠闲的弹唱与熬夜吧-sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VcSUBDEoJ?p=21",
+  "source": "sumica.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-04-04]一起享受悠闲的弹唱与熬夜吧-sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VcSUBDEoJ?p=22",
+  "source": "sumica.js"
+},
+    {
+  "title": "笑顔",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-04-04]一起享受悠闲的弹唱与熬夜吧-sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VcSUBDEoJ?p=23",
+  "source": "sumica.js"
+},
+    {
+  "title": "Burning",
+  "artist": "羊文学",
+  "collection": "【歌切】[2026-04-04]一起享受悠闲的弹唱与熬夜吧-sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VcSUBDEoJ?p=24",
+  "source": "sumica.js"
+},
+    {
+  "title": "怪獣の腕の中",
+  "artist": "きのこ帝国",
+  "collection": "【歌切】[2026-04-04]一起享受悠闲的弹唱与熬夜吧-sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VcSUBDEoJ?p=25",
+  "source": "sumica.js"
+},
+    {
+  "title": "櫂",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-04]一起享受悠闲的弹唱与熬夜吧-sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VcSUBDEoJ?p=26",
+  "source": "sumica.js"
+},
+    {
+  "title": "今夜は眠るまで",
+  "artist": "阿部真央",
+  "collection": "【歌切】[2026-04-04]一起享受悠闲的弹唱与熬夜吧-sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VcSUBDEoJ?p=27",
+  "source": "sumica.js"
+},
+    {
+  "title": "澄花原创1",
+  "artist": "澄花",
+  "collection": "【歌切】[2026-04-04]一起享受悠闲的弹唱与熬夜吧-sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VcSUBDEoJ?p=28",
+  "source": "sumica.js"
+},
+    {
+  "title": "澄花原创2",
+  "artist": "澄花",
+  "collection": "【歌切】[2026-04-04]一起享受悠闲的弹唱与熬夜吧-sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VcSUBDEoJ?p=29",
   "source": "sumica.js"
 }
 );
