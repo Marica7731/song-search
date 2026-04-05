@@ -70,6 +70,11 @@
             font-size: 14px;
             color: #495057;
         }
+        .source-meta {
+            font-size: 12px;
+            color: #8c98a4;
+            white-space: nowrap;
+        }
         .filter-btn {
             padding: 7px 16px;
             border: 1px solid #e9ecef;
@@ -812,14 +817,26 @@
 
         function getSourceOptionLabel(source) {
             if (source === 'all') {
-                return `全部 | 投稿 ${bootstrapTotalSongs} | 去重 ${bootstrapTotalUnique}`;
+                return '全部来源';
             }
 
             const stat = SOURCE_STATS[source];
             const fileBase = source.replace('.js', '');
             const alias = FILE_TO_ALIAS[fileBase] || fileBase;
             if (!stat) return alias;
-            return `${alias} | 投稿 ${stat.totalSongs} | 去重 ${stat.totalUnique}`;
+            return alias;
+        }
+
+        function getCurrentSourceMetaText() {
+            if (activeSource === 'all') {
+                return `投稿 ${bootstrapTotalSongs} · 去重 ${bootstrapTotalUnique}`;
+            }
+            if (activeSource === 'missing-artist') {
+                return '仅显示歌手缺失条目';
+            }
+            const stat = SOURCE_STATS[activeSource];
+            if (!stat) return '';
+            return `投稿 ${stat.totalSongs} · 去重 ${stat.totalUnique}`;
         }
 
         function getCopyOptions() {
@@ -1176,23 +1193,13 @@
             const filterBar = document.getElementById('filter-bar');
             filterBar.innerHTML = '<span class="filter-label">🔍 按歌手/来源筛选：</span>';
 
-            const allBtn = document.createElement('button');
-            allBtn.className = `filter-btn ${activeSource === 'all' ? 'active' : ''}`;
-            allBtn.textContent = '全部';
-            allBtn.onclick = () => switchSource('all');
-            filterBar.appendChild(allBtn);
-
-            const spacer = document.createElement('span');
-            spacer.style.width = '10px';
-            filterBar.appendChild(spacer);
-
             const sourceSelect = document.createElement('select');
             sourceSelect.className = 'filter-select';
 
-            const placeholder = document.createElement('option');
-            placeholder.value = '';
-            placeholder.textContent = '选择来源（右侧含投稿/去重）';
-            sourceSelect.appendChild(placeholder);
+            const allOption = document.createElement('option');
+            allOption.value = 'all';
+            allOption.textContent = getSourceOptionLabel('all');
+            sourceSelect.appendChild(allOption);
 
             fileNames.forEach(fileName => {
                 const option = document.createElement('option');
@@ -1201,12 +1208,14 @@
                 sourceSelect.appendChild(option);
             });
 
-            sourceSelect.value = fileNames.includes(activeSource) ? activeSource : '';
-            sourceSelect.onchange = () => {
-                if (!sourceSelect.value) return;
-                switchSource(sourceSelect.value);
-            };
+            sourceSelect.value = fileNames.includes(activeSource) ? activeSource : 'all';
+            sourceSelect.onchange = () => switchSource(sourceSelect.value || 'all');
             filterBar.appendChild(sourceSelect);
+
+            const sourceMeta = document.createElement('span');
+            sourceMeta.className = 'source-meta';
+            sourceMeta.textContent = getCurrentSourceMetaText();
+            filterBar.appendChild(sourceMeta);
 
             const missingBtn = document.createElement('button');
             missingBtn.className = `filter-btn missing-artist ${activeSource === 'missing-artist' ? 'active' : ''}`;

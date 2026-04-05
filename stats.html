@@ -98,6 +98,11 @@
             font-size: 14px;
             color: #495057;
         }
+        .source-meta {
+            font-size: 12px;
+            color: #8c98a4;
+            white-space: nowrap;
+        }
         .filter-btn {
             padding: 7px 16px;
             border: 1px solid #e9ecef;
@@ -1216,27 +1221,13 @@
             const filterBar = document.getElementById('filter-bar');
             filterBar.innerHTML = '<span class="filter-label">🔍 筛选VTuber/来源：</span>';
 
-            const allBtn = document.createElement('button');
-            allBtn.className = `filter-btn ${activeFilter === 'all' ? 'active' : ''}`;
-            allBtn.textContent = '全部';
-            allBtn.onclick = () => { 
-                activeFilter = 'all'; 
-                currentRankPage = 1; 
-                updateAllViews(); 
-            };
-            filterBar.appendChild(allBtn);
-
-            const spacer = document.createElement('span');
-            spacer.style.width = '10px';
-            filterBar.appendChild(spacer);
-
             const sourceSelect = document.createElement('select');
             sourceSelect.className = 'filter-select';
 
-            const placeholder = document.createElement('option');
-            placeholder.value = '';
-            placeholder.textContent = `选择来源（全部：投稿 ${bootstrapTotalSongs} | 去重 ${bootstrapTotalUnique}）`;
-            sourceSelect.appendChild(placeholder);
+            const allOption = document.createElement('option');
+            allOption.value = 'all';
+            allOption.textContent = '全部来源';
+            sourceSelect.appendChild(allOption);
 
             fileNames.forEach(fileName => {
                 const fileBase = fileName.replace('.js', '');
@@ -1250,14 +1241,23 @@
                 sourceSelect.appendChild(option);
             });
 
-            sourceSelect.value = fileNames.includes(activeFilter) ? activeFilter : '';
+            sourceSelect.value = fileNames.includes(activeFilter) ? activeFilter : 'all';
             sourceSelect.onchange = () => {
-                if (!sourceSelect.value) return;
-                activeFilter = sourceSelect.value;
+                activeFilter = sourceSelect.value || 'all';
                 currentRankPage = 1;
                 updateAllViews();
             };
             filterBar.appendChild(sourceSelect);
+
+            const sourceMeta = document.createElement('span');
+            sourceMeta.className = 'source-meta';
+            if (activeFilter === 'all') {
+                sourceMeta.textContent = `投稿 ${bootstrapTotalSongs} · 去重 ${bootstrapTotalUnique}`;
+            } else {
+                const stat = SOURCE_STATS[activeFilter];
+                sourceMeta.textContent = stat ? `投稿 ${stat.totalSongs} · 去重 ${stat.totalUnique}` : '';
+            }
+            filterBar.appendChild(sourceMeta);
         }
 
         // --- 辅助：生成唯一ID ---

@@ -38,12 +38,21 @@ function getSourceAlias(source) {
 
 function getSourceOptionLabel(source) {
   if (source === 'all') {
-    return `全部 | 投稿 ${bootstrapTotalSongs} | 去重 ${bootstrapTotalUnique}`;
+    return '全部来源';
   }
   const stat = sourceStats[source];
   const alias = getSourceAlias(source);
   if (!stat) return alias;
-  return `${alias} | 投稿 ${stat.totalSongs} | 去重 ${stat.totalUnique}`;
+  return alias;
+}
+
+function getCurrentSourceMetaText() {
+  if (currentTab === 'all') {
+    return `投稿 ${bootstrapTotalSongs} · 去重 ${bootstrapTotalUnique}`;
+  }
+  const stat = sourceStats[currentTab];
+  if (!stat) return '';
+  return `投稿 ${stat.totalSongs} · 去重 ${stat.totalUnique}`;
 }
 
 function isSameSong(songA, songB) {
@@ -236,19 +245,13 @@ function renderSourceTabs() {
   if (!container) return;
   container.innerHTML = '';
 
-  const allTab = document.createElement('div');
-  allTab.className = `source-tab ${currentTab === 'all' ? 'active' : ''}`;
-  allTab.textContent = getSourceOptionLabel('all');
-  allTab.onclick = () => switchSourceTab('all');
-  container.appendChild(allTab);
-
   const select = document.createElement('select');
   select.className = 'source-select';
 
-  const placeholder = document.createElement('option');
-  placeholder.value = '';
-  placeholder.textContent = '选择来源（右侧含投稿/去重）';
-  select.appendChild(placeholder);
+  const allOption = document.createElement('option');
+  allOption.value = 'all';
+  allOption.textContent = getSourceOptionLabel('all');
+  select.appendChild(allOption);
 
   fileList.forEach(fileName => {
     const option = document.createElement('option');
@@ -257,12 +260,14 @@ function renderSourceTabs() {
     select.appendChild(option);
   });
 
-  select.value = currentTab === 'all' ? '' : currentTab;
-  select.addEventListener('change', () => {
-    if (!select.value) return;
-    switchSourceTab(select.value);
-  });
+  select.value = currentTab;
+  select.addEventListener('change', () => switchSourceTab(select.value || 'all'));
   container.appendChild(select);
+
+  const meta = document.createElement('span');
+  meta.className = 'source-meta';
+  meta.textContent = getCurrentSourceMetaText();
+  container.appendChild(meta);
 }
 
 function switchSourceTab(tab) {
