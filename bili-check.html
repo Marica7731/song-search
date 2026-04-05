@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>歌库跨库重复检查</title>
-<link rel="icon" href="https://cdn-icons-png.flaticon.com/16/889/889666.png">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <style>
 /* 基础样式 */
 *{margin:0;padding:0;box-sizing:border-box}
@@ -161,12 +161,12 @@ body{font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-ser
   <div class="header">
     <h2>🎵 歌曲数据管理工具</h2>
     <div class="sub-header">
-      <a href="index.html" class="nav-link">返回首页</a> | 
-      <a href="bv-dup-check.html" class="nav-link">BV号查重</a> |
-      <a href="title-artist-dup-check.html" class="nav-link">歌名-歌手查重</a> |
-      <a href="title-artist-check.html" class="nav-link">歌名-歌手查询/校验</a> |
-      <a href="stats.html" class="nav-link">查看演唱者统计与排行</a>
-    </div>
+      <a href="/" class="nav-link">返回首页</a> | 
+      <a href="/bv" class="nav-link">BV号查重</a> |
+      <a href="/dup" class="nav-link">歌名-歌手查重</a> |
+      <a href="/check" class="nav-link">歌名-歌手查询/校验</a> |
+      <a href="/stats" class="nav-link">查看演唱者统计与排行</a>
+    </div>    <div id="updateSongsLastRunPlaceholder" class="last-run-badge">update-songs 上次执行：加载中…</div>
     <p>支持BV号查重、歌名-歌手批量查询/校验 | 自动生成排列组合</p>
   </div>
 
@@ -1002,5 +1002,12 @@ function init() {
 // 启动应用
 document.addEventListener('DOMContentLoaded', init);
 </script>
+  <script src="/last-run-badge.js"></script>
 </body>
 </html>
+
+
+
+
+
+

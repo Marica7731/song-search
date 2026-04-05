@@ -6,6 +6,9 @@ const BILI_VIDEO_PREFIX = 'https://www.bilibili.com/video/';
 const BILI_VIEW_API = 'https://api.bilibili.com/x/web-interface/view?bvid=';
 const BV_REGEX = /BV[0-9a-zA-Z]+/;
 const CLEAN_SUFFIX_REGEX = /(\s*\(\d+\)|_(sub|copy|backup|1080p|720p|\d+))$/i;
+const TRAILING_TAG_REGEX = /(?:\s*(?:\[[^\]]*\]|【[^】]*】|【[^】]*))+$/;
+const LEADING_SOURCE_REGEX = /^(?:\s*【[^】]+】)+\s*/;
+const LEADING_INDEX_REGEX = /^(?:\s*\[\d+(?:\s*[-/]\s*\d+)+\]\.?\s*|\s*\d+\.\s+|\s*P\d+[：:]\s*)/i;
 
 const SINGER_CONFIGS = [
     { bvids: ["BV1JRwUzoEpM","BV1icwSzXEYv"], file: "asuyumekanae", alias: "明日夢かなえ" },
@@ -41,6 +44,7 @@ const DATA_DIR = path.join(ROOT_DIR, 'data');
 const REPORT_DIR = path.join(ROOT_DIR, 'reports');
 const INDEX_PATH = path.join(DATA_DIR, 'index.json');
 const METADATA_CACHE_PATH = path.join(REPORT_DIR, 'bv-metadata-cache.json');
+const UPDATE_META_PATH = path.join(REPORT_DIR, 'update-songs-meta.json');
 
 function ensureDir(dirPath) {
     if (!fs.existsSync(dirPath)) {
@@ -101,6 +105,31 @@ function loadMetadataCache() {
 
 function saveMetadataCache(cache) {
     fs.writeFileSync(METADATA_CACHE_PATH, JSON.stringify(cache, null, 2), 'utf8');
+}
+
+function formatShanghaiDateTime(date = new Date()) {
+    return new Intl.DateTimeFormat('sv-SE', {
+        timeZone: 'Asia/Shanghai',
+        year: 'numeric',
+        month: '2-digit',
+        day: '2-digit',
+        hour: '2-digit',
+        minute: '2-digit',
+        second: '2-digit',
+        hour12: false
+    }).format(date);
+}
+
+function writeUpdateMeta(successCount) {
+    const now = new Date();
+    const payload = {
+        completedAtMs: now.getTime(),
+        completedAtIso: now.toISOString(),
+        completedAtShanghai: formatShanghaiDateTime(now),
+        successCount,
+        totalConfigs: RESOLVED_SINGER_CONFIGS.length
+    };
+    fs.writeFileSync(UPDATE_META_PATH, JSON.stringify(payload, null, 2), 'utf8');
 }
 
 async function fetchJson(url) {
@@ -174,22 +203,41 @@ function cleanTitle(rawTitle) {
         previousLength = title.length;
         title = title.replace(/\[[^\[\]]*\]\s*$/, '');
     } while (title.length !== previousLength);
-    title = title.trim()
-        .replace(/^\d+\.\s*/, '')
-        .replace(/^P\d+[：:]\s*/, '')
+    title = title
+        .replace(TRAILING_TAG_REGEX, '')
         .trim();
+
+    do {
+        previousLength = title.length;
+        title = title
+            .replace(LEADING_SOURCE_REGEX, '')
+            .replace(LEADING_INDEX_REGEX, '')
+            .trim();
+    } while (title.length !== previousLength);
+
     return title.replace(CLEAN_SUFFIX_REGEX, '').trim();
 }
 
+function cleanArtist(rawArtist) {
+    let artist = String(rawArtist || '').trim();
+    artist = artist.replace(TRAILING_TAG_REGEX, '').trim();
+    artist = artist.replace(LEADING_SOURCE_REGEX, '').trim();
+    return artist.replace(CLEAN_SUFFIX_REGEX, '').trim();
+}
+
 function splitSongTitleAndArtist(partTitle) {
-    const cleaned = cleanTitle(partTitle);
+    const normalized = String(partTitle || '')
+        .replace(LEADING_SOURCE_REGEX, '')
+        .replace(LEADING_INDEX_REGEX, '')
+        .trim();
+    const cleaned = cleanTitle(normalized);
     let title = cleaned;
     let artist = DEFAULT_ARTIST_TEXT;
 
-    if (cleaned.includes(' - ')) {
-        const parts = cleaned.split(' - ');
+    if (normalized.includes(' - ')) {
+        const parts = normalized.split(' - ');
         title = cleanTitle(parts[0]);
-        artist = cleanTitle(parts[parts.length - 1]) || DEFAULT_ARTIST_TEXT;
+        artist = cleanArtist(parts[parts.length - 1]) || DEFAULT_ARTIST_TEXT;
     }
 
     return { title, artist };
@@ -336,10 +384,12 @@ async function main() {
 
     generateIndexJson();
     saveMetadataCache(metadataCache);
+    writeUpdateMeta(successCount);
 
     console.log('\n========================================');
     console.log(`   🏁 任务结束: 更新 ${successCount}/${RESOLVED_SINGER_CONFIGS.length} 位歌手`);
     console.log(`   🧱 BV 元数据缓存: ${METADATA_CACHE_PATH}`);
+    console.log(`   🕒 执行时间记录: ${UPDATE_META_PATH}`);
     console.log('========================================');
 }
 

@@ -8,6 +8,7 @@ const DATA_DIR = path.join(ROOT, 'data');
 const INDEX_PATH = path.join(DATA_DIR, 'index.json');
 const REPORT_DIR = path.join(ROOT, 'reports');
 const GROWTH_HISTORY_PATH = path.join(REPORT_DIR, 'song-growth-history.json');
+const UPDATE_SONGS_META_PATH = path.join(REPORT_DIR, 'update-songs-meta.json');
 const PORT = Number(process.env.PORT || 8080);
 
 let store = {
@@ -17,6 +18,17 @@ let store = {
   totalUnique: 0,
   titleEntries: [],
   titleMap: new Map()
+};
+
+const ROUTE_ALIASES = {
+  '/': 'index.html',
+  '/stats': 'stats.html',
+  '/bv': 'bv-dup-check.html',
+  '/dup': 'title-artist-dup-check.html',
+  '/check': 'title-artist-check.html',
+  '/growth': 'song-growth.html',
+  '/convert': 'converter.html',
+  '/legacy': 'bili-check.html'
 };
 
 function isValidArtist(artist) {
@@ -227,6 +239,56 @@ function formatShanghaiDate(ts) {
     month: '2-digit',
     day: '2-digit'
   }).format(new Date(ts));
+}
+
+function formatShanghaiDateTime(ts) {
+  return new Intl.DateTimeFormat('sv-SE', {
+    timeZone: 'Asia/Shanghai',
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+    hour: '2-digit',
+    minute: '2-digit',
+    second: '2-digit',
+    hour12: false
+  }).format(new Date(ts));
+}
+
+function getUpdateSongsMeta() {
+  if (fs.existsSync(UPDATE_SONGS_META_PATH)) {
+    try {
+      const meta = readJson(UPDATE_SONGS_META_PATH);
+      const completedAtMs = Number(meta.completedAtMs || 0);
+      return {
+        source: 'update-songs-meta',
+        completedAtMs: completedAtMs || null,
+        completedAtShanghai: meta.completedAtShanghai || (completedAtMs ? formatShanghaiDateTime(completedAtMs) : null),
+        successCount: Number(meta.successCount || 0),
+        totalConfigs: Number(meta.totalConfigs || 0)
+      };
+    } catch {
+      // fall through to mtime fallback
+    }
+  }
+
+  if (fs.existsSync(INDEX_PATH)) {
+    const stat = fs.statSync(INDEX_PATH);
+    return {
+      source: 'index-mtime-fallback',
+      completedAtMs: stat.mtimeMs,
+      completedAtShanghai: formatShanghaiDateTime(stat.mtimeMs),
+      successCount: null,
+      totalConfigs: null
+    };
+  }
+
+  return {
+    source: 'unavailable',
+    completedAtMs: null,
+    completedAtShanghai: null,
+    successCount: null,
+    totalConfigs: null
+  };
 }
 
 function buildDailyGrowthRows(history) {
@@ -693,6 +755,12 @@ function handleSongGrowth(res) {
   });
 }
 
+function handleSiteMeta(res) {
+  sendJson(res, 200, {
+    updateSongsLastRun: getUpdateSongsMeta()
+  });
+}
+
 function handleTitleSuggest(reqUrl, res) {
   const keyword = normalizeString(reqUrl.searchParams.get('q') || '');
   if (!keyword) {
@@ -755,7 +823,11 @@ function handleInternalReload(req, res) {
 
 function serveStatic(reqUrl, res) {
   let pathname = decodeURIComponent(reqUrl.pathname);
-  if (pathname === '/') pathname = '/index.html';
+  if (ROUTE_ALIASES[pathname]) {
+    pathname = `/${ROUTE_ALIASES[pathname]}`;
+  } else if (pathname === '/') {
+    pathname = '/index.html';
+  }
   const filePath = path.normalize(path.join(ROOT, pathname));
   if (!filePath.startsWith(ROOT)) {
     sendJson(res, 403, { error: 'Forbidden' });
@@ -823,6 +895,10 @@ const server = http.createServer(async (req, res) => {
   }
   if (reqUrl.pathname === '/api/song-growth') {
     handleSongGrowth(res);
+    return;
+  }
+  if (reqUrl.pathname === '/api/site-meta') {
+    handleSiteMeta(res);
     return;
   }
   if (reqUrl.pathname === '/api/title-artist/suggest') {

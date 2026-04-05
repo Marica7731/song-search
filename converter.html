@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>B站歌单JSON -> songData转换器</title>
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
     <style>
         body { font-family: sans-serif; max-width: 1000px; margin: 20px auto; padding: 20px; background: #f4f4f4; }
         h2 { border-bottom: 2px solid #00a1d6; padding-bottom: 10px; color: #333; }
@@ -22,11 +23,11 @@
 
     <h2>🎵 数据自动转换器</h2>
     <div class="module-nav">
-        <a href="index.html">首页</a> |
-        <a href="bv-dup-check.html">BV号查重</a> |
-        <a href="title-artist-dup-check.html">歌名-歌手查重</a> |
-        <a href="title-artist-check.html">歌名-歌手查询/校验</a> |
-        <a href="stats.html">统计页</a>
+        <a href="/">首页</a> |
+        <a href="/bv">BV号查重</a> |
+        <a href="/dup">歌名-歌手查重</a> |
+        <a href="/check">歌名-歌手查询/校验</a> |
+        <a href="/stats">统计页</a>
     </div>
     
     <div class="note">
@@ -137,5 +138,12 @@ document.getElementById('output-code').value = outputStr;
             alert("已复制到剪贴板！请去替换 HTML 文件里的 songData。");
         }
     </script>
+  <script src="/last-run-badge.js"></script>
 </body>
 </html>
+
+
+
+
+
+

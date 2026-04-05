@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>歌曲查询站 - B站分P直达</title>
-    <link rel="icon" href="https://cdn-icons-png.flaticon.com/16/889/889666.png">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
     <style>
         /* 全局样式 */
         * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -621,12 +621,12 @@
     <h1>🎵 切片歌曲数据查询站</h1>
     <div class="sub-header">
     首页 |
-    <a href="stats.html" class="nav-link">查看演唱者统计与排行</a> |
-    <a href="bv-dup-check.html" class="nav-link">BV号查重</a> |
-    <a href="title-artist-dup-check.html" class="nav-link">歌名-歌手查重</a> |
-    <a href="title-artist-check.html" class="nav-link">歌名-歌手查询/校验</a> |
-    <a href="song-growth.html" class="nav-link">歌曲增长日报</a>
-    </div>
+    <a href="/stats" class="nav-link">查看演唱者统计与排行</a> |
+    <a href="/bv" class="nav-link">BV号查重</a> |
+    <a href="/dup" class="nav-link">歌名-歌手查重</a> |
+    <a href="/check" class="nav-link">歌名-歌手查询/校验</a> |
+    <a href="/growth" class="nav-link">歌曲增长日报</a>
+    </div>    <div id="updateSongsLastRunPlaceholder" class="last-run-badge">update-songs 上次执行：加载中…</div>
 
     <div class="filter-search-container">
         <div class="filter-bar" id="filter-bar">
@@ -1705,5 +1705,12 @@
             bootstrap();
         });
     </script>
+  <script src="/last-run-badge.js"></script>
 </body>
 </html>
+
+
+
+
+
+
