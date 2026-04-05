@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 4/5/2026, 8:26:52 PM
+// 生成时间: 4/5/2026, 9:27:43 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -29451,6 +29451,190 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-04-03]初見さん歓迎！16万人突破感謝！YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dcSUBSE6g?p=26",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春",
+  "collection": "【🍠🦍歌切】[2026-04-05]初見さん歓迎！深夜だけど歌うぞ～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KmS9B9Ee3?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アローラ!!",
+  "artist": "松本梨香",
+  "collection": "【🍠🦍歌切】[2026-04-05]初見さん歓迎！深夜だけど歌うぞ～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KmS9B9Ee3?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "負けないで",
+  "artist": "ZARD",
+  "collection": "【🍠🦍歌切】[2026-04-05]初見さん歓迎！深夜だけど歌うぞ～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KmS9B9Ee3?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【🍠🦍歌切】[2026-04-05]初見さん歓迎！深夜だけど歌うぞ～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KmS9B9Ee3?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【🍠🦍歌切】[2026-04-05]初見さん歓迎！深夜だけど歌うぞ～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KmS9B9Ee3?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "勇気100％",
+  "artist": "光GENJI",
+  "collection": "【🍠🦍歌切】[2026-04-05]初見さん歓迎！深夜だけど歌うぞ～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KmS9B9Ee3?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "God knows",
+  "artist": "涼宮ハルヒ",
+  "collection": "【🍠🦍歌切】[2026-04-05]初見さん歓迎！深夜だけど歌うぞ～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KmS9B9Ee3?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "【🍠🦍歌切】[2026-04-05]初見さん歓迎！深夜だけど歌うぞ～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KmS9B9Ee3?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Over Soul",
+  "artist": "林原めぐみ",
+  "collection": "【🍠🦍歌切】[2026-04-05]初見さん歓迎！深夜だけど歌うぞ～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KmS9B9Ee3?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Wake up!",
+  "artist": "AAA",
+  "collection": "【🍠🦍歌切】[2026-04-05]初見さん歓迎！深夜だけど歌うぞ～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KmS9B9Ee3?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Falco-ファルコ-",
+  "artist": "島谷ひとみ",
+  "collection": "【🍠🦍歌切】[2026-04-05]初見さん歓迎！深夜だけど歌うぞ～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KmS9B9Ee3?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-04-05]初見さん歓迎！深夜だけど歌うぞ～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KmS9B9Ee3?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ロマンスの神様",
+  "artist": "広瀬香美",
+  "collection": "【🍠🦍歌切】[2026-04-05]初見さん歓迎！深夜だけど歌うぞ～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KmS9B9Ee3?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "オラは人気者",
+  "artist": "クレヨンしんちゃん",
+  "collection": "【🍠🦍歌切】[2026-04-05]初見さん歓迎！深夜だけど歌うぞ～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KmS9B9Ee3?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "学園天国",
+  "artist": "Dream5",
+  "collection": "【🍠🦍歌切】[2026-04-05]初見さん歓迎！深夜だけど歌うぞ～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KmS9B9Ee3?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "小悪魔だってかまわない！",
+  "artist": "HoneyWorks feat. 初音ミク",
+  "collection": "【🍠🦍歌切】[2026-04-05]初見さん歓迎！深夜だけど歌うぞ～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KmS9B9Ee3?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【🍠🦍歌切】[2026-04-05]初見さん歓迎！深夜だけど歌うぞ～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KmS9B9Ee3?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "カサブタ",
+  "artist": "千綿偉功",
+  "collection": "【🍠🦍歌切】[2026-04-05]初見さん歓迎！深夜だけど歌うぞ～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KmS9B9Ee3?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "May'n 中島愛",
+  "collection": "【🍠🦍歌切】[2026-04-05]初見さん歓迎！深夜だけど歌うぞ～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KmS9B9Ee3?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Suspect",
+  "artist": "ホロライブ/ロボ子/アキ・ローゼンタール/百鬼あやめ",
+  "collection": "【🍠🦍歌切】[2026-04-05]初見さん歓迎！深夜だけど歌うぞ～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KmS9B9Ee3?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Shiny Smily Story",
+  "artist": "ホロライブ",
+  "collection": "【🍠🦍歌切】[2026-04-05]初見さん歓迎！深夜だけど歌うぞ～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KmS9B9Ee3?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "For フルーツバスケット",
+  "artist": "岡崎律子",
+  "collection": "【🍠🦍歌切】[2026-04-05]初見さん歓迎！深夜だけど歌うぞ～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KmS9B9Ee3?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "フローリア",
+  "artist": "佐香智久",
+  "collection": "【🍠🦍歌切】[2026-04-05]初見さん歓迎！深夜だけど歌うぞ～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KmS9B9Ee3?p=23",
   "source": "yoshika.js"
 }
 );

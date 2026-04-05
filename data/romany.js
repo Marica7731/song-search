@@ -1,6 +1,6 @@
 // ロマニ - 歌单数据 (多合集汇总)
 // 来源: BV1KHXxBUErU, BV1iHQXBzEgU
-// 生成时间: 4/5/2026, 8:31:51 PM
+// 生成时间: 4/5/2026, 9:32:32 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -443,6 +443,110 @@ window.SONG_DATA.push(
   "collection": "【ロマニードットアイオー弾き語り歌切】星期日定期歌回 ── 直播结束后想悠闲度过[2026-03-29][JObN2--Hvmk]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bbXRBiEz8?p=15",
+  "source": "romany.js"
+},
+    {
+  "title": "愛を伝えたいだとか",
+  "artist": "あいみょん",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-05]周日惯例歌回──✦夜晚用歌声和吉他放松🌙𓂃𝄞ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QESRBaE6g?p=1",
+  "source": "romany.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-05]周日惯例歌回──✦夜晚用歌声和吉他放松🌙𓂃𝄞ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QESRBaE6g?p=2",
+  "source": "romany.js"
+},
+    {
+  "title": "Sunday n”AI”ght",
+  "artist": "ロマニードットアイオー with BT",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-05]周日惯例歌回──✦夜晚用歌声和吉他放松🌙𓂃𝄞ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QESRBaE6g?p=3",
+  "source": "romany.js"
+},
+    {
+  "title": "アイノカタチ",
+  "artist": "MISIA",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-05]周日惯例歌回──✦夜晚用歌声和吉他放松🌙𓂃𝄞ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QESRBaE6g?p=4",
+  "source": "romany.js"
+},
+    {
+  "title": "ミッドナイト・リフレクション",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-05]周日惯例歌回──✦夜晚用歌声和吉他放松🌙𓂃𝄞ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QESRBaE6g?p=5",
+  "source": "romany.js"
+},
+    {
+  "title": "ここでキスして",
+  "artist": "椎名林檎",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-05]周日惯例歌回──✦夜晚用歌声和吉他放松🌙𓂃𝄞ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QESRBaE6g?p=6",
+  "source": "romany.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-05]周日惯例歌回──✦夜晚用歌声和吉他放松🌙𓂃𝄞ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QESRBaE6g?p=7",
+  "source": "romany.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-05]周日惯例歌回──✦夜晚用歌声和吉他放松🌙𓂃𝄞ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QESRBaE6g?p=8",
+  "source": "romany.js"
+},
+    {
+  "title": "春",
+  "artist": "阿部真央",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-05]周日惯例歌回──✦夜晚用歌声和吉他放松🌙𓂃𝄞ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QESRBaE6g?p=9",
+  "source": "romany.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-05]周日惯例歌回──✦夜晚用歌声和吉他放松🌙𓂃𝄞ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QESRBaE6g?p=10",
+  "source": "romany.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-05]周日惯例歌回──✦夜晚用歌声和吉他放松🌙𓂃𝄞ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QESRBaE6g?p=11",
+  "source": "romany.js"
+},
+    {
+  "title": "ギターと孤独と蒼い惑星",
+  "artist": "結束バンド",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-05]周日惯例歌回──✦夜晚用歌声和吉他放松🌙𓂃𝄞ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QESRBaE6g?p=12",
+  "source": "romany.js"
+},
+    {
+  "title": "泣イテイイヨ",
+  "artist": "ロマニードットアイオー",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-05]周日惯例歌回──✦夜晚用歌声和吉他放松🌙𓂃𝄞ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QESRBaE6g?p=13",
   "source": "romany.js"
 }
 );

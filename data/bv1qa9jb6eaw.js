@@ -1,6 +1,6 @@
 // 陽月るるふ - 歌单数据 (多合集汇总)
 // 来源: BV1Qa9JB6EAw
-// 生成时间: 4/5/2026, 8:36:02 PM
+// 生成时间: 4/5/2026, 9:36:41 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -467,6 +467,118 @@ window.SONG_DATA.push(
   "collection": "🐺🎀 打卡生日月每日歌回 Day5 陽月るるふ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EjSSBbEhj?p=8",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gWSRBFES5?p=1",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "ブラック★ロックシューター",
+  "artist": "supercell",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gWSRBFES5?p=2",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "supercell",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gWSRBFES5?p=3",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gWSRBFES5?p=4",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gWSRBFES5?p=5",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "プラズマ",
+  "artist": "米津玄師",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gWSRBFES5?p=6",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "BOW AND ARROW",
+  "artist": "米津玄師",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gWSRBFES5?p=7",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gWSRBFES5?p=8",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "メリーゴーランド",
+  "artist": "優里",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gWSRBFES5?p=9",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "CITRUS",
+  "artist": "Da-iCE",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gWSRBFES5?p=10",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "才悩人応援歌",
+  "artist": "BUMP OF CHIKEN",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gWSRBFES5?p=11",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "ギター孤独と蒼い惑星",
+  "artist": "結束バンド",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gWSRBFES5?p=12",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "あのバンド",
+  "artist": "結束バンド",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gWSRBFES5?p=13",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "またあした",
+  "artist": "ふわりP",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gWSRBFES5?p=14",
   "source": "bv1qa9jb6eaw.js"
 }
 );
