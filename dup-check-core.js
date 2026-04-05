@@ -11,6 +11,7 @@ let showOnlyUnique = false;
 let currentMode = 'bv';
 let bvInputItems = [];
 let titleArtistInputItems = [];
+let dataLoaded = false;
 
 function extractBV(str) {
   if (!str) return '';
@@ -72,32 +73,49 @@ function parseTitleArtistInput(input) {
     .filter(Boolean)
     .map(line => line.replace(/^\|\s*/, '').replace(/\s*\|$/, '').trim())
     .filter(line => line && !/^[-|]+$/.test(line));
-  const fullFormatRegex = /^(\d+)[\.\)]\s*(.+?)\s*-\s*(.+)$/;
-  const normalRegex = /^(.+?)\s*-\s*(.+)$/;
+  const numberedTitleArtistRegex = /^(\d+)[\.\)]\s+(.+?)\s*-\s*(.+)$/;
+  const titleArtistRegex = /^(.+?)\s*-\s*(.+)$/;
+  const numberedSingleRegex = /^(\d+)[\.\)]\s+(.+)$/;
   const result = [];
 
   lines.forEach(line => {
-    const full = line.match(fullFormatRegex);
-    if (full) {
+    const numberedTitleArtist = line.match(numberedTitleArtistRegex);
+    if (numberedTitleArtist) {
       result.push({
-        title: full[2].trim(),
-        artist: full[3].trim(),
+        type: 'titleArtist',
+        title: numberedTitleArtist[2].trim(),
+        artist: numberedTitleArtist[3].trim(),
         originalLine: line
       });
       return;
     }
-    const normal = line.match(normalRegex);
+
+    const normal = line.match(titleArtistRegex);
     if (normal) {
       result.push({
+        type: 'titleArtist',
         title: normal[1].trim(),
         artist: normal[2].trim(),
         originalLine: line
       });
       return;
     }
+
+    const numberedSingle = line.match(numberedSingleRegex);
+    if (numberedSingle) {
+      result.push({
+        type: 'artistOnly',
+        title: '',
+        artist: numberedSingle[2].trim(),
+        originalLine: line
+      });
+      return;
+    }
+
     result.push({
-      title: line.trim(),
-      artist: '',
+      type: 'artistOnly',
+      title: '',
+      artist: line.trim(),
       originalLine: line
     });
   });
@@ -108,18 +126,32 @@ function parseTitleArtistInput(input) {
 async function loadAllData() {
   try {
     try {
+      const bootstrapRes = await fetch('/api/bootstrap');
+      if (bootstrapRes.ok) {
+        const bootstrapData = await bootstrapRes.json();
+        fileList = bootstrapData.files || [];
+        fileAlias = bootstrapData.fileToAlias || {};
+        renderSourceTabs();
+        updateStat('来源已加载，正在加载数据...');
+      }
+    } catch (bootstrapError) {
+      console.warn('Bootstrap 加载失败：', bootstrapError);
+    }
+
+    try {
       const apiRes = await fetch('/api/all-songs');
       if (!apiRes.ok) throw new Error(`API 状态码 ${apiRes.status}`);
       const apiData = await apiRes.json();
-      fileList = apiData.files || [];
-      fileAlias = apiData.fileToAlias || {};
+      fileList = apiData.files || fileList || [];
+      fileAlias = apiData.fileToAlias || fileAlias || {};
       allSongs = Array.isArray(apiData.items) ? apiData.items : [];
     } catch (apiError) {
       console.warn('API 数据加载失败，回退到静态模式：', apiError);
       const indexRes = await fetch('data/index.json');
       const indexData = await indexRes.json();
-      fileList = indexData.files || [];
-      fileAlias = indexData.fileToAlias || {};
+      fileList = indexData.files || fileList || [];
+      fileAlias = indexData.fileToAlias || fileAlias || {};
+      renderSourceTabs();
 
       const loadTasks = fileList.map(fileName =>
         fetch(`data/${fileName}`)
@@ -144,6 +176,7 @@ async function loadAllData() {
       allSongs = songArrays.flat();
     }
 
+    dataLoaded = true;
     renderSourceTabs();
     updateStat('数据已加载，请输入内容开始分析');
   } catch (err) {
@@ -221,7 +254,7 @@ function search() {
   } else {
     const input = (document.getElementById('titleArtistInput')?.value || '').trim();
     if (!input) {
-      alert('请输入 歌名 - 歌手 格式（可批量）');
+      alert('请输入歌手或 歌名 - 歌手 格式（可批量）');
       return;
     }
     titleArtistInputItems = parseTitleArtistInput(input);
@@ -283,10 +316,15 @@ function analyzeDuplicates() {
     titleArtistInputItems.forEach(inputItem => {
       const titleKey = normalizeText(inputItem.title);
       const artistKey = normalizeText(inputItem.artist);
+      let dupList = [];
 
-      let dupList = currentPool.filter(song => normalizeText(song.title) === titleKey);
-      if (inputItem.artist) {
-        dupList = dupList.filter(song => normalizeText(song.artist) === artistKey);
+      if (inputItem.type === 'artistOnly') {
+        dupList = currentPool.filter(song => normalizeText(song.artist) === artistKey);
+      } else {
+        dupList = currentPool.filter(song => normalizeText(song.title) === titleKey);
+        if (inputItem.artist) {
+          dupList = dupList.filter(song => normalizeText(song.artist) === artistKey);
+        }
       }
 
       if (dupList.length === 0) {
@@ -294,7 +332,7 @@ function analyzeDuplicates() {
           isNotFound: false,
           originalInput: inputItem.originalLine,
           song: {
-            title: inputItem.title || '未知歌曲',
+            title: inputItem.title || '（仅歌手查询）',
             artist: inputItem.artist || '',
             source: '',
             link: ''
@@ -302,7 +340,8 @@ function analyzeDuplicates() {
           dupList: [],
           dupCount: 0,
           isDup: false,
-          isFirst: true
+          isFirst: true,
+          queryType: inputItem.type || 'titleArtist'
         });
       } else {
         analysisResult.push({
@@ -312,7 +351,8 @@ function analyzeDuplicates() {
           dupList,
           dupCount: dupList.length,
           isDup: true,
-          isFirst: false
+          isFirst: false,
+          queryType: inputItem.type || 'titleArtist'
         });
       }
     });

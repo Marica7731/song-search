@@ -64,9 +64,10 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;b
 
   <div class="search-box">
     <textarea id="titleArtistInput" placeholder="输入格式支持：
-1) 01. 歌名 - 歌手
-2) 歌名
-3) 歌名 - 歌手
+1) 歌手
+2) 歌名 - 歌手
+3) 01. 歌手
+4) 01. 歌名 - 歌手
 可批量每行一条"></textarea>
     <button id="searchBtn">开始分析</button>
   </div>
@@ -74,7 +75,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;b
   <div class="source-tabs" id="tabContainer"></div>
 
   <div class="filter-bar">
-    <div class="stat-info" id="statInfo">请先输入 歌名-歌手 开始分析</div>
+    <div class="stat-info" id="statInfo">请先输入歌手或 歌名-歌手 开始分析</div>
     <div>
       <button class="filter-btn active" id="showAllBtn">显示全部</button>
       <button class="filter-btn" id="showUniqueBtn">只看非重复</button>
@@ -109,6 +110,7 @@ document.addEventListener('DOMContentLoaded', () => {
   <script src="/last-run-badge.js"></script>
 </body>
 </html>
+
 
 
 
