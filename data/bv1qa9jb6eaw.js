@@ -1,6 +1,6 @@
 // 陽月るるふ - 歌单数据 (多合集汇总)
 // 来源: BV1Qa9JB6EAw
-// 生成时间: 4/5/2026, 6:23:42 AM
+// 生成时间: 4/5/2026, 8:03:05 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -403,6 +403,70 @@ window.SONG_DATA.push(
   "collection": "🐺🎀 打卡生日月每日歌回 Day4 陽月るるふ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dbDNBvEsv?p=7",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "泡沫サタデーナイト！",
+  "artist": "モーニング娘。'16",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day5 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjSSBbEhj?p=1",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day5 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjSSBbEhj?p=2",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40mP",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day5 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjSSBbEhj?p=3",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day5 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjSSBbEhj?p=4",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day5 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjSSBbEhj?p=5",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day5 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjSSBbEhj?p=6",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "それがあなたの幸せとしても",
+  "artist": "Heavenz",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day5 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjSSBbEhj?p=7",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "soranji",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day5 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjSSBbEhj?p=8",
   "source": "bv1qa9jb6eaw.js"
 }
 );
