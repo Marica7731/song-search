@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 4/5/2026, 8:37:05 AM
+// 生成时间: 4/5/2026, 9:33:22 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6891,6 +6891,134 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=21",
+  "source": "naraetan.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-04-04]深夜歌回开唱！周六午夜限定心动舞台💓なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ktSUBwEjv?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【歌切】[2026-04-04]深夜歌回开唱！周六午夜限定心动舞台💓なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ktSUBwEjv?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "すずめ",
+  "artist": "RADWIMPS feat.十明",
+  "collection": "【歌切】[2026-04-04]深夜歌回开唱！周六午夜限定心动舞台💓なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ktSUBwEjv?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-04-04]深夜歌回开唱！周六午夜限定心动舞台💓なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ktSUBwEjv?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-04-04]深夜歌回开唱！周六午夜限定心动舞台💓なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ktSUBwEjv?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "再会",
+  "artist": "LiSA×Uru",
+  "collection": "【歌切】[2026-04-04]深夜歌回开唱！周六午夜限定心动舞台💓なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ktSUBwEjv?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Diary",
+  "artist": "KK",
+  "collection": "【歌切】[2026-04-04]深夜歌回开唱！周六午夜限定心动舞台💓なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ktSUBwEjv?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "君に最後の口づけを",
+  "artist": "majiko",
+  "collection": "【歌切】[2026-04-04]深夜歌回开唱！周六午夜限定心动舞台💓なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ktSUBwEjv?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "愛唄",
+  "artist": "GReeeeN",
+  "collection": "【歌切】[2026-04-04]深夜歌回开唱！周六午夜限定心动舞台💓なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ktSUBwEjv?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "アイノカタチ",
+  "artist": "MISIA",
+  "collection": "【歌切】[2026-04-04]深夜歌回开唱！周六午夜限定心动舞台💓なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ktSUBwEjv?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "シルシ",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-04-04]深夜歌回开唱！周六午夜限定心动舞台💓なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ktSUBwEjv?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Pray",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-04-04]深夜歌回开唱！周六午夜限定心动舞台💓なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ktSUBwEjv?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ロビンソン",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-04-04]深夜歌回开唱！周六午夜限定心动舞台💓なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ktSUBwEjv?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【歌切】[2026-04-04]深夜歌回开唱！周六午夜限定心动舞台💓なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ktSUBwEjv?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "猫",
+  "artist": "DISH//",
+  "collection": "【歌切】[2026-04-04]深夜歌回开唱！周六午夜限定心动舞台💓なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ktSUBwEjv?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "月灯りふんわり落ちてくる夜",
+  "artist": "小川七生",
+  "collection": "【歌切】[2026-04-04]深夜歌回开唱！周六午夜限定心动舞台💓なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ktSUBwEjv?p=16",
   "source": "naraetan.js"
 },
     {
