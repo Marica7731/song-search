@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 4/5/2026, 10:23:29 PM
+// 生成时间: 4/5/2026, 11:27:13 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -28654,128 +28654,128 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "V1-0068_[a5-DueVu_YI]【歌枠_Karaoke】睡眠導入歌枠安眠前のリラックスタイムにどうぞ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "火星人",
+  "artist": "ヨルシカ",
   "collection": "【💐歌切】#262 [2026-04-05]睡眠导入歌回✨安眠前的放松时间请享用🌙Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tyS9BdEXM?p=1",
   "source": "figaro.js"
 },
     {
-  "title": "V1-0069_[a5-DueVu_YI]【歌枠_Karaoke】睡眠導入歌枠安眠前のリラックスタイムにどうぞ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "さよーならまたいつか！",
+  "artist": "米津玄師",
   "collection": "【💐歌切】#262 [2026-04-05]睡眠导入歌回✨安眠前的放松时间请享用🌙Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tyS9BdEXM?p=2",
   "source": "figaro.js"
 },
     {
-  "title": "V1-0070_[a5-DueVu_YI]【歌枠_Karaoke】睡眠導入歌枠安眠前のリラックスタイムにどうぞ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ツギハギスタッカート",
+  "artist": "とあ",
   "collection": "【💐歌切】#262 [2026-04-05]睡眠导入歌回✨安眠前的放松时间请享用🌙Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tyS9BdEXM?p=3",
   "source": "figaro.js"
 },
     {
-  "title": "V1-0071_[a5-DueVu_YI]【歌枠_Karaoke】睡眠導入歌枠安眠前のリラックスタイムにどうぞ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "メトロノーム",
+  "artist": "米津玄師",
   "collection": "【💐歌切】#262 [2026-04-05]睡眠导入歌回✨安眠前的放松时间请享用🌙Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tyS9BdEXM?p=4",
   "source": "figaro.js"
 },
     {
-  "title": "V1-0072_[a5-DueVu_YI]【歌枠_Karaoke】睡眠導入歌枠安眠前のリラックスタイムにどうぞ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "はるのとなり",
+  "artist": "佐々木恵梨",
   "collection": "【💐歌切】#262 [2026-04-05]睡眠导入歌回✨安眠前的放松时间请享用🌙Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tyS9BdEXM?p=5",
   "source": "figaro.js"
 },
     {
-  "title": "V1-0073_[a5-DueVu_YI]【歌枠_Karaoke】睡眠導入歌枠安眠前のリラックスタイムにどうぞ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "へび",
+  "artist": "ヨルシカ",
   "collection": "【💐歌切】#262 [2026-04-05]睡眠导入歌回✨安眠前的放松时间请享用🌙Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tyS9BdEXM?p=6",
   "source": "figaro.js"
 },
     {
-  "title": "V1-0074_[a5-DueVu_YI]【歌枠_Karaoke】睡眠導入歌枠安眠前のリラックスタイムにどうぞ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "サーカスナイト",
+  "artist": "七尾旅人",
   "collection": "【💐歌切】#262 [2026-04-05]睡眠导入歌回✨安眠前的放松时间请享用🌙Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tyS9BdEXM?p=7",
   "source": "figaro.js"
 },
     {
-  "title": "V1-0075_[a5-DueVu_YI]【歌枠_Karaoke】睡眠導入歌枠安眠前のリラックスタイムにどうぞ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "メーベル",
+  "artist": "バルーン",
   "collection": "【💐歌切】#262 [2026-04-05]睡眠导入歌回✨安眠前的放松时间请享用🌙Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tyS9BdEXM?p=8",
   "source": "figaro.js"
 },
     {
-  "title": "V1-0076_[a5-DueVu_YI]【歌枠_Karaoke】睡眠導入歌枠安眠前のリラックスタイムにどうぞ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "怪獣",
+  "artist": "サカナクション",
   "collection": "【💐歌切】#262 [2026-04-05]睡眠导入歌回✨安眠前的放松时间请享用🌙Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tyS9BdEXM?p=9",
   "source": "figaro.js"
 },
     {
-  "title": "V1-0077_[a5-DueVu_YI]【歌枠_Karaoke】睡眠導入歌枠安眠前のリラックスタイムにどうぞ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Human Nature",
+  "artist": "Michael Jackson",
   "collection": "【💐歌切】#262 [2026-04-05]睡眠导入歌回✨安眠前的放松时间请享用🌙Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tyS9BdEXM?p=10",
   "source": "figaro.js"
 },
     {
-  "title": "V1-0078_[a5-DueVu_YI]【歌枠_Karaoke】睡眠導入歌枠安眠前のリラックスタイムにどうぞ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Fly Me To The Moon",
+  "artist": "Bart Howard & Kaye Ballard",
   "collection": "【💐歌切】#262 [2026-04-05]睡眠导入歌回✨安眠前的放松时间请享用🌙Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tyS9BdEXM?p=11",
   "source": "figaro.js"
 },
     {
-  "title": "V1-0079_[a5-DueVu_YI]【歌枠_Karaoke】睡眠導入歌枠安眠前のリラックスタイムにどうぞ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "真夏の果実",
+  "artist": "サザンオールスターズ",
   "collection": "【💐歌切】#262 [2026-04-05]睡眠导入歌回✨安眠前的放松时间请享用🌙Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tyS9BdEXM?p=12",
   "source": "figaro.js"
 },
     {
-  "title": "V1-0080_[a5-DueVu_YI]【歌枠_Karaoke】睡眠導入歌枠安眠前のリラックスタイムにどうぞ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "to U",
+  "artist": "Bank Band with Salyu",
   "collection": "【💐歌切】#262 [2026-04-05]睡眠导入歌回✨安眠前的放松时间请享用🌙Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tyS9BdEXM?p=13",
   "source": "figaro.js"
 },
     {
-  "title": "V1-0081_[a5-DueVu_YI]【歌枠_Karaoke】睡眠導入歌枠安眠前のリラックスタイムにどうぞ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Alice",
+  "artist": "古川本舗",
   "collection": "【💐歌切】#262 [2026-04-05]睡眠导入歌回✨安眠前的放松时间请享用🌙Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tyS9BdEXM?p=14",
   "source": "figaro.js"
 },
     {
-  "title": "V1-0082_[a5-DueVu_YI]【歌枠_Karaoke】睡眠導入歌枠安眠前のリラックスタイムにどうぞ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "奏",
+  "artist": "スキマスイッチ",
   "collection": "【💐歌切】#262 [2026-04-05]睡眠导入歌回✨安眠前的放松时间请享用🌙Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tyS9BdEXM?p=15",
   "source": "figaro.js"
 },
     {
-  "title": "V1-0083_[a5-DueVu_YI]【歌枠_Karaoke】睡眠導入歌枠安眠前のリラックスタイムにどうぞ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ほんの少しのさよなら",
+  "artist": "電ポルP",
   "collection": "【💐歌切】#262 [2026-04-05]睡眠导入歌回✨安眠前的放松时间请享用🌙Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tyS9BdEXM?p=16",

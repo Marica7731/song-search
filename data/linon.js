@@ -1,6 +1,6 @@
 // 天籠りのん - 歌单数据 (多合集汇总)
 // 来源: BV1hw4m1i7qN
-// 生成时间: 4/5/2026, 10:26:25 PM
+// 生成时间: 4/5/2026, 11:31:32 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -254,15 +254,15 @@ window.SONG_DATA.push(
   "source": "linon.js"
 },
     {
-  "title": "串烧放前面ROCK-mode'18 + Psychedelic Drive",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "Shouted Serenade",
+  "artist": "LiSA",
   "collection": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yz421a7Vv?p=1",
   "source": "linon.js"
 },
     {
-  "title": "Shouted Serenade",
+  "title": "crossing field",
   "artist": "LiSA",
   "collection": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
   "up": "前尘往事如昔故",
@@ -270,8 +270,8 @@ window.SONG_DATA.push(
   "source": "linon.js"
 },
     {
-  "title": "crossing field",
-  "artist": "LiSA",
+  "title": "ROCK",
+  "artist": "mode'18",
   "collection": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yz421a7Vv?p=3",
@@ -2055,7 +2055,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "正しくなれない",
-  "artist": "美波",
+  "artist": "ずっと真夜中でいいのに",
   "collection": "【天籠りのん】【人類滅亡部接力】6】雑踏、僕らの街、虚無虚無です",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1v9YDeyEz4?p=2",
@@ -2063,7 +2063,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ギターと孤独と蒼い惑星",
-  "artist": "トゲナシトゲアリ",
+  "artist": "結束バンド",
   "collection": "【天籠りのん】【人類滅亡部接力】6】雑踏、僕らの街、虚無虚無です",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1v9YDeyEz4?p=3",
@@ -2075,14 +2075,6 @@ window.SONG_DATA.push(
   "collection": "【天籠りのん】【人類滅亡部接力】6】雑踏、僕らの街、虚無虚無です",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1v9YDeyEz4?p=4",
-  "source": "linon.js"
-},
-    {
-  "title": "pv 虚無虚無です。-天籠りのん",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【天籠りのん】【人類滅亡部接力】6】雑踏、僕らの街、虚無虚無です",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1v9YDeyEz4?p=5",
   "source": "linon.js"
 },
     {
