@@ -15,6 +15,7 @@ let store = {
   songs: [],
   files: [],
   fileToAlias: {},
+  sourceStats: {},
   totalUnique: 0,
   titleEntries: [],
   titleMap: new Map()
@@ -99,6 +100,21 @@ function getUniqueSongCount(data) {
     totalUnique += uniqueSongs.length;
   });
   return totalUnique;
+}
+
+function buildSourceStats(songs, files, fileToAlias) {
+  const stats = {};
+  (files || []).forEach(fileName => {
+    const sourceSongs = songs.filter(song => song.source === fileName);
+    const key = fileName.replace('.js', '');
+    stats[fileName] = {
+      file: fileName,
+      alias: fileToAlias[key] || fileName,
+      totalSongs: sourceSongs.length,
+      totalUnique: getUniqueSongCount(sourceSongs)
+    };
+  });
+  return stats;
 }
 
 function splitWithQuotes(str) {
@@ -392,6 +408,7 @@ function loadSongStore() {
     songs,
     files: indexData.files || [],
     fileToAlias: indexData.fileToAlias || {},
+    sourceStats: buildSourceStats(songs, indexData.files || [], indexData.fileToAlias || {}),
     totalUnique: getUniqueSongCount(songs),
     titleEntries,
     titleMap
@@ -468,6 +485,7 @@ function handleBootstrap(res) {
     mode: 'api',
     files: store.files,
     fileToAlias: store.fileToAlias,
+    sourceStats: store.sourceStats,
     totalSongs: store.songs.length,
     totalUnique: store.totalUnique
   });
@@ -478,7 +496,9 @@ function handleSources(res) {
     const key = fileName.replace('.js', '');
     return {
       file: fileName,
-      alias: store.fileToAlias[key] || fileName
+      alias: store.fileToAlias[key] || fileName,
+      totalSongs: store.sourceStats[fileName]?.totalSongs || 0,
+      totalUnique: store.sourceStats[fileName]?.totalUnique || 0
     };
   });
   sendJson(res, 200, { sources });
@@ -498,7 +518,8 @@ function handleAllSongs(reqUrl, res) {
     total: data.length,
     totalUnique: getUniqueSongCount(data),
     files: store.files,
-    fileToAlias: store.fileToAlias
+    fileToAlias: store.fileToAlias,
+    sourceStats: store.sourceStats
   });
 }
 
@@ -550,6 +571,14 @@ function aggregateBySong(data) {
 }
 
 function aggregateByVtuberSource(data) {
+  const titleToSources = new Map();
+  data.forEach(item => {
+    const titleKey = normalizeString(item.title || '未知歌曲');
+    const sourceFile = item.source || '未知来源';
+    if (!titleToSources.has(titleKey)) titleToSources.set(titleKey, new Set());
+    titleToSources.get(titleKey).add(sourceFile);
+  });
+
   const map = new Map();
   data.forEach(item => {
     const sourceFile = item.source || '未知来源';
@@ -570,11 +599,13 @@ function aggregateByVtuberSource(data) {
         artist: item.artist || '',
         originalArtist: item.originalArtist || '',
         count: 0,
-        links: []
+        links: [],
+        isSolo: false
       });
     }
     const songEntry = vtuberEntry.songs.get(songKey);
     songEntry.count += 1;
+    songEntry.isSolo = (titleToSources.get(songKey)?.size || 0) === 1;
     if (item.link) {
       songEntry.links.push({
         link: item.link,
@@ -589,6 +620,7 @@ function aggregateByVtuberSource(data) {
     v.songs = songArr;
     v.totalCount = songArr.reduce((acc, s) => acc + s.count, 0);
     v.uniqueCount = songArr.length;
+    v.soloCount = songArr.filter(song => song.isSolo).length;
   });
   result.sort((a, b) => b.totalCount - a.totalCount);
   return result;

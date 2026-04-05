@@ -634,6 +634,7 @@
         let originalData = [];
         let fileNames = [];
         let FILE_TO_ALIAS = {};
+        let SOURCE_STATS = {};
         
         // 当前状态
         let activeTab = 'vtuber-source';
@@ -1085,6 +1086,13 @@
 
         // 聚合2: 按 VTuber来源文件 聚合
         function aggregateByVtuberSource(data) {
+            const titleToSources = new Map();
+            data.forEach(item => {
+                const songKey = normalizeString(item.title || '未知歌曲');
+                if (!titleToSources.has(songKey)) titleToSources.set(songKey, new Set());
+                titleToSources.get(songKey).add(item.source || '未知来源');
+            });
+
             const map = new Map();
             data.forEach(item => {
                 const sourceFile = item.source || '未知来源';
@@ -1106,11 +1114,13 @@
                         title: item.title || '未知歌曲',
                         artist: item.artist || '', // 保留数据中的歌手
                         count: 0,
-                        links: [] // 保留所有链接
+                        links: [], // 保留所有链接
+                        isSolo: false
                     });
                 }
                 const songEntry = vtuberEntry.songs.get(songKey);
                 songEntry.count++;
+                songEntry.isSolo = (titleToSources.get(songKey)?.size || 0) === 1;
                 if (item.link) songEntry.links.push({
                     link: item.link,
                     collection: item.collection || '未知合集'
@@ -1124,6 +1134,7 @@
                 v.songs = songArr;
                 v.totalCount = songArr.reduce((acc, s) => acc + s.count, 0);
                 v.uniqueCount = songArr.length; // 去重数量
+                v.soloCount = songArr.filter(s => s.isSolo).length;
             });
             result.sort((a, b) => b.totalCount - a.totalCount);
             return result;
@@ -1226,9 +1237,12 @@
             fileNames.forEach(fileName => {
                 const fileBase = fileName.replace('.js', '');
                 const btnText = FILE_TO_ALIAS[fileBase] || fileBase;
+                const stat = SOURCE_STATS[fileName];
                 const option = document.createElement('option');
                 option.value = fileName;
-                option.textContent = btnText;
+                option.textContent = stat
+                    ? `${btnText} | 投稿 ${stat.totalSongs} | 去重 ${stat.totalUnique}`
+                    : btnText;
                 sourceSelect.appendChild(option);
             });
 
@@ -1426,7 +1440,7 @@
                         </div>
                         <div style="display: flex; align-items: center; gap: 10px;">
                             <div class="group-count">
-                                总计 ${group.totalCount} 首投稿（去重 ${group.uniqueCount} 首）
+                                总计 ${group.totalCount} 首投稿（去重 ${group.uniqueCount} 首，仅她唱过 ${group.soloCount || 0} 首）
                             </div>
                             <button class="copy-btn">📋 复制列表</button>
                         </div>
@@ -1734,6 +1748,7 @@
             const payload = await res.json();
             fileNames = payload.files || [];
             FILE_TO_ALIAS = payload.fileToAlias || {};
+            SOURCE_STATS = payload.sourceStats || {};
             originalData = [];
             isApiMode = true;
         }
@@ -1750,6 +1765,7 @@
                     const config = await res.json();
                     fileNames.push(...(config.files || []));
                     FILE_TO_ALIAS = config.fileToAlias || {};
+                    SOURCE_STATS = {};
                     await loadScriptsParallel(fileNames);
                 }
 

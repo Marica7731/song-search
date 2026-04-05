@@ -5,6 +5,7 @@
 let allSongs = [];
 let fileList = [];
 let fileAlias = {};
+let sourceStats = {};
 let currentTab = 'all';
 let analysisResult = [];
 let showOnlyUnique = false;
@@ -31,6 +32,34 @@ function getSourceAlias(source) {
   if (!source) return '未知来源';
   const key = source.replace('.js', '');
   return fileAlias[key] || source;
+}
+
+function getSourceOptionLabel(source) {
+  if (source === 'all') {
+    return `全部 | 投稿 ${allSongs.length} | 去重 ${getUniqueSongCount(allSongs)}`;
+  }
+  const stat = sourceStats[source];
+  const alias = getSourceAlias(source);
+  if (!stat) return alias;
+  return `${alias} | 投稿 ${stat.totalSongs} | 去重 ${stat.totalUnique}`;
+}
+
+function isSameSong(songA, songB) {
+  const titleA = normalizeText(songA.title || '');
+  const titleB = normalizeText(songB.title || '');
+  if (titleA !== titleB) return false;
+  const artistA = normalizeText(songA.artist || '');
+  const artistB = normalizeText(songB.artist || '');
+  return artistA === artistB;
+}
+
+function getUniqueSongCount(songs) {
+  const uniqueSongs = [];
+  songs.forEach(song => {
+    const exists = uniqueSongs.some(savedSong => isSameSong(song, savedSong));
+    if (!exists) uniqueSongs.push(song);
+  });
+  return uniqueSongs.length;
 }
 
 function getCopyDuplicateIndex() {
@@ -131,6 +160,7 @@ async function loadAllData() {
         const bootstrapData = await bootstrapRes.json();
         fileList = bootstrapData.files || [];
         fileAlias = bootstrapData.fileToAlias || {};
+        sourceStats = bootstrapData.sourceStats || {};
         renderSourceTabs();
         updateStat('来源已加载，正在加载数据...');
       }
@@ -144,6 +174,7 @@ async function loadAllData() {
       const apiData = await apiRes.json();
       fileList = apiData.files || fileList || [];
       fileAlias = apiData.fileToAlias || fileAlias || {};
+      sourceStats = apiData.sourceStats || sourceStats || {};
       allSongs = Array.isArray(apiData.items) ? apiData.items : [];
     } catch (apiError) {
       console.warn('API 数据加载失败，回退到静态模式：', apiError);
@@ -151,6 +182,7 @@ async function loadAllData() {
       const indexData = await indexRes.json();
       fileList = indexData.files || fileList || [];
       fileAlias = indexData.fileToAlias || fileAlias || {};
+      sourceStats = {};
       renderSourceTabs();
 
       const loadTasks = fileList.map(fileName =>
@@ -196,7 +228,7 @@ function renderSourceTabs() {
 
   const allTab = document.createElement('div');
   allTab.className = `source-tab ${currentTab === 'all' ? 'active' : ''}`;
-  allTab.textContent = '全部';
+  allTab.textContent = getSourceOptionLabel('all');
   allTab.onclick = () => switchSourceTab('all');
   container.appendChild(allTab);
 
@@ -211,7 +243,7 @@ function renderSourceTabs() {
   fileList.forEach(fileName => {
     const option = document.createElement('option');
     option.value = fileName;
-    option.textContent = getSourceAlias(fileName);
+    option.textContent = getSourceOptionLabel(fileName);
     select.appendChild(option);
   });
 
