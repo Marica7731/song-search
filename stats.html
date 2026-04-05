@@ -98,11 +98,6 @@
             font-size: 14px;
             color: #495057;
         }
-        .source-meta {
-            font-size: 12px;
-            color: #8c98a4;
-            white-space: nowrap;
-        }
         .filter-btn {
             padding: 7px 16px;
             border: 1px solid #e9ecef;
@@ -1224,6 +1219,27 @@
             const sourceSelect = document.createElement('select');
             sourceSelect.className = 'filter-select';
 
+            const currentOption = document.createElement('option');
+            currentOption.value = '__current__';
+            if (activeFilter === 'all') {
+                currentOption.textContent = `全部来源 · 投稿 ${bootstrapTotalSongs} · 去重 ${bootstrapTotalUnique}`;
+            } else {
+                const fileBase = activeFilter.replace('.js', '');
+                const btnText = FILE_TO_ALIAS[fileBase] || fileBase;
+                const stat = SOURCE_STATS[activeFilter];
+                currentOption.textContent = stat
+                    ? `${btnText} · 投稿 ${stat.totalSongs} · 去重 ${stat.totalUnique}`
+                    : btnText;
+            }
+            currentOption.selected = true;
+            sourceSelect.appendChild(currentOption);
+
+            const dividerOption = document.createElement('option');
+            dividerOption.value = '';
+            dividerOption.textContent = '────────';
+            dividerOption.disabled = true;
+            sourceSelect.appendChild(dividerOption);
+
             const allOption = document.createElement('option');
             allOption.value = 'all';
             allOption.textContent = '全部来源';
@@ -1241,23 +1257,14 @@
                 sourceSelect.appendChild(option);
             });
 
-            sourceSelect.value = fileNames.includes(activeFilter) ? activeFilter : 'all';
+            sourceSelect.value = '__current__';
             sourceSelect.onchange = () => {
-                activeFilter = sourceSelect.value || 'all';
+                if (!sourceSelect.value || sourceSelect.value === '__current__') return;
+                activeFilter = sourceSelect.value;
                 currentRankPage = 1;
                 updateAllViews();
             };
             filterBar.appendChild(sourceSelect);
-
-            const sourceMeta = document.createElement('span');
-            sourceMeta.className = 'source-meta';
-            if (activeFilter === 'all') {
-                sourceMeta.textContent = `投稿 ${bootstrapTotalSongs} · 去重 ${bootstrapTotalUnique}`;
-            } else {
-                const stat = SOURCE_STATS[activeFilter];
-                sourceMeta.textContent = stat ? `投稿 ${stat.totalSongs} · 去重 ${stat.totalUnique}` : '';
-            }
-            filterBar.appendChild(sourceMeta);
         }
 
         // --- 辅助：生成唯一ID ---

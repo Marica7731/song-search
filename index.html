@@ -70,11 +70,6 @@
             font-size: 14px;
             color: #495057;
         }
-        .source-meta {
-            font-size: 12px;
-            color: #8c98a4;
-            white-space: nowrap;
-        }
         .filter-btn {
             padding: 7px 16px;
             border: 1px solid #e9ecef;
@@ -827,16 +822,43 @@
             return alias;
         }
 
-        function getCurrentSourceMetaText() {
+        function getCurrentSourceDisplayLabel() {
             if (activeSource === 'all') {
-                return `投稿 ${bootstrapTotalSongs} · 去重 ${bootstrapTotalUnique}`;
+                return `全部来源 · 投稿 ${bootstrapTotalSongs} · 去重 ${bootstrapTotalUnique}`;
             }
             if (activeSource === 'missing-artist') {
-                return '仅显示歌手缺失条目';
+                return '缺失歌手';
             }
             const stat = SOURCE_STATS[activeSource];
-            if (!stat) return '';
-            return `投稿 ${stat.totalSongs} · 去重 ${stat.totalUnique}`;
+            const alias = getSourceOptionLabel(activeSource);
+            if (!stat) return alias;
+            return `${alias} · 投稿 ${stat.totalSongs} · 去重 ${stat.totalUnique}`;
+        }
+
+        function appendSourceSelectOptions(sourceSelect) {
+            const currentOption = document.createElement('option');
+            currentOption.value = '__current__';
+            currentOption.textContent = getCurrentSourceDisplayLabel();
+            currentOption.selected = true;
+            sourceSelect.appendChild(currentOption);
+
+            const dividerOption = document.createElement('option');
+            dividerOption.value = '';
+            dividerOption.textContent = '────────';
+            dividerOption.disabled = true;
+            sourceSelect.appendChild(dividerOption);
+
+            const allOption = document.createElement('option');
+            allOption.value = 'all';
+            allOption.textContent = getSourceOptionLabel('all');
+            sourceSelect.appendChild(allOption);
+
+            fileNames.forEach(fileName => {
+                const option = document.createElement('option');
+                option.value = fileName;
+                option.textContent = getSourceOptionLabel(fileName);
+                sourceSelect.appendChild(option);
+            });
         }
 
         function getCopyOptions() {
@@ -1196,26 +1218,13 @@
             const sourceSelect = document.createElement('select');
             sourceSelect.className = 'filter-select';
 
-            const allOption = document.createElement('option');
-            allOption.value = 'all';
-            allOption.textContent = getSourceOptionLabel('all');
-            sourceSelect.appendChild(allOption);
-
-            fileNames.forEach(fileName => {
-                const option = document.createElement('option');
-                option.value = fileName;
-                option.textContent = getSourceOptionLabel(fileName);
-                sourceSelect.appendChild(option);
-            });
-
-            sourceSelect.value = fileNames.includes(activeSource) ? activeSource : 'all';
-            sourceSelect.onchange = () => switchSource(sourceSelect.value || 'all');
+            appendSourceSelectOptions(sourceSelect);
+            sourceSelect.value = '__current__';
+            sourceSelect.onchange = () => {
+                if (!sourceSelect.value || sourceSelect.value === '__current__') return;
+                switchSource(sourceSelect.value);
+            };
             filterBar.appendChild(sourceSelect);
-
-            const sourceMeta = document.createElement('span');
-            sourceMeta.className = 'source-meta';
-            sourceMeta.textContent = getCurrentSourceMetaText();
-            filterBar.appendChild(sourceMeta);
 
             const missingBtn = document.createElement('button');
             missingBtn.className = `filter-btn missing-artist ${activeSource === 'missing-artist' ? 'active' : ''}`;
