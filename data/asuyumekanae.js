@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 4/5/2026, 9:31:01 AM
+// 生成时间: 4/5/2026, 10:25:05 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2147,6 +2147,526 @@ window.SONG_DATA.push(
   "collection": "【明日夢🎸弾き語り歌切】[2026-04-03]感谢虚拟咖啡厅！！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t8DMBaEkq?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "君はロックを聴かない",
+  "artist": "あいみょん",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "やさしさに包まれたなら",
+  "artist": "松任谷由実",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "貴方の恋人になりたいのです",
+  "artist": "阿部真央",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ストーカーの唄",
+  "artist": "阿部真央",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ギラギラ",
+  "artist": "Ado",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "風のゆくえ",
+  "artist": "Ado",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "新時代",
+  "artist": "Ado",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "花火",
+  "artist": "aiko",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ストロー",
+  "artist": "aiko",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "花は桜 君は美し",
+  "artist": "いきものがかり",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "熱情のスペクトラム",
+  "artist": "いきものがかり",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "タッチ",
+  "artist": "岩崎良美",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=15",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "蝶々結び",
+  "artist": "Aimer",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=16",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=17",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Pretender",
+  "artist": "Official髭男dism",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=18",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ミックスナッツ",
+  "artist": "Official髭男dism",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=19",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=20",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "黒毛和牛上塩タン焼680円",
+  "artist": "大塚愛",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=21",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ないものねだり",
+  "artist": "KANA-BOON",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=22",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "眠れぬ森の君のため",
+  "artist": "KANA-BOON",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=23",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "vinyl",
+  "artist": "King Gnu",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=24",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "まちがいさがし",
+  "artist": "菅田将暉",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=25",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "さよならエレジー",
+  "artist": "菅田将暉",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=26",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "夢の恋人",
+  "artist": "ズーカラデル",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=27",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "yume",
+  "artist": "SEKAI NO OWARI",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=28",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ハレンチ",
+  "artist": "ちゃんみな",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=29",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "SAD SONG",
+  "artist": "ちゃんみな",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=30",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "心を照らせ！",
+  "artist": "チョーキューメイ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=31",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "未恋",
+  "artist": "チョーキューメイ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=32",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "指髪",
+  "artist": "チョーキューメイ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=33",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "染まるよ",
+  "artist": "チャットモンチー",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=34",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "風吹けば恋",
+  "artist": "チャットモンチー",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=35",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ずるい人",
+  "artist": "TETORA",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=36",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "今日くらいは",
+  "artist": "TETORA",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=37",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "花降らし",
+  "artist": "n-buna",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=38",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "n-buna",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=39",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "グッドな音楽を",
+  "artist": "ねぐせ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=40",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ミッドナイト･リフレクション",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=41",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "世田谷ラブストーリー",
+  "artist": "Back number",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=42",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "繋いだ手から",
+  "artist": "Back number",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=43",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "鱗",
+  "artist": "秦基博",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=44",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "拝啓、少年よ",
+  "artist": "Hump Back",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=45",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "星丘公園",
+  "artist": "Hump Back",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=46",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "僕らは今日も車の中",
+  "artist": "Hump Back",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=47",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "世界を終わらせて",
+  "artist": "ハルカミライ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=48",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ノンフィクション",
+  "artist": "平井堅",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=49",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Lani",
+  "artist": "FOMARE",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=50",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Soup",
+  "artist": "藤原さくら",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=51",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono！",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=52",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "愛の手",
+  "artist": "マカロニえんぴつ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=53",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "卒業",
+  "artist": "My Hair is Bad",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=54",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "私",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=55",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ヨワネハキ",
+  "artist": "MAISONdes",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=56",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ぎゅっと。",
+  "artist": "もさを。",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=57",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "本当はね、",
+  "artist": "ヤングスキニー",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=58",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "さよなら前夜",
+  "artist": "ヤユヨ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=59",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ユー！",
+  "artist": "ヤユヨ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=60",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "My Generation",
+  "artist": "YUI",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=61",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "夏色",
+  "artist": "ゆず",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=62",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=63",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "第一夜",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=64",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "YOU",
+  "artist": "BLUE ENCOUNT",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=65",
   "source": "asuyumekanae.js"
 }
 );

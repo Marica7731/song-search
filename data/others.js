@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq
-// 生成时间: 4/5/2026, 9:44:21 AM
+// 生成时间: 4/5/2026, 10:37:27 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -13819,6 +13819,190 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-03-31 ゆらぎゆら / YuragiYura🌙🫧 _YuraYuragi",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1rGSSBwEWm?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna",
+  "collection": "歌切 2026-04-05 瀬島るい / Rui Channel 【ななしいんく】 Rui_Seshima",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DuSUB5EeX?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "それがあなたの幸せとしても",
+  "artist": "Heavenz",
+  "collection": "歌切 2026-04-05 瀬島るい / Rui Channel 【ななしいんく】 Rui_Seshima",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DuSUB5EeX?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "歌切 2026-04-05 瀬島るい / Rui Channel 【ななしいんく】 Rui_Seshima",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DuSUB5EeX?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP",
+  "collection": "歌切 2026-04-05 瀬島るい / Rui Channel 【ななしいんく】 Rui_Seshima",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DuSUB5EeX?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "未来予想図Ⅱ",
+  "artist": "DREAMS COME TRUE",
+  "collection": "歌切 2026-04-05 瀬島るい / Rui Channel 【ななしいんく】 Rui_Seshima",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DuSUB5EeX?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "風のゆくえ",
+  "artist": "Ado",
+  "collection": "歌切 2026-04-05 瀬島るい / Rui Channel 【ななしいんく】 Rui_Seshima",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DuSUB5EeX?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ハナミズキ",
+  "artist": "一青窈",
+  "collection": "歌切 2026-04-05 瀬島るい / Rui Channel 【ななしいんく】 Rui_Seshima",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DuSUB5EeX?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "歌切 2026-04-05 瀬島るい / Rui Channel 【ななしいんく】 Rui_Seshima",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DuSUB5EeX?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "10月無口な君を忘れる",
+  "artist": "あたらよ",
+  "collection": "歌切 2026-04-05 瀬島るい / Rui Channel 【ななしいんく】 Rui_Seshima",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DuSUB5EeX?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "YELL",
+  "artist": "いきものがかり",
+  "collection": "歌切 2026-04-05 瀬島るい / Rui Channel 【ななしいんく】 Rui_Seshima",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DuSUB5EeX?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "奏",
+  "artist": "スキマスイッチ",
+  "collection": "歌切 2026-04-05 瀬島るい / Rui Channel 【ななしいんく】 Rui_Seshima",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DuSUB5EeX?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "三日月",
+  "artist": "絢香",
+  "collection": "歌切 2026-04-05 瀬島るい / Rui Channel 【ななしいんく】 Rui_Seshima",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DuSUB5EeX?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "青いベンチ",
+  "artist": "サスケ",
+  "collection": "歌切 2026-04-05 瀬島るい / Rui Channel 【ななしいんく】 Rui_Seshima",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DuSUB5EeX?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "赤いスイートピー",
+  "artist": "松田聖子",
+  "collection": "歌切 2026-04-05 瀬島るい / Rui Channel 【ななしいんく】 Rui_Seshima",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DuSUB5EeX?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "歌切 2026-04-05 瀬島るい / Rui Channel 【ななしいんく】 Rui_Seshima",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DuSUB5EeX?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP",
+  "collection": "歌切 2026-04-05 瀬島るい / Rui Channel 【ななしいんく】 Rui_Seshima",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DuSUB5EeX?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "弱虫モンブラン",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-04-05 瀬島るい / Rui Channel 【ななしいんく】 Rui_Seshima",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DuSUB5EeX?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P",
+  "collection": "歌切 2026-04-05 瀬島るい / Rui Channel 【ななしいんく】 Rui_Seshima",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DuSUB5EeX?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "歌切 2026-04-05 瀬島るい / Rui Channel 【ななしいんく】 Rui_Seshima",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DuSUB5EeX?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "キセキ",
+  "artist": "GReeeeN",
+  "collection": "歌切 2026-04-05 瀬島るい / Rui Channel 【ななしいんく】 Rui_Seshima",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DuSUB5EeX?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "恋愛裁判",
+  "artist": "40ｍP",
+  "collection": "歌切 2026-04-05 瀬島るい / Rui Channel 【ななしいんく】 Rui_Seshima",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DuSUB5EeX?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "炎",
+  "artist": "LiSA",
+  "collection": "歌切 2026-04-05 瀬島るい / Rui Channel 【ななしいんく】 Rui_Seshima",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DuSUB5EeX?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "おじゃま虫",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-04-05 瀬島るい / Rui Channel 【ななしいんく】 Rui_Seshima",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DuSUB5EeX?p=23",
   "source": "others.js"
 },
     {
