@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 4/5/2026, 9:24:32 PM
+// 生成时间: 4/5/2026, 10:22:18 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1347,6 +1347,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-04-01]樱花请别凋谢！🌸歌回kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Xb9JBkEHm?p=26",
+  "source": "kukuri.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-05]和戸鎖一起度过慵懒时光吧🌨️歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grS9BZEmS?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ちっぽけな愛のうた",
+  "artist": "大原櫻子",
+  "collection": "【歌切】[2026-04-05]和戸鎖一起度过慵懒时光吧🌨️歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grS9BZEmS?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "満ちてゆく",
+  "artist": "藤井風",
+  "collection": "【歌切】[2026-04-05]和戸鎖一起度过慵懒时光吧🌨️歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grS9BZEmS?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "再会",
+  "artist": "LiSA・Uru",
+  "collection": "【歌切】[2026-04-05]和戸鎖一起度过慵懒时光吧🌨️歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grS9BZEmS?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ラストシーン",
+  "artist": "eill",
+  "collection": "【歌切】[2026-04-05]和戸鎖一起度过慵懒时光吧🌨️歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grS9BZEmS?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "茜",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-05]和戸鎖一起度过慵懒时光吧🌨️歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grS9BZEmS?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "キミガタメ",
+  "artist": "Suara",
+  "collection": "【歌切】[2026-04-05]和戸鎖一起度过慵懒时光吧🌨️歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grS9BZEmS?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-04-05]和戸鎖一起度过慵懒时光吧🌨️歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grS9BZEmS?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-04-05]和戸鎖一起度过慵懒时光吧🌨️歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grS9BZEmS?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-04-05]和戸鎖一起度过慵懒时光吧🌨️歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grS9BZEmS?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "明日への手紙",
+  "artist": "手嶌葵",
+  "collection": "【歌切】[2026-04-05]和戸鎖一起度过慵懒时光吧🌨️歌回kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grS9BZEmS?p=11",
   "source": "kukuri.js"
 }
 );

@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 4/5/2026, 9:25:40 PM
+// 生成时间: 4/5/2026, 10:23:29 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -28651,6 +28651,134 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-04-03]樱花与Chill的歌回🌸Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vjDMB3EPT?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "V1-0068_[a5-DueVu_YI]【歌枠_Karaoke】睡眠導入歌枠安眠前のリラックスタイムにどうぞ",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【💐歌切】#262 [2026-04-05]睡眠导入歌回✨安眠前的放松时间请享用🌙Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyS9BdEXM?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "V1-0069_[a5-DueVu_YI]【歌枠_Karaoke】睡眠導入歌枠安眠前のリラックスタイムにどうぞ",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【💐歌切】#262 [2026-04-05]睡眠导入歌回✨安眠前的放松时间请享用🌙Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyS9BdEXM?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "V1-0070_[a5-DueVu_YI]【歌枠_Karaoke】睡眠導入歌枠安眠前のリラックスタイムにどうぞ",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【💐歌切】#262 [2026-04-05]睡眠导入歌回✨安眠前的放松时间请享用🌙Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyS9BdEXM?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "V1-0071_[a5-DueVu_YI]【歌枠_Karaoke】睡眠導入歌枠安眠前のリラックスタイムにどうぞ",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【💐歌切】#262 [2026-04-05]睡眠导入歌回✨安眠前的放松时间请享用🌙Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyS9BdEXM?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "V1-0072_[a5-DueVu_YI]【歌枠_Karaoke】睡眠導入歌枠安眠前のリラックスタイムにどうぞ",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【💐歌切】#262 [2026-04-05]睡眠导入歌回✨安眠前的放松时间请享用🌙Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyS9BdEXM?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "V1-0073_[a5-DueVu_YI]【歌枠_Karaoke】睡眠導入歌枠安眠前のリラックスタイムにどうぞ",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【💐歌切】#262 [2026-04-05]睡眠导入歌回✨安眠前的放松时间请享用🌙Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyS9BdEXM?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "V1-0074_[a5-DueVu_YI]【歌枠_Karaoke】睡眠導入歌枠安眠前のリラックスタイムにどうぞ",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【💐歌切】#262 [2026-04-05]睡眠导入歌回✨安眠前的放松时间请享用🌙Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyS9BdEXM?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "V1-0075_[a5-DueVu_YI]【歌枠_Karaoke】睡眠導入歌枠安眠前のリラックスタイムにどうぞ",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【💐歌切】#262 [2026-04-05]睡眠导入歌回✨安眠前的放松时间请享用🌙Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyS9BdEXM?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "V1-0076_[a5-DueVu_YI]【歌枠_Karaoke】睡眠導入歌枠安眠前のリラックスタイムにどうぞ",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【💐歌切】#262 [2026-04-05]睡眠导入歌回✨安眠前的放松时间请享用🌙Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyS9BdEXM?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "V1-0077_[a5-DueVu_YI]【歌枠_Karaoke】睡眠導入歌枠安眠前のリラックスタイムにどうぞ",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【💐歌切】#262 [2026-04-05]睡眠导入歌回✨安眠前的放松时间请享用🌙Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyS9BdEXM?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "V1-0078_[a5-DueVu_YI]【歌枠_Karaoke】睡眠導入歌枠安眠前のリラックスタイムにどうぞ",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【💐歌切】#262 [2026-04-05]睡眠导入歌回✨安眠前的放松时间请享用🌙Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyS9BdEXM?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "V1-0079_[a5-DueVu_YI]【歌枠_Karaoke】睡眠導入歌枠安眠前のリラックスタイムにどうぞ",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【💐歌切】#262 [2026-04-05]睡眠导入歌回✨安眠前的放松时间请享用🌙Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyS9BdEXM?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "V1-0080_[a5-DueVu_YI]【歌枠_Karaoke】睡眠導入歌枠安眠前のリラックスタイムにどうぞ",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【💐歌切】#262 [2026-04-05]睡眠导入歌回✨安眠前的放松时间请享用🌙Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyS9BdEXM?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "V1-0081_[a5-DueVu_YI]【歌枠_Karaoke】睡眠導入歌枠安眠前のリラックスタイムにどうぞ",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【💐歌切】#262 [2026-04-05]睡眠导入歌回✨安眠前的放松时间请享用🌙Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyS9BdEXM?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "V1-0082_[a5-DueVu_YI]【歌枠_Karaoke】睡眠導入歌枠安眠前のリラックスタイムにどうぞ",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【💐歌切】#262 [2026-04-05]睡眠导入歌回✨安眠前的放松时间请享用🌙Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyS9BdEXM?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "V1-0083_[a5-DueVu_YI]【歌枠_Karaoke】睡眠導入歌枠安眠前のリラックスタイムにどうぞ",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【💐歌切】#262 [2026-04-05]睡眠导入歌回✨安眠前的放松时间请享用🌙Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyS9BdEXM?p=16",
   "source": "figaro.js"
 }
 );
