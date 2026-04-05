@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq
-// 生成时间: 4/5/2026, 1:39:00 AM
+// 生成时间: 4/5/2026, 4:43:15 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9071,7 +9071,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "8.32",
-  "artist": "＊Luna",
+  "artist": "*Luna",
   "collection": "歌势推荐：緋那ちび 2026-03-10  OfYyaWIvGhE",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV134wAzJEph?p=7",
