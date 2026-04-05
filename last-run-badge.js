@@ -62,10 +62,22 @@
     if (!badge) return;
 
     try {
-      const response = await fetch('/api/site-meta', { cache: 'no-store' });
-      if (!response.ok) throw new Error('HTTP ' + response.status);
-      const payload = await response.json();
-      const meta = payload && payload.updateSongsLastRun;
+      let meta = null;
+
+      try {
+        const staticResponse = await fetch('/reports/update-songs-meta.json', { cache: 'no-store' });
+        if (staticResponse.ok) {
+          meta = await staticResponse.json();
+        }
+      } catch {}
+
+      if (!meta) {
+        const response = await fetch('/api/site-meta', { cache: 'no-store' });
+        if (!response.ok) throw new Error('HTTP ' + response.status);
+        const payload = await response.json();
+        meta = payload && payload.updateSongsLastRun;
+      }
+
       if (!meta || !meta.completedAtShanghai) {
         badge.textContent = 'update-songs 上次执行：暂无记录';
         return;
