@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 4/5/2026, 11:27:40 PM
+// 生成时间: 4/6/2026, 1:28:25 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -31,7 +31,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヴァンパイア",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=4",
@@ -39,7 +39,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アニマル",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=5",
@@ -263,7 +263,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "弱虫モンブラン",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=33",
@@ -919,7 +919,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヴァンパイア",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【 凛々咲】17】怎么这么多套衣服  ---~万圣节歌回+26接力",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ESSZYbECv?p=1",
@@ -967,7 +967,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ゴーストルール",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【 凛々咲】17】怎么这么多套衣服  ---~万圣节歌回+26接力",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ESSZYbECv?p=7",
@@ -1271,7 +1271,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想感傷代償連盟 + ジャルル",
-  "artist": "DECO27 バルーン",
+  "artist": "DECO*27",
   "collection": "补合集 🐍凛々咲 2024年11月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LP6VBbE7g?p=28",
@@ -1839,7 +1839,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想感傷代償連盟",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "补合集 🐍凛々咲 2024年11月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LP6VBbE7g?p=99",
@@ -2543,7 +2543,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想感傷代償連盟",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "补合集 🐍凛々咲 2024年12月~2025年02月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iN6LBiEgE?p=42",
@@ -2879,7 +2879,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想感傷代償連盟",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "补合集 🐍凛々咲 2024年12月~2025年02月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iN6LBiEgE?p=84",
@@ -3055,7 +3055,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "乙女解剖",
-  "artist": "DECO*27 feat. 初音ミク & アルゴノーツ",
+  "artist": "DECO*27",
   "collection": "补合集 🐍凛々咲 2024年12月~2025年02月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iN6LBiEgE?p=106",

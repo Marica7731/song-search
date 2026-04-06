@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 4/5/2026, 11:27:13 PM
+// 生成时间: 4/6/2026, 1:27:54 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1519,7 +1519,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛言葉III",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【240402】【Figaro 15首】 突击直播 06.愛言葉III - DECO*27 14.唱 - Ado 粛聖!!ロリ神レクイエム☆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jH4y1K776?p=6",
@@ -3751,7 +3751,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想感傷代償連盟",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【240529 Figaro】20】#13 星期三定期歌枠 斜陽、左右盲、夜に駆ける",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ss42137Km?p=12",
@@ -5583,7 +5583,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想感傷代償連盟",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【240711】【Figaro 】14】星期三定期歌回17 ボカロ专题",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FJaneYEr1?p=5",
@@ -5719,7 +5719,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヒバナ",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=8",
@@ -5727,7 +5727,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ゴーストルール",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=9",
@@ -7079,7 +7079,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想感傷代償連盟",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【240908】Figaro】15】 #190忘れじの言の葉、茜さす、ポラリス",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DAtreFEx8?p=9",
@@ -8007,7 +8007,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ライアーダンス",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【241004】【Figaro】23】ヴィーナスとジーザス ワンルーム・オール・ザット・ジャズ 悪魔の踊り方 天球、彗星は夜を跨いで",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ym1mYLEZj?p=3",
@@ -9143,7 +9143,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ゴーストルール",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【Figaro】18】万圣节的歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mXSfYLEX8?p=6",
@@ -9287,7 +9287,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想感傷代償連盟",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【Figaro】20】睡眠引导歌枠 #198【2024年11月3日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bEDxYWEeB?p=6",
@@ -10535,7 +10535,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想税",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【Figaro】ボカロ限定歌回！ 25 2024年12月18日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1p3ktYtEMX?p=10",
@@ -11631,7 +11631,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想感傷代償連盟",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【Figaro】しっとり睡眠導入歌回 - すやラジ #206 17",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XUrCYWEYb?p=13",
@@ -12575,7 +12575,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【Figaro】17 TGIF～！歌うよ～！【 2025年2月7日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gyKjezENu?p=9",
@@ -13143,7 +13143,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【Figaro】在祝日唱歌哦～！【歌枠】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pMP8e9E2h?p=7",
@@ -16175,7 +16175,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想感傷代償連盟",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "2025年6月5日 Figaro竖屏 27",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L9TuzXE1b?p=7",
@@ -16295,7 +16295,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヒバナ",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "2025年6月5日 Figaro竖屏 27",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L9TuzXE1b?p=22",
@@ -16991,7 +16991,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想感傷代償連盟",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【 #歌枠 / KARAOKE 】夜も暑いので少し涼んでいきません？【Figaro / Vtuber】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tiKrzhEHv?p=12",
@@ -18391,7 +18391,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "弱虫モンブラン",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【#歌枠/#KARAOKE】暑い夜も歌で涼しく安眠！ Singing Stream🌙 【 Figaro Vtuber 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BNtNzaE9D?p=2",
@@ -20495,7 +20495,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【 Figaro】似乎可以同时进行纵向和横向直播！？ 2025年10月10日 #vtuber #shorts",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1r54zz8EVg?p=13",
@@ -21959,7 +21959,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想税",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【 Figaro 切片】欢迎回来！ 2025年11月14日 竖屏",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ECLBBEiY?p=9",
@@ -25767,7 +25767,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想感傷代償連盟",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "復活！のんびりまったりリハビリるよ！[2026-02-06][4E1oJuMFSxU]【💐Figaro 歌切】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TPFbzVERp?p=6",
@@ -25983,7 +25983,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ライアーダンス",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "今日祝日だった！！！[2026-02-11][MhRW1t7AGLc]【💐Figaro 歌切】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15Xciz2EY2?p=7",

@@ -1,6 +1,6 @@
 // 知悠 - 歌单数据 (多合集汇总)
 // 来源: BV1owcoz3Ekw
-// 生成时间: 4/5/2026, 11:25:20 PM
+// 生成时间: 4/6/2026, 1:26:07 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -30,7 +30,7 @@ window.SONG_DATA.push(
   "source": "chiyutori .js"
 },
     {
-  "title": "ETERNAL WIND～ほほえみは光る風の中～",
+  "title": "ETERNAL WIND",
   "artist": "森口博子",
   "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
   "up": "前尘往事如昔故",
@@ -71,7 +71,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "千本桜",
-  "artist": "黒うさP feat. 初音ミク",
+  "artist": "黒うさP",
   "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=9",
@@ -142,8 +142,8 @@ window.SONG_DATA.push(
   "source": "chiyutori .js"
 },
     {
-  "title": "そうだよ。 -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "そうだよ。",
+  "artist": "ランカ・リー＝中島愛",
   "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=18",
@@ -198,8 +198,8 @@ window.SONG_DATA.push(
   "source": "chiyutori .js"
 },
     {
-  "title": "モニタリング -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "モニタリング",
+  "artist": "DECO*27",
   "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=25",
@@ -286,8 +286,8 @@ window.SONG_DATA.push(
   "source": "chiyutori .js"
 },
     {
-  "title": "JANE DOE -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "JANE DOE",
+  "artist": "米津玄師,宇多田ヒカル",
   "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=36",
@@ -343,7 +343,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "回る空うさぎ",
-  "artist": "Oragestar",
+  "artist": "Orangestar",
   "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=43",
@@ -351,7 +351,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "忘れじの言の葉",
-  "artist": "未来古代楽団",
+  "artist": "未来古代楽団 feat. 安次嶺希和子",
   "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=44",
@@ -366,8 +366,8 @@ window.SONG_DATA.push(
   "source": "chiyutori .js"
 },
     {
-  "title": "ベリーメロン～私の心をつかんだ良いメロン～",
-  "artist": "ビクトリーム（若本規夫）",
+  "title": "ベリーメロン",
+  "artist": "ビクトリーム",
   "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=46",
@@ -391,7 +391,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "そこに空があるから",
-  "artist": "江崎とし子",
+  "artist": "江崎稔子",
   "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=49",
@@ -430,7 +430,7 @@ window.SONG_DATA.push(
   "source": "chiyutori .js"
 },
     {
-  "title": "さくら（独唱）",
+  "title": "さくら",
   "artist": "森山直太朗",
   "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
   "up": "前尘往事如昔故",
@@ -439,7 +439,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "忘れじの言の葉",
-  "artist": "未来古代楽団",
+  "artist": "未来古代楽団 feat. 安次嶺希和子",
   "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=55",
@@ -447,7 +447,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "深海のリトルクライ",
-  "artist": "sasakure.UK feat. Asako Toki",
+  "artist": "sasakure .UK",
   "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=56",
@@ -479,7 +479,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "セツナトリップ",
-  "artist": "Last Note.",
+  "artist": "Last Note.GUMI",
   "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=60",
@@ -495,7 +495,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "IN MY DREAM",
-  "artist": "真行寺真里",
+  "artist": "真行寺恵理",
   "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owcoz3Ekw?p=62",
