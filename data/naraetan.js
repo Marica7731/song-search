@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 4/6/2026, 9:33:09 PM
+// 生成时间: 4/6/2026, 10:29:04 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7019,6 +7019,134 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-04-04]深夜歌回开唱！周六午夜限定心动舞台💓なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ktSUBwEjv?p=16",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ハルノヒ",
+  "artist": "あいみょん",
+  "collection": "【歌切】[2026-04-06]🌺🐝想唱一些关于春天的歌 なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BDDbBBE3Q?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "花占い",
+  "artist": "Vaundy",
+  "collection": "【歌切】[2026-04-06]🌺🐝想唱一些关于春天的歌 なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BDDbBBE3Q?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "君色に染まる",
+  "artist": "西沢さんP",
+  "collection": "【歌切】[2026-04-06]🌺🐝想唱一些关于春天的歌 なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BDDbBBE3Q?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ホウキ雲",
+  "artist": "RYTHEM",
+  "collection": "【歌切】[2026-04-06]🌺🐝想唱一些关于春天的歌 なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BDDbBBE3Q?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "CLEAR",
+  "artist": "坂本真綾",
+  "collection": "【歌切】[2026-04-06]🌺🐝想唱一些关于春天的歌 なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BDDbBBE3Q?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "さよならメモリーズ",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-04-06]🌺🐝想唱一些关于春天的歌 なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BDDbBBE3Q?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "赤いスイートピー",
+  "artist": "松田聖子",
+  "collection": "【歌切】[2026-04-06]🌺🐝想唱一些关于春天的歌 なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BDDbBBE3Q?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-06]🌺🐝想唱一些关于春天的歌 なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BDDbBBE3Q?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Ez Do Dance",
+  "artist": "Prizmmy☆",
+  "collection": "【歌切】[2026-04-06]🌺🐝想唱一些关于春天的歌 なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BDDbBBE3Q?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "そばかす",
+  "artist": "JUDY AND MARY",
+  "collection": "【歌切】[2026-04-06]🌺🐝想唱一些关于春天的歌 なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BDDbBBE3Q?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-04-06]🌺🐝想唱一些关于春天的歌 なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BDDbBBE3Q?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "기우제(祈雨祭)",
+  "artist": "everain",
+  "collection": "【歌切】[2026-04-06]🌺🐝想唱一些关于春天的歌 なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BDDbBBE3Q?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Reason",
+  "artist": "玉置成実",
+  "collection": "【歌切】[2026-04-06]🌺🐝想唱一些关于春天的歌 なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BDDbBBE3Q?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Little Busters!",
+  "artist": "Rita",
+  "collection": "【歌切】[2026-04-06]🌺🐝想唱一些关于春天的歌 なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BDDbBBE3Q?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "もらい泣き",
+  "artist": "一青窈",
+  "collection": "【歌切】[2026-04-06]🌺🐝想唱一些关于春天的歌 なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BDDbBBE3Q?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Synchrogazer",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-04-06]🌺🐝想唱一些关于春天的歌 なれたん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BDDbBBE3Q?p=16",
   "source": "naraetan.js"
 },
     {

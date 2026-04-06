@@ -1,6 +1,6 @@
 // 陽月るるふ - 歌单数据 (多合集汇总)
 // 来源: BV1Qa9JB6EAw
-// 生成时间: 4/6/2026, 9:44:34 PM
+// 生成时间: 4/6/2026, 10:40:48 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -579,6 +579,78 @@ window.SONG_DATA.push(
   "collection": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gWSRBFES5?p=14",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "again",
+  "artist": "YUI",
+  "collection": "弾き語り 🐺🎀 打卡生日月每日歌回 Day7 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1voDbBeE7P?p=1",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "弾き語り 🐺🎀 打卡生日月每日歌回 Day7 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1voDbBeE7P?p=2",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "CInnamon",
+  "artist": "YUI",
+  "collection": "弾き語り 🐺🎀 打卡生日月每日歌回 Day7 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1voDbBeE7P?p=3",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "弾き語り 🐺🎀 打卡生日月每日歌回 Day7 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1voDbBeE7P?p=4",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "弾き語り 🐺🎀 打卡生日月每日歌回 Day7 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1voDbBeE7P?p=5",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "orion",
+  "artist": "米津玄師",
+  "collection": "弾き語り 🐺🎀 打卡生日月每日歌回 Day7 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1voDbBeE7P?p=6",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "弾き語り 🐺🎀 打卡生日月每日歌回 Day7 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1voDbBeE7P?p=7",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "シャッター",
+  "artist": "優里",
+  "collection": "弾き語り 🐺🎀 打卡生日月每日歌回 Day7 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1voDbBeE7P?p=8",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "メリーゴーランド",
+  "artist": "優里",
+  "collection": "弾き語り 🐺🎀 打卡生日月每日歌回 Day7 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1voDbBeE7P?p=9",
   "source": "bv1qa9jb6eaw.js"
 }
 );
