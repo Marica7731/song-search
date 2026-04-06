@@ -1,6 +1,6 @@
 // 優莉 yuri - 歌单数据 (多合集汇总)
 // 来源: BV1aDzEBBE3S
-// 生成时间: 4/6/2026, 11:55:35 AM
+// 生成时间: 4/6/2026, 12:53:04 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -511,7 +511,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "DECO×27",
+  "artist": "DECO*27",
   "collection": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17uFuzMEuY?p=6",

@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 4/6/2026, 11:54:15 AM
+// 生成时间: 4/6/2026, 12:51:48 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1527,7 +1527,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アニマル",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "[2024-02-22] 【 稀羽すう 12首】猫の日🐈 猫 / DISH//",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18Z42117tX?p=3",
@@ -2511,7 +2511,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花ハ踊レヤいろはにほ",
-  "artist": "DECO*27 feat. 初音ミク",
+  "artist": "DECO*27",
   "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jM4m1R7xi?p=23",
@@ -2799,7 +2799,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヨワネハキ",
-  "artist": "DECO*27 feat. 初音ミク",
+  "artist": "DECO*27",
   "collection": "#65【 稀羽すう 18首】周三是定期歌枠🎶  Singing Stream  1. 春を告げる",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cm421J78K?p=13",
@@ -2855,7 +2855,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "弱虫モンブラン",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "2024年4月5日 【稀羽すう】24首】 雨音、深夜的低语声睡眠引导歌枠",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1k1421m73t?p=2",
@@ -2935,7 +2935,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "乙女解剖",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "2024年4月5日 【稀羽すう】24首】 雨音、深夜的低语声睡眠引导歌枠",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1k1421m73t?p=12",
@@ -2943,7 +2943,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想感傷代償連盟",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "2024年4月5日 【稀羽すう】24首】 雨音、深夜的低语声睡眠引导歌枠",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1k1421m73t?p=13",
@@ -6895,7 +6895,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モザイクロール",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【 稀羽すう】16】🎶 #80 ダンスホール、 Lemon、夏色【240904】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TStEe8ES5?p=14",
@@ -6919,7 +6919,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アニマル",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【 稀羽すう 】9】标题为什么是猫雷🐱⚡❕",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aAtReqERy?p=1",
@@ -7503,7 +7503,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想感傷代償連盟",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【 稀羽すう】15】🎶 #82リスキーゲーム、 シザーハンズ、香水【240925】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV169x3edEPp?p=14",
@@ -8271,7 +8271,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヴァンパイア",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "#86【稀羽すう】16】🎶 【20241030】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11YSGYkEj4?p=4",
@@ -8735,7 +8735,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "弱虫モンブラン",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "#88【 稀羽すう】星期三的定期歌枠~🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14eUQYHEue?p=6",
@@ -8775,7 +8775,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モザイクロール",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "#88【 稀羽すう】星期三的定期歌枠~🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14eUQYHEue?p=11",
@@ -8895,7 +8895,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "おじゃま虫",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "#89【稀羽すう 】星期三定期歌回🎶【18",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SwzpYEEPr?p=14",
@@ -8903,7 +8903,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想感傷代償連盟",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "#89【稀羽すう 】星期三定期歌回🎶【18",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SwzpYEEPr?p=15",
@@ -11399,7 +11399,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "サラマンダー",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【稀羽すう/Re:AcT】欢迎新朋友!我想为周五之夜增添色彩【歌枠/KARAOKE】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1rF9UY1ELc?p=6",
@@ -12495,7 +12495,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "弱虫モンブラン",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【 稀羽すう】水曜定期歌枠 #105 Singing Stream 2025年04月16日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19moMYwEnb?p=5",
@@ -15471,7 +15471,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モザイクロール(Reloaded)",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sFeZzME6F?p=14",
@@ -15479,7 +15479,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シンデレラ",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sFeZzME6F?p=15",
@@ -15487,7 +15487,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "セカイ",
-  "artist": "DECO27と堀江晶太",
+  "artist": "DECO*27",
   "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sFeZzME6F?p=16",
@@ -15495,7 +15495,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想感傷代償連盟",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sFeZzME6F?p=17",
@@ -15503,7 +15503,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "二息歩行（Reloaded）",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sFeZzME6F?p=18",
@@ -16151,7 +16151,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想感傷代償連盟",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【 稀羽すう #歌枠 】竖屏 秋もうすぐってまじ？？？？？？",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DgpRzCE6R?p=10",
@@ -16479,7 +16479,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【 稀羽すう】#122 きらきらになれ～！！水曜日は定期歌枠",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wxHAzUEvZ?p=7",
@@ -16559,7 +16559,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【稀羽すう】10万人耐久。お願いします！！！！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mFHKzAEK2?p=7",
@@ -17119,7 +17119,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "セカイ",
-  "artist": "DECO27, 堀江晶太",
+  "artist": "DECO*27",
   "collection": "【 稀羽すう】水曜20時は定期歌枠 #125 好冷啊，感觉像冬天一样。 もう冬みたいに寒くて無理。",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NFyxBsEVa?p=3",
@@ -18223,7 +18223,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【稀羽すう - Suu Usuwa -】#130 在可爱的家中3D演唱——啊咧，今天是最后一天？あれ、今日までなんだよね。可憐なおうち3Dで歌う",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1snqLByEEr?p=7",
@@ -19111,7 +19111,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【🦢稀羽すう-Suu Usuwa-歌切】[2026-01-17] 昼下がりに１曲どうぞ！ [TKqCdlLADRw]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17tkgBAEtR?p=9",
@@ -19367,7 +19367,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "弱虫モンブラン (reloaded)",
-  "artist": "DECO×27",
+  "artist": "DECO*27",
   "collection": "[2026-01-28]届けます。#134 水曜日20時は定期歌枠 [Ki_lumbpXRU]【🦢稀羽すう 歌切】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vyzXB6EHN?p=4",

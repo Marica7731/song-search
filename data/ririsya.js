@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 4/6/2026, 11:54:00 AM
+// 生成时间: 4/6/2026, 12:51:30 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3119,7 +3119,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ゴーストルール",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "补合集 🐍凛々咲 2024年12月~2025年02月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iN6LBiEgE?p=114",
@@ -3367,7 +3367,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "DECO*27 feat. 初音ミク",
+  "artist": "DECO*27",
   "collection": "【凛々咲 Ririsya】💜完全復活！元気もりもり歌枠【Karaoke/歌枠】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XCQDYTE9K?p=9",
@@ -4015,7 +4015,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "DECO*27 feat. 初音ミク",
+  "artist": "DECO*27",
   "collection": "【凛々咲】所有類型的歌枠💜ALL GENRES SINGING【Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NRdjYiEuy?p=10",
@@ -5183,7 +5183,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "弱虫モンブラン",
-  "artist": "DECO*27 feat. 初音ミク",
+  "artist": "DECO*27",
   "collection": "【VTuber/凛々咲 Ririsya】竖屏钢琴ピアノ伴奏で歌う🎹💜2025年5月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B87QzvEPj?p=2",
@@ -5191,7 +5191,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想感傷代償連盟",
-  "artist": "DECO*27 feat. 初音ミク",
+  "artist": "DECO*27",
   "collection": "【VTuber/凛々咲 Ririsya】竖屏钢琴ピアノ伴奏で歌う🎹💜2025年5月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B87QzvEPj?p=3",
@@ -5207,7 +5207,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヨワネハキ",
-  "artist": "DECO*27 feat. 初音ミク",
+  "artist": "DECO*27",
   "collection": "【VTuber/凛々咲 Ririsya】竖屏钢琴ピアノ伴奏で歌う🎹💜2025年5月30日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B87QzvEPj?p=5",
@@ -6031,7 +6031,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "DECO*27 feat. 初音ミク",
+  "artist": "DECO*27",
   "collection": "【凛々咲】リクエストで歌う弾き語り💜#歌枠 #VTuber #shorts",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D1MDzAEg7?p=8",
@@ -6703,7 +6703,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【 Acoustic / 弾き語り 】睡眠導入しっとり弾き語り🌙Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wKM9ztEsk?p=3",
@@ -9479,7 +9479,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "DECO*27 feat. 初音ミク",
+  "artist": "DECO*27",
   "collection": "【 #弾き語り┆Acoustic 】深夜のChill弾き語り🌙 Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19FpXzkEes?p=2",
@@ -9815,7 +9815,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想感傷代償連盟",
-  "artist": "DECO*27 feat. 初音ミク",
+  "artist": "DECO*27",
   "collection": "【#凛々咲  歌切】 低音で歌ってみる歌枠 ✧ Deep Voice Singing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dbnszwEyh?p=13",
@@ -10711,7 +10711,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヴァンパイア",
-  "artist": "DECO*27 feat. 初音ミク",
+  "artist": "DECO*27",
   "collection": "【凛々咲 切片】万圣节歌回 🎃 HALLOWEEN SINGING 🎃 ハロウィン歌枠【 VTuber / #凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eDyQBLEtK?p=13",
@@ -10791,7 +10791,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "弱虫モンブラン",
-  "artist": "DECO*27 feat. 初音ミク",
+  "artist": "DECO*27",
   "collection": "【歌切 #凛々咲】睡意朦胧的耳语嗓音歌唱直播眠🌙れるウィスパーボイス歌枠🌙Whisper Voice Singing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13c1bBLE8G?p=7",
@@ -10799,7 +10799,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想感傷代償連盟",
-  "artist": "DECO*27 feat. 初音ミク",
+  "artist": "DECO*27",
   "collection": "【歌切 #凛々咲】睡意朦胧的耳语嗓音歌唱直播眠🌙れるウィスパーボイス歌枠🌙Whisper Voice Singing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13c1bBLE8G?p=8",
@@ -13047,7 +13047,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "DECO×27",
+  "artist": "DECO*27",
   "collection": "【🐍凛々咲/Ririsya 歌切】[2026-01-23]Home 3D RIRISYA BIRTHDAY PARTY🎂🎉 [tiAklt6gOoo]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QQzrBKEZ6?p=7",
@@ -13111,7 +13111,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "弱虫モンブラン",
-  "artist": "DECO×27",
+  "artist": "DECO*27",
   "collection": "【🐍凛々咲 歌切】[2026-01-27]深夜のピアノ歌枠 ✧ Piano Arrange Singing [riZ_wV--HQc]Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19y6VBcEBz?p=2",
@@ -13119,7 +13119,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モザイクロール",
-  "artist": "DECO×27",
+  "artist": "DECO*27",
   "collection": "【🐍凛々咲 歌切】[2026-01-27]深夜のピアノ歌枠 ✧ Piano Arrange Singing [riZ_wV--HQc]Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19y6VBcEBz?p=3",

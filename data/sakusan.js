@@ -1,6 +1,6 @@
 // 酢酸 / SAKUSAN - 歌单数据 (多合集汇总)
 // 来源: BV1JSZHBrEVw
-// 生成时间: 4/6/2026, 11:54:50 AM
+// 生成时间: 4/6/2026, 12:52:21 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -151,7 +151,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "酢酸かのん 2025.5.5直播 粉丝向花絮歌切",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ANVrzMEJC?p=1",
@@ -367,7 +367,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【酢酸 / SAKUSAN 歌切】[2025-05-15]うた聴いていってください...！🤍＼初見さんも大歓迎／[50t3HUO3ODU]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15YzHBmEJi?p=3",
@@ -591,7 +591,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【酢酸 / SAKUSAN 歌切】[2025-05-24]5月ラスト歌枠、歌きいていってください…！🤍＼初見さんも大歓迎／[eSYbxO1qJrU]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13zzHBCEAB?p=5",
@@ -631,7 +631,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヴァンパイア",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【酢酸 / SAKUSAN 歌切】[2025-05-24]5月ラスト歌枠、歌きいていってください…！🤍＼初見さんも大歓迎／[eSYbxO1qJrU]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13zzHBCEAB?p=10",
@@ -1071,7 +1071,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【酢酸 / SAKUSAN 歌切】[2026-01-18]新年初、歌います！！！挑戦曲あり！[9IQXktPcmdg]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16rkuBeEBo?p=27",

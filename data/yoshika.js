@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 4/6/2026, 11:55:20 AM
+// 生成时间: 4/6/2026, 12:52:43 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10111,7 +10111,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛言葉Ⅲ",
-  "artist": "DECO27 feat. 初音ミク",
+  "artist": "DECO*27",
   "collection": "【  YOSHIKA⁂Ch. 】32横屏】消せない罪 虎視眈々 波音のプレリュード【241004】】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14o1oYcERW?p=20",
@@ -11287,7 +11287,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想感傷代償連盟",
-  "artist": "DECO27 feat. 初音ミク",
+  "artist": "DECO*27",
   "collection": "【YOSHIKA⁂Ch. 🍠】28横屏】右肩の蝶 初音ミクの消失 妄想感傷代償連盟【20241017]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EpyGYQE63?p=26",
@@ -15975,7 +15975,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛言葉Ⅲ",
-  "artist": "DECO27 feat. 初音ミク",
+  "artist": "DECO*27",
   "collection": "【YOSHIKA⁂Ch. 】53 【2025年2月7日 +2025年2月8日】深夜のまったり歌回🌙🍠【2025年2月7日 +2025年2月8日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15sKHeZEYa?p=48",
@@ -15983,7 +15983,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛迷エレジー",
-  "artist": "DECO27 feat. 初音ミク",
+  "artist": "DECO*27",
   "collection": "【YOSHIKA⁂Ch. 】53 【2025年2月7日 +2025年2月8日】深夜のまったり歌回🌙🍠【2025年2月7日 +2025年2月8日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15sKHeZEYa?p=49",
@@ -15991,7 +15991,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想感傷代償連盟",
-  "artist": "DECO27 feat. 初音ミク",
+  "artist": "DECO*27",
   "collection": "【YOSHIKA⁂Ch. 】53 【2025年2月7日 +2025年2月8日】深夜のまったり歌回🌙🍠【2025年2月7日 +2025年2月8日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15sKHeZEYa?p=50",
@@ -16783,7 +16783,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛言葉Ⅲ",
-  "artist": "DECO27 feat. 初音ミク",
+  "artist": "DECO*27",
   "collection": "【歌枠】歌回～元気歌回～深夜の～🌟Singing Stream🍠KARAOKE【YOSHIKA⁂Ch. 】2025年03月01日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JTXdYcEvx?p=3",
@@ -17623,7 +17623,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛言葉Ⅲ",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【耐久歌枠（49）】🍠向着梦想一起前进的10万粉丝耐久歌回🌟【YOSHIKA⁂Ch.】2025年03月05日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14bRFYxEpC?p=44",
@@ -18911,7 +18911,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛言葉Ⅲ",
-  "artist": "DECO27 feat. 初音ミク",
+  "artist": "DECO*27",
   "collection": "【 YOSHIKA⁂Ch. 2025年04月26日接力】五年级Vtuber！唱回忆中的歌曲！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wLLZzpEHy?p=2",
@@ -19223,7 +19223,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛言葉Ⅲ",
-  "artist": "DECO27 feat. 初音ミク",
+  "artist": "DECO*27",
   "collection": "YOSHIKA⁂Ch. 2025年5月2日 竖屏歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14iVEzmEGg?p=5",
@@ -19695,7 +19695,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛言葉Ⅲ",
-  "artist": "DECO27 feat. 初音ミク",
+  "artist": "DECO*27",
   "collection": "2025年5月12日 YOSHIKA⁂Ch. 竖屏歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XhJNzKEVF?p=7",
@@ -19903,7 +19903,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛言葉Ⅲ",
-  "artist": "DECO27 feat. 初音ミク",
+  "artist": "DECO*27",
   "collection": "YOSHIKA⁂Ch.2025年5月28日竖屏歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cojazpEDN?p=4",
@@ -20319,7 +20319,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛言葉Ⅲ",
-  "artist": "DECO27 feat. 初音ミク",
+  "artist": "DECO*27",
   "collection": "YOSHIKA⁂Ch. 2025年6月14日 竖屏 愛言葉Ⅲ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ohMDzkEvP?p=1",
@@ -20823,7 +20823,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛言葉Ⅲ",
-  "artist": "DECO27 feat. 初音ミク",
+  "artist": "DECO*27",
   "collection": "2025年7月5日 YOSHIKA⁂Ch. 竖屏",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTGNzTESo?p=7",
@@ -25055,7 +25055,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モザイクロール",
-  "artist": "DECO×27 feat. GUMI",
+  "artist": "DECO*27",
   "collection": "【よしか⁂🍠歌切】[2026-01-23]1曲聴いてってください！ [qyk7TUkDI8k]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1X9zCBkE84?p=23",
@@ -25079,7 +25079,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "二息歩行",
-  "artist": "DECO×27 feat.初音ミク",
+  "artist": "DECO*27",
   "collection": "【よしか⁂🍠歌切】[2026-01-23]1曲聴いてってください！ [qyk7TUkDI8k]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1X9zCBkE84?p=26",

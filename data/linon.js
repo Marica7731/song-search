@@ -1,6 +1,6 @@
 // 天籠りのん - 歌单数据 (多合集汇总)
 // 来源: BV1hw4m1i7qN
-// 生成时间: 4/6/2026, 11:56:40 AM
+// 生成时间: 4/6/2026, 12:54:27 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1527,7 +1527,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想感傷代償連盟",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "天籠りのん 🎀🏳 2024",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UU411Z7W6?p=138",
@@ -1623,7 +1623,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "乙女解剖",
-  "artist": "DECO＊27",
+  "artist": "DECO*27",
   "collection": "天籠りのん 🎀🏳 2024",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UU411Z7W6?p=150",
@@ -2215,7 +2215,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想感傷代償連盟",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【天籠りのん】22 合集",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ietCe2EDX?p=18",
@@ -2311,7 +2311,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "乙女解剖",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【Linon ch. 天籠りのん】10】乙女解剖 夜もすがら君想ふ【20241020】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KYyiYAELi?p=9",
@@ -2663,7 +2663,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヒバナ",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【 #メメメのメ 歌枠リレー 】絶唱上等♡ラスト盛り上がっていけ～～～！！！^o^🏳【 #天籠りのん 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bSNkeMEWf?p=2",
@@ -2695,7 +2695,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "乙女解剖",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【 天籠りのん】劣等上等/乙女解剖/深海少女/恋愛裁判/炉心融解|||絶　唱　上　等【  / Sony Music VEE】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV176PMepECw?p=2",
@@ -2767,7 +2767,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想税",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【#天籠りのん生日庆祝】因为是生日,想唱一下自己想唱的歌曲...！初次公开曲目庆祝🎂✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qaP4e6Env?p=5",

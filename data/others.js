@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq
-// 生成时间: 4/6/2026, 12:03:15 PM
+// 生成时间: 4/6/2026, 1:01:10 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1391,7 +1391,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想感傷代償連盟",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LJ4m1A7FC?p=174",
@@ -2199,7 +2199,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想感傷代償連盟",
-  "artist": "DECO＊27",
+  "artist": "DECO*27",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=83",
@@ -2527,7 +2527,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "乙女解剖",
-  "artist": "DECO＊27",
+  "artist": "DECO*27",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=124",
@@ -6295,7 +6295,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "二息步行",
-  "artist": "DECO#27",
+  "artist": "DECO*27",
   "collection": "CULUA 2025-12-25 ~ 2026-02-12",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11GZtBcEsp?p=199",

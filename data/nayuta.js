@@ -1,6 +1,6 @@
 // nayuta - 歌单数据 (多合集汇总)
 // 来源: BV1GXYFzXETo, BV1MPpUzsE1D, BV184W5zeE1Z
-// 生成时间: 4/6/2026, 11:58:35 AM
+// 生成时间: 4/6/2026, 12:56:23 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -55,7 +55,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛言葉",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【nayuta会限1/21】声乐和钢琴的现场演奏会 vol.01 【2021年7月18日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GXYFzXETo?p=7",
@@ -2359,7 +2359,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛言葉",
-  "artist": "DECO27 feat. 初音ミク 『No You, No Me』収録",
+  "artist": "DECO*27",
   "collection": "【nayuta会限21/21】18周年記念 ~ 声乐和钢琴的现场演奏会 vol.21 【2025年6月18日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fDNJzmELd?p=6",
@@ -4231,7 +4231,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モザイクロール",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【会限】nayuta 3w粉丝倒计时歌回切片",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MPpUzsE1D?p=15",
@@ -4447,7 +4447,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シンデレラ",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=12",

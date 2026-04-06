@@ -1,6 +1,6 @@
 // むんもっしゅ - 歌单数据 (多合集汇总)
 // 来源: BV1UCkhBkEon
-// 生成时间: 4/6/2026, 11:58:57 AM
+// 生成时间: 4/6/2026, 12:56:42 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -599,7 +599,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛言葉Ⅲ",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t64y1E73d?p=33",
@@ -4599,7 +4599,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛言葉Ⅲ",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12shwepEQZ?p=21",
@@ -8167,7 +8167,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング (Best Friend Remix)",
-  "artist": "DECO★27",
+  "artist": "DECO*27",
   "collection": "【 むんもっしゅ 弾き語り】[2026-01-22]夕方の癒しタイム🎶 [7QP4ghI3UOc]🌙🎀",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GozFBQEKV?p=7",
@@ -8575,7 +8575,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング (Best Friend Remix)",
-  "artist": "DECO＊27",
+  "artist": "DECO*27",
   "collection": "[2026-01-31]【 #アコースティック歌枠リレー 】アコギは癒し🎸むんもっしゅです！  [E0No-54UhS4]【 むんもっしゅ 弾き語り】🌙🎀",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1g86WBHE2s?p=2",

@@ -1,6 +1,6 @@
 // 厄倫蒂兒 - 歌单数据 (多合集汇总)
 // 来源: BV1dGqeYpEuc
-// 生成时间: 4/6/2026, 11:56:21 AM
+// 生成时间: 4/6/2026, 12:54:05 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5399,7 +5399,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "神っぽいな",
-  "artist": "DECO27",
+  "artist": "DECO*27",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=101",
