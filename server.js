@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const http = require('http');
+const { execFile } = require('child_process');
 const { URL } = require('url');
 
 const ROOT = __dirname;
@@ -9,7 +10,11 @@ const INDEX_PATH = path.join(DATA_DIR, 'index.json');
 const REPORT_DIR = path.join(ROOT, 'reports');
 const GROWTH_HISTORY_PATH = path.join(REPORT_DIR, 'song-growth-history.json');
 const UPDATE_SONGS_META_PATH = path.join(REPORT_DIR, 'update-songs-meta.json');
+const ADMIN_TOKEN_PATH = '/root/.secrets/song-search-admin-token';
 const PORT = Number(process.env.PORT || 8080);
+const REFRESH_LOCK_PATH = '/tmp/song-search-refresh.lock';
+const REFRESH_SCRIPT_PATH = '/usr/local/bin/song-search-refresh.sh';
+const REFRESH_COOLDOWN_MS = 5 * 60 * 1000;
 
 let store = {
   songs: [],
@@ -19,6 +24,14 @@ let store = {
   totalUnique: 0,
   titleEntries: [],
   titleMap: new Map()
+};
+
+const refreshState = {
+  running: false,
+  lastStartedAtMs: 0,
+  lastFinishedAtMs: 0,
+  lastExitCode: null,
+  lastMessage: ''
 };
 
 const ROUTE_ALIASES = {
@@ -896,6 +909,124 @@ function readRequestBody(req) {
   });
 }
 
+function readAdminToken() {
+  try {
+    return fs.readFileSync(ADMIN_TOKEN_PATH, 'utf8').trim();
+  } catch (_) {
+    return '';
+  }
+}
+
+function getAdminTokenFromRequest(req) {
+  const headerToken = (req.headers['x-admin-token'] || '').trim();
+  if (headerToken) return headerToken;
+  const auth = (req.headers.authorization || '').trim();
+  if (auth.toLowerCase().startsWith('bearer ')) {
+    return auth.slice(7).trim();
+  }
+  return '';
+}
+
+function isAuthorizedAdmin(req) {
+  const expected = readAdminToken();
+  if (!expected) return false;
+  return getAdminTokenFromRequest(req) === expected;
+}
+
+function withAdminAuth(req, res) {
+  if (!isAuthorizedAdmin(req)) {
+    sendJson(res, 403, { error: 'Forbidden' });
+    return false;
+  }
+  return true;
+}
+
+function readUpdateSongsMeta() {
+  try {
+    return JSON.parse(fs.readFileSync(UPDATE_SONGS_META_PATH, 'utf8'));
+  } catch (_) {
+    return null;
+  }
+}
+
+function probeRefreshLock() {
+  return new Promise(resolve => {
+    execFile('flock', ['-n', REFRESH_LOCK_PATH, 'true'], error => {
+      if (!error) {
+        resolve(false);
+        return;
+      }
+      resolve(true);
+    });
+  });
+}
+
+async function buildRefreshStatus() {
+  const meta = readUpdateSongsMeta();
+  const lockBusy = await probeRefreshLock();
+  const now = Date.now();
+  const retryAfterMs = refreshState.lastStartedAtMs
+    ? Math.max(0, REFRESH_COOLDOWN_MS - (now - refreshState.lastStartedAtMs))
+    : 0;
+  return {
+    available: Boolean(readAdminToken()),
+    running: refreshState.running || lockBusy,
+    cooldownMs: REFRESH_COOLDOWN_MS,
+    retryAfterMs,
+    lastStartedAtMs: refreshState.lastStartedAtMs || null,
+    lastFinishedAtMs: refreshState.lastFinishedAtMs || null,
+    lastExitCode: refreshState.lastExitCode,
+    lastMessage: refreshState.lastMessage || '',
+    updateSongsMeta: meta
+  };
+}
+
+async function handleAdminRefreshStatus(req, res) {
+  if (!withAdminAuth(req, res)) return;
+  const status = await buildRefreshStatus();
+  sendJson(res, 200, status);
+}
+
+async function handleAdminRefresh(req, res) {
+  if (!withAdminAuth(req, res)) return;
+  if (req.method !== 'POST') {
+    sendJson(res, 405, { error: 'Method Not Allowed' });
+    return;
+  }
+
+  const now = Date.now();
+  const lockBusy = await probeRefreshLock();
+  if (refreshState.running || lockBusy) {
+    sendJson(res, 409, { error: 'Refresh already running' });
+    return;
+  }
+
+  if (refreshState.lastStartedAtMs && now - refreshState.lastStartedAtMs < REFRESH_COOLDOWN_MS) {
+    sendJson(res, 429, {
+      error: 'Refresh cooldown',
+      retryAfterMs: REFRESH_COOLDOWN_MS - (now - refreshState.lastStartedAtMs)
+    });
+    return;
+  }
+
+  refreshState.running = true;
+  refreshState.lastStartedAtMs = now;
+  refreshState.lastMessage = 'Refresh started';
+
+  execFile('flock', ['-n', REFRESH_LOCK_PATH, REFRESH_SCRIPT_PATH], error => {
+    refreshState.running = false;
+    refreshState.lastFinishedAtMs = Date.now();
+    refreshState.lastExitCode = error ? (typeof error.code === 'number' ? error.code : 1) : 0;
+    refreshState.lastMessage = error ? String(error.message || 'Refresh failed') : 'Refresh completed';
+  });
+
+  sendJson(res, 202, {
+    ok: true,
+    startedAtMs: refreshState.lastStartedAtMs,
+    cooldownMs: REFRESH_COOLDOWN_MS
+  });
+}
+
 loadSongStore();
 
 const server = http.createServer(async (req, res) => {
@@ -931,6 +1062,14 @@ const server = http.createServer(async (req, res) => {
   }
   if (reqUrl.pathname === '/api/site-meta') {
     handleSiteMeta(res);
+    return;
+  }
+  if (reqUrl.pathname === '/api/admin/refresh-status') {
+    await handleAdminRefreshStatus(req, res);
+    return;
+  }
+  if (reqUrl.pathname === '/api/admin/refresh') {
+    await handleAdminRefresh(req, res);
     return;
   }
   if (reqUrl.pathname === '/api/title-artist/suggest') {
