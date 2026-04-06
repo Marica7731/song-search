@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据 (多合集汇总)
 // 来源: BV1zzZPBsEum
-// 生成时间: 4/6/2026, 7:50:18 PM
+// 生成时间: 4/6/2026, 8:35:38 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2670,7 +2670,7 @@ window.SONG_DATA.push(
   "source": "otomoneruki.js"
 },
     {
-  "title": "心拍数# 0822",
+  "title": "心拍数♯0822",
   "artist": "蝶々P feat. 初音ミク",
   "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
@@ -3958,7 +3958,7 @@ window.SONG_DATA.push(
   "source": "otomoneruki.js"
 },
     {
-  "title": "心拍数# 0822",
+  "title": "心拍数♯0822",
   "artist": "蝶々P feat. 初音ミク",
   "collection": "【👿歌切】[2026-03-13]代替电台的早歌时段📻🎶请听一首哦😈✨[jVy9ltTcTAk] 音門るき",
   "up": "前尘往事如昔故",

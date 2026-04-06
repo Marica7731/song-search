@@ -1,6 +1,6 @@
 // むんもっしゅ - 歌单数据 (多合集汇总)
 // 来源: BV1UCkhBkEon
-// 生成时间: 4/6/2026, 7:53:19 PM
+// 生成时间: 4/6/2026, 8:37:55 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -142,7 +142,7 @@ window.SONG_DATA.push(
   "source": "MunMosh.js"
 },
     {
-  "title": "心拍数 # 0822",
+  "title": "心拍数♯0822",
   "artist": "蝶々P",
   "collection": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "up": "前尘往事如昔故",
@@ -3150,7 +3150,7 @@ window.SONG_DATA.push(
   "source": "MunMosh.js"
 },
     {
-  "title": "心拍数 # 0822",
+  "title": "心拍数♯0822",
   "artist": "蝶々P",
   "collection": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "up": "前尘往事如昔故",
@@ -4534,7 +4534,7 @@ window.SONG_DATA.push(
   "source": "MunMosh.js"
 },
     {
-  "title": "心拍数 # 0822",
+  "title": "心拍数♯0822",
   "artist": "蝶々P",
   "collection": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "up": "前尘往事如昔故",
@@ -8454,7 +8454,7 @@ window.SONG_DATA.push(
   "source": "MunMosh.js"
 },
     {
-  "title": "心拍数＃0822",
+  "title": "心拍数♯0822",
   "artist": "蝶々P",
   "collection": "[2026-01-29]同接450人目指します！🎸＃耐久 [Y4RsLCOtfVk]【 むんもっしゅ 弾き語り】🌙🎀",
   "up": "前尘往事如昔故",

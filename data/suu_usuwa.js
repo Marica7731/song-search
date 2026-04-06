@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 4/6/2026, 7:48:16 PM
+// 生成时间: 4/6/2026, 8:33:41 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -17766,7 +17766,7 @@ window.SONG_DATA.push(
   "source": "suu_usuwa.js"
 },
     {
-  "title": "心拍数♯0822 -Piano Ver.-",
+  "title": "心拍数♯0822",
   "artist": "蝶々P",
   "collection": "【稀羽すう - Suu Usuwa -】7曲「だけ」歌います。2025年12月01日 /  KARAOKE #shorts #vtuber",
   "up": "前尘往事如昔故",
