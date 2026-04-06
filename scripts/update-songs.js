@@ -319,7 +319,7 @@ async function processSinger(config, cache) {
 
     for (const [index, episodeBvid] of allEpisodeBvids.entries()) {
         try {
-            const metadata = await fetchBvMetadata(episodeBvid, cache, false);
+            const metadata = await fetchBvMetadata(episodeBvid, cache, true);
             const pages = Array.isArray(metadata.pages) ? metadata.pages : [];
             pages.forEach(pageMeta => {
                 allSongs.push(buildSongItem(config, metadata, pageMeta));
