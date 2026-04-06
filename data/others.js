@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq
-// 生成时间: 4/6/2026, 6:39:26 AM
+// 生成时间: 4/6/2026, 8:32:14 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14091,6 +14091,86 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-04-04 涼海ネモ / Nemo Channel【ななしいんく】 M11uQWCMOfQ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TLSUB3EZa?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "茜",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-04-05 Nana Hisagi Ch. 無々ひさぎ S9sDLNl84tY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yBSoB4EjE?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "春よ、来い",
+  "artist": "松任谷由実",
+  "collection": "歌切 2026-04-05 Nana Hisagi Ch. 無々ひさぎ S9sDLNl84tY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yBSoB4EjE?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団 feat. 安次嶺希和子",
+  "collection": "歌切 2026-04-05 Nana Hisagi Ch. 無々ひさぎ S9sDLNl84tY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yBSoB4EjE?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "魔性",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-04-05 Nana Hisagi Ch. 無々ひさぎ S9sDLNl84tY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yBSoB4EjE?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-04-05 Nana Hisagi Ch. 無々ひさぎ S9sDLNl84tY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yBSoB4EjE?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "グレゴリオ",
+  "artist": "古川本舗",
+  "collection": "歌切 2026-04-05 Nana Hisagi Ch. 無々ひさぎ S9sDLNl84tY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yBSoB4EjE?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "シリウスの心臓",
+  "artist": "ヰ世界情緒",
+  "collection": "歌切 2026-04-05 Nana Hisagi Ch. 無々ひさぎ S9sDLNl84tY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yBSoB4EjE?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-04-05 Nana Hisagi Ch. 無々ひさぎ S9sDLNl84tY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yBSoB4EjE?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "灰色と青",
+  "artist": "米津玄師+菅田将暉",
+  "collection": "歌切 2026-04-05 Nana Hisagi Ch. 無々ひさぎ S9sDLNl84tY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yBSoB4EjE?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "歌切 2026-04-05 Nana Hisagi Ch. 無々ひさぎ S9sDLNl84tY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yBSoB4EjE?p=10",
   "source": "others.js"
 },
     {

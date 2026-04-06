@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 4/6/2026, 6:28:57 AM
+// 生成时间: 4/6/2026, 8:21:49 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14571,6 +14571,142 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-04-01]神秘嘉宾是谁？！愚人节特别歌回 ✧凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m69JBNEm7?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "春を告げる",
+  "artist": "yama",
+  "collection": "【🐍歌切】[2026-04-06]Hanami🌸赏樱歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11iSoBZEmU?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "【🐍歌切】[2026-04-06]Hanami🌸赏樱歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11iSoBZEmU?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Laugh away",
+  "artist": "YUI",
+  "collection": "【🐍歌切】[2026-04-06]Hanami🌸赏樱歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11iSoBZEmU?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "桜キッス",
+  "artist": "河辺千恵子",
+  "collection": "【🐍歌切】[2026-04-06]Hanami🌸赏樱歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11iSoBZEmU?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "さくらんぼ",
+  "artist": "大塚愛",
+  "collection": "【🐍歌切】[2026-04-06]Hanami🌸赏樱歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11iSoBZEmU?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "桜坂",
+  "artist": "福山雅治",
+  "collection": "【🐍歌切】[2026-04-06]Hanami🌸赏樱歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11iSoBZEmU?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "さくら",
+  "artist": "森山直太朗",
+  "collection": "【🐍歌切】[2026-04-06]Hanami🌸赏樱歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11iSoBZEmU?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "桜",
+  "artist": "コブクロ",
+  "collection": "【🐍歌切】[2026-04-06]Hanami🌸赏樱歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11iSoBZEmU?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "卒業写真",
+  "artist": "荒井由実",
+  "collection": "【🐍歌切】[2026-04-06]Hanami🌸赏樱歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11iSoBZEmU?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "3月9日",
+  "artist": "レミオロメン",
+  "collection": "【🐍歌切】[2026-04-06]Hanami🌸赏樱歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11iSoBZEmU?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "なごり雪",
+  "artist": "イルカ",
+  "collection": "【🐍歌切】[2026-04-06]Hanami🌸赏樱歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11iSoBZEmU?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "春よ、来い",
+  "artist": "松任谷由実",
+  "collection": "【🐍歌切】[2026-04-06]Hanami🌸赏樱歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11iSoBZEmU?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "SAKURA",
+  "artist": "いきものがかり",
+  "collection": "【🐍歌切】[2026-04-06]Hanami🌸赏樱歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11iSoBZEmU?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "チェリー",
+  "artist": "スピッツ",
+  "collection": "【🐍歌切】[2026-04-06]Hanami🌸赏樱歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11iSoBZEmU?p=14",
+  "source": "ririsya.js"
+},
+    {
+  "title": "春の歌",
+  "artist": "スピッツ",
+  "collection": "【🐍歌切】[2026-04-06]Hanami🌸赏樱歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11iSoBZEmU?p=15",
+  "source": "ririsya.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-04-06]Hanami🌸赏樱歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11iSoBZEmU?p=16",
+  "source": "ririsya.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-04-06]Hanami🌸赏樱歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11iSoBZEmU?p=17",
   "source": "ririsya.js"
 }
 );
