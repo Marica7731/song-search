@@ -1,6 +1,6 @@
 // 來-Ray- - 歌单数据 (多合集汇总)
 // 来源: BV1mJZwB8EVa
-// 生成时间: 4/6/2026, 10:30:52 PM
+// 生成时间: 4/6/2026, 11:30:54 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3187,6 +3187,166 @@ window.SONG_DATA.push(
   "collection": "【來 歌切】[2026-03-22]Super歌枠Time！！[k9XDD7QEJ9w] -Ray-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XUQSBWEc3?p=22",
+  "source": "ray.js"
+},
+    {
+  "title": "ドナーソング",
+  "artist": "れるりり feat. GUMI",
+  "collection": "【歌切】[2026-04-06]春天到了，该开歌回了 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEVM?p=1",
+  "source": "ray.js"
+},
+    {
+  "title": "ELECT",
+  "artist": "niki feat. Lily",
+  "collection": "【歌切】[2026-04-06]春天到了，该开歌回了 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEVM?p=2",
+  "source": "ray.js"
+},
+    {
+  "title": "ELECT",
+  "artist": "niki feat. Lily",
+  "collection": "【歌切】[2026-04-06]春天到了，该开歌回了 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEVM?p=3",
+  "source": "ray.js"
+},
+    {
+  "title": "出来心",
+  "artist": "ポリスピカデリー feat. 箱庭コト",
+  "collection": "【歌切】[2026-04-06]春天到了，该开歌回了 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEVM?p=4",
+  "source": "ray.js"
+},
+    {
+  "title": "B.O.M.",
+  "artist": "初音ミク",
+  "collection": "【歌切】[2026-04-06]春天到了，该开歌回了 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEVM?p=5",
+  "source": "ray.js"
+},
+    {
+  "title": "心象カスケード",
+  "artist": "koyori feat. flower",
+  "collection": "【歌切】[2026-04-06]春天到了，该开歌回了 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEVM?p=6",
+  "source": "ray.js"
+},
+    {
+  "title": "曖昧さ回避",
+  "artist": "ポリスピカデリー feat. 闇音レンリ",
+  "collection": "【歌切】[2026-04-06]春天到了，该开歌回了 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEVM?p=7",
+  "source": "ray.js"
+},
+    {
+  "title": "ネメシア",
+  "artist": "necchi",
+  "collection": "【歌切】[2026-04-06]春天到了，该开歌回了 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEVM?p=8",
+  "source": "ray.js"
+},
+    {
+  "title": "ドーナツホール",
+  "artist": "ハチ feat. GUMI",
+  "collection": "【歌切】[2026-04-06]春天到了，该开歌回了 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEVM?p=9",
+  "source": "ray.js"
+},
+    {
+  "title": "Beyond the way",
+  "artist": "Giga feat. 初音ミク・鏡音リン・鏡音レン",
+  "collection": "【歌切】[2026-04-06]春天到了，该开歌回了 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEVM?p=10",
+  "source": "ray.js"
+},
+    {
+  "title": "tear",
+  "artist": "DATEKEN feat. 鏡音リン",
+  "collection": "【歌切】[2026-04-06]春天到了，该开歌回了 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEVM?p=11",
+  "source": "ray.js"
+},
+    {
+  "title": "桜キッス",
+  "artist": "河辺千恵子",
+  "collection": "【歌切】[2026-04-06]春天到了，该开歌回了 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEVM?p=12",
+  "source": "ray.js"
+},
+    {
+  "title": "夕空センチメンタル",
+  "artist": "エキゾチックかまたに feat. 初音ミク",
+  "collection": "【歌切】[2026-04-06]春天到了，该开歌回了 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEVM?p=13",
+  "source": "ray.js"
+},
+    {
+  "title": "プラトニック・ラヴ",
+  "artist": "メル feat. IA",
+  "collection": "【歌切】[2026-04-06]春天到了，该开歌回了 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEVM?p=14",
+  "source": "ray.js"
+},
+    {
+  "title": "she",
+  "artist": "keeno feat. 初音ミク",
+  "collection": "【歌切】[2026-04-06]春天到了，该开歌回了 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEVM?p=15",
+  "source": "ray.js"
+},
+    {
+  "title": "Ordinary",
+  "artist": "ポリスピカデリー feat. 初音ミク",
+  "collection": "【歌切】[2026-04-06]春天到了，该开歌回了 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEVM?p=16",
+  "source": "ray.js"
+},
+    {
+  "title": "病名は愛だった",
+  "artist": "Neru feat. 鏡音リン・鏡音レン",
+  "collection": "【歌切】[2026-04-06]春天到了，该开歌回了 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEVM?p=17",
+  "source": "ray.js"
+},
+    {
+  "title": "DAYBREAK FRONTLINE",
+  "artist": "Orangestar feat. IA",
+  "collection": "【歌切】[2026-04-06]春天到了，该开歌回了 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEVM?p=18",
+  "source": "ray.js"
+},
+    {
+  "title": "命のユースティティア",
+  "artist": "Neru feat. 鏡音レン",
+  "collection": "【歌切】[2026-04-06]春天到了，该开歌回了 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEVM?p=19",
+  "source": "ray.js"
+},
+    {
+  "title": "OVER",
+  "artist": "Shake Sphere feat. 初音ミク",
+  "collection": "【歌切】[2026-04-06]春天到了，该开歌回了 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEVM?p=20",
   "source": "ray.js"
 }
 );

@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 4/6/2026, 10:31:57 PM
+// 生成时间: 4/6/2026, 11:31:41 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -29635,6 +29635,206 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-04-05]初見さん歓迎！深夜だけど歌うぞ～！YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KmS9B9Ee3?p=23",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春",
+  "collection": "【🍠🦍歌切】[2026-04-07]初見さん歓迎！みんないらっしゃい～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEPj?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "【🍠🦍歌切】[2026-04-07]初見さん歓迎！みんないらっしゃい～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEPj?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-04-07]初見さん歓迎！みんないらっしゃい～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEPj?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "TOMORROW",
+  "artist": "岡本真夜",
+  "collection": "【🍠🦍歌切】[2026-04-07]初見さん歓迎！みんないらっしゃい～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEPj?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "世界に一つだけの花",
+  "artist": "SMAP",
+  "collection": "【🍠🦍歌切】[2026-04-07]初見さん歓迎！みんないらっしゃい～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEPj?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "青春ライン",
+  "artist": "いきものがかり",
+  "collection": "【🍠🦍歌切】[2026-04-07]初見さん歓迎！みんないらっしゃい～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEPj?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP Feat.初音ミク",
+  "collection": "【🍠🦍歌切】[2026-04-07]初見さん歓迎！みんないらっしゃい～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEPj?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "恋は渾沌の隷也",
+  "artist": "後ろから這いより隊G",
+  "collection": "【🍠🦍歌切】[2026-04-07]初見さん歓迎！みんないらっしゃい～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEPj?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【🍠🦍歌切】[2026-04-07]初見さん歓迎！みんないらっしゃい～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEPj?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【🍠🦍歌切】[2026-04-07]初見さん歓迎！みんないらっしゃい～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEPj?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【🍠🦍歌切】[2026-04-07]初見さん歓迎！みんないらっしゃい～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEPj?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Spending",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-04-07]初見さん歓迎！みんないらっしゃい～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEPj?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【🍠🦍歌切】[2026-04-07]初見さん歓迎！みんないらっしゃい～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEPj?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさＰ feat 初音ミク",
+  "collection": "【🍠🦍歌切】[2026-04-07]初見さん歓迎！みんないらっしゃい～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEPj?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "COLORS",
+  "artist": "FLOW",
+  "collection": "【🍠🦍歌切】[2026-04-07]初見さん歓迎！みんないらっしゃい～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEPj?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "愛 for you！",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-04-07]初見さん歓迎！みんないらっしゃい～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEPj?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "さくらんぼ",
+  "artist": "大塚愛",
+  "collection": "【🍠🦍歌切】[2026-04-07]初見さん歓迎！みんないらっしゃい～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEPj?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "気分上々↑↑",
+  "artist": "mihimaru GT",
+  "collection": "【🍠🦍歌切】[2026-04-07]初見さん歓迎！みんないらっしゃい～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEPj?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "心絵",
+  "artist": "ロードオブメジャー",
+  "collection": "【🍠🦍歌切】[2026-04-07]初見さん歓迎！みんないらっしゃい～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEPj?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "詠人",
+  "artist": "北島三郎",
+  "collection": "【🍠🦍歌切】[2026-04-07]初見さん歓迎！みんないらっしゃい～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEPj?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "小さきもの",
+  "artist": "林明日香",
+  "collection": "【🍠🦍歌切】[2026-04-07]初見さん歓迎！みんないらっしゃい～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEPj?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ショコラに夢中",
+  "artist": "安野モヨコ",
+  "collection": "【🍠🦍歌切】[2026-04-07]初見さん歓迎！みんないらっしゃい～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEPj?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "HANAJI",
+  "artist": "小林ゆう",
+  "collection": "【🍠🦍歌切】[2026-04-07]初見さん歓迎！みんないらっしゃい～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEPj?p=23",
+  "source": "yoshika.js"
+},
+    {
+  "title": "明日への扉",
+  "artist": "川嶋あい",
+  "collection": "【🍠🦍歌切】[2026-04-07]初見さん歓迎！みんないらっしゃい～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEPj?p=24",
+  "source": "yoshika.js"
+},
+    {
+  "title": "secret base ～君がくれたもの～",
+  "artist": "ZONE",
+  "collection": "【🍠🦍歌切】[2026-04-07]初見さん歓迎！みんないらっしゃい～！YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KvDbBSEPj?p=25",
   "source": "yoshika.js"
 }
 );
