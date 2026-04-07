@@ -456,7 +456,6 @@ tbody tr:hover {
     padding: 18px 12px !important;
   }
 
-  .filter-bar,
   .search-field-bar,
   .search-box,
   .controls,
@@ -479,6 +478,24 @@ tbody tr:hover {
 
   .source-meta {
     margin-left: 0;
+  }
+
+  .filter-bar {
+    flex-direction: row !important;
+    align-items: center !important;
+    justify-content: flex-start !important;
+  }
+
+  .filter-bar .filter-label {
+    width: 100%;
+    margin-bottom: 2px;
+  }
+
+  .filter-bar .source-select,
+  .filter-bar .filter-select {
+    flex: 1 1 100% !important;
+    width: 100% !important;
+    min-width: 0 !important;
   }
 
   .container {
