@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>B站歌单JSON -> songData转换器</title>
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    <link rel="stylesheet" href="/site-theme.css">
     <style>
         body { font-family: sans-serif; max-width: 1000px; margin: 20px auto; padding: 20px; background: #f4f4f4; }
         h2 { border-bottom: 2px solid #00a1d6; padding-bottom: 10px; color: #333; }
@@ -21,7 +22,7 @@
 </head>
 <body>
 
-    <h2>🎵 数据自动转换器</h2>
+    <h2>数据自动转换器</h2>
     <div class="module-nav">
         <a href="/">首页</a> |
         <a href="/bv">BV号查重</a> |
@@ -48,8 +49,8 @@
         </div>
     </div>
 
-    <button onclick="convertData()">🔄 开始转换</button>
-    <button onclick="copyOutput()" style="background-color: #28a745;">📋 复制结果</button>
+    <button onclick="convertData()">开始转换</button>
+    <button onclick="copyOutput()" style="background-color: #28a745;">复制结果</button>
 
     <script>
         // 解析歌名的辅助函数：尝试分离 "序号. 歌名 - 歌手"
