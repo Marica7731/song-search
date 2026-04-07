@@ -1,6 +1,6 @@
 // 來-Ray- - 歌单数据 (多合集汇总)
 // 来源: BV1mJZwB8EVa
-// 生成时间: 4/6/2026, 11:30:54 PM
+// 生成时间: 4/7/2026, 1:27:29 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3222,8 +3222,8 @@ window.SONG_DATA.push(
   "source": "ray.js"
 },
     {
-  "title": "B.O.M.",
-  "artist": "初音ミク",
+  "title": "BOM",
+  "artist": "Bolbbalgan4 (BOL4)",
   "collection": "【歌切】[2026-04-06]春天到了，该开歌回了 來-Ray-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KvDbBSEVM?p=5",
