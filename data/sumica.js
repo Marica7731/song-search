@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 4/7/2026, 11:39:30 PM
+// 生成时间: 4/8/2026, 1:32:47 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -667,6 +667,110 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-04-04]一起享受悠闲的弹唱与熬夜吧-sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VcSUBDEoJ?p=29",
+  "source": "sumica.js"
+},
+    {
+  "title": "花降らし",
+  "artist": "n-buna",
+  "collection": "【歌切】[2026-04-07]春假最后😭尽情享受歌唱吧～‼️🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12DDzBEEy8?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "コイワズライ",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-04-07]春假最后😭尽情享受歌唱吧～‼️🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12DDzBEEy8?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "コイスルオトメ",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-04-07]春假最后😭尽情享受歌唱吧～‼️🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12DDzBEEy8?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "SAKURA",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-04-07]春假最后😭尽情享受歌唱吧～‼️🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12DDzBEEy8?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "失恋ソングを歌ったあとに",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-04-07]春假最后😭尽情享受歌唱吧～‼️🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12DDzBEEy8?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-07]春假最后😭尽情享受歌唱吧～‼️🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12DDzBEEy8?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "千鳥",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-07]春假最后😭尽情享受歌唱吧～‼️🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12DDzBEEy8?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "花瓶に触れた",
+  "artist": "バルーン",
+  "collection": "【歌切】[2026-04-07]春假最后😭尽情享受歌唱吧～‼️🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12DDzBEEy8?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "Swallowtail Butterfly 〜あいのうた〜",
+  "artist": "YEN TOWN BAND",
+  "collection": "【歌切】[2026-04-07]春假最后😭尽情享受歌唱吧～‼️🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12DDzBEEy8?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "あなたがいることで",
+  "artist": "Uru",
+  "collection": "【歌切】[2026-04-07]春假最后😭尽情享受歌唱吧～‼️🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12DDzBEEy8?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "明日への手紙",
+  "artist": "手嶌葵",
+  "collection": "【歌切】[2026-04-07]春假最后😭尽情享受歌唱吧～‼️🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12DDzBEEy8?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-04-07]春假最后😭尽情享受歌唱吧～‼️🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12DDzBEEy8?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "泣き虫上等",
+  "artist": "澄花",
+  "collection": "【歌切】[2026-04-07]春假最后😭尽情享受歌唱吧～‼️🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12DDzBEEy8?p=13",
   "source": "sumica.js"
 }
 );

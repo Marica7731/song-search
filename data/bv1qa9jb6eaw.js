@@ -1,6 +1,6 @@
 // 陽月るるふ - 歌单数据 (多合集汇总)
 // 来源: BV1Qa9JB6EAw
-// 生成时间: 4/7/2026, 11:44:33 PM
+// 生成时间: 4/8/2026, 1:36:55 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -651,6 +651,126 @@ window.SONG_DATA.push(
   "collection": "弾き語り 🐺🎀 打卡生日月每日歌回 Day7 陽月るるふ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1voDbBeE7P?p=9",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "My Dearest",
+  "artist": "supercell",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iDzBZEfD?p=1",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "初めての恋が終わる時",
+  "artist": "supercell",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iDzBZEfD?p=2",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "星が瞬くこんな夜に",
+  "artist": "supercell",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iDzBZEfD?p=3",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "脳裏上のクラッカー",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iDzBZEfD?p=4",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "Subtitle",
+  "artist": "Official髭男dism",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iDzBZEfD?p=5",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "プライド革命",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iDzBZEfD?p=6",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "小悪魔だってかまわない！",
+  "artist": "めいちゃん",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iDzBZEfD?p=7",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "サターン",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iDzBZEfD?p=8",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユリ",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iDzBZEfD?p=9",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iDzBZEfD?p=10",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iDzBZEfD?p=11",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "celluloid",
+  "artist": "baker",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iDzBZEfD?p=12",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iDzBZEfD?p=13",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "天体観測",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iDzBZEfD?p=14",
+  "source": "bv1qa9jb6eaw.js"
+},
+    {
+  "title": "またあした",
+  "artist": "ふわりP",
+  "collection": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iDzBZEfD?p=15",
   "source": "bv1qa9jb6eaw.js"
 }
 );

@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 4/7/2026, 11:30:31 PM
+// 生成时间: 4/8/2026, 1:24:51 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2667,6 +2667,190 @@ window.SONG_DATA.push(
   "collection": "【明日夢🎸弾き語り歌切】[2026-04-04]默默唱歌的歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CsSUBNEX7?p=65",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-07]助眠歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19BDzB4Ete?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "しあわせの空っぽを知っているか",
+  "artist": "ななせ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-07]助眠歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19BDzB4Ete?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "いさな",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-07]助眠歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19BDzB4Ete?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "僕だけを",
+  "artist": "麗奈",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-07]助眠歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19BDzB4Ete?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "金木犀の夜",
+  "artist": "きのこ帝国",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-07]助眠歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19BDzB4Ete?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "風のたより",
+  "artist": "tayori",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-07]助眠歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19BDzB4Ete?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "春を待つ",
+  "artist": "Islet feat. 倚水",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-07]助眠歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19BDzB4Ete?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "あの夢をなぞって",
+  "artist": "YOASOBI",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-07]助眠歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19BDzB4Ete?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ハルカ",
+  "artist": "YOASOBI",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-07]助眠歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19BDzB4Ete?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "空も飛べるはず",
+  "artist": "スピッツ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-07]助眠歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19BDzB4Ete?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "瞬き",
+  "artist": "back number",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-07]助眠歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19BDzB4Ete?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ブルーアンバー",
+  "artist": "back number",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-07]助眠歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19BDzB4Ete?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "はなびら",
+  "artist": "back number",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-07]助眠歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19BDzB4Ete?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "そっけない",
+  "artist": "RADWIMPS",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-07]助眠歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19BDzB4Ete?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "大人になったら",
+  "artist": "GLIM SPANKY",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-07]助眠歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19BDzB4Ete?p=15",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "幻",
+  "artist": "My Hair is Bad",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-07]助眠歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19BDzB4Ete?p=16",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ロックスター",
+  "artist": "Tele",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-07]助眠歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19BDzB4Ete?p=17",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "例えば",
+  "artist": "asmi",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-07]助眠歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19BDzB4Ete?p=18",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "指髪",
+  "artist": "チョーキューメイ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-07]助眠歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19BDzB4Ete?p=19",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "さよならメモリーズ",
+  "artist": "supercell",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-07]助眠歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19BDzB4Ete?p=20",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "夜が明けるよ",
+  "artist": "supercell",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-07]助眠歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19BDzB4Ete?p=21",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "星が瞬くこんな夜に",
+  "artist": "supercell",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-07]助眠歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19BDzB4Ete?p=22",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "The Everlasting Guilty Crown",
+  "artist": "EGOIST",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-07]助眠歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19BDzB4Ete?p=23",
   "source": "asuyumekanae.js"
 }
 );

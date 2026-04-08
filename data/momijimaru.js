@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 4/7/2026, 11:31:20 PM
+// 生成时间: 4/8/2026, 1:25:29 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2179,6 +2179,110 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-04-03]１曲聴いてって！ 一瞬で惚れるパワフルボイスの歌枠✨紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hrDNBtEm1?p=16",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "アトラクトライト",
+  "artist": "*Luna",
+  "collection": "【🍁歌切】[2026-04-07]朝のおともにいかがですか!! まったり雑談＆歌枠🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12UDzBSES6?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "春を待つ",
+  "artist": "Islet feat. 倚水",
+  "collection": "【🍁歌切】[2026-04-07]朝のおともにいかがですか!! まったり雑談＆歌枠🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12UDzBSES6?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "君よ 気高くあれ",
+  "artist": "シユイ",
+  "collection": "【🍁歌切】[2026-04-07]朝のおともにいかがですか!! まったり雑談＆歌枠🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12UDzBSES6?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "人マニア",
+  "artist": "原口沙輔 feat. 重音テト",
+  "collection": "【🍁歌切】[2026-04-07]朝のおともにいかがですか!! まったり雑談＆歌枠🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12UDzBSES6?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【🍁歌切】[2026-04-07]朝のおともにいかがですか!! まったり雑談＆歌枠🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12UDzBSES6?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ずうっといっしょ！",
+  "artist": "キタニタツヤ",
+  "collection": "【🍁歌切】[2026-04-07]朝のおともにいかがですか!! まったり雑談＆歌枠🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12UDzBSES6?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "私が明日死ぬなら",
+  "artist": "キタニタツヤ",
+  "collection": "【🍁歌切】[2026-04-07]朝のおともにいかがですか!! まったり雑談＆歌枠🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12UDzBSES6?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "タッチ",
+  "artist": "岩崎良美",
+  "collection": "【🍁歌切】[2026-04-07]朝のおともにいかがですか!! まったり雑談＆歌枠🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12UDzBSES6?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Don't You Worry 'Bout a Thing",
+  "artist": "Stevie Wonder",
+  "collection": "【🍁歌切】[2026-04-07]朝のおともにいかがですか!! まったり雑談＆歌枠🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12UDzBSES6?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "アンパンマンのマーチ",
+  "artist": "ドリーミング",
+  "collection": "【🍁歌切】[2026-04-07]朝のおともにいかがですか!! まったり雑談＆歌枠🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12UDzBSES6?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "明日があるさ",
+  "artist": "坂本九",
+  "collection": "【🍁歌切】[2026-04-07]朝のおともにいかがですか!! まったり雑談＆歌枠🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12UDzBSES6?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ドクター＝ファンクビート",
+  "artist": "nyanyannya feat. KAITO",
+  "collection": "【🍁歌切】[2026-04-07]朝のおともにいかがですか!! まったり雑談＆歌枠🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12UDzBSES6?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【🍁歌切】[2026-04-07]朝のおともにいかがですか!! まったり雑談＆歌枠🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12UDzBSES6?p=13",
   "source": "momijimaru.js"
 }
 );
