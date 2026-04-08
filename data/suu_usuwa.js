@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 4/8/2026, 4:13:19 PM
+// 生成时间: 4/8/2026, 6:04:05 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -20451,6 +20451,86 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】[2026-04-02]4周年纪念歌回！用歌声传递感谢与爱！❤️稀羽すう - Suu Usuwa -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tb9wBSE5w?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ツギハギスタッカート",
+  "artist": "とあ",
+  "collection": "【🦢歌切】#139 [2026-04-08]周三定期歌回。集合啦～～～！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1prDJB9E9f?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "イミテーション・ゴールド",
+  "artist": "山口百恵",
+  "collection": "【🦢歌切】#139 [2026-04-08]周三定期歌回。集合啦～～～！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1prDJB9E9f?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "花ざかりWeekend",
+  "artist": "4Luxury",
+  "collection": "【🦢歌切】#139 [2026-04-08]周三定期歌回。集合啦～～～！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1prDJB9E9f?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "天体観測",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【🦢歌切】#139 [2026-04-08]周三定期歌回。集合啦～～～！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1prDJB9E9f?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "fake face dance music",
+  "artist": "音田 雅則",
+  "collection": "【🦢歌切】#139 [2026-04-08]周三定期歌回。集合啦～～～！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1prDJB9E9f?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Starry night",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】#139 [2026-04-08]周三定期歌回。集合啦～～～！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1prDJB9E9f?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "クレイジークレイジー",
+  "artist": "レイジー・レイジー",
+  "collection": "【🦢歌切】#139 [2026-04-08]周三定期歌回。集合啦～～～！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1prDJB9E9f?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "裏表ラバーズ",
+  "artist": "wowaka",
+  "collection": "【🦢歌切】#139 [2026-04-08]周三定期歌回。集合啦～～～！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1prDJB9E9f?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ハッピーシンセサイザ",
+  "artist": "EasyPop",
+  "collection": "【🦢歌切】#139 [2026-04-08]周三定期歌回。集合啦～～～！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1prDJB9E9f?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "メランコリック",
+  "artist": "Junky",
+  "collection": "【🦢歌切】#139 [2026-04-08]周三定期歌回。集合啦～～～！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1prDJB9E9f?p=10",
   "source": "suu_usuwa.js"
 }
 );

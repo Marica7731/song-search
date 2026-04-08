@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 4/8/2026, 4:12:22 PM
+// 生成时间: 4/8/2026, 6:02:48 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7147,6 +7147,126 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-04-06]🌺🐝想唱一些关于春天的歌 なれたん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BDDbBBE3Q?p=16",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Pretender",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-04-08]来唱会儿卡拉OK吧🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RFDnB6EQ8?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【歌切】[2026-04-08]来唱会儿卡拉OK吧🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RFDnB6EQ8?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "アイノカタチ",
+  "artist": "MISIA",
+  "collection": "【歌切】[2026-04-08]来唱会儿卡拉OK吧🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RFDnB6EQ8?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "月曜日の朝、スカートを切られた",
+  "artist": "欅坂46",
+  "collection": "【歌切】[2026-04-08]来唱会儿卡拉OK吧🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RFDnB6EQ8?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【歌切】[2026-04-08]来唱会儿卡拉OK吧🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RFDnB6EQ8?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "青い珊瑚礁",
+  "artist": "松田聖子",
+  "collection": "【歌切】[2026-04-08]来唱会儿卡拉OK吧🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RFDnB6EQ8?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "新宝島",
+  "artist": "サカナクション",
+  "collection": "【歌切】[2026-04-08]来唱会儿卡拉OK吧🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RFDnB6EQ8?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-04-08]来唱会儿卡拉OK吧🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RFDnB6EQ8?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-04-08]来唱会儿卡拉OK吧🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RFDnB6EQ8?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "さくらんぼ",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-04-08]来唱会儿卡拉OK吧🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RFDnB6EQ8?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Q&A リサイタル!",
+  "artist": "戸松遥",
+  "collection": "【歌切】[2026-04-08]来唱会儿卡拉OK吧🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RFDnB6EQ8?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "LOSER",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-04-08]来唱会儿卡拉OK吧🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RFDnB6EQ8?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-04-08]来唱会儿卡拉OK吧🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RFDnB6EQ8?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "たぶん",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-04-08]来唱会儿卡拉OK吧🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RFDnB6EQ8?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-04-08]来唱会儿卡拉OK吧🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RFDnB6EQ8?p=15",
   "source": "naraetan.js"
 },
     {

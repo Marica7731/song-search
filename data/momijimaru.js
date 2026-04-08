@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 4/8/2026, 4:10:49 PM
+// 生成时间: 4/8/2026, 6:01:27 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2283,6 +2283,134 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-04-07]朝のおともにいかがですか!! まったり雑談＆歌枠🍁✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12UDzBSES6?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "StaRt",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍁歌切】[2026-04-08]桜舞う季節🌸 春歌を歌いまくる歌枠🌸✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CCDJBpEpz?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "栞",
+  "artist": "クリープハイプ",
+  "collection": "【🍁歌切】[2026-04-08]桜舞う季節🌸 春歌を歌いまくる歌枠🌸✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CCDJBpEpz?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "春よ、来い",
+  "artist": "松任谷由実",
+  "collection": "【🍁歌切】[2026-04-08]桜舞う季節🌸 春歌を歌いまくる歌枠🌸✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CCDJBpEpz?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【🍁歌切】[2026-04-08]桜舞う季節🌸 春歌を歌いまくる歌枠🌸✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CCDJBpEpz?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍁歌切】[2026-04-08]桜舞う季節🌸 春歌を歌いまくる歌枠🌸✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CCDJBpEpz?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍁歌切】[2026-04-08]桜舞う季節🌸 春歌を歌いまくる歌枠🌸✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CCDJBpEpz?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "さくら独唱",
+  "artist": "森山直太朗",
+  "collection": "【🍁歌切】[2026-04-08]桜舞う季節🌸 春歌を歌いまくる歌枠🌸✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CCDJBpEpz?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "夜桜 feat. めいちゃん",
+  "artist": "くじら",
+  "collection": "【🍁歌切】[2026-04-08]桜舞う季節🌸 春歌を歌いまくる歌枠🌸✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CCDJBpEpz?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "春を待つ",
+  "artist": "Islet feat. 倚水",
+  "collection": "【🍁歌切】[2026-04-08]桜舞う季節🌸 春歌を歌いまくる歌枠🌸✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CCDJBpEpz?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "春を告げる",
+  "artist": "yama",
+  "collection": "【🍁歌切】[2026-04-08]桜舞う季節🌸 春歌を歌いまくる歌枠🌸✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CCDJBpEpz?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "一年生になったら",
+  "artist": "童謡・唱歌",
+  "collection": "【🍁歌切】[2026-04-08]桜舞う季節🌸 春歌を歌いまくる歌枠🌸✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CCDJBpEpz?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "きょういくばんぐみのテーマ",
+  "artist": "やみの おねえさん",
+  "collection": "【🍁歌切】[2026-04-08]桜舞う季節🌸 春歌を歌いまくる歌枠🌸✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CCDJBpEpz?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "匿名M",
+  "artist": "ピノキオピー",
+  "collection": "【🍁歌切】[2026-04-08]桜舞う季節🌸 春歌を歌いまくる歌枠🌸✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CCDJBpEpz?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "けっかおーらい",
+  "artist": "こっちのけんと",
+  "collection": "【🍁歌切】[2026-04-08]桜舞う季節🌸 春歌を歌いまくる歌枠🌸✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CCDJBpEpz?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "明日の私に幸あれ",
+  "artist": "ナナヲアカリ",
+  "collection": "【🍁歌切】[2026-04-08]桜舞う季節🌸 春歌を歌いまくる歌枠🌸✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CCDJBpEpz?p=15",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "エンジョイ",
+  "artist": "めいちゃん",
+  "collection": "【🍁歌切】[2026-04-08]桜舞う季節🌸 春歌を歌いまくる歌枠🌸✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CCDJBpEpz?p=16",
   "source": "momijimaru.js"
 }
 );

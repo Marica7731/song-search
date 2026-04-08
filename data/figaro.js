@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 4/8/2026, 4:12:37 PM
+// 生成时间: 4/8/2026, 6:03:12 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -28779,6 +28779,110 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】#262 [2026-04-05]睡眠导入歌回✨安眠前的放松时间请享用🌙Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tyS9BdEXM?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "ハルジオン",
+  "artist": "YOASOBI",
+  "collection": "【💐歌切】[2026-04-08]轻松歌唱！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1odDJBVEW8?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "【💐歌切】[2026-04-08]轻松歌唱！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1odDJBVEW8?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "LOSER",
+  "artist": "米津玄師",
+  "collection": "【💐歌切】[2026-04-08]轻松歌唱！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1odDJBVEW8?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "少年よ我に帰れ",
+  "artist": "やくしまるえつこメトロオーケストラ",
+  "collection": "【💐歌切】[2026-04-08]轻松歌唱！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1odDJBVEW8?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "スマトラ警備隊",
+  "artist": "椎名もた",
+  "collection": "【💐歌切】[2026-04-08]轻松歌唱！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1odDJBVEW8?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "気になるあの娘",
+  "artist": "相対性理論",
+  "collection": "【💐歌切】[2026-04-08]轻松歌唱！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1odDJBVEW8?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "LOVEずっきゅん",
+  "artist": "相対性理論",
+  "collection": "【💐歌切】[2026-04-08]轻松歌唱！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1odDJBVEW8?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "バーモント・キッス",
+  "artist": "相対性理論",
+  "collection": "【💐歌切】[2026-04-08]轻松歌唱！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1odDJBVEW8?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "シュノーケル",
+  "artist": "文藝天国",
+  "collection": "【💐歌切】[2026-04-08]轻松歌唱！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1odDJBVEW8?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "fake face dance music",
+  "artist": "音田雅則",
+  "collection": "【💐歌切】[2026-04-08]轻松歌唱！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1odDJBVEW8?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "トリノコシティ",
+  "artist": "40mP",
+  "collection": "【💐歌切】[2026-04-08]轻松歌唱！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1odDJBVEW8?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "恋愛裁判",
+  "artist": "40mP",
+  "collection": "【💐歌切】[2026-04-08]轻松歌唱！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1odDJBVEW8?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "シリョクケンサ",
+  "artist": "40mP",
+  "collection": "【💐歌切】[2026-04-08]轻松歌唱！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1odDJBVEW8?p=13",
   "source": "figaro.js"
 }
 );

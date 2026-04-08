@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq
-// 生成时间: 4/8/2026, 4:23:11 PM
+// 生成时间: 4/8/2026, 6:13:38 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14563,6 +14563,134 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-04-05 ノア・ポラリス -Noa Polaris- -CmaY9mV5Ig",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SpDbBoEoJ?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "落日",
+  "artist": "東京事変",
+  "collection": "歌切 2026-04-08 木下ちぷる / Chipuru Ch xDYdtZTy0UY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHDJBqEBu?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "Swallowtail Butterfly 〜あいのうた〜",
+  "artist": "YEN TOWN BAND",
+  "collection": "歌切 2026-04-08 木下ちぷる / Chipuru Ch xDYdtZTy0UY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHDJBqEBu?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "森の小さなレストラン",
+  "artist": "手嶌葵",
+  "collection": "歌切 2026-04-08 木下ちぷる / Chipuru Ch xDYdtZTy0UY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHDJBqEBu?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "マイハートハードピンチ",
+  "artist": "相対性理論",
+  "collection": "歌切 2026-04-08 木下ちぷる / Chipuru Ch xDYdtZTy0UY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHDJBqEBu?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "おとなの掟",
+  "artist": "Doughnuts Hole",
+  "collection": "歌切 2026-04-08 木下ちぷる / Chipuru Ch xDYdtZTy0UY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHDJBqEBu?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "め組のひと",
+  "artist": "ラッツ&スター",
+  "collection": "歌切 2026-04-08 木下ちぷる / Chipuru Ch xDYdtZTy0UY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHDJBqEBu?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ガランド",
+  "artist": "ピコン",
+  "collection": "歌切 2026-04-08 木下ちぷる / Chipuru Ch xDYdtZTy0UY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHDJBqEBu?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "歌切 2026-04-08 木下ちぷる / Chipuru Ch xDYdtZTy0UY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHDJBqEBu?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "彗星ハネムーン",
+  "artist": "ナユタン星人",
+  "collection": "歌切 2026-04-08 木下ちぷる / Chipuru Ch xDYdtZTy0UY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHDJBqEBu?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "n-buna",
+  "collection": "歌切 2026-04-08 木下ちぷる / Chipuru Ch xDYdtZTy0UY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHDJBqEBu?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "勇気りんりん",
+  "artist": "ドリーミング",
+  "collection": "歌切 2026-04-08 木下ちぷる / Chipuru Ch xDYdtZTy0UY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHDJBqEBu?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "うまぴょい伝説",
+  "artist": "ウマ娘",
+  "collection": "歌切 2026-04-08 木下ちぷる / Chipuru Ch xDYdtZTy0UY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHDJBqEBu?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "テトリス",
+  "artist": "柊マグネタイト",
+  "collection": "歌切 2026-04-08 木下ちぷる / Chipuru Ch xDYdtZTy0UY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHDJBqEBu?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "Laugh away",
+  "artist": "YUI",
+  "collection": "歌切 2026-04-08 木下ちぷる / Chipuru Ch xDYdtZTy0UY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHDJBqEBu?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "ブレーメン",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-04-08 木下ちぷる / Chipuru Ch xDYdtZTy0UY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHDJBqEBu?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "Departures 〜あなたにおくるアイの歌〜",
+  "artist": "EGOIST",
+  "collection": "歌切 2026-04-08 木下ちぷる / Chipuru Ch xDYdtZTy0UY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHDJBqEBu?p=16",
   "source": "others.js"
 },
     {
