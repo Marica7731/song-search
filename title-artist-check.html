@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>歌名-歌手查询校验</title>
+<title>命名工具</title>
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="stylesheet" href="/site-theme.css">
 <style>
@@ -17,14 +17,11 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;b
 .nav a{color:#00a1d6;text-decoration:none}
 .nav a:hover{text-decoration:underline}
 .title-search-area{margin-bottom:24px}
-#titleInput{width:100%;min-height:140px;padding:14px 16px;border:1px solid #ddd;border-radius:8px;font-size:14px;outline:none;transition:border .2s;margin-bottom:16px;resize:vertical;font-family:inherit}
+#titleInput{width:100%;min-height:240px;padding:14px 16px;border:1px solid #ddd;border-radius:6px;font-size:14px;outline:none;transition:border .2s;margin-bottom:16px;resize:vertical;font-family:inherit}
 #titleInput:focus{border-color:#00a1d6;box-shadow:0 0 0 3px rgba(0,161,214,.1)}
-.title-controls{display:flex;gap:12px;justify-content:flex-end;flex-wrap:wrap}
-button{padding:8px 24px;color:#fff;border:0;border-radius:8px;cursor:pointer;font-size:14px;font-weight:500}
-#searchTitleBtn{background:#00a1d6}
-#searchTitleBtn:hover{background:#008fb3}
-#copyResultBtn{background:#6f42c1}
-#copyResultBtn:hover{background:#5a32a3}
+.title-controls{display:flex;gap:12px;justify-content:flex-start;flex-wrap:wrap}
+button{padding:8px 18px;color:#111827;border:1px solid #b8c0cc;border-radius:6px;cursor:pointer;font-size:14px;font-weight:500;background:#f3f4f6}
+#searchTitleBtn:hover,#copyResultBtn:hover{background:#e9edf2}
 .artist-select-area{margin:24px 0 0 0;display:none}
 .artist-select-area.active{display:block}
 .select-item{background:#fff;border-radius:8px;padding:16px;margin-bottom:12px;box-shadow:0 2px 4px rgba(0,0,0,.04)}
@@ -42,42 +39,40 @@ button{padding:8px 24px;color:#fff;border:0;border-radius:8px;cursor:pointer;fon
 .no-result{color:#6c757d;font-size:13px;padding:4px 0}
 .result-generate-area{margin-top:16px;display:none}
 .result-generate-area.active{display:block}
-#resultText{width:100%;min-height:170px;padding:14px 16px;border:1px solid #ddd;border-radius:8px;font-size:14px;outline:none;margin-bottom:16px;resize:vertical;background:#f8f9fa}
+#resultText{width:100%;min-height:170px;padding:14px 16px;border:1px solid #ddd;border-radius:6px;font-size:14px;outline:none;margin-bottom:16px;resize:vertical;background:#f8f9fa}
+.input-help{margin:0 0 14px;padding:12px 14px;border:1px solid #d0d7de;border-radius:6px;background:#fff;color:#495057;line-height:1.7;font-size:13px}
+.input-help strong{color:#1f2328}
 .copy-toast{position:fixed;bottom:30px;right:30px;padding:10px 20px;background:rgba(0,0,0,.8);color:#fff;border-radius:4px;font-size:14px;opacity:0;transform:translateY(20px);transition:all .3s;pointer-events:none;z-index:9999}
 .copy-toast.show{opacity:1;transform:translateY(0)}
-.back-top{position:fixed;right:24px;bottom:24px;width:42px;height:42px;border:0;border-radius:999px;background:#00a1d6;color:#fff;font-size:18px;cursor:pointer;box-shadow:0 6px 16px rgba(0,161,214,.35);opacity:0;pointer-events:none;transform:translateY(6px);transition:all .2s;z-index:3000}
+.back-top{position:fixed;right:24px;bottom:24px;width:42px;height:42px;border:1px solid #b8c0cc;border-radius:6px;background:#f3f4f6;color:#111827;font-size:18px;cursor:pointer;box-shadow:none;opacity:0;pointer-events:none;transform:translateY(6px);transition:all .2s;z-index:3000}
 .back-top.show{opacity:1;pointer-events:auto;transform:translateY(0)}
 </style>
 </head>
 <body>
 <div class="main">
   <div class="header">
-    <h2>歌名-歌手查询/校验</h2>
-    <p>独立维护页：查询歌手、校验输入、修正歌名/歌手并快速检索</p>
+    <h2>命名工具</h2>
+    <p>查询歌手、校验输入并修正歌名或歌手后快速检索。</p>
   </div>
   <div class="nav">
-    <a href="/">首页</a> |
-    <a href="/stats">查看演唱者统计与排行</a> |
-    <a href="/bv">BV号查重</a> |
-    <a href="/dup">歌名-歌手查重</a> |
-    歌名-歌手查询/校验 |
-    <a href="/growth">歌曲增长日报</a>
+    <a href="/">主站</a> |
+    <a href="/stats">数据</a> |
+    <a href="/bv">BV查重</a> |
+    <a href="/dup">歌名歌手查重</a> |
+    命名工具 |
+    <a href="/growth">日报</a>
   </div>
 
   <div class="title-search-area">
-    <textarea id="titleInput" placeholder="支持两种输入格式：
-1. 纯歌名（每行一个）
-絶頂讃歌
-月光
-
-2. 完整格式（带序号和歌手）
-01. 絶頂讃歌 - 和ぬか
-02. 月光 - るまき
-
-3. 简写格式（歌名 - 歌手）
-絶頂讃歌 - 和ぬか"></textarea>
+    <div class="input-help">
+      <strong>支持三种输入格式</strong><br>
+      1. 纯歌名：每行一个<br>
+      2. 完整格式：<code>01. 歌名 - 歌手</code><br>
+      3. 简写格式：<code>歌名 - 歌手</code>
+    </div>
+    <textarea id="titleInput" placeholder="每行输入一条歌名、歌名 - 歌手，或带序号格式"></textarea>
     <div class="title-controls">
-      <button id="searchTitleBtn">查询/校验歌手</button>
+      <button id="searchTitleBtn">开始校验</button>
     </div>
   </div>
 

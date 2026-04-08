@@ -3,18 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>歌曲统计 - 出场频率与VTuber歌单</title>
+    <title>歌曲数据</title>
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
     <link rel="stylesheet" href="/site-theme.css">
     <style>
         /* --- 全局样式复用 --- */
         * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { 
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "PingFang SC", "Microsoft YaHei", sans-serif; 
-            max-width: 1200px; 
-            margin: 0 auto; 
-            padding: 30px 20px; 
-            background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%);
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "PingFang SC", "Microsoft YaHei", sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 28px 20px;
+            background: #f3f4f6;
             min-height: 100vh;
         }
         h1 { 
@@ -23,12 +23,12 @@
             margin-bottom: 10px;
             font-size: 28px;
             font-weight: 700;
-            text-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            text-shadow: none;
         }
         .sub-header {
             text-align: center;
             color: #6c757d;
-            margin-bottom: 25px;
+            margin-bottom: 18px;
             font-size: 14px;
         }
         .nav-link {
@@ -41,28 +41,30 @@
         /* --- Tab 切换器 --- */
         .tabs-container {
             display: flex;
-            justify-content: center;
-            gap: 12px;
-            margin-bottom: 25px;
-            flex-wrap: wrap;
+            justify-content: flex-start;
+            gap: 10px;
+            margin-bottom: 18px;
+            flex-wrap: nowrap;
+            overflow-x: auto;
         }
         .tab-btn {
-            padding: 12px 28px;
-            border: none;
-            border-radius: 25px;
-            font-size: 15px;
+            padding: 10px 16px;
+            border: 1px solid #d0d7de;
+            border-radius: 6px;
+            font-size: 14px;
             font-weight: 600;
             cursor: pointer;
             background: white;
-            color: #495057;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
-            transition: all 0.3s ease;
+            color: #1f2328;
+            box-shadow: none;
+            transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+            white-space: nowrap;
         }
-        .tab-btn:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+        .tab-btn:hover { background: #f7f7f7; border-color: #b8c0cc; }
         .tab-btn.active {
-            background: linear-gradient(135deg, #00a1d6 0%, #00c6ff 100%);
-            color: white;
-            box-shadow: 0 4px 15px rgba(0, 161, 214, 0.4);
+            background: #e8f0fe;
+            color: #174ea6;
+            border-color: #9bb7f0;
         }
 
         /* --- 筛选与搜索 --- */
@@ -76,11 +78,12 @@
             display: flex;
             gap: 10px;
             flex-wrap: wrap;
-            padding: 15px 20px;
+            padding: 12px 14px;
             background: white;
-            border-radius: 12px;
+            border-radius: 10px;
+            border: 1px solid #d0d7de;
             align-items: center;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+            box-shadow: 0 2px 8px rgba(15, 23, 42, 0.04);
         }
         .filter-label {
             font-size: 14px;
@@ -94,7 +97,7 @@
             max-width: 560px;
             padding: 8px 12px;
             border: 1px solid #e9ecef;
-            border-radius: 12px;
+            border-radius: 6px;
             background: white;
             font-size: 14px;
             color: #495057;
@@ -102,20 +105,19 @@
         .filter-btn {
             padding: 7px 16px;
             border: 1px solid #e9ecef;
-            border-radius: 20px;
+            border-radius: 6px;
             background: #f8f9fa;
             cursor: pointer;
             font-size: 14px;
             font-weight: 500;
             color: #495057;
-            transition: all 0.2s ease;
+            transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
         }
-        .filter-btn:hover { border-color: #00a1d6; color: #00a1d6; background: #f0f9ff; }
+        .filter-btn:hover { border-color: #b8c0cc; color: #1f2328; background: #f7f7f7; }
         .filter-btn.active {
-            background: linear-gradient(135deg, #00a1d6 0%, #00c6ff 100%);
-            color: white;
-            border-color: transparent;
-            box-shadow: 0 4px 12px rgba(0, 161, 214, 0.3);
+            background: #e8f0fe;
+            color: #174ea6;
+            border-color: #9bb7f0;
         }
         .search-container { display: flex; gap: 12px; flex-wrap: wrap; }
         #search-input { 
@@ -125,14 +127,20 @@
             transition: all 0.3s ease;
         }
         #search-input:focus { border-color: #00a1d6; box-shadow: 0 0 0 4px rgba(0, 161, 214, 0.1); }
-        #search-btn { 
-            padding: 0 32px; background: linear-gradient(135deg, #00a1d6 0%, #00c6ff 100%);
-            color: white; border: none; border-radius: 12px; font-size: 16px; 
-            font-weight: 600; cursor: pointer; white-space: nowrap;
-            box-shadow: 0 4px 15px rgba(0, 161, 214, 0.3);
-            transition: all 0.3s ease;
+        #search-btn {
+            padding: 0 28px;
+            background: #f3f4f6;
+            color: #111827;
+            border: 1px solid #b8c0cc;
+            border-radius: 6px;
+            font-size: 15px;
+            font-weight: 600;
+            cursor: pointer;
+            white-space: nowrap;
+            box-shadow: none;
+            transition: background 0.15s ease, border-color 0.15s ease;
         }
-        #search-btn:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(0, 161, 214, 0.4); }
+        #search-btn:hover { background: #e9edf2; border-color: #aab6c6; }
 
         /* --- 统计信息栏 --- */
         .stats-bar {
@@ -265,22 +273,28 @@
         .group-card {
             margin-bottom: 30px;
             background: white;
-            border-radius: 16px;
+            border-radius: 10px;
             overflow: hidden;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+            border: 1px solid #d0d7de;
+            box-shadow: 0 2px 8px rgba(15, 23, 42, 0.05);
         }
         .group-header {
-            padding: 18px 25px;
+            padding: 16px 20px;
             display: flex;
             justify-content: space-between;
-            align-items: center;
+            align-items: flex-start;
+            gap: 12px;
+            flex-wrap: wrap;
         }
-        .group-header.vtuber { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; }
-        .group-header.artist { background: linear-gradient(135deg, #00a1d6 0%, #00c6ff 100%); color: white; }
-        .group-name { font-size: 20px; font-weight: 800; display: flex; align-items: center; gap: 10px; }
+        .group-header.vtuber { background: #f7f7f7; color: #111827; }
+        .group-header.artist { background: #f7f7f7; color: #111827; }
+        .group-name { font-size: 20px; font-weight: 800; display: flex; align-items: center; gap: 8px; }
         .group-count {
-            font-size: 13px; opacity: 0.95; background: rgba(255,255,255,0.2);
-            padding: 5px 12px; border-radius: 12px;
+            font-size: 13px;
+            color: #667085;
+            background: transparent;
+            padding: 0;
+            border-radius: 0;
         }
         .group-songs { padding: 20px 25px; }
         .song-item-row {
@@ -303,27 +317,27 @@
             flex-shrink: 0;
         }
         .count-clickable {
-            font-size: 12px; color: #495057; background: #f8f9fa;
-            padding: 4px 10px; border-radius: 8px; cursor: pointer;
-            border: 1px solid #e9ecef; transition: all 0.2s;
+            font-size: 12px; color: #495057; background: #f7f7f7;
+            padding: 4px 10px; border-radius: 6px; cursor: pointer;
+            border: 1px solid #d0d7de; transition: background 0.15s ease, border-color 0.15s ease;
         }
-        .count-clickable:hover { border-color: #6f42c1; color: #6f42c1; background: #f3f0ff; }
+        .count-clickable:hover { border-color: #b8c0cc; color: #1f2328; background: #eef2f7; }
 
         /* --- 分页 --- */
         .pagination { 
             display: flex; justify-content: center; align-items: center; gap: 8px; 
             flex-wrap: wrap; margin-top: 30px; padding: 20px;
         }
-        .page-btn { 
-            padding: 10px 16px; border: 1px solid #e9ecef; border-radius: 8px; 
+        .page-btn {
+            padding: 10px 16px; border: 1px solid #d0d7de; border-radius: 6px;
             background: white; cursor: pointer; font-size: 14px; font-weight: 500;
             color: #495057; min-width: 44px; text-align: center;
-            transition: all 0.2s ease; box-shadow: 0 2px 6px rgba(0,0,0,0.04);
+            transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease; box-shadow: none;
         }
-        .page-btn:hover:not(.disabled):not(.active) { background: #f8f9fa; border-color: #00a1d6; color: #00a1d6; }
-        .page-btn.active { 
-            background: linear-gradient(135deg, #00a1d6 0%, #00c6ff 100%);
-            color: white; border-color: transparent; box-shadow: 0 4px 12px rgba(0, 161, 214, 0.3);
+        .page-btn:hover:not(.disabled):not(.active) { background: #f7f7f7; border-color: #b8c0cc; color: #1f2328; }
+        .page-btn.active {
+            background: #e8f0fe;
+            color: #174ea6; border-color: #9bb7f0; box-shadow: none;
         }
         .page-btn.disabled { 
             cursor: not-allowed; color: #adb5bd; background: #f8f9fa;
@@ -346,10 +360,10 @@
         .modal-content {
             background: white;
             padding: 25px;
-            border-radius: 16px;
+            border-radius: 10px;
             max-width: 500px;
             width: 90%;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            box-shadow: 0 8px 24px rgba(15, 23, 42, 0.14);
             animation: modalFadeIn 0.3s ease;
         }
         @keyframes modalFadeIn {
@@ -512,13 +526,13 @@
             bottom: 24px;
             width: 42px;
             height: 42px;
-            border: none;
-            border-radius: 999px;
-            background: #00a1d6;
-            color: #fff;
+            border: 1px solid #b8c0cc;
+            border-radius: 6px;
+            background: #f3f4f6;
+            color: #111827;
             font-size: 18px;
             cursor: pointer;
-            box-shadow: 0 6px 16px rgba(0, 161, 214, 0.35);
+            box-shadow: none;
             opacity: 0;
             pointer-events: none;
             transform: translateY(6px);
@@ -529,6 +543,13 @@
             opacity: 1;
             pointer-events: auto;
             transform: translateY(0);
+        }
+        .group-header-actions {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            flex-wrap: wrap;
+            justify-content: flex-end;
         }
         @keyframes toastIn {
             from { opacity: 0; transform: translateY(-10px); }
@@ -541,31 +562,30 @@
     </style>
 </head>
 <body>
-    <h1>📊 歌曲统计与分析</h1>
+    <h1>歌曲数据</h1>
     <div class="sub-header">
-        <a href="/" class="nav-link">首页</a> |
-        查看演唱者统计与排行 |
-        <a href="/bv" class="nav-link">BV号查重</a> |
-        <a href="/dup" class="nav-link">歌名-歌手查重</a> |
-        <a href="/check" class="nav-link">歌名-歌手查询/校验</a> |
-        <a href="/growth" class="nav-link">歌曲增长日报</a>
+        <a href="/" class="nav-link">主站</a> |
+        <a href="/bv" class="nav-link">BV查重</a> |
+        <a href="/dup" class="nav-link">歌名歌手查重</a> |
+        <a href="/check" class="nav-link">命名工具</a> |
+        <a href="/growth" class="nav-link">日报</a>
     </div>    <div id="updateSongsLastRunPlaceholder" class="last-run-badge">update-songs 上次执行：加载中…</div>
 
     <!-- Tab 切换器 -->
     <div class="tabs-container">
-        <button class="tab-btn active" data-tab="vtuber-source">🎤 按VTuber分类</button>
-        <button class="tab-btn" data-tab="rank">🏆 歌曲总出场排行</button>
-        <button class="tab-btn" data-tab="artist">🎙️ 按歌手分类</button>
+        <button class="tab-btn active" data-tab="vtuber-source">VTuber数据</button>
+        <button class="tab-btn" data-tab="rank">歌曲数据</button>
+        <button class="tab-btn" data-tab="artist">歌手数据</button>
     </div>
 
     <!-- 筛选与搜索 (共用) -->
     <div class="filter-search-container">
         <div class="filter-bar" id="filter-bar">
-            <span class="filter-label">🔍 筛选VTuber/来源：</span>
+            <span class="filter-label">来源</span>
         </div>
         <div class="search-container">
             <input type="text" id="search-input" placeholder="输入歌名、歌手、合集搜索...">
-            <button id="search-btn">🔍 搜索</button>
+            <button id="search-btn">搜索</button>
         </div>
     </div>
 
@@ -573,8 +593,8 @@
         <div class="stats-text" id="summary-text">加载中...</div>
     </div>
 
-    <div class="progress-msg" id="progress-msg">📥 正在加载并统计数据...</div>
-    <div class="empty-msg" id="empty-msg">❌ 暂无数据</div>
+    <div class="progress-msg" id="progress-msg">正在加载并统计数据...</div>
+    <div class="empty-msg" id="empty-msg">暂无数据</div>
 
     <!-- Tab 1 内容：按VTuber来源分类 -->
     <div id="tab-vtuber-source" class="tab-content active">
@@ -596,7 +616,7 @@
     <div id="copy-modal" class="modal">
         <div class="modal-content">
             <div class="modal-header">
-                <h3>📋 选择复制内容</h3>
+                <h3>选择复制内容</h3>
                 <button class="modal-close">&times;</button>
             </div>
             <div class="modal-body">
@@ -1215,7 +1235,7 @@
 
         function generateFilterButtons() {
             const filterBar = document.getElementById('filter-bar');
-            filterBar.innerHTML = '<span class="filter-label">🔍 筛选VTuber/来源：</span>';
+            filterBar.innerHTML = '<span class="filter-label">来源</span>';
 
             const sourceSelect = document.createElement('select');
             sourceSelect.className = 'filter-select';
@@ -1279,7 +1299,7 @@
             const aggData = alreadyAggregated ? data : aggregateBySong(data);
             
             if (!isApiMode) {
-                document.getElementById('summary-text').textContent = `📊 共统计 ${aggData.length} 首不同的“歌曲+歌手”组合`;
+                document.getElementById('summary-text').textContent = `共统计 ${aggData.length} 首不同的歌曲-歌手组合`;
             }
 
             const start = (currentRankPage - 1) * PAGE_SIZE;
@@ -1325,19 +1345,19 @@
                                     <div class="rank-badge ${rankClass}">${globalRank}</div>
                                     <div>
                                         <div class="song-title-large" data-quick-copy="${escapeAttr(item.title)}">${item.title}</div>
-                                        <span class="info-chip chip-artist" data-quick-copy="${escapeAttr(isValidArtist(item.artist) ? item.artist : '无歌手信息')}">🎤 ${isValidArtist(item.artist) ? item.artist : '无歌手信息'}</span>
-                                        ${item.originalArtist ? `<span class="info-chip" style="background:#fff3e0;color:#e65100;">📝 原唱: ${item.originalArtist}</span>` : ''}
+                                        <span class="info-chip chip-artist" data-quick-copy="${escapeAttr(isValidArtist(item.artist) ? item.artist : '无歌手信息')}">${isValidArtist(item.artist) ? item.artist : '无歌手信息'}</span>
+                                        ${item.originalArtist ? `<span class="info-chip" style="background:#fff3e0;color:#e65100;">原唱：${item.originalArtist}</span>` : ''}
                                     </div>
                                 </div>
                             </div>
                             <div style="display: flex; align-items: center; gap: 10px;">
                                 <div class="count-badge">${item.count} 次</div>
-                                <button class="copy-btn" data-rank-index="${idx}">📋 复制场次</button>
+                                <button class="copy-btn" data-rank-index="${idx}">复制场次</button>
                             </div>
                         </div>
                         <div class="perf-container">
                             <div class="perf-header">
-                                <span class="perf-label">🎬 演唱场次</span>
+                                <span class="perf-label">演唱场次</span>
                                 ${hasMore ? `<button class="toggle-perf-btn" id="btn-${id}">展开全部 ${item.count} 个场次</button>` : ''}
                             </div>
                             <div class="perf-grid">
@@ -1417,8 +1437,8 @@
                 const renderSongRow = (song, songIdx) => {
                     const songId = uniqueId();
                     const originalText = song.originalArtist 
-                        ? `<div class="song-original-artist" data-quick-copy="${escapeAttr(song.originalArtist)}">📝 原唱: ${song.originalArtist}</div>` 
-                        : (song.artist && type === 'vtuber' ? `<div class="song-original-artist" data-quick-copy="${escapeAttr(song.artist)}">🎤 演唱: ${song.artist}</div>` : '');
+                        ? `<div class="song-original-artist" data-quick-copy="${escapeAttr(song.originalArtist)}">原唱：${song.originalArtist}</div>` 
+                        : (song.artist && type === 'vtuber' ? `<div class="song-original-artist" data-quick-copy="${escapeAttr(song.artist)}">演唱：${song.artist}</div>` : '');
 
                     return `
                         <div class="song-item-row">
@@ -1449,13 +1469,13 @@
                 li.innerHTML = `
                     <div class="group-header ${type}">
                         <div class="group-name">
-                            <span data-quick-copy="${escapeAttr(group.name)}">${type === 'vtuber' ? '🎙️' : '🎤'} ${group.name}</span>
+                            <span data-quick-copy="${escapeAttr(group.name)}">${group.name}</span>
                         </div>
-                        <div style="display: flex; align-items: center; gap: 10px;">
+                        <div class="group-header-actions">
                             <div class="group-count">
-                                总计 ${group.totalCount} 首投稿（去重 ${group.uniqueCount} 首，仅她唱过 ${group.soloCount || 0} 首）
+                                总计 ${group.totalCount} 投稿 · 去重 ${group.uniqueCount} 首 · ${group.soloCount || 0} 首仅她唱过
                             </div>
-                            <button class="copy-btn">📋 复制列表</button>
+                            <button class="copy-btn">复制列表</button>
                         </div>
                     </div>
                     <div class="group-songs">
@@ -1553,7 +1573,7 @@
         function renderVtuberSourceList(data, alreadyAggregated = false) {
             const aggData = alreadyAggregated ? data : aggregateByVtuberSource(data);
             if (!isApiMode) {
-                document.getElementById('summary-text').textContent = `🎤 共收录 ${aggData.length} 位VTuber的合集歌单`;
+                document.getElementById('summary-text').textContent = `共收录 ${aggData.length} 位 VTuber`;
             }
             renderGroupList(aggData, 'vtuber-source-list', 'vtuber');
             renderPagination(isApiMode && currentStatsPayload ? currentStatsPayload.total : aggData.length);
@@ -1563,7 +1583,7 @@
         function renderArtistList(data, alreadyAggregated = false) {
             const aggData = alreadyAggregated ? data : aggregateByArtist(data);
             if (!isApiMode) {
-                document.getElementById('summary-text').textContent = `🎙️ 共收录 ${aggData.length} 位歌手的歌单`;
+                document.getElementById('summary-text').textContent = `共收录 ${aggData.length} 位歌手`;
             }
             renderGroupList(aggData, 'artist-list', 'artist');
             renderPagination(isApiMode && currentStatsPayload ? currentStatsPayload.total : aggData.length);
@@ -1706,7 +1726,7 @@
                 document.getElementById('rank-list').innerHTML = '';
                 document.getElementById('vtuber-source-list').innerHTML = '';
                 document.getElementById('artist-list').innerHTML = '';
-                document.getElementById('summary-text').textContent = '😔 当前筛选下没有数据';
+                document.getElementById('summary-text').textContent = '当前筛选下没有数据';
             } else {
                 document.getElementById('empty-msg').style.display = 'none';
                 if (activeTab === 'rank') {

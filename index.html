@@ -621,23 +621,23 @@
     </style>
 </head>
 <body>
-    <h1>🎵 切片歌曲数据查询站</h1>
+    <h1>主站</h1>
     <div class="sub-header">
     首页 |
-    <a href="/stats" class="nav-link">查看演唱者统计与排行</a> |
-    <a href="/bv" class="nav-link">BV号查重</a> |
-    <a href="/dup" class="nav-link">歌名-歌手查重</a> |
-    <a href="/check" class="nav-link">歌名-歌手查询/校验</a> |
-    <a href="/growth" class="nav-link">歌曲增长日报</a>
+    <a href="/stats" class="nav-link">数据</a> |
+    <a href="/bv" class="nav-link">BV查重</a> |
+    <a href="/dup" class="nav-link">歌名歌手查重</a> |
+    <a href="/check" class="nav-link">命名工具</a> |
+    <a href="/growth" class="nav-link">日报</a>
     </div>    <div id="updateSongsLastRunPlaceholder" class="last-run-badge">update-songs 上次执行：加载中…</div>
 
     <div class="filter-search-container">
         <div class="filter-bar" id="filter-bar">
-            <span class="filter-label">🔍 按歌手/来源筛选：</span>
+            <span class="filter-label">来源</span>
         </div>
 
         <div class="search-field-bar" id="search-field-bar">
-            <span class="search-field-label">📌 搜索范围：</span>
+            <span class="search-field-label">搜索范围</span>
             <label class="search-field-option">
                 <input type="checkbox" id="search-title" checked>
                 <span>歌名</span>
@@ -663,7 +663,7 @@
                 <option value="pubdate_asc">发布时间：旧到新</option>
                 <option value="original">原始顺序</option>
             </select>
-            <button id="search-btn">🔍 搜索</button>
+            <button id="search-btn">搜索</button>
         </div>
         
         <div class="search-tips">
@@ -673,7 +673,7 @@
 
     <div class="stats-container">
         <div class="stats-msg" id="stats-msg">总歌曲数：0 | 筛选后：0 | 搜索结果：0</div>
-        <button class="copy-all-btn" id="copy-all-btn" disabled>📋 复制全部搜索结果</button>
+        <button class="copy-all-btn" id="copy-all-btn" disabled>复制结果</button>
     </div>
     <div class="copy-controls">
         <label><input type="checkbox" id="copy-title" checked>歌名</label>
@@ -689,8 +689,8 @@
     </div>
 
 
-    <div class="progress-msg" id="progress-msg">📥 正在并行加载歌库，请稍候...</div>
-    <div class="empty-msg" id="empty-msg">❌ 未找到匹配的歌曲</div>
+    <div class="progress-msg" id="progress-msg">正在并行加载歌库，请稍候...</div>
+    <div class="empty-msg" id="empty-msg">未找到匹配的歌曲</div>
     <ul id="song-list"></ul>
     <div class="pagination" id="pagination"></div>
     
@@ -1214,7 +1214,7 @@
 
         function generateFilterButtons() {
             const filterBar = document.getElementById('filter-bar');
-            filterBar.innerHTML = '<span class="filter-label">🔍 按歌手/来源筛选：</span>';
+            filterBar.innerHTML = '<span class="filter-label">来源</span>';
 
             const sourceSelect = document.createElement('select');
             sourceSelect.className = 'filter-select';
