@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 4/9/2026, 7:59:49 PM
+// 生成时间: 4/9/2026, 8:49:46 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2411,6 +2411,62 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-04-08]桜舞う季節🌸 春歌を歌いまくる歌枠🌸✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CCDJBpEpz?p=16",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Arrietty's Song",
+  "artist": "Cécile Corbel",
+  "collection": "【🍁歌切】[2026-04-09]早晨的陪伴，来一起悠闲聊天与歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xGDtB1Enh?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "男の勲章",
+  "artist": "RIKI",
+  "collection": "【🍁歌切】[2026-04-09]早晨的陪伴，来一起悠闲聊天与歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xGDtB1Enh?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "三百六十五歩のマーチ",
+  "artist": "水前寺清子",
+  "collection": "【🍁歌切】[2026-04-09]早晨的陪伴，来一起悠闲聊天与歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xGDtB1Enh?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Bling-Bang-Bang-Born",
+  "artist": "Creepy Nuts",
+  "collection": "【🍁歌切】[2026-04-09]早晨的陪伴，来一起悠闲聊天与歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xGDtB1Enh?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Make you hot！",
+  "artist": "あたたかくなる × FAKE TYPE.",
+  "collection": "【🍁歌切】[2026-04-09]早晨的陪伴，来一起悠闲聊天与歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xGDtB1Enh?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "なにやってもうまくいかない",
+  "artist": "meiyo",
+  "collection": "【🍁歌切】[2026-04-09]早晨的陪伴，来一起悠闲聊天与歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xGDtB1Enh?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "こちら幸福安全委員会です",
+  "artist": "うたたP&初音ミク",
+  "collection": "【🍁歌切】[2026-04-09]早晨的陪伴，来一起悠闲聊天与歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xGDtB1Enh?p=7",
   "source": "momijimaru.js"
 }
 );
