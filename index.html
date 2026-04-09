@@ -14,7 +14,7 @@
             max-width: 1200px; 
             margin: 0 auto; 
             padding: 30px 20px; 
-            background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%);
+            background: #f3f4f6;
             min-height: 100vh;
         }
         h1 { 
@@ -23,7 +23,7 @@
             margin-bottom: 10px;
             font-size: 28px;
             font-weight: 700;
-            text-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            text-shadow: none;
         }
         .sub-header {
             text-align: center;
@@ -48,53 +48,71 @@
             display: flex;
             gap: 10px;
             flex-wrap: wrap;
-            padding: 15px 20px;
+            padding: 12px 14px;
             background: white;
-            border-radius: 12px;
+            border-radius: 10px;
             align-items: center;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+            border: 1px solid #d0d7de;
+            box-shadow: 0 2px 8px rgba(15,23,42,0.04);
         }
         .filter-label {
-            font-size: 14px;
-            color: #495057;
+            font-size: 13px;
+            color: #1f2328;
             font-weight: 600;
             white-space: nowrap;
         }
+        .source-picker {
+            display: inline-flex;
+            align-items: center;
+            gap: 12px;
+            flex: 1 1 540px;
+            min-width: 0;
+        }
         .filter-select {
-            min-width: 360px;
+            min-width: 320px;
             flex: 1 1 420px;
             max-width: 560px;
             padding: 8px 12px;
-            border: 1px solid #e9ecef;
-            border-radius: 12px;
+            border: 1px solid #d0d7de;
+            border-radius: 6px;
             background: white;
             font-size: 14px;
             color: #495057;
         }
+        .source-meta {
+            font-size: 12px;
+            color: #667085;
+            white-space: nowrap;
+        }
+        .source-actions {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            flex-wrap: wrap;
+            margin-left: auto;
+        }
         .filter-btn {
             padding: 7px 16px;
-            border: 1px solid #e9ecef;
-            border-radius: 20px;
-            background: #f8f9fa;
+            border: 1px solid #d0d7de;
+            border-radius: 6px;
+            background: #ffffff;
             cursor: pointer;
             font-size: 14px;
-            font-weight: 500;
-            color: #495057;
-            transition: all 0.2s ease;
+            font-weight: 600;
+            color: #1f2328;
+            transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
         }
         .filter-btn:hover {
-            border-color: #00a1d6;
-            color: #00a1d6;
-            background: #f0f9ff;
+            border-color: #b8c0cc;
+            color: #111827;
+            background: #f7f7f7;
         }
         .filter-btn.active {
-            background: linear-gradient(135deg, #00a1d6 0%, #00c6ff 100%);
-            color: white;
-            border-color: transparent;
-            box-shadow: 0 4px 12px rgba(0, 161, 214, 0.3);
+            background: #e8f0fe;
+            color: #174ea6;
+            border-color: #9bb7f0;
         }
         .filter-btn.missing-artist {
-            margin-left: auto;
             border-color: #dc3545;
             color: #dc3545;
         }
@@ -102,34 +120,33 @@
             background: #fff5f5;
         }
         .filter-btn.missing-artist.active {
-            background: linear-gradient(135deg, #dc3545 0%, #ff6b6b 100%);
-            color: white;
-            border-color: transparent;
-            box-shadow: 0 4px 12px rgba(220, 53, 69, 0.3);
+            background: #e8f0fe;
+            color: #174ea6;
+            border-color: #9bb7f0;
         }
         .filter-btn.clear {
-            background: linear-gradient(135deg, #6c757d 0%, #adb5bd 100%);
-            color: white;
-            border-color: transparent;
-            box-shadow: 0 4px 12px rgba(108, 117, 125, 0.3);
+            background: #ffffff;
+            color: #1f2328;
+            border-color: #d0d7de;
         }
         .filter-btn.clear:hover {
-            transform: translateY(-1px);
-            box-shadow: 0 6px 16px rgba(108, 117, 125, 0.4);
+            background: #f7f7f7;
         }
         .search-field-bar {
             display: flex;
             gap: 20px;
             flex-wrap: wrap;
-            padding: 15px 20px;
+            padding: 12px 14px;
             background: white;
-            border-radius: 12px;
+            border-radius: 10px;
             align-items: center;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+            justify-content: flex-start;
+            border: 1px solid #d0d7de;
+            box-shadow: 0 2px 8px rgba(15,23,42,0.04);
         }
         .search-field-label {
-            font-size: 14px;
-            color: #495057;
+            font-size: 13px;
+            color: #1f2328;
             font-weight: 600;
             white-space: nowrap;
         }
@@ -154,52 +171,58 @@
             accent-color: #00a1d6;
         }
         .search-container { 
-            display: flex; 
+            display: grid; 
+            grid-template-columns: minmax(0, 1fr) 220px 120px;
             gap: 12px; 
-            flex-wrap: wrap;
+            align-items: stretch;
         }
         .sort-select {
-            min-width: 210px;
-            padding: 8px 12px;
-            border: 2px solid #e9ecef;
-            border-radius: 12px;
+            min-width: 0;
+            width: 100%;
+            padding: 0 12px;
+            border: 1px solid #d0d7de;
+            border-radius: 6px;
             background: white;
             font-size: 14px;
             color: #495057;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+            box-shadow: none;
+            height: 56px;
         }
         #search-input { 
-            flex: 1; 
-            min-width: 250px;
-            padding: 16px 20px; 
+            width: 100%;
+            min-width: 0;
+            padding: 0 16px; 
             font-size: 16px; 
-            border: 2px solid #e9ecef; 
-            border-radius: 12px; 
+            border: 1px solid #d0d7de; 
+            border-radius: 6px; 
             outline: none; 
             background: white;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+            box-shadow: none;
             transition: all 0.3s ease;
+            height: 56px;
         }
         #search-input:focus { 
-            border-color: #00a1d6; 
-            box-shadow: 0 0 0 4px rgba(0, 161, 214, 0.1);
+            border-color: #2563eb; 
+            box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.14);
         }
         #search-btn { 
-            padding: 0 32px; 
-            background: linear-gradient(135deg, #00a1d6 0%, #00c6ff 100%);
-            color: white; 
-            border: none; 
-            border-radius: 12px; 
-            font-size: 16px; 
+            width: 100%;
+            padding: 0 18px; 
+            background: #f3f4f6;
+            color: #111827; 
+            border: 1px solid #b8c0cc; 
+            border-radius: 6px; 
+            font-size: 15px; 
             font-weight: 600;
             cursor: pointer; 
             white-space: nowrap;
-            box-shadow: 0 4px 15px rgba(0, 161, 214, 0.3);
-            transition: all 0.3s ease;
+            box-shadow: none;
+            transition: background 0.15s ease, border-color 0.15s ease;
+            height: 56px;
         }
         #search-btn:hover { 
-            transform: translateY(-2px);
-            box-shadow: 0 6px 20px rgba(0, 161, 214, 0.4);
+            background: #e9edf2;
+            border-color: #aab6c6;
         }
         .stats-container {
             display: flex;
@@ -397,6 +420,39 @@
             right: 8px;
             transform: translateY(-50%);
             font-size: 10px;
+        }
+        @media (max-width: 900px) {
+            body { padding: 16px 12px; }
+            .filter-bar,
+            .search-field-bar,
+            .copy-controls,
+            .stats-container {
+                padding: 12px 14px;
+            }
+            .source-picker {
+                width: 100%;
+                flex-direction: column;
+                align-items: stretch;
+                gap: 8px;
+            }
+            .source-meta {
+                white-space: normal;
+            }
+            .source-actions {
+                width: 100%;
+                margin-left: 0;
+                justify-content: flex-start;
+            }
+            .search-container {
+                grid-template-columns: 1fr;
+            }
+            .filter-select,
+            .sort-select,
+            #search-input,
+            #search-btn {
+                max-width: none;
+                width: 100%;
+            }
         }
         .song-meta { 
             font-size: 14px; 
@@ -682,6 +738,7 @@
         <label><input type="checkbox" id="copy-source">来源</label>
         <label><input type="checkbox" id="copy-link" checked>链接</label>
         <label><input type="checkbox" id="copy-bvid">BV号</label>
+        <label><input type="checkbox" id="copy-pubdate">发布时间</label>
         <label><input type="checkbox" id="copy-valid-artist-only">仅复制有歌手</label>
         <label>分隔符 <input type="text" id="copy-separator" class="copy-separator-input" value=" " placeholder="默认空格"></label>
         <label><input type="radio" name="copy-format" id="copy-format-text" checked>纯文本</label>
@@ -837,18 +894,6 @@
         }
 
         function appendSourceSelectOptions(sourceSelect) {
-            const currentOption = document.createElement('option');
-            currentOption.value = '__current__';
-            currentOption.textContent = getCurrentSourceDisplayLabel();
-            currentOption.selected = true;
-            sourceSelect.appendChild(currentOption);
-
-            const dividerOption = document.createElement('option');
-            dividerOption.value = '';
-            dividerOption.textContent = '────────';
-            dividerOption.disabled = true;
-            sourceSelect.appendChild(dividerOption);
-
             const allOption = document.createElement('option');
             allOption.value = 'all';
             allOption.textContent = getSourceOptionLabel('all');
@@ -870,6 +915,7 @@
                 source: document.getElementById('copy-source').checked,
                 link: document.getElementById('copy-link').checked,
                 bvid: document.getElementById('copy-bvid').checked,
+                pubdate: document.getElementById('copy-pubdate').checked,
                 validArtistOnly: document.getElementById('copy-valid-artist-only').checked,
                 separator: document.getElementById('copy-separator').value,
                 textFormat: document.getElementById('copy-format-text').checked
@@ -904,6 +950,7 @@
                     if (options.source) parts.push(sourceLabel(item));
                     if (options.link) parts.push(item.link || '');
                     if (options.bvid) parts.push(extractBvid(item.link) || '');
+                    if (options.pubdate) parts.push(formatShanghaiDateTime(item.pubdate) || '');
                     return parts.join(separator);
                 }).join('\n');
             }
@@ -915,6 +962,7 @@
             if (options.source) headers.push('来源');
             if (options.link) headers.push('链接');
             if (options.bvid) headers.push('BV号');
+            if (options.pubdate) headers.push('发布时间');
 
             let content = headers.join('\t') + '\n';
             copyData.forEach(item => {
@@ -925,6 +973,7 @@
                 if (options.source) row.push(sourceLabel(item));
                 if (options.link) row.push(item.link || '');
                 if (options.bvid) row.push(extractBvid(item.link) || '');
+                if (options.pubdate) row.push(formatShanghaiDateTime(item.pubdate) || '');
                 content += row.join('\t') + '\n';
             });
             return content.trim();
@@ -1216,22 +1265,34 @@
             const filterBar = document.getElementById('filter-bar');
             filterBar.innerHTML = '<span class="filter-label">来源</span>';
 
+            const sourcePicker = document.createElement('div');
+            sourcePicker.className = 'source-picker';
+
             const sourceSelect = document.createElement('select');
             sourceSelect.className = 'filter-select';
 
             appendSourceSelectOptions(sourceSelect);
-            sourceSelect.value = '__current__';
+            sourceSelect.value = activeSource === 'missing-artist' ? 'all' : activeSource;
             sourceSelect.onchange = () => {
-                if (!sourceSelect.value || sourceSelect.value === '__current__') return;
+                if (!sourceSelect.value) return;
                 switchSource(sourceSelect.value);
             };
-            filterBar.appendChild(sourceSelect);
+            sourcePicker.appendChild(sourceSelect);
+
+            const sourceMeta = document.createElement('span');
+            sourceMeta.className = 'source-meta';
+            sourceMeta.textContent = getCurrentSourceDisplayLabel();
+            sourcePicker.appendChild(sourceMeta);
+            filterBar.appendChild(sourcePicker);
+
+            const sourceActions = document.createElement('div');
+            sourceActions.className = 'source-actions';
 
             const missingBtn = document.createElement('button');
             missingBtn.className = `filter-btn missing-artist ${activeSource === 'missing-artist' ? 'active' : ''}`;
-            missingBtn.textContent = '⚠️ 缺失歌手';
+            missingBtn.textContent = '缺失歌手';
             missingBtn.onclick = () => switchSource('missing-artist');
-            filterBar.appendChild(missingBtn);
+            sourceActions.appendChild(missingBtn);
 
             const clearBtn = document.createElement('button');
             clearBtn.className = 'filter-btn clear';
@@ -1241,7 +1302,8 @@
                 document.getElementById('search-input').value = '';
                 updateFilterAndSearch();
             };
-            filterBar.appendChild(clearBtn);
+            sourceActions.appendChild(clearBtn);
+            filterBar.appendChild(sourceActions);
         }
 
         function switchSource(source) {

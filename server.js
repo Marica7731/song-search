@@ -694,13 +694,13 @@ function handleStatsView(reqUrl, res) {
 
   if (tab === 'rank') {
     groups = aggregateBySong(data);
-    summaryText = `📊 共统计 ${groups.length} 首不同的“歌曲+歌手”组合`;
+    summaryText = `共 ${groups.length} 首歌曲`;
   } else if (tab === 'artist') {
     groups = aggregateByArtist(data);
-    summaryText = `🎙️ 共收录 ${groups.length} 位歌手的歌单`;
+    summaryText = `共 ${groups.length} 位歌手`;
   } else {
     groups = aggregateByVtuberSource(data);
-    summaryText = `🎤 共收录 ${groups.length} 位VTuber的合集歌单`;
+    summaryText = `共 ${groups.length} 位 VTuber`;
   }
 
   const total = groups.length;

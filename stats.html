@@ -249,9 +249,15 @@
         }
         .chip-artist { background: #e3f2fd; color: #1565c0; }
         .count-badge {
-            padding: 8px 18px; border-radius: 20px; font-size: 16px; font-weight: 800;
-            background: linear-gradient(135deg, #6f42c1 0%, #8a6edb 100%);
-            color: white; box-shadow: 0 4px 12px rgba(111, 66, 193, 0.3); white-space: nowrap;
+            padding: 8px 14px;
+            border-radius: 6px;
+            font-size: 15px;
+            font-weight: 700;
+            background: #f3f4f6;
+            color: #111827;
+            border: 1px solid #d0d7de;
+            box-shadow: none;
+            white-space: nowrap;
         }
         .perf-container { border-top: 1px solid #f1f3f5; padding-top: 12px; }
         .perf-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; }
@@ -295,6 +301,7 @@
             background: transparent;
             padding: 0;
             border-radius: 0;
+            line-height: 1.5;
         }
         .group-songs { padding: 20px 25px; }
         .song-item-row {
@@ -1237,29 +1244,11 @@
             const filterBar = document.getElementById('filter-bar');
             filterBar.innerHTML = '<span class="filter-label">来源</span>';
 
+            const sourcePicker = document.createElement('div');
+            sourcePicker.className = 'source-picker';
+
             const sourceSelect = document.createElement('select');
             sourceSelect.className = 'filter-select';
-
-            const currentOption = document.createElement('option');
-            currentOption.value = '__current__';
-            if (activeFilter === 'all') {
-                currentOption.textContent = `全部来源 · 投稿 ${bootstrapTotalSongs} · 去重 ${bootstrapTotalUnique}`;
-            } else {
-                const fileBase = activeFilter.replace('.js', '');
-                const btnText = FILE_TO_ALIAS[fileBase] || fileBase;
-                const stat = SOURCE_STATS[activeFilter];
-                currentOption.textContent = stat
-                    ? `${btnText} · 投稿 ${stat.totalSongs} · 去重 ${stat.totalUnique}`
-                    : btnText;
-            }
-            currentOption.selected = true;
-            sourceSelect.appendChild(currentOption);
-
-            const dividerOption = document.createElement('option');
-            dividerOption.value = '';
-            dividerOption.textContent = '────────';
-            dividerOption.disabled = true;
-            sourceSelect.appendChild(dividerOption);
 
             const allOption = document.createElement('option');
             allOption.value = 'all';
@@ -1269,23 +1258,33 @@
             fileNames.forEach(fileName => {
                 const fileBase = fileName.replace('.js', '');
                 const btnText = FILE_TO_ALIAS[fileBase] || fileBase;
-                const stat = SOURCE_STATS[fileName];
                 const option = document.createElement('option');
                 option.value = fileName;
-                option.textContent = stat
-                    ? `${btnText} | 投稿 ${stat.totalSongs} | 去重 ${stat.totalUnique}`
-                    : btnText;
+                option.textContent = btnText;
                 sourceSelect.appendChild(option);
             });
 
-            sourceSelect.value = '__current__';
+            sourceSelect.value = activeFilter;
             sourceSelect.onchange = () => {
-                if (!sourceSelect.value || sourceSelect.value === '__current__') return;
+                if (!sourceSelect.value) return;
                 activeFilter = sourceSelect.value;
                 currentRankPage = 1;
                 updateAllViews();
             };
-            filterBar.appendChild(sourceSelect);
+            sourcePicker.appendChild(sourceSelect);
+
+            const sourceMeta = document.createElement('span');
+            sourceMeta.className = 'source-meta';
+            if (activeFilter === 'all') {
+                sourceMeta.textContent = `投稿 ${bootstrapTotalSongs} · 去重 ${bootstrapTotalUnique}`;
+            } else {
+                const stat = SOURCE_STATS[activeFilter];
+                sourceMeta.textContent = stat
+                    ? `投稿 ${stat.totalSongs} · 去重 ${stat.totalUnique}`
+                    : '';
+            }
+            sourcePicker.appendChild(sourceMeta);
+            filterBar.appendChild(sourcePicker);
         }
 
         // --- 辅助：生成唯一ID ---
@@ -1299,7 +1298,7 @@
             const aggData = alreadyAggregated ? data : aggregateBySong(data);
             
             if (!isApiMode) {
-                document.getElementById('summary-text').textContent = `共统计 ${aggData.length} 首不同的歌曲-歌手组合`;
+                document.getElementById('summary-text').textContent = `共 ${aggData.length} 首歌曲`;
             }
 
             const start = (currentRankPage - 1) * PAGE_SIZE;
@@ -1573,7 +1572,7 @@
         function renderVtuberSourceList(data, alreadyAggregated = false) {
             const aggData = alreadyAggregated ? data : aggregateByVtuberSource(data);
             if (!isApiMode) {
-                document.getElementById('summary-text').textContent = `共收录 ${aggData.length} 位 VTuber`;
+                document.getElementById('summary-text').textContent = `共 ${aggData.length} 位 VTuber`;
             }
             renderGroupList(aggData, 'vtuber-source-list', 'vtuber');
             renderPagination(isApiMode && currentStatsPayload ? currentStatsPayload.total : aggData.length);
@@ -1583,7 +1582,7 @@
         function renderArtistList(data, alreadyAggregated = false) {
             const aggData = alreadyAggregated ? data : aggregateByArtist(data);
             if (!isApiMode) {
-                document.getElementById('summary-text').textContent = `共收录 ${aggData.length} 位歌手`;
+                document.getElementById('summary-text').textContent = `共 ${aggData.length} 位歌手`;
             }
             renderGroupList(aggData, 'artist-list', 'artist');
             renderPagination(isApiMode && currentStatsPayload ? currentStatsPayload.total : aggData.length);

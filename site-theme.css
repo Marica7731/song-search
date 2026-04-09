@@ -405,21 +405,37 @@ button:hover,
   padding: 0 !important;
 }
 
+.source-picker {
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 12px !important;
+  flex: 1 1 520px !important;
+  min-width: 0 !important;
+}
+
 .source-select {
   min-width: 320px !important;
   max-width: 520px !important;
-  flex: 1 1 420px;
+  flex: 1 1 420px !important;
 }
 
 .source-meta {
-  margin-left: auto !important;
+  margin-left: 0 !important;
   font-size: 12px !important;
   color: var(--muted) !important;
   white-space: nowrap;
 }
 
+.source-actions {
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 8px !important;
+  flex-wrap: wrap !important;
+  margin-left: auto !important;
+}
+
 .filter-bar {
-  justify-content: space-between !important;
+  justify-content: flex-start !important;
 }
 
 .filter-bar .stat-info {
@@ -690,6 +706,14 @@ tbody tr:hover {
     min-width: 0 !important;
     max-width: none !important;
     width: 100% !important;
+    flex: none !important;
+  }
+
+  .source-picker {
+    width: 100% !important;
+    flex-direction: column !important;
+    align-items: stretch !important;
+    gap: 8px !important;
   }
 
   .source-meta {
@@ -697,6 +721,7 @@ tbody tr:hover {
     white-space: normal !important;
   }
 
+  .source-actions,
   .filter-bar > div:last-child,
   .stats-container > div:last-child,
   .title-controls {
@@ -737,7 +762,7 @@ tbody tr:hover {
 }
 
 #titleInput {
-  min-height: 220px !important;
+  min-height: 160px !important;
 }
 
 #bvInput,
