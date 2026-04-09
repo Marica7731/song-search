@@ -91,16 +91,91 @@
             font-weight: 600;
             white-space: nowrap;
         }
-        .filter-select {
+        .source-picker {
+            position: relative;
+            display: inline-flex;
+            align-items: center;
+            gap: 12px;
+            flex: 1 1 540px;
+            min-width: 0;
+        }
+        .source-select-shell {
+            position: relative;
             min-width: 360px;
             flex: 1 1 420px;
             max-width: 560px;
-            padding: 8px 12px;
-            border: 1px solid #e9ecef;
+        }
+        .source-trigger {
+            width: 100%;
+            height: 44px;
+            padding: 0 40px 0 12px;
+            border: 1px solid #d0d7de;
             border-radius: 6px;
             background: white;
+            color: #1f2328;
             font-size: 14px;
-            color: #495057;
+            text-align: left;
+            cursor: pointer;
+        }
+        .source-trigger:hover {
+            background: #f7f7f7;
+            border-color: #b8c0cc;
+        }
+        .source-trigger::after {
+            content: "";
+            position: absolute;
+            right: 14px;
+            top: 50%;
+            width: 8px;
+            height: 8px;
+            border-right: 2px solid #667085;
+            border-bottom: 2px solid #667085;
+            transform: translateY(-65%) rotate(45deg);
+            pointer-events: none;
+        }
+        .source-select-shell.open .source-trigger::after {
+            transform: translateY(-35%) rotate(-135deg);
+        }
+        .source-menu {
+            position: absolute;
+            top: calc(100% + 6px);
+            left: 0;
+            right: 0;
+            z-index: 50;
+            display: none;
+            max-height: 320px;
+            overflow: auto;
+            background: #ffffff;
+            border: 1px solid #d0d7de;
+            border-radius: 6px;
+            box-shadow: 0 8px 22px rgba(15, 23, 42, 0.12);
+        }
+        .source-select-shell.open .source-menu { display: block; }
+        .source-option {
+            width: 100%;
+            padding: 10px 12px;
+            border: 0;
+            border-bottom: 1px solid #eef2f6;
+            background: #ffffff;
+            color: #1f2328;
+            text-align: left;
+            cursor: pointer;
+            font-size: 14px;
+        }
+        .source-option:last-child { border-bottom: 0; }
+        .source-option:hover,
+        .source-option:focus-visible {
+            background: #f7faff;
+            outline: none;
+        }
+        .source-option.active {
+            background: #e8f0fe;
+            color: #174ea6;
+        }
+        .source-meta {
+            font-size: 12px;
+            color: #667085;
+            white-space: nowrap;
         }
         .filter-btn {
             padding: 7px 16px;
@@ -119,16 +194,17 @@
             color: #174ea6;
             border-color: #9bb7f0;
         }
-        .search-container { display: flex; gap: 12px; flex-wrap: wrap; }
+        .search-container { display: grid; grid-template-columns: minmax(0, 1fr) 120px; gap: 12px; align-items: stretch; }
         #search-input { 
-            flex: 1; min-width: 250px; padding: 16px 20px; font-size: 16px; 
-            border: 2px solid #e9ecef; border-radius: 12px; outline: none; 
-            background: white; box-shadow: 0 2px 10px rgba(0,0,0,0.05);
-            transition: all 0.3s ease;
+            min-width: 0; padding: 0 16px; font-size: 16px; 
+            border: 1px solid #d0d7de; border-radius: 6px; outline: none; 
+            background: white; box-shadow: none;
+            transition: all 0.15s ease;
+            height: 44px;
         }
-        #search-input:focus { border-color: #00a1d6; box-shadow: 0 0 0 4px rgba(0, 161, 214, 0.1); }
+        #search-input:focus { border-color: #2563eb; box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.14); }
         #search-btn {
-            padding: 0 28px;
+            padding: 0 18px;
             background: #f3f4f6;
             color: #111827;
             border: 1px solid #b8c0cc;
@@ -139,6 +215,7 @@
             white-space: nowrap;
             box-shadow: none;
             transition: background 0.15s ease, border-color 0.15s ease;
+            height: 44px;
         }
         #search-btn:hover { background: #e9edf2; border-color: #aab6c6; }
 
@@ -247,11 +324,17 @@
             display: inline-flex; align-items: center; gap: 6px;
             padding: 4px 10px; border-radius: 12px; font-size: 13px; font-weight: 500; margin-top: 6px;
         }
-        .chip-artist { background: #e3f2fd; color: #1565c0; }
+        .chip-artist {
+            background: #f7f7f7;
+            color: #495057;
+            border: 1px solid #d0d7de;
+        }
         .count-badge {
+            min-width: 84px;
             padding: 8px 14px;
-            border-radius: 6px;
-            font-size: 15px;
+            border-radius: 8px !important;
+            text-align: center;
+            font-size: 14px;
             font-weight: 700;
             background: #f3f4f6;
             color: #111827;
@@ -260,8 +343,8 @@
             white-space: nowrap;
         }
         .perf-container { border-top: 1px solid #f1f3f5; padding-top: 12px; }
-        .perf-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; }
-        .perf-label { font-size: 12px; color: #adb5bd; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; }
+        .perf-header { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-bottom: 12px; }
+        .perf-label { font-size: 12px; color: #667085; font-weight: 600; letter-spacing: 0; }
         .perf-grid { display: flex; flex-wrap: wrap; gap: 8px; }
         .perf-link {
             display: inline-block; padding: 5px 12px; background: #f8f9fa; border: 1px solid #e9ecef;
@@ -295,14 +378,7 @@
         .group-header.vtuber { background: #f7f7f7; color: #111827; }
         .group-header.artist { background: #f7f7f7; color: #111827; }
         .group-name { font-size: 20px; font-weight: 800; display: flex; align-items: center; gap: 8px; }
-        .group-count {
-            font-size: 13px;
-            color: #667085;
-            background: transparent;
-            padding: 0;
-            border-radius: 0;
-            line-height: 1.5;
-        }
+        .group-count { font-size: 13px; color: #667085; background: transparent; padding: 0; border-radius: 0; line-height: 1.5; }
         .group-songs { padding: 20px 25px; }
         .song-item-row {
             display: flex;
@@ -464,39 +540,38 @@
         }
         .modal-btn.cancel:hover { background: #dee2e6; }
         .modal-btn.confirm {
-            background: linear-gradient(135deg, #00a1d6 0%, #00c6ff 100%);
-            color: white;
-            box-shadow: 0 4px 12px rgba(0, 161, 214, 0.3);
+            background: #f3f4f6;
+            color: #111827;
+            border: 1px solid #b8c0cc;
+            box-shadow: none;
         }
-        .modal-btn.confirm:hover { transform: translateY(-1px); box-shadow: 0 6px 16px rgba(0, 161, 214, 0.4); }
+        .modal-btn.confirm:hover { background: #e9edf2; }
 
         /* --- 复制按钮样式 --- */
         .copy-btn {
             padding: 6px 14px;
-            border: 1px solid rgba(255,255,255,0.3);
-            border-radius: 8px;
-            background: rgba(255,255,255,0.15);
-            color: white;
+            border: 1px solid #d0d7de;
+            border-radius: 6px;
+            background: #ffffff;
+            color: #1f2328;
             font-size: 13px;
             cursor: pointer;
-            transition: all 0.2s;
-            font-weight: 500;
-            backdrop-filter: blur(4px);
+            transition: all 0.15s;
+            font-weight: 600;
         }
         .copy-btn:hover {
-            background: rgba(255,255,255,0.25);
-            border-color: rgba(255,255,255,0.5);
-            transform: translateY(-1px);
+            background: #f7f7f7;
+            border-color: #b8c0cc;
         }
         .rank-item .copy-btn {
-            background: white;
-            color: #6c757d;
-            border: 1px solid #e9ecef;
+            background: #ffffff;
+            color: #1f2328;
+            border: 1px solid #d0d7de;
         }
         .rank-item .copy-btn:hover {
-            border-color: #00a1d6;
-            color: #00a1d6;
-            background: #f0f9ff;
+            border-color: #b8c0cc;
+            color: #1f2328;
+            background: #f7f7f7;
         }
 
         /* --- Toast 气泡提示 --- */
@@ -554,9 +629,31 @@
         .group-header-actions {
             display: flex;
             align-items: center;
-            gap: 10px;
+            gap: 12px;
             flex-wrap: wrap;
             justify-content: flex-end;
+        }
+        @media (max-width: 900px) {
+            .source-picker {
+                width: 100%;
+                flex: none;
+                flex-direction: column;
+                align-items: stretch;
+                gap: 6px;
+            }
+            .source-select-shell {
+                min-width: 0;
+                max-width: none;
+                width: 100%;
+                flex: none;
+            }
+            .source-meta {
+                white-space: normal;
+                min-height: 0;
+            }
+            .search-container {
+                grid-template-columns: 1fr;
+            }
         }
         @keyframes toastIn {
             from { opacity: 0; transform: translateY(-10px); }
@@ -705,6 +802,37 @@
                 .replace(/"/g, '&quot;')
                 .replace(/</g, '&lt;')
                 .replace(/>/g, '&gt;');
+        }
+
+        function getSourceOptions() {
+            return [
+                { value: 'all', label: '全部来源' },
+                ...fileNames.map(fileName => {
+                    const fileBase = fileName.replace('.js', '');
+                    return {
+                        value: fileName,
+                        label: FILE_TO_ALIAS[fileBase] || fileBase
+                    };
+                })
+            ];
+        }
+
+        function getCurrentSourceMetaText() {
+            if (activeFilter === 'all') {
+                return `投稿 ${bootstrapTotalSongs} · 去重 ${bootstrapTotalUnique}`;
+            }
+            const stat = SOURCE_STATS[activeFilter];
+            return stat ? `投稿 ${stat.totalSongs} · 去重 ${stat.totalUnique}` : '';
+        }
+
+        function normalizeSummaryText(text) {
+            if (!text) return '';
+            return text
+                .replace(/^共统计\s*/, '')
+                .replace(/^共\s*/, '')
+                .replace(/首不同的歌曲\+歌手组合/, '首不同歌曲')
+                .replace(/首歌曲$/, '首不同歌曲')
+                .trim();
         }
 
         // ========== 日语假名转罗马音 ==========
@@ -1247,42 +1375,54 @@
             const sourcePicker = document.createElement('div');
             sourcePicker.className = 'source-picker';
 
-            const sourceSelect = document.createElement('select');
-            sourceSelect.className = 'filter-select';
+            const sourceShell = document.createElement('div');
+            sourceShell.className = 'source-select-shell';
 
-            const allOption = document.createElement('option');
-            allOption.value = 'all';
-            allOption.textContent = '全部来源';
-            sourceSelect.appendChild(allOption);
+            const sourceTrigger = document.createElement('button');
+            sourceTrigger.type = 'button';
+            sourceTrigger.className = 'source-trigger';
+            sourceTrigger.textContent = getSourceOptions().find(option => option.value === activeFilter)?.label || '全部来源';
 
-            fileNames.forEach(fileName => {
-                const fileBase = fileName.replace('.js', '');
-                const btnText = FILE_TO_ALIAS[fileBase] || fileBase;
-                const option = document.createElement('option');
-                option.value = fileName;
-                option.textContent = btnText;
-                sourceSelect.appendChild(option);
+            const sourceMenu = document.createElement('div');
+            sourceMenu.className = 'source-menu';
+
+            getSourceOptions().forEach(option => {
+                const optionBtn = document.createElement('button');
+                optionBtn.type = 'button';
+                optionBtn.className = `source-option ${option.value === activeFilter ? 'active' : ''}`;
+                optionBtn.textContent = option.label;
+                optionBtn.onclick = () => {
+                    sourceShell.classList.remove('open');
+                    activeFilter = option.value;
+                    currentRankPage = 1;
+                    updateAllViews();
+                };
+                sourceMenu.appendChild(optionBtn);
             });
 
-            sourceSelect.value = activeFilter;
-            sourceSelect.onchange = () => {
-                if (!sourceSelect.value) return;
-                activeFilter = sourceSelect.value;
-                currentRankPage = 1;
-                updateAllViews();
+            const closeMenu = (event) => {
+                if (!sourceShell.contains(event.target)) {
+                    sourceShell.classList.remove('open');
+                    document.removeEventListener('click', closeMenu, true);
+                }
             };
-            sourcePicker.appendChild(sourceSelect);
+
+            sourceTrigger.onclick = (event) => {
+                event.stopPropagation();
+                const isOpen = sourceShell.classList.toggle('open');
+                document.removeEventListener('click', closeMenu, true);
+                if (isOpen) {
+                    document.addEventListener('click', closeMenu, true);
+                }
+            };
+
+            sourceShell.appendChild(sourceTrigger);
+            sourceShell.appendChild(sourceMenu);
+            sourcePicker.appendChild(sourceShell);
 
             const sourceMeta = document.createElement('span');
             sourceMeta.className = 'source-meta';
-            if (activeFilter === 'all') {
-                sourceMeta.textContent = `投稿 ${bootstrapTotalSongs} · 去重 ${bootstrapTotalUnique}`;
-            } else {
-                const stat = SOURCE_STATS[activeFilter];
-                sourceMeta.textContent = stat
-                    ? `投稿 ${stat.totalSongs} · 去重 ${stat.totalUnique}`
-                    : '';
-            }
+            sourceMeta.textContent = getCurrentSourceMetaText();
             sourcePicker.appendChild(sourceMeta);
             filterBar.appendChild(sourcePicker);
         }
@@ -1298,7 +1438,7 @@
             const aggData = alreadyAggregated ? data : aggregateBySong(data);
             
             if (!isApiMode) {
-                document.getElementById('summary-text').textContent = `共 ${aggData.length} 首歌曲`;
+                document.getElementById('summary-text').textContent = `${aggData.length} 首不同歌曲`;
             }
 
             const start = (currentRankPage - 1) * PAGE_SIZE;
@@ -1572,7 +1712,7 @@
         function renderVtuberSourceList(data, alreadyAggregated = false) {
             const aggData = alreadyAggregated ? data : aggregateByVtuberSource(data);
             if (!isApiMode) {
-                document.getElementById('summary-text').textContent = `共 ${aggData.length} 位 VTuber`;
+                document.getElementById('summary-text').textContent = `${aggData.length} 位 VTuber`;
             }
             renderGroupList(aggData, 'vtuber-source-list', 'vtuber');
             renderPagination(isApiMode && currentStatsPayload ? currentStatsPayload.total : aggData.length);
@@ -1582,7 +1722,7 @@
         function renderArtistList(data, alreadyAggregated = false) {
             const aggData = alreadyAggregated ? data : aggregateByArtist(data);
             if (!isApiMode) {
-                document.getElementById('summary-text').textContent = `共 ${aggData.length} 位歌手`;
+                document.getElementById('summary-text').textContent = `${aggData.length} 位歌手`;
             }
             renderGroupList(aggData, 'artist-list', 'artist');
             renderPagination(isApiMode && currentStatsPayload ? currentStatsPayload.total : aggData.length);
@@ -1692,7 +1832,7 @@
                 try {
                     currentStatsPayload = await fetchStatsView();
                     currentRankPage = currentStatsPayload.page || currentRankPage;
-                    document.getElementById('summary-text').textContent = currentStatsPayload.summaryText || '';
+                    document.getElementById('summary-text').textContent = normalizeSummaryText(currentStatsPayload.summaryText || '');
                     if (!currentStatsPayload.hasData || !Array.isArray(currentStatsPayload.items) || currentStatsPayload.items.length === 0) {
                         document.getElementById('empty-msg').style.display = 'block';
                         document.getElementById('rank-list').innerHTML = '';

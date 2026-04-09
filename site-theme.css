@@ -419,6 +419,18 @@ button:hover,
   flex: 1 1 420px !important;
 }
 
+.source-select,
+.filter-select,
+.sort-select {
+  -webkit-appearance: none !important;
+  appearance: none !important;
+  background-image: linear-gradient(45deg, transparent 50%, #667085 50%), linear-gradient(135deg, #667085 50%, transparent 50%);
+  background-position: calc(100% - 18px) calc(50% - 3px), calc(100% - 12px) calc(50% - 3px);
+  background-size: 6px 6px, 6px 6px;
+  background-repeat: no-repeat;
+  padding-right: 36px !important;
+}
+
 .source-meta {
   margin-left: 0 !important;
   font-size: 12px !important;
@@ -533,7 +545,7 @@ button:hover,
 .not-found-tag,
 .valid-tag,
 .invalid-tag {
-  border-radius: var(--radius-sm) !important;
+  border-radius: 8px !important;
 }
 
 .rank-badge,
@@ -711,14 +723,21 @@ tbody tr:hover {
 
   .source-picker {
     width: 100% !important;
+    flex: none !important;
     flex-direction: column !important;
     align-items: stretch !important;
     gap: 8px !important;
   }
 
+  .source-select,
+  .filter-select {
+    height: 44px !important;
+  }
+
   .source-meta {
     margin-left: 0 !important;
     white-space: normal !important;
+    min-height: 0 !important;
   }
 
   .source-actions,
@@ -726,6 +745,7 @@ tbody tr:hover {
   .stats-container > div:last-child,
   .title-controls {
     width: 100%;
+    flex: none !important;
     justify-content: flex-start !important;
   }
 

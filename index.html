@@ -62,22 +62,95 @@
             white-space: nowrap;
         }
         .source-picker {
+            position: relative;
             display: inline-flex;
             align-items: center;
             gap: 12px;
-            flex: 1 1 540px;
+            flex: 1 1 auto;
             min-width: 0;
         }
-        .filter-select {
+        .source-select-shell {
+            position: relative;
             min-width: 320px;
             flex: 1 1 420px;
             max-width: 560px;
-            padding: 8px 12px;
+        }
+        .source-trigger {
+            width: 100%;
+            height: 44px;
+            padding: 0 40px 0 12px;
             border: 1px solid #d0d7de;
             border-radius: 6px;
             background: white;
+            color: #1f2328;
             font-size: 14px;
-            color: #495057;
+            text-align: left;
+            cursor: pointer;
+            box-shadow: none;
+        }
+        .source-trigger:hover {
+            background: #f7f7f7;
+            border-color: #b8c0cc;
+        }
+        .source-trigger:focus-visible {
+            outline: none;
+            border-color: #2563eb;
+            box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.14);
+        }
+        .source-trigger::after {
+            content: "";
+            position: absolute;
+            right: 14px;
+            top: 50%;
+            width: 8px;
+            height: 8px;
+            border-right: 2px solid #667085;
+            border-bottom: 2px solid #667085;
+            transform: translateY(-65%) rotate(45deg);
+            pointer-events: none;
+        }
+        .source-select-shell.open .source-trigger::after {
+            transform: translateY(-35%) rotate(-135deg);
+        }
+        .source-menu {
+            position: absolute;
+            top: calc(100% + 6px);
+            left: 0;
+            right: 0;
+            z-index: 50;
+            display: none;
+            max-height: 320px;
+            overflow: auto;
+            background: #ffffff;
+            border: 1px solid #d0d7de;
+            border-radius: 6px;
+            box-shadow: 0 8px 22px rgba(15, 23, 42, 0.12);
+        }
+        .source-select-shell.open .source-menu {
+            display: block;
+        }
+        .source-option {
+            width: 100%;
+            padding: 10px 12px;
+            border: 0;
+            border-bottom: 1px solid #eef2f6;
+            background: #ffffff;
+            color: #1f2328;
+            text-align: left;
+            cursor: pointer;
+            font-size: 14px;
+        }
+        .source-option:last-child {
+            border-bottom: 0;
+        }
+        .source-option:hover,
+        .source-option:focus-visible {
+            background: #f7faff;
+            outline: none;
+        }
+        .source-option.active {
+            background: #e8f0fe;
+            color: #174ea6;
         }
         .source-meta {
             font-size: 12px;
@@ -134,7 +207,7 @@
         }
         .search-field-bar {
             display: flex;
-            gap: 20px;
+            gap: 18px;
             flex-wrap: wrap;
             padding: 12px 14px;
             background: white;
@@ -172,7 +245,7 @@
         }
         .search-container { 
             display: grid; 
-            grid-template-columns: minmax(0, 1fr) 220px 120px;
+            grid-template-columns: minmax(0, 1fr) 190px 128px;
             gap: 12px; 
             align-items: stretch;
         }
@@ -431,22 +504,30 @@
             }
             .source-picker {
                 width: 100%;
+                flex: none;
                 flex-direction: column;
                 align-items: stretch;
-                gap: 8px;
+                gap: 6px;
+            }
+            .source-select-shell {
+                min-width: 0;
+                max-width: none;
+                width: 100%;
+                flex: none;
             }
             .source-meta {
                 white-space: normal;
+                min-height: 0;
             }
             .source-actions {
                 width: 100%;
+                flex: none;
                 margin-left: 0;
                 justify-content: flex-start;
             }
             .search-container {
                 grid-template-columns: 1fr;
             }
-            .filter-select,
             .sort-select,
             #search-input,
             #search-btn {
@@ -880,17 +961,16 @@
             return alias;
         }
 
-        function getCurrentSourceDisplayLabel() {
-            if (activeSource === 'all') {
-                return `全部来源 · 投稿 ${bootstrapTotalSongs} · 去重 ${bootstrapTotalUnique}`;
-            }
+        function getCurrentSourceMetaText() {
             if (activeSource === 'missing-artist') {
-                return '缺失歌手';
+                return '仅显示缺失歌手记录';
+            }
+            if (activeSource === 'all') {
+                return `投稿 ${bootstrapTotalSongs} · 去重 ${bootstrapTotalUnique}`;
             }
             const stat = SOURCE_STATS[activeSource];
-            const alias = getSourceOptionLabel(activeSource);
-            if (!stat) return alias;
-            return `${alias} · 投稿 ${stat.totalSongs} · 去重 ${stat.totalUnique}`;
+            if (!stat) return '';
+            return `投稿 ${stat.totalSongs} · 去重 ${stat.totalUnique}`;
         }
 
         function appendSourceSelectOptions(sourceSelect) {
@@ -905,6 +985,16 @@
                 option.textContent = getSourceOptionLabel(fileName);
                 sourceSelect.appendChild(option);
             });
+        }
+
+        function getSourceOptions() {
+            return [
+                { value: 'all', label: getSourceOptionLabel('all') },
+                ...fileNames.map(fileName => ({
+                    value: fileName,
+                    label: getSourceOptionLabel(fileName)
+                }))
+            ];
         }
 
         function getCopyOptions() {
@@ -1268,20 +1358,55 @@
             const sourcePicker = document.createElement('div');
             sourcePicker.className = 'source-picker';
 
-            const sourceSelect = document.createElement('select');
-            sourceSelect.className = 'filter-select';
+            const sourceShell = document.createElement('div');
+            sourceShell.className = 'source-select-shell';
 
-            appendSourceSelectOptions(sourceSelect);
-            sourceSelect.value = activeSource === 'missing-artist' ? 'all' : activeSource;
-            sourceSelect.onchange = () => {
-                if (!sourceSelect.value) return;
-                switchSource(sourceSelect.value);
+            const sourceTrigger = document.createElement('button');
+            sourceTrigger.type = 'button';
+            sourceTrigger.className = 'source-trigger';
+
+            const selectedValue = activeSource === 'missing-artist' ? 'all' : activeSource;
+            const selectedOption = getSourceOptions().find(option => option.value === selectedValue);
+            sourceTrigger.textContent = selectedOption?.label || '全部来源';
+
+            const sourceMenu = document.createElement('div');
+            sourceMenu.className = 'source-menu';
+
+            getSourceOptions().forEach(option => {
+                const optionBtn = document.createElement('button');
+                optionBtn.type = 'button';
+                optionBtn.className = `source-option ${option.value === selectedValue ? 'active' : ''}`;
+                optionBtn.textContent = option.label;
+                optionBtn.onclick = () => {
+                    sourceShell.classList.remove('open');
+                    switchSource(option.value);
+                };
+                sourceMenu.appendChild(optionBtn);
+            });
+
+            const closeMenu = (event) => {
+                if (!sourceShell.contains(event.target)) {
+                    sourceShell.classList.remove('open');
+                    document.removeEventListener('click', closeMenu, true);
+                }
             };
-            sourcePicker.appendChild(sourceSelect);
+
+            sourceTrigger.onclick = (event) => {
+                event.stopPropagation();
+                const isOpen = sourceShell.classList.toggle('open');
+                document.removeEventListener('click', closeMenu, true);
+                if (isOpen) {
+                    document.addEventListener('click', closeMenu, true);
+                }
+            };
+
+            sourceShell.appendChild(sourceTrigger);
+            sourceShell.appendChild(sourceMenu);
+            sourcePicker.appendChild(sourceShell);
 
             const sourceMeta = document.createElement('span');
             sourceMeta.className = 'source-meta';
-            sourceMeta.textContent = getCurrentSourceDisplayLabel();
+            sourceMeta.textContent = getCurrentSourceMetaText();
             sourcePicker.appendChild(sourceMeta);
             filterBar.appendChild(sourcePicker);
 
