@@ -1,6 +1,6 @@
 // ロマニ - 歌单数据 (多合集汇总)
 // 来源: BV1KHXxBUErU, BV1iHQXBzEgU
-// 生成时间: 4/9/2026, 6:03:40 PM
+// 生成时间: 4/9/2026, 7:01:02 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -219,6 +219,214 @@ window.SONG_DATA.push(
   "collection": "歌势推荐：ロマニードットアイオー 2026-03-26 RshiNWlJadg",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KHXxBUErU?p=27",
+  "source": "romany.js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "【ロマニ歌切】[2026-04-09]传达⚡──✦ 歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEDtBrEYT?p=1",
+  "source": "romany.js"
+},
+    {
+  "title": "oath sign",
+  "artist": "LiSA",
+  "collection": "【ロマニ歌切】[2026-04-09]传达⚡──✦ 歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEDtBrEYT?p=2",
+  "source": "romany.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【ロマニ歌切】[2026-04-09]传达⚡──✦ 歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEDtBrEYT?p=3",
+  "source": "romany.js"
+},
+    {
+  "title": "革命道中 On The Way",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【ロマニ歌切】[2026-04-09]传达⚡──✦ 歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEDtBrEYT?p=4",
+  "source": "romany.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【ロマニ歌切】[2026-04-09]传达⚡──✦ 歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEDtBrEYT?p=5",
+  "source": "romany.js"
+},
+    {
+  "title": "レイメイ",
+  "artist": "酸欠少女さユり×MY FIRST STORY",
+  "collection": "【ロマニ歌切】[2026-04-09]传达⚡──✦ 歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEDtBrEYT?p=6",
+  "source": "romany.js"
+},
+    {
+  "title": "GG",
+  "artist": "ReoNa",
+  "collection": "【ロマニ歌切】[2026-04-09]传达⚡──✦ 歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEDtBrEYT?p=7",
+  "source": "romany.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "【ロマニ歌切】[2026-04-09]传达⚡──✦ 歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEDtBrEYT?p=8",
+  "source": "romany.js"
+},
+    {
+  "title": "I beg you",
+  "artist": "Aimer",
+  "collection": "【ロマニ歌切】[2026-04-09]传达⚡──✦ 歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEDtBrEYT?p=9",
+  "source": "romany.js"
+},
+    {
+  "title": "命に嫌われている。",
+  "artist": "カンザキイオリ",
+  "collection": "【ロマニ歌切】[2026-04-09]传达⚡──✦ 歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEDtBrEYT?p=10",
+  "source": "romany.js"
+},
+    {
+  "title": "Beyond the way",
+  "artist": "Giga",
+  "collection": "【ロマニ歌切】[2026-04-09]传达⚡──✦ 歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEDtBrEYT?p=11",
+  "source": "romany.js"
+},
+    {
+  "title": "Rising Hope",
+  "artist": "LiSA",
+  "collection": "【ロマニ歌切】[2026-04-09]传达⚡──✦ 歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEDtBrEYT?p=12",
+  "source": "romany.js"
+},
+    {
+  "title": "Don't say \"lazy\"",
+  "artist": "桜高軽音部",
+  "collection": "【ロマニ歌切】[2026-04-09]传达⚡──✦ 歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEDtBrEYT?p=13",
+  "source": "romany.js"
+},
+    {
+  "title": "ワールドイズマインCPK! Remix",
+  "artist": "かぐや(cv.夏吉ゆうこ) 月見ヤチヨ(cv.早見沙織)",
+  "collection": "【ロマニ歌切】[2026-04-09]传达⚡──✦ 歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEDtBrEYT?p=14",
+  "source": "romany.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat. 初音ミク",
+  "collection": "【ロマニ歌切】[2026-04-09]传达⚡──✦ 歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEDtBrEYT?p=15",
+  "source": "romany.js"
+},
+    {
+  "title": "テルミーアレクサ",
+  "artist": "ロマニードットアイオー",
+  "collection": "【ロマニ歌切】[2026-04-09]传达⚡──✦ 歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEDtBrEYT?p=16",
+  "source": "romany.js"
+},
+    {
+  "title": "RE: I AM",
+  "artist": "Aimer",
+  "collection": "【ロマニ歌切】[2026-04-09]传达⚡──✦ 歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEDtBrEYT?p=17",
+  "source": "romany.js"
+},
+    {
+  "title": "Los! Los! Los!",
+  "artist": "悠木碧",
+  "collection": "【ロマニ歌切】[2026-04-09]传达⚡──✦ 歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEDtBrEYT?p=18",
+  "source": "romany.js"
+},
+    {
+  "title": "もうどうなってもいいや",
+  "artist": "星街すいせい",
+  "collection": "【ロマニ歌切】[2026-04-09]传达⚡──✦ 歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEDtBrEYT?p=19",
+  "source": "romany.js"
+},
+    {
+  "title": "ミッドナイト・リフレクション",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【ロマニ歌切】[2026-04-09]传达⚡──✦ 歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEDtBrEYT?p=20",
+  "source": "romany.js"
+},
+    {
+  "title": "モエチャッカファイア",
+  "artist": "弌誠",
+  "collection": "【ロマニ歌切】[2026-04-09]传达⚡──✦ 歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEDtBrEYT?p=21",
+  "source": "romany.js"
+},
+    {
+  "title": "アンノウン・マザーグース",
+  "artist": "wowaka",
+  "collection": "【ロマニ歌切】[2026-04-09]传达⚡──✦ 歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEDtBrEYT?p=22",
+  "source": "romany.js"
+},
+    {
+  "title": "GHOST",
+  "artist": "星街すいせい",
+  "collection": "【ロマニ歌切】[2026-04-09]传达⚡──✦ 歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEDtBrEYT?p=23",
+  "source": "romany.js"
+},
+    {
+  "title": "炎",
+  "artist": "LiSA",
+  "collection": "【ロマニ歌切】[2026-04-09]传达⚡──✦ 歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEDtBrEYT?p=24",
+  "source": "romany.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【ロマニ歌切】[2026-04-09]传达⚡──✦ 歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEDtBrEYT?p=25",
+  "source": "romany.js"
+},
+    {
+  "title": "初期衝動",
+  "artist": "ロマニードットアイオー",
+  "collection": "【ロマニ歌切】[2026-04-09]传达⚡──✦ 歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rEDtBrEYT?p=26",
   "source": "romany.js"
 },
     {

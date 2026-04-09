@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 4/9/2026, 5:55:37 PM
+// 生成时间: 4/9/2026, 6:52:11 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1435,6 +1435,158 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-04-05]和戸鎖一起度过慵懒时光吧🌨️歌回kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1grS9BZEmS?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-09]ryo限定歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nHDtBzEBn?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "星が瞬くこんな夜に",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-04-09]ryo限定歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nHDtBzEBn?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ヒーロー",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-04-09]ryo限定歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nHDtBzEBn?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-04-09]ryo限定歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nHDtBzEBn?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-04-09]ryo限定歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nHDtBzEBn?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "My Dearest",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-04-09]ryo限定歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nHDtBzEBn?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "The Everlasting Guilty Crown",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-04-09]ryo限定歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nHDtBzEBn?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Fallen",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-04-09]ryo限定歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nHDtBzEBn?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "KABANERI OF THE IRON FORTRESS",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-04-09]ryo限定歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nHDtBzEBn?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "当事者",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-04-09]ryo限定歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nHDtBzEBn?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "エウテルペ",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-04-09]ryo限定歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nHDtBzEBn?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Departures〜あなたにおくるアイの歌〜",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-04-09]ryo限定歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nHDtBzEBn?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Planetes",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-04-09]ryo限定歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nHDtBzEBn?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "この世界で見つけたもの",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-04-09]ryo限定歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nHDtBzEBn?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Ghost of a smile",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-04-09]ryo限定歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nHDtBzEBn?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Last Song",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-04-09]ryo限定歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nHDtBzEBn?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "恋は戦争",
+  "artist": "ryo(supercell) feat. 初音ミク",
+  "collection": "【歌切】[2026-04-09]ryo限定歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nHDtBzEBn?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "V1-0097_[MKaCG4duBIU]kukuri【#歌枠 singing】ryoさん（EGOISTさんsupercellさん）歌枠",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【歌切】[2026-04-09]ryo限定歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nHDtBzEBn?p=18",
+  "source": "kukuri.js"
+},
+    {
+  "title": "V1-0098_[MKaCG4duBIU]kukuri【#歌枠 singing】ryoさん（EGOISTさんsupercellさん）歌枠",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【歌切】[2026-04-09]ryo限定歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nHDtBzEBn?p=19",
   "source": "kukuri.js"
 }
 );

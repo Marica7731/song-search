@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 4/9/2026, 5:54:40 PM
+// 生成时间: 4/9/2026, 6:51:29 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -355,6 +355,270 @@ window.SONG_DATA.push(
   "collection": "【明日夢 歌切】[2026-03-25]超时空辉夜姬曲目限定翻唱歌回🌕🎍[TYlqAn75L2o]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HJXJBdEFs?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "魔法",
+  "artist": "KOTORI",
+  "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "棗",
+  "artist": "saji",
+  "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ツキヨミ",
+  "artist": "saji",
+  "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "花がら",
+  "artist": "tayori",
+  "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "春を待つ",
+  "artist": "Islet",
+  "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ダンス・ダンス・ダダ",
+  "artist": "MAISONdes feat. EMA・たなか",
+  "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "The Everlasting Guilty Crown",
+  "artist": "EGOIST",
+  "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ヒーロー",
+  "artist": "supercell",
+  "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "星が瞬くこんな夜に",
+  "artist": "supercell",
+  "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "LOVE&ROLL",
+  "artist": "supercell",
+  "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "終わりへ向かう始まりの歌",
+  "artist": "Supercell",
+  "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ブルーベリー・ナイツ",
+  "artist": "マカロニえんぴつ",
+  "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ANIMA",
+  "artist": "ReoNa",
+  "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "TAIDADA",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=15",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "嘘じゃない",
+  "artist": "崎山蒼志",
+  "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=16",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "形",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=17",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "生まれてはじめて",
+  "artist": "神田沙也加・松たか子",
+  "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=18",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "雪だるまつくろう",
+  "artist": "神田沙也加・稲葉菜月・諸星すみれ",
+  "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=19",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "朝の風景 (日本語バージョン)",
+  "artist": "伊東恵里",
+  "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=20",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "スピーチレス〜心の声",
+  "artist": "木下晴香",
+  "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=21",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ホール・ニュー・ワールド",
+  "artist": "中村倫也×木下晴香",
+  "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=22",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "自由への扉",
+  "artist": "小此木麻里",
+  "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=23",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "輝く未来",
+  "artist": "小此木麻里・畠中洋",
+  "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=24",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "U",
+  "artist": "millennium parade × Belle",
+  "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=25",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "歌よ",
+  "artist": "Belle",
+  "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=26",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "最強の推し！",
+  "artist": "鈴木愛理",
+  "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=27",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Deal with the devil",
+  "artist": "Tia",
+  "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=28",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Heart Goes Boom!!",
+  "artist": "日笠陽子",
+  "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=29",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "青空のラプソディ",
+  "artist": "Fhána",
+  "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=30",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "虹を編めたら",
+  "artist": "Fhána",
+  "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=31",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "優しさの理由",
+  "artist": "ChouCho",
+  "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=32",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=33",
   "source": "asuyumekanae.js"
 },
     {

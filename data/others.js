@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq
-// 生成时间: 4/9/2026, 6:07:08 PM
+// 生成时间: 4/9/2026, 7:04:03 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14691,6 +14691,38 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-04-08 木下ちぷる / Chipuru Ch xDYdtZTy0UY",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VHDJBqEBu?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "かわいいだけじゃだめですか？",
+  "artist": "CUTIE STREET",
+  "collection": "歌切 2025-12-12 るみなす・すいーと【LUMINOUS Ch】 obDj_cRbmTA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1p7DtBGEfy?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "ハッピーシンセサイザ",
+  "artist": "EasyPop",
+  "collection": "歌切 2025-12-12 るみなす・すいーと【LUMINOUS Ch】 obDj_cRbmTA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1p7DtBGEfy?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "あわてんぼうのサンタクロース",
+  "artist": "戸田恵子（アンパンマン）&かないみか（メロンパンナ）&長沢美樹（クリームパンダ）&中尾隆聖（ばいきんまん）&鶴ひろみ（",
+  "collection": "歌切 2025-12-12 るみなす・すいーと【LUMINOUS Ch】 obDj_cRbmTA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1p7DtBGEfy?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "神のまにまに",
+  "artist": "れるりり",
+  "collection": "歌切 2025-12-12 るみなす・すいーと【LUMINOUS Ch】 obDj_cRbmTA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1p7DtBGEfy?p=4",
   "source": "others.js"
 },
     {
