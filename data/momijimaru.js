@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 4/9/2026, 4:27:15 AM
+// 生成时间: 4/9/2026, 6:16:28 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2334,7 +2334,7 @@ window.SONG_DATA.push(
   "source": "momijimaru.js"
 },
     {
-  "title": "さくら独唱",
+  "title": "さくら（独唱）",
   "artist": "森山直太朗",
   "collection": "【🍁歌切】[2026-04-08]桜舞う季節🌸 春歌を歌いまくる歌枠🌸✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
