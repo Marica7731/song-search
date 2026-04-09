@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 4/9/2026, 4:23:11 PM
+// 生成时间: 4/9/2026, 6:02:51 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -771,6 +771,166 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-04-07]春假最后😭尽情享受歌唱吧～‼️🔥 -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12DDzBEEy8?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-03-19]弹唱封印‼️全集中唱歌回～！！！！！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKDtBSEgK?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "シンデレラボーイ",
+  "artist": "Saucy Dog",
+  "collection": "【歌切】[2026-03-19]弹唱封印‼️全集中唱歌回～！！！！！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKDtBSEgK?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP",
+  "collection": "【歌切】[2026-03-19]弹唱封印‼️全集中唱歌回～！！！！！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKDtBSEgK?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【歌切】[2026-03-19]弹唱封印‼️全集中唱歌回～！！！！！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKDtBSEgK?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【歌切】[2026-03-19]弹唱封印‼️全集中唱歌回～！！！！！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKDtBSEgK?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "give it back",
+  "artist": "Cö shu Nie",
+  "collection": "【歌切】[2026-03-19]弹唱封印‼️全集中唱歌回～！！！！！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKDtBSEgK?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-03-19]弹唱封印‼️全集中唱歌回～！！！！！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKDtBSEgK?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "新時代",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-03-19]弹唱封印‼️全集中唱歌回～！！！！！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKDtBSEgK?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【歌切】[2026-03-19]弹唱封印‼️全集中唱歌回～！！！！！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKDtBSEgK?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "【歌切】[2026-03-19]弹唱封印‼️全集中唱歌回～！！！！！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKDtBSEgK?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-03-19]弹唱封印‼️全集中唱歌回～！！！！！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKDtBSEgK?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "三日月",
+  "artist": "絢香",
+  "collection": "【歌切】[2026-03-19]弹唱封印‼️全集中唱歌回～！！！！！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKDtBSEgK?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "Everything",
+  "artist": "MISIA",
+  "collection": "【歌切】[2026-03-19]弹唱封印‼️全集中唱歌回～！！！！！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKDtBSEgK?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "アイノカタチ",
+  "artist": "MISIA",
+  "collection": "【歌切】[2026-03-19]弹唱封印‼️全集中唱歌回～！！！！！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKDtBSEgK?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-03-19]弹唱封印‼️全集中唱歌回～！！！！！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKDtBSEgK?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-03-19]弹唱封印‼️全集中唱歌回～！！！！！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKDtBSEgK?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-03-19]弹唱封印‼️全集中唱歌回～！！！！！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKDtBSEgK?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-03-19]弹唱封印‼️全集中唱歌回～！！！！！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKDtBSEgK?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-03-19]弹唱封印‼️全集中唱歌回～！！！！！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKDtBSEgK?p=19",
+  "source": "sumica.js"
+},
+    {
+  "title": "きにぴ",
+  "artist": "澄花",
+  "collection": "【歌切】[2026-03-19]弹唱封印‼️全集中唱歌回～！！！！！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKDtBSEgK?p=20",
   "source": "sumica.js"
 }
 );
