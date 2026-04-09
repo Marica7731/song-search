@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 4/9/2026, 7:00:27 PM
+// 生成时间: 4/9/2026, 8:08:58 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -931,6 +931,158 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-03-19]弹唱封印‼️全集中唱歌回～！！！！！🔥 -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tKDtBSEgK?p=20",
+  "source": "sumica.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-03-21]想用吉他弹唱陪伴你的夜晚𓈒𓏸︎︎︎︎ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1q1D4BPEfK?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "桃源郷",
+  "artist": "シャイトープ",
+  "collection": "【歌切】[2026-03-21]想用吉他弹唱陪伴你的夜晚𓈒𓏸︎︎︎︎ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1q1D4BPEfK?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "3月9日",
+  "artist": "レミオロメン",
+  "collection": "【歌切】[2026-03-21]想用吉他弹唱陪伴你的夜晚𓈒𓏸︎︎︎︎ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1q1D4BPEfK?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "ハレの日に",
+  "artist": "汐れいら",
+  "collection": "【歌切】[2026-03-21]想用吉他弹唱陪伴你的夜晚𓈒𓏸︎︎︎︎ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1q1D4BPEfK?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "サリシノハラ",
+  "artist": "みきとP",
+  "collection": "【歌切】[2026-03-21]想用吉他弹唱陪伴你的夜晚𓈒𓏸︎︎︎︎ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1q1D4BPEfK?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "神様のダンス",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-03-21]想用吉他弹唱陪伴你的夜晚𓈒𓏸︎︎︎︎ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1q1D4BPEfK?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "キュートアグレッション",
+  "artist": "キタニタツヤ",
+  "collection": "【歌切】[2026-03-21]想用吉他弹唱陪伴你的夜晚𓈒𓏸︎︎︎︎ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1q1D4BPEfK?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "アイのシナリオ",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【歌切】[2026-03-21]想用吉他弹唱陪伴你的夜晚𓈒𓏸︎︎︎︎ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1q1D4BPEfK?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "パープル",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-03-21]想用吉他弹唱陪伴你的夜晚𓈒𓏸︎︎︎︎ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1q1D4BPEfK?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-03-21]想用吉他弹唱陪伴你的夜晚𓈒𓏸︎︎︎︎ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1q1D4BPEfK?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "恋人失格",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-03-21]想用吉他弹唱陪伴你的夜晚𓈒𓏸︎︎︎︎ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1q1D4BPEfK?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "別の人の彼女になったよ",
+  "artist": "wacci",
+  "collection": "【歌切】[2026-03-21]想用吉他弹唱陪伴你的夜晚𓈒𓏸︎︎︎︎ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1q1D4BPEfK?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "コントラスト",
+  "artist": "TOMOO",
+  "collection": "【歌切】[2026-03-21]想用吉他弹唱陪伴你的夜晚𓈒𓏸︎︎︎︎ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1q1D4BPEfK?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "秘密",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-03-21]想用吉他弹唱陪伴你的夜晚𓈒𓏸︎︎︎︎ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1q1D4BPEfK?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "横顔",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-03-21]想用吉他弹唱陪伴你的夜晚𓈒𓏸︎︎︎︎ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1q1D4BPEfK?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "Burning",
+  "artist": "羊文学",
+  "collection": "【歌切】[2026-03-21]想用吉他弹唱陪伴你的夜晚𓈒𓏸︎︎︎︎ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1q1D4BPEfK?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "オリジナル",
+  "artist": "澄花",
+  "collection": "【歌切】[2026-03-21]想用吉他弹唱陪伴你的夜晚𓈒𓏸︎︎︎︎ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1q1D4BPEfK?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "ちょっと待って！",
+  "artist": "澄花",
+  "collection": "【歌切】[2026-03-21]想用吉他弹唱陪伴你的夜晚𓈒𓏸︎︎︎︎ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1q1D4BPEfK?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "V1-0019_[-UPGwkuaJrY]-sumic【#歌枠 _縦型】アコギ弾き語りであなたの夜に寄り添いたいの︎︎︎︎",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【歌切】[2026-03-21]想用吉他弹唱陪伴你的夜晚𓈒𓏸︎︎︎︎ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1q1D4BPEfK?p=19",
   "source": "sumica.js"
 }
 );
