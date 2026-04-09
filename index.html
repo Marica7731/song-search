@@ -75,6 +75,19 @@
             flex: 1 1 420px;
             max-width: 560px;
         }
+        .source-select {
+            min-width: 320px;
+            flex: 1 1 420px;
+            max-width: 560px;
+            width: 100%;
+            height: 44px;
+            padding: 0 12px;
+            border: 1px solid #d0d7de;
+            border-radius: 6px;
+            background: #fff;
+            color: #1f2328;
+            font-size: 14px;
+        }
         .source-trigger {
             width: 100%;
             height: 44px;
@@ -207,22 +220,28 @@
         }
         .search-field-bar {
             display: flex;
-            gap: 16px;
+            gap: 14px;
             flex-wrap: wrap;
             padding: 12px 14px;
             background: white;
             border-radius: 10px;
             align-items: center;
-            justify-content: flex-start;
             border: 1px solid #d0d7de;
             box-shadow: 0 2px 8px rgba(15,23,42,0.04);
+        }
+        .search-field-options {
+            display: flex;
+            align-items: center;
+            justify-content: flex-start;
+            gap: 16px;
+            flex-wrap: wrap;
         }
         .search-field-label {
             font-size: 13px;
             color: #1f2328;
             font-weight: 600;
             white-space: nowrap;
-            min-width: 68px;
+            min-width: 72px;
         }
         .search-field-option {
             display: flex;
@@ -520,6 +539,12 @@
                 width: 100%;
                 flex: none;
             }
+            .source-select {
+                min-width: 0;
+                max-width: none;
+                width: 100%;
+                flex: none;
+            }
             .source-meta {
                 white-space: normal;
                 min-height: 0;
@@ -532,6 +557,9 @@
             }
             .search-field-bar {
                 justify-content: flex-start;
+            }
+            .search-field-options {
+                gap: 12px;
             }
             .search-field-label {
                 min-width: 0;
@@ -790,22 +818,32 @@
 
         <div class="search-field-bar" id="search-field-bar">
             <span class="search-field-label">搜索范围</span>
-            <label class="search-field-option">
-                <input type="checkbox" id="search-title" checked>
-                <span>歌名</span>
-            </label>
-            <label class="search-field-option">
-                <input type="checkbox" id="search-artist" checked>
-                <span>歌手</span>
-            </label>
-            <label class="search-field-option">
-                <input type="checkbox" id="search-collection">
-                <span>合集</span>
-            </label>
-            <label class="search-field-option">
-                <input type="checkbox" id="search-source">
-                <span>来源</span>
-            </label>
+            <div class="search-field-options">
+                <label class="search-field-option">
+                    <input type="checkbox" id="search-title" checked>
+                    <span>歌名</span>
+                </label>
+                <label class="search-field-option">
+                    <input type="checkbox" id="search-artist" checked>
+                    <span>歌手</span>
+                </label>
+                <label class="search-field-option">
+                    <input type="checkbox" id="search-collection">
+                    <span>合集</span>
+                </label>
+                <label class="search-field-option">
+                    <input type="checkbox" id="search-source">
+                    <span>来源</span>
+                </label>
+                <label class="search-field-option">
+                    <input type="checkbox" id="search-bvid">
+                    <span>BV号</span>
+                </label>
+                <label class="search-field-option">
+                    <input type="checkbox" id="search-pubdate">
+                    <span>发布日期</span>
+                </label>
+            </div>
         </div>
 
         <div class="search-container">
@@ -834,7 +872,7 @@
         <label><input type="checkbox" id="copy-source">来源</label>
         <label><input type="checkbox" id="copy-link" checked>链接</label>
         <label><input type="checkbox" id="copy-bvid">BV号</label>
-        <label><input type="checkbox" id="copy-pubdate" checked>发布时间</label>
+        <label><input type="checkbox" id="copy-pubdate">发布时间</label>
         <label><input type="checkbox" id="copy-valid-artist-only">仅复制有歌手</label>
         <label>分隔符 <input type="text" id="copy-separator" class="copy-separator-input" value=" " placeholder="默认空格"></label>
         <label><input type="radio" name="copy-format" id="copy-format-text" checked>纯文本</label>
@@ -1159,6 +1197,18 @@
             }).format(date);
         }
 
+        function formatShanghaiDate(timestamp) {
+            const value = Number(timestamp || 0);
+            if (!value) return '';
+            const date = new Date(value * 1000);
+            return new Intl.DateTimeFormat('sv-SE', {
+                timeZone: 'Asia/Shanghai',
+                year: 'numeric',
+                month: '2-digit',
+                day: '2-digit'
+            }).format(date);
+        }
+
         function sortSongs(data) {
             const items = [...data];
             if (currentSortMode === 'pubdate_desc') {
@@ -1174,7 +1224,9 @@
                 title: document.getElementById('search-title').checked,
                 artist: document.getElementById('search-artist').checked,
                 collection: document.getElementById('search-collection').checked,
-                source: document.getElementById('search-source').checked
+                source: document.getElementById('search-source').checked,
+                bvid: document.getElementById('search-bvid').checked,
+                pubdate: document.getElementById('search-pubdate').checked
             };
         }
 
@@ -1288,12 +1340,18 @@
             // 先获取当前歌曲所有启用字段的文本内容
             const sourceBase = item.source?.replace('.js', '');
             const sourceAlias = FILE_TO_ALIAS[sourceBase] || item.source || '未知';
+            const bvid = extractBvid(item.bvid || item.link || '');
+            const pubdateText = item.pubdate
+                ? `${formatShanghaiDate(item.pubdate)} ${formatShanghaiDateTime(item.pubdate)}`
+                : '';
             
             const fieldTexts = {
                 title: item.title || '',
                 artist: item.artist || '',
                 collection: item.collection || '',
-                source: sourceAlias
+                source: sourceAlias,
+                bvid: bvid,
+                pubdate: pubdateText
             };
 
             // 过滤出用户启用的字段
@@ -1376,60 +1434,13 @@
 
             const sourcePicker = document.createElement('div');
             sourcePicker.className = 'source-picker';
-
-            const sourceTrigger = document.createElement('button');
             const selectedValue = activeSource === 'missing-artist' ? 'all' : activeSource;
-            if (shouldUseNativeSourceSelect()) {
-                const sourceSelect = document.createElement('select');
-                sourceSelect.className = 'source-select';
-                appendSourceSelectOptions(sourceSelect);
-                sourceSelect.value = selectedValue;
-                sourceSelect.onchange = () => switchSource(sourceSelect.value);
-                sourcePicker.appendChild(sourceSelect);
-            } else {
-                const sourceShell = document.createElement('div');
-                sourceShell.className = 'source-select-shell';
-                sourceTrigger.type = 'button';
-                sourceTrigger.className = 'source-trigger';
-
-                const selectedOption = getSourceOptions().find(option => option.value === selectedValue);
-                sourceTrigger.textContent = selectedOption?.label || '全部来源';
-
-                const sourceMenu = document.createElement('div');
-                sourceMenu.className = 'source-menu';
-
-                getSourceOptions().forEach(option => {
-                    const optionBtn = document.createElement('button');
-                    optionBtn.type = 'button';
-                    optionBtn.className = `source-option ${option.value === selectedValue ? 'active' : ''}`;
-                    optionBtn.textContent = option.label;
-                    optionBtn.onclick = () => {
-                        sourceShell.classList.remove('open');
-                        switchSource(option.value);
-                    };
-                    sourceMenu.appendChild(optionBtn);
-                });
-
-                const closeMenu = (event) => {
-                    if (!sourceShell.contains(event.target)) {
-                        sourceShell.classList.remove('open');
-                        document.removeEventListener('click', closeMenu, true);
-                    }
-                };
-
-                sourceTrigger.onclick = (event) => {
-                    event.stopPropagation();
-                    const isOpen = sourceShell.classList.toggle('open');
-                    document.removeEventListener('click', closeMenu, true);
-                    if (isOpen) {
-                        document.addEventListener('click', closeMenu, true);
-                    }
-                };
-
-                sourceShell.appendChild(sourceTrigger);
-                sourceShell.appendChild(sourceMenu);
-                sourcePicker.appendChild(sourceShell);
-            }
+            const sourceSelect = document.createElement('select');
+            sourceSelect.className = 'source-select';
+            appendSourceSelectOptions(sourceSelect);
+            sourceSelect.value = selectedValue;
+            sourceSelect.onchange = () => switchSource(sourceSelect.value);
+            sourcePicker.appendChild(sourceSelect);
 
             const sourceMeta = document.createElement('span');
             sourceMeta.className = 'source-meta';
@@ -1529,7 +1540,7 @@
             const keyword = document.getElementById('search-input').value.trim();
             const fields = getActiveSearchFields();
 
-            if (!fields.title && !fields.artist && !fields.collection && !fields.source) {
+            if (!fields.title && !fields.artist && !fields.collection && !fields.source && !fields.bvid && !fields.pubdate) {
                 filteredBySearch = [...filteredBySource];
             } else if (keyword) {
                 const condition = parseSearchQuery(keyword);
@@ -1832,7 +1843,9 @@
                 document.getElementById('search-title'),
                 document.getElementById('search-artist'),
                 document.getElementById('search-collection'),
-                document.getElementById('search-source')
+                document.getElementById('search-source'),
+                document.getElementById('search-bvid'),
+                document.getElementById('search-pubdate')
             ];
             
             checkboxes.forEach(cb => {

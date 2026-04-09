@@ -100,6 +100,38 @@ function getLinkForCopy(item) {
   return dupList[index]?.link || item.song.link || '';
 }
 
+function getCopySeparator() {
+  let separator = String(document.getElementById('copySeparator')?.value || ' ');
+  if (!separator) separator = ' ';
+  if (separator === '\\t') return '\t';
+  return separator;
+}
+
+function getResultStatusText(item) {
+  if (!item) return '';
+  if (item.isNotFound) return '未找到';
+  if (currentMode === 'titleArtist') {
+    return item.isFirst ? '首次' : `已收录（${item.dupCount || 0}）`;
+  }
+  return item.isDup ? `重复（${item.dupCount || 0}）` : '唯一';
+}
+
+function buildCopyRecord(item) {
+  const song = item?.song || {};
+  const sourceText = song.source ? getSourceAlias(song.source) : '输入值（库内首次）';
+  const link = getLinkForCopy(item);
+  return {
+    original: item?.originalInput || '',
+    title: song.title || '',
+    artist: song.artist || '',
+    source: item?.isNotFound ? '' : sourceText,
+    link,
+    bvid: extractBV(song.bvid || link || item?.originalInput || ''),
+    dupCount: Number(item?.dupCount || 0),
+    status: getResultStatusText(item)
+  };
+}
+
 function showCopyToast() {
   const toast = document.getElementById('copyToast');
   if (!toast) return;
@@ -624,10 +656,18 @@ function copyResults() {
   }
 
   const onlyUnique = !!document.getElementById('copyOnlyUnique')?.checked;
-  const includeTitle = !!document.getElementById('copyTitle')?.checked;
-  const includeLink = !!document.getElementById('copyLink')?.checked;
-  const includeSource = !!document.getElementById('copySource')?.checked;
+  const fields = [
+    { key: 'status', label: '状态', enabled: !!document.getElementById('copyStatus')?.checked },
+    { key: 'original', label: '输入值', enabled: !!document.getElementById('copyOriginal')?.checked },
+    { key: 'title', label: '歌名', enabled: !!document.getElementById('copyTitle')?.checked },
+    { key: 'artist', label: '歌手', enabled: !!document.getElementById('copyArtist')?.checked },
+    { key: 'source', label: '来源', enabled: !!document.getElementById('copySource')?.checked },
+    { key: 'link', label: '链接', enabled: !!document.getElementById('copyLink')?.checked },
+    { key: 'bvid', label: 'BV号', enabled: !!document.getElementById('copyBvid')?.checked },
+    { key: 'dupCount', label: '重复数', enabled: !!document.getElementById('copyDupCount')?.checked }
+  ].filter(field => field.enabled);
   const isTextFormat = !!document.getElementById('copyText')?.checked;
+  const separator = getCopySeparator();
 
   let copyData = analysisResult.slice();
   if (onlyUnique) {
@@ -641,38 +681,19 @@ function copyResults() {
     alert('筛选后无可复制项');
     return;
   }
+  if (fields.length === 0) {
+    alert('请至少选择一个复制字段');
+    return;
+  }
 
+  const rows = copyData.map(item => buildCopyRecord(item));
   let content = '';
   if (isTextFormat) {
-    copyData.forEach(item => {
-      if (item.isNotFound) {
-        content += `[未找到] ${item.originalInput || '未知输入'}\n`;
-        return;
-      }
-      const parts = [];
-      if (includeTitle) parts.push(item.song.title || '未知歌曲');
-      if (includeSource) parts.push(item.song.source ? getSourceAlias(item.song.source) : '输入值（库内首次）');
-      if (includeLink) parts.push(getLinkForCopy(item));
-      content += parts.join(' | ') + '\n';
-    });
+    content = rows.map(row => fields.map(field => row[field.key] ?? '').join(separator)).join('\n');
   } else {
-    const headers = ['状态'];
-    if (includeTitle) headers.push('歌名');
-    if (includeSource) headers.push('来源');
-    if (includeLink) headers.push('链接');
-    content += headers.join('\t') + '\n';
-
-    copyData.forEach(item => {
-      if (item.isNotFound) {
-        content += ['未找到', item.originalInput || '未知输入', '', ''].join('\t') + '\n';
-        return;
-      }
-      const row = [currentMode === 'titleArtist' ? (item.isFirst ? '首次' : `重复${item.dupCount}`) : (item.isDup ? '重复' : '唯一')];
-      if (includeTitle) row.push(item.song.title || '未知歌曲');
-      if (includeSource) row.push(item.song.source ? getSourceAlias(item.song.source) : '输入值（库内首次）');
-      if (includeLink) row.push(getLinkForCopy(item));
-      content += row.join('\t') + '\n';
-    });
+    const header = fields.map(field => field.label).join('\t');
+    const body = rows.map(row => fields.map(field => row[field.key] ?? '').join('\t')).join('\n');
+    content = `${header}\n${body}`;
   }
 
   navigator.clipboard.writeText(content.trim())

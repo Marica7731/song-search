@@ -15,6 +15,11 @@ const PORT = Number(process.env.PORT || 8080);
 const REFRESH_LOCK_PATH = '/tmp/song-search-refresh.lock';
 const REFRESH_SCRIPT_PATH = '/usr/local/bin/song-search-refresh.sh';
 const REFRESH_COOLDOWN_MS = 5 * 60 * 1000;
+const STATS_CACHE_LIMIT = 18;
+const STATS_PREVIEW_SONG_LIMIT = 3;
+const STATS_PREVIEW_LINK_LIMIT = 8;
+const STATS_SUMMARY_LINK_LIMIT = 20;
+const STATS_PREVIEW_PERFORMANCE_LIMIT = 20;
 
 let store = {
   songs: [],
@@ -31,6 +36,8 @@ let store = {
   sourceSongMap: new Map(),
   missingArtistSongs: []
 };
+
+const statsAggregateCache = new Map();
 
 const refreshState = {
   running: false,
@@ -226,11 +233,18 @@ function matchesSingleCondition(text, condition) {
 function searchItem(item, condition, fields) {
   const sourceBase = String(item.source || '').replace('.js', '');
   const sourceAlias = store.fileToAlias[sourceBase] || item.source || '未知';
+  const bvid = extractBV(item.bvid || item.link || '');
+  const pubdateMs = Number(item.pubdate || 0) * 1000;
+  const pubdateText = pubdateMs
+    ? `${formatShanghaiDate(pubdateMs)} ${formatShanghaiDateTime(pubdateMs)}`
+    : '';
   const fieldTexts = {
     title: item.title || '',
     artist: item.artist || '',
     collection: item.collection || '',
-    source: sourceAlias
+    source: sourceAlias,
+    bvid,
+    pubdate: pubdateText
   };
   const enabledFields = Object.entries(fields)
     .filter(([, enabled]) => enabled)
@@ -302,6 +316,10 @@ function formatShanghaiDateTime(ts) {
     second: '2-digit',
     hour12: false
   }).format(new Date(ts));
+}
+
+function clearStatsAggregateCache() {
+  statsAggregateCache.clear();
 }
 
 function getUpdateSongsMeta() {
@@ -377,6 +395,62 @@ function buildPublishGrowthRows(songs) {
     const row = byDate.get(date);
     row.delta += 1;
     if (pubdate * 1000 > row.ts) row.ts = pubdate * 1000;
+  });
+
+  let total = 0;
+  return Array.from(byDate.values())
+    .sort((a, b) => a.date.localeCompare(b.date))
+    .map(row => {
+      total += row.delta;
+      return {
+        date: row.date,
+        total,
+        ts: row.ts,
+        delta: row.delta
+      };
+    });
+}
+
+function buildPublishViewRows(songs) {
+  const byVideo = new Map();
+  songs.forEach(song => {
+    const bvid = extractBV(song.bvid || song.link || '');
+    const pubdate = Number(song.pubdate || 0);
+    const viewCount = Number(song.viewCount || 0);
+    if (!bvid || !pubdate || !Number.isFinite(viewCount)) return;
+
+    if (!byVideo.has(bvid)) {
+      byVideo.set(bvid, {
+        bvid,
+        date: formatShanghaiDate(pubdate * 1000),
+        ts: pubdate * 1000,
+        delta: Math.max(0, viewCount)
+      });
+      return;
+    }
+
+    const existing = byVideo.get(bvid);
+    if (viewCount > existing.delta) {
+      existing.delta = Math.max(0, viewCount);
+    }
+    if (pubdate * 1000 > existing.ts) {
+      existing.ts = pubdate * 1000;
+      existing.date = formatShanghaiDate(existing.ts);
+    }
+  });
+
+  const byDate = new Map();
+  byVideo.forEach(video => {
+    if (!byDate.has(video.date)) {
+      byDate.set(video.date, {
+        date: video.date,
+        delta: 0,
+        ts: video.ts
+      });
+    }
+    const row = byDate.get(video.date);
+    row.delta += video.delta;
+    if (video.ts > row.ts) row.ts = video.ts;
   });
 
   let total = 0;
@@ -498,6 +572,7 @@ function loadSongStore() {
     sourceSongMap,
     missingArtistSongs: songs.filter(song => !isValidArtist(song.artist))
   };
+  clearStatsAggregateCache();
 }
 
 function getSourceScopedSongs(source) {
@@ -786,14 +861,19 @@ function filterSongs(source, keyword) {
   return data;
 }
 
+function buildSongAggregateKey(title, artist) {
+  return `${normalizeString(title || '未知歌曲')}|${normalizeString(artist || '')}`;
+}
+
 function aggregateBySong(data) {
   const map = new Map();
   data.forEach(item => {
     const artist = item.artist || '';
     const title = item.title || '未知歌曲';
-    const key = `${normalizeString(title)}|${normalizeString(artist)}`;
+    const key = buildSongAggregateKey(title, artist);
     if (!map.has(key)) {
       map.set(key, {
+        key,
         title,
         artist,
         originalArtist: item.originalArtist || '',
@@ -812,7 +892,8 @@ function aggregateBySong(data) {
     entry.performances.push({
       link: item.link || '',
       collection: item.collection || '未知合集',
-      source: getSourceAlias(item.source)
+      source: getSourceAlias(item.source),
+      bvid: extractBV(item.bvid || item.link || '')
     });
   });
   return Array.from(map.values())
@@ -831,6 +912,7 @@ function aggregateByVtuberSource(data) {
     const vtuberName = getSourceAlias(sourceFile);
     if (!map.has(sourceKey)) {
       map.set(sourceKey, {
+        key: sourceFile,
         name: vtuberName,
         sourceFile,
         songs: new Map()
@@ -879,6 +961,7 @@ function aggregateByArtist(data) {
     const key = normalizeString(artist);
     if (!map.has(key)) {
       map.set(key, {
+        key,
         name: artist,
         songs: new Map()
       });
@@ -913,18 +996,33 @@ function aggregateByArtist(data) {
   return result;
 }
 
-function handleStatsView(reqUrl, res) {
-  const tab = reqUrl.searchParams.get('tab') || 'vtuber-source';
-  const source = reqUrl.searchParams.get('source') || 'all';
-  const keyword = reqUrl.searchParams.get('q') || '';
-  const page = Math.max(1, Number(reqUrl.searchParams.get('page') || '1'));
-  const pageSize = Math.max(1, Math.min(100, Number(reqUrl.searchParams.get('pageSize') || '30')));
+function buildStatsAggregateCacheKey(tab, source, keyword) {
+  return `${tab}::${source}::${normalizeString(keyword || '')}`;
+}
+
+function setStatsAggregateCache(cacheKey, value) {
+  if (statsAggregateCache.has(cacheKey)) {
+    statsAggregateCache.delete(cacheKey);
+  }
+  statsAggregateCache.set(cacheKey, value);
+  if (statsAggregateCache.size > STATS_CACHE_LIMIT) {
+    const oldestKey = statsAggregateCache.keys().next().value;
+    statsAggregateCache.delete(oldestKey);
+  }
+}
+
+function getStatsAggregatePayload(tab, source, keyword) {
+  const cacheKey = buildStatsAggregateCacheKey(tab, source, keyword);
+  if (statsAggregateCache.has(cacheKey)) {
+    const cached = statsAggregateCache.get(cacheKey);
+    statsAggregateCache.delete(cacheKey);
+    statsAggregateCache.set(cacheKey, cached);
+    return cached;
+  }
 
   const data = filterSongs(source, keyword);
-  const overview = buildStatsOverview(data);
   let groups = [];
   let summaryText = '';
-
   if (tab === 'rank') {
     groups = aggregateBySong(data);
     summaryText = `共 ${groups.length} 首歌曲`;
@@ -936,11 +1034,103 @@ function handleStatsView(reqUrl, res) {
     summaryText = `共 ${groups.length} 位 VTuber`;
   }
 
+  const payload = {
+    overview: buildStatsOverview(data),
+    groups,
+    summaryText,
+    hasData: data.length > 0
+  };
+  setStatsAggregateCache(cacheKey, payload);
+  return payload;
+}
+
+function buildGroupSummaryLinks(group, type, limit = STATS_SUMMARY_LINK_LIMIT) {
+  const rows = [];
+  (group.songs || []).forEach(song => {
+    (song.links || []).forEach(link => {
+      if (rows.length >= limit || !link.link) return;
+      rows.push({
+        title: song.title || '未知歌曲',
+        artist: type === 'artist'
+          ? (group.name || '')
+          : ((song.artist || song.originalArtist || '').trim()),
+        collection: link.collection || '未知合集',
+        link: link.link
+      });
+    });
+  });
+  return rows;
+}
+
+function summarizeSongLinks(song, limit = STATS_PREVIEW_LINK_LIMIT) {
+  const links = Array.isArray(song.links) ? song.links.slice(0, limit) : [];
+  return {
+    ...song,
+    links,
+    totalLinks: Array.isArray(song.links) ? song.links.length : 0,
+    hasMoreLinks: Array.isArray(song.links) ? song.links.length > links.length : false
+  };
+}
+
+function summarizeRankItem(item, full = false) {
+  const limit = full ? item.performances.length : STATS_PREVIEW_PERFORMANCE_LIMIT;
+  const performances = (item.performances || []).slice(0, limit);
+  return {
+    ...item,
+    performances,
+    totalPerformances: Array.isArray(item.performances) ? item.performances.length : performances.length,
+    hasMorePerformances: Array.isArray(item.performances) ? item.performances.length > performances.length : false,
+    fullLoaded: full || !Array.isArray(item.performances) || item.performances.length <= performances.length
+  };
+}
+
+function summarizeGroupItem(group, type, full = false) {
+  const songs = Array.isArray(group.songs) ? group.songs : [];
+  const visibleSongs = (full ? songs : songs.slice(0, STATS_PREVIEW_SONG_LIMIT))
+    .map(song => summarizeSongLinks(song, full ? (song.links || []).length : STATS_PREVIEW_LINK_LIMIT));
+  const songsComplete = songs.length === visibleSongs.length
+    && visibleSongs.every(song => !song.hasMoreLinks);
+  return {
+    ...group,
+    songs: visibleSongs,
+    totalSongs: songs.length,
+    hasMoreSongs: songs.length > visibleSongs.length,
+    fullLoaded: full || songsComplete,
+    summaryLinks: buildGroupSummaryLinks(group, type)
+  };
+}
+
+function getStatsDetailItem(tab, source, keyword, key) {
+  const payload = getStatsAggregatePayload(tab, source, keyword);
+  if (tab === 'rank') {
+    const item = payload.groups.find(group => group.key === key);
+    return item ? summarizeRankItem(item, true) : null;
+  }
+  if (tab === 'artist') {
+    const item = payload.groups.find(group => group.key === key);
+    return item ? summarizeGroupItem(item, 'artist', true) : null;
+  }
+  const item = payload.groups.find(group => group.key === key || group.sourceFile === key);
+  return item ? summarizeGroupItem(item, 'vtuber', true) : null;
+}
+
+function handleStatsView(reqUrl, res) {
+  const tab = reqUrl.searchParams.get('tab') || 'vtuber-source';
+  const source = reqUrl.searchParams.get('source') || 'all';
+  const keyword = reqUrl.searchParams.get('q') || '';
+  const page = Math.max(1, Number(reqUrl.searchParams.get('page') || '1'));
+  const pageSize = Math.max(1, Math.min(100, Number(reqUrl.searchParams.get('pageSize') || '30')));
+  const payload = getStatsAggregatePayload(tab, source, keyword);
+  const groups = payload.groups || [];
   const total = groups.length;
   const totalPages = Math.max(1, Math.ceil(total / pageSize));
   const currentPage = Math.min(page, totalPages);
   const start = (currentPage - 1) * pageSize;
-  const items = groups.slice(start, start + pageSize);
+  const items = groups.slice(start, start + pageSize).map(item => {
+    if (tab === 'rank') return summarizeRankItem(item, false);
+    if (tab === 'artist') return summarizeGroupItem(item, 'artist', false);
+    return summarizeGroupItem(item, 'vtuber', false);
+  });
 
   sendJson(res, 200, {
     tab,
@@ -949,11 +1139,37 @@ function handleStatsView(reqUrl, res) {
     pageSize,
     total,
     totalPages,
-    summaryText,
-    overview,
-    hasData: data.length > 0,
+    summaryText: payload.summaryText,
+    overview: payload.overview,
+    hasData: payload.hasData,
     source,
     q: keyword
+  });
+}
+
+function handleStatsDetail(reqUrl, res) {
+  const tab = reqUrl.searchParams.get('tab') || 'vtuber-source';
+  const source = reqUrl.searchParams.get('source') || 'all';
+  const keyword = reqUrl.searchParams.get('q') || '';
+  const key = reqUrl.searchParams.get('key') || '';
+
+  if (!key) {
+    sendJson(res, 400, { error: 'Missing key' });
+    return;
+  }
+
+  const item = getStatsDetailItem(tab, source, keyword, key);
+  if (!item) {
+    sendJson(res, 404, { error: 'Not found' });
+    return;
+  }
+
+  sendJson(res, 200, {
+    tab,
+    source,
+    q: keyword,
+    key,
+    item
   });
 }
 
@@ -969,7 +1185,9 @@ function handleSearch(reqUrl, res) {
     title: fieldsList.includes('title'),
     artist: fieldsList.includes('artist'),
     collection: fieldsList.includes('collection'),
-    source: fieldsList.includes('source')
+    source: fieldsList.includes('source'),
+    bvid: fieldsList.includes('bvid'),
+    pubdate: fieldsList.includes('pubdate')
   };
 
   let data = getSourceScopedSongs(source).slice();
@@ -1019,12 +1237,15 @@ function handleSongGrowth(res) {
     }
   }
   const publishRows = buildPublishGrowthRows(store.songs);
+  const publishViewRows = buildPublishViewRows(store.songs);
   sendJson(res, 200, {
     collectionRows,
     publishRows,
+    publishViewRows,
     latest: {
       collection: collectionRows[collectionRows.length - 1] || null,
-      publish: publishRows[publishRows.length - 1] || null
+      publish: publishRows[publishRows.length - 1] || null,
+      publishViews: publishViewRows[publishViewRows.length - 1] || null
     }
   });
 }
@@ -1304,6 +1525,10 @@ const server = http.createServer(async (req, res) => {
   }
   if (reqUrl.pathname === '/api/stats/view') {
     handleStatsView(reqUrl, res);
+    return;
+  }
+  if (reqUrl.pathname === '/api/stats/detail') {
+    handleStatsDetail(reqUrl, res);
     return;
   }
   if (reqUrl.pathname === '/api/song-growth') {

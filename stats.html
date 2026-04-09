@@ -105,6 +105,19 @@
             flex: 1 1 420px;
             max-width: 560px;
         }
+        .source-select {
+            min-width: 360px;
+            flex: 1 1 420px;
+            max-width: 560px;
+            width: 100%;
+            height: 44px;
+            padding: 0 12px;
+            border: 1px solid #d0d7de;
+            border-radius: 6px;
+            background: #fff;
+            color: #1f2328;
+            font-size: 14px;
+        }
         .source-trigger {
             width: 100%;
             height: 44px;
@@ -741,6 +754,12 @@
                 width: 100%;
                 flex: none;
             }
+            .source-select {
+                min-width: 0;
+                max-width: none;
+                width: 100%;
+                flex: none;
+            }
             .source-meta {
                 white-space: normal;
                 min-height: 0;
@@ -880,6 +899,7 @@
         let currentRankPage = 1;
         let isApiMode = false;
         let currentStatsPayload = null;
+        let statsDetailCache = new Map();
         let localTitleSourceMap = new Map();
         let localTitleSourceVersion = -1;
 
@@ -936,6 +956,10 @@
 
         function shouldUseNativeSourceSelect() {
             return window.matchMedia('(max-width: 900px)').matches;
+        }
+
+        function getStatsDetailCacheKey(tab, source, keyword, key) {
+            return `${tab}::${source}::${normalizeString(keyword || '')}::${key}`;
         }
 
         function normalizeSummaryText(text) {
@@ -1097,11 +1121,11 @@
                 });
             }
 
-            const linkRows = [];
+            const fallbackLinks = [];
             (group.songs || []).forEach(song => {
                 (song.links || []).forEach(link => {
-                    if (!link.link) return;
-                    linkRows.push({
+                    if (fallbackLinks.length >= linkLimit || !link.link) return;
+                    fallbackLinks.push({
                         title: song.title || '未知歌曲',
                         artist: type === 'artist'
                             ? group.name
@@ -1112,7 +1136,9 @@
                 });
             });
 
-            const links = linkRows.slice(0, linkLimit);
+            const links = ((group.summaryLinks && group.summaryLinks.length > 0)
+                ? group.summaryLinks
+                : fallbackLinks).slice(0, linkLimit);
             if (links.length > 0) {
                 lines.push(`前 ${links.length} 个链接：`);
                 links.forEach((row, index) => {
@@ -1664,69 +1690,21 @@
 
             const sourcePicker = document.createElement('div');
             sourcePicker.className = 'source-picker';
-
-            if (shouldUseNativeSourceSelect()) {
-                const sourceSelect = document.createElement('select');
-                sourceSelect.className = 'source-select';
-                getSourceOptions().forEach(option => {
-                    const optionEl = document.createElement('option');
-                    optionEl.value = option.value;
-                    optionEl.textContent = option.label;
-                    sourceSelect.appendChild(optionEl);
-                });
-                sourceSelect.value = activeFilter;
-                sourceSelect.onchange = () => {
-                    activeFilter = sourceSelect.value;
-                    currentRankPage = 1;
-                    updateAllViews();
-                };
-                sourcePicker.appendChild(sourceSelect);
-            } else {
-                const sourceShell = document.createElement('div');
-                sourceShell.className = 'source-select-shell';
-
-                const sourceTrigger = document.createElement('button');
-                sourceTrigger.type = 'button';
-                sourceTrigger.className = 'source-trigger';
-                sourceTrigger.textContent = getSourceOptions().find(option => option.value === activeFilter)?.label || '全部来源';
-
-                const sourceMenu = document.createElement('div');
-                sourceMenu.className = 'source-menu';
-
-                getSourceOptions().forEach(option => {
-                    const optionBtn = document.createElement('button');
-                    optionBtn.type = 'button';
-                    optionBtn.className = `source-option ${option.value === activeFilter ? 'active' : ''}`;
-                    optionBtn.textContent = option.label;
-                    optionBtn.onclick = () => {
-                        sourceShell.classList.remove('open');
-                        activeFilter = option.value;
-                        currentRankPage = 1;
-                        updateAllViews();
-                    };
-                    sourceMenu.appendChild(optionBtn);
-                });
-
-                const closeMenu = (event) => {
-                    if (!sourceShell.contains(event.target)) {
-                        sourceShell.classList.remove('open');
-                        document.removeEventListener('click', closeMenu, true);
-                    }
-                };
-
-                sourceTrigger.onclick = (event) => {
-                    event.stopPropagation();
-                    const isOpen = sourceShell.classList.toggle('open');
-                    document.removeEventListener('click', closeMenu, true);
-                    if (isOpen) {
-                        document.addEventListener('click', closeMenu, true);
-                    }
-                };
-
-                sourceShell.appendChild(sourceTrigger);
-                sourceShell.appendChild(sourceMenu);
-                sourcePicker.appendChild(sourceShell);
-            }
+            const sourceSelect = document.createElement('select');
+            sourceSelect.className = 'source-select';
+            getSourceOptions().forEach(option => {
+                const optionEl = document.createElement('option');
+                optionEl.value = option.value;
+                optionEl.textContent = option.label;
+                sourceSelect.appendChild(optionEl);
+            });
+            sourceSelect.value = activeFilter;
+            sourceSelect.onchange = () => {
+                activeFilter = sourceSelect.value;
+                currentRankPage = 1;
+                updateAllViews();
+            };
+            sourcePicker.appendChild(sourceSelect);
 
             const sourceMeta = document.createElement('span');
             sourceMeta.className = 'source-meta';
@@ -1774,7 +1752,8 @@
                     const showCount = 5;
                     const showPerfs = item.performances.slice(0, showCount);
                     const hiddenPerfs = item.performances.slice(showCount);
-                    const hasMore = hiddenPerfs.length > 0;
+                    const totalPerformanceCount = Number(item.totalPerformances || item.count || item.performances.length || 0);
+                    const hasMore = hiddenPerfs.length > 0 || !!item.hasMorePerformances;
                     const id = uniqueId();
 
                     const showLinksHtml = showPerfs.map(p => 
@@ -1816,7 +1795,7 @@
                         <div class="perf-container">
                             <div class="perf-header">
                                 <span class="perf-label">演唱场次</span>
-                                ${hasMore ? `<button class="toggle-perf-btn" id="btn-${id}">展开全部 ${item.count} 个场次</button>` : ''}
+                                ${hasMore ? `<button class="toggle-perf-btn" id="btn-${id}">展开全部 ${totalPerformanceCount} 个场次</button>` : ''}
                             </div>
                             <div class="perf-grid">
                                 ${showLinksHtml}
@@ -1830,14 +1809,27 @@
                     if (hasMore) {
                         const toggleBtn = li.querySelector(`#btn-${id}`);
                         const hiddenLinks = li.querySelectorAll('.perf-hidden');
-                        toggleBtn.addEventListener('click', () => {
+                        toggleBtn.addEventListener('click', async () => {
+                            if (isApiMode && !item.fullLoaded && item.hasMorePerformances) {
+                                toggleBtn.disabled = true;
+                                toggleBtn.textContent = '正在加载全部场次...';
+                                try {
+                                    await ensureStatsDetail(item);
+                                    renderRankList(currentStatsPayload ? currentStatsPayload.items : data, true);
+                                } catch (error) {
+                                    toggleBtn.disabled = false;
+                                    toggleBtn.textContent = `展开全部 ${totalPerformanceCount} 个场次`;
+                                    showToast(`加载场次失败：${error.message}`, 'error');
+                                }
+                                return;
+                            }
                             const isClosed = toggleBtn.textContent.includes('展开');
                             if (isClosed) {
                                 hiddenLinks.forEach(el => el.classList.remove('perf-hidden'));
                                 toggleBtn.textContent = '收起';
                             } else {
                                 hiddenLinks.forEach(el => el.classList.add('perf-hidden'));
-                                toggleBtn.textContent = `展开全部 ${item.count} 个场次`;
+                                toggleBtn.textContent = `展开全部 ${totalPerformanceCount} 个场次`;
                             }
                         });
                     }
@@ -1849,8 +1841,19 @@
                     });
 
                     const copyBtn = li.querySelector('.copy-list-btn');
-                    copyBtn.addEventListener('click', () => {
-                        const data = item.performances.map(perf => {
+                    copyBtn.addEventListener('click', async () => {
+                        let detailItem = item;
+                        if (isApiMode && !detailItem.fullLoaded && detailItem.hasMorePerformances) {
+                            try {
+                                detailItem = await ensureStatsDetail(item);
+                                renderRankList(currentStatsPayload ? currentStatsPayload.items : data, true);
+                            } catch (error) {
+                                showToast(`加载完整场次失败：${error.message}`, 'error');
+                                return;
+                            }
+                        }
+
+                        const modalData = (detailItem.performances || []).map(perf => {
                             return {
                                 source: perf.source || '',
                                 collection: perf.collection,
@@ -1867,7 +1870,7 @@
                             { key: 'link', label: '链接' }
                         ];
                         
-                        showModal('rank', data, columns, false);
+                        showModal('rank', modalData, columns, false);
                     });
                     bindQuickCopy(li);
                 });
@@ -1894,7 +1897,8 @@
                 const showSongCount = 3;
                 const showSongs = group.songs.slice(0, showSongCount);
                 const hiddenSongs = group.songs.slice(showSongCount);
-                const hasMoreSongs = hiddenSongs.length > 0;
+                const totalSongCount = Number(group.totalSongs || group.songs.length || 0);
+                const hasMoreSongs = hiddenSongs.length > 0 || !!group.hasMoreSongs;
 
                 // 渲染歌曲行
                 const renderSongRow = (song, songIdx) => {
@@ -1954,7 +1958,7 @@
                     <div class="group-songs">
                         ${showSongsHtml}
                         ${hiddenSongsHtml}
-                        ${hasMoreSongs ? `<button class="toggle-btn" id="toggle-songs-${groupId}">展开全部 ${group.songs.length} 首歌曲</button>` : ''}
+                        ${hasMoreSongs ? `<button class="toggle-btn" id="toggle-songs-${groupId}">展开全部 ${totalSongCount} 首歌曲</button>` : ''}
                     </div>
                 `;
                 listEl.appendChild(li);
@@ -1963,14 +1967,27 @@
                 if (hasMoreSongs) {
                     const toggleSongsBtn = li.querySelector(`#toggle-songs-${groupId}`);
                     const hiddenSongsDiv = li.querySelector(`#songs-hidden-${groupId}`);
-                    toggleSongsBtn.addEventListener('click', () => {
+                    toggleSongsBtn.addEventListener('click', async () => {
+                        if (isApiMode && !group.fullLoaded && group.hasMoreSongs) {
+                            toggleSongsBtn.disabled = true;
+                            toggleSongsBtn.textContent = '正在加载全部歌曲...';
+                            try {
+                                await ensureStatsDetail(group);
+                                renderGroupList(currentStatsPayload ? currentStatsPayload.items : data, listElId, type);
+                            } catch (error) {
+                                toggleSongsBtn.disabled = false;
+                                toggleSongsBtn.textContent = `展开全部 ${totalSongCount} 首歌曲`;
+                                showToast(`加载歌曲详情失败：${error.message}`, 'error');
+                            }
+                            return;
+                        }
                         const isClosed = toggleSongsBtn.textContent.includes('展开');
                         if (isClosed) {
                             hiddenSongsDiv.classList.remove('hidden');
                             toggleSongsBtn.textContent = '收起';
                         } else {
                             hiddenSongsDiv.classList.add('hidden');
-                            toggleSongsBtn.textContent = `展开全部 ${group.songs.length} 首歌曲`;
+                            toggleSongsBtn.textContent = `展开全部 ${totalSongCount} 首歌曲`;
                         }
                     });
                 }
@@ -2003,9 +2020,20 @@
                 });
 
                 const copyBtn = li.querySelector('.copy-list-btn');
-                copyBtn.addEventListener('click', () => {
-                    const sourceKey = (group.sourceFile || '').replace('.js', '');
-                    const sourceAlias = FILE_TO_ALIAS[sourceKey] || group.name;
+                copyBtn.addEventListener('click', async () => {
+                    let detailGroup = group;
+                    if (isApiMode && !detailGroup.fullLoaded) {
+                        try {
+                            detailGroup = await ensureStatsDetail(group);
+                            renderGroupList(currentStatsPayload ? currentStatsPayload.items : data, listElId, type);
+                        } catch (error) {
+                            showToast(`加载完整列表失败：${error.message}`, 'error');
+                            return;
+                        }
+                    }
+
+                    const sourceKey = (detailGroup.sourceFile || '').replace('.js', '');
+                    const sourceAlias = FILE_TO_ALIAS[sourceKey] || detailGroup.name;
                     
                     if (type === 'vtuber') {
                         const columns = [
@@ -2016,7 +2044,7 @@
                             { key: 'link', label: '场次链接' }
                         ];
                         
-                        const dataWithSource = group.songs.map(song => ({
+                        const dataWithSource = detailGroup.songs.map(song => ({
                             ...song,
                             source: sourceAlias
                         }));
@@ -2030,10 +2058,10 @@
                             { key: 'link', label: '场次链接' }
                         ];
                         
-                        const data = [];
-                        group.songs.forEach(song => {
+                        const modalData = [];
+                        detailGroup.songs.forEach(song => {
                             song.links.forEach(link => {
-                                data.push({
+                                modalData.push({
                                     title: song.title,
                                     source: link.source || '',
                                     collection: link.collection,
@@ -2043,7 +2071,7 @@
                             });
                         });
                         
-                        showModal('artist', data, columns, false);
+                        showModal('artist', modalData, columns, false);
                     }
                 });
                 bindQuickCopy(li);
@@ -2173,6 +2201,44 @@
             const res = await fetch(`/api/stats/view?${params.toString()}`);
             if (!res.ok) throw new Error(`统计接口失败（状态码：${res.status}）`);
             return res.json();
+        }
+
+        async function fetchStatsDetail(key) {
+            const params = new URLSearchParams({
+                tab: activeTab,
+                source: activeFilter,
+                q: searchKeyword,
+                key
+            });
+            const res = await fetch(`/api/stats/detail?${params.toString()}`);
+            if (!res.ok) throw new Error(`详情接口失败（状态码：${res.status}）`);
+            const payload = await res.json();
+            return payload.item || null;
+        }
+
+        function mergeStatsDetailIntoCurrentPayload(detailItem) {
+            if (!currentStatsPayload || !Array.isArray(currentStatsPayload.items) || !detailItem?.key) return;
+            const index = currentStatsPayload.items.findIndex(item => item.key === detailItem.key);
+            if (index === -1) return;
+            currentStatsPayload.items[index] = detailItem;
+        }
+
+        async function ensureStatsDetail(item) {
+            if (!item?.key) return item;
+            if (item.fullLoaded) return item;
+            const cacheKey = getStatsDetailCacheKey(activeTab, activeFilter, searchKeyword, item.key);
+            if (statsDetailCache.has(cacheKey)) {
+                const cached = statsDetailCache.get(cacheKey);
+                mergeStatsDetailIntoCurrentPayload(cached);
+                return cached;
+            }
+            const detailItem = await fetchStatsDetail(item.key);
+            if (detailItem) {
+                statsDetailCache.set(cacheKey, detailItem);
+                mergeStatsDetailIntoCurrentPayload(detailItem);
+                return detailItem;
+            }
+            return item;
         }
 
         async function updateAllViews() {

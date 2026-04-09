@@ -86,12 +86,12 @@
       歌曲增长日报
     </div>
     <div class="hint-box" id="modeHint">
-      `库收录增长` 按你的站点实际抓取入库时间统计。`按投稿时间增长` 按歌曲 `pubdate` 统计真实投稿时间增长。
+      `库收录增长` 按站点实际入库时间统计。`按投稿时间增长` 按歌曲 `pubdate` 统计每日新增。`稿件播放量` 按稿件发布日期聚合当前播放量。
     </div>
 
     <div class="kpis">
-      <div class="kpi"><div class="label">当前总曲数</div><div class="value" id="kpiTotal">-</div></div>
-      <div class="kpi"><div class="label">当日增量</div><div class="value" id="kpiDelta">-</div></div>
+      <div class="kpi"><div class="label" id="kpiTotalLabel">当前总曲数</div><div class="value" id="kpiTotal">-</div></div>
+      <div class="kpi"><div class="label" id="kpiDeltaLabel">当日增量</div><div class="value" id="kpiDelta">-</div></div>
       <div class="kpi"><div class="label">累计记录天数</div><div class="value" id="kpiDays">-</div></div>
       <div class="kpi"><div class="label">当前口径</div><div class="value" id="kpiMode">-</div></div>
     </div>
@@ -117,6 +117,11 @@
         <div class="value" id="monthTotalValue">-</div>
         <div class="meta" id="monthTotalMeta">-</div>
       </div>
+      <div class="analysis-card">
+        <div class="label">上月峰值日</div>
+        <div class="value" id="prevMonthPeakValue">-</div>
+        <div class="meta" id="prevMonthPeakMeta">-</div>
+      </div>
     </div>
 
     <div class="analysis-board">
@@ -134,6 +139,7 @@
       <select class="mode-select" id="modeSelect">
         <option value="collection">库收录增长</option>
         <option value="publish" selected>按投稿时间增长</option>
+        <option value="publishViews">稿件播放量</option>
       </select>
       <button class="range-btn active" data-range="30">近30天</button>
       <button class="range-btn" data-range="90">近90天</button>
@@ -187,7 +193,8 @@
 
     const growthData = {
       collection: [],
-      publish: []
+      publish: [],
+      publishViews: []
     };
 
     let currentMode = 'publish';
@@ -213,7 +220,43 @@
     }
 
     function getModeLabel() {
+      if (currentMode === 'publishViews') return '稿件播放量';
       return currentMode === 'publish' ? '按投稿时间增长' : '库收录增长';
+    }
+
+    function getModeMetricLabels() {
+      if (currentMode === 'publishViews') {
+        return {
+          total: '累计播放量',
+          delta: '当日稿件播放量',
+          avg: '最近 7 天平均每日播放量',
+          month: '累计播放量'
+        };
+      }
+      if (currentMode === 'publish') {
+        return {
+          total: '累计投稿歌曲数',
+          delta: '当日新增歌曲',
+          avg: '最近 7 天平均每日新增',
+          month: '累计新增'
+        };
+      }
+      return {
+        total: '当前总曲数',
+        delta: '当日入库增量',
+        avg: '最近 7 天平均每日新增',
+        month: '累计新增'
+      };
+    }
+
+    function getModeHintText() {
+      if (currentMode === 'publishViews') {
+        return '`稿件播放量` 按唯一 BV 的发布日期聚合当前播放量，可直接看某一天发布的稿件累计拿到了多少播放。';
+      }
+      if (currentMode === 'publish') {
+        return '`按投稿时间增长` 按歌曲 `pubdate` 统计真实投稿时间增长，更适合看历史发布节奏。';
+      }
+      return '`库收录增长` 按你的站点实际抓取入库时间统计，更适合看歌库扩张速度。';
     }
 
     function getCurrentRows() {
@@ -252,10 +295,11 @@
       const week = getDeltaVsDate(row, 7);
       const month = getDeltaVsDate(row, 30);
       const year = getDeltaVsDate(row, 365);
+      const labels = getModeMetricLabels();
       return [
         '<strong>' + row.date + '</strong>',
-        '<div>累计总量：' + numberText(row.total) + '</div>',
-        '<div>当日增量：' + deltaText(row.delta) + '</div>',
+        '<div>' + labels.total + '：' + numberText(row.total) + '</div>',
+        '<div>' + labels.delta + '：' + deltaText(row.delta) + '</div>',
         '<div>前7日增量：' + formatDeltaWithPercent(week) + '</div>',
         '<div>前30日增量：' + (month ? deltaText(month.delta) : '-') + '</div>',
         '<div>上年增量：' + (year ? deltaText(year.delta) : '-') + '</div>'
@@ -295,8 +339,15 @@
       const updatedAtText = document.getElementById('updatedAtText');
       const kpiTotal = document.getElementById('kpiTotal');
       const kpiDelta = document.getElementById('kpiDelta');
+      const kpiTotalLabel = document.getElementById('kpiTotalLabel');
+      const kpiDeltaLabel = document.getElementById('kpiDeltaLabel');
       const kpiDays = document.getElementById('kpiDays');
       const kpiMode = document.getElementById('kpiMode');
+      const modeHint = document.getElementById('modeHint');
+      const metricLabels = getModeMetricLabels();
+      kpiTotalLabel.textContent = metricLabels.total;
+      kpiDeltaLabel.textContent = metricLabels.delta;
+      modeHint.textContent = getModeHintText();
       if (!last) {
         updatedAtText.textContent = '更新时间：暂无数据';
         kpiTotal.textContent = '-';
@@ -316,6 +367,16 @@
     function getLatestMonthKey(rows) {
       const last = rows[rows.length - 1];
       return last && last.date ? String(last.date).slice(0, 7) : '';
+    }
+
+    function getPreviousMonthKey(monthKey) {
+      const [yearText, monthText] = String(monthKey || '').split('-');
+      const year = Number(yearText);
+      const month = Number(monthText);
+      if (!year || !month) return '';
+      const dt = new Date(Date.UTC(year, month - 1, 1));
+      dt.setUTCMonth(dt.getUTCMonth() - 1);
+      return dt.toISOString().slice(0, 7);
     }
 
     function sortRowsByDeltaDesc(rows) {
@@ -345,12 +406,14 @@
         return;
       }
 
+      const metricLabels = getModeMetricLabels();
+
       container.innerHTML = rows.map((row, index) => {
         return '<div class="top-row">' +
           `<div class="top-rank">${index + 1}</div>` +
           '<div class="top-main">' +
             `<div class="top-title">${row.date}</div>` +
-            `<div class="top-meta">新增 ${deltaText(row.delta)} · 累计 ${numberText(row.total)}</div>` +
+            `<div class="top-meta">${metricLabels.delta} ${deltaText(row.delta)} · ${metricLabels.total} ${numberText(row.total)}</div>` +
           '</div>' +
         '</div>';
       }).join('');
@@ -360,15 +423,20 @@
       const rows = getCurrentRows();
       const monthKey = getLatestMonthKey(rows);
       const monthRows = monthKey ? rows.filter(row => String(row.date).startsWith(monthKey)) : [];
+      const prevMonthKey = getPreviousMonthKey(monthKey);
+      const prevMonthRows = prevMonthKey ? rows.filter(row => String(row.date).startsWith(prevMonthKey)) : [];
       const monthSorted = sortRowsByDeltaDesc(monthRows).filter(row => Number(row.delta) > 0);
+      const prevMonthSorted = sortRowsByDeltaDesc(prevMonthRows).filter(row => Number(row.delta) > 0);
       const allSorted = sortRowsByDeltaDesc(rows).filter(row => Number(row.delta) > 0);
       const monthPeak = monthSorted[0] || null;
+      const prevMonthPeak = prevMonthSorted[0] || null;
       const allPeak = allSorted[0] || null;
       const latestSeven = rows.slice(-7);
       const weekAvg = latestSeven.length
         ? latestSeven.reduce((acc, row) => acc + Number(row.delta || 0), 0) / latestSeven.length
         : 0;
       const monthTotal = monthRows.reduce((acc, row) => acc + Number(row.delta || 0), 0);
+      const metricLabels = getModeMetricLabels();
 
       setInsightCard(
         'monthPeakValue',
@@ -388,15 +456,22 @@
         'weekAvgValue',
         'weekAvgMeta',
         latestSeven.length ? deltaText(Math.round(weekAvg * 10) / 10) : '-',
-        latestSeven.length ? `最近 ${latestSeven.length} 天平均每日新增` : '最近 7 日暂无数据',
+        latestSeven.length ? metricLabels.avg : '最近 7 日暂无数据',
         weekAvg > 0 ? 'up' : (weekAvg < 0 ? 'down' : '')
       );
       setInsightCard(
         'monthTotalValue',
         'monthTotalMeta',
         monthKey ? deltaText(monthTotal) : '-',
-        monthKey ? `${monthKey} 累计新增` : '暂无月份数据',
+        monthKey ? `${monthKey} ${metricLabels.month}` : '暂无月份数据',
         monthTotal > 0 ? 'up' : (monthTotal < 0 ? 'down' : '')
+      );
+      setInsightCard(
+        'prevMonthPeakValue',
+        'prevMonthPeakMeta',
+        prevMonthPeak ? deltaText(prevMonthPeak.delta) : '-',
+        prevMonthPeak ? `${prevMonthPeak.date} · ${prevMonthKey}` : '上月暂无增长记录',
+        prevMonthPeak && prevMonthPeak.delta > 0 ? 'up' : ''
       );
 
       renderTopRows('monthTopList', monthSorted.slice(0, 5), '本月暂无高点数据');
@@ -459,7 +534,9 @@
       const yAt = v => pad.top + ((max - v) / (max - min)) * ch;
       chartState = { rows, pad, width, height, xAt, yAt, values };
 
-      const lineColor = currentMode === 'publish' ? '#1a8f4c' : '#00a1d6';
+      const lineColor = currentMode === 'publish'
+        ? '#1a8f4c'
+        : (currentMode === 'publishViews' ? '#d97706' : '#00a1d6');
       ctx.strokeStyle = lineColor;
       ctx.lineWidth = 2;
       ctx.beginPath();
@@ -607,9 +684,16 @@
       const payload = await res.json();
       growthData.collection = Array.isArray(payload.collectionRows) ? payload.collectionRows : [];
       growthData.publish = Array.isArray(payload.publishRows) ? payload.publishRows : [];
-      if (!growthData[currentMode].length && growthData.collection.length) {
-        currentMode = 'collection';
-        modeSelect.value = 'collection';
+      growthData.publishViews = Array.isArray(payload.publishViewRows) ? payload.publishViewRows : [];
+      if (!growthData[currentMode].length) {
+        if (growthData.publish.length) {
+          currentMode = 'publish';
+        } else if (growthData.collection.length) {
+          currentMode = 'collection';
+        } else if (growthData.publishViews.length) {
+          currentMode = 'publishViews';
+        }
+        modeSelect.value = currentMode;
       }
     }
 

@@ -167,6 +167,7 @@ async function fetchBvMetadata(bvid, cache, forceRefresh = false) {
         ctime: payload.ctime || null,
         duration: payload.duration || null,
         videos: payload.videos || 0,
+        viewCount: Number(payload.stat?.view || 0),
         seasonId: payload.ugc_season?.id || null,
         seasonTitle: payload.ugc_season?.title || '',
         pages: Array.isArray(payload.pages) ? payload.pages.map(page => ({
@@ -287,6 +288,7 @@ function buildSongItem(config, episodeMetadata, pageMeta) {
         videoDuration: episodeMetadata.duration,
         partDuration: pageMeta.duration || null,
         videos: episodeMetadata.videos,
+        viewCount: Number(episodeMetadata.viewCount || 0),
         videoTitle: episodeMetadata.title,
         uploader: episodeMetadata.ownerName || '',
         uploaderMid: episodeMetadata.ownerMid || null
