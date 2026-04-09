@@ -249,18 +249,6 @@ function renderSourceTabs() {
   const select = document.createElement('select');
   select.className = 'source-select';
 
-  const currentOption = document.createElement('option');
-  currentOption.value = '__current__';
-  currentOption.textContent = getCurrentSourceDisplayLabel();
-  currentOption.selected = true;
-  select.appendChild(currentOption);
-
-  const dividerOption = document.createElement('option');
-  dividerOption.value = '';
-  dividerOption.textContent = '────────';
-  dividerOption.disabled = true;
-  select.appendChild(dividerOption);
-
   const allOption = document.createElement('option');
   allOption.value = 'all';
   allOption.textContent = getSourceOptionLabel('all');
@@ -273,12 +261,18 @@ function renderSourceTabs() {
     select.appendChild(option);
   });
 
-  select.value = '__current__';
+  select.value = currentTab;
   select.addEventListener('change', () => {
-    if (!select.value || select.value === '__current__') return;
+    if (!select.value) return;
     switchSourceTab(select.value);
   });
+
+  const meta = document.createElement('span');
+  meta.className = 'source-meta';
+  meta.textContent = getCurrentSourceDisplayLabel();
+
   container.appendChild(select);
+  container.appendChild(meta);
 }
 
 function switchSourceTab(tab) {
