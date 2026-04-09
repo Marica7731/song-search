@@ -23,7 +23,13 @@ let store = {
   sourceStats: {},
   totalUnique: 0,
   titleEntries: [],
-  titleMap: new Map()
+  titleMap: new Map(),
+  titleSourceMap: new Map(),
+  titleArtistMap: new Map(),
+  artistSongMap: new Map(),
+  bvMap: new Map(),
+  sourceSongMap: new Map(),
+  missingArtistSongs: []
 };
 
 const refreshState = {
@@ -48,6 +54,12 @@ const ROUTE_ALIASES = {
 function isValidArtist(artist) {
   if (!artist || !artist.trim()) return false;
   return !artist.includes('来源处未提供标准格式歌手');
+}
+
+function extractBV(value) {
+  if (!value) return '';
+  const matched = String(value).match(/BV[a-zA-Z0-9]+/);
+  return matched ? matched[0].toUpperCase() : '';
 }
 
 function normalizeString(str) {
@@ -128,6 +140,15 @@ function buildSourceStats(songs, files, fileToAlias) {
     };
   });
   return stats;
+}
+
+function getSourceAlias(sourceFile) {
+  const key = String(sourceFile || '').replace('.js', '');
+  return store.fileToAlias[key] || sourceFile || '未知来源';
+}
+
+function getScopedSourceLabel(source) {
+  return !source || source === 'all' ? '全部来源' : getSourceAlias(source);
 }
 
 function splitWithQuotes(str) {
@@ -396,18 +417,63 @@ function loadSongStore() {
   });
 
   const titleMap = new Map();
+  const titleSourceMap = new Map();
+  const titleArtistMap = new Map();
+  const artistSongMap = new Map();
+  const bvMap = new Map();
+  const sourceSongMap = new Map();
+
   songs.forEach((song, index) => {
-    const title = String(song.title || '').trim();
-    if (!title) return;
-    const key = normalizeString(title);
-    if (!titleMap.has(key)) {
-      titleMap.set(key, {
-        title,
-        songs: [],
-        firstSeen: index
-      });
+    const sourceFile = String(song.source || '');
+    if (!sourceSongMap.has(sourceFile)) {
+      sourceSongMap.set(sourceFile, []);
     }
-    titleMap.get(key).songs.push(song);
+    sourceSongMap.get(sourceFile).push(song);
+
+    const title = String(song.title || '').trim();
+    const titleKey = normalizeString(title);
+    if (titleKey) {
+      if (!titleMap.has(titleKey)) {
+        titleMap.set(titleKey, {
+          title,
+          songs: [],
+          firstSeen: index
+        });
+      }
+      titleMap.get(titleKey).songs.push(song);
+
+      if (!titleSourceMap.has(titleKey)) {
+        titleSourceMap.set(titleKey, new Set());
+      }
+      if (sourceFile) {
+        titleSourceMap.get(titleKey).add(sourceFile);
+      }
+    }
+
+    const artist = String(song.artist || '').trim();
+    const artistKey = normalizeString(artist);
+    if (artistKey) {
+      if (!artistSongMap.has(artistKey)) {
+        artistSongMap.set(artistKey, []);
+      }
+      artistSongMap.get(artistKey).push(song);
+    }
+
+    if (titleKey && artistKey) {
+      const titleArtistKey = `${titleKey}|${artistKey}`;
+      if (!titleArtistMap.has(titleArtistKey)) {
+        titleArtistMap.set(titleArtistKey, []);
+      }
+      titleArtistMap.get(titleArtistKey).push(song);
+    }
+
+    const bv = extractBV(song.link);
+    if (bv) {
+      if (!bvMap.has(bv)) {
+        bvMap.set(bv, []);
+      }
+      bvMap.get(bv).push(song);
+    }
   });
 
   const titleEntries = Array.from(titleMap.values())
@@ -424,7 +490,180 @@ function loadSongStore() {
     sourceStats: buildSourceStats(songs, indexData.files || [], indexData.fileToAlias || {}),
     totalUnique: getUniqueSongCount(songs),
     titleEntries,
-    titleMap
+    titleMap,
+    titleSourceMap,
+    titleArtistMap,
+    artistSongMap,
+    bvMap,
+    sourceSongMap,
+    missingArtistSongs: songs.filter(song => !isValidArtist(song.artist))
+  };
+}
+
+function getSourceScopedSongs(source) {
+  if (source === 'missing-artist') {
+    return store.missingArtistSongs;
+  }
+  if (source && source !== 'all') {
+    return store.sourceSongMap.get(source) || [];
+  }
+  return store.songs;
+}
+
+function filterCandidatesBySource(items, source) {
+  if (!Array.isArray(items) || items.length === 0) return [];
+  if (!source || source === 'all') return items.slice();
+  return items.filter(item => item.source === source);
+}
+
+function getSongTitleSourceCount(songOrTitle) {
+  const title = typeof songOrTitle === 'string'
+    ? songOrTitle
+    : (songOrTitle && songOrTitle.title) || '';
+  const key = normalizeString(title);
+  return store.titleSourceMap.get(key)?.size || 0;
+}
+
+function buildStatsOverview(data) {
+  const artistKeys = new Set();
+  const soloTitleKeys = new Set();
+  let validArtistPosts = 0;
+
+  data.forEach(song => {
+    if (isValidArtist(song.artist)) {
+      validArtistPosts += 1;
+      artistKeys.add(normalizeString(song.artist));
+    }
+    const titleKey = normalizeString(song.title || '');
+    if (titleKey && (store.titleSourceMap.get(titleKey)?.size || 0) === 1) {
+      soloTitleKeys.add(titleKey);
+    }
+  });
+
+  return {
+    totalSongs: data.length,
+    uniqueTracks: getUniqueSongCount(data),
+    soloTracks: soloTitleKeys.size,
+    artistCount: artistKeys.size,
+    validArtistPosts
+  };
+}
+
+function buildDupCheckResponse(mode, source, items) {
+  const results = [];
+
+  if (mode === 'bv') {
+    items.forEach(item => {
+      const raw = String(item?.raw || '').trim();
+      const bv = extractBV(item?.bv || raw);
+      if (!bv) {
+        results.push({
+          isNotFound: true,
+          originalInput: raw,
+          dupCount: 0,
+          isDup: false,
+          dupList: [],
+          song: null
+        });
+        return;
+      }
+
+      const matchedSongs = store.bvMap.get(bv) || [];
+      if (matchedSongs.length === 0) {
+        results.push({
+          isNotFound: true,
+          originalInput: raw,
+          dupCount: 0,
+          isDup: false,
+          dupList: [],
+          song: null
+        });
+        return;
+      }
+
+      matchedSongs.forEach(song => {
+        const titleKey = normalizeString(song.title || '');
+        const dupList = filterCandidatesBySource(store.titleMap.get(titleKey)?.songs || [], source);
+        results.push({
+          isNotFound: false,
+          originalInput: raw,
+          song,
+          dupList,
+          dupCount: dupList.length,
+          isDup: dupList.length > 1
+        });
+      });
+    });
+  } else {
+    items.forEach(item => {
+      const inputTitle = String(item?.title || '').trim();
+      const inputArtist = String(item?.artist || '').trim();
+      const queryType = String(item?.type || 'titleArtist');
+      const originalInput = String(item?.originalLine || item?.raw || '').trim();
+      const titleKey = normalizeString(inputTitle);
+      const artistKey = normalizeString(inputArtist);
+      let dupList = [];
+
+      if (queryType === 'artistOnly') {
+        dupList = filterCandidatesBySource(store.artistSongMap.get(artistKey) || [], source);
+      } else if (titleKey) {
+        if (artistKey) {
+          dupList = filterCandidatesBySource(store.titleArtistMap.get(`${titleKey}|${artistKey}`) || [], source);
+        } else {
+          dupList = filterCandidatesBySource(store.titleMap.get(titleKey)?.songs || [], source);
+        }
+      }
+
+      if (dupList.length === 0) {
+        results.push({
+          isNotFound: false,
+          originalInput,
+          song: {
+            title: inputTitle || '（仅歌手查询）',
+            artist: inputArtist || '',
+            source: '',
+            link: ''
+          },
+          dupList: [],
+          dupCount: 0,
+          isDup: false,
+          isFirst: true,
+          queryType
+        });
+      } else {
+        results.push({
+          isNotFound: false,
+          originalInput,
+          song: dupList[0],
+          dupList,
+          dupCount: dupList.length,
+          isDup: true,
+          isFirst: false,
+          queryType
+        });
+      }
+    });
+  }
+
+  const total = results.length;
+  let statsText = '';
+  if (mode === 'titleArtist') {
+    const first = results.filter(item => !item.isNotFound && item.isFirst).length;
+    const exists = total - first;
+    statsText = `总计 ${total} | 已收录 ${exists} | 首次 ${first} | 当前库 ${getScopedSourceLabel(source)}`;
+  } else {
+    const notFound = results.filter(item => item.isNotFound).length;
+    const found = total - notFound;
+    const dup = results.filter(item => !item.isNotFound && item.isDup).length;
+    const unique = found - dup;
+    statsText = `总计 ${total} | 找到 ${found} | 未找到 ${notFound} | 重复 ${dup} | 非重复 ${unique} | 当前库 ${getScopedSourceLabel(source)}`;
+  }
+
+  return {
+    mode,
+    source,
+    items: results,
+    statsText
   };
 }
 
@@ -436,7 +675,7 @@ function buildArtistSummaryByTitle(title) {
 
   matchedSongs.forEach((song, index) => {
     const artistName = (song.artist || '未知歌手').trim();
-    const sourceAlias = store.fileToAlias[String(song.source || '').replace('.js', '')] || song.source || '未知来源';
+    const sourceAlias = getSourceAlias(song.source);
     if (!artistMap.has(artistName)) {
       artistMap.set(artistName, {
         name: artistName,
@@ -519,12 +758,7 @@ function handleSources(res) {
 
 function handleAllSongs(reqUrl, res) {
   const source = reqUrl.searchParams.get('source') || 'all';
-  let data = store.songs.slice();
-  if (source === 'missing-artist') {
-    data = data.filter(item => !isValidArtist(item.artist));
-  } else if (source !== 'all') {
-    data = data.filter(item => item.source === source);
-  }
+  const data = getSourceScopedSongs(source);
 
   sendJson(res, 200, {
     items: data,
@@ -537,12 +771,7 @@ function handleAllSongs(reqUrl, res) {
 }
 
 function filterSongs(source, keyword) {
-  let data = store.songs.slice();
-  if (source === 'missing-artist') {
-    data = data.filter(item => !isValidArtist(item.artist));
-  } else if (source && source !== 'all') {
-    data = data.filter(item => item.source === source);
-  }
+  let data = getSourceScopedSongs(source);
 
   const kw = normalizeString(keyword || '');
   if (kw) {
@@ -569,34 +798,37 @@ function aggregateBySong(data) {
         artist,
         originalArtist: item.originalArtist || '',
         count: 0,
-        performances: []
+        performances: [],
+        sourceSet: new Set(),
+        sourceCount: 0,
+        isSolo: false
       });
     }
     const entry = map.get(key);
     entry.count += 1;
+    entry.sourceSet.add(item.source || '');
+    entry.sourceCount = entry.sourceSet.size;
+    entry.isSolo = getSongTitleSourceCount(title) === 1;
     entry.performances.push({
       link: item.link || '',
       collection: item.collection || '未知合集',
-      source: store.fileToAlias[String(item.source || '').replace('.js', '')] || item.source || ''
+      source: getSourceAlias(item.source)
     });
   });
-  return Array.from(map.values()).sort((a, b) => b.count - a.count);
+  return Array.from(map.values())
+    .map(entry => ({
+      ...entry,
+      sourceSet: undefined
+    }))
+    .sort((a, b) => b.count - a.count);
 }
 
 function aggregateByVtuberSource(data) {
-  const titleToSources = new Map();
-  data.forEach(item => {
-    const titleKey = normalizeString(item.title || '未知歌曲');
-    const sourceFile = item.source || '未知来源';
-    if (!titleToSources.has(titleKey)) titleToSources.set(titleKey, new Set());
-    titleToSources.get(titleKey).add(sourceFile);
-  });
-
   const map = new Map();
   data.forEach(item => {
     const sourceFile = item.source || '未知来源';
     const sourceKey = sourceFile.replace('.js', '');
-    const vtuberName = store.fileToAlias[sourceKey] || sourceKey;
+    const vtuberName = getSourceAlias(sourceFile);
     if (!map.has(sourceKey)) {
       map.set(sourceKey, {
         name: vtuberName,
@@ -618,7 +850,7 @@ function aggregateByVtuberSource(data) {
     }
     const songEntry = vtuberEntry.songs.get(songKey);
     songEntry.count += 1;
-    songEntry.isSolo = (titleToSources.get(songKey)?.size || 0) === 1;
+    songEntry.isSolo = getSongTitleSourceCount(item) === 1;
     if (item.link) {
       songEntry.links.push({
         link: item.link,
@@ -666,7 +898,7 @@ function aggregateByArtist(data) {
       songEntry.links.push({
         link: item.link,
         collection: item.collection || '未知合集',
-        source: store.fileToAlias[String(item.source || '').replace('.js', '')] || item.source || ''
+        source: getSourceAlias(item.source)
       });
     }
   });
@@ -689,6 +921,7 @@ function handleStatsView(reqUrl, res) {
   const pageSize = Math.max(1, Math.min(100, Number(reqUrl.searchParams.get('pageSize') || '30')));
 
   const data = filterSongs(source, keyword);
+  const overview = buildStatsOverview(data);
   let groups = [];
   let summaryText = '';
 
@@ -717,6 +950,7 @@ function handleStatsView(reqUrl, res) {
     total,
     totalPages,
     summaryText,
+    overview,
     hasData: data.length > 0,
     source,
     q: keyword
@@ -738,12 +972,7 @@ function handleSearch(reqUrl, res) {
     source: fieldsList.includes('source')
   };
 
-  let data = store.songs.slice();
-  if (source === 'missing-artist') {
-    data = data.filter(item => !isValidArtist(item.artist));
-  } else if (source !== 'all') {
-    data = data.filter(item => item.source === source);
-  }
+  let data = getSourceScopedSongs(source).slice();
   const filteredBySourceCount = data.length;
   const filteredBySourceUnique = getUniqueSongCount(data);
 
@@ -906,6 +1135,27 @@ function readRequestBody(req) {
     });
     req.on('end', () => resolve(body));
     req.on('error', reject);
+  });
+}
+
+function handleDupCheck(req, res, body) {
+  let payload;
+  try {
+    payload = body ? JSON.parse(body) : {};
+  } catch {
+    sendJson(res, 400, { error: 'Invalid JSON body' });
+    return;
+  }
+
+  const mode = payload.mode === 'titleArtist' ? 'titleArtist' : 'bv';
+  const source = String(payload.source || 'all') || 'all';
+  const items = Array.isArray(payload.items) ? payload.items : [];
+  const startedAt = Date.now();
+  const result = buildDupCheckResponse(mode, source, items);
+
+  sendJson(res, 200, {
+    ...result,
+    elapsedMs: Date.now() - startedAt
   });
 }
 
@@ -1080,6 +1330,15 @@ const server = http.createServer(async (req, res) => {
     try {
       const body = await readRequestBody(req);
       handleTitleLookup(req, res, body);
+    } catch (error) {
+      sendJson(res, 500, { error: error.message });
+    }
+    return;
+  }
+  if (reqUrl.pathname === '/api/dup-check' && req.method === 'POST') {
+    try {
+      const body = await readRequestBody(req);
+      handleDupCheck(req, res, body);
     } catch (error) {
       sendJson(res, 500, { error: error.message });
     }

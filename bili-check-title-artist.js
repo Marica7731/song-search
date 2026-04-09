@@ -336,6 +336,11 @@ function createRetitleTools(item, index) {
 }
 
 async function searchAndValidateArtists() {
+  if (typeof dataReady !== 'undefined' && !dataReady) {
+    alert('歌库尚未加载完成，请稍后再试');
+    return;
+  }
+
   const inputItems = parseInputContent();
   if (inputItems.length === 0) return;
 

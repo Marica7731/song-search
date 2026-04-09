@@ -9,7 +9,7 @@
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:#f6f7f9;padding:20px}
-.main{max-width:1100px;margin:0 auto}
+  .main{max-width:1380px;margin:0 auto}
 .header{text-align:center;margin-bottom:20px}
 .header h2{color:#2c3e50;margin-bottom:8px}
 .header p{color:#6c757d;font-size:14px}
@@ -17,10 +17,10 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;b
 .nav a{color:#00a1d6;text-decoration:none}
 .nav a:hover{text-decoration:underline}
 .title-search-area{margin-bottom:24px}
-#titleInput{width:100%;min-height:160px;padding:14px 16px;border:1px solid #ddd;border-radius:6px;font-size:14px;outline:none;transition:border .2s;margin-bottom:16px;resize:vertical;font-family:inherit}
+#titleInput{width:100%;min-height:160px;padding:12px 14px;border:1px solid #d0d7de;border-radius:6px;font-size:14px;outline:none;transition:border .2s;margin-bottom:16px;resize:vertical;font-family:inherit;background:#fff}
 #titleInput:focus{border-color:#00a1d6;box-shadow:0 0 0 3px rgba(0,161,214,.1)}
 .title-controls{display:flex;gap:12px;justify-content:flex-start;flex-wrap:wrap}
-button{padding:8px 18px;color:#111827;border:1px solid #b8c0cc;border-radius:6px;cursor:pointer;font-size:14px;font-weight:500;background:#f3f4f6}
+button{padding:0 18px;height:44px;color:#111827;border:1px solid #b8c0cc;border-radius:6px;cursor:pointer;font-size:14px;font-weight:600;background:#f3f4f6}
 #searchTitleBtn:hover,#copyResultBtn:hover{background:#e9edf2}
 .artist-select-area{margin:24px 0 0 0;display:none}
 .artist-select-area.active{display:block}
@@ -39,7 +39,7 @@ button{padding:8px 18px;color:#111827;border:1px solid #b8c0cc;border-radius:6px
 .no-result{color:#6c757d;font-size:13px;padding:4px 0}
 .result-generate-area{margin-top:16px;display:none}
 .result-generate-area.active{display:block}
-#resultText{width:100%;min-height:170px;padding:14px 16px;border:1px solid #ddd;border-radius:6px;font-size:14px;outline:none;margin-bottom:16px;resize:vertical;background:#f8f9fa}
+#resultText{width:100%;min-height:170px;padding:12px 14px;border:1px solid #d0d7de;border-radius:6px;font-size:14px;outline:none;margin-bottom:16px;resize:vertical;background:#f8f9fa}
 .input-help{margin:0 0 14px;padding:12px 14px;border:1px solid #d0d7de;border-radius:6px;background:#fff;color:#495057;line-height:1.7;font-size:13px}
 .input-help strong{color:#1f2328}
 .copy-toast{position:fixed;bottom:30px;right:30px;padding:10px 20px;background:rgba(0,0,0,.8);color:#fff;border-radius:4px;font-size:14px;opacity:0;transform:translateY(20px);transition:all .3s;pointer-events:none;z-index:9999}
@@ -97,6 +97,7 @@ let titleSearchResults = [];
 let selectedArtists = {};
 let inputFormatType = '';
 let isApiMode = false;
+let dataReady = false;
 
 function getSourceAlias(source) {
   if (!source) return '未知来源';
@@ -110,6 +111,38 @@ function showCopyToast() {
   setTimeout(() => toast.classList.remove('show'), 2000);
 }
 
+function ensureReadyPlaceholder() {
+  let placeholder = document.getElementById('titleReadyPlaceholder');
+  if (placeholder) return placeholder;
+  const searchArea = document.querySelector('.title-search-area');
+  if (!searchArea || !searchArea.parentNode) return null;
+  placeholder = document.createElement('div');
+  placeholder.id = 'titleReadyPlaceholder';
+  placeholder.className = 'input-help';
+  placeholder.innerHTML = '<strong>歌库准备中</strong><br><span data-ready-desc>正在连接服务端歌库...</span>';
+  searchArea.parentNode.insertBefore(placeholder, searchArea);
+  return placeholder;
+}
+
+function setCheckReadyState(ready, message = '') {
+  const searchArea = document.querySelector('.title-search-area');
+  const placeholder = ensureReadyPlaceholder();
+  if (searchArea) {
+    searchArea.style.display = ready ? 'block' : 'none';
+  }
+  if (placeholder) {
+    placeholder.style.display = ready ? 'none' : 'block';
+    const desc = placeholder.querySelector('[data-ready-desc]');
+    if (desc) {
+      desc.textContent = message || '歌库尚未完成加载，请稍候。';
+    }
+  }
+  const searchBtn = document.getElementById('searchTitleBtn');
+  if (searchBtn) {
+    searchBtn.disabled = !ready;
+  }
+}
+
 async function loadAllData() {
   try {
     try {
@@ -120,10 +153,13 @@ async function loadAllData() {
       fileAlias = apiData.fileToAlias || {};
       allSongs = [];
       isApiMode = true;
+      dataReady = true;
+      setCheckReadyState(true);
       return;
     } catch (apiError) {
       console.warn('API 数据加载失败，回退到静态模式：', apiError);
       isApiMode = false;
+      setCheckReadyState(false, '服务端接口不可用，正在回退到静态歌库...');
     }
 
     const indexRes = await fetch('data/index.json');
@@ -149,7 +185,10 @@ async function loadAllData() {
 
     const songArrays = await Promise.all(loadFileTasks);
     allSongs = songArrays.flat();
+    dataReady = true;
+    setCheckReadyState(true);
   } catch (err) {
+    setCheckReadyState(false, `歌库加载失败：${err.message}`);
     alert(`数据加载失败: ${err.message}`);
   }
 }
@@ -157,6 +196,7 @@ async function loadAllData() {
 <script src="bili-check-title-artist.js"></script>
 <script>
 function initTitleArtistPage() {
+  setCheckReadyState(false, '正在连接服务端歌库...');
   loadAllData();
   document.getElementById('searchTitleBtn').addEventListener('click', searchAndValidateArtists);
   document.getElementById('copyResultBtn').addEventListener('click', copyResultText);

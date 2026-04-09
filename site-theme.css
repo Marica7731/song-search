@@ -413,6 +413,10 @@ button:hover,
   min-width: 0 !important;
 }
 
+.source-select-shell {
+  min-width: 0 !important;
+}
+
 .source-select {
   min-width: 320px !important;
   max-width: 520px !important;
@@ -448,6 +452,10 @@ button:hover,
 
 .filter-bar {
   justify-content: flex-start !important;
+}
+
+.filter-bar .filter-label {
+  min-width: 52px !important;
 }
 
 .filter-bar .stat-info {
@@ -639,6 +647,7 @@ tbody tr:hover {
   align-items: center !important;
   gap: 10px !important;
   flex-wrap: wrap !important;
+  justify-content: space-between !important;
 }
 
 .info-chip {
@@ -700,9 +709,15 @@ tbody tr:hover {
   .copy-controls,
   .stats-container,
   .source-tabs,
-  .title-controls,
-  .filter-bar {
+  .title-controls {
     flex-direction: column !important;
+    align-items: stretch !important;
+  }
+
+  .filter-bar {
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 12px !important;
     align-items: stretch !important;
   }
 
@@ -729,6 +744,18 @@ tbody tr:hover {
     gap: 8px !important;
   }
 
+  .source-select-shell {
+    width: 100% !important;
+    max-width: none !important;
+    min-width: 0 !important;
+    flex: none !important;
+  }
+
+  .source-trigger {
+    width: 100% !important;
+    min-height: 44px !important;
+  }
+
   .source-select,
   .filter-select {
     height: 44px !important;
@@ -738,6 +765,7 @@ tbody tr:hover {
     margin-left: 0 !important;
     white-space: normal !important;
     min-height: 0 !important;
+    font-size: 12px !important;
   }
 
   .source-actions,
@@ -747,6 +775,10 @@ tbody tr:hover {
     width: 100%;
     flex: none !important;
     justify-content: flex-start !important;
+  }
+
+  .filter-bar .filter-label {
+    min-width: 0 !important;
   }
 
   .group-header {

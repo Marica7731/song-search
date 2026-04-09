@@ -15,6 +15,7 @@ let currentMode = 'bv';
 let bvInputItems = [];
 let titleArtistInputItems = [];
 let dataLoaded = false;
+let isApiMode = false;
 
 function extractBV(str) {
   if (!str) return '';
@@ -106,6 +107,52 @@ function showCopyToast() {
   setTimeout(() => toast.classList.remove('show'), 1800);
 }
 
+function ensureReadyPlaceholder() {
+  let placeholder = document.getElementById('dataReadyPlaceholder');
+  if (placeholder) return placeholder;
+
+  const searchBox = document.querySelector('.search-box');
+  if (!searchBox || !searchBox.parentNode) return null;
+
+  placeholder = document.createElement('div');
+  placeholder.id = 'dataReadyPlaceholder';
+  placeholder.style.cssText = [
+    'margin-bottom:18px',
+    'padding:14px 16px',
+    'border:1px dashed #cbd5e1',
+    'border-radius:8px',
+    'background:#ffffff',
+    'color:#495057',
+    'box-shadow:0 2px 6px rgba(15,23,42,0.04)'
+  ].join(';');
+  placeholder.innerHTML = [
+    '<div style="font-size:14px;font-weight:700;color:#1f2328;margin-bottom:4px;">歌库准备中</div>',
+    '<div data-ready-desc style="font-size:13px;line-height:1.6;">正在连接服务端歌库...</div>'
+  ].join('');
+  searchBox.parentNode.insertBefore(placeholder, searchBox);
+  return placeholder;
+}
+
+function setReadyState(ready, message = '') {
+  const searchBox = document.querySelector('.search-box');
+  const placeholder = ensureReadyPlaceholder();
+  if (searchBox) {
+    searchBox.style.display = ready ? 'grid' : 'none';
+  }
+  if (placeholder) {
+    placeholder.style.display = ready ? 'none' : 'block';
+    const desc = placeholder.querySelector('[data-ready-desc]');
+    if (desc) {
+      desc.textContent = message || '歌库尚未完成加载，请稍候。';
+    }
+  }
+
+  const searchBtn = document.getElementById('searchBtn');
+  if (searchBtn) {
+    searchBtn.disabled = !ready;
+  }
+}
+
 function parseTitleArtistInput(input) {
   if (!input.trim()) return [];
   const lines = input
@@ -164,9 +211,13 @@ function parseTitleArtistInput(input) {
   return result;
 }
 
-async function loadAllData() {
+async function loadAllData(forceStatic = false) {
+  setReadyState(false, '正在连接服务端歌库...');
   try {
     try {
+      if (forceStatic) {
+        throw new Error('force-static-fallback');
+      }
       const bootstrapRes = await fetch('/api/bootstrap');
       if (bootstrapRes.ok) {
         const bootstrapData = await bootstrapRes.json();
@@ -175,25 +226,18 @@ async function loadAllData() {
         sourceStats = bootstrapData.sourceStats || {};
         bootstrapTotalSongs = bootstrapData.totalSongs || 0;
         bootstrapTotalUnique = bootstrapData.totalUnique || 0;
+        isApiMode = true;
         renderSourceTabs();
-        updateStat('来源已加载，正在加载数据...');
+        dataLoaded = true;
+        setReadyState(true);
+        updateStat('歌库已就绪，请输入内容开始分析');
+        return;
       }
-    } catch (bootstrapError) {
-      console.warn('Bootstrap 加载失败：', bootstrapError);
-    }
-
-    try {
-      const apiRes = await fetch('/api/all-songs');
-      if (!apiRes.ok) throw new Error(`API 状态码 ${apiRes.status}`);
-      const apiData = await apiRes.json();
-      fileList = apiData.files || fileList || [];
-      fileAlias = apiData.fileToAlias || fileAlias || {};
-      sourceStats = apiData.sourceStats || sourceStats || {};
-      allSongs = Array.isArray(apiData.items) ? apiData.items : [];
-      if (!bootstrapTotalSongs) bootstrapTotalSongs = apiData.items?.length || 0;
-      if (!bootstrapTotalUnique) bootstrapTotalUnique = getUniqueSongCount(allSongs);
+      throw new Error(`API 状态码 ${bootstrapRes.status}`);
     } catch (apiError) {
       console.warn('API 数据加载失败，回退到静态模式：', apiError);
+      isApiMode = false;
+      setReadyState(false, '服务端接口不可用，正在回退到静态歌库...');
       const indexRes = await fetch('data/index.json');
       const indexData = await indexRes.json();
       fileList = indexData.files || fileList || [];
@@ -230,8 +274,10 @@ async function loadAllData() {
 
     dataLoaded = true;
     renderSourceTabs();
+    setReadyState(true);
     updateStat('数据已加载，请输入内容开始分析');
   } catch (err) {
+    setReadyState(false, `歌库加载失败：${err.message}`);
     updateStat(`数据加载失败: ${err.message}`);
   }
 }
@@ -275,10 +321,14 @@ function renderSourceTabs() {
   container.appendChild(meta);
 }
 
-function switchSourceTab(tab) {
+async function switchSourceTab(tab) {
   currentTab = tab;
   renderSourceTabs();
-  if (analysisResult.length > 0) analyzeDuplicates();
+  if (analysisResult.length > 0 || bvInputItems.length > 0 || titleArtistInputItems.length > 0) {
+    await analyzeDuplicates();
+  } else {
+    updateStat(`当前库 ${getCurrentSourceDisplayLabel()}，请开始分析`);
+  }
 }
 
 function getCurrentPool() {
@@ -286,7 +336,11 @@ function getCurrentPool() {
   return allSongs.filter(song => song.source === currentTab);
 }
 
-function search() {
+async function search() {
+  if (!dataLoaded) {
+    alert('歌库尚未加载完成，请稍后再试');
+    return;
+  }
   toggleShowMode(false);
   analysisResult = [];
 
@@ -320,10 +374,49 @@ function search() {
     bvInputItems = [];
   }
 
-  analyzeDuplicates();
+  await analyzeDuplicates();
 }
 
-function analyzeDuplicates() {
+async function requestDupCheckFromApi() {
+  const items = currentMode === 'bv' ? bvInputItems : titleArtistInputItems;
+  const res = await fetch('/api/dup-check', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({
+      mode: currentMode,
+      source: currentTab,
+      items
+    })
+  });
+  if (!res.ok) {
+    throw new Error(`分析失败（状态码：${res.status}）`);
+  }
+  return res.json();
+}
+
+async function analyzeDuplicates() {
+  if (isApiMode) {
+    try {
+      updateStat('正在从服务端分析...');
+      const payload = await requestDupCheckFromApi();
+      analysisResult = Array.isArray(payload.items) ? payload.items : [];
+      const elapsedText = Number.isFinite(Number(payload.elapsedMs))
+        ? ` | 接口 ${payload.elapsedMs}ms`
+        : '';
+      updateStat(`${payload.statsText || '分析完成'}${elapsedText}`);
+      renderSongList();
+      return;
+    } catch (error) {
+      console.warn('服务端分析失败，回退到本地模式：', error);
+      isApiMode = false;
+      setReadyState(false, '服务端分析失败，正在回退到静态歌库...');
+      await loadAllData(true);
+      if (!dataLoaded) return;
+    }
+  }
+
   const currentPool = getCurrentPool();
   analysisResult = [];
 
@@ -414,16 +507,17 @@ function analyzeDuplicates() {
   }
 
   const total = analysisResult.length;
+  const currentScopeLabel = currentTab === 'all' ? '全部来源' : getSourceAlias(currentTab);
   if (currentMode === 'titleArtist') {
     const first = analysisResult.filter(i => !i.isNotFound && i.isFirst).length;
     const exists = total - first;
-    updateStat(`总计 ${total} | 已收录 ${exists} | 首次 ${first} | 当前库 ${getSourceAlias(currentTab)}`);
+    updateStat(`总计 ${total} | 已收录 ${exists} | 首次 ${first} | 当前库 ${currentScopeLabel}`);
   } else {
     const notFound = analysisResult.filter(i => i.isNotFound).length;
     const found = total - notFound;
     const dup = analysisResult.filter(i => !i.isNotFound && i.isDup).length;
     const unique = found - dup;
-    updateStat(`总计 ${total} | 找到 ${found} | 未找到 ${notFound} | 重复 ${dup} | 非重复 ${unique} | 当前库 ${getSourceAlias(currentTab)}`);
+    updateStat(`总计 ${total} | 找到 ${found} | 未找到 ${notFound} | 重复 ${dup} | 非重复 ${unique} | 当前库 ${currentScopeLabel}`);
   }
 
   renderSongList();
@@ -590,7 +684,9 @@ function initDupCheckPage(mode) {
   currentMode = mode;
   loadAllData();
 
-  document.getElementById('searchBtn')?.addEventListener('click', search);
+  document.getElementById('searchBtn')?.addEventListener('click', () => {
+    search();
+  });
   document.getElementById('showAllBtn')?.addEventListener('click', () => toggleShowMode(false));
   document.getElementById('showUniqueBtn')?.addEventListener('click', () => toggleShowMode(true));
   document.getElementById('copyBtn')?.addEventListener('click', copyResults);

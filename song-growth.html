@@ -8,21 +8,38 @@
   <link rel="stylesheet" href="/site-theme.css">
   <style>
     *{box-sizing:border-box}
-    body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:linear-gradient(135deg,#f5f7fa 0%,#e4e8ec 100%);margin:0;padding:28px 16px;color:#24323f}
-    .main{max-width:1200px;margin:0 auto}
-    .panel{background:#fff;border-radius:14px;box-shadow:0 3px 14px rgba(0,0,0,.06);padding:18px}
+    body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:#f3f4f6;margin:0;padding:28px 16px;color:#24323f}
+    .main{max-width:1480px;margin:0 auto}
+    .panel{background:#fff;border-radius:14px;box-shadow:0 3px 14px rgba(0,0,0,.06);padding:20px;border:1px solid #d0d7de}
     h1{margin:0 0 8px;color:#2c3e50}
     .sub{margin-bottom:14px;color:#6c757d;font-size:14px;line-height:1.5}
     .nav{margin-bottom:16px;text-align:center;color:#6c757d;font-size:14px}
     .nav a{color:#00a1d6;text-decoration:none;font-weight:600}
     .nav a:hover{text-decoration:underline}
-    .hint-box{margin:0 0 14px;padding:12px 14px;border-radius:12px;background:#f8fbff;border:1px solid #ddeaf5;color:#52606d;font-size:13px;line-height:1.6}
+    .hint-box{margin:0 0 14px;padding:12px 14px;border-radius:12px;background:#fff;border:1px solid #d0d7de;color:#52606d;font-size:13px;line-height:1.6}
     .kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:10px;margin:12px 0 16px}
     .kpi{background:#f8fafc;border:1px solid #e7edf3;border-radius:10px;padding:10px 12px}
     .kpi .label{font-size:12px;color:#7b8794;margin-bottom:4px}
     .kpi .value{font-size:20px;color:#203040;font-weight:700}
     .kpi .value.up{color:#1a8f4c}
     .kpi .value.down{color:#cc2f3f}
+    .analysis-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px;margin:0 0 16px}
+    .analysis-card{background:#fff;border:1px solid #d0d7de;border-radius:10px;padding:14px 16px}
+    .analysis-card .label{font-size:12px;color:#667085;margin-bottom:6px}
+    .analysis-card .value{font-size:24px;font-weight:800;color:#111827;line-height:1.15}
+    .analysis-card .meta{margin-top:6px;font-size:12px;color:#667085;line-height:1.5}
+    .analysis-card .value.up{color:#1a8f4c}
+    .analysis-card .value.down{color:#cc2f3f}
+    .analysis-board{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin:0 0 16px}
+    .analysis-panel{background:#fff;border:1px solid #d0d7de;border-radius:10px;padding:14px 16px}
+    .analysis-panel h3{margin:0 0 10px;font-size:14px;color:#1f2328}
+    .top-list{display:flex;flex-direction:column;gap:8px}
+    .top-row{display:grid;grid-template-columns:34px minmax(0,1fr);gap:10px;align-items:start;padding:8px 0;border-top:1px solid #eef2f6}
+    .top-row:first-child{border-top:0;padding-top:0}
+    .top-rank{display:inline-flex;align-items:center;justify-content:center;width:28px;height:28px;border-radius:6px;background:#f3f4f6;border:1px solid #d0d7de;font-size:12px;font-weight:700;color:#111827}
+    .top-main{min-width:0}
+    .top-title{font-size:13px;font-weight:700;color:#1f2328;line-height:1.4}
+    .top-meta{margin-top:3px;font-size:12px;color:#667085;line-height:1.5}
     .controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:10px}
     .mode-select,.metric-select{padding:6px 10px;border:1px solid #d6e3ef;border-radius:8px;background:#fff}
     .range-btn{border:1px solid #d6e3ef;background:#fff;color:#335;cursor:pointer;padding:6px 12px;border-radius:999px;font-size:13px}
@@ -50,6 +67,10 @@
     .pager-input{width:72px;padding:6px 8px;border:1px solid #d6e3ef;border-radius:8px;background:#fff}
     .back-top{position:fixed;right:24px;bottom:24px;width:42px;height:42px;border:0;border-radius:999px;background:#00a1d6;color:#fff;font-size:18px;cursor:pointer;box-shadow:0 6px 16px rgba(0,161,214,.35);opacity:0;pointer-events:none;transform:translateY(6px);transition:all .2s;z-index:3000}
     .back-top.show{opacity:1;pointer-events:auto;transform:translateY(0)}
+    @media (max-width: 900px){
+      body{padding:16px 12px}
+      .analysis-board{grid-template-columns:1fr}
+    }
   </style>
 </head>
 <body>
@@ -73,6 +94,40 @@
       <div class="kpi"><div class="label">当日增量</div><div class="value" id="kpiDelta">-</div></div>
       <div class="kpi"><div class="label">累计记录天数</div><div class="value" id="kpiDays">-</div></div>
       <div class="kpi"><div class="label">当前口径</div><div class="value" id="kpiMode">-</div></div>
+    </div>
+
+    <div class="analysis-grid">
+      <div class="analysis-card">
+        <div class="label">本月峰值日</div>
+        <div class="value" id="monthPeakValue">-</div>
+        <div class="meta" id="monthPeakMeta">-</div>
+      </div>
+      <div class="analysis-card">
+        <div class="label">历史峰值日</div>
+        <div class="value" id="allPeakValue">-</div>
+        <div class="meta" id="allPeakMeta">-</div>
+      </div>
+      <div class="analysis-card">
+        <div class="label">近 7 日均值</div>
+        <div class="value" id="weekAvgValue">-</div>
+        <div class="meta" id="weekAvgMeta">-</div>
+      </div>
+      <div class="analysis-card">
+        <div class="label">本月累计新增</div>
+        <div class="value" id="monthTotalValue">-</div>
+        <div class="meta" id="monthTotalMeta">-</div>
+      </div>
+    </div>
+
+    <div class="analysis-board">
+      <div class="analysis-panel">
+        <h3>本月高点</h3>
+        <div class="top-list" id="monthTopList"></div>
+      </div>
+      <div class="analysis-panel">
+        <h3>历史高点</h3>
+        <div class="top-list" id="allTimeTopList"></div>
+      </div>
     </div>
 
     <div class="controls">
@@ -258,6 +313,96 @@
       kpiMode.textContent = getModeLabel();
     }
 
+    function getLatestMonthKey(rows) {
+      const last = rows[rows.length - 1];
+      return last && last.date ? String(last.date).slice(0, 7) : '';
+    }
+
+    function sortRowsByDeltaDesc(rows) {
+      return rows
+        .filter(row => Number.isFinite(Number(row.delta)))
+        .slice()
+        .sort((a, b) => {
+          if (Number(b.delta) !== Number(a.delta)) return Number(b.delta) - Number(a.delta);
+          return String(a.date).localeCompare(String(b.date));
+        });
+    }
+
+    function setInsightCard(valueId, metaId, valueText, metaText, state = '') {
+      const valueEl = document.getElementById(valueId);
+      const metaEl = document.getElementById(metaId);
+      if (!valueEl || !metaEl) return;
+      valueEl.textContent = valueText;
+      valueEl.className = 'value ' + state;
+      metaEl.textContent = metaText;
+    }
+
+    function renderTopRows(containerId, rows, emptyText) {
+      const container = document.getElementById(containerId);
+      if (!container) return;
+      if (!rows.length) {
+        container.innerHTML = `<div class="top-meta">${emptyText}</div>`;
+        return;
+      }
+
+      container.innerHTML = rows.map((row, index) => {
+        return '<div class="top-row">' +
+          `<div class="top-rank">${index + 1}</div>` +
+          '<div class="top-main">' +
+            `<div class="top-title">${row.date}</div>` +
+            `<div class="top-meta">新增 ${deltaText(row.delta)} · 累计 ${numberText(row.total)}</div>` +
+          '</div>' +
+        '</div>';
+      }).join('');
+    }
+
+    function renderInsights() {
+      const rows = getCurrentRows();
+      const monthKey = getLatestMonthKey(rows);
+      const monthRows = monthKey ? rows.filter(row => String(row.date).startsWith(monthKey)) : [];
+      const monthSorted = sortRowsByDeltaDesc(monthRows).filter(row => Number(row.delta) > 0);
+      const allSorted = sortRowsByDeltaDesc(rows).filter(row => Number(row.delta) > 0);
+      const monthPeak = monthSorted[0] || null;
+      const allPeak = allSorted[0] || null;
+      const latestSeven = rows.slice(-7);
+      const weekAvg = latestSeven.length
+        ? latestSeven.reduce((acc, row) => acc + Number(row.delta || 0), 0) / latestSeven.length
+        : 0;
+      const monthTotal = monthRows.reduce((acc, row) => acc + Number(row.delta || 0), 0);
+
+      setInsightCard(
+        'monthPeakValue',
+        'monthPeakMeta',
+        monthPeak ? deltaText(monthPeak.delta) : '-',
+        monthPeak ? `${monthPeak.date} · ${monthKey}` : '本月暂无增长记录',
+        monthPeak && monthPeak.delta > 0 ? 'up' : ''
+      );
+      setInsightCard(
+        'allPeakValue',
+        'allPeakMeta',
+        allPeak ? deltaText(allPeak.delta) : '-',
+        allPeak ? `${allPeak.date} · 历史最高` : '历史暂无增长记录',
+        allPeak && allPeak.delta > 0 ? 'up' : ''
+      );
+      setInsightCard(
+        'weekAvgValue',
+        'weekAvgMeta',
+        latestSeven.length ? deltaText(Math.round(weekAvg * 10) / 10) : '-',
+        latestSeven.length ? `最近 ${latestSeven.length} 天平均每日新增` : '最近 7 日暂无数据',
+        weekAvg > 0 ? 'up' : (weekAvg < 0 ? 'down' : '')
+      );
+      setInsightCard(
+        'monthTotalValue',
+        'monthTotalMeta',
+        monthKey ? deltaText(monthTotal) : '-',
+        monthKey ? `${monthKey} 累计新增` : '暂无月份数据',
+        monthTotal > 0 ? 'up' : (monthTotal < 0 ? 'down' : '')
+      );
+
+      renderTopRows('monthTopList', monthSorted.slice(0, 5), '本月暂无高点数据');
+      renderTopRows('allTimeTopList', allSorted.slice(0, 5), '历史暂无高点数据');
+    }
+
     function drawChart() {
       const rows = getRangeRows();
       const rect = chartCanvas.getBoundingClientRect();
@@ -378,6 +523,7 @@
     function refreshView() {
       currentPage = 1;
       updateHeaderSummary();
+      renderInsights();
       drawChart();
       renderTable();
     }
@@ -461,6 +607,10 @@
       const payload = await res.json();
       growthData.collection = Array.isArray(payload.collectionRows) ? payload.collectionRows : [];
       growthData.publish = Array.isArray(payload.publishRows) ? payload.publishRows : [];
+      if (!growthData[currentMode].length && growthData.collection.length) {
+        currentMode = 'collection';
+        modeSelect.value = 'collection';
+      }
     }
 
     async function initPage() {
