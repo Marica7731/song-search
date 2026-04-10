@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 4/10/2026, 1:26:47 AM
+// 生成时间: 4/10/2026, 4:40:56 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1574,16 +1574,16 @@ window.SONG_DATA.push(
   "source": "kukuri.js"
 },
     {
-  "title": "V1-0097_[MKaCG4duBIU]kukuri【#歌枠 singing】ryoさん（EGOISTさんsupercellさん）歌枠",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ワールドイズマイン",
+  "artist": "ryo(supercell) feat. 初音ミク",
   "collection": "【歌切】[2026-04-09]ryo限定歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nHDtBzEBn?p=18",
   "source": "kukuri.js"
 },
     {
-  "title": "V1-0098_[MKaCG4duBIU]kukuri【#歌枠 singing】ryoさん（EGOISTさんsupercellさん）歌枠",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "メルト",
+  "artist": "ryo(supercell) feat. 初音ミク",
   "collection": "【歌切】[2026-04-09]ryo限定歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nHDtBzEBn?p=19",

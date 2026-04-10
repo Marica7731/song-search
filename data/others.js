@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq
-// 生成时间: 4/10/2026, 1:38:37 AM
+// 生成时间: 4/10/2026, 4:52:50 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -13574,8 +13574,8 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "ローゼンメイデン風アンパンマンのマーチ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "アンパンマンのマーチ",
+  "artist": "ローゼンメイデン風",
   "collection": "歌切 2026-03-30 Muan ch.茨むあん ibaramuan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LnSSBdEeq?p=22",
@@ -14342,8 +14342,8 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "六等星の夜 -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "六等星の夜",
+  "artist": "Aimer",
   "collection": "歌切 2026-04-06 葉月ひな🌱🎶 9qD3oo8DIBc",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QHDbBtE3H?p=11",

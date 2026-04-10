@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 4/10/2026, 1:25:43 AM
+// 生成时间: 4/10/2026, 4:40:05 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -359,7 +359,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "魔法",
-  "artist": "KOTORI",
+  "artist": "tayori",
   "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=1",
@@ -479,7 +479,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "嘘じゃない",
-  "artist": "崎山蒼志",
+  "artist": "ずっと真夜中でいいのに。",
   "collection": "【明日夢 歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=16",
