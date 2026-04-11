@@ -1,6 +1,6 @@
 // 天籠りのん - 歌单数据 (多合集汇总)
 // 来源: BV1hw4m1i7qN
-// 生成时间: 4/11/2026, 12:41:17 PM
+// 生成时间: 4/11/2026, 1:55:35 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3283,6 +3283,38 @@ window.SONG_DATA.push(
   "collection": "【Linon ch. 天籠りのん】アイドル衣装を見せびらかしながら歌う #karaoke",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCq9BVEjh?p=9",
+  "source": "linon.js"
+},
+    {
+  "title": "灼熱にて純情",
+  "artist": "星街すいせい",
+  "collection": "【歌切】最强音压摇滚与绝唱上等歌回 Linon ch. 天籠りのん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KHD1BYEvR?p=1",
+  "source": "linon.js"
+},
+    {
+  "title": "ダイアモンド クレバス",
+  "artist": "May'n",
+  "collection": "【歌切】最强音压摇滚与绝唱上等歌回 Linon ch. 天籠りのん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KHD1BYEvR?p=2",
+  "source": "linon.js"
+},
+    {
+  "title": "雑踏、僕らの街",
+  "artist": "トゲナシトゲアリ",
+  "collection": "【歌切】最强音压摇滚与绝唱上等歌回 Linon ch. 天籠りのん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KHD1BYEvR?p=3",
+  "source": "linon.js"
+},
+    {
+  "title": "シルシ",
+  "artist": "LiSA",
+  "collection": "【歌切】最强音压摇滚与绝唱上等歌回 Linon ch. 天籠りのん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KHD1BYEvR?p=4",
   "source": "linon.js"
 }
 );

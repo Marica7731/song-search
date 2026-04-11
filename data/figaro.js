@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 4/11/2026, 12:37:58 PM
+// 生成时间: 4/11/2026, 1:52:18 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -28987,6 +28987,46 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-04-10]这周也辛苦啦～！ Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WpQKBpEBh?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "天球、彗星は夜を跨いで",
+  "artist": "星街すいせい",
+  "collection": "【💐歌切】[2026-04-11]将希望寄予歌声、飞向宇宙💐 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u5D1BMEoP?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【💐歌切】[2026-04-11]将希望寄予歌声、飞向宇宙💐 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u5D1BMEoP?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "RE: I AM",
+  "artist": "Aimer",
+  "collection": "【💐歌切】[2026-04-11]将希望寄予歌声、飞向宇宙💐 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u5D1BMEoP?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "プラネテス",
+  "artist": "キタニタツヤ",
+  "collection": "【💐歌切】[2026-04-11]将希望寄予歌声、飞向宇宙💐 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u5D1BMEoP?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "彗星の夜明け",
+  "artist": "Figaro",
+  "collection": "【💐歌切】[2026-04-11]将希望寄予歌声、飞向宇宙💐 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u5D1BMEoP?p=5",
   "source": "figaro.js"
 }
 );
