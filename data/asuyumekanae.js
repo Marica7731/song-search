@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 4/11/2026, 1:21:35 AM
+// 生成时间: 4/11/2026, 4:12:46 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3115,6 +3115,118 @@ window.SONG_DATA.push(
   "collection": "【明日夢🎸弾き語り歌切】[2026-04-07]助眠歌回！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19BDzB4Ete?p=23",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "憂一乗",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-11]篝火与ヨルシカ限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJQKBsEzW?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-11]篝火与ヨルシカ限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJQKBsEzW?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-11]篝火与ヨルシカ限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJQKBsEzW?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-11]篝火与ヨルシカ限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJQKBsEzW?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "嘘月",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-11]篝火与ヨルシカ限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJQKBsEzW?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-11]篝火与ヨルシカ限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJQKBsEzW?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "風を食む",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-11]篝火与ヨルシカ限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJQKBsEzW?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "逃亡",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-11]篝火与ヨルシカ限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJQKBsEzW?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "雪国",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-11]篝火与ヨルシカ限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJQKBsEzW?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-11]篝火与ヨルシカ限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJQKBsEzW?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "エルマ",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-11]篝火与ヨルシカ限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJQKBsEzW?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-11]篝火与ヨルシカ限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJQKBsEzW?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-11]篝火与ヨルシカ限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJQKBsEzW?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-11]篝火与ヨルシカ限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJQKBsEzW?p=14",
   "source": "asuyumekanae.js"
 }
 );

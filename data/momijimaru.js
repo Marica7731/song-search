@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 4/11/2026, 1:22:47 AM
+// 生成时间: 4/11/2026, 4:13:38 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2467,6 +2467,126 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-04-09]早晨的陪伴，来一起悠闲聊天与歌回🍁✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xGDtB1Enh?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ダンスロボットダンス",
+  "artist": "ナユタン星人",
+  "collection": "【🍁歌切】[2026-04-10]用评论炒热气氛!! 限定123歌曲的歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EYQKB1EyC?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "三百六十五歩のマーチ",
+  "artist": "水前寺清子",
+  "collection": "【🍁歌切】[2026-04-10]用评论炒热气氛!! 限定123歌曲的歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EYQKB1EyC?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "レディメイド",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-04-10]用评论炒热气氛!! 限定123歌曲的歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EYQKB1EyC?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "カートゥーンガール",
+  "artist": "kanaria",
+  "collection": "【🍁歌切】[2026-04-10]用评论炒热气氛!! 限定123歌曲的歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EYQKB1EyC?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "太陽系デスコ",
+  "artist": "ナユタン星人",
+  "collection": "【🍁歌切】[2026-04-10]用评论炒热气氛!! 限定123歌曲的歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EYQKB1EyC?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "死ぬな！",
+  "artist": "こっちのけんと",
+  "collection": "【🍁歌切】[2026-04-10]用评论炒热气氛!! 限定123歌曲的歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EYQKB1EyC?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "1・2・3",
+  "artist": "After the Rain(そらる × まふまふ)",
+  "collection": "【🍁歌切】[2026-04-10]用评论炒热气氛!! 限定123歌曲的歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EYQKB1EyC?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "わたしの一番かわいいところ",
+  "artist": "FRUITSZIPPER",
+  "collection": "【🍁歌切】[2026-04-10]用评论炒热气氛!! 限定123歌曲的歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EYQKB1EyC?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "CH4NGE",
+  "artist": "Giga",
+  "collection": "【🍁歌切】[2026-04-10]用评论炒热气氛!! 限定123歌曲的歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EYQKB1EyC?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "虎視眈々",
+  "artist": "梅とら",
+  "collection": "【🍁歌切】[2026-04-10]用评论炒热气氛!! 限定123歌曲的歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EYQKB1EyC?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "supercell",
+  "collection": "【🍁歌切】[2026-04-10]用评论炒热气氛!! 限定123歌曲的歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EYQKB1EyC?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "シル・ヴ・プレジデント",
+  "artist": "P丸様。",
+  "collection": "【🍁歌切】[2026-04-10]用评论炒热气氛!! 限定123歌曲的歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EYQKB1EyC?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "だんご3兄弟",
+  "artist": "NEUTRINO",
+  "collection": "【🍁歌切】[2026-04-10]用评论炒热气氛!! 限定123歌曲的歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EYQKB1EyC?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "世界に一つだけの花",
+  "artist": "SMAP",
+  "collection": "【🍁歌切】[2026-04-10]用评论炒热气氛!! 限定123歌曲的歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EYQKB1EyC?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "愛言葉Ⅲ",
+  "artist": "DECO*27",
+  "collection": "【🍁歌切】[2026-04-10]用评论炒热气氛!! 限定123歌曲的歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EYQKB1EyC?p=15",
   "source": "momijimaru.js"
 }
 );
