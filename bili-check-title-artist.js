@@ -44,7 +44,17 @@ function parseInputContent() {
 }
 
 function normalizeText(value) {
+  if (window.ArtistMatch && typeof window.ArtistMatch.normalizeString === 'function') {
+    return window.ArtistMatch.normalizeString(value);
+  }
   return (value || '').toLowerCase().trim();
+}
+
+function artistsCompatible(left, right) {
+  if (window.ArtistMatch && typeof window.ArtistMatch.areArtistsCompatible === 'function') {
+    return window.ArtistMatch.areArtistsCompatible(left, right);
+  }
+  return normalizeText(left) === normalizeText(right);
 }
 
 async function fetchTitleLookup(items) {
@@ -108,7 +118,7 @@ function buildTitleArtistResultItem(item) {
   const { artists, artistNames, maxSourceArtist } = getArtistSummaryByTitle(item.title);
   let isArtistValid = false;
   if (item.inputArtist && artistNames.length > 0) {
-    isArtistValid = artistNames.some(name => normalizeText(name) === normalizeText(item.inputArtist));
+    isArtistValid = artistNames.some(name => artistsCompatible(name, item.inputArtist));
   }
 
   return {
@@ -306,7 +316,7 @@ function createRetitleTools(item, index) {
     if (manualArtist) {
       selectedArtists[newTitle] = manualArtist;
       refreshed.inputArtist = manualArtist;
-      refreshed.isArtistValid = refreshed.artistNames.some(name => normalizeText(name) === normalizeText(manualArtist));
+      refreshed.isArtistValid = refreshed.artistNames.some(name => artistsCompatible(name, manualArtist));
     }
     renderArtistSelectWithValidation();
     generateResultText();
@@ -321,7 +331,7 @@ function createRetitleTools(item, index) {
     }
     selectedArtists[item.title] = newArtist;
     item.inputArtist = newArtist;
-    item.isArtistValid = item.artistNames.some(name => normalizeText(name) === normalizeText(newArtist));
+    item.isArtistValid = item.artistNames.some(name => artistsCompatible(name, newArtist));
     renderArtistSelectWithValidation();
     generateResultText();
   };
@@ -403,7 +413,7 @@ function renderArtistSelectWithValidation() {
 
     if (item.hasResult) {
       if (inputFormatType === 'full' && item.inputArtist.trim()) {
-        const isUserArtistMaxSource = normalizeText(item.inputArtist) === normalizeText(item.maxSourceArtist);
+        const isUserArtistMaxSource = artistsCompatible(item.inputArtist, item.maxSourceArtist);
         const userBtn = document.createElement('div');
         const isUserSelected = selectedArtists[item.title] === item.inputArtist;
         userBtn.className = `artist-option ${isUserArtistMaxSource ? 'max-source' : 'user-provided'} ${isUserSelected ? 'selected' : ''}`;

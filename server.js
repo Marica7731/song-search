@@ -3,6 +3,12 @@ const path = require('path');
 const http = require('http');
 const { execFile } = require('child_process');
 const { URL } = require('url');
+const {
+  normalizeString,
+  isSameSong,
+  areArtistsCompatible,
+  matchesArtistCondition
+} = require('./artist-match');
 
 const ROOT = __dirname;
 const DATA_DIR = path.join(ROOT, 'data');
@@ -69,46 +75,6 @@ function extractBV(value) {
   return matched ? matched[0].toUpperCase() : '';
 }
 
-function normalizeString(str) {
-  if (!str) return '';
-  let s = String(str).trim();
-  s = s.replace(/[\uFF01-\uFF5E]/g, ch => String.fromCharCode(ch.charCodeAt(0) - 0xFEE0));
-  s = s.replace(/\u3000/g, ' ');
-  s = s.replace(/[～〜˜]/g, '~');
-  s = s.replace(/[—–―]/g, '-');
-  s = s.replace(/[“”]/g, '"').replace(/[‘’]/g, "'");
-  s = s.replace(/…/g, '...');
-  s = s.replace(/\s+/g, ' ');
-  return s.toLowerCase();
-}
-
-function hasContinuousCommonStr(str1, str2, minLength = 2) {
-  const s1 = normalizeString(str1);
-  const s2 = normalizeString(str2);
-  if (s1.length < minLength || s2.length < minLength) return false;
-  for (let i = 0; i <= s1.length - minLength; i += 1) {
-    const subStr = s1.substring(i, i + minLength);
-    if (s2.includes(subStr)) return true;
-  }
-  return false;
-}
-
-function isSameSong(songA, songB) {
-  const titleA = normalizeString(songA.title || '未知歌曲');
-  const titleB = normalizeString(songB.title || '未知歌曲');
-  if (titleA !== titleB) return false;
-
-  const artistA = (songA.artist || '').trim();
-  const artistB = (songB.artist || '').trim();
-  const validA = isValidArtist(artistA);
-  const validB = isValidArtist(artistB);
-
-  if (!validA || !validB) return true;
-  const normArtistA = normalizeString(artistA);
-  const normArtistB = normalizeString(artistB);
-  return normArtistA === normArtistB || hasContinuousCommonStr(artistA, artistB);
-}
-
 function getUniqueSongCount(data) {
   if (data.length === 0) return 0;
   const titleGroup = {};
@@ -126,7 +92,7 @@ function getUniqueSongCount(data) {
     }
     const uniqueSongs = [];
     group.forEach(currentSong => {
-      const isDuplicate = uniqueSongs.some(savedSong => isSameSong(currentSong, savedSong));
+      const isDuplicate = uniqueSongs.some(savedSong => isSameSong(currentSong, savedSong, isValidArtist));
       if (!isDuplicate) uniqueSongs.push(currentSong);
     });
     totalUnique += uniqueSongs.length;
@@ -230,6 +196,13 @@ function matchesSingleCondition(text, condition) {
   }
 }
 
+function matchesFieldCondition(fieldName, text, condition) {
+  if (fieldName === 'artist' || fieldName === 'originalArtist') {
+    return matchesArtistCondition(text, condition) || matchesSingleCondition(text, condition);
+  }
+  return matchesSingleCondition(text, condition);
+}
+
 function searchItem(item, condition, fields) {
   const sourceBase = String(item.source || '').replace('.js', '');
   const sourceAlias = store.fileToAlias[sourceBase] || item.source || '未知';
@@ -248,7 +221,10 @@ function searchItem(item, condition, fields) {
   };
   const enabledFields = Object.entries(fields)
     .filter(([, enabled]) => enabled)
-    .map(([field]) => fieldTexts[field]);
+    .map(([field]) => ({
+      field,
+      text: fieldTexts[field]
+    }));
   if (enabledFields.length === 0) return false;
 
   function checkCondition(cond) {
@@ -256,7 +232,7 @@ function searchItem(item, condition, fields) {
       case 'exact':
       case 'phrase':
       case 'fuzzy':
-        return enabledFields.some(text => matchesSingleCondition(text, cond));
+        return enabledFields.some(entry => matchesFieldCondition(entry.field, entry.text, cond));
       case 'and':
         return cond.values.every(checkCondition);
       case 'or':
@@ -680,13 +656,13 @@ function buildDupCheckResponse(mode, source, items) {
       let dupList = [];
 
       if (queryType === 'artistOnly') {
-        dupList = filterCandidatesBySource(store.artistSongMap.get(artistKey) || [], source);
+        dupList = getSourceScopedSongs(source)
+          .filter(song => areArtistsCompatible(song.artist || '', inputArtist));
       } else if (titleKey) {
-        if (artistKey) {
-          dupList = filterCandidatesBySource(store.titleArtistMap.get(`${titleKey}|${artistKey}`) || [], source);
-        } else {
-          dupList = filterCandidatesBySource(store.titleMap.get(titleKey)?.songs || [], source);
-        }
+        const titleMatches = filterCandidatesBySource(store.titleMap.get(titleKey)?.songs || [], source);
+        dupList = artistKey
+          ? titleMatches.filter(song => areArtistsCompatible(song.artist || '', inputArtist))
+          : titleMatches;
       }
 
       if (dupList.length === 0) {
@@ -850,30 +826,37 @@ function filterSongs(source, keyword) {
 
   const kw = normalizeString(keyword || '');
   if (kw) {
+    const artistCondition = { type: 'fuzzy', value: kw };
     data = data.filter(item => {
       const title = normalizeString(item.title || '');
       const artist = normalizeString(item.artist || '');
       const collection = normalizeString(item.collection || '');
       const originalArtist = normalizeString(item.originalArtist || '');
-      return title.includes(kw) || artist.includes(kw) || collection.includes(kw) || originalArtist.includes(kw);
+      return title.includes(kw)
+        || collection.includes(kw)
+        || artist.includes(kw)
+        || originalArtist.includes(kw)
+        || matchesArtistCondition(artist, artistCondition)
+        || matchesArtistCondition(originalArtist, artistCondition);
     });
   }
   return data;
 }
 
-function buildSongAggregateKey(title, artist) {
-  return `${normalizeString(title || '未知歌曲')}|${normalizeString(artist || '')}`;
-}
-
 function aggregateBySong(data) {
-  const map = new Map();
+  const titleGroups = new Map();
   data.forEach(item => {
     const artist = item.artist || '';
     const title = item.title || '未知歌曲';
-    const key = buildSongAggregateKey(title, artist);
-    if (!map.has(key)) {
-      map.set(key, {
-        key,
+    const titleKey = normalizeString(title);
+    if (!titleGroups.has(titleKey)) {
+      titleGroups.set(titleKey, []);
+    }
+    const groups = titleGroups.get(titleKey);
+    let entry = groups.find(saved => isSameSong(item, saved, isValidArtist));
+    if (!entry) {
+      entry = {
+        key: `${titleKey}|${groups.length}`,
         title,
         artist,
         originalArtist: item.originalArtist || '',
@@ -882,9 +865,9 @@ function aggregateBySong(data) {
         sourceSet: new Set(),
         sourceCount: 0,
         isSolo: false
-      });
+      };
+      groups.push(entry);
     }
-    const entry = map.get(key);
     entry.count += 1;
     entry.sourceSet.add(item.source || '');
     entry.sourceCount = entry.sourceSet.size;
@@ -896,7 +879,8 @@ function aggregateBySong(data) {
       bvid: extractBV(item.bvid || item.link || '')
     });
   });
-  return Array.from(map.values())
+  return Array.from(titleGroups.values())
+    .flat()
     .map(entry => ({
       ...entry,
       sourceSet: undefined
@@ -1284,7 +1268,7 @@ function handleTitleLookup(req, res, body) {
     const inputArtist = String(item?.inputArtist || '').trim();
     const summary = buildArtistSummaryByTitle(title);
     const isArtistValid = inputArtist
-      ? summary.artistNames.some(name => normalizeString(name) === normalizeString(inputArtist))
+      ? summary.artistNames.some(name => areArtistsCompatible(name, inputArtist))
       : false;
     return {
       ...summary,

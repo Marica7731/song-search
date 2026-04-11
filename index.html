@@ -888,6 +888,7 @@
     <div class="copy-toast" id="copy-toast">copy ok!</div>
     <button class="back-top" id="backTopBtn" type="button" aria-label="回到顶部">↑</button>
 
+    <script src="/artist-match.js"></script>
     <script>
         window.SONG_DATA = [];
         let originalData = [];
@@ -930,24 +931,16 @@
         }
 
         function normalizeString(str) {
-            if (!str) return '';
-            let s = str.trim();
-            // 全角转半角（仅对符号/数字/英文生效，不破坏日语假名）
-            s = s.replace(/[\uFF01-\uFF5E]/g, function(ch) {
-                return String.fromCharCode(ch.charCodeAt(0) - 0xFEE0);
-            });
-            s = s.replace(/\u3000/g, ' ');
-            // 统一特殊符号，不修改日语内容
-            s = s.replace(/[～〜˜]/g, '~');
-            s = s.replace(/[—–―]/g, '-');
-            s = s.replace(/[“”]/g, '"').replace(/[‘’]/g, "'");
-            s = s.replace(/…/g, '...');
-            // 合并多余空格
-            s = s.replace(/\s+/g, ' ');
-            return s.toLowerCase();
+            if (window.ArtistMatch && typeof window.ArtistMatch.normalizeString === 'function') {
+                return window.ArtistMatch.normalizeString(str);
+            }
+            return (str || '').trim().toLowerCase();
         }
 
         function hasContinuousCommonStr(str1, str2, minLength = 2) {
+            if (window.ArtistMatch && typeof window.ArtistMatch.hasContinuousCommonStr === 'function') {
+                return window.ArtistMatch.hasContinuousCommonStr(str1, str2, minLength);
+            }
             const s1 = normalizeString(str1);
             const s2 = normalizeString(str2);
             if (s1.length < minLength || s2.length < minLength) return false;
@@ -959,20 +952,11 @@
         }
 
         function isSameSong(songA, songB) {
-            const titleA = normalizeString(songA.title || '未知歌曲');
-            const titleB = normalizeString(songB.title || '未知歌曲');
-            if (titleA !== titleB) return false;
-
-            const artistA = (songA.artist || '').trim();
-            const artistB = (songB.artist || '').trim();
-            const validA = isValidArtist(artistA);
-            const validB = isValidArtist(artistB);
-
-            if (!validA || !validB) return true;
-
-            const normArtistA = normalizeString(artistA);
-            const normArtistB = normalizeString(artistB);
-            return normArtistA === normArtistB || hasContinuousCommonStr(artistA, artistB);
+            if (window.ArtistMatch && typeof window.ArtistMatch.isSameSong === 'function') {
+                return window.ArtistMatch.isSameSong(songA, songB, isValidArtist);
+            }
+            return normalizeString(songA.title || '') === normalizeString(songB.title || '')
+                && normalizeString(songA.artist || '') === normalizeString(songB.artist || '');
         }
 
         function getUniqueSongCount(data) {
@@ -1335,6 +1319,13 @@
             }
         }
 
+        function matchesFieldCondition(fieldName, text, condition) {
+            if (fieldName === 'artist' && window.ArtistMatch && typeof window.ArtistMatch.matchesArtistCondition === 'function') {
+                return window.ArtistMatch.matchesArtistCondition(text, condition) || matchesSingleCondition(text, condition);
+            }
+            return matchesSingleCondition(text, condition);
+        }
+
         // ========== 【核心修复】跨字段搜索匹配主函数 ==========
         function searchItem(item, condition, fields) {
             // 先获取当前歌曲所有启用字段的文本内容
@@ -1357,7 +1348,7 @@
             // 过滤出用户启用的字段
             const enabledFields = Object.entries(fields)
                 .filter(([_, enabled]) => enabled)
-                .map(([field, _]) => fieldTexts[field]);
+                .map(([field, _]) => ({ field, text: fieldTexts[field] }));
 
             if (enabledFields.length === 0) return false;
 
@@ -1368,7 +1359,7 @@
                     case 'exact':
                     case 'phrase':
                     case 'fuzzy':
-                        return enabledFields.some(text => matchesSingleCondition(text, cond));
+                        return enabledFields.some(entry => matchesFieldCondition(entry.field, entry.text, cond));
                     
                     // AND条件：所有子条件都必须满足
                     case 'and':

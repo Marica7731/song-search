@@ -24,6 +24,9 @@ function extractBV(str) {
 }
 
 function normalizeText(value) {
+  if (window.ArtistMatch && typeof window.ArtistMatch.normalizeString === 'function') {
+    return window.ArtistMatch.normalizeString(value);
+  }
   return (value || '').toLowerCase().trim();
 }
 
@@ -58,12 +61,20 @@ function getCurrentSourceDisplayLabel() {
 }
 
 function isSameSong(songA, songB) {
+  if (window.ArtistMatch && typeof window.ArtistMatch.isSameSong === 'function') {
+    return window.ArtistMatch.isSameSong(songA, songB, artist => !!artist && !!String(artist).trim());
+  }
   const titleA = normalizeText(songA.title || '');
   const titleB = normalizeText(songB.title || '');
   if (titleA !== titleB) return false;
-  const artistA = normalizeText(songA.artist || '');
-  const artistB = normalizeText(songB.artist || '');
-  return artistA === artistB;
+  return normalizeText(songA.artist || '') === normalizeText(songB.artist || '');
+}
+
+function areArtistsCompatible(left, right) {
+  if (window.ArtistMatch && typeof window.ArtistMatch.areArtistsCompatible === 'function') {
+    return window.ArtistMatch.areArtistsCompatible(left, right);
+  }
+  return normalizeText(left) === normalizeText(right);
 }
 
 function getUniqueSongCount(songs) {
@@ -495,15 +506,14 @@ async function analyzeDuplicates() {
   } else {
     titleArtistInputItems.forEach(inputItem => {
       const titleKey = normalizeText(inputItem.title);
-      const artistKey = normalizeText(inputItem.artist);
       let dupList = [];
 
       if (inputItem.type === 'artistOnly') {
-        dupList = currentPool.filter(song => normalizeText(song.artist) === artistKey);
+        dupList = currentPool.filter(song => areArtistsCompatible(song.artist || '', inputItem.artist || ''));
       } else {
         dupList = currentPool.filter(song => normalizeText(song.title) === titleKey);
         if (inputItem.artist) {
-          dupList = dupList.filter(song => normalizeText(song.artist) === artistKey);
+          dupList = dupList.filter(song => areArtistsCompatible(song.artist || '', inputItem.artist || ''));
         }
       }
 
