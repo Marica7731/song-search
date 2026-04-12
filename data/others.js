@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq
-// 生成时间: 4/12/2026, 6:48:32 PM
+// 生成时间: 4/12/2026, 7:46:21 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14803,6 +14803,142 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-04-12 小東ひとな / Hitona Kohigashi Kzr1uUleOuE",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SGDRB8ENQ?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "Laugh away",
+  "artist": "YUI",
+  "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "春を歌にして",
+  "artist": "back number",
+  "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "はなびら",
+  "artist": "back number",
+  "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "青い春",
+  "artist": "back number(キー+4)",
+  "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "冬と春",
+  "artist": "back number(原キー)",
+  "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "怪盗",
+  "artist": "back number(キー+5)",
+  "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "東京の夕焼け",
+  "artist": "back number(キー+4)",
+  "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "ささえる人の歌",
+  "artist": "back number(キー+3)",
+  "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "8ミリフィルム",
+  "artist": "アカシック",
+  "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "サイノロジック",
+  "artist": "アカシック",
+  "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "スターラブレイション",
+  "artist": "ケラケラ",
+  "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "ハナガサイタ",
+  "artist": "aiko",
+  "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "メロンソーダ",
+  "artist": "aiko",
+  "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "紋白蝶 feat.石原慎也",
+  "artist": "東京スカパラダイスオーケストラ",
+  "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "オリビアを聴きながら",
+  "artist": "杏里",
+  "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "赤いスイートピー",
+  "artist": "松田聖子",
+  "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=17",
   "source": "others.js"
 },
     {

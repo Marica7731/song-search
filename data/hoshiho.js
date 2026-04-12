@@ -1,6 +1,6 @@
 // HoshiHo - 歌单数据 (多合集汇总)
 // 来源: BV11fQSB2ELX
-// 生成时间: 4/12/2026, 6:42:02 PM
+// 生成时间: 4/12/2026, 7:39:29 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1027,6 +1027,326 @@ window.SONG_DATA.push(
   "collection": "【🌟💐HoshiHo歌切】[2026-03-29]歌回直播[fG1ugxfO35A]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WzXRBfE8C?p=9",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "檄！帝国華撃団",
+  "artist": "『サクラ大戦シリーズ』真宮寺さくら（横山智佐）＆帝国歌劇団",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=1",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "夢のつづき",
+  "artist": "『サクラ大戦2』帝国歌劇団",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=2",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "御旗のもとに",
+  "artist": "『サクラ大戦3』巴里華撃団",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=3",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "花の巴里",
+  "artist": "『サクラ大戦3』小島幸子(メル・レゾン)、かないみか(シー・カプリス)",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=4",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "涙よ、Au revoir",
+  "artist": "『サクラ大戦 エコール・ド・巴里』日髙 のり子 (エリカ･フォンティーヌ)",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=5",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "愛ゆえに",
+  "artist": "『サクラ大戦』真宮寺さくら(横山智佐)＆マリア・タチバナ(高乃麗)",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=6",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "檄！帝国華撃団＜新章＞",
+  "artist": "『新サクラ大戦』天宮さくら（佐倉綾音）、東雲初穂（内田真礼）、望月あざみ（山村響）、アナスタシア・パルマ（福原綾香）、クラリ",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=7",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "檄！帝～最終章～",
+  "artist": "『サクラ大戦4』大神一郎（陶山章央）・真宮寺さくら（横山智佐）・神崎すみれ（富沢美智恵）・マリア・タチバナ（高乃麗）・アイリス（西",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=8",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "アイデンティティ",
+  "artist": "『落第騎士の英雄譚（キャバルリィ）』酒井ミキオ",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=9",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "ダ・カーポ ～第2ボタンの誓い～",
+  "artist": "『D.C. ～ダ・カーポ～』yozuca*",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=10",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "サクラサクミライコイユメ",
+  "artist": "『D.C. ～ダ・カーポ～』Yozuca*",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=11",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "サクラキミニエム",
+  "artist": "『D.C.ll ～ダ・カーポll～』Yozuca*",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=12",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "サクラ アマネク セカイ(short)",
+  "artist": "『D.C.II S.S. ～ダ・カーポII セカンドシーズン～』Yozuca*",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=13",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "ダ・カーポII ～あさきゆめみし君と～",
+  "artist": "『D.C.ll ～ダ・カーポll～』Yozuca*",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=14",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "ハッピー☆マテリアル",
+  "artist": "『魔法先生ネギま！』麻帆良学園中等部2年A組",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=15",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "7 Girls War",
+  "artist": "『Wake Up, Girls!』Wake Up, Girls!",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=16",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "星のダイアローグ",
+  "artist": "『少女☆歌劇 レヴュースタァライト』スタァライト九九組",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=17",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "晴れ模様",
+  "artist": "『アルテ』安野希世乃",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=18",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "きこえるかしら",
+  "artist": "『赤毛のアン』大和田りつこ",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=19",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "さめない夢",
+  "artist": "『赤毛のアン』大和田りつこ",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=20",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Lost Princess",
+  "artist": "『プリンセスコネクト！Re:Dive』ペコリーヌ(CV:M・A・O)、コッコロ(CV:伊藤美来)、キャル(CV:立花理香",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=21",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "カカカタ☆カタオモイ-C(short)",
+  "artist": "『日常』ヒャダイン",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=22",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "カカカタ☆カタオモイ-C",
+  "artist": "『日常』ヒャダイン",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=23",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "じょーじょーゆーじょー",
+  "artist": "『日常』ヒャダイン",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=24",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Zzz",
+  "artist": "『日常』佐咲紗花",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=25",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "さくらんぼキッス ～爆発だも～ん～",
+  "artist": "『カラフルキッス ～12コの胸キュン!～』KOTOKO",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=26",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "七転八起☆至上主義！",
+  "artist": "『ハヤテのごとく！』KOTOKO",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=27",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "→unfinished→",
+  "artist": "『アクセルワールド』KOTOKO",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=28",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Sparkling Daydream",
+  "artist": "『中二病でも恋がしたい!』ZAQ",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=29",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "徒花ネクロマンシー",
+  "artist": "『ゾンビランドサガ』フランシュシュ",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=30",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Endless Story",
+  "artist": "『C3 -シーキューブ-』田村ゆかり\\",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=31",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Birth",
+  "artist": "『アキハバラ電脳組』奥井雅美",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=32",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "約束はいらない",
+  "artist": "『天空のエスカフローネ』坂本真綾",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=33",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "キミガタメ",
+  "artist": "『うたわれるもの～散りゆく者への子守唄～』Suara",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=34",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Time After Time ～花舞う街で～",
+  "artist": "『名探偵コナン 迷宮の十字路』倉木麻衣",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=35",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Anytime Anywhere",
+  "artist": "『葬送のフリーレン』Milet",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=36",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "未来派Lovers",
+  "artist": "『機動警察パトレイバー』笠原弘子",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=37",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Catch You Catch Me",
+  "artist": "『カードキャプターさくら』グミ",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=38",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "PURE SNOW",
+  "artist": "『火魅子伝』佐々木ゆう子",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=39",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "ナージャ!!",
+  "artist": "『明日のナージャ』本田美奈子",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=40",
   "source": "hoshiho.js"
 }
 );
