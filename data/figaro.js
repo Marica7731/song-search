@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 4/12/2026, 5:29:47 PM
+// 生成时间: 4/12/2026, 6:37:31 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -29027,6 +29027,134 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-04-11]将希望寄予歌声、飞向宇宙💐 Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1u5D1BMEoP?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【💐歌切】#263 [2026-04-12]睡眠导入歌回✨安眠前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xJDRBdEra?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "きみのかみ",
+  "artist": "澤田 空海理",
+  "collection": "【💐歌切】#263 [2026-04-12]睡眠导入歌回✨安眠前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xJDRBdEra?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "しずかだなあ",
+  "artist": "手嶌葵",
+  "collection": "【💐歌切】#263 [2026-04-12]睡眠导入歌回✨安眠前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xJDRBdEra?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "森の小さなレストラン",
+  "artist": "手嶌葵",
+  "collection": "【💐歌切】#263 [2026-04-12]睡眠导入歌回✨安眠前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xJDRBdEra?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "グレゴリオ",
+  "artist": "古川本舗",
+  "collection": "【💐歌切】#263 [2026-04-12]睡眠导入歌回✨安眠前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xJDRBdEra?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】#263 [2026-04-12]睡眠导入歌回✨安眠前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xJDRBdEra?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】#263 [2026-04-12]睡眠导入歌回✨安眠前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xJDRBdEra?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【💐歌切】#263 [2026-04-12]睡眠导入歌回✨安眠前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xJDRBdEra?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【💐歌切】#263 [2026-04-12]睡眠导入歌回✨安眠前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xJDRBdEra?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "orion",
+  "artist": "米津玄師",
+  "collection": "【💐歌切】#263 [2026-04-12]睡眠导入歌回✨安眠前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xJDRBdEra?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "喜劇",
+  "artist": "星野源",
+  "collection": "【💐歌切】#263 [2026-04-12]睡眠导入歌回✨安眠前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xJDRBdEra?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】#263 [2026-04-12]睡眠导入歌回✨安眠前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xJDRBdEra?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "ありあまる富",
+  "artist": "椎名林檎",
+  "collection": "【💐歌切】#263 [2026-04-12]睡眠导入歌回✨安眠前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xJDRBdEra?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師 · 宇多田ヒカル",
+  "collection": "【💐歌切】#263 [2026-04-12]睡眠导入歌回✨安眠前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xJDRBdEra?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "Ghost of a smile",
+  "artist": "EGOIST",
+  "collection": "【💐歌切】#263 [2026-04-12]睡眠导入歌回✨安眠前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xJDRBdEra?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "Dear. Mr「F」",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【💐歌切】#263 [2026-04-12]睡眠导入歌回✨安眠前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xJDRBdEra?p=16",
   "source": "figaro.js"
 }
 );

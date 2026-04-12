@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq
-// 生成时间: 4/12/2026, 5:42:27 PM
+// 生成时间: 4/12/2026, 6:48:32 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2407,7 +2407,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花ハ踊レヤいろはにほ",
-  "artist": "チーム『ハナヤマタ』",
+  "artist": "チーム\"ハナヤマタ\"",
   "collection": "🥖Tencho Ch.  萌水 団 2025-12-26 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R86NBBECr?p=109",
@@ -14723,6 +14723,86 @@ window.SONG_DATA.push(
   "collection": "歌切 2025-12-12 るみなす・すいーと【LUMINOUS Ch】 obDj_cRbmTA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1p7DtBGEfy?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "花ハ踊レヤいろはにほ",
+  "artist": "チーム\"ハナヤマタ\"",
+  "collection": "歌切 2026-04-12 小東ひとな / Hitona Kohigashi Kzr1uUleOuE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SGDRB8ENQ?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "酔いどれ知らず",
+  "artist": "Kanaria",
+  "collection": "歌切 2026-04-12 小東ひとな / Hitona Kohigashi Kzr1uUleOuE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SGDRB8ENQ?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "Love so sweet",
+  "artist": "嵐",
+  "collection": "歌切 2026-04-12 小東ひとな / Hitona Kohigashi Kzr1uUleOuE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SGDRB8ENQ?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "ODDS&ENDS",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "歌切 2026-04-12 小東ひとな / Hitona Kohigashi Kzr1uUleOuE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SGDRB8ENQ?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "Bのリベンジ",
+  "artist": "B小町",
+  "collection": "歌切 2026-04-12 小東ひとな / Hitona Kohigashi Kzr1uUleOuE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SGDRB8ENQ?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "n-buna",
+  "collection": "歌切 2026-04-12 小東ひとな / Hitona Kohigashi Kzr1uUleOuE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SGDRB8ENQ?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ゆるふわ樹海ガール",
+  "artist": "石風呂",
+  "collection": "歌切 2026-04-12 小東ひとな / Hitona Kohigashi Kzr1uUleOuE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SGDRB8ENQ?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-04-12 小東ひとな / Hitona Kohigashi Kzr1uUleOuE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SGDRB8ENQ?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "刹那プラス",
+  "artist": "みきとP",
+  "collection": "歌切 2026-04-12 小東ひとな / Hitona Kohigashi Kzr1uUleOuE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SGDRB8ENQ?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "ルル",
+  "artist": "やくしまるえつこ",
+  "collection": "歌切 2026-04-12 小東ひとな / Hitona Kohigashi Kzr1uUleOuE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SGDRB8ENQ?p=10",
   "source": "others.js"
 },
     {

@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 4/12/2026, 5:31:35 PM
+// 生成时间: 4/12/2026, 6:38:46 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2359,7 +2359,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ルージュの伝言",
-  "artist": "荒井由実",
+  "artist": "松任谷由実",
   "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jM4m1R7xi?p=4",
@@ -2367,7 +2367,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "やさしさに包まれたなら",
-  "artist": "荒井由実",
+  "artist": "松任谷由実",
   "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jM4m1R7xi?p=5",
@@ -2383,7 +2383,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ひこうき雲",
-  "artist": "荒井由実",
+  "artist": "松任谷由実",
   "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jM4m1R7xi?p=7",
@@ -2391,7 +2391,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "rain stops, good-bye",
-  "artist": "坂本真綾",
+  "artist": "におP feat. 初音ミク",
   "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jM4m1R7xi?p=8",
@@ -2399,7 +2399,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "from Y to Y",
-  "artist": "坂本真綾",
+  "artist": "ジミーサムP",
   "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jM4m1R7xi?p=9",
@@ -2407,7 +2407,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "初めての恋が終わる時",
-  "artist": "みきとP feat. 初音ミク",
+  "artist": "ryo(supercell)",
   "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jM4m1R7xi?p=10",
@@ -2415,7 +2415,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "(恋は)百年戦争",
-  "artist": "板野友美",
+  "artist": "相対性理論",
   "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jM4m1R7xi?p=11",
@@ -2423,7 +2423,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ミス・パラレルワールド",
-  "artist": "スピッツ",
+  "artist": "相対性理論",
   "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jM4m1R7xi?p=12",
@@ -2439,7 +2439,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "メロンソーダ",
-  "artist": "ヨルシカ",
+  "artist": "aiko",
   "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jM4m1R7xi?p=14",
@@ -2463,7 +2463,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "朝ごはんの歌",
-  "artist": "スピッツ",
+  "artist": "手嶌葵",
   "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jM4m1R7xi?p=17",
@@ -2471,7 +2471,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アカシア",
-  "artist": "スピッツ",
+  "artist": "BUMP OF CHICKEN",
   "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jM4m1R7xi?p=18",
@@ -2479,7 +2479,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Together",
-  "artist": "S.E.S. (日本版カバー: 浜崎あゆみ)",
+  "artist": "あきよしふみえ",
   "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jM4m1R7xi?p=19",
@@ -2511,7 +2511,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花ハ踊レヤいろはにほ",
-  "artist": "DECO*27",
+  "artist": "チーム\"ハナヤマタ\"",
   "collection": "[2024-03-23] 稀羽すう/Re:AcT 23首 午餐时间歌声直播🍝轻松愉快",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jM4m1R7xi?p=23",
@@ -11575,7 +11575,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花ハ踊レヤいろはにほ",
-  "artist": "チームハナヤマタ",
+  "artist": "チーム\"ハナヤマタ\"",
   "collection": "【 稀羽すう / Re:AcT 】水曜定期歌枠  #101【 #歌枠 / KARAOKE 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1s6QKYhE3D?p=12",
@@ -14375,7 +14375,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花ハ踊レヤいろはにほ",
-  "artist": "チーム“ハナヤマタ”",
+  "artist": "チーム\"ハナヤマタ\"",
   "collection": "【 #歌枠 / KARAOKE 】今日がいい日になりますように。ゲリラで歌います！【 稀羽すう / Re:AcT 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pGKpzNEce?p=22",
