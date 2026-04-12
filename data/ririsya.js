@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 4/12/2026, 1:32:29 AM
+// 生成时间: 4/12/2026, 4:43:45 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14707,6 +14707,46 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-04-06]Hanami🌸赏樱歌回 ✧ 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11iSoBZEmU?p=17",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Plazma",
+  "artist": "米津玄師",
+  "collection": "【🐍歌切】[2026-04-11]带来如黑洞般吸引人的歌曲 ✧ 闭幕式歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JqDmBcEQW?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Os-宇宙人",
+  "artist": "エリオをかまってちゃん",
+  "collection": "【🐍歌切】[2026-04-11]带来如黑洞般吸引人的歌曲 ✧ 闭幕式歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JqDmBcEQW?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "流星群",
+  "artist": "鬼束ちひろ",
+  "collection": "【🐍歌切】[2026-04-11]带来如黑洞般吸引人的歌曲 ✧ 闭幕式歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JqDmBcEQW?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Re,Future",
+  "artist": "凛々咲",
+  "collection": "【🐍歌切】[2026-04-11]带来如黑洞般吸引人的歌曲 ✧ 闭幕式歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JqDmBcEQW?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "星が瞬くこんな夜に",
+  "artist": "ryo(supercell)",
+  "collection": "【🐍歌切】[2026-04-11]带来如黑洞般吸引人的歌曲 ✧ 闭幕式歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JqDmBcEQW?p=5",
   "source": "ririsya.js"
 }
 );

@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 4/12/2026, 1:33:42 AM
+// 生成时间: 4/12/2026, 4:45:17 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -30227,6 +30227,166 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-04-11]初見さん歓迎！深夜だよみんな集合！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JYQKB1EKt?p=24",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "collection": "【🍠🦍歌切】[2026-04-12]初見さん歓迎！みんないらっしゃい！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14VDDB5ENk?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-04-12]初見さん歓迎！みんないらっしゃい！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14VDDB5ENk?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【🍠🦍歌切】[2026-04-12]初見さん歓迎！みんないらっしゃい！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14VDDB5ENk?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "TOMORROW",
+  "artist": "岡本真夜",
+  "collection": "【🍠🦍歌切】[2026-04-12]初見さん歓迎！みんないらっしゃい！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14VDDB5ENk?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "中島愛",
+  "collection": "【🍠🦍歌切】[2026-04-12]初見さん歓迎！みんないらっしゃい！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14VDDB5ENk?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ケロッ!とマーチ",
+  "artist": "角田信明&いはたじゅり",
+  "collection": "【🍠🦍歌切】[2026-04-12]初見さん歓迎！みんないらっしゃい！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14VDDB5ENk?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "キミがいれば",
+  "artist": "いおり",
+  "collection": "【🍠🦍歌切】[2026-04-12]初見さん歓迎！みんないらっしゃい！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14VDDB5ENk?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "一度だけの恋なら",
+  "artist": "ワルキューレ",
+  "collection": "【🍠🦍歌切】[2026-04-12]初見さん歓迎！みんないらっしゃい！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14VDDB5ENk?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "COLORS",
+  "artist": "FLOW",
+  "collection": "【🍠🦍歌切】[2026-04-12]初見さん歓迎！みんないらっしゃい！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14VDDB5ENk?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "十六夜涙",
+  "artist": "吉岡亜衣加",
+  "collection": "【🍠🦍歌切】[2026-04-12]初見さん歓迎！みんないらっしゃい！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14VDDB5ENk?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Star Divine",
+  "artist": "スタァライト九九組",
+  "collection": "【🍠🦍歌切】[2026-04-12]初見さん歓迎！みんないらっしゃい！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14VDDB5ENk?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "異邦人",
+  "artist": "久保田早紀",
+  "collection": "【🍠🦍歌切】[2026-04-12]初見さん歓迎！みんないらっしゃい！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14VDDB5ENk?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "朧月夜～祈り",
+  "artist": "中島美嘉",
+  "collection": "【🍠🦍歌切】[2026-04-12]初見さん歓迎！みんないらっしゃい！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14VDDB5ENk?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "君をのせて",
+  "artist": "井上あずみ",
+  "collection": "【🍠🦍歌切】[2026-04-12]初見さん歓迎！みんないらっしゃい！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14VDDB5ENk?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Go!!!",
+  "artist": "FLOW",
+  "collection": "【🍠🦍歌切】[2026-04-12]初見さん歓迎！みんないらっしゃい！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14VDDB5ENk?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Soranji",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍠🦍歌切】[2026-04-12]初見さん歓迎！みんないらっしゃい！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14VDDB5ENk?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Happiness",
+  "artist": "嵐",
+  "collection": "【🍠🦍歌切】[2026-04-12]初見さん歓迎！みんないらっしゃい！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14VDDB5ENk?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Diamonds",
+  "artist": "プリンセス プリンセス",
+  "collection": "【🍠🦍歌切】[2026-04-12]初見さん歓迎！みんないらっしゃい！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14VDDB5ENk?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao",
+  "collection": "【🍠🦍歌切】[2026-04-12]初見さん歓迎！みんないらっしゃい！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14VDDB5ENk?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "【🍠🦍歌切】[2026-04-12]初見さん歓迎！みんないらっしゃい！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14VDDB5ENk?p=20",
   "source": "yoshika.js"
 }
 );
