@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 4/12/2026, 11:34:55 PM
+// 生成时间: 4/13/2026, 1:55:35 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -294,8 +294,8 @@ window.SONG_DATA.push(
   "source": "sumica.js"
 },
     {
-  "title": "澄花原创- 澄花",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "澄花原创",
+  "artist": "澄花",
   "collection": "【歌切】[2026-03-21]想用吉他弹唱陪伴你的夜晚𓈒𓏸︎︎︎︎ -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1q1D4BPEfK?p=17",
@@ -1083,6 +1083,190 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-04-07]春假最后😭尽情享受歌唱吧～‼️🔥 -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12DDzBEEy8?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "笑顔",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-03-07]生日歌回｜我长大啦‼️用弹唱来庆祝生日～⟡.·* . -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g4QxBHEPK?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "コイワズライ",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-03-07]生日歌回｜我长大啦‼️用弹唱来庆祝生日～⟡.·* . -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g4QxBHEPK?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "☆たすかる",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【歌切】[2026-03-07]生日歌回｜我长大啦‼️用弹唱来庆祝生日～⟡.·* . -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g4QxBHEPK?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "ベーコンエピ",
+  "artist": "TOMOO",
+  "collection": "【歌切】[2026-03-07]生日歌回｜我长大啦‼️用弹唱来庆祝生日～⟡.·* . -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g4QxBHEPK?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-03-07]生日歌回｜我长大啦‼️用弹唱来庆祝生日～⟡.·* . -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g4QxBHEPK?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "Booo！",
+  "artist": "TOKOTOKO(西沢さんP)",
+  "collection": "【歌切】[2026-03-07]生日歌回｜我长大啦‼️用弹唱来庆祝生日～⟡.·* . -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g4QxBHEPK?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "センス・オブ・ワンダー",
+  "artist": "sumika",
+  "collection": "【歌切】[2026-03-07]生日歌回｜我长大啦‼️用弹唱来庆祝生日～⟡.·* . -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g4QxBHEPK?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "コイスルオトメ",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-03-07]生日歌回｜我长大啦‼️用弹唱来庆祝生日～⟡.·* . -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g4QxBHEPK?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "TOKOTOKO(西沢さんP)",
+  "collection": "【歌切】[2026-03-07]生日歌回｜我长大啦‼️用弹唱来庆祝生日～⟡.·* . -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g4QxBHEPK?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "KissHug",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-03-07]生日歌回｜我长大啦‼️用弹唱来庆祝生日～⟡.·* . -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g4QxBHEPK?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "失恋ソングを歌ったあとに",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-03-07]生日歌回｜我长大啦‼️用弹唱来庆祝生日～⟡.·* . -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g4QxBHEPK?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "ちょっと待って！",
+  "artist": "澄花",
+  "collection": "【歌切】[2026-03-07]生日歌回｜我长大啦‼️用弹唱来庆祝生日～⟡.·* . -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g4QxBHEPK?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "泣き虫上等",
+  "artist": "澄花",
+  "collection": "【歌切】[2026-03-07]生日歌回｜我长大啦‼️用弹唱来庆祝生日～⟡.·* . -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g4QxBHEPK?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "きにぴ",
+  "artist": "澄花",
+  "collection": "【歌切】[2026-03-07]生日歌回｜我长大啦‼️用弹唱来庆祝生日～⟡.·* . -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g4QxBHEPK?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "卒業ソング",
+  "artist": "おつすみかー",
+  "collection": "【歌切】[2026-03-05]满怀毕业（主题）祝福与怀念之情！温暖又感伤的弹唱✉️ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhQxBUEFt?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "ハルカ",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-03-05]满怀毕业（主题）祝福与怀念之情！温暖又感伤的弹唱✉️ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhQxBUEFt?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "YELL",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-03-05]满怀毕业（主题）祝福与怀念之情！温暖又感伤的弹唱✉️ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhQxBUEFt?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "光るとき",
+  "artist": "羊文学",
+  "collection": "【歌切】[2026-03-05]满怀毕业（主题）祝福与怀念之情！温暖又感伤的弹唱✉️ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhQxBUEFt?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "未来予想図 II",
+  "artist": "DREAMS COME TRUE",
+  "collection": "【歌切】[2026-03-05]满怀毕业（主题）祝福与怀念之情！温暖又感伤的弹唱✉️ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhQxBUEFt?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "栞",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-03-05]满怀毕业（主题）祝福与怀念之情！温暖又感伤的弹唱✉️ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhQxBUEFt?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "奏",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-03-05]满怀毕业（主题）祝福与怀念之情！温暖又感伤的弹唱✉️ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhQxBUEFt?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "手紙 〜拝啓 十五の君へ〜",
+  "artist": "アンジェラ・アキ",
+  "collection": "【歌切】[2026-03-05]满怀毕业（主题）祝福与怀念之情！温暖又感伤的弹唱✉️ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhQxBUEFt?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "正解",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-03-05]满怀毕业（主题）祝福与怀念之情！温暖又感伤的弹唱✉️ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhQxBUEFt?p=9",
   "source": "sumica.js"
 }
 );
