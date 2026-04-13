@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq
-// 生成时间: 4/13/2026, 1:58:44 AM
+// 生成时间: 4/13/2026, 5:04:06 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14939,6 +14939,278 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "マジックナンバー",
+  "artist": "坂本真綾",
+  "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "うちゅうひこうしのうた",
+  "artist": "坂本真綾",
+  "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "異邦人",
+  "artist": "久米小百合",
+  "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "to U",
+  "artist": "Bank Band with Salyu",
+  "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "スピラーレ",
+  "artist": "牧野由依",
+  "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "蒼のエーテル",
+  "artist": "坂本真綾",
+  "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "劇",
+  "artist": "wacci",
+  "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "フリージア",
+  "artist": "Uru",
+  "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "プロローグ",
+  "artist": "Uru",
+  "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "水平線",
+  "artist": "back number",
+  "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
+  "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "炎のたからもの",
+  "artist": "ボビー",
+  "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "わたがし",
+  "artist": "back number",
+  "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "愛のさざなみ",
+  "artist": "島倉千代子",
+  "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "瞬き",
+  "artist": "back number",
+  "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "別の人の彼女になったよ",
+  "artist": "wacci",
+  "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "いぬのおまわりさん",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "おもいでのアルバム",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "COSMOS",
+  "artist": "合唱曲",
+  "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "夜の歌",
+  "artist": "大道寺知世(岩男潤子)",
+  "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "花数え",
+  "artist": "新居昭乃",
+  "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "ハッピーエンド",
+  "artist": "back number",
+  "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "奏",
+  "artist": "スキマスイッチ",
+  "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "One more time, One more chance",
+  "artist": "山崎まさよし",
+  "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "くだらないの中に",
+  "artist": "星野源",
+  "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "色彩のブルース",
+  "artist": "EGO-WRAPPIN'",
+  "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=27",
+  "source": "others.js"
+},
+    {
+  "title": "さようなら、花泥棒さん",
+  "artist": "初音ミク(メル)",
+  "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=28",
+  "source": "others.js"
+},
+    {
+  "title": "翡翠のまち",
+  "artist": "初音ミク(メル)",
+  "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=29",
+  "source": "others.js"
+},
+    {
+  "title": "ひこうき雲",
+  "artist": "松任谷由実",
+  "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=30",
+  "source": "others.js"
+},
+    {
+  "title": "フクロウ ～フクロウが知らせる客が来たと～",
+  "artist": "KOKIA",
+  "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=31",
+  "source": "others.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=32",
+  "source": "others.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=33",
+  "source": "others.js"
+},
+    {
+  "title": "遥かなロンド",
+  "artist": "新居昭乃",
+  "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=34",
   "source": "others.js"
 },
     {

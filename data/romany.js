@@ -1,6 +1,6 @@
 // ロマニ - 歌单数据 (多合集汇总)
 // 来源: BV1KHXxBUErU, BV1iHQXBzEgU
-// 生成时间: 4/13/2026, 1:56:10 AM
+// 生成时间: 4/13/2026, 5:00:59 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -755,6 +755,102 @@ window.SONG_DATA.push(
   "collection": "【ロマニ🎸弾き語り歌切】[2026-04-05]周日惯例歌回──✦夜晚用歌声和吉他放松🌙𓂃𝄞ロマニードットアイオー / ROMANY. io",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QESRBaE6g?p=13",
+  "source": "romany.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-12]4月12日 星期日 惯例歌回——✦喜欢安静的夜晚🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pPQxBTEpH?p=1",
+  "source": "romany.js"
+},
+    {
+  "title": "ミッドナイト・リフレクション",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-12]4月12日 星期日 惯例歌回——✦喜欢安静的夜晚🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pPQxBTEpH?p=2",
+  "source": "romany.js"
+},
+    {
+  "title": "Sunday n\"AI\"ght",
+  "artist": "ロマニードットアイオー with BT",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-12]4月12日 星期日 惯例歌回——✦喜欢安静的夜晚🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pPQxBTEpH?p=3",
+  "source": "romany.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-12]4月12日 星期日 惯例歌回——✦喜欢安静的夜晚🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pPQxBTEpH?p=4",
+  "source": "romany.js"
+},
+    {
+  "title": "月光浴",
+  "artist": "ヨルシカ",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-12]4月12日 星期日 惯例歌回——✦喜欢安静的夜晚🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pPQxBTEpH?p=5",
+  "source": "romany.js"
+},
+    {
+  "title": "晚餐歌",
+  "artist": "tuki.",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-12]4月12日 星期日 惯例歌回——✦喜欢安静的夜晚🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pPQxBTEpH?p=6",
+  "source": "romany.js"
+},
+    {
+  "title": "レイメイ",
+  "artist": "酸欠少女さユり×MY FIRST STORY",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-12]4月12日 星期日 惯例歌回——✦喜欢安静的夜晚🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pPQxBTEpH?p=7",
+  "source": "romany.js"
+},
+    {
+  "title": "TOKYO",
+  "artist": "YUI",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-12]4月12日 星期日 惯例歌回——✦喜欢安静的夜晚🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pPQxBTEpH?p=8",
+  "source": "romany.js"
+},
+    {
+  "title": "Good-bye days",
+  "artist": "YUI for 雨音薫",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-12]4月12日 星期日 惯例歌回——✦喜欢安静的夜晚🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pPQxBTEpH?p=9",
+  "source": "romany.js"
+},
+    {
+  "title": "やさしさに包まれたなら",
+  "artist": "荒井由実",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-12]4月12日 星期日 惯例歌回——✦喜欢安静的夜晚🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pPQxBTEpH?p=10",
+  "source": "romany.js"
+},
+    {
+  "title": "春",
+  "artist": "阿部真央",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-12]4月12日 星期日 惯例歌回——✦喜欢安静的夜晚🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pPQxBTEpH?p=11",
+  "source": "romany.js"
+},
+    {
+  "title": "イキナクチャ",
+  "artist": "ロマニードットアイオー",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-12]4月12日 星期日 惯例歌回——✦喜欢安静的夜晚🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pPQxBTEpH?p=12",
   "source": "romany.js"
 }
 );
