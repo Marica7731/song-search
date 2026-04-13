@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 4/13/2026, 5:54:04 PM
+// 生成时间: 4/13/2026, 7:02:30 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2587,6 +2587,70 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-04-10]用评论炒热气氛!! 限定123歌曲的歌回🍁✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EYQKB1EyC?p=15",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "にんげんっていいな",
+  "artist": "中嶋義実",
+  "collection": "【🍁歌切】[2026-04-13]早晨的陪伴，来一场悠闲的闲聊与歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pgQ8BUEyi?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ニア",
+  "artist": "夏代孝明",
+  "collection": "【🍁歌切】[2026-04-13]早晨的陪伴，来一场悠闲的闲聊与歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pgQ8BUEyi?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "アンドロイドガール",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-04-13]早晨的陪伴，来一场悠闲的闲聊与歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pgQ8BUEyi?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "モザイクロール Reloaded",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-04-13]早晨的陪伴，来一场悠闲的闲聊与歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pgQ8BUEyi?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ジレンマ",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-04-13]早晨的陪伴，来一场悠闲的闲聊与歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pgQ8BUEyi?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ハッピーラッキーチャッピー",
+  "artist": "ano",
+  "collection": "【🍁歌切】[2026-04-13]早晨的陪伴，来一场悠闲的闲聊与歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pgQ8BUEyi?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ケセラセラ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍁歌切】[2026-04-13]早晨的陪伴，来一场悠闲的闲聊与歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pgQ8BUEyi?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "天国",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍁歌切】[2026-04-13]早晨的陪伴，来一场悠闲的闲聊与歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pgQ8BUEyi?p=8",
   "source": "momijimaru.js"
 }
 );
