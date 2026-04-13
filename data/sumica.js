@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 4/13/2026, 5:00:01 AM
+// 生成时间: 4/13/2026, 7:17:30 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -78,24 +78,24 @@ window.SONG_DATA.push(
   "source": "sumica.js"
 },
     {
-  "title": "笑顔",
-  "artist": "いきものがかり",
+  "title": "きにぴ",
+  "artist": "澄花",
   "collection": "【歌切】[2026-03-07]生日歌回｜我长大啦‼️用弹唱来庆祝生日～⟡.·* . -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1g4QxBHEPK?p=1",
   "source": "sumica.js"
 },
     {
-  "title": "コイワズライ",
-  "artist": "Aimer",
+  "title": "笑顔",
+  "artist": "いきものがかり",
   "collection": "【歌切】[2026-03-07]生日歌回｜我长大啦‼️用弹唱来庆祝生日～⟡.·* . -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1g4QxBHEPK?p=2",
   "source": "sumica.js"
 },
     {
-  "title": "☆たすかる",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "コイワズライ",
+  "artist": "Aimer",
   "collection": "【歌切】[2026-03-07]生日歌回｜我长大啦‼️用弹唱来庆祝生日～⟡.·* . -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1g4QxBHEPK?p=3",
