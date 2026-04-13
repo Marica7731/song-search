@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 4/13/2026, 7:09:49 PM
+// 生成时间: 4/13/2026, 8:53:35 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1699,6 +1699,142 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-04-12]与春日暖阳一同温暖心灵的弹唱歌回～🌞 -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1c1QxBuEnn?p=19",
+  "source": "sumica.js"
+},
+    {
+  "title": "more than words",
+  "artist": "羊文学",
+  "collection": "【歌切】[2026-04-13]随心唱会儿歌～稍微休息一下吧～𓈒𓏸 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aaQ8BeEAv?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "ブルーベリー・ナイツ",
+  "artist": "マカロニえんぴつ",
+  "collection": "【歌切】[2026-04-13]随心唱会儿歌～稍微休息一下吧～𓈒𓏸 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aaQ8BeEAv?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "恋人ごっこ",
+  "artist": "マカロニえんぴつ",
+  "collection": "【歌切】[2026-04-13]随心唱会儿歌～稍微休息一下吧～𓈒𓏸 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aaQ8BeEAv?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "キミソラキセキ",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-04-13]随心唱会儿歌～稍微休息一下吧～𓈒𓏸 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aaQ8BeEAv?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【歌切】[2026-04-13]随心唱会儿歌～稍微休息一下吧～𓈒𓏸 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aaQ8BeEAv?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "KEMU VOXX",
+  "collection": "【歌切】[2026-04-13]随心唱会儿歌～稍微休息一下吧～𓈒𓏸 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aaQ8BeEAv?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "雨晴るる",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-13]随心唱会儿歌～稍微休息一下吧～𓈒𓏸 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aaQ8BeEAv?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "桜の子",
+  "artist": "カンザキイオリ",
+  "collection": "【歌切】[2026-04-13]随心唱会儿歌～稍微休息一下吧～𓈒𓏸 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aaQ8BeEAv?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "右手のネイル",
+  "artist": "とた",
+  "collection": "【歌切】[2026-04-13]随心唱会儿歌～稍微休息一下吧～𓈒𓏸 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aaQ8BeEAv?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "pink",
+  "artist": "シャイトープ",
+  "collection": "【歌切】[2026-04-13]随心唱会儿歌～稍微休息一下吧～𓈒𓏸 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aaQ8BeEAv?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【歌切】[2026-04-13]随心唱会儿歌～稍微休息一下吧～𓈒𓏸 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aaQ8BeEAv?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-13]随心唱会儿歌～稍微休息一下吧～𓈒𓏸 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aaQ8BeEAv?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "I LOVE YOU",
+  "artist": "クリス・ハート",
+  "collection": "【歌切】[2026-04-13]随心唱会儿歌～稍微休息一下吧～𓈒𓏸 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aaQ8BeEAv?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "メルト",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-04-13]随心唱会儿歌～稍微休息一下吧～𓈒𓏸 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aaQ8BeEAv?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "桃源郷",
+  "artist": "シャイトープ",
+  "collection": "【歌切】[2026-04-13]随心唱会儿歌～稍微休息一下吧～𓈒𓏸 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aaQ8BeEAv?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "君とインドカレー",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-04-13]随心唱会儿歌～稍微休息一下吧～𓈒𓏸 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aaQ8BeEAv?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "一日惚れ",
+  "artist": "澄花",
+  "collection": "【歌切】[2026-04-13]随心唱会儿歌～稍微休息一下吧～𓈒𓏸 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aaQ8BeEAv?p=17",
   "source": "sumica.js"
 }
 );
