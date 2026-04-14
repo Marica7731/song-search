@@ -847,13 +847,13 @@
         </div>
 
         <div class="search-container">
-            <input type="text" id="search-input" placeholder='输入关键词搜索...（支持 "精确匹配" AND OR 语法）'>
-            <select id="sort-select" class="sort-select">
+            <input type="text" id="search-input" placeholder='输入关键词搜索...（支持 "精确匹配" AND OR 语法）' disabled>
+            <select id="sort-select" class="sort-select" disabled>
                 <option value="pubdate_desc" selected>发布时间：新到旧</option>
                 <option value="pubdate_asc">发布时间：旧到新</option>
                 <option value="original">原始顺序</option>
             </select>
-            <button id="search-btn">搜索</button>
+            <button id="search-btn" disabled>搜索</button>
         </div>
         
         <div class="search-tips">
@@ -880,7 +880,7 @@
     </div>
 
 
-    <div class="progress-msg" id="progress-msg">正在并行加载歌库，请稍候...</div>
+    <div class="progress-msg" id="progress-msg">正在加载完整歌库，请稍候...</div>
     <div class="empty-msg" id="empty-msg">未找到匹配的歌曲</div>
     <ul id="song-list"></ul>
     <div class="pagination" id="pagination"></div>
@@ -905,6 +905,42 @@
         let currentSearchMeta = null;
         let bootstrapTotalSongs = 0;
         let bootstrapTotalUnique = 0;
+
+        function setSearchReadyState(ready, message = '') {
+            const searchInput = document.getElementById('search-input');
+            const searchBtn = document.getElementById('search-btn');
+            const sortSelect = document.getElementById('sort-select');
+            const copyAllBtn = document.getElementById('copy-all-btn');
+            const progressMsg = document.getElementById('progress-msg');
+            const fieldCheckboxes = [
+                document.getElementById('search-title'),
+                document.getElementById('search-artist'),
+                document.getElementById('search-collection'),
+                document.getElementById('search-source'),
+                document.getElementById('search-bvid'),
+                document.getElementById('search-pubdate')
+            ];
+
+            if (searchInput) {
+                searchInput.disabled = !ready;
+                if (!ready) {
+                    searchInput.placeholder = '歌库加载中，请稍候...';
+                } else {
+                    searchInput.placeholder = '输入关键词搜索...（支持 "精确匹配" AND OR 语法）';
+                }
+            }
+            if (searchBtn) searchBtn.disabled = !ready;
+            if (sortSelect) sortSelect.disabled = !ready;
+            if (copyAllBtn) copyAllBtn.disabled = !ready || filteredBySearch.length === 0;
+            fieldCheckboxes.forEach(cb => {
+                if (cb) cb.disabled = !ready;
+            });
+
+            if (progressMsg && message) {
+                progressMsg.className = 'progress-msg';
+                progressMsg.textContent = message;
+            }
+        }
 
         function showCopyToast() {
             const toast = document.getElementById('copy-toast');
@@ -1851,21 +1887,25 @@
             const searchInput = document.getElementById('search-input');
             const searchBtn = document.getElementById('search-btn');
             const sortSelect = document.getElementById('sort-select');
+            let searchTimer = null;
+
+            const triggerSearchNow = () => {
+                clearTimeout(searchTimer);
+                currentPage = 1;
+                updateFilterAndSearch();
+            };
 
             searchInput.addEventListener('keydown', (e) => {
                 if (e.key === 'Enter' || e.keyCode === 13) {
                     e.preventDefault();
-                    currentPage = 1;
-                    updateFilterAndSearch();
+                    triggerSearchNow();
                 }
             });
 
             searchBtn.addEventListener('click', () => {
-                currentPage = 1;
-                updateFilterAndSearch();
+                triggerSearchNow();
             });
 
-            let searchTimer = null;
             searchInput.addEventListener('input', () => {
                 clearTimeout(searchTimer);
                 searchTimer = setTimeout(() => {
@@ -1893,33 +1933,29 @@
         async function bootstrap() {
             try {
                 const progressMsg = document.getElementById('progress-msg');
+                setSearchReadyState(false, '正在加载完整歌库，请稍候...');
                 try {
-                    const apiRes = await fetch('/api/bootstrap');
-                    if (!apiRes.ok) throw new Error(`API 启动信息加载失败（状态码：${apiRes.status}）`);
-                    const apiConfig = await apiRes.json();
-                    isApiMode = apiConfig.mode === 'api';
-                    if (!isApiMode) throw new Error('API 模式不可用');
+                    const apiRes = await fetch('/api/all-songs?source=all');
+                    if (!apiRes.ok) throw new Error(`完整歌库加载失败（状态码：${apiRes.status}）`);
+                    const apiData = await apiRes.json();
+                    const apiItems = Array.isArray(apiData.items) ? apiData.items : [];
+                    if (apiItems.length === 0) throw new Error('服务端未返回歌库数据');
 
-                    fileNames.push(...(apiConfig.files || []));
-                    FILE_TO_ALIAS = apiConfig.fileToAlias || {};
-                    SOURCE_STATS = apiConfig.sourceStats || {};
-                    bootstrapTotalSongs = apiConfig.totalSongs || 0;
-                    bootstrapTotalUnique = apiConfig.totalUnique || 0;
-                    progressMsg.textContent = `✅ 服务端歌库已就绪，总歌曲数：${apiConfig.totalSongs || 0}`;
+                    fileNames.push(...(apiData.files || []));
+                    FILE_TO_ALIAS = apiData.fileToAlias || {};
+                    SOURCE_STATS = apiData.sourceStats || {};
+                    originalData = apiItems;
+                    bootstrapTotalSongs = apiData.total || originalData.length;
+                    bootstrapTotalUnique = apiData.totalUnique || getUniqueSongCount(originalData);
+                    progressMsg.textContent = `✅ 服务端完整歌库已加载，总歌曲数：${bootstrapTotalSongs}`;
                     filteredBySource = [];
                     filteredBySearch = [];
-                    currentSearchMeta = {
-                        summary: {
-                            totalSongs: apiConfig.totalSongs || 0,
-                            totalUnique: apiConfig.totalUnique || 0,
-                            filteredBySourceCount: apiConfig.totalSongs || 0,
-                            filteredBySourceUnique: apiConfig.totalUnique || 0,
-                            searchCount: 0,
-                            searchUnique: 0
-                        }
-                    };
+                    currentSearchMeta = null;
+                    isApiMode = false;
+                    filteredBySource = [...originalData];
+                    filteredBySearch = [...originalData];
                 } catch (apiError) {
-                    console.warn('API 模式不可用，回退到静态模式：', apiError);
+                    console.warn('完整歌库接口不可用，回退到静态模式：', apiError);
                     isApiMode = false;
 
                     const res = await fetch('data/index.json');
@@ -1946,18 +1982,16 @@
                 initSearchFieldCheckboxes();
                 initSearch();
                 document.getElementById('copy-all-btn').addEventListener('click', copyAllSearchResults);
+                setSearchReadyState(true, progressMsg.textContent);
                 updateStats();
-                if (isApiMode) {
-                    await updateFilterAndSearch();
-                } else {
-                    renderSongList(filteredBySearch);
-                }
+                renderSongList(filteredBySearch);
 
             } catch (error) {
                 console.error('❌ 启动失败：', error);
                 const progressMsg = document.getElementById('progress-msg');
                 progressMsg.className = 'progress-msg error-msg';
                 progressMsg.textContent = `❌ 加载失败：${error.message}`;
+                setSearchReadyState(false);
             }
         }
 
