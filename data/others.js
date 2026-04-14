@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq
-// 生成时间: 4/14/2026, 6:11:21 PM
+// 生成时间: 4/14/2026, 7:24:51 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9251,6 +9251,206 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-03-30 深影 - Mikage - zyskOcAFn5U",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12mQ3B6EpP?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "命に嫌われている。",
+  "artist": "カンザキイオリ",
+  "collection": "歌切 2026-04-12 深影 - Mikage - BRrPe483aX0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGQ5BwEo4?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "TOKOTOKO",
+  "collection": "歌切 2026-04-12 深影 - Mikage - BRrPe483aX0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGQ5BwEo4?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "歌切 2026-04-12 深影 - Mikage - BRrPe483aX0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGQ5BwEo4?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "アイ",
+  "artist": "秦基博",
+  "collection": "歌切 2026-04-12 深影 - Mikage - BRrPe483aX0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGQ5BwEo4?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "歌切 2026-04-12 深影 - Mikage - BRrPe483aX0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGQ5BwEo4?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "Departures ～あなたにおくるアイの歌～",
+  "artist": "EGOIST",
+  "collection": "歌切 2026-04-12 深影 - Mikage - BRrPe483aX0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGQ5BwEo4?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "蝶々結び",
+  "artist": "Aimer",
+  "collection": "歌切 2026-04-12 深影 - Mikage - BRrPe483aX0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGQ5BwEo4?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "歌切 2026-04-12 深影 - Mikage - BRrPe483aX0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGQ5BwEo4?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "アヤノの幸福理論",
+  "artist": "じん",
+  "collection": "歌切 2026-04-12 深影 - Mikage - BRrPe483aX0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGQ5BwEo4?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "タイムマシン",
+  "artist": "1640mP",
+  "collection": "歌切 2026-04-12 深影 - Mikage - BRrPe483aX0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGQ5BwEo4?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "高嶺の花子さん",
+  "artist": "back number",
+  "collection": "歌切 2026-04-09 深影 - Mikage - q3MI_sefbmg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u1QVBDEKy?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP",
+  "collection": "歌切 2026-04-09 深影 - Mikage - q3MI_sefbmg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u1QVBDEKy?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP",
+  "collection": "歌切 2026-04-09 深影 - Mikage - q3MI_sefbmg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u1QVBDEKy?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "Soranji",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "歌切 2026-04-09 深影 - Mikage - q3MI_sefbmg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u1QVBDEKy?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "1991",
+  "artist": "米津玄師",
+  "collection": "歌切 2026-04-09 深影 - Mikage - q3MI_sefbmg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u1QVBDEKy?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "ブラック★ロックシューター",
+  "artist": "supercell",
+  "collection": "歌切 2026-04-09 深影 - Mikage - q3MI_sefbmg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u1QVBDEKy?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "星の唄",
+  "artist": "buzzG",
+  "collection": "歌切 2026-04-09 深影 - Mikage - q3MI_sefbmg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u1QVBDEKy?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "Oz.",
+  "artist": "yama",
+  "collection": "歌切 2026-04-09 深影 - Mikage - q3MI_sefbmg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u1QVBDEKy?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "Ghost of a smile",
+  "artist": "EGOIST",
+  "collection": "歌切 2026-04-09 深影 - Mikage - q3MI_sefbmg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u1QVBDEKy?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-04-09 深影 - Mikage - q3MI_sefbmg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u1QVBDEKy?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna",
+  "collection": "歌切 2026-04-09 深影 - Mikage - q3MI_sefbmg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u1QVBDEKy?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P",
+  "collection": "歌切 2026-04-09 深影 - Mikage - q3MI_sefbmg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u1QVBDEKy?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "月光",
+  "artist": "鬼束ちひろ",
+  "collection": "歌切 2026-04-09 深影 - Mikage - q3MI_sefbmg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u1QVBDEKy?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "異邦人",
+  "artist": "久保田早紀",
+  "collection": "歌切 2026-04-09 深影 - Mikage - q3MI_sefbmg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u1QVBDEKy?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-04-09 深影 - Mikage - q3MI_sefbmg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u1QVBDEKy?p=15",
   "source": "others.js"
 },
     {

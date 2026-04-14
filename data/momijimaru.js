@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 4/14/2026, 5:59:34 PM
+// 生成时间: 4/14/2026, 7:11:26 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2651,6 +2651,62 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-04-13]早晨的陪伴，来一场悠闲的闲聊与歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pgQ8BUEyi?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "僕のこと",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍁歌切】[2026-04-14]早晨的陪伴，来一起悠闲聊天与歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1apQ5BsELh?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "さくら 独唱",
+  "artist": "森山直太朗",
+  "collection": "【🍁歌切】[2026-04-14]早晨的陪伴，来一起悠闲聊天与歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1apQ5BsELh?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "桜が降る夜は",
+  "artist": "あいみょん",
+  "collection": "【🍁歌切】[2026-04-14]早晨的陪伴，来一起悠闲聊天与歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1apQ5BsELh?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "daze",
+  "artist": "じん feat. メイリア from GARNiDELiA",
+  "collection": "【🍁歌切】[2026-04-14]早晨的陪伴，来一起悠闲聊天与歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1apQ5BsELh?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ナンセンス",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-04-14]早晨的陪伴，来一起悠闲聊天与歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1apQ5BsELh?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "一難",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-04-14]早晨的陪伴，来一起悠闲聊天与歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1apQ5BsELh?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "フィナーレ。",
+  "artist": "eill",
+  "collection": "【🍁歌切】[2026-04-14]早晨的陪伴，来一起悠闲聊天与歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1apQ5BsELh?p=7",
   "source": "momijimaru.js"
 }
 );
