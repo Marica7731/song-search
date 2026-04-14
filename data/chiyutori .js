@@ -1,6 +1,6 @@
 // 知悠 - 歌单数据 (多合集汇总)
 // 来源: BV1owcoz3Ekw
-// 生成时间: 4/14/2026, 7:10:54 PM
+// 生成时间: 4/14/2026, 8:43:38 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2047,15 +2047,15 @@ window.SONG_DATA.push(
 },
     {
   "title": "キミがいれば",
-  "artist": "伊織（カズーver）",
+  "artist": "いおり",
   "collection": "【歌切】[2026-04-13]陪你悠闲唱歌到清晨～ 献给失眠的你 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16PQ5BqEFv?p=2",
   "source": "chiyutori .js"
 },
     {
-  "title": "ルパン三世のテーマ（カズー他ver）",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ルパン三世のテーマ",
+  "artist": "大野雄二",
   "collection": "【歌切】[2026-04-13]陪你悠闲唱歌到清晨～ 献给失眠的你 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16PQ5BqEFv?p=3",
@@ -2063,7 +2063,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "初音ミクの消失",
-  "artist": "cosMo@暴走P",
+  "artist": "cosMo@暴走P feat. 初音ミク",
   "collection": "【歌切】[2026-04-13]陪你悠闲唱歌到清晨～ 献给失眠的你 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16PQ5BqEFv?p=4",
@@ -2071,7 +2071,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ファンサ",
-  "artist": "mona",
+  "artist": "HoneyWorks",
   "collection": "【歌切】[2026-04-13]陪你悠闲唱歌到清晨～ 献给失眠的你 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16PQ5BqEFv?p=5",
@@ -2119,7 +2119,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "空色デイズ",
-  "artist": "中川翔子チャレンジ",
+  "artist": "中川翔子",
   "collection": "【歌切】[2026-04-13]陪你悠闲唱歌到清晨～ 献给失眠的你 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16PQ5BqEFv?p=11",
@@ -2167,7 +2167,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Don't say \"lazy\"",
-  "artist": "放課後ティータイム",
+  "artist": "桜高軽音部",
   "collection": "【歌切】[2026-04-13]陪你悠闲唱歌到清晨～ 献给失眠的你 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16PQ5BqEFv?p=17",
@@ -2207,7 +2207,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ムーンライト伝説",
-  "artist": "DALIチャレンジ",
+  "artist": "DALI",
   "collection": "【歌切】[2026-04-13]陪你悠闲唱歌到清晨～ 献给失眠的你 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16PQ5BqEFv?p=22",
@@ -2215,7 +2215,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モザイクロール",
-  "artist": "Deco27",
+  "artist": "DECO*27",
   "collection": "【歌切】[2026-04-13]陪你悠闲唱歌到清晨～ 献给失眠的你 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16PQ5BqEFv?p=23",
@@ -2303,7 +2303,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ninelie",
-  "artist": "Aimer with chelly",
+  "artist": "Aimer",
   "collection": "【歌切】[2026-04-13]陪你悠闲唱歌到清晨～ 献给失眠的你 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16PQ5BqEFv?p=34",
@@ -2366,7 +2366,7 @@ window.SONG_DATA.push(
   "source": "chiyutori .js"
 },
     {
-  "title": "I'm Your Treasure Box *あなたは マリンせんちょうを たからばこからみつけた。- 宝鐘マリン",
+  "title": "42. I'm Your Treasure Box *あなたは マリンせんちょうを たからばこからみつけた。- 宝鐘マリン",
   "artist": "来源处未提供标准格式歌手",
   "collection": "【歌切】[2026-04-13]陪你悠闲唱歌到清晨～ 献给失眠的你 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
@@ -2423,7 +2423,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "sakura",
-  "artist": "ニルギリス",
+  "artist": "いきものがかり",
   "collection": "【歌切】[2026-04-13]陪你悠闲唱歌到清晨～ 献给失眠的你 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16PQ5BqEFv?p=49",
@@ -2447,7 +2447,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ベリーメロン",
-  "artist": "ビクトリーム(若本規夫)",
+  "artist": "ビクトリーム",
   "collection": "【歌切】[2026-04-13]陪你悠闲唱歌到清晨～ 献给失眠的你 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16PQ5BqEFv?p=52",
@@ -2510,11 +2510,19 @@ window.SONG_DATA.push(
   "source": "chiyutori .js"
 },
     {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【歌切】[2026-04-13]陪你悠闲唱歌到清晨～ 献给失眠的你 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16PQ5BqEFv?p=60",
+  "source": "chiyutori .js"
+},
+    {
   "title": "Wind Climbing ～風にあそばれて～",
   "artist": "奥井亜紀",
   "collection": "【歌切】[2026-04-13]陪你悠闲唱歌到清晨～ 献给失眠的你 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16PQ5BqEFv?p=60",
+  "link": "https://www.bilibili.com/video/BV16PQ5BqEFv?p=61",
   "source": "chiyutori .js"
 },
     {
@@ -2522,15 +2530,15 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "【歌切】[2026-04-13]陪你悠闲唱歌到清晨～ 献给失眠的你 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16PQ5BqEFv?p=61",
+  "link": "https://www.bilibili.com/video/BV16PQ5BqEFv?p=62",
   "source": "chiyutori .js"
 },
     {
   "title": "God knows...",
-  "artist": "涼宮ハルヒ(CV:平野綾)",
+  "artist": "涼宮ハルヒ(平野綾)",
   "collection": "【歌切】[2026-04-13]陪你悠闲唱歌到清晨～ 献给失眠的你 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16PQ5BqEFv?p=62",
+  "link": "https://www.bilibili.com/video/BV16PQ5BqEFv?p=63",
   "source": "chiyutori .js"
 }
 );
