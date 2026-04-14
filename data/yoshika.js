@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 4/14/2026, 8:47:38 PM
+// 生成时间: 4/14/2026, 9:47:31 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -30387,6 +30387,142 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-04-12]初見さん歓迎！みんないらっしゃい！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14VDDB5ENk?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "collection": "【🍠🦍歌切】[2026-04-15]初見さん歓迎！一緒に騒ご～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZhQVBFEff?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-04-15]初見さん歓迎！一緒に騒ご～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZhQVBFEff?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "負けないで",
+  "artist": "ZARD",
+  "collection": "【🍠🦍歌切】[2026-04-15]初見さん歓迎！一緒に騒ご～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZhQVBFEff?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "１・２・３",
+  "artist": "After the Rain（そらる×まふまふ）",
+  "collection": "【🍠🦍歌切】[2026-04-15]初見さん歓迎！一緒に騒ご～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZhQVBFEff?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハレ晴レユカイ",
+  "artist": "平野綾(涼宮ハルヒ)・茅原実里(長門有希)・後藤邑子(朝比奈みくる)",
+  "collection": "【🍠🦍歌切】[2026-04-15]初見さん歓迎！一緒に騒ご～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZhQVBFEff?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "【🍠🦍歌切】[2026-04-15]初見さん歓迎！一緒に騒ご～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZhQVBFEff?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アンパンマンのマーチ",
+  "artist": "ドリーミング",
+  "collection": "【🍠🦍歌切】[2026-04-15]初見さん歓迎！一緒に騒ご～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZhQVBFEff?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "輝夜の城で踊りたい",
+  "artist": "μ's",
+  "collection": "【🍠🦍歌切】[2026-04-15]初見さん歓迎！一緒に騒ご～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZhQVBFEff?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アローラ!!",
+  "artist": "松本梨香",
+  "collection": "【🍠🦍歌切】[2026-04-15]初見さん歓迎！一緒に騒ご～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZhQVBFEff?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "極楽浄土",
+  "artist": "GARNiDELiA",
+  "collection": "【🍠🦍歌切】[2026-04-15]初見さん歓迎！一緒に騒ご～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZhQVBFEff?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【🍠🦍歌切】[2026-04-15]初見さん歓迎！一緒に騒ご～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZhQVBFEff?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "雪、無音、窓辺にて。",
+  "artist": "茅原実里(長門有希)",
+  "collection": "【🍠🦍歌切】[2026-04-15]初見さん歓迎！一緒に騒ご～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZhQVBFEff?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "となりのトトロ",
+  "artist": "井上あずみ",
+  "collection": "【🍠🦍歌切】[2026-04-15]初見さん歓迎！一緒に騒ご～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZhQVBFEff?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【🍠🦍歌切】[2026-04-15]初見さん歓迎！一緒に騒ご～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZhQVBFEff?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
+  "collection": "【🍠🦍歌切】[2026-04-15]初見さん歓迎！一緒に騒ご～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZhQVBFEff?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Queens Bluff",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-04-15]初見さん歓迎！一緒に騒ご～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZhQVBFEff?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ANGELUS",
+  "artist": "島谷ひとみ",
+  "collection": "【🍠🦍歌切】[2026-04-15]初見さん歓迎！一緒に騒ご～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZhQVBFEff?p=17",
   "source": "yoshika.js"
 }
 );
