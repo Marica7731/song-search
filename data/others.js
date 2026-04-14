@@ -1,13 +1,13 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq
-// 生成时间: 4/14/2026, 1:43:20 AM
+// 生成时间: 4/14/2026, 4:52:03 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
     {
   "title": "ベビ・デビ",
-  "artist": "kaaruutaasoo",
+  "artist": "CULUA",
   "collection": "【#CMYKProject】魅せるよ、僕だけの色。【CULUA】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1r1RsYDEvB?p=1",
