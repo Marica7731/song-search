@@ -16,6 +16,9 @@ let bvInputItems = [];
 let titleArtistInputItems = [];
 let dataLoaded = false;
 let isApiMode = false;
+let dupCopyAiEnabled = false;
+let dupCopyAiModel = '';
+let dupCopyAiBusy = false;
 
 function extractBV(str) {
   if (!str) return '';
@@ -141,6 +144,100 @@ function buildCopyRecord(item) {
     dupCount: Number(item?.dupCount || 0),
     status: getResultStatusText(item)
   };
+}
+
+function getFilteredAnalysisItemsForCopy() {
+  const onlyUnique = !!document.getElementById('copyOnlyUnique')?.checked;
+  let copyData = analysisResult.slice();
+  if (onlyUnique) {
+    if (currentMode === 'titleArtist') {
+      copyData = copyData.filter(item => !item.isNotFound && !!item.isFirst);
+    } else {
+      copyData = copyData.filter(item => !item.isNotFound && !item.isDup);
+    }
+  }
+  return copyData;
+}
+
+function getLinksForAiCopy(item) {
+  const seen = new Set();
+  const links = [];
+  const pushLink = value => {
+    const link = String(value || '').trim();
+    if (!link || seen.has(link)) return;
+    seen.add(link);
+    links.push(link);
+  };
+
+  const song = item?.song || {};
+  const songBvid = extractBV(song?.bvid || song?.link || '');
+  const songCollection = String(song?.collection || '').trim();
+  const songSource = String(song?.source || '').trim();
+
+  pushLink(song.link || '');
+  const dupList = Array.isArray(item?.dupList) ? item.dupList : [];
+  const sameVideoLinks = dupList.filter(entry => extractBV(entry?.bvid || entry?.link || '') === songBvid);
+  const sameCollectionLinks = dupList.filter(entry => String(entry?.collection || '').trim() === songCollection && songCollection);
+  const pools = [];
+  if (sameVideoLinks.length > 0) pools.push(sameVideoLinks);
+  if (sameCollectionLinks.length > 0) pools.push(sameCollectionLinks);
+  if (pools.length === 0) pools.push(dupList);
+  pools.forEach(pool => {
+    pool.forEach(entry => pushLink(entry?.link || ''));
+  });
+  return links.slice(0, 2);
+}
+
+function buildAiCopyRequestItems(items) {
+  return items.map(item => ({
+    originalInput: item?.originalInput || '',
+    status: getResultStatusText(item),
+    dedupeCount: Number(item?.dupCount || 0),
+    links: getLinksForAiCopy(item),
+    song: item?.song || null,
+    dupList: Array.isArray(item?.dupList) ? item.dupList.slice(0, 8) : []
+  }));
+}
+
+function getAiCopyButton() {
+  return document.getElementById('copyAiBtn');
+}
+
+function syncAiCopyButtonState() {
+  const button = getAiCopyButton();
+  if (!button) return;
+  const hasResults = getFilteredAnalysisItemsForCopy().length > 0;
+  button.disabled = dupCopyAiBusy || !hasResults;
+  button.textContent = dupCopyAiBusy ? 'AI清洗中...' : 'AI清洗复制';
+  if (!dupCopyAiEnabled) {
+    button.title = dupCopyAiModel
+      ? `AI未启用：${dupCopyAiModel}`
+      : '服务端尚未配置 AI 清洗复制';
+  } else if (dupCopyAiModel) {
+    button.title = `当前模型：${dupCopyAiModel}`;
+  } else {
+    button.title = '将使用服务端 AI 清洗复制文段';
+  }
+}
+
+function setAiCopyBusy(busy) {
+  dupCopyAiBusy = !!busy;
+  syncAiCopyButtonState();
+}
+
+async function loadDupCopyAiMeta() {
+  try {
+    const response = await fetch('/api/site-meta', { cache: 'no-store' });
+    if (!response.ok) return;
+    const payload = await response.json();
+    dupCopyAiEnabled = !!payload?.dupCopyAi?.enabled;
+    dupCopyAiModel = String(payload?.dupCopyAi?.model || '').trim();
+  } catch (_) {
+    dupCopyAiEnabled = false;
+    dupCopyAiModel = '';
+  } finally {
+    syncAiCopyButtonState();
+  }
 }
 
 function showCopyToast() {
@@ -274,6 +371,7 @@ async function loadAllData(forceStatic = false) {
         dataLoaded = true;
         setReadyState(true);
         updateStat('歌库已就绪，请输入内容开始分析');
+        loadDupCopyAiMeta();
         return;
       }
       throw new Error(`API 状态码 ${bootstrapRes.status}`);
@@ -319,6 +417,7 @@ async function loadAllData(forceStatic = false) {
     renderSourceTabs();
     setReadyState(true);
     updateStat('数据已加载，请输入内容开始分析');
+    loadDupCopyAiMeta();
   } catch (err) {
     setReadyState(false, `歌库加载失败：${err.message}`);
     updateStat(`数据加载失败: ${err.message}`);
@@ -386,6 +485,7 @@ async function search() {
   }
   toggleShowMode(false);
   analysisResult = [];
+  syncAiCopyButtonState();
 
   if (currentMode === 'bv') {
     const input = (document.getElementById('bvInput')?.value || '').trim();
@@ -590,6 +690,7 @@ function renderSongList() {
 
   if (viewItems.length === 0) {
     container.innerHTML = '<div style="text-align:center;padding:20px;color:#6c757d;">暂无结果</div>';
+    syncAiCopyButtonState();
     return;
   }
 
@@ -657,6 +758,7 @@ function renderSongList() {
 
     container.appendChild(card);
   });
+  syncAiCopyButtonState();
 }
 
 function copyResults() {
@@ -665,7 +767,6 @@ function copyResults() {
     return;
   }
 
-  const onlyUnique = !!document.getElementById('copyOnlyUnique')?.checked;
   const fields = [
     { key: 'status', label: '状态', enabled: !!document.getElementById('copyStatus')?.checked },
     { key: 'original', label: '输入值', enabled: !!document.getElementById('copyOriginal')?.checked },
@@ -679,14 +780,7 @@ function copyResults() {
   const isTextFormat = !!document.getElementById('copyText')?.checked;
   const separator = getCopySeparator();
 
-  let copyData = analysisResult.slice();
-  if (onlyUnique) {
-    if (currentMode === 'titleArtist') {
-      copyData = copyData.filter(item => !item.isNotFound && !!item.isFirst);
-    } else {
-      copyData = copyData.filter(item => !item.isNotFound && !item.isDup);
-    }
-  }
+  const copyData = getFilteredAnalysisItemsForCopy();
   if (copyData.length === 0) {
     alert('筛选后无可复制项');
     return;
@@ -711,6 +805,54 @@ function copyResults() {
     .catch(() => alert('复制失败，请手动复制'));
 }
 
+async function copyResultsWithAi() {
+  if (analysisResult.length === 0) {
+    alert('暂无可复制结果');
+    return;
+  }
+
+  const copyData = getFilteredAnalysisItemsForCopy();
+  if (copyData.length === 0) {
+    alert('筛选后无可复制项');
+    return;
+  }
+
+  setAiCopyBusy(true);
+  try {
+    const response = await fetch('/api/dup-copy-clean', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({
+        mode: currentMode,
+        items: buildAiCopyRequestItems(copyData)
+      })
+    });
+    const payload = await response.json().catch(() => ({}));
+    if (!response.ok) {
+      if (payload?.fallbackText) {
+        await navigator.clipboard.writeText(String(payload.fallbackText || '').trim());
+        showCopyToast();
+        alert(`AI 清洗暂不可用，已回退普通整理文段。\n${payload.error || 'unknown error'}`);
+        return;
+      }
+      throw new Error(payload?.error || `请求失败（${response.status}）`);
+    }
+    const text = String(payload?.text || '').trim();
+    if (!text) {
+      throw new Error('AI 未返回可复制内容');
+    }
+    await navigator.clipboard.writeText(text);
+    showCopyToast();
+  } catch (error) {
+    console.error('AI 清洗复制失败:', error);
+    alert(`AI 清洗复制失败：${error.message}`);
+  } finally {
+    setAiCopyBusy(false);
+  }
+}
+
 function initDupCheckPage(mode) {
   currentMode = mode;
   loadAllData();
@@ -721,6 +863,8 @@ function initDupCheckPage(mode) {
   document.getElementById('showAllBtn')?.addEventListener('click', () => toggleShowMode(false));
   document.getElementById('showUniqueBtn')?.addEventListener('click', () => toggleShowMode(true));
   document.getElementById('copyBtn')?.addEventListener('click', copyResults);
+  document.getElementById('copyAiBtn')?.addEventListener('click', copyResultsWithAi);
+  document.getElementById('copyOnlyUnique')?.addEventListener('change', syncAiCopyButtonState);
 
   document.getElementById('bvInput')?.addEventListener('keydown', e => {
     if (e.key === 'Enter' && currentMode === 'bv') search();
@@ -731,4 +875,5 @@ function initDupCheckPage(mode) {
       search();
     }
   });
+  syncAiCopyButtonState();
 }

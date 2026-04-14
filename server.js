@@ -18,6 +18,11 @@ const GROWTH_HISTORY_PATH = path.join(REPORT_DIR, 'song-growth-history.json');
 const UPDATE_SONGS_META_PATH = path.join(REPORT_DIR, 'update-songs-meta.json');
 const ADMIN_TOKEN_PATH = '/root/.secrets/song-search-admin-token';
 const PORT = Number(process.env.PORT || 8080);
+const DUP_COPY_AI_API_BASE = (process.env.DUP_COPY_AI_API_BASE || 'https://api.siliconflow.cn/v1').trim();
+const DUP_COPY_AI_API_KEY = (process.env.DUP_COPY_AI_API_KEY || '').trim();
+const DUP_COPY_AI_MODEL = (process.env.DUP_COPY_AI_MODEL || 'THUDM/GLM-4-9B-0414').trim();
+const DUP_COPY_AI_TIMEOUT_MS = Math.max(3000, Number(process.env.DUP_COPY_AI_TIMEOUT_MS || 30000));
+const DUP_COPY_MAX_ITEMS = 30;
 const REFRESH_LOCK_PATH = '/tmp/song-search-refresh.lock';
 const REFRESH_SCRIPT_PATH = '/usr/local/bin/song-search-refresh.sh';
 const REFRESH_COOLDOWN_MS = 5 * 60 * 1000;
@@ -118,6 +123,135 @@ function buildSourceStats(songs, files, fileToAlias) {
 function getSourceAlias(sourceFile) {
   const key = String(sourceFile || '').replace('.js', '');
   return store.fileToAlias[key] || sourceFile || '未知来源';
+}
+
+function isDupCopyAiAvailable() {
+  return !!DUP_COPY_AI_API_KEY;
+}
+
+function toDisplaySourceName(rawValue) {
+  return String(rawValue || '')
+    .replace(/^#/, '')
+    .replace(/[【】]/g, '')
+    .trim();
+}
+
+function getConcreteSourceName(entry) {
+  const song = entry?.song || entry || {};
+  const sourceAlias = getSourceAlias(song.source);
+  if (sourceAlias !== '非常驻妹妹') {
+    return sourceAlias || '未知来源';
+  }
+
+  const collection = String(song.collection || '');
+  const bracketValues = Array.from(collection.matchAll(/【([^【】]+)】/g))
+    .map(match => toDisplaySourceName(match[1]))
+    .filter(Boolean)
+    .filter(value => !/^cmykproject$/i.test(value) && !/^#?cmykproject$/i.test(value));
+  if (bracketValues.length > 0) {
+    return bracketValues[bracketValues.length - 1];
+  }
+
+  const videoTitle = String(song.videoTitle || '');
+  const videoBracketValues = Array.from(videoTitle.matchAll(/【([^【】]+)】/g))
+    .map(match => toDisplaySourceName(match[1]))
+    .filter(Boolean);
+  if (videoBracketValues.length > 0) {
+    return videoBracketValues[videoBracketValues.length - 1];
+  }
+
+  return sourceAlias || '未知来源';
+}
+
+function normalizeArtistVariantForCopy(artist) {
+  const text = String(artist || '').trim();
+  if (!text) return '';
+  const cleaned = text
+    .replace(/\s+/g, ' ')
+    .replace(/\s*\/\s*/g, ' / ')
+    .replace(/\s*feat\.\s*/gi, ' feat.')
+    .trim();
+  return cleaned;
+}
+
+function pickNormalizedArtistName(variants) {
+  const cleaned = (Array.isArray(variants) ? variants : [])
+    .map(normalizeArtistVariantForCopy)
+    .filter(Boolean);
+  if (cleaned.length === 0) return '';
+
+  const exactCount = new Map();
+  cleaned.forEach(name => {
+    exactCount.set(name, (exactCount.get(name) || 0) + 1);
+  });
+  const exactWinner = Array.from(exactCount.entries())
+    .sort((a, b) => {
+      if (b[1] !== a[1]) return b[1] - a[1];
+      return a[0].length - b[0].length;
+    })[0];
+
+  const compatibleGroups = [];
+  cleaned.forEach(name => {
+    const group = compatibleGroups.find(item => areArtistsCompatible(item.representative, name));
+    if (group) {
+      group.items.push(name);
+      return;
+    }
+    compatibleGroups.push({
+      representative: name,
+      items: [name]
+    });
+  });
+
+  compatibleGroups.sort((a, b) => {
+    if (b.items.length !== a.items.length) return b.items.length - a.items.length;
+    return a.representative.length - b.representative.length;
+  });
+  const compatibleWinner = compatibleGroups[0];
+  if (!compatibleWinner) {
+    return exactWinner ? exactWinner[0] : cleaned[0];
+  }
+
+  const preferred = compatibleWinner.items
+    .slice()
+    .sort((a, b) => {
+      const aHasFeat = /feat\./i.test(a);
+      const bHasFeat = /feat\./i.test(b);
+      if (aHasFeat !== bHasFeat) return aHasFeat ? -1 : 1;
+      const aAscii = /^[\x00-\x7F\s./()&+\-]+$/.test(a);
+      const bAscii = /^[\x00-\x7F\s./()&+\-]+$/.test(b);
+      if (aAscii !== bAscii) return aAscii ? -1 : 1;
+      return a.length - b.length;
+    })[0];
+
+  return preferred || compatibleWinner.representative || (exactWinner ? exactWinner[0] : cleaned[0]);
+}
+
+function dedupeLinksForCopy(links, limit = 2) {
+  const seen = new Set();
+  const out = [];
+  (Array.isArray(links) ? links : []).forEach(link => {
+    const value = String(link || '').trim();
+    if (!value || seen.has(value)) return;
+    seen.add(value);
+    out.push(value);
+  });
+  return out.slice(0, limit);
+}
+
+function buildLocalCopyText(entry) {
+  const sourceDisplay = getConcreteSourceName(entry);
+  const song = entry?.song || {};
+  const links = dedupeLinksForCopy(entry?.links || [song.link]);
+  const parts = [
+    `来源：${sourceDisplay || '未知来源'}`,
+    `歌名：${song.title || '未知歌曲'}`,
+    `歌手：${entry?.artistNormalized || song.artist || '未知歌手'}`
+  ];
+  if (links.length > 0) {
+    parts.push(`链接：${links.join(' ')}`);
+  }
+  return parts.join(' | ');
 }
 
 function getScopedSourceLabel(source) {
@@ -1236,7 +1370,11 @@ function handleSongGrowth(res) {
 
 function handleSiteMeta(res) {
   sendJson(res, 200, {
-    updateSongsLastRun: getUpdateSongsMeta()
+    updateSongsLastRun: getUpdateSongsMeta(),
+    dupCopyAi: {
+      enabled: isDupCopyAiAvailable(),
+      model: DUP_COPY_AI_MODEL || null
+    }
   });
 }
 
@@ -1279,6 +1417,174 @@ function handleTitleLookup(req, res, body) {
   });
 
   sendJson(res, 200, { items: results });
+}
+
+function buildDupCopyPayloadItems(payloadItems) {
+  return (Array.isArray(payloadItems) ? payloadItems : [])
+    .slice(0, DUP_COPY_MAX_ITEMS)
+    .map(item => {
+      const song = item && typeof item.song === 'object' ? item.song : {};
+      const dupList = Array.isArray(item?.dupList) ? item.dupList : [];
+      const songBvid = extractBV(song.bvid || song.link || '');
+      const songCollection = String(song.collection || '').trim();
+      const scopedVariants = [song]
+        .concat(dupList.filter(entry => extractBV(entry?.bvid || entry?.link || '') === songBvid))
+        .concat(dupList.filter(entry => String(entry?.collection || '').trim() === songCollection && songCollection));
+      const artistVariants = [];
+      const linkCandidates = [];
+
+      scopedVariants.forEach(entry => {
+        if (!entry || typeof entry !== 'object') return;
+        if (entry.artist) artistVariants.push(String(entry.artist).trim());
+        if (entry.link) linkCandidates.push(String(entry.link).trim());
+      });
+
+      const normalizedArtist = pickNormalizedArtistName(artistVariants);
+      const links = dedupeLinksForCopy(item?.links || linkCandidates, 2);
+      const sourceDisplay = getConcreteSourceName(song);
+
+      return {
+        originalInput: String(item?.originalInput || '').trim(),
+        status: String(item?.status || '').trim(),
+        sourceDisplay,
+        artistNormalized: normalizedArtist,
+        dedupeCount: Number(item?.dedupeCount || dupList.length || 0),
+        song: {
+          title: String(song.title || '').trim(),
+          artist: String(song.artist || '').trim(),
+          collection: String(song.collection || '').trim(),
+          source: String(song.source || '').trim(),
+          bvid: extractBV(song.bvid || song.link || ''),
+          link: String(song.link || '').trim(),
+          videoTitle: String(song.videoTitle || '').trim()
+        },
+        artistVariants: Array.from(new Set(artistVariants.filter(Boolean))),
+        links
+      };
+    })
+    .filter(item => item.song.title || item.originalInput);
+}
+
+function buildDupCopyPrompt(mode, entries) {
+  const modeLabel = mode === 'titleArtist' ? '歌名歌手查重' : 'BV查重';
+  const entryText = entries.map((entry, index) => [
+    `#${index + 1}`,
+    `input: ${entry.originalInput || '(empty)'}`,
+    `status: ${entry.status || ''}`,
+    `source_display: ${entry.sourceDisplay || ''}`,
+    `collection: ${entry.song.collection || ''}`,
+    `bvid: ${entry.song.bvid || ''}`,
+    `title: ${entry.song.title || ''}`,
+    `artist_display: ${entry.artistNormalized || entry.song.artist || ''}`,
+    `dedupe_count: ${Number(entry.dedupeCount || 0)}`,
+    `links: ${JSON.stringify(entry.links || [])}`
+  ].join('\n')).join('\n\n');
+
+  return [
+    '你是歌曲查重页面的复制文段整理助手。',
+    `当前页面：${modeLabel}。`,
+    '请把下面每一项整理成适合直接复制发送的简洁中文文段。',
+    '要求：',
+    '1. 只输出 JSON，不要 markdown，不要解释。',
+    '2. JSON 格式固定为 {"items":[{"copyText":"..."}]}。',
+    '3. items 数量必须与输入条目数量完全一致，顺序一致。',
+    '4. source_display、title、artist_display、links 都视为最终字段，不要自行改写含义，不要替换成别的来源或歌手。',
+    '5. 每条 copyText 都要尽量自然，像人工整理，但格式保持稳定，优先使用：来源：... | 歌名：... | 歌手：... | 链接：...',
+    '6. links 数组里的链接都要保留；如果有两个链接就都保留。',
+    '7. 不要编造没有提供的信息；没有就略过，不要写“未知”。',
+    '',
+    entryText
+  ].join('\n');
+}
+
+async function requestDupCopyAi(prompt) {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), DUP_COPY_AI_TIMEOUT_MS);
+  try {
+    const response = await fetch(`${DUP_COPY_AI_API_BASE.replace(/\/$/, '')}/chat/completions`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        Authorization: `Bearer ${DUP_COPY_AI_API_KEY}`
+      },
+      body: JSON.stringify({
+        model: DUP_COPY_AI_MODEL,
+        messages: [{ role: 'user', content: prompt }],
+        temperature: 0.2,
+        max_tokens: 1200
+      }),
+      signal: controller.signal
+    });
+    const text = await response.text();
+    if (!response.ok) {
+      throw new Error(`AI request failed (${response.status}): ${text.slice(0, 240)}`);
+    }
+    const payload = text ? JSON.parse(text) : {};
+    const message = (((payload || {}).choices || [])[0] || {}).message || {};
+    return String(message.content || '').trim();
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+function parseDupCopyAiResponse(rawText, expectedLength) {
+  const text = String(rawText || '').trim();
+  const plain = text.replace(/^```(?:json)?\s*/i, '').replace(/\s*```$/i, '').trim();
+  const parsed = JSON.parse(plain);
+  const items = Array.isArray(parsed?.items) ? parsed.items : [];
+  if (items.length !== expectedLength) {
+    throw new Error(`AI result length mismatch: expected ${expectedLength}, got ${items.length}`);
+  }
+  return items.map(item => String(item?.copyText || '').trim());
+}
+
+async function handleDupCopyClean(req, res, body) {
+  let payload;
+  try {
+    payload = body ? JSON.parse(body) : {};
+  } catch {
+    sendJson(res, 400, { error: 'Invalid JSON body' });
+    return;
+  }
+
+  const mode = payload.mode === 'titleArtist' ? 'titleArtist' : 'bv';
+  const entries = buildDupCopyPayloadItems(payload.items);
+  if (entries.length === 0) {
+    sendJson(res, 400, { error: 'No items to clean' });
+    return;
+  }
+
+  const fallbackItems = entries.map(entry => ({
+    copyText: buildLocalCopyText(entry)
+  }));
+  const fallbackText = fallbackItems.map(item => item.copyText).join('\n');
+
+  if (!isDupCopyAiAvailable()) {
+    sendJson(res, 503, {
+      error: 'AI copy cleaner is not configured on server',
+      fallbackItems,
+      fallbackText
+    });
+    return;
+  }
+
+  try {
+    const prompt = buildDupCopyPrompt(mode, entries);
+    const content = await requestDupCopyAi(prompt);
+    const cleanedTexts = parseDupCopyAiResponse(content, entries.length);
+    const items = cleanedTexts.map(copyText => ({ copyText }));
+    sendJson(res, 200, {
+      items,
+      text: items.map(item => item.copyText).join('\n'),
+      model: DUP_COPY_AI_MODEL
+    });
+  } catch (error) {
+    sendJson(res, 502, {
+      error: error.message,
+      fallbackItems,
+      fallbackText
+    });
+  }
 }
 
 function handleInternalReload(req, res) {
@@ -1548,6 +1854,15 @@ const server = http.createServer(async (req, res) => {
     try {
       const body = await readRequestBody(req);
       handleDupCheck(req, res, body);
+    } catch (error) {
+      sendJson(res, 500, { error: error.message });
+    }
+    return;
+  }
+  if (reqUrl.pathname === '/api/dup-copy-clean' && req.method === 'POST') {
+    try {
+      const body = await readRequestBody(req);
+      await handleDupCopyClean(req, res, body);
     } catch (error) {
       sendJson(res, 500, { error: error.message });
     }
