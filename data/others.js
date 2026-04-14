@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq
-// 生成时间: 4/14/2026, 3:18:46 PM
+// 生成时间: 4/14/2026, 6:11:21 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9187,6 +9187,70 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-04-08 ~ 2026-04-12 蒼-Aoi- 7g3SgZXKPQw OKQ5pN7O2bs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17VQxBcEsr?p=34",
+  "source": "others.js"
+},
+    {
+  "title": "命にふさわしい",
+  "artist": "amazarashi",
+  "collection": "歌切 2026-03-30 深影 - Mikage - zyskOcAFn5U",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12mQ3B6EpP?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ",
+  "collection": "歌切 2026-03-30 深影 - Mikage - zyskOcAFn5U",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12mQ3B6EpP?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna",
+  "collection": "歌切 2026-03-30 深影 - Mikage - zyskOcAFn5U",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12mQ3B6EpP?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna",
+  "collection": "歌切 2026-03-30 深影 - Mikage - zyskOcAFn5U",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12mQ3B6EpP?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-03-30 深影 - Mikage - zyskOcAFn5U",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12mQ3B6EpP?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "ゴーストレタッチ",
+  "artist": "深影",
+  "collection": "歌切 2026-03-30 深影 - Mikage - zyskOcAFn5U",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12mQ3B6EpP?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ゴーストレタッチ",
+  "artist": "深影",
+  "collection": "歌切 2026-03-30 深影 - Mikage - zyskOcAFn5U",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12mQ3B6EpP?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "贖罪",
+  "artist": "傘村トータ",
+  "collection": "歌切 2026-03-30 深影 - Mikage - zyskOcAFn5U",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12mQ3B6EpP?p=8",
   "source": "others.js"
 },
     {
