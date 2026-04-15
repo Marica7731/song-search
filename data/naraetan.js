@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 4/15/2026, 1:27:31 AM
+// 生成时间: 4/15/2026, 4:41:52 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4939,14 +4939,6 @@ window.SONG_DATA.push(
   "collection": "【🌷歌切】[2026-03-03]时隔一亿年的午间歌枠☕一億年ぶりのお昼歌枠☕[u_jJcVG6818]なれたん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CGAfzFE68?p=14",
-  "source": "naraetan.js"
-},
-    {
-  "title": "君に最後の口づけを",
-  "artist": "majiko cover by なれたん",
-  "collection": "君に最後の口づけを - majiko cover by なれたん",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11tPCzoE5y?p=1",
   "source": "naraetan.js"
 },
     {

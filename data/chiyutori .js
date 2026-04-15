@@ -1,6 +1,6 @@
 // 知悠 - 歌单数据 (多合集汇总)
 // 来源: BV1owcoz3Ekw
-// 生成时间: 4/15/2026, 1:26:30 AM
+// 生成时间: 4/15/2026, 4:40:00 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1390,8 +1390,8 @@ window.SONG_DATA.push(
   "source": "chiyutori .js"
 },
     {
-  "title": "超時空飯店 娘々 CMソング -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "超時空飯店 娘々",
+  "artist": "ランカ・リー＝中島愛",
   "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=7",
@@ -1606,8 +1606,8 @@ window.SONG_DATA.push(
   "source": "chiyutori .js"
 },
     {
-  "title": "オー・シャンゼリゼ -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "オー・シャンゼリゼ",
+  "artist": "奇妙礼太郎トラベルスイング楽団",
   "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VEQ2BEEDZ?p=34",
@@ -1622,7 +1622,7 @@ window.SONG_DATA.push(
   "source": "chiyutori .js"
 },
     {
-  "title": "Don't say 「lazy」",
+  "title": "Don't say \"lazy\"",
   "artist": "放課後ティータイム",
   "collection": "【知悠 歌切】[2026-03-24]首播一月纪念日✨谢谢你来看我❣[AMzz1zU9u90] 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
@@ -1918,8 +1918,8 @@ window.SONG_DATA.push(
   "source": "chiyutori .js"
 },
     {
-  "title": "ペンパイナッポーアッポーペン（PPAP）ロングバージョン",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ペンパイナッポーアッポーペン(PPAP)",
+  "artist": "PIKO太郎",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=34",
@@ -1982,8 +1982,8 @@ window.SONG_DATA.push(
   "source": "chiyutori .js"
 },
     {
-  "title": "サヨナラノツバサ〜the end of triangle",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "サヨナラノツバサ ~the end of triangle",
+  "artist": "中島愛&May'n",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=42",
@@ -2366,8 +2366,8 @@ window.SONG_DATA.push(
   "source": "chiyutori .js"
 },
     {
-  "title": "42. I'm Your Treasure Box *あなたは マリンせんちょうを たからばこからみつけた。- 宝鐘マリン",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "42. I'm Your Treasure Box *あなたは マリンせんちょうを たからばこからみつけた。",
+  "artist": "宝鐘マリン",
   "collection": "【歌切】[2026-04-13]陪你悠闲唱歌到清晨～ 献给失眠的你 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16PQ5BqEFv?p=42",
