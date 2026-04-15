@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq
-// 生成时间: 4/15/2026, 4:52:05 AM
+// 生成时间: 4/15/2026, 6:39:27 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10030,7 +10030,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "01 嘘",
+  "title": "嘘",
   "artist": "シド",
   "collection": "歌切 2026-04-01 ななし律歌 / Nanashi Rikka Fpxr3hVMylg",
   "up": "前尘往事如昔故",
@@ -10038,7 +10038,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "02 嘘月",
+  "title": "嘘月",
   "artist": "ヨルシカ",
   "collection": "歌切 2026-04-01 ななし律歌 / Nanashi Rikka Fpxr3hVMylg",
   "up": "前尘往事如昔故",
@@ -10046,7 +10046,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "03 嘘つき",
+  "title": "嘘つき",
   "artist": "阿部真央",
   "collection": "歌切 2026-04-01 ななし律歌 / Nanashi Rikka Fpxr3hVMylg",
   "up": "前尘往事如昔故",
@@ -10054,7 +10054,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "04 ロメオ",
+  "title": "ロメオ",
   "artist": "LIP×LIP",
   "collection": "歌切 2026-04-01 ななし律歌 / Nanashi Rikka Fpxr3hVMylg",
   "up": "前尘往事如昔故",
@@ -10062,7 +10062,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "05 ノンファンタジー",
+  "title": "ノンファンタジー",
   "artist": "LIP×LIP",
   "collection": "歌切 2026-04-01 ななし律歌 / Nanashi Rikka Fpxr3hVMylg",
   "up": "前尘往事如昔故",
@@ -10070,7 +10070,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "06 アイのシナリオ",
+  "title": "アイのシナリオ",
   "artist": "CHiCO",
   "collection": "歌切 2026-04-01 ななし律歌 / Nanashi Rikka Fpxr3hVMylg",
   "up": "前尘往事如昔故",
@@ -10078,7 +10078,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "07 夜咄ディセイブ",
+  "title": "夜咄ディセイブ",
   "artist": "じん",
   "collection": "歌切 2026-04-01 ななし律歌 / Nanashi Rikka Fpxr3hVMylg",
   "up": "前尘往事如昔故",
@@ -10086,7 +10086,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "08 フォニイ",
+  "title": "フォニイ",
   "artist": "ツミキ",
   "collection": "歌切 2026-04-01 ななし律歌 / Nanashi Rikka Fpxr3hVMylg",
   "up": "前尘往事如昔故",
@@ -10094,7 +10094,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "09 ヴィラン",
+  "title": "ヴィラン",
   "artist": "てにをは",
   "collection": "歌切 2026-04-01 ななし律歌 / Nanashi Rikka Fpxr3hVMylg",
   "up": "前尘往事如昔故",
@@ -10102,7 +10102,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "10 アイドル",
+  "title": "アイドル",
   "artist": "YOASOBI",
   "collection": "歌切 2026-04-01 ななし律歌 / Nanashi Rikka Fpxr3hVMylg",
   "up": "前尘往事如昔故",
@@ -10110,7 +10110,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "11 ノーダウト",
+  "title": "ノーダウト",
   "artist": "Official髭男dism",
   "collection": "歌切 2026-04-01 ななし律歌 / Nanashi Rikka Fpxr3hVMylg",
   "up": "前尘往事如昔故",
