@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 4/15/2026, 4:00:58 PM
+// 生成时间: 4/15/2026, 7:02:59 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2707,6 +2707,118 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-04-14]早晨的陪伴，来一起悠闲聊天与歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1apQ5BsELh?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "恋愛裁判",
+  "artist": "40mP",
+  "collection": "【🍁歌切】[2026-04-15]春のアコギ演奏会🌸 癒される弾き語り練習歌枠🌸✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zxQpBsEnQ?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "さくら",
+  "artist": "森山直太朗",
+  "collection": "【🍁歌切】[2026-04-15]春のアコギ演奏会🌸 癒される弾き語り練習歌枠🌸✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zxQpBsEnQ?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【🍁歌切】[2026-04-15]春のアコギ演奏会🌸 癒される弾き語り練習歌枠🌸✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zxQpBsEnQ?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ひまわりの約束",
+  "artist": "秦基博",
+  "collection": "【🍁歌切】[2026-04-15]春のアコギ演奏会🌸 癒される弾き語り練習歌枠🌸✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zxQpBsEnQ?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "鱗",
+  "artist": "秦基博",
+  "collection": "【🍁歌切】[2026-04-15]春のアコギ演奏会🌸 癒される弾き語り練習歌枠🌸✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zxQpBsEnQ?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ロビンソン",
+  "artist": "スピッツ",
+  "collection": "【🍁歌切】[2026-04-15]春のアコギ演奏会🌸 癒される弾き語り練習歌枠🌸✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zxQpBsEnQ?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【🍁歌切】[2026-04-15]春のアコギ演奏会🌸 癒される弾き語り練習歌枠🌸✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zxQpBsEnQ?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "丸の内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【🍁歌切】[2026-04-15]春のアコギ演奏会🌸 癒される弾き語り練習歌枠🌸✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zxQpBsEnQ?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ヴィラン",
+  "artist": "てにをは",
+  "collection": "【🍁歌切】[2026-04-15]春のアコギ演奏会🌸 癒される弾き語り練習歌枠🌸✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zxQpBsEnQ?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "n-buna",
+  "collection": "【🍁歌切】[2026-04-15]春のアコギ演奏会🌸 癒される弾き語り練習歌枠🌸✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zxQpBsEnQ?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "時には昔の話を",
+  "artist": "加藤登紀子",
+  "collection": "【🍁歌切】[2026-04-15]春のアコギ演奏会🌸 癒される弾き語り練習歌枠🌸✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zxQpBsEnQ?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ドン・キホーテのテーマ",
+  "artist": "田中マイミ",
+  "collection": "【🍁歌切】[2026-04-15]春のアコギ演奏会🌸 癒される弾き語り練習歌枠🌸✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zxQpBsEnQ?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "夏祭り",
+  "artist": "Whiteberry",
+  "collection": "【🍁歌切】[2026-04-15]春のアコギ演奏会🌸 癒される弾き語り練習歌枠🌸✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zxQpBsEnQ?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【🍁歌切】[2026-04-15]春のアコギ演奏会🌸 癒される弾き語り練習歌枠🌸✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zxQpBsEnQ?p=14",
   "source": "momijimaru.js"
 }
 );

@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 4/15/2026, 4:02:47 PM
+// 生成时间: 4/15/2026, 7:04:34 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -29155,6 +29155,134 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】#263 [2026-04-12]睡眠导入歌回✨安眠前的放松时间请享用🌙 Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xJDRBdEra?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "JET",
+  "artist": "ポルカドットスティングレイ",
+  "collection": "【💐歌切】[2026-04-15]临近6周年纪念日🎉 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QoQHB5ELG?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "ヒューマノイド",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【💐歌切】[2026-04-15]临近6周年纪念日🎉 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QoQHB5ELG?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "正しくなれない",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【💐歌切】[2026-04-15]临近6周年纪念日🎉 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QoQHB5ELG?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "勘ぐれい",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【💐歌切】[2026-04-15]临近6周年纪念日🎉 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QoQHB5ELG?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "鏡面の波",
+  "artist": "YURiKA",
+  "collection": "【💐歌切】[2026-04-15]临近6周年纪念日🎉 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QoQHB5ELG?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "Plazma",
+  "artist": "米津玄師",
+  "collection": "【💐歌切】[2026-04-15]临近6周年纪念日🎉 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QoQHB5ELG?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "【💐歌切】[2026-04-15]临近6周年纪念日🎉 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QoQHB5ELG?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【💐歌切】[2026-04-15]临近6周年纪念日🎉 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QoQHB5ELG?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "火炎",
+  "artist": "女王蜂",
+  "collection": "【💐歌切】[2026-04-15]临近6周年纪念日🎉 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QoQHB5ELG?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "ハゼ馳せる果てるまで",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【💐歌切】[2026-04-15]临近6周年纪念日🎉 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QoQHB5ELG?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん",
+  "collection": "【💐歌切】[2026-04-15]临近6周年纪念日🎉 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QoQHB5ELG?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "【💐歌切】[2026-04-15]临近6周年纪念日🎉 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QoQHB5ELG?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "【💐歌切】[2026-04-15]临近6周年纪念日🎉 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QoQHB5ELG?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "スパークル",
+  "artist": "RADWIMPS",
+  "collection": "【💐歌切】[2026-04-15]临近6周年纪念日🎉 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QoQHB5ELG?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【💐歌切】[2026-04-15]临近6周年纪念日🎉 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QoQHB5ELG?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【💐歌切】[2026-04-15]临近6周年纪念日🎉 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QoQHB5ELG?p=16",
   "source": "figaro.js"
 }
 );

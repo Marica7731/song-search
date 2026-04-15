@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 4/15/2026, 4:03:43 PM
+// 生成时间: 4/15/2026, 7:05:24 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -20531,6 +20531,70 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】#139 [2026-04-08]周三定期歌回。集合啦～～～！ 稀羽すう - Suu Usuwa -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1prDJB9E9f?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "【🦢歌切】#140 [2026-04-15]周三定期歌回！圆框眼镜正在流行吗？ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G9QHB7Ekd?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】#140 [2026-04-15]周三定期歌回！圆框眼镜正在流行吗？ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G9QHB7Ekd?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "エイリアンズ",
+  "artist": "キリンジ",
+  "collection": "【🦢歌切】#140 [2026-04-15]周三定期歌回！圆框眼镜正在流行吗？ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G9QHB7Ekd?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "rain stops, good",
+  "artist": "におP",
+  "collection": "【🦢歌切】#140 [2026-04-15]周三定期歌回！圆框眼镜正在流行吗？ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G9QHB7Ekd?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "カザキリ",
+  "artist": "やなぎなぎ",
+  "collection": "【🦢歌切】#140 [2026-04-15]周三定期歌回！圆框眼镜正在流行吗？ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G9QHB7Ekd?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "思い出とペトリコール",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】#140 [2026-04-15]周三定期歌回！圆框眼镜正在流行吗？ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G9QHB7Ekd?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ねむるまち",
+  "artist": "くじら",
+  "collection": "【🦢歌切】#140 [2026-04-15]周三定期歌回！圆框眼镜正在流行吗？ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G9QHB7Ekd?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "seaglass",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】#140 [2026-04-15]周三定期歌回！圆框眼镜正在流行吗？ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G9QHB7Ekd?p=8",
   "source": "suu_usuwa.js"
 }
 );
