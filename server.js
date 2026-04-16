@@ -49,7 +49,8 @@ let store = {
   artistSongMap: new Map(),
   bvMap: new Map(),
   sourceSongMap: new Map(),
-  missingArtistSongs: []
+  missingArtistSongs: [],
+  missingArtistUnique: 0
 };
 
 const statsAggregateCache = new Map();
@@ -343,27 +344,25 @@ function matchesFieldCondition(fieldName, text, condition) {
 }
 
 function searchItem(item, condition, fields) {
-  const sourceBase = String(item.source || '').replace('.js', '');
-  const sourceAlias = store.fileToAlias[sourceBase] || item.source || '未知';
-  const bvid = extractBV(item.bvid || item.link || '');
-  const pubdateMs = Number(item.pubdate || 0) * 1000;
-  const pubdateText = pubdateMs
-    ? `${formatShanghaiDate(pubdateMs)} ${formatShanghaiDateTime(pubdateMs)}`
-    : '';
-  const fieldTexts = {
-    title: item.title || '',
-    artist: item.artist || '',
-    collection: item.collection || '',
-    source: sourceAlias,
-    bvid,
-    pubdate: pubdateText
-  };
-  const enabledFields = Object.entries(fields)
-    .filter(([, enabled]) => enabled)
-    .map(([field]) => ({
-      field,
-      text: fieldTexts[field]
-    }));
+  const enabledFields = [];
+  if (fields.title) enabledFields.push({ field: 'title', text: item.title || '' });
+  if (fields.artist) enabledFields.push({ field: 'artist', text: item.artist || '' });
+  if (fields.collection) enabledFields.push({ field: 'collection', text: item.collection || '' });
+  if (fields.source) {
+    const sourceBase = String(item.source || '').replace('.js', '');
+    const sourceAlias = store.fileToAlias[sourceBase] || item.source || '未知';
+    enabledFields.push({ field: 'source', text: sourceAlias });
+  }
+  if (fields.bvid) {
+    enabledFields.push({ field: 'bvid', text: extractBV(item.bvid || item.link || '') });
+  }
+  if (fields.pubdate) {
+    const pubdateMs = Number(item.pubdate || 0) * 1000;
+    const pubdateText = pubdateMs
+      ? `${formatShanghaiDate(pubdateMs)} ${formatShanghaiDateTime(pubdateMs)}`
+      : '';
+    enabledFields.push({ field: 'pubdate', text: pubdateText });
+  }
   if (enabledFields.length === 0) return false;
 
   function checkCondition(cond) {
@@ -685,8 +684,10 @@ function loadSongStore() {
     artistSongMap,
     bvMap,
     sourceSongMap,
-    missingArtistSongs: songs.filter(song => !isValidArtist(song.artist))
+    missingArtistSongs: songs.filter(song => !isValidArtist(song.artist)),
+    missingArtistUnique: 0
   };
+  store.missingArtistUnique = getUniqueSongCount(store.missingArtistSongs);
   clearStatsAggregateCache();
 }
 
@@ -698,6 +699,33 @@ function getSourceScopedSongs(source) {
     return store.sourceSongMap.get(source) || [];
   }
   return store.songs;
+}
+
+function getSourceSummary(source) {
+  if (source === 'missing-artist') {
+    return {
+      count: store.missingArtistSongs.length,
+      unique: store.missingArtistUnique
+    };
+  }
+  if (!source || source === 'all') {
+    return {
+      count: store.songs.length,
+      unique: store.totalUnique
+    };
+  }
+  const stat = store.sourceStats[source];
+  if (stat) {
+    return {
+      count: Number(stat.totalSongs || 0),
+      unique: Number(stat.totalUnique || 0)
+    };
+  }
+  const scoped = getSourceScopedSongs(source);
+  return {
+    count: scoped.length,
+    unique: getUniqueSongCount(scoped)
+  };
 }
 
 function filterCandidatesBySource(items, source) {
@@ -1313,9 +1341,10 @@ function handleSearch(reqUrl, res) {
     pubdate: fieldsList.includes('pubdate')
   };
 
-  let data = getSourceScopedSongs(source).slice();
-  const filteredBySourceCount = data.length;
-  const filteredBySourceUnique = getUniqueSongCount(data);
+  const sourceSummary = getSourceSummary(source);
+  let data = getSourceScopedSongs(source);
+  const filteredBySourceCount = sourceSummary.count;
+  const filteredBySourceUnique = sourceSummary.unique;
 
   if (query && Object.values(fields).some(Boolean)) {
     const condition = parseSearchQuery(query);
@@ -1327,7 +1356,8 @@ function handleSearch(reqUrl, res) {
   data = sortSongs(data, sort);
 
   const total = data.length;
-  const totalUnique = getUniqueSongCount(data);
+  const hasSearchCondition = query && Object.values(fields).some(Boolean);
+  const totalUnique = hasSearchCondition ? getUniqueSongCount(data) : filteredBySourceUnique;
   const start = (page - 1) * pageSize;
   const items = data.slice(start, start + pageSize);
 

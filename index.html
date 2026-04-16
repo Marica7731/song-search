@@ -905,6 +905,8 @@
         let currentSearchMeta = null;
         let bootstrapTotalSongs = 0;
         let bootstrapTotalUnique = 0;
+        let activeSearchController = null;
+        let activeSearchRequestId = 0;
 
         function setSearchReadyState(ready, message = '') {
             const searchInput = document.getElementById('search-input');
@@ -1512,8 +1514,15 @@
                     .map(([field]) => field)
                     .join(',');
                 const progressMsg = document.getElementById('progress-msg');
+                const requestId = ++activeSearchRequestId;
+                if (activeSearchController) {
+                    activeSearchController.abort();
+                }
+                activeSearchController = new AbortController();
+                const signal = activeSearchController.signal;
 
                 try {
+                    progressMsg.className = 'progress-msg';
                     progressMsg.style.display = 'block';
                     progressMsg.textContent = '🔎 正在从服务端查询歌库...';
 
@@ -1528,12 +1537,18 @@
                         params.set('q', keyword);
                     }
 
-                    const res = await fetch(`/api/search?${params.toString()}`);
+                    const res = await fetch(`/api/search?${params.toString()}`, {
+                        cache: 'no-store',
+                        signal
+                    });
                     if (!res.ok) {
                         throw new Error(`查询失败（状态码：${res.status}）`);
                     }
 
                     const payload = await res.json();
+                    if (requestId !== activeSearchRequestId) {
+                        return;
+                    }
                     filteredBySearch = Array.isArray(payload.items) ? payload.items : [];
                     currentSearchMeta = payload;
                     progressMsg.textContent = `✅ 查询完成，共 ${payload.total || 0} 条结果`;
@@ -1543,6 +1558,12 @@
                     renderSongList(filteredBySearch, payload.total || filteredBySearch.length);
                     return;
                 } catch (error) {
+                    if (error && error.name === 'AbortError') {
+                        return;
+                    }
+                    if (requestId !== activeSearchRequestId) {
+                        return;
+                    }
                     console.error('API 查询失败：', error);
                     progressMsg.className = 'progress-msg error-msg';
                     progressMsg.textContent = `❌ 查询失败：${error.message}`;
@@ -1933,34 +1954,36 @@
         async function bootstrap() {
             try {
                 const progressMsg = document.getElementById('progress-msg');
-                setSearchReadyState(false, '正在加载完整歌库，请稍候...');
+                setSearchReadyState(false, '正在初始化歌库，请稍候...');
                 try {
-                    const apiRes = await fetch('/api/all-songs?source=all');
-                    if (!apiRes.ok) throw new Error(`完整歌库加载失败（状态码：${apiRes.status}）`);
+                    const apiRes = await fetch('/api/bootstrap', { cache: 'no-store' });
+                    if (!apiRes.ok) throw new Error(`服务端引导失败（状态码：${apiRes.status}）`);
                     const apiData = await apiRes.json();
-                    const apiItems = Array.isArray(apiData.items) ? apiData.items : [];
-                    if (apiItems.length === 0) throw new Error('服务端未返回歌库数据');
-
-                    fileNames.push(...(apiData.files || []));
+                    const apiFiles = Array.isArray(apiData.files) ? apiData.files : [];
+                    if (apiFiles.length === 0) throw new Error('服务端未返回来源文件列表');
+                    fileNames.length = 0;
+                    fileNames.push(...apiFiles);
                     FILE_TO_ALIAS = apiData.fileToAlias || {};
                     SOURCE_STATS = apiData.sourceStats || {};
-                    originalData = apiItems;
-                    bootstrapTotalSongs = apiData.total || originalData.length;
-                    bootstrapTotalUnique = apiData.totalUnique || getUniqueSongCount(originalData);
-                    progressMsg.textContent = `✅ 服务端完整歌库已加载，总歌曲数：${bootstrapTotalSongs}`;
+                    originalData = [];
                     filteredBySource = [];
                     filteredBySearch = [];
                     currentSearchMeta = null;
-                    isApiMode = false;
-                    filteredBySource = [...originalData];
-                    filteredBySearch = [...originalData];
+                    bootstrapTotalSongs = Number(apiData.totalSongs || 0);
+                    bootstrapTotalUnique = Number(apiData.totalUnique || 0);
+                    progressMsg.textContent = `✅ 服务端模式已就绪，总歌曲数：${bootstrapTotalSongs}`;
+                    filteredBySource = [];
+                    filteredBySearch = [];
+                    currentSearchMeta = null;
+                    isApiMode = true;
                 } catch (apiError) {
-                    console.warn('完整歌库接口不可用，回退到静态模式：', apiError);
+                    console.warn('服务端引导不可用，回退到静态模式：', apiError);
                     isApiMode = false;
 
                     const res = await fetch('data/index.json');
                     if (!res.ok) throw new Error(`加载索引失败（状态码：${res.status}）`);
                     const config = await res.json();
+                    fileNames.length = 0;
                     fileNames.push(...(config.files || []));
                     FILE_TO_ALIAS = config.fileToAlias || {};
                     SOURCE_STATS = {};
@@ -1983,8 +2006,12 @@
                 initSearch();
                 document.getElementById('copy-all-btn').addEventListener('click', copyAllSearchResults);
                 setSearchReadyState(true, progressMsg.textContent);
-                updateStats();
-                renderSongList(filteredBySearch);
+                if (isApiMode) {
+                    await updateFilterAndSearch();
+                } else {
+                    updateStats();
+                    renderSongList(filteredBySearch);
+                }
 
             } catch (error) {
                 console.error('❌ 启动失败：', error);
