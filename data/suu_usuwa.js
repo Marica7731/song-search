@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 4/16/2026, 6:33:32 AM
+// 生成时间: 4/16/2026, 8:27:39 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -20558,7 +20558,7 @@ window.SONG_DATA.push(
   "source": "suu_usuwa.js"
 },
     {
-  "title": "rain stops, good",
+  "title": "rain stops, good -bye",
   "artist": "におP",
   "collection": "【🦢歌切】#140 [2026-04-15]周三定期歌回！圆框眼镜正在流行吗？ 稀羽すう - Suu Usuwa -",
   "up": "前尘往事如昔故",
