@@ -894,7 +894,12 @@
         let originalData = [];
         let filteredBySource = [];
         let filteredBySearch = [];
-        const PAGE_SIZE = 50;
+        const MOBILE_LAYOUT_QUERY = '(max-width: 900px)';
+        function isMobileLayout() {
+            return window.matchMedia(MOBILE_LAYOUT_QUERY).matches;
+        }
+        let PAGE_SIZE = isMobileLayout() ? 20 : 50;
+        let autoSearchEnabled = !isMobileLayout();
         let currentPage = 1;
         let activeSource = 'all';
         let currentSortMode = 'pubdate_desc';
@@ -907,6 +912,7 @@
         let bootstrapTotalUnique = 0;
         let activeSearchController = null;
         let activeSearchRequestId = 0;
+        let searchLoading = false;
 
         function setSearchReadyState(ready, message = '') {
             const searchInput = document.getElementById('search-input');
@@ -928,10 +934,15 @@
                 if (!ready) {
                     searchInput.placeholder = '歌库加载中，请稍候...';
                 } else {
-                    searchInput.placeholder = '输入关键词搜索...（支持 "精确匹配" AND OR 语法）';
+                    searchInput.placeholder = autoSearchEnabled
+                        ? '输入关键词搜索...（支持 "精确匹配" AND OR 语法）'
+                        : '输入关键词后点击“搜索”';
                 }
             }
-            if (searchBtn) searchBtn.disabled = !ready;
+            if (searchBtn) {
+                searchBtn.disabled = !ready || searchLoading;
+                searchBtn.textContent = searchLoading ? '搜索中...' : '搜索';
+            }
             if (sortSelect) sortSelect.disabled = !ready;
             if (copyAllBtn) copyAllBtn.disabled = !ready || filteredBySearch.length === 0;
             fieldCheckboxes.forEach(cb => {
@@ -942,6 +953,15 @@
                 progressMsg.className = 'progress-msg';
                 progressMsg.textContent = message;
             }
+        }
+
+        function setSearchLoading(loading) {
+            searchLoading = !!loading;
+            const searchBtn = document.getElementById('search-btn');
+            const searchInput = document.getElementById('search-input');
+            if (!searchBtn) return;
+            searchBtn.textContent = searchLoading ? '搜索中...' : '搜索';
+            searchBtn.disabled = searchLoading || !!(searchInput && searchInput.disabled);
         }
 
         function showCopyToast() {
@@ -1520,6 +1540,7 @@
                 }
                 activeSearchController = new AbortController();
                 const signal = activeSearchController.signal;
+                setSearchLoading(true);
 
                 try {
                     progressMsg.className = 'progress-msg';
@@ -1572,6 +1593,10 @@
                     updateStats();
                     renderSongList([]);
                     return;
+                } finally {
+                    if (requestId === activeSearchRequestId) {
+                        setSearchLoading(false);
+                    }
                 }
             }
 
@@ -1909,6 +1934,8 @@
             const searchBtn = document.getElementById('search-btn');
             const sortSelect = document.getElementById('sort-select');
             let searchTimer = null;
+            autoSearchEnabled = !isMobileLayout();
+            PAGE_SIZE = isMobileLayout() ? 20 : 50;
 
             const triggerSearchNow = () => {
                 clearTimeout(searchTimer);
@@ -1928,11 +1955,14 @@
             });
 
             searchInput.addEventListener('input', () => {
+                if (!autoSearchEnabled) {
+                    return;
+                }
                 clearTimeout(searchTimer);
                 searchTimer = setTimeout(() => {
                     currentPage = 1;
                     updateFilterAndSearch();
-                }, 300);
+                }, 450);
             });
 
             sortSelect.addEventListener('change', () => {
