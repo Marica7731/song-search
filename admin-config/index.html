@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>配置后台跳转中</title>
+  <meta http-equiv="refresh" content="0;url=/admin-singer-config.html">
+</head>
+<body>
+  <script>
+    (function () {
+      var target = '/admin-singer-config.html' + (window.location.hash || '');
+      window.location.replace(target);
+    })();
+  </script>
+</body>
+</html>
