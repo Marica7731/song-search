@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq
-// 生成时间: 4/16/2026, 7:13:46 PM
+// 生成时间: 4/16/2026, 8:13:58 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10411,6 +10411,622 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-04-14 小東ひとな / Hitona Kohigashi BecaU9zO25o",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QXdYBHEFr?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "にんじゃりばんばん",
+  "artist": "きゃりーぱみゅぱみゅ",
+  "collection": "歌切 2026-04-16 小東ひとな / Hitona Kohigashi Io4zKRm4wJ4",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LCdYBtEFC?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "Plazma",
+  "artist": "米津玄師",
+  "collection": "歌切 2026-04-16 小東ひとな / Hitona Kohigashi Io4zKRm4wJ4",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LCdYBtEFC?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ぴゅあぴゅあはーと",
+  "artist": "放課後ティータイム",
+  "collection": "歌切 2026-04-16 小東ひとな / Hitona Kohigashi Io4zKRm4wJ4",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LCdYBtEFC?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "Don't say “lazy”",
+  "artist": "桜高軽音部",
+  "collection": "歌切 2026-04-16 小東ひとな / Hitona Kohigashi Io4zKRm4wJ4",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LCdYBtEFC?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "歌切 2026-04-16 小東ひとな / Hitona Kohigashi Io4zKRm4wJ4",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LCdYBtEFC?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "わが名は小学生",
+  "artist": "丸井みつば・丸井ふたば・丸井ひとは",
+  "collection": "歌切 2026-04-16 小東ひとな / Hitona Kohigashi Io4zKRm4wJ4",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LCdYBtEFC?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "みむかゥわナイストライ",
+  "artist": "初音ミク",
+  "collection": "歌切 2026-04-16 小東ひとな / Hitona Kohigashi Io4zKRm4wJ4",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LCdYBtEFC?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "TOKOTOKO",
+  "collection": "歌切 2026-04-16 小東ひとな / Hitona Kohigashi Io4zKRm4wJ4",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LCdYBtEFC?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "歌切 2026-04-16 小東ひとな / Hitona Kohigashi Io4zKRm4wJ4",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LCdYBtEFC?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "漂流劇団",
+  "artist": "ズーカラデル",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "さよならエレジー",
+  "artist": "菅田将暉",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "カサブタ",
+  "artist": "千綿ヒデノリ",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "心拍数#0822",
+  "artist": "蝶々P",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "なんでもないや",
+  "artist": "RADWIMPS",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "時には昔の話を",
+  "artist": "加藤登紀子",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "関白宣言",
+  "artist": "さだまさし",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "キラキラチューン",
+  "artist": "でんぱ組.inc",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "国語",
+  "artist": "ハンバート ハンバート",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "ハンドメイドホーム",
+  "artist": "大森靖子",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "LOVEずっきゅん",
+  "artist": "相対性理論",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "世界の約束",
+  "artist": "倍賞千恵子",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "光",
+  "artist": "andymori",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "nostalgia",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "空も飛べるはず",
+  "artist": "スピッツ",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "ダダリオ",
+  "artist": "ズーカラデル",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "人として",
+  "artist": "SUPERBEAVER",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "夜空ノムコウ",
+  "artist": "SMAP",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "triangle",
+  "artist": "SMAP",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "サムライハート(SomeLikeItHot!!)",
+  "artist": "SPYAIR",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "かぞえうた",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "sunrise&sunset",
+  "artist": "andymori",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "レモン×",
+  "artist": "3markets",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "フライングゲット",
+  "artist": "AKB48",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "鎖の少女",
+  "artist": "のぼる↑",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "napori",
+  "artist": "Vaundy",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=27",
+  "source": "others.js"
+},
+    {
+  "title": "化粧",
+  "artist": "中島みゆき",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=28",
+  "source": "others.js"
+},
+    {
+  "title": "エイリアンエイリアン",
+  "artist": "ナユタン星人 feat. 初音ミク",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=29",
+  "source": "others.js"
+},
+    {
+  "title": "眼福",
+  "artist": "米津玄師",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=30",
+  "source": "others.js"
+},
+    {
+  "title": "ニホンノミカタ",
+  "artist": "矢島美容室",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=31",
+  "source": "others.js"
+},
+    {
+  "title": "羞恥心",
+  "artist": "羞恥心",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=32",
+  "source": "others.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=33",
+  "source": "others.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=34",
+  "source": "others.js"
+},
+    {
+  "title": "恋のマイアヒ",
+  "artist": "O-Zone",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=35",
+  "source": "others.js"
+},
+    {
+  "title": "修羅",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=36",
+  "source": "others.js"
+},
+    {
+  "title": "アメイジング•グレイス",
+  "artist": "讃美歌",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=37",
+  "source": "others.js"
+},
+    {
+  "title": "カヌレ",
+  "artist": "はる こたつぶとん倶楽部♧",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=38",
+  "source": "others.js"
+},
+    {
+  "title": "ともだちになるために",
+  "artist": "童謡",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=39",
+  "source": "others.js"
+},
+    {
+  "title": "ウェンディの本質",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=40",
+  "source": "others.js"
+},
+    {
+  "title": "有心論",
+  "artist": "RADWIMPS",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=41",
+  "source": "others.js"
+},
+    {
+  "title": "まっさら",
+  "artist": "amazarashi",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=42",
+  "source": "others.js"
+},
+    {
+  "title": "パッと咲いて散って灰に",
+  "artist": "CreepyNuts",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=43",
+  "source": "others.js"
+},
+    {
+  "title": "朝焼け、君の唄",
+  "artist": "ナノウ",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=44",
+  "source": "others.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=45",
+  "source": "others.js"
+},
+    {
+  "title": "朝顔",
+  "artist": "コブクロ",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=46",
+  "source": "others.js"
+},
+    {
+  "title": "グレゴリオ",
+  "artist": "古川本舗",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=47",
+  "source": "others.js"
+},
+    {
+  "title": "ロングホープフィリア",
+  "artist": "菅田将暉",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "幕無し",
+  "artist": "はる こたつぶとん倶楽部♧",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "マジカルダンサー",
+  "artist": "小山田壮平",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "春",
+  "artist": "はる こたつぶとん倶楽部♧",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "国語",
+  "artist": "ハンバートハンバート",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "アルバイト",
+  "artist": "3markets",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "感情七号線",
+  "artist": "フラワーカンパニーズ",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "さよなら人類",
+  "artist": "たま",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "バンド",
+  "artist": "クリープハイプ",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "モザイクロール",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "RAIN",
+  "artist": "SEKAI NO OWARI",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "夢の恋人",
+  "artist": "ズーカラデル",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "ココロジェリーフィッシュ",
+  "artist": "ヒグチアイ",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "もしも僕に",
+  "artist": "関取花",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "おあいこ",
+  "artist": "ハナレグミ",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "性善説",
+  "artist": "amazarashi",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "神様、",
+  "artist": "はる こたつぶとん倶楽部♧",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "あした地球がこなごな になっても",
+  "artist": "でんぱ組.inc",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "サーカスナイト",
+  "artist": "七尾旅人",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "爆弾魔",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=21",
   "source": "others.js"
 },
     {
