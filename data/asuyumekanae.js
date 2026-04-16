@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 4/16/2026, 8:52:56 PM
+// 生成时间: 4/16/2026, 9:36:23 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3227,6 +3227,174 @@ window.SONG_DATA.push(
   "collection": "【明日夢🎸弾き語り歌切】[2026-04-11]篝火与ヨルシカ限定歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sJQKBsEzW?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "fight",
+  "artist": "YUI",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-16]让我们悠闲地度过吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CQdiBUEB6?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "HELLO ～Paradise Kiss～",
+  "artist": "YUI",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-16]让我们悠闲地度过吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CQdiBUEB6?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-16]让我们悠闲地度过吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CQdiBUEB6?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー=中島愛",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-16]让我们悠闲地度过吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CQdiBUEB6?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ミッドナイト・リフレクション",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-16]让我们悠闲地度过吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CQdiBUEB6?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "サターン",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-16]让我们悠闲地度过吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CQdiBUEB6?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-16]让我们悠闲地度过吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CQdiBUEB6?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "栞",
+  "artist": "クリープハイプ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-16]让我们悠闲地度过吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CQdiBUEB6?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "メリールー",
+  "artist": "SIX LOUNGE",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-16]让我们悠闲地度过吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CQdiBUEB6?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ヨルノカタスミ",
+  "artist": "kobore",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-16]让我们悠闲地度过吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CQdiBUEB6?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "想いあい",
+  "artist": "The shes gone",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-16]让我们悠闲地度过吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CQdiBUEB6?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "またね",
+  "artist": "miwa",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-16]让我们悠闲地度过吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CQdiBUEB6?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "441",
+  "artist": "miwa",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-16]让我们悠闲地度过吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CQdiBUEB6?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "オトシモノ",
+  "artist": "miwa",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-16]让我们悠闲地度过吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CQdiBUEB6?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "もののけ姫",
+  "artist": "米良美一",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-16]让我们悠闲地度过吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CQdiBUEB6?p=15",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-16]让我们悠闲地度过吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CQdiBUEB6?p=16",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ガーネット",
+  "artist": "奥華子",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-16]让我们悠闲地度过吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CQdiBUEB6?p=17",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "夢の続き",
+  "artist": "Hakubi",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-16]让我们悠闲地度过吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CQdiBUEB6?p=18",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "3月9日",
+  "artist": "レミオロメン",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-16]让我们悠闲地度过吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CQdiBUEB6?p=19",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "歌うたいのバラッド",
+  "artist": "斉藤和義",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-16]让我们悠闲地度过吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CQdiBUEB6?p=20",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "冬眠",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-04-16]让我们悠闲地度过吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CQdiBUEB6?p=21",
   "source": "asuyumekanae.js"
 }
 );
