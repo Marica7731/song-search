@@ -31,6 +31,10 @@ const STATS_PREVIEW_SONG_LIMIT = 3;
 const STATS_PREVIEW_LINK_LIMIT = 8;
 const STATS_SUMMARY_LINK_LIMIT = 20;
 const STATS_PREVIEW_PERFORMANCE_LIMIT = 20;
+const DEFAULT_SINGER_CONFIG_PATH = path.join(ROOT, 'scripts', 'singer-configs.json');
+const ENV_SINGER_CONFIG_PATH = (process.env.SINGER_CONFIG_PATH || '').trim();
+const ENV_RUNTIME_SINGER_CONFIG_PATH = (process.env.SINGER_CONFIG_RUNTIME_PATH || '').trim();
+const RUNTIME_SINGER_CONFIG_CANDIDATES = buildRuntimeSingerConfigCandidates();
 
 let store = {
   songs: [],
@@ -66,7 +70,8 @@ const ROUTE_ALIASES = {
   '/check': 'title-artist-check.html',
   '/growth': 'song-growth.html',
   '/convert': 'converter.html',
-  '/legacy': 'bili-check.html'
+  '/legacy': 'bili-check.html',
+  '/admin-config': 'admin-singer-config.html'
 };
 
 function isValidArtist(artist) {
@@ -1670,6 +1675,158 @@ function handleDupCheck(req, res, body) {
   });
 }
 
+function uniquePaths(paths) {
+  const out = [];
+  const seen = new Set();
+  (Array.isArray(paths) ? paths : []).forEach(rawPath => {
+    const text = String(rawPath || '').trim();
+    if (!text) return;
+    const resolved = path.resolve(text);
+    const key = process.platform === 'win32' ? resolved.toLowerCase() : resolved;
+    if (seen.has(key)) return;
+    seen.add(key);
+    out.push(resolved);
+  });
+  return out;
+}
+
+function buildRuntimeSingerConfigCandidates() {
+  const candidates = [];
+  if (ENV_RUNTIME_SINGER_CONFIG_PATH) {
+    candidates.push(ENV_RUNTIME_SINGER_CONFIG_PATH);
+  }
+  if (process.platform !== 'win32') {
+    candidates.push('/var/lib/song-search/singer-configs.json');
+  }
+  candidates.push(path.join(ROOT, 'runtime', 'singer-configs.json'));
+  return uniquePaths(candidates);
+}
+
+function getSingerConfigReadCandidates() {
+  return uniquePaths([
+    ENV_SINGER_CONFIG_PATH,
+    ...RUNTIME_SINGER_CONFIG_CANDIDATES,
+    DEFAULT_SINGER_CONFIG_PATH
+  ]);
+}
+
+function normalizeSingerConfigItems(items, fromLabel = '配置') {
+  if (!Array.isArray(items)) {
+    throw new Error(`${fromLabel}根节点必须是数组`);
+  }
+
+  return items.map((rawItem, index) => {
+    if (!rawItem || typeof rawItem !== 'object' || Array.isArray(rawItem)) {
+      throw new Error(`${fromLabel}第 ${index + 1} 项不是对象`);
+    }
+
+    const rawBvids = Array.isArray(rawItem.bvids) ? rawItem.bvids : [];
+    const seenBv = new Set();
+    const normalizedBvids = [];
+    rawBvids.forEach(rawBv => {
+      const bv = extractBV(String(rawBv || '').toUpperCase());
+      if (!bv || seenBv.has(bv)) return;
+      seenBv.add(bv);
+      normalizedBvids.push(bv);
+    });
+    if (normalizedBvids.length === 0) {
+      throw new Error(`${fromLabel}第 ${index + 1} 项缺少有效 bvids`);
+    }
+
+    const normalizedItem = { bvids: normalizedBvids };
+    if (Object.prototype.hasOwnProperty.call(rawItem, 'file')) {
+      if (typeof rawItem.file !== 'string') {
+        throw new Error(`${fromLabel}第 ${index + 1} 项 file 必须是字符串`);
+      }
+      if (rawItem.file.trim()) {
+        normalizedItem.file = rawItem.file;
+      }
+    }
+    if (Object.prototype.hasOwnProperty.call(rawItem, 'alias')) {
+      if (typeof rawItem.alias !== 'string') {
+        throw new Error(`${fromLabel}第 ${index + 1} 项 alias 必须是字符串`);
+      }
+      if (rawItem.alias.trim()) {
+        normalizedItem.alias = rawItem.alias.trim();
+      }
+    }
+    return normalizedItem;
+  });
+}
+
+function parseSingerConfigFile(filePath) {
+  const rawText = fs.readFileSync(filePath, 'utf8');
+  const parsed = JSON.parse(rawText);
+  return normalizeSingerConfigItems(parsed, `配置文件(${filePath})`);
+}
+
+function isRuntimeSingerConfigPath(filePath) {
+  const resolved = path.resolve(filePath);
+  return RUNTIME_SINGER_CONFIG_CANDIDATES.some(item => path.resolve(item) === resolved);
+}
+
+function readSingerConfigWithMeta() {
+  const errors = [];
+  const candidates = getSingerConfigReadCandidates();
+  for (const filePath of candidates) {
+    if (!fs.existsSync(filePath)) continue;
+    try {
+      const configs = parseSingerConfigFile(filePath);
+      return {
+        configs,
+        loadedFrom: filePath,
+        runtimeOverrideActive: isRuntimeSingerConfigPath(filePath),
+        runtimeCandidates: RUNTIME_SINGER_CONFIG_CANDIDATES,
+        defaultPath: DEFAULT_SINGER_CONFIG_PATH
+      };
+    } catch (error) {
+      errors.push(`${filePath}: ${error.message}`);
+    }
+  }
+
+  throw new Error(errors.length > 0
+    ? `读取来源配置失败：${errors.join(' | ')}`
+    : '未找到可用来源配置文件');
+}
+
+function ensureParentDir(filePath) {
+  const dir = path.dirname(filePath);
+  fs.mkdirSync(dir, { recursive: true });
+}
+
+function writeRuntimeSingerConfig(configs) {
+  const payload = JSON.stringify(configs, null, 2) + '\n';
+  const errors = [];
+  for (const filePath of RUNTIME_SINGER_CONFIG_CANDIDATES) {
+    try {
+      ensureParentDir(filePath);
+      fs.writeFileSync(filePath, payload, 'utf8');
+      return filePath;
+    } catch (error) {
+      errors.push(`${filePath}: ${error.message}`);
+    }
+  }
+  throw new Error(`写入运行时配置失败：${errors.join(' | ')}`);
+}
+
+function deleteRuntimeSingerConfigFiles() {
+  const removed = [];
+  const errors = [];
+  RUNTIME_SINGER_CONFIG_CANDIDATES.forEach(filePath => {
+    if (!fs.existsSync(filePath)) return;
+    try {
+      fs.unlinkSync(filePath);
+      removed.push(filePath);
+    } catch (error) {
+      errors.push(`${filePath}: ${error.message}`);
+    }
+  });
+  if (errors.length > 0) {
+    throw new Error(`删除运行时配置失败：${errors.join(' | ')}`);
+  }
+  return removed;
+}
+
 function readAdminToken() {
   try {
     return fs.readFileSync(ADMIN_TOKEN_PATH, 'utf8').trim();
@@ -1788,6 +1945,98 @@ async function handleAdminRefresh(req, res) {
   });
 }
 
+async function handleAdminSingerConfigs(req, res) {
+  if (!withAdminAuth(req, res)) return;
+
+  if (req.method === 'GET') {
+    try {
+      const meta = readSingerConfigWithMeta();
+      sendJson(res, 200, {
+        ok: true,
+        loadedFrom: meta.loadedFrom,
+        runtimeOverrideActive: meta.runtimeOverrideActive,
+        runtimeCandidates: meta.runtimeCandidates,
+        defaultPath: meta.defaultPath,
+        configs: meta.configs
+      });
+    } catch (error) {
+      sendJson(res, 500, { error: error.message });
+    }
+    return;
+  }
+
+  if (req.method !== 'POST') {
+    sendJson(res, 405, { error: 'Method Not Allowed' });
+    return;
+  }
+
+  let body;
+  try {
+    body = await readRequestBody(req);
+  } catch (error) {
+    sendJson(res, 500, { error: error.message });
+    return;
+  }
+
+  let parsedPayload;
+  try {
+    parsedPayload = body ? JSON.parse(body) : {};
+  } catch (_) {
+    sendJson(res, 400, { error: 'Invalid JSON body' });
+    return;
+  }
+
+  const rawConfigs = Array.isArray(parsedPayload)
+    ? parsedPayload
+    : (Array.isArray(parsedPayload.configs) ? parsedPayload.configs : null);
+  if (!rawConfigs) {
+    sendJson(res, 400, { error: 'Body must be an array or {configs: []}' });
+    return;
+  }
+
+  let normalizedConfigs;
+  try {
+    normalizedConfigs = normalizeSingerConfigItems(rawConfigs, '请求体');
+  } catch (error) {
+    sendJson(res, 400, { error: error.message });
+    return;
+  }
+
+  try {
+    const savedPath = writeRuntimeSingerConfig(normalizedConfigs);
+    sendJson(res, 200, {
+      ok: true,
+      savedTo: savedPath,
+      sourceCount: normalizedConfigs.length,
+      bvidCount: normalizedConfigs.reduce((sum, item) => sum + item.bvids.length, 0)
+    });
+  } catch (error) {
+    sendJson(res, 500, { error: error.message });
+  }
+}
+
+async function handleAdminSingerConfigsReset(req, res) {
+  if (!withAdminAuth(req, res)) return;
+  if (req.method !== 'POST') {
+    sendJson(res, 405, { error: 'Method Not Allowed' });
+    return;
+  }
+
+  try {
+    const removed = deleteRuntimeSingerConfigFiles();
+    const meta = readSingerConfigWithMeta();
+    sendJson(res, 200, {
+      ok: true,
+      removed,
+      loadedFrom: meta.loadedFrom,
+      runtimeOverrideActive: meta.runtimeOverrideActive,
+      configs: meta.configs
+    });
+  } catch (error) {
+    sendJson(res, 500, { error: error.message });
+  }
+}
+
 loadSongStore();
 
 const server = http.createServer(async (req, res) => {
@@ -1835,6 +2084,14 @@ const server = http.createServer(async (req, res) => {
   }
   if (reqUrl.pathname === '/api/admin/refresh') {
     await handleAdminRefresh(req, res);
+    return;
+  }
+  if (reqUrl.pathname === '/api/admin/singer-configs') {
+    await handleAdminSingerConfigs(req, res);
+    return;
+  }
+  if (reqUrl.pathname === '/api/admin/singer-configs/reset-runtime') {
+    await handleAdminSingerConfigsReset(req, res);
     return;
   }
   if (reqUrl.pathname === '/api/title-artist/suggest') {

@@ -9,6 +9,7 @@
 - 歌名-歌手查重：`/title-artist-dup-check.html`
 - 歌名-歌手查询/校验：`/title-artist-check.html`
 - 旧综合页（保留）：`/bili-check.html`
+- 来源配置后台（管理员）：`/admin-config`
 
 > 站点地址（GitHub Pages）：  
 > [https://marica7731.github.io/song-search/](https://marica7731.github.io/song-search/)
@@ -44,6 +45,7 @@
 ### 1) 本地更新脚本
 - 脚本：`scripts/update-songs.js`
 - 配置源：`scripts/singer-configs.json`（BV 列表、文件名、别名）
+- 运行时覆盖（可选）：`/var/lib/song-search/singer-configs.json`（Linux）或 `runtime/singer-configs.json`（本地）
 - 产物：
   - `data/*.js`
   - `data/index.json`
@@ -101,6 +103,7 @@ song-search/
 
 ## 维护建议
 - 数据改动优先改 `scripts/singer-configs.json`（新增/移动 BV）
+- 线上可用 `/admin-config#admin=你的token` 直接改运行时配置，然后触发刷新
 - 页面功能改动在对应 HTML / JS 模块内进行
 - 推送前建议本地用 HTTP 跑一遍关键页面
 

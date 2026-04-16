@@ -9,63 +9,106 @@ const CLEAN_SUFFIX_REGEX = /(\s*\(\d+\)|_(sub|copy|backup|1080p|720p|\d+))$/i;
 const TRAILING_TAG_REGEX = /(?:\s*(?:\[[^\]]*\]|【[^】]*】|【[^】]*))+$/;
 const LEADING_SOURCE_REGEX = /^(?:\s*【[^】]+】)+\s*/;
 const LEADING_INDEX_REGEX = /^(?:\s*\[\d+(?:\s*[-/]\s*\d+)+\]\.?\s*|\s*\d+\.\s+|\s*P\d+[：:]\s*)/i;
-const SINGER_CONFIG_PATH = path.join(__dirname, 'singer-configs.json');
-
-const DEFAULT_SINGER_CONFIGS = [
-    { bvids: ["BV1JRwUzoEpM","BV1icwSzXEYv"], file: "asuyumekanae", alias: "明日夢かなえ" },
-    { bvids: ["BV1owcoz3Ekw"], file: "chiyutori ", alias: "知悠" },
-    { bvids: ["BV1R2wQzfEuY"], file: "momijimaru", alias: "紅葉丸" },
-    { bvids: ["BV1G4wxzmEV5"], file: "kukuri", alias: "戸鎖くくり" },
-    { bvids: ["BV1G6fLB7Efr","BV1J5P7zrEB3"], file: "naraetan", alias: "なれたん Naraetan" },
-    { bvids: ["BV1HRfuBCEXN"], file: "figaro", alias: "Figaro" },
-    { bvids: ["BV1cofuBGEkX"], file: "ririsya", alias: "凛凛咲 ririsya" },
-    { bvids: ["BV1ve411z7Nm"], file: "suu_usuwa", alias: "稀羽すう Suu_Usuwa" },
-    { bvids: ["BV1mJZwB8EVa"], file: "ray", alias: "來-Ray-" },
-    { bvids: ["BV1JSZHBrEVw"], file: "sakusan", alias: "酢酸 / SAKUSAN" },
-    { bvids: ["BV1p1zBBCEZ3"], file: "yoshika", alias: "よしか YOSHIKA" },
-    { bvids: ["BV1aDzEBBE3S"], file: "yuri", alias: "優莉 yuri" },
-    { bvids: ["BV1zzZPBsEum"], file: "otomoneruki", alias: "音門るき" },
-    { bvids: ["BV1dGqeYpEuc"], file: "earendel", alias: "厄倫蒂兒" },
-    { bvids: ["BV1hw4m1i7qN"], file: "linon", alias: "天籠りのん" },
-    { bvids: ["BV1MEP8z4E1J"], file: "stella", alias: "天ノ譜ステラ" },
-    { bvids: ["BV11fQSB2ELX"], file: "hoshiho", alias: "HoshiHo" },
-    { bvids: ["BV167c2znErj"], file: "shuna", alias: "朱名" },
-    { bvids: ["BV1GXYFzXETo","BV1MPpUzsE1D","BV184W5zeE1Z"], file: "nayuta", alias: "nayuta" },
-    { bvids: ["BV1UCkhBkEon"], file: "MunMosh", alias: "むんもっしゅ" },
-    { bvids: ["BV1kLXbBJEiZ"], file: "sumica", alias: "澄花" },
-    { bvids: ["BV1KHXxBUErU","BV1iHQXBzEgU"], file: "romany", alias: "ロマニ" },
-    { bvids: ["BV1eTkKYDENL"], file: "friends", alias: "联动" },
-    { bvids: ["BV1rkCTYzEZN","BV1wt421j7gT","BV1KpCdYmE3T","BV1aC4ce2E5s","BV1JbX9BmE5m"], file: "relay", alias: "接力" },
-    { bvids: ["BV11GZtBcEsp","BV1xucZzxEkZ","BV117P2zwEuq","BV1r1RsYDEvB"], file: "others", alias: "非常驻妹妹" },
-    { bvids: ["BV1Qa9JB6EAw"], alias: "陽月るるふ" }
-];
-
-function loadSingerConfigs() {
-    if (!fs.existsSync(SINGER_CONFIG_PATH)) {
-        console.warn(`?? 未找到配置文件，回退默认配置：${SINGER_CONFIG_PATH}`);
-        return DEFAULT_SINGER_CONFIGS;
-    }
-
-    try {
-        const parsed = JSON.parse(fs.readFileSync(SINGER_CONFIG_PATH, 'utf8'));
-        if (!Array.isArray(parsed)) {
-            throw new Error('配置文件根节点必须是数组');
-        }
-        return parsed;
-    } catch (error) {
-        console.warn(`?? 读取配置文件失败，回退默认配置：${error.message}`);
-        return DEFAULT_SINGER_CONFIGS;
-    }
-}
-
-const SINGER_CONFIGS = loadSingerConfigs();
-
 const ROOT_DIR = path.join(__dirname, '..');
+const DEFAULT_SINGER_CONFIG_PATH = path.join(__dirname, 'singer-configs.json');
+const ENV_SINGER_CONFIG_PATH = (process.env.SINGER_CONFIG_PATH || '').trim();
+const ENV_RUNTIME_SINGER_CONFIG_PATH = (process.env.SINGER_CONFIG_RUNTIME_PATH || '').trim();
 const DATA_DIR = path.join(ROOT_DIR, 'data');
 const REPORT_DIR = path.join(ROOT_DIR, 'reports');
 const INDEX_PATH = path.join(DATA_DIR, 'index.json');
 const METADATA_CACHE_PATH = path.join(REPORT_DIR, 'bv-metadata-cache.json');
 const UPDATE_META_PATH = path.join(REPORT_DIR, 'update-songs-meta.json');
+
+function uniquePaths(paths) {
+    const out = [];
+    const seen = new Set();
+    (Array.isArray(paths) ? paths : []).forEach(rawPath => {
+        const text = String(rawPath || '').trim();
+        if (!text) return;
+        const resolved = path.resolve(text);
+        const key = process.platform === 'win32' ? resolved.toLowerCase() : resolved;
+        if (seen.has(key)) return;
+        seen.add(key);
+        out.push(resolved);
+    });
+    return out;
+}
+
+function buildRuntimeSingerConfigCandidates() {
+    const candidates = [];
+    if (ENV_RUNTIME_SINGER_CONFIG_PATH) {
+        candidates.push(ENV_RUNTIME_SINGER_CONFIG_PATH);
+    }
+    if (process.platform !== 'win32') {
+        candidates.push('/var/lib/song-search/singer-configs.json');
+    }
+    candidates.push(path.join(ROOT_DIR, 'runtime', 'singer-configs.json'));
+    return uniquePaths(candidates);
+}
+
+function getSingerConfigCandidatePaths() {
+    return uniquePaths([
+        ENV_SINGER_CONFIG_PATH,
+        ...buildRuntimeSingerConfigCandidates(),
+        DEFAULT_SINGER_CONFIG_PATH
+    ]);
+}
+
+function normalizeSingerConfigItems(items, fromLabel = '配置') {
+    if (!Array.isArray(items)) {
+        throw new Error(`${fromLabel}根节点必须是数组`);
+    }
+    return items.map((rawItem, index) => {
+        if (!rawItem || typeof rawItem !== 'object' || Array.isArray(rawItem)) {
+            throw new Error(`${fromLabel}第 ${index + 1} 项不是对象`);
+        }
+
+        const rawBvids = Array.isArray(rawItem.bvids) ? rawItem.bvids : [];
+        const seen = new Set();
+        const normalizedBvids = [];
+        rawBvids.forEach(rawBv => {
+            const matched = String(rawBv || '').toUpperCase().match(BV_REGEX);
+            const bv = matched ? matched[0] : '';
+            if (!bv || seen.has(bv)) return;
+            seen.add(bv);
+            normalizedBvids.push(bv);
+        });
+        if (normalizedBvids.length === 0) {
+            throw new Error(`${fromLabel}第 ${index + 1} 项缺少有效 bvids`);
+        }
+
+        return {
+            ...rawItem,
+            bvids: normalizedBvids
+        };
+    });
+}
+
+function loadSingerConfigs() {
+    const errors = [];
+    const candidates = getSingerConfigCandidatePaths();
+    for (const filePath of candidates) {
+        if (!fs.existsSync(filePath)) continue;
+        try {
+            const rawText = fs.readFileSync(filePath, 'utf8');
+            const parsed = JSON.parse(rawText);
+            return {
+                configs: normalizeSingerConfigItems(parsed, `配置文件(${filePath})`),
+                loadedFrom: filePath
+            };
+        } catch (error) {
+            errors.push(`${filePath}: ${error.message}`);
+        }
+    }
+
+    throw new Error(errors.length > 0
+        ? `读取来源配置失败：${errors.join(' | ')}`
+        : `未找到可用配置文件: ${DEFAULT_SINGER_CONFIG_PATH}`);
+}
+
+const loadedSingerConfig = loadSingerConfigs();
+const SINGER_CONFIGS = loadedSingerConfig.configs;
+console.log(`📦 来源配置: ${loadedSingerConfig.loadedFrom}`);
 
 function ensureDir(dirPath) {
     if (!fs.existsSync(dirPath)) {
