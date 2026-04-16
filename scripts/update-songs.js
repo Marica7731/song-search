@@ -9,8 +9,9 @@ const CLEAN_SUFFIX_REGEX = /(\s*\(\d+\)|_(sub|copy|backup|1080p|720p|\d+))$/i;
 const TRAILING_TAG_REGEX = /(?:\s*(?:\[[^\]]*\]|【[^】]*】|【[^】]*))+$/;
 const LEADING_SOURCE_REGEX = /^(?:\s*【[^】]+】)+\s*/;
 const LEADING_INDEX_REGEX = /^(?:\s*\[\d+(?:\s*[-/]\s*\d+)+\]\.?\s*|\s*\d+\.\s+|\s*P\d+[：:]\s*)/i;
+const SINGER_CONFIG_PATH = path.join(__dirname, 'singer-configs.json');
 
-const SINGER_CONFIGS = [
+const DEFAULT_SINGER_CONFIGS = [
     { bvids: ["BV1JRwUzoEpM","BV1icwSzXEYv"], file: "asuyumekanae", alias: "明日夢かなえ" },
     { bvids: ["BV1owcoz3Ekw"], file: "chiyutori ", alias: "知悠" },
     { bvids: ["BV1R2wQzfEuY"], file: "momijimaru", alias: "紅葉丸" },
@@ -38,6 +39,26 @@ const SINGER_CONFIGS = [
     { bvids: ["BV11GZtBcEsp","BV1xucZzxEkZ","BV117P2zwEuq","BV1r1RsYDEvB"], file: "others", alias: "非常驻妹妹" },
     { bvids: ["BV1Qa9JB6EAw"], alias: "陽月るるふ" }
 ];
+
+function loadSingerConfigs() {
+    if (!fs.existsSync(SINGER_CONFIG_PATH)) {
+        console.warn(`?? 未找到配置文件，回退默认配置：${SINGER_CONFIG_PATH}`);
+        return DEFAULT_SINGER_CONFIGS;
+    }
+
+    try {
+        const parsed = JSON.parse(fs.readFileSync(SINGER_CONFIG_PATH, 'utf8'));
+        if (!Array.isArray(parsed)) {
+            throw new Error('配置文件根节点必须是数组');
+        }
+        return parsed;
+    } catch (error) {
+        console.warn(`?? 读取配置文件失败，回退默认配置：${error.message}`);
+        return DEFAULT_SINGER_CONFIGS;
+    }
+}
+
+const SINGER_CONFIGS = loadSingerConfigs();
 
 const ROOT_DIR = path.join(__dirname, '..');
 const DATA_DIR = path.join(ROOT_DIR, 'data');

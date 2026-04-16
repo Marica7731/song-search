@@ -24,6 +24,7 @@
     "romany.js",
     "friends.js",
     "relay.js",
+    "culua.js",
     "others.js",
     "bv1qa9jb6eaw.js"
   ],
@@ -52,6 +53,7 @@
     "romany": "ロマニ",
     "friends": "联动",
     "relay": "接力",
+    "culua": "CULUA",
     "others": "非常驻妹妹",
     "bv1qa9jb6eaw": "陽月るるふ"
   }

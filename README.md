@@ -43,7 +43,7 @@
 
 ### 1) 本地更新脚本
 - 脚本：`scripts/update-songs.js`
-- 配置源：脚本内 `SINGER_CONFIGS`（BV 列表、文件名、别名）
+- 配置源：`scripts/singer-configs.json`（BV 列表、文件名、别名）
 - 产物：
   - `data/*.js`
   - `data/index.json`
@@ -100,7 +100,7 @@ song-search/
 ```
 
 ## 维护建议
-- 数据改动优先改 `scripts/update-songs.js`（尤其是 `SINGER_CONFIGS`）
+- 数据改动优先改 `scripts/singer-configs.json`（新增/移动 BV）
 - 页面功能改动在对应 HTML / JS 模块内进行
 - 推送前建议本地用 HTTP 跑一遍关键页面
 
