@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq
-// 生成时间: 4/16/2026, 8:13:58 PM
+// 生成时间: 4/16/2026, 9:05:24 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2723,6 +2723,110 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-04-13]很伤心｜柔和的歌单第28弹 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HgQ8BUE36?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "眩々",
+  "artist": "VocaDuo2025",
+  "collection": "【歌切】[2026-04-16]男性声乐曲限定｜Culua′s 精选歌单第29弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XediBcEVE?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "鬼ノ宴",
+  "artist": "友成空",
+  "collection": "【歌切】[2026-04-16]男性声乐曲限定｜Culua′s 精选歌单第29弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XediBcEVE?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "青い春",
+  "artist": "back number",
+  "collection": "【歌切】[2026-04-16]男性声乐曲限定｜Culua′s 精选歌单第29弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XediBcEVE?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "雫",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-04-16]男性声乐曲限定｜Culua′s 精选歌单第29弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XediBcEVE?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "傘",
+  "artist": "King Gnu",
+  "collection": "【歌切】[2026-04-16]男性声乐曲限定｜Culua′s 精选歌单第29弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XediBcEVE?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "黒猫 ～Adult Black Cat～",
+  "artist": "Acid black cherry",
+  "collection": "【歌切】[2026-04-16]男性声乐曲限定｜Culua′s 精选歌单第29弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XediBcEVE?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ずうっといっしょ!",
+  "artist": "キタニタツヤ",
+  "collection": "【歌切】[2026-04-16]男性声乐曲限定｜Culua′s 精选歌单第29弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XediBcEVE?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-04-16]男性声乐曲限定｜Culua′s 精选歌单第29弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XediBcEVE?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-04-16]男性声乐曲限定｜Culua′s 精选歌单第29弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XediBcEVE?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "人間みたいね",
+  "artist": "キタニタツヤ",
+  "collection": "【歌切】[2026-04-16]男性声乐曲限定｜Culua′s 精选歌单第29弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XediBcEVE?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "Prayer X",
+  "artist": "King Gnu",
+  "collection": "【歌切】[2026-04-16]男性声乐曲限定｜Culua′s 精选歌单第29弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XediBcEVE?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "unravel",
+  "artist": "TK from 凛として時雨",
+  "collection": "【歌切】[2026-04-16]男性声乐曲限定｜Culua′s 精选歌单第29弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XediBcEVE?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
+  "collection": "【歌切】[2026-04-16]男性声乐曲限定｜Culua′s 精选歌单第29弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XediBcEVE?p=13",
   "source": "others.js"
 },
     {

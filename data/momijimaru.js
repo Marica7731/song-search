@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 4/16/2026, 8:01:35 PM
+// 生成时间: 4/16/2026, 8:53:21 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2819,6 +2819,70 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-04-15]春のアコギ演奏会🌸 癒される弾き語り練習歌枠🌸✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zxQpBsEnQ?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "PAKU",
+  "artist": "asmi",
+  "collection": "【🍁歌切】[2026-04-16]早晨的陪伴，来一起悠闲聊天和歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DzdiBoEh8?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ジェラシス",
+  "artist": "Chinozo feat. 可不",
+  "collection": "【🍁歌切】[2026-04-16]早晨的陪伴，来一起悠闲聊天和歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DzdiBoEh8?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "祭り囃子でゲラゲラポー",
+  "artist": "キング・クリームソーダ",
+  "collection": "【🍁歌切】[2026-04-16]早晨的陪伴，来一起悠闲聊天和歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DzdiBoEh8?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍁歌切】[2026-04-16]早晨的陪伴，来一起悠闲聊天和歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DzdiBoEh8?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "『推しの子(第3期)』なとり",
+  "collection": "【🍁歌切】[2026-04-16]早晨的陪伴，来一起悠闲聊天和歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DzdiBoEh8?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "メフィスト",
+  "artist": "女王蜂",
+  "collection": "【🍁歌切】[2026-04-16]早晨的陪伴，来一起悠闲聊天和歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DzdiBoEh8?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "メーベル",
+  "artist": "バルーン",
+  "collection": "【🍁歌切】[2026-04-16]早晨的陪伴，来一起悠闲聊天和歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DzdiBoEh8?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "フィラメントフィーバー",
+  "artist": "蜂屋ななし",
+  "collection": "【🍁歌切】[2026-04-16]早晨的陪伴，来一起悠闲聊天和歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DzdiBoEh8?p=8",
   "source": "momijimaru.js"
 }
 );
