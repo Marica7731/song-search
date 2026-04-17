@@ -1,6 +1,6 @@
 // ロマニ - 歌单数据 (多合集汇总)
 // 来源: BV1KHXxBUErU, BV1iHQXBzEgU
-// 生成时间: 4/17/2026, 1:41:26 AM
+// 生成时间: 4/17/2026, 4:52:12 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -430,6 +430,158 @@ window.SONG_DATA.push(
   "source": "romany.js"
 },
     {
+  "title": "ミッドナイト・リフレクション",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【ロマニ歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=1",
+  "source": "romany.js"
+},
+    {
+  "title": "GG",
+  "artist": "ReoNa",
+  "collection": "【ロマニ歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=2",
+  "source": "romany.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "【ロマニ歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=3",
+  "source": "romany.js"
+},
+    {
+  "title": "トウキョウ・シャンディ・ランデヴ",
+  "artist": "MAISONdes",
+  "collection": "【ロマニ歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=4",
+  "source": "romany.js"
+},
+    {
+  "title": "only my railgun",
+  "artist": "fripSide",
+  "collection": "【ロマニ歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=5",
+  "source": "romany.js"
+},
+    {
+  "title": "sister's noise",
+  "artist": "fripSide",
+  "collection": "【ロマニ歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=6",
+  "source": "romany.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【ロマニ歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=7",
+  "source": "romany.js"
+},
+    {
+  "title": "God knows…",
+  "artist": "涼宮ハルヒ(平野綾)",
+  "collection": "【ロマニ歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=8",
+  "source": "romany.js"
+},
+    {
+  "title": "oath sign",
+  "artist": "LiSA",
+  "collection": "【ロマニ歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=9",
+  "source": "romany.js"
+},
+    {
+  "title": "Rising Hope",
+  "artist": "LiSA",
+  "collection": "【ロマニ歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=10",
+  "source": "romany.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【ロマニ歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=11",
+  "source": "romany.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "May'n & 中島愛",
+  "collection": "【ロマニ歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=12",
+  "source": "romany.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【ロマニ歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=13",
+  "source": "romany.js"
+},
+    {
+  "title": "新時代",
+  "artist": "Ado",
+  "collection": "【ロマニ歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=14",
+  "source": "romany.js"
+},
+    {
+  "title": "レイメイ",
+  "artist": "酸欠少女さユり×MY FIRST STORY",
+  "collection": "【ロマニ歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=15",
+  "source": "romany.js"
+},
+    {
+  "title": "シルシ",
+  "artist": "LiSA",
+  "collection": "【ロマニ歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=16",
+  "source": "romany.js"
+},
+    {
+  "title": "ANIMA",
+  "artist": "ReoNa",
+  "collection": "【ロマニ歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=17",
+  "source": "romany.js"
+},
+    {
+  "title": "ラブドリ！",
+  "artist": "ロマニードットアイオー",
+  "collection": "【ロマニ歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=18",
+  "source": "romany.js"
+},
+    {
+  "title": "アンノウン・マザーグース",
+  "artist": "wowaka",
+  "collection": "【ロマニ歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=19",
+  "source": "romany.js"
+},
+    {
   "title": "愛を伝えたいだとか",
   "artist": "あいみょん",
   "collection": "歌势推荐：ロマニードットアイオー 2026-03-22 uFO8GvSxPcU",
@@ -851,158 +1003,6 @@ window.SONG_DATA.push(
   "collection": "【ロマニ🎸弾き語り歌切】[2026-04-12]4月12日 星期日 惯例歌回——✦喜欢安静的夜晚🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pPQxBTEpH?p=12",
-  "source": "romany.js"
-},
-    {
-  "title": "ミッドナイト・リフレクション",
-  "artist": "NOMELON NOLEMON",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=1",
-  "source": "romany.js"
-},
-    {
-  "title": "GG",
-  "artist": "ReoNa",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=2",
-  "source": "romany.js"
-},
-    {
-  "title": "名前のない怪物",
-  "artist": "EGOIST",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=3",
-  "source": "romany.js"
-},
-    {
-  "title": "トウキョウ・シャンディ・ランデヴ",
-  "artist": "MAISONdes",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=4",
-  "source": "romany.js"
-},
-    {
-  "title": "only my railgun",
-  "artist": "fripSide",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=5",
-  "source": "romany.js"
-},
-    {
-  "title": "sister's noise",
-  "artist": "fripSide",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=6",
-  "source": "romany.js"
-},
-    {
-  "title": "コネクト",
-  "artist": "ClariS",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=7",
-  "source": "romany.js"
-},
-    {
-  "title": "God knows…",
-  "artist": "涼宮ハルヒ(平野綾)",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=8",
-  "source": "romany.js"
-},
-    {
-  "title": "oath sign",
-  "artist": "LiSA",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=9",
-  "source": "romany.js"
-},
-    {
-  "title": "Rising Hope",
-  "artist": "LiSA",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=10",
-  "source": "romany.js"
-},
-    {
-  "title": "革命道中",
-  "artist": "アイナ・ジ・エンド",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=11",
-  "source": "romany.js"
-},
-    {
-  "title": "ライオン",
-  "artist": "May'n & 中島愛",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=12",
-  "source": "romany.js"
-},
-    {
-  "title": "君の知らない物語",
-  "artist": "supercell",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=13",
-  "source": "romany.js"
-},
-    {
-  "title": "新時代",
-  "artist": "Ado",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=14",
-  "source": "romany.js"
-},
-    {
-  "title": "レイメイ",
-  "artist": "酸欠少女さユり×MY FIRST STORY",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=15",
-  "source": "romany.js"
-},
-    {
-  "title": "シルシ",
-  "artist": "LiSA",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=16",
-  "source": "romany.js"
-},
-    {
-  "title": "ANIMA",
-  "artist": "ReoNa",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=17",
-  "source": "romany.js"
-},
-    {
-  "title": "ラブドリ！",
-  "artist": "ロマニードットアイオー",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=18",
-  "source": "romany.js"
-},
-    {
-  "title": "アンノウン・マザーグース",
-  "artist": "wowaka",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-16]请聆听我的声音⚡──✦ 动漫歌曲歌回直播 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1k9diB7EDk?p=19",
   "source": "romany.js"
 }
 );
