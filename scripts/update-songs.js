@@ -54,6 +54,11 @@ function getSingerConfigCandidatePaths() {
     ]);
 }
 
+function extractBvPreserveCase(rawValue) {
+    const matched = String(rawValue || '').match(BV_REGEX);
+    return matched ? matched[0] : '';
+}
+
 function normalizeSingerConfigItems(items, fromLabel = '配置') {
     if (!Array.isArray(items)) {
         throw new Error(`${fromLabel}根节点必须是数组`);
@@ -67,10 +72,11 @@ function normalizeSingerConfigItems(items, fromLabel = '配置') {
         const seen = new Set();
         const normalizedBvids = [];
         rawBvids.forEach(rawBv => {
-            const matched = String(rawBv || '').toUpperCase().match(BV_REGEX);
-            const bv = matched ? matched[0] : '';
-            if (!bv || seen.has(bv)) return;
-            seen.add(bv);
+            const bv = extractBvPreserveCase(rawBv);
+            if (!bv) return;
+            const dedupeKey = bv.toLowerCase();
+            if (seen.has(dedupeKey)) return;
+            seen.add(dedupeKey);
             normalizedBvids.push(bv);
         });
         if (normalizedBvids.length === 0) {

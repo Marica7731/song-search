@@ -86,6 +86,12 @@ function extractBV(value) {
   return matched ? matched[0].toUpperCase() : '';
 }
 
+function extractBvPreserveCase(value) {
+  if (!value) return '';
+  const matched = String(value).match(/BV[a-zA-Z0-9]+/);
+  return matched ? matched[0] : '';
+}
+
 function getUniqueSongCount(data) {
   if (data.length === 0) return 0;
   const titleGroup = {};
@@ -1754,9 +1760,11 @@ function normalizeSingerConfigItems(items, fromLabel = '配置') {
     const seenBv = new Set();
     const normalizedBvids = [];
     rawBvids.forEach(rawBv => {
-      const bv = extractBV(String(rawBv || '').toUpperCase());
-      if (!bv || seenBv.has(bv)) return;
-      seenBv.add(bv);
+      const bv = extractBvPreserveCase(rawBv);
+      if (!bv) return;
+      const dedupeKey = bv.toLowerCase();
+      if (seenBv.has(dedupeKey)) return;
+      seenBv.add(dedupeKey);
       normalizedBvids.push(bv);
     });
     if (normalizedBvids.length === 0) {
