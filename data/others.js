@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq
-// 生成时间: 4/17/2026, 4:54:56 AM
+// 生成时间: 4/17/2026, 6:43:34 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -11131,6 +11131,86 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono!",
+  "collection": "歌切 2026-04-16 がびのお部屋-Gabi's room- g0Kpr3CuOWU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18JdqB8EvR?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "世界一HAPPYな女の子",
+  "artist": "℃-ute",
+  "collection": "歌切 2026-04-16 がびのお部屋-Gabi's room- g0Kpr3CuOWU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18JdqB8EvR?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "可愛くなりたい",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "歌切 2026-04-16 がびのお部屋-Gabi's room- g0Kpr3CuOWU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18JdqB8EvR?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "初音ミク",
+  "collection": "歌切 2026-04-16 がびのお部屋-Gabi's room- g0Kpr3CuOWU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18JdqB8EvR?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "ヒーロー",
+  "artist": "supercell",
+  "collection": "歌切 2026-04-16 がびのお部屋-Gabi's room- g0Kpr3CuOWU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18JdqB8EvR?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "favorite song",
+  "artist": "ふみの",
+  "collection": "歌切 2026-04-16 がびのお部屋-Gabi's room- g0Kpr3CuOWU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18JdqB8EvR?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "センパイ。",
+  "artist": "HoneyWorks meets TrySail",
+  "collection": "歌切 2026-04-16 がびのお部屋-Gabi's room- g0Kpr3CuOWU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18JdqB8EvR?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "魔法のない世界で生きるということ",
+  "artist": "Euluca Lab.",
+  "collection": "歌切 2026-04-16 がびのお部屋-Gabi's room- g0Kpr3CuOWU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18JdqB8EvR?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "SAD SONG",
+  "artist": "ちゃんみな",
+  "collection": "歌切 2026-04-16 がびのお部屋-Gabi's room- g0Kpr3CuOWU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18JdqB8EvR?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "遠いこの街で",
+  "artist": "皆谷尚美",
+  "collection": "歌切 2026-04-16 がびのお部屋-Gabi's room- g0Kpr3CuOWU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18JdqB8EvR?p=10",
   "source": "others.js"
 },
     {
