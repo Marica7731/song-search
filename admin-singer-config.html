@@ -15,23 +15,34 @@
       color: #1f2937;
     }
     .page {
-      max-width: 1280px;
+      max-width: 1040px;
       margin: 0 auto;
-      padding: 24px 16px 32px;
+      padding: 24px 16px 48px;
+    }
+    .page-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      align-items: flex-start;
+      margin-bottom: 16px;
+    }
+    .page-head-main {
+      min-width: 0;
     }
     h1 {
       margin: 0 0 8px;
-      font-size: 26px;
+      font-size: 28px;
       font-weight: 700;
       color: #111827;
     }
     .desc {
-      margin: 0 0 14px;
+      margin: 0;
       font-size: 14px;
+      line-height: 1.7;
       color: #6b7280;
     }
     .top-nav {
-      margin-bottom: 16px;
+      margin: 12px 0 0;
       font-size: 14px;
       color: #4b5563;
     }
@@ -41,26 +52,23 @@
       font-weight: 600;
     }
     .top-nav a:hover { text-decoration: underline; }
+    .head-actions {
+      flex: 0 0 auto;
+    }
     .panel {
       background: #fff;
       border: 1px solid #d1d5db;
-      border-radius: 10px;
-      padding: 14px;
+      border-radius: 14px;
+      padding: 16px;
       box-shadow: 0 2px 10px rgba(15, 23, 42, 0.05);
-    }
-    .actions {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      margin-bottom: 10px;
     }
     button {
       border: 1px solid #cbd5e1;
       background: #ffffff;
       color: #0f172a;
-      height: 34px;
+      min-height: 36px;
       padding: 0 14px;
-      border-radius: 6px;
+      border-radius: 8px;
       font-size: 13px;
       cursor: pointer;
     }
@@ -72,100 +80,535 @@
       opacity: 0.6;
       cursor: not-allowed;
     }
-    .status {
-      min-height: 22px;
-      margin-bottom: 8px;
-      font-size: 13px;
-      color: #475569;
+    .primary {
+      background: #0f766e;
+      border-color: #0f766e;
+      color: #fff;
     }
-    .status.error { color: #b91c1c; }
-    .meta {
+    .primary:hover:not(:disabled) {
+      background: #115e59;
+      border-color: #115e59;
+    }
+    .danger {
+      color: #b91c1c;
+      border-color: #f3b5b5;
+      background: #fff7f7;
+    }
+    .danger:hover:not(:disabled) {
+      background: #fef2f2;
+      border-color: #ef4444;
+    }
+    .notice {
+      display: none;
+      margin-bottom: 14px;
+      border-radius: 12px;
+      padding: 11px 14px;
+      font-size: 13px;
+      line-height: 1.7;
+      border: 1px solid #dbe4ee;
+      background: #fff;
+    }
+    .notice.show { display: block; }
+    .notice.error {
+      border-color: #fecaca;
+      background: #fff1f2;
+      color: #991b1b;
+    }
+    .notice.warning {
+      border-color: #fcd34d;
+      background: #fffbeb;
+      color: #92400e;
+    }
+    .notice.success {
+      border-color: #a7f3d0;
+      background: #ecfdf5;
+      color: #065f46;
+    }
+    .source-list {
       display: grid;
-      gap: 4px;
-      margin-bottom: 10px;
+      gap: 14px;
+    }
+    .source-card {
+      border: 1px solid #dbe4ee;
+      border-radius: 14px;
+      padding: 16px;
+      background: #fff;
+      scroll-margin-top: 84px;
+    }
+    .source-card.has-error {
+      border-color: #fda4af;
+      box-shadow: 0 0 0 3px rgba(244, 63, 94, 0.08);
+    }
+    .source-card.has-warning {
+      border-color: #fcd34d;
+      box-shadow: 0 0 0 3px rgba(245, 158, 11, 0.08);
+    }
+    .source-card.is-active {
+      border-color: #14b8a6;
+      box-shadow: 0 0 0 3px rgba(20, 184, 166, 0.10);
+    }
+    .source-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 12px;
+      flex-wrap: wrap;
+      margin-bottom: 12px;
+    }
+    .source-header-main {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+      min-width: 0;
+    }
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      min-height: 24px;
+      padding: 0 10px;
+      border-radius: 999px;
+      background: #e0f2fe;
+      color: #075985;
+      font-size: 12px;
+      font-weight: 700;
+    }
+    .source-title {
+      font-size: 17px;
+      font-weight: 700;
+      color: #111827;
+      word-break: break-word;
+    }
+    .source-sub {
+      width: 100%;
       font-size: 12px;
       color: #64748b;
-      word-break: break-all;
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+      margin-left: 44px;
     }
-    textarea {
-      width: 100%;
-      min-height: 560px;
-      border: 1px solid #cbd5e1;
-      border-radius: 8px;
-      padding: 12px;
-      font-family: Consolas, "Courier New", monospace;
+    .source-actions {
+      flex: 0 0 auto;
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+    .field-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+    .field-grid.single {
+      grid-template-columns: 1fr;
+    }
+    .field {
+      display: grid;
+      gap: 6px;
+    }
+    .field-label {
       font-size: 13px;
-      line-height: 1.45;
-      resize: vertical;
-      background: #f8fafc;
-      color: #0f172a;
+      color: #374151;
+      font-weight: 600;
     }
-    .tips {
+    .field input,
+    .field textarea {
+      width: 100%;
+      border: 1px solid #cbd5e1;
+      border-radius: 10px;
+      padding: 10px 12px;
+      font-size: 13px;
+      color: #0f172a;
+      background: #fff;
+    }
+    .field textarea {
+      min-height: 160px;
+      resize: vertical;
+      line-height: 1.6;
+    }
+    .field input:focus,
+    .field textarea:focus {
+      outline: none;
+      border-color: #0f766e;
+      box-shadow: 0 0 0 3px rgba(15, 118, 110, 0.12);
+    }
+    .field-meta,
+    .resolved-meta {
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      flex-wrap: wrap;
+      font-size: 12px;
+      color: #64748b;
+    }
+    .resolved-meta code {
+      background: #eef2ff;
+      padding: 2px 6px;
+      border-radius: 6px;
+      color: #334155;
+    }
+    .source-report {
+      display: none;
       margin-top: 12px;
+      border-top: 1px dashed #d1d5db;
+      padding-top: 12px;
+    }
+    .source-report.show {
+      display: block;
+    }
+    .message-list {
+      display: grid;
+      gap: 8px;
+    }
+    .message-item {
+      border-radius: 8px;
+      padding: 8px 10px;
+      font-size: 12px;
+      line-height: 1.6;
+      border: 1px solid #dbe4ee;
+      background: #fff;
+    }
+    .message-item.error {
+      border-color: #fecaca;
+      background: #fff1f2;
+      color: #991b1b;
+    }
+    .message-item.warning {
+      border-color: #fcd34d;
+      background: #fffbeb;
+      color: #92400e;
+    }
+    .empty-state {
+      border: 1px dashed #cbd5e1;
+      border-radius: 14px;
+      padding: 36px 20px;
+      text-align: center;
+      color: #64748b;
+      background: #f8fafc;
+    }
+    .floating-nav {
+      position: fixed;
+      top: 24px;
+      right: 18px;
+      width: 280px;
+      max-height: calc(100vh - 48px);
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      z-index: 20;
+    }
+    .floating-card {
+      background: rgba(255, 255, 255, 0.96);
+      border: 1px solid #d1d5db;
+      border-radius: 14px;
+      box-shadow: 0 8px 24px rgba(15, 23, 42, 0.10);
+      backdrop-filter: blur(10px);
+      padding: 14px;
+    }
+    .floating-title {
+      margin: 0 0 6px;
+      font-size: 15px;
+      font-weight: 700;
+      color: #111827;
+    }
+    .floating-meta {
       font-size: 12px;
       color: #64748b;
       line-height: 1.6;
+      margin-bottom: 10px;
     }
-    .tips code {
-      background: #eef2ff;
-      padding: 1px 6px;
-      border-radius: 4px;
-      color: #334155;
+    .floating-controls {
+      display: grid;
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+    .sort-field {
+      display: grid;
+      gap: 6px;
+      font-size: 12px;
+      color: #475569;
+      font-weight: 600;
+    }
+    .sort-field select {
+      width: 100%;
+      border: 1px solid #cbd5e1;
+      border-radius: 10px;
+      min-height: 36px;
+      padding: 0 12px;
+      font-size: 13px;
+      background: #fff;
+      color: #0f172a;
+    }
+    .floating-status {
+      min-height: 20px;
+      font-size: 12px;
+      color: #64748b;
+      line-height: 1.5;
+      margin-bottom: 10px;
+    }
+    .floating-status.error { color: #b91c1c; }
+    .floating-status.warning { color: #92400e; }
+    .floating-status.success { color: #047857; }
+    .toc-list {
+      display: grid;
+      gap: 6px;
+      max-height: calc(100vh - 280px);
+      overflow: auto;
+      padding-right: 2px;
+    }
+    .toc-item {
+      width: 100%;
+      border: 1px solid #e2e8f0;
+      background: #fff;
+      border-radius: 10px;
+      padding: 8px 10px;
+      text-align: left;
+      min-height: 0;
+    }
+    .toc-item:hover:not(:disabled) {
+      background: #f8fafc;
+    }
+    .toc-item.active {
+      border-color: #14b8a6;
+      background: #f0fdfa;
+    }
+    .toc-item.error {
+      border-color: #fda4af;
+      background: #fff1f2;
+    }
+    .toc-item.warning {
+      border-color: #fcd34d;
+      background: #fffbeb;
+    }
+    .toc-name {
+      display: block;
+      font-size: 12px;
+      font-weight: 700;
+      color: #111827;
+      word-break: break-word;
+    }
+    .toc-sub {
+      display: block;
+      margin-top: 2px;
+      font-size: 11px;
+      color: #64748b;
+    }
+    .toast {
+      position: fixed;
+      top: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      min-width: 180px;
+      max-width: min(80vw, 420px);
+      z-index: 30;
+      border-radius: 999px;
+      padding: 10px 16px;
+      border: 1px solid #dbe4ee;
+      background: rgba(255, 255, 255, 0.98);
+      color: #0f172a;
+      box-shadow: 0 8px 24px rgba(15, 23, 42, 0.10);
+      font-size: 13px;
+      line-height: 1.5;
+      text-align: center;
+      display: none;
+    }
+    .toast.show { display: block; }
+    .toast.error {
+      border-color: #fecaca;
+      background: #fff1f2;
+      color: #991b1b;
+    }
+    .toast.warning {
+      border-color: #fcd34d;
+      background: #fffbeb;
+      color: #92400e;
+    }
+    .toast.success {
+      border-color: #a7f3d0;
+      background: #ecfdf5;
+      color: #065f46;
+    }
+    .quick-actions {
+      position: fixed;
+      right: 18px;
+      bottom: 18px;
+      display: grid;
+      gap: 10px;
+      z-index: 25;
+    }
+    .quick-btn {
+      min-width: 108px;
+      border: 1px solid #cbd5e1;
+      background: rgba(255, 255, 255, 0.96);
+      color: #0f172a;
+      border-radius: 999px;
+      box-shadow: 0 8px 24px rgba(15, 23, 42, 0.10);
+      backdrop-filter: blur(10px);
+    }
+    .quick-btn:hover:not(:disabled) {
+      background: #ffffff;
+    }
+    .quick-btn.warning {
+      border-color: #fcd34d;
+      background: rgba(255, 251, 235, 0.96);
+      color: #92400e;
+    }
+    .quick-btn:disabled {
+      opacity: 0.55;
+      cursor: not-allowed;
+    }
+    .source-card.jump-focus {
+      animation: jumpPulse 1.6s ease;
+    }
+    @keyframes jumpPulse {
+      0% { box-shadow: 0 0 0 0 rgba(20, 184, 166, 0.00); }
+      20% { box-shadow: 0 0 0 4px rgba(20, 184, 166, 0.22); }
+      100% { box-shadow: 0 0 0 0 rgba(20, 184, 166, 0.00); }
+    }
+    @media (min-width: 1280px) {
+      .page {
+        margin-right: 320px;
+      }
+    }
+    @media (max-width: 1279px) {
+      .page {
+        max-width: 1120px;
+      }
+      .floating-nav {
+        position: static;
+        width: auto;
+        max-height: none;
+        margin: 0 16px 16px;
+      }
+      .toc-list {
+        max-height: 320px;
+      }
+    }
+    @media (max-width: 960px) {
+      .page-head {
+        flex-direction: column;
+      }
+      .field-grid {
+        grid-template-columns: 1fr;
+      }
+      .source-sub {
+        margin-left: 0;
+      }
+      .quick-actions {
+        right: 12px;
+        bottom: 12px;
+      }
     }
   </style>
 </head>
 <body>
-  <div class="page">
-    <h1>来源配置后台</h1>
-    <p class="desc">通过 <code>#admin=你的token</code> 开启管理模式。保存后可直接触发刷新，下一次自动任务也会按新配置同步歌曲。</p>
-    <div class="top-nav">
-      <a href="/">首页</a> |
-      <a href="/stats">数据</a> |
-      <a href="/bv">BV查重</a> |
-      <a href="/dup">歌名歌手查重</a> |
-      <a href="/check">命名工具</a> |
-      <a href="/growth">日报</a>
-    </div>
+  <div id="toast" class="toast"></div>
 
-    <div class="panel">
-      <div class="actions">
-        <button id="loadBtn" type="button">读取配置</button>
-        <button id="saveBtn" type="button" disabled>保存运行时配置</button>
-        <button id="resetBtn" type="button" disabled>恢复默认配置</button>
-        <button id="refreshBtn" type="button" disabled>保存后刷新歌库</button>
+  <aside class="floating-nav">
+    <div class="floating-card">
+      <h2 class="floating-title">来源目录</h2>
+      <div class="floating-meta" id="floatingMeta">0 个来源</div>
+      <div class="floating-controls">
+        <label class="sort-field">
+          <span>排序</span>
+          <select id="sortSelect">
+            <option value="manual">当前顺序</option>
+            <option value="alias-asc">来源名 A-Z</option>
+            <option value="alias-desc">来源名 Z-A</option>
+            <option value="file-asc">来源 key A-Z</option>
+            <option value="bvid-desc">BV 数量从多到少</option>
+          </select>
+        </label>
+        <button id="submitBtn" class="primary" type="button">提交全部</button>
       </div>
-      <div id="status" class="status">等待加载</div>
-      <div class="meta">
-        <div id="loadedFrom">当前来源：-</div>
-        <div id="runtimeState">运行时覆盖：-</div>
-        <div id="runtimePaths">运行时路径：-</div>
-      </div>
-      <textarea id="editor" spellcheck="false" placeholder="点击“读取配置”加载 JSON"></textarea>
-      <div class="tips">
-        保存格式：顶层数组，每项至少包含 <code>bvids</code>。<br>
-        示例：<code>{"bvids":["BVxxxx"],"file":"culua","alias":"CULUA"}</code>。<br>
-        支持直接写 BV 链接，系统会自动提取 BV 号并去重。
-      </div>
+      <div id="floatingStatus" class="floating-status">当前配置已载入，修改后点击“提交全部”即可。</div>
+      <div id="tocList" class="toc-list"></div>
     </div>
+  </aside>
+
+  <div class="quick-actions">
+    <button id="jumpWarningBtn" class="quick-btn warning" type="button" hidden disabled>定位警告</button>
+    <button id="backToTopBtn" class="quick-btn" type="button">回到顶部</button>
   </div>
 
+  <div class="page">
+    <div class="page-head">
+      <div class="page-head-main">
+        <h1>来源配置后台</h1>
+        <p class="desc">支持按来源名、来源 key、BV 数量排序；右侧目录可直接定位到对应来源。页面会自动读取当前配置，提交时直接走服务端校验，校验通过才保存。</p>
+        <div class="top-nav">
+          <a href="/">首页</a> |
+          <a href="/stats">数据</a> |
+          <a href="/bv">BV查重</a> |
+          <a href="/dup">歌名歌手查重</a> |
+          <a href="/check">命名工具</a> |
+          <a href="/growth">日报</a>
+        </div>
+      </div>
+      <div class="head-actions">
+        <button id="addBtn" type="button">新增来源</button>
+      </div>
+    </div>
+
+    <div id="notice" class="notice"></div>
+
+    <div class="panel">
+      <div id="sourceList" class="source-list"></div>
+      <div id="emptyState" class="empty-state" hidden>当前没有来源，点击右上角“新增来源”开始填写。</div>
+    </div>
+  </div>
   <script>
     (function () {
       const STORAGE_KEY = 'songSearchAdminToken';
       const HASH_PREFIX = '#admin=';
-      const statusEl = document.getElementById('status');
-      const loadedFromEl = document.getElementById('loadedFrom');
-      const runtimeStateEl = document.getElementById('runtimeState');
-      const runtimePathsEl = document.getElementById('runtimePaths');
-      const editor = document.getElementById('editor');
-      const loadBtn = document.getElementById('loadBtn');
-      const saveBtn = document.getElementById('saveBtn');
-      const resetBtn = document.getElementById('resetBtn');
-      const refreshBtn = document.getElementById('refreshBtn');
+      const BV_PATTERN = /BV[0-9A-Za-z]{10}/i;
 
-      function setStatus(text, isError) {
-        statusEl.textContent = text;
-        statusEl.className = 'status' + (isError ? ' error' : '');
+      const addBtn = document.getElementById('addBtn');
+      const submitBtn = document.getElementById('submitBtn');
+      const sortSelect = document.getElementById('sortSelect');
+      const sourceListEl = document.getElementById('sourceList');
+      const emptyStateEl = document.getElementById('emptyState');
+      const noticeEl = document.getElementById('notice');
+      const floatingMetaEl = document.getElementById('floatingMeta');
+      const floatingStatusEl = document.getElementById('floatingStatus');
+      const tocListEl = document.getElementById('tocList');
+      const toastEl = document.getElementById('toast');
+      const jumpWarningBtn = document.getElementById('jumpWarningBtn');
+      const backToTopBtn = document.getElementById('backToTopBtn');
+
+      let sourceUid = 1;
+      let currentSort = 'manual';
+      let activeSourceId = '';
+      let toastTimer = 0;
+      let saveInFlight = false;
+      let pendingSortTimer = 0;
+      let firstWarningTargetId = '';
+      let jumpHighlightTimer = 0;
+
+      function setNotice(text, type) {
+        if (!text) {
+          noticeEl.className = 'notice';
+          noticeEl.textContent = '';
+          return;
+        }
+        noticeEl.className = 'notice show' + (type ? ` ${type}` : '');
+        noticeEl.textContent = text;
+      }
+
+      function showToast(text, type) {
+        clearTimeout(toastTimer);
+        toastEl.textContent = text;
+        toastEl.className = 'toast show' + (type ? ` ${type}` : '');
+        toastTimer = window.setTimeout(() => {
+          toastEl.className = 'toast';
+          toastEl.textContent = '';
+        }, 2600);
+      }
+
+      function setFloatingStatus(text, type) {
+        floatingStatusEl.textContent = text;
+        floatingStatusEl.className = 'floating-status' + (type ? ` ${type}` : '');
       }
 
       function readHashToken() {
@@ -202,144 +645,577 @@
         };
       }
 
-      async function readJson(url, options) {
-        const response = await fetch(url, {
-          cache: 'no-store',
-          ...(options || {})
-        });
+      async function requestJson(url, options) {
+        const response = await fetch(url, { cache: 'no-store', ...(options || {}) });
         const payload = await response.json().catch(() => ({}));
         if (!response.ok) {
-          throw new Error(payload.error || ('HTTP ' + response.status));
+          const error = new Error(payload.error || `HTTP ${response.status}`);
+          error.payload = payload;
+          throw error;
         }
         return payload;
       }
 
-      function setMeta(meta) {
-        loadedFromEl.textContent = '当前来源：' + (meta.loadedFrom || '-');
-        runtimeStateEl.textContent = '运行时覆盖：' + (meta.runtimeOverrideActive ? '已启用' : '未启用');
-        runtimePathsEl.textContent = '运行时路径：' + ((meta.runtimeCandidates || []).join(' | ') || '-');
+      function escapeHtml(value) {
+        return String(value || '')
+          .replace(/&/g, '&amp;')
+          .replace(/</g, '&lt;')
+          .replace(/>/g, '&gt;')
+          .replace(/"/g, '&quot;')
+          .replace(/'/g, '&#39;');
       }
 
-      function setButtonsEnabled(enabled) {
-        saveBtn.disabled = !enabled;
-        resetBtn.disabled = !enabled;
-        refreshBtn.disabled = !enabled;
+      function splitBvidLines(text) {
+        return String(text || '')
+          .split(/\r?\n/)
+          .map(item => item.trim())
+          .filter(Boolean);
+      }
+
+      function extractFirstBvid(text) {
+        const matched = String(text || '').match(BV_PATTERN);
+        return matched ? matched[0] : '';
+      }
+
+      function slugifyAlias(text) {
+        return String(text || '')
+          .toLowerCase()
+          .replace(/[^a-z0-9]+/g, '-')
+          .replace(/^-+|-+$/g, '');
+      }
+
+      function resolvePreviewKey(config) {
+        const rawFile = String(config?.file || '');
+        if (rawFile.trim()) return rawFile;
+        const aliasSlug = slugifyAlias(config?.alias || '');
+        const fallbackSlug = String(extractFirstBvid((config?.bvids || [])[0]) || 'source').toLowerCase();
+        return aliasSlug || fallbackSlug;
+      }
+
+      function setBusy(busy) {
+        saveInFlight = busy;
+        addBtn.disabled = busy;
+        submitBtn.disabled = busy;
+      }
+
+      function setWarningJumpTarget(targetId) {
+        firstWarningTargetId = String(targetId || '');
+        jumpWarningBtn.hidden = !firstWarningTargetId;
+        jumpWarningBtn.disabled = !firstWarningTargetId;
+      }
+
+      function highlightSourceCard(card) {
+        if (!card) return;
+        window.clearTimeout(jumpHighlightTimer);
+        card.classList.remove('jump-focus');
+        void card.offsetWidth;
+        card.classList.add('jump-focus');
+        jumpHighlightTimer = window.setTimeout(() => {
+          card.classList.remove('jump-focus');
+        }, 1700);
+      }
+
+      function scrollToCard(card, options = {}) {
+        if (!card) return;
+        const block = options.block || 'start';
+        card.scrollIntoView({ behavior: 'smooth', block });
+        highlightSourceCard(card);
+      }
+
+      function scrollToWarningTarget() {
+        const target = firstWarningTargetId ? document.getElementById(firstWarningTargetId) : null;
+        if (!target) return;
+        scrollToCard(target);
+      }
+
+      function scrollToTop() {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
+
+      function getCardNodes() {
+        return Array.from(sourceListEl.querySelectorAll('.source-card'));
+      }
+
+      function getStableCardNodes() {
+        return getCardNodes().sort((a, b) => Number(a.dataset.originalIndex || 0) - Number(b.dataset.originalIndex || 0));
+      }
+
+      function captureViewportState() {
+        const activeEl = document.activeElement;
+        const isField = activeEl && (activeEl.tagName === 'INPUT' || activeEl.tagName === 'TEXTAREA');
+        const fieldClass = isField
+          ? Array.from(activeEl.classList).find(name => name.endsWith('-input')) || ''
+          : '';
+        return {
+          scrollX: window.scrollX,
+          scrollY: window.scrollY,
+          sourceId: isField ? String(activeEl.closest('.source-card')?.dataset.sourceId || '') : '',
+          fieldClass,
+          selectionStart: isField && typeof activeEl.selectionStart === 'number' ? activeEl.selectionStart : null,
+          selectionEnd: isField && typeof activeEl.selectionEnd === 'number' ? activeEl.selectionEnd : null
+        };
+      }
+
+      function restoreViewportState(snapshot) {
+        if (!snapshot) return;
+        window.scrollTo(snapshot.scrollX, snapshot.scrollY);
+        if (!snapshot.sourceId) return;
+        const card = getCardNodes().find(item => String(item.dataset.sourceId || '') === snapshot.sourceId);
+        if (!card) return;
+        const field = snapshot.fieldClass ? card.querySelector(`.${snapshot.fieldClass}`) : null;
+        if (!field) return;
+        try {
+          field.focus({ preventScroll: true });
+        } catch (error) {
+          field.focus();
+        }
+        if (snapshot.selectionStart !== null && typeof field.setSelectionRange === 'function') {
+          field.setSelectionRange(snapshot.selectionStart, snapshot.selectionEnd === null ? snapshot.selectionStart : snapshot.selectionEnd);
+        }
+      }
+
+      function readCardConfig(card) {
+        const alias = card.querySelector('.alias-input').value.trim();
+        const fileRaw = card.querySelector('.file-input').value;
+        const bvids = splitBvidLines(card.querySelector('.bvids-input').value);
+        return {
+          alias,
+          file: fileRaw,
+          bvids,
+          sourceId: String(card.dataset.sourceId || ''),
+          originalIndex: Number(card.dataset.originalIndex || 0)
+        };
+      }
+
+      function readFormConfigs() {
+        return getStableCardNodes()
+          .map(readCardConfig)
+          .filter(config => config.alias || config.file.trim() || config.bvids.length)
+          .map(config => {
+            const item = { bvids: config.bvids };
+            if (config.alias) item.alias = config.alias;
+            if (config.file.trim()) item.file = config.file;
+            return item;
+          });
+      }
+
+      function clearCardReport(card) {
+        card.classList.remove('has-error', 'has-warning');
+        card.dataset.reportState = '';
+        const reportEl = card.querySelector('.source-report');
+        reportEl.className = 'source-report';
+        reportEl.innerHTML = '';
+      }
+
+      function clearReports() {
+        window.clearTimeout(pendingSortTimer);
+        getCardNodes().forEach(clearCardReport);
+        setWarningJumpTarget('');
+        setNotice('', '');
+        renderDirectory();
+      }
+
+      function updateCardMeta(card, index) {
+        const config = readCardConfig(card);
+        const displayName = config.alias || config.file.trim() || `来源 ${index + 1}`;
+        const bvidCount = config.bvids.length;
+        const resolvedKey = resolvePreviewKey(config);
+        card.id = `source-card-${card.dataset.sourceId}`;
+        card.querySelector('.badge').textContent = `来源 ${index + 1}`;
+        card.querySelector('.source-title').textContent = displayName;
+        card.querySelector('.source-bvid-count').textContent = `${bvidCount} 个 BV`;
+        card.querySelector('.source-key-preview').textContent = resolvedKey || '-';
+        card.querySelector('.resolved-key').textContent = resolvedKey || '-';
+      }
+
+      function compareCards(a, b) {
+        if (currentSort === 'manual') {
+          return Number(a.dataset.originalIndex || 0) - Number(b.dataset.originalIndex || 0);
+        }
+        const aConfig = readCardConfig(a);
+        const bConfig = readCardConfig(b);
+        const aAlias = (aConfig.alias || aConfig.file.trim() || '').toLowerCase();
+        const bAlias = (bConfig.alias || bConfig.file.trim() || '').toLowerCase();
+        const aFile = resolvePreviewKey(aConfig).toLowerCase();
+        const bFile = resolvePreviewKey(bConfig).toLowerCase();
+        const aCount = aConfig.bvids.length;
+        const bCount = bConfig.bvids.length;
+
+        if (currentSort === 'alias-asc') return aAlias.localeCompare(bAlias, 'zh-CN');
+        if (currentSort === 'alias-desc') return bAlias.localeCompare(aAlias, 'zh-CN');
+        if (currentSort === 'file-asc') return aFile.localeCompare(bFile, 'zh-CN');
+        if (currentSort === 'bvid-desc') {
+          if (bCount !== aCount) return bCount - aCount;
+          return aAlias.localeCompare(bAlias, 'zh-CN');
+        }
+        return 0;
+      }
+
+      function renderMetaAndDirectory() {
+        emptyStateEl.hidden = getCardNodes().length > 0;
+        updateFloatingMeta();
+        renderDirectory();
+      }
+
+      function scheduleSortAndRender() {
+        window.clearTimeout(pendingSortTimer);
+        pendingSortTimer = window.setTimeout(() => {
+          pendingSortTimer = 0;
+          sortAndRender({ preserveViewport: true });
+        }, 160);
+      }
+
+      function refreshEditedCard(card) {
+        const cards = getCardNodes();
+        const visualIndex = Math.max(cards.indexOf(card), 0);
+        updateCardMeta(card, visualIndex);
+        renderMetaAndDirectory();
+        if (currentSort !== 'manual') {
+          scheduleSortAndRender();
+        }
+      }
+
+      function sortAndRender(options = {}) {
+        const snapshot = options.preserveViewport ? captureViewportState() : null;
+        const cards = getCardNodes().sort(compareCards);
+        cards.forEach(card => sourceListEl.appendChild(card));
+        cards.forEach((card, index) => updateCardMeta(card, index));
+        emptyStateEl.hidden = cards.length > 0;
+        renderDirectory();
+        updateFloatingMeta();
+        if (snapshot) {
+          window.requestAnimationFrame(() => {
+            restoreViewportState(snapshot);
+            updateActiveSource();
+          });
+          return;
+        }
+        updateActiveSource();
+      }
+
+      function renderDirectory() {
+        const cards = getCardNodes();
+        const tocScrollTop = tocListEl.scrollTop;
+        tocListEl.innerHTML = cards.map((card, index) => {
+          const config = readCardConfig(card);
+          const displayName = escapeHtml(config.alias || config.file.trim() || `来源 ${index + 1}`);
+          const bvidCount = config.bvids.length;
+          const state = card.dataset.reportState || '';
+          const activeClass = activeSourceId === String(card.dataset.sourceId || '') ? ' active' : '';
+          const stateClass = state ? ` ${state}` : '';
+          return `<button type="button" class="toc-item${activeClass}${stateClass}" data-target="${escapeHtml(card.id)}">
+            <span class="toc-name">${displayName}</span>
+            <span class="toc-sub">${bvidCount} 个 BV · ${escapeHtml(resolvePreviewKey(config) || '-')}</span>
+          </button>`;
+        }).join('');
+
+        Array.from(tocListEl.querySelectorAll('.toc-item')).forEach(button => {
+          button.addEventListener('click', () => {
+            const target = document.getElementById(button.dataset.target || '');
+            if (!target) return;
+            scrollToCard(target);
+          });
+        });
+        tocListEl.scrollTop = tocScrollTop;
+      }
+
+      function updateFloatingMeta() {
+        const configs = readFormConfigs();
+        const sourceCount = configs.length;
+        const bvidCount = configs.reduce((sum, item) => sum + ((Array.isArray(item?.bvids) ? item.bvids.length : 0)), 0);
+        floatingMetaEl.textContent = `${sourceCount} 个来源 · ${bvidCount} 个 BV`;
+      }
+
+      function updateActiveSource() {
+        const cards = getCardNodes();
+        if (!cards.length) {
+          activeSourceId = '';
+          renderDirectory();
+          return;
+        }
+        let nextActive = String(cards[0].dataset.sourceId || '');
+        let bestDistance = Infinity;
+        cards.forEach(card => {
+          const rect = card.getBoundingClientRect();
+          const distance = Math.abs(rect.top - 90);
+          if (rect.bottom > 90 && distance < bestDistance) {
+            bestDistance = distance;
+            nextActive = String(card.dataset.sourceId || '');
+          }
+        });
+        if (nextActive === activeSourceId) return;
+        activeSourceId = nextActive;
+        cards.forEach(card => {
+          card.classList.toggle('is-active', String(card.dataset.sourceId || '') === activeSourceId);
+        });
+        renderDirectory();
+      }
+
+      function markDirty() {
+        if (saveInFlight) return;
+        setFloatingStatus('有未提交修改。可直接点“提交全部”，也支持 Ctrl+S。', 'warning');
+      }
+
+      function createCard(config, options = {}) {
+        const card = document.createElement('article');
+        const sourceId = String(config?._sourceId || sourceUid++);
+        const originalIndex = Number(options.originalIndex ?? 0);
+        card.className = 'source-card';
+        card.dataset.sourceId = sourceId;
+        card.dataset.originalIndex = String(originalIndex);
+        card.dataset.reportState = '';
+        const bvidText = Array.isArray(config?.bvids) ? config.bvids.join('\n') : '';
+        card.innerHTML = `
+          <div class="source-header">
+            <div class="source-header-main">
+              <span class="badge">来源</span>
+              <span class="source-title">${escapeHtml(config?.alias || config?.file || '未命名来源')}</span>
+              <div class="source-sub">
+                <span class="source-bvid-count">0 个 BV</span>
+                <span>key 预览：<code class="source-key-preview">-</code></span>
+              </div>
+            </div>
+            <div class="source-actions">
+              <button type="button" class="danger remove-source-btn">删除该来源</button>
+            </div>
+          </div>
+          <div class="field-grid">
+            <label class="field">
+              <span class="field-label">来源名</span>
+              <input class="alias-input" type="text" value="${escapeHtml(config?.alias || '')}" placeholder="例如：CULUA / 非常驻妹妹 / 某歌手名">
+            </label>
+            <label class="field">
+              <span class="field-label">来源 key（可选）</span>
+              <input class="file-input" type="text" value="${escapeHtml(config?.file || '')}" placeholder="例如：culua；留空则按来源名自动生成">
+            </label>
+          </div>
+          <div class="field-grid single">
+            <label class="field">
+              <span class="field-label">BV 列表</span>
+              <textarea class="bvids-input" spellcheck="false" placeholder="每行 1 个 BV 号或 B 站链接">${escapeHtml(bvidText)}</textarea>
+              <div class="field-meta">
+                <span>支持直接贴 BV 链接，提交时会自动提取 BV 并去重</span>
+                <span>1 行 1 个入口</span>
+              </div>
+            </label>
+          </div>
+          <div class="resolved-meta">
+            <span>实际 key 预览：<code class="resolved-key">-</code></span>
+            <span>用于生成/匹配 <code>data/*.js</code></span>
+          </div>
+          <div class="source-report"></div>
+        `;
+
+        const refresh = () => {
+          clearReports();
+          refreshEditedCard(card);
+          markDirty();
+        };
+
+        card.querySelector('.alias-input').addEventListener('input', refresh);
+        card.querySelector('.file-input').addEventListener('input', refresh);
+        card.querySelector('.bvids-input').addEventListener('input', refresh);
+        card.querySelector('.remove-source-btn').addEventListener('click', () => {
+          card.remove();
+          clearReports();
+          sortAndRender();
+          markDirty();
+        });
+
+        return card;
+      }
+
+      function renderSources(configs) {
+        sourceListEl.innerHTML = '';
+        sourceUid = 1;
+        const list = Array.isArray(configs) ? configs : [];
+        list.forEach((item, index) => {
+          sourceListEl.appendChild(createCard(item, { originalIndex: index + 1 }));
+          sourceUid = Math.max(sourceUid, index + 2);
+        });
+        sortAndRender();
+      }
+
+      function renderValidation(validation, saved) {
+        clearReports();
+        if (!validation) {
+          setNotice('', '');
+          return;
+        }
+
+        const errorCount = Number(validation?.summary?.errorCount || 0);
+        const warningCount = Number(validation?.summary?.warningCount || 0);
+        if (errorCount > 0) {
+          setNotice(`提交被拦截：${errorCount} 个错误${warningCount > 0 ? `，${warningCount} 个警告` : ''}。已在对应来源下展开。`, 'error');
+          setFloatingStatus('校验未通过，未保存。', 'error');
+        } else if (warningCount > 0) {
+          setNotice(saved ? `已保存，但仍有 ${warningCount} 个警告。` : `当前有 ${warningCount} 个警告。`, 'warning');
+          setFloatingStatus(saved ? '已保存，存在警告。可点“定位警告”。' : '存在警告。可点“定位警告”。', 'warning');
+        } else {
+          setNotice(saved ? '提交成功。' : '', saved ? 'success' : '');
+          setFloatingStatus(saved ? '已保存，线上配置已同步。' : '校验通过。', 'success');
+        }
+
+        const reports = Array.isArray(validation?.sources) ? validation.sources : [];
+        let firstWarningCard = null;
+        getCardNodes().forEach((card, visualIndex) => {
+          const config = readCardConfig(card);
+          const stableConfigs = getStableCardNodes().map(readCardConfig);
+          const stableIndex = stableConfigs.findIndex(item => item.sourceId === config.sourceId);
+          const report = reports[stableIndex >= 0 ? stableIndex : visualIndex];
+          if (!report) return;
+
+          const reportItems = [];
+          (report.errors || []).forEach(text => {
+            reportItems.push(`<div class="message-item error">${escapeHtml(text)}</div>`);
+          });
+          (report.warnings || []).forEach(text => {
+            reportItems.push(`<div class="message-item warning">${escapeHtml(text)}</div>`);
+          });
+          (report.bvids || []).forEach(item => {
+            if (item?.status !== 'error' && item?.status !== 'warning') return;
+            const parts = [`<strong>${escapeHtml(item?.bvid || '')}</strong>`];
+            if (item?.title) parts.push(`标题：${escapeHtml(item.title)}`);
+            if (item?.ownerName) parts.push(`UP：${escapeHtml(item.ownerName)}`);
+            if (Number(item?.videos || 0) > 0) parts.push(`分P数：${Number(item.videos || 0)}`);
+            if (item?.message) parts.push(escapeHtml(item.message));
+            reportItems.push(`<div class="message-item ${item.status}">${parts.join('<br>')}</div>`);
+          });
+
+          if (!reportItems.length) return;
+
+          const hasError = (report.errors || []).length > 0 || (report.bvids || []).some(item => item?.status === 'error');
+          const hasWarning = !hasError && ((report.warnings || []).length > 0 || (report.bvids || []).some(item => item?.status === 'warning'));
+          if (hasError) {
+            card.classList.add('has-error');
+            card.dataset.reportState = 'error';
+          } else if (hasWarning) {
+            card.classList.add('has-warning');
+            card.dataset.reportState = 'warning';
+            if (!firstWarningCard) {
+              firstWarningCard = card;
+            }
+          }
+
+          const reportEl = card.querySelector('.source-report');
+          reportEl.className = 'source-report show';
+          reportEl.innerHTML = `<div class="message-list">${reportItems.join('')}</div>`;
+        });
+
+        setWarningJumpTarget(firstWarningCard ? firstWarningCard.id : '');
+        renderDirectory();
+      }
+
+      function requireConfigs() {
+        const configs = readFormConfigs();
+        if (!configs.length) {
+          throw new Error('至少保留 1 个来源后再提交');
+        }
+        return configs;
       }
 
       async function loadConfig() {
         const headers = getHeaders();
         if (!headers) {
-          setStatus('未检测到管理 token，请在 URL 使用 #admin=token', true);
+          renderSources([]);
+          setNotice('未检测到管理 token，请在 URL 使用 #admin=token', 'error');
+          setFloatingStatus('缺少管理 token，无法读取或提交。', 'error');
           return;
         }
-        setStatus('读取中...');
-        setButtonsEnabled(false);
+
+        setBusy(true);
+        setNotice('', '');
+        setFloatingStatus('正在载入当前配置...', '');
         try {
-          const payload = await readJson('/api/admin/singer-configs', {
+          const payload = await requestJson('/api/admin/singer-configs', {
             headers: { 'X-Admin-Token': headers['X-Admin-Token'] }
           });
-          editor.value = JSON.stringify(payload.configs || [], null, 2);
-          setMeta(payload);
-          setStatus('读取成功，可编辑后保存');
-          setButtonsEnabled(true);
+          renderSources(payload?.configs || []);
+          clearReports();
+          setFloatingStatus('当前配置已载入，修改后点击“提交全部”即可。', '');
         } catch (error) {
-          setStatus('读取失败：' + error.message, true);
+          renderSources([]);
+          setNotice('读取失败：' + error.message, 'error');
+          setFloatingStatus('读取失败。', 'error');
+        } finally {
+          setBusy(false);
         }
       }
 
-      function parseEditorConfig() {
-        let parsed;
-        try {
-          parsed = JSON.parse(editor.value || '[]');
-        } catch (_) {
-          throw new Error('JSON 格式错误，请先修复');
-        }
-        if (!Array.isArray(parsed)) {
-          throw new Error('顶层必须是数组');
-        }
-        return parsed;
-      }
-
-      async function saveConfig(triggerRefresh) {
+      async function submitConfig() {
         const headers = getHeaders();
         if (!headers) {
-          setStatus('未检测到管理 token，请在 URL 使用 #admin=token', true);
+          setNotice('未检测到管理 token，请在 URL 使用 #admin=token', 'error');
+          setFloatingStatus('缺少管理 token。', 'error');
           return;
         }
 
         let configs;
         try {
-          configs = parseEditorConfig();
+          configs = requireConfigs();
         } catch (error) {
-          setStatus(error.message, true);
+          setNotice(error.message, 'error');
+          setFloatingStatus('提交失败。', 'error');
           return;
         }
 
-        setStatus('保存中...');
-        setButtonsEnabled(false);
+        setBusy(true);
+        setNotice('', '');
+        clearReports();
+        setFloatingStatus('正在提交并校验...', '');
         try {
-          const saved = await readJson('/api/admin/singer-configs', {
+          const saved = await requestJson('/api/admin/singer-configs', {
             method: 'POST',
             headers,
             body: JSON.stringify({ configs })
           });
-          setStatus(`保存成功：${saved.sourceCount} 个来源，${saved.bvidCount} 个 BV`);
           await loadConfig();
-          if (triggerRefresh) {
-            await triggerRefreshTask();
+          renderValidation(saved?.validation || null, true);
+          showToast('提交成功', 'success');
+        } catch (error) {
+          if (error?.payload?.validation) {
+            renderValidation(error.payload.validation, false);
+          } else {
+            setNotice('提交失败：' + error.message, 'error');
+            setFloatingStatus('提交失败。', 'error');
           }
-        } catch (error) {
-          setStatus('保存失败：' + error.message, true);
-          setButtonsEnabled(true);
+          showToast('提交失败', 'error');
+        } finally {
+          setBusy(false);
         }
       }
 
-      async function triggerRefreshTask() {
-        const headers = getHeaders();
-        if (!headers) return;
-        setStatus('已保存，提交刷新任务中...');
-        try {
-          await readJson('/api/admin/refresh', {
-            method: 'POST',
-            headers: { 'X-Admin-Token': headers['X-Admin-Token'] }
-          });
-          setStatus('刷新任务已提交，稍后可在首页管理角标查看状态');
-        } catch (error) {
-          setStatus('刷新提交失败：' + error.message, true);
+      addBtn.addEventListener('click', () => {
+        const nextIndex = getStableCardNodes().reduce((max, card) => Math.max(max, Number(card.dataset.originalIndex || 0)), 0) + 1;
+        const card = createCard({ alias: '', file: '', bvids: [] }, { originalIndex: nextIndex });
+        sourceListEl.appendChild(card);
+        sortAndRender();
+        markDirty();
+        const aliasInput = card.querySelector('.alias-input');
+        card.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        window.setTimeout(() => aliasInput.focus(), 120);
+      });
+
+      submitBtn.addEventListener('click', submitConfig);
+      jumpWarningBtn.addEventListener('click', scrollToWarningTarget);
+      backToTopBtn.addEventListener('click', scrollToTop);
+      sortSelect.addEventListener('change', () => {
+        window.clearTimeout(pendingSortTimer);
+        currentSort = sortSelect.value;
+        sortAndRender();
+      });
+
+      document.addEventListener('keydown', event => {
+        if ((event.ctrlKey || event.metaKey) && event.key.toLowerCase() === 's') {
+          event.preventDefault();
+          submitConfig();
         }
-      }
+      });
 
-      async function resetRuntimeConfig() {
-        const headers = getHeaders();
-        if (!headers) return;
-        setStatus('恢复中...');
-        setButtonsEnabled(false);
-        try {
-          const payload = await readJson('/api/admin/singer-configs/reset-runtime', {
-            method: 'POST',
-            headers: { 'X-Admin-Token': headers['X-Admin-Token'] }
-          });
-          editor.value = JSON.stringify(payload.configs || [], null, 2);
-          loadedFromEl.textContent = '当前来源：' + (payload.loadedFrom || '-');
-          runtimeStateEl.textContent = '运行时覆盖：' + (payload.runtimeOverrideActive ? '已启用' : '未启用');
-          setStatus('已恢复默认配置');
-          setButtonsEnabled(true);
-        } catch (error) {
-          setStatus('恢复失败：' + error.message, true);
-          setButtonsEnabled(true);
-        }
-      }
+      window.addEventListener('scroll', updateActiveSource, { passive: true });
+      window.addEventListener('resize', updateActiveSource);
 
-      loadBtn.addEventListener('click', loadConfig);
-      saveBtn.addEventListener('click', function () { saveConfig(false); });
-      resetBtn.addEventListener('click', resetRuntimeConfig);
-      refreshBtn.addEventListener('click', function () { saveConfig(true); });
-
-      if (getToken()) {
-        loadConfig();
-      } else {
-        setStatus('未检测到管理 token，请在 URL 使用 #admin=token', true);
-      }
+      loadConfig();
     })();
   </script>
 </body>
