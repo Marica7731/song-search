@@ -195,6 +195,7 @@ async function loadAllData() {
 </script>
 <script src="/artist-match.js"></script>
 <script src="bili-check-title-artist.js"></script>
+<script src="/page-directory-widget.js?v=2026041903"></script>
 <script>
 function initTitleArtistPage() {
   setCheckReadyState(false, '正在连接服务端歌库...');
@@ -210,6 +211,18 @@ function initTitleArtistPage() {
   window.addEventListener('scroll', updateBackTop, { passive: true });
   backTopBtn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
   updateBackTop();
+
+  if (typeof window.createPageDirectory === 'function') {
+    window.createPageDirectory({
+      title: '命名工具目录',
+      items: [
+        { label: '输入说明', selector: '.input-help' },
+        { label: '待校验输入', selector: '#titleInput' },
+        { label: '歌手校验区', selector: '#artistSelectArea' },
+        { label: '结果导出区', selector: '#resultGenerateArea' }
+      ]
+    });
+  }
 }
 document.addEventListener('DOMContentLoaded', initTitleArtistPage);
 </script>

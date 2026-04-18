@@ -2419,6 +2419,43 @@
             bootstrap();
         });
     </script>
+  <script src="/page-directory-widget.js?v=2026041903"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      if (typeof window.createPageDirectory !== 'function') return;
+
+      const buildStatsDirItems = () => {
+        const activeTab = document.querySelector('.tab-btn.active')?.dataset?.tab || 'vtuber-source';
+        const items = [
+          { label: '数据标签', selector: '.tabs-container' },
+          { label: '来源筛选', selector: '#filter-bar' },
+          { label: '关键词搜索', selector: '.search-container' },
+          { label: '摘要与总览', selector: '#overview-grid' }
+        ];
+
+        if (activeTab === 'rank') {
+          items.push({ label: '歌曲排行', selector: '#tab-rank' });
+          items.push({ label: '排行分页', selector: '#pagination-rank' });
+        } else if (activeTab === 'artist') {
+          items.push({ label: '歌手聚合', selector: '#tab-artist' });
+        } else {
+          items.push({ label: '来源视图', selector: '#tab-vtuber-source' });
+        }
+        return items;
+      };
+
+      const dir = window.createPageDirectory({
+        title: '数据页目录',
+        items: buildStatsDirItems()
+      });
+
+      document.querySelectorAll('.tab-btn').forEach(button => {
+        button.addEventListener('click', () => {
+          window.setTimeout(() => dir.setItems(buildStatsDirItems()), 0);
+        });
+      });
+    });
+  </script>
   <script src="/last-run-badge.js"></script>
 </body>
 </html>

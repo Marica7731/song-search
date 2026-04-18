@@ -710,6 +710,25 @@
 
     initPage();
   </script>
+  <script src="/page-directory-widget.js?v=2026041903"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      if (typeof window.createPageDirectory !== 'function') return;
+      window.createPageDirectory({
+        title: '日报目录',
+        items: [
+          { label: '口径说明', selector: '#modeHint' },
+          { label: '关键指标', selector: '.kpis' },
+          { label: '分析摘要', selector: '.analysis-grid' },
+          { label: '高点榜单', selector: '.analysis-board' },
+          { label: '图表参数', selector: '.controls' },
+          { label: '趋势图', selector: '.chart-wrap' },
+          { label: '数据表', selector: '.table-wrap' },
+          { label: '分页', selector: '.pager' }
+        ]
+      });
+    });
+  </script>
   <script src="/last-run-badge.js"></script>
 </body>
 </html>

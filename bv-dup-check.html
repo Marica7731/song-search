@@ -114,9 +114,22 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;b
 <button class="back-top" id="backTopBtn" type="button" aria-label="回到顶部">↑</button>
 <script src="/artist-match.js"></script>
 <script src="dup-check-core.js?v=2026041902"></script>
+<script src="/page-directory-widget.js?v=2026041903"></script>
 <script>
 document.addEventListener('DOMContentLoaded', () => {
   initDupCheckPage('bv');
+  if (typeof window.createPageDirectory === 'function') {
+    window.createPageDirectory({
+      title: 'BV查重目录',
+      items: [
+        { label: '输入区', selector: '.search-box' },
+        { label: '来源切换', selector: '#tabContainer' },
+        { label: '筛选统计', selector: '.filter-bar' },
+        { label: '复制配置', selector: '.copy-controls' },
+        { label: '结果列表', selector: '#resultList' }
+      ]
+    });
+  }
   const backTopBtn = document.getElementById('backTopBtn');
   const updateBackTop = () => backTopBtn.classList.toggle('show', window.scrollY > 260);
   window.addEventListener('scroll', updateBackTop, { passive: true });

@@ -2057,6 +2057,23 @@
             bootstrap();
         });
     </script>
+  <script src="/page-directory-widget.js?v=2026041903"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      if (typeof window.createPageDirectory !== 'function') return;
+      window.createPageDirectory({
+        title: '首页目录',
+        items: [
+          { label: '来源筛选', selector: '#filter-bar' },
+          { label: '搜索范围', selector: '#search-field-bar' },
+          { label: '关键词搜索', selector: '.search-container' },
+          { label: '复制配置', selector: '.copy-controls' },
+          { label: '结果列表', selector: '#song-list' },
+          { label: '分页跳转', selector: '#pagination' }
+        ]
+      });
+    });
+  </script>
   <script src="/last-run-badge.js"></script>
   <script src="/admin-refresh-control.js"></script>
 </body>
