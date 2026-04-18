@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 4/18/2026, 3:31:47 PM
+// 生成时间: 4/18/2026, 5:31:03 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2883,6 +2883,126 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-04-16]早晨的陪伴，来一起悠闲聊天和歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DzdiBoEh8?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27",
+  "collection": "【🍁歌切】[2026-04-17]你的拿手曲是？卡拉OK排名歌回👑✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1undWBpE7K?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP",
+  "collection": "【🍁歌切】[2026-04-17]你的拿手曲是？卡拉OK排名歌回👑✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1undWBpE7K?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "酔いどれ知らず",
+  "artist": "Kanaria",
+  "collection": "【🍁歌切】[2026-04-17]你的拿手曲是？卡拉OK排名歌回👑✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1undWBpE7K?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさP",
+  "collection": "【🍁歌切】[2026-04-17]你的拿手曲是？卡拉OK排名歌回👑✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1undWBpE7K?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン",
+  "collection": "【🍁歌切】[2026-04-17]你的拿手曲是？卡拉OK排名歌回👑✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1undWBpE7K?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "MY HEART WILL GO ON",
+  "artist": "Celine Dion",
+  "collection": "【🍁歌切】[2026-04-17]你的拿手曲是？卡拉OK排名歌回👑✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1undWBpE7K?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "A Whole New World",
+  "artist": "Regina Belle & Peabo Bryson",
+  "collection": "【🍁歌切】[2026-04-17]你的拿手曲是？卡拉OK排名歌回👑✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1undWBpE7K?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "川の流れのように",
+  "artist": "美空ひばり",
+  "collection": "【🍁歌切】[2026-04-17]你的拿手曲是？卡拉OK排名歌回👑✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1undWBpE7K?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "天城越え",
+  "artist": "石川さゆり",
+  "collection": "【🍁歌切】[2026-04-17]你的拿手曲是？卡拉OK排名歌回👑✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1undWBpE7K?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "津軽海峡冬景色",
+  "artist": "石川さゆり",
+  "collection": "【🍁歌切】[2026-04-17]你的拿手曲是？卡拉OK排名歌回👑✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1undWBpE7K?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【🍁歌切】[2026-04-17]你的拿手曲是？卡拉OK排名歌回👑✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1undWBpE7K?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【🍁歌切】[2026-04-17]你的拿手曲是？卡拉OK排名歌回👑✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1undWBpE7K?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍁歌切】[2026-04-17]你的拿手曲是？卡拉OK排名歌回👑✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1undWBpE7K?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "【🍁歌切】[2026-04-17]你的拿手曲是？卡拉OK排名歌回👑✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1undWBpE7K?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【🍁歌切】[2026-04-17]你的拿手曲是？卡拉OK排名歌回👑✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1undWBpE7K?p=15",
   "source": "momijimaru.js"
 }
 );

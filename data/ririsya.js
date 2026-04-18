@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 4/18/2026, 3:33:46 PM
+// 生成时间: 4/18/2026, 5:32:40 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4087,7 +4087,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "少女レイ",
-  "artist": "みきとP feat. 初音ミク",
+  "artist": "みきとP",
   "collection": "【凛々咲】夜の弾き語り🌙Sing with a guitar at night【VTuber/ Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YYo3YuE9V?p=1",
@@ -4143,7 +4143,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "風になる",
-  "artist": "つじあやの（辻亜弥乃）",
+  "artist": "つじあやの",
   "collection": "【凛々咲】夜の弾き語り🌙Sing with a guitar at night【VTuber/ Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YYo3YuE9V?p=8",
@@ -4183,7 +4183,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "すいみん不足",
-  "artist": "CHICKS キテレツ大百科 OP5",
+  "artist": "CHICKS",
   "collection": "【凛々咲】夜の弾き語り🌙Sing with a guitar at night【VTuber/ Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YYo3YuE9V?p=13",
@@ -4199,7 +4199,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "きゃりーぱみゅぱみゅ",
+  "artist": "DECO*27",
   "collection": "【凛々咲】夜の弾き語り🌙Sing with a guitar at night【VTuber/ Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YYo3YuE9V?p=15",
@@ -4647,7 +4647,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "いかないで",
-  "artist": "まふまふ",
+  "artist": "想太",
   "collection": "凛々咲 2025年5月6日 Jazz Arrangeでおしゃれに歌う🎷",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XZ7XzNER4?p=4",
@@ -4655,7 +4655,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "FLY ME TO THE MOON",
-  "artist": "林原めぐみ",
+  "artist": "Bart Howard & Kaye Ballard",
   "collection": "凛々咲 2025年5月6日 Jazz Arrangeでおしゃれに歌う🎷",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XZ7XzNER4?p=5",
@@ -4679,7 +4679,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "星間飛行",
-  "artist": "中島愛",
+  "artist": "ランカ・リー=中島愛",
   "collection": "凛々咲 2025年5月6日 Jazz Arrangeでおしゃれに歌う🎷",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XZ7XzNER4?p=8",
@@ -4687,7 +4687,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "小夜子",
-  "artist": "みきとP feat. 初音ミク",
+  "artist": "みきとP",
   "collection": "凛々咲 2025年5月6日 Jazz Arrangeでおしゃれに歌う🎷",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XZ7XzNER4?p=9",
@@ -4695,7 +4695,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シャルル",
-  "artist": "balloon feat. flower",
+  "artist": "バルーン",
   "collection": "凛々咲 2025年5月6日 Jazz Arrangeでおしゃれに歌う🎷",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XZ7XzNER4?p=10",
@@ -4703,7 +4703,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "帝国少女",
-  "artist": "R Sound Design feat. 初音ミク",
+  "artist": "R Sound Design",
   "collection": "凛々咲 2025年5月6日 Jazz Arrangeでおしゃれに歌う🎷",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XZ7XzNER4?p=11",
@@ -4727,7 +4727,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Just Be Friends",
-  "artist": "Dixie Flatline feat. 巡音ルカ",
+  "artist": "Dixie Flatline",
   "collection": "凛々咲 2025年5月6日 Jazz Arrangeでおしゃれに歌う🎷",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XZ7XzNER4?p=14",
@@ -8671,7 +8671,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シャルル",
-  "artist": "balloon feat. flower",
+  "artist": "バルーン",
   "collection": "【凛々咲活动五周年纪念】只有一个人的歌枠接力！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EGeZzFESJ?p=2",
@@ -8711,7 +8711,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "きゅうくらりん",
-  "artist": "いよわ feat. 可不",
+  "artist": "いよわ",
   "collection": "【凛々咲活动五周年纪念】只有一个人的歌枠接力！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EGeZzFESJ?p=7",
@@ -8727,7 +8727,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "白金ディスコ",
-  "artist": "井口裕香",
+  "artist": "阿良々木月火(井口裕香)",
   "collection": "【凛々咲活动五周年纪念】只有一个人的歌枠接力！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EGeZzFESJ?p=9",
@@ -8735,7 +8735,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ファンサ",
-  "artist": "mona (CV: 夏川椎菜)",
+  "artist": "HoneyWorks",
   "collection": "【凛々咲活动五周年纪念】只有一个人的歌枠接力！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EGeZzFESJ?p=10",
@@ -8783,7 +8783,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "少女レイ",
-  "artist": "みきとP feat. 初音ミク",
+  "artist": "みきとP",
   "collection": "【凛々咲活动五周年纪念】只有一个人的歌枠接力！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EGeZzFESJ?p=16",
@@ -8807,7 +8807,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "心做し",
-  "artist": "蝶々P feat. GUMI",
+  "artist": "蝶々P",
   "collection": "【凛々咲活动五周年纪念】只有一个人的歌枠接力！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EGeZzFESJ?p=19",
@@ -8831,7 +8831,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Fly me to the moon",
-  "artist": "高橋洋子",
+  "artist": "Bart Howard & Kaye Ballard",
   "collection": "【凛々咲活动五周年纪念】只有一个人的歌枠接力！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EGeZzFESJ?p=22",
@@ -8847,7 +8847,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Numb",
-  "artist": "Linkin Park",
+  "artist": "林肯公园",
   "collection": "【凛々咲活动五周年纪念】只有一个人的歌枠接力！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EGeZzFESJ?p=24",
@@ -11135,7 +11135,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "IRIS OUT",
-  "artist": "米津玄师",
+  "artist": "米津玄師",
   "collection": "【凛々咲 切片】ALL GENRE SINGING 💜 オールジャンル歌枠 2025年11月17日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KYCBB4E8b?p=5",
@@ -11151,7 +11151,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "乙女解剖",
-  "artist": "初音未来",
+  "artist": "DECO*27",
   "collection": "【凛々咲 切片】ALL GENRE SINGING 💜 オールジャンル歌枠 2025年11月17日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KYCBB4E8b?p=7",
@@ -11159,7 +11159,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "初音未来",
+  "artist": "DECO*27",
   "collection": "【凛々咲 切片】ALL GENRE SINGING 💜 オールジャンル歌枠 2025年11月17日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KYCBB4E8b?p=8",
@@ -11167,7 +11167,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Overdose",
-  "artist": "なとり(natori)",
+  "artist": "なとり",
   "collection": "【凛々咲 切片】ALL GENRE SINGING 💜 オールジャンル歌枠 2025年11月17日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KYCBB4E8b?p=9",
@@ -11215,7 +11215,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "恋人失格",
-  "artist": "MISIA、米倉利纪",
+  "artist": "コレサワ",
   "collection": "【凛々咲 切片】ALL GENRE SINGING 💜 オールジャンル歌枠 2025年11月17日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KYCBB4E8b?p=15",
@@ -11255,7 +11255,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Andromeda",
-  "artist": "星街彗星",
+  "artist": "星街すいせい",
   "collection": "【凛々咲 切片】ALL GENRE SINGING 💜 オールジャンル歌枠 2025年11月17日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KYCBB4E8b?p=20",
@@ -11903,7 +11903,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Overdose",
-  "artist": "などり",
+  "artist": "なとり",
   "collection": "【凛々咲 / Ririsya】原声吉他编排伴奏歌回💜 アコギアレンジ伴奏で歌う💜 Acoustic Arrange Singing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PWq4BGEhT?p=4",
@@ -11919,7 +11919,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シャルル",
-  "artist": "みぎたろ",
+  "artist": "バルーン",
   "collection": "【凛々咲 / Ririsya】原声吉他编排伴奏歌回💜 アコギアレンジ伴奏で歌う💜 Acoustic Arrange Singing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PWq4BGEhT?p=6",
@@ -11975,7 +11975,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Wherever you are",
-  "artist": "Jack Ingram",
+  "artist": "ONE OK ROCK",
   "collection": "【凛々咲 / Ririsya】原声吉他编排伴奏歌回💜 アコギアレンジ伴奏で歌う💜 Acoustic Arrange Singing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PWq4BGEhT?p=13",
@@ -11983,7 +11983,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Numb",
-  "artist": "Linkin Park",
+  "artist": "林肯公园",
   "collection": "【凛々咲 / Ririsya】原声吉他编排伴奏歌回💜 アコギアレンジ伴奏で歌う💜 Acoustic Arrange Singing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PWq4BGEhT?p=14",

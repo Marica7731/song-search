@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 4/18/2026, 3:33:21 PM
+// 生成时间: 4/18/2026, 5:32:13 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -29451,6 +29451,54 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-04-17]6周年前夜祭💐 点歌歌回！ Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18XdHBQErd?p=21",
+  "source": "figaro.js"
+},
+    {
+  "title": "トワイライト",
+  "artist": "Figaro",
+  "collection": "【💐歌切】[2026-04-18]Figaro六周年纪念直播💐 有重大通知！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N4dWBEEYo?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "僕らの浮力あるいは引力",
+  "artist": "sleep warp",
+  "collection": "【💐歌切】[2026-04-18]Figaro六周年纪念直播💐 有重大通知！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N4dWBEEYo?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "潮騒",
+  "artist": "Figaro",
+  "collection": "【💐歌切】[2026-04-18]Figaro六周年纪念直播💐 有重大通知！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N4dWBEEYo?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "フクロウ ～フクロウが知らせる客が来たと～",
+  "artist": "KOKIA",
+  "collection": "【💐歌切】[2026-04-18]Figaro六周年纪念直播💐 有重大通知！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N4dWBEEYo?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "カゲボウシ",
+  "artist": "SODAKIT",
+  "collection": "【💐歌切】[2026-04-18]Figaro六周年纪念直播💐 有重大通知！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N4dWBEEYo?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "彗星の夜明け",
+  "artist": "Figaro",
+  "collection": "【💐歌切】[2026-04-18]Figaro六周年纪念直播💐 有重大通知！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N4dWBEEYo?p=6",
   "source": "figaro.js"
 }
 );
