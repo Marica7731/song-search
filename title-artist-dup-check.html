@@ -115,21 +115,57 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;b
 <button class="back-top" id="backTopBtn" type="button" aria-label="回到顶部">↑</button>
 <script src="/artist-match.js"></script>
 <script src="dup-check-core.js?v=2026041902"></script>
-<script src="/page-directory-widget.js?v=2026041903"></script>
+<script src="/page-directory-widget.js?v=2026041904"></script>
 <script>
 document.addEventListener('DOMContentLoaded', () => {
   initDupCheckPage('titleArtist');
   if (typeof window.createPageDirectory === 'function') {
-    window.createPageDirectory({
+    const clipText = (text, maxLen = 28) => {
+      const value = String(text || '').replace(/\s+/g, ' ').trim();
+      if (!value) return '';
+      return value.length > maxLen ? `${value.slice(0, maxLen - 1)}…` : value;
+    };
+
+    const buildDupDirItems = () => {
+      const items = [
+        { label: '查重输入', selector: '.search-box' },
+        { label: '歌曲结果', selector: '#resultList' }
+      ];
+      const resultCards = Array.from(document.querySelectorAll('#resultList .song-item'));
+      resultCards.forEach((card, idx) => {
+        const titleText = card.querySelector('.song-title .copyable')?.textContent
+          || card.querySelector('.song-title')?.textContent
+          || `结果 ${idx + 1}`;
+        items.push({
+          label: `${idx + 1}. ${clipText(titleText)}`,
+          target: card
+        });
+      });
+      if (document.querySelector('#resultList .song-item')) {
+        items.push({ label: '复制配置', selector: '.copy-controls' });
+      }
+      return items;
+    };
+
+    const dir = window.createPageDirectory({
       title: '歌名歌手查重目录',
-      items: [
-        { label: '输入区', selector: '.search-box' },
-        { label: '来源切换', selector: '#tabContainer' },
-        { label: '筛选统计', selector: '.filter-bar' },
-        { label: '复制配置', selector: '.copy-controls' },
-        { label: '结果列表', selector: '#resultList' }
-      ]
+      items: buildDupDirItems()
     });
+
+    let refreshTimer = null;
+    const queueRefresh = () => {
+      if (refreshTimer) window.clearTimeout(refreshTimer);
+      refreshTimer = window.setTimeout(() => {
+        dir.setItems(buildDupDirItems());
+      }, 80);
+    };
+
+    const resultList = document.getElementById('resultList');
+    if (resultList) {
+      const observer = new MutationObserver(queueRefresh);
+      observer.observe(resultList, { childList: true, subtree: true });
+    }
+    queueRefresh();
   }
   const backTopBtn = document.getElementById('backTopBtn');
   const updateBackTop = () => backTopBtn.classList.toggle('show', window.scrollY > 260);

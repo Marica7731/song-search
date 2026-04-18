@@ -161,7 +161,10 @@
       const label = String(item?.label || '').trim();
       if (!label) return;
       let target = null;
-      if (item?.id) {
+      if (item?.target instanceof Element) {
+        target = item.target;
+      }
+      if (!target && item?.id) {
         target = document.getElementById(String(item.id).trim());
       }
       if (!target && item?.selector) {

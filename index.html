@@ -2057,21 +2057,57 @@
             bootstrap();
         });
     </script>
-  <script src="/page-directory-widget.js?v=2026041903"></script>
+  <script src="/page-directory-widget.js?v=2026041904"></script>
   <script>
     document.addEventListener('DOMContentLoaded', () => {
       if (typeof window.createPageDirectory !== 'function') return;
-      window.createPageDirectory({
-        title: '首页目录',
-        items: [
+
+      const clipText = (text, maxLen = 28) => {
+        const value = String(text || '').replace(/\s+/g, ' ').trim();
+        if (!value) return '';
+        return value.length > maxLen ? `${value.slice(0, maxLen - 1)}…` : value;
+      };
+
+      const buildHomeDirItems = () => {
+        const items = [
           { label: '来源筛选', selector: '#filter-bar' },
-          { label: '搜索范围', selector: '#search-field-bar' },
           { label: '关键词搜索', selector: '.search-container' },
-          { label: '复制配置', selector: '.copy-controls' },
-          { label: '结果列表', selector: '#song-list' },
-          { label: '分页跳转', selector: '#pagination' }
-        ]
+          { label: '歌曲列表', selector: '#song-list' }
+        ];
+        const songRows = Array.from(document.querySelectorAll('#song-list .song-item'));
+        songRows.forEach((row, idx) => {
+          const title = row.querySelector('.song-title')?.textContent || `歌曲 ${idx + 1}`;
+          items.push({
+            label: `${idx + 1}. ${clipText(title)}`,
+            target: row
+          });
+        });
+        if (document.querySelector('#pagination .page-btn')) {
+          items.push({ label: '分页跳转', selector: '#pagination' });
+        }
+        return items;
+      };
+
+      const dir = window.createPageDirectory({
+        title: '首页目录',
+        items: buildHomeDirItems()
       });
+
+      let refreshTimer = null;
+      const queueRefresh = () => {
+        if (refreshTimer) window.clearTimeout(refreshTimer);
+        refreshTimer = window.setTimeout(() => {
+          dir.setItems(buildHomeDirItems());
+        }, 80);
+      };
+
+      ['#song-list', '#pagination'].forEach(selector => {
+        const el = document.querySelector(selector);
+        if (!el) return;
+        const observer = new MutationObserver(queueRefresh);
+        observer.observe(el, { childList: true, subtree: true });
+      });
+      queueRefresh();
     });
   </script>
   <script src="/last-run-badge.js"></script>
