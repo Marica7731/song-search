@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 4/18/2026, 11:30:00 AM
+// 生成时间: 4/18/2026, 12:42:27 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -29283,6 +29283,174 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-04-15]临近6周年纪念日🎉 Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QoQHB5ELG?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "SUN",
+  "artist": "星野源",
+  "collection": "【💐歌切】[2026-04-17]6周年前夜祭💐 点歌歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18XdHBQErd?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "真生活",
+  "artist": "案山子",
+  "collection": "【💐歌切】[2026-04-17]6周年前夜祭💐 点歌歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18XdHBQErd?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "福寿草",
+  "artist": "ぐにょ",
+  "collection": "【💐歌切】[2026-04-17]6周年前夜祭💐 点歌歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18XdHBQErd?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【💐歌切】[2026-04-17]6周年前夜祭💐 点歌歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18XdHBQErd?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "魔法",
+  "artist": "KOTORI",
+  "collection": "【💐歌切】[2026-04-17]6周年前夜祭💐 点歌歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18XdHBQErd?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "食虫植物",
+  "artist": "理芽",
+  "collection": "【💐歌切】[2026-04-17]6周年前夜祭💐 点歌歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18XdHBQErd?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "晚餐歌",
+  "artist": "tuki",
+  "collection": "【💐歌切】[2026-04-17]6周年前夜祭💐 点歌歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18XdHBQErd?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "ナブナ",
+  "collection": "【💐歌切】[2026-04-17]6周年前夜祭💐 点歌歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18XdHBQErd?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "CH4NGE",
+  "artist": "Giga",
+  "collection": "【💐歌切】[2026-04-17]6周年前夜祭💐 点歌歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18XdHBQErd?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "ミュージック",
+  "artist": "サカナクション",
+  "collection": "【💐歌切】[2026-04-17]6周年前夜祭💐 点歌歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18XdHBQErd?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "有頂天",
+  "artist": "ポルカドットスティングレイ",
+  "collection": "【💐歌切】[2026-04-17]6周年前夜祭💐 点歌歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18XdHBQErd?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "ミス・パラレルワールド",
+  "artist": "相対性理論",
+  "collection": "【💐歌切】[2026-04-17]6周年前夜祭💐 点歌歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18XdHBQErd?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "【💐歌切】[2026-04-17]6周年前夜祭💐 点歌歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18XdHBQErd?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "家族の風景",
+  "artist": "ハナレグミ",
+  "collection": "【💐歌切】[2026-04-17]6周年前夜祭💐 点歌歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18XdHBQErd?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "シュノーケル",
+  "artist": "文藝天国",
+  "collection": "【💐歌切】[2026-04-17]6周年前夜祭💐 点歌歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18XdHBQErd?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "夏の半券",
+  "artist": "みきとP",
+  "collection": "【💐歌切】[2026-04-17]6周年前夜祭💐 点歌歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18XdHBQErd?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "夏恋慕",
+  "artist": "コバソロ",
+  "collection": "【💐歌切】[2026-04-17]6周年前夜祭💐 点歌歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18XdHBQErd?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "森の小さなレストラン",
+  "artist": "手嶌葵",
+  "collection": "【💐歌切】[2026-04-17]6周年前夜祭💐 点歌歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18XdHBQErd?p=18",
+  "source": "figaro.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-04-17]6周年前夜祭💐 点歌歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18XdHBQErd?p=19",
+  "source": "figaro.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "HoneyWorks",
+  "collection": "【💐歌切】[2026-04-17]6周年前夜祭💐 点歌歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18XdHBQErd?p=20",
+  "source": "figaro.js"
+},
+    {
+  "title": "カゲボウシ",
+  "artist": "SODAKIT",
+  "collection": "【💐歌切】[2026-04-17]6周年前夜祭💐 点歌歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18XdHBQErd?p=21",
   "source": "figaro.js"
 }
 );

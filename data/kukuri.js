@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 4/18/2026, 11:29:04 AM
+// 生成时间: 4/18/2026, 12:41:24 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1587,6 +1587,294 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-04-09]ryo限定歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nHDtBzEBn?p=19",
+  "source": "kukuri.js"
+},
+    {
+  "title": "vivi",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "がらくた",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Pale Blue",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "海の幽霊",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "1991",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Flamingo",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "春雷",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "死神",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "カムパネルラ",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "夏夜のマジック",
+  "artist": "indigo la End",
+  "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "憂、燦々",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Answer",
+  "artist": "幾田りら",
+  "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "フクロウ~フクロウが知らせる客が来たと〜",
+  "artist": "KOKIA",
+  "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "あなたの夜が明けるまで",
+  "artist": "傘村トータ feat. IA・Fukase",
+  "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "10月無口な君を忘れる",
+  "artist": "あたらよ",
+  "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=18",
+  "source": "kukuri.js"
+},
+    {
+  "title": "君が夜の海に還るまで",
+  "artist": "こんにちは谷田さん feat. 初音ミク",
+  "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=19",
+  "source": "kukuri.js"
+},
+    {
+  "title": "あなたに好きと言われたい",
+  "artist": "奥華子",
+  "collection": "【歌切】[2026-04-17]歌回仅限一小时！ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16YdHBiEnr?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【歌切】[2026-04-17]歌回仅限一小时！ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16YdHBiEnr?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "さよなら君の声",
+  "artist": "美郷あき",
+  "collection": "【歌切】[2026-04-17]歌回仅限一小时！ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16YdHBiEnr?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Stay Alive",
+  "artist": "高橋李依",
+  "collection": "【歌切】[2026-04-17]歌回仅限一小时！ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16YdHBiEnr?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ENDROLL",
+  "artist": "川上洋平 [Alexandros]×SennaRin",
+  "collection": "【歌切】[2026-04-17]歌回仅限一小时！ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16YdHBiEnr?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "again",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-04-17]歌回仅限一小时！ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16YdHBiEnr?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "My Generation",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-04-17]歌回仅限一小时！ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16YdHBiEnr?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "SUMMER SONG",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-04-17]歌回仅限一小时！ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16YdHBiEnr?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "TOKYO",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-04-17]歌回仅限一小时！ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16YdHBiEnr?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "I remember you",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-04-17]歌回仅限一小时！ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16YdHBiEnr?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "残ってる",
+  "artist": "吉澤嘉代子",
+  "collection": "【歌切】[2026-04-17]歌回仅限一小时！ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16YdHBiEnr?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "月曜日戦争",
+  "artist": "吉澤嘉代子",
+  "collection": "【歌切】[2026-04-17]歌回仅限一小时！ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16YdHBiEnr?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "真夜中遊園地",
+  "artist": "チャットモンチー",
+  "collection": "【歌切】[2026-04-17]歌回仅限一小时！ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16YdHBiEnr?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "世界が終わる夜に",
+  "artist": "チャットモンチー",
+  "collection": "【歌切】[2026-04-17]歌回仅限一小时！ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16YdHBiEnr?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "橙",
+  "artist": "チャットモンチー",
+  "collection": "【歌切】[2026-04-17]歌回仅限一小时！ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16YdHBiEnr?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "染まるよ",
+  "artist": "チャットモンチー",
+  "collection": "【歌切】[2026-04-17]歌回仅限一小时！ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16YdHBiEnr?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "クロノスタシス",
+  "artist": "きのこ帝国",
+  "collection": "【歌切】[2026-04-17]歌回仅限一小时！ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16YdHBiEnr?p=17",
   "source": "kukuri.js"
 }
 );
