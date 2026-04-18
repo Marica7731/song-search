@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 4/18/2026, 10:35:41 AM
+// 生成时间: 4/18/2026, 11:30:30 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14747,6 +14747,38 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-04-11]带来如黑洞般吸引人的歌曲 ✧ 闭幕式歌回 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JqDmBcEQW?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "パラレルナイト",
+  "artist": "凛々咲",
+  "collection": "【🐍歌切】[2026-04-17]终于飞向太空了！在直播前！怀着对宇宙的思念歌唱🚀 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qzdHBhEEr?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Re,Future",
+  "artist": "凛々咲",
+  "collection": "【🐍歌切】[2026-04-17]终于飞向太空了！在直播前！怀着对宇宙的思念歌唱🚀 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qzdHBhEEr?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Close to you",
+  "artist": "凛々咲",
+  "collection": "【🐍歌切】[2026-04-17]终于飞向太空了！在直播前！怀着对宇宙的思念歌唱🚀 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qzdHBhEEr?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ひらかれた宇宙",
+  "artist": "ぽめ",
+  "collection": "【🐍歌切】[2026-04-17]终于飞向太空了！在直播前！怀着对宇宙的思念歌唱🚀 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qzdHBhEEr?p=4",
   "source": "ririsya.js"
 }
 );
