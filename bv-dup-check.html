@@ -30,6 +30,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;b
 .copy-controls{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:18px}
 .copy-controls label{font-size:13px;color:#495057;display:flex;align-items:center;gap:4px}
 .copy-index-input{width:84px;padding:5px 8px;border:1px solid #ddd;border-radius:6px;font-size:13px}
+.copy-order-select{padding:5px 8px;border:1px solid #ddd;border-radius:6px;font-size:13px;background:#fff;color:#2c3e50}
 .copy-separator-input{width:120px;padding:5px 8px;border:1px solid #ddd;border-radius:6px;font-size:13px}
 .copy-btn{padding:8px 14px;background:#f3f4f6;color:#111827;border:1px solid #b8c0cc;border-radius:6px;cursor:pointer;font-size:13px}
 .result-list{margin-bottom:30px}
@@ -93,7 +94,8 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;b
     <label><input type="checkbox" id="copyOriginal">输入值</label>
     <label><input type="checkbox" id="copyTitle" checked>歌名</label>
     <label><input type="checkbox" id="copyArtist" checked>歌手</label>
-    <label>复制第 <input type="number" id="copyDupIndex" class="copy-index-input" min="1" placeholder="默认最后"> 个重复链接</label>
+    <label>复制第 <input type="number" id="copyDupIndex" class="copy-index-input" min="1" placeholder="默认1"> 个重复链接</label>
+    <label>位次 <select id="copyDupOrder" class="copy-order-select"><option value="from-start">正数</option><option value="from-end">倒数</option></select></label>
     <label><input type="checkbox" id="copySource">来源</label>
     <label><input type="checkbox" id="copyLink" checked>链接</label>
     <label><input type="checkbox" id="copyBvid" checked>BV号</label>

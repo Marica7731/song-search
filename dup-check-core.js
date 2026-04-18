@@ -99,19 +99,46 @@ function getCopyDuplicateIndex() {
   return parsed;
 }
 
+function getCopyDuplicateOrder() {
+  const select = document.getElementById('copyDupOrder');
+  if (!select) return 'from-start';
+  const value = String(select.value || '').trim();
+  return value === 'from-end' ? 'from-end' : 'from-start';
+}
+
+function getDuplicateLinkCandidatesForCopy(item) {
+  const dupList = Array.isArray(item?.dupList) ? item.dupList : [];
+  const links = [];
+  const seen = new Set();
+  dupList.forEach(entry => {
+    const link = String(entry?.link || '').trim();
+    if (!link || seen.has(link)) return;
+    seen.add(link);
+    links.push(link);
+  });
+  if (links.length === 0) return [];
+
+  const currentLink = String(item?.song?.link || '').trim();
+  const filtered = currentLink ? links.filter(link => link !== currentLink) : links.slice();
+  return filtered.length > 0 ? filtered : links;
+}
+
 function getLinkForCopy(item) {
   if (!item || !item.song) return '';
   if (currentMode !== 'bv') return item.song.link || '';
-  const dupList = Array.isArray(item.dupList) ? item.dupList : [];
-  if (dupList.length === 0) return item.song.link || '';
+  const links = getDuplicateLinkCandidatesForCopy(item);
+  if (links.length === 0) return item.song.link || '';
 
   const nth = getCopyDuplicateIndex();
-  if (nth == null) {
-    return dupList[dupList.length - 1]?.link || item.song.link || '';
+  const rank = nth == null ? 1 : nth;
+  const order = getCopyDuplicateOrder();
+  let index = rank - 1;
+  if (order === 'from-end') {
+    index = links.length - rank;
   }
+  index = Math.max(0, Math.min(links.length - 1, index));
 
-  const index = Math.max(0, Math.min(dupList.length - 1, nth - 1));
-  return dupList[index]?.link || item.song.link || '';
+  return links[index] || item.song.link || '';
 }
 
 function getCopySeparator() {
@@ -140,7 +167,7 @@ function buildCopyRecord(item) {
     artist: song.artist || '',
     source: item?.isNotFound ? '' : sourceText,
     link,
-    bvid: extractBV(song.bvid || link || item?.originalInput || ''),
+    bvid: extractBV(link || song.bvid || item?.originalInput || ''),
     dupCount: Number(item?.dupCount || 0),
     status: getResultStatusText(item)
   };
