@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 4/18/2026, 12:47:46 PM
+// 生成时间: 4/18/2026, 2:05:27 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1835,6 +1835,118 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-04-13]随心唱会儿歌～稍微休息一下吧～𓈒𓏸 -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aaQ8BeEAv?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "パズルガール",
+  "artist": "とあ",
+  "collection": "【歌切】[2026-04-17]周五就是要享受才对嘛 开唱啦啊啊啊 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16adHBKExr?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-17]周五就是要享受才对嘛 开唱啦啊啊啊 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16adHBKExr?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP",
+  "collection": "【歌切】[2026-04-17]周五就是要享受才对嘛 开唱啦啊啊啊 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16adHBKExr?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "KEMU VOXX",
+  "collection": "【歌切】[2026-04-17]周五就是要享受才对嘛 开唱啦啊啊啊 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16adHBKExr?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-04-17]周五就是要享受才对嘛 开唱啦啊啊啊 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16adHBKExr?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "花瓶の花",
+  "artist": "石崎ひゅーい",
+  "collection": "【歌切】[2026-04-17]周五就是要享受才对嘛 开唱啦啊啊啊 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16adHBKExr?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "リンジュー・ラヴ",
+  "artist": "マカロニえんぴつ",
+  "collection": "【歌切】[2026-04-17]周五就是要享受才对嘛 开唱啦啊啊啊 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16adHBKExr?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-04-17]周五就是要享受才对嘛 开唱啦啊啊啊 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16adHBKExr?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-04-17]周五就是要享受才对嘛 开唱啦啊啊啊 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16adHBKExr?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-04-17]周五就是要享受才对嘛 开唱啦啊啊啊 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16adHBKExr?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "メロウ",
+  "artist": "須田景凪",
+  "collection": "【歌切】[2026-04-17]周五就是要享受才对嘛 开唱啦啊啊啊 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16adHBKExr?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "シアワセ",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-04-17]周五就是要享受才对嘛 开唱啦啊啊啊 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16adHBKExr?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-17]周五就是要享受才对嘛 开唱啦啊啊啊 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16adHBKExr?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "メイクミー",
+  "artist": "澄花",
+  "collection": "【歌切】[2026-04-17]周五就是要享受才对嘛 开唱啦啊啊啊 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16adHBKExr?p=14",
   "source": "sumica.js"
 }
 );

@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 4/18/2026, 12:44:02 PM
+// 生成时间: 4/18/2026, 2:01:09 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -30523,6 +30523,254 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-04-15]初見さん歓迎！一緒に騒ご～！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZhQVBFEff?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "collection": "【🍠🦍歌切】[2026-04-18]初見さん歓迎！華金だ～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158dsBNEqe?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-04-18]初見さん歓迎！華金だ～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158dsBNEqe?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "桜キッス",
+  "artist": "河辺千恵子",
+  "collection": "【🍠🦍歌切】[2026-04-18]初見さん歓迎！華金だ～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158dsBNEqe?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "未来のミュージアム",
+  "artist": "Perfume",
+  "collection": "【🍠🦍歌切】[2026-04-18]初見さん歓迎！華金だ～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158dsBNEqe?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アローラ!!",
+  "artist": "松本梨香",
+  "collection": "【🍠🦍歌切】[2026-04-18]初見さん歓迎！華金だ～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158dsBNEqe?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "涙そうそう",
+  "artist": "夏川りみ",
+  "collection": "【🍠🦍歌切】[2026-04-18]初見さん歓迎！華金だ～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158dsBNEqe?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "赤いスイートピー",
+  "artist": "松田聖子",
+  "collection": "【🍠🦍歌切】[2026-04-18]初見さん歓迎！華金だ～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158dsBNEqe?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ショコラに夢中",
+  "artist": "安野モヨコ",
+  "collection": "【🍠🦍歌切】[2026-04-18]初見さん歓迎！華金だ～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158dsBNEqe?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "フローリア",
+  "artist": "佐香智久",
+  "collection": "【🍠🦍歌切】[2026-04-18]初見さん歓迎！華金だ～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158dsBNEqe?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "絶世美人",
+  "artist": "絕望少女達（風浦可符香、木津千里、木村カエレ、日塔奈美）",
+  "collection": "【🍠🦍歌切】[2026-04-18]初見さん歓迎！華金だ～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158dsBNEqe?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "恋は渾沌の隷也",
+  "artist": "後ろから這いより隊G",
+  "collection": "【🍠🦍歌切】[2026-04-18]初見さん歓迎！華金だ～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158dsBNEqe?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【🍠🦍歌切】[2026-04-18]初見さん歓迎！華金だ～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158dsBNEqe?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おどるポンポコリン",
+  "artist": "さくらももこ",
+  "collection": "【🍠🦍歌切】[2026-04-18]初見さん歓迎！華金だ～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158dsBNEqe?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "とくべチュ、して",
+  "artist": "＝LOVE（イコールラブ）",
+  "collection": "【🍠🦍歌切】[2026-04-18]初見さん歓迎！華金だ～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158dsBNEqe?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Diamonds",
+  "artist": "プリンセス プリンセス",
+  "collection": "【🍠🦍歌切】[2026-04-18]初見さん歓迎！華金だ～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158dsBNEqe?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "かくれんぼ",
+  "artist": "AliA",
+  "collection": "【🍠🦍歌切】[2026-04-18]初見さん歓迎！華金だ～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158dsBNEqe?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "星の伝言",
+  "artist": "東山奈央",
+  "collection": "【🍠🦍歌切】[2026-04-18]初見さん歓迎！華金だ～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158dsBNEqe?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "クフフのフ～僕と契約～",
+  "artist": "六道骸",
+  "collection": "【🍠🦍歌切】[2026-04-18]初見さん歓迎！華金だ～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158dsBNEqe?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "さよならエレジー",
+  "artist": "菅田将暉",
+  "collection": "【🍠🦍歌切】[2026-04-18]初見さん歓迎！華金だ～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158dsBNEqe?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アントワネットブルー",
+  "artist": "北出菜奈",
+  "collection": "【🍠🦍歌切】[2026-04-18]初見さん歓迎！華金だ～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158dsBNEqe?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ナージャ",
+  "artist": "明日のナージャ",
+  "collection": "【🍠🦍歌切】[2026-04-18]初見さん歓迎！華金だ～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158dsBNEqe?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "【🍠🦍歌切】[2026-04-18]初見さん歓迎！華金だ～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158dsBNEqe?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "恋風",
+  "artist": "近藤孝行",
+  "collection": "【🍠🦍歌切】[2026-04-18]初見さん歓迎！華金だ～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158dsBNEqe?p=23",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Dreaming on the radio",
+  "artist": "越前リョーマ",
+  "collection": "【🍠🦍歌切】[2026-04-18]初見さん歓迎！華金だ～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158dsBNEqe?p=24",
+  "source": "yoshika.js"
+},
+    {
+  "title": "暗黒の翼",
+  "artist": "レディ･バット(小林沙苗）",
+  "collection": "【🍠🦍歌切】[2026-04-18]初見さん歓迎！華金だ～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158dsBNEqe?p=25",
+  "source": "yoshika.js"
+},
+    {
+  "title": "闇のBAROQUE バロック",
+  "artist": "土屋美紀、下屋則子（シェシェ、ミミ",
+  "collection": "【🍠🦍歌切】[2026-04-18]初見さん歓迎！華金だ～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158dsBNEqe?p=26",
+  "source": "yoshika.js"
+},
+    {
+  "title": "恋はなんだろう",
+  "artist": "七海るちあ",
+  "collection": "【🍠🦍歌切】[2026-04-18]初見さん歓迎！華金だ～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158dsBNEqe?p=27",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Legend of Mermaid",
+  "artist": "七海るちあ（CV. 中田あすみ）寶生波音（CV. 寺門仁美）洞院リナ（CV. 淺野まゆみ）",
+  "collection": "【🍠🦍歌切】[2026-04-18]初見さん歓迎！華金だ～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158dsBNEqe?p=28",
+  "source": "yoshika.js"
+},
+    {
+  "title": "輝く未来",
+  "artist": "小此木麻里・畠中洋",
+  "collection": "【🍠🦍歌切】[2026-04-18]初見さん歓迎！華金だ～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158dsBNEqe?p=29",
+  "source": "yoshika.js"
+},
+    {
+  "title": "パート・オブ・ユア・ワールド",
+  "artist": "すずきまゆみ",
+  "collection": "【🍠🦍歌切】[2026-04-18]初見さん歓迎！華金だ～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158dsBNEqe?p=30",
+  "source": "yoshika.js"
+},
+    {
+  "title": "愛の芽生え",
+  "artist": "美女と野獣",
+  "collection": "【🍠🦍歌切】[2026-04-18]初見さん歓迎！華金だ～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158dsBNEqe?p=31",
   "source": "yoshika.js"
 }
 );
