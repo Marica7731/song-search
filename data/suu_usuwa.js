@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 4/18/2026, 2:00:02 PM
+// 生成时间: 4/18/2026, 2:39:07 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -20595,6 +20595,126 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】#140 [2026-04-15]周三定期歌回！圆框眼镜正在流行吗？ 稀羽すう - Suu Usuwa -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G9QHB7Ekd?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "I LOVE...",
+  "artist": "Official髭男dism",
+  "collection": "【🦢歌切】[2026-04-18]午后时光来一曲如何？  稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JEdsBkEeo?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "トロイメライ",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】[2026-04-18]午后时光来一曲如何？  稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JEdsBkEeo?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "マジックナンバー",
+  "artist": "坂本真綾",
+  "collection": "【🦢歌切】[2026-04-18]午后时光来一曲如何？  稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JEdsBkEeo?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🦢歌切】[2026-04-18]午后时光来一曲如何？  稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JEdsBkEeo?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【🦢歌切】[2026-04-18]午后时光来一曲如何？  稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JEdsBkEeo?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "『推しの子(第3期)』なとり",
+  "collection": "【🦢歌切】[2026-04-18]午后时光来一曲如何？  稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JEdsBkEeo?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ファタール",
+  "artist": "GEMN",
+  "collection": "【🦢歌切】[2026-04-18]午后时光来一曲如何？  稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JEdsBkEeo?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
+  "collection": "【🦢歌切】[2026-04-18]午后时光来一曲如何？  稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JEdsBkEeo?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【🦢歌切】[2026-04-18]午后时光来一曲如何？  稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JEdsBkEeo?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "READY!!",
+  "artist": "765PRO ALLSTARS",
+  "collection": "【🦢歌切】[2026-04-18]午后时光来一曲如何？  稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JEdsBkEeo?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "世界に一つだけの花",
+  "artist": "SMAP",
+  "collection": "【🦢歌切】[2026-04-18]午后时光来一曲如何？  稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JEdsBkEeo?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "パプリカ",
+  "artist": "Foorin×米津玄師",
+  "collection": "【🦢歌切】[2026-04-18]午后时光来一曲如何？  稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JEdsBkEeo?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "DAN DAN 心魅かれてく",
+  "artist": "FIELD OF VIEW",
+  "collection": "【🦢歌切】[2026-04-18]午后时光来一曲如何？  稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JEdsBkEeo?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "【🦢歌切】[2026-04-18]午后时光来一曲如何？  稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JEdsBkEeo?p=14",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "チェリー",
+  "artist": "スピッツ",
+  "collection": "【🦢歌切】[2026-04-18]午后时光来一曲如何？  稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JEdsBkEeo?p=15",
   "source": "suu_usuwa.js"
 }
 );
