@@ -963,6 +963,38 @@ function inferBvSourceByHints(normalizedBv, livePayload) {
   return '';
 }
 
+function stripLiveTrackPrefix(rawText) {
+  let value = String(rawText || '').trim();
+  if (!value) return '';
+  value = value.replace(/^\[\s*\d+\s*[\]\)]\s*/u, '');
+  value = value.replace(/^(?:p\s*)?\d{1,3}\s*[\.\)\]:：、\-]\s*/iu, '');
+  value = value.replace(/^(?:p\s*)?\d{1,3}\s+/iu, '');
+  return value.trim();
+}
+
+function parseLivePartToSongEntry(partTitle, fallbackTitle, pageNo) {
+  const rawPart = String(partTitle || '').trim();
+  const cleanedPart = stripLiveTrackPrefix(rawPart);
+  const text = cleanedPart || rawPart || String(fallbackTitle || '').trim() || `P${pageNo}`;
+
+  const titleArtistMatch = text.match(/^(.+?)\s*[-－—–]\s*(.+)$/u);
+  if (titleArtistMatch) {
+    const parsedTitle = String(titleArtistMatch[1] || '').trim();
+    const parsedArtist = String(titleArtistMatch[2] || '').trim();
+    if (parsedTitle && parsedArtist) {
+      return {
+        title: parsedTitle,
+        artist: parsedArtist
+      };
+    }
+  }
+
+  return {
+    title: text,
+    artist: ''
+  };
+}
+
 function buildLiveFallbackSongsFromPayload(livePayload, preferredSource = '') {
   if (!livePayload || !livePayload.bvid) return [];
   const pages = Array.isArray(livePayload.pages) && livePayload.pages.length > 0
@@ -974,10 +1006,10 @@ function buildLiveFallbackSongsFromPayload(livePayload, preferredSource = '') {
   return pages.map((pageItem, index) => {
     const pageNo = Number(pageItem?.page) > 0 ? Number(pageItem.page) : (index + 1);
     const partTitle = String(pageItem?.part || '').trim();
-    const title = partTitle || String(livePayload.videoTitle || '').trim() || `P${pageNo}`;
+    const parsed = parseLivePartToSongEntry(partTitle, livePayload.videoTitle, pageNo);
     return {
-      title,
-      artist: '',
+      title: parsed.title,
+      artist: parsed.artist,
       source: preferredSource,
       link: `https://www.bilibili.com/video/${bvid}?p=${pageNo}`,
       bvid,
