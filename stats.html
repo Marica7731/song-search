@@ -1034,6 +1034,7 @@
             });
 
             return {
+                kind: 'vtuber',
                 totalSongs: data.length,
                 uniqueTracks: getUniqueSongCount(data),
                 soloTracks: soloTitleKeys.size,
@@ -1042,25 +1043,102 @@
             };
         }
 
+        function buildOverviewByTabLocal(tab, data, groups) {
+            const base = buildOverviewFromData(data);
+            if (tab === 'rank') {
+                const trackCount = Array.isArray(groups) ? groups.length : 0;
+                const totalSongs = Number(base.totalSongs || 0);
+                const avgPerformancesPerTrack = trackCount > 0 ? totalSongs / trackCount : 0;
+                const topTrack = trackCount > 0 ? groups[0] : null;
+                const multiSourceTracks = (Array.isArray(groups) ? groups : [])
+                    .filter(item => Number(item?.sourceCount || 0) > 1)
+                    .length;
+                const multiSourceRate = trackCount > 0
+                    ? `${((multiSourceTracks / trackCount) * 100).toFixed(1)}%`
+                    : '0.0%';
+                return {
+                    kind: 'rank',
+                    totalSongs,
+                    trackCount,
+                    avgPerformancesPerTrack,
+                    topTrackCount: Number(topTrack?.count || 0),
+                    topTrackTitle: String(topTrack?.title || '').trim(),
+                    multiSourceTracks,
+                    multiSourceRate,
+                    artistCount: Number(base.artistCount || 0),
+                    validArtistPosts: Number(base.validArtistPosts || 0)
+                };
+            }
+
+            if (tab === 'artist') {
+                const artistCount = Array.isArray(groups) ? groups.length : 0;
+                const totalSongs = Number(base.totalSongs || 0);
+                const totalUniqueTracksByArtist = (Array.isArray(groups) ? groups : [])
+                    .reduce((sum, item) => sum + Number(item?.uniqueCount || 0), 0);
+                const avgPerformancesPerArtist = artistCount > 0 ? totalSongs / artistCount : 0;
+                const avgUniqueTracksPerArtist = artistCount > 0 ? totalUniqueTracksByArtist / artistCount : 0;
+                const topArtist = artistCount > 0 ? groups[0] : null;
+                return {
+                    kind: 'artist',
+                    totalSongs,
+                    artistCount,
+                    validArtistPosts: Number(base.validArtistPosts || 0),
+                    totalUniqueTracksByArtist,
+                    avgPerformancesPerArtist,
+                    avgUniqueTracksPerArtist,
+                    topArtistCount: Number(topArtist?.totalCount || 0),
+                    topArtistName: String(topArtist?.name || '').trim()
+                };
+            }
+
+            return {
+                kind: 'vtuber',
+                ...base
+            };
+        }
+
         function renderOverviewCards(overview, viewTotal = 0) {
             const grid = document.getElementById('overview-grid');
             if (!grid) return;
 
-            const totalSongs = Number(overview?.totalSongs || 0);
-            const uniqueTracks = Number(overview?.uniqueTracks || 0);
-            const soloTracks = Number(overview?.soloTracks || 0);
-            const artistCount = Number(overview?.artistCount || 0);
-            const validArtistPosts = Number(overview?.validArtistPosts || 0);
-            const soloRate = uniqueTracks > 0 ? `${((soloTracks / uniqueTracks) * 100).toFixed(1)}%` : '0.0%';
+            const kind = String(overview?.kind || (activeTab === 'rank' ? 'rank' : (activeTab === 'artist' ? 'artist' : 'vtuber')));
+            const formatAvg = value => Number(value || 0).toFixed(2);
+            let cards = [];
 
-            const cards = [
-                { label: '总投稿', value: formatCountText(totalSongs), note: '当前来源与搜索结果' },
-                { label: '去重曲目', value: formatCountText(uniqueTracks), note: '按歌名 + 歌手去重' },
-                { label: '独特曲目', value: formatCountText(soloTracks), note: '仅单来源唱过' },
-                { label: '独特占比', value: soloRate, note: '独特曲目 / 去重曲目' },
-                { label: '歌手覆盖', value: formatCountText(artistCount), note: `有效歌手投稿 ${formatCountText(validArtistPosts)} 条` },
-                { label: getCurrentViewLabel(), value: formatCountText(viewTotal), note: '当前 Tab 的条目总数' }
-            ];
+            if (kind === 'rank') {
+                cards = [
+                    { label: '总投稿', value: formatCountText(overview?.totalSongs || 0), note: '当前来源与搜索结果' },
+                    { label: '去重曲目', value: formatCountText(overview?.trackCount || 0), note: '按歌名 + 歌手聚合' },
+                    { label: '平均场次', value: formatAvg(overview?.avgPerformancesPerTrack || 0), note: '每首去重曲目的平均投稿' },
+                    { label: '多来源曲目', value: formatCountText(overview?.multiSourceTracks || 0), note: '覆盖 2+ 来源的曲目数量' },
+                    { label: '多来源占比', value: overview?.multiSourceRate || '0.0%', note: '多来源曲目 / 去重曲目' },
+                    { label: '榜首热度', value: formatCountText(overview?.topTrackCount || 0), note: (overview?.topTrackTitle || '暂无数据') }
+                ];
+            } else if (kind === 'artist') {
+                cards = [
+                    { label: '总投稿', value: formatCountText(overview?.totalSongs || 0), note: '当前来源与搜索结果' },
+                    { label: '歌手条目', value: formatCountText(overview?.artistCount || 0), note: '当前筛选后的歌手分组总数' },
+                    { label: '有效歌手投稿', value: formatCountText(overview?.validArtistPosts || 0), note: '排除异常歌手后的投稿数' },
+                    { label: '人均投稿', value: formatAvg(overview?.avgPerformancesPerArtist || 0), note: '总投稿 / 歌手条目' },
+                    { label: '人均去重曲', value: formatAvg(overview?.avgUniqueTracksPerArtist || 0), note: '去重曲目累计 / 歌手条目' },
+                    { label: '头部歌手', value: formatCountText(overview?.topArtistCount || 0), note: (overview?.topArtistName || '暂无数据') }
+                ];
+            } else {
+                const totalSongs = Number(overview?.totalSongs || 0);
+                const uniqueTracks = Number(overview?.uniqueTracks || 0);
+                const soloTracks = Number(overview?.soloTracks || 0);
+                const artistCount = Number(overview?.artistCount || 0);
+                const validArtistPosts = Number(overview?.validArtistPosts || 0);
+                const soloRate = uniqueTracks > 0 ? `${((soloTracks / uniqueTracks) * 100).toFixed(1)}%` : '0.0%';
+                cards = [
+                    { label: '总投稿', value: formatCountText(totalSongs), note: '当前来源与搜索结果' },
+                    { label: '去重曲目', value: formatCountText(uniqueTracks), note: '按歌名 + 歌手去重' },
+                    { label: '独特曲目', value: formatCountText(soloTracks), note: '仅单来源唱过' },
+                    { label: '独特占比', value: soloRate, note: '独特曲目 / 去重曲目' },
+                    { label: '歌手覆盖', value: formatCountText(artistCount), note: `有效歌手投稿 ${formatCountText(validArtistPosts)} 条` },
+                    { label: getCurrentViewLabel(), value: formatCountText(viewTotal), note: '当前 Tab 的条目总数' }
+                ];
+            }
 
             grid.innerHTML = cards.map(card => `
                 <div class="overview-card">
@@ -1723,7 +1801,7 @@
             const listEl = document.getElementById('rank-list');
             const aggData = alreadyAggregated ? data : aggregateBySong(data);
             renderOverviewCards(
-                isApiMode && currentStatsPayload ? currentStatsPayload.overview : buildOverviewFromData(data),
+                isApiMode && currentStatsPayload ? currentStatsPayload.overview : buildOverviewByTabLocal('rank', data, aggData),
                 isApiMode && currentStatsPayload ? currentStatsPayload.total : aggData.length
             );
             
@@ -2082,7 +2160,7 @@
         function renderVtuberSourceList(data, alreadyAggregated = false) {
             const aggData = alreadyAggregated ? data : aggregateByVtuberSource(data);
             renderOverviewCards(
-                isApiMode && currentStatsPayload ? currentStatsPayload.overview : buildOverviewFromData(data),
+                isApiMode && currentStatsPayload ? currentStatsPayload.overview : buildOverviewByTabLocal('vtuber-source', data, aggData),
                 isApiMode && currentStatsPayload ? currentStatsPayload.total : aggData.length
             );
             if (!isApiMode) {
@@ -2096,7 +2174,7 @@
         function renderArtistList(data, alreadyAggregated = false) {
             const aggData = alreadyAggregated ? data : aggregateByArtist(data);
             renderOverviewCards(
-                isApiMode && currentStatsPayload ? currentStatsPayload.overview : buildOverviewFromData(data),
+                isApiMode && currentStatsPayload ? currentStatsPayload.overview : buildOverviewByTabLocal('artist', data, aggData),
                 isApiMode && currentStatsPayload ? currentStatsPayload.total : aggData.length
             );
             if (!isApiMode) {
@@ -2278,7 +2356,7 @@
             const data = getFilteredData();
             
             if (data.length === 0) {
-                renderOverviewCards(buildOverviewFromData([]), 0);
+                renderOverviewCards(buildOverviewByTabLocal(activeTab, [], []), 0);
                 document.getElementById('empty-msg').style.display = 'block';
                 document.getElementById('rank-list').innerHTML = '';
                 document.getElementById('vtuber-source-list').innerHTML = '';

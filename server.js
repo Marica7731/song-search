@@ -1091,6 +1091,60 @@ function buildStatsOverview(data) {
   };
 }
 
+function buildStatsOverviewByTab(tab, data, groups) {
+  const base = buildStatsOverview(data);
+  if (tab === 'rank') {
+    const trackCount = Array.isArray(groups) ? groups.length : 0;
+    const totalSongs = Number(base.totalSongs || 0);
+    const avgPerformancesPerTrack = trackCount > 0 ? totalSongs / trackCount : 0;
+    const topTrack = trackCount > 0 ? groups[0] : null;
+    const multiSourceTracks = (Array.isArray(groups) ? groups : [])
+      .filter(item => Number(item?.sourceCount || 0) > 1)
+      .length;
+    const multiSourceRate = trackCount > 0
+      ? `${((multiSourceTracks / trackCount) * 100).toFixed(1)}%`
+      : '0.0%';
+    return {
+      kind: 'rank',
+      totalSongs,
+      trackCount,
+      avgPerformancesPerTrack,
+      topTrackCount: Number(topTrack?.count || 0),
+      topTrackTitle: String(topTrack?.title || '').trim(),
+      multiSourceTracks,
+      multiSourceRate,
+      artistCount: Number(base.artistCount || 0),
+      validArtistPosts: Number(base.validArtistPosts || 0)
+    };
+  }
+
+  if (tab === 'artist') {
+    const artistCount = Array.isArray(groups) ? groups.length : 0;
+    const totalSongs = Number(base.totalSongs || 0);
+    const totalUniqueTracksByArtist = (Array.isArray(groups) ? groups : [])
+      .reduce((sum, item) => sum + Number(item?.uniqueCount || 0), 0);
+    const avgPerformancesPerArtist = artistCount > 0 ? totalSongs / artistCount : 0;
+    const avgUniqueTracksPerArtist = artistCount > 0 ? totalUniqueTracksByArtist / artistCount : 0;
+    const topArtist = artistCount > 0 ? groups[0] : null;
+    return {
+      kind: 'artist',
+      totalSongs,
+      artistCount,
+      validArtistPosts: Number(base.validArtistPosts || 0),
+      totalUniqueTracksByArtist,
+      avgPerformancesPerArtist,
+      avgUniqueTracksPerArtist,
+      topArtistCount: Number(topArtist?.totalCount || 0),
+      topArtistName: String(topArtist?.name || '').trim()
+    };
+  }
+
+  return {
+    kind: 'vtuber',
+    ...base
+  };
+}
+
 async function buildDupCheckResponse(mode, source, items) {
   const results = [];
 
@@ -1531,7 +1585,7 @@ function getStatsAggregatePayload(tab, source, keyword) {
   }
 
   const payload = {
-    overview: buildStatsOverview(data),
+    overview: buildStatsOverviewByTab(tab, data, groups),
     groups,
     summaryText,
     hasData: data.length > 0

@@ -161,7 +161,7 @@ function getNeteaseSearchUrl(keyword) {
 function parseTitleArtistText(text) {
   const value = (text || '').trim();
   if (!value) return { title: '', artist: '' };
-  const matched = value.match(/^(.+?)\s+-\s+(.+)$/);
+  const matched = value.match(/^(.+?)\s*-\s*(.+)$/);
   if (matched) {
     return {
       title: matched[1].trim(),
@@ -169,6 +169,22 @@ function parseTitleArtistText(text) {
     };
   }
   return { title: value, artist: '' };
+}
+
+function notifyNamingToolDirectoryRefresh() {
+  if (typeof window.refreshNamingToolDirectory === 'function') {
+    window.refreshNamingToolDirectory();
+  }
+}
+
+function setSelectItemDirectoryMeta(selectItem, titleText) {
+  if (!selectItem) return;
+  const title = String(titleText || '').trim();
+  const artist = String(selectedArtists[title] || '').trim();
+  const label = artist ? `${title} - ${artist}` : title;
+  selectItem.dataset.dirTitle = title;
+  selectItem.dataset.dirArtist = artist;
+  selectItem.dataset.dirLabel = label;
 }
 
 function getTitleSuggestions(keyword) {
@@ -261,6 +277,38 @@ function createRetitleTools(item, index) {
   applyArtistBtn.style.cursor = 'pointer';
 
   const link = document.createElement('a');
+  const applyCombinedInputFields = () => {
+    const parsedFromTitle = parseTitleArtistText(titleInput.value);
+    const parsedFromArtist = parseTitleArtistText(artistInput.value);
+    let changed = false;
+
+    if (parsedFromTitle.artist) {
+      if (titleInput.value.trim() !== parsedFromTitle.title) {
+        titleInput.value = parsedFromTitle.title;
+        changed = true;
+      }
+      if (artistInput.value.trim() !== parsedFromTitle.artist) {
+        artistInput.value = parsedFromTitle.artist;
+        changed = true;
+      }
+    } else if (parsedFromArtist.artist) {
+      if (titleInput.value.trim() !== parsedFromArtist.title) {
+        titleInput.value = parsedFromArtist.title;
+        changed = true;
+      }
+      if (artistInput.value.trim() !== parsedFromArtist.artist) {
+        artistInput.value = parsedFromArtist.artist;
+        changed = true;
+      }
+    }
+
+    if (changed) {
+      refreshSearchLink();
+      renderTitleSuggestions();
+    }
+    return changed;
+  };
+
   const refreshSearchLink = () => {
     const parsedTitle = parseTitleArtistText(titleInput.value);
     const parsedArtist = parseTitleArtistText(artistInput.value);
@@ -281,16 +329,23 @@ function createRetitleTools(item, index) {
     renderTitleSuggestions();
     refreshSearchLink();
   });
+  titleInput.addEventListener('blur', applyCombinedInputFields);
+  titleInput.addEventListener('paste', () => setTimeout(applyCombinedInputFields, 0));
   titleInput.addEventListener('focus', renderTitleSuggestions);
   titleInput.addEventListener('change', refreshSearchLink);
+  titleInput.addEventListener('change', applyCombinedInputFields);
   artistInput.addEventListener('input', refreshSearchLink);
+  artistInput.addEventListener('blur', applyCombinedInputFields);
+  artistInput.addEventListener('paste', () => setTimeout(applyCombinedInputFields, 0));
   artistInput.addEventListener('change', refreshSearchLink);
+  artistInput.addEventListener('change', applyCombinedInputFields);
+
+  retryBtn.textContent = '应用歌名并刷新';
 
   retryBtn.onclick = async () => {
-    const parsedTitle = parseTitleArtistText(titleInput.value);
-    const parsedArtist = parseTitleArtistText(artistInput.value);
-    const newTitle = (parsedTitle.title || '').trim();
-    const manualArtist = (parsedTitle.artist || parsedArtist.artist || artistInput.value || '').trim();
+    applyCombinedInputFields();
+    const newTitle = (titleInput.value || '').trim();
+    const manualArtist = (artistInput.value || '').trim();
     if (!newTitle) {
       alert('请输入要重查的歌名');
       return;
@@ -323,6 +378,7 @@ function createRetitleTools(item, index) {
   };
 
   applyArtistBtn.onclick = () => {
+    applyCombinedInputFields();
     const parsedTitle = parseTitleArtistText(artistInput.value);
     const newArtist = (parsedTitle.artist || artistInput.value || '').trim();
     if (!newArtist) {
@@ -422,6 +478,8 @@ function renderArtistSelectWithValidation() {
           selectedArtists[item.title] = item.inputArtist;
           optionsDiv.querySelectorAll('.artist-option').forEach(btn => btn.classList.remove('selected'));
           userBtn.classList.add('selected');
+          setSelectItemDirectoryMeta(selectItem, item.title);
+          notifyNamingToolDirectoryRefresh();
           generateResultText();
         };
         optionsDiv.appendChild(userBtn);
@@ -449,6 +507,8 @@ function renderArtistSelectWithValidation() {
           selectedArtists[item.title] = artist.name;
           optionsDiv.querySelectorAll('.artist-option').forEach(btn => btn.classList.remove('selected'));
           optionBtn.classList.add('selected');
+          setSelectItemDirectoryMeta(selectItem, item.title);
+          notifyNamingToolDirectoryRefresh();
           generateResultText();
         };
         optionsDiv.appendChild(optionBtn);
@@ -466,6 +526,8 @@ function renderArtistSelectWithValidation() {
           selectedArtists[item.title] = item.inputArtist;
           optionsDiv.querySelectorAll('.artist-option').forEach(btn => btn.classList.remove('selected'));
           errorBtn.classList.add('selected');
+          setSelectItemDirectoryMeta(selectItem, item.title);
+          notifyNamingToolDirectoryRefresh();
           generateResultText();
         };
         optionsDiv.appendChild(errorBtn);
@@ -480,9 +542,12 @@ function renderArtistSelectWithValidation() {
     selectItem.appendChild(optionsDiv);
 
     selectItem.appendChild(createRetitleTools(item, index));
+    setSelectItemDirectoryMeta(selectItem, item.title);
 
     container.appendChild(selectItem);
   });
+
+  notifyNamingToolDirectoryRefresh();
 }
 
 function generateResultText() {

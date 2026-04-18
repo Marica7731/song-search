@@ -195,7 +195,7 @@ async function loadAllData() {
 </script>
 <script src="/artist-match.js"></script>
 <script src="bili-check-title-artist.js"></script>
-<script src="/page-directory-widget.js?v=2026041904"></script>
+<script src="/page-directory-widget.js?v=2026041905"></script>
 <script>
 function initTitleArtistPage() {
   setCheckReadyState(false, '正在连接服务端歌库...');
@@ -213,15 +213,64 @@ function initTitleArtistPage() {
   updateBackTop();
 
   if (typeof window.createPageDirectory === 'function') {
-    window.createPageDirectory({
-      title: '命名工具目录',
-      items: [
+    const clipText = (text, maxLen = 36) => {
+      const value = String(text || '').replace(/\s+/g, ' ').trim();
+      if (!value) return '';
+      return value.length > maxLen ? `${value.slice(0, maxLen - 1)}…` : value;
+    };
+
+    const buildNamingDirItems = () => {
+      const items = [
         { label: '输入说明', selector: '.input-help' },
-        { label: '待校验输入', selector: '#titleInput' },
-        { label: '歌手校验区', selector: '#artistSelectArea' },
-        { label: '结果导出区', selector: '#resultGenerateArea' }
-      ]
+        { label: '待校验输入', selector: '#titleInput' }
+      ];
+
+      const selectRows = Array.from(document.querySelectorAll('#artistSelectContainer .select-item'));
+      if (selectRows.length > 0) {
+        items.push({ label: '歌名 - 歌手定位', selector: '#artistSelectArea' });
+        selectRows.forEach((row, index) => {
+          const rowLabel = row.dataset.dirLabel
+            || row.querySelector('h4')?.childNodes?.[0]?.textContent
+            || row.querySelector('h4')?.textContent
+            || `条目 ${index + 1}`;
+          items.push({
+            label: `${index + 1}. ${clipText(rowLabel, 34)}`,
+            target: row
+          });
+        });
+      } else {
+        items.push({ label: '歌手校验区', selector: '#artistSelectArea' });
+      }
+
+      if (document.getElementById('resultGenerateArea')?.classList.contains('active')) {
+        items.push({ label: '结果导出区', selector: '#resultGenerateArea' });
+      }
+      return items;
+    };
+
+    const dir = window.createPageDirectory({
+      title: '命名工具目录',
+      items: buildNamingDirItems()
     });
+
+    let refreshTimer = null;
+    const queueRefresh = () => {
+      if (refreshTimer) window.clearTimeout(refreshTimer);
+      refreshTimer = window.setTimeout(() => {
+        dir.setItems(buildNamingDirItems());
+      }, 80);
+    };
+
+    const observeTargets = ['#artistSelectContainer', '#artistSelectArea', '#resultGenerateArea'];
+    observeTargets.forEach(selector => {
+      const el = document.querySelector(selector);
+      if (!el) return;
+      const observer = new MutationObserver(queueRefresh);
+      observer.observe(el, { childList: true, subtree: true, attributes: true, attributeFilter: ['class', 'data-dir-label'] });
+    });
+
+    window.refreshNamingToolDirectory = queueRefresh;
+    queueRefresh();
   }
 }
 document.addEventListener('DOMContentLoaded', initTitleArtistPage);
