@@ -22,6 +22,9 @@ const DUP_COPY_AI_API_BASE = (process.env.DUP_COPY_AI_API_BASE || 'https://api.s
 const DUP_COPY_AI_API_KEY = (process.env.DUP_COPY_AI_API_KEY || '').trim();
 const DUP_COPY_AI_MODEL = (process.env.DUP_COPY_AI_MODEL || 'THUDM/GLM-4-9B-0414').trim();
 const DUP_COPY_AI_TIMEOUT_MS = Math.max(3000, Number(process.env.DUP_COPY_AI_TIMEOUT_MS || 30000));
+const BILI_VIEW_API = 'https://api.bilibili.com/x/web-interface/view?bvid=';
+const BV_LIVE_FETCH_TIMEOUT_MS = Math.max(3000, Number(process.env.BV_LIVE_FETCH_TIMEOUT_MS || 8000));
+const BV_LIVE_CACHE_TTL_MS = Math.max(60 * 1000, Number(process.env.BV_LIVE_CACHE_TTL_MS || 10 * 60 * 1000));
 const DUP_COPY_MAX_ITEMS = 30;
 const REFRESH_LOCK_PATH = '/tmp/song-search-refresh.lock';
 const REFRESH_SCRIPT_PATH = '/usr/local/bin/song-search-refresh.sh';
@@ -48,12 +51,18 @@ let store = {
   titleArtistMap: new Map(),
   artistSongMap: new Map(),
   bvMap: new Map(),
+  uploaderSourceMap: new Map(),
   sourceSongMap: new Map(),
   missingArtistSongs: [],
   missingArtistUnique: 0
 };
 
 const statsAggregateCache = new Map();
+const bvLiveFallbackCache = new Map();
+let singerConfigBvSourceCache = {
+  cacheKey: '',
+  map: new Map()
+};
 
 const refreshState = {
   running: false,
@@ -90,6 +99,13 @@ function extractBvPreserveCase(value) {
   if (!value) return '';
   const matched = String(value).match(/BV[a-zA-Z0-9]+/);
   return matched ? matched[0] : '';
+}
+
+function normalizeUploaderMid(value) {
+  if (value === null || value === undefined) return '';
+  const raw = String(value).trim();
+  if (!raw) return '';
+  return raw;
 }
 
 function getUniqueSongCount(data) {
@@ -616,6 +632,7 @@ function loadSongStore() {
   const artistSongMap = new Map();
   const bvMap = new Map();
   const sourceSongMap = new Map();
+  const uploaderSourceCountMap = new Map();
 
   songs.forEach((song, index) => {
     const sourceFile = String(song.source || '');
@@ -623,6 +640,15 @@ function loadSongStore() {
       sourceSongMap.set(sourceFile, []);
     }
     sourceSongMap.get(sourceFile).push(song);
+
+    const uploaderMid = normalizeUploaderMid(song.uploaderMid);
+    if (uploaderMid && sourceFile) {
+      if (!uploaderSourceCountMap.has(uploaderMid)) {
+        uploaderSourceCountMap.set(uploaderMid, new Map());
+      }
+      const sourceCountMap = uploaderSourceCountMap.get(uploaderMid);
+      sourceCountMap.set(sourceFile, (sourceCountMap.get(sourceFile) || 0) + 1);
+    }
 
     const title = String(song.title || '').trim();
     const titleKey = normalizeString(title);
@@ -676,6 +702,20 @@ function loadSongStore() {
       title: entry.title,
       firstSeen: entry.firstSeen
     }));
+  const uploaderSourceMap = new Map();
+  uploaderSourceCountMap.forEach((sourceCountMap, uploaderMid) => {
+    let bestSource = '';
+    let bestCount = -1;
+    sourceCountMap.forEach((count, sourceFile) => {
+      if (count > bestCount) {
+        bestCount = count;
+        bestSource = sourceFile;
+      }
+    });
+    if (bestSource) {
+      uploaderSourceMap.set(uploaderMid, bestSource);
+    }
+  });
 
   store = {
     songs,
@@ -689,6 +729,7 @@ function loadSongStore() {
     titleArtistMap,
     artistSongMap,
     bvMap,
+    uploaderSourceMap,
     sourceSongMap,
     missingArtistSongs: songs.filter(song => !isValidArtist(song.artist)),
     missingArtistUnique: 0
@@ -740,6 +781,251 @@ function filterCandidatesBySource(items, source) {
   return items.filter(item => item.source === source);
 }
 
+function buildBvNotFoundResult(raw) {
+  return {
+    isNotFound: true,
+    originalInput: raw,
+    dupCount: 0,
+    isDup: false,
+    dupList: [],
+    song: null
+  };
+}
+
+function findSourceFileByConfigName(configFileName) {
+  const raw = String(configFileName || '');
+  const trimmed = raw.trim();
+  const candidates = [];
+  const pushCandidate = candidate => {
+    if (!candidate) return;
+    if (!candidates.includes(candidate)) candidates.push(candidate);
+  };
+
+  [raw, trimmed].forEach(base => {
+    if (!base) return;
+    pushCandidate(base);
+    pushCandidate(base.endsWith('.js') ? base : `${base}.js`);
+  });
+
+  for (const candidate of candidates) {
+    if (store.files.includes(candidate)) return candidate;
+  }
+
+  for (const candidate of candidates) {
+    const target = candidate.toLowerCase();
+    const matched = store.files.find(file => String(file || '').toLowerCase() === target);
+    if (matched) return matched;
+  }
+
+  return '';
+}
+
+function getSingerConfigBvSourceMap() {
+  try {
+    const meta = readSingerConfigWithMeta();
+    const stats = fs.existsSync(meta.loadedFrom) ? fs.statSync(meta.loadedFrom) : null;
+    const cacheKey = `${meta.loadedFrom}|${stats?.mtimeMs || 0}|${meta.configs.length}|${store.files.join('|')}`;
+    if (singerConfigBvSourceCache.cacheKey === cacheKey) {
+      return singerConfigBvSourceCache.map;
+    }
+
+    const mapped = new Map();
+    meta.configs.forEach(config => {
+      const sourceFile = findSourceFileByConfigName(config.file);
+      if (!sourceFile) return;
+      const bvids = Array.isArray(config.bvids) ? config.bvids : [];
+      bvids.forEach(rawBv => {
+        const normalizedBv = extractBV(rawBv);
+        if (!normalizedBv) return;
+        if (!mapped.has(normalizedBv)) {
+          mapped.set(normalizedBv, sourceFile);
+        }
+      });
+    });
+
+    singerConfigBvSourceCache = {
+      cacheKey,
+      map: mapped
+    };
+    return mapped;
+  } catch (_) {
+    return singerConfigBvSourceCache.map || new Map();
+  }
+}
+
+function getPreferredSourceByUploaderMid(uploaderMid) {
+  const mid = normalizeUploaderMid(uploaderMid);
+  if (!mid) return '';
+  return store.uploaderSourceMap.get(mid) || '';
+}
+
+function escapeRegExp(text) {
+  return String(text || '').replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+function buildAliasKeywords(aliasText) {
+  const raw = String(aliasText || '').trim();
+  if (!raw) return [];
+  const normalized = raw.replace(/[()（）【】[\]「」『』]/g, ' ').trim();
+  const keywords = new Set();
+  const pushToken = token => {
+    const value = String(token || '').trim();
+    if (!value) return;
+    if (value.length < 2) return;
+    if (!/[\p{L}\p{N}]/u.test(value)) return;
+    keywords.add(value);
+  };
+
+  pushToken(raw);
+  if (normalized) pushToken(normalized);
+  normalized.split(/[\/|,，、\s]+/).forEach(pushToken);
+  return Array.from(keywords).sort((a, b) => b.length - a.length);
+}
+
+function matchesAliasKeyword(text, textLower, keyword) {
+  const token = String(keyword || '').trim();
+  if (!token) return false;
+  const isAscii = /^[\x00-\x7F]+$/.test(token);
+  if (!isAscii) return text.includes(token);
+
+  const lowerToken = token.toLowerCase();
+  if (lowerToken.length < 3) return false;
+  const regex = new RegExp(`(^|[^a-z0-9])${escapeRegExp(lowerToken)}([^a-z0-9]|$)`);
+  return regex.test(textLower);
+}
+
+function inferSourceFromLivePayloadAlias(livePayload) {
+  if (!livePayload) return '';
+  const blocks = [];
+  const videoTitle = String(livePayload.videoTitle || '').trim();
+  if (videoTitle) blocks.push(videoTitle);
+  const pages = Array.isArray(livePayload.pages) ? livePayload.pages : [];
+  pages.forEach(pageItem => {
+    const part = String(pageItem?.part || '').trim();
+    if (part) blocks.push(part);
+  });
+  if (blocks.length === 0) return '';
+
+  const fullText = blocks.join('\n');
+  const lowerText = fullText.toLowerCase();
+  let bestSource = '';
+  let bestScore = 0;
+
+  store.files.forEach(sourceFile => {
+    const alias = getSourceAlias(sourceFile);
+    const keywords = buildAliasKeywords(alias);
+    if (keywords.length === 0) return;
+
+    let score = 0;
+    keywords.forEach(keyword => {
+      if (!matchesAliasKeyword(fullText, lowerText, keyword)) return;
+      const tokenLen = String(keyword).length;
+      score += tokenLen >= 6 ? 4 : tokenLen >= 4 ? 3 : 2;
+    });
+
+    if (score > bestScore) {
+      bestScore = score;
+      bestSource = sourceFile;
+    }
+  });
+
+  return bestScore > 0 ? bestSource : '';
+}
+
+function pickSourceFromDupSongs(dupList) {
+  if (!Array.isArray(dupList) || dupList.length === 0) return '';
+  const sourceCounter = new Map();
+  dupList.forEach(song => {
+    const sourceFile = String(song?.source || '').trim();
+    if (!sourceFile) return;
+    sourceCounter.set(sourceFile, (sourceCounter.get(sourceFile) || 0) + 1);
+  });
+  let bestSource = '';
+  let bestCount = -1;
+  sourceCounter.forEach((count, sourceFile) => {
+    if (count > bestCount) {
+      bestCount = count;
+      bestSource = sourceFile;
+    }
+  });
+  return bestSource;
+}
+
+function inferBvSourceByHints(normalizedBv, livePayload) {
+  const fromConfig = getSingerConfigBvSourceMap().get(normalizedBv);
+  if (fromConfig) return fromConfig;
+
+  const fromAlias = inferSourceFromLivePayloadAlias(livePayload);
+  if (fromAlias) return fromAlias;
+
+  const fromUploader = getPreferredSourceByUploaderMid(livePayload?.uploaderMid);
+  if (fromUploader) return fromUploader;
+  return '';
+}
+
+function buildLiveFallbackSongsFromPayload(livePayload, preferredSource = '') {
+  if (!livePayload || !livePayload.bvid) return [];
+  const pages = Array.isArray(livePayload.pages) && livePayload.pages.length > 0
+    ? livePayload.pages
+    : [{ page: 1, part: livePayload.videoTitle || '' }];
+  const bvid = String(livePayload.bvid || '').trim();
+  if (!bvid) return [];
+
+  return pages.map((pageItem, index) => {
+    const pageNo = Number(pageItem?.page) > 0 ? Number(pageItem.page) : (index + 1);
+    const partTitle = String(pageItem?.part || '').trim();
+    const title = partTitle || String(livePayload.videoTitle || '').trim() || `P${pageNo}`;
+    return {
+      title,
+      artist: '',
+      source: preferredSource,
+      link: `https://www.bilibili.com/video/${bvid}?p=${pageNo}`,
+      bvid,
+      page: pageNo,
+      uploader: String(livePayload.uploader || '').trim(),
+      uploaderMid: normalizeUploaderMid(livePayload.uploaderMid)
+    };
+  });
+}
+
+async function fetchBiliViewPayload(rawBvInput) {
+  const inputBv = extractBvPreserveCase(rawBvInput) || extractBV(rawBvInput);
+  if (!inputBv) return null;
+  const now = Date.now();
+  const cached = bvLiveFallbackCache.get(inputBv);
+  if (cached && cached.expiresAt > now) {
+    return cached.payload;
+  }
+
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), BV_LIVE_FETCH_TIMEOUT_MS);
+  try {
+    const response = await fetch(`${BILI_VIEW_API}${encodeURIComponent(inputBv)}`, {
+      signal: controller.signal
+    });
+    if (!response.ok) return null;
+    const json = await response.json().catch(() => null);
+    if (!json || Number(json.code) !== 0 || !json.data) return null;
+    const payload = json.data;
+    const normalized = {
+      bvid: extractBvPreserveCase(payload.bvid) || inputBv,
+      uploader: String(payload.owner?.name || '').trim(),
+      uploaderMid: normalizeUploaderMid(payload.owner?.mid),
+      videoTitle: String(payload.title || '').trim(),
+      pages: Array.isArray(payload.pages) ? payload.pages : []
+    };
+    bvLiveFallbackCache.set(inputBv, {
+      payload: normalized,
+      expiresAt: now + BV_LIVE_CACHE_TTL_MS
+    });
+    return normalized;
+  } catch (_) {
+    return null;
+  } finally {
+    clearTimeout(timeout);
+  }
+}
+
 function getSongTitleSourceCount(songOrTitle) {
   const title = typeof songOrTitle === 'string'
     ? songOrTitle
@@ -773,51 +1059,72 @@ function buildStatsOverview(data) {
   };
 }
 
-function buildDupCheckResponse(mode, source, items) {
+async function buildDupCheckResponse(mode, source, items) {
   const results = [];
 
   if (mode === 'bv') {
-    items.forEach(item => {
+    const requestLiveCache = new Map();
+    for (const item of items) {
       const raw = String(item?.raw || '').trim();
-      const bv = extractBV(item?.bv || raw);
-      if (!bv) {
-        results.push({
-          isNotFound: true,
-          originalInput: raw,
-          dupCount: 0,
-          isDup: false,
-          dupList: [],
-          song: null
-        });
-        return;
+      const normalizedBv = extractBV(item?.bv || raw);
+      const preserveCaseBv = extractBvPreserveCase(raw) || extractBvPreserveCase(item?.bv || '');
+      if (!normalizedBv) {
+        results.push(buildBvNotFoundResult(raw));
+        continue;
       }
 
-      const matchedSongs = store.bvMap.get(bv) || [];
-      if (matchedSongs.length === 0) {
-        results.push({
-          isNotFound: true,
-          originalInput: raw,
-          dupCount: 0,
-          isDup: false,
-          dupList: [],
-          song: null
+      const matchedSongs = store.bvMap.get(normalizedBv) || [];
+      if (matchedSongs.length > 0) {
+        matchedSongs.forEach(song => {
+          const titleKey = normalizeString(song.title || '');
+          const dupList = filterCandidatesBySource(store.titleMap.get(titleKey)?.songs || [], source);
+          results.push({
+            isNotFound: false,
+            originalInput: raw,
+            song,
+            dupList,
+            dupCount: dupList.length,
+            isDup: dupList.length > 1
+          });
         });
-        return;
+        continue;
       }
 
-      matchedSongs.forEach(song => {
+      const liveCacheKey = preserveCaseBv || normalizedBv;
+      let livePayload = requestLiveCache.get(liveCacheKey);
+      if (livePayload === undefined) {
+        livePayload = await fetchBiliViewPayload(liveCacheKey);
+        requestLiveCache.set(liveCacheKey, livePayload || null);
+      }
+      if (!livePayload) {
+        results.push(buildBvNotFoundResult(raw));
+        continue;
+      }
+
+      const hintedSource = inferBvSourceByHints(normalizedBv, livePayload);
+      const liveSongs = buildLiveFallbackSongsFromPayload(livePayload, hintedSource);
+      if (liveSongs.length === 0) {
+        results.push(buildBvNotFoundResult(raw));
+        continue;
+      }
+
+      liveSongs.forEach(song => {
         const titleKey = normalizeString(song.title || '');
-        const dupList = filterCandidatesBySource(store.titleMap.get(titleKey)?.songs || [], source);
+        const dupList = titleKey
+          ? filterCandidatesBySource(store.titleMap.get(titleKey)?.songs || [], source)
+          : [];
+        const resolvedSource = song.source || pickSourceFromDupSongs(dupList);
+        const displaySong = resolvedSource ? { ...song, source: resolvedSource } : song;
         results.push({
           isNotFound: false,
           originalInput: raw,
-          song,
+          song: displaySong,
           dupList,
           dupCount: dupList.length,
           isDup: dupList.length > 1
         });
       });
-    });
+    }
   } else {
     items.forEach(item => {
       const inputTitle = String(item?.title || '').trim();
@@ -1690,7 +1997,7 @@ function readRequestBody(req) {
   });
 }
 
-function handleDupCheck(req, res, body) {
+async function handleDupCheck(req, res, body) {
   let payload;
   try {
     payload = body ? JSON.parse(body) : {};
@@ -1703,7 +2010,7 @@ function handleDupCheck(req, res, body) {
   const source = String(payload.source || 'all') || 'all';
   const items = Array.isArray(payload.items) ? payload.items : [];
   const startedAt = Date.now();
-  const result = buildDupCheckResponse(mode, source, items);
+  const result = await buildDupCheckResponse(mode, source, items);
 
   sendJson(res, 200, {
     ...result,
@@ -2148,7 +2455,7 @@ const server = http.createServer(async (req, res) => {
   if (reqUrl.pathname === '/api/dup-check' && req.method === 'POST') {
     try {
       const body = await readRequestBody(req);
-      handleDupCheck(req, res, body);
+      await handleDupCheck(req, res, body);
     } catch (error) {
       sendJson(res, 500, { error: error.message });
     }
