@@ -2076,9 +2076,16 @@
         ];
         const songRows = Array.from(document.querySelectorAll('#song-list .song-item'));
         songRows.forEach((row, idx) => {
-          const title = row.querySelector('.song-title')?.textContent || `歌曲 ${idx + 1}`;
+          const title = (row.querySelector('.song-title.title-copy-main')?.textContent || '').trim()
+            || (row.querySelector('.song-title')?.textContent || '').trim()
+            || `歌曲 ${idx + 1}`;
+          const artistRaw = (row.querySelector('.song-artist-inline')?.textContent || '').replace(/^歌手\s*/u, '').trim();
+          const artist = artistRaw || '未知歌手';
+          const sourceRaw = (row.querySelector('.song-source')?.textContent || '').replace(/^来源[:：]\s*/u, '').trim();
+          const source = sourceRaw || '未知来源';
+          const label = `${title} - ${artist} 【${source}】`;
           items.push({
-            label: `${idx + 1}. ${clipText(title)}`,
+            label: `${idx + 1}. ${clipText(label, 40)}`,
             target: row
           });
         });
