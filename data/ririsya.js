@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 4/19/2026, 2:38:31 PM
+// 生成时间: 4/19/2026, 4:26:34 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14779,6 +14779,46 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-04-17]终于飞向太空了！在直播前！怀着对宇宙的思念歌唱🚀 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qzdHBhEEr?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-04-19]最强创作歌手歌回接力演唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GedfB8Eo1?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27",
+  "collection": "【🐍歌切】[2026-04-19]最强创作歌手歌回接力演唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GedfB8Eo1?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "unravel",
+  "artist": "TK from 凛として時雨 (TK from Ling tosite sigure)",
+  "collection": "【🐍歌切】[2026-04-19]最强创作歌手歌回接力演唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GedfB8Eo1?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Departures ～あなたにおくるアイの歌～",
+  "artist": "EGOIST",
+  "collection": "【🐍歌切】[2026-04-19]最强创作歌手歌回接力演唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GedfB8Eo1?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "パラレルナイト",
+  "artist": "凛々咲",
+  "collection": "【🐍歌切】[2026-04-19]最强创作歌手歌回接力演唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GedfB8Eo1?p=5",
   "source": "ririsya.js"
 }
 );
