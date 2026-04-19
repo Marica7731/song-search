@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 4/19/2026, 9:02:46 PM
+// 生成时间: 4/19/2026, 9:40:55 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -30771,6 +30771,118 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-04-18]初見さん歓迎！華金だ～！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV158dsBNEqe?p=31",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春",
+  "collection": "【🍠🦍歌切】[2026-04-19]初見さん大歓迎！一緒に楽しもう！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T9oABAE9b?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "となりのトトロ",
+  "artist": "井上あずみ",
+  "collection": "【🍠🦍歌切】[2026-04-19]初見さん大歓迎！一緒に楽しもう！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T9oABAE9b?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "負けないで",
+  "artist": "ZARD",
+  "collection": "【🍠🦍歌切】[2026-04-19]初見さん大歓迎！一緒に楽しもう！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T9oABAE9b?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "COLORS",
+  "artist": "FLOW",
+  "collection": "【🍠🦍歌切】[2026-04-19]初見さん大歓迎！一緒に楽しもう！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T9oABAE9b?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "恋するフォーチュンクッキー",
+  "artist": "AKB48",
+  "collection": "【🍠🦍歌切】[2026-04-19]初見さん大歓迎！一緒に楽しもう！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T9oABAE9b?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハレ晴レユカイ",
+  "artist": "涼宮ハルヒ(平野綾), 長門有希(茅原実里), 朝比奈みくる(後藤邑子)",
+  "collection": "【🍠🦍歌切】[2026-04-19]初見さん大歓迎！一緒に楽しもう！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T9oABAE9b?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アルティメット☆MAGIC",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-04-19]初見さん大歓迎！一緒に楽しもう！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T9oABAE9b?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Spending",
+  "artist": "i Ris",
+  "collection": "【🍠🦍歌切】[2026-04-19]初見さん大歓迎！一緒に楽しもう！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T9oABAE9b?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Catch You Catch Me",
+  "artist": "グミ",
+  "collection": "【🍠🦍歌切】[2026-04-19]初見さん大歓迎！一緒に楽しもう！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T9oABAE9b?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Over the Top",
+  "artist": "きただにひろし",
+  "collection": "【🍠🦍歌切】[2026-04-19]初見さん大歓迎！一緒に楽しもう！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T9oABAE9b?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ヒトリゴト",
+  "artist": "ClariS",
+  "collection": "【🍠🦍歌切】[2026-04-19]初見さん大歓迎！一緒に楽しもう！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T9oABAE9b?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【🍠🦍歌切】[2026-04-19]初見さん大歓迎！一緒に楽しもう！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T9oABAE9b?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "プリズム",
+  "artist": "池田綾子",
+  "collection": "【🍠🦍歌切】[2026-04-19]初見さん大歓迎！一緒に楽しもう！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T9oABAE9b?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "YUME日和",
+  "artist": "島谷ひとみ",
+  "collection": "【🍠🦍歌切】[2026-04-19]初見さん大歓迎！一緒に楽しもう！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T9oABAE9b?p=14",
   "source": "yoshika.js"
 }
 );
