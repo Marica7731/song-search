@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 4/19/2026, 11:31:47 AM
+// 生成时间: 4/19/2026, 12:41:17 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7286,7 +7286,7 @@ window.SONG_DATA.push(
   "source": "naraetan.js"
 },
     {
-  "title": "calc",
+  "title": "Calc.",
   "artist": "ジミーサムP",
   "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
