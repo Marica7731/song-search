@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 4/19/2026, 10:18:06 PM
+// 生成时间: 4/19/2026, 11:10:14 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -11339,6 +11339,358 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-04-20 狐宵いなり - Inari Koyoi - o_vg4tJcT_4 深夜のしっとり弾き語り🎸ch登録6000人耐久歌枠！！🎤✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PwoPBoEuy?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "キャラクター",
+  "artist": "緑黄色社会",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "丸の内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "スパークル",
+  "artist": "幾田りら",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "イエスタデイ",
+  "artist": "Official髭男dism",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "蝶々結び",
+  "artist": "Aimer",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "I wanna see you",
+  "artist": "阿部真央",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "Sincerely",
+  "artist": "TRUE",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "徒桜",
+  "artist": "蓮花",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "キミソラキセキ",
+  "artist": "EGOIST",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "Fire◎Flower",
+  "artist": "halyosy feat. 鏡音レン",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "点描の唄",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "ケセラセラ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "ダンスホール",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "はいよろこんで",
+  "artist": "こっちのけんと",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "Everything",
+  "artist": "MISIA",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "美波",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "曲名はまだないです",
+  "artist": "Aogumo",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "Pray",
+  "artist": "Tommy heavenly6",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "明日への手紙",
+  "artist": "手嶌葵",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "フィナーレ。",
+  "artist": "eill",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=27",
+  "source": "others.js"
+},
+    {
+  "title": "Departures ～あなたにおくるアイの歌～",
+  "artist": "EGOIST",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=28",
+  "source": "others.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat.GUMI",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=29",
+  "source": "others.js"
+},
+    {
+  "title": "ハレ晴れユカイ",
+  "artist": "涼宮ハルヒ(平野綾)×長門有希(茅原実里)×朝比奈みくる(後藤邑子)",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=30",
+  "source": "others.js"
+},
+    {
+  "title": "Don't say \"lazy\"",
+  "artist": "桜高軽音部",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=31",
+  "source": "others.js"
+},
+    {
+  "title": "キセキ",
+  "artist": "GReeeeN",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=32",
+  "source": "others.js"
+},
+    {
+  "title": "GO!!!",
+  "artist": "FLOW",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=33",
+  "source": "others.js"
+},
+    {
+  "title": "ハルモニア",
+  "artist": "RYTHEM",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=34",
+  "source": "others.js"
+},
+    {
+  "title": "うたかた花火",
+  "artist": "supercell",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=35",
+  "source": "others.js"
+},
+    {
+  "title": "my sweet heart",
+  "artist": "小松里賀",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=36",
+  "source": "others.js"
+},
+    {
+  "title": "新時代",
+  "artist": "Ado",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=37",
+  "source": "others.js"
+},
+    {
+  "title": "炎",
+  "artist": "LiSA",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=38",
+  "source": "others.js"
+},
+    {
+  "title": "逆光",
+  "artist": "Ado",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=39",
+  "source": "others.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=40",
+  "source": "others.js"
+},
+    {
+  "title": "お願いマッスル",
+  "artist": "紗倉ひびき(ファイルーズあい)&街雄鳴造(石川界人)",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=41",
+  "source": "others.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=42",
+  "source": "others.js"
+},
+    {
+  "title": "散歩の邪魔",
+  "artist": "いよわ",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=43",
+  "source": "others.js"
+},
+    {
+  "title": "咲かせや咲かせ",
+  "artist": "EGOIST",
+  "collection": "歌切 2026-04-19 狐宵いなり - Inari Koyoi - L1JwkePGrx0 一曲だけでも聴いていって～！🎤✨ch登録6000人耐久歌枠！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VroAB3EBy?p=44",
   "source": "others.js"
 },
     {
