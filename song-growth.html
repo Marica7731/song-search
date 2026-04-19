@@ -151,6 +151,16 @@
       align-items: center;
       gap: 6px;
     }
+    .legend-line {
+      width: 16px;
+      height: 0;
+      border-top: 3px solid currentColor;
+      display: inline-block;
+      border-radius: 999px;
+    }
+    .legend-line.dashed {
+      border-top-style: dashed;
+    }
     .legend-dot {
       width: 10px;
       height: 10px;
@@ -177,6 +187,64 @@
       display: block;
       margin-bottom: 4px;
       font-size: 13px;
+    }
+    .analysis-panel {
+      margin-top: 14px;
+      border: 1px solid #e7edf3;
+      border-radius: 12px;
+      background: #f8fafc;
+      padding: 14px;
+    }
+    .analysis-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      flex-wrap: wrap;
+      align-items: baseline;
+      margin-bottom: 10px;
+    }
+    .analysis-head h3 {
+      margin: 0;
+      font-size: 16px;
+      color: #1f2328;
+    }
+    .analysis-note {
+      font-size: 12px;
+      color: #6b7280;
+    }
+    .analysis-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 10px;
+    }
+    .analysis-card {
+      background: #fff;
+      border: 1px solid #e2e8f0;
+      border-radius: 10px;
+      padding: 12px;
+    }
+    .analysis-card .label {
+      font-size: 12px;
+      color: #64748b;
+      margin-bottom: 6px;
+    }
+    .analysis-card .value {
+      font-size: 18px;
+      font-weight: 700;
+      line-height: 1.25;
+      color: #111827;
+    }
+    .analysis-card .sub {
+      margin-top: 6px;
+      font-size: 12px;
+      color: #64748b;
+      line-height: 1.5;
+    }
+    .analysis-text {
+      margin-top: 10px;
+      font-size: 13px;
+      line-height: 1.7;
+      color: #334155;
     }
     .table-wrap {
       margin-top: 18px;
@@ -280,7 +348,7 @@
     </div>
     <div class="hint-box">
       仅按 <code>发布日期</code> 统计并合并展示两条维度：<b>播放量</b> 与 <b>曲目</b>。支持切换查看
-      <b>累计总量</b> 与 <b>当日总量</b>。
+      <b>累计总量</b> 与 <b>当日总量</b>，也支持切到 <b>单指标曲线</b> 看对应的数据分析。
     </div>
 
     <div class="summary-board">
@@ -309,6 +377,12 @@
         <option value="total" selected>累计总量（播放 + 曲目）</option>
         <option value="delta">当日总量（播放 + 曲目）</option>
       </select>
+      <select class="metric-select" id="metricFocusSelect">
+        <option value="all" selected>总览对比（播放 + 曲目 + 商值）</option>
+        <option value="view">只看播放量</option>
+        <option value="song">只看曲目</option>
+        <option value="ratio">只看商值（播放/曲目）</option>
+      </select>
       <button class="range-btn active" data-range="30">近30天</button>
       <button class="range-btn" data-range="90">近90天</button>
       <button class="range-btn" data-range="180">近180天</button>
@@ -320,12 +394,21 @@
       <div class="chart-tooltip" id="chartTooltip"></div>
       <div class="chart-foot">
         <span id="chartRangeText"></span>
-        <span class="legend">
+        <span class="legend" id="chartLegend">
           <span class="legend-item"><span class="legend-dot" style="background:#d97706"></span>播放量</span>
           <span class="legend-item"><span class="legend-dot" style="background:#1a8f4c"></span>曲目</span>
           <span class="legend-item"><span class="legend-dot" style="background:#7c3aed"></span>商值(播放/曲目)</span>
         </span>
       </div>
+    </div>
+
+    <div class="analysis-panel">
+      <div class="analysis-head">
+        <h3 id="analysisTitle">总览分析</h3>
+        <div class="analysis-note" id="analysisNote">切到单指标后，这里会展示对应曲线的趋势分析。</div>
+      </div>
+      <div class="analysis-grid" id="analysisCards"></div>
+      <div class="analysis-text" id="analysisText"></div>
     </div>
 
     <div class="table-wrap">
@@ -361,17 +444,24 @@
     const chartCanvas = document.getElementById('growthChart');
     const chartTooltip = document.getElementById('chartTooltip');
     const chartRangeText = document.getElementById('chartRangeText');
+    const chartLegend = document.getElementById('chartLegend');
     const metricGroupSelect = document.getElementById('metricGroupSelect');
+    const metricFocusSelect = document.getElementById('metricFocusSelect');
     const tableBody = document.getElementById('growthTableBody');
     const pagerInfo = document.getElementById('pagerInfo');
     const prevPageBtn = document.getElementById('prevPageBtn');
     const nextPageBtn = document.getElementById('nextPageBtn');
     const pageInput = document.getElementById('pageInput');
     const goPageBtn = document.getElementById('goPageBtn');
+    const analysisTitle = document.getElementById('analysisTitle');
+    const analysisNote = document.getElementById('analysisNote');
+    const analysisCards = document.getElementById('analysisCards');
+    const analysisText = document.getElementById('analysisText');
 
     const growthData = { rows: [] };
     let currentRange = '30';
     let currentMetricGroup = 'total';
+    let currentMetricFocus = 'all';
     let currentPage = 1;
     const pageSize = 30;
     let chartState = null;
@@ -396,6 +486,23 @@
       const ratio = Number(value);
       if (!Number.isFinite(ratio)) return '-';
       return `${ratio.toFixed(2)} 次/曲`;
+    }
+
+    function metricValueText(metricKey, value) {
+      if (metricKey === 'ratio') return ratioText(value);
+      const num = Number(value);
+      if (!Number.isFinite(num)) return '-';
+      return numberText(num);
+    }
+
+    function metricDeltaText(metricKey, value) {
+      const num = Number(value);
+      if (!Number.isFinite(num)) return '-';
+      const prefix = num > 0 ? '+' : '';
+      if (metricKey === 'ratio') {
+        return `${prefix}${num.toFixed(2)} 次/曲`;
+      }
+      return `${prefix}${numberText(num)}`;
     }
 
     function normalizeCombinedRows(rows) {
@@ -474,6 +581,41 @@
       return { view: '累计总播放', song: '累计总曲目', group: '累计总量' };
     }
 
+    function getFocusedMetricMeta() {
+      if (currentMetricFocus === 'all') return null;
+      const isDelta = currentMetricGroup === 'delta';
+      const configs = {
+        view: {
+          key: 'view',
+          color: '#d97706',
+          label: isDelta ? '当日播放量' : '累计总播放',
+          getValue(row) {
+            return parseNumber(isDelta ? row?.viewDelta : row?.viewTotal);
+          }
+        },
+        song: {
+          key: 'song',
+          color: '#1a8f4c',
+          label: isDelta ? '当日曲目增量' : '累计总曲目',
+          getValue(row) {
+            return parseNumber(isDelta ? row?.songDelta : row?.songTotal);
+          }
+        },
+        ratio: {
+          key: 'ratio',
+          color: '#7c3aed',
+          dashed: true,
+          label: isDelta ? '当日商值（播放/曲目）' : '累计商值（播放/曲目）',
+          getValue(row) {
+            return isDelta
+              ? ratioValue(row?.viewDelta, row?.songDelta)
+              : ratioValue(row?.viewTotal, row?.songTotal);
+          }
+        }
+      };
+      return configs[currentMetricFocus] || null;
+    }
+
     function getSeriesValues(row) {
       if (currentMetricGroup === 'delta') {
         return {
@@ -505,10 +647,60 @@
       document.getElementById('kpiDays').textContent = String(rows.length || 0);
     }
 
-    function buildAxisRange(values) {
-      const max = Math.max(0, ...values);
-      const paddedMax = max > 0 ? max * 1.12 : 1;
-      return { min: 0, max: paddedMax };
+    function average(values) {
+      const list = (Array.isArray(values) ? values : [])
+        .map(value => Number(value))
+        .filter(value => Number.isFinite(value));
+      if (!list.length) return null;
+      const total = list.reduce((sum, value) => sum + value, 0);
+      return total / list.length;
+    }
+
+    function buildAxisRange(values, options = {}) {
+      const validValues = (Array.isArray(values) ? values : [])
+        .map(value => Number(value))
+        .filter(value => Number.isFinite(value));
+      if (!validValues.length) {
+        return { min: 0, max: 1 };
+      }
+
+      let min = Math.min(...validValues);
+      let max = Math.max(...validValues);
+
+      if (min === max) {
+        const base = Math.abs(max) > 0 ? Math.abs(max) : 1;
+        const pad = base * 0.12;
+        min -= pad;
+        max += pad;
+      } else {
+        const span = max - min;
+        const padRatio = Number(options?.padRatio);
+        const pad = span * (Number.isFinite(padRatio) ? padRatio : 0.12);
+        min -= pad;
+        max += pad;
+      }
+
+      if (!options?.allowNegative) {
+        min = Math.max(0, min);
+      }
+      if (options?.lockMinZero) {
+        min = 0;
+      }
+      if (max <= min) {
+        max = min + 1;
+      }
+
+      return { min, max };
+    }
+
+    function renderLegend(items) {
+      chartLegend.innerHTML = (Array.isArray(items) ? items : []).map(item => {
+        const dashedClass = item?.dashed ? ' dashed' : '';
+        const style = `color:${item?.color || '#64748b'}`;
+        return `<span class="legend-item" style="${style}">
+          <span class="legend-line${dashedClass}"></span>${item?.label || ''}
+        </span>`;
+      }).join('');
     }
 
     function drawSeries(ctx, rows, xAt, yAt, values, color, options = {}) {
@@ -579,40 +771,87 @@
       }
 
       const labels = getMetricLabels();
+      const focusedMetric = getFocusedMetricMeta();
       const viewValues = rows.map(row => getSeriesValues(row).view);
       const songValues = rows.map(row => getSeriesValues(row).song);
       const ratioValues = rows.map(row => getSeriesValues(row).ratio);
-      const viewAxis = buildAxisRange(viewValues);
-      const songAxis = buildAxisRange(songValues);
-      const ratioAxis = buildAxisRange(ratioValues.filter(value => Number.isFinite(Number(value))));
-
       const xAt = index => pad.left + (rows.length === 1 ? cw / 2 : (cw * index) / (rows.length - 1));
-      const yViewAt = value => pad.top + ((viewAxis.max - value) / (viewAxis.max - viewAxis.min)) * ch;
-      const ySongAt = value => pad.top + ((songAxis.max - value) / (songAxis.max - songAxis.min)) * ch;
-      const yRatioAt = value => pad.top + ((ratioAxis.max - value) / (ratioAxis.max - ratioAxis.min)) * ch;
 
       ctx.strokeStyle = '#edf2f7';
       ctx.lineWidth = 1;
       ctx.fillStyle = '#6c757d';
       ctx.font = '12px sans-serif';
-      for (let i = 0; i <= 5; i += 1) {
-        const y = pad.top + (ch / 5) * i;
-        ctx.beginPath();
-        ctx.moveTo(pad.left, y);
-        ctx.lineTo(width - pad.right, y);
-        ctx.stroke();
+      if (focusedMetric) {
+        const metricValues = rows.map(row => focusedMetric.getValue(row));
+        const validValues = metricValues.filter(value => Number.isFinite(Number(value)));
+        if (!validValues.length) {
+          renderLegend([{ label: focusedMetric.label, color: focusedMetric.color, dashed: focusedMetric.dashed }]);
+          chartRangeText.textContent = `${focusedMetric.label}：当前区间无有效点位`;
+          chartState = { rows, pad, width, height, xAt };
+          ctx.fillStyle = '#6c757d';
+          ctx.font = '14px sans-serif';
+          ctx.fillText('当前区间无有效点位', 16, 30);
+          return;
+        }
+        const metricAxis = buildAxisRange(validValues, { padRatio: 0.18, lockMinZero: false });
+        const yMetricAt = value => pad.top + ((metricAxis.max - value) / (metricAxis.max - metricAxis.min)) * ch;
 
-        const viewValue = viewAxis.max - ((viewAxis.max - viewAxis.min) * i) / 5;
-        const songValue = songAxis.max - ((songAxis.max - songAxis.min) * i) / 5;
-        ctx.textAlign = 'left';
-        ctx.fillText(numberText(Math.round(viewValue)), 8, y + 4);
-        ctx.textAlign = 'right';
-        ctx.fillText(numberText(Math.round(songValue)), width - 8, y + 4);
+        for (let i = 0; i <= 5; i += 1) {
+          const y = pad.top + (ch / 5) * i;
+          ctx.beginPath();
+          ctx.moveTo(pad.left, y);
+          ctx.lineTo(width - pad.right, y);
+          ctx.stroke();
+
+          const axisValue = metricAxis.max - ((metricAxis.max - metricAxis.min) * i) / 5;
+          ctx.textAlign = 'left';
+          ctx.fillText(metricValueText(focusedMetric.key, focusedMetric.key === 'ratio' ? axisValue : Math.round(axisValue)), 8, y + 4);
+        }
+
+        drawSeries(ctx, rows, xAt, yMetricAt, metricValues, focusedMetric.color, { dashed: focusedMetric.dashed });
+        renderLegend([{ label: focusedMetric.label, color: focusedMetric.color, dashed: focusedMetric.dashed }]);
+
+        const metricMin = Math.min(...validValues);
+        const metricMax = Math.max(...validValues);
+        chartRangeText.textContent = `${focusedMetric.label}：${rows[0].date} 至 ${rows[rows.length - 1].date}（${rows.length} 天） | 区间 ${metricValueText(focusedMetric.key, metricMin)} ~ ${metricValueText(focusedMetric.key, metricMax)} | 纵轴已按当前区间自适应`;
+      } else {
+        const viewAxis = buildAxisRange(viewValues, { lockMinZero: true });
+        const songAxis = buildAxisRange(songValues, { lockMinZero: true });
+        const ratioAxis = buildAxisRange(ratioValues.filter(value => Number.isFinite(Number(value))), { lockMinZero: true });
+        const yViewAt = value => pad.top + ((viewAxis.max - value) / (viewAxis.max - viewAxis.min)) * ch;
+        const ySongAt = value => pad.top + ((songAxis.max - value) / (songAxis.max - songAxis.min)) * ch;
+        const yRatioAt = value => pad.top + ((ratioAxis.max - value) / (ratioAxis.max - ratioAxis.min)) * ch;
+
+        for (let i = 0; i <= 5; i += 1) {
+          const y = pad.top + (ch / 5) * i;
+          ctx.beginPath();
+          ctx.moveTo(pad.left, y);
+          ctx.lineTo(width - pad.right, y);
+          ctx.stroke();
+
+          const viewValue = viewAxis.max - ((viewAxis.max - viewAxis.min) * i) / 5;
+          const songValue = songAxis.max - ((songAxis.max - songAxis.min) * i) / 5;
+          ctx.textAlign = 'left';
+          ctx.fillText(numberText(Math.round(viewValue)), 8, y + 4);
+          ctx.textAlign = 'right';
+          ctx.fillText(numberText(Math.round(songValue)), width - 8, y + 4);
+        }
+
+        drawSeries(ctx, rows, xAt, yViewAt, viewValues, '#d97706');
+        drawSeries(ctx, rows, xAt, ySongAt, songValues, '#1a8f4c');
+        drawSeries(ctx, rows, xAt, yRatioAt, ratioValues, '#7c3aed', { dashed: true });
+        renderLegend([
+          { label: labels.view, color: '#d97706' },
+          { label: labels.song, color: '#1a8f4c' },
+          { label: `${labels.group}商值`, color: '#7c3aed', dashed: true }
+        ]);
+
+        const ratioValidValues = ratioValues.filter(value => Number.isFinite(Number(value)));
+        const ratioRangeText = ratioValidValues.length
+          ? `商值区间 ${ratioText(Math.min(...ratioValidValues))} ~ ${ratioText(Math.max(...ratioValidValues))}`
+          : '商值区间 -';
+        chartRangeText.textContent = `${labels.group}：${rows[0].date} 至 ${rows[rows.length - 1].date}（${rows.length} 天） | ${ratioRangeText}`;
       }
-
-      drawSeries(ctx, rows, xAt, yViewAt, viewValues, '#d97706');
-      drawSeries(ctx, rows, xAt, ySongAt, songValues, '#1a8f4c');
-      drawSeries(ctx, rows, xAt, yRatioAt, ratioValues, '#7c3aed', { dashed: true });
 
       ctx.fillStyle = '#6c757d';
       ctx.font = '12px sans-serif';
@@ -620,16 +859,22 @@
       ctx.fillText(rows[0].date, pad.left, height - 12);
       ctx.textAlign = 'right';
       ctx.fillText(rows[rows.length - 1].date, width - pad.right, height - 12);
-
-      const ratioValidValues = ratioValues.filter(value => Number.isFinite(Number(value)));
-      const ratioRangeText = ratioValidValues.length
-        ? `商值区间 ${ratioText(Math.min(...ratioValidValues))} ~ ${ratioText(Math.max(...ratioValidValues))}`
-        : '商值区间 -';
-      chartRangeText.textContent = `${labels.group}：${rows[0].date} 至 ${rows[rows.length - 1].date}（${rows.length} 天） | ${ratioRangeText}`;
-      chartState = { rows, pad, width, height, xAt, yViewAt, ySongAt };
+      chartState = { rows, pad, width, height, xAt };
     }
 
     function buildTooltipHtml(row) {
+      const focusedMetric = getFocusedMetricMeta();
+      if (focusedMetric) {
+        const currentValue = focusedMetric.getValue(row);
+        return [
+          `<strong>${row.date}</strong>`,
+          `<div>${focusedMetric.label}：${metricValueText(focusedMetric.key, currentValue)}</div>`,
+          `<div>累计总播放：${numberText(row.viewTotal)}</div>`,
+          `<div>累计总曲目：${numberText(row.songTotal)}</div>`,
+          `<div>当日播放量：${numberText(row.viewDelta)}</div>`,
+          `<div>当日曲目增量：${numberText(row.songDelta)}</div>`
+        ].join('');
+      }
       const labels = getMetricLabels();
       const current = getSeriesValues(row);
       return [
@@ -663,6 +908,127 @@
       if (top + tipRect.height > wrapRect.height - 8) top = wrapRect.height - tipRect.height - 8;
       chartTooltip.style.left = `${left}px`;
       chartTooltip.style.top = `${top}px`;
+    }
+
+    function buildAnalysisCards(items) {
+      analysisCards.innerHTML = (Array.isArray(items) ? items : []).map(item => {
+        return `<div class="analysis-card">
+          <div class="label">${item.label || ''}</div>
+          <div class="value">${item.value || '-'}</div>
+          <div class="sub">${item.sub || ''}</div>
+        </div>`;
+      }).join('');
+    }
+
+    function computeMetricAnalysis(rows, metricMeta) {
+      const series = (Array.isArray(rows) ? rows : [])
+        .map(row => ({ row, value: Number(metricMeta.getValue(row)) }))
+        .filter(item => Number.isFinite(item.value));
+      if (!series.length) return null;
+
+      const latest = series[series.length - 1];
+      const recent7 = series.slice(-7);
+      const prev7 = series.slice(-14, -7);
+      const recent30 = series.slice(-30);
+      const peak = recent30.reduce((best, item) => (!best || item.value > best.value ? item : best), null);
+      const low = recent30.reduce((best, item) => (!best || item.value < best.value ? item : best), null);
+      const comparePoint = series.length > 7 ? series[series.length - 8] : null;
+      const recent7Avg = average(recent7.map(item => item.value));
+      const prev7Avg = average(prev7.map(item => item.value));
+      const delta7 = comparePoint ? latest.value - comparePoint.value : null;
+
+      let trendText = '样本不足，暂不判断趋势';
+      if (Number.isFinite(recent7Avg) && Number.isFinite(prev7Avg)) {
+        const ratio = prev7Avg > 0 ? (recent7Avg - prev7Avg) / prev7Avg : (recent7Avg - prev7Avg);
+        if (Math.abs(ratio) < 0.05) {
+          trendText = '近 7 天与前 7 天基本持平';
+        } else if (ratio > 0) {
+          trendText = '近 7 天均值高于前 7 天，趋势上行';
+        } else {
+          trendText = '近 7 天均值低于前 7 天，趋势回落';
+        }
+      }
+
+      return {
+        latest,
+        recent7Avg,
+        prev7Avg,
+        delta7,
+        peak,
+        low,
+        trendText
+      };
+    }
+
+    function renderAnalysis() {
+      const rows = getRangeRows();
+      if (!rows.length) {
+        analysisTitle.textContent = '总览分析';
+        analysisNote.textContent = '暂无数据';
+        buildAnalysisCards([]);
+        analysisText.textContent = '暂无可分析的数据。';
+        return;
+      }
+
+      const focusedMetric = getFocusedMetricMeta();
+      if (!focusedMetric) {
+        const last = rows[rows.length - 1];
+        const current = getSeriesValues(last);
+        analysisTitle.textContent = '总览分析';
+        analysisNote.textContent = '当前是三指标对比模式。切到“只看某个数据”后，这里会显示该指标的趋势解读。';
+        buildAnalysisCards([
+          { label: getMetricLabels().view, value: metricValueText('view', current.view), sub: `最新日期 ${last.date}` },
+          { label: getMetricLabels().song, value: metricValueText('song', current.song), sub: `区间长度 ${rows.length} 天` },
+          { label: `${getMetricLabels().group}商值`, value: metricValueText('ratio', current.ratio), sub: `范围 ${rows[0].date} ~ ${rows[rows.length - 1].date}` }
+        ]);
+        analysisText.textContent = `当前区间为 ${rows[0].date} 至 ${rows[rows.length - 1].date}。如果你只想看某一个指标的曲线和解释，直接把上面的下拉切到播放量、曲目或商值即可。`;
+        return;
+      }
+
+      const analysis = computeMetricAnalysis(rows, focusedMetric);
+      if (!analysis) {
+        analysisTitle.textContent = `${focusedMetric.label}分析`;
+        analysisNote.textContent = '暂无有效样本';
+        buildAnalysisCards([]);
+        analysisText.textContent = '当前区间没有足够的有效点位，无法生成分析。';
+        return;
+      }
+
+      analysisTitle.textContent = `${focusedMetric.label}分析`;
+      analysisNote.textContent = `分析范围：${rows[0].date} 至 ${rows[rows.length - 1].date}（${rows.length} 天）`;
+      buildAnalysisCards([
+        {
+          label: '最新值',
+          value: metricValueText(focusedMetric.key, analysis.latest.value),
+          sub: `统计日 ${analysis.latest.row.date}`
+        },
+        {
+          label: '近 7 天均值',
+          value: metricValueText(focusedMetric.key, analysis.recent7Avg),
+          sub: Number.isFinite(analysis.prev7Avg) ? `前 7 天均值 ${metricValueText(focusedMetric.key, analysis.prev7Avg)}` : '前 7 天样本不足'
+        },
+        {
+          label: '较 7 天前变化',
+          value: metricDeltaText(focusedMetric.key, analysis.delta7),
+          sub: analysis.delta7 == null ? '至少需要 8 个样本点' : '按同一指标直接比较'
+        },
+        {
+          label: '近 30 天峰值',
+          value: metricValueText(focusedMetric.key, analysis.peak?.value),
+          sub: analysis.peak ? analysis.peak.row.date : '无数据'
+        },
+        {
+          label: '近 30 天低点',
+          value: metricValueText(focusedMetric.key, analysis.low?.value),
+          sub: analysis.low ? analysis.low.row.date : '无数据'
+        },
+        {
+          label: '趋势判断',
+          value: analysis.trendText,
+          sub: '按近 7 天与前 7 天均值比较'
+        }
+      ]);
+      analysisText.textContent = `当前区间内，${focusedMetric.label}最新值为 ${metricValueText(focusedMetric.key, analysis.latest.value)}；${analysis.delta7 == null ? '由于样本不足，暂时无法计算 7 天前对比。' : `相较 7 天前变化 ${metricDeltaText(focusedMetric.key, analysis.delta7)}。`} ${analysis.trendText}。`;
     }
 
     function renderTable() {
@@ -704,6 +1070,7 @@
       currentPage = 1;
       updateSummary();
       drawChart();
+      renderAnalysis();
       renderTable();
     }
 
@@ -714,12 +1081,20 @@
           btn.classList.add('active');
           currentRange = btn.dataset.range;
           drawChart();
+          renderAnalysis();
         });
       });
 
       metricGroupSelect.addEventListener('change', () => {
         currentMetricGroup = metricGroupSelect.value;
         drawChart();
+        renderAnalysis();
+      });
+
+      metricFocusSelect.addEventListener('change', () => {
+        currentMetricFocus = metricFocusSelect.value;
+        drawChart();
+        renderAnalysis();
       });
 
       prevPageBtn.addEventListener('click', () => goToPage(currentPage - 1));
@@ -793,24 +1168,6 @@
     }
 
     initPage();
-  </script>
-  <script src="/page-directory-widget.js?v=2026041905"></script>
-  <script>
-    document.addEventListener('DOMContentLoaded', () => {
-      if (typeof window.createPageDirectory !== 'function') return;
-      window.createPageDirectory({
-        title: '日报目录',
-        items: [
-          { label: '口径说明', selector: '.hint-box' },
-          { label: '累计总量', selector: '.summary-board .summary-panel:nth-child(1)' },
-          { label: '当日总量', selector: '.summary-board .summary-panel:nth-child(2)' },
-          { label: '图表参数', selector: '.controls' },
-          { label: '趋势图', selector: '.chart-wrap' },
-          { label: '数据表', selector: '.table-wrap' },
-          { label: '分页', selector: '.pager' }
-        ]
-      });
-    });
   </script>
   <script src="/last-run-badge.js"></script>
 </body>
