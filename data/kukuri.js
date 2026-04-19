@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 4/19/2026, 4:45:57 AM
+// 生成时间: 4/19/2026, 6:27:20 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1726,7 +1726,7 @@ window.SONG_DATA.push(
   "source": "kukuri.js"
 },
     {
-  "title": "vivi",
+  "title": "がらくた",
   "artist": "米津玄師",
   "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
@@ -1734,7 +1734,7 @@ window.SONG_DATA.push(
   "source": "kukuri.js"
 },
     {
-  "title": "がらくた",
+  "title": "Pale Blue",
   "artist": "米津玄師",
   "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
@@ -1742,7 +1742,7 @@ window.SONG_DATA.push(
   "source": "kukuri.js"
 },
     {
-  "title": "Pale Blue",
+  "title": "海の幽霊",
   "artist": "米津玄師",
   "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
@@ -1750,7 +1750,7 @@ window.SONG_DATA.push(
   "source": "kukuri.js"
 },
     {
-  "title": "海の幽霊",
+  "title": "1991",
   "artist": "米津玄師",
   "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
@@ -1758,7 +1758,7 @@ window.SONG_DATA.push(
   "source": "kukuri.js"
 },
     {
-  "title": "1991",
+  "title": "Flamingo",
   "artist": "米津玄師",
   "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
@@ -1766,7 +1766,7 @@ window.SONG_DATA.push(
   "source": "kukuri.js"
 },
     {
-  "title": "Flamingo",
+  "title": "死神",
   "artist": "米津玄師",
   "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
@@ -1774,7 +1774,7 @@ window.SONG_DATA.push(
   "source": "kukuri.js"
 },
     {
-  "title": "春雷",
+  "title": "カムパネルラ",
   "artist": "米津玄師",
   "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
@@ -1782,27 +1782,11 @@ window.SONG_DATA.push(
   "source": "kukuri.js"
 },
     {
-  "title": "死神",
-  "artist": "米津玄師",
-  "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=8",
-  "source": "kukuri.js"
-},
-    {
-  "title": "カムパネルラ",
-  "artist": "米津玄師",
-  "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=9",
-  "source": "kukuri.js"
-},
-    {
   "title": "夏夜のマジック",
   "artist": "indigo la End",
   "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=10",
+  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=8",
   "source": "kukuri.js"
 },
     {
@@ -1810,7 +1794,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=11",
+  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=9",
   "source": "kukuri.js"
 },
     {
@@ -1818,7 +1802,7 @@ window.SONG_DATA.push(
   "artist": "クリープハイプ",
   "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=12",
+  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=10",
   "source": "kukuri.js"
 },
     {
@@ -1826,7 +1810,7 @@ window.SONG_DATA.push(
   "artist": "クリープハイプ",
   "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=13",
+  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=11",
   "source": "kukuri.js"
 },
     {
@@ -1834,7 +1818,7 @@ window.SONG_DATA.push(
   "artist": "フジファブリック",
   "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=14",
+  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=12",
   "source": "kukuri.js"
 },
     {
@@ -1842,7 +1826,7 @@ window.SONG_DATA.push(
   "artist": "幾田りら",
   "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=15",
+  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=13",
   "source": "kukuri.js"
 },
     {
@@ -1850,7 +1834,7 @@ window.SONG_DATA.push(
   "artist": "KOKIA",
   "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=16",
+  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=14",
   "source": "kukuri.js"
 },
     {
@@ -1858,7 +1842,7 @@ window.SONG_DATA.push(
   "artist": "傘村トータ feat. IA・Fukase",
   "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=17",
+  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=15",
   "source": "kukuri.js"
 },
     {
@@ -1866,7 +1850,7 @@ window.SONG_DATA.push(
   "artist": "あたらよ",
   "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=18",
+  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=16",
   "source": "kukuri.js"
 },
     {
@@ -1874,7 +1858,7 @@ window.SONG_DATA.push(
   "artist": "こんにちは谷田さん feat. 初音ミク",
   "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=19",
+  "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=17",
   "source": "kukuri.js"
 }
 );
