@@ -1,6 +1,6 @@
 // ロマニ - 歌单数据 (多合集汇总)
 // 来源: BV1KHXxBUErU, BV1iHQXBzEgU
-// 生成时间: 4/19/2026, 8:14:38 PM
+// 生成时间: 4/19/2026, 9:07:54 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1003,6 +1003,102 @@ window.SONG_DATA.push(
   "collection": "【ロマニ🎸弾き語り歌切】[2026-04-12]4月12日 星期日 惯例歌回——✦喜欢安静的夜晚🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pPQxBTEpH?p=12",
+  "source": "romany.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-19]周日歌回！✦一起悠闲听歌弹吉他🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xgocB9EBA?p=1",
+  "source": "romany.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-19]周日歌回！✦一起悠闲听歌弹吉他🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xgocB9EBA?p=2",
+  "source": "romany.js"
+},
+    {
+  "title": "Sunday n\"AI\"ght",
+  "artist": "ロマニードットアイオー with BT",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-19]周日歌回！✦一起悠闲听歌弹吉他🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xgocB9EBA?p=3",
+  "source": "romany.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-19]周日歌回！✦一起悠闲听歌弹吉他🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xgocB9EBA?p=4",
+  "source": "romany.js"
+},
+    {
+  "title": "月光花",
+  "artist": "Janne Da Arc",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-19]周日歌回！✦一起悠闲听歌弹吉他🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xgocB9EBA?p=5",
+  "source": "romany.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-19]周日歌回！✦一起悠闲听歌弹吉他🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xgocB9EBA?p=6",
+  "source": "romany.js"
+},
+    {
+  "title": "ダレカ",
+  "artist": "ロマニードットアイオー",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-19]周日歌回！✦一起悠闲听歌弹吉他🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xgocB9EBA?p=7",
+  "source": "romany.js"
+},
+    {
+  "title": "レイメイ",
+  "artist": "酸欠少女さユり×MY FIRST STORY",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-19]周日歌回！✦一起悠闲听歌弹吉他🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xgocB9EBA?p=8",
+  "source": "romany.js"
+},
+    {
+  "title": "平行線",
+  "artist": "さユり",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-19]周日歌回！✦一起悠闲听歌弹吉他🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xgocB9EBA?p=9",
+  "source": "romany.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-19]周日歌回！✦一起悠闲听歌弹吉他🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xgocB9EBA?p=10",
+  "source": "romany.js"
+},
+    {
+  "title": "糸",
+  "artist": "中島みゆき",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-19]周日歌回！✦一起悠闲听歌弹吉他🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xgocB9EBA?p=11",
+  "source": "romany.js"
+},
+    {
+  "title": "イキナクチャ",
+  "artist": "ロマニードットアイオー",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-19]周日歌回！✦一起悠闲听歌弹吉他🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xgocB9EBA?p=12",
   "source": "romany.js"
 }
 );
