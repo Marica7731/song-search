@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 4/19/2026, 1:47:21 AM
+// 生成时间: 4/19/2026, 4:46:41 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7259,6 +7259,142 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-04-08]来唱会儿卡拉OK吧🎤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RFDnB6EQ8?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "orion",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oBd9BHE7R?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "1991",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oBd9BHE7R?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "相思相愛",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oBd9BHE7R?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "calc",
+  "artist": "ジミーサムP",
+  "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oBd9BHE7R?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "心に穴が空いた",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oBd9BHE7R?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "イフ",
+  "artist": "月詠み",
+  "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oBd9BHE7R?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "レイニーブルー",
+  "artist": "徳永英明",
+  "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oBd9BHE7R?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "桜流し",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oBd9BHE7R?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "愛の星",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oBd9BHE7R?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Paradise of Rumor",
+  "artist": "AKMU",
+  "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oBd9BHE7R?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oBd9BHE7R?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oBd9BHE7R?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "歌に形はないけれど",
+  "artist": "doriko",
+  "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oBd9BHE7R?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "LADY",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oBd9BHE7R?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ピアノ泥棒",
+  "artist": "Amazarashi",
+  "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oBd9BHE7R?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "brave heart",
+  "artist": "林原めぐみ",
+  "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oBd9BHE7R?p=16",
+  "source": "naraetan.js"
+},
+    {
+  "title": "エンジェルウインク",
+  "artist": "照橋心美(茅野愛衣)",
+  "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oBd9BHE7R?p=17",
   "source": "naraetan.js"
 },
     {
