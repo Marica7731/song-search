@@ -7,69 +7,262 @@
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   <link rel="stylesheet" href="/site-theme.css">
   <style>
-    *{box-sizing:border-box}
-    body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:#f3f4f6;margin:0;padding:28px 16px;color:#24323f}
-    .main{max-width:1480px;margin:0 auto}
-    .panel{background:#fff;border-radius:14px;box-shadow:0 3px 14px rgba(0,0,0,.06);padding:20px;border:1px solid #d0d7de}
-    h1{margin:0 0 8px;color:#2c3e50}
-    .sub{margin-bottom:14px;color:#6c757d;font-size:14px;line-height:1.5}
-    .nav{margin-bottom:16px;text-align:center;color:#6c757d;font-size:14px}
-    .nav a{color:#00a1d6;text-decoration:none;font-weight:600}
-    .nav a:hover{text-decoration:underline}
-    .hint-box{margin:0 0 14px;padding:12px 14px;border-radius:12px;background:#fff;border:1px solid #d0d7de;color:#52606d;font-size:13px;line-height:1.6}
-    .kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:10px;margin:12px 0 16px}
-    .kpi{background:#f8fafc;border:1px solid #e7edf3;border-radius:10px;padding:10px 12px}
-    .kpi .label{font-size:12px;color:#7b8794;margin-bottom:4px}
-    .kpi .value{font-size:20px;color:#203040;font-weight:700}
-    .kpi .value.up{color:#1a8f4c}
-    .kpi .value.down{color:#cc2f3f}
-    .analysis-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px;margin:0 0 16px}
-    .analysis-card{background:#fff;border:1px solid #d0d7de;border-radius:10px;padding:14px 16px}
-    .analysis-card .label{font-size:12px;color:#667085;margin-bottom:6px}
-    .analysis-card .value{font-size:24px;font-weight:800;color:#111827;line-height:1.15}
-    .analysis-card .meta{margin-top:6px;font-size:12px;color:#667085;line-height:1.5}
-    .analysis-card .value.up{color:#1a8f4c}
-    .analysis-card .value.down{color:#cc2f3f}
-    .analysis-board{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin:0 0 16px}
-    .analysis-panel{background:#fff;border:1px solid #d0d7de;border-radius:10px;padding:14px 16px}
-    .analysis-panel h3{margin:0 0 10px;font-size:14px;color:#1f2328}
-    .top-list{display:flex;flex-direction:column;gap:8px}
-    .top-row{display:grid;grid-template-columns:34px minmax(0,1fr);gap:10px;align-items:start;padding:8px 0;border-top:1px solid #eef2f6}
-    .top-row:first-child{border-top:0;padding-top:0}
-    .top-rank{display:inline-flex;align-items:center;justify-content:center;width:28px;height:28px;border-radius:6px;background:#f3f4f6;border:1px solid #d0d7de;font-size:12px;font-weight:700;color:#111827}
-    .top-main{min-width:0}
-    .top-title{font-size:13px;font-weight:700;color:#1f2328;line-height:1.4}
-    .top-meta{margin-top:3px;font-size:12px;color:#667085;line-height:1.5}
-    .controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:10px}
-    .mode-select,.metric-select{padding:6px 10px;border:1px solid #d6e3ef;border-radius:8px;background:#fff}
-    .range-btn{border:1px solid #d6e3ef;background:#fff;color:#335;cursor:pointer;padding:6px 12px;border-radius:999px;font-size:13px}
-    .range-btn.active{background:#00a1d6;color:#fff;border-color:#00a1d6}
-    .chart-wrap{position:relative;border:1px solid #e7edf3;border-radius:12px;background:#fff;padding:10px}
-    #growthChart{width:100%;height:360px;display:block}
-    .chart-foot{display:flex;justify-content:space-between;color:#6c757d;font-size:12px;margin-top:8px;gap:10px;flex-wrap:wrap}
-    .chart-tooltip{position:absolute;display:none;min-width:220px;max-width:280px;padding:10px 12px;border-radius:10px;background:rgba(32,48,64,.95);color:#fff;font-size:12px;line-height:1.6;box-shadow:0 10px 24px rgba(0,0,0,.22);pointer-events:none;z-index:20}
-    .chart-tooltip.show{display:block}
-    .chart-tooltip strong{display:block;margin-bottom:4px;font-size:13px}
-    .chart-tooltip .muted{color:rgba(255,255,255,.72)}
-    .table-wrap{margin-top:18px;overflow:auto;border:1px solid #e7edf3;border-radius:10px}
-    table{width:100%;border-collapse:collapse;min-width:560px}
-    th,td{border-bottom:1px solid #eef2f6;padding:10px 12px;text-align:left}
-    th{background:#f8fafc;color:#33475b}
-    tbody tr:hover{background:#f9fcff}
-    .delta-up{color:#1a8f4c;font-weight:700}
-    .delta-down{color:#cc2f3f;font-weight:700}
-    .delta-flat{color:#6c757d}
-    .pager{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap;margin-top:10px}
-    .pager-controls{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
-    .pager-btn{padding:6px 10px;border:1px solid #d6e3ef;background:#fff;border-radius:8px;cursor:pointer}
-    .pager-btn:disabled{opacity:.45;cursor:not-allowed}
-    .pager .info{font-size:13px;color:#6c757d}
-    .pager-input{width:72px;padding:6px 8px;border:1px solid #d6e3ef;border-radius:8px;background:#fff}
-    .back-top{position:fixed;right:24px;bottom:24px;width:42px;height:42px;border:0;border-radius:999px;background:#00a1d6;color:#fff;font-size:18px;cursor:pointer;box-shadow:0 6px 16px rgba(0,161,214,.35);opacity:0;pointer-events:none;transform:translateY(6px);transition:all .2s;z-index:3000}
-    .back-top.show{opacity:1;pointer-events:auto;transform:translateY(0)}
-    @media (max-width: 900px){
-      body{padding:16px 12px}
-      .analysis-board{grid-template-columns:1fr}
+    * { box-sizing: border-box }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: #f3f4f6;
+      margin: 0;
+      padding: 28px 16px;
+      color: #24323f;
+    }
+    .main { max-width: 1480px; margin: 0 auto }
+    .panel {
+      background: #fff;
+      border-radius: 14px;
+      box-shadow: 0 3px 14px rgba(0,0,0,.06);
+      padding: 20px;
+      border: 1px solid #d0d7de;
+    }
+    h1 { margin: 0 0 8px; color: #2c3e50 }
+    .sub {
+      margin-bottom: 14px;
+      color: #6c757d;
+      font-size: 14px;
+      line-height: 1.5;
+    }
+    .nav {
+      margin-bottom: 16px;
+      text-align: center;
+      color: #6c757d;
+      font-size: 14px;
+    }
+    .nav a {
+      color: #00a1d6;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .nav a:hover { text-decoration: underline }
+    .hint-box {
+      margin: 0 0 14px;
+      padding: 12px 14px;
+      border-radius: 12px;
+      background: #fff;
+      border: 1px solid #d0d7de;
+      color: #52606d;
+      font-size: 13px;
+      line-height: 1.6;
+    }
+    .summary-board {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 12px;
+      margin-bottom: 16px;
+    }
+    .summary-panel {
+      background: #fff;
+      border: 1px solid #d0d7de;
+      border-radius: 10px;
+      padding: 14px 16px;
+    }
+    .summary-panel h3 {
+      margin: 0 0 10px;
+      font-size: 14px;
+      color: #1f2328;
+    }
+    .kpis {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+      gap: 10px;
+    }
+    .kpi {
+      background: #f8fafc;
+      border: 1px solid #e7edf3;
+      border-radius: 10px;
+      padding: 10px 12px;
+    }
+    .kpi .label {
+      font-size: 12px;
+      color: #7b8794;
+      margin-bottom: 4px;
+    }
+    .kpi .value {
+      font-size: 20px;
+      color: #203040;
+      font-weight: 700;
+      line-height: 1.2;
+      word-break: break-word;
+    }
+    .controls {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+      margin-bottom: 10px;
+    }
+    .metric-select {
+      padding: 6px 10px;
+      border: 1px solid #d6e3ef;
+      border-radius: 8px;
+      background: #fff;
+    }
+    .range-btn {
+      border: 1px solid #d6e3ef;
+      background: #fff;
+      color: #335;
+      cursor: pointer;
+      padding: 6px 12px;
+      border-radius: 999px;
+      font-size: 13px;
+    }
+    .range-btn.active {
+      background: #00a1d6;
+      color: #fff;
+      border-color: #00a1d6;
+    }
+    .chart-wrap {
+      position: relative;
+      border: 1px solid #e7edf3;
+      border-radius: 12px;
+      background: #fff;
+      padding: 10px;
+    }
+    #growthChart {
+      width: 100%;
+      height: 360px;
+      display: block;
+    }
+    .chart-foot {
+      display: flex;
+      justify-content: space-between;
+      color: #6c757d;
+      font-size: 12px;
+      margin-top: 8px;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    .legend {
+      display: inline-flex;
+      align-items: center;
+      gap: 14px;
+      flex-wrap: wrap;
+    }
+    .legend-item {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .legend-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 999px;
+      display: inline-block;
+    }
+    .chart-tooltip {
+      position: absolute;
+      display: none;
+      min-width: 220px;
+      max-width: 320px;
+      padding: 10px 12px;
+      border-radius: 10px;
+      background: rgba(32, 48, 64, .95);
+      color: #fff;
+      font-size: 12px;
+      line-height: 1.6;
+      box-shadow: 0 10px 24px rgba(0,0,0,.22);
+      pointer-events: none;
+      z-index: 20;
+    }
+    .chart-tooltip.show { display: block }
+    .chart-tooltip strong {
+      display: block;
+      margin-bottom: 4px;
+      font-size: 13px;
+    }
+    .table-wrap {
+      margin-top: 18px;
+      overflow: auto;
+      border: 1px solid #e7edf3;
+      border-radius: 10px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      min-width: 760px;
+    }
+    th, td {
+      border-bottom: 1px solid #eef2f6;
+      padding: 10px 12px;
+      text-align: left;
+      white-space: nowrap;
+    }
+    th {
+      background: #f8fafc;
+      color: #33475b;
+    }
+    tbody tr:hover { background: #f9fcff }
+    .pager {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-top: 10px;
+    }
+    .pager-controls {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+    .pager-btn {
+      padding: 6px 10px;
+      border: 1px solid #d6e3ef;
+      background: #fff;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+    .pager-btn:disabled {
+      opacity: .45;
+      cursor: not-allowed;
+    }
+    .pager .info {
+      font-size: 13px;
+      color: #6c757d;
+    }
+    .pager-input {
+      width: 72px;
+      padding: 6px 8px;
+      border: 1px solid #d6e3ef;
+      border-radius: 8px;
+      background: #fff;
+    }
+    .back-top {
+      position: fixed;
+      right: 24px;
+      bottom: 24px;
+      width: 42px;
+      height: 42px;
+      border: 0;
+      border-radius: 999px;
+      background: #00a1d6;
+      color: #fff;
+      font-size: 18px;
+      cursor: pointer;
+      box-shadow: 0 6px 16px rgba(0,161,214,.35);
+      opacity: 0;
+      pointer-events: none;
+      transform: translateY(6px);
+      transition: all .2s;
+      z-index: 3000;
+    }
+    .back-top.show {
+      opacity: 1;
+      pointer-events: auto;
+      transform: translateY(0);
+    }
+    @media (max-width: 980px) {
+      body { padding: 16px 12px }
+      .summary-board { grid-template-columns: 1fr }
     }
   </style>
 </head>
@@ -85,70 +278,41 @@
       <a href="/check">命名工具</a> |
       日报
     </div>
-    <div class="hint-box" id="modeHint">
-      `库收录增长` 按站点实际入库时间统计。`按投稿时间增长` 按歌曲 `pubdate` 统计每日新增。`稿件播放量` 按稿件发布日期聚合当前播放量。
+    <div class="hint-box">
+      仅按 <code>发布日期</code> 统计并合并展示两条维度：<b>播放量</b> 与 <b>曲目</b>。支持切换查看
+      <b>累计总量</b> 与 <b>当日总量</b>。
     </div>
 
-    <div class="kpis">
-      <div class="kpi"><div class="label" id="kpiTotalLabel">当前总曲数</div><div class="value" id="kpiTotal">-</div></div>
-      <div class="kpi"><div class="label" id="kpiDeltaLabel">当日增量</div><div class="value" id="kpiDelta">-</div></div>
-      <div class="kpi"><div class="label">累计记录天数</div><div class="value" id="kpiDays">-</div></div>
-      <div class="kpi"><div class="label">当前口径</div><div class="value" id="kpiMode">-</div></div>
-    </div>
-
-    <div class="analysis-grid">
-      <div class="analysis-card">
-        <div class="label">本月峰值日</div>
-        <div class="value" id="monthPeakValue">-</div>
-        <div class="meta" id="monthPeakMeta">-</div>
+    <div class="summary-board">
+      <div class="summary-panel">
+        <h3>累计总量</h3>
+        <div class="kpis">
+          <div class="kpi"><div class="label">累计总播放</div><div class="value" id="kpiTotalViews">-</div></div>
+          <div class="kpi"><div class="label">累计总曲目</div><div class="value" id="kpiTotalSongs">-</div></div>
+          <div class="kpi"><div class="label">累计商值（播放/曲目）</div><div class="value" id="kpiTotalRatio">-</div></div>
+          <div class="kpi"><div class="label">统计天数</div><div class="value" id="kpiDays">-</div></div>
+        </div>
       </div>
-      <div class="analysis-card">
-        <div class="label">历史峰值日</div>
-        <div class="value" id="allPeakValue">-</div>
-        <div class="meta" id="allPeakMeta">-</div>
-      </div>
-      <div class="analysis-card">
-        <div class="label">近 7 日均值</div>
-        <div class="value" id="weekAvgValue">-</div>
-        <div class="meta" id="weekAvgMeta">-</div>
-      </div>
-      <div class="analysis-card">
-        <div class="label">本月累计新增</div>
-        <div class="value" id="monthTotalValue">-</div>
-        <div class="meta" id="monthTotalMeta">-</div>
-      </div>
-      <div class="analysis-card">
-        <div class="label">上月峰值日</div>
-        <div class="value" id="prevMonthPeakValue">-</div>
-        <div class="meta" id="prevMonthPeakMeta">-</div>
-      </div>
-    </div>
-
-    <div class="analysis-board">
-      <div class="analysis-panel">
-        <h3>本月高点</h3>
-        <div class="top-list" id="monthTopList"></div>
-      </div>
-      <div class="analysis-panel">
-        <h3>历史高点</h3>
-        <div class="top-list" id="allTimeTopList"></div>
+      <div class="summary-panel">
+        <h3>当日总量</h3>
+        <div class="kpis">
+          <div class="kpi"><div class="label">当日播放量</div><div class="value" id="kpiDailyViews">-</div></div>
+          <div class="kpi"><div class="label">当日曲目增量</div><div class="value" id="kpiDailySongs">-</div></div>
+          <div class="kpi"><div class="label">当日商值（播放/曲目）</div><div class="value" id="kpiDailyRatio">-</div></div>
+          <div class="kpi"><div class="label">最新日期</div><div class="value" id="kpiLatestDate">-</div></div>
+        </div>
       </div>
     </div>
 
     <div class="controls">
-      <select class="mode-select" id="modeSelect">
-        <option value="collection">库收录增长</option>
-        <option value="publish" selected>按投稿时间增长</option>
-        <option value="publishViews">稿件播放量</option>
+      <select class="metric-select" id="metricGroupSelect">
+        <option value="total" selected>累计总量（播放 + 曲目）</option>
+        <option value="delta">当日总量（播放 + 曲目）</option>
       </select>
       <button class="range-btn active" data-range="30">近30天</button>
       <button class="range-btn" data-range="90">近90天</button>
       <button class="range-btn" data-range="180">近180天</button>
       <button class="range-btn" data-range="all">全部</button>
-      <select class="metric-select" id="metricSelect">
-        <option value="total">累计总量</option>
-        <option value="delta">当日增量</option>
-      </select>
     </div>
 
     <div class="chart-wrap">
@@ -156,13 +320,27 @@
       <div class="chart-tooltip" id="chartTooltip"></div>
       <div class="chart-foot">
         <span id="chartRangeText"></span>
-        <span id="chartHint">支持切换口径、范围和指标</span>
+        <span class="legend">
+          <span class="legend-item"><span class="legend-dot" style="background:#d97706"></span>播放量</span>
+          <span class="legend-item"><span class="legend-dot" style="background:#1a8f4c"></span>曲目</span>
+          <span class="legend-item"><span class="legend-dot" style="background:#7c3aed"></span>商值(播放/曲目)</span>
+        </span>
       </div>
     </div>
 
     <div class="table-wrap">
       <table>
-        <thead><tr><th>日期</th><th>累计总量</th><th>当日增量</th></tr></thead>
+        <thead>
+          <tr>
+            <th>日期</th>
+            <th>累计总播放</th>
+            <th>累计总曲目</th>
+            <th>累计商值</th>
+            <th>当日播放量</th>
+            <th>当日曲目增量</th>
+            <th>当日商值</th>
+          </tr>
+        </thead>
         <tbody id="growthTableBody"></tbody>
       </table>
     </div>
@@ -176,14 +354,14 @@
       </div>
     </div>
   </div>
+
   <button class="back-top" id="backTopBtn" type="button" aria-label="回到顶部">↑</button>
 
   <script>
     const chartCanvas = document.getElementById('growthChart');
-    const rangeTextEl = document.getElementById('chartRangeText');
-    const metricSelect = document.getElementById('metricSelect');
-    const modeSelect = document.getElementById('modeSelect');
     const chartTooltip = document.getElementById('chartTooltip');
+    const chartRangeText = document.getElementById('chartRangeText');
+    const metricGroupSelect = document.getElementById('metricGroupSelect');
     const tableBody = document.getElementById('growthTableBody');
     const pagerInfo = document.getElementById('pagerInfo');
     const prevPageBtn = document.getElementById('prevPageBtn');
@@ -191,15 +369,9 @@
     const pageInput = document.getElementById('pageInput');
     const goPageBtn = document.getElementById('goPageBtn');
 
-    const growthData = {
-      collection: [],
-      publish: [],
-      publishViews: []
-    };
-
-    let currentMode = 'publish';
+    const growthData = { rows: [] };
     let currentRange = '30';
-    let currentMetric = 'total';
+    let currentMetricGroup = 'total';
     let currentPage = 1;
     const pageSize = 30;
     let chartState = null;
@@ -208,101 +380,269 @@
       return Number(value || 0).toLocaleString('zh-CN');
     }
 
-    function deltaText(value) {
-      if (value > 0) return '+' + value;
-      return String(value || 0);
+    function parseNumber(value) {
+      const n = Number(value || 0);
+      return Number.isFinite(n) ? n : 0;
     }
 
-    function deltaClass(value) {
-      if (value > 0) return 'delta-up';
-      if (value < 0) return 'delta-down';
-      return 'delta-flat';
+    function ratioValue(numerator, denominator) {
+      const top = parseNumber(numerator);
+      const bottom = parseNumber(denominator);
+      if (bottom <= 0) return null;
+      return top / bottom;
     }
 
-    function getModeLabel() {
-      if (currentMode === 'publishViews') return '稿件播放量';
-      return currentMode === 'publish' ? '按投稿时间增长' : '库收录增长';
+    function ratioText(value) {
+      const ratio = Number(value);
+      if (!Number.isFinite(ratio)) return '-';
+      return `${ratio.toFixed(2)} 次/曲`;
     }
 
-    function getModeMetricLabels() {
-      if (currentMode === 'publishViews') {
-        return {
-          total: '累计播放量',
-          delta: '当日稿件播放量',
-          avg: '最近 7 天平均每日播放量',
-          month: '累计播放量'
-        };
+    function normalizeCombinedRows(rows) {
+      return (Array.isArray(rows) ? rows : [])
+        .map(row => ({
+          date: String(row?.date || ''),
+          ts: parseNumber(row?.ts),
+          songDelta: parseNumber(row?.songDelta),
+          songTotal: parseNumber(row?.songTotal),
+          viewDelta: parseNumber(row?.viewDelta),
+          viewTotal: parseNumber(row?.viewTotal)
+        }))
+        .filter(row => row.date)
+        .sort((a, b) => rowDateCompare(a.date, b.date));
+    }
+
+    function rowDateCompare(a, b) {
+      return String(a).localeCompare(String(b));
+    }
+
+    function buildCombinedRowsFromLegacy(songRows, viewRows) {
+      const dateMap = new Map();
+
+      (Array.isArray(songRows) ? songRows : []).forEach(row => {
+        const date = String(row?.date || '');
+        if (!date) return;
+        if (!dateMap.has(date)) {
+          dateMap.set(date, { date, ts: 0, songDelta: 0, viewDelta: 0 });
+        }
+        const entry = dateMap.get(date);
+        entry.songDelta += parseNumber(row?.delta);
+        entry.ts = Math.max(entry.ts, parseNumber(row?.ts));
+      });
+
+      (Array.isArray(viewRows) ? viewRows : []).forEach(row => {
+        const date = String(row?.date || '');
+        if (!date) return;
+        if (!dateMap.has(date)) {
+          dateMap.set(date, { date, ts: 0, songDelta: 0, viewDelta: 0 });
+        }
+        const entry = dateMap.get(date);
+        entry.viewDelta += parseNumber(row?.delta);
+        entry.ts = Math.max(entry.ts, parseNumber(row?.ts));
+      });
+
+      let songTotal = 0;
+      let viewTotal = 0;
+      return Array.from(dateMap.values())
+        .sort((a, b) => rowDateCompare(a.date, b.date))
+        .map(row => {
+          songTotal += parseNumber(row.songDelta);
+          viewTotal += parseNumber(row.viewDelta);
+          return {
+            date: row.date,
+            ts: row.ts || 0,
+            songDelta: parseNumber(row.songDelta),
+            songTotal,
+            viewDelta: parseNumber(row.viewDelta),
+            viewTotal
+          };
+        });
+    }
+
+    function getRangeRows() {
+      const rows = growthData.rows;
+      if (currentRange === 'all') return rows.slice();
+      const days = Number(currentRange);
+      if (!days || days <= 0) return rows.slice();
+      return rows.slice(-days);
+    }
+
+    function getMetricLabels() {
+      if (currentMetricGroup === 'delta') {
+        return { view: '当日播放量', song: '当日曲目增量', group: '当日总量' };
       }
-      if (currentMode === 'publish') {
+      return { view: '累计总播放', song: '累计总曲目', group: '累计总量' };
+    }
+
+    function getSeriesValues(row) {
+      if (currentMetricGroup === 'delta') {
         return {
-          total: '累计投稿歌曲数',
-          delta: '当日新增歌曲',
-          avg: '最近 7 天平均每日新增',
-          month: '累计新增'
+          view: parseNumber(row?.viewDelta),
+          song: parseNumber(row?.songDelta),
+          ratio: ratioValue(row?.viewDelta, row?.songDelta)
         };
       }
       return {
-        total: '当前总曲数',
-        delta: '当日入库增量',
-        avg: '最近 7 天平均每日新增',
-        month: '累计新增'
+        view: parseNumber(row?.viewTotal),
+        song: parseNumber(row?.songTotal),
+        ratio: ratioValue(row?.viewTotal, row?.songTotal)
       };
     }
 
-    function getModeHintText() {
-      if (currentMode === 'publishViews') {
-        return '`稿件播放量` 按唯一 BV 的发布日期聚合当前播放量，可直接看某一天发布的稿件累计拿到了多少播放。';
+    function updateSummary() {
+      const rows = growthData.rows;
+      const last = rows[rows.length - 1];
+      document.getElementById('updatedAtText').textContent = last
+        ? `更新时间：${last.date}（上海时间日统计）`
+        : '更新时间：暂无数据';
+      document.getElementById('kpiTotalViews').textContent = last ? numberText(last.viewTotal) : '-';
+      document.getElementById('kpiTotalSongs').textContent = last ? numberText(last.songTotal) : '-';
+      document.getElementById('kpiTotalRatio').textContent = last ? ratioText(ratioValue(last.viewTotal, last.songTotal)) : '-';
+      document.getElementById('kpiDailyViews').textContent = last ? numberText(last.viewDelta) : '-';
+      document.getElementById('kpiDailySongs').textContent = last ? numberText(last.songDelta) : '-';
+      document.getElementById('kpiDailyRatio').textContent = last ? ratioText(ratioValue(last.viewDelta, last.songDelta)) : '-';
+      document.getElementById('kpiLatestDate').textContent = last ? last.date : '-';
+      document.getElementById('kpiDays').textContent = String(rows.length || 0);
+    }
+
+    function buildAxisRange(values) {
+      const max = Math.max(0, ...values);
+      const paddedMax = max > 0 ? max * 1.12 : 1;
+      return { min: 0, max: paddedMax };
+    }
+
+    function drawSeries(ctx, rows, xAt, yAt, values, color, options = {}) {
+      const dashed = !!options.dashed;
+      ctx.save();
+      if (dashed) {
+        ctx.setLineDash([6, 4]);
       }
-      if (currentMode === 'publish') {
-        return '`按投稿时间增长` 按歌曲 `pubdate` 统计真实投稿时间增长，更适合看历史发布节奏。';
+      ctx.strokeStyle = color;
+      ctx.lineWidth = 2;
+      let started = false;
+      ctx.beginPath();
+      values.forEach((v, index) => {
+        if (!Number.isFinite(Number(v))) {
+          started = false;
+          return;
+        }
+        const x = xAt(index);
+        const y = yAt(v);
+        if (!started) {
+          ctx.moveTo(x, y);
+          started = true;
+          return;
+        }
+        ctx.lineTo(x, y);
+      });
+      ctx.stroke();
+      if (dashed) {
+        ctx.setLineDash([]);
       }
-      return '`库收录增长` 按你的站点实际抓取入库时间统计，更适合看歌库扩张速度。';
+
+      ctx.fillStyle = color;
+      values.forEach((v, index) => {
+        if (!Number.isFinite(Number(v))) return;
+        const x = xAt(index);
+        const y = yAt(v);
+        ctx.beginPath();
+        ctx.arc(x, y, 2.5, 0, Math.PI * 2);
+        ctx.fill();
+      });
+      ctx.restore();
     }
 
-    function getCurrentRows() {
-      return growthData[currentMode] || [];
-    }
+    function drawChart() {
+      const rows = getRangeRows();
+      const rect = chartCanvas.getBoundingClientRect();
+      const dpr = window.devicePixelRatio || 1;
+      const width = Math.max(320, Math.floor(rect.width));
+      const height = 360;
+      chartCanvas.width = Math.floor(width * dpr);
+      chartCanvas.height = Math.floor(height * dpr);
 
-    function shiftDate(dateText, offsetDays) {
-      const [year, month, day] = String(dateText || '').split('-').map(Number);
-      if (!year || !month || !day) return '';
-      const dt = new Date(Date.UTC(year, month - 1, day));
-      dt.setUTCDate(dt.getUTCDate() + offsetDays);
-      return dt.toISOString().slice(0, 10);
-    }
+      const ctx = chartCanvas.getContext('2d');
+      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+      ctx.clearRect(0, 0, width, height);
 
-    function getDeltaVsDate(row, offsetDays) {
-      const rows = getCurrentRows();
-      const rowMap = new Map(rows.map(item => [item.date, item]));
-      const compareDate = shiftDate(row.date, -offsetDays);
-      const baseRow = rowMap.get(compareDate);
-      if (!baseRow) return null;
-      return {
-        delta: row.total - baseRow.total,
-        percent: baseRow.total > 0 ? ((row.total - baseRow.total) / baseRow.total) * 100 : null
-      };
-    }
+      const pad = { left: 68, right: 68, top: 16, bottom: 42 };
+      const cw = width - pad.left - pad.right;
+      const ch = height - pad.top - pad.bottom;
 
-    function formatDeltaWithPercent(result) {
-      if (!result) return '-';
-      const deltaPart = deltaText(result.delta);
-      if (!Number.isFinite(result.percent)) return deltaPart;
-      const sign = result.percent > 0 ? '+' : '';
-      return deltaPart + '（' + sign + result.percent.toFixed(2) + '%）';
+      if (!rows.length) {
+        chartState = null;
+        chartRangeText.textContent = '暂无可展示数据';
+        ctx.fillStyle = '#6c757d';
+        ctx.font = '14px sans-serif';
+        ctx.fillText('暂无数据', 16, 30);
+        return;
+      }
+
+      const labels = getMetricLabels();
+      const viewValues = rows.map(row => getSeriesValues(row).view);
+      const songValues = rows.map(row => getSeriesValues(row).song);
+      const ratioValues = rows.map(row => getSeriesValues(row).ratio);
+      const viewAxis = buildAxisRange(viewValues);
+      const songAxis = buildAxisRange(songValues);
+      const ratioAxis = buildAxisRange(ratioValues.filter(value => Number.isFinite(Number(value))));
+
+      const xAt = index => pad.left + (rows.length === 1 ? cw / 2 : (cw * index) / (rows.length - 1));
+      const yViewAt = value => pad.top + ((viewAxis.max - value) / (viewAxis.max - viewAxis.min)) * ch;
+      const ySongAt = value => pad.top + ((songAxis.max - value) / (songAxis.max - songAxis.min)) * ch;
+      const yRatioAt = value => pad.top + ((ratioAxis.max - value) / (ratioAxis.max - ratioAxis.min)) * ch;
+
+      ctx.strokeStyle = '#edf2f7';
+      ctx.lineWidth = 1;
+      ctx.fillStyle = '#6c757d';
+      ctx.font = '12px sans-serif';
+      for (let i = 0; i <= 5; i += 1) {
+        const y = pad.top + (ch / 5) * i;
+        ctx.beginPath();
+        ctx.moveTo(pad.left, y);
+        ctx.lineTo(width - pad.right, y);
+        ctx.stroke();
+
+        const viewValue = viewAxis.max - ((viewAxis.max - viewAxis.min) * i) / 5;
+        const songValue = songAxis.max - ((songAxis.max - songAxis.min) * i) / 5;
+        ctx.textAlign = 'left';
+        ctx.fillText(numberText(Math.round(viewValue)), 8, y + 4);
+        ctx.textAlign = 'right';
+        ctx.fillText(numberText(Math.round(songValue)), width - 8, y + 4);
+      }
+
+      drawSeries(ctx, rows, xAt, yViewAt, viewValues, '#d97706');
+      drawSeries(ctx, rows, xAt, ySongAt, songValues, '#1a8f4c');
+      drawSeries(ctx, rows, xAt, yRatioAt, ratioValues, '#7c3aed', { dashed: true });
+
+      ctx.fillStyle = '#6c757d';
+      ctx.font = '12px sans-serif';
+      ctx.textAlign = 'left';
+      ctx.fillText(rows[0].date, pad.left, height - 12);
+      ctx.textAlign = 'right';
+      ctx.fillText(rows[rows.length - 1].date, width - pad.right, height - 12);
+
+      const ratioValidValues = ratioValues.filter(value => Number.isFinite(Number(value)));
+      const ratioRangeText = ratioValidValues.length
+        ? `商值区间 ${ratioText(Math.min(...ratioValidValues))} ~ ${ratioText(Math.max(...ratioValidValues))}`
+        : '商值区间 -';
+      chartRangeText.textContent = `${labels.group}：${rows[0].date} 至 ${rows[rows.length - 1].date}（${rows.length} 天） | ${ratioRangeText}`;
+      chartState = { rows, pad, width, height, xAt, yViewAt, ySongAt };
     }
 
     function buildTooltipHtml(row) {
-      const week = getDeltaVsDate(row, 7);
-      const month = getDeltaVsDate(row, 30);
-      const year = getDeltaVsDate(row, 365);
-      const labels = getModeMetricLabels();
+      const labels = getMetricLabels();
+      const current = getSeriesValues(row);
       return [
-        '<strong>' + row.date + '</strong>',
-        '<div>' + labels.total + '：' + numberText(row.total) + '</div>',
-        '<div>' + labels.delta + '：' + deltaText(row.delta) + '</div>',
-        '<div>前7日增量：' + formatDeltaWithPercent(week) + '</div>',
-        '<div>前30日增量：' + (month ? deltaText(month.delta) : '-') + '</div>',
-        '<div>上年增量：' + (year ? deltaText(year.delta) : '-') + '</div>'
+        `<strong>${row.date}</strong>`,
+        `<div>${labels.view}：${numberText(current.view)}</div>`,
+        `<div>${labels.song}：${numberText(current.song)}</div>`,
+        `<div>${labels.group}商值：${ratioText(current.ratio)}</div>`,
+        `<div>累计总播放：${numberText(row.viewTotal)}</div>`,
+        `<div>累计总曲目：${numberText(row.songTotal)}</div>`,
+        `<div>累计商值：${ratioText(ratioValue(row.viewTotal, row.songTotal))}</div>`,
+        `<div>当日播放量：${numberText(row.viewDelta)}</div>`,
+        `<div>当日曲目增量：${numberText(row.songDelta)}</div>`,
+        `<div>当日商值：${ratioText(ratioValue(row.viewDelta, row.songDelta))}</div>`
       ].join('');
     }
 
@@ -321,267 +661,30 @@
       if (left < 8) left = 8;
       if (top < 8) top = clientY - wrapRect.top + 14;
       if (top + tipRect.height > wrapRect.height - 8) top = wrapRect.height - tipRect.height - 8;
-      chartTooltip.style.left = left + 'px';
-      chartTooltip.style.top = top + 'px';
-    }
-
-    function getRangeRows() {
-      const rows = getCurrentRows();
-      if (currentRange === 'all') return rows.slice();
-      const days = Number(currentRange);
-      if (!days || days <= 0) return rows.slice();
-      return rows.slice(-days);
-    }
-
-    function updateHeaderSummary() {
-      const rows = getCurrentRows();
-      const last = rows[rows.length - 1];
-      const updatedAtText = document.getElementById('updatedAtText');
-      const kpiTotal = document.getElementById('kpiTotal');
-      const kpiDelta = document.getElementById('kpiDelta');
-      const kpiTotalLabel = document.getElementById('kpiTotalLabel');
-      const kpiDeltaLabel = document.getElementById('kpiDeltaLabel');
-      const kpiDays = document.getElementById('kpiDays');
-      const kpiMode = document.getElementById('kpiMode');
-      const modeHint = document.getElementById('modeHint');
-      const metricLabels = getModeMetricLabels();
-      kpiTotalLabel.textContent = metricLabels.total;
-      kpiDeltaLabel.textContent = metricLabels.delta;
-      modeHint.textContent = getModeHintText();
-      if (!last) {
-        updatedAtText.textContent = '更新时间：暂无数据';
-        kpiTotal.textContent = '-';
-        kpiDelta.textContent = '-';
-        kpiDays.textContent = '0';
-        kpiMode.textContent = getModeLabel();
-        return;
-      }
-      updatedAtText.textContent = '更新时间：' + last.date + '（上海时间日统计）';
-      kpiTotal.textContent = numberText(last.total);
-      kpiDelta.textContent = deltaText(last.delta);
-      kpiDelta.className = 'value ' + (last.delta > 0 ? 'up' : (last.delta < 0 ? 'down' : ''));
-      kpiDays.textContent = String(rows.length);
-      kpiMode.textContent = getModeLabel();
-    }
-
-    function getLatestMonthKey(rows) {
-      const last = rows[rows.length - 1];
-      return last && last.date ? String(last.date).slice(0, 7) : '';
-    }
-
-    function getPreviousMonthKey(monthKey) {
-      const [yearText, monthText] = String(monthKey || '').split('-');
-      const year = Number(yearText);
-      const month = Number(monthText);
-      if (!year || !month) return '';
-      const dt = new Date(Date.UTC(year, month - 1, 1));
-      dt.setUTCMonth(dt.getUTCMonth() - 1);
-      return dt.toISOString().slice(0, 7);
-    }
-
-    function sortRowsByDeltaDesc(rows) {
-      return rows
-        .filter(row => Number.isFinite(Number(row.delta)))
-        .slice()
-        .sort((a, b) => {
-          if (Number(b.delta) !== Number(a.delta)) return Number(b.delta) - Number(a.delta);
-          return String(a.date).localeCompare(String(b.date));
-        });
-    }
-
-    function setInsightCard(valueId, metaId, valueText, metaText, state = '') {
-      const valueEl = document.getElementById(valueId);
-      const metaEl = document.getElementById(metaId);
-      if (!valueEl || !metaEl) return;
-      valueEl.textContent = valueText;
-      valueEl.className = 'value ' + state;
-      metaEl.textContent = metaText;
-    }
-
-    function renderTopRows(containerId, rows, emptyText) {
-      const container = document.getElementById(containerId);
-      if (!container) return;
-      if (!rows.length) {
-        container.innerHTML = `<div class="top-meta">${emptyText}</div>`;
-        return;
-      }
-
-      const metricLabels = getModeMetricLabels();
-
-      container.innerHTML = rows.map((row, index) => {
-        return '<div class="top-row">' +
-          `<div class="top-rank">${index + 1}</div>` +
-          '<div class="top-main">' +
-            `<div class="top-title">${row.date}</div>` +
-            `<div class="top-meta">${metricLabels.delta} ${deltaText(row.delta)} · ${metricLabels.total} ${numberText(row.total)}</div>` +
-          '</div>' +
-        '</div>';
-      }).join('');
-    }
-
-    function renderInsights() {
-      const rows = getCurrentRows();
-      const monthKey = getLatestMonthKey(rows);
-      const monthRows = monthKey ? rows.filter(row => String(row.date).startsWith(monthKey)) : [];
-      const prevMonthKey = getPreviousMonthKey(monthKey);
-      const prevMonthRows = prevMonthKey ? rows.filter(row => String(row.date).startsWith(prevMonthKey)) : [];
-      const monthSorted = sortRowsByDeltaDesc(monthRows).filter(row => Number(row.delta) > 0);
-      const prevMonthSorted = sortRowsByDeltaDesc(prevMonthRows).filter(row => Number(row.delta) > 0);
-      const allSorted = sortRowsByDeltaDesc(rows).filter(row => Number(row.delta) > 0);
-      const monthPeak = monthSorted[0] || null;
-      const prevMonthPeak = prevMonthSorted[0] || null;
-      const allPeak = allSorted[0] || null;
-      const latestSeven = rows.slice(-7);
-      const weekAvg = latestSeven.length
-        ? latestSeven.reduce((acc, row) => acc + Number(row.delta || 0), 0) / latestSeven.length
-        : 0;
-      const monthTotal = monthRows.reduce((acc, row) => acc + Number(row.delta || 0), 0);
-      const metricLabels = getModeMetricLabels();
-
-      setInsightCard(
-        'monthPeakValue',
-        'monthPeakMeta',
-        monthPeak ? deltaText(monthPeak.delta) : '-',
-        monthPeak ? `${monthPeak.date} · ${monthKey}` : '本月暂无增长记录',
-        monthPeak && monthPeak.delta > 0 ? 'up' : ''
-      );
-      setInsightCard(
-        'allPeakValue',
-        'allPeakMeta',
-        allPeak ? deltaText(allPeak.delta) : '-',
-        allPeak ? `${allPeak.date} · 历史最高` : '历史暂无增长记录',
-        allPeak && allPeak.delta > 0 ? 'up' : ''
-      );
-      setInsightCard(
-        'weekAvgValue',
-        'weekAvgMeta',
-        latestSeven.length ? deltaText(Math.round(weekAvg * 10) / 10) : '-',
-        latestSeven.length ? metricLabels.avg : '最近 7 日暂无数据',
-        weekAvg > 0 ? 'up' : (weekAvg < 0 ? 'down' : '')
-      );
-      setInsightCard(
-        'monthTotalValue',
-        'monthTotalMeta',
-        monthKey ? deltaText(monthTotal) : '-',
-        monthKey ? `${monthKey} ${metricLabels.month}` : '暂无月份数据',
-        monthTotal > 0 ? 'up' : (monthTotal < 0 ? 'down' : '')
-      );
-      setInsightCard(
-        'prevMonthPeakValue',
-        'prevMonthPeakMeta',
-        prevMonthPeak ? deltaText(prevMonthPeak.delta) : '-',
-        prevMonthPeak ? `${prevMonthPeak.date} · ${prevMonthKey}` : '上月暂无增长记录',
-        prevMonthPeak && prevMonthPeak.delta > 0 ? 'up' : ''
-      );
-
-      renderTopRows('monthTopList', monthSorted.slice(0, 5), '本月暂无高点数据');
-      renderTopRows('allTimeTopList', allSorted.slice(0, 5), '历史暂无高点数据');
-    }
-
-    function drawChart() {
-      const rows = getRangeRows();
-      const rect = chartCanvas.getBoundingClientRect();
-      const dpr = window.devicePixelRatio || 1;
-      const width = Math.max(320, Math.floor(rect.width));
-      const height = 360;
-      chartCanvas.width = Math.floor(width * dpr);
-      chartCanvas.height = Math.floor(height * dpr);
-      const ctx = chartCanvas.getContext('2d');
-      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
-      ctx.clearRect(0, 0, width, height);
-
-      const pad = { left: 66, right: 22, top: 16, bottom: 42 };
-      const cw = width - pad.left - pad.right;
-      const ch = height - pad.top - pad.bottom;
-
-      if (!rows.length) {
-        chartState = null;
-        hideTooltip();
-        ctx.fillStyle = '#6c757d';
-        ctx.font = '14px sans-serif';
-        ctx.fillText('暂无数据', 16, 30);
-        return;
-      }
-
-      const values = rows.map(r => currentMetric === 'total' ? Number(r.total || 0) : Number(r.delta || 0));
-      let min = Math.min(...values);
-      let max = Math.max(...values);
-      if (min === max) {
-        min -= 1;
-        max += 1;
-      }
-      const padY = (max - min) * 0.08;
-      min -= padY;
-      max += padY;
-      if (min < 0) min = 0;
-      if (max <= min) max = min + 1;
-
-      ctx.strokeStyle = '#edf2f7';
-      ctx.lineWidth = 1;
-      ctx.fillStyle = '#6c757d';
-      ctx.font = '12px sans-serif';
-      for (let i = 0; i <= 5; i++) {
-        const y = pad.top + (ch / 5) * i;
-        ctx.beginPath();
-        ctx.moveTo(pad.left, y);
-        ctx.lineTo(width - pad.right, y);
-        ctx.stroke();
-        const val = max - (max - min) * (i / 5);
-        ctx.fillText(numberText(Math.round(val)), 8, y + 4);
-      }
-
-      const xAt = idx => pad.left + (rows.length === 1 ? cw / 2 : (cw * idx) / (rows.length - 1));
-      const yAt = v => pad.top + ((max - v) / (max - min)) * ch;
-      chartState = { rows, pad, width, height, xAt, yAt, values };
-
-      const lineColor = currentMode === 'publish'
-        ? '#1a8f4c'
-        : (currentMode === 'publishViews' ? '#d97706' : '#00a1d6');
-      ctx.strokeStyle = lineColor;
-      ctx.lineWidth = 2;
-      ctx.beginPath();
-      values.forEach((v, i) => {
-        const x = xAt(i);
-        const y = yAt(v);
-        if (i === 0) ctx.moveTo(x, y); else ctx.lineTo(x, y);
-      });
-      ctx.stroke();
-
-      ctx.fillStyle = lineColor;
-      values.forEach((v, i) => {
-        const x = xAt(i);
-        const y = yAt(v);
-        ctx.beginPath();
-        ctx.arc(x, y, 2.5, 0, Math.PI * 2);
-        ctx.fill();
-      });
-
-      ctx.fillStyle = '#6c757d';
-      ctx.font = '12px sans-serif';
-      ctx.textAlign = 'left';
-      ctx.fillText(rows[0].date, pad.left, height - 12);
-      ctx.textAlign = 'right';
-      ctx.fillText(rows[rows.length - 1].date, width - pad.right, height - 12);
-      ctx.textAlign = 'left';
-      rangeTextEl.textContent = getModeLabel() + '：' + rows[0].date + ' 至 ' + rows[rows.length - 1].date + '（' + rows.length + ' 天）';
+      chartTooltip.style.left = `${left}px`;
+      chartTooltip.style.top = `${top}px`;
     }
 
     function renderTable() {
-      const rows = getCurrentRows().slice().reverse();
+      const rows = growthData.rows.slice().reverse();
       const totalPages = Math.max(1, Math.ceil(rows.length / pageSize));
       if (currentPage > totalPages) currentPage = totalPages;
       const start = (currentPage - 1) * pageSize;
       const pageRows = rows.slice(start, start + pageSize);
 
       tableBody.innerHTML = pageRows.map(row => {
-        return '<tr>' +
-          '<td>' + row.date + '</td>' +
-          '<td>' + numberText(row.total) + '</td>' +
-          '<td><span class="' + deltaClass(row.delta) + '">' + deltaText(row.delta) + '</span></td>' +
-          '</tr>';
+        return `<tr>
+          <td>${row.date}</td>
+          <td>${numberText(row.viewTotal)}</td>
+          <td>${numberText(row.songTotal)}</td>
+          <td>${ratioText(ratioValue(row.viewTotal, row.songTotal))}</td>
+          <td>${numberText(row.viewDelta)}</td>
+          <td>${numberText(row.songDelta)}</td>
+          <td>${ratioText(ratioValue(row.viewDelta, row.songDelta))}</td>
+        </tr>`;
       }).join('');
 
-      pagerInfo.textContent = getModeLabel() + '：第 ' + currentPage + ' / ' + totalPages + ' 页，共 ' + rows.length + ' 条';
+      pagerInfo.textContent = `日期增长明细：第 ${currentPage} / ${totalPages} 页，共 ${rows.length} 条`;
       pageInput.value = String(currentPage);
       pageInput.max = String(totalPages);
       prevPageBtn.disabled = currentPage <= 1;
@@ -590,7 +693,7 @@
     }
 
     function goToPage(targetPage) {
-      const rows = getCurrentRows().slice().reverse();
+      const rows = growthData.rows.slice().reverse();
       const totalPages = Math.max(1, Math.ceil(rows.length / pageSize));
       const nextPage = Math.min(totalPages, Math.max(1, Number(targetPage) || 1));
       currentPage = nextPage;
@@ -599,8 +702,7 @@
 
     function refreshView() {
       currentPage = 1;
-      updateHeaderSummary();
-      renderInsights();
+      updateSummary();
       drawChart();
       renderTable();
     }
@@ -608,39 +710,25 @@
     function bindEvents() {
       document.querySelectorAll('.range-btn').forEach(btn => {
         btn.addEventListener('click', () => {
-          document.querySelectorAll('.range-btn').forEach(x => x.classList.remove('active'));
+          document.querySelectorAll('.range-btn').forEach(item => item.classList.remove('active'));
           btn.classList.add('active');
           currentRange = btn.dataset.range;
           drawChart();
         });
       });
 
-      metricSelect.addEventListener('change', () => {
-        currentMetric = metricSelect.value;
+      metricGroupSelect.addEventListener('change', () => {
+        currentMetricGroup = metricGroupSelect.value;
         drawChart();
       });
 
-      modeSelect.addEventListener('change', () => {
-        currentMode = modeSelect.value;
-        refreshView();
-      });
-
-      prevPageBtn.addEventListener('click', () => {
-        goToPage(currentPage - 1);
-      });
-      nextPageBtn.addEventListener('click', () => {
-        goToPage(currentPage + 1);
-      });
-      goPageBtn.addEventListener('click', () => {
-        goToPage(pageInput.value);
-      });
+      prevPageBtn.addEventListener('click', () => goToPage(currentPage - 1));
+      nextPageBtn.addEventListener('click', () => goToPage(currentPage + 1));
+      goPageBtn.addEventListener('click', () => goToPage(pageInput.value));
       pageInput.addEventListener('keydown', event => {
-        if (event.key === 'Enter') {
-          goToPage(pageInput.value);
-        }
+        if (event.key === 'Enter') goToPage(pageInput.value);
       });
 
-      window.addEventListener('resize', drawChart);
       chartCanvas.addEventListener('mouseleave', hideTooltip);
       chartCanvas.addEventListener('mousemove', event => {
         if (!chartState || !chartState.rows.length) {
@@ -667,9 +755,10 @@
             bestIndex = index;
           }
         });
-        const row = chartState.rows[bestIndex];
-        showTooltip(event.clientX, event.clientY, row);
+        showTooltip(event.clientX, event.clientY, chartState.rows[bestIndex]);
       });
+
+      window.addEventListener('resize', drawChart);
 
       const backTopBtn = document.getElementById('backTopBtn');
       const updateBackTop = () => backTopBtn.classList.toggle('show', window.scrollY > 260);
@@ -682,19 +771,14 @@
       const res = await fetch('/api/song-growth');
       if (!res.ok) throw new Error(`API 状态码 ${res.status}`);
       const payload = await res.json();
-      growthData.collection = Array.isArray(payload.collectionRows) ? payload.collectionRows : [];
-      growthData.publish = Array.isArray(payload.publishRows) ? payload.publishRows : [];
-      growthData.publishViews = Array.isArray(payload.publishViewRows) ? payload.publishViewRows : [];
-      if (!growthData[currentMode].length) {
-        if (growthData.publish.length) {
-          currentMode = 'publish';
-        } else if (growthData.collection.length) {
-          currentMode = 'collection';
-        } else if (growthData.publishViews.length) {
-          currentMode = 'publishViews';
-        }
-        modeSelect.value = currentMode;
+      const combinedRows = normalizeCombinedRows(payload?.combinedRows);
+      if (combinedRows.length) {
+        growthData.rows = combinedRows;
+        return;
       }
+      growthData.rows = normalizeCombinedRows(
+        buildCombinedRowsFromLegacy(payload?.publishRows, payload?.publishViewRows)
+      );
     }
 
     async function initPage() {
@@ -702,25 +786,24 @@
       try {
         await loadGrowthRows();
       } catch (error) {
-        document.getElementById('updatedAtText').textContent = '更新时间：加载失败';
         console.error(error);
+        document.getElementById('updatedAtText').textContent = '更新时间：加载失败';
       }
       refreshView();
     }
 
     initPage();
   </script>
-  <script src="/page-directory-widget.js?v=2026041904"></script>
+  <script src="/page-directory-widget.js?v=2026041905"></script>
   <script>
     document.addEventListener('DOMContentLoaded', () => {
       if (typeof window.createPageDirectory !== 'function') return;
       window.createPageDirectory({
         title: '日报目录',
         items: [
-          { label: '口径说明', selector: '#modeHint' },
-          { label: '关键指标', selector: '.kpis' },
-          { label: '分析摘要', selector: '.analysis-grid' },
-          { label: '高点榜单', selector: '.analysis-board' },
+          { label: '口径说明', selector: '.hint-box' },
+          { label: '累计总量', selector: '.summary-board .summary-panel:nth-child(1)' },
+          { label: '当日总量', selector: '.summary-board .summary-panel:nth-child(2)' },
           { label: '图表参数', selector: '.controls' },
           { label: '趋势图', selector: '.chart-wrap' },
           { label: '数据表', selector: '.table-wrap' },
@@ -732,9 +815,3 @@
   <script src="/last-run-badge.js"></script>
 </body>
 </html>
-
-
-
-
-
-
