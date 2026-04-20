@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 4/20/2026, 8:33:34 AM
+// 生成时间: 4/20/2026, 10:24:34 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2455,7 +2455,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヒビカセ",
-  "artist": "Reol",
+  "artist": "Giga feat. 初音ミク",
   "collection": "【240501】Figaro】#10周三定期歌枠 ヒビカセ - Reol",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vt421c7jC?p=9",
