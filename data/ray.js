@@ -1,6 +1,6 @@
 // 來-Ray- - 歌单数据 (多合集汇总)
 // 来源: BV1mJZwB8EVa
-// 生成时间: 4/20/2026, 3:11:26 PM
+// 生成时间: 4/20/2026, 4:41:56 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -575,7 +575,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "カメレオン",
-  "artist": "King Gnu",
+  "artist": "すりぃ",
   "collection": "來-Ray-  歌切 2025-06-04 ~  2025-11-02",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mJZwB8EVa?p=72",
@@ -3347,6 +3347,110 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-04-06]春天到了，该开歌回了 來-Ray-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KvDbBSEVM?p=20",
+  "source": "ray.js"
+},
+    {
+  "title": "miss you",
+  "artist": "ツカダタカシゲ",
+  "collection": "【歌切】[2026-04-20]世上罕见的午间歌回 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vHdCBpEGH?p=1",
+  "source": "ray.js"
+},
+    {
+  "title": "ラブ＆デストロイ",
+  "artist": "YUUKI MIYAKE／GUMI",
+  "collection": "【歌切】[2026-04-20]世上罕见的午间歌回 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vHdCBpEGH?p=2",
+  "source": "ray.js"
+},
+    {
+  "title": "独奏",
+  "artist": "YASUHIRO",
+  "collection": "【歌切】[2026-04-20]世上罕见的午间歌回 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vHdCBpEGH?p=3",
+  "source": "ray.js"
+},
+    {
+  "title": "カメレオン",
+  "artist": "すりぃ",
+  "collection": "【歌切】[2026-04-20]世上罕见的午间歌回 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vHdCBpEGH?p=4",
+  "source": "ray.js"
+},
+    {
+  "title": "リコレクションエンドロウル",
+  "artist": "ツミキ",
+  "collection": "【歌切】[2026-04-20]世上罕见的午间歌回 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vHdCBpEGH?p=5",
+  "source": "ray.js"
+},
+    {
+  "title": "ライカ",
+  "artist": "yamada",
+  "collection": "【歌切】[2026-04-20]世上罕见的午间歌回 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vHdCBpEGH?p=6",
+  "source": "ray.js"
+},
+    {
+  "title": "Beat Eater",
+  "artist": "ポリスピカデリー",
+  "collection": "【歌切】[2026-04-20]世上罕见的午间歌回 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vHdCBpEGH?p=7",
+  "source": "ray.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-04-20]世上罕见的午间歌回 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vHdCBpEGH?p=8",
+  "source": "ray.js"
+},
+    {
+  "title": "Rising Hope",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-04-20]世上罕见的午间歌回 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vHdCBpEGH?p=9",
+  "source": "ray.js"
+},
+    {
+  "title": "絶頂讃歌",
+  "artist": "和ぬか",
+  "collection": "【歌切】[2026-04-20]世上罕见的午间歌回 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vHdCBpEGH?p=10",
+  "source": "ray.js"
+},
+    {
+  "title": "メーベル",
+  "artist": "バルーン",
+  "collection": "【歌切】[2026-04-20]世上罕见的午间歌回 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vHdCBpEGH?p=11",
+  "source": "ray.js"
+},
+    {
+  "title": "ヒバナ",
+  "artist": "DECO*27",
+  "collection": "【歌切】[2026-04-20]世上罕见的午间歌回 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vHdCBpEGH?p=12",
+  "source": "ray.js"
+},
+    {
+  "title": "ワールド・ランプシェード",
+  "artist": "buzzG",
+  "collection": "【歌切】[2026-04-20]世上罕见的午间歌回 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vHdCBpEGH?p=13",
   "source": "ray.js"
 }
 );
