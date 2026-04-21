@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 4/21/2026, 4:09:39 PM
+// 生成时间: 4/21/2026, 5:20:16 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3003,6 +3003,166 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-04-17]你的拿手曲是？卡拉OK排名歌回👑✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1undWBpE7K?p=15",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "『推しの子(第3期)』なとり",
+  "collection": "【🍁歌切】[2026-04-21]你的名字是？演唱黑暗世界观歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1utdDBaE6M?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "アウトサイダー",
+  "artist": "Eve feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-04-21]你的名字是？演唱黑暗世界观歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1utdDBaE6M?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【🍁歌切】[2026-04-21]你的名字是？演唱黑暗世界观歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1utdDBaE6M?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "永遠のあくる日",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-04-21]你的名字是？演唱黑暗世界观歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1utdDBaE6M?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ギラギラ",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-04-21]你的名字是？演唱黑暗世界观歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1utdDBaE6M?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "隣の恋は青",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-04-21]你的名字是？演唱黑暗世界观歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1utdDBaE6M?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "モエチャッカファイア",
+  "artist": "弌誠",
+  "collection": "【🍁歌切】[2026-04-21]你的名字是？演唱黑暗世界观歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1utdDBaE6M?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "サンドリヨン",
+  "artist": "初音ミク & KAITO",
+  "collection": "【🍁歌切】[2026-04-21]你的名字是？演唱黑暗世界观歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1utdDBaE6M?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "FAKE IDOL",
+  "artist": "藍月なくる",
+  "collection": "【🍁歌切】[2026-04-21]你的名字是？演唱黑暗世界观歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1utdDBaE6M?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "パラサイトブルー",
+  "artist": "幽谷きらら",
+  "collection": "【🍁歌切】[2026-04-21]你的名字是？演唱黑暗世界观歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1utdDBaE6M?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "うらみのワルツ",
+  "artist": "kikuo",
+  "collection": "【🍁歌切】[2026-04-21]你的名字是？演唱黑暗世界观歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1utdDBaE6M?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【🍁歌切】[2026-04-21]你的名字是？演唱黑暗世界观歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1utdDBaE6M?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "怪物",
+  "artist": "YOASOBI",
+  "collection": "【🍁歌切】[2026-04-21]你的名字是？演唱黑暗世界观歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1utdDBaE6M?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ハッピーラッキーチャッピー",
+  "artist": "ano",
+  "collection": "【🍁歌切】[2026-04-21]你的名字是？演唱黑暗世界观歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1utdDBaE6M?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "きゅうくらりん",
+  "artist": "いよわ",
+  "collection": "【🍁歌切】[2026-04-21]你的名字是？演唱黑暗世界观歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1utdDBaE6M?p=15",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ずうっといっしょ",
+  "artist": "キタニタツヤ",
+  "collection": "【🍁歌切】[2026-04-21]你的名字是？演唱黑暗世界观歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1utdDBaE6M?p=16",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "天国",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍁歌切】[2026-04-21]你的名字是？演唱黑暗世界观歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1utdDBaE6M?p=17",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "クダリ",
+  "artist": "Mrs.GREENAPPLE",
+  "collection": "【🍁歌切】[2026-04-21]你的名字是？演唱黑暗世界观歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1utdDBaE6M?p=18",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "【🍁歌切】[2026-04-21]你的名字是？演唱黑暗世界观歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1utdDBaE6M?p=19",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "心のそばに",
+  "artist": "中村佳穗",
+  "collection": "【🍁歌切】[2026-04-21]你的名字是？演唱黑暗世界观歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1utdDBaE6M?p=20",
   "source": "momijimaru.js"
 }
 );

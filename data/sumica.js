@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 4/21/2026, 4:18:05 PM
+// 生成时间: 4/21/2026, 5:28:06 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1947,6 +1947,134 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-04-17]周五就是要享受才对嘛 开唱啦啊啊啊 -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16adHBKExr?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "恋人失格",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-04-21]初见朋友也请听听看🌟想和大家一起实现13000粉丝的弹唱歌回🎶 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ThdDB8ExH?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "DARMA GRAND PRIX",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-04-21]初见朋友也请听听看🌟想和大家一起实现13000粉丝的弹唱歌回🎶 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ThdDB8ExH?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "前前前世（ちょっと）",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-04-21]初见朋友也请听听看🌟想和大家一起实现13000粉丝的弹唱歌回🎶 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ThdDB8ExH?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "八月、某、月明かり",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-21]初见朋友也请听听看🌟想和大家一起实现13000粉丝的弹唱歌回🎶 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ThdDB8ExH?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "旅路（ちょっと）",
+  "artist": "藤井風",
+  "collection": "【歌切】[2026-04-21]初见朋友也请听听看🌟想和大家一起实现13000粉丝的弹唱歌回🎶 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ThdDB8ExH?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "人として",
+  "artist": "SUPER BEAVER",
+  "collection": "【歌切】[2026-04-21]初见朋友也请听听看🌟想和大家一起实现13000粉丝的弹唱歌回🎶 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ThdDB8ExH?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-04-21]初见朋友也请听听看🌟想和大家一起实现13000粉丝的弹唱歌回🎶 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ThdDB8ExH?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "千鳥",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-21]初见朋友也请听听看🌟想和大家一起实现13000粉丝的弹唱歌回🎶 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ThdDB8ExH?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "テレキャスタービーボーイ",
+  "artist": "すりぃ",
+  "collection": "【歌切】[2026-04-21]初见朋友也请听听看🌟想和大家一起实现13000粉丝的弹唱歌回🎶 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ThdDB8ExH?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "コントラスト",
+  "artist": "TOMOO",
+  "collection": "【歌切】[2026-04-21]初见朋友也请听听看🌟想和大家一起实现13000粉丝的弹唱歌回🎶 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ThdDB8ExH?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "風のゆくえ",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-04-21]初见朋友也请听听看🌟想和大家一起实现13000粉丝的弹唱歌回🎶 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ThdDB8ExH?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "ヰ世界の宝石譚",
+  "artist": "ヰ世界情緒",
+  "collection": "【歌切】[2026-04-21]初见朋友也请听听看🌟想和大家一起实现13000粉丝的弹唱歌回🎶 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ThdDB8ExH?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "さよならミッドナイト",
+  "artist": "大柴広己",
+  "collection": "【歌切】[2026-04-21]初见朋友也请听听看🌟想和大家一起实现13000粉丝的弹唱歌回🎶 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ThdDB8ExH?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "more than words",
+  "artist": "羊文学",
+  "collection": "【歌切】[2026-04-21]初见朋友也请听听看🌟想和大家一起实现13000粉丝的弹唱歌回🎶 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ThdDB8ExH?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "シアワセ",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-04-21]初见朋友也请听听看🌟想和大家一起实现13000粉丝的弹唱歌回🎶 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ThdDB8ExH?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "泣き虫上等",
+  "artist": "澄花",
+  "collection": "【歌切】[2026-04-21]初见朋友也请听听看🌟想和大家一起实现13000粉丝的弹唱歌回🎶 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ThdDB8ExH?p=16",
   "source": "sumica.js"
 }
 );
