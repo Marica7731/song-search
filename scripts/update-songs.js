@@ -69,6 +69,7 @@ const SINGER_CONFIGS = [
     { bvids: ["BV167c2znErj"], file: "shuna", alias: "朱名" },
     { bvids: ["BV1GXYFzXETo","BV1MPpUzsE1D","BV184W5zeE1Z"], file: "nayuta", alias: "nayuta" },
     { bvids: ["BV1UCkhBkEon"], file: "MunMosh", alias: "むんもっしゅ" },
+    { bvids: ["BV1NNdeBVEGd"], file: "kotatsu", alias: "KOTATSU" },
     { bvids: ["BV1kLXbBJEiZ"], file: "sumica", alias: "澄花" },
     { bvids: ["BV1KHXxBUErU","BV1iHQXBzEgU"], file: "romany", alias: "ロマニ" },
     { bvids: ["BV1eTkKYDENL"], file: "friends", alias: "联动" },
