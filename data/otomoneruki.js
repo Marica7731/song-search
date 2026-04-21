@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据 (多合集汇总)
 // 来源: BV1zzZPBsEum
-// 生成时间: 4/21/2026, 6:22:13 PM
+// 生成时间: 4/21/2026, 7:45:38 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4947,6 +4947,118 @@ window.SONG_DATA.push(
   "collection": "【👿歌切】[2026-04-16]作为广播替代的午间歌回📻🎶新朋友和老朋友都来听一首歌再走吧😈💝 Ruki Otokado 音門るき [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UkdiBREG2?p=18",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "プラネテス",
+  "artist": "seiza feat. 初音ミク",
+  "collection": "【👿歌切】[2026-04-21]ラジオ代わりの夜歌枠📻🎶深夜にギターを練習する悪魔👿💪 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MLd9BMETr?p=1",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【👿歌切】[2026-04-21]ラジオ代わりの夜歌枠📻🎶深夜にギターを練習する悪魔👿💪 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MLd9BMETr?p=2",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "夜の踊り子",
+  "artist": "サカナクション",
+  "collection": "【👿歌切】[2026-04-21]ラジオ代わりの夜歌枠📻🎶深夜にギターを練習する悪魔👿💪 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MLd9BMETr?p=3",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "三日月",
+  "artist": "絢香",
+  "collection": "【👿歌切】[2026-04-21]ラジオ代わりの夜歌枠📻🎶深夜にギターを練習する悪魔👿💪 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MLd9BMETr?p=4",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "かわいいだけじゃだめですか？",
+  "artist": "CUTIE STREET",
+  "collection": "【👿歌切】[2026-04-21]ラジオ代わりの夜歌枠📻🎶深夜にギターを練習する悪魔👿💪 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MLd9BMETr?p=5",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna",
+  "collection": "【👿歌切】[2026-04-21]ラジオ代わりの夜歌枠📻🎶深夜にギターを練習する悪魔👿💪 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MLd9BMETr?p=6",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【👿歌切】[2026-04-21]ラジオ代わりの夜歌枠📻🎶深夜にギターを練習する悪魔👿💪 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MLd9BMETr?p=7",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "【👿歌切】[2026-04-21]ラジオ代わりの夜歌枠📻🎶深夜にギターを練習する悪魔👿💪 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MLd9BMETr?p=8",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ケセラセラ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【👿歌切】[2026-04-21]ラジオ代わりの夜歌枠📻🎶深夜にギターを練習する悪魔👿💪 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MLd9BMETr?p=9",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "夜のあと",
+  "artist": "adieu",
+  "collection": "【👿歌切】[2026-04-21]ラジオ代わりの夜歌枠📻🎶深夜にギターを練習する悪魔👿💪 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MLd9BMETr?p=10",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "【👿歌切】[2026-04-21]ラジオ代わりの夜歌枠📻🎶深夜にギターを練習する悪魔👿💪 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MLd9BMETr?p=11",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ジョバイロ",
+  "artist": "ポルノグラフィティ",
+  "collection": "【👿歌切】[2026-04-21]ラジオ代わりの夜歌枠📻🎶深夜にギターを練習する悪魔👿💪 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MLd9BMETr?p=12",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "カルマ",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【👿歌切】[2026-04-21]ラジオ代わりの夜歌枠📻🎶深夜にギターを練習する悪魔👿💪 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MLd9BMETr?p=13",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "瞬き",
+  "artist": "back number",
+  "collection": "【👿歌切】[2026-04-21]ラジオ代わりの夜歌枠📻🎶深夜にギターを練習する悪魔👿💪 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MLd9BMETr?p=14",
   "source": "otomoneruki.js"
 }
 );

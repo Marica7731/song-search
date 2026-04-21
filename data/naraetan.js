@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 4/21/2026, 6:18:45 PM
+// 生成时间: 4/21/2026, 7:42:58 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7483,6 +7483,118 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-04-20]🥳なれたん的首次生日倒计时 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18GdkB6E7p?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ハッピーシンセサイザ",
+  "artist": "EasyPop",
+  "collection": "【歌切】[2026-04-21]生日纪念！新模型发布+通知🎈🎉 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oZdXBUEJS?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "踊れオーケストラ",
+  "artist": "YASUHIRO(康寛)",
+  "collection": "【歌切】[2026-04-21]生日纪念！新模型发布+通知🎈🎉 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oZdXBUEJS?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Q&A リサイタル！",
+  "artist": "戸松遥",
+  "collection": "【歌切】[2026-04-21]生日纪念！新模型发布+通知🎈🎉 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oZdXBUEJS?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "シリウス",
+  "artist": "藍井エイル",
+  "collection": "【歌切】[2026-04-21]生日纪念！新模型发布+通知🎈🎉 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oZdXBUEJS?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "浪漫飛行",
+  "artist": "米米CLUB",
+  "collection": "【歌切】[2026-04-21]生日纪念！新模型发布+通知🎈🎉 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oZdXBUEJS?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "冒険彗星",
+  "artist": "榎本くるみ",
+  "collection": "【歌切】[2026-04-21]生日纪念！新模型发布+通知🎈🎉 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oZdXBUEJS?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "U&I",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-04-21]生日纪念！新模型发布+通知🎈🎉 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oZdXBUEJS?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夢ノカケラ",
+  "artist": "AAA",
+  "collection": "【歌切】[2026-04-21]生日纪念！新模型发布+通知🎈🎉 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oZdXBUEJS?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Letters to ME",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-04-21]生日纪念！新模型发布+通知🎈🎉 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oZdXBUEJS?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "uni-verse",
+  "artist": "オーイシマサヨシ",
+  "collection": "【歌切】[2026-04-21]生日纪念！新模型发布+通知🎈🎉 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oZdXBUEJS?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ダダダダ天使",
+  "artist": "ナナヲアカリ",
+  "collection": "【歌切】[2026-04-21]生日纪念！新模型发布+通知🎈🎉 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oZdXBUEJS?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Happy Birthday to You",
+  "artist": "Kwon Jin-won",
+  "collection": "【歌切】[2026-04-21]生日纪念！新模型发布+通知🎈🎉 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oZdXBUEJS?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "I'm so Happy",
+  "artist": "Janne Da Arc",
+  "collection": "【歌切】[2026-04-21]生日纪念！新模型发布+通知🎈🎉 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oZdXBUEJS?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "生きるよすが",
+  "artist": "月詠み",
+  "collection": "【歌切】[2026-04-21]生日纪念！新模型发布+通知🎈🎉 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oZdXBUEJS?p=14",
   "source": "naraetan.js"
 },
     {
