@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 4/22/2026, 6:05:02 PM
+// 生成时间: 4/22/2026, 6:24:14 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -20715,6 +20715,110 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】[2026-04-18]午后时光来一曲如何？  稀羽すう - Suu Usuwa -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JEdsBkEeo?p=15",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "SAKURA",
+  "artist": "いきものがかり",
+  "collection": "【🦢歌切】#141 [2026-04-22]水曜日定期歌回！樱花很好呢 - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YbobBLEMn?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "冒険でしょでしょ",
+  "artist": "平野綾",
+  "collection": "【🦢歌切】#141 [2026-04-22]水曜日定期歌回！樱花很好呢 - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YbobBLEMn?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ハレ晴レユカイ",
+  "artist": "涼宮ハルヒ、 朝比奈 みくる、 長門有希",
+  "collection": "【🦢歌切】#141 [2026-04-22]水曜日定期歌回！樱花很好呢 - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YbobBLEMn?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【🦢歌切】#141 [2026-04-22]水曜日定期歌回！樱花很好呢 - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YbobBLEMn?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "キミの記憶",
+  "artist": "川村ゆみ",
+  "collection": "【🦢歌切】#141 [2026-04-22]水曜日定期歌回！樱花很好呢 - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YbobBLEMn?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "アポリア",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】#141 [2026-04-22]水曜日定期歌回！樱花很好呢 - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YbobBLEMn?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【🦢歌切】#141 [2026-04-22]水曜日定期歌回！樱花很好呢 - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YbobBLEMn?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ヴィーナスとジーザス",
+  "artist": "やくしまるえつこ",
+  "collection": "【🦢歌切】#141 [2026-04-22]水曜日定期歌回！樱花很好呢 - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YbobBLEMn?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "少年よ我に帰れ",
+  "artist": "やくしまるえつこメトロオーケストラ",
+  "collection": "【🦢歌切】#141 [2026-04-22]水曜日定期歌回！樱花很好呢 - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YbobBLEMn?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "パート・オブ・ユア・ワールド",
+  "artist": "From リトル・マーメイド",
+  "collection": "【🦢歌切】#141 [2026-04-22]水曜日定期歌回！樱花很好呢 - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YbobBLEMn?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "忘れてやらない",
+  "artist": "結束バンド",
+  "collection": "【🦢歌切】#141 [2026-04-22]水曜日定期歌回！樱花很好呢 - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YbobBLEMn?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【🦢歌切】#141 [2026-04-22]水曜日定期歌回！樱花很好呢 - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YbobBLEMn?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "空も飛べるはず",
+  "artist": "スピッツ",
+  "collection": "【🦢歌切】#141 [2026-04-22]水曜日定期歌回！樱花很好呢 - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YbobBLEMn?p=13",
   "source": "suu_usuwa.js"
 }
 );

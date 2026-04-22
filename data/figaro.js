@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 4/22/2026, 6:04:12 PM
+// 生成时间: 4/22/2026, 6:23:22 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -29611,6 +29611,142 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】#264 [2026-04-19]睡眠导入歌回✨安眠前的放松时间请享用🌙 Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1buocBsEAr?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "放送室",
+  "artist": "星街すいせい",
+  "collection": "【💐歌切】[2026-04-22]不错的夜晚！🎉 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138obByEdQ?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【💐歌切】[2026-04-22]不错的夜晚！🎉 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138obByEdQ?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "ラブ＆デストロイ",
+  "artist": "YUUKI MIYAKE feat. GUMI",
+  "collection": "【💐歌切】[2026-04-22]不错的夜晚！🎉 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138obByEdQ?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "シンデレラ",
+  "artist": "DECO*27",
+  "collection": "【💐歌切】[2026-04-22]不错的夜晚！🎉 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138obByEdQ?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "愛のけだもの",
+  "artist": "神はサイコロを振らない × キタニタツヤ",
+  "collection": "【💐歌切】[2026-04-22]不错的夜晚！🎉 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138obByEdQ?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "ナイトルーティーン",
+  "artist": "キタニタツヤ",
+  "collection": "【💐歌切】[2026-04-22]不错的夜晚！🎉 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138obByEdQ?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "絶頂讃歌",
+  "artist": "和ぬか",
+  "collection": "【💐歌切】[2026-04-22]不错的夜晚！🎉 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138obByEdQ?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "メフィスト",
+  "artist": "女王蜂",
+  "collection": "【💐歌切】[2026-04-22]不错的夜晚！🎉 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138obByEdQ?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "SUN",
+  "artist": "星野源",
+  "collection": "【💐歌切】[2026-04-22]不错的夜晚！🎉 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138obByEdQ?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "泥中に咲く",
+  "artist": "ウォルピスカーター",
+  "collection": "【💐歌切】[2026-04-22]不错的夜晚！🎉 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138obByEdQ?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "アンインストール",
+  "artist": "石川智晶",
+  "collection": "【💐歌切】[2026-04-22]不错的夜晚！🎉 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138obByEdQ?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "さみしいひと",
+  "artist": "理芽",
+  "collection": "【💐歌切】[2026-04-22]不错的夜晚！🎉 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138obByEdQ?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "アンノウン・マザーグース",
+  "artist": "wowaka",
+  "collection": "【💐歌切】[2026-04-22]不错的夜晚！🎉 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138obByEdQ?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "シュガーコート",
+  "artist": "ダズビー",
+  "collection": "【💐歌切】[2026-04-22]不错的夜晚！🎉 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138obByEdQ?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "カガリビト",
+  "artist": "millstones",
+  "collection": "【💐歌切】[2026-04-22]不错的夜晚！🎉 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138obByEdQ?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【💐歌切】[2026-04-22]不错的夜晚！🎉 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138obByEdQ?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "世界五分前仮説",
+  "artist": "有形ランペイジ",
+  "collection": "【💐歌切】[2026-04-22]不错的夜晚！🎉 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138obByEdQ?p=17",
   "source": "figaro.js"
 }
 );

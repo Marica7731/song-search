@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 4/22/2026, 6:09:59 PM
+// 生成时间: 4/22/2026, 6:29:22 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1311,7 +1311,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "炎と森のカーニバル",
-  "artist": "SEKAINOOWARI",
+  "artist": "SEKAI NO OWARI",
   "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=30",

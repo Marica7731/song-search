@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1eTkKYDENL
-// 生成时间: 4/22/2026, 6:11:56 PM
+// 生成时间: 4/22/2026, 6:30:23 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -159,7 +159,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "残酷な天使のテーゼ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "高橋洋子",
   "collection": "【5首 联动】【 稀羽すう/夢川かなう/シエル 】3D歌枠コラボ - CONNECT_Vが繋いだ絆編 - 01. 残酷な天使のテーゼ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Du4m1g7sx?p=1",
@@ -167,7 +167,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "悪魔の子",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "ヒグチアイ",
   "collection": "【5首 联动】【 稀羽すう/夢川かなう/シエル 】3D歌枠コラボ - CONNECT_Vが繋いだ絆編 - 01. 残酷な天使のテーゼ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Du4m1g7sx?p=2",
@@ -175,7 +175,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "晩餐歌",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "tuki.",
   "collection": "【5首 联动】【 稀羽すう/夢川かなう/シエル 】3D歌枠コラボ - CONNECT_Vが繋いだ絆編 - 01. 残酷な天使のテーゼ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Du4m1g7sx?p=3",
@@ -183,7 +183,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "貴方の恋人になりたい",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "チョーキューメイ",
   "collection": "【5首 联动】【 稀羽すう/夢川かなう/シエル 】3D歌枠コラボ - CONNECT_Vが繋いだ絆編 - 01. 残酷な天使のテーゼ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Du4m1g7sx?p=4",
@@ -191,7 +191,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "創生のアクエリオン",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "AKINO",
   "collection": "【5首 联动】【 稀羽すう/夢川かなう/シエル 】3D歌枠コラボ - CONNECT_Vが繋いだ絆編 - 01. 残酷な天使のテーゼ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Du4m1g7sx?p=5",
@@ -199,7 +199,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "青春アミーゴ",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "修二と彰",
   "collection": "【稀羽すう 3首】【まこうすわ2】🎉まこうすわ2周年纪念直播🎊 聊天和唱歌来庆祝吧！3. KICK BACK",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qz421o78z?p=1",
@@ -207,7 +207,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "SWEET MEMORIES",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "松田聖子",
   "collection": "【稀羽すう 3首】【まこうすわ2】🎉まこうすわ2周年纪念直播🎊 聊天和唱歌来庆祝吧！3. KICK BACK",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qz421o78z?p=2",
@@ -215,7 +215,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "KICK BACK",
-  "artist": "来源处未提供标准格式歌手",
+  "artist": "米津玄師",
   "collection": "【稀羽すう 3首】【まこうすわ2】🎉まこうすわ2周年纪念直播🎊 聊天和唱歌来庆祝吧！3. KICK BACK",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qz421o78z?p=3",
@@ -782,51 +782,11 @@ window.SONG_DATA.push(
   "source": "friends.js"
 },
     {
-  "title": "さよならミッドナイト",
-  "artist": "大柴広己",
+  "title": "ライオン",
+  "artist": "May'n & 中島愛",
   "collection": "皇美緒奈 × Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZgqiYaEDv?p=1",
-  "source": "friends.js"
-},
-    {
-  "title": "Alice",
-  "artist": "古川本舗",
-  "collection": "皇美緒奈 × Figaro",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZgqiYaEDv?p=2",
-  "source": "friends.js"
-},
-    {
-  "title": "Eyes on Me",
-  "artist": "王菲",
-  "collection": "皇美緒奈 × Figaro",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZgqiYaEDv?p=3",
-  "source": "friends.js"
-},
-    {
-  "title": "それがあなたの幸せとしても",
-  "artist": "Heavenz",
-  "collection": "皇美緒奈 × Figaro",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZgqiYaEDv?p=4",
-  "source": "friends.js"
-},
-    {
-  "title": "rain stops, good-bye",
-  "artist": "におP",
-  "collection": "皇美緒奈 × Figaro",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZgqiYaEDv?p=5",
-  "source": "friends.js"
-},
-    {
-  "title": "からくりピエロ",
-  "artist": "40メートルP",
-  "collection": "皇美緒奈 × Figaro",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZgqiYaEDv?p=6",
   "source": "friends.js"
 },
     {
@@ -834,12 +794,52 @@ window.SONG_DATA.push(
   "artist": "ワルキューレ",
   "collection": "皇美緒奈 × Figaro",
   "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZgqiYaEDv?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40メートルP",
+  "collection": "皇美緒奈 × Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZgqiYaEDv?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "rain stops, good-bye",
+  "artist": "におP",
+  "collection": "皇美緒奈 × Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZgqiYaEDv?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "それがあなたの幸せとしても",
+  "artist": "Heavenz",
+  "collection": "皇美緒奈 × Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZgqiYaEDv?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "Eyes on Me",
+  "artist": "王菲",
+  "collection": "皇美緒奈 × Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZgqiYaEDv?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "Alice",
+  "artist": "古川本舗",
+  "collection": "皇美緒奈 × Figaro",
+  "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZgqiYaEDv?p=7",
   "source": "friends.js"
 },
     {
-  "title": "ライオン",
-  "artist": "May'n & 中島愛",
+  "title": "さよならミッドナイト",
+  "artist": "大柴広己",
   "collection": "皇美緒奈 × Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZgqiYaEDv?p=8",
