@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 4/22/2026, 6:29:22 PM
+// 生成时间: 4/22/2026, 6:49:45 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1087,7 +1087,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "tomorrow",
-  "artist": "はる こたつぶとん倶楽部♧",
+  "artist": "MOROHA",
   "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=2",
@@ -1119,15 +1119,15 @@ window.SONG_DATA.push(
 },
     {
   "title": "千年幸福論",
-  "artist": "はる こたつぶとん倶楽部♧",
+  "artist": "amazarashi",
   "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=6",
   "source": "kotatsu.js"
 },
     {
-  "title": "どっきはごめんね、ありがとう",
-  "artist": "はる こたつぶとん倶楽部♧",
+  "title": "さっきはごめんね、ありがとう",
+  "artist": "クリープハイプ",
   "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=7",
@@ -1135,7 +1135,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "青空",
-  "artist": "はる こたつぶとん倶楽部♧",
+  "artist": "THE BLUE HEARTS",
   "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=8",
@@ -1191,7 +1191,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "深夜高速",
-  "artist": "阿部真央",
+  "artist": "フラワーカンパニーズ",
   "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=15",
@@ -1206,8 +1206,8 @@ window.SONG_DATA.push(
   "source": "kotatsu.js"
 },
     {
-  "title": "冬へと走り出すお！",
-  "artist": "はる こたつぶとん倶楽部♧",
+  "title": "冬へと走りだすお！",
+  "artist": "でんぱ組.inc",
   "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=17",
@@ -1215,7 +1215,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ラブソング",
-  "artist": "サンボマスター",
+  "artist": "はる こたつぶとん倶楽部♧",
   "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=18",
@@ -1287,7 +1287,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ね。",
-  "artist": "はる こたつぶとん俱楽部♧",
+  "artist": "3markets",
   "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=27",
@@ -1327,7 +1327,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "知らんけど。",
-  "artist": "はる こたつぶとん俱楽部♧",
+  "artist": "はる こたつぶとん倶楽部♧",
   "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=32",
@@ -1343,7 +1343,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "いつか",
-  "artist": "はるこたつぶとん倶楽部♧",
+  "artist": "はる こたつぶとん倶楽部♧",
   "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=34",
