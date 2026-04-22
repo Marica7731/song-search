@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1eTkKYDENL
-// 生成时间: 4/22/2026, 5:31:12 PM
+// 生成时间: 4/22/2026, 5:51:59 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1307,6 +1307,70 @@ window.SONG_DATA.push(
   "collection": "2026-04-01 联动歌切 神秘嘉宾是谁？！愚人节特别歌回 ✧凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1269JBNEQy?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "ころしちゃった!",
+  "artist": "夏山よつぎ",
+  "collection": "联动歌切 藤音カナデ❌紅葉丸 2026-04-22 偶尔展现出各种不同面貌的两个人，也挺好的。 藤音カナデ-Fujioto Kanade-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1biobB6Ei7?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "联动歌切 藤音カナデ❌紅葉丸 2026-04-22 偶尔展现出各种不同面貌的两个人，也挺好的。 藤音カナデ-Fujioto Kanade-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1biobB6Ei7?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "Ready Steady",
+  "artist": "Giga",
+  "collection": "联动歌切 藤音カナデ❌紅葉丸 2026-04-22 偶尔展现出各种不同面貌的两个人，也挺好的。 藤音カナデ-Fujioto Kanade-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1biobB6Ei7?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "Beyond the way",
+  "artist": "Giga",
+  "collection": "联动歌切 藤音カナデ❌紅葉丸 2026-04-22 偶尔展现出各种不同面貌的两个人，也挺好的。 藤音カナデ-Fujioto Kanade-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1biobB6Ei7?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "閃光花",
+  "artist": "Penthouse",
+  "collection": "联动歌切 藤音カナデ❌紅葉丸 2026-04-22 偶尔展现出各种不同面貌的两个人，也挺好的。 藤音カナデ-Fujioto Kanade-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1biobB6Ei7?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "青く在れ",
+  "artist": "Penthouse",
+  "collection": "联动歌切 藤音カナデ❌紅葉丸 2026-04-22 偶尔展现出各种不同面貌的两个人，也挺好的。 藤音カナデ-Fujioto Kanade-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1biobB6Ei7?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "パラサイトブルー",
+  "artist": "幽谷きらら",
+  "collection": "联动歌切 藤音カナデ❌紅葉丸 2026-04-22 偶尔展现出各种不同面貌的两个人，也挺好的。 藤音カナデ-Fujioto Kanade-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1biobB6Ei7?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "春を待つ",
+  "artist": "Islet",
+  "collection": "联动歌切 藤音カナデ❌紅葉丸 2026-04-22 偶尔展现出各种不同面貌的两个人，也挺好的。 藤音カナデ-Fujioto Kanade-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1biobB6Ei7?p=8",
   "source": "friends.js"
 }
 );

@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 4/22/2026, 5:29:58 PM
+// 生成时间: 4/22/2026, 5:50:40 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -814,7 +814,7 @@ window.SONG_DATA.push(
   "source": "kotatsu.js"
 },
     {
-  "title": "サイダーのように言葉が沸き上がる",
+  "title": "サイダーのように言葉が湧き上がる",
   "artist": "never young beach",
   "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
   "up": "前尘往事如昔故",

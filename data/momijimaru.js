@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 4/22/2026, 5:22:56 PM
+// 生成时间: 4/22/2026, 5:42:34 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3163,6 +3163,54 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-04-21]你的名字是？演唱黑暗世界观歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1utdDBaE6M?p=20",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ガランド",
+  "artist": "ピコン",
+  "collection": "【🍁歌切】[2026-04-22]今天早餐愉快吗!! 放松闲聊&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JjobBWEqP?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【🍁歌切】[2026-04-22]今天早餐愉快吗!! 放松闲聊&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JjobBWEqP?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【🍁歌切】[2026-04-22]今天早餐愉快吗!! 放松闲聊&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JjobBWEqP?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "にぎにぎにじたうん！",
+  "artist": "にじさんじ/周央サンゴ",
+  "collection": "【🍁歌切】[2026-04-22]今天早餐愉快吗!! 放松闲聊&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JjobBWEqP?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "愛包ダンスホール",
+  "artist": "HIMEHINA",
+  "collection": "【🍁歌切】[2026-04-22]今天早餐愉快吗!! 放松闲聊&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JjobBWEqP?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ダンスホール",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍁歌切】[2026-04-22]今天早餐愉快吗!! 放松闲聊&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JjobBWEqP?p=6",
   "source": "momijimaru.js"
 }
 );
