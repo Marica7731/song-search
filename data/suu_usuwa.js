@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 4/22/2026, 6:44:35 PM
+// 生成时间: 4/22/2026, 7:04:13 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -11971,78 +11971,6 @@ window.SONG_DATA.push(
   "collection": "【稀羽すう - Suu Usuwa -】 水曜定期歌枠 #103   (告知！！！🦢🎹🐺3D联动)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14CZPYVEs2?p=14",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ダンスホール",
-  "artist": "Mrs. GREEN APPLE",
-  "collection": "【 #るるすうセイ 】🎤 3D 卡拉 OK 合作🌸 【 稀羽すう/橙里セイ/陽月るるふ 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1z3ZCYqEGH?p=1",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "CLEAR",
-  "artist": "坂本真綾",
-  "collection": "【 #るるすうセイ 】🎤 3D 卡拉 OK 合作🌸 【 稀羽すう/橙里セイ/陽月るるふ 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1z3ZCYqEGH?p=2",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "星座になれたら",
-  "artist": "結束バンド",
-  "collection": "【 #るるすうセイ 】🎤 3D 卡拉 OK 合作🌸 【 稀羽すう/橙里セイ/陽月るるふ 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1z3ZCYqEGH?p=3",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "斜陽",
-  "artist": "ヨルシカ",
-  "collection": "【 #るるすうセイ 】🎤 3D 卡拉 OK 合作🌸 【 稀羽すう/橙里セイ/陽月るるふ 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1z3ZCYqEGH?p=4",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ひまわりの約束",
-  "artist": "秦基博",
-  "collection": "【 #るるすうセイ 】🎤 3D 卡拉 OK 合作🌸 【 稀羽すう/橙里セイ/陽月るるふ 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1z3ZCYqEGH?p=5",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "星が瞬くこんな夜に",
-  "artist": "Supercell",
-  "collection": "【 #るるすうセイ 】🎤 3D 卡拉 OK 合作🌸 【 稀羽すう/橙里セイ/陽月るるふ 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1z3ZCYqEGH?p=6",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "さよーならまたいつか！",
-  "artist": "米津玄師",
-  "collection": "【 #るるすうセイ 】🎤 3D 卡拉 OK 合作🌸 【 稀羽すう/橙里セイ/陽月るるふ 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1z3ZCYqEGH?p=7",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "フリージア",
-  "artist": "Uru",
-  "collection": "【 #るるすうセイ 】🎤 3D 卡拉 OK 合作🌸 【 稀羽すう/橙里セイ/陽月るるふ 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1z3ZCYqEGH?p=8",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "Mela!",
-  "artist": "緑黄色社会",
-  "collection": "【 #るるすうセイ 】🎤 3D 卡拉 OK 合作🌸 【 稀羽すう/橙里セイ/陽月るるふ 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1z3ZCYqEGH?p=9",
   "source": "suu_usuwa.js"
 },
     {
