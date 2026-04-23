@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 4/23/2026, 3:42:22 PM
+// 生成时间: 4/23/2026, 4:01:56 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3211,6 +3211,78 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-04-22]今天早餐愉快吗!! 放松闲聊&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JjobBWEqP?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "想像フォレスト",
+  "artist": "じん",
+  "collection": "【🍁歌切】[2026-04-23]早上一起听歌聊天怎么样!! 悠闲聊天和歌回🍁✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZsogBNE7J?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "青く在れ",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-04-23]早上一起听歌聊天怎么样!! 悠闲聊天和歌回🍁✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZsogBNE7J?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "隣の恋は青",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-04-23]早上一起听歌聊天怎么样!! 悠闲聊天和歌回🍁✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZsogBNE7J?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍁歌切】[2026-04-23]早上一起听歌聊天怎么样!! 悠闲聊天和歌回🍁✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZsogBNE7J?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍁歌切】[2026-04-23]早上一起听歌聊天怎么样!! 悠闲聊天和歌回🍁✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZsogBNE7J?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ようかい体操第一",
+  "artist": "Dream5",
+  "collection": "【🍁歌切】[2026-04-23]早上一起听歌聊天怎么样!! 悠闲聊天和歌回🍁✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZsogBNE7J?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "鬼ノ宴",
+  "artist": "友成空",
+  "collection": "【🍁歌切】[2026-04-23]早上一起听歌聊天怎么样!! 悠闲聊天和歌回🍁✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZsogBNE7J?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "百鬼祭",
+  "artist": "kanaria feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-04-23]早上一起听歌聊天怎么样!! 悠闲聊天和歌回🍁✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZsogBNE7J?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "絶頂讃歌",
+  "artist": "和ぬか",
+  "collection": "【🍁歌切】[2026-04-23]早上一起听歌聊天怎么样!! 悠闲聊天和歌回🍁✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZsogBNE7J?p=9",
   "source": "momijimaru.js"
 }
 );
