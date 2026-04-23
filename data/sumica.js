@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 4/23/2026, 1:50:48 AM
+// 生成时间: 4/23/2026, 2:12:17 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2075,6 +2075,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-04-21]初见朋友也请听听看🌟想和大家一起实现13000粉丝的弹唱歌回🎶 -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ThdDB8ExH?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-23]一日のスイッチを入れたい☀️ガチ寝起きでも歌うわよ～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nXobBfE8e?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-04-23]一日のスイッチを入れたい☀️ガチ寝起きでも歌うわよ～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nXobBfE8e?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "蝶々結び",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-04-23]一日のスイッチを入れたい☀️ガチ寝起きでも歌うわよ～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nXobBfE8e?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-04-23]一日のスイッチを入れたい☀️ガチ寝起きでも歌うわよ～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nXobBfE8e?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "奏",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-04-23]一日のスイッチを入れたい☀️ガチ寝起きでも歌うわよ～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nXobBfE8e?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【歌切】[2026-04-23]一日のスイッチを入れたい☀️ガチ寝起きでも歌うわよ～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nXobBfE8e?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "【歌切】[2026-04-23]一日のスイッチを入れたい☀️ガチ寝起きでも歌うわよ～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nXobBfE8e?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "ノスタルジックレインフォール",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【歌切】[2026-04-23]一日のスイッチを入れたい☀️ガチ寝起きでも歌うわよ～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nXobBfE8e?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-04-23]一日のスイッチを入れたい☀️ガチ寝起きでも歌うわよ～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nXobBfE8e?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-23]一日のスイッチを入れたい☀️ガチ寝起きでも歌うわよ～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nXobBfE8e?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "きにぴ",
+  "artist": "澄花",
+  "collection": "【歌切】[2026-04-23]一日のスイッチを入れたい☀️ガチ寝起きでも歌うわよ～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nXobBfE8e?p=11",
   "source": "sumica.js"
 }
 );
