@@ -1,6 +1,6 @@
 // ロマニ - 歌单数据 (多合集汇总)
 // 来源: BV1KHXxBUErU, BV1iHQXBzEgU
-// 生成时间: 4/23/2026, 6:49:51 PM
+// 生成时间: 4/23/2026, 7:10:43 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1099,6 +1099,206 @@ window.SONG_DATA.push(
   "collection": "【ロマニ🎸弾き語り歌切】[2026-04-19]周日歌回！✦一起悠闲听歌弹吉他🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xgocB9EBA?p=12",
+  "source": "romany.js"
+},
+    {
+  "title": "ずうっといっしょ！",
+  "artist": "キタニタツヤ",
+  "collection": "【ロマニ歌切】[2026-04-23]我想要唱歌⚡── ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15DouBbEt1?p=1",
+  "source": "romany.js"
+},
+    {
+  "title": "怪物",
+  "artist": "YOASOBI",
+  "collection": "【ロマニ歌切】[2026-04-23]我想要唱歌⚡── ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15DouBbEt1?p=2",
+  "source": "romany.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "Doriko",
+  "collection": "【ロマニ歌切】[2026-04-23]我想要唱歌⚡── ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15DouBbEt1?p=3",
+  "source": "romany.js"
+},
+    {
+  "title": "モエチャッカファイア",
+  "artist": "弌誠",
+  "collection": "【ロマニ歌切】[2026-04-23]我想要唱歌⚡── ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15DouBbEt1?p=4",
+  "source": "romany.js"
+},
+    {
+  "title": "Los! Los! Los!",
+  "artist": "ターニャ・デグレチャフ(悠木碧)",
+  "collection": "【ロマニ歌切】[2026-04-23]我想要唱歌⚡── ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15DouBbEt1?p=5",
+  "source": "romany.js"
+},
+    {
+  "title": "レイメイ",
+  "artist": "さユり×MY FIRST STORY",
+  "collection": "【ロマニ歌切】[2026-04-23]我想要唱歌⚡── ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15DouBbEt1?p=6",
+  "source": "romany.js"
+},
+    {
+  "title": "アンビバレント",
+  "artist": "Uru",
+  "collection": "【ロマニ歌切】[2026-04-23]我想要唱歌⚡── ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15DouBbEt1?p=7",
+  "source": "romany.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "【ロマニ歌切】[2026-04-23]我想要唱歌⚡── ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15DouBbEt1?p=8",
+  "source": "romany.js"
+},
+    {
+  "title": "群青",
+  "artist": "YOASOBI",
+  "collection": "【ロマニ歌切】[2026-04-23]我想要唱歌⚡── ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15DouBbEt1?p=9",
+  "source": "romany.js"
+},
+    {
+  "title": "ミッドナイト・リフレクション",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【ロマニ歌切】[2026-04-23]我想要唱歌⚡── ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15DouBbEt1?p=10",
+  "source": "romany.js"
+},
+    {
+  "title": "テルミーアレクサ",
+  "artist": "ロマニードットアイオー",
+  "collection": "【ロマニ歌切】[2026-04-23]我想要唱歌⚡── ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15DouBbEt1?p=11",
+  "source": "romany.js"
+},
+    {
+  "title": "永遠のあくる日",
+  "artist": "Ado",
+  "collection": "【ロマニ歌切】[2026-04-23]我想要唱歌⚡── ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15DouBbEt1?p=12",
+  "source": "romany.js"
+},
+    {
+  "title": "ソワレ",
+  "artist": "星街すいせい",
+  "collection": "【ロマニ歌切】[2026-04-23]我想要唱歌⚡── ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15DouBbEt1?p=13",
+  "source": "romany.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "TOKOTOKO(西沢さんP)",
+  "collection": "【ロマニ歌切】[2026-04-23]我想要唱歌⚡── ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15DouBbEt1?p=14",
+  "source": "romany.js"
+},
+    {
+  "title": "GG",
+  "artist": "ReoNa",
+  "collection": "【ロマニ歌切】[2026-04-23]我想要唱歌⚡── ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15DouBbEt1?p=15",
+  "source": "romany.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "【ロマニ歌切】[2026-04-23]我想要唱歌⚡── ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15DouBbEt1?p=16",
+  "source": "romany.js"
+},
+    {
+  "title": "Ⅲ",
+  "artist": "宝鐘マリン & Kobo Kanaeru",
+  "collection": "【ロマニ歌切】[2026-04-23]我想要唱歌⚡── ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15DouBbEt1?p=17",
+  "source": "romany.js"
+},
+    {
+  "title": "トウキョウ・シャンディ・ランデヴ",
+  "artist": "MAISONdes",
+  "collection": "【ロマニ歌切】[2026-04-23]我想要唱歌⚡── ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15DouBbEt1?p=18",
+  "source": "romany.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "【ロマニ歌切】[2026-04-23]我想要唱歌⚡── ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15DouBbEt1?p=19",
+  "source": "romany.js"
+},
+    {
+  "title": "炎",
+  "artist": "LiSA",
+  "collection": "【ロマニ歌切】[2026-04-23]我想要唱歌⚡── ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15DouBbEt1?p=20",
+  "source": "romany.js"
+},
+    {
+  "title": "カワキヲアメク",
+  "artist": "美波",
+  "collection": "【ロマニ歌切】[2026-04-23]我想要唱歌⚡── ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15DouBbEt1?p=21",
+  "source": "romany.js"
+},
+    {
+  "title": "U",
+  "artist": "millennium parade×Belle",
+  "collection": "【ロマニ歌切】[2026-04-23]我想要唱歌⚡── ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15DouBbEt1?p=22",
+  "source": "romany.js"
+},
+    {
+  "title": "KING",
+  "artist": "Kanaria",
+  "collection": "【ロマニ歌切】[2026-04-23]我想要唱歌⚡── ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15DouBbEt1?p=23",
+  "source": "romany.js"
+},
+    {
+  "title": "再起動",
+  "artist": "ロマニードットアイオー",
+  "collection": "【ロマニ歌切】[2026-04-23]我想要唱歌⚡── ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15DouBbEt1?p=24",
+  "source": "romany.js"
+},
+    {
+  "title": "ラブドリ！",
+  "artist": "ロマニードットアイオー",
+  "collection": "【ロマニ歌切】[2026-04-23]我想要唱歌⚡── ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15DouBbEt1?p=25",
   "source": "romany.js"
 }
 );

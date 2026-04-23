@@ -1,6 +1,6 @@
 // 天ノ譜ステラ - 歌单数据 (多合集汇总)
 // 来源: BV1MEP8z4E1J
-// 生成时间: 4/23/2026, 6:46:52 PM
+// 生成时间: 4/23/2026, 7:07:03 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1659,6 +1659,30 @@ window.SONG_DATA.push(
   "collection": "【 🍚💫歌切】[2026-04-02]✨星期四22点定期歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tb9PBtEuf?p=6",
+  "source": "stella.js"
+},
+    {
+  "title": "怪物",
+  "artist": "YOASOBI",
+  "collection": "【 🍚💫歌切】天ノ譜ステラ[2026-04-23]星期四定期直播 天ノ譜ステラ Stella Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LDouBbEU1?p=1",
+  "source": "stella.js"
+},
+    {
+  "title": "香水",
+  "artist": "瑛人",
+  "collection": "【 🍚💫歌切】天ノ譜ステラ[2026-04-23]星期四定期直播 天ノ譜ステラ Stella Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LDouBbEU1?p=2",
+  "source": "stella.js"
+},
+    {
+  "title": "曖昧劣情Lover",
+  "artist": "koyori feat. v flower",
+  "collection": "【 🍚💫歌切】天ノ譜ステラ[2026-04-23]星期四定期直播 天ノ譜ステラ Stella Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LDouBbEU1?p=3",
   "source": "stella.js"
 }
 );
