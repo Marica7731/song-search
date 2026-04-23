@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 4/23/2026, 4:03:56 PM
+// 生成时间: 4/23/2026, 4:45:02 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -20747,6 +20747,190 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】#141 [2026-04-22]水曜日定期歌回！樱花很好呢 - Suu Usuwa -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YbobBLEMn?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】[2026-04-23]作业用BGM歌回！配合番茄钟计时，希望也能成为你工作的陪伴～ 稀羽すう - Suu Usuwa",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJogBzE9V?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【🦢歌切】[2026-04-23]作业用BGM歌回！配合番茄钟计时，希望也能成为你工作的陪伴～ 稀羽すう - Suu Usuwa",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJogBzE9V?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "SUN",
+  "artist": "星野源",
+  "collection": "【🦢歌切】[2026-04-23]作业用BGM歌回！配合番茄钟计时，希望也能成为你工作的陪伴～ 稀羽すう - Suu Usuwa",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJogBzE9V?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【🦢歌切】[2026-04-23]作业用BGM歌回！配合番茄钟计时，希望也能成为你工作的陪伴～ 稀羽すう - Suu Usuwa",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJogBzE9V?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【🦢歌切】[2026-04-23]作业用BGM歌回！配合番茄钟计时，希望也能成为你工作的陪伴～ 稀羽すう - Suu Usuwa",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJogBzE9V?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "思い出とペトリコール",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】[2026-04-23]作业用BGM歌回！配合番茄钟计时，希望也能成为你工作的陪伴～ 稀羽すう - Suu Usuwa",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJogBzE9V?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "(恋は)百年戦争",
+  "artist": "相対性理論",
+  "collection": "【🦢歌切】[2026-04-23]作业用BGM歌回！配合番茄钟计时，希望也能成为你工作的陪伴～ 稀羽すう - Suu Usuwa",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJogBzE9V?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "恋",
+  "artist": "星野源",
+  "collection": "【🦢歌切】[2026-04-23]作业用BGM歌回！配合番茄钟计时，希望也能成为你工作的陪伴～ 稀羽すう - Suu Usuwa",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJogBzE9V?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "【🦢歌切】[2026-04-23]作业用BGM歌回！配合番茄钟计时，希望也能成为你工作的陪伴～ 稀羽すう - Suu Usuwa",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJogBzE9V?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "115万キロのフィルム",
+  "artist": "Official髭男dism",
+  "collection": "【🦢歌切】[2026-04-23]作业用BGM歌回！配合番茄钟计时，希望也能成为你工作的陪伴～ 稀羽すう - Suu Usuwa",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJogBzE9V?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "melt bitter",
+  "artist": "さとうもか",
+  "collection": "【🦢歌切】[2026-04-23]作业用BGM歌回！配合番茄钟计时，希望也能成为你工作的陪伴～ 稀羽すう - Suu Usuwa",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJogBzE9V?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "だから僕は音楽をやめた",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】[2026-04-23]作业用BGM歌回！配合番茄钟计时，希望也能成为你工作的陪伴～ 稀羽すう - Suu Usuwa",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJogBzE9V?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🦢歌切】[2026-04-23]作业用BGM歌回！配合番茄钟计时，希望也能成为你工作的陪伴～ 稀羽すう - Suu Usuwa",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJogBzE9V?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Love so sweet",
+  "artist": "嵐",
+  "collection": "【🦢歌切】[2026-04-23]作业用BGM歌回！配合番茄钟计时，希望也能成为你工作的陪伴～ 稀羽すう - Suu Usuwa",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJogBzE9V?p=14",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "【🦢歌切】[2026-04-23]作业用BGM歌回！配合番茄钟计时，希望也能成为你工作的陪伴～ 稀羽すう - Suu Usuwa",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJogBzE9V?p=15",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Rolling star",
+  "artist": "YUI",
+  "collection": "【🦢歌切】[2026-04-23]作业用BGM歌回！配合番茄钟计时，希望也能成为你工作的陪伴～ 稀羽すう - Suu Usuwa",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJogBzE9V?p=16",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "燈",
+  "artist": "崎山蒼志",
+  "collection": "【🦢歌切】[2026-04-23]作业用BGM歌回！配合番茄钟计时，希望也能成为你工作的陪伴～ 稀羽すう - Suu Usuwa",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJogBzE9V?p=17",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "満ちてゆく",
+  "artist": "藤井風",
+  "collection": "【🦢歌切】[2026-04-23]作业用BGM歌回！配合番茄钟计时，希望也能成为你工作的陪伴～ 稀羽すう - Suu Usuwa",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJogBzE9V?p=18",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【🦢歌切】[2026-04-23]作业用BGM歌回！配合番茄钟计时，希望也能成为你工作的陪伴～ 稀羽すう - Suu Usuwa",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJogBzE9V?p=19",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "地球儀",
+  "artist": "米津玄師",
+  "collection": "【🦢歌切】[2026-04-23]作业用BGM歌回！配合番茄钟计时，希望也能成为你工作的陪伴～ 稀羽すう - Suu Usuwa",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJogBzE9V?p=20",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "踊り子",
+  "artist": "Vaundy",
+  "collection": "【🦢歌切】[2026-04-23]作业用BGM歌回！配合番茄钟计时，希望也能成为你工作的陪伴～ 稀羽すう - Suu Usuwa",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJogBzE9V?p=21",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【🦢歌切】[2026-04-23]作业用BGM歌回！配合番茄钟计时，希望也能成为你工作的陪伴～ 稀羽すう - Suu Usuwa",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJogBzE9V?p=22",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "seaglass",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】[2026-04-23]作业用BGM歌回！配合番茄钟计时，希望也能成为你工作的陪伴～ 稀羽すう - Suu Usuwa",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJogBzE9V?p=23",
   "source": "suu_usuwa.js"
 }
 );

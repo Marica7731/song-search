@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 4/23/2026, 4:02:22 PM
+// 生成时间: 4/23/2026, 4:42:58 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1859,6 +1859,158 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-04-18]稍微过来一下💖歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PWdHBkEig?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "vivi",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-04-23]午后一起度过闲暇时光吧？ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FHogBMEGS?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "片想い",
+  "artist": "miwa",
+  "collection": "【歌切】[2026-04-23]午后一起度过闲暇时光吧？ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FHogBMEGS?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "側にいて",
+  "artist": "阿部真央",
+  "collection": "【歌切】[2026-04-23]午后一起度过闲暇时光吧？ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FHogBMEGS?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "words",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-04-23]午后一起度过闲暇时光吧？ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FHogBMEGS?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ハッピーエンド",
+  "artist": "back number",
+  "collection": "【歌切】[2026-04-23]午后一起度过闲暇时光吧？ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FHogBMEGS?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "夜撫でるメノウ",
+  "artist": "Ayase",
+  "collection": "【歌切】[2026-04-23]午后一起度过闲暇时光吧？ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FHogBMEGS?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "me me she",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-04-23]午后一起度过闲暇时光吧？ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FHogBMEGS?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "夢見月に何想ふ",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-04-23]午后一起度过闲暇时光吧？ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FHogBMEGS?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna",
+  "collection": "【歌切】[2026-04-23]午后一起度过闲暇时光吧？ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FHogBMEGS?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "片っぽ",
+  "artist": "eill",
+  "collection": "【歌切】[2026-04-23]午后一起度过闲暇时光吧？ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FHogBMEGS?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "私とワルツを",
+  "artist": "鬼束ちひろ",
+  "collection": "【歌切】[2026-04-23]午后一起度过闲暇时光吧？ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FHogBMEGS?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "クムリウタ",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-04-23]午后一起度过闲暇时光吧？ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FHogBMEGS?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "【歌切】[2026-04-23]午后一起度过闲暇时光吧？ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FHogBMEGS?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "17",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-04-23]午后一起度过闲暇时光吧？ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FHogBMEGS?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "葛飾ラプソディー",
+  "artist": "堂島孝平",
+  "collection": "【歌切】[2026-04-23]午后一起度过闲暇时光吧？ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FHogBMEGS?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【歌切】[2026-04-23]午后一起度过闲暇时光吧？ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FHogBMEGS?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "絶世美人",
+  "artist": "絶望少女達(風浦可符香・木津千里・木村カエレ・日塔奈美)",
+  "collection": "【歌切】[2026-04-23]午后一起度过闲暇时光吧？ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FHogBMEGS?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "オレンジ",
+  "artist": "逢坂大河(釘宮理恵)、櫛枝実乃梨(堀江由衣)、川嶋亜美(喜多村英梨)",
+  "collection": "【歌切】[2026-04-23]午后一起度过闲暇时光吧？ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FHogBMEGS?p=18",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ninelie",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-04-23]午后一起度过闲暇时光吧？ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FHogBMEGS?p=19",
   "source": "kukuri.js"
 }
 );
