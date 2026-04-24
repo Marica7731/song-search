@@ -1,6 +1,6 @@
 // ロマニ - 歌单数据 (多合集汇总)
 // 来源: BV1KHXxBUErU, BV1iHQXBzEgU
-// 生成时间: 4/24/2026, 6:50:49 PM
+// 生成时间: 4/24/2026, 7:11:32 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1299,6 +1299,46 @@ window.SONG_DATA.push(
   "collection": "【ロマニ🎸弾き語り歌切】[2026-04-19]周日歌回！✦一起悠闲听歌弹吉他🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xgocB9EBA?p=12",
+  "source": "romany.js"
+},
+    {
+  "title": "天体観測",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-24]用心唱歌…🌸 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bqo7BgEok?p=1",
+  "source": "romany.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-24]用心唱歌…🌸 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bqo7BgEok?p=2",
+  "source": "romany.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-24]用心唱歌…🌸 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bqo7BgEok?p=3",
+  "source": "romany.js"
+},
+    {
+  "title": "春",
+  "artist": "阿部真央",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-24]用心唱歌…🌸 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bqo7BgEok?p=4",
+  "source": "romany.js"
+},
+    {
+  "title": "イキナクチャ",
+  "artist": "ロマニードットアイオー",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-24]用心唱歌…🌸 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bqo7BgEok?p=5",
   "source": "romany.js"
 }
 );
