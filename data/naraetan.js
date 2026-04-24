@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 4/24/2026, 7:23:28 PM
+// 生成时间: 4/24/2026, 7:42:54 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7595,6 +7595,110 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-04-21]生日纪念！新模型发布+通知🎈🎉 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oZdXBUEJS?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "火星人",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-24]星期五歌回🪴なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15gonB4EY8?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "女の子は泣かない",
+  "artist": "片平里菜",
+  "collection": "【歌切】[2026-04-24]星期五歌回🪴なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15gonB4EY8?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【歌切】[2026-04-24]星期五歌回🪴なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15gonB4EY8?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "お気に召すまま",
+  "artist": "Eve",
+  "collection": "【歌切】[2026-04-24]星期五歌回🪴なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15gonB4EY8?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "TOMORROW",
+  "artist": "岡本真夜",
+  "collection": "【歌切】[2026-04-24]星期五歌回🪴なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15gonB4EY8?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "READY STEADY GO",
+  "artist": "L'Arc-en-Ciel",
+  "collection": "【歌切】[2026-04-24]星期五歌回🪴なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15gonB4EY8?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ホログラム",
+  "artist": "NICO Touches the Walls",
+  "collection": "【歌切】[2026-04-24]星期五歌回🪴なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15gonB4EY8?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "祝福",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-04-24]星期五歌回🪴なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15gonB4EY8?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "トライアングラー",
+  "artist": "坂本真綾",
+  "collection": "【歌切】[2026-04-24]星期五歌回🪴なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15gonB4EY8?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "幾億光年",
+  "artist": "Omoinotake",
+  "collection": "【歌切】[2026-04-24]星期五歌回🪴なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15gonB4EY8?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "優しさの理由",
+  "artist": "ChouCho",
+  "collection": "【歌切】[2026-04-24]星期五歌回🪴なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15gonB4EY8?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ありがとう",
+  "artist": "SunSet Swish",
+  "collection": "【歌切】[2026-04-24]星期五歌回🪴なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15gonB4EY8?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "恋文",
+  "artist": "Every Little Thing",
+  "collection": "【歌切】[2026-04-24]星期五歌回🪴なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15gonB4EY8?p=13",
   "source": "naraetan.js"
 },
     {

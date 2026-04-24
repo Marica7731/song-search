@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1eTkKYDENL
-// 生成时间: 4/24/2026, 7:32:03 PM
+// 生成时间: 4/24/2026, 7:50:39 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1507,6 +1507,86 @@ window.SONG_DATA.push(
   "collection": "🐺💐联动歌切 2026-04-24 🐺陽月るるふ × 💐Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Rxo7BmEkz?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "インフェルノ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "联动歌切 2026-04-24 和音门るき的第一次歌曲合作！带来充满力量且帅气的歌曲 Ibuki",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ajonBHEsB?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "サムライハート",
+  "artist": "SPYAIR",
+  "collection": "联动歌切 2026-04-24 和音门るき的第一次歌曲合作！带来充满力量且帅气的歌曲 Ibuki",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ajonBHEsB?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "少女S",
+  "artist": "SCANDAL",
+  "collection": "联动歌切 2026-04-24 和音门るき的第一次歌曲合作！带来充满力量且帅气的歌曲 Ibuki",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ajonBHEsB?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "ラヴィ",
+  "artist": "すりぃ",
+  "collection": "联动歌切 2026-04-24 和音门るき的第一次歌曲合作！带来充满力量且帅气的歌曲 Ibuki",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ajonBHEsB?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "幽霊東京",
+  "artist": "Ayase",
+  "collection": "联动歌切 2026-04-24 和音门るき的第一次歌曲合作！带来充满力量且帅气的歌曲 Ibuki",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ajonBHEsB?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP",
+  "collection": "联动歌切 2026-04-24 和音门るき的第一次歌曲合作！带来充满力量且帅气的歌曲 Ibuki",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ajonBHEsB?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "ダーリン",
+  "artist": "須田景凪",
+  "collection": "联动歌切 2026-04-24 和音门るき的第一次歌曲合作！带来充满力量且帅气的歌曲 Ibuki",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ajonBHEsB?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "愛を伝えたいだとか",
+  "artist": "あいみょん",
+  "collection": "联动歌切 2026-04-24 和音门るき的第一次歌曲合作！带来充满力量且帅气的歌曲 Ibuki",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ajonBHEsB?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "花占い",
+  "artist": "Vaundy",
+  "collection": "联动歌切 2026-04-24 和音门るき的第一次歌曲合作！带来充满力量且帅气的歌曲 Ibuki",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ajonBHEsB?p=9",
+  "source": "friends.js"
+},
+    {
+  "title": "ピースサイン",
+  "artist": "米津玄師",
+  "collection": "联动歌切 2026-04-24 和音门るき的第一次歌曲合作！带来充满力量且帅气的歌曲 Ibuki",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ajonBHEsB?p=10",
   "source": "friends.js"
 }
 );
