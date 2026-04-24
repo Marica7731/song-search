@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 4/24/2026, 9:03:27 AM
+// 生成时间: 4/24/2026, 9:23:02 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1950,16 +1950,16 @@ window.SONG_DATA.push(
   "source": "kukuri.js"
 },
     {
-  "title": "月のワルツ",
-  "artist": "諫山実生",
+  "title": "17",
+  "artist": "椎名林檎",
   "collection": "【歌切】[2026-04-23]午后一起度过闲暇时光吧？ kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FHogBMEGS?p=12",
   "source": "kukuri.js"
 },
     {
-  "title": "17",
-  "artist": "椎名林檎",
+  "title": "月のワルツ",
+  "artist": "諫山実生",
   "collection": "【歌切】[2026-04-23]午后一起度过闲暇时光吧？ kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FHogBMEGS?p=13",
