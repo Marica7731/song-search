@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1eTkKYDENL
-// 生成时间: 4/24/2026, 7:11:53 PM
+// 生成时间: 4/24/2026, 7:32:03 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1443,6 +1443,70 @@ window.SONG_DATA.push(
   "collection": "联动歌切 藤音カナデ❌紅葉丸 2026-04-22 偶尔展现出各种不同面貌的两个人，也挺好的。 藤音カナデ-Fujioto Kanade-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1biobB6Ei7?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP",
+  "collection": "🐺💐联动歌切 2026-04-24 🐺陽月るるふ × 💐Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rxo7BmEkz?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "🐺💐联动歌切 2026-04-24 🐺陽月るるふ × 💐Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rxo7BmEkz?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "中島愛",
+  "collection": "🐺💐联动歌切 2026-04-24 🐺陽月るるふ × 💐Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rxo7BmEkz?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ",
+  "collection": "🐺💐联动歌切 2026-04-24 🐺陽月るるふ × 💐Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rxo7BmEkz?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "正しくなれない",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "🐺💐联动歌切 2026-04-24 🐺陽月るるふ × 💐Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rxo7BmEkz?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "RE:I AM",
+  "artist": "Aimer",
+  "collection": "🐺💐联动歌切 2026-04-24 🐺陽月るるふ × 💐Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rxo7BmEkz?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "Claris",
+  "collection": "🐺💐联动歌切 2026-04-24 🐺陽月るるふ × 💐Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rxo7BmEkz?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "それがあなたの幸せとしても",
+  "artist": "Heavenz",
+  "collection": "🐺💐联动歌切 2026-04-24 🐺陽月るるふ × 💐Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rxo7BmEkz?p=8",
   "source": "friends.js"
 }
 );
