@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 4/24/2026, 6:22:17 PM
+// 生成时间: 4/24/2026, 6:41:50 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3283,6 +3283,38 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-04-23]早上一起听歌聊天怎么样!! 悠闲聊天和歌回🍁✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZsogBNE7J?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "鱗",
+  "artist": "秦基博",
+  "collection": "【🍁歌切】[2026-04-24]温暖的春日里恰到好处的音色🌸✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bjo7B9EPG?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "さくら(独唱)",
+  "artist": "森山直太朗",
+  "collection": "【🍁歌切】[2026-04-24]温暖的春日里恰到好处的音色🌸✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bjo7B9EPG?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ドン・キホーテのテーマ",
+  "artist": "田中マイミ",
+  "collection": "【🍁歌切】[2026-04-24]温暖的春日里恰到好处的音色🌸✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bjo7B9EPG?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "丸の内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【🍁歌切】[2026-04-24]温暖的春日里恰到好处的音色🌸✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bjo7B9EPG?p=4",
   "source": "momijimaru.js"
 }
 );
