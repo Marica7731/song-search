@@ -16,6 +16,8 @@ try {
 }
 
 const DEFAULT_ARTIST_TEXT = '来源处未提供标准格式歌手';
+const SPECIAL_BRACKET_ARTIST_SET = new Set(['[Alexandros]', '[ALEXANDROS]']);
+const LEADING_SOURCE_REGEX = /^(?:\s*【[^】]+】)+\s*/;
 
 async function withRetry(fn, maxRetries = 3, delay = 5000) {
     let lastError;
@@ -221,6 +223,11 @@ async function processSinger(config) {
         rawData.forEach(col => {
             col.parts.forEach((p, i) => {
                 let cleanTitle = p;
+                const rawArtistCandidate = String(p || '')
+                    .split(' - ')
+                    .slice(-1)[0]
+                    .replace(LEADING_SOURCE_REGEX, '')
+                    .trim();
 
                 // 1. 基础标签清除
                 cleanTitle = cleanTitle.replace(/\[\d{4}[-]?\d{2}[-]?\d{2}\]/g, '');
@@ -248,6 +255,12 @@ async function processSinger(config) {
                     // 对切割后的部分再次洗涤后缀
                     songTitle = titleParts[0].replace(artifactRegex, '').trim();
                     artist = titleParts[titleParts.length - 1].replace(artifactRegex, '').trim();
+                    if (!artist && SPECIAL_BRACKET_ARTIST_SET.has(rawArtistCandidate)) {
+                        artist = rawArtistCandidate;
+                    }
+                    if (!artist) {
+                        artist = DEFAULT_ARTIST_TEXT;
+                    }
                 }
 
                 let link = null;
