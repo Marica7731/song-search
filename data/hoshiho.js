@@ -1,6 +1,6 @@
 // HoshiHo - 歌单数据 (多合集汇总)
 // 来源: BV11fQSB2ELX
-// 生成时间: 4/25/2026, 3:07:32 PM
+// 生成时间: 4/25/2026, 3:27:14 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1347,6 +1347,46 @@ window.SONG_DATA.push(
   "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=40",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "SAKURA",
+  "artist": "いきものがかり",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-25]春天🌸，这样的气温真好啊 ✨ HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sko9BkEtB?p=1",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "HOT BLOOD",
+  "artist": "『バジリスク ～桜花忍法帖～』水樹奈々",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-25]春天🌸，这样的气温真好啊 ✨ HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sko9BkEtB?p=2",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "The Story of Us",
+  "artist": "『葬送のフリーレン』milet",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-25]春天🌸，这样的气温真好啊 ✨ HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sko9BkEtB?p=3",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Wind Climbing ～風にあそばれて～",
+  "artist": "『魔法陣グルグル』奥井亜紀",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-25]春天🌸，这样的气温真好啊 ✨ HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sko9BkEtB?p=4",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "桜のあと",
+  "artist": "『夜桜四重奏 ～ヨザクラカルテット～』UNISON SQUARE GARDEN",
+  "collection": "【🌟💐HoshiHo歌切】[2026-04-25]春天🌸，这样的气温真好啊 ✨ HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sko9BkEtB?p=5",
   "source": "hoshiho.js"
 }
 );
