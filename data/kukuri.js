@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 4/25/2026, 3:22:50 PM
+// 生成时间: 4/25/2026, 3:42:36 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2011,6 +2011,126 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-04-23]午后一起度过闲暇时光吧？ kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FHogBMEGS?p=19",
+  "source": "kukuri.js"
+},
+    {
+  "title": "恋に落ちて",
+  "artist": "藤田麻衣子",
+  "collection": "【歌切】[2026-04-25]愉快的星期日歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uro9BVEdd?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "今でもあなたが",
+  "artist": "藤田麻衣子",
+  "collection": "【歌切】[2026-04-25]愉快的星期日歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uro9BVEdd?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "僕たちが恋をする理由",
+  "artist": "坂本真綾",
+  "collection": "【歌切】[2026-04-25]愉快的星期日歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uro9BVEdd?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【歌切】[2026-04-25]愉快的星期日歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uro9BVEdd?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "いかないで",
+  "artist": "想太 feat. 歌愛ユキ",
+  "collection": "【歌切】[2026-04-25]愉快的星期日歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uro9BVEdd?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "寄り酔い",
+  "artist": "和ぬか",
+  "collection": "【歌切】[2026-04-25]愉快的星期日歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uro9BVEdd?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "翡翠のまち",
+  "artist": "メル feat. 初音ミク",
+  "collection": "【歌切】[2026-04-25]愉快的星期日歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uro9BVEdd?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "朱色の砂浜",
+  "artist": "みきとP feat. GUMI",
+  "collection": "【歌切】[2026-04-25]愉快的星期日歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uro9BVEdd?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ハイドアンド・シーク",
+  "artist": "19's Sound Factory feat. 初音ミク",
+  "collection": "【歌切】[2026-04-25]愉快的星期日歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uro9BVEdd?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "深海少女",
+  "artist": "ゆうゆP feat. 初音ミク",
+  "collection": "【歌切】[2026-04-25]愉快的星期日歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uro9BVEdd?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "酔いどれ知らず",
+  "artist": "Kanaria feat. GUMI",
+  "collection": "【歌切】[2026-04-25]愉快的星期日歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uro9BVEdd?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "繰り返し一粒",
+  "artist": "猫虫P feat. 初音ミク",
+  "collection": "【歌切】[2026-04-25]愉快的星期日歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uro9BVEdd?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "【歌切】[2026-04-25]愉快的星期日歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uro9BVEdd?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "眠れぬ夜は君のせい",
+  "artist": "MISIA",
+  "collection": "【歌切】[2026-04-25]愉快的星期日歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uro9BVEdd?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "traveling",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-04-25]愉快的星期日歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uro9BVEdd?p=15",
   "source": "kukuri.js"
 }
 );
