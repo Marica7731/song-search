@@ -161,7 +161,7 @@ function getNeteaseSearchUrl(keyword) {
 function parseTitleArtistText(text) {
   const value = (text || '').trim();
   if (!value) return { title: '', artist: '' };
-  const matched = value.match(/^(.+?)\s*-\s*(.+)$/);
+  const matched = value.match(/^(.+?)\s+-\s+(.+)$/);
   if (matched) {
     return {
       title: matched[1].trim(),
