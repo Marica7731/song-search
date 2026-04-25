@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 4/25/2026, 7:25:42 PM
+// 生成时间: 4/25/2026, 7:45:37 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -31043,6 +31043,158 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-04-23]初见的你欢迎呀！我投稿了一首翻唱歌曲！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1n6ouBKEXM?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "collection": "【🍠🦍歌切】[2026-04-25]初見さん歓迎だYO！カバーソング投稿したよ！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVodBgEju?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-04-25]初見さん歓迎だYO！カバーソング投稿したよ！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVodBgEju?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "COLORS",
+  "artist": "FLOW",
+  "collection": "【🍠🦍歌切】[2026-04-25]初見さん歓迎だYO！カバーソング投稿したよ！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVodBgEju?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "TOMORROW",
+  "artist": "岡本真夜",
+  "collection": "【🍠🦍歌切】[2026-04-25]初見さん歓迎だYO！カバーソング投稿したよ！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVodBgEju?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "勇気100％",
+  "artist": "光GENJI",
+  "collection": "【🍠🦍歌切】[2026-04-25]初見さん歓迎だYO！カバーソング投稿したよ！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVodBgEju?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハグしちゃお",
+  "artist": "夏川りみ",
+  "collection": "【🍠🦍歌切】[2026-04-25]初見さん歓迎だYO！カバーソング投稿したよ！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVodBgEju?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Go!!!",
+  "artist": "FLOW",
+  "collection": "【🍠🦍歌切】[2026-04-25]初見さん歓迎だYO！カバーソング投稿したよ！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVodBgEju?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "はなまるぴっぴはよいこだけ",
+  "artist": "A応P",
+  "collection": "【🍠🦍歌切】[2026-04-25]初見さん歓迎だYO！カバーソング投稿したよ！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVodBgEju?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "右肩の蝶",
+  "artist": "のりぴー feat.鏡音レン",
+  "collection": "【🍠🦍歌切】[2026-04-25]初見さん歓迎だYO！カバーソング投稿したよ！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVodBgEju?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "departure",
+  "artist": "小野正利",
+  "collection": "【🍠🦍歌切】[2026-04-25]初見さん歓迎だYO！カバーソング投稿したよ！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVodBgEju?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "カサブタ",
+  "artist": "千綿偉功",
+  "collection": "【🍠🦍歌切】[2026-04-25]初見さん歓迎だYO！カバーソング投稿したよ！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVodBgEju?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ルカルカ★ナイトフィーバー",
+  "artist": "samfree feat. 巡音ルカ",
+  "collection": "【🍠🦍歌切】[2026-04-25]初見さん歓迎だYO！カバーソング投稿したよ！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVodBgEju?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "オラは人気者",
+  "artist": "クレヨンしんちゃん",
+  "collection": "【🍠🦍歌切】[2026-04-25]初見さん歓迎だYO！カバーソング投稿したよ！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVodBgEju?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "あっぱれ！馬鹿騒ぎ",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-04-25]初見さん歓迎だYO！カバーソング投稿したよ！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVodBgEju?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "舞風",
+  "artist": "吉岡亜衣加",
+  "collection": "【🍠🦍歌切】[2026-04-25]初見さん歓迎だYO！カバーソング投稿したよ！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVodBgEju?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Real World",
+  "artist": "nano.RIPE",
+  "collection": "【🍠🦍歌切】[2026-04-25]初見さん歓迎だYO！カバーソング投稿したよ！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVodBgEju?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "さよならの夏~コクリコ坂から~",
+  "artist": "手嶌葵",
+  "collection": "【🍠🦍歌切】[2026-04-25]初見さん歓迎だYO！カバーソング投稿したよ！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVodBgEju?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アムリタ",
+  "artist": "牧野由依",
+  "collection": "【🍠🦍歌切】[2026-04-25]初見さん歓迎だYO！カバーソング投稿したよ！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVodBgEju?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "横顔",
+  "artist": "牧野由依",
+  "collection": "【🍠🦍歌切】[2026-04-25]初見さん歓迎だYO！カバーソング投稿したよ！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVodBgEju?p=19",
   "source": "yoshika.js"
 }
 );
