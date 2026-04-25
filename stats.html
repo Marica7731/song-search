@@ -902,6 +902,7 @@
         let statsDetailCache = new Map();
         let localTitleSourceMap = new Map();
         let localTitleSourceVersion = -1;
+        let staticFallbackPromise = null;
 
         // 当前复制相关
         let currentCopyData = null;
@@ -1014,6 +1015,10 @@
                 : songOrTitle?.title || '';
             const titleKey = normalizeString(title);
             return getLocalTitleSourceMap().get(titleKey)?.size || 0;
+        }
+
+        function getUniqueSongCount(data) {
+            return aggregateBySong(Array.isArray(data) ? data : []).length;
         }
 
         function buildOverviewFromData(data) {
@@ -2347,9 +2352,19 @@
                     }
                     return;
                 } catch (error) {
-                    console.error('服务端统计失败，回退到前端统计：', error);
-                    isApiMode = false;
+                    console.error('服务端统计失败：', error);
                     currentStatsPayload = null;
+                    if (originalData.length === 0) {
+                        try {
+                            await ensureLocalDataLoaded();
+                        } catch (fallbackError) {
+                            console.error('本地统计数据回退失败：', fallbackError);
+                            document.getElementById('summary-text').textContent = '统计接口暂时不可用，请稍后重试';
+                            document.getElementById('empty-msg').style.display = 'none';
+                            return;
+                        }
+                    }
+                    isApiMode = false;
                 }
             }
 
@@ -2410,6 +2425,55 @@
             return Promise.all(promises);
         }
 
+        async function ensureLocalDataLoaded() {
+            if (originalData.length > 0) return;
+            if (staticFallbackPromise) {
+                await staticFallbackPromise;
+                return;
+            }
+
+            staticFallbackPromise = (async () => {
+                const progressMsg = document.getElementById('progress-msg');
+                if (progressMsg) {
+                    progressMsg.style.display = 'block';
+                    progressMsg.textContent = '统计接口波动，正在切换本地数据...';
+                }
+
+                if (!Array.isArray(fileNames) || fileNames.length === 0) {
+                    const res = await fetch('data/index.json');
+                    if (!res.ok) throw new Error('无法加载 index.json');
+                    const config = await res.json();
+                    fileNames = config.files || [];
+                    FILE_TO_ALIAS = config.fileToAlias || FILE_TO_ALIAS;
+                }
+
+                if (!fileNames.length) {
+                    throw new Error('缺少可用的数据文件');
+                }
+
+                window.SONG_DATA = [];
+                originalData = [];
+                await loadScriptsParallel(fileNames);
+                if (originalData.length === 0) {
+                    throw new Error('本地静态数据为空');
+                }
+
+                bootstrapTotalSongs = originalData.length;
+                bootstrapTotalUnique = getUniqueSongCount(originalData);
+                SOURCE_STATS = {};
+
+                if (progressMsg) {
+                    progressMsg.style.display = 'none';
+                }
+            })();
+
+            try {
+                await staticFallbackPromise;
+            } finally {
+                staticFallbackPromise = null;
+            }
+        }
+
         async function loadAllDataFromApi() {
             const res = await fetch('/api/bootstrap');
             if (!res.ok) throw new Error(`API 状态码 ${res.status}`);
@@ -2433,7 +2497,7 @@
                     const res = await fetch('data/index.json');
                     if (!res.ok) throw new Error('无法加载 index.json');
                     const config = await res.json();
-                    fileNames.push(...(config.files || []));
+                    fileNames = config.files || [];
                     FILE_TO_ALIAS = config.fileToAlias || {};
                     SOURCE_STATS = {};
                     await loadScriptsParallel(fileNames);
