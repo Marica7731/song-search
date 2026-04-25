@@ -903,6 +903,7 @@
         let localTitleSourceMap = new Map();
         let localTitleSourceVersion = -1;
         let staticFallbackPromise = null;
+        let statsViewRequestSeq = 0;
 
         // 当前复制相关
         let currentCopyData = null;
@@ -2273,12 +2274,12 @@
 
         // ========== 4. 总控与初始化 ==========
 
-        async function fetchStatsView() {
+        async function fetchStatsView(tab, source, keyword, page) {
             const params = new URLSearchParams({
-                tab: activeTab,
-                source: activeFilter,
-                q: searchKeyword,
-                page: String(currentRankPage),
+                tab: tab || activeTab,
+                source: source || activeFilter,
+                q: keyword || searchKeyword,
+                page: String(page || currentRankPage),
                 pageSize: String(PAGE_SIZE)
             });
             const res = await fetch(`/api/stats/view?${params.toString()}`);
@@ -2326,10 +2327,16 @@
 
         async function updateAllViews() {
             generateFilterButtons();
+            const requestSeq = ++statsViewRequestSeq;
+            const requestTab = activeTab;
+            const requestFilter = activeFilter;
+            const requestKeyword = searchKeyword;
+            const requestPage = currentRankPage;
 
             if (isApiMode) {
                 try {
-                    currentStatsPayload = await fetchStatsView();
+                    currentStatsPayload = await fetchStatsView(requestTab, requestFilter, requestKeyword, requestPage);
+                    if (requestSeq !== statsViewRequestSeq) return;
                     currentRankPage = currentStatsPayload.page || currentRankPage;
                     document.getElementById('summary-text').textContent = normalizeSummaryText(currentStatsPayload.summaryText || '');
                     if (!currentStatsPayload.hasData || !Array.isArray(currentStatsPayload.items) || currentStatsPayload.items.length === 0) {
@@ -2343,15 +2350,16 @@
                     }
 
                     document.getElementById('empty-msg').style.display = 'none';
-                    if (activeTab === 'rank') {
+                    if (requestTab === 'rank') {
                         renderRankList(currentStatsPayload.items, true);
-                    } else if (activeTab === 'vtuber-source') {
+                    } else if (requestTab === 'vtuber-source') {
                         renderVtuberSourceList(currentStatsPayload.items, true);
-                    } else if (activeTab === 'artist') {
+                    } else if (requestTab === 'artist') {
                         renderArtistList(currentStatsPayload.items, true);
                     }
                     return;
                 } catch (error) {
+                    if (requestSeq !== statsViewRequestSeq) return;
                     console.error('服务端统计失败：', error);
                     currentStatsPayload = null;
                     if (originalData.length === 0) {
