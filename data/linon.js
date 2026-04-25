@@ -1,6 +1,6 @@
 // 天籠りのん - 歌单数据 (多合集汇总)
 // 来源: BV1hw4m1i7qN
-// 生成时间: 4/25/2026, 7:27:40 AM
+// 生成时间: 4/25/2026, 7:44:15 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2454,19 +2454,11 @@ window.SONG_DATA.push(
   "source": "linon.js"
 },
     {
-  "title": "有一小段",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【 Linon ch. 天籠りのん】弹唱回：接力，忘传了",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MFzpYSEd7?p=4",
-  "source": "linon.js"
-},
-    {
   "title": "Automatic",
   "artist": "宇多田ヒカル",
   "collection": "【 Linon ch. 天籠りのん】弹唱回：接力，忘传了",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MFzpYSEd7?p=5",
+  "link": "https://www.bilibili.com/video/BV1MFzpYSEd7?p=4",
   "source": "linon.js"
 },
     {
@@ -2474,7 +2466,7 @@ window.SONG_DATA.push(
   "artist": "結束バンド",
   "collection": "【 Linon ch. 天籠りのん】弹唱回：接力，忘传了",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MFzpYSEd7?p=6",
+  "link": "https://www.bilibili.com/video/BV1MFzpYSEd7?p=5",
   "source": "linon.js"
 },
     {

@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1eTkKYDENL
-// 生成时间: 4/25/2026, 7:31:24 AM
+// 生成时间: 4/25/2026, 7:48:48 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -582,8 +582,8 @@ window.SONG_DATA.push(
   "source": "friends.js"
 },
     {
-  "title": "水平線 // back number",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "水平線",
+  "artist": "back number",
   "collection": "【 橙里セイ / Figaro 】7】和橙里セイ酱一起唱歌！【241008】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SJ2WYgEr7?p=6",

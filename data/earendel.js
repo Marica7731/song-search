@@ -1,6 +1,6 @@
 // 厄倫蒂兒 - 歌单数据 (多合集汇总)
 // 来源: BV1dGqeYpEuc
-// 生成时间: 4/25/2026, 7:27:14 AM
+// 生成时间: 4/25/2026, 7:43:55 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2518,19 +2518,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "Take Me Home, Country Roads(Japanese Ver.) -",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "厄倫蒂兒 2期 240513-240722",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=127",
-  "source": "earendel.js"
-},
-    {
   "title": "わたしと君とを繋ぐもの",
   "artist": "きっきょん feat. 初音ミク",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=128",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=127",
   "source": "earendel.js"
 },
     {
@@ -2538,7 +2530,7 @@ window.SONG_DATA.push(
   "artist": "初音ミク",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=129",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=128",
   "source": "earendel.js"
 },
     {
@@ -2546,7 +2538,7 @@ window.SONG_DATA.push(
   "artist": "Islet feat.倚水",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=130",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=129",
   "source": "earendel.js"
 },
     {
@@ -2554,7 +2546,7 @@ window.SONG_DATA.push(
   "artist": "坂本真綾",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=131",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=130",
   "source": "earendel.js"
 },
     {
@@ -2562,7 +2554,7 @@ window.SONG_DATA.push(
   "artist": "河辺千恵子",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=132",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=131",
   "source": "earendel.js"
 },
     {
@@ -2570,7 +2562,7 @@ window.SONG_DATA.push(
   "artist": "米倉千尋",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=133",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=132",
   "source": "earendel.js"
 },
     {
@@ -2578,7 +2570,7 @@ window.SONG_DATA.push(
   "artist": "星街すいせい",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=134",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=133",
   "source": "earendel.js"
 },
     {
@@ -2586,7 +2578,7 @@ window.SONG_DATA.push(
   "artist": "F.I.R.",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=135",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=134",
   "source": "earendel.js"
 },
     {
@@ -2594,7 +2586,7 @@ window.SONG_DATA.push(
   "artist": "吳汶芳",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=136",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=135",
   "source": "earendel.js"
 },
     {
@@ -2602,7 +2594,7 @@ window.SONG_DATA.push(
   "artist": "菲道爾",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=137",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=136",
   "source": "earendel.js"
 },
     {
@@ -2610,7 +2602,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=138",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=137",
   "source": "earendel.js"
 },
     {
@@ -2618,7 +2610,7 @@ window.SONG_DATA.push(
   "artist": "MAHO堂",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=139",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=138",
   "source": "earendel.js"
 },
     {
@@ -2626,7 +2618,7 @@ window.SONG_DATA.push(
   "artist": "じん",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=140",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=139",
   "source": "earendel.js"
 },
     {
@@ -2634,7 +2626,7 @@ window.SONG_DATA.push(
   "artist": "みきとP feat.初音ミク",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=141",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=140",
   "source": "earendel.js"
 },
     {
@@ -2642,7 +2634,7 @@ window.SONG_DATA.push(
   "artist": "れるりり feat.ミク & リン & GUMI",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=142",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=141",
   "source": "earendel.js"
 },
     {
@@ -2650,7 +2642,7 @@ window.SONG_DATA.push(
   "artist": "HoneyWorks",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=143",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=142",
   "source": "earendel.js"
 },
     {
@@ -2658,7 +2650,7 @@ window.SONG_DATA.push(
   "artist": "Keno",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=144",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=143",
   "source": "earendel.js"
 },
     {
@@ -2666,7 +2658,7 @@ window.SONG_DATA.push(
   "artist": "Whiteberry",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=145",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=144",
   "source": "earendel.js"
 },
     {
@@ -2674,7 +2666,7 @@ window.SONG_DATA.push(
   "artist": "茅原実里",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=146",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=145",
   "source": "earendel.js"
 },
     {
@@ -2682,7 +2674,7 @@ window.SONG_DATA.push(
   "artist": "DEEN",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=147",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=146",
   "source": "earendel.js"
 },
     {
@@ -2690,7 +2682,7 @@ window.SONG_DATA.push(
   "artist": "むぅfeat.初音ミク",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=148",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=147",
   "source": "earendel.js"
 },
     {
@@ -2698,7 +2690,7 @@ window.SONG_DATA.push(
   "artist": "MAHO堂",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=149",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=148",
   "source": "earendel.js"
 },
     {
@@ -2706,7 +2698,7 @@ window.SONG_DATA.push(
   "artist": "奥華子",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=150",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=149",
   "source": "earendel.js"
 },
     {
@@ -2714,7 +2706,7 @@ window.SONG_DATA.push(
   "artist": "青木月光",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=151",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=150",
   "source": "earendel.js"
 },
     {
@@ -2722,7 +2714,7 @@ window.SONG_DATA.push(
   "artist": "ClariS",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=152",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=151",
   "source": "earendel.js"
 },
     {
@@ -2730,7 +2722,7 @@ window.SONG_DATA.push(
   "artist": "大塚愛",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=153",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=152",
   "source": "earendel.js"
 },
     {
@@ -2738,7 +2730,7 @@ window.SONG_DATA.push(
   "artist": "林宥嘉",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=154",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=153",
   "source": "earendel.js"
 },
     {
@@ -2746,7 +2738,7 @@ window.SONG_DATA.push(
   "artist": "奥華子",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=155",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=154",
   "source": "earendel.js"
 },
     {
@@ -2754,7 +2746,7 @@ window.SONG_DATA.push(
   "artist": "梁靜茹",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=156",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=155",
   "source": "earendel.js"
 },
     {
@@ -2762,7 +2754,7 @@ window.SONG_DATA.push(
   "artist": "以冬",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=157",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=156",
   "source": "earendel.js"
 },
     {
@@ -2770,7 +2762,7 @@ window.SONG_DATA.push(
   "artist": "青木月光",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=158",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=157",
   "source": "earendel.js"
 },
     {
@@ -2778,7 +2770,7 @@ window.SONG_DATA.push(
   "artist": "王心凌",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=159",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=158",
   "source": "earendel.js"
 },
     {
@@ -2786,7 +2778,7 @@ window.SONG_DATA.push(
   "artist": "ツミキ feat. 可不",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=160",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=159",
   "source": "earendel.js"
 },
     {
@@ -2794,7 +2786,7 @@ window.SONG_DATA.push(
   "artist": "A-Lin",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=161",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=160",
   "source": "earendel.js"
 },
     {
@@ -2802,7 +2794,7 @@ window.SONG_DATA.push(
   "artist": "張惠妹",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=162",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=161",
   "source": "earendel.js"
 },
     {
@@ -2810,7 +2802,7 @@ window.SONG_DATA.push(
   "artist": "優里",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=163",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=162",
   "source": "earendel.js"
 },
     {
@@ -2818,7 +2810,7 @@ window.SONG_DATA.push(
   "artist": "坂本真綾",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=164",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=163",
   "source": "earendel.js"
 },
     {
@@ -2826,7 +2818,7 @@ window.SONG_DATA.push(
   "artist": "黃玠",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=165",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=164",
   "source": "earendel.js"
 },
     {
@@ -2834,7 +2826,7 @@ window.SONG_DATA.push(
   "artist": "古川本舗",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=166",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=165",
   "source": "earendel.js"
 },
     {
@@ -2842,7 +2834,7 @@ window.SONG_DATA.push(
   "artist": "大塚愛",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=167",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=166",
   "source": "earendel.js"
 },
     {
@@ -2850,7 +2842,7 @@ window.SONG_DATA.push(
   "artist": "青木月光",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=168",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=167",
   "source": "earendel.js"
 },
     {
@@ -2858,7 +2850,7 @@ window.SONG_DATA.push(
   "artist": "秦 基博",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=169",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=168",
   "source": "earendel.js"
 },
     {
@@ -2866,7 +2858,7 @@ window.SONG_DATA.push(
   "artist": "Christina Perri",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=170",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=169",
   "source": "earendel.js"
 },
     {
@@ -2874,7 +2866,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=171",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=170",
   "source": "earendel.js"
 },
     {
@@ -2882,7 +2874,7 @@ window.SONG_DATA.push(
   "artist": "郁可唯",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=172",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=171",
   "source": "earendel.js"
 },
     {
@@ -2890,7 +2882,7 @@ window.SONG_DATA.push(
   "artist": "木村弓",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=173",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=172",
   "source": "earendel.js"
 },
     {
@@ -2898,7 +2890,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=174",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=173",
   "source": "earendel.js"
 },
     {
@@ -2906,7 +2898,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=175",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=174",
   "source": "earendel.js"
 },
     {
@@ -2914,7 +2906,7 @@ window.SONG_DATA.push(
   "artist": "黃玠",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=176",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=175",
   "source": "earendel.js"
 },
     {
@@ -2922,7 +2914,7 @@ window.SONG_DATA.push(
   "artist": "謝春花 ft. 王碧浪",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=177",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=176",
   "source": "earendel.js"
 },
     {
@@ -2930,7 +2922,7 @@ window.SONG_DATA.push(
   "artist": "酔シグレ feat.Lucia",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=178",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=177",
   "source": "earendel.js"
 },
     {
@@ -2938,7 +2930,7 @@ window.SONG_DATA.push(
   "artist": "張齊山",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=179",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=178",
   "source": "earendel.js"
 },
     {
@@ -2946,7 +2938,7 @@ window.SONG_DATA.push(
   "artist": "許莉潔 & 安懂",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=180",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=179",
   "source": "earendel.js"
 },
     {
@@ -2954,7 +2946,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=181",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=180",
   "source": "earendel.js"
 },
     {
@@ -2962,7 +2954,7 @@ window.SONG_DATA.push(
   "artist": "徐佳瑩",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=182",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=181",
   "source": "earendel.js"
 },
     {
@@ -2970,7 +2962,7 @@ window.SONG_DATA.push(
   "artist": "ZONE",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=183",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=182",
   "source": "earendel.js"
 },
     {
@@ -2978,7 +2970,7 @@ window.SONG_DATA.push(
   "artist": "厄倫蒂兒",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=184",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=183",
   "source": "earendel.js"
 },
     {
@@ -2986,7 +2978,7 @@ window.SONG_DATA.push(
   "artist": "明透",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=185",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=184",
   "source": "earendel.js"
 },
     {
@@ -2994,7 +2986,7 @@ window.SONG_DATA.push(
   "artist": "袁惟仁 feat.張若凡",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=186",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=185",
   "source": "earendel.js"
 },
     {
@@ -3002,7 +2994,7 @@ window.SONG_DATA.push(
   "artist": "tuki.",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=187",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=186",
   "source": "earendel.js"
 },
     {
@@ -3010,7 +3002,7 @@ window.SONG_DATA.push(
   "artist": "傘村トータ feat.可不",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=188",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=187",
   "source": "earendel.js"
 },
     {
@@ -3018,7 +3010,7 @@ window.SONG_DATA.push(
   "artist": "好樂團 GoodBand",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=189",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=188",
   "source": "earendel.js"
 },
     {
@@ -3026,7 +3018,7 @@ window.SONG_DATA.push(
   "artist": "華晨宇",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=190",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=189",
   "source": "earendel.js"
 },
     {
@@ -3034,7 +3026,7 @@ window.SONG_DATA.push(
   "artist": "クリス・ハート",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=191",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=190",
   "source": "earendel.js"
 },
     {
@@ -3042,7 +3034,7 @@ window.SONG_DATA.push(
   "artist": "菲道爾",
   "collection": "厄倫蒂兒 2期 240513-240722",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=192",
+  "link": "https://www.bilibili.com/video/BV1RoB7YGEEf?p=191",
   "source": "earendel.js"
 },
     {
@@ -5350,27 +5342,11 @@ window.SONG_DATA.push(
   "source": "earendel.js"
 },
     {
-  "title": "老闆吃我煎餃(未取名原創曲)",
-  "artist": "蒂兒",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=95",
-  "source": "earendel.js"
-},
-    {
-  "title": "七彩的微風 -",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=96",
-  "source": "earendel.js"
-},
-    {
   "title": "新時代",
   "artist": "ADO",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=97",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=95",
   "source": "earendel.js"
 },
     {
@@ -5378,7 +5354,7 @@ window.SONG_DATA.push(
   "artist": "華晨宇",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=98",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=96",
   "source": "earendel.js"
 },
     {
@@ -5386,7 +5362,7 @@ window.SONG_DATA.push(
   "artist": "MONGOL800",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=99",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=97",
   "source": "earendel.js"
 },
     {
@@ -5394,7 +5370,7 @@ window.SONG_DATA.push(
   "artist": "米津玄師",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=100",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=98",
   "source": "earendel.js"
 },
     {
@@ -5402,7 +5378,7 @@ window.SONG_DATA.push(
   "artist": "DECO*27",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=101",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=99",
   "source": "earendel.js"
 },
     {
@@ -5410,7 +5386,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=102",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=100",
   "source": "earendel.js"
 },
     {
@@ -5418,7 +5394,7 @@ window.SONG_DATA.push(
   "artist": "F.I.R.飛兒樂團",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=103",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=101",
   "source": "earendel.js"
 },
     {
@@ -5426,7 +5402,7 @@ window.SONG_DATA.push(
   "artist": "初音ミク",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=104",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=102",
   "source": "earendel.js"
 },
     {
@@ -5434,15 +5410,7 @@ window.SONG_DATA.push(
   "artist": "金志文",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=105",
-  "source": "earendel.js"
-},
-    {
-  "title": "不太確定這首是什麼 (原創曲嗎) -",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "厄倫蒂兒 4期 240923-241115",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=106",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=103",
   "source": "earendel.js"
 },
     {
@@ -5450,7 +5418,7 @@ window.SONG_DATA.push(
   "artist": "好樂團 Good Band",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=107",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=104",
   "source": "earendel.js"
 },
     {
@@ -5458,7 +5426,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=108",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=105",
   "source": "earendel.js"
 },
     {
@@ -5466,7 +5434,7 @@ window.SONG_DATA.push(
   "artist": "ざらめ",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=109",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=106",
   "source": "earendel.js"
 },
     {
@@ -5474,7 +5442,7 @@ window.SONG_DATA.push(
   "artist": "周杰倫",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=110",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=107",
   "source": "earendel.js"
 },
     {
@@ -5482,7 +5450,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=111",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=108",
   "source": "earendel.js"
 },
     {
@@ -5490,7 +5458,7 @@ window.SONG_DATA.push(
   "artist": "Crispy脆樂團",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=112",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=109",
   "source": "earendel.js"
 },
     {
@@ -5498,7 +5466,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=113",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=110",
   "source": "earendel.js"
 },
     {
@@ -5506,7 +5474,7 @@ window.SONG_DATA.push(
   "artist": "韋禮安",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=114",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=111",
   "source": "earendel.js"
 },
     {
@@ -5514,7 +5482,7 @@ window.SONG_DATA.push(
   "artist": "初音ミク",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=115",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=112",
   "source": "earendel.js"
 },
     {
@@ -5522,7 +5490,7 @@ window.SONG_DATA.push(
   "artist": "謝震廷",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=116",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=113",
   "source": "earendel.js"
 },
     {
@@ -5530,7 +5498,7 @@ window.SONG_DATA.push(
   "artist": "優里",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=117",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=114",
   "source": "earendel.js"
 },
     {
@@ -5538,7 +5506,7 @@ window.SONG_DATA.push(
   "artist": "阿桑",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=118",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=115",
   "source": "earendel.js"
 },
     {
@@ -5546,7 +5514,7 @@ window.SONG_DATA.push(
   "artist": "可不",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=119",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=116",
   "source": "earendel.js"
 },
     {
@@ -5554,7 +5522,7 @@ window.SONG_DATA.push(
   "artist": "奧華子",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=120",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=117",
   "source": "earendel.js"
 },
     {
@@ -5562,7 +5530,7 @@ window.SONG_DATA.push(
   "artist": "邱振哲",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=121",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=118",
   "source": "earendel.js"
 },
     {
@@ -5570,7 +5538,7 @@ window.SONG_DATA.push(
   "artist": "tuki.",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=122",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=119",
   "source": "earendel.js"
 },
     {
@@ -5578,7 +5546,7 @@ window.SONG_DATA.push(
   "artist": "Ai Higuchi",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=123",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=120",
   "source": "earendel.js"
 },
     {
@@ -5586,7 +5554,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=124",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=121",
   "source": "earendel.js"
 },
     {
@@ -5594,7 +5562,7 @@ window.SONG_DATA.push(
   "artist": "G.E.M鄧紫棋",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=125",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=122",
   "source": "earendel.js"
 },
     {
@@ -5602,7 +5570,7 @@ window.SONG_DATA.push(
   "artist": "ヰ世界情緒",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=126",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=123",
   "source": "earendel.js"
 },
     {
@@ -5610,7 +5578,7 @@ window.SONG_DATA.push(
   "artist": "持修",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=127",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=124",
   "source": "earendel.js"
 },
     {
@@ -5618,7 +5586,7 @@ window.SONG_DATA.push(
   "artist": "好樂團GoodBand",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=128",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=125",
   "source": "earendel.js"
 },
     {
@@ -5626,7 +5594,7 @@ window.SONG_DATA.push(
   "artist": "Crispy脆樂團",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=129",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=126",
   "source": "earendel.js"
 },
     {
@@ -5634,7 +5602,7 @@ window.SONG_DATA.push(
   "artist": "郁可唯",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=130",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=127",
   "source": "earendel.js"
 },
     {
@@ -5642,7 +5610,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=131",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=128",
   "source": "earendel.js"
 },
     {
@@ -5650,7 +5618,7 @@ window.SONG_DATA.push(
   "artist": "井上杏美",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=132",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=129",
   "source": "earendel.js"
 },
     {
@@ -5658,7 +5626,7 @@ window.SONG_DATA.push(
   "artist": "井上杏美",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=133",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=130",
   "source": "earendel.js"
 },
     {
@@ -5666,7 +5634,7 @@ window.SONG_DATA.push(
   "artist": "Crispy脆樂團",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=134",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=131",
   "source": "earendel.js"
 },
     {
@@ -5674,7 +5642,7 @@ window.SONG_DATA.push(
   "artist": "厄倫蒂兒 Earendel",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=135",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=132",
   "source": "earendel.js"
 },
     {
@@ -5682,7 +5650,7 @@ window.SONG_DATA.push(
   "artist": "梁靜茹",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=136",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=133",
   "source": "earendel.js"
 },
     {
@@ -5690,7 +5658,7 @@ window.SONG_DATA.push(
   "artist": "Tuki.",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=137",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=134",
   "source": "earendel.js"
 },
     {
@@ -5698,7 +5666,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=138",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=135",
   "source": "earendel.js"
 },
     {
@@ -5706,7 +5674,7 @@ window.SONG_DATA.push(
   "artist": "木村弓",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=139",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=136",
   "source": "earendel.js"
 },
     {
@@ -5714,7 +5682,7 @@ window.SONG_DATA.push(
   "artist": "木村弓",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=140",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=137",
   "source": "earendel.js"
 },
     {
@@ -5722,7 +5690,7 @@ window.SONG_DATA.push(
   "artist": "井上杏美",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=141",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=138",
   "source": "earendel.js"
 },
     {
@@ -5730,7 +5698,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=142",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=139",
   "source": "earendel.js"
 },
     {
@@ -5738,7 +5706,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=143",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=140",
   "source": "earendel.js"
 },
     {
@@ -5746,7 +5714,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=144",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=141",
   "source": "earendel.js"
 },
     {
@@ -5754,7 +5722,7 @@ window.SONG_DATA.push(
   "artist": "蒂兒",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=145",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=142",
   "source": "earendel.js"
 },
     {
@@ -5762,7 +5730,7 @@ window.SONG_DATA.push(
   "artist": "陳華",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=146",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=143",
   "source": "earendel.js"
 },
     {
@@ -5770,7 +5738,7 @@ window.SONG_DATA.push(
   "artist": "井上杏美",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=147",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=144",
   "source": "earendel.js"
 },
     {
@@ -5778,7 +5746,7 @@ window.SONG_DATA.push(
   "artist": "井上杏美",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=148",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=145",
   "source": "earendel.js"
 },
     {
@@ -5786,7 +5754,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=149",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=146",
   "source": "earendel.js"
 },
     {
@@ -5794,7 +5762,7 @@ window.SONG_DATA.push(
   "artist": "May J",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=150",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=147",
   "source": "earendel.js"
 },
     {
@@ -5802,7 +5770,7 @@ window.SONG_DATA.push(
   "artist": "ROSÉ & Bruno Mars",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=151",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=148",
   "source": "earendel.js"
 },
     {
@@ -5810,7 +5778,7 @@ window.SONG_DATA.push(
   "artist": "Zarame",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=152",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=149",
   "source": "earendel.js"
 },
     {
@@ -5818,7 +5786,7 @@ window.SONG_DATA.push(
   "artist": "一青窈",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=153",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=150",
   "source": "earendel.js"
 },
     {
@@ -5826,7 +5794,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=154",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=151",
   "source": "earendel.js"
 },
     {
@@ -5834,7 +5802,7 @@ window.SONG_DATA.push(
   "artist": "Crispy脆樂團",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=155",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=152",
   "source": "earendel.js"
 },
     {
@@ -5842,7 +5810,7 @@ window.SONG_DATA.push(
   "artist": "ヰ世界情緒",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=156",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=153",
   "source": "earendel.js"
 },
     {
@@ -5850,7 +5818,7 @@ window.SONG_DATA.push(
   "artist": "好樂團 GoodBand",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=157",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=154",
   "source": "earendel.js"
 },
     {
@@ -5858,7 +5826,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=158",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=155",
   "source": "earendel.js"
 },
     {
@@ -5866,7 +5834,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=159",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=156",
   "source": "earendel.js"
 },
     {
@@ -5874,7 +5842,7 @@ window.SONG_DATA.push(
   "artist": "木村弓",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=160",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=157",
   "source": "earendel.js"
 },
     {
@@ -5882,7 +5850,7 @@ window.SONG_DATA.push(
   "artist": "大塚愛",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=161",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=158",
   "source": "earendel.js"
 },
     {
@@ -5890,7 +5858,7 @@ window.SONG_DATA.push(
   "artist": "秦基博",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=162",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=159",
   "source": "earendel.js"
 },
     {
@@ -5898,7 +5866,7 @@ window.SONG_DATA.push(
   "artist": "徐佳瑩",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=163",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=160",
   "source": "earendel.js"
 },
     {
@@ -5906,7 +5874,7 @@ window.SONG_DATA.push(
   "artist": "ZONE",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=164",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=161",
   "source": "earendel.js"
 },
     {
@@ -5914,7 +5882,7 @@ window.SONG_DATA.push(
   "artist": "張齊山",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=165",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=162",
   "source": "earendel.js"
 },
     {
@@ -5922,7 +5890,7 @@ window.SONG_DATA.push(
   "artist": "7!!",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=166",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=163",
   "source": "earendel.js"
 },
     {
@@ -5930,7 +5898,7 @@ window.SONG_DATA.push(
   "artist": "雙笙",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=167",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=164",
   "source": "earendel.js"
 },
     {
@@ -5938,7 +5906,7 @@ window.SONG_DATA.push(
   "artist": "明透",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=168",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=165",
   "source": "earendel.js"
 },
     {
@@ -5946,7 +5914,7 @@ window.SONG_DATA.push(
   "artist": "張碧晨",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=169",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=166",
   "source": "earendel.js"
 },
     {
@@ -5954,7 +5922,7 @@ window.SONG_DATA.push(
   "artist": "Tuki.",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=170",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=167",
   "source": "earendel.js"
 },
     {
@@ -5962,7 +5930,7 @@ window.SONG_DATA.push(
   "artist": "吉星出租",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=171",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=168",
   "source": "earendel.js"
 },
     {
@@ -5970,7 +5938,7 @@ window.SONG_DATA.push(
   "artist": "GUMI",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=172",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=169",
   "source": "earendel.js"
 },
     {
@@ -5978,7 +5946,7 @@ window.SONG_DATA.push(
   "artist": "鄭興",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=173",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=170",
   "source": "earendel.js"
 },
     {
@@ -5986,7 +5954,7 @@ window.SONG_DATA.push(
   "artist": "五月天",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=174",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=171",
   "source": "earendel.js"
 },
     {
@@ -5994,7 +5962,7 @@ window.SONG_DATA.push(
   "artist": "廣瀨香美",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=175",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=172",
   "source": "earendel.js"
 },
     {
@@ -6002,7 +5970,7 @@ window.SONG_DATA.push(
   "artist": "坂本真綾",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=176",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=173",
   "source": "earendel.js"
 },
     {
@@ -6010,7 +5978,7 @@ window.SONG_DATA.push(
   "artist": "Miura Jam",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=177",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=174",
   "source": "earendel.js"
 },
     {
@@ -6018,7 +5986,7 @@ window.SONG_DATA.push(
   "artist": "盧廣仲",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=178",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=175",
   "source": "earendel.js"
 },
     {
@@ -6026,7 +5994,7 @@ window.SONG_DATA.push(
   "artist": "Kurokumo",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=179",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=176",
   "source": "earendel.js"
 },
     {
@@ -6034,7 +6002,7 @@ window.SONG_DATA.push(
   "artist": "Lia",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=180",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=177",
   "source": "earendel.js"
 },
     {
@@ -6042,7 +6010,7 @@ window.SONG_DATA.push(
   "artist": "和田光司",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=181",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=178",
   "source": "earendel.js"
 },
     {
@@ -6050,7 +6018,7 @@ window.SONG_DATA.push(
   "artist": "張惠妹",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=182",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=179",
   "source": "earendel.js"
 },
     {
@@ -6058,7 +6026,7 @@ window.SONG_DATA.push(
   "artist": "梁靜茹",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=183",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=180",
   "source": "earendel.js"
 },
     {
@@ -6066,7 +6034,7 @@ window.SONG_DATA.push(
   "artist": "蒂兒",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=184",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=181",
   "source": "earendel.js"
 },
     {
@@ -6074,7 +6042,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=185",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=182",
   "source": "earendel.js"
 },
     {
@@ -6082,7 +6050,7 @@ window.SONG_DATA.push(
   "artist": "魏如萱",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=186",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=183",
   "source": "earendel.js"
 },
     {
@@ -6090,7 +6058,7 @@ window.SONG_DATA.push(
   "artist": "蒂兒",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=187",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=184",
   "source": "earendel.js"
 },
     {
@@ -6098,7 +6066,7 @@ window.SONG_DATA.push(
   "artist": "黃玠",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=188",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=185",
   "source": "earendel.js"
 },
     {
@@ -6106,7 +6074,7 @@ window.SONG_DATA.push(
   "artist": "好樂團GoodBand",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=189",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=186",
   "source": "earendel.js"
 },
     {
@@ -6114,7 +6082,7 @@ window.SONG_DATA.push(
   "artist": "Kaye Ballard",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=190",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=187",
   "source": "earendel.js"
 },
     {
@@ -6122,7 +6090,7 @@ window.SONG_DATA.push(
   "artist": "松原美紀",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=191",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=188",
   "source": "earendel.js"
 },
     {
@@ -6130,7 +6098,7 @@ window.SONG_DATA.push(
   "artist": "樋口愛",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=192",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=189",
   "source": "earendel.js"
 },
     {
@@ -6138,7 +6106,7 @@ window.SONG_DATA.push(
   "artist": "EGOIST",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=193",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=190",
   "source": "earendel.js"
 },
     {
@@ -6146,7 +6114,7 @@ window.SONG_DATA.push(
   "artist": "郁可唯",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=194",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=191",
   "source": "earendel.js"
 },
     {
@@ -6154,7 +6122,7 @@ window.SONG_DATA.push(
   "artist": "Idina Menzel",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=195",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=192",
   "source": "earendel.js"
 },
     {
@@ -6162,7 +6130,7 @@ window.SONG_DATA.push(
   "artist": "台語版",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=196",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=193",
   "source": "earendel.js"
 },
     {
@@ -6170,7 +6138,7 @@ window.SONG_DATA.push(
   "artist": "しぐれうい",
   "collection": "厄倫蒂兒 4期 240923-241115",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=197",
+  "link": "https://www.bilibili.com/video/BV1zokzYxE2v?p=194",
   "source": "earendel.js"
 },
     {
