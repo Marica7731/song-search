@@ -1,6 +1,6 @@
 // 天籠りのん - 歌单数据 (多合集汇总)
 // 来源: BV1hw4m1i7qN
-// 生成时间: 4/25/2026, 7:44:15 AM
+// 生成时间: 4/25/2026, 8:17:39 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2038,8 +2038,8 @@ window.SONG_DATA.push(
   "source": "linon.js"
 },
     {
-  "title": "虚無虚無です。- 天籠りのん",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "虚無虚無です。",
+  "artist": "天籠りのん",
   "collection": "白丝3D回，不看后悔【 Linon ch. 天籠りのん】6首分4P，中间强度串】【240721】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JV8mevE3a?p=4",
