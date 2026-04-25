@@ -9,6 +9,7 @@ const CLEAN_SUFFIX_REGEX = /(\s*\(\d+\)|_(sub|copy|backup|1080p|720p|\d+))$/i;
 const TRAILING_TAG_REGEX = /(?:\s*(?:\[[^\]]*\]|【[^】]*】|【[^】]*))+$/;
 const LEADING_SOURCE_REGEX = /^(?:\s*【[^】]+】)+\s*/;
 const LEADING_INDEX_REGEX = /^(?:\s*\[\d+(?:\s*[-/]\s*\d+)+\]\.?\s*|\s*\d+\.\s+|\s*P\d+[：:]\s*)/i;
+const SPECIAL_BRACKET_ARTIST_SET = new Set(['[Alexandros]', '[ALEXANDROS]']);
 const ROOT_DIR = path.join(__dirname, '..');
 const DEFAULT_SINGER_CONFIG_PATH = path.join(__dirname, 'singer-configs.json');
 const ENV_SINGER_CONFIG_PATH = (process.env.SINGER_CONFIG_PATH || '').trim();
@@ -290,10 +291,18 @@ function cleanTitle(rawTitle) {
 }
 
 function cleanArtist(rawArtist) {
-    let artist = String(rawArtist || '').trim();
-    artist = artist.replace(TRAILING_TAG_REGEX, '').trim();
+    const original = String(rawArtist || '').trim();
+    const originalWithoutSource = original.replace(LEADING_SOURCE_REGEX, '').trim();
+    let artist = original.replace(TRAILING_TAG_REGEX, '').trim();
+    if (!artist && SPECIAL_BRACKET_ARTIST_SET.has(originalWithoutSource)) {
+        artist = originalWithoutSource;
+    }
     artist = artist.replace(LEADING_SOURCE_REGEX, '').trim();
-    return artist.replace(CLEAN_SUFFIX_REGEX, '').trim();
+    artist = artist.replace(CLEAN_SUFFIX_REGEX, '').trim();
+    if (!artist && SPECIAL_BRACKET_ARTIST_SET.has(originalWithoutSource)) {
+        return originalWithoutSource;
+    }
+    return artist;
 }
 
 function splitSongTitleAndArtist(partTitle) {
@@ -312,6 +321,23 @@ function splitSongTitleAndArtist(partTitle) {
     }
 
     return { title, artist };
+}
+
+function resolveSongTitleAndArtist(episodeMetadata, pageMeta) {
+    const parsedFromPart = splitSongTitleAndArtist(pageMeta.part || '');
+    const isSinglePageEpisode = Number(episodeMetadata.videos || 0) <= 1
+        && Number(pageMeta.page || 1) === 1;
+
+    if (!isSinglePageEpisode || parsedFromPart.artist !== DEFAULT_ARTIST_TEXT) {
+        return parsedFromPart;
+    }
+
+    const parsedFromVideoTitle = splitSongTitleAndArtist(episodeMetadata.title || '');
+    if (parsedFromVideoTitle.title && parsedFromVideoTitle.artist !== DEFAULT_ARTIST_TEXT) {
+        return parsedFromVideoTitle;
+    }
+
+    return parsedFromPart;
 }
 
 function collectEpisodeBvids(anchorMetadata) {
@@ -341,7 +367,7 @@ function collectEpisodeBvids(anchorMetadata) {
 }
 
 function buildSongItem(config, episodeMetadata, pageMeta) {
-    const parsed = splitSongTitleAndArtist(pageMeta.part || '');
+    const parsed = resolveSongTitleAndArtist(episodeMetadata, pageMeta);
     return {
         title: parsed.title,
         artist: parsed.artist,
