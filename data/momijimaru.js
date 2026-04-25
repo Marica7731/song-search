@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 4/25/2026, 6:22:47 PM
+// 生成时间: 4/25/2026, 6:42:02 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3320,7 +3320,7 @@ window.SONG_DATA.push(
     {
   "title": "月陽 -ツキアカリ-",
   "artist": "りぶ",
-  "collection": "【🍁歌切】[2026-04-25]直播前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "collection": "【🍁歌切】[2026-04-25]在Live前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JBoXB4Enu?p=1",
   "source": "momijimaru.js"
@@ -3328,7 +3328,7 @@ window.SONG_DATA.push(
     {
   "title": "太陽系デスコ",
   "artist": "ナユタン星人",
-  "collection": "【🍁歌切】[2026-04-25]直播前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "collection": "【🍁歌切】[2026-04-25]在Live前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JBoXB4Enu?p=2",
   "source": "momijimaru.js"
@@ -3336,7 +3336,7 @@ window.SONG_DATA.push(
     {
   "title": "Make you hot!",
   "artist": "あたたかくなる × FAKE TYPE.",
-  "collection": "【🍁歌切】[2026-04-25]直播前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "collection": "【🍁歌切】[2026-04-25]在Live前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JBoXB4Enu?p=3",
   "source": "momijimaru.js"
@@ -3344,7 +3344,7 @@ window.SONG_DATA.push(
     {
   "title": "ミラクルショッピング ～ドン・キホーテのテーマ～",
   "artist": "田中マイミ",
-  "collection": "【🍁歌切】[2026-04-25]直播前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "collection": "【🍁歌切】[2026-04-25]在Live前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JBoXB4Enu?p=4",
   "source": "momijimaru.js"
@@ -3352,7 +3352,7 @@ window.SONG_DATA.push(
     {
   "title": "唱",
   "artist": "Ado",
-  "collection": "【🍁歌切】[2026-04-25]直播前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "collection": "【🍁歌切】[2026-04-25]在Live前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JBoXB4Enu?p=5",
   "source": "momijimaru.js"
@@ -3360,7 +3360,7 @@ window.SONG_DATA.push(
     {
   "title": "はいよろこんで",
   "artist": "こっちのけんと",
-  "collection": "【🍁歌切】[2026-04-25]直播前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "collection": "【🍁歌切】[2026-04-25]在Live前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JBoXB4Enu?p=6",
   "source": "momijimaru.js"
@@ -3368,7 +3368,7 @@ window.SONG_DATA.push(
     {
   "title": "もういいよ",
   "artist": "こっちのけんと",
-  "collection": "【🍁歌切】[2026-04-25]直播前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "collection": "【🍁歌切】[2026-04-25]在Live前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JBoXB4Enu?p=7",
   "source": "momijimaru.js"
@@ -3376,7 +3376,7 @@ window.SONG_DATA.push(
     {
   "title": "絶頂讃歌",
   "artist": "和ぬか",
-  "collection": "【🍁歌切】[2026-04-25]直播前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "collection": "【🍁歌切】[2026-04-25]在Live前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JBoXB4Enu?p=8",
   "source": "momijimaru.js"
@@ -3384,7 +3384,7 @@ window.SONG_DATA.push(
     {
   "title": "マシュマロ",
   "artist": "DECO*27",
-  "collection": "【🍁歌切】[2026-04-25]直播前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "collection": "【🍁歌切】[2026-04-25]在Live前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JBoXB4Enu?p=9",
   "source": "momijimaru.js"
@@ -3392,7 +3392,7 @@ window.SONG_DATA.push(
     {
   "title": "革命道中",
   "artist": "アイナ・ジ・エンド",
-  "collection": "【🍁歌切】[2026-04-25]直播前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "collection": "【🍁歌切】[2026-04-25]在Live前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JBoXB4Enu?p=10",
   "source": "momijimaru.js"
@@ -3400,7 +3400,7 @@ window.SONG_DATA.push(
     {
   "title": "ビビデバ",
   "artist": "星街すいせい",
-  "collection": "【🍁歌切】[2026-04-25]直播前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "collection": "【🍁歌切】[2026-04-25]在Live前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JBoXB4Enu?p=11",
   "source": "momijimaru.js"
@@ -3408,7 +3408,7 @@ window.SONG_DATA.push(
     {
   "title": "Stellar Stellar",
   "artist": "星街すいせい",
-  "collection": "【🍁歌切】[2026-04-25]直播前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "collection": "【🍁歌切】[2026-04-25]在Live前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JBoXB4Enu?p=12",
   "source": "momijimaru.js"
@@ -3416,7 +3416,7 @@ window.SONG_DATA.push(
     {
   "title": "セレナーデ",
   "artist": "なとり",
-  "collection": "【🍁歌切】[2026-04-25]直播前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "collection": "【🍁歌切】[2026-04-25]在Live前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JBoXB4Enu?p=13",
   "source": "momijimaru.js"
@@ -3424,7 +3424,7 @@ window.SONG_DATA.push(
     {
   "title": "誇り高きアイドル",
   "artist": "HoneyWorks feat. Kotoha",
-  "collection": "【🍁歌切】[2026-04-25]直播前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "collection": "【🍁歌切】[2026-04-25]在Live前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JBoXB4Enu?p=14",
   "source": "momijimaru.js"
@@ -3432,7 +3432,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄",
   "artist": "Vaundy",
-  "collection": "【🍁歌切】[2026-04-25]直播前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "collection": "【🍁歌切】[2026-04-25]在Live前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JBoXB4Enu?p=15",
   "source": "momijimaru.js"
@@ -3440,7 +3440,7 @@ window.SONG_DATA.push(
     {
   "title": "すみれ色の紅",
   "artist": "紅葉丸チャンネル",
-  "collection": "【🍁歌切】[2026-04-25]直播前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "collection": "【🍁歌切】[2026-04-25]在Live前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JBoXB4Enu?p=16",
   "source": "momijimaru.js"
