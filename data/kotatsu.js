@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 4/26/2026, 7:50:36 PM
+// 生成时间: 4/26/2026, 8:10:53 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1347,6 +1347,38 @@ window.SONG_DATA.push(
   "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=34",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "月明かりのように",
+  "artist": "はる こたつぶとん倶楽部☘",
+  "collection": "【♧🎸歌切】[2026-04-26]ぽつり、ぽつりと春を歌います KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eFoqBTEZo?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "春",
+  "artist": "はる こたつぶとん倶楽部☘",
+  "collection": "【♧🎸歌切】[2026-04-26]ぽつり、ぽつりと春を歌います KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eFoqBTEZo?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "笑ったり転んだり",
+  "artist": "ハンバートハンバート",
+  "collection": "【♧🎸歌切】[2026-04-26]ぽつり、ぽつりと春を歌います KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eFoqBTEZo?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "tomorrow",
+  "artist": "MOROHA",
+  "collection": "【♧🎸歌切】[2026-04-26]ぽつり、ぽつりと春を歌います KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eFoqBTEZo?p=4",
   "source": "kotatsu.js"
 }
 );
