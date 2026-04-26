@@ -1,6 +1,6 @@
 // ロマニ - 歌单数据 (多合集汇总)
 // 来源: BV1KHXxBUErU, BV1iHQXBzEgU
-// 生成时间: 4/26/2026, 8:11:49 PM
+// 生成时间: 4/26/2026, 8:32:28 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1339,6 +1339,126 @@ window.SONG_DATA.push(
   "collection": "【ロマニ🎸弾き語り歌切】[2026-04-24]用心唱歌…🌸 ロマニードットアイオー / ROMANY. io",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bqo7BgEok?p=5",
+  "source": "romany.js"
+},
+    {
+  "title": "夜撫でるメノウ",
+  "artist": "Ayase",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-26]星期日惯例歌回──✦用声音传递治愈时光🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHoiBPEGW?p=1",
+  "source": "romany.js"
+},
+    {
+  "title": "Flavor Of Life",
+  "artist": "宇多田ヒカル",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-26]星期日惯例歌回──✦用声音传递治愈时光🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHoiBPEGW?p=2",
+  "source": "romany.js"
+},
+    {
+  "title": "春",
+  "artist": "阿部真央",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-26]星期日惯例歌回──✦用声音传递治愈时光🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHoiBPEGW?p=3",
+  "source": "romany.js"
+},
+    {
+  "title": "Sunday n\"AI\"ght",
+  "artist": "ロマニードットアイオー",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-26]星期日惯例歌回──✦用声音传递治愈时光🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHoiBPEGW?p=4",
+  "source": "romany.js"
+},
+    {
+  "title": "ギブス",
+  "artist": "椎名林檎",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-26]星期日惯例歌回──✦用声音传递治愈时光🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHoiBPEGW?p=5",
+  "source": "romany.js"
+},
+    {
+  "title": "愛を伝えたいだとか",
+  "artist": "あいみょん",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-26]星期日惯例歌回──✦用声音传递治愈时光🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHoiBPEGW?p=6",
+  "source": "romany.js"
+},
+    {
+  "title": "カプチーノ",
+  "artist": "椎名林檎",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-26]星期日惯例歌回──✦用声音传递治愈时光🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHoiBPEGW?p=7",
+  "source": "romany.js"
+},
+    {
+  "title": "黒毛和牛上塩タン焼680円",
+  "artist": "大塚愛",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-26]星期日惯例歌回──✦用声音传递治愈时光🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHoiBPEGW?p=8",
+  "source": "romany.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-26]星期日惯例歌回──✦用声音传递治愈时光🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHoiBPEGW?p=9",
+  "source": "romany.js"
+},
+    {
+  "title": "ルージュの伝言",
+  "artist": "荒井由実",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-26]星期日惯例歌回──✦用声音传递治愈时光🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHoiBPEGW?p=10",
+  "source": "romany.js"
+},
+    {
+  "title": "True Colors",
+  "artist": "Cyndi Lauper",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-26]星期日惯例歌回──✦用声音传递治愈时光🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHoiBPEGW?p=11",
+  "source": "romany.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-26]星期日惯例歌回──✦用声音传递治愈时光🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHoiBPEGW?p=12",
+  "source": "romany.js"
+},
+    {
+  "title": "ミッドナイト・リフレクション",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-26]星期日惯例歌回──✦用声音传递治愈时光🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHoiBPEGW?p=13",
+  "source": "romany.js"
+},
+    {
+  "title": "イキナクチャ",
+  "artist": "ロマニードットアイオー",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-26]星期日惯例歌回──✦用声音传递治愈时光🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHoiBPEGW?p=14",
+  "source": "romany.js"
+},
+    {
+  "title": "ネムレナイ夜",
+  "artist": "ロマニードットアイオー",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-26]星期日惯例歌回──✦用声音传递治愈时光🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHoiBPEGW?p=15",
   "source": "romany.js"
 }
 );
