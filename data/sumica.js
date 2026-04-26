@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 4/26/2026, 8:51:00 PM
+// 生成时间: 4/26/2026, 9:11:36 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2163,6 +2163,166 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-04-23]一日のスイッチを入れたい☀️ガチ寝起きでも歌うわよ～ -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nXobBfE8e?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "声",
+  "artist": "羊文学",
+  "collection": "【歌切】[2026-04-26]悠悠弹唱来补充能量吧～🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtoiBFE5H?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "ブラック☆ロックシューター",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-04-26]悠悠弹唱来补充能量吧～🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtoiBFE5H?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "コイスルオトメ",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-04-26]悠悠弹唱来补充能量吧～🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtoiBFE5H?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-04-26]悠悠弹唱来补充能量吧～🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtoiBFE5H?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "ダーリン",
+  "artist": "須田景凪",
+  "collection": "【歌切】[2026-04-26]悠悠弹唱来补充能量吧～🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtoiBFE5H?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "第一夜",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-26]悠悠弹唱来补充能量吧～🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtoiBFE5H?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-26]悠悠弹唱来补充能量吧～🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtoiBFE5H?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "ブレーメン",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-26]悠悠弹唱来补充能量吧～🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtoiBFE5H?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "メロウ",
+  "artist": "須田景凪",
+  "collection": "【歌切】[2026-04-26]悠悠弹唱来补充能量吧～🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtoiBFE5H?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "Mellow",
+  "artist": "TOMOO",
+  "collection": "【歌切】[2026-04-26]悠悠弹唱来补充能量吧～🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtoiBFE5H?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "木綿のハンカチーフ",
+  "artist": "太田裕美",
+  "collection": "【歌切】[2026-04-26]悠悠弹唱来补充能量吧～🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtoiBFE5H?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "ベーコンエピ",
+  "artist": "TOMOO",
+  "collection": "【歌切】[2026-04-26]悠悠弹唱来补充能量吧～🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtoiBFE5H?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "アヤノの幸福理論",
+  "artist": "じん",
+  "collection": "【歌切】[2026-04-26]悠悠弹唱来补充能量吧～🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtoiBFE5H?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "ハッピーエンド",
+  "artist": "back number",
+  "collection": "【歌切】[2026-04-26]悠悠弹唱来补充能量吧～🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtoiBFE5H?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "KissHug",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-04-26]悠悠弹唱来补充能量吧～🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtoiBFE5H?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "ヒカレイノチ",
+  "artist": "Kitri",
+  "collection": "【歌切】[2026-04-26]悠悠弹唱来补充能量吧～🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtoiBFE5H?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "心に穴が空いた",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-26]悠悠弹唱来补充能量吧～🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtoiBFE5H?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "アポリア",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-26]悠悠弹唱来补充能量吧～🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtoiBFE5H?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-26]悠悠弹唱来补充能量吧～🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtoiBFE5H?p=19",
+  "source": "sumica.js"
+},
+    {
+  "title": "ちょっと待って！",
+  "artist": "澄花",
+  "collection": "【歌切】[2026-04-26]悠悠弹唱来补充能量吧～🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gtoiBFE5H?p=20",
   "source": "sumica.js"
 }
 );
