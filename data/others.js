@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 4/27/2026, 6:16:02 PM
+// 生成时间: 4/27/2026, 6:36:18 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10939,6 +10939,150 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-04-08 あいまるん。- Aimarun。 Jl6Jy1OriCI 唱些感人的歌哦！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18xo1BHEkX?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "歌切 2026-04-11 あいまるん。- Aimarun。 nUYkdSdcXUc 初次竖屏直播哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12UoyB2EB1?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "いかないで",
+  "artist": "想太 feat. 歌愛ユキ",
+  "collection": "歌切 2026-04-11 あいまるん。- Aimarun。 nUYkdSdcXUc 初次竖屏直播哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12UoyB2EB1?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "リードコントロール",
+  "artist": "なるみや",
+  "collection": "歌切 2026-04-11 あいまるん。- Aimarun。 nUYkdSdcXUc 初次竖屏直播哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12UoyB2EB1?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "雪だるまつくろう",
+  "artist": "神田沙也加・稲葉菜月・諸星すみれ",
+  "collection": "歌切 2026-04-11 あいまるん。- Aimarun。 nUYkdSdcXUc 初次竖屏直播哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12UoyB2EB1?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "ラヴィ",
+  "artist": "すりぃ feat. 鏡音レン",
+  "collection": "歌切 2026-04-11 あいまるん。- Aimarun。 nUYkdSdcXUc 初次竖屏直播哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12UoyB2EB1?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "シル・ヴ・プレジデント",
+  "artist": "P丸様。",
+  "collection": "歌切 2026-04-11 あいまるん。- Aimarun。 nUYkdSdcXUc 初次竖屏直播哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12UoyB2EB1?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-04-11 あいまるん。- Aimarun。 nUYkdSdcXUc 初次竖屏直播哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12UoyB2EB1?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "逆光",
+  "artist": "Ado",
+  "collection": "歌切 2026-04-11 あいまるん。- Aimarun。 nUYkdSdcXUc 初次竖屏直播哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12UoyB2EB1?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多首哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Buo1BAEtF?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "ハロ／ハワユ",
+  "artist": "ナノウ",
+  "collection": "歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多首哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Buo1BAEtF?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "コールボーイ",
+  "artist": "syudou",
+  "collection": "歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多首哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Buo1BAEtF?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "ただ声一つ",
+  "artist": "ロクデナシ",
+  "collection": "歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多首哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Buo1BAEtF?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "鬼ノ宴",
+  "artist": "友成空",
+  "collection": "歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多首哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Buo1BAEtF?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多首哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Buo1BAEtF?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多首哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Buo1BAEtF?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "内緒のピアス",
+  "collection": "歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多首哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Buo1BAEtF?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "モエチャッカファイア",
+  "artist": "弌誠",
+  "collection": "歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多首哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Buo1BAEtF?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "右肩の蝶",
+  "artist": "のりぴー",
+  "collection": "歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多首哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Buo1BAEtF?p=10",
   "source": "others.js"
 },
     {
