@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 4/27/2026, 5:54:16 PM
+// 生成时间: 4/27/2026, 6:16:02 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10883,6 +10883,62 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-04-20 狐宵いなり - Inari Koyoi - o_vg4tJcT_4 深夜のしっとり弾き語り🎸ch登録6000人耐久歌枠！！🎤✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PwoPBoEuy?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "マジか!",
+  "artist": "梓川",
+  "collection": "歌切 2026-04-08 あいまるん。- Aimarun。 Jl6Jy1OriCI 唱些感人的歌哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18xo1BHEkX?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "モエチャッカファイア",
+  "artist": "弌誠",
+  "collection": "歌切 2026-04-08 あいまるん。- Aimarun。 Jl6Jy1OriCI 唱些感人的歌哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18xo1BHEkX?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "歌切 2026-04-08 あいまるん。- Aimarun。 Jl6Jy1OriCI 唱些感人的歌哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18xo1BHEkX?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "神っぽいな",
+  "artist": "ピノキオピー",
+  "collection": "歌切 2026-04-08 あいまるん。- Aimarun。 Jl6Jy1OriCI 唱些感人的歌哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18xo1BHEkX?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "歌切 2026-04-08 あいまるん。- Aimarun。 Jl6Jy1OriCI 唱些感人的歌哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18xo1BHEkX?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "踊",
+  "artist": "Ado",
+  "collection": "歌切 2026-04-08 あいまるん。- Aimarun。 Jl6Jy1OriCI 唱些感人的歌哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18xo1BHEkX?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "mona(CV:夏川椎菜)",
+  "collection": "歌切 2026-04-08 あいまるん。- Aimarun。 Jl6Jy1OriCI 唱些感人的歌哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18xo1BHEkX?p=7",
   "source": "others.js"
 },
     {
