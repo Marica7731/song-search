@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 4/27/2026, 6:55:24 PM
+// 生成时间: 4/27/2026, 7:13:46 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -11131,6 +11131,118 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多首哦！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Buo1BAEtF?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多歌哟！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAo1BMEyA?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "ヴァンパイア",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多歌哟！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAo1BMEyA?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "テレパシ",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多歌哟！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAo1BMEyA?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多歌哟！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAo1BMEyA?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "モザイクロール",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多歌哟！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAo1BMEyA?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "乙女解剖",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多歌哟！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAo1BMEyA?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ヒバナ",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多歌哟！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAo1BMEyA?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "ジレンマ",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多歌哟！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAo1BMEyA?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "アニマル",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多歌哟！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAo1BMEyA?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "妄想税",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多歌哟！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAo1BMEyA?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "ラビットホール",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多歌哟！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAo1BMEyA?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "リバーシブル・キャンペーン",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多歌哟！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAo1BMEyA?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "ゴーストルール",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多歌哟！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAo1BMEyA?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "愛言葉III",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多歌哟！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAo1BMEyA?p=14",
   "source": "others.js"
 },
     {
