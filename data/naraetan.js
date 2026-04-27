@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 4/27/2026, 7:22:54 PM
+// 生成时间: 4/27/2026, 7:42:39 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7699,6 +7699,134 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-04-24]星期五歌回🪴なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15gonB4EY8?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ミックスナッツ",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-04-27]🎤欢迎第一次观看的观众 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oboyB8Ecj?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "1925",
+  "artist": "T-POCKET feat. 初音ミク",
+  "collection": "【歌切】[2026-04-27]🎤欢迎第一次观看的观众 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oboyB8Ecj?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "GLAMOROUS SKY",
+  "artist": "NANA starring MIKA NAKASHIMA",
+  "collection": "【歌切】[2026-04-27]🎤欢迎第一次观看的观众 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oboyB8Ecj?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "桜色舞うころ",
+  "artist": "中島美嘉",
+  "collection": "【歌切】[2026-04-27]🎤欢迎第一次观看的观众 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oboyB8Ecj?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "One more time, One more chance",
+  "artist": "山崎まさよし",
+  "collection": "【歌切】[2026-04-27]🎤欢迎第一次观看的观众 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oboyB8Ecj?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "fragile",
+  "artist": "Every Little Thing",
+  "collection": "【歌切】[2026-04-27]🎤欢迎第一次观看的观众 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oboyB8Ecj?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-04-27]🎤欢迎第一次观看的观众 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oboyB8Ecj?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "innocent starter",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-04-27]🎤欢迎第一次观看的观众 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oboyB8Ecj?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "嵐の中で輝いて",
+  "artist": "米倉千尋",
+  "collection": "【歌切】[2026-04-27]🎤欢迎第一次观看的观众 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oboyB8Ecj?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "翼",
+  "artist": "藍井エイル",
+  "collection": "【歌切】[2026-04-27]🎤欢迎第一次观看的观众 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oboyB8Ecj?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "only my railgun",
+  "artist": "fripSide",
+  "collection": "【歌切】[2026-04-27]🎤欢迎第一次观看的观众 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oboyB8Ecj?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "はなまるぴっぴはよいこだけ",
+  "artist": "A応P",
+  "collection": "【歌切】[2026-04-27]🎤欢迎第一次观看的观众 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oboyB8Ecj?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "1/3の純情な感情",
+  "artist": "SIAM SHADE",
+  "collection": "【歌切】[2026-04-27]🎤欢迎第一次观看的观众 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oboyB8Ecj?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
+  "collection": "【歌切】[2026-04-27]🎤欢迎第一次观看的观众 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oboyB8Ecj?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-27]🎤欢迎第一次观看的观众 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oboyB8Ecj?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ハナノイロ",
+  "artist": "nano.RIPE",
+  "collection": "【歌切】[2026-04-27]🎤欢迎第一次观看的观众 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oboyB8Ecj?p=16",
   "source": "naraetan.js"
 },
     {

@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 4/27/2026, 7:22:06 PM
+// 生成时间: 4/27/2026, 7:41:46 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3443,6 +3443,70 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-04-25]在Live前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JBoXB4Enu?p=16",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ロックスター",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-04-27]Live辛苦了!! 用歌声冷却Live的热度的歌回🧊✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fPo1BiExH?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "一難",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-04-27]Live辛苦了!! 用歌声冷却Live的热度的歌回🧊✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fPo1BiExH?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "パンダヒーロー",
+  "artist": "ハチ feat. GUMI",
+  "collection": "【🍁歌切】[2026-04-27]Live辛苦了!! 用歌声冷却Live的热度的歌回🧊✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fPo1BiExH?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ラヴィ",
+  "artist": "すりぃ feat. 鏡音レン",
+  "collection": "【🍁歌切】[2026-04-27]Live辛苦了!! 用歌声冷却Live的热度的歌回🧊✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fPo1BiExH?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ともに",
+  "artist": "WANIMA",
+  "collection": "【🍁歌切】[2026-04-27]Live辛苦了!! 用歌声冷却Live的热度的歌回🧊✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fPo1BiExH?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍁歌切】[2026-04-27]Live辛苦了!! 用歌声冷却Live的热度的歌回🧊✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fPo1BiExH?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "点描の唄",
+  "artist": "Mrs. GREEN APPLE feat. 井上苑子",
+  "collection": "【🍁歌切】[2026-04-27]Live辛苦了!! 用歌声冷却Live的热度的歌回🧊✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fPo1BiExH?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【🍁歌切】[2026-04-27]Live辛苦了!! 用歌声冷却Live的热度的歌回🧊✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fPo1BiExH?p=8",
   "source": "momijimaru.js"
 }
 );
