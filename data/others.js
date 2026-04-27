@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 4/27/2026, 6:36:18 PM
+// 生成时间: 4/27/2026, 6:55:24 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -11003,6 +11003,54 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-04-11 あいまるん。- Aimarun。 nUYkdSdcXUc 初次竖屏直播哦！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12UoyB2EB1?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師, 宇多田ヒカル",
+  "collection": "歌切 2026-04-15 あいまるん。- Aimarun。 c5ER_P5kaQQ 竖屏！唱歌啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV119oyBVE9t?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "とても素敵な六月でした",
+  "artist": "Eight feat. 初音ミク",
+  "collection": "歌切 2026-04-15 あいまるん。- Aimarun。 c5ER_P5kaQQ 竖屏！唱歌啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV119oyBVE9t?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "テレパシ",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "歌切 2026-04-15 あいまるん。- Aimarun。 c5ER_P5kaQQ 竖屏！唱歌啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV119oyBVE9t?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "魔性の女A",
+  "artist": "紫 今",
+  "collection": "歌切 2026-04-15 あいまるん。- Aimarun。 c5ER_P5kaQQ 竖屏！唱歌啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV119oyBVE9t?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "歌切 2026-04-15 あいまるん。- Aimarun。 c5ER_P5kaQQ 竖屏！唱歌啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV119oyBVE9t?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "mona CV 夏川椎菜",
+  "collection": "歌切 2026-04-15 あいまるん。- Aimarun。 c5ER_P5kaQQ 竖屏！唱歌啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV119oyBVE9t?p=6",
   "source": "others.js"
 },
     {
