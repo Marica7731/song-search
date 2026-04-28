@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 4/28/2026, 10:24:30 PM
+// 生成时间: 4/28/2026, 10:44:50 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14819,6 +14819,142 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-04-19]最强创作歌手歌回接力演唱✧ 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GedfB8Eo1?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Blue Jeans",
+  "artist": "HANA",
+  "collection": "【🐍歌切】[2026-04-28]钢琴伴奏歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tT92BkE8B?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "きゅうくらりん",
+  "artist": "いよわ feat. 可不",
+  "collection": "【🐍歌切】[2026-04-28]钢琴伴奏歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tT92BkE8B?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "メランコリック",
+  "artist": "Junky feat. 鏡音リン",
+  "collection": "【🐍歌切】[2026-04-28]钢琴伴奏歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tT92BkE8B?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【🐍歌切】[2026-04-28]钢琴伴奏歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tT92BkE8B?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "May'n & 中島愛",
+  "collection": "【🐍歌切】[2026-04-28]钢琴伴奏歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tT92BkE8B?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【🐍歌切】[2026-04-28]钢琴伴奏歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tT92BkE8B?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "君をのせて",
+  "artist": "井上あずみ",
+  "collection": "【🐍歌切】[2026-04-28]钢琴伴奏歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tT92BkE8B?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "相思相愛",
+  "artist": "aiko",
+  "collection": "【🐍歌切】[2026-04-28]钢琴伴奏歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tT92BkE8B?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Secret of my heart",
+  "artist": "倉木麻衣",
+  "collection": "【🐍歌切】[2026-04-28]钢琴伴奏歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tT92BkE8B?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "いかないで",
+  "artist": "想太 feat. 歌愛ユキ",
+  "collection": "【🐍歌切】[2026-04-28]钢琴伴奏歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tT92BkE8B?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "トリノコシティ",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "【🐍歌切】[2026-04-28]钢琴伴奏歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tT92BkE8B?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "サリシノハラ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "【🐍歌切】[2026-04-28]钢琴伴奏歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tT92BkE8B?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "I LOVE YOU",
+  "artist": "尾崎豊",
+  "collection": "【🐍歌切】[2026-04-28]钢琴伴奏歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tT92BkE8B?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "オリビアを聴きながら",
+  "artist": "杏里",
+  "collection": "【🐍歌切】[2026-04-28]钢琴伴奏歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tT92BkE8B?p=14",
+  "source": "ririsya.js"
+},
+    {
+  "title": "最後の雨",
+  "artist": "中西保志",
+  "collection": "【🐍歌切】[2026-04-28]钢琴伴奏歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tT92BkE8B?p=15",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Wherever you are",
+  "artist": "ONE OK ROCK",
+  "collection": "【🐍歌切】[2026-04-28]钢琴伴奏歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tT92BkE8B?p=16",
+  "source": "ririsya.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【🐍歌切】[2026-04-28]钢琴伴奏歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tT92BkE8B?p=17",
   "source": "ririsya.js"
 }
 );
