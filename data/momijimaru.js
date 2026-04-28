@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 4/28/2026, 8:02:48 PM
+// 生成时间: 4/28/2026, 8:22:32 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3507,6 +3507,142 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-04-27]Live辛苦了!! 用歌声冷却Live的热度的歌回🧊✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fPo1BiExH?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "一二三",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-04-28]被治愈吧…!! 柔和温馨的emo歌曲限定歌回🪽✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hF92B7EXa?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍁歌切】[2026-04-28]被治愈吧…!! 柔和温馨的emo歌曲限定歌回🪽✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hF92B7EXa?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【🍁歌切】[2026-04-28]被治愈吧…!! 柔和温馨的emo歌曲限定歌回🪽✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hF92B7EXa?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "なんでもないや",
+  "artist": "RADWIMPS",
+  "collection": "【🍁歌切】[2026-04-28]被治愈吧…!! 柔和温馨的emo歌曲限定歌回🪽✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hF92B7EXa?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "スパークル",
+  "artist": "RADWIMPS",
+  "collection": "【🍁歌切】[2026-04-28]被治愈吧…!! 柔和温馨的emo歌曲限定歌回🪽✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hF92B7EXa?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【🍁歌切】[2026-04-28]被治愈吧…!! 柔和温馨的emo歌曲限定歌回🪽✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hF92B7EXa?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "命に嫌われている。",
+  "artist": "カンザキイオリ",
+  "collection": "【🍁歌切】[2026-04-28]被治愈吧…!! 柔和温馨的emo歌曲限定歌回🪽✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hF92B7EXa?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "鱗",
+  "artist": "秦基博",
+  "collection": "【🍁歌切】[2026-04-28]被治愈吧…!! 柔和温馨的emo歌曲限定歌回🪽✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hF92B7EXa?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【🍁歌切】[2026-04-28]被治愈吧…!! 柔和温馨的emo歌曲限定歌回🪽✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hF92B7EXa?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "がらくた",
+  "artist": "米津玄師",
+  "collection": "【🍁歌切】[2026-04-28]被治愈吧…!! 柔和温馨的emo歌曲限定歌回🪽✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hF92B7EXa?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "アイロニ",
+  "artist": "すこっぷ",
+  "collection": "【🍁歌切】[2026-04-28]被治愈吧…!! 柔和温馨的emo歌曲限定歌回🪽✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hF92B7EXa?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "紡ぐ",
+  "artist": "とた",
+  "collection": "【🍁歌切】[2026-04-28]被治愈吧…!! 柔和温馨的emo歌曲限定歌回🪽✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hF92B7EXa?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "【🍁歌切】[2026-04-28]被治愈吧…!! 柔和温馨的emo歌曲限定歌回🪽✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hF92B7EXa?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar",
+  "collection": "【🍁歌切】[2026-04-28]被治愈吧…!! 柔和温馨的emo歌曲限定歌回🪽✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hF92B7EXa?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "【🍁歌切】[2026-04-28]被治愈吧…!! 柔和温馨的emo歌曲限定歌回🪽✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hF92B7EXa?p=15",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "天国",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍁歌切】[2026-04-28]被治愈吧…!! 柔和温馨的emo歌曲限定歌回🪽✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hF92B7EXa?p=16",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "フィナーレ。",
+  "artist": "eill",
+  "collection": "【🍁歌切】[2026-04-28]被治愈吧…!! 柔和温馨的emo歌曲限定歌回🪽✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hF92B7EXa?p=17",
   "source": "momijimaru.js"
 }
 );
