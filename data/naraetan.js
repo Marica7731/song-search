@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 4/29/2026, 4:23:45 PM
+// 生成时间: 4/29/2026, 4:44:27 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7827,6 +7827,102 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-04-27]🎤欢迎第一次观看的观众 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oboyB8Ecj?p=16",
+  "source": "naraetan.js"
+},
+    {
+  "title": "BOY MEETS GIRL",
+  "artist": "TRF",
+  "collection": "【歌切】[2026-04-28]用韩语唱著名的动漫歌曲会是怎样呢🤭 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1489sB7E5N?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "勇気100％",
+  "artist": "光GENJI",
+  "collection": "【歌切】[2026-04-28]用韩语唱著名的动漫歌曲会是怎样呢🤭 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1489sB7E5N?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Breeze",
+  "artist": "林原めぐみ",
+  "collection": "【歌切】[2026-04-28]用韩语唱著名的动漫歌曲会是怎样呢🤭 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1489sB7E5N?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "カクテル",
+  "artist": "Hysteric Blue",
+  "collection": "【歌切】[2026-04-28]用韩语唱著名的动漫歌曲会是怎样呢🤭 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1489sB7E5N?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "きみにとどけ",
+  "artist": "タニザワトモフミ",
+  "collection": "【歌切】[2026-04-28]用韩语唱著名的动漫歌曲会是怎样呢🤭 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1489sB7E5N?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "For フルーツバスケット",
+  "artist": "岡崎律子",
+  "collection": "【歌切】[2026-04-28]用韩语唱著名的动漫歌曲会是怎样呢🤭 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1489sB7E5N?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Love Chronicle",
+  "artist": "Changin’ My Life",
+  "collection": "【歌切】[2026-04-28]用韩语唱著名的动漫歌曲会是怎样呢🤭 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1489sB7E5N?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Driver's High",
+  "artist": "L'Arc〜en〜Ciel",
+  "collection": "【歌切】[2026-04-28]用韩语唱著名的动漫歌曲会是怎样呢🤭 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1489sB7E5N?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ほうき星",
+  "artist": "ユンナ",
+  "collection": "【歌切】[2026-04-28]用韩语唱著名的动漫歌曲会是怎样呢🤭 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1489sB7E5N?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Grip!",
+  "artist": "Every Little Thing",
+  "collection": "【歌切】[2026-04-28]用韩语唱著名的动漫歌曲会是怎样呢🤭 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1489sB7E5N?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【歌切】[2026-04-28]用韩语唱著名的动漫歌曲会是怎样呢🤭 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1489sB7E5N?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "恋のヒメヒメぺったんこ",
+  "artist": "姫野湖鳥(田村ゆかり)",
+  "collection": "【歌切】[2026-04-28]用韩语唱著名的动漫歌曲会是怎样呢🤭 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1489sB7E5N?p=12",
   "source": "naraetan.js"
 },
     {

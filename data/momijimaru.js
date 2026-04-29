@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 4/29/2026, 4:22:15 PM
+// 生成时间: 4/29/2026, 4:42:42 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3643,6 +3643,46 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-04-28]被治愈吧…!! 柔和温馨的emo歌曲限定歌回🪽✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hF92B7EXa?p=17",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【🍁歌切】[2026-04-29]音乐回响之处 希望有你的身影 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1289sB7Ef8?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【🍁歌切】[2026-04-29]音乐回响之处 希望有你的身影 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1289sB7Ef8?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【🍁歌切】[2026-04-29]音乐回响之处 希望有你的身影 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1289sB7Ef8?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "雲と幽霊",
+  "artist": "ヨルシカ",
+  "collection": "【🍁歌切】[2026-04-29]音乐回响之处 希望有你的身影 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1289sB7Ef8?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【🍁歌切】[2026-04-29]音乐回响之处 希望有你的身影 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1289sB7Ef8?p=5",
   "source": "momijimaru.js"
 }
 );
