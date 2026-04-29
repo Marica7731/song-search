@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 4/29/2026, 5:43:29 PM
+// 生成时间: 4/29/2026, 6:03:17 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -29867,6 +29867,150 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】#265[2026-04-26]睡眠导入歌回✨请享受睡前的放松时光🌙 Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dEoiBNEV3?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-04-29]新曲发布前！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NJ9tBQEMy?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "シネマ",
+  "artist": "Ayase",
+  "collection": "【💐歌切】[2026-04-29]新曲发布前！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NJ9tBQEMy?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "NIGHT DANCER",
+  "artist": "imase",
+  "collection": "【💐歌切】[2026-04-29]新曲发布前！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NJ9tBQEMy?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
+  "collection": "【💐歌切】[2026-04-29]新曲发布前！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NJ9tBQEMy?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【💐歌切】[2026-04-29]新曲发布前！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NJ9tBQEMy?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "鬼ノ宴",
+  "artist": "友成空",
+  "collection": "【💐歌切】[2026-04-29]新曲发布前！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NJ9tBQEMy?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "Limbo",
+  "artist": "春野",
+  "collection": "【💐歌切】[2026-04-29]新曲发布前！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NJ9tBQEMy?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "櫂",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-04-29]新曲发布前！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NJ9tBQEMy?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-04-29]新曲发布前！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NJ9tBQEMy?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "月迷風影",
+  "artist": "有坂美香",
+  "collection": "【💐歌切】[2026-04-29]新曲发布前！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NJ9tBQEMy?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "エイリアンズ",
+  "artist": "キリンジ",
+  "collection": "【💐歌切】[2026-04-29]新曲发布前！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NJ9tBQEMy?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "家族の風景",
+  "artist": "ハナレグミ",
+  "collection": "【💐歌切】[2026-04-29]新曲发布前！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NJ9tBQEMy?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "モルト",
+  "artist": "Lavt",
+  "collection": "【💐歌切】[2026-04-29]新曲发布前！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NJ9tBQEMy?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "たしかなこと",
+  "artist": "小田和正",
+  "collection": "【💐歌切】[2026-04-29]新曲发布前！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NJ9tBQEMy?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "三日月サンセット",
+  "artist": "サカナクション",
+  "collection": "【💐歌切】[2026-04-29]新曲发布前！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NJ9tBQEMy?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "This Love",
+  "artist": "アンジェラ・アキ",
+  "collection": "【💐歌切】[2026-04-29]新曲发布前！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NJ9tBQEMy?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "対象a",
+  "artist": "anNina",
+  "collection": "【💐歌切】[2026-04-29]新曲发布前！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NJ9tBQEMy?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "やわらかな夜",
+  "artist": "orange pekoe",
+  "collection": "【💐歌切】[2026-04-29]新曲发布前！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NJ9tBQEMy?p=18",
   "source": "figaro.js"
 }
 );
