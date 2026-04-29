@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 4/29/2026, 5:11:15 PM
+// 生成时间: 4/29/2026, 5:31:10 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2323,6 +2323,150 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-04-26]悠悠弹唱来补充能量吧～🔥 -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gtoiBFE5H?p=20",
+  "source": "sumica.js"
+},
+    {
+  "title": "ブラック★ロックシューター",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-04-29]稍微来看看吧？从中午开始愉快地弹唱哦～🎶 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JC9sBBEdA?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "始発とカフカ",
+  "artist": "ナブナ",
+  "collection": "【歌切】[2026-04-29]稍微来看看吧？从中午开始愉快地弹唱哦～🎶 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JC9sBBEdA?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-04-29]稍微来看看吧？从中午开始愉快地弹唱哦～🎶 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JC9sBBEdA?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "花人局",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-29]稍微来看看吧？从中午开始愉快地弹唱哦～🎶 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JC9sBBEdA?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "そっけない",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-04-29]稍微来看看吧？从中午开始愉快地弹唱哦～🎶 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JC9sBBEdA?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "又三郎",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-29]稍微来看看吧？从中午开始愉快地弹唱哦～🎶 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JC9sBBEdA?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "相思相愛",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-04-29]稍微来看看吧？从中午开始愉快地弹唱哦～🎶 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JC9sBBEdA?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "ありがとう",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-04-29]稍微来看看吧？从中午开始愉快地弹唱哦～🎶 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JC9sBBEdA?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-04-29]稍微来看看吧？从中午开始愉快地弹唱哦～🎶 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JC9sBBEdA?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "more than words",
+  "artist": "羊文学",
+  "collection": "【歌切】[2026-04-29]稍微来看看吧？从中午开始愉快地弹唱哦～🎶 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JC9sBBEdA?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "Burning",
+  "artist": "羊文学",
+  "collection": "【歌切】[2026-04-29]稍微来看看吧？从中午开始愉快地弹唱哦～🎶 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JC9sBBEdA?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-04-29]稍微来看看吧？从中午开始愉快地弹唱哦～🎶 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JC9sBBEdA?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "ミスター・ブルースカイ",
+  "artist": "マカロニえんぴつ",
+  "collection": "【歌切】[2026-04-29]稍微来看看吧？从中午开始愉快地弹唱哦～🎶 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JC9sBBEdA?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "ヨンジュウナナ",
+  "artist": "りぶ",
+  "collection": "【歌切】[2026-04-29]稍微来看看吧？从中午开始愉快地弹唱哦～🎶 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JC9sBBEdA?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "眼差し",
+  "artist": "ロクデナシ",
+  "collection": "【歌切】[2026-04-29]稍微来看看吧？从中午开始愉快地弹唱哦～🎶 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JC9sBBEdA?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-29]稍微来看看吧？从中午开始愉快地弹唱哦～🎶 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JC9sBBEdA?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "澄花原创",
+  "artist": "澄花",
+  "collection": "【歌切】[2026-04-29]稍微来看看吧？从中午开始愉快地弹唱哦～🎶 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JC9sBBEdA?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "一日惚れ",
+  "artist": "澄花",
+  "collection": "【歌切】[2026-04-29]稍微来看看吧？从中午开始愉快地弹唱哦～🎶 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JC9sBBEdA?p=18",
   "source": "sumica.js"
 }
 );
