@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 4/29/2026, 4:56:20 PM
+// 生成时间: 4/29/2026, 5:15:33 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -11379,6 +11379,110 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-04-27 ななし律歌 / Nanashi Rikka 6_BbqP9J95Q 放松一下吧～🎸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zx92B8E7C?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "どこまでも ～How Far I'll Go～",
+  "artist": "屋比久知奈",
+  "collection": "歌切 2026-04-29 がびのお部屋-Gabi's room vJBMepjlYfc 迪士尼歌曲时间～只唱一个小时～！！唱起来~♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1us9sBQErT?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "自由への扉",
+  "artist": "小此木麻里",
+  "collection": "歌切 2026-04-29 がびのお部屋-Gabi's room vJBMepjlYfc 迪士尼歌曲时间～只唱一个小时～！！唱起来~♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1us9sBQErT?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "パート・オブ・ユア・ワールド",
+  "artist": "すずきまゆみ",
+  "collection": "歌切 2026-04-29 がびのお部屋-Gabi's room vJBMepjlYfc 迪士尼歌曲时间～只唱一个小时～！！唱起来~♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1us9sBQErT?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "夢に見る ～Waiting On A Wish～",
+  "artist": "吉柳咲良",
+  "collection": "歌切 2026-04-29 がびのお部屋-Gabi's room vJBMepjlYfc 迪士尼歌曲时间～只唱一个小时～！！唱起来~♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1us9sBQErT?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "リフレクション",
+  "artist": "伊東恵里",
+  "collection": "歌切 2026-04-29 がびのお部屋-Gabi's room vJBMepjlYfc 迪士尼歌曲时间～只唱一个小时～！！唱起来~♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1us9sBQErT?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "美女と野獣",
+  "artist": "昆夏美・山崎育三郎",
+  "collection": "歌切 2026-04-29 がびのお部屋-Gabi's room vJBMepjlYfc 迪士尼歌曲时间～只唱一个小时～！！唱起来~♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1us9sBQErT?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "イントゥ・ジ・アンノウン～心のままに",
+  "artist": "松たか子・オーロラ",
+  "collection": "歌切 2026-04-29 がびのお部屋-Gabi's room vJBMepjlYfc 迪士尼歌曲时间～只唱一个小时～！！唱起来~♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1us9sBQErT?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "君の願いが世界を輝かす",
+  "artist": "MISIA",
+  "collection": "歌切 2026-04-29 がびのお部屋-Gabi's room vJBMepjlYfc 迪士尼歌曲时间～只唱一个小时～！！唱起来~♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1us9sBQErT?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "小さな世界",
+  "artist": "ディズニー",
+  "collection": "歌切 2026-04-29 がびのお部屋-Gabi's room vJBMepjlYfc 迪士尼歌曲时间～只唱一个小时～！！唱起来~♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1us9sBQErT?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "カラー・オブ・ザ・ウィンド",
+  "artist": "土居裕子",
+  "collection": "歌切 2026-04-29 がびのお部屋-Gabi's room vJBMepjlYfc 迪士尼歌曲时间～只唱一个小时～！！唱起来~♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1us9sBQErT?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "想いを伝えて",
+  "artist": "木村聡子・小森創介・ミュージッククリエイション・MCキッズ・フレーベル少年合唱団",
+  "collection": "歌切 2026-04-29 がびのお部屋-Gabi's room vJBMepjlYfc 迪士尼歌曲时间～只唱一个小时～！！唱起来~♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1us9sBQErT?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "ウィッシュ～この願い～",
+  "artist": "生田絵梨花",
+  "collection": "歌切 2026-04-29 がびのお部屋-Gabi's room vJBMepjlYfc 迪士尼歌曲时间～只唱一个小时～！！唱起来~♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1us9sBQErT?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "星に願いを",
+  "artist": "藤島新・東京混声合唱団・ナチュラルノーツ",
+  "collection": "歌切 2026-04-29 がびのお部屋-Gabi's room vJBMepjlYfc 迪士尼歌曲时间～只唱一个小时～！！唱起来~♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1us9sBQErT?p=13",
   "source": "others.js"
 },
     {
