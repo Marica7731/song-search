@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据 (多合集汇总)
 // 来源: BV1zzZPBsEum
-// 生成时间: 5/1/2026, 7:46:50 AM
+// 生成时间: 5/1/2026, 8:07:02 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5059,6 +5059,118 @@ window.SONG_DATA.push(
   "collection": "【👿歌切】[2026-04-21]ラジオ代わりの夜歌枠📻🎶深夜にギターを練習する悪魔👿💪 Ruki Otokado 音門るき [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MLd9BMETr?p=14",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "心予報",
+  "artist": "Eve",
+  "collection": "【👿歌切】[2026-05-01]深夜电台替代歌曲节目 📻🎶 黄金周开始了✨？ 👿 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18ERMByEfM?p=1",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "新世界",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【👿歌切】[2026-05-01]深夜电台替代歌曲节目 📻🎶 黄金周开始了✨？ 👿 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18ERMByEfM?p=2",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna",
+  "collection": "【👿歌切】[2026-05-01]深夜电台替代歌曲节目 📻🎶 黄金周开始了✨？ 👿 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18ERMByEfM?p=3",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "キスしちゃだめっ！",
+  "artist": "HoneyWorks",
+  "collection": "【👿歌切】[2026-05-01]深夜电台替代歌曲节目 📻🎶 黄金周开始了✨？ 👿 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18ERMByEfM?p=4",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "スターマイン",
+  "artist": "Da-iCE",
+  "collection": "【👿歌切】[2026-05-01]深夜电台替代歌曲节目 📻🎶 黄金周开始了✨？ 👿 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18ERMByEfM?p=5",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "雪の華",
+  "artist": "中島美嘉",
+  "collection": "【👿歌切】[2026-05-01]深夜电台替代歌曲节目 📻🎶 黄金周开始了✨？ 👿 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18ERMByEfM?p=6",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "負けないで",
+  "artist": "ZARD",
+  "collection": "【👿歌切】[2026-05-01]深夜电台替代歌曲节目 📻🎶 黄金周开始了✨？ 👿 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18ERMByEfM?p=7",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "コロンブス",
+  "artist": "Mr. GREEN APPLE",
+  "collection": "【👿歌切】[2026-05-01]深夜电台替代歌曲节目 📻🎶 黄金周开始了✨？ 👿 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18ERMByEfM?p=8",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【👿歌切】[2026-05-01]深夜电台替代歌曲节目 📻🎶 黄金周开始了✨？ 👿 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18ERMByEfM?p=9",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ぎゅっと。",
+  "artist": "もさを。",
+  "collection": "【👿歌切】[2026-05-01]深夜电台替代歌曲节目 📻🎶 黄金周开始了✨？ 👿 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18ERMByEfM?p=10",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【👿歌切】[2026-05-01]深夜电台替代歌曲节目 📻🎶 黄金周开始了✨？ 👿 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18ERMByEfM?p=11",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "なんでもないよ、",
+  "artist": "マカロニえんぴつ",
+  "collection": "【👿歌切】[2026-05-01]深夜电台替代歌曲节目 📻🎶 黄金周开始了✨？ 👿 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18ERMByEfM?p=12",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【👿歌切】[2026-05-01]深夜电台替代歌曲节目 📻🎶 黄金周开始了✨？ 👿 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18ERMByEfM?p=13",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "天体観測",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【👿歌切】[2026-05-01]深夜电台替代歌曲节目 📻🎶 黄金周开始了✨？ 👿 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18ERMByEfM?p=14",
   "source": "otomoneruki.js"
 }
 );
