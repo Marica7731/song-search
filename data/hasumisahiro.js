@@ -1,6 +1,6 @@
 // 羽澄さひろ - 歌单数据 (多合集汇总)
 // 来源: BV1tKcZztEw5
-// 生成时间: 5/1/2026, 8:14:55 AM
+// 生成时间: 5/1/2026, 8:53:53 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -715,6 +715,206 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=17",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "彗星になれたなら",
+  "artist": "はるまきごはん",
+  "collection": "歌切 2026-05-01 羽澄さひろ / Hasumi Sahiro Rk_BQMCEUv4 工作结束后来个歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MHRMBkERt?p=1",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ヒカリヘ",
+  "artist": "miwa",
+  "collection": "歌切 2026-05-01 羽澄さひろ / Hasumi Sahiro Rk_BQMCEUv4 工作结束后来个歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MHRMBkERt?p=2",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "文学少年の憂鬱",
+  "artist": "ナノウ",
+  "collection": "歌切 2026-05-01 羽澄さひろ / Hasumi Sahiro Rk_BQMCEUv4 工作结束后来个歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MHRMBkERt?p=3",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Namidairo",
+  "artist": "YUI",
+  "collection": "歌切 2026-05-01 羽澄さひろ / Hasumi Sahiro Rk_BQMCEUv4 工作结束后来个歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MHRMBkERt?p=4",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ロケットスニーカー",
+  "artist": "大塚愛",
+  "collection": "歌切 2026-05-01 羽澄さひろ / Hasumi Sahiro Rk_BQMCEUv4 工作结束后来个歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MHRMBkERt?p=5",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "サターン",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "歌切 2026-05-01 羽澄さひろ / Hasumi Sahiro Rk_BQMCEUv4 工作结束后来个歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MHRMBkERt?p=6",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Ham",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "歌切 2026-05-01 羽澄さひろ / Hasumi Sahiro Rk_BQMCEUv4 工作结束后来个歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MHRMBkERt?p=7",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "コイスルオトメ",
+  "artist": "いきものがかり",
+  "collection": "歌切 2026-05-01 羽澄さひろ / Hasumi Sahiro Rk_BQMCEUv4 工作结束后来个歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MHRMBkERt?p=8",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Dear",
+  "artist": "19's Sound Factory",
+  "collection": "歌切 2026-05-01 羽澄さひろ / Hasumi Sahiro Rk_BQMCEUv4 工作结束后来个歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MHRMBkERt?p=9",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "traveling",
+  "artist": "宇多田ヒカル",
+  "collection": "歌切 2026-05-01 羽澄さひろ / Hasumi Sahiro Rk_BQMCEUv4 工作结束后来个歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MHRMBkERt?p=10",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "CRAZY FOR YOU",
+  "artist": "Kylee",
+  "collection": "歌切 2026-05-01 羽澄さひろ / Hasumi Sahiro Rk_BQMCEUv4 工作结束后来个歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MHRMBkERt?p=11",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "A Perfect Sky",
+  "artist": "BONNIE PINK",
+  "collection": "歌切 2026-05-01 羽澄さひろ / Hasumi Sahiro Rk_BQMCEUv4 工作结束后来个歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MHRMBkERt?p=12",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ヒラヒラヒラク秘密ノ扉",
+  "artist": "チャットモンチー",
+  "collection": "歌切 2026-05-01 羽澄さひろ / Hasumi Sahiro Rk_BQMCEUv4 工作结束后来个歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MHRMBkERt?p=13",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "KNOCK",
+  "artist": "back number",
+  "collection": "歌切 2026-05-01 羽澄さひろ / Hasumi Sahiro Rk_BQMCEUv4 工作结束后来个歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MHRMBkERt?p=14",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "カロン",
+  "artist": "ねごと",
+  "collection": "歌切 2026-05-01 羽澄さひろ / Hasumi Sahiro Rk_BQMCEUv4 工作结束后来个歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MHRMBkERt?p=15",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "涙のふるさと",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "歌切 2026-05-01 羽澄さひろ / Hasumi Sahiro Rk_BQMCEUv4 工作结束后来个歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MHRMBkERt?p=16",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ラブホテル",
+  "artist": "クリープハイプ",
+  "collection": "歌切 2026-05-01 羽澄さひろ / Hasumi Sahiro Rk_BQMCEUv4 工作结束后来个歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MHRMBkERt?p=17",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "思い出せなくなるその日まで",
+  "artist": "back number",
+  "collection": "歌切 2026-05-01 羽澄さひろ / Hasumi Sahiro Rk_BQMCEUv4 工作结束后来个歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MHRMBkERt?p=18",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "思い出せなくなるその日まで",
+  "artist": "back number",
+  "collection": "歌切 2026-05-01 羽澄さひろ / Hasumi Sahiro Rk_BQMCEUv4 工作结束后来个歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MHRMBkERt?p=19",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "星に願いを",
+  "artist": "flumpool",
+  "collection": "歌切 2026-05-01 羽澄さひろ / Hasumi Sahiro Rk_BQMCEUv4 工作结束后来个歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MHRMBkERt?p=20",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "My SunShine",
+  "artist": "ROCK'A'TRENCH",
+  "collection": "歌切 2026-05-01 羽澄さひろ / Hasumi Sahiro Rk_BQMCEUv4 工作结束后来个歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MHRMBkERt?p=21",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-05-01 羽澄さひろ / Hasumi Sahiro Rk_BQMCEUv4 工作结束后来个歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MHRMBkERt?p=22",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-05-01 羽澄さひろ / Hasumi Sahiro Rk_BQMCEUv4 工作结束后来个歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MHRMBkERt?p=23",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "文学少年の憂鬱",
+  "artist": "ナノウ feat. 初音ミク",
+  "collection": "歌切 2026-05-01 羽澄さひろ / Hasumi Sahiro Rk_BQMCEUv4 工作结束后来个歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MHRMBkERt?p=24",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "彗星になれたなら",
+  "artist": "はるまきごはん feat. 初音ミク",
+  "collection": "歌切 2026-05-01 羽澄さひろ / Hasumi Sahiro Rk_BQMCEUv4 工作结束后来个歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MHRMBkERt?p=25",
   "source": "hasumisahiro.js"
 }
 );
