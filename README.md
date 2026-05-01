@@ -115,9 +115,42 @@ node scripts/update-song-growth.js
 输出：song-growth.html 和 README.md 的日报段落
 ```
 
+### 按合集小节拆分来源
+
+`scripts/update-songs.js` 支持在来源配置里用合集小节标题拆分同一个 B 站合集。适用于 `BV1xucZzxEkZ` 这类“非常驻妹妹”合集里按人物分小节的情况。
+
+配置示例：
+
+```json
+{ "bvids": ["BV1tKcZztEw5"], "file": "hasumisahiro", "alias": "羽澄さひろ", "sectionTitle": "羽澄さひろ" }
+```
+
+字段说明：
+
+- `sectionTitle`：只收录入口 BV 所属合集里标题完全匹配的小节。
+- `sectionTitles`：可配置多个要收录的小节标题。
+- `excludeSectionTitle` / `excludeSectionTitles`：从合集来源里排除指定小节，避免同一小节同时进入独立来源和“非常驻妹妹”。
+
+本次拆分的三个来源是：
+
+```text
+BV1tKcZztEw5 羽澄さひろ -> data/hasumisahiro.js
+BV18xo1BHEkX あいまるん。 -> data/aimarun.js
+BV1wHQVBTEU5 ななし律歌 -> data/nanashirikka.js
+```
+
+验证方式：
+
+```powershell
+node --check scripts/update-songs.js
+node scripts/update-songs.js
+npm run check:library
+```
+
 注意：
 
 - BV 号在配置里保持原样，不要强制改大小写。
+- `sectionTitle` 按 B 站接口返回的小节标题完全匹配，改名或空格差异会影响收录。
 - `reports/bv-metadata-cache.json` 和 `reports/update-songs-meta.json` 是运行缓存，不提交。
 - 服务器管理 token、cookie、AI key、`.env` 不写入仓库。
 
