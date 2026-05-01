@@ -164,6 +164,19 @@ function resolveConfig(config) {
 
 const RESOLVED_SINGER_CONFIGS = SINGER_CONFIGS.map(resolveConfig);
 
+function normalizeSectionTitle(value) {
+    return String(value || '').trim();
+}
+
+function buildSectionTitleSet(...values) {
+    const result = new Set();
+    values.flat().forEach(value => {
+        const title = normalizeSectionTitle(value);
+        if (title) result.add(title);
+    });
+    return result;
+}
+
 function loadMetadataCache() {
     if (!fs.existsSync(METADATA_CACHE_PATH)) return {};
     try {
@@ -340,11 +353,16 @@ function resolveSongTitleAndArtist(episodeMetadata, pageMeta) {
     return parsedFromPart;
 }
 
-function collectEpisodeBvids(anchorMetadata) {
+function collectEpisodeBvids(anchorMetadata, config = {}) {
     const episodeMap = new Map();
+    const includeSectionTitles = buildSectionTitleSet(config.sectionTitle, config.sectionTitles || []);
+    const excludeSectionTitles = buildSectionTitleSet(config.excludeSectionTitle, config.excludeSectionTitles || []);
 
     if (Array.isArray(anchorMetadata.sections) && anchorMetadata.sections.length > 0) {
         anchorMetadata.sections.forEach(section => {
+            const sectionTitle = normalizeSectionTitle(section.title);
+            if (includeSectionTitles.size > 0 && !includeSectionTitles.has(sectionTitle)) return;
+            if (excludeSectionTitles.has(sectionTitle)) return;
             (section.episodes || []).forEach(episode => {
                 if (BV_REGEX.test(episode.bvid) && !episodeMap.has(episode.bvid)) {
                     episodeMap.set(episode.bvid, episode);
@@ -353,7 +371,7 @@ function collectEpisodeBvids(anchorMetadata) {
         });
     }
 
-    if (episodeMap.size === 0 && BV_REGEX.test(anchorMetadata.bvid)) {
+    if (episodeMap.size === 0 && includeSectionTitles.size === 0 && BV_REGEX.test(anchorMetadata.bvid)) {
         episodeMap.set(anchorMetadata.bvid, {
             bvid: anchorMetadata.bvid,
             title: anchorMetadata.title,
@@ -400,7 +418,7 @@ async function processSinger(config, cache) {
         console.log(`  🔍 正在解析入口 BV: ${anchorBvid}`);
         try {
             const anchorMetadata = await fetchBvMetadata(anchorBvid, cache, true);
-            collectEpisodeBvids(anchorMetadata).forEach(episode => {
+            collectEpisodeBvids(anchorMetadata, config).forEach(episode => {
                 if (!episodeBvids.has(episode.bvid)) {
                     episodeBvids.set(episode.bvid, episode);
                 }
