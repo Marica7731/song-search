@@ -1,6 +1,6 @@
 // ロマニ - 歌单数据 (多合集汇总)
 // 来源: BV1KHXxBUErU, BV1iHQXBzEgU
-// 生成时间: 5/1/2026, 1:10:27 PM
+// 生成时间: 5/1/2026, 1:31:44 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -782,6 +782,182 @@ window.SONG_DATA.push(
   "source": "romany.js"
 },
     {
+  "title": "Catch the Moment",
+  "artist": "LiSA",
+  "collection": "【ロマニ】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=1",
+  "source": "romany.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【ロマニ】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=2",
+  "source": "romany.js"
+},
+    {
+  "title": "oath sign",
+  "artist": "LiSA",
+  "collection": "【ロマニ】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=3",
+  "source": "romany.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "May'n/中島愛",
+  "collection": "【ロマニ】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=4",
+  "source": "romany.js"
+},
+    {
+  "title": "God knows…",
+  "artist": "涼宮ハルヒ(平野綾)",
+  "collection": "【ロマニ】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=5",
+  "source": "romany.js"
+},
+    {
+  "title": "Rising Hope",
+  "artist": "LiSA",
+  "collection": "【ロマニ】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=6",
+  "source": "romany.js"
+},
+    {
+  "title": "ADAMAS",
+  "artist": "LiSA",
+  "collection": "【ロマニ】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=7",
+  "source": "romany.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "【ロマニ】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=8",
+  "source": "romany.js"
+},
+    {
+  "title": "I beg you",
+  "artist": "Aimer",
+  "collection": "【ロマニ】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=9",
+  "source": "romany.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【ロマニ】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=10",
+  "source": "romany.js"
+},
+    {
+  "title": "ミッドナイト・リフレクション",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【ロマニ】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=11",
+  "source": "romany.js"
+},
+    {
+  "title": "メルト",
+  "artist": "CPK! Remix ‑ /ryo",
+  "collection": "【ロマニ】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=12",
+  "source": "romany.js"
+},
+    {
+  "title": "RE:I AM",
+  "artist": "Aimer",
+  "collection": "【ロマニ】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=13",
+  "source": "romany.js"
+},
+    {
+  "title": "Los! Los! Los!",
+  "artist": "ターニャ・デグレチャフ(悠木碧)",
+  "collection": "【ロマニ】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=14",
+  "source": "romany.js"
+},
+    {
+  "title": "レイメイ",
+  "artist": "さユり×MY FIRST STORY",
+  "collection": "【ロマニ】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=15",
+  "source": "romany.js"
+},
+    {
+  "title": "アンビバレント",
+  "artist": "Uru",
+  "collection": "【ロマニ】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=16",
+  "source": "romany.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【ロマニ】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=17",
+  "source": "romany.js"
+},
+    {
+  "title": "ゆずれない願い",
+  "artist": "田村直美",
+  "collection": "【ロマニ】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=18",
+  "source": "romany.js"
+},
+    {
+  "title": "GG",
+  "artist": "ReoNa",
+  "collection": "【ロマニ】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=19",
+  "source": "romany.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【ロマニ】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=20",
+  "source": "romany.js"
+},
+    {
+  "title": "初期衝動",
+  "artist": "ロマニードットアイオー",
+  "collection": "【ロマニ】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=21",
+  "source": "romany.js"
+},
+    {
+  "title": "ラブドリ！",
+  "artist": "ロマニードットアイオー",
+  "collection": "【ロマニ】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=22",
+  "source": "romany.js"
+},
+    {
   "title": "愛を伝えたいだとか",
   "artist": "あいみょん",
   "collection": "歌势推荐：ロマニードットアイオー 2026-03-22 uFO8GvSxPcU",
@@ -1459,182 +1635,6 @@ window.SONG_DATA.push(
   "collection": "【ロマニ🎸弾き語り歌切】[2026-04-26]星期日惯例歌回──✦用声音传递治愈时光🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VHoiBPEGW?p=15",
-  "source": "romany.js"
-},
-    {
-  "title": "Catch the Moment",
-  "artist": "LiSA",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=1",
-  "source": "romany.js"
-},
-    {
-  "title": "花になって",
-  "artist": "緑黄色社会",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=2",
-  "source": "romany.js"
-},
-    {
-  "title": "oath sign",
-  "artist": "LiSA",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=3",
-  "source": "romany.js"
-},
-    {
-  "title": "ライオン",
-  "artist": "May'n/中島愛",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=4",
-  "source": "romany.js"
-},
-    {
-  "title": "God knows…",
-  "artist": "涼宮ハルヒ(平野綾)",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=5",
-  "source": "romany.js"
-},
-    {
-  "title": "Rising Hope",
-  "artist": "LiSA",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=6",
-  "source": "romany.js"
-},
-    {
-  "title": "ADAMAS",
-  "artist": "LiSA",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=7",
-  "source": "romany.js"
-},
-    {
-  "title": "名前のない怪物",
-  "artist": "EGOIST",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=8",
-  "source": "romany.js"
-},
-    {
-  "title": "I beg you",
-  "artist": "Aimer",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=9",
-  "source": "romany.js"
-},
-    {
-  "title": "君の知らない物語",
-  "artist": "supercell",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=10",
-  "source": "romany.js"
-},
-    {
-  "title": "ミッドナイト・リフレクション",
-  "artist": "NOMELON NOLEMON",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=11",
-  "source": "romany.js"
-},
-    {
-  "title": "メルト",
-  "artist": "CPK! Remix ‑ /ryo",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=12",
-  "source": "romany.js"
-},
-    {
-  "title": "RE:I AM",
-  "artist": "Aimer",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=13",
-  "source": "romany.js"
-},
-    {
-  "title": "Los! Los! Los!",
-  "artist": "ターニャ・デグレチャフ(悠木碧)",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=14",
-  "source": "romany.js"
-},
-    {
-  "title": "レイメイ",
-  "artist": "さユり×MY FIRST STORY",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=15",
-  "source": "romany.js"
-},
-    {
-  "title": "アンビバレント",
-  "artist": "Uru",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=16",
-  "source": "romany.js"
-},
-    {
-  "title": "革命道中",
-  "artist": "アイナ・ジ・エンド",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=17",
-  "source": "romany.js"
-},
-    {
-  "title": "ゆずれない願い",
-  "artist": "田村直美",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=18",
-  "source": "romany.js"
-},
-    {
-  "title": "GG",
-  "artist": "ReoNa",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=19",
-  "source": "romany.js"
-},
-    {
-  "title": "創聖のアクエリオン",
-  "artist": "AKINO",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=20",
-  "source": "romany.js"
-},
-    {
-  "title": "初期衝動",
-  "artist": "ロマニードットアイオー",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=21",
-  "source": "romany.js"
-},
-    {
-  "title": "ラブドリ！",
-  "artist": "ロマニードットアイオー",
-  "collection": "【ロマニ🎸弾き語り歌切】[2026-04-30]为你加油的歌⚡──歌回 ロマニードットアイオー / ROMANY. io",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13ERMByEu8?p=22",
   "source": "romany.js"
 }
 );
