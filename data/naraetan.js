@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 5/1/2026, 6:43:06 AM
+// 生成时间: 5/1/2026, 7:03:53 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7923,6 +7923,174 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-04-28]用韩语唱著名的动漫歌曲会是怎样呢🤭 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1489sB7E5N?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Sailing Day",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ターゲット～赤い衝撃～",
+  "artist": "和田光司",
+  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "スクランブル",
+  "artist": "堀江由衣",
+  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "かわいいだけじゃだめですか？",
+  "artist": "CUTIE STREET",
+  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "いつもこの場所で",
+  "artist": "彩音",
+  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "初めての恋が終わる時",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "鎖の少女",
+  "artist": "のぼる↑",
+  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "今はいいんだよ。",
+  "artist": "MIMI",
+  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Only Human",
+  "artist": "K",
+  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "君がいる限り",
+  "artist": "ステファニー",
+  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "シンデレラボーイ",
+  "artist": "Saucy Dog",
+  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Little Busters!",
+  "artist": "リタ",
+  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "innocent starter",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "BRIGHT STREAM",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夜明け生まれ来る少女",
+  "artist": "高橋洋子",
+  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=16",
+  "source": "naraetan.js"
+},
+    {
+  "title": "白日",
+  "artist": "King Gnu",
+  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=17",
+  "source": "naraetan.js"
+},
+    {
+  "title": "One Last Kiss",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=18",
+  "source": "naraetan.js"
+},
+    {
+  "title": "天樂",
+  "artist": "ゆうゆ",
+  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=19",
+  "source": "naraetan.js"
+},
+    {
+  "title": "黒毛和牛上塩タン焼680円",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=20",
+  "source": "naraetan.js"
+},
+    {
+  "title": "オトノナルホウヘ→",
+  "artist": "Goose house",
+  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=21",
   "source": "naraetan.js"
 },
     {
