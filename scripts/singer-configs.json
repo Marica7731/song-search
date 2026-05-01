@@ -28,6 +28,7 @@
   { "bvids": ["BV1tKcZztEw5"], "file": "hasumisahiro", "alias": "羽澄さひろ", "sectionTitle": "羽澄さひろ" },
   { "bvids": ["BV18xo1BHEkX"], "file": "aimarun", "alias": "あいまるん。", "sectionTitle": "あいまるん。" },
   { "bvids": ["BV1wHQVBTEU5"], "file": "nanashirikka", "alias": "ななし律歌", "sectionTitle": "ななし律歌" },
-  { "bvids": ["BV1xucZzxEkZ", "BV117P2zwEuq", "BV1r1RsYDEvB", "BV1LJ4m1A7FC"], "file": "others", "alias": "非常驻妹妹", "excludeSectionTitles": ["羽澄さひろ", "あいまるん。", "ななし律歌"] },
+  { "bvids": ["BV1YtwtzREbp"], "file": "gabinoheya", "alias": "がびのお部屋", "sectionTitle": "がびのお部屋" },
+  { "bvids": ["BV1xucZzxEkZ", "BV117P2zwEuq", "BV1r1RsYDEvB", "BV1LJ4m1A7FC"], "file": "others", "alias": "非常驻妹妹", "excludeSectionTitles": ["羽澄さひろ", "あいまるん。", "ななし律歌", "がびのお部屋"] },
   { "bvids": ["BV1Qa9JB6EAw"], "alias": "陽月るるふ" }
 ]
