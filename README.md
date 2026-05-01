@@ -131,12 +131,13 @@ node scripts/update-song-growth.js
 - `sectionTitles`：可配置多个要收录的小节标题。
 - `excludeSectionTitle` / `excludeSectionTitles`：从合集来源里排除指定小节，避免同一小节同时进入独立来源和“非常驻妹妹”。
 
-本次拆分的三个来源是：
+已拆分的小节来源：
 
 ```text
 BV1tKcZztEw5 羽澄さひろ -> data/hasumisahiro.js
 BV18xo1BHEkX あいまるん。 -> data/aimarun.js
 BV1wHQVBTEU5 ななし律歌 -> data/nanashirikka.js
+BV1YtwtzREbp がびのお部屋 -> data/gabinoheya.js
 ```
 
 验证方式：
@@ -230,6 +231,7 @@ culua_web_h5/
 
 - [迁移交接](docs/migration-handoff.md)
 - [文件清单](docs/file-manifest.md)
+- [添加来源提示词](docs/add-source-prompt.md)
 
 ## 维护注意事项
 

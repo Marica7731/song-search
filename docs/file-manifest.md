@@ -6,7 +6,7 @@
 
 | 文件路径 | 文件用途 | 主要函数或模块职责 | 与其他文件的关系 |
 |---|---|---|---|
-| `README.md` | 项目入口说明 | 说明功能、运行方式、测试方式、维护边界和文档索引 | 链接 `docs/migration-handoff.md` 与 `docs/file-manifest.md` |
+| `README.md` | 项目入口说明 | 说明功能、运行方式、测试方式、维护边界和文档索引 | 链接 `docs/migration-handoff.md`、`docs/file-manifest.md` 与 `docs/add-source-prompt.md` |
 | `.gitignore` | 本地忽略规则 | 忽略运行缓存、日志、临时截图、下载目录、runtime、`.env` | 防止本地开发产物进入后续提交；不取消已跟踪文件 |
 | `index.html` | 首页与歌曲检索页 | 按歌名、歌手、合集、来源筛选；分页；复制结果 | 读取 `/api/bootstrap` 或 `data/index.json`，使用 `site-theme.css` |
 | `stats.html` | 数据统计页 | 展示来源、歌手、曲目、投稿时间等统计视图 | 优先请求 `/api/stats/view`，服务端不可用时回退本地数据 |
@@ -67,6 +67,14 @@
 | `tools/take-live-screenshots.js` | 页面截图辅助 | 打开线上或本地页面并截图 | 用于页面改动后的视觉核对 |
 | `.github/workflows/update.yml` | 自动更新歌库工作流 | 定时或手动运行 `scripts/update-songs.js`，把数据提交到 `main` | 不等同于 `culua.com` 服务器部署流程 |
 | `.github/workflows/song-growth.yml` | 增长日报工作流 | 定时或手动运行 `scripts/update-song-growth.js` | 更新 README、`song-growth.html`、增长历史 |
+
+## 文档
+
+| 文件路径 | 文件用途 | 主要函数或模块职责 | 与其他文件的关系 |
+|---|---|---|---|
+| `docs/migration-handoff.md` | 迁移交接文档 | 记录本地目录、服务器目录、部署流程和风险边界 | 新会话接手前先读 |
+| `docs/file-manifest.md` | 文件清单 | 说明主要文件用途、职责和相互关系 | 被 README 引用 |
+| `docs/add-source-prompt.md` | 添加来源提示词 | 固定 GitHub main 和 `culua.com` 部署分支的不同添加方式、验证方式和提交要求 | 供后续 AI 添加来源时复制使用，避免混用代码路径 |
 
 ## 服务器外部文件
 
