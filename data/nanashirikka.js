@@ -1,0 +1,312 @@
+// ななし律歌 - 歌单数据 (多合集汇总)
+// 来源: BV1wHQVBTEU5
+// 生成时间: 5/1/2026, 6:15:28 AM
+
+window.SONG_DATA = window.SONG_DATA || [];
+
+window.SONG_DATA.push(
+    {
+  "title": "嘘",
+  "artist": "シド",
+  "collection": "歌切 2026-04-01 ななし律歌 / Nanashi Rikka Fpxr3hVMylg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wHQVBTEU5?p=1",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "嘘月",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-04-01 ななし律歌 / Nanashi Rikka Fpxr3hVMylg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wHQVBTEU5?p=2",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "嘘つき",
+  "artist": "阿部真央",
+  "collection": "歌切 2026-04-01 ななし律歌 / Nanashi Rikka Fpxr3hVMylg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wHQVBTEU5?p=3",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ロメオ",
+  "artist": "LIP×LIP",
+  "collection": "歌切 2026-04-01 ななし律歌 / Nanashi Rikka Fpxr3hVMylg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wHQVBTEU5?p=4",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ノンファンタジー",
+  "artist": "LIP×LIP",
+  "collection": "歌切 2026-04-01 ななし律歌 / Nanashi Rikka Fpxr3hVMylg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wHQVBTEU5?p=5",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "アイのシナリオ",
+  "artist": "CHiCO",
+  "collection": "歌切 2026-04-01 ななし律歌 / Nanashi Rikka Fpxr3hVMylg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wHQVBTEU5?p=6",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "夜咄ディセイブ",
+  "artist": "じん",
+  "collection": "歌切 2026-04-01 ななし律歌 / Nanashi Rikka Fpxr3hVMylg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wHQVBTEU5?p=7",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ",
+  "collection": "歌切 2026-04-01 ななし律歌 / Nanashi Rikka Fpxr3hVMylg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wHQVBTEU5?p=8",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ヴィラン",
+  "artist": "てにをは",
+  "collection": "歌切 2026-04-01 ななし律歌 / Nanashi Rikka Fpxr3hVMylg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wHQVBTEU5?p=9",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "歌切 2026-04-01 ななし律歌 / Nanashi Rikka Fpxr3hVMylg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wHQVBTEU5?p=10",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ノーダウト",
+  "artist": "Official髭男dism",
+  "collection": "歌切 2026-04-01 ななし律歌 / Nanashi Rikka Fpxr3hVMylg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wHQVBTEU5?p=11",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "歌切 2026-04-10 ななし律歌 / Nanashi Rikka oX6x1InCUZY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pJQVBBEH5?p=1",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "メランコリーキッチン",
+  "artist": "米津玄師",
+  "collection": "歌切 2026-04-10 ななし律歌 / Nanashi Rikka oX6x1InCUZY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pJQVBBEH5?p=2",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "歌うたいのバラッド",
+  "artist": "斉藤和義",
+  "collection": "歌切 2026-04-10 ななし律歌 / Nanashi Rikka oX6x1InCUZY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pJQVBBEH5?p=3",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "時ノ雨、最終戦争",
+  "artist": "Orangestar",
+  "collection": "歌切 2026-04-10 ななし律歌 / Nanashi Rikka oX6x1InCUZY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pJQVBBEH5?p=4",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "歌切 2026-04-10 ななし律歌 / Nanashi Rikka oX6x1InCUZY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pJQVBBEH5?p=5",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "季節は次々死んでいく",
+  "artist": "amazarashi",
+  "collection": "歌切 2026-04-10 ななし律歌 / Nanashi Rikka oX6x1InCUZY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pJQVBBEH5?p=6",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ひとりで生きていたならば",
+  "artist": "SUPER BEAVER",
+  "collection": "歌切 2026-04-10 ななし律歌 / Nanashi Rikka oX6x1InCUZY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pJQVBBEH5?p=7",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna",
+  "collection": "歌切 2026-04-10 ななし律歌 / Nanashi Rikka oX6x1InCUZY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pJQVBBEH5?p=8",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-04-10 ななし律歌 / Nanashi Rikka oX6x1InCUZY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pJQVBBEH5?p=9",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "拝啓、少年よ",
+  "artist": "Hump Back",
+  "collection": "歌切 2026-04-10 ななし律歌 / Nanashi Rikka oX6x1InCUZY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pJQVBBEH5?p=10",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "SAKURA",
+  "artist": "いきものがかり",
+  "collection": "歌切 2026-04-27 ななし律歌 / Nanashi Rikka 6_BbqP9J95Q 放松一下吧～🎸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zx92B8E7C?p=1",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "歌切 2026-04-27 ななし律歌 / Nanashi Rikka 6_BbqP9J95Q 放松一下吧～🎸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zx92B8E7C?p=2",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "コイスルオトメ",
+  "artist": "いきものがかり",
+  "collection": "歌切 2026-04-27 ななし律歌 / Nanashi Rikka 6_BbqP9J95Q 放松一下吧～🎸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zx92B8E7C?p=3",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "歌切 2026-04-27 ななし律歌 / Nanashi Rikka 6_BbqP9J95Q 放松一下吧～🎸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zx92B8E7C?p=4",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "栞",
+  "artist": "クリープハイプ",
+  "collection": "歌切 2026-04-27 ななし律歌 / Nanashi Rikka 6_BbqP9J95Q 放松一下吧～🎸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zx92B8E7C?p=5",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "春愁",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "歌切 2026-04-27 ななし律歌 / Nanashi Rikka 6_BbqP9J95Q 放松一下吧～🎸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zx92B8E7C?p=6",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "Speaking",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "歌切 2026-04-27 ななし律歌 / Nanashi Rikka 6_BbqP9J95Q 放松一下吧～🎸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zx92B8E7C?p=7",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ニュー・マイ・ノーマル",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "歌切 2026-04-27 ななし律歌 / Nanashi Rikka 6_BbqP9J95Q 放松一下吧～🎸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zx92B8E7C?p=8",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "Alice in N.Y.",
+  "artist": "ひとしずく×やま△",
+  "collection": "歌切 2026-04-27 ななし律歌 / Nanashi Rikka 6_BbqP9J95Q 放松一下吧～🎸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zx92B8E7C?p=9",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "コールボーイ",
+  "artist": "syudou",
+  "collection": "歌切 2026-04-27 ななし律歌 / Nanashi Rikka 6_BbqP9J95Q 放松一下吧～🎸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zx92B8E7C?p=10",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "心とかいう名前の未発見の臓器の機能についての考察",
+  "artist": "adstlaxy",
+  "collection": "歌切 2026-04-27 ななし律歌 / Nanashi Rikka 6_BbqP9J95Q 放松一下吧～🎸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zx92B8E7C?p=11",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ノンブレス・オブリージュ",
+  "artist": "ピノキオピー",
+  "collection": "歌切 2026-04-27 ななし律歌 / Nanashi Rikka 6_BbqP9J95Q 放松一下吧～🎸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zx92B8E7C?p=12",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ノンブレス・オブリージュ",
+  "artist": "ピノキオピー",
+  "collection": "歌切 2026-04-27 ななし律歌 / Nanashi Rikka 6_BbqP9J95Q 放松一下吧～🎸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zx92B8E7C?p=13",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "お気に召すまま",
+  "artist": "Eve",
+  "collection": "歌切 2026-04-27 ななし律歌 / Nanashi Rikka 6_BbqP9J95Q 放松一下吧～🎸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zx92B8E7C?p=14",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "バレリーコ",
+  "artist": "みきとP",
+  "collection": "歌切 2026-04-27 ななし律歌 / Nanashi Rikka 6_BbqP9J95Q 放松一下吧～🎸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zx92B8E7C?p=15",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "点描の唄",
+  "artist": "Mrs. GREEN APPLE feat.井上苑子",
+  "collection": "歌切 2026-04-27 ななし律歌 / Nanashi Rikka 6_BbqP9J95Q 放松一下吧～🎸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zx92B8E7C?p=16",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-04-27 ななし律歌 / Nanashi Rikka 6_BbqP9J95Q 放松一下吧～🎸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zx92B8E7C?p=17",
+  "source": "nanashirikka.js"
+}
+);

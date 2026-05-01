@@ -25,6 +25,9 @@
     "romany.js",
     "friends.js",
     "relay.js",
+    "hasumisahiro.js",
+    "aimarun.js",
+    "nanashirikka.js",
     "others.js",
     "bv1qa9jb6eaw.js"
   ],
@@ -54,6 +57,9 @@
     "romany": "ロマニ",
     "friends": "联动",
     "relay": "接力",
+    "hasumisahiro": "羽澄さひろ",
+    "aimarun": "あいまるん。",
+    "nanashirikka": "ななし律歌",
     "others": "非常驻妹妹",
     "bv1qa9jb6eaw": "陽月るるふ"
   }

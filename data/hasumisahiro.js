@@ -1,0 +1,720 @@
+// 羽澄さひろ - 歌单数据 (多合集汇总)
+// 来源: BV1tKcZztEw5
+// 生成时间: 5/1/2026, 6:14:50 AM
+
+window.SONG_DATA = window.SONG_DATA || [];
+
+window.SONG_DATA.push(
+    {
+  "title": "星丘公園",
+  "artist": "Hump Back",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=1",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "FAST PASS",
+  "artist": "アンジュルム",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=2",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "1／2",
+  "artist": "川本真琴",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=3",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ツキアカリのミチシルベ",
+  "artist": "ステレオポニー",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=4",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "春の歌",
+  "artist": "スピッツ",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=5",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=6",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "涙のふるさと",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=7",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "君をのせて",
+  "artist": "井上あずみ",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=8",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ジョバイロ",
+  "artist": "ポルノグラフィティ",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=9",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "おどるポンポコリン",
+  "artist": "B.B.クィーンズ",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=10",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "サウダージ",
+  "artist": "ポルノグラフィティ",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=11",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "しおり",
+  "artist": "Aqua Timez",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=12",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "さよならメモリーズ",
+  "artist": "supercell",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=13",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "LIFE",
+  "artist": "YUI",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=14",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ルル",
+  "artist": "やくしまるえつこ",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=15",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Os-宇宙人",
+  "artist": "エリオをかまってちゃん",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=16",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "HELLO ～Paradise Kiss～",
+  "artist": "YUI",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=17",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ケルベロス",
+  "artist": "相対性理論",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=18",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "約束をしよう",
+  "artist": "supercell",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=19",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ラブソングに襲われる",
+  "artist": "＝LOVE",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=20",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "愛のうた",
+  "artist": "ストロベリー・フラワー",
+  "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=21",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "深海少女",
+  "artist": "ゆうゆ",
+  "collection": "羽澄さひろ歌切 2026-03-17 mTL4k8wKXbU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFwzzCEX9?p=1",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "paranoia",
+  "artist": "めざめP",
+  "collection": "羽澄さひろ歌切 2026-03-17 mTL4k8wKXbU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFwzzCEX9?p=2",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "小夜子",
+  "artist": "みきとP",
+  "collection": "羽澄さひろ歌切 2026-03-17 mTL4k8wKXbU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFwzzCEX9?p=3",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ロベリア",
+  "artist": "ユミソラ、sequel",
+  "collection": "羽澄さひろ歌切 2026-03-17 mTL4k8wKXbU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFwzzCEX9?p=4",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "君の彼女",
+  "artist": "西沢さんP",
+  "collection": "羽澄さひろ歌切 2026-03-17 mTL4k8wKXbU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFwzzCEX9?p=5",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "インタビュア",
+  "artist": "クワガタP",
+  "collection": "羽澄さひろ歌切 2026-03-17 mTL4k8wKXbU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFwzzCEX9?p=6",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ヤミタイガール",
+  "artist": "れるりり",
+  "collection": "羽澄さひろ歌切 2026-03-17 mTL4k8wKXbU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFwzzCEX9?p=7",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "右肩の蝶",
+  "artist": "のりP",
+  "collection": "羽澄さひろ歌切 2026-03-17 mTL4k8wKXbU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFwzzCEX9?p=8",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "EAT ME",
+  "artist": "OSTER project",
+  "collection": "羽澄さひろ歌切 2026-03-17 mTL4k8wKXbU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFwzzCEX9?p=9",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "沸点",
+  "artist": "tama",
+  "collection": "羽澄さひろ歌切 2026-03-17 mTL4k8wKXbU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFwzzCEX9?p=10",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ダスト",
+  "artist": "クワガタP",
+  "collection": "羽澄さひろ歌切 2026-03-17 mTL4k8wKXbU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFwzzCEX9?p=11",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "天使",
+  "artist": "tama",
+  "collection": "羽澄さひろ歌切 2026-03-17 mTL4k8wKXbU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFwzzCEX9?p=12",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ムーン",
+  "artist": "tama",
+  "collection": "羽澄さひろ歌切 2026-03-17 mTL4k8wKXbU",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFwzzCEX9?p=13",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "テロメアの産声",
+  "artist": "Heavenz",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=1",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ゆるふわ樹海ガール",
+  "artist": "石風呂",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=2",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "風待ちハローワールド",
+  "artist": "ヘリP",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=3",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "S・K・Y",
+  "artist": "ライブP",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=4",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "君の体温",
+  "artist": "クワガタP",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=5",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "無限ノスタルジー",
+  "artist": "nuts rock",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=6",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "指切り",
+  "artist": "すこっぷ",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=7",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "HERE",
+  "artist": "KEI",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=8",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Hello, Worker",
+  "artist": "KEI",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=9",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "アイラビューアイニジュー",
+  "artist": "KEI",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=10",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "走れ",
+  "artist": "KEI",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=11",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "迷子の僕に",
+  "artist": "KEI",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=12",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "防衛本能",
+  "artist": "桑爺",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=13",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "メリーとニコラウス",
+  "artist": "buzzG",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=14",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "BO-ZU",
+  "artist": "てにをは",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=15",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "青",
+  "artist": "164",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=16",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ふつーの魔法少女でごめんなさい。",
+  "artist": "みきとP",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=17",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Painful World",
+  "artist": "いろなP",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=18",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Colorful World",
+  "artist": "gomezP",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=19",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ワールド・コーリング",
+  "artist": "自然の敵P",
+  "collection": "歌切 2026-03-30 羽澄さひろ bMPb3pTX454",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xTXBB2Epg?p=20",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ジェラシー ジェラシー",
+  "artist": "モーニング娘。'17",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=1",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "一難",
+  "artist": "Penthouse",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=2",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "思い出せなくなるその日まで",
+  "artist": "back number",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=3",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "パラボラ",
+  "artist": "Official髭男dism",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=4",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "犬かキャットかで死ぬまで喧嘩しよう！",
+  "artist": "Official髭男dism",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=5",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "テロメアの産声",
+  "artist": "Heavenz",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=6",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "欲望に満ちた青年団",
+  "artist": "ONE OK ROCK",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=7",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "サブリナ",
+  "artist": "家入レオ",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=8",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Darling",
+  "artist": "西野カナ",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=9",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "異邦人",
+  "artist": "久保田早紀",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=10",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "大きな愛でもてなして",
+  "artist": "℃-ute",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=11",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "魔法って言っていいかな？",
+  "artist": "平井堅",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=12",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "おはよう。",
+  "artist": "Keno",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=13",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "じゃあ、何故",
+  "artist": "阿部真央",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=14",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "這い上がれ MY WAY",
+  "artist": "阿部真央",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=15",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "キレイな唄",
+  "artist": "阿部真央",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=16",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "boyfriend",
+  "artist": "阿部真央",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=17",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "私は貴方がいいのです",
+  "artist": "阿部真央",
+  "collection": "歌切 2026-04-03 羽澄さひろ / Hasumi Sahiro HasumiSahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17a9NBLEbx?p=18",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Laugh away",
+  "artist": "YUI",
+  "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=1",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=2",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "春を歌にして",
+  "artist": "back number",
+  "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=3",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "はなびら",
+  "artist": "back number",
+  "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=4",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "青い春",
+  "artist": "back number(キー+4)",
+  "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=5",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "冬と春",
+  "artist": "back number(原キー)",
+  "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=6",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "怪盗",
+  "artist": "back number(キー+5)",
+  "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=7",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "東京の夕焼け",
+  "artist": "back number(キー+4)",
+  "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=8",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ささえる人の歌",
+  "artist": "back number(キー+3)",
+  "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=9",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "8ミリフィルム",
+  "artist": "アカシック",
+  "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=10",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "サイノロジック",
+  "artist": "アカシック",
+  "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=11",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "スターラブレイション",
+  "artist": "ケラケラ",
+  "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=12",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ハナガサイタ",
+  "artist": "aiko",
+  "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=13",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "メロンソーダ",
+  "artist": "aiko",
+  "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=14",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "紋白蝶 feat.石原慎也",
+  "artist": "東京スカパラダイスオーケストラ",
+  "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=15",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "オリビアを聴きながら",
+  "artist": "杏里",
+  "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=16",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "赤いスイートピー",
+  "artist": "松田聖子",
+  "collection": "歌切 2026-04-12 羽澄さひろ / Hasumi Sahiro dMfedY-Cp6I",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CsDRBHEe4?p=17",
+  "source": "hasumisahiro.js"
+}
+);
