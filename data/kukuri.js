@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 5/1/2026, 6:02:34 AM
+// 生成时间: 5/1/2026, 6:42:20 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2131,6 +2131,110 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-04-25]愉快的星期日歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uro9BVEdd?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-04-30]4月最后的戸鎖怎么样？ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1omRMB9EFB?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "パレード",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-04-30]4月最后的戸鎖怎么样？ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1omRMB9EFB?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-04-30]4月最后的戸鎖怎么样？ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1omRMB9EFB?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ふわふわ♪",
+  "artist": "牧野由依",
+  "collection": "【💫✖歌切】[2026-04-30]4月最后的戸鎖怎么样？ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1omRMB9EFB?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "アムリタ",
+  "artist": "牧野由依",
+  "collection": "【💫✖歌切】[2026-04-30]4月最后的戸鎖怎么样？ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1omRMB9EFB?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "風を食む",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-04-30]4月最后的戸鎖怎么样？ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1omRMB9EFB?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "tune the rainbow",
+  "artist": "坂本真綾",
+  "collection": "【💫✖歌切】[2026-04-30]4月最后的戸鎖怎么样？ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1omRMB9EFB?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "約束はいらない",
+  "artist": "坂本真綾",
+  "collection": "【💫✖歌切】[2026-04-30]4月最后的戸鎖怎么样？ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1omRMB9EFB?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "指輪",
+  "artist": "坂本真綾",
+  "collection": "【💫✖歌切】[2026-04-30]4月最后的戸鎖怎么样？ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1omRMB9EFB?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "地球儀",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-04-30]4月最后的戸鎖怎么样？ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1omRMB9EFB?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "さよーならまたいつか！",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-04-30]4月最后的戸鎖怎么样？ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1omRMB9EFB?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO × 米津玄師",
+  "collection": "【💫✖歌切】[2026-04-30]4月最后的戸鎖怎么样？ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1omRMB9EFB?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "【💫✖歌切】[2026-04-30]4月最后的戸鎖怎么样？ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1omRMB9EFB?p=13",
   "source": "kukuri.js"
 }
 );
