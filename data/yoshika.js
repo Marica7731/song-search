@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 5/2/2026, 11:06:53 AM
+// 生成时间: 5/2/2026, 11:26:14 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -31363,6 +31363,222 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-04-28]初見さん歓迎だYO！少しだけ歌う！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HE92BNE7M?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "collection": "【🍠🦍歌切】[2026-05-01]初見さん歓迎だYO！5月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xKREBYEQ6?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "オラは人気者",
+  "artist": "クレヨンしんちゃん",
+  "collection": "【🍠🦍歌切】[2026-05-01]初見さん歓迎だYO！5月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xKREBYEQ6?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-05-01]初見さん歓迎だYO！5月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xKREBYEQ6?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "DANZEN！ふたりはプリキュア",
+  "artist": "Mayumi Gojo",
+  "collection": "【🍠🦍歌切】[2026-05-01]初見さん歓迎だYO！5月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xKREBYEQ6?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ムーンライト伝説",
+  "artist": "DALI",
+  "collection": "【🍠🦍歌切】[2026-05-01]初見さん歓迎だYO！5月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xKREBYEQ6?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "心絵",
+  "artist": "ロードオブメジャー",
+  "collection": "【🍠🦍歌切】[2026-05-01]初見さん歓迎だYO！5月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xKREBYEQ6?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "一度だけの恋なら",
+  "artist": "ワルキューレ",
+  "collection": "【🍠🦍歌切】[2026-05-01]初見さん歓迎だYO！5月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xKREBYEQ6?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "１・２・３",
+  "artist": "After the Rain（そらる×まふまふ）",
+  "collection": "【🍠🦍歌切】[2026-05-01]初見さん歓迎だYO！5月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xKREBYEQ6?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Lovers",
+  "artist": "sumika",
+  "collection": "【🍠🦍歌切】[2026-05-01]初見さん歓迎だYO！5月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xKREBYEQ6?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【🍠🦍歌切】[2026-05-01]初見さん歓迎だYO！5月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xKREBYEQ6?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ココロのちず",
+  "artist": "BOYSTYLE",
+  "collection": "【🍠🦍歌切】[2026-05-01]初見さん歓迎だYO！5月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xKREBYEQ6?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Over Soul",
+  "artist": "林原めぐみ",
+  "collection": "【🍠🦍歌切】[2026-05-01]初見さん歓迎だYO！5月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xKREBYEQ6?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Northern Lights",
+  "artist": "林原めぐみ",
+  "collection": "【🍠🦍歌切】[2026-05-01]初見さん歓迎だYO！5月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xKREBYEQ6?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Real World",
+  "artist": "nano.RIPE",
+  "collection": "【🍠🦍歌切】[2026-05-01]初見さん歓迎だYO！5月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xKREBYEQ6?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "世界に一つだけの花",
+  "artist": "SMAP",
+  "collection": "【🍠🦍歌切】[2026-05-01]初見さん歓迎だYO！5月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xKREBYEQ6?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Doubt ＆ Trust ～ダウト＆トラスト～",
+  "artist": "access",
+  "collection": "【🍠🦍歌切】[2026-05-01]初見さん歓迎だYO！5月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xKREBYEQ6?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夢の続きへ",
+  "artist": "SURFACE",
+  "collection": "【🍠🦍歌切】[2026-05-01]初見さん歓迎だYO！5月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xKREBYEQ6?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "寝・逃・げでリセット",
+  "artist": "柊つかさ(福原香織)",
+  "collection": "【🍠🦍歌切】[2026-05-01]初見さん歓迎だYO！5月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xKREBYEQ6?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "Kuroneko",
+  "collection": "【🍠🦍歌切】[2026-05-01]初見さん歓迎だYO！5月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xKREBYEQ6?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夜咄ディセイブ",
+  "artist": "じん feat. IA",
+  "collection": "【🍠🦍歌切】[2026-05-01]初見さん歓迎だYO！5月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xKREBYEQ6?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "初音ミク(40㍍)",
+  "collection": "【🍠🦍歌切】[2026-05-01]初見さん歓迎だYO！5月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xKREBYEQ6?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハッピーシンセサイザ",
+  "artist": "EasyPop",
+  "collection": "【🍠🦍歌切】[2026-05-01]初見さん歓迎だYO！5月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xKREBYEQ6?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ギガンティックO.T.N",
+  "artist": "Reol feat.鏡音レン",
+  "collection": "【🍠🦍歌切】[2026-05-01]初見さん歓迎だYO！5月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xKREBYEQ6?p=23",
+  "source": "yoshika.js"
+},
+    {
+  "title": "勇気100％",
+  "artist": "光GENJI",
+  "collection": "【🍠🦍歌切】[2026-05-01]初見さん歓迎だYO！5月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xKREBYEQ6?p=24",
+  "source": "yoshika.js"
+},
+    {
+  "title": "暗黒天国",
+  "artist": "ALI PROJECT",
+  "collection": "【🍠🦍歌切】[2026-05-01]初見さん歓迎だYO！5月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xKREBYEQ6?p=25",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【🍠🦍歌切】[2026-05-01]初見さん歓迎だYO！5月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xKREBYEQ6?p=26",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Wake up!",
+  "artist": "AAA",
+  "collection": "【🍠🦍歌切】[2026-05-01]初見さん歓迎だYO！5月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xKREBYEQ6?p=27",
   "source": "yoshika.js"
 }
 );
