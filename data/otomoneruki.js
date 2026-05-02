@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据 (多合集汇总)
 // 来源: BV1zzZPBsEum
-// 生成时间: 5/2/2026, 10:27:01 AM
+// 生成时间: 5/2/2026, 10:46:22 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5174,7 +5174,7 @@ window.SONG_DATA.push(
   "source": "otomoneruki.js"
 },
     {
-  "title": "夜撚でるメノウ",
+  "title": "夜撫でるメノウ",
   "artist": "Ayase feat. 初音ミク",
   "collection": "【👿歌切】[2026-05-02]替代电台的深夜歌回📻🎶 已经开始了哟 😈💝 Ruki Otokado 音門るき [VEE]",
   "up": "前尘往事如昔故",

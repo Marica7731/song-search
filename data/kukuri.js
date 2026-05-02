@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 5/2/2026, 10:23:17 AM
+// 生成时间: 5/2/2026, 10:43:00 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2235,6 +2235,70 @@ window.SONG_DATA.push(
   "collection": "【💫✖歌切】[2026-04-30]4月最后的戸鎖怎么样？ kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1omRMB9EFB?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【💫✖歌切】[2026-05-02]今天也要唱歌哦，希望你能听呢 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bwREBKEw6?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "LIFE",
+  "artist": "YUI",
+  "collection": "【💫✖歌切】[2026-05-02]今天也要唱歌哦，希望你能听呢 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bwREBKEw6?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-05-02]今天也要唱歌哦，希望你能听呢 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bwREBKEw6?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-05-02]今天也要唱歌哦，希望你能听呢 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bwREBKEw6?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "よるのあと",
+  "artist": "adieu",
+  "collection": "【💫✖歌切】[2026-05-02]今天也要唱歌哦，希望你能听呢 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bwREBKEw6?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "金魚花火",
+  "artist": "大塚愛",
+  "collection": "【💫✖歌切】[2026-05-02]今天也要唱歌哦，希望你能听呢 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bwREBKEw6?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "collection": "【💫✖歌切】[2026-05-02]今天也要唱歌哦，希望你能听呢 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bwREBKEw6?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "クラゲ、流れ星",
+  "artist": "大塚愛",
+  "collection": "【💫✖歌切】[2026-05-02]今天也要唱歌哦，希望你能听呢 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bwREBKEw6?p=8",
   "source": "kukuri.js"
 }
 );
