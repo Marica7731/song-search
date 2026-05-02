@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据 (多合集汇总)
 // 来源: BV1zzZPBsEum
-// 生成时间: 5/2/2026, 10:05:36 AM
+// 生成时间: 5/2/2026, 10:27:01 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5171,6 +5171,110 @@ window.SONG_DATA.push(
   "collection": "【👿歌切】[2026-05-01]深夜电台替代歌曲节目 📻🎶 黄金周开始了✨？ 👿 Ruki Otokado 音門るき [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18ERMByEfM?p=14",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "夜撚でるメノウ",
+  "artist": "Ayase feat. 初音ミク",
+  "collection": "【👿歌切】[2026-05-02]替代电台的深夜歌回📻🎶 已经开始了哟 😈💝 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15eREB5ETs?p=1",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ニア",
+  "artist": "初音ミク feat. 夏代孝明",
+  "collection": "【👿歌切】[2026-05-02]替代电台的深夜歌回📻🎶 已经开始了哟 😈💝 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15eREB5ETs?p=2",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "フライデイ・チャイナタウン",
+  "artist": "泰葉",
+  "collection": "【👿歌切】[2026-05-02]替代电台的深夜歌回📻🎶 已经开始了哟 😈💝 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15eREB5ETs?p=3",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "美しい鰭",
+  "artist": "スピッツ",
+  "collection": "【👿歌切】[2026-05-02]替代电台的深夜歌回📻🎶 已经开始了哟 😈💝 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15eREB5ETs?p=4",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "夜の踊り子",
+  "artist": "サカナクション",
+  "collection": "【👿歌切】[2026-05-02]替代电台的深夜歌回📻🎶 已经开始了哟 😈💝 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15eREB5ETs?p=5",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "新宝島",
+  "artist": "サカナクション",
+  "collection": "【👿歌切】[2026-05-02]替代电台的深夜歌回📻🎶 已经开始了哟 😈💝 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15eREB5ETs?p=6",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "リライト",
+  "artist": "ASIAN KUNG-FU GENERATION",
+  "collection": "【👿歌切】[2026-05-02]替代电台的深夜歌回📻🎶 已经开始了哟 😈💝 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15eREB5ETs?p=7",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "月光花",
+  "artist": "Janne Da Arc",
+  "collection": "【👿歌切】[2026-05-02]替代电台的深夜歌回📻🎶 已经开始了哟 😈💝 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15eREB5ETs?p=8",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "orion",
+  "artist": "米津玄師",
+  "collection": "【👿歌切】[2026-05-02]替代电台的深夜歌回📻🎶 已经开始了哟 😈💝 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15eREB5ETs?p=9",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "さよならエレジー",
+  "artist": "菅田将暉",
+  "collection": "【👿歌切】[2026-05-02]替代电台的深夜歌回📻🎶 已经开始了哟 😈💝 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15eREB5ETs?p=10",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "アイデア",
+  "artist": "星野源",
+  "collection": "【👿歌切】[2026-05-02]替代电台的深夜歌回📻🎶 已经开始了哟 😈💝 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15eREB5ETs?p=11",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo(supercell)",
+  "collection": "【👿歌切】[2026-05-02]替代电台的深夜歌回📻🎶 已经开始了哟 😈💝 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15eREB5ETs?p=12",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【👿歌切】[2026-05-02]替代电台的深夜歌回📻🎶 已经开始了哟 😈💝 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15eREB5ETs?p=13",
   "source": "otomoneruki.js"
 }
 );

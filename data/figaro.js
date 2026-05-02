@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 5/2/2026, 10:03:12 AM
+// 生成时间: 5/2/2026, 10:24:26 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -30011,6 +30011,238 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-04-29]新曲发布前！ Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NJ9tBQEMy?p=18",
+  "source": "figaro.js"
+},
+    {
+  "title": "テレキャスタービーボーイ",
+  "artist": "すりぃ",
+  "collection": "【💐歌切】[2026-05-01]唱很多术力口歌曲的日子！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u6REBgEtH?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "ワンルーム・オール・ザット・ジャズ",
+  "artist": "DATEKEN",
+  "collection": "【💐歌切】[2026-05-01]唱很多术力口歌曲的日子！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u6REBgEtH?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "シニカルナイトプラン",
+  "artist": "Ayase",
+  "collection": "【💐歌切】[2026-05-01]唱很多术力口歌曲的日子！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u6REBgEtH?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "メルティランドナイトメア",
+  "artist": "はるまきごはん",
+  "collection": "【💐歌切】[2026-05-01]唱很多术力口歌曲的日子！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u6REBgEtH?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "コバルトメモリーズ",
+  "artist": "はるまきごはん",
+  "collection": "【💐歌切】[2026-05-01]唱很多术力口歌曲的日子！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u6REBgEtH?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "このピアノでお前を8759632145回ぶん殴る",
+  "artist": "SLAVE.V-V-R",
+  "collection": "【💐歌切】[2026-05-01]唱很多术力口歌曲的日子！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u6REBgEtH?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "ELECT",
+  "artist": "niki",
+  "collection": "【💐歌切】[2026-05-01]唱很多术力口歌曲的日子！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u6REBgEtH?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "ERROR",
+  "artist": "niki",
+  "collection": "【💐歌切】[2026-05-01]唱很多术力口歌曲的日子！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u6REBgEtH?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "ガランド",
+  "artist": "ピコン",
+  "collection": "【💐歌切】[2026-05-01]唱很多术力口歌曲的日子！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u6REBgEtH?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "ラブ＆デストロイ",
+  "artist": "ナポリP",
+  "collection": "【💐歌切】[2026-05-01]唱很多术力口歌曲的日子！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u6REBgEtH?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工",
+  "collection": "【💐歌切】[2026-05-01]唱很多术力口歌曲的日子！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u6REBgEtH?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "ECHO",
+  "artist": "CIRCRUSH",
+  "collection": "【💐歌切】[2026-05-01]唱很多术力口歌曲的日子！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u6REBgEtH?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "CH4NGE",
+  "artist": "Giga",
+  "collection": "【💐歌切】[2026-05-01]唱很多术力口歌曲的日子！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u6REBgEtH?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "G4L",
+  "artist": "Giga",
+  "collection": "【💐歌切】[2026-05-01]唱很多术力口歌曲的日子！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u6REBgEtH?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "リコレクションエンドロウル",
+  "artist": "ツミキ",
+  "collection": "【💐歌切】[2026-05-01]唱很多术力口歌曲的日子！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u6REBgEtH?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "病名は愛だった",
+  "artist": "Neru & z’5",
+  "collection": "【💐歌切】[2026-05-01]唱很多术力口歌曲的日子！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u6REBgEtH?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "ルーマー",
+  "artist": "ポリスピカデリー",
+  "collection": "【💐歌切】[2026-05-01]唱很多术力口歌曲的日子！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u6REBgEtH?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "曖昧さ回避",
+  "artist": "ポリスピカデリー",
+  "collection": "【💐歌切】[2026-05-01]唱很多术力口歌曲的日子！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u6REBgEtH?p=18",
+  "source": "figaro.js"
+},
+    {
+  "title": "再会",
+  "artist": "はるまきごはん",
+  "collection": "【💐歌切】[2026-05-01]唱很多术力口歌曲的日子！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u6REBgEtH?p=19",
+  "source": "figaro.js"
+},
+    {
+  "title": "第三の心臓",
+  "artist": "はるまきごはん",
+  "collection": "【💐歌切】[2026-05-01]唱很多术力口歌曲的日子！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u6REBgEtH?p=20",
+  "source": "figaro.js"
+},
+    {
+  "title": "エンパープル",
+  "artist": "はるまきごはん",
+  "collection": "【💐歌切】[2026-05-01]唱很多术力口歌曲的日子！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u6REBgEtH?p=21",
+  "source": "figaro.js"
+},
+    {
+  "title": "幻影",
+  "artist": "はるまきごはん",
+  "collection": "【💐歌切】[2026-05-01]唱很多术力口歌曲的日子！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u6REBgEtH?p=22",
+  "source": "figaro.js"
+},
+    {
+  "title": "蜜月アン・ドゥ・トロワ",
+  "artist": "DATEKEN",
+  "collection": "【💐歌切】[2026-05-01]唱很多术力口歌曲的日子！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u6REBgEtH?p=23",
+  "source": "figaro.js"
+},
+    {
+  "title": "ヨヒラ",
+  "artist": "ナブナ",
+  "collection": "【💐歌切】[2026-05-01]唱很多术力口歌曲的日子！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u6REBgEtH?p=24",
+  "source": "figaro.js"
+},
+    {
+  "title": "人間だった",
+  "artist": "ピコン",
+  "collection": "【💐歌切】[2026-05-01]唱很多术力口歌曲的日子！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u6REBgEtH?p=25",
+  "source": "figaro.js"
+},
+    {
+  "title": "〇〇〇〇〇",
+  "artist": "やいり",
+  "collection": "【💐歌切】[2026-05-01]唱很多术力口歌曲的日子！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u6REBgEtH?p=26",
+  "source": "figaro.js"
+},
+    {
+  "title": "波に名前をつけること、僕らの呼吸に終わりがあること。",
+  "artist": "キタニタツヤ",
+  "collection": "【💐歌切】[2026-05-01]唱很多术力口歌曲的日子！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u6REBgEtH?p=27",
+  "source": "figaro.js"
+},
+    {
+  "title": "君が夜の海に還るまで",
+  "artist": "キタニタツヤ",
+  "collection": "【💐歌切】[2026-05-01]唱很多术力口歌曲的日子！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u6REBgEtH?p=28",
+  "source": "figaro.js"
+},
+    {
+  "title": "敗北の少年",
+  "artist": "kemu",
+  "collection": "【💐歌切】[2026-05-01]唱很多术力口歌曲的日子！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u6REBgEtH?p=29",
   "source": "figaro.js"
 }
 );

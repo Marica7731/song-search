@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 5/2/2026, 10:08:38 AM
+// 生成时间: 5/2/2026, 10:31:24 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2467,6 +2467,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-04-29]稍微来看看吧？从中午开始愉快地弹唱哦～🎶 -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JC9sBBEdA?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "スピカ",
+  "artist": "帰りたの会",
+  "collection": "【歌切】[2026-05-01]劳累的星期五来点吉他弹唱吧🍵 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VhREBjEQ1?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "ブレーメン",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-01]劳累的星期五来点吉他弹唱吧🍵 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VhREBjEQ1?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【歌切】[2026-05-01]劳累的星期五来点吉他弹唱吧🍵 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VhREBjEQ1?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "夜のあと",
+  "artist": "adieu",
+  "collection": "【歌切】[2026-05-01]劳累的星期五来点吉他弹唱吧🍵 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VhREBjEQ1?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "フラレガイガール",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-05-01]劳累的星期五来点吉他弹唱吧🍵 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VhREBjEQ1?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "n-buna",
+  "collection": "【歌切】[2026-05-01]劳累的星期五来点吉他弹唱吧🍵 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VhREBjEQ1?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "あなたの好きなところ",
+  "artist": "西野カナ",
+  "collection": "【歌切】[2026-05-01]劳累的星期五来点吉他弹唱吧🍵 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VhREBjEQ1?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "二時頃",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-05-01]劳累的星期五来点吉他弹唱吧🍵 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VhREBjEQ1?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "紡ぐ",
+  "artist": "とた",
+  "collection": "【歌切】[2026-05-01]劳累的星期五来点吉他弹唱吧🍵 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VhREBjEQ1?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "キラキラ",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-05-01]劳累的星期五来点吉他弹唱吧🍵 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VhREBjEQ1?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "澄花原创",
+  "artist": "澄花",
+  "collection": "【歌切】[2026-05-01]劳累的星期五来点吉他弹唱吧🍵 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VhREBjEQ1?p=11",
   "source": "sumica.js"
 }
 );
