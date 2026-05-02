@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 5/2/2026, 10:22:10 PM
+// 生成时间: 5/2/2026, 10:42:29 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3683,6 +3683,78 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-04-29]音乐回响之处 希望有你的身影 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1289sB7Ef8?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "可愛くてごめん",
+  "artist": "HoneyWorks",
+  "collection": "【🍁歌切】[2026-05-02]成功约会……!! 以音乐剧风格力求成功的企划歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fV99BDEeh?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "クスシキ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍁歌切】[2026-05-02]成功约会……!! 以音乐剧风格力求成功的企划歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fV99BDEeh?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "一二三",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-05-02]成功约会……!! 以音乐剧风格力求成功的企划歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fV99BDEeh?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Carrying Happiness",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍁歌切】[2026-05-02]成功约会……!! 以音乐剧风格力求成功的企划歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fV99BDEeh?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "一難",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-05-02]成功约会……!! 以音乐剧风格力求成功的企划歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fV99BDEeh?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ピエロ",
+  "artist": "KEI",
+  "collection": "【🍁歌切】[2026-05-02]成功约会……!! 以音乐剧风格力求成功的企划歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fV99BDEeh?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "君に届け",
+  "artist": "flumpool",
+  "collection": "【🍁歌切】[2026-05-02]成功约会……!! 以音乐剧风格力求成功的企划歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fV99BDEeh?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "愛をこめて花束を",
+  "artist": "Superfly",
+  "collection": "【🍁歌切】[2026-05-02]成功约会……!! 以音乐剧风格力求成功的企划歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fV99BDEeh?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【🍁歌切】[2026-05-02]成功约会……!! 以音乐剧风格力求成功的企划歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fV99BDEeh?p=9",
   "source": "momijimaru.js"
 }
 );

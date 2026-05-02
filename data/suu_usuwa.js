@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 5/2/2026, 10:24:18 PM
+// 生成时间: 5/2/2026, 10:45:44 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -20931,6 +20931,54 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】[2026-04-23]作业用BGM歌回！配合番茄钟计时，希望也能成为你工作的陪伴～ 稀羽すう - Suu Usuwa",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FJogBzE9V?p=23",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "NIGHTDANCER",
+  "artist": "imase",
+  "collection": "【🦢歌切】[2026-05-02]出问题了，这是用来确认故障的存档，以后想把它删掉。 稀羽すう - Suu Usuwa",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19b99B6Eqw?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "One Last Kiss",
+  "artist": "宇多田ヒカル",
+  "collection": "【🦢歌切】[2026-05-02]出问题了，这是用来确认故障的存档，以后想把它删掉。 稀羽すう - Suu Usuwa",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19b99B6Eqw?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】[2026-05-02]出问题了，这是用来确认故障的存档，以后想把它删掉。 稀羽すう - Suu Usuwa",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19b99B6Eqw?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】[2026-05-02]出问题了，这是用来确认故障的存档，以后想把它删掉。 稀羽すう - Suu Usuwa",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19b99B6Eqw?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "地球儀",
+  "artist": "米津玄師",
+  "collection": "【🦢歌切】[2026-05-02]出问题了，这是用来确认故障的存档，以后想把它删掉。 稀羽すう - Suu Usuwa",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19b99B6Eqw?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "名前の無い怪物",
+  "artist": "EGOIST",
+  "collection": "【🦢歌切】[2026-05-02]出问题了，这是用来确认故障的存档，以后想把它删掉。 稀羽すう - Suu Usuwa",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19b99B6Eqw?p=6",
   "source": "suu_usuwa.js"
 }
 );

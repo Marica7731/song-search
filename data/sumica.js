@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 5/2/2026, 10:29:52 PM
+// 生成时间: 5/2/2026, 10:52:50 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2555,6 +2555,182 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-01]劳累的星期五来点吉他弹唱吧🍵 -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VhREBjEQ1?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "恋人失格",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-05-02]享受黄金周，悠闲的弹唱时光～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ds99BVEiH?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-02]享受黄金周，悠闲的弹唱时光～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ds99BVEiH?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "くらべられっ子",
+  "artist": "ツユ",
+  "collection": "【歌切】[2026-05-02]享受黄金周，悠闲的弹唱时光～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ds99BVEiH?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "SAKURA",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-05-02]享受黄金周，悠闲的弹唱时光～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ds99BVEiH?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "花降らし",
+  "artist": "n-buna",
+  "collection": "【歌切】[2026-05-02]享受黄金周，悠闲的弹唱时光～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ds99BVEiH?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "【歌切】[2026-05-02]享受黄金周，悠闲的弹唱时光～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ds99BVEiH?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "コントラスト",
+  "artist": "TOMOO",
+  "collection": "【歌切】[2026-05-02]享受黄金周，悠闲的弹唱时光～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ds99BVEiH?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "あたしが死んだら",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-05-02]享受黄金周，悠闲的弹唱时光～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ds99BVEiH?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "三日月",
+  "artist": "絢香",
+  "collection": "【歌切】[2026-05-02]享受黄金周，悠闲的弹唱时光～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ds99BVEiH?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン",
+  "collection": "【歌切】[2026-05-02]享受黄金周，悠闲的弹唱时光～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ds99BVEiH?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "女の子は泣かない",
+  "artist": "片平里菜",
+  "collection": "【歌切】[2026-05-02]享受黄金周，悠闲的弹唱时光～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ds99BVEiH?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "チノカテ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-02]享受黄金周，悠闲的弹唱时光～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ds99BVEiH?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "火星人（お試し）",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-02]享受黄金周，悠闲的弹唱时光～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ds99BVEiH?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【歌切】[2026-05-02]享受黄金周，悠闲的弹唱时光～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ds99BVEiH?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "ぷんぷん",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-05-02]享受黄金周，悠闲的弹唱时光～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ds99BVEiH?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "秘密",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-05-02]享受黄金周，悠闲的弹唱时光～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ds99BVEiH?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-05-02]享受黄金周，悠闲的弹唱时光～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ds99BVEiH?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "夜撫でるメノウ",
+  "artist": "Ayase",
+  "collection": "【歌切】[2026-05-02]享受黄金周，悠闲的弹唱时光～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ds99BVEiH?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "ナイトルーティーン",
+  "artist": "キタニタツヤ",
+  "collection": "【歌切】[2026-05-02]享受黄金周，悠闲的弹唱时光～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ds99BVEiH?p=19",
+  "source": "sumica.js"
+},
+    {
+  "title": "Family Song",
+  "artist": "星野源",
+  "collection": "【歌切】[2026-05-02]享受黄金周，悠闲的弹唱时光～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ds99BVEiH?p=20",
+  "source": "sumica.js"
+},
+    {
+  "title": "人として",
+  "artist": "SUPER BEAVER",
+  "collection": "【歌切】[2026-05-02]享受黄金周，悠闲的弹唱时光～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ds99BVEiH?p=21",
+  "source": "sumica.js"
+},
+    {
+  "title": "澄花原创",
+  "artist": "澄花",
+  "collection": "【歌切】[2026-05-02]享受黄金周，悠闲的弹唱时光～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ds99BVEiH?p=22",
   "source": "sumica.js"
 }
 );

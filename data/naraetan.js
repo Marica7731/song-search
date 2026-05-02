@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 5/2/2026, 10:23:08 PM
+// 生成时间: 5/2/2026, 10:44:01 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8091,6 +8091,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=21",
+  "source": "naraetan.js"
+},
+    {
+  "title": "おはよう。",
+  "artist": "Keno",
+  "collection": "【歌切】[2026-05-02]星期六深夜歌回💙 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh99BuEMV?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【歌切】[2026-05-02]星期六深夜歌回💙 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh99BuEMV?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Ubiquitous dB",
+  "artist": "ユナ",
+  "collection": "【歌切】[2026-05-02]星期六深夜歌回💙 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh99BuEMV?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "LIFE",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-05-02]星期六深夜歌回💙 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh99BuEMV?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Good-bye days",
+  "artist": "YUI for 雨音薫",
+  "collection": "【歌切】[2026-05-02]星期六深夜歌回💙 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh99BuEMV?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "桜色舞うころ",
+  "artist": "中島美嘉",
+  "collection": "【歌切】[2026-05-02]星期六深夜歌回💙 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh99BuEMV?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "なんでもないや",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-05-02]星期六深夜歌回💙 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh99BuEMV?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ミスト",
+  "artist": "上北健",
+  "collection": "【歌切】[2026-05-02]星期六深夜歌回💙 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh99BuEMV?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "六等星の夜",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-05-02]星期六深夜歌回💙 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh99BuEMV?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "よくばり",
+  "artist": "Ayase feat. 初音ミク",
+  "collection": "【歌切】[2026-05-02]星期六深夜歌回💙 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh99BuEMV?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "美しき残酷な世界",
+  "artist": "日笠陽子",
+  "collection": "【歌切】[2026-05-02]星期六深夜歌回💙 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh99BuEMV?p=11",
   "source": "naraetan.js"
 },
     {
