@@ -1,6 +1,6 @@
 // HoshiHo - 歌单数据 (多合集汇总)
 // 来源: BV11fQSB2ELX
-// 生成时间: 5/4/2026, 2:07:27 PM
+// 生成时间: 5/4/2026, 2:27:36 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1387,6 +1387,334 @@ window.SONG_DATA.push(
   "collection": "【🌟💐HoshiHo歌切】[2026-04-25]春天🌸，这样的气温真好啊 ✨ HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Sko9BkEtB?p=5",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "ループ",
+  "artist": "『ツバサ・クロニクル(第1期)』坂本真綾",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=1",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "風待ちジェット",
+  "artist": "『ツバサ・クロニクル(第2期)』坂本真綾",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=2",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "COLORS",
+  "artist": "『コードギアス 反逆のルルーシュ』FLOW",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=3",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "勇侠青春謳",
+  "artist": "『コードギアス 反逆のルルーシュ』ALI PROJECT",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=4",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "わが臈たし悪の華",
+  "artist": "『コードギアス 反逆のルルーシュR2』ALI PROJECT",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=5",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "マジックナンバー",
+  "artist": "『こばと。』坂本真綾",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=6",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "撲殺天使ドクロちゃん",
+  "artist": "『撲殺天使ドクロちゃん』千葉紗子",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=7",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "明日もし君が壊れても",
+  "artist": "『遊☆戯☆王』WANDS",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=8",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "渇いた叫び",
+  "artist": "『遊☆戯☆王』FIELD OF VIEW",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=9",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Shuffle",
+  "artist": "『遊☆戯☆王デュエルモンスターズ』奥井雅美",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=10",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "晴れてハレルヤ",
+  "artist": "『魔法陣グルグル』奥井亜紀",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=11",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "微笑みの爆弾",
+  "artist": "『幽☆遊☆白書』馬渡松子",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=12",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "アンバランスなKissをして",
+  "artist": "『幽☆遊☆白書』高橋ひろ",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=13",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "太陽がまた輝くとき",
+  "artist": "『幽☆遊☆白書』高橋ひろ",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=14",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "あなただけ見つめてる",
+  "artist": "『SLAM DUNK』大黒摩季",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=15",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "煌めく瞬間に捕われて",
+  "artist": "『SLAM DUNK』MANISH",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=16",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "マイ フレンド",
+  "artist": "『SLAM DUNK』ZARD",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=17",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "泪のムコウ",
+  "artist": "『機動戦士ガンダム00 -2nd Season-』ステレオポニー",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=18",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "カントリー・ロード",
+  "artist": "『耳をすませば』本名陽子",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=19",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "スーパーウルトラハイパーミラクルロマンチック",
+  "artist": "『VALKYRIE DRIVE』敷島魅零（井口裕香）&処女まもり（井澤美香子）",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=20",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "THE DAY",
+  "artist": "『僕のヒーローアカデミア』ポルノグラフィティ",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=21",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "アイデンティティ",
+  "artist": "『落第騎士の英雄譚』酒井ミキオ",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=22",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "大嫌い！",
+  "artist": "『ウィキッド ふたりの魔女』",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=23",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "ポピュラー",
+  "artist": "『ウィキッド ふたりの魔女』",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=24",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Reweave",
+  "artist": "『Re:ゼロから始める異世界生活(3rd season)』鈴木このみ",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=25",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "『葬送のフリーレン(第2期)』Mrs. GREEN APPLE",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=26",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "アメフラシの歌 ～Beautiful Rain～",
+  "artist": "『それでも世界は美しい』ニケ・ルメルシエ（CV：前田玲奈）",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=27",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "ハナコトバ",
+  "artist": "『結城友奈は勇者である -勇者の章-』讃州中学勇者部",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=28",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "君ノ記憶(shortVer.)",
+  "artist": "『薄桜鬼』Mao",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=29",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "甲賀忍法帖",
+  "artist": "『バジリスク ～甲賀忍法帖～』陰陽座",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=30",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Over the clouds",
+  "artist": "『GOD EATER』alan",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=31",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "光のアリア(アカペラ)",
+  "artist": "『GOD EATER 2』葦原ユノ starring yu-yu",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=32",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "ペッパー警部",
+  "artist": "ピンク・レディー",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=33",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "迷い道",
+  "artist": "渡辺真知子",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=34",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "MUGO・ん…色っぽい",
+  "artist": "工藤静香",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=35",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "フライディ・チャイナタウン",
+  "artist": "泰葉",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=36",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "アシタノツバサ",
+  "artist": "『ブレイブウィッチーズ』石田燿子",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=37",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Deep in Abyss",
+  "artist": "『メイドインアビス』リコ(CV:富田美憂)、レグ(CV:伊瀬茉莉也).",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=38",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "ロ・ロ・ロ・ロシアン・ルーレット",
+  "artist": "『ダーティペア』中原めいこ",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=39",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "SHINY DAYS",
+  "artist": "『ゆるキャン△』亜咲花",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=40",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "ユニバーページ",
+  "artist": "『アウトブレイク・カンパニー』三森すずこ",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=41",
   "source": "hoshiho.js"
 }
 );

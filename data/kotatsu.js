@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 5/4/2026, 2:09:13 PM
+// 生成时间: 5/4/2026, 2:29:36 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1379,6 +1379,166 @@ window.SONG_DATA.push(
   "collection": "【♧🎸歌切】[2026-04-26]ぽつり、ぽつりと春を歌います KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eFoqBTEZo?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "愛してやまない音楽を",
+  "artist": "andymori",
+  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Bye By Me",
+  "artist": "Vaundy",
+  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "本当はね、",
+  "artist": "ヤングスキニー",
+  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "わたがし",
+  "artist": "back number",
+  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP feat. 初音ミク",
+  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "あいとわ",
+  "artist": "RADWIMPS",
+  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "東京",
+  "artist": "ヒグチアイ",
+  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "情熱の薔薇",
+  "artist": "THE BLUE HEARTS",
+  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "なごり雪",
+  "artist": "イルカ",
+  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "グッバイ来世でまた会おう",
+  "artist": "インナージャーニー",
+  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "行方不明とタクシー",
+  "artist": "3markets",
+  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "かぞえうた",
+  "artist": "はるこたつぶとん倶楽部",
+  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "投げKISSをあげるよ",
+  "artist": "andymori",
+  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "幕無い（配信内表记）",
+  "artist": "はるこたつぶとん倶楽部",
+  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "告白",
+  "artist": "FUNKY MONKEY BΛBY'S",
+  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ガチ恋口上歌〜みんな大好き(仮)〜",
+  "artist": "はるこたつぶとん倶楽部",
+  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "久しぶりの恋が片思いじゃなくてよかった",
+  "artist": "はるこたつぶとん倶楽部",
+  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=17",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ラブソング",
+  "artist": "はるこたつぶとん倶楽部",
+  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=18",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夜な夜なエール",
+  "artist": "はるこたつぶとん倶楽部",
+  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=19",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "曲名未公表オリジナル（おかえり/お疲れ様）",
+  "artist": "はるこたつぶとん倶楽部",
+  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=20",
   "source": "kotatsu.js"
 }
 );
