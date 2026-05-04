@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 5/4/2026, 11:23:34 AM
+// 生成时间: 5/4/2026, 11:43:52 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -30243,6 +30243,158 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-05-01]唱很多术力口歌曲的日子！ Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1u6REBgEtH?p=29",
+  "source": "figaro.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-05-03]睡前安眠歌曲回✨入睡前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19tRqBcEnU?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "ドリームレス・ドリームス",
+  "artist": "はるまきごはん",
+  "collection": "【💐歌切】[2026-05-03]睡前安眠歌曲回✨入睡前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19tRqBcEnU?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "ナイトルーティーン",
+  "artist": "キタニタツヤ",
+  "collection": "【💐歌切】[2026-05-03]睡前安眠歌曲回✨入睡前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19tRqBcEnU?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "茜さす",
+  "artist": "Aimer",
+  "collection": "【💐歌切】[2026-05-03]睡前安眠歌曲回✨入睡前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19tRqBcEnU?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "恋に落ちて",
+  "artist": "藤田麻衣子",
+  "collection": "【💐歌切】[2026-05-03]睡前安眠歌曲回✨入睡前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19tRqBcEnU?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "アクアテラリウム",
+  "artist": "やなぎなぎ",
+  "collection": "【💐歌切】[2026-05-03]睡前安眠歌曲回✨入睡前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19tRqBcEnU?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "砂糖玉の月",
+  "artist": "やなぎなぎ",
+  "collection": "【💐歌切】[2026-05-03]睡前安眠歌曲回✨入睡前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19tRqBcEnU?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-05-03]睡前安眠歌曲回✨入睡前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19tRqBcEnU?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "六月は雨上がりの街を書く",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-05-03]睡前安眠歌曲回✨入睡前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19tRqBcEnU?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "rain stops, good-bye",
+  "artist": "におP",
+  "collection": "【💐歌切】[2026-05-03]睡前安眠歌曲回✨入睡前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19tRqBcEnU?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "Ref:rain",
+  "artist": "Aimer",
+  "collection": "【💐歌切】[2026-05-03]睡前安眠歌曲回✨入睡前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19tRqBcEnU?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "森の小さなレストラン",
+  "artist": "手嶌葵",
+  "collection": "【💐歌切】[2026-05-03]睡前安眠歌曲回✨入睡前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19tRqBcEnU?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
+  "collection": "【💐歌切】[2026-05-03]睡前安眠歌曲回✨入睡前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19tRqBcEnU?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "約束をしよう",
+  "artist": "supercell",
+  "collection": "【💐歌切】[2026-05-03]睡前安眠歌曲回✨入睡前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19tRqBcEnU?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "明日への手紙",
+  "artist": "手嶌葵",
+  "collection": "【💐歌切】[2026-05-03]睡前安眠歌曲回✨入睡前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19tRqBcEnU?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-05-03]睡前安眠歌曲回✨入睡前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19tRqBcEnU?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-05-03]睡前安眠歌曲回✨入睡前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19tRqBcEnU?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【💐歌切】[2026-05-03]睡前安眠歌曲回✨入睡前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19tRqBcEnU?p=18",
+  "source": "figaro.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-05-03]睡前安眠歌曲回✨入睡前的放松时间请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19tRqBcEnU?p=19",
   "source": "figaro.js"
 }
 );
