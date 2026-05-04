@@ -1,6 +1,6 @@
 // ロマニ - 歌单数据 (多合集汇总)
 // 来源: BV1KHXxBUErU, BV1iHQXBzEgU
-// 生成时间: 5/4/2026, 11:52:09 AM
+// 生成时间: 5/4/2026, 12:11:11 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1635,6 +1635,102 @@ window.SONG_DATA.push(
   "collection": "【ロマニ🎸弾き語り歌切】[2026-04-26]星期日惯例歌回──✦用声音传递治愈时光🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VHoiBPEGW?p=15",
+  "source": "romany.js"
+},
+    {
+  "title": "Swallowtail Butterfly ～あいのうた～",
+  "artist": "YEN TOWN BAND",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-05-03]星期日惯例歌回——夜幕下的五一假期，让我们悠闲一下🌙𓂃𝄞 ロマニードットアイオー / ROMANY.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dHRqBNE5e?p=1",
+  "source": "romany.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-05-03]星期日惯例歌回——夜幕下的五一假期，让我们悠闲一下🌙𓂃𝄞 ロマニードットアイオー / ROMANY.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dHRqBNE5e?p=2",
+  "source": "romany.js"
+},
+    {
+  "title": "初期衝動",
+  "artist": "ロマニードットアイオー",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-05-03]星期日惯例歌回——夜幕下的五一假期，让我们悠闲一下🌙𓂃𝄞 ロマニードットアイオー / ROMANY.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dHRqBNE5e?p=3",
+  "source": "romany.js"
+},
+    {
+  "title": "Sunday n\"AI\"ght",
+  "artist": "ロマニードットアイオー with BT",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-05-03]星期日惯例歌回——夜幕下的五一假期，让我们悠闲一下🌙𓂃𝄞 ロマニードットアイオー / ROMANY.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dHRqBNE5e?p=4",
+  "source": "romany.js"
+},
+    {
+  "title": "永遠のあくる日",
+  "artist": "Ado　弾き語り",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-05-03]星期日惯例歌回——夜幕下的五一假期，让我们悠闲一下🌙𓂃𝄞 ロマニードットアイオー / ROMANY.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dHRqBNE5e?p=5",
+  "source": "romany.js"
+},
+    {
+  "title": "Let It Be",
+  "artist": "The Beatles　弾き語り",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-05-03]星期日惯例歌回——夜幕下的五一假期，让我们悠闲一下🌙𓂃𝄞 ロマニードットアイオー / ROMANY.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dHRqBNE5e?p=6",
+  "source": "romany.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-05-03]星期日惯例歌回——夜幕下的五一假期，让我们悠闲一下🌙𓂃𝄞 ロマニードットアイオー / ROMANY.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dHRqBNE5e?p=7",
+  "source": "romany.js"
+},
+    {
+  "title": "やさしさに包まれたなら",
+  "artist": "荒井由実",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-05-03]星期日惯例歌回——夜幕下的五一假期，让我们悠闲一下🌙𓂃𝄞 ロマニードットアイオー / ROMANY.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dHRqBNE5e?p=8",
+  "source": "romany.js"
+},
+    {
+  "title": "貴方の恋人になりたいのです",
+  "artist": "阿部真央弾き語り",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-05-03]星期日惯例歌回——夜幕下的五一假期，让我们悠闲一下🌙𓂃𝄞 ロマニードットアイオー / ROMANY.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dHRqBNE5e?p=9",
+  "source": "romany.js"
+},
+    {
+  "title": "UNDEAD",
+  "artist": "YOASOBI　弾き語り",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-05-03]星期日惯例歌回——夜幕下的五一假期，让我们悠闲一下🌙𓂃𝄞 ロマニードットアイオー / ROMANY.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dHRqBNE5e?p=10",
+  "source": "romany.js"
+},
+    {
+  "title": "ヒカリへ",
+  "artist": "miwa",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-05-03]星期日惯例歌回——夜幕下的五一假期，让我们悠闲一下🌙𓂃𝄞 ロマニードットアイオー / ROMANY.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dHRqBNE5e?p=11",
+  "source": "romany.js"
+},
+    {
+  "title": "イキナクチャ",
+  "artist": "ロマニードットアイオー",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-05-03]星期日惯例歌回——夜幕下的五一假期，让我们悠闲一下🌙𓂃𝄞 ロマニードットアイオー / ROMANY.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dHRqBNE5e?p=12",
   "source": "romany.js"
 }
 );
