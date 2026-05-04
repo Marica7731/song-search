@@ -1,6 +1,6 @@
 // ロマニ - 歌单数据 (多合集汇总)
 // 来源: BV1KHXxBUErU, BV1iHQXBzEgU
-// 生成时间: 5/4/2026, 12:11:11 PM
+// 生成时间: 5/4/2026, 12:31:26 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1671,7 +1671,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "永遠のあくる日",
-  "artist": "Ado　弾き語り",
+  "artist": "Ado",
   "collection": "【ロマニ🎸弾き語り歌切】[2026-05-03]星期日惯例歌回——夜幕下的五一假期，让我们悠闲一下🌙𓂃𝄞 ロマニードットアイオー / ROMANY.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dHRqBNE5e?p=5",
@@ -1679,7 +1679,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Let It Be",
-  "artist": "The Beatles　弾き語り",
+  "artist": "The Beatles",
   "collection": "【ロマニ🎸弾き語り歌切】[2026-05-03]星期日惯例歌回——夜幕下的五一假期，让我们悠闲一下🌙𓂃𝄞 ロマニードットアイオー / ROMANY.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dHRqBNE5e?p=6",
@@ -1703,7 +1703,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "貴方の恋人になりたいのです",
-  "artist": "阿部真央弾き語り",
+  "artist": "阿部真央",
   "collection": "【ロマニ🎸弾き語り歌切】[2026-05-03]星期日惯例歌回——夜幕下的五一假期，让我们悠闲一下🌙𓂃𝄞 ロマニードットアイオー / ROMANY.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dHRqBNE5e?p=9",
@@ -1711,7 +1711,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "UNDEAD",
-  "artist": "YOASOBI　弾き語り",
+  "artist": "YOASOBI",
   "collection": "【ロマニ🎸弾き語り歌切】[2026-05-03]星期日惯例歌回——夜幕下的五一假期，让我们悠闲一下🌙𓂃𝄞 ロマニードットアイオー / ROMANY.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dHRqBNE5e?p=10",
