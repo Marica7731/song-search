@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 5/4/2026, 3:24:27 PM
+// 生成时间: 5/4/2026, 3:44:28 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14955,6 +14955,166 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-04-28]钢琴伴奏歌回 ✧ 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tT92BkE8B?p=17",
+  "source": "ririsya.js"
+},
+    {
+  "title": "また君に恋してる",
+  "artist": "坂本冬美",
+  "collection": "【🐍歌切】[2026-05-04]演歌 & 歌谣 主题歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19yRiBhEjX?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "雨の慕情",
+  "artist": "八代亜紀",
+  "collection": "【🐍歌切】[2026-05-04]演歌 & 歌谣 主题歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19yRiBhEjX?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "舟唄",
+  "artist": "八代亜紀",
+  "collection": "【🐍歌切】[2026-05-04]演歌 & 歌谣 主题歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19yRiBhEjX?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "つぐない",
+  "artist": "Teresa teng",
+  "collection": "【🐍歌切】[2026-05-04]演歌 & 歌谣 主题歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19yRiBhEjX?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "時の流れに身をまかせ",
+  "artist": "テレサ・テン",
+  "collection": "【🐍歌切】[2026-05-04]演歌 & 歌谣 主题歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19yRiBhEjX?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ラヴ・イズ・オーヴァー",
+  "artist": "欧陽菲菲",
+  "collection": "【🐍歌切】[2026-05-04]演歌 & 歌谣 主题歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19yRiBhEjX?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "プレイバック Part2",
+  "artist": "山口百恵",
+  "collection": "【🐍歌切】[2026-05-04]演歌 & 歌谣 主题歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19yRiBhEjX?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "飾りじゃないのよ涙は",
+  "artist": "中森明菜",
+  "collection": "【🐍歌切】[2026-05-04]演歌 & 歌谣 主题歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19yRiBhEjX?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "かもめが翔んだ日",
+  "artist": "渡辺真知子",
+  "collection": "【🐍歌切】[2026-05-04]演歌 & 歌谣 主题歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19yRiBhEjX?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "みずいろの雨",
+  "artist": "八神純子",
+  "collection": "【🐍歌切】[2026-05-04]演歌 & 歌谣 主题歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19yRiBhEjX?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "俺ら東京さ行ぐだ",
+  "artist": "吉幾三",
+  "collection": "【🐍歌切】[2026-05-04]演歌 & 歌谣 主题歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19yRiBhEjX?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "酒よ",
+  "artist": "吉幾三",
+  "collection": "【🐍歌切】[2026-05-04]演歌 & 歌谣 主题歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19yRiBhEjX?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "と・も・子・・・ (To･Mo･Ko...)",
+  "artist": "吉幾三",
+  "collection": "【🐍歌切】[2026-05-04]演歌 & 歌谣 主题歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19yRiBhEjX?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "異邦人",
+  "artist": "久保田早紀",
+  "collection": "【🐍歌切】[2026-05-04]演歌 & 歌谣 主题歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19yRiBhEjX?p=14",
+  "source": "ririsya.js"
+},
+    {
+  "title": "飛んでイスタンブール",
+  "artist": "庄野真代",
+  "collection": "【🐍歌切】[2026-05-04]演歌 & 歌谣 主题歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19yRiBhEjX?p=15",
+  "source": "ririsya.js"
+},
+    {
+  "title": "フライディ・チャイナタウン",
+  "artist": "泰葉",
+  "collection": "【🐍歌切】[2026-05-04]演歌 & 歌谣 主题歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19yRiBhEjX?p=16",
+  "source": "ririsya.js"
+},
+    {
+  "title": "喝采",
+  "artist": "ちあきなおみ",
+  "collection": "【🐍歌切】[2026-05-04]演歌 & 歌谣 主题歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19yRiBhEjX?p=17",
+  "source": "ririsya.js"
+},
+    {
+  "title": "愛燦燦",
+  "artist": "美空ひばり",
+  "collection": "【🐍歌切】[2026-05-04]演歌 & 歌谣 主题歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19yRiBhEjX?p=18",
+  "source": "ririsya.js"
+},
+    {
+  "title": "津軽海峡・冬景色 (Tsugaru Kaikyō Fuyugeshiki)",
+  "artist": "石川さゆり",
+  "collection": "【🐍歌切】[2026-05-04]演歌 & 歌谣 主题歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19yRiBhEjX?p=19",
+  "source": "ririsya.js"
+},
+    {
+  "title": "天城越え",
+  "artist": "石川さゆり",
+  "collection": "【🐍歌切】[2026-05-04]演歌 & 歌谣 主题歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19yRiBhEjX?p=20",
   "source": "ririsya.js"
 }
 );
