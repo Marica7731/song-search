@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 5/5/2026, 4:29:03 PM
+// 生成时间: 5/5/2026, 10:52:12 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -31579,6 +31579,206 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-05-01]初見さん歓迎だYO！5月初めまして！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xKREBYEQ6?p=27",
+  "source": "yoshika.js"
+},
+    {
+  "title": "１・２・３",
+  "artist": "After the Rain（そらる×まふまふ）",
+  "collection": "【🍠🦍歌切】[2026-05-04]初見さん歓迎！3D新衣装まであと少し！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11hRJBNEet?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハレ晴レユカイ",
+  "artist": "平野綾(涼宮ハルヒ)・茅原実里(長門有希)・後藤邑子(朝比奈みくる)",
+  "collection": "【🍠🦍歌切】[2026-05-04]初見さん歓迎！3D新衣装まであと少し！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11hRJBNEet?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【🍠🦍歌切】[2026-05-04]初見さん歓迎！3D新衣装まであと少し！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11hRJBNEet?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ロマンスの神様",
+  "artist": "広瀬香美",
+  "collection": "【🍠🦍歌切】[2026-05-04]初見さん歓迎！3D新衣装まであと少し！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11hRJBNEet?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "マツケンサンバⅡ",
+  "artist": "松平健",
+  "collection": "【🍠🦍歌切】[2026-05-04]初見さん歓迎！3D新衣装まであと少し！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11hRJBNEet?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【🍠🦍歌切】[2026-05-04]初見さん歓迎！3D新衣装まであと少し！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11hRJBNEet?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ケロッ!とマーチ",
+  "artist": "角田信明&いはたじゅり",
+  "collection": "【🍠🦍歌切】[2026-05-04]初見さん歓迎！3D新衣装まであと少し！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11hRJBNEet?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "DISCOTHEQUE",
+  "artist": "水樹奈々",
+  "collection": "【🍠🦍歌切】[2026-05-04]初見さん歓迎！3D新衣装まであと少し！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11hRJBNEet?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "未来のミュージアム",
+  "artist": "Perfume",
+  "collection": "【🍠🦍歌切】[2026-05-04]初見さん歓迎！3D新衣装まであと少し！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11hRJBNEet?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Diamonds",
+  "artist": "プリンセス プリンセス",
+  "collection": "【🍠🦍歌切】[2026-05-04]初見さん歓迎！3D新衣装まであと少し！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11hRJBNEet?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "気分上々↑↑",
+  "artist": "mihimaru GT",
+  "collection": "【🍠🦍歌切】[2026-05-04]初見さん歓迎！3D新衣装まであと少し！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11hRJBNEet?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-05-04]初見さん歓迎！3D新衣装まであと少し！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11hRJBNEet?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "【🍠🦍歌切】[2026-05-04]初見さん歓迎！3D新衣装まであと少し！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11hRJBNEet?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "フローリア",
+  "artist": "佐香智久",
+  "collection": "【🍠🦍歌切】[2026-05-04]初見さん歓迎！3D新衣装まであと少し！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11hRJBNEet?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夏夕空",
+  "artist": "中孝介",
+  "collection": "【🍠🦍歌切】[2026-05-04]初見さん歓迎！3D新衣装まであと少し！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11hRJBNEet?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "桜キッス",
+  "artist": "河辺千恵子",
+  "collection": "【🍠🦍歌切】[2026-05-04]初見さん歓迎！3D新衣装まであと少し！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11hRJBNEet?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP Feat.初音ミク",
+  "collection": "【🍠🦍歌切】[2026-05-04]初見さん歓迎！3D新衣装まであと少し！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11hRJBNEet?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "タッチ",
+  "artist": "岩崎良美",
+  "collection": "【🍠🦍歌切】[2026-05-04]初見さん歓迎！3D新衣装まであと少し！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11hRJBNEet?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "愛しい人へ",
+  "artist": "タイナカサチ",
+  "collection": "【🍠🦍歌切】[2026-05-04]初見さん歓迎！3D新衣装まであと少し！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11hRJBNEet?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "最高の片想い",
+  "artist": "タイナカサチ",
+  "collection": "【🍠🦍歌切】[2026-05-04]初見さん歓迎！3D新衣装まであと少し！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11hRJBNEet?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ねぇ",
+  "artist": "藤田麻衣子",
+  "collection": "【🍠🦍歌切】[2026-05-04]初見さん歓迎！3D新衣装まであと少し！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11hRJBNEet?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "虹",
+  "artist": "菅田将暉",
+  "collection": "【🍠🦍歌切】[2026-05-04]初見さん歓迎！3D新衣装まであと少し！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11hRJBNEet?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "いとしき日々よ",
+  "artist": "平井堅",
+  "collection": "【🍠🦍歌切】[2026-05-04]初見さん歓迎！3D新衣装まであと少し！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11hRJBNEet?p=23",
+  "source": "yoshika.js"
+},
+    {
+  "title": "君の好きなとこ",
+  "artist": "平井堅",
+  "collection": "【🍠🦍歌切】[2026-05-04]初見さん歓迎！3D新衣装まであと少し！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11hRJBNEet?p=24",
+  "source": "yoshika.js"
+},
+    {
+  "title": "逢いたくていま",
+  "artist": "MISIA",
+  "collection": "【🍠🦍歌切】[2026-05-04]初見さん歓迎！3D新衣装まであと少し！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11hRJBNEet?p=25",
   "source": "yoshika.js"
 }
 );

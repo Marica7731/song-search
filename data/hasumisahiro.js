@@ -1,6 +1,6 @@
 // 羽澄さひろ - 歌单数据 (多合集汇总)
 // 来源: BV1tKcZztEw5
-// 生成时间: 5/5/2026, 4:37:29 PM
+// 生成时间: 5/5/2026, 10:59:40 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -915,6 +915,206 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-05-01 羽澄さひろ / Hasumi Sahiro Rk_BQMCEUv4 工作结束后来个歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MHRMBkERt?p=25",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ばかまじめ",
+  "artist": "Creepy Nuts×Ayase×幾田りら",
+  "collection": "歌切 2026-05-04 羽澄さひろ / Hasumi Sahiro Bnxyh2Hb5ms 极其罕见的傍晚歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jPRJB9Efa?p=1",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-05-04 羽澄さひろ / Hasumi Sahiro Bnxyh2Hb5ms 极其罕见的傍晚歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jPRJB9Efa?p=2",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Eureka",
+  "artist": "星野源",
+  "collection": "歌切 2026-05-04 羽澄さひろ / Hasumi Sahiro Bnxyh2Hb5ms 极其罕见的傍晚歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jPRJB9Efa?p=3",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "JOY",
+  "artist": "YUKI",
+  "collection": "歌切 2026-05-04 羽澄さひろ / Hasumi Sahiro Bnxyh2Hb5ms 极其罕见的傍晚歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jPRJB9Efa?p=4",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "歌切 2026-05-04 羽澄さひろ / Hasumi Sahiro Bnxyh2Hb5ms 极其罕见的傍晚歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jPRJB9Efa?p=5",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "歌切 2026-05-04 羽澄さひろ / Hasumi Sahiro Bnxyh2Hb5ms 极其罕见的傍晚歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jPRJB9Efa?p=6",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "寄り酔い",
+  "artist": "和ぬか",
+  "collection": "歌切 2026-05-04 羽澄さひろ / Hasumi Sahiro Bnxyh2Hb5ms 极其罕见的傍晚歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jPRJB9Efa?p=7",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "月曜日戦争",
+  "artist": "吉澤嘉代子",
+  "collection": "歌切 2026-05-04 羽澄さひろ / Hasumi Sahiro Bnxyh2Hb5ms 极其罕见的傍晚歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jPRJB9Efa?p=8",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "おなじ話",
+  "artist": "ハンバートハンバート",
+  "collection": "歌切 2026-05-04 羽澄さひろ / Hasumi Sahiro Bnxyh2Hb5ms 极其罕见的傍晚歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jPRJB9Efa?p=9",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "内緒のピアス",
+  "collection": "歌切 2026-05-04 羽澄さひろ / Hasumi Sahiro Bnxyh2Hb5ms 极其罕见的傍晚歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jPRJB9Efa?p=10",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Silent Journey in Tokyo",
+  "artist": "back number",
+  "collection": "歌切 2026-05-04 羽澄さひろ / Hasumi Sahiro Bnxyh2Hb5ms 极其罕见的傍晚歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jPRJB9Efa?p=11",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "林檎売りの泡沫少女",
+  "artist": "yukkedoluce",
+  "collection": "歌切 2026-05-04 羽澄さひろ / Hasumi Sahiro Bnxyh2Hb5ms 极其罕见的傍晚歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jPRJB9Efa?p=12",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ハレンチ",
+  "artist": "ちゃんみな",
+  "collection": "歌切 2026-05-04 羽澄さひろ / Hasumi Sahiro Bnxyh2Hb5ms 极其罕见的傍晚歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jPRJB9Efa?p=13",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "トゲめくスピカ",
+  "artist": "ポルカドットスティングレイ",
+  "collection": "歌切 2026-05-04 羽澄さひろ / Hasumi Sahiro Bnxyh2Hb5ms 极其罕见的傍晚歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jPRJB9Efa?p=14",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P feat.GUMI",
+  "collection": "歌切 2026-05-04 羽澄さひろ / Hasumi Sahiro Bnxyh2Hb5ms 极其罕见的傍晚歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jPRJB9Efa?p=15",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "食虫植物",
+  "artist": "理芽",
+  "collection": "歌切 2026-05-04 羽澄さひろ / Hasumi Sahiro Bnxyh2Hb5ms 极其罕见的傍晚歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jPRJB9Efa?p=16",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "明日もし君が壊れても",
+  "artist": "WANDS",
+  "collection": "歌切 2026-05-04 羽澄さひろ / Hasumi Sahiro Bnxyh2Hb5ms 极其罕见的傍晚歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jPRJB9Efa?p=17",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "渇いた叫び",
+  "artist": "FIELD OF VIEW",
+  "collection": "歌切 2026-05-04 羽澄さひろ / Hasumi Sahiro Bnxyh2Hb5ms 极其罕见的傍晚歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jPRJB9Efa?p=18",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "全力少年",
+  "artist": "スキマスイッチ",
+  "collection": "歌切 2026-05-04 羽澄さひろ / Hasumi Sahiro Bnxyh2Hb5ms 极其罕见的傍晚歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jPRJB9Efa?p=19",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ガラナ",
+  "artist": "スキマスイッチ",
+  "collection": "歌切 2026-05-04 羽澄さひろ / Hasumi Sahiro Bnxyh2Hb5ms 极其罕见的傍晚歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jPRJB9Efa?p=20",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "いけないボーダーライン",
+  "artist": "ワルキューレ",
+  "collection": "歌切 2026-05-04 羽澄さひろ / Hasumi Sahiro Bnxyh2Hb5ms 极其罕见的傍晚歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jPRJB9Efa?p=21",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "次の角を曲がれ",
+  "artist": "℃-ute",
+  "collection": "歌切 2026-05-04 羽澄さひろ / Hasumi Sahiro Bnxyh2Hb5ms 极其罕见的傍晚歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jPRJB9Efa?p=22",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "「ひとりで生きられそう」って それってねえ、褒めているの?",
+  "artist": "Juice=Juice",
+  "collection": "歌切 2026-05-04 羽澄さひろ / Hasumi Sahiro Bnxyh2Hb5ms 极其罕见的傍晚歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jPRJB9Efa?p=23",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "マイノリティ脈絡",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "歌切 2026-05-04 羽澄さひろ / Hasumi Sahiro Bnxyh2Hb5ms 极其罕见的傍晚歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jPRJB9Efa?p=24",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "勘冴えて悔しいわ",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "歌切 2026-05-04 羽澄さひろ / Hasumi Sahiro Bnxyh2Hb5ms 极其罕见的傍晚歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jPRJB9Efa?p=25",
   "source": "hasumisahiro.js"
 }
 );

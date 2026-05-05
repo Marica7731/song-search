@@ -1,6 +1,6 @@
 // 知悠 - 歌单数据 (多合集汇总)
 // 来源: BV1owcoz3Ekw
-// 生成时间: 5/5/2026, 4:25:53 PM
+// 生成时间: 5/5/2026, 10:48:23 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2539,6 +2539,278 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-04-13]陪你悠闲唱歌到清晨～ 献给失眠的你 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16PQ5BqEFv?p=63",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=1",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Shout baby",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=2",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ピースサイン",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=3",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Fire◎Flower",
+  "artist": "absorb",
+  "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=4",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "炉心融解",
+  "artist": "iroha",
+  "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=5",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=6",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariSチャレンジ",
+  "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=7",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ひかりふる",
+  "artist": "Kalafina",
+  "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=8",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "君の銀の庭",
+  "artist": "Kalafina",
+  "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=9",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師, 宇多田ヒカル",
+  "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=10",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "アスノヨゾラ哨戒班",
+  "artist": "Orangestar",
+  "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=11",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ユニバーサル・バニー",
+  "artist": "シェリル・ノーム",
+  "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=12",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "オベリスク",
+  "artist": "シェリル・ノーム",
+  "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=13",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "sakura",
+  "artist": "NILGILIS",
+  "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=14",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27",
+  "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=15",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "天球、彗星は夜を跨いで",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=16",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "掻錨",
+  "artist": "ナナホシ管弦楽団チャレンジ",
+  "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=17",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ハッピーエンド",
+  "artist": "Back number",
+  "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=18",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=19",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P",
+  "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=20",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=21",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "天城越え",
+  "artist": "石川さゆり",
+  "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=22",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "IN MY DREAM",
+  "artist": "真行寺恵里",
+  "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=23",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=24",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Synchrogazer",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=25",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ETERNAL BLAZE",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=26",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=27",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Stellar Stellar",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=28",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "promise",
+  "artist": "広瀬香美",
+  "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=29",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "夏色",
+  "artist": "ゆず",
+  "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=30",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=31",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "もらい泣き",
+  "artist": "一青窈",
+  "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=32",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=33",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "風のゆくえ",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=34",
   "source": "chiyutori .js"
 }
 );

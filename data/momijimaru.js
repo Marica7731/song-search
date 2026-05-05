@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 5/5/2026, 4:26:06 PM
+// 生成时间: 5/5/2026, 10:48:37 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3755,6 +3755,318 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-05-02]成功约会……!! 以音乐剧风格力求成功的企划歌回✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fV99BDEeh?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団 feat. 安次嶺希和子",
+  "collection": "【🍁歌切】[2026-05-04]大家一起放松一下吧？在绿色纪念日那天来一场治愈歌曲的歌回🌿✨ ❔ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1duRJBJEgG?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Arrietty's Song",
+  "artist": "セシル・コルベル",
+  "collection": "【🍁歌切】[2026-05-04]大家一起放松一下吧？在绿色纪念日那天来一场治愈歌曲的歌回🌿✨ ❔ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1duRJBJEgG?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "君をのせて",
+  "artist": "井上あずみ",
+  "collection": "【🍁歌切】[2026-05-04]大家一起放松一下吧？在绿色纪念日那天来一场治愈歌曲的歌回🌿✨ ❔ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1duRJBJEgG?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "もののけ姫",
+  "artist": "米良美一",
+  "collection": "【🍁歌切】[2026-05-04]大家一起放松一下吧？在绿色纪念日那天来一场治愈歌曲的歌回🌿✨ ❔ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1duRJBJEgG?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【🍁歌切】[2026-05-04]大家一起放松一下吧？在绿色纪念日那天来一场治愈歌曲的歌回🌿✨ ❔ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1duRJBJEgG?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "いつも何度でも",
+  "artist": "木村弓",
+  "collection": "【🍁歌切】[2026-05-04]大家一起放松一下吧？在绿色纪念日那天来一场治愈歌曲的歌回🌿✨ ❔ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1duRJBJEgG?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
+  "collection": "【🍁歌切】[2026-05-04]大家一起放松一下吧？在绿色纪念日那天来一场治愈歌曲的歌回🌿✨ ❔ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1duRJBJEgG?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "すずめ feat.十明",
+  "artist": "RADWIMPS",
+  "collection": "【🍁歌切】[2026-05-04]大家一起放松一下吧？在绿色纪念日那天来一场治愈歌曲的歌回🌿✨ ❔ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1duRJBJEgG?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "となりのトトロ",
+  "artist": "井上あずみ",
+  "collection": "【🍁歌切】[2026-05-04]大家一起放松一下吧？在绿色纪念日那天来一场治愈歌曲的歌回🌿✨ ❔ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1duRJBJEgG?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "風の谷のナウシカ",
+  "artist": "安田成美",
+  "collection": "【🍁歌切】[2026-05-04]大家一起放松一下吧？在绿色纪念日那天来一场治愈歌曲的歌回🌿✨ ❔ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1duRJBJEgG?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【🍁歌切】[2026-05-04]大家一起放松一下吧？在绿色纪念日那天来一场治愈歌曲的歌回🌿✨ ❔ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1duRJBJEgG?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "時には昔の話を",
+  "artist": "加藤登紀子",
+  "collection": "【🍁歌切】[2026-05-04]大家一起放松一下吧？在绿色纪念日那天来一场治愈歌曲的歌回🌿✨ ❔ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1duRJBJEgG?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "川の流れのように",
+  "artist": "美空ひばり",
+  "collection": "【🍁歌切】[2026-05-04]大家一起放松一下吧？在绿色纪念日那天来一场治愈歌曲的歌回🌿✨ ❔ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1duRJBJEgG?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "涙そうそう",
+  "artist": "夏川りみ",
+  "collection": "【🍁歌切】[2026-05-04]大家一起放松一下吧？在绿色纪念日那天来一场治愈歌曲的歌回🌿✨ ❔ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1duRJBJEgG?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ひこうき雲",
+  "artist": "荒井由実",
+  "collection": "【🍁歌切】[2026-05-04]大家一起放松一下吧？在绿色纪念日那天来一场治愈歌曲的歌回🌿✨ ❔ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1duRJBJEgG?p=15",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【🍁歌切】[2026-05-04]大家一起放松一下吧？在绿色纪念日那天来一场治愈歌曲的歌回🌿✨ ❔ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1duRJBJEgG?p=16",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "心のそばに",
+  "artist": "Belle",
+  "collection": "【🍁歌切】[2026-05-04]大家一起放松一下吧？在绿色纪念日那天来一场治愈歌曲的歌回🌿✨ ❔ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1duRJBJEgG?p=17",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "さよならの夏 ～コクリコ坂から～",
+  "artist": "手嶌葵",
+  "collection": "【🍁歌切】[2026-05-04]大家一起放松一下吧？在绿色纪念日那天来一场治愈歌曲的歌回🌿✨ ❔ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1duRJBJEgG?p=18",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "メロディー",
+  "artist": "玉置浩二",
+  "collection": "【🍁歌切】[2026-05-04]大家一起放松一下吧？在绿色纪念日那天来一场治愈歌曲的歌回🌿✨ ❔ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1duRJBJEgG?p=19",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "すずめ feat.十明",
+  "artist": "RADWIMPS",
+  "collection": "【🍁歌切】[2026-05-04]大家一起放松一下吧？在绿色纪念日那天来一场治愈歌曲的歌回🌿✨ ❔ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1duRJBJEgG?p=20",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "三百六十五歩のマーチ",
+  "artist": "水前寺清子",
+  "collection": "【🍁歌切】[2026-05-05]儿童节特别节目？以儿歌为主的普通歌回🎏✨ ⁉ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZTRJBDEc6?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Booo!",
+  "artist": "TOKOTOKO",
+  "collection": "【🍁歌切】[2026-05-05]儿童节特别节目？以儿歌为主的普通歌回🎏✨ ⁉ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZTRJBDEc6?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "おしりかじり虫",
+  "artist": "おしりかじり虫",
+  "collection": "【🍁歌切】[2026-05-05]儿童节特别节目？以儿歌为主的普通歌回🎏✨ ⁉ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZTRJBDEc6?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "マル・マル・モリ・モリ!",
+  "artist": "薫と友樹、たまにムック。",
+  "collection": "【🍁歌切】[2026-05-05]儿童节特别节目？以儿歌为主的普通歌回🎏✨ ⁉ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZTRJBDEc6?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "【🍁歌切】[2026-05-05]儿童节特别节目？以儿歌为主的普通歌回🎏✨ ⁉ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZTRJBDEc6?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ハム太郎とっとこうた",
+  "artist": "ハムちゃんず",
+  "collection": "【🍁歌切】[2026-05-05]儿童节特别节目？以儿歌为主的普通歌回🎏✨ ⁉ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZTRJBDEc6?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao",
+  "collection": "【🍁歌切】[2026-05-05]儿童节特别节目？以儿歌为主的普通歌回🎏✨ ⁉ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZTRJBDEc6?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "めざせポケモンマスター",
+  "artist": "松本梨香",
+  "collection": "【🍁歌切】[2026-05-05]儿童节特别节目？以儿歌为主的普通歌回🎏✨ ⁉ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZTRJBDEc6?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "きょういくばんぐみのテーマ",
+  "artist": "やみの おねえさん",
+  "collection": "【🍁歌切】[2026-05-05]儿童节特别节目？以儿歌为主的普通歌回🎏✨ ⁉ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZTRJBDEc6?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ハッピーラッキーチャッピー",
+  "artist": "ano",
+  "collection": "【🍁歌切】[2026-05-05]儿童节特别节目？以儿歌为主的普通歌回🎏✨ ⁉ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZTRJBDEc6?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "粛聖!! ロリ神レクイエム☆",
+  "artist": "しぐれうい",
+  "collection": "【🍁歌切】[2026-05-05]儿童节特别节目？以儿歌为主的普通歌回🎏✨ ⁉ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZTRJBDEc6?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ドレミファロンド",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【🍁歌切】[2026-05-05]儿童节特别节目？以儿歌为主的普通歌回🎏✨ ⁉ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZTRJBDEc6?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "パプリカ",
+  "artist": "Foorin",
+  "collection": "【🍁歌切】[2026-05-05]儿童节特别节目？以儿歌为主的普通歌回🎏✨ ⁉ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZTRJBDEc6?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "森の小さなレストラン",
+  "artist": "手嶌葵",
+  "collection": "【🍁歌切】[2026-05-05]儿童节特别节目？以儿歌为主的普通歌回🎏✨ ⁉ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZTRJBDEc6?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "北風小僧の寒太郎",
+  "artist": "堺正章",
+  "collection": "【🍁歌切】[2026-05-05]儿童节特别节目？以儿歌为主的普通歌回🎏✨ ⁉ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZTRJBDEc6?p=15",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "【🍁歌切】[2026-05-05]儿童节特别节目？以儿歌为主的普通歌回🎏✨ ⁉ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZTRJBDEc6?p=16",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ハッピー・ジャムジャム",
+  "artist": "しまじろう・みみりん・とりっぴい・にゃっきい",
+  "collection": "【🍁歌切】[2026-05-05]儿童节特别节目？以儿歌为主的普通歌回🎏✨ ⁉ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZTRJBDEc6?p=17",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ハッピー・ジャムジャム",
+  "artist": "しまじろう・みみりん・とりっぴい・にゃっきい",
+  "collection": "【🍁歌切】[2026-05-05]儿童节特别节目？以儿歌为主的普通歌回🎏✨ ⁉ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZTRJBDEc6?p=18",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "すみれ色の紅",
+  "artist": "紅葉丸",
+  "collection": "【🍁歌切】[2026-05-05]儿童节特别节目？以儿歌为主的普通歌回🎏✨ ⁉ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZTRJBDEc6?p=19",
   "source": "momijimaru.js"
 }
 );
