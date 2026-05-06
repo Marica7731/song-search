@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 5/6/2026, 9:41:56 PM
+// 生成时间: 5/6/2026, 10:02:21 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4067,6 +4067,230 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-05-05]儿童节特别节目？以儿歌为主的普通歌回🎏✨ ⁉ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZTRJBDEc6?p=19",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【🍁歌切】[2026-05-06]做好放送事故的觉悟!! 不看歌词挑战 人狼歌回🐺✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nvRbBWEH4?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【🍁歌切】[2026-05-06]做好放送事故的觉悟!! 不看歌词挑战 人狼歌回🐺✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nvRbBWEH4?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "すずめ feat.十明",
+  "artist": "RADWIMPS",
+  "collection": "【🍁歌切】[2026-05-06]做好放送事故的觉悟!! 不看歌词挑战 人狼歌回🐺✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nvRbBWEH4?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "サンドリヨン",
+  "artist": "Dios/シグナルP feat. 初音ミク・KAITO",
+  "collection": "【🍁歌切】[2026-05-06]做好放送事故的觉悟!! 不看歌词挑战 人狼歌回🐺✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nvRbBWEH4?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師・宇多田ヒカル",
+  "collection": "【🍁歌切】[2026-05-06]做好放送事故的觉悟!! 不看歌词挑战 人狼歌回🐺✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nvRbBWEH4?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "magnet",
+  "artist": "minato",
+  "collection": "【🍁歌切】[2026-05-06]做好放送事故的觉悟!! 不看歌词挑战 人狼歌回🐺✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nvRbBWEH4?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "【🍁歌切】[2026-05-06]做好放送事故的觉悟!! 不看歌词挑战 人狼歌回🐺✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nvRbBWEH4?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "【🍁歌切】[2026-05-06]做好放送事故的觉悟!! 不看歌词挑战 人狼歌回🐺✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nvRbBWEH4?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【🍁歌切】[2026-05-06]做好放送事故的觉悟!! 不看歌词挑战 人狼歌回🐺✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nvRbBWEH4?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "脳漿炸裂ガール",
+  "artist": "れるりり feat. 初音ミク/GUMI",
+  "collection": "【🍁歌切】[2026-05-06]做好放送事故的觉悟!! 不看歌词挑战 人狼歌回🐺✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nvRbBWEH4?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工",
+  "collection": "【🍁歌切】[2026-05-06]做好放送事故的觉悟!! 不看歌词挑战 人狼歌回🐺✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nvRbBWEH4?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "六兆年と一夜物語",
+  "artist": "kemu",
+  "collection": "【🍁歌切】[2026-05-06]做好放送事故的觉悟!! 不看歌词挑战 人狼歌回🐺✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nvRbBWEH4?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ピエロ",
+  "artist": "KEI",
+  "collection": "【🍁歌切】[2026-05-06]做好放送事故的觉悟!! 不看歌词挑战 人狼歌回🐺✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nvRbBWEH4?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "贖罪",
+  "artist": "傘村トータ",
+  "collection": "【🍁歌切】[2026-05-06]做好放送事故的觉悟!! 不看歌词挑战 人狼歌回🐺✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nvRbBWEH4?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【🍁歌切】[2026-05-06]做好放送事故的觉悟!! 不看歌词挑战 人狼歌回🐺✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nvRbBWEH4?p=15",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【🍁歌切】[2026-05-06]做好放送事故的觉悟!! 不看歌词挑战 人狼歌回🐺✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nvRbBWEH4?p=16",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "一難",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-05-06]做好放送事故的觉悟!! 不看歌词挑战 人狼歌回🐺✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nvRbBWEH4?p=17",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【🍁歌切】[2026-05-06]做好放送事故的觉悟!! 不看歌词挑战 人狼歌回🐺✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nvRbBWEH4?p=18",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Bling-Bang-Bang-Born",
+  "artist": "Creepy Nuts",
+  "collection": "【🍁歌切】[2026-05-06]做好放送事故的觉悟!! 不看歌词挑战 人狼歌回🐺✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nvRbBWEH4?p=19",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Beyond the way",
+  "artist": "Giga",
+  "collection": "【🍁歌切】[2026-05-06]做好放送事故的觉悟!! 不看歌词挑战 人狼歌回🐺✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nvRbBWEH4?p=20",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ウタカタララバイ",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-05-06]做好放送事故的觉悟!! 不看歌词挑战 人狼歌回🐺✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nvRbBWEH4?p=21",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Blessing",
+  "artist": "halyosy",
+  "collection": "【🍁歌切】[2026-05-06]做好放送事故的觉悟!! 不看歌词挑战 人狼歌回🐺✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nvRbBWEH4?p=22",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "にっこり^^調査隊のテーマ",
+  "artist": "WONDERFUL★OPPORTUNITY!",
+  "collection": "【🍁歌切】[2026-05-06]做好放送事故的觉悟!! 不看歌词挑战 人狼歌回🐺✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nvRbBWEH4?p=23",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Make you hot!",
+  "artist": "あたたかくなる",
+  "collection": "【🍁歌切】[2026-05-06]做好放送事故的觉悟!! 不看歌词挑战 人狼歌回🐺✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nvRbBWEH4?p=24",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "可愛くてごめん",
+  "artist": "HoneyWorks",
+  "collection": "【🍁歌切】[2026-05-06]做好放送事故的觉悟!! 不看歌词挑战 人狼歌回🐺✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nvRbBWEH4?p=25",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "わたしの一番かわいいところ",
+  "artist": "FRUITS ZIPPER",
+  "collection": "【🍁歌切】[2026-05-06]做好放送事故的觉悟!! 不看歌词挑战 人狼歌回🐺✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nvRbBWEH4?p=26",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "おじゃま虫",
+  "artist": "DECO*27",
+  "collection": "【🍁歌切】[2026-05-06]做好放送事故的觉悟!! 不看歌词挑战 人狼歌回🐺✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nvRbBWEH4?p=27",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "可愛くてごめん",
+  "artist": "HoneyWorks",
+  "collection": "【🍁歌切】[2026-05-06]做好放送事故的觉悟!! 不看歌词挑战 人狼歌回🐺✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nvRbBWEH4?p=28",
   "source": "momijimaru.js"
 }
 );

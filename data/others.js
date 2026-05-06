@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 5/6/2026, 9:56:21 PM
+// 生成时间: 5/6/2026, 10:18:19 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9959,7 +9959,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "春を待つ",
-  "artist": "Islet feat. 倚水",
+  "artist": "Islet feat.倚水",
   "collection": "歌切 2026-05-06 月ノ輪乃愛 77EjDkKaz3Q 轻度甜正好🍰你也来尝一尝吧？",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AVR8BtE2F?p=2",
