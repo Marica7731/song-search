@@ -1,6 +1,6 @@
 // 羽澄さひろ - 歌单数据 (多合集汇总)
 // 来源: BV1tKcZztEw5
-// 生成时间: 5/6/2026, 7:34:36 PM
+// 生成时间: 5/6/2026, 7:53:18 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1115,6 +1115,118 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-05-04 羽澄さひろ / Hasumi Sahiro Bnxyh2Hb5ms 极其罕见的傍晚歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jPRJB9Efa?p=25",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "コーヒーカップ",
+  "artist": "yui",
+  "collection": "【歌切】[2026-05-06]ぽそぽそうたわく 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWR8BSET7?p=1",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "朱色の砂浜",
+  "artist": "みきとP",
+  "collection": "【歌切】[2026-05-06]ぽそぽそうたわく 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWR8BSET7?p=2",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "テロメアの産声",
+  "artist": "Heavenz",
+  "collection": "【歌切】[2026-05-06]ぽそぽそうたわく 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWR8BSET7?p=3",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "サイノウサンプラー",
+  "artist": "電ポルP",
+  "collection": "【歌切】[2026-05-06]ぽそぽそうたわく 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWR8BSET7?p=4",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "またあした",
+  "artist": "想太",
+  "collection": "【歌切】[2026-05-06]ぽそぽそうたわく 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWR8BSET7?p=5",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ぼくらのレットイットビー",
+  "artist": "はりーP",
+  "collection": "【歌切】[2026-05-06]ぽそぽそうたわく 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWR8BSET7?p=6",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "蜜月アン・ドゥ・トロワ",
+  "artist": "DATEKEN",
+  "collection": "【歌切】[2026-05-06]ぽそぽそうたわく 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWR8BSET7?p=7",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "月乃",
+  "artist": "つなまる",
+  "collection": "【歌切】[2026-05-06]ぽそぽそうたわく 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWR8BSET7?p=8",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "by your side",
+  "artist": "小川大輝",
+  "collection": "【歌切】[2026-05-06]ぽそぽそうたわく 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWR8BSET7?p=9",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "いかないで",
+  "artist": "想太",
+  "collection": "【歌切】[2026-05-06]ぽそぽそうたわく 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWR8BSET7?p=10",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "弱虫モンブラン",
+  "artist": "DECO*27",
+  "collection": "【歌切】[2026-05-06]ぽそぽそうたわく 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWR8BSET7?p=11",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "どうかしてるわ",
+  "artist": "yukkedoluce",
+  "collection": "【歌切】[2026-05-06]ぽそぽそうたわく 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWR8BSET7?p=12",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "天使",
+  "artist": "tama",
+  "collection": "【歌切】[2026-05-06]ぽそぽそうたわく 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWR8BSET7?p=13",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "君の好きな本",
+  "artist": "TOKOTOKO（西沢さんP）",
+  "collection": "【歌切】[2026-05-06]ぽそぽそうたわく 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWR8BSET7?p=14",
   "source": "hasumisahiro.js"
 }
 );
