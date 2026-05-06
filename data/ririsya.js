@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 5/6/2026, 8:44:12 PM
+// 生成时间: 5/6/2026, 9:04:53 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -15115,6 +15115,38 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-05-04]演歌 & 歌谣 主题歌回 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19yRiBhEjX?p=20",
+  "source": "ririsya.js"
+},
+    {
+  "title": "津軽海峡・冬景色",
+  "artist": "石川さゆり",
+  "collection": "【🐍歌切】[2026-05-06]注意盐分过多哦～ 接力 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A5R8BoEP7?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "美しい鰭",
+  "artist": "スピッツ",
+  "collection": "【🐍歌切】[2026-05-06]注意盐分过多哦～ 接力 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A5R8BoEP7?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "真夏の果実",
+  "artist": "サザンオールスターズ",
+  "collection": "【🐍歌切】[2026-05-06]注意盐分过多哦～ 接力 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A5R8BoEP7?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "深海少女",
+  "artist": "ゆうゆ",
+  "collection": "【🐍歌切】[2026-05-06]注意盐分过多哦～ 接力 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A5R8BoEP7?p=4",
   "source": "ririsya.js"
 }
 );

@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 5/6/2026, 8:56:54 PM
+// 生成时间: 5/6/2026, 9:17:59 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9947,6 +9947,38 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-05-02 苺庭ちひろ🍓🌱 Ichiniwa ch. d6U_DluHNFU 轻松挑战高评价128个的耐久歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MCREBMEsn?p=31",
+  "source": "others.js"
+},
+    {
+  "title": "君の彼女",
+  "artist": "TOKOTOKO",
+  "collection": "歌切 2026-05-06 月ノ輪乃愛 77EjDkKaz3Q 轻度甜正好🍰你也来尝一尝吧？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AVR8BtE2F?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "春を待つ",
+  "artist": "Islet feat. 倚水",
+  "collection": "歌切 2026-05-06 月ノ輪乃愛 77EjDkKaz3Q 轻度甜正好🍰你也来尝一尝吧？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AVR8BtE2F?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "チョコレートミルク",
+  "artist": "あぷえら",
+  "collection": "歌切 2026-05-06 月ノ輪乃愛 77EjDkKaz3Q 轻度甜正好🍰你也来尝一尝吧？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AVR8BtE2F?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "おじゃま虫Ⅱ",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-05-06 月ノ輪乃愛 77EjDkKaz3Q 轻度甜正好🍰你也来尝一尝吧？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AVR8BtE2F?p=4",
   "source": "others.js"
 },
     {

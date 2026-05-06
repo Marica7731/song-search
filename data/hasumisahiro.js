@@ -1,6 +1,6 @@
 // 羽澄さひろ - 歌单数据 (多合集汇总)
 // 来源: BV1tKcZztEw5
-// 生成时间: 5/6/2026, 8:54:49 PM
+// 生成时间: 5/6/2026, 9:15:07 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1227,6 +1227,30 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-06]ぽそぽそうたわく 羽澄さひろ / Hasumi Sahiro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZWR8BSET7?p=14",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-06]虽然看起来也能唱苦味的歌……♪ 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wjR8BxE9E?p=1",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-06]虽然看起来也能唱苦味的歌……♪ 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wjR8BxE9E?p=2",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-05-06]虽然看起来也能唱苦味的歌……♪ 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wjR8BxE9E?p=3",
   "source": "hasumisahiro.js"
 }
 );
