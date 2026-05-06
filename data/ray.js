@@ -1,6 +1,6 @@
 // 來-Ray- - 歌单数据 (多合集汇总)
 // 来源: BV1mJZwB8EVa
-// 生成时间: 5/6/2026, 11:05:05 PM
+// 生成时间: 5/6/2026, 11:25:18 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3451,6 +3451,254 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-04-20]世上罕见的午间歌回 來-Ray-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vHdCBpEGH?p=13",
+  "source": "ray.js"
+},
+    {
+  "title": "天使を見たんだ",
+  "artist": "なつめ千秋 feat. GUMI",
+  "collection": "【歌切】[2026-05-06]黄金周假期结束在这里画上句号 來-Ray",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TKR8BAEyP?p=1",
+  "source": "ray.js"
+},
+    {
+  "title": "虎視眈々",
+  "artist": "梅とら feat. 巡音ルカ/初音ミク/GUMI/IA/鏡音リン",
+  "collection": "【歌切】[2026-05-06]黄金周假期结束在这里画上句号 來-Ray",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TKR8BAEyP?p=2",
+  "source": "ray.js"
+},
+    {
+  "title": "海蛍",
+  "artist": "香椎モイミ feat. 花隈千冬",
+  "collection": "【歌切】[2026-05-06]黄金周假期结束在这里画上句号 來-Ray",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TKR8BAEyP?p=3",
+  "source": "ray.js"
+},
+    {
+  "title": "プラネテス",
+  "artist": "seiza feat. 初音ミク",
+  "collection": "【歌切】[2026-05-06]黄金周假期结束在这里画上句号 來-Ray",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TKR8BAEyP?p=4",
+  "source": "ray.js"
+},
+    {
+  "title": "crack",
+  "artist": "keeno feat. 初音ミク",
+  "collection": "【歌切】[2026-05-06]黄金周假期结束在这里画上句号 來-Ray",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TKR8BAEyP?p=5",
+  "source": "ray.js"
+},
+    {
+  "title": "オセロ",
+  "artist": "164 feat. GUMI",
+  "collection": "【歌切】[2026-05-06]黄金周假期结束在这里画上句号 來-Ray",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TKR8BAEyP?p=6",
+  "source": "ray.js"
+},
+    {
+  "title": "6900000000",
+  "artist": "(∵)キョトンP feat. 初音ミク",
+  "collection": "【歌切】[2026-05-06]黄金周假期结束在这里画上句号 來-Ray",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TKR8BAEyP?p=7",
+  "source": "ray.js"
+},
+    {
+  "title": "My Dearest",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-05-06]黄金周假期结束在这里画上句号 來-Ray",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TKR8BAEyP?p=8",
+  "source": "ray.js"
+},
+    {
+  "title": "magnet",
+  "artist": "minato feat. 初音ミク & 巡音ルカ",
+  "collection": "【歌切】[2026-05-06]黄金周假期结束在这里画上句号 來-Ray",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TKR8BAEyP?p=9",
+  "source": "ray.js"
+},
+    {
+  "title": "侵蝕",
+  "artist": "niki feat. 星界",
+  "collection": "【歌切】[2026-05-06]黄金周假期结束在这里画上句号 來-Ray",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TKR8BAEyP?p=10",
+  "source": "ray.js"
+},
+    {
+  "title": "GENTLE",
+  "artist": "香椎モイミ feat. 初音ミク/v flower",
+  "collection": "【歌切】[2026-05-06]黄金周假期结束在这里画上句号 來-Ray",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TKR8BAEyP?p=11",
+  "source": "ray.js"
+},
+    {
+  "title": "深淵",
+  "artist": "ヰ世界情緒×花譜",
+  "collection": "【歌切】[2026-05-06]黄金周假期结束在这里画上句号 來-Ray",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TKR8BAEyP?p=12",
+  "source": "ray.js"
+},
+    {
+  "title": "背景、夏に溺れる",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【歌切】[2026-05-06]黄金周假期结束在这里画上句号 來-Ray",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TKR8BAEyP?p=13",
+  "source": "ray.js"
+},
+    {
+  "title": "夜行性ハイズ",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-05-06]黄金周假期结束在这里画上句号 來-Ray",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TKR8BAEyP?p=14",
+  "source": "ray.js"
+},
+    {
+  "title": "ミュージックミュージック",
+  "artist": "とあ feat. 初音ミク",
+  "collection": "【歌切】[2026-05-06]黄金周假期结束在这里画上句号 來-Ray",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TKR8BAEyP?p=15",
+  "source": "ray.js"
+},
+    {
+  "title": "ブラッディーメアリー",
+  "artist": "MASA WORKS DESIGN feat. GUMI",
+  "collection": "【歌切】[2026-05-06]黄金周假期结束在这里画上句号 來-Ray",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TKR8BAEyP?p=16",
+  "source": "ray.js"
+},
+    {
+  "title": "白い雪のプリンセスは",
+  "artist": "のぼる↑ feat. 初音ミク",
+  "collection": "【歌切】[2026-05-06]黄金周假期结束在这里画上句号 來-Ray",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TKR8BAEyP?p=17",
+  "source": "ray.js"
+},
+    {
+  "title": "月を探して",
+  "artist": "koyori",
+  "collection": "【歌切】[2026-05-06]黄金周假期结束在这里画上句号 來-Ray",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TKR8BAEyP?p=18",
+  "source": "ray.js"
+},
+    {
+  "title": "Black Out",
+  "artist": "Azari feat. v flower",
+  "collection": "【歌切】[2026-05-06]黄金周假期结束在这里画上句号 來-Ray",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TKR8BAEyP?p=19",
+  "source": "ray.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師, 宇多田ヒカル",
+  "collection": "【歌切】[2026-05-06]黄金周假期结束在这里画上句号 來-Ray",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TKR8BAEyP?p=20",
+  "source": "ray.js"
+},
+    {
+  "title": "One Last Kiss",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-05-06]黄金周假期结束在这里画上句号 來-Ray",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TKR8BAEyP?p=21",
+  "source": "ray.js"
+},
+    {
+  "title": "FOCUS",
+  "artist": "KIRA feat. GUMI",
+  "collection": "【歌切】[2026-05-06]黄金周假期结束在这里画上句号 來-Ray",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TKR8BAEyP?p=22",
+  "source": "ray.js"
+},
+    {
+  "title": "Shadow Shadow",
+  "artist": "Azari feat. v flower",
+  "collection": "【歌切】[2026-05-06]黄金周假期结束在这里画上句号 來-Ray",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TKR8BAEyP?p=23",
+  "source": "ray.js"
+},
+    {
+  "title": "STYX HELIX",
+  "artist": "MYTH/ROIDTV アニメ「Re:ゼロから始める異世界生活」EDテーマ1",
+  "collection": "【歌切】[2026-05-06]黄金周假期结束在这里画上句号 來-Ray",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TKR8BAEyP?p=24",
+  "source": "ray.js"
+},
+    {
+  "title": "メンタルチェンソー",
+  "artist": "かいりきベア feat.初音ミク",
+  "collection": "【歌切】[2026-05-06]黄金周假期结束在这里画上句号 來-Ray",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TKR8BAEyP?p=25",
+  "source": "ray.js"
+},
+    {
+  "title": "敗北の少年",
+  "artist": "KEMU VOXX feat. GUMI",
+  "collection": "【歌切】[2026-05-06]黄金周假期结束在这里画上句号 來-Ray",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TKR8BAEyP?p=26",
+  "source": "ray.js"
+},
+    {
+  "title": "ヨヒラ",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【歌切】[2026-05-06]黄金周假期结束在这里画上句号 來-Ray",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TKR8BAEyP?p=27",
+  "source": "ray.js"
+},
+    {
+  "title": "初恋日記",
+  "artist": "香椎モイミ feat. 音街ウナ",
+  "collection": "【歌切】[2026-05-06]黄金周假期结束在这里画上句号 來-Ray",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TKR8BAEyP?p=28",
+  "source": "ray.js"
+},
+    {
+  "title": "さよならだけが人生だ",
+  "artist": "伊東歌詞太郎",
+  "collection": "【歌切】[2026-05-06]黄金周假期结束在这里画上句号 來-Ray",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TKR8BAEyP?p=29",
+  "source": "ray.js"
+},
+    {
+  "title": "桜色タイムカプセル",
+  "artist": "スズム feat. GUMI",
+  "collection": "【歌切】[2026-05-06]黄金周假期结束在这里画上句号 來-Ray",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TKR8BAEyP?p=30",
+  "source": "ray.js"
+},
+    {
+  "title": "カガリビト",
+  "artist": "millstones feat. 初音ミク",
+  "collection": "【歌切】[2026-05-06]黄金周假期结束在这里画上句号 來-Ray",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TKR8BAEyP?p=31",
   "source": "ray.js"
 }
 );
