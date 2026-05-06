@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 5/6/2026, 10:24:26 PM
+// 生成时间: 5/6/2026, 10:44:40 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -30531,6 +30531,134 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-05-04]吉他弹唱练习 Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DDRiBxEFj?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "シャンティ",
+  "artist": "wotaku",
+  "collection": "【💐歌切】[2026-05-06]黄金周假期似乎结束了 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hFR8BTEVN?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "フライディ・チャイナタウン",
+  "artist": "泰葉",
+  "collection": "【💐歌切】[2026-05-06]黄金周假期似乎结束了 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hFR8BTEVN?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "カガリビト",
+  "artist": "millstones",
+  "collection": "【💐歌切】[2026-05-06]黄金周假期似乎结束了 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hFR8BTEVN?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "フィクサー",
+  "artist": "ぬゆり",
+  "collection": "【💐歌切】[2026-05-06]黄金周假期似乎结束了 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hFR8BTEVN?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "トリノコシティ",
+  "artist": "40メートルP",
+  "collection": "【💐歌切】[2026-05-06]黄金周假期似乎结束了 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hFR8BTEVN?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "HEAVEN",
+  "artist": "はりーP",
+  "collection": "【💐歌切】[2026-05-06]黄金周假期似乎结束了 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hFR8BTEVN?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "深海のリトルクライ",
+  "artist": "sasakure .UK",
+  "collection": "【💐歌切】[2026-05-06]黄金周假期似乎结束了 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hFR8BTEVN?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "夏の半券",
+  "artist": "みきとP",
+  "collection": "【💐歌切】[2026-05-06]黄金周假期似乎结束了 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hFR8BTEVN?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "運命開花",
+  "artist": "空白ごっこ",
+  "collection": "【💐歌切】[2026-05-06]黄金周假期似乎结束了 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hFR8BTEVN?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "曇天",
+  "artist": "DOES",
+  "collection": "【💐歌切】[2026-05-06]黄金周假期似乎结束了 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hFR8BTEVN?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "火星人",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-05-06]黄金周假期似乎结束了 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hFR8BTEVN?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "都落ち",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-05-06]黄金周假期似乎结束了 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hFR8BTEVN?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-05-06]黄金周假期似乎结束了 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hFR8BTEVN?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "歌よ",
+  "artist": "Belle",
+  "collection": "【💐歌切】[2026-05-06]黄金周假期似乎结束了 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hFR8BTEVN?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "心のそばに",
+  "artist": "Belle",
+  "collection": "【💐歌切】[2026-05-06]黄金周假期似乎结束了 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hFR8BTEVN?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【💐歌切】[2026-05-06]黄金周假期似乎结束了 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hFR8BTEVN?p=16",
   "source": "figaro.js"
 }
 );
