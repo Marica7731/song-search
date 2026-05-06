@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据 (多合集汇总)
 // 来源: BV1zzZPBsEum
-// 生成时间: 5/6/2026, 7:46:28 PM
+// 生成时间: 5/6/2026, 8:07:39 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5275,6 +5275,102 @@ window.SONG_DATA.push(
   "collection": "【👿歌切】[2026-05-02]替代电台的深夜歌回📻🎶 已经开始了哟 😈💝 Ruki Otokado 音門るき [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15eREB5ETs?p=13",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "裸の勇者",
+  "artist": "Vaundy",
+  "collection": "【👿歌切】[2026-05-06]傍晚的歌回替代电台 📻🎶 黄金周假期进入最后冲刺 😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19YR8BCEZ8?p=1",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "トンツカタンタン",
+  "artist": "クレイジーウォウウォ！！",
+  "collection": "【👿歌切】[2026-05-06]傍晚的歌回替代电台 📻🎶 黄金周假期进入最后冲刺 😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19YR8BCEZ8?p=2",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【👿歌切】[2026-05-06]傍晚的歌回替代电台 📻🎶 黄金周假期进入最后冲刺 😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19YR8BCEZ8?p=3",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ねこ日記",
+  "artist": "ランカ・リー",
+  "collection": "【👿歌切】[2026-05-06]傍晚的歌回替代电台 📻🎶 黄金周假期进入最后冲刺 😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19YR8BCEZ8?p=4",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "桃色片想い",
+  "artist": "松浦亜弥",
+  "collection": "【👿歌切】[2026-05-06]傍晚的歌回替代电台 📻🎶 黄金周假期进入最后冲刺 😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19YR8BCEZ8?p=5",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "愛迷エレジー",
+  "artist": "DECO*27 feat. marina",
+  "collection": "【👿歌切】[2026-05-06]傍晚的歌回替代电台 📻🎶 黄金周假期进入最后冲刺 😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19YR8BCEZ8?p=6",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ぎゅっと。",
+  "artist": "もさを。",
+  "collection": "【👿歌切】[2026-05-06]傍晚的歌回替代电台 📻🎶 黄金周假期进入最后冲刺 😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19YR8BCEZ8?p=7",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ウィーアー！",
+  "artist": "きただにひろし",
+  "collection": "【👿歌切】[2026-05-06]傍晚的歌回替代电台 📻🎶 黄金周假期进入最后冲刺 😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19YR8BCEZ8?p=8",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "WHITE BREATH",
+  "artist": "T.M.Revolution",
+  "collection": "【👿歌切】[2026-05-06]傍晚的歌回替代电台 📻🎶 黄金周假期进入最后冲刺 😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19YR8BCEZ8?p=9",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ANIMA",
+  "artist": "ReoNa",
+  "collection": "【👿歌切】[2026-05-06]傍晚的歌回替代电台 📻🎶 黄金周假期进入最后冲刺 😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19YR8BCEZ8?p=10",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP feat. 初音ミク",
+  "collection": "【👿歌切】[2026-05-06]傍晚的歌回替代电台 📻🎶 黄金周假期进入最后冲刺 😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19YR8BCEZ8?p=11",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【👿歌切】[2026-05-06]傍晚的歌回替代电台 📻🎶 黄金周假期进入最后冲刺 😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19YR8BCEZ8?p=12",
   "source": "otomoneruki.js"
 }
 );
