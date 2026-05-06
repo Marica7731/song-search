@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 5/6/2026, 9:04:10 PM
+// 生成时间: 5/6/2026, 9:24:24 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8179,6 +8179,118 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-02]星期六深夜歌回💙 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qh99BuEMV?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-06]黄金周假期最后一天的歌回🥺🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AVR8BtE77?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "TOMORROW",
+  "artist": "岡本真夜",
+  "collection": "【歌切】[2026-05-06]黄金周假期最后一天的歌回🥺🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AVR8BtE77?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "真昼の月明かり",
+  "artist": "月詠み",
+  "collection": "【歌切】[2026-05-06]黄金周假期最后一天的歌回🥺🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AVR8BtE77?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-05-06]黄金周假期最后一天的歌回🥺🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AVR8BtE77?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "サクラミツツキ",
+  "artist": "SPYAIR",
+  "collection": "【歌切】[2026-05-06]黄金周假期最后一天的歌回🥺🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AVR8BtE77?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "涙の種、笑顔の花",
+  "artist": "中川翔子",
+  "collection": "【歌切】[2026-05-06]黄金周假期最后一天的歌回🥺🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AVR8BtE77?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "集結の園へ",
+  "artist": "林原めぐみ",
+  "collection": "【歌切】[2026-05-06]黄金周假期最后一天的歌回🥺🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AVR8BtE77?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ゆずれない願い",
+  "artist": "田村直美",
+  "collection": "【歌切】[2026-05-06]黄金周假期最后一天的歌回🥺🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AVR8BtE77?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "愛♡スクリ～ム！",
+  "artist": "AiScReam",
+  "collection": "【歌切】[2026-05-06]黄金周假期最后一天的歌回🥺🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AVR8BtE77?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "アドレナ",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-05-06]黄金周假期最后一天的歌回🥺🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AVR8BtE77?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "ryo",
+  "collection": "【歌切】[2026-05-06]黄金周假期最后一天的歌回🥺🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AVR8BtE77?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "StarDust",
+  "artist": "Sound Horizon",
+  "collection": "【歌切】[2026-05-06]黄金周假期最后一天的歌回🥺🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AVR8BtE77?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "unravel",
+  "artist": "TK from 凛として時雨",
+  "collection": "【歌切】[2026-05-06]黄金周假期最后一天的歌回🥺🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AVR8BtE77?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ニンジーン Loves you yeah!",
+  "artist": "ランカ・リー=中島愛",
+  "collection": "【歌切】[2026-05-06]黄金周假期最后一天的歌回🥺🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AVR8BtE77?p=14",
   "source": "naraetan.js"
 },
     {
