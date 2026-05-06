@@ -21,7 +21,7 @@ culua.com / codex/server-deploy 侧：
 2. 来源配置优先改 scripts/singer-configs.json。
 3. 先用 B 站 view API 查询入口 BV 是否属于 ugc_season.sections。
 4. 如果入口 BV 属于合集小节，新增来源时加 sectionTitle 为接口返回的小节标题；同时在 非常驻妹妹 / others 上加 excludeSectionTitles，避免重复收录。
-5. 如果只是独立 BV 或普通合集，不要乱加 sectionTitle。
+5. 如果入口 BV 已经拆成独立合集，或只是独立 BV / 普通合集，不要乱加 sectionTitle；如果之前加过 sectionTitle，要移除并同步清理 others 的排除项。
 6. 服务器运行时配置 /var/lib/song-search/singer-configs.json 也要备份后同步同样的来源配置。
 7. 推送或通过 GitHub connector 更新 codex/server-deploy 后，运行 sudo /usr/local/bin/song-search-refresh.sh 发布。
 
