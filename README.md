@@ -122,7 +122,7 @@ node scripts/update-song-growth.js
 配置示例：
 
 ```json
-{ "bvids": ["BV1tKcZztEw5"], "file": "hasumisahiro", "alias": "羽澄さひろ", "sectionTitle": "羽澄さひろ" }
+{ "bvids": ["BV18xo1BHEkX"], "file": "aimarun", "alias": "あいまるん。", "sectionTitle": "あいまるん。" }
 ```
 
 字段说明：
@@ -131,10 +131,15 @@ node scripts/update-song-growth.js
 - `sectionTitles`：可配置多个要收录的小节标题。
 - `excludeSectionTitle` / `excludeSectionTitles`：从合集来源里排除指定小节，避免同一小节同时进入独立来源和“非常驻妹妹”。
 
-已拆分的小节来源：
+独立合集来源：
 
 ```text
 BV1tKcZztEw5 羽澄さひろ -> data/hasumisahiro.js
+```
+
+已拆分的小节来源：
+
+```text
 BV18xo1BHEkX あいまるん。 -> data/aimarun.js
 BV1wHQVBTEU5 ななし律歌 -> data/nanashirikka.js
 BV1YtwtzREbp がびのお部屋 -> data/gabinoheya.js
