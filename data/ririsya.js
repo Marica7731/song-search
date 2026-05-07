@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 5/7/2026, 1:04:18 PM
+// 生成时间: 5/7/2026, 1:25:08 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -15102,7 +15102,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "津軽海峡・冬景色 (Tsugaru Kaikyō Fuyugeshiki)",
+  "title": "津軽海峡・冬景色",
   "artist": "石川さゆり",
   "collection": "【🐍歌切】[2026-05-04]演歌 & 歌谣 主题歌回 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
