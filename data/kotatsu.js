@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 5/7/2026, 2:11:39 AM
+// 生成时间: 5/7/2026, 2:30:13 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1539,6 +1539,166 @@ window.SONG_DATA.push(
   "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=20",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "結婚しようよ",
+  "artist": "吉田拓郎",
+  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "未来",
+  "artist": "ズーカラデル",
+  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "キッス〜帰り道のラブソング〜",
+  "artist": "テゴマス",
+  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "遠い匂い",
+  "artist": "YO-KING",
+  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "スパークル",
+  "artist": "RADWIMPS",
+  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "下北沢のギターロック",
+  "artist": "3markets",
+  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "トリセツ",
+  "artist": "西野カナ",
+  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "アンチノミー",
+  "artist": "amazarashi",
+  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ベースマン",
+  "artist": "andymori",
+  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "明るい未来",
+  "artist": "never young beach",
+  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "君じゃない誰かなんて〜Tejina〜",
+  "artist": "DEEP",
+  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "轍",
+  "artist": "コブクロ",
+  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "猫中毒",
+  "artist": "テゴマス",
+  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "おいら新宿でひと風吹かすぜ",
+  "artist": "はる こたつぶとん倶楽部",
+  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "君のバンド",
+  "artist": "コレサワ",
+  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "秘蜜〜黒の誓い〜",
+  "artist": "ひとしずくP feat. 鏡音リン・鏡音レン",
+  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=17",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "SUMMER TIME",
+  "artist": "NEWS",
+  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=18",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "コイスルオトメ",
+  "artist": "いきものがかり",
+  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=19",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "車輪の唄",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=20",
   "source": "kotatsu.js"
 }
 );
