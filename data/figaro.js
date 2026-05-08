@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 5/8/2026, 7:03:36 PM
+// 生成时间: 5/8/2026, 7:24:00 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -30659,6 +30659,126 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-05-06]黄金周假期似乎结束了 Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hFR8BTEVN?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "記憶の水槽",
+  "artist": "キタニタツヤ",
+  "collection": "【💐歌切】[2026-05-08]又到了周末哦~ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9R1BLEw9?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "マーシャル・マキシマイザー",
+  "artist": "柊マグネタイト",
+  "collection": "【💐歌切】[2026-05-08]又到了周末哦~ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9R1BLEw9?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "白い雪のプリンセスは",
+  "artist": "のぼる↑",
+  "collection": "【💐歌切】[2026-05-08]又到了周末哦~ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9R1BLEw9?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "あゝ無情",
+  "artist": "アン・ルイス",
+  "collection": "【💐歌切】[2026-05-08]又到了周末哦~ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9R1BLEw9?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "Wherever you are",
+  "artist": "ONE OK ROCK",
+  "collection": "【💐歌切】[2026-05-08]又到了周末哦~ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9R1BLEw9?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "甲賀忍法帖",
+  "artist": "陰陽座",
+  "collection": "【💐歌切】[2026-05-08]又到了周末哦~ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9R1BLEw9?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "【💐歌切】[2026-05-08]又到了周末哦~ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9R1BLEw9?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "エイミー",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-05-08]又到了周末哦~ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9R1BLEw9?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "エルマ",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-05-08]又到了周末哦~ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9R1BLEw9?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "八月、某、月明かり",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-05-08]又到了周末哦~ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9R1BLEw9?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-05-08]又到了周末哦~ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9R1BLEw9?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "アングレイデイズ",
+  "artist": "ツミキ",
+  "collection": "【💐歌切】[2026-05-08]又到了周末哦~ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9R1BLEw9?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "月陽",
+  "artist": "みきとP",
+  "collection": "【💐歌切】[2026-05-08]又到了周末哦~ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9R1BLEw9?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "内緒のピアス",
+  "collection": "【💐歌切】[2026-05-08]又到了周末哦~ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9R1BLEw9?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【💐歌切】[2026-05-08]又到了周末哦~ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9R1BLEw9?p=15",
   "source": "figaro.js"
 }
 );
