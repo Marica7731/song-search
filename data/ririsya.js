@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 5/8/2026, 2:24:44 AM
+// 生成时间: 5/8/2026, 2:44:13 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -15147,6 +15147,214 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-05-06]注意盐分过多哦～ 接力 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A5R8BoEP7?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【🐍歌切】[2026-05-07]海浪声和吉他弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w2duBuEXy?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "めぐる季節",
+  "artist": "井上あずみ",
+  "collection": "【🐍歌切】[2026-05-07]海浪声和吉他弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w2duBuEXy?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "風の谷のナウシカ",
+  "artist": "安田成美",
+  "collection": "【🐍歌切】[2026-05-07]海浪声和吉他弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w2duBuEXy?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "君をのせて",
+  "artist": "井上あずみ",
+  "collection": "【🐍歌切】[2026-05-07]海浪声和吉他弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w2duBuEXy?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "時には昔の話を",
+  "artist": "加藤登紀子",
+  "collection": "【🐍歌切】[2026-05-07]海浪声和吉他弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w2duBuEXy?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "いつでも誰かが",
+  "artist": "上々颱風",
+  "collection": "【🐍歌切】[2026-05-07]海浪声和吉他弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w2duBuEXy?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "風のとおり道",
+  "artist": "井上あずみ",
+  "collection": "【🐍歌切】[2026-05-07]海浪声和吉他弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w2duBuEXy?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "カントリーロード",
+  "artist": "本名陽子",
+  "collection": "【🐍歌切】[2026-05-07]海浪声和吉他弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w2duBuEXy?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "さよならの夏 〜コクリコ坂から〜",
+  "artist": "手嶌葵",
+  "collection": "【🐍歌切】[2026-05-07]海浪声和吉他弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w2duBuEXy?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ハナミズキ",
+  "artist": "一青窈",
+  "collection": "【🐍歌切】[2026-05-07]海浪声和吉他弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w2duBuEXy?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "to Mother",
+  "artist": "YUI",
+  "collection": "【🐍歌切】[2026-05-07]海浪声和吉他弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w2duBuEXy?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "空も飛べるはず",
+  "artist": "スピッツ",
+  "collection": "【🐍歌切】[2026-05-07]海浪声和吉他弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w2duBuEXy?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Fly Me to the Moon",
+  "artist": "Frank Sinatra",
+  "collection": "【🐍歌切】[2026-05-07]海浪声和吉他弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w2duBuEXy?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ひこうき雲",
+  "artist": "松任谷由実",
+  "collection": "【🐍歌切】[2026-05-07]海浪声和吉他弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w2duBuEXy?p=14",
+  "source": "ririsya.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-05-07]海浪声和吉他弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w2duBuEXy?p=15",
+  "source": "ririsya.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【🐍歌切】[2026-05-07]海浪声和吉他弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w2duBuEXy?p=16",
+  "source": "ririsya.js"
+},
+    {
+  "title": "裸の心",
+  "artist": "あいみょん",
+  "collection": "【🐍歌切】[2026-05-07]海浪声和吉他弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w2duBuEXy?p=17",
+  "source": "ririsya.js"
+},
+    {
+  "title": "私とワルツを",
+  "artist": "鬼束ちひろ",
+  "collection": "【🐍歌切】[2026-05-07]海浪声和吉他弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w2duBuEXy?p=18",
+  "source": "ririsya.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【🐍歌切】[2026-05-07]海浪声和吉他弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w2duBuEXy?p=19",
+  "source": "ririsya.js"
+},
+    {
+  "title": "渡月橋 ～君 想ふ～",
+  "artist": "倉木麻衣",
+  "collection": "【🐍歌切】[2026-05-07]海浪声和吉他弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w2duBuEXy?p=20",
+  "source": "ririsya.js"
+},
+    {
+  "title": "TSUNAMI",
+  "artist": "サザンオールスターズ",
+  "collection": "【🐍歌切】[2026-05-07]海浪声和吉他弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w2duBuEXy?p=21",
+  "source": "ririsya.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP",
+  "collection": "【🐍歌切】[2026-05-07]海浪声和吉他弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w2duBuEXy?p=22",
+  "source": "ririsya.js"
+},
+    {
+  "title": "愛のうた",
+  "artist": "ストロベリー・フラワー",
+  "collection": "【🐍歌切】[2026-05-07]海浪声和吉他弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w2duBuEXy?p=23",
+  "source": "ririsya.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【🐍歌切】[2026-05-07]海浪声和吉他弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w2duBuEXy?p=24",
+  "source": "ririsya.js"
+},
+    {
+  "title": "糸",
+  "artist": "中島みゆき",
+  "collection": "【🐍歌切】[2026-05-07]海浪声和吉他弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w2duBuEXy?p=25",
+  "source": "ririsya.js"
+},
+    {
+  "title": "チチをもげ!",
+  "artist": "パルコ・フォルゴレ(高橋広樹)",
+  "collection": "【🐍歌切】[2026-05-07]海浪声和吉他弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w2duBuEXy?p=26",
   "source": "ririsya.js"
 }
 );
