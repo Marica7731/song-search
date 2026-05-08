@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 5/8/2026, 1:51:05 AM
+// 生成时间: 5/8/2026, 2:11:47 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2731,6 +2731,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-02]享受黄金周，悠闲的弹唱时光～ -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ds99BVEiH?p=22",
+  "source": "sumica.js"
+},
+    {
+  "title": "orion",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-05-07]五一真的发生了吗？忧郁中躲避的弹唱🥲🌟 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QbduBSEx8?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "バカでしょ",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-05-07]五一真的发生了吗？忧郁中躲避的弹唱🥲🌟 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QbduBSEx8?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-05-07]五一真的发生了吗？忧郁中躲避的弹唱🥲🌟 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QbduBSEx8?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "西藤公園",
+  "artist": "backnumber",
+  "collection": "【歌切】[2026-05-07]五一真的发生了吗？忧郁中躲避的弹唱🥲🌟 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QbduBSEx8?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "チェックのワンピース",
+  "artist": "backnumber",
+  "collection": "【歌切】[2026-05-07]五一真的发生了吗？忧郁中躲避的弹唱🥲🌟 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QbduBSEx8?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "憂一乗",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-07]五一真的发生了吗？忧郁中躲避的弹唱🥲🌟 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QbduBSEx8?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-07]五一真的发生了吗？忧郁中躲避的弹唱🥲🌟 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QbduBSEx8?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "more than words",
+  "artist": "羊文学",
+  "collection": "【歌切】[2026-05-07]五一真的发生了吗？忧郁中躲避的弹唱🥲🌟 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QbduBSEx8?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "KEMU VOXX",
+  "collection": "【歌切】[2026-05-07]五一真的发生了吗？忧郁中躲避的弹唱🥲🌟 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QbduBSEx8?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "ヒカレイノチ",
+  "artist": "Kitri",
+  "collection": "【歌切】[2026-05-07]五一真的发生了吗？忧郁中躲避的弹唱🥲🌟 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QbduBSEx8?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "ちょっと待って！",
+  "artist": "澄花",
+  "collection": "【歌切】[2026-05-07]五一真的发生了吗？忧郁中躲避的弹唱🥲🌟 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QbduBSEx8?p=11",
   "source": "sumica.js"
 }
 );
