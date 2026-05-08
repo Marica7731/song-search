@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 5/8/2026, 1:22:16 AM
+// 生成时间: 5/8/2026, 1:43:04 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4291,6 +4291,94 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-05-06]做好放送事故的觉悟!! 不看歌词挑战 人狼歌回🐺✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nvRbBWEH4?p=28",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "隣の恋は青",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-05-07]Penthouse歌曲限定歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SUdKBuEVy?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "一二三",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-05-07]Penthouse歌曲限定歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SUdKBuEVy?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Jukebox Driver",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-05-07]Penthouse歌曲限定歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SUdKBuEVy?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Planetary",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-05-07]Penthouse歌曲限定歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SUdKBuEVy?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "閃光花",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-05-07]Penthouse歌曲限定歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SUdKBuEVy?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "我愛你",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-05-07]Penthouse歌曲限定歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SUdKBuEVy?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Taxi to the Moon",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-05-07]Penthouse歌曲限定歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SUdKBuEVy?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ナンセンス",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-05-07]Penthouse歌曲限定歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SUdKBuEVy?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "青く在れ",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-05-07]Penthouse歌曲限定歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SUdKBuEVy?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "一難",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-05-07]Penthouse歌曲限定歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SUdKBuEVy?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Minute by Minute",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-05-07]Penthouse歌曲限定歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SUdKBuEVy?p=11",
   "source": "momijimaru.js"
 }
 );

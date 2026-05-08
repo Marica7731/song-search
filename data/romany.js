@@ -1,6 +1,6 @@
 // ロマニ - 歌单数据 (多合集汇总)
 // 来源: BV1KHXxBUErU, BV1iHQXBzEgU
-// 生成时间: 5/8/2026, 1:32:16 AM
+// 生成时间: 5/8/2026, 1:51:43 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1731,6 +1731,94 @@ window.SONG_DATA.push(
   "collection": "【ロマニ🎸弾き語り歌切】[2026-05-03]星期日惯例歌回——夜幕下的五一假期，让我们悠闲一下🌙𓂃𝄞 ロマニードットアイオー / ROMANY.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dHRqBNE5e?p=12",
+  "source": "romany.js"
+},
+    {
+  "title": "ミッドナイト・リフレクション",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【ロマニ歌切】[2026-05-07]ライブ前のライブ⚡──✦ みじかめSINGING STREAM ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S2dKB6E9S?p=1",
+  "source": "romany.js"
+},
+    {
+  "title": "Caramel Pain",
+  "artist": "星街すいせい",
+  "collection": "【ロマニ歌切】[2026-05-07]ライブ前のライブ⚡──✦ みじかめSINGING STREAM ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S2dKB6E9S?p=2",
+  "source": "romany.js"
+},
+    {
+  "title": "レイメイ",
+  "artist": "さユり× MY FIRST STORY",
+  "collection": "【ロマニ歌切】[2026-05-07]ライブ前のライブ⚡──✦ みじかめSINGING STREAM ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S2dKB6E9S?p=3",
+  "source": "romany.js"
+},
+    {
+  "title": "アンビバレント",
+  "artist": "Uru",
+  "collection": "【ロマニ歌切】[2026-05-07]ライブ前のライブ⚡──✦ みじかめSINGING STREAM ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S2dKB6E9S?p=4",
+  "source": "romany.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【ロマニ歌切】[2026-05-07]ライブ前のライブ⚡──✦ みじかめSINGING STREAM ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S2dKB6E9S?p=5",
+  "source": "romany.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko",
+  "collection": "【ロマニ歌切】[2026-05-07]ライブ前のライブ⚡──✦ みじかめSINGING STREAM ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S2dKB6E9S?p=6",
+  "source": "romany.js"
+},
+    {
+  "title": "ソワレ",
+  "artist": "星街すいせい",
+  "collection": "【ロマニ歌切】[2026-05-07]ライブ前のライブ⚡──✦ みじかめSINGING STREAM ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S2dKB6E9S?p=7",
+  "source": "romany.js"
+},
+    {
+  "title": "群青",
+  "artist": "YOASOBI",
+  "collection": "【ロマニ歌切】[2026-05-07]ライブ前のライブ⚡──✦ みじかめSINGING STREAM ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S2dKB6E9S?p=8",
+  "source": "romany.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "【ロマニ歌切】[2026-05-07]ライブ前のライブ⚡──✦ みじかめSINGING STREAM ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S2dKB6E9S?p=9",
+  "source": "romany.js"
+},
+    {
+  "title": "イキナクチャ",
+  "artist": "ロマニー・ドットアイオー",
+  "collection": "【ロマニ歌切】[2026-05-07]ライブ前のライブ⚡──✦ みじかめSINGING STREAM ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S2dKB6E9S?p=10",
+  "source": "romany.js"
+},
+    {
+  "title": "ラブドリ！",
+  "artist": "ロマニー・ドットアイオー",
+  "collection": "【ロマニ歌切】[2026-05-07]ライブ前のライブ⚡──✦ みじかめSINGING STREAM ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S2dKB6E9S?p=11",
   "source": "romany.js"
 }
 );
