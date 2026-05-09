@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 5/9/2026, 2:10:55 PM
+// 生成时间: 5/9/2026, 2:30:39 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1699,6 +1699,174 @@ window.SONG_DATA.push(
   "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=20",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "トレモロ",
+  "artist": "RADWIMPS",
+  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Peace",
+  "artist": "andymori",
+  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "終わらない歌",
+  "artist": "THE BLUE HEARTS",
+  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "感情七号線",
+  "artist": "フラワーカンパニーズ",
+  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ラストバージン",
+  "artist": "RADWIMPS",
+  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "かなしくてやりきれない",
+  "artist": "フォーク・クルセダーズ",
+  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "風の強い日",
+  "artist": "back number",
+  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "フルスイング",
+  "artist": "NEWS",
+  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "社会の窓",
+  "artist": "クリープハイプ",
+  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "バラ色の日々",
+  "artist": "MOROHA",
+  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "人との距離のはかりかた",
+  "artist": "Plenty",
+  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "川の流れのように",
+  "artist": "美空ひばり",
+  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "森の小さなレストラン",
+  "artist": "手嶌葵",
+  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "おしゃかしゃま",
+  "artist": "RADWIMPS",
+  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=17",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "燈",
+  "artist": "崎山蒼志",
+  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=18",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "曲名のないオリジナル",
+  "artist": "はる こたつぶとん倶楽部",
+  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=19",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "恋をしたんだ",
+  "artist": "はる こたつぶとん倶楽部",
+  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=20",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "神様、",
+  "artist": "はる こたつぶとん倶楽部",
+  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=21",
   "source": "kotatsu.js"
 }
 );
