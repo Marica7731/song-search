@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 5/9/2026, 1:34:46 PM
+// 生成时间: 5/9/2026, 1:57:16 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9979,6 +9979,38 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-05-06 月ノ輪乃愛 77EjDkKaz3Q 轻度甜正好🍰你也来尝一尝吧？",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AVR8BtE2F?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "歌切 2026-05-09 すとらてぃあ-Stratia GQb-XxU3u0Q 送给触动你心灵的你，让你心弦共鸣的歌声🦋",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KSRXBwE2v?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "チャイナアドバイス",
+  "artist": "相対性理論",
+  "collection": "歌切 2026-05-09 すとらてぃあ-Stratia GQb-XxU3u0Q 送给触动你心灵的你，让你心弦共鸣的歌声🦋",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KSRXBwE2v?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "準透明少年",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-05-09 すとらてぃあ-Stratia GQb-XxU3u0Q 送给触动你心灵的你，让你心弦共鸣的歌声🦋",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KSRXBwE2v?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "LastTear",
+  "artist": "すとらてぃあ",
+  "collection": "歌切 2026-05-09 すとらてぃあ-Stratia GQb-XxU3u0Q 送给触动你心灵的你，让你心弦共鸣的歌声🦋",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KSRXBwE2v?p=4",
   "source": "others.js"
 },
     {
