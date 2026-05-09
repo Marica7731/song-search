@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 5/9/2026, 2:51:07 PM
+// 生成时间: 5/9/2026, 3:09:58 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2819,6 +2819,190 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-07]五一真的发生了吗？忧郁中躲避的弹唱🥲🌟 -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QbduBSEx8?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-09]一起晒太阳吧，悠闲的弹唱时光☀️𓈒 erotisch -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NBRdBTExG?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "千鳥",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-09]一起晒太阳吧，悠闲的弹唱时光☀️𓈒 erotisch -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NBRdBTExG?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "まぶしい",
+  "artist": "上白石萌音",
+  "collection": "【歌切】[2026-05-09]一起晒太阳吧，悠闲的弹唱时光☀️𓈒 erotisch -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NBRdBTExG?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "蝶々結び",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-05-09]一起晒太阳吧，悠闲的弹唱时光☀️𓈒 erotisch -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NBRdBTExG?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "青春コンプレックス",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-05-09]一起晒太阳吧，悠闲的弹唱时光☀️𓈒 erotisch -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NBRdBTExG?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "Hey my friend",
+  "artist": "Tommy heavenly6",
+  "collection": "【歌切】[2026-05-09]一起晒太阳吧，悠闲的弹唱时光☀️𓈒 erotisch -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NBRdBTExG?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "アヤノの幸福理論",
+  "artist": "じん feat. IA",
+  "collection": "【歌切】[2026-05-09]一起晒太阳吧，悠闲的弹唱时光☀️𓈒 erotisch -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NBRdBTExG?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "ロビンソン",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-05-09]一起晒太阳吧，悠闲的弹唱时光☀️𓈒 erotisch -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NBRdBTExG?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "春の歌",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-05-09]一起晒太阳吧，悠闲的弹唱时光☀️𓈒 erotisch -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NBRdBTExG?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "声",
+  "artist": "羊文学",
+  "collection": "【歌切】[2026-05-09]一起晒太阳吧，悠闲的弹唱时光☀️𓈒 erotisch -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NBRdBTExG?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-05-09]一起晒太阳吧，悠闲的弹唱时光☀️𓈒 erotisch -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NBRdBTExG?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "Automatic",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-05-09]一起晒太阳吧，悠闲的弹唱时光☀️𓈒 erotisch -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NBRdBTExG?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-09]一起晒太阳吧，悠闲的弹唱时光☀️𓈒 erotisch -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NBRdBTExG?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "八月、某、月明かり",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-09]一起晒太阳吧，悠闲的弹唱时光☀️𓈒 erotisch -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NBRdBTExG?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "コイスルオトメ",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-05-09]一起晒太阳吧，悠闲的弹唱时光☀️𓈒 erotisch -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NBRdBTExG?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "花降らし",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【歌切】[2026-05-09]一起晒太阳吧，悠闲的弹唱时光☀️𓈒 erotisch -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NBRdBTExG?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "シアワセ",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-05-09]一起晒太阳吧，悠闲的弹唱时光☀️𓈒 erotisch -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NBRdBTExG?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "KissHug",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-05-09]一起晒太阳吧，悠闲的弹唱时光☀️𓈒 erotisch -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NBRdBTExG?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "メロウ",
+  "artist": "須田景凪",
+  "collection": "【歌切】[2026-05-09]一起晒太阳吧，悠闲的弹唱时光☀️𓈒 erotisch -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NBRdBTExG?p=19",
+  "source": "sumica.js"
+},
+    {
+  "title": "猫とアレルギー",
+  "artist": "きのこ帝国",
+  "collection": "【歌切】[2026-05-09]一起晒太阳吧，悠闲的弹唱时光☀️𓈒 erotisch -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NBRdBTExG?p=20",
+  "source": "sumica.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-05-09]一起晒太阳吧，悠闲的弹唱时光☀️𓈒 erotisch -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NBRdBTExG?p=21",
+  "source": "sumica.js"
+},
+    {
+  "title": "一日惚れ",
+  "artist": "澄花",
+  "collection": "【歌切】[2026-05-09]一起晒太阳吧，悠闲的弹唱时光☀️𓈒 erotisch -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NBRdBTExG?p=22",
+  "source": "sumica.js"
+},
+    {
+  "title": "泣き虫上等",
+  "artist": "澄花",
+  "collection": "【歌切】[2026-05-09]一起晒太阳吧，悠闲的弹唱时光☀️𓈒 erotisch -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NBRdBTExG?p=23",
   "source": "sumica.js"
 }
 );
