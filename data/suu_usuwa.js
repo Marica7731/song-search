@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 5/10/2026, 9:04:34 AM
+// 生成时间: 5/10/2026, 9:24:52 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -20979,6 +20979,54 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】[2026-05-02]出问题了，这是用来确认故障的存档，以后想把它删掉。 稀羽すう - Suu Usuwa",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19b99B6Eqw?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "不可幸力",
+  "artist": "Vaundy",
+  "collection": "【🦢歌切】[2026-05-10]复活复仇歌回 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cC5E6oELn?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP",
+  "collection": "【🦢歌切】[2026-05-10]复活复仇歌回 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cC5E6oELn?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "不思議",
+  "artist": "星野源",
+  "collection": "【🦢歌切】[2026-05-10]复活复仇歌回 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cC5E6oELn?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【🦢歌切】[2026-05-10]复活复仇歌回 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cC5E6oELn?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【🦢歌切】[2026-05-10]复活复仇歌回 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cC5E6oELn?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "都落ち",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】[2026-05-10]复活复仇歌回 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cC5E6oELn?p=6",
   "source": "suu_usuwa.js"
 }
 );
