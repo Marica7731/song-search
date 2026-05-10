@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 5/10/2026, 7:07:03 PM
+// 生成时间: 5/10/2026, 7:25:47 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -31811,6 +31811,110 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-05-09]3D新衣装首秀直播🎉精心打造的3D中唱歌跳舞！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qVRdBWEUr?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アローラ!!",
+  "artist": "松本梨香",
+  "collection": "【🍠🦍歌切】[2026-05-10]初見さん歓迎だYO！明日はZepp新宿だ！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Eh5H6aESA?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "【🍠🦍歌切】[2026-05-10]初見さん歓迎だYO！明日はZepp新宿だ！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Eh5H6aESA?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【🍠🦍歌切】[2026-05-10]初見さん歓迎だYO！明日はZepp新宿だ！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Eh5H6aESA?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ロマンスの神様",
+  "artist": "広瀬香美",
+  "collection": "【🍠🦍歌切】[2026-05-10]初見さん歓迎だYO！明日はZepp新宿だ！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Eh5H6aESA?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "magnet",
+  "artist": "流星P feat. 巡音ルカ × 初音ミク",
+  "collection": "【🍠🦍歌切】[2026-05-10]初見さん歓迎だYO！明日はZepp新宿だ！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Eh5H6aESA?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【🍠🦍歌切】[2026-05-10]初見さん歓迎だYO！明日はZepp新宿だ！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Eh5H6aESA?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハレ晴レユカイ",
+  "artist": "平野綾(涼宮ハルヒ)・茅原実里(長門有希)・後藤邑子(朝比奈みくる)",
+  "collection": "【🍠🦍歌切】[2026-05-10]初見さん歓迎だYO！明日はZepp新宿だ！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Eh5H6aESA?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "めぐる季節",
+  "artist": "純名里沙",
+  "collection": "【🍠🦍歌切】[2026-05-10]初見さん歓迎だYO！明日はZepp新宿だ！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Eh5H6aESA?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Over Soul",
+  "artist": "林原めぐみ",
+  "collection": "【🍠🦍歌切】[2026-05-10]初見さん歓迎だYO！明日はZepp新宿だ！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Eh5H6aESA?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "【🍠🦍歌切】[2026-05-10]初見さん歓迎だYO！明日はZepp新宿だ！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Eh5H6aESA?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夢の続きへ",
+  "artist": "SURFACE",
+  "collection": "【🍠🦍歌切】[2026-05-10]初見さん歓迎だYO！明日はZepp新宿だ！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Eh5H6aESA?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "サインはＢ",
+  "artist": "B小町",
+  "collection": "【🍠🦍歌切】[2026-05-10]初見さん歓迎だYO！明日はZepp新宿だ！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Eh5H6aESA?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "DISCOTHEQUE",
+  "artist": "水樹奈々",
+  "collection": "【🍠🦍歌切】[2026-05-10]初見さん歓迎だYO！明日はZepp新宿だ！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Eh5H6aESA?p=13",
   "source": "yoshika.js"
 }
 );

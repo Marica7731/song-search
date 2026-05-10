@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 5/10/2026, 7:04:02 PM
+// 生成时间: 5/10/2026, 7:23:52 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8291,6 +8291,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-06]黄金周假期最后一天的歌回🥺🎤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AVR8BtE77?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "カルマ",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-05-10]悠闲星期日歌回 🫐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1275H63Ens?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Flamingo",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-05-10]悠闲星期日歌回 🫐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1275H63Ens?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-05-10]悠闲星期日歌回 🫐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1275H63Ens?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "強盗と花束",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-10]悠闲星期日歌回 🫐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1275H63Ens?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "青春コンプレックス",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-05-10]悠闲星期日歌回 🫐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1275H63Ens?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Subtitle",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-05-10]悠闲星期日歌回 🫐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1275H63Ens?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "手紙～拝啓 十五の君へ～",
+  "artist": "アンジェラ・アキ",
+  "collection": "【歌切】[2026-05-10]悠闲星期日歌回 🫐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1275H63Ens?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "あんなに一緒だったのに",
+  "artist": "See-Saw",
+  "collection": "【歌切】[2026-05-10]悠闲星期日歌回 🫐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1275H63Ens?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ",
+  "collection": "【歌切】[2026-05-10]悠闲星期日歌回 🫐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1275H63Ens?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン",
+  "collection": "【歌切】[2026-05-10]悠闲星期日歌回 🫐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1275H63Ens?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "メフィスト",
+  "artist": "女王蜂",
+  "collection": "【歌切】[2026-05-10]悠闲星期日歌回 🫐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1275H63Ens?p=11",
   "source": "naraetan.js"
 },
     {
