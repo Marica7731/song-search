@@ -1,6 +1,6 @@
 // ロマニ - 歌单数据 (多合集汇总)
 // 来源: BV1KHXxBUErU, BV1iHQXBzEgU
-// 生成时间: 5/10/2026, 6:31:40 PM
+// 生成时间: 5/10/2026, 6:52:15 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1819,6 +1819,54 @@ window.SONG_DATA.push(
   "collection": "【ロマニ🎸弾き語り歌切】[2026-05-03]星期日惯例歌回——夜幕下的五一假期，让我们悠闲一下🌙𓂃𝄞 ロマニードットアイオー / ROMANY.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dHRqBNE5e?p=12",
+  "source": "romany.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-05-10]5月10日星期日例行歌回──回顾聊天与歌曲🌙 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T95H62Eqv?p=1",
+  "source": "romany.js"
+},
+    {
+  "title": "Sunday n\"AI\"ght",
+  "artist": "ロマニードットアイオー with BT",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-05-10]5月10日星期日例行歌回──回顾聊天与歌曲🌙 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T95H62Eqv?p=2",
+  "source": "romany.js"
+},
+    {
+  "title": "Good-bye days",
+  "artist": "YUI",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-05-10]5月10日星期日例行歌回──回顾聊天与歌曲🌙 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T95H62Eqv?p=3",
+  "source": "romany.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-05-10]5月10日星期日例行歌回──回顾聊天与歌曲🌙 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T95H62Eqv?p=4",
+  "source": "romany.js"
+},
+    {
+  "title": "歌うたいのバラッド",
+  "artist": "斉藤和義",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-05-10]5月10日星期日例行歌回──回顾聊天与歌曲🌙 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T95H62Eqv?p=5",
+  "source": "romany.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【ロマニ🎸弾き語り歌切】[2026-05-10]5月10日星期日例行歌回──回顾聊天与歌曲🌙 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T95H62Eqv?p=6",
   "source": "romany.js"
 }
 );

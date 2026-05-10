@@ -1,6 +1,6 @@
 // HoshiHo - 歌单数据 (多合集汇总)
 // 来源: BV11fQSB2ELX
-// 生成时间: 5/10/2026, 6:27:33 PM
+// 生成时间: 5/10/2026, 6:49:23 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1715,6 +1715,142 @@ window.SONG_DATA.push(
   "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=41",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Amazing Grace",
+  "artist": "IL DIVO",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=1",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "白夜幻想譚",
+  "artist": "『イリスのアトリエ エターナルマナ』霜月はるか",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=2",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "carrot (にんじん村一番娘)",
+  "artist": "『ヴィオラートのアトリエ』みずさわゆうき",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=3",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "運命のルーレット廻して",
+  "artist": "『名探偵コナン』ZARD",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=4",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "嘆きノ森",
+  "artist": "『ひぐらしのなく頃に祭』彩音",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=5",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "コンプレックス・イマージュ",
+  "artist": "『ひぐらしのなく頃に祭』彩音",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=6",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "You",
+  "artist": "『ひぐらしのなく頃に』雪野五月",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=7",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "緋色の薔薇",
+  "artist": "『レムルローズの魔女』霜月はるか",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=8",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "なぜ？謎？！ANSWER",
+  "artist": "『名探偵プリキュア！』熊田茜音＆増井優花",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=9",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "七色シンフォニー",
+  "artist": "『四月は君の嘘』コアラモード",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=10",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "光るなら",
+  "artist": "『四月は君の嘘』Goose house",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=11",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "かもめが翔んだ日",
+  "artist": "渡辺真知子",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=12",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "鏡の中のアクトレス",
+  "artist": "『きまぐれオレンジロード』中原めいこ",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=13",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "NEVERLAND",
+  "artist": "『サモンナイト4』松澤由美",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=14",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "太陽が呼んでいる",
+  "artist": "『サモンナイト3』加藤いづみ",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=15",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "白夜",
+  "artist": "『サモンナイト エクステーゼ』松本英子",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=16",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "YOU GET TO BURNING",
+  "artist": "『機動戦艦ナデシコ』松澤由美",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=17",
   "source": "hoshiho.js"
 }
 );
