@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 5/10/2026, 6:43:09 PM
+// 生成时间: 5/10/2026, 7:02:57 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4379,6 +4379,134 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-05-07]Penthouse歌曲限定歌回🍁✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SUdKBuEVy?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【🍁歌切】[2026-05-10]从新歌到经典歌曲，全是王道动画歌曲的歌回🔥✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pH5H6BELC?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "クスシキ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍁歌切】[2026-05-10]从新歌到经典歌曲，全是王道动画歌曲的歌回🔥✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pH5H6BELC?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "【🍁歌切】[2026-05-10]从新歌到经典歌曲，全是王道动画歌曲的歌回🔥✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pH5H6BELC?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "KICK BACK",
+  "artist": "米津玄師",
+  "collection": "【🍁歌切】[2026-05-10]从新歌到经典歌曲，全是王道动画歌曲的歌回🔥✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pH5H6BELC?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "なとり",
+  "collection": "【🍁歌切】[2026-05-10]从新歌到经典歌曲，全是王道动画歌曲的歌回🔥✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pH5H6BELC?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "火種",
+  "artist": "キタニタツヤ",
+  "collection": "【🍁歌切】[2026-05-10]从新歌到经典歌曲，全是王道动画歌曲的歌回🔥✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pH5H6BELC?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【🍁歌切】[2026-05-10]从新歌到经典歌曲，全是王道动画歌曲的歌回🔥✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pH5H6BELC?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "一二三",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-05-10]从新歌到经典歌曲，全是王道动画歌曲的歌回🔥✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pH5H6BELC?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ウタカタララバイ",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-05-10]从新歌到经典歌曲，全是王道动画歌曲的歌回🔥✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pH5H6BELC?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ルパン三世のテーマ",
+  "artist": "ピート・マック・ジュニア",
+  "collection": "【🍁歌切】[2026-05-10]从新歌到经典歌曲，全是王道动画歌曲的歌回🔥✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pH5H6BELC?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【🍁歌切】[2026-05-10]从新歌到经典歌曲，全是王道动画歌曲的歌回🔥✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pH5H6BELC?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【🍁歌切】[2026-05-10]从新歌到经典歌曲，全是王道动画歌曲的歌回🔥✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pH5H6BELC?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "炎",
+  "artist": "LiSA",
+  "collection": "【🍁歌切】[2026-05-10]从新歌到经典歌曲，全是王道动画歌曲的歌回🔥✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pH5H6BELC?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "火種",
+  "artist": "キタニタツヤ",
+  "collection": "【🍁歌切】[2026-05-10]从新歌到经典歌曲，全是王道动画歌曲的歌回🔥✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pH5H6BELC?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "unravel",
+  "artist": "TK from 凛として時雨",
+  "collection": "【🍁歌切】[2026-05-10]从新歌到经典歌曲，全是王道动画歌曲的歌回🔥✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pH5H6BELC?p=15",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【🍁歌切】[2026-05-10]从新歌到经典歌曲，全是王道动画歌曲的歌回🔥✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pH5H6BELC?p=16",
   "source": "momijimaru.js"
 }
 );
