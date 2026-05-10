@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 5/10/2026, 2:45:08 AM
+// 生成时间: 5/10/2026, 3:05:42 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -31779,6 +31779,38 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-05-04]初見さん歓迎！3D新衣装まであと少し！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11hRJBNEet?p=25",
+  "source": "yoshika.js"
+},
+    {
+  "title": "極楽浄土",
+  "artist": "GARNiDELiA",
+  "collection": "【🍠🦍歌切】[2026-05-09]3D新衣装首秀直播🎉精心打造的3D中唱歌跳舞！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qVRdBWEUr?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Realize!",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-05-09]3D新衣装首秀直播🎉精心打造的3D中唱歌跳舞！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qVRdBWEUr?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ダーリン",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍠🦍歌切】[2026-05-09]3D新衣装首秀直播🎉精心打造的3D中唱歌跳舞！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qVRdBWEUr?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "命巡",
+  "artist": "よしか⁂",
+  "collection": "【🍠🦍歌切】[2026-05-09]3D新衣装首秀直播🎉精心打造的3D中唱歌跳舞！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qVRdBWEUr?p=4",
   "source": "yoshika.js"
 }
 );
