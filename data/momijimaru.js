@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 5/11/2026, 3:42:37 PM
+// 生成时间: 5/11/2026, 4:02:25 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4507,6 +4507,70 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-05-10]从新歌到经典歌曲，全是王道动画歌曲的歌回🔥✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pH5H6BELC?p=16",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ウミユリ海底譚",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-05-11]早上好，来一场悠闲的杂谈和歌回如何🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1875t6vEBW?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "火種",
+  "artist": "キタニタツヤ",
+  "collection": "【🍁歌切】[2026-05-11]早上好，来一场悠闲的杂谈和歌回如何🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1875t6vEBW?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Minute by Minute",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-05-11]早上好，来一场悠闲的杂谈和歌回如何🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1875t6vEBW?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "タイムパラドックス",
+  "artist": "Vaundy",
+  "collection": "【🍁歌切】[2026-05-11]早上好，来一场悠闲的杂谈和歌回如何🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1875t6vEBW?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ラブレター・フロム・メランコリー",
+  "artist": "カラスヤサボウ feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-05-11]早上好，来一场悠闲的杂谈和歌回如何🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1875t6vEBW?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "アイデア",
+  "artist": "星野源",
+  "collection": "【🍁歌切】[2026-05-11]早上好，来一场悠闲的杂谈和歌回如何🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1875t6vEBW?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "異世界混合大舞踏会 feat. おばけ",
+  "artist": "星野源",
+  "collection": "【🍁歌切】[2026-05-11]早上好，来一场悠闲的杂谈和歌回如何🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1875t6vEBW?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "フィナーレ。",
+  "artist": "eill",
+  "collection": "【🍁歌切】[2026-05-11]早上好，来一场悠闲的杂谈和歌回如何🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1875t6vEBW?p=8",
   "source": "momijimaru.js"
 }
 );
