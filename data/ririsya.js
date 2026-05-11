@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 5/11/2026, 4:44:46 PM
+// 生成时间: 5/11/2026, 5:03:59 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -15355,6 +15355,182 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-05-07]海浪声和吉他弹唱✧ 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1w2duBuEXy?p=26",
+  "source": "ririsya.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27",
+  "collection": "【🐍歌切】[2026-05-11]用多种风格演绎歌曲 ✧ 以不同姿态歌唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SZ5A6cE1E?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Booo!",
+  "artist": "TOKOTOKO",
+  "collection": "【🐍歌切】[2026-05-11]用多种风格演绎歌曲 ✧ 以不同姿态歌唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SZ5A6cE1E?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "メランコリック",
+  "artist": "Junky",
+  "collection": "【🐍歌切】[2026-05-11]用多种风格演绎歌曲 ✧ 以不同姿态歌唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SZ5A6cE1E?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "可愛くてごめん",
+  "artist": "ちゅーたん（CV：早見沙織）",
+  "collection": "【🐍歌切】[2026-05-11]用多种风格演绎歌曲 ✧ 以不同姿态歌唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SZ5A6cE1E?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "わたしの一番かわいいところ",
+  "artist": "FRUITS ZIPPER",
+  "collection": "【🐍歌切】[2026-05-11]用多种风格演绎歌曲 ✧ 以不同姿态歌唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SZ5A6cE1E?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "かわいいだけじゃだめですか？",
+  "artist": "CUTIE STREET",
+  "collection": "【🐍歌切】[2026-05-11]用多种风格演绎歌曲 ✧ 以不同姿态歌唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SZ5A6cE1E?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【🐍歌切】[2026-05-11]用多种风格演绎歌曲 ✧ 以不同姿态歌唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SZ5A6cE1E?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "サリシノハラ",
+  "artist": "みきとP",
+  "collection": "【🐍歌切】[2026-05-11]用多种风格演绎歌曲 ✧ 以不同姿态歌唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SZ5A6cE1E?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27",
+  "collection": "【🐍歌切】[2026-05-11]用多种风格演绎歌曲 ✧ 以不同姿态歌唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SZ5A6cE1E?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "乙女解剖",
+  "artist": "DECO*27",
+  "collection": "【🐍歌切】[2026-05-11]用多种风格演绎歌曲 ✧ 以不同姿态歌唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SZ5A6cE1E?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ダーリンダンス",
+  "artist": "かいりきベア",
+  "collection": "【🐍歌切】[2026-05-11]用多种风格演绎歌曲 ✧ 以不同姿态歌唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SZ5A6cE1E?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ラヴィ",
+  "artist": "すりぃ feat.鏡音レン",
+  "collection": "【🐍歌切】[2026-05-11]用多种风格演绎歌曲 ✧ 以不同姿态歌唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SZ5A6cE1E?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "だーいすきだよ",
+  "artist": "Neko Hacker",
+  "collection": "【🐍歌切】[2026-05-11]用多种风格演绎歌曲 ✧ 以不同姿态歌唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SZ5A6cE1E?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP",
+  "collection": "【🐍歌切】[2026-05-11]用多种风格演绎歌曲 ✧ 以不同姿态歌唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SZ5A6cE1E?p=14",
+  "source": "ririsya.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん",
+  "collection": "【🐍歌切】[2026-05-11]用多种风格演绎歌曲 ✧ 以不同姿态歌唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SZ5A6cE1E?p=15",
+  "source": "ririsya.js"
+},
+    {
+  "title": "アスノヨゾラ哨戒班",
+  "artist": "Orangestar",
+  "collection": "【🐍歌切】[2026-05-11]用多种风格演绎歌曲 ✧ 以不同姿态歌唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SZ5A6cE1E?p=16",
+  "source": "ririsya.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P",
+  "collection": "【🐍歌切】[2026-05-11]用多种风格演绎歌曲 ✧ 以不同姿态歌唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SZ5A6cE1E?p=17",
+  "source": "ririsya.js"
+},
+    {
+  "title": "廻廻奇譚",
+  "artist": "Eve",
+  "collection": "【🐍歌切】[2026-05-11]用多种风格演绎歌曲 ✧ 以不同姿态歌唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SZ5A6cE1E?p=18",
+  "source": "ririsya.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【🐍歌切】[2026-05-11]用多种风格演绎歌曲 ✧ 以不同姿态歌唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SZ5A6cE1E?p=19",
+  "source": "ririsya.js"
+},
+    {
+  "title": "unravel",
+  "artist": "TK from 凛として時雨",
+  "collection": "【🐍歌切】[2026-05-11]用多种风格演绎歌曲 ✧ 以不同姿态歌唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SZ5A6cE1E?p=20",
+  "source": "ririsya.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "【🐍歌切】[2026-05-11]用多种风格演绎歌曲 ✧ 以不同姿态歌唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SZ5A6cE1E?p=21",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "mona(夏川椎菜)",
+  "collection": "【🐍歌切】[2026-05-11]用多种风格演绎歌曲 ✧ 以不同姿态歌唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SZ5A6cE1E?p=22",
   "source": "ririsya.js"
 }
 );
