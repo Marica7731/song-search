@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 5/11/2026, 4:22:52 PM
+// 生成时间: 5/11/2026, 4:42:55 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2299,6 +2299,150 @@ window.SONG_DATA.push(
   "collection": "【💫✖歌切】[2026-05-02]今天也要唱歌哦，希望你能听呢 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bwREBKEw6?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-05-11]希望星期一能元气满满地度过.ᐟ歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RC5A66E4r?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "vivi",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-05-11]希望星期一能元气满满地度过.ᐟ歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RC5A66E4r?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-05-11]希望星期一能元气满满地度过.ᐟ歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RC5A66E4r?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "カムパネルラ",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-05-11]希望星期一能元气满满地度过.ᐟ歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RC5A66E4r?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Missing",
+  "artist": "久保田利伸",
+  "collection": "【💫✖歌切】[2026-05-11]希望星期一能元气满满地度过.ᐟ歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RC5A66E4r?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "歌うたいのバラッド",
+  "artist": "斉藤和義",
+  "collection": "【💫✖歌切】[2026-05-11]希望星期一能元气满满地度过.ᐟ歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RC5A66E4r?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "鱗",
+  "artist": "秦基博",
+  "collection": "【💫✖歌切】[2026-05-11]希望星期一能元气满满地度过.ᐟ歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RC5A66E4r?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "朝が来る前に",
+  "artist": "秦基博",
+  "collection": "【💫✖歌切】[2026-05-11]希望星期一能元气满满地度过.ᐟ歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RC5A66E4r?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Rain",
+  "artist": "秦基博",
+  "collection": "【💫✖歌切】[2026-05-11]希望星期一能元气满满地度过.ᐟ歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RC5A66E4r?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ワインレッドの心",
+  "artist": "安全地帯",
+  "collection": "【💫✖歌切】[2026-05-11]希望星期一能元气满满地度过.ᐟ歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RC5A66E4r?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ハッピーエンド",
+  "artist": "back number",
+  "collection": "【💫✖歌切】[2026-05-11]希望星期一能元气满满地度过.ᐟ歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RC5A66E4r?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "瞬き",
+  "artist": "back number",
+  "collection": "【💫✖歌切】[2026-05-11]希望星期一能元气满满地度过.ᐟ歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RC5A66E4r?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ニワカアメ",
+  "artist": "花たん",
+  "collection": "【💫✖歌切】[2026-05-11]希望星期一能元气满满地度过.ᐟ歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RC5A66E4r?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "蝶",
+  "artist": "天野月子",
+  "collection": "【💫✖歌切】[2026-05-11]希望星期一能元气满满地度过.ᐟ歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RC5A66E4r?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "くれなゐ",
+  "artist": "天野月",
+  "collection": "【💫✖歌切】[2026-05-11]希望星期一能元气满满地度过.ᐟ歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RC5A66E4r?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "RE:I AM",
+  "artist": "Aimer",
+  "collection": "【💫✖歌切】[2026-05-11]希望星期一能元气满满地度过.ᐟ歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RC5A66E4r?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-05-11]希望星期一能元气满满地度过.ᐟ歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RC5A66E4r?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "不可幸力",
+  "artist": "Vaundy",
+  "collection": "【💫✖歌切】[2026-05-11]希望星期一能元气满满地度过.ᐟ歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RC5A66E4r?p=18",
   "source": "kukuri.js"
 }
 );
