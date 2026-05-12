@@ -1,6 +1,6 @@
 // ロマニ - 歌单数据 (多合集汇总)
 // 来源: BV1KHXxBUErU, BV1iHQXBzEgU
-// 生成时间: 5/12/2026, 1:33:34 PM
+// 生成时间: 5/12/2026, 1:51:39 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1862,8 +1862,8 @@ window.SONG_DATA.push(
   "source": "romany.js"
 },
     {
-  "title": "斜陽",
-  "artist": "ヨルシカ",
+  "title": "初期衝動",
+  "artist": "ロマニードットアイオー",
   "collection": "【ロマニ🎸弾き語り歌切】[2026-05-10]5月10日星期日例行歌回──回顾聊天与歌曲🌙 ロマニードットアイオー / ROMANY. io",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1T95H62Eqv?p=6",
