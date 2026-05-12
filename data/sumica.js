@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 5/12/2026, 7:30:38 PM
+// 生成时间: 5/12/2026, 7:52:07 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3003,6 +3003,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-09]一起晒太阳吧，悠闲的弹唱时光☀️𓈒 erotisch -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NBRdBTExG?p=23",
+  "source": "sumica.js"
+},
+    {
+  "title": "嘘月",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-12]来放松吧！悠闲地唱各种歌哦🌟 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SS5g6SEek?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "orion",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-05-12]来放松吧！悠闲地唱各种歌哦🌟 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SS5g6SEek?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "エルダーフラワー",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-05-12]来放松吧！悠闲地唱各种歌哦🌟 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SS5g6SEek?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "怪獣の腕のなか",
+  "artist": "きのこ帝国",
+  "collection": "【歌切】[2026-05-12]来放松吧！悠闲地唱各种歌哦🌟 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SS5g6SEek?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "ただ声一つ",
+  "artist": "ロクデナシ",
+  "collection": "【歌切】[2026-05-12]来放松吧！悠闲地唱各种歌哦🌟 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SS5g6SEek?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "三時のキス",
+  "artist": "ロクデナシ",
+  "collection": "【歌切】[2026-05-12]来放松吧！悠闲地唱各种歌哦🌟 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SS5g6SEek?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "ひまわりの約束",
+  "artist": "秦基博",
+  "collection": "【歌切】[2026-05-12]来放松吧！悠闲地唱各种歌哦🌟 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SS5g6SEek?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "ギブス",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-05-12]来放松吧！悠闲地唱各种歌哦🌟 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SS5g6SEek?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "相思相愛",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-05-12]来放松吧！悠闲地唱各种歌哦🌟 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SS5g6SEek?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "ベーコンエピ",
+  "artist": "TOMOO",
+  "collection": "【歌切】[2026-05-12]来放松吧！悠闲地唱各种歌哦🌟 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SS5g6SEek?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "焦がれ",
+  "artist": "澄花",
+  "collection": "【歌切】[2026-05-12]来放松吧！悠闲地唱各种歌哦🌟 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SS5g6SEek?p=11",
   "source": "sumica.js"
 }
 );

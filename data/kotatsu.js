@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 5/12/2026, 7:29:43 PM
+// 生成时间: 5/12/2026, 7:51:34 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1867,6 +1867,222 @@ window.SONG_DATA.push(
   "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=21",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "リンジュー・ラヴ",
+  "artist": "マカロニえんぴつ",
+  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "真赤",
+  "artist": "My Hair is Bad",
+  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "暗闇坂むささび変化",
+  "artist": "はっぴいえんど",
+  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "マジカルダンサー",
+  "artist": "小山田壮平",
+  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "有心論",
+  "artist": "RADWIMPS",
+  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "デイ・ドリーム・ビリーバー",
+  "artist": "THE TIMERS",
+  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "オー・シャンゼリゼ",
+  "artist": "奇妙礼太郎",
+  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ダダリオ",
+  "artist": "ズーカラデル",
+  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "勇気100%",
+  "artist": "光GENJI",
+  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "僕のともだち",
+  "artist": "コレサワ",
+  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "七夕祭り",
+  "artist": "テゴマス",
+  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "キラキラチューン",
+  "artist": "でんぱ組.inc",
+  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夜な夜なエール",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "死にたい夜には",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ムンクの叫びラーメン",
+  "artist": "井上涼",
+  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=17",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "風をあつめて",
+  "artist": "はっぴいえんど",
+  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=18",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "さよなら人類",
+  "artist": "たま",
+  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=19",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "結婚しようよ",
+  "artist": "吉田拓郎",
+  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=20",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ぼくたちの失敗",
+  "artist": "森田童子",
+  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=21",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夏祭り",
+  "artist": "JITTERIN'JINN",
+  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=22",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "たられば",
+  "artist": "amazarashi",
+  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=23",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "アンマー",
+  "artist": "かりゆし58",
+  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=24",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "人として",
+  "artist": "SUPER BEAVER",
+  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=25",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "カントリー・ロード",
+  "artist": "本名陽子",
+  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=26",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=27",
   "source": "kotatsu.js"
 }
 );
