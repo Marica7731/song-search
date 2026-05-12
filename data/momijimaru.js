@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 5/12/2026, 7:02:56 PM
+// 生成时间: 5/12/2026, 7:22:43 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4571,6 +4571,158 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-05-11]早上好，来一场悠闲的杂谈和歌回如何🍁✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1875t6vEBW?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "KING",
+  "artist": "Kanaria feat. GUMI",
+  "collection": "【🍁歌切】[2026-05-12]生歌最强的Vsinger!! 暗黑歌曲限定的暗黑歌回💀🎶✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xd5g61Egu?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "なとり",
+  "collection": "【🍁歌切】[2026-05-12]生歌最强的Vsinger!! 暗黑歌曲限定的暗黑歌回💀🎶✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xd5g61Egu?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ころしちゃった!",
+  "artist": "夏山よつぎ feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-05-12]生歌最强的Vsinger!! 暗黑歌曲限定的暗黑歌回💀🎶✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xd5g61Egu?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ルームNo.4",
+  "artist": "超学生",
+  "collection": "【🍁歌切】[2026-05-12]生歌最强的Vsinger!! 暗黑歌曲限定的暗黑歌回💀🎶✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xd5g61Egu?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "サイコ",
+  "artist": "超学生",
+  "collection": "【🍁歌切】[2026-05-12]生歌最强的Vsinger!! 暗黑歌曲限定的暗黑歌回💀🎶✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xd5g61Egu?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "アイ・アイ・ア",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-05-12]生歌最强的Vsinger!! 暗黑歌曲限定的暗黑歌回💀🎶✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xd5g61Egu?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "うらみのワルツ",
+  "artist": "きくお feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-05-12]生歌最强的Vsinger!! 暗黑歌曲限定的暗黑歌回💀🎶✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xd5g61Egu?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ヴィラン",
+  "artist": "てにをは feat. v flower",
+  "collection": "【🍁歌切】[2026-05-12]生歌最强的Vsinger!! 暗黑歌曲限定的暗黑歌回💀🎶✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xd5g61Egu?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "へべれけジャンキー",
+  "artist": "syudou feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-05-12]生歌最强的Vsinger!! 暗黑歌曲限定的暗黑歌回💀🎶✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xd5g61Egu?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "偽物人間40号",
+  "artist": "¿?shimon feat. v flower",
+  "collection": "【🍁歌切】[2026-05-12]生歌最强的Vsinger!! 暗黑歌曲限定的暗黑歌回💀🎶✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xd5g61Egu?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "孤独毒毒",
+  "artist": "syudou feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-05-12]生歌最强的Vsinger!! 暗黑歌曲限定的暗黑歌回💀🎶✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xd5g61Egu?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "かなしみのなみにおぼれる",
+  "artist": "Neru feat. 鏡音レン",
+  "collection": "【🍁歌切】[2026-05-12]生歌最强的Vsinger!! 暗黑歌曲限定的暗黑歌回💀🎶✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xd5g61Egu?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "りりかる",
+  "artist": "100回嘔吐 feat. v flower",
+  "collection": "【🍁歌切】[2026-05-12]生歌最强的Vsinger!! 暗黑歌曲限定的暗黑歌回💀🎶✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xd5g61Egu?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "生きる",
+  "artist": "吐息 feat. v flower、Arh",
+  "collection": "【🍁歌切】[2026-05-12]生歌最强的Vsinger!! 暗黑歌曲限定的暗黑歌回💀🎶✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xd5g61Egu?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "命に嫌われている。",
+  "artist": "カンザキイオリ feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-05-12]生歌最强的Vsinger!! 暗黑歌曲限定的暗黑歌回💀🎶✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xd5g61Egu?p=15",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-05-12]生歌最强的Vsinger!! 暗黑歌曲限定的暗黑歌回💀🎶✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xd5g61Egu?p=16",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "きゅうくらりん",
+  "artist": "いよわ feat. 可不",
+  "collection": "【🍁歌切】[2026-05-12]生歌最强的Vsinger!! 暗黑歌曲限定的暗黑歌回💀🎶✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xd5g61Egu?p=17",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "フィラデルフィア",
+  "artist": "Gero",
+  "collection": "【🍁歌切】[2026-05-12]生歌最强的Vsinger!! 暗黑歌曲限定的暗黑歌回💀🎶✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xd5g61Egu?p=18",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "アイ・アイ・ア",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-05-12]生歌最强的Vsinger!! 暗黑歌曲限定的暗黑歌回💀🎶✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xd5g61Egu?p=19",
   "source": "momijimaru.js"
 }
 );

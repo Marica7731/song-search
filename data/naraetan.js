@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 5/12/2026, 7:04:04 PM
+// 生成时间: 5/12/2026, 7:23:45 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8379,6 +8379,110 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-10]悠闲星期日歌回 🫐 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1275H63Ens?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-05-12]来一首如何🧶献给你的一首歌 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14d5g61ErW?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "My Sweet Darlin'",
+  "artist": "矢井田瞳",
+  "collection": "【歌切】[2026-05-12]来一首如何🧶献给你的一首歌 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14d5g61ErW?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "サタデー・ナイト・クエスチョン",
+  "artist": "中島愛",
+  "collection": "【歌切】[2026-05-12]来一首如何🧶献给你的一首歌 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14d5g61ErW?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "PONPONPON",
+  "artist": "きゃりーぱみゅぱみゅ",
+  "collection": "【歌切】[2026-05-12]来一首如何🧶献给你的一首歌 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14d5g61ErW?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "インドア系ならトラックメイカー",
+  "artist": "Yunomi & nicamoq",
+  "collection": "【歌切】[2026-05-12]来一首如何🧶献给你的一首歌 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14d5g61ErW?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "EMOTION",
+  "artist": "ミーア・キャンベル",
+  "collection": "【歌切】[2026-05-12]来一首如何🧶献给你的一首歌 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14d5g61ErW?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ユニバース",
+  "artist": "夏代孝明 feat. GUMI",
+  "collection": "【歌切】[2026-05-12]来一首如何🧶献给你的一首歌 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14d5g61ErW?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ドラマチック",
+  "artist": "YUKI",
+  "collection": "【歌切】[2026-05-12]来一首如何🧶献给你的一首歌 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14d5g61ErW?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "愉快な鼓動",
+  "artist": "米倉千尋",
+  "collection": "【歌切】[2026-05-12]来一首如何🧶献给你的一首歌 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14d5g61ErW?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "青春ライン",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-05-12]来一首如何🧶献给你的一首歌 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14d5g61ErW?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夏祭り",
+  "artist": "Whiteberry",
+  "collection": "【歌切】[2026-05-12]来一首如何🧶献给你的一首歌 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14d5g61ErW?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "INVOKE",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-05-12]来一首如何🧶献给你的一首歌 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14d5g61ErW?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "WILL",
+  "artist": "米倉千尋",
+  "collection": "【歌切】[2026-05-12]来一首如何🧶献给你的一首歌 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14d5g61ErW?p=13",
   "source": "naraetan.js"
 },
     {
