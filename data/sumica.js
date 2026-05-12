@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 5/12/2026, 8:32:12 PM
+// 生成时间: 5/12/2026, 8:49:52 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3091,6 +3091,14 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-12]来放松吧！悠闲地唱各种歌哦🌟 -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SS5g6SEek?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "澄花原创",
+  "artist": "澄花",
+  "collection": "【歌切】[2026-05-12]来放松吧！悠闲地唱各种歌哦🌟 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SS5g6SEek?p=12",
   "source": "sumica.js"
 }
 );
