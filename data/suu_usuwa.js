@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 5/13/2026, 3:25:42 PM
+// 生成时间: 5/13/2026, 3:45:36 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -21027,6 +21027,78 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】[2026-05-10]复活复仇歌回 稀羽すう - Suu Usuwa -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cC5E6oELn?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Stand by You",
+  "artist": "Official髭男dism",
+  "collection": "【🦢歌切】#142[2026-05-13]星期三的定期歌回！明明才5月却已经这么热了！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PN5m6jEBG?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】#142[2026-05-13]星期三的定期歌回！明明才5月却已经这么热了！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PN5m6jEBG?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】#142[2026-05-13]星期三的定期歌回！明明才5月却已经这么热了！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PN5m6jEBG?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Starry night",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】#142[2026-05-13]星期三的定期歌回！明明才5月却已经这么热了！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PN5m6jEBG?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Overdos",
+  "artist": "なとり",
+  "collection": "【🦢歌切】#142[2026-05-13]星期三的定期歌回！明明才5月却已经这么热了！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PN5m6jEBG?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna",
+  "collection": "【🦢歌切】#142[2026-05-13]星期三的定期歌回！明明才5月却已经这么热了！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PN5m6jEBG?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Hello Song",
+  "artist": "星野源",
+  "collection": "【🦢歌切】#142[2026-05-13]星期三的定期歌回！明明才5月却已经这么热了！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PN5m6jEBG?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "孤独とランデブー",
+  "artist": "サンボマスター",
+  "collection": "【🦢歌切】#142[2026-05-13]星期三的定期歌回！明明才5月却已经这么热了！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PN5m6jEBG?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "きらきら武士",
+  "artist": "レキシ",
+  "collection": "【🦢歌切】#142[2026-05-13]星期三的定期歌回！明明才5月却已经这么热了！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PN5m6jEBG?p=9",
   "source": "suu_usuwa.js"
 }
 );
