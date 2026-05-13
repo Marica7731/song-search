@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 5/13/2026, 10:36:39 PM
+// 生成时间: 5/13/2026, 10:56:00 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10163,6 +10163,70 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-05-10 御神楽すずめ / Mikagura Suzume y7Z5W943N4w 点歌OK!! 来转动轮盘吧✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jH5V6iE5e?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "心の残響",
+  "artist": "ミナミイズミ",
+  "collection": "歌切 2026-05-13 ミナミイズミ / IZUMI MINAMI aRcjvZURWeA 为您献上最棒的夜晚！3D披露LIVE🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N25m67ESv?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "夜咄ディセイブ",
+  "artist": "じん",
+  "collection": "歌切 2026-05-13 ミナミイズミ / IZUMI MINAMI aRcjvZURWeA 为您献上最棒的夜晚！3D披露LIVE🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N25m67ESv?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "Break through",
+  "artist": "ミナミイズミ",
+  "collection": "歌切 2026-05-13 ミナミイズミ / IZUMI MINAMI aRcjvZURWeA 为您献上最棒的夜晚！3D披露LIVE🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N25m67ESv?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "amazarashi",
+  "collection": "歌切 2026-05-13 ミナミイズミ / IZUMI MINAMI aRcjvZURWeA 为您献上最棒的夜晚！3D披露LIVE🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N25m67ESv?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "結晶",
+  "artist": "ミナミイズミ",
+  "collection": "歌切 2026-05-13 ミナミイズミ / IZUMI MINAMI aRcjvZURWeA 为您献上最棒的夜晚！3D披露LIVE🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N25m67ESv?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "諦めることを諦めたい",
+  "artist": "ミナミイズミ",
+  "collection": "歌切 2026-05-13 ミナミイズミ / IZUMI MINAMI aRcjvZURWeA 为您献上最棒的夜晚！3D披露LIVE🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N25m67ESv?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "歌切 2026-05-13 ミナミイズミ / IZUMI MINAMI aRcjvZURWeA 为您献上最棒的夜晚！3D披露LIVE🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N25m67ESv?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "アカシア",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "歌切 2026-05-13 ミナミイズミ / IZUMI MINAMI aRcjvZURWeA 为您献上最棒的夜晚！3D披露LIVE🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N25m67ESv?p=8",
   "source": "others.js"
 },
     {
