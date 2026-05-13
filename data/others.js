@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 5/13/2026, 7:37:05 PM
+// 生成时间: 5/13/2026, 7:58:28 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9979,46 +9979,6 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-05-06 月ノ輪乃愛 77EjDkKaz3Q 轻度甜正好🍰你也来尝一尝吧？",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AVR8BtE2F?p=4",
-  "source": "others.js"
-},
-    {
-  "title": "アヤノの幸福理論",
-  "artist": "じん feat. IA",
-  "collection": "歌切 2026-05-09 からくりんね-KarakuRinne PHMDRIxANiM 用歌声俘虏你🗝演奏的机关人偶⚙️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Q6RXBMEES?p=1",
-  "source": "others.js"
-},
-    {
-  "title": "ノーチラス",
-  "artist": "ヨルシカ",
-  "collection": "歌切 2026-05-09 からくりんね-KarakuRinne PHMDRIxANiM 用歌声俘虏你🗝演奏的机关人偶⚙️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Q6RXBMEES?p=2",
-  "source": "others.js"
-},
-    {
-  "title": "コトノハ",
-  "artist": "tuki.",
-  "collection": "歌切 2026-05-09 からくりんね-KarakuRinne PHMDRIxANiM 用歌声俘虏你🗝演奏的机关人偶⚙️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Q6RXBMEES?p=3",
-  "source": "others.js"
-},
-    {
-  "title": "いのちの名前",
-  "artist": "木村弓",
-  "collection": "歌切 2026-05-09 からくりんね-KarakuRinne PHMDRIxANiM 用歌声俘虏你🗝演奏的机关人偶⚙️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Q6RXBMEES?p=4",
-  "source": "others.js"
-},
-    {
-  "title": "night whisper",
-  "artist": "からくりんね",
-  "collection": "歌切 2026-05-09 からくりんね-KarakuRinne PHMDRIxANiM 用歌声俘虏你🗝演奏的机关人偶⚙️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Q6RXBMEES?p=5",
   "source": "others.js"
 },
     {
