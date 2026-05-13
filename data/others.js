@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 5/13/2026, 8:56:45 AM
+// 生成时间: 5/13/2026, 9:16:27 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10131,6 +10131,190 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-05-12 すとらてぃあ-Stratia lRz9Sa9sVuA 第一次歌回🦋🫧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h25g6QEmA?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "キミに100パーセント",
+  "artist": "きゃりーぱみゅぱみゅ",
+  "collection": "歌切 2026-05-10 御神楽すずめ / Mikagura Suzume y7Z5W943N4w 点歌OK!! 来转动轮盘吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH5V6iE5e?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "火葬曲",
+  "artist": "No.D feat. 初音ミク",
+  "collection": "歌切 2026-05-10 御神楽すずめ / Mikagura Suzume y7Z5W943N4w 点歌OK!! 来转动轮盘吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH5V6iE5e?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "結葉",
+  "artist": "御神楽すずめ",
+  "collection": "歌切 2026-05-10 御神楽すずめ / Mikagura Suzume y7Z5W943N4w 点歌OK!! 来转动轮盘吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH5V6iE5e?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "未来",
+  "artist": "Kalafina",
+  "collection": "歌切 2026-05-10 御神楽すずめ / Mikagura Suzume y7Z5W943N4w 点歌OK!! 来转动轮盘吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH5V6iE5e?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "鮮血の誓い",
+  "artist": "妖精帝國",
+  "collection": "歌切 2026-05-10 御神楽すずめ / Mikagura Suzume y7Z5W943N4w 点歌OK!! 来转动轮盘吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH5V6iE5e?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "ねぇ",
+  "artist": "藤田麻衣子",
+  "collection": "歌切 2026-05-10 御神楽すずめ / Mikagura Suzume y7Z5W943N4w 点歌OK!! 来转动轮盘吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH5V6iE5e?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "アイのシナリオ",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "歌切 2026-05-10 御神楽すずめ / Mikagura Suzume y7Z5W943N4w 点歌OK!! 来转动轮盘吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH5V6iE5e?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "大きな古時計",
+  "artist": "平井堅",
+  "collection": "歌切 2026-05-10 御神楽すずめ / Mikagura Suzume y7Z5W943N4w 点歌OK!! 来转动轮盘吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH5V6iE5e?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "Let me Love you",
+  "artist": "桃井はるこ",
+  "collection": "歌切 2026-05-10 御神楽すずめ / Mikagura Suzume y7Z5W943N4w 点歌OK!! 来转动轮盘吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH5V6iE5e?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "水の証 〜ReTracks",
+  "artist": "ラクス・クライン",
+  "collection": "歌切 2026-05-10 御神楽すずめ / Mikagura Suzume y7Z5W943N4w 点歌OK!! 来转动轮盘吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH5V6iE5e?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "Liar's Smile",
+  "artist": "LieN",
+  "collection": "歌切 2026-05-10 御神楽すずめ / Mikagura Suzume y7Z5W943N4w 点歌OK!! 来转动轮盘吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH5V6iE5e?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "歌切 2026-05-10 御神楽すずめ / Mikagura Suzume y7Z5W943N4w 点歌OK!! 来转动轮盘吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH5V6iE5e?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "それは小さな光のような",
+  "artist": "さユり",
+  "collection": "歌切 2026-05-10 御神楽すずめ / Mikagura Suzume y7Z5W943N4w 点歌OK!! 来转动轮盘吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH5V6iE5e?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "Brave Shine",
+  "artist": "Aimer",
+  "collection": "歌切 2026-05-10 御神楽すずめ / Mikagura Suzume y7Z5W943N4w 点歌OK!! 来转动轮盘吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH5V6iE5e?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "エルの楽園 ［→ side：Ｅ →］",
+  "artist": "Sound Horizon",
+  "collection": "歌切 2026-05-10 御神楽すずめ / Mikagura Suzume y7Z5W943N4w 点歌OK!! 来转动轮盘吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH5V6iE5e?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "千夜一夜",
+  "artist": "See-Saw",
+  "collection": "歌切 2026-05-10 御神楽すずめ / Mikagura Suzume y7Z5W943N4w 点歌OK!! 来转动轮盘吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH5V6iE5e?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "serenato",
+  "artist": "Kalafina",
+  "collection": "歌切 2026-05-10 御神楽すずめ / Mikagura Suzume y7Z5W943N4w 点歌OK!! 来转动轮盘吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH5V6iE5e?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "Eyes On Me",
+  "artist": "フェイ・ウォン",
+  "collection": "歌切 2026-05-10 御神楽すずめ / Mikagura Suzume y7Z5W943N4w 点歌OK!! 来转动轮盘吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH5V6iE5e?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "紅蓮の弓矢",
+  "artist": "Linked Horizon",
+  "collection": "歌切 2026-05-10 御神楽すずめ / Mikagura Suzume y7Z5W943N4w 点歌OK!! 来转动轮盘吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH5V6iE5e?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "DEPARTURES",
+  "artist": "globe",
+  "collection": "歌切 2026-05-10 御神楽すずめ / Mikagura Suzume y7Z5W943N4w 点歌OK!! 来转动轮盘吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH5V6iE5e?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "いとおしい人のために",
+  "artist": "佐藤朱美",
+  "collection": "歌切 2026-05-10 御神楽すずめ / Mikagura Suzume y7Z5W943N4w 点歌OK!! 来转动轮盘吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH5V6iE5e?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "Meteor −ミーティア",
+  "artist": "T.M.Revolution",
+  "collection": "歌切 2026-05-10 御神楽すずめ / Mikagura Suzume y7Z5W943N4w 点歌OK!! 来转动轮盘吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH5V6iE5e?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "ヘミソフィア",
+  "artist": "坂本真綾",
+  "collection": "歌切 2026-05-10 御神楽すずめ / Mikagura Suzume y7Z5W943N4w 点歌OK!! 来转动轮盘吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH5V6iE5e?p=23",
   "source": "others.js"
 },
     {
