@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 5/13/2026, 10:38:04 AM
+// 生成时间: 5/13/2026, 11:18:25 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9982,38 +9982,6 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "ray",
-  "artist": "BUMP OF CHICKEN",
-  "collection": "歌切 2026-05-09 すとらてぃあ-Stratia GQb-XxU3u0Q 送给触动你心灵的你，让你心弦共鸣的歌声🦋",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KSRXBwE2v?p=1",
-  "source": "others.js"
-},
-    {
-  "title": "チャイナアドバイス",
-  "artist": "相対性理論",
-  "collection": "歌切 2026-05-09 すとらてぃあ-Stratia GQb-XxU3u0Q 送给触动你心灵的你，让你心弦共鸣的歌声🦋",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KSRXBwE2v?p=2",
-  "source": "others.js"
-},
-    {
-  "title": "準透明少年",
-  "artist": "ヨルシカ",
-  "collection": "歌切 2026-05-09 すとらてぃあ-Stratia GQb-XxU3u0Q 送给触动你心灵的你，让你心弦共鸣的歌声🦋",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KSRXBwE2v?p=3",
-  "source": "others.js"
-},
-    {
-  "title": "LastTear",
-  "artist": "すとらてぃあ",
-  "collection": "歌切 2026-05-09 すとらてぃあ-Stratia GQb-XxU3u0Q 送给触动你心灵的你，让你心弦共鸣的歌声🦋",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KSRXBwE2v?p=4",
-  "source": "others.js"
-},
-    {
   "title": "アヤノの幸福理論",
   "artist": "じん feat. IA",
   "collection": "歌切 2026-05-09 からくりんね-KarakuRinne PHMDRIxANiM 用歌声俘虏你🗝演奏的机关人偶⚙️",
@@ -10051,86 +10019,6 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-05-09 からくりんね-KarakuRinne PHMDRIxANiM 用歌声俘虏你🗝演奏的机关人偶⚙️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Q6RXBMEES?p=5",
-  "source": "others.js"
-},
-    {
-  "title": "憂、燦々",
-  "artist": "クリープハイプ",
-  "collection": "歌切 2026-05-12 すとらてぃあ-Stratia lRz9Sa9sVuA 第一次歌回🦋🫧",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1h25g6QEmA?p=1",
-  "source": "others.js"
-},
-    {
-  "title": "過去を喰らう",
-  "artist": "花譜",
-  "collection": "歌切 2026-05-12 すとらてぃあ-Stratia lRz9Sa9sVuA 第一次歌回🦋🫧",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1h25g6QEmA?p=2",
-  "source": "others.js"
-},
-    {
-  "title": "雛鳥",
-  "artist": "花譜",
-  "collection": "歌切 2026-05-12 すとらてぃあ-Stratia lRz9Sa9sVuA 第一次歌回🦋🫧",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1h25g6QEmA?p=3",
-  "source": "others.js"
-},
-    {
-  "title": "フラレガイガール",
-  "artist": "さユり",
-  "collection": "歌切 2026-05-12 すとらてぃあ-Stratia lRz9Sa9sVuA 第一次歌回🦋🫧",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1h25g6QEmA?p=4",
-  "source": "others.js"
-},
-    {
-  "title": "夏",
-  "artist": "さユり",
-  "collection": "歌切 2026-05-12 すとらてぃあ-Stratia lRz9Sa9sVuA 第一次歌回🦋🫧",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1h25g6QEmA?p=5",
-  "source": "others.js"
-},
-    {
-  "title": "さようなら、花泥棒さん",
-  "artist": "メル",
-  "collection": "歌切 2026-05-12 すとらてぃあ-Stratia lRz9Sa9sVuA 第一次歌回🦋🫧",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1h25g6QEmA?p=6",
-  "source": "others.js"
-},
-    {
-  "title": "パズルガール",
-  "artist": "とあの",
-  "collection": "歌切 2026-05-12 すとらてぃあ-Stratia lRz9Sa9sVuA 第一次歌回🦋🫧",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1h25g6QEmA?p=7",
-  "source": "others.js"
-},
-    {
-  "title": "もぐもぐYUMMY！",
-  "artist": "猫又おかゆ",
-  "collection": "歌切 2026-05-12 すとらてぃあ-Stratia lRz9Sa9sVuA 第一次歌回🦋🫧",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1h25g6QEmA?p=8",
-  "source": "others.js"
-},
-    {
-  "title": "車輪の唄",
-  "artist": "BUMP OF CHICKEN",
-  "collection": "歌切 2026-05-12 すとらてぃあ-Stratia lRz9Sa9sVuA 第一次歌回🦋🫧",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1h25g6QEmA?p=9",
-  "source": "others.js"
-},
-    {
-  "title": "花に亡霊",
-  "artist": "ヨルシカ",
-  "collection": "歌切 2026-05-12 すとらてぃあ-Stratia lRz9Sa9sVuA 第一次歌回🦋🫧",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1h25g6QEmA?p=10",
   "source": "others.js"
 },
     {
