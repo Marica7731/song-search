@@ -75,12 +75,13 @@ const SINGER_CONFIGS = [
     { bvids: ["BV1kLXbBJEiZ"], file: "sumica", alias: "澄花" },
     { bvids: ["BV1KHXxBUErU","BV1iHQXBzEgU"], file: "romany", alias: "ロマニ" },
     { bvids: ["BV1eTkKYDENL"], file: "friends", alias: "联动" },
-    { bvids: ["BV1rkCTYzEZN","BV1wt421j7gT","BV1KpCdYmE3T","BV1aC4ce2E5s","BV1JbX9BmE5m","BV1duSRBBEkb"], file: "relay", alias: "接力" },
+    { bvids: ["BV1rkCTYzEZN","BV1wt421j7gT","BV1KpCdYmE3T","BV1aC4ce2E5s","BV1JbX9BmE5m","BV1nJ5S6CETQ","BV1duSRBBEkb"], file: "relay", alias: "接力" },
     { bvids: ["BV1tKcZztEw5"], file: "hasumisahiro", alias: "羽澄さひろ" },
     { bvids: ["BV18xo1BHEkX"], file: "aimarun", alias: "あいまるん。" },
     { bvids: ["BV1wHQVBTEU5"], file: "nanashirikka", alias: "ななし律歌" },
     { bvids: ["BV1YtwtzREbp"], file: "gabinoheya", alias: "がびのお部屋" },
     { bvids: ["BV1KSRXBwE2v"], file: "stratia", alias: "すとらてぃあ-Stratia" },
+    { bvids: ["BV1sU5S69E8r"], file: "karakurinne", alias: "からくりんね-KarakuRinne" },
     { bvids: ["BV11GZtBcEsp","BV1xucZzxEkZ","BV117P2zwEuq","BV1LJ4m1A7FC"], file: "others", alias: "非常驻妹妹" },
     { bvids: ["BV1Qa9JB6EAw"], alias: "陽月るるふ" }
 ];
