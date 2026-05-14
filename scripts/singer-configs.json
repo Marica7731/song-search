@@ -30,6 +30,7 @@
   { "bvids": ["BV1wHQVBTEU5"], "file": "nanashirikka", "alias": "ななし律歌", "sectionTitle": "ななし律歌" },
   { "bvids": ["BV1YtwtzREbp"], "file": "gabinoheya", "alias": "がびのお部屋", "sectionTitle": "がびのお部屋" },
   { "bvids": ["BV1KSRXBwE2v"], "file": "stratia", "alias": "すとらてぃあ-Stratia" },
+  { "bvids": ["BV1sU5S69E8r"], "file": "karakurinne", "alias": "からくりんね-KarakuRinne" },
   { "bvids": ["BV1xucZzxEkZ", "BV117P2zwEuq", "BV1r1RsYDEvB", "BV1LJ4m1A7FC"], "file": "others", "alias": "非常驻妹妹", "excludeSectionTitles": ["あいまるん。", "ななし律歌", "がびのお部屋"] },
   { "bvids": ["BV1Qa9JB6EAw"], "alias": "陽月るるふ" }
 ]

@@ -136,6 +136,7 @@ node scripts/update-song-growth.js
 ```text
 BV1tKcZztEw5 羽澄さひろ -> data/hasumisahiro.js
 BV1KSRXBwE2v すとらてぃあ-Stratia -> data/stratia.js
+BV1sU5S69E8r からくりんね-KarakuRinne -> data/karakurinne.js
 ```
 
 已拆分的小节来源：
