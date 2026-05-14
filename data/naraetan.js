@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 5/14/2026, 3:43:44 AM
+// 生成时间: 5/14/2026, 4:04:00 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8483,6 +8483,110 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-12]来一首如何🧶献给你的一首歌 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14d5g61ErW?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "新宝島",
+  "artist": "サカナクション",
+  "collection": "【歌切】[2026-05-13]动画歌曲和J-POP💃 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FZ5S6mE2y?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "さぁ",
+  "artist": "SURFACE",
+  "collection": "【歌切】[2026-05-13]动画歌曲和J-POP💃 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FZ5S6mE2y?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー=中島愛",
+  "collection": "【歌切】[2026-05-13]动画歌曲和J-POP💃 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FZ5S6mE2y?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ふわふわ時間",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-05-13]动画歌曲和J-POP💃 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FZ5S6mE2y?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ようこそジャパリパークへ",
+  "artist": "どうぶつビスケッツ×PPP",
+  "collection": "【歌切】[2026-05-13]动画歌曲和J-POP💃 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FZ5S6mE2y?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "瞬間センチメンタル",
+  "artist": "SCANDAL",
+  "collection": "【歌切】[2026-05-13]动画歌曲和J-POP💃 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FZ5S6mE2y?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ANGELUS-アンジェラス",
+  "artist": "島谷ひとみ",
+  "collection": "【歌切】[2026-05-13]动画歌曲和J-POP💃 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FZ5S6mE2y?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "小さな恋のうた",
+  "artist": "MONGOL800",
+  "collection": "【歌切】[2026-05-13]动画歌曲和J-POP💃 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FZ5S6mE2y?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "トウキョウ・シャンディ・ランデヴ",
+  "artist": "MAISONdes",
+  "collection": "【歌切】[2026-05-13]动画歌曲和J-POP💃 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FZ5S6mE2y?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ダンスホール",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-05-13]动画歌曲和J-POP💃 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FZ5S6mE2y?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-05-13]动画歌曲和J-POP💃 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FZ5S6mE2y?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "もってけ！セーラーふく",
+  "artist": "泉こなた(平野綾),柊かがみ(加藤英美里),柊つかさ(福原香織),高良みゆき(遠藤綾)",
+  "collection": "【歌切】[2026-05-13]动画歌曲和J-POP💃 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FZ5S6mE2y?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "優しさの理由",
+  "artist": "ChouCho",
+  "collection": "【歌切】[2026-05-13]动画歌曲和J-POP💃 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FZ5S6mE2y?p=13",
   "source": "naraetan.js"
 },
     {
