@@ -1,6 +1,6 @@
 // 接力 - 歌单数据 (多合集汇总)
-// 来源: BV1rkCTYzEZN, BV1wt421j7gT, BV1KpCdYmE3T, BV1aC4ce2E5s, BV1JbX9BmE5m, BV1duSRBBEkb
-// 生成时间: 5/14/2026, 4:13:38 AM
+// 来源: BV1rkCTYzEZN, BV1wt421j7gT, BV1KpCdYmE3T, BV1aC4ce2E5s, BV1JbX9BmE5m, BV1nJ5S6CETQ, BV1duSRBBEkb
+// 生成时间: 5/14/2026, 4:54:25 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1539,6 +1539,126 @@ window.SONG_DATA.push(
   "collection": "接力歌切 2026-03-29 時を繋ぐ歌枠リレー  稍 麦 - yayamugi -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1htXRBTEMX?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "接力歌切 紅葉丸チャンネル Momijimaru 2026-04-29 在这音乐回响的彼端，愿有你相伴。 ヨルシカ三人称歌枠リレー 保留念经版",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w95S6nEXK?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "接力歌切 紅葉丸チャンネル Momijimaru 2026-04-29 在这音乐回响的彼端，愿有你相伴。 ヨルシカ三人称歌枠リレー 保留念经版",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w95S6nEXK?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "接力歌切 紅葉丸チャンネル Momijimaru 2026-04-29 在这音乐回响的彼端，愿有你相伴。 ヨルシカ三人称歌枠リレー 保留念经版",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w95S6nEXK?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "雲と幽霊",
+  "artist": "ヨルシカ",
+  "collection": "接力歌切 紅葉丸チャンネル Momijimaru 2026-04-29 在这音乐回响的彼端，愿有你相伴。 ヨルシカ三人称歌枠リレー 保留念经版",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w95S6nEXK?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "接力歌切 紅葉丸チャンネル Momijimaru 2026-04-29 在这音乐回响的彼端，愿有你相伴。 ヨルシカ三人称歌枠リレー 保留念经版",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w95S6nEXK?p=5",
+  "source": "relay.js"
+},
+    {
+  "title": "憂一乗",
+  "artist": "ヨルシカ",
+  "collection": "接力歌切 ヨル紛イ / 百日 紅 Yorumagai / Momoka Beni@ヨル紛イ 2026-04-29 ヨルシカ与专门直播ヨルシカ的Vtuber。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nJ5S6CETQ?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "接力歌切 ヨル紛イ / 百日 紅 Yorumagai / Momoka Beni@ヨル紛イ 2026-04-29 ヨルシカ与专门直播ヨルシカ的Vtuber。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nJ5S6CETQ?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "いさな",
+  "artist": "ヨルシカ",
+  "collection": "接力歌切 ヨル紛イ / 百日 紅 Yorumagai / Momoka Beni@ヨル紛イ 2026-04-29 ヨルシカ与专门直播ヨルシカ的Vtuber。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nJ5S6CETQ?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "夜紛い",
+  "artist": "ヨルシカ",
+  "collection": "接力歌切 ヨル紛イ / 百日 紅 Yorumagai / Momoka Beni@ヨル紛イ 2026-04-29 ヨルシカ与专门直播ヨルシカ的Vtuber。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nJ5S6CETQ?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "嘘月",
+  "artist": "ヨルシカ",
+  "collection": "接力歌切 ノア・ポラリス -Noa Polaris- 2026-04-29 我的██了解我 ヨルシカ三人称歌枠リレー 保留念经版",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JJ5S6CEai?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "接力歌切 ノア・ポラリス -Noa Polaris- 2026-04-29 我的██了解我 ヨルシカ三人称歌枠リレー 保留念经版",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JJ5S6CEai?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "接力歌切 ノア・ポラリス -Noa Polaris- 2026-04-29 我的██了解我 ヨルシカ三人称歌枠リレー 保留念经版",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JJ5S6CEai?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "第一夜",
+  "artist": "ヨルシカ",
+  "collection": "接力歌切 ノア・ポラリス -Noa Polaris- 2026-04-29 我的██了解我 ヨルシカ三人称歌枠リレー 保留念经版",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JJ5S6CEai?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "接力歌切 ノア・ポラリス -Noa Polaris- 2026-04-29 我的██了解我 ヨルシカ三人称歌枠リレー 保留念经版",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JJ5S6CEai?p=5",
+  "source": "relay.js"
+},
+    {
+  "title": "櫂",
+  "artist": "ヨルシカ",
+  "collection": "接力歌切 ノア・ポラリス -Noa Polaris- 2026-04-29 我的██了解我 ヨルシカ三人称歌枠リレー 保留念经版",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JJ5S6CEai?p=6",
   "source": "relay.js"
 },
     {
