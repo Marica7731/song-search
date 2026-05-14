@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 5/14/2026, 2:25:48 AM
+// 生成时间: 5/14/2026, 2:45:43 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -31779,6 +31779,86 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-05-04]初見さん歓迎！3D新衣装まであと少し！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11hRJBNEet?p=25",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "collection": "会限 2026-05-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17H5S6GEhT?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "会限 2026-05-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17H5S6GEhT?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "会限 2026-05-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17H5S6GEhT?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "DISCOTHEQUE",
+  "artist": "水樹奈々",
+  "collection": "会限 2026-05-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17H5S6GEhT?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "１・２・３",
+  "artist": "After the Rain（そらる×まふまふ）",
+  "collection": "会限 2026-05-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17H5S6GEhT?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "未来のミュージアム",
+  "artist": "Perfume",
+  "collection": "会限 2026-05-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17H5S6GEhT?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Real World",
+  "artist": "nano.RIPE",
+  "collection": "会限 2026-05-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17H5S6GEhT?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "departure",
+  "artist": "小野正利",
+  "collection": "会限 2026-05-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17H5S6GEhT?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Lovers",
+  "artist": "sumika",
+  "collection": "会限 2026-05-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17H5S6GEhT?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "会限 2026-05-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17H5S6GEhT?p=10",
   "source": "yoshika.js"
 },
     {
