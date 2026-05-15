@@ -82,6 +82,7 @@ const SINGER_CONFIGS = [
     { bvids: ["BV1YtwtzREbp"], file: "gabinoheya", alias: "がびのお部屋" },
     { bvids: ["BV1KSRXBwE2v"], file: "stratia", alias: "すとらてぃあ-Stratia" },
     { bvids: ["BV1sU5S69E8r"], file: "karakurinne", alias: "からくりんね-KarakuRinne" },
+    { bvids: ["BV1d85B6TEFa"], file: "kyoka", alias: "響架" },
     { bvids: ["BV11GZtBcEsp","BV1xucZzxEkZ","BV117P2zwEuq","BV1LJ4m1A7FC"], file: "others", alias: "非常驻妹妹" },
     { bvids: ["BV1Qa9JB6EAw"], alias: "陽月るるふ" }
 ];
