@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 5/15/2026, 4:22:48 PM
+// 生成时间: 5/15/2026, 4:43:17 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2443,6 +2443,150 @@ window.SONG_DATA.push(
   "collection": "【💫✖歌切】[2026-05-11]希望星期一能元气满满地度过.ᐟ歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RC5A66E4r?p=18",
+  "source": "kukuri.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-05-14]今天也一起度过中午的歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BA5z6yEto?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-05-14]今天也一起度过中午的歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BA5z6yEto?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "六月は雨上がりの街を書く",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-05-14]今天也一起度过中午的歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BA5z6yEto?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "最後の恋",
+  "artist": "奥華子",
+  "collection": "【💫✖歌切】[2026-05-14]今天也一起度过中午的歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BA5z6yEto?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【💫✖歌切】[2026-05-14]今天也一起度过中午的歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BA5z6yEto?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "恋",
+  "artist": "奥華子",
+  "collection": "【💫✖歌切】[2026-05-14]今天也一起度过中午的歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BA5z6yEto?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "恋に落ちて",
+  "artist": "藤田麻衣子",
+  "collection": "【💫✖歌切】[2026-05-14]今天也一起度过中午的歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BA5z6yEto?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "金魚すくい",
+  "artist": "藤田麻衣子",
+  "collection": "【💫✖歌切】[2026-05-14]今天也一起度过中午的歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BA5z6yEto?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "三国駅",
+  "artist": "aiko",
+  "collection": "【💫✖歌切】[2026-05-14]今天也一起度过中午的歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BA5z6yEto?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "シアワセ",
+  "artist": "aiko",
+  "collection": "【💫✖歌切】[2026-05-14]今天也一起度过中午的歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BA5z6yEto?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "夢見る隙間",
+  "artist": "aiko",
+  "collection": "【💫✖歌切】[2026-05-14]今天也一起度过中午的歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BA5z6yEto?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "冷たい嘘",
+  "artist": "aiko",
+  "collection": "【💫✖歌切】[2026-05-14]今天也一起度过中午的歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BA5z6yEto?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "シャッター",
+  "artist": "aiko",
+  "collection": "【💫✖歌切】[2026-05-14]今天也一起度过中午的歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BA5z6yEto?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "milk",
+  "artist": "aiko",
+  "collection": "【💫✖歌切】[2026-05-14]今天也一起度过中午的歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BA5z6yEto?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ふたりごと",
+  "artist": "RADWIMPS",
+  "collection": "【💫✖歌切】[2026-05-14]今天也一起度过中午的歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BA5z6yEto?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ずうっといっしょ!",
+  "artist": "キタニタツヤ",
+  "collection": "【💫✖歌切】[2026-05-14]今天也一起度过中午的歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BA5z6yEto?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【💫✖歌切】[2026-05-14]今天也一起度过中午的歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BA5z6yEto?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "怪物",
+  "artist": "YOASOBI",
+  "collection": "【💫✖歌切】[2026-05-14]今天也一起度过中午的歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BA5z6yEto?p=18",
   "source": "kukuri.js"
 }
 );

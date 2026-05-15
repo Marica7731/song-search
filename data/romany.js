@@ -1,6 +1,6 @@
 // ロマニ - 歌单数据 (多合集汇总)
 // 来源: BV1KHXxBUErU, BV1iHQXBzEgU
-// 生成时间: 5/15/2026, 4:32:32 PM
+// 生成时间: 5/15/2026, 4:51:52 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1043,6 +1043,158 @@ window.SONG_DATA.push(
   "collection": "【ロマニ歌切】[2026-05-07]ライブ前のライブ⚡──✦ みじかめSINGING STREAM ロマニードットアイオー / ROMANY. io",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1S2dKB6E9S?p=11",
+  "source": "romany.js"
+},
+    {
+  "title": "レイメイ",
+  "artist": "さユり×MY FIRST STORY",
+  "collection": "【ロマニ歌切】[2026-05-14]梦之歌声⚡──✦ 动漫歌曲歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gH5z6aE7u?p=1",
+  "source": "romany.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【ロマニ歌切】[2026-05-14]梦之歌声⚡──✦ 动漫歌曲歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gH5z6aE7u?p=2",
+  "source": "romany.js"
+},
+    {
+  "title": "ray（超かぐや姫！Ver.）",
+  "artist": "かぐや(cv.夏吉ゆうこ), 月見ヤチヨ(cv.早見沙織)",
+  "collection": "【ロマニ歌切】[2026-05-14]梦之歌声⚡──✦ 动漫歌曲歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gH5z6aE7u?p=3",
+  "source": "romany.js"
+},
+    {
+  "title": "staple stable",
+  "artist": "戦場ヶ原ひたぎ(斎藤千和)",
+  "collection": "【ロマニ歌切】[2026-05-14]梦之歌声⚡──✦ 动漫歌曲歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gH5z6aE7u?p=4",
+  "source": "romany.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "【ロマニ歌切】[2026-05-14]梦之歌声⚡──✦ 动漫歌曲歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gH5z6aE7u?p=5",
+  "source": "romany.js"
+},
+    {
+  "title": "Sing My Pleasure",
+  "artist": "ヴィヴィ(Vo.八木海莉)",
+  "collection": "【ロマニ歌切】[2026-05-14]梦之歌声⚡──✦ 动漫歌曲歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gH5z6aE7u?p=6",
+  "source": "romany.js"
+},
+    {
+  "title": "ミッドナイト・リフレクション",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【ロマニ歌切】[2026-05-14]梦之歌声⚡──✦ 动漫歌曲歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gH5z6aE7u?p=7",
+  "source": "romany.js"
+},
+    {
+  "title": "メルト",
+  "artist": "CPK! Remix ‑ /ryo",
+  "collection": "【ロマニ歌切】[2026-05-14]梦之歌声⚡──✦ 动漫歌曲歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gH5z6aE7u?p=8",
+  "source": "romany.js"
+},
+    {
+  "title": "One Last Kiss",
+  "artist": "宇多田ヒカル",
+  "collection": "【ロマニ歌切】[2026-05-14]梦之歌声⚡──✦ 动漫歌曲歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gH5z6aE7u?p=9",
+  "source": "romany.js"
+},
+    {
+  "title": "アンビバレント",
+  "artist": "Uru",
+  "collection": "【ロマニ歌切】[2026-05-14]梦之歌声⚡──✦ 动漫歌曲歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gH5z6aE7u?p=10",
+  "source": "romany.js"
+},
+    {
+  "title": "ウタカタララバイ",
+  "artist": "Ado",
+  "collection": "【ロマニ歌切】[2026-05-14]梦之歌声⚡──✦ 动漫歌曲歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gH5z6aE7u?p=11",
+  "source": "romany.js"
+},
+    {
+  "title": "Rising Hope",
+  "artist": "LiSA",
+  "collection": "【ロマニ歌切】[2026-05-14]梦之歌声⚡──✦ 动漫歌曲歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gH5z6aE7u?p=12",
+  "source": "romany.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【ロマニ歌切】[2026-05-14]梦之歌声⚡──✦ 动漫歌曲歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gH5z6aE7u?p=13",
+  "source": "romany.js"
+},
+    {
+  "title": "シルシ",
+  "artist": "LiSA",
+  "collection": "【ロマニ歌切】[2026-05-14]梦之歌声⚡──✦ 动漫歌曲歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gH5z6aE7u?p=14",
+  "source": "romany.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "【ロマニ歌切】[2026-05-14]梦之歌声⚡──✦ 动漫歌曲歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gH5z6aE7u?p=15",
+  "source": "romany.js"
+},
+    {
+  "title": "GG",
+  "artist": "ReoNa",
+  "collection": "【ロマニ歌切】[2026-05-14]梦之歌声⚡──✦ 动漫歌曲歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gH5z6aE7u?p=16",
+  "source": "romany.js"
+},
+    {
+  "title": "ADAMAS",
+  "artist": "LiSA",
+  "collection": "【ロマニ歌切】[2026-05-14]梦之歌声⚡──✦ 动漫歌曲歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gH5z6aE7u?p=17",
+  "source": "romany.js"
+},
+    {
+  "title": "アンノウン・マザーグース",
+  "artist": "wowaka",
+  "collection": "【ロマニ歌切】[2026-05-14]梦之歌声⚡──✦ 动漫歌曲歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gH5z6aE7u?p=18",
+  "source": "romany.js"
+},
+    {
+  "title": "ラブドリ！",
+  "artist": "ロマニードットアイオー",
+  "collection": "【ロマニ歌切】[2026-05-14]梦之歌声⚡──✦ 动漫歌曲歌回 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gH5z6aE7u?p=19",
   "source": "romany.js"
 },
     {
