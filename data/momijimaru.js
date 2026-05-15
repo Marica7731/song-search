@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 5/15/2026, 8:02:34 PM
+// 生成时间: 5/15/2026, 8:22:31 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4779,6 +4779,126 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-05-13]早上好呀!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sU5S69EHA?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【🍁歌切】[2026-05-15]全类型歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12A5B6RE51?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ペガサス幻想",
+  "artist": "MAKE-UP",
+  "collection": "【🍁歌切】[2026-05-15]全类型歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12A5B6RE51?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "デビルマンのうた",
+  "artist": "十田敬三、ボーカル・ショップ",
+  "collection": "【🍁歌切】[2026-05-15]全类型歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12A5B6RE51?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "レット・イット・ゴー～ありのままで～",
+  "artist": "松たか子",
+  "collection": "【🍁歌切】[2026-05-15]全类型歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12A5B6RE51?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "シル・ヴ・プレジデント",
+  "artist": "P丸様。",
+  "collection": "【🍁歌切】[2026-05-15]全类型歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12A5B6RE51?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ヴァンパイア",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-05-15]全类型歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12A5B6RE51?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "死神",
+  "artist": "米津玄師",
+  "collection": "【🍁歌切】[2026-05-15]全类型歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12A5B6RE51?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-05-15]全类型歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12A5B6RE51?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ゴシップ",
+  "artist": "OSTER project feat. 初音ミクAppend",
+  "collection": "【🍁歌切】[2026-05-15]全类型歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12A5B6RE51?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "サンドリヨン",
+  "artist": "Dios/シグナルP feat. 初音ミク・KAITO",
+  "collection": "【🍁歌切】[2026-05-15]全类型歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12A5B6RE51?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ルパン三世のテーマ",
+  "artist": "ピート・マック・ジュニア",
+  "collection": "【🍁歌切】[2026-05-15]全类型歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12A5B6RE51?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Mad at Disney",
+  "artist": "salem ilese",
+  "collection": "【🍁歌切】[2026-05-15]全类型歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12A5B6RE51?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Minute by Minute",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-05-15]全类型歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12A5B6RE51?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "一二三",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-05-15]全类型歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12A5B6RE51?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "幾億光年",
+  "artist": "Omoinotake",
+  "collection": "【🍁歌切】[2026-05-15]全类型歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12A5B6RE51?p=15",
   "source": "momijimaru.js"
 }
 );

@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 5/15/2026, 8:04:00 PM
+// 生成时间: 5/15/2026, 8:23:57 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -30779,6 +30779,94 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-05-08]又到了周末哦~ Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t9R1BLEw9?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "たぶん",
+  "artist": "YOASOBI",
+  "collection": "【💐歌切】[2026-05-15]终于平静下来了，所以想唱歌！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1So5q6fEi8?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "月のしずく",
+  "artist": "柴咲コウ",
+  "collection": "【💐歌切】[2026-05-15]终于平静下来了，所以想唱歌！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1So5q6fEi8?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "月光",
+  "artist": "鬼束ちひろ",
+  "collection": "【💐歌切】[2026-05-15]终于平静下来了，所以想唱歌！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1So5q6fEi8?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "スイミー",
+  "artist": "Every Little Thing",
+  "collection": "【💐歌切】[2026-05-15]终于平静下来了，所以想唱歌！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1So5q6fEi8?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "fragile",
+  "artist": "Every Little Thing",
+  "collection": "【💐歌切】[2026-05-15]终于平静下来了，所以想唱歌！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1So5q6fEi8?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "フライディ・チャイナタウン",
+  "artist": "泰葉",
+  "collection": "【💐歌切】[2026-05-15]终于平静下来了，所以想唱歌！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1So5q6fEi8?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "放送室",
+  "artist": "星街すいせい",
+  "collection": "【💐歌切】[2026-05-15]终于平静下来了，所以想唱歌！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1So5q6fEi8?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "GHOST",
+  "artist": "星街すいせい",
+  "collection": "【💐歌切】[2026-05-15]终于平静下来了，所以想唱歌！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1So5q6fEi8?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "SUN",
+  "artist": "星野源",
+  "collection": "【💐歌切】[2026-05-15]终于平静下来了，所以想唱歌！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1So5q6fEi8?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "蛍はいなかった",
+  "artist": "はるまきごはん",
+  "collection": "【💐歌切】[2026-05-15]终于平静下来了，所以想唱歌！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1So5q6fEi8?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27",
+  "collection": "【💐歌切】[2026-05-15]终于平静下来了，所以想唱歌！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1So5q6fEi8?p=11",
   "source": "figaro.js"
 }
 );
