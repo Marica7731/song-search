@@ -1,6 +1,6 @@
 // 接力 - 歌单数据 (多合集汇总)
 // 来源: BV1rkCTYzEZN, BV1wt421j7gT, BV1KpCdYmE3T, BV1aC4ce2E5s, BV1JbX9BmE5m, BV1nJ5S6CETQ, BV1duSRBBEkb
-// 生成时间: 5/15/2026, 2:14:57 PM
+// 生成时间: 5/15/2026, 2:54:15 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1659,6 +1659,46 @@ window.SONG_DATA.push(
   "collection": "接力歌切 ノア・ポラリス -Noa Polaris- 2026-04-29 我的██了解我 ヨルシカ三人称歌枠リレー 保留念经版",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JJ5S6CEai?p=6",
+  "source": "relay.js"
+},
+    {
+  "title": "準透明少年",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-04-29 花開ふりる / hanahira frill BhfsNUpEWlw 请倾听我的情感，触动你的心。ヨルシカ三人称歌枠リレー 保留念经",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n55i66EXg?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "心に穴が空いた",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-04-29 花開ふりる / hanahira frill BhfsNUpEWlw 请倾听我的情感，触动你的心。ヨルシカ三人称歌枠リレー 保留念经",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n55i66EXg?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-04-29 花開ふりる / hanahira frill BhfsNUpEWlw 请倾听我的情感，触动你的心。ヨルシカ三人称歌枠リレー 保留念经",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n55i66EXg?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-04-29 花開ふりる / hanahira frill BhfsNUpEWlw 请倾听我的情感，触动你的心。ヨルシカ三人称歌枠リレー 保留念经",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n55i66EXg?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-04-29 花開ふりる / hanahira frill BhfsNUpEWlw 请倾听我的情感，触动你的心。ヨルシカ三人称歌枠リレー 保留念经",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n55i66EXg?p=5",
   "source": "relay.js"
 },
     {
