@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 5/15/2026, 4:50:49 PM
+// 生成时间: 5/15/2026, 5:10:36 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2475,6 +2475,270 @@ window.SONG_DATA.push(
   "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=49",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "告白",
+  "artist": "RADWIMPS",
+  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "月灯りふんわり落ちてくる夜",
+  "artist": "小川七生",
+  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "今宵の月のように",
+  "artist": "エレファントカシマシ",
+  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "炎と森のカーニバル",
+  "artist": "SEKAI NO OWARI",
+  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "革命",
+  "artist": "andymori",
+  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "どこにいてもおなじさ",
+  "artist": "ハンバート ハンバート",
+  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "遠い君へ",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "KING",
+  "artist": "Kanaria feat. GUMI",
+  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "黒毛和牛上塩タン焼680円",
+  "artist": "大塚愛",
+  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "リグレット",
+  "artist": "sumika",
+  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "猫の缶詰め",
+  "artist": "3markets",
+  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "サヨナラCOLOR",
+  "artist": "SUPER BUTTER DOG",
+  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "アスノヨゾラ哨戒班",
+  "artist": "Orangestar feat. IA",
+  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "リンジュー・ラヴ",
+  "artist": "マカロニえんぴつ",
+  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "かつて天才だった俺たちへ",
+  "artist": "Creepy Nuts",
+  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "光",
+  "artist": "andymori",
+  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=17",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "にんげんっていいな",
+  "artist": "中島義実、ヤング・フレッシュ",
+  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=18",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "拝啓、少年よ",
+  "artist": "Hump Back",
+  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=19",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "I believe",
+  "artist": "絢香",
+  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=20",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ひかり",
+  "artist": "星村麻衣",
+  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=21",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "月明かりのように",
+  "artist": "はる こたつぶとん倶楽部☘",
+  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=22",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "髪の毛",
+  "artist": "女王蜂",
+  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=23",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工 feat. 初音ミク",
+  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=24",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "マリーゴールド",
+  "artist": "あいみょん",
+  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=25",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "手と手",
+  "artist": "クリープハイプ",
+  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=26",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Hello, Worker",
+  "artist": "KEI feat. 巡音ルカ",
+  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=27",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=28",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Hallelujah",
+  "artist": "Leonard Cohen",
+  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=29",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "火星人",
+  "artist": "ヨルシカ",
+  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=30",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "またね",
+  "artist": "ハンブレッダーズ",
+  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=31",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ピノ",
+  "artist": "ズーカラデル",
+  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=32",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "今宵、月が見えずとも",
+  "artist": "ポルノグラフィティ",
+  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=33",
   "source": "kotatsu.js"
 }
 );
