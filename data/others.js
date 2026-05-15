@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 5/15/2026, 6:39:18 PM
+// 生成时间: 5/15/2026, 6:58:52 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10227,6 +10227,174 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-05-13 ミナミイズミ / IZUMI MINAMI aRcjvZURWeA 为您献上最棒的夜晚！3D披露LIVE🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1N25m67ESv?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "STAND-ALONE",
+  "artist": "Aimer",
+  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "Brave Shine",
+  "artist": "Aimer",
+  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ハイド・アンド・シーク",
+  "artist": "NOMELON NOLEMON",
+  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "鬼ノ宴",
+  "artist": "友成空",
+  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "睨めっ娘",
+  "artist": "友成空",
+  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "逆光",
+  "artist": "Ado",
+  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "新時代",
+  "artist": "Ado",
+  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "Believe",
+  "artist": "Folder5",
+  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "ループ",
+  "artist": "坂本真綾",
+  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "Catch you Catch me",
+  "artist": "グミ(日向めぐみ)",
+  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "Record!!",
+  "artist": "響架",
+  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "1×",
+  "artist": "響架",
+  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "いったやんけ！",
+  "artist": "響架",
+  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "皆無",
+  "artist": "ONE OK ROCK",
+  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "恋ノアイボウ心ノクピド",
+  "artist": "ONE OK ROCK",
+  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "じぶんROCK",
+  "artist": "ONE OK ROCK",
+  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "Can Do",
+  "artist": "GRANRODEO",
+  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=21",
   "source": "others.js"
 },
     {
