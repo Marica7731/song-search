@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 5/15/2026, 7:17:32 PM
+// 生成时间: 5/15/2026, 8:19:05 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3627,198 +3627,6 @@ window.SONG_DATA.push(
   "collection": "歌势推荐：渚沢シチ 2026-03-06 Rjs6oWcVHXI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VEcSz7EFC?p=22",
-  "source": "others.js"
-},
-    {
-  "title": "風ノ唄",
-  "artist": "FLOW",
-  "collection": "歌势推荐：Kyoka Ch. -響架- 2026-03-12 QgS9riQsAZ4",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WXc2z4Ehk?p=1",
-  "source": "others.js"
-},
-    {
-  "title": "White Light",
-  "artist": "Superfly",
-  "collection": "歌势推荐：Kyoka Ch. -響架- 2026-03-12 QgS9riQsAZ4",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WXc2z4Ehk?p=2",
-  "source": "others.js"
-},
-    {
-  "title": "鐘を鳴らして",
-  "artist": "BONNIE PINK",
-  "collection": "歌势推荐：Kyoka Ch. -響架- 2026-03-12 QgS9riQsAZ4",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WXc2z4Ehk?p=3",
-  "source": "others.js"
-},
-    {
-  "title": "まもりたい～White Wishes～",
-  "artist": "BoA",
-  "collection": "歌势推荐：Kyoka Ch. -響架- 2026-03-12 QgS9riQsAZ4",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WXc2z4Ehk?p=4",
-  "source": "others.js"
-},
-    {
-  "title": "夢であるように",
-  "artist": "DEEN",
-  "collection": "歌势推荐：Kyoka Ch. -響架- 2026-03-12 QgS9riQsAZ4",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WXc2z4Ehk?p=5",
-  "source": "others.js"
-},
-    {
-  "title": "二人三脚",
-  "artist": "misono",
-  "collection": "歌势推荐：Kyoka Ch. -響架- 2026-03-12 QgS9riQsAZ4",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WXc2z4Ehk?p=6",
-  "source": "others.js"
-},
-    {
-  "title": "Starry Heavens",
-  "artist": "day after tomorrow",
-  "collection": "歌势推荐：Kyoka Ch. -響架- 2026-03-12 QgS9riQsAZ4",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WXc2z4Ehk?p=7",
-  "source": "others.js"
-},
-    {
-  "title": "青いベンチ",
-  "artist": "サスケ",
-  "collection": "歌势推荐：Kyoka Ch. -響架- 2026-03-12 QgS9riQsAZ4",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WXc2z4Ehk?p=8",
-  "source": "others.js"
-},
-    {
-  "title": "ハナミズキ",
-  "artist": "一青窈",
-  "collection": "歌势推荐：Kyoka Ch. -響架- 2026-03-12 QgS9riQsAZ4",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WXc2z4Ehk?p=9",
-  "source": "others.js"
-},
-    {
-  "title": "キセキ",
-  "artist": "GReeeeN",
-  "collection": "歌势推荐：Kyoka Ch. -響架- 2026-03-12 QgS9riQsAZ4",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WXc2z4Ehk?p=10",
-  "source": "others.js"
-},
-    {
-  "title": "小さな恋のうた",
-  "artist": "MONGOL800",
-  "collection": "歌势推荐：Kyoka Ch. -響架- 2026-03-12 QgS9riQsAZ4",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WXc2z4Ehk?p=11",
-  "source": "others.js"
-},
-    {
-  "title": "虹",
-  "artist": "Aqua Timez",
-  "collection": "歌势推荐：Kyoka Ch. -響架- 2026-03-12 QgS9riQsAZ4",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WXc2z4Ehk?p=12",
-  "source": "others.js"
-},
-    {
-  "title": "布団の中から出たくない",
-  "artist": "打首獄門同好会",
-  "collection": "歌势推荐：Kyoka Ch. -響架- 2026-03-12 QgS9riQsAZ4",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WXc2z4Ehk?p=13",
-  "source": "others.js"
-},
-    {
-  "title": "LOVE & ROLL",
-  "artist": "supercell",
-  "collection": "歌势推荐：Kyoka Ch. -響架- 2026-03-12 QgS9riQsAZ4",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WXc2z4Ehk?p=14",
-  "source": "others.js"
-},
-    {
-  "title": "金曜日のおはよう",
-  "artist": "HoneyWorks feat. GUMI",
-  "collection": "歌势推荐：Kyoka Ch. -響架- 2026-03-12 QgS9riQsAZ4",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WXc2z4Ehk?p=15",
-  "source": "others.js"
-},
-    {
-  "title": "うどん",
-  "artist": "Gero",
-  "collection": "歌势推荐：Kyoka Ch. -響架- 2026-03-12 QgS9riQsAZ4",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WXc2z4Ehk?p=16",
-  "source": "others.js"
-},
-    {
-  "title": "銃の部品",
-  "artist": "PEOPLE 1",
-  "collection": "歌势推荐：Kyoka Ch. -響架- 2026-03-12 QgS9riQsAZ4",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WXc2z4Ehk?p=17",
-  "source": "others.js"
-},
-    {
-  "title": "Enjoy it",
-  "artist": "響架",
-  "collection": "歌势推荐：Kyoka Ch. -響架- 2026-03-12 QgS9riQsAZ4",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WXc2z4Ehk?p=18",
-  "source": "others.js"
-},
-    {
-  "title": "Casket",
-  "artist": "響架",
-  "collection": "歌势推荐：Kyoka Ch. -響架- 2026-03-12 QgS9riQsAZ4",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WXc2z4Ehk?p=19",
-  "source": "others.js"
-},
-    {
-  "title": "SHAKER",
-  "artist": "響架",
-  "collection": "歌势推荐：Kyoka Ch. -響架- 2026-03-12 QgS9riQsAZ4",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WXc2z4Ehk?p=20",
-  "source": "others.js"
-},
-    {
-  "title": "心絵",
-  "artist": "ロードオブメジャー",
-  "collection": "歌势推荐：Kyoka Ch. -響架- 2026-03-12 QgS9riQsAZ4",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WXc2z4Ehk?p=21",
-  "source": "others.js"
-},
-    {
-  "title": "Shout Baby",
-  "artist": "緑黄色社会",
-  "collection": "歌势推荐：Kyoka Ch. -響架- 2026-03-12 QgS9riQsAZ4",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WXc2z4Ehk?p=22",
-  "source": "others.js"
-},
-    {
-  "title": "じぶんROCK",
-  "artist": "ONE OK ROCK",
-  "collection": "歌势推荐：Kyoka Ch. -響架- 2026-03-12 QgS9riQsAZ4",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WXc2z4Ehk?p=23",
-  "source": "others.js"
-},
-    {
-  "title": "Deeper Deeper",
-  "artist": "ONE OK ROCK",
-  "collection": "歌势推荐：Kyoka Ch. -響架- 2026-03-12 QgS9riQsAZ4",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WXc2z4Ehk?p=24",
   "source": "others.js"
 },
     {
@@ -7454,94 +7262,6 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "いーあるふぁんくらぶ",
-  "artist": "みきとP feat. 鏡音リン",
-  "collection": "歌切 2026-04-06 ノア・ポラリス -Noa Polaris- gML5xjprEfg",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qDDbBBETv?p=1",
-  "source": "others.js"
-},
-    {
-  "title": "チャイナアドバイス",
-  "artist": "相対性理論",
-  "collection": "歌切 2026-04-06 ノア・ポラリス -Noa Polaris- gML5xjprEfg",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qDDbBBETv?p=2",
-  "source": "others.js"
-},
-    {
-  "title": "ハオ",
-  "artist": "DECO*27 feat.初音ミク",
-  "collection": "歌切 2026-04-06 ノア・ポラリス -Noa Polaris- gML5xjprEfg",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qDDbBBETv?p=3",
-  "source": "others.js"
-},
-    {
-  "title": "サラマンダー",
-  "artist": "DECO*27 feat.初音ミク",
-  "collection": "歌切 2026-04-06 ノア・ポラリス -Noa Polaris- gML5xjprEfg",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qDDbBBETv?p=4",
-  "source": "others.js"
-},
-    {
-  "title": "シャンティ",
-  "artist": "wotaku feat.KAITO",
-  "collection": "歌切 2026-04-06 ノア・ポラリス -Noa Polaris- gML5xjprEfg",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qDDbBBETv?p=5",
-  "source": "others.js"
-},
-    {
-  "title": "オノマトペ",
-  "artist": "羽生まゐご feat.りりあ。",
-  "collection": "歌切 2026-04-06 ノア・ポラリス -Noa Polaris- gML5xjprEfg",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qDDbBBETv?p=6",
-  "source": "others.js"
-},
-    {
-  "title": "鬼ノ宴",
-  "artist": "友成空",
-  "collection": "歌切 2026-04-06 ノア・ポラリス -Noa Polaris- gML5xjprEfg",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qDDbBBETv?p=7",
-  "source": "others.js"
-},
-    {
-  "title": "真宵子",
-  "artist": "ナツノセ feat.沖石",
-  "collection": "歌切 2026-04-06 ノア・ポラリス -Noa Polaris- gML5xjprEfg",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qDDbBBETv?p=8",
-  "source": "others.js"
-},
-    {
-  "title": "ブリキノダンス",
-  "artist": "日向電工 feat.初音ミク",
-  "collection": "歌切 2026-04-06 ノア・ポラリス -Noa Polaris- gML5xjprEfg",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qDDbBBETv?p=9",
-  "source": "others.js"
-},
-    {
-  "title": "心拍数",
-  "artist": "蝶々P feat. 初音ミク",
-  "collection": "歌切 2026-04-06 ノア・ポラリス -Noa Polaris- gML5xjprEfg",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qDDbBBETv?p=10",
-  "source": "others.js"
-},
-    {
-  "title": "月光食堂",
-  "artist": "古川本舗 feat.acane_madder",
-  "collection": "歌切 2026-04-06 ノア・ポラリス -Noa Polaris- gML5xjprEfg",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qDDbBBETv?p=11",
-  "source": "others.js"
-},
-    {
   "title": "from Y to Y",
   "artist": "ジミーサムP",
   "collection": "歌切 2026-04-06 葉月ひな🌱🎶 9qD3oo8DIBc",
@@ -7675,174 +7395,6 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-04-06 葉月ひな🌱🎶 9qD3oo8DIBc",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QHDbBtE3H?p=17",
-  "source": "others.js"
-},
-    {
-  "title": "自傷無色",
-  "artist": "ねこぼーろ feat. 初音ミク",
-  "collection": "歌切 2026-04-05 ノア・ポラリス -Noa Polaris- -CmaY9mV5Ig",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SpDbBoEoJ?p=1",
-  "source": "others.js"
-},
-    {
-  "title": "乙女解剖",
-  "artist": "Giga",
-  "collection": "歌切 2026-04-05 ノア・ポラリス -Noa Polaris- -CmaY9mV5Ig",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SpDbBoEoJ?p=2",
-  "source": "others.js"
-},
-    {
-  "title": "シンデレラ",
-  "artist": "DECO*27 feat.初音ミク",
-  "collection": "歌切 2026-04-05 ノア・ポラリス -Noa Polaris- -CmaY9mV5Ig",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SpDbBoEoJ?p=3",
-  "source": "others.js"
-},
-    {
-  "title": "カイコ",
-  "artist": "DECO*27 feat. 初音ミク",
-  "collection": "歌切 2026-04-05 ノア・ポラリス -Noa Polaris- -CmaY9mV5Ig",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SpDbBoEoJ?p=4",
-  "source": "others.js"
-},
-    {
-  "title": "FAKE IDOL",
-  "artist": "藍月なくる",
-  "collection": "歌切 2026-04-05 ノア・ポラリス -Noa Polaris- -CmaY9mV5Ig",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SpDbBoEoJ?p=5",
-  "source": "others.js"
-},
-    {
-  "title": "パラサイトブルー",
-  "artist": "幽谷きらら",
-  "collection": "歌切 2026-04-05 ノア・ポラリス -Noa Polaris- -CmaY9mV5Ig",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SpDbBoEoJ?p=6",
-  "source": "others.js"
-},
-    {
-  "title": "unravel",
-  "artist": "TK from 凛として時雨",
-  "collection": "歌切 2026-04-05 ノア・ポラリス -Noa Polaris- -CmaY9mV5Ig",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SpDbBoEoJ?p=7",
-  "source": "others.js"
-},
-    {
-  "title": "名前のない怪物",
-  "artist": "EGOIST",
-  "collection": "歌切 2026-04-05 ノア・ポラリス -Noa Polaris- -CmaY9mV5Ig",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SpDbBoEoJ?p=8",
-  "source": "others.js"
-},
-    {
-  "title": "孤独の宗教",
-  "artist": "syudou feat. 初音ミク",
-  "collection": "歌切 2026-04-05 ノア・ポラリス -Noa Polaris- -CmaY9mV5Ig",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SpDbBoEoJ?p=9",
-  "source": "others.js"
-},
-    {
-  "title": "コールボーイ",
-  "artist": "syudou feat.初音ミク",
-  "collection": "歌切 2026-04-05 ノア・ポラリス -Noa Polaris- -CmaY9mV5Ig",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SpDbBoEoJ?p=10",
-  "source": "others.js"
-},
-    {
-  "title": "キケンナアソビ",
-  "artist": "クリープハイプ",
-  "collection": "歌切 2026-04-05 ノア・ポラリス -Noa Polaris- -CmaY9mV5Ig",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SpDbBoEoJ?p=11",
-  "source": "others.js"
-},
-    {
-  "title": "カワキヲアメク",
-  "artist": "美波",
-  "collection": "歌切 2026-04-05 ノア・ポラリス -Noa Polaris- -CmaY9mV5Ig",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SpDbBoEoJ?p=12",
-  "source": "others.js"
-},
-    {
-  "title": "ブルーバード",
-  "artist": "いきものがかり",
-  "collection": "歌切 2026-04-05 ノア・ポラリス -Noa Polaris- -CmaY9mV5Ig",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SpDbBoEoJ?p=13",
-  "source": "others.js"
-},
-    {
-  "title": "カーテンコール",
-  "artist": "優里",
-  "collection": "歌切 2026-04-05 ノア・ポラリス -Noa Polaris- -CmaY9mV5Ig",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SpDbBoEoJ?p=14",
-  "source": "others.js"
-},
-    {
-  "title": "ETERNAL BLAZE",
-  "artist": "水樹奈々",
-  "collection": "歌切 2026-04-05 ノア・ポラリス -Noa Polaris- -CmaY9mV5Ig",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SpDbBoEoJ?p=15",
-  "source": "others.js"
-},
-    {
-  "title": "砂の惑星",
-  "artist": "ハチ feat. 初音ミク",
-  "collection": "歌切 2026-04-05 ノア・ポラリス -Noa Polaris- -CmaY9mV5Ig",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SpDbBoEoJ?p=16",
-  "source": "others.js"
-},
-    {
-  "title": "ウタカタララバイ",
-  "artist": "ウタ from ONE PIECE FILM RED",
-  "collection": "歌切 2026-04-05 ノア・ポラリス -Noa Polaris- -CmaY9mV5Ig",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SpDbBoEoJ?p=17",
-  "source": "others.js"
-},
-    {
-  "title": "レディメイド",
-  "artist": "Ado",
-  "collection": "歌切 2026-04-05 ノア・ポラリス -Noa Polaris- -CmaY9mV5Ig",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SpDbBoEoJ?p=18",
-  "source": "others.js"
-},
-    {
-  "title": "メリュー",
-  "artist": "n-buna feat. 初音ミク",
-  "collection": "歌切 2026-04-05 ノア・ポラリス -Noa Polaris- -CmaY9mV5Ig",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SpDbBoEoJ?p=19",
-  "source": "others.js"
-},
-    {
-  "title": "いますぐ輪廻",
-  "artist": "なきそ feat.初音ミク",
-  "collection": "歌切 2026-04-05 ノア・ポラリス -Noa Polaris- -CmaY9mV5Ig",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SpDbBoEoJ?p=20",
-  "source": "others.js"
-},
-    {
-  "title": "全部夢だった！",
-  "artist": "黒うさぎ feat. 重音テト",
-  "collection": "歌切 2026-04-05 ノア・ポラリス -Noa Polaris- -CmaY9mV5Ig",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SpDbBoEoJ?p=21",
   "source": "others.js"
 },
     {
@@ -8995,78 +8547,6 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-04-14 夢川かなう - Kanau Yumekawa 1cYtce5GOCs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TGQVBVEqP?p=8",
-  "source": "others.js"
-},
-    {
-  "title": "Overdose",
-  "artist": "なとり",
-  "collection": "歌切 2026-04-16 ノア・ポラリス -Noa Polaris- 0CTI6oa4Sjk",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YSdYBWE68?p=1",
-  "source": "others.js"
-},
-    {
-  "title": "丸ノ内サディスティック",
-  "artist": "椎名林檎",
-  "collection": "歌切 2026-04-16 ノア・ポラリス -Noa Polaris- 0CTI6oa4Sjk",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YSdYBWE68?p=2",
-  "source": "others.js"
-},
-    {
-  "title": "Pretender",
-  "artist": "Official髭男dism",
-  "collection": "歌切 2026-04-16 ノア・ポラリス -Noa Polaris- 0CTI6oa4Sjk",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YSdYBWE68?p=3",
-  "source": "others.js"
-},
-    {
-  "title": "ドライフラワー",
-  "artist": "優里",
-  "collection": "歌切 2026-04-16 ノア・ポラリス -Noa Polaris- 0CTI6oa4Sjk",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YSdYBWE68?p=4",
-  "source": "others.js"
-},
-    {
-  "title": "あの夢をなぞって",
-  "artist": "YOASOBI",
-  "collection": "歌切 2026-04-16 ノア・ポラリス -Noa Polaris- 0CTI6oa4Sjk",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YSdYBWE68?p=5",
-  "source": "others.js"
-},
-    {
-  "title": "おやすみ泣き声、さよなら歌姫",
-  "artist": "クリープハイプ",
-  "collection": "歌切 2026-04-16 ノア・ポラリス -Noa Polaris- 0CTI6oa4Sjk",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YSdYBWE68?p=6",
-  "source": "others.js"
-},
-    {
-  "title": "トウキョウ・シャンディ・ランデヴ",
-  "artist": "MAISONdes feat.花譜,ツミキ",
-  "collection": "歌切 2026-04-16 ノア・ポラリス -Noa Polaris- 0CTI6oa4Sjk",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YSdYBWE68?p=7",
-  "source": "others.js"
-},
-    {
-  "title": "ドレミファロンド",
-  "artist": "40mP feat.初音ミク",
-  "collection": "歌切 2026-04-16 ノア・ポラリス -Noa Polaris- 0CTI6oa4Sjk",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YSdYBWE68?p=8",
-  "source": "others.js"
-},
-    {
-  "title": "三つ葉の結びめ",
-  "artist": "やなぎなぎ",
-  "collection": "歌切 2026-04-16 ノア・ポラリス -Noa Polaris- 0CTI6oa4Sjk",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YSdYBWE68?p=9",
   "source": "others.js"
 },
     {
@@ -10230,171 +9710,203 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "STAND-ALONE",
-  "artist": "Aimer",
-  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "title": "夜の踊り子",
+  "artist": "サカナクション",
+  "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=1",
+  "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=1",
   "source": "others.js"
 },
     {
-  "title": "Brave Shine",
-  "artist": "Aimer",
-  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "title": "ずうっといっしょ！",
+  "artist": "キタニタツヤ",
+  "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=2",
+  "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=2",
   "source": "others.js"
 },
     {
-  "title": "ハイド・アンド・シーク",
-  "artist": "NOMELON NOLEMON",
-  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "title": "あなたのことをおしえて",
+  "artist": "キタニタツヤ",
+  "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=3",
+  "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=3",
   "source": "others.js"
 },
     {
-  "title": "モニタリング",
-  "artist": "DECO*27 feat. 初音ミク",
-  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "title": "まぼろしの行方",
+  "artist": "ヰ世界情緒",
+  "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=4",
+  "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=4",
   "source": "others.js"
 },
     {
-  "title": "鬼ノ宴",
-  "artist": "友成空",
-  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "title": "駆けろ",
+  "artist": "星街すいせい",
+  "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=5",
+  "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=5",
   "source": "others.js"
 },
     {
-  "title": "睨めっ娘",
-  "artist": "友成空",
-  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=6",
+  "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=6",
   "source": "others.js"
 },
     {
-  "title": "逆光",
-  "artist": "Ado",
-  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "title": "シリウスの心臓",
+  "artist": "ヰ世界情緒",
+  "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=7",
+  "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=7",
   "source": "others.js"
 },
     {
-  "title": "新時代",
-  "artist": "Ado",
-  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "title": "IMAWANOKIWA",
+  "artist": "いよわ",
+  "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=8",
+  "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=8",
   "source": "others.js"
 },
     {
-  "title": "私は最強",
-  "artist": "Ado",
-  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "title": "ジェヘナ",
+  "artist": "wotaku",
+  "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=9",
+  "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=9",
   "source": "others.js"
 },
     {
-  "title": "Believe",
-  "artist": "Folder5",
-  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "title": "Dear",
+  "artist": "19's Sound Factory",
+  "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=10",
+  "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=10",
   "source": "others.js"
 },
     {
-  "title": "ループ",
-  "artist": "坂本真綾",
-  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "title": "魔的",
+  "artist": "理芽 feat. 花譜",
+  "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=11",
+  "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=11",
   "source": "others.js"
 },
     {
-  "title": "プラチナ",
-  "artist": "坂本真綾",
-  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "title": "ローリンガール",
+  "artist": "wowaka",
+  "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=12",
+  "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=12",
   "source": "others.js"
 },
     {
-  "title": "Catch you Catch me",
-  "artist": "グミ(日向めぐみ)",
-  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "title": "Flip Flap",
+  "artist": "カシ・オトハ",
+  "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=13",
+  "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=13",
   "source": "others.js"
 },
     {
-  "title": "Record!!",
-  "artist": "響架",
-  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "title": "flos.",
+  "artist": "R Sound Design",
+  "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=14",
+  "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=14",
   "source": "others.js"
 },
     {
-  "title": "1×",
-  "artist": "響架",
-  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "title": "ナイトルーティン",
+  "artist": "キタニタツヤ",
+  "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=15",
+  "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=15",
   "source": "others.js"
 },
     {
-  "title": "いったやんけ！",
-  "artist": "響架",
-  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "title": "フォニィ",
+  "artist": "ツミキ",
+  "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=16",
+  "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=16",
   "source": "others.js"
 },
     {
-  "title": "皆無",
-  "artist": "ONE OK ROCK",
-  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "title": "ハングリーニコル",
+  "artist": "煮る果実",
+  "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=17",
+  "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=17",
   "source": "others.js"
 },
     {
-  "title": "恋ノアイボウ心ノクピド",
-  "artist": "ONE OK ROCK",
-  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "title": "シュガーロス",
+  "artist": "和ぬか",
+  "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=18",
+  "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=18",
   "source": "others.js"
 },
     {
-  "title": "じぶんROCK",
-  "artist": "ONE OK ROCK",
-  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "title": "ライラック",
+  "artist": "Mrs.GREEN APPLE",
+  "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=19",
+  "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=19",
   "source": "others.js"
 },
     {
-  "title": "Can Do",
-  "artist": "GRANRODEO",
-  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "title": "クスシキ",
+  "artist": "Mrs.GREEN APPLE",
+  "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=20",
+  "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=20",
   "source": "others.js"
 },
     {
-  "title": "怪獣の花唄",
-  "artist": "Vaundy",
-  "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
+  "title": "LOVE & ROLL",
+  "artist": "supercell",
+  "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=21",
+  "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "モス",
+  "artist": "サカナクション",
+  "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "ミュージック",
+  "artist": "サカナクション",
+  "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "再会",
+  "artist": "はるまきごはん",
+  "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=25",
   "source": "others.js"
 },
     {
@@ -18931,6 +18443,30 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-05-04 323(みすみ)　-Misumi- LPJiF5d-eAY 初見◎bgm◎100曲耐久歌回！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1r75B6LEwd?p=100",
+  "source": "others.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "HoneyWorks",
+  "collection": "歌切 2026-05-04 323(みすみ)　-Misumi- LPJiF5d-eAY 初見◎bgm◎100曲耐久歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1r75B6LEwd?p=101",
+  "source": "others.js"
+},
+    {
+  "title": "誇り高きアイドル",
+  "artist": "HoneyWorks feat. Kotoha",
+  "collection": "歌切 2026-05-04 323(みすみ)　-Misumi- LPJiF5d-eAY 初見◎bgm◎100曲耐久歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1r75B6LEwd?p=102",
+  "source": "others.js"
+},
+    {
+  "title": "奏",
+  "artist": "スキマスイッチ",
+  "collection": "歌切 2026-05-04 323(みすみ)　-Misumi- LPJiF5d-eAY 初見◎bgm◎100曲耐久歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1r75B6LEwd?p=103",
   "source": "others.js"
 }
 );
