@@ -14,17 +14,22 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;b
 .header h2{color:#2c3e50;margin-bottom:8px}
 .header p{color:#6c757d;font-size:14px}
 .nav{margin-bottom:18px;text-align:center}
-.nav a{color:#00a1d6;text-decoration:none}
+  .nav a{display:inline-flex;align-items:center;min-height:34px;padding:0 4px;color:#00a1d6;text-decoration:none}
 .nav a:hover{text-decoration:underline}
 .title-search-area{margin-bottom:24px}
 #titleInput{width:100%;min-height:160px;padding:12px 14px;border:1px solid #d0d7de;border-radius:6px;font-size:14px;outline:none;transition:border .2s;margin-bottom:16px;resize:vertical;font-family:inherit;background:#fff}
 #titleInput:focus{border-color:#00a1d6;box-shadow:0 0 0 3px rgba(0,161,214,.1)}
 .title-controls{display:flex;gap:12px;justify-content:flex-start;flex-wrap:wrap}
 button{padding:0 18px;height:44px;color:#111827;border:1px solid #b8c0cc;border-radius:6px;cursor:pointer;font-size:14px;font-weight:600;background:#f3f4f6}
-#searchTitleBtn:hover,#copyResultBtn:hover{background:#e9edf2}
-.artist-select-area{margin:24px 0 0 0;display:none}
-.artist-select-area.active{display:block}
-.select-item{background:#fff;border-radius:8px;padding:16px;margin-bottom:12px;box-shadow:0 2px 4px rgba(0,0,0,.04)}
+  #searchTitleBtn:hover,#copyResultBtn:hover,#copyVisibleResultBtn:hover,#copyTableResultBtn:hover{background:#e9edf2}
+  .artist-select-area{margin:24px 0 0 0;display:none}
+  .artist-select-area.active{display:block}
+  .title-filter-bar{display:none;gap:8px;align-items:center;flex-wrap:wrap;margin-bottom:14px}
+  .title-filter-bar.active{display:flex}
+  .title-filter-btn{height:34px;padding:0 12px;font-size:13px;border-color:#b8c0cc;background:#f3f4f6}
+  .title-filter-btn.active{background:#e9edf2;border-color:#94a3b8}
+  .title-filter-summary{font-size:13px;color:#64748b}
+  .select-item{background:#fff;border-radius:8px;padding:16px;margin-bottom:12px;box-shadow:0 2px 4px rgba(0,0,0,.04)}
 .select-item h4{margin-bottom:8px;color:#2c3e50;font-size:15px;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
 .valid-tag{color:#28a745;font-size:12px;font-weight:normal}
 .invalid-tag{color:#dc3545;font-size:12px;font-weight:normal}
@@ -39,13 +44,20 @@ button{padding:0 18px;height:44px;color:#111827;border:1px solid #b8c0cc;border-
 .no-result{color:#6c757d;font-size:13px;padding:4px 0}
 .result-generate-area{margin-top:16px;display:none}
 .result-generate-area.active{display:block}
-#resultText{width:100%;min-height:170px;padding:12px 14px;border:1px solid #d0d7de;border-radius:6px;font-size:14px;outline:none;margin-bottom:16px;resize:vertical;background:#f8f9fa}
+  #resultText{width:100%;min-height:170px;padding:12px 14px;border:1px solid #d0d7de;border-radius:6px;font-size:14px;outline:none;margin-bottom:16px;resize:vertical;background:#f8f9fa}
+  .result-copy-actions{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
 .input-help{margin:0 0 14px;padding:12px 14px;border:1px solid #d0d7de;border-radius:6px;background:#fff;color:#495057;line-height:1.7;font-size:13px}
 .input-help strong{color:#1f2328}
 .copy-toast{position:fixed;bottom:30px;right:30px;padding:10px 20px;background:rgba(0,0,0,.8);color:#fff;border-radius:4px;font-size:14px;opacity:0;transform:translateY(20px);transition:all .3s;pointer-events:none;z-index:9999}
 .copy-toast.show{opacity:1;transform:translateY(0)}
-.back-top{position:fixed;right:24px;bottom:24px;width:42px;height:42px;border:1px solid #b8c0cc;border-radius:6px;background:#f3f4f6;color:#111827;font-size:18px;cursor:pointer;box-shadow:none;opacity:0;pointer-events:none;transform:translateY(6px);transition:all .2s;z-index:3000}
-.back-top.show{opacity:1;pointer-events:auto;transform:translateY(0)}
+  .back-top{position:fixed;right:24px;bottom:24px;width:42px;height:42px;border:1px solid #b8c0cc;border-radius:6px;background:#f3f4f6;color:#111827;font-size:18px;cursor:pointer;box-shadow:none;opacity:0;pointer-events:none;transform:translateY(6px);transition:all .2s;z-index:3000}
+  .back-top.show{opacity:1;pointer-events:auto;transform:translateY(0)}
+  @media (max-width: 720px){
+    body{padding:14px}
+    .title-controls,.result-copy-actions{align-items:stretch}
+    .title-controls button,.result-copy-actions button{width:100%}
+    .title-filter-btn{flex:1 1 auto}
+  }
 </style>
 </head>
 <body>
@@ -77,12 +89,22 @@ button{padding:0 18px;height:44px;color:#111827;border:1px solid #b8c0cc;border-
   </div>
 
   <div class="artist-select-area" id="artistSelectArea">
+    <div class="title-filter-bar" id="titleFilterBar">
+      <button class="title-filter-btn active" type="button" data-title-filter="all">全部</button>
+      <button class="title-filter-btn" type="button" data-title-filter="review">需要确认</button>
+      <button class="title-filter-btn" type="button" data-title-filter="missing">未找到</button>
+      <span class="title-filter-summary" id="titleFilterSummary"></span>
+    </div>
     <div id="artistSelectContainer"></div>
   </div>
 
   <div class="result-generate-area" id="resultGenerateArea">
     <textarea id="resultText" readonly placeholder="生成结果会显示在这里"></textarea>
-    <button id="copyResultBtn">复制结果</button>
+    <div class="result-copy-actions">
+      <button id="copyResultBtn">复制全部结果</button>
+      <button id="copyVisibleResultBtn">复制当前筛选</button>
+      <button id="copyTableResultBtn">复制当前表格</button>
+    </div>
   </div>
 </div>
 
@@ -98,6 +120,7 @@ let selectedArtists = {};
 let inputFormatType = '';
 let isApiMode = false;
 let dataReady = false;
+let titleFilterMode = 'all';
 
 function getSourceAlias(source) {
   if (!source) return '未知来源';
@@ -194,7 +217,7 @@ async function loadAllData() {
 }
 </script>
 <script src="/artist-match.js"></script>
-<script src="bili-check-title-artist.js?v=2026042601"></script>
+<script src="bili-check-title-artist.js?v=2026051601"></script>
 <script src="/page-directory-widget.js?v=2026041905"></script>
 <script>
 function initTitleArtistPage() {
@@ -202,6 +225,11 @@ function initTitleArtistPage() {
   loadAllData();
   document.getElementById('searchTitleBtn').addEventListener('click', searchAndValidateArtists);
   document.getElementById('copyResultBtn').addEventListener('click', copyResultText);
+  document.getElementById('copyVisibleResultBtn').addEventListener('click', copyVisibleResultText);
+  document.getElementById('copyTableResultBtn').addEventListener('click', copyTitleResultTable);
+  document.querySelectorAll('[data-title-filter]').forEach(button => {
+    button.addEventListener('click', () => setTitleFilterMode(button.dataset.titleFilter));
+  });
   document.getElementById('titleInput').addEventListener('keydown', e => {
     if (e.key === 'Enter' && e.ctrlKey) searchAndValidateArtists();
   });

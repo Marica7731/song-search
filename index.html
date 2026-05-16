@@ -710,7 +710,7 @@
             <button class="btn" data-copy-preset="titleArtistLink">复制本页：歌名 - 歌手 链接</button>
             <button class="btn" data-copy-preset="tsv">复制本页 TSV</button>
             <button id="copyAllBtn" class="btn">复制全部结果</button>
-            <button id="toggleCustomCopy" class="btn">自定义字段</button>
+            <button id="toggleCustomCopy" class="btn" aria-expanded="false" aria-controls="customCopy">自定义字段</button>
           </div>
           <div id="customCopy" class="copy-custom">
             <label class="check-chip"><input type="checkbox" data-copy-field="title" checked>歌名</label>
@@ -761,6 +761,10 @@
       summary: {},
       controller: null,
       lastRequest: 0
+    };
+    const STORAGE_KEYS = {
+      filters: 'culua-home-filters-v1',
+      copy: 'culua-home-copy-v1'
     };
 
     const $ = (selector) => document.querySelector(selector);
@@ -842,6 +846,95 @@
       toast.classList.add('show');
       clearTimeout(showToast.timer);
       showToast.timer = setTimeout(() => toast.classList.remove('show'), 1600);
+    }
+
+    function readJsonStorage(key) {
+      try {
+        return JSON.parse(localStorage.getItem(key) || 'null') || {};
+      } catch {
+        return {};
+      }
+    }
+
+    function writeJsonStorage(key, value) {
+      try {
+        localStorage.setItem(key, JSON.stringify(value));
+      } catch {
+        // localStorage may be blocked in privacy modes; the page should still work.
+      }
+    }
+
+    function syncFieldChips() {
+      $$('#fieldChips [data-field]').forEach(item => item.classList.toggle('active', state.fields.has(item.dataset.field)));
+    }
+
+    function syncPageSizeSegments() {
+      $$('.segment').forEach(btn => btn.classList.toggle('active', Number(btn.dataset.pageSize) === state.pageSize));
+    }
+
+    function saveHomeFilters() {
+      writeJsonStorage(STORAGE_KEYS.filters, {
+        source: state.source,
+        sort: state.sort,
+        pageSize: state.pageSize,
+        fields: Array.from(state.fields)
+      });
+    }
+
+    function restoreHomeFilters(params) {
+      const saved = readJsonStorage(STORAGE_KEYS.filters);
+      if (!params.has('source') && typeof saved.source === 'string') {
+        state.source = saved.source || 'all';
+      }
+      if (!params.has('sort') && typeof saved.sort === 'string') {
+        state.sort = ['pubdate_desc', 'pubdate_asc'].includes(saved.sort) ? saved.sort : 'pubdate_desc';
+      }
+      if (!params.has('pageSize') && saved.pageSize) {
+        state.pageSize = Math.max(20, Math.min(80, Number(saved.pageSize || 40)));
+      }
+      if (Array.isArray(saved.fields) && saved.fields.length > 0) {
+        const nextFields = saved.fields.filter(field => ['title', 'artist', 'collection', 'source', 'bvid', 'pubdate'].includes(field));
+        if (nextFields.length) state.fields = new Set(nextFields);
+      }
+    }
+
+    function saveCopySettings() {
+      const customCopy = $('#customCopy');
+      writeJsonStorage(STORAGE_KEYS.copy, {
+        fields: getCopyFields(),
+        validOnly: !!$('[data-copy-valid]')?.checked,
+        separator: getCopySeparator(),
+        format: getCopyFormat(),
+        customOpen: !!customCopy?.classList.contains('open')
+      });
+    }
+
+    function restoreCopySettings() {
+      const saved = readJsonStorage(STORAGE_KEYS.copy);
+      if (Array.isArray(saved.fields) && saved.fields.length > 0) {
+        const fieldSet = new Set(saved.fields);
+        $$('[data-copy-field]').forEach(input => {
+          input.checked = fieldSet.has(input.dataset.copyField);
+        });
+      }
+      const validInput = $('[data-copy-valid]');
+      if (validInput && typeof saved.validOnly === 'boolean') {
+        validInput.checked = saved.validOnly;
+      }
+      const separator = $('#copySeparator');
+      if (separator && typeof saved.separator === 'string') {
+        separator.value = saved.separator || ' ';
+      }
+      const format = $('#copyFormat');
+      if (format && (saved.format === 'text' || saved.format === 'tsv')) {
+        format.value = saved.format;
+      }
+      const customCopy = $('#customCopy');
+      const toggle = $('#toggleCustomCopy');
+      if (customCopy && toggle && saved.customOpen) {
+        customCopy.classList.add('open');
+        toggle.setAttribute('aria-expanded', 'true');
+      }
     }
 
     function buildSourceOptions(filter = '') {
@@ -936,9 +1029,11 @@
       state.sort = params.get('sort') || 'pubdate_desc';
       state.page = Math.max(1, Number(params.get('page') || '1'));
       state.pageSize = Math.max(20, Math.min(80, Number(params.get('pageSize') || '40')));
+      restoreHomeFilters(params);
       $('#q').value = state.q;
       $('#sort').value = state.sort;
-      $$('.segment').forEach(btn => btn.classList.toggle('active', Number(btn.dataset.pageSize) === state.pageSize));
+      syncPageSizeSegments();
+      syncFieldChips();
     }
 
     function activeFieldsParam() {
@@ -959,12 +1054,14 @@
       };
       renderSources();
       renderMetrics();
+      saveHomeFilters();
     }
 
     async function runSearch({ keepPage = false } = {}) {
       if (!keepPage) state.page = 1;
       state.q = $('#q').value.trim();
       state.sort = $('#sort').value;
+      saveHomeFilters();
       const requestId = ++state.lastRequest;
       if (state.controller) state.controller.abort();
       state.controller = new AbortController();
@@ -1115,11 +1212,13 @@
         if (!btn) return;
         state.source = btn.dataset.source;
         renderSources($('#sourceFilter').value);
+        saveHomeFilters();
         runSearch();
       });
       $('#sourceMobile').addEventListener('change', event => {
         state.source = event.target.value;
         renderSources($('#sourceFilter').value);
+        saveHomeFilters();
         runSearch();
       });
       $('#fieldChips').addEventListener('click', event => {
@@ -1129,12 +1228,14 @@
         if (state.fields.has(field)) state.fields.delete(field);
         else state.fields.add(field);
         if (state.fields.size === 0) state.fields.add('title');
-        $$('#fieldChips [data-field]').forEach(item => item.classList.toggle('active', state.fields.has(item.dataset.field)));
+        syncFieldChips();
+        saveHomeFilters();
         runSearch();
       });
       $$('.segment').forEach(btn => btn.addEventListener('click', () => {
         state.pageSize = Number(btn.dataset.pageSize);
-        $$('.segment').forEach(item => item.classList.toggle('active', item === btn));
+        syncPageSizeSegments();
+        saveHomeFilters();
         runSearch();
       }));
       $('#pagination').addEventListener('click', event => {
@@ -1154,12 +1255,20 @@
       $('#copyAllBtn').addEventListener('click', () => copyAllResults().catch(error => {
         setStatus(`复制失败：${error.message}`, true);
       }));
-      $('#toggleCustomCopy').addEventListener('click', () => $('#customCopy').classList.toggle('open'));
+      $('#toggleCustomCopy').addEventListener('click', () => {
+        const customCopy = $('#customCopy');
+        const isOpen = customCopy.classList.toggle('open');
+        $('#toggleCustomCopy').setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+        saveCopySettings();
+      });
+      $('#customCopy').addEventListener('change', saveCopySettings);
+      $('#copySeparator').addEventListener('input', saveCopySettings);
     }
 
     async function init() {
       try {
         readUrl();
+        restoreCopySettings();
         bindEvents();
         await loadBootstrap();
         if (!state.files.includes(state.source) && state.source !== 'all') state.source = 'all';

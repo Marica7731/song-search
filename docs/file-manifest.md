@@ -8,15 +8,15 @@
 |---|---|---|---|
 | `README.md` | 项目入口说明 | 说明功能、运行方式、测试方式、维护边界和文档索引 | 链接 `docs/migration-handoff.md`、`docs/culua-server-guide.md`、`docs/site-optimization-plan.md`、`docs/tabs-optimization-plan.md`、`docs/file-manifest.md` 与 `docs/add-source-prompt.md` |
 | `.gitignore` | 本地忽略规则 | 忽略运行缓存、日志、临时截图、下载目录、runtime、`.env` | 防止本地开发产物进入后续提交；不取消已跟踪文件 |
-| `index.html` | 优化版首页与歌曲检索页 | 可搜索来源、搜索范围切换、服务端分页、复制预设、自定义复制、稳定行级复制、移动端 H5 布局 | 读取 `/api/bootstrap`、`/api/search`；行内复制使用服务端 `rowId`；复制全部调用 `/api/search/export` |
+| `index.html` | 优化版首页与歌曲检索页 | 可搜索来源、搜索范围切换、服务端分页、筛选偏好记忆、复制预设、自定义复制记忆、稳定行级复制、移动端 H5 布局 | 读取 `/api/bootstrap`、`/api/search`；行内复制使用服务端 `rowId`；复制全部调用 `/api/search/export`；本地偏好写入浏览器 `localStorage` |
 | `index-optimized.html` | 首页优化对照文件 | 与 `index.html` 保持同源，便于后续继续调样式或回看优化方案 | 配合 `docs/site-optimization-plan.md`；正式入口仍是 `index.html` |
 | `tabs-optimization-preview.html` | 六个主 tab 的优化方案预览 | 展示首页、数据、BV 查重、歌名歌手查重、命名工具、日报的目标布局、优化优先级、移动端形态和实时后端概览 | 配合 `docs/tabs-optimization-plan.md`；读取 `/api/tabs/overview`，不替换正式页面 |
-| `stats.html` | 数据统计页 | 展示来源、歌手、曲目、投稿时间等统计视图 | 优先请求 `/api/stats/view`，服务端不可用时回退本地数据 |
-| `bv-dup-check.html` | BV 查重页面 | 接收 BV 列表，输出已存在和未命中的结果，提供复制预设入口 | 依赖 `dup-check-core.js` 与 `artist-match.js`；服务端 `/api/dup-check` 限制未知 BV live fallback |
-| `title-artist-dup-check.html` | 歌名歌手查重页面 | 批量检查“歌名 - 歌手”是否已入库，展示歌手疑似不一致分组，提供复制预设入口 | 依赖 `dup-check-core.js` 与 `artist-match.js` |
-| `title-artist-check.html` | 命名和校验工具 | 校验歌名歌手组合，提供改名重查、搜索辅助和候选摘要 | 依赖 `bili-check-title-artist.js`、`page-directory-widget.js`；服务端 `/api/title-artist/lookup` 返回 summary |
+| `stats.html` | 数据统计页 | 展示来源、歌手、曲目、投稿时间等统计视图，并记住 tab、来源、关键词和摘要链接数 | 优先请求 `/api/stats/view`，服务端不可用时回退本地数据；本地视图偏好写入浏览器 `localStorage` |
+| `bv-dup-check.html` | BV 查重页面 | 接收 BV 列表，输出已存在和未命中的结果，提供复制预设入口和折叠式高级复制字段 | 依赖 `dup-check-core.js` 与 `artist-match.js`；服务端 `/api/dup-check` 限制未知 BV live fallback |
+| `title-artist-dup-check.html` | 歌名歌手查重页面 | 批量检查“歌名 - 歌手”是否已入库，展示歌手疑似不一致分组，提供复制预设入口和折叠式高级复制字段 | 依赖 `dup-check-core.js` 与 `artist-match.js` |
+| `title-artist-check.html` | 命名和校验工具 | 校验歌名歌手组合，提供改名重查、搜索辅助、候选摘要、结果筛选和 TSV 复制 | 依赖 `bili-check-title-artist.js`、`page-directory-widget.js`；服务端 `/api/title-artist/lookup` 返回 summary |
 | `bili-check.html` | 旧综合页 | 保留旧版综合检查入口 | 与新拆分页面共享部分解析和查重逻辑 |
-| `song-growth.html` | 歌曲总量日报页 | 展示曲库总量、日增、按投稿时间增长 | 由 `scripts/update-song-growth.js` 更新；读取 `/api/song-growth` 的 `combinedRows`、`anomalies` 和缓存元信息 |
+| `song-growth.html` | 歌曲总量日报页 | 展示曲库总量、日增、按投稿时间增长，支持复制当前区间摘要和当前表格页 TSV | 由 `scripts/update-song-growth.js` 更新；读取 `/api/song-growth` 的 `combinedRows`、`anomalies` 和缓存元信息 |
 | `converter.html` | 辅助转换页 | 提供文本或格式转换辅助 | 独立静态页，共用站点样式 |
 | `admin-singer-config.html` | 来源配置后台 | 管理员维护来源/BV 配置并触发刷新 | 依赖服务端管理接口、`admin-refresh-control.js` 和 hash token |
 | `site-theme.css` | 共享样式 | 页面布局、表格、按钮、状态提示、响应式样式 | 被多个 HTML 页面引用 |
@@ -29,8 +29,8 @@
 | 文件路径 | 文件用途 | 主要函数或模块职责 | 与其他文件的关系 |
 |---|---|---|---|
 | `artist-match.js` | 歌手宽容匹配逻辑 | `normalizeString`、假名/罗马音转换、`areArtistsCompatible`、`isSameSong` | 被浏览器页面、`server.js`、`scripts/check-song-library.js` 共用 |
-| `dup-check-core.js` | 查重公共逻辑 | 读取歌库、解析 BV 或歌名歌手输入、查重、分组渲染、复制预设、AI 辅助复制、安全转义结果文本 | 被 `bv-dup-check.html` 和 `title-artist-dup-check.html` 复用 |
-| `bili-check-title-artist.js` | 命名/校验辅助 | 解析输入、请求标题查询、生成候选歌手、生成校验结果文本、安全转义候选内容 | 被 `title-artist-check.html` 和旧综合页相关流程使用 |
+| `dup-check-core.js` | 查重公共逻辑 | 读取歌库、解析 BV 或歌名歌手输入、查重、分组渲染、复制预设、复制设置持久化、AI 辅助复制、安全转义结果文本 | 被 `bv-dup-check.html` 和 `title-artist-dup-check.html` 复用 |
+| `bili-check-title-artist.js` | 命名/校验辅助 | 解析输入、请求标题查询、生成候选歌手、按状态筛选候选、生成校验结果文本和 TSV 表格、安全转义候选内容 | 被 `title-artist-check.html` 和旧综合页相关流程使用 |
 
 ## 服务端
 

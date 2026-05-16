@@ -231,6 +231,7 @@ function createRetitleTools(item, index) {
   titleInput.style.border = '1px solid #ddd';
   titleInput.style.borderRadius = '6px';
   titleInput.style.fontSize = '13px';
+  titleInput.style.minHeight = '34px';
 
   const artistInput = document.createElement('input');
   artistInput.type = 'text';
@@ -242,6 +243,7 @@ function createRetitleTools(item, index) {
   artistInput.style.border = '1px solid #ddd';
   artistInput.style.borderRadius = '6px';
   artistInput.style.fontSize = '13px';
+  artistInput.style.minHeight = '34px';
 
   const suggestionList = document.createElement('datalist');
   const datalistId = `titleSuggestion-${index}-${Date.now()}`;
@@ -261,7 +263,7 @@ function createRetitleTools(item, index) {
     } else {
       suggestions = getTitleSuggestions(currentTitle);
     }
-    suggestionList.innerHTML = suggestions.map(name => `<option value="${name.replace(/"/g, '&quot;')}"></option>`).join('');
+    suggestionList.innerHTML = suggestions.map(name => `<option value="${escapeHtml(name)}"></option>`).join('');
   };
 
   const retryBtn = document.createElement('button');
@@ -331,6 +333,9 @@ function createRetitleTools(item, index) {
   link.target = '_blank';
   link.rel = 'noopener noreferrer';
   link.textContent = '网易云搜索';
+  link.style.display = 'inline-flex';
+  link.style.alignItems = 'center';
+  link.style.minHeight = '34px';
   link.style.color = '#00a1d6';
   link.style.fontSize = '12px';
   link.style.textDecoration = 'none';
@@ -422,6 +427,7 @@ async function searchAndValidateArtists() {
 
   titleSearchResults = [];
   selectedArtists = {};
+  titleFilterMode = 'all';
 
   if (isApiMode) {
     try {
@@ -449,11 +455,73 @@ async function searchAndValidateArtists() {
   generateResultText();
 }
 
+function isTitleItemNeedsReview(item) {
+  if (!item || !item.hasResult) return false;
+  if (inputFormatType === 'full' && item.inputArtist?.trim() && !item.isArtistValid) return true;
+  return Array.isArray(item.artistNames) && item.artistNames.length > 1;
+}
+
+function getTitleItemStatus(item) {
+  if (!item?.hasResult) return '未找到';
+  if (inputFormatType === 'full' && item.inputArtist?.trim()) {
+    return item.isArtistValid ? '歌手验证通过' : '歌手需确认';
+  }
+  if (Array.isArray(item.artistNames) && item.artistNames.length > 1) return '多候选';
+  return '已确认';
+}
+
+function matchesTitleFilter(item) {
+  const mode = typeof titleFilterMode === 'string' ? titleFilterMode : 'all';
+  if (mode === 'missing') return !item?.hasResult;
+  if (mode === 'review') return isTitleItemNeedsReview(item);
+  return true;
+}
+
+function getTitleResultEntries({ visibleOnly = true } = {}) {
+  return titleSearchResults
+    .map((item, index) => ({ item, index }))
+    .filter(entry => !visibleOnly || matchesTitleFilter(entry.item));
+}
+
+function renderTitleFilterBar() {
+  const bar = document.getElementById('titleFilterBar');
+  if (!bar) return;
+  const total = titleSearchResults.length;
+  const reviewCount = titleSearchResults.filter(isTitleItemNeedsReview).length;
+  const missingCount = titleSearchResults.filter(item => !item.hasResult).length;
+  const visibleCount = getTitleResultEntries().length;
+  bar.classList.toggle('active', total > 0);
+  bar.querySelectorAll('[data-title-filter]').forEach(button => {
+    button.classList.toggle('active', button.dataset.titleFilter === titleFilterMode);
+  });
+  const summary = document.getElementById('titleFilterSummary');
+  if (summary) {
+    summary.textContent = `当前 ${visibleCount} / ${total} 条 · 需确认 ${reviewCount} · 未找到 ${missingCount}`;
+  }
+}
+
+function setTitleFilterMode(mode) {
+  titleFilterMode = ['all', 'review', 'missing'].includes(mode) ? mode : 'all';
+  renderArtistSelectWithValidation();
+  generateResultText();
+}
+
 function renderArtistSelectWithValidation() {
   const container = document.getElementById('artistSelectContainer');
   container.innerHTML = '';
+  renderTitleFilterBar();
 
-  titleSearchResults.forEach((item, index) => {
+  const entries = getTitleResultEntries();
+  if (entries.length === 0) {
+    const empty = document.createElement('div');
+    empty.className = 'select-item';
+    empty.textContent = '当前筛选下没有需要展示的结果';
+    container.appendChild(empty);
+    notifyNamingToolDirectoryRefresh();
+    return;
+  }
+
+  entries.forEach(({ item, index }) => {
     const selectItem = document.createElement('div');
     selectItem.className = 'select-item';
 
@@ -561,29 +629,62 @@ function renderArtistSelectWithValidation() {
 }
 
 function generateResultText() {
-  let result = '';
-  titleSearchResults.forEach((item, index) => {
-    const num = (index + 1).toString().padStart(2, '0');
-    const artist = selectedArtists[item.title] || '';
-    result += `${num}. ${item.title} ${artist ? '- ' + artist : ''}\n`;
-  });
-
-  document.getElementById('resultText').value = result.trim();
+  document.getElementById('resultText').value = buildResultText(getTitleResultEntries()).trim();
 }
 
-function copyResultText() {
-  const resultText = document.getElementById('resultText').value.trim();
-  if (!resultText) {
+function buildResultText(entries) {
+  return entries.map(({ item, index }) => {
+    const num = (index + 1).toString().padStart(2, '0');
+    const artist = selectedArtists[item.title] || '';
+    return `${num}. ${item.title} ${artist ? '- ' + artist : ''}`;
+  }).join('\n');
+}
+
+function buildResultTable(entries) {
+  const header = ['序号', '歌名', '选择歌手', '输入歌手', '状态', '库中候选'];
+  const body = entries.map(({ item, index }) => {
+    const selectedArtist = selectedArtists[item.title] || '';
+    return [
+      String(index + 1).padStart(2, '0'),
+      item.title || '',
+      selectedArtist,
+      item.inputArtist || '',
+      getTitleItemStatus(item),
+      Array.isArray(item.artistNames) ? item.artistNames.join(' / ') : ''
+    ].map(value => String(value ?? '').replace(/\t/g, ' ').replace(/\r?\n/g, ' ')).join('\t');
+  });
+  return [header.join('\t')].concat(body).join('\n');
+}
+
+async function writeTitleClipboard(text) {
+  const content = String(text || '').trim();
+  if (!content) {
     alert('暂无结果可复制！');
     return;
   }
 
-  navigator.clipboard.writeText(resultText)
-    .then(() => {
-      showCopyToast();
-    })
-    .catch(err => {
-      console.error('复制失败:', err);
-      alert('复制失败，请手动复制！');
-    });
+  try {
+    await navigator.clipboard.writeText(content);
+  } catch (err) {
+    console.error('复制失败:', err);
+    const area = document.createElement('textarea');
+    area.value = content;
+    document.body.appendChild(area);
+    area.select();
+    document.execCommand('copy');
+    area.remove();
+  }
+  showCopyToast();
+}
+
+function copyResultText() {
+  writeTitleClipboard(buildResultText(getTitleResultEntries({ visibleOnly: false })));
+}
+
+function copyVisibleResultText() {
+  writeTitleClipboard(buildResultText(getTitleResultEntries()));
+}
+
+function copyTitleResultTable() {
+  writeTitleClipboard(buildResultTable(getTitleResultEntries()));
 }

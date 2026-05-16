@@ -37,6 +37,10 @@
       font-size: 14px;
     }
     .nav a {
+      display: inline-flex;
+      align-items: center;
+      min-height: 34px;
+      padding: 0 4px;
       color: #00a1d6;
       text-decoration: none;
       font-weight: 600;
@@ -111,6 +115,7 @@
       color: #335;
       cursor: pointer;
       padding: 6px 12px;
+      min-height: 34px;
       border-radius: 999px;
       font-size: 13px;
     }
@@ -118,6 +123,25 @@
       background: #00a1d6;
       color: #fff;
       border-color: #00a1d6;
+    }
+    .copy-toast {
+      position: fixed;
+      right: 24px;
+      bottom: 78px;
+      z-index: 3001;
+      padding: 10px 14px;
+      border-radius: 8px;
+      background: rgba(15, 23, 42, .88);
+      color: #fff;
+      font-size: 13px;
+      opacity: 0;
+      pointer-events: none;
+      transform: translateY(8px);
+      transition: all .2s;
+    }
+    .copy-toast.show {
+      opacity: 1;
+      transform: translateY(0);
     }
     .chart-wrap {
       position: relative;
@@ -284,6 +308,7 @@
     }
     .pager-btn {
       padding: 6px 10px;
+      min-height: 34px;
       border: 1px solid #d6e3ef;
       background: #fff;
       border-radius: 8px;
@@ -300,6 +325,7 @@
     .pager-input {
       width: 72px;
       padding: 6px 8px;
+      min-height: 34px;
       border: 1px solid #d6e3ef;
       border-radius: 8px;
       background: #fff;
@@ -331,6 +357,8 @@
     @media (max-width: 980px) {
       body { padding: 16px 12px }
       .summary-board { grid-template-columns: 1fr }
+      .metric-select { width: 100% }
+      .range-btn { flex: 1 1 auto }
     }
   </style>
 </head>
@@ -387,6 +415,8 @@
       <button class="range-btn" data-range="90">近90天</button>
       <button class="range-btn" data-range="180">近180天</button>
       <button class="range-btn" data-range="all">全部</button>
+      <button class="range-btn" id="copyGrowthSummaryBtn" type="button">复制摘要</button>
+      <button class="range-btn" id="copyGrowthTableBtn" type="button">复制当前表格</button>
     </div>
 
     <div class="chart-wrap">
@@ -439,6 +469,7 @@
   </div>
 
   <button class="back-top" id="backTopBtn" type="button" aria-label="回到顶部">↑</button>
+  <div class="copy-toast" id="copyToast">已复制</div>
 
   <script>
     const chartCanvas = document.getElementById('growthChart');
@@ -457,6 +488,9 @@
     const analysisNote = document.getElementById('analysisNote');
     const analysisCards = document.getElementById('analysisCards');
     const analysisText = document.getElementById('analysisText');
+    const copyGrowthSummaryBtn = document.getElementById('copyGrowthSummaryBtn');
+    const copyGrowthTableBtn = document.getElementById('copyGrowthTableBtn');
+    const copyToast = document.getElementById('copyToast');
 
     const growthData = { rows: [] };
     let currentRange = '30';
@@ -572,6 +606,12 @@
       const days = Number(currentRange);
       if (!days || days <= 0) return rows.slice();
       return rows.slice(-days);
+    }
+
+    function getCurrentTableRows() {
+      const rows = growthData.rows.slice().reverse();
+      const start = (currentPage - 1) * pageSize;
+      return rows.slice(start, start + pageSize);
     }
 
     function getMetricLabels() {
@@ -1058,6 +1098,68 @@
       goPageBtn.disabled = totalPages <= 1;
     }
 
+    function showCopyToast(text = '已复制') {
+      copyToast.textContent = text;
+      copyToast.classList.add('show');
+      clearTimeout(showCopyToast.timer);
+      showCopyToast.timer = setTimeout(() => copyToast.classList.remove('show'), 1600);
+    }
+
+    async function writeClipboard(text) {
+      const content = String(text || '').trim();
+      if (!content) {
+        showCopyToast('没有可复制内容');
+        return;
+      }
+      try {
+        await navigator.clipboard.writeText(content);
+      } catch {
+        const area = document.createElement('textarea');
+        area.value = content;
+        document.body.appendChild(area);
+        area.select();
+        document.execCommand('copy');
+        area.remove();
+      }
+      showCopyToast();
+    }
+
+    function buildGrowthSummaryText() {
+      const rows = getRangeRows();
+      if (!rows.length) return '';
+      const first = rows[0];
+      const latest = rows[rows.length - 1];
+      const viewDelta = parseNumber(latest.viewTotal) - parseNumber(first.viewTotal);
+      const songDelta = parseNumber(latest.songTotal) - parseNumber(first.songTotal);
+      const dailyViewSum = rows.reduce((sum, row) => sum + parseNumber(row.viewDelta), 0);
+      const dailySongSum = rows.reduce((sum, row) => sum + parseNumber(row.songDelta), 0);
+      const focus = getFocusedMetricMeta();
+      const lines = [
+        `歌曲增长日报：${first.date} 至 ${latest.date}（${rows.length} 天）`,
+        `最新累计：播放 ${numberText(latest.viewTotal)} · 曲目 ${numberText(latest.songTotal)} · 商值 ${ratioText(ratioValue(latest.viewTotal, latest.songTotal))}`,
+        `区间变化：累计播放 ${metricDeltaText('view', viewDelta)} · 累计曲目 ${metricDeltaText('song', songDelta)}`,
+        `区间当日合计：播放 ${numberText(dailyViewSum)} · 曲目 ${numberText(dailySongSum)} · 商值 ${ratioText(ratioValue(dailyViewSum, dailySongSum))}`,
+        `当前视图：${currentMetricGroup === 'delta' ? '当日总量' : '累计总量'} / ${focus ? focus.label : '总览对比'}`
+      ];
+      const note = analysisText.textContent.trim();
+      if (note) lines.push(`趋势：${note}`);
+      return lines.join('\n');
+    }
+
+    function buildGrowthTableText() {
+      const header = ['日期', '累计总播放', '累计总曲目', '累计商值', '当日播放量', '当日曲目增量', '当日商值'];
+      const body = getCurrentTableRows().map(row => [
+        row.date,
+        parseNumber(row.viewTotal),
+        parseNumber(row.songTotal),
+        ratioText(ratioValue(row.viewTotal, row.songTotal)),
+        parseNumber(row.viewDelta),
+        parseNumber(row.songDelta),
+        ratioText(ratioValue(row.viewDelta, row.songDelta))
+      ].join('\t'));
+      return [header.join('\t')].concat(body).join('\n');
+    }
+
     function goToPage(targetPage) {
       const rows = growthData.rows.slice().reverse();
       const totalPages = Math.max(1, Math.ceil(rows.length / pageSize));
@@ -1075,9 +1177,9 @@
     }
 
     function bindEvents() {
-      document.querySelectorAll('.range-btn').forEach(btn => {
+      document.querySelectorAll('[data-range]').forEach(btn => {
         btn.addEventListener('click', () => {
-          document.querySelectorAll('.range-btn').forEach(item => item.classList.remove('active'));
+          document.querySelectorAll('[data-range]').forEach(item => item.classList.remove('active'));
           btn.classList.add('active');
           currentRange = btn.dataset.range;
           drawChart();
@@ -1103,6 +1205,8 @@
       pageInput.addEventListener('keydown', event => {
         if (event.key === 'Enter') goToPage(pageInput.value);
       });
+      copyGrowthSummaryBtn.addEventListener('click', () => writeClipboard(buildGrowthSummaryText()));
+      copyGrowthTableBtn.addEventListener('click', () => writeClipboard(buildGrowthTableText()));
 
       chartCanvas.addEventListener('mouseleave', hideTooltip);
       chartCanvas.addEventListener('mousemove', event => {

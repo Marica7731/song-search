@@ -158,6 +158,93 @@ function getCopySeparator() {
   return separator;
 }
 
+const DUP_COPY_CHECK_IDS = [
+  'copyOnlyUnique',
+  'copyOriginal',
+  'copyTitle',
+  'copyArtist',
+  'copySource',
+  'copyLink',
+  'copyBvid',
+  'copyDupCount',
+  'copyStatus',
+  'copyText',
+  'copyTable'
+];
+const DUP_COPY_VALUE_IDS = ['copySeparator', 'copyDupIndex', 'copyDupOrder'];
+
+function getDupCopyStorageKey() {
+  return `culua-dup-copy-${currentMode}-v1`;
+}
+
+function readDupCopySettings() {
+  try {
+    return JSON.parse(localStorage.getItem(getDupCopyStorageKey()) || 'null') || {};
+  } catch {
+    return {};
+  }
+}
+
+function saveDupCopySettings() {
+  const checks = {};
+  DUP_COPY_CHECK_IDS.forEach(id => {
+    const el = document.getElementById(id);
+    if (el) checks[id] = !!el.checked;
+  });
+
+  const values = {};
+  DUP_COPY_VALUE_IDS.forEach(id => {
+    const el = document.getElementById(id);
+    if (el) values[id] = el.value;
+  });
+
+  try {
+    localStorage.setItem(getDupCopyStorageKey(), JSON.stringify({
+      checks,
+      values,
+      advancedOpen: !!document.getElementById('copyAdvancedFields')?.open
+    }));
+  } catch {
+    // Storage is optional; keep the current session usable if it is blocked.
+  }
+}
+
+function restoreDupCopySettings() {
+  const saved = readDupCopySettings();
+  const checks = saved.checks || {};
+  DUP_COPY_CHECK_IDS.forEach(id => {
+    const el = document.getElementById(id);
+    if (el && typeof checks[id] === 'boolean') {
+      el.checked = checks[id];
+    }
+  });
+
+  const values = saved.values || {};
+  DUP_COPY_VALUE_IDS.forEach(id => {
+    const el = document.getElementById(id);
+    if (el && typeof values[id] === 'string') {
+      el.value = values[id];
+    }
+  });
+
+  const advanced = document.getElementById('copyAdvancedFields');
+  if (advanced && typeof saved.advancedOpen === 'boolean') {
+    advanced.open = saved.advancedOpen;
+  }
+}
+
+function bindDupCopySettingsPersistence() {
+  const controls = document.querySelector('.copy-controls');
+  if (!controls) return;
+  controls.addEventListener('change', saveDupCopySettings);
+  controls.addEventListener('input', event => {
+    if (DUP_COPY_VALUE_IDS.includes(event.target?.id)) {
+      saveDupCopySettings();
+    }
+  });
+  document.getElementById('copyAdvancedFields')?.addEventListener('toggle', saveDupCopySettings);
+}
+
 function getResultStatusText(item) {
   if (!item) return '';
   if (item.isNotFound) return '未找到';
@@ -884,6 +971,7 @@ function applyCopyPreset(preset) {
     if (separator) separator.value = '\\t';
   }
 
+  saveDupCopySettings();
   copyResults();
 }
 
@@ -937,6 +1025,8 @@ async function copyResultsWithAi() {
 
 function initDupCheckPage(mode) {
   currentMode = mode;
+  restoreDupCopySettings();
+  bindDupCopySettingsPersistence();
   loadAllData();
 
   document.getElementById('searchBtn')?.addEventListener('click', () => {

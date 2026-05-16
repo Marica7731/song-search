@@ -32,6 +32,10 @@
             font-size: 14px;
         }
         .nav-link {
+            display: inline-flex;
+            align-items: center;
+            min-height: 34px;
+            padding: 0 4px;
             color: #00a1d6;
             text-decoration: none;
             font-weight: 600;
@@ -306,6 +310,7 @@
         /* --- 通用：展开/收起按钮 --- */
         .toggle-btn {
             padding: 6px 14px;
+            min-height: 36px;
             border: 1px solid #e9ecef;
             border-radius: 8px;
             background: white;
@@ -328,7 +333,9 @@
             border-top: 1px dashed #f1f3f5;
         }
         .perf-link-small {
-            display: inline-block;
+            display: inline-flex;
+            align-items: center;
+            min-height: 34px;
             padding: 6px 12px;
             background: #f8f9fa;
             border: 1px solid #d0d7de;
@@ -656,6 +663,7 @@
         /* --- 复制按钮样式 --- */
         .copy-btn {
             padding: 6px 14px;
+            min-height: 34px;
             border: 1px solid #d0d7de;
             border-radius: 6px;
             background: #ffffff;
@@ -904,6 +912,7 @@
         let localTitleSourceVersion = -1;
         let staticFallbackPromise = null;
         let statsViewRequestSeq = 0;
+        const STATS_VIEW_PREFS_KEY = 'culua-stats-view-v1';
 
         // 当前复制相关
         let currentCopyData = null;
@@ -989,6 +998,53 @@
             const parsed = Number.parseInt(input?.value || '6', 10);
             if (Number.isNaN(parsed)) return 6;
             return Math.max(1, Math.min(20, parsed));
+        }
+
+        function readStoredStatsPrefs() {
+            try {
+                return JSON.parse(localStorage.getItem(STATS_VIEW_PREFS_KEY) || 'null') || {};
+            } catch {
+                return {};
+            }
+        }
+
+        function saveStatsViewPrefs() {
+            try {
+                localStorage.setItem(STATS_VIEW_PREFS_KEY, JSON.stringify({
+                    tab: activeTab,
+                    source: activeFilter,
+                    q: searchKeyword,
+                    summaryLinkLimit: getSummaryLinkLimit()
+                }));
+            } catch {
+                // Ignore storage failures; filtering and copying continue to work for this session.
+            }
+        }
+
+        function restoreStatsViewPrefs() {
+            const saved = readStoredStatsPrefs();
+            if (['vtuber-source', 'rank', 'artist'].includes(saved.tab)) {
+                activeTab = saved.tab;
+            }
+            if (typeof saved.source === 'string' && (saved.source === 'all' || fileNames.includes(saved.source))) {
+                activeFilter = saved.source;
+            }
+            if (typeof saved.q === 'string') {
+                searchKeyword = saved.q.trim();
+            }
+            const linkLimit = Number.parseInt(saved.summaryLinkLimit, 10);
+            if (!Number.isNaN(linkLimit)) {
+                const input = document.getElementById('summary-link-limit');
+                if (input) input.value = String(Math.max(1, Math.min(20, linkLimit)));
+            }
+            const searchInput = document.getElementById('search-input');
+            if (searchInput) searchInput.value = searchKeyword;
+            document.querySelectorAll('.tab-btn').forEach(button => {
+                button.classList.toggle('active', button.dataset.tab === activeTab);
+            });
+            document.querySelectorAll('.tab-content').forEach(content => {
+                content.classList.toggle('active', content.id === `tab-${activeTab}`);
+            });
         }
 
         function getLocalTitleSourceMap() {
@@ -1786,6 +1842,7 @@
             sourceSelect.onchange = () => {
                 activeFilter = sourceSelect.value;
                 currentRankPage = 1;
+                saveStatsViewPrefs();
                 updateAllViews();
             };
             sourcePicker.appendChild(sourceSelect);
@@ -2403,6 +2460,7 @@
             document.querySelector(`.tab-btn[data-tab="${tab}"]`).classList.add('active');
             document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
             document.getElementById(`tab-${tab}`).classList.add('active');
+            saveStatsViewPrefs();
             updateAllViews();
         }
 
@@ -2512,6 +2570,7 @@
                 }
 
                 document.getElementById('progress-msg').style.display = 'none';
+                restoreStatsViewPrefs();
                 
                 document.querySelectorAll('.tab-btn').forEach(btn => {
                     btn.addEventListener('click', () => switchTab(btn.dataset.tab));
@@ -2523,6 +2582,7 @@
                 const doSearch = () => {
                     searchKeyword = searchInput.value.trim();
                     currentRankPage = 1;
+                    saveStatsViewPrefs();
                     updateAllViews();
                 };
 
@@ -2530,6 +2590,7 @@
                 searchInput.addEventListener('keydown', (e) => {
                     if (e.key === 'Enter') doSearch();
                 });
+                document.getElementById('summary-link-limit')?.addEventListener('input', saveStatsViewPrefs);
 
                 // 模态框事件绑定
                 const modal = document.getElementById('copy-modal');
