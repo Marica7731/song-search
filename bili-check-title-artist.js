@@ -260,6 +260,7 @@ function createRetitleTools(item, index) {
   const artistInput = document.createElement('input');
   artistInput.type = 'text';
   artistInput.value = selectedArtists[getTitleSelectionKey(item)] || item.inputArtist || '';
+  artistInput.dataset.role = 'retitle-artist-input';
   artistInput.placeholder = '可修改歌手，或粘贴“歌名 - 歌手”';
   artistInput.style.flex = '1';
   artistInput.style.minWidth = '180px';
@@ -391,9 +392,13 @@ function createRetitleTools(item, index) {
   artistInput.addEventListener('change', refreshSearchLink);
   artistInput.addEventListener('change', applyCombinedInputFields);
   titleOnlyInput.addEventListener('change', refreshSearchLink);
+  tools.syncArtistValue = (artistName) => {
+    artistInput.value = artistName || '';
+    refreshSearchLink();
+  };
 
-  retryBtn.textContent = '按输入歌名重查';
-  applyArtistBtn.textContent = '应用输入歌手到结果';
+  retryBtn.textContent = '按修改值重查';
+  applyArtistBtn.textContent = '仅应用歌手';
 
   retryBtn.onclick = async () => {
     applyCombinedInputFields();
@@ -559,7 +564,7 @@ function setTitleFilterMode(mode) {
 }
 
 function updateNeteaseBatchState() {
-  const entries = getTitleResultEntries();
+  const entries = getNeteaseBatchEntries();
   const checkbox = document.getElementById('neteaseTitleOnly');
   const label = document.getElementById('neteaseTitleOnlyLabel');
   const button = document.getElementById('openNeteaseBatchBtn');
@@ -570,18 +575,36 @@ function updateNeteaseBatchState() {
   }
   if (label) {
     label.classList.toggle('disabled', !hasProvidedArtist);
-    label.title = hasProvidedArtist ? '' : '当前筛选结果里没有用户提供的歌手，该项不可勾选';
+    label.title = hasProvidedArtist ? '' : '当前待处理结果里没有用户提供的歌手，该项不可勾选';
   }
   if (button) {
     button.disabled = entries.length === 0;
-    button.textContent = entries.length > 0 ? `逐个打开网易云搜索（${entries.length}）` : '逐个打开网易云搜索';
+    button.textContent = entries.length > 0 ? `逐个打开待处理网易云搜索（${entries.length}）` : '逐个打开待处理网易云搜索';
+  }
+}
+
+function getNeteaseBatchEntries() {
+  return getTitleResultEntries().filter(({ item }) => getTitleItemStatusKind(item) !== 'ok');
+}
+
+function syncRetitleArtistInput(selectItem, artistName) {
+  if (!selectItem) return;
+  const tools = selectItem.querySelector('.retitle-tools');
+  if (tools && typeof tools.syncArtistValue === 'function') {
+    tools.syncArtistValue(artistName);
+    return;
+  }
+  const input = selectItem.querySelector('[data-role="retitle-artist-input"]');
+  if (input) {
+    input.value = artistName || '';
+    input.dispatchEvent(new Event('input', { bubbles: true }));
   }
 }
 
 function openVisibleNeteaseSearches() {
-  const entries = getTitleResultEntries();
+  const entries = getNeteaseBatchEntries();
   if (entries.length === 0) {
-    alert('当前筛选下没有可搜索的结果');
+    alert('当前可见结果里没有需要搜索的条目');
     return;
   }
   const titleOnly = !!document.getElementById('neteaseTitleOnly')?.checked;
@@ -641,6 +664,7 @@ function renderArtistSelectWithValidation() {
           selectedArtists[selectionKey] = item.inputArtist;
           optionsDiv.querySelectorAll('.artist-option').forEach(btn => btn.classList.remove('selected'));
           userBtn.classList.add('selected');
+          syncRetitleArtistInput(selectItem, item.inputArtist);
           setSelectItemDirectoryMeta(selectItem, item);
           notifyNamingToolDirectoryRefresh();
           generateResultText();
@@ -670,6 +694,7 @@ function renderArtistSelectWithValidation() {
           selectedArtists[selectionKey] = artist.name;
           optionsDiv.querySelectorAll('.artist-option').forEach(btn => btn.classList.remove('selected'));
           optionBtn.classList.add('selected');
+          syncRetitleArtistInput(selectItem, artist.name);
           setSelectItemDirectoryMeta(selectItem, item);
           notifyNamingToolDirectoryRefresh();
           generateResultText();
@@ -689,6 +714,7 @@ function renderArtistSelectWithValidation() {
           selectedArtists[selectionKey] = item.inputArtist;
           optionsDiv.querySelectorAll('.artist-option').forEach(btn => btn.classList.remove('selected'));
           errorBtn.classList.add('selected');
+          syncRetitleArtistInput(selectItem, item.inputArtist);
           setSelectItemDirectoryMeta(selectItem, item);
           notifyNamingToolDirectoryRefresh();
           generateResultText();
