@@ -19,8 +19,8 @@
 | `song-growth.html` | 歌曲总量日报页 | 展示曲库总量、日增、按投稿时间增长，支持复制当前区间摘要和当前表格页 TSV | 由 `scripts/update-song-growth.js` 更新；读取 `/api/song-growth` 的 `combinedRows`、`anomalies` 和缓存元信息 |
 | `converter.html` | 辅助转换页 | 提供文本或格式转换辅助 | 独立静态页，共用站点样式 |
 | `admin-singer-config.html` | 来源配置后台 | 管理员维护来源/BV 配置并触发刷新 | 依赖服务端管理接口、`admin-refresh-control.js` 和 hash token |
-| `site-theme.css` | 共享样式 | 页面布局、表格、按钮、状态提示、响应式样式 | 被多个 HTML 页面引用 |
-| `site-shell.js` | 正式工具页共享外壳 | 将数据、BV 查重、歌名歌手查重、命名工具和日报页面包进统一品牌侧栏、主导航和 H5 横向导航，并隐藏旧文字导航 | 被 `stats.html`、`bv-dup-check.html`、`title-artist-dup-check.html`、`title-artist-check.html`、`song-growth.html` 以 `defer` 引入；样式在 `site-theme.css` |
+| `site-theme.css` | 共享样式 | 页面布局、表格、按钮、状态提示、响应式样式 | 被多个 HTML 页面引用；正式工具页使用版本号查询串加载，避免线上缓存留在旧视觉 |
+| `site-shell.js` | 正式工具页共享外壳 | 将数据、BV 查重、歌名歌手查重、命名工具和日报页面包进统一品牌侧栏、主导航和 H5 横向导航，并隐藏旧文字导航 | 被 `stats.html`、`bv-dup-check.html`、`title-artist-dup-check.html`、`title-artist-check.html`、`song-growth.html` 以 `defer` 引入；样式在 `site-theme.css`，线上通过版本号查询串锁定同一批 UI 资源 |
 | `page-directory-widget.js` | 页面目录组件 | 生成浮动目录、移动端目录按钮、滚动定位 | 被长页面和校验工具复用 |
 | `last-run-badge.js` | 最近更新状态角标 | 读取更新元信息并展示“最近更新”时间，避免暴露 `update-songs` 等技术文案 | 读取 `/api/update-meta` 或相关后端数据 |
 | `admin-refresh-control.js` | 管理刷新控件 | 读取 token、显示刷新状态、触发服务端刷新 | 配合 `admin-singer-config.html` 和 `server.js` 管理接口 |
