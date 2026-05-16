@@ -395,22 +395,35 @@
       display: flex;
       gap: 6px;
       justify-content: flex-end;
+      align-items: center;
     }
 
     .icon-btn {
-      width: 34px;
-      height: 34px;
+      width: 36px;
+      height: 36px;
       border: 1px solid var(--line);
       border-radius: 8px;
       background: #fff;
       color: #334155;
-      font-weight: 800;
+      display: inline-grid;
+      place-items: center;
+      text-decoration: none;
     }
 
     .icon-btn:hover {
       border-color: var(--primary);
       color: var(--primary);
       background: var(--primary-soft);
+    }
+
+    .icon-btn svg {
+      width: 17px;
+      height: 17px;
+      stroke: currentColor;
+      stroke-width: 2;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
     }
 
     .pagination {
@@ -444,11 +457,39 @@
       gap: 10px;
     }
 
-    .copy-presets {
-      display: flex;
-      flex-wrap: wrap;
+    .copy-toolbar {
+      display: grid;
+      grid-template-columns: auto minmax(220px, 360px) auto auto;
       gap: 8px;
       align-items: center;
+    }
+
+    .copy-label {
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 800;
+    }
+
+    .copy-action-select {
+      width: 100%;
+      height: 38px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fff;
+      color: var(--text);
+      padding: 0 10px;
+    }
+
+    .copy-action-btn,
+    .copy-field-toggle {
+      height: 38px;
+      padding: 0 14px;
+    }
+
+    .copy-field-toggle[aria-expanded="true"] {
+      color: var(--primary);
+      border-color: #99d5cd;
+      background: var(--primary-soft);
     }
 
     .copy-custom {
@@ -489,6 +530,48 @@
       background: var(--panel-soft);
       color: #334155;
       font-weight: 600;
+    }
+
+    .field-copy {
+      max-width: 100%;
+      min-height: 32px;
+      display: inline-flex;
+      align-items: center;
+      border: 0;
+      background: transparent;
+      color: inherit;
+      padding: 1px 3px;
+      margin: -1px -3px;
+      border-radius: 6px;
+      font: inherit;
+      line-height: inherit;
+      text-align: left;
+      word-break: inherit;
+    }
+
+    .field-copy:hover,
+    .field-copy:focus-visible {
+      color: var(--primary);
+      background: var(--primary-soft);
+      outline: none;
+    }
+
+    .field-copy:focus-visible {
+      box-shadow: 0 0 0 3px rgba(15, 118, 110, 0.14);
+    }
+
+    .song-title .field-copy {
+      font-weight: 800;
+    }
+
+    .meta .field-copy {
+      min-height: 32px;
+      padding: 0 3px;
+      margin: 0 -3px;
+    }
+
+    .meta-separator {
+      color: var(--muted);
     }
 
     .empty {
@@ -585,7 +668,7 @@
       .mobile-source,
       .chip-row,
       .segmented,
-      .copy-presets,
+      .copy-toolbar,
       .results-header {
         width: min(100%, 366px);
         max-width: min(calc(100vw - 24px), 366px);
@@ -599,7 +682,7 @@
 
       .chip-row,
       .segmented,
-      .copy-presets {
+      .copy-toolbar {
         width: 100%;
         min-width: 0;
       }
@@ -619,9 +702,31 @@
         min-width: 0;
       }
 
-      .segmented .segment,
-      .copy-presets .btn {
+      .segmented .segment {
         width: 100%;
+      }
+
+      .copy-toolbar {
+        grid-template-columns: minmax(0, 1fr) auto auto;
+      }
+
+      .copy-label {
+        grid-column: 1 / -1;
+      }
+
+      .copy-action-select {
+        min-width: 0;
+      }
+
+      .copy-action-btn,
+      .copy-field-toggle {
+        width: auto;
+        min-width: 64px;
+        padding: 0 12px;
+      }
+
+      .field-copy {
+        min-height: 32px;
       }
 
       .toast {
@@ -705,12 +810,17 @@
         </div>
 
         <div class="copy-panel">
-          <div class="copy-presets">
-            <button class="btn" data-copy-preset="titleArtist">复制本页：歌名 - 歌手</button>
-            <button class="btn" data-copy-preset="titleArtistLink">复制本页：歌名 - 歌手 链接</button>
-            <button class="btn" data-copy-preset="tsv">复制本页 TSV</button>
-            <button id="copyAllBtn" class="btn">复制全部结果</button>
-            <button id="toggleCustomCopy" class="btn" aria-expanded="false" aria-controls="customCopy">自定义字段</button>
+          <div class="copy-toolbar" aria-label="复制工具">
+            <label class="copy-label" for="copyAction">复制</label>
+            <select id="copyAction" class="copy-action-select" aria-label="选择复制内容">
+              <option value="titleArtist">本页：歌名 - 歌手</option>
+              <option value="titleArtistLink">本页：歌名 - 歌手 + 链接</option>
+              <option value="tsv">本页 TSV</option>
+              <option value="all">全部结果</option>
+              <option value="custom">自定义字段</option>
+            </select>
+            <button id="copyActionBtn" class="btn primary copy-action-btn" type="button">复制</button>
+            <button id="toggleCustomCopy" class="btn copy-field-toggle" type="button" aria-expanded="false" aria-controls="customCopy">字段</button>
           </div>
           <div id="customCopy" class="copy-custom">
             <label class="check-chip"><input type="checkbox" data-copy-field="title" checked>歌名</label>
@@ -726,7 +836,6 @@
               <option value="text">纯文本</option>
               <option value="tsv">表格</option>
             </select>
-            <button class="btn" data-copy-preset="custom">复制自定义</button>
           </div>
         </div>
 
@@ -834,6 +943,25 @@
       }[ch]));
     }
 
+    function encodeCopyText(value) {
+      return encodeURIComponent(String(value ?? ''));
+    }
+
+    function copyableField(value, label, className = '') {
+      const text = String(value ?? '');
+      const display = text.trim() || '-';
+      return `<button type="button" class="field-copy ${className}" data-copy-value="${escapeHtml(encodeCopyText(text))}" title="复制${escapeHtml(label)}" aria-label="复制${escapeHtml(label)}">${escapeHtml(display)}</button>`;
+    }
+
+    function iconSvg(name) {
+      const icons = {
+        copy: '<rect x="9" y="9" width="11" height="11" rx="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>',
+        link: '<path d="M10 13a5 5 0 0 0 7.1 0l2-2a5 5 0 0 0-7.1-7.1l-1.1 1.1"></path><path d="M14 11a5 5 0 0 0-7.1 0l-2 2a5 5 0 0 0 7.1 7.1l1.1-1.1"></path>',
+        external: '<path d="M15 3h6v6"></path><path d="M10 14 21 3"></path><path d="M21 14v5a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5"></path>'
+      };
+      return `<svg viewBox="0 0 24 24" aria-hidden="true">${icons[name] || icons.copy}</svg>`;
+    }
+
     function setStatus(text, error = false) {
       const el = $('#status');
       el.textContent = text;
@@ -905,6 +1033,7 @@
         validOnly: !!$('[data-copy-valid]')?.checked,
         separator: getCopySeparator(),
         format: getCopyFormat(),
+        action: $('#copyAction')?.value || 'titleArtist',
         customOpen: !!customCopy?.classList.contains('open')
       });
     }
@@ -929,11 +1058,14 @@
       if (format && (saved.format === 'text' || saved.format === 'tsv')) {
         format.value = saved.format;
       }
+      const action = $('#copyAction');
+      if (action && ['titleArtist', 'titleArtistLink', 'tsv', 'all', 'custom'].includes(saved.action)) {
+        action.value = saved.action;
+      }
       const customCopy = $('#customCopy');
       const toggle = $('#toggleCustomCopy');
       if (customCopy && toggle && saved.customOpen) {
-        customCopy.classList.add('open');
-        toggle.setAttribute('aria-expanded', 'true');
+        setCustomCopyOpen(true, { persist: false });
       }
     }
 
@@ -981,19 +1113,23 @@
         const src = sourceName(item.source);
         const bv = extractBv(item);
         const date = formatDate(item.pubdate);
+        const metaParts = [
+          copyableField(bv, 'BV号', 'meta-copy'),
+          date ? `<span class="meta-separator">·</span> ${copyableField(date, '发布日期', 'meta-copy')}` : ''
+        ].filter(Boolean).join(' ');
         return `
           <article class="song-row">
             <div>
-              <div class="song-title">${escapeHtml(item.title || '未知歌曲')}</div>
-              <div class="meta">${escapeHtml(bv)}${date ? ` · ${escapeHtml(date)}` : ''}</div>
+              <div class="song-title">${copyableField(item.title || '未知歌曲', '歌名', 'song-title-copy')}</div>
+              <div class="meta">${metaParts}</div>
             </div>
-            <div class="song-artist">${escapeHtml(artist)}</div>
-            <div class="song-collection">${escapeHtml(item.collection || '未知合集')}</div>
-            <div class="song-source">${escapeHtml(src)}</div>
+            <div class="song-artist">${copyableField(artist, '歌手')}</div>
+            <div class="song-collection">${copyableField(item.collection || '未知合集', '合集')}</div>
+            <div class="song-source">${copyableField(src, '来源')}</div>
             <div class="row-actions">
-              <button class="icon-btn" title="复制歌名歌手" data-row-copy="titleArtist" data-row-id="${escapeHtml(item.rowId || '')}">文</button>
-              <button class="icon-btn" title="复制链接" data-row-copy="link" data-row-id="${escapeHtml(item.rowId || '')}">链</button>
-              <a class="icon-btn" title="打开B站" href="${escapeHtml(item.link || '#')}" target="_blank" rel="noreferrer" style="display:grid;place-items:center;text-decoration:none;">开</a>
+              <button class="icon-btn" type="button" title="复制歌名歌手" aria-label="复制歌名歌手" data-row-copy="titleArtist" data-row-id="${escapeHtml(item.rowId || '')}">${iconSvg('copy')}</button>
+              <button class="icon-btn" type="button" title="复制链接" aria-label="复制链接" data-row-copy="link" data-row-id="${escapeHtml(item.rowId || '')}">${iconSvg('link')}</button>
+              <a class="icon-btn" title="打开B站" aria-label="打开B站" href="${escapeHtml(item.link || '#')}" target="_blank" rel="noreferrer">${iconSvg('external')}</a>
             </div>
           </article>
         `;
@@ -1194,6 +1330,28 @@
       setStatus(`已复制全部匹配结果：${formatNumber(state.total)} 条`);
     }
 
+    function setCustomCopyOpen(open, { persist = true } = {}) {
+      const customCopy = $('#customCopy');
+      const toggle = $('#toggleCustomCopy');
+      if (!customCopy || !toggle) return;
+      customCopy.classList.toggle('open', !!open);
+      toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+      if (open) {
+        const action = $('#copyAction');
+        if (action) action.value = 'custom';
+      }
+      if (persist) saveCopySettings();
+    }
+
+    async function runSelectedCopyAction() {
+      const action = $('#copyAction')?.value || 'titleArtist';
+      if (action === 'all') {
+        await copyAllResults();
+        return;
+      }
+      await copyCurrentPage(action);
+    }
+
     function bindEvents() {
       $('#searchBtn').addEventListener('click', () => runSearch());
       $('#refreshBtn').addEventListener('click', () => runSearch({ keepPage: true }));
@@ -1246,20 +1404,27 @@
         window.scrollTo({ top: 0, behavior: 'smooth' });
       });
       $('#results').addEventListener('click', event => {
+        const copyTarget = event.target.closest('[data-copy-value]');
+        if (copyTarget) {
+          const encoded = copyTarget.getAttribute('data-copy-value') || '';
+          writeClipboard(encoded ? decodeURIComponent(encoded) : copyTarget.textContent || '');
+          return;
+        }
         const btn = event.target.closest('[data-row-copy]');
         if (!btn) return;
         const item = getRowById(btn.dataset.rowId);
         if (item) writeClipboard(rowText(item, btn.dataset.rowCopy));
       });
-      $$('[data-copy-preset]').forEach(btn => btn.addEventListener('click', () => copyCurrentPage(btn.dataset.copyPreset)));
-      $('#copyAllBtn').addEventListener('click', () => copyAllResults().catch(error => {
+      $('#copyAction').addEventListener('change', event => {
+        if (event.target.value === 'custom') setCustomCopyOpen(true, { persist: false });
+        saveCopySettings();
+      });
+      $('#copyActionBtn').addEventListener('click', () => runSelectedCopyAction().catch(error => {
         setStatus(`复制失败：${error.message}`, true);
       }));
       $('#toggleCustomCopy').addEventListener('click', () => {
         const customCopy = $('#customCopy');
-        const isOpen = customCopy.classList.toggle('open');
-        $('#toggleCustomCopy').setAttribute('aria-expanded', isOpen ? 'true' : 'false');
-        saveCopySettings();
+        setCustomCopyOpen(!customCopy.classList.contains('open'));
       });
       $('#customCopy').addEventListener('change', saveCopySettings);
       $('#copySeparator').addEventListener('input', saveCopySettings);
