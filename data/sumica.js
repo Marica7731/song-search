@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 5/16/2026, 2:31:46 PM
+// 生成时间: 5/16/2026, 3:12:12 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3099,6 +3099,158 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-12]来放松吧！悠闲地唱各种歌哦🌟 -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SS5g6SEek?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "コントラスト",
+  "artist": "TOMOO",
+  "collection": "【歌切】[2026-05-16]中午的MABUI原声吉他弹唱‼️来听一会儿吧～☀️ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RSL36aEsz?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-05-16]中午的MABUI原声吉他弹唱‼️来听一会儿吧～☀️ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RSL36aEsz?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "Burning",
+  "artist": "羊文学",
+  "collection": "【歌切】[2026-05-16]中午的MABUI原声吉他弹唱‼️来听一会儿吧～☀️ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RSL36aEsz?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "歩く",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-16]中午的MABUI原声吉他弹唱‼️来听一会儿吧～☀️ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RSL36aEsz?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "又三郎",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-16]中午的MABUI原声吉他弹唱‼️来听一会儿吧～☀️ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RSL36aEsz?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "ここでキスして",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-05-16]中午的MABUI原声吉他弹唱‼️来听一会儿吧～☀️ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RSL36aEsz?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "スピカ",
+  "artist": "ロクデナシ",
+  "collection": "【歌切】[2026-05-16]中午的MABUI原声吉他弹唱‼️来听一会儿吧～☀️ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RSL36aEsz?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "ブルーベリー・ナイツ",
+  "artist": "マカロニえんぴつ",
+  "collection": "【歌切】[2026-05-16]中午的MABUI原声吉他弹唱‼️来听一会儿吧～☀️ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RSL36aEsz?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-05-16]中午的MABUI原声吉他弹唱‼️来听一会儿吧～☀️ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RSL36aEsz?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【歌切】[2026-05-16]中午的MABUI原声吉他弹唱‼️来听一会儿吧～☀️ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RSL36aEsz?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "ブラック★ロックシューター",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-05-16]中午的MABUI原声吉他弹唱‼️来听一会儿吧～☀️ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RSL36aEsz?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "桃源郷",
+  "artist": "シャイトープ",
+  "collection": "【歌切】[2026-05-16]中午的MABUI原声吉他弹唱‼️来听一会儿吧～☀️ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RSL36aEsz?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【歌切】[2026-05-16]中午的MABUI原声吉他弹唱‼️来听一会儿吧～☀️ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RSL36aEsz?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "ヒカレイノチ",
+  "artist": "Kitri",
+  "collection": "【歌切】[2026-05-16]中午的MABUI原声吉他弹唱‼️来听一会儿吧～☀️ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RSL36aEsz?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-16]中午的MABUI原声吉他弹唱‼️来听一会儿吧～☀️ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RSL36aEsz?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-05-16]中午的MABUI原声吉他弹唱‼️来听一会儿吧～☀️ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RSL36aEsz?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "果てしない二人",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-05-16]中午的MABUI原声吉他弹唱‼️来听一会儿吧～☀️ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RSL36aEsz?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-16]中午的MABUI原声吉他弹唱‼️来听一会儿吧～☀️ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RSL36aEsz?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "メイクミー",
+  "artist": "澄花",
+  "collection": "【歌切】[2026-05-16]中午的MABUI原声吉他弹唱‼️来听一会儿吧～☀️ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RSL36aEsz?p=19",
   "source": "sumica.js"
 }
 );

@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 5/16/2026, 2:31:22 PM
+// 生成时间: 5/16/2026, 3:11:59 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2739,6 +2739,390 @@ window.SONG_DATA.push(
   "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=33",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "人との距離のはかりかた",
+  "artist": "plenty",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ジェニファー山田さん",
+  "artist": "RADWIMPS",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "世界がひとつになるまで",
+  "artist": "Ya-Ya-yah",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夜にだけ",
+  "artist": "GOOD ON THE REEL",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "駱駝",
+  "artist": "高橋優",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "エイリアンエイリアン",
+  "artist": "ナユタン星人 feat. 初音ミク",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ラブソング",
+  "artist": "ズーカラデル",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "もしも僕に",
+  "artist": "関取花",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ゆりかごの唄",
+  "artist": "童謡",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "葛飾ラプソディー",
+  "artist": "堂島孝平",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "1.0",
+  "artist": "amazarashi",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "まっさら",
+  "artist": "KANA-BOON",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ふたりの世界",
+  "artist": "あいみょん",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夏の頃",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "かぞえうた",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "眠り姫",
+  "artist": "SEKAI NO OWARI",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "感情七号線",
+  "artist": "フラワーカンパニーズ",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=17",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "終わらない歌",
+  "artist": "THE BLUE HEARTS",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=18",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "大丈夫",
+  "artist": "クリープハイプ",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=19",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "踊り子",
+  "artist": "Vaundy",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=20",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "蜩",
+  "artist": "teto",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=21",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "光",
+  "artist": "andymori",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=22",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "幕無し",
+  "artist": "はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=23",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "神様、",
+  "artist": "はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=24",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "案山子",
+  "artist": "さだまさし",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=25",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "家族になろうよ",
+  "artist": "福山雅治",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=26",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "痛いよ",
+  "artist": "清竜人",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=27",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ゴーゴー幽霊船",
+  "artist": "米津玄師",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=28",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "やわらかな午後に遅い朝食を",
+  "artist": "秦基博",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=29",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "愛してやまない音楽を",
+  "artist": "andymori",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=30",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "森のくまさん",
+  "artist": "アメリカ民謡",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=31",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "遠き山に日は落ちて",
+  "artist": "ドヴォルザーク",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=32",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "オー・シャンゼリゼ",
+  "artist": "奇妙礼太郎",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=33",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Just a game",
+  "artist": "takamatt feat. GUMI",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=34",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Let's search for Tomorrow",
+  "artist": "大澤徹訓",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=35",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ゴーゴー魚釣り",
+  "artist": "工藤祐次郎",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=36",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "あさごはんマーチ",
+  "artist": "杉田あきひろ、つのだりょうこ",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=37",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "地上の星",
+  "artist": "中島みゆき",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=38",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "サライ",
+  "artist": "加山雄三・谷村新司",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=39",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=40",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "有明を撫でて",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=41",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "アルバイター、無名",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=42",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "春",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=43",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "死にたい夜には",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=44",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "無名",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=45",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ひとつ",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=46",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ハロ／ハワユ",
+  "artist": "ナノウ feat. 初音ミク",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=47",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "深夜高速",
+  "artist": "フラワーカンパニーズ",
+  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=48",
   "source": "kotatsu.js"
 }
 );
