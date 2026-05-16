@@ -73,6 +73,7 @@
 | 文件路径 | 文件用途 | 主要函数或模块职责 | 与其他文件的关系 |
 |---|---|---|---|
 | `docs/migration-handoff.md` | 迁移交接文档 | 记录本地目录、服务器目录、部署流程和风险边界 | 新会话接手前先读 |
+| `docs/culua-server-guide.md` | culua 服务器使用指南 | 固定 SSH alias、服务器目录、部署命令、刷新脚本、验证方式和安全边界 | 供后续 AI 接手服务器、推送部署分支和发布歌站代码时首读 |
 | `docs/file-manifest.md` | 文件清单 | 说明主要文件用途、职责和相互关系 | 被 README 引用 |
 | `docs/add-source-prompt.md` | 添加来源提示词 | 固定 GitHub main 和 `culua.com` 部署分支的不同添加方式、验证方式和提交要求 | 供后续 AI 添加来源时复制使用，避免混用代码路径 |
 

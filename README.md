@@ -237,6 +237,7 @@ culua_web_h5/
 完整说明：
 
 - [迁移交接](docs/migration-handoff.md)
+- [culua 服务器使用指南](docs/culua-server-guide.md)
 - [文件清单](docs/file-manifest.md)
 - [添加来源提示词](docs/add-source-prompt.md)
 
