@@ -1426,6 +1426,235 @@ body.culua-shell-stats .toggle-btn {
   background: #fff !important;
 }
 
+body.culua-shell-stats #rank-list,
+body.culua-shell-stats #vtuber-source-list,
+body.culua-shell-stats #artist-list {
+  display: grid !important;
+  gap: 10px !important;
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 0 0 18px !important;
+}
+
+body.culua-shell-stats .group-card,
+body.culua-shell-stats .rank-item {
+  margin: 0 !important;
+}
+
+body.culua-shell-stats .rank-item {
+  display: grid !important;
+  gap: 10px !important;
+  padding: 14px !important;
+}
+
+body.culua-shell-stats .rank-card-top {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 14px;
+  align-items: start;
+}
+
+body.culua-shell-stats .rank-identity {
+  display: grid;
+  grid-template-columns: 38px minmax(0, 1fr);
+  gap: 10px;
+  align-items: start;
+  min-width: 0;
+}
+
+body.culua-shell-stats .rank-badge {
+  width: 34px !important;
+  height: 34px !important;
+  border-radius: 8px !important;
+  background: #f1f5f9 !important;
+}
+
+body.culua-shell-stats .rank-title-block,
+body.culua-shell-stats .song-info-left,
+body.culua-shell-stats .group-name {
+  min-width: 0;
+}
+
+body.culua-shell-stats .song-title-large {
+  font-size: 18px !important;
+  line-height: 1.35 !important;
+  overflow-wrap: anywhere;
+}
+
+body.culua-shell-stats .rank-artist-line {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 6px;
+}
+
+body.culua-shell-stats .chip-original {
+  background: #fff7ed !important;
+  color: #9a3412 !important;
+  border: 1px solid #fed7aa !important;
+}
+
+body.culua-shell-stats .rank-actions {
+  justify-content: flex-end !important;
+  gap: 8px !important;
+}
+
+body.culua-shell-stats .rank-actions .action-row {
+  justify-content: flex-end;
+}
+
+body.culua-shell-stats .count-badge {
+  min-width: 78px !important;
+  padding: 6px 10px !important;
+}
+
+body.culua-shell-stats .rank-metrics {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  padding-left: 48px;
+}
+
+body.culua-shell-stats .summary-chip {
+  border-radius: 6px !important;
+  background: #f8fafc !important;
+  border-color: #e2e8f0 !important;
+  color: #475569 !important;
+}
+
+body.culua-shell-stats .perf-container {
+  border-top: 1px solid #edf2f7 !important;
+  padding-top: 10px !important;
+}
+
+body.culua-shell-stats .perf-header {
+  margin-bottom: 8px !important;
+}
+
+body.culua-shell-stats .perf-grid {
+  display: grid !important;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 6px !important;
+}
+
+body.culua-shell-stats .perf-link {
+  display: grid !important;
+  grid-template-columns: minmax(0, 1fr) auto auto;
+  align-items: center;
+  gap: 8px;
+  min-height: 34px;
+  padding: 6px 9px !important;
+  border-radius: 6px !important;
+  background: #f8fafc !important;
+  border: 1px solid #e2e8f0 !important;
+  color: #1f2937 !important;
+  text-decoration: none !important;
+  overflow: hidden;
+}
+
+body.culua-shell-stats .perf-link-title,
+body.culua-shell-stats .perf-link-source,
+body.culua-shell-stats .song-title-main,
+body.culua-shell-stats .song-original-artist {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+body.culua-shell-stats .perf-link-source,
+body.culua-shell-stats .perf-link-action {
+  color: #64748b;
+  font-size: 12px;
+}
+
+body.culua-shell-stats .perf-link-action {
+  padding-left: 8px;
+  border-left: 1px solid #dbe4ef;
+}
+
+body.culua-shell-stats .perf-hidden {
+  display: none !important;
+}
+
+body.culua-shell-stats .group-header {
+  align-items: center !important;
+}
+
+body.culua-shell-stats .group-name span {
+  overflow-wrap: anywhere;
+}
+
+body.culua-shell-stats .group-header-actions {
+  justify-content: flex-end !important;
+}
+
+body.culua-shell-stats .group-song-list {
+  display: grid;
+  gap: 0;
+  padding: 0 !important;
+}
+
+body.culua-shell-stats .song-item-row {
+  display: grid !important;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 8px 14px !important;
+  align-items: center !important;
+  padding: 10px 14px !important;
+  border-bottom: 1px solid #edf2f7 !important;
+}
+
+body.culua-shell-stats .song-item-row:last-child {
+  border-bottom: 0 !important;
+}
+
+body.culua-shell-stats .song-title-main {
+  margin: 0 0 3px !important;
+  font-size: 14px !important;
+}
+
+body.culua-shell-stats .song-meta-right {
+  min-width: 0 !important;
+  gap: 6px !important;
+}
+
+body.culua-shell-stats .count-clickable,
+body.culua-shell-stats .perf-link-small {
+  min-height: 30px !important;
+  padding: 4px 8px !important;
+  border-radius: 6px !important;
+}
+
+body.culua-shell-stats .perf-grid-small {
+  grid-column: 1 / -1;
+  display: grid !important;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 6px !important;
+  margin: 2px 0 0 !important;
+  padding: 8px 0 0 !important;
+  border-top: 1px dashed #dbe4ef !important;
+}
+
+body.culua-shell-stats .perf-grid-small.hidden {
+  display: none !important;
+}
+
+body.culua-shell-stats .perf-grid-small .perf-link-small {
+  display: block !important;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+body.culua-shell-stats .stats-view-nav-item:focus,
+body.culua-shell-stats .tab-btn:focus,
+body.culua-shell-stats .copy-btn:focus,
+body.culua-shell-stats .toggle-perf-btn:focus,
+body.culua-shell-stats .toggle-btn:focus {
+  outline: 2px solid #0f766e !important;
+  outline-offset: 2px;
+}
+
 @media (max-width: 980px) {
   .culua-page-shell {
     display: block;
@@ -1451,6 +1680,11 @@ body.culua-shell-stats .toggle-btn {
     overflow-x: auto;
     margin: 0;
     padding-bottom: 2px;
+    scrollbar-width: none;
+  }
+
+  .culua-shell-nav::-webkit-scrollbar {
+    display: none;
   }
 
   .culua-shell-nav-item {
@@ -1466,6 +1700,11 @@ body.culua-shell-stats .toggle-btn {
     margin-top: 10px;
     padding-top: 10px;
     overflow-x: auto;
+    scrollbar-width: none;
+  }
+
+  body.culua-shell-stats .stats-view-nav::-webkit-scrollbar {
+    display: none;
   }
 
   body.culua-shell-stats .stats-view-nav-title {
@@ -1504,6 +1743,27 @@ body.culua-shell-stats .toggle-btn {
   body.culua-shell-stats .overview-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
   }
+
+  body.culua-shell-stats .rank-card-top,
+  body.culua-shell-stats .song-item-row {
+    grid-template-columns: 1fr !important;
+  }
+
+  body.culua-shell-stats .rank-actions,
+  body.culua-shell-stats .rank-actions .action-row,
+  body.culua-shell-stats .song-meta-right,
+  body.culua-shell-stats .group-header-actions {
+    justify-content: flex-start !important;
+  }
+
+  body.culua-shell-stats .rank-metrics {
+    padding-left: 0;
+  }
+
+  body.culua-shell-stats .perf-grid,
+  body.culua-shell-stats .perf-grid-small {
+    grid-template-columns: 1fr !important;
+  }
 }
 
 @media (max-width: 560px) {
@@ -1515,5 +1775,10 @@ body.culua-shell-stats .toggle-btn {
     display: flex;
     width: 100%;
     overflow-x: auto;
+    scrollbar-width: none;
+  }
+
+  body.culua-shell-stats .tabs-container::-webkit-scrollbar {
+    display: none;
   }
 }
