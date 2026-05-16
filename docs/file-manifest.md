@@ -6,10 +6,11 @@
 
 | 文件路径 | 文件用途 | 主要函数或模块职责 | 与其他文件的关系 |
 |---|---|---|---|
-| `README.md` | 项目入口说明 | 说明功能、运行方式、测试方式、维护边界和文档索引 | 链接 `docs/migration-handoff.md`、`docs/culua-server-guide.md`、`docs/site-optimization-plan.md`、`docs/file-manifest.md` 与 `docs/add-source-prompt.md` |
+| `README.md` | 项目入口说明 | 说明功能、运行方式、测试方式、维护边界和文档索引 | 链接 `docs/migration-handoff.md`、`docs/culua-server-guide.md`、`docs/site-optimization-plan.md`、`docs/tabs-optimization-plan.md`、`docs/file-manifest.md` 与 `docs/add-source-prompt.md` |
 | `.gitignore` | 本地忽略规则 | 忽略运行缓存、日志、临时截图、下载目录、runtime、`.env` | 防止本地开发产物进入后续提交；不取消已跟踪文件 |
 | `index.html` | 优化版首页与歌曲检索页 | 可搜索来源、搜索范围切换、服务端分页、复制预设、自定义复制、移动端 H5 布局 | 读取 `/api/bootstrap`、`/api/search`；复制全部调用 `/api/search/export` |
 | `index-optimized.html` | 首页优化对照文件 | 与 `index.html` 保持同源，便于后续继续调样式或回看优化方案 | 配合 `docs/site-optimization-plan.md`；正式入口仍是 `index.html` |
+| `tabs-optimization-preview.html` | 六个主 tab 的优化方案预览 | 展示首页、数据、BV 查重、歌名歌手查重、命名工具、日报的目标布局、优化优先级和移动端形态 | 配合 `docs/tabs-optimization-plan.md`；只作为静态方案预览，不替换正式页面 |
 | `stats.html` | 数据统计页 | 展示来源、歌手、曲目、投稿时间等统计视图 | 优先请求 `/api/stats/view`，服务端不可用时回退本地数据 |
 | `bv-dup-check.html` | BV 查重页面 | 接收 BV 列表，输出已存在和未命中的结果 | 依赖 `dup-check-core.js` 与 `artist-match.js` |
 | `title-artist-dup-check.html` | 歌名歌手查重页面 | 批量检查“歌名 - 歌手”是否已入库 | 依赖 `dup-check-core.js` 与 `artist-match.js` |
@@ -76,6 +77,7 @@
 | `docs/migration-handoff.md` | 迁移交接文档 | 记录本地目录、服务器目录、部署流程和风险边界 | 新会话接手前先读 |
 | `docs/culua-server-guide.md` | culua 服务器使用指南 | 固定 SSH alias、服务器目录、部署命令、刷新脚本、验证方式和安全边界 | 供后续 AI 接手服务器、推送部署分支和发布歌站代码时首读 |
 | `docs/site-optimization-plan.md` | 首页优化方案 | 记录当前首页性能观察、已落实内容、后续重构路线和 H5 访问建议 | 配合 `index.html` 和 `index-optimized.html` 做后续评审 |
+| `docs/tabs-optimization-plan.md` | 全站 Tab 优化方案预览 | 记录六个主 tab 的预览目标、使用方式、文件说明、注意事项和测试方式 | 配合 `tabs-optimization-preview.html` 确认下一阶段正式页面改造方向 |
 | `docs/file-manifest.md` | 文件清单 | 说明主要文件用途、职责和相互关系 | 被 README 引用 |
 | `docs/add-source-prompt.md` | 添加来源提示词 | 固定 GitHub main 和 `culua.com` 部署分支的不同添加方式、验证方式和提交要求 | 供后续 AI 添加来源时复制使用，避免混用代码路径 |
 

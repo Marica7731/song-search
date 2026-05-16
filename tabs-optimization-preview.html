@@ -1,0 +1,1116 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>culua 全站 Tab 优化预览</title>
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f4f6fa;
+      --surface: #ffffff;
+      --surface-soft: #f8fafc;
+      --text: #111827;
+      --muted: #667085;
+      --line: #d8e0ec;
+      --line-strong: #b6c2d2;
+      --primary: #0f766e;
+      --primary-soft: #e6f4f1;
+      --blue: #1d4ed8;
+      --blue-soft: #e8f0ff;
+      --amber: #b45309;
+      --amber-soft: #fff7ed;
+      --red: #b42318;
+      --red-soft: #fff1f0;
+      --green: #047857;
+      --green-soft: #ecfdf3;
+      --shadow: 0 12px 30px rgba(15, 23, 42, 0.08);
+      --radius: 8px;
+      --sidebar: 286px;
+    }
+
+    * { box-sizing: border-box; }
+    html { min-height: 100%; overflow-x: hidden; }
+    body {
+      margin: 0;
+      min-height: 100%;
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+      font-size: 14px;
+      letter-spacing: 0;
+      overflow-x: hidden;
+    }
+
+    button, input, select, textarea { font: inherit; }
+    button { cursor: pointer; }
+
+    .shell {
+      min-height: 100vh;
+      display: grid;
+      grid-template-columns: var(--sidebar) minmax(0, 1fr);
+    }
+
+    .sidebar {
+      position: sticky;
+      top: 0;
+      height: 100vh;
+      overflow: auto;
+      padding: 18px;
+      background: var(--surface);
+      border-right: 1px solid var(--line);
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 18px;
+    }
+
+    .brand-mark {
+      width: 34px;
+      height: 34px;
+      border-radius: 8px;
+      display: grid;
+      place-items: center;
+      background: var(--primary);
+      color: #fff;
+      font-weight: 800;
+    }
+
+    .brand-title {
+      font-size: 18px;
+      font-weight: 800;
+      line-height: 1.2;
+    }
+
+    .brand-subtitle {
+      color: var(--muted);
+      font-size: 12px;
+      margin-top: 2px;
+    }
+
+    .nav {
+      display: grid;
+      gap: 6px;
+      margin-bottom: 20px;
+    }
+
+    .nav button {
+      width: 100%;
+      min-height: 36px;
+      border: 0;
+      border-radius: 8px;
+      background: transparent;
+      color: #1f2937;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 10px;
+      font-weight: 700;
+      text-align: left;
+    }
+
+    .nav button:hover,
+    .nav button.active {
+      background: var(--primary-soft);
+      color: var(--primary);
+    }
+
+    .nav small {
+      color: var(--muted);
+      font-weight: 600;
+    }
+
+    .side-section {
+      border-top: 1px solid var(--line);
+      padding-top: 14px;
+    }
+
+    .side-title {
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 800;
+      margin: 0 0 8px;
+    }
+
+    .side-list {
+      display: grid;
+      gap: 8px;
+    }
+
+    .side-list > span {
+      display: grid;
+      grid-template-columns: 34px minmax(0, 1fr);
+      gap: 10px;
+      color: #334155;
+      font-size: 13px;
+    }
+
+    .side-list > span > span {
+      min-width: 0;
+      overflow-wrap: anywhere;
+    }
+
+    .main {
+      min-width: 0;
+      display: grid;
+      grid-template-rows: auto 1fr;
+    }
+
+    .topbar {
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      background: rgba(244, 246, 250, 0.95);
+      backdrop-filter: blur(10px);
+      border-bottom: 1px solid var(--line);
+      padding: 16px 22px;
+    }
+
+    .topbar-row {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto auto;
+      gap: 10px;
+      align-items: center;
+    }
+
+    .search {
+      min-height: 44px;
+      width: 100%;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fff;
+      color: var(--text);
+      padding: 0 14px;
+    }
+
+    .select,
+    .btn {
+      min-height: 38px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fff;
+      color: var(--text);
+      padding: 0 12px;
+      font-weight: 700;
+    }
+
+    .btn.primary {
+      border-color: var(--primary);
+      background: var(--primary);
+      color: #fff;
+    }
+
+    .view-switch {
+      margin-top: 10px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
+    .chip {
+      min-height: 32px;
+      padding: 0 10px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fff;
+      color: #334155;
+      font-weight: 700;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .chip.active {
+      color: var(--primary);
+      border-color: #9bd8cf;
+      background: var(--primary-soft);
+    }
+
+    .content {
+      padding: 18px 22px 36px;
+      min-width: 0;
+    }
+
+    .tab-panel { display: none; }
+    .tab-panel.active { display: block; }
+
+    .hero {
+      display: grid;
+      grid-template-columns: minmax(0, 1.25fr) minmax(280px, 0.75fr);
+      gap: 14px;
+      margin-bottom: 14px;
+    }
+
+    .panel {
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      box-shadow: var(--shadow);
+      padding: 14px;
+      min-width: 0;
+    }
+
+    .panel.flat {
+      box-shadow: none;
+    }
+
+    .panel-head {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+
+    .panel-head > div {
+      min-width: 0;
+      flex: 1 1 260px;
+    }
+
+    .eyebrow {
+      margin: 0 0 4px;
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 800;
+    }
+
+    h1, h2, h3 {
+      margin: 0;
+      line-height: 1.25;
+      letter-spacing: 0;
+    }
+
+    h1 { font-size: 24px; }
+    h2 { font-size: 18px; }
+    h3 { font-size: 15px; }
+
+    .lead {
+      margin: 8px 0 0;
+      color: #475467;
+      line-height: 1.7;
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      min-height: 26px;
+      padding: 0 8px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--surface-soft);
+      color: #334155;
+      font-size: 12px;
+      font-weight: 800;
+      white-space: nowrap;
+    }
+
+    .badge.red { background: var(--red-soft); border-color: #ffcdc8; color: var(--red); }
+    .badge.amber { background: var(--amber-soft); border-color: #fed7aa; color: var(--amber); }
+    .badge.green { background: var(--green-soft); border-color: #bbf7d0; color: var(--green); }
+    .badge.blue { background: var(--blue-soft); border-color: #bfd3ff; color: var(--blue); }
+
+    .metrics {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 10px;
+      margin-bottom: 14px;
+    }
+
+    .metric {
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 12px;
+      min-width: 0;
+    }
+
+    .metric-label {
+      color: var(--muted);
+      font-size: 12px;
+      margin-bottom: 6px;
+    }
+
+    .metric-value {
+      font-size: 22px;
+      font-weight: 900;
+      color: #020617;
+      word-break: break-word;
+    }
+
+    .grid-2 {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 14px;
+    }
+
+    .grid-3 {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 10px;
+    }
+
+    .worklist,
+    .preview-list,
+    .form-stack {
+      display: grid;
+      gap: 8px;
+    }
+
+    .work-item,
+    .song-row,
+    .result-row,
+    .rank-row,
+    .timeline-row {
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 12px;
+      min-width: 0;
+    }
+
+    .work-item {
+      display: grid;
+      grid-template-columns: auto minmax(0, 1fr);
+      gap: 10px;
+      align-items: start;
+    }
+
+    .priority {
+      width: 34px;
+      min-height: 28px;
+      border-radius: 8px;
+      display: grid;
+      place-items: center;
+      font-weight: 900;
+      font-size: 12px;
+      background: var(--surface-soft);
+      border: 1px solid var(--line);
+    }
+
+    .priority.p1 { color: var(--red); background: var(--red-soft); border-color: #ffc9c3; }
+    .priority.p2 { color: var(--amber); background: var(--amber-soft); border-color: #fed7aa; }
+    .priority.p3 { color: var(--blue); background: var(--blue-soft); border-color: #bfd3ff; }
+
+    .work-title {
+      margin: 0;
+      font-weight: 900;
+    }
+
+    .work-desc {
+      margin: 4px 0 0;
+      color: #475467;
+      line-height: 1.55;
+    }
+
+    .toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+      margin-bottom: 12px;
+    }
+
+    .source-list {
+      max-height: 334px;
+      overflow: auto;
+      display: grid;
+      gap: 6px;
+    }
+
+    .source-item {
+      min-height: 34px;
+      border-radius: 8px;
+      padding: 0 10px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background: #fff;
+      border: 1px solid var(--line);
+      color: #334155;
+      font-weight: 700;
+    }
+
+    .source-item.active {
+      background: var(--primary-soft);
+      border-color: #9bd8cf;
+      color: var(--primary);
+    }
+
+    .copy-strip {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      padding: 10px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--surface);
+      margin-bottom: 12px;
+    }
+
+    .song-row {
+      display: grid;
+      grid-template-columns: minmax(0, 1.2fr) 150px minmax(0, 1fr) 92px;
+      gap: 12px;
+      align-items: center;
+    }
+
+    .song-title,
+    .row-title {
+      font-weight: 900;
+      color: #0f172a;
+    }
+
+    .meta {
+      color: #52637a;
+      font-size: 12px;
+      margin-top: 4px;
+      line-height: 1.45;
+    }
+
+    .row-actions {
+      display: flex;
+      justify-content: flex-end;
+      gap: 6px;
+    }
+
+    .icon-btn {
+      width: 32px;
+      height: 32px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fff;
+      color: #0f172a;
+      display: grid;
+      place-items: center;
+      font-weight: 900;
+    }
+
+    .data-layout {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 320px;
+      gap: 14px;
+    }
+
+    .rank-row {
+      display: grid;
+      grid-template-columns: 46px minmax(0, 1fr) 120px;
+      gap: 10px;
+      align-items: center;
+    }
+
+    .rank-no {
+      width: 34px;
+      height: 34px;
+      border-radius: 8px;
+      background: #0f172a;
+      color: #fff;
+      display: grid;
+      place-items: center;
+      font-weight: 900;
+    }
+
+    .chart {
+      height: 220px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background:
+        linear-gradient(to top, rgba(216, 224, 236, .7) 1px, transparent 1px) 0 0 / 100% 44px,
+        #fff;
+      display: flex;
+      align-items: end;
+      gap: 8px;
+      padding: 16px;
+    }
+
+    .bar {
+      flex: 1;
+      min-width: 0;
+      border-radius: 6px 6px 0 0;
+      background: var(--primary);
+      position: relative;
+    }
+
+    .bar.alt { background: var(--blue); }
+    .bar.soft { background: #94a3b8; }
+
+    .bar span {
+      position: absolute;
+      left: 50%;
+      bottom: calc(100% + 6px);
+      transform: translateX(-50%);
+      color: #475467;
+      font-size: 11px;
+      white-space: nowrap;
+    }
+
+    .input,
+    .textarea {
+      width: 100%;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fff;
+      color: var(--text);
+      padding: 10px 12px;
+    }
+
+    .textarea {
+      min-height: 140px;
+      resize: vertical;
+      line-height: 1.55;
+    }
+
+    .result-row {
+      display: grid;
+      grid-template-columns: 96px minmax(0, 1fr) auto;
+      gap: 10px;
+      align-items: center;
+    }
+
+    .status-pill {
+      border-radius: 999px;
+      min-height: 28px;
+      padding: 0 10px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 12px;
+      font-weight: 900;
+      background: var(--surface-soft);
+      border: 1px solid var(--line);
+      color: #334155;
+    }
+
+    .status-pill.ok { background: var(--green-soft); color: var(--green); border-color: #bbf7d0; }
+    .status-pill.warn { background: var(--amber-soft); color: var(--amber); border-color: #fed7aa; }
+    .status-pill.bad { background: var(--red-soft); color: var(--red); border-color: #ffc9c3; }
+
+    .naming-layout {
+      display: grid;
+      grid-template-columns: minmax(0, .95fr) minmax(0, 1.05fr);
+      gap: 14px;
+    }
+
+    .candidate {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 10px;
+      background: #fff;
+      display: grid;
+      gap: 8px;
+    }
+
+    .candidate-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      align-items: center;
+    }
+
+    .option-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .option-chip {
+      min-height: 32px;
+      padding: 0 10px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--surface-soft);
+      font-weight: 800;
+      display: inline-flex;
+      align-items: center;
+    }
+
+    .option-chip.selected {
+      background: var(--primary-soft);
+      color: var(--primary);
+      border-color: #9bd8cf;
+    }
+
+    .timeline {
+      display: grid;
+      gap: 8px;
+    }
+
+    .timeline-row {
+      display: grid;
+      grid-template-columns: 96px minmax(0, 1fr) 120px;
+      gap: 10px;
+      align-items: center;
+    }
+
+    .mobile-frame {
+      width: min(100%, 360px);
+      margin: 0 auto;
+      border: 1px solid var(--line-strong);
+      border-radius: 20px;
+      background: #eef2f7;
+      padding: 12px;
+    }
+
+    .mobile-screen {
+      border-radius: 14px;
+      background: var(--bg);
+      overflow: hidden;
+      border: 1px solid var(--line);
+    }
+
+    .mobile-screen .mobile-block {
+      padding: 10px;
+      border-bottom: 1px solid var(--line);
+      background: #fff;
+    }
+
+    .mobile-screen .mobile-block:last-child {
+      border-bottom: 0;
+    }
+
+    .mobile-title {
+      font-weight: 900;
+      margin-bottom: 4px;
+    }
+
+    .mobile-meta {
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .footer-note {
+      margin-top: 14px;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.6;
+    }
+
+    @media (max-width: 1080px) {
+      .hero,
+      .data-layout,
+      .naming-layout {
+        grid-template-columns: 1fr;
+      }
+
+      .metrics {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+
+    @media (max-width: 760px) {
+      .shell {
+        grid-template-columns: 1fr;
+      }
+
+      .sidebar {
+        position: static;
+        height: auto;
+        border-right: 0;
+        border-bottom: 1px solid var(--line);
+      }
+
+      .nav {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
+      .topbar,
+      .content {
+        padding-left: 12px;
+        padding-right: 12px;
+      }
+
+      .topbar-row {
+        grid-template-columns: 1fr;
+      }
+
+      .metrics,
+      .grid-2,
+      .grid-3 {
+        grid-template-columns: 1fr;
+      }
+
+      .song-row,
+      .rank-row,
+      .result-row,
+      .timeline-row {
+        grid-template-columns: 1fr;
+      }
+
+      .row-actions {
+        justify-content: flex-start;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="brand-mark">C</div>
+        <div>
+          <div class="brand-title">culua 优化预览</div>
+          <div class="brand-subtitle">6 个 tab 的目标界面</div>
+        </div>
+      </div>
+      <nav class="nav" aria-label="优化预览导航">
+        <button class="active" data-tab="home">首页 <small>检索</small></button>
+        <button data-tab="stats">数据 <small>统计</small></button>
+        <button data-tab="bv">BV查重 <small>批量</small></button>
+        <button data-tab="dup">歌名歌手查重 <small>批量</small></button>
+        <button data-tab="naming">命名工具 <small>校验</small></button>
+        <button data-tab="growth">日报 <small>增长</small></button>
+      </nav>
+      <section class="side-section">
+        <p class="side-title">落地顺序</p>
+        <div class="side-list">
+          <span><strong>P1</strong><span>修复制定位和 DOM 注入</span></span>
+          <span><strong>P2</strong><span>统一复制面板和来源筛选</span></span>
+          <span><strong>P3</strong><span>移动端、缓存、图表体验</span></span>
+        </div>
+      </section>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
+        <div class="topbar-row">
+          <input class="search" type="search" value="歌名 / 歌手 / BV / 来源" aria-label="预览搜索框">
+          <select class="select" aria-label="预览模式">
+            <option>方案预览</option>
+            <option>桌面布局</option>
+            <option>H5布局</option>
+          </select>
+          <button class="btn primary" type="button">预览</button>
+        </div>
+        <div class="view-switch">
+          <div class="chips" id="quickTabs" aria-label="快速切换">
+            <button class="chip active" data-tab="home">首页</button>
+            <button class="chip" data-tab="stats">数据</button>
+            <button class="chip" data-tab="bv">BV</button>
+            <button class="chip" data-tab="dup">歌名查重</button>
+            <button class="chip" data-tab="naming">命名</button>
+            <button class="chip" data-tab="growth">日报</button>
+          </div>
+          <span class="badge blue">HTML mock / 不替换生产页</span>
+        </div>
+      </header>
+
+      <section class="content">
+        <section class="tab-panel active" id="tab-home">
+          <div class="hero">
+            <div class="panel">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">首页</p>
+                  <h1>把检索、来源、复制固定成同一条工作流</h1>
+                  <p class="lead">正式首页已经完成第一轮换壳，下一步优先修正多 P 行内复制定位，并把复制按钮和自定义字段状态做得更明确。</p>
+                </div>
+                <span class="badge red">P1 修复</span>
+              </div>
+              <div class="metrics">
+                <div class="metric"><div class="metric-label">总曲目</div><div class="metric-value">23,365</div></div>
+                <div class="metric"><div class="metric-label">来源</div><div class="metric-value">34</div></div>
+                <div class="metric"><div class="metric-label">当前页</div><div class="metric-value">40</div></div>
+                <div class="metric"><div class="metric-label">导出</div><div class="metric-value">TSV</div></div>
+              </div>
+              <div class="copy-strip">
+                <button class="btn">复制本页：歌名 - 歌手</button>
+                <button class="btn">复制本页：带链接</button>
+                <button class="btn">复制全部 TSV</button>
+                <button class="btn">自定义字段</button>
+              </div>
+              <div class="preview-list">
+                <div class="song-row">
+                  <div><div class="song-title">ロングホープフィリア</div><div class="meta">BV1ModYBUERM?p=1 / 2026-04-17</div></div>
+                  <strong>菅田将暉</strong>
+                  <div>KOTATSU</div>
+                  <div class="row-actions"><button class="icon-btn">文</button><button class="icon-btn">链</button></div>
+                </div>
+                <div class="song-row">
+                  <div><div class="song-title">幕無し</div><div class="meta">BV1ModYBUERM?p=2 / 2026-04-17</div></div>
+                  <strong>はる こたつぶとん倶楽部</strong>
+                  <div>KOTATSU</div>
+                  <div class="row-actions"><button class="icon-btn">文</button><button class="icon-btn">链</button></div>
+                </div>
+              </div>
+            </div>
+            <div class="panel">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">修正点</p>
+                  <h2>行内复制必须按行唯一定位</h2>
+                </div>
+                <span class="badge red">防错行</span>
+              </div>
+              <div class="worklist">
+                <div class="work-item"><span class="priority p1">P1</span><div><p class="work-title">不要用 BV 找行</p><p class="work-desc">同一 BV 多 P 会有多首歌，行内复制应改用 row index、link 或稳定 item id。</p></div></div>
+                <div class="work-item"><span class="priority p2">P2</span><div><p class="work-title">复制配置持久化</p><p class="work-desc">记住用户上次选择的复制字段、分隔符和格式，减少重复点击。</p></div></div>
+                <div class="work-item"><span class="priority p3">P3</span><div><p class="work-title">来源列表强化</p><p class="work-desc">来源支持最近使用、只看有歌手缺失、只看新增来源等快捷过滤。</p></div></div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="tab-panel" id="tab-stats">
+          <div class="hero">
+            <div class="panel">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">数据</p>
+                  <h1>统计页拆成概览、排行、详情三层</h1>
+                  <p class="lead">数据页已经有服务端分页和详情接口，下一步重点是 DOM 安全、复制面板统一，以及把排行榜和来源视图做成更像分析工具的界面。</p>
+                </div>
+                <span class="badge amber">P2 重构</span>
+              </div>
+              <div class="data-layout">
+                <div>
+                  <div class="toolbar">
+                    <button class="chip active">歌曲排行</button>
+                    <button class="chip">来源排行</button>
+                    <button class="chip">歌手排行</button>
+                    <button class="chip">缺失歌手</button>
+                  </div>
+                  <div class="preview-list">
+                    <div class="rank-row"><div class="rank-no">1</div><div><div class="row-title">少女レイ</div><div class="meta">覆盖 12 位来源 / 38 次演唱</div></div><button class="btn">复制摘要</button></div>
+                    <div class="rank-row"><div class="rank-no">2</div><div><div class="row-title">晩餐歌</div><div class="meta">覆盖 9 位来源 / 31 次演唱</div></div><button class="btn">查看场次</button></div>
+                    <div class="rank-row"><div class="rank-no">3</div><div><div class="row-title">KING</div><div class="meta">覆盖 8 位来源 / 27 次演唱</div></div><button class="btn">复制列表</button></div>
+                  </div>
+                </div>
+                <div class="panel flat">
+                  <div class="panel-head"><h2>详情抽屉</h2><span class="badge blue">按需加载</span></div>
+                  <div class="form-stack">
+                    <div class="result-row"><span class="status-pill ok">缓存</span><div><strong>排行列表</strong><div class="meta">服务端聚合缓存命中后毫秒级返回</div></div><button class="btn">刷新</button></div>
+                    <div class="result-row"><span class="status-pill warn">展开</span><div><strong>完整场次</strong><div class="meta">只有点击展开时请求 detail</div></div><button class="btn">加载</button></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="panel">
+              <div class="panel-head">
+                <h2>优先事项</h2>
+                <span class="badge red">安全</span>
+              </div>
+              <div class="worklist">
+                <div class="work-item"><span class="priority p1">P1</span><div><p class="work-title">替换模板 innerHTML</p><p class="work-desc">标题、歌手、来源、合集统一转义或用 textContent。</p></div></div>
+                <div class="work-item"><span class="priority p2">P2</span><div><p class="work-title">复制弹窗统一</p><p class="work-desc">复用首页复制预设和自定义字段结构。</p></div></div>
+                <div class="work-item"><span class="priority p3">P3</span><div><p class="work-title">移动端详情抽屉</p><p class="work-desc">长列表在 H5 中默认收起，用底部抽屉查看完整场次。</p></div></div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="tab-panel" id="tab-bv">
+          <div class="hero">
+            <div class="panel">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">BV 查重</p>
+                  <h1>批量输入、查重结果、复制配置分区</h1>
+                  <p class="lead">BV 查重适合做成左输入右结果，复制配置使用预设优先；未知 BV 的 live fallback 要有条数上限和清晰状态。</p>
+                </div>
+                <span class="badge amber">批量工具</span>
+              </div>
+              <div class="grid-2">
+                <div class="form-stack">
+                  <textarea class="textarea">BV1ModYBUERM
+BV1xucZzxEkZ
+BV1qDDbBBETv</textarea>
+                  <div class="toolbar">
+                    <button class="btn primary">开始查重</button>
+                    <button class="btn">清空</button>
+                    <button class="btn">粘贴识别</button>
+                  </div>
+                  <div class="copy-strip">
+                    <button class="btn">复制未收录</button>
+                    <button class="btn">复制重复链接</button>
+                    <button class="btn">AI 清洗复制</button>
+                  </div>
+                </div>
+                <div class="preview-list">
+                  <div class="result-row"><span class="status-pill bad">重复</span><div><strong>BV1ModYBUERM</strong><div class="meta">库内 10 个分 P，当前复制第 1 个重复链接</div></div><button class="btn">详情</button></div>
+                  <div class="result-row"><span class="status-pill warn">需查询</span><div><strong>BV1xucZzxEkZ</strong><div class="meta">live fallback 队列中</div></div><button class="btn">取消</button></div>
+                  <div class="result-row"><span class="status-pill ok">首次</span><div><strong>BV1qDDbBBETv</strong><div class="meta">当前来源未收录</div></div><button class="btn">复制</button></div>
+                </div>
+              </div>
+            </div>
+            <div class="panel">
+              <div class="panel-head"><h2>优先事项</h2><span class="badge red">P1</span></div>
+              <div class="worklist">
+                <div class="work-item"><span class="priority p1">P1</span><div><p class="work-title">结果渲染安全化</p><p class="work-desc">用户输入、标题、歌手、来源都不能直接拼 innerHTML。</p></div></div>
+                <div class="work-item"><span class="priority p2">P2</span><div><p class="work-title">限制 unknown BV fallback</p><p class="work-desc">后端限制单次 live 查询数量，前端显示排队状态。</p></div></div>
+                <div class="work-item"><span class="priority p2">P2</span><div><p class="work-title">复制预设</p><p class="work-desc">把复杂 checkbox 收进高级区，默认显示 3 个高频复制按钮。</p></div></div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="tab-panel" id="tab-dup">
+          <div class="hero">
+            <div class="panel">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">歌名歌手查重</p>
+                  <h1>让查重结果更像审核队列</h1>
+                  <p class="lead">这个页面和 BV 查重共用核心逻辑，适合一起做安全化和复制面板重构。结果区按“首次 / 已收录 / 歌手疑似不一致”分组。</p>
+                </div>
+                <span class="badge blue">共用核心</span>
+              </div>
+              <div class="grid-2">
+                <div class="form-stack">
+                  <textarea class="textarea">少女レイ - みきとP
+晩餐歌 - tuki.
+KING - Kanaria</textarea>
+                  <div class="toolbar">
+                    <select class="select"><option>全部来源</option><option>KOTATSU</option><option>非常驻妹妹</option></select>
+                    <button class="btn primary">批量检查</button>
+                  </div>
+                  <div class="copy-strip">
+                    <button class="btn">复制首次</button>
+                    <button class="btn">复制已收录</button>
+                    <button class="btn">复制表格</button>
+                  </div>
+                </div>
+                <div class="preview-list">
+                  <div class="result-row"><span class="status-pill ok">首次</span><div><strong>少女レイ</strong><div class="meta">当前来源未收录，可加入</div></div><button class="btn">复制</button></div>
+                  <div class="result-row"><span class="status-pill bad">已收录</span><div><strong>晩餐歌</strong><div class="meta">匹配 4 个来源，2 个重复项</div></div><button class="btn">展开</button></div>
+                  <div class="result-row"><span class="status-pill warn">疑似</span><div><strong>KING</strong><div class="meta">歌手写法和库内值不完全一致</div></div><button class="btn">校验</button></div>
+                </div>
+              </div>
+            </div>
+            <div class="panel">
+              <div class="panel-head"><h2>优先事项</h2><span class="badge amber">P2</span></div>
+              <div class="worklist">
+                <div class="work-item"><span class="priority p1">P1</span><div><p class="work-title">复用安全渲染</p><p class="work-desc">与 BV 查重一起修复 `dup-check-core.js` 的模板拼接。</p></div></div>
+                <div class="work-item"><span class="priority p2">P2</span><div><p class="work-title">结果分组</p><p class="work-desc">比单纯红绿列表更适合批量审核。</p></div></div>
+                <div class="work-item"><span class="priority p3">P3</span><div><p class="work-title">粘贴智能解析</p><p class="work-desc">支持 tab、逗号、破折号、表格粘贴，自动识别歌名和歌手。</p></div></div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="tab-panel" id="tab-naming">
+          <div class="hero">
+            <div class="panel">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">命名工具</p>
+                  <h1>把候选选择改成“逐条确认”</h1>
+                  <p class="lead">命名工具的价值是帮你快速决定标准歌手写法。优化后每条输入都有候选、来源数、操作列和最终输出。</p>
+                </div>
+                <span class="badge red">安全优先</span>
+              </div>
+              <div class="naming-layout">
+                <div class="form-stack">
+                  <textarea class="textarea">少女レイ - みきとP
+晩餐歌 - tuki.
+ロングホープフィリア - 菅田将暉</textarea>
+                  <div class="toolbar">
+                    <button class="btn primary">校验</button>
+                    <button class="btn">复制结果</button>
+                    <button class="btn">只看冲突</button>
+                  </div>
+                </div>
+                <div class="form-stack">
+                  <div class="candidate">
+                    <div class="candidate-head"><strong>少女レイ</strong><span class="badge green">验证通过</span></div>
+                    <div class="option-row"><span class="option-chip selected">みきとP / 来源 18</span><span class="option-chip">MikitoP</span></div>
+                  </div>
+                  <div class="candidate">
+                    <div class="candidate-head"><strong>晩餐歌</strong><span class="badge amber">需要确认</span></div>
+                    <div class="option-row"><span class="option-chip selected">tuki. / 来源 12</span><span class="option-chip">月</span><span class="option-chip">用户输入</span></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="panel">
+              <div class="panel-head"><h2>优先事项</h2><span class="badge red">P1</span></div>
+              <div class="worklist">
+                <div class="work-item"><span class="priority p1">P1</span><div><p class="work-title">修复候选 HTML 注入</p><p class="work-desc">候选歌手、标题、来源列表改用 DOM builder。</p></div></div>
+                <div class="work-item"><span class="priority p2">P2</span><div><p class="work-title">逐条状态</p><p class="work-desc">通过、冲突、未找到三种状态固定视觉。</p></div></div>
+                <div class="work-item"><span class="priority p3">P3</span><div><p class="work-title">输出模板</p><p class="work-desc">提供“仅结果”“带原因”“表格”三种复制格式。</p></div></div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="tab-panel" id="tab-growth">
+          <div class="hero">
+            <div class="panel">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">日报</p>
+                  <h1>日报重点从“表格”转成“趋势判断”</h1>
+                  <p class="lead">日报页面风险不高，主要优化点是接口缓存、图表移动端体验、异常日标记和摘要复制。</p>
+                </div>
+                <span class="badge blue">P3 体验</span>
+              </div>
+              <div class="metrics">
+                <div class="metric"><div class="metric-label">最新总曲数</div><div class="metric-value">23,365</div></div>
+                <div class="metric"><div class="metric-label">最新日增</div><div class="metric-value">+214</div></div>
+                <div class="metric"><div class="metric-label">接口耗时</div><div class="metric-value">~1s</div></div>
+                <div class="metric"><div class="metric-label">目标</div><div class="metric-value">&lt;50ms</div></div>
+              </div>
+              <div class="chart" aria-label="增长趋势预览">
+                <div class="bar soft" style="height:44%"><span>03-21</span></div>
+                <div class="bar" style="height:60%"><span>03-22</span></div>
+                <div class="bar alt" style="height:38%"><span>03-23</span></div>
+                <div class="bar" style="height:74%"><span>03-24</span></div>
+                <div class="bar soft" style="height:52%"><span>03-25</span></div>
+                <div class="bar" style="height:88%"><span>03-26</span></div>
+                <div class="bar alt" style="height:48%"><span>03-27</span></div>
+              </div>
+              <div class="timeline" style="margin-top:12px">
+                <div class="timeline-row"><strong>2026-03-27</strong><div>曲库日增 +146，投稿日增 +80</div><button class="btn">复制摘要</button></div>
+                <div class="timeline-row"><strong>2026-03-28</strong><div>曲库日增 +275，明显高于 7 日均值</div><button class="btn">标记</button></div>
+              </div>
+            </div>
+            <div class="panel">
+              <div class="panel-head"><h2>H5 形态</h2><span class="badge green">响应式</span></div>
+              <div class="mobile-frame">
+                <div class="mobile-screen">
+                  <div class="mobile-block"><div class="mobile-title">日报总览</div><div class="mobile-meta">最新总曲数 23,365 / 日增 +214</div></div>
+                  <div class="mobile-block"><div class="mobile-title">趋势图</div><div class="mobile-meta">默认显示 14 天，左右滑动看更早日期</div></div>
+                  <div class="mobile-block"><div class="mobile-title">异常日</div><div class="mobile-meta">03-28 高于均值，建议检查新增来源</div></div>
+                </div>
+              </div>
+              <div class="worklist" style="margin-top:12px">
+                <div class="work-item"><span class="priority p2">P2</span><div><p class="work-title">缓存 `/api/song-growth`</p><p class="work-desc">当前每次约 1 秒，可在服务端缓存到 reload 失效。</p></div></div>
+                <div class="work-item"><span class="priority p3">P3</span><div><p class="work-title">移动端图表简化</p><p class="work-desc">默认 14 天，详情表格折叠，减少首屏高度。</p></div></div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <p class="footer-note">这个文件只用于预览优化方向。正式实现时先修 P1 行为和安全问题，再逐页替换 UI；每次替换后用本地 HTTP 和公网各验证一次。</p>
+      </section>
+    </main>
+  </div>
+
+  <script>
+    const tabs = Array.from(document.querySelectorAll('[data-tab]'));
+    const panels = Array.from(document.querySelectorAll('.tab-panel'));
+
+    function activateTab(name) {
+      tabs.forEach(tab => tab.classList.toggle('active', tab.dataset.tab === name));
+      panels.forEach(panel => panel.classList.toggle('active', panel.id === `tab-${name}`));
+      const title = document.querySelector(`[data-tab="${name}"]`)?.textContent?.trim() || '';
+      document.title = title ? `${title} - culua 全站 Tab 优化预览` : 'culua 全站 Tab 优化预览';
+    }
+
+    tabs.forEach(tab => {
+      tab.addEventListener('click', () => activateTab(tab.dataset.tab));
+    });
+  </script>
+</body>
+</html>

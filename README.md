@@ -33,6 +33,7 @@ git status --short
 - `title-artist-check.html`：命名和校验工具，支持未命中项改名重查和搜索辅助。
 - `song-growth.html`：歌曲总量日报和增长趋势。
 - `admin-singer-config.html`：来源配置后台，管理员用 token 维护运行时配置和触发刷新。
+- `tabs-optimization-preview.html`：六个主 tab 的优化方案 HTML 预览，不替换生产页面。
 - `server.js`：统一 Node 服务端，提供静态页面、搜索分页、搜索导出、统计视图、管理刷新和内部 reload。
 
 ## 在线页面
@@ -81,6 +82,7 @@ node server.js
 ```text
 http://127.0.0.1:8080/
 http://127.0.0.1:8080/index-optimized.html
+http://127.0.0.1:8080/tabs-optimization-preview.html
 http://127.0.0.1:8080/m
 http://127.0.0.1:8080/h5
 http://127.0.0.1:8080/stats
@@ -199,6 +201,7 @@ npm start
 
 ```text
 http://127.0.0.1:8080/
+http://127.0.0.1:8080/tabs-optimization-preview.html
 http://127.0.0.1:8080/stats
 http://127.0.0.1:8080/bv
 http://127.0.0.1:8080/check
@@ -222,6 +225,7 @@ curl -fsSL https://www.culua.com/growth | head
 culua_web_h5/
 ├─ index.html                       首页和歌曲检索
 ├─ index-optimized.html             首页优化对照文件
+├─ tabs-optimization-preview.html   六个主 tab 的优化方案预览
 ├─ stats.html                       数据统计页
 ├─ bv-dup-check.html                BV 查重
 ├─ title-artist-dup-check.html      歌名歌手查重
@@ -246,6 +250,7 @@ culua_web_h5/
 - [迁移交接](docs/migration-handoff.md)
 - [culua 服务器使用指南](docs/culua-server-guide.md)
 - [首页优化方案](docs/site-optimization-plan.md)
+- [全站 Tab 优化方案预览](docs/tabs-optimization-plan.md)
 - [文件清单](docs/file-manifest.md)
 - [添加来源提示词](docs/add-source-prompt.md)
 
