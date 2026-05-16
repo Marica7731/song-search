@@ -926,6 +926,7 @@ body.culua-shell-page {
 .culua-page-content {
   min-width: 0;
   padding: 22px 24px 34px;
+  overflow-wrap: anywhere;
 }
 
 .culua-page-content > .main,
@@ -981,6 +982,198 @@ body.culua-shell-page .last-run-badge {
   color: #64748b !important;
   font-size: 12px !important;
   line-height: 1.4 !important;
+}
+
+body.culua-shell-page input,
+body.culua-shell-page select,
+body.culua-shell-page textarea,
+body.culua-shell-page button {
+  max-width: 100%;
+}
+
+body.culua-shell-page button,
+body.culua-shell-page .copy-btn,
+body.culua-shell-page .filter-btn,
+body.culua-shell-page .range-btn,
+body.culua-shell-page .modal-btn {
+  border-radius: 8px !important;
+  min-height: 36px;
+  box-shadow: none !important;
+}
+
+body.culua-shell-page .header,
+body.culua-shell-page .sub,
+body.culua-shell-page .input-help,
+body.culua-shell-page .hint-box,
+body.culua-shell-page .filter-bar,
+body.culua-shell-page .copy-controls,
+body.culua-shell-page .title-search-area,
+body.culua-shell-page .artist-select-area,
+body.culua-shell-page .result-generate-area,
+body.culua-shell-page .summary-panel,
+body.culua-shell-page .analysis-panel,
+body.culua-shell-page .table-wrap,
+body.culua-shell-page .select-item,
+body.culua-shell-page .song-item {
+  border-radius: 8px !important;
+}
+
+body.culua-shell-page .header h1,
+body.culua-shell-page .header h2,
+body.culua-shell-page h1 {
+  color: #111827 !important;
+  letter-spacing: 0 !important;
+}
+
+body.culua-shell-page .header p,
+body.culua-shell-page .sub,
+body.culua-shell-page .input-help,
+body.culua-shell-page .hint-box,
+body.culua-shell-page .stat-info,
+body.culua-shell-page .title-filter-summary {
+  color: #526176 !important;
+}
+
+body.culua-shell-page .search-box,
+body.culua-shell-page .title-controls,
+body.culua-shell-page .result-copy-actions,
+body.culua-shell-page .copy-presets,
+body.culua-shell-page .copy-advanced-body,
+body.culua-shell-page .controls,
+body.culua-shell-page .filter-actions,
+body.culua-shell-page .artist-options {
+  min-width: 0;
+}
+
+body.culua-shell-page .copy-presets,
+body.culua-shell-page .copy-advanced,
+body.culua-shell-page .input-help,
+body.culua-shell-page .hint-box,
+body.culua-shell-page .filter-bar,
+body.culua-shell-page .search-box,
+body.culua-shell-page .title-search-area,
+body.culua-shell-page .result-generate-area {
+  border-color: #d9e0ea !important;
+  box-shadow: none !important;
+}
+
+body.culua-shell-page .artist-option,
+body.culua-shell-page .source-label,
+body.culua-shell-page .song-title,
+body.culua-shell-page .song-title-large,
+body.culua-shell-page .group-name,
+body.culua-shell-page .value {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+body.culua-shell-page .artist-option {
+  min-height: 34px;
+  display: inline-flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+body.culua-shell-page .copy-toast,
+body.culua-shell-page .back-top {
+  z-index: 3000;
+}
+
+body.culua-shell-check .title-filter-btn[data-title-filter="all"].active {
+  background: #e6f4f1 !important;
+  border-color: #99d8cf !important;
+  color: #0f766e !important;
+}
+
+body.culua-shell-check .title-filter-btn[data-title-filter="review"] {
+  border-color: #f3d08a !important;
+}
+
+body.culua-shell-check .title-filter-btn[data-title-filter="review"].active {
+  background: #fff7df !important;
+  border-color: #d69e2e !important;
+  color: #92400e !important;
+}
+
+body.culua-shell-check .title-filter-btn[data-title-filter="missing"] {
+  border-color: #f3b8b8 !important;
+}
+
+body.culua-shell-check .title-filter-btn[data-title-filter="missing"].active {
+  background: #fff1f2 !important;
+  border-color: #e06b75 !important;
+  color: #b4232f !important;
+}
+
+body.culua-shell-check .select-item.status-ok {
+  border-left: 4px solid #0f766e;
+}
+
+body.culua-shell-check .select-item.status-review {
+  border-left: 4px solid #d69e2e;
+  background: #fffdf7;
+}
+
+body.culua-shell-check .select-item.status-missing {
+  border-left: 4px solid #dc3545;
+  background: #fffafa;
+}
+
+body.culua-shell-check .title-status-badge {
+  display: inline-flex;
+  align-items: center;
+  min-height: 24px;
+  padding: 2px 8px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 800;
+}
+
+body.culua-shell-check .title-status-badge.status-ok {
+  background: #e6f4f1;
+  color: #0f766e;
+}
+
+body.culua-shell-check .title-status-badge.status-review {
+  background: #fff7df;
+  color: #92400e;
+}
+
+body.culua-shell-check .title-status-badge.status-missing {
+  background: #fff1f2;
+  color: #b4232f;
+}
+
+body.culua-shell-check .retitle-tools {
+  display: grid !important;
+  grid-template-columns: minmax(180px, 1fr) minmax(160px, 1fr) auto auto auto auto;
+  gap: 8px !important;
+}
+
+body.culua-shell-check .retitle-tools input {
+  min-width: 0 !important;
+}
+
+body.culua-shell-check .net-ease-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+body.culua-shell-check .net-ease-option {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  min-height: 36px;
+  color: #475569;
+  font-size: 13px;
+}
+
+body.culua-shell-check .net-ease-option.disabled {
+  color: #94a3b8;
+  cursor: not-allowed;
 }
 
 body.culua-shell-stats h1 {
@@ -1138,6 +1331,18 @@ body.culua-shell-stats .toggle-btn {
 
   .culua-page-content {
     padding: 14px 12px 28px;
+  }
+
+  body.culua-shell-check .retitle-tools {
+    grid-template-columns: 1fr !important;
+  }
+
+  body.culua-shell-page .copy-presets > *,
+  body.culua-shell-page .copy-advanced-body > *,
+  body.culua-shell-page .result-copy-actions > *,
+  body.culua-shell-page .title-controls > *,
+  body.culua-shell-page .controls > * {
+    min-width: 0;
   }
 
   body.culua-shell-stats .search-container {

@@ -14,13 +14,13 @@
 | `stats.html` | 数据统计页 | 展示来源、歌手、曲目、投稿时间等统计视图，并记住 tab、来源、关键词和摘要链接数 | 优先请求 `/api/stats/view`，服务端不可用时回退本地数据；接入共享外壳和数据页专用视觉样式；本地视图偏好写入浏览器 `localStorage` |
 | `bv-dup-check.html` | BV 查重页面 | 接收 BV 列表，输出已存在和未命中的结果，提供复制预设入口和折叠式高级复制字段 | 依赖 `dup-check-core.js` 与 `artist-match.js`；服务端 `/api/dup-check` 限制未知 BV live fallback |
 | `title-artist-dup-check.html` | 歌名歌手查重页面 | 批量检查“歌名 - 歌手”是否已入库，展示歌手疑似不一致分组，提供复制预设入口和折叠式高级复制字段 | 依赖 `dup-check-core.js` 与 `artist-match.js` |
-| `title-artist-check.html` | 命名和校验工具 | 校验歌名歌手组合，提供改名重查、搜索辅助、候选摘要、结果筛选和 TSV 复制 | 依赖 `bili-check-title-artist.js`、`page-directory-widget.js`；服务端 `/api/title-artist/lookup` 返回 summary |
+| `title-artist-check.html` | 命名和校验工具 | 校验歌名歌手组合，提供改名重查、搜索辅助、彩色状态筛选、结果复制、TSV 复制和批量网易云搜索 | 依赖 `bili-check-title-artist.js`；服务端 `/api/title-artist/lookup` 返回 summary；正式页面首屏直接包含共享外壳 |
 | `bili-check.html` | 旧综合页 | 保留旧版综合检查入口 | 与新拆分页面共享部分解析和查重逻辑 |
 | `song-growth.html` | 歌曲总量日报页 | 展示曲库总量、日增、按投稿时间增长，支持复制当前区间摘要和当前表格页 TSV | 由 `scripts/update-song-growth.js` 更新；读取 `/api/song-growth` 的 `combinedRows`、`anomalies` 和缓存元信息 |
 | `converter.html` | 辅助转换页 | 提供文本或格式转换辅助 | 独立静态页，共用站点样式 |
 | `admin-singer-config.html` | 来源配置后台 | 管理员维护来源/BV 配置并触发刷新 | 依赖服务端管理接口、`admin-refresh-control.js` 和 hash token |
 | `site-theme.css` | 共享样式 | 页面布局、表格、按钮、状态提示、响应式样式 | 被多个 HTML 页面引用；正式工具页使用版本号查询串加载，避免线上缓存留在旧视觉 |
-| `site-shell.js` | 正式工具页共享外壳 | 将数据、BV 查重、歌名歌手查重、命名工具和日报页面包进统一品牌侧栏、主导航和 H5 横向导航，并隐藏旧文字导航 | 被 `stats.html`、`bv-dup-check.html`、`title-artist-dup-check.html`、`title-artist-check.html`、`song-growth.html` 以 `defer` 引入；样式在 `site-theme.css`，线上通过版本号查询串锁定同一批 UI 资源 |
+| `site-shell.js` | 正式工具页共享外壳兜底 | 同步当前页导航高亮；仅在页面没有静态壳层时才回退包裹 DOM | 被 `stats.html`、`bv-dup-check.html`、`title-artist-dup-check.html`、`title-artist-check.html`、`song-growth.html` 以 `defer` 引入；正式页首屏 HTML 已直接包含共享外壳，避免旧页面闪烁 |
 | `page-directory-widget.js` | 页面目录组件 | 生成浮动目录、移动端目录按钮、滚动定位 | 被长页面和校验工具复用 |
 | `last-run-badge.js` | 最近更新状态角标 | 读取更新元信息并展示“最近更新”时间，避免暴露 `update-songs` 等技术文案 | 读取 `/api/update-meta` 或相关后端数据 |
 | `admin-refresh-control.js` | 管理刷新控件 | 读取 token、显示刷新状态、触发服务端刷新 | 配合 `admin-singer-config.html` 和 `server.js` 管理接口 |
@@ -31,7 +31,7 @@
 |---|---|---|---|
 | `artist-match.js` | 歌手宽容匹配逻辑 | `normalizeString`、假名/罗马音转换、`areArtistsCompatible`、`isSameSong` | 被浏览器页面、`server.js`、`scripts/check-song-library.js` 共用 |
 | `dup-check-core.js` | 查重公共逻辑 | 读取歌库、解析 BV 或歌名歌手输入、查重、分组渲染、复制预设、复制设置持久化、AI 辅助复制、安全转义结果文本 | 被 `bv-dup-check.html` 和 `title-artist-dup-check.html` 复用 |
-| `bili-check-title-artist.js` | 命名/校验辅助 | 解析输入、请求标题查询、生成候选歌手、按状态筛选候选、生成校验结果文本和 TSV 表格、安全转义候选内容 | 被 `title-artist-check.html` 和旧综合页相关流程使用 |
+| `bili-check-title-artist.js` | 命名/校验辅助 | 解析输入、请求标题查询、生成候选歌手、按行级结果保存选择、按“已确认/需要确认/未找到”筛选候选、生成校验结果文本和 TSV 表格、打开网易云搜索、安全转义候选内容 | 被 `title-artist-check.html` 和旧综合页相关流程使用 |
 
 ## 服务端
 

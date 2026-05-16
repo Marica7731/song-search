@@ -148,24 +148,47 @@ async function buildTitleArtistResultItemViaApi(item) {
   return Array.isArray(payload.items) && payload.items.length > 0 ? payload.items[0] : buildTitleArtistResultItem(item);
 }
 
+function assignTitleResultKeys() {
+  titleSearchResults.forEach((item, index) => {
+    if (!item) return;
+    item.resultKey = `${index}|${item.title || ''}|${item.inputArtist || ''}|${item.originalLine || ''}`;
+  });
+}
+
+function getTitleSelectionKey(item) {
+  return item?.resultKey || item?.title || '';
+}
+
 function setDefaultSelectedArtist(item, previousSelected = '') {
+  const key = getTitleSelectionKey(item);
   if (item.hasResult) {
     const fallback = item.maxSourceArtist || item.artistNames[0] || '';
     const canReusePrevious = previousSelected && item.artistNames.includes(previousSelected);
-    selectedArtists[item.title] = canReusePrevious ? previousSelected : fallback;
+    selectedArtists[key] = canReusePrevious ? previousSelected : fallback;
     return;
   }
 
   if (item.inputArtist && item.inputArtist.trim()) {
-    selectedArtists[item.title] = item.inputArtist.trim();
+    selectedArtists[key] = item.inputArtist.trim();
     return;
   }
 
-  selectedArtists[item.title] = '';
+  selectedArtists[key] = '';
 }
 
 function getNeteaseSearchUrl(keyword) {
   return `https://music.163.com/#/search/m/?s=${encodeURIComponent(keyword)}&type=1`;
+}
+
+function hasUserProvidedArtist(item) {
+  return !!String(item?.inputArtist || '').trim();
+}
+
+function getNeteaseSearchKeyword(item, { titleOnly = false } = {}) {
+  const title = String(item?.title || '').trim();
+  if (!title) return '';
+  const artist = titleOnly ? '' : String(selectedArtists[getTitleSelectionKey(item)] || item.inputArtist || '').trim();
+  return artist ? `${title} - ${artist}` : title;
 }
 
 function parseTitleArtistText(text) {
@@ -187,10 +210,10 @@ function notifyNamingToolDirectoryRefresh() {
   }
 }
 
-function setSelectItemDirectoryMeta(selectItem, titleText) {
+function setSelectItemDirectoryMeta(selectItem, item) {
   if (!selectItem) return;
-  const title = String(titleText || '').trim();
-  const artist = String(selectedArtists[title] || '').trim();
+  const title = String(item?.title || '').trim();
+  const artist = String(selectedArtists[getTitleSelectionKey(item)] || '').trim();
   const label = artist ? `${title} - ${artist}` : title;
   selectItem.dataset.dirTitle = title;
   selectItem.dataset.dirArtist = artist;
@@ -215,6 +238,7 @@ function getTitleSuggestions(keyword) {
 
 function createRetitleTools(item, index) {
   const tools = document.createElement('div');
+  tools.className = 'retitle-tools';
   tools.style.marginTop = '8px';
   tools.style.display = 'flex';
   tools.style.gap = '8px';
@@ -235,7 +259,7 @@ function createRetitleTools(item, index) {
 
   const artistInput = document.createElement('input');
   artistInput.type = 'text';
-  artistInput.value = selectedArtists[item.title] || item.inputArtist || '';
+  artistInput.value = selectedArtists[getTitleSelectionKey(item)] || item.inputArtist || '';
   artistInput.placeholder = '可修改歌手，或粘贴“歌名 - 歌手”';
   artistInput.style.flex = '1';
   artistInput.style.minWidth = '180px';
@@ -288,6 +312,18 @@ function createRetitleTools(item, index) {
   applyArtistBtn.style.fontSize = '12px';
   applyArtistBtn.style.cursor = 'pointer';
 
+  const titleOnlyLabel = document.createElement('label');
+  titleOnlyLabel.className = 'net-ease-option';
+  const titleOnlyInput = document.createElement('input');
+  titleOnlyInput.type = 'checkbox';
+  titleOnlyInput.disabled = !hasUserProvidedArtist(item);
+  if (titleOnlyInput.disabled) {
+    titleOnlyLabel.classList.add('disabled');
+    titleOnlyLabel.title = '用户没有提供歌手时，该项不可勾选';
+  }
+  titleOnlyLabel.appendChild(titleOnlyInput);
+  titleOnlyLabel.appendChild(document.createTextNode('不带歌手'));
+
   const link = document.createElement('a');
   const applyCombinedInputFields = () => {
     const parsedFromTitle = parseTitleArtistText(titleInput.value);
@@ -326,7 +362,7 @@ function createRetitleTools(item, index) {
     const parsedArtist = parseTitleArtistText(artistInput.value);
     const t = (parsedTitle.title || item.title || '').trim();
     const a = (parsedTitle.artist || parsedArtist.artist || artistInput.value || '').trim();
-    const keyword = a ? `${t} - ${a}` : t;
+    const keyword = titleOnlyInput.checked ? t : (a ? `${t} - ${a}` : t);
     link.href = getNeteaseSearchUrl(keyword);
   };
   refreshSearchLink();
@@ -354,8 +390,10 @@ function createRetitleTools(item, index) {
   artistInput.addEventListener('paste', () => setTimeout(applyCombinedInputFields, 0));
   artistInput.addEventListener('change', refreshSearchLink);
   artistInput.addEventListener('change', applyCombinedInputFields);
+  titleOnlyInput.addEventListener('change', refreshSearchLink);
 
-  retryBtn.textContent = '应用歌名并刷新';
+  retryBtn.textContent = '按输入歌名重查';
+  applyArtistBtn.textContent = '应用输入歌手到结果';
 
   retryBtn.onclick = async () => {
     applyCombinedInputFields();
@@ -366,11 +404,8 @@ function createRetitleTools(item, index) {
       return;
     }
 
-    const oldTitle = item.title;
-    const previousSelected = selectedArtists[oldTitle] || '';
-    if (oldTitle !== newTitle) {
-      delete selectedArtists[oldTitle];
-    }
+    const rowKey = getTitleSelectionKey(item);
+    const previousSelected = selectedArtists[rowKey] || '';
 
     const queryItem = {
       title: newTitle,
@@ -381,10 +416,11 @@ function createRetitleTools(item, index) {
       ? await buildTitleArtistResultItemViaApi(queryItem)
       : buildTitleArtistResultItem(queryItem);
 
+    refreshed.resultKey = rowKey;
     titleSearchResults[index] = refreshed;
     setDefaultSelectedArtist(refreshed, previousSelected);
     if (manualArtist) {
-      selectedArtists[newTitle] = manualArtist;
+      selectedArtists[rowKey] = manualArtist;
       refreshed.inputArtist = manualArtist;
       refreshed.isArtistValid = refreshed.artistNames.some(name => artistsCompatible(name, manualArtist));
     }
@@ -400,7 +436,7 @@ function createRetitleTools(item, index) {
       alert('请输入要应用的歌手');
       return;
     }
-    selectedArtists[item.title] = newArtist;
+    selectedArtists[getTitleSelectionKey(item)] = newArtist;
     item.inputArtist = newArtist;
     item.isArtistValid = item.artistNames.some(name => artistsCompatible(name, newArtist));
     renderArtistSelectWithValidation();
@@ -412,6 +448,7 @@ function createRetitleTools(item, index) {
   tools.appendChild(suggestionList);
   tools.appendChild(retryBtn);
   tools.appendChild(applyArtistBtn);
+  tools.appendChild(titleOnlyLabel);
   tools.appendChild(link);
   return tools;
 }
@@ -445,6 +482,7 @@ async function searchAndValidateArtists() {
     });
   }
 
+  assignTitleResultKeys();
   titleSearchResults.forEach(item => {
     setDefaultSelectedArtist(item);
   });
@@ -455,19 +493,30 @@ async function searchAndValidateArtists() {
   generateResultText();
 }
 
+function getTitleItemStatusKind(item) {
+  if (!item?.hasResult) return 'missing';
+  if (!hasUserProvidedArtist(item)) return 'review';
+  if (!item.isArtistValid) return 'review';
+  return 'ok';
+}
+
 function isTitleItemNeedsReview(item) {
-  if (!item || !item.hasResult) return false;
-  if (inputFormatType === 'full' && item.inputArtist?.trim() && !item.isArtistValid) return true;
-  return Array.isArray(item.artistNames) && item.artistNames.length > 1;
+  return getTitleItemStatusKind(item) === 'review';
 }
 
 function getTitleItemStatus(item) {
-  if (!item?.hasResult) return '未找到';
-  if (inputFormatType === 'full' && item.inputArtist?.trim()) {
-    return item.isArtistValid ? '歌手验证通过' : '歌手需确认';
-  }
-  if (Array.isArray(item.artistNames) && item.artistNames.length > 1) return '多候选';
+  const kind = getTitleItemStatusKind(item);
+  if (kind === 'missing') return '未找到';
+  if (kind === 'review') return '需要确认';
   return '已确认';
+}
+
+function getTitleItemStatusReason(item) {
+  const kind = getTitleItemStatusKind(item);
+  if (kind === 'missing') return '需要用户自行找到歌手';
+  if (!hasUserProvidedArtist(item)) return '用户没有提供歌手';
+  if (!item.isArtistValid) return `输入歌手与库中候选不一致：${(item.artistNames || []).join(' / ') || '无候选'}`;
+  return '用户提供的歌手已验证通过';
 }
 
 function matchesTitleFilter(item) {
@@ -493,6 +542,9 @@ function renderTitleFilterBar() {
   bar.classList.toggle('active', total > 0);
   bar.querySelectorAll('[data-title-filter]').forEach(button => {
     button.classList.toggle('active', button.dataset.titleFilter === titleFilterMode);
+    if (button.dataset.titleFilter === 'all') button.textContent = `全部 ${total}`;
+    if (button.dataset.titleFilter === 'review') button.textContent = `需要确认 ${reviewCount}`;
+    if (button.dataset.titleFilter === 'missing') button.textContent = `未找到 ${missingCount}`;
   });
   const summary = document.getElementById('titleFilterSummary');
   if (summary) {
@@ -506,6 +558,47 @@ function setTitleFilterMode(mode) {
   generateResultText();
 }
 
+function updateNeteaseBatchState() {
+  const entries = getTitleResultEntries();
+  const checkbox = document.getElementById('neteaseTitleOnly');
+  const label = document.getElementById('neteaseTitleOnlyLabel');
+  const button = document.getElementById('openNeteaseBatchBtn');
+  const hasProvidedArtist = entries.some(({ item }) => hasUserProvidedArtist(item));
+  if (checkbox) {
+    checkbox.disabled = !hasProvidedArtist;
+    if (!hasProvidedArtist) checkbox.checked = false;
+  }
+  if (label) {
+    label.classList.toggle('disabled', !hasProvidedArtist);
+    label.title = hasProvidedArtist ? '' : '当前筛选结果里没有用户提供的歌手，该项不可勾选';
+  }
+  if (button) {
+    button.disabled = entries.length === 0;
+    button.textContent = entries.length > 0 ? `逐个打开网易云搜索（${entries.length}）` : '逐个打开网易云搜索';
+  }
+}
+
+function openVisibleNeteaseSearches() {
+  const entries = getTitleResultEntries();
+  if (entries.length === 0) {
+    alert('当前筛选下没有可搜索的结果');
+    return;
+  }
+  const titleOnly = !!document.getElementById('neteaseTitleOnly')?.checked;
+  let opened = 0;
+  entries.forEach(({ item }) => {
+    const keyword = getNeteaseSearchKeyword(item, { titleOnly });
+    if (!keyword) return;
+    const win = window.open(getNeteaseSearchUrl(keyword), '_blank', 'noopener,noreferrer');
+    if (win) opened += 1;
+  });
+  if (opened > 0) {
+    showCopyToast(`已打开 ${opened} 个网易云搜索`);
+  } else {
+    alert('浏览器拦截了弹窗，请允许本站打开新标签页后重试。');
+  }
+}
+
 function renderArtistSelectWithValidation() {
   const container = document.getElementById('artistSelectContainer');
   container.innerHTML = '';
@@ -517,46 +610,38 @@ function renderArtistSelectWithValidation() {
     empty.className = 'select-item';
     empty.textContent = '当前筛选下没有需要展示的结果';
     container.appendChild(empty);
+    updateNeteaseBatchState();
     notifyNamingToolDirectoryRefresh();
     return;
   }
 
   entries.forEach(({ item, index }) => {
     const selectItem = document.createElement('div');
-    selectItem.className = 'select-item';
+    const selectionKey = getTitleSelectionKey(item);
+    const statusKind = getTitleItemStatusKind(item);
+    selectItem.className = `select-item status-${statusKind}`;
 
-    let titleHtml = `<h4>${escapeHtml(item.title)}`;
-    if (inputFormatType === 'full' && item.inputArtist.trim()) {
-      if (item.hasResult) {
-        titleHtml += item.isArtistValid
-          ? `<span class="valid-tag">✅ 歌手 "${escapeHtml(item.inputArtist)}" 验证通过</span>`
-          : `<span class="invalid-tag">❌ 歌手 "${escapeHtml(item.inputArtist)}" 与库中不符，库中歌手：${escapeHtml(item.artistNames.join(' / '))}</span>`;
-      } else {
-        titleHtml += `<span class="invalid-tag">❌ 未找到该歌曲信息</span>`;
-      }
-    } else if (!item.hasResult) {
-      titleHtml += `<span class="invalid-tag">❌ 未找到该歌曲信息</span>`;
-    } else if (item.artistNames.length > 1) {
-      titleHtml += `<span class="valid-tag">已默认选择来源最多项（并列取靠前）</span>`;
-    }
-    titleHtml += `</h4>`;
+    const statusText = getTitleItemStatus(item);
+    const statusReason = getTitleItemStatusReason(item);
+    const statusClass = statusKind === 'ok' ? 'valid-tag' : 'invalid-tag';
+    const titleHtml = `<h4><span class="title-main-text">${escapeHtml(item.title)}</span><span class="title-status-badge status-${statusKind}">${escapeHtml(statusText)}</span><span class="${statusClass}">${escapeHtml(statusReason)}</span></h4>`;
     selectItem.innerHTML = titleHtml;
 
     const optionsDiv = document.createElement('div');
     optionsDiv.className = 'artist-options';
 
     if (item.hasResult) {
-      if (inputFormatType === 'full' && item.inputArtist.trim()) {
+      if (hasUserProvidedArtist(item)) {
         const isUserArtistMaxSource = artistsCompatible(item.inputArtist, item.maxSourceArtist);
         const userBtn = document.createElement('div');
-        const isUserSelected = selectedArtists[item.title] === item.inputArtist;
+        const isUserSelected = selectedArtists[selectionKey] === item.inputArtist;
         userBtn.className = `artist-option ${isUserArtistMaxSource ? 'max-source' : 'user-provided'} ${isUserSelected ? 'selected' : ''}`;
         userBtn.innerHTML = `${escapeHtml(item.inputArtist)} (用户输入) <span class="source-label">来源：用户输入</span>`;
         userBtn.onclick = () => {
-          selectedArtists[item.title] = item.inputArtist;
+          selectedArtists[selectionKey] = item.inputArtist;
           optionsDiv.querySelectorAll('.artist-option').forEach(btn => btn.classList.remove('selected'));
           userBtn.classList.add('selected');
-          setSelectItemDirectoryMeta(selectItem, item.title);
+          setSelectItemDirectoryMeta(selectItem, item);
           notifyNamingToolDirectoryRefresh();
           generateResultText();
         };
@@ -573,7 +658,7 @@ function renderArtistSelectWithValidation() {
       item.artists.forEach(artist => {
         const optionBtn = document.createElement('div');
         const isMaxSource = artist.name === item.maxSourceArtist;
-        const isSelected = selectedArtists[item.title] === artist.name;
+        const isSelected = selectedArtists[selectionKey] === artist.name;
 
         let className = 'artist-option';
         if (isMaxSource) className += ' max-source';
@@ -582,10 +667,10 @@ function renderArtistSelectWithValidation() {
 
         optionBtn.innerHTML = `${escapeHtml(artist.name)} (库中值) <span class="source-label">来源(${escapeHtml(artist.sourceCount)})：${escapeHtml(artist.sources)}</span>`;
         optionBtn.onclick = () => {
-          selectedArtists[item.title] = artist.name;
+          selectedArtists[selectionKey] = artist.name;
           optionsDiv.querySelectorAll('.artist-option').forEach(btn => btn.classList.remove('selected'));
           optionBtn.classList.add('selected');
-          setSelectItemDirectoryMeta(selectItem, item.title);
+          setSelectItemDirectoryMeta(selectItem, item);
           notifyNamingToolDirectoryRefresh();
           generateResultText();
         };
@@ -594,17 +679,17 @@ function renderArtistSelectWithValidation() {
     } else {
       if (item.inputArtist.trim()) {
         const errorBtn = document.createElement('div');
-        if (!selectedArtists[item.title]) {
-          selectedArtists[item.title] = item.inputArtist;
+        if (!selectedArtists[selectionKey]) {
+          selectedArtists[selectionKey] = item.inputArtist;
         }
-        const isSelected = selectedArtists[item.title] === item.inputArtist;
+        const isSelected = selectedArtists[selectionKey] === item.inputArtist;
         errorBtn.className = `artist-option error ${isSelected ? 'selected' : ''}`;
         errorBtn.innerHTML = `${escapeHtml(item.inputArtist)} (输入值) <span class="source-label">无匹配来源</span>`;
         errorBtn.onclick = () => {
-          selectedArtists[item.title] = item.inputArtist;
+          selectedArtists[selectionKey] = item.inputArtist;
           optionsDiv.querySelectorAll('.artist-option').forEach(btn => btn.classList.remove('selected'));
           errorBtn.classList.add('selected');
-          setSelectItemDirectoryMeta(selectItem, item.title);
+          setSelectItemDirectoryMeta(selectItem, item);
           notifyNamingToolDirectoryRefresh();
           generateResultText();
         };
@@ -620,11 +705,12 @@ function renderArtistSelectWithValidation() {
     selectItem.appendChild(optionsDiv);
 
     selectItem.appendChild(createRetitleTools(item, index));
-    setSelectItemDirectoryMeta(selectItem, item.title);
+    setSelectItemDirectoryMeta(selectItem, item);
 
     container.appendChild(selectItem);
   });
 
+  updateNeteaseBatchState();
   notifyNamingToolDirectoryRefresh();
 }
 
@@ -635,7 +721,7 @@ function generateResultText() {
 function buildResultText(entries) {
   return entries.map(({ item, index }) => {
     const num = (index + 1).toString().padStart(2, '0');
-    const artist = selectedArtists[item.title] || '';
+    const artist = selectedArtists[getTitleSelectionKey(item)] || '';
     return `${num}. ${item.title} ${artist ? '- ' + artist : ''}`;
   }).join('\n');
 }
@@ -643,7 +729,7 @@ function buildResultText(entries) {
 function buildResultTable(entries) {
   const header = ['序号', '歌名', '选择歌手', '输入歌手', '状态', '库中候选'];
   const body = entries.map(({ item, index }) => {
-    const selectedArtist = selectedArtists[item.title] || '';
+    const selectedArtist = selectedArtists[getTitleSelectionKey(item)] || '';
     return [
       String(index + 1).padStart(2, '0'),
       item.title || '',

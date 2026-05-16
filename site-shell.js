@@ -43,9 +43,29 @@
     }).join('');
   }
 
+  function syncShell(activeKey) {
+    if (!activeKey) return;
+    document.body.classList.add('culua-shell-page', `culua-shell-${activeKey}`);
+    document.querySelectorAll('.culua-shell-nav-item').forEach((link) => {
+      const href = link.getAttribute('href') || '';
+      const item = navItems.find((nav) => nav.href === href);
+      const isActive = item && item.key === activeKey;
+      link.classList.toggle('active', !!isActive);
+      if (isActive) {
+        link.setAttribute('aria-current', 'page');
+      } else {
+        link.removeAttribute('aria-current');
+      }
+    });
+  }
+
   function applyShell() {
     const activeKey = currentPageKey();
-    if (!activeKey || document.querySelector('.culua-page-shell')) return;
+    if (!activeKey) return;
+    if (document.querySelector('.culua-page-shell')) {
+      syncShell(activeKey);
+      return;
+    }
 
     document.body.classList.add('culua-shell-page', `culua-shell-${activeKey}`);
 

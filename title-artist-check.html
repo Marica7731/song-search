@@ -5,8 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>命名工具</title>
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-<link rel="stylesheet" href="/site-theme.css?v=20260516stats2">
-<script src="/site-shell.js?v=20260516stats2" defer></script>
+<link rel="stylesheet" href="/site-theme.css?v=20260516shell4">
+<script src="/site-shell.js?v=20260516shell4" defer></script>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:#f6f7f9;padding:20px}
@@ -61,19 +61,30 @@ button{padding:0 18px;height:44px;color:#111827;border:1px solid #b8c0cc;border-
   }
 </style>
 </head>
-<body>
+<body class="culua-shell-page culua-shell-check">
+<div class="culua-page-shell">
+  <aside class="culua-sidebar">
+    <div class="culua-brand">
+      <div class="culua-brand-mark">C</div>
+      <div>
+        <div class="culua-brand-title">culua 歌曲检索</div>
+        <div class="culua-brand-subtitle">B站歌切分P直达</div>
+      </div>
+    </div>
+    <nav class="culua-shell-nav" aria-label="页面导航">
+      <a class="culua-shell-nav-item" href="/">检索 <span>首页</span></a>
+      <a class="culua-shell-nav-item" href="/stats">统计 <span>排行</span></a>
+      <a class="culua-shell-nav-item" href="/bv">BV 查重 <span>工具</span></a>
+      <a class="culua-shell-nav-item" href="/dup">歌名查重 <span>工具</span></a>
+      <a class="culua-shell-nav-item active" href="/check" aria-current="page">命名校验 <span>工具</span></a>
+      <a class="culua-shell-nav-item" href="/growth">增长日报 <span>数据</span></a>
+    </nav>
+  </aside>
+  <main class="culua-page-content">
 <div class="main">
   <div class="header">
     <h2>命名工具</h2>
     <p>查询歌手、校验输入并修正歌名或歌手后快速检索。</p>
-  </div>
-  <div class="nav">
-    <a href="/">主站</a> |
-    <a href="/stats">数据</a> |
-    <a href="/bv">BV查重</a> |
-    <a href="/dup">歌名歌手查重</a> |
-    命名工具 |
-    <a href="/growth">日报</a>
   </div>
 
   <div class="title-search-area">
@@ -105,12 +116,18 @@ button{padding:0 18px;height:44px;color:#111827;border:1px solid #b8c0cc;border-
       <button id="copyResultBtn">复制全部结果</button>
       <button id="copyVisibleResultBtn">复制当前筛选</button>
       <button id="copyTableResultBtn">复制当前表格</button>
+      <span class="net-ease-actions">
+        <label class="net-ease-option disabled" id="neteaseTitleOnlyLabel"><input type="checkbox" id="neteaseTitleOnly" disabled>网易云搜索不带歌手</label>
+        <button id="openNeteaseBatchBtn" type="button" disabled>逐个打开网易云搜索</button>
+      </span>
     </div>
   </div>
 </div>
 
 <div class="copy-toast" id="copyToast">复制成功</div>
 <button class="back-top" id="backTopBtn" type="button" aria-label="回到顶部">↑</button>
+  </main>
+</div>
 
 <script>
 let allSongs = [];
@@ -218,8 +235,8 @@ async function loadAllData() {
 }
 </script>
 <script src="/artist-match.js"></script>
-<script src="bili-check-title-artist.js?v=2026051601"></script>
-<script src="/page-directory-widget.js?v=20260516stats2"></script>
+<script src="bili-check-title-artist.js?v=2026051603"></script>
+<script src="/page-directory-widget.js?v=20260516shell4"></script>
 <script>
 function initTitleArtistPage() {
   setCheckReadyState(false, '正在连接服务端歌库...');
@@ -228,6 +245,8 @@ function initTitleArtistPage() {
   document.getElementById('copyResultBtn').addEventListener('click', copyResultText);
   document.getElementById('copyVisibleResultBtn').addEventListener('click', copyVisibleResultText);
   document.getElementById('copyTableResultBtn').addEventListener('click', copyTitleResultTable);
+  document.getElementById('openNeteaseBatchBtn').addEventListener('click', openVisibleNeteaseSearches);
+  document.getElementById('neteaseTitleOnly').addEventListener('change', updateNeteaseBatchState);
   document.querySelectorAll('[data-title-filter]').forEach(button => {
     button.addEventListener('click', () => setTitleFilterMode(button.dataset.titleFilter));
   });
@@ -304,7 +323,7 @@ function initTitleArtistPage() {
 }
 document.addEventListener('DOMContentLoaded', initTitleArtistPage);
 </script>
-  <script src="/last-run-badge.js?v=20260516stats2"></script>
+  <script src="/last-run-badge.js?v=20260516shell4"></script>
 </body>
 </html>
 

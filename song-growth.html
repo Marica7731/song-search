@@ -5,8 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>歌曲增长日报</title>
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-  <link rel="stylesheet" href="/site-theme.css?v=20260516stats2">
-  <script src="/site-shell.js?v=20260516stats2" defer></script>
+  <link rel="stylesheet" href="/site-theme.css?v=20260516shell4">
+  <script src="/site-shell.js?v=20260516shell4" defer></script>
   <style>
     * { box-sizing: border-box }
     body {
@@ -363,18 +363,29 @@
     }
   </style>
 </head>
-<body>
+<body class="culua-shell-page culua-shell-growth">
+  <div class="culua-page-shell">
+    <aside class="culua-sidebar">
+      <div class="culua-brand">
+        <div class="culua-brand-mark">C</div>
+        <div>
+          <div class="culua-brand-title">culua 歌曲检索</div>
+          <div class="culua-brand-subtitle">B站歌切分P直达</div>
+        </div>
+      </div>
+      <nav class="culua-shell-nav" aria-label="页面导航">
+        <a class="culua-shell-nav-item" href="/">检索 <span>首页</span></a>
+        <a class="culua-shell-nav-item" href="/stats">统计 <span>排行</span></a>
+        <a class="culua-shell-nav-item" href="/bv">BV 查重 <span>工具</span></a>
+        <a class="culua-shell-nav-item" href="/dup">歌名查重 <span>工具</span></a>
+        <a class="culua-shell-nav-item" href="/check">命名校验 <span>工具</span></a>
+        <a class="culua-shell-nav-item active" href="/growth" aria-current="page">增长日报 <span>数据</span></a>
+      </nav>
+    </aside>
+    <main class="culua-page-content">
   <div class="main panel">
     <h1>歌曲增长日报</h1>
     <div class="sub" id="updatedAtText">更新时间：加载中…</div>
-    <div class="nav">
-      <a href="/">首页</a> |
-      <a href="/stats">数据</a> |
-      <a href="/bv">BV查重</a> |
-      <a href="/dup">歌名歌手查重</a> |
-      <a href="/check">命名工具</a> |
-      日报
-    </div>
     <div class="hint-box">
       仅按 <code>发布日期</code> 统计并合并展示两条维度：<b>播放量</b> 与 <b>曲目</b>。支持切换查看
       <b>累计总量</b> 与 <b>当日总量</b>，也支持切到 <b>单指标曲线</b> 看对应的数据分析。
@@ -471,6 +482,8 @@
 
   <button class="back-top" id="backTopBtn" type="button" aria-label="回到顶部">↑</button>
   <div class="copy-toast" id="copyToast">已复制</div>
+    </main>
+  </div>
 
   <script>
     const chartCanvas = document.getElementById('growthChart');
@@ -1274,6 +1287,6 @@
 
     initPage();
   </script>
-  <script src="/last-run-badge.js?v=20260516stats2"></script>
+  <script src="/last-run-badge.js?v=20260516shell4"></script>
 </body>
 </html>

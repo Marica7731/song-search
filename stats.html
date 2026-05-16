@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>歌曲数据</title>
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-    <link rel="stylesheet" href="/site-theme.css?v=20260516stats2">
-    <script src="/site-shell.js?v=20260516stats2" defer></script>
+    <link rel="stylesheet" href="/site-theme.css?v=20260516shell4">
+    <script src="/site-shell.js?v=20260516shell4" defer></script>
     <style>
         /* --- 全局样式复用 --- */
         * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -26,23 +26,6 @@
             font-weight: 700;
             text-shadow: none;
         }
-        .sub-header {
-            text-align: center;
-            color: #6c757d;
-            margin-bottom: 18px;
-            font-size: 14px;
-        }
-        .nav-link {
-            display: inline-flex;
-            align-items: center;
-            min-height: 34px;
-            padding: 0 4px;
-            color: #00a1d6;
-            text-decoration: none;
-            font-weight: 600;
-        }
-        .nav-link:hover { text-decoration: underline; }
-
         /* --- Tab 切换器 --- */
         .tabs-container {
             display: flex;
@@ -794,15 +777,27 @@
         }
     </style>
 </head>
-<body>
+<body class="culua-shell-page culua-shell-stats">
+    <div class="culua-page-shell">
+        <aside class="culua-sidebar">
+            <div class="culua-brand">
+                <div class="culua-brand-mark">C</div>
+                <div>
+                    <div class="culua-brand-title">culua 歌曲检索</div>
+                    <div class="culua-brand-subtitle">B站歌切分P直达</div>
+                </div>
+            </div>
+            <nav class="culua-shell-nav" aria-label="页面导航">
+                <a class="culua-shell-nav-item" href="/">检索 <span>首页</span></a>
+                <a class="culua-shell-nav-item active" href="/stats" aria-current="page">统计 <span>排行</span></a>
+                <a class="culua-shell-nav-item" href="/bv">BV 查重 <span>工具</span></a>
+                <a class="culua-shell-nav-item" href="/dup">歌名查重 <span>工具</span></a>
+                <a class="culua-shell-nav-item" href="/check">命名校验 <span>工具</span></a>
+                <a class="culua-shell-nav-item" href="/growth">增长日报 <span>数据</span></a>
+            </nav>
+        </aside>
+        <main class="culua-page-content">
     <h1>歌曲数据</h1>
-    <div class="sub-header">
-        <a href="/" class="nav-link">主站</a> |
-        <a href="/bv" class="nav-link">BV查重</a> |
-        <a href="/dup" class="nav-link">歌名歌手查重</a> |
-        <a href="/check" class="nav-link">命名工具</a> |
-        <a href="/growth" class="nav-link">日报</a>
-    </div>
     <div id="updateSongsLastRunPlaceholder" class="last-run-badge">最近更新：加载中…</div>
 
     <!-- Tab 切换器 -->
@@ -890,6 +885,8 @@
     <!-- Toast 容器 -->
     <div class="toast-container" id="toast-container"></div>
     <button class="back-top" id="backTopBtn" type="button" aria-label="回到顶部">↑</button>
+        </main>
+    </div>
 
     <script>
         // 全局数据
@@ -2632,7 +2629,7 @@
             bootstrap();
         });
     </script>
-  <script src="/page-directory-widget.js?v=20260516stats2"></script>
+  <script src="/page-directory-widget.js?v=20260516shell4"></script>
   <script>
     document.addEventListener('DOMContentLoaded', () => {
       if (typeof window.createPageDirectory !== 'function') return;
@@ -2730,7 +2727,7 @@
       queueRefresh();
     });
   </script>
-  <script src="/last-run-badge.js?v=20260516stats2"></script>
+  <script src="/last-run-badge.js?v=20260516shell4"></script>
 </body>
 </html>
 
