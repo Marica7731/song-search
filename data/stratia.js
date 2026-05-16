@@ -1,6 +1,6 @@
 // すとらてぃあ-Stratia - 歌单数据 (多合集汇总)
 // 来源: BV1KSRXBwE2v
-// 生成时间: 5/16/2026, 6:39:17 PM
+// 生成时间: 5/16/2026, 7:18:16 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -115,6 +115,86 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-05-12 すとらてぃあ-Stratia lRz9Sa9sVuA 第一次歌回🦋🫧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h25g6QEmA?p=10",
+  "source": "stratia.js"
+},
+    {
+  "title": "ロビンソン",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-05-16]只听一首也好，要进来听吗？悠闲弹唱🎸🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ELV6aEJa?p=1",
+  "source": "stratia.js"
+},
+    {
+  "title": "春の歌",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-05-16]只听一首也好，要进来听吗？悠闲弹唱🎸🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ELV6aEJa?p=2",
+  "source": "stratia.js"
+},
+    {
+  "title": "君の体温",
+  "artist": "クワガタP",
+  "collection": "【歌切】[2026-05-16]只听一首也好，要进来听吗？悠闲弹唱🎸🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ELV6aEJa?p=3",
+  "source": "stratia.js"
+},
+    {
+  "title": "インタビュア",
+  "artist": "クワガタP",
+  "collection": "【歌切】[2026-05-16]只听一首也好，要进来听吗？悠闲弹唱🎸🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ELV6aEJa?p=4",
+  "source": "stratia.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "TOKOTOKO(西沢さんP)",
+  "collection": "【歌切】[2026-05-16]只听一首也好，要进来听吗？悠闲弹唱🎸🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ELV6aEJa?p=5",
+  "source": "stratia.js"
+},
+    {
+  "title": "Booo!",
+  "artist": "TOKOTOKO(西沢さんP)",
+  "collection": "【歌切】[2026-05-16]只听一首也好，要进来听吗？悠闲弹唱🎸🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ELV6aEJa?p=6",
+  "source": "stratia.js"
+},
+    {
+  "title": "さわやか社員",
+  "artist": "相対性理論",
+  "collection": "【歌切】[2026-05-16]只听一首也好，要进来听吗？悠闲弹唱🎸🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ELV6aEJa?p=7",
+  "source": "stratia.js"
+},
+    {
+  "title": "人工衛星",
+  "artist": "相対性理論",
+  "collection": "【歌切】[2026-05-16]只听一首也好，要进来听吗？悠闲弹唱🎸🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ELV6aEJa?p=8",
+  "source": "stratia.js"
+},
+    {
+  "title": "SWEET TWEET",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-05-16]只听一首也好，要进来听吗？悠闲弹唱🎸🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ELV6aEJa?p=9",
+  "source": "stratia.js"
+},
+    {
+  "title": "コーヒーとシロップ",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-05-16]只听一首也好，要进来听吗？悠闲弹唱🎸🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ELV6aEJa?p=10",
   "source": "stratia.js"
 }
 );
