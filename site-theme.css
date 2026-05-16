@@ -829,3 +829,173 @@ tbody tr:hover {
 .perf-header {
   align-items: center !important;
 }
+
+/* Shared production shell for the non-home tool pages. */
+body.culua-shell-page {
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  background: #f5f7fb !important;
+  overflow-x: hidden;
+}
+
+.culua-page-shell {
+  min-height: 100vh;
+  display: grid;
+  grid-template-columns: 280px minmax(0, 1fr);
+  background: #f5f7fb;
+}
+
+.culua-sidebar {
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  overflow: auto;
+  padding: 18px;
+  background: #fff;
+  border-right: 1px solid #d9e0ea;
+  z-index: 60;
+}
+
+.culua-brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 18px;
+}
+
+.culua-brand-mark {
+  width: 34px;
+  height: 34px;
+  border-radius: 8px;
+  background: #0f766e;
+  color: #fff;
+  display: grid;
+  place-items: center;
+  font-weight: 800;
+}
+
+.culua-brand-title {
+  color: #111827;
+  font-size: 18px;
+  font-weight: 800;
+  line-height: 1.2;
+}
+
+.culua-brand-subtitle {
+  color: #667085;
+  font-size: 12px;
+  margin-top: 2px;
+}
+
+.culua-shell-nav {
+  display: grid;
+  gap: 6px;
+  margin: 14px 0 0;
+}
+
+.culua-shell-nav-item {
+  display: flex !important;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 36px;
+  padding: 7px 9px !important;
+  border-radius: 8px;
+  color: #334155 !important;
+  text-decoration: none !important;
+  font-weight: 700;
+}
+
+.culua-shell-nav-item span {
+  color: #64748b;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.culua-shell-nav-item:hover,
+.culua-shell-nav-item.active {
+  color: #0f766e !important;
+  background: #e6f4f1;
+}
+
+.culua-shell-nav-item:hover span,
+.culua-shell-nav-item.active span {
+  color: #0f766e;
+}
+
+.culua-page-content {
+  min-width: 0;
+  padding: 22px 24px 34px;
+}
+
+.culua-page-content > .main,
+.culua-page-content > .main.panel {
+  max-width: none !important;
+  margin: 0 !important;
+}
+
+.culua-page-content > h1,
+.culua-page-content .header {
+  text-align: left !important;
+}
+
+.culua-page-content > h1 {
+  margin: 0 0 8px !important;
+}
+
+.culua-page-content .header {
+  margin-bottom: 18px !important;
+}
+
+.culua-page-content .header h2 {
+  margin-bottom: 6px !important;
+}
+
+.culua-page-content > .sub-header,
+.culua-page-content .main > .module-nav,
+.culua-page-content .main > .nav {
+  display: none !important;
+}
+
+body.culua-shell-page .page-directory-toggle,
+body.culua-shell-page .page-directory {
+  z-index: 70;
+}
+
+@media (max-width: 980px) {
+  .culua-page-shell {
+    display: block;
+  }
+
+  .culua-sidebar {
+    position: sticky;
+    top: 0;
+    height: auto;
+    max-height: none;
+    padding: 12px;
+    border-right: 0;
+    border-bottom: 1px solid #d9e0ea;
+  }
+
+  .culua-brand {
+    margin-bottom: 10px;
+  }
+
+  .culua-shell-nav {
+    display: flex;
+    gap: 8px;
+    overflow-x: auto;
+    margin: 0;
+    padding-bottom: 2px;
+  }
+
+  .culua-shell-nav-item {
+    flex: 0 0 auto;
+    min-width: max-content;
+    gap: 10px;
+  }
+
+  .culua-page-content {
+    padding: 14px 12px 28px;
+  }
+}
