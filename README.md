@@ -25,20 +25,22 @@ git status --short
 
 ## 功能说明
 
-- `index.html`：歌库首页，支持按歌名、歌手、来源、合集搜索，支持分页和复制结果。
-- `index-optimized.html`：首页优化原型，使用现有搜索 API 演示新的来源筛选、复制预设和 H5 响应式布局，不替换线上首页。
+- `index.html`：优化版歌库首页，支持可搜索来源、服务端分页、搜索范围切换、复制预设、自定义复制和 H5 响应式布局。
+- `index-optimized.html`：优化首页的对照文件，与正式首页保持同源，便于后续继续调样式或回看方案。
 - `stats.html`：数据统计页，展示来源、歌手、曲目、投稿时间等统计视图。
 - `bv-dup-check.html`：BV 批量查重。
 - `title-artist-dup-check.html`：按“歌名 - 歌手”批量查重。
 - `title-artist-check.html`：命名和校验工具，支持未命中项改名重查和搜索辅助。
 - `song-growth.html`：歌曲总量日报和增长趋势。
 - `admin-singer-config.html`：来源配置后台，管理员用 token 维护运行时配置和触发刷新。
-- `server.js`：统一 Node 服务端，提供静态页面、API、统计视图、管理刷新和内部 reload。
+- `server.js`：统一 Node 服务端，提供静态页面、搜索分页、搜索导出、统计视图、管理刷新和内部 reload。
 
 ## 在线页面
 
 ```text
 https://www.culua.com/
+https://www.culua.com/m
+https://www.culua.com/h5
 https://www.culua.com/stats
 https://www.culua.com/bv
 https://www.culua.com/dup
@@ -79,6 +81,8 @@ node server.js
 ```text
 http://127.0.0.1:8080/
 http://127.0.0.1:8080/index-optimized.html
+http://127.0.0.1:8080/m
+http://127.0.0.1:8080/h5
 http://127.0.0.1:8080/stats
 http://127.0.0.1:8080/bv
 http://127.0.0.1:8080/dup
@@ -217,7 +221,7 @@ curl -fsSL https://www.culua.com/growth | head
 ```text
 culua_web_h5/
 ├─ index.html                       首页和歌曲检索
-├─ index-optimized.html             首页优化原型
+├─ index-optimized.html             首页优化对照文件
 ├─ stats.html                       数据统计页
 ├─ bv-dup-check.html                BV 查重
 ├─ title-artist-dup-check.html      歌名歌手查重

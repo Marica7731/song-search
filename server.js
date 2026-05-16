@@ -79,6 +79,8 @@ const ROUTE_ALIASES = {
   '/dup': 'title-artist-dup-check.html',
   '/check': 'title-artist-check.html',
   '/growth': 'song-growth.html',
+  '/m': 'index.html',
+  '/h5': 'index.html',
   '/convert': 'converter.html',
   '/legacy': 'bili-check.html',
   '/admin-config': 'admin-singer-config.html'
@@ -1723,50 +1725,49 @@ function handleStatsDetail(reqUrl, res) {
   });
 }
 
-function handleSearch(reqUrl, res) {
-  const query = reqUrl.searchParams.get('q') || '';
-  const source = reqUrl.searchParams.get('source') || 'all';
-  const sort = reqUrl.searchParams.get('sort') || 'pubdate_desc';
-  const page = Math.max(1, Number(reqUrl.searchParams.get('page') || '1'));
-  const pageSize = Math.max(1, Math.min(10000, Number(reqUrl.searchParams.get('pageSize') || '50')));
+function getSearchOptions(reqUrl) {
   const fieldsParam = reqUrl.searchParams.get('fields') || 'title,artist';
   const fieldsList = fieldsParam.split(',').map(item => item.trim()).filter(Boolean);
-  const fields = {
-    title: fieldsList.includes('title'),
-    artist: fieldsList.includes('artist'),
-    collection: fieldsList.includes('collection'),
-    source: fieldsList.includes('source'),
-    bvid: fieldsList.includes('bvid'),
-    pubdate: fieldsList.includes('pubdate')
+  return {
+    query: reqUrl.searchParams.get('q') || '',
+    source: reqUrl.searchParams.get('source') || 'all',
+    sort: reqUrl.searchParams.get('sort') || 'pubdate_desc',
+    page: Math.max(1, Number(reqUrl.searchParams.get('page') || '1')),
+    pageSize: Math.max(1, Math.min(10000, Number(reqUrl.searchParams.get('pageSize') || '50'))),
+    fields: {
+      title: fieldsList.includes('title'),
+      artist: fieldsList.includes('artist'),
+      collection: fieldsList.includes('collection'),
+      source: fieldsList.includes('source'),
+      bvid: fieldsList.includes('bvid'),
+      pubdate: fieldsList.includes('pubdate')
+    }
   };
+}
 
-  const sourceSummary = getSourceSummary(source);
-  let data = getSourceScopedSongs(source);
+function getSearchResultSet(options) {
+  const sourceSummary = getSourceSummary(options.source);
+  let data = getSourceScopedSongs(options.source);
   const filteredBySourceCount = sourceSummary.count;
   const filteredBySourceUnique = sourceSummary.unique;
+  const hasSearchFields = Object.values(options.fields).some(Boolean);
 
-  if (query && Object.values(fields).some(Boolean)) {
-    const condition = parseSearchQuery(query);
+  if (options.query && hasSearchFields) {
+    const condition = parseSearchQuery(options.query);
     if (condition) {
-      data = data.filter(item => searchItem(item, condition, fields));
+      data = data.filter(item => searchItem(item, condition, options.fields));
     }
   }
 
-  data = sortSongs(data, sort);
+  data = sortSongs(data, options.sort);
 
   const total = data.length;
-  const hasSearchCondition = query && Object.values(fields).some(Boolean);
+  const hasSearchCondition = options.query && hasSearchFields;
   const totalUnique = hasSearchCondition ? getUniqueSongCount(data) : filteredBySourceUnique;
-  const start = (page - 1) * pageSize;
-  const items = data.slice(start, start + pageSize);
 
-  sendJson(res, 200, {
-    items,
-    page,
-    pageSize,
-    sort,
+  return {
+    data,
     total,
-    totalPages: Math.max(1, Math.ceil(total / pageSize)),
     summary: {
       totalSongs: store.songs.length,
       totalUnique: store.totalUnique,
@@ -1775,7 +1776,81 @@ function handleSearch(reqUrl, res) {
       searchCount: total,
       searchUnique: totalUnique
     }
+  };
+}
+
+function handleSearch(reqUrl, res) {
+  const options = getSearchOptions(reqUrl);
+  const result = getSearchResultSet(options);
+  const { page, pageSize, sort } = options;
+  const start = (page - 1) * pageSize;
+  const items = result.data.slice(start, start + pageSize);
+
+  sendJson(res, 200, {
+    items,
+    page,
+    pageSize,
+    sort,
+    total: result.total,
+    totalPages: Math.max(1, Math.ceil(result.total / pageSize)),
+    summary: result.summary
   });
+}
+
+function getSearchExportFields(reqUrl) {
+  const allowed = new Set(['title', 'artist', 'collection', 'source', 'link', 'bvid', 'pubdate']);
+  const raw = reqUrl.searchParams.get('copyFields') || reqUrl.searchParams.get('exportFields') || 'title,artist,link';
+  const fields = raw.split(',').map(item => item.trim()).filter(item => allowed.has(item));
+  return fields.length ? fields : ['title'];
+}
+
+function getExportSourceName(item) {
+  const sourceBase = String(item.source || '').replace(/\.js$/, '');
+  return store.fileToAlias[sourceBase] || item.source || '';
+}
+
+function getExportBvid(item) {
+  return item.bvid || extractBvPreserveCase(item.link || '') || extractBV(item.link || '');
+}
+
+function getSearchExportValue(item, field) {
+  if (field === 'title') return item.title || '';
+  if (field === 'artist') return isValidArtist(item.artist) ? item.artist : '';
+  if (field === 'collection') return item.collection || '';
+  if (field === 'source') return getExportSourceName(item);
+  if (field === 'link') return item.link || '';
+  if (field === 'bvid') return getExportBvid(item);
+  if (field === 'pubdate') {
+    const pubdateMs = Number(item.pubdate || 0) * 1000;
+    return pubdateMs ? formatShanghaiDateTime(pubdateMs) : '';
+  }
+  return '';
+}
+
+function sanitizeTsvValue(value) {
+  return String(value ?? '').replace(/\t/g, ' ').replace(/\r?\n/g, ' ');
+}
+
+function handleSearchExport(reqUrl, res) {
+  const options = getSearchOptions(reqUrl);
+  const result = getSearchResultSet(options);
+  const fields = getSearchExportFields(reqUrl);
+  const format = reqUrl.searchParams.get('format') === 'tsv' ? 'tsv' : 'text';
+  const validArtistOnly = reqUrl.searchParams.get('validArtistOnly') === '1';
+  const separator = format === 'tsv' ? '\t' : (reqUrl.searchParams.get('separator') || ' ');
+  const data = validArtistOnly
+    ? result.data.filter(item => isValidArtist(item.artist))
+    : result.data;
+
+  const body = data.map(item => (
+    fields.map(field => sanitizeTsvValue(getSearchExportValue(item, field))).join(separator)
+  )).join('\n');
+
+  res.writeHead(200, {
+    'Content-Type': 'text/plain; charset=utf-8',
+    'Cache-Control': 'no-store'
+  });
+  res.end(body);
 }
 
 function handleSongGrowth(res) {
@@ -2491,6 +2566,10 @@ const server = http.createServer(async (req, res) => {
   }
   if (reqUrl.pathname === '/api/search') {
     handleSearch(reqUrl, res);
+    return;
+  }
+  if (reqUrl.pathname === '/api/search/export') {
+    handleSearchExport(reqUrl, res);
     return;
   }
   if (reqUrl.pathname === '/api/stats/view') {

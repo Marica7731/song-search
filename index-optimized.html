@@ -464,6 +464,20 @@
       display: flex;
     }
 
+    .copy-separator,
+    .copy-format {
+      min-height: 34px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fff;
+      color: var(--text);
+      padding: 0 10px;
+    }
+
+    .copy-separator {
+      width: 92px;
+    }
+
     .check-chip {
       display: inline-flex;
       gap: 6px;
@@ -629,7 +643,7 @@
         </div>
       </div>
       <nav class="nav" aria-label="页面导航">
-        <a class="active" href="/index-optimized.html">检索 <span>首页</span></a>
+        <a class="active" href="/">检索 <span>首页</span></a>
         <a href="/stats">统计 <span>排行</span></a>
         <a href="/bv">BV 查重 <span>工具</span></a>
         <a href="/dup">歌名查重 <span>工具</span></a>
@@ -660,6 +674,7 @@
             <button class="chip" data-field="collection">合集</button>
             <button class="chip" data-field="source">来源</button>
             <button class="chip" data-field="bvid">BV</button>
+            <button class="chip" data-field="pubdate">日期</button>
           </div>
           <div class="segmented" aria-label="每页数量">
             <button class="segment" data-page-size="20">20</button>
@@ -704,7 +719,13 @@
             <label class="check-chip"><input type="checkbox" data-copy-field="source">来源</label>
             <label class="check-chip"><input type="checkbox" data-copy-field="link" checked>链接</label>
             <label class="check-chip"><input type="checkbox" data-copy-field="bvid">BV</label>
+            <label class="check-chip"><input type="checkbox" data-copy-field="pubdate">发布时间</label>
             <label class="check-chip"><input type="checkbox" data-copy-valid>仅有歌手</label>
+            <label class="check-chip">分隔符 <input id="copySeparator" class="copy-separator" type="text" value=" " aria-label="复制分隔符"></label>
+            <select id="copyFormat" class="copy-format" aria-label="复制格式">
+              <option value="text">纯文本</option>
+              <option value="tsv">表格</option>
+            </select>
             <button class="btn" data-copy-preset="custom">复制自定义</button>
           </div>
         </div>
@@ -781,6 +802,21 @@
         year: 'numeric',
         month: '2-digit',
         day: '2-digit'
+      }).format(new Date(value * 1000));
+    }
+
+    function formatDateTime(ts) {
+      const value = Number(ts || 0);
+      if (!value) return '';
+      return new Intl.DateTimeFormat('zh-CN', {
+        timeZone: 'Asia/Shanghai',
+        year: 'numeric',
+        month: '2-digit',
+        day: '2-digit',
+        hour: '2-digit',
+        minute: '2-digit',
+        second: '2-digit',
+        hour12: false
       }).format(new Date(value * 1000));
     }
 
@@ -974,22 +1010,46 @@
       const artist = isValidArtist(item.artist) ? item.artist : '';
       if (preset === 'link') return item.link || '';
       if (preset === 'titleArtistLink') return [artist ? `${title} - ${artist}` : title, item.link || ''].filter(Boolean).join(' ');
-      if (preset === 'tsv') return [title, artist, item.collection || '', sourceName(item.source), item.link || '', extractBv(item)].join('\t');
+      if (preset === 'tsv') return [title, artist, item.collection || '', sourceName(item.source), item.link || '', extractBv(item), formatDateTime(item.pubdate)].join('\t');
       return artist ? `${title} - ${artist}` : title;
     }
 
-    function customText(items) {
+    function getCopyFields() {
       const fields = $$('[data-copy-field]').filter(input => input.checked).map(input => input.dataset.copyField);
+      return fields.length ? fields : ['title'];
+    }
+
+    function getCopyFormat() {
+      return $('#copyFormat')?.value === 'tsv' ? 'tsv' : 'text';
+    }
+
+    function getCopySeparator() {
+      const separator = $('#copySeparator')?.value ?? ' ';
+      return separator === '' ? ' ' : separator;
+    }
+
+    function sanitizeCopyValue(value) {
+      return String(value ?? '').replace(/\t/g, ' ').replace(/\r?\n/g, ' ');
+    }
+
+    function copyFieldValue(item, field) {
+      if (field === 'title') return item.title || '';
+      if (field === 'artist') return isValidArtist(item.artist) ? item.artist : '';
+      if (field === 'collection') return item.collection || '';
+      if (field === 'source') return sourceName(item.source);
+      if (field === 'link') return item.link || '';
+      if (field === 'bvid') return extractBv(item);
+      if (field === 'pubdate') return formatDateTime(item.pubdate);
+      return '';
+    }
+
+    function customText(items) {
+      const fields = getCopyFields();
       const validOnly = $('[data-copy-valid]')?.checked;
-      const rows = items.filter(item => !validOnly || isValidArtist(item.artist)).map(item => fields.map(field => {
-        if (field === 'title') return item.title || '';
-        if (field === 'artist') return isValidArtist(item.artist) ? item.artist : '';
-        if (field === 'collection') return item.collection || '';
-        if (field === 'source') return sourceName(item.source);
-        if (field === 'link') return item.link || '';
-        if (field === 'bvid') return extractBv(item);
-        return '';
-      }).join(' '));
+      const separator = getCopyFormat() === 'tsv' ? '\t' : getCopySeparator();
+      const rows = items
+        .filter(item => !validOnly || isValidArtist(item.artist))
+        .map(item => fields.map(field => sanitizeCopyValue(copyFieldValue(item, field))).join(separator));
       return rows.join('\n');
     }
 
@@ -1019,25 +1079,22 @@
     }
 
     async function copyAllResults() {
-      if (state.total > 10000) {
-        showToast('超过 10000 条，建议改为服务端导出接口');
-        return;
-      }
       const params = new URLSearchParams({
-        page: '1',
-        pageSize: String(Math.max(state.total, 1)),
         source: state.source,
         fields: activeFieldsParam(),
-        sort: state.sort
+        sort: state.sort,
+        copyFields: getCopyFields().join(','),
+        format: getCopyFormat(),
+        separator: getCopySeparator()
       });
+      if ($('[data-copy-valid]')?.checked) params.set('validArtistOnly', '1');
       if (state.q) params.set('q', state.q);
-      setStatus('正在加载全部结果用于复制...');
-      const res = await fetch(`${API_BASE}/api/search?${params}`, { cache: 'no-store' });
+      setStatus('正在导出全部结果用于复制...');
+      const res = await fetch(`${API_BASE}/api/search/export?${params}`, { cache: 'no-store' });
       if (!res.ok) throw new Error(`copy ${res.status}`);
-      const payload = await res.json();
-      const items = Array.isArray(payload.items) ? payload.items : [];
-      await writeClipboard(customText(items));
-      setStatus(`已复制 ${formatNumber(items.length)} 条`);
+      const text = await res.text();
+      await writeClipboard(text);
+      setStatus(`已复制全部匹配结果：${formatNumber(state.total)} 条`);
     }
 
     function bindEvents() {
