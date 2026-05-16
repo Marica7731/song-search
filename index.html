@@ -895,7 +895,7 @@
     function sourceCount(file) {
       if (file === 'all') return Number(state.summary.totalSongs || state.stats.totalSongs || 0);
       const stat = state.stats[file] || state.stats[sourceKey(file)] || {};
-      return Number(stat.count || 0);
+      return Number(stat.totalSongs || stat.count || stat.total || 0);
     }
 
     function isValidArtist(value) {

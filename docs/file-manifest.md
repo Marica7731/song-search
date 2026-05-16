@@ -8,7 +8,7 @@
 |---|---|---|---|
 | `README.md` | 项目入口说明 | 说明功能、运行方式、测试方式、维护边界和文档索引 | 链接 `docs/migration-handoff.md`、`docs/culua-server-guide.md`、`docs/site-optimization-plan.md`、`docs/tabs-optimization-plan.md`、`docs/file-manifest.md` 与 `docs/add-source-prompt.md` |
 | `.gitignore` | 本地忽略规则 | 忽略运行缓存、日志、临时截图、下载目录、runtime、`.env` | 防止本地开发产物进入后续提交；不取消已跟踪文件 |
-| `index.html` | 优化版首页与歌曲检索页 | 可搜索来源、搜索范围切换、服务端分页、筛选偏好记忆、紧凑复制工具条、自定义复制记忆、结果字段点击复制、稳定行级复制、移动端 H5 布局 | 读取 `/api/bootstrap`、`/api/search`；行内整行复制使用服务端 `rowId`；字段复制使用结果项内的 `data-copy-value`；复制全部调用 `/api/search/export`；本地偏好写入浏览器 `localStorage` |
+| `index.html` | 优化版首页与歌曲检索页 | 可搜索来源、搜索范围切换、服务端分页、来源数量展示、筛选偏好记忆、紧凑复制工具条、自定义复制记忆、结果字段点击复制、稳定行级复制、移动端 H5 布局 | 读取 `/api/bootstrap`、`/api/search`；来源数量优先使用 `sourceStats.totalSongs`；行内整行复制使用服务端 `rowId`；字段复制使用结果项内的 `data-copy-value`；复制全部调用 `/api/search/export`；本地偏好写入浏览器 `localStorage` |
 | `index-optimized.html` | 首页优化对照文件 | 与 `index.html` 保持同源，便于后续继续调样式或回看优化方案 | 配合 `docs/site-optimization-plan.md`；正式入口仍是 `index.html` |
 | `tabs-optimization-preview.html` | 六个主 tab 的优化方案预览 | 展示首页、数据、BV 查重、歌名歌手查重、命名工具、日报的目标布局、优化优先级、移动端形态和实时后端概览 | 配合 `docs/tabs-optimization-plan.md`；读取 `/api/tabs/overview`，不替换正式页面 |
 | `stats.html` | 数据统计页 | 展示来源、歌手、曲目、投稿时间等统计视图，并记住 tab、来源、关键词和摘要链接数 | 优先请求 `/api/stats/view`，服务端不可用时回退本地数据；本地视图偏好写入浏览器 `localStorage` |
