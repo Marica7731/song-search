@@ -6,9 +6,10 @@
 
 | 文件路径 | 文件用途 | 主要函数或模块职责 | 与其他文件的关系 |
 |---|---|---|---|
-| `README.md` | 项目入口说明 | 说明功能、运行方式、测试方式、维护边界和文档索引 | 链接 `docs/migration-handoff.md`、`docs/file-manifest.md` 与 `docs/add-source-prompt.md` |
+| `README.md` | 项目入口说明 | 说明功能、运行方式、测试方式、维护边界和文档索引 | 链接 `docs/migration-handoff.md`、`docs/culua-server-guide.md`、`docs/site-optimization-plan.md`、`docs/file-manifest.md` 与 `docs/add-source-prompt.md` |
 | `.gitignore` | 本地忽略规则 | 忽略运行缓存、日志、临时截图、下载目录、runtime、`.env` | 防止本地开发产物进入后续提交；不取消已跟踪文件 |
 | `index.html` | 首页与歌曲检索页 | 按歌名、歌手、合集、来源筛选；分页；复制结果 | 读取 `/api/bootstrap` 或 `data/index.json`，使用 `site-theme.css` |
+| `index-optimized.html` | 首页优化原型 | 使用现有 `/api/bootstrap` 和 `/api/search` 展示可搜索来源、搜索范围、排序、复制预设和移动端卡片布局 | 作为 `docs/site-optimization-plan.md` 的可预览原型，不替换 `index.html` |
 | `stats.html` | 数据统计页 | 展示来源、歌手、曲目、投稿时间等统计视图 | 优先请求 `/api/stats/view`，服务端不可用时回退本地数据 |
 | `bv-dup-check.html` | BV 查重页面 | 接收 BV 列表，输出已存在和未命中的结果 | 依赖 `dup-check-core.js` 与 `artist-match.js` |
 | `title-artist-dup-check.html` | 歌名歌手查重页面 | 批量检查“歌名 - 歌手”是否已入库 | 依赖 `dup-check-core.js` 与 `artist-match.js` |
@@ -74,6 +75,7 @@
 |---|---|---|---|
 | `docs/migration-handoff.md` | 迁移交接文档 | 记录本地目录、服务器目录、部署流程和风险边界 | 新会话接手前先读 |
 | `docs/culua-server-guide.md` | culua 服务器使用指南 | 固定 SSH alias、服务器目录、部署命令、刷新脚本、验证方式和安全边界 | 供后续 AI 接手服务器、推送部署分支和发布歌站代码时首读 |
+| `docs/site-optimization-plan.md` | 首页优化方案 | 记录当前首页性能观察、推荐成熟方案、分阶段重构路线、H5 访问建议和原型预览方式 | 配合 `index-optimized.html` 做后续评审和正式替换 |
 | `docs/file-manifest.md` | 文件清单 | 说明主要文件用途、职责和相互关系 | 被 README 引用 |
 | `docs/add-source-prompt.md` | 添加来源提示词 | 固定 GitHub main 和 `culua.com` 部署分支的不同添加方式、验证方式和提交要求 | 供后续 AI 添加来源时复制使用，避免混用代码路径 |
 

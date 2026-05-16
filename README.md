@@ -26,6 +26,7 @@ git status --short
 ## 功能说明
 
 - `index.html`：歌库首页，支持按歌名、歌手、来源、合集搜索，支持分页和复制结果。
+- `index-optimized.html`：首页优化原型，使用现有搜索 API 演示新的来源筛选、复制预设和 H5 响应式布局，不替换线上首页。
 - `stats.html`：数据统计页，展示来源、歌手、曲目、投稿时间等统计视图。
 - `bv-dup-check.html`：BV 批量查重。
 - `title-artist-dup-check.html`：按“歌名 - 歌手”批量查重。
@@ -77,6 +78,7 @@ node server.js
 
 ```text
 http://127.0.0.1:8080/
+http://127.0.0.1:8080/index-optimized.html
 http://127.0.0.1:8080/stats
 http://127.0.0.1:8080/bv
 http://127.0.0.1:8080/dup
@@ -215,6 +217,7 @@ curl -fsSL https://www.culua.com/growth | head
 ```text
 culua_web_h5/
 ├─ index.html                       首页和歌曲检索
+├─ index-optimized.html             首页优化原型
 ├─ stats.html                       数据统计页
 ├─ bv-dup-check.html                BV 查重
 ├─ title-artist-dup-check.html      歌名歌手查重
@@ -238,6 +241,7 @@ culua_web_h5/
 
 - [迁移交接](docs/migration-handoff.md)
 - [culua 服务器使用指南](docs/culua-server-guide.md)
+- [首页优化方案](docs/site-optimization-plan.md)
 - [文件清单](docs/file-manifest.md)
 - [添加来源提示词](docs/add-source-prompt.md)
 

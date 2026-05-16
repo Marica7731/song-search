@@ -1,0 +1,1119 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>culua 歌曲检索</title>
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f5f7fb;
+      --panel: #ffffff;
+      --panel-soft: #f9fafb;
+      --text: #111827;
+      --muted: #667085;
+      --line: #d9e0ea;
+      --line-strong: #b8c2d2;
+      --primary: #0f766e;
+      --primary-soft: #e6f4f1;
+      --accent: #1d4ed8;
+      --danger: #b42318;
+      --shadow: 0 8px 24px rgba(15, 23, 42, 0.08);
+      --radius: 8px;
+      --sidebar: 300px;
+    }
+
+    * { box-sizing: border-box; }
+    html {
+      min-height: 100%;
+      overflow-x: hidden;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100%;
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+      font-size: 14px;
+      letter-spacing: 0;
+      overflow-x: hidden;
+    }
+
+    button, input, select {
+      font: inherit;
+    }
+
+    button {
+      cursor: pointer;
+    }
+
+    .app-shell {
+      min-height: 100vh;
+      display: grid;
+      grid-template-columns: var(--sidebar) minmax(0, 1fr);
+      max-width: 100%;
+    }
+
+    .sidebar {
+      position: sticky;
+      top: 0;
+      height: 100vh;
+      overflow: auto;
+      padding: 18px;
+      background: #ffffff;
+      border-right: 1px solid var(--line);
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 18px;
+    }
+
+    .brand-mark {
+      width: 34px;
+      height: 34px;
+      border-radius: 8px;
+      background: #0f766e;
+      color: #fff;
+      display: grid;
+      place-items: center;
+      font-weight: 800;
+    }
+
+    .brand-title {
+      font-size: 18px;
+      font-weight: 800;
+      line-height: 1.2;
+    }
+
+    .brand-subtitle {
+      color: var(--muted);
+      font-size: 12px;
+      margin-top: 2px;
+    }
+
+    .nav {
+      display: grid;
+      gap: 6px;
+      margin: 14px 0 20px;
+    }
+
+    .nav a {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      min-height: 34px;
+      padding: 7px 9px;
+      border-radius: 8px;
+      color: #334155;
+      text-decoration: none;
+    }
+
+    .nav a:hover,
+    .nav a.active {
+      color: var(--primary);
+      background: var(--primary-soft);
+    }
+
+    .panel-title {
+      margin: 18px 0 8px;
+      font-size: 12px;
+      color: var(--muted);
+      font-weight: 700;
+      text-transform: uppercase;
+    }
+
+    .source-search {
+      width: 100%;
+      height: 36px;
+      padding: 0 10px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      outline: none;
+      background: #fff;
+      color: var(--text);
+    }
+
+    .source-search:focus {
+      border-color: var(--primary);
+      box-shadow: 0 0 0 3px rgba(15, 118, 110, 0.14);
+    }
+
+    .source-list {
+      margin-top: 8px;
+      display: grid;
+      gap: 4px;
+      max-height: calc(100vh - 270px);
+      overflow: auto;
+      padding-right: 2px;
+    }
+
+    .source-item {
+      width: 100%;
+      min-height: 38px;
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 8px;
+      align-items: center;
+      padding: 7px 8px;
+      border: 0;
+      border-radius: 8px;
+      background: transparent;
+      color: #334155;
+      text-align: left;
+    }
+
+    .source-item:hover {
+      background: #f1f5f9;
+    }
+
+    .source-item.active {
+      background: var(--primary-soft);
+      color: var(--primary);
+      font-weight: 700;
+    }
+
+    .source-item span:first-child {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .source-count {
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 600;
+    }
+
+    .main {
+      min-width: 0;
+      display: grid;
+      grid-template-rows: auto 1fr;
+    }
+
+    .topbar {
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      background: rgba(245, 247, 251, 0.94);
+      backdrop-filter: blur(10px);
+      border-bottom: 1px solid var(--line);
+      padding: 16px 22px;
+    }
+
+    .search-grid {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 150px 126px;
+      gap: 10px;
+      align-items: center;
+    }
+
+    .search-input {
+      width: 100%;
+      height: 46px;
+      padding: 0 14px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fff;
+      outline: none;
+      color: var(--text);
+      font-size: 15px;
+    }
+
+    .search-input:focus {
+      border-color: var(--primary);
+      box-shadow: 0 0 0 3px rgba(15, 118, 110, 0.14);
+    }
+
+    .select,
+    .btn {
+      height: 46px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fff;
+      color: var(--text);
+      padding: 0 12px;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      font-weight: 700;
+    }
+
+    .btn:hover {
+      border-color: var(--line-strong);
+      background: #f8fafc;
+    }
+
+    .btn.primary {
+      border-color: var(--primary);
+      background: var(--primary);
+      color: #fff;
+    }
+
+    .btn.primary:hover {
+      background: #0b625c;
+    }
+
+    .toolbar {
+      margin-top: 12px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .segmented,
+    .chip-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      align-items: center;
+    }
+
+    .segment,
+    .chip {
+      min-height: 32px;
+      padding: 6px 10px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fff;
+      color: #334155;
+      font-weight: 600;
+    }
+
+    .segment.active,
+    .chip.active {
+      color: var(--primary);
+      border-color: #99d5cd;
+      background: var(--primary-soft);
+    }
+
+    .content {
+      padding: 18px 22px 32px;
+      min-width: 0;
+    }
+
+    .metrics {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 10px;
+      margin-bottom: 14px;
+    }
+
+    .metric {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 12px;
+      min-width: 0;
+    }
+
+    .metric-label {
+      color: var(--muted);
+      font-size: 12px;
+      margin-bottom: 4px;
+    }
+
+    .metric-value {
+      font-size: 20px;
+      font-weight: 800;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .results-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      margin: 14px 0 10px;
+    }
+
+    .status {
+      color: var(--muted);
+      font-size: 13px;
+      min-height: 20px;
+    }
+
+    .status.error {
+      color: var(--danger);
+    }
+
+    .result-list {
+      display: grid;
+      gap: 8px;
+    }
+
+    .song-row {
+      display: grid;
+      grid-template-columns: minmax(220px, 1.4fr) minmax(150px, 0.9fr) minmax(200px, 1fr) 150px auto;
+      gap: 12px;
+      align-items: center;
+      padding: 12px;
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      box-shadow: 0 1px 0 rgba(15, 23, 42, 0.02);
+    }
+
+    .song-title {
+      font-weight: 800;
+      line-height: 1.35;
+      word-break: break-word;
+    }
+
+    .song-artist,
+    .song-collection,
+    .song-source {
+      color: #475569;
+      line-height: 1.4;
+      word-break: break-word;
+    }
+
+    .song-source {
+      font-weight: 700;
+      color: #334155;
+    }
+
+    .meta {
+      color: var(--muted);
+      font-size: 12px;
+      margin-top: 4px;
+    }
+
+    .row-actions {
+      display: flex;
+      gap: 6px;
+      justify-content: flex-end;
+    }
+
+    .icon-btn {
+      width: 34px;
+      height: 34px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fff;
+      color: #334155;
+      font-weight: 800;
+    }
+
+    .icon-btn:hover {
+      border-color: var(--primary);
+      color: var(--primary);
+      background: var(--primary-soft);
+    }
+
+    .pagination {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 8px;
+      margin-top: 16px;
+      flex-wrap: wrap;
+    }
+
+    .pagination .btn {
+      height: 36px;
+      min-width: 74px;
+    }
+
+    .page-label {
+      color: var(--muted);
+      font-weight: 700;
+      min-width: 140px;
+      text-align: center;
+    }
+
+    .copy-panel {
+      margin-top: 14px;
+      padding: 12px;
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      display: grid;
+      gap: 10px;
+    }
+
+    .copy-presets {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+    }
+
+    .copy-custom {
+      display: none;
+      gap: 8px;
+      flex-wrap: wrap;
+      align-items: center;
+      padding-top: 8px;
+      border-top: 1px solid #eef2f6;
+    }
+
+    .copy-custom.open {
+      display: flex;
+    }
+
+    .check-chip {
+      display: inline-flex;
+      gap: 6px;
+      align-items: center;
+      min-height: 30px;
+      padding: 5px 8px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel-soft);
+      color: #334155;
+      font-weight: 600;
+    }
+
+    .empty {
+      padding: 36px 16px;
+      text-align: center;
+      color: var(--muted);
+      background: var(--panel);
+      border: 1px dashed var(--line-strong);
+      border-radius: 8px;
+    }
+
+    .toast {
+      position: fixed;
+      right: 18px;
+      bottom: 18px;
+      z-index: 80;
+      padding: 10px 12px;
+      border-radius: 8px;
+      color: #fff;
+      background: #111827;
+      box-shadow: var(--shadow);
+      opacity: 0;
+      transform: translateY(8px);
+      pointer-events: none;
+      transition: opacity .16s ease, transform .16s ease;
+    }
+
+    .toast.show {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    .mobile-source {
+      display: none;
+    }
+
+    @media (max-width: 980px) {
+      .app-shell {
+        grid-template-columns: 1fr;
+      }
+
+      .sidebar {
+        display: none;
+      }
+
+      .mobile-source {
+        display: block;
+      }
+
+      .topbar {
+        padding: 12px;
+      }
+
+      .search-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .content {
+        padding: 12px 12px 28px;
+      }
+
+      .metrics {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
+      .song-row {
+        grid-template-columns: minmax(0, 1fr);
+        gap: 8px;
+      }
+
+      .row-actions {
+        justify-content: flex-start;
+      }
+    }
+
+    @media (max-width: 560px) {
+      .metrics {
+        grid-template-columns: 1fr;
+      }
+
+      .toolbar,
+      .results-header {
+        align-items: stretch;
+        flex-direction: column;
+      }
+
+      .topbar {
+        width: 100vw;
+        max-width: 100vw;
+      }
+
+      .search-grid,
+      .toolbar,
+      .mobile-source,
+      .chip-row,
+      .segmented,
+      .copy-presets,
+      .results-header {
+        width: min(100%, 366px);
+        max-width: min(calc(100vw - 24px), 366px);
+      }
+
+      .btn,
+      .select,
+      .search-input {
+        width: 100%;
+      }
+
+      .chip-row,
+      .segmented,
+      .copy-presets {
+        width: 100%;
+        min-width: 0;
+      }
+
+      .chip-row {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+      }
+
+      .segmented {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+      }
+
+      .chip-row .chip {
+        width: 100%;
+        min-width: 0;
+      }
+
+      .segmented .segment,
+      .copy-presets .btn {
+        width: 100%;
+      }
+
+      .toast {
+        left: 12px;
+        right: 12px;
+        bottom: 12px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="brand-mark">C</div>
+        <div>
+          <div class="brand-title">culua 歌曲检索</div>
+          <div class="brand-subtitle">B站歌切分P直达</div>
+        </div>
+      </div>
+      <nav class="nav" aria-label="页面导航">
+        <a class="active" href="/index-optimized.html">检索 <span>首页</span></a>
+        <a href="/stats">统计 <span>排行</span></a>
+        <a href="/bv">BV 查重 <span>工具</span></a>
+        <a href="/dup">歌名查重 <span>工具</span></a>
+        <a href="/check">命名校验 <span>工具</span></a>
+        <a href="/growth">增长日报 <span>数据</span></a>
+      </nav>
+      <div class="panel-title">来源</div>
+      <input id="sourceFilter" class="source-search" type="search" placeholder="筛选来源">
+      <div id="sourceList" class="source-list"></div>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
+        <div class="search-grid">
+          <input id="q" class="search-input" type="search" placeholder='输入歌名、歌手、BV、合集；支持 "精确" AND OR' autocomplete="off">
+          <select id="sort" class="select" aria-label="排序">
+            <option value="pubdate_desc">新到旧</option>
+            <option value="pubdate_asc">旧到新</option>
+            <option value="original">原始顺序</option>
+          </select>
+          <button id="searchBtn" class="btn primary">搜索</button>
+        </div>
+        <div class="toolbar">
+          <select id="sourceMobile" class="select mobile-source" aria-label="来源"></select>
+          <div class="chip-row" id="fieldChips" aria-label="搜索范围">
+            <button class="chip active" data-field="title">歌名</button>
+            <button class="chip active" data-field="artist">歌手</button>
+            <button class="chip" data-field="collection">合集</button>
+            <button class="chip" data-field="source">来源</button>
+            <button class="chip" data-field="bvid">BV</button>
+          </div>
+          <div class="segmented" aria-label="每页数量">
+            <button class="segment" data-page-size="20">20</button>
+            <button class="segment active" data-page-size="40">40</button>
+            <button class="segment" data-page-size="80">80</button>
+          </div>
+        </div>
+      </header>
+
+      <section class="content">
+        <div class="metrics">
+          <div class="metric">
+            <div class="metric-label">总曲目</div>
+            <div class="metric-value" id="metricTotal">-</div>
+          </div>
+          <div class="metric">
+            <div class="metric-label">当前来源</div>
+            <div class="metric-value" id="metricSource">全部</div>
+          </div>
+          <div class="metric">
+            <div class="metric-label">搜索结果</div>
+            <div class="metric-value" id="metricResult">-</div>
+          </div>
+          <div class="metric">
+            <div class="metric-label">去重结果</div>
+            <div class="metric-value" id="metricUnique">-</div>
+          </div>
+        </div>
+
+        <div class="copy-panel">
+          <div class="copy-presets">
+            <button class="btn" data-copy-preset="titleArtist">复制本页：歌名 - 歌手</button>
+            <button class="btn" data-copy-preset="titleArtistLink">复制本页：歌名 - 歌手 链接</button>
+            <button class="btn" data-copy-preset="tsv">复制本页 TSV</button>
+            <button id="copyAllBtn" class="btn">复制全部结果</button>
+            <button id="toggleCustomCopy" class="btn">自定义字段</button>
+          </div>
+          <div id="customCopy" class="copy-custom">
+            <label class="check-chip"><input type="checkbox" data-copy-field="title" checked>歌名</label>
+            <label class="check-chip"><input type="checkbox" data-copy-field="artist" checked>歌手</label>
+            <label class="check-chip"><input type="checkbox" data-copy-field="collection">合集</label>
+            <label class="check-chip"><input type="checkbox" data-copy-field="source">来源</label>
+            <label class="check-chip"><input type="checkbox" data-copy-field="link" checked>链接</label>
+            <label class="check-chip"><input type="checkbox" data-copy-field="bvid">BV</label>
+            <label class="check-chip"><input type="checkbox" data-copy-valid>仅有歌手</label>
+            <button class="btn" data-copy-preset="custom">复制自定义</button>
+          </div>
+        </div>
+
+        <div class="results-header">
+          <div id="status" class="status">正在初始化...</div>
+          <button id="refreshBtn" class="btn">刷新当前查询</button>
+        </div>
+
+        <div id="results" class="result-list"></div>
+        <div id="pagination" class="pagination"></div>
+      </section>
+    </main>
+  </div>
+
+  <div id="toast" class="toast"></div>
+
+  <script>
+    const API_BASE = location.protocol === 'file:' ? 'https://www.culua.com' : '';
+    const state = {
+      q: '',
+      source: 'all',
+      sort: 'pubdate_desc',
+      page: 1,
+      pageSize: 40,
+      fields: new Set(['title', 'artist']),
+      files: [],
+      aliases: {},
+      stats: {},
+      items: [],
+      total: 0,
+      totalPages: 1,
+      summary: {},
+      controller: null,
+      lastRequest: 0
+    };
+
+    const $ = (selector) => document.querySelector(selector);
+    const $$ = (selector) => Array.from(document.querySelectorAll(selector));
+
+    function formatNumber(value) {
+      return new Intl.NumberFormat('zh-CN').format(Number(value || 0));
+    }
+
+    function sourceKey(file) {
+      return String(file || '').replace(/\.js$/, '');
+    }
+
+    function sourceName(file) {
+      if (file === 'all') return '全部来源';
+      return state.aliases[sourceKey(file)] || file || '未知来源';
+    }
+
+    function sourceCount(file) {
+      if (file === 'all') return Number(state.summary.totalSongs || state.stats.totalSongs || 0);
+      const stat = state.stats[file] || state.stats[sourceKey(file)] || {};
+      return Number(stat.count || 0);
+    }
+
+    function isValidArtist(value) {
+      const text = String(value || '').trim();
+      return text && text !== '来源处未提供标准格式歌手' && text !== '未知';
+    }
+
+    function extractBv(item) {
+      return item.bvid || String(item.link || '').match(/BV[0-9A-Za-z]+/)?.[0] || '';
+    }
+
+    function formatDate(ts) {
+      const value = Number(ts || 0);
+      if (!value) return '';
+      return new Intl.DateTimeFormat('zh-CN', {
+        timeZone: 'Asia/Shanghai',
+        year: 'numeric',
+        month: '2-digit',
+        day: '2-digit'
+      }).format(new Date(value * 1000));
+    }
+
+    function escapeHtml(value) {
+      return String(value ?? '').replace(/[&<>"']/g, (ch) => ({
+        '&': '&amp;',
+        '<': '&lt;',
+        '>': '&gt;',
+        '"': '&quot;',
+        "'": '&#39;'
+      }[ch]));
+    }
+
+    function setStatus(text, error = false) {
+      const el = $('#status');
+      el.textContent = text;
+      el.classList.toggle('error', error);
+    }
+
+    function showToast(text) {
+      const toast = $('#toast');
+      toast.textContent = text;
+      toast.classList.add('show');
+      clearTimeout(showToast.timer);
+      showToast.timer = setTimeout(() => toast.classList.remove('show'), 1600);
+    }
+
+    function buildSourceOptions(filter = '') {
+      const needle = filter.trim().toLowerCase();
+      const entries = ['all'].concat(state.files);
+      return entries.filter(file => {
+        const label = `${sourceName(file)} ${file}`.toLowerCase();
+        return !needle || label.includes(needle);
+      });
+    }
+
+    function renderSources(filter = '') {
+      const list = $('#sourceList');
+      const mobile = $('#sourceMobile');
+      const entries = buildSourceOptions(filter);
+      list.innerHTML = entries.map(file => `
+        <button class="source-item ${state.source === file ? 'active' : ''}" data-source="${escapeHtml(file)}">
+          <span>${escapeHtml(sourceName(file))}</span>
+          <span class="source-count">${formatNumber(sourceCount(file))}</span>
+        </button>
+      `).join('');
+      mobile.innerHTML = ['all'].concat(state.files).map(file => `
+        <option value="${escapeHtml(file)}">${escapeHtml(sourceName(file))} (${formatNumber(sourceCount(file))})</option>
+      `).join('');
+      mobile.value = state.source;
+    }
+
+    function renderMetrics() {
+      const summary = state.summary || {};
+      $('#metricTotal').textContent = formatNumber(summary.totalSongs || 0);
+      $('#metricSource').textContent = sourceName(state.source);
+      $('#metricResult').textContent = formatNumber(state.total || 0);
+      $('#metricUnique').textContent = formatNumber(summary.searchUnique || summary.filteredBySourceUnique || 0);
+    }
+
+    function renderResults() {
+      const results = $('#results');
+      if (!state.items.length) {
+        results.innerHTML = '<div class="empty">没有匹配结果</div>';
+        return;
+      }
+      results.innerHTML = state.items.map(item => {
+        const artist = isValidArtist(item.artist) ? item.artist : '无歌手信息';
+        const src = sourceName(item.source);
+        const bv = extractBv(item);
+        const date = formatDate(item.pubdate);
+        return `
+          <article class="song-row">
+            <div>
+              <div class="song-title">${escapeHtml(item.title || '未知歌曲')}</div>
+              <div class="meta">${escapeHtml(bv)}${date ? ` · ${escapeHtml(date)}` : ''}</div>
+            </div>
+            <div class="song-artist">${escapeHtml(artist)}</div>
+            <div class="song-collection">${escapeHtml(item.collection || '未知合集')}</div>
+            <div class="song-source">${escapeHtml(src)}</div>
+            <div class="row-actions">
+              <button class="icon-btn" title="复制歌名歌手" data-row-copy="titleArtist" data-bv="${escapeHtml(bv)}">文</button>
+              <button class="icon-btn" title="复制链接" data-row-copy="link" data-bv="${escapeHtml(bv)}">链</button>
+              <a class="icon-btn" title="打开B站" href="${escapeHtml(item.link || '#')}" target="_blank" rel="noreferrer" style="display:grid;place-items:center;text-decoration:none;">开</a>
+            </div>
+          </article>
+        `;
+      }).join('');
+    }
+
+    function renderPagination() {
+      const el = $('#pagination');
+      const page = Number(state.page || 1);
+      const totalPages = Math.max(1, Number(state.totalPages || 1));
+      el.innerHTML = `
+        <button class="btn" data-page="${Math.max(1, page - 1)}" ${page <= 1 ? 'disabled' : ''}>上一页</button>
+        <span class="page-label">${formatNumber(page)} / ${formatNumber(totalPages)}</span>
+        <button class="btn" data-page="${Math.min(totalPages, page + 1)}" ${page >= totalPages ? 'disabled' : ''}>下一页</button>
+      `;
+    }
+
+    function syncUrl() {
+      const params = new URLSearchParams();
+      if (state.q) params.set('q', state.q);
+      if (state.source !== 'all') params.set('source', state.source);
+      if (state.sort !== 'pubdate_desc') params.set('sort', state.sort);
+      if (state.page > 1) params.set('page', String(state.page));
+      if (state.pageSize !== 40) params.set('pageSize', String(state.pageSize));
+      const next = `${location.pathname}${params.toString() ? `?${params}` : ''}`;
+      history.replaceState(null, '', next);
+    }
+
+    function readUrl() {
+      const params = new URLSearchParams(location.search);
+      state.q = params.get('q') || '';
+      state.source = params.get('source') || 'all';
+      state.sort = params.get('sort') || 'pubdate_desc';
+      state.page = Math.max(1, Number(params.get('page') || '1'));
+      state.pageSize = Math.max(20, Math.min(80, Number(params.get('pageSize') || '40')));
+      $('#q').value = state.q;
+      $('#sort').value = state.sort;
+      $$('.segment').forEach(btn => btn.classList.toggle('active', Number(btn.dataset.pageSize) === state.pageSize));
+    }
+
+    function activeFieldsParam() {
+      return Array.from(state.fields).join(',');
+    }
+
+    async function loadBootstrap() {
+      setStatus('正在连接服务端...');
+      const res = await fetch(`${API_BASE}/api/bootstrap`, { cache: 'no-store' });
+      if (!res.ok) throw new Error(`bootstrap ${res.status}`);
+      const payload = await res.json();
+      state.files = Array.isArray(payload.files) ? payload.files : [];
+      state.aliases = payload.fileToAlias || {};
+      state.stats = payload.sourceStats || {};
+      state.summary = {
+        totalSongs: payload.totalSongs || 0,
+        searchUnique: payload.totalUnique || 0
+      };
+      renderSources();
+      renderMetrics();
+    }
+
+    async function runSearch({ keepPage = false } = {}) {
+      if (!keepPage) state.page = 1;
+      state.q = $('#q').value.trim();
+      state.sort = $('#sort').value;
+      const requestId = ++state.lastRequest;
+      if (state.controller) state.controller.abort();
+      state.controller = new AbortController();
+      setStatus('正在搜索...');
+      const params = new URLSearchParams({
+        page: String(state.page),
+        pageSize: String(state.pageSize),
+        source: state.source,
+        fields: activeFieldsParam(),
+        sort: state.sort
+      });
+      if (state.q) params.set('q', state.q);
+      try {
+        const res = await fetch(`${API_BASE}/api/search?${params}`, {
+          cache: 'no-store',
+          signal: state.controller.signal
+        });
+        if (!res.ok) throw new Error(`search ${res.status}`);
+        const payload = await res.json();
+        if (requestId !== state.lastRequest) return;
+        state.items = Array.isArray(payload.items) ? payload.items : [];
+        state.total = Number(payload.total || 0);
+        state.totalPages = Number(payload.totalPages || 1);
+        state.page = Number(payload.page || state.page);
+        state.summary = payload.summary || state.summary || {};
+        syncUrl();
+        renderMetrics();
+        renderResults();
+        renderPagination();
+        setStatus(`已返回 ${formatNumber(state.items.length)} 条，本次匹配 ${formatNumber(state.total)} 条`);
+      } catch (error) {
+        if (error.name === 'AbortError') return;
+        setStatus(`查询失败：${error.message}`, true);
+      }
+    }
+
+    function getRowByBv(bv) {
+      return state.items.find(item => extractBv(item) === bv) || null;
+    }
+
+    function rowText(item, preset) {
+      const title = item.title || '';
+      const artist = isValidArtist(item.artist) ? item.artist : '';
+      if (preset === 'link') return item.link || '';
+      if (preset === 'titleArtistLink') return [artist ? `${title} - ${artist}` : title, item.link || ''].filter(Boolean).join(' ');
+      if (preset === 'tsv') return [title, artist, item.collection || '', sourceName(item.source), item.link || '', extractBv(item)].join('\t');
+      return artist ? `${title} - ${artist}` : title;
+    }
+
+    function customText(items) {
+      const fields = $$('[data-copy-field]').filter(input => input.checked).map(input => input.dataset.copyField);
+      const validOnly = $('[data-copy-valid]')?.checked;
+      const rows = items.filter(item => !validOnly || isValidArtist(item.artist)).map(item => fields.map(field => {
+        if (field === 'title') return item.title || '';
+        if (field === 'artist') return isValidArtist(item.artist) ? item.artist : '';
+        if (field === 'collection') return item.collection || '';
+        if (field === 'source') return sourceName(item.source);
+        if (field === 'link') return item.link || '';
+        if (field === 'bvid') return extractBv(item);
+        return '';
+      }).join(' '));
+      return rows.join('\n');
+    }
+
+    async function writeClipboard(text) {
+      if (!text.trim()) {
+        showToast('没有可复制内容');
+        return;
+      }
+      try {
+        await navigator.clipboard.writeText(text);
+      } catch {
+        const area = document.createElement('textarea');
+        area.value = text;
+        document.body.appendChild(area);
+        area.select();
+        document.execCommand('copy');
+        area.remove();
+      }
+      showToast('已复制');
+    }
+
+    async function copyCurrentPage(preset) {
+      const text = preset === 'custom'
+        ? customText(state.items)
+        : state.items.map(item => rowText(item, preset)).join('\n');
+      await writeClipboard(text);
+    }
+
+    async function copyAllResults() {
+      if (state.total > 10000) {
+        showToast('超过 10000 条，建议改为服务端导出接口');
+        return;
+      }
+      const params = new URLSearchParams({
+        page: '1',
+        pageSize: String(Math.max(state.total, 1)),
+        source: state.source,
+        fields: activeFieldsParam(),
+        sort: state.sort
+      });
+      if (state.q) params.set('q', state.q);
+      setStatus('正在加载全部结果用于复制...');
+      const res = await fetch(`${API_BASE}/api/search?${params}`, { cache: 'no-store' });
+      if (!res.ok) throw new Error(`copy ${res.status}`);
+      const payload = await res.json();
+      const items = Array.isArray(payload.items) ? payload.items : [];
+      await writeClipboard(customText(items));
+      setStatus(`已复制 ${formatNumber(items.length)} 条`);
+    }
+
+    function bindEvents() {
+      $('#searchBtn').addEventListener('click', () => runSearch());
+      $('#refreshBtn').addEventListener('click', () => runSearch({ keepPage: true }));
+      $('#q').addEventListener('keydown', event => {
+        if (event.key === 'Enter') runSearch();
+      });
+      let timer = null;
+      $('#q').addEventListener('input', () => {
+        clearTimeout(timer);
+        timer = setTimeout(() => runSearch(), 360);
+      });
+      $('#sort').addEventListener('change', () => runSearch());
+      $('#sourceFilter').addEventListener('input', event => renderSources(event.target.value));
+      $('#sourceList').addEventListener('click', event => {
+        const btn = event.target.closest('[data-source]');
+        if (!btn) return;
+        state.source = btn.dataset.source;
+        renderSources($('#sourceFilter').value);
+        runSearch();
+      });
+      $('#sourceMobile').addEventListener('change', event => {
+        state.source = event.target.value;
+        renderSources($('#sourceFilter').value);
+        runSearch();
+      });
+      $('#fieldChips').addEventListener('click', event => {
+        const btn = event.target.closest('[data-field]');
+        if (!btn) return;
+        const field = btn.dataset.field;
+        if (state.fields.has(field)) state.fields.delete(field);
+        else state.fields.add(field);
+        if (state.fields.size === 0) state.fields.add('title');
+        $$('#fieldChips [data-field]').forEach(item => item.classList.toggle('active', state.fields.has(item.dataset.field)));
+        runSearch();
+      });
+      $$('.segment').forEach(btn => btn.addEventListener('click', () => {
+        state.pageSize = Number(btn.dataset.pageSize);
+        $$('.segment').forEach(item => item.classList.toggle('active', item === btn));
+        runSearch();
+      }));
+      $('#pagination').addEventListener('click', event => {
+        const btn = event.target.closest('[data-page]');
+        if (!btn || btn.disabled) return;
+        state.page = Number(btn.dataset.page);
+        runSearch({ keepPage: true });
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+      $('#results').addEventListener('click', event => {
+        const btn = event.target.closest('[data-row-copy]');
+        if (!btn) return;
+        const item = getRowByBv(btn.dataset.bv);
+        if (item) writeClipboard(rowText(item, btn.dataset.rowCopy));
+      });
+      $$('[data-copy-preset]').forEach(btn => btn.addEventListener('click', () => copyCurrentPage(btn.dataset.copyPreset)));
+      $('#copyAllBtn').addEventListener('click', () => copyAllResults().catch(error => {
+        setStatus(`复制失败：${error.message}`, true);
+      }));
+      $('#toggleCustomCopy').addEventListener('click', () => $('#customCopy').classList.toggle('open'));
+    }
+
+    async function init() {
+      try {
+        readUrl();
+        bindEvents();
+        await loadBootstrap();
+        if (!state.files.includes(state.source) && state.source !== 'all') state.source = 'all';
+        renderSources();
+        await runSearch({ keepPage: true });
+      } catch (error) {
+        setStatus(`初始化失败：${error.message}`, true);
+      }
+    }
+
+    document.addEventListener('DOMContentLoaded', init);
+  </script>
+</body>
+</html>
