@@ -5,8 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>歌名-歌手查重</title>
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-<link rel="stylesheet" href="/site-theme.css?v=20260516shell4">
-<script src="/site-shell.js?v=20260516shell4" defer></script>
+<link rel="stylesheet" href="/site-theme.css?v=20260516shell6">
+<script src="/site-shell.js?v=20260516shell6" defer></script>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:#f6f7f9;padding:20px}
@@ -14,9 +14,11 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;b
 .header{text-align:center;margin-bottom:20px}
 .header h2{color:#2c3e50;margin-bottom:8px}
 .header p{color:#6c757d;font-size:14px}
-.search-box{display:grid;grid-template-columns:minmax(0,1fr) 108px;gap:12px;align-items:end;margin-bottom:18px}
-#titleArtistInput{flex:1;min-width:320px;min-height:130px;padding:12px 14px;border:1px solid #d0d7de;border-radius:6px;font-size:14px;outline:none;resize:vertical;background:#fff}
+.search-box{display:grid;grid-template-columns:minmax(0,1fr) 108px;gap:12px;align-items:start;margin-bottom:18px;padding:14px}
+#titleArtistInput{flex:1;min-width:320px;min-height:112px;padding:12px 14px;border:1px solid #d0d7de;border-radius:6px;font-size:14px;line-height:1.55;outline:none;resize:vertical;background:#fff;overflow-y:auto}
 #searchBtn{padding:0 18px;height:44px;background:#f3f4f6;color:#111827;border:1px solid #b8c0cc;border-radius:6px;cursor:pointer;font-size:14px;font-weight:600;box-shadow:none}
+.dup-input-stack{min-width:0}
+.dup-input-note{margin-top:8px;color:#667085;font-size:12px;line-height:1.5}
 .source-tabs{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:12px;padding:0;border:0;align-items:center}
 .source-select{min-width:320px;max-width:440px;min-height:34px;padding:8px 12px;border:1px solid #ddd;border-radius:6px;background:#fff;font-size:13px;color:#2c3e50}
 .source-meta{font-size:12px;color:#667085;white-space:nowrap}
@@ -63,11 +65,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;b
 <div class="culua-page-shell">
   <aside class="culua-sidebar">
     <div class="culua-brand">
-      <div class="culua-brand-mark">C</div>
-      <div>
-        <div class="culua-brand-title">culua 歌曲检索</div>
-        <div class="culua-brand-subtitle">B站歌切分P直达</div>
-      </div>
+      <div class="culua-brand-title">culua.com</div>
     </div>
     <nav class="culua-shell-nav" aria-label="页面导航">
       <a class="culua-shell-nav-item" href="/">检索 <span>首页</span></a>
@@ -85,12 +83,10 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;b
     <p>按“歌名 - 歌手”批量分析，查看是否重复与来源分布</p>
   </div>
   <div class="search-box">
-    <textarea id="titleArtistInput" placeholder="输入格式支持：
-1) 歌手
-2) 歌名 - 歌手
-3) 01. 歌手
-4) 01. 歌名 - 歌手
-可批量每行一条"></textarea>
+    <div class="dup-input-stack">
+      <textarea id="titleArtistInput" placeholder="每行输入歌手或 歌名 - 歌手"></textarea>
+      <div class="dup-input-note">支持序号前缀，例如 01. 歌手 或 01. 歌名 - 歌手。</div>
+    </div>
     <button id="searchBtn">分析</button>
   </div>
 

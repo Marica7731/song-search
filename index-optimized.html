@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>culua 歌曲检索</title>
+  <title>culua.com</title>
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   <style>
     :root {
@@ -67,33 +67,22 @@
     }
 
     .brand {
-      display: flex;
-      align-items: center;
-      gap: 10px;
+      display: block;
       margin-bottom: 18px;
     }
 
     .brand-mark {
-      width: 34px;
-      height: 34px;
-      border-radius: 8px;
-      background: #0f766e;
-      color: #fff;
-      display: grid;
-      place-items: center;
-      font-weight: 800;
+      display: none;
     }
 
     .brand-title {
-      font-size: 18px;
+      font-size: 22px;
       font-weight: 800;
-      line-height: 1.2;
+      line-height: 1;
     }
 
     .brand-subtitle {
-      color: var(--muted);
-      font-size: 12px;
-      margin-top: 2px;
+      display: none;
     }
 
     .nav {
@@ -636,11 +625,7 @@
   <div class="app-shell">
     <aside class="sidebar">
       <div class="brand">
-        <div class="brand-mark">C</div>
-        <div>
-          <div class="brand-title">culua 歌曲检索</div>
-          <div class="brand-subtitle">B站歌切分P直达</div>
-        </div>
+        <div class="brand-title">culua.com</div>
       </div>
       <nav class="nav" aria-label="页面导航">
         <a class="active" href="/">检索 <span>首页</span></a>

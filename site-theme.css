@@ -858,34 +858,23 @@ body.culua-shell-page {
 }
 
 .culua-brand {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  margin-bottom: 18px;
+  display: block;
+  margin-bottom: 20px;
 }
 
 .culua-brand-mark {
-  width: 34px;
-  height: 34px;
-  border-radius: 8px;
-  background: #0f766e;
-  color: #fff;
-  display: grid;
-  place-items: center;
-  font-weight: 800;
+  display: none !important;
 }
 
 .culua-brand-title {
   color: #111827;
-  font-size: 18px;
+  font-size: 22px;
   font-weight: 800;
-  line-height: 1.2;
+  line-height: 1;
 }
 
 .culua-brand-subtitle {
-  color: #667085;
-  font-size: 12px;
-  margin-top: 2px;
+  display: none !important;
 }
 
 .culua-shell-nav {
@@ -1078,6 +1067,49 @@ body.culua-shell-page .artist-option {
 body.culua-shell-page .copy-toast,
 body.culua-shell-page .back-top {
   z-index: 3000;
+}
+
+body.culua-shell-dup .search-box,
+body.culua-shell-bv .search-box {
+  align-items: start !important;
+  padding: 14px !important;
+  border-color: #d9e0ea !important;
+  background: #fff !important;
+}
+
+body.culua-shell-dup #titleArtistInput,
+body.culua-shell-bv #bvInput {
+  min-height: 112px !important;
+  line-height: 1.55 !important;
+  overflow-y: auto;
+}
+
+body.culua-shell-dup .copy-controls,
+body.culua-shell-bv .copy-controls {
+  padding: 0 !important;
+  border: 0 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+}
+
+body.culua-shell-dup .copy-presets,
+body.culua-shell-bv .copy-presets,
+body.culua-shell-dup .copy-advanced,
+body.culua-shell-bv .copy-advanced {
+  border-color: #d9e0ea !important;
+  background: #fff !important;
+}
+
+body.culua-shell-dup .copy-presets,
+body.culua-shell-bv .copy-presets {
+  padding: 10px !important;
+}
+
+body.culua-shell-dup .filter-bar,
+body.culua-shell-bv .filter-bar {
+  padding: 10px 12px !important;
+  border-color: #d9e0ea !important;
+  background: #fff !important;
 }
 
 body.culua-shell-check .title-filter-btn[data-title-filter="all"].active {

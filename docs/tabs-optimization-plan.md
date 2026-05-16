@@ -67,11 +67,11 @@ http://127.0.0.1:8080/tabs-optimization-preview.html
 | `server.js` | 后端接口 | 增加 `/api/tabs/overview`、搜索 `rowId`、日报缓存、查重摘要和命名摘要 | 支撑正式页面和预览页 |
 | `index.html` | 首页正式页面 | 记住筛选条件与自定义复制设置，复制工具条收敛为下拉选择，继续使用 `rowId` 做整行复制，并恢复结果字段点击复制 | 读取 `/api/search` 和 `/api/search/export` |
 | `stats.html` | 数据正式页面 | 记住 tab、来源、搜索词和摘要链接数 | 读取 `/api/stats/view`，复制摘要仍基于当前视图 |
-| `bv-dup-check.html` / `title-artist-dup-check.html` | 两个查重正式页面 | 折叠高级复制字段，常用复制预设保留在主区域 | 共用 `dup-check-core.js` |
+| `bv-dup-check.html` / `title-artist-dup-check.html` | 两个查重正式页面 | 折叠高级复制字段，常用复制预设保留在主区域；歌名歌手查重输入区移除多行 placeholder，减少空页面滚动条干扰 | 共用 `dup-check-core.js` |
 | `dup-check-core.js` | 查重共享前端逻辑 | 增加复制预设、安全转义、复制设置持久化和歌手不一致状态展示 | 被 BV 查重和歌名歌手查重共用 |
 | `title-artist-check.html` / `bili-check-title-artist.js` | 命名工具正式页面与共享逻辑 | 增加细分状态筛选、用户输入优先的默认候选选择、单一当前结果复制、待处理项网易云批量搜索、候选歌手同步和行级选择 key，并转义候选文本 | 被命名工具页面使用 |
 | `song-growth.html` | 日报正式页面 | 增加当前区间摘要复制和当前表格页 TSV 复制 | 读取 `/api/song-growth` |
-| `site-shell.js` / `site-theme.css` | 正式页面共享外壳 | 为五个非首页正式页提供统一品牌侧栏、当前页高亮、H5 横向导航、长文本兜底和表单边界控制；`site-shell.js` 只做高亮和无静态壳层时的兜底 | 被 `stats.html`、`bv-dup-check.html`、`title-artist-dup-check.html`、`title-artist-check.html`、`song-growth.html` 引入 |
+| `site-shell.js` / `site-theme.css` | 正式页面共享外壳 | 为五个非首页正式页提供纯文字 `culua.com` 品牌侧栏、当前页高亮、H5 横向导航、长文本兜底和表单边界控制；`site-shell.js` 只做高亮和无静态壳层时的兜底 | 被 `stats.html`、`bv-dup-check.html`、`title-artist-dup-check.html`、`title-artist-check.html`、`song-growth.html` 引入 |
 | `docs/tabs-optimization-plan.md` | 本说明文档 | 记录预览页目标、后端能力、使用方式、文件清单和验证方式 | 被 `README.md` 与 `docs/file-manifest.md` 引用 |
 
 ## 注意事项

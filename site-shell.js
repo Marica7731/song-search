@@ -74,11 +74,7 @@
     shell.innerHTML = `
       <aside class="culua-sidebar">
         <div class="culua-brand">
-          <div class="culua-brand-mark">C</div>
-          <div>
-            <div class="culua-brand-title">culua 歌曲检索</div>
-            <div class="culua-brand-subtitle">B站歌切分P直达</div>
-          </div>
+          <div class="culua-brand-title">culua.com</div>
         </div>
         <nav class="culua-shell-nav" aria-label="页面导航">${renderNav(activeKey)}</nav>
       </aside>
