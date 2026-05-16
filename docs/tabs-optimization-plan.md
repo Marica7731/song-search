@@ -66,7 +66,7 @@ http://127.0.0.1:8080/tabs-optimization-preview.html
 | `tabs-optimization-preview.html` | 六个 tab 的优化原型 | 展示统一导航、每页核心指标、工作台布局、优化优先级、移动端布局和实时后端概览 | 只作为方案预览，不替换 `index.html`、`stats.html` 等正式页面 |
 | `server.js` | 后端接口 | 增加 `/api/tabs/overview`、搜索 `rowId`、日报缓存、查重摘要和命名摘要 | 支撑正式页面和预览页 |
 | `index.html` | 首页正式页面 | 记住筛选条件与自定义复制设置，复制工具条收敛为下拉选择，继续使用 `rowId` 做整行复制，并恢复结果字段点击复制 | 读取 `/api/search` 和 `/api/search/export` |
-| `stats.html` | 数据正式页面 | 记住 tab、来源、搜索词和摘要链接数 | 读取 `/api/stats/view`，复制摘要仍基于当前视图 |
+| `stats.html` | 数据正式页面 | 左侧提供来源统计/歌曲排行/歌手聚合的数据导航，来源选择保留为内容区筛选条件，并记住 tab、来源、搜索词和摘要链接数 | 读取 `/api/stats/view`，复制摘要仍基于当前视图 |
 | `bv-dup-check.html` / `title-artist-dup-check.html` | 两个查重正式页面 | 折叠高级复制字段，常用复制预设保留在主区域；歌名歌手查重输入区移除多行 placeholder，减少空页面滚动条干扰 | 共用 `dup-check-core.js` |
 | `dup-check-core.js` | 查重共享前端逻辑 | 增加复制预设、安全转义、复制设置持久化和歌手不一致状态展示 | 被 BV 查重和歌名歌手查重共用 |
 | `title-artist-check.html` / `bili-check-title-artist.js` | 命名工具正式页面与共享逻辑 | 增加细分状态筛选、用户输入优先的默认候选选择、单一当前结果复制、待处理项网易云批量搜索、候选歌手同步和行级选择 key，并转义候选文本 | 被命名工具页面使用 |

@@ -791,6 +791,18 @@
                 <a class="culua-shell-nav-item" href="/check">命名校验 <span>工具</span></a>
                 <a class="culua-shell-nav-item" href="/growth">增长日报 <span>数据</span></a>
             </nav>
+            <div class="stats-view-nav" aria-label="数据导航">
+                <div class="stats-view-nav-title">数据导航</div>
+                <button class="stats-view-nav-item active" type="button" data-stats-tab="vtuber-source">
+                    来源统计 <span>来源</span>
+                </button>
+                <button class="stats-view-nav-item" type="button" data-stats-tab="rank">
+                    歌曲排行 <span>排行</span>
+                </button>
+                <button class="stats-view-nav-item" type="button" data-stats-tab="artist">
+                    歌手聚合 <span>歌手</span>
+                </button>
+            </div>
         </aside>
         <main class="culua-page-content">
     <h1>歌曲数据</h1>
@@ -1016,6 +1028,15 @@
             }
         }
 
+        function syncStatsNavigation() {
+            document.querySelectorAll('.tab-btn').forEach(button => {
+                button.classList.toggle('active', button.dataset.tab === activeTab);
+            });
+            document.querySelectorAll('.stats-view-nav-item').forEach(button => {
+                button.classList.toggle('active', button.dataset.statsTab === activeTab);
+            });
+        }
+
         function restoreStatsViewPrefs() {
             const saved = readStoredStatsPrefs();
             if (['vtuber-source', 'rank', 'artist'].includes(saved.tab)) {
@@ -1034,9 +1055,7 @@
             }
             const searchInput = document.getElementById('search-input');
             if (searchInput) searchInput.value = searchKeyword;
-            document.querySelectorAll('.tab-btn').forEach(button => {
-                button.classList.toggle('active', button.dataset.tab === activeTab);
-            });
+            syncStatsNavigation();
             document.querySelectorAll('.tab-content').forEach(content => {
                 content.classList.toggle('active', content.id === `tab-${activeTab}`);
             });
@@ -2450,9 +2469,9 @@
         }
 
         function switchTab(tab) {
+            if (!['vtuber-source', 'rank', 'artist'].includes(tab)) return;
             activeTab = tab;
-            document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-            document.querySelector(`.tab-btn[data-tab="${tab}"]`).classList.add('active');
+            syncStatsNavigation();
             document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
             document.getElementById(`tab-${tab}`).classList.add('active');
             saveStatsViewPrefs();
@@ -2569,6 +2588,9 @@
                 
                 document.querySelectorAll('.tab-btn').forEach(btn => {
                     btn.addEventListener('click', () => switchTab(btn.dataset.tab));
+                });
+                document.querySelectorAll('.stats-view-nav-item').forEach(btn => {
+                    btn.addEventListener('click', () => switchTab(btn.dataset.statsTab));
                 });
 
                 const searchInput = document.getElementById('search-input');

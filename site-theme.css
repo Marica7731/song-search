@@ -1291,6 +1291,54 @@ body.culua-shell-stats .tab-btn.active {
   color: #0f766e !important;
 }
 
+body.culua-shell-stats .stats-view-nav {
+  margin-top: 18px;
+  padding-top: 16px;
+  border-top: 1px solid #e5eaf1;
+}
+
+body.culua-shell-stats .stats-view-nav-title {
+  margin: 0 0 8px;
+  color: #64748b;
+  font-size: 12px;
+  font-weight: 800;
+}
+
+body.culua-shell-stats .stats-view-nav-item {
+  display: flex !important;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  min-height: 34px !important;
+  margin: 0 0 6px;
+  padding: 6px 9px !important;
+  border: 0 !important;
+  border-radius: 8px !important;
+  background: transparent !important;
+  color: #334155 !important;
+  font-size: 14px !important;
+  font-weight: 700;
+  text-align: left;
+  cursor: pointer;
+}
+
+body.culua-shell-stats .stats-view-nav-item span {
+  color: #64748b;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+body.culua-shell-stats .stats-view-nav-item:hover,
+body.culua-shell-stats .stats-view-nav-item.active {
+  background: #e6f4f1 !important;
+  color: #0f766e !important;
+}
+
+body.culua-shell-stats .stats-view-nav-item:hover span,
+body.culua-shell-stats .stats-view-nav-item.active span {
+  color: #0f766e;
+}
+
 body.culua-shell-stats .filter-search-container {
   display: grid;
   gap: 10px !important;
@@ -1408,6 +1456,28 @@ body.culua-shell-stats .toggle-btn {
   .culua-shell-nav-item {
     flex: 0 0 auto;
     min-width: max-content;
+    gap: 10px;
+  }
+
+  body.culua-shell-stats .stats-view-nav {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 10px;
+    padding-top: 10px;
+    overflow-x: auto;
+  }
+
+  body.culua-shell-stats .stats-view-nav-title {
+    flex: 0 0 auto;
+    margin: 0 2px 0 0;
+  }
+
+  body.culua-shell-stats .stats-view-nav-item {
+    flex: 0 0 auto;
+    width: auto;
+    min-width: max-content;
+    margin: 0;
     gap: 10px;
   }
 

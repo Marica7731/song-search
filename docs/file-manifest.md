@@ -11,7 +11,7 @@
 | `index.html` | 优化版首页与歌曲检索页 | 可搜索来源、搜索范围切换、服务端分页、来源数量展示、筛选偏好记忆、紧凑复制工具条、自定义复制记忆、结果字段点击复制、稳定行级复制、移动端 H5 布局 | 读取 `/api/bootstrap`、`/api/search`；来源数量优先使用 `sourceStats.totalSongs`；行内整行复制使用服务端 `rowId`；字段复制使用结果项内的 `data-copy-value`；复制全部调用 `/api/search/export`；本地偏好写入浏览器 `localStorage` |
 | `index-optimized.html` | 首页优化对照文件 | 与 `index.html` 保持同源，便于后续继续调样式或回看优化方案 | 配合 `docs/site-optimization-plan.md`；正式入口仍是 `index.html` |
 | `tabs-optimization-preview.html` | 六个主 tab 的优化方案预览 | 展示首页、数据、BV 查重、歌名歌手查重、命名工具、日报的目标布局、优化优先级、移动端形态和实时后端概览 | 配合 `docs/tabs-optimization-plan.md`；读取 `/api/tabs/overview`，不替换正式页面 |
-| `stats.html` | 数据统计页 | 展示来源、歌手、曲目、投稿时间等统计视图，并记住 tab、来源、关键词和摘要链接数 | 优先请求 `/api/stats/view`，服务端不可用时回退本地数据；接入共享外壳和数据页专用视觉样式；本地视图偏好写入浏览器 `localStorage` |
+| `stats.html` | 数据统计页 | 展示来源、歌手、曲目、投稿时间等统计视图，左侧提供来源统计/歌曲排行/歌手聚合的数据导航，并记住 tab、来源、关键词和摘要链接数 | 优先请求 `/api/stats/view`，服务端不可用时回退本地数据；接入共享外壳和数据页专用视觉样式；本地视图偏好写入浏览器 `localStorage` |
 | `bv-dup-check.html` | BV 查重页面 | 接收 BV 列表，输出已存在和未命中的结果，提供复制预设入口和折叠式高级复制字段 | 依赖 `dup-check-core.js` 与 `artist-match.js`；服务端 `/api/dup-check` 限制未知 BV live fallback |
 | `title-artist-dup-check.html` | 歌名歌手查重页面 | 批量检查“歌名 - 歌手”是否已入库，展示歌手疑似不一致分组，提供复制预设入口、折叠式高级复制字段和更干净的输入区 | 依赖 `dup-check-core.js` 与 `artist-match.js` |
 | `title-artist-check.html` | 命名和校验工具 | 校验歌名歌手组合，提供改名重查、搜索辅助、已确认/需要确认/缺歌手/待入库/未找到状态筛选、当前可见结果复制和待处理项网易云搜索 | 依赖 `bili-check-title-artist.js`；服务端 `/api/title-artist/lookup` 返回 summary；正式页面首屏直接包含共享外壳 |
