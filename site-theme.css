@@ -1086,6 +1086,16 @@ body.culua-shell-check .title-filter-btn[data-title-filter="all"].active {
   color: #0f766e !important;
 }
 
+body.culua-shell-check .title-filter-btn[data-title-filter="ok"] {
+  border-color: #99d8cf !important;
+}
+
+body.culua-shell-check .title-filter-btn[data-title-filter="ok"].active {
+  background: #e6f4f1 !important;
+  border-color: #0f766e !important;
+  color: #0f766e !important;
+}
+
 body.culua-shell-check .title-filter-btn[data-title-filter="review"] {
   border-color: #f3d08a !important;
 }
@@ -1098,6 +1108,26 @@ body.culua-shell-check .title-filter-btn[data-title-filter="review"].active {
 
 body.culua-shell-check .title-filter-btn[data-title-filter="missing"] {
   border-color: #f3b8b8 !important;
+}
+
+body.culua-shell-check .title-filter-btn[data-title-filter="noArtist"] {
+  border-color: #cbd5e1 !important;
+}
+
+body.culua-shell-check .title-filter-btn[data-title-filter="noArtist"].active {
+  background: #f1f5f9 !important;
+  border-color: #64748b !important;
+  color: #334155 !important;
+}
+
+body.culua-shell-check .title-filter-btn[data-title-filter="pending"] {
+  border-color: #d8b4fe !important;
+}
+
+body.culua-shell-check .title-filter-btn[data-title-filter="pending"].active {
+  background: #faf5ff !important;
+  border-color: #8b5cf6 !important;
+  color: #6d28d9 !important;
 }
 
 body.culua-shell-check .title-filter-btn[data-title-filter="missing"].active {
@@ -1113,6 +1143,16 @@ body.culua-shell-check .select-item.status-ok {
 body.culua-shell-check .select-item.status-review {
   border-left: 4px solid #d69e2e;
   background: #fffdf7;
+}
+
+body.culua-shell-check .select-item.status-noArtist {
+  border-left: 4px solid #64748b;
+  background: #f8fafc;
+}
+
+body.culua-shell-check .select-item.status-pending {
+  border-left: 4px solid #8b5cf6;
+  background: #fdfaff;
 }
 
 body.culua-shell-check .select-item.status-missing {
@@ -1138,6 +1178,16 @@ body.culua-shell-check .title-status-badge.status-ok {
 body.culua-shell-check .title-status-badge.status-review {
   background: #fff7df;
   color: #92400e;
+}
+
+body.culua-shell-check .title-status-badge.status-noArtist {
+  background: #f1f5f9;
+  color: #334155;
+}
+
+body.culua-shell-check .title-status-badge.status-pending {
+  background: #faf5ff;
+  color: #6d28d9;
 }
 
 body.culua-shell-check .title-status-badge.status-missing {

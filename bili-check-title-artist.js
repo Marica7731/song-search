@@ -159,21 +159,68 @@ function getTitleSelectionKey(item) {
   return item?.resultKey || item?.title || '';
 }
 
+function isPlaceholderArtistName(artistName) {
+  const value = String(artistName || '').trim();
+  if (!value) return true;
+  return ['未确认', '未知'].includes(value);
+}
+
+function hasUsableUserProvidedArtist(item) {
+  return !!String(item?.inputArtist || '').trim() && !isPlaceholderArtistName(item.inputArtist);
+}
+
+function getLibraryFallbackArtist(item) {
+  const artistNames = Array.isArray(item?.artistNames) ? item.artistNames : [];
+  return String(item?.maxSourceArtist || artistNames[0] || '').trim();
+}
+
+function getLongestContainingLibraryArtist(userArtist, artistNames = []) {
+  const user = String(userArtist || '').trim();
+  const normalizedUser = normalizeText(user);
+  if (!normalizedUser) return '';
+
+  return artistNames
+    .map(name => String(name || '').trim())
+    .filter(name => {
+      const normalizedName = normalizeText(name);
+      return name.length > user.length
+        && normalizedName !== normalizedUser
+        && normalizedName.includes(normalizedUser);
+    })
+    .sort((left, right) => right.length - left.length)[0] || '';
+}
+
+function getPreferredSelectedArtist(item, previousSelected = '') {
+  const artistNames = Array.isArray(item?.artistNames) ? item.artistNames : [];
+  const inputArtist = String(item?.inputArtist || '').trim();
+  const libraryFallback = getLibraryFallbackArtist(item);
+
+  let preferred = '';
+  if (item?.hasResult) {
+    if (!inputArtist || isPlaceholderArtistName(inputArtist)) {
+      preferred = libraryFallback;
+    } else {
+      preferred = getLongestContainingLibraryArtist(inputArtist, artistNames) || inputArtist;
+    }
+  } else {
+    preferred = inputArtist && !isPlaceholderArtistName(inputArtist) ? inputArtist : '';
+  }
+
+  const previous = String(previousSelected || '').trim();
+  if (previous && (previous === inputArtist || artistNames.includes(previous))) {
+    return previous;
+  }
+  return preferred;
+}
+
+function isTitleItemConfirmedByLibraryDetail(item) {
+  if (!item?.hasResult || !hasUsableUserProvidedArtist(item)) return false;
+  return !!getLongestContainingLibraryArtist(item.inputArtist, item.artistNames);
+}
+
 function setDefaultSelectedArtist(item, previousSelected = '') {
   const key = getTitleSelectionKey(item);
-  if (item.hasResult) {
-    const fallback = item.maxSourceArtist || item.artistNames[0] || '';
-    const canReusePrevious = previousSelected && item.artistNames.includes(previousSelected);
-    selectedArtists[key] = canReusePrevious ? previousSelected : fallback;
-    return;
-  }
-
-  if (item.inputArtist && item.inputArtist.trim()) {
-    selectedArtists[key] = item.inputArtist.trim();
-    return;
-  }
-
-  selectedArtists[key] = '';
+  selectedArtists[key] = getPreferredSelectedArtist(item, previousSelected);
 }
 
 function getNeteaseSearchUrl(keyword) {
@@ -317,7 +364,7 @@ function createRetitleTools(item, index) {
   titleOnlyLabel.className = 'net-ease-option';
   const titleOnlyInput = document.createElement('input');
   titleOnlyInput.type = 'checkbox';
-  titleOnlyInput.disabled = !hasUserProvidedArtist(item);
+  titleOnlyInput.disabled = !hasUsableUserProvidedArtist(item);
   if (titleOnlyInput.disabled) {
     titleOnlyLabel.classList.add('disabled');
     titleOnlyLabel.title = '用户没有提供歌手时，该项不可勾选';
@@ -499,9 +546,9 @@ async function searchAndValidateArtists() {
 }
 
 function getTitleItemStatusKind(item) {
-  if (!item?.hasResult) return 'missing';
-  if (!hasUserProvidedArtist(item)) return 'review';
-  if (!item.isArtistValid) return 'review';
+  if (!item?.hasResult) return hasUsableUserProvidedArtist(item) ? 'pending' : 'missing';
+  if (!hasUsableUserProvidedArtist(item)) return 'noArtist';
+  if (!item.isArtistValid && !isTitleItemConfirmedByLibraryDetail(item)) return 'review';
   return 'ok';
 }
 
@@ -511,23 +558,34 @@ function isTitleItemNeedsReview(item) {
 
 function getTitleItemStatus(item) {
   const kind = getTitleItemStatusKind(item);
+  if (kind === 'pending') return '待入库';
   if (kind === 'missing') return '未找到';
+  if (kind === 'noArtist') return '缺歌手';
   if (kind === 'review') return '需要确认';
   return '已确认';
 }
 
 function getTitleItemStatusReason(item) {
   const kind = getTitleItemStatusKind(item);
+  if (kind === 'pending') return '库中没有该歌名，已保留用户提供的歌手';
   if (kind === 'missing') return '需要用户自行找到歌手';
-  if (!hasUserProvidedArtist(item)) return '用户没有提供歌手';
+  if (kind === 'noArtist') {
+    if (hasUserProvidedArtist(item)) return '用户输入为未确认/未知，已优先使用库中候选';
+    return '用户没有提供歌手，已优先使用库中候选';
+  }
+  if (isTitleItemConfirmedByLibraryDetail(item)) return `库中歌手补全了用户输入：${selectedArtists[getTitleSelectionKey(item)] || getPreferredSelectedArtist(item)}`;
   if (!item.isArtistValid) return `输入歌手与库中候选不一致：${(item.artistNames || []).join(' / ') || '无候选'}`;
   return '用户提供的歌手已验证通过';
 }
 
 function matchesTitleFilter(item) {
   const mode = typeof titleFilterMode === 'string' ? titleFilterMode : 'all';
-  if (mode === 'missing') return !item?.hasResult;
+  if (mode === 'all') return true;
   if (mode === 'review') return isTitleItemNeedsReview(item);
+  if (mode === 'missing') return getTitleItemStatusKind(item) === 'missing';
+  if (mode === 'pending') return getTitleItemStatusKind(item) === 'pending';
+  if (mode === 'noArtist') return getTitleItemStatusKind(item) === 'noArtist';
+  if (mode === 'ok') return getTitleItemStatusKind(item) === 'ok';
   return true;
 }
 
@@ -541,24 +599,35 @@ function renderTitleFilterBar() {
   const bar = document.getElementById('titleFilterBar');
   if (!bar) return;
   const total = titleSearchResults.length;
-  const reviewCount = titleSearchResults.filter(isTitleItemNeedsReview).length;
-  const missingCount = titleSearchResults.filter(item => !item.hasResult).length;
+  const counts = titleSearchResults.reduce((acc, item) => {
+    const kind = getTitleItemStatusKind(item);
+    acc[kind] = (acc[kind] || 0) + 1;
+    return acc;
+  }, {});
+  const reviewCount = counts.review || 0;
+  const noArtistCount = counts.noArtist || 0;
+  const pendingCount = counts.pending || 0;
+  const missingCount = counts.missing || 0;
+  const okCount = counts.ok || 0;
   const visibleCount = getTitleResultEntries().length;
   bar.classList.toggle('active', total > 0);
   bar.querySelectorAll('[data-title-filter]').forEach(button => {
     button.classList.toggle('active', button.dataset.titleFilter === titleFilterMode);
     if (button.dataset.titleFilter === 'all') button.textContent = `全部 ${total}`;
+    if (button.dataset.titleFilter === 'ok') button.textContent = `已确认 ${okCount}`;
     if (button.dataset.titleFilter === 'review') button.textContent = `需要确认 ${reviewCount}`;
+    if (button.dataset.titleFilter === 'noArtist') button.textContent = `缺歌手 ${noArtistCount}`;
+    if (button.dataset.titleFilter === 'pending') button.textContent = `待入库 ${pendingCount}`;
     if (button.dataset.titleFilter === 'missing') button.textContent = `未找到 ${missingCount}`;
   });
   const summary = document.getElementById('titleFilterSummary');
   if (summary) {
-    summary.textContent = `当前 ${visibleCount} / ${total} 条 · 需确认 ${reviewCount} · 未找到 ${missingCount}`;
+    summary.textContent = `当前 ${visibleCount} / ${total} 条 · 已确认 ${okCount} · 需确认 ${reviewCount} · 缺歌手 ${noArtistCount} · 待入库 ${pendingCount} · 未找到 ${missingCount}`;
   }
 }
 
 function setTitleFilterMode(mode) {
-  titleFilterMode = ['all', 'review', 'missing'].includes(mode) ? mode : 'all';
+  titleFilterMode = ['all', 'ok', 'review', 'noArtist', 'pending', 'missing'].includes(mode) ? mode : 'all';
   renderArtistSelectWithValidation();
   generateResultText();
 }
@@ -568,7 +637,7 @@ function updateNeteaseBatchState() {
   const checkbox = document.getElementById('neteaseTitleOnly');
   const label = document.getElementById('neteaseTitleOnlyLabel');
   const button = document.getElementById('openNeteaseBatchBtn');
-  const hasProvidedArtist = entries.some(({ item }) => hasUserProvidedArtist(item));
+  const hasProvidedArtist = entries.some(({ item }) => hasUsableUserProvidedArtist(item));
   if (checkbox) {
     checkbox.disabled = !hasProvidedArtist;
     if (!hasProvidedArtist) checkbox.checked = false;

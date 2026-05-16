@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>命名工具</title>
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-<link rel="stylesheet" href="/site-theme.css?v=20260516shell4">
+<link rel="stylesheet" href="/site-theme.css?v=20260516shell5">
 <script src="/site-shell.js?v=20260516shell4" defer></script>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
@@ -103,7 +103,10 @@ button{padding:0 18px;height:44px;color:#111827;border:1px solid #b8c0cc;border-
   <div class="artist-select-area" id="artistSelectArea">
     <div class="title-filter-bar" id="titleFilterBar">
       <button class="title-filter-btn active" type="button" data-title-filter="all">全部</button>
+      <button class="title-filter-btn" type="button" data-title-filter="ok">已确认</button>
       <button class="title-filter-btn" type="button" data-title-filter="review">需要确认</button>
+      <button class="title-filter-btn" type="button" data-title-filter="noArtist">缺歌手</button>
+      <button class="title-filter-btn" type="button" data-title-filter="pending">待入库</button>
       <button class="title-filter-btn" type="button" data-title-filter="missing">未找到</button>
       <span class="title-filter-summary" id="titleFilterSummary"></span>
     </div>
@@ -233,7 +236,7 @@ async function loadAllData() {
 }
 </script>
 <script src="/artist-match.js"></script>
-<script src="bili-check-title-artist.js?v=2026051604"></script>
+<script src="bili-check-title-artist.js?v=2026051605"></script>
 <script src="/page-directory-widget.js?v=20260516shell4"></script>
 <script>
 function initTitleArtistPage() {
