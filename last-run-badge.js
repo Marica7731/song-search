@@ -41,7 +41,7 @@
       badge.id = BADGE_ID;
       badge.classList.add('last-run-badge');
       if (!badge.textContent.trim()) {
-        badge.textContent = 'update-songs 上次执行：加载中…';
+        badge.textContent = '最近更新：加载中…';
       }
       return badge;
     }
@@ -52,7 +52,7 @@
     badge = document.createElement('div');
     badge.id = BADGE_ID;
     badge.className = 'last-run-badge';
-    badge.textContent = 'update-songs 上次执行：加载中…';
+    badge.textContent = '最近更新：加载中…';
     anchor.insertAdjacentElement('afterend', badge);
     return badge;
   }
@@ -79,17 +79,17 @@
       }
 
       if (!meta || !meta.completedAtShanghai) {
-        badge.textContent = 'update-songs 上次执行：暂无记录';
+        badge.textContent = '最近更新：暂无记录';
         return;
       }
 
-      let text = 'update-songs 上次执行：' + meta.completedAtShanghai;
+      let text = '最近更新：' + meta.completedAtShanghai;
       if (Number.isFinite(meta.successCount) && Number.isFinite(meta.totalConfigs) && meta.totalConfigs > 0) {
         text += '（' + meta.successCount + '/' + meta.totalConfigs + '）';
       }
       badge.textContent = text;
     } catch {
-      badge.textContent = 'update-songs 上次执行：读取失败';
+      badge.textContent = '最近更新：读取失败';
     }
   }
 

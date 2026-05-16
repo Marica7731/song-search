@@ -11,7 +11,7 @@
 | `index.html` | 优化版首页与歌曲检索页 | 可搜索来源、搜索范围切换、服务端分页、来源数量展示、筛选偏好记忆、紧凑复制工具条、自定义复制记忆、结果字段点击复制、稳定行级复制、移动端 H5 布局 | 读取 `/api/bootstrap`、`/api/search`；来源数量优先使用 `sourceStats.totalSongs`；行内整行复制使用服务端 `rowId`；字段复制使用结果项内的 `data-copy-value`；复制全部调用 `/api/search/export`；本地偏好写入浏览器 `localStorage` |
 | `index-optimized.html` | 首页优化对照文件 | 与 `index.html` 保持同源，便于后续继续调样式或回看优化方案 | 配合 `docs/site-optimization-plan.md`；正式入口仍是 `index.html` |
 | `tabs-optimization-preview.html` | 六个主 tab 的优化方案预览 | 展示首页、数据、BV 查重、歌名歌手查重、命名工具、日报的目标布局、优化优先级、移动端形态和实时后端概览 | 配合 `docs/tabs-optimization-plan.md`；读取 `/api/tabs/overview`，不替换正式页面 |
-| `stats.html` | 数据统计页 | 展示来源、歌手、曲目、投稿时间等统计视图，并记住 tab、来源、关键词和摘要链接数 | 优先请求 `/api/stats/view`，服务端不可用时回退本地数据；本地视图偏好写入浏览器 `localStorage` |
+| `stats.html` | 数据统计页 | 展示来源、歌手、曲目、投稿时间等统计视图，并记住 tab、来源、关键词和摘要链接数 | 优先请求 `/api/stats/view`，服务端不可用时回退本地数据；接入共享外壳和数据页专用视觉样式；本地视图偏好写入浏览器 `localStorage` |
 | `bv-dup-check.html` | BV 查重页面 | 接收 BV 列表，输出已存在和未命中的结果，提供复制预设入口和折叠式高级复制字段 | 依赖 `dup-check-core.js` 与 `artist-match.js`；服务端 `/api/dup-check` 限制未知 BV live fallback |
 | `title-artist-dup-check.html` | 歌名歌手查重页面 | 批量检查“歌名 - 歌手”是否已入库，展示歌手疑似不一致分组，提供复制预设入口和折叠式高级复制字段 | 依赖 `dup-check-core.js` 与 `artist-match.js` |
 | `title-artist-check.html` | 命名和校验工具 | 校验歌名歌手组合，提供改名重查、搜索辅助、候选摘要、结果筛选和 TSV 复制 | 依赖 `bili-check-title-artist.js`、`page-directory-widget.js`；服务端 `/api/title-artist/lookup` 返回 summary |
@@ -22,7 +22,7 @@
 | `site-theme.css` | 共享样式 | 页面布局、表格、按钮、状态提示、响应式样式 | 被多个 HTML 页面引用 |
 | `site-shell.js` | 正式工具页共享外壳 | 将数据、BV 查重、歌名歌手查重、命名工具和日报页面包进统一品牌侧栏、主导航和 H5 横向导航，并隐藏旧文字导航 | 被 `stats.html`、`bv-dup-check.html`、`title-artist-dup-check.html`、`title-artist-check.html`、`song-growth.html` 以 `defer` 引入；样式在 `site-theme.css` |
 | `page-directory-widget.js` | 页面目录组件 | 生成浮动目录、移动端目录按钮、滚动定位 | 被长页面和校验工具复用 |
-| `last-run-badge.js` | 最近更新状态角标 | 读取更新元信息并展示最近刷新时间 | 读取 `/api/update-meta` 或相关后端数据 |
+| `last-run-badge.js` | 最近更新状态角标 | 读取更新元信息并展示“最近更新”时间，避免暴露 `update-songs` 等技术文案 | 读取 `/api/update-meta` 或相关后端数据 |
 | `admin-refresh-control.js` | 管理刷新控件 | 读取 token、显示刷新状态、触发服务端刷新 | 配合 `admin-singer-config.html` 和 `server.js` 管理接口 |
 
 ## 查重与解析逻辑
