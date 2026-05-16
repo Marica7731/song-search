@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 5/16/2026, 7:12:13 PM
+// 生成时间: 5/16/2026, 7:50:57 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3123,6 +3123,134 @@ window.SONG_DATA.push(
   "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=48",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "楽園",
+  "artist": "andymori",
+  "collection": "【♧🎸歌切】[2026-05-17]睡眠・工作用直播｜透过窗帘的街灯与音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SuLj6NEtM?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "キッス～帰り道のラブソング～",
+  "artist": "テゴマス",
+  "collection": "【♧🎸歌切】[2026-05-17]睡眠・工作用直播｜透过窗帘的街灯与音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SuLj6NEtM?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "未来",
+  "artist": "ズーカラデル",
+  "collection": "【♧🎸歌切】[2026-05-17]睡眠・工作用直播｜透过窗帘的街灯与音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SuLj6NEtM?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "春に一番近い街",
+  "artist": "40mP feat. GUMI",
+  "collection": "【♧🎸歌切】[2026-05-17]睡眠・工作用直播｜透过窗帘的街灯与音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SuLj6NEtM?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ふるさと",
+  "artist": "童謡・唱歌",
+  "collection": "【♧🎸歌切】[2026-05-17]睡眠・工作用直播｜透过窗帘的街灯与音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SuLj6NEtM?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "眼福",
+  "artist": "米津玄師",
+  "collection": "【♧🎸歌切】[2026-05-17]睡眠・工作用直播｜透过窗帘的街灯与音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SuLj6NEtM?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【♧🎸歌切】[2026-05-17]睡眠・工作用直播｜透过窗帘的街灯与音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SuLj6NEtM?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Just Be Friends",
+  "artist": "Dixie Flatline feat. 巡音ルカ",
+  "collection": "【♧🎸歌切】[2026-05-17]睡眠・工作用直播｜透过窗帘的街灯与音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SuLj6NEtM?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "乾杯",
+  "artist": "長渕剛",
+  "collection": "【♧🎸歌切】[2026-05-17]睡眠・工作用直播｜透过窗帘的街灯与音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SuLj6NEtM?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "花鳥風月",
+  "artist": "SEKAI NO OWARI",
+  "collection": "【♧🎸歌切】[2026-05-17]睡眠・工作用直播｜透过窗帘的街灯与音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SuLj6NEtM?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "カントリー・ロード",
+  "artist": "本名陽子",
+  "collection": "【♧🎸歌切】[2026-05-17]睡眠・工作用直播｜透过窗帘的街灯与音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SuLj6NEtM?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "正解",
+  "artist": "RADWIMPS",
+  "collection": "【♧🎸歌切】[2026-05-17]睡眠・工作用直播｜透过窗帘的街灯与音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SuLj6NEtM?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "桃ノ花ビラ",
+  "artist": "大塚愛",
+  "collection": "【♧🎸歌切】[2026-05-17]睡眠・工作用直播｜透过窗帘的街灯与音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SuLj6NEtM?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "しあわせ",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-17]睡眠・工作用直播｜透过窗帘的街灯与音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SuLj6NEtM?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "いつか",
+  "artist": "はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-17]睡眠・工作用直播｜透过窗帘的街灯与音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SuLj6NEtM?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夜な夜なエール",
+  "artist": "はるこたつぶとん倶楽部",
+  "collection": "【♧🎸歌切】[2026-05-17]睡眠・工作用直播｜透过窗帘的街灯与音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SuLj6NEtM?p=16",
   "source": "kotatsu.js"
 }
 );
