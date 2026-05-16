@@ -1,5 +1,15 @@
 // title-artist query/validation module
 
+function escapeHtml(value) {
+  return String(value ?? '').replace(/[&<>"']/g, ch => ({
+    '&': '&amp;',
+    '<': '&lt;',
+    '>': '&gt;',
+    '"': '&quot;',
+    "'": '&#39;'
+  }[ch]));
+}
+
 function parseInputContent() {
   const input = document.getElementById('titleInput').value.trim();
   if (!input) {
@@ -447,12 +457,12 @@ function renderArtistSelectWithValidation() {
     const selectItem = document.createElement('div');
     selectItem.className = 'select-item';
 
-    let titleHtml = `<h4>${item.title}`;
+    let titleHtml = `<h4>${escapeHtml(item.title)}`;
     if (inputFormatType === 'full' && item.inputArtist.trim()) {
       if (item.hasResult) {
         titleHtml += item.isArtistValid
-          ? `<span class="valid-tag">✅ 歌手 "${item.inputArtist}" 验证通过</span>`
-          : `<span class="invalid-tag">❌ 歌手 "${item.inputArtist}" 与库中不符，库中歌手：${item.artistNames.join(' / ')}</span>`;
+          ? `<span class="valid-tag">✅ 歌手 "${escapeHtml(item.inputArtist)}" 验证通过</span>`
+          : `<span class="invalid-tag">❌ 歌手 "${escapeHtml(item.inputArtist)}" 与库中不符，库中歌手：${escapeHtml(item.artistNames.join(' / '))}</span>`;
       } else {
         titleHtml += `<span class="invalid-tag">❌ 未找到该歌曲信息</span>`;
       }
@@ -473,7 +483,7 @@ function renderArtistSelectWithValidation() {
         const userBtn = document.createElement('div');
         const isUserSelected = selectedArtists[item.title] === item.inputArtist;
         userBtn.className = `artist-option ${isUserArtistMaxSource ? 'max-source' : 'user-provided'} ${isUserSelected ? 'selected' : ''}`;
-        userBtn.innerHTML = `${item.inputArtist} (用户输入) <span class="source-label">来源：用户输入</span>`;
+        userBtn.innerHTML = `${escapeHtml(item.inputArtist)} (用户输入) <span class="source-label">来源：用户输入</span>`;
         userBtn.onclick = () => {
           selectedArtists[item.title] = item.inputArtist;
           optionsDiv.querySelectorAll('.artist-option').forEach(btn => btn.classList.remove('selected'));
@@ -502,7 +512,7 @@ function renderArtistSelectWithValidation() {
         if (isSelected) className += ' selected';
         optionBtn.className = className;
 
-        optionBtn.innerHTML = `${artist.name} (库中值) <span class="source-label">来源(${artist.sourceCount})：${artist.sources}</span>`;
+        optionBtn.innerHTML = `${escapeHtml(artist.name)} (库中值) <span class="source-label">来源(${escapeHtml(artist.sourceCount)})：${escapeHtml(artist.sources)}</span>`;
         optionBtn.onclick = () => {
           selectedArtists[item.title] = artist.name;
           optionsDiv.querySelectorAll('.artist-option').forEach(btn => btn.classList.remove('selected'));
@@ -521,7 +531,7 @@ function renderArtistSelectWithValidation() {
         }
         const isSelected = selectedArtists[item.title] === item.inputArtist;
         errorBtn.className = `artist-option error ${isSelected ? 'selected' : ''}`;
-        errorBtn.innerHTML = `${item.inputArtist} (输入值) <span class="source-label">无匹配来源</span>`;
+        errorBtn.innerHTML = `${escapeHtml(item.inputArtist)} (输入值) <span class="source-label">无匹配来源</span>`;
         errorBtn.onclick = () => {
           selectedArtists[item.title] = item.inputArtist;
           optionsDiv.querySelectorAll('.artist-option').forEach(btn => btn.classList.remove('selected'));

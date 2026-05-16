@@ -28,6 +28,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;b
 .filter-btn{padding:8px 14px;background:#f3f4f6;color:#111827;border:1px solid #b8c0cc;border-radius:6px;cursor:pointer;font-size:13px;margin-left:0}
 .filter-btn.active{background:#e9edf2;color:#111827;border-color:#94a3b8}
 .copy-controls{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:18px}
+.copy-presets{display:flex;gap:8px;align-items:center;flex-wrap:wrap;width:100%;padding:10px;border:1px solid #d7e1ec;border-radius:8px;background:#f8fafc}
 .copy-controls label{font-size:13px;color:#495057;display:flex;align-items:center;gap:4px}
 .copy-index-input{width:84px;padding:5px 8px;border:1px solid #ddd;border-radius:6px;font-size:13px}
 .copy-order-select{padding:5px 8px;border:1px solid #ddd;border-radius:6px;font-size:13px;background:#fff;color:#2c3e50}
@@ -90,6 +91,11 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;b
   </div>
 
   <div class="copy-controls">
+    <div class="copy-presets" aria-label="复制预设">
+      <button class="copy-btn" type="button" data-copy-preset="titleArtist">复制：歌名 - 歌手</button>
+      <button class="copy-btn" type="button" data-copy-preset="titleArtistLink">复制：带链接</button>
+      <button class="copy-btn" type="button" data-copy-preset="tsv">复制 TSV</button>
+    </div>
     <label><input type="checkbox" id="copyOnlyUnique" checked>仅复制非重复</label>
     <label><input type="checkbox" id="copyOriginal">输入值</label>
     <label><input type="checkbox" id="copyTitle" checked>歌名</label>

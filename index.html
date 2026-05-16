@@ -898,8 +898,8 @@
             <div class="song-collection">${escapeHtml(item.collection || '未知合集')}</div>
             <div class="song-source">${escapeHtml(src)}</div>
             <div class="row-actions">
-              <button class="icon-btn" title="复制歌名歌手" data-row-copy="titleArtist" data-bv="${escapeHtml(bv)}">文</button>
-              <button class="icon-btn" title="复制链接" data-row-copy="link" data-bv="${escapeHtml(bv)}">链</button>
+              <button class="icon-btn" title="复制歌名歌手" data-row-copy="titleArtist" data-row-id="${escapeHtml(item.rowId || '')}">文</button>
+              <button class="icon-btn" title="复制链接" data-row-copy="link" data-row-id="${escapeHtml(item.rowId || '')}">链</button>
               <a class="icon-btn" title="打开B站" href="${escapeHtml(item.link || '#')}" target="_blank" rel="noreferrer" style="display:grid;place-items:center;text-decoration:none;">开</a>
             </div>
           </article>
@@ -1001,8 +1001,8 @@
       }
     }
 
-    function getRowByBv(bv) {
-      return state.items.find(item => extractBv(item) === bv) || null;
+    function getRowById(rowId) {
+      return state.items.find(item => item.rowId === rowId) || null;
     }
 
     function rowText(item, preset) {
@@ -1147,7 +1147,7 @@
       $('#results').addEventListener('click', event => {
         const btn = event.target.closest('[data-row-copy]');
         if (!btn) return;
-        const item = getRowByBv(btn.dataset.bv);
+        const item = getRowById(btn.dataset.rowId);
         if (item) writeClipboard(rowText(item, btn.dataset.rowCopy));
       });
       $$('[data-copy-preset]').forEach(btn => btn.addEventListener('click', () => copyCurrentPage(btn.dataset.copyPreset)));

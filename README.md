@@ -25,16 +25,16 @@ git status --short
 
 ## 功能说明
 
-- `index.html`：优化版歌库首页，支持可搜索来源、服务端分页、搜索范围切换、复制预设、自定义复制和 H5 响应式布局。
+- `index.html`：优化版歌库首页，支持可搜索来源、服务端分页、搜索范围切换、复制预设、自定义复制、稳定行级复制和 H5 响应式布局。
 - `index-optimized.html`：优化首页的对照文件，与正式首页保持同源，便于后续继续调样式或回看方案。
 - `stats.html`：数据统计页，展示来源、歌手、曲目、投稿时间等统计视图。
-- `bv-dup-check.html`：BV 批量查重。
-- `title-artist-dup-check.html`：按“歌名 - 歌手”批量查重。
-- `title-artist-check.html`：命名和校验工具，支持未命中项改名重查和搜索辅助。
-- `song-growth.html`：歌曲总量日报和增长趋势。
+- `bv-dup-check.html`：BV 批量查重，支持服务端 live fallback 上限、分组摘要和复制预设。
+- `title-artist-dup-check.html`：按“歌名 - 歌手”批量查重，支持歌手疑似不一致分组和复制预设。
+- `title-artist-check.html`：命名和校验工具，支持未命中项改名重查、搜索辅助和服务端候选摘要。
+- `song-growth.html`：歌曲总量日报和增长趋势，读取服务端缓存后的增长数据。
 - `admin-singer-config.html`：来源配置后台，管理员用 token 维护运行时配置和触发刷新。
-- `tabs-optimization-preview.html`：六个主 tab 的优化方案 HTML 预览，不替换生产页面。
-- `server.js`：统一 Node 服务端，提供静态页面、搜索分页、搜索导出、统计视图、管理刷新和内部 reload。
+- `tabs-optimization-preview.html`：六个主 tab 的优化方案 HTML 预览，会读取 `/api/tabs/overview` 展示真实后端概览，不替换生产页面。
+- `server.js`：统一 Node 服务端，提供静态页面、搜索分页、搜索导出、统计视图、全站 tab 概览、查重/命名摘要、增长缓存、管理刷新和内部 reload。
 
 ## 在线页面
 
@@ -170,6 +170,25 @@ npm run check:library
 - `reports/bv-metadata-cache.json` 和 `reports/update-songs-meta.json` 是运行缓存，不提交。
 - 服务器管理 token、cookie、AI key、`.env` 不写入仓库。
 
+## 后端接口说明
+
+本轮全站 tab 优化新增或强化了这些生产接口：
+
+```text
+GET  /api/search              搜索结果现在包含 rowId、sourceAlias、bvid，行内复制按 rowId 定位
+GET  /api/tabs/overview       六个主 tab 的实时概览，供优化预览页和后续总览页使用
+GET  /api/song-growth         返回 combinedRows、anomalies、cache，并按 SONG_GROWTH_CACHE_TTL_MS 缓存
+POST /api/dup-check           返回 summary、copyPresets、liveFallback，并限制 BV live fallback 数量
+POST /api/title-artist/lookup 返回 summary，统计通过、需确认、未找到和多候选数量
+```
+
+可选环境变量：
+
+```text
+BV_LIVE_FALLBACK_MAX_PER_REQUEST  单次 BV 查重最多实时查询多少个未知 BV，默认 12
+SONG_GROWTH_CACHE_TTL_MS          日报接口缓存时间，默认 60000
+```
+
 ## 测试说明
 
 基础语法检查：
@@ -206,6 +225,14 @@ http://127.0.0.1:8080/stats
 http://127.0.0.1:8080/bv
 http://127.0.0.1:8080/check
 http://127.0.0.1:8080/growth
+```
+
+接口检查：
+
+```powershell
+Invoke-WebRequest -UseBasicParsing http://127.0.0.1:8080/api/tabs/overview
+Invoke-WebRequest -UseBasicParsing http://127.0.0.1:8080/api/song-growth
+Invoke-WebRequest -UseBasicParsing "http://127.0.0.1:8080/api/search?page=1&pageSize=1"
 ```
 
 公网部署后检查：

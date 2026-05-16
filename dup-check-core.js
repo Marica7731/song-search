@@ -37,6 +37,16 @@ function encodeCopyValue(value) {
   return encodeURIComponent(value == null ? '' : String(value));
 }
 
+function escapeHtml(value) {
+  return String(value ?? '').replace(/[&<>"']/g, ch => ({
+    '&': '&amp;',
+    '<': '&lt;',
+    '>': '&gt;',
+    '"': '&quot;',
+    "'": '&#39;'
+  }[ch]));
+}
+
 function getSourceAlias(source) {
   if (!source) return '未知来源';
   const key = source.replace('.js', '');
@@ -152,6 +162,7 @@ function getResultStatusText(item) {
   if (!item) return '';
   if (item.isNotFound) return '未找到';
   if (currentMode === 'titleArtist') {
+    if (item.isArtistMismatch) return `歌手疑似不一致（${item.dupCount || 0}）`;
     return item.isFirst ? '首次' : `已收录（${item.dupCount || 0}）`;
   }
   return item.isDup ? `重复（${item.dupCount || 0}）` : '唯一';
@@ -727,7 +738,7 @@ function renderSongList() {
 
     if (item.isNotFound) {
       card.innerHTML = `
-        <div class="song-title">${index + 1}. ${item.originalInput || '未识别输入'} <span class="not-found-tag">未找到</span></div>
+        <div class="song-title">${index + 1}. ${escapeHtml(item.originalInput || '未识别输入')} <span class="not-found-tag">未找到</span></div>
         <div class="meta-info">请尝试切换来源或修正输入格式。</div>
       `;
       container.appendChild(card);
@@ -737,11 +748,18 @@ function renderSongList() {
     const song = item.song;
     const dupPreview = item.dupList
       .slice(0, 5)
-      .map(dup => `<div class="dup-item"><span class="bv-tag">${extractBV(dup.link)}</span><span class="copyable" data-copy="${encodeCopyValue(dup.title || '')}">${dup.title}</span> - <span class="copyable" data-copy="${encodeCopyValue(dup.artist || '')}">${dup.artist || '未知'}</span> | <span class="copyable" data-copy="${encodeCopyValue(getSourceAlias(dup.source))}">${getSourceAlias(dup.source)}</span></div>`)
+      .map(dup => {
+        const dupTitle = dup.title || '';
+        const dupArtist = dup.artist || '未知';
+        const dupSource = getSourceAlias(dup.source);
+        return `<div class="dup-item"><span class="bv-tag">${escapeHtml(extractBV(dup.link))}</span><span class="copyable" data-copy="${encodeCopyValue(dupTitle)}">${escapeHtml(dupTitle)}</span> - <span class="copyable" data-copy="${encodeCopyValue(dupArtist)}">${escapeHtml(dupArtist)}</span> | <span class="copyable" data-copy="${encodeCopyValue(dupSource)}">${escapeHtml(dupSource)}</span></div>`;
+      })
       .join('');
 
     const statusTag = currentMode === 'titleArtist'
-      ? (item.isFirst
+      ? (item.isArtistMismatch
+        ? `<span class="dup-tag">歌手疑似不一致 ${item.dupCount}</span>`
+        : item.isFirst
         ? '<span class="unique-tag">首次</span>'
         : `<span class="dup-tag">重复 ${item.dupCount}</span>`)
       : (item.isDup
@@ -750,13 +768,13 @@ function renderSongList() {
 
     card.innerHTML = `
       <div class="song-title">
-        ${index + 1}. <span class="copyable" data-copy="${encodeCopyValue(song.title || '')}">${song.title}</span>
+        ${index + 1}. <span class="copyable" data-copy="${encodeCopyValue(song.title || '')}">${escapeHtml(song.title || '')}</span>
         ${statusTag}
       </div>
       <div class="meta-info">
-        <div>歌手：<span class="copyable" data-copy="${encodeCopyValue(song.artist || '')}">${song.artist || '未知'}</span></div>
-        <div>来源：<span class="copyable" data-copy="${encodeCopyValue(song.source ? getSourceAlias(song.source) : '输入值（库内首次）')}">${song.source ? getSourceAlias(song.source) : '输入值（库内首次）'}</span>${currentMode === 'bv' && song.source ? ` <button type="button" class="jump-tab-btn" data-source="${song.source}" style="margin-left:8px;padding:2px 8px;border:1px solid #00a1d6;border-radius:12px;background:#fff;color:#00a1d6;font-size:12px;cursor:pointer;">跳转来源</button>` : ''}</div>
-        <div>链接：${song.link ? `<a href="${song.link}" target="_blank" style="color:#00a1d6;">${song.link}</a>` : '-'}</div>
+        <div>歌手：<span class="copyable" data-copy="${encodeCopyValue(song.artist || '')}">${escapeHtml(song.artist || '未知')}</span></div>
+        <div>来源：<span class="copyable" data-copy="${encodeCopyValue(song.source ? getSourceAlias(song.source) : '输入值（库内首次）')}">${escapeHtml(song.source ? getSourceAlias(song.source) : '输入值（库内首次）')}</span>${currentMode === 'bv' && song.source ? ` <button type="button" class="jump-tab-btn" data-source="${escapeHtml(song.source)}" style="margin-left:8px;padding:2px 8px;border:1px solid #00a1d6;border-radius:12px;background:#fff;color:#00a1d6;font-size:12px;cursor:pointer;">跳转来源</button>` : ''}</div>
+        <div>链接：${song.link ? `<a href="${escapeHtml(song.link)}" target="_blank" rel="noreferrer" style="color:#00a1d6;">${escapeHtml(song.link)}</a>` : '-'}</div>
       </div>
       <div class="dup-list">${dupPreview || '<div style="color:#28a745;">当前库未收录，记为首次</div>'}</div>
     `;
@@ -832,6 +850,43 @@ function copyResults() {
     .catch(() => alert('复制失败，请手动复制'));
 }
 
+function setChecked(id, checked) {
+  const el = document.getElementById(id);
+  if (el) el.checked = !!checked;
+}
+
+function applyCopyPreset(preset) {
+  const normalized = String(preset || '').trim();
+  setChecked('copyOriginal', false);
+  setChecked('copyTitle', true);
+  setChecked('copyArtist', true);
+  setChecked('copySource', false);
+  setChecked('copyLink', false);
+  setChecked('copyBvid', false);
+  setChecked('copyDupCount', false);
+  setChecked('copyStatus', false);
+  setChecked('copyText', true);
+  setChecked('copyTable', false);
+
+  const separator = document.getElementById('copySeparator');
+  if (separator) separator.value = ' - ';
+
+  if (normalized === 'titleArtistLink') {
+    setChecked('copyLink', true);
+    if (separator) separator.value = ' ';
+  } else if (normalized === 'tsv') {
+    setChecked('copyStatus', true);
+    setChecked('copySource', true);
+    setChecked('copyLink', true);
+    setChecked('copyBvid', true);
+    setChecked('copyText', false);
+    setChecked('copyTable', true);
+    if (separator) separator.value = '\\t';
+  }
+
+  copyResults();
+}
+
 async function copyResultsWithAi() {
   if (analysisResult.length === 0) {
     alert('暂无可复制结果');
@@ -892,6 +947,9 @@ function initDupCheckPage(mode) {
   document.getElementById('copyBtn')?.addEventListener('click', copyResults);
   document.getElementById('copyAiBtn')?.addEventListener('click', copyResultsWithAi);
   document.getElementById('copyOnlyUnique')?.addEventListener('change', syncAiCopyButtonState);
+  document.querySelectorAll('[data-copy-preset]').forEach(button => {
+    button.addEventListener('click', () => applyCopyPreset(button.getAttribute('data-copy-preset')));
+  });
 
   document.getElementById('bvInput')?.addEventListener('keydown', e => {
     if (e.key === 'Enter' && currentMode === 'bv') search();

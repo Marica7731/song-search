@@ -802,7 +802,7 @@
             <button class="chip" data-tab="naming">命名</button>
             <button class="chip" data-tab="growth">日报</button>
           </div>
-          <span class="badge blue">HTML mock / 不替换生产页</span>
+          <span class="badge blue" id="overviewModeBadge">实时后端预览 / 不替换生产页</span>
         </div>
       </header>
 
@@ -819,10 +819,10 @@
                 <span class="badge red">P1 修复</span>
               </div>
               <div class="metrics">
-                <div class="metric"><div class="metric-label">总曲目</div><div class="metric-value">23,365</div></div>
-                <div class="metric"><div class="metric-label">来源</div><div class="metric-value">34</div></div>
-                <div class="metric"><div class="metric-label">当前页</div><div class="metric-value">40</div></div>
-                <div class="metric"><div class="metric-label">导出</div><div class="metric-value">TSV</div></div>
+                <div class="metric"><div class="metric-label">总曲目</div><div class="metric-value" id="homeTotalSongs">-</div></div>
+                <div class="metric"><div class="metric-label">来源</div><div class="metric-value" id="homeSourceCount">-</div></div>
+                <div class="metric"><div class="metric-label">当前页</div><div class="metric-value" id="homePageSize">40</div></div>
+                <div class="metric"><div class="metric-label">导出</div><div class="metric-value" id="homeExportFormat">TSV</div></div>
               </div>
               <div class="copy-strip">
                 <button class="btn">复制本页：歌名 - 歌手</button>
@@ -1056,10 +1056,10 @@ KING - Kanaria</textarea>
                 <span class="badge blue">P3 体验</span>
               </div>
               <div class="metrics">
-                <div class="metric"><div class="metric-label">最新总曲数</div><div class="metric-value">23,365</div></div>
-                <div class="metric"><div class="metric-label">最新日增</div><div class="metric-value">+214</div></div>
-                <div class="metric"><div class="metric-label">接口耗时</div><div class="metric-value">~1s</div></div>
-                <div class="metric"><div class="metric-label">目标</div><div class="metric-value">&lt;50ms</div></div>
+                <div class="metric"><div class="metric-label">最新总曲数</div><div class="metric-value" id="growthSongTotal">-</div></div>
+                <div class="metric"><div class="metric-label">最新日增</div><div class="metric-value" id="growthSongDelta">-</div></div>
+                <div class="metric"><div class="metric-label">接口缓存</div><div class="metric-value" id="growthCacheState">-</div></div>
+                <div class="metric"><div class="metric-label">异常日</div><div class="metric-value" id="growthAnomalyCount">-</div></div>
               </div>
               <div class="chart" aria-label="增长趋势预览">
                 <div class="bar soft" style="height:44%"><span>03-21</span></div>
@@ -1079,7 +1079,7 @@ KING - Kanaria</textarea>
               <div class="panel-head"><h2>H5 形态</h2><span class="badge green">响应式</span></div>
               <div class="mobile-frame">
                 <div class="mobile-screen">
-                  <div class="mobile-block"><div class="mobile-title">日报总览</div><div class="mobile-meta">最新总曲数 23,365 / 日增 +214</div></div>
+                  <div class="mobile-block"><div class="mobile-title">日报总览</div><div class="mobile-meta" id="growthMobileSummary">最新总曲数 - / 日增 -</div></div>
                   <div class="mobile-block"><div class="mobile-title">趋势图</div><div class="mobile-meta">默认显示 14 天，左右滑动看更早日期</div></div>
                   <div class="mobile-block"><div class="mobile-title">异常日</div><div class="mobile-meta">03-28 高于均值，建议检查新增来源</div></div>
                 </div>
@@ -1111,6 +1111,42 @@ KING - Kanaria</textarea>
     tabs.forEach(tab => {
       tab.addEventListener('click', () => activateTab(tab.dataset.tab));
     });
+
+    const numberFmt = new Intl.NumberFormat('zh-CN');
+    const setText = (selector, value) => {
+      const el = document.querySelector(selector);
+      if (el) el.textContent = value;
+    };
+    const fmtNumber = value => numberFmt.format(Number(value || 0));
+    const fmtDelta = value => {
+      const num = Number(value || 0);
+      return `${num > 0 ? '+' : ''}${fmtNumber(num)}`;
+    };
+
+    async function loadBackendOverview() {
+      try {
+        const response = await fetch('/api/tabs/overview', { cache: 'no-store' });
+        if (!response.ok) throw new Error(`overview ${response.status}`);
+        const payload = await response.json();
+        const home = payload?.tabs?.home || {};
+        const growth = payload?.tabs?.growth || {};
+        const latest = growth.latest?.combined || growth.latest?.publish || {};
+        setText('#homeTotalSongs', fmtNumber(home.metrics?.totalSongs));
+        setText('#homeSourceCount', fmtNumber(home.metrics?.sourceCount));
+        setText('#homePageSize', fmtNumber(home.metrics?.defaultPageSize || 40));
+        setText('#homeExportFormat', (home.metrics?.exportFormats || ['tsv']).join(' / ').toUpperCase());
+        setText('#growthSongTotal', fmtNumber(latest.songTotal || latest.total));
+        setText('#growthSongDelta', fmtDelta(latest.songDelta || latest.delta));
+        setText('#growthCacheState', growth.cache?.hit ? '命中' : '生成');
+        setText('#growthAnomalyCount', fmtNumber((growth.anomalies || []).length));
+        setText('#growthMobileSummary', `最新总曲数 ${fmtNumber(latest.songTotal || latest.total)} / 日增 ${fmtDelta(latest.songDelta || latest.delta)}`);
+        setText('#overviewModeBadge', `实时后端预览 / ${payload.generatedAtShanghai || '已连接'}`);
+      } catch (error) {
+        setText('#overviewModeBadge', `后端预览加载失败 / ${error.message}`);
+      }
+    }
+
+    loadBackendOverview();
   </script>
 </body>
 </html>
