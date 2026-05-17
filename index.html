@@ -380,6 +380,10 @@
       margin-top: 4px;
     }
 
+    .mobile-card-meta {
+      display: none;
+    }
+
     .row-actions {
       display: flex;
       gap: 6px;
@@ -597,6 +601,181 @@
       display: none;
     }
 
+    .mobile-brandbar,
+    .mobile-filter-chips,
+    .mobile-data-summary,
+    .mobile-copy-open,
+    .mobile-sheet-backdrop,
+    .action-label {
+      display: none;
+    }
+
+    .result-actions {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      justify-content: flex-end;
+    }
+
+    .mobile-sheet-backdrop {
+      position: fixed;
+      inset: 0;
+      z-index: 120;
+      background: rgba(15, 23, 42, 0.42);
+    }
+
+    .mobile-sheet-backdrop.open {
+      display: block;
+    }
+
+    .mobile-sheet {
+      position: fixed;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      z-index: 130;
+      display: none;
+      max-height: min(78vh, 680px);
+      overflow: hidden;
+      border-radius: 16px 16px 0 0;
+      background: #fff;
+      box-shadow: 0 -18px 48px rgba(15, 23, 42, 0.22);
+    }
+
+    .mobile-sheet.open {
+      display: grid;
+      grid-template-rows: auto minmax(0, 1fr);
+    }
+
+    .mobile-sheet-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 14px 16px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .mobile-sheet-title {
+      font-weight: 800;
+      font-size: 16px;
+    }
+
+    .mobile-sheet-close {
+      width: 36px;
+      height: 36px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fff;
+      color: #334155;
+      font-weight: 800;
+    }
+
+    .mobile-sheet-body {
+      min-height: 0;
+      overflow: auto;
+      padding: 14px 16px 18px;
+    }
+
+    .mobile-sheet-section {
+      display: grid;
+      gap: 8px;
+      margin-bottom: 16px;
+    }
+
+    .mobile-sheet-section:last-child {
+      margin-bottom: 0;
+    }
+
+    .mobile-sheet-label {
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 800;
+    }
+
+    .mobile-option-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 8px;
+    }
+
+    .mobile-option-grid.two {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .mobile-option-grid.auto {
+      grid-template-columns: repeat(auto-fit, minmax(92px, 1fr));
+    }
+
+    .mobile-option {
+      min-height: 38px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fff;
+      color: #334155;
+      font-weight: 700;
+    }
+
+    .mobile-option.active {
+      border-color: #99d5cd;
+      background: var(--primary-soft);
+      color: var(--primary);
+    }
+
+    .mobile-source-options {
+      display: grid;
+      gap: 6px;
+      max-height: 260px;
+      overflow: auto;
+    }
+
+    .mobile-source-option {
+      min-height: 40px;
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 8px;
+      align-items: center;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fff;
+      padding: 0 10px;
+      color: #334155;
+      text-align: left;
+    }
+
+    .mobile-source-option.active {
+      border-color: #99d5cd;
+      background: var(--primary-soft);
+      color: var(--primary);
+      font-weight: 800;
+    }
+
+    .mobile-source-option span:first-child {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .mobile-copy-list {
+      display: grid;
+      gap: 8px;
+    }
+
+    .mobile-copy-list .btn {
+      justify-content: flex-start;
+      width: 100%;
+      height: 42px;
+      padding: 0 12px;
+    }
+
+    .mobile-custom-copy {
+      display: grid;
+      gap: 10px;
+      margin-top: 14px;
+      padding-top: 14px;
+      border-top: 1px solid #eef2f6;
+    }
+
     @media (max-width: 980px) {
       .app-shell {
         grid-template-columns: 1fr;
@@ -611,7 +790,7 @@
       }
 
       .topbar {
-        padding: 12px;
+        padding: 10px 12px;
       }
 
       .search-grid {
@@ -636,6 +815,252 @@
       }
     }
 
+    @media (max-width: 700px) {
+      .mobile-brandbar {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+        margin-bottom: 8px;
+      }
+
+      .mobile-brand-name {
+        font-size: 18px;
+        font-weight: 800;
+      }
+
+      .mobile-brand-page {
+        color: var(--muted);
+        font-size: 12px;
+        font-weight: 700;
+      }
+
+      .mobile-page-btn {
+        width: auto;
+        height: 34px;
+        padding: 0 12px;
+      }
+
+      .topbar {
+        position: sticky;
+        padding: 10px 12px 8px;
+      }
+
+      .search-grid {
+        width: 100%;
+        max-width: none;
+        grid-template-columns: minmax(0, 1fr) 76px;
+        gap: 8px;
+      }
+
+      .search-input,
+      .btn.primary {
+        height: 40px;
+      }
+
+      #sort {
+        display: none;
+      }
+
+      .toolbar {
+        display: none;
+      }
+
+      .mobile-filter-chips {
+        display: flex;
+        gap: 6px;
+        overflow-x: auto;
+        margin-top: 8px;
+        padding-bottom: 1px;
+        scrollbar-width: none;
+      }
+
+      .mobile-filter-chips::-webkit-scrollbar {
+        display: none;
+      }
+
+      .mobile-filter-chip {
+        flex: 0 0 auto;
+        min-height: 32px;
+        max-width: 180px;
+        padding: 5px 9px;
+        border: 1px solid var(--line);
+        border-radius: 999px;
+        background: #fff;
+        color: #334155;
+        font-weight: 700;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+
+      .mobile-filter-chip.primary {
+        border-color: #99d5cd;
+        background: var(--primary-soft);
+        color: var(--primary);
+      }
+
+      .content {
+        padding: 10px 12px 24px;
+      }
+
+      .metrics {
+        display: none;
+      }
+
+      .mobile-data-summary {
+        display: block;
+        margin: 0 0 8px;
+        color: #475569;
+        font-size: 13px;
+        line-height: 1.45;
+      }
+
+      .copy-panel {
+        display: none;
+      }
+
+      .results-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 8px;
+        margin: 8px 0;
+      }
+
+      .result-actions {
+        flex: 0 0 auto;
+      }
+
+      #refreshBtn {
+        display: none;
+      }
+
+      .mobile-copy-open {
+        display: inline-flex;
+        width: auto;
+        height: 36px;
+        padding: 0 12px;
+      }
+
+      .status {
+        min-width: 0;
+        font-size: 13px;
+        line-height: 1.35;
+      }
+
+      .result-list {
+        gap: 8px;
+      }
+
+      .song-row {
+        grid-template-columns: minmax(0, 1fr);
+        gap: 4px;
+        padding: 10px 10px 9px;
+      }
+
+      .song-row > div:first-child {
+        min-width: 0;
+      }
+
+      .song-title {
+        font-size: 15px;
+        line-height: 1.3;
+      }
+
+      .song-row .meta {
+        display: none;
+      }
+
+      .mobile-card-meta {
+        display: block;
+        margin-top: 2px;
+        color: var(--muted);
+        font-size: 12px;
+        line-height: 1.35;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+
+      .song-artist {
+        font-size: 13px;
+        line-height: 1.35;
+        color: #334155;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+
+      .song-collection {
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        color: #475569;
+        font-size: 12px;
+        line-height: 1.35;
+      }
+
+      .song-source {
+        display: none;
+      }
+
+      .row-actions {
+        justify-content: flex-start;
+        gap: 5px;
+        margin-top: 2px;
+      }
+
+      .icon-btn {
+        width: auto;
+        height: 26px;
+        padding: 0 7px;
+        gap: 4px;
+        font-size: 11px;
+        font-weight: 700;
+      }
+
+      .icon-btn svg {
+        width: 13px;
+        height: 13px;
+      }
+
+      .action-label {
+        display: inline;
+      }
+
+      .song-row .field-copy {
+        display: inline;
+        min-height: 0;
+        padding: 0;
+        margin: 0;
+        border-radius: 3px;
+      }
+
+      .song-artist .field-copy,
+      .song-collection .field-copy {
+        display: block;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+
+      .pagination {
+        margin-top: 12px;
+      }
+
+      .pagination .btn {
+        flex: 1 1 0;
+        min-width: 0;
+      }
+
+      .page-label {
+        flex: 0 0 100%;
+        order: -1;
+      }
+    }
+
     @media (max-width: 560px) {
       .metrics {
         grid-template-columns: 1fr;
@@ -644,7 +1069,6 @@
       .toolbar,
       .results-header {
         align-items: stretch;
-        flex-direction: column;
       }
 
       .topbar {
@@ -652,21 +1076,23 @@
         max-width: 100vw;
       }
 
-      .search-grid,
       .toolbar,
       .mobile-source,
       .chip-row,
       .segmented,
-      .copy-toolbar,
-      .results-header {
+      .copy-toolbar {
         width: min(100%, 366px);
         max-width: min(calc(100vw - 24px), 366px);
       }
 
       .btn,
-      .select,
-      .search-input {
+      .select {
         width: 100%;
+      }
+
+      .mobile-page-btn,
+      .mobile-copy-open {
+        width: auto;
       }
 
       .chip-row,
@@ -715,7 +1141,7 @@
       }
 
       .field-copy {
-        min-height: 32px;
+        min-height: 0;
       }
 
       .toast {
@@ -747,6 +1173,13 @@
 
     <main class="main">
       <header class="topbar">
+        <div class="mobile-brandbar">
+          <div>
+            <div class="mobile-brand-name">culua.com</div>
+            <div class="mobile-brand-page">歌曲检索</div>
+          </div>
+          <button id="mobilePageOpen" class="btn mobile-page-btn" type="button">页面</button>
+        </div>
         <div class="search-grid">
           <input id="q" class="search-input" type="search" placeholder='输入歌名、歌手、BV、合集；支持 "精确" AND OR' autocomplete="off">
           <select id="sort" class="select" aria-label="排序">
@@ -755,6 +1188,12 @@
             <option value="original">原始顺序</option>
           </select>
           <button id="searchBtn" class="btn primary">搜索</button>
+        </div>
+        <div class="mobile-filter-chips" aria-label="移动端筛选">
+          <button id="mobileSourceChip" class="mobile-filter-chip primary" type="button" data-open-sheet="filterSheet">全部来源</button>
+          <button id="mobileSortChip" class="mobile-filter-chip" type="button" data-open-sheet="filterSheet">新到旧</button>
+          <button id="mobileFieldsChip" class="mobile-filter-chip" type="button" data-open-sheet="filterSheet">歌名/歌手</button>
+          <button id="mobilePageSizeChip" class="mobile-filter-chip" type="button" data-open-sheet="filterSheet">40 条</button>
         </div>
         <div class="toolbar">
           <select id="sourceMobile" class="select mobile-source" aria-label="来源"></select>
@@ -775,6 +1214,7 @@
       </header>
 
       <section class="content">
+        <div id="mobileDataSummary" class="mobile-data-summary">正在加载曲库...</div>
         <div class="metrics">
           <div class="metric">
             <div class="metric-label">总曲目</div>
@@ -826,7 +1266,10 @@
 
         <div class="results-header">
           <div id="status" class="status">正在初始化...</div>
-          <button id="refreshBtn" class="btn">刷新当前查询</button>
+          <div class="result-actions">
+            <button id="mobileCopyOpen" class="btn mobile-copy-open" type="button">复制</button>
+            <button id="refreshBtn" class="btn" type="button">刷新当前查询</button>
+          </div>
         </div>
 
         <div id="results" class="result-list"></div>
@@ -836,6 +1279,97 @@
   </div>
 
   <div id="toast" class="toast"></div>
+  <div id="mobileSheetBackdrop" class="mobile-sheet-backdrop"></div>
+
+  <section id="pageSheet" class="mobile-sheet" aria-hidden="true" aria-label="页面导航">
+    <div class="mobile-sheet-head">
+      <div class="mobile-sheet-title">页面</div>
+      <button class="mobile-sheet-close" type="button" data-close-sheet>×</button>
+    </div>
+    <div class="mobile-sheet-body">
+      <div class="mobile-copy-list">
+        <a class="btn primary" href="/">检索首页</a>
+        <a class="btn" href="/stats">统计排行</a>
+        <a class="btn" href="/bv">BV 查重</a>
+        <a class="btn" href="/dup">歌名查重</a>
+        <a class="btn" href="/check">命名校验</a>
+        <a class="btn" href="/growth">增长日报</a>
+      </div>
+    </div>
+  </section>
+
+  <section id="filterSheet" class="mobile-sheet" aria-hidden="true" aria-label="筛选">
+    <div class="mobile-sheet-head">
+      <div class="mobile-sheet-title">筛选</div>
+      <button class="mobile-sheet-close" type="button" data-close-sheet>×</button>
+    </div>
+    <div class="mobile-sheet-body">
+      <div class="mobile-sheet-section">
+        <div class="mobile-sheet-label">排序</div>
+        <select id="mobileSortSelect" class="select" aria-label="移动端排序">
+          <option value="pubdate_desc">新到旧</option>
+          <option value="pubdate_asc">旧到新</option>
+          <option value="original">原始顺序</option>
+        </select>
+      </div>
+      <div class="mobile-sheet-section">
+        <div class="mobile-sheet-label">搜索范围</div>
+        <div id="mobileFieldChips" class="mobile-option-grid auto">
+          <button class="mobile-option active" type="button" data-mobile-field="title">歌名</button>
+          <button class="mobile-option active" type="button" data-mobile-field="artist">歌手</button>
+          <button class="mobile-option" type="button" data-mobile-field="collection">合集</button>
+          <button class="mobile-option" type="button" data-mobile-field="source">来源</button>
+          <button class="mobile-option" type="button" data-mobile-field="bvid">BV</button>
+          <button class="mobile-option" type="button" data-mobile-field="pubdate">日期</button>
+        </div>
+      </div>
+      <div class="mobile-sheet-section">
+        <div class="mobile-sheet-label">每页数量</div>
+        <div id="mobilePageSizeOptions" class="mobile-option-grid">
+          <button class="mobile-option" type="button" data-mobile-page-size="20">20</button>
+          <button class="mobile-option active" type="button" data-mobile-page-size="40">40</button>
+          <button class="mobile-option" type="button" data-mobile-page-size="80">80</button>
+        </div>
+      </div>
+      <div class="mobile-sheet-section">
+        <div class="mobile-sheet-label">来源</div>
+        <input id="mobileSourceSearch" class="source-search" type="search" placeholder="搜索来源">
+        <div id="mobileSourceOptions" class="mobile-source-options"></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="copySheet" class="mobile-sheet" aria-hidden="true" aria-label="复制">
+    <div class="mobile-sheet-head">
+      <div class="mobile-sheet-title">复制当前结果</div>
+      <button class="mobile-sheet-close" type="button" data-close-sheet>×</button>
+    </div>
+    <div class="mobile-sheet-body">
+      <div class="mobile-copy-list">
+        <button class="btn primary" type="button" data-mobile-copy="titleArtist">歌名 - 歌手</button>
+        <button class="btn" type="button" data-mobile-copy="titleArtistLink">歌名 - 歌手 + 链接</button>
+        <button class="btn" type="button" data-mobile-copy="tsv">当前结果 TSV</button>
+      </div>
+      <div class="mobile-custom-copy">
+        <div class="mobile-sheet-label">自定义字段</div>
+        <div id="mobileCopyFields" class="mobile-option-grid auto">
+          <button class="mobile-option active" type="button" data-mobile-copy-field="title">歌名</button>
+          <button class="mobile-option active" type="button" data-mobile-copy-field="artist">歌手</button>
+          <button class="mobile-option" type="button" data-mobile-copy-field="collection">合集</button>
+          <button class="mobile-option" type="button" data-mobile-copy-field="source">来源</button>
+          <button class="mobile-option active" type="button" data-mobile-copy-field="link">链接</button>
+          <button class="mobile-option" type="button" data-mobile-copy-field="bvid">BV</button>
+          <button class="mobile-option" type="button" data-mobile-copy-field="pubdate">日期</button>
+        </div>
+        <div class="mobile-option-grid two">
+          <button id="mobileCopyValidOnly" class="mobile-option" type="button" aria-pressed="false">仅有歌手</button>
+          <button id="mobileCopyFormat" class="mobile-option" type="button" data-format="text">纯文本</button>
+        </div>
+        <input id="mobileCopySeparator" class="source-search" type="text" value=" " aria-label="移动端复制分隔符" placeholder="分隔符">
+        <button class="btn primary" type="button" data-mobile-copy="custom">复制自定义字段</button>
+      </div>
+    </div>
+  </section>
 
   <script>
     const API_BASE = location.protocol === 'file:' ? 'https://www.culua.com' : '';
@@ -961,6 +1495,28 @@
       showToast.timer = setTimeout(() => toast.classList.remove('show'), 1600);
     }
 
+    function sortLabel(value = state.sort) {
+      return {
+        pubdate_desc: '新到旧',
+        pubdate_asc: '旧到新',
+        original: '原始顺序'
+      }[value] || '新到旧';
+    }
+
+    function activeFieldsLabel() {
+      const labels = {
+        title: '歌名',
+        artist: '歌手',
+        collection: '合集',
+        source: '来源',
+        bvid: 'BV',
+        pubdate: '日期'
+      };
+      const fields = Array.from(state.fields).map(field => labels[field] || field);
+      if (fields.length <= 2) return fields.join('/');
+      return `${fields.slice(0, 2).join('/')} +${fields.length - 2}`;
+    }
+
     function readJsonStorage(key) {
       try {
         return JSON.parse(localStorage.getItem(key) || 'null') || {};
@@ -979,10 +1535,14 @@
 
     function syncFieldChips() {
       $$('#fieldChips [data-field]').forEach(item => item.classList.toggle('active', state.fields.has(item.dataset.field)));
+      $$('#mobileFieldChips [data-mobile-field]').forEach(item => item.classList.toggle('active', state.fields.has(item.dataset.mobileField)));
+      renderMobileControls();
     }
 
     function syncPageSizeSegments() {
       $$('.segment').forEach(btn => btn.classList.toggle('active', Number(btn.dataset.pageSize) === state.pageSize));
+      $$('[data-mobile-page-size]').forEach(btn => btn.classList.toggle('active', Number(btn.dataset.mobilePageSize) === state.pageSize));
+      renderMobileControls();
     }
 
     function saveHomeFilters() {
@@ -1052,6 +1612,29 @@
       if (customCopy && toggle && saved.customOpen) {
         setCustomCopyOpen(true, { persist: false });
       }
+      syncMobileCopyFromDesktop();
+    }
+
+    function syncMobileCopyFromDesktop() {
+      const desktopFields = new Set($$('[data-copy-field]').filter(input => input.checked).map(input => input.dataset.copyField));
+      $$('[data-mobile-copy-field]').forEach(btn => {
+        btn.classList.toggle('active', desktopFields.has(btn.dataset.mobileCopyField));
+      });
+      const valid = !!$('[data-copy-valid]')?.checked;
+      const validBtn = $('#mobileCopyValidOnly');
+      if (validBtn) {
+        validBtn.classList.toggle('active', valid);
+        validBtn.setAttribute('aria-pressed', valid ? 'true' : 'false');
+      }
+      const format = getCopyFormat();
+      const formatBtn = $('#mobileCopyFormat');
+      if (formatBtn) {
+        formatBtn.dataset.format = format;
+        formatBtn.textContent = format === 'tsv' ? 'TSV' : '纯文本';
+        formatBtn.classList.toggle('active', format === 'tsv');
+      }
+      const mobileSeparator = $('#mobileCopySeparator');
+      if (mobileSeparator) mobileSeparator.value = getCopySeparator();
     }
 
     function buildSourceOptions(filter = '') {
@@ -1066,6 +1649,7 @@
     function renderSources(filter = '') {
       const list = $('#sourceList');
       const mobile = $('#sourceMobile');
+      const mobileOptions = $('#mobileSourceOptions');
       const entries = buildSourceOptions(filter);
       list.innerHTML = entries.map(file => `
         <button class="source-item ${state.source === file ? 'active' : ''}" data-source="${escapeHtml(file)}">
@@ -1077,6 +1661,15 @@
         <option value="${escapeHtml(file)}">${escapeHtml(sourceName(file))} (${formatNumber(sourceCount(file))})</option>
       `).join('');
       mobile.value = state.source;
+      if (mobileOptions) {
+        mobileOptions.innerHTML = entries.map(file => `
+          <button class="mobile-source-option ${state.source === file ? 'active' : ''}" type="button" data-mobile-source="${escapeHtml(file)}">
+            <span>${escapeHtml(sourceName(file))}</span>
+            <span class="source-count">${formatNumber(sourceCount(file))}</span>
+          </button>
+        `).join('');
+      }
+      renderMobileControls();
     }
 
     function renderMetrics() {
@@ -1085,6 +1678,30 @@
       $('#metricSource').textContent = sourceName(state.source);
       $('#metricResult').textContent = formatNumber(state.total || 0);
       $('#metricUnique').textContent = formatNumber(summary.searchUnique || summary.filteredBySourceUnique || 0);
+      renderMobileSummary();
+      renderMobileControls();
+    }
+
+    function renderMobileSummary() {
+      const summary = state.summary || {};
+      const total = formatNumber(summary.filteredBySourceCount || summary.totalSongs || state.total || 0);
+      const unique = formatNumber(summary.searchUnique || summary.filteredBySourceUnique || 0);
+      const result = state.total ? ` · 匹配 ${formatNumber(state.total)}` : '';
+      const el = $('#mobileDataSummary');
+      if (el) el.textContent = `${sourceName(state.source)} · ${total} 条 · 去重 ${unique}${result}`;
+    }
+
+    function renderMobileControls() {
+      const sourceChip = $('#mobileSourceChip');
+      const sortChip = $('#mobileSortChip');
+      const fieldsChip = $('#mobileFieldsChip');
+      const pageChip = $('#mobilePageSizeChip');
+      const sortSelect = $('#mobileSortSelect');
+      if (sourceChip) sourceChip.textContent = sourceName(state.source);
+      if (sortChip) sortChip.textContent = sortLabel();
+      if (fieldsChip) fieldsChip.textContent = activeFieldsLabel();
+      if (pageChip) pageChip.textContent = `${state.pageSize} 条`;
+      if (sortSelect) sortSelect.value = state.sort;
     }
 
     function renderResults() {
@@ -1102,19 +1719,21 @@
           copyableField(bv, 'BV号', 'meta-copy'),
           date ? `<span class="meta-separator">·</span> ${copyableField(date, '发布日期', 'meta-copy')}` : ''
         ].filter(Boolean).join(' ');
+        const mobileMetaParts = [src, date, bv].filter(Boolean).join(' · ');
         return `
           <article class="song-row">
             <div>
               <div class="song-title">${copyableField(item.title || '未知歌曲', '歌名', 'song-title-copy')}</div>
               <div class="meta">${metaParts}</div>
+              <div class="mobile-card-meta">${escapeHtml(mobileMetaParts)}</div>
             </div>
             <div class="song-artist">${copyableField(artist, '歌手')}</div>
             <div class="song-collection">${copyableField(item.collection || '未知合集', '合集')}</div>
             <div class="song-source">${copyableField(src, '来源')}</div>
             <div class="row-actions">
-              <button class="icon-btn" type="button" title="复制歌名歌手" aria-label="复制歌名歌手" data-row-copy="titleArtist" data-row-id="${escapeHtml(item.rowId || '')}">${iconSvg('copy')}</button>
-              <button class="icon-btn" type="button" title="复制链接" aria-label="复制链接" data-row-copy="link" data-row-id="${escapeHtml(item.rowId || '')}">${iconSvg('link')}</button>
-              <a class="icon-btn" title="打开B站" aria-label="打开B站" href="${escapeHtml(item.link || '#')}" target="_blank" rel="noreferrer">${iconSvg('external')}</a>
+              <button class="icon-btn" type="button" title="复制歌名歌手" aria-label="复制歌名歌手" data-row-copy="titleArtist" data-row-id="${escapeHtml(item.rowId || '')}">${iconSvg('copy')}<span class="action-label">复制</span></button>
+              <button class="icon-btn" type="button" title="复制链接" aria-label="复制链接" data-row-copy="link" data-row-id="${escapeHtml(item.rowId || '')}">${iconSvg('link')}<span class="action-label">链接</span></button>
+              <a class="icon-btn" title="打开B站" aria-label="打开B站" href="${escapeHtml(item.link || '#')}" target="_blank" rel="noreferrer">${iconSvg('external')}<span class="action-label">打开</span></a>
             </div>
           </article>
         `;
@@ -1213,6 +1832,7 @@
         renderResults();
         renderPagination();
         setStatus(`已返回 ${formatNumber(state.items.length)} 条，本次匹配 ${formatNumber(state.total)} 条`);
+        renderMobileSummary();
       } catch (error) {
         if (error.name === 'AbortError') return;
         setStatus(`查询失败：${error.message}`, true);
@@ -1328,6 +1948,49 @@
       if (persist) saveCopySettings();
     }
 
+    function openMobileSheet(id) {
+      const backdrop = $('#mobileSheetBackdrop');
+      if (!backdrop) return;
+      $$('.mobile-sheet').forEach(sheet => {
+        const isOpen = sheet.id === id;
+        sheet.classList.toggle('open', isOpen);
+        sheet.setAttribute('aria-hidden', isOpen ? 'false' : 'true');
+      });
+      backdrop.classList.add('open');
+      document.body.style.overflow = 'hidden';
+      if (id === 'filterSheet') {
+        renderSources($('#mobileSourceSearch')?.value || '');
+        renderMobileControls();
+      }
+    }
+
+    function closeMobileSheets() {
+      $$('.mobile-sheet').forEach(sheet => {
+        sheet.classList.remove('open');
+        sheet.setAttribute('aria-hidden', 'true');
+      });
+      $('#mobileSheetBackdrop')?.classList.remove('open');
+      document.body.style.overflow = '';
+    }
+
+    function syncDesktopCopyFromMobile() {
+      const fields = new Set($$('[data-mobile-copy-field].active').map(btn => btn.dataset.mobileCopyField));
+      if (!fields.size) fields.add('title');
+      $$('[data-copy-field]').forEach(input => {
+        input.checked = fields.has(input.dataset.copyField);
+      });
+      const valid = $('#mobileCopyValidOnly')?.classList.contains('active');
+      const validInput = $('[data-copy-valid]');
+      if (validInput) validInput.checked = !!valid;
+      const formatInput = $('#copyFormat');
+      const mobileFormat = $('#mobileCopyFormat')?.dataset.format || 'text';
+      if (formatInput) formatInput.value = mobileFormat === 'tsv' ? 'tsv' : 'text';
+      const separatorInput = $('#copySeparator');
+      const mobileSeparator = $('#mobileCopySeparator')?.value ?? ' ';
+      if (separatorInput) separatorInput.value = mobileSeparator || ' ';
+      saveCopySettings();
+    }
+
     async function runSelectedCopyAction() {
       const action = $('#copyAction')?.value || 'titleArtist';
       if (action === 'all') {
@@ -1413,6 +2076,81 @@
       });
       $('#customCopy').addEventListener('change', saveCopySettings);
       $('#copySeparator').addEventListener('input', saveCopySettings);
+      $('#mobilePageOpen')?.addEventListener('click', () => openMobileSheet('pageSheet'));
+      $$('[data-open-sheet]').forEach(btn => btn.addEventListener('click', () => openMobileSheet(btn.dataset.openSheet)));
+      $('#mobileCopyOpen')?.addEventListener('click', () => {
+        syncMobileCopyFromDesktop();
+        openMobileSheet('copySheet');
+      });
+      $('#mobileSheetBackdrop')?.addEventListener('click', closeMobileSheets);
+      $$('[data-close-sheet]').forEach(btn => btn.addEventListener('click', closeMobileSheets));
+      $('#mobileSortSelect')?.addEventListener('change', event => {
+        state.sort = event.target.value;
+        $('#sort').value = state.sort;
+        saveHomeFilters();
+        renderMobileControls();
+        runSearch();
+      });
+      $('#mobileFieldChips')?.addEventListener('click', event => {
+        const btn = event.target.closest('[data-mobile-field]');
+        if (!btn) return;
+        const field = btn.dataset.mobileField;
+        if (state.fields.has(field)) state.fields.delete(field);
+        else state.fields.add(field);
+        if (state.fields.size === 0) state.fields.add('title');
+        syncFieldChips();
+        saveHomeFilters();
+        runSearch();
+      });
+      $('#mobilePageSizeOptions')?.addEventListener('click', event => {
+        const btn = event.target.closest('[data-mobile-page-size]');
+        if (!btn) return;
+        state.pageSize = Number(btn.dataset.mobilePageSize);
+        syncPageSizeSegments();
+        saveHomeFilters();
+        runSearch();
+      });
+      $('#mobileSourceSearch')?.addEventListener('input', event => renderSources(event.target.value));
+      $('#mobileSourceOptions')?.addEventListener('click', event => {
+        const btn = event.target.closest('[data-mobile-source]');
+        if (!btn) return;
+        state.source = btn.dataset.mobileSource;
+        renderSources($('#mobileSourceSearch')?.value || '');
+        saveHomeFilters();
+        runSearch();
+        closeMobileSheets();
+      });
+      $('#mobileCopyFields')?.addEventListener('click', event => {
+        const btn = event.target.closest('[data-mobile-copy-field]');
+        if (!btn) return;
+        btn.classList.toggle('active');
+        if (!$$('[data-mobile-copy-field].active').length) {
+          btn.classList.add('active');
+        }
+      });
+      $('#mobileCopyValidOnly')?.addEventListener('click', event => {
+        const btn = event.currentTarget;
+        const next = !btn.classList.contains('active');
+        btn.classList.toggle('active', next);
+        btn.setAttribute('aria-pressed', next ? 'true' : 'false');
+      });
+      $('#mobileCopyFormat')?.addEventListener('click', event => {
+        const btn = event.currentTarget;
+        const next = btn.dataset.format === 'tsv' ? 'text' : 'tsv';
+        btn.dataset.format = next;
+        btn.textContent = next === 'tsv' ? 'TSV' : '纯文本';
+        btn.classList.toggle('active', next === 'tsv');
+      });
+      $('#copySheet')?.addEventListener('click', event => {
+        const btn = event.target.closest('[data-mobile-copy]');
+        if (!btn) return;
+        const action = btn.dataset.mobileCopy;
+        syncDesktopCopyFromMobile();
+        const job = action === 'all' ? copyAllResults() : copyCurrentPage(action);
+        job.then(closeMobileSheets).catch(error => {
+          setStatus(`复制失败：${error.message}`, true);
+        });
+      });
     }
 
     async function init() {
