@@ -1,6 +1,6 @@
 // すとらてぃあ-Stratia - 歌单数据 (多合集汇总)
 // 来源: BV1KSRXBwE2v
-// 生成时间: 5/17/2026, 6:52:52 PM
+// 生成时间: 5/17/2026, 7:29:40 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -195,6 +195,102 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-16]只听一首也好，要进来听吗？悠闲弹唱🎸🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ELV6aEJa?p=10",
+  "source": "stratia.js"
+},
+    {
+  "title": "オールドファッション",
+  "artist": "back number",
+  "collection": "【歌切】[2026-05-17]想唱抒情歌的心情...💭🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bL5Z6EEpn?p=1",
+  "source": "stratia.js"
+},
+    {
+  "title": "赤いスイートピー",
+  "artist": "松田聖子",
+  "collection": "【歌切】[2026-05-17]想唱抒情歌的心情...💭🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bL5Z6EEpn?p=2",
+  "source": "stratia.js"
+},
+    {
+  "title": "I LOVE YOU",
+  "artist": "尾崎豊",
+  "collection": "【歌切】[2026-05-17]想唱抒情歌的心情...💭🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bL5Z6EEpn?p=3",
+  "source": "stratia.js"
+},
+    {
+  "title": "花瓶の花",
+  "artist": "岩崎ひゅーい",
+  "collection": "【歌切】[2026-05-17]想唱抒情歌的心情...💭🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bL5Z6EEpn?p=4",
+  "source": "stratia.js"
+},
+    {
+  "title": "小夜子",
+  "artist": "ミキト(みきとP)",
+  "collection": "【歌切】[2026-05-17]想唱抒情歌的心情...💭🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bL5Z6EEpn?p=5",
+  "source": "stratia.js"
+},
+    {
+  "title": "きえないで",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【歌切】[2026-05-17]想唱抒情歌的心情...💭🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bL5Z6EEpn?p=6",
+  "source": "stratia.js"
+},
+    {
+  "title": "渡月橋 ～君 想ふ～",
+  "artist": "倉木麻衣",
+  "collection": "【歌切】[2026-05-17]想唱抒情歌的心情...💭🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bL5Z6EEpn?p=7",
+  "source": "stratia.js"
+},
+    {
+  "title": "アカツキの詩",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-05-17]想唱抒情歌的心情...💭🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bL5Z6EEpn?p=8",
+  "source": "stratia.js"
+},
+    {
+  "title": "蓝",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-05-17]想唱抒情歌的心情...💭🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bL5Z6EEpn?p=9",
+  "source": "stratia.js"
+},
+    {
+  "title": "片想い",
+  "artist": "miwa",
+  "collection": "【歌切】[2026-05-17]想唱抒情歌的心情...💭🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bL5Z6EEpn?p=10",
+  "source": "stratia.js"
+},
+    {
+  "title": "陽",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-05-17]想唱抒情歌的心情...💭🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bL5Z6EEpn?p=11",
+  "source": "stratia.js"
+},
+    {
+  "title": "ex ダーリン",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-05-17]想唱抒情歌的心情...💭🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bL5Z6EEpn?p=12",
   "source": "stratia.js"
 }
 );

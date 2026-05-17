@@ -1,6 +1,6 @@
 // からくりんね-KarakuRinne - 歌单数据 (多合集汇总)
 // 来源: BV1sU5S69E8r
-// 生成时间: 5/17/2026, 6:53:20 PM
+// 生成时间: 5/17/2026, 7:29:51 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -246,11 +246,19 @@ window.SONG_DATA.push(
   "source": "karakurinne.js"
 },
     {
+  "title": "ネバーランドより",
+  "artist": "さとう。",
+  "collection": "【歌切】[2026-05-17]边聊天边悠闲地唱歌！过来看看吧！💛 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xH5Z65EZZ?p=7",
+  "source": "karakurinne.js"
+},
+    {
   "title": "スパークル",
   "artist": "RADWIMPS",
   "collection": "【歌切】[2026-05-17]边聊天边悠闲地唱歌！过来看看吧！💛 からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1xH5Z65EZZ?p=7",
+  "link": "https://www.bilibili.com/video/BV1xH5Z65EZZ?p=8",
   "source": "karakurinne.js"
 },
     {
@@ -258,23 +266,7 @@ window.SONG_DATA.push(
   "artist": "Mrs. GREEN APPLE",
   "collection": "【歌切】[2026-05-17]边聊天边悠闲地唱歌！过来看看吧！💛 からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1xH5Z65EZZ?p=8",
-  "source": "karakurinne.js"
-},
-    {
-  "title": "種のうた",
-  "artist": "ストロベリー・フラワー",
-  "collection": "【歌切】[2026-05-17]边聊天边悠闲地唱歌！过来看看吧！💛 からくりんね-KarakuRinne",
-  "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xH5Z65EZZ?p=9",
-  "source": "karakurinne.js"
-},
-    {
-  "title": "ネバーランドより",
-  "artist": "さとう。",
-  "collection": "【歌切】[2026-05-17]边聊天边悠闲地唱歌！过来看看吧！💛 からくりんね-KarakuRinne",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1xH5Z65EZZ?p=10",
   "source": "karakurinne.js"
 },
     {
@@ -282,7 +274,23 @@ window.SONG_DATA.push(
   "artist": "Mrs. GREEN APPLE",
   "collection": "【歌切】[2026-05-17]边聊天边悠闲地唱歌！过来看看吧！💛 からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xH5Z65EZZ?p=10",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "愛のうた",
+  "artist": "ストロベリー・フラワー",
+  "collection": "【歌切】[2026-05-17]边聊天边悠闲地唱歌！过来看看吧！💛 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xH5Z65EZZ?p=11",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "種のうた",
+  "artist": "ストロベリー・フラワー",
+  "collection": "【歌切】[2026-05-17]边聊天边悠闲地唱歌！过来看看吧！💛 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xH5Z65EZZ?p=12",
   "source": "karakurinne.js"
 }
 );
