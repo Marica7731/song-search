@@ -1,6 +1,6 @@
 // からくりんね-KarakuRinne - 歌单数据 (多合集汇总)
 // 来源: BV1sU5S69E8r
-// 生成时间: 5/17/2026, 6:11:31 PM
+// 生成时间: 5/17/2026, 6:53:20 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -195,6 +195,94 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-05-12 からくりんね-KarakuRinne MeOMbVTKsjg 昨天太开心了所以今天也要唱！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sU5S69E8r?p=5",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "部屋",
+  "artist": "シャイトープ",
+  "collection": "【歌切】[2026-05-17]边聊天边悠闲地唱歌！过来看看吧！💛 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xH5Z65EZZ?p=1",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "自由への扉",
+  "artist": "小此木麻里",
+  "collection": "【歌切】[2026-05-17]边聊天边悠闲地唱歌！过来看看吧！💛 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xH5Z65EZZ?p=2",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "貴方の恋人になりたいのです",
+  "artist": "阿部真央",
+  "collection": "【歌切】[2026-05-17]边聊天边悠闲地唱歌！过来看看吧！💛 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xH5Z65EZZ?p=3",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "115万キロのフィルム",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-05-17]边聊天边悠闲地唱歌！过来看看吧！💛 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xH5Z65EZZ?p=4",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "言葉のいらない約束",
+  "artist": "sana",
+  "collection": "【歌切】[2026-05-17]边聊天边悠闲地唱歌！过来看看吧！💛 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xH5Z65EZZ?p=5",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ステージ",
+  "artist": "さとう。",
+  "collection": "【歌切】[2026-05-17]边聊天边悠闲地唱歌！过来看看吧！💛 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xH5Z65EZZ?p=6",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "スパークル",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-05-17]边聊天边悠闲地唱歌！过来看看吧！💛 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xH5Z65EZZ?p=7",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "クダリ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-05-17]边聊天边悠闲地唱歌！过来看看吧！💛 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xH5Z65EZZ?p=8",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "種のうた",
+  "artist": "ストロベリー・フラワー",
+  "collection": "【歌切】[2026-05-17]边聊天边悠闲地唱歌！过来看看吧！💛 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xH5Z65EZZ?p=9",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ネバーランドより",
+  "artist": "さとう。",
+  "collection": "【歌切】[2026-05-17]边聊天边悠闲地唱歌！过来看看吧！💛 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xH5Z65EZZ?p=10",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "天国",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-05-17]边聊天边悠闲地唱歌！过来看看吧！💛 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xH5Z65EZZ?p=11",
   "source": "karakurinne.js"
 }
 );
