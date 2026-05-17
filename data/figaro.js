@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 5/17/2026, 9:14:40 PM
+// 生成时间: 5/17/2026, 9:51:20 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -30867,6 +30867,126 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-05-15]终于平静下来了，所以想唱歌！ Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1So5q6fEi8?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "灰色と青",
+  "artist": "米津玄師 & 菅田将暉",
+  "collection": "【💐歌切】#267[2026-05-17]睡眠导入歌回✨适合睡前放松时间🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19s5o6pENz?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "メリュー",
+  "artist": "ナブナ",
+  "collection": "【💐歌切】#267[2026-05-17]睡眠导入歌回✨适合睡前放松时间🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19s5o6pENz?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "ナブナ",
+  "collection": "【💐歌切】#267[2026-05-17]睡眠导入歌回✨适合睡前放松时间🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19s5o6pENz?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "エイリアンズ",
+  "artist": "キリンジ",
+  "collection": "【💐歌切】#267[2026-05-17]睡眠导入歌回✨适合睡前放松时间🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19s5o6pENz?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "collection": "【💐歌切】#267[2026-05-17]睡眠导入歌回✨适合睡前放松时间🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19s5o6pENz?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "うたかた花火",
+  "artist": "supercell",
+  "collection": "【💐歌切】#267[2026-05-17]睡眠导入歌回✨适合睡前放松时间🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19s5o6pENz?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO × 米津玄師 (DAOKO × Kenshi Yonezu)",
+  "collection": "【💐歌切】#267[2026-05-17]睡眠导入歌回✨适合睡前放松时间🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19s5o6pENz?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "ドリームレス・ドリームス",
+  "artist": "はるまきごはん",
+  "collection": "【💐歌切】#267[2026-05-17]睡眠导入歌回✨适合睡前放松时间🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19s5o6pENz?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "フクロウ~フクロウが知らせる客が来たと~",
+  "artist": "KOKIA",
+  "collection": "【💐歌切】#267[2026-05-17]睡眠导入歌回✨适合睡前放松时间🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19s5o6pENz?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【💐歌切】#267[2026-05-17]睡眠导入歌回✨适合睡前放松时间🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19s5o6pENz?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "涙そうそう",
+  "artist": "夏川りみ",
+  "collection": "【💐歌切】#267[2026-05-17]睡眠导入歌回✨适合睡前放松时间🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19s5o6pENz?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "ハナミズキ",
+  "artist": "一青窈",
+  "collection": "【💐歌切】#267[2026-05-17]睡眠导入歌回✨适合睡前放松时间🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19s5o6pENz?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "ナブナ",
+  "collection": "【💐歌切】#267[2026-05-17]睡眠导入歌回✨适合睡前放松时间🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19s5o6pENz?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "アポリア",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】#267[2026-05-17]睡眠导入歌回✨适合睡前放松时间🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19s5o6pENz?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "スピラーレ",
+  "artist": "牧野由依",
+  "collection": "【💐歌切】#267[2026-05-17]睡眠导入歌回✨适合睡前放松时间🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19s5o6pENz?p=15",
   "source": "figaro.js"
 }
 );
