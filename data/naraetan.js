@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 5/17/2026, 8:35:16 PM
+// 生成时间: 5/17/2026, 9:14:07 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8587,6 +8587,126 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-13]动画歌曲和J-POP💃 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FZ5S6mE2y?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "花束",
+  "artist": "back number",
+  "collection": "【歌切】[2026-05-17]星期日的悠闲歌回🌟 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yC5o6gEM1?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-05-17]星期日的悠闲歌回🌟 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yC5o6gEM1?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "春に一番近い街",
+  "artist": "40mP",
+  "collection": "【歌切】[2026-05-17]星期日的悠闲歌回🌟 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yC5o6gEM1?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "春はゆく",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-05-17]星期日的悠闲歌回🌟 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yC5o6gEM1?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【歌切】[2026-05-17]星期日的悠闲歌回🌟 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yC5o6gEM1?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "アイノカタチ",
+  "artist": "MISIA",
+  "collection": "【歌切】[2026-05-17]星期日的悠闲歌回🌟 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yC5o6gEM1?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-05-17]星期日的悠闲歌回🌟 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yC5o6gEM1?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-05-17]星期日的悠闲歌回🌟 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yC5o6gEM1?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "【歌切】[2026-05-17]星期日的悠闲歌回🌟 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yC5o6gEM1?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-05-17]星期日的悠闲歌回🌟 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yC5o6gEM1?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "サインはB",
+  "artist": "B小町",
+  "collection": "【歌切】[2026-05-17]星期日的悠闲歌回🌟 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yC5o6gEM1?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "恋文",
+  "artist": "Every Little Thing",
+  "collection": "【歌切】[2026-05-17]星期日的悠闲歌回🌟 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yC5o6gEM1?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "FLY ME TO THE MOON",
+  "artist": "CLAIRE",
+  "collection": "【歌切】[2026-05-17]星期日的悠闲歌回🌟 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yC5o6gEM1?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ムーンライト伝説",
+  "artist": "DALI",
+  "collection": "【歌切】[2026-05-17]星期日的悠闲歌回🌟 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yC5o6gEM1?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "白い雪のプリンセスは",
+  "artist": "のぼる↑",
+  "collection": "【歌切】[2026-05-17]星期日的悠闲歌回🌟 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yC5o6gEM1?p=15",
   "source": "naraetan.js"
 },
     {

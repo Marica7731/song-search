@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 5/17/2026, 8:34:05 PM
+// 生成时间: 5/17/2026, 9:13:07 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4899,6 +4899,334 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-05-15]全类型歌回🍁✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12A5B6RE51?p=15",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "火種",
+  "artist": "キタニタツヤ",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "イージーゲーム",
+  "artist": "natsumi feat. 和ぬか",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ヨワネハキ",
+  "artist": "MAISONdes feat. 和ぬか, asmi",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "なにやってもうまくいかない",
+  "artist": "meiyo",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "懺悔参り",
+  "artist": "羽生まゐご feat. v flower",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "絶頂讃歌",
+  "artist": "和ぬか",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "百鬼祭",
+  "artist": "Kanaria feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "祭り囃子でゲラゲラポー",
+  "artist": "キング・クリームソーダ",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "夏祭り",
+  "artist": "Whiteberry",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "鬼ノ宴",
+  "artist": "友成空",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "睨めっ娘",
+  "artist": "友成空",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "クスシキ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "死ぬな！",
+  "artist": "こっちのけんと",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=15",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "はいよろこんで",
+  "artist": "こっちのけんと",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=16",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "けっかおーらい",
+  "artist": "こっちのけんと",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=17",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "物の怪の類",
+  "artist": "めいちゃん",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=18",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ちゅ、多様性。",
+  "artist": "ano",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=19",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "チャイナアドバイス",
+  "artist": "相対性理論",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=20",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "アイ・アイ・ア",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=21",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "我愛你",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=22",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "一二三",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=23",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "一難",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=24",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Minute by Minute",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=25",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "アスノヨゾラ哨戒班",
+  "artist": "Orangestar feat. IA",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=26",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=27",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Make you hot!",
+  "artist": "あたたかくなる",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=28",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "アイ・アイ・ア",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=29",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "GALA",
+  "artist": "XG",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=30",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ずうっといっしょ！",
+  "artist": "キタニタツヤ",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=31",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=32",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "マシュマロ",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=33",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "命に嫌われている。",
+  "artist": "カンザキイオリ feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=34",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "エンジョイ",
+  "artist": "めいちゃん",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=35",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ともに",
+  "artist": "WANIMA",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=36",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=37",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "flos",
+  "artist": "R Sound Design feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=38",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=39",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ダンスホール",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=40",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "すみれ色の紅",
+  "artist": "紅葉丸",
+  "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=41",
   "source": "momijimaru.js"
 }
 );
