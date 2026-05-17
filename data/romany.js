@@ -1,6 +1,6 @@
 // ロマニ - 歌单数据 (多合集汇总)
 // 来源: BV1KHXxBUErU, BV1iHQXBzEgU
-// 生成时间: 5/17/2026, 7:24:59 PM
+// 生成时间: 5/17/2026, 8:04:21 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2019,6 +2019,94 @@ window.SONG_DATA.push(
   "collection": "【ロマニ🎸弾き語り歌切】[2026-05-10]5月10日星期日例行歌回──回顾聊天与歌曲🌙 ロマニードットアイオー / ROMANY. io",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1T95H62Eqv?p=6",
+  "source": "romany.js"
+},
+    {
+  "title": "猫",
+  "artist": "DISH//",
+  "collection": "【歌切】[2026-05-17]5月17日星期日惯例──✦歌与吉他与你🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12B5o6CEqa?p=1",
+  "source": "romany.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar",
+  "collection": "【歌切】[2026-05-17]5月17日星期日惯例──✦歌与吉他与你🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12B5o6CEqa?p=2",
+  "source": "romany.js"
+},
+    {
+  "title": "Let It Be",
+  "artist": "The Beatles",
+  "collection": "【歌切】[2026-05-17]5月17日星期日惯例──✦歌与吉他与你🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12B5o6CEqa?p=3",
+  "source": "romany.js"
+},
+    {
+  "title": "やさしい気持ち",
+  "artist": "CHARA",
+  "collection": "【歌切】[2026-05-17]5月17日星期日惯例──✦歌与吉他与你🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12B5o6CEqa?p=4",
+  "source": "romany.js"
+},
+    {
+  "title": "天ノ弱",
+  "artist": "164",
+  "collection": "【歌切】[2026-05-17]5月17日星期日惯例──✦歌与吉他与你🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12B5o6CEqa?p=5",
+  "source": "romany.js"
+},
+    {
+  "title": "蝶々結び",
+  "artist": "Aimer（ワンコーラス）",
+  "collection": "【歌切】[2026-05-17]5月17日星期日惯例──✦歌与吉他与你🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12B5o6CEqa?p=6",
+  "source": "romany.js"
+},
+    {
+  "title": "カプチーノ",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-05-17]5月17日星期日惯例──✦歌与吉他与你🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12B5o6CEqa?p=7",
+  "source": "romany.js"
+},
+    {
+  "title": "ミッドナイト・リフレクション",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【歌切】[2026-05-17]5月17日星期日惯例──✦歌与吉他与你🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12B5o6CEqa?p=8",
+  "source": "romany.js"
+},
+    {
+  "title": "平行線",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-05-17]5月17日星期日惯例──✦歌与吉他与你🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12B5o6CEqa?p=9",
+  "source": "romany.js"
+},
+    {
+  "title": "RE:I AM",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-05-17]5月17日星期日惯例──✦歌与吉他与你🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12B5o6CEqa?p=10",
+  "source": "romany.js"
+},
+    {
+  "title": "イキナクチャ",
+  "artist": "ロマニードットアイオー",
+  "collection": "【歌切】[2026-05-17]5月17日星期日惯例──✦歌与吉他与你🌙𓂃𝄞 ロマニードットアイオー / ROMANY. io",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12B5o6CEqa?p=11",
   "source": "romany.js"
 }
 );

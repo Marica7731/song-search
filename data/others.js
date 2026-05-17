@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 5/17/2026, 7:32:05 PM
+// 生成时间: 5/17/2026, 8:11:53 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9907,6 +9907,46 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "花ざかりWeekend✿",
+  "artist": "4Luxury",
+  "collection": "歌切 2026-05-17 紬カルラ / Tsumugi Carla _omXfbM1MLk KARAOKE Streaming Yeah!!!×92",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bq5o6LEWZ?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "歌切 2026-05-17 紬カルラ / Tsumugi Carla _omXfbM1MLk KARAOKE Streaming Yeah!!!×92",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bq5o6LEWZ?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "again",
+  "artist": "YUI",
+  "collection": "歌切 2026-05-17 紬カルラ / Tsumugi Carla _omXfbM1MLk KARAOKE Streaming Yeah!!!×92",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bq5o6LEWZ?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "slash",
+  "artist": "yama",
+  "collection": "歌切 2026-05-17 紬カルラ / Tsumugi Carla _omXfbM1MLk KARAOKE Streaming Yeah!!!×92",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bq5o6LEWZ?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "酔いどれ知らず",
+  "artist": "Kanaria",
+  "collection": "歌切 2026-05-17 紬カルラ / Tsumugi Carla _omXfbM1MLk KARAOKE Streaming Yeah!!!×92",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bq5o6LEWZ?p=5",
   "source": "others.js"
 },
     {
