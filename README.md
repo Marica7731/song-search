@@ -36,6 +36,7 @@ git status --short
 - `admin-singer-config.html`：来源配置后台，管理员用 token 维护运行时配置和触发刷新。
 - `tabs-optimization-preview.html`：六个主 tab 的优化方案 HTML 预览，会读取 `/api/tabs/overview` 展示真实后端概览，不替换生产页面。
 - `server.js`：统一 Node 服务端，提供静态页面、搜索分页、搜索导出、统计视图、全站 tab 概览、查重/命名摘要、增长缓存、管理刷新和内部 reload。
+- `scripts/check-live-song-total.js`：线上歌库回退检查脚本，读取公网 `/api/bootstrap` 和 `/api/search`，用于发布后确认总曲数没有下降、关键 BV 仍可命中。
 
 ## 在线页面
 
@@ -244,7 +245,10 @@ node --check scripts/check-song-library.js
 ```powershell
 npm run check:library
 node scripts/check-song-library.js --json
+npm run check:live -- --min-total=25785 --require-bv=BV1xd5g61Egu
 ```
+
+`check:live` 默认检查 `https://www.culua.com`。发布前可先用 `npm run check:live -- --json` 记录当前 `totalSongs`，发布刷新后再用 `--min-total=<发布前总量>` 防止线上数据回退。
 
 本地服务检查：
 
@@ -324,7 +328,8 @@ culua_web_h5/
 - 不要把 GitHub 数据更新任务和 `culua.com` 服务器部署混成同一个任务。
 - 不要提交 `downloads/`、`runtime/`、缓存报告、截图、日志、`.env`。
 - 改页面后必须用本地 HTTP 或公网验证。
-- 涉及数据更新时必须核对来源数、曲目数和关键 BV 是否存在。
+- `culua.com` 正常发布必须跑服务器刷新脚本，不要只 `git reset --hard` 后重启；否则会把线上新生成的歌库覆盖回仓库里的旧数据。
+- 涉及数据或部署时必须核对来源数、曲目数和关键 BV 是否存在，推荐用 `npm run check:live -- --min-total=<发布前总量> --require-bv=BV1xd5g61Egu`。
 
 
 

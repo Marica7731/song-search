@@ -174,18 +174,22 @@ git reset --hard
 git clean -fdx
 ```
 
-## 服务器拉取并重启
+## 服务器发布并刷新
 
-代码改动不涉及歌库数据时，可用快速部署：
+正常发布不要只 `git reset --hard` 后重启服务。仓库里的 `data/*.js` 是被跟踪的生成物，可能落后于服务器运行时数据；如果 reset 后只重启，会把线上新歌库短暂回退到仓库旧数据，直到下一次定时刷新才恢复。
+
+发布前先记录公网当前总量：
 
 ```powershell
-ssh culua "cd /var/www/song-search && git fetch origin codex/server-deploy && git reset --hard origin/codex/server-deploy && sudo -n systemctl restart song-search.service && sudo -n systemctl is-active song-search.service"
+$before = (npm run -s check:live -- --json | ConvertFrom-Json).totalSongs
 ```
 
-涉及来源配置、`data/`、统计、增长日报或需要重建歌库时，使用刷新脚本：
+推送部署分支后，在服务器使用刷新脚本完成拉取、重建歌库、增长日报和热 reload：
 
 ```powershell
+git push origin HEAD:codex/server-deploy
 ssh culua "sudo -n /usr/local/bin/song-search-refresh.sh"
+npm run -s check:live -- --min-total=$before --require-bv=BV1xd5g61Egu
 ```
 
 当前刷新脚本核心行为：
@@ -199,10 +203,22 @@ git reset --hard origin/codex/server-deploy
 /usr/bin/curl -fsS http://127.0.0.1:3230/internal/reload >/dev/null
 ```
 
+只有在明确做紧急进程恢复、且确认不执行 `git reset --hard` 时，才单独重启服务：
+
+```powershell
+ssh culua "sudo -n systemctl restart song-search.service && sudo -n systemctl is-active song-search.service"
+```
+
 如果 SSH 连接中途断开，先查是否仍在后台运行，避免重复启动：
 
 ```powershell
 ssh culua "pgrep -af 'node scripts/update-songs|song-search-refresh' || true"
+```
+
+定时任务健康检查：
+
+```powershell
+ssh culua "systemctl is-active cron; sudo -n crontab -l | grep song-search-refresh; sudo -n journalctl -u cron --since '90 minutes ago' --no-pager | grep song-search-refresh | tail"
 ```
 
 ## 来源配置特殊规则
@@ -247,6 +263,7 @@ curl -fsS "http://127.0.0.1:3230/api/stats/view?tab=vtuber-source&page=1&pageSiz
 公网：
 
 ```bash
+npm run -s check:live -- --min-total=25785 --require-bv=BV1xd5g61Egu
 curl -fsS "https://www.culua.com/api/stats/view?tab=vtuber-source&page=1&pageSize=1" >/dev/null
 curl -fsSL https://www.culua.com/ | head
 curl -fsSL https://www.culua.com/stats | head
@@ -271,7 +288,7 @@ console.log({ status: text.includes(bvid), bytes: text.length });
 ```text
 service: active
 check-song-library: files=?, totalSongs=?, uniqueSongs=?
-public bootstrap: ok
+check-live-song-total: totalSongs>=发布前总量, 关键 BV matched>0
 public stats: ok
 关键 data 文件包含入口 BV: true
 ```
@@ -310,6 +327,13 @@ curl -fsS https://www.culua.com/api/bootstrap
 
 如果是来源数据，确认 `/var/lib/song-search/singer-configs.json` 是否已经同步。
 
+如果刚发布后总量下降，优先判断是否执行过 `git reset --hard` 后只重启服务。立即运行：
+
+```powershell
+ssh culua "sudo -n /usr/local/bin/song-search-refresh.sh"
+npm run -s check:live -- --min-total=<发布前总量> --require-bv=BV1xd5g61Egu
+```
+
 ## 文件说明
 
 | 文件路径 | 文件用途 | 主要职责 | 与其他文件的关系 |
@@ -317,4 +341,5 @@ curl -fsS https://www.culua.com/api/bootstrap
 | `docs/culua-server-guide.md` | culua 服务器使用指南 | 固定 SSH alias、服务器目录、部署命令、刷新脚本、验证方式和安全边界 | 供后续 AI 接手服务器、推送部署分支和发布歌站代码时首读 |
 | `docs/migration-handoff.md` | 迁移交接文档 | 记录本地目录、分支、服务器目录和迁移风险 | 本指南复用其路径、SSH 和部署规则 |
 | `docs/add-source-prompt.md` | 添加来源提示词 | 说明 GitHub main 与 `culua.com` 添加来源的不同方式 | 来源任务优先配合本指南使用 |
+| `scripts/check-live-song-total.js` | 线上歌库回退检查脚本 | 校验公网总曲数和关键 BV 命中情况 | 发布前后配合刷新脚本使用，避免 reset/restart 造成数据回退 |
 | `README.md` | 项目入口说明 | 汇总功能、运行、验证、文档入口 | 链接本指南 |

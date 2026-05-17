@@ -308,25 +308,26 @@ git reset --hard origin/xxx
 
 ## 部署流程
 
-文档、样式或代码改动推送后，服务器可以拉取部署分支：
+文档、样式或代码改动推送前，先记录公网当前歌库总量，防止发布后回退：
 
 ```powershell
 cd C:\Users\终焉\Documents\culua_web_h5
 git status --short
 git diff --check
+$before = (npm run -s check:live -- --json | ConvertFrom-Json).totalSongs
 git push origin HEAD:codex/server-deploy
 ```
 
-服务器：
+服务器正常发布必须使用刷新脚本。不要只 `git reset --hard` 后重启服务，因为仓库里的 `data/*.js` 可能落后于服务器运行时数据，会导致线上歌库短暂回退。
 
 ```bash
-ssh culua "cd /var/www/song-search && git fetch origin codex/server-deploy && git reset --hard origin/codex/server-deploy && sudo systemctl restart song-search.service && sudo systemctl is-active song-search.service"
+ssh culua "sudo -n /usr/local/bin/song-search-refresh.sh"
 ```
 
-如果涉及数据或统计：
+发布后先做总量和关键 BV 校验：
 
-```bash
-ssh culua "sudo /usr/local/bin/song-search-refresh.sh"
+```powershell
+npm run -s check:live -- --min-total=$before --require-bv=BV1xd5g61Egu
 ```
 
 部署后自验：
@@ -341,6 +342,12 @@ curl -fsSL https://www.culua.com/check | head
 curl -fsSL https://www.culua.com/growth | head
 ```
 
+定时任务只作为兜底，不要依赖它修复刚发布后的回退窗口。健康检查：
+
+```bash
+ssh culua "systemctl is-active cron && sudo -n crontab -l | grep song-search-refresh && sudo -n journalctl -u cron --since '90 minutes ago' --no-pager | grep song-search-refresh | tail"
+```
+
 ## 分支约定
 
 ```text
@@ -353,6 +360,7 @@ main                   GitHub Actions 数据更新主线
 - `main` 和 `codex/server-deploy` 不是同一个用途。
 - 不要把 GitHub 数据更新任务和 `culua.com` 服务器部署混成同一个任务。
 - 服务器定时脚本会强制 reset 到 `origin/codex/server-deploy`，所以服务器临时改文件会被覆盖。
+- 手动发布也必须跑刷新脚本；`reset --hard` 后只重启会把服务器生成的新歌库覆盖成仓库旧数据。
 
 ## 维护原则
 

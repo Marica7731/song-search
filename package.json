@@ -5,6 +5,7 @@
   "description": "Song search site with optional server-side API mode",
   "scripts": {
     "start": "node server.js",
-    "check:library": "node scripts/check-song-library.js"
+    "check:library": "node scripts/check-song-library.js",
+    "check:live": "node scripts/check-live-song-total.js"
   }
 }

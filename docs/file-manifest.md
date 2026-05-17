@@ -38,7 +38,7 @@
 | 文件路径 | 文件用途 | 主要函数或模块职责 | 与其他文件的关系 |
 |---|---|---|---|
 | `server.js` | Node HTTP 服务端 | 静态资源服务、路由别名、`/api/bootstrap`、`/api/search`、`/api/search/export`、`/api/tabs/overview`、`/api/stats/view`、查重/命名 API、增长缓存、管理刷新 API、`/internal/reload` | 读取 `data/`、`reports/`、`scripts/singer-configs.json`；`/m` 和 `/h5` 指向响应式首页；调用 `/usr/local/bin/song-search-refresh.sh` |
-| `package.json` | 根目录 npm 脚本 | `npm start` 启动服务，`npm run check:library` 检查歌库 | 无根目录外部依赖；脚本依赖在 `scripts/package.json` |
+| `package.json` | 根目录 npm 脚本 | `npm start` 启动服务，`npm run check:library` 检查本地歌库，`npm run check:live` 检查公网总量和关键 BV | 无根目录外部依赖；脚本依赖在 `scripts/package.json` |
 
 ## 数据与报告
 
@@ -58,6 +58,7 @@
 | `scripts/update-songs.js` | 歌库抓取生成脚本 | 读取来源配置、拉取 B 站元数据、解析分 P、按合集小节过滤来源、生成 `data/*.js` 和 `data/index.json` | 服务器刷新脚本、GitHub Actions、本地数据更新都会调用 |
 | `scripts/update-song-growth.js` | 增长日报生成脚本 | 读取歌库数据，更新 `reports/song-growth-history.json`、`song-growth.html` 和 README 日报段落 | GitHub Actions `song-growth.yml` 调用 |
 | `scripts/check-song-library.js` | 歌库检查脚本 | 统计数据文件数、总曲数、去重曲数、缺失歌手数 | 本地提交前和数据更新后验证使用 |
+| `scripts/check-live-song-total.js` | 线上歌库回退检查脚本 | 读取公网 `/api/bootstrap` 和 `/api/search`，校验 `totalSongs` 不低于指定值、指定 BV 至少命中一条 | 发布前后和线上故障排查使用，避免只重启服务导致歌库回退 |
 | `scripts/package.json` | 脚本依赖定义 | 声明 `cheerio`、`puppeteer` 等抓取依赖 | 只服务 `scripts/` 下的数据抓取脚本 |
 | `scripts/package-lock.json` | 脚本依赖锁定 | 锁定 `scripts/package.json` 的依赖版本 | 与 `scripts/package.json` 配套 |
 | `scripts/node_modules/` | 已跟踪的脚本依赖目录 | 当前仓库历史中已经包含的依赖文件 | 不建议在普通任务中清理；新增依赖应先确认策略 |
