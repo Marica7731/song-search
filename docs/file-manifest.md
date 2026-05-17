@@ -8,7 +8,7 @@
 |---|---|---|---|
 | `README.md` | 项目入口说明 | 说明功能、运行方式、测试方式、维护边界和文档索引 | 链接 `docs/migration-handoff.md`、`docs/culua-server-guide.md`、`docs/site-optimization-plan.md`、`docs/tabs-optimization-plan.md`、`docs/file-manifest.md` 与 `docs/add-source-prompt.md` |
 | `.gitignore` | 本地忽略规则 | 忽略运行缓存、日志、临时截图、下载目录、runtime、`.env` | 防止本地开发产物进入后续提交；不取消已跟踪文件 |
-| `index.html` | 优化版首页与歌曲检索页 | 可搜索来源、搜索范围切换、服务端分页、来源数量展示、筛选偏好记忆、桌面紧凑复制工具条、H5 筛选/复制/页面导航底部弹层、移动端紧凑结果卡、来源/歌手视觉分层、结果字段点击复制、稳定行级复制、B站编辑稿件直达 | 读取 `/api/bootstrap`、`/api/search`；来源数量优先使用 `sourceStats.totalSongs`；行内整行复制使用服务端 `rowId`；字段复制使用结果项内的 `data-copy-value`；桌面复制全部调用 `/api/search/export`；H5 复制默认只处理当前页结果；编辑按钮使用 BV 号跳转 B站稿件编辑页；本地偏好写入浏览器 `localStorage` |
+| `index.html` | 优化版首页与歌曲检索页 | 可搜索来源、搜索范围切换、服务端分页、来源数量展示、最近更新时间展示、筛选偏好记忆、桌面紧凑复制工具条、H5 筛选/复制/页面导航底部弹层、移动端紧凑结果卡、来源/歌手视觉分层、结果字段点击复制、稳定行级复制、B站编辑稿件直达 | 读取 `/api/bootstrap`、`/api/search`；最近更新时间由 `last-run-badge.js` 读取；来源数量优先使用 `sourceStats.totalSongs`；行内整行复制使用服务端 `rowId`；字段复制使用结果项内的 `data-copy-value`；桌面复制全部调用 `/api/search/export`；H5 复制默认只处理当前页结果；编辑按钮使用 BV 号跳转 B站稿件编辑页；本地偏好写入浏览器 `localStorage` |
 | `index-optimized.html` | 首页优化对照文件 | 与 `index.html` 保持同源，便于后续继续调样式或回看优化方案 | 配合 `docs/site-optimization-plan.md`；正式入口仍是 `index.html` |
 | `tabs-optimization-preview.html` | 六个主 tab 的优化方案预览 | 展示首页、数据、BV 查重、歌名歌手查重、命名工具、日报的目标布局、优化优先级、移动端形态和实时后端概览 | 配合 `docs/tabs-optimization-plan.md`；读取 `/api/tabs/overview`，不替换正式页面 |
 | `stats.html` | 数据统计页 | 展示来源、歌手、曲目、投稿时间等统计视图，左侧提供来源统计/歌曲排行/歌手聚合的数据导航，并记住 tab、来源、关键词和摘要链接数；歌曲排行使用标题区、指标区和场次预览区，来源/歌手分组使用紧凑歌曲行 | 优先请求 `/api/stats/view`，服务端不可用时回退本地数据；接入共享外壳和数据页专用视觉样式；本地视图偏好写入浏览器 `localStorage` |
@@ -22,7 +22,7 @@
 | `site-theme.css` | 共享样式 | 页面布局、纯文字 `culua.com` 品牌、表格、按钮、状态提示、数据页排行/分组卡片、H5 紧凑导航和响应式样式 | 被多个 HTML 页面引用；正式工具页使用版本号查询串加载，避免线上缓存留在旧视觉 |
 | `site-shell.js` | 正式工具页共享外壳兜底 | 同步当前页导航高亮；仅在页面没有静态壳层时才回退包裹 DOM，并使用纯文字 `culua.com` 品牌 | 被 `stats.html`、`bv-dup-check.html`、`title-artist-dup-check.html`、`title-artist-check.html`、`song-growth.html` 以 `defer` 引入；正式页首屏 HTML 已直接包含共享外壳，避免旧页面闪烁 |
 | `page-directory-widget.js` | 页面目录组件 | 生成浮动目录、移动端目录按钮、滚动定位 | 被长页面和校验工具复用 |
-| `last-run-badge.js` | 最近更新状态角标 | 读取更新元信息并展示“最近更新”时间，避免暴露 `update-songs` 等技术文案 | 读取 `/api/update-meta` 或相关后端数据 |
+| `last-run-badge.js` | 最近更新状态角标 | 读取更新元信息并展示“最近更新”时间，避免暴露 `update-songs` 等技术文案 | 优先读取 `/reports/update-songs-meta.json`，失败时读取 `/api/site-meta`；被首页和各工具页引入 |
 | `admin-refresh-control.js` | 管理刷新控件 | 读取 token、显示刷新状态、触发服务端刷新 | 配合 `admin-singer-config.html` 和 `server.js` 管理接口 |
 
 ## 查重与解析逻辑

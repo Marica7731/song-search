@@ -260,6 +260,17 @@
       justify-content: space-between;
     }
 
+    .home-last-run {
+      margin: 8px 0 0;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.45;
+      font-weight: 600;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
     .segmented,
     .chip-row {
       display: flex;
@@ -851,6 +862,11 @@
         padding: 10px 12px 8px;
       }
 
+      .home-last-run {
+        margin-top: 7px;
+        font-size: 11px;
+      }
+
       .search-grid {
         width: 100%;
         max-width: none;
@@ -1213,6 +1229,7 @@
           </select>
           <button id="searchBtn" class="btn primary">搜索</button>
         </div>
+        <div id="updateSongsLastRunPlaceholder" class="home-last-run">最近更新：加载中...</div>
         <div class="mobile-filter-chips" aria-label="移动端筛选">
           <button id="mobileSourceChip" class="mobile-filter-chip primary" type="button" data-open-sheet="filterSheet">全部来源</button>
           <button id="mobileSortChip" class="mobile-filter-chip" type="button" data-open-sheet="filterSheet">新到旧</button>
@@ -2199,5 +2216,6 @@
 
     document.addEventListener('DOMContentLoaded', init);
   </script>
+  <script src="/last-run-badge.js?v=20260518live1"></script>
 </body>
 </html>
