@@ -1665,21 +1665,26 @@ body.culua-shell-stats .toggle-btn:focus {
     top: 0;
     height: auto;
     max-height: none;
-    padding: 12px;
+    padding: 10px 12px 8px;
     border-right: 0;
     border-bottom: 1px solid #d9e0ea;
+    box-shadow: 0 4px 14px rgba(15, 23, 42, 0.06);
   }
 
   .culua-brand {
-    margin-bottom: 10px;
+    margin-bottom: 8px;
+  }
+
+  .culua-brand-title {
+    font-size: 20px;
   }
 
   .culua-shell-nav {
     display: flex;
-    gap: 8px;
+    gap: 6px;
     overflow-x: auto;
     margin: 0;
-    padding-bottom: 2px;
+    padding-bottom: 0;
     scrollbar-width: none;
   }
 
@@ -1690,15 +1695,21 @@ body.culua-shell-stats .toggle-btn:focus {
   .culua-shell-nav-item {
     flex: 0 0 auto;
     min-width: max-content;
-    gap: 10px;
+    min-height: 34px;
+    padding: 6px 10px !important;
+    gap: 0;
+  }
+
+  .culua-shell-nav-item span {
+    display: none;
   }
 
   body.culua-shell-stats .stats-view-nav {
     display: flex;
     align-items: center;
-    gap: 8px;
-    margin-top: 10px;
-    padding-top: 10px;
+    gap: 6px;
+    margin-top: 8px;
+    padding-top: 8px;
     overflow-x: auto;
     scrollbar-width: none;
   }
@@ -1708,8 +1719,7 @@ body.culua-shell-stats .toggle-btn:focus {
   }
 
   body.culua-shell-stats .stats-view-nav-title {
-    flex: 0 0 auto;
-    margin: 0 2px 0 0;
+    display: none;
   }
 
   body.culua-shell-stats .stats-view-nav-item {
@@ -1717,11 +1727,50 @@ body.culua-shell-stats .toggle-btn:focus {
     width: auto;
     min-width: max-content;
     margin: 0;
-    gap: 10px;
+    min-height: 34px !important;
+    padding: 6px 10px !important;
+    gap: 0;
+  }
+
+  body.culua-shell-stats .stats-view-nav-item span {
+    display: none;
   }
 
   .culua-page-content {
-    padding: 14px 12px 28px;
+    padding: 12px 12px 26px;
+  }
+
+  body.culua-shell-stats h1 {
+    font-size: 22px !important;
+    margin-bottom: 8px !important;
+  }
+
+  body.culua-shell-stats .tabs-container {
+    display: none !important;
+  }
+
+  body.culua-shell-stats .filter-search-container {
+    gap: 8px !important;
+    margin-bottom: 10px !important;
+  }
+
+  body.culua-shell-stats .filter-bar,
+  body.culua-shell-stats .search-container,
+  body.culua-shell-stats .stats-bar {
+    padding: 8px 10px !important;
+  }
+
+  body.culua-shell-stats .filter-bar {
+    gap: 8px !important;
+  }
+
+  body.culua-shell-stats .source-picker {
+    gap: 6px !important;
+  }
+
+  body.culua-shell-stats .source-meta {
+    font-size: 12px !important;
+    line-height: 1.35 !important;
   }
 
   body.culua-shell-check .retitle-tools {
@@ -1737,11 +1786,50 @@ body.culua-shell-stats .toggle-btn:focus {
   }
 
   body.culua-shell-stats .search-container {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr) 76px !important;
+  }
+
+  body.culua-shell-stats #search-input,
+  body.culua-shell-stats #search-btn,
+  body.culua-shell-stats .source-trigger,
+  body.culua-shell-stats .source-select {
+    height: 38px !important;
+    min-height: 38px !important;
+  }
+
+  body.culua-shell-stats #search-btn {
+    padding: 0 8px !important;
+  }
+
+  body.culua-shell-stats .stats-bar {
+    display: grid !important;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 8px !important;
+  }
+
+  body.culua-shell-stats .stats-text {
+    min-width: 0;
+  }
+
+  body.culua-shell-stats .summary-toolbar {
+    justify-content: flex-end !important;
+  }
+
+  body.culua-shell-stats .summary-link-input {
+    width: 64px !important;
   }
 
   body.culua-shell-stats .overview-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+    gap: 8px !important;
+  }
+
+  body.culua-shell-stats .overview-card {
+    padding: 10px !important;
+  }
+
+  body.culua-shell-stats .overview-value {
+    font-size: 20px !important;
   }
 
   body.culua-shell-stats .rank-card-top,
@@ -1764,21 +1852,65 @@ body.culua-shell-stats .toggle-btn:focus {
   body.culua-shell-stats .perf-grid-small {
     grid-template-columns: 1fr !important;
   }
+
+  body.culua-shell-stats .rank-item {
+    padding: 12px !important;
+    gap: 8px !important;
+  }
+
+  body.culua-shell-stats .rank-identity {
+    grid-template-columns: 34px minmax(0, 1fr);
+  }
+
+  body.culua-shell-stats .rank-badge {
+    width: 32px !important;
+    height: 32px !important;
+  }
+
+  body.culua-shell-stats .rank-actions {
+    display: grid !important;
+    grid-template-columns: 78px minmax(0, 1fr);
+    align-items: center;
+    width: 100%;
+  }
+
+  body.culua-shell-stats .rank-actions .action-row {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    width: 100%;
+  }
+
+  body.culua-shell-stats .copy-btn {
+    min-height: 34px !important;
+    padding: 6px 10px !important;
+  }
 }
 
 @media (max-width: 560px) {
   body.culua-shell-stats .overview-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+  }
+
+  body.culua-shell-stats .overview-card {
+    min-height: 86px;
+  }
+
+  body.culua-shell-stats .overview-value {
+    font-size: 19px !important;
+  }
+}
+
+@media (max-width: 360px) {
+  body.culua-shell-stats .overview-grid {
     grid-template-columns: 1fr !important;
   }
 
-  body.culua-shell-stats .tabs-container {
-    display: flex;
-    width: 100%;
-    overflow-x: auto;
-    scrollbar-width: none;
+  body.culua-shell-stats .search-container,
+  body.culua-shell-stats .stats-bar {
+    grid-template-columns: 1fr !important;
   }
 
-  body.culua-shell-stats .tabs-container::-webkit-scrollbar {
-    display: none;
+  body.culua-shell-stats .summary-toolbar {
+    justify-content: flex-start !important;
   }
 }
