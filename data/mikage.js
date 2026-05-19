@@ -1,0 +1,528 @@
+// 深影 - 歌单数据 (多合集汇总)
+// 来源: BV12mQ3B6EpP
+// 生成时间: 5/19/2026, 6:37:31 PM
+
+window.SONG_DATA = window.SONG_DATA || [];
+
+window.SONG_DATA.push(
+    {
+  "title": "命にふさわしい",
+  "artist": "amazarashi",
+  "collection": "歌切 2026-03-30 深影 - Mikage - zyskOcAFn5U",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12mQ3B6EpP?p=1",
+  "source": "mikage.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ",
+  "collection": "歌切 2026-03-30 深影 - Mikage - zyskOcAFn5U",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12mQ3B6EpP?p=2",
+  "source": "mikage.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna",
+  "collection": "歌切 2026-03-30 深影 - Mikage - zyskOcAFn5U",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12mQ3B6EpP?p=3",
+  "source": "mikage.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna",
+  "collection": "歌切 2026-03-30 深影 - Mikage - zyskOcAFn5U",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12mQ3B6EpP?p=4",
+  "source": "mikage.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-03-30 深影 - Mikage - zyskOcAFn5U",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12mQ3B6EpP?p=5",
+  "source": "mikage.js"
+},
+    {
+  "title": "ゴーストレタッチ",
+  "artist": "深影",
+  "collection": "歌切 2026-03-30 深影 - Mikage - zyskOcAFn5U",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12mQ3B6EpP?p=6",
+  "source": "mikage.js"
+},
+    {
+  "title": "ゴーストレタッチ",
+  "artist": "深影",
+  "collection": "歌切 2026-03-30 深影 - Mikage - zyskOcAFn5U",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12mQ3B6EpP?p=7",
+  "source": "mikage.js"
+},
+    {
+  "title": "贖罪",
+  "artist": "傘村トータ",
+  "collection": "歌切 2026-03-30 深影 - Mikage - zyskOcAFn5U",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12mQ3B6EpP?p=8",
+  "source": "mikage.js"
+},
+    {
+  "title": "高嶺の花子さん",
+  "artist": "back number",
+  "collection": "歌切 2026-04-09 深影 - Mikage - q3MI_sefbmg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u1QVBDEKy?p=1",
+  "source": "mikage.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP",
+  "collection": "歌切 2026-04-09 深影 - Mikage - q3MI_sefbmg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u1QVBDEKy?p=2",
+  "source": "mikage.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP",
+  "collection": "歌切 2026-04-09 深影 - Mikage - q3MI_sefbmg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u1QVBDEKy?p=3",
+  "source": "mikage.js"
+},
+    {
+  "title": "Soranji",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "歌切 2026-04-09 深影 - Mikage - q3MI_sefbmg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u1QVBDEKy?p=4",
+  "source": "mikage.js"
+},
+    {
+  "title": "1991",
+  "artist": "米津玄師",
+  "collection": "歌切 2026-04-09 深影 - Mikage - q3MI_sefbmg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u1QVBDEKy?p=5",
+  "source": "mikage.js"
+},
+    {
+  "title": "ブラック★ロックシューター",
+  "artist": "supercell",
+  "collection": "歌切 2026-04-09 深影 - Mikage - q3MI_sefbmg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u1QVBDEKy?p=6",
+  "source": "mikage.js"
+},
+    {
+  "title": "星の唄",
+  "artist": "buzzG",
+  "collection": "歌切 2026-04-09 深影 - Mikage - q3MI_sefbmg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u1QVBDEKy?p=7",
+  "source": "mikage.js"
+},
+    {
+  "title": "Oz.",
+  "artist": "yama",
+  "collection": "歌切 2026-04-09 深影 - Mikage - q3MI_sefbmg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u1QVBDEKy?p=8",
+  "source": "mikage.js"
+},
+    {
+  "title": "Ghost of a smile",
+  "artist": "EGOIST",
+  "collection": "歌切 2026-04-09 深影 - Mikage - q3MI_sefbmg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u1QVBDEKy?p=9",
+  "source": "mikage.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-04-09 深影 - Mikage - q3MI_sefbmg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u1QVBDEKy?p=10",
+  "source": "mikage.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna",
+  "collection": "歌切 2026-04-09 深影 - Mikage - q3MI_sefbmg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u1QVBDEKy?p=11",
+  "source": "mikage.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P",
+  "collection": "歌切 2026-04-09 深影 - Mikage - q3MI_sefbmg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u1QVBDEKy?p=12",
+  "source": "mikage.js"
+},
+    {
+  "title": "月光",
+  "artist": "鬼束ちひろ",
+  "collection": "歌切 2026-04-09 深影 - Mikage - q3MI_sefbmg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u1QVBDEKy?p=13",
+  "source": "mikage.js"
+},
+    {
+  "title": "異邦人",
+  "artist": "久保田早紀",
+  "collection": "歌切 2026-04-09 深影 - Mikage - q3MI_sefbmg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u1QVBDEKy?p=14",
+  "source": "mikage.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-04-09 深影 - Mikage - q3MI_sefbmg",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u1QVBDEKy?p=15",
+  "source": "mikage.js"
+},
+    {
+  "title": "命に嫌われている。",
+  "artist": "カンザキイオリ",
+  "collection": "歌切 2026-04-12 深影 - Mikage - BRrPe483aX0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGQ5BwEo4?p=1",
+  "source": "mikage.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "TOKOTOKO",
+  "collection": "歌切 2026-04-12 深影 - Mikage - BRrPe483aX0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGQ5BwEo4?p=2",
+  "source": "mikage.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "歌切 2026-04-12 深影 - Mikage - BRrPe483aX0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGQ5BwEo4?p=3",
+  "source": "mikage.js"
+},
+    {
+  "title": "アイ",
+  "artist": "秦基博",
+  "collection": "歌切 2026-04-12 深影 - Mikage - BRrPe483aX0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGQ5BwEo4?p=4",
+  "source": "mikage.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "歌切 2026-04-12 深影 - Mikage - BRrPe483aX0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGQ5BwEo4?p=5",
+  "source": "mikage.js"
+},
+    {
+  "title": "Departures ～あなたにおくるアイの歌～",
+  "artist": "EGOIST",
+  "collection": "歌切 2026-04-12 深影 - Mikage - BRrPe483aX0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGQ5BwEo4?p=6",
+  "source": "mikage.js"
+},
+    {
+  "title": "蝶々結び",
+  "artist": "Aimer",
+  "collection": "歌切 2026-04-12 深影 - Mikage - BRrPe483aX0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGQ5BwEo4?p=7",
+  "source": "mikage.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "歌切 2026-04-12 深影 - Mikage - BRrPe483aX0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGQ5BwEo4?p=8",
+  "source": "mikage.js"
+},
+    {
+  "title": "アヤノの幸福理論",
+  "artist": "じん",
+  "collection": "歌切 2026-04-12 深影 - Mikage - BRrPe483aX0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGQ5BwEo4?p=9",
+  "source": "mikage.js"
+},
+    {
+  "title": "タイムマシン",
+  "artist": "1640mP",
+  "collection": "歌切 2026-04-12 深影 - Mikage - BRrPe483aX0",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGQ5BwEo4?p=10",
+  "source": "mikage.js"
+},
+    {
+  "title": "inside you",
+  "artist": "milet",
+  "collection": "歌切 2026-05-19 深影 - Mikage - JMMftM_jiO0 唱满30曲才能结束的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dCLu6ZEyH?p=1",
+  "source": "mikage.js"
+},
+    {
+  "title": "罪と罰",
+  "artist": "椎名林檎",
+  "collection": "歌切 2026-05-19 深影 - Mikage - JMMftM_jiO0 唱满30曲才能结束的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dCLu6ZEyH?p=2",
+  "source": "mikage.js"
+},
+    {
+  "title": "Shout Baby",
+  "artist": "緑黄色社会",
+  "collection": "歌切 2026-05-19 深影 - Mikage - JMMftM_jiO0 唱满30曲才能结束的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dCLu6ZEyH?p=3",
+  "source": "mikage.js"
+},
+    {
+  "title": "Beautiful World",
+  "artist": "宇多田ヒカル",
+  "collection": "歌切 2026-05-19 深影 - Mikage - JMMftM_jiO0 唱满30曲才能结束的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dCLu6ZEyH?p=4",
+  "source": "mikage.js"
+},
+    {
+  "title": "Rain",
+  "artist": "秦基博",
+  "collection": "歌切 2026-05-19 深影 - Mikage - JMMftM_jiO0 唱满30曲才能结束的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dCLu6ZEyH?p=5",
+  "source": "mikage.js"
+},
+    {
+  "title": "冬と春",
+  "artist": "back number",
+  "collection": "歌切 2026-05-19 深影 - Mikage - JMMftM_jiO0 唱满30曲才能结束的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dCLu6ZEyH?p=6",
+  "source": "mikage.js"
+},
+    {
+  "title": "冬と春",
+  "artist": "back number",
+  "collection": "歌切 2026-05-19 深影 - Mikage - JMMftM_jiO0 唱满30曲才能结束的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dCLu6ZEyH?p=7",
+  "source": "mikage.js"
+},
+    {
+  "title": "ninelie",
+  "artist": "Aimer with chelly",
+  "collection": "歌切 2026-05-19 深影 - Mikage - JMMftM_jiO0 唱满30曲才能结束的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dCLu6ZEyH?p=8",
+  "source": "mikage.js"
+},
+    {
+  "title": "GHOST",
+  "artist": "星街すいせい",
+  "collection": "歌切 2026-05-19 深影 - Mikage - JMMftM_jiO0 唱满30曲才能结束的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dCLu6ZEyH?p=9",
+  "source": "mikage.js"
+},
+    {
+  "title": "奏",
+  "artist": "スキマスイッチ",
+  "collection": "歌切 2026-05-19 深影 - Mikage - JMMftM_jiO0 唱满30曲才能结束的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dCLu6ZEyH?p=10",
+  "source": "mikage.js"
+},
+    {
+  "title": "メフィスト",
+  "artist": "女王蜂",
+  "collection": "歌切 2026-05-19 深影 - Mikage - JMMftM_jiO0 唱满30曲才能结束的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dCLu6ZEyH?p=11",
+  "source": "mikage.js"
+},
+    {
+  "title": "flos",
+  "artist": "R Sound Design",
+  "collection": "歌切 2026-05-19 深影 - Mikage - JMMftM_jiO0 唱满30曲才能结束的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dCLu6ZEyH?p=12",
+  "source": "mikage.js"
+},
+    {
+  "title": "flos",
+  "artist": "R Sound Design",
+  "collection": "歌切 2026-05-19 深影 - Mikage - JMMftM_jiO0 唱满30曲才能结束的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dCLu6ZEyH?p=13",
+  "source": "mikage.js"
+},
+    {
+  "title": "花の唄",
+  "artist": "Aimer",
+  "collection": "歌切 2026-05-19 深影 - Mikage - JMMftM_jiO0 唱满30曲才能结束的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dCLu6ZEyH?p=14",
+  "source": "mikage.js"
+},
+    {
+  "title": "命に嫌われている。",
+  "artist": "カンザキイオリ",
+  "collection": "歌切 2026-05-19 深影 - Mikage - JMMftM_jiO0 唱满30曲才能结束的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dCLu6ZEyH?p=15",
+  "source": "mikage.js"
+},
+    {
+  "title": "雛鳥",
+  "artist": "花譜",
+  "collection": "歌切 2026-05-19 深影 - Mikage - JMMftM_jiO0 唱满30曲才能结束的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dCLu6ZEyH?p=16",
+  "source": "mikage.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "歌切 2026-05-19 深影 - Mikage - JMMftM_jiO0 唱满30曲才能结束的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dCLu6ZEyH?p=17",
+  "source": "mikage.js"
+},
+    {
+  "title": "ケッペキショウ",
+  "artist": "すこっぷ",
+  "collection": "歌切 2026-05-19 深影 - Mikage - JMMftM_jiO0 唱满30曲才能结束的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dCLu6ZEyH?p=18",
+  "source": "mikage.js"
+},
+    {
+  "title": "嘘月",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-05-19 深影 - Mikage - JMMftM_jiO0 唱满30曲才能结束的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dCLu6ZEyH?p=19",
+  "source": "mikage.js"
+},
+    {
+  "title": "アヤノの幸福理論",
+  "artist": "じん",
+  "collection": "歌切 2026-05-19 深影 - Mikage - JMMftM_jiO0 唱满30曲才能结束的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dCLu6ZEyH?p=20",
+  "source": "mikage.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "歌切 2026-05-19 深影 - Mikage - JMMftM_jiO0 唱满30曲才能结束的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dCLu6ZEyH?p=21",
+  "source": "mikage.js"
+},
+    {
+  "title": "蝶々結び",
+  "artist": "Aimer",
+  "collection": "歌切 2026-05-19 深影 - Mikage - JMMftM_jiO0 唱满30曲才能结束的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dCLu6ZEyH?p=22",
+  "source": "mikage.js"
+},
+    {
+  "title": "星屑ビーナス",
+  "artist": "Aimer",
+  "collection": "歌切 2026-05-19 深影 - Mikage - JMMftM_jiO0 唱满30曲才能结束的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dCLu6ZEyH?p=23",
+  "source": "mikage.js"
+},
+    {
+  "title": "FINAL DISTANCE",
+  "artist": "宇多田ヒカル",
+  "collection": "歌切 2026-05-19 深影 - Mikage - JMMftM_jiO0 唱满30曲才能结束的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dCLu6ZEyH?p=24",
+  "source": "mikage.js"
+},
+    {
+  "title": "エルマ",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-05-19 深影 - Mikage - JMMftM_jiO0 唱满30曲才能结束的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dCLu6ZEyH?p=25",
+  "source": "mikage.js"
+},
+    {
+  "title": "修羅",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-05-19 深影 - Mikage - JMMftM_jiO0 唱满30曲才能结束的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dCLu6ZEyH?p=26",
+  "source": "mikage.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "n-buna",
+  "collection": "歌切 2026-05-19 深影 - Mikage - JMMftM_jiO0 唱满30曲才能结束的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dCLu6ZEyH?p=27",
+  "source": "mikage.js"
+},
+    {
+  "title": "RE:I AM",
+  "artist": "Aimer",
+  "collection": "歌切 2026-05-19 深影 - Mikage - JMMftM_jiO0 唱满30曲才能结束的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dCLu6ZEyH?p=28",
+  "source": "mikage.js"
+},
+    {
+  "title": "月光",
+  "artist": "鬼束ちひろ",
+  "collection": "歌切 2026-05-19 深影 - Mikage - JMMftM_jiO0 唱满30曲才能结束的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dCLu6ZEyH?p=29",
+  "source": "mikage.js"
+},
+    {
+  "title": "すずめ",
+  "artist": "RADWIMPS",
+  "collection": "歌切 2026-05-19 深影 - Mikage - JMMftM_jiO0 唱满30曲才能结束的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dCLu6ZEyH?p=30",
+  "source": "mikage.js"
+},
+    {
+  "title": "1991",
+  "artist": "米津玄師",
+  "collection": "歌切 2026-05-19 深影 - Mikage - JMMftM_jiO0 唱满30曲才能结束的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dCLu6ZEyH?p=31",
+  "source": "mikage.js"
+},
+    {
+  "title": "ロストメモリー",
+  "artist": "深影",
+  "collection": "歌切 2026-05-19 深影 - Mikage - JMMftM_jiO0 唱满30曲才能结束的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dCLu6ZEyH?p=32",
+  "source": "mikage.js"
+}
+);
