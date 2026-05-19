@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 5/19/2026, 2:23:03 AM
+// 生成时间: 5/19/2026, 3:03:50 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2587,6 +2587,174 @@ window.SONG_DATA.push(
   "collection": "【💫✖歌切】[2026-05-14]今天也一起度过中午的歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BA5z6yEto?p=18",
+  "source": "kukuri.js"
+},
+    {
+  "title": "グレゴリオ",
+  "artist": "古川本舗 feat.ちびた",
+  "collection": "【💫✖歌切】[2026-05-18]最近要注意健康了 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MMLN6TESj?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ハロ/ハワユ",
+  "artist": "ナノウ(ほえほえP) feat. 初音ミク",
+  "collection": "【💫✖歌切】[2026-05-18]最近要注意健康了 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MMLN6TESj?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Stay Alive",
+  "artist": "高橋李依",
+  "collection": "【💫✖歌切】[2026-05-18]最近要注意健康了 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MMLN6TESj?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "あなたの夜が明けるまで",
+  "artist": "傘村トータ feat. IA・Fukase",
+  "collection": "【💫✖歌切】[2026-05-18]最近要注意健康了 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MMLN6TESj?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Ghost of a smile",
+  "artist": "EGOIST",
+  "collection": "【💫✖歌切】[2026-05-18]最近要注意健康了 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MMLN6TESj?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Planetes",
+  "artist": "EGOIST",
+  "collection": "【💫✖歌切】[2026-05-18]最近要注意健康了 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MMLN6TESj?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "うたかた花火",
+  "artist": "supercell",
+  "collection": "【💫✖歌切】[2026-05-18]最近要注意健康了 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MMLN6TESj?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【💫✖歌切】[2026-05-18]最近要注意健康了 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MMLN6TESj?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ギターと孤独と蒼い惑星",
+  "artist": "結束バンド",
+  "collection": "【💫✖歌切】[2026-05-18]最近要注意健康了 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MMLN6TESj?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "転がる岩、君に朝が降る",
+  "artist": "ASIAN KUNG-FU GENERATION",
+  "collection": "【💫✖歌切】[2026-05-18]最近要注意健康了 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MMLN6TESj?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【💫✖歌切】[2026-05-18]最近要注意健康了 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MMLN6TESj?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【💫✖歌切】[2026-05-18]最近要注意健康了 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MMLN6TESj?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Don't say \"lazy\"",
+  "artist": "桜高軽音部",
+  "collection": "【💫✖歌切】[2026-05-18]最近要注意健康了 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MMLN6TESj?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "only my railgun",
+  "artist": "fripSide",
+  "collection": "【💫✖歌切】[2026-05-18]最近要注意健康了 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MMLN6TESj?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "中島愛， May'n",
+  "collection": "【💫✖歌切】[2026-05-18]最近要注意健康了 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MMLN6TESj?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Paradise Lost",
+  "artist": "茅原実里",
+  "collection": "【💫✖歌切】[2026-05-18]最近要注意健康了 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MMLN6TESj?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "JOINT",
+  "artist": "川田まみ",
+  "collection": "【💫✖歌切】[2026-05-18]最近要注意健康了 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MMLN6TESj?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Paradisus-Paradoxum",
+  "artist": "MYTH&ROID",
+  "collection": "【💫✖歌切】[2026-05-18]最近要注意健康了 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MMLN6TESj?p=18",
+  "source": "kukuri.js"
+},
+    {
+  "title": "mind as Judgment",
+  "artist": "飛蘭",
+  "collection": "【💫✖歌切】[2026-05-18]最近要注意健康了 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MMLN6TESj?p=19",
+  "source": "kukuri.js"
+},
+    {
+  "title": "I beg you",
+  "artist": "Aimer",
+  "collection": "【💫✖歌切】[2026-05-18]最近要注意健康了 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MMLN6TESj?p=20",
+  "source": "kukuri.js"
+},
+    {
+  "title": "花の唄",
+  "artist": "Aimer",
+  "collection": "【💫✖歌切】[2026-05-18]最近要注意健康了 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MMLN6TESj?p=21",
   "source": "kukuri.js"
 }
 );

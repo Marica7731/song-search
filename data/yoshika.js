@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 5/19/2026, 2:26:04 AM
+// 生成时间: 5/19/2026, 3:07:09 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -32539,6 +32539,142 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-05-17]初見さんいらっしゃい！1曲いかがですか！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19p5o69EAQ?p=23",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "collection": "【🍠🦍歌切】[2026-05-18]初見さんいらっしゃい！1曲聞いてって～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1URLT6kEGm?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-05-18]初見さんいらっしゃい！1曲聞いてって～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1URLT6kEGm?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao",
+  "collection": "【🍠🦍歌切】[2026-05-18]初見さんいらっしゃい！1曲聞いてって～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1URLT6kEGm?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "【🍠🦍歌切】[2026-05-18]初見さんいらっしゃい！1曲聞いてって～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1URLT6kEGm?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "【🍠🦍歌切】[2026-05-18]初見さんいらっしゃい！1曲聞いてって～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1URLT6kEGm?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "爆裂愛してる",
+  "artist": "M!LK",
+  "collection": "【🍠🦍歌切】[2026-05-18]初見さんいらっしゃい！1曲聞いてって～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1URLT6kEGm?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "となりのトトロ",
+  "artist": "井上あずみ",
+  "collection": "【🍠🦍歌切】[2026-05-18]初見さんいらっしゃい！1曲聞いてって～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1URLT6kEGm?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "明日への扉",
+  "artist": "川嶋あい",
+  "collection": "【🍠🦍歌切】[2026-05-18]初見さんいらっしゃい！1曲聞いてって～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1URLT6kEGm?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "【🍠🦍歌切】[2026-05-18]初見さんいらっしゃい！1曲聞いてって～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1URLT6kEGm?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "心絵",
+  "artist": "ロードオブメジャー",
+  "collection": "【🍠🦍歌切】[2026-05-18]初見さんいらっしゃい！1曲聞いてって～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1URLT6kEGm?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "カサブタ",
+  "artist": "千綿偉功",
+  "collection": "【🍠🦍歌切】[2026-05-18]初見さんいらっしゃい！1曲聞いてって～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1URLT6kEGm?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "AXIA～ダイスキでダイキライ",
+  "artist": "ワルキューレ",
+  "collection": "【🍠🦍歌切】[2026-05-18]初見さんいらっしゃい！1曲聞いてって～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1URLT6kEGm?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "崖の上のポニョ",
+  "artist": "大橋のぞみ",
+  "collection": "【🍠🦍歌切】[2026-05-18]初見さんいらっしゃい！1曲聞いてって～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1URLT6kEGm?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Pray",
+  "artist": "Tommy heavenly6",
+  "collection": "【🍠🦍歌切】[2026-05-18]初見さんいらっしゃい！1曲聞いてって～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1URLT6kEGm?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おはよう。",
+  "artist": "Keno",
+  "collection": "【🍠🦍歌切】[2026-05-18]初見さんいらっしゃい！1曲聞いてって～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1URLT6kEGm?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Before the Moment",
+  "artist": "喜多村英梨",
+  "collection": "【🍠🦍歌切】[2026-05-18]初見さんいらっしゃい！1曲聞いてって～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1URLT6kEGm?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アンパンマンのマーチ",
+  "artist": "ドリーミング",
+  "collection": "【🍠🦍歌切】[2026-05-18]初見さんいらっしゃい！1曲聞いてって～！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1URLT6kEGm?p=17",
   "source": "yoshika.js"
 }
 );

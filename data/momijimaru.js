@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 5/19/2026, 2:22:37 AM
+// 生成时间: 5/19/2026, 3:03:06 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5227,6 +5227,174 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-05-17]高評價300耐久歌回🍁✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qb5o6SEkZ?p=41",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "翼をください",
+  "artist": "赤い鳥",
+  "collection": "【🍁歌切】[2026-05-18]一曲如何…!! 治愈系emo弹唱歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K5LN6AE2X?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "島人ぬ宝",
+  "artist": "BEGIN",
+  "collection": "【🍁歌切】[2026-05-18]一曲如何…!! 治愈系emo弹唱歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K5LN6AE2X?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "島人ぬ宝",
+  "artist": "BEGIN",
+  "collection": "【🍁歌切】[2026-05-18]一曲如何…!! 治愈系emo弹唱歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K5LN6AE2X?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-05-18]一曲如何…!! 治愈系emo弹唱歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K5LN6AE2X?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "自由への扉",
+  "artist": "小此木麻里",
+  "collection": "【🍁歌切】[2026-05-18]一曲如何…!! 治愈系emo弹唱歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K5LN6AE2X?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
+  "collection": "【🍁歌切】[2026-05-18]一曲如何…!! 治愈系emo弹唱歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K5LN6AE2X?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "【🍁歌切】[2026-05-18]一曲如何…!! 治愈系emo弹唱歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K5LN6AE2X?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "花束",
+  "artist": "back number",
+  "collection": "【🍁歌切】[2026-05-18]一曲如何…!! 治愈系emo弹唱歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K5LN6AE2X?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "シンデレラボーイ",
+  "artist": "Saucy Dog",
+  "collection": "【🍁歌切】[2026-05-18]一曲如何…!! 治愈系emo弹唱歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K5LN6AE2X?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "あたしが死んでも",
+  "artist": "コレサワ",
+  "collection": "【🍁歌切】[2026-05-18]一曲如何…!! 治愈系emo弹唱歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K5LN6AE2X?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "さよならエレジー",
+  "artist": "菅田将暉",
+  "collection": "【🍁歌切】[2026-05-18]一曲如何…!! 治愈系emo弹唱歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K5LN6AE2X?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "西沢さんP feat. GUMI",
+  "collection": "【🍁歌切】[2026-05-18]一曲如何…!! 治愈系emo弹唱歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K5LN6AE2X?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-05-18]一曲如何…!! 治愈系emo弹唱歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K5LN6AE2X?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "アイ・アイ・ア",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-05-18]一曲如何…!! 治愈系emo弹唱歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K5LN6AE2X?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "レディメイド",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-05-18]一曲如何…!! 治愈系emo弹唱歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K5LN6AE2X?p=15",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "上を向いて歩こう",
+  "artist": "坂本九",
+  "collection": "【🍁歌切】[2026-05-18]一曲如何…!! 治愈系emo弹唱歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K5LN6AE2X?p=16",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "I LOVE YOU",
+  "artist": "尾崎豊",
+  "collection": "【🍁歌切】[2026-05-18]一曲如何…!! 治愈系emo弹唱歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K5LN6AE2X?p=17",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "アイロニ",
+  "artist": "すこっぷ feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-05-18]一曲如何…!! 治愈系emo弹唱歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K5LN6AE2X?p=18",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "【🍁歌切】[2026-05-18]一曲如何…!! 治愈系emo弹唱歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K5LN6AE2X?p=19",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "フィナーレ。",
+  "artist": "eill",
+  "collection": "【🍁歌切】[2026-05-18]一曲如何…!! 治愈系emo弹唱歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K5LN6AE2X?p=20",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "片っぽ",
+  "artist": "eill",
+  "collection": "【🍁歌切】[2026-05-18]一曲如何…!! 治愈系emo弹唱歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K5LN6AE2X?p=21",
   "source": "momijimaru.js"
 }
 );

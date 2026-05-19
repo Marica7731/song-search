@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 5/19/2026, 2:24:22 AM
+// 生成时间: 5/19/2026, 3:06:10 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -15531,6 +15531,302 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-05-11]用多种风格演绎歌曲 ✧ 以不同姿态歌唱 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SZ5A6cE1E?p=22",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ルージュの伝言",
+  "artist": "荒井由実",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "歩いて帰ろう",
+  "artist": "斉藤和義",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "フライディ・チャイナタウン",
+  "artist": "泰葉",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "怪物",
+  "artist": "YOASOBI",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "あの夢をなぞって",
+  "artist": "YOASOBI",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "阿修羅ちゃん",
+  "artist": "Ado",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Let It Be",
+  "artist": "The Beatles",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "My Heart Will Go On",
+  "artist": "Céline Dion",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Take Me Home, Country Roads",
+  "artist": "John Denver",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ギターと孤独と蒼い惑星",
+  "artist": "結束バンド",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=14",
+  "source": "ririsya.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=15",
+  "source": "ririsya.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=16",
+  "source": "ririsya.js"
+},
+    {
+  "title": "瞳をとじて",
+  "artist": "平井堅",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=17",
+  "source": "ririsya.js"
+},
+    {
+  "title": "高嶺の花子さん",
+  "artist": "back number",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=18",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=19",
+  "source": "ririsya.js"
+},
+    {
+  "title": "閃光少女",
+  "artist": "東京事変",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=20",
+  "source": "ririsya.js"
+},
+    {
+  "title": "It's My Life",
+  "artist": "Bon Jovi",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=21",
+  "source": "ririsya.js"
+},
+    {
+  "title": "そばかす",
+  "artist": "JUDY AND MARY",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=22",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=23",
+  "source": "ririsya.js"
+},
+    {
+  "title": "月光花",
+  "artist": "Janne Da Arc",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=24",
+  "source": "ririsya.js"
+},
+    {
+  "title": "あたしを彼女にしたいなら",
+  "artist": "コレサワ",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=25",
+  "source": "ririsya.js"
+},
+    {
+  "title": "この恋はスクープされない",
+  "artist": "コレサワ",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=26",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=27",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ドレミファロンド",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=28",
+  "source": "ririsya.js"
+},
+    {
+  "title": "赤い糸",
+  "artist": "コブクロ",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=29",
+  "source": "ririsya.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=30",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ヒロイン",
+  "artist": "back number",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=31",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Bad Day",
+  "artist": "Daniel Powter",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=32",
+  "source": "ririsya.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo feat. 初音ミク",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=33",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP feat. 初音ミク",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=34",
+  "source": "ririsya.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat. IA",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=35",
+  "source": "ririsya.js"
+},
+    {
+  "title": "小夜子",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=36",
+  "source": "ririsya.js"
+},
+    {
+  "title": "God knows...",
+  "artist": "平野綾",
+  "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=37",
   "source": "ririsya.js"
 }
 );
