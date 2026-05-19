@@ -1458,6 +1458,12 @@
       return Number(stat.totalSongs || stat.count || stat.total || 0);
     }
 
+    function compareSourcesByCount(a, b) {
+      const countDiff = sourceCount(b) - sourceCount(a);
+      if (countDiff) return countDiff;
+      return sourceName(a).localeCompare(sourceName(b), 'zh-Hans');
+    }
+
     function isValidArtist(value) {
       const text = String(value || '').trim();
       return text && text !== '来源处未提供标准格式歌手' && text !== '未知';
@@ -1593,7 +1599,6 @@
 
     function saveHomeFilters() {
       writeJsonStorage(STORAGE_KEYS.filters, {
-        source: state.source,
         sort: state.sort,
         pageSize: state.pageSize,
         fields: Array.from(state.fields)
@@ -1602,9 +1607,6 @@
 
     function restoreHomeFilters(params) {
       const saved = readJsonStorage(STORAGE_KEYS.filters);
-      if (!params.has('source') && typeof saved.source === 'string') {
-        state.source = saved.source || 'all';
-      }
       if (!params.has('sort') && typeof saved.sort === 'string') {
         state.sort = ['pubdate_desc', 'pubdate_asc'].includes(saved.sort) ? saved.sort : 'pubdate_desc';
       }
@@ -1685,7 +1687,7 @@
 
     function buildSourceOptions(filter = '') {
       const needle = filter.trim().toLowerCase();
-      const entries = ['all'].concat(state.files);
+      const entries = ['all'].concat(state.files.slice().sort(compareSourcesByCount));
       return entries.filter(file => {
         const label = `${sourceName(file)} ${file}`.toLowerCase();
         return !needle || label.includes(needle);
@@ -1697,13 +1699,14 @@
       const mobile = $('#sourceMobile');
       const mobileOptions = $('#mobileSourceOptions');
       const entries = buildSourceOptions(filter);
+      const allSources = ['all'].concat(state.files.slice().sort(compareSourcesByCount));
       list.innerHTML = entries.map(file => `
         <button class="source-item ${state.source === file ? 'active' : ''}" data-source="${escapeHtml(file)}">
           <span>${escapeHtml(sourceName(file))}</span>
           <span class="source-count">${formatNumber(sourceCount(file))}</span>
         </button>
       `).join('');
-      mobile.innerHTML = ['all'].concat(state.files).map(file => `
+      mobile.innerHTML = allSources.map(file => `
         <option value="${escapeHtml(file)}">${escapeHtml(sourceName(file))} (${formatNumber(sourceCount(file))})</option>
       `).join('');
       mobile.value = state.source;
@@ -1801,7 +1804,6 @@
     function syncUrl() {
       const params = new URLSearchParams();
       if (state.q) params.set('q', state.q);
-      if (state.source !== 'all') params.set('source', state.source);
       if (state.sort !== 'pubdate_desc') params.set('sort', state.sort);
       if (state.page > 1) params.set('page', String(state.page));
       if (state.pageSize !== 40) params.set('pageSize', String(state.pageSize));
@@ -1812,7 +1814,7 @@
     function readUrl() {
       const params = new URLSearchParams(location.search);
       state.q = params.get('q') || '';
-      state.source = params.get('source') || 'all';
+      state.source = 'all';
       state.sort = params.get('sort') || 'pubdate_desc';
       state.page = Math.max(1, Number(params.get('page') || '1'));
       state.pageSize = Math.max(20, Math.min(80, Number(params.get('pageSize') || '40')));
@@ -1839,6 +1841,7 @@
         totalSongs: payload.totalSongs || 0,
         searchUnique: payload.totalUnique || 0
       };
+      state.files.sort(compareSourcesByCount);
       renderSources();
       renderMetrics();
       saveHomeFilters();
