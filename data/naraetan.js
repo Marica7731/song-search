@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 5/19/2026, 6:43:37 PM
+// 生成时间: 5/19/2026, 7:23:58 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8707,6 +8707,110 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-17]星期日的悠闲歌回🌟 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yC5o6gEM1?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "DAN DAN 心魅かれてく",
+  "artist": "FIELD OF VIEW",
+  "collection": "【歌切】[2026-05-19]来听听看我唱得好不好‼️👩‍🎤请听完告诉我吧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1apL66CE2i?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ナツメグ",
+  "artist": "PURPLE BUBBLE",
+  "collection": "【歌切】[2026-05-19]来听听看我唱得好不好‼️👩‍🎤请听完告诉我吧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1apL66CE2i?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "【歌切】[2026-05-19]来听听看我唱得好不好‼️👩‍🎤请听完告诉我吧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1apL66CE2i?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat. 初音ミク",
+  "collection": "【歌切】[2026-05-19]来听听看我唱得好不好‼️👩‍🎤请听完告诉我吧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1apL66CE2i?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-05-19]来听听看我唱得好不好‼️👩‍🎤请听完告诉我吧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1apL66CE2i?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "いけないボーダーライン",
+  "artist": "ワルキューレ",
+  "collection": "【歌切】[2026-05-19]来听听看我唱得好不好‼️👩‍🎤请听完告诉我吧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1apL66CE2i?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "愛のかたまり",
+  "artist": "DOMOTO",
+  "collection": "【歌切】[2026-05-19]来听听看我唱得好不好‼️👩‍🎤请听完告诉我吧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1apL66CE2i?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Stellar Stellar",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-05-19]来听听看我唱得好不好‼️👩‍🎤请听完告诉我吧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1apL66CE2i?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "炉心融解",
+  "artist": "iroha feat. 鏡音リン",
+  "collection": "【歌切】[2026-05-19]来听听看我唱得好不好‼️👩‍🎤请听完告诉我吧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1apL66CE2i?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Pretender",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-05-19]来听听看我唱得好不好‼️👩‍🎤请听完告诉我吧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1apL66CE2i?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Super Driver",
+  "artist": "平野綾",
+  "collection": "【歌切】[2026-05-19]来听听看我唱得好不好‼️👩‍🎤请听完告诉我吧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1apL66CE2i?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "メリッサ",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-05-19]来听听看我唱得好不好‼️👩‍🎤请听完告诉我吧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1apL66CE2i?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ロビンソン",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-05-19]来听听看我唱得好不好‼️👩‍🎤请听完告诉我吧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1apL66CE2i?p=13",
   "source": "naraetan.js"
 },
     {

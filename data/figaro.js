@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 5/19/2026, 6:44:04 PM
+// 生成时间: 5/19/2026, 7:24:24 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -30987,6 +30987,110 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】#267[2026-05-17]睡眠导入歌回✨适合睡前放松时间🌙 Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19s5o6pENz?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-05-19]出道2222日纪念直播！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1htL66gEte?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "ピースサイン",
+  "artist": "米津玄師",
+  "collection": "【💐歌切】[2026-05-19]出道2222日纪念直播！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1htL66gEte?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "花も騒めく",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-05-19]出道2222日纪念直播！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1htL66gEte?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "猫",
+  "artist": "DISH//",
+  "collection": "【💐歌切】[2026-05-19]出道2222日纪念直播！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1htL66gEte?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "恋",
+  "artist": "星野源",
+  "collection": "【💐歌切】[2026-05-19]出道2222日纪念直播！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1htL66gEte?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "中島愛",
+  "collection": "【💐歌切】[2026-05-19]出道2222日纪念直播！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1htL66gEte?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "さよーならまたいつか！",
+  "artist": "米津玄師",
+  "collection": "【💐歌切】[2026-05-19]出道2222日纪念直播！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1htL66gEte?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "HoneyWorks",
+  "collection": "【💐歌切】[2026-05-19]出道2222日纪念直播！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1htL66gEte?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "夏の半券",
+  "artist": "みきとP",
+  "collection": "【💐歌切】[2026-05-19]出道2222日纪念直播！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1htL66gEte?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP",
+  "collection": "【💐歌切】[2026-05-19]出道2222日纪念直播！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1htL66gEte?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "朱色の砂浜",
+  "artist": "みきとP",
+  "collection": "【💐歌切】[2026-05-19]出道2222日纪念直播！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1htL66gEte?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "魔法",
+  "artist": "KOTORI",
+  "collection": "【💐歌切】[2026-05-19]出道2222日纪念直播！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1htL66gEte?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "ソワレ",
+  "artist": "星街すいせい",
+  "collection": "【💐歌切】[2026-05-19]出道2222日纪念直播！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1htL66gEte?p=13",
   "source": "figaro.js"
 }
 );
