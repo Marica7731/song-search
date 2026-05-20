@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 5/20/2026, 8:35:45 PM
+// 生成时间: 5/20/2026, 9:16:48 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5395,6 +5395,102 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-05-18]一曲如何…!! 治愈系emo弹唱歌回🍁✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K5LN6AE2X?p=21",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【🍁歌切】[2026-05-20]早上好！来一场悠闲的杂谈和歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oTLs6BEA5?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【🍁歌切】[2026-05-20]早上好！来一场悠闲的杂谈和歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oTLs6BEA5?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat. IA",
+  "collection": "【🍁歌切】[2026-05-20]早上好！来一场悠闲的杂谈和歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oTLs6BEA5?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "季節と私の話。",
+  "artist": "めいちゃん",
+  "collection": "【🍁歌切】[2026-05-20]早上好！来一场悠闲的杂谈和歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oTLs6BEA5?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-05-20]早上好！来一场悠闲的杂谈和歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oTLs6BEA5?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "デイブレイクフロントライン",
+  "artist": "Orangestar feat. IA",
+  "collection": "【🍁歌切】[2026-05-20]早上好！来一场悠闲的杂谈和歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oTLs6BEA5?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "シャリューゲ",
+  "artist": "*Luna feat. 音街ウナ・Rana",
+  "collection": "【🍁歌切】[2026-05-20]早上好！来一场悠闲的杂谈和歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oTLs6BEA5?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "一二三",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-05-20]早上好！来一场悠闲的杂谈和歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oTLs6BEA5?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "我愛你",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-05-20]早上好！来一场悠闲的杂谈和歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oTLs6BEA5?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Minute by Minute",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-05-20]早上好！来一场悠闲的杂谈和歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oTLs6BEA5?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "青く在れ",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-05-20]早上好！来一场悠闲的杂谈和歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oTLs6BEA5?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "閃光花",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-05-20]早上好！来一场悠闲的杂谈和歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oTLs6BEA5?p=12",
   "source": "momijimaru.js"
 }
 );

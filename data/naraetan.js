@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 5/20/2026, 8:36:59 PM
+// 生成时间: 5/20/2026, 9:17:46 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8811,6 +8811,118 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-19]来听听看我唱得好不好‼️👩‍🎤请听完告诉我吧 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1apL66CE2i?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "【歌切】[2026-05-20]初次来访的朋友和老观众们都热烈欢迎😉 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbLW6vEY9?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-05-20]初次来访的朋友和老观众们都热烈欢迎😉 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbLW6vEY9?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "赤いスイートピー",
+  "artist": "松田聖子",
+  "collection": "【歌切】[2026-05-20]初次来访的朋友和老观众们都热烈欢迎😉 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbLW6vEY9?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-20]初次来访的朋友和老观众们都热烈欢迎😉 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbLW6vEY9?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "DUET",
+  "artist": "ZICO & 幾田りら",
+  "collection": "【歌切】[2026-05-20]初次来访的朋友和老观众们都热烈欢迎😉 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbLW6vEY9?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "可愛くてごめん",
+  "artist": "HoneyWorks",
+  "collection": "【歌切】[2026-05-20]初次来访的朋友和老观众们都热烈欢迎😉 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbLW6vEY9?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "PEACH",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-05-20]初次来访的朋友和老观众们都热烈欢迎😉 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbLW6vEY9?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "わたしの一番かわいいところ",
+  "artist": "FRUITS ZIPPER",
+  "collection": "【歌切】[2026-05-20]初次来访的朋友和老观众们都热烈欢迎😉 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbLW6vEY9?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "森の小さなレストラン",
+  "artist": "手嶌葵",
+  "collection": "【歌切】[2026-05-20]初次来访的朋友和老观众们都热烈欢迎😉 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbLW6vEY9?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "adrenaline!!!",
+  "artist": "TrySail",
+  "collection": "【歌切】[2026-05-20]初次来访的朋友和老观众们都热烈欢迎😉 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbLW6vEY9?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27",
+  "collection": "【歌切】[2026-05-20]初次来访的朋友和老观众们都热烈欢迎😉 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbLW6vEY9?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "青空のラプソディ",
+  "artist": "Fhána",
+  "collection": "【歌切】[2026-05-20]初次来访的朋友和老观众们都热烈欢迎😉 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbLW6vEY9?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ(平野綾)",
+  "collection": "【歌切】[2026-05-20]初次来访的朋友和老观众们都热烈欢迎😉 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbLW6vEY9?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "シェリル・ノーム starring May'n ランカ・リー=中島愛",
+  "collection": "【歌切】[2026-05-20]初次来访的朋友和老观众们都热烈欢迎😉 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbLW6vEY9?p=14",
   "source": "naraetan.js"
 },
     {

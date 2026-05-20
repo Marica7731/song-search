@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 5/20/2026, 8:53:47 PM
+// 生成时间: 5/20/2026, 9:33:03 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9795,6 +9795,54 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-05-20 葉月ひな🌱🎶 UJE6Y6fAJxg 有通知！在悠闲的夜晚时光里享受治愈的长笛演奏〜！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZPLs66EE3?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-05-20 炭酸水🥤｡oO Vsinger GwoSb3-fZNI 初次见面，我是Vsinger 碳酸水🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cFLs65Emx?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "夜に藍",
+  "artist": "月詠み",
+  "collection": "歌切 2026-05-20 炭酸水🥤｡oO Vsinger GwoSb3-fZNI 初次见面，我是Vsinger 碳酸水🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cFLs65Emx?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "夏が来たから、",
+  "artist": "炭酸水",
+  "collection": "歌切 2026-05-20 炭酸水🥤｡oO Vsinger GwoSb3-fZNI 初次见面，我是Vsinger 碳酸水🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cFLs65Emx?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "正しくなれない",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "歌切 2026-05-20 炭酸水🥤｡oO Vsinger GwoSb3-fZNI 初次见面，我是Vsinger 碳酸水🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cFLs65Emx?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "うたかた花火",
+  "artist": "supercell",
+  "collection": "歌切 2026-05-20 炭酸水🥤｡oO Vsinger GwoSb3-fZNI 初次见面，我是Vsinger 碳酸水🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cFLs65Emx?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "フィナーレ。",
+  "artist": "eill",
+  "collection": "歌切 2026-05-20 炭酸水🥤｡oO Vsinger GwoSb3-fZNI 初次见面，我是Vsinger 碳酸水🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cFLs65Emx?p=6",
   "source": "others.js"
 },
     {
