@@ -1,6 +1,6 @@
 // すとらてぃあ-Stratia - 歌单数据 (多合集汇总)
 // 来源: BV1KSRXBwE2v
-// 生成时间: 5/20/2026, 8:10:00 PM
+// 生成时间: 5/20/2026, 8:50:54 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -291,6 +291,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-17]想唱抒情歌的心情...💭🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bL5Z6EEpn?p=12",
+  "source": "stratia.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40mP",
+  "collection": "【歌切】[2026-05-20]悠闲地唱会儿歌🦋🩵请听一首歌再走吧！ すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AZLW61EAP?p=1",
+  "source": "stratia.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん",
+  "collection": "【歌切】[2026-05-20]悠闲地唱会儿歌🦋🩵请听一首歌再走吧！ すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AZLW61EAP?p=2",
+  "source": "stratia.js"
+},
+    {
+  "title": "アヤノの幸福理論",
+  "artist": "じん",
+  "collection": "【歌切】[2026-05-20]悠闲地唱会儿歌🦋🩵请听一首歌再走吧！ すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AZLW61EAP?p=3",
+  "source": "stratia.js"
+},
+    {
+  "title": "少年ブレイヴ",
+  "artist": "じん",
+  "collection": "【歌切】[2026-05-20]悠闲地唱会儿歌🦋🩵请听一首歌再走吧！ すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AZLW61EAP?p=4",
+  "source": "stratia.js"
+},
+    {
+  "title": "あなたは煙草 私はシャボン",
+  "artist": "ラブリーサマーちゃん",
+  "collection": "【歌切】[2026-05-20]悠闲地唱会儿歌🦋🩵请听一首歌再走吧！ すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AZLW61EAP?p=5",
+  "source": "stratia.js"
+},
+    {
+  "title": "夜王子と月の姫",
+  "artist": "セントチヒロ・チッチ(BiSH)",
+  "collection": "【歌切】[2026-05-20]悠闲地唱会儿歌🦋🩵请听一首歌再走吧！ すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AZLW61EAP?p=6",
+  "source": "stratia.js"
+},
+    {
+  "title": "地球-まる",
+  "artist": "坂口有望",
+  "collection": "【歌切】[2026-05-20]悠闲地唱会儿歌🦋🩵请听一首歌再走吧！ すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AZLW61EAP?p=7",
+  "source": "stratia.js"
+},
+    {
+  "title": "好-じょし",
+  "artist": "坂口有望",
+  "collection": "【歌切】[2026-05-20]悠闲地唱会儿歌🦋🩵请听一首歌再走吧！ すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AZLW61EAP?p=8",
+  "source": "stratia.js"
+},
+    {
+  "title": "シュノーケル",
+  "artist": "文藝天国",
+  "collection": "【歌切】[2026-05-20]悠闲地唱会儿歌🦋🩵请听一首歌再走吧！ すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AZLW61EAP?p=9",
+  "source": "stratia.js"
+},
+    {
+  "title": "明日も",
+  "artist": "SHISHAMO",
+  "collection": "【歌切】[2026-05-20]悠闲地唱会儿歌🦋🩵请听一首歌再走吧！ すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AZLW61EAP?p=10",
+  "source": "stratia.js"
+},
+    {
+  "title": "明日も",
+  "artist": "SHISHAMO",
+  "collection": "【歌切】[2026-05-20]悠闲地唱会儿歌🦋🩵请听一首歌再走吧！ すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AZLW61EAP?p=11",
   "source": "stratia.js"
 }
 );

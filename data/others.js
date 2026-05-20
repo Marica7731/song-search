@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 5/20/2026, 8:12:16 PM
+// 生成时间: 5/20/2026, 8:53:47 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9683,6 +9683,118 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-05-17 紬カルラ / Tsumugi Carla _omXfbM1MLk KARAOKE Streaming Yeah!!!×92",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bq5o6LEWZ?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "五月は花緑青の窓辺から",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-05-20 葉月ひな🌱🎶 UJE6Y6fAJxg 有通知！在悠闲的夜晚时光里享受治愈的长笛演奏〜！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZPLs66EE3?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "風のゆくえ",
+  "artist": "Ado",
+  "collection": "歌切 2026-05-20 葉月ひな🌱🎶 UJE6Y6fAJxg 有通知！在悠闲的夜晚时光里享受治愈的长笛演奏〜！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZPLs66EE3?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "星屑ビーナス",
+  "artist": "Aimer",
+  "collection": "歌切 2026-05-20 葉月ひな🌱🎶 UJE6Y6fAJxg 有通知！在悠闲的夜晚时光里享受治愈的长笛演奏〜！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZPLs66EE3?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "歌切 2026-05-20 葉月ひな🌱🎶 UJE6Y6fAJxg 有通知！在悠闲的夜晚时光里享受治愈的长笛演奏〜！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZPLs66EE3?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "フリージア",
+  "artist": "Uru",
+  "collection": "歌切 2026-05-20 葉月ひな🌱🎶 UJE6Y6fAJxg 有通知！在悠闲的夜晚时光里享受治愈的长笛演奏〜！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZPLs66EE3?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "うたかた花火",
+  "artist": "supercell",
+  "collection": "歌切 2026-05-20 葉月ひな🌱🎶 UJE6Y6fAJxg 有通知！在悠闲的夜晚时光里享受治愈的长笛演奏〜！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZPLs66EE3?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "アカシア",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "歌切 2026-05-20 葉月ひな🌱🎶 UJE6Y6fAJxg 有通知！在悠闲的夜晚时光里享受治愈的长笛演奏〜！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZPLs66EE3?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "ホシアイ",
+  "artist": "レフティーモンスターP feat. GUMI",
+  "collection": "歌切 2026-05-20 葉月ひな🌱🎶 UJE6Y6fAJxg 有通知！在悠闲的夜晚时光里享受治愈的长笛演奏〜！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZPLs66EE3?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "六等星",
+  "artist": "ざらめ",
+  "collection": "歌切 2026-05-20 葉月ひな🌱🎶 UJE6Y6fAJxg 有通知！在悠闲的夜晚时光里享受治愈的长笛演奏〜！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZPLs66EE3?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ",
+  "collection": "歌切 2026-05-20 葉月ひな🌱🎶 UJE6Y6fAJxg 有通知！在悠闲的夜晚时光里享受治愈的长笛演奏〜！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZPLs66EE3?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "歌切 2026-05-20 葉月ひな🌱🎶 UJE6Y6fAJxg 有通知！在悠闲的夜晚时光里享受治愈的长笛演奏〜！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZPLs66EE3?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "Stellar Stellar",
+  "artist": "星街すいせい",
+  "collection": "歌切 2026-05-20 葉月ひな🌱🎶 UJE6Y6fAJxg 有通知！在悠闲的夜晚时光里享受治愈的长笛演奏〜！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZPLs66EE3?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "Violet Snow",
+  "artist": "結城アイラ",
+  "collection": "歌切 2026-05-20 葉月ひな🌱🎶 UJE6Y6fAJxg 有通知！在悠闲的夜晚时光里享受治愈的长笛演奏〜！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZPLs66EE3?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "Moonlight Path",
+  "artist": "葉月ひな",
+  "collection": "歌切 2026-05-20 葉月ひな🌱🎶 UJE6Y6fAJxg 有通知！在悠闲的夜晚时光里享受治愈的长笛演奏〜！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZPLs66EE3?p=14",
   "source": "others.js"
 },
     {
