@@ -79,7 +79,7 @@ https://marica7731.github.io/song-search/
 
 ```text
 首页桌面：在复制下拉里选择“本页：歌名 - 歌手”“本页：歌名 - 歌手 + 链接”“本页 TSV”“全部结果”或“自定义字段”，再点“复制”；点“字段”展开自定义字段设置；点结果里的歌名、歌手、合集、来源、BV 或日期可单独复制。
-首页 H5：点筛选 chip 打开底部弹层修改来源、排序、搜索范围和每页数量；点“复制”打开底部弹层复制当前页的“歌名 - 歌手”“歌名 - 歌手 + 链接”“当前结果 TSV”或自定义字段；单条结果保留图标按钮，顺序为“编辑稿件 / 复制链接 / 打开B站”。
+首页 H5：点筛选 chip 打开底部弹层修改来源、排序、搜索范围和每页数量；点“复制”打开底部弹层复制当前页的“歌名 - 歌手”“歌名 - 歌手 + 链接”“当前结果 TSV”或自定义字段；单条结果保留图标按钮，顺序为“复制歌名 - 歌手 / 编辑稿件 / 复制链接 / 打开B站”。
 数据页：切换 tab、来源或搜索后，刷新保留当前视图；歌曲排行桌面默认显示前 4 个场次预览，H5 默认显示前 2 个，需要完整场次时点“展开全部”或“复制场次”。
 查重页：直接点复制预设；需要改字段时展开“高级复制字段”。
 命名工具：校验后用“已确认 / 需要确认 / 缺歌手 / 待入库 / 未找到”筛选按钮收敛结果，点“复制”复制当前可见结果；需要外部查找时只对待处理项逐个打开网易云搜索。
@@ -212,7 +212,7 @@ npm run check:library
 本轮全站 tab 优化新增或强化了这些生产接口：
 
 ```text
-GET  /api/search              搜索结果现在包含 rowId、sourceAlias、bvid，行内复制按 rowId 定位
+GET  /api/search              搜索结果包含 rowId、sourceAlias、bvid；首页行内复制按 rowId 定位，并兼容旧响应缺少 rowId 时的前端临时行号
 GET  /api/tabs/overview       六个主 tab 的实时概览，供优化预览页和后续总览页使用
 GET  /api/song-growth         返回 combinedRows、anomalies、cache，并按 SONG_GROWTH_CACHE_TTL_MS 缓存
 POST /api/dup-check           返回 summary、copyPresets、liveFallback，并限制 BV live fallback 数量

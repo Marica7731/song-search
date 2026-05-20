@@ -1781,6 +1781,7 @@
             <div class="song-collection">${copyableField(item.collection || '未知合集', '合集')}</div>
             <div class="song-source">${copyableField(src, '来源')}</div>
             <div class="row-actions">
+              <button class="icon-btn" type="button" title="复制歌名 - 歌手" aria-label="复制歌名 - 歌手" data-row-copy="titleArtist" data-row-id="${escapeHtml(item.rowId || '')}">${iconSvg('copy')}<span class="action-label">复制</span></button>
               ${editHref ? `<a class="icon-btn" title="编辑稿件" aria-label="编辑稿件" href="${escapeHtml(editHref)}" target="_blank" rel="noreferrer">${iconSvg('edit')}<span class="action-label">编辑</span></a>` : ''}
               <button class="icon-btn" type="button" title="复制链接" aria-label="复制链接" data-row-copy="link" data-row-id="${escapeHtml(item.rowId || '')}">${iconSvg('link')}<span class="action-label">链接</span></button>
               <a class="icon-btn" title="打开B站" aria-label="打开B站" href="${escapeHtml(item.link || '#')}" target="_blank" rel="noreferrer">${iconSvg('external')}<span class="action-label">打开</span></a>
@@ -1872,7 +1873,9 @@
         if (!res.ok) throw new Error(`search ${res.status}`);
         const payload = await res.json();
         if (requestId !== state.lastRequest) return;
-        state.items = Array.isArray(payload.items) ? payload.items : [];
+        state.items = Array.isArray(payload.items)
+          ? payload.items.map((item, index) => ({ ...item, rowId: item.rowId || String(index) }))
+          : [];
         state.total = Number(payload.total || 0);
         state.totalPages = Number(payload.totalPages || 1);
         state.page = Number(payload.page || state.page);
