@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 5/20/2026, 10:04:41 PM
+// 生成时间: 5/20/2026, 10:45:30 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3251,6 +3251,334 @@ window.SONG_DATA.push(
   "collection": "【♧🎸歌切】[2026-05-17]睡眠・工作用直播｜透过窗帘的街灯与音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SuLj6NEtM?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "携帯電話",
+  "artist": "RADWIMPS",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "時をかけるメロディー",
+  "artist": "小山田壮平",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "大好きだよ。",
+  "artist": "大塚愛",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "バンド",
+  "artist": "クリープハイプ",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "napori",
+  "artist": "Vaundy",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夜の踊り子",
+  "artist": "サカナクション",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "決意の朝に",
+  "artist": "Aqua Timez",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "眼福",
+  "artist": "米津玄師",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "らしさ",
+  "artist": "SUPER BEAVER",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ラブソング",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "雛市",
+  "artist": "女王蜂",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "まっすぐ",
+  "artist": "ヒグチアイ",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "卒業",
+  "artist": "My Hair is Bad",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "瞬き",
+  "artist": "back number",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "翡翠のまち",
+  "artist": "メル feat. 初音ミク",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ラブソング",
+  "artist": "ズーカラデル",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=17",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=18",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ニーナ",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=19",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "しあわせ",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=20",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夢の恋人",
+  "artist": "ズーカラデル",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=21",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ここにしか咲かない花",
+  "artist": "コブクロ",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=22",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "サントラ",
+  "artist": "Creepy Nuts × 菅田将暉",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=23",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Burning Friday Night",
+  "artist": "Lucky Kilimanjaro",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=24",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=25",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Planetes",
+  "artist": "EGOIST",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=26",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=27",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "八月、某、月明かり",
+  "artist": "ヨルシカ",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=28",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "アイロニ",
+  "artist": "すこっぷ feat. 初音ミク",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=29",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "笑ったり転んだり",
+  "artist": "ハンバート ハンバート",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=30",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Sunrise&Sunset",
+  "artist": "andymori",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=31",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "はなれ、ばなれ",
+  "artist": "古川P feat. 初音ミク",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=32",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "待ち合わせの途中",
+  "artist": "plenty",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=33",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "nostalgia",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=34",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Amazing Grace",
+  "artist": "John Newton",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=35",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "星の界",
+  "artist": "杉谷代水",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=36",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Tonight",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=37",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "愛のうた",
+  "artist": "ストロベリー・フラワー",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=38",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "革命",
+  "artist": "MOROHA",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=39",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "さよならはエモーション",
+  "artist": "サカナクション",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=40",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=41",
   "source": "kotatsu.js"
 }
 );
