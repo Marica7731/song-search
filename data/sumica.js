@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 5/20/2026, 9:24:30 PM
+// 生成时间: 5/20/2026, 10:05:23 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3251,6 +3251,142 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-16]中午的MABUI原声吉他弹唱‼️来听一会儿吧～☀️ -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RSL36aEsz?p=19",
+  "source": "sumica.js"
+},
+    {
+  "title": "帰りたくなったよ",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-05-20]心安的弹唱🌟多唱一些舒缓曲目，用原声吉他歌唱♩ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13zLW6ZEsg?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "スピカ",
+  "artist": "帰りの会",
+  "collection": "【歌切】[2026-05-20]心安的弹唱🌟多唱一些舒缓曲目，用原声吉他歌唱♩ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13zLW6ZEsg?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-05-20]心安的弹唱🌟多唱一些舒缓曲目，用原声吉他歌唱♩ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13zLW6ZEsg?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "そっけない",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-05-20]心安的弹唱🌟多唱一些舒缓曲目，用原声吉他歌唱♩ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13zLW6ZEsg?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "右手のネイル",
+  "artist": "とた",
+  "collection": "【歌切】[2026-05-20]心安的弹唱🌟多唱一些舒缓曲目，用原声吉他歌唱♩ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13zLW6ZEsg?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-20]心安的弹唱🌟多唱一些舒缓曲目，用原声吉他歌唱♩ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13zLW6ZEsg?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "月光浴",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-20]心安的弹唱🌟多唱一些舒缓曲目，用原声吉他歌唱♩ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13zLW6ZEsg?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "花降らし",
+  "artist": "n-buna",
+  "collection": "【歌切】[2026-05-20]心安的弹唱🌟多唱一些舒缓曲目，用原声吉他歌唱♩ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13zLW6ZEsg?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "ほっぺた",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-05-20]心安的弹唱🌟多唱一些舒缓曲目，用原声吉他歌唱♩ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13zLW6ZEsg?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "眼差し",
+  "artist": "ロクデナシ",
+  "collection": "【歌切】[2026-05-20]心安的弹唱🌟多唱一些舒缓曲目，用原声吉他歌唱♩ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13zLW6ZEsg?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "怪獣の腕のなか",
+  "artist": "きのこ帝国",
+  "collection": "【歌切】[2026-05-20]心安的弹唱🌟多唱一些舒缓曲目，用原声吉他歌唱♩ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13zLW6ZEsg?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "エンドレス",
+  "artist": "TOMOO",
+  "collection": "【歌切】[2026-05-20]心安的弹唱🌟多唱一些舒缓曲目，用原声吉他歌唱♩ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13zLW6ZEsg?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "貴方の恋人になりたいのです",
+  "artist": "阿部真央",
+  "collection": "【歌切】[2026-05-20]心安的弹唱🌟多唱一些舒缓曲目，用原声吉他歌唱♩ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13zLW6ZEsg?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "よるのあと",
+  "artist": "adieu",
+  "collection": "【歌切】[2026-05-20]心安的弹唱🌟多唱一些舒缓曲目，用原声吉他歌唱♩ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13zLW6ZEsg?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【歌切】[2026-05-20]心安的弹唱🌟多唱一些舒缓曲目，用原声吉他歌唱♩ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13zLW6ZEsg?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "ナイトルーティーン feat. suis from ヨルシカ",
+  "artist": "キタニタツヤ",
+  "collection": "【歌切】[2026-05-20]心安的弹唱🌟多唱一些舒缓曲目，用原声吉他歌唱♩ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13zLW6ZEsg?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "泣き虫上等",
+  "artist": "澄花",
+  "collection": "【歌切】[2026-05-20]心安的弹唱🌟多唱一些舒缓曲目，用原声吉他歌唱♩ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13zLW6ZEsg?p=17",
   "source": "sumica.js"
 }
 );
