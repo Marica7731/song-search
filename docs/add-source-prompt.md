@@ -37,6 +37,15 @@ culua.com / codex/server-deploy 侧：
 - commit message 用中文，例如 feat: 新增 <来源名> 歌切来源。
 ```
 
+## 删除来源提示
+
+删除来源时同样要区分两端：
+
+- GitHub Pages / `main`：以云端 `main` 为准，删除 `scripts/update-songs.js` 里的对应 `SINGER_CONFIGS` 配置项；如果旧数据文件已经被跟踪，也要同步删除 `data/<file>.js` 并从 `data/index.json` 移除对应文件和别名，避免旧页面继续加载残留来源。
+- `culua.com` / `codex/server-deploy`：删除 `scripts/singer-configs.json` 配置项、`data/<file>.js` 和 `data/index.json` 中对应索引；服务器运行时 `/var/lib/song-search/singer-configs.json` 也要先备份再删除同一项。
+- 发布必须走 `sudo /usr/local/bin/song-search-refresh.sh`，让服务器重新生成数据并 reload 服务。
+- 验证必须确认公网 `/api/bootstrap` 不再包含该 alias/file，`/api/search?q=<BV号>` 命中为 0，且旧 `/data/<file>.js` 不再可访问。
+
 ## 文件说明
 
 | 文件路径 | 文件用途 | 主要职责 | 与其他文件的关系 |
