@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 5/21/2026, 6:20:58 PM
+// 生成时间: 5/21/2026, 7:00:08 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3374,7 +3374,7 @@ window.SONG_DATA.push(
   "source": "sumica.js"
 },
     {
-  "title": "ナイトルーティーン feat. suis from ヨルシカ",
+  "title": "ナイトルーティーン",
   "artist": "キタニタツヤ",
   "collection": "【歌切】[2026-05-20]心安的弹唱🌟多唱一些舒缓曲目，用原声吉他歌唱♩ -sumica-澄花",
   "up": "前尘往事如昔故",
