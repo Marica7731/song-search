@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 5/21/2026, 10:53:22 PM
+// 生成时间: 5/21/2026, 11:36:36 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -15827,6 +15827,126 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-05-18] 午后的弹唱 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DULT62EPJ?p=37",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-05-21]雨音与弹唱 ✧ Sing with a guitar 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AjLv6VE7W?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-05-21]雨音与弹唱 ✧ Sing with a guitar 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AjLv6VE7W?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "glow",
+  "artist": "keeno",
+  "collection": "【🐍歌切】[2026-05-21]雨音与弹唱 ✧ Sing with a guitar 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AjLv6VE7W?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン",
+  "collection": "【🐍歌切】[2026-05-21]雨音与弹唱 ✧ Sing with a guitar 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AjLv6VE7W?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "恋をしたのは",
+  "artist": "aiko",
+  "collection": "【🐍歌切】[2026-05-21]雨音与弹唱 ✧ Sing with a guitar 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AjLv6VE7W?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ギブス",
+  "artist": "椎名林檎",
+  "collection": "【🐍歌切】[2026-05-21]雨音与弹唱 ✧ Sing with a guitar 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AjLv6VE7W?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "本能",
+  "artist": "椎名林檎",
+  "collection": "【🐍歌切】[2026-05-21]雨音与弹唱 ✧ Sing with a guitar 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AjLv6VE7W?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "三日月",
+  "artist": "絢香",
+  "collection": "【🐍歌切】[2026-05-21]雨音与弹唱 ✧ Sing with a guitar 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AjLv6VE7W?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "I remember you",
+  "artist": "YUI",
+  "collection": "【🐍歌切】[2026-05-21]雨音与弹唱 ✧ Sing with a guitar 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AjLv6VE7W?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Your Heaven",
+  "artist": "YUI",
+  "collection": "【🐍歌切】[2026-05-21]雨音与弹唱 ✧ Sing with a guitar 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AjLv6VE7W?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Secret of my heart",
+  "artist": "倉木麻衣",
+  "collection": "【🐍歌切】[2026-05-21]雨音与弹唱 ✧ Sing with a guitar 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AjLv6VE7W?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna",
+  "collection": "【🐍歌切】[2026-05-21]雨音与弹唱 ✧ Sing with a guitar 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AjLv6VE7W?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "最後の雨",
+  "artist": "中西保志",
+  "collection": "【🐍歌切】[2026-05-21]雨音与弹唱 ✧ Sing with a guitar 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AjLv6VE7W?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "虹",
+  "artist": "Aqua Timez",
+  "collection": "【🐍歌切】[2026-05-21]雨音与弹唱 ✧ Sing with a guitar 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AjLv6VE7W?p=14",
+  "source": "ririsya.js"
+},
+    {
+  "title": "にじのむこうに",
+  "artist": "坂田おさむ",
+  "collection": "【🐍歌切】[2026-05-21]雨音与弹唱 ✧ Sing with a guitar 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AjLv6VE7W?p=15",
   "source": "ririsya.js"
 }
 );
