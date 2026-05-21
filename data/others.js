@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 5/21/2026, 9:07:32 PM
+// 生成时间: 5/21/2026, 9:48:47 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2931,6 +2931,606 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-04-20]都市的夜晚令人兴奋。｜舒缓的歌单第29弹 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XGLa6EE3u?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-23]海苔饭的心情｜CULUA的歌单第30弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tjLa61E1y?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-04-23]海苔饭的心情｜CULUA的歌单第30弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tjLa61E1y?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ハルジオン",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-04-23]海苔饭的心情｜CULUA的歌单第30弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tjLa61E1y?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "シェードの埃は延長",
+  "artist": "ずっと真夜中でいいのに",
+  "collection": "【歌切】[2026-04-23]海苔饭的心情｜CULUA的歌单第30弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tjLa61E1y?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "勘冴えて悔しいわ",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-04-23]海苔饭的心情｜CULUA的歌单第30弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tjLa61E1y?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "脳裏上のクラッカー",
+  "artist": "ずっと真夜中でいいのに",
+  "collection": "【歌切】[2026-04-23]海苔饭的心情｜CULUA的歌单第30弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tjLa61E1y?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "世界は恋に落ちている",
+  "artist": "HoneyWorks",
+  "collection": "【歌切】[2026-04-23]海苔饭的心情｜CULUA的歌单第30弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tjLa61E1y?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "シリョクケンサ",
+  "artist": "40㍍P",
+  "collection": "【歌切】[2026-04-23]海苔饭的心情｜CULUA的歌单第30弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tjLa61E1y?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "トリノコシティ",
+  "artist": "40㍍P",
+  "collection": "【歌切】[2026-04-23]海苔饭的心情｜CULUA的歌单第30弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tjLa61E1y?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "恋愛裁判",
+  "artist": "40㍍P",
+  "collection": "【歌切】[2026-04-23]海苔饭的心情｜CULUA的歌单第30弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tjLa61E1y?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "ハッピーシンセサイザ",
+  "artist": "Easy Pop",
+  "collection": "【歌切】[2026-04-23]海苔饭的心情｜CULUA的歌单第30弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tjLa61E1y?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "メランコリック",
+  "artist": "Junky",
+  "collection": "【歌切】[2026-04-23]海苔饭的心情｜CULUA的歌单第30弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tjLa61E1y?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "優しい彗星",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-04-27]LIVE情报出了不少｜舒缓的歌单第30弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uLLa67EZy?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-27]LIVE情报出了不少｜舒缓的歌单第30弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uLLa67EZy?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-27]LIVE情报出了不少｜舒缓的歌单第30弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uLLa67EZy?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "なんでもないや",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-04-27]LIVE情报出了不少｜舒缓的歌单第30弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uLLa67EZy?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "星の消えた夜に",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-04-27]LIVE情报出了不少｜舒缓的歌单第30弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uLLa67EZy?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "心拍数♯0822",
+  "artist": "蝶々P",
+  "collection": "【歌切】[2026-04-27]LIVE情报出了不少｜舒缓的歌单第30弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uLLa67EZy?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "今はいいんだよ",
+  "artist": "MIMI",
+  "collection": "【歌切】[2026-04-27]LIVE情报出了不少｜舒缓的歌单第30弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uLLa67EZy?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "あなたの夜が明けるまで",
+  "artist": "傘村トータ",
+  "collection": "【歌切】[2026-04-27]LIVE情报出了不少｜舒缓的歌单第30弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uLLa67EZy?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "夜明けの歌",
+  "artist": "M2U x ダズビー",
+  "collection": "【歌切】[2026-04-27]LIVE情报出了不少｜舒缓的歌单第30弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uLLa67EZy?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "Planetes",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-04-27]LIVE情报出了不少｜舒缓的歌单第30弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uLLa67EZy?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "asphyxia（piano ver.)",
+  "artist": "Cö shu Nie",
+  "collection": "【歌切】[2026-05-04]随性淅淅沥沥｜舒缓的歌单第30弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YTLa6QEPp?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "想いを巡らす100の事象",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-05-04]随性淅淅沥沥｜舒缓的歌单第30弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YTLa6QEPp?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "Ghost of a smile",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-05-04]随性淅淅沥沥｜舒缓的歌单第30弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YTLa6QEPp?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "give it back",
+  "artist": "Cö shu Nie",
+  "collection": "【歌切】[2026-05-04]随性淅淅沥沥｜舒缓的歌单第30弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YTLa6QEPp?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "アポリア",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-04]随性淅淅沥沥｜舒缓的歌单第30弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YTLa6QEPp?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "天ノ弱",
+  "artist": "164",
+  "collection": "【歌切】[2026-05-04]随性淅淅沥沥｜舒缓的歌单第30弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YTLa6QEPp?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "君が夜の海に還るまで",
+  "artist": "キタニタツヤ",
+  "collection": "【歌切】[2026-05-04]随性淅淅沥沥｜舒缓的歌单第30弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YTLa6QEPp?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "【歌切】[2026-05-04]随性淅淅沥沥｜舒缓的歌单第30弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YTLa6QEPp?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "N-buna",
+  "collection": "【歌切】[2026-05-04]随性淅淅沥沥｜舒缓的歌单第30弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YTLa6QEPp?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "Alice in 冷凍庫",
+  "artist": "Orangestar",
+  "collection": "【歌切】[2026-05-07]求：点歌｜CULUA的歌单第32弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eKLa6pEPG?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "ウミユリ海底譚",
+  "artist": "n-buna",
+  "collection": "【歌切】[2026-05-07]求：点歌｜CULUA的歌单第32弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eKLa6pEPG?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP",
+  "collection": "【歌切】[2026-05-07]求：点歌｜CULUA的歌单第32弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eKLa6pEPG?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "高嶺の花子さん",
+  "artist": "back number",
+  "collection": "【歌切】[2026-05-07]求：点歌｜CULUA的歌单第32弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eKLa6pEPG?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "わたがし",
+  "artist": "back number",
+  "collection": "【歌切】[2026-05-07]求：点歌｜CULUA的歌单第32弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eKLa6pEPG?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-05-07]求：点歌｜CULUA的歌单第32弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eKLa6pEPG?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "心という名前の不可解",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-05-07]求：点歌｜CULUA的歌单第32弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eKLa6pEPG?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "都落ち",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-07]求：点歌｜CULUA的歌单第32弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eKLa6pEPG?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "少しの自信があったら、",
+  "artist": "CULUA",
+  "collection": "【歌切】[2026-05-07]求：点歌｜CULUA的歌单第32弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eKLa6pEPG?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-05-14]工作用请随意｜CULUA的歌单第33弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1euLa6nEKJ?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-05-14]工作用请随意｜CULUA的歌单第33弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1euLa6nEKJ?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ひまわりの約束",
+  "artist": "秦基博",
+  "collection": "【歌切】[2026-05-14]工作用请随意｜CULUA的歌单第33弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1euLa6nEKJ?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "瞬き",
+  "artist": "back number",
+  "collection": "【歌切】[2026-05-14]工作用请随意｜CULUA的歌单第33弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1euLa6nEKJ?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "SAD SONG",
+  "artist": "ちゃんみな",
+  "collection": "【歌切】[2026-05-14]工作用请随意｜CULUA的歌单第33弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1euLa6nEKJ?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "またね幻",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-05-14]工作用请随意｜CULUA的歌单第33弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1euLa6nEKJ?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "All Alone With You",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-05-14]工作用请随意｜CULUA的歌单第33弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1euLa6nEKJ?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-05-14]工作用请随意｜CULUA的歌单第33弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1euLa6nEKJ?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "歌よ",
+  "artist": "Belle (中村佳穂)",
+  "collection": "【歌切】[2026-05-14]工作用请随意｜CULUA的歌单第33弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1euLa6nEKJ?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【歌切】[2026-05-14]工作用请随意｜CULUA的歌单第33弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1euLa6nEKJ?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "Ref:rain",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-05-14]工作用请随意｜CULUA的歌单第33弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1euLa6nEKJ?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-14]工作用请随意｜CULUA的歌单第33弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1euLa6nEKJ?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "flos",
+  "artist": "R Sound Design",
+  "collection": "【歌切】[2026-05-19]略带怀旧｜舒缓的歌单第31弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sxLa6zE5V?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "メランコリーキッチン",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-05-19]略带怀旧｜舒缓的歌单第31弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sxLa6zE5V?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "About me",
+  "artist": "蝶々P",
+  "collection": "【歌切】[2026-05-19]略带怀旧｜舒缓的歌单第31弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sxLa6zE5V?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "チルドレン",
+  "artist": "BIN",
+  "collection": "【歌切】[2026-05-19]略带怀旧｜舒缓的歌单第31弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sxLa6zE5V?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "眩しいDNAだけ",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-05-19]略带怀旧｜舒缓的歌单第31弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sxLa6zE5V?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "てねてね",
+  "artist": "悒うつぼ",
+  "collection": "【歌切】[2026-05-19]略带怀旧｜舒缓的歌单第31弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sxLa6zE5V?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ラグトレイン",
+  "artist": "稲葉曇",
+  "collection": "【歌切】[2026-05-19]略带怀旧｜舒缓的歌单第31弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sxLa6zE5V?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "ぼくのかみさま",
+  "artist": "羽生まゐご",
+  "collection": "【歌切】[2026-05-19]略带怀旧｜舒缓的歌单第31弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sxLa6zE5V?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "阿吽のビーツ",
+  "artist": "羽生まゐご",
+  "collection": "【歌切】[2026-05-19]略带怀旧｜舒缓的歌单第31弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sxLa6zE5V?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "quiet room",
+  "artist": "有機酸",
+  "collection": "【歌切】[2026-05-19]略带怀旧｜舒缓的歌单第31弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sxLa6zE5V?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "sub/objective",
+  "artist": "ぼくのりりっくのぼうよみ",
+  "collection": "【歌切】[2026-05-19]略带怀旧｜舒缓的歌单第31弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sxLa6zE5V?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "No Title",
+  "artist": "Reol",
+  "collection": "【歌切】[2026-05-21]坚果选无盐派｜CULUA的歌单第33弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WbLa6qEok?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "パラサイト",
+  "artist": "DECO*27",
+  "collection": "【歌切】[2026-05-21]坚果选无盐派｜CULUA的歌单第33弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WbLa6qEok?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27",
+  "collection": "【歌切】[2026-05-21]坚果选无盐派｜CULUA的歌单第33弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WbLa6qEok?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "GLORIA",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-05-21]坚果选无盐派｜CULUA的歌单第33弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WbLa6qEok?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40mP",
+  "collection": "【歌切】[2026-05-21]坚果选无盐派｜CULUA的歌单第33弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WbLa6qEok?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "月曜日の朝、スカートを切られた",
+  "artist": "欅坂46",
+  "collection": "【歌切】[2026-05-21]坚果选无盐派｜CULUA的歌单第33弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WbLa6qEok?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "エキセントリック",
+  "artist": "欅坂46",
+  "collection": "【歌切】[2026-05-21]坚果选无盐派｜CULUA的歌单第33弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WbLa6qEok?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "足りない",
+  "artist": "dustcell",
+  "collection": "【歌切】[2026-05-21]坚果选无盐派｜CULUA的歌单第33弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WbLa6qEok?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "二息步行",
+  "artist": "DECO*27",
+  "collection": "【歌切】[2026-05-21]坚果选无盐派｜CULUA的歌单第33弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WbLa6qEok?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "ケッペキショウ",
+  "artist": "GUMI",
+  "collection": "【歌切】[2026-05-21]坚果选无盐派｜CULUA的歌单第33弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WbLa6qEok?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "Value",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-05-21]坚果选无盐派｜CULUA的歌单第33弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WbLa6qEok?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "限りなく灰色へ",
+  "artist": "すりい",
+  "collection": "【歌切】[2026-05-21]坚果选无盐派｜CULUA的歌单第33弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WbLa6qEok?p=12",
   "source": "others.js"
 },
     {
