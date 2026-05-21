@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 5/21/2026, 9:35:24 PM
+// 生成时间: 5/21/2026, 10:15:24 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -32675,6 +32675,222 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-05-18]初見さんいらっしゃい！1曲聞いてって～！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1URLT6kEGm?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "collection": "【🍠🦍歌切】[2026-05-21]初見歡迎！大量猩猩出没中！？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEwS?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "爆裂愛してる",
+  "artist": "M!LK",
+  "collection": "【🍠🦍歌切】[2026-05-21]初見歡迎！大量猩猩出没中！？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEwS?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "【🍠🦍歌切】[2026-05-21]初見歡迎！大量猩猩出没中！？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEwS?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "カサブタ",
+  "artist": "千綿ヒデノリ",
+  "collection": "【🍠🦍歌切】[2026-05-21]初見歡迎！大量猩猩出没中！？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEwS?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "となりのトトロ",
+  "artist": "井上あずみ",
+  "collection": "【🍠🦍歌切】[2026-05-21]初見歡迎！大量猩猩出没中！？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEwS?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-05-21]初見歡迎！大量猩猩出没中！？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEwS?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アローラ!!",
+  "artist": "サトシ（松本梨香）withピカチュウ（大谷育江）",
+  "collection": "【🍠🦍歌切】[2026-05-21]初見歡迎！大量猩猩出没中！？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEwS?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【🍠🦍歌切】[2026-05-21]初見歡迎！大量猩猩出没中！？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEwS?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao",
+  "collection": "【🍠🦍歌切】[2026-05-21]初見歡迎！大量猩猩出没中！？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEwS?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ドラえもん",
+  "artist": "星野源",
+  "collection": "【🍠🦍歌切】[2026-05-21]初見歡迎！大量猩猩出没中！？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEwS?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【🍠🦍歌切】[2026-05-21]初見歡迎！大量猩猩出没中！？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEwS?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Queens Bluff",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-05-21]初見歡迎！大量猩猩出没中！？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEwS?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【🍠🦍歌切】[2026-05-21]初見歡迎！大量猩猩出没中！？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEwS?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Star Divine",
+  "artist": "スタァライト九九組",
+  "collection": "【🍠🦍歌切】[2026-05-21]初見歡迎！大量猩猩出没中！？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEwS?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "舞台少女心得",
+  "artist": "スタァライト九九組",
+  "collection": "【🍠🦍歌切】[2026-05-21]初見歡迎！大量猩猩出没中！？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEwS?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "TOMORROW",
+  "artist": "岡本真夜",
+  "collection": "【🍠🦍歌切】[2026-05-21]初見歡迎！大量猩猩出没中！？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEwS?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Diamonds",
+  "artist": "PRINCESS PRINCESS",
+  "collection": "【🍠🦍歌切】[2026-05-21]初見歡迎！大量猩猩出没中！？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEwS?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "空も飛べるはず",
+  "artist": "スピッツ",
+  "collection": "【🍠🦍歌切】[2026-05-21]初見歡迎！大量猩猩出没中！？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEwS?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【🍠🦍歌切】[2026-05-21]初見歡迎！大量猩猩出没中！？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEwS?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "mona",
+  "collection": "【🍠🦍歌切】[2026-05-21]初見歡迎！大量猩猩出没中！？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEwS?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "【🍠🦍歌切】[2026-05-21]初見歡迎！大量猩猩出没中！？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEwS?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "ryo feat. 初音ミク",
+  "collection": "【🍠🦍歌切】[2026-05-21]初見歡迎！大量猩猩出没中！？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEwS?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "【🍠🦍歌切】[2026-05-21]初見歡迎！大量猩猩出没中！？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEwS?p=23",
+  "source": "yoshika.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "【🍠🦍歌切】[2026-05-21]初見歡迎！大量猩猩出没中！？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEwS?p=24",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アメイジング・グレイス",
+  "artist": "本田美奈子",
+  "collection": "【🍠🦍歌切】[2026-05-21]初見歡迎！大量猩猩出没中！？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEwS?p=25",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ライオンは寝ている",
+  "artist": "亜生、佐藤二朗",
+  "collection": "【🍠🦍歌切】[2026-05-21]初見歡迎！大量猩猩出没中！？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEwS?p=26",
+  "source": "yoshika.js"
+},
+    {
+  "title": "サークル・オブ・ライフ",
+  "artist": "カーメン・トゥイリー、レボ・M",
+  "collection": "【🍠🦍歌切】[2026-05-21]初見歡迎！大量猩猩出没中！？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEwS?p=27",
   "source": "yoshika.js"
 }
 );
