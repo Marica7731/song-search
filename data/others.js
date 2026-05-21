@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 5/21/2026, 8:28:59 PM
+// 生成时间: 5/21/2026, 9:07:32 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2827,6 +2827,110 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-04-16]男性声乐曲限定｜Culua′s 精选歌单第29弹 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XediBcEVE?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "春を告げる",
+  "artist": "yama",
+  "collection": "【歌切】[2026-04-20]都市的夜晚令人兴奋。｜舒缓的歌单第29弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XGLa6EE3u?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "シネマ",
+  "artist": "Ayase",
+  "collection": "【歌切】[2026-04-20]都市的夜晚令人兴奋。｜舒缓的歌单第29弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XGLa6EE3u?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "シニカルナイトプラン",
+  "artist": "Ayase",
+  "collection": "【歌切】[2026-04-20]都市的夜晚令人兴奋。｜舒缓的歌单第29弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XGLa6EE3u?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "幽靈東京",
+  "artist": "Ayase",
+  "collection": "【歌切】[2026-04-20]都市的夜晚令人兴奋。｜舒缓的歌单第29弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XGLa6EE3u?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "ヨワネハキ",
+  "artist": "MAISONdes",
+  "collection": "【歌切】[2026-04-20]都市的夜晚令人兴奋。｜舒缓的歌单第29弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XGLa6EE3u?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "Overdose",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-04-20]都市的夜晚令人兴奋。｜舒缓的歌单第29弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XGLa6EE3u?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "酔いどれ知らず",
+  "artist": "Kanaria",
+  "collection": "【歌切】[2026-04-20]都市的夜晚令人兴奋。｜舒缓的歌单第29弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XGLa6EE3u?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "YELLOW",
+  "artist": "神山羊",
+  "collection": "【歌切】[2026-04-20]都市的夜晚令人兴奋。｜舒缓的歌单第29弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XGLa6EE3u?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "ねむるまち",
+  "artist": "yama",
+  "collection": "【歌切】[2026-04-20]都市的夜晚令人兴奋。｜舒缓的歌单第29弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XGLa6EE3u?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "ロンリーユニバース",
+  "artist": "Aqu3ra",
+  "collection": "【歌切】[2026-04-20]都市的夜晚令人兴奋。｜舒缓的歌单第29弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XGLa6EE3u?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "絶え間なく藍色",
+  "artist": "獅子志司",
+  "collection": "【歌切】[2026-04-20]都市的夜晚令人兴奋。｜舒缓的歌单第29弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XGLa6EE3u?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "眩しいDNAだけ",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-04-20]都市的夜晚令人兴奋。｜舒缓的歌单第29弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XGLa6EE3u?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "限りなく灰色へ",
+  "artist": "すりぃ",
+  "collection": "【歌切】[2026-04-20]都市的夜晚令人兴奋。｜舒缓的歌单第29弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XGLa6EE3u?p=13",
   "source": "others.js"
 },
     {
