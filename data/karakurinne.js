@@ -1,6 +1,6 @@
 // からくりんね-KarakuRinne - 歌单数据 (多合集汇总)
 // 来源: BV1sU5S69E8r
-// 生成时间: 5/21/2026, 10:26:04 PM
+// 生成时间: 5/21/2026, 11:04:59 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -291,6 +291,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-17]边聊天边悠闲地唱歌！过来看看吧！💛 からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xH5Z65EZZ?p=12",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団 feat. 安次嶺希和子",
+  "collection": "【歌切】[2026-05-21]初次见面欢迎!!!偏抒情曲风的歌回！からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MwLv6XEhk?p=1",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "糸",
+  "artist": "中島みゆき",
+  "collection": "【歌切】[2026-05-21]初次见面欢迎!!!偏抒情曲风的歌回！からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MwLv6XEhk?p=2",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "film",
+  "artist": "Saucy Dog",
+  "collection": "【歌切】[2026-05-21]初次见面欢迎!!!偏抒情曲风的歌回！からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MwLv6XEhk?p=3",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "蝶々結び",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-05-21]初次见面欢迎!!!偏抒情曲风的歌回！からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MwLv6XEhk?p=4",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "種のうた",
+  "artist": "ストロベリー・フラワー",
+  "collection": "【歌切】[2026-05-21]初次见面欢迎!!!偏抒情曲风的歌回！からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MwLv6XEhk?p=5",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "グランドエスケープ",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-05-21]初次见面欢迎!!!偏抒情曲风的歌回！からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MwLv6XEhk?p=6",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "愛の標識",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-05-21]初次见面欢迎!!!偏抒情曲风的歌回！からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MwLv6XEhk?p=7",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ゆりかごのうた",
+  "artist": "童謡",
+  "collection": "【歌切】[2026-05-21]初次见面欢迎!!!偏抒情曲风的歌回！からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MwLv6XEhk?p=8",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao,ひまわりキッズ",
+  "collection": "【歌切】[2026-05-21]初次见面欢迎!!!偏抒情曲风的歌回！からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MwLv6XEhk?p=9",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "わかってるよ。",
+  "artist": "さんひ",
+  "collection": "【歌切】[2026-05-21]初次见面欢迎!!!偏抒情曲风的歌回！からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MwLv6XEhk?p=10",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "僕の名前を",
+  "artist": "back number",
+  "collection": "【歌切】[2026-05-21]初次见面欢迎!!!偏抒情曲风的歌回！からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MwLv6XEhk?p=11",
   "source": "karakurinne.js"
 }
 );

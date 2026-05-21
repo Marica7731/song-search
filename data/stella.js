@@ -1,6 +1,6 @@
 // 天ノ譜ステラ - 歌单数据 (多合集汇总)
 // 来源: BV1MEP8z4E1J
-// 生成时间: 5/21/2026, 10:16:42 PM
+// 生成时间: 5/21/2026, 10:56:29 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1683,6 +1683,30 @@ window.SONG_DATA.push(
   "collection": "【 🍚💫歌切】天ノ譜ステラ[2026-04-23]星期四定期直播 天ノ譜ステラ Stella Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LDouBbEU1?p=3",
+  "source": "stella.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO×米津玄師",
+  "collection": "【歌切】[2026-05-21]久违地出声！！！Soundhouse官方认证VSinger 天ノ譜ステラ Stella Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ufLe6REBR?p=1",
+  "source": "stella.js"
+},
+    {
+  "title": "secret base～君がくれたもの～",
+  "artist": "ZONE",
+  "collection": "【歌切】[2026-05-21]久违地出声！！！Soundhouse官方认证VSinger 天ノ譜ステラ Stella Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ufLe6REBR?p=2",
+  "source": "stella.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-05-21]久违地出声！！！Soundhouse官方认证VSinger 天ノ譜ステラ Stella Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ufLe6REBR?p=3",
   "source": "stella.js"
 }
 );

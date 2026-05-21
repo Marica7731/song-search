@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 5/21/2026, 10:28:52 PM
+// 生成时间: 5/21/2026, 11:07:48 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10611,6 +10611,150 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-05-21 Aimarun. co0KfE4OEtM 久违的歌回！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uPLv6HEFm?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "三日月ステップ",
+  "artist": "r-906",
+  "collection": "歌切 2026-05-21 小雀とと / Toto Kogara 3H30qomUVUM 傍晚的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TTLv6JE2b?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "雨とペトラ",
+  "artist": "バルーン",
+  "collection": "歌切 2026-05-21 小雀とと / Toto Kogara 3H30qomUVUM 傍晚的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TTLv6JE2b?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "毒占欲",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-05-21 小雀とと / Toto Kogara 3H30qomUVUM 傍晚的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TTLv6JE2b?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "ロゼッタ",
+  "artist": "10日P/monaca:factory",
+  "collection": "歌切 2026-05-21 小雀とと / Toto Kogara 3H30qomUVUM 傍晚的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TTLv6JE2b?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "ショットガン・ラヴァーズ",
+  "artist": "のぼる↑",
+  "collection": "歌切 2026-05-21 小雀とと / Toto Kogara 3H30qomUVUM 傍晚的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TTLv6JE2b?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "君はいなせなガール",
+  "artist": "石風呂",
+  "collection": "歌切 2026-05-21 小雀とと / Toto Kogara 3H30qomUVUM 傍晚的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TTLv6JE2b?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "夕立のりぼん",
+  "artist": "みきとP",
+  "collection": "歌切 2026-05-21 小雀とと / Toto Kogara 3H30qomUVUM 傍晚的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TTLv6JE2b?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "シリョクケンサ",
+  "artist": "40㍍P",
+  "collection": "歌切 2026-05-21 小雀とと / Toto Kogara 3H30qomUVUM 傍晚的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TTLv6JE2b?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "WAVE",
+  "artist": "niki",
+  "collection": "歌切 2026-05-21 小雀とと / Toto Kogara 3H30qomUVUM 傍晚的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TTLv6JE2b?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "おひめさまになりたいのッ！",
+  "artist": "OSTER project",
+  "collection": "歌切 2026-05-21 小雀とと / Toto Kogara 3H30qomUVUM 傍晚的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TTLv6JE2b?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "不安定彼女",
+  "artist": "19's Sound Factory",
+  "collection": "歌切 2026-05-21 小雀とと / Toto Kogara 3H30qomUVUM 傍晚的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TTLv6JE2b?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "ネトゲ廃人シュプレヒコール",
+  "artist": "さつきがてんこもり",
+  "collection": "歌切 2026-05-21 小雀とと / Toto Kogara 3H30qomUVUM 傍晚的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TTLv6JE2b?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "腐れ外道とチョコレゐト",
+  "artist": "ピノキオP",
+  "collection": "歌切 2026-05-21 小雀とと / Toto Kogara 3H30qomUVUM 傍晚的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TTLv6JE2b?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "パラメタ",
+  "artist": "40㍍P",
+  "collection": "歌切 2026-05-21 小雀とと / Toto Kogara 3H30qomUVUM 傍晚的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TTLv6JE2b?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "エンヴィキャットウォーク",
+  "artist": "トーマ",
+  "collection": "歌切 2026-05-21 小雀とと / Toto Kogara 3H30qomUVUM 傍晚的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TTLv6JE2b?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "命ばっかり",
+  "artist": "ぬゆり",
+  "collection": "歌切 2026-05-21 小雀とと / Toto Kogara 3H30qomUVUM 傍晚的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TTLv6JE2b?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "真赤",
+  "artist": "My Hair is Bad",
+  "collection": "歌切 2026-05-21 小雀とと / Toto Kogara 3H30qomUVUM 傍晚的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TTLv6JE2b?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "アイのシナリオ",
+  "artist": "CHiCO with HoneyWorks(2015) / アニメ まじっく快斗1412",
+  "collection": "歌切 2026-05-21 小雀とと / Toto Kogara 3H30qomUVUM 傍晚的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TTLv6JE2b?p=18",
   "source": "others.js"
 },
     {

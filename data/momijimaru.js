@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 5/21/2026, 10:11:33 PM
+// 生成时间: 5/21/2026, 10:51:35 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5491,6 +5491,166 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-05-20]早上好！来一场悠闲的杂谈和歌回吧🍁✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oTLs6BEA5?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "アンダー・ザ・シー",
+  "artist": "上條恒彦",
+  "collection": "【🍁歌切】[2026-05-21]表現力怪物Vsinger!! 音乐剧歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gcLv6WESZ?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "朝の風景",
+  "artist": "伊東恵里",
+  "collection": "【🍁歌切】[2026-05-21]表現力怪物Vsinger!! 音乐剧歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gcLv6WESZ?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ひとりぼっちの晩餐会",
+  "artist": "ポプラ・若江準威知・コーラス",
+  "collection": "【🍁歌切】[2026-05-21]表現力怪物Vsinger!! 音乐剧歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gcLv6WESZ?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "アラビアン・ナイト",
+  "artist": "山寺宏一",
+  "collection": "【🍁歌切】[2026-05-21]表現力怪物Vsinger!! 音乐剧歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gcLv6WESZ?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "フレンド・ライク・ミー",
+  "artist": "山寺宏一",
+  "collection": "【🍁歌切】[2026-05-21]表現力怪物Vsinger!! 音乐剧歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gcLv6WESZ?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ホール・ニュー・ワールド",
+  "artist": "石井一孝・麻生かほ里",
+  "collection": "【🍁歌切】[2026-05-21]表現力怪物Vsinger!! 音乐剧歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gcLv6WESZ?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "スピーチレス～心の声",
+  "artist": "木下晴香",
+  "collection": "【🍁歌切】[2026-05-21]表現力怪物Vsinger!! 音乐剧歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gcLv6WESZ?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "パート・オブ・ユア・ワールド",
+  "artist": "すずきまゆみ",
+  "collection": "【🍁歌切】[2026-05-21]表現力怪物Vsinger!! 音乐剧歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gcLv6WESZ?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "哀れな人々",
+  "artist": "森公美子",
+  "collection": "【🍁歌切】[2026-05-21]表現力怪物Vsinger!! 音乐剧歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gcLv6WESZ?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "どこまでも ~How Far I'll Go~",
+  "artist": "屋比久知奈",
+  "collection": "【🍁歌切】[2026-05-21]表現力怪物Vsinger!! 音乐剧歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gcLv6WESZ?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "魔法の花",
+  "artist": "小此木麻里",
+  "collection": "【🍁歌切】[2026-05-21]表現力怪物Vsinger!! 音乐剧歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gcLv6WESZ?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "コンパス・オブ・ユア・ハート",
+  "artist": "坂元健児",
+  "collection": "【🍁歌切】[2026-05-21]表現力怪物Vsinger!! 音乐剧歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gcLv6WESZ?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "生まれてはじめて",
+  "artist": "神田沙也加、松たか子",
+  "collection": "【🍁歌切】[2026-05-21]表現力怪物Vsinger!! 音乐剧歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gcLv6WESZ?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "君がいないと",
+  "artist": "石塚英彦、田中裕二",
+  "collection": "【🍁歌切】[2026-05-21]表現力怪物Vsinger!! 音乐剧歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gcLv6WESZ?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "君はともだち",
+  "artist": "ダイアモンド☆ユカイ",
+  "collection": "【🍁歌切】[2026-05-21]表現力怪物Vsinger!! 音乐剧歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gcLv6WESZ?p=15",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ハクナ・マタタ",
+  "artist": "三ツ矢雄二、小林アトム、宮本充、中崎達也",
+  "collection": "【🍁歌切】[2026-05-21]表現力怪物Vsinger!! 音乐剧歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gcLv6WESZ?p=16",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Defying Gravity",
+  "artist": "Idina Menzel、Kristin Chenoweth",
+  "collection": "【🍁歌切】[2026-05-21]表現力怪物Vsinger!! 音乐剧歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gcLv6WESZ?p=17",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "夢はひそかに",
+  "artist": "鈴木より子",
+  "collection": "【🍁歌切】[2026-05-21]表現力怪物Vsinger!! 音乐剧歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gcLv6WESZ?p=18",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "叶えたいこの夢を",
+  "artist": "鈴木より子",
+  "collection": "【🍁歌切】[2026-05-21]表現力怪物Vsinger!! 音乐剧歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gcLv6WESZ?p=19",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "そばにいて",
+  "artist": "小西のりゆき、根本泰彦",
+  "collection": "【🍁歌切】[2026-05-21]表現力怪物Vsinger!! 音乐剧歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gcLv6WESZ?p=20",
   "source": "momijimaru.js"
 }
 );
