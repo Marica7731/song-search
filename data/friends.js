@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
-// 来源: BV1eTkKYDENL
-// 生成时间: 5/21/2026, 2:43:23 AM
+// 来源: BV1mNpUzXEiW
+// 生成时间: 5/21/2026, 3:43:02 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -723,126 +723,6 @@ window.SONG_DATA.push(
   "collection": "皇美緒奈 × Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZgqiYaEDv?p=8",
-  "source": "friends.js"
-},
-    {
-  "title": "コネクト",
-  "artist": "ClariS",
-  "collection": "[2024-08-31]よしか⁂ and 厄倫蒂兒 联动",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eTkKYDENL?p=1",
-  "source": "friends.js"
-},
-    {
-  "title": "ウィーアー!",
-  "artist": "きただにひろし",
-  "collection": "[2024-08-31]よしか⁂ and 厄倫蒂兒 联动",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eTkKYDENL?p=2",
-  "source": "friends.js"
-},
-    {
-  "title": "残響散歌",
-  "artist": "Aimer",
-  "collection": "[2024-08-31]よしか⁂ and 厄倫蒂兒 联动",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eTkKYDENL?p=3",
-  "source": "friends.js"
-},
-    {
-  "title": "少女レイ",
-  "artist": "みきとP",
-  "collection": "[2024-08-31]よしか⁂ and 厄倫蒂兒 联动",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eTkKYDENL?p=4",
-  "source": "friends.js"
-},
-    {
-  "title": "Smile Again",
-  "artist": "40mP feat.初音ミク・GUMI",
-  "collection": "[2024-08-31]よしか⁂ and 厄倫蒂兒 联动",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eTkKYDENL?p=5",
-  "source": "friends.js"
-},
-    {
-  "title": "メフィスト",
-  "artist": "女王蜂",
-  "collection": "[2024-08-31]よしか⁂ and 厄倫蒂兒 联动",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eTkKYDENL?p=6",
-  "source": "friends.js"
-},
-    {
-  "title": "愛してる",
-  "artist": "高鈴",
-  "collection": "[2024-08-31]よしか⁂ and 厄倫蒂兒 联动",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eTkKYDENL?p=7",
-  "source": "friends.js"
-},
-    {
-  "title": "変わらないもの",
-  "artist": "奥華子",
-  "collection": "[2024-08-31]よしか⁂ and 厄倫蒂兒 联动",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eTkKYDENL?p=8",
-  "source": "friends.js"
-},
-    {
-  "title": "secret base ～君がくれたもの～",
-  "artist": "ZONE",
-  "collection": "[2024-08-31]よしか⁂ and 厄倫蒂兒 联动",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eTkKYDENL?p=9",
-  "source": "friends.js"
-},
-    {
-  "title": "晩餐歌",
-  "artist": "tuki.",
-  "collection": "[2024-08-31]よしか⁂ and 厄倫蒂兒 联动",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eTkKYDENL?p=10",
-  "source": "friends.js"
-},
-    {
-  "title": "Butter-Fly",
-  "artist": "和田光司",
-  "collection": "[2024-08-31]よしか⁂ and 厄倫蒂兒 联动",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eTkKYDENL?p=11",
-  "source": "friends.js"
-},
-    {
-  "title": "花になって",
-  "artist": "緑黄色社会",
-  "collection": "[2024-08-31]よしか⁂ and 厄倫蒂兒 联动",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eTkKYDENL?p=12",
-  "source": "friends.js"
-},
-    {
-  "title": "ハッピーシンセサイザ",
-  "artist": "EasyPop",
-  "collection": "[2024-08-31]よしか⁂ and 厄倫蒂兒 联动",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eTkKYDENL?p=13",
-  "source": "friends.js"
-},
-    {
-  "title": "桜キッス",
-  "artist": "河辺千恵子",
-  "collection": "[2024-08-31]よしか⁂ and 厄倫蒂兒 联动",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eTkKYDENL?p=14",
-  "source": "friends.js"
-},
-    {
-  "title": "Love so sweet",
-  "artist": "嵐",
-  "collection": "[2024-08-31]よしか⁂ and 厄倫蒂兒 联动",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eTkKYDENL?p=15",
   "source": "friends.js"
 },
     {

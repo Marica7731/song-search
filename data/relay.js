@@ -1,6 +1,6 @@
 // 接力 - 歌单数据 (多合集汇总)
 // 来源: BV1rkCTYzEZN, BV1wt421j7gT, BV1KpCdYmE3T, BV1aC4ce2E5s, BV1JbX9BmE5m, BV1nJ5S6CETQ, BV1duSRBBEkb
-// 生成时间: 5/21/2026, 2:45:08 AM
+// 生成时间: 5/21/2026, 3:45:11 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1067,46 +1067,6 @@ window.SONG_DATA.push(
   "collection": "糸 - 中島みゆき",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1chCdYGEQX?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "星屑ビーナス",
-  "artist": "Aimer",
-  "collection": "星屑ビーナス - Aimer",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1CVCfYHEgD?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "I LOVE YOU",
-  "artist": "クリス・ハート",
-  "collection": "I LOVE YOU - クリス・ハート",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1kVCfYnECk?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "路過人間",
-  "artist": "郁可唯",
-  "collection": "路過人間 - 郁可唯",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1AVCfYHEjV?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "Every Heart ミンナノキモチ",
-  "artist": "BoA",
-  "collection": "Every Heart ミンナノキモチ - BoA",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1kVCfYnE2W?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "藍悼花",
-  "artist": "酔シグレ",
-  "collection": "藍悼花 - 酔シグレ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV167CfYmEin?p=1",
   "source": "relay.js"
 },
     {
