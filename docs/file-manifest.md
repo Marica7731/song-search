@@ -16,7 +16,7 @@
 | `title-artist-dup-check.html` | 歌名歌手查重页面 | 批量检查“歌名 - 歌手”是否已入库，展示歌手疑似不一致分组，提供复制预设入口、折叠式高级复制字段和更干净的输入区 | 依赖 `dup-check-core.js` 与 `artist-match.js` |
 | `title-artist-check.html` | 命名和校验工具 | 校验歌名歌手组合，提供改名重查、搜索辅助、已确认/需要确认/缺歌手/待入库/未找到状态筛选、当前可见结果复制和待处理项网易云搜索 | 依赖 `bili-check-title-artist.js`；服务端 `/api/title-artist/lookup` 返回 summary；正式页面首屏直接包含共享外壳 |
 | `bili-check.html` | 旧综合页 | 保留旧版综合检查入口 | 与新拆分页面共享部分解析和查重逻辑 |
-| `song-growth.html` | 歌曲总量日报页 | 展示曲库总量、日增、去重歌曲数、播放量和按投稿时间增长，支持切换单指标分析、复制当前区间摘要和当前表格页 TSV | 由 `scripts/update-song-growth.js` 更新；读取 `/api/song-growth` 的 `combinedRows`、`publishUniqueRows`、`anomalies` 和缓存元信息 |
+| `song-growth.html` | 歌曲总量日报页 | 展示曲库总量、日增、去重歌曲数、播放量和按投稿时间增长；独立“去重歌曲曲线”面板用累计去重折线和日新增去重柱形图展示趋势；支持切换单指标分析、复制当前区间摘要和当前表格页 TSV | 由 `scripts/update-song-growth.js` 更新；读取 `/api/song-growth` 的 `combinedRows`、`publishUniqueRows`、`anomalies` 和缓存元信息 |
 | `converter.html` | 辅助转换页 | 提供文本或格式转换辅助 | 独立静态页，共用站点样式 |
 | `admin-singer-config.html` | 来源配置后台 | 管理员维护来源/BV 配置并触发刷新 | 依赖服务端管理接口、`admin-refresh-control.js` 和 hash token |
 | `site-theme.css` | 共享样式 | 页面布局、纯文字 `culua.com` 品牌、表格、按钮、状态提示、数据页排行/分组卡片、H5 紧凑导航、统一按钮高度和响应式样式 | 被多个 HTML 页面引用；正式工具页使用版本号查询串加载，避免线上缓存留在旧视觉 |
@@ -37,7 +37,7 @@
 
 | 文件路径 | 文件用途 | 主要函数或模块职责 | 与其他文件的关系 |
 |---|---|---|---|
-| `server.js` | Node HTTP 服务端 | 静态资源服务、路由别名、`/api/bootstrap`、`/api/search`、`/api/search/export`、`/api/tabs/overview`、`/api/stats/view`、查重/命名 API、增长缓存、管理刷新 API、`/internal/reload` | 读取 `data/`、`reports/`、`scripts/singer-configs.json`；`/m` 和 `/h5` 指向响应式首页；调用 `/usr/local/bin/song-search-refresh.sh` |
+| `server.js` | Node HTTP 服务端 | 静态资源服务、HTML no-store 缓存头、路由别名、`/api/bootstrap`、`/api/search`、`/api/search/export`、`/api/tabs/overview`、`/api/stats/view`、查重/命名 API、增长缓存、管理刷新 API、`/internal/reload` | 读取 `data/`、`reports/`、`scripts/singer-configs.json`；`/m` 和 `/h5` 指向响应式首页；调用 `/usr/local/bin/song-search-refresh.sh`；HTML 响应禁用浏览器缓存以减少发布后旧页面残留 |
 | `package.json` | 根目录 npm 脚本 | `npm start` 启动服务，`npm run check:library` 检查本地歌库，`npm run check:live` 检查公网总量和关键 BV | 无根目录外部依赖；脚本依赖在 `scripts/package.json` |
 
 ## 数据与报告
