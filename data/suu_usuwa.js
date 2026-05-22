@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 5/22/2026, 8:10:51 PM
+// 生成时间: 5/22/2026, 8:49:10 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -21099,6 +21099,38 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】#142[2026-05-13]星期三的定期歌回！明明才5月却已经这么热了！ 稀羽すう - Suu Usuwa -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PN5m6jEBG?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "イガク",
+  "artist": "原口沙輔",
+  "collection": "【🦢歌切】[2026-05-22]3D生日Live「愿你不再迷茫。」 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHGh6kEv8?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Parallax",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】[2026-05-22]3D生日Live「愿你不再迷茫。」 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHGh6kEv8?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "star shine",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】[2026-05-22]3D生日Live「愿你不再迷茫。」 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHGh6kEv8?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "フューチャー・イヴ",
+  "artist": "sasakure.‌UK + 有形ランペイジ",
+  "collection": "【🦢歌切】[2026-05-22]3D生日Live「愿你不再迷茫。」 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VHGh6kEv8?p=4",
   "source": "suu_usuwa.js"
 }
 );

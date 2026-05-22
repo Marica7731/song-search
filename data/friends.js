@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 5/22/2026, 8:16:25 PM
+// 生成时间: 5/22/2026, 8:55:51 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1467,6 +1467,38 @@ window.SONG_DATA.push(
   "collection": "联动歌切 2026-04-24 和音门るき的第一次歌曲合作！带来充满力量且帅气的歌曲 Ibuki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ajonBHEsB?p=10",
+  "source": "friends.js"
+},
+    {
+  "title": "Twinkle night",
+  "artist": "nyankobrq&yaca 稀羽すう × 凛々咲",
+  "collection": "Twinkle night - nyankobrq&yaca 稀羽すう × 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHGh6kE7x?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "水星",
+  "artist": "tofubeats feat.オノマトペ大臣　×NERO",
+  "collection": "联动的部分 2026-05-22 3D BIRTHDAY LIVE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV134Gh6uEyn?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "さよならアンドロメダ",
+  "artist": "THE IDOLM@STER CINDERELLA GIRLS　×上水流宇宙",
+  "collection": "联动的部分 2026-05-22 3D BIRTHDAY LIVE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV134Gh6uEyn?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "夜にダンス",
+  "artist": "フレンズ　×龍ヶ崎リン",
+  "collection": "联动的部分 2026-05-22 3D BIRTHDAY LIVE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV134Gh6uEyn?p=3",
   "source": "friends.js"
 }
 );
