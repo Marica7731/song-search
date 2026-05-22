@@ -192,6 +192,35 @@ ssh culua "sudo -n /usr/local/bin/song-search-refresh.sh"
 npm run -s check:live -- --min-total=$before --require-bv=BV1xd5g61Egu
 ```
 
+如果本次只改页面、CSS、前端脚本或 `server.js`，并且不想发布仓库里可能落后的 `data/*.js` / `data/index.json`，必须使用“保留线上数据”的代码发布流程。这个流程会短暂 reset 代码，但会立刻把服务器当前生成的数据恢复回去，再重启服务：
+
+```powershell
+$before = (npm run -s check:live -- --json | ConvertFrom-Json).totalSongs
+git push origin HEAD:codex/server-deploy
+
+@'
+set -euo pipefail
+cd /var/www/song-search
+if pgrep -af 'song-search-refresh|node scripts/update-songs' >/dev/null; then
+  echo 'refresh is running, wait for it before code-only deploy'
+  exit 1
+fi
+tar --ignore-failed-read -czf /tmp/song-search-data-keep.tgz \
+  data \
+  reports/song-growth-history.json \
+  reports/update-songs-meta.json
+git fetch origin codex/server-deploy
+git reset --hard origin/codex/server-deploy
+tar -xzf /tmp/song-search-data-keep.tgz
+systemctl restart song-search.service
+systemctl is-active song-search.service
+'@ | ssh culua "sudo -n bash -s"
+
+npm run -s check:live -- --min-total=$before --require-bv=BV1xd5g61Egu
+```
+
+发布后如果 `check:live` 的 `totalSongs` 低于 `$before`，不能结束任务；必须先恢复刷新脚本生成的数据，直到公网 `/api/bootstrap` 和 `/api/search` 都不低于发布前总量。
+
 当前刷新脚本核心行为：
 
 ```bash

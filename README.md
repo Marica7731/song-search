@@ -330,6 +330,7 @@ culua_web_h5/
 - 改页面后必须用本地 HTTP 或公网验证。
 - `culua.com` 正常发布必须跑服务器刷新脚本，不要只 `git reset --hard` 后重启；否则会把线上新生成的歌库覆盖回仓库里的旧数据。
 - 涉及数据或部署时必须核对来源数、曲目数和关键 BV 是否存在，推荐用 `npm run check:live -- --min-total=<发布前总量> --require-bv=BV1xd5g61Egu`。
+- 只改页面、CSS、前端脚本或 `server.js` 时，不要发布仓库里的旧 `data/`。按 `docs/culua-server-guide.md` 的“保留线上数据”代码发布流程，先备份服务器当前 `data/`，reset 代码后立刻恢复数据，再重启并做 `check:live` 前后总量对比。
 
 
 
