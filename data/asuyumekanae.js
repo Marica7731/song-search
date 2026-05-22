@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 5/22/2026, 2:07:18 PM
+// 生成时间: 5/22/2026, 2:48:18 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -947,6 +947,134 @@ window.SONG_DATA.push(
   "collection": "【明日夢 歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=41",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "魔法",
+  "artist": "tayori",
+  "collection": "【明日夢 歌切】[2026-05-22]wo!! 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LdGb6rEsS?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "盛れ！ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "【明日夢 歌切】[2026-05-22]wo!! 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LdGb6rEsS?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-05-22]wo!! 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LdGb6rEsS?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "マイ フレンド",
+  "artist": "ZARD",
+  "collection": "【明日夢 歌切】[2026-05-22]wo!! 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LdGb6rEsS?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "ryo feat. 初音ミク",
+  "collection": "【明日夢 歌切】[2026-05-22]wo!! 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LdGb6rEsS?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono!",
+  "collection": "【明日夢 歌切】[2026-05-22]wo!! 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LdGb6rEsS?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "【明日夢 歌切】[2026-05-22]wo!! 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LdGb6rEsS?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "サインはB",
+  "artist": "B小町",
+  "collection": "【明日夢 歌切】[2026-05-22]wo!! 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LdGb6rEsS?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "とくべチュ、して",
+  "artist": "=LOVE",
+  "collection": "【明日夢 歌切】[2026-05-22]wo!! 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LdGb6rEsS?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "魔性少女",
+  "artist": "ファントムシータ",
+  "collection": "【明日夢 歌切】[2026-05-22]wo!! 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LdGb6rEsS?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "聖少女領域",
+  "artist": "ALI PROJECT",
+  "collection": "【明日夢 歌切】[2026-05-22]wo!! 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LdGb6rEsS?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "禁じられた遊び",
+  "artist": "ALI PROJECT",
+  "collection": "【明日夢 歌切】[2026-05-22]wo!! 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LdGb6rEsS?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ワルキューレがとまらない",
+  "artist": "ワルキューレ",
+  "collection": "【明日夢 歌切】[2026-05-22]wo!! 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LdGb6rEsS?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "神様のダンス",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-05-22]wo!! 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LdGb6rEsS?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "思想犯",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-05-22]wo!! 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LdGb6rEsS?p=15",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ミッドナイト・リフレクション",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【明日夢 歌切】[2026-05-22]wo!! 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LdGb6rEsS?p=16",
   "source": "asuyumekanae.js"
 },
     {
