@@ -271,6 +271,73 @@
       line-height: 1.7;
       color: #334155;
     }
+    .unique-growth-panel {
+      margin-top: 14px;
+    }
+    .unique-chart-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      flex-wrap: wrap;
+      align-items: flex-start;
+      margin-bottom: 10px;
+    }
+    .unique-chart-head h3 {
+      margin: 0 0 4px;
+      font-size: 16px;
+      color: #111827;
+    }
+    .unique-chart-head p {
+      margin: 0;
+      color: #64748b;
+      font-size: 12px;
+      line-height: 1.5;
+    }
+    .unique-chart-stats {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+    .unique-stat {
+      min-width: 112px;
+      padding: 8px 10px;
+      border: 1px solid #d9e0ea;
+      border-radius: 8px;
+      background: #fff;
+    }
+    .unique-stat .label {
+      color: #64748b;
+      font-size: 12px;
+      margin-bottom: 3px;
+    }
+    .unique-stat .value {
+      color: #0f766e;
+      font-size: 17px;
+      font-weight: 800;
+      line-height: 1.2;
+    }
+    .unique-chart-box {
+      position: relative;
+      border: 1px solid #e7edf3;
+      border-radius: 12px;
+      background: #fff;
+      padding: 10px;
+    }
+    #uniqueGrowthChart {
+      width: 100%;
+      height: 280px;
+      display: block;
+    }
+    .unique-chart-foot {
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-top: 8px;
+      color: #64748b;
+      font-size: 12px;
+    }
     .table-wrap {
       margin-top: 18px;
       overflow: auto;
@@ -378,6 +445,9 @@
       .analysis-grid { grid-template-columns: repeat(2, minmax(0, 1fr)) }
       .analysis-card { padding: 10px }
       .analysis-card .value { font-size: 15px }
+      .unique-chart-head { display: grid }
+      .unique-chart-stats { justify-content: stretch }
+      .unique-stat { flex: 1 1 calc(50% - 8px); min-width: 0 }
       .pager-controls { width: 100% }
       .pager-btn { flex: 1 1 auto; min-height: 40px }
       .pager-input { flex: 0 0 78px; min-height: 40px }
@@ -465,7 +535,31 @@
       </div>
     </div>
 
-    <div class="analysis-panel">
+    <section class="analysis-panel unique-growth-panel">
+      <div class="unique-chart-head">
+        <div>
+          <h3>去重歌曲曲线</h3>
+          <p>单独按去重歌曲口径展示，绿色折线是累计去重歌曲，蓝色柱形是当日新增去重歌曲。</p>
+        </div>
+        <div class="unique-chart-stats">
+          <div class="unique-stat"><div class="label">最新累计去重</div><div class="value" id="uniqueLatestTotal">-</div></div>
+          <div class="unique-stat"><div class="label">区间新增去重</div><div class="value" id="uniqueRangeDelta">-</div></div>
+          <div class="unique-stat"><div class="label">区间最高日增</div><div class="value" id="uniquePeakDaily">-</div></div>
+        </div>
+      </div>
+      <div class="unique-chart-box">
+        <canvas id="uniqueGrowthChart"></canvas>
+        <div class="unique-chart-foot">
+          <span id="uniqueChartRangeText">暂无数据</span>
+          <span class="legend">
+            <span class="legend-item" style="color:#0f766e"><span class="legend-line"></span>累计去重歌曲</span>
+            <span class="legend-item" style="color:#38bdf8"><span class="legend-dot" style="background:#38bdf8"></span>当日去重增量</span>
+          </span>
+        </div>
+      </div>
+    </section>
+
+    <div class="analysis-panel growth-analysis-panel">
       <div class="analysis-head">
         <h3 id="analysisTitle">总览分析</h3>
         <div class="analysis-note" id="analysisNote">切到单指标后，这里会展示对应曲线的趋势分析。</div>
@@ -510,8 +604,10 @@
 
   <script>
     const chartCanvas = document.getElementById('growthChart');
+    const uniqueChartCanvas = document.getElementById('uniqueGrowthChart');
     const chartTooltip = document.getElementById('chartTooltip');
     const chartRangeText = document.getElementById('chartRangeText');
+    const uniqueChartRangeText = document.getElementById('uniqueChartRangeText');
     const chartLegend = document.getElementById('chartLegend');
     const metricGroupSelect = document.getElementById('metricGroupSelect');
     const metricFocusSelect = document.getElementById('metricFocusSelect');
@@ -800,6 +896,7 @@
 
     function drawSeries(ctx, rows, xAt, yAt, values, color, options = {}) {
       const dashed = !!options.dashed;
+      const pointRadius = Number.isFinite(Number(options.pointRadius)) ? Number(options.pointRadius) : 2.5;
       ctx.save();
       if (dashed) {
         ctx.setLineDash([6, 4]);
@@ -833,7 +930,7 @@
         const x = xAt(index);
         const y = yAt(v);
         ctx.beginPath();
-        ctx.arc(x, y, 2.5, 0, Math.PI * 2);
+        ctx.arc(x, y, pointRadius, 0, Math.PI * 2);
         ctx.fill();
       });
       ctx.restore();
@@ -962,6 +1059,93 @@
       ctx.textAlign = 'right';
       ctx.fillText(rows[rows.length - 1].date, width - pad.right, height - 12);
       chartState = { rows, pad, width, height, xAt };
+    }
+
+    function drawUniqueGrowthChart() {
+      const rows = getRangeRows();
+      const rect = uniqueChartCanvas.getBoundingClientRect();
+      const dpr = window.devicePixelRatio || 1;
+      const width = Math.max(320, Math.floor(rect.width));
+      const isNarrowChart = width < 560;
+      const height = isNarrowChart ? 240 : 280;
+      uniqueChartCanvas.style.height = `${height}px`;
+      uniqueChartCanvas.width = Math.floor(width * dpr);
+      uniqueChartCanvas.height = Math.floor(height * dpr);
+
+      const ctx = uniqueChartCanvas.getContext('2d');
+      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+      ctx.clearRect(0, 0, width, height);
+
+      if (!rows.length) {
+        uniqueChartRangeText.textContent = '暂无去重歌曲数据';
+        document.getElementById('uniqueLatestTotal').textContent = '-';
+        document.getElementById('uniqueRangeDelta').textContent = '-';
+        document.getElementById('uniquePeakDaily').textContent = '-';
+        ctx.fillStyle = '#64748b';
+        ctx.font = '14px sans-serif';
+        ctx.fillText('暂无数据', 16, 30);
+        return;
+      }
+
+      const pad = isNarrowChart
+        ? { left: 48, right: 44, top: 14, bottom: 38 }
+        : { left: 64, right: 58, top: 16, bottom: 42 };
+      const cw = width - pad.left - pad.right;
+      const ch = height - pad.top - pad.bottom;
+      const totals = rows.map(row => parseNumber(row.uniqueSongTotal));
+      const deltas = rows.map(row => parseNumber(row.uniqueSongDelta));
+      const totalAxis = buildAxisRange(totals, { padRatio: 0.08, lockMinZero: false });
+      const deltaAxis = buildAxisRange(deltas, { lockMinZero: true });
+      const xAt = index => pad.left + (rows.length === 1 ? cw / 2 : (cw * index) / (rows.length - 1));
+      const yTotalAt = value => pad.top + ((totalAxis.max - value) / (totalAxis.max - totalAxis.min)) * ch;
+      const yDeltaAt = value => pad.top + ((deltaAxis.max - value) / (deltaAxis.max - deltaAxis.min)) * ch;
+
+      ctx.strokeStyle = '#edf2f7';
+      ctx.lineWidth = 1;
+      ctx.fillStyle = '#64748b';
+      ctx.font = '12px sans-serif';
+      for (let i = 0; i <= 5; i += 1) {
+        const y = pad.top + (ch / 5) * i;
+        ctx.beginPath();
+        ctx.moveTo(pad.left, y);
+        ctx.lineTo(width - pad.right, y);
+        ctx.stroke();
+
+        const totalValue = totalAxis.max - ((totalAxis.max - totalAxis.min) * i) / 5;
+        const deltaValue = deltaAxis.max - ((deltaAxis.max - deltaAxis.min) * i) / 5;
+        ctx.textAlign = 'left';
+        ctx.fillText(numberText(Math.round(totalValue)), 8, y + 4);
+        ctx.textAlign = 'right';
+        ctx.fillText(numberText(Math.round(deltaValue)), width - 8, y + 4);
+      }
+
+      const barSlot = rows.length <= 1 ? cw : cw / rows.length;
+      const barWidth = Math.max(2, Math.min(12, barSlot * 0.56));
+      ctx.fillStyle = 'rgba(56, 189, 248, 0.38)';
+      deltas.forEach((value, index) => {
+        const barHeight = Math.max(1, (height - pad.bottom) - yDeltaAt(value));
+        const x = xAt(index) - barWidth / 2;
+        const y = height - pad.bottom - barHeight;
+        ctx.fillRect(x, y, barWidth, barHeight);
+      });
+
+      drawSeries(ctx, rows, xAt, yTotalAt, totals, '#0f766e', { pointRadius: 2.2 });
+
+      ctx.fillStyle = '#64748b';
+      ctx.font = '12px sans-serif';
+      ctx.textAlign = 'left';
+      ctx.fillText(rows[0].date, pad.left, height - 12);
+      ctx.textAlign = 'right';
+      ctx.fillText(rows[rows.length - 1].date, width - pad.right, height - 12);
+
+      const first = rows[0];
+      const latest = rows[rows.length - 1];
+      const peak = rows.reduce((best, row) => (parseNumber(row.uniqueSongDelta) > parseNumber(best.uniqueSongDelta) ? row : best), rows[0]);
+      const rangeDelta = rows.reduce((sum, row) => sum + parseNumber(row.uniqueSongDelta), 0);
+      document.getElementById('uniqueLatestTotal').textContent = numberText(latest.uniqueSongTotal);
+      document.getElementById('uniqueRangeDelta').textContent = `+${numberText(rangeDelta)}`;
+      document.getElementById('uniquePeakDaily').textContent = `${numberText(peak.uniqueSongDelta)} / ${peak.date}`;
+      uniqueChartRangeText.textContent = `${first.date} 至 ${latest.date}（${rows.length} 天） · 累计区间 ${numberText(Math.min(...totals))} ~ ${numberText(Math.max(...totals))} · 日增区间 ${numberText(Math.min(...deltas))} ~ ${numberText(Math.max(...deltas))}`;
     }
 
     function buildTooltipHtml(row) {
@@ -1246,6 +1430,8 @@
       currentPage = 1;
       updateSummary();
       drawChart();
+      drawUniqueGrowthChart();
+      window.requestAnimationFrame(drawUniqueGrowthChart);
       renderAnalysis();
       renderTable();
     }
@@ -1257,6 +1443,7 @@
           btn.classList.add('active');
           currentRange = btn.dataset.range;
           drawChart();
+          drawUniqueGrowthChart();
           renderAnalysis();
         });
       });
@@ -1312,6 +1499,7 @@
       });
 
       window.addEventListener('resize', drawChart);
+      window.addEventListener('resize', drawUniqueGrowthChart);
 
       const backTopBtn = document.getElementById('backTopBtn');
       const updateBackTop = () => backTopBtn.classList.toggle('show', window.scrollY > 260);
@@ -1343,6 +1531,7 @@
         document.getElementById('updatedAtText').textContent = '更新时间：加载失败';
       }
       refreshView();
+      setTimeout(drawUniqueGrowthChart, 80);
     }
 
     initPage();
@@ -1358,7 +1547,8 @@
           { label: '核心指标', selector: '.summary-board' },
           { label: '视图控制', selector: '.controls' },
           { label: '增长曲线', selector: '.chart-wrap' },
-          { label: '趋势分析', selector: '.analysis-panel' },
+          { label: '去重曲线', selector: '.unique-growth-panel' },
+          { label: '趋势分析', selector: '.growth-analysis-panel' },
           { label: '明细表格', selector: '.table-wrap' }
         ]
       });

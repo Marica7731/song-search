@@ -1546,6 +1546,15 @@ function getMimeType(filePath) {
   return map[ext] || 'application/octet-stream';
 }
 
+function getStaticHeaders(filePath) {
+  const ext = path.extname(filePath).toLowerCase();
+  const headers = { 'Content-Type': getMimeType(filePath) };
+  if (ext === '.html') {
+    headers['Cache-Control'] = 'no-store';
+  }
+  return headers;
+}
+
 function sendJson(res, statusCode, payload) {
   const body = JSON.stringify(payload);
   res.writeHead(statusCode, {
@@ -2582,7 +2591,7 @@ function serveStatic(reqUrl, res) {
       res.end('Not Found');
       return;
     }
-    res.writeHead(200, { 'Content-Type': getMimeType(targetPath) });
+    res.writeHead(200, getStaticHeaders(targetPath));
     res.end(data);
   });
 }
