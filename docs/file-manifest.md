@@ -16,12 +16,12 @@
 | `title-artist-dup-check.html` | 歌名歌手查重页面 | 批量检查“歌名 - 歌手”是否已入库，展示歌手疑似不一致分组，提供复制预设入口、折叠式高级复制字段和更干净的输入区 | 依赖 `dup-check-core.js` 与 `artist-match.js` |
 | `title-artist-check.html` | 命名和校验工具 | 校验歌名歌手组合，提供改名重查、搜索辅助、已确认/需要确认/缺歌手/待入库/未找到状态筛选、当前可见结果复制和待处理项网易云搜索 | 依赖 `bili-check-title-artist.js`；服务端 `/api/title-artist/lookup` 返回 summary；正式页面首屏直接包含共享外壳 |
 | `bili-check.html` | 旧综合页 | 保留旧版综合检查入口 | 与新拆分页面共享部分解析和查重逻辑 |
-| `song-growth.html` | 歌曲总量日报页 | 展示曲库总量、日增、按投稿时间增长，支持复制当前区间摘要和当前表格页 TSV | 由 `scripts/update-song-growth.js` 更新；读取 `/api/song-growth` 的 `combinedRows`、`anomalies` 和缓存元信息 |
+| `song-growth.html` | 歌曲总量日报页 | 展示曲库总量、日增、去重歌曲数、播放量和按投稿时间增长，支持切换单指标分析、复制当前区间摘要和当前表格页 TSV | 由 `scripts/update-song-growth.js` 更新；读取 `/api/song-growth` 的 `combinedRows`、`publishUniqueRows`、`anomalies` 和缓存元信息 |
 | `converter.html` | 辅助转换页 | 提供文本或格式转换辅助 | 独立静态页，共用站点样式 |
 | `admin-singer-config.html` | 来源配置后台 | 管理员维护来源/BV 配置并触发刷新 | 依赖服务端管理接口、`admin-refresh-control.js` 和 hash token |
-| `site-theme.css` | 共享样式 | 页面布局、纯文字 `culua.com` 品牌、表格、按钮、状态提示、数据页排行/分组卡片、H5 紧凑导航和响应式样式 | 被多个 HTML 页面引用；正式工具页使用版本号查询串加载，避免线上缓存留在旧视觉 |
+| `site-theme.css` | 共享样式 | 页面布局、纯文字 `culua.com` 品牌、表格、按钮、状态提示、数据页排行/分组卡片、H5 紧凑导航、统一按钮高度和响应式样式 | 被多个 HTML 页面引用；正式工具页使用版本号查询串加载，避免线上缓存留在旧视觉 |
 | `site-shell.js` | 正式工具页共享外壳兜底 | 同步当前页导航高亮；仅在页面没有静态壳层时才回退包裹 DOM，并使用纯文字 `culua.com` 品牌 | 被 `stats.html`、`bv-dup-check.html`、`title-artist-dup-check.html`、`title-artist-check.html`、`song-growth.html` 以 `defer` 引入；正式页首屏 HTML 已直接包含共享外壳，避免旧页面闪烁 |
-| `page-directory-widget.js` | 页面目录组件 | 生成浮动目录、移动端目录按钮、滚动定位 | 被长页面和校验工具复用 |
+| `page-directory-widget.js` | 页面目录组件 | 生成浮动目录、移动端目录按钮、滚动定位，并在无目录项时自动隐藏 | 被长页面和校验工具复用 |
 | `last-run-badge.js` | 最近更新状态角标 | 读取更新元信息并展示“最近更新”时间，避免暴露 `update-songs` 等技术文案 | 优先读取 `/reports/update-songs-meta.json`，失败时读取 `/api/site-meta`；被首页和各工具页引入 |
 | `admin-refresh-control.js` | 管理刷新控件 | 读取 token、显示刷新状态、触发服务端刷新 | 配合 `admin-singer-config.html` 和 `server.js` 管理接口 |
 
@@ -56,7 +56,7 @@
 |---|---|---|---|
 | `scripts/singer-configs.json` | 来源/BV 配置 | 配置来源别名、文件名、入口 BV；可用 `sectionTitle` / `sectionTitles` 收录指定合集小节，用 `excludeSectionTitle` / `excludeSectionTitles` 排除指定小节 | `scripts/update-songs.js` 的主要输入；服务器也可用 `/var/lib/song-search/singer-configs.json` 覆盖运行时配置 |
 | `scripts/update-songs.js` | 歌库抓取生成脚本 | 读取来源配置、拉取 B 站元数据、解析分 P、按合集小节过滤来源、生成 `data/*.js` 和 `data/index.json` | 服务器刷新脚本、GitHub Actions、本地数据更新都会调用 |
-| `scripts/update-song-growth.js` | 增长日报生成脚本 | 读取歌库数据，更新 `reports/song-growth-history.json`、`song-growth.html` 和 README 日报段落 | GitHub Actions `song-growth.yml` 调用 |
+| `scripts/update-song-growth.js` | 增长日报生成脚本 | 读取歌库数据和去重歌曲数，更新 `reports/song-growth-history.json`、`song-growth.html` 和 README 日报段落 | GitHub Actions `song-growth.yml` 调用 |
 | `scripts/check-song-library.js` | 歌库检查脚本 | 统计数据文件数、总曲数、去重曲数、缺失歌手数 | 本地提交前和数据更新后验证使用 |
 | `scripts/check-live-song-total.js` | 线上歌库回退检查脚本 | 读取公网 `/api/bootstrap` 和 `/api/search`，校验 `totalSongs` 不低于指定值、指定 BV 至少命中一条 | 发布前后和线上故障排查使用，避免只重启服务导致歌库回退 |
 | `scripts/package.json` | 脚本依赖定义 | 声明 `cheerio`、`puppeteer` 等抓取依赖 | 只服务 `scripts/` 下的数据抓取脚本 |

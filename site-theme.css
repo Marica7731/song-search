@@ -956,7 +956,17 @@ body.culua-shell-page .pd-widget-desktop,
 body.culua-shell-page .pd-widget-mobile-fab,
 body.culua-shell-page .pd-widget-overlay,
 body.culua-shell-page .pd-widget-mobile-panel {
-  display: none !important;
+  z-index: 3100;
+}
+
+body.culua-shell-page .pd-widget-desktop {
+  top: 18px;
+  right: 14px;
+  width: 220px;
+}
+
+body.culua-shell-page .pd-widget-mobile-fab {
+  bottom: calc(74px + env(safe-area-inset-bottom));
 }
 
 body.culua-shell-page .last-run-badge {
@@ -1656,6 +1666,11 @@ body.culua-shell-stats .toggle-btn:focus {
 }
 
 @media (max-width: 980px) {
+  body.culua-shell-page {
+    background: #f5f7fb !important;
+    overflow-x: hidden;
+  }
+
   .culua-page-shell {
     display: block;
   }
@@ -1668,7 +1683,9 @@ body.culua-shell-stats .toggle-btn:focus {
     padding: 10px 12px 8px;
     border-right: 0;
     border-bottom: 1px solid #d9e0ea;
+    background: rgba(255, 255, 255, 0.97);
     box-shadow: 0 4px 14px rgba(15, 23, 42, 0.06);
+    z-index: 2200;
   }
 
   .culua-brand {
@@ -1676,7 +1693,7 @@ body.culua-shell-stats .toggle-btn:focus {
   }
 
   .culua-brand-title {
-    font-size: 20px;
+    font-size: 18px;
   }
 
   .culua-shell-nav {
@@ -1695,9 +1712,11 @@ body.culua-shell-stats .toggle-btn:focus {
   .culua-shell-nav-item {
     flex: 0 0 auto;
     min-width: max-content;
-    min-height: 34px;
+    min-height: 38px;
     padding: 6px 10px !important;
     gap: 0;
+    align-items: center;
+    justify-content: center;
   }
 
   .culua-shell-nav-item span {
@@ -1727,9 +1746,11 @@ body.culua-shell-stats .toggle-btn:focus {
     width: auto;
     min-width: max-content;
     margin: 0;
-    min-height: 34px !important;
-    padding: 6px 10px !important;
+    min-height: 38px !important;
+    padding: 0 10px !important;
     gap: 0;
+    align-items: center !important;
+    justify-content: center !important;
   }
 
   body.culua-shell-stats .stats-view-nav-item span {
@@ -1737,7 +1758,60 @@ body.culua-shell-stats .toggle-btn:focus {
   }
 
   .culua-page-content {
-    padding: 12px 12px 26px;
+    padding: 10px 10px calc(28px + env(safe-area-inset-bottom));
+  }
+
+  .culua-page-content > .main,
+  .culua-page-content > .main.panel {
+    border-radius: 10px !important;
+    border-color: #d9e0ea !important;
+    box-shadow: none !important;
+  }
+
+  .culua-page-content > .main.panel {
+    padding: 14px !important;
+  }
+
+  body.culua-shell-page h1 {
+    font-size: 24px !important;
+    line-height: 1.18 !important;
+  }
+
+  body.culua-shell-page input,
+  body.culua-shell-page select,
+  body.culua-shell-page textarea,
+  body.culua-shell-page button {
+    font-size: 14px !important;
+  }
+
+  body.culua-shell-page .copy-btn,
+  body.culua-shell-page .filter-btn,
+  body.culua-shell-page .range-btn,
+  body.culua-shell-page .modal-btn,
+  body.culua-shell-page .pager-btn,
+  body.culua-shell-page .tab-btn,
+  body.culua-shell-page .toggle-btn,
+  body.culua-shell-page .toggle-perf-btn,
+  body.culua-shell-page .count-clickable,
+  body.culua-shell-page .perf-link-small,
+  body.culua-shell-page .source-trigger,
+  body.culua-shell-stats .stats-view-nav-item {
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    min-height: 40px !important;
+    line-height: 1.2 !important;
+    text-align: center !important;
+    white-space: nowrap;
+  }
+
+  body.culua-shell-page .controls,
+  body.culua-shell-page .filter-bar,
+  body.culua-shell-page .copy-presets,
+  body.culua-shell-page .result-copy-actions,
+  body.culua-shell-page .title-controls,
+  body.culua-shell-page .pager-controls {
+    gap: 8px !important;
   }
 
   body.culua-shell-stats h1 {
@@ -1793,8 +1867,8 @@ body.culua-shell-stats .toggle-btn:focus {
   body.culua-shell-stats #search-btn,
   body.culua-shell-stats .source-trigger,
   body.culua-shell-stats .source-select {
-    height: 38px !important;
-    min-height: 38px !important;
+    height: 40px !important;
+    min-height: 40px !important;
   }
 
   body.culua-shell-stats #search-btn {
@@ -1868,25 +1942,57 @@ body.culua-shell-stats .toggle-btn:focus {
   }
 
   body.culua-shell-stats .rank-actions {
-    display: grid !important;
-    grid-template-columns: 78px minmax(0, 1fr);
+    display: flex !important;
+    flex-wrap: wrap;
     align-items: center;
+    gap: 6px !important;
     width: 100%;
   }
 
   body.culua-shell-stats .rank-actions .action-row {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    width: 100%;
+    display: flex !important;
+    flex: 1 1 180px;
+    flex-wrap: wrap;
+    gap: 6px !important;
+    width: auto;
   }
 
-  body.culua-shell-stats .copy-btn {
-    min-height: 34px !important;
-    padding: 6px 10px !important;
+  body.culua-shell-stats .copy-btn,
+  body.culua-shell-stats .toggle-perf-btn,
+  body.culua-shell-stats .count-clickable,
+  body.culua-shell-stats .perf-link-small {
+    min-height: 40px !important;
+    padding: 0 10px !important;
+  }
+
+  body.culua-shell-stats .rank-actions .copy-btn,
+  body.culua-shell-stats .rank-actions .toggle-perf-btn {
+    flex: 1 1 86px;
   }
 }
 
 @media (max-width: 560px) {
+  .culua-sidebar {
+    padding: 9px 10px 7px;
+  }
+
+  .culua-page-content {
+    padding: 8px 8px calc(24px + env(safe-area-inset-bottom));
+  }
+
+  .culua-page-content > .main.panel {
+    padding: 12px !important;
+  }
+
+  .culua-shell-nav {
+    gap: 5px;
+  }
+
+  .culua-shell-nav-item {
+    min-height: 36px !important;
+    padding: 0 9px !important;
+  }
+
   body.culua-shell-stats .overview-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
   }

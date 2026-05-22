@@ -567,6 +567,58 @@ function buildPublishGrowthRows(songs) {
     });
 }
 
+function buildPublishUniqueRows(songs) {
+  const byDate = new Map();
+  const titleGroup = new Map();
+  (Array.isArray(songs) ? songs : []).forEach(song => {
+    const titleKey = normalizeString(song?.title || '未知歌曲');
+    if (!titleGroup.has(titleKey)) titleGroup.set(titleKey, []);
+    titleGroup.get(titleKey).push(song);
+  });
+
+  titleGroup.forEach(group => {
+    const clusters = [];
+    group.forEach(currentSong => {
+      const existing = clusters.find(cluster => isSameSong(currentSong, cluster.representative, isValidArtist));
+      if (existing) {
+        existing.songs.push(currentSong);
+        return;
+      }
+      clusters.push({ representative: currentSong, songs: [currentSong] });
+    });
+
+    clusters.forEach(cluster => {
+      const pubdate = cluster.songs
+        .map(song => Number(song?.pubdate || 0))
+        .filter(value => value > 0)
+        .sort((a, b) => a - b)[0];
+      if (!pubdate) return;
+
+      const ts = pubdate * 1000;
+      const date = formatShanghaiDate(ts);
+      if (!byDate.has(date)) {
+        byDate.set(date, { date, delta: 0, ts });
+      }
+      const row = byDate.get(date);
+      row.delta += 1;
+      if (ts > row.ts) row.ts = ts;
+    });
+  });
+
+  let total = 0;
+  return Array.from(byDate.values())
+    .sort((a, b) => a.date.localeCompare(b.date))
+    .map(row => {
+      total += row.delta;
+      return {
+        date: row.date,
+        total,
+        ts: row.ts,
+        delta: row.delta
+      };
+    });
+}
+
 function buildPublishViewRows(songs) {
   const byVideo = new Map();
   songs.forEach(song => {
@@ -623,14 +675,14 @@ function buildPublishViewRows(songs) {
     });
 }
 
-function buildCombinedGrowthRows(songRows, viewRows) {
+function buildCombinedGrowthRows(songRows, viewRows, uniqueRows) {
   const dateMap = new Map();
 
   (Array.isArray(songRows) ? songRows : []).forEach(row => {
     const date = String(row?.date || '');
     if (!date) return;
     if (!dateMap.has(date)) {
-      dateMap.set(date, { date, ts: 0, songDelta: 0, viewDelta: 0 });
+      dateMap.set(date, { date, ts: 0, songDelta: 0, viewDelta: 0, uniqueSongDelta: 0 });
     }
     const entry = dateMap.get(date);
     entry.songDelta += Number(row?.delta || 0);
@@ -641,25 +693,40 @@ function buildCombinedGrowthRows(songRows, viewRows) {
     const date = String(row?.date || '');
     if (!date) return;
     if (!dateMap.has(date)) {
-      dateMap.set(date, { date, ts: 0, songDelta: 0, viewDelta: 0 });
+      dateMap.set(date, { date, ts: 0, songDelta: 0, viewDelta: 0, uniqueSongDelta: 0 });
     }
     const entry = dateMap.get(date);
     entry.viewDelta += Number(row?.delta || 0);
     entry.ts = Math.max(entry.ts, Number(row?.ts || 0));
   });
 
+  (Array.isArray(uniqueRows) ? uniqueRows : []).forEach(row => {
+    const date = String(row?.date || '');
+    if (!date) return;
+    if (!dateMap.has(date)) {
+      dateMap.set(date, { date, ts: 0, songDelta: 0, viewDelta: 0, uniqueSongDelta: 0 });
+    }
+    const entry = dateMap.get(date);
+    entry.uniqueSongDelta += Number(row?.delta || 0);
+    entry.ts = Math.max(entry.ts, Number(row?.ts || 0));
+  });
+
   let songTotal = 0;
   let viewTotal = 0;
+  let uniqueSongTotal = 0;
   return Array.from(dateMap.values())
     .sort((a, b) => String(a.date).localeCompare(String(b.date)))
     .map(row => {
       songTotal += Number(row.songDelta || 0);
       viewTotal += Number(row.viewDelta || 0);
+      uniqueSongTotal += Number(row.uniqueSongDelta || 0);
       return {
         date: row.date,
         ts: row.ts || 0,
         songDelta: Number(row.songDelta || 0),
         songTotal,
+        uniqueSongDelta: Number(row.uniqueSongDelta || 0),
+        uniqueSongTotal,
         viewDelta: Number(row.viewDelta || 0),
         viewTotal
       };
@@ -2030,18 +2097,21 @@ function buildSongGrowthPayload() {
   }
   const publishRows = buildPublishGrowthRows(store.songs);
   const publishViewRows = buildPublishViewRows(store.songs);
-  const combinedRows = buildCombinedGrowthRows(publishRows, publishViewRows);
+  const publishUniqueRows = buildPublishUniqueRows(store.songs);
+  const combinedRows = buildCombinedGrowthRows(publishRows, publishViewRows, publishUniqueRows);
   const generatedAtMs = Date.now();
   return {
     collectionRows,
     publishRows,
     publishViewRows,
+    publishUniqueRows,
     combinedRows,
     anomalies: buildGrowthAnomalies(combinedRows),
     latest: {
       collection: collectionRows[collectionRows.length - 1] || null,
       publish: publishRows[publishRows.length - 1] || null,
       publishViews: publishViewRows[publishViewRows.length - 1] || null,
+      publishUnique: publishUniqueRows[publishUniqueRows.length - 1] || null,
       combined: combinedRows[combinedRows.length - 1] || null
     },
     cache: {

@@ -7,6 +7,10 @@ const INDEX_PATH = path.join(DATA_DIR, 'index.json');
 const REPORT_DIR = path.join(ROOT, 'reports');
 const HISTORY_PATH = path.join(REPORT_DIR, 'song-growth-history.json');
 const README_PATH = path.join(ROOT, 'README.md');
+const {
+  normalizeString,
+  isSameSong
+} = require('../artist-match');
 
 const SH_TZ = 'Asia/Shanghai';
 
@@ -40,6 +44,35 @@ function formatShanghaiDateTime(ts) {
 
 function loadSongCount() {
   return loadAllSongs().length;
+}
+
+function isValidArtist(artist) {
+  if (!artist || !String(artist).trim()) return false;
+  return !String(artist).includes('来源处未提供标准格式歌手');
+}
+
+function getUniqueSongCount(songs) {
+  const titleGroup = new Map();
+  (Array.isArray(songs) ? songs : []).forEach(song => {
+    const titleKey = normalizeString(song?.title || '未知歌曲');
+    if (!titleGroup.has(titleKey)) titleGroup.set(titleKey, []);
+    titleGroup.get(titleKey).push(song);
+  });
+
+  let totalUnique = 0;
+  titleGroup.forEach(group => {
+    if (group.length === 1) {
+      totalUnique += 1;
+      return;
+    }
+    const uniqueSongs = [];
+    group.forEach(currentSong => {
+      const isDuplicate = uniqueSongs.some(savedSong => isSameSong(currentSong, savedSong, isValidArtist));
+      if (!isDuplicate) uniqueSongs.push(currentSong);
+    });
+    totalUnique += uniqueSongs.length;
+  });
+  return totalUnique;
 }
 
 function loadAllSongs() {
@@ -89,13 +122,22 @@ function buildDailyRows(history) {
   });
 
   const rows = Array.from(byDate.entries())
-    .map(([date, item]) => ({ date, total: item.total, ts: item.ts }))
+    .map(([date, item]) => ({
+      date,
+      total: item.total,
+      uniqueTotal: Number.isFinite(Number(item.uniqueTotal)) ? Number(item.uniqueTotal) : null,
+      ts: item.ts
+    }))
     .sort((a, b) => a.date.localeCompare(b.date));
 
   return rows.map((row, i) => {
     const prevTotal = i > 0 ? rows[i - 1].total : row.total;
+    const prevUniqueTotal = i > 0 ? rows[i - 1].uniqueTotal : row.uniqueTotal;
     const delta = row.total - prevTotal;
-    return { ...row, delta };
+    const uniqueDelta = row.uniqueTotal == null || prevUniqueTotal == null
+      ? null
+      : row.uniqueTotal - prevUniqueTotal;
+    return { ...row, delta, uniqueDelta };
   });
 }
 
@@ -131,7 +173,7 @@ function deltaHtml(delta) {
   return `<span style="color:#6c757d;">0</span>`;
 }
 
-function updateReadmeSection(collectionRows, publishRows, latestTotal, latestTs) {
+function updateReadmeSection(collectionRows, publishRows, latestTotal, latestUniqueTotal, latestTs) {
   const markerStart = '<!-- SONG_GROWTH_START -->';
   const markerEnd = '<!-- SONG_GROWTH_END -->';
   const latestCollection = collectionRows[collectionRows.length - 1] || { delta: 0 };
@@ -146,6 +188,7 @@ function updateReadmeSection(collectionRows, publishRows, latestTotal, latestTs)
 ## 歌曲总量日报
 
 - 最新总曲数：**${latestTotal}**
+- 最新去重歌曲数：**${latestUniqueTotal}**
 - 更新时间（上海时间）：${formatShanghaiDateTime(latestTs)}
 - 最新库收录日增：**${latestCollection.delta > 0 ? `+${latestCollection.delta}` : latestCollection.delta || 0}**
 - 最新按投稿时间日增：**${latestPublish.delta > 0 ? `+${latestPublish.delta}` : latestPublish.delta || 0}**
@@ -176,17 +219,18 @@ function main() {
   ensureDir(REPORT_DIR);
   const songs = loadAllSongs();
   const total = songs.length;
+  const uniqueTotal = getUniqueSongCount(songs);
   const now = Date.now();
 
   const history = loadHistory();
-  history.push({ ts: now, total });
+  history.push({ ts: now, total, uniqueTotal });
   saveHistory(history);
 
   const collectionRows = buildDailyRows(history);
   const publishRows = buildPublishDailyRows(songs);
-  updateReadmeSection(collectionRows, publishRows, total, now);
+  updateReadmeSection(collectionRows, publishRows, total, uniqueTotal, now);
 
-  console.log(`song total=${total}, history=${history.length}`);
+  console.log(`song total=${total}, unique=${uniqueTotal}, history=${history.length}`);
 }
 
 main();

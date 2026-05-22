@@ -59,7 +59,7 @@
       .pd-widget-mobile-fab {
         position: fixed;
         right: 16px;
-        bottom: 76px;
+        bottom: calc(76px + env(safe-area-inset-bottom));
         min-width: 62px;
         height: 38px;
         border: 1px solid #b8c0cc;
@@ -83,7 +83,7 @@
       .pd-widget-mobile-panel {
         position: fixed;
         right: 12px;
-        bottom: 122px;
+        bottom: calc(122px + env(safe-area-inset-bottom));
         width: min(86vw, 320px);
         max-height: min(72vh, 560px);
         display: none;
@@ -289,6 +289,7 @@
 
     function refresh(rawItems) {
       items = resolveItems(rawItems);
+      root.hidden = items.length === 0;
       renderList(desktopList);
       renderList(mobileList);
       activeId = '';

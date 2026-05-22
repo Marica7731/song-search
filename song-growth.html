@@ -280,7 +280,7 @@
     table {
       width: 100%;
       border-collapse: collapse;
-      min-width: 760px;
+      min-width: 940px;
     }
     th, td {
       border-bottom: 1px solid #eef2f6;
@@ -358,8 +358,29 @@
     @media (max-width: 980px) {
       body { padding: 16px 12px }
       .summary-board { grid-template-columns: 1fr }
-      .metric-select { width: 100% }
+      .kpis { grid-template-columns: repeat(2, minmax(0, 1fr)) }
+      .metric-select { width: 100%; min-height: 40px }
       .range-btn { flex: 1 1 auto }
+      .controls { gap: 8px }
+      .chart-wrap { padding: 8px }
+      .chart-foot { font-size: 11px }
+      .legend { gap: 8px }
+    }
+    @media (max-width: 520px) {
+      body { padding: 10px }
+      .main.panel { padding: 12px !important }
+      h1 { font-size: 24px }
+      .hint-box { padding: 10px 12px }
+      .summary-panel { padding: 12px }
+      .kpis { gap: 8px }
+      .kpi { padding: 9px 10px }
+      .kpi .value { font-size: 18px }
+      .analysis-grid { grid-template-columns: repeat(2, minmax(0, 1fr)) }
+      .analysis-card { padding: 10px }
+      .analysis-card .value { font-size: 15px }
+      .pager-controls { width: 100% }
+      .pager-btn { flex: 1 1 auto; min-height: 40px }
+      .pager-input { flex: 0 0 78px; min-height: 40px }
     }
   </style>
 </head>
@@ -383,7 +404,7 @@
     <h1>歌曲增长日报</h1>
     <div class="sub" id="updatedAtText">更新时间：加载中…</div>
     <div class="hint-box">
-      仅按 <code>发布日期</code> 统计并合并展示两条维度：<b>播放量</b> 与 <b>曲目</b>。支持切换查看
+      仅按 <code>发布日期</code> 统计并合并展示三条维度：<b>播放量</b>、<b>曲目</b> 与 <b>去重歌曲</b>。支持切换查看
       <b>累计总量</b> 与 <b>当日总量</b>，也支持切到 <b>单指标曲线</b> 看对应的数据分析。
     </div>
 
@@ -393,6 +414,7 @@
         <div class="kpis">
           <div class="kpi"><div class="label">累计总播放</div><div class="value" id="kpiTotalViews">-</div></div>
           <div class="kpi"><div class="label">累计总曲目</div><div class="value" id="kpiTotalSongs">-</div></div>
+          <div class="kpi"><div class="label">累计去重歌曲</div><div class="value" id="kpiTotalUniqueSongs">-</div></div>
           <div class="kpi"><div class="label">累计商值（播放/曲目）</div><div class="value" id="kpiTotalRatio">-</div></div>
           <div class="kpi"><div class="label">统计天数</div><div class="value" id="kpiDays">-</div></div>
         </div>
@@ -402,6 +424,7 @@
         <div class="kpis">
           <div class="kpi"><div class="label">当日播放量</div><div class="value" id="kpiDailyViews">-</div></div>
           <div class="kpi"><div class="label">当日曲目增量</div><div class="value" id="kpiDailySongs">-</div></div>
+          <div class="kpi"><div class="label">当日去重增量</div><div class="value" id="kpiDailyUniqueSongs">-</div></div>
           <div class="kpi"><div class="label">当日商值（播放/曲目）</div><div class="value" id="kpiDailyRatio">-</div></div>
           <div class="kpi"><div class="label">最新日期</div><div class="value" id="kpiLatestDate">-</div></div>
         </div>
@@ -414,9 +437,10 @@
         <option value="delta">当日总量（播放 + 曲目）</option>
       </select>
       <select class="metric-select" id="metricFocusSelect">
-        <option value="all" selected>总览对比（播放 + 曲目 + 商值）</option>
+        <option value="all" selected>总览对比（播放 + 曲目 + 去重 + 商值）</option>
         <option value="view">只看播放量</option>
         <option value="song">只看曲目</option>
+        <option value="unique">只看去重歌曲</option>
         <option value="ratio">只看商值（播放/曲目）</option>
       </select>
       <button class="range-btn active" data-range="30">近30天</button>
@@ -435,6 +459,7 @@
         <span class="legend" id="chartLegend">
           <span class="legend-item"><span class="legend-dot" style="background:#d97706"></span>播放量</span>
           <span class="legend-item"><span class="legend-dot" style="background:#1a8f4c"></span>曲目</span>
+          <span class="legend-item"><span class="legend-dot" style="background:#0f766e"></span>去重歌曲</span>
           <span class="legend-item"><span class="legend-dot" style="background:#7c3aed"></span>商值(播放/曲目)</span>
         </span>
       </div>
@@ -456,9 +481,11 @@
             <th>日期</th>
             <th>累计总播放</th>
             <th>累计总曲目</th>
+            <th>累计去重歌曲</th>
             <th>累计商值</th>
             <th>当日播放量</th>
             <th>当日曲目增量</th>
+            <th>当日去重增量</th>
             <th>当日商值</th>
           </tr>
         </thead>
@@ -556,6 +583,8 @@
           ts: parseNumber(row?.ts),
           songDelta: parseNumber(row?.songDelta),
           songTotal: parseNumber(row?.songTotal),
+          uniqueSongDelta: row?.uniqueSongDelta == null ? parseNumber(row?.songDelta) : parseNumber(row?.uniqueSongDelta),
+          uniqueSongTotal: row?.uniqueSongTotal == null ? parseNumber(row?.songTotal) : parseNumber(row?.uniqueSongTotal),
           viewDelta: parseNumber(row?.viewDelta),
           viewTotal: parseNumber(row?.viewTotal)
         }))
@@ -574,7 +603,7 @@
         const date = String(row?.date || '');
         if (!date) return;
         if (!dateMap.has(date)) {
-          dateMap.set(date, { date, ts: 0, songDelta: 0, viewDelta: 0 });
+          dateMap.set(date, { date, ts: 0, songDelta: 0, uniqueSongDelta: 0, viewDelta: 0 });
         }
         const entry = dateMap.get(date);
         entry.songDelta += parseNumber(row?.delta);
@@ -585,7 +614,7 @@
         const date = String(row?.date || '');
         if (!date) return;
         if (!dateMap.has(date)) {
-          dateMap.set(date, { date, ts: 0, songDelta: 0, viewDelta: 0 });
+          dateMap.set(date, { date, ts: 0, songDelta: 0, uniqueSongDelta: 0, viewDelta: 0 });
         }
         const entry = dateMap.get(date);
         entry.viewDelta += parseNumber(row?.delta);
@@ -593,17 +622,21 @@
       });
 
       let songTotal = 0;
+      let uniqueSongTotal = 0;
       let viewTotal = 0;
       return Array.from(dateMap.values())
         .sort((a, b) => rowDateCompare(a.date, b.date))
         .map(row => {
           songTotal += parseNumber(row.songDelta);
+          uniqueSongTotal += parseNumber(row.uniqueSongDelta || row.songDelta);
           viewTotal += parseNumber(row.viewDelta);
           return {
             date: row.date,
             ts: row.ts || 0,
             songDelta: parseNumber(row.songDelta),
             songTotal,
+            uniqueSongDelta: parseNumber(row.uniqueSongDelta || row.songDelta),
+            uniqueSongTotal,
             viewDelta: parseNumber(row.viewDelta),
             viewTotal
           };
@@ -626,9 +659,9 @@
 
     function getMetricLabels() {
       if (currentMetricGroup === 'delta') {
-        return { view: '当日播放量', song: '当日曲目增量', group: '当日总量' };
+        return { view: '当日播放量', song: '当日曲目增量', unique: '当日去重增量', group: '当日总量' };
       }
-      return { view: '累计总播放', song: '累计总曲目', group: '累计总量' };
+      return { view: '累计总播放', song: '累计总曲目', unique: '累计去重歌曲', group: '累计总量' };
     }
 
     function getFocusedMetricMeta() {
@@ -651,6 +684,14 @@
             return parseNumber(isDelta ? row?.songDelta : row?.songTotal);
           }
         },
+        unique: {
+          key: 'unique',
+          color: '#0f766e',
+          label: isDelta ? '当日去重增量' : '累计去重歌曲',
+          getValue(row) {
+            return parseNumber(isDelta ? row?.uniqueSongDelta : row?.uniqueSongTotal);
+          }
+        },
         ratio: {
           key: 'ratio',
           color: '#7c3aed',
@@ -671,12 +712,14 @@
         return {
           view: parseNumber(row?.viewDelta),
           song: parseNumber(row?.songDelta),
+          unique: parseNumber(row?.uniqueSongDelta),
           ratio: ratioValue(row?.viewDelta, row?.songDelta)
         };
       }
       return {
         view: parseNumber(row?.viewTotal),
         song: parseNumber(row?.songTotal),
+        unique: parseNumber(row?.uniqueSongTotal),
         ratio: ratioValue(row?.viewTotal, row?.songTotal)
       };
     }
@@ -689,9 +732,11 @@
         : '更新时间：暂无数据';
       document.getElementById('kpiTotalViews').textContent = last ? numberText(last.viewTotal) : '-';
       document.getElementById('kpiTotalSongs').textContent = last ? numberText(last.songTotal) : '-';
+      document.getElementById('kpiTotalUniqueSongs').textContent = last ? numberText(last.uniqueSongTotal) : '-';
       document.getElementById('kpiTotalRatio').textContent = last ? ratioText(ratioValue(last.viewTotal, last.songTotal)) : '-';
       document.getElementById('kpiDailyViews').textContent = last ? numberText(last.viewDelta) : '-';
       document.getElementById('kpiDailySongs').textContent = last ? numberText(last.songDelta) : '-';
+      document.getElementById('kpiDailyUniqueSongs').textContent = last ? numberText(last.uniqueSongDelta) : '-';
       document.getElementById('kpiDailyRatio').textContent = last ? ratioText(ratioValue(last.viewDelta, last.songDelta)) : '-';
       document.getElementById('kpiLatestDate').textContent = last ? last.date : '-';
       document.getElementById('kpiDays').textContent = String(rows.length || 0);
@@ -799,7 +844,9 @@
       const rect = chartCanvas.getBoundingClientRect();
       const dpr = window.devicePixelRatio || 1;
       const width = Math.max(320, Math.floor(rect.width));
-      const height = 360;
+      const isNarrowChart = width < 560;
+      const height = isNarrowChart ? 300 : 360;
+      chartCanvas.style.height = `${height}px`;
       chartCanvas.width = Math.floor(width * dpr);
       chartCanvas.height = Math.floor(height * dpr);
 
@@ -807,7 +854,9 @@
       ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
       ctx.clearRect(0, 0, width, height);
 
-      const pad = { left: 68, right: 68, top: 16, bottom: 42 };
+      const pad = isNarrowChart
+        ? { left: 52, right: 52, top: 14, bottom: 38 }
+        : { left: 68, right: 68, top: 16, bottom: 42 };
       const cw = width - pad.left - pad.right;
       const ch = height - pad.top - pad.bottom;
 
@@ -824,6 +873,7 @@
       const focusedMetric = getFocusedMetricMeta();
       const viewValues = rows.map(row => getSeriesValues(row).view);
       const songValues = rows.map(row => getSeriesValues(row).song);
+      const uniqueValues = rows.map(row => getSeriesValues(row).unique);
       const ratioValues = rows.map(row => getSeriesValues(row).ratio);
       const xAt = index => pad.left + (rows.length === 1 ? cw / 2 : (cw * index) / (rows.length - 1));
 
@@ -866,7 +916,7 @@
         chartRangeText.textContent = `${focusedMetric.label}：${rows[0].date} 至 ${rows[rows.length - 1].date}（${rows.length} 天） | 区间 ${metricValueText(focusedMetric.key, metricMin)} ~ ${metricValueText(focusedMetric.key, metricMax)} | 纵轴已按当前区间自适应`;
       } else {
         const viewAxis = buildAxisRange(viewValues, { lockMinZero: true });
-        const songAxis = buildAxisRange(songValues, { lockMinZero: true });
+        const songAxis = buildAxisRange(songValues.concat(uniqueValues), { lockMinZero: true });
         const ratioAxis = buildAxisRange(ratioValues.filter(value => Number.isFinite(Number(value))), { lockMinZero: true });
         const yViewAt = value => pad.top + ((viewAxis.max - value) / (viewAxis.max - viewAxis.min)) * ch;
         const ySongAt = value => pad.top + ((songAxis.max - value) / (songAxis.max - songAxis.min)) * ch;
@@ -889,10 +939,12 @@
 
         drawSeries(ctx, rows, xAt, yViewAt, viewValues, '#d97706');
         drawSeries(ctx, rows, xAt, ySongAt, songValues, '#1a8f4c');
+        drawSeries(ctx, rows, xAt, ySongAt, uniqueValues, '#0f766e');
         drawSeries(ctx, rows, xAt, yRatioAt, ratioValues, '#7c3aed', { dashed: true });
         renderLegend([
           { label: labels.view, color: '#d97706' },
           { label: labels.song, color: '#1a8f4c' },
+          { label: labels.unique, color: '#0f766e' },
           { label: `${labels.group}商值`, color: '#7c3aed', dashed: true }
         ]);
 
@@ -921,8 +973,10 @@
           `<div>${focusedMetric.label}：${metricValueText(focusedMetric.key, currentValue)}</div>`,
           `<div>累计总播放：${numberText(row.viewTotal)}</div>`,
           `<div>累计总曲目：${numberText(row.songTotal)}</div>`,
+          `<div>累计去重歌曲：${numberText(row.uniqueSongTotal)}</div>`,
           `<div>当日播放量：${numberText(row.viewDelta)}</div>`,
-          `<div>当日曲目增量：${numberText(row.songDelta)}</div>`
+          `<div>当日曲目增量：${numberText(row.songDelta)}</div>`,
+          `<div>当日去重增量：${numberText(row.uniqueSongDelta)}</div>`
         ].join('');
       }
       const labels = getMetricLabels();
@@ -931,12 +985,15 @@
         `<strong>${row.date}</strong>`,
         `<div>${labels.view}：${numberText(current.view)}</div>`,
         `<div>${labels.song}：${numberText(current.song)}</div>`,
+        `<div>${labels.unique}：${numberText(current.unique)}</div>`,
         `<div>${labels.group}商值：${ratioText(current.ratio)}</div>`,
         `<div>累计总播放：${numberText(row.viewTotal)}</div>`,
         `<div>累计总曲目：${numberText(row.songTotal)}</div>`,
+        `<div>累计去重歌曲：${numberText(row.uniqueSongTotal)}</div>`,
         `<div>累计商值：${ratioText(ratioValue(row.viewTotal, row.songTotal))}</div>`,
         `<div>当日播放量：${numberText(row.viewDelta)}</div>`,
         `<div>当日曲目增量：${numberText(row.songDelta)}</div>`,
+        `<div>当日去重增量：${numberText(row.uniqueSongDelta)}</div>`,
         `<div>当日商值：${ratioText(ratioValue(row.viewDelta, row.songDelta))}</div>`
       ].join('');
     }
@@ -1029,9 +1086,10 @@
         buildAnalysisCards([
           { label: getMetricLabels().view, value: metricValueText('view', current.view), sub: `最新日期 ${last.date}` },
           { label: getMetricLabels().song, value: metricValueText('song', current.song), sub: `区间长度 ${rows.length} 天` },
+          { label: getMetricLabels().unique, value: metricValueText('unique', current.unique), sub: '按歌名歌手宽容去重' },
           { label: `${getMetricLabels().group}商值`, value: metricValueText('ratio', current.ratio), sub: `范围 ${rows[0].date} ~ ${rows[rows.length - 1].date}` }
         ]);
-        analysisText.textContent = `当前区间为 ${rows[0].date} 至 ${rows[rows.length - 1].date}。如果你只想看某一个指标的曲线和解释，直接把上面的下拉切到播放量、曲目或商值即可。`;
+        analysisText.textContent = `当前区间为 ${rows[0].date} 至 ${rows[rows.length - 1].date}。如果你只想看某一个指标的曲线和解释，直接把上面的下拉切到播放量、曲目、去重歌曲或商值即可。`;
         return;
       }
 
@@ -1093,9 +1151,11 @@
           <td>${row.date}</td>
           <td>${numberText(row.viewTotal)}</td>
           <td>${numberText(row.songTotal)}</td>
+          <td>${numberText(row.uniqueSongTotal)}</td>
           <td>${ratioText(ratioValue(row.viewTotal, row.songTotal))}</td>
           <td>${numberText(row.viewDelta)}</td>
           <td>${numberText(row.songDelta)}</td>
+          <td>${numberText(row.uniqueSongDelta)}</td>
           <td>${ratioText(ratioValue(row.viewDelta, row.songDelta))}</td>
         </tr>`;
       }).join('');
@@ -1141,14 +1201,16 @@
       const latest = rows[rows.length - 1];
       const viewDelta = parseNumber(latest.viewTotal) - parseNumber(first.viewTotal);
       const songDelta = parseNumber(latest.songTotal) - parseNumber(first.songTotal);
+      const uniqueSongDelta = parseNumber(latest.uniqueSongTotal) - parseNumber(first.uniqueSongTotal);
       const dailyViewSum = rows.reduce((sum, row) => sum + parseNumber(row.viewDelta), 0);
       const dailySongSum = rows.reduce((sum, row) => sum + parseNumber(row.songDelta), 0);
+      const dailyUniqueSongSum = rows.reduce((sum, row) => sum + parseNumber(row.uniqueSongDelta), 0);
       const focus = getFocusedMetricMeta();
       const lines = [
         `歌曲增长日报：${first.date} 至 ${latest.date}（${rows.length} 天）`,
-        `最新累计：播放 ${numberText(latest.viewTotal)} · 曲目 ${numberText(latest.songTotal)} · 商值 ${ratioText(ratioValue(latest.viewTotal, latest.songTotal))}`,
-        `区间变化：累计播放 ${metricDeltaText('view', viewDelta)} · 累计曲目 ${metricDeltaText('song', songDelta)}`,
-        `区间当日合计：播放 ${numberText(dailyViewSum)} · 曲目 ${numberText(dailySongSum)} · 商值 ${ratioText(ratioValue(dailyViewSum, dailySongSum))}`,
+        `最新累计：播放 ${numberText(latest.viewTotal)} · 曲目 ${numberText(latest.songTotal)} · 去重歌曲 ${numberText(latest.uniqueSongTotal)} · 商值 ${ratioText(ratioValue(latest.viewTotal, latest.songTotal))}`,
+        `区间变化：累计播放 ${metricDeltaText('view', viewDelta)} · 累计曲目 ${metricDeltaText('song', songDelta)} · 累计去重 ${metricDeltaText('unique', uniqueSongDelta)}`,
+        `区间当日合计：播放 ${numberText(dailyViewSum)} · 曲目 ${numberText(dailySongSum)} · 去重 ${numberText(dailyUniqueSongSum)} · 商值 ${ratioText(ratioValue(dailyViewSum, dailySongSum))}`,
         `当前视图：${currentMetricGroup === 'delta' ? '当日总量' : '累计总量'} / ${focus ? focus.label : '总览对比'}`
       ];
       const note = analysisText.textContent.trim();
@@ -1157,14 +1219,16 @@
     }
 
     function buildGrowthTableText() {
-      const header = ['日期', '累计总播放', '累计总曲目', '累计商值', '当日播放量', '当日曲目增量', '当日商值'];
+      const header = ['日期', '累计总播放', '累计总曲目', '累计去重歌曲', '累计商值', '当日播放量', '当日曲目增量', '当日去重增量', '当日商值'];
       const body = getCurrentTableRows().map(row => [
         row.date,
         parseNumber(row.viewTotal),
         parseNumber(row.songTotal),
+        parseNumber(row.uniqueSongTotal),
         ratioText(ratioValue(row.viewTotal, row.songTotal)),
         parseNumber(row.viewDelta),
         parseNumber(row.songDelta),
+        parseNumber(row.uniqueSongDelta),
         ratioText(ratioValue(row.viewDelta, row.songDelta))
       ].join('\t'));
       return [header.join('\t')].concat(body).join('\n');
@@ -1282,6 +1346,23 @@
     }
 
     initPage();
+  </script>
+  <script src="/page-directory-widget.js?v=20260522dir1"></script>
+  <script>
+    if (window.createPageDirectory) {
+      window.createPageDirectory({
+        title: '日报目录',
+        activeOffset: 120,
+        items: [
+          { label: '页面说明', selector: '.hint-box' },
+          { label: '核心指标', selector: '.summary-board' },
+          { label: '视图控制', selector: '.controls' },
+          { label: '增长曲线', selector: '.chart-wrap' },
+          { label: '趋势分析', selector: '.analysis-panel' },
+          { label: '明细表格', selector: '.table-wrap' }
+        ]
+      });
+    }
   </script>
   <script src="/last-run-badge.js?v=20260516shell4"></script>
 </body>
