@@ -1,6 +1,6 @@
 // あいまるん。 - 歌单数据 (多合集汇总)
 // 来源: BV18xo1BHEkX
-// 生成时间: 5/22/2026, 2:24:12 AM
+// 生成时间: 5/22/2026, 3:05:56 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -363,6 +363,70 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HAo1BMEyA?p=14",
+  "source": "aimarun.js"
+},
+    {
+  "title": "flos",
+  "artist": "R Sound Design feat. 初音ミク",
+  "collection": "歌切 2026-05-21 Aimarun. co0KfE4OEtM 久违的歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEFm?p=1",
+  "source": "aimarun.js"
+},
+    {
+  "title": "とても素敵な六月でした",
+  "artist": "Eight feat. 初音ミク",
+  "collection": "歌切 2026-05-21 Aimarun. co0KfE4OEtM 久违的歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEFm?p=2",
+  "source": "aimarun.js"
+},
+    {
+  "title": "夏祭り",
+  "artist": "JITTERIN'JINN",
+  "collection": "歌切 2026-05-21 Aimarun. co0KfE4OEtM 久违的歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEFm?p=3",
+  "source": "aimarun.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "歌切 2026-05-21 Aimarun. co0KfE4OEtM 久违的歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEFm?p=4",
+  "source": "aimarun.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "歌切 2026-05-21 Aimarun. co0KfE4OEtM 久违的歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEFm?p=5",
+  "source": "aimarun.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "歌切 2026-05-21 Aimarun. co0KfE4OEtM 久违的歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEFm?p=6",
+  "source": "aimarun.js"
+},
+    {
+  "title": "ウミユリ海底譚",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "歌切 2026-05-21 Aimarun. co0KfE4OEtM 久违的歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEFm?p=7",
+  "source": "aimarun.js"
+},
+    {
+  "title": "BONBON GiRL",
+  "artist": "SARM",
+  "collection": "歌切 2026-05-21 Aimarun. co0KfE4OEtM 久违的歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEFm?p=8",
   "source": "aimarun.js"
 }
 );
