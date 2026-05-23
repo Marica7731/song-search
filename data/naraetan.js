@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 5/23/2026, 6:03:48 AM
+// 生成时间: 5/23/2026, 6:45:00 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8923,6 +8923,102 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-20]初次来访的朋友和老观众们都热烈欢迎😉 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jbLW6vEY9?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-05-22]Live前夜祭！悠闲唱歌哦🌸 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15aGq6FE29?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "orion",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-05-22]Live前夜祭！悠闲唱歌哦🌸 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15aGq6FE29?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "インドア系ならトラックメイカー",
+  "artist": "Yunomi & nicamoq",
+  "collection": "【歌切】[2026-05-22]Live前夜祭！悠闲唱歌哦🌸 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15aGq6FE29?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【歌切】[2026-05-22]Live前夜祭！悠闲唱歌哦🌸 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15aGq6FE29?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "消せない罪",
+  "artist": "北出菜奈",
+  "collection": "【歌切】[2026-05-22]Live前夜祭！悠闲唱歌哦🌸 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15aGq6FE29?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "愛は勝つ",
+  "artist": "KAN",
+  "collection": "【歌切】[2026-05-22]Live前夜祭！悠闲唱歌哦🌸 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15aGq6FE29?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "浪漫飛行",
+  "artist": "米米CLUB",
+  "collection": "【歌切】[2026-05-22]Live前夜祭！悠闲唱歌哦🌸 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15aGq6FE29?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO×米津玄師",
+  "collection": "【歌切】[2026-05-22]Live前夜祭！悠闲唱歌哦🌸 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15aGq6FE29?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "W/X/Y",
+  "artist": "Tani Yuuki",
+  "collection": "【歌切】[2026-05-22]Live前夜祭！悠闲唱歌哦🌸 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15aGq6FE29?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-05-22]Live前夜祭！悠闲唱歌哦🌸 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15aGq6FE29?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-22]Live前夜祭！悠闲唱歌哦🌸 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15aGq6FE29?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "エンジェルウインク",
+  "artist": "茅野愛衣",
+  "collection": "【歌切】[2026-05-22]Live前夜祭！悠闲唱歌哦🌸 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15aGq6FE29?p=12",
   "source": "naraetan.js"
 },
     {

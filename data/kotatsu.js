@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 5/23/2026, 6:09:42 AM
+// 生成时间: 5/23/2026, 6:51:39 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3579,6 +3579,230 @@ window.SONG_DATA.push(
   "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=41",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "僕は君の事が好きだけど君は僕を別に好きじゃないみたい",
+  "artist": "back number",
+  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ルバート",
+  "artist": "ヨルシカ",
+  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ひかり",
+  "artist": "ハンバート ハンバート",
+  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "真っ赤な空を見ただろうか",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "時をかけるメロディー",
+  "artist": "小山田壮平",
+  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "KING",
+  "artist": "Kanaria feat. GUMI",
+  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "爆弾魔",
+  "artist": "ヨルシカ",
+  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "深夜高速",
+  "artist": "フラワーカンパニーズ",
+  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ジェニファー山田さん",
+  "artist": "RADWIMPS",
+  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "さよなら人類",
+  "artist": "たま",
+  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "拝啓、少年よ",
+  "artist": "Hump Back",
+  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "憂、燦々",
+  "artist": "クリープハイプ",
+  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "オシャレ大作戦",
+  "artist": "ネクライトーキー",
+  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ハンドメイドホーム",
+  "artist": "大森靖子",
+  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ギミギミック",
+  "artist": "RADWIMPS",
+  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "心拍数#0822",
+  "artist": "蝶々P feat. 初音ミク",
+  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "福笑い",
+  "artist": "高橋優",
+  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=17",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "隅田川",
+  "artist": "amazarashi",
+  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=18",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "未确定",
+  "artist": "未确定",
+  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=19",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ベースマン",
+  "artist": "andymori",
+  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=20",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夜の踊り子",
+  "artist": "サカナクション",
+  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=21",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Burning Friday Night",
+  "artist": "Lucky Kilimanjaro",
+  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=22",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "マニフェスト",
+  "artist": "RADWIMPS",
+  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=23",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=24",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ココロジェリーフィッシュ",
+  "artist": "ヒグチアイ",
+  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=25",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
+  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=26",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "遠い君へ",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=27",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ニーナ",
+  "artist": "はる こたつぶとん倶楽部♧さん",
+  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=28",
   "source": "kotatsu.js"
 }
 );
