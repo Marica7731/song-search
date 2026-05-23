@@ -2056,9 +2056,18 @@ body.culua-shell-stats .culua-page-content {
 body.culua-shell-stats .culua-stats-directory-slot {
   grid-column: 3;
   min-width: 0;
-  align-self: stretch;
+  align-self: start;
+  position: sticky;
+  top: 0;
+  height: 100vh;
   padding: 22px 18px 0 0;
   --pd-widget-sticky-top: 16px;
+}
+
+body.culua-shell-stats .pd-widget-mounted .pd-widget-desktop {
+  position: static;
+  top: auto;
+  width: 100%;
 }
 
 body.culua-shell-stats .pd-widget-mounted .pd-widget-card {

@@ -6,7 +6,8 @@
 
 | 文件路径 | 文件用途 | 主要函数或模块职责 | 与其他文件的关系 |
 |---|---|---|---|
-| `README.md` | 项目入口说明 | 说明功能、运行方式、测试方式、维护边界和文档索引 | 链接 `docs/migration-handoff.md`、`docs/culua-server-guide.md`、`docs/site-optimization-plan.md`、`docs/tabs-optimization-plan.md`、`docs/file-manifest.md` 与 `docs/add-source-prompt.md` |
+| `README.md` | 项目入口说明 | 说明功能、运行方式、测试方式、维护边界和文档索引 | 链接 `ADD_SOURCE_PROMPT.md`、`docs/migration-handoff.md`、`docs/culua-server-guide.md`、`docs/site-optimization-plan.md`、`docs/tabs-optimization-plan.md`、`docs/file-manifest.md` 与 `docs/add-source-prompt.md` |
+| `ADD_SOURCE_PROMPT.md` | 根目录来源添加提示词 | 固定 GitHub Pages 与 `culua.com` 添加来源的不同处理方式、BV 分P/合集判断、runtime 配置同步、发布和验证要求 | 与 `docs/add-source-prompt.md` 互补；新会话添加来源时优先复制本文件 |
 | `.gitignore` | 本地忽略规则 | 忽略运行缓存、日志、临时截图、下载目录、runtime、`.env` | 防止本地开发产物进入后续提交；不取消已跟踪文件 |
 | `index.html` | 优化版首页与歌曲检索页 | 可搜索来源、搜索范围切换、服务端分页、来源数量展示、来源按曲目数降序排列、刷新默认回到全部来源、最近更新时间展示、筛选偏好记忆、桌面紧凑复制工具条、H5 筛选/复制/页面导航底部弹层、移动端紧凑结果卡、来源/歌手视觉分层、结果字段点击复制、单条“歌名 - 歌手”复制、稳定行级复制、B站编辑稿件直达 | 读取 `/api/bootstrap`、`/api/search`；最近更新时间由 `last-run-badge.js` 读取；来源数量优先使用 `sourceStats.totalSongs`；来源选择只保留在当前页面会话，不写入 URL 或本地偏好；行内整行复制使用服务端 `rowId`，并在旧响应缺少 `rowId` 时按当前页临时行号兜底；字段复制使用结果项内的 `data-copy-value`；桌面复制全部调用 `/api/search/export`；H5 复制默认只处理当前页结果；编辑按钮使用 BV 号跳转 B站稿件编辑页；排序、页大小和字段偏好写入浏览器 `localStorage` |
 | `index-optimized.html` | 首页优化对照文件 | 与 `index.html` 保持同源，便于后续继续调样式或回看优化方案 | 配合 `docs/site-optimization-plan.md`；正式入口仍是 `index.html` |
@@ -19,9 +20,9 @@
 | `song-growth.html` | 歌曲总量日报页 | 展示曲库总量、日增、去重歌曲数、播放量和按投稿时间增长；独立“去重歌曲曲线”面板用累计去重折线和日新增去重柱形图展示趋势；支持切换单指标分析、复制当前区间摘要和当前表格页 TSV | 由 `scripts/update-song-growth.js` 更新；读取 `/api/song-growth` 的 `combinedRows`、`publishUniqueRows`、`anomalies` 和缓存元信息 |
 | `converter.html` | 辅助转换页 | 提供文本或格式转换辅助 | 独立静态页，共用站点样式 |
 | `admin-singer-config.html` | 来源配置后台 | 管理员维护来源/BV 配置并触发刷新 | 依赖服务端管理接口、`admin-refresh-control.js` 和 hash token |
-| `site-theme.css` | 共享样式 | 页面布局、纯文字 `culua.com` 品牌、表格、按钮、状态提示、数据页三栏布局、右侧 sticky 目录、排行/分组卡片、H5 紧凑导航、统一按钮高度和响应式样式 | 被多个 HTML 页面引用；正式工具页使用版本号查询串加载，避免线上缓存留在旧视觉 |
+| `site-theme.css` | 共享样式 | 页面布局、纯文字 `culua.com` 品牌、表格、按钮、状态提示、数据页三栏布局、右侧目录列、排行/分组卡片、H5 紧凑导航、统一按钮高度和响应式样式 | 被多个 HTML 页面引用；正式工具页使用版本号查询串加载，避免线上缓存留在旧视觉 |
 | `site-shell.js` | 正式工具页共享外壳兜底 | 同步当前页导航高亮；仅在页面没有静态壳层时才回退包裹 DOM，并使用纯文字 `culua.com` 品牌 | 被 `stats.html`、`bv-dup-check.html`、`title-artist-dup-check.html`、`title-artist-check.html`、`song-growth.html` 以 `defer` 引入；正式页首屏 HTML 已直接包含共享外壳，避免旧页面闪烁 |
-| `page-directory-widget.js` | 页面目录组件 | 生成目录、移动端目录按钮、可关闭抽屉、滚动定位和当前项高亮；支持通过 `mount` 挂载到页面布局列，未挂载时保持旧的浮动目录行为 | 被长页面、数据页和校验工具复用 |
+| `page-directory-widget.js` | 页面目录组件 | 生成目录、移动端目录按钮、可关闭抽屉、滚动定位和当前项高亮；支持通过 `mount` 挂载到页面布局列，挂载后桌面目录在保留的右侧列内 sticky 吸顶，未挂载时保持旧的浮动目录行为 | 被长页面、数据页和校验工具复用 |
 | `last-run-badge.js` | 最近更新状态角标 | 读取更新元信息并展示“最近更新”时间，避免暴露 `update-songs` 等技术文案 | 优先读取 `/reports/update-songs-meta.json`，失败时读取 `/api/site-meta`；被首页和各工具页引入 |
 | `admin-refresh-control.js` | 管理刷新控件 | 读取 token、显示刷新状态、触发服务端刷新 | 配合 `admin-singer-config.html` 和 `server.js` 管理接口 |
 
@@ -55,7 +56,7 @@
 | 文件路径 | 文件用途 | 主要函数或模块职责 | 与其他文件的关系 |
 |---|---|---|---|
 | `scripts/singer-configs.json` | 来源/BV 配置 | 配置来源别名、文件名、入口 BV；可用 `sectionTitle` / `sectionTitles` 收录指定合集小节，用 `excludeSectionTitle` / `excludeSectionTitles` 排除指定小节 | `scripts/update-songs.js` 的主要输入；服务器也可用 `/var/lib/song-search/singer-configs.json` 覆盖运行时配置 |
-| `scripts/update-songs.js` | 歌库抓取生成脚本 | 读取来源配置、拉取 B 站元数据、解析分 P、按合集小节过滤来源、生成 `data/*.js` 和 `data/index.json` | 服务器刷新脚本、GitHub Actions、本地数据更新都会调用 |
+| `scripts/update-songs.js` | 歌库抓取生成脚本 | 读取来源配置、拉取 B 站元数据、解析分 P、按合集小节过滤来源、兼容普通多分P BV 和 `with 嘉宾 + 序号` 分P标题、生成 `data/*.js` 和 `data/index.json` | 服务器刷新脚本、GitHub Actions、本地数据更新都会调用 |
 | `scripts/update-song-growth.js` | 增长日报生成脚本 | 读取歌库数据和去重歌曲数，更新 `reports/song-growth-history.json`、`song-growth.html` 和 README 日报段落 | GitHub Actions `song-growth.yml` 调用 |
 | `scripts/check-song-library.js` | 歌库检查脚本 | 统计数据文件数、总曲数、去重曲数、缺失歌手数 | 本地提交前和数据更新后验证使用 |
 | `scripts/check-live-song-total.js` | 线上歌库回退检查脚本 | 读取公网 `/api/bootstrap` 和 `/api/search`，校验 `totalSongs` 不低于指定值、指定 BV 至少命中一条 | 发布前后和线上故障排查使用，避免只重启服务导致歌库回退 |

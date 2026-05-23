@@ -8,6 +8,7 @@ const BV_REGEX = /BV[0-9a-zA-Z]+/;
 const CLEAN_SUFFIX_REGEX = /(\s*\(\d+\)|_(sub|copy|backup|1080p|720p|\d+))$/i;
 const TRAILING_TAG_REGEX = /(?:\s*(?:\[[^\]]*\]|【[^】]*】|【[^】]*))+$/;
 const LEADING_SOURCE_REGEX = /^(?:\s*【[^】]+】)+\s*/;
+const LEADING_WITH_INDEX_REGEX = /^\s*with\s+.+?\s+\d+\.\s+/i;
 const LEADING_INDEX_REGEX = /^(?:\s*\[\d+(?:\s*[-/]\s*\d+)+\]\.?\s*|\s*\d+\.\s+|\s*P\d+[：:]\s*)/i;
 const SPECIAL_BRACKET_ARTIST_SET = new Set(['[Alexandros]', '[ALEXANDROS]']);
 const ROOT_DIR = path.join(__dirname, '..');
@@ -321,7 +322,9 @@ function cleanArtist(rawArtist) {
 function splitSongTitleAndArtist(partTitle) {
     const normalized = String(partTitle || '')
         .replace(LEADING_SOURCE_REGEX, '')
+        .replace(LEADING_WITH_INDEX_REGEX, '')
         .replace(LEADING_INDEX_REGEX, '')
+        .replace(/\s+-\s*$/, '')
         .trim();
     const cleaned = cleanTitle(normalized);
     let title = cleaned;

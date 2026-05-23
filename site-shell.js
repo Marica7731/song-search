@@ -1,11 +1,11 @@
 (function () {
   const navItems = [
-    { key: 'home', href: '/', title: '检索', meta: '首页' },
-    { key: 'stats', href: '/stats', title: '统计', meta: '排行' },
+    { key: 'home', href: '/', title: '检索', meta: '搜索' },
+    { key: 'stats', href: '/stats', title: '统计', meta: '数据' },
     { key: 'bv', href: '/bv', title: 'BV 查重', meta: '工具' },
     { key: 'dup', href: '/dup', title: '歌名查重', meta: '工具' },
     { key: 'check', href: '/check', title: '命名校验', meta: '工具' },
-    { key: 'growth', href: '/growth', title: '增长日报', meta: '数据' }
+    { key: 'growth', href: '/growth', title: '增长日报', meta: '趋势' }
   ];
 
   const pageByPath = new Map([

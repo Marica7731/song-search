@@ -37,6 +37,7 @@ git status --short
 - `tabs-optimization-preview.html`：六个主 tab 的优化方案 HTML 预览，会读取 `/api/tabs/overview` 展示真实后端概览，不替换生产页面。
 - `server.js`：统一 Node 服务端，提供静态页面、搜索分页、搜索导出、统计视图、全站 tab 概览、查重/命名摘要、增长缓存、管理刷新和内部 reload；HTML 响应返回 `Cache-Control: no-store`，减少发布后仍看到旧页面的问题。
 - `scripts/check-live-song-total.js`：线上歌库回退检查脚本，读取公网 `/api/bootstrap` 和 `/api/search`，用于发布后确认总曲数没有下降、关键 BV 仍可命中。
+- `ADD_SOURCE_PROMPT.md`：根目录来源添加提示词，固定 GitHub Pages 与 `culua.com` 的不同添加、验证和发布方式，避免后续上下文过长时混用流程。
 
 ## 在线页面
 
@@ -205,6 +206,8 @@ npm run check:library
 
 - BV 号在配置里保持原样，不要强制改大小写。
 - `sectionTitle` 按 B 站接口返回的小节标题完全匹配，改名或空格差异会影响收录。
+- 没有 `ugc_season.sections` 的普通多分P BV 不需要 `sectionTitle`；抓取脚本会把入口 BV 本身作为视频并读取 `pages`。
+- `with 嘉宾 02. 歌名 - 歌手` 这类分P标题会先清掉 `with 嘉宾 + 序号` 前缀，再沿用普通 `歌名 - 歌手` 解析；如果末尾只有分隔用的 `-`，会去掉这个空歌手分隔符。
 - `reports/bv-metadata-cache.json` 和 `reports/update-songs-meta.json` 是运行缓存，不提交。
 - 服务器管理 token、cookie、AI key、`.env` 不写入仓库。
 
