@@ -1,6 +1,6 @@
 // HoshiHo - 歌单数据 (多合集汇总)
 // 来源: BV11fQSB2ELX
-// 生成时间: 5/23/2026, 8:28:35 PM
+// 生成时间: 5/23/2026, 9:08:43 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1851,6 +1851,174 @@ window.SONG_DATA.push(
   "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=17",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "メロウ",
+  "artist": "『スキップとローファー』須田景凪",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=1",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "笑顔に会いたい",
+  "artist": "『ママレード・ボーイ』濱田理恵",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=2",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "MOMENT",
+  "artist": "『ママレード・ボーイ』國府田マリ子",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=3",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "True My Heart(short.ver)",
+  "artist": "ナーサリィ☆ライム -』佐倉紗織",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=4",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "風のアンセム(feat. suis from ヨルシカ)",
+  "artist": "『とんがり帽子のアトリエ』Eve",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=5",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Get along",
+  "artist": "『スレイヤーズ』林原めぐみ、奥井雅美",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=6",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Give a reason",
+  "artist": "『スレイヤーズNEXT』林原めぐみ",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=7",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "邪魔はさせない",
+  "artist": "『スレイヤーズNEXT』奥井雅美",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=8",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "記憶の海",
+  "artist": "『School Days』yozuca*",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=9",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "エルの絵本 【魔女とラフレンツェ】",
+  "artist": "『Elysion ～楽園幻想物語組曲～』Sound Horizon",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=10",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Ark",
+  "artist": "『Elysion ～楽園幻想物語組曲～』Sound Horizon",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=11",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Sacrifice",
+  "artist": "『Elysion ～楽園幻想物語組曲～』Sound Horizon",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=12",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "StarDust",
+  "artist": "『Elysion ～楽園幻想物語組曲～』Sound Horizon",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=13",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "エルの楽園 ［→ side：A →］",
+  "artist": "『Elysion ～楽園幻想物語組曲～』Sound Horizon",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=14",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "輪舞-revolution",
+  "artist": "『少女革命ウテナ』奥井雅美",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=15",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "絶対運命黙示録・完全版",
+  "artist": "『少女革命ウテナ』杉並児童合唱団",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=16",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "バーチャルスター発生学(short ver)",
+  "artist": "『少女革命ウテナ』上谷麻紀",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=17",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "fairytale",
+  "artist": "『空の境界(第六章)』Kalafina",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=18",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "プリティ・ケーキ・マジック",
+  "artist": "『わがまま☆フェアリー ミルモでポン!』kaede+Cheek Fairy",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=19",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "やさしい両手",
+  "artist": "『hack//G.U.』三谷朋世",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=20",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Silly-Go-Round",
+  "artist": "『.hack//Roots』FictionJunction YUUKA",
+  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=21",
   "source": "hoshiho.js"
 }
 );

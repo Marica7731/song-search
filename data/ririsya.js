@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 5/23/2026, 8:24:46 PM
+// 生成时间: 5/23/2026, 9:04:49 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -15947,6 +15947,174 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-05-21]雨音与弹唱 ✧ Sing with a guitar 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AjLv6VE7W?p=15",
+  "source": "ririsya.js"
+},
+    {
+  "title": "君はロックを聴かない",
+  "artist": "あいみょん",
+  "collection": "【🐍歌切】[2026-05-23]唱歌唱歌唱歌！！！ ✧ 歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pLGz6UECx?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "愛を伝えたいだとか",
+  "artist": "あいみょん",
+  "collection": "【🐍歌切】[2026-05-23]唱歌唱歌唱歌！！！ ✧ 歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pLGz6UECx?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "幸福論",
+  "artist": "椎名林檎",
+  "collection": "【🐍歌切】[2026-05-23]唱歌唱歌唱歌！！！ ✧ 歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pLGz6UECx?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "閃光少女",
+  "artist": "東京事変",
+  "collection": "【🐍歌切】[2026-05-23]唱歌唱歌唱歌！！！ ✧ 歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pLGz6UECx?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "群青日和",
+  "artist": "東京事変",
+  "collection": "【🐍歌切】[2026-05-23]唱歌唱歌唱歌！！！ ✧ 歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pLGz6UECx?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ギブス",
+  "artist": "椎名林檎",
+  "collection": "【🐍歌切】[2026-05-23]唱歌唱歌唱歌！！！ ✧ 歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pLGz6UECx?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ここでキスして。",
+  "artist": "椎名林檎",
+  "collection": "【🐍歌切】[2026-05-23]唱歌唱歌唱歌！！！ ✧ 歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pLGz6UECx?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Overdose",
+  "artist": "なとり",
+  "collection": "【🐍歌切】[2026-05-23]唱歌唱歌唱歌！！！ ✧ 歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pLGz6UECx?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【🐍歌切】[2026-05-23]唱歌唱歌唱歌！！！ ✧ 歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pLGz6UECx?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "素直になれないんだ",
+  "artist": "nyankobrq ft. Ririsya",
+  "collection": "【🐍歌切】[2026-05-23]唱歌唱歌唱歌！！！ ✧ 歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pLGz6UECx?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "幾何学のメタバース",
+  "artist": "凛々咲",
+  "collection": "【🐍歌切】[2026-05-23]唱歌唱歌唱歌！！！ ✧ 歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pLGz6UECx?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "水星",
+  "artist": "tofubeats feat.オノマトペ大臣",
+  "collection": "【🐍歌切】[2026-05-23]唱歌唱歌唱歌！！！ ✧ 歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pLGz6UECx?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "フラジール",
+  "artist": "ぬゆり",
+  "collection": "【🐍歌切】[2026-05-23]唱歌唱歌唱歌！！！ ✧ 歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pLGz6UECx?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "帝国少女",
+  "artist": "R Sound Design",
+  "collection": "【🐍歌切】[2026-05-23]唱歌唱歌唱歌！！！ ✧ 歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pLGz6UECx?p=14",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Blue Jeans",
+  "artist": "HANA",
+  "collection": "【🐍歌切】[2026-05-23]唱歌唱歌唱歌！！！ ✧ 歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pLGz6UECx?p=15",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Sad Song",
+  "artist": "ちゃんみな",
+  "collection": "【🐍歌切】[2026-05-23]唱歌唱歌唱歌！！！ ✧ 歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pLGz6UECx?p=16",
+  "source": "ririsya.js"
+},
+    {
+  "title": "私とワルツを",
+  "artist": "鬼束ちひろ",
+  "collection": "【🐍歌切】[2026-05-23]唱歌唱歌唱歌！！！ ✧ 歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pLGz6UECx?p=17",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Departures ～あなたにおくるアイの歌～",
+  "artist": "EGOIST",
+  "collection": "【🐍歌切】[2026-05-23]唱歌唱歌唱歌！！！ ✧ 歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pLGz6UECx?p=18",
+  "source": "ririsya.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-05-23]唱歌唱歌唱歌！！！ ✧ 歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pLGz6UECx?p=19",
+  "source": "ririsya.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-05-23]唱歌唱歌唱歌！！！ ✧ 歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pLGz6UECx?p=20",
+  "source": "ririsya.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-05-23]唱歌唱歌唱歌！！！ ✧ 歌回 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pLGz6UECx?p=21",
   "source": "ririsya.js"
 }
 );
