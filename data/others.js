@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 5/23/2026, 5:34:40 PM
+// 生成时间: 5/23/2026, 6:13:41 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10811,6 +10811,134 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eLG66BEp7?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "Butter-Fly ～tri.Version～",
+  "artist": "和田光司",
+  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "嵐の中で輝いて",
+  "artist": "米倉千尋",
+  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "鳥の詩",
+  "artist": "Lia",
+  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "メリッサ",
+  "artist": "ポルノグラフィティ",
+  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "Get Wild",
+  "artist": "TM NETWORK",
+  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ラムのラブソング",
+  "artist": "松谷祐子",
+  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "Shangri-La",
+  "artist": "angela",
+  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "明日へのbrilliant road",
+  "artist": "angela",
+  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "となりのトトロ",
+  "artist": "井上あずみ",
+  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "風のとおり道",
+  "artist": "杉並児童合唱団",
+  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "Ready Go!",
+  "artist": "田村直美",
+  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "明日の私に幸あれ",
+  "artist": "ナナヲアカリ",
+  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "BRAVE GROOVE",
+  "artist": "iLiFE!",
+  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=16",
   "source": "others.js"
 },
     {
