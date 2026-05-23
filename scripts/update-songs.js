@@ -85,6 +85,8 @@ const SINGER_CONFIGS = [
     { bvids: ["BV1qDDbBBETv"], file: "noapolaris", alias: "ノア・ポラリス" },
     { bvids: ["BV12mQ3B6EpP"], file: "mikage", alias: "深影" },
     { bvids: ["BV179L66pE1f"], file: "yamadasharo", alias: "山田シャロ" },
+    { bvids: ["BV1PLQVB3E9e"], file: "tulsi", alias: "魔王トゥルシー" },
+    { bvids: ["BV1p7DtBGEfy"], file: "luminous", alias: "るみなす・すいーと" },
     { bvids: ["BV11GZtBcEsp","BV1xucZzxEkZ","BV117P2zwEuq","BV1LJ4m1A7FC"], file: "others", alias: "非常驻妹妹" },
     { bvids: ["BV1Qa9JB6EAw"], alias: "陽月るるふ" }
 ];
