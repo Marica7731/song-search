@@ -1,6 +1,6 @@
 // 山田シャロ - 歌单数据 (多合集汇总)
 // 来源: BV179L66pE1f
-// 生成时间: 5/23/2026, 6:58:18 AM
+// 生成时间: 5/23/2026, 7:56:41 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -387,6 +387,134 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-17]用最强嗓音唱超燃动漫歌曲，唱个够♪🎤 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qoL66nEZB?p=24",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-05-22]想在竖屏直播中遇到初次见面的观众！✨ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19QGi64E9d?p=1",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "シンデレラ",
+  "artist": "DECO*27",
+  "collection": "【歌切】[2026-05-22]想在竖屏直播中遇到初次见面的观众！✨ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19QGi64E9d?p=2",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ETERNAL BLAZE",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-05-22]想在竖屏直播中遇到初次见面的观众！✨ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19QGi64E9d?p=3",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "NEXT COLOUR PLANET",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-05-22]想在竖屏直播中遇到初次见面的观众！✨ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19QGi64E9d?p=4",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "みちづれ",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-05-22]想在竖屏直播中遇到初次见面的观众！✨ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19QGi64E9d?p=5",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "CHOIR JAIL",
+  "artist": "鈴木このみ",
+  "collection": "【歌切】[2026-05-22]想在竖屏直播中遇到初次见面的观众！✨ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19QGi64E9d?p=6",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ",
+  "collection": "【歌切】[2026-05-22]想在竖屏直播中遇到初次见面的观众！✨ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19QGi64E9d?p=7",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Listen!!",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-05-22]想在竖屏直播中遇到初次见面的观众！✨ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19QGi64E9d?p=8",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ぴゅあぴゅあはーと",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-05-22]想在竖屏直播中遇到初次见面的观众！✨ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19QGi64E9d?p=9",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Cagayake! GIRLS",
+  "artist": "桜高軽音部",
+  "collection": "【歌切】[2026-05-22]想在竖屏直播中遇到初次见面的观众！✨ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19QGi64E9d?p=10",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "愛の星",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-05-22]想在竖屏直播中遇到初次见面的观众！✨ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19QGi64E9d?p=11",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "GHOST",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-05-22]想在竖屏直播中遇到初次见面的观众！✨ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19QGi64E9d?p=12",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ソワレ",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-05-22]想在竖屏直播中遇到初次见面的观众！✨ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19QGi64E9d?p=13",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-05-22]想在竖屏直播中遇到初次见面的观众！✨ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19QGi64E9d?p=14",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "新宝島",
+  "artist": "サカナクション",
+  "collection": "【歌切】[2026-05-22]想在竖屏直播中遇到初次见面的观众！✨ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19QGi64E9d?p=15",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Shout Baby",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-05-22]想在竖屏直播中遇到初次见面的观众！✨ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19QGi64E9d?p=16",
   "source": "yamadasharo.js"
 }
 );

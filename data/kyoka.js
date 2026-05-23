@@ -1,6 +1,6 @@
 // 響架 - 歌单数据 (多合集汇总)
 // 来源: BV1d85B6TEFa
-// 生成时间: 5/23/2026, 6:57:25 AM
+// 生成时间: 5/23/2026, 7:55:37 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -363,6 +363,174 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-05-14 Kyoka Ch. -響架- IfOpNWozh1M 🏮 ｜唱歌聊天！愉快度过的夜晚 ∞ 響架",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d85B6TEFa?p=21",
+  "source": "kyoka.js"
+},
+    {
+  "title": "裏切りの夕焼け",
+  "artist": "Theatre Brook",
+  "collection": "【歌切】[2026-05-22]🏮实写=超美丽3D｜明天是Live!!在那之前，我决定唱首歌 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbGq6wEMw?p=1",
+  "source": "kyoka.js"
+},
+    {
+  "title": "コンプリケイション",
+  "artist": "ROOKiEZ is PUNK'D",
+  "collection": "【歌切】[2026-05-22]🏮实写=超美丽3D｜明天是Live!!在那之前，我决定唱首歌 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbGq6wEMw?p=2",
+  "source": "kyoka.js"
+},
+    {
+  "title": "流れ星～Shooting Star～",
+  "artist": "HOME MADE 家族",
+  "collection": "【歌切】[2026-05-22]🏮实写=超美丽3D｜明天是Live!!在那之前，我决定唱首歌 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbGq6wEMw?p=3",
+  "source": "kyoka.js"
+},
+    {
+  "title": "ラブソング",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-05-22]🏮实写=超美丽3D｜明天是Live!!在那之前，我决定唱首歌 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbGq6wEMw?p=4",
+  "source": "kyoka.js"
+},
+    {
+  "title": "Overdose",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-05-22]🏮实写=超美丽3D｜明天是Live!!在那之前，我决定唱首歌 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbGq6wEMw?p=5",
+  "source": "kyoka.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-05-22]🏮实写=超美丽3D｜明天是Live!!在那之前，我决定唱首歌 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbGq6wEMw?p=6",
+  "source": "kyoka.js"
+},
+    {
+  "title": "丸の内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-05-22]🏮实写=超美丽3D｜明天是Live!!在那之前，我决定唱首歌 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbGq6wEMw?p=7",
+  "source": "kyoka.js"
+},
+    {
+  "title": "おとなの掟",
+  "artist": "Doughnuts Hole",
+  "collection": "【歌切】[2026-05-22]🏮实写=超美丽3D｜明天是Live!!在那之前，我决定唱首歌 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbGq6wEMw?p=8",
+  "source": "kyoka.js"
+},
+    {
+  "title": "Duty Friend",
+  "artist": "NIKIIE",
+  "collection": "【歌切】[2026-05-22]🏮实写=超美丽3D｜明天是Live!!在那之前，我决定唱首歌 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbGq6wEMw?p=9",
+  "source": "kyoka.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【歌切】[2026-05-22]🏮实写=超美丽3D｜明天是Live!!在那之前，我决定唱首歌 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbGq6wEMw?p=10",
+  "source": "kyoka.js"
+},
+    {
+  "title": "奏",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-05-22]🏮实写=超美丽3D｜明天是Live!!在那之前，我决定唱首歌 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbGq6wEMw?p=11",
+  "source": "kyoka.js"
+},
+    {
+  "title": "世界が終るまでは…",
+  "artist": "WANDS",
+  "collection": "【歌切】[2026-05-22]🏮实写=超美丽3D｜明天是Live!!在那之前，我决定唱首歌 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbGq6wEMw?p=12",
+  "source": "kyoka.js"
+},
+    {
+  "title": "damn",
+  "artist": "藤井風",
+  "collection": "【歌切】[2026-05-22]🏮实写=超美丽3D｜明天是Live!!在那之前，我决定唱首歌 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbGq6wEMw?p=13",
+  "source": "kyoka.js"
+},
+    {
+  "title": "え？あぁ、そう。",
+  "artist": "蝶々P feat. 初音ミク",
+  "collection": "【歌切】[2026-05-22]🏮实写=超美丽3D｜明天是Live!!在那之前，我决定唱首歌 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbGq6wEMw?p=14",
+  "source": "kyoka.js"
+},
+    {
+  "title": "混沌ブギ",
+  "artist": "jon-YAKITORY feat. 初音ミク",
+  "collection": "【歌切】[2026-05-22]🏮实写=超美丽3D｜明天是Live!!在那之前，我决定唱首歌 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbGq6wEMw?p=15",
+  "source": "kyoka.js"
+},
+    {
+  "title": "ラヴィ",
+  "artist": "すりぃ feat. 鏡音レン",
+  "collection": "【歌切】[2026-05-22]🏮实写=超美丽3D｜明天是Live!!在那之前，我决定唱首歌 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbGq6wEMw?p=16",
+  "source": "kyoka.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工 feat. 初音ミク",
+  "collection": "【歌切】[2026-05-22]🏮实写=超美丽3D｜明天是Live!!在那之前，我决定唱首歌 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbGq6wEMw?p=17",
+  "source": "kyoka.js"
+},
+    {
+  "title": "マトリョシカ",
+  "artist": "ハチ feat. 初音ミク,GUMI",
+  "collection": "【歌切】[2026-05-22]🏮实写=超美丽3D｜明天是Live!!在那之前，我决定唱首歌 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbGq6wEMw?p=18",
+  "source": "kyoka.js"
+},
+    {
+  "title": "ネトゲ廃人シュプレヒコール",
+  "artist": "さつき が てんこもり feat. 初音ミク",
+  "collection": "【歌切】[2026-05-22]🏮实写=超美丽3D｜明天是Live!!在那之前，我决定唱首歌 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbGq6wEMw?p=19",
+  "source": "kyoka.js"
+},
+    {
+  "title": "Mr.Music",
+  "artist": "れるりり,ロンチーノ=ペペ,かごめP feat. 初音ミク,巡音ルカ,鏡音リン,鏡音レン,GUMI,歌愛ユキ",
+  "collection": "【歌切】[2026-05-22]🏮实写=超美丽3D｜明天是Live!!在那之前，我决定唱首歌 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbGq6wEMw?p=20",
+  "source": "kyoka.js"
+},
+    {
+  "title": "Honto",
+  "artist": "sumika",
+  "collection": "【歌切】[2026-05-22]🏮实写=超美丽3D｜明天是Live!!在那之前，我决定唱首歌 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jbGq6wEMw?p=21",
   "source": "kyoka.js"
 }
 );

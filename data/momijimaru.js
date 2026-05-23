@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 5/23/2026, 6:43:38 AM
+// 生成时间: 5/23/2026, 7:43:37 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5651,6 +5651,126 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-05-21]表現力怪物Vsinger!! 音乐剧歌回🍁✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gcLv6WESZ?p=20",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【🍁歌切】[2026-05-22]生歌最強Vsinger!! 校园祭前的青春歌曲歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gdGi6REZz?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "青春アミーゴ",
+  "artist": "修二と彰",
+  "collection": "【🍁歌切】[2026-05-22]生歌最強Vsinger!! 校园祭前的青春歌曲歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gdGi6REZz?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "金曜日のおはよう",
+  "artist": "HoneyWorks feat. GUMI",
+  "collection": "【🍁歌切】[2026-05-22]生歌最強Vsinger!! 校园祭前的青春歌曲歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gdGi6REZz?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat. IA",
+  "collection": "【🍁歌切】[2026-05-22]生歌最強Vsinger!! 校园祭前的青春歌曲歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gdGi6REZz?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Laughter",
+  "artist": "Official髭男dism",
+  "collection": "【🍁歌切】[2026-05-22]生歌最強Vsinger!! 校园祭前的青春歌曲歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gdGi6REZz?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "かいしんのいちげき！",
+  "artist": "天月-あまつき-",
+  "collection": "【🍁歌切】[2026-05-22]生歌最強Vsinger!! 校园祭前的青春歌曲歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gdGi6REZz?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍁歌切】[2026-05-22]生歌最強Vsinger!! 校园祭前的青春歌曲歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gdGi6REZz?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "小さな恋のうた",
+  "artist": "MONGOL800",
+  "collection": "【🍁歌切】[2026-05-22]生歌最強Vsinger!! 校园祭前的青春歌曲歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gdGi6REZz?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "貴方解剖純愛歌 ～死ね～",
+  "artist": "あいみょん",
+  "collection": "【🍁歌切】[2026-05-22]生歌最強Vsinger!! 校园祭前的青春歌曲歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gdGi6REZz?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【🍁歌切】[2026-05-22]生歌最強Vsinger!! 校园祭前的青春歌曲歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gdGi6REZz?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "明日も",
+  "artist": "SHISHAMO",
+  "collection": "【🍁歌切】[2026-05-22]生歌最強Vsinger!! 校园祭前的青春歌曲歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gdGi6REZz?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "君に届け",
+  "artist": "flumpool",
+  "collection": "【🍁歌切】[2026-05-22]生歌最強Vsinger!! 校园祭前的青春歌曲歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gdGi6REZz?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "イカロス",
+  "artist": "GReeeeN",
+  "collection": "【🍁歌切】[2026-05-22]生歌最強Vsinger!! 校园祭前的青春歌曲歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gdGi6REZz?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍁歌切】[2026-05-22]生歌最強Vsinger!! 校园祭前的青春歌曲歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gdGi6REZz?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "世界の真ん中を歩く",
+  "artist": "夏代孝明 feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-05-22]生歌最強Vsinger!! 校园祭前的青春歌曲歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gdGi6REZz?p=15",
   "source": "momijimaru.js"
 }
 );

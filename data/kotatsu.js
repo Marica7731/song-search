@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 5/23/2026, 6:51:39 AM
+// 生成时间: 5/23/2026, 7:50:24 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3582,6 +3582,350 @@ window.SONG_DATA.push(
   "source": "kotatsu.js"
 },
     {
+  "title": "ウミユリ海底譚",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ダンデライオン",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "さよならまたね",
+  "artist": "キクチリョウタ",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "関白宣言",
+  "artist": "さだまさし",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "25コ目の染色体",
+  "artist": "RADWIMPS",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "始発とカフカ",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "金魚花火",
+  "artist": "大塚愛",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "たしかなこと",
+  "artist": "小田和正",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "エクレア",
+  "artist": "岡崎体育",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "はなびら",
+  "artist": "奥華子",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "fish",
+  "artist": "back number",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "東京",
+  "artist": "ヒグチアイ",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "The Beast.",
+  "artist": "スペクタクルP feat. 初音ミク",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "おなじ話",
+  "artist": "ハンバート ハンバート",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "あいという",
+  "artist": "plenty",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "あいという",
+  "artist": "Plenty",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "青空",
+  "artist": "THE BLUE HEARTS",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=17",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "オーダーメイド",
+  "artist": "RADWIMPS",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=18",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "日々",
+  "artist": "吉田山田",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=19",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "アルバイト",
+  "artist": "3markets",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=20",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夢の恋人",
+  "artist": "ズーカラデル",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=21",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "さようなら、花泥棒さん",
+  "artist": "メル feat. 初音ミク",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=22",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Peace",
+  "artist": "andymori",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=23",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "アヤノの幸福理論",
+  "artist": "じん feat. IA",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=24",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "それがあなたの幸せとしても",
+  "artist": "Heavenz feat. 巡音ルカ",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=25",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "性善説",
+  "artist": "amazarashi",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=26",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "月明かりのように",
+  "artist": "はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=27",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ぼくらのレットイットビー",
+  "artist": "はりーP feat. 初音ミク",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=28",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "くだらないの中に",
+  "artist": "星野源",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=29",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ナイトオンザプラネット",
+  "artist": "クリープハイプ",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=30",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Rain",
+  "artist": "秦基博",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=31",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "1時間",
+  "artist": "ハンバート ハンバート",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=32",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Believe",
+  "artist": "杉本竜一",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=33",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=34",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "知らんけど。",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=35",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "マリーゴールド",
+  "artist": "あいみょん",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=36",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "チェリー",
+  "artist": "スピッツ",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=37",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "無名のオリジナル",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=38",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "たられば",
+  "artist": "amazarashi",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=39",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "冬へと走りだすお！",
+  "artist": "でんぱ組.inc",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=40",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "無名",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=41",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=42",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "幕無し",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=43",
+  "source": "kotatsu.js"
+},
+    {
   "title": "僕は君の事が好きだけど君は僕を別に好きじゃないみたい",
   "artist": "back number",
   "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
@@ -3726,8 +4070,8 @@ window.SONG_DATA.push(
   "source": "kotatsu.js"
 },
     {
-  "title": "未确定",
-  "artist": "未确定",
+  "title": "かぞえうた",
+  "artist": "はるこたつぶとん倶楽部♧",
   "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=19",
@@ -3799,7 +4143,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ニーナ",
-  "artist": "はる こたつぶとん倶楽部♧さん",
+  "artist": "はる こたつぶとん倶楽部♧",
   "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=28",

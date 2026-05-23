@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 5/23/2026, 6:45:31 AM
+// 生成时间: 5/23/2026, 7:44:57 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -31091,6 +31091,134 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-05-19]出道2222日纪念直播！ Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1htL66gEte?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-05-22]初夏呢〜！！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14TGq6jEYq?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "夏色",
+  "artist": "ゆず",
+  "collection": "【💐歌切】[2026-05-22]初夏呢〜！！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14TGq6jEYq?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "老人と海",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-05-22]初夏呢〜！！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14TGq6jEYq?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "海の幽霊",
+  "artist": "米津玄師",
+  "collection": "【💐歌切】[2026-05-22]初夏呢〜！！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14TGq6jEYq?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "鏡面の波",
+  "artist": "YURiKA",
+  "collection": "【💐歌切】[2026-05-22]初夏呢〜！！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14TGq6jEYq?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん",
+  "collection": "【💐歌切】[2026-05-22]初夏呢〜！！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14TGq6jEYq?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "真夏の夜の夢",
+  "artist": "松任谷由実",
+  "collection": "【💐歌切】[2026-05-22]初夏呢〜！！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14TGq6jEYq?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "Plazma",
+  "artist": "米津玄師",
+  "collection": "【💐歌切】[2026-05-22]初夏呢〜！！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14TGq6jEYq?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "ミッドナイト・リフレクション",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【💐歌切】[2026-05-22]初夏呢〜！！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14TGq6jEYq?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "フライディ・チャイナタウン",
+  "artist": "泰葉",
+  "collection": "【💐歌切】[2026-05-22]初夏呢〜！！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14TGq6jEYq?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "Night Dancer",
+  "artist": "imase",
+  "collection": "【💐歌切】[2026-05-22]初夏呢〜！！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14TGq6jEYq?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "fake face dance music",
+  "artist": "音田雅則",
+  "collection": "【💐歌切】[2026-05-22]初夏呢〜！！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14TGq6jEYq?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "traveling",
+  "artist": "宇多田ヒカル",
+  "collection": "【💐歌切】[2026-05-22]初夏呢〜！！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14TGq6jEYq?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "真夏の果実",
+  "artist": "サザンオールスターズ",
+  "collection": "【💐歌切】[2026-05-22]初夏呢〜！！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14TGq6jEYq?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-05-22]初夏呢〜！！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14TGq6jEYq?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
+  "collection": "【💐歌切】[2026-05-22]初夏呢〜！！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14TGq6jEYq?p=16",
   "source": "figaro.js"
 }
 );
