@@ -126,6 +126,37 @@
           display: none !important;
         }
       }
+      .pd-widget-mounted .pd-widget-desktop {
+        position: sticky;
+        top: var(--pd-widget-sticky-top, 12px);
+        right: auto;
+        width: 100%;
+        z-index: 1;
+      }
+      .pd-widget-mounted .pd-widget-card {
+        box-shadow: 0 2px 12px rgba(15, 23, 42, 0.08);
+        backdrop-filter: none;
+      }
+      .pd-widget-mounted .pd-widget-list {
+        max-height: calc(100vh - 76px);
+      }
+      @media (max-width: 1279px) {
+        .pd-widget-mounted .pd-widget-desktop {
+          display: none !important;
+        }
+        .pd-widget-mounted .pd-widget-mobile-fab {
+          display: inline-flex !important;
+          align-items: center;
+          justify-content: center;
+        }
+      }
+      @media (min-width: 1280px) {
+        .pd-widget-mounted .pd-widget-mobile-fab,
+        .pd-widget-mounted .pd-widget-overlay,
+        .pd-widget-mounted .pd-widget-mobile-panel {
+          display: none !important;
+        }
+      }
     `;
     document.head.appendChild(style);
   }
@@ -205,7 +236,15 @@
         </div>
       </div>
     `;
-    document.body.appendChild(root);
+    const mountTarget = settings.mount
+      ? document.querySelector(String(settings.mount))
+      : null;
+    if (mountTarget) {
+      root.classList.add('pd-widget-mounted');
+      mountTarget.appendChild(root);
+    } else {
+      document.body.appendChild(root);
+    }
 
     const title = String(settings.title || '页面目录');
     const activeOffset = Number(settings.activeOffset || 110);
@@ -235,8 +274,10 @@
     function setActive(targetId) {
       if (!targetId || targetId === activeId) return;
       activeId = targetId;
-      root.querySelectorAll('.pd-widget-item').forEach(button => {
-        button.classList.toggle('active', button.getAttribute('data-target') === activeId);
+      [desktopList, mobileList].forEach(listEl => {
+        listEl.querySelectorAll('.pd-widget-item').forEach(button => {
+          button.classList.toggle('active', button.getAttribute('data-target') === activeId);
+        });
       });
     }
 

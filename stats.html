@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>歌曲数据</title>
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-    <link rel="stylesheet" href="/site-theme.css?v=20260522h5fix1">
+    <link rel="stylesheet" href="/site-theme.css?v=20260524stats1">
     <script src="/site-shell.js?v=20260516shell6" defer></script>
     <style>
         /* --- 全局样式复用 --- */
@@ -894,6 +894,7 @@
     <div class="toast-container" id="toast-container"></div>
     <button class="back-top" id="backTopBtn" type="button" aria-label="回到顶部">↑</button>
         </main>
+        <aside class="culua-stats-directory-slot" id="statsDirectorySlot" aria-label="数据页目录"></aside>
     </div>
 
     <script>
@@ -2119,11 +2120,11 @@
                 const li = document.createElement('li');
                 li.className = 'group-card';
                 const headerMetrics = [
-                    `<span>总投稿 ${formatCountText(group.totalCount)}</span>`,
-                    `<span>去重 ${formatCountText(group.uniqueCount)}</span>`
+                    `<span class="group-count-chip">总投稿 ${formatCountText(group.totalCount)}</span>`,
+                    `<span class="group-count-chip">去重 ${formatCountText(group.uniqueCount)}</span>`
                 ];
                 if (type === 'vtuber') {
-                    headerMetrics.push(`<span>独特 ${formatCountText(group.soloCount || 0)}</span>`);
+                    headerMetrics.push(`<span class="group-count-chip">独特 ${formatCountText(group.soloCount || 0)}</span>`);
                 }
                 li.innerHTML = `
                     <div class="group-header ${type}">
@@ -2132,7 +2133,7 @@
                         </div>
                         <div class="group-header-actions">
                             <div class="group-count">
-                                ${headerMetrics.join('<span aria-hidden="true">·</span>')}
+                                ${headerMetrics.join('<span class="group-count-separator" aria-hidden="true">·</span>')}
                             </div>
                             <div class="action-row">
                                 <button class="copy-btn copy-summary-btn">复制摘要</button>
@@ -2677,7 +2678,7 @@
             bootstrap();
         });
     </script>
-  <script src="/page-directory-widget.js?v=20260522dir2"></script>
+  <script src="/page-directory-widget.js?v=20260524dir1"></script>
   <script>
     document.addEventListener('DOMContentLoaded', () => {
       if (typeof window.createPageDirectory !== 'function') return;
@@ -2748,6 +2749,7 @@
 
       const dir = window.createPageDirectory({
         title: '数据页目录',
+        mount: '#statsDirectorySlot',
         items: buildStatsDirItems()
       });
 

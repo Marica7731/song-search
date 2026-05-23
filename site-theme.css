@@ -17,6 +17,11 @@
   --danger: #b42318;
   --shadow-card: 0 2px 10px rgba(15, 23, 42, 0.06);
   --shadow-focus: 0 0 0 3px rgba(37, 99, 235, 0.14);
+  --left-sidebar-width: 280px;
+  --right-toc-width: 252px;
+  --page-gap: 16px;
+  --card-radius: 8px;
+  --card-padding: 14px;
   --radius-sm: 4px;
   --radius-md: 6px;
   --radius-lg: 10px;
@@ -842,7 +847,7 @@ body.culua-shell-page {
 .culua-page-shell {
   min-height: 100vh;
   display: grid;
-  grid-template-columns: 280px minmax(0, 1fr);
+  grid-template-columns: var(--left-sidebar-width) minmax(0, 1fr);
   background: #f5f7fb;
 }
 
@@ -2018,5 +2023,391 @@ body.culua-shell-stats .toggle-btn:focus {
 
   body.culua-shell-stats .summary-toolbar {
     justify-content: flex-start !important;
+  }
+}
+
+/* Stats page layout breakpoints:
+   desktop >= 1280px, tablet 768px - 1279px, mobile < 768px. */
+body.culua-shell-stats {
+  --left-sidebar-width: 220px;
+  --right-toc-width: 252px;
+  --page-gap: 16px;
+  --card-radius: 8px;
+  --card-padding: 14px;
+}
+
+body.culua-shell-stats .culua-page-shell {
+  display: grid !important;
+  grid-template-columns: var(--left-sidebar-width) minmax(0, 1fr) var(--right-toc-width);
+  gap: var(--page-gap);
+  align-items: start;
+}
+
+body.culua-shell-stats .culua-sidebar {
+  grid-column: 1;
+}
+
+body.culua-shell-stats .culua-page-content {
+  grid-column: 2;
+  min-width: 0;
+  padding: 22px 0 34px !important;
+}
+
+body.culua-shell-stats .culua-stats-directory-slot {
+  grid-column: 3;
+  min-width: 0;
+  align-self: stretch;
+  padding: 22px 18px 0 0;
+  --pd-widget-sticky-top: 16px;
+}
+
+body.culua-shell-stats .pd-widget-mounted .pd-widget-card {
+  border-color: #d9e0ea;
+  border-radius: var(--card-radius);
+  background: #ffffff;
+  box-shadow: 0 2px 12px rgba(15, 23, 42, 0.08);
+}
+
+body.culua-shell-stats .pd-widget-mounted .pd-widget-title {
+  margin-bottom: 10px;
+  font-size: 13px;
+  color: #334155;
+}
+
+body.culua-shell-stats .pd-widget-mounted .pd-widget-list {
+  max-height: calc(100vh - 76px);
+  padding-right: 4px;
+}
+
+body.culua-shell-stats .pd-widget-mounted .pd-widget-item {
+  border-color: transparent;
+  background: transparent;
+  color: #475569;
+  border-radius: 7px;
+  padding: 7px 8px;
+}
+
+body.culua-shell-stats .pd-widget-mounted .pd-widget-item:hover {
+  background: #f1f5f9;
+  border-color: #d8e0eb;
+}
+
+body.culua-shell-stats .pd-widget-mounted .pd-widget-item.active {
+  background: #e6f4f1;
+  border-color: #99d8cf;
+  color: #0f766e;
+}
+
+body.culua-shell-stats .group-card,
+body.culua-shell-stats .rank-item {
+  border-radius: var(--card-radius) !important;
+  border-color: #d9e0ea !important;
+  background: #ffffff !important;
+}
+
+body.culua-shell-stats .group-header {
+  display: grid !important;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 10px 16px !important;
+  align-items: start !important;
+  padding: 14px 16px !important;
+  background: #f8fafc !important;
+  border-bottom: 1px solid #e5eaf1 !important;
+}
+
+body.culua-shell-stats .group-name {
+  min-width: 0;
+  max-width: 100%;
+  font-size: 18px !important;
+  line-height: 1.35;
+}
+
+body.culua-shell-stats .group-name span {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+body.culua-shell-stats .group-header-actions {
+  display: grid !important;
+  grid-template-columns: minmax(0, auto) auto;
+  gap: 8px 10px !important;
+  align-items: start !important;
+  justify-content: end !important;
+  flex: 0 1 auto !important;
+  min-width: 0;
+}
+
+body.culua-shell-stats .group-count {
+  display: flex;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+  gap: 6px;
+  min-width: 0;
+}
+
+body.culua-shell-stats .group-count-separator {
+  display: none !important;
+}
+
+body.culua-shell-stats .group-count-chip,
+body.culua-shell-stats .group-count span:not(.group-count-separator) {
+  display: inline-flex;
+  align-items: center;
+  min-height: 28px;
+  padding: 4px 8px;
+  border: 1px solid #d9e0ea;
+  border-radius: 999px;
+  background: #ffffff;
+  color: #475569;
+  font-size: 12px;
+  line-height: 1.2;
+  white-space: nowrap;
+}
+
+body.culua-shell-stats .group-header .action-row,
+body.culua-shell-stats .rank-actions .action-row {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: flex-end !important;
+  gap: 6px !important;
+  flex-wrap: wrap;
+}
+
+body.culua-shell-stats .copy-btn,
+body.culua-shell-stats .toggle-perf-btn,
+body.culua-shell-stats .count-clickable,
+body.culua-shell-stats .perf-open-link {
+  min-height: 32px !important;
+  border-radius: 7px !important;
+  border: 1px solid #d0d7de !important;
+  background: #ffffff !important;
+  color: #1f2937 !important;
+  font-weight: 700 !important;
+  box-shadow: none !important;
+}
+
+body.culua-shell-stats .copy-btn:hover,
+body.culua-shell-stats .toggle-perf-btn:hover,
+body.culua-shell-stats .count-clickable:hover,
+body.culua-shell-stats .perf-open-link:hover {
+  border-color: #99d8cf !important;
+  background: #f0fdfa !important;
+  color: #0f766e !important;
+  text-decoration: none !important;
+}
+
+body.culua-shell-stats .group-song-list {
+  padding: 0 !important;
+}
+
+body.culua-shell-stats .song-item-row {
+  display: grid !important;
+  grid-template-columns: minmax(0, 1fr) auto !important;
+  gap: 8px 14px !important;
+  align-items: start !important;
+  padding: 12px 16px !important;
+  border-bottom: 1px solid #edf2f7 !important;
+}
+
+body.culua-shell-stats .song-info-left {
+  min-width: 0;
+}
+
+body.culua-shell-stats .song-title-main {
+  display: -webkit-box !important;
+  margin: 0 0 5px !important;
+  overflow: hidden !important;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  white-space: normal !important;
+  text-overflow: ellipsis;
+  color: #111827 !important;
+  font-size: 15px !important;
+  font-weight: 750 !important;
+  line-height: 1.45 !important;
+}
+
+body.culua-shell-stats .song-original-artist {
+  display: -webkit-box !important;
+  max-width: 100%;
+  overflow: hidden !important;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  white-space: normal !important;
+  color: #64748b !important;
+  font-size: 12px !important;
+  line-height: 1.45 !important;
+}
+
+body.culua-shell-stats .song-meta-right {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: flex-end !important;
+  gap: 6px !important;
+  min-width: max-content !important;
+  align-self: start;
+}
+
+body.culua-shell-stats .count-clickable {
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+body.culua-shell-stats .perf-open-link {
+  display: inline-flex !important;
+  align-items: center;
+  justify-content: center;
+  padding: 4px 10px !important;
+  text-decoration: none !important;
+  white-space: nowrap;
+}
+
+body.culua-shell-stats .perf-grid-small {
+  grid-column: 1 / -1;
+  display: grid !important;
+  grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+  gap: 6px !important;
+  max-height: 264px;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  margin: 2px 0 0 !important;
+  padding: 8px 4px 0 0 !important;
+  border-top: 1px dashed #dbe4ef !important;
+}
+
+body.culua-shell-stats .perf-grid-small.hidden {
+  display: none !important;
+}
+
+body.culua-shell-stats .perf-grid-small .perf-link-small {
+  display: -webkit-box !important;
+  min-width: 0;
+  min-height: 32px !important;
+  overflow: hidden !important;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  white-space: normal !important;
+  line-height: 1.35 !important;
+  padding: 6px 9px !important;
+  border-radius: 7px !important;
+  background: #f8fafc !important;
+  border-color: #e2e8f0 !important;
+  color: #1f2937 !important;
+  text-decoration: none !important;
+}
+
+body.culua-shell-stats .perf-grid-small .perf-link-small:hover {
+  background: #f0fdfa !important;
+  border-color: #99d8cf !important;
+  color: #0f766e !important;
+}
+
+@media (max-width: 1399px) and (min-width: 1280px) {
+  body.culua-shell-stats {
+    --left-sidebar-width: 204px;
+    --right-toc-width: 220px;
+    --page-gap: 12px;
+  }
+
+  body.culua-shell-stats .culua-sidebar {
+    padding: 16px 12px;
+  }
+
+  body.culua-shell-stats .culua-stats-directory-slot {
+    padding-right: 12px;
+  }
+}
+
+@media (max-width: 1279px) {
+  body.culua-shell-stats .culua-page-shell {
+    grid-template-columns: var(--left-sidebar-width) minmax(0, 1fr) !important;
+    gap: 0;
+  }
+
+  body.culua-shell-stats .culua-page-content {
+    padding: 22px 24px 34px !important;
+  }
+
+  body.culua-shell-stats .culua-stats-directory-slot {
+    display: contents;
+    padding: 0;
+  }
+
+  body.culua-shell-stats .pd-widget-mounted .pd-widget-mobile-panel {
+    right: 14px;
+    bottom: calc(120px + env(safe-area-inset-bottom));
+  }
+}
+
+@media (max-width: 980px) {
+  body.culua-shell-stats .culua-page-shell {
+    display: block !important;
+  }
+
+  body.culua-shell-stats .culua-page-content {
+    padding: 10px 10px calc(28px + env(safe-area-inset-bottom)) !important;
+  }
+}
+
+@media (max-width: 767px) {
+  body.culua-shell-stats .group-header {
+    grid-template-columns: minmax(0, 1fr) !important;
+    padding: 12px !important;
+  }
+
+  body.culua-shell-stats .group-name {
+    font-size: 17px !important;
+  }
+
+  body.culua-shell-stats .group-name span {
+    white-space: normal;
+    display: -webkit-box;
+    overflow: hidden;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+  }
+
+  body.culua-shell-stats .group-header-actions {
+    grid-template-columns: minmax(0, 1fr) !important;
+    justify-content: stretch !important;
+    width: 100%;
+  }
+
+  body.culua-shell-stats .group-count {
+    justify-content: flex-start;
+  }
+
+  body.culua-shell-stats .group-header .action-row {
+    justify-content: flex-start !important;
+  }
+
+  body.culua-shell-stats .song-item-row {
+    grid-template-columns: minmax(0, 1fr) !important;
+    padding: 12px !important;
+  }
+
+  body.culua-shell-stats .song-meta-right {
+    justify-content: flex-start !important;
+    min-width: 0 !important;
+    width: 100%;
+  }
+
+  body.culua-shell-stats .count-clickable,
+  body.culua-shell-stats .perf-open-link {
+    flex: 0 0 auto;
+  }
+
+  body.culua-shell-stats .perf-grid-small {
+    grid-template-columns: minmax(0, 1fr) !important;
+    max-height: 228px;
+  }
+
+  body.culua-shell-stats .pd-widget-mounted .pd-widget-mobile-panel {
+    right: 10px;
+    left: 10px;
+    width: auto;
+    max-height: min(70vh, 520px);
   }
 }
