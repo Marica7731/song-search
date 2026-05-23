@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 5/23/2026, 8:43:37 AM
+// 生成时间: 5/23/2026, 9:23:11 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2755,6 +2755,206 @@ window.SONG_DATA.push(
   "collection": "【💫✖歌切】[2026-05-18]最近要注意健康了 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MMLN6TESj?p=21",
+  "source": "kukuri.js"
+},
+    {
+  "title": "この世界で見つけたもの",
+  "artist": "EGOIST",
+  "collection": "【💫✖歌切】[2026-05-23]星期六总是让人心情雀跃的 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wYGi66ESf?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "夜永唄",
+  "artist": "神はサイコロを振らない",
+  "collection": "【💫✖歌切】[2026-05-23]星期六总是让人心情雀跃的 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wYGi66ESf?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "がらくた",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-05-23]星期六总是让人心情雀跃的 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wYGi66ESf?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "地球儀",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-05-23]星期六总是让人心情雀跃的 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wYGi66ESf?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師x宇多田ヒカル",
+  "collection": "【💫✖歌切】[2026-05-23]星期六总是让人心情雀跃的 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wYGi66ESf?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ギブス",
+  "artist": "椎名林檎",
+  "collection": "【💫✖歌切】[2026-05-23]星期六总是让人心情雀跃的 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wYGi66ESf?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "I remember you",
+  "artist": "YUI",
+  "collection": "【💫✖歌切】[2026-05-23]星期六总是让人心情雀跃的 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wYGi66ESf?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "give it back",
+  "artist": "Cö shu Nie",
+  "collection": "【💫✖歌切】[2026-05-23]星期六总是让人心情雀跃的 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wYGi66ESf?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "フィナーレ。",
+  "artist": "eill",
+  "collection": "【💫✖歌切】[2026-05-23]星期六总是让人心情雀跃的 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wYGi66ESf?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "残ってる",
+  "artist": "吉澤嘉代子",
+  "collection": "【💫✖歌切】[2026-05-23]星期六总是让人心情雀跃的 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wYGi66ESf?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "のうぜんかつら",
+  "artist": "安藤裕子",
+  "collection": "【💫✖歌切】[2026-05-23]星期六总是让人心情雀跃的 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wYGi66ESf?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Forget-Me-Not",
+  "artist": "尾崎豊",
+  "collection": "【💫✖歌切】[2026-05-23]星期六总是让人心情雀跃的 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wYGi66ESf?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Faith",
+  "artist": "伊藤由奈",
+  "collection": "【💫✖歌切】[2026-05-23]星期六总是让人心情雀跃的 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wYGi66ESf?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "恋愛写真",
+  "artist": "大塚愛",
+  "collection": "【💫✖歌切】[2026-05-23]星期六总是让人心情雀跃的 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wYGi66ESf?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "大好きだよ",
+  "artist": "大塚愛",
+  "collection": "【💫✖歌切】[2026-05-23]星期六总是让人心情雀跃的 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wYGi66ESf?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "クムリウタ",
+  "artist": "大塚愛",
+  "collection": "【💫✖歌切】[2026-05-23]星期六总是让人心情雀跃的 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wYGi66ESf?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "金魚花火",
+  "artist": "大塚愛",
+  "collection": "【💫✖歌切】[2026-05-23]星期六总是让人心情雀跃的 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wYGi66ESf?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "夕日坂",
+  "artist": "doriko feat. 初音ミク",
+  "collection": "【💫✖歌切】[2026-05-23]星期六总是让人心情雀跃的 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wYGi66ESf?p=18",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ボクノート",
+  "artist": "スキマスイッチ",
+  "collection": "【💫✖歌切】[2026-05-23]星期六总是让人心情雀跃的 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wYGi66ESf?p=19",
+  "source": "kukuri.js"
+},
+    {
+  "title": "雫",
+  "artist": "スキマスイッチ",
+  "collection": "【💫✖歌切】[2026-05-23]星期六总是让人心情雀跃的 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wYGi66ESf?p=20",
+  "source": "kukuri.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-05-23]星期六总是让人心情雀跃的 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wYGi66ESf?p=21",
+  "source": "kukuri.js"
+},
+    {
+  "title": "明日も",
+  "artist": "MUSH&Co.",
+  "collection": "【💫✖歌切】[2026-05-23]星期六总是让人心情雀跃的 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wYGi66ESf?p=22",
+  "source": "kukuri.js"
+},
+    {
+  "title": "痛いよ",
+  "artist": "清竜人",
+  "collection": "【💫✖歌切】[2026-05-23]星期六总是让人心情雀跃的 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wYGi66ESf?p=23",
+  "source": "kukuri.js"
+},
+    {
+  "title": "接吻-Kiss",
+  "artist": "接吻-Kiss",
+  "collection": "【💫✖歌切】[2026-05-23]星期六总是让人心情雀跃的 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wYGi66ESf?p=24",
+  "source": "kukuri.js"
+},
+    {
+  "title": "SWEET MEMORIES",
+  "artist": "松田聖子",
+  "collection": "【💫✖歌切】[2026-05-23]星期六总是让人心情雀跃的 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wYGi66ESf?p=25",
   "source": "kukuri.js"
 }
 );
