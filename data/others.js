@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 5/23/2026, 2:42:20 PM
+// 生成时间: 5/23/2026, 3:25:35 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10587,6 +10587,78 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=30",
+  "source": "others.js"
+},
+    {
+  "title": "Henceforth",
+  "artist": "Orangestar feat. IA",
+  "collection": "歌切 2026-05-23 IMI yYXVPOOvzOE ✦竖屏直播✦醒来后还没出过声",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wRGq65EU5?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "ないものねだり",
+  "artist": "KANA-BOON",
+  "collection": "歌切 2026-05-23 IMI yYXVPOOvzOE ✦竖屏直播✦醒来后还没出过声",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wRGq65EU5?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "イケナイ太陽",
+  "artist": "ORANGE RANGE",
+  "collection": "歌切 2026-05-23 IMI yYXVPOOvzOE ✦竖屏直播✦醒来后还没出过声",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wRGq65EU5?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "歌切 2026-05-23 IMI yYXVPOOvzOE ✦竖屏直播✦醒来后还没出过声",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wRGq65EU5?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "歌切 2026-05-23 IMI yYXVPOOvzOE ✦竖屏直播✦醒来后还没出过声",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wRGq65EU5?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "大塚 愛",
+  "collection": "歌切 2026-05-23 IMI yYXVPOOvzOE ✦竖屏直播✦醒来后还没出过声",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wRGq65EU5?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "雪の華",
+  "artist": "中島美嘉",
+  "collection": "歌切 2026-05-23 IMI yYXVPOOvzOE ✦竖屏直播✦醒来后还没出过声",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wRGq65EU5?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "高嶺の花子さん",
+  "artist": "back number",
+  "collection": "歌切 2026-05-23 IMI yYXVPOOvzOE ✦竖屏直播✦醒来后还没出过声",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wRGq65EU5?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "歌切 2026-05-23 IMI yYXVPOOvzOE ✦竖屏直播✦醒来后还没出过声",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wRGq65EU5?p=9",
   "source": "others.js"
 },
     {
