@@ -34,6 +34,8 @@
     "noapolaris.js",
     "mikage.js",
     "yamadasharo.js",
+    "tulsi.js",
+    "luminous.js",
     "others.js",
     "bv1qa9jb6eaw.js"
   ],
@@ -72,6 +74,8 @@
     "noapolaris": "ノア・ポラリス",
     "mikage": "深影",
     "yamadasharo": "山田シャロ",
+    "tulsi": "魔王トゥルシー",
+    "luminous": "るみなす・すいーと",
     "others": "非常驻妹妹",
     "bv1qa9jb6eaw": "陽月るるふ"
   }
