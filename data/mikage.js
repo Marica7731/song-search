@@ -1,6 +1,6 @@
 // 深影 - 歌单数据 (多合集汇总)
 // 来源: BV12mQ3B6EpP
-// 生成时间: 5/23/2026, 9:18:10 PM
+// 生成时间: 5/23/2026, 10:01:09 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -523,6 +523,118 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-05-19 深影 - Mikage - JMMftM_jiO0 唱满30曲才能结束的歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dCLu6ZEyH?p=32",
+  "source": "mikage.js"
+},
+    {
+  "title": "かたち",
+  "artist": "安月名莉子",
+  "collection": "【歌切】[2026-05-24]频道订阅26,000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QvG56ZE5C?p=1",
+  "source": "mikage.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-05-24]频道订阅26,000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QvG56ZE5C?p=2",
+  "source": "mikage.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ",
+  "collection": "【歌切】[2026-05-24]频道订阅26,000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QvG56ZE5C?p=3",
+  "source": "mikage.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん",
+  "collection": "【歌切】[2026-05-24]频道订阅26,000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QvG56ZE5C?p=4",
+  "source": "mikage.js"
+},
+    {
+  "title": "又三郎",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-24]频道订阅26,000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QvG56ZE5C?p=5",
+  "source": "mikage.js"
+},
+    {
+  "title": "命にふさわしい",
+  "artist": "amazarashi",
+  "collection": "【歌切】[2026-05-24]频道订阅26,000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QvG56ZE5C?p=6",
+  "source": "mikage.js"
+},
+    {
+  "title": "orion",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-05-24]频道订阅26,000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QvG56ZE5C?p=7",
+  "source": "mikage.js"
+},
+    {
+  "title": "ヒメムラサキ",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-05-24]频道订阅26,000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QvG56ZE5C?p=8",
+  "source": "mikage.js"
+},
+    {
+  "title": "Oz.",
+  "artist": "yama",
+  "collection": "【歌切】[2026-05-24]频道订阅26,000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QvG56ZE5C?p=9",
+  "source": "mikage.js"
+},
+    {
+  "title": "Oz.",
+  "artist": "yama",
+  "collection": "【歌切】[2026-05-24]频道订阅26,000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QvG56ZE5C?p=10",
+  "source": "mikage.js"
+},
+    {
+  "title": "なんでもないや",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-05-24]频道订阅26,000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QvG56ZE5C?p=11",
+  "source": "mikage.js"
+},
+    {
+  "title": "それがあなたの幸せとしても",
+  "artist": "Heavenz",
+  "collection": "【歌切】[2026-05-24]频道订阅26,000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QvG56ZE5C?p=12",
+  "source": "mikage.js"
+},
+    {
+  "title": "心拍数♯0822",
+  "artist": "蝶々P",
+  "collection": "【歌切】[2026-05-24]频道订阅26,000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QvG56ZE5C?p=13",
+  "source": "mikage.js"
+},
+    {
+  "title": "心拍数♯0822",
+  "artist": "蝶々P",
+  "collection": "【歌切】[2026-05-24]频道订阅26,000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QvG56ZE5C?p=14",
   "source": "mikage.js"
 }
 );
