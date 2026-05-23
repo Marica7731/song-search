@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 5/23/2026, 4:56:30 PM
+// 生成时间: 5/23/2026, 5:34:40 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10667,6 +10667,150 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-05-23 IMI yYXVPOOvzOE ✦竖屏直播✦醒来后还没出过声",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wRGq65EU5?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "アスノヨゾラ哨戒班",
+  "artist": "Orangestar feat. IA",
+  "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eLG66BEp7?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "ウミユリ海底譚",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eLG66BEp7?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eLG66BEp7?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eLG66BEp7?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eLG66BEp7?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eLG66BEp7?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eLG66BEp7?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "I'm a mess",
+  "artist": "MY FIRST STORY",
+  "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eLG66BEp7?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "Give a reason",
+  "artist": "林原めぐみ",
+  "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eLG66BEp7?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "月光花",
+  "artist": "Janne Da Arc",
+  "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eLG66BEp7?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "Overdose",
+  "artist": "なとり",
+  "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eLG66BEp7?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "青いベンチ",
+  "artist": "サスケ",
+  "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eLG66BEp7?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "パメラ",
+  "artist": "バルーン feat. flower",
+  "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eLG66BEp7?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "ノマド",
+  "artist": "バルーン feat. flower",
+  "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eLG66BEp7?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "BALALAIKA",
+  "artist": "9Lana",
+  "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eLG66BEp7?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "ガーネット",
+  "artist": "奥華子",
+  "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eLG66BEp7?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eLG66BEp7?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "三原色",
+  "artist": "YOASOBI",
+  "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eLG66BEp7?p=18",
   "source": "others.js"
 },
     {
