@@ -167,6 +167,7 @@
     }
 
     .source-avatar {
+      position: relative;
       width: 28px;
       height: 28px;
       display: inline-grid;
@@ -181,7 +182,14 @@
       box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.24);
     }
 
+    .source-avatar-fallback {
+      position: relative;
+      z-index: 1;
+    }
+
     .source-avatar img {
+      position: absolute;
+      inset: 0;
       width: 100%;
       height: 100%;
       object-fit: cover;
@@ -426,6 +434,18 @@
       height: 100%;
       display: block;
       object-fit: cover;
+    }
+
+    .media-lazy {
+      background: #e8edf3;
+    }
+
+    .media-lazy.media-loaded {
+      background: transparent;
+    }
+
+    .media-lazy.media-failed {
+      display: none;
     }
 
     .song-main {
@@ -1517,6 +1537,8 @@
 
     const $ = (selector) => document.querySelector(selector);
     const $$ = (selector) => Array.from(document.querySelectorAll(selector));
+    const LAZY_IMAGE_PLACEHOLDER = 'data:image/gif;base64,R0lGODlhAQABAAAAACw=';
+    let lazyImageObserver = null;
 
     function formatNumber(value) {
       return new Intl.NumberFormat('zh-CN').format(Number(value || 0));
@@ -1556,7 +1578,7 @@
       const classes = ['source-avatar', extraClass].filter(Boolean).join(' ');
       const style = profile.accentColor ? ` style="--source-avatar-color:${escapeHtml(profile.accentColor)}"` : '';
       if (profile.avatarUrl) {
-        return `<span class="${classes}"${style}><img src="${escapeHtml(profile.avatarUrl)}" alt="" loading="lazy" referrerpolicy="no-referrer"></span>`;
+        return `<span class="${classes}"${style}><span class="source-avatar-fallback">${escapeHtml(profile.avatarText)}</span><img ${lazyImageAttributes(profile.avatarUrl)}></span>`;
       }
       return `<span class="${classes}"${style}>${escapeHtml(profile.avatarText)}</span>`;
     }
@@ -1569,7 +1591,60 @@
     }
 
     function coverUrl(item) {
-      return normalizeMediaUrl(item?.cover || item?.thumbnail || item?.coverThumb || '');
+      return buildDisplayThumbUrl(item?.cover || item?.thumbnail || item?.coverThumb || '', 160);
+    }
+
+    function buildDisplayThumbUrl(value, width = 160) {
+      const text = normalizeMediaUrl(value);
+      if (!text || !/\.hdslb\.com\//i.test(text)) return text;
+      const height = Math.max(1, Math.round(width * 9 / 16));
+      const targetSuffix = `@${width}w_${height}h_1c.webp`;
+      const match = text.match(/^([^?#]+)([?#].*)?$/);
+      if (!match) return text;
+      const path = match[1];
+      const query = match[2] || '';
+      if (!/\.(?:jpe?g|png|webp)(?:@[^/?#]+)?$/i.test(path)) return text;
+      return path.replace(/(\.(?:jpe?g|png|webp))(?:@[^/?#]+)?$/i, `$1${targetSuffix}`) + query;
+    }
+
+    function lazyImageAttributes(url, className = '') {
+      const classes = ['media-lazy', className].filter(Boolean).join(' ');
+      return `class="${escapeHtml(classes)}" src="${LAZY_IMAGE_PLACEHOLDER}" data-src="${escapeHtml(url)}" alt="" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer"`;
+    }
+
+    function loadLazyImage(img) {
+      const src = img?.dataset?.src || '';
+      if (!src || img.dataset.lazyLoaded === '1') return;
+      img.dataset.lazyLoaded = '1';
+      img.addEventListener('load', () => img.classList.add('media-loaded'), { once: true });
+      img.addEventListener('error', () => {
+        img.classList.add('media-failed');
+        img.removeAttribute('src');
+      }, { once: true });
+      img.src = src;
+    }
+
+    function initLazyMedia(root = document) {
+      const images = Array.from(root.querySelectorAll('img.media-lazy[data-src]'))
+        .filter(img => img.dataset.lazyLoaded !== '1' && img.dataset.lazyObserved !== '1');
+      if (!images.length) return;
+      if (!('IntersectionObserver' in window)) {
+        images.forEach(loadLazyImage);
+        return;
+      }
+      if (!lazyImageObserver) {
+        lazyImageObserver = new IntersectionObserver(entries => {
+          entries.forEach(entry => {
+            if (!entry.isIntersecting) return;
+            lazyImageObserver.unobserve(entry.target);
+            loadLazyImage(entry.target);
+          });
+        }, { rootMargin: '320px 0px', threshold: 0.01 });
+      }
+      images.forEach(img => {
+        img.dataset.lazyObserved = '1';
+        lazyImageObserver.observe(img);
+      });
     }
 
     function sourceCount(file) {
@@ -1840,6 +1915,8 @@
           </button>
         `).join('');
       }
+      initLazyMedia(list);
+      if (mobileOptions) initLazyMedia(mobileOptions);
       renderMobileControls();
     }
 
@@ -1895,7 +1972,7 @@
         const cover = coverUrl(item);
         return `
           <article class="song-row ${cover ? 'has-cover' : ''}">
-            ${cover ? `<a class="song-cover" href="${escapeHtml(item.link || '#')}" target="_blank" rel="noreferrer"><img src="${escapeHtml(cover)}" alt="" loading="lazy" referrerpolicy="no-referrer"></a>` : ''}
+            ${cover ? `<a class="song-cover" href="${escapeHtml(item.link || '#')}" target="_blank" rel="noreferrer"><img ${lazyImageAttributes(cover)}></a>` : ''}
             <div class="song-main">
               <div class="song-title">${copyableField(item.title || '未知歌曲', '歌名', 'song-title-copy')}</div>
               <div class="meta">${metaParts}</div>
@@ -1913,6 +1990,7 @@
           </article>
         `;
       }).join('');
+      initLazyMedia(results);
     }
 
     function renderPagination() {

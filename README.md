@@ -208,7 +208,7 @@ npm run check:library
 
 - BV 号在配置里保持原样，不要强制改大小写。
 - 来源头像在 `scripts/source-profiles.json` 里补充；没有头像 URL 时自动使用来源名首个有效字符生成单字头像。
-- B 站封面缩略图来自 view API 的 `pic` 字段，并在 `scripts/update-songs.js` 生成数据时写入歌曲记录的 `cover` 字段。
+- B 站封面缩略图来自 view API 的 `pic` 字段，并在 `scripts/update-songs.js` 生成数据时写入歌曲记录的 `cover` 字段；生成脚本和页面展示都统一使用 160w 缩略图，首页和数据页会先写占位图，等图片接近视口或展开后才请求真实地址。
 - `sectionTitle` 按 B 站接口返回的小节标题完全匹配，改名或空格差异会影响收录。
 - 没有 `ugc_season.sections` 的普通多分P BV 不需要 `sectionTitle`；抓取脚本会把入口 BV 本身作为视频并读取 `pages`。
 - `with 嘉宾 02. 歌名 - 歌手` 这类分P标题会先清掉 `with 嘉宾 + 序号` 前缀，再沿用普通 `歌名 - 歌手` 解析；如果末尾只有分隔用的 `-`，会去掉这个空歌手分隔符。

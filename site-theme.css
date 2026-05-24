@@ -2154,6 +2154,7 @@ body.culua-shell-stats .group-name {
 }
 
 body.culua-shell-stats .source-avatar {
+  position: relative;
   width: 34px;
   height: 34px;
   flex: 0 0 auto;
@@ -2169,7 +2170,14 @@ body.culua-shell-stats .source-avatar {
   box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.25);
 }
 
+body.culua-shell-stats .source-avatar-fallback {
+  position: relative;
+  z-index: 1;
+}
+
 body.culua-shell-stats .source-avatar img {
+  position: absolute;
+  inset: 0;
   width: 100%;
   height: 100%;
   display: block;
@@ -2286,6 +2294,18 @@ body.culua-shell-stats .perf-link-small-cover img {
   height: 100%;
   display: block;
   object-fit: cover;
+}
+
+body.culua-shell-stats .media-lazy {
+  background: #e8edf3;
+}
+
+body.culua-shell-stats .media-lazy.media-loaded {
+  background: transparent;
+}
+
+body.culua-shell-stats .media-lazy.media-failed {
+  display: none;
 }
 
 body.culua-shell-stats .song-info-left {

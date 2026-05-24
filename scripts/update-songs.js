@@ -54,7 +54,15 @@ function normalizeBiliImageUrl(value) {
 function buildBiliThumbUrl(value) {
     const url = normalizeBiliImageUrl(value);
     if (!url) return '';
-    return url.includes('@') ? url : `${url}@320w_180h_1c.webp`;
+    const width = 160;
+    const height = 90;
+    const suffix = `@${width}w_${height}h_1c.webp`;
+    const match = url.match(/^([^?#]+)([?#].*)?$/);
+    if (!match) return url;
+    const path = match[1];
+    const query = match[2] || '';
+    if (!/\.(?:jpe?g|png|webp)(?:@[^/?#]+)?$/i.test(path)) return url;
+    return path.replace(/(\.(?:jpe?g|png|webp))(?:@[^/?#]+)?$/i, `$1${suffix}`) + query;
 }
 
 function uniquePaths(paths) {

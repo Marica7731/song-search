@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>歌曲数据</title>
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-    <link rel="stylesheet" href="/site-theme.css?v=20260524media2">
+    <link rel="stylesheet" href="/site-theme.css?v=20260524media3">
     <script src="/site-shell.js?v=20260524shell7" defer></script>
     <style>
         /* --- 全局样式复用 --- */
@@ -922,6 +922,8 @@
         let staticFallbackPromise = null;
         let statsViewRequestSeq = 0;
         const STATS_VIEW_PREFS_KEY = 'culua-stats-view-v1';
+        const LAZY_IMAGE_PLACEHOLDER = 'data:image/gif;base64,R0lGODlhAQABAAAAACw=';
+        let lazyImageObserver = null;
 
         // 当前复制相关
         let currentCopyData = null;
@@ -970,7 +972,7 @@
             const cover = getCoverUrl(perf);
             return `
                 <a href="${href}" target="_blank" rel="noopener noreferrer" class="${classes}">
-                    ${cover ? `<span class="perf-link-cover"><img src="${escapeAttr(cover)}" alt="" loading="lazy" referrerpolicy="no-referrer"></span>` : ''}
+                    ${cover ? `<span class="perf-link-cover"><img ${lazyImageAttributes(cover)}></span>` : ''}
                     <span class="perf-link-body">
                         <span class="perf-link-title">${collection}</span>
                         ${source ? `<span class="perf-link-source">${source}</span>` : ''}
@@ -986,7 +988,7 @@
             const cover = getCoverUrl(perf);
             return `
                 <a href="${href}" target="_blank" rel="noopener noreferrer" class="perf-link-small">
-                    ${cover ? `<span class="perf-link-small-cover"><img src="${escapeAttr(cover)}" alt="" loading="lazy" referrerpolicy="no-referrer"></span>` : ''}
+                    ${cover ? `<span class="perf-link-small-cover"><img ${lazyImageAttributes(cover)}></span>` : ''}
                     <span class="perf-link-small-title">${collection}</span>
                 </a>
             `;
@@ -994,9 +996,67 @@
 
         function getCoverUrl(item) {
             const text = String(item?.cover || item?.thumbnail || item?.coverThumb || '').trim();
+            return buildDisplayThumbUrl(text, 160);
+        }
+
+        function normalizeMediaUrl(value) {
+            const text = String(value || '').trim();
             if (text.startsWith('//')) return `https:${text}`;
             if (/^http:\/\//i.test(text)) return text.replace(/^http:\/\//i, 'https://');
             return text;
+        }
+
+        function buildDisplayThumbUrl(value, width = 160) {
+            const text = normalizeMediaUrl(value);
+            if (!text || !/\.hdslb\.com\//i.test(text)) return text;
+            const height = Math.max(1, Math.round(width * 9 / 16));
+            const targetSuffix = `@${width}w_${height}h_1c.webp`;
+            const match = text.match(/^([^?#]+)([?#].*)?$/);
+            if (!match) return text;
+            const path = match[1];
+            const query = match[2] || '';
+            if (!/\.(?:jpe?g|png|webp)(?:@[^/?#]+)?$/i.test(path)) return text;
+            return path.replace(/(\.(?:jpe?g|png|webp))(?:@[^/?#]+)?$/i, `$1${targetSuffix}`) + query;
+        }
+
+        function lazyImageAttributes(url, className = '') {
+            const classes = ['media-lazy', className].filter(Boolean).join(' ');
+            return `class="${escapeAttr(classes)}" src="${LAZY_IMAGE_PLACEHOLDER}" data-src="${escapeAttr(url)}" alt="" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer"`;
+        }
+
+        function loadLazyImage(img) {
+            const src = img?.dataset?.src || '';
+            if (!src || img.dataset.lazyLoaded === '1') return;
+            img.dataset.lazyLoaded = '1';
+            img.addEventListener('load', () => img.classList.add('media-loaded'), { once: true });
+            img.addEventListener('error', () => {
+                img.classList.add('media-failed');
+                img.removeAttribute('src');
+            }, { once: true });
+            img.src = src;
+        }
+
+        function initLazyMedia(root = document) {
+            const images = Array.from(root.querySelectorAll('img.media-lazy[data-src]'))
+                .filter(img => img.dataset.lazyLoaded !== '1' && img.dataset.lazyObserved !== '1');
+            if (!images.length) return;
+            if (!('IntersectionObserver' in window)) {
+                images.forEach(loadLazyImage);
+                return;
+            }
+            if (!lazyImageObserver) {
+                lazyImageObserver = new IntersectionObserver(entries => {
+                    entries.forEach(entry => {
+                        if (!entry.isIntersecting) return;
+                        lazyImageObserver.unobserve(entry.target);
+                        loadLazyImage(entry.target);
+                    });
+                }, { rootMargin: '320px 0px', threshold: 0.01 });
+            }
+            images.forEach(img => {
+                img.dataset.lazyObserved = '1';
+                lazyImageObserver.observe(img);
+            });
         }
 
         function getDefaultAvatarText(name) {
@@ -1021,7 +1081,7 @@
             const text = escapeHtml(profile?.avatarText || getDefaultAvatarText(profile?.alias));
             const style = profile?.accentColor ? ` style="--source-avatar-color:${escapeAttr(profile.accentColor)}"` : '';
             if (profile?.avatarUrl) {
-                return `<span class="${classes}"${style}><img src="${escapeAttr(profile.avatarUrl)}" alt="" loading="lazy" referrerpolicy="no-referrer"></span>`;
+                return `<span class="${classes}"${style}><span class="source-avatar-fallback">${text}</span><img ${lazyImageAttributes(profile.avatarUrl)}></span>`;
             }
             return `<span class="${classes}"${style}>${text}</span>`;
         }
@@ -2038,6 +2098,7 @@
                         </div>
                     `;
                     listEl.appendChild(li);
+                    initLazyMedia(li);
 
                     // 绑定展开/收起
                     if (hasMore) {
@@ -2061,6 +2122,7 @@
                             if (isClosed) {
                                 hiddenLinks.forEach(el => el.classList.remove('perf-hidden'));
                                 toggleBtn.textContent = '收起';
+                                initLazyMedia(li);
                             } else {
                                 hiddenLinks.forEach(el => el.classList.add('perf-hidden'));
                                 toggleBtn.textContent = `展开全部 ${totalPerformanceCount} 个场次`;
@@ -2147,7 +2209,7 @@
 
                     return `
                         <div class="song-item-row">
-                            ${cover ? `<a class="song-row-cover" href="${escapeAttr(firstLink)}" target="_blank" rel="noopener noreferrer"><img src="${escapeAttr(cover)}" alt="" loading="lazy" referrerpolicy="no-referrer"></a>` : ''}
+                            ${cover ? `<a class="song-row-cover" href="${escapeAttr(firstLink)}" target="_blank" rel="noopener noreferrer"><img ${lazyImageAttributes(cover)}></a>` : ''}
                             <div class="song-info-left">
                                 <div class="song-title-main" data-quick-copy="${escapeAttr(song.title)}">${escapeHtml(song.title)}</div>
                                 ${originalText}
@@ -2203,6 +2265,7 @@
                     </div>
                 `;
                 listEl.appendChild(li);
+                initLazyMedia(li);
 
                 // 绑定：展开/收起歌曲列表
                 if (hasMoreSongs) {
@@ -2226,6 +2289,7 @@
                         if (isClosed) {
                             hiddenSongsDiv.classList.remove('hidden');
                             toggleSongsBtn.textContent = '收起';
+                            initLazyMedia(hiddenSongsDiv);
                         } else {
                             hiddenSongsDiv.classList.add('hidden');
                             toggleSongsBtn.textContent = `展开全部 ${totalSongCount} 首歌曲`;
@@ -2245,6 +2309,7 @@
                             btn.style.borderColor = '#94a3b8';
                             btn.style.color = '#111827';
                             btn.style.background = '#e9edf2';
+                            initLazyMedia(grid);
                         } else {
                             grid.classList.add('hidden');
                             btn.style.borderColor = '#d0d7de';
