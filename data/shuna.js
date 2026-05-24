@@ -1,6 +1,6 @@
 // 朱名 - 歌单数据 (多合集汇总)
 // 来源: BV167c2znErj
-// 生成时间: 2026/4/14 09:00:18
+// 生成时间: 2026/5/24 23:46:50
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -21,7 +21,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 259,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -42,7 +43,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 275,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -63,7 +65,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 298,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -84,7 +87,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 306,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -105,7 +109,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 279,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -126,7 +131,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 367,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -147,7 +153,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 307,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -168,7 +175,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 300,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -189,7 +197,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 313,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -210,7 +219,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 254,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -231,7 +241,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 236,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -252,7 +263,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 294,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -273,7 +285,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 266,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -294,7 +307,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 280,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -315,7 +329,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 233,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -336,7 +351,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 162,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -357,7 +373,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 395,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -378,7 +395,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 292,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -399,7 +417,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 261,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -420,7 +439,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 313,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -441,7 +461,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 229,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -462,7 +483,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 264,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -483,7 +505,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 259,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -504,7 +527,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 254,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -525,7 +549,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 253,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -546,7 +571,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 290,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -567,7 +593,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 278,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -588,7 +615,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 193,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -609,7 +637,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 237,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -630,7 +659,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 257,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -651,7 +681,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 193,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -672,7 +703,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 236,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -693,7 +725,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 274,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -714,7 +747,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 457,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -735,7 +769,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 326,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -756,7 +791,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 335,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -777,7 +813,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 219,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -798,7 +835,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 213,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -819,7 +857,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 269,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -840,7 +879,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 347,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -861,7 +901,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 241,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -882,7 +923,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 255,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -903,7 +945,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 269,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -924,7 +967,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 242,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -945,7 +989,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 302,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -966,7 +1011,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 314,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -987,7 +1033,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 264,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1008,7 +1055,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 280,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1029,7 +1077,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 198,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1050,7 +1099,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 245,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1071,7 +1121,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 235,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1092,7 +1143,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 275,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1113,7 +1165,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 222,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1134,7 +1187,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 235,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1155,7 +1209,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 238,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1176,7 +1231,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 232,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1197,7 +1253,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 250,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1218,7 +1275,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 276,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1239,7 +1297,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 314,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1260,7 +1319,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 211,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1281,7 +1341,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 279,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1302,7 +1363,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 247,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1323,7 +1385,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 223,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1344,7 +1407,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 291,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1365,7 +1429,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 246,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1386,7 +1451,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 234,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1407,7 +1473,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 277,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1428,7 +1495,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 202,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1449,7 +1517,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 250,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1470,7 +1539,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 188,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1491,7 +1561,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 274,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1512,7 +1583,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 242,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1533,7 +1605,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 220,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1554,7 +1627,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 265,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1575,7 +1649,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 332,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1596,7 +1671,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 222,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1617,7 +1693,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 281,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1638,7 +1715,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 272,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1659,7 +1737,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 379,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1680,7 +1759,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 338,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1701,7 +1781,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 252,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1722,7 +1803,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 284,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1743,7 +1825,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 310,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1764,7 +1847,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 296,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1785,7 +1869,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 277,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1806,7 +1891,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 279,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1827,7 +1913,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 204,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1848,7 +1935,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 320,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1869,7 +1957,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 306,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1890,7 +1979,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 328,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1911,7 +2001,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 304,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1932,7 +2023,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 253,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1953,7 +2045,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 288,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1974,7 +2067,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 358,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1995,7 +2089,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 280,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2016,7 +2111,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 266,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2037,7 +2133,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 350,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2058,7 +2155,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 360,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2079,7 +2177,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 304,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2100,7 +2199,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 241,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2121,7 +2221,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 345,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2142,7 +2243,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 325,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2163,7 +2265,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 313,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2184,7 +2287,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 288,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2205,7 +2309,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 350,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2226,7 +2331,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 193,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2247,7 +2353,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 304,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2268,7 +2375,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 277,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2289,7 +2397,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 175,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2310,7 +2419,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 237,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2331,7 +2441,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 345,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2352,7 +2463,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 372,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2373,7 +2485,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 252,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2394,7 +2507,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 347,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2415,7 +2529,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 270,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2436,7 +2551,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 242,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2457,7 +2573,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 259,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2478,7 +2595,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 276,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2499,7 +2617,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 277,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2520,7 +2639,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 318,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2541,7 +2661,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 269,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2562,7 +2683,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 192,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2583,7 +2705,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 222,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2604,7 +2727,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 278,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2625,7 +2749,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 530,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2646,7 +2771,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 126,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2667,7 +2793,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 318,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2688,7 +2815,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 319,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2709,7 +2837,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 237,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2730,7 +2859,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 309,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2751,7 +2881,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 291,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2772,7 +2903,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 361,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2793,7 +2925,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 267,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2814,7 +2947,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 288,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2835,7 +2969,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 253,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2856,7 +2991,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 229,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2877,7 +3013,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 283,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2898,7 +3035,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 327,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2919,7 +3057,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 240,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2940,7 +3079,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 231,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2961,7 +3101,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 198,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2982,7 +3123,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 222,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3003,7 +3145,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 182,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3024,7 +3167,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 216,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3045,7 +3189,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 207,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3066,7 +3211,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 215,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3087,7 +3233,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 241,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3108,7 +3255,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 249,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3129,7 +3277,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 237,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3150,7 +3299,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 213,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3171,7 +3321,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 298,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3192,7 +3343,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 188,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3213,7 +3365,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 223,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3234,7 +3387,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 310,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3255,7 +3409,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 214,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3276,7 +3431,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 267,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3297,7 +3453,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 330,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3318,7 +3475,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 215,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3339,7 +3497,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 269,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3360,7 +3519,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 287,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3381,7 +3541,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 243,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3402,7 +3563,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 234,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3423,7 +3585,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 253,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3444,7 +3607,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 212,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3465,7 +3629,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 253,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3486,7 +3651,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 245,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3507,7 +3673,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 205,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3528,7 +3695,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 234,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3549,7 +3717,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 231,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3570,7 +3739,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 306,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3591,7 +3761,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 252,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3612,7 +3783,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 260,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3633,7 +3805,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 264,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3654,7 +3827,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 292,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3675,7 +3849,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 189,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3696,7 +3871,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 181,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3717,7 +3893,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 286,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3738,7 +3915,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 320,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3759,7 +3937,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 235,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3780,7 +3959,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 326,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3801,7 +3981,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 250,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3822,7 +4003,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 340,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3843,7 +4025,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 292,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3864,7 +4047,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 363,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3885,7 +4069,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 245,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3906,7 +4091,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 256,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3927,7 +4113,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 299,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3948,7 +4135,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 340,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3969,7 +4157,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 350,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3990,7 +4179,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 335,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4011,7 +4201,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 313,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4032,7 +4223,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 281,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4053,7 +4245,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 244,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4074,7 +4267,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 121,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4095,7 +4289,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 292,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4116,7 +4311,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 223,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4137,7 +4333,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 107,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4158,7 +4355,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 61,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4179,7 +4377,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 19,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4200,7 +4399,8 @@ window.SONG_DATA.push(
   "videoDuration": 53449,
   "partDuration": 288,
   "videos": 200,
-  "viewCount": 971,
+  "viewCount": 3471,
+  "cover": "https://i0.hdslb.com/bfs/archive/6752e8b5c8fb5d207690d7f35cf3457fda0c4e18.jpg@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4221,7 +4421,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 256,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4242,7 +4443,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 280,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4263,7 +4465,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 111,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4284,7 +4487,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 264,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4305,7 +4509,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 275,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4326,7 +4531,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 88,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4347,7 +4553,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 264,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4368,7 +4575,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 318,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4389,7 +4597,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 233,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4410,7 +4619,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 312,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4431,7 +4641,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 294,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4452,7 +4663,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 230,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4473,7 +4685,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 351,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4494,7 +4707,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 259,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4515,7 +4729,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 262,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4536,7 +4751,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 370,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4557,7 +4773,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 281,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4578,7 +4795,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 251,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4599,7 +4817,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 278,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4620,7 +4839,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 328,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4641,7 +4861,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 258,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4662,7 +4883,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 264,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4683,7 +4905,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 292,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4704,7 +4927,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 305,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4725,7 +4949,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 352,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4746,7 +4971,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 321,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4767,7 +4993,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 384,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4788,7 +5015,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 212,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4809,7 +5037,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 293,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4830,7 +5059,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 247,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4851,7 +5081,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 232,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4872,7 +5103,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 277,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4893,7 +5125,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 257,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4914,7 +5147,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 270,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4935,7 +5169,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 242,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4956,7 +5191,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 252,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4977,7 +5213,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 253,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4998,7 +5235,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 305,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5019,7 +5257,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 301,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5040,7 +5279,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 310,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5061,7 +5301,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 257,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5082,7 +5323,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 223,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5103,7 +5345,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 222,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5124,7 +5367,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 233,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5145,7 +5389,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 269,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5166,7 +5411,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 244,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5187,7 +5433,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 233,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5208,7 +5455,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 246,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5229,7 +5477,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 243,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5250,7 +5499,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 70,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5271,7 +5521,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 348,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5292,7 +5543,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 379,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5313,7 +5565,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 286,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5334,7 +5587,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 254,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5355,7 +5609,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 295,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5376,7 +5631,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 274,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5397,7 +5653,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 314,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5418,7 +5675,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 190,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5439,7 +5697,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 190,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5460,7 +5719,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 265,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5481,7 +5741,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 234,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5502,7 +5763,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 251,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5523,7 +5785,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 256,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5544,7 +5807,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 271,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5565,7 +5829,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 306,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5586,7 +5851,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 276,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5607,7 +5873,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 297,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5628,7 +5895,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 275,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5649,7 +5917,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 311,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5670,7 +5939,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 275,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5691,7 +5961,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 309,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5712,7 +5983,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 357,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5733,7 +6005,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 253,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5754,7 +6027,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 256,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5775,7 +6049,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 251,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5796,7 +6071,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 218,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5817,7 +6093,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 348,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5838,7 +6115,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 292,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5859,7 +6137,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 266,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5880,7 +6159,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 237,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5901,7 +6181,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 252,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5922,7 +6203,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 270,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5943,7 +6225,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 237,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5964,7 +6247,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 193,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5985,7 +6269,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 238,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6006,7 +6291,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 202,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6027,7 +6313,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 203,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6048,7 +6335,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 203,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6069,7 +6357,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 274,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6090,7 +6379,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 216,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6111,7 +6401,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 292,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6132,7 +6423,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 250,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6153,7 +6445,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 236,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6174,7 +6467,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 251,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6195,7 +6489,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 236,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6216,7 +6511,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 181,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6237,7 +6533,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 244,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6258,7 +6555,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 279,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6279,7 +6577,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 315,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6300,7 +6599,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 193,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6321,7 +6621,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 208,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6342,7 +6643,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 190,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6363,7 +6665,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 223,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6384,7 +6687,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 236,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6405,7 +6709,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 196,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6426,7 +6731,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 256,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6447,7 +6753,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 171,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6468,7 +6775,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 191,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6489,7 +6797,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 235,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6510,7 +6819,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 238,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6531,7 +6841,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 300,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6552,7 +6863,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 277,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6573,7 +6885,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 250,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6594,7 +6907,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 273,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6615,7 +6929,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 250,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6636,7 +6951,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 211,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6657,7 +6973,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 278,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6678,7 +6995,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 248,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6699,7 +7017,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 320,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6720,7 +7039,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 277,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6741,7 +7061,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 339,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6762,7 +7083,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 306,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6783,7 +7105,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 312,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6804,7 +7127,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 259,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6825,7 +7149,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 306,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6846,7 +7171,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 245,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6867,7 +7193,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 280,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6888,7 +7215,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 369,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6909,7 +7237,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 197,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6930,7 +7259,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 274,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6951,7 +7281,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 270,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6972,7 +7303,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 268,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6993,7 +7325,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 203,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7014,7 +7347,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 263,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7035,7 +7369,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 369,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7056,7 +7391,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 342,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7077,7 +7413,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 298,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7098,7 +7435,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 268,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7119,7 +7457,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 284,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7140,7 +7479,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 232,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7161,7 +7501,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 217,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7182,7 +7523,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 362,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7203,7 +7545,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 224,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7224,7 +7567,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 252,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7245,7 +7589,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 256,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7266,7 +7611,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 267,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7287,7 +7633,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 231,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7308,7 +7655,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 248,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7329,7 +7677,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 303,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7350,7 +7699,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 345,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7371,7 +7721,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 373,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7392,7 +7743,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 343,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7413,7 +7765,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 339,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7434,7 +7787,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 266,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7455,7 +7809,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 335,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7476,7 +7831,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 260,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7497,7 +7853,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 262,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7518,7 +7875,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 377,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7539,7 +7897,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 239,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7560,7 +7919,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 296,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7581,7 +7941,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 304,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7602,7 +7963,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 247,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7623,7 +7985,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 212,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7644,7 +8007,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 238,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7665,7 +8029,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 193,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7686,7 +8051,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 215,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7707,7 +8073,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 271,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7728,7 +8095,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 313,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7749,7 +8117,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 395,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7770,7 +8139,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 267,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7791,7 +8161,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 364,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7812,7 +8183,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 293,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7833,7 +8205,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 368,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7854,7 +8227,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 306,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7875,7 +8249,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 228,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7896,7 +8271,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 298,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7917,7 +8293,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 305,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7938,7 +8315,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 269,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7959,7 +8337,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 253,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7980,7 +8359,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 266,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8001,7 +8381,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 255,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8022,7 +8403,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 311,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8043,7 +8425,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 309,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8064,7 +8447,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 344,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8085,7 +8469,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 336,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8106,7 +8491,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 336,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8127,7 +8513,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 252,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8148,7 +8535,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 319,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8169,7 +8557,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 350,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8190,7 +8579,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 252,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8211,7 +8601,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 240,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8232,7 +8623,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 245,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8253,7 +8645,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 238,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8274,7 +8667,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 362,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8295,7 +8689,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 306,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8316,7 +8711,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 238,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8337,7 +8733,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 240,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8358,7 +8755,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 221,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8379,7 +8777,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 303,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8400,7 +8799,8 @@ window.SONG_DATA.push(
   "videoDuration": 53877,
   "partDuration": 237,
   "videos": 200,
-  "viewCount": 273,
+  "viewCount": 370,
+  "cover": "https://i0.hdslb.com/bfs/archive/a7c72661de1f73e343b954e6df6e3ee8c1159c44.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8421,7 +8821,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 176,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8442,7 +8843,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 325,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8463,7 +8865,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 224,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8484,7 +8887,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 277,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8505,7 +8909,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 248,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8526,7 +8931,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 213,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8547,7 +8953,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 189,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8568,7 +8975,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 271,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8589,7 +8997,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 278,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8610,7 +9019,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 273,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8631,7 +9041,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 248,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8652,7 +9063,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 280,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8673,7 +9085,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 279,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8694,7 +9107,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 368,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8715,7 +9129,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 311,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8736,7 +9151,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 320,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8757,7 +9173,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 309,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8778,7 +9195,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 286,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8799,7 +9217,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 329,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8820,7 +9239,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 305,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8841,7 +9261,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 343,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8862,7 +9283,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 232,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8883,7 +9305,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 278,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8904,7 +9327,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 287,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8925,7 +9349,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 246,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8946,7 +9371,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 188,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8967,7 +9393,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 276,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8988,7 +9415,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 320,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9009,7 +9437,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 254,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9030,7 +9459,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 285,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9051,7 +9481,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 279,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9072,7 +9503,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 254,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9093,7 +9525,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 338,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9114,7 +9547,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 279,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9135,7 +9569,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 234,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9156,7 +9591,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 301,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9177,7 +9613,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 223,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9198,7 +9635,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 232,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9219,7 +9657,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 281,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9240,7 +9679,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 281,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9261,7 +9701,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 172,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9282,7 +9723,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 246,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9303,7 +9745,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 191,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9324,7 +9767,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 85,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9345,7 +9789,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 244,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9366,7 +9811,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 185,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9387,7 +9833,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 164,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9408,7 +9855,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 268,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9429,7 +9877,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 206,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9450,7 +9899,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 188,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9471,7 +9921,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 269,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9492,7 +9943,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 151,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9513,7 +9965,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 183,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9534,7 +9987,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 269,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9555,7 +10009,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 272,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9576,7 +10031,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 274,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9597,7 +10053,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 314,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9618,7 +10075,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 264,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9639,7 +10097,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 280,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9660,7 +10119,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 238,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9681,7 +10141,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 299,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9702,7 +10163,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 221,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9723,7 +10185,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 236,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9744,7 +10207,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 264,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9765,7 +10229,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 307,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9786,7 +10251,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 243,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9807,7 +10273,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 193,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9828,7 +10295,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 237,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9849,7 +10317,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 181,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9870,7 +10339,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 235,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9891,7 +10361,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 213,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9912,7 +10383,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 292,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9933,7 +10405,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 255,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9954,7 +10427,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 223,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9975,7 +10449,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 337,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9996,7 +10471,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 356,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10017,7 +10493,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 363,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10038,7 +10515,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 192,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10059,7 +10537,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 238,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10080,7 +10559,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 232,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10101,7 +10581,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 202,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10122,7 +10603,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 278,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10143,7 +10625,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 276,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10164,7 +10647,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 251,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10185,7 +10669,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 294,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10206,7 +10691,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 254,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10227,7 +10713,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 231,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10248,7 +10735,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 245,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10269,7 +10757,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 214,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10290,7 +10779,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 249,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10311,7 +10801,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 234,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10332,7 +10823,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 276,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10353,7 +10845,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 257,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10374,7 +10867,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 218,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10395,7 +10889,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 287,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10416,7 +10911,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 256,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10437,7 +10933,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 274,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10458,7 +10955,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 296,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10479,7 +10977,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 211,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10500,7 +10999,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 269,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10521,7 +11021,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 215,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10542,7 +11043,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 378,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10563,7 +11065,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 259,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10584,7 +11087,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 311,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10605,7 +11109,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 291,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10626,7 +11131,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 292,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10647,7 +11153,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 260,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10668,7 +11175,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 204,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10689,7 +11197,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 215,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10710,7 +11219,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 196,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10731,7 +11241,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 358,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10752,7 +11263,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 314,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10773,7 +11285,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 244,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10794,7 +11307,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 242,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10815,7 +11329,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 271,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10836,7 +11351,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 328,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10857,7 +11373,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 279,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10878,7 +11395,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 280,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10899,7 +11417,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 291,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10920,7 +11439,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 242,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10941,7 +11461,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 222,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10962,7 +11483,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 274,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10983,7 +11505,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 240,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11004,7 +11527,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 258,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11025,7 +11549,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 265,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11046,7 +11571,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 256,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11067,7 +11593,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 299,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11088,7 +11615,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 235,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11109,7 +11637,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 337,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11130,7 +11659,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 194,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11151,7 +11681,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 219,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11172,7 +11703,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 325,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11193,7 +11725,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 304,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11214,7 +11747,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 234,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11235,7 +11769,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 244,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11256,7 +11791,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 225,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11277,7 +11813,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 293,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11298,7 +11835,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 371,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11319,7 +11857,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 299,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11340,7 +11879,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 230,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11361,7 +11901,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 174,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11382,7 +11923,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 203,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11403,7 +11945,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 134,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11424,7 +11967,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 117,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11445,7 +11989,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 190,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11466,7 +12011,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 187,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11487,7 +12033,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 246,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11508,7 +12055,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 235,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11529,7 +12077,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 223,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11550,7 +12099,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 198,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11571,7 +12121,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 218,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11592,7 +12143,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 200,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11613,7 +12165,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 279,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11634,7 +12187,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 309,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11655,7 +12209,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 368,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11676,7 +12231,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 269,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11697,7 +12253,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 255,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11718,7 +12275,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 225,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11739,7 +12297,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 311,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11760,7 +12319,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 337,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11781,7 +12341,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 243,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11802,7 +12363,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 296,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11823,7 +12385,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 305,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11844,7 +12407,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 266,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11865,7 +12429,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 253,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11886,7 +12451,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 278,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11907,7 +12473,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 331,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11928,7 +12495,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 373,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11949,7 +12517,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 347,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11970,7 +12539,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 285,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11991,7 +12561,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 284,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12012,7 +12583,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 254,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12033,7 +12605,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 240,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12054,7 +12627,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 244,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12075,7 +12649,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 230,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12096,7 +12671,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 208,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12117,7 +12693,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 190,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12138,7 +12715,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 275,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12159,7 +12737,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 273,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12180,7 +12759,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 191,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12201,7 +12781,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 302,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12222,7 +12803,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 235,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12243,7 +12825,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 165,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12264,7 +12847,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 235,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12285,7 +12869,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 230,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12306,7 +12891,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 221,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12327,7 +12913,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 292,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12348,7 +12935,8 @@ window.SONG_DATA.push(
   "videoDuration": 48396,
   "partDuration": 306,
   "videos": 188,
-  "viewCount": 257,
+  "viewCount": 293,
+  "cover": "https://i2.hdslb.com/bfs/archive/c221f9a2f78695f59bcb4ff7bde4840e42407140.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12369,7 +12957,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 338,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12390,7 +12979,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 370,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12411,7 +13001,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 272,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12432,7 +13023,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 357,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12453,7 +13045,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 213,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12474,7 +13067,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 252,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12495,7 +13089,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 300,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12516,7 +13111,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 266,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12537,7 +13133,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 313,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12558,7 +13155,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 335,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12579,7 +13177,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 313,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12600,7 +13199,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 283,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12621,7 +13221,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 292,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12642,7 +13243,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 268,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12663,7 +13265,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 163,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12684,7 +13287,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 223,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12705,7 +13309,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 274,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12726,7 +13331,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 269,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12747,7 +13353,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 205,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12768,7 +13375,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 250,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12789,7 +13397,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 208,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12810,7 +13419,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 378,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12831,7 +13441,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 266,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12852,7 +13463,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 276,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12873,7 +13485,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 321,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12894,7 +13507,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 348,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12915,7 +13529,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 272,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12936,7 +13551,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 241,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12957,7 +13573,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 246,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12978,7 +13595,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 211,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12999,7 +13617,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 307,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13020,7 +13639,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 289,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13041,7 +13661,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 254,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13062,7 +13683,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 323,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13083,7 +13705,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 328,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13104,7 +13727,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 236,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13125,7 +13749,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 196,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13146,7 +13771,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 216,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13167,7 +13793,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 237,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13188,7 +13815,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 265,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13209,7 +13837,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 257,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13230,7 +13859,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 263,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13251,7 +13881,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 352,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13272,7 +13903,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 342,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13293,7 +13925,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 369,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13314,7 +13947,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 612,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13335,7 +13969,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 190,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13356,7 +13991,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 358,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13377,7 +14013,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 285,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13398,7 +14035,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 249,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13419,7 +14057,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 245,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13440,7 +14079,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 259,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13461,7 +14101,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 380,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13482,7 +14123,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 276,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13503,7 +14145,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 198,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13524,7 +14167,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 313,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13545,7 +14189,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 247,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13566,7 +14211,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 208,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13587,7 +14233,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 230,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13608,7 +14255,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 324,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13629,7 +14277,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 209,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13650,7 +14299,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 279,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13671,7 +14321,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 350,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13692,7 +14343,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 303,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13713,7 +14365,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 318,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13734,7 +14387,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 223,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13755,7 +14409,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 218,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13776,7 +14431,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 276,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13797,7 +14453,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 193,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13818,7 +14475,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 236,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13839,7 +14497,8 @@ window.SONG_DATA.push(
   "videoDuration": 19843,
   "partDuration": 307,
   "videos": 71,
-  "viewCount": 365,
+  "viewCount": 464,
+  "cover": "https://i1.hdslb.com/bfs/archive/fa481231fd3ace0f552c50ad7de90ce17af1a1c1.png@160w_90h_1c.webp",
   "videoTitle": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367

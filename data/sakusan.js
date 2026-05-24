@@ -1,6 +1,6 @@
 // 酢酸 / SAKUSAN - 歌单数据 (多合集汇总)
 // 来源: BV1JSZHBrEVw
-// 生成时间: 2026/4/14 08:59:10
+// 生成时间: 2026/5/24 23:45:35
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -21,7 +21,8 @@ window.SONG_DATA.push(
   "videoDuration": 1167,
   "partDuration": 239,
   "videos": 5,
-  "viewCount": 124,
+  "viewCount": 126,
+  "cover": "https://i1.hdslb.com/bfs/archive/c4693f5d4b6cc378773fa504728f41312aa302ee.jpg@160w_90h_1c.webp",
   "videoTitle": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -42,7 +43,8 @@ window.SONG_DATA.push(
   "videoDuration": 1167,
   "partDuration": 213,
   "videos": 5,
-  "viewCount": 124,
+  "viewCount": 126,
+  "cover": "https://i1.hdslb.com/bfs/archive/c4693f5d4b6cc378773fa504728f41312aa302ee.jpg@160w_90h_1c.webp",
   "videoTitle": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -63,7 +65,8 @@ window.SONG_DATA.push(
   "videoDuration": 1167,
   "partDuration": 189,
   "videos": 5,
-  "viewCount": 124,
+  "viewCount": 126,
+  "cover": "https://i1.hdslb.com/bfs/archive/c4693f5d4b6cc378773fa504728f41312aa302ee.jpg@160w_90h_1c.webp",
   "videoTitle": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -84,7 +87,8 @@ window.SONG_DATA.push(
   "videoDuration": 1167,
   "partDuration": 290,
   "videos": 5,
-  "viewCount": 124,
+  "viewCount": 126,
+  "cover": "https://i1.hdslb.com/bfs/archive/c4693f5d4b6cc378773fa504728f41312aa302ee.jpg@160w_90h_1c.webp",
   "videoTitle": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -105,7 +109,8 @@ window.SONG_DATA.push(
   "videoDuration": 1167,
   "partDuration": 236,
   "videos": 5,
-  "viewCount": 124,
+  "viewCount": 126,
+  "cover": "https://i1.hdslb.com/bfs/archive/c4693f5d4b6cc378773fa504728f41312aa302ee.jpg@160w_90h_1c.webp",
   "videoTitle": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -126,7 +131,8 @@ window.SONG_DATA.push(
   "videoDuration": 3049,
   "partDuration": 237,
   "videos": 13,
-  "viewCount": 243,
+  "viewCount": 246,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 主流程歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -147,7 +153,8 @@ window.SONG_DATA.push(
   "videoDuration": 3049,
   "partDuration": 228,
   "videos": 13,
-  "viewCount": 243,
+  "viewCount": 246,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 主流程歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -168,7 +175,8 @@ window.SONG_DATA.push(
   "videoDuration": 3049,
   "partDuration": 138,
   "videos": 13,
-  "viewCount": 243,
+  "viewCount": 246,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 主流程歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -189,7 +197,8 @@ window.SONG_DATA.push(
   "videoDuration": 3049,
   "partDuration": 221,
   "videos": 13,
-  "viewCount": 243,
+  "viewCount": 246,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 主流程歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -210,7 +219,8 @@ window.SONG_DATA.push(
   "videoDuration": 3049,
   "partDuration": 278,
   "videos": 13,
-  "viewCount": 243,
+  "viewCount": 246,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 主流程歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -231,7 +241,8 @@ window.SONG_DATA.push(
   "videoDuration": 3049,
   "partDuration": 189,
   "videos": 13,
-  "viewCount": 243,
+  "viewCount": 246,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 主流程歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -252,7 +263,8 @@ window.SONG_DATA.push(
   "videoDuration": 3049,
   "partDuration": 272,
   "videos": 13,
-  "viewCount": 243,
+  "viewCount": 246,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 主流程歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -273,7 +285,8 @@ window.SONG_DATA.push(
   "videoDuration": 3049,
   "partDuration": 220,
   "videos": 13,
-  "viewCount": 243,
+  "viewCount": 246,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 主流程歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -294,7 +307,8 @@ window.SONG_DATA.push(
   "videoDuration": 3049,
   "partDuration": 87,
   "videos": 13,
-  "viewCount": 243,
+  "viewCount": 246,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 主流程歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -315,7 +329,8 @@ window.SONG_DATA.push(
   "videoDuration": 3049,
   "partDuration": 355,
   "videos": 13,
-  "viewCount": 243,
+  "viewCount": 246,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 主流程歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -336,7 +351,8 @@ window.SONG_DATA.push(
   "videoDuration": 3049,
   "partDuration": 287,
   "videos": 13,
-  "viewCount": 243,
+  "viewCount": 246,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 主流程歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -357,7 +373,8 @@ window.SONG_DATA.push(
   "videoDuration": 3049,
   "partDuration": 291,
   "videos": 13,
-  "viewCount": 243,
+  "viewCount": 246,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 主流程歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -378,7 +395,8 @@ window.SONG_DATA.push(
   "videoDuration": 3049,
   "partDuration": 246,
   "videos": 13,
-  "viewCount": 243,
+  "viewCount": 246,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 主流程歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -399,7 +417,8 @@ window.SONG_DATA.push(
   "videoDuration": 1532,
   "partDuration": 40,
   "videos": 25,
-  "viewCount": 107,
+  "viewCount": 108,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 粉丝向花絮歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -420,7 +439,8 @@ window.SONG_DATA.push(
   "videoDuration": 1532,
   "partDuration": 8,
   "videos": 25,
-  "viewCount": 107,
+  "viewCount": 108,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 粉丝向花絮歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -441,7 +461,8 @@ window.SONG_DATA.push(
   "videoDuration": 1532,
   "partDuration": 6,
   "videos": 25,
-  "viewCount": 107,
+  "viewCount": 108,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 粉丝向花絮歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -462,7 +483,8 @@ window.SONG_DATA.push(
   "videoDuration": 1532,
   "partDuration": 123,
   "videos": 25,
-  "viewCount": 107,
+  "viewCount": 108,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 粉丝向花絮歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -483,7 +505,8 @@ window.SONG_DATA.push(
   "videoDuration": 1532,
   "partDuration": 76,
   "videos": 25,
-  "viewCount": 107,
+  "viewCount": 108,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 粉丝向花絮歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -504,7 +527,8 @@ window.SONG_DATA.push(
   "videoDuration": 1532,
   "partDuration": 112,
   "videos": 25,
-  "viewCount": 107,
+  "viewCount": 108,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 粉丝向花絮歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -525,7 +549,8 @@ window.SONG_DATA.push(
   "videoDuration": 1532,
   "partDuration": 39,
   "videos": 25,
-  "viewCount": 107,
+  "viewCount": 108,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 粉丝向花絮歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -546,7 +571,8 @@ window.SONG_DATA.push(
   "videoDuration": 1532,
   "partDuration": 23,
   "videos": 25,
-  "viewCount": 107,
+  "viewCount": 108,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 粉丝向花絮歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -567,7 +593,8 @@ window.SONG_DATA.push(
   "videoDuration": 1532,
   "partDuration": 29,
   "videos": 25,
-  "viewCount": 107,
+  "viewCount": 108,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 粉丝向花絮歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -588,7 +615,8 @@ window.SONG_DATA.push(
   "videoDuration": 1532,
   "partDuration": 88,
   "videos": 25,
-  "viewCount": 107,
+  "viewCount": 108,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 粉丝向花絮歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -609,7 +637,8 @@ window.SONG_DATA.push(
   "videoDuration": 1532,
   "partDuration": 63,
   "videos": 25,
-  "viewCount": 107,
+  "viewCount": 108,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 粉丝向花絮歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -630,7 +659,8 @@ window.SONG_DATA.push(
   "videoDuration": 1532,
   "partDuration": 107,
   "videos": 25,
-  "viewCount": 107,
+  "viewCount": 108,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 粉丝向花絮歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -651,7 +681,8 @@ window.SONG_DATA.push(
   "videoDuration": 1532,
   "partDuration": 35,
   "videos": 25,
-  "viewCount": 107,
+  "viewCount": 108,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 粉丝向花絮歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -672,7 +703,8 @@ window.SONG_DATA.push(
   "videoDuration": 1532,
   "partDuration": 110,
   "videos": 25,
-  "viewCount": 107,
+  "viewCount": 108,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 粉丝向花絮歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -693,7 +725,8 @@ window.SONG_DATA.push(
   "videoDuration": 1532,
   "partDuration": 13,
   "videos": 25,
-  "viewCount": 107,
+  "viewCount": 108,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 粉丝向花絮歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -714,7 +747,8 @@ window.SONG_DATA.push(
   "videoDuration": 1532,
   "partDuration": 55,
   "videos": 25,
-  "viewCount": 107,
+  "viewCount": 108,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 粉丝向花絮歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -735,7 +769,8 @@ window.SONG_DATA.push(
   "videoDuration": 1532,
   "partDuration": 27,
   "videos": 25,
-  "viewCount": 107,
+  "viewCount": 108,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 粉丝向花絮歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -756,7 +791,8 @@ window.SONG_DATA.push(
   "videoDuration": 1532,
   "partDuration": 77,
   "videos": 25,
-  "viewCount": 107,
+  "viewCount": 108,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 粉丝向花絮歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -777,7 +813,8 @@ window.SONG_DATA.push(
   "videoDuration": 1532,
   "partDuration": 56,
   "videos": 25,
-  "viewCount": 107,
+  "viewCount": 108,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 粉丝向花絮歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -798,7 +835,8 @@ window.SONG_DATA.push(
   "videoDuration": 1532,
   "partDuration": 86,
   "videos": 25,
-  "viewCount": 107,
+  "viewCount": 108,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 粉丝向花絮歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -819,7 +857,8 @@ window.SONG_DATA.push(
   "videoDuration": 1532,
   "partDuration": 26,
   "videos": 25,
-  "viewCount": 107,
+  "viewCount": 108,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 粉丝向花絮歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -840,7 +879,8 @@ window.SONG_DATA.push(
   "videoDuration": 1532,
   "partDuration": 56,
   "videos": 25,
-  "viewCount": 107,
+  "viewCount": 108,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 粉丝向花絮歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -861,7 +901,8 @@ window.SONG_DATA.push(
   "videoDuration": 1532,
   "partDuration": 59,
   "videos": 25,
-  "viewCount": 107,
+  "viewCount": 108,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 粉丝向花絮歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -882,7 +923,8 @@ window.SONG_DATA.push(
   "videoDuration": 1532,
   "partDuration": 79,
   "videos": 25,
-  "viewCount": 107,
+  "viewCount": 108,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 粉丝向花絮歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -903,7 +945,8 @@ window.SONG_DATA.push(
   "videoDuration": 1532,
   "partDuration": 139,
   "videos": 25,
-  "viewCount": 107,
+  "viewCount": 108,
+  "cover": "https://i0.hdslb.com/bfs/archive/80b525adf7a10319a2f3c0502ffd69ac6ef860ca.jpg@160w_90h_1c.webp",
   "videoTitle": "酢酸かのん 2025.5.5直播 粉丝向花絮歌切",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -924,7 +967,8 @@ window.SONG_DATA.push(
   "videoDuration": 4132,
   "partDuration": 271,
   "videos": 26,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i1.hdslb.com/bfs/archive/57a2ee5c92c8e55c3aa0e49c88f307ea2fb74882.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-15]うた聴いていってください...！🤍＼初見さんも大歓迎／[50t3HUO3ODU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -945,7 +989,8 @@ window.SONG_DATA.push(
   "videoDuration": 4132,
   "partDuration": 265,
   "videos": 26,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i1.hdslb.com/bfs/archive/57a2ee5c92c8e55c3aa0e49c88f307ea2fb74882.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-15]うた聴いていってください...！🤍＼初見さんも大歓迎／[50t3HUO3ODU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -966,7 +1011,8 @@ window.SONG_DATA.push(
   "videoDuration": 4132,
   "partDuration": 175,
   "videos": 26,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i1.hdslb.com/bfs/archive/57a2ee5c92c8e55c3aa0e49c88f307ea2fb74882.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-15]うた聴いていってください...！🤍＼初見さんも大歓迎／[50t3HUO3ODU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -987,7 +1033,8 @@ window.SONG_DATA.push(
   "videoDuration": 4132,
   "partDuration": 241,
   "videos": 26,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i1.hdslb.com/bfs/archive/57a2ee5c92c8e55c3aa0e49c88f307ea2fb74882.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-15]うた聴いていってください...！🤍＼初見さんも大歓迎／[50t3HUO3ODU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1008,7 +1055,8 @@ window.SONG_DATA.push(
   "videoDuration": 4132,
   "partDuration": 94,
   "videos": 26,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i1.hdslb.com/bfs/archive/57a2ee5c92c8e55c3aa0e49c88f307ea2fb74882.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-15]うた聴いていってください...！🤍＼初見さんも大歓迎／[50t3HUO3ODU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1029,7 +1077,8 @@ window.SONG_DATA.push(
   "videoDuration": 4132,
   "partDuration": 411,
   "videos": 26,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i1.hdslb.com/bfs/archive/57a2ee5c92c8e55c3aa0e49c88f307ea2fb74882.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-15]うた聴いていってください...！🤍＼初見さんも大歓迎／[50t3HUO3ODU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1050,7 +1099,8 @@ window.SONG_DATA.push(
   "videoDuration": 4132,
   "partDuration": 255,
   "videos": 26,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i1.hdslb.com/bfs/archive/57a2ee5c92c8e55c3aa0e49c88f307ea2fb74882.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-15]うた聴いていってください...！🤍＼初見さんも大歓迎／[50t3HUO3ODU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1071,7 +1121,8 @@ window.SONG_DATA.push(
   "videoDuration": 4132,
   "partDuration": 89,
   "videos": 26,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i1.hdslb.com/bfs/archive/57a2ee5c92c8e55c3aa0e49c88f307ea2fb74882.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-15]うた聴いていってください...！🤍＼初見さんも大歓迎／[50t3HUO3ODU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1092,7 +1143,8 @@ window.SONG_DATA.push(
   "videoDuration": 4132,
   "partDuration": 89,
   "videos": 26,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i1.hdslb.com/bfs/archive/57a2ee5c92c8e55c3aa0e49c88f307ea2fb74882.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-15]うた聴いていってください...！🤍＼初見さんも大歓迎／[50t3HUO3ODU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1113,7 +1165,8 @@ window.SONG_DATA.push(
   "videoDuration": 4132,
   "partDuration": 180,
   "videos": 26,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i1.hdslb.com/bfs/archive/57a2ee5c92c8e55c3aa0e49c88f307ea2fb74882.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-15]うた聴いていってください...！🤍＼初見さんも大歓迎／[50t3HUO3ODU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1134,7 +1187,8 @@ window.SONG_DATA.push(
   "videoDuration": 4132,
   "partDuration": 99,
   "videos": 26,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i1.hdslb.com/bfs/archive/57a2ee5c92c8e55c3aa0e49c88f307ea2fb74882.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-15]うた聴いていってください...！🤍＼初見さんも大歓迎／[50t3HUO3ODU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1155,7 +1209,8 @@ window.SONG_DATA.push(
   "videoDuration": 4132,
   "partDuration": 56,
   "videos": 26,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i1.hdslb.com/bfs/archive/57a2ee5c92c8e55c3aa0e49c88f307ea2fb74882.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-15]うた聴いていってください...！🤍＼初見さんも大歓迎／[50t3HUO3ODU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1176,7 +1231,8 @@ window.SONG_DATA.push(
   "videoDuration": 4132,
   "partDuration": 256,
   "videos": 26,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i1.hdslb.com/bfs/archive/57a2ee5c92c8e55c3aa0e49c88f307ea2fb74882.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-15]うた聴いていってください...！🤍＼初見さんも大歓迎／[50t3HUO3ODU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1197,7 +1253,8 @@ window.SONG_DATA.push(
   "videoDuration": 4132,
   "partDuration": 46,
   "videos": 26,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i1.hdslb.com/bfs/archive/57a2ee5c92c8e55c3aa0e49c88f307ea2fb74882.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-15]うた聴いていってください...！🤍＼初見さんも大歓迎／[50t3HUO3ODU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1218,7 +1275,8 @@ window.SONG_DATA.push(
   "videoDuration": 4132,
   "partDuration": 354,
   "videos": 26,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i1.hdslb.com/bfs/archive/57a2ee5c92c8e55c3aa0e49c88f307ea2fb74882.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-15]うた聴いていってください...！🤍＼初見さんも大歓迎／[50t3HUO3ODU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1239,7 +1297,8 @@ window.SONG_DATA.push(
   "videoDuration": 4132,
   "partDuration": 26,
   "videos": 26,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i1.hdslb.com/bfs/archive/57a2ee5c92c8e55c3aa0e49c88f307ea2fb74882.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-15]うた聴いていってください...！🤍＼初見さんも大歓迎／[50t3HUO3ODU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1260,7 +1319,8 @@ window.SONG_DATA.push(
   "videoDuration": 4132,
   "partDuration": 71,
   "videos": 26,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i1.hdslb.com/bfs/archive/57a2ee5c92c8e55c3aa0e49c88f307ea2fb74882.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-15]うた聴いていってください...！🤍＼初見さんも大歓迎／[50t3HUO3ODU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1281,7 +1341,8 @@ window.SONG_DATA.push(
   "videoDuration": 4132,
   "partDuration": 99,
   "videos": 26,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i1.hdslb.com/bfs/archive/57a2ee5c92c8e55c3aa0e49c88f307ea2fb74882.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-15]うた聴いていってください...！🤍＼初見さんも大歓迎／[50t3HUO3ODU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1302,7 +1363,8 @@ window.SONG_DATA.push(
   "videoDuration": 4132,
   "partDuration": 22,
   "videos": 26,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i1.hdslb.com/bfs/archive/57a2ee5c92c8e55c3aa0e49c88f307ea2fb74882.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-15]うた聴いていってください...！🤍＼初見さんも大歓迎／[50t3HUO3ODU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1323,7 +1385,8 @@ window.SONG_DATA.push(
   "videoDuration": 4132,
   "partDuration": 50,
   "videos": 26,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i1.hdslb.com/bfs/archive/57a2ee5c92c8e55c3aa0e49c88f307ea2fb74882.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-15]うた聴いていってください...！🤍＼初見さんも大歓迎／[50t3HUO3ODU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1344,7 +1407,8 @@ window.SONG_DATA.push(
   "videoDuration": 4132,
   "partDuration": 249,
   "videos": 26,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i1.hdslb.com/bfs/archive/57a2ee5c92c8e55c3aa0e49c88f307ea2fb74882.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-15]うた聴いていってください...！🤍＼初見さんも大歓迎／[50t3HUO3ODU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1365,7 +1429,8 @@ window.SONG_DATA.push(
   "videoDuration": 4132,
   "partDuration": 161,
   "videos": 26,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i1.hdslb.com/bfs/archive/57a2ee5c92c8e55c3aa0e49c88f307ea2fb74882.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-15]うた聴いていってください...！🤍＼初見さんも大歓迎／[50t3HUO3ODU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1386,7 +1451,8 @@ window.SONG_DATA.push(
   "videoDuration": 4132,
   "partDuration": 100,
   "videos": 26,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i1.hdslb.com/bfs/archive/57a2ee5c92c8e55c3aa0e49c88f307ea2fb74882.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-15]うた聴いていってください...！🤍＼初見さんも大歓迎／[50t3HUO3ODU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1407,7 +1473,8 @@ window.SONG_DATA.push(
   "videoDuration": 4132,
   "partDuration": 271,
   "videos": 26,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i1.hdslb.com/bfs/archive/57a2ee5c92c8e55c3aa0e49c88f307ea2fb74882.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-15]うた聴いていってください...！🤍＼初見さんも大歓迎／[50t3HUO3ODU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1428,7 +1495,8 @@ window.SONG_DATA.push(
   "videoDuration": 4132,
   "partDuration": 118,
   "videos": 26,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i1.hdslb.com/bfs/archive/57a2ee5c92c8e55c3aa0e49c88f307ea2fb74882.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-15]うた聴いていってください...！🤍＼初見さんも大歓迎／[50t3HUO3ODU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1449,7 +1517,8 @@ window.SONG_DATA.push(
   "videoDuration": 4132,
   "partDuration": 84,
   "videos": 26,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i1.hdslb.com/bfs/archive/57a2ee5c92c8e55c3aa0e49c88f307ea2fb74882.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-15]うた聴いていってください...！🤍＼初見さんも大歓迎／[50t3HUO3ODU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1470,7 +1539,8 @@ window.SONG_DATA.push(
   "videoDuration": 2625,
   "partDuration": 228,
   "videos": 21,
-  "viewCount": 38,
+  "viewCount": 45,
+  "cover": "https://i0.hdslb.com/bfs/archive/03174cce9d6c5526f0be74eff5bc339a9e738c3c.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-24]5月ラスト歌枠、歌きいていってください…！🤍＼初見さんも大歓迎／[eSYbxO1qJrU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1491,7 +1561,8 @@ window.SONG_DATA.push(
   "videoDuration": 2625,
   "partDuration": 228,
   "videos": 21,
-  "viewCount": 38,
+  "viewCount": 45,
+  "cover": "https://i0.hdslb.com/bfs/archive/03174cce9d6c5526f0be74eff5bc339a9e738c3c.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-24]5月ラスト歌枠、歌きいていってください…！🤍＼初見さんも大歓迎／[eSYbxO1qJrU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1512,7 +1583,8 @@ window.SONG_DATA.push(
   "videoDuration": 2625,
   "partDuration": 190,
   "videos": 21,
-  "viewCount": 38,
+  "viewCount": 45,
+  "cover": "https://i0.hdslb.com/bfs/archive/03174cce9d6c5526f0be74eff5bc339a9e738c3c.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-24]5月ラスト歌枠、歌きいていってください…！🤍＼初見さんも大歓迎／[eSYbxO1qJrU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1533,7 +1605,8 @@ window.SONG_DATA.push(
   "videoDuration": 2625,
   "partDuration": 26,
   "videos": 21,
-  "viewCount": 38,
+  "viewCount": 45,
+  "cover": "https://i0.hdslb.com/bfs/archive/03174cce9d6c5526f0be74eff5bc339a9e738c3c.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-24]5月ラスト歌枠、歌きいていってください…！🤍＼初見さんも大歓迎／[eSYbxO1qJrU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1554,7 +1627,8 @@ window.SONG_DATA.push(
   "videoDuration": 2625,
   "partDuration": 177,
   "videos": 21,
-  "viewCount": 38,
+  "viewCount": 45,
+  "cover": "https://i0.hdslb.com/bfs/archive/03174cce9d6c5526f0be74eff5bc339a9e738c3c.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-24]5月ラスト歌枠、歌きいていってください…！🤍＼初見さんも大歓迎／[eSYbxO1qJrU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1575,7 +1649,8 @@ window.SONG_DATA.push(
   "videoDuration": 2625,
   "partDuration": 63,
   "videos": 21,
-  "viewCount": 38,
+  "viewCount": 45,
+  "cover": "https://i0.hdslb.com/bfs/archive/03174cce9d6c5526f0be74eff5bc339a9e738c3c.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-24]5月ラスト歌枠、歌きいていってください…！🤍＼初見さんも大歓迎／[eSYbxO1qJrU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1596,7 +1671,8 @@ window.SONG_DATA.push(
   "videoDuration": 2625,
   "partDuration": 241,
   "videos": 21,
-  "viewCount": 38,
+  "viewCount": 45,
+  "cover": "https://i0.hdslb.com/bfs/archive/03174cce9d6c5526f0be74eff5bc339a9e738c3c.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-24]5月ラスト歌枠、歌きいていってください…！🤍＼初見さんも大歓迎／[eSYbxO1qJrU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1617,7 +1693,8 @@ window.SONG_DATA.push(
   "videoDuration": 2625,
   "partDuration": 271,
   "videos": 21,
-  "viewCount": 38,
+  "viewCount": 45,
+  "cover": "https://i0.hdslb.com/bfs/archive/03174cce9d6c5526f0be74eff5bc339a9e738c3c.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-24]5月ラスト歌枠、歌きいていってください…！🤍＼初見さんも大歓迎／[eSYbxO1qJrU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1638,7 +1715,8 @@ window.SONG_DATA.push(
   "videoDuration": 2625,
   "partDuration": 51,
   "videos": 21,
-  "viewCount": 38,
+  "viewCount": 45,
+  "cover": "https://i0.hdslb.com/bfs/archive/03174cce9d6c5526f0be74eff5bc339a9e738c3c.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-24]5月ラスト歌枠、歌きいていってください…！🤍＼初見さんも大歓迎／[eSYbxO1qJrU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1659,7 +1737,8 @@ window.SONG_DATA.push(
   "videoDuration": 2625,
   "partDuration": 64,
   "videos": 21,
-  "viewCount": 38,
+  "viewCount": 45,
+  "cover": "https://i0.hdslb.com/bfs/archive/03174cce9d6c5526f0be74eff5bc339a9e738c3c.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-24]5月ラスト歌枠、歌きいていってください…！🤍＼初見さんも大歓迎／[eSYbxO1qJrU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1680,7 +1759,8 @@ window.SONG_DATA.push(
   "videoDuration": 2625,
   "partDuration": 39,
   "videos": 21,
-  "viewCount": 38,
+  "viewCount": 45,
+  "cover": "https://i0.hdslb.com/bfs/archive/03174cce9d6c5526f0be74eff5bc339a9e738c3c.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-24]5月ラスト歌枠、歌きいていってください…！🤍＼初見さんも大歓迎／[eSYbxO1qJrU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1701,7 +1781,8 @@ window.SONG_DATA.push(
   "videoDuration": 2625,
   "partDuration": 48,
   "videos": 21,
-  "viewCount": 38,
+  "viewCount": 45,
+  "cover": "https://i0.hdslb.com/bfs/archive/03174cce9d6c5526f0be74eff5bc339a9e738c3c.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-24]5月ラスト歌枠、歌きいていってください…！🤍＼初見さんも大歓迎／[eSYbxO1qJrU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1722,7 +1803,8 @@ window.SONG_DATA.push(
   "videoDuration": 2625,
   "partDuration": 14,
   "videos": 21,
-  "viewCount": 38,
+  "viewCount": 45,
+  "cover": "https://i0.hdslb.com/bfs/archive/03174cce9d6c5526f0be74eff5bc339a9e738c3c.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-24]5月ラスト歌枠、歌きいていってください…！🤍＼初見さんも大歓迎／[eSYbxO1qJrU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1743,7 +1825,8 @@ window.SONG_DATA.push(
   "videoDuration": 2625,
   "partDuration": 40,
   "videos": 21,
-  "viewCount": 38,
+  "viewCount": 45,
+  "cover": "https://i0.hdslb.com/bfs/archive/03174cce9d6c5526f0be74eff5bc339a9e738c3c.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-24]5月ラスト歌枠、歌きいていってください…！🤍＼初見さんも大歓迎／[eSYbxO1qJrU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1764,7 +1847,8 @@ window.SONG_DATA.push(
   "videoDuration": 2625,
   "partDuration": 96,
   "videos": 21,
-  "viewCount": 38,
+  "viewCount": 45,
+  "cover": "https://i0.hdslb.com/bfs/archive/03174cce9d6c5526f0be74eff5bc339a9e738c3c.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-24]5月ラスト歌枠、歌きいていってください…！🤍＼初見さんも大歓迎／[eSYbxO1qJrU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1785,7 +1869,8 @@ window.SONG_DATA.push(
   "videoDuration": 2625,
   "partDuration": 60,
   "videos": 21,
-  "viewCount": 38,
+  "viewCount": 45,
+  "cover": "https://i0.hdslb.com/bfs/archive/03174cce9d6c5526f0be74eff5bc339a9e738c3c.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-24]5月ラスト歌枠、歌きいていってください…！🤍＼初見さんも大歓迎／[eSYbxO1qJrU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1806,7 +1891,8 @@ window.SONG_DATA.push(
   "videoDuration": 2625,
   "partDuration": 257,
   "videos": 21,
-  "viewCount": 38,
+  "viewCount": 45,
+  "cover": "https://i0.hdslb.com/bfs/archive/03174cce9d6c5526f0be74eff5bc339a9e738c3c.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-24]5月ラスト歌枠、歌きいていってください…！🤍＼初見さんも大歓迎／[eSYbxO1qJrU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1827,7 +1913,8 @@ window.SONG_DATA.push(
   "videoDuration": 2625,
   "partDuration": 69,
   "videos": 21,
-  "viewCount": 38,
+  "viewCount": 45,
+  "cover": "https://i0.hdslb.com/bfs/archive/03174cce9d6c5526f0be74eff5bc339a9e738c3c.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-24]5月ラスト歌枠、歌きいていってください…！🤍＼初見さんも大歓迎／[eSYbxO1qJrU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1848,7 +1935,8 @@ window.SONG_DATA.push(
   "videoDuration": 2625,
   "partDuration": 88,
   "videos": 21,
-  "viewCount": 38,
+  "viewCount": 45,
+  "cover": "https://i0.hdslb.com/bfs/archive/03174cce9d6c5526f0be74eff5bc339a9e738c3c.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-24]5月ラスト歌枠、歌きいていってください…！🤍＼初見さんも大歓迎／[eSYbxO1qJrU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1869,7 +1957,8 @@ window.SONG_DATA.push(
   "videoDuration": 2625,
   "partDuration": 84,
   "videos": 21,
-  "viewCount": 38,
+  "viewCount": 45,
+  "cover": "https://i0.hdslb.com/bfs/archive/03174cce9d6c5526f0be74eff5bc339a9e738c3c.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-24]5月ラスト歌枠、歌きいていってください…！🤍＼初見さんも大歓迎／[eSYbxO1qJrU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1890,7 +1979,8 @@ window.SONG_DATA.push(
   "videoDuration": 2625,
   "partDuration": 291,
   "videos": 21,
-  "viewCount": 38,
+  "viewCount": 45,
+  "cover": "https://i0.hdslb.com/bfs/archive/03174cce9d6c5526f0be74eff5bc339a9e738c3c.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-05-24]5月ラスト歌枠、歌きいていってください…！🤍＼初見さんも大歓迎／[eSYbxO1qJrU]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1911,7 +2001,8 @@ window.SONG_DATA.push(
   "videoDuration": 291,
   "partDuration": 170,
   "videos": 2,
-  "viewCount": 51,
+  "viewCount": 55,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b960856d8d02ea9a92168fc5ce8146c443ed2d4.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-10-30]今日は歌のLIVEで歌う日ー！！緊張する！あと残り2日、、寂しい.. #21",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1932,7 +2023,8 @@ window.SONG_DATA.push(
   "videoDuration": 291,
   "partDuration": 121,
   "videos": 2,
-  "viewCount": 51,
+  "viewCount": 55,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b960856d8d02ea9a92168fc5ce8146c443ed2d4.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-10-30]今日は歌のLIVEで歌う日ー！！緊張する！あと残り2日、、寂しい.. #21",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1953,7 +2045,8 @@ window.SONG_DATA.push(
   "videoDuration": 2478,
   "partDuration": 240,
   "videos": 15,
-  "viewCount": 56,
+  "viewCount": 75,
+  "cover": "https://i0.hdslb.com/bfs/archive/a1294e53d9d3a492f8294f16282bc6494c0f77c5.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-11-20]誕生日前夜の歌、聴いてって～～～！！！🤍＼初見さんも大歓迎／",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1974,7 +2067,8 @@ window.SONG_DATA.push(
   "videoDuration": 2478,
   "partDuration": 19,
   "videos": 15,
-  "viewCount": 56,
+  "viewCount": 75,
+  "cover": "https://i0.hdslb.com/bfs/archive/a1294e53d9d3a492f8294f16282bc6494c0f77c5.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-11-20]誕生日前夜の歌、聴いてって～～～！！！🤍＼初見さんも大歓迎／",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1995,7 +2089,8 @@ window.SONG_DATA.push(
   "videoDuration": 2478,
   "partDuration": 246,
   "videos": 15,
-  "viewCount": 56,
+  "viewCount": 75,
+  "cover": "https://i0.hdslb.com/bfs/archive/a1294e53d9d3a492f8294f16282bc6494c0f77c5.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-11-20]誕生日前夜の歌、聴いてって～～～！！！🤍＼初見さんも大歓迎／",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2016,7 +2111,8 @@ window.SONG_DATA.push(
   "videoDuration": 2478,
   "partDuration": 80,
   "videos": 15,
-  "viewCount": 56,
+  "viewCount": 75,
+  "cover": "https://i0.hdslb.com/bfs/archive/a1294e53d9d3a492f8294f16282bc6494c0f77c5.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-11-20]誕生日前夜の歌、聴いてって～～～！！！🤍＼初見さんも大歓迎／",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2037,7 +2133,8 @@ window.SONG_DATA.push(
   "videoDuration": 2478,
   "partDuration": 190,
   "videos": 15,
-  "viewCount": 56,
+  "viewCount": 75,
+  "cover": "https://i0.hdslb.com/bfs/archive/a1294e53d9d3a492f8294f16282bc6494c0f77c5.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-11-20]誕生日前夜の歌、聴いてって～～～！！！🤍＼初見さんも大歓迎／",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2058,7 +2155,8 @@ window.SONG_DATA.push(
   "videoDuration": 2478,
   "partDuration": 24,
   "videos": 15,
-  "viewCount": 56,
+  "viewCount": 75,
+  "cover": "https://i0.hdslb.com/bfs/archive/a1294e53d9d3a492f8294f16282bc6494c0f77c5.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-11-20]誕生日前夜の歌、聴いてって～～～！！！🤍＼初見さんも大歓迎／",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2079,7 +2177,8 @@ window.SONG_DATA.push(
   "videoDuration": 2478,
   "partDuration": 272,
   "videos": 15,
-  "viewCount": 56,
+  "viewCount": 75,
+  "cover": "https://i0.hdslb.com/bfs/archive/a1294e53d9d3a492f8294f16282bc6494c0f77c5.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-11-20]誕生日前夜の歌、聴いてって～～～！！！🤍＼初見さんも大歓迎／",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2100,7 +2199,8 @@ window.SONG_DATA.push(
   "videoDuration": 2478,
   "partDuration": 97,
   "videos": 15,
-  "viewCount": 56,
+  "viewCount": 75,
+  "cover": "https://i0.hdslb.com/bfs/archive/a1294e53d9d3a492f8294f16282bc6494c0f77c5.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-11-20]誕生日前夜の歌、聴いてって～～～！！！🤍＼初見さんも大歓迎／",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2121,7 +2221,8 @@ window.SONG_DATA.push(
   "videoDuration": 2478,
   "partDuration": 271,
   "videos": 15,
-  "viewCount": 56,
+  "viewCount": 75,
+  "cover": "https://i0.hdslb.com/bfs/archive/a1294e53d9d3a492f8294f16282bc6494c0f77c5.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-11-20]誕生日前夜の歌、聴いてって～～～！！！🤍＼初見さんも大歓迎／",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2142,7 +2243,8 @@ window.SONG_DATA.push(
   "videoDuration": 2478,
   "partDuration": 284,
   "videos": 15,
-  "viewCount": 56,
+  "viewCount": 75,
+  "cover": "https://i0.hdslb.com/bfs/archive/a1294e53d9d3a492f8294f16282bc6494c0f77c5.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-11-20]誕生日前夜の歌、聴いてって～～～！！！🤍＼初見さんも大歓迎／",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2163,7 +2265,8 @@ window.SONG_DATA.push(
   "videoDuration": 2478,
   "partDuration": 91,
   "videos": 15,
-  "viewCount": 56,
+  "viewCount": 75,
+  "cover": "https://i0.hdslb.com/bfs/archive/a1294e53d9d3a492f8294f16282bc6494c0f77c5.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-11-20]誕生日前夜の歌、聴いてって～～～！！！🤍＼初見さんも大歓迎／",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2184,7 +2287,8 @@ window.SONG_DATA.push(
   "videoDuration": 2478,
   "partDuration": 67,
   "videos": 15,
-  "viewCount": 56,
+  "viewCount": 75,
+  "cover": "https://i0.hdslb.com/bfs/archive/a1294e53d9d3a492f8294f16282bc6494c0f77c5.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-11-20]誕生日前夜の歌、聴いてって～～～！！！🤍＼初見さんも大歓迎／",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2205,7 +2309,8 @@ window.SONG_DATA.push(
   "videoDuration": 2478,
   "partDuration": 50,
   "videos": 15,
-  "viewCount": 56,
+  "viewCount": 75,
+  "cover": "https://i0.hdslb.com/bfs/archive/a1294e53d9d3a492f8294f16282bc6494c0f77c5.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-11-20]誕生日前夜の歌、聴いてって～～～！！！🤍＼初見さんも大歓迎／",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2226,7 +2331,8 @@ window.SONG_DATA.push(
   "videoDuration": 2478,
   "partDuration": 290,
   "videos": 15,
-  "viewCount": 56,
+  "viewCount": 75,
+  "cover": "https://i0.hdslb.com/bfs/archive/a1294e53d9d3a492f8294f16282bc6494c0f77c5.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-11-20]誕生日前夜の歌、聴いてって～～～！！！🤍＼初見さんも大歓迎／",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2247,7 +2353,8 @@ window.SONG_DATA.push(
   "videoDuration": 2478,
   "partDuration": 257,
   "videos": 15,
-  "viewCount": 56,
+  "viewCount": 75,
+  "cover": "https://i0.hdslb.com/bfs/archive/a1294e53d9d3a492f8294f16282bc6494c0f77c5.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2025-11-20]誕生日前夜の歌、聴いてって～～～！！！🤍＼初見さんも大歓迎／",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2268,7 +2375,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 360,
   "videos": 29,
-  "viewCount": 134,
+  "viewCount": 154,
+  "cover": "https://i1.hdslb.com/bfs/archive/e55162b5b0638f0678aa89e5e90308dc0879f867.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2026-01-18]新年初、歌います！！！挑戦曲あり！[9IQXktPcmdg]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2289,7 +2397,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 211,
   "videos": 29,
-  "viewCount": 134,
+  "viewCount": 154,
+  "cover": "https://i1.hdslb.com/bfs/archive/e55162b5b0638f0678aa89e5e90308dc0879f867.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2026-01-18]新年初、歌います！！！挑戦曲あり！[9IQXktPcmdg]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2310,7 +2419,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 136,
   "videos": 29,
-  "viewCount": 134,
+  "viewCount": 154,
+  "cover": "https://i1.hdslb.com/bfs/archive/e55162b5b0638f0678aa89e5e90308dc0879f867.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2026-01-18]新年初、歌います！！！挑戦曲あり！[9IQXktPcmdg]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2331,7 +2441,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 196,
   "videos": 29,
-  "viewCount": 134,
+  "viewCount": 154,
+  "cover": "https://i1.hdslb.com/bfs/archive/e55162b5b0638f0678aa89e5e90308dc0879f867.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2026-01-18]新年初、歌います！！！挑戦曲あり！[9IQXktPcmdg]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2352,7 +2463,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 180,
   "videos": 29,
-  "viewCount": 134,
+  "viewCount": 154,
+  "cover": "https://i1.hdslb.com/bfs/archive/e55162b5b0638f0678aa89e5e90308dc0879f867.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2026-01-18]新年初、歌います！！！挑戦曲あり！[9IQXktPcmdg]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2373,7 +2485,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 247,
   "videos": 29,
-  "viewCount": 134,
+  "viewCount": 154,
+  "cover": "https://i1.hdslb.com/bfs/archive/e55162b5b0638f0678aa89e5e90308dc0879f867.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2026-01-18]新年初、歌います！！！挑戦曲あり！[9IQXktPcmdg]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2394,7 +2507,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 32,
   "videos": 29,
-  "viewCount": 134,
+  "viewCount": 154,
+  "cover": "https://i1.hdslb.com/bfs/archive/e55162b5b0638f0678aa89e5e90308dc0879f867.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2026-01-18]新年初、歌います！！！挑戦曲あり！[9IQXktPcmdg]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2415,7 +2529,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 3,
   "videos": 29,
-  "viewCount": 134,
+  "viewCount": 154,
+  "cover": "https://i1.hdslb.com/bfs/archive/e55162b5b0638f0678aa89e5e90308dc0879f867.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2026-01-18]新年初、歌います！！！挑戦曲あり！[9IQXktPcmdg]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2436,7 +2551,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 135,
   "videos": 29,
-  "viewCount": 134,
+  "viewCount": 154,
+  "cover": "https://i1.hdslb.com/bfs/archive/e55162b5b0638f0678aa89e5e90308dc0879f867.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2026-01-18]新年初、歌います！！！挑戦曲あり！[9IQXktPcmdg]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2457,7 +2573,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 237,
   "videos": 29,
-  "viewCount": 134,
+  "viewCount": 154,
+  "cover": "https://i1.hdslb.com/bfs/archive/e55162b5b0638f0678aa89e5e90308dc0879f867.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2026-01-18]新年初、歌います！！！挑戦曲あり！[9IQXktPcmdg]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2478,7 +2595,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 148,
   "videos": 29,
-  "viewCount": 134,
+  "viewCount": 154,
+  "cover": "https://i1.hdslb.com/bfs/archive/e55162b5b0638f0678aa89e5e90308dc0879f867.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2026-01-18]新年初、歌います！！！挑戦曲あり！[9IQXktPcmdg]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2499,7 +2617,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 34,
   "videos": 29,
-  "viewCount": 134,
+  "viewCount": 154,
+  "cover": "https://i1.hdslb.com/bfs/archive/e55162b5b0638f0678aa89e5e90308dc0879f867.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2026-01-18]新年初、歌います！！！挑戦曲あり！[9IQXktPcmdg]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2520,7 +2639,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 266,
   "videos": 29,
-  "viewCount": 134,
+  "viewCount": 154,
+  "cover": "https://i1.hdslb.com/bfs/archive/e55162b5b0638f0678aa89e5e90308dc0879f867.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2026-01-18]新年初、歌います！！！挑戦曲あり！[9IQXktPcmdg]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2541,7 +2661,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 229,
   "videos": 29,
-  "viewCount": 134,
+  "viewCount": 154,
+  "cover": "https://i1.hdslb.com/bfs/archive/e55162b5b0638f0678aa89e5e90308dc0879f867.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2026-01-18]新年初、歌います！！！挑戦曲あり！[9IQXktPcmdg]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2562,7 +2683,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 88,
   "videos": 29,
-  "viewCount": 134,
+  "viewCount": 154,
+  "cover": "https://i1.hdslb.com/bfs/archive/e55162b5b0638f0678aa89e5e90308dc0879f867.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2026-01-18]新年初、歌います！！！挑戦曲あり！[9IQXktPcmdg]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2583,7 +2705,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 290,
   "videos": 29,
-  "viewCount": 134,
+  "viewCount": 154,
+  "cover": "https://i1.hdslb.com/bfs/archive/e55162b5b0638f0678aa89e5e90308dc0879f867.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2026-01-18]新年初、歌います！！！挑戦曲あり！[9IQXktPcmdg]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2604,7 +2727,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 257,
   "videos": 29,
-  "viewCount": 134,
+  "viewCount": 154,
+  "cover": "https://i1.hdslb.com/bfs/archive/e55162b5b0638f0678aa89e5e90308dc0879f867.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2026-01-18]新年初、歌います！！！挑戦曲あり！[9IQXktPcmdg]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2625,7 +2749,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 118,
   "videos": 29,
-  "viewCount": 134,
+  "viewCount": 154,
+  "cover": "https://i1.hdslb.com/bfs/archive/e55162b5b0638f0678aa89e5e90308dc0879f867.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2026-01-18]新年初、歌います！！！挑戦曲あり！[9IQXktPcmdg]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2646,7 +2771,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 90,
   "videos": 29,
-  "viewCount": 134,
+  "viewCount": 154,
+  "cover": "https://i1.hdslb.com/bfs/archive/e55162b5b0638f0678aa89e5e90308dc0879f867.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2026-01-18]新年初、歌います！！！挑戦曲あり！[9IQXktPcmdg]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2667,7 +2793,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 221,
   "videos": 29,
-  "viewCount": 134,
+  "viewCount": 154,
+  "cover": "https://i1.hdslb.com/bfs/archive/e55162b5b0638f0678aa89e5e90308dc0879f867.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2026-01-18]新年初、歌います！！！挑戦曲あり！[9IQXktPcmdg]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2688,7 +2815,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 40,
   "videos": 29,
-  "viewCount": 134,
+  "viewCount": 154,
+  "cover": "https://i1.hdslb.com/bfs/archive/e55162b5b0638f0678aa89e5e90308dc0879f867.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2026-01-18]新年初、歌います！！！挑戦曲あり！[9IQXktPcmdg]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2709,7 +2837,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 190,
   "videos": 29,
-  "viewCount": 134,
+  "viewCount": 154,
+  "cover": "https://i1.hdslb.com/bfs/archive/e55162b5b0638f0678aa89e5e90308dc0879f867.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2026-01-18]新年初、歌います！！！挑戦曲あり！[9IQXktPcmdg]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2730,7 +2859,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 92,
   "videos": 29,
-  "viewCount": 134,
+  "viewCount": 154,
+  "cover": "https://i1.hdslb.com/bfs/archive/e55162b5b0638f0678aa89e5e90308dc0879f867.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2026-01-18]新年初、歌います！！！挑戦曲あり！[9IQXktPcmdg]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2751,7 +2881,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 189,
   "videos": 29,
-  "viewCount": 134,
+  "viewCount": 154,
+  "cover": "https://i1.hdslb.com/bfs/archive/e55162b5b0638f0678aa89e5e90308dc0879f867.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2026-01-18]新年初、歌います！！！挑戦曲あり！[9IQXktPcmdg]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2772,7 +2903,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 107,
   "videos": 29,
-  "viewCount": 134,
+  "viewCount": 154,
+  "cover": "https://i1.hdslb.com/bfs/archive/e55162b5b0638f0678aa89e5e90308dc0879f867.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2026-01-18]新年初、歌います！！！挑戦曲あり！[9IQXktPcmdg]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2793,7 +2925,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 82,
   "videos": 29,
-  "viewCount": 134,
+  "viewCount": 154,
+  "cover": "https://i1.hdslb.com/bfs/archive/e55162b5b0638f0678aa89e5e90308dc0879f867.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2026-01-18]新年初、歌います！！！挑戦曲あり！[9IQXktPcmdg]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2814,7 +2947,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 177,
   "videos": 29,
-  "viewCount": 134,
+  "viewCount": 154,
+  "cover": "https://i1.hdslb.com/bfs/archive/e55162b5b0638f0678aa89e5e90308dc0879f867.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2026-01-18]新年初、歌います！！！挑戦曲あり！[9IQXktPcmdg]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2835,7 +2969,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 124,
   "videos": 29,
-  "viewCount": 134,
+  "viewCount": 154,
+  "cover": "https://i1.hdslb.com/bfs/archive/e55162b5b0638f0678aa89e5e90308dc0879f867.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2026-01-18]新年初、歌います！！！挑戦曲あり！[9IQXktPcmdg]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2856,7 +2991,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 71,
   "videos": 29,
-  "viewCount": 134,
+  "viewCount": 154,
+  "cover": "https://i1.hdslb.com/bfs/archive/e55162b5b0638f0678aa89e5e90308dc0879f867.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 歌切】[2026-01-18]新年初、歌います！！！挑戦曲あり！[9IQXktPcmdg]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2877,7 +3013,8 @@ window.SONG_DATA.push(
   "videoDuration": 2300,
   "partDuration": 242,
   "videos": 10,
-  "viewCount": 1095,
+  "viewCount": 3484,
+  "cover": "https://i2.hdslb.com/bfs/archive/e422030578d36c3912ae67624f401743183faac8.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 】歌切 情人节今日はバレンタイン！歌うよ～～！🍫🤍[2026-02-14]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2898,7 +3035,8 @@ window.SONG_DATA.push(
   "videoDuration": 2300,
   "partDuration": 241,
   "videos": 10,
-  "viewCount": 1095,
+  "viewCount": 3484,
+  "cover": "https://i2.hdslb.com/bfs/archive/e422030578d36c3912ae67624f401743183faac8.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 】歌切 情人节今日はバレンタイン！歌うよ～～！🍫🤍[2026-02-14]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2919,7 +3057,8 @@ window.SONG_DATA.push(
   "videoDuration": 2300,
   "partDuration": 280,
   "videos": 10,
-  "viewCount": 1095,
+  "viewCount": 3484,
+  "cover": "https://i2.hdslb.com/bfs/archive/e422030578d36c3912ae67624f401743183faac8.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 】歌切 情人节今日はバレンタイン！歌うよ～～！🍫🤍[2026-02-14]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2940,7 +3079,8 @@ window.SONG_DATA.push(
   "videoDuration": 2300,
   "partDuration": 249,
   "videos": 10,
-  "viewCount": 1095,
+  "viewCount": 3484,
+  "cover": "https://i2.hdslb.com/bfs/archive/e422030578d36c3912ae67624f401743183faac8.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 】歌切 情人节今日はバレンタイン！歌うよ～～！🍫🤍[2026-02-14]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2961,7 +3101,8 @@ window.SONG_DATA.push(
   "videoDuration": 2300,
   "partDuration": 242,
   "videos": 10,
-  "viewCount": 1095,
+  "viewCount": 3484,
+  "cover": "https://i2.hdslb.com/bfs/archive/e422030578d36c3912ae67624f401743183faac8.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 】歌切 情人节今日はバレンタイン！歌うよ～～！🍫🤍[2026-02-14]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2982,7 +3123,8 @@ window.SONG_DATA.push(
   "videoDuration": 2300,
   "partDuration": 320,
   "videos": 10,
-  "viewCount": 1095,
+  "viewCount": 3484,
+  "cover": "https://i2.hdslb.com/bfs/archive/e422030578d36c3912ae67624f401743183faac8.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 】歌切 情人节今日はバレンタイン！歌うよ～～！🍫🤍[2026-02-14]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3003,7 +3145,8 @@ window.SONG_DATA.push(
   "videoDuration": 2300,
   "partDuration": 160,
   "videos": 10,
-  "viewCount": 1095,
+  "viewCount": 3484,
+  "cover": "https://i2.hdslb.com/bfs/archive/e422030578d36c3912ae67624f401743183faac8.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 】歌切 情人节今日はバレンタイン！歌うよ～～！🍫🤍[2026-02-14]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3024,7 +3167,8 @@ window.SONG_DATA.push(
   "videoDuration": 2300,
   "partDuration": 190,
   "videos": 10,
-  "viewCount": 1095,
+  "viewCount": 3484,
+  "cover": "https://i2.hdslb.com/bfs/archive/e422030578d36c3912ae67624f401743183faac8.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 】歌切 情人节今日はバレンタイン！歌うよ～～！🍫🤍[2026-02-14]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3045,7 +3189,8 @@ window.SONG_DATA.push(
   "videoDuration": 2300,
   "partDuration": 180,
   "videos": 10,
-  "viewCount": 1095,
+  "viewCount": 3484,
+  "cover": "https://i2.hdslb.com/bfs/archive/e422030578d36c3912ae67624f401743183faac8.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 】歌切 情人节今日はバレンタイン！歌うよ～～！🍫🤍[2026-02-14]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3066,7 +3211,8 @@ window.SONG_DATA.push(
   "videoDuration": 2300,
   "partDuration": 196,
   "videos": 10,
-  "viewCount": 1095,
+  "viewCount": 3484,
+  "cover": "https://i2.hdslb.com/bfs/archive/e422030578d36c3912ae67624f401743183faac8.jpg@160w_90h_1c.webp",
   "videoTitle": "【酢酸 / SAKUSAN 】歌切 情人节今日はバレンタイン！歌うよ～～！🍫🤍[2026-02-14]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367

@@ -1,6 +1,6 @@
 // nayuta - 歌单数据 (多合集汇总)
 // 来源: BV1GXYFzXETo, BV1MPpUzsE1D, BV184W5zeE1Z
-// 生成时间: 2026/4/14 09:00:28
+// 生成时间: 2026/5/24 23:47:02
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -21,7 +21,8 @@ window.SONG_DATA.push(
   "videoDuration": 3028,
   "partDuration": 320,
   "videos": 12,
-  "viewCount": 2196,
+  "viewCount": 4661,
+  "cover": "https://i2.hdslb.com/bfs/archive/3d9b0bb0fed4582ab7944a6baa0322cda0fa82ac.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限1/21】声乐和钢琴的现场演奏会 vol.01 【2021年7月18日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -42,7 +43,8 @@ window.SONG_DATA.push(
   "videoDuration": 3028,
   "partDuration": 336,
   "videos": 12,
-  "viewCount": 2196,
+  "viewCount": 4661,
+  "cover": "https://i2.hdslb.com/bfs/archive/3d9b0bb0fed4582ab7944a6baa0322cda0fa82ac.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限1/21】声乐和钢琴的现场演奏会 vol.01 【2021年7月18日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -63,7 +65,8 @@ window.SONG_DATA.push(
   "videoDuration": 3028,
   "partDuration": 277,
   "videos": 12,
-  "viewCount": 2196,
+  "viewCount": 4661,
+  "cover": "https://i2.hdslb.com/bfs/archive/3d9b0bb0fed4582ab7944a6baa0322cda0fa82ac.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限1/21】声乐和钢琴的现场演奏会 vol.01 【2021年7月18日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -84,7 +87,8 @@ window.SONG_DATA.push(
   "videoDuration": 3028,
   "partDuration": 279,
   "videos": 12,
-  "viewCount": 2196,
+  "viewCount": 4661,
+  "cover": "https://i2.hdslb.com/bfs/archive/3d9b0bb0fed4582ab7944a6baa0322cda0fa82ac.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限1/21】声乐和钢琴的现场演奏会 vol.01 【2021年7月18日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -105,7 +109,8 @@ window.SONG_DATA.push(
   "videoDuration": 3028,
   "partDuration": 342,
   "videos": 12,
-  "viewCount": 2196,
+  "viewCount": 4661,
+  "cover": "https://i2.hdslb.com/bfs/archive/3d9b0bb0fed4582ab7944a6baa0322cda0fa82ac.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限1/21】声乐和钢琴的现场演奏会 vol.01 【2021年7月18日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -126,7 +131,8 @@ window.SONG_DATA.push(
   "videoDuration": 3028,
   "partDuration": 285,
   "videos": 12,
-  "viewCount": 2196,
+  "viewCount": 4661,
+  "cover": "https://i2.hdslb.com/bfs/archive/3d9b0bb0fed4582ab7944a6baa0322cda0fa82ac.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限1/21】声乐和钢琴的现场演奏会 vol.01 【2021年7月18日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -147,7 +153,8 @@ window.SONG_DATA.push(
   "videoDuration": 3028,
   "partDuration": 274,
   "videos": 12,
-  "viewCount": 2196,
+  "viewCount": 4661,
+  "cover": "https://i2.hdslb.com/bfs/archive/3d9b0bb0fed4582ab7944a6baa0322cda0fa82ac.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限1/21】声乐和钢琴的现场演奏会 vol.01 【2021年7月18日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -168,7 +175,8 @@ window.SONG_DATA.push(
   "videoDuration": 3028,
   "partDuration": 266,
   "videos": 12,
-  "viewCount": 2196,
+  "viewCount": 4661,
+  "cover": "https://i2.hdslb.com/bfs/archive/3d9b0bb0fed4582ab7944a6baa0322cda0fa82ac.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限1/21】声乐和钢琴的现场演奏会 vol.01 【2021年7月18日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -189,7 +197,8 @@ window.SONG_DATA.push(
   "videoDuration": 3028,
   "partDuration": 228,
   "videos": 12,
-  "viewCount": 2196,
+  "viewCount": 4661,
+  "cover": "https://i2.hdslb.com/bfs/archive/3d9b0bb0fed4582ab7944a6baa0322cda0fa82ac.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限1/21】声乐和钢琴的现场演奏会 vol.01 【2021年7月18日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -210,7 +219,8 @@ window.SONG_DATA.push(
   "videoDuration": 3028,
   "partDuration": 223,
   "videos": 12,
-  "viewCount": 2196,
+  "viewCount": 4661,
+  "cover": "https://i2.hdslb.com/bfs/archive/3d9b0bb0fed4582ab7944a6baa0322cda0fa82ac.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限1/21】声乐和钢琴的现场演奏会 vol.01 【2021年7月18日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -231,7 +241,8 @@ window.SONG_DATA.push(
   "videoDuration": 3028,
   "partDuration": 90,
   "videos": 12,
-  "viewCount": 2196,
+  "viewCount": 4661,
+  "cover": "https://i2.hdslb.com/bfs/archive/3d9b0bb0fed4582ab7944a6baa0322cda0fa82ac.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限1/21】声乐和钢琴的现场演奏会 vol.01 【2021年7月18日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -252,7 +263,8 @@ window.SONG_DATA.push(
   "videoDuration": 3028,
   "partDuration": 108,
   "videos": 12,
-  "viewCount": 2196,
+  "viewCount": 4661,
+  "cover": "https://i2.hdslb.com/bfs/archive/3d9b0bb0fed4582ab7944a6baa0322cda0fa82ac.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限1/21】声乐和钢琴的现场演奏会 vol.01 【2021年7月18日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -273,7 +285,8 @@ window.SONG_DATA.push(
   "videoDuration": 3203,
   "partDuration": 275,
   "videos": 11,
-  "viewCount": 527,
+  "viewCount": 556,
+  "cover": "https://i2.hdslb.com/bfs/archive/96feeeb3dbfb7d9e489b75adc0ead04d8f79cece.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限2/21】声乐和钢琴的现场演奏会 vol.02  【2021年8月15日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -294,7 +307,8 @@ window.SONG_DATA.push(
   "videoDuration": 3203,
   "partDuration": 321,
   "videos": 11,
-  "viewCount": 527,
+  "viewCount": 556,
+  "cover": "https://i2.hdslb.com/bfs/archive/96feeeb3dbfb7d9e489b75adc0ead04d8f79cece.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限2/21】声乐和钢琴的现场演奏会 vol.02  【2021年8月15日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -315,7 +329,8 @@ window.SONG_DATA.push(
   "videoDuration": 3203,
   "partDuration": 260,
   "videos": 11,
-  "viewCount": 527,
+  "viewCount": 556,
+  "cover": "https://i2.hdslb.com/bfs/archive/96feeeb3dbfb7d9e489b75adc0ead04d8f79cece.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限2/21】声乐和钢琴的现场演奏会 vol.02  【2021年8月15日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -336,7 +351,8 @@ window.SONG_DATA.push(
   "videoDuration": 3203,
   "partDuration": 307,
   "videos": 11,
-  "viewCount": 527,
+  "viewCount": 556,
+  "cover": "https://i2.hdslb.com/bfs/archive/96feeeb3dbfb7d9e489b75adc0ead04d8f79cece.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限2/21】声乐和钢琴的现场演奏会 vol.02  【2021年8月15日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -357,7 +373,8 @@ window.SONG_DATA.push(
   "videoDuration": 3203,
   "partDuration": 321,
   "videos": 11,
-  "viewCount": 527,
+  "viewCount": 556,
+  "cover": "https://i2.hdslb.com/bfs/archive/96feeeb3dbfb7d9e489b75adc0ead04d8f79cece.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限2/21】声乐和钢琴的现场演奏会 vol.02  【2021年8月15日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -378,7 +395,8 @@ window.SONG_DATA.push(
   "videoDuration": 3203,
   "partDuration": 295,
   "videos": 11,
-  "viewCount": 527,
+  "viewCount": 556,
+  "cover": "https://i2.hdslb.com/bfs/archive/96feeeb3dbfb7d9e489b75adc0ead04d8f79cece.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限2/21】声乐和钢琴的现场演奏会 vol.02  【2021年8月15日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -399,7 +417,8 @@ window.SONG_DATA.push(
   "videoDuration": 3203,
   "partDuration": 272,
   "videos": 11,
-  "viewCount": 527,
+  "viewCount": 556,
+  "cover": "https://i2.hdslb.com/bfs/archive/96feeeb3dbfb7d9e489b75adc0ead04d8f79cece.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限2/21】声乐和钢琴的现场演奏会 vol.02  【2021年8月15日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -420,7 +439,8 @@ window.SONG_DATA.push(
   "videoDuration": 3203,
   "partDuration": 261,
   "videos": 11,
-  "viewCount": 527,
+  "viewCount": 556,
+  "cover": "https://i2.hdslb.com/bfs/archive/96feeeb3dbfb7d9e489b75adc0ead04d8f79cece.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限2/21】声乐和钢琴的现场演奏会 vol.02  【2021年8月15日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -441,7 +461,8 @@ window.SONG_DATA.push(
   "videoDuration": 3203,
   "partDuration": 248,
   "videos": 11,
-  "viewCount": 527,
+  "viewCount": 556,
+  "cover": "https://i2.hdslb.com/bfs/archive/96feeeb3dbfb7d9e489b75adc0ead04d8f79cece.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限2/21】声乐和钢琴的现场演奏会 vol.02  【2021年8月15日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -462,7 +483,8 @@ window.SONG_DATA.push(
   "videoDuration": 3203,
   "partDuration": 323,
   "videos": 11,
-  "viewCount": 527,
+  "viewCount": 556,
+  "cover": "https://i2.hdslb.com/bfs/archive/96feeeb3dbfb7d9e489b75adc0ead04d8f79cece.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限2/21】声乐和钢琴的现场演奏会 vol.02  【2021年8月15日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -483,7 +505,8 @@ window.SONG_DATA.push(
   "videoDuration": 3203,
   "partDuration": 320,
   "videos": 11,
-  "viewCount": 527,
+  "viewCount": 556,
+  "cover": "https://i2.hdslb.com/bfs/archive/96feeeb3dbfb7d9e489b75adc0ead04d8f79cece.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限2/21】声乐和钢琴的现场演奏会 vol.02  【2021年8月15日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -504,7 +527,8 @@ window.SONG_DATA.push(
   "videoDuration": 3234,
   "partDuration": 264,
   "videos": 12,
-  "viewCount": 659,
+  "viewCount": 680,
+  "cover": "https://i1.hdslb.com/bfs/archive/a69600d5bbca5689346505d8c8be5b8bab06788d.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限3/21】声乐和钢琴的现场演奏会 vol.03  【2021年10月10日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -525,7 +549,8 @@ window.SONG_DATA.push(
   "videoDuration": 3234,
   "partDuration": 347,
   "videos": 12,
-  "viewCount": 659,
+  "viewCount": 680,
+  "cover": "https://i1.hdslb.com/bfs/archive/a69600d5bbca5689346505d8c8be5b8bab06788d.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限3/21】声乐和钢琴的现场演奏会 vol.03  【2021年10月10日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -546,7 +571,8 @@ window.SONG_DATA.push(
   "videoDuration": 3234,
   "partDuration": 248,
   "videos": 12,
-  "viewCount": 659,
+  "viewCount": 680,
+  "cover": "https://i1.hdslb.com/bfs/archive/a69600d5bbca5689346505d8c8be5b8bab06788d.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限3/21】声乐和钢琴的现场演奏会 vol.03  【2021年10月10日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -567,7 +593,8 @@ window.SONG_DATA.push(
   "videoDuration": 3234,
   "partDuration": 238,
   "videos": 12,
-  "viewCount": 659,
+  "viewCount": 680,
+  "cover": "https://i1.hdslb.com/bfs/archive/a69600d5bbca5689346505d8c8be5b8bab06788d.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限3/21】声乐和钢琴的现场演奏会 vol.03  【2021年10月10日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -588,7 +615,8 @@ window.SONG_DATA.push(
   "videoDuration": 3234,
   "partDuration": 273,
   "videos": 12,
-  "viewCount": 659,
+  "viewCount": 680,
+  "cover": "https://i1.hdslb.com/bfs/archive/a69600d5bbca5689346505d8c8be5b8bab06788d.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限3/21】声乐和钢琴的现场演奏会 vol.03  【2021年10月10日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -609,7 +637,8 @@ window.SONG_DATA.push(
   "videoDuration": 3234,
   "partDuration": 251,
   "videos": 12,
-  "viewCount": 659,
+  "viewCount": 680,
+  "cover": "https://i1.hdslb.com/bfs/archive/a69600d5bbca5689346505d8c8be5b8bab06788d.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限3/21】声乐和钢琴的现场演奏会 vol.03  【2021年10月10日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -630,7 +659,8 @@ window.SONG_DATA.push(
   "videoDuration": 3234,
   "partDuration": 212,
   "videos": 12,
-  "viewCount": 659,
+  "viewCount": 680,
+  "cover": "https://i1.hdslb.com/bfs/archive/a69600d5bbca5689346505d8c8be5b8bab06788d.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限3/21】声乐和钢琴的现场演奏会 vol.03  【2021年10月10日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -651,7 +681,8 @@ window.SONG_DATA.push(
   "videoDuration": 3234,
   "partDuration": 251,
   "videos": 12,
-  "viewCount": 659,
+  "viewCount": 680,
+  "cover": "https://i1.hdslb.com/bfs/archive/a69600d5bbca5689346505d8c8be5b8bab06788d.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限3/21】声乐和钢琴的现场演奏会 vol.03  【2021年10月10日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -672,7 +703,8 @@ window.SONG_DATA.push(
   "videoDuration": 3234,
   "partDuration": 309,
   "videos": 12,
-  "viewCount": 659,
+  "viewCount": 680,
+  "cover": "https://i1.hdslb.com/bfs/archive/a69600d5bbca5689346505d8c8be5b8bab06788d.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限3/21】声乐和钢琴的现场演奏会 vol.03  【2021年10月10日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -693,7 +725,8 @@ window.SONG_DATA.push(
   "videoDuration": 3234,
   "partDuration": 257,
   "videos": 12,
-  "viewCount": 659,
+  "viewCount": 680,
+  "cover": "https://i1.hdslb.com/bfs/archive/a69600d5bbca5689346505d8c8be5b8bab06788d.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限3/21】声乐和钢琴的现场演奏会 vol.03  【2021年10月10日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -714,7 +747,8 @@ window.SONG_DATA.push(
   "videoDuration": 3234,
   "partDuration": 264,
   "videos": 12,
-  "viewCount": 659,
+  "viewCount": 680,
+  "cover": "https://i1.hdslb.com/bfs/archive/a69600d5bbca5689346505d8c8be5b8bab06788d.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限3/21】声乐和钢琴的现场演奏会 vol.03  【2021年10月10日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -735,7 +769,8 @@ window.SONG_DATA.push(
   "videoDuration": 3234,
   "partDuration": 320,
   "videos": 12,
-  "viewCount": 659,
+  "viewCount": 680,
+  "cover": "https://i1.hdslb.com/bfs/archive/a69600d5bbca5689346505d8c8be5b8bab06788d.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限3/21】声乐和钢琴的现场演奏会 vol.03  【2021年10月10日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -756,7 +791,8 @@ window.SONG_DATA.push(
   "videoDuration": 3795,
   "partDuration": 276,
   "videos": 13,
-  "viewCount": 593,
+  "viewCount": 623,
+  "cover": "https://i0.hdslb.com/bfs/archive/622afb1b94ac3251f29e4bcc032bdfb7f0ee3dca.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -777,7 +813,8 @@ window.SONG_DATA.push(
   "videoDuration": 3795,
   "partDuration": 325,
   "videos": 13,
-  "viewCount": 593,
+  "viewCount": 623,
+  "cover": "https://i0.hdslb.com/bfs/archive/622afb1b94ac3251f29e4bcc032bdfb7f0ee3dca.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -798,7 +835,8 @@ window.SONG_DATA.push(
   "videoDuration": 3795,
   "partDuration": 304,
   "videos": 13,
-  "viewCount": 593,
+  "viewCount": 623,
+  "cover": "https://i0.hdslb.com/bfs/archive/622afb1b94ac3251f29e4bcc032bdfb7f0ee3dca.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -819,7 +857,8 @@ window.SONG_DATA.push(
   "videoDuration": 3795,
   "partDuration": 281,
   "videos": 13,
-  "viewCount": 593,
+  "viewCount": 623,
+  "cover": "https://i0.hdslb.com/bfs/archive/622afb1b94ac3251f29e4bcc032bdfb7f0ee3dca.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -840,7 +879,8 @@ window.SONG_DATA.push(
   "videoDuration": 3795,
   "partDuration": 296,
   "videos": 13,
-  "viewCount": 593,
+  "viewCount": 623,
+  "cover": "https://i0.hdslb.com/bfs/archive/622afb1b94ac3251f29e4bcc032bdfb7f0ee3dca.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -861,7 +901,8 @@ window.SONG_DATA.push(
   "videoDuration": 3795,
   "partDuration": 281,
   "videos": 13,
-  "viewCount": 593,
+  "viewCount": 623,
+  "cover": "https://i0.hdslb.com/bfs/archive/622afb1b94ac3251f29e4bcc032bdfb7f0ee3dca.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -882,7 +923,8 @@ window.SONG_DATA.push(
   "videoDuration": 3795,
   "partDuration": 333,
   "videos": 13,
-  "viewCount": 593,
+  "viewCount": 623,
+  "cover": "https://i0.hdslb.com/bfs/archive/622afb1b94ac3251f29e4bcc032bdfb7f0ee3dca.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -903,7 +945,8 @@ window.SONG_DATA.push(
   "videoDuration": 3795,
   "partDuration": 292,
   "videos": 13,
-  "viewCount": 593,
+  "viewCount": 623,
+  "cover": "https://i0.hdslb.com/bfs/archive/622afb1b94ac3251f29e4bcc032bdfb7f0ee3dca.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -924,7 +967,8 @@ window.SONG_DATA.push(
   "videoDuration": 3795,
   "partDuration": 266,
   "videos": 13,
-  "viewCount": 593,
+  "viewCount": 623,
+  "cover": "https://i0.hdslb.com/bfs/archive/622afb1b94ac3251f29e4bcc032bdfb7f0ee3dca.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -945,7 +989,8 @@ window.SONG_DATA.push(
   "videoDuration": 3795,
   "partDuration": 357,
   "videos": 13,
-  "viewCount": 593,
+  "viewCount": 623,
+  "cover": "https://i0.hdslb.com/bfs/archive/622afb1b94ac3251f29e4bcc032bdfb7f0ee3dca.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -966,7 +1011,8 @@ window.SONG_DATA.push(
   "videoDuration": 3795,
   "partDuration": 374,
   "videos": 13,
-  "viewCount": 593,
+  "viewCount": 623,
+  "cover": "https://i0.hdslb.com/bfs/archive/622afb1b94ac3251f29e4bcc032bdfb7f0ee3dca.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -987,7 +1033,8 @@ window.SONG_DATA.push(
   "videoDuration": 3795,
   "partDuration": 78,
   "videos": 13,
-  "viewCount": 593,
+  "viewCount": 623,
+  "cover": "https://i0.hdslb.com/bfs/archive/622afb1b94ac3251f29e4bcc032bdfb7f0ee3dca.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1008,7 +1055,8 @@ window.SONG_DATA.push(
   "videoDuration": 3795,
   "partDuration": 332,
   "videos": 13,
-  "viewCount": 593,
+  "viewCount": 623,
+  "cover": "https://i0.hdslb.com/bfs/archive/622afb1b94ac3251f29e4bcc032bdfb7f0ee3dca.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1029,7 +1077,8 @@ window.SONG_DATA.push(
   "videoDuration": 3458,
   "partDuration": 235,
   "videos": 17,
-  "viewCount": 379,
+  "viewCount": 395,
+  "cover": "https://i1.hdslb.com/bfs/archive/619acd497914e79a08c52e00229681e5645850c6.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 2 PIANO 2021年11月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1050,7 +1099,8 @@ window.SONG_DATA.push(
   "videoDuration": 3458,
   "partDuration": 264,
   "videos": 17,
-  "viewCount": 379,
+  "viewCount": 395,
+  "cover": "https://i1.hdslb.com/bfs/archive/619acd497914e79a08c52e00229681e5645850c6.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 2 PIANO 2021年11月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1071,7 +1121,8 @@ window.SONG_DATA.push(
   "videoDuration": 3458,
   "partDuration": 303,
   "videos": 17,
-  "viewCount": 379,
+  "viewCount": 395,
+  "cover": "https://i1.hdslb.com/bfs/archive/619acd497914e79a08c52e00229681e5645850c6.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 2 PIANO 2021年11月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1092,7 +1143,8 @@ window.SONG_DATA.push(
   "videoDuration": 3458,
   "partDuration": 155,
   "videos": 17,
-  "viewCount": 379,
+  "viewCount": 395,
+  "cover": "https://i1.hdslb.com/bfs/archive/619acd497914e79a08c52e00229681e5645850c6.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 2 PIANO 2021年11月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1113,7 +1165,8 @@ window.SONG_DATA.push(
   "videoDuration": 3458,
   "partDuration": 273,
   "videos": 17,
-  "viewCount": 379,
+  "viewCount": 395,
+  "cover": "https://i1.hdslb.com/bfs/archive/619acd497914e79a08c52e00229681e5645850c6.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 2 PIANO 2021年11月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1134,7 +1187,8 @@ window.SONG_DATA.push(
   "videoDuration": 3458,
   "partDuration": 255,
   "videos": 17,
-  "viewCount": 379,
+  "viewCount": 395,
+  "cover": "https://i1.hdslb.com/bfs/archive/619acd497914e79a08c52e00229681e5645850c6.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 2 PIANO 2021年11月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1155,7 +1209,8 @@ window.SONG_DATA.push(
   "videoDuration": 3458,
   "partDuration": 72,
   "videos": 17,
-  "viewCount": 379,
+  "viewCount": 395,
+  "cover": "https://i1.hdslb.com/bfs/archive/619acd497914e79a08c52e00229681e5645850c6.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 2 PIANO 2021年11月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1176,7 +1231,8 @@ window.SONG_DATA.push(
   "videoDuration": 3458,
   "partDuration": 90,
   "videos": 17,
-  "viewCount": 379,
+  "viewCount": 395,
+  "cover": "https://i1.hdslb.com/bfs/archive/619acd497914e79a08c52e00229681e5645850c6.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 2 PIANO 2021年11月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1197,7 +1253,8 @@ window.SONG_DATA.push(
   "videoDuration": 3458,
   "partDuration": 141,
   "videos": 17,
-  "viewCount": 379,
+  "viewCount": 395,
+  "cover": "https://i1.hdslb.com/bfs/archive/619acd497914e79a08c52e00229681e5645850c6.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 2 PIANO 2021年11月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1218,7 +1275,8 @@ window.SONG_DATA.push(
   "videoDuration": 3458,
   "partDuration": 244,
   "videos": 17,
-  "viewCount": 379,
+  "viewCount": 395,
+  "cover": "https://i1.hdslb.com/bfs/archive/619acd497914e79a08c52e00229681e5645850c6.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 2 PIANO 2021年11月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1239,7 +1297,8 @@ window.SONG_DATA.push(
   "videoDuration": 3458,
   "partDuration": 269,
   "videos": 17,
-  "viewCount": 379,
+  "viewCount": 395,
+  "cover": "https://i1.hdslb.com/bfs/archive/619acd497914e79a08c52e00229681e5645850c6.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 2 PIANO 2021年11月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1260,7 +1319,8 @@ window.SONG_DATA.push(
   "videoDuration": 3458,
   "partDuration": 317,
   "videos": 17,
-  "viewCount": 379,
+  "viewCount": 395,
+  "cover": "https://i1.hdslb.com/bfs/archive/619acd497914e79a08c52e00229681e5645850c6.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 2 PIANO 2021年11月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1281,7 +1341,8 @@ window.SONG_DATA.push(
   "videoDuration": 3458,
   "partDuration": 232,
   "videos": 17,
-  "viewCount": 379,
+  "viewCount": 395,
+  "cover": "https://i1.hdslb.com/bfs/archive/619acd497914e79a08c52e00229681e5645850c6.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 2 PIANO 2021年11月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1302,7 +1363,8 @@ window.SONG_DATA.push(
   "videoDuration": 3458,
   "partDuration": 97,
   "videos": 17,
-  "viewCount": 379,
+  "viewCount": 395,
+  "cover": "https://i1.hdslb.com/bfs/archive/619acd497914e79a08c52e00229681e5645850c6.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 2 PIANO 2021年11月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1323,7 +1385,8 @@ window.SONG_DATA.push(
   "videoDuration": 3458,
   "partDuration": 141,
   "videos": 17,
-  "viewCount": 379,
+  "viewCount": 395,
+  "cover": "https://i1.hdslb.com/bfs/archive/619acd497914e79a08c52e00229681e5645850c6.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 2 PIANO 2021年11月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1344,7 +1407,8 @@ window.SONG_DATA.push(
   "videoDuration": 3458,
   "partDuration": 109,
   "videos": 17,
-  "viewCount": 379,
+  "viewCount": 395,
+  "cover": "https://i1.hdslb.com/bfs/archive/619acd497914e79a08c52e00229681e5645850c6.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 2 PIANO 2021年11月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1365,7 +1429,8 @@ window.SONG_DATA.push(
   "videoDuration": 3458,
   "partDuration": 261,
   "videos": 17,
-  "viewCount": 379,
+  "viewCount": 395,
+  "cover": "https://i1.hdslb.com/bfs/archive/619acd497914e79a08c52e00229681e5645850c6.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 2 PIANO 2021年11月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1386,7 +1451,8 @@ window.SONG_DATA.push(
   "videoDuration": 3316,
   "partDuration": 271,
   "videos": 12,
-  "viewCount": 439,
+  "viewCount": 451,
+  "cover": "https://i0.hdslb.com/bfs/archive/eb01212bc2e3b36af8000d070cb1cf391a15c52f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限5/21】声乐和钢琴的现场演奏会 vol.05 【2022年1月9日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1407,7 +1473,8 @@ window.SONG_DATA.push(
   "videoDuration": 3316,
   "partDuration": 273,
   "videos": 12,
-  "viewCount": 439,
+  "viewCount": 451,
+  "cover": "https://i0.hdslb.com/bfs/archive/eb01212bc2e3b36af8000d070cb1cf391a15c52f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限5/21】声乐和钢琴的现场演奏会 vol.05 【2022年1月9日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1428,7 +1495,8 @@ window.SONG_DATA.push(
   "videoDuration": 3316,
   "partDuration": 307,
   "videos": 12,
-  "viewCount": 439,
+  "viewCount": 451,
+  "cover": "https://i0.hdslb.com/bfs/archive/eb01212bc2e3b36af8000d070cb1cf391a15c52f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限5/21】声乐和钢琴的现场演奏会 vol.05 【2022年1月9日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1449,7 +1517,8 @@ window.SONG_DATA.push(
   "videoDuration": 3316,
   "partDuration": 307,
   "videos": 12,
-  "viewCount": 439,
+  "viewCount": 451,
+  "cover": "https://i0.hdslb.com/bfs/archive/eb01212bc2e3b36af8000d070cb1cf391a15c52f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限5/21】声乐和钢琴的现场演奏会 vol.05 【2022年1月9日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1470,7 +1539,8 @@ window.SONG_DATA.push(
   "videoDuration": 3316,
   "partDuration": 251,
   "videos": 12,
-  "viewCount": 439,
+  "viewCount": 451,
+  "cover": "https://i0.hdslb.com/bfs/archive/eb01212bc2e3b36af8000d070cb1cf391a15c52f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限5/21】声乐和钢琴的现场演奏会 vol.05 【2022年1月9日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1491,7 +1561,8 @@ window.SONG_DATA.push(
   "videoDuration": 3316,
   "partDuration": 288,
   "videos": 12,
-  "viewCount": 439,
+  "viewCount": 451,
+  "cover": "https://i0.hdslb.com/bfs/archive/eb01212bc2e3b36af8000d070cb1cf391a15c52f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限5/21】声乐和钢琴的现场演奏会 vol.05 【2022年1月9日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1512,7 +1583,8 @@ window.SONG_DATA.push(
   "videoDuration": 3316,
   "partDuration": 260,
   "videos": 12,
-  "viewCount": 439,
+  "viewCount": 451,
+  "cover": "https://i0.hdslb.com/bfs/archive/eb01212bc2e3b36af8000d070cb1cf391a15c52f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限5/21】声乐和钢琴的现场演奏会 vol.05 【2022年1月9日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1533,7 +1605,8 @@ window.SONG_DATA.push(
   "videoDuration": 3316,
   "partDuration": 268,
   "videos": 12,
-  "viewCount": 439,
+  "viewCount": 451,
+  "cover": "https://i0.hdslb.com/bfs/archive/eb01212bc2e3b36af8000d070cb1cf391a15c52f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限5/21】声乐和钢琴的现场演奏会 vol.05 【2022年1月9日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1554,7 +1627,8 @@ window.SONG_DATA.push(
   "videoDuration": 3316,
   "partDuration": 292,
   "videos": 12,
-  "viewCount": 439,
+  "viewCount": 451,
+  "cover": "https://i0.hdslb.com/bfs/archive/eb01212bc2e3b36af8000d070cb1cf391a15c52f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限5/21】声乐和钢琴的现场演奏会 vol.05 【2022年1月9日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1575,7 +1649,8 @@ window.SONG_DATA.push(
   "videoDuration": 3316,
   "partDuration": 229,
   "videos": 12,
-  "viewCount": 439,
+  "viewCount": 451,
+  "cover": "https://i0.hdslb.com/bfs/archive/eb01212bc2e3b36af8000d070cb1cf391a15c52f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限5/21】声乐和钢琴的现场演奏会 vol.05 【2022年1月9日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1596,7 +1671,8 @@ window.SONG_DATA.push(
   "videoDuration": 3316,
   "partDuration": 302,
   "videos": 12,
-  "viewCount": 439,
+  "viewCount": 451,
+  "cover": "https://i0.hdslb.com/bfs/archive/eb01212bc2e3b36af8000d070cb1cf391a15c52f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限5/21】声乐和钢琴的现场演奏会 vol.05 【2022年1月9日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1617,7 +1693,8 @@ window.SONG_DATA.push(
   "videoDuration": 3316,
   "partDuration": 268,
   "videos": 12,
-  "viewCount": 439,
+  "viewCount": 451,
+  "cover": "https://i0.hdslb.com/bfs/archive/eb01212bc2e3b36af8000d070cb1cf391a15c52f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限5/21】声乐和钢琴的现场演奏会 vol.05 【2022年1月9日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1638,7 +1715,8 @@ window.SONG_DATA.push(
   "videoDuration": 3287,
   "partDuration": 277,
   "videos": 12,
-  "viewCount": 392,
+  "viewCount": 400,
+  "cover": "https://i1.hdslb.com/bfs/archive/12b3957d8360d2a6c45f24ab1fa0514ae28f720e.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限6/21】声乐和钢琴的现场演奏会 vol.06 【2022年2月12日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1659,7 +1737,8 @@ window.SONG_DATA.push(
   "videoDuration": 3287,
   "partDuration": 308,
   "videos": 12,
-  "viewCount": 392,
+  "viewCount": 400,
+  "cover": "https://i1.hdslb.com/bfs/archive/12b3957d8360d2a6c45f24ab1fa0514ae28f720e.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限6/21】声乐和钢琴的现场演奏会 vol.06 【2022年2月12日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1680,7 +1759,8 @@ window.SONG_DATA.push(
   "videoDuration": 3287,
   "partDuration": 213,
   "videos": 12,
-  "viewCount": 392,
+  "viewCount": 400,
+  "cover": "https://i1.hdslb.com/bfs/archive/12b3957d8360d2a6c45f24ab1fa0514ae28f720e.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限6/21】声乐和钢琴的现场演奏会 vol.06 【2022年2月12日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1701,7 +1781,8 @@ window.SONG_DATA.push(
   "videoDuration": 3287,
   "partDuration": 235,
   "videos": 12,
-  "viewCount": 392,
+  "viewCount": 400,
+  "cover": "https://i1.hdslb.com/bfs/archive/12b3957d8360d2a6c45f24ab1fa0514ae28f720e.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限6/21】声乐和钢琴的现场演奏会 vol.06 【2022年2月12日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1722,7 +1803,8 @@ window.SONG_DATA.push(
   "videoDuration": 3287,
   "partDuration": 280,
   "videos": 12,
-  "viewCount": 392,
+  "viewCount": 400,
+  "cover": "https://i1.hdslb.com/bfs/archive/12b3957d8360d2a6c45f24ab1fa0514ae28f720e.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限6/21】声乐和钢琴的现场演奏会 vol.06 【2022年2月12日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1743,7 +1825,8 @@ window.SONG_DATA.push(
   "videoDuration": 3287,
   "partDuration": 307,
   "videos": 12,
-  "viewCount": 392,
+  "viewCount": 400,
+  "cover": "https://i1.hdslb.com/bfs/archive/12b3957d8360d2a6c45f24ab1fa0514ae28f720e.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限6/21】声乐和钢琴的现场演奏会 vol.06 【2022年2月12日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1764,7 +1847,8 @@ window.SONG_DATA.push(
   "videoDuration": 3287,
   "partDuration": 333,
   "videos": 12,
-  "viewCount": 392,
+  "viewCount": 400,
+  "cover": "https://i1.hdslb.com/bfs/archive/12b3957d8360d2a6c45f24ab1fa0514ae28f720e.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限6/21】声乐和钢琴的现场演奏会 vol.06 【2022年2月12日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1785,7 +1869,8 @@ window.SONG_DATA.push(
   "videoDuration": 3287,
   "partDuration": 231,
   "videos": 12,
-  "viewCount": 392,
+  "viewCount": 400,
+  "cover": "https://i1.hdslb.com/bfs/archive/12b3957d8360d2a6c45f24ab1fa0514ae28f720e.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限6/21】声乐和钢琴的现场演奏会 vol.06 【2022年2月12日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1806,7 +1891,8 @@ window.SONG_DATA.push(
   "videoDuration": 3287,
   "partDuration": 263,
   "videos": 12,
-  "viewCount": 392,
+  "viewCount": 400,
+  "cover": "https://i1.hdslb.com/bfs/archive/12b3957d8360d2a6c45f24ab1fa0514ae28f720e.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限6/21】声乐和钢琴的现场演奏会 vol.06 【2022年2月12日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1827,7 +1913,8 @@ window.SONG_DATA.push(
   "videoDuration": 3287,
   "partDuration": 254,
   "videos": 12,
-  "viewCount": 392,
+  "viewCount": 400,
+  "cover": "https://i1.hdslb.com/bfs/archive/12b3957d8360d2a6c45f24ab1fa0514ae28f720e.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限6/21】声乐和钢琴的现场演奏会 vol.06 【2022年2月12日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1848,7 +1935,8 @@ window.SONG_DATA.push(
   "videoDuration": 3287,
   "partDuration": 290,
   "videos": 12,
-  "viewCount": 392,
+  "viewCount": 400,
+  "cover": "https://i1.hdslb.com/bfs/archive/12b3957d8360d2a6c45f24ab1fa0514ae28f720e.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限6/21】声乐和钢琴的现场演奏会 vol.06 【2022年2月12日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1869,7 +1957,8 @@ window.SONG_DATA.push(
   "videoDuration": 3287,
   "partDuration": 296,
   "videos": 12,
-  "viewCount": 392,
+  "viewCount": 400,
+  "cover": "https://i1.hdslb.com/bfs/archive/12b3957d8360d2a6c45f24ab1fa0514ae28f720e.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限6/21】声乐和钢琴的现场演奏会 vol.06 【2022年2月12日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1890,7 +1979,8 @@ window.SONG_DATA.push(
   "videoDuration": 2910,
   "partDuration": 265,
   "videos": 10,
-  "viewCount": 511,
+  "viewCount": 535,
+  "cover": "https://i0.hdslb.com/bfs/archive/afa84da1fe2f02cdf7468dca85094185e0d732be.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限7/21】声乐和钢琴的现场演奏会 vol.07 【2022年4月16日】【生演奏系列】01. 春擬き - やなぎなぎ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1911,7 +2001,8 @@ window.SONG_DATA.push(
   "videoDuration": 2910,
   "partDuration": 325,
   "videos": 10,
-  "viewCount": 511,
+  "viewCount": 535,
+  "cover": "https://i0.hdslb.com/bfs/archive/afa84da1fe2f02cdf7468dca85094185e0d732be.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限7/21】声乐和钢琴的现场演奏会 vol.07 【2022年4月16日】【生演奏系列】01. 春擬き - やなぎなぎ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1932,7 +2023,8 @@ window.SONG_DATA.push(
   "videoDuration": 2910,
   "partDuration": 281,
   "videos": 10,
-  "viewCount": 511,
+  "viewCount": 535,
+  "cover": "https://i0.hdslb.com/bfs/archive/afa84da1fe2f02cdf7468dca85094185e0d732be.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限7/21】声乐和钢琴的现场演奏会 vol.07 【2022年4月16日】【生演奏系列】01. 春擬き - やなぎなぎ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1953,7 +2045,8 @@ window.SONG_DATA.push(
   "videoDuration": 2910,
   "partDuration": 305,
   "videos": 10,
-  "viewCount": 511,
+  "viewCount": 535,
+  "cover": "https://i0.hdslb.com/bfs/archive/afa84da1fe2f02cdf7468dca85094185e0d732be.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限7/21】声乐和钢琴的现场演奏会 vol.07 【2022年4月16日】【生演奏系列】01. 春擬き - やなぎなぎ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1974,7 +2067,8 @@ window.SONG_DATA.push(
   "videoDuration": 2910,
   "partDuration": 269,
   "videos": 10,
-  "viewCount": 511,
+  "viewCount": 535,
+  "cover": "https://i0.hdslb.com/bfs/archive/afa84da1fe2f02cdf7468dca85094185e0d732be.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限7/21】声乐和钢琴的现场演奏会 vol.07 【2022年4月16日】【生演奏系列】01. 春擬き - やなぎなぎ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1995,7 +2089,8 @@ window.SONG_DATA.push(
   "videoDuration": 2910,
   "partDuration": 265,
   "videos": 10,
-  "viewCount": 511,
+  "viewCount": 535,
+  "cover": "https://i0.hdslb.com/bfs/archive/afa84da1fe2f02cdf7468dca85094185e0d732be.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限7/21】声乐和钢琴的现场演奏会 vol.07 【2022年4月16日】【生演奏系列】01. 春擬き - やなぎなぎ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2016,7 +2111,8 @@ window.SONG_DATA.push(
   "videoDuration": 2910,
   "partDuration": 334,
   "videos": 10,
-  "viewCount": 511,
+  "viewCount": 535,
+  "cover": "https://i0.hdslb.com/bfs/archive/afa84da1fe2f02cdf7468dca85094185e0d732be.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限7/21】声乐和钢琴的现场演奏会 vol.07 【2022年4月16日】【生演奏系列】01. 春擬き - やなぎなぎ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2037,7 +2133,8 @@ window.SONG_DATA.push(
   "videoDuration": 2910,
   "partDuration": 288,
   "videos": 10,
-  "viewCount": 511,
+  "viewCount": 535,
+  "cover": "https://i0.hdslb.com/bfs/archive/afa84da1fe2f02cdf7468dca85094185e0d732be.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限7/21】声乐和钢琴的现场演奏会 vol.07 【2022年4月16日】【生演奏系列】01. 春擬き - やなぎなぎ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2058,7 +2155,8 @@ window.SONG_DATA.push(
   "videoDuration": 2910,
   "partDuration": 247,
   "videos": 10,
-  "viewCount": 511,
+  "viewCount": 535,
+  "cover": "https://i0.hdslb.com/bfs/archive/afa84da1fe2f02cdf7468dca85094185e0d732be.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限7/21】声乐和钢琴的现场演奏会 vol.07 【2022年4月16日】【生演奏系列】01. 春擬き - やなぎなぎ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2079,7 +2177,8 @@ window.SONG_DATA.push(
   "videoDuration": 2910,
   "partDuration": 331,
   "videos": 10,
-  "viewCount": 511,
+  "viewCount": 535,
+  "cover": "https://i0.hdslb.com/bfs/archive/afa84da1fe2f02cdf7468dca85094185e0d732be.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限7/21】声乐和钢琴的现场演奏会 vol.07 【2022年4月16日】【生演奏系列】01. 春擬き - やなぎなぎ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2100,7 +2199,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 237,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2121,7 +2221,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 285,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2142,7 +2243,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 286,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2163,7 +2265,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 374,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2184,7 +2287,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 356,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2205,7 +2309,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 272,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2226,7 +2331,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 358,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2247,7 +2353,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 238,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2268,7 +2375,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 305,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2289,7 +2397,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 271,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2310,7 +2419,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 212,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2331,7 +2441,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 115,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2352,7 +2463,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 92,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2373,7 +2485,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 150,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2394,7 +2507,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 88,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2415,7 +2529,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 82,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2436,7 +2551,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 87,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2457,7 +2573,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 90,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2478,7 +2595,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 120,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2499,7 +2617,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 120,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2520,7 +2639,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 268,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2541,7 +2661,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 346,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2562,7 +2683,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 247,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2583,7 +2705,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 349,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2604,7 +2727,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 307,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2625,7 +2749,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 292,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2646,7 +2771,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 323,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2667,7 +2793,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 260,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2688,7 +2815,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 277,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2709,7 +2837,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 291,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2730,7 +2859,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 161,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2751,7 +2881,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 319,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2772,7 +2903,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 344,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2793,7 +2925,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 217,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2814,7 +2947,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 274,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2835,7 +2969,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 278,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2856,7 +2991,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 259,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2877,7 +3013,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 260,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2898,7 +3035,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 270,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2919,7 +3057,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 355,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2940,7 +3079,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 340,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2961,7 +3101,8 @@ window.SONG_DATA.push(
   "videoDuration": 10429,
   "partDuration": 254,
   "videos": 42,
-  "viewCount": 1099,
+  "viewCount": 1126,
+  "cover": "https://i1.hdslb.com/bfs/archive/0b9226b2094cf660cf15d83695077abdfdb80ceb.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限歌切 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2982,7 +3123,8 @@ window.SONG_DATA.push(
   "videoDuration": 2649,
   "partDuration": 227,
   "videos": 10,
-  "viewCount": 254,
+  "viewCount": 261,
+  "cover": "https://i2.hdslb.com/bfs/archive/ed08325806cfd720f49918f93bd930df2e4ad659.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限9/21】声乐和钢琴的现场演奏会 vol.09 【2023年1月9日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3003,7 +3145,8 @@ window.SONG_DATA.push(
   "videoDuration": 2649,
   "partDuration": 272,
   "videos": 10,
-  "viewCount": 254,
+  "viewCount": 261,
+  "cover": "https://i2.hdslb.com/bfs/archive/ed08325806cfd720f49918f93bd930df2e4ad659.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限9/21】声乐和钢琴的现场演奏会 vol.09 【2023年1月9日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3024,7 +3167,8 @@ window.SONG_DATA.push(
   "videoDuration": 2649,
   "partDuration": 233,
   "videos": 10,
-  "viewCount": 254,
+  "viewCount": 261,
+  "cover": "https://i2.hdslb.com/bfs/archive/ed08325806cfd720f49918f93bd930df2e4ad659.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限9/21】声乐和钢琴的现场演奏会 vol.09 【2023年1月9日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3045,7 +3189,8 @@ window.SONG_DATA.push(
   "videoDuration": 2649,
   "partDuration": 303,
   "videos": 10,
-  "viewCount": 254,
+  "viewCount": 261,
+  "cover": "https://i2.hdslb.com/bfs/archive/ed08325806cfd720f49918f93bd930df2e4ad659.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限9/21】声乐和钢琴的现场演奏会 vol.09 【2023年1月9日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3066,7 +3211,8 @@ window.SONG_DATA.push(
   "videoDuration": 2649,
   "partDuration": 275,
   "videos": 10,
-  "viewCount": 254,
+  "viewCount": 261,
+  "cover": "https://i2.hdslb.com/bfs/archive/ed08325806cfd720f49918f93bd930df2e4ad659.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限9/21】声乐和钢琴的现场演奏会 vol.09 【2023年1月9日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3087,7 +3233,8 @@ window.SONG_DATA.push(
   "videoDuration": 2649,
   "partDuration": 215,
   "videos": 10,
-  "viewCount": 254,
+  "viewCount": 261,
+  "cover": "https://i2.hdslb.com/bfs/archive/ed08325806cfd720f49918f93bd930df2e4ad659.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限9/21】声乐和钢琴的现场演奏会 vol.09 【2023年1月9日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3108,7 +3255,8 @@ window.SONG_DATA.push(
   "videoDuration": 2649,
   "partDuration": 254,
   "videos": 10,
-  "viewCount": 254,
+  "viewCount": 261,
+  "cover": "https://i2.hdslb.com/bfs/archive/ed08325806cfd720f49918f93bd930df2e4ad659.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限9/21】声乐和钢琴的现场演奏会 vol.09 【2023年1月9日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3129,7 +3277,8 @@ window.SONG_DATA.push(
   "videoDuration": 2649,
   "partDuration": 340,
   "videos": 10,
-  "viewCount": 254,
+  "viewCount": 261,
+  "cover": "https://i2.hdslb.com/bfs/archive/ed08325806cfd720f49918f93bd930df2e4ad659.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限9/21】声乐和钢琴的现场演奏会 vol.09 【2023年1月9日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3150,7 +3299,8 @@ window.SONG_DATA.push(
   "videoDuration": 2649,
   "partDuration": 291,
   "videos": 10,
-  "viewCount": 254,
+  "viewCount": 261,
+  "cover": "https://i2.hdslb.com/bfs/archive/ed08325806cfd720f49918f93bd930df2e4ad659.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限9/21】声乐和钢琴的现场演奏会 vol.09 【2023年1月9日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3171,7 +3321,8 @@ window.SONG_DATA.push(
   "videoDuration": 2649,
   "partDuration": 239,
   "videos": 10,
-  "viewCount": 254,
+  "viewCount": 261,
+  "cover": "https://i2.hdslb.com/bfs/archive/ed08325806cfd720f49918f93bd930df2e4ad659.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限9/21】声乐和钢琴的现场演奏会 vol.09 【2023年1月9日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3192,7 +3343,8 @@ window.SONG_DATA.push(
   "videoDuration": 3666,
   "partDuration": 327,
   "videos": 12,
-  "viewCount": 320,
+  "viewCount": 328,
+  "cover": "https://i2.hdslb.com/bfs/archive/0bb4974fceda015685ce61ead6085bcbf5a0d633.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限10/21】声乐和钢琴的现场演奏会 vol.10 【2023年2月23日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3213,7 +3365,8 @@ window.SONG_DATA.push(
   "videoDuration": 3666,
   "partDuration": 280,
   "videos": 12,
-  "viewCount": 320,
+  "viewCount": 328,
+  "cover": "https://i2.hdslb.com/bfs/archive/0bb4974fceda015685ce61ead6085bcbf5a0d633.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限10/21】声乐和钢琴的现场演奏会 vol.10 【2023年2月23日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3234,7 +3387,8 @@ window.SONG_DATA.push(
   "videoDuration": 3666,
   "partDuration": 269,
   "videos": 12,
-  "viewCount": 320,
+  "viewCount": 328,
+  "cover": "https://i2.hdslb.com/bfs/archive/0bb4974fceda015685ce61ead6085bcbf5a0d633.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限10/21】声乐和钢琴的现场演奏会 vol.10 【2023年2月23日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3255,7 +3409,8 @@ window.SONG_DATA.push(
   "videoDuration": 3666,
   "partDuration": 361,
   "videos": 12,
-  "viewCount": 320,
+  "viewCount": 328,
+  "cover": "https://i2.hdslb.com/bfs/archive/0bb4974fceda015685ce61ead6085bcbf5a0d633.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限10/21】声乐和钢琴的现场演奏会 vol.10 【2023年2月23日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3276,7 +3431,8 @@ window.SONG_DATA.push(
   "videoDuration": 3666,
   "partDuration": 386,
   "videos": 12,
-  "viewCount": 320,
+  "viewCount": 328,
+  "cover": "https://i2.hdslb.com/bfs/archive/0bb4974fceda015685ce61ead6085bcbf5a0d633.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限10/21】声乐和钢琴的现场演奏会 vol.10 【2023年2月23日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3297,7 +3453,8 @@ window.SONG_DATA.push(
   "videoDuration": 3666,
   "partDuration": 322,
   "videos": 12,
-  "viewCount": 320,
+  "viewCount": 328,
+  "cover": "https://i2.hdslb.com/bfs/archive/0bb4974fceda015685ce61ead6085bcbf5a0d633.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限10/21】声乐和钢琴的现场演奏会 vol.10 【2023年2月23日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3318,7 +3475,8 @@ window.SONG_DATA.push(
   "videoDuration": 3666,
   "partDuration": 239,
   "videos": 12,
-  "viewCount": 320,
+  "viewCount": 328,
+  "cover": "https://i2.hdslb.com/bfs/archive/0bb4974fceda015685ce61ead6085bcbf5a0d633.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限10/21】声乐和钢琴的现场演奏会 vol.10 【2023年2月23日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3339,7 +3497,8 @@ window.SONG_DATA.push(
   "videoDuration": 3666,
   "partDuration": 318,
   "videos": 12,
-  "viewCount": 320,
+  "viewCount": 328,
+  "cover": "https://i2.hdslb.com/bfs/archive/0bb4974fceda015685ce61ead6085bcbf5a0d633.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限10/21】声乐和钢琴的现场演奏会 vol.10 【2023年2月23日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3360,7 +3519,8 @@ window.SONG_DATA.push(
   "videoDuration": 3666,
   "partDuration": 242,
   "videos": 12,
-  "viewCount": 320,
+  "viewCount": 328,
+  "cover": "https://i2.hdslb.com/bfs/archive/0bb4974fceda015685ce61ead6085bcbf5a0d633.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限10/21】声乐和钢琴的现场演奏会 vol.10 【2023年2月23日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3381,7 +3541,8 @@ window.SONG_DATA.push(
   "videoDuration": 3666,
   "partDuration": 269,
   "videos": 12,
-  "viewCount": 320,
+  "viewCount": 328,
+  "cover": "https://i2.hdslb.com/bfs/archive/0bb4974fceda015685ce61ead6085bcbf5a0d633.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限10/21】声乐和钢琴的现场演奏会 vol.10 【2023年2月23日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3402,7 +3563,8 @@ window.SONG_DATA.push(
   "videoDuration": 3666,
   "partDuration": 305,
   "videos": 12,
-  "viewCount": 320,
+  "viewCount": 328,
+  "cover": "https://i2.hdslb.com/bfs/archive/0bb4974fceda015685ce61ead6085bcbf5a0d633.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限10/21】声乐和钢琴的现场演奏会 vol.10 【2023年2月23日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3423,7 +3585,8 @@ window.SONG_DATA.push(
   "videoDuration": 3666,
   "partDuration": 348,
   "videos": 12,
-  "viewCount": 320,
+  "viewCount": 328,
+  "cover": "https://i2.hdslb.com/bfs/archive/0bb4974fceda015685ce61ead6085bcbf5a0d633.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限10/21】声乐和钢琴的现场演奏会 vol.10 【2023年2月23日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3444,7 +3607,8 @@ window.SONG_DATA.push(
   "videoDuration": 3624,
   "partDuration": 305,
   "videos": 13,
-  "viewCount": 275,
+  "viewCount": 286,
+  "cover": "https://i1.hdslb.com/bfs/archive/e7ba38a9d6f504629a1ca38c0d71dedc6d24420f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限11/21】突如其来的黄金周特辑～声乐和钢琴的现场演奏会 vol.11 【2023年5月6日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3465,7 +3629,8 @@ window.SONG_DATA.push(
   "videoDuration": 3624,
   "partDuration": 261,
   "videos": 13,
-  "viewCount": 275,
+  "viewCount": 286,
+  "cover": "https://i1.hdslb.com/bfs/archive/e7ba38a9d6f504629a1ca38c0d71dedc6d24420f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限11/21】突如其来的黄金周特辑～声乐和钢琴的现场演奏会 vol.11 【2023年5月6日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3486,7 +3651,8 @@ window.SONG_DATA.push(
   "videoDuration": 3624,
   "partDuration": 253,
   "videos": 13,
-  "viewCount": 275,
+  "viewCount": 286,
+  "cover": "https://i1.hdslb.com/bfs/archive/e7ba38a9d6f504629a1ca38c0d71dedc6d24420f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限11/21】突如其来的黄金周特辑～声乐和钢琴的现场演奏会 vol.11 【2023年5月6日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3507,7 +3673,8 @@ window.SONG_DATA.push(
   "videoDuration": 3624,
   "partDuration": 235,
   "videos": 13,
-  "viewCount": 275,
+  "viewCount": 286,
+  "cover": "https://i1.hdslb.com/bfs/archive/e7ba38a9d6f504629a1ca38c0d71dedc6d24420f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限11/21】突如其来的黄金周特辑～声乐和钢琴的现场演奏会 vol.11 【2023年5月6日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3528,7 +3695,8 @@ window.SONG_DATA.push(
   "videoDuration": 3624,
   "partDuration": 300,
   "videos": 13,
-  "viewCount": 275,
+  "viewCount": 286,
+  "cover": "https://i1.hdslb.com/bfs/archive/e7ba38a9d6f504629a1ca38c0d71dedc6d24420f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限11/21】突如其来的黄金周特辑～声乐和钢琴的现场演奏会 vol.11 【2023年5月6日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3549,7 +3717,8 @@ window.SONG_DATA.push(
   "videoDuration": 3624,
   "partDuration": 214,
   "videos": 13,
-  "viewCount": 275,
+  "viewCount": 286,
+  "cover": "https://i1.hdslb.com/bfs/archive/e7ba38a9d6f504629a1ca38c0d71dedc6d24420f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限11/21】突如其来的黄金周特辑～声乐和钢琴的现场演奏会 vol.11 【2023年5月6日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3570,7 +3739,8 @@ window.SONG_DATA.push(
   "videoDuration": 3624,
   "partDuration": 286,
   "videos": 13,
-  "viewCount": 275,
+  "viewCount": 286,
+  "cover": "https://i1.hdslb.com/bfs/archive/e7ba38a9d6f504629a1ca38c0d71dedc6d24420f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限11/21】突如其来的黄金周特辑～声乐和钢琴的现场演奏会 vol.11 【2023年5月6日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3591,7 +3761,8 @@ window.SONG_DATA.push(
   "videoDuration": 3624,
   "partDuration": 268,
   "videos": 13,
-  "viewCount": 275,
+  "viewCount": 286,
+  "cover": "https://i1.hdslb.com/bfs/archive/e7ba38a9d6f504629a1ca38c0d71dedc6d24420f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限11/21】突如其来的黄金周特辑～声乐和钢琴的现场演奏会 vol.11 【2023年5月6日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3612,7 +3783,8 @@ window.SONG_DATA.push(
   "videoDuration": 3624,
   "partDuration": 286,
   "videos": 13,
-  "viewCount": 275,
+  "viewCount": 286,
+  "cover": "https://i1.hdslb.com/bfs/archive/e7ba38a9d6f504629a1ca38c0d71dedc6d24420f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限11/21】突如其来的黄金周特辑～声乐和钢琴的现场演奏会 vol.11 【2023年5月6日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3633,7 +3805,8 @@ window.SONG_DATA.push(
   "videoDuration": 3624,
   "partDuration": 296,
   "videos": 13,
-  "viewCount": 275,
+  "viewCount": 286,
+  "cover": "https://i1.hdslb.com/bfs/archive/e7ba38a9d6f504629a1ca38c0d71dedc6d24420f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限11/21】突如其来的黄金周特辑～声乐和钢琴的现场演奏会 vol.11 【2023年5月6日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3654,7 +3827,8 @@ window.SONG_DATA.push(
   "videoDuration": 3624,
   "partDuration": 285,
   "videos": 13,
-  "viewCount": 275,
+  "viewCount": 286,
+  "cover": "https://i1.hdslb.com/bfs/archive/e7ba38a9d6f504629a1ca38c0d71dedc6d24420f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限11/21】突如其来的黄金周特辑～声乐和钢琴的现场演奏会 vol.11 【2023年5月6日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3675,7 +3849,8 @@ window.SONG_DATA.push(
   "videoDuration": 3624,
   "partDuration": 299,
   "videos": 13,
-  "viewCount": 275,
+  "viewCount": 286,
+  "cover": "https://i1.hdslb.com/bfs/archive/e7ba38a9d6f504629a1ca38c0d71dedc6d24420f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限11/21】突如其来的黄金周特辑～声乐和钢琴的现场演奏会 vol.11 【2023年5月6日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3696,7 +3871,8 @@ window.SONG_DATA.push(
   "videoDuration": 3624,
   "partDuration": 336,
   "videos": 13,
-  "viewCount": 275,
+  "viewCount": 286,
+  "cover": "https://i1.hdslb.com/bfs/archive/e7ba38a9d6f504629a1ca38c0d71dedc6d24420f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限11/21】突如其来的黄金周特辑～声乐和钢琴的现场演奏会 vol.11 【2023年5月6日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3717,7 +3893,8 @@ window.SONG_DATA.push(
   "videoDuration": 2365,
   "partDuration": 185,
   "videos": 8,
-  "viewCount": 238,
+  "viewCount": 243,
+  "cover": "https://i1.hdslb.com/bfs/archive/0c1ac81aca42cea5d0a3bcd04cda2275422389f7.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限12/21】16 周年特别纪念～声乐和钢琴的现场演奏会 vol.12 【2023年2月23日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3738,7 +3915,8 @@ window.SONG_DATA.push(
   "videoDuration": 2365,
   "partDuration": 313,
   "videos": 8,
-  "viewCount": 238,
+  "viewCount": 243,
+  "cover": "https://i1.hdslb.com/bfs/archive/0c1ac81aca42cea5d0a3bcd04cda2275422389f7.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限12/21】16 周年特别纪念～声乐和钢琴的现场演奏会 vol.12 【2023年2月23日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3759,7 +3937,8 @@ window.SONG_DATA.push(
   "videoDuration": 2365,
   "partDuration": 320,
   "videos": 8,
-  "viewCount": 238,
+  "viewCount": 243,
+  "cover": "https://i1.hdslb.com/bfs/archive/0c1ac81aca42cea5d0a3bcd04cda2275422389f7.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限12/21】16 周年特别纪念～声乐和钢琴的现场演奏会 vol.12 【2023年2月23日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3780,7 +3959,8 @@ window.SONG_DATA.push(
   "videoDuration": 2365,
   "partDuration": 304,
   "videos": 8,
-  "viewCount": 238,
+  "viewCount": 243,
+  "cover": "https://i1.hdslb.com/bfs/archive/0c1ac81aca42cea5d0a3bcd04cda2275422389f7.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限12/21】16 周年特别纪念～声乐和钢琴的现场演奏会 vol.12 【2023年2月23日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3801,7 +3981,8 @@ window.SONG_DATA.push(
   "videoDuration": 2365,
   "partDuration": 351,
   "videos": 8,
-  "viewCount": 238,
+  "viewCount": 243,
+  "cover": "https://i1.hdslb.com/bfs/archive/0c1ac81aca42cea5d0a3bcd04cda2275422389f7.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限12/21】16 周年特别纪念～声乐和钢琴的现场演奏会 vol.12 【2023年2月23日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3822,7 +4003,8 @@ window.SONG_DATA.push(
   "videoDuration": 2365,
   "partDuration": 258,
   "videos": 8,
-  "viewCount": 238,
+  "viewCount": 243,
+  "cover": "https://i1.hdslb.com/bfs/archive/0c1ac81aca42cea5d0a3bcd04cda2275422389f7.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限12/21】16 周年特别纪念～声乐和钢琴的现场演奏会 vol.12 【2023年2月23日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3843,7 +4025,8 @@ window.SONG_DATA.push(
   "videoDuration": 2365,
   "partDuration": 311,
   "videos": 8,
-  "viewCount": 238,
+  "viewCount": 243,
+  "cover": "https://i1.hdslb.com/bfs/archive/0c1ac81aca42cea5d0a3bcd04cda2275422389f7.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限12/21】16 周年特别纪念～声乐和钢琴的现场演奏会 vol.12 【2023年2月23日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3864,7 +4047,8 @@ window.SONG_DATA.push(
   "videoDuration": 2365,
   "partDuration": 323,
   "videos": 8,
-  "viewCount": 238,
+  "viewCount": 243,
+  "cover": "https://i1.hdslb.com/bfs/archive/0c1ac81aca42cea5d0a3bcd04cda2275422389f7.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限12/21】16 周年特别纪念～声乐和钢琴的现场演奏会 vol.12 【2023年2月23日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3885,7 +4069,8 @@ window.SONG_DATA.push(
   "videoDuration": 1830,
   "partDuration": 881,
   "videos": 5,
-  "viewCount": 294,
+  "viewCount": 305,
+  "cover": "https://i0.hdslb.com/bfs/archive/1d3e546bd0b03c2e04a35982b1ae80e83ee28433.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta限定】nayuta Acoustic Live vol.12 ~续 为频道会员的追加安可曲目",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3906,7 +4091,8 @@ window.SONG_DATA.push(
   "videoDuration": 1830,
   "partDuration": 246,
   "videos": 5,
-  "viewCount": 294,
+  "viewCount": 305,
+  "cover": "https://i0.hdslb.com/bfs/archive/1d3e546bd0b03c2e04a35982b1ae80e83ee28433.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta限定】nayuta Acoustic Live vol.12 ~续 为频道会员的追加安可曲目",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3927,7 +4113,8 @@ window.SONG_DATA.push(
   "videoDuration": 1830,
   "partDuration": 215,
   "videos": 5,
-  "viewCount": 294,
+  "viewCount": 305,
+  "cover": "https://i0.hdslb.com/bfs/archive/1d3e546bd0b03c2e04a35982b1ae80e83ee28433.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta限定】nayuta Acoustic Live vol.12 ~续 为频道会员的追加安可曲目",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3948,7 +4135,8 @@ window.SONG_DATA.push(
   "videoDuration": 1830,
   "partDuration": 240,
   "videos": 5,
-  "viewCount": 294,
+  "viewCount": 305,
+  "cover": "https://i0.hdslb.com/bfs/archive/1d3e546bd0b03c2e04a35982b1ae80e83ee28433.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta限定】nayuta Acoustic Live vol.12 ~续 为频道会员的追加安可曲目",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3969,7 +4157,8 @@ window.SONG_DATA.push(
   "videoDuration": 1830,
   "partDuration": 248,
   "videos": 5,
-  "viewCount": 294,
+  "viewCount": 305,
+  "cover": "https://i0.hdslb.com/bfs/archive/1d3e546bd0b03c2e04a35982b1ae80e83ee28433.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta限定】nayuta Acoustic Live vol.12 ~续 为频道会员的追加安可曲目",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3990,7 +4179,8 @@ window.SONG_DATA.push(
   "videoDuration": 3411,
   "partDuration": 277,
   "videos": 11,
-  "viewCount": 282,
+  "viewCount": 300,
+  "cover": "https://i0.hdslb.com/bfs/archive/ad9cc1984deecad031867d5253f7c07194f60190.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限13/21】突発！夏日特辑～声乐和钢琴的现场演奏会 vol.13 【2023年8月27日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4011,7 +4201,8 @@ window.SONG_DATA.push(
   "videoDuration": 3411,
   "partDuration": 309,
   "videos": 11,
-  "viewCount": 282,
+  "viewCount": 300,
+  "cover": "https://i0.hdslb.com/bfs/archive/ad9cc1984deecad031867d5253f7c07194f60190.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限13/21】突発！夏日特辑～声乐和钢琴的现场演奏会 vol.13 【2023年8月27日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4032,7 +4223,8 @@ window.SONG_DATA.push(
   "videoDuration": 3411,
   "partDuration": 352,
   "videos": 11,
-  "viewCount": 282,
+  "viewCount": 300,
+  "cover": "https://i0.hdslb.com/bfs/archive/ad9cc1984deecad031867d5253f7c07194f60190.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限13/21】突発！夏日特辑～声乐和钢琴的现场演奏会 vol.13 【2023年8月27日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4053,7 +4245,8 @@ window.SONG_DATA.push(
   "videoDuration": 3411,
   "partDuration": 262,
   "videos": 11,
-  "viewCount": 282,
+  "viewCount": 300,
+  "cover": "https://i0.hdslb.com/bfs/archive/ad9cc1984deecad031867d5253f7c07194f60190.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限13/21】突発！夏日特辑～声乐和钢琴的现场演奏会 vol.13 【2023年8月27日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4074,7 +4267,8 @@ window.SONG_DATA.push(
   "videoDuration": 3411,
   "partDuration": 236,
   "videos": 11,
-  "viewCount": 282,
+  "viewCount": 300,
+  "cover": "https://i0.hdslb.com/bfs/archive/ad9cc1984deecad031867d5253f7c07194f60190.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限13/21】突発！夏日特辑～声乐和钢琴的现场演奏会 vol.13 【2023年8月27日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4095,7 +4289,8 @@ window.SONG_DATA.push(
   "videoDuration": 3411,
   "partDuration": 340,
   "videos": 11,
-  "viewCount": 282,
+  "viewCount": 300,
+  "cover": "https://i0.hdslb.com/bfs/archive/ad9cc1984deecad031867d5253f7c07194f60190.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限13/21】突発！夏日特辑～声乐和钢琴的现场演奏会 vol.13 【2023年8月27日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4116,7 +4311,8 @@ window.SONG_DATA.push(
   "videoDuration": 3411,
   "partDuration": 263,
   "videos": 11,
-  "viewCount": 282,
+  "viewCount": 300,
+  "cover": "https://i0.hdslb.com/bfs/archive/ad9cc1984deecad031867d5253f7c07194f60190.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限13/21】突発！夏日特辑～声乐和钢琴的现场演奏会 vol.13 【2023年8月27日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4137,7 +4333,8 @@ window.SONG_DATA.push(
   "videoDuration": 3411,
   "partDuration": 282,
   "videos": 11,
-  "viewCount": 282,
+  "viewCount": 300,
+  "cover": "https://i0.hdslb.com/bfs/archive/ad9cc1984deecad031867d5253f7c07194f60190.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限13/21】突発！夏日特辑～声乐和钢琴的现场演奏会 vol.13 【2023年8月27日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4158,7 +4355,8 @@ window.SONG_DATA.push(
   "videoDuration": 3411,
   "partDuration": 360,
   "videos": 11,
-  "viewCount": 282,
+  "viewCount": 300,
+  "cover": "https://i0.hdslb.com/bfs/archive/ad9cc1984deecad031867d5253f7c07194f60190.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限13/21】突発！夏日特辑～声乐和钢琴的现场演奏会 vol.13 【2023年8月27日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4179,7 +4377,8 @@ window.SONG_DATA.push(
   "videoDuration": 3411,
   "partDuration": 370,
   "videos": 11,
-  "viewCount": 282,
+  "viewCount": 300,
+  "cover": "https://i0.hdslb.com/bfs/archive/ad9cc1984deecad031867d5253f7c07194f60190.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限13/21】突発！夏日特辑～声乐和钢琴的现场演奏会 vol.13 【2023年8月27日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4200,7 +4399,8 @@ window.SONG_DATA.push(
   "videoDuration": 3411,
   "partDuration": 360,
   "videos": 11,
-  "viewCount": 282,
+  "viewCount": 300,
+  "cover": "https://i0.hdslb.com/bfs/archive/ad9cc1984deecad031867d5253f7c07194f60190.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限13/21】突発！夏日特辑～声乐和钢琴的现场演奏会 vol.13 【2023年8月27日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4221,7 +4421,8 @@ window.SONG_DATA.push(
   "videoDuration": 3231,
   "partDuration": 253,
   "videos": 13,
-  "viewCount": 281,
+  "viewCount": 286,
+  "cover": "https://i0.hdslb.com/bfs/archive/d91677a0a4067c4f2f85b77a2d860156030fa98d.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限14/21】圣诞特辑～声乐和钢琴的现场演奏会 vol.14 【2023年12月22日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4242,7 +4443,8 @@ window.SONG_DATA.push(
   "videoDuration": 3231,
   "partDuration": 291,
   "videos": 13,
-  "viewCount": 281,
+  "viewCount": 286,
+  "cover": "https://i0.hdslb.com/bfs/archive/d91677a0a4067c4f2f85b77a2d860156030fa98d.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限14/21】圣诞特辑～声乐和钢琴的现场演奏会 vol.14 【2023年12月22日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4263,7 +4465,8 @@ window.SONG_DATA.push(
   "videoDuration": 3231,
   "partDuration": 280,
   "videos": 13,
-  "viewCount": 281,
+  "viewCount": 286,
+  "cover": "https://i0.hdslb.com/bfs/archive/d91677a0a4067c4f2f85b77a2d860156030fa98d.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限14/21】圣诞特辑～声乐和钢琴的现场演奏会 vol.14 【2023年12月22日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4284,7 +4487,8 @@ window.SONG_DATA.push(
   "videoDuration": 3231,
   "partDuration": 337,
   "videos": 13,
-  "viewCount": 281,
+  "viewCount": 286,
+  "cover": "https://i0.hdslb.com/bfs/archive/d91677a0a4067c4f2f85b77a2d860156030fa98d.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限14/21】圣诞特辑～声乐和钢琴的现场演奏会 vol.14 【2023年12月22日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4305,7 +4509,8 @@ window.SONG_DATA.push(
   "videoDuration": 3231,
   "partDuration": 256,
   "videos": 13,
-  "viewCount": 281,
+  "viewCount": 286,
+  "cover": "https://i0.hdslb.com/bfs/archive/d91677a0a4067c4f2f85b77a2d860156030fa98d.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限14/21】圣诞特辑～声乐和钢琴的现场演奏会 vol.14 【2023年12月22日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4326,7 +4531,8 @@ window.SONG_DATA.push(
   "videoDuration": 3231,
   "partDuration": 226,
   "videos": 13,
-  "viewCount": 281,
+  "viewCount": 286,
+  "cover": "https://i0.hdslb.com/bfs/archive/d91677a0a4067c4f2f85b77a2d860156030fa98d.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限14/21】圣诞特辑～声乐和钢琴的现场演奏会 vol.14 【2023年12月22日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4347,7 +4553,8 @@ window.SONG_DATA.push(
   "videoDuration": 3231,
   "partDuration": 225,
   "videos": 13,
-  "viewCount": 281,
+  "viewCount": 286,
+  "cover": "https://i0.hdslb.com/bfs/archive/d91677a0a4067c4f2f85b77a2d860156030fa98d.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限14/21】圣诞特辑～声乐和钢琴的现场演奏会 vol.14 【2023年12月22日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4368,7 +4575,8 @@ window.SONG_DATA.push(
   "videoDuration": 3231,
   "partDuration": 360,
   "videos": 13,
-  "viewCount": 281,
+  "viewCount": 286,
+  "cover": "https://i0.hdslb.com/bfs/archive/d91677a0a4067c4f2f85b77a2d860156030fa98d.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限14/21】圣诞特辑～声乐和钢琴的现场演奏会 vol.14 【2023年12月22日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4389,7 +4597,8 @@ window.SONG_DATA.push(
   "videoDuration": 3231,
   "partDuration": 294,
   "videos": 13,
-  "viewCount": 281,
+  "viewCount": 286,
+  "cover": "https://i0.hdslb.com/bfs/archive/d91677a0a4067c4f2f85b77a2d860156030fa98d.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限14/21】圣诞特辑～声乐和钢琴的现场演奏会 vol.14 【2023年12月22日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4410,7 +4619,8 @@ window.SONG_DATA.push(
   "videoDuration": 3231,
   "partDuration": 276,
   "videos": 13,
-  "viewCount": 281,
+  "viewCount": 286,
+  "cover": "https://i0.hdslb.com/bfs/archive/d91677a0a4067c4f2f85b77a2d860156030fa98d.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限14/21】圣诞特辑～声乐和钢琴的现场演奏会 vol.14 【2023年12月22日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4431,7 +4641,8 @@ window.SONG_DATA.push(
   "videoDuration": 3231,
   "partDuration": 330,
   "videos": 13,
-  "viewCount": 281,
+  "viewCount": 286,
+  "cover": "https://i0.hdslb.com/bfs/archive/d91677a0a4067c4f2f85b77a2d860156030fa98d.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限14/21】圣诞特辑～声乐和钢琴的现场演奏会 vol.14 【2023年12月22日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4452,7 +4663,8 @@ window.SONG_DATA.push(
   "videoDuration": 3231,
   "partDuration": 46,
   "videos": 13,
-  "viewCount": 281,
+  "viewCount": 286,
+  "cover": "https://i0.hdslb.com/bfs/archive/d91677a0a4067c4f2f85b77a2d860156030fa98d.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限14/21】圣诞特辑～声乐和钢琴的现场演奏会 vol.14 【2023年12月22日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4473,7 +4685,8 @@ window.SONG_DATA.push(
   "videoDuration": 3231,
   "partDuration": 57,
   "videos": 13,
-  "viewCount": 281,
+  "viewCount": 286,
+  "cover": "https://i0.hdslb.com/bfs/archive/d91677a0a4067c4f2f85b77a2d860156030fa98d.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限14/21】圣诞特辑～声乐和钢琴的现场演奏会 vol.14 【2023年12月22日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4494,7 +4707,8 @@ window.SONG_DATA.push(
   "videoDuration": 2912,
   "partDuration": 298,
   "videos": 10,
-  "viewCount": 258,
+  "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/3f2725bd198d1f63f908579be97820ff76c079ed.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限15/21】声乐和钢琴的现场演奏会 vol.15 【2024年2月3日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4515,7 +4729,8 @@ window.SONG_DATA.push(
   "videoDuration": 2912,
   "partDuration": 274,
   "videos": 10,
-  "viewCount": 258,
+  "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/3f2725bd198d1f63f908579be97820ff76c079ed.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限15/21】声乐和钢琴的现场演奏会 vol.15 【2024年2月3日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4536,7 +4751,8 @@ window.SONG_DATA.push(
   "videoDuration": 2912,
   "partDuration": 271,
   "videos": 10,
-  "viewCount": 258,
+  "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/3f2725bd198d1f63f908579be97820ff76c079ed.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限15/21】声乐和钢琴的现场演奏会 vol.15 【2024年2月3日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4557,7 +4773,8 @@ window.SONG_DATA.push(
   "videoDuration": 2912,
   "partDuration": 301,
   "videos": 10,
-  "viewCount": 258,
+  "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/3f2725bd198d1f63f908579be97820ff76c079ed.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限15/21】声乐和钢琴的现场演奏会 vol.15 【2024年2月3日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4578,7 +4795,8 @@ window.SONG_DATA.push(
   "videoDuration": 2912,
   "partDuration": 298,
   "videos": 10,
-  "viewCount": 258,
+  "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/3f2725bd198d1f63f908579be97820ff76c079ed.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限15/21】声乐和钢琴的现场演奏会 vol.15 【2024年2月3日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4599,7 +4817,8 @@ window.SONG_DATA.push(
   "videoDuration": 2912,
   "partDuration": 250,
   "videos": 10,
-  "viewCount": 258,
+  "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/3f2725bd198d1f63f908579be97820ff76c079ed.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限15/21】声乐和钢琴的现场演奏会 vol.15 【2024年2月3日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4620,7 +4839,8 @@ window.SONG_DATA.push(
   "videoDuration": 2912,
   "partDuration": 265,
   "videos": 10,
-  "viewCount": 258,
+  "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/3f2725bd198d1f63f908579be97820ff76c079ed.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限15/21】声乐和钢琴的现场演奏会 vol.15 【2024年2月3日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4641,7 +4861,8 @@ window.SONG_DATA.push(
   "videoDuration": 2912,
   "partDuration": 301,
   "videos": 10,
-  "viewCount": 258,
+  "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/3f2725bd198d1f63f908579be97820ff76c079ed.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限15/21】声乐和钢琴的现场演奏会 vol.15 【2024年2月3日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4662,7 +4883,8 @@ window.SONG_DATA.push(
   "videoDuration": 2912,
   "partDuration": 380,
   "videos": 10,
-  "viewCount": 258,
+  "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/3f2725bd198d1f63f908579be97820ff76c079ed.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限15/21】声乐和钢琴的现场演奏会 vol.15 【2024年2月3日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4683,7 +4905,8 @@ window.SONG_DATA.push(
   "videoDuration": 2912,
   "partDuration": 274,
   "videos": 10,
-  "viewCount": 258,
+  "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/3f2725bd198d1f63f908579be97820ff76c079ed.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限15/21】声乐和钢琴的现场演奏会 vol.15 【2024年2月3日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4704,7 +4927,8 @@ window.SONG_DATA.push(
   "videoDuration": 3584,
   "partDuration": 256,
   "videos": 13,
-  "viewCount": 264,
+  "viewCount": 277,
+  "cover": "https://i0.hdslb.com/bfs/archive/7289a11d4fcb7959d7c52299610af1ea9116718a.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限16/21】10万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.16 【2024年3月20日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4725,7 +4949,8 @@ window.SONG_DATA.push(
   "videoDuration": 3584,
   "partDuration": 291,
   "videos": 13,
-  "viewCount": 264,
+  "viewCount": 277,
+  "cover": "https://i0.hdslb.com/bfs/archive/7289a11d4fcb7959d7c52299610af1ea9116718a.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限16/21】10万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.16 【2024年3月20日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4746,7 +4971,8 @@ window.SONG_DATA.push(
   "videoDuration": 3584,
   "partDuration": 261,
   "videos": 13,
-  "viewCount": 264,
+  "viewCount": 277,
+  "cover": "https://i0.hdslb.com/bfs/archive/7289a11d4fcb7959d7c52299610af1ea9116718a.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限16/21】10万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.16 【2024年3月20日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4767,7 +4993,8 @@ window.SONG_DATA.push(
   "videoDuration": 3584,
   "partDuration": 361,
   "videos": 13,
-  "viewCount": 264,
+  "viewCount": 277,
+  "cover": "https://i0.hdslb.com/bfs/archive/7289a11d4fcb7959d7c52299610af1ea9116718a.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限16/21】10万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.16 【2024年3月20日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4788,7 +5015,8 @@ window.SONG_DATA.push(
   "videoDuration": 3584,
   "partDuration": 164,
   "videos": 13,
-  "viewCount": 264,
+  "viewCount": 277,
+  "cover": "https://i0.hdslb.com/bfs/archive/7289a11d4fcb7959d7c52299610af1ea9116718a.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限16/21】10万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.16 【2024年3月20日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4809,7 +5037,8 @@ window.SONG_DATA.push(
   "videoDuration": 3584,
   "partDuration": 313,
   "videos": 13,
-  "viewCount": 264,
+  "viewCount": 277,
+  "cover": "https://i0.hdslb.com/bfs/archive/7289a11d4fcb7959d7c52299610af1ea9116718a.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限16/21】10万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.16 【2024年3月20日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4830,7 +5059,8 @@ window.SONG_DATA.push(
   "videoDuration": 3584,
   "partDuration": 380,
   "videos": 13,
-  "viewCount": 264,
+  "viewCount": 277,
+  "cover": "https://i0.hdslb.com/bfs/archive/7289a11d4fcb7959d7c52299610af1ea9116718a.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限16/21】10万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.16 【2024年3月20日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4851,7 +5081,8 @@ window.SONG_DATA.push(
   "videoDuration": 3584,
   "partDuration": 282,
   "videos": 13,
-  "viewCount": 264,
+  "viewCount": 277,
+  "cover": "https://i0.hdslb.com/bfs/archive/7289a11d4fcb7959d7c52299610af1ea9116718a.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限16/21】10万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.16 【2024年3月20日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4872,7 +5103,8 @@ window.SONG_DATA.push(
   "videoDuration": 3584,
   "partDuration": 259,
   "videos": 13,
-  "viewCount": 264,
+  "viewCount": 277,
+  "cover": "https://i0.hdslb.com/bfs/archive/7289a11d4fcb7959d7c52299610af1ea9116718a.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限16/21】10万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.16 【2024年3月20日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4893,7 +5125,8 @@ window.SONG_DATA.push(
   "videoDuration": 3584,
   "partDuration": 206,
   "videos": 13,
-  "viewCount": 264,
+  "viewCount": 277,
+  "cover": "https://i0.hdslb.com/bfs/archive/7289a11d4fcb7959d7c52299610af1ea9116718a.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限16/21】10万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.16 【2024年3月20日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4914,7 +5147,8 @@ window.SONG_DATA.push(
   "videoDuration": 3584,
   "partDuration": 270,
   "videos": 13,
-  "viewCount": 264,
+  "viewCount": 277,
+  "cover": "https://i0.hdslb.com/bfs/archive/7289a11d4fcb7959d7c52299610af1ea9116718a.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限16/21】10万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.16 【2024年3月20日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4935,7 +5169,8 @@ window.SONG_DATA.push(
   "videoDuration": 3584,
   "partDuration": 249,
   "videos": 13,
-  "viewCount": 264,
+  "viewCount": 277,
+  "cover": "https://i0.hdslb.com/bfs/archive/7289a11d4fcb7959d7c52299610af1ea9116718a.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限16/21】10万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.16 【2024年3月20日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4956,7 +5191,8 @@ window.SONG_DATA.push(
   "videoDuration": 3584,
   "partDuration": 292,
   "videos": 13,
-  "viewCount": 264,
+  "viewCount": 277,
+  "cover": "https://i0.hdslb.com/bfs/archive/7289a11d4fcb7959d7c52299610af1ea9116718a.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限16/21】10万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.16 【2024年3月20日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4977,7 +5213,8 @@ window.SONG_DATA.push(
   "videoDuration": 2995,
   "partDuration": 346,
   "videos": 10,
-  "viewCount": 201,
+  "viewCount": 217,
+  "cover": "https://i2.hdslb.com/bfs/archive/0d36aee64db767d98c5d2d798491f717f1c7b74c.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限17/21】17周年記念 ~ 声乐和钢琴的现场演奏会 vol.17 【2024年6月18日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4998,7 +5235,8 @@ window.SONG_DATA.push(
   "videoDuration": 2995,
   "partDuration": 313,
   "videos": 10,
-  "viewCount": 201,
+  "viewCount": 217,
+  "cover": "https://i2.hdslb.com/bfs/archive/0d36aee64db767d98c5d2d798491f717f1c7b74c.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限17/21】17周年記念 ~ 声乐和钢琴的现场演奏会 vol.17 【2024年6月18日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5019,7 +5257,8 @@ window.SONG_DATA.push(
   "videoDuration": 2995,
   "partDuration": 243,
   "videos": 10,
-  "viewCount": 201,
+  "viewCount": 217,
+  "cover": "https://i2.hdslb.com/bfs/archive/0d36aee64db767d98c5d2d798491f717f1c7b74c.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限17/21】17周年記念 ~ 声乐和钢琴的现场演奏会 vol.17 【2024年6月18日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5040,7 +5279,8 @@ window.SONG_DATA.push(
   "videoDuration": 2995,
   "partDuration": 296,
   "videos": 10,
-  "viewCount": 201,
+  "viewCount": 217,
+  "cover": "https://i2.hdslb.com/bfs/archive/0d36aee64db767d98c5d2d798491f717f1c7b74c.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限17/21】17周年記念 ~ 声乐和钢琴的现场演奏会 vol.17 【2024年6月18日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5061,7 +5301,8 @@ window.SONG_DATA.push(
   "videoDuration": 2995,
   "partDuration": 291,
   "videos": 10,
-  "viewCount": 201,
+  "viewCount": 217,
+  "cover": "https://i2.hdslb.com/bfs/archive/0d36aee64db767d98c5d2d798491f717f1c7b74c.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限17/21】17周年記念 ~ 声乐和钢琴的现场演奏会 vol.17 【2024年6月18日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5082,7 +5323,8 @@ window.SONG_DATA.push(
   "videoDuration": 2995,
   "partDuration": 271,
   "videos": 10,
-  "viewCount": 201,
+  "viewCount": 217,
+  "cover": "https://i2.hdslb.com/bfs/archive/0d36aee64db767d98c5d2d798491f717f1c7b74c.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限17/21】17周年記念 ~ 声乐和钢琴的现场演奏会 vol.17 【2024年6月18日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5103,7 +5345,8 @@ window.SONG_DATA.push(
   "videoDuration": 2995,
   "partDuration": 310,
   "videos": 10,
-  "viewCount": 201,
+  "viewCount": 217,
+  "cover": "https://i2.hdslb.com/bfs/archive/0d36aee64db767d98c5d2d798491f717f1c7b74c.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限17/21】17周年記念 ~ 声乐和钢琴的现场演奏会 vol.17 【2024年6月18日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5124,7 +5367,8 @@ window.SONG_DATA.push(
   "videoDuration": 2995,
   "partDuration": 363,
   "videos": 10,
-  "viewCount": 201,
+  "viewCount": 217,
+  "cover": "https://i2.hdslb.com/bfs/archive/0d36aee64db767d98c5d2d798491f717f1c7b74c.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限17/21】17周年記念 ~ 声乐和钢琴的现场演奏会 vol.17 【2024年6月18日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5145,7 +5389,8 @@ window.SONG_DATA.push(
   "videoDuration": 2995,
   "partDuration": 310,
   "videos": 10,
-  "viewCount": 201,
+  "viewCount": 217,
+  "cover": "https://i2.hdslb.com/bfs/archive/0d36aee64db767d98c5d2d798491f717f1c7b74c.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限17/21】17周年記念 ~ 声乐和钢琴的现场演奏会 vol.17 【2024年6月18日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5166,7 +5411,8 @@ window.SONG_DATA.push(
   "videoDuration": 2995,
   "partDuration": 252,
   "videos": 10,
-  "viewCount": 201,
+  "viewCount": 217,
+  "cover": "https://i2.hdslb.com/bfs/archive/0d36aee64db767d98c5d2d798491f717f1c7b74c.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限17/21】17周年記念 ~ 声乐和钢琴的现场演奏会 vol.17 【2024年6月18日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5187,7 +5433,8 @@ window.SONG_DATA.push(
   "videoDuration": 4493,
   "partDuration": 194,
   "videos": 14,
-  "viewCount": 511,
+  "viewCount": 550,
+  "cover": "https://i2.hdslb.com/bfs/archive/10361c674c60911512bac85d6748f2aedc408198.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限18/21】年末特辑！key社歌曲限定 ~ 声乐和钢琴的现场演奏会 vol.18 【2024年12月15日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5208,7 +5455,8 @@ window.SONG_DATA.push(
   "videoDuration": 4493,
   "partDuration": 301,
   "videos": 14,
-  "viewCount": 511,
+  "viewCount": 550,
+  "cover": "https://i2.hdslb.com/bfs/archive/10361c674c60911512bac85d6748f2aedc408198.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限18/21】年末特辑！key社歌曲限定 ~ 声乐和钢琴的现场演奏会 vol.18 【2024年12月15日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5229,7 +5477,8 @@ window.SONG_DATA.push(
   "videoDuration": 4493,
   "partDuration": 349,
   "videos": 14,
-  "viewCount": 511,
+  "viewCount": 550,
+  "cover": "https://i2.hdslb.com/bfs/archive/10361c674c60911512bac85d6748f2aedc408198.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限18/21】年末特辑！key社歌曲限定 ~ 声乐和钢琴的现场演奏会 vol.18 【2024年12月15日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5250,7 +5499,8 @@ window.SONG_DATA.push(
   "videoDuration": 4493,
   "partDuration": 309,
   "videos": 14,
-  "viewCount": 511,
+  "viewCount": 550,
+  "cover": "https://i2.hdslb.com/bfs/archive/10361c674c60911512bac85d6748f2aedc408198.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限18/21】年末特辑！key社歌曲限定 ~ 声乐和钢琴的现场演奏会 vol.18 【2024年12月15日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5271,7 +5521,8 @@ window.SONG_DATA.push(
   "videoDuration": 4493,
   "partDuration": 298,
   "videos": 14,
-  "viewCount": 511,
+  "viewCount": 550,
+  "cover": "https://i2.hdslb.com/bfs/archive/10361c674c60911512bac85d6748f2aedc408198.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限18/21】年末特辑！key社歌曲限定 ~ 声乐和钢琴的现场演奏会 vol.18 【2024年12月15日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5292,7 +5543,8 @@ window.SONG_DATA.push(
   "videoDuration": 4493,
   "partDuration": 382,
   "videos": 14,
-  "viewCount": 511,
+  "viewCount": 550,
+  "cover": "https://i2.hdslb.com/bfs/archive/10361c674c60911512bac85d6748f2aedc408198.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限18/21】年末特辑！key社歌曲限定 ~ 声乐和钢琴的现场演奏会 vol.18 【2024年12月15日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5313,7 +5565,8 @@ window.SONG_DATA.push(
   "videoDuration": 4493,
   "partDuration": 247,
   "videos": 14,
-  "viewCount": 511,
+  "viewCount": 550,
+  "cover": "https://i2.hdslb.com/bfs/archive/10361c674c60911512bac85d6748f2aedc408198.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限18/21】年末特辑！key社歌曲限定 ~ 声乐和钢琴的现场演奏会 vol.18 【2024年12月15日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5334,7 +5587,8 @@ window.SONG_DATA.push(
   "videoDuration": 4493,
   "partDuration": 371,
   "videos": 14,
-  "viewCount": 511,
+  "viewCount": 550,
+  "cover": "https://i2.hdslb.com/bfs/archive/10361c674c60911512bac85d6748f2aedc408198.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限18/21】年末特辑！key社歌曲限定 ~ 声乐和钢琴的现场演奏会 vol.18 【2024年12月15日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5355,7 +5609,8 @@ window.SONG_DATA.push(
   "videoDuration": 4493,
   "partDuration": 326,
   "videos": 14,
-  "viewCount": 511,
+  "viewCount": 550,
+  "cover": "https://i2.hdslb.com/bfs/archive/10361c674c60911512bac85d6748f2aedc408198.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限18/21】年末特辑！key社歌曲限定 ~ 声乐和钢琴的现场演奏会 vol.18 【2024年12月15日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5376,7 +5631,8 @@ window.SONG_DATA.push(
   "videoDuration": 4493,
   "partDuration": 324,
   "videos": 14,
-  "viewCount": 511,
+  "viewCount": 550,
+  "cover": "https://i2.hdslb.com/bfs/archive/10361c674c60911512bac85d6748f2aedc408198.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限18/21】年末特辑！key社歌曲限定 ~ 声乐和钢琴的现场演奏会 vol.18 【2024年12月15日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5397,7 +5653,8 @@ window.SONG_DATA.push(
   "videoDuration": 4493,
   "partDuration": 260,
   "videos": 14,
-  "viewCount": 511,
+  "viewCount": 550,
+  "cover": "https://i2.hdslb.com/bfs/archive/10361c674c60911512bac85d6748f2aedc408198.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限18/21】年末特辑！key社歌曲限定 ~ 声乐和钢琴的现场演奏会 vol.18 【2024年12月15日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5418,7 +5675,8 @@ window.SONG_DATA.push(
   "videoDuration": 4493,
   "partDuration": 380,
   "videos": 14,
-  "viewCount": 511,
+  "viewCount": 550,
+  "cover": "https://i2.hdslb.com/bfs/archive/10361c674c60911512bac85d6748f2aedc408198.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限18/21】年末特辑！key社歌曲限定 ~ 声乐和钢琴的现场演奏会 vol.18 【2024年12月15日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5439,7 +5697,8 @@ window.SONG_DATA.push(
   "videoDuration": 4493,
   "partDuration": 362,
   "videos": 14,
-  "viewCount": 511,
+  "viewCount": 550,
+  "cover": "https://i2.hdslb.com/bfs/archive/10361c674c60911512bac85d6748f2aedc408198.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限18/21】年末特辑！key社歌曲限定 ~ 声乐和钢琴的现场演奏会 vol.18 【2024年12月15日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5460,7 +5719,8 @@ window.SONG_DATA.push(
   "videoDuration": 4493,
   "partDuration": 390,
   "videos": 14,
-  "viewCount": 511,
+  "viewCount": 550,
+  "cover": "https://i2.hdslb.com/bfs/archive/10361c674c60911512bac85d6748f2aedc408198.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限18/21】年末特辑！key社歌曲限定 ~ 声乐和钢琴的现场演奏会 vol.18 【2024年12月15日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5481,7 +5741,8 @@ window.SONG_DATA.push(
   "videoDuration": 4674,
   "partDuration": 276,
   "videos": 17,
-  "viewCount": 347,
+  "viewCount": 380,
+  "cover": "https://i1.hdslb.com/bfs/archive/f3aef5e2a97b4b2faa46f7388bd0dc924c4097ec.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限19/21】声乐和钢琴的现场演奏会 vol.19 【2025年1月25日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5502,7 +5763,8 @@ window.SONG_DATA.push(
   "videoDuration": 4674,
   "partDuration": 276,
   "videos": 17,
-  "viewCount": 347,
+  "viewCount": 380,
+  "cover": "https://i1.hdslb.com/bfs/archive/f3aef5e2a97b4b2faa46f7388bd0dc924c4097ec.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限19/21】声乐和钢琴的现场演奏会 vol.19 【2025年1月25日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5523,7 +5785,8 @@ window.SONG_DATA.push(
   "videoDuration": 4674,
   "partDuration": 196,
   "videos": 17,
-  "viewCount": 347,
+  "viewCount": 380,
+  "cover": "https://i1.hdslb.com/bfs/archive/f3aef5e2a97b4b2faa46f7388bd0dc924c4097ec.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限19/21】声乐和钢琴的现场演奏会 vol.19 【2025年1月25日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5544,7 +5807,8 @@ window.SONG_DATA.push(
   "videoDuration": 4674,
   "partDuration": 252,
   "videos": 17,
-  "viewCount": 347,
+  "viewCount": 380,
+  "cover": "https://i1.hdslb.com/bfs/archive/f3aef5e2a97b4b2faa46f7388bd0dc924c4097ec.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限19/21】声乐和钢琴的现场演奏会 vol.19 【2025年1月25日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5565,7 +5829,8 @@ window.SONG_DATA.push(
   "videoDuration": 4674,
   "partDuration": 259,
   "videos": 17,
-  "viewCount": 347,
+  "viewCount": 380,
+  "cover": "https://i1.hdslb.com/bfs/archive/f3aef5e2a97b4b2faa46f7388bd0dc924c4097ec.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限19/21】声乐和钢琴的现场演奏会 vol.19 【2025年1月25日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5586,7 +5851,8 @@ window.SONG_DATA.push(
   "videoDuration": 4674,
   "partDuration": 282,
   "videos": 17,
-  "viewCount": 347,
+  "viewCount": 380,
+  "cover": "https://i1.hdslb.com/bfs/archive/f3aef5e2a97b4b2faa46f7388bd0dc924c4097ec.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限19/21】声乐和钢琴的现场演奏会 vol.19 【2025年1月25日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5607,7 +5873,8 @@ window.SONG_DATA.push(
   "videoDuration": 4674,
   "partDuration": 322,
   "videos": 17,
-  "viewCount": 347,
+  "viewCount": 380,
+  "cover": "https://i1.hdslb.com/bfs/archive/f3aef5e2a97b4b2faa46f7388bd0dc924c4097ec.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限19/21】声乐和钢琴的现场演奏会 vol.19 【2025年1月25日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5628,7 +5895,8 @@ window.SONG_DATA.push(
   "videoDuration": 4674,
   "partDuration": 366,
   "videos": 17,
-  "viewCount": 347,
+  "viewCount": 380,
+  "cover": "https://i1.hdslb.com/bfs/archive/f3aef5e2a97b4b2faa46f7388bd0dc924c4097ec.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限19/21】声乐和钢琴的现场演奏会 vol.19 【2025年1月25日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5649,7 +5917,8 @@ window.SONG_DATA.push(
   "videoDuration": 4674,
   "partDuration": 294,
   "videos": 17,
-  "viewCount": 347,
+  "viewCount": 380,
+  "cover": "https://i1.hdslb.com/bfs/archive/f3aef5e2a97b4b2faa46f7388bd0dc924c4097ec.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限19/21】声乐和钢琴的现场演奏会 vol.19 【2025年1月25日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5670,7 +5939,8 @@ window.SONG_DATA.push(
   "videoDuration": 4674,
   "partDuration": 274,
   "videos": 17,
-  "viewCount": 347,
+  "viewCount": 380,
+  "cover": "https://i1.hdslb.com/bfs/archive/f3aef5e2a97b4b2faa46f7388bd0dc924c4097ec.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限19/21】声乐和钢琴的现场演奏会 vol.19 【2025年1月25日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5691,7 +5961,8 @@ window.SONG_DATA.push(
   "videoDuration": 4674,
   "partDuration": 304,
   "videos": 17,
-  "viewCount": 347,
+  "viewCount": 380,
+  "cover": "https://i1.hdslb.com/bfs/archive/f3aef5e2a97b4b2faa46f7388bd0dc924c4097ec.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限19/21】声乐和钢琴的现场演奏会 vol.19 【2025年1月25日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5712,7 +5983,8 @@ window.SONG_DATA.push(
   "videoDuration": 4674,
   "partDuration": 378,
   "videos": 17,
-  "viewCount": 347,
+  "viewCount": 380,
+  "cover": "https://i1.hdslb.com/bfs/archive/f3aef5e2a97b4b2faa46f7388bd0dc924c4097ec.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限19/21】声乐和钢琴的现场演奏会 vol.19 【2025年1月25日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5733,7 +6005,8 @@ window.SONG_DATA.push(
   "videoDuration": 4674,
   "partDuration": 297,
   "videos": 17,
-  "viewCount": 347,
+  "viewCount": 380,
+  "cover": "https://i1.hdslb.com/bfs/archive/f3aef5e2a97b4b2faa46f7388bd0dc924c4097ec.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限19/21】声乐和钢琴的现场演奏会 vol.19 【2025年1月25日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5754,7 +6027,8 @@ window.SONG_DATA.push(
   "videoDuration": 4674,
   "partDuration": 279,
   "videos": 17,
-  "viewCount": 347,
+  "viewCount": 380,
+  "cover": "https://i1.hdslb.com/bfs/archive/f3aef5e2a97b4b2faa46f7388bd0dc924c4097ec.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限19/21】声乐和钢琴的现场演奏会 vol.19 【2025年1月25日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5775,7 +6049,8 @@ window.SONG_DATA.push(
   "videoDuration": 4674,
   "partDuration": 299,
   "videos": 17,
-  "viewCount": 347,
+  "viewCount": 380,
+  "cover": "https://i1.hdslb.com/bfs/archive/f3aef5e2a97b4b2faa46f7388bd0dc924c4097ec.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限19/21】声乐和钢琴的现场演奏会 vol.19 【2025年1月25日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5796,7 +6071,8 @@ window.SONG_DATA.push(
   "videoDuration": 4674,
   "partDuration": 269,
   "videos": 17,
-  "viewCount": 347,
+  "viewCount": 380,
+  "cover": "https://i1.hdslb.com/bfs/archive/f3aef5e2a97b4b2faa46f7388bd0dc924c4097ec.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限19/21】声乐和钢琴的现场演奏会 vol.19 【2025年1月25日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5817,7 +6093,8 @@ window.SONG_DATA.push(
   "videoDuration": 4674,
   "partDuration": 51,
   "videos": 17,
-  "viewCount": 347,
+  "viewCount": 380,
+  "cover": "https://i1.hdslb.com/bfs/archive/f3aef5e2a97b4b2faa46f7388bd0dc924c4097ec.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限19/21】声乐和钢琴的现场演奏会 vol.19 【2025年1月25日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5838,7 +6115,8 @@ window.SONG_DATA.push(
   "videoDuration": 1627,
   "partDuration": 322,
   "videos": 5,
-  "viewCount": 1777,
+  "viewCount": 1805,
+  "cover": "https://i1.hdslb.com/bfs/archive/5501363ce5d67b3a4ed54fb91699a7d3c3c598c0.jpg@160w_90h_1c.webp",
   "videoTitle": "简单切一下nayuta的15万粉丝耐久钢琴弹唱直播~",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5859,7 +6137,8 @@ window.SONG_DATA.push(
   "videoDuration": 1627,
   "partDuration": 295,
   "videos": 5,
-  "viewCount": 1777,
+  "viewCount": 1805,
+  "cover": "https://i1.hdslb.com/bfs/archive/5501363ce5d67b3a4ed54fb91699a7d3c3c598c0.jpg@160w_90h_1c.webp",
   "videoTitle": "简单切一下nayuta的15万粉丝耐久钢琴弹唱直播~",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5880,7 +6159,8 @@ window.SONG_DATA.push(
   "videoDuration": 1627,
   "partDuration": 318,
   "videos": 5,
-  "viewCount": 1777,
+  "viewCount": 1805,
+  "cover": "https://i1.hdslb.com/bfs/archive/5501363ce5d67b3a4ed54fb91699a7d3c3c598c0.jpg@160w_90h_1c.webp",
   "videoTitle": "简单切一下nayuta的15万粉丝耐久钢琴弹唱直播~",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5901,7 +6181,8 @@ window.SONG_DATA.push(
   "videoDuration": 1627,
   "partDuration": 314,
   "videos": 5,
-  "viewCount": 1777,
+  "viewCount": 1805,
+  "cover": "https://i1.hdslb.com/bfs/archive/5501363ce5d67b3a4ed54fb91699a7d3c3c598c0.jpg@160w_90h_1c.webp",
   "videoTitle": "简单切一下nayuta的15万粉丝耐久钢琴弹唱直播~",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5922,7 +6203,8 @@ window.SONG_DATA.push(
   "videoDuration": 1627,
   "partDuration": 378,
   "videos": 5,
-  "viewCount": 1777,
+  "viewCount": 1805,
+  "cover": "https://i1.hdslb.com/bfs/archive/5501363ce5d67b3a4ed54fb91699a7d3c3c598c0.jpg@160w_90h_1c.webp",
   "videoTitle": "简单切一下nayuta的15万粉丝耐久钢琴弹唱直播~",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5943,7 +6225,8 @@ window.SONG_DATA.push(
   "videoDuration": 2306,
   "partDuration": 300,
   "videos": 7,
-  "viewCount": 318,
+  "viewCount": 328,
+  "cover": "https://i0.hdslb.com/bfs/archive/c64865d6dafc1323f14b1b6a88797a8f58740f04.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限20 续/21】15万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.20 续~【2025年3月15日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5964,7 +6247,8 @@ window.SONG_DATA.push(
   "videoDuration": 2306,
   "partDuration": 292,
   "videos": 7,
-  "viewCount": 318,
+  "viewCount": 328,
+  "cover": "https://i0.hdslb.com/bfs/archive/c64865d6dafc1323f14b1b6a88797a8f58740f04.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限20 续/21】15万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.20 续~【2025年3月15日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5985,7 +6269,8 @@ window.SONG_DATA.push(
   "videoDuration": 2306,
   "partDuration": 274,
   "videos": 7,
-  "viewCount": 318,
+  "viewCount": 328,
+  "cover": "https://i0.hdslb.com/bfs/archive/c64865d6dafc1323f14b1b6a88797a8f58740f04.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限20 续/21】15万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.20 续~【2025年3月15日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6006,7 +6291,8 @@ window.SONG_DATA.push(
   "videoDuration": 2306,
   "partDuration": 401,
   "videos": 7,
-  "viewCount": 318,
+  "viewCount": 328,
+  "cover": "https://i0.hdslb.com/bfs/archive/c64865d6dafc1323f14b1b6a88797a8f58740f04.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限20 续/21】15万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.20 续~【2025年3月15日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6027,7 +6313,8 @@ window.SONG_DATA.push(
   "videoDuration": 2306,
   "partDuration": 434,
   "videos": 7,
-  "viewCount": 318,
+  "viewCount": 328,
+  "cover": "https://i0.hdslb.com/bfs/archive/c64865d6dafc1323f14b1b6a88797a8f58740f04.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限20 续/21】15万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.20 续~【2025年3月15日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6048,7 +6335,8 @@ window.SONG_DATA.push(
   "videoDuration": 2306,
   "partDuration": 297,
   "videos": 7,
-  "viewCount": 318,
+  "viewCount": 328,
+  "cover": "https://i0.hdslb.com/bfs/archive/c64865d6dafc1323f14b1b6a88797a8f58740f04.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限20 续/21】15万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.20 续~【2025年3月15日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6069,7 +6357,8 @@ window.SONG_DATA.push(
   "videoDuration": 2306,
   "partDuration": 308,
   "videos": 7,
-  "viewCount": 318,
+  "viewCount": 328,
+  "cover": "https://i0.hdslb.com/bfs/archive/c64865d6dafc1323f14b1b6a88797a8f58740f04.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限20 续/21】15万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.20 续~【2025年3月15日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6090,7 +6379,8 @@ window.SONG_DATA.push(
   "videoDuration": 2752,
   "partDuration": 325,
   "videos": 9,
-  "viewCount": 1104,
+  "viewCount": 1126,
+  "cover": "https://i2.hdslb.com/bfs/archive/70bc48544618711cadb24982820ec440af3e4d33.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限21/21】18周年記念 ~ 声乐和钢琴的现场演奏会 vol.21 【2025年6月18日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6111,7 +6401,8 @@ window.SONG_DATA.push(
   "videoDuration": 2752,
   "partDuration": 306,
   "videos": 9,
-  "viewCount": 1104,
+  "viewCount": 1126,
+  "cover": "https://i2.hdslb.com/bfs/archive/70bc48544618711cadb24982820ec440af3e4d33.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限21/21】18周年記念 ~ 声乐和钢琴的现场演奏会 vol.21 【2025年6月18日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6132,7 +6423,8 @@ window.SONG_DATA.push(
   "videoDuration": 2752,
   "partDuration": 377,
   "videos": 9,
-  "viewCount": 1104,
+  "viewCount": 1126,
+  "cover": "https://i2.hdslb.com/bfs/archive/70bc48544618711cadb24982820ec440af3e4d33.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限21/21】18周年記念 ~ 声乐和钢琴的现场演奏会 vol.21 【2025年6月18日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6153,7 +6445,8 @@ window.SONG_DATA.push(
   "videoDuration": 2752,
   "partDuration": 258,
   "videos": 9,
-  "viewCount": 1104,
+  "viewCount": 1126,
+  "cover": "https://i2.hdslb.com/bfs/archive/70bc48544618711cadb24982820ec440af3e4d33.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限21/21】18周年記念 ~ 声乐和钢琴的现场演奏会 vol.21 【2025年6月18日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6174,7 +6467,8 @@ window.SONG_DATA.push(
   "videoDuration": 2752,
   "partDuration": 327,
   "videos": 9,
-  "viewCount": 1104,
+  "viewCount": 1126,
+  "cover": "https://i2.hdslb.com/bfs/archive/70bc48544618711cadb24982820ec440af3e4d33.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限21/21】18周年記念 ~ 声乐和钢琴的现场演奏会 vol.21 【2025年6月18日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6195,7 +6489,8 @@ window.SONG_DATA.push(
   "videoDuration": 2752,
   "partDuration": 282,
   "videos": 9,
-  "viewCount": 1104,
+  "viewCount": 1126,
+  "cover": "https://i2.hdslb.com/bfs/archive/70bc48544618711cadb24982820ec440af3e4d33.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限21/21】18周年記念 ~ 声乐和钢琴的现场演奏会 vol.21 【2025年6月18日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6216,7 +6511,8 @@ window.SONG_DATA.push(
   "videoDuration": 2752,
   "partDuration": 331,
   "videos": 9,
-  "viewCount": 1104,
+  "viewCount": 1126,
+  "cover": "https://i2.hdslb.com/bfs/archive/70bc48544618711cadb24982820ec440af3e4d33.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限21/21】18周年記念 ~ 声乐和钢琴的现场演奏会 vol.21 【2025年6月18日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6237,7 +6533,8 @@ window.SONG_DATA.push(
   "videoDuration": 2752,
   "partDuration": 241,
   "videos": 9,
-  "viewCount": 1104,
+  "viewCount": 1126,
+  "cover": "https://i2.hdslb.com/bfs/archive/70bc48544618711cadb24982820ec440af3e4d33.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限21/21】18周年記念 ~ 声乐和钢琴的现场演奏会 vol.21 【2025年6月18日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6258,7 +6555,8 @@ window.SONG_DATA.push(
   "videoDuration": 2752,
   "partDuration": 305,
   "videos": 9,
-  "viewCount": 1104,
+  "viewCount": 1126,
+  "cover": "https://i2.hdslb.com/bfs/archive/70bc48544618711cadb24982820ec440af3e4d33.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限21/21】18周年記念 ~ 声乐和钢琴的现场演奏会 vol.21 【2025年6月18日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6279,7 +6577,8 @@ window.SONG_DATA.push(
   "videoDuration": 3001,
   "partDuration": 307,
   "videos": 9,
-  "viewCount": 764,
+  "viewCount": 780,
+  "cover": "https://i0.hdslb.com/bfs/archive/60d541e5509b10a1c1339ed70474812b6e407902.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 生演奏切片 22/22】生日歌回 ~ 声乐和钢琴的现场演奏会 vol.22 【2025年9月27日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6300,7 +6599,8 @@ window.SONG_DATA.push(
   "videoDuration": 3001,
   "partDuration": 294,
   "videos": 9,
-  "viewCount": 764,
+  "viewCount": 780,
+  "cover": "https://i0.hdslb.com/bfs/archive/60d541e5509b10a1c1339ed70474812b6e407902.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 生演奏切片 22/22】生日歌回 ~ 声乐和钢琴的现场演奏会 vol.22 【2025年9月27日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6321,7 +6621,8 @@ window.SONG_DATA.push(
   "videoDuration": 3001,
   "partDuration": 369,
   "videos": 9,
-  "viewCount": 764,
+  "viewCount": 780,
+  "cover": "https://i0.hdslb.com/bfs/archive/60d541e5509b10a1c1339ed70474812b6e407902.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 生演奏切片 22/22】生日歌回 ~ 声乐和钢琴的现场演奏会 vol.22 【2025年9月27日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6342,7 +6643,8 @@ window.SONG_DATA.push(
   "videoDuration": 3001,
   "partDuration": 302,
   "videos": 9,
-  "viewCount": 764,
+  "viewCount": 780,
+  "cover": "https://i0.hdslb.com/bfs/archive/60d541e5509b10a1c1339ed70474812b6e407902.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 生演奏切片 22/22】生日歌回 ~ 声乐和钢琴的现场演奏会 vol.22 【2025年9月27日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6363,7 +6665,8 @@ window.SONG_DATA.push(
   "videoDuration": 3001,
   "partDuration": 364,
   "videos": 9,
-  "viewCount": 764,
+  "viewCount": 780,
+  "cover": "https://i0.hdslb.com/bfs/archive/60d541e5509b10a1c1339ed70474812b6e407902.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 生演奏切片 22/22】生日歌回 ~ 声乐和钢琴的现场演奏会 vol.22 【2025年9月27日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6384,7 +6687,8 @@ window.SONG_DATA.push(
   "videoDuration": 3001,
   "partDuration": 400,
   "videos": 9,
-  "viewCount": 764,
+  "viewCount": 780,
+  "cover": "https://i0.hdslb.com/bfs/archive/60d541e5509b10a1c1339ed70474812b6e407902.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 生演奏切片 22/22】生日歌回 ~ 声乐和钢琴的现场演奏会 vol.22 【2025年9月27日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6405,7 +6709,8 @@ window.SONG_DATA.push(
   "videoDuration": 3001,
   "partDuration": 395,
   "videos": 9,
-  "viewCount": 764,
+  "viewCount": 780,
+  "cover": "https://i0.hdslb.com/bfs/archive/60d541e5509b10a1c1339ed70474812b6e407902.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 生演奏切片 22/22】生日歌回 ~ 声乐和钢琴的现场演奏会 vol.22 【2025年9月27日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6426,7 +6731,8 @@ window.SONG_DATA.push(
   "videoDuration": 3001,
   "partDuration": 273,
   "videos": 9,
-  "viewCount": 764,
+  "viewCount": 780,
+  "cover": "https://i0.hdslb.com/bfs/archive/60d541e5509b10a1c1339ed70474812b6e407902.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 生演奏切片 22/22】生日歌回 ~ 声乐和钢琴的现场演奏会 vol.22 【2025年9月27日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6447,7 +6753,8 @@ window.SONG_DATA.push(
   "videoDuration": 3001,
   "partDuration": 297,
   "videos": 9,
-  "viewCount": 764,
+  "viewCount": 780,
+  "cover": "https://i0.hdslb.com/bfs/archive/60d541e5509b10a1c1339ed70474812b6e407902.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 生演奏切片 22/22】生日歌回 ~ 声乐和钢琴的现场演奏会 vol.22 【2025年9月27日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6468,7 +6775,8 @@ window.SONG_DATA.push(
   "videoDuration": 3959,
   "partDuration": 303,
   "videos": 13,
-  "viewCount": 938,
+  "viewCount": 1055,
+  "cover": "https://i2.hdslb.com/bfs/archive/5f449401283c9b2ccf4885844a0f1094605cc26f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta_live_vol.23】17万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.23【2025年10月23日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6489,7 +6797,8 @@ window.SONG_DATA.push(
   "videoDuration": 3959,
   "partDuration": 396,
   "videos": 13,
-  "viewCount": 938,
+  "viewCount": 1055,
+  "cover": "https://i2.hdslb.com/bfs/archive/5f449401283c9b2ccf4885844a0f1094605cc26f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta_live_vol.23】17万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.23【2025年10月23日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6510,7 +6819,8 @@ window.SONG_DATA.push(
   "videoDuration": 3959,
   "partDuration": 325,
   "videos": 13,
-  "viewCount": 938,
+  "viewCount": 1055,
+  "cover": "https://i2.hdslb.com/bfs/archive/5f449401283c9b2ccf4885844a0f1094605cc26f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta_live_vol.23】17万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.23【2025年10月23日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6531,7 +6841,8 @@ window.SONG_DATA.push(
   "videoDuration": 3959,
   "partDuration": 242,
   "videos": 13,
-  "viewCount": 938,
+  "viewCount": 1055,
+  "cover": "https://i2.hdslb.com/bfs/archive/5f449401283c9b2ccf4885844a0f1094605cc26f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta_live_vol.23】17万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.23【2025年10月23日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6552,7 +6863,8 @@ window.SONG_DATA.push(
   "videoDuration": 3959,
   "partDuration": 304,
   "videos": 13,
-  "viewCount": 938,
+  "viewCount": 1055,
+  "cover": "https://i2.hdslb.com/bfs/archive/5f449401283c9b2ccf4885844a0f1094605cc26f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta_live_vol.23】17万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.23【2025年10月23日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6573,7 +6885,8 @@ window.SONG_DATA.push(
   "videoDuration": 3959,
   "partDuration": 325,
   "videos": 13,
-  "viewCount": 938,
+  "viewCount": 1055,
+  "cover": "https://i2.hdslb.com/bfs/archive/5f449401283c9b2ccf4885844a0f1094605cc26f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta_live_vol.23】17万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.23【2025年10月23日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6594,7 +6907,8 @@ window.SONG_DATA.push(
   "videoDuration": 3959,
   "partDuration": 304,
   "videos": 13,
-  "viewCount": 938,
+  "viewCount": 1055,
+  "cover": "https://i2.hdslb.com/bfs/archive/5f449401283c9b2ccf4885844a0f1094605cc26f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta_live_vol.23】17万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.23【2025年10月23日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6615,7 +6929,8 @@ window.SONG_DATA.push(
   "videoDuration": 3959,
   "partDuration": 266,
   "videos": 13,
-  "viewCount": 938,
+  "viewCount": 1055,
+  "cover": "https://i2.hdslb.com/bfs/archive/5f449401283c9b2ccf4885844a0f1094605cc26f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta_live_vol.23】17万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.23【2025年10月23日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6636,7 +6951,8 @@ window.SONG_DATA.push(
   "videoDuration": 3959,
   "partDuration": 266,
   "videos": 13,
-  "viewCount": 938,
+  "viewCount": 1055,
+  "cover": "https://i2.hdslb.com/bfs/archive/5f449401283c9b2ccf4885844a0f1094605cc26f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta_live_vol.23】17万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.23【2025年10月23日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6657,7 +6973,8 @@ window.SONG_DATA.push(
   "videoDuration": 3959,
   "partDuration": 319,
   "videos": 13,
-  "viewCount": 938,
+  "viewCount": 1055,
+  "cover": "https://i2.hdslb.com/bfs/archive/5f449401283c9b2ccf4885844a0f1094605cc26f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta_live_vol.23】17万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.23【2025年10月23日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6678,7 +6995,8 @@ window.SONG_DATA.push(
   "videoDuration": 3959,
   "partDuration": 288,
   "videos": 13,
-  "viewCount": 938,
+  "viewCount": 1055,
+  "cover": "https://i2.hdslb.com/bfs/archive/5f449401283c9b2ccf4885844a0f1094605cc26f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta_live_vol.23】17万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.23【2025年10月23日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6699,7 +7017,8 @@ window.SONG_DATA.push(
   "videoDuration": 3959,
   "partDuration": 344,
   "videos": 13,
-  "viewCount": 938,
+  "viewCount": 1055,
+  "cover": "https://i2.hdslb.com/bfs/archive/5f449401283c9b2ccf4885844a0f1094605cc26f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta_live_vol.23】17万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.23【2025年10月23日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6720,7 +7039,8 @@ window.SONG_DATA.push(
   "videoDuration": 3959,
   "partDuration": 277,
   "videos": 13,
-  "viewCount": 938,
+  "viewCount": 1055,
+  "cover": "https://i2.hdslb.com/bfs/archive/5f449401283c9b2ccf4885844a0f1094605cc26f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta_live_vol.23】17万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.23【2025年10月23日】【生演奏系列】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6741,7 +7061,8 @@ window.SONG_DATA.push(
   "videoDuration": 3721,
   "partDuration": 243,
   "videos": 14,
-  "viewCount": 632,
+  "viewCount": 703,
+  "cover": "https://i2.hdslb.com/bfs/archive/32adfdea5db2c717a5350f127169dc7dc12d4897.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌切】 vol.24 生演奏ライブ～謹賀新年～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6762,7 +7083,8 @@ window.SONG_DATA.push(
   "videoDuration": 3721,
   "partDuration": 279,
   "videos": 14,
-  "viewCount": 632,
+  "viewCount": 703,
+  "cover": "https://i2.hdslb.com/bfs/archive/32adfdea5db2c717a5350f127169dc7dc12d4897.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌切】 vol.24 生演奏ライブ～謹賀新年～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6783,7 +7105,8 @@ window.SONG_DATA.push(
   "videoDuration": 3721,
   "partDuration": 265,
   "videos": 14,
-  "viewCount": 632,
+  "viewCount": 703,
+  "cover": "https://i2.hdslb.com/bfs/archive/32adfdea5db2c717a5350f127169dc7dc12d4897.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌切】 vol.24 生演奏ライブ～謹賀新年～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6804,7 +7127,8 @@ window.SONG_DATA.push(
   "videoDuration": 3721,
   "partDuration": 321,
   "videos": 14,
-  "viewCount": 632,
+  "viewCount": 703,
+  "cover": "https://i2.hdslb.com/bfs/archive/32adfdea5db2c717a5350f127169dc7dc12d4897.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌切】 vol.24 生演奏ライブ～謹賀新年～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6825,7 +7149,8 @@ window.SONG_DATA.push(
   "videoDuration": 3721,
   "partDuration": 234,
   "videos": 14,
-  "viewCount": 632,
+  "viewCount": 703,
+  "cover": "https://i2.hdslb.com/bfs/archive/32adfdea5db2c717a5350f127169dc7dc12d4897.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌切】 vol.24 生演奏ライブ～謹賀新年～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6846,7 +7171,8 @@ window.SONG_DATA.push(
   "videoDuration": 3721,
   "partDuration": 236,
   "videos": 14,
-  "viewCount": 632,
+  "viewCount": 703,
+  "cover": "https://i2.hdslb.com/bfs/archive/32adfdea5db2c717a5350f127169dc7dc12d4897.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌切】 vol.24 生演奏ライブ～謹賀新年～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6867,7 +7193,8 @@ window.SONG_DATA.push(
   "videoDuration": 3721,
   "partDuration": 313,
   "videos": 14,
-  "viewCount": 632,
+  "viewCount": 703,
+  "cover": "https://i2.hdslb.com/bfs/archive/32adfdea5db2c717a5350f127169dc7dc12d4897.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌切】 vol.24 生演奏ライブ～謹賀新年～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6888,7 +7215,8 @@ window.SONG_DATA.push(
   "videoDuration": 3721,
   "partDuration": 239,
   "videos": 14,
-  "viewCount": 632,
+  "viewCount": 703,
+  "cover": "https://i2.hdslb.com/bfs/archive/32adfdea5db2c717a5350f127169dc7dc12d4897.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌切】 vol.24 生演奏ライブ～謹賀新年～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6909,7 +7237,8 @@ window.SONG_DATA.push(
   "videoDuration": 3721,
   "partDuration": 300,
   "videos": 14,
-  "viewCount": 632,
+  "viewCount": 703,
+  "cover": "https://i2.hdslb.com/bfs/archive/32adfdea5db2c717a5350f127169dc7dc12d4897.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌切】 vol.24 生演奏ライブ～謹賀新年～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6930,7 +7259,8 @@ window.SONG_DATA.push(
   "videoDuration": 3721,
   "partDuration": 245,
   "videos": 14,
-  "viewCount": 632,
+  "viewCount": 703,
+  "cover": "https://i2.hdslb.com/bfs/archive/32adfdea5db2c717a5350f127169dc7dc12d4897.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌切】 vol.24 生演奏ライブ～謹賀新年～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6951,7 +7281,8 @@ window.SONG_DATA.push(
   "videoDuration": 3721,
   "partDuration": 280,
   "videos": 14,
-  "viewCount": 632,
+  "viewCount": 703,
+  "cover": "https://i2.hdslb.com/bfs/archive/32adfdea5db2c717a5350f127169dc7dc12d4897.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌切】 vol.24 生演奏ライブ～謹賀新年～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6972,7 +7303,8 @@ window.SONG_DATA.push(
   "videoDuration": 3721,
   "partDuration": 216,
   "videos": 14,
-  "viewCount": 632,
+  "viewCount": 703,
+  "cover": "https://i2.hdslb.com/bfs/archive/32adfdea5db2c717a5350f127169dc7dc12d4897.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌切】 vol.24 生演奏ライブ～謹賀新年～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6993,7 +7325,8 @@ window.SONG_DATA.push(
   "videoDuration": 3721,
   "partDuration": 263,
   "videos": 14,
-  "viewCount": 632,
+  "viewCount": 703,
+  "cover": "https://i2.hdslb.com/bfs/archive/32adfdea5db2c717a5350f127169dc7dc12d4897.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌切】 vol.24 生演奏ライブ～謹賀新年～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7014,7 +7347,8 @@ window.SONG_DATA.push(
   "videoDuration": 3721,
   "partDuration": 287,
   "videos": 14,
-  "viewCount": 632,
+  "viewCount": 703,
+  "cover": "https://i2.hdslb.com/bfs/archive/32adfdea5db2c717a5350f127169dc7dc12d4897.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌切】 vol.24 生演奏ライブ～謹賀新年～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7035,7 +7369,8 @@ window.SONG_DATA.push(
   "videoDuration": 3121,
   "partDuration": 281,
   "videos": 10,
-  "viewCount": 394,
+  "viewCount": 496,
+  "cover": "https://i2.hdslb.com/bfs/archive/6b063a844adb9f2778206ff5a43896eec9438486.png@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切】vol.25 生演奏 Live～唱毕业季的曲目、欢迎来到新学年～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7056,7 +7391,8 @@ window.SONG_DATA.push(
   "videoDuration": 3121,
   "partDuration": 264,
   "videos": 10,
-  "viewCount": 394,
+  "viewCount": 496,
+  "cover": "https://i2.hdslb.com/bfs/archive/6b063a844adb9f2778206ff5a43896eec9438486.png@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切】vol.25 生演奏 Live～唱毕业季的曲目、欢迎来到新学年～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7077,7 +7413,8 @@ window.SONG_DATA.push(
   "videoDuration": 3121,
   "partDuration": 294,
   "videos": 10,
-  "viewCount": 394,
+  "viewCount": 496,
+  "cover": "https://i2.hdslb.com/bfs/archive/6b063a844adb9f2778206ff5a43896eec9438486.png@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切】vol.25 生演奏 Live～唱毕业季的曲目、欢迎来到新学年～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7098,7 +7435,8 @@ window.SONG_DATA.push(
   "videoDuration": 3121,
   "partDuration": 314,
   "videos": 10,
-  "viewCount": 394,
+  "viewCount": 496,
+  "cover": "https://i2.hdslb.com/bfs/archive/6b063a844adb9f2778206ff5a43896eec9438486.png@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切】vol.25 生演奏 Live～唱毕业季的曲目、欢迎来到新学年～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7119,7 +7457,8 @@ window.SONG_DATA.push(
   "videoDuration": 3121,
   "partDuration": 300,
   "videos": 10,
-  "viewCount": 394,
+  "viewCount": 496,
+  "cover": "https://i2.hdslb.com/bfs/archive/6b063a844adb9f2778206ff5a43896eec9438486.png@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切】vol.25 生演奏 Live～唱毕业季的曲目、欢迎来到新学年～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7140,7 +7479,8 @@ window.SONG_DATA.push(
   "videoDuration": 3121,
   "partDuration": 357,
   "videos": 10,
-  "viewCount": 394,
+  "viewCount": 496,
+  "cover": "https://i2.hdslb.com/bfs/archive/6b063a844adb9f2778206ff5a43896eec9438486.png@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切】vol.25 生演奏 Live～唱毕业季的曲目、欢迎来到新学年～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7161,7 +7501,8 @@ window.SONG_DATA.push(
   "videoDuration": 3121,
   "partDuration": 272,
   "videos": 10,
-  "viewCount": 394,
+  "viewCount": 496,
+  "cover": "https://i2.hdslb.com/bfs/archive/6b063a844adb9f2778206ff5a43896eec9438486.png@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切】vol.25 生演奏 Live～唱毕业季的曲目、欢迎来到新学年～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7182,7 +7523,8 @@ window.SONG_DATA.push(
   "videoDuration": 3121,
   "partDuration": 341,
   "videos": 10,
-  "viewCount": 394,
+  "viewCount": 496,
+  "cover": "https://i2.hdslb.com/bfs/archive/6b063a844adb9f2778206ff5a43896eec9438486.png@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切】vol.25 生演奏 Live～唱毕业季的曲目、欢迎来到新学年～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7203,7 +7545,8 @@ window.SONG_DATA.push(
   "videoDuration": 3121,
   "partDuration": 285,
   "videos": 10,
-  "viewCount": 394,
+  "viewCount": 496,
+  "cover": "https://i2.hdslb.com/bfs/archive/6b063a844adb9f2778206ff5a43896eec9438486.png@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切】vol.25 生演奏 Live～唱毕业季的曲目、欢迎来到新学年～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7224,7 +7567,8 @@ window.SONG_DATA.push(
   "videoDuration": 3121,
   "partDuration": 413,
   "videos": 10,
-  "viewCount": 394,
+  "viewCount": 496,
+  "cover": "https://i2.hdslb.com/bfs/archive/6b063a844adb9f2778206ff5a43896eec9438486.png@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切】vol.25 生演奏 Live～唱毕业季的曲目、欢迎来到新学年～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7245,7 +7589,8 @@ window.SONG_DATA.push(
   "videoDuration": 2999,
   "partDuration": 288,
   "videos": 11,
-  "viewCount": 912,
+  "viewCount": 960,
+  "cover": "https://i2.hdslb.com/bfs/archive/68f960b8f905584d4f2b963f271f40171de06edc.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7266,7 +7611,8 @@ window.SONG_DATA.push(
   "videoDuration": 2999,
   "partDuration": 257,
   "videos": 11,
-  "viewCount": 912,
+  "viewCount": 960,
+  "cover": "https://i2.hdslb.com/bfs/archive/68f960b8f905584d4f2b963f271f40171de06edc.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7287,7 +7633,8 @@ window.SONG_DATA.push(
   "videoDuration": 2999,
   "partDuration": 296,
   "videos": 11,
-  "viewCount": 912,
+  "viewCount": 960,
+  "cover": "https://i2.hdslb.com/bfs/archive/68f960b8f905584d4f2b963f271f40171de06edc.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7308,7 +7655,8 @@ window.SONG_DATA.push(
   "videoDuration": 2999,
   "partDuration": 293,
   "videos": 11,
-  "viewCount": 912,
+  "viewCount": 960,
+  "cover": "https://i2.hdslb.com/bfs/archive/68f960b8f905584d4f2b963f271f40171de06edc.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7329,7 +7677,8 @@ window.SONG_DATA.push(
   "videoDuration": 2999,
   "partDuration": 238,
   "videos": 11,
-  "viewCount": 912,
+  "viewCount": 960,
+  "cover": "https://i2.hdslb.com/bfs/archive/68f960b8f905584d4f2b963f271f40171de06edc.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7350,7 +7699,8 @@ window.SONG_DATA.push(
   "videoDuration": 2999,
   "partDuration": 298,
   "videos": 11,
-  "viewCount": 912,
+  "viewCount": 960,
+  "cover": "https://i2.hdslb.com/bfs/archive/68f960b8f905584d4f2b963f271f40171de06edc.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7371,7 +7721,8 @@ window.SONG_DATA.push(
   "videoDuration": 2999,
   "partDuration": 277,
   "videos": 11,
-  "viewCount": 912,
+  "viewCount": 960,
+  "cover": "https://i2.hdslb.com/bfs/archive/68f960b8f905584d4f2b963f271f40171de06edc.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7392,7 +7743,8 @@ window.SONG_DATA.push(
   "videoDuration": 2999,
   "partDuration": 281,
   "videos": 11,
-  "viewCount": 912,
+  "viewCount": 960,
+  "cover": "https://i2.hdslb.com/bfs/archive/68f960b8f905584d4f2b963f271f40171de06edc.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7413,7 +7765,8 @@ window.SONG_DATA.push(
   "videoDuration": 2999,
   "partDuration": 251,
   "videos": 11,
-  "viewCount": 912,
+  "viewCount": 960,
+  "cover": "https://i2.hdslb.com/bfs/archive/68f960b8f905584d4f2b963f271f40171de06edc.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7434,7 +7787,8 @@ window.SONG_DATA.push(
   "videoDuration": 2999,
   "partDuration": 244,
   "videos": 11,
-  "viewCount": 912,
+  "viewCount": 960,
+  "cover": "https://i2.hdslb.com/bfs/archive/68f960b8f905584d4f2b963f271f40171de06edc.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7455,7 +7809,8 @@ window.SONG_DATA.push(
   "videoDuration": 2999,
   "partDuration": 276,
   "videos": 11,
-  "viewCount": 912,
+  "viewCount": 960,
+  "cover": "https://i2.hdslb.com/bfs/archive/68f960b8f905584d4f2b963f271f40171de06edc.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7476,7 +7831,8 @@ window.SONG_DATA.push(
   "videoDuration": 4499,
   "partDuration": 286,
   "videos": 17,
-  "viewCount": 1273,
+  "viewCount": 1300,
+  "cover": "https://i1.hdslb.com/bfs/archive/6871b75667c08cf9709e64e0d7aa01eb857dc058.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7497,7 +7853,8 @@ window.SONG_DATA.push(
   "videoDuration": 4499,
   "partDuration": 271,
   "videos": 17,
-  "viewCount": 1273,
+  "viewCount": 1300,
+  "cover": "https://i1.hdslb.com/bfs/archive/6871b75667c08cf9709e64e0d7aa01eb857dc058.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7518,7 +7875,8 @@ window.SONG_DATA.push(
   "videoDuration": 4499,
   "partDuration": 269,
   "videos": 17,
-  "viewCount": 1273,
+  "viewCount": 1300,
+  "cover": "https://i1.hdslb.com/bfs/archive/6871b75667c08cf9709e64e0d7aa01eb857dc058.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7539,7 +7897,8 @@ window.SONG_DATA.push(
   "videoDuration": 4499,
   "partDuration": 265,
   "videos": 17,
-  "viewCount": 1273,
+  "viewCount": 1300,
+  "cover": "https://i1.hdslb.com/bfs/archive/6871b75667c08cf9709e64e0d7aa01eb857dc058.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7560,7 +7919,8 @@ window.SONG_DATA.push(
   "videoDuration": 4499,
   "partDuration": 292,
   "videos": 17,
-  "viewCount": 1273,
+  "viewCount": 1300,
+  "cover": "https://i1.hdslb.com/bfs/archive/6871b75667c08cf9709e64e0d7aa01eb857dc058.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7581,7 +7941,8 @@ window.SONG_DATA.push(
   "videoDuration": 4499,
   "partDuration": 292,
   "videos": 17,
-  "viewCount": 1273,
+  "viewCount": 1300,
+  "cover": "https://i1.hdslb.com/bfs/archive/6871b75667c08cf9709e64e0d7aa01eb857dc058.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7602,7 +7963,8 @@ window.SONG_DATA.push(
   "videoDuration": 4499,
   "partDuration": 287,
   "videos": 17,
-  "viewCount": 1273,
+  "viewCount": 1300,
+  "cover": "https://i1.hdslb.com/bfs/archive/6871b75667c08cf9709e64e0d7aa01eb857dc058.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7623,7 +7985,8 @@ window.SONG_DATA.push(
   "videoDuration": 4499,
   "partDuration": 235,
   "videos": 17,
-  "viewCount": 1273,
+  "viewCount": 1300,
+  "cover": "https://i1.hdslb.com/bfs/archive/6871b75667c08cf9709e64e0d7aa01eb857dc058.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7644,7 +8007,8 @@ window.SONG_DATA.push(
   "videoDuration": 4499,
   "partDuration": 257,
   "videos": 17,
-  "viewCount": 1273,
+  "viewCount": 1300,
+  "cover": "https://i1.hdslb.com/bfs/archive/6871b75667c08cf9709e64e0d7aa01eb857dc058.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7665,7 +8029,8 @@ window.SONG_DATA.push(
   "videoDuration": 4499,
   "partDuration": 317,
   "videos": 17,
-  "viewCount": 1273,
+  "viewCount": 1300,
+  "cover": "https://i1.hdslb.com/bfs/archive/6871b75667c08cf9709e64e0d7aa01eb857dc058.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7686,7 +8051,8 @@ window.SONG_DATA.push(
   "videoDuration": 4499,
   "partDuration": 188,
   "videos": 17,
-  "viewCount": 1273,
+  "viewCount": 1300,
+  "cover": "https://i1.hdslb.com/bfs/archive/6871b75667c08cf9709e64e0d7aa01eb857dc058.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7707,7 +8073,8 @@ window.SONG_DATA.push(
   "videoDuration": 4499,
   "partDuration": 248,
   "videos": 17,
-  "viewCount": 1273,
+  "viewCount": 1300,
+  "cover": "https://i1.hdslb.com/bfs/archive/6871b75667c08cf9709e64e0d7aa01eb857dc058.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7728,7 +8095,8 @@ window.SONG_DATA.push(
   "videoDuration": 4499,
   "partDuration": 276,
   "videos": 17,
-  "viewCount": 1273,
+  "viewCount": 1300,
+  "cover": "https://i1.hdslb.com/bfs/archive/6871b75667c08cf9709e64e0d7aa01eb857dc058.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7749,7 +8117,8 @@ window.SONG_DATA.push(
   "videoDuration": 4499,
   "partDuration": 261,
   "videos": 17,
-  "viewCount": 1273,
+  "viewCount": 1300,
+  "cover": "https://i1.hdslb.com/bfs/archive/6871b75667c08cf9709e64e0d7aa01eb857dc058.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7770,7 +8139,8 @@ window.SONG_DATA.push(
   "videoDuration": 4499,
   "partDuration": 240,
   "videos": 17,
-  "viewCount": 1273,
+  "viewCount": 1300,
+  "cover": "https://i1.hdslb.com/bfs/archive/6871b75667c08cf9709e64e0d7aa01eb857dc058.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7791,7 +8161,8 @@ window.SONG_DATA.push(
   "videoDuration": 4499,
   "partDuration": 261,
   "videos": 17,
-  "viewCount": 1273,
+  "viewCount": 1300,
+  "cover": "https://i1.hdslb.com/bfs/archive/6871b75667c08cf9709e64e0d7aa01eb857dc058.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7812,7 +8183,8 @@ window.SONG_DATA.push(
   "videoDuration": 4499,
   "partDuration": 254,
   "videos": 17,
-  "viewCount": 1273,
+  "viewCount": 1300,
+  "cover": "https://i1.hdslb.com/bfs/archive/6871b75667c08cf9709e64e0d7aa01eb857dc058.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7833,7 +8205,8 @@ window.SONG_DATA.push(
   "videoDuration": 4804,
   "partDuration": 274,
   "videos": 18,
-  "viewCount": 547,
+  "viewCount": 565,
+  "cover": "https://i1.hdslb.com/bfs/archive/7a4deef64d3638f9114a2e2c74e918db28acc3dd.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7854,7 +8227,8 @@ window.SONG_DATA.push(
   "videoDuration": 4804,
   "partDuration": 256,
   "videos": 18,
-  "viewCount": 547,
+  "viewCount": 565,
+  "cover": "https://i1.hdslb.com/bfs/archive/7a4deef64d3638f9114a2e2c74e918db28acc3dd.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7875,7 +8249,8 @@ window.SONG_DATA.push(
   "videoDuration": 4804,
   "partDuration": 247,
   "videos": 18,
-  "viewCount": 547,
+  "viewCount": 565,
+  "cover": "https://i1.hdslb.com/bfs/archive/7a4deef64d3638f9114a2e2c74e918db28acc3dd.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7896,7 +8271,8 @@ window.SONG_DATA.push(
   "videoDuration": 4804,
   "partDuration": 250,
   "videos": 18,
-  "viewCount": 547,
+  "viewCount": 565,
+  "cover": "https://i1.hdslb.com/bfs/archive/7a4deef64d3638f9114a2e2c74e918db28acc3dd.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7917,7 +8293,8 @@ window.SONG_DATA.push(
   "videoDuration": 4804,
   "partDuration": 315,
   "videos": 18,
-  "viewCount": 547,
+  "viewCount": 565,
+  "cover": "https://i1.hdslb.com/bfs/archive/7a4deef64d3638f9114a2e2c74e918db28acc3dd.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7938,7 +8315,8 @@ window.SONG_DATA.push(
   "videoDuration": 4804,
   "partDuration": 279,
   "videos": 18,
-  "viewCount": 547,
+  "viewCount": 565,
+  "cover": "https://i1.hdslb.com/bfs/archive/7a4deef64d3638f9114a2e2c74e918db28acc3dd.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7959,7 +8337,8 @@ window.SONG_DATA.push(
   "videoDuration": 4804,
   "partDuration": 235,
   "videos": 18,
-  "viewCount": 547,
+  "viewCount": 565,
+  "cover": "https://i1.hdslb.com/bfs/archive/7a4deef64d3638f9114a2e2c74e918db28acc3dd.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7980,7 +8359,8 @@ window.SONG_DATA.push(
   "videoDuration": 4804,
   "partDuration": 281,
   "videos": 18,
-  "viewCount": 547,
+  "viewCount": 565,
+  "cover": "https://i1.hdslb.com/bfs/archive/7a4deef64d3638f9114a2e2c74e918db28acc3dd.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8001,7 +8381,8 @@ window.SONG_DATA.push(
   "videoDuration": 4804,
   "partDuration": 236,
   "videos": 18,
-  "viewCount": 547,
+  "viewCount": 565,
+  "cover": "https://i1.hdslb.com/bfs/archive/7a4deef64d3638f9114a2e2c74e918db28acc3dd.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8022,7 +8403,8 @@ window.SONG_DATA.push(
   "videoDuration": 4804,
   "partDuration": 259,
   "videos": 18,
-  "viewCount": 547,
+  "viewCount": 565,
+  "cover": "https://i1.hdslb.com/bfs/archive/7a4deef64d3638f9114a2e2c74e918db28acc3dd.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8043,7 +8425,8 @@ window.SONG_DATA.push(
   "videoDuration": 4804,
   "partDuration": 228,
   "videos": 18,
-  "viewCount": 547,
+  "viewCount": 565,
+  "cover": "https://i1.hdslb.com/bfs/archive/7a4deef64d3638f9114a2e2c74e918db28acc3dd.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8064,7 +8447,8 @@ window.SONG_DATA.push(
   "videoDuration": 4804,
   "partDuration": 283,
   "videos": 18,
-  "viewCount": 547,
+  "viewCount": 565,
+  "cover": "https://i1.hdslb.com/bfs/archive/7a4deef64d3638f9114a2e2c74e918db28acc3dd.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8085,7 +8469,8 @@ window.SONG_DATA.push(
   "videoDuration": 4804,
   "partDuration": 278,
   "videos": 18,
-  "viewCount": 547,
+  "viewCount": 565,
+  "cover": "https://i1.hdslb.com/bfs/archive/7a4deef64d3638f9114a2e2c74e918db28acc3dd.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8106,7 +8491,8 @@ window.SONG_DATA.push(
   "videoDuration": 4804,
   "partDuration": 284,
   "videos": 18,
-  "viewCount": 547,
+  "viewCount": 565,
+  "cover": "https://i1.hdslb.com/bfs/archive/7a4deef64d3638f9114a2e2c74e918db28acc3dd.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8127,7 +8513,8 @@ window.SONG_DATA.push(
   "videoDuration": 4804,
   "partDuration": 283,
   "videos": 18,
-  "viewCount": 547,
+  "viewCount": 565,
+  "cover": "https://i1.hdslb.com/bfs/archive/7a4deef64d3638f9114a2e2c74e918db28acc3dd.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8148,7 +8535,8 @@ window.SONG_DATA.push(
   "videoDuration": 4804,
   "partDuration": 280,
   "videos": 18,
-  "viewCount": 547,
+  "viewCount": 565,
+  "cover": "https://i1.hdslb.com/bfs/archive/7a4deef64d3638f9114a2e2c74e918db28acc3dd.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8169,7 +8557,8 @@ window.SONG_DATA.push(
   "videoDuration": 4804,
   "partDuration": 275,
   "videos": 18,
-  "viewCount": 547,
+  "viewCount": 565,
+  "cover": "https://i1.hdslb.com/bfs/archive/7a4deef64d3638f9114a2e2c74e918db28acc3dd.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8190,7 +8579,8 @@ window.SONG_DATA.push(
   "videoDuration": 4804,
   "partDuration": 261,
   "videos": 18,
-  "viewCount": 547,
+  "viewCount": 565,
+  "cover": "https://i1.hdslb.com/bfs/archive/7a4deef64d3638f9114a2e2c74e918db28acc3dd.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8211,7 +8601,8 @@ window.SONG_DATA.push(
   "videoDuration": 3308,
   "partDuration": 319,
   "videos": 13,
-  "viewCount": 392,
+  "viewCount": 442,
+  "cover": "https://i2.hdslb.com/bfs/archive/c74ac966d0e2991ed026834d795953c21b37ce54.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8232,7 +8623,8 @@ window.SONG_DATA.push(
   "videoDuration": 3308,
   "partDuration": 222,
   "videos": 13,
-  "viewCount": 392,
+  "viewCount": 442,
+  "cover": "https://i2.hdslb.com/bfs/archive/c74ac966d0e2991ed026834d795953c21b37ce54.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8253,7 +8645,8 @@ window.SONG_DATA.push(
   "videoDuration": 3308,
   "partDuration": 228,
   "videos": 13,
-  "viewCount": 392,
+  "viewCount": 442,
+  "cover": "https://i2.hdslb.com/bfs/archive/c74ac966d0e2991ed026834d795953c21b37ce54.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8274,7 +8667,8 @@ window.SONG_DATA.push(
   "videoDuration": 3308,
   "partDuration": 227,
   "videos": 13,
-  "viewCount": 392,
+  "viewCount": 442,
+  "cover": "https://i2.hdslb.com/bfs/archive/c74ac966d0e2991ed026834d795953c21b37ce54.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8295,7 +8689,8 @@ window.SONG_DATA.push(
   "videoDuration": 3308,
   "partDuration": 88,
   "videos": 13,
-  "viewCount": 392,
+  "viewCount": 442,
+  "cover": "https://i2.hdslb.com/bfs/archive/c74ac966d0e2991ed026834d795953c21b37ce54.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8316,7 +8711,8 @@ window.SONG_DATA.push(
   "videoDuration": 3308,
   "partDuration": 259,
   "videos": 13,
-  "viewCount": 392,
+  "viewCount": 442,
+  "cover": "https://i2.hdslb.com/bfs/archive/c74ac966d0e2991ed026834d795953c21b37ce54.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8337,7 +8733,8 @@ window.SONG_DATA.push(
   "videoDuration": 3308,
   "partDuration": 246,
   "videos": 13,
-  "viewCount": 392,
+  "viewCount": 442,
+  "cover": "https://i2.hdslb.com/bfs/archive/c74ac966d0e2991ed026834d795953c21b37ce54.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8358,7 +8755,8 @@ window.SONG_DATA.push(
   "videoDuration": 3308,
   "partDuration": 217,
   "videos": 13,
-  "viewCount": 392,
+  "viewCount": 442,
+  "cover": "https://i2.hdslb.com/bfs/archive/c74ac966d0e2991ed026834d795953c21b37ce54.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8379,7 +8777,8 @@ window.SONG_DATA.push(
   "videoDuration": 3308,
   "partDuration": 297,
   "videos": 13,
-  "viewCount": 392,
+  "viewCount": 442,
+  "cover": "https://i2.hdslb.com/bfs/archive/c74ac966d0e2991ed026834d795953c21b37ce54.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8400,7 +8799,8 @@ window.SONG_DATA.push(
   "videoDuration": 3308,
   "partDuration": 288,
   "videos": 13,
-  "viewCount": 392,
+  "viewCount": 442,
+  "cover": "https://i2.hdslb.com/bfs/archive/c74ac966d0e2991ed026834d795953c21b37ce54.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8421,7 +8821,8 @@ window.SONG_DATA.push(
   "videoDuration": 3308,
   "partDuration": 259,
   "videos": 13,
-  "viewCount": 392,
+  "viewCount": 442,
+  "cover": "https://i2.hdslb.com/bfs/archive/c74ac966d0e2991ed026834d795953c21b37ce54.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8442,7 +8843,8 @@ window.SONG_DATA.push(
   "videoDuration": 3308,
   "partDuration": 293,
   "videos": 13,
-  "viewCount": 392,
+  "viewCount": 442,
+  "cover": "https://i2.hdslb.com/bfs/archive/c74ac966d0e2991ed026834d795953c21b37ce54.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8463,7 +8865,8 @@ window.SONG_DATA.push(
   "videoDuration": 3308,
   "partDuration": 365,
   "videos": 13,
-  "viewCount": 392,
+  "viewCount": 442,
+  "cover": "https://i2.hdslb.com/bfs/archive/c74ac966d0e2991ed026834d795953c21b37ce54.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8484,7 +8887,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 333,
   "videos": 15,
-  "viewCount": 1255,
+  "viewCount": 1286,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8505,7 +8909,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 330,
   "videos": 15,
-  "viewCount": 1255,
+  "viewCount": 1286,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8526,7 +8931,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 340,
   "videos": 15,
-  "viewCount": 1255,
+  "viewCount": 1286,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8547,7 +8953,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 263,
   "videos": 15,
-  "viewCount": 1255,
+  "viewCount": 1286,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8568,7 +8975,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 249,
   "videos": 15,
-  "viewCount": 1255,
+  "viewCount": 1286,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8589,7 +8997,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 271,
   "videos": 15,
-  "viewCount": 1255,
+  "viewCount": 1286,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8610,7 +9019,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 322,
   "videos": 15,
-  "viewCount": 1255,
+  "viewCount": 1286,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8631,7 +9041,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 384,
   "videos": 15,
-  "viewCount": 1255,
+  "viewCount": 1286,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8652,7 +9063,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 291,
   "videos": 15,
-  "viewCount": 1255,
+  "viewCount": 1286,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8673,7 +9085,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 263,
   "videos": 15,
-  "viewCount": 1255,
+  "viewCount": 1286,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8694,7 +9107,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 292,
   "videos": 15,
-  "viewCount": 1255,
+  "viewCount": 1286,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8715,7 +9129,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 375,
   "videos": 15,
-  "viewCount": 1255,
+  "viewCount": 1286,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8736,7 +9151,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 330,
   "videos": 15,
-  "viewCount": 1255,
+  "viewCount": 1286,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8757,7 +9173,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 294,
   "videos": 15,
-  "viewCount": 1255,
+  "viewCount": 1286,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8778,7 +9195,8 @@ window.SONG_DATA.push(
   "videoDuration": 4550,
   "partDuration": 213,
   "videos": 15,
-  "viewCount": 1255,
+  "viewCount": 1286,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8799,7 +9217,8 @@ window.SONG_DATA.push(
   "videoDuration": 2831,
   "partDuration": 255,
   "videos": 11,
-  "viewCount": 560,
+  "viewCount": 581,
+  "cover": "https://i2.hdslb.com/bfs/archive/92c7ed89e2185973a99902e0266899b18c2a95b2.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】卡拉OK（相对性理论，应该属于可爱歌回 ~2023年2月14日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8820,7 +9239,8 @@ window.SONG_DATA.push(
   "videoDuration": 2831,
   "partDuration": 197,
   "videos": 11,
-  "viewCount": 560,
+  "viewCount": 581,
+  "cover": "https://i2.hdslb.com/bfs/archive/92c7ed89e2185973a99902e0266899b18c2a95b2.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】卡拉OK（相对性理论，应该属于可爱歌回 ~2023年2月14日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8841,7 +9261,8 @@ window.SONG_DATA.push(
   "videoDuration": 2831,
   "partDuration": 197,
   "videos": 11,
-  "viewCount": 560,
+  "viewCount": 581,
+  "cover": "https://i2.hdslb.com/bfs/archive/92c7ed89e2185973a99902e0266899b18c2a95b2.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】卡拉OK（相对性理论，应该属于可爱歌回 ~2023年2月14日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8862,7 +9283,8 @@ window.SONG_DATA.push(
   "videoDuration": 2831,
   "partDuration": 186,
   "videos": 11,
-  "viewCount": 560,
+  "viewCount": 581,
+  "cover": "https://i2.hdslb.com/bfs/archive/92c7ed89e2185973a99902e0266899b18c2a95b2.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】卡拉OK（相对性理论，应该属于可爱歌回 ~2023年2月14日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8883,7 +9305,8 @@ window.SONG_DATA.push(
   "videoDuration": 2831,
   "partDuration": 383,
   "videos": 11,
-  "viewCount": 560,
+  "viewCount": 581,
+  "cover": "https://i2.hdslb.com/bfs/archive/92c7ed89e2185973a99902e0266899b18c2a95b2.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】卡拉OK（相对性理论，应该属于可爱歌回 ~2023年2月14日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8904,7 +9327,8 @@ window.SONG_DATA.push(
   "videoDuration": 2831,
   "partDuration": 256,
   "videos": 11,
-  "viewCount": 560,
+  "viewCount": 581,
+  "cover": "https://i2.hdslb.com/bfs/archive/92c7ed89e2185973a99902e0266899b18c2a95b2.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】卡拉OK（相对性理论，应该属于可爱歌回 ~2023年2月14日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8925,7 +9349,8 @@ window.SONG_DATA.push(
   "videoDuration": 2831,
   "partDuration": 247,
   "videos": 11,
-  "viewCount": 560,
+  "viewCount": 581,
+  "cover": "https://i2.hdslb.com/bfs/archive/92c7ed89e2185973a99902e0266899b18c2a95b2.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】卡拉OK（相对性理论，应该属于可爱歌回 ~2023年2月14日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8946,7 +9371,8 @@ window.SONG_DATA.push(
   "videoDuration": 2831,
   "partDuration": 230,
   "videos": 11,
-  "viewCount": 560,
+  "viewCount": 581,
+  "cover": "https://i2.hdslb.com/bfs/archive/92c7ed89e2185973a99902e0266899b18c2a95b2.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】卡拉OK（相对性理论，应该属于可爱歌回 ~2023年2月14日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8967,7 +9393,8 @@ window.SONG_DATA.push(
   "videoDuration": 2831,
   "partDuration": 411,
   "videos": 11,
-  "viewCount": 560,
+  "viewCount": 581,
+  "cover": "https://i2.hdslb.com/bfs/archive/92c7ed89e2185973a99902e0266899b18c2a95b2.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】卡拉OK（相对性理论，应该属于可爱歌回 ~2023年2月14日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8988,7 +9415,8 @@ window.SONG_DATA.push(
   "videoDuration": 2831,
   "partDuration": 217,
   "videos": 11,
-  "viewCount": 560,
+  "viewCount": 581,
+  "cover": "https://i2.hdslb.com/bfs/archive/92c7ed89e2185973a99902e0266899b18c2a95b2.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】卡拉OK（相对性理论，应该属于可爱歌回 ~2023年2月14日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9009,7 +9437,8 @@ window.SONG_DATA.push(
   "videoDuration": 2831,
   "partDuration": 252,
   "videos": 11,
-  "viewCount": 560,
+  "viewCount": 581,
+  "cover": "https://i2.hdslb.com/bfs/archive/92c7ed89e2185973a99902e0266899b18c2a95b2.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限nayuta Live切片】卡拉OK（相对性理论，应该属于可爱歌回 ~2023年2月14日 なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9030,7 +9459,8 @@ window.SONG_DATA.push(
   "videoDuration": 6359,
   "partDuration": 235,
   "videos": 20,
-  "viewCount": 955,
+  "viewCount": 1016,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限】Sound Horizon限定 2 兴趣歌回 ~ 2022年12月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9051,7 +9481,8 @@ window.SONG_DATA.push(
   "videoDuration": 6359,
   "partDuration": 329,
   "videos": 20,
-  "viewCount": 955,
+  "viewCount": 1016,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限】Sound Horizon限定 2 兴趣歌回 ~ 2022年12月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9072,7 +9503,8 @@ window.SONG_DATA.push(
   "videoDuration": 6359,
   "partDuration": 320,
   "videos": 20,
-  "viewCount": 955,
+  "viewCount": 1016,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限】Sound Horizon限定 2 兴趣歌回 ~ 2022年12月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9093,7 +9525,8 @@ window.SONG_DATA.push(
   "videoDuration": 6359,
   "partDuration": 281,
   "videos": 20,
-  "viewCount": 955,
+  "viewCount": 1016,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限】Sound Horizon限定 2 兴趣歌回 ~ 2022年12月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9114,7 +9547,8 @@ window.SONG_DATA.push(
   "videoDuration": 6359,
   "partDuration": 273,
   "videos": 20,
-  "viewCount": 955,
+  "viewCount": 1016,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限】Sound Horizon限定 2 兴趣歌回 ~ 2022年12月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9135,7 +9569,8 @@ window.SONG_DATA.push(
   "videoDuration": 6359,
   "partDuration": 344,
   "videos": 20,
-  "viewCount": 955,
+  "viewCount": 1016,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限】Sound Horizon限定 2 兴趣歌回 ~ 2022年12月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9156,7 +9591,8 @@ window.SONG_DATA.push(
   "videoDuration": 6359,
   "partDuration": 359,
   "videos": 20,
-  "viewCount": 955,
+  "viewCount": 1016,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限】Sound Horizon限定 2 兴趣歌回 ~ 2022年12月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9177,7 +9613,8 @@ window.SONG_DATA.push(
   "videoDuration": 6359,
   "partDuration": 309,
   "videos": 20,
-  "viewCount": 955,
+  "viewCount": 1016,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限】Sound Horizon限定 2 兴趣歌回 ~ 2022年12月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9198,7 +9635,8 @@ window.SONG_DATA.push(
   "videoDuration": 6359,
   "partDuration": 400,
   "videos": 20,
-  "viewCount": 955,
+  "viewCount": 1016,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限】Sound Horizon限定 2 兴趣歌回 ~ 2022年12月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9219,7 +9657,8 @@ window.SONG_DATA.push(
   "videoDuration": 6359,
   "partDuration": 383,
   "videos": 20,
-  "viewCount": 955,
+  "viewCount": 1016,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限】Sound Horizon限定 2 兴趣歌回 ~ 2022年12月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9240,7 +9679,8 @@ window.SONG_DATA.push(
   "videoDuration": 6359,
   "partDuration": 338,
   "videos": 20,
-  "viewCount": 955,
+  "viewCount": 1016,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限】Sound Horizon限定 2 兴趣歌回 ~ 2022年12月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9261,7 +9701,8 @@ window.SONG_DATA.push(
   "videoDuration": 6359,
   "partDuration": 295,
   "videos": 20,
-  "viewCount": 955,
+  "viewCount": 1016,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限】Sound Horizon限定 2 兴趣歌回 ~ 2022年12月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9282,7 +9723,8 @@ window.SONG_DATA.push(
   "videoDuration": 6359,
   "partDuration": 322,
   "videos": 20,
-  "viewCount": 955,
+  "viewCount": 1016,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限】Sound Horizon限定 2 兴趣歌回 ~ 2022年12月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9303,7 +9745,8 @@ window.SONG_DATA.push(
   "videoDuration": 6359,
   "partDuration": 260,
   "videos": 20,
-  "viewCount": 955,
+  "viewCount": 1016,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限】Sound Horizon限定 2 兴趣歌回 ~ 2022年12月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9324,7 +9767,8 @@ window.SONG_DATA.push(
   "videoDuration": 6359,
   "partDuration": 387,
   "videos": 20,
-  "viewCount": 955,
+  "viewCount": 1016,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限】Sound Horizon限定 2 兴趣歌回 ~ 2022年12月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9345,7 +9789,8 @@ window.SONG_DATA.push(
   "videoDuration": 6359,
   "partDuration": 261,
   "videos": 20,
-  "viewCount": 955,
+  "viewCount": 1016,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限】Sound Horizon限定 2 兴趣歌回 ~ 2022年12月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9366,7 +9811,8 @@ window.SONG_DATA.push(
   "videoDuration": 6359,
   "partDuration": 447,
   "videos": 20,
-  "viewCount": 955,
+  "viewCount": 1016,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限】Sound Horizon限定 2 兴趣歌回 ~ 2022年12月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9387,7 +9833,8 @@ window.SONG_DATA.push(
   "videoDuration": 6359,
   "partDuration": 214,
   "videos": 20,
-  "viewCount": 955,
+  "viewCount": 1016,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限】Sound Horizon限定 2 兴趣歌回 ~ 2022年12月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9408,7 +9855,8 @@ window.SONG_DATA.push(
   "videoDuration": 6359,
   "partDuration": 175,
   "videos": 20,
-  "viewCount": 955,
+  "viewCount": 1016,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限】Sound Horizon限定 2 兴趣歌回 ~ 2022年12月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9429,7 +9877,8 @@ window.SONG_DATA.push(
   "videoDuration": 6359,
   "partDuration": 427,
   "videos": 20,
-  "viewCount": 955,
+  "viewCount": 1016,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta会限】Sound Horizon限定 2 兴趣歌回 ~ 2022年12月23日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9450,7 +9899,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 295,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9471,7 +9921,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 255,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9492,7 +9943,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 302,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9513,7 +9965,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 279,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9534,7 +9987,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 293,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9555,7 +10009,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 258,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9576,7 +10031,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 248,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9597,7 +10053,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 302,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9618,7 +10075,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 228,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9639,7 +10097,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 259,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9660,7 +10119,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 228,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9681,7 +10141,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 301,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9702,7 +10163,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 285,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9723,7 +10185,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 310,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9744,7 +10207,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 325,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9765,7 +10229,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 306,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9786,7 +10251,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 283,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9807,7 +10273,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 274,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9828,7 +10295,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 252,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9849,7 +10317,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 337,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9870,7 +10339,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 258,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9891,7 +10361,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 246,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9912,7 +10383,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 248,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9933,7 +10405,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 325,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9954,7 +10427,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 294,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9975,7 +10449,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 211,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9996,7 +10471,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 249,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10017,7 +10493,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 279,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10038,7 +10515,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 338,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10059,7 +10537,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 203,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10080,7 +10559,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 236,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10101,7 +10581,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 371,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10122,7 +10603,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 386,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10143,7 +10625,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 322,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10164,7 +10647,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 407,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10185,7 +10669,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 288,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10206,7 +10691,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 252,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10227,7 +10713,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 307,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10248,7 +10735,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 228,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10269,7 +10757,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 303,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10290,7 +10779,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 260,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10311,7 +10801,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 334,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10332,7 +10823,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 264,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10353,7 +10845,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 234,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10374,7 +10867,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 99,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10395,7 +10889,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 259,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10416,7 +10911,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 283,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10437,7 +10933,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 277,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10458,7 +10955,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 213,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10479,7 +10977,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 247,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10500,7 +10999,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 300,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10521,7 +11021,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 308,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10542,7 +11043,8 @@ window.SONG_DATA.push(
   "videoDuration": 14735,
   "partDuration": 286,
   "videos": 53,
-  "viewCount": 4948,
+  "viewCount": 5416,
+  "cover": "https://i1.hdslb.com/bfs/archive/d3e52faa771f7675dcf675e3f65ba40c2845daf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta Live切片】5万人記念！50首歌不唱完不下播！耐久歌枠 2022年11月26日 #なまゆた",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10563,7 +11065,8 @@ window.SONG_DATA.push(
   "videoDuration": 4000,
   "partDuration": 254,
   "videos": 12,
-  "viewCount": 832,
+  "viewCount": 921,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1 2022年3月28日【#なまゆた】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10584,7 +11087,8 @@ window.SONG_DATA.push(
   "videoDuration": 4000,
   "partDuration": 294,
   "videos": 12,
-  "viewCount": 832,
+  "viewCount": 921,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1 2022年3月28日【#なまゆた】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10605,7 +11109,8 @@ window.SONG_DATA.push(
   "videoDuration": 4000,
   "partDuration": 213,
   "videos": 12,
-  "viewCount": 832,
+  "viewCount": 921,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1 2022年3月28日【#なまゆた】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10626,7 +11131,8 @@ window.SONG_DATA.push(
   "videoDuration": 4000,
   "partDuration": 315,
   "videos": 12,
-  "viewCount": 832,
+  "viewCount": 921,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1 2022年3月28日【#なまゆた】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10647,7 +11153,8 @@ window.SONG_DATA.push(
   "videoDuration": 4000,
   "partDuration": 335,
   "videos": 12,
-  "viewCount": 832,
+  "viewCount": 921,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1 2022年3月28日【#なまゆた】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10668,7 +11175,8 @@ window.SONG_DATA.push(
   "videoDuration": 4000,
   "partDuration": 273,
   "videos": 12,
-  "viewCount": 832,
+  "viewCount": 921,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1 2022年3月28日【#なまゆた】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10689,7 +11197,8 @@ window.SONG_DATA.push(
   "videoDuration": 4000,
   "partDuration": 344,
   "videos": 12,
-  "viewCount": 832,
+  "viewCount": 921,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1 2022年3月28日【#なまゆた】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10710,7 +11219,8 @@ window.SONG_DATA.push(
   "videoDuration": 4000,
   "partDuration": 375,
   "videos": 12,
-  "viewCount": 832,
+  "viewCount": 921,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1 2022年3月28日【#なまゆた】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10731,7 +11241,8 @@ window.SONG_DATA.push(
   "videoDuration": 4000,
   "partDuration": 385,
   "videos": 12,
-  "viewCount": 832,
+  "viewCount": 921,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1 2022年3月28日【#なまゆた】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10752,7 +11263,8 @@ window.SONG_DATA.push(
   "videoDuration": 4000,
   "partDuration": 427,
   "videos": 12,
-  "viewCount": 832,
+  "viewCount": 921,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1 2022年3月28日【#なまゆた】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10773,7 +11285,8 @@ window.SONG_DATA.push(
   "videoDuration": 4000,
   "partDuration": 447,
   "videos": 12,
-  "viewCount": 832,
+  "viewCount": 921,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1 2022年3月28日【#なまゆた】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10794,7 +11307,8 @@ window.SONG_DATA.push(
   "videoDuration": 4000,
   "partDuration": 338,
   "videos": 12,
-  "viewCount": 832,
+  "viewCount": 921,
+  "cover": "https://i0.hdslb.com/bfs/archive/7711dca6758589b6885249bc0c0c23d9fdf8d0e1.jpg@160w_90h_1c.webp",
   "videoTitle": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1 2022年3月28日【#なまゆた】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10815,7 +11329,8 @@ window.SONG_DATA.push(
   "videoDuration": 3693,
   "partDuration": 235,
   "videos": 15,
-  "viewCount": 1664,
+  "viewCount": 4105,
+  "cover": "https://i2.hdslb.com/bfs/archive/d8d90ab48ea75548fea7c01983ec1f66693ed277.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限】nayuta 3w粉丝倒计时歌回切片 2022年1月19日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10836,7 +11351,8 @@ window.SONG_DATA.push(
   "videoDuration": 3693,
   "partDuration": 230,
   "videos": 15,
-  "viewCount": 1664,
+  "viewCount": 4105,
+  "cover": "https://i2.hdslb.com/bfs/archive/d8d90ab48ea75548fea7c01983ec1f66693ed277.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限】nayuta 3w粉丝倒计时歌回切片 2022年1月19日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10857,7 +11373,8 @@ window.SONG_DATA.push(
   "videoDuration": 3693,
   "partDuration": 263,
   "videos": 15,
-  "viewCount": 1664,
+  "viewCount": 4105,
+  "cover": "https://i2.hdslb.com/bfs/archive/d8d90ab48ea75548fea7c01983ec1f66693ed277.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限】nayuta 3w粉丝倒计时歌回切片 2022年1月19日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10878,7 +11395,8 @@ window.SONG_DATA.push(
   "videoDuration": 3693,
   "partDuration": 265,
   "videos": 15,
-  "viewCount": 1664,
+  "viewCount": 4105,
+  "cover": "https://i2.hdslb.com/bfs/archive/d8d90ab48ea75548fea7c01983ec1f66693ed277.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限】nayuta 3w粉丝倒计时歌回切片 2022年1月19日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10899,7 +11417,8 @@ window.SONG_DATA.push(
   "videoDuration": 3693,
   "partDuration": 276,
   "videos": 15,
-  "viewCount": 1664,
+  "viewCount": 4105,
+  "cover": "https://i2.hdslb.com/bfs/archive/d8d90ab48ea75548fea7c01983ec1f66693ed277.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限】nayuta 3w粉丝倒计时歌回切片 2022年1月19日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10920,7 +11439,8 @@ window.SONG_DATA.push(
   "videoDuration": 3693,
   "partDuration": 274,
   "videos": 15,
-  "viewCount": 1664,
+  "viewCount": 4105,
+  "cover": "https://i2.hdslb.com/bfs/archive/d8d90ab48ea75548fea7c01983ec1f66693ed277.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限】nayuta 3w粉丝倒计时歌回切片 2022年1月19日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10941,7 +11461,8 @@ window.SONG_DATA.push(
   "videoDuration": 3693,
   "partDuration": 241,
   "videos": 15,
-  "viewCount": 1664,
+  "viewCount": 4105,
+  "cover": "https://i2.hdslb.com/bfs/archive/d8d90ab48ea75548fea7c01983ec1f66693ed277.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限】nayuta 3w粉丝倒计时歌回切片 2022年1月19日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10962,7 +11483,8 @@ window.SONG_DATA.push(
   "videoDuration": 3693,
   "partDuration": 275,
   "videos": 15,
-  "viewCount": 1664,
+  "viewCount": 4105,
+  "cover": "https://i2.hdslb.com/bfs/archive/d8d90ab48ea75548fea7c01983ec1f66693ed277.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限】nayuta 3w粉丝倒计时歌回切片 2022年1月19日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10983,7 +11505,8 @@ window.SONG_DATA.push(
   "videoDuration": 3693,
   "partDuration": 179,
   "videos": 15,
-  "viewCount": 1664,
+  "viewCount": 4105,
+  "cover": "https://i2.hdslb.com/bfs/archive/d8d90ab48ea75548fea7c01983ec1f66693ed277.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限】nayuta 3w粉丝倒计时歌回切片 2022年1月19日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11004,7 +11527,8 @@ window.SONG_DATA.push(
   "videoDuration": 3693,
   "partDuration": 202,
   "videos": 15,
-  "viewCount": 1664,
+  "viewCount": 4105,
+  "cover": "https://i2.hdslb.com/bfs/archive/d8d90ab48ea75548fea7c01983ec1f66693ed277.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限】nayuta 3w粉丝倒计时歌回切片 2022年1月19日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11025,7 +11549,8 @@ window.SONG_DATA.push(
   "videoDuration": 3693,
   "partDuration": 237,
   "videos": 15,
-  "viewCount": 1664,
+  "viewCount": 4105,
+  "cover": "https://i2.hdslb.com/bfs/archive/d8d90ab48ea75548fea7c01983ec1f66693ed277.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限】nayuta 3w粉丝倒计时歌回切片 2022年1月19日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11046,7 +11571,8 @@ window.SONG_DATA.push(
   "videoDuration": 3693,
   "partDuration": 285,
   "videos": 15,
-  "viewCount": 1664,
+  "viewCount": 4105,
+  "cover": "https://i2.hdslb.com/bfs/archive/d8d90ab48ea75548fea7c01983ec1f66693ed277.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限】nayuta 3w粉丝倒计时歌回切片 2022年1月19日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11067,7 +11593,8 @@ window.SONG_DATA.push(
   "videoDuration": 3693,
   "partDuration": 253,
   "videos": 15,
-  "viewCount": 1664,
+  "viewCount": 4105,
+  "cover": "https://i2.hdslb.com/bfs/archive/d8d90ab48ea75548fea7c01983ec1f66693ed277.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限】nayuta 3w粉丝倒计时歌回切片 2022年1月19日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11088,7 +11615,8 @@ window.SONG_DATA.push(
   "videoDuration": 3693,
   "partDuration": 298,
   "videos": 15,
-  "viewCount": 1664,
+  "viewCount": 4105,
+  "cover": "https://i2.hdslb.com/bfs/archive/d8d90ab48ea75548fea7c01983ec1f66693ed277.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限】nayuta 3w粉丝倒计时歌回切片 2022年1月19日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11109,7 +11637,8 @@ window.SONG_DATA.push(
   "videoDuration": 3693,
   "partDuration": 180,
   "videos": 15,
-  "viewCount": 1664,
+  "viewCount": 4105,
+  "cover": "https://i2.hdslb.com/bfs/archive/d8d90ab48ea75548fea7c01983ec1f66693ed277.jpg@160w_90h_1c.webp",
   "videoTitle": "【会限】nayuta 3w粉丝倒计时歌回切片 2022年1月19日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11130,7 +11659,8 @@ window.SONG_DATA.push(
   "videoDuration": 3659,
   "partDuration": 235,
   "videos": 15,
-  "viewCount": 385,
+  "viewCount": 404,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】【歌枠】Midnight HITORI KARAOKE 3  2021年12月9日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11151,7 +11681,8 @@ window.SONG_DATA.push(
   "videoDuration": 3659,
   "partDuration": 257,
   "videos": 15,
-  "viewCount": 385,
+  "viewCount": 404,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】【歌枠】Midnight HITORI KARAOKE 3  2021年12月9日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11172,7 +11703,8 @@ window.SONG_DATA.push(
   "videoDuration": 3659,
   "partDuration": 272,
   "videos": 15,
-  "viewCount": 385,
+  "viewCount": 404,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】【歌枠】Midnight HITORI KARAOKE 3  2021年12月9日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11193,7 +11725,8 @@ window.SONG_DATA.push(
   "videoDuration": 3659,
   "partDuration": 254,
   "videos": 15,
-  "viewCount": 385,
+  "viewCount": 404,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】【歌枠】Midnight HITORI KARAOKE 3  2021年12月9日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11214,7 +11747,8 @@ window.SONG_DATA.push(
   "videoDuration": 3659,
   "partDuration": 268,
   "videos": 15,
-  "viewCount": 385,
+  "viewCount": 404,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】【歌枠】Midnight HITORI KARAOKE 3  2021年12月9日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11235,7 +11769,8 @@ window.SONG_DATA.push(
   "videoDuration": 3659,
   "partDuration": 244,
   "videos": 15,
-  "viewCount": 385,
+  "viewCount": 404,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】【歌枠】Midnight HITORI KARAOKE 3  2021年12月9日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11256,7 +11791,8 @@ window.SONG_DATA.push(
   "videoDuration": 3659,
   "partDuration": 230,
   "videos": 15,
-  "viewCount": 385,
+  "viewCount": 404,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】【歌枠】Midnight HITORI KARAOKE 3  2021年12月9日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11277,7 +11813,8 @@ window.SONG_DATA.push(
   "videoDuration": 3659,
   "partDuration": 173,
   "videos": 15,
-  "viewCount": 385,
+  "viewCount": 404,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】【歌枠】Midnight HITORI KARAOKE 3  2021年12月9日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11298,7 +11835,8 @@ window.SONG_DATA.push(
   "videoDuration": 3659,
   "partDuration": 259,
   "videos": 15,
-  "viewCount": 385,
+  "viewCount": 404,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】【歌枠】Midnight HITORI KARAOKE 3  2021年12月9日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11319,7 +11857,8 @@ window.SONG_DATA.push(
   "videoDuration": 3659,
   "partDuration": 245,
   "videos": 15,
-  "viewCount": 385,
+  "viewCount": 404,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】【歌枠】Midnight HITORI KARAOKE 3  2021年12月9日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11340,7 +11879,8 @@ window.SONG_DATA.push(
   "videoDuration": 3659,
   "partDuration": 240,
   "videos": 15,
-  "viewCount": 385,
+  "viewCount": 404,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】【歌枠】Midnight HITORI KARAOKE 3  2021年12月9日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11361,7 +11901,8 @@ window.SONG_DATA.push(
   "videoDuration": 3659,
   "partDuration": 244,
   "videos": 15,
-  "viewCount": 385,
+  "viewCount": 404,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】【歌枠】Midnight HITORI KARAOKE 3  2021年12月9日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11382,7 +11923,8 @@ window.SONG_DATA.push(
   "videoDuration": 3659,
   "partDuration": 207,
   "videos": 15,
-  "viewCount": 385,
+  "viewCount": 404,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】【歌枠】Midnight HITORI KARAOKE 3  2021年12月9日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11403,7 +11945,8 @@ window.SONG_DATA.push(
   "videoDuration": 3659,
   "partDuration": 216,
   "videos": 15,
-  "viewCount": 385,
+  "viewCount": 404,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】【歌枠】Midnight HITORI KARAOKE 3  2021年12月9日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11424,7 +11967,8 @@ window.SONG_DATA.push(
   "videoDuration": 3659,
   "partDuration": 315,
   "videos": 15,
-  "viewCount": 385,
+  "viewCount": 404,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】【歌枠】Midnight HITORI KARAOKE 3  2021年12月9日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11445,7 +11989,8 @@ window.SONG_DATA.push(
   "videoDuration": 6340,
   "partDuration": 242,
   "videos": 28,
-  "viewCount": 708,
+  "viewCount": 742,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11466,7 +12011,8 @@ window.SONG_DATA.push(
   "videoDuration": 6340,
   "partDuration": 244,
   "videos": 28,
-  "viewCount": 708,
+  "viewCount": 742,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11487,7 +12033,8 @@ window.SONG_DATA.push(
   "videoDuration": 6340,
   "partDuration": 271,
   "videos": 28,
-  "viewCount": 708,
+  "viewCount": 742,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11508,7 +12055,8 @@ window.SONG_DATA.push(
   "videoDuration": 6340,
   "partDuration": 208,
   "videos": 28,
-  "viewCount": 708,
+  "viewCount": 742,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11529,7 +12077,8 @@ window.SONG_DATA.push(
   "videoDuration": 6340,
   "partDuration": 236,
   "videos": 28,
-  "viewCount": 708,
+  "viewCount": 742,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11550,7 +12099,8 @@ window.SONG_DATA.push(
   "videoDuration": 6340,
   "partDuration": 229,
   "videos": 28,
-  "viewCount": 708,
+  "viewCount": 742,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11571,7 +12121,8 @@ window.SONG_DATA.push(
   "videoDuration": 6340,
   "partDuration": 85,
   "videos": 28,
-  "viewCount": 708,
+  "viewCount": 742,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11592,7 +12143,8 @@ window.SONG_DATA.push(
   "videoDuration": 6340,
   "partDuration": 92,
   "videos": 28,
-  "viewCount": 708,
+  "viewCount": 742,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11613,7 +12165,8 @@ window.SONG_DATA.push(
   "videoDuration": 6340,
   "partDuration": 259,
   "videos": 28,
-  "viewCount": 708,
+  "viewCount": 742,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11634,7 +12187,8 @@ window.SONG_DATA.push(
   "videoDuration": 6340,
   "partDuration": 279,
   "videos": 28,
-  "viewCount": 708,
+  "viewCount": 742,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11655,7 +12209,8 @@ window.SONG_DATA.push(
   "videoDuration": 6340,
   "partDuration": 134,
   "videos": 28,
-  "viewCount": 708,
+  "viewCount": 742,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11676,7 +12231,8 @@ window.SONG_DATA.push(
   "videoDuration": 6340,
   "partDuration": 160,
   "videos": 28,
-  "viewCount": 708,
+  "viewCount": 742,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11697,7 +12253,8 @@ window.SONG_DATA.push(
   "videoDuration": 6340,
   "partDuration": 231,
   "videos": 28,
-  "viewCount": 708,
+  "viewCount": 742,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11718,7 +12275,8 @@ window.SONG_DATA.push(
   "videoDuration": 6340,
   "partDuration": 254,
   "videos": 28,
-  "viewCount": 708,
+  "viewCount": 742,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11739,7 +12297,8 @@ window.SONG_DATA.push(
   "videoDuration": 6340,
   "partDuration": 258,
   "videos": 28,
-  "viewCount": 708,
+  "viewCount": 742,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11760,7 +12319,8 @@ window.SONG_DATA.push(
   "videoDuration": 6340,
   "partDuration": 383,
   "videos": 28,
-  "viewCount": 708,
+  "viewCount": 742,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11781,7 +12341,8 @@ window.SONG_DATA.push(
   "videoDuration": 6340,
   "partDuration": 185,
   "videos": 28,
-  "viewCount": 708,
+  "viewCount": 742,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11802,7 +12363,8 @@ window.SONG_DATA.push(
   "videoDuration": 6340,
   "partDuration": 235,
   "videos": 28,
-  "viewCount": 708,
+  "viewCount": 742,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11823,7 +12385,8 @@ window.SONG_DATA.push(
   "videoDuration": 6340,
   "partDuration": 280,
   "videos": 28,
-  "viewCount": 708,
+  "viewCount": 742,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11844,7 +12407,8 @@ window.SONG_DATA.push(
   "videoDuration": 6340,
   "partDuration": 216,
   "videos": 28,
-  "viewCount": 708,
+  "viewCount": 742,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11865,7 +12429,8 @@ window.SONG_DATA.push(
   "videoDuration": 6340,
   "partDuration": 339,
   "videos": 28,
-  "viewCount": 708,
+  "viewCount": 742,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11886,7 +12451,8 @@ window.SONG_DATA.push(
   "videoDuration": 6340,
   "partDuration": 336,
   "videos": 28,
-  "viewCount": 708,
+  "viewCount": 742,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11907,7 +12473,8 @@ window.SONG_DATA.push(
   "videoDuration": 6340,
   "partDuration": 280,
   "videos": 28,
-  "viewCount": 708,
+  "viewCount": 742,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11928,7 +12495,8 @@ window.SONG_DATA.push(
   "videoDuration": 6340,
   "partDuration": 247,
   "videos": 28,
-  "viewCount": 708,
+  "viewCount": 742,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11949,7 +12517,8 @@ window.SONG_DATA.push(
   "videoDuration": 6340,
   "partDuration": 228,
   "videos": 28,
-  "viewCount": 708,
+  "viewCount": 742,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11970,7 +12539,8 @@ window.SONG_DATA.push(
   "videoDuration": 6340,
   "partDuration": 93,
   "videos": 28,
-  "viewCount": 708,
+  "viewCount": 742,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11991,7 +12561,8 @@ window.SONG_DATA.push(
   "videoDuration": 6340,
   "partDuration": 107,
   "videos": 28,
-  "viewCount": 708,
+  "viewCount": 742,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12012,7 +12583,8 @@ window.SONG_DATA.push(
   "videoDuration": 6340,
   "partDuration": 229,
   "videos": 28,
-  "viewCount": 708,
+  "viewCount": 742,
+  "cover": "https://i1.hdslb.com/bfs/archive/d433f5598b9cd547451c6b537ff172512f2b92f4.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12033,7 +12605,8 @@ window.SONG_DATA.push(
   "videoDuration": 825,
   "partDuration": 209,
   "videos": 3,
-  "viewCount": 922,
+  "viewCount": 3314,
+  "cover": "https://i0.hdslb.com/bfs/archive/b8f7f9595601ccbcc04f82265841ba5325e8d733.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切 2020年6月20日】New！なまゆた＃01 はじまるよ。～祝！13周年ありがとう！～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12054,7 +12627,8 @@ window.SONG_DATA.push(
   "videoDuration": 825,
   "partDuration": 286,
   "videos": 3,
-  "viewCount": 922,
+  "viewCount": 3314,
+  "cover": "https://i0.hdslb.com/bfs/archive/b8f7f9595601ccbcc04f82265841ba5325e8d733.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切 2020年6月20日】New！なまゆた＃01 はじまるよ。～祝！13周年ありがとう！～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12075,7 +12649,8 @@ window.SONG_DATA.push(
   "videoDuration": 825,
   "partDuration": 330,
   "videos": 3,
-  "viewCount": 922,
+  "viewCount": 3314,
+  "cover": "https://i0.hdslb.com/bfs/archive/b8f7f9595601ccbcc04f82265841ba5325e8d733.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切 2020年6月20日】New！なまゆた＃01 はじまるよ。～祝！13周年ありがとう！～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12097,6 +12672,7 @@ window.SONG_DATA.push(
   "partDuration": 292,
   "videos": 3,
   "viewCount": 149,
+  "cover": "https://i0.hdslb.com/bfs/archive/567a89cb3acf5d396c541281ff213f0eb0b8b49b.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切 2020年9月27日】nayuta Birthday Live !! なまゆた＃02 ～祝！nayuta生誕祭！～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12118,6 +12694,7 @@ window.SONG_DATA.push(
   "partDuration": 299,
   "videos": 3,
   "viewCount": 149,
+  "cover": "https://i0.hdslb.com/bfs/archive/567a89cb3acf5d396c541281ff213f0eb0b8b49b.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切 2020年9月27日】nayuta Birthday Live !! なまゆた＃02 ～祝！nayuta生誕祭！～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12139,6 +12716,7 @@ window.SONG_DATA.push(
   "partDuration": 298,
   "videos": 3,
   "viewCount": 149,
+  "cover": "https://i0.hdslb.com/bfs/archive/567a89cb3acf5d396c541281ff213f0eb0b8b49b.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切 2020年9月27日】nayuta Birthday Live !! なまゆた＃02 ～祝！nayuta生誕祭！～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12159,7 +12737,8 @@ window.SONG_DATA.push(
   "videoDuration": 864,
   "partDuration": 271,
   "videos": 3,
-  "viewCount": 138,
+  "viewCount": 139,
+  "cover": "https://i1.hdslb.com/bfs/archive/d5d9ac869f54a897478642924f57a2c105acf57f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切 2020年11月29日】nayuta Live !! なまゆた＃03 ～祝！登録者1万人記念！～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12180,7 +12759,8 @@ window.SONG_DATA.push(
   "videoDuration": 864,
   "partDuration": 307,
   "videos": 3,
-  "viewCount": 138,
+  "viewCount": 139,
+  "cover": "https://i1.hdslb.com/bfs/archive/d5d9ac869f54a897478642924f57a2c105acf57f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切 2020年11月29日】nayuta Live !! なまゆた＃03 ～祝！登録者1万人記念！～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12201,7 +12781,8 @@ window.SONG_DATA.push(
   "videoDuration": 864,
   "partDuration": 286,
   "videos": 3,
-  "viewCount": 138,
+  "viewCount": 139,
+  "cover": "https://i1.hdslb.com/bfs/archive/d5d9ac869f54a897478642924f57a2c105acf57f.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切 2020年11月29日】nayuta Live !! なまゆた＃03 ～祝！登録者1万人記念！～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12223,6 +12804,7 @@ window.SONG_DATA.push(
   "partDuration": 280,
   "videos": 5,
   "viewCount": 140,
+  "cover": "https://i1.hdslb.com/bfs/archive/7ed1cf61ef7df295f826465d48dd165ed3000ba0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切 2020年12月31日】nayuta Live !! なまゆた＃04 ～2020年ありがとう！今年を振り返る～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12244,6 +12826,7 @@ window.SONG_DATA.push(
   "partDuration": 211,
   "videos": 5,
   "viewCount": 140,
+  "cover": "https://i1.hdslb.com/bfs/archive/7ed1cf61ef7df295f826465d48dd165ed3000ba0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切 2020年12月31日】nayuta Live !! なまゆた＃04 ～2020年ありがとう！今年を振り返る～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12265,6 +12848,7 @@ window.SONG_DATA.push(
   "partDuration": 183,
   "videos": 5,
   "viewCount": 140,
+  "cover": "https://i1.hdslb.com/bfs/archive/7ed1cf61ef7df295f826465d48dd165ed3000ba0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切 2020年12月31日】nayuta Live !! なまゆた＃04 ～2020年ありがとう！今年を振り返る～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12286,6 +12870,7 @@ window.SONG_DATA.push(
   "partDuration": 293,
   "videos": 5,
   "viewCount": 140,
+  "cover": "https://i1.hdslb.com/bfs/archive/7ed1cf61ef7df295f826465d48dd165ed3000ba0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切 2020年12月31日】nayuta Live !! なまゆた＃04 ～2020年ありがとう！今年を振り返る～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12307,6 +12892,7 @@ window.SONG_DATA.push(
   "partDuration": 293,
   "videos": 5,
   "viewCount": 140,
+  "cover": "https://i1.hdslb.com/bfs/archive/7ed1cf61ef7df295f826465d48dd165ed3000ba0.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切 2020年12月31日】nayuta Live !! なまゆた＃04 ～2020年ありがとう！今年を振り返る～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12327,7 +12913,8 @@ window.SONG_DATA.push(
   "videoDuration": 1232,
   "partDuration": 357,
   "videos": 4,
-  "viewCount": 180,
+  "viewCount": 184,
+  "cover": "https://i0.hdslb.com/bfs/archive/d3a54384b31c2aa5e0977fa5c65296196fc763c8.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切 2021年1月17日】nayuta Live !! なまゆた＃05 ～Happy New Year 2021～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12348,7 +12935,8 @@ window.SONG_DATA.push(
   "videoDuration": 1232,
   "partDuration": 372,
   "videos": 4,
-  "viewCount": 180,
+  "viewCount": 184,
+  "cover": "https://i0.hdslb.com/bfs/archive/d3a54384b31c2aa5e0977fa5c65296196fc763c8.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切 2021年1月17日】nayuta Live !! なまゆた＃05 ～Happy New Year 2021～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12369,7 +12957,8 @@ window.SONG_DATA.push(
   "videoDuration": 1232,
   "partDuration": 217,
   "videos": 4,
-  "viewCount": 180,
+  "viewCount": 184,
+  "cover": "https://i0.hdslb.com/bfs/archive/d3a54384b31c2aa5e0977fa5c65296196fc763c8.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切 2021年1月17日】nayuta Live !! なまゆた＃05 ～Happy New Year 2021～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12390,7 +12979,8 @@ window.SONG_DATA.push(
   "videoDuration": 1232,
   "partDuration": 286,
   "videos": 4,
-  "viewCount": 180,
+  "viewCount": 184,
+  "cover": "https://i0.hdslb.com/bfs/archive/d3a54384b31c2aa5e0977fa5c65296196fc763c8.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切 2021年1月17日】nayuta Live !! なまゆた＃05 ～Happy New Year 2021～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12411,7 +13001,8 @@ window.SONG_DATA.push(
   "videoDuration": 972,
   "partDuration": 400,
   "videos": 3,
-  "viewCount": 115,
+  "viewCount": 119,
+  "cover": "https://i0.hdslb.com/bfs/archive/9d6ff91e72fee02dcf4840da8d9abb020405dc10.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切 2021年6月9日】nayuta Live !! なまゆた＃07 ～おかえり！収益化復活＆もうすぐ14周年～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12432,7 +13023,8 @@ window.SONG_DATA.push(
   "videoDuration": 972,
   "partDuration": 232,
   "videos": 3,
-  "viewCount": 115,
+  "viewCount": 119,
+  "cover": "https://i0.hdslb.com/bfs/archive/9d6ff91e72fee02dcf4840da8d9abb020405dc10.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切 2021年6月9日】nayuta Live !! なまゆた＃07 ～おかえり！収益化復活＆もうすぐ14周年～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12453,7 +13045,8 @@ window.SONG_DATA.push(
   "videoDuration": 972,
   "partDuration": 340,
   "videos": 3,
-  "viewCount": 115,
+  "viewCount": 119,
+  "cover": "https://i0.hdslb.com/bfs/archive/9d6ff91e72fee02dcf4840da8d9abb020405dc10.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切 2021年6月9日】nayuta Live !! なまゆた＃07 ～おかえり！収益化復活＆もうすぐ14周年～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12474,7 +13067,8 @@ window.SONG_DATA.push(
   "videoDuration": 2558,
   "partDuration": 248,
   "videos": 9,
-  "viewCount": 244,
+  "viewCount": 251,
+  "cover": "https://i1.hdslb.com/bfs/archive/35bbbcdc2e88cd6a9a7ecd0c50d16458d90bd5a6.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切 2021年6月18日】nayuta 14th Anniversary Live ! #なまゆた Special～祝！活動14周年＆重大発表～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12495,7 +13089,8 @@ window.SONG_DATA.push(
   "videoDuration": 2558,
   "partDuration": 297,
   "videos": 9,
-  "viewCount": 244,
+  "viewCount": 251,
+  "cover": "https://i1.hdslb.com/bfs/archive/35bbbcdc2e88cd6a9a7ecd0c50d16458d90bd5a6.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切 2021年6月18日】nayuta 14th Anniversary Live ! #なまゆた Special～祝！活動14周年＆重大発表～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12516,7 +13111,8 @@ window.SONG_DATA.push(
   "videoDuration": 2558,
   "partDuration": 299,
   "videos": 9,
-  "viewCount": 244,
+  "viewCount": 251,
+  "cover": "https://i1.hdslb.com/bfs/archive/35bbbcdc2e88cd6a9a7ecd0c50d16458d90bd5a6.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切 2021年6月18日】nayuta 14th Anniversary Live ! #なまゆた Special～祝！活動14周年＆重大発表～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12537,7 +13133,8 @@ window.SONG_DATA.push(
   "videoDuration": 2558,
   "partDuration": 271,
   "videos": 9,
-  "viewCount": 244,
+  "viewCount": 251,
+  "cover": "https://i1.hdslb.com/bfs/archive/35bbbcdc2e88cd6a9a7ecd0c50d16458d90bd5a6.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切 2021年6月18日】nayuta 14th Anniversary Live ! #なまゆた Special～祝！活動14周年＆重大発表～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12558,7 +13155,8 @@ window.SONG_DATA.push(
   "videoDuration": 2558,
   "partDuration": 384,
   "videos": 9,
-  "viewCount": 244,
+  "viewCount": 251,
+  "cover": "https://i1.hdslb.com/bfs/archive/35bbbcdc2e88cd6a9a7ecd0c50d16458d90bd5a6.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切 2021年6月18日】nayuta 14th Anniversary Live ! #なまゆた Special～祝！活動14周年＆重大発表～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12579,7 +13177,8 @@ window.SONG_DATA.push(
   "videoDuration": 2558,
   "partDuration": 277,
   "videos": 9,
-  "viewCount": 244,
+  "viewCount": 251,
+  "cover": "https://i1.hdslb.com/bfs/archive/35bbbcdc2e88cd6a9a7ecd0c50d16458d90bd5a6.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切 2021年6月18日】nayuta 14th Anniversary Live ! #なまゆた Special～祝！活動14周年＆重大発表～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12600,7 +13199,8 @@ window.SONG_DATA.push(
   "videoDuration": 2558,
   "partDuration": 280,
   "videos": 9,
-  "viewCount": 244,
+  "viewCount": 251,
+  "cover": "https://i1.hdslb.com/bfs/archive/35bbbcdc2e88cd6a9a7ecd0c50d16458d90bd5a6.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切 2021年6月18日】nayuta 14th Anniversary Live ! #なまゆた Special～祝！活動14周年＆重大発表～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12621,7 +13221,8 @@ window.SONG_DATA.push(
   "videoDuration": 2558,
   "partDuration": 293,
   "videos": 9,
-  "viewCount": 244,
+  "viewCount": 251,
+  "cover": "https://i1.hdslb.com/bfs/archive/35bbbcdc2e88cd6a9a7ecd0c50d16458d90bd5a6.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切 2021年6月18日】nayuta 14th Anniversary Live ! #なまゆた Special～祝！活動14周年＆重大発表～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12642,7 +13243,8 @@ window.SONG_DATA.push(
   "videoDuration": 2558,
   "partDuration": 209,
   "videos": 9,
-  "viewCount": 244,
+  "viewCount": 251,
+  "cover": "https://i1.hdslb.com/bfs/archive/35bbbcdc2e88cd6a9a7ecd0c50d16458d90bd5a6.jpg@160w_90h_1c.webp",
   "videoTitle": "【nayuta歌切 2021年6月18日】nayuta 14th Anniversary Live ! #なまゆた Special～祝！活動14周年＆重大発表～",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367

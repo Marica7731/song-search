@@ -1,6 +1,6 @@
 // 陽月るるふ - 歌单数据 (多合集汇总)
 // 来源: BV1Qa9JB6EAw
-// 生成时间: 2026/4/14 09:01:31
+// 生成时间: 2026/5/24 23:48:57
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -21,7 +21,8 @@ window.SONG_DATA.push(
   "videoDuration": 3821,
   "partDuration": 246,
   "videos": 15,
-  "viewCount": 366,
+  "viewCount": 2773,
+  "cover": "https://i0.hdslb.com/bfs/archive/f847b808261638739d15ffadba48b6101bd36793.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day1 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -42,7 +43,8 @@ window.SONG_DATA.push(
   "videoDuration": 3821,
   "partDuration": 227,
   "videos": 15,
-  "viewCount": 366,
+  "viewCount": 2773,
+  "cover": "https://i0.hdslb.com/bfs/archive/f847b808261638739d15ffadba48b6101bd36793.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day1 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -63,7 +65,8 @@ window.SONG_DATA.push(
   "videoDuration": 3821,
   "partDuration": 342,
   "videos": 15,
-  "viewCount": 366,
+  "viewCount": 2773,
+  "cover": "https://i0.hdslb.com/bfs/archive/f847b808261638739d15ffadba48b6101bd36793.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day1 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -84,7 +87,8 @@ window.SONG_DATA.push(
   "videoDuration": 3821,
   "partDuration": 245,
   "videos": 15,
-  "viewCount": 366,
+  "viewCount": 2773,
+  "cover": "https://i0.hdslb.com/bfs/archive/f847b808261638739d15ffadba48b6101bd36793.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day1 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -105,7 +109,8 @@ window.SONG_DATA.push(
   "videoDuration": 3821,
   "partDuration": 366,
   "videos": 15,
-  "viewCount": 366,
+  "viewCount": 2773,
+  "cover": "https://i0.hdslb.com/bfs/archive/f847b808261638739d15ffadba48b6101bd36793.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day1 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -126,7 +131,8 @@ window.SONG_DATA.push(
   "videoDuration": 3821,
   "partDuration": 258,
   "videos": 15,
-  "viewCount": 366,
+  "viewCount": 2773,
+  "cover": "https://i0.hdslb.com/bfs/archive/f847b808261638739d15ffadba48b6101bd36793.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day1 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -147,7 +153,8 @@ window.SONG_DATA.push(
   "videoDuration": 3821,
   "partDuration": 222,
   "videos": 15,
-  "viewCount": 366,
+  "viewCount": 2773,
+  "cover": "https://i0.hdslb.com/bfs/archive/f847b808261638739d15ffadba48b6101bd36793.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day1 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -168,7 +175,8 @@ window.SONG_DATA.push(
   "videoDuration": 3821,
   "partDuration": 202,
   "videos": 15,
-  "viewCount": 366,
+  "viewCount": 2773,
+  "cover": "https://i0.hdslb.com/bfs/archive/f847b808261638739d15ffadba48b6101bd36793.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day1 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -189,7 +197,8 @@ window.SONG_DATA.push(
   "videoDuration": 3821,
   "partDuration": 209,
   "videos": 15,
-  "viewCount": 366,
+  "viewCount": 2773,
+  "cover": "https://i0.hdslb.com/bfs/archive/f847b808261638739d15ffadba48b6101bd36793.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day1 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -210,7 +219,8 @@ window.SONG_DATA.push(
   "videoDuration": 3821,
   "partDuration": 200,
   "videos": 15,
-  "viewCount": 366,
+  "viewCount": 2773,
+  "cover": "https://i0.hdslb.com/bfs/archive/f847b808261638739d15ffadba48b6101bd36793.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day1 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -231,7 +241,8 @@ window.SONG_DATA.push(
   "videoDuration": 3821,
   "partDuration": 217,
   "videos": 15,
-  "viewCount": 366,
+  "viewCount": 2773,
+  "cover": "https://i0.hdslb.com/bfs/archive/f847b808261638739d15ffadba48b6101bd36793.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day1 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -252,7 +263,8 @@ window.SONG_DATA.push(
   "videoDuration": 3821,
   "partDuration": 299,
   "videos": 15,
-  "viewCount": 366,
+  "viewCount": 2773,
+  "cover": "https://i0.hdslb.com/bfs/archive/f847b808261638739d15ffadba48b6101bd36793.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day1 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -273,7 +285,8 @@ window.SONG_DATA.push(
   "videoDuration": 3821,
   "partDuration": 278,
   "videos": 15,
-  "viewCount": 366,
+  "viewCount": 2773,
+  "cover": "https://i0.hdslb.com/bfs/archive/f847b808261638739d15ffadba48b6101bd36793.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day1 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -294,7 +307,8 @@ window.SONG_DATA.push(
   "videoDuration": 3821,
   "partDuration": 219,
   "videos": 15,
-  "viewCount": 366,
+  "viewCount": 2773,
+  "cover": "https://i0.hdslb.com/bfs/archive/f847b808261638739d15ffadba48b6101bd36793.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day1 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -315,7 +329,8 @@ window.SONG_DATA.push(
   "videoDuration": 3821,
   "partDuration": 291,
   "videos": 15,
-  "viewCount": 366,
+  "viewCount": 2773,
+  "cover": "https://i0.hdslb.com/bfs/archive/f847b808261638739d15ffadba48b6101bd36793.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day1 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -336,7 +351,8 @@ window.SONG_DATA.push(
   "videoDuration": 3269,
   "partDuration": 190,
   "videos": 14,
-  "viewCount": 164,
+  "viewCount": 179,
+  "cover": "https://i0.hdslb.com/bfs/archive/ff2202193ac37b7287daa076a9e1969684eee5d0.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day2 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -357,7 +373,8 @@ window.SONG_DATA.push(
   "videoDuration": 3269,
   "partDuration": 229,
   "videos": 14,
-  "viewCount": 164,
+  "viewCount": 179,
+  "cover": "https://i0.hdslb.com/bfs/archive/ff2202193ac37b7287daa076a9e1969684eee5d0.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day2 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -378,7 +395,8 @@ window.SONG_DATA.push(
   "videoDuration": 3269,
   "partDuration": 194,
   "videos": 14,
-  "viewCount": 164,
+  "viewCount": 179,
+  "cover": "https://i0.hdslb.com/bfs/archive/ff2202193ac37b7287daa076a9e1969684eee5d0.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day2 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -399,7 +417,8 @@ window.SONG_DATA.push(
   "videoDuration": 3269,
   "partDuration": 227,
   "videos": 14,
-  "viewCount": 164,
+  "viewCount": 179,
+  "cover": "https://i0.hdslb.com/bfs/archive/ff2202193ac37b7287daa076a9e1969684eee5d0.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day2 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -420,7 +439,8 @@ window.SONG_DATA.push(
   "videoDuration": 3269,
   "partDuration": 145,
   "videos": 14,
-  "viewCount": 164,
+  "viewCount": 179,
+  "cover": "https://i0.hdslb.com/bfs/archive/ff2202193ac37b7287daa076a9e1969684eee5d0.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day2 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -441,7 +461,8 @@ window.SONG_DATA.push(
   "videoDuration": 3269,
   "partDuration": 217,
   "videos": 14,
-  "viewCount": 164,
+  "viewCount": 179,
+  "cover": "https://i0.hdslb.com/bfs/archive/ff2202193ac37b7287daa076a9e1969684eee5d0.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day2 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -462,7 +483,8 @@ window.SONG_DATA.push(
   "videoDuration": 3269,
   "partDuration": 241,
   "videos": 14,
-  "viewCount": 164,
+  "viewCount": 179,
+  "cover": "https://i0.hdslb.com/bfs/archive/ff2202193ac37b7287daa076a9e1969684eee5d0.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day2 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -483,7 +505,8 @@ window.SONG_DATA.push(
   "videoDuration": 3269,
   "partDuration": 218,
   "videos": 14,
-  "viewCount": 164,
+  "viewCount": 179,
+  "cover": "https://i0.hdslb.com/bfs/archive/ff2202193ac37b7287daa076a9e1969684eee5d0.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day2 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -504,7 +527,8 @@ window.SONG_DATA.push(
   "videoDuration": 3269,
   "partDuration": 265,
   "videos": 14,
-  "viewCount": 164,
+  "viewCount": 179,
+  "cover": "https://i0.hdslb.com/bfs/archive/ff2202193ac37b7287daa076a9e1969684eee5d0.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day2 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -525,7 +549,8 @@ window.SONG_DATA.push(
   "videoDuration": 3269,
   "partDuration": 358,
   "videos": 14,
-  "viewCount": 164,
+  "viewCount": 179,
+  "cover": "https://i0.hdslb.com/bfs/archive/ff2202193ac37b7287daa076a9e1969684eee5d0.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day2 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -546,7 +571,8 @@ window.SONG_DATA.push(
   "videoDuration": 3269,
   "partDuration": 301,
   "videos": 14,
-  "viewCount": 164,
+  "viewCount": 179,
+  "cover": "https://i0.hdslb.com/bfs/archive/ff2202193ac37b7287daa076a9e1969684eee5d0.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day2 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -567,7 +593,8 @@ window.SONG_DATA.push(
   "videoDuration": 3269,
   "partDuration": 216,
   "videos": 14,
-  "viewCount": 164,
+  "viewCount": 179,
+  "cover": "https://i0.hdslb.com/bfs/archive/ff2202193ac37b7287daa076a9e1969684eee5d0.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day2 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -588,7 +615,8 @@ window.SONG_DATA.push(
   "videoDuration": 3269,
   "partDuration": 234,
   "videos": 14,
-  "viewCount": 164,
+  "viewCount": 179,
+  "cover": "https://i0.hdslb.com/bfs/archive/ff2202193ac37b7287daa076a9e1969684eee5d0.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day2 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -609,7 +637,8 @@ window.SONG_DATA.push(
   "videoDuration": 3269,
   "partDuration": 234,
   "videos": 14,
-  "viewCount": 164,
+  "viewCount": 179,
+  "cover": "https://i0.hdslb.com/bfs/archive/ff2202193ac37b7287daa076a9e1969684eee5d0.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day2 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -630,7 +659,8 @@ window.SONG_DATA.push(
   "videoDuration": 3600,
   "partDuration": 205,
   "videos": 14,
-  "viewCount": 169,
+  "viewCount": 183,
+  "cover": "https://i2.hdslb.com/bfs/archive/3d48dd8f521b7773bb603fe35715f5313022d094.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -651,7 +681,8 @@ window.SONG_DATA.push(
   "videoDuration": 3600,
   "partDuration": 239,
   "videos": 14,
-  "viewCount": 169,
+  "viewCount": 183,
+  "cover": "https://i2.hdslb.com/bfs/archive/3d48dd8f521b7773bb603fe35715f5313022d094.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -672,7 +703,8 @@ window.SONG_DATA.push(
   "videoDuration": 3600,
   "partDuration": 284,
   "videos": 14,
-  "viewCount": 169,
+  "viewCount": 183,
+  "cover": "https://i2.hdslb.com/bfs/archive/3d48dd8f521b7773bb603fe35715f5313022d094.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -693,7 +725,8 @@ window.SONG_DATA.push(
   "videoDuration": 3600,
   "partDuration": 309,
   "videos": 14,
-  "viewCount": 169,
+  "viewCount": 183,
+  "cover": "https://i2.hdslb.com/bfs/archive/3d48dd8f521b7773bb603fe35715f5313022d094.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -714,7 +747,8 @@ window.SONG_DATA.push(
   "videoDuration": 3600,
   "partDuration": 256,
   "videos": 14,
-  "viewCount": 169,
+  "viewCount": 183,
+  "cover": "https://i2.hdslb.com/bfs/archive/3d48dd8f521b7773bb603fe35715f5313022d094.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -735,7 +769,8 @@ window.SONG_DATA.push(
   "videoDuration": 3600,
   "partDuration": 265,
   "videos": 14,
-  "viewCount": 169,
+  "viewCount": 183,
+  "cover": "https://i2.hdslb.com/bfs/archive/3d48dd8f521b7773bb603fe35715f5313022d094.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -756,7 +791,8 @@ window.SONG_DATA.push(
   "videoDuration": 3600,
   "partDuration": 258,
   "videos": 14,
-  "viewCount": 169,
+  "viewCount": 183,
+  "cover": "https://i2.hdslb.com/bfs/archive/3d48dd8f521b7773bb603fe35715f5313022d094.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -777,7 +813,8 @@ window.SONG_DATA.push(
   "videoDuration": 3600,
   "partDuration": 281,
   "videos": 14,
-  "viewCount": 169,
+  "viewCount": 183,
+  "cover": "https://i2.hdslb.com/bfs/archive/3d48dd8f521b7773bb603fe35715f5313022d094.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -798,7 +835,8 @@ window.SONG_DATA.push(
   "videoDuration": 3600,
   "partDuration": 259,
   "videos": 14,
-  "viewCount": 169,
+  "viewCount": 183,
+  "cover": "https://i2.hdslb.com/bfs/archive/3d48dd8f521b7773bb603fe35715f5313022d094.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -819,7 +857,8 @@ window.SONG_DATA.push(
   "videoDuration": 3600,
   "partDuration": 257,
   "videos": 14,
-  "viewCount": 169,
+  "viewCount": 183,
+  "cover": "https://i2.hdslb.com/bfs/archive/3d48dd8f521b7773bb603fe35715f5313022d094.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -840,7 +879,8 @@ window.SONG_DATA.push(
   "videoDuration": 3600,
   "partDuration": 263,
   "videos": 14,
-  "viewCount": 169,
+  "viewCount": 183,
+  "cover": "https://i2.hdslb.com/bfs/archive/3d48dd8f521b7773bb603fe35715f5313022d094.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -861,7 +901,8 @@ window.SONG_DATA.push(
   "videoDuration": 3600,
   "partDuration": 218,
   "videos": 14,
-  "viewCount": 169,
+  "viewCount": 183,
+  "cover": "https://i2.hdslb.com/bfs/archive/3d48dd8f521b7773bb603fe35715f5313022d094.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -882,7 +923,8 @@ window.SONG_DATA.push(
   "videoDuration": 3600,
   "partDuration": 277,
   "videos": 14,
-  "viewCount": 169,
+  "viewCount": 183,
+  "cover": "https://i2.hdslb.com/bfs/archive/3d48dd8f521b7773bb603fe35715f5313022d094.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -903,7 +945,8 @@ window.SONG_DATA.push(
   "videoDuration": 3600,
   "partDuration": 229,
   "videos": 14,
-  "viewCount": 169,
+  "viewCount": 183,
+  "cover": "https://i2.hdslb.com/bfs/archive/3d48dd8f521b7773bb603fe35715f5313022d094.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -924,7 +967,8 @@ window.SONG_DATA.push(
   "videoDuration": 2020,
   "partDuration": 266,
   "videos": 7,
-  "viewCount": 89,
+  "viewCount": 99,
+  "cover": "https://i0.hdslb.com/bfs/archive/c49177a782424ae5aaee7d1302de26ad1173d453.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day4 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -945,7 +989,8 @@ window.SONG_DATA.push(
   "videoDuration": 2020,
   "partDuration": 252,
   "videos": 7,
-  "viewCount": 89,
+  "viewCount": 99,
+  "cover": "https://i0.hdslb.com/bfs/archive/c49177a782424ae5aaee7d1302de26ad1173d453.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day4 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -966,7 +1011,8 @@ window.SONG_DATA.push(
   "videoDuration": 2020,
   "partDuration": 328,
   "videos": 7,
-  "viewCount": 89,
+  "viewCount": 99,
+  "cover": "https://i0.hdslb.com/bfs/archive/c49177a782424ae5aaee7d1302de26ad1173d453.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day4 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -987,7 +1033,8 @@ window.SONG_DATA.push(
   "videoDuration": 2020,
   "partDuration": 329,
   "videos": 7,
-  "viewCount": 89,
+  "viewCount": 99,
+  "cover": "https://i0.hdslb.com/bfs/archive/c49177a782424ae5aaee7d1302de26ad1173d453.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day4 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1008,7 +1055,8 @@ window.SONG_DATA.push(
   "videoDuration": 2020,
   "partDuration": 253,
   "videos": 7,
-  "viewCount": 89,
+  "viewCount": 99,
+  "cover": "https://i0.hdslb.com/bfs/archive/c49177a782424ae5aaee7d1302de26ad1173d453.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day4 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1029,7 +1077,8 @@ window.SONG_DATA.push(
   "videoDuration": 2020,
   "partDuration": 287,
   "videos": 7,
-  "viewCount": 89,
+  "viewCount": 99,
+  "cover": "https://i0.hdslb.com/bfs/archive/c49177a782424ae5aaee7d1302de26ad1173d453.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day4 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1050,7 +1099,8 @@ window.SONG_DATA.push(
   "videoDuration": 2020,
   "partDuration": 305,
   "videos": 7,
-  "viewCount": 89,
+  "viewCount": 99,
+  "cover": "https://i0.hdslb.com/bfs/archive/c49177a782424ae5aaee7d1302de26ad1173d453.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day4 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1071,7 +1121,8 @@ window.SONG_DATA.push(
   "videoDuration": 2131,
   "partDuration": 230,
   "videos": 8,
-  "viewCount": 65,
+  "viewCount": 77,
+  "cover": "https://i2.hdslb.com/bfs/archive/c97fd7c862806e971f719c984b3ed6cc4418f744.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day5 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1092,7 +1143,8 @@ window.SONG_DATA.push(
   "videoDuration": 2131,
   "partDuration": 319,
   "videos": 8,
-  "viewCount": 65,
+  "viewCount": 77,
+  "cover": "https://i2.hdslb.com/bfs/archive/c97fd7c862806e971f719c984b3ed6cc4418f744.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day5 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1113,7 +1165,8 @@ window.SONG_DATA.push(
   "videoDuration": 2131,
   "partDuration": 263,
   "videos": 8,
-  "viewCount": 65,
+  "viewCount": 77,
+  "cover": "https://i2.hdslb.com/bfs/archive/c97fd7c862806e971f719c984b3ed6cc4418f744.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day5 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1134,7 +1187,8 @@ window.SONG_DATA.push(
   "videoDuration": 2131,
   "partDuration": 283,
   "videos": 8,
-  "viewCount": 65,
+  "viewCount": 77,
+  "cover": "https://i2.hdslb.com/bfs/archive/c97fd7c862806e971f719c984b3ed6cc4418f744.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day5 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1155,7 +1209,8 @@ window.SONG_DATA.push(
   "videoDuration": 2131,
   "partDuration": 223,
   "videos": 8,
-  "viewCount": 65,
+  "viewCount": 77,
+  "cover": "https://i2.hdslb.com/bfs/archive/c97fd7c862806e971f719c984b3ed6cc4418f744.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day5 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1176,7 +1231,8 @@ window.SONG_DATA.push(
   "videoDuration": 2131,
   "partDuration": 204,
   "videos": 8,
-  "viewCount": 65,
+  "viewCount": 77,
+  "cover": "https://i2.hdslb.com/bfs/archive/c97fd7c862806e971f719c984b3ed6cc4418f744.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day5 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1197,7 +1253,8 @@ window.SONG_DATA.push(
   "videoDuration": 2131,
   "partDuration": 266,
   "videos": 8,
-  "viewCount": 65,
+  "viewCount": 77,
+  "cover": "https://i2.hdslb.com/bfs/archive/c97fd7c862806e971f719c984b3ed6cc4418f744.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day5 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1218,7 +1275,8 @@ window.SONG_DATA.push(
   "videoDuration": 2131,
   "partDuration": 343,
   "videos": 8,
-  "viewCount": 65,
+  "viewCount": 77,
+  "cover": "https://i2.hdslb.com/bfs/archive/c97fd7c862806e971f719c984b3ed6cc4418f744.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day5 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1239,7 +1297,8 @@ window.SONG_DATA.push(
   "videoDuration": 3519,
   "partDuration": 280,
   "videos": 14,
-  "viewCount": 95,
+  "viewCount": 108,
+  "cover": "https://i2.hdslb.com/bfs/archive/1b60e27a0025fcd8ce15807f39a5753396a5d024.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1260,7 +1319,8 @@ window.SONG_DATA.push(
   "videoDuration": 3519,
   "partDuration": 290,
   "videos": 14,
-  "viewCount": 95,
+  "viewCount": 108,
+  "cover": "https://i2.hdslb.com/bfs/archive/1b60e27a0025fcd8ce15807f39a5753396a5d024.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1281,7 +1341,8 @@ window.SONG_DATA.push(
   "videoDuration": 3519,
   "partDuration": 254,
   "videos": 14,
-  "viewCount": 95,
+  "viewCount": 108,
+  "cover": "https://i2.hdslb.com/bfs/archive/1b60e27a0025fcd8ce15807f39a5753396a5d024.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1302,7 +1363,8 @@ window.SONG_DATA.push(
   "videoDuration": 3519,
   "partDuration": 272,
   "videos": 14,
-  "viewCount": 95,
+  "viewCount": 108,
+  "cover": "https://i2.hdslb.com/bfs/archive/1b60e27a0025fcd8ce15807f39a5753396a5d024.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1323,7 +1385,8 @@ window.SONG_DATA.push(
   "videoDuration": 3519,
   "partDuration": 287,
   "videos": 14,
-  "viewCount": 95,
+  "viewCount": 108,
+  "cover": "https://i2.hdslb.com/bfs/archive/1b60e27a0025fcd8ce15807f39a5753396a5d024.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1344,7 +1407,8 @@ window.SONG_DATA.push(
   "videoDuration": 3519,
   "partDuration": 186,
   "videos": 14,
-  "viewCount": 95,
+  "viewCount": 108,
+  "cover": "https://i2.hdslb.com/bfs/archive/1b60e27a0025fcd8ce15807f39a5753396a5d024.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1365,7 +1429,8 @@ window.SONG_DATA.push(
   "videoDuration": 3519,
   "partDuration": 175,
   "videos": 14,
-  "viewCount": 95,
+  "viewCount": 108,
+  "cover": "https://i2.hdslb.com/bfs/archive/1b60e27a0025fcd8ce15807f39a5753396a5d024.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1386,7 +1451,8 @@ window.SONG_DATA.push(
   "videoDuration": 3519,
   "partDuration": 262,
   "videos": 14,
-  "viewCount": 95,
+  "viewCount": 108,
+  "cover": "https://i2.hdslb.com/bfs/archive/1b60e27a0025fcd8ce15807f39a5753396a5d024.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1407,7 +1473,8 @@ window.SONG_DATA.push(
   "videoDuration": 3519,
   "partDuration": 251,
   "videos": 14,
-  "viewCount": 95,
+  "viewCount": 108,
+  "cover": "https://i2.hdslb.com/bfs/archive/1b60e27a0025fcd8ce15807f39a5753396a5d024.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1428,7 +1495,8 @@ window.SONG_DATA.push(
   "videoDuration": 3519,
   "partDuration": 243,
   "videos": 14,
-  "viewCount": 95,
+  "viewCount": 108,
+  "cover": "https://i2.hdslb.com/bfs/archive/1b60e27a0025fcd8ce15807f39a5753396a5d024.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1449,7 +1517,8 @@ window.SONG_DATA.push(
   "videoDuration": 3519,
   "partDuration": 253,
   "videos": 14,
-  "viewCount": 95,
+  "viewCount": 108,
+  "cover": "https://i2.hdslb.com/bfs/archive/1b60e27a0025fcd8ce15807f39a5753396a5d024.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1470,7 +1539,8 @@ window.SONG_DATA.push(
   "videoDuration": 3519,
   "partDuration": 228,
   "videos": 14,
-  "viewCount": 95,
+  "viewCount": 108,
+  "cover": "https://i2.hdslb.com/bfs/archive/1b60e27a0025fcd8ce15807f39a5753396a5d024.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1491,7 +1561,8 @@ window.SONG_DATA.push(
   "videoDuration": 3519,
   "partDuration": 209,
   "videos": 14,
-  "viewCount": 95,
+  "viewCount": 108,
+  "cover": "https://i2.hdslb.com/bfs/archive/1b60e27a0025fcd8ce15807f39a5753396a5d024.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1512,7 +1583,8 @@ window.SONG_DATA.push(
   "videoDuration": 3519,
   "partDuration": 329,
   "videos": 14,
-  "viewCount": 95,
+  "viewCount": 108,
+  "cover": "https://i2.hdslb.com/bfs/archive/1b60e27a0025fcd8ce15807f39a5753396a5d024.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1533,7 +1605,8 @@ window.SONG_DATA.push(
   "videoDuration": 2093,
   "partDuration": 227,
   "videos": 9,
-  "viewCount": 67,
+  "viewCount": 83,
+  "cover": "https://i0.hdslb.com/bfs/archive/2c76fd3f11d533b455380ddc80ea8dd0c5712cd7.png@160w_90h_1c.webp",
   "videoTitle": "弾き語り 🐺🎀 打卡生日月每日歌回 Day7 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1554,7 +1627,8 @@ window.SONG_DATA.push(
   "videoDuration": 2093,
   "partDuration": 202,
   "videos": 9,
-  "viewCount": 67,
+  "viewCount": 83,
+  "cover": "https://i0.hdslb.com/bfs/archive/2c76fd3f11d533b455380ddc80ea8dd0c5712cd7.png@160w_90h_1c.webp",
   "videoTitle": "弾き語り 🐺🎀 打卡生日月每日歌回 Day7 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1575,7 +1649,8 @@ window.SONG_DATA.push(
   "videoDuration": 2093,
   "partDuration": 179,
   "videos": 9,
-  "viewCount": 67,
+  "viewCount": 83,
+  "cover": "https://i0.hdslb.com/bfs/archive/2c76fd3f11d533b455380ddc80ea8dd0c5712cd7.png@160w_90h_1c.webp",
   "videoTitle": "弾き語り 🐺🎀 打卡生日月每日歌回 Day7 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1596,7 +1671,8 @@ window.SONG_DATA.push(
   "videoDuration": 2093,
   "partDuration": 241,
   "videos": 9,
-  "viewCount": 67,
+  "viewCount": 83,
+  "cover": "https://i0.hdslb.com/bfs/archive/2c76fd3f11d533b455380ddc80ea8dd0c5712cd7.png@160w_90h_1c.webp",
   "videoTitle": "弾き語り 🐺🎀 打卡生日月每日歌回 Day7 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1617,7 +1693,8 @@ window.SONG_DATA.push(
   "videoDuration": 2093,
   "partDuration": 204,
   "videos": 9,
-  "viewCount": 67,
+  "viewCount": 83,
+  "cover": "https://i0.hdslb.com/bfs/archive/2c76fd3f11d533b455380ddc80ea8dd0c5712cd7.png@160w_90h_1c.webp",
   "videoTitle": "弾き語り 🐺🎀 打卡生日月每日歌回 Day7 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1638,7 +1715,8 @@ window.SONG_DATA.push(
   "videoDuration": 2093,
   "partDuration": 291,
   "videos": 9,
-  "viewCount": 67,
+  "viewCount": 83,
+  "cover": "https://i0.hdslb.com/bfs/archive/2c76fd3f11d533b455380ddc80ea8dd0c5712cd7.png@160w_90h_1c.webp",
   "videoTitle": "弾き語り 🐺🎀 打卡生日月每日歌回 Day7 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1659,7 +1737,8 @@ window.SONG_DATA.push(
   "videoDuration": 2093,
   "partDuration": 267,
   "videos": 9,
-  "viewCount": 67,
+  "viewCount": 83,
+  "cover": "https://i0.hdslb.com/bfs/archive/2c76fd3f11d533b455380ddc80ea8dd0c5712cd7.png@160w_90h_1c.webp",
   "videoTitle": "弾き語り 🐺🎀 打卡生日月每日歌回 Day7 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1680,7 +1759,8 @@ window.SONG_DATA.push(
   "videoDuration": 2093,
   "partDuration": 231,
   "videos": 9,
-  "viewCount": 67,
+  "viewCount": 83,
+  "cover": "https://i0.hdslb.com/bfs/archive/2c76fd3f11d533b455380ddc80ea8dd0c5712cd7.png@160w_90h_1c.webp",
   "videoTitle": "弾き語り 🐺🎀 打卡生日月每日歌回 Day7 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1701,7 +1781,8 @@ window.SONG_DATA.push(
   "videoDuration": 2093,
   "partDuration": 251,
   "videos": 9,
-  "viewCount": 67,
+  "viewCount": 83,
+  "cover": "https://i0.hdslb.com/bfs/archive/2c76fd3f11d533b455380ddc80ea8dd0c5712cd7.png@160w_90h_1c.webp",
   "videoTitle": "弾き語り 🐺🎀 打卡生日月每日歌回 Day7 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1722,7 +1803,8 @@ window.SONG_DATA.push(
   "videoDuration": 3829,
   "partDuration": 334,
   "videos": 15,
-  "viewCount": 90,
+  "viewCount": 139,
+  "cover": "https://i2.hdslb.com/bfs/archive/500eb440a3ea62df6246a490d62779db5580ddd3.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1743,7 +1825,8 @@ window.SONG_DATA.push(
   "videoDuration": 3829,
   "partDuration": 313,
   "videos": 15,
-  "viewCount": 90,
+  "viewCount": 139,
+  "cover": "https://i2.hdslb.com/bfs/archive/500eb440a3ea62df6246a490d62779db5580ddd3.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1764,7 +1847,8 @@ window.SONG_DATA.push(
   "videoDuration": 3829,
   "partDuration": 265,
   "videos": 15,
-  "viewCount": 90,
+  "viewCount": 139,
+  "cover": "https://i2.hdslb.com/bfs/archive/500eb440a3ea62df6246a490d62779db5580ddd3.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1785,7 +1869,8 @@ window.SONG_DATA.push(
   "videoDuration": 3829,
   "partDuration": 266,
   "videos": 15,
-  "viewCount": 90,
+  "viewCount": 139,
+  "cover": "https://i2.hdslb.com/bfs/archive/500eb440a3ea62df6246a490d62779db5580ddd3.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1806,7 +1891,8 @@ window.SONG_DATA.push(
   "videoDuration": 3829,
   "partDuration": 303,
   "videos": 15,
-  "viewCount": 90,
+  "viewCount": 139,
+  "cover": "https://i2.hdslb.com/bfs/archive/500eb440a3ea62df6246a490d62779db5580ddd3.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1827,7 +1913,8 @@ window.SONG_DATA.push(
   "videoDuration": 3829,
   "partDuration": 238,
   "videos": 15,
-  "viewCount": 90,
+  "viewCount": 139,
+  "cover": "https://i2.hdslb.com/bfs/archive/500eb440a3ea62df6246a490d62779db5580ddd3.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1848,7 +1935,8 @@ window.SONG_DATA.push(
   "videoDuration": 3829,
   "partDuration": 208,
   "videos": 15,
-  "viewCount": 90,
+  "viewCount": 139,
+  "cover": "https://i2.hdslb.com/bfs/archive/500eb440a3ea62df6246a490d62779db5580ddd3.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1869,7 +1957,8 @@ window.SONG_DATA.push(
   "videoDuration": 3829,
   "partDuration": 247,
   "videos": 15,
-  "viewCount": 90,
+  "viewCount": 139,
+  "cover": "https://i2.hdslb.com/bfs/archive/500eb440a3ea62df6246a490d62779db5580ddd3.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1890,7 +1979,8 @@ window.SONG_DATA.push(
   "videoDuration": 3829,
   "partDuration": 263,
   "videos": 15,
-  "viewCount": 90,
+  "viewCount": 139,
+  "cover": "https://i2.hdslb.com/bfs/archive/500eb440a3ea62df6246a490d62779db5580ddd3.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1911,7 +2001,8 @@ window.SONG_DATA.push(
   "videoDuration": 3829,
   "partDuration": 189,
   "videos": 15,
-  "viewCount": 90,
+  "viewCount": 139,
+  "cover": "https://i2.hdslb.com/bfs/archive/500eb440a3ea62df6246a490d62779db5580ddd3.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1932,7 +2023,8 @@ window.SONG_DATA.push(
   "videoDuration": 3829,
   "partDuration": 197,
   "videos": 15,
-  "viewCount": 90,
+  "viewCount": 139,
+  "cover": "https://i2.hdslb.com/bfs/archive/500eb440a3ea62df6246a490d62779db5580ddd3.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1953,7 +2045,8 @@ window.SONG_DATA.push(
   "videoDuration": 3829,
   "partDuration": 237,
   "videos": 15,
-  "viewCount": 90,
+  "viewCount": 139,
+  "cover": "https://i2.hdslb.com/bfs/archive/500eb440a3ea62df6246a490d62779db5580ddd3.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1974,7 +2067,8 @@ window.SONG_DATA.push(
   "videoDuration": 3829,
   "partDuration": 182,
   "videos": 15,
-  "viewCount": 90,
+  "viewCount": 139,
+  "cover": "https://i2.hdslb.com/bfs/archive/500eb440a3ea62df6246a490d62779db5580ddd3.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1995,7 +2089,8 @@ window.SONG_DATA.push(
   "videoDuration": 3829,
   "partDuration": 257,
   "videos": 15,
-  "viewCount": 90,
+  "viewCount": 139,
+  "cover": "https://i2.hdslb.com/bfs/archive/500eb440a3ea62df6246a490d62779db5580ddd3.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2016,7 +2111,8 @@ window.SONG_DATA.push(
   "videoDuration": 3829,
   "partDuration": 330,
   "videos": 15,
-  "viewCount": 90,
+  "viewCount": 139,
+  "cover": "https://i2.hdslb.com/bfs/archive/500eb440a3ea62df6246a490d62779db5580ddd3.png@160w_90h_1c.webp",
   "videoTitle": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367

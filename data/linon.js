@@ -1,6 +1,6 @@
 // 天籠りのん - 歌单数据 (多合集汇总)
 // 来源: BV1hw4m1i7qN
-// 生成时间: 2026/4/14 09:00:11
+// 生成时间: 2026/5/24 23:46:42
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -21,7 +21,8 @@ window.SONG_DATA.push(
   "videoDuration": 2532,
   "partDuration": 268,
   "videos": 11,
-  "viewCount": 796,
+  "viewCount": 3185,
+  "cover": "https://i1.hdslb.com/bfs/archive/682ed62be6e701637aadf5438ec307e8d202cc4c.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】13】だから僕は音楽を辞めた、秒針を噛む、夜に駆ける、怪獣の花唄【240601】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -42,7 +43,8 @@ window.SONG_DATA.push(
   "videoDuration": 2532,
   "partDuration": 237,
   "videos": 11,
-  "viewCount": 796,
+  "viewCount": 3185,
+  "cover": "https://i1.hdslb.com/bfs/archive/682ed62be6e701637aadf5438ec307e8d202cc4c.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】13】だから僕は音楽を辞めた、秒針を噛む、夜に駆ける、怪獣の花唄【240601】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -63,7 +65,8 @@ window.SONG_DATA.push(
   "videoDuration": 2532,
   "partDuration": 212,
   "videos": 11,
-  "viewCount": 796,
+  "viewCount": 3185,
+  "cover": "https://i1.hdslb.com/bfs/archive/682ed62be6e701637aadf5438ec307e8d202cc4c.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】13】だから僕は音楽を辞めた、秒針を噛む、夜に駆ける、怪獣の花唄【240601】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -84,7 +87,8 @@ window.SONG_DATA.push(
   "videoDuration": 2532,
   "partDuration": 183,
   "videos": 11,
-  "viewCount": 796,
+  "viewCount": 3185,
+  "cover": "https://i1.hdslb.com/bfs/archive/682ed62be6e701637aadf5438ec307e8d202cc4c.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】13】だから僕は音楽を辞めた、秒針を噛む、夜に駆ける、怪獣の花唄【240601】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -105,7 +109,8 @@ window.SONG_DATA.push(
   "videoDuration": 2532,
   "partDuration": 220,
   "videos": 11,
-  "viewCount": 796,
+  "viewCount": 3185,
+  "cover": "https://i1.hdslb.com/bfs/archive/682ed62be6e701637aadf5438ec307e8d202cc4c.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】13】だから僕は音楽を辞めた、秒針を噛む、夜に駆ける、怪獣の花唄【240601】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -126,7 +131,8 @@ window.SONG_DATA.push(
   "videoDuration": 2532,
   "partDuration": 198,
   "videos": 11,
-  "viewCount": 796,
+  "viewCount": 3185,
+  "cover": "https://i1.hdslb.com/bfs/archive/682ed62be6e701637aadf5438ec307e8d202cc4c.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】13】だから僕は音楽を辞めた、秒針を噛む、夜に駆ける、怪獣の花唄【240601】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -147,7 +153,8 @@ window.SONG_DATA.push(
   "videoDuration": 2532,
   "partDuration": 244,
   "videos": 11,
-  "viewCount": 796,
+  "viewCount": 3185,
+  "cover": "https://i1.hdslb.com/bfs/archive/682ed62be6e701637aadf5438ec307e8d202cc4c.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】13】だから僕は音楽を辞めた、秒針を噛む、夜に駆ける、怪獣の花唄【240601】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -168,7 +175,8 @@ window.SONG_DATA.push(
   "videoDuration": 2532,
   "partDuration": 255,
   "videos": 11,
-  "viewCount": 796,
+  "viewCount": 3185,
+  "cover": "https://i1.hdslb.com/bfs/archive/682ed62be6e701637aadf5438ec307e8d202cc4c.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】13】だから僕は音楽を辞めた、秒針を噛む、夜に駆ける、怪獣の花唄【240601】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -189,7 +197,8 @@ window.SONG_DATA.push(
   "videoDuration": 2532,
   "partDuration": 245,
   "videos": 11,
-  "viewCount": 796,
+  "viewCount": 3185,
+  "cover": "https://i1.hdslb.com/bfs/archive/682ed62be6e701637aadf5438ec307e8d202cc4c.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】13】だから僕は音楽を辞めた、秒針を噛む、夜に駆ける、怪獣の花唄【240601】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -210,7 +219,8 @@ window.SONG_DATA.push(
   "videoDuration": 2532,
   "partDuration": 243,
   "videos": 11,
-  "viewCount": 796,
+  "viewCount": 3185,
+  "cover": "https://i1.hdslb.com/bfs/archive/682ed62be6e701637aadf5438ec307e8d202cc4c.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】13】だから僕は音楽を辞めた、秒針を噛む、夜に駆ける、怪獣の花唄【240601】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -231,7 +241,8 @@ window.SONG_DATA.push(
   "videoDuration": 2532,
   "partDuration": 227,
   "videos": 11,
-  "viewCount": 796,
+  "viewCount": 3185,
+  "cover": "https://i1.hdslb.com/bfs/archive/682ed62be6e701637aadf5438ec307e8d202cc4c.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】13】だから僕は音楽を辞めた、秒針を噛む、夜に駆ける、怪獣の花唄【240601】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -252,7 +263,8 @@ window.SONG_DATA.push(
   "videoDuration": 3633,
   "partDuration": 201,
   "videos": 15,
-  "viewCount": 58,
+  "viewCount": 62,
+  "cover": "https://i2.hdslb.com/bfs/archive/3b72b64fab36650e6146cf02e1f3ac5c1b07d244.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん 】15】最强音压注意✧神曲狂欢♡【2024年5月4日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -273,7 +285,8 @@ window.SONG_DATA.push(
   "videoDuration": 3633,
   "partDuration": 209,
   "videos": 15,
-  "viewCount": 58,
+  "viewCount": 62,
+  "cover": "https://i2.hdslb.com/bfs/archive/3b72b64fab36650e6146cf02e1f3ac5c1b07d244.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん 】15】最强音压注意✧神曲狂欢♡【2024年5月4日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -294,7 +307,8 @@ window.SONG_DATA.push(
   "videoDuration": 3633,
   "partDuration": 275,
   "videos": 15,
-  "viewCount": 58,
+  "viewCount": 62,
+  "cover": "https://i2.hdslb.com/bfs/archive/3b72b64fab36650e6146cf02e1f3ac5c1b07d244.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん 】15】最强音压注意✧神曲狂欢♡【2024年5月4日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -315,7 +329,8 @@ window.SONG_DATA.push(
   "videoDuration": 3633,
   "partDuration": 301,
   "videos": 15,
-  "viewCount": 58,
+  "viewCount": 62,
+  "cover": "https://i2.hdslb.com/bfs/archive/3b72b64fab36650e6146cf02e1f3ac5c1b07d244.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん 】15】最强音压注意✧神曲狂欢♡【2024年5月4日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -336,7 +351,8 @@ window.SONG_DATA.push(
   "videoDuration": 3633,
   "partDuration": 220,
   "videos": 15,
-  "viewCount": 58,
+  "viewCount": 62,
+  "cover": "https://i2.hdslb.com/bfs/archive/3b72b64fab36650e6146cf02e1f3ac5c1b07d244.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん 】15】最强音压注意✧神曲狂欢♡【2024年5月4日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -357,7 +373,8 @@ window.SONG_DATA.push(
   "videoDuration": 3633,
   "partDuration": 181,
   "videos": 15,
-  "viewCount": 58,
+  "viewCount": 62,
+  "cover": "https://i2.hdslb.com/bfs/archive/3b72b64fab36650e6146cf02e1f3ac5c1b07d244.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん 】15】最强音压注意✧神曲狂欢♡【2024年5月4日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -378,7 +395,8 @@ window.SONG_DATA.push(
   "videoDuration": 3633,
   "partDuration": 250,
   "videos": 15,
-  "viewCount": 58,
+  "viewCount": 62,
+  "cover": "https://i2.hdslb.com/bfs/archive/3b72b64fab36650e6146cf02e1f3ac5c1b07d244.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん 】15】最强音压注意✧神曲狂欢♡【2024年5月4日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -399,7 +417,8 @@ window.SONG_DATA.push(
   "videoDuration": 3633,
   "partDuration": 197,
   "videos": 15,
-  "viewCount": 58,
+  "viewCount": 62,
+  "cover": "https://i2.hdslb.com/bfs/archive/3b72b64fab36650e6146cf02e1f3ac5c1b07d244.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん 】15】最强音压注意✧神曲狂欢♡【2024年5月4日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -420,7 +439,8 @@ window.SONG_DATA.push(
   "videoDuration": 3633,
   "partDuration": 277,
   "videos": 15,
-  "viewCount": 58,
+  "viewCount": 62,
+  "cover": "https://i2.hdslb.com/bfs/archive/3b72b64fab36650e6146cf02e1f3ac5c1b07d244.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん 】15】最强音压注意✧神曲狂欢♡【2024年5月4日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -441,7 +461,8 @@ window.SONG_DATA.push(
   "videoDuration": 3633,
   "partDuration": 255,
   "videos": 15,
-  "viewCount": 58,
+  "viewCount": 62,
+  "cover": "https://i2.hdslb.com/bfs/archive/3b72b64fab36650e6146cf02e1f3ac5c1b07d244.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん 】15】最强音压注意✧神曲狂欢♡【2024年5月4日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -462,7 +483,8 @@ window.SONG_DATA.push(
   "videoDuration": 3633,
   "partDuration": 202,
   "videos": 15,
-  "viewCount": 58,
+  "viewCount": 62,
+  "cover": "https://i2.hdslb.com/bfs/archive/3b72b64fab36650e6146cf02e1f3ac5c1b07d244.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん 】15】最强音压注意✧神曲狂欢♡【2024年5月4日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -483,7 +505,8 @@ window.SONG_DATA.push(
   "videoDuration": 3633,
   "partDuration": 305,
   "videos": 15,
-  "viewCount": 58,
+  "viewCount": 62,
+  "cover": "https://i2.hdslb.com/bfs/archive/3b72b64fab36650e6146cf02e1f3ac5c1b07d244.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん 】15】最强音压注意✧神曲狂欢♡【2024年5月4日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -504,7 +527,8 @@ window.SONG_DATA.push(
   "videoDuration": 3633,
   "partDuration": 275,
   "videos": 15,
-  "viewCount": 58,
+  "viewCount": 62,
+  "cover": "https://i2.hdslb.com/bfs/archive/3b72b64fab36650e6146cf02e1f3ac5c1b07d244.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん 】15】最强音压注意✧神曲狂欢♡【2024年5月4日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -525,7 +549,8 @@ window.SONG_DATA.push(
   "videoDuration": 3633,
   "partDuration": 256,
   "videos": 15,
-  "viewCount": 58,
+  "viewCount": 62,
+  "cover": "https://i2.hdslb.com/bfs/archive/3b72b64fab36650e6146cf02e1f3ac5c1b07d244.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん 】15】最强音压注意✧神曲狂欢♡【2024年5月4日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -546,7 +571,8 @@ window.SONG_DATA.push(
   "videoDuration": 3633,
   "partDuration": 229,
   "videos": 15,
-  "viewCount": 58,
+  "viewCount": 62,
+  "cover": "https://i2.hdslb.com/bfs/archive/3b72b64fab36650e6146cf02e1f3ac5c1b07d244.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん 】15】最强音压注意✧神曲狂欢♡【2024年5月4日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -567,7 +593,8 @@ window.SONG_DATA.push(
   "videoDuration": 1323,
   "partDuration": 278,
   "videos": 5,
-  "viewCount": 72,
+  "viewCount": 73,
+  "cover": "https://i1.hdslb.com/bfs/archive/23f6d7923adc2bedf4fbcb3824203eaf54e560d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】5】God knows... 、only my railgun、空色デイズ、コネクト、オレンジ【240523直播翻唱合集】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -588,7 +615,8 @@ window.SONG_DATA.push(
   "videoDuration": 1323,
   "partDuration": 246,
   "videos": 5,
-  "viewCount": 72,
+  "viewCount": 73,
+  "cover": "https://i1.hdslb.com/bfs/archive/23f6d7923adc2bedf4fbcb3824203eaf54e560d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】5】God knows... 、only my railgun、空色デイズ、コネクト、オレンジ【240523直播翻唱合集】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -609,7 +637,8 @@ window.SONG_DATA.push(
   "videoDuration": 1323,
   "partDuration": 252,
   "videos": 5,
-  "viewCount": 72,
+  "viewCount": 73,
+  "cover": "https://i1.hdslb.com/bfs/archive/23f6d7923adc2bedf4fbcb3824203eaf54e560d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】5】God knows... 、only my railgun、空色デイズ、コネクト、オレンジ【240523直播翻唱合集】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -630,7 +659,8 @@ window.SONG_DATA.push(
   "videoDuration": 1323,
   "partDuration": 271,
   "videos": 5,
-  "viewCount": 72,
+  "viewCount": 73,
+  "cover": "https://i1.hdslb.com/bfs/archive/23f6d7923adc2bedf4fbcb3824203eaf54e560d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】5】God knows... 、only my railgun、空色デイズ、コネクト、オレンジ【240523直播翻唱合集】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -651,7 +681,8 @@ window.SONG_DATA.push(
   "videoDuration": 1323,
   "partDuration": 276,
   "videos": 5,
-  "viewCount": 72,
+  "viewCount": 73,
+  "cover": "https://i1.hdslb.com/bfs/archive/23f6d7923adc2bedf4fbcb3824203eaf54e560d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】5】God knows... 、only my railgun、空色デイズ、コネクト、オレンジ【240523直播翻唱合集】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -672,7 +703,8 @@ window.SONG_DATA.push(
   "videoDuration": 3432,
   "partDuration": 231,
   "videos": 12,
-  "viewCount": 53,
+  "viewCount": 57,
+  "cover": "https://i2.hdslb.com/bfs/archive/7a3caf337908daed22cdd685e51c9778b856d252.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -693,7 +725,8 @@ window.SONG_DATA.push(
   "videoDuration": 3432,
   "partDuration": 246,
   "videos": 12,
-  "viewCount": 53,
+  "viewCount": 57,
+  "cover": "https://i2.hdslb.com/bfs/archive/7a3caf337908daed22cdd685e51c9778b856d252.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -714,7 +747,8 @@ window.SONG_DATA.push(
   "videoDuration": 3432,
   "partDuration": 533,
   "videos": 12,
-  "viewCount": 53,
+  "viewCount": 57,
+  "cover": "https://i2.hdslb.com/bfs/archive/7a3caf337908daed22cdd685e51c9778b856d252.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -735,7 +769,8 @@ window.SONG_DATA.push(
   "videoDuration": 3432,
   "partDuration": 274,
   "videos": 12,
-  "viewCount": 53,
+  "viewCount": 57,
+  "cover": "https://i2.hdslb.com/bfs/archive/7a3caf337908daed22cdd685e51c9778b856d252.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -756,7 +791,8 @@ window.SONG_DATA.push(
   "videoDuration": 3432,
   "partDuration": 229,
   "videos": 12,
-  "viewCount": 53,
+  "viewCount": 57,
+  "cover": "https://i2.hdslb.com/bfs/archive/7a3caf337908daed22cdd685e51c9778b856d252.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -777,7 +813,8 @@ window.SONG_DATA.push(
   "videoDuration": 3432,
   "partDuration": 235,
   "videos": 12,
-  "viewCount": 53,
+  "viewCount": 57,
+  "cover": "https://i2.hdslb.com/bfs/archive/7a3caf337908daed22cdd685e51c9778b856d252.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -798,7 +835,8 @@ window.SONG_DATA.push(
   "videoDuration": 3432,
   "partDuration": 271,
   "videos": 12,
-  "viewCount": 53,
+  "viewCount": 57,
+  "cover": "https://i2.hdslb.com/bfs/archive/7a3caf337908daed22cdd685e51c9778b856d252.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -819,7 +857,8 @@ window.SONG_DATA.push(
   "videoDuration": 3432,
   "partDuration": 249,
   "videos": 12,
-  "viewCount": 53,
+  "viewCount": 57,
+  "cover": "https://i2.hdslb.com/bfs/archive/7a3caf337908daed22cdd685e51c9778b856d252.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -840,7 +879,8 @@ window.SONG_DATA.push(
   "videoDuration": 3432,
   "partDuration": 222,
   "videos": 12,
-  "viewCount": 53,
+  "viewCount": 57,
+  "cover": "https://i2.hdslb.com/bfs/archive/7a3caf337908daed22cdd685e51c9778b856d252.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -861,7 +901,8 @@ window.SONG_DATA.push(
   "videoDuration": 3432,
   "partDuration": 277,
   "videos": 12,
-  "viewCount": 53,
+  "viewCount": 57,
+  "cover": "https://i2.hdslb.com/bfs/archive/7a3caf337908daed22cdd685e51c9778b856d252.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -882,7 +923,8 @@ window.SONG_DATA.push(
   "videoDuration": 3432,
   "partDuration": 281,
   "videos": 12,
-  "viewCount": 53,
+  "viewCount": 57,
+  "cover": "https://i2.hdslb.com/bfs/archive/7a3caf337908daed22cdd685e51c9778b856d252.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -903,7 +945,8 @@ window.SONG_DATA.push(
   "videoDuration": 3432,
   "partDuration": 384,
   "videos": 12,
-  "viewCount": 53,
+  "viewCount": 57,
+  "cover": "https://i2.hdslb.com/bfs/archive/7a3caf337908daed22cdd685e51c9778b856d252.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -924,7 +967,8 @@ window.SONG_DATA.push(
   "videoDuration": 2322,
   "partDuration": 275,
   "videos": 10,
-  "viewCount": 79,
+  "viewCount": 81,
+  "cover": "https://i1.hdslb.com/bfs/archive/d8f83831e58e44b8d56aafad7f7706352964d781.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】10】粛聖!! ロリ神レクイエム☆、ビビデバ、ソワレ【2024年5月29日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -945,7 +989,8 @@ window.SONG_DATA.push(
   "videoDuration": 2322,
   "partDuration": 165,
   "videos": 10,
-  "viewCount": 79,
+  "viewCount": 81,
+  "cover": "https://i1.hdslb.com/bfs/archive/d8f83831e58e44b8d56aafad7f7706352964d781.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】10】粛聖!! ロリ神レクイエム☆、ビビデバ、ソワレ【2024年5月29日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -966,7 +1011,8 @@ window.SONG_DATA.push(
   "videoDuration": 2322,
   "partDuration": 228,
   "videos": 10,
-  "viewCount": 79,
+  "viewCount": 81,
+  "cover": "https://i1.hdslb.com/bfs/archive/d8f83831e58e44b8d56aafad7f7706352964d781.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】10】粛聖!! ロリ神レクイエム☆、ビビデバ、ソワレ【2024年5月29日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -987,7 +1033,8 @@ window.SONG_DATA.push(
   "videoDuration": 2322,
   "partDuration": 259,
   "videos": 10,
-  "viewCount": 79,
+  "viewCount": 81,
+  "cover": "https://i1.hdslb.com/bfs/archive/d8f83831e58e44b8d56aafad7f7706352964d781.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】10】粛聖!! ロリ神レクイエム☆、ビビデバ、ソワレ【2024年5月29日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1008,7 +1055,8 @@ window.SONG_DATA.push(
   "videoDuration": 2322,
   "partDuration": 254,
   "videos": 10,
-  "viewCount": 79,
+  "viewCount": 81,
+  "cover": "https://i1.hdslb.com/bfs/archive/d8f83831e58e44b8d56aafad7f7706352964d781.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】10】粛聖!! ロリ神レクイエム☆、ビビデバ、ソワレ【2024年5月29日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1029,7 +1077,8 @@ window.SONG_DATA.push(
   "videoDuration": 2322,
   "partDuration": 232,
   "videos": 10,
-  "viewCount": 79,
+  "viewCount": 81,
+  "cover": "https://i1.hdslb.com/bfs/archive/d8f83831e58e44b8d56aafad7f7706352964d781.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】10】粛聖!! ロリ神レクイエム☆、ビビデバ、ソワレ【2024年5月29日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1050,7 +1099,8 @@ window.SONG_DATA.push(
   "videoDuration": 2322,
   "partDuration": 193,
   "videos": 10,
-  "viewCount": 79,
+  "viewCount": 81,
+  "cover": "https://i1.hdslb.com/bfs/archive/d8f83831e58e44b8d56aafad7f7706352964d781.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】10】粛聖!! ロリ神レクイエム☆、ビビデバ、ソワレ【2024年5月29日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1071,7 +1121,8 @@ window.SONG_DATA.push(
   "videoDuration": 2322,
   "partDuration": 163,
   "videos": 10,
-  "viewCount": 79,
+  "viewCount": 81,
+  "cover": "https://i1.hdslb.com/bfs/archive/d8f83831e58e44b8d56aafad7f7706352964d781.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】10】粛聖!! ロリ神レクイエム☆、ビビデバ、ソワレ【2024年5月29日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1092,7 +1143,8 @@ window.SONG_DATA.push(
   "videoDuration": 2322,
   "partDuration": 315,
   "videos": 10,
-  "viewCount": 79,
+  "viewCount": 81,
+  "cover": "https://i1.hdslb.com/bfs/archive/d8f83831e58e44b8d56aafad7f7706352964d781.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】10】粛聖!! ロリ神レクイエム☆、ビビデバ、ソワレ【2024年5月29日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1113,7 +1165,8 @@ window.SONG_DATA.push(
   "videoDuration": 2322,
   "partDuration": 238,
   "videos": 10,
-  "viewCount": 79,
+  "viewCount": 81,
+  "cover": "https://i1.hdslb.com/bfs/archive/d8f83831e58e44b8d56aafad7f7706352964d781.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】10】粛聖!! ロリ神レクイエム☆、ビビデバ、ソワレ【2024年5月29日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1134,7 +1187,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 197,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1155,7 +1209,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 142,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1176,7 +1231,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 163,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1197,7 +1253,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 194,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1218,7 +1275,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 272,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1239,7 +1297,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 262,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1260,7 +1319,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 190,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1281,7 +1341,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 198,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1302,7 +1363,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 183,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1323,7 +1385,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 239,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1344,7 +1407,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 288,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1365,7 +1429,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 276,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1386,7 +1451,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 530,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1407,7 +1473,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 255,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1428,7 +1495,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 256,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1449,7 +1517,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 216,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1470,7 +1539,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 1816,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1491,7 +1561,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 198,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1512,7 +1583,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 162,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1533,7 +1605,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 233,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1554,7 +1627,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 271,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1575,7 +1649,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 183,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1596,7 +1671,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 212,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1617,7 +1693,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 271,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1638,7 +1715,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 252,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1659,7 +1737,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 242,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1680,7 +1759,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 282,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1701,7 +1781,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 213,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1722,7 +1803,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 315,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1743,7 +1825,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 238,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1764,7 +1847,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 240,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1785,7 +1869,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 198,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1806,7 +1891,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 184,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1827,7 +1913,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 195,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1848,7 +1935,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 256,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1869,7 +1957,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 148,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1890,7 +1979,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 389,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1911,7 +2001,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 301,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1932,7 +2023,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 220,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1953,7 +2045,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 250,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1974,7 +2067,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 197,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1995,7 +2089,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 255,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2016,7 +2111,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 202,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2037,7 +2133,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 305,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2058,7 +2155,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 275,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2079,7 +2177,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 256,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2100,7 +2199,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 229,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2121,7 +2221,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 228,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2142,7 +2243,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 221,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2163,7 +2265,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 210,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2184,7 +2287,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 222,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2205,7 +2309,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 198,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2226,7 +2331,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 304,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2247,7 +2353,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 220,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2268,7 +2375,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 338,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2289,7 +2397,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 234,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2310,7 +2419,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 238,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2331,7 +2441,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 234,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2352,7 +2463,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 192,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2373,7 +2485,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 246,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2394,7 +2507,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 252,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2415,7 +2529,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 271,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2436,7 +2551,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 276,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2457,7 +2573,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 231,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2478,7 +2595,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 246,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2499,7 +2617,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 533,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2520,7 +2639,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 274,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2541,7 +2661,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 229,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2562,7 +2683,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 235,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2583,7 +2705,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 271,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2604,7 +2727,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 249,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2625,7 +2749,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 222,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2646,7 +2771,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 277,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2667,7 +2793,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 281,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2688,7 +2815,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 384,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2709,7 +2837,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 275,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2730,7 +2859,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 259,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2751,7 +2881,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 254,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2772,7 +2903,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 232,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2793,7 +2925,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 193,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2814,7 +2947,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 163,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2835,7 +2969,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 315,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2856,7 +2991,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 238,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2877,7 +3013,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 268,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2898,7 +3035,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 183,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2919,7 +3057,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 220,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2940,7 +3079,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 244,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2961,7 +3101,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 255,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2982,7 +3123,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 245,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3003,7 +3145,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 241,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3024,7 +3167,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 223,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3045,7 +3189,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 215,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3066,7 +3211,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 225,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3087,7 +3233,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 203,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3108,7 +3255,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 234,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3129,7 +3277,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 227,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3150,7 +3299,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 200,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3171,7 +3321,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 175,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3192,7 +3343,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 311,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3213,7 +3365,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 217,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3234,7 +3387,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 382,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3255,7 +3409,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 184,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3276,7 +3431,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 190,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3297,7 +3453,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 190,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3318,7 +3475,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 274,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3339,7 +3497,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 109,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3360,7 +3519,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 236,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3381,7 +3541,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 216,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3402,7 +3563,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 197,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3423,7 +3585,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 162,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3444,7 +3607,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 300,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3465,7 +3629,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 252,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3486,7 +3651,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 254,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3507,7 +3673,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 248,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3528,7 +3695,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 209,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3549,7 +3717,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 176,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3570,7 +3739,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 273,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3591,7 +3761,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 653,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3612,7 +3783,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 276,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3633,7 +3805,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 221,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3654,7 +3827,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 474,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3675,7 +3849,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 405,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3696,7 +3871,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 220,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3717,7 +3893,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 262,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3738,7 +3915,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 392,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3759,7 +3937,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 218,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3780,7 +3959,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 292,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3801,7 +3981,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 212,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3822,7 +4003,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 383,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3843,7 +4025,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 173,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3864,7 +4047,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 227,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3885,7 +4069,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 193,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3906,7 +4091,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 224,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3927,7 +4113,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 215,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3948,7 +4135,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 200,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3969,7 +4157,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 244,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3990,7 +4179,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 343,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4011,7 +4201,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 283,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4032,7 +4223,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 241,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4053,7 +4245,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 311,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4074,7 +4267,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 230,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4095,7 +4289,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 224,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4116,7 +4311,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 172,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4137,7 +4333,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 246,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4158,7 +4355,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 246,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4179,7 +4377,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 248,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4200,7 +4399,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 230,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4221,7 +4421,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 183,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4242,7 +4443,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 162,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4263,7 +4465,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 226,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4284,7 +4487,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 234,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4305,7 +4509,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 262,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4326,7 +4531,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 228,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4347,7 +4553,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 204,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4368,7 +4575,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 317,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4389,7 +4597,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 299,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4410,7 +4619,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 241,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4431,7 +4641,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 765,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4452,7 +4663,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 460,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4473,7 +4685,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 174,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4494,7 +4707,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 175,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4515,7 +4729,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 201,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4536,7 +4751,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 311,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4557,7 +4773,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 217,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4578,7 +4795,8 @@ window.SONG_DATA.push(
   "videoDuration": 42930,
   "partDuration": 181,
   "videos": 165,
-  "viewCount": 492,
+  "viewCount": 509,
+  "cover": "https://i2.hdslb.com/bfs/archive/33b7419dbbbb3d358443bbd0284654bec524b039.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 🎀🏳 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4599,7 +4817,8 @@ window.SONG_DATA.push(
   "videoDuration": 2819,
   "partDuration": 241,
   "videos": 13,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i2.hdslb.com/bfs/archive/42b85667a2c7d7b85a4de8f8ee64cb5f495723f8.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】13】复仇曲目较多的歌回【240609】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4620,7 +4839,8 @@ window.SONG_DATA.push(
   "videoDuration": 2819,
   "partDuration": 223,
   "videos": 13,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i2.hdslb.com/bfs/archive/42b85667a2c7d7b85a4de8f8ee64cb5f495723f8.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】13】复仇曲目较多的歌回【240609】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4641,7 +4861,8 @@ window.SONG_DATA.push(
   "videoDuration": 2819,
   "partDuration": 197,
   "videos": 13,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i2.hdslb.com/bfs/archive/42b85667a2c7d7b85a4de8f8ee64cb5f495723f8.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】13】复仇曲目较多的歌回【240609】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4662,7 +4883,8 @@ window.SONG_DATA.push(
   "videoDuration": 2819,
   "partDuration": 215,
   "videos": 13,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i2.hdslb.com/bfs/archive/42b85667a2c7d7b85a4de8f8ee64cb5f495723f8.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】13】复仇曲目较多的歌回【240609】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4683,7 +4905,8 @@ window.SONG_DATA.push(
   "videoDuration": 2819,
   "partDuration": 164,
   "videos": 13,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i2.hdslb.com/bfs/archive/42b85667a2c7d7b85a4de8f8ee64cb5f495723f8.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】13】复仇曲目较多的歌回【240609】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4704,7 +4927,8 @@ window.SONG_DATA.push(
   "videoDuration": 2819,
   "partDuration": 227,
   "videos": 13,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i2.hdslb.com/bfs/archive/42b85667a2c7d7b85a4de8f8ee64cb5f495723f8.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】13】复仇曲目较多的歌回【240609】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4725,7 +4949,8 @@ window.SONG_DATA.push(
   "videoDuration": 2819,
   "partDuration": 225,
   "videos": 13,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i2.hdslb.com/bfs/archive/42b85667a2c7d7b85a4de8f8ee64cb5f495723f8.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】13】复仇曲目较多的歌回【240609】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4746,7 +4971,8 @@ window.SONG_DATA.push(
   "videoDuration": 2819,
   "partDuration": 203,
   "videos": 13,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i2.hdslb.com/bfs/archive/42b85667a2c7d7b85a4de8f8ee64cb5f495723f8.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】13】复仇曲目较多的歌回【240609】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4767,7 +4993,8 @@ window.SONG_DATA.push(
   "videoDuration": 2819,
   "partDuration": 234,
   "videos": 13,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i2.hdslb.com/bfs/archive/42b85667a2c7d7b85a4de8f8ee64cb5f495723f8.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】13】复仇曲目较多的歌回【240609】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4788,7 +5015,8 @@ window.SONG_DATA.push(
   "videoDuration": 2819,
   "partDuration": 209,
   "videos": 13,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i2.hdslb.com/bfs/archive/42b85667a2c7d7b85a4de8f8ee64cb5f495723f8.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】13】复仇曲目较多的歌回【240609】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4809,7 +5037,8 @@ window.SONG_DATA.push(
   "videoDuration": 2819,
   "partDuration": 227,
   "videos": 13,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i2.hdslb.com/bfs/archive/42b85667a2c7d7b85a4de8f8ee64cb5f495723f8.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】13】复仇曲目较多的歌回【240609】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4830,7 +5059,8 @@ window.SONG_DATA.push(
   "videoDuration": 2819,
   "partDuration": 200,
   "videos": 13,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i2.hdslb.com/bfs/archive/42b85667a2c7d7b85a4de8f8ee64cb5f495723f8.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】13】复仇曲目较多的歌回【240609】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4851,7 +5081,8 @@ window.SONG_DATA.push(
   "videoDuration": 2819,
   "partDuration": 254,
   "videos": 13,
-  "viewCount": 147,
+  "viewCount": 149,
+  "cover": "https://i2.hdslb.com/bfs/archive/42b85667a2c7d7b85a4de8f8ee64cb5f495723f8.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】13】复仇曲目较多的歌回【240609】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4873,6 +5104,7 @@ window.SONG_DATA.push(
   "partDuration": 174,
   "videos": 5,
   "viewCount": 61,
+  "cover": "https://i1.hdslb.com/bfs/archive/93aba3250dc029b186b3bdd34b2fff2a2cdb24ca.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】5】就寝RTA歌枠【240614】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4894,6 +5126,7 @@ window.SONG_DATA.push(
   "partDuration": 175,
   "videos": 5,
   "viewCount": 61,
+  "cover": "https://i1.hdslb.com/bfs/archive/93aba3250dc029b186b3bdd34b2fff2a2cdb24ca.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】5】就寝RTA歌枠【240614】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4915,6 +5148,7 @@ window.SONG_DATA.push(
   "partDuration": 201,
   "videos": 5,
   "viewCount": 61,
+  "cover": "https://i1.hdslb.com/bfs/archive/93aba3250dc029b186b3bdd34b2fff2a2cdb24ca.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】5】就寝RTA歌枠【240614】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4936,6 +5170,7 @@ window.SONG_DATA.push(
   "partDuration": 311,
   "videos": 5,
   "viewCount": 61,
+  "cover": "https://i1.hdslb.com/bfs/archive/93aba3250dc029b186b3bdd34b2fff2a2cdb24ca.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】5】就寝RTA歌枠【240614】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4957,6 +5192,7 @@ window.SONG_DATA.push(
   "partDuration": 217,
   "videos": 5,
   "viewCount": 61,
+  "cover": "https://i1.hdslb.com/bfs/archive/93aba3250dc029b186b3bdd34b2fff2a2cdb24ca.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】5】就寝RTA歌枠【240614】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4978,6 +5214,7 @@ window.SONG_DATA.push(
   "partDuration": 274,
   "videos": 4,
   "viewCount": 43,
+  "cover": "https://i2.hdslb.com/bfs/archive/95e8ab02cd11992e8b10824ec21f326981ca8398.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】オレンジ、花に亡霊、恋愛サーキュレーション、晩餐歌【240706】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4999,6 +5236,7 @@ window.SONG_DATA.push(
   "partDuration": 109,
   "videos": 4,
   "viewCount": 43,
+  "cover": "https://i2.hdslb.com/bfs/archive/95e8ab02cd11992e8b10824ec21f326981ca8398.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】オレンジ、花に亡霊、恋愛サーキュレーション、晩餐歌【240706】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5020,6 +5258,7 @@ window.SONG_DATA.push(
   "partDuration": 236,
   "videos": 4,
   "viewCount": 43,
+  "cover": "https://i2.hdslb.com/bfs/archive/95e8ab02cd11992e8b10824ec21f326981ca8398.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】オレンジ、花に亡霊、恋愛サーキュレーション、晩餐歌【240706】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5041,6 +5280,7 @@ window.SONG_DATA.push(
   "partDuration": 216,
   "videos": 4,
   "viewCount": 43,
+  "cover": "https://i2.hdslb.com/bfs/archive/95e8ab02cd11992e8b10824ec21f326981ca8398.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】オレンジ、花に亡霊、恋愛サーキュレーション、晩餐歌【240706】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5061,7 +5301,8 @@ window.SONG_DATA.push(
   "videoDuration": 1330,
   "partDuration": 197,
   "videos": 6,
-  "viewCount": 80,
+  "viewCount": 81,
+  "cover": "https://i0.hdslb.com/bfs/archive/c687a6688bc8255faf3c70ca817c858d2fb5a31f.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん 】6】唱、マーシャル・マキシマイザー、ビビデバ 【240711】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5082,7 +5323,8 @@ window.SONG_DATA.push(
   "videoDuration": 1330,
   "partDuration": 162,
   "videos": 6,
-  "viewCount": 80,
+  "viewCount": 81,
+  "cover": "https://i0.hdslb.com/bfs/archive/c687a6688bc8255faf3c70ca817c858d2fb5a31f.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん 】6】唱、マーシャル・マキシマイザー、ビビデバ 【240711】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5103,7 +5345,8 @@ window.SONG_DATA.push(
   "videoDuration": 1330,
   "partDuration": 164,
   "videos": 6,
-  "viewCount": 80,
+  "viewCount": 81,
+  "cover": "https://i0.hdslb.com/bfs/archive/c687a6688bc8255faf3c70ca817c858d2fb5a31f.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん 】6】唱、マーシャル・マキシマイザー、ビビデバ 【240711】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5124,7 +5367,8 @@ window.SONG_DATA.push(
   "videoDuration": 1330,
   "partDuration": 301,
   "videos": 6,
-  "viewCount": 80,
+  "viewCount": 81,
+  "cover": "https://i0.hdslb.com/bfs/archive/c687a6688bc8255faf3c70ca817c858d2fb5a31f.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん 】6】唱、マーシャル・マキシマイザー、ビビデバ 【240711】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5145,7 +5389,8 @@ window.SONG_DATA.push(
   "videoDuration": 1330,
   "partDuration": 252,
   "videos": 6,
-  "viewCount": 80,
+  "viewCount": 81,
+  "cover": "https://i0.hdslb.com/bfs/archive/c687a6688bc8255faf3c70ca817c858d2fb5a31f.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん 】6】唱、マーシャル・マキシマイザー、ビビデバ 【240711】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5166,7 +5411,8 @@ window.SONG_DATA.push(
   "videoDuration": 1330,
   "partDuration": 254,
   "videos": 6,
-  "viewCount": 80,
+  "viewCount": 81,
+  "cover": "https://i0.hdslb.com/bfs/archive/c687a6688bc8255faf3c70ca817c858d2fb5a31f.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん 】6】唱、マーシャル・マキシマイザー、ビビデバ 【240711】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5187,7 +5433,8 @@ window.SONG_DATA.push(
   "videoDuration": 1109,
   "partDuration": 246,
   "videos": 5,
-  "viewCount": 98,
+  "viewCount": 99,
+  "cover": "https://i0.hdslb.com/bfs/archive/f8b4c1f84e64aebe07e0d1bc978cd5452c73851f.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】炉心融解、oath sign、Rising Hope、ウタカタララバイ【240718】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5208,7 +5455,8 @@ window.SONG_DATA.push(
   "videoDuration": 1109,
   "partDuration": 248,
   "videos": 5,
-  "viewCount": 98,
+  "viewCount": 99,
+  "cover": "https://i0.hdslb.com/bfs/archive/f8b4c1f84e64aebe07e0d1bc978cd5452c73851f.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】炉心融解、oath sign、Rising Hope、ウタカタララバイ【240718】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5229,7 +5477,8 @@ window.SONG_DATA.push(
   "videoDuration": 1109,
   "partDuration": 209,
   "videos": 5,
-  "viewCount": 98,
+  "viewCount": 99,
+  "cover": "https://i0.hdslb.com/bfs/archive/f8b4c1f84e64aebe07e0d1bc978cd5452c73851f.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】炉心融解、oath sign、Rising Hope、ウタカタララバイ【240718】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5250,7 +5499,8 @@ window.SONG_DATA.push(
   "videoDuration": 1109,
   "partDuration": 229,
   "videos": 5,
-  "viewCount": 98,
+  "viewCount": 99,
+  "cover": "https://i0.hdslb.com/bfs/archive/f8b4c1f84e64aebe07e0d1bc978cd5452c73851f.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】炉心融解、oath sign、Rising Hope、ウタカタララバイ【240718】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5271,7 +5521,8 @@ window.SONG_DATA.push(
   "videoDuration": 1109,
   "partDuration": 177,
   "videos": 5,
-  "viewCount": 98,
+  "viewCount": 99,
+  "cover": "https://i0.hdslb.com/bfs/archive/f8b4c1f84e64aebe07e0d1bc978cd5452c73851f.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】炉心融解、oath sign、Rising Hope、ウタカタララバイ【240718】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5292,7 +5543,8 @@ window.SONG_DATA.push(
   "videoDuration": 1423,
   "partDuration": 273,
   "videos": 4,
-  "viewCount": 63,
+  "viewCount": 65,
+  "cover": "https://i2.hdslb.com/bfs/archive/d9f0ab8a371f2482f18d8843c316111e2c6726c6.jpg@160w_90h_1c.webp",
   "videoTitle": "白丝3D回，不看后悔【 Linon ch. 天籠りのん】6首分4P，中间强度串】【240721】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5313,7 +5565,8 @@ window.SONG_DATA.push(
   "videoDuration": 1423,
   "partDuration": 653,
   "videos": 4,
-  "viewCount": 63,
+  "viewCount": 65,
+  "cover": "https://i2.hdslb.com/bfs/archive/d9f0ab8a371f2482f18d8843c316111e2c6726c6.jpg@160w_90h_1c.webp",
   "videoTitle": "白丝3D回，不看后悔【 Linon ch. 天籠りのん】6首分4P，中间强度串】【240721】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5334,14 +5587,15 @@ window.SONG_DATA.push(
   "videoDuration": 1423,
   "partDuration": 276,
   "videos": 4,
-  "viewCount": 63,
+  "viewCount": 65,
+  "cover": "https://i2.hdslb.com/bfs/archive/d9f0ab8a371f2482f18d8843c316111e2c6726c6.jpg@160w_90h_1c.webp",
   "videoTitle": "白丝3D回，不看后悔【 Linon ch. 天籠りのん】6首分4P，中间强度串】【240721】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
 },
     {
-  "title": "虚無虚無です。- 天籠りのん",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "虚無虚無です。",
+  "artist": "天籠りのん",
   "collection": "白丝3D回，不看后悔【 Linon ch. 天籠りのん】6首分4P，中间强度串】【240721】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JV8mevE3a?p=4",
@@ -5355,7 +5609,8 @@ window.SONG_DATA.push(
   "videoDuration": 1423,
   "partDuration": 221,
   "videos": 4,
-  "viewCount": 63,
+  "viewCount": 65,
+  "cover": "https://i2.hdslb.com/bfs/archive/d9f0ab8a371f2482f18d8843c316111e2c6726c6.jpg@160w_90h_1c.webp",
   "videoTitle": "白丝3D回，不看后悔【 Linon ch. 天籠りのん】6首分4P，中间强度串】【240721】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5376,7 +5631,8 @@ window.SONG_DATA.push(
   "videoDuration": 1291,
   "partDuration": 192,
   "videos": 4,
-  "viewCount": 213,
+  "viewCount": 215,
+  "cover": "https://i0.hdslb.com/bfs/archive/5618b9153047136437807515671882d1ffec6e84.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】【人類滅亡部接力】6】雑踏、僕らの街、虚無虚無です",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5397,7 +5653,8 @@ window.SONG_DATA.push(
   "videoDuration": 1291,
   "partDuration": 474,
   "videos": 4,
-  "viewCount": 213,
+  "viewCount": 215,
+  "cover": "https://i0.hdslb.com/bfs/archive/5618b9153047136437807515671882d1ffec6e84.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】【人類滅亡部接力】6】雑踏、僕らの街、虚無虚無です",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5418,7 +5675,8 @@ window.SONG_DATA.push(
   "videoDuration": 1291,
   "partDuration": 405,
   "videos": 4,
-  "viewCount": 213,
+  "viewCount": 215,
+  "cover": "https://i0.hdslb.com/bfs/archive/5618b9153047136437807515671882d1ffec6e84.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】【人類滅亡部接力】6】雑踏、僕らの街、虚無虚無です",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5439,7 +5697,8 @@ window.SONG_DATA.push(
   "videoDuration": 1291,
   "partDuration": 220,
   "videos": 4,
-  "viewCount": 213,
+  "viewCount": 215,
+  "cover": "https://i0.hdslb.com/bfs/archive/5618b9153047136437807515671882d1ffec6e84.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】【人類滅亡部接力】6】雑踏、僕らの街、虚無虚無です",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5460,7 +5719,8 @@ window.SONG_DATA.push(
   "videoDuration": 5251,
   "partDuration": 262,
   "videos": 21,
-  "viewCount": 1075,
+  "viewCount": 1080,
+  "cover": "https://i0.hdslb.com/bfs/archive/9e36acd32e6d429d442c9de863605ac8d58efe44.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】22 合集",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5481,7 +5741,8 @@ window.SONG_DATA.push(
   "videoDuration": 5251,
   "partDuration": 392,
   "videos": 21,
-  "viewCount": 1075,
+  "viewCount": 1080,
+  "cover": "https://i0.hdslb.com/bfs/archive/9e36acd32e6d429d442c9de863605ac8d58efe44.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】22 合集",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5502,7 +5763,8 @@ window.SONG_DATA.push(
   "videoDuration": 5251,
   "partDuration": 219,
   "videos": 21,
-  "viewCount": 1075,
+  "viewCount": 1080,
+  "cover": "https://i0.hdslb.com/bfs/archive/9e36acd32e6d429d442c9de863605ac8d58efe44.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】22 合集",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5523,7 +5785,8 @@ window.SONG_DATA.push(
   "videoDuration": 5251,
   "partDuration": 292,
   "videos": 21,
-  "viewCount": 1075,
+  "viewCount": 1080,
+  "cover": "https://i0.hdslb.com/bfs/archive/9e36acd32e6d429d442c9de863605ac8d58efe44.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】22 合集",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5544,7 +5807,8 @@ window.SONG_DATA.push(
   "videoDuration": 5251,
   "partDuration": 212,
   "videos": 21,
-  "viewCount": 1075,
+  "viewCount": 1080,
+  "cover": "https://i0.hdslb.com/bfs/archive/9e36acd32e6d429d442c9de863605ac8d58efe44.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】22 合集",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5565,7 +5829,8 @@ window.SONG_DATA.push(
   "videoDuration": 5251,
   "partDuration": 215,
   "videos": 21,
-  "viewCount": 1075,
+  "viewCount": 1080,
+  "cover": "https://i0.hdslb.com/bfs/archive/9e36acd32e6d429d442c9de863605ac8d58efe44.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】22 合集",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5586,7 +5851,8 @@ window.SONG_DATA.push(
   "videoDuration": 5251,
   "partDuration": 163,
   "videos": 21,
-  "viewCount": 1075,
+  "viewCount": 1080,
+  "cover": "https://i0.hdslb.com/bfs/archive/9e36acd32e6d429d442c9de863605ac8d58efe44.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】22 合集",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5607,7 +5873,8 @@ window.SONG_DATA.push(
   "videoDuration": 5251,
   "partDuration": 227,
   "videos": 21,
-  "viewCount": 1075,
+  "viewCount": 1080,
+  "cover": "https://i0.hdslb.com/bfs/archive/9e36acd32e6d429d442c9de863605ac8d58efe44.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】22 合集",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5628,7 +5895,8 @@ window.SONG_DATA.push(
   "videoDuration": 5251,
   "partDuration": 383,
   "videos": 21,
-  "viewCount": 1075,
+  "viewCount": 1080,
+  "cover": "https://i0.hdslb.com/bfs/archive/9e36acd32e6d429d442c9de863605ac8d58efe44.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】22 合集",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5649,7 +5917,8 @@ window.SONG_DATA.push(
   "videoDuration": 5251,
   "partDuration": 173,
   "videos": 21,
-  "viewCount": 1075,
+  "viewCount": 1080,
+  "cover": "https://i0.hdslb.com/bfs/archive/9e36acd32e6d429d442c9de863605ac8d58efe44.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】22 合集",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5670,7 +5939,8 @@ window.SONG_DATA.push(
   "videoDuration": 5251,
   "partDuration": 227,
   "videos": 21,
-  "viewCount": 1075,
+  "viewCount": 1080,
+  "cover": "https://i0.hdslb.com/bfs/archive/9e36acd32e6d429d442c9de863605ac8d58efe44.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】22 合集",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5691,7 +5961,8 @@ window.SONG_DATA.push(
   "videoDuration": 5251,
   "partDuration": 193,
   "videos": 21,
-  "viewCount": 1075,
+  "viewCount": 1080,
+  "cover": "https://i0.hdslb.com/bfs/archive/9e36acd32e6d429d442c9de863605ac8d58efe44.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】22 合集",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5712,7 +5983,8 @@ window.SONG_DATA.push(
   "videoDuration": 5251,
   "partDuration": 224,
   "videos": 21,
-  "viewCount": 1075,
+  "viewCount": 1080,
+  "cover": "https://i0.hdslb.com/bfs/archive/9e36acd32e6d429d442c9de863605ac8d58efe44.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】22 合集",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5733,7 +6005,8 @@ window.SONG_DATA.push(
   "videoDuration": 5251,
   "partDuration": 216,
   "videos": 21,
-  "viewCount": 1075,
+  "viewCount": 1080,
+  "cover": "https://i0.hdslb.com/bfs/archive/9e36acd32e6d429d442c9de863605ac8d58efe44.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】22 合集",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5754,7 +6027,8 @@ window.SONG_DATA.push(
   "videoDuration": 5251,
   "partDuration": 201,
   "videos": 21,
-  "viewCount": 1075,
+  "viewCount": 1080,
+  "cover": "https://i0.hdslb.com/bfs/archive/9e36acd32e6d429d442c9de863605ac8d58efe44.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】22 合集",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5775,7 +6049,8 @@ window.SONG_DATA.push(
   "videoDuration": 5251,
   "partDuration": 244,
   "videos": 21,
-  "viewCount": 1075,
+  "viewCount": 1080,
+  "cover": "https://i0.hdslb.com/bfs/archive/9e36acd32e6d429d442c9de863605ac8d58efe44.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】22 合集",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5796,7 +6071,8 @@ window.SONG_DATA.push(
   "videoDuration": 5251,
   "partDuration": 343,
   "videos": 21,
-  "viewCount": 1075,
+  "viewCount": 1080,
+  "cover": "https://i0.hdslb.com/bfs/archive/9e36acd32e6d429d442c9de863605ac8d58efe44.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】22 合集",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5817,7 +6093,8 @@ window.SONG_DATA.push(
   "videoDuration": 5251,
   "partDuration": 283,
   "videos": 21,
-  "viewCount": 1075,
+  "viewCount": 1080,
+  "cover": "https://i0.hdslb.com/bfs/archive/9e36acd32e6d429d442c9de863605ac8d58efe44.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】22 合集",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5838,7 +6115,8 @@ window.SONG_DATA.push(
   "videoDuration": 5251,
   "partDuration": 241,
   "videos": 21,
-  "viewCount": 1075,
+  "viewCount": 1080,
+  "cover": "https://i0.hdslb.com/bfs/archive/9e36acd32e6d429d442c9de863605ac8d58efe44.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】22 合集",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5859,7 +6137,8 @@ window.SONG_DATA.push(
   "videoDuration": 5251,
   "partDuration": 311,
   "videos": 21,
-  "viewCount": 1075,
+  "viewCount": 1080,
+  "cover": "https://i0.hdslb.com/bfs/archive/9e36acd32e6d429d442c9de863605ac8d58efe44.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】22 合集",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5880,7 +6159,8 @@ window.SONG_DATA.push(
   "videoDuration": 5251,
   "partDuration": 230,
   "videos": 21,
-  "viewCount": 1075,
+  "viewCount": 1080,
+  "cover": "https://i0.hdslb.com/bfs/archive/9e36acd32e6d429d442c9de863605ac8d58efe44.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】22 合集",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5901,7 +6181,8 @@ window.SONG_DATA.push(
   "videoDuration": 2171,
   "partDuration": 224,
   "videos": 10,
-  "viewCount": 133,
+  "viewCount": 134,
+  "cover": "https://i1.hdslb.com/bfs/archive/df8c5999f291fec1be5f08c4d0d9f34cfa3a4f53.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】10】乙女解剖 夜もすがら君想ふ【20241020】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5922,7 +6203,8 @@ window.SONG_DATA.push(
   "videoDuration": 2171,
   "partDuration": 172,
   "videos": 10,
-  "viewCount": 133,
+  "viewCount": 134,
+  "cover": "https://i1.hdslb.com/bfs/archive/df8c5999f291fec1be5f08c4d0d9f34cfa3a4f53.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】10】乙女解剖 夜もすがら君想ふ【20241020】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5943,7 +6225,8 @@ window.SONG_DATA.push(
   "videoDuration": 2171,
   "partDuration": 246,
   "videos": 10,
-  "viewCount": 133,
+  "viewCount": 134,
+  "cover": "https://i1.hdslb.com/bfs/archive/df8c5999f291fec1be5f08c4d0d9f34cfa3a4f53.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】10】乙女解剖 夜もすがら君想ふ【20241020】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5964,7 +6247,8 @@ window.SONG_DATA.push(
   "videoDuration": 2171,
   "partDuration": 246,
   "videos": 10,
-  "viewCount": 133,
+  "viewCount": 134,
+  "cover": "https://i1.hdslb.com/bfs/archive/df8c5999f291fec1be5f08c4d0d9f34cfa3a4f53.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】10】乙女解剖 夜もすがら君想ふ【20241020】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5985,7 +6269,8 @@ window.SONG_DATA.push(
   "videoDuration": 2171,
   "partDuration": 248,
   "videos": 10,
-  "viewCount": 133,
+  "viewCount": 134,
+  "cover": "https://i1.hdslb.com/bfs/archive/df8c5999f291fec1be5f08c4d0d9f34cfa3a4f53.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】10】乙女解剖 夜もすがら君想ふ【20241020】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6006,7 +6291,8 @@ window.SONG_DATA.push(
   "videoDuration": 2171,
   "partDuration": 230,
   "videos": 10,
-  "viewCount": 133,
+  "viewCount": 134,
+  "cover": "https://i1.hdslb.com/bfs/archive/df8c5999f291fec1be5f08c4d0d9f34cfa3a4f53.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】10】乙女解剖 夜もすがら君想ふ【20241020】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6027,7 +6313,8 @@ window.SONG_DATA.push(
   "videoDuration": 2171,
   "partDuration": 183,
   "videos": 10,
-  "viewCount": 133,
+  "viewCount": 134,
+  "cover": "https://i1.hdslb.com/bfs/archive/df8c5999f291fec1be5f08c4d0d9f34cfa3a4f53.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】10】乙女解剖 夜もすがら君想ふ【20241020】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6048,7 +6335,8 @@ window.SONG_DATA.push(
   "videoDuration": 2171,
   "partDuration": 162,
   "videos": 10,
-  "viewCount": 133,
+  "viewCount": 134,
+  "cover": "https://i1.hdslb.com/bfs/archive/df8c5999f291fec1be5f08c4d0d9f34cfa3a4f53.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】10】乙女解剖 夜もすがら君想ふ【20241020】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6069,7 +6357,8 @@ window.SONG_DATA.push(
   "videoDuration": 2171,
   "partDuration": 226,
   "videos": 10,
-  "viewCount": 133,
+  "viewCount": 134,
+  "cover": "https://i1.hdslb.com/bfs/archive/df8c5999f291fec1be5f08c4d0d9f34cfa3a4f53.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】10】乙女解剖 夜もすがら君想ふ【20241020】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6090,7 +6379,8 @@ window.SONG_DATA.push(
   "videoDuration": 2171,
   "partDuration": 234,
   "videos": 10,
-  "viewCount": 133,
+  "viewCount": 134,
+  "cover": "https://i1.hdslb.com/bfs/archive/df8c5999f291fec1be5f08c4d0d9f34cfa3a4f53.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】10】乙女解剖 夜もすがら君想ふ【20241020】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6111,7 +6401,8 @@ window.SONG_DATA.push(
   "videoDuration": 3005,
   "partDuration": 210,
   "videos": 13,
-  "viewCount": 245,
+  "viewCount": 247,
+  "cover": "https://i2.hdslb.com/bfs/archive/3c37fddad9236087ea7d7904be3cb9f0f06246bd.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】14】8万人订阅耐久，消音了一首03",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6132,7 +6423,8 @@ window.SONG_DATA.push(
   "videoDuration": 3005,
   "partDuration": 228,
   "videos": 13,
-  "viewCount": 245,
+  "viewCount": 247,
+  "cover": "https://i2.hdslb.com/bfs/archive/3c37fddad9236087ea7d7904be3cb9f0f06246bd.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】14】8万人订阅耐久，消音了一首03",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6153,7 +6445,8 @@ window.SONG_DATA.push(
   "videoDuration": 3005,
   "partDuration": 255,
   "videos": 13,
-  "viewCount": 245,
+  "viewCount": 247,
+  "cover": "https://i2.hdslb.com/bfs/archive/3c37fddad9236087ea7d7904be3cb9f0f06246bd.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】14】8万人订阅耐久，消音了一首03",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6174,7 +6467,8 @@ window.SONG_DATA.push(
   "videoDuration": 3005,
   "partDuration": 240,
   "videos": 13,
-  "viewCount": 245,
+  "viewCount": 247,
+  "cover": "https://i2.hdslb.com/bfs/archive/3c37fddad9236087ea7d7904be3cb9f0f06246bd.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】14】8万人订阅耐久，消音了一首03",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6195,7 +6489,8 @@ window.SONG_DATA.push(
   "videoDuration": 3005,
   "partDuration": 237,
   "videos": 13,
-  "viewCount": 245,
+  "viewCount": 247,
+  "cover": "https://i2.hdslb.com/bfs/archive/3c37fddad9236087ea7d7904be3cb9f0f06246bd.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】14】8万人订阅耐久，消音了一首03",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6216,7 +6511,8 @@ window.SONG_DATA.push(
   "videoDuration": 3005,
   "partDuration": 244,
   "videos": 13,
-  "viewCount": 245,
+  "viewCount": 247,
+  "cover": "https://i2.hdslb.com/bfs/archive/3c37fddad9236087ea7d7904be3cb9f0f06246bd.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】14】8万人订阅耐久，消音了一首03",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6237,7 +6533,8 @@ window.SONG_DATA.push(
   "videoDuration": 3005,
   "partDuration": 199,
   "videos": 13,
-  "viewCount": 245,
+  "viewCount": 247,
+  "cover": "https://i2.hdslb.com/bfs/archive/3c37fddad9236087ea7d7904be3cb9f0f06246bd.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】14】8万人订阅耐久，消音了一首03",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6258,7 +6555,8 @@ window.SONG_DATA.push(
   "videoDuration": 3005,
   "partDuration": 272,
   "videos": 13,
-  "viewCount": 245,
+  "viewCount": 247,
+  "cover": "https://i2.hdslb.com/bfs/archive/3c37fddad9236087ea7d7904be3cb9f0f06246bd.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】14】8万人订阅耐久，消音了一首03",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6279,7 +6577,8 @@ window.SONG_DATA.push(
   "videoDuration": 3005,
   "partDuration": 165,
   "videos": 13,
-  "viewCount": 245,
+  "viewCount": 247,
+  "cover": "https://i2.hdslb.com/bfs/archive/3c37fddad9236087ea7d7904be3cb9f0f06246bd.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】14】8万人订阅耐久，消音了一首03",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6300,7 +6599,8 @@ window.SONG_DATA.push(
   "videoDuration": 3005,
   "partDuration": 227,
   "videos": 13,
-  "viewCount": 245,
+  "viewCount": 247,
+  "cover": "https://i2.hdslb.com/bfs/archive/3c37fddad9236087ea7d7904be3cb9f0f06246bd.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】14】8万人订阅耐久，消音了一首03",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6321,7 +6621,8 @@ window.SONG_DATA.push(
   "videoDuration": 3005,
   "partDuration": 221,
   "videos": 13,
-  "viewCount": 245,
+  "viewCount": 247,
+  "cover": "https://i2.hdslb.com/bfs/archive/3c37fddad9236087ea7d7904be3cb9f0f06246bd.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】14】8万人订阅耐久，消音了一首03",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6342,7 +6643,8 @@ window.SONG_DATA.push(
   "videoDuration": 3005,
   "partDuration": 273,
   "videos": 13,
-  "viewCount": 245,
+  "viewCount": 247,
+  "cover": "https://i2.hdslb.com/bfs/archive/3c37fddad9236087ea7d7904be3cb9f0f06246bd.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】14】8万人订阅耐久，消音了一首03",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6363,7 +6665,8 @@ window.SONG_DATA.push(
   "videoDuration": 3005,
   "partDuration": 234,
   "videos": 13,
-  "viewCount": 245,
+  "viewCount": 247,
+  "cover": "https://i2.hdslb.com/bfs/archive/3c37fddad9236087ea7d7904be3cb9f0f06246bd.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】14】8万人订阅耐久，消音了一首03",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6381,10 +6684,11 @@ window.SONG_DATA.push(
   "page": 1,
   "pubdate": 1732980768,
   "ctime": 1732980768,
-  "videoDuration": 1366,
+  "videoDuration": 1311,
   "partDuration": 263,
-  "videos": 6,
-  "viewCount": 115,
+  "videos": 5,
+  "viewCount": 118,
+  "cover": "https://i0.hdslb.com/bfs/archive/7df32cae8440e39a0823c6a791adfd501cdca2a2.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】弹唱回：接力，忘传了",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6402,10 +6706,11 @@ window.SONG_DATA.push(
   "page": 2,
   "pubdate": 1732980768,
   "ctime": 1732980768,
-  "videoDuration": 1366,
+  "videoDuration": 1311,
   "partDuration": 228,
-  "videos": 6,
-  "viewCount": 115,
+  "videos": 5,
+  "viewCount": 118,
+  "cover": "https://i0.hdslb.com/bfs/archive/7df32cae8440e39a0823c6a791adfd501cdca2a2.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】弹唱回：接力，忘传了",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6423,31 +6728,11 @@ window.SONG_DATA.push(
   "page": 3,
   "pubdate": 1732980768,
   "ctime": 1732980768,
-  "videoDuration": 1366,
+  "videoDuration": 1311,
   "partDuration": 204,
-  "videos": 6,
-  "viewCount": 115,
-  "videoTitle": "【 Linon ch. 天籠りのん】弹唱回：接力，忘传了",
-  "uploader": "前尘往事如昔故",
-  "uploaderMid": 3546597260528367
-},
-    {
-  "title": "有一小段",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【 Linon ch. 天籠りのん】弹唱回：接力，忘传了",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MFzpYSEd7?p=4",
-  "source": "linon.js",
-  "bvid": "BV1MFzpYSEd7",
-  "aid": 113572541629686,
-  "cid": 27114211336,
-  "page": 4,
-  "pubdate": 1732980768,
-  "ctime": 1732980768,
-  "videoDuration": 1366,
-  "partDuration": 55,
-  "videos": 6,
-  "viewCount": 115,
+  "videos": 5,
+  "viewCount": 118,
+  "cover": "https://i0.hdslb.com/bfs/archive/7df32cae8440e39a0823c6a791adfd501cdca2a2.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】弹唱回：接力，忘传了",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6457,18 +6742,19 @@ window.SONG_DATA.push(
   "artist": "宇多田ヒカル",
   "collection": "【 Linon ch. 天籠りのん】弹唱回：接力，忘传了",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MFzpYSEd7?p=5",
+  "link": "https://www.bilibili.com/video/BV1MFzpYSEd7?p=4",
   "source": "linon.js",
   "bvid": "BV1MFzpYSEd7",
   "aid": 113572541629686,
   "cid": 27114211658,
-  "page": 5,
+  "page": 4,
   "pubdate": 1732980768,
   "ctime": 1732980768,
-  "videoDuration": 1366,
+  "videoDuration": 1311,
   "partDuration": 317,
-  "videos": 6,
-  "viewCount": 115,
+  "videos": 5,
+  "viewCount": 118,
+  "cover": "https://i0.hdslb.com/bfs/archive/7df32cae8440e39a0823c6a791adfd501cdca2a2.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】弹唱回：接力，忘传了",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6478,18 +6764,19 @@ window.SONG_DATA.push(
   "artist": "結束バンド",
   "collection": "【 Linon ch. 天籠りのん】弹唱回：接力，忘传了",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MFzpYSEd7?p=6",
+  "link": "https://www.bilibili.com/video/BV1MFzpYSEd7?p=5",
   "source": "linon.js",
   "bvid": "BV1MFzpYSEd7",
   "aid": 113572541629686,
   "cid": 27114212256,
-  "page": 6,
+  "page": 5,
   "pubdate": 1732980768,
   "ctime": 1732980768,
-  "videoDuration": 1366,
+  "videoDuration": 1311,
   "partDuration": 299,
-  "videos": 6,
-  "viewCount": 115,
+  "videos": 5,
+  "viewCount": 118,
+  "cover": "https://i0.hdslb.com/bfs/archive/7df32cae8440e39a0823c6a791adfd501cdca2a2.jpg@160w_90h_1c.webp",
   "videoTitle": "【 Linon ch. 天籠りのん】弹唱回：接力，忘传了",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6510,7 +6797,8 @@ window.SONG_DATA.push(
   "videoDuration": 1466,
   "partDuration": 241,
   "videos": 3,
-  "viewCount": 86,
+  "viewCount": 87,
+  "cover": "https://i2.hdslb.com/bfs/archive/1ccdba4f0c3464418168313884add45ce3e51440.jpg@160w_90h_1c.webp",
   "videoTitle": "接力 感觉音质有点怪，先传下试试",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6531,7 +6819,8 @@ window.SONG_DATA.push(
   "videoDuration": 1466,
   "partDuration": 765,
   "videos": 3,
-  "viewCount": 86,
+  "viewCount": 87,
+  "cover": "https://i2.hdslb.com/bfs/archive/1ccdba4f0c3464418168313884add45ce3e51440.jpg@160w_90h_1c.webp",
   "videoTitle": "接力 感觉音质有点怪，先传下试试",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6552,7 +6841,8 @@ window.SONG_DATA.push(
   "videoDuration": 1466,
   "partDuration": 460,
   "videos": 3,
-  "viewCount": 86,
+  "viewCount": 87,
+  "cover": "https://i2.hdslb.com/bfs/archive/1ccdba4f0c3464418168313884add45ce3e51440.jpg@160w_90h_1c.webp",
   "videoTitle": "接力 感觉音质有点怪，先传下试试",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6573,7 +6863,8 @@ window.SONG_DATA.push(
   "videoDuration": 1259,
   "partDuration": 174,
   "videos": 6,
-  "viewCount": 83,
+  "viewCount": 87,
+  "cover": "https://i2.hdslb.com/bfs/archive/836a2589e495ed57e65c50704e9099369d533750.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】🎹充满故事的夜间歌唱时段🎶",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6594,7 +6885,8 @@ window.SONG_DATA.push(
   "videoDuration": 1259,
   "partDuration": 175,
   "videos": 6,
-  "viewCount": 83,
+  "viewCount": 87,
+  "cover": "https://i2.hdslb.com/bfs/archive/836a2589e495ed57e65c50704e9099369d533750.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】🎹充满故事的夜间歌唱时段🎶",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6615,7 +6907,8 @@ window.SONG_DATA.push(
   "videoDuration": 1259,
   "partDuration": 201,
   "videos": 6,
-  "viewCount": 83,
+  "viewCount": 87,
+  "cover": "https://i2.hdslb.com/bfs/archive/836a2589e495ed57e65c50704e9099369d533750.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】🎹充满故事的夜间歌唱时段🎶",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6636,7 +6929,8 @@ window.SONG_DATA.push(
   "videoDuration": 1259,
   "partDuration": 311,
   "videos": 6,
-  "viewCount": 83,
+  "viewCount": 87,
+  "cover": "https://i2.hdslb.com/bfs/archive/836a2589e495ed57e65c50704e9099369d533750.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】🎹充满故事的夜间歌唱时段🎶",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6657,7 +6951,8 @@ window.SONG_DATA.push(
   "videoDuration": 1259,
   "partDuration": 217,
   "videos": 6,
-  "viewCount": 83,
+  "viewCount": 87,
+  "cover": "https://i2.hdslb.com/bfs/archive/836a2589e495ed57e65c50704e9099369d533750.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】🎹充满故事的夜间歌唱时段🎶",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6678,7 +6973,8 @@ window.SONG_DATA.push(
   "videoDuration": 1259,
   "partDuration": 181,
   "videos": 6,
-  "viewCount": 83,
+  "viewCount": 87,
+  "cover": "https://i2.hdslb.com/bfs/archive/836a2589e495ed57e65c50704e9099369d533750.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】🎹充满故事的夜间歌唱时段🎶",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6700,6 +6996,7 @@ window.SONG_DATA.push(
   "partDuration": 229,
   "videos": 9,
   "viewCount": 164,
+  "cover": "https://i1.hdslb.com/bfs/archive/30410e51567ea559eb759ab1a4aa47448519b934.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】今年最後の配信です！ 9 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6721,6 +7018,7 @@ window.SONG_DATA.push(
   "partDuration": 164,
   "videos": 9,
   "viewCount": 164,
+  "cover": "https://i1.hdslb.com/bfs/archive/30410e51567ea559eb759ab1a4aa47448519b934.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】今年最後の配信です！ 9 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6742,6 +7040,7 @@ window.SONG_DATA.push(
   "partDuration": 221,
   "videos": 9,
   "viewCount": 164,
+  "cover": "https://i1.hdslb.com/bfs/archive/30410e51567ea559eb759ab1a4aa47448519b934.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】今年最後の配信です！ 9 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6763,6 +7062,7 @@ window.SONG_DATA.push(
   "partDuration": 217,
   "videos": 9,
   "viewCount": 164,
+  "cover": "https://i1.hdslb.com/bfs/archive/30410e51567ea559eb759ab1a4aa47448519b934.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】今年最後の配信です！ 9 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6784,6 +7084,7 @@ window.SONG_DATA.push(
   "partDuration": 220,
   "videos": 9,
   "viewCount": 164,
+  "cover": "https://i1.hdslb.com/bfs/archive/30410e51567ea559eb759ab1a4aa47448519b934.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】今年最後の配信です！ 9 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6805,6 +7106,7 @@ window.SONG_DATA.push(
   "partDuration": 242,
   "videos": 9,
   "viewCount": 164,
+  "cover": "https://i1.hdslb.com/bfs/archive/30410e51567ea559eb759ab1a4aa47448519b934.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】今年最後の配信です！ 9 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6826,6 +7128,7 @@ window.SONG_DATA.push(
   "partDuration": 189,
   "videos": 9,
   "viewCount": 164,
+  "cover": "https://i1.hdslb.com/bfs/archive/30410e51567ea559eb759ab1a4aa47448519b934.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】今年最後の配信です！ 9 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6847,6 +7150,7 @@ window.SONG_DATA.push(
   "partDuration": 413,
   "videos": 9,
   "viewCount": 164,
+  "cover": "https://i1.hdslb.com/bfs/archive/30410e51567ea559eb759ab1a4aa47448519b934.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】今年最後の配信です！ 9 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6868,6 +7172,7 @@ window.SONG_DATA.push(
   "partDuration": 279,
   "videos": 9,
   "viewCount": 164,
+  "cover": "https://i1.hdslb.com/bfs/archive/30410e51567ea559eb759ab1a4aa47448519b934.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん】今年最後の配信です！ 9 2024",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6889,6 +7194,7 @@ window.SONG_DATA.push(
   "partDuration": 220,
   "videos": 4,
   "viewCount": 76,
+  "cover": "https://i2.hdslb.com/bfs/archive/1d87527c948702586541b69b2e6b5fc8cc6c51eb.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん 】アニメMV公開直前！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6910,6 +7216,7 @@ window.SONG_DATA.push(
   "partDuration": 277,
   "videos": 4,
   "viewCount": 76,
+  "cover": "https://i2.hdslb.com/bfs/archive/1d87527c948702586541b69b2e6b5fc8cc6c51eb.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん 】アニメMV公開直前！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6931,6 +7238,7 @@ window.SONG_DATA.push(
   "partDuration": 209,
   "videos": 4,
   "viewCount": 76,
+  "cover": "https://i2.hdslb.com/bfs/archive/1d87527c948702586541b69b2e6b5fc8cc6c51eb.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん 】アニメMV公開直前！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6952,6 +7260,7 @@ window.SONG_DATA.push(
   "partDuration": 172,
   "videos": 4,
   "viewCount": 76,
+  "cover": "https://i2.hdslb.com/bfs/archive/1d87527c948702586541b69b2e6b5fc8cc6c51eb.jpg@160w_90h_1c.webp",
   "videoTitle": "【天籠りのん 】アニメMV公開直前！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6973,6 +7282,7 @@ window.SONG_DATA.push(
   "partDuration": 256,
   "videos": 4,
   "viewCount": 31,
+  "cover": "https://i2.hdslb.com/bfs/archive/b88d07d3fa5537dd7706b52cafdc91304ea742f5.jpg@160w_90h_1c.webp",
   "videoTitle": "【 #メメメのメ 歌枠リレー 】絶唱上等♡ラスト盛り上がっていけ～～～！！！^o^🏳【 #天籠りのん 】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6994,6 +7304,7 @@ window.SONG_DATA.push(
   "partDuration": 205,
   "videos": 4,
   "viewCount": 31,
+  "cover": "https://i2.hdslb.com/bfs/archive/b88d07d3fa5537dd7706b52cafdc91304ea742f5.jpg@160w_90h_1c.webp",
   "videoTitle": "【 #メメメのメ 歌枠リレー 】絶唱上等♡ラスト盛り上がっていけ～～～！！！^o^🏳【 #天籠りのん 】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7015,6 +7326,7 @@ window.SONG_DATA.push(
   "partDuration": 261,
   "videos": 4,
   "viewCount": 31,
+  "cover": "https://i2.hdslb.com/bfs/archive/b88d07d3fa5537dd7706b52cafdc91304ea742f5.jpg@160w_90h_1c.webp",
   "videoTitle": "【 #メメメのメ 歌枠リレー 】絶唱上等♡ラスト盛り上がっていけ～～～！！！^o^🏳【 #天籠りのん 】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7036,6 +7348,7 @@ window.SONG_DATA.push(
   "partDuration": 177,
   "videos": 4,
   "viewCount": 31,
+  "cover": "https://i2.hdslb.com/bfs/archive/b88d07d3fa5537dd7706b52cafdc91304ea742f5.jpg@160w_90h_1c.webp",
   "videoTitle": "【 #メメメのメ 歌枠リレー 】絶唱上等♡ラスト盛り上がっていけ～～～！！！^o^🏳【 #天籠りのん 】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7056,7 +7369,8 @@ window.SONG_DATA.push(
   "videoDuration": 1238,
   "partDuration": 251,
   "videos": 5,
-  "viewCount": 89,
+  "viewCount": 91,
+  "cover": "https://i1.hdslb.com/bfs/archive/c068dd700069f714f4f2a7268fe2d119d82338cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【 天籠りのん】劣等上等/乙女解剖/深海少女/恋愛裁判/炉心融解|||絶　唱　上　等【  / Sony Music VEE】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7077,7 +7391,8 @@ window.SONG_DATA.push(
   "videoDuration": 1238,
   "partDuration": 226,
   "videos": 5,
-  "viewCount": 89,
+  "viewCount": 91,
+  "cover": "https://i1.hdslb.com/bfs/archive/c068dd700069f714f4f2a7268fe2d119d82338cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【 天籠りのん】劣等上等/乙女解剖/深海少女/恋愛裁判/炉心融解|||絶　唱　上　等【  / Sony Music VEE】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7098,7 +7413,8 @@ window.SONG_DATA.push(
   "videoDuration": 1238,
   "partDuration": 220,
   "videos": 5,
-  "viewCount": 89,
+  "viewCount": 91,
+  "cover": "https://i1.hdslb.com/bfs/archive/c068dd700069f714f4f2a7268fe2d119d82338cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【 天籠りのん】劣等上等/乙女解剖/深海少女/恋愛裁判/炉心融解|||絶　唱　上　等【  / Sony Music VEE】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7119,7 +7435,8 @@ window.SONG_DATA.push(
   "videoDuration": 1238,
   "partDuration": 221,
   "videos": 5,
-  "viewCount": 89,
+  "viewCount": 91,
+  "cover": "https://i1.hdslb.com/bfs/archive/c068dd700069f714f4f2a7268fe2d119d82338cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【 天籠りのん】劣等上等/乙女解剖/深海少女/恋愛裁判/炉心融解|||絶　唱　上　等【  / Sony Music VEE】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7140,14 +7457,15 @@ window.SONG_DATA.push(
   "videoDuration": 1238,
   "partDuration": 320,
   "videos": 5,
-  "viewCount": 89,
+  "viewCount": 91,
+  "cover": "https://i1.hdslb.com/bfs/archive/c068dd700069f714f4f2a7268fe2d119d82338cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【 天籠りのん】劣等上等/乙女解剖/深海少女/恋愛裁判/炉心融解|||絶　唱　上　等【  / Sony Music VEE】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
 },
     {
-  "title": "一直不间断地唱歌直到生日！",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "コネクト",
+  "artist": "ClariS cover by 天籠りのん",
   "collection": "コネクト - ClariS cover by 天籠りのん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UuAXetEVX?p=1",
@@ -7161,7 +7479,8 @@ window.SONG_DATA.push(
   "videoDuration": 1992,
   "partDuration": 1992,
   "videos": 1,
-  "viewCount": 63,
+  "viewCount": 65,
+  "cover": "https://i0.hdslb.com/bfs/archive/6259d03fcb3d1ed62a1c8cb63a22edd0822f9aaa.jpg@160w_90h_1c.webp",
   "videoTitle": "コネクト - ClariS cover by 天籠りのん",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7183,6 +7502,7 @@ window.SONG_DATA.push(
   "partDuration": 381,
   "videos": 5,
   "viewCount": 97,
+  "cover": "https://i1.hdslb.com/bfs/archive/5a24001fc05995b99597608c9a79dc0897338e76.jpg@160w_90h_1c.webp",
   "videoTitle": "【#天籠りのん生日庆祝】因为是生日,想唱一下自己想唱的歌曲...！初次公开曲目庆祝🎂✨",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7204,6 +7524,7 @@ window.SONG_DATA.push(
   "partDuration": 301,
   "videos": 5,
   "viewCount": 97,
+  "cover": "https://i1.hdslb.com/bfs/archive/5a24001fc05995b99597608c9a79dc0897338e76.jpg@160w_90h_1c.webp",
   "videoTitle": "【#天籠りのん生日庆祝】因为是生日,想唱一下自己想唱的歌曲...！初次公开曲目庆祝🎂✨",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7225,6 +7546,7 @@ window.SONG_DATA.push(
   "partDuration": 253,
   "videos": 5,
   "viewCount": 97,
+  "cover": "https://i1.hdslb.com/bfs/archive/5a24001fc05995b99597608c9a79dc0897338e76.jpg@160w_90h_1c.webp",
   "videoTitle": "【#天籠りのん生日庆祝】因为是生日,想唱一下自己想唱的歌曲...！初次公开曲目庆祝🎂✨",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7246,6 +7568,7 @@ window.SONG_DATA.push(
   "partDuration": 223,
   "videos": 5,
   "viewCount": 97,
+  "cover": "https://i1.hdslb.com/bfs/archive/5a24001fc05995b99597608c9a79dc0897338e76.jpg@160w_90h_1c.webp",
   "videoTitle": "【#天籠りのん生日庆祝】因为是生日,想唱一下自己想唱的歌曲...！初次公开曲目庆祝🎂✨",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7267,6 +7590,7 @@ window.SONG_DATA.push(
   "partDuration": 218,
   "videos": 5,
   "viewCount": 97,
+  "cover": "https://i1.hdslb.com/bfs/archive/5a24001fc05995b99597608c9a79dc0897338e76.jpg@160w_90h_1c.webp",
   "videoTitle": "【#天籠りのん生日庆祝】因为是生日,想唱一下自己想唱的歌曲...！初次公开曲目庆祝🎂✨",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7287,7 +7611,8 @@ window.SONG_DATA.push(
   "videoDuration": 1165,
   "partDuration": 219,
   "videos": 4,
-  "viewCount": 161,
+  "viewCount": 162,
+  "cover": "https://i0.hdslb.com/bfs/archive/3a0969446835ab5faeb6af4d286d88bdc9e7a3b2.jpg@160w_90h_1c.webp",
   "videoTitle": "【 #さいつよ歌枠リレー3 】絶唱上等👊最強音圧をくらえ～～！！【 天籠りのん 】#歌枠 #karaoke",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7308,7 +7633,8 @@ window.SONG_DATA.push(
   "videoDuration": 1165,
   "partDuration": 279,
   "videos": 4,
-  "viewCount": 161,
+  "viewCount": 162,
+  "cover": "https://i0.hdslb.com/bfs/archive/3a0969446835ab5faeb6af4d286d88bdc9e7a3b2.jpg@160w_90h_1c.webp",
   "videoTitle": "【 #さいつよ歌枠リレー3 】絶唱上等👊最強音圧をくらえ～～！！【 天籠りのん 】#歌枠 #karaoke",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7329,7 +7655,8 @@ window.SONG_DATA.push(
   "videoDuration": 1165,
   "partDuration": 388,
   "videos": 4,
-  "viewCount": 161,
+  "viewCount": 162,
+  "cover": "https://i0.hdslb.com/bfs/archive/3a0969446835ab5faeb6af4d286d88bdc9e7a3b2.jpg@160w_90h_1c.webp",
   "videoTitle": "【 #さいつよ歌枠リレー3 】絶唱上等👊最強音圧をくらえ～～！！【 天籠りのん 】#歌枠 #karaoke",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7350,7 +7677,8 @@ window.SONG_DATA.push(
   "videoDuration": 1165,
   "partDuration": 279,
   "videos": 4,
-  "viewCount": 161,
+  "viewCount": 162,
+  "cover": "https://i0.hdslb.com/bfs/archive/3a0969446835ab5faeb6af4d286d88bdc9e7a3b2.jpg@160w_90h_1c.webp",
   "videoTitle": "【 #さいつよ歌枠リレー3 】絶唱上等👊最強音圧をくらえ～～！！【 天籠りのん 】#歌枠 #karaoke",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7371,7 +7699,8 @@ window.SONG_DATA.push(
   "videoDuration": 1322,
   "partDuration": 204,
   "videos": 6,
-  "viewCount": 125,
+  "viewCount": 127,
+  "cover": "https://i2.hdslb.com/bfs/archive/c33deef81490d43d6050e79df61235a2f1ae455c.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠的接力 🎤✨",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7392,7 +7721,8 @@ window.SONG_DATA.push(
   "videoDuration": 1322,
   "partDuration": 287,
   "videos": 6,
-  "viewCount": 125,
+  "viewCount": 127,
+  "cover": "https://i2.hdslb.com/bfs/archive/c33deef81490d43d6050e79df61235a2f1ae455c.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠的接力 🎤✨",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7413,7 +7743,8 @@ window.SONG_DATA.push(
   "videoDuration": 1322,
   "partDuration": 249,
   "videos": 6,
-  "viewCount": 125,
+  "viewCount": 127,
+  "cover": "https://i2.hdslb.com/bfs/archive/c33deef81490d43d6050e79df61235a2f1ae455c.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠的接力 🎤✨",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7434,7 +7765,8 @@ window.SONG_DATA.push(
   "videoDuration": 1322,
   "partDuration": 205,
   "videos": 6,
-  "viewCount": 125,
+  "viewCount": 127,
+  "cover": "https://i2.hdslb.com/bfs/archive/c33deef81490d43d6050e79df61235a2f1ae455c.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠的接力 🎤✨",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7455,7 +7787,8 @@ window.SONG_DATA.push(
   "videoDuration": 1322,
   "partDuration": 186,
   "videos": 6,
-  "viewCount": 125,
+  "viewCount": 127,
+  "cover": "https://i2.hdslb.com/bfs/archive/c33deef81490d43d6050e79df61235a2f1ae455c.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠的接力 🎤✨",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7476,7 +7809,8 @@ window.SONG_DATA.push(
   "videoDuration": 1322,
   "partDuration": 191,
   "videos": 6,
-  "viewCount": 125,
+  "viewCount": 127,
+  "cover": "https://i2.hdslb.com/bfs/archive/c33deef81490d43d6050e79df61235a2f1ae455c.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠的接力 🎤✨",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7497,7 +7831,8 @@ window.SONG_DATA.push(
   "videoDuration": 562,
   "partDuration": 258,
   "videos": 3,
-  "viewCount": 71,
+  "viewCount": 72,
+  "cover": "https://i2.hdslb.com/bfs/archive/33133a529cf9274b1cc78c27510ba5f4f66600ae.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 朝活接力 2025年4月27日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7518,7 +7853,8 @@ window.SONG_DATA.push(
   "videoDuration": 562,
   "partDuration": 212,
   "videos": 3,
-  "viewCount": 71,
+  "viewCount": 72,
+  "cover": "https://i2.hdslb.com/bfs/archive/33133a529cf9274b1cc78c27510ba5f4f66600ae.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 朝活接力 2025年4月27日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7539,7 +7875,8 @@ window.SONG_DATA.push(
   "videoDuration": 562,
   "partDuration": 92,
   "videos": 3,
-  "viewCount": 71,
+  "viewCount": 72,
+  "cover": "https://i2.hdslb.com/bfs/archive/33133a529cf9274b1cc78c27510ba5f4f66600ae.jpg@160w_90h_1c.webp",
   "videoTitle": "天籠りのん 朝活接力 2025年4月27日",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7560,7 +7897,8 @@ window.SONG_DATA.push(
   "videoDuration": 2180,
   "partDuration": 217,
   "videos": 9,
-  "viewCount": 118,
+  "viewCount": 122,
+  "cover": "https://i2.hdslb.com/bfs/archive/abdc7a25901ab928c00e6191dbd2debadd277a0d.jpg@160w_90h_1c.webp",
   "videoTitle": "2025年7月18日01. 晩餐歌 - tuki.",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7581,7 +7919,8 @@ window.SONG_DATA.push(
   "videoDuration": 2180,
   "partDuration": 245,
   "videos": 9,
-  "viewCount": 118,
+  "viewCount": 122,
+  "cover": "https://i2.hdslb.com/bfs/archive/abdc7a25901ab928c00e6191dbd2debadd277a0d.jpg@160w_90h_1c.webp",
   "videoTitle": "2025年7月18日01. 晩餐歌 - tuki.",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7602,7 +7941,8 @@ window.SONG_DATA.push(
   "videoDuration": 2180,
   "partDuration": 275,
   "videos": 9,
-  "viewCount": 118,
+  "viewCount": 122,
+  "cover": "https://i2.hdslb.com/bfs/archive/abdc7a25901ab928c00e6191dbd2debadd277a0d.jpg@160w_90h_1c.webp",
   "videoTitle": "2025年7月18日01. 晩餐歌 - tuki.",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7623,7 +7963,8 @@ window.SONG_DATA.push(
   "videoDuration": 2180,
   "partDuration": 193,
   "videos": 9,
-  "viewCount": 118,
+  "viewCount": 122,
+  "cover": "https://i2.hdslb.com/bfs/archive/abdc7a25901ab928c00e6191dbd2debadd277a0d.jpg@160w_90h_1c.webp",
   "videoTitle": "2025年7月18日01. 晩餐歌 - tuki.",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7644,7 +7985,8 @@ window.SONG_DATA.push(
   "videoDuration": 2180,
   "partDuration": 181,
   "videos": 9,
-  "viewCount": 118,
+  "viewCount": 122,
+  "cover": "https://i2.hdslb.com/bfs/archive/abdc7a25901ab928c00e6191dbd2debadd277a0d.jpg@160w_90h_1c.webp",
   "videoTitle": "2025年7月18日01. 晩餐歌 - tuki.",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7665,7 +8007,8 @@ window.SONG_DATA.push(
   "videoDuration": 2180,
   "partDuration": 244,
   "videos": 9,
-  "viewCount": 118,
+  "viewCount": 122,
+  "cover": "https://i2.hdslb.com/bfs/archive/abdc7a25901ab928c00e6191dbd2debadd277a0d.jpg@160w_90h_1c.webp",
   "videoTitle": "2025年7月18日01. 晩餐歌 - tuki.",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7686,7 +8029,8 @@ window.SONG_DATA.push(
   "videoDuration": 2180,
   "partDuration": 312,
   "videos": 9,
-  "viewCount": 118,
+  "viewCount": 122,
+  "cover": "https://i2.hdslb.com/bfs/archive/abdc7a25901ab928c00e6191dbd2debadd277a0d.jpg@160w_90h_1c.webp",
   "videoTitle": "2025年7月18日01. 晩餐歌 - tuki.",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7707,7 +8051,8 @@ window.SONG_DATA.push(
   "videoDuration": 2180,
   "partDuration": 260,
   "videos": 9,
-  "viewCount": 118,
+  "viewCount": 122,
+  "cover": "https://i2.hdslb.com/bfs/archive/abdc7a25901ab928c00e6191dbd2debadd277a0d.jpg@160w_90h_1c.webp",
   "videoTitle": "2025年7月18日01. 晩餐歌 - tuki.",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7728,7 +8073,8 @@ window.SONG_DATA.push(
   "videoDuration": 2180,
   "partDuration": 253,
   "videos": 9,
-  "viewCount": 118,
+  "viewCount": 122,
+  "cover": "https://i2.hdslb.com/bfs/archive/abdc7a25901ab928c00e6191dbd2debadd277a0d.jpg@160w_90h_1c.webp",
   "videoTitle": "2025年7月18日01. 晩餐歌 - tuki.",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7749,7 +8095,8 @@ window.SONG_DATA.push(
   "videoDuration": 1284,
   "partDuration": 175,
   "videos": 5,
-  "viewCount": 105,
+  "viewCount": 110,
+  "cover": "https://i1.hdslb.com/bfs/archive/9481cc9ff7f3c054c979746644c32cda5d561d29.jpg@160w_90h_1c.webp",
   "videoTitle": "2025年7月19日 01. アスノヨゾラ哨戒班 - Orangestar",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7770,7 +8117,8 @@ window.SONG_DATA.push(
   "videoDuration": 1284,
   "partDuration": 240,
   "videos": 5,
-  "viewCount": 105,
+  "viewCount": 110,
+  "cover": "https://i1.hdslb.com/bfs/archive/9481cc9ff7f3c054c979746644c32cda5d561d29.jpg@160w_90h_1c.webp",
   "videoTitle": "2025年7月19日 01. アスノヨゾラ哨戒班 - Orangestar",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7791,7 +8139,8 @@ window.SONG_DATA.push(
   "videoDuration": 1284,
   "partDuration": 384,
   "videos": 5,
-  "viewCount": 105,
+  "viewCount": 110,
+  "cover": "https://i1.hdslb.com/bfs/archive/9481cc9ff7f3c054c979746644c32cda5d561d29.jpg@160w_90h_1c.webp",
   "videoTitle": "2025年7月19日 01. アスノヨゾラ哨戒班 - Orangestar",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7812,7 +8161,8 @@ window.SONG_DATA.push(
   "videoDuration": 1284,
   "partDuration": 284,
   "videos": 5,
-  "viewCount": 105,
+  "viewCount": 110,
+  "cover": "https://i1.hdslb.com/bfs/archive/9481cc9ff7f3c054c979746644c32cda5d561d29.jpg@160w_90h_1c.webp",
   "videoTitle": "2025年7月19日 01. アスノヨゾラ哨戒班 - Orangestar",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7833,7 +8183,8 @@ window.SONG_DATA.push(
   "videoDuration": 1284,
   "partDuration": 201,
   "videos": 5,
-  "viewCount": 105,
+  "viewCount": 110,
+  "cover": "https://i1.hdslb.com/bfs/archive/9481cc9ff7f3c054c979746644c32cda5d561d29.jpg@160w_90h_1c.webp",
   "videoTitle": "2025年7月19日 01. アスノヨゾラ哨戒班 - Orangestar",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7854,7 +8205,8 @@ window.SONG_DATA.push(
   "videoDuration": 6890,
   "partDuration": 204,
   "videos": 28,
-  "viewCount": 502,
+  "viewCount": 508,
+  "cover": "https://i1.hdslb.com/bfs/archive/8c43966165f4c2e40a024207116d5be0b27cf83f.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7875,7 +8227,8 @@ window.SONG_DATA.push(
   "videoDuration": 6890,
   "partDuration": 536,
   "videos": 28,
-  "viewCount": 502,
+  "viewCount": 508,
+  "cover": "https://i1.hdslb.com/bfs/archive/8c43966165f4c2e40a024207116d5be0b27cf83f.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7896,7 +8249,8 @@ window.SONG_DATA.push(
   "videoDuration": 6890,
   "partDuration": 391,
   "videos": 28,
-  "viewCount": 502,
+  "viewCount": 508,
+  "cover": "https://i1.hdslb.com/bfs/archive/8c43966165f4c2e40a024207116d5be0b27cf83f.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7917,7 +8271,8 @@ window.SONG_DATA.push(
   "videoDuration": 6890,
   "partDuration": 191,
   "videos": 28,
-  "viewCount": 502,
+  "viewCount": 508,
+  "cover": "https://i1.hdslb.com/bfs/archive/8c43966165f4c2e40a024207116d5be0b27cf83f.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7938,7 +8293,8 @@ window.SONG_DATA.push(
   "videoDuration": 6890,
   "partDuration": 225,
   "videos": 28,
-  "viewCount": 502,
+  "viewCount": 508,
+  "cover": "https://i1.hdslb.com/bfs/archive/8c43966165f4c2e40a024207116d5be0b27cf83f.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7959,7 +8315,8 @@ window.SONG_DATA.push(
   "videoDuration": 6890,
   "partDuration": 234,
   "videos": 28,
-  "viewCount": 502,
+  "viewCount": 508,
+  "cover": "https://i1.hdslb.com/bfs/archive/8c43966165f4c2e40a024207116d5be0b27cf83f.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7980,7 +8337,8 @@ window.SONG_DATA.push(
   "videoDuration": 6890,
   "partDuration": 231,
   "videos": 28,
-  "viewCount": 502,
+  "viewCount": 508,
+  "cover": "https://i1.hdslb.com/bfs/archive/8c43966165f4c2e40a024207116d5be0b27cf83f.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8001,7 +8359,8 @@ window.SONG_DATA.push(
   "videoDuration": 6890,
   "partDuration": 257,
   "videos": 28,
-  "viewCount": 502,
+  "viewCount": 508,
+  "cover": "https://i1.hdslb.com/bfs/archive/8c43966165f4c2e40a024207116d5be0b27cf83f.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8022,7 +8381,8 @@ window.SONG_DATA.push(
   "videoDuration": 6890,
   "partDuration": 208,
   "videos": 28,
-  "viewCount": 502,
+  "viewCount": 508,
+  "cover": "https://i1.hdslb.com/bfs/archive/8c43966165f4c2e40a024207116d5be0b27cf83f.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8043,7 +8403,8 @@ window.SONG_DATA.push(
   "videoDuration": 6890,
   "partDuration": 172,
   "videos": 28,
-  "viewCount": 502,
+  "viewCount": 508,
+  "cover": "https://i1.hdslb.com/bfs/archive/8c43966165f4c2e40a024207116d5be0b27cf83f.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8064,7 +8425,8 @@ window.SONG_DATA.push(
   "videoDuration": 6890,
   "partDuration": 194,
   "videos": 28,
-  "viewCount": 502,
+  "viewCount": 508,
+  "cover": "https://i1.hdslb.com/bfs/archive/8c43966165f4c2e40a024207116d5be0b27cf83f.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8085,7 +8447,8 @@ window.SONG_DATA.push(
   "videoDuration": 6890,
   "partDuration": 183,
   "videos": 28,
-  "viewCount": 502,
+  "viewCount": 508,
+  "cover": "https://i1.hdslb.com/bfs/archive/8c43966165f4c2e40a024207116d5be0b27cf83f.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8106,7 +8469,8 @@ window.SONG_DATA.push(
   "videoDuration": 6890,
   "partDuration": 359,
   "videos": 28,
-  "viewCount": 502,
+  "viewCount": 508,
+  "cover": "https://i1.hdslb.com/bfs/archive/8c43966165f4c2e40a024207116d5be0b27cf83f.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8127,7 +8491,8 @@ window.SONG_DATA.push(
   "videoDuration": 6890,
   "partDuration": 280,
   "videos": 28,
-  "viewCount": 502,
+  "viewCount": 508,
+  "cover": "https://i1.hdslb.com/bfs/archive/8c43966165f4c2e40a024207116d5be0b27cf83f.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8148,7 +8513,8 @@ window.SONG_DATA.push(
   "videoDuration": 6890,
   "partDuration": 253,
   "videos": 28,
-  "viewCount": 502,
+  "viewCount": 508,
+  "cover": "https://i1.hdslb.com/bfs/archive/8c43966165f4c2e40a024207116d5be0b27cf83f.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8169,7 +8535,8 @@ window.SONG_DATA.push(
   "videoDuration": 6890,
   "partDuration": 260,
   "videos": 28,
-  "viewCount": 502,
+  "viewCount": 508,
+  "cover": "https://i1.hdslb.com/bfs/archive/8c43966165f4c2e40a024207116d5be0b27cf83f.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8190,7 +8557,8 @@ window.SONG_DATA.push(
   "videoDuration": 6890,
   "partDuration": 119,
   "videos": 28,
-  "viewCount": 502,
+  "viewCount": 508,
+  "cover": "https://i1.hdslb.com/bfs/archive/8c43966165f4c2e40a024207116d5be0b27cf83f.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8211,7 +8579,8 @@ window.SONG_DATA.push(
   "videoDuration": 6890,
   "partDuration": 250,
   "videos": 28,
-  "viewCount": 502,
+  "viewCount": 508,
+  "cover": "https://i1.hdslb.com/bfs/archive/8c43966165f4c2e40a024207116d5be0b27cf83f.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8232,7 +8601,8 @@ window.SONG_DATA.push(
   "videoDuration": 6890,
   "partDuration": 185,
   "videos": 28,
-  "viewCount": 502,
+  "viewCount": 508,
+  "cover": "https://i1.hdslb.com/bfs/archive/8c43966165f4c2e40a024207116d5be0b27cf83f.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8253,7 +8623,8 @@ window.SONG_DATA.push(
   "videoDuration": 6890,
   "partDuration": 169,
   "videos": 28,
-  "viewCount": 502,
+  "viewCount": 508,
+  "cover": "https://i1.hdslb.com/bfs/archive/8c43966165f4c2e40a024207116d5be0b27cf83f.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8274,7 +8645,8 @@ window.SONG_DATA.push(
   "videoDuration": 6890,
   "partDuration": 177,
   "videos": 28,
-  "viewCount": 502,
+  "viewCount": 508,
+  "cover": "https://i1.hdslb.com/bfs/archive/8c43966165f4c2e40a024207116d5be0b27cf83f.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8295,7 +8667,8 @@ window.SONG_DATA.push(
   "videoDuration": 6890,
   "partDuration": 189,
   "videos": 28,
-  "viewCount": 502,
+  "viewCount": 508,
+  "cover": "https://i1.hdslb.com/bfs/archive/8c43966165f4c2e40a024207116d5be0b27cf83f.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8316,7 +8689,8 @@ window.SONG_DATA.push(
   "videoDuration": 6890,
   "partDuration": 220,
   "videos": 28,
-  "viewCount": 502,
+  "viewCount": 508,
+  "cover": "https://i1.hdslb.com/bfs/archive/8c43966165f4c2e40a024207116d5be0b27cf83f.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8337,7 +8711,8 @@ window.SONG_DATA.push(
   "videoDuration": 6890,
   "partDuration": 231,
   "videos": 28,
-  "viewCount": 502,
+  "viewCount": 508,
+  "cover": "https://i1.hdslb.com/bfs/archive/8c43966165f4c2e40a024207116d5be0b27cf83f.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8358,7 +8733,8 @@ window.SONG_DATA.push(
   "videoDuration": 6890,
   "partDuration": 314,
   "videos": 28,
-  "viewCount": 502,
+  "viewCount": 508,
+  "cover": "https://i1.hdslb.com/bfs/archive/8c43966165f4c2e40a024207116d5be0b27cf83f.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8379,7 +8755,8 @@ window.SONG_DATA.push(
   "videoDuration": 6890,
   "partDuration": 389,
   "videos": 28,
-  "viewCount": 502,
+  "viewCount": 508,
+  "cover": "https://i1.hdslb.com/bfs/archive/8c43966165f4c2e40a024207116d5be0b27cf83f.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8400,7 +8777,8 @@ window.SONG_DATA.push(
   "videoDuration": 6890,
   "partDuration": 228,
   "videos": 28,
-  "viewCount": 502,
+  "viewCount": 508,
+  "cover": "https://i1.hdslb.com/bfs/archive/8c43966165f4c2e40a024207116d5be0b27cf83f.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8421,7 +8799,8 @@ window.SONG_DATA.push(
   "videoDuration": 6890,
   "partDuration": 241,
   "videos": 28,
-  "viewCount": 502,
+  "viewCount": 508,
+  "cover": "https://i1.hdslb.com/bfs/archive/8c43966165f4c2e40a024207116d5be0b27cf83f.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8442,7 +8821,8 @@ window.SONG_DATA.push(
   "videoDuration": 2041,
   "partDuration": 242,
   "videos": 9,
-  "viewCount": 256,
+  "viewCount": 257,
+  "cover": "https://i0.hdslb.com/bfs/archive/4b5c009fb70c27c881b414a8787375c4cd0c41d2.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】アイドル衣装を見せびらかしながら歌う #karaoke",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8463,7 +8843,8 @@ window.SONG_DATA.push(
   "videoDuration": 2041,
   "partDuration": 247,
   "videos": 9,
-  "viewCount": 256,
+  "viewCount": 257,
+  "cover": "https://i0.hdslb.com/bfs/archive/4b5c009fb70c27c881b414a8787375c4cd0c41d2.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】アイドル衣装を見せびらかしながら歌う #karaoke",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8484,7 +8865,8 @@ window.SONG_DATA.push(
   "videoDuration": 2041,
   "partDuration": 269,
   "videos": 9,
-  "viewCount": 256,
+  "viewCount": 257,
+  "cover": "https://i0.hdslb.com/bfs/archive/4b5c009fb70c27c881b414a8787375c4cd0c41d2.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】アイドル衣装を見せびらかしながら歌う #karaoke",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8505,7 +8887,8 @@ window.SONG_DATA.push(
   "videoDuration": 2041,
   "partDuration": 183,
   "videos": 9,
-  "viewCount": 256,
+  "viewCount": 257,
+  "cover": "https://i0.hdslb.com/bfs/archive/4b5c009fb70c27c881b414a8787375c4cd0c41d2.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】アイドル衣装を見せびらかしながら歌う #karaoke",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8526,7 +8909,8 @@ window.SONG_DATA.push(
   "videoDuration": 2041,
   "partDuration": 217,
   "videos": 9,
-  "viewCount": 256,
+  "viewCount": 257,
+  "cover": "https://i0.hdslb.com/bfs/archive/4b5c009fb70c27c881b414a8787375c4cd0c41d2.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】アイドル衣装を見せびらかしながら歌う #karaoke",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8547,7 +8931,8 @@ window.SONG_DATA.push(
   "videoDuration": 2041,
   "partDuration": 163,
   "videos": 9,
-  "viewCount": 256,
+  "viewCount": 257,
+  "cover": "https://i0.hdslb.com/bfs/archive/4b5c009fb70c27c881b414a8787375c4cd0c41d2.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】アイドル衣装を見せびらかしながら歌う #karaoke",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8568,7 +8953,8 @@ window.SONG_DATA.push(
   "videoDuration": 2041,
   "partDuration": 194,
   "videos": 9,
-  "viewCount": 256,
+  "viewCount": 257,
+  "cover": "https://i0.hdslb.com/bfs/archive/4b5c009fb70c27c881b414a8787375c4cd0c41d2.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】アイドル衣装を見せびらかしながら歌う #karaoke",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8589,7 +8975,8 @@ window.SONG_DATA.push(
   "videoDuration": 2041,
   "partDuration": 273,
   "videos": 9,
-  "viewCount": 256,
+  "viewCount": 257,
+  "cover": "https://i0.hdslb.com/bfs/archive/4b5c009fb70c27c881b414a8787375c4cd0c41d2.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】アイドル衣装を見せびらかしながら歌う #karaoke",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8610,7 +8997,8 @@ window.SONG_DATA.push(
   "videoDuration": 2041,
   "partDuration": 253,
   "videos": 9,
-  "viewCount": 256,
+  "viewCount": 257,
+  "cover": "https://i0.hdslb.com/bfs/archive/4b5c009fb70c27c881b414a8787375c4cd0c41d2.jpg@160w_90h_1c.webp",
   "videoTitle": "【Linon ch. 天籠りのん】アイドル衣装を見せびらかしながら歌う #karaoke",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8631,7 +9019,8 @@ window.SONG_DATA.push(
   "videoDuration": 1100,
   "partDuration": 229,
   "videos": 4,
-  "viewCount": 92,
+  "viewCount": 110,
+  "cover": "https://i0.hdslb.com/bfs/archive/bafe58689f84cda9c8266a33fbf6e088c9570ae0.png@160w_90h_1c.webp",
   "videoTitle": "【歌切】最强音压摇滚与绝唱上等歌回 Linon ch. 天籠りのん",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8652,7 +9041,8 @@ window.SONG_DATA.push(
   "videoDuration": 1100,
   "partDuration": 353,
   "videos": 4,
-  "viewCount": 92,
+  "viewCount": 110,
+  "cover": "https://i0.hdslb.com/bfs/archive/bafe58689f84cda9c8266a33fbf6e088c9570ae0.png@160w_90h_1c.webp",
   "videoTitle": "【歌切】最强音压摇滚与绝唱上等歌回 Linon ch. 天籠りのん",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8673,7 +9063,8 @@ window.SONG_DATA.push(
   "videoDuration": 1100,
   "partDuration": 183,
   "videos": 4,
-  "viewCount": 92,
+  "viewCount": 110,
+  "cover": "https://i0.hdslb.com/bfs/archive/bafe58689f84cda9c8266a33fbf6e088c9570ae0.png@160w_90h_1c.webp",
   "videoTitle": "【歌切】最强音压摇滚与绝唱上等歌回 Linon ch. 天籠りのん",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8694,7 +9085,8 @@ window.SONG_DATA.push(
   "videoDuration": 1100,
   "partDuration": 335,
   "videos": 4,
-  "viewCount": 92,
+  "viewCount": 110,
+  "cover": "https://i0.hdslb.com/bfs/archive/bafe58689f84cda9c8266a33fbf6e088c9570ae0.png@160w_90h_1c.webp",
   "videoTitle": "【歌切】最强音压摇滚与绝唱上等歌回 Linon ch. 天籠りのん",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367

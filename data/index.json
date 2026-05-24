@@ -25,6 +25,20 @@
     "friends.js",
     "relay.js",
     "culua.js",
+    "hasumisahiro.js",
+    "aimarun.js",
+    "nanashirikka.js",
+    "gabinoheya.js",
+    "stratia.js",
+    "karakurinne.js",
+    "yamadasharo.js",
+    "kyoka.js",
+    "noapolaris.js",
+    "mikage.js",
+    "tulsi.js",
+    "luminous.js",
+    "hanamaruhareru.js",
+    "hanabasamikyo.js",
     "others.js",
     "bv1qa9jb6eaw.js"
   ],
@@ -54,7 +68,310 @@
     "friends": "联动",
     "relay": "接力",
     "culua": "CULUA",
+    "hasumisahiro": "羽澄さひろ",
+    "aimarun": "あいまるん。",
+    "nanashirikka": "ななし律歌",
+    "gabinoheya": "がびのお部屋",
+    "stratia": "すとらてぃあ-Stratia",
+    "karakurinne": "からくりんね-KarakuRinne",
+    "yamadasharo": "山田シャロ",
+    "kyoka": "響架",
+    "noapolaris": "ノア・ポラリス",
+    "mikage": "深影",
+    "tulsi": "魔王トゥルシー",
+    "luminous": "るみなす・すいーと",
+    "hanamaruhareru": "花丸晴琉",
+    "hanabasamikyo": "花鋏キョウ",
     "others": "非常驻妹妹",
     "bv1qa9jb6eaw": "陽月るるふ"
+  },
+  "sourceProfiles": {
+    "asuyumekanae": {
+      "alias": "明日夢かなえ",
+      "avatarText": "明",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(293 55% 36%)"
+    },
+    "chiyutori ": {
+      "alias": "知悠",
+      "avatarText": "知",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(294 55% 36%)"
+    },
+    "momijimaru": {
+      "alias": "紅葉丸",
+      "avatarText": "紅",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(340 55% 36%)"
+    },
+    "kukuri": {
+      "alias": "戸鎖くくり",
+      "avatarText": "戸",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(189 55% 36%)"
+    },
+    "naraetan": {
+      "alias": "なれたん Naraetan",
+      "avatarText": "な",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(342 55% 36%)"
+    },
+    "figaro": {
+      "alias": "Figaro",
+      "avatarText": "F",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(14 55% 36%)"
+    },
+    "ririsya": {
+      "alias": "凛凛咲 ririsya",
+      "avatarText": "凛",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(117 55% 36%)"
+    },
+    "suu_usuwa": {
+      "alias": "稀羽すう Suu_Usuwa",
+      "avatarText": "稀",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(27 55% 36%)"
+    },
+    "ray": {
+      "alias": "來-Ray-",
+      "avatarText": "來",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(2 55% 36%)"
+    },
+    "sakusan": {
+      "alias": "酢酸 / SAKUSAN",
+      "avatarText": "酢",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(224 55% 36%)"
+    },
+    "yoshika": {
+      "alias": "よしか YOSHIKA",
+      "avatarText": "よ",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(316 55% 36%)"
+    },
+    "yuri": {
+      "alias": "優莉 yuri",
+      "avatarText": "優",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(187 55% 36%)"
+    },
+    "otomoneruki": {
+      "alias": "音門るき",
+      "avatarText": "音",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(124 55% 36%)"
+    },
+    "linon": {
+      "alias": "天籠りのん",
+      "avatarText": "天",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(304 55% 36%)"
+    },
+    "stella": {
+      "alias": "天ノ譜ステラ",
+      "avatarText": "天",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(211 55% 36%)"
+    },
+    "hoshiho": {
+      "alias": "HoshiHo",
+      "avatarText": "H",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(252 55% 36%)"
+    },
+    "shuna": {
+      "alias": "朱名",
+      "avatarText": "朱",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(3 55% 36%)"
+    },
+    "nayuta": {
+      "alias": "nayuta",
+      "avatarText": "N",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(108 55% 36%)"
+    },
+    "MunMosh": {
+      "alias": "むんもっしゅ",
+      "avatarText": "む",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(131 55% 36%)"
+    },
+    "kotatsu": {
+      "alias": "KOTATSU",
+      "avatarText": "K",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(219 55% 36%)"
+    },
+    "sumica": {
+      "alias": "澄花",
+      "avatarText": "澄",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(4 55% 36%)"
+    },
+    "romany": {
+      "alias": "ロマニ",
+      "avatarText": "ロ",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(284 55% 36%)"
+    },
+    "friends": {
+      "alias": "联动",
+      "avatarText": "联",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(235 55% 36%)"
+    },
+    "relay": {
+      "alias": "接力",
+      "avatarText": "接",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(121 55% 36%)"
+    },
+    "culua": {
+      "alias": "CULUA",
+      "avatarText": "C",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(358 55% 36%)"
+    },
+    "hasumisahiro": {
+      "alias": "羽澄さひろ",
+      "avatarText": "羽",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(117 55% 36%)"
+    },
+    "aimarun": {
+      "alias": "あいまるん。",
+      "avatarText": "あ",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(97 55% 36%)"
+    },
+    "nanashirikka": {
+      "alias": "ななし律歌",
+      "avatarText": "な",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(196 55% 36%)"
+    },
+    "gabinoheya": {
+      "alias": "がびのお部屋",
+      "avatarText": "が",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(129 55% 36%)"
+    },
+    "stratia": {
+      "alias": "すとらてぃあ-Stratia",
+      "avatarText": "す",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(180 55% 36%)"
+    },
+    "karakurinne": {
+      "alias": "からくりんね-KarakuRinne",
+      "avatarText": "か",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(79 55% 36%)"
+    },
+    "yamadasharo": {
+      "alias": "山田シャロ",
+      "avatarText": "山",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(328 55% 36%)"
+    },
+    "kyoka": {
+      "alias": "響架",
+      "avatarText": "響",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(303 55% 36%)"
+    },
+    "noapolaris": {
+      "alias": "ノア・ポラリス",
+      "avatarText": "ノ",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(288 55% 36%)"
+    },
+    "mikage": {
+      "alias": "深影",
+      "avatarText": "深",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(24 55% 36%)"
+    },
+    "tulsi": {
+      "alias": "魔王トゥルシー",
+      "avatarText": "魔",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(201 55% 36%)"
+    },
+    "luminous": {
+      "alias": "るみなす・すいーと",
+      "avatarText": "る",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(260 55% 36%)"
+    },
+    "hanamaruhareru": {
+      "alias": "花丸晴琉",
+      "avatarText": "花",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(82 55% 36%)"
+    },
+    "hanabasamikyo": {
+      "alias": "花鋏キョウ",
+      "avatarText": "花",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(132 55% 36%)"
+    },
+    "others": {
+      "alias": "非常驻妹妹",
+      "avatarText": "非",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(45 55% 36%)"
+    },
+    "bv1qa9jb6eaw": {
+      "alias": "陽月るるふ",
+      "avatarText": "陽",
+      "avatarUrl": "",
+      "youtubeUrl": "",
+      "accentColor": "hsl(343 55% 36%)"
+    }
   }
 }

@@ -207,6 +207,7 @@ npm run check:library
 注意：
 
 - BV 号在配置里保持原样，不要强制改大小写。
+- `CULUA` 已经作为单独来源使用 `BV11GZtBcEsp`；`非常驻妹妹` 不再保留会重复扫到同一批内容的 `BV1r1RsYDEvB`，否则会把约 441 首歌重复计入生成结果。
 - 来源头像在 `scripts/source-profiles.json` 里补充；没有头像 URL 时自动使用来源名首个有效字符生成单字头像。
 - B 站封面缩略图来自 view API 的 `pic` 字段，并在 `scripts/update-songs.js` 生成数据时写入歌曲记录的 `cover` 字段；生成脚本和页面展示都统一使用 160w 缩略图，首页和数据页会先写占位图，等图片接近视口或展开后才请求真实地址。
 - `sectionTitle` 按 B 站接口返回的小节标题完全匹配，改名或空格差异会影响收录。

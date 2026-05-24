@@ -1,6 +1,6 @@
 // むんもっしゅ - 歌单数据 (多合集汇总)
 // 来源: BV1UCkhBkEon
-// 生成时间: 2026/4/14 09:00:40
+// 生成时间: 2026/5/24 23:47:16
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -21,7 +21,8 @@ window.SONG_DATA.push(
   "videoDuration": 5938,
   "partDuration": 275,
   "videos": 22,
-  "viewCount": 48,
+  "viewCount": 55,
+  "cover": "https://i0.hdslb.com/bfs/archive/d5699eca4cdf12cf357e08b46759281687fb31ae.jpg@160w_90h_1c.webp",
   "videoTitle": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -42,7 +43,8 @@ window.SONG_DATA.push(
   "videoDuration": 5938,
   "partDuration": 212,
   "videos": 22,
-  "viewCount": 48,
+  "viewCount": 55,
+  "cover": "https://i0.hdslb.com/bfs/archive/d5699eca4cdf12cf357e08b46759281687fb31ae.jpg@160w_90h_1c.webp",
   "videoTitle": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -63,7 +65,8 @@ window.SONG_DATA.push(
   "videoDuration": 5938,
   "partDuration": 280,
   "videos": 22,
-  "viewCount": 48,
+  "viewCount": 55,
+  "cover": "https://i0.hdslb.com/bfs/archive/d5699eca4cdf12cf357e08b46759281687fb31ae.jpg@160w_90h_1c.webp",
   "videoTitle": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -84,7 +87,8 @@ window.SONG_DATA.push(
   "videoDuration": 5938,
   "partDuration": 222,
   "videos": 22,
-  "viewCount": 48,
+  "viewCount": 55,
+  "cover": "https://i0.hdslb.com/bfs/archive/d5699eca4cdf12cf357e08b46759281687fb31ae.jpg@160w_90h_1c.webp",
   "videoTitle": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -105,7 +109,8 @@ window.SONG_DATA.push(
   "videoDuration": 5938,
   "partDuration": 268,
   "videos": 22,
-  "viewCount": 48,
+  "viewCount": 55,
+  "cover": "https://i0.hdslb.com/bfs/archive/d5699eca4cdf12cf357e08b46759281687fb31ae.jpg@160w_90h_1c.webp",
   "videoTitle": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -126,7 +131,8 @@ window.SONG_DATA.push(
   "videoDuration": 5938,
   "partDuration": 297,
   "videos": 22,
-  "viewCount": 48,
+  "viewCount": 55,
+  "cover": "https://i0.hdslb.com/bfs/archive/d5699eca4cdf12cf357e08b46759281687fb31ae.jpg@160w_90h_1c.webp",
   "videoTitle": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -147,7 +153,8 @@ window.SONG_DATA.push(
   "videoDuration": 5938,
   "partDuration": 312,
   "videos": 22,
-  "viewCount": 48,
+  "viewCount": 55,
+  "cover": "https://i0.hdslb.com/bfs/archive/d5699eca4cdf12cf357e08b46759281687fb31ae.jpg@160w_90h_1c.webp",
   "videoTitle": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -168,7 +175,8 @@ window.SONG_DATA.push(
   "videoDuration": 5938,
   "partDuration": 225,
   "videos": 22,
-  "viewCount": 48,
+  "viewCount": 55,
+  "cover": "https://i0.hdslb.com/bfs/archive/d5699eca4cdf12cf357e08b46759281687fb31ae.jpg@160w_90h_1c.webp",
   "videoTitle": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -189,7 +197,8 @@ window.SONG_DATA.push(
   "videoDuration": 5938,
   "partDuration": 211,
   "videos": 22,
-  "viewCount": 48,
+  "viewCount": 55,
+  "cover": "https://i0.hdslb.com/bfs/archive/d5699eca4cdf12cf357e08b46759281687fb31ae.jpg@160w_90h_1c.webp",
   "videoTitle": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -210,7 +219,8 @@ window.SONG_DATA.push(
   "videoDuration": 5938,
   "partDuration": 239,
   "videos": 22,
-  "viewCount": 48,
+  "viewCount": 55,
+  "cover": "https://i0.hdslb.com/bfs/archive/d5699eca4cdf12cf357e08b46759281687fb31ae.jpg@160w_90h_1c.webp",
   "videoTitle": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -231,7 +241,8 @@ window.SONG_DATA.push(
   "videoDuration": 5938,
   "partDuration": 367,
   "videos": 22,
-  "viewCount": 48,
+  "viewCount": 55,
+  "cover": "https://i0.hdslb.com/bfs/archive/d5699eca4cdf12cf357e08b46759281687fb31ae.jpg@160w_90h_1c.webp",
   "videoTitle": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -252,7 +263,8 @@ window.SONG_DATA.push(
   "videoDuration": 5938,
   "partDuration": 226,
   "videos": 22,
-  "viewCount": 48,
+  "viewCount": 55,
+  "cover": "https://i0.hdslb.com/bfs/archive/d5699eca4cdf12cf357e08b46759281687fb31ae.jpg@160w_90h_1c.webp",
   "videoTitle": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -273,7 +285,8 @@ window.SONG_DATA.push(
   "videoDuration": 5938,
   "partDuration": 259,
   "videos": 22,
-  "viewCount": 48,
+  "viewCount": 55,
+  "cover": "https://i0.hdslb.com/bfs/archive/d5699eca4cdf12cf357e08b46759281687fb31ae.jpg@160w_90h_1c.webp",
   "videoTitle": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -294,7 +307,8 @@ window.SONG_DATA.push(
   "videoDuration": 5938,
   "partDuration": 190,
   "videos": 22,
-  "viewCount": 48,
+  "viewCount": 55,
+  "cover": "https://i0.hdslb.com/bfs/archive/d5699eca4cdf12cf357e08b46759281687fb31ae.jpg@160w_90h_1c.webp",
   "videoTitle": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -315,7 +329,8 @@ window.SONG_DATA.push(
   "videoDuration": 5938,
   "partDuration": 292,
   "videos": 22,
-  "viewCount": 48,
+  "viewCount": 55,
+  "cover": "https://i0.hdslb.com/bfs/archive/d5699eca4cdf12cf357e08b46759281687fb31ae.jpg@160w_90h_1c.webp",
   "videoTitle": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -336,7 +351,8 @@ window.SONG_DATA.push(
   "videoDuration": 5938,
   "partDuration": 364,
   "videos": 22,
-  "viewCount": 48,
+  "viewCount": 55,
+  "cover": "https://i0.hdslb.com/bfs/archive/d5699eca4cdf12cf357e08b46759281687fb31ae.jpg@160w_90h_1c.webp",
   "videoTitle": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -357,7 +373,8 @@ window.SONG_DATA.push(
   "videoDuration": 5938,
   "partDuration": 363,
   "videos": 22,
-  "viewCount": 48,
+  "viewCount": 55,
+  "cover": "https://i0.hdslb.com/bfs/archive/d5699eca4cdf12cf357e08b46759281687fb31ae.jpg@160w_90h_1c.webp",
   "videoTitle": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -378,7 +395,8 @@ window.SONG_DATA.push(
   "videoDuration": 5938,
   "partDuration": 311,
   "videos": 22,
-  "viewCount": 48,
+  "viewCount": 55,
+  "cover": "https://i0.hdslb.com/bfs/archive/d5699eca4cdf12cf357e08b46759281687fb31ae.jpg@160w_90h_1c.webp",
   "videoTitle": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -399,7 +417,8 @@ window.SONG_DATA.push(
   "videoDuration": 5938,
   "partDuration": 268,
   "videos": 22,
-  "viewCount": 48,
+  "viewCount": 55,
+  "cover": "https://i0.hdslb.com/bfs/archive/d5699eca4cdf12cf357e08b46759281687fb31ae.jpg@160w_90h_1c.webp",
   "videoTitle": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -420,7 +439,8 @@ window.SONG_DATA.push(
   "videoDuration": 5938,
   "partDuration": 233,
   "videos": 22,
-  "viewCount": 48,
+  "viewCount": 55,
+  "cover": "https://i0.hdslb.com/bfs/archive/d5699eca4cdf12cf357e08b46759281687fb31ae.jpg@160w_90h_1c.webp",
   "videoTitle": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -441,7 +461,8 @@ window.SONG_DATA.push(
   "videoDuration": 5938,
   "partDuration": 247,
   "videos": 22,
-  "viewCount": 48,
+  "viewCount": 55,
+  "cover": "https://i0.hdslb.com/bfs/archive/d5699eca4cdf12cf357e08b46759281687fb31ae.jpg@160w_90h_1c.webp",
   "videoTitle": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -462,7 +483,8 @@ window.SONG_DATA.push(
   "videoDuration": 5938,
   "partDuration": 277,
   "videos": 22,
-  "viewCount": 48,
+  "viewCount": 55,
+  "cover": "https://i0.hdslb.com/bfs/archive/d5699eca4cdf12cf357e08b46759281687fb31ae.jpg@160w_90h_1c.webp",
   "videoTitle": "【22首横屏】【むんもっしゅ歌切合集240122】1-1からくりピエロ  40mP",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -483,7 +505,8 @@ window.SONG_DATA.push(
   "videoDuration": 4926,
   "partDuration": 245,
   "videos": 20,
-  "viewCount": 34,
+  "viewCount": 39,
+  "cover": "https://i1.hdslb.com/bfs/archive/c21f48991d9125179f3991c6dd12bc526f527402.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -504,7 +527,8 @@ window.SONG_DATA.push(
   "videoDuration": 4926,
   "partDuration": 266,
   "videos": 20,
-  "viewCount": 34,
+  "viewCount": 39,
+  "cover": "https://i1.hdslb.com/bfs/archive/c21f48991d9125179f3991c6dd12bc526f527402.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -525,7 +549,8 @@ window.SONG_DATA.push(
   "videoDuration": 4926,
   "partDuration": 255,
   "videos": 20,
-  "viewCount": 34,
+  "viewCount": 39,
+  "cover": "https://i1.hdslb.com/bfs/archive/c21f48991d9125179f3991c6dd12bc526f527402.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -546,7 +571,8 @@ window.SONG_DATA.push(
   "videoDuration": 4926,
   "partDuration": 167,
   "videos": 20,
-  "viewCount": 34,
+  "viewCount": 39,
+  "cover": "https://i1.hdslb.com/bfs/archive/c21f48991d9125179f3991c6dd12bc526f527402.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -567,7 +593,8 @@ window.SONG_DATA.push(
   "videoDuration": 4926,
   "partDuration": 307,
   "videos": 20,
-  "viewCount": 34,
+  "viewCount": 39,
+  "cover": "https://i1.hdslb.com/bfs/archive/c21f48991d9125179f3991c6dd12bc526f527402.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -588,7 +615,8 @@ window.SONG_DATA.push(
   "videoDuration": 4926,
   "partDuration": 292,
   "videos": 20,
-  "viewCount": 34,
+  "viewCount": 39,
+  "cover": "https://i1.hdslb.com/bfs/archive/c21f48991d9125179f3991c6dd12bc526f527402.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -609,7 +637,8 @@ window.SONG_DATA.push(
   "videoDuration": 4926,
   "partDuration": 298,
   "videos": 20,
-  "viewCount": 34,
+  "viewCount": 39,
+  "cover": "https://i1.hdslb.com/bfs/archive/c21f48991d9125179f3991c6dd12bc526f527402.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -630,7 +659,8 @@ window.SONG_DATA.push(
   "videoDuration": 4926,
   "partDuration": 243,
   "videos": 20,
-  "viewCount": 34,
+  "viewCount": 39,
+  "cover": "https://i1.hdslb.com/bfs/archive/c21f48991d9125179f3991c6dd12bc526f527402.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -651,7 +681,8 @@ window.SONG_DATA.push(
   "videoDuration": 4926,
   "partDuration": 286,
   "videos": 20,
-  "viewCount": 34,
+  "viewCount": 39,
+  "cover": "https://i1.hdslb.com/bfs/archive/c21f48991d9125179f3991c6dd12bc526f527402.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -672,7 +703,8 @@ window.SONG_DATA.push(
   "videoDuration": 4926,
   "partDuration": 266,
   "videos": 20,
-  "viewCount": 34,
+  "viewCount": 39,
+  "cover": "https://i1.hdslb.com/bfs/archive/c21f48991d9125179f3991c6dd12bc526f527402.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -693,7 +725,8 @@ window.SONG_DATA.push(
   "videoDuration": 4926,
   "partDuration": 235,
   "videos": 20,
-  "viewCount": 34,
+  "viewCount": 39,
+  "cover": "https://i1.hdslb.com/bfs/archive/c21f48991d9125179f3991c6dd12bc526f527402.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -714,7 +747,8 @@ window.SONG_DATA.push(
   "videoDuration": 4926,
   "partDuration": 243,
   "videos": 20,
-  "viewCount": 34,
+  "viewCount": 39,
+  "cover": "https://i1.hdslb.com/bfs/archive/c21f48991d9125179f3991c6dd12bc526f527402.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -735,7 +769,8 @@ window.SONG_DATA.push(
   "videoDuration": 4926,
   "partDuration": 234,
   "videos": 20,
-  "viewCount": 34,
+  "viewCount": 39,
+  "cover": "https://i1.hdslb.com/bfs/archive/c21f48991d9125179f3991c6dd12bc526f527402.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -756,7 +791,8 @@ window.SONG_DATA.push(
   "videoDuration": 4926,
   "partDuration": 214,
   "videos": 20,
-  "viewCount": 34,
+  "viewCount": 39,
+  "cover": "https://i1.hdslb.com/bfs/archive/c21f48991d9125179f3991c6dd12bc526f527402.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -777,7 +813,8 @@ window.SONG_DATA.push(
   "videoDuration": 4926,
   "partDuration": 225,
   "videos": 20,
-  "viewCount": 34,
+  "viewCount": 39,
+  "cover": "https://i1.hdslb.com/bfs/archive/c21f48991d9125179f3991c6dd12bc526f527402.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -798,7 +835,8 @@ window.SONG_DATA.push(
   "videoDuration": 4926,
   "partDuration": 243,
   "videos": 20,
-  "viewCount": 34,
+  "viewCount": 39,
+  "cover": "https://i1.hdslb.com/bfs/archive/c21f48991d9125179f3991c6dd12bc526f527402.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -819,7 +857,8 @@ window.SONG_DATA.push(
   "videoDuration": 4926,
   "partDuration": 256,
   "videos": 20,
-  "viewCount": 34,
+  "viewCount": 39,
+  "cover": "https://i1.hdslb.com/bfs/archive/c21f48991d9125179f3991c6dd12bc526f527402.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -840,7 +879,8 @@ window.SONG_DATA.push(
   "videoDuration": 4926,
   "partDuration": 165,
   "videos": 20,
-  "viewCount": 34,
+  "viewCount": 39,
+  "cover": "https://i1.hdslb.com/bfs/archive/c21f48991d9125179f3991c6dd12bc526f527402.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -861,7 +901,8 @@ window.SONG_DATA.push(
   "videoDuration": 4926,
   "partDuration": 243,
   "videos": 20,
-  "viewCount": 34,
+  "viewCount": 39,
+  "cover": "https://i1.hdslb.com/bfs/archive/c21f48991d9125179f3991c6dd12bc526f527402.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -882,7 +923,8 @@ window.SONG_DATA.push(
   "videoDuration": 4926,
   "partDuration": 243,
   "videos": 20,
-  "viewCount": 34,
+  "viewCount": 39,
+  "cover": "https://i1.hdslb.com/bfs/archive/c21f48991d9125179f3991c6dd12bc526f527402.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00734 プラチナ  坂本真綾【2024年1月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -903,7 +945,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 272,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -924,7 +967,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 234,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -945,7 +989,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 369,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -966,7 +1011,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 367,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -987,7 +1033,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 298,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1008,7 +1055,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 206,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1029,7 +1077,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 202,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1050,7 +1099,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 245,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1071,7 +1121,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 214,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1092,7 +1143,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 260,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1113,7 +1165,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 216,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1134,7 +1187,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 345,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1155,7 +1209,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 294,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1176,7 +1231,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 271,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1197,7 +1253,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 277,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1218,7 +1275,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 207,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1239,7 +1297,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 210,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1260,7 +1319,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 305,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1281,7 +1341,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 270,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1302,7 +1363,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 177,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1323,7 +1385,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 232,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1344,7 +1407,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 271,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1365,7 +1429,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 227,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1386,7 +1451,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 252,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1407,7 +1473,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 264,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1428,7 +1495,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 260,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1449,7 +1517,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 208,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1470,7 +1539,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 212,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1491,7 +1561,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 242,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1512,7 +1583,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 245,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1533,7 +1605,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 268,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1554,7 +1627,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 262,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1575,7 +1649,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 235,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1596,7 +1671,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 266,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1617,7 +1693,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 233,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1638,7 +1715,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 366,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1659,7 +1737,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 185,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1680,7 +1759,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 201,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1701,7 +1781,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 281,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1722,7 +1803,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 272,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1743,7 +1825,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 241,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1764,7 +1847,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 232,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1785,7 +1869,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 266,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1806,7 +1891,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 259,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1827,7 +1913,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 250,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1848,7 +1935,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 330,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1869,7 +1957,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 327,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1890,7 +1979,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 191,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1911,7 +2001,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 138,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1932,7 +2023,8 @@ window.SONG_DATA.push(
   "videoDuration": 12733,
   "partDuration": 278,
   "videos": 50,
-  "viewCount": 34,
+  "viewCount": 36,
+  "cover": "https://i2.hdslb.com/bfs/archive/8ea255fd13726970f336963288a6e6096848ca8e.png@160w_90h_1c.webp",
   "videoTitle": "【100首下半】【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1953,7 +2045,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 267,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1974,7 +2067,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 255,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1995,7 +2089,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 316,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2016,7 +2111,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 237,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2037,7 +2133,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 329,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2058,7 +2155,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 247,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2079,7 +2177,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 268,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2100,7 +2199,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 295,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2121,7 +2221,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 322,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2142,7 +2243,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 565,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2163,7 +2265,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 267,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2184,7 +2287,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 326,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2205,7 +2309,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 388,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2226,7 +2331,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 315,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2247,7 +2353,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 328,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2268,7 +2375,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 358,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2289,7 +2397,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 298,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2310,7 +2419,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 264,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2331,7 +2441,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 203,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2352,7 +2463,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 222,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2373,7 +2485,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 305,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2394,7 +2507,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 190,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2415,7 +2529,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 246,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2436,7 +2551,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 327,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2457,7 +2573,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 237,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2478,7 +2595,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 297,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2499,7 +2617,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 290,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2520,7 +2639,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 226,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2541,7 +2661,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 350,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2562,7 +2683,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 272,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2583,7 +2705,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 330,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2604,7 +2727,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 356,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2625,7 +2749,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 303,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2646,7 +2771,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 388,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2667,7 +2793,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 275,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2688,7 +2815,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 317,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2709,7 +2837,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 223,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2730,7 +2859,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 223,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2751,7 +2881,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 372,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2772,7 +2903,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 307,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2793,7 +2925,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 305,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2814,7 +2947,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 285,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2835,7 +2969,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 259,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2856,7 +2991,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 301,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2877,7 +3013,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 375,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2898,7 +3035,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 271,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2919,7 +3057,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 361,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2940,7 +3079,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 260,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2961,7 +3101,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 244,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -2982,7 +3123,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 220,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3003,7 +3145,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 261,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3024,7 +3167,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 240,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3045,7 +3189,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 440,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3066,7 +3211,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 344,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3087,7 +3233,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 289,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3108,7 +3255,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 270,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3129,7 +3277,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 318,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3150,7 +3299,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 266,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3171,7 +3321,8 @@ window.SONG_DATA.push(
   "videoDuration": 17511,
   "partDuration": 298,
   "videos": 59,
-  "viewCount": 224,
+  "viewCount": 227,
+  "cover": "https://i1.hdslb.com/bfs/archive/66eda2e7373fae4380c0f8bed3377dbffb6f4aac.png@160w_90h_1c.webp",
   "videoTitle": "【60首】【むんもっしゅ】2023年12月3日【耐久歌枠】登録者様29000人まで弾き語り！初見さん歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3192,7 +3343,8 @@ window.SONG_DATA.push(
   "videoDuration": 7398,
   "partDuration": 211,
   "videos": 27,
-  "viewCount": 44,
+  "viewCount": 46,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3213,7 +3365,8 @@ window.SONG_DATA.push(
   "videoDuration": 7398,
   "partDuration": 227,
   "videos": 27,
-  "viewCount": 44,
+  "viewCount": 46,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3234,7 +3387,8 @@ window.SONG_DATA.push(
   "videoDuration": 7398,
   "partDuration": 238,
   "videos": 27,
-  "viewCount": 44,
+  "viewCount": 46,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3255,7 +3409,8 @@ window.SONG_DATA.push(
   "videoDuration": 7398,
   "partDuration": 301,
   "videos": 27,
-  "viewCount": 44,
+  "viewCount": 46,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3276,7 +3431,8 @@ window.SONG_DATA.push(
   "videoDuration": 7398,
   "partDuration": 229,
   "videos": 27,
-  "viewCount": 44,
+  "viewCount": 46,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3297,7 +3453,8 @@ window.SONG_DATA.push(
   "videoDuration": 7398,
   "partDuration": 259,
   "videos": 27,
-  "viewCount": 44,
+  "viewCount": 46,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3318,7 +3475,8 @@ window.SONG_DATA.push(
   "videoDuration": 7398,
   "partDuration": 302,
   "videos": 27,
-  "viewCount": 44,
+  "viewCount": 46,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3339,7 +3497,8 @@ window.SONG_DATA.push(
   "videoDuration": 7398,
   "partDuration": 252,
   "videos": 27,
-  "viewCount": 44,
+  "viewCount": 46,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3360,7 +3519,8 @@ window.SONG_DATA.push(
   "videoDuration": 7398,
   "partDuration": 261,
   "videos": 27,
-  "viewCount": 44,
+  "viewCount": 46,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3381,7 +3541,8 @@ window.SONG_DATA.push(
   "videoDuration": 7398,
   "partDuration": 282,
   "videos": 27,
-  "viewCount": 44,
+  "viewCount": 46,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3402,7 +3563,8 @@ window.SONG_DATA.push(
   "videoDuration": 7398,
   "partDuration": 265,
   "videos": 27,
-  "viewCount": 44,
+  "viewCount": 46,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3423,7 +3585,8 @@ window.SONG_DATA.push(
   "videoDuration": 7398,
   "partDuration": 314,
   "videos": 27,
-  "viewCount": 44,
+  "viewCount": 46,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3444,7 +3607,8 @@ window.SONG_DATA.push(
   "videoDuration": 7398,
   "partDuration": 347,
   "videos": 27,
-  "viewCount": 44,
+  "viewCount": 46,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3465,7 +3629,8 @@ window.SONG_DATA.push(
   "videoDuration": 7398,
   "partDuration": 339,
   "videos": 27,
-  "viewCount": 44,
+  "viewCount": 46,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3486,7 +3651,8 @@ window.SONG_DATA.push(
   "videoDuration": 7398,
   "partDuration": 216,
   "videos": 27,
-  "viewCount": 44,
+  "viewCount": 46,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3507,7 +3673,8 @@ window.SONG_DATA.push(
   "videoDuration": 7398,
   "partDuration": 254,
   "videos": 27,
-  "viewCount": 44,
+  "viewCount": 46,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3528,7 +3695,8 @@ window.SONG_DATA.push(
   "videoDuration": 7398,
   "partDuration": 247,
   "videos": 27,
-  "viewCount": 44,
+  "viewCount": 46,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3549,7 +3717,8 @@ window.SONG_DATA.push(
   "videoDuration": 7398,
   "partDuration": 397,
   "videos": 27,
-  "viewCount": 44,
+  "viewCount": 46,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3570,7 +3739,8 @@ window.SONG_DATA.push(
   "videoDuration": 7398,
   "partDuration": 347,
   "videos": 27,
-  "viewCount": 44,
+  "viewCount": 46,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3591,7 +3761,8 @@ window.SONG_DATA.push(
   "videoDuration": 7398,
   "partDuration": 318,
   "videos": 27,
-  "viewCount": 44,
+  "viewCount": 46,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3612,7 +3783,8 @@ window.SONG_DATA.push(
   "videoDuration": 7398,
   "partDuration": 358,
   "videos": 27,
-  "viewCount": 44,
+  "viewCount": 46,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3633,7 +3805,8 @@ window.SONG_DATA.push(
   "videoDuration": 7398,
   "partDuration": 204,
   "videos": 27,
-  "viewCount": 44,
+  "viewCount": 46,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3654,7 +3827,8 @@ window.SONG_DATA.push(
   "videoDuration": 7398,
   "partDuration": 359,
   "videos": 27,
-  "viewCount": 44,
+  "viewCount": 46,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3675,7 +3849,8 @@ window.SONG_DATA.push(
   "videoDuration": 7398,
   "partDuration": 211,
   "videos": 27,
-  "viewCount": 44,
+  "viewCount": 46,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3696,7 +3871,8 @@ window.SONG_DATA.push(
   "videoDuration": 7398,
   "partDuration": 266,
   "videos": 27,
-  "viewCount": 44,
+  "viewCount": 46,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3717,7 +3893,8 @@ window.SONG_DATA.push(
   "videoDuration": 7398,
   "partDuration": 118,
   "videos": 27,
-  "viewCount": 44,
+  "viewCount": 46,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3738,7 +3915,8 @@ window.SONG_DATA.push(
   "videoDuration": 7398,
   "partDuration": 276,
   "videos": 27,
-  "viewCount": 44,
+  "viewCount": 46,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00910 ハルジオン  YOASOBI【2024年1月7日】同接525人＆高評価７７７目指します",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3759,7 +3937,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 239,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3780,7 +3959,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 215,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3801,7 +3981,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 301,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3822,7 +4003,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 249,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3843,7 +4025,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 208,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3864,7 +4047,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 319,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3885,7 +4069,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 296,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3906,7 +4091,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 248,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3927,7 +4113,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 293,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3948,7 +4135,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 264,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3969,7 +4157,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 228,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -3990,7 +4179,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 266,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4011,7 +4201,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 248,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4032,7 +4223,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 300,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4053,7 +4245,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 260,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4074,7 +4267,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 233,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4095,7 +4289,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 219,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4116,7 +4311,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 340,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4137,7 +4333,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 253,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4158,7 +4355,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 382,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4179,7 +4377,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 332,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4200,7 +4399,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 304,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4221,7 +4421,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 331,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4242,7 +4443,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 230,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4263,7 +4465,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 209,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4284,7 +4487,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 280,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4305,7 +4509,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 252,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4326,7 +4531,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 309,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4347,7 +4553,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 353,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4368,7 +4575,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 223,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4389,7 +4597,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 274,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4410,7 +4619,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 309,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4431,7 +4641,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 366,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4452,7 +4663,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 234,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4473,7 +4685,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 247,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4494,7 +4707,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 250,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4515,7 +4729,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 317,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4536,7 +4751,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 244,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4557,7 +4773,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 257,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4578,7 +4795,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 331,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4599,7 +4817,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 351,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4620,7 +4839,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 368,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4641,7 +4861,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 281,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4662,7 +4883,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 364,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4683,7 +4905,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 235,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4704,7 +4927,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 290,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4725,7 +4949,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 228,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4746,7 +4971,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 255,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4767,7 +4993,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 226,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4788,7 +5015,8 @@ window.SONG_DATA.push(
   "videoDuration": 13877,
   "partDuration": 266,
   "videos": 50,
-  "viewCount": 72,
+  "viewCount": 74,
+  "cover": "https://i1.hdslb.com/bfs/archive/f06de872f59683c03f77f9279835b07b13b5eb49.png@160w_90h_1c.webp",
   "videoTitle": "【100首上半】【竖屏】（下半是横屏）【むんもっしゅ跨年歌切】 P弾き語りonlyで100曲耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4810,6 +5038,7 @@ window.SONG_DATA.push(
   "partDuration": 282,
   "videos": 31,
   "viewCount": 92,
+  "cover": "https://i2.hdslb.com/bfs/archive/1dd04bdb07f465a9d80c62ed73d318a918a5c423.jpg@160w_90h_1c.webp",
   "videoTitle": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4831,6 +5060,7 @@ window.SONG_DATA.push(
   "partDuration": 235,
   "videos": 31,
   "viewCount": 92,
+  "cover": "https://i2.hdslb.com/bfs/archive/1dd04bdb07f465a9d80c62ed73d318a918a5c423.jpg@160w_90h_1c.webp",
   "videoTitle": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4852,6 +5082,7 @@ window.SONG_DATA.push(
   "partDuration": 163,
   "videos": 31,
   "viewCount": 92,
+  "cover": "https://i2.hdslb.com/bfs/archive/1dd04bdb07f465a9d80c62ed73d318a918a5c423.jpg@160w_90h_1c.webp",
   "videoTitle": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4873,6 +5104,7 @@ window.SONG_DATA.push(
   "partDuration": 225,
   "videos": 31,
   "viewCount": 92,
+  "cover": "https://i2.hdslb.com/bfs/archive/1dd04bdb07f465a9d80c62ed73d318a918a5c423.jpg@160w_90h_1c.webp",
   "videoTitle": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4894,6 +5126,7 @@ window.SONG_DATA.push(
   "partDuration": 273,
   "videos": 31,
   "viewCount": 92,
+  "cover": "https://i2.hdslb.com/bfs/archive/1dd04bdb07f465a9d80c62ed73d318a918a5c423.jpg@160w_90h_1c.webp",
   "videoTitle": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4915,6 +5148,7 @@ window.SONG_DATA.push(
   "partDuration": 240,
   "videos": 31,
   "viewCount": 92,
+  "cover": "https://i2.hdslb.com/bfs/archive/1dd04bdb07f465a9d80c62ed73d318a918a5c423.jpg@160w_90h_1c.webp",
   "videoTitle": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4936,6 +5170,7 @@ window.SONG_DATA.push(
   "partDuration": 230,
   "videos": 31,
   "viewCount": 92,
+  "cover": "https://i2.hdslb.com/bfs/archive/1dd04bdb07f465a9d80c62ed73d318a918a5c423.jpg@160w_90h_1c.webp",
   "videoTitle": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4957,6 +5192,7 @@ window.SONG_DATA.push(
   "partDuration": 263,
   "videos": 31,
   "viewCount": 92,
+  "cover": "https://i2.hdslb.com/bfs/archive/1dd04bdb07f465a9d80c62ed73d318a918a5c423.jpg@160w_90h_1c.webp",
   "videoTitle": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4978,6 +5214,7 @@ window.SONG_DATA.push(
   "partDuration": 242,
   "videos": 31,
   "viewCount": 92,
+  "cover": "https://i2.hdslb.com/bfs/archive/1dd04bdb07f465a9d80c62ed73d318a918a5c423.jpg@160w_90h_1c.webp",
   "videoTitle": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -4999,6 +5236,7 @@ window.SONG_DATA.push(
   "partDuration": 301,
   "videos": 31,
   "viewCount": 92,
+  "cover": "https://i2.hdslb.com/bfs/archive/1dd04bdb07f465a9d80c62ed73d318a918a5c423.jpg@160w_90h_1c.webp",
   "videoTitle": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5020,6 +5258,7 @@ window.SONG_DATA.push(
   "partDuration": 336,
   "videos": 31,
   "viewCount": 92,
+  "cover": "https://i2.hdslb.com/bfs/archive/1dd04bdb07f465a9d80c62ed73d318a918a5c423.jpg@160w_90h_1c.webp",
   "videoTitle": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5041,6 +5280,7 @@ window.SONG_DATA.push(
   "partDuration": 212,
   "videos": 31,
   "viewCount": 92,
+  "cover": "https://i2.hdslb.com/bfs/archive/1dd04bdb07f465a9d80c62ed73d318a918a5c423.jpg@160w_90h_1c.webp",
   "videoTitle": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5062,6 +5302,7 @@ window.SONG_DATA.push(
   "partDuration": 307,
   "videos": 31,
   "viewCount": 92,
+  "cover": "https://i2.hdslb.com/bfs/archive/1dd04bdb07f465a9d80c62ed73d318a918a5c423.jpg@160w_90h_1c.webp",
   "videoTitle": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5083,6 +5324,7 @@ window.SONG_DATA.push(
   "partDuration": 216,
   "videos": 31,
   "viewCount": 92,
+  "cover": "https://i2.hdslb.com/bfs/archive/1dd04bdb07f465a9d80c62ed73d318a918a5c423.jpg@160w_90h_1c.webp",
   "videoTitle": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5104,6 +5346,7 @@ window.SONG_DATA.push(
   "partDuration": 283,
   "videos": 31,
   "viewCount": 92,
+  "cover": "https://i2.hdslb.com/bfs/archive/1dd04bdb07f465a9d80c62ed73d318a918a5c423.jpg@160w_90h_1c.webp",
   "videoTitle": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5125,6 +5368,7 @@ window.SONG_DATA.push(
   "partDuration": 306,
   "videos": 31,
   "viewCount": 92,
+  "cover": "https://i2.hdslb.com/bfs/archive/1dd04bdb07f465a9d80c62ed73d318a918a5c423.jpg@160w_90h_1c.webp",
   "videoTitle": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5146,6 +5390,7 @@ window.SONG_DATA.push(
   "partDuration": 214,
   "videos": 31,
   "viewCount": 92,
+  "cover": "https://i2.hdslb.com/bfs/archive/1dd04bdb07f465a9d80c62ed73d318a918a5c423.jpg@160w_90h_1c.webp",
   "videoTitle": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5167,6 +5412,7 @@ window.SONG_DATA.push(
   "partDuration": 353,
   "videos": 31,
   "viewCount": 92,
+  "cover": "https://i2.hdslb.com/bfs/archive/1dd04bdb07f465a9d80c62ed73d318a918a5c423.jpg@160w_90h_1c.webp",
   "videoTitle": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5188,6 +5434,7 @@ window.SONG_DATA.push(
   "partDuration": 268,
   "videos": 31,
   "viewCount": 92,
+  "cover": "https://i2.hdslb.com/bfs/archive/1dd04bdb07f465a9d80c62ed73d318a918a5c423.jpg@160w_90h_1c.webp",
   "videoTitle": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5209,6 +5456,7 @@ window.SONG_DATA.push(
   "partDuration": 224,
   "videos": 31,
   "viewCount": 92,
+  "cover": "https://i2.hdslb.com/bfs/archive/1dd04bdb07f465a9d80c62ed73d318a918a5c423.jpg@160w_90h_1c.webp",
   "videoTitle": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5230,6 +5478,7 @@ window.SONG_DATA.push(
   "partDuration": 304,
   "videos": 31,
   "viewCount": 92,
+  "cover": "https://i2.hdslb.com/bfs/archive/1dd04bdb07f465a9d80c62ed73d318a918a5c423.jpg@160w_90h_1c.webp",
   "videoTitle": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5251,6 +5500,7 @@ window.SONG_DATA.push(
   "partDuration": 299,
   "videos": 31,
   "viewCount": 92,
+  "cover": "https://i2.hdslb.com/bfs/archive/1dd04bdb07f465a9d80c62ed73d318a918a5c423.jpg@160w_90h_1c.webp",
   "videoTitle": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5272,6 +5522,7 @@ window.SONG_DATA.push(
   "partDuration": 246,
   "videos": 31,
   "viewCount": 92,
+  "cover": "https://i2.hdslb.com/bfs/archive/1dd04bdb07f465a9d80c62ed73d318a918a5c423.jpg@160w_90h_1c.webp",
   "videoTitle": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5293,6 +5544,7 @@ window.SONG_DATA.push(
   "partDuration": 181,
   "videos": 31,
   "viewCount": 92,
+  "cover": "https://i2.hdslb.com/bfs/archive/1dd04bdb07f465a9d80c62ed73d318a918a5c423.jpg@160w_90h_1c.webp",
   "videoTitle": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5314,6 +5566,7 @@ window.SONG_DATA.push(
   "partDuration": 298,
   "videos": 31,
   "viewCount": 92,
+  "cover": "https://i2.hdslb.com/bfs/archive/1dd04bdb07f465a9d80c62ed73d318a918a5c423.jpg@160w_90h_1c.webp",
   "videoTitle": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5335,6 +5588,7 @@ window.SONG_DATA.push(
   "partDuration": 187,
   "videos": 31,
   "viewCount": 92,
+  "cover": "https://i2.hdslb.com/bfs/archive/1dd04bdb07f465a9d80c62ed73d318a918a5c423.jpg@160w_90h_1c.webp",
   "videoTitle": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5356,6 +5610,7 @@ window.SONG_DATA.push(
   "partDuration": 324,
   "videos": 31,
   "viewCount": 92,
+  "cover": "https://i2.hdslb.com/bfs/archive/1dd04bdb07f465a9d80c62ed73d318a918a5c423.jpg@160w_90h_1c.webp",
   "videoTitle": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5377,6 +5632,7 @@ window.SONG_DATA.push(
   "partDuration": 261,
   "videos": 31,
   "viewCount": 92,
+  "cover": "https://i2.hdslb.com/bfs/archive/1dd04bdb07f465a9d80c62ed73d318a918a5c423.jpg@160w_90h_1c.webp",
   "videoTitle": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5398,6 +5654,7 @@ window.SONG_DATA.push(
   "partDuration": 313,
   "videos": 31,
   "viewCount": 92,
+  "cover": "https://i2.hdslb.com/bfs/archive/1dd04bdb07f465a9d80c62ed73d318a918a5c423.jpg@160w_90h_1c.webp",
   "videoTitle": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5419,6 +5676,7 @@ window.SONG_DATA.push(
   "partDuration": 241,
   "videos": 31,
   "viewCount": 92,
+  "cover": "https://i2.hdslb.com/bfs/archive/1dd04bdb07f465a9d80c62ed73d318a918a5c423.jpg@160w_90h_1c.webp",
   "videoTitle": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5440,6 +5698,7 @@ window.SONG_DATA.push(
   "partDuration": 109,
   "videos": 31,
   "viewCount": 92,
+  "cover": "https://i2.hdslb.com/bfs/archive/1dd04bdb07f465a9d80c62ed73d318a918a5c423.jpg@160w_90h_1c.webp",
   "videoTitle": "【31首横屏】【むんもっしゅ歌切合集240128】2-1変わらないもの  奥華子",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5460,7 +5719,8 @@ window.SONG_DATA.push(
   "videoDuration": 2714,
   "partDuration": 274,
   "videos": 9,
-  "viewCount": 36,
+  "viewCount": 38,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00917 ウミユリ海底譚  n-buna【2024年1月10日】ボカロ曲を弾き語り",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5481,7 +5741,8 @@ window.SONG_DATA.push(
   "videoDuration": 2714,
   "partDuration": 346,
   "videos": 9,
-  "viewCount": 36,
+  "viewCount": 38,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00917 ウミユリ海底譚  n-buna【2024年1月10日】ボカロ曲を弾き語り",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5502,7 +5763,8 @@ window.SONG_DATA.push(
   "videoDuration": 2714,
   "partDuration": 364,
   "videos": 9,
-  "viewCount": 36,
+  "viewCount": 38,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00917 ウミユリ海底譚  n-buna【2024年1月10日】ボカロ曲を弾き語り",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5523,7 +5785,8 @@ window.SONG_DATA.push(
   "videoDuration": 2714,
   "partDuration": 324,
   "videos": 9,
-  "viewCount": 36,
+  "viewCount": 38,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00917 ウミユリ海底譚  n-buna【2024年1月10日】ボカロ曲を弾き語り",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5544,7 +5807,8 @@ window.SONG_DATA.push(
   "videoDuration": 2714,
   "partDuration": 338,
   "videos": 9,
-  "viewCount": 36,
+  "viewCount": 38,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00917 ウミユリ海底譚  n-buna【2024年1月10日】ボカロ曲を弾き語り",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5565,7 +5829,8 @@ window.SONG_DATA.push(
   "videoDuration": 2714,
   "partDuration": 152,
   "videos": 9,
-  "viewCount": 36,
+  "viewCount": 38,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00917 ウミユリ海底譚  n-buna【2024年1月10日】ボカロ曲を弾き語り",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5586,7 +5851,8 @@ window.SONG_DATA.push(
   "videoDuration": 2714,
   "partDuration": 322,
   "videos": 9,
-  "viewCount": 36,
+  "viewCount": 38,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00917 ウミユリ海底譚  n-buna【2024年1月10日】ボカロ曲を弾き語り",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5607,7 +5873,8 @@ window.SONG_DATA.push(
   "videoDuration": 2714,
   "partDuration": 303,
   "videos": 9,
-  "viewCount": 36,
+  "viewCount": 38,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00917 ウミユリ海底譚  n-buna【2024年1月10日】ボカロ曲を弾き語り",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5628,7 +5895,8 @@ window.SONG_DATA.push(
   "videoDuration": 2714,
   "partDuration": 291,
   "videos": 9,
-  "viewCount": 36,
+  "viewCount": 38,
+  "cover": "https://i1.hdslb.com/bfs/archive/91a4f6769bbfa429c7066e9dfe783266479a6b63.png@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ切片整合】00917 ウミユリ海底譚  n-buna【2024年1月10日】ボカロ曲を弾き語り",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5649,7 +5917,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 316,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5670,7 +5939,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 312,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5691,7 +5961,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 264,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5712,7 +5983,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 293,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5733,7 +6005,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 411,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5754,7 +6027,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 326,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5775,7 +6049,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 323,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5796,7 +6071,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 314,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5817,7 +6093,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 222,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5838,7 +6115,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 291,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5859,7 +6137,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 298,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5880,7 +6159,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 372,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5901,7 +6181,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 422,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5922,7 +6203,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 237,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5943,7 +6225,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 315,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5964,7 +6247,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 411,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -5985,7 +6269,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 385,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6006,7 +6291,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 272,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6027,7 +6313,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 351,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6048,7 +6335,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 384,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6069,7 +6357,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 293,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6090,7 +6379,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 304,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6111,7 +6401,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 336,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6132,7 +6423,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 254,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6153,7 +6445,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 377,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6174,7 +6467,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 275,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6195,7 +6489,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 332,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6216,7 +6511,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 282,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6237,7 +6533,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 328,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6258,7 +6555,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 274,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6279,7 +6577,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 271,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6300,7 +6599,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 302,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6321,7 +6621,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 324,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6342,7 +6643,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 307,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6363,7 +6665,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 374,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6384,7 +6687,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 334,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6405,7 +6709,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 278,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6426,7 +6731,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 321,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6447,7 +6753,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 272,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6468,7 +6775,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 260,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6489,7 +6797,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 363,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6510,7 +6819,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 239,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6531,7 +6841,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 335,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6552,7 +6863,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 352,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6573,7 +6885,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 253,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6594,7 +6907,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 250,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6615,7 +6929,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 360,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6636,7 +6951,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 266,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6657,7 +6973,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 316,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6678,7 +6995,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 319,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6699,7 +7017,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 392,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6720,7 +7039,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 350,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6741,7 +7061,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 209,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6762,7 +7083,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 238,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6783,7 +7105,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 347,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6804,7 +7127,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 324,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6825,7 +7149,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 283,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6846,7 +7171,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 270,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6867,7 +7193,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 300,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6888,7 +7215,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 310,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6909,7 +7237,8 @@ window.SONG_DATA.push(
   "videoDuration": 19036,
   "partDuration": 343,
   "videos": 61,
-  "viewCount": 196,
+  "viewCount": 203,
+  "cover": "https://i1.hdslb.com/bfs/archive/4082810ce5e403ed5d975c5aa0a59cdba0581e9a.png@160w_90h_1c.webp",
   "videoTitle": "61首【むんもっしゅ】2024年3月27日+3月29日 31+30首演唱动漫歌曲的抒情歌♪+ 弹唱抒情歌直到获得 1200 个赞",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6930,7 +7259,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 204,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6951,7 +7281,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 127,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6972,7 +7303,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 280,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -6993,7 +7325,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 215,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7014,7 +7347,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 232,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7035,7 +7369,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 240,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7056,7 +7391,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 284,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7077,7 +7413,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 270,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7098,7 +7435,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 282,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7119,7 +7457,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 310,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7140,7 +7479,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 258,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7161,7 +7501,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 280,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7182,7 +7523,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 278,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7203,7 +7545,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 317,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7224,7 +7567,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 259,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7245,7 +7589,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 240,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7266,7 +7611,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 266,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7287,7 +7633,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 305,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7308,7 +7655,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 226,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7329,7 +7677,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 273,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7350,7 +7699,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 202,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7371,7 +7721,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 142,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7392,7 +7743,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 228,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7413,7 +7765,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 236,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7434,7 +7787,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 282,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7455,7 +7809,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 248,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7476,7 +7831,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 304,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7497,7 +7853,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 227,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7518,7 +7875,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 224,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7539,7 +7897,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 301,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7560,7 +7919,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 288,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7581,7 +7941,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 241,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7602,7 +7963,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 247,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7623,7 +7985,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 289,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7644,7 +8007,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 267,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7665,7 +8029,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 362,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7686,7 +8051,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 242,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7707,7 +8073,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 351,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7728,7 +8095,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 236,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7749,7 +8117,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 217,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7770,7 +8139,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 363,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7791,7 +8161,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 316,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7812,7 +8183,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 333,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7833,7 +8205,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 242,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7854,7 +8227,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 216,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7875,7 +8249,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 230,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7896,7 +8271,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 197,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7917,7 +8293,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 241,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7938,7 +8315,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 231,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7959,7 +8337,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 188,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -7980,7 +8359,8 @@ window.SONG_DATA.push(
   "videoDuration": 13080,
   "partDuration": 243,
   "videos": 51,
-  "viewCount": 176,
+  "viewCount": 178,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5ce7c0b44958e0466b7852c8adcf18d86873e01.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】51首横屏】6小时耐久【2024年5月5日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8001,7 +8381,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 224,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8022,7 +8403,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 263,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8043,7 +8425,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 400,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8064,7 +8447,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 258,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8085,7 +8469,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 228,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8106,7 +8491,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 243,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8127,7 +8513,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 225,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8148,7 +8535,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 262,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8169,7 +8557,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 242,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8190,7 +8579,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 276,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8211,7 +8601,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 290,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8232,7 +8623,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 259,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8253,7 +8645,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 301,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8274,7 +8667,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 349,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8295,7 +8689,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 277,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8316,7 +8711,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 267,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8337,7 +8733,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 323,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8358,7 +8755,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 297,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8379,7 +8777,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 226,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8400,7 +8799,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 269,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8421,7 +8821,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 329,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8442,7 +8843,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 291,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8463,7 +8865,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 214,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8484,7 +8887,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 251,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8505,7 +8909,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 264,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8526,7 +8931,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 240,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8547,7 +8953,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 268,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8568,7 +8975,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 317,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8589,7 +8997,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 238,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8610,7 +9019,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 152,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8631,7 +9041,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 253,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8652,7 +9063,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 241,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8673,7 +9085,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 214,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8694,7 +9107,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 216,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8715,7 +9129,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 394,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8736,7 +9151,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 267,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8757,7 +9173,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 236,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8778,7 +9195,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 293,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8799,7 +9217,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 346,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8820,7 +9239,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 244,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8841,7 +9261,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 329,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8862,7 +9283,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 255,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8883,7 +9305,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 186,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8904,7 +9327,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 287,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8925,7 +9349,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 219,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8946,7 +9371,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 228,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8967,7 +9393,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 301,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -8988,7 +9415,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 275,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9009,7 +9437,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 309,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9030,7 +9459,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 287,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9051,7 +9481,8 @@ window.SONG_DATA.push(
   "videoDuration": 13725,
   "partDuration": 302,
   "videos": 51,
-  "viewCount": 127,
+  "viewCount": 128,
+  "cover": "https://i0.hdslb.com/bfs/archive/8386ca604bff996a5a97a093d1eb18c1969a5807.png@160w_90h_1c.webp",
   "videoTitle": "51首 8联动 2024年4月1日【むんもっしゅ生日会】50 首歌曲耐久歌枠!与豪华嘉宾合作01. 咲かせや咲かせ - EGOIST",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9072,7 +9503,8 @@ window.SONG_DATA.push(
   "videoDuration": 5706,
   "partDuration": 330,
   "videos": 21,
-  "viewCount": 172,
+  "viewCount": 173,
+  "cover": "https://i0.hdslb.com/bfs/archive/3e0eab5e54fb0c2530690ecad2b0f08a2e866efa.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】21横屏】2000 年代动漫歌曲弹唱🎸【2024年4月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9093,7 +9525,8 @@ window.SONG_DATA.push(
   "videoDuration": 5706,
   "partDuration": 221,
   "videos": 21,
-  "viewCount": 172,
+  "viewCount": 173,
+  "cover": "https://i0.hdslb.com/bfs/archive/3e0eab5e54fb0c2530690ecad2b0f08a2e866efa.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】21横屏】2000 年代动漫歌曲弹唱🎸【2024年4月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9114,7 +9547,8 @@ window.SONG_DATA.push(
   "videoDuration": 5706,
   "partDuration": 250,
   "videos": 21,
-  "viewCount": 172,
+  "viewCount": 173,
+  "cover": "https://i0.hdslb.com/bfs/archive/3e0eab5e54fb0c2530690ecad2b0f08a2e866efa.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】21横屏】2000 年代动漫歌曲弹唱🎸【2024年4月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9135,7 +9569,8 @@ window.SONG_DATA.push(
   "videoDuration": 5706,
   "partDuration": 320,
   "videos": 21,
-  "viewCount": 172,
+  "viewCount": 173,
+  "cover": "https://i0.hdslb.com/bfs/archive/3e0eab5e54fb0c2530690ecad2b0f08a2e866efa.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】21横屏】2000 年代动漫歌曲弹唱🎸【2024年4月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9156,7 +9591,8 @@ window.SONG_DATA.push(
   "videoDuration": 5706,
   "partDuration": 304,
   "videos": 21,
-  "viewCount": 172,
+  "viewCount": 173,
+  "cover": "https://i0.hdslb.com/bfs/archive/3e0eab5e54fb0c2530690ecad2b0f08a2e866efa.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】21横屏】2000 年代动漫歌曲弹唱🎸【2024年4月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9177,7 +9613,8 @@ window.SONG_DATA.push(
   "videoDuration": 5706,
   "partDuration": 328,
   "videos": 21,
-  "viewCount": 172,
+  "viewCount": 173,
+  "cover": "https://i0.hdslb.com/bfs/archive/3e0eab5e54fb0c2530690ecad2b0f08a2e866efa.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】21横屏】2000 年代动漫歌曲弹唱🎸【2024年4月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9198,7 +9635,8 @@ window.SONG_DATA.push(
   "videoDuration": 5706,
   "partDuration": 246,
   "videos": 21,
-  "viewCount": 172,
+  "viewCount": 173,
+  "cover": "https://i0.hdslb.com/bfs/archive/3e0eab5e54fb0c2530690ecad2b0f08a2e866efa.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】21横屏】2000 年代动漫歌曲弹唱🎸【2024年4月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9219,7 +9657,8 @@ window.SONG_DATA.push(
   "videoDuration": 5706,
   "partDuration": 306,
   "videos": 21,
-  "viewCount": 172,
+  "viewCount": 173,
+  "cover": "https://i0.hdslb.com/bfs/archive/3e0eab5e54fb0c2530690ecad2b0f08a2e866efa.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】21横屏】2000 年代动漫歌曲弹唱🎸【2024年4月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9240,7 +9679,8 @@ window.SONG_DATA.push(
   "videoDuration": 5706,
   "partDuration": 252,
   "videos": 21,
-  "viewCount": 172,
+  "viewCount": 173,
+  "cover": "https://i0.hdslb.com/bfs/archive/3e0eab5e54fb0c2530690ecad2b0f08a2e866efa.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】21横屏】2000 年代动漫歌曲弹唱🎸【2024年4月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9261,7 +9701,8 @@ window.SONG_DATA.push(
   "videoDuration": 5706,
   "partDuration": 323,
   "videos": 21,
-  "viewCount": 172,
+  "viewCount": 173,
+  "cover": "https://i0.hdslb.com/bfs/archive/3e0eab5e54fb0c2530690ecad2b0f08a2e866efa.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】21横屏】2000 年代动漫歌曲弹唱🎸【2024年4月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9282,7 +9723,8 @@ window.SONG_DATA.push(
   "videoDuration": 5706,
   "partDuration": 294,
   "videos": 21,
-  "viewCount": 172,
+  "viewCount": 173,
+  "cover": "https://i0.hdslb.com/bfs/archive/3e0eab5e54fb0c2530690ecad2b0f08a2e866efa.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】21横屏】2000 年代动漫歌曲弹唱🎸【2024年4月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9303,7 +9745,8 @@ window.SONG_DATA.push(
   "videoDuration": 5706,
   "partDuration": 255,
   "videos": 21,
-  "viewCount": 172,
+  "viewCount": 173,
+  "cover": "https://i0.hdslb.com/bfs/archive/3e0eab5e54fb0c2530690ecad2b0f08a2e866efa.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】21横屏】2000 年代动漫歌曲弹唱🎸【2024年4月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9324,7 +9767,8 @@ window.SONG_DATA.push(
   "videoDuration": 5706,
   "partDuration": 195,
   "videos": 21,
-  "viewCount": 172,
+  "viewCount": 173,
+  "cover": "https://i0.hdslb.com/bfs/archive/3e0eab5e54fb0c2530690ecad2b0f08a2e866efa.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】21横屏】2000 年代动漫歌曲弹唱🎸【2024年4月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9345,7 +9789,8 @@ window.SONG_DATA.push(
   "videoDuration": 5706,
   "partDuration": 273,
   "videos": 21,
-  "viewCount": 172,
+  "viewCount": 173,
+  "cover": "https://i0.hdslb.com/bfs/archive/3e0eab5e54fb0c2530690ecad2b0f08a2e866efa.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】21横屏】2000 年代动漫歌曲弹唱🎸【2024年4月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9366,7 +9811,8 @@ window.SONG_DATA.push(
   "videoDuration": 5706,
   "partDuration": 277,
   "videos": 21,
-  "viewCount": 172,
+  "viewCount": 173,
+  "cover": "https://i0.hdslb.com/bfs/archive/3e0eab5e54fb0c2530690ecad2b0f08a2e866efa.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】21横屏】2000 年代动漫歌曲弹唱🎸【2024年4月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9387,7 +9833,8 @@ window.SONG_DATA.push(
   "videoDuration": 5706,
   "partDuration": 293,
   "videos": 21,
-  "viewCount": 172,
+  "viewCount": 173,
+  "cover": "https://i0.hdslb.com/bfs/archive/3e0eab5e54fb0c2530690ecad2b0f08a2e866efa.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】21横屏】2000 年代动漫歌曲弹唱🎸【2024年4月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9408,7 +9855,8 @@ window.SONG_DATA.push(
   "videoDuration": 5706,
   "partDuration": 281,
   "videos": 21,
-  "viewCount": 172,
+  "viewCount": 173,
+  "cover": "https://i0.hdslb.com/bfs/archive/3e0eab5e54fb0c2530690ecad2b0f08a2e866efa.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】21横屏】2000 年代动漫歌曲弹唱🎸【2024年4月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9429,7 +9877,8 @@ window.SONG_DATA.push(
   "videoDuration": 5706,
   "partDuration": 260,
   "videos": 21,
-  "viewCount": 172,
+  "viewCount": 173,
+  "cover": "https://i0.hdslb.com/bfs/archive/3e0eab5e54fb0c2530690ecad2b0f08a2e866efa.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】21横屏】2000 年代动漫歌曲弹唱🎸【2024年4月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9450,7 +9899,8 @@ window.SONG_DATA.push(
   "videoDuration": 5706,
   "partDuration": 182,
   "videos": 21,
-  "viewCount": 172,
+  "viewCount": 173,
+  "cover": "https://i0.hdslb.com/bfs/archive/3e0eab5e54fb0c2530690ecad2b0f08a2e866efa.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】21横屏】2000 年代动漫歌曲弹唱🎸【2024年4月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9471,7 +9921,8 @@ window.SONG_DATA.push(
   "videoDuration": 5706,
   "partDuration": 237,
   "videos": 21,
-  "viewCount": 172,
+  "viewCount": 173,
+  "cover": "https://i0.hdslb.com/bfs/archive/3e0eab5e54fb0c2530690ecad2b0f08a2e866efa.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】21横屏】2000 年代动漫歌曲弹唱🎸【2024年4月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9492,7 +9943,8 @@ window.SONG_DATA.push(
   "videoDuration": 5706,
   "partDuration": 279,
   "videos": 21,
-  "viewCount": 172,
+  "viewCount": 173,
+  "cover": "https://i0.hdslb.com/bfs/archive/3e0eab5e54fb0c2530690ecad2b0f08a2e866efa.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】21横屏】2000 年代动漫歌曲弹唱🎸【2024年4月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9513,7 +9965,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 260,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9534,7 +9987,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 228,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9555,7 +10009,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 269,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9576,7 +10031,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 259,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9597,7 +10053,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 300,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9618,7 +10075,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 282,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9639,7 +10097,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 254,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9660,7 +10119,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 293,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9681,7 +10141,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 311,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9702,7 +10163,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 286,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9723,7 +10185,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 322,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9744,7 +10207,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 362,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9765,7 +10229,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 329,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9786,7 +10251,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 266,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9807,7 +10273,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 385,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9828,7 +10295,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 323,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9849,7 +10317,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 236,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9870,7 +10339,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 204,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9891,7 +10361,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 278,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9912,7 +10383,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 224,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9933,7 +10405,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 270,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9954,7 +10427,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 292,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9975,7 +10449,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 279,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -9996,7 +10471,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 285,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10017,7 +10493,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 252,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10038,7 +10515,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 286,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10059,7 +10537,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 308,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10080,7 +10559,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 236,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10101,7 +10581,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 258,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10122,7 +10603,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 293,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10143,7 +10625,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 240,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10164,7 +10647,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 242,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10185,7 +10669,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 340,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10206,7 +10691,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 197,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10227,7 +10713,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 293,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10248,7 +10735,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 231,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10269,7 +10757,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 233,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10290,7 +10779,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 367,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10311,7 +10801,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 144,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10332,7 +10823,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 157,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10353,7 +10845,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 239,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10374,7 +10867,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 267,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10395,7 +10889,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 277,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10416,7 +10911,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 359,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10437,7 +10933,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 357,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10458,7 +10955,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 290,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10479,7 +10977,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 349,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10500,7 +10999,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 363,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10521,7 +11021,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 296,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10542,7 +11043,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 299,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10563,7 +11065,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 334,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10584,7 +11087,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 281,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10605,7 +11109,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 229,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10626,7 +11131,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 200,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10647,7 +11153,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 152,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10668,7 +11175,8 @@ window.SONG_DATA.push(
   "videoDuration": 15388,
   "partDuration": 222,
   "videos": 56,
-  "viewCount": 185,
+  "viewCount": 186,
+  "cover": "https://i2.hdslb.com/bfs/archive/7492281af2c9f6fc3d1c7a85256cb634a95f2a94.jpg@160w_90h_1c.webp",
   "videoTitle": "56首【むんもっしゅ 2024年4月8日】【耐久歌枠】直到达成 36000 人为止全力弹唱🎸",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10689,7 +11197,8 @@ window.SONG_DATA.push(
   "videoDuration": 6634,
   "partDuration": 310,
   "videos": 22,
-  "viewCount": 62,
+  "viewCount": 64,
+  "cover": "https://i2.hdslb.com/bfs/archive/f58e1589c8253509ad993e1233ea064c089c7cf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10710,7 +11219,8 @@ window.SONG_DATA.push(
   "videoDuration": 6634,
   "partDuration": 252,
   "videos": 22,
-  "viewCount": 62,
+  "viewCount": 64,
+  "cover": "https://i2.hdslb.com/bfs/archive/f58e1589c8253509ad993e1233ea064c089c7cf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10731,7 +11241,8 @@ window.SONG_DATA.push(
   "videoDuration": 6634,
   "partDuration": 330,
   "videos": 22,
-  "viewCount": 62,
+  "viewCount": 64,
+  "cover": "https://i2.hdslb.com/bfs/archive/f58e1589c8253509ad993e1233ea064c089c7cf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10752,7 +11263,8 @@ window.SONG_DATA.push(
   "videoDuration": 6634,
   "partDuration": 337,
   "videos": 22,
-  "viewCount": 62,
+  "viewCount": 64,
+  "cover": "https://i2.hdslb.com/bfs/archive/f58e1589c8253509ad993e1233ea064c089c7cf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10773,7 +11285,8 @@ window.SONG_DATA.push(
   "videoDuration": 6634,
   "partDuration": 263,
   "videos": 22,
-  "viewCount": 62,
+  "viewCount": 64,
+  "cover": "https://i2.hdslb.com/bfs/archive/f58e1589c8253509ad993e1233ea064c089c7cf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10794,7 +11307,8 @@ window.SONG_DATA.push(
   "videoDuration": 6634,
   "partDuration": 301,
   "videos": 22,
-  "viewCount": 62,
+  "viewCount": 64,
+  "cover": "https://i2.hdslb.com/bfs/archive/f58e1589c8253509ad993e1233ea064c089c7cf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10815,7 +11329,8 @@ window.SONG_DATA.push(
   "videoDuration": 6634,
   "partDuration": 335,
   "videos": 22,
-  "viewCount": 62,
+  "viewCount": 64,
+  "cover": "https://i2.hdslb.com/bfs/archive/f58e1589c8253509ad993e1233ea064c089c7cf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10836,7 +11351,8 @@ window.SONG_DATA.push(
   "videoDuration": 6634,
   "partDuration": 316,
   "videos": 22,
-  "viewCount": 62,
+  "viewCount": 64,
+  "cover": "https://i2.hdslb.com/bfs/archive/f58e1589c8253509ad993e1233ea064c089c7cf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10857,7 +11373,8 @@ window.SONG_DATA.push(
   "videoDuration": 6634,
   "partDuration": 210,
   "videos": 22,
-  "viewCount": 62,
+  "viewCount": 64,
+  "cover": "https://i2.hdslb.com/bfs/archive/f58e1589c8253509ad993e1233ea064c089c7cf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10878,7 +11395,8 @@ window.SONG_DATA.push(
   "videoDuration": 6634,
   "partDuration": 346,
   "videos": 22,
-  "viewCount": 62,
+  "viewCount": 64,
+  "cover": "https://i2.hdslb.com/bfs/archive/f58e1589c8253509ad993e1233ea064c089c7cf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10899,7 +11417,8 @@ window.SONG_DATA.push(
   "videoDuration": 6634,
   "partDuration": 306,
   "videos": 22,
-  "viewCount": 62,
+  "viewCount": 64,
+  "cover": "https://i2.hdslb.com/bfs/archive/f58e1589c8253509ad993e1233ea064c089c7cf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10920,7 +11439,8 @@ window.SONG_DATA.push(
   "videoDuration": 6634,
   "partDuration": 312,
   "videos": 22,
-  "viewCount": 62,
+  "viewCount": 64,
+  "cover": "https://i2.hdslb.com/bfs/archive/f58e1589c8253509ad993e1233ea064c089c7cf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10941,7 +11461,8 @@ window.SONG_DATA.push(
   "videoDuration": 6634,
   "partDuration": 233,
   "videos": 22,
-  "viewCount": 62,
+  "viewCount": 64,
+  "cover": "https://i2.hdslb.com/bfs/archive/f58e1589c8253509ad993e1233ea064c089c7cf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10962,7 +11483,8 @@ window.SONG_DATA.push(
   "videoDuration": 6634,
   "partDuration": 197,
   "videos": 22,
-  "viewCount": 62,
+  "viewCount": 64,
+  "cover": "https://i2.hdslb.com/bfs/archive/f58e1589c8253509ad993e1233ea064c089c7cf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -10983,7 +11505,8 @@ window.SONG_DATA.push(
   "videoDuration": 6634,
   "partDuration": 347,
   "videos": 22,
-  "viewCount": 62,
+  "viewCount": 64,
+  "cover": "https://i2.hdslb.com/bfs/archive/f58e1589c8253509ad993e1233ea064c089c7cf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11004,7 +11527,8 @@ window.SONG_DATA.push(
   "videoDuration": 6634,
   "partDuration": 270,
   "videos": 22,
-  "viewCount": 62,
+  "viewCount": 64,
+  "cover": "https://i2.hdslb.com/bfs/archive/f58e1589c8253509ad993e1233ea064c089c7cf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11025,7 +11549,8 @@ window.SONG_DATA.push(
   "videoDuration": 6634,
   "partDuration": 361,
   "videos": 22,
-  "viewCount": 62,
+  "viewCount": 64,
+  "cover": "https://i2.hdslb.com/bfs/archive/f58e1589c8253509ad993e1233ea064c089c7cf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11046,7 +11571,8 @@ window.SONG_DATA.push(
   "videoDuration": 6634,
   "partDuration": 284,
   "videos": 22,
-  "viewCount": 62,
+  "viewCount": 64,
+  "cover": "https://i2.hdslb.com/bfs/archive/f58e1589c8253509ad993e1233ea064c089c7cf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11067,7 +11593,8 @@ window.SONG_DATA.push(
   "videoDuration": 6634,
   "partDuration": 361,
   "videos": 22,
-  "viewCount": 62,
+  "viewCount": 64,
+  "cover": "https://i2.hdslb.com/bfs/archive/f58e1589c8253509ad993e1233ea064c089c7cf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11088,7 +11615,8 @@ window.SONG_DATA.push(
   "videoDuration": 6634,
   "partDuration": 308,
   "videos": 22,
-  "viewCount": 62,
+  "viewCount": 64,
+  "cover": "https://i2.hdslb.com/bfs/archive/f58e1589c8253509ad993e1233ea064c089c7cf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11109,7 +11637,8 @@ window.SONG_DATA.push(
   "videoDuration": 6634,
   "partDuration": 314,
   "videos": 22,
-  "viewCount": 62,
+  "viewCount": 64,
+  "cover": "https://i2.hdslb.com/bfs/archive/f58e1589c8253509ad993e1233ea064c089c7cf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11130,7 +11659,8 @@ window.SONG_DATA.push(
   "videoDuration": 6634,
   "partDuration": 341,
   "videos": 22,
-  "viewCount": 62,
+  "viewCount": 64,
+  "cover": "https://i2.hdslb.com/bfs/archive/f58e1589c8253509ad993e1233ea064c089c7cf0.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 新衣服】22横屏】同接500人耐久 少女レイ、鳥の詩【240627】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11152,6 +11682,7 @@ window.SONG_DATA.push(
   "partDuration": 282,
   "videos": 24,
   "viewCount": 30,
+  "cover": "https://i1.hdslb.com/bfs/archive/5b64fea05dc9cd0542aa3375d1a890bcac35c7c3.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11173,6 +11704,7 @@ window.SONG_DATA.push(
   "partDuration": 279,
   "videos": 24,
   "viewCount": 30,
+  "cover": "https://i1.hdslb.com/bfs/archive/5b64fea05dc9cd0542aa3375d1a890bcac35c7c3.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11194,6 +11726,7 @@ window.SONG_DATA.push(
   "partDuration": 266,
   "videos": 24,
   "viewCount": 30,
+  "cover": "https://i1.hdslb.com/bfs/archive/5b64fea05dc9cd0542aa3375d1a890bcac35c7c3.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11215,6 +11748,7 @@ window.SONG_DATA.push(
   "partDuration": 293,
   "videos": 24,
   "viewCount": 30,
+  "cover": "https://i1.hdslb.com/bfs/archive/5b64fea05dc9cd0542aa3375d1a890bcac35c7c3.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11236,6 +11770,7 @@ window.SONG_DATA.push(
   "partDuration": 266,
   "videos": 24,
   "viewCount": 30,
+  "cover": "https://i1.hdslb.com/bfs/archive/5b64fea05dc9cd0542aa3375d1a890bcac35c7c3.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11257,6 +11792,7 @@ window.SONG_DATA.push(
   "partDuration": 285,
   "videos": 24,
   "viewCount": 30,
+  "cover": "https://i1.hdslb.com/bfs/archive/5b64fea05dc9cd0542aa3375d1a890bcac35c7c3.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11278,6 +11814,7 @@ window.SONG_DATA.push(
   "partDuration": 203,
   "videos": 24,
   "viewCount": 30,
+  "cover": "https://i1.hdslb.com/bfs/archive/5b64fea05dc9cd0542aa3375d1a890bcac35c7c3.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11299,6 +11836,7 @@ window.SONG_DATA.push(
   "partDuration": 297,
   "videos": 24,
   "viewCount": 30,
+  "cover": "https://i1.hdslb.com/bfs/archive/5b64fea05dc9cd0542aa3375d1a890bcac35c7c3.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11320,6 +11858,7 @@ window.SONG_DATA.push(
   "partDuration": 346,
   "videos": 24,
   "viewCount": 30,
+  "cover": "https://i1.hdslb.com/bfs/archive/5b64fea05dc9cd0542aa3375d1a890bcac35c7c3.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11341,6 +11880,7 @@ window.SONG_DATA.push(
   "partDuration": 350,
   "videos": 24,
   "viewCount": 30,
+  "cover": "https://i1.hdslb.com/bfs/archive/5b64fea05dc9cd0542aa3375d1a890bcac35c7c3.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11362,6 +11902,7 @@ window.SONG_DATA.push(
   "partDuration": 284,
   "videos": 24,
   "viewCount": 30,
+  "cover": "https://i1.hdslb.com/bfs/archive/5b64fea05dc9cd0542aa3375d1a890bcac35c7c3.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11383,6 +11924,7 @@ window.SONG_DATA.push(
   "partDuration": 199,
   "videos": 24,
   "viewCount": 30,
+  "cover": "https://i1.hdslb.com/bfs/archive/5b64fea05dc9cd0542aa3375d1a890bcac35c7c3.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11404,6 +11946,7 @@ window.SONG_DATA.push(
   "partDuration": 284,
   "videos": 24,
   "viewCount": 30,
+  "cover": "https://i1.hdslb.com/bfs/archive/5b64fea05dc9cd0542aa3375d1a890bcac35c7c3.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11425,6 +11968,7 @@ window.SONG_DATA.push(
   "partDuration": 230,
   "videos": 24,
   "viewCount": 30,
+  "cover": "https://i1.hdslb.com/bfs/archive/5b64fea05dc9cd0542aa3375d1a890bcac35c7c3.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11446,6 +11990,7 @@ window.SONG_DATA.push(
   "partDuration": 242,
   "videos": 24,
   "viewCount": 30,
+  "cover": "https://i1.hdslb.com/bfs/archive/5b64fea05dc9cd0542aa3375d1a890bcac35c7c3.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11467,6 +12012,7 @@ window.SONG_DATA.push(
   "partDuration": 281,
   "videos": 24,
   "viewCount": 30,
+  "cover": "https://i1.hdslb.com/bfs/archive/5b64fea05dc9cd0542aa3375d1a890bcac35c7c3.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11488,6 +12034,7 @@ window.SONG_DATA.push(
   "partDuration": 316,
   "videos": 24,
   "viewCount": 30,
+  "cover": "https://i1.hdslb.com/bfs/archive/5b64fea05dc9cd0542aa3375d1a890bcac35c7c3.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11509,6 +12056,7 @@ window.SONG_DATA.push(
   "partDuration": 202,
   "videos": 24,
   "viewCount": 30,
+  "cover": "https://i1.hdslb.com/bfs/archive/5b64fea05dc9cd0542aa3375d1a890bcac35c7c3.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11530,6 +12078,7 @@ window.SONG_DATA.push(
   "partDuration": 378,
   "videos": 24,
   "viewCount": 30,
+  "cover": "https://i1.hdslb.com/bfs/archive/5b64fea05dc9cd0542aa3375d1a890bcac35c7c3.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11551,6 +12100,7 @@ window.SONG_DATA.push(
   "partDuration": 279,
   "videos": 24,
   "viewCount": 30,
+  "cover": "https://i1.hdslb.com/bfs/archive/5b64fea05dc9cd0542aa3375d1a890bcac35c7c3.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11572,6 +12122,7 @@ window.SONG_DATA.push(
   "partDuration": 238,
   "videos": 24,
   "viewCount": 30,
+  "cover": "https://i1.hdslb.com/bfs/archive/5b64fea05dc9cd0542aa3375d1a890bcac35c7c3.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11593,6 +12144,7 @@ window.SONG_DATA.push(
   "partDuration": 264,
   "videos": 24,
   "viewCount": 30,
+  "cover": "https://i1.hdslb.com/bfs/archive/5b64fea05dc9cd0542aa3375d1a890bcac35c7c3.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11614,6 +12166,7 @@ window.SONG_DATA.push(
   "partDuration": 276,
   "videos": 24,
   "viewCount": 30,
+  "cover": "https://i1.hdslb.com/bfs/archive/5b64fea05dc9cd0542aa3375d1a890bcac35c7c3.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11635,6 +12188,7 @@ window.SONG_DATA.push(
   "partDuration": 272,
   "videos": 24,
   "viewCount": 30,
+  "cover": "https://i1.hdslb.com/bfs/archive/5b64fea05dc9cd0542aa3375d1a890bcac35c7c3.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】24横屏】Good-bye days、青空、レオ【2024年6月25日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11655,7 +12209,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 235,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11676,7 +12231,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 331,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11697,7 +12253,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 253,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11718,7 +12275,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 199,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11739,7 +12297,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 255,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11760,7 +12319,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 298,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11781,7 +12341,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 228,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11802,7 +12363,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 209,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11823,7 +12385,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 239,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11844,7 +12407,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 196,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11865,7 +12429,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 296,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11886,7 +12451,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 323,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11907,7 +12473,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 294,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11928,7 +12495,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 306,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11949,7 +12517,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 187,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11970,7 +12539,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 187,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -11991,7 +12561,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 229,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12012,7 +12583,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 275,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12033,7 +12605,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 270,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12054,7 +12627,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 224,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12075,7 +12649,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 260,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12096,7 +12671,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 228,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12117,7 +12693,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 307,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12138,7 +12715,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 247,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12159,7 +12737,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 201,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12180,7 +12759,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 223,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12201,7 +12781,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 247,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12222,7 +12803,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 265,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12243,7 +12825,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 267,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12264,7 +12847,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 268,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12285,7 +12869,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 294,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12306,7 +12891,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 349,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12327,7 +12913,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 207,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12348,7 +12935,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 325,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12369,7 +12957,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 193,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12390,7 +12979,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 317,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12411,7 +13001,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 202,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12432,7 +13023,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 313,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12453,7 +13045,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 304,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12474,7 +13067,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 396,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12495,7 +13089,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 328,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12516,7 +13111,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 304,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12537,7 +13133,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 253,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12558,7 +13155,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 234,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12579,7 +13177,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 319,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12600,7 +13199,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 317,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12621,7 +13221,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 230,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12642,7 +13243,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 279,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12663,7 +13265,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 216,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12684,7 +13287,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 268,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12705,7 +13309,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 208,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12726,7 +13331,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 193,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12747,7 +13353,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 340,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12768,7 +13375,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 261,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12789,7 +13397,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 363,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12810,7 +13419,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 250,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12831,7 +13441,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 276,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12852,7 +13463,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 259,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12873,7 +13485,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 293,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12894,7 +13507,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 278,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12915,7 +13529,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 193,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12936,7 +13551,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 330,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12957,7 +13573,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 257,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12978,7 +13595,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 219,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -12999,7 +13617,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 261,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13020,7 +13639,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 368,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13041,7 +13661,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 256,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13062,7 +13683,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 256,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13083,7 +13705,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 271,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13104,7 +13727,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 228,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13125,7 +13749,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 323,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13146,7 +13771,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 253,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13167,7 +13793,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 285,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13188,7 +13815,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 339,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13209,7 +13837,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 239,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13230,7 +13859,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 299,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13251,7 +13881,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 200,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13272,7 +13903,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 268,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13293,7 +13925,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 260,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13314,7 +13947,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 330,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13335,7 +13969,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 301,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13356,7 +13991,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 270,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13377,7 +14013,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 312,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13398,7 +14035,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 249,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13419,7 +14057,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 262,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13440,7 +14079,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 296,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13461,7 +14101,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 401,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13482,7 +14123,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 295,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13503,7 +14145,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 174,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13524,7 +14167,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 316,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13545,7 +14189,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 244,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13566,7 +14211,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 317,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13587,7 +14233,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 255,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13608,7 +14255,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 266,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13629,7 +14277,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 299,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13650,7 +14299,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 236,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13671,7 +14321,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 300,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13692,7 +14343,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 235,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13713,7 +14365,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 301,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13734,7 +14387,8 @@ window.SONG_DATA.push(
   "videoDuration": 26981,
   "partDuration": 301,
   "videos": 100,
-  "viewCount": 469,
+  "viewCount": 481,
+  "cover": "https://i1.hdslb.com/bfs/archive/f2d34e80a682bffe09792118a1756568d8701152.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ 新衣服】100首横屏 十小时弹唱耐久【240630】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13756,6 +14410,7 @@ window.SONG_DATA.push(
   "partDuration": 205,
   "videos": 18,
   "viewCount": 320,
+  "cover": "https://i1.hdslb.com/bfs/archive/7051dc697c9376464ddacc8f8b62cd5384f622be.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13777,6 +14432,7 @@ window.SONG_DATA.push(
   "partDuration": 269,
   "videos": 18,
   "viewCount": 320,
+  "cover": "https://i1.hdslb.com/bfs/archive/7051dc697c9376464ddacc8f8b62cd5384f622be.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13798,6 +14454,7 @@ window.SONG_DATA.push(
   "partDuration": 258,
   "videos": 18,
   "viewCount": 320,
+  "cover": "https://i1.hdslb.com/bfs/archive/7051dc697c9376464ddacc8f8b62cd5384f622be.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13819,6 +14476,7 @@ window.SONG_DATA.push(
   "partDuration": 250,
   "videos": 18,
   "viewCount": 320,
+  "cover": "https://i1.hdslb.com/bfs/archive/7051dc697c9376464ddacc8f8b62cd5384f622be.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13840,6 +14498,7 @@ window.SONG_DATA.push(
   "partDuration": 311,
   "videos": 18,
   "viewCount": 320,
+  "cover": "https://i1.hdslb.com/bfs/archive/7051dc697c9376464ddacc8f8b62cd5384f622be.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13861,6 +14520,7 @@ window.SONG_DATA.push(
   "partDuration": 323,
   "videos": 18,
   "viewCount": 320,
+  "cover": "https://i1.hdslb.com/bfs/archive/7051dc697c9376464ddacc8f8b62cd5384f622be.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13882,6 +14542,7 @@ window.SONG_DATA.push(
   "partDuration": 249,
   "videos": 18,
   "viewCount": 320,
+  "cover": "https://i1.hdslb.com/bfs/archive/7051dc697c9376464ddacc8f8b62cd5384f622be.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13903,6 +14564,7 @@ window.SONG_DATA.push(
   "partDuration": 370,
   "videos": 18,
   "viewCount": 320,
+  "cover": "https://i1.hdslb.com/bfs/archive/7051dc697c9376464ddacc8f8b62cd5384f622be.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13924,6 +14586,7 @@ window.SONG_DATA.push(
   "partDuration": 229,
   "videos": 18,
   "viewCount": 320,
+  "cover": "https://i1.hdslb.com/bfs/archive/7051dc697c9376464ddacc8f8b62cd5384f622be.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13945,6 +14608,7 @@ window.SONG_DATA.push(
   "partDuration": 242,
   "videos": 18,
   "viewCount": 320,
+  "cover": "https://i1.hdslb.com/bfs/archive/7051dc697c9376464ddacc8f8b62cd5384f622be.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13966,6 +14630,7 @@ window.SONG_DATA.push(
   "partDuration": 263,
   "videos": 18,
   "viewCount": 320,
+  "cover": "https://i1.hdslb.com/bfs/archive/7051dc697c9376464ddacc8f8b62cd5384f622be.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -13987,6 +14652,7 @@ window.SONG_DATA.push(
   "partDuration": 274,
   "videos": 18,
   "viewCount": 320,
+  "cover": "https://i1.hdslb.com/bfs/archive/7051dc697c9376464ddacc8f8b62cd5384f622be.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14008,6 +14674,7 @@ window.SONG_DATA.push(
   "partDuration": 307,
   "videos": 18,
   "viewCount": 320,
+  "cover": "https://i1.hdslb.com/bfs/archive/7051dc697c9376464ddacc8f8b62cd5384f622be.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14029,6 +14696,7 @@ window.SONG_DATA.push(
   "partDuration": 301,
   "videos": 18,
   "viewCount": 320,
+  "cover": "https://i1.hdslb.com/bfs/archive/7051dc697c9376464ddacc8f8b62cd5384f622be.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14050,6 +14718,7 @@ window.SONG_DATA.push(
   "partDuration": 350,
   "videos": 18,
   "viewCount": 320,
+  "cover": "https://i1.hdslb.com/bfs/archive/7051dc697c9376464ddacc8f8b62cd5384f622be.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14071,6 +14740,7 @@ window.SONG_DATA.push(
   "partDuration": 313,
   "videos": 18,
   "viewCount": 320,
+  "cover": "https://i1.hdslb.com/bfs/archive/7051dc697c9376464ddacc8f8b62cd5384f622be.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14092,6 +14762,7 @@ window.SONG_DATA.push(
   "partDuration": 260,
   "videos": 18,
   "viewCount": 320,
+  "cover": "https://i1.hdslb.com/bfs/archive/7051dc697c9376464ddacc8f8b62cd5384f622be.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14113,14 +14784,15 @@ window.SONG_DATA.push(
   "partDuration": 283,
   "videos": 18,
   "viewCount": 320,
+  "cover": "https://i1.hdslb.com/bfs/archive/7051dc697c9376464ddacc8f8b62cd5384f622be.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】18横屏弹唱】梶浦由記合集【240811】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
 },
     {
-  "title": "メルト  ryo(supercell)",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【むんもっしゅ】メルト  ryo(supercell)",
+  "title": "メルト",
+  "artist": "ryo(supercell)",
+  "collection": "【むんもっしゅ】メルト - ryo(supercell)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DN4cekEMF?p=1",
   "source": "MunMosh.js",
@@ -14134,14 +14806,15 @@ window.SONG_DATA.push(
   "partDuration": 317,
   "videos": 1,
   "viewCount": 14,
-  "videoTitle": "【むんもっしゅ】メルト  ryo(supercell)",
+  "cover": "https://i2.hdslb.com/bfs/archive/7da0198c46215fcfc92867b57a23b0f4a904d827.jpg@160w_90h_1c.webp",
+  "videoTitle": "【むんもっしゅ】メルト - ryo(supercell)",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
 },
     {
-  "title": "小さなてのひら  riya",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【むんもっしゅ】小さなてのひら  riya",
+  "title": "小さなてのひら",
+  "artist": "Lia",
+  "collection": "【むんもっしゅ】小さなてのひら - Lia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DN4cekEpa?p=1",
   "source": "MunMosh.js",
@@ -14155,14 +14828,15 @@ window.SONG_DATA.push(
   "partDuration": 261,
   "videos": 1,
   "viewCount": 21,
-  "videoTitle": "【むんもっしゅ】小さなてのひら  riya",
+  "cover": "https://i2.hdslb.com/bfs/archive/3693740cb0963a92a162afb9610959f84a42976b.jpg@160w_90h_1c.webp",
+  "videoTitle": "【むんもっしゅ】小さなてのひら - Lia",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
 },
     {
-  "title": "GLORIA  YUI",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【むんもっしゅ】GLORIA  YUI",
+  "title": "GLORIA",
+  "artist": "YUI",
+  "collection": "【むんもっしゅ】GLORIA  - YUI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DN4cekEpN?p=1",
   "source": "MunMosh.js",
@@ -14176,14 +14850,15 @@ window.SONG_DATA.push(
   "partDuration": 210,
   "videos": 1,
   "viewCount": 14,
-  "videoTitle": "【むんもっしゅ】GLORIA  YUI",
+  "cover": "https://i0.hdslb.com/bfs/archive/9f508615e3fad990c187bdf0304f91604c9e450c.jpg@160w_90h_1c.webp",
+  "videoTitle": "【むんもっしゅ】GLORIA  - YUI",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
 },
     {
-  "title": "夜明けと蛍  n-buna",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【むんもっしゅ】夜明けと蛍  n-buna",
+  "title": "夜明けと蛍",
+  "artist": "n-buna",
+  "collection": "【むんもっしゅ】夜明けと蛍 - n-buna",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gN4ceCEBa?p=1",
   "source": "MunMosh.js",
@@ -14197,14 +14872,15 @@ window.SONG_DATA.push(
   "partDuration": 327,
   "videos": 1,
   "viewCount": 18,
-  "videoTitle": "【むんもっしゅ】夜明けと蛍  n-buna",
+  "cover": "https://i1.hdslb.com/bfs/archive/39830c5cd8d890918ce60c212c1a44ab05fc8a3f.jpg@160w_90h_1c.webp",
+  "videoTitle": "【むんもっしゅ】夜明けと蛍 - n-buna",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
 },
     {
-  "title": "光  宇多田ヒカル",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【むんもっしゅ】光  宇多田ヒカル",
+  "title": "光",
+  "artist": "宇多田ヒカル",
+  "collection": "【むんもっしゅ】光 - 宇多田ヒカル",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gN4ceCEQN?p=1",
   "source": "MunMosh.js",
@@ -14217,15 +14893,16 @@ window.SONG_DATA.push(
   "videoDuration": 266,
   "partDuration": 266,
   "videos": 1,
-  "viewCount": 11,
-  "videoTitle": "【むんもっしゅ】光  宇多田ヒカル",
+  "viewCount": 12,
+  "cover": "https://i0.hdslb.com/bfs/archive/0757303e7d390998a1f22e9f297efbc97a6a65ba.jpg@160w_90h_1c.webp",
+  "videoTitle": "【むんもっしゅ】光 - 宇多田ヒカル",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
 },
     {
-  "title": "弱虫  むんもっしゅ",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【むんもっしゅ】弱虫  むんもっしゅ【4thオリジナル】",
+  "title": "弱虫",
+  "artist": "むんもっしゅ",
+  "collection": "【むんもっしゅ】弱虫 - むんもっしゅ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DP4ceVEin?p=1",
   "source": "MunMosh.js",
@@ -14239,14 +14916,15 @@ window.SONG_DATA.push(
   "partDuration": 278,
   "videos": 1,
   "viewCount": 12,
-  "videoTitle": "【むんもっしゅ】弱虫  むんもっしゅ【4thオリジナル】",
+  "cover": "https://i2.hdslb.com/bfs/archive/3182151cfbfb0f7a6ee8189a514b99be04462f59.jpg@160w_90h_1c.webp",
+  "videoTitle": "【むんもっしゅ】弱虫 - むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
 },
     {
-  "title": "ファンサ  mona(CV：夏川椎菜)",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【むんもっしゅ】ファンサ  mona(CV：夏川椎菜)【HoneyWorks】",
+  "title": "ファンサ",
+  "artist": "mona(CV：夏川椎菜)",
+  "collection": "【むんもっしゅ】ファンサ - mona(CV：夏川椎菜)【HoneyWorks】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13P4ce5EN5?p=1",
   "source": "MunMosh.js",
@@ -14260,7 +14938,8 @@ window.SONG_DATA.push(
   "partDuration": 251,
   "videos": 1,
   "viewCount": 7,
-  "videoTitle": "【むんもっしゅ】ファンサ  mona(CV：夏川椎菜)【HoneyWorks】",
+  "cover": "https://i1.hdslb.com/bfs/archive/6aa3bb6bca073cc1739efb1832d4f1609e30e7e3.jpg@160w_90h_1c.webp",
+  "videoTitle": "【むんもっしゅ】ファンサ - mona(CV：夏川椎菜)【HoneyWorks】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
 },
@@ -14281,6 +14960,7 @@ window.SONG_DATA.push(
   "partDuration": 179,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14302,6 +14982,7 @@ window.SONG_DATA.push(
   "partDuration": 144,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14323,6 +15004,7 @@ window.SONG_DATA.push(
   "partDuration": 260,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14344,6 +15026,7 @@ window.SONG_DATA.push(
   "partDuration": 272,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14365,6 +15048,7 @@ window.SONG_DATA.push(
   "partDuration": 276,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14386,6 +15070,7 @@ window.SONG_DATA.push(
   "partDuration": 214,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14407,6 +15092,7 @@ window.SONG_DATA.push(
   "partDuration": 211,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14428,6 +15114,7 @@ window.SONG_DATA.push(
   "partDuration": 258,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14449,6 +15136,7 @@ window.SONG_DATA.push(
   "partDuration": 253,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14470,6 +15158,7 @@ window.SONG_DATA.push(
   "partDuration": 285,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14491,6 +15180,7 @@ window.SONG_DATA.push(
   "partDuration": 289,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14512,6 +15202,7 @@ window.SONG_DATA.push(
   "partDuration": 154,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14533,6 +15224,7 @@ window.SONG_DATA.push(
   "partDuration": 317,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14554,6 +15246,7 @@ window.SONG_DATA.push(
   "partDuration": 288,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14575,6 +15268,7 @@ window.SONG_DATA.push(
   "partDuration": 340,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14596,6 +15290,7 @@ window.SONG_DATA.push(
   "partDuration": 329,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14617,6 +15312,7 @@ window.SONG_DATA.push(
   "partDuration": 346,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14638,6 +15334,7 @@ window.SONG_DATA.push(
   "partDuration": 233,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14659,6 +15356,7 @@ window.SONG_DATA.push(
   "partDuration": 290,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14680,6 +15378,7 @@ window.SONG_DATA.push(
   "partDuration": 264,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14701,6 +15400,7 @@ window.SONG_DATA.push(
   "partDuration": 231,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14722,6 +15422,7 @@ window.SONG_DATA.push(
   "partDuration": 322,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14743,6 +15444,7 @@ window.SONG_DATA.push(
   "partDuration": 269,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14764,6 +15466,7 @@ window.SONG_DATA.push(
   "partDuration": 341,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14785,6 +15488,7 @@ window.SONG_DATA.push(
   "partDuration": 272,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14806,6 +15510,7 @@ window.SONG_DATA.push(
   "partDuration": 370,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14827,6 +15532,7 @@ window.SONG_DATA.push(
   "partDuration": 319,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14848,6 +15554,7 @@ window.SONG_DATA.push(
   "partDuration": 331,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14869,6 +15576,7 @@ window.SONG_DATA.push(
   "partDuration": 307,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14890,6 +15598,7 @@ window.SONG_DATA.push(
   "partDuration": 253,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14911,6 +15620,7 @@ window.SONG_DATA.push(
   "partDuration": 317,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14932,6 +15642,7 @@ window.SONG_DATA.push(
   "partDuration": 253,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14953,6 +15664,7 @@ window.SONG_DATA.push(
   "partDuration": 258,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14974,6 +15686,7 @@ window.SONG_DATA.push(
   "partDuration": 337,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -14995,6 +15708,7 @@ window.SONG_DATA.push(
   "partDuration": 320,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15016,6 +15730,7 @@ window.SONG_DATA.push(
   "partDuration": 287,
   "videos": 36,
   "viewCount": 220,
+  "cover": "https://i1.hdslb.com/bfs/archive/c0c95964da8feaa91228a1a72ece043a27567d0b.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】36横屏】600人耐久【2024年10月14日】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15037,6 +15752,7 @@ window.SONG_DATA.push(
   "partDuration": 292,
   "videos": 1,
   "viewCount": 80,
+  "cover": "https://i2.hdslb.com/bfs/archive/d23c109d693d9ae6f3666f1ef4bc8fea0c3eb7d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】06-01. シリウスの心臓 - ヰ世界情緒",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15058,6 +15774,7 @@ window.SONG_DATA.push(
   "partDuration": 245,
   "videos": 1,
   "viewCount": 42,
+  "cover": "https://i2.hdslb.com/bfs/archive/d23c109d693d9ae6f3666f1ef4bc8fea0c3eb7d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】06-02. First Love - 宇多田ヒカル",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15079,6 +15796,7 @@ window.SONG_DATA.push(
   "partDuration": 301,
   "videos": 1,
   "viewCount": 42,
+  "cover": "https://i2.hdslb.com/bfs/archive/d23c109d693d9ae6f3666f1ef4bc8fea0c3eb7d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】06-03. 地球をあげる - はるまきごはん",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15100,6 +15818,7 @@ window.SONG_DATA.push(
   "partDuration": 194,
   "videos": 1,
   "viewCount": 31,
+  "cover": "https://i2.hdslb.com/bfs/archive/d23c109d693d9ae6f3666f1ef4bc8fea0c3eb7d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】06-04. 回る空うさぎ - Orangestar",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15121,6 +15840,7 @@ window.SONG_DATA.push(
   "partDuration": 284,
   "videos": 1,
   "viewCount": 32,
+  "cover": "https://i2.hdslb.com/bfs/archive/d23c109d693d9ae6f3666f1ef4bc8fea0c3eb7d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】06-05. ピエロ - KEI",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15142,6 +15862,7 @@ window.SONG_DATA.push(
   "partDuration": 298,
   "videos": 1,
   "viewCount": 32,
+  "cover": "https://i2.hdslb.com/bfs/archive/d23c109d693d9ae6f3666f1ef4bc8fea0c3eb7d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】06-06. Dreaming with U - 芳田",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15162,7 +15883,8 @@ window.SONG_DATA.push(
   "videoDuration": 3012,
   "partDuration": 363,
   "videos": 9,
-  "viewCount": 450,
+  "viewCount": 454,
+  "cover": "https://i1.hdslb.com/bfs/archive/295fe6a64d463fd1a2a21b4999e3bf84823aa087.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】圣诞节的超美麗3D弹唱~",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15183,7 +15905,8 @@ window.SONG_DATA.push(
   "videoDuration": 3012,
   "partDuration": 422,
   "videos": 9,
-  "viewCount": 450,
+  "viewCount": 454,
+  "cover": "https://i1.hdslb.com/bfs/archive/295fe6a64d463fd1a2a21b4999e3bf84823aa087.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】圣诞节的超美麗3D弹唱~",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15204,7 +15927,8 @@ window.SONG_DATA.push(
   "videoDuration": 3012,
   "partDuration": 342,
   "videos": 9,
-  "viewCount": 450,
+  "viewCount": 454,
+  "cover": "https://i1.hdslb.com/bfs/archive/295fe6a64d463fd1a2a21b4999e3bf84823aa087.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】圣诞节的超美麗3D弹唱~",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15225,7 +15949,8 @@ window.SONG_DATA.push(
   "videoDuration": 3012,
   "partDuration": 287,
   "videos": 9,
-  "viewCount": 450,
+  "viewCount": 454,
+  "cover": "https://i1.hdslb.com/bfs/archive/295fe6a64d463fd1a2a21b4999e3bf84823aa087.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】圣诞节的超美麗3D弹唱~",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15246,7 +15971,8 @@ window.SONG_DATA.push(
   "videoDuration": 3012,
   "partDuration": 349,
   "videos": 9,
-  "viewCount": 450,
+  "viewCount": 454,
+  "cover": "https://i1.hdslb.com/bfs/archive/295fe6a64d463fd1a2a21b4999e3bf84823aa087.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】圣诞节的超美麗3D弹唱~",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15267,7 +15993,8 @@ window.SONG_DATA.push(
   "videoDuration": 3012,
   "partDuration": 363,
   "videos": 9,
-  "viewCount": 450,
+  "viewCount": 454,
+  "cover": "https://i1.hdslb.com/bfs/archive/295fe6a64d463fd1a2a21b4999e3bf84823aa087.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】圣诞节的超美麗3D弹唱~",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15288,7 +16015,8 @@ window.SONG_DATA.push(
   "videoDuration": 3012,
   "partDuration": 238,
   "videos": 9,
-  "viewCount": 450,
+  "viewCount": 454,
+  "cover": "https://i1.hdslb.com/bfs/archive/295fe6a64d463fd1a2a21b4999e3bf84823aa087.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】圣诞节的超美麗3D弹唱~",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15309,7 +16037,8 @@ window.SONG_DATA.push(
   "videoDuration": 3012,
   "partDuration": 376,
   "videos": 9,
-  "viewCount": 450,
+  "viewCount": 454,
+  "cover": "https://i1.hdslb.com/bfs/archive/295fe6a64d463fd1a2a21b4999e3bf84823aa087.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】圣诞节的超美麗3D弹唱~",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15330,7 +16059,8 @@ window.SONG_DATA.push(
   "videoDuration": 3012,
   "partDuration": 272,
   "videos": 9,
-  "viewCount": 450,
+  "viewCount": 454,
+  "cover": "https://i1.hdslb.com/bfs/archive/295fe6a64d463fd1a2a21b4999e3bf84823aa087.jpg@160w_90h_1c.webp",
   "videoTitle": "【むんもっしゅ】圣诞节的超美麗3D弹唱~",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15352,6 +16082,7 @@ window.SONG_DATA.push(
   "partDuration": 293,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15373,6 +16104,7 @@ window.SONG_DATA.push(
   "partDuration": 282,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15394,6 +16126,7 @@ window.SONG_DATA.push(
   "partDuration": 248,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15415,6 +16148,7 @@ window.SONG_DATA.push(
   "partDuration": 268,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15436,6 +16170,7 @@ window.SONG_DATA.push(
   "partDuration": 339,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15457,6 +16192,7 @@ window.SONG_DATA.push(
   "partDuration": 403,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15478,6 +16214,7 @@ window.SONG_DATA.push(
   "partDuration": 276,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15499,6 +16236,7 @@ window.SONG_DATA.push(
   "partDuration": 330,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15520,6 +16258,7 @@ window.SONG_DATA.push(
   "partDuration": 330,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15541,6 +16280,7 @@ window.SONG_DATA.push(
   "partDuration": 365,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15562,6 +16302,7 @@ window.SONG_DATA.push(
   "partDuration": 270,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15583,6 +16324,7 @@ window.SONG_DATA.push(
   "partDuration": 270,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15604,6 +16346,7 @@ window.SONG_DATA.push(
   "partDuration": 263,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15625,6 +16368,7 @@ window.SONG_DATA.push(
   "partDuration": 176,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15646,6 +16390,7 @@ window.SONG_DATA.push(
   "partDuration": 290,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15667,6 +16412,7 @@ window.SONG_DATA.push(
   "partDuration": 308,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15688,6 +16434,7 @@ window.SONG_DATA.push(
   "partDuration": 248,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15709,6 +16456,7 @@ window.SONG_DATA.push(
   "partDuration": 208,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15730,6 +16478,7 @@ window.SONG_DATA.push(
   "partDuration": 333,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15751,6 +16500,7 @@ window.SONG_DATA.push(
   "partDuration": 271,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15772,6 +16522,7 @@ window.SONG_DATA.push(
   "partDuration": 307,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15793,6 +16544,7 @@ window.SONG_DATA.push(
   "partDuration": 242,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15814,6 +16566,7 @@ window.SONG_DATA.push(
   "partDuration": 285,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15835,6 +16588,7 @@ window.SONG_DATA.push(
   "partDuration": 209,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15856,6 +16610,7 @@ window.SONG_DATA.push(
   "partDuration": 171,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15877,6 +16632,7 @@ window.SONG_DATA.push(
   "partDuration": 284,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15898,6 +16654,7 @@ window.SONG_DATA.push(
   "partDuration": 357,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15919,6 +16676,7 @@ window.SONG_DATA.push(
   "partDuration": 286,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15940,6 +16698,7 @@ window.SONG_DATA.push(
   "partDuration": 255,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15961,6 +16720,7 @@ window.SONG_DATA.push(
   "partDuration": 273,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -15982,6 +16742,7 @@ window.SONG_DATA.push(
   "partDuration": 261,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16003,6 +16764,7 @@ window.SONG_DATA.push(
   "partDuration": 333,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16024,6 +16786,7 @@ window.SONG_DATA.push(
   "partDuration": 329,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16045,6 +16808,7 @@ window.SONG_DATA.push(
   "partDuration": 297,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16066,6 +16830,7 @@ window.SONG_DATA.push(
   "partDuration": 312,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16087,6 +16852,7 @@ window.SONG_DATA.push(
   "partDuration": 299,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16108,6 +16874,7 @@ window.SONG_DATA.push(
   "partDuration": 227,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16129,6 +16896,7 @@ window.SONG_DATA.push(
   "partDuration": 194,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16150,6 +16918,7 @@ window.SONG_DATA.push(
   "partDuration": 315,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16171,6 +16940,7 @@ window.SONG_DATA.push(
   "partDuration": 354,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16192,6 +16962,7 @@ window.SONG_DATA.push(
   "partDuration": 343,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16213,6 +16984,7 @@ window.SONG_DATA.push(
   "partDuration": 338,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16234,6 +17006,7 @@ window.SONG_DATA.push(
   "partDuration": 278,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16255,6 +17028,7 @@ window.SONG_DATA.push(
   "partDuration": 350,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16276,6 +17050,7 @@ window.SONG_DATA.push(
   "partDuration": 329,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16297,6 +17072,7 @@ window.SONG_DATA.push(
   "partDuration": 383,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16318,6 +17094,7 @@ window.SONG_DATA.push(
   "partDuration": 347,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16339,6 +17116,7 @@ window.SONG_DATA.push(
   "partDuration": 392,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16360,6 +17138,7 @@ window.SONG_DATA.push(
   "partDuration": 308,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16381,6 +17160,7 @@ window.SONG_DATA.push(
   "partDuration": 379,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16402,6 +17182,7 @@ window.SONG_DATA.push(
   "partDuration": 336,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16423,6 +17204,7 @@ window.SONG_DATA.push(
   "partDuration": 360,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16444,6 +17226,7 @@ window.SONG_DATA.push(
   "partDuration": 321,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16465,6 +17248,7 @@ window.SONG_DATA.push(
   "partDuration": 158,
   "videos": 54,
   "viewCount": 270,
+  "cover": "https://i1.hdslb.com/bfs/archive/fdcbde76ac8a9179617f9e31b08df47fa81bd3cd.jpg@160w_90h_1c.webp",
   "videoTitle": "【もしゅらいぶ 】【耐久歌枠/弾き語り】同接600人耐久！🌙むんもっしゅ",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16486,6 +17270,7 @@ window.SONG_DATA.push(
   "partDuration": 230,
   "videos": 7,
   "viewCount": 259,
+  "cover": "https://i0.hdslb.com/bfs/archive/bcc3da0111aa3b634528fc5df87dc9e1b5100fc6.jpg@160w_90h_1c.webp",
   "videoTitle": "【3D发布会】歌唱、舞蹈、弹唱🎸宇宙最闪耀的猫女仆🎀还有重大发表❣【むんもっしゅ/个人 Vtuber】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16507,6 +17292,7 @@ window.SONG_DATA.push(
   "partDuration": 220,
   "videos": 7,
   "viewCount": 259,
+  "cover": "https://i0.hdslb.com/bfs/archive/bcc3da0111aa3b634528fc5df87dc9e1b5100fc6.jpg@160w_90h_1c.webp",
   "videoTitle": "【3D发布会】歌唱、舞蹈、弹唱🎸宇宙最闪耀的猫女仆🎀还有重大发表❣【むんもっしゅ/个人 Vtuber】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16528,6 +17314,7 @@ window.SONG_DATA.push(
   "partDuration": 138,
   "videos": 7,
   "viewCount": 259,
+  "cover": "https://i0.hdslb.com/bfs/archive/bcc3da0111aa3b634528fc5df87dc9e1b5100fc6.jpg@160w_90h_1c.webp",
   "videoTitle": "【3D发布会】歌唱、舞蹈、弹唱🎸宇宙最闪耀的猫女仆🎀还有重大发表❣【むんもっしゅ/个人 Vtuber】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16549,6 +17336,7 @@ window.SONG_DATA.push(
   "partDuration": 258,
   "videos": 7,
   "viewCount": 259,
+  "cover": "https://i0.hdslb.com/bfs/archive/bcc3da0111aa3b634528fc5df87dc9e1b5100fc6.jpg@160w_90h_1c.webp",
   "videoTitle": "【3D发布会】歌唱、舞蹈、弹唱🎸宇宙最闪耀的猫女仆🎀还有重大发表❣【むんもっしゅ/个人 Vtuber】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16570,6 +17358,7 @@ window.SONG_DATA.push(
   "partDuration": 308,
   "videos": 7,
   "viewCount": 259,
+  "cover": "https://i0.hdslb.com/bfs/archive/bcc3da0111aa3b634528fc5df87dc9e1b5100fc6.jpg@160w_90h_1c.webp",
   "videoTitle": "【3D发布会】歌唱、舞蹈、弹唱🎸宇宙最闪耀的猫女仆🎀还有重大发表❣【むんもっしゅ/个人 Vtuber】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16591,6 +17380,7 @@ window.SONG_DATA.push(
   "partDuration": 202,
   "videos": 7,
   "viewCount": 259,
+  "cover": "https://i0.hdslb.com/bfs/archive/bcc3da0111aa3b634528fc5df87dc9e1b5100fc6.jpg@160w_90h_1c.webp",
   "videoTitle": "【3D发布会】歌唱、舞蹈、弹唱🎸宇宙最闪耀的猫女仆🎀还有重大发表❣【むんもっしゅ/个人 Vtuber】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16612,6 +17402,7 @@ window.SONG_DATA.push(
   "partDuration": 301,
   "videos": 7,
   "viewCount": 259,
+  "cover": "https://i0.hdslb.com/bfs/archive/bcc3da0111aa3b634528fc5df87dc9e1b5100fc6.jpg@160w_90h_1c.webp",
   "videoTitle": "【3D发布会】歌唱、舞蹈、弹唱🎸宇宙最闪耀的猫女仆🎀还有重大发表❣【むんもっしゅ/个人 Vtuber】",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16632,7 +17423,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 243,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16653,7 +17445,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 250,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16674,7 +17467,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 350,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16695,7 +17489,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 351,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16716,7 +17511,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 175,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16737,7 +17533,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 361,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16758,7 +17555,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 329,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16779,7 +17577,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 427,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16800,7 +17599,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 396,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16821,7 +17621,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 307,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16842,7 +17643,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 292,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16863,7 +17665,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 235,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16884,7 +17687,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 280,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16905,7 +17709,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 338,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16926,7 +17731,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 312,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16947,7 +17753,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 249,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16968,7 +17775,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 353,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -16989,7 +17797,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 275,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17010,7 +17819,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 162,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17031,7 +17841,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 221,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17052,7 +17863,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 247,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17073,7 +17885,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 250,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17094,7 +17907,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 273,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17115,7 +17929,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 273,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17136,7 +17951,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 229,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17157,7 +17973,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 263,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17178,7 +17995,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 266,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17199,7 +18017,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 281,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17220,7 +18039,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 248,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17241,7 +18061,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 241,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17262,7 +18083,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 295,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17283,7 +18105,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 321,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17304,7 +18127,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 415,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17325,7 +18149,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 345,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17346,7 +18171,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 233,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17367,7 +18193,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 218,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17388,7 +18215,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 321,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17409,7 +18237,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 287,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17430,7 +18259,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 351,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17451,7 +18281,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 272,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17472,7 +18303,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 205,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17493,7 +18325,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 330,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17514,7 +18347,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 333,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17535,7 +18369,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 337,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17556,7 +18391,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 261,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17577,7 +18413,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 268,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17598,7 +18435,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 203,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17619,7 +18457,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 266,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17640,7 +18479,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 252,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17661,7 +18501,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 238,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17682,7 +18523,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 220,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17703,7 +18545,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 257,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17724,7 +18567,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 252,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17745,7 +18589,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 255,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17766,7 +18611,8 @@ window.SONG_DATA.push(
   "videoDuration": 15505,
   "partDuration": 293,
   "videos": 55,
-  "viewCount": 354,
+  "viewCount": 362,
+  "cover": "https://i2.hdslb.com/bfs/archive/4a29fc4499148294fd7e380e8950c977beb6c533.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-03]１０００人と新年の挨拶するまで耐久！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17788,6 +18634,7 @@ window.SONG_DATA.push(
   "partDuration": 351,
   "videos": 15,
   "viewCount": 105,
+  "cover": "https://i0.hdslb.com/bfs/archive/11819dac69ebff90111c1ba593351d05ab679d6f.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-25]クリスマスツリーの前で路上ライブ🎸お知らせあり🎄SinginStream",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17809,6 +18656,7 @@ window.SONG_DATA.push(
   "partDuration": 226,
   "videos": 15,
   "viewCount": 105,
+  "cover": "https://i0.hdslb.com/bfs/archive/11819dac69ebff90111c1ba593351d05ab679d6f.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-25]クリスマスツリーの前で路上ライブ🎸お知らせあり🎄SinginStream",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17830,6 +18678,7 @@ window.SONG_DATA.push(
   "partDuration": 326,
   "videos": 15,
   "viewCount": 105,
+  "cover": "https://i0.hdslb.com/bfs/archive/11819dac69ebff90111c1ba593351d05ab679d6f.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-25]クリスマスツリーの前で路上ライブ🎸お知らせあり🎄SinginStream",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17851,6 +18700,7 @@ window.SONG_DATA.push(
   "partDuration": 335,
   "videos": 15,
   "viewCount": 105,
+  "cover": "https://i0.hdslb.com/bfs/archive/11819dac69ebff90111c1ba593351d05ab679d6f.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-25]クリスマスツリーの前で路上ライブ🎸お知らせあり🎄SinginStream",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17872,6 +18722,7 @@ window.SONG_DATA.push(
   "partDuration": 401,
   "videos": 15,
   "viewCount": 105,
+  "cover": "https://i0.hdslb.com/bfs/archive/11819dac69ebff90111c1ba593351d05ab679d6f.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-25]クリスマスツリーの前で路上ライブ🎸お知らせあり🎄SinginStream",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17893,6 +18744,7 @@ window.SONG_DATA.push(
   "partDuration": 227,
   "videos": 15,
   "viewCount": 105,
+  "cover": "https://i0.hdslb.com/bfs/archive/11819dac69ebff90111c1ba593351d05ab679d6f.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-25]クリスマスツリーの前で路上ライブ🎸お知らせあり🎄SinginStream",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17914,6 +18766,7 @@ window.SONG_DATA.push(
   "partDuration": 300,
   "videos": 15,
   "viewCount": 105,
+  "cover": "https://i0.hdslb.com/bfs/archive/11819dac69ebff90111c1ba593351d05ab679d6f.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-25]クリスマスツリーの前で路上ライブ🎸お知らせあり🎄SinginStream",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17935,6 +18788,7 @@ window.SONG_DATA.push(
   "partDuration": 320,
   "videos": 15,
   "viewCount": 105,
+  "cover": "https://i0.hdslb.com/bfs/archive/11819dac69ebff90111c1ba593351d05ab679d6f.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-25]クリスマスツリーの前で路上ライブ🎸お知らせあり🎄SinginStream",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17956,6 +18810,7 @@ window.SONG_DATA.push(
   "partDuration": 360,
   "videos": 15,
   "viewCount": 105,
+  "cover": "https://i0.hdslb.com/bfs/archive/11819dac69ebff90111c1ba593351d05ab679d6f.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-25]クリスマスツリーの前で路上ライブ🎸お知らせあり🎄SinginStream",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17977,6 +18832,7 @@ window.SONG_DATA.push(
   "partDuration": 357,
   "videos": 15,
   "viewCount": 105,
+  "cover": "https://i0.hdslb.com/bfs/archive/11819dac69ebff90111c1ba593351d05ab679d6f.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-25]クリスマスツリーの前で路上ライブ🎸お知らせあり🎄SinginStream",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -17998,6 +18854,7 @@ window.SONG_DATA.push(
   "partDuration": 228,
   "videos": 15,
   "viewCount": 105,
+  "cover": "https://i0.hdslb.com/bfs/archive/11819dac69ebff90111c1ba593351d05ab679d6f.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-25]クリスマスツリーの前で路上ライブ🎸お知らせあり🎄SinginStream",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18019,6 +18876,7 @@ window.SONG_DATA.push(
   "partDuration": 310,
   "videos": 15,
   "viewCount": 105,
+  "cover": "https://i0.hdslb.com/bfs/archive/11819dac69ebff90111c1ba593351d05ab679d6f.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-25]クリスマスツリーの前で路上ライブ🎸お知らせあり🎄SinginStream",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18040,6 +18898,7 @@ window.SONG_DATA.push(
   "partDuration": 271,
   "videos": 15,
   "viewCount": 105,
+  "cover": "https://i0.hdslb.com/bfs/archive/11819dac69ebff90111c1ba593351d05ab679d6f.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-25]クリスマスツリーの前で路上ライブ🎸お知らせあり🎄SinginStream",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18061,6 +18920,7 @@ window.SONG_DATA.push(
   "partDuration": 226,
   "videos": 15,
   "viewCount": 105,
+  "cover": "https://i0.hdslb.com/bfs/archive/11819dac69ebff90111c1ba593351d05ab679d6f.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-25]クリスマスツリーの前で路上ライブ🎸お知らせあり🎄SinginStream",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18082,6 +18942,7 @@ window.SONG_DATA.push(
   "partDuration": 312,
   "videos": 15,
   "viewCount": 105,
+  "cover": "https://i0.hdslb.com/bfs/archive/11819dac69ebff90111c1ba593351d05ab679d6f.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-25]クリスマスツリーの前で路上ライブ🎸お知らせあり🎄SinginStream",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18102,7 +18963,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 336,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18123,7 +18985,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 321,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18144,7 +19007,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 237,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18165,7 +19029,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 320,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18186,7 +19051,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 283,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18207,7 +19073,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 301,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18228,7 +19095,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 321,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18249,7 +19117,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 235,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18270,7 +19139,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 244,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18291,7 +19161,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 274,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18312,7 +19183,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 295,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18333,7 +19205,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 287,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18354,7 +19227,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 364,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18375,7 +19249,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 383,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18396,7 +19271,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 349,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18417,7 +19293,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 295,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18438,7 +19315,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 265,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18459,7 +19337,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 253,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18480,7 +19359,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 379,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18501,7 +19381,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 216,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18522,7 +19403,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 542,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18543,7 +19425,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 337,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18564,7 +19447,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 326,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18585,7 +19469,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 281,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18606,7 +19491,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 362,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18627,7 +19513,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 286,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18648,7 +19535,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 293,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18669,7 +19557,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 270,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18690,7 +19579,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 271,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18711,7 +19601,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 256,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18732,7 +19623,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 227,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18753,7 +19645,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 329,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18774,7 +19667,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 305,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18795,7 +19689,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 253,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18816,7 +19711,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 248,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18837,7 +19733,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 212,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18858,7 +19755,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 267,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18879,7 +19777,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 298,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18900,7 +19799,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 301,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18921,7 +19821,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 331,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18942,7 +19843,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 289,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18963,7 +19865,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 223,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -18984,7 +19887,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 281,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19005,7 +19909,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 208,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19026,7 +19931,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 290,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19047,7 +19953,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 253,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19068,7 +19975,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 253,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19089,7 +19997,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 288,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19110,7 +20019,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 207,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19131,7 +20041,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 429,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19152,7 +20063,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 189,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19173,7 +20085,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 191,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19194,7 +20107,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 190,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19215,7 +20129,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 287,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19236,7 +20151,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 323,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19257,7 +20173,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 403,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19278,7 +20195,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 288,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19299,7 +20217,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 313,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19320,7 +20239,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 293,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19341,7 +20261,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 299,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19362,7 +20283,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 238,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19383,7 +20305,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 249,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19404,7 +20327,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 268,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19425,7 +20349,8 @@ window.SONG_DATA.push(
   "videoDuration": 18523,
   "partDuration": 318,
   "videos": 64,
-  "viewCount": 180,
+  "viewCount": 182,
+  "cover": "https://i1.hdslb.com/bfs/archive/b485ead4aff8e0c263f1fd9b04c2949d5a0b49bb.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2025-12-29]同接500人耐久！年内ラストチャレンジ！初見さん大歓迎 [p-vdAGsVSu8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19447,6 +20372,7 @@ window.SONG_DATA.push(
   "partDuration": 317,
   "videos": 11,
   "viewCount": 127,
+  "cover": "https://i1.hdslb.com/bfs/archive/9f8efcf53ef98b5272c3d6c924a3f050cd60f953.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-06]まったり路上ライブ作業BGMや帰り道に [o2O0recRjK8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19468,6 +20394,7 @@ window.SONG_DATA.push(
   "partDuration": 308,
   "videos": 11,
   "viewCount": 127,
+  "cover": "https://i1.hdslb.com/bfs/archive/9f8efcf53ef98b5272c3d6c924a3f050cd60f953.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-06]まったり路上ライブ作業BGMや帰り道に [o2O0recRjK8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19489,6 +20416,7 @@ window.SONG_DATA.push(
   "partDuration": 271,
   "videos": 11,
   "viewCount": 127,
+  "cover": "https://i1.hdslb.com/bfs/archive/9f8efcf53ef98b5272c3d6c924a3f050cd60f953.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-06]まったり路上ライブ作業BGMや帰り道に [o2O0recRjK8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19510,6 +20438,7 @@ window.SONG_DATA.push(
   "partDuration": 389,
   "videos": 11,
   "viewCount": 127,
+  "cover": "https://i1.hdslb.com/bfs/archive/9f8efcf53ef98b5272c3d6c924a3f050cd60f953.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-06]まったり路上ライブ作業BGMや帰り道に [o2O0recRjK8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19531,6 +20460,7 @@ window.SONG_DATA.push(
   "partDuration": 277,
   "videos": 11,
   "viewCount": 127,
+  "cover": "https://i1.hdslb.com/bfs/archive/9f8efcf53ef98b5272c3d6c924a3f050cd60f953.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-06]まったり路上ライブ作業BGMや帰り道に [o2O0recRjK8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19552,6 +20482,7 @@ window.SONG_DATA.push(
   "partDuration": 211,
   "videos": 11,
   "viewCount": 127,
+  "cover": "https://i1.hdslb.com/bfs/archive/9f8efcf53ef98b5272c3d6c924a3f050cd60f953.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-06]まったり路上ライブ作業BGMや帰り道に [o2O0recRjK8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19573,6 +20504,7 @@ window.SONG_DATA.push(
   "partDuration": 258,
   "videos": 11,
   "viewCount": 127,
+  "cover": "https://i1.hdslb.com/bfs/archive/9f8efcf53ef98b5272c3d6c924a3f050cd60f953.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-06]まったり路上ライブ作業BGMや帰り道に [o2O0recRjK8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19594,6 +20526,7 @@ window.SONG_DATA.push(
   "partDuration": 293,
   "videos": 11,
   "viewCount": 127,
+  "cover": "https://i1.hdslb.com/bfs/archive/9f8efcf53ef98b5272c3d6c924a3f050cd60f953.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-06]まったり路上ライブ作業BGMや帰り道に [o2O0recRjK8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19615,6 +20548,7 @@ window.SONG_DATA.push(
   "partDuration": 186,
   "videos": 11,
   "viewCount": 127,
+  "cover": "https://i1.hdslb.com/bfs/archive/9f8efcf53ef98b5272c3d6c924a3f050cd60f953.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-06]まったり路上ライブ作業BGMや帰り道に [o2O0recRjK8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19636,6 +20570,7 @@ window.SONG_DATA.push(
   "partDuration": 304,
   "videos": 11,
   "viewCount": 127,
+  "cover": "https://i1.hdslb.com/bfs/archive/9f8efcf53ef98b5272c3d6c924a3f050cd60f953.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-06]まったり路上ライブ作業BGMや帰り道に [o2O0recRjK8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19657,6 +20592,7 @@ window.SONG_DATA.push(
   "partDuration": 291,
   "videos": 11,
   "viewCount": 127,
+  "cover": "https://i1.hdslb.com/bfs/archive/9f8efcf53ef98b5272c3d6c924a3f050cd60f953.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-06]まったり路上ライブ作業BGMや帰り道に [o2O0recRjK8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19677,7 +20613,8 @@ window.SONG_DATA.push(
   "videoDuration": 3895,
   "partDuration": 302,
   "videos": 14,
-  "viewCount": 96,
+  "viewCount": 98,
+  "cover": "https://i0.hdslb.com/bfs/archive/433758e2eba92429c896cc00f20a4e35172f2bab.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-11]ガンダム曲縛り🎸初見歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19698,7 +20635,8 @@ window.SONG_DATA.push(
   "videoDuration": 3895,
   "partDuration": 247,
   "videos": 14,
-  "viewCount": 96,
+  "viewCount": 98,
+  "cover": "https://i0.hdslb.com/bfs/archive/433758e2eba92429c896cc00f20a4e35172f2bab.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-11]ガンダム曲縛り🎸初見歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19719,7 +20657,8 @@ window.SONG_DATA.push(
   "videoDuration": 3895,
   "partDuration": 229,
   "videos": 14,
-  "viewCount": 96,
+  "viewCount": 98,
+  "cover": "https://i0.hdslb.com/bfs/archive/433758e2eba92429c896cc00f20a4e35172f2bab.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-11]ガンダム曲縛り🎸初見歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19740,7 +20679,8 @@ window.SONG_DATA.push(
   "videoDuration": 3895,
   "partDuration": 211,
   "videos": 14,
-  "viewCount": 96,
+  "viewCount": 98,
+  "cover": "https://i0.hdslb.com/bfs/archive/433758e2eba92429c896cc00f20a4e35172f2bab.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-11]ガンダム曲縛り🎸初見歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19761,7 +20701,8 @@ window.SONG_DATA.push(
   "videoDuration": 3895,
   "partDuration": 363,
   "videos": 14,
-  "viewCount": 96,
+  "viewCount": 98,
+  "cover": "https://i0.hdslb.com/bfs/archive/433758e2eba92429c896cc00f20a4e35172f2bab.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-11]ガンダム曲縛り🎸初見歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19782,7 +20723,8 @@ window.SONG_DATA.push(
   "videoDuration": 3895,
   "partDuration": 292,
   "videos": 14,
-  "viewCount": 96,
+  "viewCount": 98,
+  "cover": "https://i0.hdslb.com/bfs/archive/433758e2eba92429c896cc00f20a4e35172f2bab.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-11]ガンダム曲縛り🎸初見歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19803,7 +20745,8 @@ window.SONG_DATA.push(
   "videoDuration": 3895,
   "partDuration": 263,
   "videos": 14,
-  "viewCount": 96,
+  "viewCount": 98,
+  "cover": "https://i0.hdslb.com/bfs/archive/433758e2eba92429c896cc00f20a4e35172f2bab.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-11]ガンダム曲縛り🎸初見歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19824,7 +20767,8 @@ window.SONG_DATA.push(
   "videoDuration": 3895,
   "partDuration": 261,
   "videos": 14,
-  "viewCount": 96,
+  "viewCount": 98,
+  "cover": "https://i0.hdslb.com/bfs/archive/433758e2eba92429c896cc00f20a4e35172f2bab.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-11]ガンダム曲縛り🎸初見歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19845,7 +20789,8 @@ window.SONG_DATA.push(
   "videoDuration": 3895,
   "partDuration": 221,
   "videos": 14,
-  "viewCount": 96,
+  "viewCount": 98,
+  "cover": "https://i0.hdslb.com/bfs/archive/433758e2eba92429c896cc00f20a4e35172f2bab.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-11]ガンダム曲縛り🎸初見歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19866,7 +20811,8 @@ window.SONG_DATA.push(
   "videoDuration": 3895,
   "partDuration": 246,
   "videos": 14,
-  "viewCount": 96,
+  "viewCount": 98,
+  "cover": "https://i0.hdslb.com/bfs/archive/433758e2eba92429c896cc00f20a4e35172f2bab.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-11]ガンダム曲縛り🎸初見歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19887,7 +20833,8 @@ window.SONG_DATA.push(
   "videoDuration": 3895,
   "partDuration": 380,
   "videos": 14,
-  "viewCount": 96,
+  "viewCount": 98,
+  "cover": "https://i0.hdslb.com/bfs/archive/433758e2eba92429c896cc00f20a4e35172f2bab.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-11]ガンダム曲縛り🎸初見歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19908,7 +20855,8 @@ window.SONG_DATA.push(
   "videoDuration": 3895,
   "partDuration": 348,
   "videos": 14,
-  "viewCount": 96,
+  "viewCount": 98,
+  "cover": "https://i0.hdslb.com/bfs/archive/433758e2eba92429c896cc00f20a4e35172f2bab.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-11]ガンダム曲縛り🎸初見歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19929,7 +20877,8 @@ window.SONG_DATA.push(
   "videoDuration": 3895,
   "partDuration": 296,
   "videos": 14,
-  "viewCount": 96,
+  "viewCount": 98,
+  "cover": "https://i0.hdslb.com/bfs/archive/433758e2eba92429c896cc00f20a4e35172f2bab.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-11]ガンダム曲縛り🎸初見歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19950,7 +20899,8 @@ window.SONG_DATA.push(
   "videoDuration": 3895,
   "partDuration": 236,
   "videos": 14,
-  "viewCount": 96,
+  "viewCount": 98,
+  "cover": "https://i0.hdslb.com/bfs/archive/433758e2eba92429c896cc00f20a4e35172f2bab.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-11]ガンダム曲縛り🎸初見歓迎！",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19972,6 +20922,7 @@ window.SONG_DATA.push(
   "partDuration": 355,
   "videos": 15,
   "viewCount": 99,
+  "cover": "https://i1.hdslb.com/bfs/archive/ef107f7d143488e5d3691ba50f69601d18f880a0.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-13]【アコギ弾き語り】初見さん大歓迎！まったり弾き語り歌枠！[3pkydwhxVz0]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -19993,6 +20944,7 @@ window.SONG_DATA.push(
   "partDuration": 286,
   "videos": 15,
   "viewCount": 99,
+  "cover": "https://i1.hdslb.com/bfs/archive/ef107f7d143488e5d3691ba50f69601d18f880a0.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-13]【アコギ弾き語り】初見さん大歓迎！まったり弾き語り歌枠！[3pkydwhxVz0]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20014,6 +20966,7 @@ window.SONG_DATA.push(
   "partDuration": 258,
   "videos": 15,
   "viewCount": 99,
+  "cover": "https://i1.hdslb.com/bfs/archive/ef107f7d143488e5d3691ba50f69601d18f880a0.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-13]【アコギ弾き語り】初見さん大歓迎！まったり弾き語り歌枠！[3pkydwhxVz0]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20035,6 +20988,7 @@ window.SONG_DATA.push(
   "partDuration": 286,
   "videos": 15,
   "viewCount": 99,
+  "cover": "https://i1.hdslb.com/bfs/archive/ef107f7d143488e5d3691ba50f69601d18f880a0.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-13]【アコギ弾き語り】初見さん大歓迎！まったり弾き語り歌枠！[3pkydwhxVz0]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20056,6 +21010,7 @@ window.SONG_DATA.push(
   "partDuration": 221,
   "videos": 15,
   "viewCount": 99,
+  "cover": "https://i1.hdslb.com/bfs/archive/ef107f7d143488e5d3691ba50f69601d18f880a0.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-13]【アコギ弾き語り】初見さん大歓迎！まったり弾き語り歌枠！[3pkydwhxVz0]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20077,6 +21032,7 @@ window.SONG_DATA.push(
   "partDuration": 110,
   "videos": 15,
   "viewCount": 99,
+  "cover": "https://i1.hdslb.com/bfs/archive/ef107f7d143488e5d3691ba50f69601d18f880a0.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-13]【アコギ弾き語り】初見さん大歓迎！まったり弾き語り歌枠！[3pkydwhxVz0]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20098,6 +21054,7 @@ window.SONG_DATA.push(
   "partDuration": 327,
   "videos": 15,
   "viewCount": 99,
+  "cover": "https://i1.hdslb.com/bfs/archive/ef107f7d143488e5d3691ba50f69601d18f880a0.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-13]【アコギ弾き語り】初見さん大歓迎！まったり弾き語り歌枠！[3pkydwhxVz0]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20119,6 +21076,7 @@ window.SONG_DATA.push(
   "partDuration": 225,
   "videos": 15,
   "viewCount": 99,
+  "cover": "https://i1.hdslb.com/bfs/archive/ef107f7d143488e5d3691ba50f69601d18f880a0.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-13]【アコギ弾き語り】初見さん大歓迎！まったり弾き語り歌枠！[3pkydwhxVz0]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20140,6 +21098,7 @@ window.SONG_DATA.push(
   "partDuration": 295,
   "videos": 15,
   "viewCount": 99,
+  "cover": "https://i1.hdslb.com/bfs/archive/ef107f7d143488e5d3691ba50f69601d18f880a0.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-13]【アコギ弾き語り】初見さん大歓迎！まったり弾き語り歌枠！[3pkydwhxVz0]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20161,6 +21120,7 @@ window.SONG_DATA.push(
   "partDuration": 349,
   "videos": 15,
   "viewCount": 99,
+  "cover": "https://i1.hdslb.com/bfs/archive/ef107f7d143488e5d3691ba50f69601d18f880a0.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-13]【アコギ弾き語り】初見さん大歓迎！まったり弾き語り歌枠！[3pkydwhxVz0]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20182,6 +21142,7 @@ window.SONG_DATA.push(
   "partDuration": 290,
   "videos": 15,
   "viewCount": 99,
+  "cover": "https://i1.hdslb.com/bfs/archive/ef107f7d143488e5d3691ba50f69601d18f880a0.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-13]【アコギ弾き語り】初見さん大歓迎！まったり弾き語り歌枠！[3pkydwhxVz0]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20203,6 +21164,7 @@ window.SONG_DATA.push(
   "partDuration": 319,
   "videos": 15,
   "viewCount": 99,
+  "cover": "https://i1.hdslb.com/bfs/archive/ef107f7d143488e5d3691ba50f69601d18f880a0.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-13]【アコギ弾き語り】初見さん大歓迎！まったり弾き語り歌枠！[3pkydwhxVz0]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20224,6 +21186,7 @@ window.SONG_DATA.push(
   "partDuration": 351,
   "videos": 15,
   "viewCount": 99,
+  "cover": "https://i1.hdslb.com/bfs/archive/ef107f7d143488e5d3691ba50f69601d18f880a0.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-13]【アコギ弾き語り】初見さん大歓迎！まったり弾き語り歌枠！[3pkydwhxVz0]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20245,6 +21208,7 @@ window.SONG_DATA.push(
   "partDuration": 276,
   "videos": 15,
   "viewCount": 99,
+  "cover": "https://i1.hdslb.com/bfs/archive/ef107f7d143488e5d3691ba50f69601d18f880a0.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-13]【アコギ弾き語り】初見さん大歓迎！まったり弾き語り歌枠！[3pkydwhxVz0]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20266,6 +21230,7 @@ window.SONG_DATA.push(
   "partDuration": 186,
   "videos": 15,
   "viewCount": 99,
+  "cover": "https://i1.hdslb.com/bfs/archive/ef107f7d143488e5d3691ba50f69601d18f880a0.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-13]【アコギ弾き語り】初見さん大歓迎！まったり弾き語り歌枠！[3pkydwhxVz0]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20286,7 +21251,8 @@ window.SONG_DATA.push(
   "videoDuration": 4450,
   "partDuration": 290,
   "videos": 15,
-  "viewCount": 177,
+  "viewCount": 178,
+  "cover": "https://i2.hdslb.com/bfs/archive/7934092c9cb94d042076c15f2813b84d9ea7885f.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-15]【歌枠⧸弾き語り】初見さん大歓迎！2000年代アニソン特集！[KFT_667gjp8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20307,7 +21273,8 @@ window.SONG_DATA.push(
   "videoDuration": 4450,
   "partDuration": 290,
   "videos": 15,
-  "viewCount": 177,
+  "viewCount": 178,
+  "cover": "https://i2.hdslb.com/bfs/archive/7934092c9cb94d042076c15f2813b84d9ea7885f.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-15]【歌枠⧸弾き語り】初見さん大歓迎！2000年代アニソン特集！[KFT_667gjp8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20328,7 +21295,8 @@ window.SONG_DATA.push(
   "videoDuration": 4450,
   "partDuration": 286,
   "videos": 15,
-  "viewCount": 177,
+  "viewCount": 178,
+  "cover": "https://i2.hdslb.com/bfs/archive/7934092c9cb94d042076c15f2813b84d9ea7885f.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-15]【歌枠⧸弾き語り】初見さん大歓迎！2000年代アニソン特集！[KFT_667gjp8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20349,7 +21317,8 @@ window.SONG_DATA.push(
   "videoDuration": 4450,
   "partDuration": 250,
   "videos": 15,
-  "viewCount": 177,
+  "viewCount": 178,
+  "cover": "https://i2.hdslb.com/bfs/archive/7934092c9cb94d042076c15f2813b84d9ea7885f.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-15]【歌枠⧸弾き語り】初見さん大歓迎！2000年代アニソン特集！[KFT_667gjp8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20370,7 +21339,8 @@ window.SONG_DATA.push(
   "videoDuration": 4450,
   "partDuration": 290,
   "videos": 15,
-  "viewCount": 177,
+  "viewCount": 178,
+  "cover": "https://i2.hdslb.com/bfs/archive/7934092c9cb94d042076c15f2813b84d9ea7885f.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-15]【歌枠⧸弾き語り】初見さん大歓迎！2000年代アニソン特集！[KFT_667gjp8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20391,7 +21361,8 @@ window.SONG_DATA.push(
   "videoDuration": 4450,
   "partDuration": 289,
   "videos": 15,
-  "viewCount": 177,
+  "viewCount": 178,
+  "cover": "https://i2.hdslb.com/bfs/archive/7934092c9cb94d042076c15f2813b84d9ea7885f.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-15]【歌枠⧸弾き語り】初見さん大歓迎！2000年代アニソン特集！[KFT_667gjp8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20412,7 +21383,8 @@ window.SONG_DATA.push(
   "videoDuration": 4450,
   "partDuration": 332,
   "videos": 15,
-  "viewCount": 177,
+  "viewCount": 178,
+  "cover": "https://i2.hdslb.com/bfs/archive/7934092c9cb94d042076c15f2813b84d9ea7885f.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-15]【歌枠⧸弾き語り】初見さん大歓迎！2000年代アニソン特集！[KFT_667gjp8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20433,7 +21405,8 @@ window.SONG_DATA.push(
   "videoDuration": 4450,
   "partDuration": 318,
   "videos": 15,
-  "viewCount": 177,
+  "viewCount": 178,
+  "cover": "https://i2.hdslb.com/bfs/archive/7934092c9cb94d042076c15f2813b84d9ea7885f.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-15]【歌枠⧸弾き語り】初見さん大歓迎！2000年代アニソン特集！[KFT_667gjp8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20454,7 +21427,8 @@ window.SONG_DATA.push(
   "videoDuration": 4450,
   "partDuration": 303,
   "videos": 15,
-  "viewCount": 177,
+  "viewCount": 178,
+  "cover": "https://i2.hdslb.com/bfs/archive/7934092c9cb94d042076c15f2813b84d9ea7885f.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-15]【歌枠⧸弾き語り】初見さん大歓迎！2000年代アニソン特集！[KFT_667gjp8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20475,7 +21449,8 @@ window.SONG_DATA.push(
   "videoDuration": 4450,
   "partDuration": 279,
   "videos": 15,
-  "viewCount": 177,
+  "viewCount": 178,
+  "cover": "https://i2.hdslb.com/bfs/archive/7934092c9cb94d042076c15f2813b84d9ea7885f.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-15]【歌枠⧸弾き語り】初見さん大歓迎！2000年代アニソン特集！[KFT_667gjp8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20496,7 +21471,8 @@ window.SONG_DATA.push(
   "videoDuration": 4450,
   "partDuration": 310,
   "videos": 15,
-  "viewCount": 177,
+  "viewCount": 178,
+  "cover": "https://i2.hdslb.com/bfs/archive/7934092c9cb94d042076c15f2813b84d9ea7885f.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-15]【歌枠⧸弾き語り】初見さん大歓迎！2000年代アニソン特集！[KFT_667gjp8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20517,7 +21493,8 @@ window.SONG_DATA.push(
   "videoDuration": 4450,
   "partDuration": 290,
   "videos": 15,
-  "viewCount": 177,
+  "viewCount": 178,
+  "cover": "https://i2.hdslb.com/bfs/archive/7934092c9cb94d042076c15f2813b84d9ea7885f.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-15]【歌枠⧸弾き語り】初見さん大歓迎！2000年代アニソン特集！[KFT_667gjp8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20538,7 +21515,8 @@ window.SONG_DATA.push(
   "videoDuration": 4450,
   "partDuration": 305,
   "videos": 15,
-  "viewCount": 177,
+  "viewCount": 178,
+  "cover": "https://i2.hdslb.com/bfs/archive/7934092c9cb94d042076c15f2813b84d9ea7885f.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-15]【歌枠⧸弾き語り】初見さん大歓迎！2000年代アニソン特集！[KFT_667gjp8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20559,7 +21537,8 @@ window.SONG_DATA.push(
   "videoDuration": 4450,
   "partDuration": 248,
   "videos": 15,
-  "viewCount": 177,
+  "viewCount": 178,
+  "cover": "https://i2.hdslb.com/bfs/archive/7934092c9cb94d042076c15f2813b84d9ea7885f.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-15]【歌枠⧸弾き語り】初見さん大歓迎！2000年代アニソン特集！[KFT_667gjp8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20580,7 +21559,8 @@ window.SONG_DATA.push(
   "videoDuration": 4450,
   "partDuration": 370,
   "videos": 15,
-  "viewCount": 177,
+  "viewCount": 178,
+  "cover": "https://i2.hdslb.com/bfs/archive/7934092c9cb94d042076c15f2813b84d9ea7885f.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-15]【歌枠⧸弾き語り】初見さん大歓迎！2000年代アニソン特集！[KFT_667gjp8]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20601,7 +21581,8 @@ window.SONG_DATA.push(
   "videoDuration": 5108,
   "partDuration": 309,
   "videos": 19,
-  "viewCount": 1138,
+  "viewCount": 3522,
+  "cover": "https://i0.hdslb.com/bfs/archive/3d339cc3b0352711d7eee0a155e80c6f1d0eadfd.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-18] 挨拶500人耐久！初見さんは10人分‼️🔰⟡.[JpR1VqGHVbY]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20622,7 +21603,8 @@ window.SONG_DATA.push(
   "videoDuration": 5108,
   "partDuration": 195,
   "videos": 19,
-  "viewCount": 1138,
+  "viewCount": 3522,
+  "cover": "https://i0.hdslb.com/bfs/archive/3d339cc3b0352711d7eee0a155e80c6f1d0eadfd.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-18] 挨拶500人耐久！初見さんは10人分‼️🔰⟡.[JpR1VqGHVbY]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20643,7 +21625,8 @@ window.SONG_DATA.push(
   "videoDuration": 5108,
   "partDuration": 302,
   "videos": 19,
-  "viewCount": 1138,
+  "viewCount": 3522,
+  "cover": "https://i0.hdslb.com/bfs/archive/3d339cc3b0352711d7eee0a155e80c6f1d0eadfd.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-18] 挨拶500人耐久！初見さんは10人分‼️🔰⟡.[JpR1VqGHVbY]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20664,7 +21647,8 @@ window.SONG_DATA.push(
   "videoDuration": 5108,
   "partDuration": 252,
   "videos": 19,
-  "viewCount": 1138,
+  "viewCount": 3522,
+  "cover": "https://i0.hdslb.com/bfs/archive/3d339cc3b0352711d7eee0a155e80c6f1d0eadfd.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-18] 挨拶500人耐久！初見さんは10人分‼️🔰⟡.[JpR1VqGHVbY]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20685,7 +21669,8 @@ window.SONG_DATA.push(
   "videoDuration": 5108,
   "partDuration": 214,
   "videos": 19,
-  "viewCount": 1138,
+  "viewCount": 3522,
+  "cover": "https://i0.hdslb.com/bfs/archive/3d339cc3b0352711d7eee0a155e80c6f1d0eadfd.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-18] 挨拶500人耐久！初見さんは10人分‼️🔰⟡.[JpR1VqGHVbY]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20706,7 +21691,8 @@ window.SONG_DATA.push(
   "videoDuration": 5108,
   "partDuration": 272,
   "videos": 19,
-  "viewCount": 1138,
+  "viewCount": 3522,
+  "cover": "https://i0.hdslb.com/bfs/archive/3d339cc3b0352711d7eee0a155e80c6f1d0eadfd.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-18] 挨拶500人耐久！初見さんは10人分‼️🔰⟡.[JpR1VqGHVbY]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20727,7 +21713,8 @@ window.SONG_DATA.push(
   "videoDuration": 5108,
   "partDuration": 246,
   "videos": 19,
-  "viewCount": 1138,
+  "viewCount": 3522,
+  "cover": "https://i0.hdslb.com/bfs/archive/3d339cc3b0352711d7eee0a155e80c6f1d0eadfd.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-18] 挨拶500人耐久！初見さんは10人分‼️🔰⟡.[JpR1VqGHVbY]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20748,7 +21735,8 @@ window.SONG_DATA.push(
   "videoDuration": 5108,
   "partDuration": 262,
   "videos": 19,
-  "viewCount": 1138,
+  "viewCount": 3522,
+  "cover": "https://i0.hdslb.com/bfs/archive/3d339cc3b0352711d7eee0a155e80c6f1d0eadfd.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-18] 挨拶500人耐久！初見さんは10人分‼️🔰⟡.[JpR1VqGHVbY]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20769,7 +21757,8 @@ window.SONG_DATA.push(
   "videoDuration": 5108,
   "partDuration": 291,
   "videos": 19,
-  "viewCount": 1138,
+  "viewCount": 3522,
+  "cover": "https://i0.hdslb.com/bfs/archive/3d339cc3b0352711d7eee0a155e80c6f1d0eadfd.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-18] 挨拶500人耐久！初見さんは10人分‼️🔰⟡.[JpR1VqGHVbY]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20790,7 +21779,8 @@ window.SONG_DATA.push(
   "videoDuration": 5108,
   "partDuration": 183,
   "videos": 19,
-  "viewCount": 1138,
+  "viewCount": 3522,
+  "cover": "https://i0.hdslb.com/bfs/archive/3d339cc3b0352711d7eee0a155e80c6f1d0eadfd.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-18] 挨拶500人耐久！初見さんは10人分‼️🔰⟡.[JpR1VqGHVbY]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20811,7 +21801,8 @@ window.SONG_DATA.push(
   "videoDuration": 5108,
   "partDuration": 365,
   "videos": 19,
-  "viewCount": 1138,
+  "viewCount": 3522,
+  "cover": "https://i0.hdslb.com/bfs/archive/3d339cc3b0352711d7eee0a155e80c6f1d0eadfd.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-18] 挨拶500人耐久！初見さんは10人分‼️🔰⟡.[JpR1VqGHVbY]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20832,7 +21823,8 @@ window.SONG_DATA.push(
   "videoDuration": 5108,
   "partDuration": 347,
   "videos": 19,
-  "viewCount": 1138,
+  "viewCount": 3522,
+  "cover": "https://i0.hdslb.com/bfs/archive/3d339cc3b0352711d7eee0a155e80c6f1d0eadfd.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-18] 挨拶500人耐久！初見さんは10人分‼️🔰⟡.[JpR1VqGHVbY]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20853,7 +21845,8 @@ window.SONG_DATA.push(
   "videoDuration": 5108,
   "partDuration": 289,
   "videos": 19,
-  "viewCount": 1138,
+  "viewCount": 3522,
+  "cover": "https://i0.hdslb.com/bfs/archive/3d339cc3b0352711d7eee0a155e80c6f1d0eadfd.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-18] 挨拶500人耐久！初見さんは10人分‼️🔰⟡.[JpR1VqGHVbY]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20874,7 +21867,8 @@ window.SONG_DATA.push(
   "videoDuration": 5108,
   "partDuration": 293,
   "videos": 19,
-  "viewCount": 1138,
+  "viewCount": 3522,
+  "cover": "https://i0.hdslb.com/bfs/archive/3d339cc3b0352711d7eee0a155e80c6f1d0eadfd.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-18] 挨拶500人耐久！初見さんは10人分‼️🔰⟡.[JpR1VqGHVbY]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20895,7 +21889,8 @@ window.SONG_DATA.push(
   "videoDuration": 5108,
   "partDuration": 211,
   "videos": 19,
-  "viewCount": 1138,
+  "viewCount": 3522,
+  "cover": "https://i0.hdslb.com/bfs/archive/3d339cc3b0352711d7eee0a155e80c6f1d0eadfd.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-18] 挨拶500人耐久！初見さんは10人分‼️🔰⟡.[JpR1VqGHVbY]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20916,7 +21911,8 @@ window.SONG_DATA.push(
   "videoDuration": 5108,
   "partDuration": 262,
   "videos": 19,
-  "viewCount": 1138,
+  "viewCount": 3522,
+  "cover": "https://i0.hdslb.com/bfs/archive/3d339cc3b0352711d7eee0a155e80c6f1d0eadfd.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-18] 挨拶500人耐久！初見さんは10人分‼️🔰⟡.[JpR1VqGHVbY]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20937,7 +21933,8 @@ window.SONG_DATA.push(
   "videoDuration": 5108,
   "partDuration": 266,
   "videos": 19,
-  "viewCount": 1138,
+  "viewCount": 3522,
+  "cover": "https://i0.hdslb.com/bfs/archive/3d339cc3b0352711d7eee0a155e80c6f1d0eadfd.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-18] 挨拶500人耐久！初見さんは10人分‼️🔰⟡.[JpR1VqGHVbY]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20958,7 +21955,8 @@ window.SONG_DATA.push(
   "videoDuration": 5108,
   "partDuration": 280,
   "videos": 19,
-  "viewCount": 1138,
+  "viewCount": 3522,
+  "cover": "https://i0.hdslb.com/bfs/archive/3d339cc3b0352711d7eee0a155e80c6f1d0eadfd.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-18] 挨拶500人耐久！初見さんは10人分‼️🔰⟡.[JpR1VqGHVbY]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -20979,7 +21977,8 @@ window.SONG_DATA.push(
   "videoDuration": 5108,
   "partDuration": 269,
   "videos": 19,
-  "viewCount": 1138,
+  "viewCount": 3522,
+  "cover": "https://i0.hdslb.com/bfs/archive/3d339cc3b0352711d7eee0a155e80c6f1d0eadfd.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-18] 挨拶500人耐久！初見さんは10人分‼️🔰⟡.[JpR1VqGHVbY]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21000,7 +21999,8 @@ window.SONG_DATA.push(
   "videoDuration": 4442,
   "partDuration": 343,
   "videos": 15,
-  "viewCount": 113,
+  "viewCount": 114,
+  "cover": "https://i2.hdslb.com/bfs/archive/1cf4fed29c26d5d314bd75f3926a93c9fa43eb74.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-20]古のボカロを弾き語り🎸[OH7FXW6Y7Qk].mp4",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21021,7 +22021,8 @@ window.SONG_DATA.push(
   "videoDuration": 4442,
   "partDuration": 417,
   "videos": 15,
-  "viewCount": 113,
+  "viewCount": 114,
+  "cover": "https://i2.hdslb.com/bfs/archive/1cf4fed29c26d5d314bd75f3926a93c9fa43eb74.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-20]古のボカロを弾き語り🎸[OH7FXW6Y7Qk].mp4",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21042,7 +22043,8 @@ window.SONG_DATA.push(
   "videoDuration": 4442,
   "partDuration": 321,
   "videos": 15,
-  "viewCount": 113,
+  "viewCount": 114,
+  "cover": "https://i2.hdslb.com/bfs/archive/1cf4fed29c26d5d314bd75f3926a93c9fa43eb74.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-20]古のボカロを弾き語り🎸[OH7FXW6Y7Qk].mp4",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21063,7 +22065,8 @@ window.SONG_DATA.push(
   "videoDuration": 4442,
   "partDuration": 292,
   "videos": 15,
-  "viewCount": 113,
+  "viewCount": 114,
+  "cover": "https://i2.hdslb.com/bfs/archive/1cf4fed29c26d5d314bd75f3926a93c9fa43eb74.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-20]古のボカロを弾き語り🎸[OH7FXW6Y7Qk].mp4",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21084,7 +22087,8 @@ window.SONG_DATA.push(
   "videoDuration": 4442,
   "partDuration": 280,
   "videos": 15,
-  "viewCount": 113,
+  "viewCount": 114,
+  "cover": "https://i2.hdslb.com/bfs/archive/1cf4fed29c26d5d314bd75f3926a93c9fa43eb74.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-20]古のボカロを弾き語り🎸[OH7FXW6Y7Qk].mp4",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21105,7 +22109,8 @@ window.SONG_DATA.push(
   "videoDuration": 4442,
   "partDuration": 298,
   "videos": 15,
-  "viewCount": 113,
+  "viewCount": 114,
+  "cover": "https://i2.hdslb.com/bfs/archive/1cf4fed29c26d5d314bd75f3926a93c9fa43eb74.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-20]古のボカロを弾き語り🎸[OH7FXW6Y7Qk].mp4",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21126,7 +22131,8 @@ window.SONG_DATA.push(
   "videoDuration": 4442,
   "partDuration": 209,
   "videos": 15,
-  "viewCount": 113,
+  "viewCount": 114,
+  "cover": "https://i2.hdslb.com/bfs/archive/1cf4fed29c26d5d314bd75f3926a93c9fa43eb74.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-20]古のボカロを弾き語り🎸[OH7FXW6Y7Qk].mp4",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21147,7 +22153,8 @@ window.SONG_DATA.push(
   "videoDuration": 4442,
   "partDuration": 200,
   "videos": 15,
-  "viewCount": 113,
+  "viewCount": 114,
+  "cover": "https://i2.hdslb.com/bfs/archive/1cf4fed29c26d5d314bd75f3926a93c9fa43eb74.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-20]古のボカロを弾き語り🎸[OH7FXW6Y7Qk].mp4",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21168,7 +22175,8 @@ window.SONG_DATA.push(
   "videoDuration": 4442,
   "partDuration": 235,
   "videos": 15,
-  "viewCount": 113,
+  "viewCount": 114,
+  "cover": "https://i2.hdslb.com/bfs/archive/1cf4fed29c26d5d314bd75f3926a93c9fa43eb74.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-20]古のボカロを弾き語り🎸[OH7FXW6Y7Qk].mp4",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21189,7 +22197,8 @@ window.SONG_DATA.push(
   "videoDuration": 4442,
   "partDuration": 290,
   "videos": 15,
-  "viewCount": 113,
+  "viewCount": 114,
+  "cover": "https://i2.hdslb.com/bfs/archive/1cf4fed29c26d5d314bd75f3926a93c9fa43eb74.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-20]古のボカロを弾き語り🎸[OH7FXW6Y7Qk].mp4",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21210,7 +22219,8 @@ window.SONG_DATA.push(
   "videoDuration": 4442,
   "partDuration": 329,
   "videos": 15,
-  "viewCount": 113,
+  "viewCount": 114,
+  "cover": "https://i2.hdslb.com/bfs/archive/1cf4fed29c26d5d314bd75f3926a93c9fa43eb74.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-20]古のボカロを弾き語り🎸[OH7FXW6Y7Qk].mp4",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21231,7 +22241,8 @@ window.SONG_DATA.push(
   "videoDuration": 4442,
   "partDuration": 317,
   "videos": 15,
-  "viewCount": 113,
+  "viewCount": 114,
+  "cover": "https://i2.hdslb.com/bfs/archive/1cf4fed29c26d5d314bd75f3926a93c9fa43eb74.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-20]古のボカロを弾き語り🎸[OH7FXW6Y7Qk].mp4",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21252,7 +22263,8 @@ window.SONG_DATA.push(
   "videoDuration": 4442,
   "partDuration": 317,
   "videos": 15,
-  "viewCount": 113,
+  "viewCount": 114,
+  "cover": "https://i2.hdslb.com/bfs/archive/1cf4fed29c26d5d314bd75f3926a93c9fa43eb74.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-20]古のボカロを弾き語り🎸[OH7FXW6Y7Qk].mp4",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21273,7 +22285,8 @@ window.SONG_DATA.push(
   "videoDuration": 4442,
   "partDuration": 269,
   "videos": 15,
-  "viewCount": 113,
+  "viewCount": 114,
+  "cover": "https://i2.hdslb.com/bfs/archive/1cf4fed29c26d5d314bd75f3926a93c9fa43eb74.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-20]古のボカロを弾き語り🎸[OH7FXW6Y7Qk].mp4",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21294,7 +22307,8 @@ window.SONG_DATA.push(
   "videoDuration": 4442,
   "partDuration": 325,
   "videos": 15,
-  "viewCount": 113,
+  "viewCount": 114,
+  "cover": "https://i2.hdslb.com/bfs/archive/1cf4fed29c26d5d314bd75f3926a93c9fa43eb74.jpg@160w_90h_1c.webp",
   "videoTitle": "【🌙🎀 むんもっしゅ 歌切】[2026-01-20]古のボカロを弾き語り🎸[OH7FXW6Y7Qk].mp4",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21315,7 +22329,8 @@ window.SONG_DATA.push(
   "videoDuration": 3308,
   "partDuration": 323,
   "videos": 12,
-  "viewCount": 71,
+  "viewCount": 72,
+  "cover": "https://i0.hdslb.com/bfs/archive/37512ec911d9b6f5ad8fed06d8e07efe635e552e.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 弾き語り】[2026-01-22]夕方の癒しタイム🎶 [7QP4ghI3UOc]🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21336,7 +22351,8 @@ window.SONG_DATA.push(
   "videoDuration": 3308,
   "partDuration": 207,
   "videos": 12,
-  "viewCount": 71,
+  "viewCount": 72,
+  "cover": "https://i0.hdslb.com/bfs/archive/37512ec911d9b6f5ad8fed06d8e07efe635e552e.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 弾き語り】[2026-01-22]夕方の癒しタイム🎶 [7QP4ghI3UOc]🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21357,7 +22373,8 @@ window.SONG_DATA.push(
   "videoDuration": 3308,
   "partDuration": 328,
   "videos": 12,
-  "viewCount": 71,
+  "viewCount": 72,
+  "cover": "https://i0.hdslb.com/bfs/archive/37512ec911d9b6f5ad8fed06d8e07efe635e552e.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 弾き語り】[2026-01-22]夕方の癒しタイム🎶 [7QP4ghI3UOc]🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21378,7 +22395,8 @@ window.SONG_DATA.push(
   "videoDuration": 3308,
   "partDuration": 186,
   "videos": 12,
-  "viewCount": 71,
+  "viewCount": 72,
+  "cover": "https://i0.hdslb.com/bfs/archive/37512ec911d9b6f5ad8fed06d8e07efe635e552e.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 弾き語り】[2026-01-22]夕方の癒しタイム🎶 [7QP4ghI3UOc]🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21399,7 +22417,8 @@ window.SONG_DATA.push(
   "videoDuration": 3308,
   "partDuration": 277,
   "videos": 12,
-  "viewCount": 71,
+  "viewCount": 72,
+  "cover": "https://i0.hdslb.com/bfs/archive/37512ec911d9b6f5ad8fed06d8e07efe635e552e.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 弾き語り】[2026-01-22]夕方の癒しタイム🎶 [7QP4ghI3UOc]🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21420,7 +22439,8 @@ window.SONG_DATA.push(
   "videoDuration": 3308,
   "partDuration": 379,
   "videos": 12,
-  "viewCount": 71,
+  "viewCount": 72,
+  "cover": "https://i0.hdslb.com/bfs/archive/37512ec911d9b6f5ad8fed06d8e07efe635e552e.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 弾き語り】[2026-01-22]夕方の癒しタイム🎶 [7QP4ghI3UOc]🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21441,7 +22461,8 @@ window.SONG_DATA.push(
   "videoDuration": 3308,
   "partDuration": 200,
   "videos": 12,
-  "viewCount": 71,
+  "viewCount": 72,
+  "cover": "https://i0.hdslb.com/bfs/archive/37512ec911d9b6f5ad8fed06d8e07efe635e552e.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 弾き語り】[2026-01-22]夕方の癒しタイム🎶 [7QP4ghI3UOc]🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21462,7 +22483,8 @@ window.SONG_DATA.push(
   "videoDuration": 3308,
   "partDuration": 298,
   "videos": 12,
-  "viewCount": 71,
+  "viewCount": 72,
+  "cover": "https://i0.hdslb.com/bfs/archive/37512ec911d9b6f5ad8fed06d8e07efe635e552e.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 弾き語り】[2026-01-22]夕方の癒しタイム🎶 [7QP4ghI3UOc]🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21483,7 +22505,8 @@ window.SONG_DATA.push(
   "videoDuration": 3308,
   "partDuration": 313,
   "videos": 12,
-  "viewCount": 71,
+  "viewCount": 72,
+  "cover": "https://i0.hdslb.com/bfs/archive/37512ec911d9b6f5ad8fed06d8e07efe635e552e.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 弾き語り】[2026-01-22]夕方の癒しタイム🎶 [7QP4ghI3UOc]🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21504,7 +22527,8 @@ window.SONG_DATA.push(
   "videoDuration": 3308,
   "partDuration": 313,
   "videos": 12,
-  "viewCount": 71,
+  "viewCount": 72,
+  "cover": "https://i0.hdslb.com/bfs/archive/37512ec911d9b6f5ad8fed06d8e07efe635e552e.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 弾き語り】[2026-01-22]夕方の癒しタイム🎶 [7QP4ghI3UOc]🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21525,7 +22549,8 @@ window.SONG_DATA.push(
   "videoDuration": 3308,
   "partDuration": 268,
   "videos": 12,
-  "viewCount": 71,
+  "viewCount": 72,
+  "cover": "https://i0.hdslb.com/bfs/archive/37512ec911d9b6f5ad8fed06d8e07efe635e552e.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 弾き語り】[2026-01-22]夕方の癒しタイム🎶 [7QP4ghI3UOc]🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21546,7 +22571,8 @@ window.SONG_DATA.push(
   "videoDuration": 3308,
   "partDuration": 216,
   "videos": 12,
-  "viewCount": 71,
+  "viewCount": 72,
+  "cover": "https://i0.hdslb.com/bfs/archive/37512ec911d9b6f5ad8fed06d8e07efe635e552e.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 弾き語り】[2026-01-22]夕方の癒しタイム🎶 [7QP4ghI3UOc]🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21567,7 +22593,8 @@ window.SONG_DATA.push(
   "videoDuration": 3902,
   "partDuration": 163,
   "videos": 15,
-  "viewCount": 106,
+  "viewCount": 107,
+  "cover": "https://i1.hdslb.com/bfs/archive/ffd79fd7a0cbcb6a118ab7400dc8a70f5e8acaec.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 弾き語り】🌙🎀[2026-01-25]梶浦由記さん楽曲縛り🎶鬼滅の刃⧸まどマギetc.[EtJ_H4f-PgM]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21588,7 +22615,8 @@ window.SONG_DATA.push(
   "videoDuration": 3902,
   "partDuration": 203,
   "videos": 15,
-  "viewCount": 106,
+  "viewCount": 107,
+  "cover": "https://i1.hdslb.com/bfs/archive/ffd79fd7a0cbcb6a118ab7400dc8a70f5e8acaec.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 弾き語り】🌙🎀[2026-01-25]梶浦由記さん楽曲縛り🎶鬼滅の刃⧸まどマギetc.[EtJ_H4f-PgM]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21609,7 +22637,8 @@ window.SONG_DATA.push(
   "videoDuration": 3902,
   "partDuration": 256,
   "videos": 15,
-  "viewCount": 106,
+  "viewCount": 107,
+  "cover": "https://i1.hdslb.com/bfs/archive/ffd79fd7a0cbcb6a118ab7400dc8a70f5e8acaec.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 弾き語り】🌙🎀[2026-01-25]梶浦由記さん楽曲縛り🎶鬼滅の刃⧸まどマギetc.[EtJ_H4f-PgM]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21630,7 +22659,8 @@ window.SONG_DATA.push(
   "videoDuration": 3902,
   "partDuration": 257,
   "videos": 15,
-  "viewCount": 106,
+  "viewCount": 107,
+  "cover": "https://i1.hdslb.com/bfs/archive/ffd79fd7a0cbcb6a118ab7400dc8a70f5e8acaec.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 弾き語り】🌙🎀[2026-01-25]梶浦由記さん楽曲縛り🎶鬼滅の刃⧸まどマギetc.[EtJ_H4f-PgM]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21651,7 +22681,8 @@ window.SONG_DATA.push(
   "videoDuration": 3902,
   "partDuration": 228,
   "videos": 15,
-  "viewCount": 106,
+  "viewCount": 107,
+  "cover": "https://i1.hdslb.com/bfs/archive/ffd79fd7a0cbcb6a118ab7400dc8a70f5e8acaec.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 弾き語り】🌙🎀[2026-01-25]梶浦由記さん楽曲縛り🎶鬼滅の刃⧸まどマギetc.[EtJ_H4f-PgM]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21672,7 +22703,8 @@ window.SONG_DATA.push(
   "videoDuration": 3902,
   "partDuration": 274,
   "videos": 15,
-  "viewCount": 106,
+  "viewCount": 107,
+  "cover": "https://i1.hdslb.com/bfs/archive/ffd79fd7a0cbcb6a118ab7400dc8a70f5e8acaec.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 弾き語り】🌙🎀[2026-01-25]梶浦由記さん楽曲縛り🎶鬼滅の刃⧸まどマギetc.[EtJ_H4f-PgM]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21693,7 +22725,8 @@ window.SONG_DATA.push(
   "videoDuration": 3902,
   "partDuration": 255,
   "videos": 15,
-  "viewCount": 106,
+  "viewCount": 107,
+  "cover": "https://i1.hdslb.com/bfs/archive/ffd79fd7a0cbcb6a118ab7400dc8a70f5e8acaec.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 弾き語り】🌙🎀[2026-01-25]梶浦由記さん楽曲縛り🎶鬼滅の刃⧸まどマギetc.[EtJ_H4f-PgM]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21714,7 +22747,8 @@ window.SONG_DATA.push(
   "videoDuration": 3902,
   "partDuration": 250,
   "videos": 15,
-  "viewCount": 106,
+  "viewCount": 107,
+  "cover": "https://i1.hdslb.com/bfs/archive/ffd79fd7a0cbcb6a118ab7400dc8a70f5e8acaec.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 弾き語り】🌙🎀[2026-01-25]梶浦由記さん楽曲縛り🎶鬼滅の刃⧸まどマギetc.[EtJ_H4f-PgM]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21735,7 +22769,8 @@ window.SONG_DATA.push(
   "videoDuration": 3902,
   "partDuration": 326,
   "videos": 15,
-  "viewCount": 106,
+  "viewCount": 107,
+  "cover": "https://i1.hdslb.com/bfs/archive/ffd79fd7a0cbcb6a118ab7400dc8a70f5e8acaec.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 弾き語り】🌙🎀[2026-01-25]梶浦由記さん楽曲縛り🎶鬼滅の刃⧸まどマギetc.[EtJ_H4f-PgM]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21756,7 +22791,8 @@ window.SONG_DATA.push(
   "videoDuration": 3902,
   "partDuration": 265,
   "videos": 15,
-  "viewCount": 106,
+  "viewCount": 107,
+  "cover": "https://i1.hdslb.com/bfs/archive/ffd79fd7a0cbcb6a118ab7400dc8a70f5e8acaec.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 弾き語り】🌙🎀[2026-01-25]梶浦由記さん楽曲縛り🎶鬼滅の刃⧸まどマギetc.[EtJ_H4f-PgM]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21777,7 +22813,8 @@ window.SONG_DATA.push(
   "videoDuration": 3902,
   "partDuration": 306,
   "videos": 15,
-  "viewCount": 106,
+  "viewCount": 107,
+  "cover": "https://i1.hdslb.com/bfs/archive/ffd79fd7a0cbcb6a118ab7400dc8a70f5e8acaec.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 弾き語り】🌙🎀[2026-01-25]梶浦由記さん楽曲縛り🎶鬼滅の刃⧸まどマギetc.[EtJ_H4f-PgM]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21798,7 +22835,8 @@ window.SONG_DATA.push(
   "videoDuration": 3902,
   "partDuration": 277,
   "videos": 15,
-  "viewCount": 106,
+  "viewCount": 107,
+  "cover": "https://i1.hdslb.com/bfs/archive/ffd79fd7a0cbcb6a118ab7400dc8a70f5e8acaec.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 弾き語り】🌙🎀[2026-01-25]梶浦由記さん楽曲縛り🎶鬼滅の刃⧸まどマギetc.[EtJ_H4f-PgM]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21819,7 +22857,8 @@ window.SONG_DATA.push(
   "videoDuration": 3902,
   "partDuration": 348,
   "videos": 15,
-  "viewCount": 106,
+  "viewCount": 107,
+  "cover": "https://i1.hdslb.com/bfs/archive/ffd79fd7a0cbcb6a118ab7400dc8a70f5e8acaec.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 弾き語り】🌙🎀[2026-01-25]梶浦由記さん楽曲縛り🎶鬼滅の刃⧸まどマギetc.[EtJ_H4f-PgM]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21840,7 +22879,8 @@ window.SONG_DATA.push(
   "videoDuration": 3902,
   "partDuration": 213,
   "videos": 15,
-  "viewCount": 106,
+  "viewCount": 107,
+  "cover": "https://i1.hdslb.com/bfs/archive/ffd79fd7a0cbcb6a118ab7400dc8a70f5e8acaec.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 弾き語り】🌙🎀[2026-01-25]梶浦由記さん楽曲縛り🎶鬼滅の刃⧸まどマギetc.[EtJ_H4f-PgM]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21861,7 +22901,8 @@ window.SONG_DATA.push(
   "videoDuration": 3902,
   "partDuration": 281,
   "videos": 15,
-  "viewCount": 106,
+  "viewCount": 107,
+  "cover": "https://i1.hdslb.com/bfs/archive/ffd79fd7a0cbcb6a118ab7400dc8a70f5e8acaec.jpg@160w_90h_1c.webp",
   "videoTitle": "【 むんもっしゅ 弾き語り】🌙🎀[2026-01-25]梶浦由記さん楽曲縛り🎶鬼滅の刃⧸まどマギetc.[EtJ_H4f-PgM]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21882,7 +22923,8 @@ window.SONG_DATA.push(
   "videoDuration": 8858,
   "partDuration": 449,
   "videos": 29,
-  "viewCount": 196,
+  "viewCount": 200,
+  "cover": "https://i0.hdslb.com/bfs/archive/289c912eac0783a76c7cdf91842dd6a044d56a93.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-29]同接450人目指します！🎸＃耐久 [Y4RsLCOtfVk]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21903,7 +22945,8 @@ window.SONG_DATA.push(
   "videoDuration": 8858,
   "partDuration": 293,
   "videos": 29,
-  "viewCount": 196,
+  "viewCount": 200,
+  "cover": "https://i0.hdslb.com/bfs/archive/289c912eac0783a76c7cdf91842dd6a044d56a93.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-29]同接450人目指します！🎸＃耐久 [Y4RsLCOtfVk]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21924,7 +22967,8 @@ window.SONG_DATA.push(
   "videoDuration": 8858,
   "partDuration": 282,
   "videos": 29,
-  "viewCount": 196,
+  "viewCount": 200,
+  "cover": "https://i0.hdslb.com/bfs/archive/289c912eac0783a76c7cdf91842dd6a044d56a93.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-29]同接450人目指します！🎸＃耐久 [Y4RsLCOtfVk]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21945,7 +22989,8 @@ window.SONG_DATA.push(
   "videoDuration": 8858,
   "partDuration": 268,
   "videos": 29,
-  "viewCount": 196,
+  "viewCount": 200,
+  "cover": "https://i0.hdslb.com/bfs/archive/289c912eac0783a76c7cdf91842dd6a044d56a93.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-29]同接450人目指します！🎸＃耐久 [Y4RsLCOtfVk]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21966,7 +23011,8 @@ window.SONG_DATA.push(
   "videoDuration": 8858,
   "partDuration": 245,
   "videos": 29,
-  "viewCount": 196,
+  "viewCount": 200,
+  "cover": "https://i0.hdslb.com/bfs/archive/289c912eac0783a76c7cdf91842dd6a044d56a93.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-29]同接450人目指します！🎸＃耐久 [Y4RsLCOtfVk]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -21987,7 +23033,8 @@ window.SONG_DATA.push(
   "videoDuration": 8858,
   "partDuration": 368,
   "videos": 29,
-  "viewCount": 196,
+  "viewCount": 200,
+  "cover": "https://i0.hdslb.com/bfs/archive/289c912eac0783a76c7cdf91842dd6a044d56a93.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-29]同接450人目指します！🎸＃耐久 [Y4RsLCOtfVk]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22008,7 +23055,8 @@ window.SONG_DATA.push(
   "videoDuration": 8858,
   "partDuration": 300,
   "videos": 29,
-  "viewCount": 196,
+  "viewCount": 200,
+  "cover": "https://i0.hdslb.com/bfs/archive/289c912eac0783a76c7cdf91842dd6a044d56a93.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-29]同接450人目指します！🎸＃耐久 [Y4RsLCOtfVk]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22029,7 +23077,8 @@ window.SONG_DATA.push(
   "videoDuration": 8858,
   "partDuration": 338,
   "videos": 29,
-  "viewCount": 196,
+  "viewCount": 200,
+  "cover": "https://i0.hdslb.com/bfs/archive/289c912eac0783a76c7cdf91842dd6a044d56a93.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-29]同接450人目指します！🎸＃耐久 [Y4RsLCOtfVk]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22050,7 +23099,8 @@ window.SONG_DATA.push(
   "videoDuration": 8858,
   "partDuration": 404,
   "videos": 29,
-  "viewCount": 196,
+  "viewCount": 200,
+  "cover": "https://i0.hdslb.com/bfs/archive/289c912eac0783a76c7cdf91842dd6a044d56a93.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-29]同接450人目指します！🎸＃耐久 [Y4RsLCOtfVk]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22071,7 +23121,8 @@ window.SONG_DATA.push(
   "videoDuration": 8858,
   "partDuration": 284,
   "videos": 29,
-  "viewCount": 196,
+  "viewCount": 200,
+  "cover": "https://i0.hdslb.com/bfs/archive/289c912eac0783a76c7cdf91842dd6a044d56a93.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-29]同接450人目指します！🎸＃耐久 [Y4RsLCOtfVk]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22092,7 +23143,8 @@ window.SONG_DATA.push(
   "videoDuration": 8858,
   "partDuration": 282,
   "videos": 29,
-  "viewCount": 196,
+  "viewCount": 200,
+  "cover": "https://i0.hdslb.com/bfs/archive/289c912eac0783a76c7cdf91842dd6a044d56a93.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-29]同接450人目指します！🎸＃耐久 [Y4RsLCOtfVk]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22113,7 +23165,8 @@ window.SONG_DATA.push(
   "videoDuration": 8858,
   "partDuration": 283,
   "videos": 29,
-  "viewCount": 196,
+  "viewCount": 200,
+  "cover": "https://i0.hdslb.com/bfs/archive/289c912eac0783a76c7cdf91842dd6a044d56a93.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-29]同接450人目指します！🎸＃耐久 [Y4RsLCOtfVk]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22134,7 +23187,8 @@ window.SONG_DATA.push(
   "videoDuration": 8858,
   "partDuration": 317,
   "videos": 29,
-  "viewCount": 196,
+  "viewCount": 200,
+  "cover": "https://i0.hdslb.com/bfs/archive/289c912eac0783a76c7cdf91842dd6a044d56a93.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-29]同接450人目指します！🎸＃耐久 [Y4RsLCOtfVk]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22155,7 +23209,8 @@ window.SONG_DATA.push(
   "videoDuration": 8858,
   "partDuration": 322,
   "videos": 29,
-  "viewCount": 196,
+  "viewCount": 200,
+  "cover": "https://i0.hdslb.com/bfs/archive/289c912eac0783a76c7cdf91842dd6a044d56a93.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-29]同接450人目指します！🎸＃耐久 [Y4RsLCOtfVk]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22176,7 +23231,8 @@ window.SONG_DATA.push(
   "videoDuration": 8858,
   "partDuration": 318,
   "videos": 29,
-  "viewCount": 196,
+  "viewCount": 200,
+  "cover": "https://i0.hdslb.com/bfs/archive/289c912eac0783a76c7cdf91842dd6a044d56a93.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-29]同接450人目指します！🎸＃耐久 [Y4RsLCOtfVk]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22197,7 +23253,8 @@ window.SONG_DATA.push(
   "videoDuration": 8858,
   "partDuration": 373,
   "videos": 29,
-  "viewCount": 196,
+  "viewCount": 200,
+  "cover": "https://i0.hdslb.com/bfs/archive/289c912eac0783a76c7cdf91842dd6a044d56a93.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-29]同接450人目指します！🎸＃耐久 [Y4RsLCOtfVk]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22218,7 +23275,8 @@ window.SONG_DATA.push(
   "videoDuration": 8858,
   "partDuration": 374,
   "videos": 29,
-  "viewCount": 196,
+  "viewCount": 200,
+  "cover": "https://i0.hdslb.com/bfs/archive/289c912eac0783a76c7cdf91842dd6a044d56a93.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-29]同接450人目指します！🎸＃耐久 [Y4RsLCOtfVk]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22239,7 +23297,8 @@ window.SONG_DATA.push(
   "videoDuration": 8858,
   "partDuration": 291,
   "videos": 29,
-  "viewCount": 196,
+  "viewCount": 200,
+  "cover": "https://i0.hdslb.com/bfs/archive/289c912eac0783a76c7cdf91842dd6a044d56a93.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-29]同接450人目指します！🎸＃耐久 [Y4RsLCOtfVk]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22260,7 +23319,8 @@ window.SONG_DATA.push(
   "videoDuration": 8858,
   "partDuration": 287,
   "videos": 29,
-  "viewCount": 196,
+  "viewCount": 200,
+  "cover": "https://i0.hdslb.com/bfs/archive/289c912eac0783a76c7cdf91842dd6a044d56a93.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-29]同接450人目指します！🎸＃耐久 [Y4RsLCOtfVk]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22281,7 +23341,8 @@ window.SONG_DATA.push(
   "videoDuration": 8858,
   "partDuration": 321,
   "videos": 29,
-  "viewCount": 196,
+  "viewCount": 200,
+  "cover": "https://i0.hdslb.com/bfs/archive/289c912eac0783a76c7cdf91842dd6a044d56a93.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-29]同接450人目指します！🎸＃耐久 [Y4RsLCOtfVk]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22302,7 +23363,8 @@ window.SONG_DATA.push(
   "videoDuration": 8858,
   "partDuration": 172,
   "videos": 29,
-  "viewCount": 196,
+  "viewCount": 200,
+  "cover": "https://i0.hdslb.com/bfs/archive/289c912eac0783a76c7cdf91842dd6a044d56a93.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-29]同接450人目指します！🎸＃耐久 [Y4RsLCOtfVk]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22323,7 +23385,8 @@ window.SONG_DATA.push(
   "videoDuration": 8858,
   "partDuration": 323,
   "videos": 29,
-  "viewCount": 196,
+  "viewCount": 200,
+  "cover": "https://i0.hdslb.com/bfs/archive/289c912eac0783a76c7cdf91842dd6a044d56a93.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-29]同接450人目指します！🎸＃耐久 [Y4RsLCOtfVk]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22344,7 +23407,8 @@ window.SONG_DATA.push(
   "videoDuration": 8858,
   "partDuration": 255,
   "videos": 29,
-  "viewCount": 196,
+  "viewCount": 200,
+  "cover": "https://i0.hdslb.com/bfs/archive/289c912eac0783a76c7cdf91842dd6a044d56a93.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-29]同接450人目指します！🎸＃耐久 [Y4RsLCOtfVk]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22365,7 +23429,8 @@ window.SONG_DATA.push(
   "videoDuration": 8858,
   "partDuration": 284,
   "videos": 29,
-  "viewCount": 196,
+  "viewCount": 200,
+  "cover": "https://i0.hdslb.com/bfs/archive/289c912eac0783a76c7cdf91842dd6a044d56a93.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-29]同接450人目指します！🎸＃耐久 [Y4RsLCOtfVk]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22386,7 +23451,8 @@ window.SONG_DATA.push(
   "videoDuration": 8858,
   "partDuration": 271,
   "videos": 29,
-  "viewCount": 196,
+  "viewCount": 200,
+  "cover": "https://i0.hdslb.com/bfs/archive/289c912eac0783a76c7cdf91842dd6a044d56a93.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-29]同接450人目指します！🎸＃耐久 [Y4RsLCOtfVk]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22407,7 +23473,8 @@ window.SONG_DATA.push(
   "videoDuration": 8858,
   "partDuration": 208,
   "videos": 29,
-  "viewCount": 196,
+  "viewCount": 200,
+  "cover": "https://i0.hdslb.com/bfs/archive/289c912eac0783a76c7cdf91842dd6a044d56a93.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-29]同接450人目指します！🎸＃耐久 [Y4RsLCOtfVk]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22428,7 +23495,8 @@ window.SONG_DATA.push(
   "videoDuration": 8858,
   "partDuration": 326,
   "videos": 29,
-  "viewCount": 196,
+  "viewCount": 200,
+  "cover": "https://i0.hdslb.com/bfs/archive/289c912eac0783a76c7cdf91842dd6a044d56a93.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-29]同接450人目指します！🎸＃耐久 [Y4RsLCOtfVk]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22449,7 +23517,8 @@ window.SONG_DATA.push(
   "videoDuration": 8858,
   "partDuration": 342,
   "videos": 29,
-  "viewCount": 196,
+  "viewCount": 200,
+  "cover": "https://i0.hdslb.com/bfs/archive/289c912eac0783a76c7cdf91842dd6a044d56a93.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-29]同接450人目指します！🎸＃耐久 [Y4RsLCOtfVk]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22470,7 +23539,8 @@ window.SONG_DATA.push(
   "videoDuration": 8858,
   "partDuration": 278,
   "videos": 29,
-  "viewCount": 196,
+  "viewCount": 200,
+  "cover": "https://i0.hdslb.com/bfs/archive/289c912eac0783a76c7cdf91842dd6a044d56a93.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-29]同接450人目指します！🎸＃耐久 [Y4RsLCOtfVk]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22491,7 +23561,8 @@ window.SONG_DATA.push(
   "videoDuration": 1730,
   "partDuration": 280,
   "videos": 7,
-  "viewCount": 189,
+  "viewCount": 193,
+  "cover": "https://i2.hdslb.com/bfs/archive/2eb008897a55c0607cbd6059c28ed1a7b32ed625.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-31]【 #アコースティック歌枠リレー 】アコギは癒し🎸むんもっしゅです！  [E0No-54UhS4]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22512,7 +23583,8 @@ window.SONG_DATA.push(
   "videoDuration": 1730,
   "partDuration": 194,
   "videos": 7,
-  "viewCount": 189,
+  "viewCount": 193,
+  "cover": "https://i2.hdslb.com/bfs/archive/2eb008897a55c0607cbd6059c28ed1a7b32ed625.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-31]【 #アコースティック歌枠リレー 】アコギは癒し🎸むんもっしゅです！  [E0No-54UhS4]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22533,7 +23605,8 @@ window.SONG_DATA.push(
   "videoDuration": 1730,
   "partDuration": 180,
   "videos": 7,
-  "viewCount": 189,
+  "viewCount": 193,
+  "cover": "https://i2.hdslb.com/bfs/archive/2eb008897a55c0607cbd6059c28ed1a7b32ed625.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-31]【 #アコースティック歌枠リレー 】アコギは癒し🎸むんもっしゅです！  [E0No-54UhS4]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22554,7 +23627,8 @@ window.SONG_DATA.push(
   "videoDuration": 1730,
   "partDuration": 317,
   "videos": 7,
-  "viewCount": 189,
+  "viewCount": 193,
+  "cover": "https://i2.hdslb.com/bfs/archive/2eb008897a55c0607cbd6059c28ed1a7b32ed625.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-31]【 #アコースティック歌枠リレー 】アコギは癒し🎸むんもっしゅです！  [E0No-54UhS4]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22575,7 +23649,8 @@ window.SONG_DATA.push(
   "videoDuration": 1730,
   "partDuration": 199,
   "videos": 7,
-  "viewCount": 189,
+  "viewCount": 193,
+  "cover": "https://i2.hdslb.com/bfs/archive/2eb008897a55c0607cbd6059c28ed1a7b32ed625.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-31]【 #アコースティック歌枠リレー 】アコギは癒し🎸むんもっしゅです！  [E0No-54UhS4]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22596,7 +23671,8 @@ window.SONG_DATA.push(
   "videoDuration": 1730,
   "partDuration": 218,
   "videos": 7,
-  "viewCount": 189,
+  "viewCount": 193,
+  "cover": "https://i2.hdslb.com/bfs/archive/2eb008897a55c0607cbd6059c28ed1a7b32ed625.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-31]【 #アコースティック歌枠リレー 】アコギは癒し🎸むんもっしゅです！  [E0No-54UhS4]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22617,7 +23693,8 @@ window.SONG_DATA.push(
   "videoDuration": 1730,
   "partDuration": 342,
   "videos": 7,
-  "viewCount": 189,
+  "viewCount": 193,
+  "cover": "https://i2.hdslb.com/bfs/archive/2eb008897a55c0607cbd6059c28ed1a7b32ed625.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-01-31]【 #アコースティック歌枠リレー 】アコギは癒し🎸むんもっしゅです！  [E0No-54UhS4]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22638,7 +23715,8 @@ window.SONG_DATA.push(
   "videoDuration": 4291,
   "partDuration": 223,
   "videos": 15,
-  "viewCount": 80,
+  "viewCount": 83,
+  "cover": "https://i1.hdslb.com/bfs/archive/e72244790d1135bc92d934090734f9dc7010d030.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-02-03]初見さん大歓迎✨️リクエスト曲を弾き語り🎸 [ziXV0hkYrL0]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22659,7 +23737,8 @@ window.SONG_DATA.push(
   "videoDuration": 4291,
   "partDuration": 281,
   "videos": 15,
-  "viewCount": 80,
+  "viewCount": 83,
+  "cover": "https://i1.hdslb.com/bfs/archive/e72244790d1135bc92d934090734f9dc7010d030.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-02-03]初見さん大歓迎✨️リクエスト曲を弾き語り🎸 [ziXV0hkYrL0]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22680,7 +23759,8 @@ window.SONG_DATA.push(
   "videoDuration": 4291,
   "partDuration": 377,
   "videos": 15,
-  "viewCount": 80,
+  "viewCount": 83,
+  "cover": "https://i1.hdslb.com/bfs/archive/e72244790d1135bc92d934090734f9dc7010d030.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-02-03]初見さん大歓迎✨️リクエスト曲を弾き語り🎸 [ziXV0hkYrL0]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22701,7 +23781,8 @@ window.SONG_DATA.push(
   "videoDuration": 4291,
   "partDuration": 263,
   "videos": 15,
-  "viewCount": 80,
+  "viewCount": 83,
+  "cover": "https://i1.hdslb.com/bfs/archive/e72244790d1135bc92d934090734f9dc7010d030.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-02-03]初見さん大歓迎✨️リクエスト曲を弾き語り🎸 [ziXV0hkYrL0]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22722,7 +23803,8 @@ window.SONG_DATA.push(
   "videoDuration": 4291,
   "partDuration": 365,
   "videos": 15,
-  "viewCount": 80,
+  "viewCount": 83,
+  "cover": "https://i1.hdslb.com/bfs/archive/e72244790d1135bc92d934090734f9dc7010d030.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-02-03]初見さん大歓迎✨️リクエスト曲を弾き語り🎸 [ziXV0hkYrL0]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22743,7 +23825,8 @@ window.SONG_DATA.push(
   "videoDuration": 4291,
   "partDuration": 233,
   "videos": 15,
-  "viewCount": 80,
+  "viewCount": 83,
+  "cover": "https://i1.hdslb.com/bfs/archive/e72244790d1135bc92d934090734f9dc7010d030.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-02-03]初見さん大歓迎✨️リクエスト曲を弾き語り🎸 [ziXV0hkYrL0]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22764,7 +23847,8 @@ window.SONG_DATA.push(
   "videoDuration": 4291,
   "partDuration": 247,
   "videos": 15,
-  "viewCount": 80,
+  "viewCount": 83,
+  "cover": "https://i1.hdslb.com/bfs/archive/e72244790d1135bc92d934090734f9dc7010d030.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-02-03]初見さん大歓迎✨️リクエスト曲を弾き語り🎸 [ziXV0hkYrL0]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22785,7 +23869,8 @@ window.SONG_DATA.push(
   "videoDuration": 4291,
   "partDuration": 322,
   "videos": 15,
-  "viewCount": 80,
+  "viewCount": 83,
+  "cover": "https://i1.hdslb.com/bfs/archive/e72244790d1135bc92d934090734f9dc7010d030.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-02-03]初見さん大歓迎✨️リクエスト曲を弾き語り🎸 [ziXV0hkYrL0]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22806,7 +23891,8 @@ window.SONG_DATA.push(
   "videoDuration": 4291,
   "partDuration": 266,
   "videos": 15,
-  "viewCount": 80,
+  "viewCount": 83,
+  "cover": "https://i1.hdslb.com/bfs/archive/e72244790d1135bc92d934090734f9dc7010d030.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-02-03]初見さん大歓迎✨️リクエスト曲を弾き語り🎸 [ziXV0hkYrL0]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22827,7 +23913,8 @@ window.SONG_DATA.push(
   "videoDuration": 4291,
   "partDuration": 328,
   "videos": 15,
-  "viewCount": 80,
+  "viewCount": 83,
+  "cover": "https://i1.hdslb.com/bfs/archive/e72244790d1135bc92d934090734f9dc7010d030.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-02-03]初見さん大歓迎✨️リクエスト曲を弾き語り🎸 [ziXV0hkYrL0]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22848,7 +23935,8 @@ window.SONG_DATA.push(
   "videoDuration": 4291,
   "partDuration": 322,
   "videos": 15,
-  "viewCount": 80,
+  "viewCount": 83,
+  "cover": "https://i1.hdslb.com/bfs/archive/e72244790d1135bc92d934090734f9dc7010d030.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-02-03]初見さん大歓迎✨️リクエスト曲を弾き語り🎸 [ziXV0hkYrL0]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22869,7 +23957,8 @@ window.SONG_DATA.push(
   "videoDuration": 4291,
   "partDuration": 235,
   "videos": 15,
-  "viewCount": 80,
+  "viewCount": 83,
+  "cover": "https://i1.hdslb.com/bfs/archive/e72244790d1135bc92d934090734f9dc7010d030.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-02-03]初見さん大歓迎✨️リクエスト曲を弾き語り🎸 [ziXV0hkYrL0]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22890,7 +23979,8 @@ window.SONG_DATA.push(
   "videoDuration": 4291,
   "partDuration": 255,
   "videos": 15,
-  "viewCount": 80,
+  "viewCount": 83,
+  "cover": "https://i1.hdslb.com/bfs/archive/e72244790d1135bc92d934090734f9dc7010d030.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-02-03]初見さん大歓迎✨️リクエスト曲を弾き語り🎸 [ziXV0hkYrL0]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22911,7 +24001,8 @@ window.SONG_DATA.push(
   "videoDuration": 4291,
   "partDuration": 277,
   "videos": 15,
-  "viewCount": 80,
+  "viewCount": 83,
+  "cover": "https://i1.hdslb.com/bfs/archive/e72244790d1135bc92d934090734f9dc7010d030.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-02-03]初見さん大歓迎✨️リクエスト曲を弾き語り🎸 [ziXV0hkYrL0]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22932,7 +24023,8 @@ window.SONG_DATA.push(
   "videoDuration": 4291,
   "partDuration": 297,
   "videos": 15,
-  "viewCount": 80,
+  "viewCount": 83,
+  "cover": "https://i1.hdslb.com/bfs/archive/e72244790d1135bc92d934090734f9dc7010d030.jpg@160w_90h_1c.webp",
   "videoTitle": "[2026-02-03]初見さん大歓迎✨️リクエスト曲を弾き語り🎸 [ziXV0hkYrL0]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22953,7 +24045,8 @@ window.SONG_DATA.push(
   "videoDuration": 4008,
   "partDuration": 220,
   "videos": 17,
-  "viewCount": 165,
+  "viewCount": 171,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5d299cfa79f30d5049195ff3510db5d6320221e.jpg@160w_90h_1c.webp",
   "videoTitle": "80年代～90年代アニソン！老人会[2026-02-06][NGO8NIIf9XY]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22974,7 +24067,8 @@ window.SONG_DATA.push(
   "videoDuration": 4008,
   "partDuration": 201,
   "videos": 17,
-  "viewCount": 165,
+  "viewCount": 171,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5d299cfa79f30d5049195ff3510db5d6320221e.jpg@160w_90h_1c.webp",
   "videoTitle": "80年代～90年代アニソン！老人会[2026-02-06][NGO8NIIf9XY]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -22995,7 +24089,8 @@ window.SONG_DATA.push(
   "videoDuration": 4008,
   "partDuration": 268,
   "videos": 17,
-  "viewCount": 165,
+  "viewCount": 171,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5d299cfa79f30d5049195ff3510db5d6320221e.jpg@160w_90h_1c.webp",
   "videoTitle": "80年代～90年代アニソン！老人会[2026-02-06][NGO8NIIf9XY]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -23016,7 +24111,8 @@ window.SONG_DATA.push(
   "videoDuration": 4008,
   "partDuration": 200,
   "videos": 17,
-  "viewCount": 165,
+  "viewCount": 171,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5d299cfa79f30d5049195ff3510db5d6320221e.jpg@160w_90h_1c.webp",
   "videoTitle": "80年代～90年代アニソン！老人会[2026-02-06][NGO8NIIf9XY]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -23037,7 +24133,8 @@ window.SONG_DATA.push(
   "videoDuration": 4008,
   "partDuration": 212,
   "videos": 17,
-  "viewCount": 165,
+  "viewCount": 171,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5d299cfa79f30d5049195ff3510db5d6320221e.jpg@160w_90h_1c.webp",
   "videoTitle": "80年代～90年代アニソン！老人会[2026-02-06][NGO8NIIf9XY]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -23058,7 +24155,8 @@ window.SONG_DATA.push(
   "videoDuration": 4008,
   "partDuration": 200,
   "videos": 17,
-  "viewCount": 165,
+  "viewCount": 171,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5d299cfa79f30d5049195ff3510db5d6320221e.jpg@160w_90h_1c.webp",
   "videoTitle": "80年代～90年代アニソン！老人会[2026-02-06][NGO8NIIf9XY]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -23079,7 +24177,8 @@ window.SONG_DATA.push(
   "videoDuration": 4008,
   "partDuration": 238,
   "videos": 17,
-  "viewCount": 165,
+  "viewCount": 171,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5d299cfa79f30d5049195ff3510db5d6320221e.jpg@160w_90h_1c.webp",
   "videoTitle": "80年代～90年代アニソン！老人会[2026-02-06][NGO8NIIf9XY]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -23100,7 +24199,8 @@ window.SONG_DATA.push(
   "videoDuration": 4008,
   "partDuration": 220,
   "videos": 17,
-  "viewCount": 165,
+  "viewCount": 171,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5d299cfa79f30d5049195ff3510db5d6320221e.jpg@160w_90h_1c.webp",
   "videoTitle": "80年代～90年代アニソン！老人会[2026-02-06][NGO8NIIf9XY]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -23121,7 +24221,8 @@ window.SONG_DATA.push(
   "videoDuration": 4008,
   "partDuration": 146,
   "videos": 17,
-  "viewCount": 165,
+  "viewCount": 171,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5d299cfa79f30d5049195ff3510db5d6320221e.jpg@160w_90h_1c.webp",
   "videoTitle": "80年代～90年代アニソン！老人会[2026-02-06][NGO8NIIf9XY]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -23142,7 +24243,8 @@ window.SONG_DATA.push(
   "videoDuration": 4008,
   "partDuration": 276,
   "videos": 17,
-  "viewCount": 165,
+  "viewCount": 171,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5d299cfa79f30d5049195ff3510db5d6320221e.jpg@160w_90h_1c.webp",
   "videoTitle": "80年代～90年代アニソン！老人会[2026-02-06][NGO8NIIf9XY]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -23163,7 +24265,8 @@ window.SONG_DATA.push(
   "videoDuration": 4008,
   "partDuration": 235,
   "videos": 17,
-  "viewCount": 165,
+  "viewCount": 171,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5d299cfa79f30d5049195ff3510db5d6320221e.jpg@160w_90h_1c.webp",
   "videoTitle": "80年代～90年代アニソン！老人会[2026-02-06][NGO8NIIf9XY]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -23184,7 +24287,8 @@ window.SONG_DATA.push(
   "videoDuration": 4008,
   "partDuration": 293,
   "videos": 17,
-  "viewCount": 165,
+  "viewCount": 171,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5d299cfa79f30d5049195ff3510db5d6320221e.jpg@160w_90h_1c.webp",
   "videoTitle": "80年代～90年代アニソン！老人会[2026-02-06][NGO8NIIf9XY]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -23205,7 +24309,8 @@ window.SONG_DATA.push(
   "videoDuration": 4008,
   "partDuration": 232,
   "videos": 17,
-  "viewCount": 165,
+  "viewCount": 171,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5d299cfa79f30d5049195ff3510db5d6320221e.jpg@160w_90h_1c.webp",
   "videoTitle": "80年代～90年代アニソン！老人会[2026-02-06][NGO8NIIf9XY]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -23226,7 +24331,8 @@ window.SONG_DATA.push(
   "videoDuration": 4008,
   "partDuration": 237,
   "videos": 17,
-  "viewCount": 165,
+  "viewCount": 171,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5d299cfa79f30d5049195ff3510db5d6320221e.jpg@160w_90h_1c.webp",
   "videoTitle": "80年代～90年代アニソン！老人会[2026-02-06][NGO8NIIf9XY]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -23247,7 +24353,8 @@ window.SONG_DATA.push(
   "videoDuration": 4008,
   "partDuration": 314,
   "videos": 17,
-  "viewCount": 165,
+  "viewCount": 171,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5d299cfa79f30d5049195ff3510db5d6320221e.jpg@160w_90h_1c.webp",
   "videoTitle": "80年代～90年代アニソン！老人会[2026-02-06][NGO8NIIf9XY]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -23268,7 +24375,8 @@ window.SONG_DATA.push(
   "videoDuration": 4008,
   "partDuration": 273,
   "videos": 17,
-  "viewCount": 165,
+  "viewCount": 171,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5d299cfa79f30d5049195ff3510db5d6320221e.jpg@160w_90h_1c.webp",
   "videoTitle": "80年代～90年代アニソン！老人会[2026-02-06][NGO8NIIf9XY]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -23289,7 +24397,8 @@ window.SONG_DATA.push(
   "videoDuration": 4008,
   "partDuration": 243,
   "videos": 17,
-  "viewCount": 165,
+  "viewCount": 171,
+  "cover": "https://i0.hdslb.com/bfs/archive/a5d299cfa79f30d5049195ff3510db5d6320221e.jpg@160w_90h_1c.webp",
   "videoTitle": "80年代～90年代アニソン！老人会[2026-02-06][NGO8NIIf9XY]【 むんもっしゅ 弾き語り】🌙🎀",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367

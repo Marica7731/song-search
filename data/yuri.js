@@ -1,6 +1,6 @@
 // 優莉 yuri - 歌单数据 (多合集汇总)
 // 来源: BV1aDzEBBE3S
-// 生成时间: 2026/4/14 08:59:56
+// 生成时间: 2026/5/24 23:46:29
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -21,7 +21,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 223,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -42,7 +43,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 122,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -63,7 +65,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 265,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -84,7 +87,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 171,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -105,7 +109,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 213,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -126,7 +131,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 296,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -147,7 +153,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 118,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -168,7 +175,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 276,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -189,7 +197,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 141,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -210,7 +219,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 166,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -231,7 +241,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 178,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -252,7 +263,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 232,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -273,7 +285,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 322,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -294,7 +307,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 423,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -315,7 +329,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 265,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -336,7 +351,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 295,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -357,7 +373,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 224,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -378,7 +395,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 293,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -399,7 +417,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 265,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -420,7 +439,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 165,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -441,7 +461,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 134,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -462,7 +483,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 309,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -483,7 +505,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 354,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -504,7 +527,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 207,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -525,7 +549,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 121,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -546,7 +571,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 122,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -567,7 +593,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 299,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -588,7 +615,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 226,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -609,7 +637,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 164,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -630,7 +659,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 233,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -651,7 +681,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 237,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -672,7 +703,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 218,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -693,7 +725,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 218,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -714,7 +747,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 287,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -735,7 +769,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 159,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -756,7 +791,8 @@ window.SONG_DATA.push(
   "videoDuration": 8114,
   "partDuration": 173,
   "videos": 36,
-  "viewCount": 1224,
+  "viewCount": 3781,
+  "cover": "https://i1.hdslb.com/bfs/archive/c5f3adb803d6f6411f66290adef43307bae4c1d5.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語り】2025-12-31 7300粉丝耐久歌回 ~ 2026-01-13 今年もよろしくお願いします！生演奏",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -777,7 +813,8 @@ window.SONG_DATA.push(
   "videoDuration": 2423,
   "partDuration": 312,
   "videos": 10,
-  "viewCount": 58,
+  "viewCount": 102,
+  "cover": "https://i2.hdslb.com/bfs/archive/a5f8c8c63dc46988c4f44504f215f4ec2a3d81fe.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -798,7 +835,8 @@ window.SONG_DATA.push(
   "videoDuration": 2423,
   "partDuration": 251,
   "videos": 10,
-  "viewCount": 58,
+  "viewCount": 102,
+  "cover": "https://i2.hdslb.com/bfs/archive/a5f8c8c63dc46988c4f44504f215f4ec2a3d81fe.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -819,7 +857,8 @@ window.SONG_DATA.push(
   "videoDuration": 2423,
   "partDuration": 213,
   "videos": 10,
-  "viewCount": 58,
+  "viewCount": 102,
+  "cover": "https://i2.hdslb.com/bfs/archive/a5f8c8c63dc46988c4f44504f215f4ec2a3d81fe.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -840,7 +879,8 @@ window.SONG_DATA.push(
   "videoDuration": 2423,
   "partDuration": 254,
   "videos": 10,
-  "viewCount": 58,
+  "viewCount": 102,
+  "cover": "https://i2.hdslb.com/bfs/archive/a5f8c8c63dc46988c4f44504f215f4ec2a3d81fe.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -861,7 +901,8 @@ window.SONG_DATA.push(
   "videoDuration": 2423,
   "partDuration": 231,
   "videos": 10,
-  "viewCount": 58,
+  "viewCount": 102,
+  "cover": "https://i2.hdslb.com/bfs/archive/a5f8c8c63dc46988c4f44504f215f4ec2a3d81fe.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -882,7 +923,8 @@ window.SONG_DATA.push(
   "videoDuration": 2423,
   "partDuration": 234,
   "videos": 10,
-  "viewCount": 58,
+  "viewCount": 102,
+  "cover": "https://i2.hdslb.com/bfs/archive/a5f8c8c63dc46988c4f44504f215f4ec2a3d81fe.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -903,7 +945,8 @@ window.SONG_DATA.push(
   "videoDuration": 2423,
   "partDuration": 190,
   "videos": 10,
-  "viewCount": 58,
+  "viewCount": 102,
+  "cover": "https://i2.hdslb.com/bfs/archive/a5f8c8c63dc46988c4f44504f215f4ec2a3d81fe.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -924,7 +967,8 @@ window.SONG_DATA.push(
   "videoDuration": 2423,
   "partDuration": 278,
   "videos": 10,
-  "viewCount": 58,
+  "viewCount": 102,
+  "cover": "https://i2.hdslb.com/bfs/archive/a5f8c8c63dc46988c4f44504f215f4ec2a3d81fe.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -945,7 +989,8 @@ window.SONG_DATA.push(
   "videoDuration": 2423,
   "partDuration": 278,
   "videos": 10,
-  "viewCount": 58,
+  "viewCount": 102,
+  "cover": "https://i2.hdslb.com/bfs/archive/a5f8c8c63dc46988c4f44504f215f4ec2a3d81fe.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -966,7 +1011,8 @@ window.SONG_DATA.push(
   "videoDuration": 2423,
   "partDuration": 182,
   "videos": 10,
-  "viewCount": 58,
+  "viewCount": 102,
+  "cover": "https://i2.hdslb.com/bfs/archive/a5f8c8c63dc46988c4f44504f215f4ec2a3d81fe.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -987,7 +1033,8 @@ window.SONG_DATA.push(
   "videoDuration": 2936,
   "partDuration": 313,
   "videos": 12,
-  "viewCount": 36,
+  "viewCount": 90,
+  "cover": "https://i2.hdslb.com/bfs/archive/a5f8c8c63dc46988c4f44504f215f4ec2a3d81fe.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語】[2026-01-25] 弾き語ります！！ [EQ8XsBzLBYo]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1008,7 +1055,8 @@ window.SONG_DATA.push(
   "videoDuration": 2936,
   "partDuration": 176,
   "videos": 12,
-  "viewCount": 36,
+  "viewCount": 90,
+  "cover": "https://i2.hdslb.com/bfs/archive/a5f8c8c63dc46988c4f44504f215f4ec2a3d81fe.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語】[2026-01-25] 弾き語ります！！ [EQ8XsBzLBYo]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1029,7 +1077,8 @@ window.SONG_DATA.push(
   "videoDuration": 2936,
   "partDuration": 275,
   "videos": 12,
-  "viewCount": 36,
+  "viewCount": 90,
+  "cover": "https://i2.hdslb.com/bfs/archive/a5f8c8c63dc46988c4f44504f215f4ec2a3d81fe.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語】[2026-01-25] 弾き語ります！！ [EQ8XsBzLBYo]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1050,7 +1099,8 @@ window.SONG_DATA.push(
   "videoDuration": 2936,
   "partDuration": 314,
   "videos": 12,
-  "viewCount": 36,
+  "viewCount": 90,
+  "cover": "https://i2.hdslb.com/bfs/archive/a5f8c8c63dc46988c4f44504f215f4ec2a3d81fe.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語】[2026-01-25] 弾き語ります！！ [EQ8XsBzLBYo]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1071,7 +1121,8 @@ window.SONG_DATA.push(
   "videoDuration": 2936,
   "partDuration": 245,
   "videos": 12,
-  "viewCount": 36,
+  "viewCount": 90,
+  "cover": "https://i2.hdslb.com/bfs/archive/a5f8c8c63dc46988c4f44504f215f4ec2a3d81fe.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語】[2026-01-25] 弾き語ります！！ [EQ8XsBzLBYo]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1092,7 +1143,8 @@ window.SONG_DATA.push(
   "videoDuration": 2936,
   "partDuration": 246,
   "videos": 12,
-  "viewCount": 36,
+  "viewCount": 90,
+  "cover": "https://i2.hdslb.com/bfs/archive/a5f8c8c63dc46988c4f44504f215f4ec2a3d81fe.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語】[2026-01-25] 弾き語ります！！ [EQ8XsBzLBYo]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1113,7 +1165,8 @@ window.SONG_DATA.push(
   "videoDuration": 2936,
   "partDuration": 254,
   "videos": 12,
-  "viewCount": 36,
+  "viewCount": 90,
+  "cover": "https://i2.hdslb.com/bfs/archive/a5f8c8c63dc46988c4f44504f215f4ec2a3d81fe.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語】[2026-01-25] 弾き語ります！！ [EQ8XsBzLBYo]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1134,7 +1187,8 @@ window.SONG_DATA.push(
   "videoDuration": 2936,
   "partDuration": 251,
   "videos": 12,
-  "viewCount": 36,
+  "viewCount": 90,
+  "cover": "https://i2.hdslb.com/bfs/archive/a5f8c8c63dc46988c4f44504f215f4ec2a3d81fe.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語】[2026-01-25] 弾き語ります！！ [EQ8XsBzLBYo]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1155,7 +1209,8 @@ window.SONG_DATA.push(
   "videoDuration": 2936,
   "partDuration": 161,
   "videos": 12,
-  "viewCount": 36,
+  "viewCount": 90,
+  "cover": "https://i2.hdslb.com/bfs/archive/a5f8c8c63dc46988c4f44504f215f4ec2a3d81fe.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語】[2026-01-25] 弾き語ります！！ [EQ8XsBzLBYo]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1176,7 +1231,8 @@ window.SONG_DATA.push(
   "videoDuration": 2936,
   "partDuration": 241,
   "videos": 12,
-  "viewCount": 36,
+  "viewCount": 90,
+  "cover": "https://i2.hdslb.com/bfs/archive/a5f8c8c63dc46988c4f44504f215f4ec2a3d81fe.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語】[2026-01-25] 弾き語ります！！ [EQ8XsBzLBYo]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1197,7 +1253,8 @@ window.SONG_DATA.push(
   "videoDuration": 2936,
   "partDuration": 292,
   "videos": 12,
-  "viewCount": 36,
+  "viewCount": 90,
+  "cover": "https://i2.hdslb.com/bfs/archive/a5f8c8c63dc46988c4f44504f215f4ec2a3d81fe.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語】[2026-01-25] 弾き語ります！！ [EQ8XsBzLBYo]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1218,7 +1275,8 @@ window.SONG_DATA.push(
   "videoDuration": 2936,
   "partDuration": 168,
   "videos": 12,
-  "viewCount": 36,
+  "viewCount": 90,
+  "cover": "https://i2.hdslb.com/bfs/archive/a5f8c8c63dc46988c4f44504f215f4ec2a3d81fe.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 弾き語】[2026-01-25] 弾き語ります！！ [EQ8XsBzLBYo]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1239,7 +1297,8 @@ window.SONG_DATA.push(
   "videoDuration": 3022,
   "partDuration": 262,
   "videos": 13,
-  "viewCount": 86,
+  "viewCount": 126,
+  "cover": "https://i0.hdslb.com/bfs/archive/36d778217e4d79e78ebf9fb08dd2c6b3dcab2e38.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1260,7 +1319,8 @@ window.SONG_DATA.push(
   "videoDuration": 3022,
   "partDuration": 166,
   "videos": 13,
-  "viewCount": 86,
+  "viewCount": 126,
+  "cover": "https://i0.hdslb.com/bfs/archive/36d778217e4d79e78ebf9fb08dd2c6b3dcab2e38.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1281,7 +1341,8 @@ window.SONG_DATA.push(
   "videoDuration": 3022,
   "partDuration": 136,
   "videos": 13,
-  "viewCount": 86,
+  "viewCount": 126,
+  "cover": "https://i0.hdslb.com/bfs/archive/36d778217e4d79e78ebf9fb08dd2c6b3dcab2e38.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1302,7 +1363,8 @@ window.SONG_DATA.push(
   "videoDuration": 3022,
   "partDuration": 287,
   "videos": 13,
-  "viewCount": 86,
+  "viewCount": 126,
+  "cover": "https://i0.hdslb.com/bfs/archive/36d778217e4d79e78ebf9fb08dd2c6b3dcab2e38.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1323,7 +1385,8 @@ window.SONG_DATA.push(
   "videoDuration": 3022,
   "partDuration": 311,
   "videos": 13,
-  "viewCount": 86,
+  "viewCount": 126,
+  "cover": "https://i0.hdslb.com/bfs/archive/36d778217e4d79e78ebf9fb08dd2c6b3dcab2e38.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1344,7 +1407,8 @@ window.SONG_DATA.push(
   "videoDuration": 3022,
   "partDuration": 223,
   "videos": 13,
-  "viewCount": 86,
+  "viewCount": 126,
+  "cover": "https://i0.hdslb.com/bfs/archive/36d778217e4d79e78ebf9fb08dd2c6b3dcab2e38.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1365,7 +1429,8 @@ window.SONG_DATA.push(
   "videoDuration": 3022,
   "partDuration": 240,
   "videos": 13,
-  "viewCount": 86,
+  "viewCount": 126,
+  "cover": "https://i0.hdslb.com/bfs/archive/36d778217e4d79e78ebf9fb08dd2c6b3dcab2e38.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1386,7 +1451,8 @@ window.SONG_DATA.push(
   "videoDuration": 3022,
   "partDuration": 232,
   "videos": 13,
-  "viewCount": 86,
+  "viewCount": 126,
+  "cover": "https://i0.hdslb.com/bfs/archive/36d778217e4d79e78ebf9fb08dd2c6b3dcab2e38.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1407,7 +1473,8 @@ window.SONG_DATA.push(
   "videoDuration": 3022,
   "partDuration": 214,
   "videos": 13,
-  "viewCount": 86,
+  "viewCount": 126,
+  "cover": "https://i0.hdslb.com/bfs/archive/36d778217e4d79e78ebf9fb08dd2c6b3dcab2e38.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1428,7 +1495,8 @@ window.SONG_DATA.push(
   "videoDuration": 3022,
   "partDuration": 248,
   "videos": 13,
-  "viewCount": 86,
+  "viewCount": 126,
+  "cover": "https://i0.hdslb.com/bfs/archive/36d778217e4d79e78ebf9fb08dd2c6b3dcab2e38.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1449,7 +1517,8 @@ window.SONG_DATA.push(
   "videoDuration": 3022,
   "partDuration": 298,
   "videos": 13,
-  "viewCount": 86,
+  "viewCount": 126,
+  "cover": "https://i0.hdslb.com/bfs/archive/36d778217e4d79e78ebf9fb08dd2c6b3dcab2e38.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1470,7 +1539,8 @@ window.SONG_DATA.push(
   "videoDuration": 3022,
   "partDuration": 238,
   "videos": 13,
-  "viewCount": 86,
+  "viewCount": 126,
+  "cover": "https://i0.hdslb.com/bfs/archive/36d778217e4d79e78ebf9fb08dd2c6b3dcab2e38.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1491,7 +1561,8 @@ window.SONG_DATA.push(
   "videoDuration": 3022,
   "partDuration": 167,
   "videos": 13,
-  "viewCount": 86,
+  "viewCount": 126,
+  "cover": "https://i0.hdslb.com/bfs/archive/36d778217e4d79e78ebf9fb08dd2c6b3dcab2e38.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1512,7 +1583,8 @@ window.SONG_DATA.push(
   "videoDuration": 4831,
   "partDuration": 340,
   "videos": 20,
-  "viewCount": 83,
+  "viewCount": 117,
+  "cover": "https://i2.hdslb.com/bfs/archive/cdc30e6a77e7498bb1ad8c482605661ba9ac0925.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉】弾き語りするよ♪[2026-02-07][s3kLx-ChK_o]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1533,7 +1605,8 @@ window.SONG_DATA.push(
   "videoDuration": 4831,
   "partDuration": 259,
   "videos": 20,
-  "viewCount": 83,
+  "viewCount": 117,
+  "cover": "https://i2.hdslb.com/bfs/archive/cdc30e6a77e7498bb1ad8c482605661ba9ac0925.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉】弾き語りするよ♪[2026-02-07][s3kLx-ChK_o]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1554,7 +1627,8 @@ window.SONG_DATA.push(
   "videoDuration": 4831,
   "partDuration": 312,
   "videos": 20,
-  "viewCount": 83,
+  "viewCount": 117,
+  "cover": "https://i2.hdslb.com/bfs/archive/cdc30e6a77e7498bb1ad8c482605661ba9ac0925.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉】弾き語りするよ♪[2026-02-07][s3kLx-ChK_o]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1575,7 +1649,8 @@ window.SONG_DATA.push(
   "videoDuration": 4831,
   "partDuration": 269,
   "videos": 20,
-  "viewCount": 83,
+  "viewCount": 117,
+  "cover": "https://i2.hdslb.com/bfs/archive/cdc30e6a77e7498bb1ad8c482605661ba9ac0925.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉】弾き語りするよ♪[2026-02-07][s3kLx-ChK_o]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1596,7 +1671,8 @@ window.SONG_DATA.push(
   "videoDuration": 4831,
   "partDuration": 168,
   "videos": 20,
-  "viewCount": 83,
+  "viewCount": 117,
+  "cover": "https://i2.hdslb.com/bfs/archive/cdc30e6a77e7498bb1ad8c482605661ba9ac0925.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉】弾き語りするよ♪[2026-02-07][s3kLx-ChK_o]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1617,7 +1693,8 @@ window.SONG_DATA.push(
   "videoDuration": 4831,
   "partDuration": 240,
   "videos": 20,
-  "viewCount": 83,
+  "viewCount": 117,
+  "cover": "https://i2.hdslb.com/bfs/archive/cdc30e6a77e7498bb1ad8c482605661ba9ac0925.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉】弾き語りするよ♪[2026-02-07][s3kLx-ChK_o]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1638,7 +1715,8 @@ window.SONG_DATA.push(
   "videoDuration": 4831,
   "partDuration": 281,
   "videos": 20,
-  "viewCount": 83,
+  "viewCount": 117,
+  "cover": "https://i2.hdslb.com/bfs/archive/cdc30e6a77e7498bb1ad8c482605661ba9ac0925.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉】弾き語りするよ♪[2026-02-07][s3kLx-ChK_o]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1659,7 +1737,8 @@ window.SONG_DATA.push(
   "videoDuration": 4831,
   "partDuration": 296,
   "videos": 20,
-  "viewCount": 83,
+  "viewCount": 117,
+  "cover": "https://i2.hdslb.com/bfs/archive/cdc30e6a77e7498bb1ad8c482605661ba9ac0925.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉】弾き語りするよ♪[2026-02-07][s3kLx-ChK_o]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1680,7 +1759,8 @@ window.SONG_DATA.push(
   "videoDuration": 4831,
   "partDuration": 302,
   "videos": 20,
-  "viewCount": 83,
+  "viewCount": 117,
+  "cover": "https://i2.hdslb.com/bfs/archive/cdc30e6a77e7498bb1ad8c482605661ba9ac0925.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉】弾き語りするよ♪[2026-02-07][s3kLx-ChK_o]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1701,7 +1781,8 @@ window.SONG_DATA.push(
   "videoDuration": 4831,
   "partDuration": 230,
   "videos": 20,
-  "viewCount": 83,
+  "viewCount": 117,
+  "cover": "https://i2.hdslb.com/bfs/archive/cdc30e6a77e7498bb1ad8c482605661ba9ac0925.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉】弾き語りするよ♪[2026-02-07][s3kLx-ChK_o]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1722,7 +1803,8 @@ window.SONG_DATA.push(
   "videoDuration": 4831,
   "partDuration": 349,
   "videos": 20,
-  "viewCount": 83,
+  "viewCount": 117,
+  "cover": "https://i2.hdslb.com/bfs/archive/cdc30e6a77e7498bb1ad8c482605661ba9ac0925.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉】弾き語りするよ♪[2026-02-07][s3kLx-ChK_o]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1743,7 +1825,8 @@ window.SONG_DATA.push(
   "videoDuration": 4831,
   "partDuration": 155,
   "videos": 20,
-  "viewCount": 83,
+  "viewCount": 117,
+  "cover": "https://i2.hdslb.com/bfs/archive/cdc30e6a77e7498bb1ad8c482605661ba9ac0925.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉】弾き語りするよ♪[2026-02-07][s3kLx-ChK_o]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1764,7 +1847,8 @@ window.SONG_DATA.push(
   "videoDuration": 4831,
   "partDuration": 317,
   "videos": 20,
-  "viewCount": 83,
+  "viewCount": 117,
+  "cover": "https://i2.hdslb.com/bfs/archive/cdc30e6a77e7498bb1ad8c482605661ba9ac0925.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉】弾き語りするよ♪[2026-02-07][s3kLx-ChK_o]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1785,7 +1869,8 @@ window.SONG_DATA.push(
   "videoDuration": 4831,
   "partDuration": 248,
   "videos": 20,
-  "viewCount": 83,
+  "viewCount": 117,
+  "cover": "https://i2.hdslb.com/bfs/archive/cdc30e6a77e7498bb1ad8c482605661ba9ac0925.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉】弾き語りするよ♪[2026-02-07][s3kLx-ChK_o]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1806,7 +1891,8 @@ window.SONG_DATA.push(
   "videoDuration": 4831,
   "partDuration": 122,
   "videos": 20,
-  "viewCount": 83,
+  "viewCount": 117,
+  "cover": "https://i2.hdslb.com/bfs/archive/cdc30e6a77e7498bb1ad8c482605661ba9ac0925.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉】弾き語りするよ♪[2026-02-07][s3kLx-ChK_o]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1827,7 +1913,8 @@ window.SONG_DATA.push(
   "videoDuration": 4831,
   "partDuration": 178,
   "videos": 20,
-  "viewCount": 83,
+  "viewCount": 117,
+  "cover": "https://i2.hdslb.com/bfs/archive/cdc30e6a77e7498bb1ad8c482605661ba9ac0925.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉】弾き語りするよ♪[2026-02-07][s3kLx-ChK_o]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1848,7 +1935,8 @@ window.SONG_DATA.push(
   "videoDuration": 4831,
   "partDuration": 233,
   "videos": 20,
-  "viewCount": 83,
+  "viewCount": 117,
+  "cover": "https://i2.hdslb.com/bfs/archive/cdc30e6a77e7498bb1ad8c482605661ba9ac0925.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉】弾き語りするよ♪[2026-02-07][s3kLx-ChK_o]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1869,7 +1957,8 @@ window.SONG_DATA.push(
   "videoDuration": 4831,
   "partDuration": 124,
   "videos": 20,
-  "viewCount": 83,
+  "viewCount": 117,
+  "cover": "https://i2.hdslb.com/bfs/archive/cdc30e6a77e7498bb1ad8c482605661ba9ac0925.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉】弾き語りするよ♪[2026-02-07][s3kLx-ChK_o]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1890,7 +1979,8 @@ window.SONG_DATA.push(
   "videoDuration": 4831,
   "partDuration": 236,
   "videos": 20,
-  "viewCount": 83,
+  "viewCount": 117,
+  "cover": "https://i2.hdslb.com/bfs/archive/cdc30e6a77e7498bb1ad8c482605661ba9ac0925.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉】弾き語りするよ♪[2026-02-07][s3kLx-ChK_o]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
@@ -1911,7 +2001,8 @@ window.SONG_DATA.push(
   "videoDuration": 4831,
   "partDuration": 172,
   "videos": 20,
-  "viewCount": 83,
+  "viewCount": 117,
+  "cover": "https://i2.hdslb.com/bfs/archive/cdc30e6a77e7498bb1ad8c482605661ba9ac0925.jpg@160w_90h_1c.webp",
   "videoTitle": "【優莉】弾き語りするよ♪[2026-02-07][s3kLx-ChK_o]",
   "uploader": "前尘往事如昔故",
   "uploaderMid": 3546597260528367
