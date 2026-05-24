@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 5/24/2026, 3:29:24 PM
+// 生成时间: 5/24/2026, 4:09:14 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3387,6 +3387,126 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-20]心安的弹唱🌟多唱一些舒缓曲目，用原声吉他歌唱♩ -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13zLW6ZEsg?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【歌切】[2026-05-24]初見也欢迎哦🙋‍♀️想在星期日的尾声送上动听的弹唱…！！✉ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VsGH6SEck?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "フラレガイガール",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-05-24]初見也欢迎哦🙋‍♀️想在星期日的尾声送上动听的弹唱…！！✉ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VsGH6SEck?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-05-24]初見也欢迎哦🙋‍♀️想在星期日的尾声送上动听的弹唱…！！✉ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VsGH6SEck?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【歌切】[2026-05-24]初見也欢迎哦🙋‍♀️想在星期日的尾声送上动听的弹唱…！！✉ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VsGH6SEck?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "思想犯",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-24]初見也欢迎哦🙋‍♀️想在星期日的尾声送上动听的弹唱…！！✉ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VsGH6SEck?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "ヒロイン",
+  "artist": "back number",
+  "collection": "【歌切】[2026-05-24]初見也欢迎哦🙋‍♀️想在星期日的尾声送上动听的弹唱…！！✉ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VsGH6SEck?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "紡ぐ",
+  "artist": "とた",
+  "collection": "【歌切】[2026-05-24]初見也欢迎哦🙋‍♀️想在星期日的尾声送上动听的弹唱…！！✉ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VsGH6SEck?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "more than words",
+  "artist": "羊文学",
+  "collection": "【歌切】[2026-05-24]初見也欢迎哦🙋‍♀️想在星期日的尾声送上动听的弹唱…！！✉ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VsGH6SEck?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "キミソラキセキ",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-05-24]初見也欢迎哦🙋‍♀️想在星期日的尾声送上动听的弹唱…！！✉ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VsGH6SEck?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "声",
+  "artist": "羊文学",
+  "collection": "【歌切】[2026-05-24]初見也欢迎哦🙋‍♀️想在星期日的尾声送上动听的弹唱…！！✉ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VsGH6SEck?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "メロウ",
+  "artist": "須田景凪",
+  "collection": "【歌切】[2026-05-24]初見也欢迎哦🙋‍♀️想在星期日的尾声送上动听的弹唱…！！✉ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VsGH6SEck?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "n-buna",
+  "collection": "【歌切】[2026-05-24]初見也欢迎哦🙋‍♀️想在星期日的尾声送上动听的弹唱…！！✉ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VsGH6SEck?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-24]初見也欢迎哦🙋‍♀️想在星期日的尾声送上动听的弹唱…！！✉ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VsGH6SEck?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "一日惚れ",
+  "artist": "澄花",
+  "collection": "【歌切】[2026-05-24]初見也欢迎哦🙋‍♀️想在星期日的尾声送上动听的弹唱…！！✉ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VsGH6SEck?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "澄花原创",
+  "artist": "澄花",
+  "collection": "【歌切】[2026-05-24]初見也欢迎哦🙋‍♀️想在星期日的尾声送上动听的弹唱…！！✉ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VsGH6SEck?p=15",
   "source": "sumica.js"
 }
 );
