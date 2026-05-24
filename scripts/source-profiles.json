@@ -107,6 +107,12 @@
       "avatarText": "H",
       "accentColor": "hsl(252 55% 36%)"
     },
+    "shuna": {
+      "avatarUrl": "https://yt3.googleusercontent.com/VikhZZ6O_6N0kTMDHFHMG8VnBWg8J-fCw7L_DyICMcByEnVLAuubUjRqFu2-ktGW6nA9e06ayBo=s176-c-k-c0x00ffffff-no-rj",
+      "youtubeUrl": "https://www.youtube.com/@SHUNA_MGS",
+      "avatarText": "朱",
+      "accentColor": "hsl(3 55% 36%)"
+    },
     "nayuta": {
       "avatarUrl": "https://yt3.googleusercontent.com/wQArqjCKWIC2RFWdQ87VjAuJRQuWzUhdQAilUF40cMPcDJzP85dZZZMSuQoPZWREDj1RsKy84dI=s176-c-k-c0x00ffffff-no-rj",
       "youtubeUrl": "https://www.youtube.com/channel/UCmhtmUBjkXOAetnaDq-XJ1g",
@@ -226,6 +232,18 @@
       "youtubeUrl": "https://www.youtube.com/channel/UC02dJeNmcQLqENdHFG1svJw",
       "avatarText": "る",
       "accentColor": "hsl(260 55% 36%)"
+    },
+    "hanamaruhareru": {
+      "avatarUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kFMTmkKV3XOpO-610EE6b10_bWYznZ-riyfknwh2N4vg=s176-c-k-c0x00ffffff-no-rj",
+      "youtubeUrl": "https://www.youtube.com/@hareruhanamaru",
+      "avatarText": "花",
+      "accentColor": "hsl(82 55% 36%)"
+    },
+    "hanabasamikyo": {
+      "avatarUrl": "https://yt3.googleusercontent.com/YFD87IueOX8p7UcywKgJmTIlsxlbhxTACJZTiAAp2rBPT3_AeQMliFFdX-zFrlAq0FQan9_nvQ=s176-c-k-c0x00ffffff-no-rj",
+      "youtubeUrl": "https://www.youtube.com/@Kyo_Hanabasami",
+      "avatarText": "花",
+      "accentColor": "hsl(132 55% 36%)"
     },
     "others": {
       "avatarUrl": "https://yt3.googleusercontent.com/_2i1jMJwh7YSnjL-fBAKjk1MwifblrszTpuWTj2FRQcWFd_MYd9ruURdtl2xBDEk2tagsia1EA=s176-c-k-c0x00ffffff-no-rj",

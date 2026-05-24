@@ -1081,7 +1081,7 @@
             const text = escapeHtml(profile?.avatarText || getDefaultAvatarText(profile?.alias));
             const style = profile?.accentColor ? ` style="--source-avatar-color:${escapeAttr(profile.accentColor)}"` : '';
             if (profile?.avatarUrl) {
-                return `<span class="${classes}"${style}><span class="source-avatar-fallback">${text}</span><img ${lazyImageAttributes(profile.avatarUrl)}></span>`;
+                return `<span class="${classes}"${style}><img ${lazyImageAttributes(profile.avatarUrl)}></span>`;
             }
             return `<span class="${classes}"${style}>${text}</span>`;
         }

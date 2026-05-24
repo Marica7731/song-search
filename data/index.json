@@ -201,8 +201,8 @@
     "shuna": {
       "alias": "朱名",
       "avatarText": "朱",
-      "avatarUrl": "",
-      "youtubeUrl": "",
+      "avatarUrl": "https://yt3.googleusercontent.com/VikhZZ6O_6N0kTMDHFHMG8VnBWg8J-fCw7L_DyICMcByEnVLAuubUjRqFu2-ktGW6nA9e06ayBo=s176-c-k-c0x00ffffff-no-rj",
+      "youtubeUrl": "https://www.youtube.com/@SHUNA_MGS",
       "accentColor": "hsl(3 55% 36%)"
     },
     "nayuta": {
@@ -348,15 +348,15 @@
     "hanamaruhareru": {
       "alias": "花丸晴琉",
       "avatarText": "花",
-      "avatarUrl": "",
-      "youtubeUrl": "",
+      "avatarUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kFMTmkKV3XOpO-610EE6b10_bWYznZ-riyfknwh2N4vg=s176-c-k-c0x00ffffff-no-rj",
+      "youtubeUrl": "https://www.youtube.com/@hareruhanamaru",
       "accentColor": "hsl(82 55% 36%)"
     },
     "hanabasamikyo": {
       "alias": "花鋏キョウ",
       "avatarText": "花",
-      "avatarUrl": "",
-      "youtubeUrl": "",
+      "avatarUrl": "https://yt3.googleusercontent.com/YFD87IueOX8p7UcywKgJmTIlsxlbhxTACJZTiAAp2rBPT3_AeQMliFFdX-zFrlAq0FQan9_nvQ=s176-c-k-c0x00ffffff-no-rj",
+      "youtubeUrl": "https://www.youtube.com/@Kyo_Hanabasami",
       "accentColor": "hsl(132 55% 36%)"
     },
     "others": {

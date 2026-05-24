@@ -196,6 +196,13 @@
       display: block;
     }
 
+    .all-source-avatar {
+      width: 34px;
+      border-radius: 999px;
+      font-size: 10px;
+      letter-spacing: 0;
+    }
+
     .source-item span:nth-child(2) {
       overflow: hidden;
       text-overflow: ellipsis;
@@ -1046,14 +1053,15 @@
       }
 
       .song-row {
-        grid-template-columns: 96px minmax(0, 1fr);
+        grid-template-columns: 112px minmax(0, 1fr);
         grid-template-areas:
           "cover main"
-          "artist artist"
-          "collection collection"
-          "actions actions";
-        gap: 4px;
-        padding: 10px 10px 9px;
+          "cover artist"
+          "cover collection"
+          "cover actions";
+        gap: 6px 10px;
+        padding: 9px 10px;
+        align-items: start;
       }
 
       .song-row:not(.has-cover) {
@@ -1067,8 +1075,10 @@
 
       .song-cover {
         grid-area: cover;
-        width: 96px;
+        width: 112px;
+        height: 63px;
         align-self: start;
+        border-radius: 8px;
       }
 
       .song-main {
@@ -1080,6 +1090,10 @@
       }
 
       .song-title {
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
         font-size: 15px;
         line-height: 1.3;
       }
@@ -1091,18 +1105,31 @@
       .mobile-card-meta {
         display: flex;
         align-items: center;
-        gap: 5px;
-        margin-top: 2px;
+        gap: 4px;
+        margin-top: 5px;
         color: #7c8797;
-        font-size: 12px;
+        font-size: 11px;
         line-height: 1.35;
         overflow: hidden;
         white-space: nowrap;
       }
 
-      .mobile-meta-source {
-        flex: 0 1 auto;
-        max-width: 42%;
+      .mobile-card-meta .source-avatar {
+        flex: 0 0 auto;
+        width: 18px;
+        height: 18px;
+        font-size: 9px;
+        box-shadow: none;
+      }
+
+      .mobile-card-meta .all-source-avatar {
+        width: 26px;
+        font-size: 8px;
+      }
+
+      .mobile-meta-source,
+      .mobile-meta-chip {
+        min-width: 0;
         overflow: hidden;
         text-overflow: ellipsis;
         border: 1px solid #e5eaf1;
@@ -1113,18 +1140,31 @@
         font-weight: 600;
       }
 
-      .mobile-meta-tail {
-        min-width: 0;
-        overflow: hidden;
-        text-overflow: ellipsis;
+      .mobile-meta-source {
+        flex: 0 0 auto;
+        max-width: 98px;
+        color: #64748b;
+        background: #f9fafb;
+      }
+
+      .mobile-meta-chip {
+        flex: 0 1 auto;
+        max-width: 92px;
       }
 
       .song-artist {
         grid-area: artist;
-        font-size: 13.5px;
+        width: fit-content;
+        max-width: 100%;
+        min-height: 22px;
+        padding: 2px 7px;
+        border: 1px solid #cde9ec;
+        border-radius: 999px;
+        background: #eefafa;
+        color: #0f4f5c;
+        font-size: 13px;
+        font-weight: 800;
         line-height: 1.35;
-        color: #164e63;
-        font-weight: 700;
         overflow: hidden;
         text-overflow: ellipsis;
         white-space: nowrap;
@@ -1148,15 +1188,15 @@
       .row-actions {
         grid-area: actions;
         justify-content: flex-start;
-        gap: 5px;
+        gap: 6px;
         margin-top: 2px;
       }
 
       .icon-btn {
-        width: auto;
-        height: 26px;
+        width: 30px;
+        height: 30px;
         min-width: 30px;
-        padding: 0 7px;
+        padding: 0;
       }
 
       .icon-btn svg {
@@ -1561,7 +1601,7 @@
     function sourceProfile(file) {
       const name = sourceName(file);
       if (file === 'all') {
-        return { alias: name, avatarText: '全', avatarUrl: '', youtubeUrl: '', accentColor: '#0f766e' };
+        return { alias: name, avatarText: 'ALL', avatarUrl: '', youtubeUrl: '', accentColor: '#0f766e' };
       }
       const profile = state.profiles[sourceKey(file)] || {};
       return {
@@ -1575,10 +1615,10 @@
 
     function sourceAvatar(file, extraClass = '') {
       const profile = sourceProfile(file);
-      const classes = ['source-avatar', extraClass].filter(Boolean).join(' ');
+      const classes = ['source-avatar', file === 'all' ? 'all-source-avatar' : '', extraClass].filter(Boolean).join(' ');
       const style = profile.accentColor ? ` style="--source-avatar-color:${escapeHtml(profile.accentColor)}"` : '';
       if (profile.avatarUrl) {
-        return `<span class="${classes}"${style}><span class="source-avatar-fallback">${escapeHtml(profile.avatarText)}</span><img ${lazyImageAttributes(profile.avatarUrl)}></span>`;
+        return `<span class="${classes}"${style}><img ${lazyImageAttributes(profile.avatarUrl)}></span>`;
       }
       return `<span class="${classes}"${style}>${escapeHtml(profile.avatarText)}</span>`;
     }
@@ -1967,16 +2007,21 @@
           copyableField(bv, 'BV号', 'meta-copy'),
           date ? `<span class="meta-separator">·</span> ${copyableField(date, '发布日期', 'meta-copy')}` : ''
         ].filter(Boolean).join(' ');
-        const mobileMetaTail = [date, bv].filter(Boolean).join(' · ');
         const editHref = editUrlFromBv(bv);
         const cover = coverUrl(item);
+        const mobileMeta = [
+          sourceAvatar(item.source, 'mobile-meta-avatar'),
+          `<span class="mobile-meta-source">${escapeHtml(src)}</span>`,
+          date ? `<span class="mobile-meta-chip">${escapeHtml(date)}</span>` : '',
+          bv ? `<span class="mobile-meta-chip">${escapeHtml(bv)}</span>` : ''
+        ].filter(Boolean).join('');
         return `
           <article class="song-row ${cover ? 'has-cover' : ''}">
             ${cover ? `<a class="song-cover" href="${escapeHtml(item.link || '#')}" target="_blank" rel="noreferrer"><img ${lazyImageAttributes(cover)}></a>` : ''}
             <div class="song-main">
               <div class="song-title">${copyableField(item.title || '未知歌曲', '歌名', 'song-title-copy')}</div>
               <div class="meta">${metaParts}</div>
-              <div class="mobile-card-meta"><span class="mobile-meta-source">${escapeHtml(src)}</span><span class="mobile-meta-tail">${escapeHtml(mobileMetaTail)}</span></div>
+              <div class="mobile-card-meta">${mobileMeta}</div>
             </div>
             <div class="song-artist">${copyableField(artist, '歌手')}</div>
             <div class="song-collection">${copyableField(item.collection || '未知合集', '合集')}</div>
