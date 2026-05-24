@@ -211,7 +211,7 @@ npm run check:library
 npm run collect:avatars
 ```
 
-该命令会按每个来源最新 BV 的简介提取 YouTube 频道或视频链接，解析频道头像后更新 `scripts/source-profiles.json`，并同步 `data/index.json` 里的 `sourceProfiles`。如果简介没有明确 YouTube 链接或频道页无法解析头像，会继续使用来源名单字头像兜底。
+该命令会按每个来源最新 BV 的简介提取 YouTube 频道或视频链接，解析频道头像后更新 `scripts/source-profiles.json`，并同步 `data/index.json` 里的 `sourceProfiles`。生成链路会兼容来源文件名首尾空格差异；如果简介没有明确 YouTube 链接或频道页无法解析头像，会继续使用来源名单字头像兜底。
 
 注意：
 

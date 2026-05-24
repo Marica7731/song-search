@@ -48,6 +48,21 @@ function sourceKeyFromFile(fileName) {
   return String(fileName || '').replace(/\.js$/, '');
 }
 
+function pickByFlexibleKey(object, keys) {
+  if (!object || typeof object !== 'object') return null;
+  const candidates = keys
+    .map(key => String(key || ''))
+    .filter(Boolean);
+  for (const key of candidates) {
+    if (object[key]) return object[key];
+  }
+  const normalized = new Set(candidates.map(key => key.trim()).filter(Boolean));
+  for (const [key, value] of Object.entries(object)) {
+    if (normalized.has(String(key || '').trim())) return value;
+  }
+  return null;
+}
+
 function loadSongs(fileName) {
   const code = fs.readFileSync(path.join(DATA_DIR, fileName), 'utf8');
   const sandbox = { window: { SONG_DATA: [] } };
@@ -307,7 +322,7 @@ function updateIndexProfiles(indexData, profileOverrides) {
     const key = sourceKeyFromFile(file);
     const alias = indexData.fileToAlias?.[key] || key;
     const existing = sourceProfiles[key] || {};
-    const override = profileOverrides[key] || {};
+    const override = pickByFlexibleKey(profileOverrides, [key, alias]) || {};
     sourceProfiles[key] = {
       alias,
       avatarText: override.avatarText || existing.avatarText || defaultAvatarText(alias),
@@ -367,7 +382,8 @@ async function main() {
   const mergedProfiles = {};
   for (const file of indexData.files || []) {
     const key = sourceKeyFromFile(file);
-    if (profileFile.profiles[key]) mergedProfiles[key] = profileFile.profiles[key];
+    const existingProfile = pickByFlexibleKey(profileFile.profiles, [key, indexData.fileToAlias?.[key]]);
+    if (existingProfile) mergedProfiles[key] = existingProfile;
     if (foundProfiles[key]) mergedProfiles[key] = foundProfiles[key];
   }
   profileFile.root.profiles = mergedProfiles;

@@ -42,6 +42,21 @@ function normalizeProfileUrl(value) {
     return /^https?:\/\//i.test(text) ? text : '';
 }
 
+function pickProfileOverride(overrides, keys) {
+    if (!overrides || typeof overrides !== 'object') return {};
+    const candidates = keys
+        .map(key => String(key || ''))
+        .filter(Boolean);
+    for (const key of candidates) {
+        if (overrides[key]) return overrides[key];
+    }
+    const normalized = new Set(candidates.map(key => key.trim()).filter(Boolean));
+    for (const [key, value] of Object.entries(overrides)) {
+        if (normalized.has(String(key || '').trim())) return value;
+    }
+    return {};
+}
+
 function normalizeBiliImageUrl(value) {
     const text = String(value || '').trim();
     if (!text) return '';
@@ -174,7 +189,7 @@ function loadSourceProfileOverrides() {
 
 function buildSourceProfile(config, overrides) {
     const alias = config.alias || config.resolvedFile || '来源';
-    const raw = overrides?.[config.resolvedFile] || overrides?.[alias] || {};
+    const raw = pickProfileOverride(overrides, [config.resolvedFile, alias]);
     const avatarText = String(raw.avatarText || '').trim() || getDefaultAvatarText(alias);
     const accentColor = String(raw.accentColor || '').trim() || `hsl(${stringHash(config.resolvedFile || alias) % 360} 55% 36%)`;
     return {
