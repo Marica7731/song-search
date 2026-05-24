@@ -46,6 +46,7 @@ function normalizeBiliImageUrl(value) {
     const text = String(value || '').trim();
     if (!text) return '';
     if (text.startsWith('//')) return `https:${text}`;
+    if (/^http:\/\//i.test(text)) return text.replace(/^http:\/\//i, 'https://');
     if (/^https?:\/\//i.test(text)) return text;
     return '';
 }

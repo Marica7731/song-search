@@ -1561,8 +1561,15 @@
       return `<span class="${classes}"${style}>${escapeHtml(profile.avatarText)}</span>`;
     }
 
+    function normalizeMediaUrl(value) {
+      const text = String(value || '').trim();
+      if (text.startsWith('//')) return `https:${text}`;
+      if (/^http:\/\//i.test(text)) return text.replace(/^http:\/\//i, 'https://');
+      return text;
+    }
+
     function coverUrl(item) {
-      return item?.cover || item?.thumbnail || item?.coverThumb || '';
+      return normalizeMediaUrl(item?.cover || item?.thumbnail || item?.coverThumb || '');
     }
 
     function sourceCount(file) {
