@@ -2767,7 +2767,7 @@
           : '#vtuber-source-list .group-card';
         const groupRows = Array.from(document.querySelectorAll(listSelector));
         groupRows.forEach((row, idx) => {
-          const name = row.querySelector('.group-name span')?.textContent || `分组 #${idx + 1}`;
+          const name = row.querySelector('.group-name [data-quick-copy]')?.textContent || `分组 #${idx + 1}`;
           items.push({
             label: `${idx + 1}. ${clipText(name, 28)}`,
             target: row

@@ -1615,7 +1615,7 @@ body.culua-shell-stats .group-header {
   align-items: center !important;
 }
 
-body.culua-shell-stats .group-name span {
+body.culua-shell-stats .group-name [data-quick-copy] {
   overflow-wrap: anywhere;
 }
 
@@ -2176,7 +2176,7 @@ body.culua-shell-stats .source-avatar img {
   object-fit: cover;
 }
 
-body.culua-shell-stats .group-name span {
+body.culua-shell-stats .group-name [data-quick-copy] {
   min-width: 0;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -2461,7 +2461,7 @@ body.culua-shell-stats .perf-grid-small .perf-link-small:hover {
     font-size: 17px !important;
   }
 
-  body.culua-shell-stats .group-name span {
+  body.culua-shell-stats .group-name [data-quick-copy] {
     white-space: normal;
     display: -webkit-box;
     overflow: hidden;
