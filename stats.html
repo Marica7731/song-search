@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>歌曲数据</title>
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-    <link rel="stylesheet" href="/site-theme.css?v=20260524stats2">
+    <link rel="stylesheet" href="/site-theme.css?v=20260524media1">
     <script src="/site-shell.js?v=20260524shell7" defer></script>
     <style>
         /* --- 全局样式复用 --- */
@@ -903,6 +903,7 @@
         let originalData = [];
         let fileNames = [];
         let FILE_TO_ALIAS = {};
+        let SOURCE_PROFILES = {};
         let SOURCE_STATS = {};
         let bootstrapTotalSongs = 0;
         let bootstrapTotalUnique = 0;
@@ -966,10 +967,14 @@
             const source = perf?.source ? escapeHtml(perf.source) : '';
             const href = escapeAttr(perf?.link || '#');
             const classes = ['perf-link', extraClass].filter(Boolean).join(' ');
+            const cover = getCoverUrl(perf);
             return `
                 <a href="${href}" target="_blank" rel="noopener noreferrer" class="${classes}">
-                    <span class="perf-link-title">${collection}</span>
-                    ${source ? `<span class="perf-link-source">${source}</span>` : ''}
+                    ${cover ? `<span class="perf-link-cover"><img src="${escapeAttr(cover)}" alt="" loading="lazy" referrerpolicy="no-referrer"></span>` : ''}
+                    <span class="perf-link-body">
+                        <span class="perf-link-title">${collection}</span>
+                        ${source ? `<span class="perf-link-source">${source}</span>` : ''}
+                    </span>
                     <span class="perf-link-action">打开</span>
                 </a>
             `;
@@ -978,7 +983,44 @@
         function renderSmallPerformanceLink(perf) {
             const collection = escapeHtml(perf?.collection || '未命名场次');
             const href = escapeAttr(perf?.link || '#');
-            return `<a href="${href}" target="_blank" rel="noopener noreferrer" class="perf-link-small">${collection}</a>`;
+            const cover = getCoverUrl(perf);
+            return `
+                <a href="${href}" target="_blank" rel="noopener noreferrer" class="perf-link-small">
+                    ${cover ? `<span class="perf-link-small-cover"><img src="${escapeAttr(cover)}" alt="" loading="lazy" referrerpolicy="no-referrer"></span>` : ''}
+                    <span class="perf-link-small-title">${collection}</span>
+                </a>
+            `;
+        }
+
+        function getCoverUrl(item) {
+            return item?.cover || item?.thumbnail || item?.coverThumb || '';
+        }
+
+        function getDefaultAvatarText(name) {
+            const picked = Array.from(String(name || '').trim()).find(ch => /[\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}A-Za-z0-9]/u.test(ch));
+            return (picked || '源').toUpperCase();
+        }
+
+        function sourceProfileByFile(sourceFile, fallbackName = '') {
+            const key = String(sourceFile || '').replace(/\.js$/, '');
+            const fallback = fallbackName || FILE_TO_ALIAS[key] || key || '来源';
+            return SOURCE_PROFILES[key] || {
+                alias: fallback,
+                avatarText: getDefaultAvatarText(fallback),
+                avatarUrl: '',
+                youtubeUrl: '',
+                accentColor: '#0f766e'
+            };
+        }
+
+        function renderSourceAvatar(profile, className = '') {
+            const classes = ['source-avatar', className].filter(Boolean).join(' ');
+            const text = escapeHtml(profile?.avatarText || getDefaultAvatarText(profile?.alias));
+            const style = profile?.accentColor ? ` style="--source-avatar-color:${escapeAttr(profile.accentColor)}"` : '';
+            if (profile?.avatarUrl) {
+                return `<span class="${classes}"${style}><img src="${escapeAttr(profile.avatarUrl)}" alt="" loading="lazy" referrerpolicy="no-referrer"></span>`;
+            }
+            return `<span class="${classes}"${style}>${text}</span>`;
         }
 
         function getSourceOptions() {
@@ -1740,7 +1782,8 @@
                 entry.performances.push({
                     link: item.link,
                     collection: item.collection || '未知合集',
-                    source: FILE_TO_ALIAS[(item.source || '').replace('.js', '')] || item.source || ''
+                    source: FILE_TO_ALIAS[(item.source || '').replace('.js', '')] || item.source || '',
+                    cover: getCoverUrl(item)
                 });
             });
             const arr = Array.from(map.values()).map(entry => ({
@@ -1763,6 +1806,7 @@
                     map.set(sourceKey, {
                         name: vtuberName,
                         sourceFile: sourceFile, // 保留源文件名用于映射
+                        profile: sourceProfileByFile(sourceFile, vtuberName),
                         songs: new Map()
                     });
                 }
@@ -1773,6 +1817,7 @@
                     vtuberEntry.songs.set(songKey, {
                         title: item.title || '未知歌曲',
                         artist: item.artist || '', // 保留数据中的歌手
+                        cover: getCoverUrl(item),
                         count: 0,
                         links: [], // 保留所有链接
                         isSolo: false
@@ -1783,7 +1828,8 @@
                 songEntry.isSolo = getGlobalTitleSourceCountLocal(item) === 1;
                 if (item.link) songEntry.links.push({
                     link: item.link,
-                    collection: item.collection || '未知合集'
+                    collection: item.collection || '未知合集',
+                    cover: getCoverUrl(item)
                 });
             });
 
@@ -1820,6 +1866,7 @@
                 if (!artistEntry.songs.has(songKey)) {
                     artistEntry.songs.set(songKey, {
                         title: item.title || '未知歌曲',
+                        cover: getCoverUrl(item),
                         count: 0,
                         links: []
                     });
@@ -1828,7 +1875,8 @@
                 songEntry.count++;
                 if (item.link) songEntry.links.push({
                     link: item.link,
-                    collection: item.collection || '未知合集'
+                    collection: item.collection || '未知合集',
+                    cover: getCoverUrl(item)
                 });
             });
 
@@ -2088,6 +2136,7 @@
                     const songId = uniqueId();
                     const links = Array.isArray(song.links) ? song.links : [];
                     const firstLink = links[0]?.link || '#';
+                    const cover = getCoverUrl(song) || getCoverUrl(links[0] || {});
                     const countText = formatCountText(song.count || links.length || 0);
                     const originalText = song.originalArtist
                         ? `<div class="song-original-artist" data-quick-copy="${escapeAttr(song.originalArtist)}">原唱：${escapeHtml(song.originalArtist)}</div>`
@@ -2095,6 +2144,7 @@
 
                     return `
                         <div class="song-item-row">
+                            ${cover ? `<a class="song-row-cover" href="${escapeAttr(firstLink)}" target="_blank" rel="noopener noreferrer"><img src="${escapeAttr(cover)}" alt="" loading="lazy" referrerpolicy="no-referrer"></a>` : ''}
                             <div class="song-info-left">
                                 <div class="song-title-main" data-quick-copy="${escapeAttr(song.title)}">${escapeHtml(song.title)}</div>
                                 ${originalText}
@@ -2126,9 +2176,11 @@
                 if (type === 'vtuber') {
                     headerMetrics.push(`<span class="group-count-chip">独特 ${formatCountText(group.soloCount || 0)}</span>`);
                 }
+                const profile = group.profile || sourceProfileByFile(group.sourceFile, group.name);
                 li.innerHTML = `
                     <div class="group-header ${type}">
                         <div class="group-name">
+                            ${type === 'vtuber' ? renderSourceAvatar(profile, 'group-source-avatar') : ''}
                             <span data-quick-copy="${escapeAttr(group.name)}">${escapeHtml(group.name)}</span>
                         </div>
                         <div class="group-header-actions">
@@ -2556,6 +2608,7 @@
                     const config = await res.json();
                     fileNames = config.files || [];
                     FILE_TO_ALIAS = config.fileToAlias || FILE_TO_ALIAS;
+                    SOURCE_PROFILES = config.sourceProfiles || SOURCE_PROFILES;
                 }
 
                 if (!fileNames.length) {
@@ -2591,6 +2644,7 @@
             const payload = await res.json();
             fileNames = payload.files || [];
             FILE_TO_ALIAS = payload.fileToAlias || {};
+            SOURCE_PROFILES = payload.sourceProfiles || {};
             SOURCE_STATS = payload.sourceStats || {};
             bootstrapTotalSongs = payload.totalSongs || 0;
             bootstrapTotalUnique = payload.totalUnique || 0;
@@ -2610,6 +2664,7 @@
                     const config = await res.json();
                     fileNames = config.files || [];
                     FILE_TO_ALIAS = config.fileToAlias || {};
+                    SOURCE_PROFILES = config.sourceProfiles || {};
                     SOURCE_STATS = {};
                     await loadScriptsParallel(fileNames);
                 }

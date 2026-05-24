@@ -145,7 +145,7 @@
       width: 100%;
       min-height: 38px;
       display: grid;
-      grid-template-columns: minmax(0, 1fr) auto;
+      grid-template-columns: 28px minmax(0, 1fr) auto;
       gap: 8px;
       align-items: center;
       padding: 7px 8px;
@@ -166,7 +166,29 @@
       font-weight: 700;
     }
 
-    .source-item span:first-child {
+    .source-avatar {
+      width: 28px;
+      height: 28px;
+      display: inline-grid;
+      place-items: center;
+      overflow: hidden;
+      border-radius: 50%;
+      background: var(--source-avatar-color, var(--primary));
+      color: #fff;
+      font-size: 12px;
+      font-weight: 800;
+      line-height: 1;
+      box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.24);
+    }
+
+    .source-avatar img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
+    .source-item span:nth-child(2) {
       overflow: hidden;
       text-overflow: ellipsis;
       white-space: nowrap;
@@ -356,7 +378,7 @@
 
     .song-row {
       display: grid;
-      grid-template-columns: minmax(220px, 1.4fr) minmax(150px, 0.9fr) minmax(200px, 1fr) 150px auto;
+      grid-template-columns: 108px minmax(220px, 1.35fr) minmax(150px, 0.85fr) minmax(200px, 1fr) 142px auto;
       gap: 12px;
       align-items: center;
       padding: 12px;
@@ -364,6 +386,10 @@
       border: 1px solid var(--line);
       border-radius: 8px;
       box-shadow: 0 1px 0 rgba(15, 23, 42, 0.02);
+    }
+
+    .song-row:not(.has-cover) {
+      grid-template-columns: minmax(220px, 1.35fr) minmax(150px, 0.85fr) minmax(200px, 1fr) 142px auto;
     }
 
     .song-title {
@@ -383,6 +409,27 @@
     .song-source {
       font-weight: 600;
       color: #64748b;
+    }
+
+    .song-cover {
+      width: 108px;
+      aspect-ratio: 16 / 9;
+      display: block;
+      overflow: hidden;
+      border: 1px solid var(--line);
+      border-radius: 7px;
+      background: #eef2f7;
+    }
+
+    .song-cover img {
+      width: 100%;
+      height: 100%;
+      display: block;
+      object-fit: cover;
+    }
+
+    .song-main {
+      min-width: 0;
     }
 
     .song-artist {
@@ -748,7 +795,7 @@
     .mobile-source-option {
       min-height: 40px;
       display: grid;
-      grid-template-columns: minmax(0, 1fr) auto;
+      grid-template-columns: 28px minmax(0, 1fr) auto;
       gap: 8px;
       align-items: center;
       border: 1px solid var(--line);
@@ -766,7 +813,7 @@
       font-weight: 800;
     }
 
-    .mobile-source-option span:first-child {
+    .mobile-source-option span:nth-child(2) {
       overflow: hidden;
       text-overflow: ellipsis;
       white-space: nowrap;
@@ -822,8 +869,12 @@
       }
 
       .song-row {
-        grid-template-columns: minmax(0, 1fr);
+        grid-template-columns: 104px minmax(0, 1fr);
         gap: 8px;
+      }
+
+      .song-row:not(.has-cover) {
+        grid-template-columns: minmax(0, 1fr);
       }
 
       .row-actions {
@@ -975,12 +1026,36 @@
       }
 
       .song-row {
-        grid-template-columns: minmax(0, 1fr);
+        grid-template-columns: 96px minmax(0, 1fr);
+        grid-template-areas:
+          "cover main"
+          "artist artist"
+          "collection collection"
+          "actions actions";
         gap: 4px;
         padding: 10px 10px 9px;
       }
 
-      .song-row > div:first-child {
+      .song-row:not(.has-cover) {
+        grid-template-columns: minmax(0, 1fr);
+        grid-template-areas:
+          "main"
+          "artist"
+          "collection"
+          "actions";
+      }
+
+      .song-cover {
+        grid-area: cover;
+        width: 96px;
+        align-self: start;
+      }
+
+      .song-main {
+        grid-area: main;
+      }
+
+      .song-row > .song-main {
         min-width: 0;
       }
 
@@ -1025,6 +1100,7 @@
       }
 
       .song-artist {
+        grid-area: artist;
         font-size: 13.5px;
         line-height: 1.35;
         color: #164e63;
@@ -1035,6 +1111,7 @@
       }
 
       .song-collection {
+        grid-area: collection;
         display: -webkit-box;
         -webkit-line-clamp: 1;
         -webkit-box-orient: vertical;
@@ -1049,6 +1126,7 @@
       }
 
       .row-actions {
+        grid-area: actions;
         justify-content: flex-start;
         gap: 5px;
         margin-top: 2px;
@@ -1423,6 +1501,7 @@
       fields: new Set(['title', 'artist']),
       files: [],
       aliases: {},
+      profiles: {},
       stats: {},
       items: [],
       total: 0,
@@ -1450,6 +1529,40 @@
     function sourceName(file) {
       if (file === 'all') return '全部来源';
       return state.aliases[sourceKey(file)] || file || '未知来源';
+    }
+
+    function defaultAvatarText(name) {
+      const picked = Array.from(String(name || '').trim()).find(ch => /[\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}A-Za-z0-9]/u.test(ch));
+      return (picked || '源').toUpperCase();
+    }
+
+    function sourceProfile(file) {
+      const name = sourceName(file);
+      if (file === 'all') {
+        return { alias: name, avatarText: '全', avatarUrl: '', youtubeUrl: '', accentColor: '#0f766e' };
+      }
+      const profile = state.profiles[sourceKey(file)] || {};
+      return {
+        alias: name,
+        avatarText: profile.avatarText || defaultAvatarText(name),
+        avatarUrl: profile.avatarUrl || '',
+        youtubeUrl: profile.youtubeUrl || '',
+        accentColor: profile.accentColor || '#0f766e'
+      };
+    }
+
+    function sourceAvatar(file, extraClass = '') {
+      const profile = sourceProfile(file);
+      const classes = ['source-avatar', extraClass].filter(Boolean).join(' ');
+      const style = profile.accentColor ? ` style="--source-avatar-color:${escapeHtml(profile.accentColor)}"` : '';
+      if (profile.avatarUrl) {
+        return `<span class="${classes}"${style}><img src="${escapeHtml(profile.avatarUrl)}" alt="" loading="lazy" referrerpolicy="no-referrer"></span>`;
+      }
+      return `<span class="${classes}"${style}>${escapeHtml(profile.avatarText)}</span>`;
+    }
+
+    function coverUrl(item) {
+      return item?.cover || item?.thumbnail || item?.coverThumb || '';
     }
 
     function sourceCount(file) {
@@ -1702,6 +1815,7 @@
       const allSources = ['all'].concat(state.files.slice().sort(compareSourcesByCount));
       list.innerHTML = entries.map(file => `
         <button class="source-item ${state.source === file ? 'active' : ''}" data-source="${escapeHtml(file)}">
+          ${sourceAvatar(file)}
           <span>${escapeHtml(sourceName(file))}</span>
           <span class="source-count">${formatNumber(sourceCount(file))}</span>
         </button>
@@ -1713,6 +1827,7 @@
       if (mobileOptions) {
         mobileOptions.innerHTML = entries.map(file => `
           <button class="mobile-source-option ${state.source === file ? 'active' : ''}" type="button" data-mobile-source="${escapeHtml(file)}">
+            ${sourceAvatar(file)}
             <span>${escapeHtml(sourceName(file))}</span>
             <span class="source-count">${formatNumber(sourceCount(file))}</span>
           </button>
@@ -1770,9 +1885,11 @@
         ].filter(Boolean).join(' ');
         const mobileMetaTail = [date, bv].filter(Boolean).join(' · ');
         const editHref = editUrlFromBv(bv);
+        const cover = coverUrl(item);
         return `
-          <article class="song-row">
-            <div>
+          <article class="song-row ${cover ? 'has-cover' : ''}">
+            ${cover ? `<a class="song-cover" href="${escapeHtml(item.link || '#')}" target="_blank" rel="noreferrer"><img src="${escapeHtml(cover)}" alt="" loading="lazy" referrerpolicy="no-referrer"></a>` : ''}
+            <div class="song-main">
               <div class="song-title">${copyableField(item.title || '未知歌曲', '歌名', 'song-title-copy')}</div>
               <div class="meta">${metaParts}</div>
               <div class="mobile-card-meta"><span class="mobile-meta-source">${escapeHtml(src)}</span><span class="mobile-meta-tail">${escapeHtml(mobileMetaTail)}</span></div>
@@ -1837,6 +1954,7 @@
       const payload = await res.json();
       state.files = Array.isArray(payload.files) ? payload.files : [];
       state.aliases = payload.fileToAlias || {};
+      state.profiles = payload.sourceProfiles || {};
       state.stats = payload.sourceStats || {};
       state.summary = {
         totalSongs: payload.totalSongs || 0,

@@ -46,6 +46,7 @@ let store = {
   songs: [],
   files: [],
   fileToAlias: {},
+  sourceProfiles: {},
   sourceStats: {},
   totalUnique: 0,
   titleEntries: [],
@@ -157,6 +158,60 @@ function buildSourceStats(songs, files, fileToAlias) {
     };
   });
   return stats;
+}
+
+function stringHash(value) {
+  let hash = 0;
+  String(value || '').split('').forEach(ch => {
+    hash = ((hash << 5) - hash) + ch.charCodeAt(0);
+    hash |= 0;
+  });
+  return Math.abs(hash);
+}
+
+function getDefaultAvatarText(alias) {
+  const chars = Array.from(String(alias || '').trim());
+  const picked = chars.find(ch => /[\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}A-Za-z0-9]/u.test(ch));
+  return (picked || '源').toUpperCase();
+}
+
+function normalizeProfileUrl(value) {
+  const text = String(value || '').trim();
+  return /^https?:\/\//i.test(text) ? text : '';
+}
+
+function buildFallbackSourceProfile(sourceFile) {
+  const key = String(sourceFile || '').replace(/\.js$/, '');
+  const alias = store.fileToAlias[key] || key || '来源';
+  return {
+    alias,
+    avatarText: getDefaultAvatarText(alias),
+    avatarUrl: '',
+    youtubeUrl: '',
+    accentColor: `hsl(${stringHash(key || alias) % 360} 55% 36%)`
+  };
+}
+
+function normalizeSourceProfiles(rawProfiles, files, fileToAlias) {
+  const profiles = {};
+  (files || []).forEach(fileName => {
+    const key = String(fileName || '').replace(/\.js$/, '');
+    const alias = fileToAlias?.[key] || key || '来源';
+    const raw = rawProfiles?.[key] || rawProfiles?.[fileName] || {};
+    profiles[key] = {
+      alias,
+      avatarText: String(raw.avatarText || '').trim() || getDefaultAvatarText(alias),
+      avatarUrl: normalizeProfileUrl(raw.avatarUrl),
+      youtubeUrl: normalizeProfileUrl(raw.youtubeUrl || raw.youtubeChannelUrl),
+      accentColor: String(raw.accentColor || '').trim() || `hsl(${stringHash(key || alias) % 360} 55% 36%)`
+    };
+  });
+  return profiles;
+}
+
+function getSourceProfile(sourceFile) {
+  const key = String(sourceFile || '').replace(/\.js$/, '');
+  return store.sourceProfiles[key] || buildFallbackSourceProfile(sourceFile);
 }
 
 function getSourceAlias(sourceFile) {
@@ -872,10 +927,13 @@ function loadSongStore() {
     }
   });
 
+  const sourceProfiles = normalizeSourceProfiles(indexData.sourceProfiles || {}, indexData.files || [], indexData.fileToAlias || {});
+
   store = {
     songs,
     files: indexData.files || [],
     fileToAlias: indexData.fileToAlias || {},
+    sourceProfiles,
     sourceStats: buildSourceStats(songs, indexData.files || [], indexData.fileToAlias || {}),
     totalUnique: getUniqueSongCount(songs),
     titleEntries,
@@ -1569,6 +1627,7 @@ function handleBootstrap(res) {
     mode: 'api',
     files: store.files,
     fileToAlias: store.fileToAlias,
+    sourceProfiles: store.sourceProfiles,
     sourceStats: store.sourceStats,
     totalSongs: store.songs.length,
     totalUnique: store.totalUnique
@@ -1581,6 +1640,7 @@ function handleSources(res) {
     return {
       file: fileName,
       alias: store.fileToAlias[key] || fileName,
+      profile: getSourceProfile(fileName),
       totalSongs: store.sourceStats[fileName]?.totalSongs || 0,
       totalUnique: store.sourceStats[fileName]?.totalUnique || 0
     };
@@ -1598,6 +1658,7 @@ function handleAllSongs(reqUrl, res) {
     totalUnique: getUniqueSongCount(data),
     files: store.files,
     fileToAlias: store.fileToAlias,
+    sourceProfiles: store.sourceProfiles,
     sourceStats: store.sourceStats
   });
 }
@@ -1657,6 +1718,7 @@ function aggregateBySong(data) {
       link: item.link || '',
       collection: item.collection || '未知合集',
       source: getSourceAlias(item.source),
+      cover: item.cover || '',
       bvid: extractBV(item.bvid || item.link || '')
     });
   });
@@ -1680,6 +1742,7 @@ function aggregateByVtuberSource(data) {
         key: sourceFile,
         name: vtuberName,
         sourceFile,
+        profile: getSourceProfile(sourceFile),
         songs: new Map()
       });
     }
@@ -1690,6 +1753,7 @@ function aggregateByVtuberSource(data) {
         title: item.title || '未知歌曲',
         artist: item.artist || '',
         originalArtist: item.originalArtist || '',
+        cover: item.cover || '',
         count: 0,
         links: [],
         isSolo: false
@@ -1702,7 +1766,8 @@ function aggregateByVtuberSource(data) {
       songEntry.links.push({
         link: item.link,
         collection: item.collection || '未知合集',
-        source: vtuberName
+        source: vtuberName,
+        cover: item.cover || ''
       });
     }
   });
@@ -1736,6 +1801,7 @@ function aggregateByArtist(data) {
     if (!artistEntry.songs.has(songKey)) {
       artistEntry.songs.set(songKey, {
         title: item.title || '未知歌曲',
+        cover: item.cover || '',
         count: 0,
         links: []
       });
@@ -1746,7 +1812,8 @@ function aggregateByArtist(data) {
       songEntry.links.push({
         link: item.link,
         collection: item.collection || '未知合集',
-        source: getSourceAlias(item.source)
+        source: getSourceAlias(item.source),
+        cover: item.cover || ''
       });
     }
   });

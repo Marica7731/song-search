@@ -1,0 +1,14 @@
+{
+  "__schema": {
+    "description": "按来源文件名补充头像和 YouTube 频道链接；缺失时会自动使用来源名首字作为默认头像。",
+    "example": {
+      "yoshika": {
+        "avatarUrl": "https://example.com/avatar.jpg",
+        "youtubeUrl": "https://www.youtube.com/@example",
+        "avatarText": "よ",
+        "accentColor": "#0f766e"
+      }
+    }
+  },
+  "profiles": {}
+}

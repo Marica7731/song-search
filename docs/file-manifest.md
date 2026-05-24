@@ -9,10 +9,10 @@
 | `README.md` | 项目入口说明 | 说明功能、运行方式、测试方式、维护边界和文档索引 | 链接 `ADD_SOURCE_PROMPT.md`、`docs/migration-handoff.md`、`docs/culua-server-guide.md`、`docs/site-optimization-plan.md`、`docs/tabs-optimization-plan.md`、`docs/file-manifest.md` 与 `docs/add-source-prompt.md` |
 | `ADD_SOURCE_PROMPT.md` | 根目录来源添加提示词 | 固定 GitHub Pages 与 `culua.com` 添加来源的不同处理方式、BV 分P/合集判断、runtime 配置同步、发布和验证要求 | 与 `docs/add-source-prompt.md` 互补；新会话添加来源时优先复制本文件 |
 | `.gitignore` | 本地忽略规则 | 忽略运行缓存、日志、临时截图、下载目录、runtime、`.env` | 防止本地开发产物进入后续提交；不取消已跟踪文件 |
-| `index.html` | 优化版首页与歌曲检索页 | 可搜索来源、搜索范围切换、服务端分页、来源数量展示、来源按曲目数降序排列、刷新默认回到全部来源、最近更新时间展示、筛选偏好记忆、桌面紧凑复制工具条、H5 筛选/复制/页面导航底部弹层、移动端紧凑结果卡、来源/歌手视觉分层、结果字段点击复制、单条“歌名 - 歌手”复制、稳定行级复制、B站编辑稿件直达 | 读取 `/api/bootstrap`、`/api/search`；最近更新时间由 `last-run-badge.js` 读取；来源数量优先使用 `sourceStats.totalSongs`；来源选择只保留在当前页面会话，不写入 URL 或本地偏好；行内整行复制使用服务端 `rowId`，并在旧响应缺少 `rowId` 时按当前页临时行号兜底；字段复制使用结果项内的 `data-copy-value`；桌面复制全部调用 `/api/search/export`；H5 复制默认只处理当前页结果；编辑按钮使用 BV 号跳转 B站稿件编辑页；排序、页大小和字段偏好写入浏览器 `localStorage` |
+| `index.html` | 优化版首页与歌曲检索页 | 可搜索来源、来源头像、BV 封面缩略图、搜索范围切换、服务端分页、来源数量展示、来源按曲目数降序排列、刷新默认回到全部来源、最近更新时间展示、筛选偏好记忆、桌面紧凑复制工具条、H5 筛选/复制/页面导航底部弹层、移动端紧凑结果卡、来源/歌手视觉分层、结果字段点击复制、单条“歌名 - 歌手”复制、稳定行级复制、B站编辑稿件直达 | 读取 `/api/bootstrap`、`/api/search`；来源头像来自 `sourceProfiles`，缺失时单字兜底；BV 封面来自结果项 `cover` 字段；最近更新时间由 `last-run-badge.js` 读取；来源数量优先使用 `sourceStats.totalSongs`；来源选择只保留在当前页面会话，不写入 URL 或本地偏好；行内整行复制使用服务端 `rowId`，并在旧响应缺少 `rowId` 时按当前页临时行号兜底；字段复制使用结果项内的 `data-copy-value`；桌面复制全部调用 `/api/search/export`；H5 复制默认只处理当前页结果；编辑按钮使用 BV 号跳转 B站稿件编辑页；排序、页大小和字段偏好写入浏览器 `localStorage` |
 | `index-optimized.html` | 首页优化对照文件 | 与 `index.html` 保持同源，便于后续继续调样式或回看优化方案 | 配合 `docs/site-optimization-plan.md`；正式入口仍是 `index.html` |
 | `tabs-optimization-preview.html` | 六个主 tab 的优化方案预览 | 展示首页、数据、BV 查重、歌名歌手查重、命名工具、日报的目标布局、优化优先级、移动端形态和实时后端概览 | 配合 `docs/tabs-optimization-plan.md`；读取 `/api/tabs/overview`，不替换正式页面 |
-| `stats.html` | 数据统计页 | 展示来源、歌手、曲目、投稿时间等统计视图，左侧提供来源统计/歌曲排行/歌手聚合的数据导航，并记住 tab、来源、关键词和摘要链接数；歌曲排行使用标题区、指标区和场次预览区，来源/歌手分组使用紧凑歌曲行；提供 `#statsDirectorySlot` 作为右侧目录布局列 | 优先请求 `/api/stats/view`，服务端不可用时回退本地数据；接入共享外壳、数据页专用视觉样式和 `page-directory-widget.js` 挂载目录；本地视图偏好写入浏览器 `localStorage` |
+| `stats.html` | 数据统计页 | 展示来源、歌手、曲目、投稿时间等统计视图，左侧提供来源统计/歌曲排行/歌手聚合的数据导航，并记住 tab、来源、关键词和摘要链接数；来源分组显示头像，歌曲行和场次预览显示 BV 封面；歌曲排行使用标题区、指标区和场次预览区，来源/歌手分组使用紧凑歌曲行；提供 `#statsDirectorySlot` 作为右侧目录布局列 | 优先请求 `/api/stats/view`，服务端不可用时回退本地数据；接入共享外壳、数据页专用视觉样式和 `page-directory-widget.js` 挂载目录；本地视图偏好写入浏览器 `localStorage` |
 | `bv-dup-check.html` | BV 查重页面 | 接收 BV 列表，输出已存在和未命中的结果，提供复制预设入口和折叠式高级复制字段 | 依赖 `dup-check-core.js` 与 `artist-match.js`；服务端 `/api/dup-check` 限制未知 BV live fallback |
 | `title-artist-dup-check.html` | 歌名歌手查重页面 | 批量检查“歌名 - 歌手”是否已入库，展示歌手疑似不一致分组，提供复制预设入口、折叠式高级复制字段和更干净的输入区 | 依赖 `dup-check-core.js` 与 `artist-match.js` |
 | `title-artist-check.html` | 命名和校验工具 | 校验歌名歌手组合，提供改名重查、搜索辅助、已确认/需要确认/缺歌手/待入库/未找到状态筛选、当前可见结果复制和待处理项网易云搜索 | 依赖 `bili-check-title-artist.js`；服务端 `/api/title-artist/lookup` 返回 summary；正式页面首屏直接包含共享外壳 |
@@ -45,8 +45,8 @@
 
 | 文件路径 | 文件用途 | 主要函数或模块职责 | 与其他文件的关系 |
 |---|---|---|---|
-| `data/*.js` | 分来源歌曲数据 | 每个文件向 `window.SONG_DATA` 注入对应来源歌曲 | 由 `scripts/update-songs.js` 生成，页面和服务端读取 |
-| `data/index.json` | 歌库索引 | 记录数据文件列表、来源、总量等索引信息 | 由 `scripts/update-songs.js` 生成，首页和服务端启动时读取 |
+| `data/*.js` | 分来源歌曲数据 | 每个文件向 `window.SONG_DATA` 注入对应来源歌曲，歌曲记录可带 BV 封面缩略图 `cover` | 由 `scripts/update-songs.js` 生成，页面和服务端读取 |
+| `data/index.json` | 歌库索引 | 记录数据文件列表、来源、来源头像 profile、总量等索引信息 | 由 `scripts/update-songs.js` 生成，首页和服务端启动时读取 |
 | `reports/song-growth-history.json` | 增长历史 | 保存曲库总量和增长统计历史 | 由 `scripts/update-song-growth.js` 更新，被 `song-growth.html` 和 README 日报读取 |
 | `reports/bv-metadata-cache.json` | BV 元数据缓存 | 缓存 B 站接口结果，降低重复请求 | 运行缓存，已忽略，不应提交 |
 | `reports/update-songs-meta.json` | 更新元信息 | 记录最近刷新时间和结果 | 运行缓存，已忽略，不应提交 |
@@ -56,7 +56,8 @@
 | 文件路径 | 文件用途 | 主要函数或模块职责 | 与其他文件的关系 |
 |---|---|---|---|
 | `scripts/singer-configs.json` | 来源/BV 配置 | 配置来源别名、文件名、入口 BV；可用 `sectionTitle` / `sectionTitles` 收录指定合集小节，用 `excludeSectionTitle` / `excludeSectionTitles` 排除指定小节 | `scripts/update-songs.js` 的主要输入；服务器也可用 `/var/lib/song-search/singer-configs.json` 覆盖运行时配置 |
-| `scripts/update-songs.js` | 歌库抓取生成脚本 | 读取来源配置、拉取 B 站元数据、解析分 P、按合集小节过滤来源、兼容普通多分P BV 和 `with 嘉宾 + 序号` 分P标题、生成 `data/*.js` 和 `data/index.json` | 服务器刷新脚本、GitHub Actions、本地数据更新都会调用 |
+| `scripts/source-profiles.json` | 来源头像补充配置 | 按来源文件名补充 `avatarUrl`、`youtubeUrl`、`avatarText`、`accentColor`；缺失时由脚本生成来源名单字头像 | `scripts/update-songs.js` 读取后写入 `data/index.json` 的 `sourceProfiles`；页面和服务端通过 `/api/bootstrap` 使用 |
+| `scripts/update-songs.js` | 歌库抓取生成脚本 | 读取来源配置、来源头像配置、拉取 B 站元数据、解析分 P、按合集小节过滤来源、兼容普通多分P BV 和 `with 嘉宾 + 序号` 分P标题、写入 BV 封面缩略图、生成 `data/*.js` 和 `data/index.json` | 服务器刷新脚本、GitHub Actions、本地数据更新都会调用 |
 | `scripts/update-song-growth.js` | 增长日报生成脚本 | 读取歌库数据和去重歌曲数，更新 `reports/song-growth-history.json`、`song-growth.html` 和 README 日报段落 | GitHub Actions `song-growth.yml` 调用 |
 | `scripts/check-song-library.js` | 歌库检查脚本 | 统计数据文件数、总曲数、去重曲数、缺失歌手数 | 本地提交前和数据更新后验证使用 |
 | `scripts/check-live-song-total.js` | 线上歌库回退检查脚本 | 读取公网 `/api/bootstrap` 和 `/api/search`，校验 `totalSongs` 不低于指定值、指定 BV 至少命中一条 | 发布前后和线上故障排查使用，避免只重启服务导致歌库回退 |

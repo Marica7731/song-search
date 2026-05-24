@@ -1554,7 +1554,7 @@ body.culua-shell-stats .perf-grid {
 
 body.culua-shell-stats .perf-link {
   display: grid !important;
-  grid-template-columns: minmax(0, 1fr) auto auto;
+  grid-template-columns: 74px minmax(0, 1fr) auto;
   align-items: center;
   gap: 8px;
   min-height: 34px;
@@ -1565,6 +1565,25 @@ body.culua-shell-stats .perf-link {
   color: #1f2937 !important;
   text-decoration: none !important;
   overflow: hidden;
+}
+
+body.culua-shell-stats .perf-link:not(:has(.perf-link-cover)) {
+  grid-template-columns: minmax(0, 1fr) auto;
+}
+
+body.culua-shell-stats .perf-link-cover {
+  width: 74px;
+  aspect-ratio: 16 / 9;
+  flex: 0 0 auto;
+  overflow: hidden;
+  border-radius: 6px;
+  background: #e8edf3;
+}
+
+body.culua-shell-stats .perf-link-body {
+  min-width: 0;
+  display: grid;
+  gap: 3px;
 }
 
 body.culua-shell-stats .perf-link-title,
@@ -2125,10 +2144,36 @@ body.culua-shell-stats .group-header {
 }
 
 body.culua-shell-stats .group-name {
+  display: flex;
+  align-items: center;
+  gap: 10px;
   min-width: 0;
   max-width: 100%;
   font-size: 18px !important;
   line-height: 1.35;
+}
+
+body.culua-shell-stats .source-avatar {
+  width: 34px;
+  height: 34px;
+  flex: 0 0 auto;
+  display: inline-grid;
+  place-items: center;
+  overflow: hidden;
+  border-radius: 50%;
+  background: var(--source-avatar-color, #0f766e);
+  color: #fff;
+  font-size: 14px;
+  font-weight: 850;
+  line-height: 1;
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.25);
+}
+
+body.culua-shell-stats .source-avatar img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
 }
 
 body.culua-shell-stats .group-name span {
@@ -2213,11 +2258,34 @@ body.culua-shell-stats .group-song-list {
 
 body.culua-shell-stats .song-item-row {
   display: grid !important;
-  grid-template-columns: minmax(0, 1fr) auto !important;
+  grid-template-columns: 86px minmax(0, 1fr) auto !important;
   gap: 8px 14px !important;
   align-items: start !important;
   padding: 12px 16px !important;
   border-bottom: 1px solid #edf2f7 !important;
+}
+
+body.culua-shell-stats .song-item-row:not(:has(.song-row-cover)) {
+  grid-template-columns: minmax(0, 1fr) auto !important;
+}
+
+body.culua-shell-stats .song-row-cover {
+  width: 86px;
+  aspect-ratio: 16 / 9;
+  display: block;
+  overflow: hidden;
+  border: 1px solid #d9e0ea;
+  border-radius: 7px;
+  background: #eef2f7;
+}
+
+body.culua-shell-stats .song-row-cover img,
+body.culua-shell-stats .perf-link-cover img,
+body.culua-shell-stats .perf-link-small-cover img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
 }
 
 body.culua-shell-stats .song-info-left {
@@ -2291,7 +2359,10 @@ body.culua-shell-stats .perf-grid-small.hidden {
 }
 
 body.culua-shell-stats .perf-grid-small .perf-link-small {
-  display: -webkit-box !important;
+  display: grid !important;
+  grid-template-columns: 58px minmax(0, 1fr);
+  align-items: center;
+  gap: 7px;
   min-width: 0;
   min-height: 32px !important;
   overflow: hidden !important;
@@ -2305,6 +2376,26 @@ body.culua-shell-stats .perf-grid-small .perf-link-small {
   border-color: #e2e8f0 !important;
   color: #1f2937 !important;
   text-decoration: none !important;
+}
+
+body.culua-shell-stats .perf-grid-small .perf-link-small:not(:has(.perf-link-small-cover)) {
+  grid-template-columns: minmax(0, 1fr);
+}
+
+body.culua-shell-stats .perf-link-small-cover {
+  width: 58px;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  border-radius: 5px;
+  background: #e8edf3;
+}
+
+body.culua-shell-stats .perf-link-small-title {
+  min-width: 0;
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
 }
 
 body.culua-shell-stats .perf-grid-small .perf-link-small:hover {
@@ -2393,11 +2484,16 @@ body.culua-shell-stats .perf-grid-small .perf-link-small:hover {
   }
 
   body.culua-shell-stats .song-item-row {
-    grid-template-columns: minmax(0, 1fr) !important;
+    grid-template-columns: 92px minmax(0, 1fr) !important;
     padding: 12px !important;
   }
 
+  body.culua-shell-stats .song-item-row:not(:has(.song-row-cover)) {
+    grid-template-columns: minmax(0, 1fr) !important;
+  }
+
   body.culua-shell-stats .song-meta-right {
+    grid-column: 1 / -1;
     justify-content: flex-start !important;
     min-width: 0 !important;
     width: 100%;

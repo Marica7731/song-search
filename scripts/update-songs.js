@@ -13,6 +13,7 @@ const LEADING_INDEX_REGEX = /^(?:\s*\[\d+(?:\s*[-/]\s*\d+)+\]\.?\s*|\s*\d+\.\s+|
 const SPECIAL_BRACKET_ARTIST_SET = new Set(['[Alexandros]', '[ALEXANDROS]']);
 const ROOT_DIR = path.join(__dirname, '..');
 const DEFAULT_SINGER_CONFIG_PATH = path.join(__dirname, 'singer-configs.json');
+const SOURCE_PROFILE_PATH = path.join(__dirname, 'source-profiles.json');
 const ENV_SINGER_CONFIG_PATH = (process.env.SINGER_CONFIG_PATH || '').trim();
 const ENV_RUNTIME_SINGER_CONFIG_PATH = (process.env.SINGER_CONFIG_RUNTIME_PATH || '').trim();
 const DATA_DIR = path.join(ROOT_DIR, 'data');
@@ -20,6 +21,40 @@ const REPORT_DIR = path.join(ROOT_DIR, 'reports');
 const INDEX_PATH = path.join(DATA_DIR, 'index.json');
 const METADATA_CACHE_PATH = path.join(REPORT_DIR, 'bv-metadata-cache.json');
 const UPDATE_META_PATH = path.join(REPORT_DIR, 'update-songs-meta.json');
+
+function stringHash(value) {
+    let hash = 0;
+    String(value || '').split('').forEach(ch => {
+        hash = ((hash << 5) - hash) + ch.charCodeAt(0);
+        hash |= 0;
+    });
+    return Math.abs(hash);
+}
+
+function getDefaultAvatarText(alias) {
+    const chars = Array.from(String(alias || '').trim());
+    const picked = chars.find(ch => /[\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}A-Za-z0-9]/u.test(ch));
+    return (picked || '源').toUpperCase();
+}
+
+function normalizeProfileUrl(value) {
+    const text = String(value || '').trim();
+    return /^https?:\/\//i.test(text) ? text : '';
+}
+
+function normalizeBiliImageUrl(value) {
+    const text = String(value || '').trim();
+    if (!text) return '';
+    if (text.startsWith('//')) return `https:${text}`;
+    if (/^https?:\/\//i.test(text)) return text;
+    return '';
+}
+
+function buildBiliThumbUrl(value) {
+    const url = normalizeBiliImageUrl(value);
+    if (!url) return '';
+    return url.includes('@') ? url : `${url}@320w_180h_1c.webp`;
+}
 
 function uniquePaths(paths) {
     const out = [];
@@ -114,8 +149,37 @@ function loadSingerConfigs() {
         : `未找到可用配置文件: ${DEFAULT_SINGER_CONFIG_PATH}`);
 }
 
+function loadSourceProfileOverrides() {
+    if (!fs.existsSync(SOURCE_PROFILE_PATH)) return {};
+    try {
+        const parsed = JSON.parse(fs.readFileSync(SOURCE_PROFILE_PATH, 'utf8'));
+        const profiles = parsed?.profiles && typeof parsed.profiles === 'object'
+            ? parsed.profiles
+            : parsed;
+        return profiles && typeof profiles === 'object' && !Array.isArray(profiles) ? profiles : {};
+    } catch (error) {
+        console.warn(`⚠️  来源头像配置读取失败：${error.message}`);
+        return {};
+    }
+}
+
+function buildSourceProfile(config, overrides) {
+    const alias = config.alias || config.resolvedFile || '来源';
+    const raw = overrides?.[config.resolvedFile] || overrides?.[alias] || {};
+    const avatarText = String(raw.avatarText || '').trim() || getDefaultAvatarText(alias);
+    const accentColor = String(raw.accentColor || '').trim() || `hsl(${stringHash(config.resolvedFile || alias) % 360} 55% 36%)`;
+    return {
+        alias,
+        avatarText,
+        avatarUrl: normalizeProfileUrl(raw.avatarUrl),
+        youtubeUrl: normalizeProfileUrl(raw.youtubeUrl || raw.youtubeChannelUrl),
+        accentColor
+    };
+}
+
 const loadedSingerConfig = loadSingerConfigs();
 const SINGER_CONFIGS = loadedSingerConfig.configs;
+const SOURCE_PROFILE_OVERRIDES = loadSourceProfileOverrides();
 console.log(`📦 来源配置: ${loadedSingerConfig.loadedFrom}`);
 
 function ensureDir(dirPath) {
@@ -253,6 +317,7 @@ async function fetchBvMetadata(bvid, cache, forceRefresh = false) {
         duration: payload.duration || null,
         videos: payload.videos || 0,
         viewCount: Number(payload.stat?.view || 0),
+        cover: buildBiliThumbUrl(payload.pic),
         seasonId: payload.ugc_season?.id || null,
         seasonTitle: payload.ugc_season?.title || '',
         pages: Array.isArray(payload.pages) ? payload.pages.map(page => ({
@@ -406,6 +471,7 @@ function buildSongItem(config, episodeMetadata, pageMeta) {
         partDuration: pageMeta.duration || null,
         videos: episodeMetadata.videos,
         viewCount: Number(episodeMetadata.viewCount || 0),
+        cover: episodeMetadata.cover || '',
         videoTitle: episodeMetadata.title,
         uploader: episodeMetadata.ownerName || '',
         uploaderMid: episodeMetadata.ownerMid || null
@@ -474,6 +540,10 @@ function generateIndexJson() {
         files: RESOLVED_SINGER_CONFIGS.map(config => `${config.resolvedFile}.js`),
         fileToAlias: RESOLVED_SINGER_CONFIGS.reduce((map, config) => {
             map[config.resolvedFile] = config.alias;
+            return map;
+        }, {}),
+        sourceProfiles: RESOLVED_SINGER_CONFIGS.reduce((map, config) => {
+            map[config.resolvedFile] = buildSourceProfile(config, SOURCE_PROFILE_OVERRIDES);
             return map;
         }, {})
     };
