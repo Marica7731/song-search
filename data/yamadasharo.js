@@ -1,6 +1,6 @@
 // 山田シャロ - 歌单数据 (多合集汇总)
 // 来源: BV179L66pE1f
-// 生成时间: 5/24/2026, 4:16:26 PM
+// 生成时间: 5/24/2026, 4:58:51 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -515,6 +515,166 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-22]想在竖屏直播中遇到初次见面的观众！✨ SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19QGi64E9d?p=16",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "カーストルーム",
+  "artist": "ZAQ",
+  "collection": "【歌切】[2026-05-24]目标同时在线50人！请找到我✨❤ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6Gn6UEKF?p=1",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ごめんね、私。",
+  "artist": "南波志帆",
+  "collection": "【歌切】[2026-05-24]目标同时在线50人！请找到我✨❤ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6Gn6UEKF?p=2",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "完璧ぐ~のね",
+  "artist": "渡り廊下走り隊",
+  "collection": "【歌切】[2026-05-24]目标同时在线50人！请找到我✨❤ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6Gn6UEKF?p=3",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "U & I",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-05-24]目标同时在线50人！请找到我✨❤ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6Gn6UEKF?p=4",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "アオイイロ",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-05-24]目标同时在线50人！请找到我✨❤ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6Gn6UEKF?p=5",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "夏色えがおで1, 2, Jump!",
+  "artist": "μ’s",
+  "collection": "【歌切】[2026-05-24]目标同时在线50人！请找到我✨❤ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6Gn6UEKF?p=6",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "春を告げる",
+  "artist": "yama",
+  "collection": "【歌切】[2026-05-24]目标同时在线50人！请找到我✨❤ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6Gn6UEKF?p=7",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ダイアモンド クレバス",
+  "artist": "シェリル・ノーム",
+  "collection": "【歌切】[2026-05-24]目标同时在线50人！请找到我✨❤ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6Gn6UEKF?p=8",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Sincerely",
+  "artist": "True",
+  "collection": "【歌切】[2026-05-24]目标同时在线50人！请找到我✨❤ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6Gn6UEKF?p=9",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "輝夜の城で踊りたい",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-05-24]目标同时在线50人！请找到我✨❤ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6Gn6UEKF?p=10",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "もぎゅっと“love”で接近中!",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-05-24]目标同时在线50人！请找到我✨❤ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6Gn6UEKF?p=11",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "恋愛裁判",
+  "artist": "40mP",
+  "collection": "【歌切】[2026-05-24]目标同时在线50人！请找到我✨❤ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6Gn6UEKF?p=12",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ヴァンパイア",
+  "artist": "DECO*27",
+  "collection": "【歌切】[2026-05-24]目标同时在线50人！请找到我✨❤ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6Gn6UEKF?p=13",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "【歌切】[2026-05-24]目标同时在线50人！请找到我✨❤ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6Gn6UEKF?p=14",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "そばかす",
+  "artist": "JUDY AND MARY",
+  "collection": "【歌切】[2026-05-24]目标同时在线50人！请找到我✨❤ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6Gn6UEKF?p=15",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-05-24]目标同时在线50人！请找到我✨❤ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6Gn6UEKF?p=16",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "翼",
+  "artist": "藍井エイル",
+  "collection": "【歌切】[2026-05-24]目标同时在线50人！请找到我✨❤ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6Gn6UEKF?p=17",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ETERNAL BLAZE",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-05-24]目标同时在线50人！请找到我✨❤ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6Gn6UEKF?p=18",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "はじめてのチュウ",
+  "artist": "あんしんパパ (実川俊晴)",
+  "collection": "【歌切】[2026-05-24]目标同时在线50人！请找到我✨❤ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6Gn6UEKF?p=19",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "津軽海峡・冬景色",
+  "artist": "石川さゆり",
+  "collection": "【歌切】[2026-05-24]目标同时在线50人！请找到我✨❤ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6Gn6UEKF?p=20",
   "source": "yamadasharo.js"
 }
 );

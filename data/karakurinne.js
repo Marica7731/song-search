@@ -1,6 +1,6 @@
 // からくりんね-KarakuRinne - 歌单数据 (多合集汇总)
 // 来源: BV1sU5S69E8r
-// 生成时间: 5/24/2026, 4:14:50 PM
+// 生成时间: 5/24/2026, 4:57:01 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -379,6 +379,62 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-21]初次见面欢迎!!!偏抒情曲风的歌回！からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MwLv6XEhk?p=11",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "エイプリル",
+  "artist": "mol-74",
+  "collection": "【歌切】[2026-05-24]轻松自弹自唱‼欢迎初见观众！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18SGn6rEoi?p=1",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "命に嫌われている。",
+  "artist": "カンザキイオリ",
+  "collection": "【歌切】[2026-05-24]轻松自弹自唱‼欢迎初见观众！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18SGn6rEoi?p=2",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "泡沫花火",
+  "artist": "神はサイコロを振らない",
+  "collection": "【歌切】[2026-05-24]轻松自弹自唱‼欢迎初见观众！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18SGn6rEoi?p=3",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "眠り姫",
+  "artist": "SEKAI NO OWARI",
+  "collection": "【歌切】[2026-05-24]轻松自弹自唱‼欢迎初见观众！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18SGn6rEoi?p=4",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "そっけない",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-05-24]轻松自弹自唱‼欢迎初见观众！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18SGn6rEoi?p=5",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-24]轻松自弹自唱‼欢迎初见观众！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18SGn6rEoi?p=6",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "憂、燦々",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-05-24]轻松自弹自唱‼欢迎初见观众！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18SGn6rEoi?p=7",
   "source": "karakurinne.js"
 }
 );
