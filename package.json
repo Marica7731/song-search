@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node server.js",
     "check:library": "node scripts/check-song-library.js",
-    "check:live": "node scripts/check-live-song-total.js"
+    "check:live": "node scripts/check-live-song-total.js",
+    "collect:avatars": "node scripts/collect-source-avatars.js --write --update-index"
   }
 }

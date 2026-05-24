@@ -39,6 +39,7 @@ git status --short
 - `scripts/check-live-song-total.js`：线上歌库回退检查脚本，读取公网 `/api/bootstrap` 和 `/api/search`，用于发布后确认总曲数没有下降、关键 BV 仍可命中。
 - `ADD_SOURCE_PROMPT.md`：根目录来源添加提示词，固定 GitHub Pages 与 `culua.com` 的不同添加、验证和发布方式，避免后续上下文过长时混用流程。
 - `scripts/source-profiles.json`：来源头像补充配置，可按来源文件名补 `avatarUrl`、`youtubeUrl`、`avatarText` 和 `accentColor`；缺失时页面自动显示来源名单字头像。
+- `scripts/collect-source-avatars.js`：来源头像采集脚本，从每个来源当前歌库里挑最新 BV，读取 B 站简介中的 YouTube 链接并解析频道头像，写回 `scripts/source-profiles.json` 和 `data/index.json`。
 
 ## 在线页面
 
@@ -203,6 +204,14 @@ node --check scripts/update-songs.js
 node scripts/update-songs.js
 npm run check:library
 ```
+
+来源头像采集：
+
+```powershell
+npm run collect:avatars
+```
+
+该命令会按每个来源最新 BV 的简介提取 YouTube 频道或视频链接，解析频道头像后更新 `scripts/source-profiles.json`，并同步 `data/index.json` 里的 `sourceProfiles`。如果简介没有明确 YouTube 链接或频道页无法解析头像，会继续使用来源名单字头像兜底。
 
 注意：
 
