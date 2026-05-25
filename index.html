@@ -271,6 +271,7 @@
       justify-content: center;
       gap: 6px;
       font-weight: 700;
+      text-decoration: none;
     }
 
     .btn:hover {
@@ -434,6 +435,7 @@
       border: 1px solid var(--line);
       border-radius: 7px;
       background: #eef2f7;
+      text-decoration: none;
     }
 
     .song-cover img {
@@ -441,6 +443,10 @@
       height: 100%;
       display: block;
       object-fit: cover;
+    }
+
+    .song-media {
+      min-width: 0;
     }
 
     .media-lazy {
@@ -1053,14 +1059,14 @@
       }
 
       .song-row {
-        grid-template-columns: 112px minmax(0, 1fr);
+        grid-template-columns: 104px minmax(0, 1fr);
         grid-template-areas:
           "cover main"
           "cover artist"
           "cover collection"
           "cover actions";
-        gap: 6px 10px;
-        padding: 9px 10px;
+        gap: 5px 9px;
+        padding: 8px 9px;
         align-items: start;
       }
 
@@ -1074,11 +1080,19 @@
       }
 
       .song-cover {
-        grid-area: cover;
-        width: 112px;
-        height: 63px;
+        width: 104px;
+        height: 59px;
+        max-width: 100%;
         align-self: start;
         border-radius: 8px;
+      }
+
+      .song-media {
+        grid-area: cover;
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+        align-self: start;
       }
 
       .song-main {
@@ -1105,13 +1119,14 @@
       .mobile-card-meta {
         display: flex;
         align-items: center;
-        gap: 4px;
-        margin-top: 5px;
+        gap: 3px;
+        margin-top: 0;
         color: #7c8797;
-        font-size: 11px;
-        line-height: 1.35;
+        font-size: 10px;
+        line-height: 1.25;
         overflow: hidden;
-        white-space: nowrap;
+        white-space: normal;
+        flex-wrap: wrap;
       }
 
       .mobile-card-meta .source-avatar {
@@ -1135,21 +1150,21 @@
         border: 1px solid #e5eaf1;
         border-radius: 999px;
         background: #f8fafc;
-        padding: 1px 6px;
+        padding: 1px 5px;
         color: #7b8794;
         font-weight: 600;
       }
 
       .mobile-meta-source {
-        flex: 0 0 auto;
-        max-width: 98px;
+        flex: 1 1 70px;
+        max-width: calc(100% - 22px);
         color: #64748b;
         background: #f9fafb;
       }
 
       .mobile-meta-chip {
-        flex: 0 1 auto;
-        max-width: 92px;
+        flex: 0 1 100%;
+        max-width: 100%;
       }
 
       .song-artist {
@@ -2017,11 +2032,11 @@
         ].filter(Boolean).join('');
         return `
           <article class="song-row ${cover ? 'has-cover' : ''}">
-            ${cover ? `<a class="song-cover" href="${escapeHtml(item.link || '#')}" target="_blank" rel="noreferrer"><img ${lazyImageAttributes(cover)}></a>` : ''}
+            ${cover ? `<div class="song-media"><a class="song-cover" href="${escapeHtml(item.link || '#')}" target="_blank" rel="noreferrer"><img ${lazyImageAttributes(cover)}></a><div class="mobile-card-meta">${mobileMeta}</div></div>` : ''}
             <div class="song-main">
               <div class="song-title">${copyableField(item.title || '未知歌曲', '歌名', 'song-title-copy')}</div>
               <div class="meta">${metaParts}</div>
-              <div class="mobile-card-meta">${mobileMeta}</div>
+              ${cover ? '' : `<div class="mobile-card-meta">${mobileMeta}</div>`}
             </div>
             <div class="song-artist">${copyableField(artist, '歌手')}</div>
             <div class="song-collection">${copyableField(item.collection || '未知合集', '合集')}</div>

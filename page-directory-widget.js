@@ -45,6 +45,38 @@
         line-height: 1.45;
         padding: 7px 10px;
         cursor: pointer;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+      }
+      .pd-widget-avatar {
+        position: relative;
+        width: 24px;
+        height: 24px;
+        flex: 0 0 auto;
+        display: inline-grid;
+        place-items: center;
+        overflow: hidden;
+        border-radius: 50%;
+        background: var(--pd-widget-avatar-color, #0f766e);
+        color: #fff;
+        font-size: 10px;
+        font-weight: 800;
+        line-height: 1;
+      }
+      .pd-widget-avatar img {
+        position: absolute;
+        inset: 0;
+        width: 100%;
+        height: 100%;
+        display: block;
+        object-fit: cover;
+      }
+      .pd-widget-label {
+        min-width: 0;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
       }
       .pd-widget-item:hover {
         background: #f8fafc;
@@ -185,6 +217,20 @@
     return id;
   }
 
+  function escapeHtml(value) {
+    return String(value || '').replace(/[&<>"']/g, ch => ({
+      '&': '&amp;',
+      '<': '&lt;',
+      '>': '&gt;',
+      '"': '&quot;',
+      "'": '&#39;'
+    }[ch]));
+  }
+
+  function escapeAttr(value) {
+    return escapeHtml(value).replace(/`/g, '&#96;');
+  }
+
   function resolveItems(rawItems) {
     const used = new Set();
     const list = [];
@@ -206,6 +252,9 @@
       list.push({
         id: targetId,
         label,
+        avatarUrl: String(item?.avatarUrl || '').trim(),
+        avatarText: String(item?.avatarText || '').trim(),
+        accentColor: String(item?.accentColor || '').trim(),
         target
       });
     });
@@ -290,8 +339,18 @@
     }
 
     function renderList(listEl) {
+      const renderAvatar = item => {
+        const style = item.accentColor ? ` style="--pd-widget-avatar-color:${escapeAttr(item.accentColor)}"` : '';
+        if (item.avatarUrl) {
+          return `<span class="pd-widget-avatar"${style}><img src="${escapeAttr(item.avatarUrl)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"></span>`;
+        }
+        if (item.avatarText) {
+          return `<span class="pd-widget-avatar"${style}>${escapeHtml(item.avatarText)}</span>`;
+        }
+        return '';
+      };
       listEl.innerHTML = items.map(item => (
-        `<button type="button" class="pd-widget-item" data-target="${item.id}">${item.label}</button>`
+        `<button type="button" class="pd-widget-item" data-target="${escapeAttr(item.id)}">${renderAvatar(item)}<span class="pd-widget-label">${escapeHtml(item.label)}</span></button>`
       )).join('');
       listEl.querySelectorAll('.pd-widget-item').forEach(button => {
         button.addEventListener('click', () => {

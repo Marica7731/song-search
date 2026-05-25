@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>歌曲数据</title>
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-    <link rel="stylesheet" href="/site-theme.css?v=20260524media3">
+    <link rel="stylesheet" href="/site-theme.css?v=20260525h5compact1">
     <script src="/site-shell.js?v=20260524shell7" defer></script>
     <style>
         /* --- 全局样式复用 --- */
@@ -2801,7 +2801,7 @@
             bootstrap();
         });
     </script>
-  <script src="/page-directory-widget.js?v=20260524dir2"></script>
+  <script src="/page-directory-widget.js?v=20260525avatar1"></script>
   <script>
     document.addEventListener('DOMContentLoaded', () => {
       if (typeof window.createPageDirectory !== 'function') return;
@@ -2815,6 +2815,15 @@
       const buildLongListItems = () => {
         const activeTab = document.querySelector('.tab-btn.active')?.dataset?.tab || 'vtuber-source';
         const items = [];
+        const avatarFromRow = row => {
+          const avatar = row.querySelector('.group-source-avatar');
+          if (!avatar) return {};
+          const img = avatar.querySelector('img');
+          const avatarUrl = img?.dataset?.src || img?.currentSrc || img?.getAttribute('src') || '';
+          const avatarText = avatar.textContent?.trim() || '';
+          const accentColor = avatar.style.getPropertyValue('--source-avatar-color') || '';
+          return { avatarUrl, avatarText, accentColor };
+        };
         if (activeTab === 'rank') {
           const rankItems = Array.from(document.querySelectorAll('#rank-list .rank-item'));
           rankItems.forEach((row, idx) => {
@@ -2835,6 +2844,7 @@
           const name = row.querySelector('.group-name [data-quick-copy]')?.textContent || `分组 #${idx + 1}`;
           items.push({
             label: `${idx + 1}. ${clipText(name, 28)}`,
+            ...(activeTab === 'vtuber-source' ? avatarFromRow(row) : {}),
             target: row
           });
         });
