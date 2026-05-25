@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 5/25/2026, 9:27:13 PM
+// 生成时间: 5/25/2026, 10:11:14 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9019,6 +9019,62 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-22]Live前夜祭！悠闲唱歌哦🌸 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15aGq6FE29?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ヒトリゴト",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-05-25]突击！稍微唱一会儿歌👀 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15gVc6aEdT?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ヒトリノ夜",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-05-25]突击！稍微唱一会儿歌👀 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15gVc6aEdT?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【歌切】[2026-05-25]突击！稍微唱一会儿歌👀 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15gVc6aEdT?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "愛唄",
+  "artist": "GReeeeN",
+  "collection": "【歌切】[2026-05-25]突击！稍微唱一会儿歌👀 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15gVc6aEdT?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "フィナーレ。",
+  "artist": "eill",
+  "collection": "【歌切】[2026-05-25]突击！稍微唱一会儿歌👀 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15gVc6aEdT?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "自傷無色",
+  "artist": "ねこぼーろ feat.初音ミク",
+  "collection": "【歌切】[2026-05-25]突击！稍微唱一会儿歌👀 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15gVc6aEdT?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Q&A リサイタル！",
+  "artist": "戸松遥",
+  "collection": "【歌切】[2026-05-25]突击！稍微唱一会儿歌👀 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15gVc6aEdT?p=7",
   "source": "naraetan.js"
 },
     {

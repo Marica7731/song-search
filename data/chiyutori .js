@@ -1,6 +1,6 @@
 // 知悠 - 歌单数据 (多合集汇总)
 // 来源: BV1owcoz3Ekw
-// 生成时间: 5/25/2026, 9:25:55 PM
+// 生成时间: 5/25/2026, 10:09:28 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2811,6 +2811,262 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-04]目标达到2727名订阅者！星期一固定歌回♪ 知悠 - Chiyutori",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CzRHBqE1H?p=34",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "覚醒",
+  "artist": "Superfly",
+  "collection": "【歌切】[2026-05-25]目标是2850人！谢谢大家来看现场Live！星期一固定歌回♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aE4k?p=1",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "覚醒",
+  "artist": "Superfly",
+  "collection": "【歌切】[2026-05-25]目标是2850人！谢谢大家来看现场Live！星期一固定歌回♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aE4k?p=2",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "RE:I AM",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-05-25]目标是2850人！谢谢大家来看现场Live！星期一固定歌回♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aE4k?p=3",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "愛をこめて花束を",
+  "artist": "Superfly",
+  "collection": "【歌切】[2026-05-25]目标是2850人！谢谢大家来看现场Live！星期一固定歌回♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aE4k?p=4",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ケロッ!とマーチ",
+  "artist": "角田信朗＆いはたじゅり",
+  "collection": "【歌切】[2026-05-25]目标是2850人！谢谢大家来看现场Live！星期一固定歌回♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aE4k?p=5",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "人生は夢だらけ",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-05-25]目标是2850人！谢谢大家来看现场Live！星期一固定歌回♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aE4k?p=6",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-25]目标是2850人！谢谢大家来看现场Live！星期一固定歌回♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aE4k?p=7",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Everything",
+  "artist": "MISIA",
+  "collection": "【歌切】[2026-05-25]目标是2850人！谢谢大家来看现场Live！星期一固定歌回♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aE4k?p=8",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ベリーメロン ～私の心をつかんだ良いメロン～",
+  "artist": "ビクトリーム",
+  "collection": "【歌切】[2026-05-25]目标是2850人！谢谢大家来看现场Live！星期一固定歌回♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aE4k?p=9",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "The Everlasting Guilty Crown",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-05-25]目标是2850人！谢谢大家来看现场Live！星期一固定歌回♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aE4k?p=10",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "天城越え",
+  "artist": "石川さゆり",
+  "collection": "【歌切】[2026-05-25]目标是2850人！谢谢大家来看现场Live！星期一固定歌回♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aE4k?p=11",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-05-25]目标是2850人！谢谢大家来看现场Live！星期一固定歌回♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aE4k?p=12",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "未确定",
+  "artist": "未确定",
+  "collection": "【歌切】[2026-05-25]目标是2850人！谢谢大家来看现场Live！星期一固定歌回♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aE4k?p=13",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "アゲハ蝶",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-05-25]目标是2850人！谢谢大家来看现场Live！星期一固定歌回♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aE4k?p=14",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Stellar Stellar",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-05-25]目标是2850人！谢谢大家来看现场Live！星期一固定歌回♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aE4k?p=15",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Wherever you are",
+  "artist": "ONE OK ROCK",
+  "collection": "【歌切】[2026-05-25]目标是2850人！谢谢大家来看现场Live！星期一固定歌回♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aE4k?p=16",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【歌切】[2026-05-25]目标是2850人！谢谢大家来看现场Live！星期一固定歌回♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aE4k?p=17",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "愛して愛して愛して",
+  "artist": "きくお feat. 初音ミク",
+  "collection": "【歌切】[2026-05-25]目标是2850人！谢谢大家来看现场Live！星期一固定歌回♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aE4k?p=18",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "a.m.3:21",
+  "artist": "yama",
+  "collection": "【歌切】[2026-05-25]目标是2850人！谢谢大家来看现场Live！星期一固定歌回♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aE4k?p=19",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "射手座☆午後九時Don't be late",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【歌切】[2026-05-25]目标是2850人！谢谢大家来看现场Live！星期一固定歌回♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aE4k?p=20",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "オベリスク",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【歌切】[2026-05-25]目标是2850人！谢谢大家来看现场Live！星期一固定歌回♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aE4k?p=21",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ノンブレス・オブリージュ",
+  "artist": "ピノキオピー feat. 初音ミク",
+  "collection": "【歌切】[2026-05-25]目标是2850人！谢谢大家来看现场Live！星期一固定歌回♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aE4k?p=22",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "トライアングラー",
+  "artist": "坂本真綾",
+  "collection": "【歌切】[2026-05-25]目标是2850人！谢谢大家来看现场Live！星期一固定歌回♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aE4k?p=23",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "蒼のエーテル",
+  "artist": "ランカ・リー＝中島愛",
+  "collection": "【歌切】[2026-05-25]目标是2850人！谢谢大家来看现场Live！星期一固定歌回♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aE4k?p=24",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ノーザンクロス",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【歌切】[2026-05-25]目标是2850人！谢谢大家来看现场Live！星期一固定歌回♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aE4k?p=25",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ダイアモンド クレバス",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【歌切】[2026-05-25]目标是2850人！谢谢大家来看现场Live！星期一固定歌回♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aE4k?p=26",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-05-25]目标是2850人！谢谢大家来看现场Live！星期一固定歌回♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aE4k?p=27",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "sakura",
+  "artist": "NIRGILIS",
+  "collection": "【歌切】[2026-05-25]目标是2850人！谢谢大家来看现场Live！星期一固定歌回♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aE4k?p=28",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono!",
+  "collection": "【歌切】[2026-05-25]目标是2850人！谢谢大家来看现场Live！星期一固定歌回♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aE4k?p=29",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "世界のつづき",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-05-25]目标是2850人！谢谢大家来看现场Live！星期一固定歌回♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aE4k?p=30",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "唱",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-05-25]目标是2850人！谢谢大家来看现场Live！星期一固定歌回♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aE4k?p=31",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "終わりへ向かう始まりの歌",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-05-25]目标是2850人！谢谢大家来看现场Live！星期一固定歌回♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aE4k?p=32",
   "source": "chiyutori .js"
 }
 );

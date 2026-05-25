@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 5/25/2026, 9:45:13 PM
+// 生成时间: 5/25/2026, 10:28:04 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3531,6 +3531,62 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-21]坚果选无盐派｜CULUA的歌单第33弹 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WbLa6qEok?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "ベビ・デビ",
+  "artist": "CULUA",
+  "collection": "【歌切】[2026-05-25]活动二周年纪念☾ CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15gVc6aEoe?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工",
+  "collection": "【歌切】[2026-05-25]活动二周年纪念☾ CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15gVc6aEoe?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "あいつら全員同窓會",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-05-25]活动二周年纪念☾ CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15gVc6aEoe?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "お勉強しといてよ",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-05-25]活动二周年纪念☾ CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15gVc6aEoe?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "群青",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-05-25]活动二周年纪念☾ CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15gVc6aEoe?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "命に嫌われている",
+  "artist": "カンザキイオリ",
+  "collection": "【歌切】[2026-05-25]活动二周年纪念☾ CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15gVc6aEoe?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "スペクトロライト",
+  "artist": "CULUA",
+  "collection": "【歌切】[2026-05-25]活动二周年纪念☾ CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15gVc6aEoe?p=7",
   "source": "others.js"
 },
     {
@@ -12467,6 +12523,406 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-25]周一的10点是我的时间.ᐟ.ᐟ 唱我喜欢的歌 祇城レイ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WeGf6MEEq?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "Dream Believers",
+  "artist": "蓮ノ空女学院スクールアイドルクラブ",
+  "collection": "歌切 2026-05-25 Hanon Ch. 香鳴ハノン xz2-7BhQCKk 莲之空女学院学园偶像俱乐部限定歌回✨看完电影回来啦杂谈＆徽章开箱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEuV?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "レディバグ",
+  "artist": "DOLLCHESTRA",
+  "collection": "歌切 2026-05-25 Hanon Ch. 香鳴ハノン xz2-7BhQCKk 莲之空女学院学园偶像俱乐部限定歌回✨看完电影回来啦杂谈＆徽章开箱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEuV?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "BANG YOU グラビティ",
+  "artist": "みらくらぱーく！",
+  "collection": "歌切 2026-05-25 Hanon Ch. 香鳴ハノン xz2-7BhQCKk 莲之空女学院学园偶像俱乐部限定歌回✨看完电影回来啦杂谈＆徽章开箱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEuV?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "Holiday∞Holiday",
+  "artist": "スリーズブーケ",
+  "collection": "歌切 2026-05-25 Hanon Ch. 香鳴ハノン xz2-7BhQCKk 莲之空女学院学园偶像俱乐部限定歌回✨看完电影回来啦杂谈＆徽章开箱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEuV?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "Proof",
+  "artist": "DOLLCHESTRA",
+  "collection": "歌切 2026-05-25 Hanon Ch. 香鳴ハノン xz2-7BhQCKk 莲之空女学院学园偶像俱乐部限定歌回✨看完电影回来啦杂谈＆徽章开箱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEuV?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "全方位キュン♡",
+  "artist": "みらくらぱーく！",
+  "collection": "歌切 2026-05-25 Hanon Ch. 香鳴ハノン xz2-7BhQCKk 莲之空女学院学园偶像俱乐部限定歌回✨看完电影回来啦杂谈＆徽章开箱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEuV?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "素顔のピクセル",
+  "artist": "スリーズブーケ",
+  "collection": "歌切 2026-05-25 Hanon Ch. 香鳴ハノン xz2-7BhQCKk 莲之空女学院学园偶像俱乐部限定歌回✨看完电影回来啦杂谈＆徽章开箱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEuV?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "KNOT",
+  "artist": "DOLLCHESTRA",
+  "collection": "歌切 2026-05-25 Hanon Ch. 香鳴ハノン xz2-7BhQCKk 莲之空女学院学园偶像俱乐部限定歌回✨看完电影回来啦杂谈＆徽章开箱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEuV?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "ハクチューアラモード",
+  "artist": "みらくらぱーく！",
+  "collection": "歌切 2026-05-25 Hanon Ch. 香鳴ハノン xz2-7BhQCKk 莲之空女学院学园偶像俱乐部限定歌回✨看完电影回来啦杂谈＆徽章开箱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEuV?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "フォーチュンムービー",
+  "artist": "スリーズブーケ",
+  "collection": "歌切 2026-05-25 Hanon Ch. 香鳴ハノン xz2-7BhQCKk 莲之空女学院学园偶像俱乐部限定歌回✨看完电影回来啦杂谈＆徽章开箱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEuV?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "Reflection in the mirror",
+  "artist": "スリーズブーケ",
+  "collection": "歌切 2026-05-25 Hanon Ch. 香鳴ハノン xz2-7BhQCKk 莲之空女学院学园偶像俱乐部限定歌回✨看完电影回来啦杂谈＆徽章开箱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEuV?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "ユメワズライ",
+  "artist": "スリーズブーケ",
+  "collection": "歌切 2026-05-25 Hanon Ch. 香鳴ハノン xz2-7BhQCKk 莲之空女学院学园偶像俱乐部限定歌回✨看完电影回来啦杂谈＆徽章开箱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEuV?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "水彩世界",
+  "artist": "スリーズブーケ",
+  "collection": "歌切 2026-05-25 Hanon Ch. 香鳴ハノン xz2-7BhQCKk 莲之空女学院学园偶像俱乐部限定歌回✨看完电影回来啦杂谈＆徽章开箱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEuV?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "月夜見海月",
+  "artist": "スリーズブーケ",
+  "collection": "歌切 2026-05-25 Hanon Ch. 香鳴ハノン xz2-7BhQCKk 莲之空女学院学园偶像俱乐部限定歌回✨看完电影回来啦杂谈＆徽章开箱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEuV?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "ハナムスビ",
+  "artist": "スリーズブーケ",
+  "collection": "歌切 2026-05-25 Hanon Ch. 香鳴ハノン xz2-7BhQCKk 莲之空女学院学园偶像俱乐部限定歌回✨看完电影回来啦杂谈＆徽章开箱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEuV?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "青春の輪郭",
+  "artist": "DOLLCHESTRA",
+  "collection": "歌切 2026-05-25 Hanon Ch. 香鳴ハノン xz2-7BhQCKk 莲之空女学院学园偶像俱乐部限定歌回✨看完电影回来啦杂谈＆徽章开箱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEuV?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "夏めきペイン",
+  "artist": "蓮ノ空女学院スクールアイドルクラブ",
+  "collection": "歌切 2026-05-25 Hanon Ch. 香鳴ハノン xz2-7BhQCKk 莲之空女学院学园偶像俱乐部限定歌回✨看完电影回来啦杂谈＆徽章开箱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEuV?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "On your mark",
+  "artist": "蓮ノ空女学院スクールアイドルクラブ",
+  "collection": "歌切 2026-05-25 Hanon Ch. 香鳴ハノン xz2-7BhQCKk 莲之空女学院学园偶像俱乐部限定歌回✨看完电影回来啦杂谈＆徽章开箱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEuV?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "チリコンカン",
+  "artist": "Edel Note",
+  "collection": "歌切 2026-05-25 Hanon Ch. 香鳴ハノン xz2-7BhQCKk 莲之空女学院学园偶像俱乐部限定歌回✨看完电影回来啦杂谈＆徽章开箱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEuV?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono!",
+  "collection": "歌切 2026-05-25 炭酸水🥤｡oO Vsinger 0ckNbhHngQc 感谢Ch订阅者突破7,000人🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEgN?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "ローリンガール",
+  "artist": "wowaka feat. 初音ミク",
+  "collection": "歌切 2026-05-25 炭酸水🥤｡oO Vsinger 0ckNbhHngQc 感谢Ch订阅者突破7,000人🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEgN?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "準透明少年",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-05-25 炭酸水🥤｡oO Vsinger 0ckNbhHngQc 感谢Ch订阅者突破7,000人🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEgN?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "夏が来たから、",
+  "artist": "炭酸水",
+  "collection": "歌切 2026-05-25 炭酸水🥤｡oO Vsinger 0ckNbhHngQc 感谢Ch订阅者突破7,000人🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEgN?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "前前前世",
+  "artist": "RADWIMPS",
+  "collection": "歌切 2026-05-25 炭酸水🥤｡oO Vsinger 0ckNbhHngQc 感谢Ch订阅者突破7,000人🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEgN?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "スパークル",
+  "artist": "RADWIMPS",
+  "collection": "歌切 2026-05-25 炭酸水🥤｡oO Vsinger 0ckNbhHngQc 感谢Ch订阅者突破7,000人🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEgN?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "イフ",
+  "artist": "月詠み",
+  "collection": "歌切 2026-05-25 炭酸水🥤｡oO Vsinger 0ckNbhHngQc 感谢Ch订阅者突破7,000人🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEgN?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "限りなく灰色へ",
+  "artist": "すりぃ feat. 鏡音レン",
+  "collection": "歌切 2026-05-25 炭酸水🥤｡oO Vsinger 0ckNbhHngQc 感谢Ch订阅者突破7,000人🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEgN?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "嘘",
+  "artist": "シド",
+  "collection": "歌切 2026-05-25 炭酸水🥤｡oO Vsinger 0ckNbhHngQc 感谢Ch订阅者突破7,000人🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEgN?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "mona",
+  "collection": "歌切 2026-05-25 炭酸水🥤｡oO Vsinger 0ckNbhHngQc 感谢Ch订阅者突破7,000人🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEgN?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "ONE",
+  "artist": "Aimer",
+  "collection": "歌切 2026-05-25 炭酸水🥤｡oO Vsinger 0ckNbhHngQc 感谢Ch订阅者突破7,000人🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEgN?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "テトリス",
+  "artist": "柊マグネタイト feat. 重音テト",
+  "collection": "歌切 2026-05-25 炭酸水🥤｡oO Vsinger 0ckNbhHngQc 感谢Ch订阅者突破7,000人🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEgN?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "歌切 2026-05-25 炭酸水🥤｡oO Vsinger 0ckNbhHngQc 感谢Ch订阅者突破7,000人🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEgN?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "マーメイド",
+  "artist": "炭酸水",
+  "collection": "歌切 2026-05-25 炭酸水🥤｡oO Vsinger 0ckNbhHngQc 感谢Ch订阅者突破7,000人🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEgN?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "Pakuthi",
+  "artist": "炭酸水",
+  "collection": "歌切 2026-05-25 炭酸水🥤｡oO Vsinger 0ckNbhHngQc 感谢Ch订阅者突破7,000人🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEgN?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "歌切 2026-05-25 炭酸水🥤｡oO Vsinger 0ckNbhHngQc 感谢Ch订阅者突破7,000人🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEgN?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "only my railgun",
+  "artist": "fripSide",
+  "collection": "歌切 2026-05-25 炭酸水🥤｡oO Vsinger 0ckNbhHngQc 感谢Ch订阅者突破7,000人🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEgN?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "歌切 2026-05-25 炭酸水🥤｡oO Vsinger 0ckNbhHngQc 感谢Ch订阅者突破7,000人🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEgN?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "ヒカリヘ",
+  "artist": "miwa",
+  "collection": "歌切 2026-05-25 炭酸水🥤｡oO Vsinger 0ckNbhHngQc 感谢Ch订阅者突破7,000人🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEgN?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "花は咲く",
+  "artist": "花は咲くプロジェクト",
+  "collection": "歌切 2026-05-25 炭酸水🥤｡oO Vsinger 0ckNbhHngQc 感谢Ch订阅者突破7,000人🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEgN?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "歌切 2026-05-25 炭酸水🥤｡oO Vsinger 0ckNbhHngQc 感谢Ch订阅者突破7,000人🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEgN?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "ノーザンクロス",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "歌切 2026-05-25 炭酸水🥤｡oO Vsinger 0ckNbhHngQc 感谢Ch订阅者突破7,000人🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEgN?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "Departures ～あなたにおくるアイの歌～",
+  "artist": "EGOIST",
+  "collection": "歌切 2026-05-25 炭酸水🥤｡oO Vsinger 0ckNbhHngQc 感谢Ch订阅者突破7,000人🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEgN?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-05-25 炭酸水🥤｡oO Vsinger 0ckNbhHngQc 感谢Ch订阅者突破7,000人🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEgN?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P feat. GUMI",
+  "collection": "歌切 2026-05-25 炭酸水🥤｡oO Vsinger 0ckNbhHngQc 感谢Ch订阅者突破7,000人🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEgN?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "死にゆく季節のきみへ",
+  "artist": "麻枝 准×やなぎなぎ",
+  "collection": "歌切 2026-05-25 炭酸水🥤｡oO Vsinger 0ckNbhHngQc 感谢Ch订阅者突破7,000人🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEgN?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "カワキヲアメク",
+  "artist": "美波",
+  "collection": "歌切 2026-05-25 炭酸水🥤｡oO Vsinger 0ckNbhHngQc 感谢Ch订阅者突破7,000人🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEgN?p=27",
+  "source": "others.js"
+},
+    {
+  "title": "10月無口な君を忘れる",
+  "artist": "あたらよ",
+  "collection": "歌切 2026-05-25 炭酸水🥤｡oO Vsinger 0ckNbhHngQc 感谢Ch订阅者突破7,000人🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEgN?p=28",
+  "source": "others.js"
+},
+    {
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
+  "collection": "歌切 2026-05-25 炭酸水🥤｡oO Vsinger 0ckNbhHngQc 感谢Ch订阅者突破7,000人🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEgN?p=29",
+  "source": "others.js"
+},
+    {
+  "title": "Stellar Stellar",
+  "artist": "星街すいせい",
+  "collection": "歌切 2026-05-25 炭酸水🥤｡oO Vsinger 0ckNbhHngQc 感谢Ch订阅者突破7,000人🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEgN?p=30",
+  "source": "others.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "歌切 2026-05-25 炭酸水🥤｡oO Vsinger 0ckNbhHngQc 感谢Ch订阅者突破7,000人🫧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LgVc6aEgN?p=31",
   "source": "others.js"
 },
     {
