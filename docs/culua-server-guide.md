@@ -225,12 +225,18 @@ npm run -s check:live -- --min-total=$before --require-bv=BV1xd5g61Egu
 
 ```bash
 cd /var/www/song-search
-git fetch origin codex/server-deploy
-git reset --hard origin/codex/server-deploy
+git -c safe.directory=/var/www/song-search fetch origin codex/server-deploy
+git -c safe.directory=/var/www/song-search reset --hard origin/codex/server-deploy
 /usr/bin/node scripts/update-songs.js
 /usr/bin/node scripts/update-song-growth.js
+/usr/bin/chown -R codex:codex data reports
 /usr/bin/curl -fsS http://127.0.0.1:3230/internal/reload >/dev/null
 ```
+
+说明：
+
+- root crontab 会以 root 身份执行刷新脚本，而 `/var/www/song-search` 主要由 `codex` 维护；Git 可能因为 `dubious ownership` 拒绝 `fetch/reset`。刷新脚本里的两条 git 命令必须带 `-c safe.directory=/var/www/song-search`。
+- 刷新脚本生成 `data/` 和 `reports/` 后会把归属修回 `codex:codex`，避免后续 `codex` 用户部署或检查时被 root 生成物卡住。
 
 只有在明确做紧急进程恢复、且确认不执行 `git reset --hard` 时，才单独重启服务：
 
@@ -248,6 +254,8 @@ ssh culua "pgrep -af 'node scripts/update-songs|song-search-refresh' || true"
 
 ```powershell
 ssh culua "systemctl is-active cron; sudo -n crontab -l | grep song-search-refresh; sudo -n journalctl -u cron --since '90 minutes ago' --no-pager | grep song-search-refresh | tail"
+ssh culua "cd /var/www/song-search && stat -c '%y %n' reports/update-songs-meta.json data/index.json && cat reports/update-songs-meta.json"
+ssh culua "sudo -n tail -n 260 /var/log/song-search-refresh.log | grep -n '任务结束\|song total=\|dubious ownership\|fatal' || true"
 ```
 
 ## 来源配置特殊规则
@@ -361,6 +369,29 @@ curl -fsS https://www.culua.com/api/bootstrap
 ```powershell
 ssh culua "sudo -n /usr/local/bin/song-search-refresh.sh"
 npm run -s check:live -- --min-total=<发布前总量> --require-bv=BV1xd5g61Egu
+```
+
+### 定时任务触发但更新时间不变
+
+如果页面显示的最近更新长时间停住，先分三层确认：
+
+```powershell
+ssh culua "date; systemctl is-active cron; sudo -n crontab -l | grep song-search-refresh"
+ssh culua "sudo -n journalctl -u cron --since '3 hours ago' --no-pager | grep song-search-refresh | tail -n 20"
+ssh culua "sudo -n tail -n 120 /var/log/song-search-refresh.log | grep -n 'dubious ownership\|fatal\|任务结束\|song total=' || true"
+```
+
+如果 cron 日志持续出现 `CMD (/usr/bin/flock ... song-search-refresh.sh)`，但 `reports/update-songs-meta.json` 没更新，并且刷新日志出现 `fatal: detected dubious ownership in repository at '/var/www/song-search'`，说明是 root cron 触发了脚本但 Git 拒绝 root 操作该仓库。修复方式是让 `/usr/local/bin/song-search-refresh.sh` 的两条 git 命令保持：
+
+```bash
+git -c safe.directory=/var/www/song-search fetch origin codex/server-deploy
+git -c safe.directory=/var/www/song-search reset --hard origin/codex/server-deploy
+```
+
+修完后用同一把锁手动跑一次并确认 meta 更新时间：
+
+```powershell
+ssh culua "sudo -n /usr/bin/flock -n /tmp/song-search-refresh.lock /usr/local/bin/song-search-refresh.sh && cd /var/www/song-search && cat reports/update-songs-meta.json"
 ```
 
 ## 文件说明
