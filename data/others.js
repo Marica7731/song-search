@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 5/25/2026, 5:04:28 PM
+// 生成时间: 5/25/2026, 6:26:56 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -12403,6 +12403,70 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-05-25 UTANO ch. 白玖ウタノ BDxUKfXbZwk 见证又一个梦想成真的时刻，请务必来看！！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17fGd6WEjf?p=29",
+  "source": "others.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat. GUMI",
+  "collection": "【歌切】[2026-05-25]周一的10点是我的时间.ᐟ.ᐟ 唱我喜欢的歌 祇城レイ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeGf6MEEq?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "アトラクトライト",
+  "artist": "*Luna feat. 鏡音レン",
+  "collection": "【歌切】[2026-05-25]周一的10点是我的时间.ᐟ.ᐟ 唱我喜欢的歌 祇城レイ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeGf6MEEq?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "歌に形はないけれど",
+  "artist": "doriko feat. 初音ミク",
+  "collection": "【歌切】[2026-05-25]周一的10点是我的时间.ᐟ.ᐟ 唱我喜欢的歌 祇城レイ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeGf6MEEq?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "小夜子",
+  "artist": "みきとP feat. 初音ミクAppend",
+  "collection": "【歌切】[2026-05-25]周一的10点是我的时间.ᐟ.ᐟ 唱我喜欢的歌 祇城レイ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeGf6MEEq?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "さよならミッドナイト",
+  "artist": "大柴広己",
+  "collection": "【歌切】[2026-05-25]周一的10点是我的时间.ᐟ.ᐟ 唱我喜欢的歌 祇城レイ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeGf6MEEq?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "蝶々結び",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-05-25]周一的10点是我的时间.ᐟ.ᐟ 唱我喜欢的歌 祇城レイ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeGf6MEEq?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-05-25]周一的10点是我的时间.ᐟ.ᐟ 唱我喜欢的歌 祇城レイ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeGf6MEEq?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "sweet timer",
+  "artist": "iLiFE!",
+  "collection": "【歌切】[2026-05-25]周一的10点是我的时间.ᐟ.ᐟ 唱我喜欢的歌 祇城レイ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeGf6MEEq?p=8",
   "source": "others.js"
 },
     {

@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 5/25/2026, 4:46:29 PM
+// 生成时间: 5/25/2026, 6:07:32 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3851,6 +3851,158 @@ window.SONG_DATA.push(
   "collection": "【明日夢🎸弾き語り歌切】[2026-04-16]让我们悠闲地度过吧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CQdiBUEB6?p=21",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "私は、わたしの事が好き。",
+  "artist": "HoneyWorks, かぐや(cv.夏吉ゆうこ)",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-05-25]元气治愈的歌送给你!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeGf6MEPB?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "星降る海 – Aqu3ra、月見ヤチヨ(cv.早見沙織)",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-05-25]元气治愈的歌送给你!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeGf6MEPB?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-05-25]元气治愈的歌送给你!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeGf6MEPB?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "SUMMER SONG",
+  "artist": "YUI",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-05-25]元气治愈的歌送给你!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeGf6MEPB?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "雪の華",
+  "artist": "中島美嘉",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-05-25]元气治愈的歌送给你!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeGf6MEPB?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "インフェルノ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-05-25]元气治愈的歌送给你!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeGf6MEPB?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-05-25]元气治愈的歌送给你!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeGf6MEPB?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ヤングアダルト",
+  "artist": "マカロニえんぴつ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-05-25]元气治愈的歌送给你!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeGf6MEPB?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ブルーベリー・ナイツ",
+  "artist": "マカロニえんぴつ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-05-25]元气治愈的歌送给你!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeGf6MEPB?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "キンモクセイ",
+  "artist": "オレンジスパイニクラブ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-05-25]元气治愈的歌送给你!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeGf6MEPB?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "嘘じゃない",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-05-25]元气治愈的歌送给你!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeGf6MEPB?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "チノカテ",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-05-25]元气治愈的歌送给你!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeGf6MEPB?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-05-25]元气治愈的歌送给你!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeGf6MEPB?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-05-25]元气治愈的歌送给你!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeGf6MEPB?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ゴースト",
+  "artist": "tayori",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-05-25]元气治愈的歌送给你!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeGf6MEPB?p=15",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "魔法",
+  "artist": "tayori",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-05-25]元气治愈的歌送给你!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeGf6MEPB?p=16",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "残ってる",
+  "artist": "吉澤嘉代子",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-05-25]元气治愈的歌送给你!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeGf6MEPB?p=17",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "よるのあと",
+  "artist": "上白石萌歌",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-05-25]元气治愈的歌送给你!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeGf6MEPB?p=18",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "secret base〜君がくれたもの",
+  "artist": "ZONE",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-05-25]元气治愈的歌送给你!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeGf6MEPB?p=19",
   "source": "asuyumekanae.js"
 }
 );
