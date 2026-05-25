@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 5/25/2026, 2:26:00 AM
+// 生成时间: 5/25/2026, 3:08:08 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10206,6 +10206,86 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
+  "title": "Henceforth",
+  "artist": "Orangestar",
+  "collection": "歌切 2026-05-23 IMI yYXVPOOvzOE ✦竖屏直播✦醒来后还没出过声",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wRGq65EU5?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "歌切 2026-05-23 IMI yYXVPOOvzOE ✦竖屏直播✦醒来后还没出过声",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wRGq65EU5?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ないものねだり",
+  "artist": "KANA-BOON",
+  "collection": "歌切 2026-05-23 IMI yYXVPOOvzOE ✦竖屏直播✦醒来后还没出过声",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wRGq65EU5?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "イケナイ太陽",
+  "artist": "ORANGE RANGE",
+  "collection": "歌切 2026-05-23 IMI yYXVPOOvzOE ✦竖屏直播✦醒来后还没出过声",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wRGq65EU5?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "歌切 2026-05-23 IMI yYXVPOOvzOE ✦竖屏直播✦醒来后还没出过声",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wRGq65EU5?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "Aiko",
+  "collection": "歌切 2026-05-23 IMI yYXVPOOvzOE ✦竖屏直播✦醒来后还没出过声",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wRGq65EU5?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "collection": "歌切 2026-05-23 IMI yYXVPOOvzOE ✦竖屏直播✦醒来后还没出过声",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wRGq65EU5?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "雪の華",
+  "artist": "中島美嘉",
+  "collection": "歌切 2026-05-23 IMI yYXVPOOvzOE ✦竖屏直播✦醒来后还没出过声",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wRGq65EU5?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "高嶺の花子さん",
+  "artist": "back number",
+  "collection": "歌切 2026-05-23 IMI yYXVPOOvzOE ✦竖屏直播✦醒来后还没出过声",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wRGq65EU5?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "歌切 2026-05-23 IMI yYXVPOOvzOE ✦竖屏直播✦醒来后还没出过声",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wRGq65EU5?p=10",
+  "source": "others.js"
+},
+    {
   "title": "三日月ステップ",
   "artist": "r-906",
   "collection": "歌切 2026-05-21 小雀とと / Toto Kogara 3H30qomUVUM 傍晚的歌回",
@@ -10587,86 +10667,6 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=30",
-  "source": "others.js"
-},
-    {
-  "title": "Henceforth",
-  "artist": "Orangestar",
-  "collection": "歌切 2026-05-23 IMI yYXVPOOvzOE ✦竖屏直播✦醒来后还没出过声",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wRGq65EU5?p=1",
-  "source": "others.js"
-},
-    {
-  "title": "シルエット",
-  "artist": "KANA-BOON",
-  "collection": "歌切 2026-05-23 IMI yYXVPOOvzOE ✦竖屏直播✦醒来后还没出过声",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wRGq65EU5?p=2",
-  "source": "others.js"
-},
-    {
-  "title": "ないものねだり",
-  "artist": "KANA-BOON",
-  "collection": "歌切 2026-05-23 IMI yYXVPOOvzOE ✦竖屏直播✦醒来后还没出过声",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wRGq65EU5?p=3",
-  "source": "others.js"
-},
-    {
-  "title": "イケナイ太陽",
-  "artist": "ORANGE RANGE",
-  "collection": "歌切 2026-05-23 IMI yYXVPOOvzOE ✦竖屏直播✦醒来后还没出过声",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wRGq65EU5?p=4",
-  "source": "others.js"
-},
-    {
-  "title": "366日",
-  "artist": "HY",
-  "collection": "歌切 2026-05-23 IMI yYXVPOOvzOE ✦竖屏直播✦醒来后还没出过声",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wRGq65EU5?p=5",
-  "source": "others.js"
-},
-    {
-  "title": "カブトムシ",
-  "artist": "Aiko",
-  "collection": "歌切 2026-05-23 IMI yYXVPOOvzOE ✦竖屏直播✦醒来后还没出过声",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wRGq65EU5?p=6",
-  "source": "others.js"
-},
-    {
-  "title": "プラネタリウム",
-  "artist": "大塚愛",
-  "collection": "歌切 2026-05-23 IMI yYXVPOOvzOE ✦竖屏直播✦醒来后还没出过声",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wRGq65EU5?p=7",
-  "source": "others.js"
-},
-    {
-  "title": "雪の華",
-  "artist": "中島美嘉",
-  "collection": "歌切 2026-05-23 IMI yYXVPOOvzOE ✦竖屏直播✦醒来后还没出过声",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wRGq65EU5?p=8",
-  "source": "others.js"
-},
-    {
-  "title": "高嶺の花子さん",
-  "artist": "back number",
-  "collection": "歌切 2026-05-23 IMI yYXVPOOvzOE ✦竖屏直播✦醒来后还没出过声",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wRGq65EU5?p=9",
-  "source": "others.js"
-},
-    {
-  "title": "紅蓮華",
-  "artist": "LiSA",
-  "collection": "歌切 2026-05-23 IMI yYXVPOOvzOE ✦竖屏直播✦醒来后还没出过声",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wRGq65EU5?p=10",
   "source": "others.js"
 },
     {
@@ -11403,6 +11403,358 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-05-23 蜂屋ひまわり-Himawari ch.- 08zGZXtm2Y4 为了达成25000频道订阅者而唱歌！请找到我吧💛",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VXGV6tE7P?p=58",
+  "source": "others.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "ベテルギウス",
+  "artist": "優里",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "sleepy*love",
+  "artist": "MaiR",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "♯アイワナセイ",
+  "artist": "ザスター",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "美しい鰭",
+  "artist": "スピッツ",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "楓",
+  "artist": "スピッツ",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "チェリー",
+  "artist": "スピッツ",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "春の歌",
+  "artist": "スピッツ",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "ガーネット",
+  "artist": "奥華子",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "フリージア",
+  "artist": "Uru",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "海の幽霊",
+  "artist": "米津玄師",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "感電",
+  "artist": "米津玄師",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "オールドファッション",
+  "artist": "back number",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "さよならエレジー",
+  "artist": "菅田将暉",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "ヒューマノイド",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "READY STEADY GO",
+  "artist": "L'Arc-en-Ciel",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "ヤッテラレッカ",
+  "artist": "ザスター",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "Within The Noise",
+  "artist": "MaiR",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "砂の惑星",
+  "artist": "ハチ",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "エイリアンエイリアン",
+  "artist": "ナユタン星人",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=27",
+  "source": "others.js"
+},
+    {
+  "title": "太陽系デスコ",
+  "artist": "ナユタン星人",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=28",
+  "source": "others.js"
+},
+    {
+  "title": "アスノヨゾラ哨戒班",
+  "artist": "Orangestar",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=29",
+  "source": "others.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=30",
+  "source": "others.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=31",
+  "source": "others.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=32",
+  "source": "others.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=33",
+  "source": "others.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=34",
+  "source": "others.js"
+},
+    {
+  "title": "思想犯",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=35",
+  "source": "others.js"
+},
+    {
+  "title": "白日",
+  "artist": "King Gnu",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=36",
+  "source": "others.js"
+},
+    {
+  "title": "廻廻奇譚",
+  "artist": "Eve",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=37",
+  "source": "others.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=38",
+  "source": "others.js"
+},
+    {
+  "title": "マリーゴールド",
+  "artist": "あいみょん",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=39",
+  "source": "others.js"
+},
+    {
+  "title": "Wherever you are",
+  "artist": "ONE OK ROCK",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=40",
+  "source": "others.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=41",
+  "source": "others.js"
+},
+    {
+  "title": "彗星。",
+  "artist": "MaiR",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=42",
+  "source": "others.js"
+},
+    {
+  "title": "エンディングノート",
+  "artist": "ザスター",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=43",
+  "source": "others.js"
+},
+    {
+  "title": "ノンフィクション",
+  "artist": "ザスター",
+  "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=44",
   "source": "others.js"
 },
     {
