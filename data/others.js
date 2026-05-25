@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 5/25/2026, 4:23:30 PM
+// 生成时间: 5/25/2026, 5:04:28 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -12171,6 +12171,238 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=38",
+  "source": "others.js"
+},
+    {
+  "title": "ウィーアー!",
+  "artist": "きただにひろし",
+  "collection": "歌切 2026-05-25 UTANO ch. 白玖ウタノ BDxUKfXbZwk 见证又一个梦想成真的时刻，请务必来看！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEjf?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "Believe",
+  "artist": "玉置成実",
+  "collection": "歌切 2026-05-25 UTANO ch. 白玖ウタノ BDxUKfXbZwk 见证又一个梦想成真的时刻，请务必来看！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEjf?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "Realize",
+  "artist": "玉置成実",
+  "collection": "歌切 2026-05-25 UTANO ch. 白玖ウタノ BDxUKfXbZwk 见证又一个梦想成真的时刻，请务必来看！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEjf?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "Reason",
+  "artist": "玉置成実",
+  "collection": "歌切 2026-05-25 UTANO ch. 白玖ウタノ BDxUKfXbZwk 见证又一个梦想成真的时刻，请务必来看！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEjf?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "Reborn",
+  "artist": "玉置成実",
+  "collection": "歌切 2026-05-25 UTANO ch. 白玖ウタノ BDxUKfXbZwk 见证又一个梦想成真的时刻，请务必来看！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEjf?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "嵐の中で輝いて",
+  "artist": "米倉千尋",
+  "collection": "歌切 2026-05-25 UTANO ch. 白玖ウタノ BDxUKfXbZwk 见证又一个梦想成真的时刻，请务必来看！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEjf?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "WILL",
+  "artist": "米倉千尋",
+  "collection": "歌切 2026-05-25 UTANO ch. 白玖ウタノ BDxUKfXbZwk 见证又一个梦想成真的时刻，请务必来看！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEjf?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "Butterfly Kiss",
+  "artist": "米倉千尋",
+  "collection": "歌切 2026-05-25 UTANO ch. 白玖ウタノ BDxUKfXbZwk 见证又一个梦想成真的时刻，请务必来看！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEjf?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "10 YEARS AFTER",
+  "artist": "米倉千尋",
+  "collection": "歌切 2026-05-25 UTANO ch. 白玖ウタノ BDxUKfXbZwk 见证又一个梦想成真的时刻，请务必来看！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEjf?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "優しさの理由",
+  "artist": "ChouCho",
+  "collection": "歌切 2026-05-25 UTANO ch. 白玖ウタノ BDxUKfXbZwk 见证又一个梦想成真的时刻，请务必来看！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEjf?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "Overfly",
+  "artist": "春奈るな",
+  "collection": "歌切 2026-05-25 UTANO ch. 白玖ウタノ BDxUKfXbZwk 见证又一个梦想成真的时刻，请务必来看！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEjf?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "Startear",
+  "artist": "春奈るな",
+  "collection": "歌切 2026-05-25 UTANO ch. 白玖ウタノ BDxUKfXbZwk 见证又一个梦想成真的时刻，请务必来看！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEjf?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "君色シグナル",
+  "artist": "春奈るな",
+  "collection": "歌切 2026-05-25 UTANO ch. 白玖ウタノ BDxUKfXbZwk 见证又一个梦想成真的时刻，请务必来看！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEjf?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "乙女のポリシー",
+  "artist": "石田よう子",
+  "collection": "歌切 2026-05-25 UTANO ch. 白玖ウタノ BDxUKfXbZwk 见证又一个梦想成真的时刻，请务必来看！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEjf?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "The Biggest Dreamer",
+  "artist": "和田光司",
+  "collection": "歌切 2026-05-25 UTANO ch. 白玖ウタノ BDxUKfXbZwk 见证又一个梦想成真的时刻，请务必来看！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEjf?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "FIRE!!",
+  "artist": "和田光司",
+  "collection": "歌切 2026-05-25 UTANO ch. 白玖ウタノ BDxUKfXbZwk 见证又一个梦想成真的时刻，请务必来看！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEjf?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "歌切 2026-05-25 UTANO ch. 白玖ウタノ BDxUKfXbZwk 见证又一个梦想成真的时刻，请务必来看！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEjf?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "WE GOTTA POWER",
+  "artist": "影山ヒロノブ",
+  "collection": "歌切 2026-05-25 UTANO ch. 白玖ウタノ BDxUKfXbZwk 见证又一个梦想成真的时刻，请务必来看！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEjf?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "奇蹟のビッグ・ファイト",
+  "artist": "影山ヒロノブ",
+  "collection": "歌切 2026-05-25 UTANO ch. 白玖ウタノ BDxUKfXbZwk 见证又一个梦想成真的时刻，请务必来看！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEjf?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "僕達は天使だった",
+  "artist": "影山ヒロノブ",
+  "collection": "歌切 2026-05-25 UTANO ch. 白玖ウタノ BDxUKfXbZwk 见证又一个梦想成真的时刻，请务必来看！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEjf?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "CHA-LA HEAD-CHA-LA",
+  "artist": "影山ヒロノブ",
+  "collection": "歌切 2026-05-25 UTANO ch. 白玖ウタノ BDxUKfXbZwk 见证又一个梦想成真的时刻，请务必来看！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEjf?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "SKILL",
+  "artist": "JAM Project",
+  "collection": "歌切 2026-05-25 UTANO ch. 白玖ウタノ BDxUKfXbZwk 见证又一个梦想成真的时刻，请务必来看！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEjf?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "Can Do",
+  "artist": "GRANRODEO",
+  "collection": "歌切 2026-05-25 UTANO ch. 白玖ウタノ BDxUKfXbZwk 见证又一个梦想成真的时刻，请务必来看！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEjf?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "BREAK OUT DREAMER",
+  "artist": "白玖ウタノ",
+  "collection": "歌切 2026-05-25 UTANO ch. 白玖ウタノ BDxUKfXbZwk 见证又一个梦想成真的时刻，请务必来看！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEjf?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "Door→",
+  "artist": "白玖ウタノ",
+  "collection": "歌切 2026-05-25 UTANO ch. 白玖ウタノ BDxUKfXbZwk 见证又一个梦想成真的时刻，请务必来看！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEjf?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "未来証明",
+  "artist": "白玖ウタノ",
+  "collection": "歌切 2026-05-25 UTANO ch. 白玖ウタノ BDxUKfXbZwk 见证又一个梦想成真的时刻，请务必来看！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEjf?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "主人公になれるはずのストーリー",
+  "artist": "白玖ウタノ",
+  "collection": "歌切 2026-05-25 UTANO ch. 白玖ウタノ BDxUKfXbZwk 见证又一个梦想成真的时刻，请务必来看！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEjf?p=27",
+  "source": "others.js"
+},
+    {
+  "title": "夢光年",
+  "artist": "影山ヒロノブ",
+  "collection": "歌切 2026-05-25 UTANO ch. 白玖ウタノ BDxUKfXbZwk 见证又一个梦想成真的时刻，请务必来看！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEjf?p=28",
+  "source": "others.js"
+},
+    {
+  "title": "青い風のHOPE",
+  "artist": "影山ヒロノブ",
+  "collection": "歌切 2026-05-25 UTANO ch. 白玖ウタノ BDxUKfXbZwk 见证又一个梦想成真的时刻，请务必来看！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEjf?p=29",
   "source": "others.js"
 },
     {

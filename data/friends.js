@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 5/25/2026, 4:15:22 PM
+// 生成时间: 5/25/2026, 4:56:50 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1587,6 +1587,86 @@ window.SONG_DATA.push(
   "collection": "联动的部分 2026-05-22 3D BIRTHDAY LIVE",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV134Gh6uEyn?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "VuzzVerry",
+  "artist": "鈴鳴すばる",
+  "collection": "联动歌切 2026-05-25 松永依織❌鈴鳴すばる 8Py75jo7tkc",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEGQ?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "ヒトガタ",
+  "artist": "HIMEHINA",
+  "collection": "联动歌切 2026-05-25 松永依織❌鈴鳴すばる 8Py75jo7tkc",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEGQ?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "スターマイン",
+  "artist": "Da-iCE",
+  "collection": "联动歌切 2026-05-25 松永依織❌鈴鳴すばる 8Py75jo7tkc",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEGQ?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "EXCITE",
+  "artist": "三浦大知",
+  "collection": "联动歌切 2026-05-25 松永依織❌鈴鳴すばる 8Py75jo7tkc",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEGQ?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "Ti Amo",
+  "artist": "EXILE",
+  "collection": "联动歌切 2026-05-25 松永依織❌鈴鳴すばる 8Py75jo7tkc",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEGQ?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "Pretender",
+  "artist": "Official髭男dism",
+  "collection": "联动歌切 2026-05-25 松永依織❌鈴鳴すばる 8Py75jo7tkc",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEGQ?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "桜",
+  "artist": "コブクロ",
+  "collection": "联动歌切 2026-05-25 松永依織❌鈴鳴すばる 8Py75jo7tkc",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEGQ?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "Soranji",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "联动歌切 2026-05-25 松永依織❌鈴鳴すばる 8Py75jo7tkc",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEGQ?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "SAD SONG",
+  "artist": "ちゃんみな",
+  "collection": "联动歌切 2026-05-25 松永依織❌鈴鳴すばる 8Py75jo7tkc",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEGQ?p=9",
+  "source": "friends.js"
+},
+    {
+  "title": "Crazy Rock Girl",
+  "artist": "松永依織",
+  "collection": "联动歌切 2026-05-25 松永依織❌鈴鳴すばる 8Py75jo7tkc",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17fGd6WEGQ?p=10",
   "source": "friends.js"
 }
 );
