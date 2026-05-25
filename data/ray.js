@@ -1,6 +1,6 @@
 // 來-Ray- - 歌单数据 (多合集汇总)
 // 来源: BV1mJZwB8EVa
-// 生成时间: 5/24/2026, 5:28:09 PM
+// 生成时间: 5/25/2026, 12:08:42 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3699,6 +3699,286 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-06]黄金周假期结束在这里画上句号 來-Ray",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TKR8BAEyP?p=31",
+  "source": "ray.js"
+},
+    {
+  "title": "yours",
+  "artist": "keeno feat. 初音ミク",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=1",
+  "source": "ray.js"
+},
+    {
+  "title": "もしも一人残されて、世界が嘘じゃないなら",
+  "artist": "n.k feat. IA",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=2",
+  "source": "ray.js"
+},
+    {
+  "title": "それがあなたの幸せとしても",
+  "artist": "Heavenz feat. 巡音ルカ",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=3",
+  "source": "ray.js"
+},
+    {
+  "title": "インタビュア",
+  "artist": "クワガタP feat. 巡音ルカ",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=4",
+  "source": "ray.js"
+},
+    {
+  "title": "アイデンティティ",
+  "artist": "Kanaria feat. GUMI、初音ミク",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=5",
+  "source": "ray.js"
+},
+    {
+  "title": "メアの教育",
+  "artist": "コウ feat. 初音ミク",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=6",
+  "source": "ray.js"
+},
+    {
+  "title": "Aitai",
+  "artist": "加藤ミリヤ",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=7",
+  "source": "ray.js"
+},
+    {
+  "title": "Love Forever",
+  "artist": "加藤ミリヤ×清水翔太",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=8",
+  "source": "ray.js"
+},
+    {
+  "title": "白い雪のプリンセスは",
+  "artist": "のぼる↑P feat. 初音ミク",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=9",
+  "source": "ray.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=10",
+  "source": "ray.js"
+},
+    {
+  "title": "カトラリー",
+  "artist": "有機酸 feat. 初音ミク",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=11",
+  "source": "ray.js"
+},
+    {
+  "title": "深海少女",
+  "artist": "ゆうゆ feat. 初音ミク",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=12",
+  "source": "ray.js"
+},
+    {
+  "title": "奏",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=13",
+  "source": "ray.js"
+},
+    {
+  "title": "氷水色",
+  "artist": "ナカノは4番 feat. 雪歌ユフ",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=14",
+  "source": "ray.js"
+},
+    {
+  "title": "Tomorrow",
+  "artist": "八王子P feat. 初音ミク",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=15",
+  "source": "ray.js"
+},
+    {
+  "title": "妄想税",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=16",
+  "source": "ray.js"
+},
+    {
+  "title": "START",
+  "artist": "レフティーモンスターP feat. Lily",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=17",
+  "source": "ray.js"
+},
+    {
+  "title": "世田谷ナイトサファリ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=18",
+  "source": "ray.js"
+},
+    {
+  "title": "夏恋花火",
+  "artist": "40mP feat. シャノ",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=19",
+  "source": "ray.js"
+},
+    {
+  "title": "他人事の音がする",
+  "artist": "あめのむらくもP feat. GUMI",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=20",
+  "source": "ray.js"
+},
+    {
+  "title": "世界寿命と最後の一日",
+  "artist": "スズム feat. GUMI",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=21",
+  "source": "ray.js"
+},
+    {
+  "title": "ロンリーユニバース",
+  "artist": "Aqu3ra feat. 初音ミク・v flower",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=22",
+  "source": "ray.js"
+},
+    {
+  "title": "ソラゴト",
+  "artist": "明透",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=23",
+  "source": "ray.js"
+},
+    {
+  "title": "ワールド・ランプシェード",
+  "artist": "buzzG feat. GUMI",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=24",
+  "source": "ray.js"
+},
+    {
+  "title": "君の脈で踊りたかった",
+  "artist": "ピコン feat. 初音ミク",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=25",
+  "source": "ray.js"
+},
+    {
+  "title": "Close to you",
+  "artist": "niki feat. Lily",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=26",
+  "source": "ray.js"
+},
+    {
+  "title": "tanzanite",
+  "artist": "narry feat. 初音ミク",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=27",
+  "source": "ray.js"
+},
+    {
+  "title": "シエレトワール",
+  "artist": "蝶々P feat. 初音ミク",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=28",
+  "source": "ray.js"
+},
+    {
+  "title": "soundless voice",
+  "artist": "ひとしずくP feat. 鏡音レン",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=29",
+  "source": "ray.js"
+},
+    {
+  "title": "ふわふわ♪",
+  "artist": "牧野由依",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=30",
+  "source": "ray.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=31",
+  "source": "ray.js"
+},
+    {
+  "title": "glow",
+  "artist": "keeno feat. 初音ミク",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=32",
+  "source": "ray.js"
+},
+    {
+  "title": "Starduster",
+  "artist": "ジミーサムP feat. 初音ミク",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=33",
+  "source": "ray.js"
+},
+    {
+  "title": "シニカル・シニカル",
+  "artist": "吐息. feat. Such",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=34",
+  "source": "ray.js"
+},
+    {
+  "title": "スウィートタイム",
+  "artist": "EasyPop feat. 巡音ルカ",
+  "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=35",
   "source": "ray.js"
 }
 );
