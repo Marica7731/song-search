@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 5/25/2026, 7:44:03 AM
+// 生成时间: 5/25/2026, 9:22:06 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -75,6 +75,94 @@ window.SONG_DATA.push(
   "collection": "[2022-02-27]【会限】棗いつき × nayuta 合作纪念歌回切片",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mNpUzXEiW?p=9",
+  "source": "friends.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "may'n, 中島愛",
+  "collection": "【コラボ歌枠】初めてのコラボ歌枠だ！ SINGING STREAM 【よしか⁂ × 巫てんり 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TA4m1G7M7?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "ロキ",
+  "artist": "みきとP",
+  "collection": "【コラボ歌枠】初めてのコラボ歌枠だ！ SINGING STREAM 【よしか⁂ × 巫てんり 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TA4m1G7M7?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP",
+  "collection": "【コラボ歌枠】初めてのコラボ歌枠だ！ SINGING STREAM 【よしか⁂ × 巫てんり 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TA4m1G7M7?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "ギラギラ",
+  "artist": "Ado",
+  "collection": "【コラボ歌枠】初めてのコラボ歌枠だ！ SINGING STREAM 【よしか⁂ × 巫てんり 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TA4m1G7M7?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【コラボ歌枠】初めてのコラボ歌枠だ！ SINGING STREAM 【よしか⁂ × 巫てんり 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TA4m1G7M7?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "【コラボ歌枠】初めてのコラボ歌枠だ！ SINGING STREAM 【よしか⁂ × 巫てんり 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TA4m1G7M7?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "祝福",
+  "artist": "YOASOBI",
+  "collection": "【コラボ歌枠】初めてのコラボ歌枠だ！ SINGING STREAM 【よしか⁂ × 巫てんり 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TA4m1G7M7?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "ソワレ",
+  "artist": "星街すいせい",
+  "collection": "【コラボ歌枠】初めてのコラボ歌枠だ！ SINGING STREAM 【よしか⁂ × 巫てんり 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TA4m1G7M7?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "【コラボ歌枠】初めてのコラボ歌枠だ！ SINGING STREAM 【よしか⁂ × 巫てんり 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TA4m1G7M7?p=9",
+  "source": "friends.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "【コラボ歌枠】初めてのコラボ歌枠だ！ SINGING STREAM 【よしか⁂ × 巫てんり 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TA4m1G7M7?p=10",
+  "source": "friends.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり",
+  "collection": "【コラボ歌枠】初めてのコラボ歌枠だ！ SINGING STREAM 【よしか⁂ × 巫てんり 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TA4m1G7M7?p=11",
   "source": "friends.js"
 },
     {

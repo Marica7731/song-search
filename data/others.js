@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 5/25/2026, 7:50:35 AM
+// 生成时间: 5/25/2026, 9:29:52 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10206,6 +10206,118 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
+  "title": "シリョクケンサ",
+  "artist": "40mP",
+  "collection": "歌切 2026-05-20 IMI oFSBmPpe4hY ✦竖屏直播✦ 无计划随性唱歌聊天",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1H9GW6qE6h?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "弱虫モンブラン",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-05-20 IMI oFSBmPpe4hY ✦竖屏直播✦ 无计划随性唱歌聊天",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1H9GW6qE6h?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "季節は次々死んでいく",
+  "artist": "amazarashi",
+  "collection": "歌切 2026-05-20 IMI oFSBmPpe4hY ✦竖屏直播✦ 无计划随性唱歌聊天",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1H9GW6qE6h?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "歌切 2026-05-20 IMI oFSBmPpe4hY ✦竖屏直播✦ 无计划随性唱歌聊天",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1H9GW6qE6h?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-05-20 IMI oFSBmPpe4hY ✦竖屏直播✦ 无计划随性唱歌聊天",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1H9GW6qE6h?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "ラビットホール",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-05-20 IMI oFSBmPpe4hY ✦竖屏直播✦ 无计划随性唱歌聊天",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1H9GW6qE6h?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "歌切 2026-05-20 IMI oFSBmPpe4hY ✦竖屏直播✦ 无计划随性唱歌聊天",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1H9GW6qE6h?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "雑魚",
+  "artist": "柊マグネタイト",
+  "collection": "歌切 2026-05-20 IMI oFSBmPpe4hY ✦竖屏直播✦ 无计划随性唱歌聊天",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1H9GW6qE6h?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "少女A",
+  "artist": "椎名もた",
+  "collection": "歌切 2026-05-20 IMI oFSBmPpe4hY ✦竖屏直播✦ 无计划随性唱歌聊天",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1H9GW6qE6h?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "内緒のピアス",
+  "collection": "歌切 2026-05-20 IMI oFSBmPpe4hY ✦竖屏直播✦ 无计划随性唱歌聊天",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1H9GW6qE6h?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo",
+  "collection": "歌切 2026-05-20 IMI oFSBmPpe4hY ✦竖屏直播✦ 无计划随性唱歌聊天",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1H9GW6qE6h?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "ryo",
+  "collection": "歌切 2026-05-20 IMI oFSBmPpe4hY ✦竖屏直播✦ 无计划随性唱歌聊天",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1H9GW6qE6h?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "右肩の蝶",
+  "artist": "のりぴー",
+  "collection": "歌切 2026-05-20 IMI oFSBmPpe4hY ✦竖屏直播✦ 无计划随性唱歌聊天",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1H9GW6qE6h?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "ドラマツルギー",
+  "artist": "Eve",
+  "collection": "歌切 2026-05-20 IMI oFSBmPpe4hY ✦竖屏直播✦ 无计划随性唱歌聊天",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1H9GW6qE6h?p=14",
+  "source": "others.js"
+},
+    {
   "title": "Henceforth",
   "artist": "Orangestar",
   "collection": "歌切 2026-05-23 IMI yYXVPOOvzOE ✦竖屏直播✦醒来后还没出过声",
@@ -11755,6 +11867,310 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-05-23 MaiR Ch. Rr6bxhmMyPk 一曲也好，希望你能听到🎧我会用心唱给你。初次见面的朋友非常欢迎！！！线上Live！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PcGH6KEo4?p=44",
+  "source": "others.js"
+},
+    {
+  "title": "DoLL",
+  "artist": "TЁЯRA",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "RESISTER",
+  "artist": "ASCA",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "千の翼",
+  "artist": "livetune adding Takuro Sugawara(from 9mm Parabellum Bullet)",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "Life Goes On",
+  "artist": "有坂美香",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "from the edge",
+  "artist": "FictionJunction feat. LiSA",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "Tears' Night",
+  "artist": "水樹奈々",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "僕らの戦場",
+  "artist": "ワルキューレ",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "テルミドール",
+  "artist": "水樹奈々",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "GENESIS",
+  "artist": "藍井エイル",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "Moments",
+  "artist": "浜崎あゆみ",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "Find the truth",
+  "artist": "Rainy。",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "茜さす",
+  "artist": "Aimer",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "stone cold",
+  "artist": "FictionJunction",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "時の向こう 幻の空",
+  "artist": "FictionJunction",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "oath sign",
+  "artist": "LiSA",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "MEMORIA",
+  "artist": "藍井エイル",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "花の唄",
+  "artist": "Aimer",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "I beg you",
+  "artist": "Aimer",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "春はゆく",
+  "artist": "Aimer",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "満天",
+  "artist": "Kalafina",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "プリズム",
+  "artist": "池田綾子",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "Euterpe",
+  "artist": "EGOIST",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "Weaker",
+  "artist": "神崎エルザ starring ReoNa",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "RE:I AM",
+  "artist": "Aimer",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "セブンティーン",
+  "artist": "YOASOBI",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "pray",
+  "artist": "Tommy heavenly6",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "unravel",
+  "artist": "TK from 凛として時雨",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=27",
+  "source": "others.js"
+},
+    {
+  "title": "I'm a mess",
+  "artist": "MY FIRST STORY",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=28",
+  "source": "others.js"
+},
+    {
+  "title": "ただ声一つ",
+  "artist": "ロクデナシ",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=29",
+  "source": "others.js"
+},
+    {
+  "title": "鳥の詩",
+  "artist": "Lia",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=30",
+  "source": "others.js"
+},
+    {
+  "title": "瞬間センチメンタル",
+  "artist": "SCANDAL",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=31",
+  "source": "others.js"
+},
+    {
+  "title": "NEXT ARCADIA",
+  "artist": "水樹奈々",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=32",
+  "source": "others.js"
+},
+    {
+  "title": "Blood on the EDGE",
+  "artist": "岸田教団&THE明星ロケッツ",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=33",
+  "source": "others.js"
+},
+    {
+  "title": "ハミダシモノ",
+  "artist": "楠木ともり",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=34",
+  "source": "others.js"
+},
+    {
+  "title": "ユリイカ",
+  "artist": "ロクデナシ",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=35",
+  "source": "others.js"
+},
+    {
+  "title": "鐘を鳴らして",
+  "artist": "BONNIE PINK",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=36",
+  "source": "others.js"
+},
+    {
+  "title": "約束の絆",
+  "artist": "妖夢討伐隊",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=37",
+  "source": "others.js"
+},
+    {
+  "title": "ないない",
+  "artist": "ReoNa",
+  "collection": "歌切 2026-05-24 CYBILL A5kZXXIkQbI 不让家里蹲天使入睡的歌回📯〖CYBILL〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hvGW6SEux?p=38",
   "source": "others.js"
 },
     {
