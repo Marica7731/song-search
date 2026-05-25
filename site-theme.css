@@ -3078,6 +3078,212 @@ body.culua-shell-stats .perf-grid-small .perf-link-small:hover {
   color: #0f766e !important;
 }
 
+/* desktop >= 1280px: stats cards auto-fill columns to improve dense browsing. */
+@media (min-width: 1280px) {
+  body.culua-shell-stats {
+    --page-gap: 12px;
+  }
+
+  body.culua-shell-stats .culua-page-content {
+    padding: 16px 18px 28px !important;
+  }
+
+  body.culua-shell-stats .section-bar,
+  body.culua-shell-stats .filters,
+  body.culua-shell-stats .overview-grid {
+    margin-bottom: 10px !important;
+  }
+
+  body.culua-shell-stats .overview-grid {
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)) !important;
+    gap: 8px !important;
+  }
+
+  body.culua-shell-stats .overview-card {
+    min-height: 0 !important;
+    padding: 10px 12px !important;
+  }
+
+  body.culua-shell-stats .overview-value {
+    font-size: 19px !important;
+    line-height: 1.15 !important;
+  }
+
+  body.culua-shell-stats #rank-list,
+  body.culua-shell-stats #vtuber-source-list,
+  body.culua-shell-stats #artist-list {
+    grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)) !important;
+    align-items: start !important;
+    gap: 12px !important;
+  }
+
+  body.culua-shell-stats .group-card,
+  body.culua-shell-stats .rank-item {
+    min-width: 0 !important;
+  }
+
+  body.culua-shell-stats .rank-item {
+    padding: 12px !important;
+    gap: 8px !important;
+  }
+
+  body.culua-shell-stats .rank-card-top {
+    grid-template-columns: minmax(0, 1fr) !important;
+    gap: 8px !important;
+  }
+
+  body.culua-shell-stats .rank-actions {
+    justify-content: flex-start !important;
+  }
+
+  body.culua-shell-stats .rank-actions .action-row {
+    justify-content: flex-start !important;
+  }
+
+  body.culua-shell-stats .rank-metrics {
+    padding-left: 0 !important;
+  }
+
+  body.culua-shell-stats .perf-grid {
+    grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)) !important;
+    gap: 6px !important;
+  }
+
+  body.culua-shell-stats .group-header {
+    grid-template-columns: minmax(0, 1fr) !important;
+    gap: 8px !important;
+    padding: 11px 12px !important;
+  }
+
+  body.culua-shell-stats .group-name {
+    gap: 8px !important;
+    font-size: 16px !important;
+  }
+
+  body.culua-shell-stats .source-avatar {
+    width: 30px;
+    height: 30px;
+    font-size: 12px;
+  }
+
+  body.culua-shell-stats .group-header-actions {
+    grid-template-columns: minmax(0, 1fr) !important;
+    justify-content: stretch !important;
+    justify-items: start !important;
+    gap: 6px !important;
+  }
+
+  body.culua-shell-stats .group-count {
+    justify-content: flex-start !important;
+    gap: 4px !important;
+  }
+
+  body.culua-shell-stats .group-count-chip,
+  body.culua-shell-stats .group-count span:not(.group-count-separator) {
+    min-height: 23px;
+    padding: 2px 7px;
+    font-size: 11px;
+  }
+
+  body.culua-shell-stats .group-header .action-row {
+    justify-content: flex-start !important;
+    gap: 5px !important;
+  }
+
+  body.culua-shell-stats .copy-btn,
+  body.culua-shell-stats .toggle-perf-btn,
+  body.culua-shell-stats .count-clickable,
+  body.culua-shell-stats .perf-open-link {
+    min-height: 28px !important;
+    padding: 3px 8px !important;
+    font-size: 11px !important;
+  }
+
+  body.culua-shell-stats .song-item-row {
+    grid-template-columns: 74px minmax(0, 1fr) !important;
+    gap: 5px 9px !important;
+    padding: 9px 10px !important;
+  }
+
+  body.culua-shell-stats .song-item-row:not(:has(.song-row-cover)) {
+    grid-template-columns: minmax(0, 1fr) !important;
+  }
+
+  body.culua-shell-stats .song-row-cover {
+    width: 74px;
+    grid-row: 1 / span 2;
+    border-radius: 6px;
+  }
+
+  body.culua-shell-stats .song-title-main {
+    margin-bottom: 3px !important;
+    -webkit-line-clamp: 1;
+    font-size: 14px !important;
+    line-height: 1.35 !important;
+  }
+
+  body.culua-shell-stats .song-original-artist {
+    width: fit-content;
+    max-width: 100%;
+    min-height: 20px;
+    padding: 1px 6px;
+    border: 1px solid #cde9ec;
+    border-radius: 999px;
+    background: #eefafa;
+    color: #0f4f5c !important;
+    font-weight: 750;
+    font-size: 11px !important;
+  }
+
+  body.culua-shell-stats .song-meta-right {
+    grid-column: 2;
+    justify-content: flex-start !important;
+    min-width: 0 !important;
+    width: 100%;
+    gap: 5px !important;
+  }
+
+  body.culua-shell-stats .song-item-row:not(:has(.song-row-cover)) .song-meta-right {
+    grid-column: 1;
+  }
+
+  body.culua-shell-stats .count-clickable,
+  body.culua-shell-stats .perf-open-link {
+    flex: 0 0 auto;
+    min-height: 25px !important;
+    padding: 2px 7px !important;
+  }
+
+  body.culua-shell-stats .perf-grid-small {
+    grid-template-columns: minmax(0, 1fr) !important;
+    max-height: 228px;
+    padding-top: 6px !important;
+  }
+
+  body.culua-shell-stats .perf-grid-small .perf-link-small {
+    grid-template-columns: 52px minmax(0, 1fr);
+    padding: 5px 7px !important;
+  }
+
+  body.culua-shell-stats .perf-link-small-cover {
+    width: 52px;
+  }
+
+  body.culua-shell-stats .toggle-btn {
+    min-height: 32px !important;
+    width: calc(100% - 20px) !important;
+    margin: 8px 10px 10px !important;
+  }
+}
+
+@media (min-width: 1600px) {
+  body.culua-shell-stats #rank-list,
+  body.culua-shell-stats #vtuber-source-list,
+  body.culua-shell-stats #artist-list {
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)) !important;
+  }
+}
+
 @media (max-width: 1399px) and (min-width: 1280px) {
   body.culua-shell-stats {
     --left-sidebar-width: 204px;

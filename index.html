@@ -872,6 +872,227 @@
       border-top: 1px solid #eef2f6;
     }
 
+    /* desktop >= 981px: reuse the H5 card rhythm, but let result cards auto-fill columns. */
+    @media (min-width: 981px) {
+      .content {
+        padding: 16px 18px 28px;
+      }
+
+      .toolbar,
+      .copy-panel,
+      .metrics {
+        margin-bottom: 10px;
+      }
+
+      .metrics {
+        grid-template-columns: repeat(auto-fit, minmax(172px, 1fr));
+        gap: 8px;
+      }
+
+      .metric {
+        padding: 10px 12px;
+      }
+
+      .metric-value {
+        font-size: 18px;
+      }
+
+      .results-header {
+        margin: 10px 0 8px;
+      }
+
+      .result-list {
+        grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+        align-items: start;
+        gap: 10px;
+      }
+
+      .song-row {
+        grid-template-columns: 104px minmax(0, 1fr);
+        grid-template-areas:
+          "cover main"
+          "cover artist"
+          "cover collection"
+          "cover actions";
+        gap: 5px 10px;
+        align-items: start;
+        min-width: 0;
+        padding: 9px 10px;
+      }
+
+      .song-row:not(.has-cover) {
+        grid-template-columns: minmax(0, 1fr);
+        grid-template-areas:
+          "main"
+          "artist"
+          "collection"
+          "actions";
+      }
+
+      .song-media {
+        grid-area: cover;
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+        min-width: 0;
+        align-self: start;
+      }
+
+      .song-cover {
+        width: 104px;
+        max-width: 100%;
+        align-self: start;
+        border-radius: 8px;
+      }
+
+      .song-main {
+        grid-area: main;
+        min-width: 0;
+      }
+
+      .song-title {
+        display: -webkit-box;
+        overflow: hidden;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2;
+        font-size: 15px;
+        line-height: 1.3;
+      }
+
+      .song-row .meta {
+        display: none;
+      }
+
+      .mobile-card-meta {
+        display: flex;
+        align-items: center;
+        gap: 3px;
+        margin-top: 0;
+        color: #7c8797;
+        font-size: 10px;
+        line-height: 1.25;
+        overflow: hidden;
+        white-space: normal;
+        flex-wrap: wrap;
+      }
+
+      .mobile-card-meta .source-avatar {
+        flex: 0 0 auto;
+        width: 18px;
+        height: 18px;
+        font-size: 9px;
+        box-shadow: none;
+      }
+
+      .mobile-card-meta .all-source-avatar {
+        width: 26px;
+        font-size: 8px;
+      }
+
+      .mobile-meta-source,
+      .mobile-meta-chip {
+        min-width: 0;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        border: 1px solid #e5eaf1;
+        border-radius: 999px;
+        background: #f8fafc;
+        padding: 1px 5px;
+        color: #7b8794;
+        font-weight: 600;
+      }
+
+      .mobile-meta-source {
+        flex: 1 1 70px;
+        max-width: calc(100% - 22px);
+        color: #64748b;
+        background: #f9fafb;
+      }
+
+      .mobile-meta-chip {
+        flex: 0 1 100%;
+        max-width: 100%;
+      }
+
+      .song-artist {
+        grid-area: artist;
+        width: fit-content;
+        max-width: 100%;
+        min-height: 22px;
+        padding: 2px 7px;
+        border: 1px solid #cde9ec;
+        border-radius: 999px;
+        background: #eefafa;
+        color: #0f4f5c;
+        font-size: 13px;
+        font-weight: 800;
+        line-height: 1.35;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+
+      .song-collection {
+        grid-area: collection;
+        display: -webkit-box;
+        overflow: hidden;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 1;
+        color: #475569;
+        font-size: 12px;
+        line-height: 1.35;
+      }
+
+      .song-source {
+        display: none;
+      }
+
+      .row-actions {
+        grid-area: actions;
+        justify-content: flex-start;
+        gap: 6px;
+        margin-top: 2px;
+      }
+
+      .icon-btn {
+        width: 30px;
+        height: 30px;
+        min-width: 30px;
+        padding: 0;
+      }
+
+      .icon-btn svg {
+        width: 13px;
+        height: 13px;
+      }
+
+      .action-label {
+        display: none;
+      }
+
+      .song-row .field-copy {
+        display: inline;
+        min-height: 0;
+        padding: 0;
+        margin: 0;
+        border-radius: 3px;
+      }
+
+      .song-artist .field-copy,
+      .song-collection .field-copy {
+        display: block;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+    }
+
+    @media (min-width: 1500px) {
+      .result-list {
+        grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+      }
+    }
+
     @media (max-width: 980px) {
       .app-shell {
         grid-template-columns: 1fr;
