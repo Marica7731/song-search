@@ -6,6 +6,7 @@ let allSongs = [];
 let fileList = [];
 let fileAlias = {};
 let sourceStats = {};
+let sourceProfiles = {};
 let bootstrapTotalSongs = 0;
 let bootstrapTotalUnique = 0;
 let currentTab = 'all';
@@ -47,10 +48,89 @@ function escapeHtml(value) {
   }[ch]));
 }
 
+function escapeAttr(value) {
+  return escapeHtml(value).replace(/`/g, '&#96;');
+}
+
+function getDefaultAvatarText(alias) {
+  const picked = Array.from(String(alias || '').trim()).find(ch => /[\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}A-Za-z0-9]/u.test(ch));
+  return (picked || '源').toUpperCase();
+}
+
 function getSourceAlias(source) {
   if (!source) return '未知来源';
   const key = source.replace('.js', '');
   return fileAlias[key] || source;
+}
+
+function getSourceKey(source) {
+  return String(source || '').replace(/\.js$/, '');
+}
+
+function getSourceProfile(source, fallbackAlias = '') {
+  if (source === 'all') {
+    return { alias: '全部来源', avatarText: 'ALL', avatarUrl: '', accentColor: '#0f766e' };
+  }
+  if (!source) {
+    return { alias: fallbackAlias || '首次', avatarText: '首', avatarUrl: '', accentColor: '#16a34a' };
+  }
+  const key = getSourceKey(source);
+  const alias = fallbackAlias || getSourceAlias(source);
+  const profile = sourceProfiles[key] || sourceProfiles[source] || {};
+  return {
+    alias,
+    avatarText: String(profile.avatarText || '').trim() || getDefaultAvatarText(alias),
+    avatarUrl: String(profile.avatarUrl || '').trim(),
+    accentColor: String(profile.accentColor || '').trim() || '#0f766e'
+  };
+}
+
+function sourceAvatarHtml(source, className = '', fallbackAlias = '') {
+  const profile = getSourceProfile(source, fallbackAlias);
+  const classes = ['dup-source-avatar', className].filter(Boolean).join(' ');
+  const style = profile.accentColor ? ` style="--dup-source-avatar-color:${escapeAttr(profile.accentColor)}"` : '';
+  if (profile.avatarUrl) {
+    return `<span class="${classes}"${style}><img src="${escapeAttr(profile.avatarUrl)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"></span>`;
+  }
+  return `<span class="${classes}"${style}>${escapeHtml(profile.avatarText)}</span>`;
+}
+
+function normalizeMediaUrl(value) {
+  const text = String(value || '').trim();
+  if (!text) return '';
+  if (text.startsWith('//')) return `https:${text}`;
+  if (/^http:\/\//i.test(text)) return text.replace(/^http:\/\//i, 'https://');
+  if (/^https?:\/\//i.test(text)) return text;
+  return '';
+}
+
+function buildDisplayThumbUrl(value, width = 160) {
+  const url = normalizeMediaUrl(value);
+  if (!url) return '';
+  const height = Math.round(width * 9 / 16);
+  const suffix = `@${width}w_${height}h_1c.webp`;
+  const match = url.match(/^([^?#]+)([?#].*)?$/);
+  if (!match) return url;
+  const path = match[1];
+  const query = match[2] || '';
+  if (!/\.(?:jpe?g|png|webp)(?:@[^/?#]+)?$/i.test(path)) return url;
+  return path.replace(/(\.(?:jpe?g|png|webp))(?:@[^/?#]+)?$/i, `$1${suffix}`) + query;
+}
+
+function getSongCover(song, width = 160) {
+  return buildDisplayThumbUrl(song?.cover || song?.thumbnail || song?.coverThumb || '', width);
+}
+
+function coverHtml(song, className = 'dup-cover') {
+  const cover = getSongCover(song);
+  const link = String(song?.link || '').trim();
+  if (!cover) {
+    return `<div class="${className} no-cover" aria-hidden="true">${sourceAvatarHtml(song?.source || '', 'cover-fallback-avatar', song?.source ? getSourceAlias(song.source) : '首次')}</div>`;
+  }
+  const img = `<img src="${escapeAttr(cover)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">`;
+  return link
+    ? `<a class="${className}" href="${escapeAttr(link)}" target="_blank" rel="noreferrer">${img}</a>`
+    : `<div class="${className}">${img}</div>`;
 }
 
 function getSourceOptionLabel(source) {
@@ -71,6 +151,44 @@ function getCurrentSourceDisplayLabel() {
   const alias = getSourceAlias(currentTab);
   if (!stat) return alias;
   return `${alias} · 投稿 ${stat.totalSongs} · 去重 ${stat.totalUnique}`;
+}
+
+function getSourceSongCount(source) {
+  if (source === 'all') return bootstrapTotalSongs || allSongs.length || 0;
+  const stat = sourceStats[source] || {};
+  if (Number.isFinite(Number(stat.totalSongs))) return Number(stat.totalSongs);
+  if (Number.isFinite(Number(stat.count))) return Number(stat.count);
+  return allSongs.filter(song => song.source === source).length;
+}
+
+function getSourceUniqueCount(source) {
+  if (source === 'all') return bootstrapTotalUnique || getUniqueSongCount(allSongs);
+  const stat = sourceStats[source] || {};
+  if (Number.isFinite(Number(stat.totalUnique))) return Number(stat.totalUnique);
+  const sourceSongs = allSongs.filter(song => song.source === source);
+  return sourceSongs.length > 0 ? getUniqueSongCount(sourceSongs) : 0;
+}
+
+function buildStaticSourceStats() {
+  const nextStats = {};
+  fileList.forEach(fileName => {
+    const sourceSongs = allSongs.filter(song => song.source === fileName);
+    nextStats[fileName] = {
+      file: fileName,
+      alias: getSourceAlias(fileName),
+      totalSongs: sourceSongs.length,
+      totalUnique: getUniqueSongCount(sourceSongs)
+    };
+  });
+  return nextStats;
+}
+
+function getSortedSourceFiles() {
+  return fileList.slice().sort((left, right) => {
+    const diff = getSourceSongCount(right) - getSourceSongCount(left);
+    if (diff !== 0) return diff;
+    return getSourceAlias(left).localeCompare(getSourceAlias(right), 'zh-CN');
+  });
 }
 
 function isSameSong(songA, songB) {
@@ -489,6 +607,7 @@ async function loadAllData(forceStatic = false) {
         fileList = bootstrapData.files || [];
         fileAlias = bootstrapData.fileToAlias || {};
         sourceStats = bootstrapData.sourceStats || {};
+        sourceProfiles = bootstrapData.sourceProfiles || {};
         bootstrapTotalSongs = bootstrapData.totalSongs || 0;
         bootstrapTotalUnique = bootstrapData.totalUnique || 0;
         isApiMode = true;
@@ -508,6 +627,7 @@ async function loadAllData(forceStatic = false) {
       const indexData = await indexRes.json();
       fileList = indexData.files || fileList || [];
       fileAlias = indexData.fileToAlias || fileAlias || {};
+      sourceProfiles = indexData.sourceProfiles || {};
       sourceStats = {};
       bootstrapTotalSongs = 0;
       bootstrapTotalUnique = 0;
@@ -536,6 +656,7 @@ async function loadAllData(forceStatic = false) {
       allSongs = songArrays.flat();
       bootstrapTotalSongs = allSongs.length;
       bootstrapTotalUnique = getUniqueSongCount(allSongs);
+      sourceStats = buildStaticSourceStats();
     }
 
     dataLoaded = true;
@@ -557,35 +678,63 @@ function updateStat(text) {
 function renderSourceTabs() {
   const container = document.getElementById('tabContainer');
   if (!container) return;
-  container.innerHTML = '';
+  container.className = 'source-tabs dup-source-tabs';
+  const isCompact = window.matchMedia?.('(max-width: 980px)').matches;
+  const sourceItems = ['all', ...getSortedSourceFiles()];
+  const currentLabel = currentTab === 'all' ? '全部来源' : getSourceAlias(currentTab);
+  const currentCount = getSourceSongCount(currentTab);
 
-  const select = document.createElement('select');
-  select.className = 'source-select';
+  container.innerHTML = `
+    <details class="dup-source-panel"${isCompact ? '' : ' open'}>
+      <summary class="dup-source-summary">
+        ${sourceAvatarHtml(currentTab, 'summary-avatar', currentLabel)}
+        <span class="dup-source-summary-text">
+          <span>来源</span>
+          <strong>${escapeHtml(currentLabel)}</strong>
+        </span>
+        <span class="dup-source-summary-count">${currentCount.toLocaleString()}</span>
+      </summary>
+      <div class="dup-source-panel-body">
+        <input type="search" class="dup-source-search" placeholder="筛选来源" aria-label="筛选来源">
+        <div class="dup-source-meta">${escapeHtml(getCurrentSourceDisplayLabel())}</div>
+        <div class="dup-source-list" role="listbox" aria-label="来源列表">
+          ${sourceItems.map(source => {
+            const label = source === 'all' ? '全部来源' : getSourceAlias(source);
+            const count = getSourceSongCount(source);
+            const unique = getSourceUniqueCount(source);
+            const active = source === currentTab ? ' active' : '';
+            return `
+              <button type="button" class="source-option${active}" data-source="${escapeAttr(source)}" data-filter-text="${escapeAttr(label)}" role="option" aria-selected="${source === currentTab ? 'true' : 'false'}">
+                ${sourceAvatarHtml(source, 'option-avatar', label)}
+                <span class="source-option-text">
+                  <span class="source-option-name">${escapeHtml(label)}</span>
+                  <span class="source-option-sub">去重 ${unique.toLocaleString()}</span>
+                </span>
+                <span class="source-count">${count.toLocaleString()}</span>
+              </button>
+            `;
+          }).join('')}
+        </div>
+      </div>
+    </details>
+  `;
 
-  const allOption = document.createElement('option');
-  allOption.value = 'all';
-  allOption.textContent = getSourceOptionLabel('all');
-  select.appendChild(allOption);
-
-  fileList.forEach(fileName => {
-    const option = document.createElement('option');
-    option.value = fileName;
-    option.textContent = getSourceOptionLabel(fileName);
-    select.appendChild(option);
+  container.querySelectorAll('.source-option').forEach(button => {
+    button.addEventListener('click', () => {
+      const source = button.getAttribute('data-source');
+      if (!source || source === currentTab) return;
+      switchSourceTab(source);
+    });
   });
 
-  select.value = currentTab;
-  select.addEventListener('change', () => {
-    if (!select.value) return;
-    switchSourceTab(select.value);
+  const searchInput = container.querySelector('.dup-source-search');
+  searchInput?.addEventListener('input', () => {
+    const keyword = normalizeText(searchInput.value);
+    container.querySelectorAll('.source-option').forEach(option => {
+      const text = normalizeText(option.getAttribute('data-filter-text') || option.textContent || '');
+      option.hidden = !!keyword && !text.includes(keyword);
+    });
   });
-
-  const meta = document.createElement('span');
-  meta.className = 'source-meta';
-  meta.textContent = getCurrentSourceDisplayLabel();
-
-  container.appendChild(select);
-  container.appendChild(meta);
 }
 
 async function switchSourceTab(tab) {
@@ -799,6 +948,92 @@ function toggleShowMode(onlyUnique) {
   renderSongList();
 }
 
+function getResultCardClass(item) {
+  const classes = ['song-item'];
+  if (item.isNotFound) {
+    classes.push('not-found');
+  } else if (item.isArtistMismatch) {
+    classes.push('mismatch', 'dup');
+  } else if (currentMode === 'titleArtist' && item.isFirst) {
+    classes.push('first', 'unique');
+  } else if (item.isDup) {
+    classes.push('dup');
+  } else {
+    classes.push('unique');
+  }
+  return classes.join(' ');
+}
+
+function resultStatusHtml(item) {
+  if (item.isNotFound) {
+    return '<span class="dup-status-chip status-not-found">未找到</span>';
+  }
+  if (currentMode === 'titleArtist') {
+    if (item.isArtistMismatch) {
+      return `<span class="dup-status-chip status-mismatch">歌手疑似不一致 ${item.dupCount || 0}</span>`;
+    }
+    if (item.isFirst) {
+      return '<span class="dup-status-chip status-first">首次</span>';
+    }
+    return `<span class="dup-status-chip status-dup">重复 ${item.dupCount || 0}</span>`;
+  }
+  return item.isDup
+    ? `<span class="dup-status-chip status-dup">重复 ${item.dupCount || 0}</span>`
+    : '<span class="dup-status-chip status-unique">唯一</span>';
+}
+
+function resultSourceHtml(song) {
+  const sourceText = song?.source ? getSourceAlias(song.source) : '输入值（库内首次）';
+  const jumpButton = currentMode === 'bv' && song?.source
+    ? `<button type="button" class="jump-tab-btn" data-source="${escapeAttr(song.source)}">跳转来源</button>`
+    : '';
+  return `
+    <div class="dup-source-line">
+      ${sourceAvatarHtml(song?.source || '', 'result-source-avatar', sourceText)}
+      <span>来源：</span>
+      <span class="copyable" data-copy="${encodeCopyValue(sourceText)}">${escapeHtml(sourceText)}</span>
+      ${jumpButton}
+    </div>
+  `;
+}
+
+function resultLinkHtml(song) {
+  const link = String(song?.link || '').trim();
+  if (!link) return '<div class="dup-link-line">链接：-</div>';
+  return `
+    <div class="dup-link-line">
+      <span>链接：</span>
+      <a class="dup-bili-link" href="${escapeAttr(link)}" target="_blank" rel="noreferrer">${escapeHtml(link)}</a>
+    </div>
+  `;
+}
+
+function renderDupEntry(dup) {
+  const dupTitle = dup.title || '';
+  const dupArtist = dup.artist || '未知';
+  const dupSource = getSourceAlias(dup.source);
+  const dupBvid = extractBV(dup.bvid || dup.link || '');
+  const dupLink = String(dup.link || '').trim();
+  return `
+    <div class="dup-item">
+      ${coverHtml(dup, 'dup-link-cover')}
+      <div class="dup-link-body">
+        <div class="dup-link-title">
+          ${dupBvid ? `<span class="bv-tag">${escapeHtml(dupBvid)}</span>` : ''}
+          <span class="copyable" data-copy="${encodeCopyValue(dupTitle)}">${escapeHtml(dupTitle)}</span>
+        </div>
+        <div class="dup-link-meta">
+          <span class="copyable" data-copy="${encodeCopyValue(dupArtist)}">${escapeHtml(dupArtist)}</span>
+          <span class="dup-dot">·</span>
+          ${sourceAvatarHtml(dup.source || '', 'dup-inline-avatar', dupSource)}
+          <span class="copyable" data-copy="${encodeCopyValue(dupSource)}">${escapeHtml(dupSource)}</span>
+        </div>
+      </div>
+      ${dupLink ? `<a class="dup-open-link" href="${escapeAttr(dupLink)}" target="_blank" rel="noreferrer">打开</a>` : ''}
+    </div>
+  `;
+}
+
 function renderSongList() {
   const container = document.getElementById('resultList');
   if (!container) return;
@@ -814,19 +1049,28 @@ function renderSongList() {
   }
 
   if (viewItems.length === 0) {
-    container.innerHTML = '<div style="text-align:center;padding:20px;color:#6c757d;">暂无结果</div>';
+    container.innerHTML = '<div class="dup-empty">暂无结果</div>';
     syncAiCopyButtonState();
     return;
   }
 
   viewItems.forEach((item, index) => {
     const card = document.createElement('div');
-    card.className = `song-item ${item.isNotFound ? 'not-found' : (item.isDup ? 'dup' : 'unique')}`;
+    card.className = getResultCardClass(item);
 
     if (item.isNotFound) {
       card.innerHTML = `
-        <div class="song-title">${index + 1}. ${escapeHtml(item.originalInput || '未识别输入')} <span class="not-found-tag">未找到</span></div>
-        <div class="meta-info">请尝试切换来源或修正输入格式。</div>
+        <div class="dup-result-main">
+          <div class="dup-cover no-cover" aria-hidden="true">?</div>
+          <div class="dup-result-body">
+            <div class="dup-title-line">
+              <span class="result-index">${index + 1}.</span>
+              <span class="song-title">${escapeHtml(item.originalInput || '未识别输入')}</span>
+              ${resultStatusHtml(item)}
+            </div>
+            <div class="meta-info">请尝试切换来源或修正输入格式。</div>
+          </div>
+        </div>
       `;
       container.appendChild(card);
       return;
@@ -835,39 +1079,30 @@ function renderSongList() {
     const song = item.song;
     const dupPreview = item.dupList
       .slice(0, 5)
-      .map(dup => {
-        const dupTitle = dup.title || '';
-        const dupArtist = dup.artist || '未知';
-        const dupSource = getSourceAlias(dup.source);
-        return `<div class="dup-item"><span class="bv-tag">${escapeHtml(extractBV(dup.link))}</span><span class="copyable" data-copy="${encodeCopyValue(dupTitle)}">${escapeHtml(dupTitle)}</span> - <span class="copyable" data-copy="${encodeCopyValue(dupArtist)}">${escapeHtml(dupArtist)}</span> | <span class="copyable" data-copy="${encodeCopyValue(dupSource)}">${escapeHtml(dupSource)}</span></div>`;
-      })
+      .map(renderDupEntry)
       .join('');
 
-    const statusTag = currentMode === 'titleArtist'
-      ? (item.isArtistMismatch
-        ? `<span class="dup-tag">歌手疑似不一致 ${item.dupCount}</span>`
-        : item.isFirst
-        ? '<span class="unique-tag">首次</span>'
-        : `<span class="dup-tag">重复 ${item.dupCount}</span>`)
-      : (item.isDup
-        ? `<span class="dup-tag">重复 ${item.dupCount}</span>`
-        : '<span class="unique-tag">唯一</span>');
-
     card.innerHTML = `
-      <div class="song-title">
-        ${index + 1}. <span class="copyable" data-copy="${encodeCopyValue(song.title || '')}">${escapeHtml(song.title || '')}</span>
-        ${statusTag}
+      <div class="dup-result-main">
+        ${coverHtml(song)}
+        <div class="dup-result-body">
+          <div class="dup-title-line">
+            <span class="result-index">${index + 1}.</span>
+            <span class="song-title"><span class="copyable" data-copy="${encodeCopyValue(song.title || '')}">${escapeHtml(song.title || '')}</span></span>
+            ${resultStatusHtml(item)}
+          </div>
+          <div class="dup-artist-line">
+            <span>歌手：</span>
+            <span class="copyable" data-copy="${encodeCopyValue(song.artist || '')}">${escapeHtml(song.artist || '未知')}</span>
+          </div>
+          ${resultSourceHtml(song)}
+          ${resultLinkHtml(song)}
+        </div>
       </div>
-      <div class="meta-info">
-        <div>歌手：<span class="copyable" data-copy="${encodeCopyValue(song.artist || '')}">${escapeHtml(song.artist || '未知')}</span></div>
-        <div>来源：<span class="copyable" data-copy="${encodeCopyValue(song.source ? getSourceAlias(song.source) : '输入值（库内首次）')}">${escapeHtml(song.source ? getSourceAlias(song.source) : '输入值（库内首次）')}</span>${currentMode === 'bv' && song.source ? ` <button type="button" class="jump-tab-btn" data-source="${escapeHtml(song.source)}" style="margin-left:8px;padding:2px 8px;border:1px solid #00a1d6;border-radius:12px;background:#fff;color:#00a1d6;font-size:12px;cursor:pointer;">跳转来源</button>` : ''}</div>
-        <div>链接：${song.link ? `<a href="${escapeHtml(song.link)}" target="_blank" rel="noreferrer" style="color:#00a1d6;">${escapeHtml(song.link)}</a>` : '-'}</div>
-      </div>
-      <div class="dup-list">${dupPreview || '<div style="color:#28a745;">当前库未收录，记为首次</div>'}</div>
+      <div class="dup-list">${dupPreview || '<div class="dup-empty inline">当前库未收录，记为首次</div>'}</div>
     `;
 
     card.querySelectorAll('.copyable').forEach(copyEl => {
-      copyEl.style.cursor = 'pointer';
       copyEl.title = '点击复制';
       copyEl.addEventListener('click', () => {
         const encoded = copyEl.getAttribute('data-copy') || '';

@@ -180,6 +180,29 @@ function normalizeProfileUrl(value) {
   return /^https?:\/\//i.test(text) ? text : '';
 }
 
+function normalizeBiliImageUrl(value) {
+  const text = String(value || '').trim();
+  if (!text) return '';
+  if (text.startsWith('//')) return `https:${text}`;
+  if (/^http:\/\//i.test(text)) return text.replace(/^http:\/\//i, 'https://');
+  if (/^https?:\/\//i.test(text)) return text;
+  return '';
+}
+
+function buildBiliThumbUrl(value) {
+  const url = normalizeBiliImageUrl(value);
+  if (!url) return '';
+  const width = 160;
+  const height = 90;
+  const suffix = `@${width}w_${height}h_1c.webp`;
+  const match = url.match(/^([^?#]+)([?#].*)?$/);
+  if (!match) return url;
+  const imagePath = match[1];
+  const query = match[2] || '';
+  if (!/\.(?:jpe?g|png|webp)(?:@[^/?#]+)?$/i.test(imagePath)) return url;
+  return imagePath.replace(/(\.(?:jpe?g|png|webp))(?:@[^/?#]+)?$/i, `$1${suffix}`) + query;
+}
+
 function buildFallbackSourceProfile(sourceFile) {
   const key = String(sourceFile || '').replace(/\.js$/, '');
   const alias = store.fileToAlias[key] || key || '来源';
@@ -1227,6 +1250,7 @@ function buildLiveFallbackSongsFromPayload(livePayload, preferredSource = '') {
       artist: parsed.artist,
       source: preferredSource,
       link: `https://www.bilibili.com/video/${bvid}?p=${pageNo}`,
+      cover: livePayload.cover || '',
       bvid,
       page: pageNo,
       uploader: String(livePayload.uploader || '').trim(),
@@ -1259,6 +1283,7 @@ async function fetchBiliViewPayload(rawBvInput) {
       uploader: String(payload.owner?.name || '').trim(),
       uploaderMid: normalizeUploaderMid(payload.owner?.mid),
       videoTitle: String(payload.title || '').trim(),
+      cover: buildBiliThumbUrl(payload.pic),
       pages: Array.isArray(payload.pages) ? payload.pages : []
     };
     bvLiveFallbackCache.set(inputBv, {
