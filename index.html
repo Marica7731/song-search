@@ -1016,7 +1016,9 @@
 
       .song-artist {
         grid-area: artist;
-        width: fit-content;
+        justify-self: stretch;
+        box-sizing: border-box;
+        width: 100%;
         max-width: 100%;
         min-height: 22px;
         padding: 2px 7px;
@@ -1028,6 +1030,7 @@
         font-weight: 800;
         line-height: 1.35;
         overflow: hidden;
+        text-align: center;
         text-overflow: ellipsis;
         white-space: nowrap;
       }
@@ -1084,6 +1087,10 @@
         overflow: hidden;
         text-overflow: ellipsis;
         white-space: nowrap;
+      }
+
+      .song-artist .field-copy {
+        text-align: center;
       }
     }
 
@@ -1390,7 +1397,9 @@
 
       .song-artist {
         grid-area: artist;
-        width: fit-content;
+        justify-self: stretch;
+        box-sizing: border-box;
+        width: 100%;
         max-width: 100%;
         min-height: 22px;
         padding: 2px 7px;
@@ -1402,6 +1411,7 @@
         font-weight: 800;
         line-height: 1.35;
         overflow: hidden;
+        text-align: center;
         text-overflow: ellipsis;
         white-space: nowrap;
       }
@@ -1458,6 +1468,10 @@
         overflow: hidden;
         text-overflow: ellipsis;
         white-space: nowrap;
+      }
+
+      .song-artist .field-copy {
+        text-align: center;
       }
 
       .pagination {
