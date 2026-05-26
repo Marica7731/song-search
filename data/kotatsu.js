@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 5/26/2026, 3:58:34 PM
+// 生成时间: 5/26/2026, 4:39:58 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4147,6 +4147,358 @@ window.SONG_DATA.push(
   "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=28",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "羽虫と自販機",
+  "artist": "KANA-BOON",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "命に嫌われている。",
+  "artist": "カンザキイオリ feat. 初音ミク",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "あんなつぁ",
+  "artist": "浪漫革命",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夜紛い",
+  "artist": "ヨルシカ",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "うんめー",
+  "artist": "ゆるめるモ！",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "真赤",
+  "artist": "My Hair is Bad",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "謎謎",
+  "artist": "RADWIMPS",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "それがあなたの幸せとしても",
+  "artist": "Heavenz feat. 巡音ルカ",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "感情七号線",
+  "artist": "フラワーカンパニーズ",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "上を向いて歩こう",
+  "artist": "坂本九",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "LOVEずっきゅん",
+  "artist": "相対性理論",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "春に一番近い街",
+  "artist": "40mP feat. GUMI",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "光",
+  "artist": "andymori",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "after that...",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "napori",
+  "artist": "Vaundy",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "深呼吸",
+  "artist": "ハナレグミ",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=17",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "明日への扉",
+  "artist": "I WiSH",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=18",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "光るまち",
+  "artist": "teto",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=19",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "笑ったり転んだり",
+  "artist": "ハンバート ハンバート",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=20",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "アイデンティティ",
+  "artist": "サカナクション",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=21",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "高嶺の花子さん",
+  "artist": "back number",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=22",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=23",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "野に咲く花のように",
+  "artist": "ダ・カーポ",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=24",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "明るい未来",
+  "artist": "never young beach",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=25",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "グレゴリオ",
+  "artist": "古川本舗 feat. ちびた",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=26",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "やどかり",
+  "artist": "RADWIMPS",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=27",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "仰げば尊し",
+  "artist": "文部省唱歌",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=28",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "黒毛和牛上塩タン焼680円",
+  "artist": "大塚愛",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=29",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "magnet",
+  "artist": "流星P feat. 初音ミク・巡音ルカ",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=30",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "アイのシナリオ",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=31",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "東京",
+  "artist": "ヒグチアイ",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=32",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "雛市",
+  "artist": "女王蜂",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=33",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "手と手",
+  "artist": "クリープハイプ",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=34",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Triangle",
+  "artist": "SMAP",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=35",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "バクチ・ダンサー",
+  "artist": "DOES",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=36",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=37",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "千年幸福論",
+  "artist": "amazarashi",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=38",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ニーナ",
+  "artist": "はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=39",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "情熱の薔薇",
+  "artist": "THE BLUE HEARTS",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=40",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "化粧",
+  "artist": "中島みゆき",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=41",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "神様、",
+  "artist": "はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=42",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "115万キロのフィルム",
+  "artist": "Official髭男dism",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=43",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "性善説",
+  "artist": "amazarashi",
+  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=44",
   "source": "kotatsu.js"
 }
 );
