@@ -913,7 +913,8 @@
           "cover main"
           "cover artist"
           "cover collection"
-          "cover actions";
+          "meta meta"
+          "actions actions";
         gap: 5px 10px;
         align-items: start;
         min-width: 0;
@@ -930,15 +931,11 @@
       }
 
       .song-media {
-        grid-area: cover;
-        display: flex;
-        flex-direction: column;
-        gap: 4px;
-        min-width: 0;
-        align-self: start;
+        display: contents;
       }
 
       .song-cover {
+        grid-area: cover;
         width: 104px;
         max-width: 100%;
         align-self: start;
@@ -964,10 +961,13 @@
       }
 
       .mobile-card-meta {
+        grid-area: meta;
         display: flex;
         align-items: center;
-        gap: 3px;
-        margin-top: 0;
+        gap: 4px;
+        width: 100%;
+        min-width: 0;
+        margin-top: 1px;
         color: #7c8797;
         font-size: 10px;
         line-height: 1.25;
@@ -1003,22 +1003,22 @@
       }
 
       .mobile-meta-source {
-        flex: 1 1 70px;
-        max-width: calc(100% - 22px);
+        flex: 1 1 128px;
+        max-width: none;
         color: #64748b;
         background: #f9fafb;
+        text-align: center;
       }
 
       .mobile-meta-chip {
-        flex: 0 1 100%;
-        max-width: 100%;
+        flex: 1 1 78px;
+        max-width: none;
+        text-align: center;
       }
 
       .song-artist {
         grid-area: artist;
-        justify-self: stretch;
-        box-sizing: border-box;
-        width: 100%;
+        width: fit-content;
         max-width: 100%;
         min-height: 22px;
         padding: 2px 7px;
@@ -1030,7 +1030,6 @@
         font-weight: 800;
         line-height: 1.35;
         overflow: hidden;
-        text-align: center;
         text-overflow: ellipsis;
         white-space: nowrap;
       }
@@ -1087,10 +1086,6 @@
         overflow: hidden;
         text-overflow: ellipsis;
         white-space: nowrap;
-      }
-
-      .song-artist .field-copy {
-        text-align: center;
       }
     }
 
@@ -1292,7 +1287,8 @@
           "cover main"
           "cover artist"
           "cover collection"
-          "cover actions";
+          "meta meta"
+          "actions actions";
         gap: 5px 9px;
         padding: 8px 9px;
         align-items: start;
@@ -1308,6 +1304,7 @@
       }
 
       .song-cover {
+        grid-area: cover;
         width: 104px;
         height: 59px;
         max-width: 100%;
@@ -1316,11 +1313,7 @@
       }
 
       .song-media {
-        grid-area: cover;
-        display: flex;
-        flex-direction: column;
-        gap: 4px;
-        align-self: start;
+        display: contents;
       }
 
       .song-main {
@@ -1345,10 +1338,13 @@
       }
 
       .mobile-card-meta {
+        grid-area: meta;
         display: flex;
         align-items: center;
-        gap: 3px;
-        margin-top: 0;
+        gap: 4px;
+        width: 100%;
+        min-width: 0;
+        margin-top: 1px;
         color: #7c8797;
         font-size: 10px;
         line-height: 1.25;
@@ -1384,22 +1380,22 @@
       }
 
       .mobile-meta-source {
-        flex: 1 1 70px;
-        max-width: calc(100% - 22px);
+        flex: 1 1 128px;
+        max-width: none;
         color: #64748b;
         background: #f9fafb;
+        text-align: center;
       }
 
       .mobile-meta-chip {
-        flex: 0 1 100%;
-        max-width: 100%;
+        flex: 1 1 78px;
+        max-width: none;
+        text-align: center;
       }
 
       .song-artist {
         grid-area: artist;
-        justify-self: stretch;
-        box-sizing: border-box;
-        width: 100%;
+        width: fit-content;
         max-width: 100%;
         min-height: 22px;
         padding: 2px 7px;
@@ -1411,7 +1407,6 @@
         font-weight: 800;
         line-height: 1.35;
         overflow: hidden;
-        text-align: center;
         text-overflow: ellipsis;
         white-space: nowrap;
       }
@@ -1468,10 +1463,6 @@
         overflow: hidden;
         text-overflow: ellipsis;
         white-space: nowrap;
-      }
-
-      .song-artist .field-copy {
-        text-align: center;
       }
 
       .pagination {
