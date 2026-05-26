@@ -1,6 +1,6 @@
 // 山田シャロ - 歌单数据 (多合集汇总)
 // 来源: BV179L66pE1f
-// 生成时间: 5/26/2026, 2:01:05 PM
+// 生成时间: 5/26/2026, 2:42:35 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -659,22 +659,6 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-24]目标同时在线50人！请找到我✨❤ SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6Gn6UEKF?p=18",
-  "source": "yamadasharo.js"
-},
-    {
-  "title": "はじめてのチュウ",
-  "artist": "あんしんパパ (実川俊晴)",
-  "collection": "【歌切】[2026-05-24]目标同时在线50人！请找到我✨❤ SHALO YAMADA -Vsinger-",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d6Gn6UEKF?p=19",
-  "source": "yamadasharo.js"
-},
-    {
-  "title": "津軽海峡・冬景色",
-  "artist": "石川さゆり",
-  "collection": "【歌切】[2026-05-24]目标同时在线50人！请找到我✨❤ SHALO YAMADA -Vsinger-",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d6Gn6UEKF?p=20",
   "source": "yamadasharo.js"
 }
 );
