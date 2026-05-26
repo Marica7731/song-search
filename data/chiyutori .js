@@ -1,6 +1,6 @@
 // 知悠 - 歌单数据 (多合集汇总)
 // 来源: BV1owcoz3Ekw
-// 生成时间: 5/26/2026, 3:03:12 AM
+// 生成时间: 5/26/2026, 3:44:57 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2910,8 +2910,8 @@ window.SONG_DATA.push(
   "source": "chiyutori .js"
 },
     {
-  "title": "未确定",
-  "artist": "未确定",
+  "title": "サウダージ",
+  "artist": "ポルノグラフィティ",
   "collection": "【歌切】[2026-05-25]目标是2850人！谢谢大家来看现场Live！星期一固定歌回♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LgVc6aE4k?p=13",
