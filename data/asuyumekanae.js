@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 5/26/2026, 7:30:05 PM
+// 生成时间: 5/26/2026, 8:11:18 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1075,6 +1075,166 @@ window.SONG_DATA.push(
   "collection": "【明日夢 歌切】[2026-05-22]wo!! 明日夢かなえ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LdGb6rEsS?p=16",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ユメヲカケル！",
+  "artist": "スペシャルウィーク、サイレンススズカ、トウカイテイオー、ウオッカ、ダイワスカーレット、ゴールドシップ、メジロマックイーン",
+  "collection": "【明日夢 歌切】[2026-05-26]来听歌吧——！星期二也要元气满满！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15yVK6yEM6?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ふわふわ時間",
+  "artist": "桜高軽音部",
+  "collection": "【明日夢 歌切】[2026-05-26]来听歌吧——！星期二也要元气满满！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15yVK6yEM6?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "【明日夢 歌切】[2026-05-26]来听歌吧——！星期二也要元气满满！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15yVK6yEM6?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "【明日夢 歌切】[2026-05-26]来听歌吧——！星期二也要元气满满！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15yVK6yEM6?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "忘れてやらない",
+  "artist": "結束バンド",
+  "collection": "【明日夢 歌切】[2026-05-26]来听歌吧——！星期二也要元气满满！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15yVK6yEM6?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-05-26]来听歌吧——！星期二也要元气满满！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15yVK6yEM6?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "PAPERMOON",
+  "artist": "Tommy heavenly6",
+  "collection": "【明日夢 歌切】[2026-05-26]来听歌吧——！星期二也要元气满满！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15yVK6yEM6?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "瞬間センチメンタル",
+  "artist": "SCANDAL",
+  "collection": "【明日夢 歌切】[2026-05-26]来听歌吧——！星期二也要元气满满！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15yVK6yEM6?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Rolling star",
+  "artist": "YUI",
+  "collection": "【明日夢 歌切】[2026-05-26]来听歌吧——！星期二也要元气满满！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15yVK6yEM6?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "【明日夢 歌切】[2026-05-26]来听歌吧——！星期二也要元气满满！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15yVK6yEM6?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "新時代",
+  "artist": "Ado",
+  "collection": "【明日夢 歌切】[2026-05-26]来听歌吧——！星期二也要元气满满！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15yVK6yEM6?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "【明日夢 歌切】[2026-05-26]来听歌吧——！星期二也要元气满满！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15yVK6yEM6?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "crossing field",
+  "artist": "LiSA",
+  "collection": "【明日夢 歌切】[2026-05-26]来听歌吧——！星期二也要元气满满！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15yVK6yEM6?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "【明日夢 歌切】[2026-05-26]来听歌吧——！星期二也要元气满满！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15yVK6yEM6?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "咲かせや咲かせ",
+  "artist": "EGOIST",
+  "collection": "【明日夢 歌切】[2026-05-26]来听歌吧——！星期二也要元气满满！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15yVK6yEM6?p=15",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【明日夢 歌切】[2026-05-26]来听歌吧——！星期二也要元气满满！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15yVK6yEM6?p=16",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "集結の園へ",
+  "artist": "林原めぐみ",
+  "collection": "【明日夢 歌切】[2026-05-26]来听歌吧——！星期二也要元气满满！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15yVK6yEM6?p=17",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師, 宇多田ヒカル",
+  "collection": "【明日夢 歌切】[2026-05-26]来听歌吧——！星期二也要元气满满！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15yVK6yEM6?p=18",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【明日夢 歌切】[2026-05-26]来听歌吧——！星期二也要元气满满！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15yVK6yEM6?p=19",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "銀色飛行船",
+  "artist": "supercell",
+  "collection": "【明日夢 歌切】[2026-05-26]来听歌吧——！星期二也要元气满满！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15yVK6yEM6?p=20",
   "source": "asuyumekanae.js"
 },
     {

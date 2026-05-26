@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 5/26/2026, 7:32:10 PM
+// 生成时间: 5/26/2026, 8:13:14 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9075,6 +9075,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-25]突击！稍微唱一会儿歌👀 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15gVc6aEdT?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【歌切】[2026-05-26]在温馨的家用3D里开心唱歌🫶 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eyVK6CEdZ?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "晴れてハレルヤ",
+  "artist": "奥井亜紀",
+  "collection": "【歌切】[2026-05-26]在温馨的家用3D里开心唱歌🫶 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eyVK6CEdZ?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "嵐の中で輝いて",
+  "artist": "米倉千尋",
+  "collection": "【歌切】[2026-05-26]在温馨的家用3D里开心唱歌🫶 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eyVK6CEdZ?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "SECRET AMBITION",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-05-26]在温馨的家用3D里开心唱歌🫶 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eyVK6CEdZ?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "深愛",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-05-26]在温馨的家用3D里开心唱歌🫶 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eyVK6CEdZ?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Sincerely",
+  "artist": "TRUE",
+  "collection": "【歌切】[2026-05-26]在温馨的家用3D里开心唱歌🫶 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eyVK6CEdZ?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "猫",
+  "artist": "DISH//",
+  "collection": "【歌切】[2026-05-26]在温馨的家用3D里开心唱歌🫶 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eyVK6CEdZ?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "GIRAFFE BLUES",
+  "artist": "ワルキューレ",
+  "collection": "【歌切】[2026-05-26]在温馨的家用3D里开心唱歌🫶 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eyVK6CEdZ?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ロキ",
+  "artist": "みきとP",
+  "collection": "【歌切】[2026-05-26]在温馨的家用3D里开心唱歌🫶 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eyVK6CEdZ?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "8.32",
+  "artist": "*Luna",
+  "collection": "【歌切】[2026-05-26]在温馨的家用3D里开心唱歌🫶 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eyVK6CEdZ?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ADAMAS",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-05-26]在温馨的家用3D里开心唱歌🫶 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eyVK6CEdZ?p=11",
   "source": "naraetan.js"
 },
     {

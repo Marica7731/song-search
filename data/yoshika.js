@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 5/26/2026, 7:34:36 PM
+// 生成时间: 5/26/2026, 8:16:03 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -947,6 +947,166 @@ window.SONG_DATA.push(
   "collection": "【13曲 竖屏】【Yoshika歌切合集】[直播开始日期：2024年1月27日]3-1-残酷な天使のテーゼ高橋洋子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WK4y117C7?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "美少女無罪♡パイレーツ",
+  "artist": "宝鐘マリン",
+  "collection": "【0214】美少女無罪♡パイレーツ バレンタイン・キッス sweets parade スイートマジック ファンサ 恋愛サーキュレーション 破滅の純情 一度だけの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KS421T7fx?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バレンタイン・キッス",
+  "artist": "国生さゆり",
+  "collection": "【0214】美少女無罪♡パイレーツ バレンタイン・キッス sweets parade スイートマジック ファンサ 恋愛サーキュレーション 破滅の純情 一度だけの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KS421T7fx?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "sweets parade",
+  "artist": "花澤香菜",
+  "collection": "【0214】美少女無罪♡パイレーツ バレンタイン・キッス sweets parade スイートマジック ファンサ 恋愛サーキュレーション 破滅の純情 一度だけの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KS421T7fx?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "スイートマジック",
+  "artist": "Junky",
+  "collection": "【0214】美少女無罪♡パイレーツ バレンタイン・キッス sweets parade スイートマジック ファンサ 恋愛サーキュレーション 破滅の純情 一度だけの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KS421T7fx?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "HoneyWorks",
+  "collection": "【0214】美少女無罪♡パイレーツ バレンタイン・キッス sweets parade スイートマジック ファンサ 恋愛サーキュレーション 破滅の純情 一度だけの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KS421T7fx?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "恋愛サーキュレーション",
+  "artist": "千石撫子(花澤香菜)",
+  "collection": "【0214】美少女無罪♡パイレーツ バレンタイン・キッス sweets parade スイートマジック ファンサ 恋愛サーキュレーション 破滅の純情 一度だけの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KS421T7fx?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "破滅の純情",
+  "artist": "ワルキューレ",
+  "collection": "【0214】美少女無罪♡パイレーツ バレンタイン・キッス sweets parade スイートマジック ファンサ 恋愛サーキュレーション 破滅の純情 一度だけの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KS421T7fx?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "一度だけの恋なら",
+  "artist": "ワルキューレ",
+  "collection": "【0214】美少女無罪♡パイレーツ バレンタイン・キッス sweets parade スイートマジック ファンサ 恋愛サーキュレーション 破滅の純情 一度だけの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KS421T7fx?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "AXIA～ダイスキでダイキライ",
+  "artist": "ワルキューレ",
+  "collection": "【0214】美少女無罪♡パイレーツ バレンタイン・キッス sweets parade スイートマジック ファンサ 恋愛サーキュレーション 破滅の純情 一度だけの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KS421T7fx?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "トライアングラー",
+  "artist": "坂本真綾",
+  "collection": "【0214】美少女無罪♡パイレーツ バレンタイン・キッス sweets parade スイートマジック ファンサ 恋愛サーキュレーション 破滅の純情 一度だけの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KS421T7fx?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "いけないボーダーライン",
+  "artist": "ワルキューレ",
+  "collection": "【0214】美少女無罪♡パイレーツ バレンタイン・キッス sweets parade スイートマジック ファンサ 恋愛サーキュレーション 破滅の純情 一度だけの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KS421T7fx?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "雪の華",
+  "artist": "中島美嘉",
+  "collection": "【0214】美少女無罪♡パイレーツ バレンタイン・キッス sweets parade スイートマジック ファンサ 恋愛サーキュレーション 破滅の純情 一度だけの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KS421T7fx?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【0214】美少女無罪♡パイレーツ バレンタイン・キッス sweets parade スイートマジック ファンサ 恋愛サーキュレーション 破滅の純情 一度だけの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KS421T7fx?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ソワレ",
+  "artist": "星街すいせい",
+  "collection": "【0214】美少女無罪♡パイレーツ バレンタイン・キッス sweets parade スイートマジック ファンサ 恋愛サーキュレーション 破滅の純情 一度だけの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KS421T7fx?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アクエリア舞う空",
+  "artist": "The Member of LSOT",
+  "collection": "【0214】美少女無罪♡パイレーツ バレンタイン・キッス sweets parade スイートマジック ファンサ 恋愛サーキュレーション 破滅の純情 一度だけの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KS421T7fx?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "さくらんぼ",
+  "artist": "大塚愛",
+  "collection": "【0214】美少女無罪♡パイレーツ バレンタイン・キッス sweets parade スイートマジック ファンサ 恋愛サーキュレーション 破滅の純情 一度だけの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KS421T7fx?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "全ての人の魂の詩",
+  "artist": "小宮知子",
+  "collection": "【0214】美少女無罪♡パイレーツ バレンタイン・キッス sweets parade スイートマジック ファンサ 恋愛サーキュレーション 破滅の純情 一度だけの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KS421T7fx?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "MOTHER",
+  "artist": "奥華子×96猫",
+  "collection": "【0214】美少女無罪♡パイレーツ バレンタイン・キッス sweets parade スイートマジック ファンサ 恋愛サーキュレーション 破滅の純情 一度だけの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KS421T7fx?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "黒猫",
+  "artist": "赤髪 feat. グミ",
+  "collection": "【0214】美少女無罪♡パイレーツ バレンタイン・キッス sweets parade スイートマジック ファンサ 恋愛サーキュレーション 破滅の純情 一度だけの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KS421T7fx?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ユニバース",
+  "artist": "夏代孝明 feat. GUMI",
+  "collection": "【0214】美少女無罪♡パイレーツ バレンタイン・キッス sweets parade スイートマジック ファンサ 恋愛サーキュレーション 破滅の純情 一度だけの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KS421T7fx?p=20",
   "source": "yoshika.js"
 },
     {
