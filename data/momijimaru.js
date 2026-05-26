@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 5/26/2026, 4:32:34 PM
+// 生成时间: 5/26/2026, 5:14:41 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5771,6 +5771,118 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-05-22]生歌最強Vsinger!! 校园祭前的青春歌曲歌回🍁✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gdGi6REZz?p=15",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Arrietty's Song",
+  "artist": "セシル・コルベル",
+  "collection": "【🍁歌切】[2026-05-26]早晨的陪伴来一点如何!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oFVM6HEtV?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "春を待つ",
+  "artist": "Islet feat. 倚水",
+  "collection": "【🍁歌切】[2026-05-26]早晨的陪伴来一点如何!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oFVM6HEtV?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "花",
+  "artist": "藤井風",
+  "collection": "【🍁歌切】[2026-05-26]早晨的陪伴来一点如何!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oFVM6HEtV?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "テレキャスタービーボーイ",
+  "artist": "すりぃ feat. 鏡音レン",
+  "collection": "【🍁歌切】[2026-05-26]早晨的陪伴来一点如何!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oFVM6HEtV?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "混沌ブギ",
+  "artist": "jon-YAKITORY feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-05-26]早晨的陪伴来一点如何!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oFVM6HEtV?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ずうっといっしょ！",
+  "artist": "キタニタツヤ",
+  "collection": "【🍁歌切】[2026-05-26]早晨的陪伴来一点如何!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oFVM6HEtV?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "フィラメントフィーバー",
+  "artist": "栗山夕璃 feat. 初音ミク・MEIKO",
+  "collection": "【🍁歌切】[2026-05-26]早晨的陪伴来一点如何!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oFVM6HEtV?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "なとり",
+  "collection": "【🍁歌切】[2026-05-26]早晨的陪伴来一点如何!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oFVM6HEtV?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "食虫植物",
+  "artist": "理芽",
+  "collection": "【🍁歌切】[2026-05-26]早晨的陪伴来一点如何!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oFVM6HEtV?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ハッピーラッキーチャッピー",
+  "artist": "ano",
+  "collection": "【🍁歌切】[2026-05-26]早晨的陪伴来一点如何!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oFVM6HEtV?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "神っぽいな",
+  "artist": "ピノキオピー feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-05-26]早晨的陪伴来一点如何!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oFVM6HEtV?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "No Logic",
+  "artist": "ジミーサムP feat. 巡音ルカ",
+  "collection": "【🍁歌切】[2026-05-26]早晨的陪伴来一点如何!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oFVM6HEtV?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "なにやってもうまくいかない",
+  "artist": "meiyo",
+  "collection": "【🍁歌切】[2026-05-26]早晨的陪伴来一点如何!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oFVM6HEtV?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "エンジョイ",
+  "artist": "めいちゃん",
+  "collection": "【🍁歌切】[2026-05-26]早晨的陪伴来一点如何!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oFVM6HEtV?p=14",
   "source": "momijimaru.js"
 }
 );
