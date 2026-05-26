@@ -913,8 +913,7 @@
           "cover main"
           "cover artist"
           "cover collection"
-          "meta meta"
-          "actions actions";
+          "cover actions";
         gap: 5px 10px;
         align-items: start;
         min-width: 0;
@@ -931,11 +930,15 @@
       }
 
       .song-media {
-        display: contents;
+        grid-area: cover;
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+        min-width: 0;
+        align-self: start;
       }
 
       .song-cover {
-        grid-area: cover;
         width: 104px;
         max-width: 100%;
         align-self: start;
@@ -961,13 +964,12 @@
       }
 
       .mobile-card-meta {
-        grid-area: meta;
         display: flex;
         align-items: center;
-        gap: 4px;
+        gap: 3px;
         width: 100%;
         min-width: 0;
-        margin-top: 1px;
+        margin-top: 0;
         color: #7c8797;
         font-size: 10px;
         line-height: 1.25;
@@ -1003,16 +1005,16 @@
       }
 
       .mobile-meta-source {
-        flex: 1 1 128px;
-        max-width: none;
+        flex: 1 1 70px;
+        max-width: calc(100% - 22px);
         color: #64748b;
         background: #f9fafb;
         text-align: center;
       }
 
       .mobile-meta-chip {
-        flex: 1 1 78px;
-        max-width: none;
+        flex: 1 1 100%;
+        max-width: 100%;
         text-align: center;
       }
 
@@ -1287,8 +1289,7 @@
           "cover main"
           "cover artist"
           "cover collection"
-          "meta meta"
-          "actions actions";
+          "cover actions";
         gap: 5px 9px;
         padding: 8px 9px;
         align-items: start;
@@ -1304,7 +1305,6 @@
       }
 
       .song-cover {
-        grid-area: cover;
         width: 104px;
         height: 59px;
         max-width: 100%;
@@ -1313,7 +1313,11 @@
       }
 
       .song-media {
-        display: contents;
+        grid-area: cover;
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+        align-self: start;
       }
 
       .song-main {
@@ -1338,13 +1342,12 @@
       }
 
       .mobile-card-meta {
-        grid-area: meta;
         display: flex;
         align-items: center;
-        gap: 4px;
+        gap: 3px;
         width: 100%;
         min-width: 0;
-        margin-top: 1px;
+        margin-top: 0;
         color: #7c8797;
         font-size: 10px;
         line-height: 1.25;
@@ -1380,16 +1383,16 @@
       }
 
       .mobile-meta-source {
-        flex: 1 1 128px;
-        max-width: none;
+        flex: 1 1 70px;
+        max-width: calc(100% - 22px);
         color: #64748b;
         background: #f9fafb;
         text-align: center;
       }
 
       .mobile-meta-chip {
-        flex: 1 1 78px;
-        max-width: none;
+        flex: 1 1 100%;
+        max-width: 100%;
         text-align: center;
       }
 
