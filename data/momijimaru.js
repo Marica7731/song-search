@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 5/27/2026, 6:47:38 PM
+// 生成时间: 5/27/2026, 7:47:50 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5883,6 +5883,70 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-05-26]早晨的陪伴来一点如何!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oFVM6HEtV?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Virtual to LIVE",
+  "artist": "にじさんじ",
+  "collection": "【🍁歌切】[2026-05-27]来点晨间陪伴如何!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ftGD6uEVD?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "De Lu Lu",
+  "artist": "VOLTACTION",
+  "collection": "【🍁歌切】[2026-05-27]来点晨间陪伴如何!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ftGD6uEVD?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【🍁歌切】[2026-05-27]来点晨间陪伴如何!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ftGD6uEVD?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍁歌切】[2026-05-27]来点晨间陪伴如何!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ftGD6uEVD?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍁歌切】[2026-05-27]来点晨间陪伴如何!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ftGD6uEVD?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Minute by Minute",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-05-27]来点晨间陪伴如何!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ftGD6uEVD?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "一二三",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-05-27]来点晨间陪伴如何!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ftGD6uEVD?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "我愛你",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-05-27]来点晨间陪伴如何!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ftGD6uEVD?p=8",
   "source": "momijimaru.js"
 }
 );

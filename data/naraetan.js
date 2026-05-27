@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 5/27/2026, 6:48:56 PM
+// 生成时间: 5/27/2026, 7:48:49 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9163,6 +9163,182 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-26]在温馨的家用3D里开心唱歌🫶 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eyVK6CEdZ?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "狂乱Hey Kids!!",
+  "artist": "THE ORAL CIGARETTES",
+  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "貴方の恋人になりたい",
+  "artist": "チョーキューメイ",
+  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "終わりの世界から",
+  "artist": "やなぎなぎ",
+  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "星になる",
+  "artist": "Islet feat.倚水",
+  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Plastic Love",
+  "artist": "竹内まりや",
+  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "どんなときも",
+  "artist": "槇原敬之",
+  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "奇跡の海",
+  "artist": "坂本真綾",
+  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "courage",
+  "artist": "戸松遥",
+  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "極楽浄土",
+  "artist": "GARNiDELiA",
+  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "again",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夏の在りか",
+  "artist": "H△G",
+  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Hello, Worker",
+  "artist": "KEI",
+  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Wherever You Are",
+  "artist": "ONE OK ROCK",
+  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Every Heart",
+  "artist": "BoA",
+  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "あなたのキスを数えましょう",
+  "artist": "小柳ゆき",
+  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=16",
+  "source": "naraetan.js"
+},
+    {
+  "title": "LEVEL5-Judgelight",
+  "artist": "fripSide",
+  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=17",
+  "source": "naraetan.js"
+},
+    {
+  "title": "最強パレパレード",
+  "artist": "涼宮ハルヒ(平野綾),長門有希(茅原実里),朝比奈みくる(後藤邑子)",
+  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=18",
+  "source": "naraetan.js"
+},
+    {
+  "title": "輪舞-revolution",
+  "artist": "奥井雅美",
+  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=19",
+  "source": "naraetan.js"
+},
+    {
+  "title": "IN MY DREAM",
+  "artist": "真行寺恵理",
+  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=20",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "TOKOTOKO",
+  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=21",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "HoneyWorks",
+  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=22",
   "source": "naraetan.js"
 },
     {

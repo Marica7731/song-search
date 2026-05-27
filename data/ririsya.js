@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 5/27/2026, 6:49:56 PM
+// 生成时间: 5/27/2026, 7:49:28 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5358,11 +5358,19 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=3",
+  "source": "ririsya.js"
+},
+    {
   "title": "怪獣",
   "artist": "サカナクション",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=3",
+  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=4",
   "source": "ririsya.js"
 },
     {
@@ -5370,7 +5378,7 @@ window.SONG_DATA.push(
   "artist": "コレサワ",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=4",
+  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=5",
   "source": "ririsya.js"
 },
     {
@@ -5378,7 +5386,7 @@ window.SONG_DATA.push(
   "artist": "横山だいすけ",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=5",
+  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=6",
   "source": "ririsya.js"
 },
     {
@@ -5386,7 +5394,7 @@ window.SONG_DATA.push(
   "artist": "速水けんたろう＆茂森あゆみ",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=6",
+  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=7",
   "source": "ririsya.js"
 },
     {
@@ -5394,7 +5402,7 @@ window.SONG_DATA.push(
   "artist": "おかあさんといっしょ",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=7",
+  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=8",
   "source": "ririsya.js"
 },
     {
@@ -5402,7 +5410,7 @@ window.SONG_DATA.push(
   "artist": "童謡",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=8",
+  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=9",
   "source": "ririsya.js"
 },
     {
@@ -5410,7 +5418,7 @@ window.SONG_DATA.push(
   "artist": "NEUTRINO",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=9",
+  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=10",
   "source": "ririsya.js"
 },
     {
@@ -5418,7 +5426,7 @@ window.SONG_DATA.push(
   "artist": "BEGIN",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=10",
+  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=11",
   "source": "ririsya.js"
 },
     {
@@ -5426,7 +5434,7 @@ window.SONG_DATA.push(
   "artist": "あいみょん",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=11",
+  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=12",
   "source": "ririsya.js"
 },
     {
@@ -5434,7 +5442,7 @@ window.SONG_DATA.push(
   "artist": "小泉今日子",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=12",
+  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=13",
   "source": "ririsya.js"
 },
     {
@@ -5442,7 +5450,7 @@ window.SONG_DATA.push(
   "artist": "中森明菜",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=13",
+  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=14",
   "source": "ririsya.js"
 },
     {
@@ -5450,7 +5458,7 @@ window.SONG_DATA.push(
   "artist": "中森明菜",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=14",
+  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=15",
   "source": "ririsya.js"
 },
     {
@@ -5458,7 +5466,7 @@ window.SONG_DATA.push(
   "artist": "大滝詠一",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=15",
+  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=16",
   "source": "ririsya.js"
 },
     {
@@ -5466,20 +5474,12 @@ window.SONG_DATA.push(
   "artist": "玉置浩二",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=16",
+  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=17",
   "source": "ririsya.js"
 },
     {
   "title": "愛のうた",
   "artist": "倖田來未",
-  "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=17",
-  "source": "ririsya.js"
-},
-    {
-  "title": "Plazma",
-  "artist": "米津玄師",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=18",
@@ -5494,11 +5494,19 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
+  "title": "Plazma",
+  "artist": "米津玄師",
+  "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=20",
+  "source": "ririsya.js"
+},
+    {
   "title": "地獄先生",
   "artist": "相対性理論",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=20",
+  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=21",
   "source": "ririsya.js"
 },
     {
@@ -5506,7 +5514,7 @@ window.SONG_DATA.push(
   "artist": "ポルノグラフィティ(Porno Graffitti)",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=21",
+  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=22",
   "source": "ririsya.js"
 },
     {
@@ -5514,7 +5522,7 @@ window.SONG_DATA.push(
   "artist": "あいみょん",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=22",
+  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=23",
   "source": "ririsya.js"
 },
     {
@@ -5522,7 +5530,7 @@ window.SONG_DATA.push(
   "artist": "SHISHAMO",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=23",
+  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=24",
   "source": "ririsya.js"
 },
     {
@@ -5530,7 +5538,7 @@ window.SONG_DATA.push(
   "artist": "みきとP",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=24",
+  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=25",
   "source": "ririsya.js"
 },
     {
@@ -5538,7 +5546,7 @@ window.SONG_DATA.push(
   "artist": "みきとP feat. 初音ミク",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=25",
+  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=26",
   "source": "ririsya.js"
 },
     {
@@ -5546,7 +5554,7 @@ window.SONG_DATA.push(
   "artist": "鄧麗君",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=26",
+  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=27",
   "source": "ririsya.js"
 },
     {
@@ -5554,7 +5562,7 @@ window.SONG_DATA.push(
   "artist": "RADWIMPS",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=27",
+  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=28",
   "source": "ririsya.js"
 },
     {
@@ -5562,7 +5570,7 @@ window.SONG_DATA.push(
   "artist": "RADWIMPS",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=28",
+  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=29",
   "source": "ririsya.js"
 },
     {
@@ -5570,7 +5578,7 @@ window.SONG_DATA.push(
   "artist": "RADWIMPS",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=29",
+  "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=30",
   "source": "ririsya.js"
 },
     {

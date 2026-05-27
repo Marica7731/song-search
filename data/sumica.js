@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 5/27/2026, 6:55:53 PM
+// 生成时间: 5/27/2026, 7:55:18 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3507,6 +3507,150 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-24]初見也欢迎哦🙋‍♀️想在星期日的尾声送上动听的弹唱…！！✉ -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VsGH6SEck?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "催眠術",
+  "artist": "とた",
+  "collection": "【💐🎸歌切】[2026-05-27]沉醉夜色的原声吉他弹唱🎶一起度过悠闲时光吧～～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wHGD65Ehg?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "Shout Baby",
+  "artist": "緑黄色社会",
+  "collection": "【💐🎸歌切】[2026-05-27]沉醉夜色的原声吉他弹唱🎶一起度过悠闲时光吧～～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wHGD65Ehg?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "盗作",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-05-27]沉醉夜色的原声吉他弹唱🎶一起度过悠闲时光吧～～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wHGD65Ehg?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "アヤノの幸福理論",
+  "artist": "じん feat. IA",
+  "collection": "【💐🎸歌切】[2026-05-27]沉醉夜色的原声吉他弹唱🎶一起度过悠闲时光吧～～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wHGD65Ehg?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "Hey my friend",
+  "artist": "Tommy heavenly6",
+  "collection": "【💐🎸歌切】[2026-05-27]沉醉夜色的原声吉他弹唱🎶一起度过悠闲时光吧～～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wHGD65Ehg?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "三時のキス",
+  "artist": "ロクデナシ",
+  "collection": "【💐🎸歌切】[2026-05-27]沉醉夜色的原声吉他弹唱🎶一起度过悠闲时光吧～～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wHGD65Ehg?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-05-27]沉醉夜色的原声吉他弹唱🎶一起度过悠闲时光吧～～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wHGD65Ehg?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "雨晴るる",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-05-27]沉醉夜色的原声吉他弹唱🎶一起度过悠闲时光吧～～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wHGD65Ehg?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "ピースサイン",
+  "artist": "米津玄師",
+  "collection": "【💐🎸歌切】[2026-05-27]沉醉夜色的原声吉他弹唱🎶一起度过悠闲时光吧～～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wHGD65Ehg?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【💐🎸歌切】[2026-05-27]沉醉夜色的原声吉他弹唱🎶一起度过悠闲时光吧～～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wHGD65Ehg?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "コイスルオトメ",
+  "artist": "いきものがかり",
+  "collection": "【💐🎸歌切】[2026-05-27]沉醉夜色的原声吉他弹唱🎶一起度过悠闲时光吧～～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wHGD65Ehg?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "ぷんぷん",
+  "artist": "コレサワ",
+  "collection": "【💐🎸歌切】[2026-05-27]沉醉夜色的原声吉他弹唱🎶一起度过悠闲时光吧～～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wHGD65Ehg?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "Burning",
+  "artist": "羊文学",
+  "collection": "【💐🎸歌切】[2026-05-27]沉醉夜色的原声吉他弹唱🎶一起度过悠闲时光吧～～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wHGD65Ehg?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "残ってる",
+  "artist": "吉澤嘉代子",
+  "collection": "【💐🎸歌切】[2026-05-27]沉醉夜色的原声吉他弹唱🎶一起度过悠闲时光吧～～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wHGD65Ehg?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "二時頃",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-05-27]沉醉夜色的原声吉他弹唱🎶一起度过悠闲时光吧～～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wHGD65Ehg?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "inside you",
+  "artist": "milet",
+  "collection": "【💐🎸歌切】[2026-05-27]沉醉夜色的原声吉他弹唱🎶一起度过悠闲时光吧～～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wHGD65Ehg?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "ベーコンエピ",
+  "artist": "TOMOO",
+  "collection": "【💐🎸歌切】[2026-05-27]沉醉夜色的原声吉他弹唱🎶一起度过悠闲时光吧～～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wHGD65Ehg?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "泣き虫上等",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-05-27]沉醉夜色的原声吉他弹唱🎶一起度过悠闲时光吧～～ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wHGD65Ehg?p=18",
   "source": "sumica.js"
 }
 );

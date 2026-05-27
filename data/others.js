@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 5/27/2026, 7:03:57 PM
+// 生成时间: 5/27/2026, 8:05:43 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3587,6 +3587,46 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-25]活动二周年纪念☾ CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15gVc6aEoe?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "てんぺんち",
+  "artist": "CULUA",
+  "collection": "【🦇歌切】[2026-05-27]出道至今已经两年了。 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FpGD6CEg5?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "少しの自信があったら、",
+  "artist": "CULUA",
+  "collection": "【🦇歌切】[2026-05-27]出道至今已经两年了。 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FpGD6CEg5?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "脱色",
+  "artist": "CULUA",
+  "collection": "【🦇歌切】[2026-05-27]出道至今已经两年了。 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FpGD6CEg5?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "自分ごっこ",
+  "artist": "CULUA",
+  "collection": "【🦇歌切】[2026-05-27]出道至今已经两年了。 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FpGD6CEg5?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "Engelslied",
+  "artist": "CULUA",
+  "collection": "【🦇歌切】[2026-05-27]出道至今已经两年了。 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FpGD6CEg5?p=5",
   "source": "others.js"
 },
     {
