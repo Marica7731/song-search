@@ -1,6 +1,6 @@
 // すとらてぃあ-Stratia - 歌单数据 (多合集汇总)
 // 来源: BV1KSRXBwE2v
-// 生成时间: 5/27/2026, 4:59:09 PM
+// 生成时间: 5/27/2026, 5:36:29 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -379,6 +379,86 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-20]悠闲地唱会儿歌🦋🩵请听一首歌再走吧！ すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AZLW61EAP?p=11",
+  "source": "stratia.js"
+},
+    {
+  "title": "秒針を嚙む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-05-27]🦋庆祝！收益化纪念🦋真的非常感谢大家...！ すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KMGU6LE2e?p=1",
+  "source": "stratia.js"
+},
+    {
+  "title": "Ham",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-05-27]🦋庆祝！收益化纪念🦋真的非常感谢大家...！ すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KMGU6LE2e?p=2",
+  "source": "stratia.js"
+},
+    {
+  "title": "おばけでいいからはやくきて",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-05-27]🦋庆祝！收益化纪念🦋真的非常感谢大家...！ すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KMGU6LE2e?p=3",
+  "source": "stratia.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-05-27]🦋庆祝！收益化纪念🦋真的非常感谢大家...！ すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KMGU6LE2e?p=4",
+  "source": "stratia.js"
+},
+    {
+  "title": "キラキラ",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-05-27]🦋庆祝！收益化纪念🦋真的非常感谢大家...！ すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KMGU6LE2e?p=5",
+  "source": "stratia.js"
+},
+    {
+  "title": "ワンルーム",
+  "artist": "にしな",
+  "collection": "【歌切】[2026-05-27]🦋庆祝！收益化纪念🦋真的非常感谢大家...！ すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KMGU6LE2e?p=6",
+  "source": "stratia.js"
+},
+    {
+  "title": "怪獣の腕のなか",
+  "artist": "きのこ帝国",
+  "collection": "【歌切】[2026-05-27]🦋庆祝！收益化纪念🦋真的非常感谢大家...！ すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KMGU6LE2e?p=7",
+  "source": "stratia.js"
+},
+    {
+  "title": "鬼",
+  "artist": "吉澤嘉代子",
+  "collection": "【歌切】[2026-05-27]🦋庆祝！收益化纪念🦋真的非常感谢大家...！ すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KMGU6LE2e?p=8",
+  "source": "stratia.js"
+},
+    {
+  "title": "フェイバリットボーイ",
+  "artist": "SHISHAMO",
+  "collection": "【歌切】[2026-05-27]🦋庆祝！收益化纪念🦋真的非常感谢大家...！ すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KMGU6LE2e?p=9",
+  "source": "stratia.js"
+},
+    {
+  "title": "Last Tear",
+  "artist": "すとらてぃあ",
+  "collection": "【歌切】[2026-05-27]🦋庆祝！收益化纪念🦋真的非常感谢大家...！ すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KMGU6LE2e?p=10",
   "source": "stratia.js"
 }
 );
