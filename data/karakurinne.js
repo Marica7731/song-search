@@ -1,6 +1,6 @@
 // からくりんね-KarakuRinne - 歌单数据 (多合集汇总)
 // 来源: BV1sU5S69E8r
-// 生成时间: 5/27/2026, 5:36:58 PM
+// 生成时间: 5/27/2026, 6:19:17 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -435,6 +435,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-24]轻松自弹自唱‼欢迎初见观众！ からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18SGn6rEoi?p=7",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-05-27]多亏了大家才实现了梦想！！音质也变好了！！歌回 ‼ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PGGU6kExi?p=1",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "あなたがここにいて抱きしめることができるなら",
+  "artist": "miwa",
+  "collection": "【歌切】[2026-05-27]多亏了大家才实现了梦想！！音质也变好了！！歌回 ‼ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PGGU6kExi?p=2",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "死ぬこと以外かすり傷",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-05-27]多亏了大家才实现了梦想！！音质也变好了！！歌回 ‼ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PGGU6kExi?p=3",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "糸しいひと",
+  "artist": "汐れいら",
+  "collection": "【歌切】[2026-05-27]多亏了大家才实现了梦想！！音质也变好了！！歌回 ‼ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PGGU6kExi?p=4",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-05-27]多亏了大家才实现了梦想！！音质也变好了！！歌回 ‼ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PGGU6kExi?p=5",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "自由への扉",
+  "artist": "小此木麻里",
+  "collection": "【歌切】[2026-05-27]多亏了大家才实现了梦想！！音质也变好了！！歌回 ‼ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PGGU6kExi?p=6",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "紫苑",
+  "artist": "Saucy Dog",
+  "collection": "【歌切】[2026-05-27]多亏了大家才实现了梦想！！音质也变好了！！歌回 ‼ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PGGU6kExi?p=7",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "アンパンマンのマーチ",
+  "artist": "ドリーミング",
+  "collection": "【歌切】[2026-05-27]多亏了大家才实现了梦想！！音质也变好了！！歌回 ‼ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PGGU6kExi?p=8",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ハゼ馳せる果てるまで",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-05-27]多亏了大家才实现了梦想！！音质也变好了！！歌回 ‼ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PGGU6kExi?p=9",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ゆっくり行こう",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-05-27]多亏了大家才实现了梦想！！音质也变好了！！歌回 ‼ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PGGU6kExi?p=10",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ex ダーリン",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-05-27]多亏了大家才实现了梦想！！音质也变好了！！歌回 ‼ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PGGU6kExi?p=11",
   "source": "karakurinne.js"
 }
 );
