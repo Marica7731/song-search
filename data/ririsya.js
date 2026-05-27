@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 5/27/2026, 2:20:01 AM
+// 生成时间: 5/27/2026, 3:01:25 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -16070,7 +16070,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "Sad Song",
+  "title": "SAD SONG",
   "artist": "ちゃんみな",
   "collection": "【🐍歌切】[2026-05-23]唱歌唱歌唱歌！！！ ✧ 歌回 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
