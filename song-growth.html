@@ -596,22 +596,46 @@
     .growth-detail-trigger,
     .growth-detail-link {
       cursor: pointer;
-      text-decoration: underline;
-      text-decoration-style: dotted;
-      text-underline-offset: 4px;
+      position: relative;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 0 !important;
+      min-height: 0 !important;
+      padding: 0 0 8px !important;
+      border: 0 !important;
+      border-radius: 0 !important;
+      background: transparent !important;
+      box-shadow: none !important;
+      text-decoration: none !important;
+      line-height: 1.1;
+    }
+    .growth-detail-trigger::after,
+    .growth-detail-link::after {
+      content: "";
+      position: absolute;
+      left: 50%;
+      bottom: 1px;
+      width: 4px;
+      height: 4px;
+      border-radius: 999px;
+      background: #0f766e;
+      opacity: .72;
+      transform: translateX(-50%);
     }
     .growth-detail-trigger.is-empty,
     .growth-detail-link.is-empty {
       cursor: default;
-      text-decoration: none;
+      padding-bottom: 0 !important;
+    }
+    .growth-detail-trigger.is-empty::after,
+    .growth-detail-link.is-empty::after {
+      content: none;
     }
     .growth-detail-link {
-      border: 0;
-      background: transparent;
-      padding: 0;
-      color: #0f766e;
-      font: inherit;
-      font-weight: 700;
+      color: #0f766e !important;
+      font: inherit !important;
+      font-weight: 700 !important;
     }
     .growth-detail-popover {
       position: fixed;
