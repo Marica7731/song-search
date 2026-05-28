@@ -946,6 +946,24 @@
             return s.toLowerCase();
         }
 
+        function extractBvid(value) {
+            const matched = String(value || '').match(/BV[a-zA-Z0-9]+/);
+            return matched ? matched[0] : '';
+        }
+
+        function getSongBvid(item) {
+            return extractBvid(item?.bvid || item?.link || '');
+        }
+
+        function countUniqueBvids(data) {
+            const set = new Set();
+            (Array.isArray(data) ? data : []).forEach(item => {
+                const bvid = getSongBvid(item);
+                if (bvid) set.add(bvid);
+            });
+            return set.size;
+        }
+
         function escapeAttr(value) {
             return String(value || '')
                 .replace(/&/g, '&amp;')
@@ -1240,12 +1258,15 @@
             });
 
             const uniqueTracks = getUniqueSongCount(data);
+            const bvCount = countUniqueBvids(data);
             return {
                 kind: 'vtuber',
                 totalSongs: data.length,
+                bvCount,
                 uniqueTracks,
                 soloTracks: soloTitleKeys.size,
                 avgPerformancesPerUniqueTrack: uniqueTracks > 0 ? data.length / uniqueTracks : 0,
+                avgSongsPerBv: bvCount > 0 ? data.length / bvCount : 0,
                 artistCount: artistKeys.size,
                 validArtistPosts
             };
@@ -1333,15 +1354,17 @@
                 ];
             } else {
                 const totalSongs = Number(overview?.totalSongs || 0);
+                const bvCount = Number(overview?.bvCount || 0);
                 const uniqueTracks = Number(overview?.uniqueTracks || 0);
                 const soloTracks = Number(overview?.soloTracks || 0);
                 const artistCount = Number(overview?.artistCount || 0);
                 const validArtistPosts = Number(overview?.validArtistPosts || 0);
                 const soloRate = uniqueTracks > 0 ? `${((soloTracks / uniqueTracks) * 100).toFixed(1)}%` : '0.0%';
                 cards = [
-                    { label: '总投稿', value: formatCountText(totalSongs), note: '当前来源与搜索结果' },
+                    { label: '曲数', value: formatCountText(totalSongs), note: '当前来源与搜索结果' },
+                    { label: '场次', value: formatCountText(bvCount), note: '去重 BV 号数量' },
                     { label: '去重曲目', value: formatCountText(uniqueTracks), note: '按歌名 + 歌手去重' },
-                    { label: '场均', value: formatAvg(overview?.avgPerformancesPerUniqueTrack || 0), note: '场次 / 去重曲目' },
+                    { label: '场均', value: formatAvg(overview?.avgSongsPerBv || 0), note: '曲数 / BV 场次' },
                     { label: '独特曲目', value: formatCountText(soloTracks), note: '仅单来源唱过' },
                     { label: '独特占比', value: soloRate, note: '独特曲目 / 去重曲目' },
                     { label: '歌手覆盖', value: formatCountText(artistCount), note: `有效歌手投稿 ${formatCountText(validArtistPosts)} 条` },
@@ -1386,10 +1409,13 @@
 
         function buildGroupSummaryText(group, type) {
             const linkLimit = getSummaryLinkLimit();
+            const bvCount = Number(group.bvCount || 0);
+            const totalCount = Number(group.totalCount || 0);
             const headerMetrics = [
-                `场次 ${formatCountText(group.totalCount)}`,
+                `场次 ${formatCountText(bvCount)}`,
+                `曲数 ${formatCountText(totalCount)}`,
                 `去重 ${formatCountText(group.uniqueCount)}`,
-                `场均 ${formatAverageCount(group.totalCount, group.uniqueCount)}`
+                `场均 ${formatAverageCount(totalCount, bvCount)}`
             ];
             if (type === 'vtuber') {
                 headerMetrics.push(`独特 ${formatCountText(group.soloCount || 0)}`);
@@ -1869,10 +1895,13 @@
                         name: vtuberName,
                         sourceFile: sourceFile, // 保留源文件名用于映射
                         profile: sourceProfileByFile(sourceFile, vtuberName),
+                        bvSet: new Set(),
                         songs: new Map()
                     });
                 }
                 const vtuberEntry = map.get(sourceKey);
+                const bvid = getSongBvid(item);
+                if (bvid) vtuberEntry.bvSet.add(bvid);
                 
                 const songKey = normalizeString(item.title || '未知歌曲');
                 if (!vtuberEntry.songs.has(songKey)) {
@@ -1901,6 +1930,8 @@
                 songArr.sort((a, b) => b.count - a.count);
                 v.songs = songArr;
                 v.totalCount = songArr.reduce((acc, s) => acc + s.count, 0);
+                v.bvCount = v.bvSet.size;
+                delete v.bvSet;
                 v.uniqueCount = songArr.length; // 去重数量
                 v.soloCount = songArr.filter(s => s.isSolo).length;
             });
@@ -2233,10 +2264,13 @@
 
                 const li = document.createElement('li');
                 li.className = 'group-card';
+                const bvCount = Number(group.bvCount || 0);
+                const totalCount = Number(group.totalCount || 0);
                 const headerMetrics = [
-                    `<span class="group-count-chip metric-posts">场次 ${formatCountText(group.totalCount)}</span>`,
+                    `<span class="group-count-chip metric-posts">场次 ${formatCountText(bvCount)}</span>`,
+                    `<span class="group-count-chip metric-songs">曲数 ${formatCountText(totalCount)}</span>`,
                     `<span class="group-count-chip metric-unique">去重 ${formatCountText(group.uniqueCount)}</span>`,
-                    `<span class="group-count-chip metric-avg">场均 ${formatAverageCount(group.totalCount, group.uniqueCount)}</span>`
+                    `<span class="group-count-chip metric-avg">场均 ${formatAverageCount(totalCount, bvCount)}</span>`
                 ];
                 if (type === 'vtuber') {
                     headerMetrics.push(`<span class="group-count-chip metric-solo">独特 ${formatCountText(group.soloCount || 0)}</span>`);

@@ -1355,6 +1355,19 @@ function getSongTitleSourceCount(songOrTitle) {
   return store.titleSourceMap.get(key)?.size || 0;
 }
 
+function getSongBvid(item) {
+  return extractBvPreserveCase(item?.bvid || item?.link || '') || extractBV(item?.bvid || item?.link || '');
+}
+
+function countUniqueBvids(data) {
+  const set = new Set();
+  (Array.isArray(data) ? data : []).forEach(item => {
+    const bvid = getSongBvid(item);
+    if (bvid) set.add(bvid);
+  });
+  return set.size;
+}
+
 function buildStatsOverview(data) {
   const artistKeys = new Set();
   let validArtistPosts = 0;
@@ -1368,11 +1381,14 @@ function buildStatsOverview(data) {
 
   const uniqueTracks = getUniqueSongCount(data);
   const soloTracks = countSoloUniqueTracks(data);
+  const bvCount = countUniqueBvids(data);
   return {
     totalSongs: data.length,
+    bvCount,
     uniqueTracks,
     soloTracks,
     avgPerformancesPerUniqueTrack: uniqueTracks > 0 ? data.length / uniqueTracks : 0,
+    avgSongsPerBv: bvCount > 0 ? data.length / bvCount : 0,
     artistCount: artistKeys.size,
     validArtistPosts
   };
@@ -1815,10 +1831,13 @@ function aggregateByVtuberSource(data) {
         name: vtuberName,
         sourceFile,
         profile: getSourceProfile(sourceFile),
+        bvSet: new Set(),
         songGroups: new Map()
       });
     }
     const vtuberEntry = map.get(sourceKey);
+    const bvid = getSongBvid(item);
+    if (bvid) vtuberEntry.bvSet.add(bvid);
     const titleKey = normalizeString(item.title || '未知歌曲');
     if (!vtuberEntry.songGroups.has(titleKey)) {
       vtuberEntry.songGroups.set(titleKey, []);
@@ -1855,6 +1874,8 @@ function aggregateByVtuberSource(data) {
     v.songs = songArr;
     delete v.songGroups;
     v.totalCount = songArr.reduce((acc, s) => acc + s.count, 0);
+    v.bvCount = v.bvSet.size;
+    delete v.bvSet;
     v.uniqueCount = songArr.length;
     v.soloCount = songArr.filter(song => song.isSolo).length;
   });

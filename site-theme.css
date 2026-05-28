@@ -917,6 +917,14 @@ body.culua-shell-page {
   color: #0f766e;
 }
 
+body.culua-shell-growth .culua-page-shell {
+  grid-template-columns: minmax(0, 1fr);
+}
+
+body.culua-shell-growth .culua-sidebar {
+  display: none;
+}
+
 .culua-page-content {
   min-width: 0;
   padding: 22px 24px 34px;
@@ -2883,27 +2891,33 @@ body.culua-shell-stats .group-count span:not(.group-count-separator) {
 }
 
 body.culua-shell-stats .group-count-chip.metric-posts {
-  border-color: #d6e3ef;
-  background: #f8fafc;
-  color: #334155;
+  border-color: #a8c7df !important;
+  background: #e8f4fc !important;
+  color: #17516b !important;
+}
+
+body.culua-shell-stats .group-count-chip.metric-songs {
+  border-color: #b9cce8 !important;
+  background: #edf4ff !important;
+  color: #244f85 !important;
 }
 
 body.culua-shell-stats .group-count-chip.metric-unique {
-  border-color: #cfe3dd;
-  background: #f3faf8;
-  color: #315b52;
+  border-color: #a9d5c8 !important;
+  background: #e7f7f2 !important;
+  color: #246253 !important;
 }
 
 body.culua-shell-stats .group-count-chip.metric-avg {
-  border-color: #d9d7ee;
-  background: #f7f7fc;
-  color: #4d4a68;
+  border-color: #c8c2ea !important;
+  background: #f0edff !important;
+  color: #4d3b84 !important;
 }
 
 body.culua-shell-stats .group-count-chip.metric-solo {
-  border-color: #e7d9bf;
-  background: #fbf8f2;
-  color: #6a5632;
+  border-color: #e7c88f !important;
+  background: #fff4df !important;
+  color: #7a4d13 !important;
 }
 
 body.culua-shell-stats .overview-note,
