@@ -412,6 +412,14 @@
       font-weight: 800;
       line-height: 1.35;
       word-break: break-word;
+      min-width: 0;
+    }
+
+    .song-title-line {
+      display: flex;
+      align-items: flex-start;
+      gap: 6px;
+      min-width: 0;
     }
 
     .song-artist,
@@ -420,6 +428,8 @@
       color: #475569;
       line-height: 1.4;
       word-break: break-word;
+      min-width: 0;
+      overflow: hidden;
     }
 
     .song-source {
@@ -638,6 +648,23 @@
       word-break: inherit;
     }
 
+    .song-title .field-copy {
+      display: -webkit-box;
+      overflow: hidden;
+      -webkit-box-orient: vertical;
+      -webkit-line-clamp: 2;
+    }
+
+    .song-artist .field-copy,
+    .song-collection .field-copy,
+    .song-source .field-copy {
+      width: 100%;
+      display: block;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
     .field-copy:hover,
     .field-copy:focus-visible {
       color: var(--primary);
@@ -651,6 +678,22 @@
 
     .song-title .field-copy {
       font-weight: 800;
+    }
+
+    .unique-song-badge {
+      flex: 0 0 auto;
+      display: inline-flex;
+      align-items: center;
+      min-height: 22px;
+      padding: 2px 7px;
+      border: 1px solid #d8e2ee;
+      border-radius: 999px;
+      background: #f8fafc;
+      color: #7a5a16;
+      font-size: 12px;
+      font-weight: 800;
+      line-height: 1.2;
+      white-space: nowrap;
     }
 
     .meta .field-copy {
@@ -2060,18 +2103,21 @@
 
     function readJsonStorage(key) {
       try {
-        return JSON.parse(localStorage.getItem(key) || 'null') || {};
-      } catch {
-        return {};
-      }
+        localStorage.removeItem(key);
+      } catch (err) {}
+      return {};
     }
 
     function writeJsonStorage(key, value) {
-      try {
-        localStorage.setItem(key, JSON.stringify(value));
-      } catch {
-        // localStorage may be blocked in privacy modes; the page should still work.
-      }
+      // Filter and copy controls are session-only; refresh returns to the default layout.
+    }
+
+    function clearLegacyHomeStorage() {
+      Object.values(STORAGE_KEYS).forEach(key => {
+        try {
+          localStorage.removeItem(key);
+        } catch (err) {}
+      });
     }
 
     function syncFieldChips() {
@@ -2263,6 +2309,9 @@
         ].filter(Boolean).join(' ');
         const editHref = editUrlFromBv(bv);
         const cover = coverUrl(item);
+        const uniqueBadge = item.isUniqueSong
+          ? '<span class="unique-song-badge" title="独特歌曲：按歌名 - 歌手宽容去重后仅单来源收录">★ 独特</span>'
+          : '';
         const mobileMeta = [
           sourceAvatar(item.source, 'mobile-meta-avatar'),
           `<span class="mobile-meta-source">${escapeHtml(src)}</span>`,
@@ -2273,7 +2322,7 @@
           <article class="song-row ${cover ? 'has-cover' : ''}">
             ${cover ? `<div class="song-media"><a class="song-cover" href="${escapeHtml(item.link || '#')}" target="_blank" rel="noreferrer"><img ${lazyImageAttributes(cover)}></a><div class="mobile-card-meta">${mobileMeta}</div></div>` : ''}
             <div class="song-main">
-              <div class="song-title">${copyableField(item.title || '未知歌曲', '歌名', 'song-title-copy')}</div>
+              <div class="song-title-line"><div class="song-title">${copyableField(item.title || '未知歌曲', '歌名', 'song-title-copy')}</div>${uniqueBadge}</div>
               <div class="meta">${metaParts}</div>
               ${cover ? '' : `<div class="mobile-card-meta">${mobileMeta}</div>`}
             </div>
@@ -2306,9 +2355,6 @@
     function syncUrl() {
       const params = new URLSearchParams();
       if (state.q) params.set('q', state.q);
-      if (state.sort !== 'pubdate_desc') params.set('sort', state.sort);
-      if (state.page > 1) params.set('page', String(state.page));
-      if (state.pageSize !== 40) params.set('pageSize', String(state.pageSize));
       const next = `${location.pathname}${params.toString() ? `?${params}` : ''}`;
       history.replaceState(null, '', next);
     }
@@ -2317,10 +2363,10 @@
       const params = new URLSearchParams(location.search);
       state.q = params.get('q') || '';
       state.source = 'all';
-      state.sort = params.get('sort') || 'pubdate_desc';
-      state.page = Math.max(1, Number(params.get('page') || '1'));
-      state.pageSize = Math.max(20, Math.min(80, Number(params.get('pageSize') || '40')));
-      restoreHomeFilters(params);
+      state.sort = 'pubdate_desc';
+      state.page = 1;
+      state.pageSize = 40;
+      state.fields = new Set(['title', 'artist']);
       $('#q').value = state.q;
       $('#sort').value = state.sort;
       syncPageSizeSegments();
@@ -2710,6 +2756,7 @@
 
     async function init() {
       try {
+        clearLegacyHomeStorage();
         readUrl();
         restoreCopySettings();
         bindEvents();

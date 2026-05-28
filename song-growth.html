@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>歌曲增长日报</title>
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-  <link rel="stylesheet" href="/site-theme.css?v=20260525h5compact1">
+  <link rel="stylesheet" href="/site-theme.css?v=20260528goal1">
   <script src="/site-shell.js?v=20260524shell7" defer></script>
   <style>
     * { box-sizing: border-box }
@@ -299,6 +299,77 @@
       flex-wrap: wrap;
       justify-content: flex-end;
     }
+    .unique-source-tools {
+      display: grid;
+      grid-template-columns: minmax(180px, 240px) minmax(0, 1fr);
+      gap: 8px;
+      align-items: center;
+      min-width: min(100%, 420px);
+    }
+    .unique-source-select {
+      width: 100%;
+      min-height: 36px;
+      border: 1px solid #d6e3ef;
+      border-radius: 8px;
+      background: #fff;
+      color: #1f2937;
+      padding: 0 10px;
+      font: inherit;
+    }
+    .unique-source-preview {
+      min-width: 0;
+      display: grid;
+      grid-template-columns: 32px minmax(0, 1fr);
+      gap: 8px;
+      align-items: center;
+      padding: 6px 8px;
+      border: 1px solid #e1e8f0;
+      border-radius: 999px;
+      background: #f8fafc;
+      color: #334155;
+    }
+    .unique-source-avatar {
+      position: relative;
+      width: 32px;
+      height: 32px;
+      display: inline-grid;
+      place-items: center;
+      overflow: hidden;
+      border-radius: 50%;
+      background: var(--source-avatar-color, #0f766e);
+      color: #fff;
+      font-size: 11px;
+      font-weight: 850;
+      line-height: 1;
+    }
+    .unique-source-avatar img {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    .unique-source-text {
+      min-width: 0;
+      display: grid;
+      gap: 2px;
+    }
+    .unique-source-name,
+    .unique-source-meta {
+      min-width: 0;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .unique-source-name {
+      color: #111827;
+      font-size: 13px;
+      font-weight: 800;
+    }
+    .unique-source-meta {
+      color: #64748b;
+      font-size: 12px;
+    }
     .unique-stat {
       min-width: 112px;
       padding: 8px 10px;
@@ -446,6 +517,7 @@
       .analysis-card { padding: 10px }
       .analysis-card .value { font-size: 15px }
       .unique-chart-head { display: grid }
+      .unique-source-tools { grid-template-columns: 1fr }
       .unique-chart-stats { justify-content: stretch }
       .unique-stat { flex: 1 1 calc(50% - 8px); min-width: 0 }
       .pager-controls { width: 100% }
@@ -541,6 +613,10 @@
           <h3>去重歌曲曲线</h3>
           <p>单独按去重歌曲口径展示，绿色折线是累计去重歌曲，蓝色柱形是当日新增去重歌曲。</p>
         </div>
+        <div class="unique-source-tools">
+          <select class="unique-source-select" id="uniqueSourceSelect" aria-label="选择去重曲线来源"></select>
+          <div class="unique-source-preview" id="uniqueSourcePreview"></div>
+        </div>
         <div class="unique-chart-stats">
           <div class="unique-stat"><div class="label">最新累计去重</div><div class="value" id="uniqueLatestTotal">-</div></div>
           <div class="unique-stat"><div class="label">区间新增去重</div><div class="value" id="uniqueRangeDelta">-</div></div>
@@ -611,6 +687,8 @@
     const chartLegend = document.getElementById('chartLegend');
     const metricGroupSelect = document.getElementById('metricGroupSelect');
     const metricFocusSelect = document.getElementById('metricFocusSelect');
+    const uniqueSourceSelect = document.getElementById('uniqueSourceSelect');
+    const uniqueSourcePreview = document.getElementById('uniqueSourcePreview');
     const tableBody = document.getElementById('growthTableBody');
     const pagerInfo = document.getElementById('pagerInfo');
     const prevPageBtn = document.getElementById('prevPageBtn');
@@ -625,10 +703,11 @@
     const copyGrowthTableBtn = document.getElementById('copyGrowthTableBtn');
     const copyToast = document.getElementById('copyToast');
 
-    const growthData = { rows: [] };
+    const growthData = { rows: [], sourceUniqueRows: [] };
     let currentRange = '30';
     let currentMetricGroup = 'total';
     let currentMetricFocus = 'all';
+    let currentUniqueSource = 'all';
     let currentPage = 1;
     const pageSize = 30;
     let chartState = null;
@@ -653,6 +732,33 @@
       const ratio = Number(value);
       if (!Number.isFinite(ratio)) return '-';
       return `${ratio.toFixed(2)} 次/曲`;
+    }
+
+    function escapeHtml(value) {
+      return String(value ?? '').replace(/[&<>"']/g, ch => ({
+        '&': '&amp;',
+        '<': '&lt;',
+        '>': '&gt;',
+        '"': '&quot;',
+        "'": '&#39;'
+      }[ch]));
+    }
+
+    function defaultAvatarText(name) {
+      const picked = Array.from(String(name || '').trim()).find(ch => /[\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}A-Za-z0-9]/u.test(ch));
+      return (picked || '源').toUpperCase();
+    }
+
+    function sourceAvatarHtml(source) {
+      const profile = source?.profile || {};
+      const alias = source?.alias || profile.alias || '全部来源';
+      const avatarText = source?.file === 'all' ? 'ALL' : (profile.avatarText || defaultAvatarText(alias));
+      const accent = profile.accentColor || '#0f766e';
+      const style = ` style="--source-avatar-color:${escapeHtml(accent)}"`;
+      if (profile.avatarUrl) {
+        return `<span class="unique-source-avatar"${style}><img src="${escapeHtml(profile.avatarUrl)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"></span>`;
+      }
+      return `<span class="unique-source-avatar"${style}>${escapeHtml(avatarText)}</span>`;
     }
 
     function metricValueText(metricKey, value) {
@@ -741,6 +847,20 @@
 
     function getRangeRows() {
       const rows = growthData.rows;
+      if (currentRange === 'all') return rows.slice();
+      const days = Number(currentRange);
+      if (!days || days <= 0) return rows.slice();
+      return rows.slice(-days);
+    }
+
+    function getUniqueSourceRows() {
+      if (currentUniqueSource === 'all') return growthData.rows;
+      const source = growthData.sourceUniqueRows.find(item => item.file === currentUniqueSource);
+      return source ? source.rows : [];
+    }
+
+    function getUniqueRangeRows() {
+      const rows = getUniqueSourceRows();
       if (currentRange === 'all') return rows.slice();
       const days = Number(currentRange);
       if (!days || days <= 0) return rows.slice();
@@ -1062,7 +1182,7 @@
     }
 
     function drawUniqueGrowthChart() {
-      const rows = getRangeRows();
+      const rows = getUniqueRangeRows();
       const rect = uniqueChartCanvas.getBoundingClientRect();
       const dpr = window.devicePixelRatio || 1;
       const width = Math.max(320, Math.floor(rect.width));
@@ -1145,7 +1265,10 @@
       document.getElementById('uniqueLatestTotal').textContent = numberText(latest.uniqueSongTotal);
       document.getElementById('uniqueRangeDelta').textContent = `+${numberText(rangeDelta)}`;
       document.getElementById('uniquePeakDaily').textContent = `${numberText(peak.uniqueSongDelta)} / ${peak.date}`;
-      uniqueChartRangeText.textContent = `${first.date} 至 ${latest.date}（${rows.length} 天） · 累计区间 ${numberText(Math.min(...totals))} ~ ${numberText(Math.max(...totals))} · 日增区间 ${numberText(Math.min(...deltas))} ~ ${numberText(Math.max(...deltas))}`;
+      const sourceLabel = currentUniqueSource === 'all'
+        ? '全部来源'
+        : (growthData.sourceUniqueRows.find(item => item.file === currentUniqueSource)?.alias || '当前来源');
+      uniqueChartRangeText.textContent = `${sourceLabel} · ${first.date} 至 ${latest.date}（${rows.length} 天） · 累计区间 ${numberText(Math.min(...totals))} ~ ${numberText(Math.max(...totals))} · 日增区间 ${numberText(Math.min(...deltas))} ~ ${numberText(Math.max(...deltas))}`;
     }
 
     function buildTooltipHtml(row) {
@@ -1436,6 +1559,37 @@
       renderTable();
     }
 
+    function normalizeSourceUniqueRows(rows) {
+      return (Array.isArray(rows) ? rows : [])
+        .map(row => ({
+          date: String(row?.date || ''),
+          ts: parseNumber(row?.ts),
+          uniqueSongDelta: parseNumber(row?.delta),
+          uniqueSongTotal: parseNumber(row?.total)
+        }))
+        .filter(row => row.date)
+        .sort((a, b) => rowDateCompare(a.date, b.date));
+    }
+
+    function renderUniqueSourceControls() {
+      if (!uniqueSourceSelect || !uniqueSourcePreview) return;
+      const options = [{ file: 'all', alias: '全部来源', totalUnique: growthData.rows.at(-1)?.uniqueSongTotal || 0, profile: { avatarText: 'ALL', accentColor: '#0f766e' } }]
+        .concat(growthData.sourceUniqueRows);
+      uniqueSourceSelect.innerHTML = options.map(item => (
+        `<option value="${escapeHtml(item.file)}">${escapeHtml(item.alias)}（${numberText(item.totalUnique || 0)}）</option>`
+      )).join('');
+      if (!options.some(item => item.file === currentUniqueSource)) currentUniqueSource = 'all';
+      uniqueSourceSelect.value = currentUniqueSource;
+      const selected = options.find(item => item.file === currentUniqueSource) || options[0];
+      uniqueSourcePreview.innerHTML = `
+        ${sourceAvatarHtml(selected)}
+        <span class="unique-source-text">
+          <span class="unique-source-name">${escapeHtml(selected.alias)}</span>
+          <span class="unique-source-meta">累计去重 ${numberText(selected.totalUnique || 0)}</span>
+        </span>
+      `;
+    }
+
     function bindEvents() {
       document.querySelectorAll('[data-range]').forEach(btn => {
         btn.addEventListener('click', () => {
@@ -1458,6 +1612,12 @@
         currentMetricFocus = metricFocusSelect.value;
         drawChart();
         renderAnalysis();
+      });
+
+      uniqueSourceSelect?.addEventListener('change', () => {
+        currentUniqueSource = uniqueSourceSelect.value || 'all';
+        renderUniqueSourceControls();
+        drawUniqueGrowthChart();
       });
 
       prevPageBtn.addEventListener('click', () => goToPage(currentPage - 1));
@@ -1515,11 +1675,22 @@
       const combinedRows = normalizeCombinedRows(payload?.combinedRows);
       if (combinedRows.length) {
         growthData.rows = combinedRows;
-        return;
+      } else {
+        growthData.rows = normalizeCombinedRows(
+          buildCombinedRowsFromLegacy(payload?.publishRows, payload?.publishViewRows)
+        );
       }
-      growthData.rows = normalizeCombinedRows(
-        buildCombinedRowsFromLegacy(payload?.publishRows, payload?.publishViewRows)
-      );
+      growthData.sourceUniqueRows = (Array.isArray(payload?.sourceUniqueRows) ? payload.sourceUniqueRows : [])
+        .map(item => ({
+          file: String(item?.file || ''),
+          alias: String(item?.alias || item?.file || '未知来源'),
+          profile: item?.profile || {},
+          totalSongs: parseNumber(item?.totalSongs),
+          totalUnique: parseNumber(item?.totalUnique),
+          rows: normalizeSourceUniqueRows(item?.rows)
+        }))
+        .filter(item => item.file && item.rows.length);
+      renderUniqueSourceControls();
     }
 
     async function initPage() {

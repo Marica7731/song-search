@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>歌曲数据</title>
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-    <link rel="stylesheet" href="/site-theme.css?v=20260528feedback792">
+    <link rel="stylesheet" href="/site-theme.css?v=20260528goal1">
     <script src="/site-shell.js?v=20260524shell7" defer></script>
     <style>
         /* --- 全局样式复用 --- */
@@ -921,7 +921,6 @@
         let localTitleSourceVersion = -1;
         let staticFallbackPromise = null;
         let statsViewRequestSeq = 0;
-        const STATS_VIEW_PREFS_KEY = 'culua-stats-view-v1';
         const LAZY_IMAGE_PLACEHOLDER = 'data:image/gif;base64,R0lGODlhAQABAAAAACw=';
         let lazyImageObserver = null;
 
@@ -1129,6 +1128,12 @@
             return Number(value || 0).toLocaleString('zh-CN');
         }
 
+        function formatAverageCount(total, unique) {
+            const base = Number(unique || 0);
+            if (base <= 0) return '0.00';
+            return (Number(total || 0) / base).toFixed(2);
+        }
+
         function getCurrentViewLabel() {
             if (activeTab === 'rank') return '歌曲条目';
             if (activeTab === 'artist') return '歌手条目';
@@ -1144,23 +1149,13 @@
 
         function readStoredStatsPrefs() {
             try {
-                return JSON.parse(localStorage.getItem(STATS_VIEW_PREFS_KEY) || 'null') || {};
-            } catch {
-                return {};
-            }
+                localStorage.removeItem('culua-stats-view-v1');
+            } catch (err) {}
+            return {};
         }
 
         function saveStatsViewPrefs() {
-            try {
-                localStorage.setItem(STATS_VIEW_PREFS_KEY, JSON.stringify({
-                    tab: activeTab,
-                    source: activeFilter,
-                    q: searchKeyword,
-                    summaryLinkLimit: getSummaryLinkLimit()
-                }));
-            } catch {
-                // Ignore storage failures; filtering and copying continue to work for this session.
-            }
+            // Filters are intentionally session-only. Refreshing the page returns to the default view.
         }
 
         function syncStatsNavigation() {
@@ -1244,11 +1239,13 @@
                 }
             });
 
+            const uniqueTracks = getUniqueSongCount(data);
             return {
                 kind: 'vtuber',
                 totalSongs: data.length,
-                uniqueTracks: getUniqueSongCount(data),
+                uniqueTracks,
                 soloTracks: soloTitleKeys.size,
+                avgPerformancesPerUniqueTrack: uniqueTracks > 0 ? data.length / uniqueTracks : 0,
                 artistCount: artistKeys.size,
                 validArtistPosts
             };
@@ -1344,6 +1341,7 @@
                 cards = [
                     { label: '总投稿', value: formatCountText(totalSongs), note: '当前来源与搜索结果' },
                     { label: '去重曲目', value: formatCountText(uniqueTracks), note: '按歌名 + 歌手去重' },
+                    { label: '场均', value: formatAvg(overview?.avgPerformancesPerUniqueTrack || 0), note: '场次 / 去重曲目' },
                     { label: '独特曲目', value: formatCountText(soloTracks), note: '仅单来源唱过' },
                     { label: '独特占比', value: soloRate, note: '独特曲目 / 去重曲目' },
                     { label: '歌手覆盖', value: formatCountText(artistCount), note: `有效歌手投稿 ${formatCountText(validArtistPosts)} 条` },
@@ -1389,8 +1387,9 @@
         function buildGroupSummaryText(group, type) {
             const linkLimit = getSummaryLinkLimit();
             const headerMetrics = [
-                `总投稿 ${formatCountText(group.totalCount)}`,
-                `去重 ${formatCountText(group.uniqueCount)}`
+                `场次 ${formatCountText(group.totalCount)}`,
+                `去重 ${formatCountText(group.uniqueCount)}`,
+                `场均 ${formatAverageCount(group.totalCount, group.uniqueCount)}`
             ];
             if (type === 'vtuber') {
                 headerMetrics.push(`独特 ${formatCountText(group.soloCount || 0)}`);
@@ -2235,11 +2234,12 @@
                 const li = document.createElement('li');
                 li.className = 'group-card';
                 const headerMetrics = [
-                    `<span class="group-count-chip">总投稿 ${formatCountText(group.totalCount)}</span>`,
-                    `<span class="group-count-chip">去重 ${formatCountText(group.uniqueCount)}</span>`
+                    `<span class="group-count-chip metric-posts">场次 ${formatCountText(group.totalCount)}</span>`,
+                    `<span class="group-count-chip metric-unique">去重 ${formatCountText(group.uniqueCount)}</span>`,
+                    `<span class="group-count-chip metric-avg">场均 ${formatAverageCount(group.totalCount, group.uniqueCount)}</span>`
                 ];
                 if (type === 'vtuber') {
-                    headerMetrics.push(`<span class="group-count-chip">独特 ${formatCountText(group.soloCount || 0)}</span>`);
+                    headerMetrics.push(`<span class="group-count-chip metric-solo">独特 ${formatCountText(group.soloCount || 0)}</span>`);
                 }
                 const profile = group.profile || sourceProfileByFile(group.sourceFile, group.name);
                 li.innerHTML = `

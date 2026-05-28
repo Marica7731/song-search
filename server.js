@@ -55,6 +55,7 @@ let store = {
   titleArtistMap: new Map(),
   artistSongMap: new Map(),
   bvMap: new Map(),
+  uniqueSongSourceCount: new WeakMap(),
   uploaderSourceMap: new Map(),
   sourceSongMap: new Map(),
   missingArtistSongs: [],
@@ -121,7 +122,11 @@ function normalizeUploaderMid(value) {
 }
 
 function getUniqueSongCount(data) {
-  if (data.length === 0) return 0;
+  return buildUniqueSongClusters(data).length;
+}
+
+function buildUniqueSongClusters(data) {
+  if (!Array.isArray(data) || data.length === 0) return [];
   const titleGroup = {};
   data.forEach(song => {
     const titleKey = normalizeString(song.title || '未知歌曲');
@@ -129,20 +134,43 @@ function getUniqueSongCount(data) {
     titleGroup[titleKey].push(song);
   });
 
-  let totalUnique = 0;
+  const clusters = [];
   Object.values(titleGroup).forEach(group => {
-    if (group.length === 1) {
-      totalUnique += 1;
-      return;
-    }
-    const uniqueSongs = [];
+    const titleClusters = [];
     group.forEach(currentSong => {
-      const isDuplicate = uniqueSongs.some(savedSong => isSameSong(currentSong, savedSong, isValidArtist));
-      if (!isDuplicate) uniqueSongs.push(currentSong);
+      const existing = titleClusters.find(cluster => isSameSong(currentSong, cluster.representative, isValidArtist));
+      if (existing) {
+        existing.songs.push(currentSong);
+        return;
+      }
+      titleClusters.push({
+        representative: currentSong,
+        songs: [currentSong]
+      });
     });
-    totalUnique += uniqueSongs.length;
+    clusters.push(...titleClusters);
   });
-  return totalUnique;
+  return clusters;
+}
+
+function buildUniqueSongSourceCountMap(songs) {
+  const map = new WeakMap();
+  buildUniqueSongClusters(songs).forEach(cluster => {
+    const sourceSet = new Set(cluster.songs.map(song => song.source || '').filter(Boolean));
+    const count = sourceSet.size || 1;
+    cluster.songs.forEach(song => map.set(song, count));
+  });
+  return map;
+}
+
+function getSongUniqueSourceCount(song) {
+  return (song && store.uniqueSongSourceCount && store.uniqueSongSourceCount.get(song)) || 0;
+}
+
+function countSoloUniqueTracks(data) {
+  return buildUniqueSongClusters(data)
+    .filter(cluster => cluster.songs.some(song => getSongUniqueSourceCount(song) === 1))
+    .length;
 }
 
 function buildSourceStats(songs, files, fileToAlias) {
@@ -811,6 +839,26 @@ function buildCombinedGrowthRows(songRows, viewRows, uniqueRows) {
     });
 }
 
+function buildSourceUniqueGrowthRows() {
+  return store.files
+    .map(file => {
+      const rows = buildPublishUniqueRows(store.sourceSongMap.get(file) || []);
+      const latest = rows[rows.length - 1] || null;
+      return {
+        file,
+        alias: getSourceAlias(file),
+        profile: getSourceProfile(file),
+        totalSongs: Number(store.sourceStats[file]?.totalSongs || 0),
+        totalUnique: Number(store.sourceStats[file]?.totalUnique || latest?.total || 0),
+        rows
+      };
+    })
+    .sort((a, b) => {
+      if (b.totalSongs !== a.totalSongs) return b.totalSongs - a.totalSongs;
+      return String(a.alias).localeCompare(String(b.alias), 'zh-Hans');
+    });
+}
+
 function buildGrowthAnomalies(combinedRows) {
   const rows = (Array.isArray(combinedRows) ? combinedRows : []).slice(-45);
   const positiveDeltas = rows
@@ -965,6 +1013,7 @@ function loadSongStore() {
     titleArtistMap,
     artistSongMap,
     bvMap,
+    uniqueSongSourceCount: buildUniqueSongSourceCountMap(songs),
     uploaderSourceMap,
     sourceSongMap,
     missingArtistSongs: songs.filter(song => !isValidArtist(song.artist)),
@@ -1308,7 +1357,6 @@ function getSongTitleSourceCount(songOrTitle) {
 
 function buildStatsOverview(data) {
   const artistKeys = new Set();
-  const soloTitleKeys = new Set();
   let validArtistPosts = 0;
 
   data.forEach(song => {
@@ -1316,16 +1364,15 @@ function buildStatsOverview(data) {
       validArtistPosts += 1;
       artistKeys.add(normalizeString(song.artist));
     }
-    const titleKey = normalizeString(song.title || '');
-    if (titleKey && (store.titleSourceMap.get(titleKey)?.size || 0) === 1) {
-      soloTitleKeys.add(titleKey);
-    }
   });
 
+  const uniqueTracks = getUniqueSongCount(data);
+  const soloTracks = countSoloUniqueTracks(data);
   return {
     totalSongs: data.length,
-    uniqueTracks: getUniqueSongCount(data),
-    soloTracks: soloTitleKeys.size,
+    uniqueTracks,
+    soloTracks,
+    avgPerformancesPerUniqueTrack: uniqueTracks > 0 ? data.length / uniqueTracks : 0,
     artistCount: artistKeys.size,
     validArtistPosts
   };
@@ -1490,7 +1537,7 @@ async function buildDupCheckResponse(mode, source, items) {
           isNotFound: false,
           originalInput,
           song: {
-            title: inputTitle || '（仅歌手查询）',
+            title: inputTitle || '（按歌手名查询）',
             artist: inputArtist || '',
             source: '',
             link: ''
@@ -1738,7 +1785,7 @@ function aggregateBySong(data) {
     entry.count += 1;
     entry.sourceSet.add(item.source || '');
     entry.sourceCount = entry.sourceSet.size;
-    entry.isSolo = getSongTitleSourceCount(title) === 1;
+    entry.isSolo = getSongUniqueSourceCount(item) === 1;
     entry.performances.push({
       link: item.link || '',
       collection: item.collection || '未知合集',
@@ -1768,13 +1815,19 @@ function aggregateByVtuberSource(data) {
         name: vtuberName,
         sourceFile,
         profile: getSourceProfile(sourceFile),
-        songs: new Map()
+        songGroups: new Map()
       });
     }
     const vtuberEntry = map.get(sourceKey);
-    const songKey = normalizeString(item.title || '未知歌曲');
-    if (!vtuberEntry.songs.has(songKey)) {
-      vtuberEntry.songs.set(songKey, {
+    const titleKey = normalizeString(item.title || '未知歌曲');
+    if (!vtuberEntry.songGroups.has(titleKey)) {
+      vtuberEntry.songGroups.set(titleKey, []);
+    }
+    const groups = vtuberEntry.songGroups.get(titleKey);
+    let songEntry = groups.find(saved => isSameSong(item, saved.representative, isValidArtist));
+    if (!songEntry) {
+      songEntry = {
+        representative: item,
         title: item.title || '未知歌曲',
         artist: item.artist || '',
         originalArtist: item.originalArtist || '',
@@ -1782,11 +1835,11 @@ function aggregateByVtuberSource(data) {
         count: 0,
         links: [],
         isSolo: false
-      });
+      };
+      groups.push(songEntry);
     }
-    const songEntry = vtuberEntry.songs.get(songKey);
     songEntry.count += 1;
-    songEntry.isSolo = getSongTitleSourceCount(item) === 1;
+    songEntry.isSolo = getSongUniqueSourceCount(item) === 1;
     if (item.link) {
       songEntry.links.push({
         link: item.link,
@@ -1798,8 +1851,9 @@ function aggregateByVtuberSource(data) {
   });
   const result = Array.from(map.values());
   result.forEach(v => {
-    const songArr = Array.from(v.songs.values()).sort((a, b) => b.count - a.count);
+    const songArr = Array.from(v.songGroups.values()).flat().sort((a, b) => b.count - a.count);
     v.songs = songArr;
+    delete v.songGroups;
     v.totalCount = songArr.reduce((acc, s) => acc + s.count, 0);
     v.uniqueCount = songArr.length;
     v.soloCount = songArr.filter(song => song.isSolo).length;
@@ -2097,11 +2151,14 @@ function buildSongRowId(item) {
 }
 
 function withSearchRowMeta(item) {
+  const uniqueSourceCount = getSongUniqueSourceCount(item);
   return {
     ...item,
     rowId: buildSongRowId(item),
     sourceAlias: getExportSourceName(item),
-    bvid: getExportBvid(item)
+    bvid: getExportBvid(item),
+    uniqueSourceCount,
+    isUniqueSong: uniqueSourceCount === 1
   };
 }
 
@@ -2199,6 +2256,7 @@ function buildSongGrowthPayload() {
   const publishRows = buildPublishGrowthRows(store.songs);
   const publishViewRows = buildPublishViewRows(store.songs);
   const publishUniqueRows = buildPublishUniqueRows(store.songs);
+  const sourceUniqueRows = buildSourceUniqueGrowthRows();
   const combinedRows = buildCombinedGrowthRows(publishRows, publishViewRows, publishUniqueRows);
   const generatedAtMs = Date.now();
   return {
@@ -2206,6 +2264,7 @@ function buildSongGrowthPayload() {
     publishRows,
     publishViewRows,
     publishUniqueRows,
+    sourceUniqueRows,
     combinedRows,
     anomalies: buildGrowthAnomalies(combinedRows),
     latest: {

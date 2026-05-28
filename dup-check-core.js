@@ -780,7 +780,7 @@ async function search() {
   } else {
     const input = (document.getElementById('titleArtistInput')?.value || '').trim();
     if (!input) {
-      alert('请输入歌手或 歌名 - 歌手 格式（可批量）');
+      alert('请输入歌名 - 歌手，或只输入歌手名（可批量）');
       return;
     }
     titleArtistInputItems = parseTitleArtistInput(input);
@@ -896,7 +896,7 @@ async function analyzeDuplicates() {
           isNotFound: false,
           originalInput: inputItem.originalLine,
           song: {
-            title: inputItem.title || '（仅歌手查询）',
+            title: inputItem.title || '（按歌手名查询）',
             artist: inputItem.artist || '',
             source: '',
             link: ''

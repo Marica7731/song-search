@@ -86,14 +86,14 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;b
   </div>
   <div class="search-box">
     <div class="dup-input-stack">
-      <textarea id="titleArtistInput" placeholder="每行输入歌手或 歌名 - 歌手"></textarea>
-      <div class="dup-input-note">支持序号前缀，例如 01. 歌手 或 01. 歌名 - 歌手。</div>
+      <textarea id="titleArtistInput" placeholder="每行输入歌名 - 歌手；只输入歌手名时按歌手查全库"></textarea>
+      <div class="dup-input-note">支持序号前缀，例如 01. 歌名 - 歌手；只写歌手名会列出该歌手在当前库的相关曲目。</div>
     </div>
     <button id="searchBtn">分析</button>
   </div>
 
   <div class="filter-bar">
-    <div class="stat-info" id="statInfo">请先输入歌手或 歌名-歌手 开始分析</div>
+    <div class="stat-info" id="statInfo">请先输入歌名-歌手，或只输入歌手名开始分析</div>
     <div class="filter-actions">
       <button class="filter-btn active" id="showAllBtn">全部结果</button>
       <button class="filter-btn" id="showUniqueBtn">仅非重复</button>

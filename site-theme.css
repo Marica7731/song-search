@@ -2882,6 +2882,40 @@ body.culua-shell-stats .group-count span:not(.group-count-separator) {
   white-space: nowrap;
 }
 
+body.culua-shell-stats .group-count-chip.metric-posts {
+  border-color: #d6e3ef;
+  background: #f8fafc;
+  color: #334155;
+}
+
+body.culua-shell-stats .group-count-chip.metric-unique {
+  border-color: #cfe3dd;
+  background: #f3faf8;
+  color: #315b52;
+}
+
+body.culua-shell-stats .group-count-chip.metric-avg {
+  border-color: #d9d7ee;
+  background: #f7f7fc;
+  color: #4d4a68;
+}
+
+body.culua-shell-stats .group-count-chip.metric-solo {
+  border-color: #e7d9bf;
+  background: #fbf8f2;
+  color: #6a5632;
+}
+
+body.culua-shell-stats .overview-note,
+body.culua-shell-stats .perf-link-title,
+body.culua-shell-stats .perf-link-source,
+body.culua-shell-stats .rank-artist-line .info-chip {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
 body.culua-shell-stats .group-header .action-row,
 body.culua-shell-stats .rank-actions .action-row {
   display: inline-flex !important;
