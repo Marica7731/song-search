@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 5/28/2026, 8:25:05 PM
+// 生成时间: 5/28/2026, 9:12:48 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1667,6 +1667,102 @@ window.SONG_DATA.push(
   "collection": "联动歌切 2026-05-25 松永依織❌鈴鳴すばる 8Py75jo7tkc",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17fGd6WEGQ?p=10",
+  "source": "friends.js"
+},
+    {
+  "title": "世界は恋に落ちている",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "联动歌切 2026-05-27 2人一起穿上新衣装制服双马尾！请多拍些照片哦🦅🕊️ 鷲羽アスカ / Washu Asuka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zuVx6uEPC?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "ポニーテールとシュシュ",
+  "artist": "AKB48",
+  "collection": "联动歌切 2026-05-27 2人一起穿上新衣装制服双马尾！请多拍些照片哦🦅🕊️ 鷲羽アスカ / Washu Asuka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zuVx6uEPC?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "忘れてやらない",
+  "artist": "結束バンド",
+  "collection": "联动歌切 2026-05-27 2人一起穿上新衣装制服双马尾！请多拍些照片哦🦅🕊️ 鷲羽アスカ / Washu Asuka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zuVx6uEPC?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "蒼のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "联动歌切 2026-05-27 2人一起穿上新衣装制服双马尾！请多拍些照片哦🦅🕊️ 鷲羽アスカ / Washu Asuka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zuVx6uEPC?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "灰色と青",
+  "artist": "米須玄師,菅田将暉",
+  "collection": "联动歌切 2026-05-27 2人一起穿上新衣装制服双马尾！请多拍些照片哦🦅🕊️ 鷲羽アスカ / Washu Asuka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zuVx6uEPC?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "联动歌切 2026-05-27 2人一起穿上新衣装制服双马尾！请多拍些照片哦🦅🕊️ 鷲羽アスカ / Washu Asuka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zuVx6uEPC?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "联动歌切 2026-05-27 新衣装到手，久违的歌回！🦅🕊️ MIONch.蒼羽未音",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EGVx6MEpW?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "空奏列車",
+  "artist": "Orangestar feat.IA",
+  "collection": "联动歌切 2026-05-27 新衣装到手，久违的歌回！🦅🕊️ MIONch.蒼羽未音",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EGVx6MEpW?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "联动歌切 2026-05-27 新衣装到手，久违的歌回！🦅🕊️ MIONch.蒼羽未音",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EGVx6MEpW?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "联动歌切 2026-05-27 新衣装到手，久违的歌回！🦅🕊️ MIONch.蒼羽未音",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EGVx6MEpW?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "ロンリーユニバース",
+  "artist": "Aqu3ra feat. v flower & 初音ミク",
+  "collection": "联动歌切 2026-05-27 新衣装到手，久违的歌回！🦅🕊️ MIONch.蒼羽未音",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EGVx6MEpW?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "联动歌切 2026-05-27 新衣装到手，久违的歌回！🦅🕊️ MIONch.蒼羽未音",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EGVx6MEpW?p=6",
   "source": "friends.js"
 }
 );
