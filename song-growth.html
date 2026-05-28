@@ -2146,6 +2146,13 @@
         if (activeDetailTrigger === trigger && !growthDetailPopover.hidden) return;
         scheduleGrowthDetailShow(trigger, 120);
       });
+      window.setInterval(() => {
+        if (detailPinned) return;
+        const trigger = document.querySelector('[data-growth-detail-date]:hover');
+        if (!trigger || trigger.classList.contains('is-empty')) return;
+        if (activeDetailTrigger === trigger && !growthDetailPopover.hidden) return;
+        scheduleGrowthDetailShow(trigger, 80);
+      }, 250);
       document.addEventListener('mouseout', event => {
         const trigger = event.target.closest('[data-growth-detail-date]');
         if (!trigger) return;
