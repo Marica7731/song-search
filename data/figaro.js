@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 5/28/2026, 4:52:10 PM
+// 生成时间: 5/28/2026, 5:33:18 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -31339,6 +31339,70 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】#268[2026-05-24]睡眠导入歌回✨安眠前的放松时刻请随意享受🌙 Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UdGn6BEAf?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "潮騒",
+  "artist": "Figaro",
+  "collection": "【💐歌切】[2026-05-28]Figaro Birthday Live Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZKVW6YEMt?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【💐歌切】[2026-05-28]Figaro Birthday Live Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZKVW6YEMt?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "トワイライト",
+  "artist": "Figaro",
+  "collection": "【💐歌切】[2026-05-28]Figaro Birthday Live Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZKVW6YEMt?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "Molt",
+  "artist": "Figaro",
+  "collection": "【💐歌切】[2026-05-28]Figaro Birthday Live Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZKVW6YEMt?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "彗星の夜明け",
+  "artist": "Figaro",
+  "collection": "【💐歌切】[2026-05-28]Figaro Birthday Live Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZKVW6YEMt?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "プラネテス",
+  "artist": "キタニタツヤ",
+  "collection": "【💐歌切】[2026-05-28]Figaro Birthday Live Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZKVW6YEMt?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "アンインストール",
+  "artist": "石川智晶",
+  "collection": "【💐歌切】[2026-05-28]Figaro Birthday Live Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZKVW6YEMt?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "咲き跡",
+  "artist": "Figaro",
+  "collection": "【💐歌切】[2026-05-28]Figaro Birthday Live Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZKVW6YEMt?p=8",
   "source": "figaro.js"
 }
 );

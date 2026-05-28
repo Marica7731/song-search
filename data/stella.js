@@ -1,6 +1,6 @@
 // 天ノ譜ステラ - 歌单数据 (多合集汇总)
 // 来源: BV1MEP8z4E1J
-// 生成时间: 5/28/2026, 4:54:49 PM
+// 生成时间: 5/28/2026, 5:36:43 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1707,6 +1707,38 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-21]久违地出声！！！Soundhouse官方认证VSinger 天ノ譜ステラ Stella Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ufLe6REBR?p=3",
+  "source": "stella.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "【歌切】[2026-05-28]歌回哦哦哦 Sound House认证VSinger 天ノ譜ステラ Stella Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iuVW6hEbX?p=1",
+  "source": "stella.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat. 可不",
+  "collection": "【歌切】[2026-05-28]歌回哦哦哦 Sound House认证VSinger 天ノ譜ステラ Stella Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iuVW6hEbX?p=2",
+  "source": "stella.js"
+},
+    {
+  "title": "ギラギラ",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-05-28]歌回哦哦哦 Sound House认证VSinger 天ノ譜ステラ Stella Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iuVW6hEbX?p=3",
+  "source": "stella.js"
+},
+    {
+  "title": "センパイ。",
+  "artist": "HoneyWorks meets TrySail",
+  "collection": "【歌切】[2026-05-28]歌回哦哦哦 Sound House认证VSinger 天ノ譜ステラ Stella Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iuVW6hEbX?p=4",
   "source": "stella.js"
 }
 );

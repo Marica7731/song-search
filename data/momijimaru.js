@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 5/28/2026, 4:50:25 PM
+// 生成时间: 5/28/2026, 5:31:23 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5947,6 +5947,134 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-05-27]来点晨间陪伴如何!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ftGD6uEVD?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "踊り子",
+  "artist": "Vaundy",
+  "collection": "【🍁歌切】[2026-05-28]要不要去兜风？边看夜景边来场Chill Emo Drive歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mSVp65EH7?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-05-28]要不要去兜风？边看夜景边来场Chill Emo Drive歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mSVp65EH7?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "一二三",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-05-28]要不要去兜风？边看夜景边来场Chill Emo Drive歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mSVp65EH7?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "気分上々↑↑",
+  "artist": "mihimaru GT",
+  "collection": "【🍁歌切】[2026-05-28]要不要去兜风？边看夜景边来场Chill Emo Drive歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mSVp65EH7?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "喜劇",
+  "artist": "星野源",
+  "collection": "【🍁歌切】[2026-05-28]要不要去兜风？边看夜景边来场Chill Emo Drive歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mSVp65EH7?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師、宇多田ヒカル",
+  "collection": "【🍁歌切】[2026-05-28]要不要去兜风？边看夜景边来场Chill Emo Drive歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mSVp65EH7?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "【🍁歌切】[2026-05-28]要不要去兜风？边看夜景边来场Chill Emo Drive歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mSVp65EH7?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "月光",
+  "artist": "キタニタツヤ × はるまきごはん",
+  "collection": "【🍁歌切】[2026-05-28]要不要去兜风？边看夜景边来场Chill Emo Drive歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mSVp65EH7?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【🍁歌切】[2026-05-28]要不要去兜风？边看夜景边来场Chill Emo Drive歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mSVp65EH7?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "絶え間なく藍色",
+  "artist": "獅子志司 feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-05-28]要不要去兜风？边看夜景边来场Chill Emo Drive歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mSVp65EH7?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "サイコ",
+  "artist": "超学生",
+  "collection": "【🍁歌切】[2026-05-28]要不要去兜风？边看夜景边来场Chill Emo Drive歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mSVp65EH7?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【🍁歌切】[2026-05-28]要不要去兜风？边看夜景边来场Chill Emo Drive歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mSVp65EH7?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "花",
+  "artist": "藤井風",
+  "collection": "【🍁歌切】[2026-05-28]要不要去兜风？边看夜景边来场Chill Emo Drive歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mSVp65EH7?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-05-28]要不要去兜风？边看夜景边来场Chill Emo Drive歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mSVp65EH7?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "【🍁歌切】[2026-05-28]要不要去兜风？边看夜景边来场Chill Emo Drive歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mSVp65EH7?p=15",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "さよならミッドナイト",
+  "artist": "大柴広己",
+  "collection": "【🍁歌切】[2026-05-28]要不要去兜风？边看夜景边来场Chill Emo Drive歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mSVp65EH7?p=16",
   "source": "momijimaru.js"
 }
 );
