@@ -56,6 +56,7 @@ let store = {
   artistSongMap: new Map(),
   bvMap: new Map(),
   uniqueSongSourceCount: new WeakMap(),
+  uniqueSongOccurrenceCount: new WeakMap(),
   uploaderSourceMap: new Map(),
   sourceSongMap: new Map(),
   missingArtistSongs: [],
@@ -163,13 +164,30 @@ function buildUniqueSongSourceCountMap(songs) {
   return map;
 }
 
+function buildUniqueSongOccurrenceCountMap(songs) {
+  const map = new WeakMap();
+  buildUniqueSongClusters(songs).forEach(cluster => {
+    const count = cluster.songs.length || 1;
+    cluster.songs.forEach(song => map.set(song, count));
+  });
+  return map;
+}
+
 function getSongUniqueSourceCount(song) {
   return (song && store.uniqueSongSourceCount && store.uniqueSongSourceCount.get(song)) || 0;
 }
 
+function getSongUniqueOccurrenceCount(song) {
+  return (song && store.uniqueSongOccurrenceCount && store.uniqueSongOccurrenceCount.get(song)) || 0;
+}
+
+function isSoloUniqueSong(song) {
+  return getSongUniqueSourceCount(song) === 1 && getSongUniqueOccurrenceCount(song) === 1;
+}
+
 function countSoloUniqueTracks(data) {
   return buildUniqueSongClusters(data)
-    .filter(cluster => cluster.songs.some(song => getSongUniqueSourceCount(song) === 1))
+    .filter(cluster => cluster.songs.some(song => isSoloUniqueSong(song)))
     .length;
 }
 
@@ -477,7 +495,7 @@ function matchesSingleCondition(text, condition) {
 
 function matchesFieldCondition(fieldName, text, condition) {
   if (fieldName === 'artist' || fieldName === 'originalArtist') {
-    return matchesArtistCondition(text, condition) || matchesSingleCondition(text, condition);
+    return matchesSingleCondition(text, condition);
   }
   return matchesSingleCondition(text, condition);
 }
@@ -859,6 +877,31 @@ function buildSourceUniqueGrowthRows() {
     });
 }
 
+function buildSourceGrowthRows() {
+  return store.files
+    .map(file => {
+      const sourceSongs = store.sourceSongMap.get(file) || [];
+      const publishRows = buildPublishGrowthRows(sourceSongs);
+      const viewRows = buildPublishViewRows(sourceSongs);
+      const uniqueRows = buildPublishUniqueRows(sourceSongs);
+      const rows = buildCombinedGrowthRows(publishRows, viewRows, uniqueRows)
+        .filter(row => Number(row.songDelta || 0) || Number(row.viewDelta || 0) || Number(row.uniqueSongDelta || 0));
+      const latest = rows[rows.length - 1] || null;
+      return {
+        file,
+        alias: getSourceAlias(file),
+        profile: getSourceProfile(file),
+        totalSongs: Number(store.sourceStats[file]?.totalSongs || latest?.songTotal || 0),
+        totalUnique: Number(store.sourceStats[file]?.totalUnique || latest?.uniqueSongTotal || 0),
+        rows
+      };
+    })
+    .sort((a, b) => {
+      if (b.totalSongs !== a.totalSongs) return b.totalSongs - a.totalSongs;
+      return String(a.alias).localeCompare(String(b.alias), 'zh-Hans');
+    });
+}
+
 function buildGrowthAnomalies(combinedRows) {
   const rows = (Array.isArray(combinedRows) ? combinedRows : []).slice(-45);
   const positiveDeltas = rows
@@ -1014,6 +1057,7 @@ function loadSongStore() {
     artistSongMap,
     bvMap,
     uniqueSongSourceCount: buildUniqueSongSourceCountMap(songs),
+    uniqueSongOccurrenceCount: buildUniqueSongOccurrenceCountMap(songs),
     uploaderSourceMap,
     sourceSongMap,
     missingArtistSongs: songs.filter(song => !isValidArtist(song.artist)),
@@ -1801,7 +1845,7 @@ function aggregateBySong(data) {
     entry.count += 1;
     entry.sourceSet.add(item.source || '');
     entry.sourceCount = entry.sourceSet.size;
-    entry.isSolo = getSongUniqueSourceCount(item) === 1;
+    entry.isSolo = isSoloUniqueSong(item);
     entry.performances.push({
       link: item.link || '',
       collection: item.collection || '未知合集',
@@ -1858,7 +1902,7 @@ function aggregateByVtuberSource(data) {
       groups.push(songEntry);
     }
     songEntry.count += 1;
-    songEntry.isSolo = getSongUniqueSourceCount(item) === 1;
+    songEntry.isSolo = isSoloUniqueSong(item);
     if (item.link) {
       songEntry.links.push({
         link: item.link,
@@ -1976,6 +2020,45 @@ function getStatsAggregatePayload(tab, source, keyword) {
   return payload;
 }
 
+function getStatsSortValue(item, field) {
+  switch (field) {
+    case 'bvid':
+    case 'bv':
+    case 'bvCount':
+      return Number(item?.bvCount || 0);
+    case 'unique':
+    case 'uniqueCount':
+      return Number(item?.uniqueCount || 0);
+    case 'solo':
+    case 'soloCount':
+      return Number(item?.soloCount || 0);
+    case 'songs':
+    case 'total':
+    case 'totalCount':
+    case 'count':
+    default:
+      return Number(item?.totalCount || item?.count || 0);
+  }
+}
+
+function sortStatsGroups(groups, tab, sortValue) {
+  const input = Array.isArray(groups) ? groups : [];
+  const defaultSort = tab === 'vtuber-source' ? 'songs-desc' : 'count-desc';
+  const raw = String(sortValue || defaultSort).trim();
+  const parts = raw.split('-');
+  const direction = parts.pop() === 'asc' ? 'asc' : 'desc';
+  const field = parts.join('-') || (tab === 'vtuber-source' ? 'songs' : 'count');
+
+  return input.slice().sort((a, b) => {
+    const valA = getStatsSortValue(a, field);
+    const valB = getStatsSortValue(b, field);
+    if (valA !== valB) {
+      return direction === 'asc' ? valA - valB : valB - valA;
+    }
+    return String(a?.name || a?.title || '').localeCompare(String(b?.name || b?.title || ''), 'zh-Hans');
+  });
+}
+
 function buildGroupSummaryLinks(group, type, limit = STATS_SUMMARY_LINK_LIMIT) {
   const rows = [];
   (group.songs || []).forEach(song => {
@@ -2050,10 +2133,11 @@ function handleStatsView(reqUrl, res) {
   const tab = reqUrl.searchParams.get('tab') || 'vtuber-source';
   const source = reqUrl.searchParams.get('source') || 'all';
   const keyword = reqUrl.searchParams.get('q') || '';
+  const sort = reqUrl.searchParams.get('sort') || (tab === 'vtuber-source' ? 'songs-desc' : 'count-desc');
   const page = Math.max(1, Number(reqUrl.searchParams.get('page') || '1'));
   const pageSize = Math.max(1, Math.min(100, Number(reqUrl.searchParams.get('pageSize') || '30')));
   const payload = getStatsAggregatePayload(tab, source, keyword);
-  const groups = payload.groups || [];
+  const groups = sortStatsGroups(payload.groups || [], tab, sort);
   const total = groups.length;
   const totalPages = Math.max(1, Math.ceil(total / pageSize));
   const currentPage = Math.min(page, totalPages);
@@ -2075,7 +2159,8 @@ function handleStatsView(reqUrl, res) {
     overview: payload.overview,
     hasData: payload.hasData,
     source,
-    q: keyword
+    q: keyword,
+    sort
   });
 }
 
@@ -2173,13 +2258,15 @@ function buildSongRowId(item) {
 
 function withSearchRowMeta(item) {
   const uniqueSourceCount = getSongUniqueSourceCount(item);
+  const uniqueOccurrenceCount = getSongUniqueOccurrenceCount(item);
   return {
     ...item,
     rowId: buildSongRowId(item),
     sourceAlias: getExportSourceName(item),
     bvid: getExportBvid(item),
     uniqueSourceCount,
-    isUniqueSong: uniqueSourceCount === 1
+    uniqueOccurrenceCount,
+    isUniqueSong: isSoloUniqueSong(item)
   };
 }
 
@@ -2278,6 +2365,7 @@ function buildSongGrowthPayload() {
   const publishViewRows = buildPublishViewRows(store.songs);
   const publishUniqueRows = buildPublishUniqueRows(store.songs);
   const sourceUniqueRows = buildSourceUniqueGrowthRows();
+  const sourceRows = buildSourceGrowthRows();
   const combinedRows = buildCombinedGrowthRows(publishRows, publishViewRows, publishUniqueRows);
   const generatedAtMs = Date.now();
   return {
@@ -2286,6 +2374,7 @@ function buildSongGrowthPayload() {
     publishViewRows,
     publishUniqueRows,
     sourceUniqueRows,
+    sourceRows,
     combinedRows,
     anomalies: buildGrowthAnomalies(combinedRows),
     latest: {

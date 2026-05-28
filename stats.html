@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>歌曲数据</title>
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-    <link rel="stylesheet" href="/site-theme.css?v=20260529statsgrowth1">
+    <link rel="stylesheet" href="/site-theme.css?v=20260529goal3">
     <script src="/site-shell.js?v=20260524shell7" defer></script>
     <style>
         /* --- 全局样式复用 --- */
@@ -248,6 +248,16 @@
             width: 74px;
             height: 36px;
             padding: 0 10px;
+            border: 1px solid #d0d7de;
+            border-radius: 6px;
+            background: #ffffff;
+            font-size: 13px;
+            color: #1f2328;
+        }
+        .summary-sort-select {
+            min-width: 136px;
+            height: 36px;
+            padding: 0 32px 0 10px;
             border: 1px solid #d0d7de;
             border-radius: 6px;
             background: #ffffff;
@@ -829,7 +839,19 @@
     <div class="stats-bar">
         <div class="stats-text" id="summary-text">加载中...</div>
         <div class="summary-toolbar">
-            <label>摘要链接数
+            <label id="stats-sort-wrapper">来源排序
+                <select id="stats-sort-select" class="summary-sort-select" title="仅影响来源统计卡片排序">
+                    <option value="songs-desc" selected>曲数最多</option>
+                    <option value="bvid-desc">场次最多</option>
+                    <option value="solo-desc">独特最多</option>
+                    <option value="unique-desc">去重最多</option>
+                    <option value="songs-asc">曲数最少</option>
+                    <option value="bvid-asc">场次最少</option>
+                    <option value="solo-asc">独特最少</option>
+                    <option value="unique-asc">去重最少</option>
+                </select>
+            </label>
+            <label title="只控制“复制摘要”里附带多少条示例投稿链接，不影响统计结果。">复制摘要链接数
                 <input type="number" id="summary-link-limit" class="summary-link-input" min="1" max="20" value="6">
             </label>
         </div>
@@ -912,12 +934,14 @@
         let activeTab = 'vtuber-source';
         let activeFilter = 'all';
         let searchKeyword = '';
+        let statsSort = 'songs-desc';
         const PAGE_SIZE = 30;
         let currentRankPage = 1;
         let isApiMode = false;
         let currentStatsPayload = null;
         let statsDetailCache = new Map();
         let localTitleSourceMap = new Map();
+        let localTitleStatsMap = new Map();
         let localTitleSourceVersion = -1;
         let staticFallbackPromise = null;
         let statsViewRequestSeq = 0;
@@ -1183,6 +1207,10 @@
             document.querySelectorAll('.stats-view-nav-item').forEach(button => {
                 button.classList.toggle('active', button.dataset.statsTab === activeTab);
             });
+            const sortWrapper = document.getElementById('stats-sort-wrapper');
+            if (sortWrapper) sortWrapper.style.display = activeTab === 'vtuber-source' ? 'inline-flex' : 'none';
+            const sortSelect = document.getElementById('stats-sort-select');
+            if (sortSelect) sortSelect.value = statsSort;
         }
 
         function restoreStatsViewPrefs() {
@@ -1215,6 +1243,7 @@
             }
 
             const map = new Map();
+            const statsMap = new Map();
             originalData.forEach(item => {
                 const titleKey = normalizeString(item.title || '未知歌曲');
                 if (!titleKey) return;
@@ -1222,18 +1251,31 @@
                     map.set(titleKey, new Set());
                 }
                 map.get(titleKey).add(item.source || '');
+                if (!statsMap.has(titleKey)) {
+                    statsMap.set(titleKey, { sources: new Set(), count: 0 });
+                }
+                const stats = statsMap.get(titleKey);
+                stats.sources.add(item.source || '');
+                stats.count += 1;
             });
             localTitleSourceMap = map;
+            localTitleStatsMap = statsMap;
             localTitleSourceVersion = originalData.length;
             return localTitleSourceMap;
         }
 
-        function getGlobalTitleSourceCountLocal(songOrTitle) {
+        function getGlobalTitleStatsLocal(songOrTitle) {
+            getLocalTitleSourceMap();
             const title = typeof songOrTitle === 'string'
                 ? songOrTitle
                 : songOrTitle?.title || '';
             const titleKey = normalizeString(title);
-            return getLocalTitleSourceMap().get(titleKey)?.size || 0;
+            return localTitleStatsMap.get(titleKey) || { sources: new Set(), count: 0 };
+        }
+
+        function isSoloUniqueLocal(songOrTitle) {
+            const stats = getGlobalTitleStatsLocal(songOrTitle);
+            return (stats.sources?.size || 0) === 1 && Number(stats.count || 0) === 1;
         }
 
         function getUniqueSongCount(data) {
@@ -1244,7 +1286,6 @@
             const artistKeys = new Set();
             const soloTitleKeys = new Set();
             let validArtistPosts = 0;
-            const titleSourceCounts = getLocalTitleSourceMap();
 
             data.forEach(item => {
                 if (isValidArtist(item.artist)) {
@@ -1252,7 +1293,7 @@
                     artistKeys.add(normalizeString(item.artist));
                 }
                 const titleKey = normalizeString(item.title || '');
-                if (titleKey && (titleSourceCounts.get(titleKey)?.size || 0) === 1) {
+                if (titleKey && isSoloUniqueLocal(item)) {
                     soloTitleKeys.add(titleKey);
                 }
             });
@@ -1650,6 +1691,33 @@
             return sorted;
         }
 
+        function getStatsGroupSortValue(item, field) {
+            switch (field) {
+                case 'bvid':
+                case 'bv':
+                    return Number(item.bvCount || 0);
+                case 'unique':
+                    return Number(item.uniqueCount || 0);
+                case 'solo':
+                    return Number(item.soloCount || 0);
+                case 'songs':
+                default:
+                    return Number(item.totalCount || item.count || 0);
+            }
+        }
+
+        function sortStatsGroupsLocal(groups) {
+            const [rawField, rawDirection] = String(statsSort || 'songs-desc').split('-');
+            const field = rawField || 'songs';
+            const direction = rawDirection === 'asc' ? 'asc' : 'desc';
+            return (Array.isArray(groups) ? groups : []).slice().sort((a, b) => {
+                const valA = getStatsGroupSortValue(a, field);
+                const valB = getStatsGroupSortValue(b, field);
+                if (valA !== valB) return direction === 'asc' ? valA - valB : valB - valA;
+                return String(a.name || a.title || '').localeCompare(String(b.name || b.title || ''), 'zh-Hans');
+            });
+        }
+
         // ========== 模态框控制 ==========
         function showModal(copyType, data, columns, showDataType = false) {
             // 保存原始数据的深拷贝
@@ -1866,7 +1934,7 @@
                 entry.count++;
                 entry.sourceSet.add(item.source || '');
                 entry.sourceCount = entry.sourceSet.size;
-                entry.isSolo = getGlobalTitleSourceCountLocal(item) === 1;
+                entry.isSolo = isSoloUniqueLocal(item);
                 entry.performances.push({
                     link: item.link,
                     collection: item.collection || '未知合集',
@@ -1916,7 +1984,7 @@
                 }
                 const songEntry = vtuberEntry.songs.get(songKey);
                 songEntry.count++;
-                songEntry.isSolo = getGlobalTitleSourceCountLocal(item) === 1;
+                songEntry.isSolo = isSoloUniqueLocal(item);
                 if (item.link) songEntry.links.push({
                     link: item.link,
                     collection: item.collection || '未知合集',
@@ -2420,7 +2488,7 @@
 
         // --- Tab 2 渲染: 按VTuber来源分类 ---
         function renderVtuberSourceList(data, alreadyAggregated = false) {
-            const aggData = alreadyAggregated ? data : aggregateByVtuberSource(data);
+            const aggData = sortStatsGroupsLocal(alreadyAggregated ? data : aggregateByVtuberSource(data));
             renderOverviewCards(
                 isApiMode && currentStatsPayload ? currentStatsPayload.overview : buildOverviewByTabLocal('vtuber-source', data, aggData),
                 isApiMode && currentStatsPayload ? currentStatsPayload.total : aggData.length
@@ -2535,6 +2603,7 @@
                 tab: tab || activeTab,
                 source: source || activeFilter,
                 q: keyword || searchKeyword,
+                sort: statsSort,
                 page: String(page || currentRankPage),
                 pageSize: String(PAGE_SIZE)
             });
@@ -2796,6 +2865,12 @@
                     if (e.key === 'Enter') doSearch();
                 });
                 document.getElementById('summary-link-limit')?.addEventListener('input', saveStatsViewPrefs);
+                document.getElementById('stats-sort-select')?.addEventListener('change', event => {
+                    statsSort = event.target.value || 'songs-desc';
+                    currentRankPage = 1;
+                    syncStatsNavigation();
+                    updateAllViews();
+                });
 
                 // 模态框事件绑定
                 const modal = document.getElementById('copy-modal');

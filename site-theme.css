@@ -917,14 +917,6 @@ body.culua-shell-page {
   color: #0f766e;
 }
 
-body.culua-shell-growth .culua-page-shell {
-  grid-template-columns: minmax(0, 1fr);
-}
-
-body.culua-shell-growth .culua-sidebar {
-  display: none;
-}
-
 .culua-page-content {
   min-width: 0;
   padding: 22px 24px 34px;
@@ -2710,7 +2702,7 @@ body.culua-shell-stats .toggle-btn:focus {
 /* Stats page layout breakpoints:
    desktop >= 1280px, tablet 768px - 1279px, mobile < 768px. */
 body.culua-shell-stats {
-  --left-sidebar-width: 220px;
+  --left-sidebar-width: 280px;
   --right-toc-width: 252px;
   --page-gap: 16px;
   --card-radius: 8px;
@@ -3334,7 +3326,7 @@ body.culua-shell-stats .perf-grid-small .perf-link-small:hover {
 
 @media (max-width: 1399px) and (min-width: 1280px) {
   body.culua-shell-stats {
-    --left-sidebar-width: 204px;
+    --left-sidebar-width: 280px;
     --right-toc-width: 220px;
     --page-gap: 12px;
   }

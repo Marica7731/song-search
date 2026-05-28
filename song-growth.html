@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>歌曲增长日报</title>
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-  <link rel="stylesheet" href="/site-theme.css?v=20260529statsgrowth1">
+  <link rel="stylesheet" href="/site-theme.css?v=20260529goal3">
   <script src="/site-shell.js?v=20260524shell7" defer></script>
   <style>
     * { box-sizing: border-box }
@@ -306,6 +306,10 @@
       gap: 8px;
       align-items: center;
       min-width: min(100%, 420px);
+    }
+    .growth-source-control {
+      flex: 1 1 280px;
+      max-width: 380px;
     }
     .unique-source-select {
       width: 100%;
@@ -608,6 +612,14 @@
         <div class="culua-brand">
           <div class="culua-brand-title">culua.com</div>
         </div>
+        <nav class="culua-shell-nav" aria-label="页面导航">
+          <a class="culua-shell-nav-item" href="/">检索 <span>搜索</span></a>
+          <a class="culua-shell-nav-item" href="/stats">统计 <span>数据</span></a>
+          <a class="culua-shell-nav-item" href="/bv">BV 查重 <span>工具</span></a>
+          <a class="culua-shell-nav-item" href="/dup">歌名查重 <span>工具</span></a>
+          <a class="culua-shell-nav-item" href="/check">命名校验 <span>工具</span></a>
+          <a class="culua-shell-nav-item active" href="/growth" aria-current="page">增长日报 <span>趋势</span></a>
+        </nav>
     </aside>
     <main class="culua-page-content">
   <div class="main panel">
@@ -625,7 +637,7 @@
           <div class="kpi"><div class="label">累计总播放</div><div class="value" id="kpiTotalViews">-</div></div>
           <div class="kpi"><div class="label">累计总曲目</div><div class="value" id="kpiTotalSongs">-</div></div>
           <div class="kpi"><div class="label">累计去重歌曲</div><div class="value" id="kpiTotalUniqueSongs">-</div></div>
-          <div class="kpi"><div class="label">累计商值（播放/曲目）</div><div class="value" id="kpiTotalRatio">-</div></div>
+          <div class="kpi"><div class="label">累计每曲播放</div><div class="value" id="kpiTotalRatio">-</div></div>
           <div class="kpi"><div class="label">统计天数</div><div class="value" id="kpiDays">-</div></div>
         </div>
       </div>
@@ -635,23 +647,36 @@
           <div class="kpi"><div class="label">当日播放量</div><div class="value" id="kpiDailyViews">-</div></div>
           <div class="kpi"><div class="label">当日曲目增量</div><div class="value" id="kpiDailySongs">-</div></div>
           <div class="kpi"><div class="label">当日去重增量</div><div class="value" id="kpiDailyUniqueSongs">-</div></div>
-          <div class="kpi"><div class="label">当日商值（播放/曲目）</div><div class="value" id="kpiDailyRatio">-</div></div>
+          <div class="kpi"><div class="label">当日每曲播放</div><div class="value" id="kpiDailyRatio">-</div></div>
           <div class="kpi"><div class="label">最新日期</div><div class="value" id="kpiLatestDate">-</div></div>
         </div>
       </div>
     </div>
 
     <div class="controls">
+      <div class="unique-source-tools growth-source-control">
+        <select class="unique-source-select is-hidden" id="uniqueSourceSelect" aria-label="选择分析来源"></select>
+        <div class="unique-source-picker" id="uniqueSourcePicker">
+          <button type="button" class="unique-source-button" id="uniqueSourceButton" aria-haspopup="listbox" aria-expanded="false">
+            <span class="unique-source-avatar" style="--source-avatar-color:#0f766e">ALL</span>
+            <span class="unique-source-text">
+              <span class="unique-source-name">全部来源</span>
+              <span class="unique-source-meta">加载中</span>
+            </span>
+          </button>
+          <div class="unique-source-menu" id="uniqueSourceMenu" role="listbox" hidden></div>
+        </div>
+      </div>
       <select class="metric-select" id="metricGroupSelect">
         <option value="total" selected>累计总量（播放 + 曲目）</option>
         <option value="delta">当日总量（播放 + 曲目）</option>
       </select>
       <select class="metric-select" id="metricFocusSelect">
-        <option value="all" selected>总览对比（播放 + 曲目 + 去重 + 商值）</option>
+        <option value="all" selected>总览对比（播放 + 曲目 + 去重 + 每曲播放）</option>
         <option value="view">只看播放量</option>
         <option value="song">只看曲目</option>
         <option value="unique">只看去重歌曲</option>
-        <option value="ratio">只看商值（播放/曲目）</option>
+        <option value="ratio">只看每曲播放</option>
       </select>
       <button class="range-btn active" data-range="30">近30天</button>
       <button class="range-btn" data-range="90">近90天</button>
@@ -670,7 +695,7 @@
           <span class="legend-item"><span class="legend-dot" style="background:#d97706"></span>播放量</span>
           <span class="legend-item"><span class="legend-dot" style="background:#1a8f4c"></span>曲目</span>
           <span class="legend-item"><span class="legend-dot" style="background:#0f766e"></span>去重歌曲</span>
-          <span class="legend-item"><span class="legend-dot" style="background:#7c3aed"></span>商值(播放/曲目)</span>
+          <span class="legend-item"><span class="legend-dot" style="background:#7c3aed"></span>每曲播放</span>
         </span>
       </div>
     </div>
@@ -680,19 +705,6 @@
         <div>
           <h3>去重歌曲曲线</h3>
           <p>单独按去重歌曲口径展示，绿色折线是累计去重歌曲，蓝色柱形是当日新增去重歌曲。</p>
-        </div>
-        <div class="unique-source-tools">
-          <select class="unique-source-select is-hidden" id="uniqueSourceSelect" aria-label="选择去重曲线来源"></select>
-          <div class="unique-source-picker" id="uniqueSourcePicker">
-            <button type="button" class="unique-source-button" id="uniqueSourceButton" aria-haspopup="listbox" aria-expanded="false">
-              <span class="unique-source-avatar" style="--source-avatar-color:#0f766e">ALL</span>
-              <span class="unique-source-text">
-                <span class="unique-source-name">全部来源</span>
-                <span class="unique-source-meta">加载中</span>
-              </span>
-            </button>
-            <div class="unique-source-menu" id="uniqueSourceMenu" role="listbox" hidden></div>
-          </div>
         </div>
         <div class="unique-chart-stats">
           <div class="unique-stat"><div class="label">最新累计去重</div><div class="value" id="uniqueLatestTotal">-</div></div>
@@ -729,11 +741,11 @@
             <th>累计总播放</th>
             <th>累计总曲目</th>
             <th>累计去重歌曲</th>
-            <th>累计商值</th>
+            <th>累计每曲播放</th>
             <th>当日播放量</th>
             <th>当日曲目增量</th>
             <th>当日去重增量</th>
-            <th>当日商值</th>
+            <th>当日每曲播放</th>
           </tr>
         </thead>
         <tbody id="growthTableBody"></tbody>
@@ -781,7 +793,7 @@
     const copyGrowthTableBtn = document.getElementById('copyGrowthTableBtn');
     const copyToast = document.getElementById('copyToast');
 
-    const growthData = { rows: [], sourceUniqueRows: [] };
+    const growthData = { rows: [], sourceUniqueRows: [], sourceRows: [] };
     let currentRange = '30';
     let currentMetricGroup = 'total';
     let currentMetricFocus = 'all';
@@ -923,8 +935,21 @@
         });
     }
 
+    function getSourceLabel() {
+      if (currentUniqueSource === 'all') return '全部来源';
+      const source = growthData.sourceRows.find(item => item.file === currentUniqueSource)
+        || growthData.sourceUniqueRows.find(item => item.file === currentUniqueSource);
+      return source?.alias || '当前来源';
+    }
+
+    function getActiveGrowthRows() {
+      if (currentUniqueSource === 'all') return growthData.rows;
+      const source = growthData.sourceRows.find(item => item.file === currentUniqueSource);
+      return source ? source.rows : [];
+    }
+
     function getRangeRows() {
-      const rows = growthData.rows;
+      const rows = getActiveGrowthRows();
       if (currentRange === 'all') return rows.slice();
       const days = Number(currentRange);
       if (!days || days <= 0) return rows.slice();
@@ -933,7 +958,8 @@
 
     function getUniqueSourceRows() {
       if (currentUniqueSource === 'all') return growthData.rows;
-      const source = growthData.sourceUniqueRows.find(item => item.file === currentUniqueSource);
+      const source = growthData.sourceRows.find(item => item.file === currentUniqueSource)
+        || growthData.sourceUniqueRows.find(item => item.file === currentUniqueSource);
       return source ? source.rows : [];
     }
 
@@ -946,7 +972,7 @@
     }
 
     function getCurrentTableRows() {
-      const rows = growthData.rows.slice().reverse();
+      const rows = getActiveGrowthRows().slice().reverse();
       const start = (currentPage - 1) * pageSize;
       return rows.slice(start, start + pageSize);
     }
@@ -990,7 +1016,7 @@
           key: 'ratio',
           color: '#7c3aed',
           dashed: true,
-          label: isDelta ? '当日商值（播放/曲目）' : '累计商值（播放/曲目）',
+          label: isDelta ? '当日每曲播放' : '累计每曲播放',
           getValue(row) {
             return isDelta
               ? ratioValue(row?.viewDelta, row?.songDelta)
@@ -1019,10 +1045,10 @@
     }
 
     function updateSummary() {
-      const rows = growthData.rows;
+      const rows = getActiveGrowthRows();
       const last = rows[rows.length - 1];
       document.getElementById('updatedAtText').textContent = last
-        ? `更新时间：${last.date}（上海时间日统计）`
+        ? `更新时间：${last.date}（上海时间日统计 · ${getSourceLabel()}）`
         : '更新时间：暂无数据';
       document.getElementById('kpiTotalViews').textContent = last ? numberText(last.viewTotal) : '-';
       document.getElementById('kpiTotalSongs').textContent = last ? numberText(last.songTotal) : '-';
@@ -1240,13 +1266,13 @@
           { label: labels.view, color: '#d97706' },
           { label: labels.song, color: '#1a8f4c' },
           { label: labels.unique, color: '#0f766e' },
-          { label: `${labels.group}商值`, color: '#7c3aed', dashed: true }
+          { label: `${labels.group}每曲播放`, color: '#7c3aed', dashed: true }
         ]);
 
         const ratioValidValues = ratioValues.filter(value => Number.isFinite(Number(value)));
         const ratioRangeText = ratioValidValues.length
-          ? `商值区间 ${ratioText(Math.min(...ratioValidValues))} ~ ${ratioText(Math.max(...ratioValidValues))}`
-          : '商值区间 -';
+          ? `每曲播放区间 ${ratioText(Math.min(...ratioValidValues))} ~ ${ratioText(Math.max(...ratioValidValues))}`
+          : '每曲播放区间 -';
         chartRangeText.textContent = `${labels.group}：${rows[0].date} 至 ${rows[rows.length - 1].date}（${rows.length} 天） | ${ratioRangeText}`;
       }
 
@@ -1343,9 +1369,7 @@
       document.getElementById('uniqueLatestTotal').textContent = numberText(latest.uniqueSongTotal);
       document.getElementById('uniqueRangeDelta').textContent = `+${numberText(rangeDelta)}`;
       document.getElementById('uniquePeakDaily').textContent = `${numberText(peak.uniqueSongDelta)} / ${peak.date}`;
-      const sourceLabel = currentUniqueSource === 'all'
-        ? '全部来源'
-        : (growthData.sourceUniqueRows.find(item => item.file === currentUniqueSource)?.alias || '当前来源');
+      const sourceLabel = getSourceLabel();
       uniqueChartRangeText.textContent = `${sourceLabel} · ${first.date} 至 ${latest.date}（${rows.length} 天） · 累计区间 ${numberText(Math.min(...totals))} ~ ${numberText(Math.max(...totals))} · 日增区间 ${numberText(Math.min(...deltas))} ~ ${numberText(Math.max(...deltas))}`;
     }
 
@@ -1371,15 +1395,15 @@
         `<div>${labels.view}：${numberText(current.view)}</div>`,
         `<div>${labels.song}：${numberText(current.song)}</div>`,
         `<div>${labels.unique}：${numberText(current.unique)}</div>`,
-        `<div>${labels.group}商值：${ratioText(current.ratio)}</div>`,
+        `<div>${labels.group}每曲播放：${ratioText(current.ratio)}</div>`,
         `<div>累计总播放：${numberText(row.viewTotal)}</div>`,
         `<div>累计总曲目：${numberText(row.songTotal)}</div>`,
         `<div>累计去重歌曲：${numberText(row.uniqueSongTotal)}</div>`,
-        `<div>累计商值：${ratioText(ratioValue(row.viewTotal, row.songTotal))}</div>`,
+        `<div>累计每曲播放：${ratioText(ratioValue(row.viewTotal, row.songTotal))}</div>`,
         `<div>当日播放量：${numberText(row.viewDelta)}</div>`,
         `<div>当日曲目增量：${numberText(row.songDelta)}</div>`,
         `<div>当日去重增量：${numberText(row.uniqueSongDelta)}</div>`,
-        `<div>当日商值：${ratioText(ratioValue(row.viewDelta, row.songDelta))}</div>`
+        `<div>当日每曲播放：${ratioText(ratioValue(row.viewDelta, row.songDelta))}</div>`
       ].join('');
     }
 
@@ -1466,15 +1490,15 @@
       if (!focusedMetric) {
         const last = rows[rows.length - 1];
         const current = getSeriesValues(last);
-        analysisTitle.textContent = '总览分析';
+        analysisTitle.textContent = `${getSourceLabel()}总览分析`;
         analysisNote.textContent = '当前是三指标对比模式。切到“只看某个数据”后，这里会显示该指标的趋势解读。';
         buildAnalysisCards([
           { label: getMetricLabels().view, value: metricValueText('view', current.view), sub: `最新日期 ${last.date}` },
           { label: getMetricLabels().song, value: metricValueText('song', current.song), sub: `区间长度 ${rows.length} 天` },
           { label: getMetricLabels().unique, value: metricValueText('unique', current.unique), sub: '按歌名歌手宽容去重' },
-          { label: `${getMetricLabels().group}商值`, value: metricValueText('ratio', current.ratio), sub: `范围 ${rows[0].date} ~ ${rows[rows.length - 1].date}` }
+          { label: `${getMetricLabels().group}每曲播放`, value: metricValueText('ratio', current.ratio), sub: `范围 ${rows[0].date} ~ ${rows[rows.length - 1].date}` }
         ]);
-        analysisText.textContent = `当前区间为 ${rows[0].date} 至 ${rows[rows.length - 1].date}。如果你只想看某一个指标的曲线和解释，直接把上面的下拉切到播放量、曲目、去重歌曲或商值即可。`;
+        analysisText.textContent = `${getSourceLabel()}当前区间为 ${rows[0].date} 至 ${rows[rows.length - 1].date}，已剔除该来源增量全为 0 的日期。如果你只想看某一个指标的曲线和解释，直接把上面的下拉切到播放量、曲目、去重歌曲或每曲播放即可。`;
         return;
       }
 
@@ -1525,7 +1549,7 @@
     }
 
     function renderTable() {
-      const rows = growthData.rows.slice().reverse();
+      const rows = getActiveGrowthRows().slice().reverse();
       const totalPages = Math.max(1, Math.ceil(rows.length / pageSize));
       if (currentPage > totalPages) currentPage = totalPages;
       const start = (currentPage - 1) * pageSize;
@@ -1592,10 +1616,10 @@
       const dailyUniqueSongSum = rows.reduce((sum, row) => sum + parseNumber(row.uniqueSongDelta), 0);
       const focus = getFocusedMetricMeta();
       const lines = [
-        `歌曲增长日报：${first.date} 至 ${latest.date}（${rows.length} 天）`,
-        `最新累计：播放 ${numberText(latest.viewTotal)} · 曲目 ${numberText(latest.songTotal)} · 去重歌曲 ${numberText(latest.uniqueSongTotal)} · 商值 ${ratioText(ratioValue(latest.viewTotal, latest.songTotal))}`,
+        `歌曲增长日报：${getSourceLabel()} · ${first.date} 至 ${latest.date}（${rows.length} 天）`,
+        `最新累计：播放 ${numberText(latest.viewTotal)} · 曲目 ${numberText(latest.songTotal)} · 去重歌曲 ${numberText(latest.uniqueSongTotal)} · 每曲播放 ${ratioText(ratioValue(latest.viewTotal, latest.songTotal))}`,
         `区间变化：累计播放 ${metricDeltaText('view', viewDelta)} · 累计曲目 ${metricDeltaText('song', songDelta)} · 累计去重 ${metricDeltaText('unique', uniqueSongDelta)}`,
-        `区间当日合计：播放 ${numberText(dailyViewSum)} · 曲目 ${numberText(dailySongSum)} · 去重 ${numberText(dailyUniqueSongSum)} · 商值 ${ratioText(ratioValue(dailyViewSum, dailySongSum))}`,
+        `区间当日合计：播放 ${numberText(dailyViewSum)} · 曲目 ${numberText(dailySongSum)} · 去重 ${numberText(dailyUniqueSongSum)} · 每曲播放 ${ratioText(ratioValue(dailyViewSum, dailySongSum))}`,
         `当前视图：${currentMetricGroup === 'delta' ? '当日总量' : '累计总量'} / ${focus ? focus.label : '总览对比'}`
       ];
       const note = analysisText.textContent.trim();
@@ -1604,7 +1628,7 @@
     }
 
     function buildGrowthTableText() {
-      const header = ['日期', '累计总播放', '累计总曲目', '累计去重歌曲', '累计商值', '当日播放量', '当日曲目增量', '当日去重增量', '当日商值'];
+      const header = ['日期', '累计总播放', '累计总曲目', '累计去重歌曲', '累计每曲播放', '当日播放量', '当日曲目增量', '当日去重增量', '当日每曲播放'];
       const body = getCurrentTableRows().map(row => [
         row.date,
         parseNumber(row.viewTotal),
@@ -1620,7 +1644,7 @@
     }
 
     function goToPage(targetPage) {
-      const rows = growthData.rows.slice().reverse();
+      const rows = getActiveGrowthRows().slice().reverse();
       const totalPages = Math.max(1, Math.ceil(rows.length / pageSize));
       const nextPage = Math.min(totalPages, Math.max(1, Number(targetPage) || 1));
       currentPage = nextPage;
@@ -1652,7 +1676,7 @@
     function renderUniqueSourceControls() {
       if (!uniqueSourceSelect || !uniqueSourceButton || !uniqueSourceMenu) return;
       const options = [{ file: 'all', alias: '全部来源', totalUnique: growthData.rows.at(-1)?.uniqueSongTotal || 0, profile: { avatarText: 'ALL', accentColor: '#0f766e' } }]
-        .concat(growthData.sourceUniqueRows);
+        .concat(growthData.sourceRows.length ? growthData.sourceRows : growthData.sourceUniqueRows);
       uniqueSourceSelect.innerHTML = options.map(item => (
         `<option value="${escapeHtml(item.file)}">${escapeHtml(item.alias)}（${numberText(item.totalUnique || 0)}）</option>`
       )).join('');
@@ -1717,7 +1741,7 @@
       uniqueSourceSelect?.addEventListener('change', () => {
         currentUniqueSource = uniqueSourceSelect.value || 'all';
         renderUniqueSourceControls();
-        drawUniqueGrowthChart();
+        refreshView();
       });
       uniqueSourceButton?.addEventListener('click', toggleUniqueSourceMenu);
       uniqueSourceMenu?.addEventListener('click', event => {
@@ -1726,7 +1750,7 @@
         currentUniqueSource = option.dataset.uniqueSource || 'all';
         uniqueSourceSelect.value = currentUniqueSource;
         renderUniqueSourceControls();
-        drawUniqueGrowthChart();
+        refreshView();
         closeUniqueSourceMenu();
       });
       document.addEventListener('click', event => {
@@ -1808,6 +1832,20 @@
           rows: normalizeSourceUniqueRows(item?.rows)
         }))
         .filter(item => item.file && item.rows.length);
+      growthData.sourceRows = (Array.isArray(payload?.sourceRows) ? payload.sourceRows : [])
+        .map(item => ({
+          file: String(item?.file || ''),
+          alias: String(item?.alias || item?.file || '未知来源'),
+          profile: item?.profile || {},
+          totalSongs: parseNumber(item?.totalSongs),
+          totalUnique: parseNumber(item?.totalUnique),
+          rows: normalizeCombinedRows(item?.rows)
+            .filter(row => parseNumber(row.songDelta) || parseNumber(row.viewDelta) || parseNumber(row.uniqueSongDelta))
+        }))
+        .filter(item => item.file && item.rows.length);
+      if (!growthData.sourceRows.length) {
+        growthData.sourceRows = growthData.sourceUniqueRows;
+      }
       renderUniqueSourceControls();
     }
 
