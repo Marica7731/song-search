@@ -1,6 +1,6 @@
 // ななし律歌 - 歌单数据 (多合集汇总)
 // 来源: BV1wHQVBTEU5
-// 生成时间: 5/28/2026, 9:16:32 PM
+// 生成时间: 5/28/2026, 9:58:17 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -307,6 +307,158 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-04-27 ななし律歌 / Nanashi Rikka 6_BbqP9J95Q 放松一下吧～🎸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zx92B8E7C?p=17",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-28]唱歌聊天 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1daVs6eE2r?p=1",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "チェリーポップ",
+  "artist": "DECO*27",
+  "collection": "【歌切】[2026-05-28]唱歌聊天 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1daVs6eE2r?p=2",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-05-28]唱歌聊天 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1daVs6eE2r?p=3",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "Beautiful World",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-05-28]唱歌聊天 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1daVs6eE2r?p=4",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "惑星ループ",
+  "artist": "ナユタン星人",
+  "collection": "【歌切】[2026-05-28]唱歌聊天 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1daVs6eE2r?p=5",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "天ノ弱",
+  "artist": "164",
+  "collection": "【歌切】[2026-05-28]唱歌聊天 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1daVs6eE2r?p=6",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "小夜子",
+  "artist": "みきとP",
+  "collection": "【歌切】[2026-05-28]唱歌聊天 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1daVs6eE2r?p=7",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "素敵なしゅうまつを！",
+  "artist": "キタニタツヤ",
+  "collection": "【歌切】[2026-05-28]唱歌聊天 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1daVs6eE2r?p=8",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "悪魔の踊り方",
+  "artist": "キタニタツヤ",
+  "collection": "【歌切】[2026-05-28]唱歌聊天 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1daVs6eE2r?p=9",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "偽物人間40号",
+  "artist": "¿?",
+  "collection": "【歌切】[2026-05-28]唱歌聊天 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1daVs6eE2r?p=10",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "KING",
+  "artist": "Kanaria",
+  "collection": "【歌切】[2026-05-28]唱歌聊天 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1daVs6eE2r?p=11",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "神っぽいな",
+  "artist": "ピノキオピー",
+  "collection": "【歌切】[2026-05-28]唱歌聊天 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1daVs6eE2r?p=12",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "マーシャル・マキシマイザー",
+  "artist": "柊マグネタイト",
+  "collection": "【歌切】[2026-05-28]唱歌聊天 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1daVs6eE2r?p=13",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "何度でも",
+  "artist": "DREAMS COME TRUE",
+  "collection": "【歌切】[2026-05-28]唱歌聊天 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1daVs6eE2r?p=14",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "Story",
+  "artist": "AI",
+  "collection": "【歌切】[2026-05-28]唱歌聊天 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1daVs6eE2r?p=15",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ギブス",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-05-28]唱歌聊天 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1daVs6eE2r?p=16",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "本能",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-05-28]唱歌聊天 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1daVs6eE2r?p=17",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "丸の内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-05-28]唱歌聊天 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1daVs6eE2r?p=18",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "会いたくて会いたくて",
+  "artist": "西野カナ",
+  "collection": "【歌切】[2026-05-28]唱歌聊天 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1daVs6eE2r?p=19",
   "source": "nanashirikka.js"
 }
 );

@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 5/28/2026, 9:21:20 PM
+// 生成时间: 5/28/2026, 10:03:18 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -12811,6 +12811,94 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-05-25 炭酸水🥤｡oO Vsinger 0ckNbhHngQc 感谢Ch订阅者突破7,000人🫧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LgVc6aEgN?p=31",
+  "source": "others.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "歌切 2026-05-28 鷲羽アスカ 8_rR4hMxknQ 睡眠导入钢琴限定歌回💫来一首怎么样？┊欢迎初见观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ReVs6AEmk?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-05-28 鷲羽アスカ 8_rR4hMxknQ 睡眠导入钢琴限定歌回💫来一首怎么样？┊欢迎初见观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ReVs6AEmk?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "シンデレラボーイ",
+  "artist": "Saucy Dog",
+  "collection": "歌切 2026-05-28 鷲羽アスカ 8_rR4hMxknQ 睡眠导入钢琴限定歌回💫来一首怎么样？┊欢迎初见观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ReVs6AEmk?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-05-28 鷲羽アスカ 8_rR4hMxknQ 睡眠导入钢琴限定歌回💫来一首怎么样？┊欢迎初见观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ReVs6AEmk?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "ダーリン",
+  "artist": "須田景凪",
+  "collection": "歌切 2026-05-28 鷲羽アスカ 8_rR4hMxknQ 睡眠导入钢琴限定歌回💫来一首怎么样？┊欢迎初见观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ReVs6AEmk?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "ダーリン",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "歌切 2026-05-28 鷲羽アスカ 8_rR4hMxknQ 睡眠导入钢琴限定歌回💫来一首怎么样？┊欢迎初见观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ReVs6AEmk?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "美しい鰭",
+  "artist": "スピッツ",
+  "collection": "歌切 2026-05-28 鷲羽アスカ 8_rR4hMxknQ 睡眠导入钢琴限定歌回💫来一首怎么样？┊欢迎初见观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ReVs6AEmk?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "サリシノハラ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "歌切 2026-05-28 鷲羽アスカ 8_rR4hMxknQ 睡眠导入钢琴限定歌回💫来一首怎么样？┊欢迎初见观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ReVs6AEmk?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "丸の内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "歌切 2026-05-28 鷲羽アスカ 8_rR4hMxknQ 睡眠导入钢琴限定歌回💫来一首怎么样？┊欢迎初见观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ReVs6AEmk?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "罪と罰",
+  "artist": "椎名林檎",
+  "collection": "歌切 2026-05-28 鷲羽アスカ 8_rR4hMxknQ 睡眠导入钢琴限定歌回💫来一首怎么样？┊欢迎初见观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ReVs6AEmk?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "歌切 2026-05-28 鷲羽アスカ 8_rR4hMxknQ 睡眠导入钢琴限定歌回💫来一首怎么样？┊欢迎初见观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ReVs6AEmk?p=11",
   "source": "others.js"
 },
     {
