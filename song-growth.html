@@ -1362,7 +1362,11 @@
     function scheduleGrowthDetailHide(delay = 180) {
       if (detailPinned) return;
       clearTimeout(detailHideTimer);
-      detailHideTimer = setTimeout(hideGrowthDetail, delay);
+      detailHideTimer = setTimeout(() => {
+        const hoveredTrigger = document.querySelector('[data-growth-detail-date]:hover');
+        if (hoveredTrigger && hoveredTrigger === activeDetailTrigger) return;
+        hideGrowthDetail();
+      }, delay);
     }
 
     function updateSummary() {
