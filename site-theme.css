@@ -3465,3 +3465,104 @@ body.culua-shell-stats .perf-grid-small .perf-link-small:hover {
     max-height: min(70vh, 520px);
   }
 }
+
+/* Feedback fb20260528-164232-792:
+   keep stats H5 readable when the browser is zoomed/forced to desktop width. */
+body.culua-shell-stats .rank-title-block,
+body.culua-shell-stats .rank-artist-line,
+body.culua-shell-stats .rank-artist-line .info-chip,
+body.culua-shell-stats .song-info-left,
+body.culua-shell-stats .song-original-artist,
+body.culua-shell-stats .perf-link-body,
+body.culua-shell-stats .perf-link-small-title {
+  min-width: 0 !important;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+body.culua-shell-stats .rank-artist-line .info-chip,
+body.culua-shell-stats .song-original-artist {
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  white-space: nowrap !important;
+}
+
+body.culua-shell-stats .rank-artist-line .info-chip {
+  display: inline-block !important;
+  vertical-align: top;
+}
+
+body.culua-shell-stats .pd-widget-mounted .pd-widget-mobile-panel .pd-widget-card {
+  display: grid;
+  grid-template-rows: auto minmax(0, 1fr);
+  max-height: inherit;
+  overflow: hidden;
+}
+
+body.culua-shell-stats .pd-widget-mounted .pd-widget-mobile-panel .pd-widget-list {
+  min-height: 0;
+  max-height: min(58vh, 440px) !important;
+  padding-bottom: calc(96px + env(safe-area-inset-bottom));
+  scroll-padding-bottom: calc(96px + env(safe-area-inset-bottom));
+  overscroll-behavior: contain;
+}
+
+@supports (height: 100dvh) {
+  body.culua-shell-stats .pd-widget-mounted .pd-widget-mobile-panel {
+    max-height: min(72dvh, calc(100dvh - 112px - env(safe-area-inset-bottom))) !important;
+  }
+
+  body.culua-shell-stats .pd-widget-mounted .pd-widget-mobile-panel .pd-widget-list {
+    max-height: min(58dvh, calc(100dvh - 210px - env(safe-area-inset-bottom))) !important;
+  }
+}
+
+@media (min-width: 680px) and (max-width: 767px) {
+  body.culua-shell-stats #rank-list,
+  body.culua-shell-stats #vtuber-source-list,
+  body.culua-shell-stats #artist-list {
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)) !important;
+    align-items: start !important;
+    gap: 10px !important;
+  }
+
+  body.culua-shell-stats .group-header {
+    position: static !important;
+    display: grid !important;
+    grid-template-columns: minmax(0, 1fr) !important;
+    min-height: 0 !important;
+    padding: 10px !important;
+    gap: 8px !important;
+  }
+
+  body.culua-shell-stats .group-header-actions {
+    position: static !important;
+    width: auto !important;
+    justify-items: start !important;
+  }
+
+  body.culua-shell-stats .group-count,
+  body.culua-shell-stats .group-header .action-row {
+    justify-content: flex-start !important;
+    max-width: 100% !important;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1279px) {
+  body.culua-shell-stats #rank-list,
+  body.culua-shell-stats #vtuber-source-list,
+  body.culua-shell-stats #artist-list {
+    grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)) !important;
+    align-items: start !important;
+    gap: 12px !important;
+  }
+
+  body.culua-shell-stats .overview-grid {
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)) !important;
+  }
+
+  body.culua-shell-stats .perf-grid,
+  body.culua-shell-stats .perf-grid-small {
+    grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)) !important;
+  }
+}
