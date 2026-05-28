@@ -525,6 +525,12 @@
       gap: 8px;
       flex-wrap: wrap;
     }
+    .pager-pages {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
     .pager-btn {
       padding: 6px 10px;
       min-height: 34px;
@@ -532,6 +538,20 @@
       background: #fff;
       border-radius: 8px;
       cursor: pointer;
+    }
+    .pager-btn.is-page {
+      min-width: 34px;
+      padding: 6px 9px;
+    }
+    .pager-btn.active {
+      background: #0f766e;
+      border-color: #0f766e;
+      color: #fff;
+    }
+    .pager-ellipsis {
+      color: #94a3b8;
+      font-weight: 700;
+      padding: 0 2px;
     }
     .pager-btn:disabled {
       opacity: .45;
@@ -573,6 +593,121 @@
       pointer-events: auto;
       transform: translateY(0);
     }
+    .growth-detail-trigger,
+    .growth-detail-link {
+      cursor: pointer;
+      text-decoration: underline;
+      text-decoration-style: dotted;
+      text-underline-offset: 4px;
+    }
+    .growth-detail-trigger.is-empty,
+    .growth-detail-link.is-empty {
+      cursor: default;
+      text-decoration: none;
+    }
+    .growth-detail-link {
+      border: 0;
+      background: transparent;
+      padding: 0;
+      color: #0f766e;
+      font: inherit;
+      font-weight: 700;
+    }
+    .growth-detail-popover {
+      position: fixed;
+      z-index: 4200;
+      width: min(420px, calc(100vw - 24px));
+      max-height: min(520px, calc(100vh - 24px));
+      overflow: auto;
+      border: 1px solid #d8e2ee;
+      border-radius: 14px;
+      background: #fff;
+      box-shadow: 0 18px 48px rgba(15, 23, 42, .18);
+      padding: 12px;
+    }
+    .growth-detail-popover[hidden] { display: none }
+    .growth-detail-head {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+    .growth-detail-title {
+      font-weight: 800;
+      color: #0f172a;
+      line-height: 1.35;
+    }
+    .growth-detail-sub {
+      color: #64748b;
+      font-size: 12px;
+      margin-top: 2px;
+    }
+    .growth-detail-close {
+      border: 1px solid #d8e2ee;
+      background: #fff;
+      border-radius: 8px;
+      width: 30px;
+      height: 30px;
+      cursor: pointer;
+      font-size: 16px;
+      line-height: 1;
+    }
+    .growth-detail-list {
+      display: grid;
+      gap: 8px;
+    }
+    .growth-detail-item {
+      display: grid;
+      grid-template-columns: 82px minmax(0, 1fr);
+      gap: 10px;
+      align-items: center;
+      padding: 8px;
+      border: 1px solid #edf2f7;
+      border-radius: 10px;
+      background: #fbfdff;
+      color: inherit;
+      text-decoration: none;
+    }
+    .growth-detail-cover {
+      width: 82px;
+      aspect-ratio: 16 / 9;
+      border-radius: 8px;
+      object-fit: cover;
+      background: #e2e8f0;
+    }
+    .growth-detail-cover-fallback {
+      display: grid;
+      place-items: center;
+      color: #64748b;
+      font-size: 12px;
+      font-weight: 700;
+    }
+    .growth-detail-name {
+      color: #0f172a;
+      font-weight: 800;
+      line-height: 1.35;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .growth-detail-meta {
+      color: #475569;
+      font-size: 12px;
+      margin-top: 4px;
+      line-height: 1.45;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .growth-detail-more,
+    .growth-detail-empty {
+      color: #64748b;
+      font-size: 13px;
+      padding: 8px 2px 2px;
+    }
     @media (max-width: 980px) {
       body { padding: 16px 12px }
       .summary-board { grid-template-columns: 1fr }
@@ -601,8 +736,13 @@
       .unique-chart-stats { justify-content: stretch }
       .unique-stat { flex: 1 1 calc(50% - 8px); min-width: 0 }
       .pager-controls { width: 100% }
+      .pager-pages { order: 3; flex: 1 1 100%; justify-content: center }
       .pager-btn { flex: 1 1 auto; min-height: 40px }
+      .pager-btn.is-page { flex: 0 0 auto; min-width: 38px }
       .pager-input { flex: 0 0 78px; min-height: 40px }
+      .growth-detail-popover { width: calc(100vw - 20px); max-height: 70vh }
+      .growth-detail-item { grid-template-columns: 96px minmax(0, 1fr) }
+      .growth-detail-cover { width: 96px }
     }
   </style>
 </head>
@@ -645,8 +785,8 @@
         <h3>当日总量</h3>
         <div class="kpis">
           <div class="kpi"><div class="label">当日播放量</div><div class="value" id="kpiDailyViews">-</div></div>
-          <div class="kpi"><div class="label">当日曲目增量</div><div class="value" id="kpiDailySongs">-</div></div>
-          <div class="kpi"><div class="label">当日去重增量</div><div class="value" id="kpiDailyUniqueSongs">-</div></div>
+          <div class="kpi"><div class="label">当日曲目增量</div><div class="value growth-detail-trigger" id="kpiDailySongs" data-growth-detail-type="songs" tabindex="0">-</div></div>
+          <div class="kpi"><div class="label">当日去重增量</div><div class="value growth-detail-trigger" id="kpiDailyUniqueSongs" data-growth-detail-type="unique" tabindex="0">-</div></div>
           <div class="kpi"><div class="label">当日每曲播放</div><div class="value" id="kpiDailyRatio">-</div></div>
           <div class="kpi"><div class="label">最新日期</div><div class="value" id="kpiLatestDate">-</div></div>
         </div>
@@ -755,6 +895,7 @@
       <div class="info" id="pagerInfo"></div>
       <div class="pager-controls">
         <button class="pager-btn" id="prevPageBtn">上一页</button>
+        <div class="pager-pages" id="pagerPages" aria-label="快速页码"></div>
         <button class="pager-btn" id="nextPageBtn">下一页</button>
         <input class="pager-input" id="pageInput" type="number" min="1" step="1" placeholder="页码" />
         <button class="pager-btn" id="goPageBtn">跳转</button>
@@ -764,6 +905,7 @@
 
   <button class="back-top" id="backTopBtn" type="button" aria-label="回到顶部">↑</button>
   <div class="copy-toast" id="copyToast">已复制</div>
+  <div class="growth-detail-popover" id="growthDetailPopover" role="tooltip" hidden></div>
     </main>
   </div>
 
@@ -783,6 +925,7 @@
     const pagerInfo = document.getElementById('pagerInfo');
     const prevPageBtn = document.getElementById('prevPageBtn');
     const nextPageBtn = document.getElementById('nextPageBtn');
+    const pagerPages = document.getElementById('pagerPages');
     const pageInput = document.getElementById('pageInput');
     const goPageBtn = document.getElementById('goPageBtn');
     const analysisTitle = document.getElementById('analysisTitle');
@@ -792,6 +935,7 @@
     const copyGrowthSummaryBtn = document.getElementById('copyGrowthSummaryBtn');
     const copyGrowthTableBtn = document.getElementById('copyGrowthTableBtn');
     const copyToast = document.getElementById('copyToast');
+    const growthDetailPopover = document.getElementById('growthDetailPopover');
 
     const growthData = { rows: [], sourceUniqueRows: [], sourceRows: [] };
     let currentRange = '30';
@@ -801,6 +945,10 @@
     let currentPage = 1;
     const pageSize = 30;
     let chartState = null;
+    const growthDetailCache = new Map();
+    let detailHideTimer = null;
+    let detailShowTimer = null;
+    let activeDetailTrigger = null;
 
     function numberText(value) {
       return Number(value || 0).toLocaleString('zh-CN');
@@ -1044,6 +1192,175 @@
       };
     }
 
+    function growthDetailLabel(type) {
+      return type === 'unique' ? '当日去重增量' : '当日曲目增量';
+    }
+
+    function setGrowthDetailTarget(el, row, type) {
+      if (!el) return;
+      const count = parseNumber(type === 'unique' ? row?.uniqueSongDelta : row?.songDelta);
+      const enabled = row?.date && count > 0;
+      el.dataset.growthDetailType = type;
+      el.dataset.growthDetailSource = currentUniqueSource || 'all';
+      el.dataset.growthDetailDate = enabled ? row.date : '';
+      el.dataset.growthDetailCount = String(count);
+      el.classList.toggle('is-empty', !enabled);
+      el.setAttribute('aria-label', enabled
+        ? `${row.date} ${growthDetailLabel(type)} ${numberText(count)}，悬停或点击查看歌曲`
+        : `${growthDetailLabel(type)}暂无新增`);
+      el.setAttribute('title', enabled ? '悬停或点击查看新增歌曲' : '暂无新增歌曲');
+    }
+
+    function renderGrowthDetailCount(row, type) {
+      const count = parseNumber(type === 'unique' ? row?.uniqueSongDelta : row?.songDelta);
+      const text = numberText(count);
+      if (!row?.date || count <= 0) {
+        return `<span class="growth-detail-link is-empty">${text}</span>`;
+      }
+      return `<button type="button" class="growth-detail-link"
+        data-growth-detail-type="${escapeHtml(type)}"
+        data-growth-detail-source="${escapeHtml(currentUniqueSource || 'all')}"
+        data-growth-detail-date="${escapeHtml(row.date)}"
+        data-growth-detail-count="${escapeHtml(count)}"
+        aria-label="${escapeHtml(`${row.date} ${growthDetailLabel(type)} ${text}，查看歌曲`)}">${text}</button>`;
+    }
+
+    function getGrowthDetailKey(source, date, type) {
+      return `${source || 'all'}|${date || ''}|${type || 'songs'}`;
+    }
+
+    async function fetchGrowthDetails(source, date, type) {
+      const key = getGrowthDetailKey(source, date, type);
+      if (growthDetailCache.has(key)) return growthDetailCache.get(key);
+      const params = new URLSearchParams({
+        source: source || 'all',
+        date: date || '',
+        type: type || 'songs',
+        limit: '40'
+      });
+      const res = await fetch(`/api/song-growth/details?${params}`);
+      if (!res.ok) throw new Error(`API 状态码 ${res.status}`);
+      const payload = await res.json();
+      growthDetailCache.set(key, payload);
+      return payload;
+    }
+
+    function detailCoverHtml(item) {
+      if (item?.cover) {
+        return `<img class="growth-detail-cover" src="${escapeHtml(item.cover)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">`;
+      }
+      return `<div class="growth-detail-cover growth-detail-cover-fallback">NO IMG</div>`;
+    }
+
+    function renderGrowthDetailItems(payload) {
+      const items = Array.isArray(payload?.items) ? payload.items : [];
+      if (!items.length) return '<div class="growth-detail-empty">没有可展示的歌曲。</div>';
+      const list = items.map(item => {
+        const title = item?.title || '未知歌曲';
+        const artist = item?.artist || item?.originalArtist || '未知歌手';
+        const metaParts = [
+          artist,
+          item?.sourceAlias || '',
+          item?.bvid || ''
+        ].filter(Boolean);
+        const uniqueMeta = payload.type === 'unique' && Number(item?.performanceCount || 0) > 1
+          ? ` · 收录 ${numberText(item.performanceCount)} 次`
+          : '';
+        const body = `
+          ${detailCoverHtml(item)}
+          <div>
+            <div class="growth-detail-name">${escapeHtml(title)}</div>
+            <div class="growth-detail-meta">${escapeHtml(metaParts.join(' · '))}${escapeHtml(uniqueMeta)}</div>
+            ${item?.collection ? `<div class="growth-detail-meta">${escapeHtml(item.collection)}</div>` : ''}
+          </div>
+        `;
+        return item?.link
+          ? `<a class="growth-detail-item" href="${escapeHtml(item.link)}" target="_blank" rel="noopener noreferrer">${body}</a>`
+          : `<div class="growth-detail-item">${body}</div>`;
+      }).join('');
+      const more = payload.hasMore
+        ? `<div class="growth-detail-more">还有 ${numberText(parseNumber(payload.total) - items.length)} 条未展示，可到表格或搜索页继续查看。</div>`
+        : '';
+      return `<div class="growth-detail-list">${list}</div>${more}`;
+    }
+
+    function positionGrowthDetailPopover(trigger) {
+      const rect = trigger.getBoundingClientRect();
+      const popRect = growthDetailPopover.getBoundingClientRect();
+      const margin = 10;
+      let left = Math.min(window.innerWidth - popRect.width - margin, Math.max(margin, rect.left));
+      let top = rect.bottom + 8;
+      if (top + popRect.height > window.innerHeight - margin) {
+        top = Math.max(margin, rect.top - popRect.height - 8);
+      }
+      growthDetailPopover.style.left = `${left}px`;
+      growthDetailPopover.style.top = `${top}px`;
+    }
+
+    function renderGrowthDetailShell(trigger, stateText = '加载中…') {
+      const type = trigger.dataset.growthDetailType || 'songs';
+      const date = trigger.dataset.growthDetailDate || '';
+      const count = trigger.dataset.growthDetailCount || '0';
+      growthDetailPopover.innerHTML = `
+        <div class="growth-detail-head">
+          <div>
+            <div class="growth-detail-title">${escapeHtml(date)} · ${escapeHtml(growthDetailLabel(type))} ${escapeHtml(numberText(count))}</div>
+            <div class="growth-detail-sub">${escapeHtml(getSourceLabel())}</div>
+          </div>
+          <button type="button" class="growth-detail-close" data-growth-detail-close aria-label="关闭">×</button>
+        </div>
+        <div class="growth-detail-empty">${escapeHtml(stateText)}</div>
+      `;
+      growthDetailPopover.hidden = false;
+      positionGrowthDetailPopover(trigger);
+    }
+
+    async function showGrowthDetail(trigger) {
+      if (!trigger || trigger.classList.contains('is-empty')) return;
+      const date = trigger.dataset.growthDetailDate || '';
+      const type = trigger.dataset.growthDetailType || 'songs';
+      const source = trigger.dataset.growthDetailSource || currentUniqueSource || 'all';
+      if (!date) return;
+      activeDetailTrigger = trigger;
+      renderGrowthDetailShell(trigger);
+      try {
+        const payload = await fetchGrowthDetails(source, date, type);
+        if (activeDetailTrigger !== trigger) return;
+        growthDetailPopover.innerHTML = `
+          <div class="growth-detail-head">
+            <div>
+              <div class="growth-detail-title">${escapeHtml(payload.date)} · ${escapeHtml(growthDetailLabel(payload.type))} ${numberText(payload.total)}</div>
+              <div class="growth-detail-sub">${escapeHtml(payload.sourceAlias || getSourceLabel())}</div>
+            </div>
+            <button type="button" class="growth-detail-close" data-growth-detail-close aria-label="关闭">×</button>
+          </div>
+          ${renderGrowthDetailItems(payload)}
+        `;
+        growthDetailPopover.hidden = false;
+        positionGrowthDetailPopover(trigger);
+      } catch (error) {
+        if (activeDetailTrigger !== trigger) return;
+        renderGrowthDetailShell(trigger, '明细加载失败，请稍后重试。');
+      }
+    }
+
+    function scheduleGrowthDetailShow(trigger, delay = 180) {
+      clearTimeout(detailShowTimer);
+      detailShowTimer = setTimeout(() => showGrowthDetail(trigger), delay);
+    }
+
+    function hideGrowthDetail() {
+      clearTimeout(detailShowTimer);
+      clearTimeout(detailHideTimer);
+      activeDetailTrigger = null;
+      growthDetailPopover.hidden = true;
+    }
+
+    function scheduleGrowthDetailHide(delay = 180) {
+      clearTimeout(detailHideTimer);
+      detailHideTimer = setTimeout(hideGrowthDetail, delay);
+    }
+
     function updateSummary() {
       const rows = getActiveGrowthRows();
       const last = rows[rows.length - 1];
@@ -1060,6 +1377,8 @@
       document.getElementById('kpiDailyRatio').textContent = last ? ratioText(ratioValue(last.viewDelta, last.songDelta)) : '-';
       document.getElementById('kpiLatestDate').textContent = last ? last.date : '-';
       document.getElementById('kpiDays').textContent = String(rows.length || 0);
+      setGrowthDetailTarget(document.getElementById('kpiDailySongs'), last, 'songs');
+      setGrowthDetailTarget(document.getElementById('kpiDailyUniqueSongs'), last, 'unique');
     }
 
     function average(values) {
@@ -1563,18 +1882,51 @@
           <td>${numberText(row.uniqueSongTotal)}</td>
           <td>${ratioText(ratioValue(row.viewTotal, row.songTotal))}</td>
           <td>${numberText(row.viewDelta)}</td>
-          <td>${numberText(row.songDelta)}</td>
-          <td>${numberText(row.uniqueSongDelta)}</td>
+          <td>${renderGrowthDetailCount(row, 'songs')}</td>
+          <td>${renderGrowthDetailCount(row, 'unique')}</td>
           <td>${ratioText(ratioValue(row.viewDelta, row.songDelta))}</td>
         </tr>`;
       }).join('');
 
       pagerInfo.textContent = `日期增长明细：第 ${currentPage} / ${totalPages} 页，共 ${rows.length} 条`;
+      renderPagerPages(totalPages);
       pageInput.value = String(currentPage);
       pageInput.max = String(totalPages);
       prevPageBtn.disabled = currentPage <= 1;
       nextPageBtn.disabled = currentPage >= totalPages;
       goPageBtn.disabled = totalPages <= 1;
+    }
+
+    function buildPageWindow(current, total, radius = 5) {
+      const pages = [];
+      const add = value => {
+        if (!pages.includes(value)) pages.push(value);
+      };
+      add(1);
+      for (let page = Math.max(1, current - radius); page <= Math.min(total, current + radius); page += 1) {
+        add(page);
+      }
+      add(total);
+      return pages
+        .sort((a, b) => a - b)
+        .reduce((acc, page, index, list) => {
+          if (index > 0 && page - list[index - 1] > 1) acc.push('…');
+          acc.push(page);
+          return acc;
+        }, []);
+    }
+
+    function renderPagerPages(totalPages) {
+      if (!pagerPages) return;
+      if (totalPages <= 1) {
+        pagerPages.innerHTML = '';
+        return;
+      }
+      pagerPages.innerHTML = buildPageWindow(currentPage, totalPages, 5).map(page => {
+        if (page === '…') return '<span class="pager-ellipsis">…</span>';
+        const active = page === currentPage ? ' active' : '';
+        return `<button type="button" class="pager-btn is-page${active}" data-page="${page}" aria-label="第 ${page} 页">${page}</button>`;
+      }).join('');
     }
 
     function showCopyToast(text = '已复制') {
@@ -1759,17 +2111,59 @@
         closeUniqueSourceMenu();
       });
       document.addEventListener('keydown', event => {
-        if (event.key === 'Escape') closeUniqueSourceMenu();
+        if (event.key === 'Escape') {
+          closeUniqueSourceMenu();
+          hideGrowthDetail();
+        }
       });
 
       prevPageBtn.addEventListener('click', () => goToPage(currentPage - 1));
       nextPageBtn.addEventListener('click', () => goToPage(currentPage + 1));
+      pagerPages?.addEventListener('click', event => {
+        const btn = event.target.closest('[data-page]');
+        if (!btn) return;
+        goToPage(btn.dataset.page);
+      });
       goPageBtn.addEventListener('click', () => goToPage(pageInput.value));
       pageInput.addEventListener('keydown', event => {
         if (event.key === 'Enter') goToPage(pageInput.value);
       });
       copyGrowthSummaryBtn.addEventListener('click', () => writeClipboard(buildGrowthSummaryText()));
       copyGrowthTableBtn.addEventListener('click', () => writeClipboard(buildGrowthTableText()));
+
+      document.addEventListener('mouseover', event => {
+        const trigger = event.target.closest('[data-growth-detail-date]');
+        if (!trigger || trigger.classList.contains('is-empty')) return;
+        scheduleGrowthDetailShow(trigger);
+      });
+      document.addEventListener('mouseout', event => {
+        const trigger = event.target.closest('[data-growth-detail-date]');
+        if (!trigger) return;
+        if (growthDetailPopover.contains(event.relatedTarget)) return;
+        scheduleGrowthDetailHide();
+      });
+      document.addEventListener('focusin', event => {
+        const trigger = event.target.closest('[data-growth-detail-date]');
+        if (trigger && !trigger.classList.contains('is-empty')) showGrowthDetail(trigger);
+      });
+      document.addEventListener('click', event => {
+        const close = event.target.closest('[data-growth-detail-close]');
+        if (close) {
+          hideGrowthDetail();
+          return;
+        }
+        const trigger = event.target.closest('[data-growth-detail-date]');
+        if (trigger && !trigger.classList.contains('is-empty')) {
+          event.preventDefault();
+          showGrowthDetail(trigger);
+          return;
+        }
+        if (!growthDetailPopover.hidden && !growthDetailPopover.contains(event.target)) {
+          hideGrowthDetail();
+        }
+      });
+      growthDetailPopover.addEventListener('mouseenter', () => clearTimeout(detailHideTimer));
+      growthDetailPopover.addEventListener('mouseleave', () => scheduleGrowthDetailHide());
 
       chartCanvas.addEventListener('mouseleave', hideTooltip);
       chartCanvas.addEventListener('mousemove', event => {

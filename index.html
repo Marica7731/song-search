@@ -539,6 +539,23 @@
       min-width: 74px;
     }
 
+    .pagination .page-number-btn {
+      min-width: 36px;
+      padding-inline: 10px;
+    }
+
+    .pagination .page-number-btn.active {
+      background: var(--primary);
+      border-color: var(--primary);
+      color: #fff;
+    }
+
+    .pagination .page-ellipsis {
+      color: var(--muted);
+      font-weight: 800;
+      padding: 0 2px;
+    }
+
     .page-label {
       color: var(--muted);
       font-weight: 700;
@@ -1530,6 +1547,11 @@
         min-width: 0;
       }
 
+      .pagination .page-number-btn {
+        flex: 0 0 auto;
+        min-width: 36px;
+      }
+
       .page-label {
         flex: 0 0 100%;
         order: -1;
@@ -2345,11 +2367,35 @@
       const el = $('#pagination');
       const page = Number(state.page || 1);
       const totalPages = Math.max(1, Number(state.totalPages || 1));
+      const pages = buildPageWindow(page, totalPages, 5);
       el.innerHTML = `
         <button class="btn" data-page="${Math.max(1, page - 1)}" ${page <= 1 ? 'disabled' : ''}>上一页</button>
+        ${pages.map(item => item === '…'
+          ? '<span class="page-ellipsis">…</span>'
+          : `<button class="btn page-number-btn ${item === page ? 'active' : ''}" data-page="${item}" aria-label="第 ${item} 页">${formatNumber(item)}</button>`
+        ).join('')}
         <span class="page-label">${formatNumber(page)} / ${formatNumber(totalPages)}</span>
         <button class="btn" data-page="${Math.min(totalPages, page + 1)}" ${page >= totalPages ? 'disabled' : ''}>下一页</button>
       `;
+    }
+
+    function buildPageWindow(current, total, radius = 5) {
+      const pages = [];
+      const add = value => {
+        if (!pages.includes(value)) pages.push(value);
+      };
+      add(1);
+      for (let page = Math.max(1, current - radius); page <= Math.min(total, current + radius); page += 1) {
+        add(page);
+      }
+      add(total);
+      return pages
+        .sort((a, b) => a - b)
+        .reduce((acc, page, index, list) => {
+          if (index > 0 && page - list[index - 1] > 1) acc.push('…');
+          acc.push(page);
+          return acc;
+        }, []);
     }
 
     function syncUrl() {

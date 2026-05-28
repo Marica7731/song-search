@@ -691,6 +691,110 @@ function buildPublishGrowthRows(songs) {
     });
 }
 
+function getGrowthSongDate(song) {
+  const pubdate = Number(song?.pubdate || 0);
+  return pubdate ? formatShanghaiDate(pubdate * 1000) : '';
+}
+
+function summarizeGrowthDetailSong(song, extra = {}) {
+  return {
+    title: song?.title || '未知歌曲',
+    artist: song?.artist || song?.originalArtist || '',
+    originalArtist: song?.originalArtist || '',
+    collection: song?.collection || '',
+    link: song?.link || '',
+    bvid: getExportBvid(song),
+    source: song?.source || '',
+    sourceAlias: getExportSourceName(song),
+    cover: song?.cover || '',
+    pubdate: Number(song?.pubdate || 0),
+    viewCount: Number(song?.viewCount || 0),
+    ...extra
+  };
+}
+
+function buildGrowthUniqueDetailSongs(songs, targetDate) {
+  const items = [];
+  const titleGroup = new Map();
+  (Array.isArray(songs) ? songs : []).forEach(song => {
+    const titleKey = normalizeString(song?.title || '未知歌曲');
+    if (!titleGroup.has(titleKey)) titleGroup.set(titleKey, []);
+    titleGroup.get(titleKey).push(song);
+  });
+
+  titleGroup.forEach(group => {
+    const clusters = [];
+    group.forEach(currentSong => {
+      const existing = clusters.find(cluster => isSameSong(currentSong, cluster.representative, isValidArtist));
+      if (existing) {
+        existing.songs.push(currentSong);
+        return;
+      }
+      clusters.push({ representative: currentSong, songs: [currentSong] });
+    });
+
+    clusters.forEach(cluster => {
+      const sorted = cluster.songs
+        .filter(song => Number(song?.pubdate || 0) > 0)
+        .sort((a, b) => Number(a.pubdate || 0) - Number(b.pubdate || 0));
+      const first = sorted[0] || cluster.representative;
+      if (!first || getGrowthSongDate(first) !== targetDate) return;
+      const sourceSet = new Set(cluster.songs.map(song => getExportSourceName(song)).filter(Boolean));
+      const coverSong = sorted.find(song => song.cover) || first;
+      items.push(summarizeGrowthDetailSong(coverSong, {
+        title: first.title || coverSong.title || '未知歌曲',
+        artist: first.artist || first.originalArtist || coverSong.artist || coverSong.originalArtist || '',
+        originalArtist: first.originalArtist || coverSong.originalArtist || '',
+        collection: first.collection || coverSong.collection || '',
+        link: first.link || coverSong.link || '',
+        bvid: getExportBvid(first) || getExportBvid(coverSong),
+        pubdate: Number(first.pubdate || coverSong.pubdate || 0),
+        performanceCount: cluster.songs.length,
+        sourceCount: sourceSet.size || 1,
+        sources: Array.from(sourceSet).slice(0, 6)
+      }));
+    });
+  });
+
+  return items.sort((a, b) => {
+    if (b.pubdate !== a.pubdate) return b.pubdate - a.pubdate;
+    return String(a.title || '').localeCompare(String(b.title || ''), 'zh-Hans');
+  });
+}
+
+function buildGrowthDetailPayload(reqUrl) {
+  const source = reqUrl.searchParams.get('source') || 'all';
+  const date = String(reqUrl.searchParams.get('date') || '').trim();
+  const type = reqUrl.searchParams.get('type') === 'unique' ? 'unique' : 'songs';
+  const limit = Math.max(1, Math.min(120, Number(reqUrl.searchParams.get('limit') || '60')));
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) {
+    const error = new Error('Invalid growth detail date');
+    error.statusCode = 400;
+    throw error;
+  }
+
+  const sourceSongs = source === 'all'
+    ? store.songs
+    : (store.sourceSongMap.get(source) || []);
+  const allItems = type === 'unique'
+    ? buildGrowthUniqueDetailSongs(sourceSongs, date)
+    : sourceSongs
+      .filter(song => getGrowthSongDate(song) === date)
+      .sort((a, b) => Number(b?.pubdate || 0) - Number(a?.pubdate || 0))
+      .map(song => summarizeGrowthDetailSong(song));
+  const items = allItems.slice(0, limit);
+  return {
+    source,
+    sourceAlias: source === 'all' ? '全部来源' : getSourceAlias(source),
+    date,
+    type,
+    total: allItems.length,
+    limit,
+    hasMore: allItems.length > items.length,
+    items
+  };
+}
+
 function buildPublishUniqueRows(songs) {
   const byDate = new Map();
   const titleGroup = new Map();
@@ -2431,6 +2535,14 @@ function handleSongGrowth(res) {
   }
 }
 
+function handleSongGrowthDetails(reqUrl, res) {
+  try {
+    sendJson(res, 200, buildGrowthDetailPayload(reqUrl));
+  } catch (error) {
+    sendJson(res, error.statusCode || 500, { error: error.message || 'Failed to build growth details' });
+  }
+}
+
 function getTopSourceStats(limit = 6) {
   return store.files
     .map(file => ({
@@ -3295,6 +3407,10 @@ const server = http.createServer(async (req, res) => {
   }
   if (reqUrl.pathname === '/api/song-growth') {
     handleSongGrowth(res);
+    return;
+  }
+  if (reqUrl.pathname === '/api/song-growth/details') {
+    handleSongGrowthDetails(reqUrl, res);
     return;
   }
   if (reqUrl.pathname === '/api/tabs/overview') {
