@@ -949,6 +949,7 @@
     let detailHideTimer = null;
     let detailShowTimer = null;
     let activeDetailTrigger = null;
+    let detailPinned = false;
 
     function numberText(value) {
       return Number(value || 0).toLocaleString('zh-CN');
@@ -1345,6 +1346,7 @@
     }
 
     function scheduleGrowthDetailShow(trigger, delay = 180) {
+      detailPinned = false;
       clearTimeout(detailShowTimer);
       detailShowTimer = setTimeout(() => showGrowthDetail(trigger), delay);
     }
@@ -1353,10 +1355,12 @@
       clearTimeout(detailShowTimer);
       clearTimeout(detailHideTimer);
       activeDetailTrigger = null;
+      detailPinned = false;
       growthDetailPopover.hidden = true;
     }
 
     function scheduleGrowthDetailHide(delay = 180) {
+      if (detailPinned) return;
       clearTimeout(detailHideTimer);
       detailHideTimer = setTimeout(hideGrowthDetail, delay);
     }
@@ -2155,6 +2159,8 @@
         const trigger = event.target.closest('[data-growth-detail-date]');
         if (trigger && !trigger.classList.contains('is-empty')) {
           event.preventDefault();
+          detailPinned = true;
+          clearTimeout(detailHideTimer);
           showGrowthDetail(trigger);
           return;
         }
