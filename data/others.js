@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 5/29/2026, 7:12:26 PM
+// 生成时间: 5/29/2026, 7:54:36 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -12899,6 +12899,190 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-05-28 鷲羽アスカ 8_rR4hMxknQ 睡眠导入钢琴限定歌回💫来一首怎么样？┊欢迎初见观众",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ReVs6AEmk?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "なとり",
+  "collection": "歌切 2026-05-13 Ruka Ch 雨海ルカ nPBPV9u8B58 点歌歌回◎ 降雨预报！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVVe6BE16?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "ギブス",
+  "artist": "椎名林檎",
+  "collection": "歌切 2026-05-13 Ruka Ch 雨海ルカ nPBPV9u8B58 点歌歌回◎ 降雨预报！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVVe6BE16?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "泥中に咲く",
+  "artist": "ウォルピスカーター",
+  "collection": "歌切 2026-05-13 Ruka Ch 雨海ルカ nPBPV9u8B58 点歌歌回◎ 降雨预报！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVVe6BE16?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "右肩の蝶",
+  "artist": "のりP",
+  "collection": "歌切 2026-05-13 Ruka Ch 雨海ルカ nPBPV9u8B58 点歌歌回◎ 降雨预报！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVVe6BE16?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "歌切 2026-05-13 Ruka Ch 雨海ルカ nPBPV9u8B58 点歌歌回◎ 降雨预报！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVVe6BE16?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "GLAMOROUS SKY",
+  "artist": "NANA starring MIKA NAKASHIMA",
+  "collection": "歌切 2026-05-13 Ruka Ch 雨海ルカ nPBPV9u8B58 点歌歌回◎ 降雨预报！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVVe6BE16?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "不可抗力",
+  "artist": "Vaundy",
+  "collection": "歌切 2026-05-13 Ruka Ch 雨海ルカ nPBPV9u8B58 点歌歌回◎ 降雨预报！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVVe6BE16?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "歌切 2026-05-13 Ruka Ch 雨海ルカ nPBPV9u8B58 点歌歌回◎ 降雨预报！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVVe6BE16?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "Pale Blue",
+  "artist": "米津玄師",
+  "collection": "歌切 2026-05-13 Ruka Ch 雨海ルカ nPBPV9u8B58 点歌歌回◎ 降雨预报！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVVe6BE16?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "vivi",
+  "artist": "米津玄師",
+  "collection": "歌切 2026-05-13 Ruka Ch 雨海ルカ nPBPV9u8B58 点歌歌回◎ 降雨预报！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVVe6BE16?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "歌切 2026-05-13 Ruka Ch 雨海ルカ nPBPV9u8B58 点歌歌回◎ 降雨预报！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVVe6BE16?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "歌切 2026-05-13 Ruka Ch 雨海ルカ nPBPV9u8B58 点歌歌回◎ 降雨预报！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVVe6BE16?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "愛を伝えたいだとか",
+  "artist": "あいみょん",
+  "collection": "歌切 2026-05-13 Ruka Ch 雨海ルカ nPBPV9u8B58 点歌歌回◎ 降雨预报！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVVe6BE16?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "花火",
+  "artist": "ちゃんみな",
+  "collection": "歌切 2026-05-13 Ruka Ch 雨海ルカ nPBPV9u8B58 点歌歌回◎ 降雨预报！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVVe6BE16?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "Blue Jeans",
+  "artist": "HANA",
+  "collection": "歌切 2026-05-13 Ruka Ch 雨海ルカ nPBPV9u8B58 点歌歌回◎ 降雨预报！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVVe6BE16?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師 ＆ 宇多田ヒカル",
+  "collection": "歌切 2026-05-13 Ruka Ch 雨海ルカ nPBPV9u8B58 点歌歌回◎ 降雨预报！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVVe6BE16?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "ルカルカ★ナイトフィーバー",
+  "artist": "samfree",
+  "collection": "歌切 2026-05-13 Ruka Ch 雨海ルカ nPBPV9u8B58 点歌歌回◎ 降雨预报！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVVe6BE16?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "Beautiful World",
+  "artist": "宇多田ヒカル",
+  "collection": "歌切 2026-05-13 Ruka Ch 雨海ルカ nPBPV9u8B58 点歌歌回◎ 降雨预报！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVVe6BE16?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "サウダージ",
+  "artist": "ポルノグラフィティ",
+  "collection": "歌切 2026-05-13 Ruka Ch 雨海ルカ nPBPV9u8B58 点歌歌回◎ 降雨预报！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVVe6BE16?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "SHIVER",
+  "artist": "The GazettE",
+  "collection": "歌切 2026-05-13 Ruka Ch 雨海ルカ nPBPV9u8B58 点歌歌回◎ 降雨预报！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVVe6BE16?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "Can You Keep A Secret？",
+  "artist": "宇多田ヒカル",
+  "collection": "歌切 2026-05-13 Ruka Ch 雨海ルカ nPBPV9u8B58 点歌歌回◎ 降雨预报！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVVe6BE16?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-05-13 Ruka Ch 雨海ルカ nPBPV9u8B58 点歌歌回◎ 降雨预报！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVVe6BE16?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-05-13 Ruka Ch 雨海ルカ nPBPV9u8B58 点歌歌回◎ 降雨预报！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yVVe6BE16?p=23",
   "source": "others.js"
 },
     {
