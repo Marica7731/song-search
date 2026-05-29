@@ -404,6 +404,10 @@
       box-shadow: 0 1px 0 rgba(15, 23, 42, 0.02);
     }
 
+    .song-row > * {
+      min-width: 0;
+    }
+
     .song-row:not(.has-cover) {
       grid-template-columns: minmax(220px, 1.35fr) minmax(150px, 0.85fr) minmax(200px, 1fr) 142px auto;
     }
@@ -484,10 +488,25 @@
       color: var(--muted);
       font-size: 12px;
       margin-top: 4px;
+      min-width: 0;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
     }
 
     .mobile-card-meta {
       display: none;
+      min-width: 0;
+    }
+
+    .mobile-meta-source,
+    .mobile-meta-chip {
+      display: block;
+      max-width: 100%;
+      min-width: 0;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
     }
 
     .row-actions {
@@ -650,6 +669,7 @@
 
     .field-copy {
       max-width: 100%;
+      min-width: 0;
       min-height: 32px;
       display: inline-flex;
       align-items: center;
@@ -715,6 +735,10 @@
 
     .meta .field-copy {
       min-height: 32px;
+      max-width: 100%;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
       padding: 0 3px;
       margin: 0 -3px;
     }
@@ -2070,7 +2094,7 @@
     function copyableField(value, label, className = '') {
       const text = String(value ?? '');
       const display = text.trim() || '-';
-      return `<button type="button" class="field-copy ${className}" data-copy-value="${escapeHtml(encodeCopyText(text))}" title="复制${escapeHtml(label)}" aria-label="复制${escapeHtml(label)}">${escapeHtml(display)}</button>`;
+      return `<button type="button" class="field-copy ${className}" data-copy-value="${escapeHtml(encodeCopyText(text))}" title="复制${escapeHtml(label)}：${escapeHtml(display)}" aria-label="复制${escapeHtml(label)}">${escapeHtml(display)}</button>`;
     }
 
     function iconSvg(name) {
@@ -2336,9 +2360,9 @@
           : '';
         const mobileMeta = [
           sourceAvatar(item.source, 'mobile-meta-avatar'),
-          `<span class="mobile-meta-source">${escapeHtml(src)}</span>`,
-          date ? `<span class="mobile-meta-chip">${escapeHtml(date)}</span>` : '',
-          bv ? `<span class="mobile-meta-chip">${escapeHtml(bv)}</span>` : ''
+          `<span class="mobile-meta-source" title="${escapeHtml(src)}">${escapeHtml(src)}</span>`,
+          date ? `<span class="mobile-meta-chip" title="${escapeHtml(date)}">${escapeHtml(date)}</span>` : '',
+          bv ? `<span class="mobile-meta-chip" title="${escapeHtml(bv)}">${escapeHtml(bv)}</span>` : ''
         ].filter(Boolean).join('');
         return `
           <article class="song-row ${cover ? 'has-cover' : ''}">
