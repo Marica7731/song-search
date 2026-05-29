@@ -147,7 +147,8 @@
       "avatarText": "來",
       "avatarUrl": "https://yt3.googleusercontent.com/GkCo40RGbeaeDZFIMIKDb7ImtmtFFSUSOUcFd2dnkcGLOnVOl7Ud-4lK__wmIwTv2uofCwN5jSA=s176-c-k-c0x00ffffff-no-rj",
       "youtubeUrl": "https://www.youtube.com/channel/UCw7iM67NS0RXhYHoxv-lpPg",
-      "accentColor": "hsl(2 55% 36%)"
+      "accentColor": "hsl(2 55% 36%)",
+      "statsAvgSortDeferred": true
     },
     "sakusan": {
       "alias": "酢酸 / SAKUSAN",
@@ -203,7 +204,8 @@
       "avatarText": "朱",
       "avatarUrl": "https://yt3.googleusercontent.com/VikhZZ6O_6N0kTMDHFHMG8VnBWg8J-fCw7L_DyICMcByEnVLAuubUjRqFu2-ktGW6nA9e06ayBo=s176-c-k-c0x00ffffff-no-rj",
       "youtubeUrl": "https://www.youtube.com/@SHUNA_MGS",
-      "accentColor": "hsl(3 55% 36%)"
+      "accentColor": "hsl(3 55% 36%)",
+      "statsAvgSortDeferred": true
     },
     "nayuta": {
       "alias": "nayuta",
@@ -252,7 +254,8 @@
       "avatarText": "接",
       "avatarUrl": "https://yt3.googleusercontent.com/R0FDdmJ7Bpl1F-McojDSLfvuOo27_yfTCF5OaTWF5RG4b_Qv9Z5tcL4ESl6RllBKRHTg4SeW=s176-c-k-c0x00ffffff-no-rj",
       "youtubeUrl": "https://www.youtube.com/channel/UCHv-JirenvPMNJeFhrhEfxw",
-      "accentColor": "hsl(121 55% 36%)"
+      "accentColor": "hsl(121 55% 36%)",
+      "statsAvgSortDeferred": true
     },
     "culua": {
       "alias": "CULUA",
@@ -350,7 +353,8 @@
       "avatarText": "花",
       "avatarUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kFMTmkKV3XOpO-610EE6b10_bWYznZ-riyfknwh2N4vg=s176-c-k-c0x00ffffff-no-rj",
       "youtubeUrl": "https://www.youtube.com/@hareruhanamaru",
-      "accentColor": "hsl(82 55% 36%)"
+      "accentColor": "hsl(82 55% 36%)",
+      "statsAvgSortDeferred": true
     },
     "hanabasamikyo": {
       "alias": "花鋏キョウ",
@@ -364,7 +368,8 @@
       "avatarText": "非",
       "avatarUrl": "https://yt3.googleusercontent.com/_2i1jMJwh7YSnjL-fBAKjk1MwifblrszTpuWTj2FRQcWFd_MYd9ruURdtl2xBDEk2tagsia1EA=s176-c-k-c0x00ffffff-no-rj",
       "youtubeUrl": "https://www.youtube.com/channel/UC9r-kOFnESwkay0Q2O2cHdw",
-      "accentColor": "hsl(45 55% 36%)"
+      "accentColor": "hsl(45 55% 36%)",
+      "statsAvgSortDeferred": true
     },
     "bv1qa9jb6eaw": {
       "alias": "陽月るるふ",

@@ -257,7 +257,8 @@ function buildFallbackSourceProfile(sourceFile) {
     avatarText: getDefaultAvatarText(alias),
     avatarUrl: '',
     youtubeUrl: '',
-    accentColor: `hsl(${stringHash(key || alias) % 360} 55% 36%)`
+    accentColor: `hsl(${stringHash(key || alias) % 360} 55% 36%)`,
+    statsAvgSortDeferred: false
   };
 }
 
@@ -272,7 +273,8 @@ function normalizeSourceProfiles(rawProfiles, files, fileToAlias) {
       avatarText: String(raw.avatarText || '').trim() || getDefaultAvatarText(alias),
       avatarUrl: normalizeProfileUrl(raw.avatarUrl),
       youtubeUrl: normalizeProfileUrl(raw.youtubeUrl || raw.youtubeChannelUrl),
-      accentColor: String(raw.accentColor || '').trim() || `hsl(${stringHash(key || alias) % 360} 55% 36%)`
+      accentColor: String(raw.accentColor || '').trim() || `hsl(${stringHash(key || alias) % 360} 55% 36%)`,
+      statsAvgSortDeferred: raw.statsAvgSortDeferred === true
     };
   });
   return profiles;
@@ -2130,6 +2132,12 @@ function getStatsSortValue(item, field) {
     case 'bv':
     case 'bvCount':
       return Number(item?.bvCount || 0);
+    case 'avg':
+    case 'average':
+    case 'avgSongsPerBv':
+      return Number(item?.bvCount || 0) > 0
+        ? Number(item?.totalCount || item?.count || 0) / Number(item?.bvCount || 0)
+        : 0;
     case 'unique':
     case 'uniqueCount':
       return Number(item?.uniqueCount || 0);
@@ -2145,6 +2153,21 @@ function getStatsSortValue(item, field) {
   }
 }
 
+function isStatsAverageSortField(field) {
+  return field === 'avg' || field === 'average' || field === 'avgSongsPerBv';
+}
+
+function isStatsAvgSortDeferredFlag(value) {
+  return value === true || value === 'true' || value === 1 || value === '1';
+}
+
+function isStatsAvgSortDeferredGroup(item) {
+  const sourceKey = String(item?.sourceFile || item?.key || '').replace(/\.js$/, '');
+  const profile = item?.profile || (sourceKey ? store.sourceProfiles[sourceKey] : null);
+  return isStatsAvgSortDeferredFlag(item?.statsAvgSortDeferred)
+    || isStatsAvgSortDeferredFlag(profile?.statsAvgSortDeferred);
+}
+
 function sortStatsGroups(groups, tab, sortValue) {
   const input = Array.isArray(groups) ? groups : [];
   const defaultSort = tab === 'vtuber-source' ? 'songs-desc' : 'count-desc';
@@ -2152,8 +2175,14 @@ function sortStatsGroups(groups, tab, sortValue) {
   const parts = raw.split('-');
   const direction = parts.pop() === 'asc' ? 'asc' : 'desc';
   const field = parts.join('-') || (tab === 'vtuber-source' ? 'songs' : 'count');
+  const isAverageSort = isStatsAverageSortField(field);
 
   return input.slice().sort((a, b) => {
+    if (isAverageSort) {
+      const deferredA = isStatsAvgSortDeferredGroup(a);
+      const deferredB = isStatsAvgSortDeferredGroup(b);
+      if (deferredA !== deferredB) return deferredA ? 1 : -1;
+    }
     const valA = getStatsSortValue(a, field);
     const valB = getStatsSortValue(b, field);
     if (valA !== valB) {

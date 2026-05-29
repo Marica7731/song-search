@@ -1,12 +1,13 @@
 {
   "__schema": {
-    "description": "按来源文件名补充头像和 YouTube 频道链接；缺失时会自动使用来源名首字作为默认头像。",
+    "description": "按来源文件名补充头像和 YouTube 频道链接；缺失时会自动使用来源名首字作为默认头像；statsAvgSortDeferred=true 时数据页场均排序会把该来源排在普通来源之后。",
     "example": {
       "yoshika": {
         "avatarUrl": "https://example.com/avatar.jpg",
         "youtubeUrl": "https://www.youtube.com/@example",
         "avatarText": "よ",
-        "accentColor": "#0f766e"
+        "accentColor": "#0f766e",
+        "statsAvgSortDeferred": true
       }
     }
   },
@@ -63,7 +64,8 @@
       "avatarUrl": "https://yt3.googleusercontent.com/GkCo40RGbeaeDZFIMIKDb7ImtmtFFSUSOUcFd2dnkcGLOnVOl7Ud-4lK__wmIwTv2uofCwN5jSA=s176-c-k-c0x00ffffff-no-rj",
       "youtubeUrl": "https://www.youtube.com/channel/UCw7iM67NS0RXhYHoxv-lpPg",
       "avatarText": "來",
-      "accentColor": "hsl(2 55% 36%)"
+      "accentColor": "hsl(2 55% 36%)",
+      "statsAvgSortDeferred": true
     },
     "sakusan": {
       "avatarUrl": "https://yt3.googleusercontent.com/bw92gqJilcSmj2oEPG3yKmadIWGSmKmGJ8I7f74oPZGpboGrmeGcV1IHExIuVWMIpJ7K2aRI0w=s176-c-k-c0x00ffffff-no-rj",
@@ -111,7 +113,8 @@
       "avatarUrl": "https://yt3.googleusercontent.com/VikhZZ6O_6N0kTMDHFHMG8VnBWg8J-fCw7L_DyICMcByEnVLAuubUjRqFu2-ktGW6nA9e06ayBo=s176-c-k-c0x00ffffff-no-rj",
       "youtubeUrl": "https://www.youtube.com/@SHUNA_MGS",
       "avatarText": "朱",
-      "accentColor": "hsl(3 55% 36%)"
+      "accentColor": "hsl(3 55% 36%)",
+      "statsAvgSortDeferred": true
     },
     "nayuta": {
       "avatarUrl": "https://yt3.googleusercontent.com/wQArqjCKWIC2RFWdQ87VjAuJRQuWzUhdQAilUF40cMPcDJzP85dZZZMSuQoPZWREDj1RsKy84dI=s176-c-k-c0x00ffffff-no-rj",
@@ -153,7 +156,8 @@
       "avatarUrl": "https://yt3.googleusercontent.com/R0FDdmJ7Bpl1F-McojDSLfvuOo27_yfTCF5OaTWF5RG4b_Qv9Z5tcL4ESl6RllBKRHTg4SeW=s176-c-k-c0x00ffffff-no-rj",
       "youtubeUrl": "https://www.youtube.com/channel/UCHv-JirenvPMNJeFhrhEfxw",
       "avatarText": "接",
-      "accentColor": "hsl(121 55% 36%)"
+      "accentColor": "hsl(121 55% 36%)",
+      "statsAvgSortDeferred": true
     },
     "culua": {
       "avatarUrl": "https://yt3.googleusercontent.com/Y5jMzu71NkgY0MA8bRLNNJNYS3o2kC09RZM-XWd6r13zqoN81meROl1UzjukJcYbCcwYRReO9g=s176-c-k-c0x00ffffff-no-rj",
@@ -243,7 +247,8 @@
       "avatarUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kFMTmkKV3XOpO-610EE6b10_bWYznZ-riyfknwh2N4vg=s176-c-k-c0x00ffffff-no-rj",
       "youtubeUrl": "https://www.youtube.com/@hareruhanamaru",
       "avatarText": "花",
-      "accentColor": "hsl(82 55% 36%)"
+      "accentColor": "hsl(82 55% 36%)",
+      "statsAvgSortDeferred": true
     },
     "hanabasamikyo": {
       "avatarUrl": "https://yt3.googleusercontent.com/YFD87IueOX8p7UcywKgJmTIlsxlbhxTACJZTiAAp2rBPT3_AeQMliFFdX-zFrlAq0FQan9_nvQ=s176-c-k-c0x00ffffff-no-rj",
@@ -261,7 +266,8 @@
       "avatarUrl": "https://yt3.googleusercontent.com/_2i1jMJwh7YSnjL-fBAKjk1MwifblrszTpuWTj2FRQcWFd_MYd9ruURdtl2xBDEk2tagsia1EA=s176-c-k-c0x00ffffff-no-rj",
       "youtubeUrl": "https://www.youtube.com/channel/UC9r-kOFnESwkay0Q2O2cHdw",
       "avatarText": "非",
-      "accentColor": "hsl(45 55% 36%)"
+      "accentColor": "hsl(45 55% 36%)",
+      "statsAvgSortDeferred": true
     },
     "bv1qa9jb6eaw": {
       "avatarUrl": "https://yt3.googleusercontent.com/s3kRnxJ_LoI08pASxDQS434T1Y18QLWYoRln0y3NFJV_9IucW6B7dcf25IEoI89cqvOYy5jj=s176-c-k-c0x00ffffff-no-rj",

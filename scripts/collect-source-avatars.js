@@ -323,12 +323,16 @@ function updateIndexProfiles(indexData, profileOverrides) {
     const alias = indexData.fileToAlias?.[key] || key;
     const existing = sourceProfiles[key] || {};
     const override = pickByFlexibleKey(profileOverrides, [key, alias]) || {};
+    const hasDeferredOverride = Object.prototype.hasOwnProperty.call(override, 'statsAvgSortDeferred');
     sourceProfiles[key] = {
       alias,
       avatarText: override.avatarText || existing.avatarText || defaultAvatarText(alias),
       avatarUrl: override.avatarUrl || existing.avatarUrl || '',
       youtubeUrl: override.youtubeUrl || existing.youtubeUrl || '',
-      accentColor: override.accentColor || existing.accentColor || defaultAccentColor(key)
+      accentColor: override.accentColor || existing.accentColor || defaultAccentColor(key),
+      statsAvgSortDeferred: hasDeferredOverride
+        ? override.statsAvgSortDeferred === true
+        : existing.statsAvgSortDeferred === true
     };
   }
   indexData.sourceProfiles = sourceProfiles;

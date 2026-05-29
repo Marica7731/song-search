@@ -843,10 +843,12 @@
                 <select id="stats-sort-select" class="summary-sort-select" title="仅影响来源统计卡片排序">
                     <option value="songs-desc" selected>曲数最多</option>
                     <option value="bvid-desc">场次最多</option>
+                    <option value="avg-desc">场均最高</option>
                     <option value="solo-desc">独特最多</option>
                     <option value="unique-desc">去重最多</option>
                     <option value="songs-asc">曲数最少</option>
                     <option value="bvid-asc">场次最少</option>
+                    <option value="avg-asc">场均最低</option>
                     <option value="solo-asc">独特最少</option>
                     <option value="unique-asc">去重最少</option>
                 </select>
@@ -1113,7 +1115,8 @@
                 avatarText: getDefaultAvatarText(fallback),
                 avatarUrl: '',
                 youtubeUrl: '',
-                accentColor: '#0f766e'
+                accentColor: '#0f766e',
+                statsAvgSortDeferred: false
             };
         }
 
@@ -1696,6 +1699,11 @@
                 case 'bvid':
                 case 'bv':
                     return Number(item.bvCount || 0);
+                case 'avg':
+                case 'average':
+                    return Number(item.bvCount || 0) > 0
+                        ? Number(item.totalCount || item.count || 0) / Number(item.bvCount || 0)
+                        : 0;
                 case 'unique':
                     return Number(item.uniqueCount || 0);
                 case 'solo':
@@ -1706,11 +1714,24 @@
             }
         }
 
+        function isStatsAvgSortDeferredGroup(item) {
+            const sourceKey = String(item?.sourceFile || item?.key || '').replace(/\.js$/, '');
+            const profile = item?.profile || (sourceKey ? SOURCE_PROFILES[sourceKey] : null);
+            const flag = item?.statsAvgSortDeferred ?? profile?.statsAvgSortDeferred;
+            return flag === true || flag === 'true' || flag === 1 || flag === '1';
+        }
+
         function sortStatsGroupsLocal(groups) {
             const [rawField, rawDirection] = String(statsSort || 'songs-desc').split('-');
             const field = rawField || 'songs';
             const direction = rawDirection === 'asc' ? 'asc' : 'desc';
+            const isAverageSort = field === 'avg' || field === 'average';
             return (Array.isArray(groups) ? groups : []).slice().sort((a, b) => {
+                if (isAverageSort) {
+                    const deferredA = isStatsAvgSortDeferredGroup(a);
+                    const deferredB = isStatsAvgSortDeferredGroup(b);
+                    if (deferredA !== deferredB) return deferredA ? 1 : -1;
+                }
                 const valA = getStatsGroupSortValue(a, field);
                 const valB = getStatsGroupSortValue(b, field);
                 if (valA !== valB) return direction === 'asc' ? valA - valB : valB - valA;

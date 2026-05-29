@@ -197,7 +197,8 @@ function buildSourceProfile(config, overrides) {
         avatarText,
         avatarUrl: normalizeProfileUrl(raw.avatarUrl),
         youtubeUrl: normalizeProfileUrl(raw.youtubeUrl || raw.youtubeChannelUrl),
-        accentColor
+        accentColor,
+        statsAvgSortDeferred: raw.statsAvgSortDeferred === true
     };
 }
 
