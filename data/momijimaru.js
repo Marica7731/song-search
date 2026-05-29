@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 5/29/2026, 8:59:12 PM
+// 生成时间: 5/29/2026, 10:27:40 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6075,6 +6075,126 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-05-28]要不要去兜风？边看夜景边来场Chill Emo Drive歌回🍁✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mSVp65EH7?p=16",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "太陽系デスコ",
+  "artist": "ナユタン星人 feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-05-29]能量补充!! 吹走疲劳的歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uBVu6LEaf?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ラフ・メイカー",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【🍁歌切】[2026-05-29]能量补充!! 吹走疲劳的歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uBVu6LEaf?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "一二三",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-05-29]能量补充!! 吹走疲劳的歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uBVu6LEaf?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "火種",
+  "artist": "キタニタツヤ",
+  "collection": "【🍁歌切】[2026-05-29]能量补充!! 吹走疲劳的歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uBVu6LEaf?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "アンチジョーカー",
+  "artist": "マイキP feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-05-29]能量补充!! 吹走疲劳的歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uBVu6LEaf?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "物の怪の類",
+  "artist": "めいちゃん",
+  "collection": "【🍁歌切】[2026-05-29]能量补充!! 吹走疲劳的歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uBVu6LEaf?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "㋰責任集合体",
+  "artist": "マサラダ feat. 重音テトSV",
+  "collection": "【🍁歌切】[2026-05-29]能量补充!! 吹走疲劳的歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uBVu6LEaf?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "逆光",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-05-29]能量补充!! 吹走疲劳的歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uBVu6LEaf?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "エンジョイ",
+  "artist": "めいちゃん",
+  "collection": "【🍁歌切】[2026-05-29]能量补充!! 吹走疲劳的歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uBVu6LEaf?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "明日の私に幸あれ",
+  "artist": "ナナヲアカリ",
+  "collection": "【🍁歌切】[2026-05-29]能量补充!! 吹走疲劳的歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uBVu6LEaf?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "喜劇",
+  "artist": "星野源",
+  "collection": "【🍁歌切】[2026-05-29]能量补充!! 吹走疲劳的歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uBVu6LEaf?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "CITRUS",
+  "artist": "Da-iCE",
+  "collection": "【🍁歌切】[2026-05-29]能量补充!! 吹走疲劳的歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uBVu6LEaf?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Make you hot!",
+  "artist": "あたたかくなる",
+  "collection": "【🍁歌切】[2026-05-29]能量补充!! 吹走疲劳的歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uBVu6LEaf?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "唱",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-05-29]能量补充!! 吹走疲劳的歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uBVu6LEaf?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ロキ",
+  "artist": "みきとP feat. 鏡音リン",
+  "collection": "【🍁歌切】[2026-05-29]能量补充!! 吹走疲劳的歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uBVu6LEaf?p=15",
   "source": "momijimaru.js"
 }
 );

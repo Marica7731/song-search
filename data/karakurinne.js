@@ -1,6 +1,6 @@
 // からくりんね-KarakuRinne - 歌单数据 (多合集汇总)
 // 来源: BV1sU5S69E8r
-// 生成时间: 5/29/2026, 9:14:21 PM
+// 生成时间: 5/29/2026, 10:41:24 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -523,6 +523,102 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-27]多亏了大家才实现了梦想！！音质也变好了！！歌回 ‼ からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PGGU6kExi?p=11",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "君に最後の口づけを",
+  "artist": "majiko",
+  "collection": "【歌切】[2026-05-29]一曲也好，请听一听吧！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LxVu6WE7q?p=1",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "君の脈で踊りたかった",
+  "artist": "ピコン",
+  "collection": "【歌切】[2026-05-29]一曲也好，请听一听吧！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LxVu6WE7q?p=2",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "いかないで",
+  "artist": "想太",
+  "collection": "【歌切】[2026-05-29]一曲也好，请听一听吧！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LxVu6WE7q?p=3",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar",
+  "collection": "【歌切】[2026-05-29]一曲也好，请听一听吧！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LxVu6WE7q?p=4",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "フクロウ ～フクロウが知らせる客が来たと～",
+  "artist": "KOKIA",
+  "collection": "【歌切】[2026-05-29]一曲也好，请听一听吧！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LxVu6WE7q?p=5",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "COSMOS",
+  "artist": "アクアマリン",
+  "collection": "【歌切】[2026-05-29]一曲也好，请听一听吧！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LxVu6WE7q?p=6",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "おどるポンポコリン",
+  "artist": "B.B.クイーンズ",
+  "collection": "【歌切】[2026-05-29]一曲也好，请听一听吧！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LxVu6WE7q?p=7",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "歌よ",
+  "artist": "Belle",
+  "collection": "【歌切】[2026-05-29]一曲也好，请听一听吧！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LxVu6WE7q?p=8",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-05-29]一曲也好，请听一听吧！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LxVu6WE7q?p=9",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "あいたい",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-05-29]一曲也好，请听一听吧！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LxVu6WE7q?p=10",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "花瓶の花",
+  "artist": "石崎ひゅーい",
+  "collection": "【歌切】[2026-05-29]一曲也好，请听一听吧！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LxVu6WE7q?p=11",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "涙そうそう",
+  "artist": "夏川りみ",
+  "collection": "【歌切】[2026-05-29]一曲也好，请听一听吧！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LxVu6WE7q?p=12",
   "source": "karakurinne.js"
 }
 );

@@ -1,0 +1,424 @@
+// みなとん - 歌单数据 (多合集汇总)
+// 来源: BV1TqGY6gEEf
+// 生成时间: 5/29/2026, 10:44:13 PM
+
+window.SONG_DATA = window.SONG_DATA || [];
+
+window.SONG_DATA.push(
+    {
+  "title": "oath sign",
+  "artist": "LiSA",
+  "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=1",
+  "source": "minaton.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=2",
+  "source": "minaton.js"
+},
+    {
+  "title": "片翼のイカロス",
+  "artist": "榊原ゆい",
+  "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=3",
+  "source": "minaton.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=4",
+  "source": "minaton.js"
+},
+    {
+  "title": "only my railgun",
+  "artist": "fripSide",
+  "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=5",
+  "source": "minaton.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=6",
+  "source": "minaton.js"
+},
+    {
+  "title": "crossing field",
+  "artist": "LiSA",
+  "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=7",
+  "source": "minaton.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=8",
+  "source": "minaton.js"
+},
+    {
+  "title": "インフェルノ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=9",
+  "source": "minaton.js"
+},
+    {
+  "title": "真っ赤な誓い",
+  "artist": "福山芳樹",
+  "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=10",
+  "source": "minaton.js"
+},
+    {
+  "title": "GONG",
+  "artist": "JAM Project",
+  "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=11",
+  "source": "minaton.js"
+},
+    {
+  "title": "Shangri-La",
+  "artist": "angela",
+  "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=12",
+  "source": "minaton.js"
+},
+    {
+  "title": "Unravel",
+  "artist": "TK from 凛として時雨",
+  "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=13",
+  "source": "minaton.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=14",
+  "source": "minaton.js"
+},
+    {
+  "title": "鳥の詩",
+  "artist": "Lia",
+  "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=15",
+  "source": "minaton.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=16",
+  "source": "minaton.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=17",
+  "source": "minaton.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=18",
+  "source": "minaton.js"
+},
+    {
+  "title": "勇者",
+  "artist": "YOASOBI",
+  "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=19",
+  "source": "minaton.js"
+},
+    {
+  "title": "怪物",
+  "artist": "YOASOBI",
+  "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=20",
+  "source": "minaton.js"
+},
+    {
+  "title": "クラクラ",
+  "artist": "Ado",
+  "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=21",
+  "source": "minaton.js"
+},
+    {
+  "title": "Bling-Bang-Bang-Born",
+  "artist": "Creepy Nuts",
+  "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=22",
+  "source": "minaton.js"
+},
+    {
+  "title": "シルシ",
+  "artist": "LiSA",
+  "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=23",
+  "source": "minaton.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=24",
+  "source": "minaton.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=25",
+  "source": "minaton.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=26",
+  "source": "minaton.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "ado",
+  "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=27",
+  "source": "minaton.js"
+},
+    {
+  "title": "新時代",
+  "artist": "ado",
+  "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=28",
+  "source": "minaton.js"
+},
+    {
+  "title": "逆光",
+  "artist": "Ado",
+  "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=29",
+  "source": "minaton.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "mona（CV. 夏川椎菜)",
+  "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=30",
+  "source": "minaton.js"
+},
+    {
+  "title": "幾億光年",
+  "artist": "Omoinotake",
+  "collection": "【歌切】[2026-05-29]午后融化的钢琴🎹伴奏歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nVu6oEKV?p=1",
+  "source": "minaton.js"
+},
+    {
+  "title": "Soranji",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-05-29]午后融化的钢琴🎹伴奏歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nVu6oEKV?p=2",
+  "source": "minaton.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師, 宇多田ヒカル",
+  "collection": "【歌切】[2026-05-29]午后融化的钢琴🎹伴奏歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nVu6oEKV?p=3",
+  "source": "minaton.js"
+},
+    {
+  "title": "別の人の彼女になったよ",
+  "artist": "wacci",
+  "collection": "【歌切】[2026-05-29]午后融化的钢琴🎹伴奏歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nVu6oEKV?p=4",
+  "source": "minaton.js"
+},
+    {
+  "title": "点描の唄",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-05-29]午后融化的钢琴🎹伴奏歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nVu6oEKV?p=5",
+  "source": "minaton.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "【歌切】[2026-05-29]午后融化的钢琴🎹伴奏歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nVu6oEKV?p=6",
+  "source": "minaton.js"
+},
+    {
+  "title": "紡ぐ",
+  "artist": "とた",
+  "collection": "【歌切】[2026-05-29]午后融化的钢琴🎹伴奏歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nVu6oEKV?p=7",
+  "source": "minaton.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "feat.初音ミク",
+  "collection": "【歌切】[2026-05-29]午后融化的钢琴🎹伴奏歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nVu6oEKV?p=8",
+  "source": "minaton.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna",
+  "collection": "【歌切】[2026-05-29]午后融化的钢琴🎹伴奏歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nVu6oEKV?p=9",
+  "source": "minaton.js"
+},
+    {
+  "title": "天ノ弱",
+  "artist": "feat.GUMI",
+  "collection": "【歌切】[2026-05-29]午后融化的钢琴🎹伴奏歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nVu6oEKV?p=10",
+  "source": "minaton.js"
+},
+    {
+  "title": "A Whole New World",
+  "artist": "石井一孝, 麻生かほ里",
+  "collection": "【歌切】[2026-05-29]午后融化的钢琴🎹伴奏歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nVu6oEKV?p=11",
+  "source": "minaton.js"
+},
+    {
+  "title": "One Last Kiss",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-05-29]午后融化的钢琴🎹伴奏歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nVu6oEKV?p=12",
+  "source": "minaton.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-05-29]午后融化的钢琴🎹伴奏歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nVu6oEKV?p=13",
+  "source": "minaton.js"
+},
+    {
+  "title": "あなた",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-05-29]午后融化的钢琴🎹伴奏歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nVu6oEKV?p=14",
+  "source": "minaton.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【歌切】[2026-05-29]午后融化的钢琴🎹伴奏歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nVu6oEKV?p=15",
+  "source": "minaton.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-29]午后融化的钢琴🎹伴奏歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nVu6oEKV?p=16",
+  "source": "minaton.js"
+},
+    {
+  "title": "secret base〜君がくれたもの〜",
+  "artist": "ZONE",
+  "collection": "【歌切】[2026-05-29]午后融化的钢琴🎹伴奏歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nVu6oEKV?p=17",
+  "source": "minaton.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-05-29]午后融化的钢琴🎹伴奏歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nVu6oEKV?p=18",
+  "source": "minaton.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【歌切】[2026-05-29]午后融化的钢琴🎹伴奏歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nVu6oEKV?p=19",
+  "source": "minaton.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-05-29]午后融化的钢琴🎹伴奏歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nVu6oEKV?p=20",
+  "source": "minaton.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-29]午后融化的钢琴🎹伴奏歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nVu6oEKV?p=21",
+  "source": "minaton.js"
+},
+    {
+  "title": "Soranji",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-05-29]午后融化的钢琴🎹伴奏歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nVu6oEKV?p=22",
+  "source": "minaton.js"
+}
+);

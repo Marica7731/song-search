@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 5/29/2026, 9:08:13 PM
+// 生成时间: 5/29/2026, 10:34:46 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4699,6 +4699,262 @@ window.SONG_DATA.push(
   "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=25",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ベースマン",
+  "artist": "andymori",
+  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "決意の朝に",
+  "artist": "Aqua Timez",
+  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "円光",
+  "artist": "銀杏BOYZ",
+  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "手と手",
+  "artist": "クリープハイプ",
+  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "あんなつぁ",
+  "artist": "浪漫革命",
+  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "チェックのワンピース",
+  "artist": "back number",
+  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "TOMORROW",
+  "artist": "岡本真夜",
+  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "1.0",
+  "artist": "amazarashi",
+  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "人として",
+  "artist": "SUPER BEAVER",
+  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "野に咲く花のように",
+  "artist": "ダ・カーポ",
+  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "川の流れのように",
+  "artist": "美空ひばり",
+  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "サライ",
+  "artist": "加山雄三・谷村新司",
+  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "かなしいうた",
+  "artist": "工藤祐次郎",
+  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "知らんけど。",
+  "artist": "はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "37458",
+  "artist": "RADWIMPS",
+  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "国語",
+  "artist": "ハンバート ハンバート",
+  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "supernova",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=17",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "千の風になって",
+  "artist": "秋川雅史",
+  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=18",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "くだらないの中に",
+  "artist": "星野源",
+  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=19",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "100万回の「I love you」",
+  "artist": "Rake",
+  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=20",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "にんげんっていいな",
+  "artist": "中島義実、ヤング・フレッシュ",
+  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=21",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夜の踊り子",
+  "artist": "サカナクション",
+  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=22",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "さよならはエモーション",
+  "artist": "サカナクション",
+  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=23",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ふたりごと",
+  "artist": "RADWIMPS",
+  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=24",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "明日があるさ",
+  "artist": "坂本九",
+  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=25",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "オー・シャンゼリゼ",
+  "artist": "ダニエル・ビダル",
+  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=26",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "くちづけキボンヌ",
+  "artist": "でんぱ組.inc",
+  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=27",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "青空",
+  "artist": "THE BLUE HEARTS",
+  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=28",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ともだちになるために",
+  "artist": "童謡・唱歌",
+  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=29",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Hallelujah",
+  "artist": "Leonard Cohen",
+  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=30",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "春",
+  "artist": "はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=31",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "蛍の光",
+  "artist": "文部省唱歌",
+  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=32",
   "source": "kotatsu.js"
 }
 );

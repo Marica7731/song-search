@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 5/29/2026, 9:01:16 PM
+// 生成时间: 5/29/2026, 10:29:06 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9339,6 +9339,126 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=22",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ホログラム",
+  "artist": "NICO Touches the Walls",
+  "collection": "【歌切】[2026-05-29]5月最后的星期五歌回🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15bVu6HEmH?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ゴールデンタイムラバー",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-05-29]5月最后的星期五歌回🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15bVu6HEmH?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "115万キロのフィルム",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-05-29]5月最后的星期五歌回🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15bVu6HEmH?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "I♥U",
+  "artist": "THE★SCANTY",
+  "collection": "【歌切】[2026-05-29]5月最后的星期五歌回🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15bVu6HEmH?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "DISCOTHEQUE",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-05-29]5月最后的星期五歌回🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15bVu6HEmH?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ブラック★ロックシューター",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-05-29]5月最后的星期五歌回🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15bVu6HEmH?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "NO, Thank You!",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-05-29]5月最后的星期五歌回🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15bVu6HEmH?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-05-29]5月最后的星期五歌回🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15bVu6HEmH?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "巣立ち",
+  "artist": "鴉",
+  "collection": "【歌切】[2026-05-29]5月最后的星期五歌回🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15bVu6HEmH?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Speaking",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-05-29]5月最后的星期五歌回🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15bVu6HEmH?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "恋愛裁判",
+  "artist": "40mP",
+  "collection": "【歌切】[2026-05-29]5月最后的星期五歌回🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15bVu6HEmH?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "月並みに輝け",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-05-29]5月最后的星期五歌回🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15bVu6HEmH?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ごはんはおかず",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-05-29]5月最后的星期五歌回🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15bVu6HEmH?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "楓",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-05-29]5月最后的星期五歌回🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15bVu6HEmH?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Nobody's Home",
+  "artist": "ONE OK ROCK",
+  "collection": "【歌切】[2026-05-29]5月最后的星期五歌回🍎 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15bVu6HEmH?p=15",
   "source": "naraetan.js"
 },
     {

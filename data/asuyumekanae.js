@@ -1,10 +1,1610 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 5/29/2026, 8:58:40 PM
+// 生成时间: 5/29/2026, 10:27:04 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
+    {
+  "title": "3月9日",
+  "artist": "レミオロメン[Y5ZJIaCbk_k]",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ペテン師が笑う頃に",
+  "artist": "梨本P",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "春の歌",
+  "artist": "スピッツ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "スパークル",
+  "artist": "RADWIMPS",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "さくら（独唱）",
+  "artist": "森山直太朗",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "水平線",
+  "artist": "back number",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "fish",
+  "artist": "back number",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "風を食む",
+  "artist": "ヨルシカ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "サターン",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=15",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "さよならメモリーズ",
+  "artist": "supercell",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=16",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "The Everlasting Guilty Crown",
+  "artist": "EGOIST",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=17",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "火星人",
+  "artist": "ヨルシカ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=18",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=19",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=20",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=21",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ワンダー",
+  "artist": "tayori",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=22",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "風のたより",
+  "artist": "tayori",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=23",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ゴースト",
+  "artist": "tayori",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=24",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "春を待つ",
+  "artist": "Islet",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=25",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "雪解け",
+  "artist": "Islet",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=26",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "花降らし",
+  "artist": "n-buna",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=27",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "n-buna",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=28",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "いつも何度でも",
+  "artist": "木村弓",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=29",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "君をのせて",
+  "artist": "井上あずみ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=30",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "貴方の恋人になりたい",
+  "artist": "チョーキューメイ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=31",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "美女と野獣",
+  "artist": "ポット夫人",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=32",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "輝く未来",
+  "artist": "小此木麻里, 畠中洋",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=33",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "自由への扉",
+  "artist": "小此木麻里",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=34",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "コンタクトケース",
+  "artist": "Saucy Dog",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=35",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=36",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Dear Mr 『F』",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=37",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Ham",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=38",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Departures ～あなたにおくるアイの歌～",
+  "artist": "EGOIST",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=39",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "キミソラキセキ",
+  "artist": "EGOIST",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=40",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "嘘月",
+  "artist": "ヨルシカ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=41",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "修羅",
+  "artist": "ヨルシカ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=42",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "茜",
+  "artist": "ヨルシカ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=43",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "逃亡",
+  "artist": "ヨルシカ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=44",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "終わりへ向かう始まりの歌",
+  "artist": "supercell",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=45",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=46",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "うたかた花火",
+  "artist": "supercell",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=47",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "銀色飛行船",
+  "artist": "supercell",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=48",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "to Mother",
+  "artist": "YUI",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=49",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Hug",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=50",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "スノーマジックファンタジー",
+  "artist": "SEKAI NO OWARI",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=51",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "グッドな音楽を",
+  "artist": "ねぐせ。",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=52",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "あたしを彼女にしたいなら",
+  "artist": "コレサワ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=53",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "CLEAR",
+  "artist": "坂本真綾",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=54",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "メリクリ",
+  "artist": "BoA",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=55",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ラブカ？",
+  "artist": "柊キライ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=56",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ワルキューレがとまらない",
+  "artist": "ワルキューレ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=57",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "天ノ弱",
+  "artist": "164",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=58",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Sincerely",
+  "artist": "TRUE",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=59",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "空想フォレスト",
+  "artist": "じん",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=60",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "プライド革命",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=61",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "乙女解剖",
+  "artist": "DECO*27",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=62",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "前前前世",
+  "artist": "RADWIMPS",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=63",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "エンヴィーベイビー",
+  "artist": "Kanaria",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=64",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "マーシャル・マキシマイザー",
+  "artist": "柊マグネタイト",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=65",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Shangri-La",
+  "artist": "angela",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=66",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ウタカタララバイ",
+  "artist": "Ado",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=67",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "深愛",
+  "artist": "水樹奈々",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=68",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono!",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=69",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "最強の推し！",
+  "artist": "鈴木愛理",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=70",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=71",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Cagayake!GIRLS",
+  "artist": "放課後ティータイム",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=72",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=73",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "甲賀忍法帖",
+  "artist": "陰陽座",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=74",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "可愛くてごめん",
+  "artist": "HoneyWorks",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=75",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ダダダダ天使",
+  "artist": "ナナヲアカリ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=76",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=77",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=78",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "エルマ",
+  "artist": "ヨルシカ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=79",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "エイミー",
+  "artist": "ヨルシカ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=80",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "準透明少年",
+  "artist": "ヨルシカ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=81",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ハゼ馳せる果てるまで",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=82",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "低血ボルト",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=83",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "サターン",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=84",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ムーンライト伝説",
+  "artist": "DALI",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=85",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "エルフ",
+  "artist": "Ado",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=86",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=87",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "雪の華",
+  "artist": "中島美嘉",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=88",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Diamonds",
+  "artist": "プリンセス プリンセス",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=89",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "少女A",
+  "artist": "中森明菜",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=90",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "青い珊瑚礁",
+  "artist": "松田聖子",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=91",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "秋桜",
+  "artist": "山口百恵",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=92",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "トライアングラー",
+  "artist": "坂本真綾",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=93",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ダイアモンド クレバス",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=94",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Rolling star",
+  "artist": "YUI",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=95",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "瞬間センチメンタル",
+  "artist": "SCANDAL",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=96",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "告白",
+  "artist": "supercell",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=97",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "あばよ、",
+  "artist": "ヤユヨ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=98",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "明日も",
+  "artist": "SHISHAMO",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=99",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Make-up Shadow",
+  "artist": "井上陽水",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=100",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "昼鳶",
+  "artist": "ヨルシカ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=101",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "春ひさぎ",
+  "artist": "ヨルシカ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=102",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "有心論",
+  "artist": "RADWIMPS",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=103",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "さよならメモリーズ",
+  "artist": "supercell",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=104",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "魔性少女",
+  "artist": "ファントムシータ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=105",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "heavenly days",
+  "artist": "新垣結衣",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=106",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "メロンソーダ",
+  "artist": "aiko",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=107",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=108",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "貴方の恋人になりたいのです",
+  "artist": "阿部真央",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=109",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "I wanna see you",
+  "artist": "阿部真央",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=110",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Singing!",
+  "artist": "放課後ティータイム",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=111",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "U&I",
+  "artist": "放課後ティータイム",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=112",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "GO! GO! MANIAC",
+  "artist": "放課後ティータイム",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=113",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "15の言葉",
+  "artist": "阿部真央",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=114",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "この涙を知らない",
+  "artist": "片平里菜",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=115",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "花は桜 君は美し",
+  "artist": "いきものがかり",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=116",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=117",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ワンダー",
+  "artist": "tayori",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=118",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "破壊前夜のこと",
+  "artist": "asmi",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=119",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "アイワナムチュー",
+  "artist": "MAISONdes",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=120",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "flos",
+  "artist": "R Sound Design",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=121",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=122",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "神様のダンス",
+  "artist": "ヨルシカ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=123",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "六月は雨上がりの街を書く",
+  "artist": "ヨルシカ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=124",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=125",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "またね幻",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=126",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "詩書きとコーヒー",
+  "artist": "ヨルシカ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=127",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "TAIDADA",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=128",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "勘冴えて悔しいわ",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=129",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "フクロウ ～フクロウが知らせる客が来たと～",
+  "artist": "KOKIA",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=130",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ミラーチューン",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=131",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "乙女解剖",
+  "artist": "DECO*27",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=132",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "螢",
+  "artist": "RADWIMPS",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=133",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "不死鳥",
+  "artist": "SEKAI NO OWARI",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=134",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "yume",
+  "artist": "SEKAI NO OWARI",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=135",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "幻の命",
+  "artist": "SEKAI NO OWARI",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=136",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "スターライトパレード",
+  "artist": "SEKAI NO OWARI",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=137",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "RPG",
+  "artist": "SEKAI NO OWARI",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=138",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "虹色の戦争",
+  "artist": "SEKAI NO OWARI",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=139",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "スノーマジックファンタジー",
+  "artist": "SEKAI NO OWARI",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=140",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "栞",
+  "artist": "SEKAI NO OWARI",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=141",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "憂、燦々",
+  "artist": "ヨルシカ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=142",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "テレキャスタービーボーイ",
+  "artist": "すりぃ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=143",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "勇者",
+  "artist": "YOASOBI",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=144",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "神っぽいな",
+  "artist": "ピノキオピー",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=145",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "EYE",
+  "artist": "Kanaria",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=146",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=147",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "KING",
+  "artist": "Kanaria",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=148",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ジェヘナ",
+  "artist": "wotaku",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=149",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=150",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=151",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "白い雪のプリンセスは",
+  "artist": "のぼる↑",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=152",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "トウキョウ・シャンディ・ランデヴ",
+  "artist": "MAISONdes",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=153",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ダーリンダンス",
+  "artist": "かいりきベア",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=154",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ベノム",
+  "artist": "かいりきベア",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=155",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ルマ",
+  "artist": "かいりきベア",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=156",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ロキ",
+  "artist": "みきとP",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=157",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "CH4NGE",
+  "artist": "Giga",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=158",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "エンヴィーベイビー",
+  "artist": "Kanaria",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=159",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "火葬曲",
+  "artist": "No.D",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=160",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "BadBye",
+  "artist": "Koma'n",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=161",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "シンデレラ",
+  "artist": "DECO*27",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=162",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=163",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=164",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "新時代",
+  "artist": "Ado",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=165",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ウタカタララバイ",
+  "artist": "Ado",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=166",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "シル・ヴ・プレジデント",
+  "artist": "P丸様。",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=167",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=168",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "サインはB",
+  "artist": "B小町",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=169",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "ryo(supercell)",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=170",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=171",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ユメヲカケル！",
+  "artist": "ウマ娘",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=172",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=173",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "天体観測",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=174",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "シニカルナイトプラン",
+  "artist": "Ayase",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=175",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=176",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=177",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=178",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=179",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=180",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=181",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ(CV.平野綾)",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=182",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "サウダージ",
+  "artist": "ポルノグラフィティ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=183",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "酔いどれ知らず",
+  "artist": "Kanaria",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=184",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=185",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=186",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=187",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "mona(CV：夏川椎菜)",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=188",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=189",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=190",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=191",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "TAIDADA",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=192",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ミラーチューン",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=193",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "正義",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=194",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "あいつら全員同窓会",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=195",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "馴れ合いサーブ",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=196",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Snow halation",
+  "artist": "μ's",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=197",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ロックンロールなんですの",
+  "artist": "supercell",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=198",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "告白",
+  "artist": "supercell",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=199",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "咲かせや咲かせ",
+  "artist": "EGOIST",
+  "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=200",
+  "source": "asuyumekanae.js"
+},
     {
   "title": "パレード",
   "artist": "ヨルシカ",

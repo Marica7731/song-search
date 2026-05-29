@@ -1,6 +1,6 @@
 // 山田シャロ - 歌单数据 (多合集汇总)
 // 来源: BV179L66pE1f
-// 生成时间: 5/29/2026, 9:16:07 PM
+// 生成时间: 5/29/2026, 10:42:38 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -659,6 +659,86 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-24]目标同时在线50人！请找到我✨❤ SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6Gn6UEKF?p=18",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "innocent starter",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-05-29]目标同时在线50人！用大姐姐声线迷住你✨ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hiVu62EUJ?p=1",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "春を告げる",
+  "artist": "yama",
+  "collection": "【歌切】[2026-05-29]目标同时在线50人！用大姐姐声线迷住你✨ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hiVu62EUJ?p=2",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "涙のキッス",
+  "artist": "サザンオールスター",
+  "collection": "【歌切】[2026-05-29]目标同时在线50人！用大姐姐声线迷住你✨ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hiVu62EUJ?p=3",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Everything",
+  "artist": "MISIA",
+  "collection": "【歌切】[2026-05-29]目标同时在线50人！用大姐姐声线迷住你✨ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hiVu62EUJ?p=4",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "逢いたくていま",
+  "artist": "MISIA",
+  "collection": "【歌切】[2026-05-29]目标同时在线50人！用大姐姐声线迷住你✨ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hiVu62EUJ?p=5",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "もう恋なんてしない",
+  "artist": "槇原敬之",
+  "collection": "【歌切】[2026-05-29]目标同时在线50人！用大姐姐声线迷住你✨ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hiVu62EUJ?p=6",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "追憶メリーゴーランド",
+  "artist": "onelifecrew",
+  "collection": "【歌切】[2026-05-29]目标同时在线50人！用大姐姐声线迷住你✨ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hiVu62EUJ?p=7",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "炎",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-05-29]目标同时在线50人！用大姐姐声线迷住你✨ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hiVu62EUJ?p=8",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "銀色飛行船",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-05-29]目标同时在线50人！用大姐姐声线迷住你✨ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hiVu62EUJ?p=9",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Bluerose",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-05-29]目标同时在线50人！用大姐姐声线迷住你✨ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hiVu62EUJ?p=10",
   "source": "yamadasharo.js"
 }
 );

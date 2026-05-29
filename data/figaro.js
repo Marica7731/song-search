@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 5/29/2026, 9:01:40 PM
+// 生成时间: 5/29/2026, 10:29:27 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3790,7 +3790,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "没唱完】17. COSMOS",
+  "title": "COSMOS",
   "artist": "アクアマリン",
   "collection": "【240529 Figaro】20】#13 星期三定期歌枠 斜陽、左右盲、夜に駆ける",
   "up": "前尘往事如昔故",
