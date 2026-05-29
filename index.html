@@ -1671,6 +1671,72 @@
         bottom: 12px;
       }
     }
+
+    /* Dense result cards: every visible text field must truncate instead of changing card height. */
+    .song-title-line {
+      align-items: center;
+      overflow: hidden;
+    }
+
+    .song-title,
+    .song-artist,
+    .song-collection,
+    .song-source,
+    .meta,
+    .mobile-card-meta {
+      max-width: 100%;
+      min-width: 0;
+    }
+
+    .song-artist,
+    .song-collection,
+    .song-source,
+    .meta {
+      display: block;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      word-break: normal;
+    }
+
+    .song-title {
+      flex: 1 1 auto;
+      display: block;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      word-break: normal;
+    }
+
+    .song-row .field-copy,
+    .song-title .field-copy,
+    .song-artist .field-copy,
+    .song-collection .field-copy,
+    .song-source .field-copy,
+    .meta .field-copy {
+      display: block;
+      width: 100%;
+      max-width: 100%;
+      min-width: 0;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      word-break: normal;
+    }
+
+    .song-title .field-copy {
+      -webkit-line-clamp: unset;
+      -webkit-box-orient: initial;
+    }
+
+    .mobile-meta-source,
+    .mobile-meta-chip {
+      max-width: 100%;
+      min-width: 0;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
   </style>
 </head>
 <body>
