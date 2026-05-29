@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 5/29/2026, 12:47:42 AM
+// 生成时间: 5/29/2026, 1:26:37 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -195,6 +195,46 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-26]用歌声吹走疲劳吧～～～！！ 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cpGD6CEWN?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ストリーミングハート",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-05-28]即将迎来活动10周年了！！ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1csVs6gECx?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "私とジュリエット",
+  "artist": "doriko feat. 初音ミク",
+  "collection": "【歌切】[2026-05-28]即将迎来活动10周年了！！ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1csVs6gECx?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "チェチェ・チェック・ワンツー！",
+  "artist": "くらげP feat. 結月ゆかり",
+  "collection": "【歌切】[2026-05-28]即将迎来活动10周年了！！ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1csVs6gECx?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "愛言葉Ⅲ",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-05-28]即将迎来活动10周年了！！ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1csVs6gECx?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "贖罪",
+  "artist": "傘村トータ feat. IA・結月ゆかり・初音ミク・Fukase・Ken",
+  "collection": "【歌切】[2026-05-28]即将迎来活动10周年了！！ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1csVs6gECx?p=5",
   "source": "hinachibi.js"
 }
 );

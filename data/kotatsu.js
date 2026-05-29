@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 5/29/2026, 12:39:24 AM
+// 生成时间: 5/29/2026, 1:18:30 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4499,6 +4499,206 @@ window.SONG_DATA.push(
   "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=44",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "楽園",
+  "artist": "andymori",
+  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "アンマー",
+  "artist": "かりゆし58",
+  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "いのちの理由",
+  "artist": "さだまさし",
+  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "栞",
+  "artist": "クリープハイプ",
+  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "虎",
+  "artist": "ハンバート ハンバート",
+  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ダンデライオン",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "俺色スカイ",
+  "artist": "RADWIMPS",
+  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ウミユリ海底譚",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "家に帰ると妻が必ず死んだふりをしています。",
+  "artist": "ほぼ日P feat. 初音ミク",
+  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "さよならまたね",
+  "artist": "キクチリョウタ",
+  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "君のバンド",
+  "artist": "コレサワ",
+  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "vivi",
+  "artist": "米津玄師",
+  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ゴーゴー魚釣り",
+  "artist": "工藤祐次郎",
+  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "365日の紙飛行機",
+  "artist": "AKB48",
+  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "I LOVE YOU",
+  "artist": "尾崎豊",
+  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "修羅",
+  "artist": "ヨルシカ",
+  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=17",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "サヨナラCOLOR",
+  "artist": "SUPER BUTTER DOG",
+  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=18",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "今宵、月が見えずとも",
+  "artist": "ポルノグラフィティ",
+  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=19",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "キラキラチューン",
+  "artist": "でんぱ組.inc",
+  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=20",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "深呼吸",
+  "artist": "ハナレグミ",
+  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=21",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "RAIN",
+  "artist": "SEKAI NO OWARI",
+  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=22",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "サイダーのように言葉が湧き上がる",
+  "artist": "never young beach",
+  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=23",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "七夕祭り",
+  "artist": "テゴマス",
+  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=24",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "tomorrow",
+  "artist": "MOROHA",
+  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=25",
   "source": "kotatsu.js"
 }
 );

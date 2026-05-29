@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 5/29/2026, 12:36:02 AM
+// 生成时间: 5/29/2026, 1:14:15 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -33483,6 +33483,190 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-05-25]初見さん歓迎中！1曲いかがですか？ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jgVc6aEuK?p=28",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "collection": "【🍠🦍歌切】[2026-05-28]初見さん歓迎中！1曲いかがですか？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1enVt6zESs?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-05-28]初見さん歓迎中！1曲いかがですか？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1enVt6zESs?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【🍠🦍歌切】[2026-05-28]初見さん歓迎中！1曲いかがですか？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1enVt6zESs?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "マツケンサンバⅡ",
+  "artist": "松平健",
+  "collection": "【🍠🦍歌切】[2026-05-28]初見さん歓迎中！1曲いかがですか？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1enVt6zESs?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "DISCOTHEQUE",
+  "artist": "水樹奈々",
+  "collection": "【🍠🦍歌切】[2026-05-28]初見さん歓迎中！1曲いかがですか？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1enVt6zESs?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Diamonds",
+  "artist": "プリンセス プリンセス",
+  "collection": "【🍠🦍歌切】[2026-05-28]初見さん歓迎中！1曲いかがですか？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1enVt6zESs?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "DANZEN！ふたりはプリキュア",
+  "artist": "Mayumi Gojo",
+  "collection": "【🍠🦍歌切】[2026-05-28]初見さん歓迎中！1曲いかがですか？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1enVt6zESs?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "未来のミュージアム",
+  "artist": "Perfume",
+  "collection": "【🍠🦍歌切】[2026-05-28]初見さん歓迎中！1曲いかがですか？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1enVt6zESs?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "輝夜の城で踊りたい",
+  "artist": "μ's",
+  "collection": "【🍠🦍歌切】[2026-05-28]初見さん歓迎中！1曲いかがですか？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1enVt6zESs?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Spending",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-05-28]初見さん歓迎中！1曲いかがですか？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1enVt6zESs?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "気分上々↑↑",
+  "artist": "mihimaru GT",
+  "collection": "【🍠🦍歌切】[2026-05-28]初見さん歓迎中！1曲いかがですか？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1enVt6zESs?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "【🍠🦍歌切】[2026-05-28]初見さん歓迎中！1曲いかがですか？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1enVt6zESs?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Star Divine",
+  "artist": "スタァライト九九組",
+  "collection": "【🍠🦍歌切】[2026-05-28]初見さん歓迎中！1曲いかがですか？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1enVt6zESs?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "異邦人",
+  "artist": "久保田早紀",
+  "collection": "【🍠🦍歌切】[2026-05-28]初見さん歓迎中！1曲いかがですか？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1enVt6zESs?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アローラ!!",
+  "artist": "松本梨香",
+  "collection": "【🍠🦍歌切】[2026-05-28]初見さん歓迎中！1曲いかがですか？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1enVt6zESs?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【🍠🦍歌切】[2026-05-28]初見さん歓迎中！1曲いかがですか？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1enVt6zESs?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "となりのトトロ",
+  "artist": "井上あずみ",
+  "collection": "【🍠🦍歌切】[2026-05-28]初見さん歓迎中！1曲いかがですか？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1enVt6zESs?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "唇からロマンチカ",
+  "artist": "AAA",
+  "collection": "【🍠🦍歌切】[2026-05-28]初見さん歓迎中！1曲いかがですか？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1enVt6zESs?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ウィーアー!",
+  "artist": "きただにひろし",
+  "collection": "【🍠🦍歌切】[2026-05-28]初見さん歓迎中！1曲いかがですか？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1enVt6zESs?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アンパンマンのマーチ",
+  "artist": "ドリーミング",
+  "collection": "【🍠🦍歌切】[2026-05-28]初見さん歓迎中！1曲いかがですか？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1enVt6zESs?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "【🍠🦍歌切】[2026-05-28]初見さん歓迎中！1曲いかがですか？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1enVt6zESs?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夢の続きへ",
+  "artist": "SURFACE",
+  "collection": "【🍠🦍歌切】[2026-05-28]初見さん歓迎中！1曲いかがですか？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1enVt6zESs?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ロマンスの神様",
+  "artist": "広瀬香美",
+  "collection": "【🍠🦍歌切】[2026-05-28]初見さん歓迎中！1曲いかがですか？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1enVt6zESs?p=23",
   "source": "yoshika.js"
 }
 );
