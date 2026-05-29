@@ -1690,10 +1690,15 @@
 
     .song-artist,
     .song-collection,
-    .song-source,
     .meta {
       display: block;
       overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      word-break: normal;
+    }
+
+    .song-source {
       text-overflow: ellipsis;
       white-space: nowrap;
       word-break: normal;
