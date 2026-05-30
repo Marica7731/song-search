@@ -1,6 +1,6 @@
 // みなとん - 歌单数据 (多合集汇总)
 // 来源: BV1TqGY6gEEf
-// 生成时间: 5/30/2026, 6:21:13 AM
+// 生成时间: 5/30/2026, 7:28:55 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -279,7 +279,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "点描の唄",
-  "artist": "Mrs. GREEN APPLE",
+  "artist": "Mrs. GREEN APPLE feat. 井上苑子",
   "collection": "【歌切】[2026-05-29]午后融化的钢琴🎹伴奏歌回 みなとん。は歌う",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17nVu6oEKV?p=5",
@@ -303,7 +303,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "回る空うさぎ",
-  "artist": "feat.初音ミク",
+  "artist": "Orangestar",
   "collection": "【歌切】[2026-05-29]午后融化的钢琴🎹伴奏歌回 みなとん。は歌う",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17nVu6oEKV?p=8",
@@ -311,7 +311,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夜明けと蛍",
-  "artist": "n-buna",
+  "artist": "n-buna feat. 初音ミク",
   "collection": "【歌切】[2026-05-29]午后融化的钢琴🎹伴奏歌回 みなとん。は歌う",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17nVu6oEKV?p=9",
@@ -319,7 +319,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "天ノ弱",
-  "artist": "feat.GUMI",
+  "artist": "164 feat. GUMI",
   "collection": "【歌切】[2026-05-29]午后融化的钢琴🎹伴奏歌回 みなとん。は歌う",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17nVu6oEKV?p=10",
