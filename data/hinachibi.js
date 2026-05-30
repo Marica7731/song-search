@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 5/30/2026, 4:55:13 PM
+// 生成时间: 5/30/2026, 5:55:42 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -235,6 +235,46 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-28]即将迎来活动10周年了！！ 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1csVs6gECx?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "とても素敵な六月でした",
+  "artist": "Eight feat. 初音ミク",
+  "collection": "【歌切】[2026-05-30]来唱一小时歌！！！星期六熬夜时稍微听一下吧♪ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DMVL6FEyb?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ヒステリックナイトガール",
+  "artist": "PSYQUI feat. Such",
+  "collection": "【歌切】[2026-05-30]来唱一小时歌！！！星期六熬夜时稍微听一下吧♪ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DMVL6FEyb?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP feat. 初音ミク",
+  "collection": "【歌切】[2026-05-30]来唱一小时歌！！！星期六熬夜时稍微听一下吧♪ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DMVL6FEyb?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo(supercell) feat. 初音ミク",
+  "collection": "【歌切】[2026-05-30]来唱一小时歌！！！星期六熬夜时稍微听一下吧♪ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DMVL6FEyb?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "あの夏のいつかは",
+  "artist": "*Luna feat. 音街ウナ・Rana",
+  "collection": "【歌切】[2026-05-30]来唱一小时歌！！！星期六熬夜时稍微听一下吧♪ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DMVL6FEyb?p=5",
   "source": "hinachibi.js"
 }
 );

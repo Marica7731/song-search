@@ -1,6 +1,6 @@
 // nayuta - 歌单数据 (多合集汇总)
 // 来源: BV1GXYFzXETo, BV1MPpUzsE1D, BV184W5zeE1Z
-// 生成时间: 5/30/2026, 4:45:38 PM
+// 生成时间: 5/30/2026, 5:46:56 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -287,7 +287,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アルカテイル",
-  "artist": "Summer Pockets",
+  "artist": "鈴木このみ『Summer Pockets』",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=1",
@@ -295,7 +295,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Bravely You",
-  "artist": "Charlotte",
+  "artist": "Lia 『Charlotte』OP",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=2",
@@ -303,7 +303,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "灼け落ちない翼",
-  "artist": "Charlotte",
+  "artist": "多田葵 『Charlotte』ED",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=3",
@@ -311,7 +311,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "My Soul, Your Beats!",
-  "artist": "Angel Beats!",
+  "artist": "Lia 『Angel Beats!』OP",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=4",
@@ -319,7 +319,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "My Song",
-  "artist": "Angel Beats!",
+  "artist": "Girls Dead Monster",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=5",
@@ -327,7 +327,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Song for friends",
-  "artist": "リトルバスターズ！",
+  "artist": "Rita/麻枝准",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=6",
@@ -335,7 +335,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Saya's Song",
-  "artist": "リトルバスターズ！",
+  "artist": "Lia 『リトルバスターズ！エクスタシー』沙耶ED",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=7",
@@ -343,7 +343,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "時を刻む唄",
-  "artist": "CLANNAD",
+  "artist": "Lia 「CLANNAD 〜AFTER STORY〜」OP",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=8",
@@ -359,15 +359,15 @@ window.SONG_DATA.push(
 },
     {
   "title": "Last regrets",
-  "artist": "Kanon",
+  "artist": "彩菜/麻枝准",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=10",
   "source": "nayuta.js"
 },
     {
-  "title": "鳥之詩",
-  "artist": "AIR",
+  "title": "鳥の詩",
+  "artist": "Lia 『AIR』主題歌",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=11",
@@ -375,7 +375,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "メグメル",
-  "artist": "CLANNAD",
+  "artist": "riya",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=12",
@@ -383,7 +383,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "一番の宝物",
-  "artist": "Angel Beats!",
+  "artist": "Girls Dead Monster 「Angel Beats!」挿入歌",
   "collection": "【nayuta会限4/21】key社歌曲限定歌切~  声乐和钢琴的现场演奏会 vol.04 【2021年11月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NTYczVEjH?p=13",
