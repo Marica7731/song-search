@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 5/29/2026, 11:16:01 PM
+// 生成时间: 5/29/2026, 11:59:24 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -32286,40 +32286,40 @@ window.SONG_DATA.push(
   "source": "yoshika.js"
 },
     {
-  "title": "V1-0141_[STqVxbaYylk]YOSHIK【#歌枠 】初見さんいらっしゃい！1曲聞いてって！ #shorts #vtuber",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "雪の華",
+  "artist": "中島みゆき",
   "collection": "【🍠🦍歌切】[2026-05-14]初見さんいらっしゃい！1曲聞いてって！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1i45B6uE1b?p=17",
   "source": "yoshika.js"
 },
     {
-  "title": "V1-0142_[STqVxbaYylk]YOSHIK【#歌枠 】初見さんいらっしゃい！1曲聞いてって！ #shorts #vtuber",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "爆裂愛してる",
+  "artist": "M!LK",
   "collection": "【🍠🦍歌切】[2026-05-14]初見さんいらっしゃい！1曲聞いてって！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1i45B6uE1b?p=18",
   "source": "yoshika.js"
 },
     {
-  "title": "V1-0143_[STqVxbaYylk]YOSHIK【#歌枠 】初見さんいらっしゃい！1曲聞いてって！ #shorts #vtuber",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "童神",
+  "artist": "夏川りみ",
   "collection": "【🍠🦍歌切】[2026-05-14]初見さんいらっしゃい！1曲聞いてって！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1i45B6uE1b?p=19",
   "source": "yoshika.js"
 },
     {
-  "title": "V1-0144_[STqVxbaYylk]YOSHIK【#歌枠 】初見さんいらっしゃい！1曲聞いてって！ #shorts #vtuber",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "magnet",
+  "artist": "流星P feat. 巡音ルカ × 初音ミク",
   "collection": "【🍠🦍歌切】[2026-05-14]初見さんいらっしゃい！1曲聞いてって！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1i45B6uE1b?p=20",
   "source": "yoshika.js"
 },
     {
-  "title": "V1-0145_[STqVxbaYylk]YOSHIK【#歌枠 】初見さんいらっしゃい！1曲聞いてって！ #shorts #vtuber",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
   "collection": "【🍠🦍歌切】[2026-05-14]初見さんいらっしゃい！1曲聞いてって！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1i45B6uE1b?p=21",
