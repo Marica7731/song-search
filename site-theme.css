@@ -1368,11 +1368,15 @@ body.culua-shell-bv .dup-source-avatar img {
 body.culua-shell-dup .result-list,
 body.culua-shell-bv .result-list {
   display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 340px), 1fr));
+  align-items: start;
   gap: 12px;
 }
 
 body.culua-shell-dup .song-item,
 body.culua-shell-bv .song-item {
+  display: flex;
+  flex-direction: column;
   margin: 0 !important;
   padding: 0 !important;
   overflow: hidden;
@@ -1408,17 +1412,17 @@ body.culua-shell-bv .song-item.not-found {
 body.culua-shell-dup .dup-result-main,
 body.culua-shell-bv .dup-result-main {
   display: grid;
-  grid-template-columns: 160px minmax(0, 1fr);
-  gap: 14px;
+  grid-template-columns: 116px minmax(0, 1fr);
+  gap: 10px;
   align-items: start;
-  padding: 14px;
+  padding: 12px;
 }
 
 body.culua-shell-dup .dup-cover,
 body.culua-shell-bv .dup-cover {
   display: grid;
   place-items: center;
-  width: 160px;
+  width: 116px;
   aspect-ratio: 16 / 9;
   border-radius: 8px;
   overflow: hidden;
@@ -1453,7 +1457,7 @@ body.culua-shell-dup .dup-result-body,
 body.culua-shell-bv .dup-result-body {
   min-width: 0;
   display: grid;
-  gap: 7px;
+  gap: 6px;
 }
 
 body.culua-shell-dup .dup-title-line,
@@ -1462,7 +1466,7 @@ body.culua-shell-bv .dup-title-line {
   align-items: center;
   gap: 8px;
   min-width: 0;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
 }
 
 body.culua-shell-dup .result-index,
@@ -1474,12 +1478,25 @@ body.culua-shell-bv .result-index {
 
 body.culua-shell-dup .song-title,
 body.culua-shell-bv .song-title {
+  flex: 1 1 auto;
   min-width: 0;
   margin: 0 !important;
   color: #0f172a !important;
   font-size: 17px;
   font-weight: 800;
   line-height: 1.35;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+body.culua-shell-dup .song-title .copyable,
+body.culua-shell-bv .song-title .copyable {
+  display: block;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 body.culua-shell-dup .dup-artist-line,
@@ -1491,6 +1508,25 @@ body.culua-shell-bv .dup-artist-line {
   color: #334155;
   font-size: 14px;
   font-weight: 650;
+}
+
+body.culua-shell-dup .dup-artist-line > span:first-child,
+body.culua-shell-bv .dup-artist-line > span:first-child,
+body.culua-shell-dup .dup-source-line > span:not(.copyable):not(.dup-source-avatar),
+body.culua-shell-bv .dup-source-line > span:not(.copyable):not(.dup-source-avatar),
+body.culua-shell-dup .dup-link-line > span,
+body.culua-shell-bv .dup-link-line > span {
+  flex: 0 0 auto;
+}
+
+body.culua-shell-dup .dup-artist-line .copyable,
+body.culua-shell-bv .dup-artist-line .copyable,
+body.culua-shell-dup .dup-source-line .copyable,
+body.culua-shell-bv .dup-source-line .copyable {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 body.culua-shell-dup .dup-source-line,
@@ -1535,6 +1571,7 @@ body.culua-shell-bv .not-found-tag {
   display: inline-flex;
   align-items: center;
   min-height: 22px;
+  flex: 0 0 auto;
   padding: 2px 8px;
   border-radius: 999px;
   font-size: 12px;
@@ -1581,20 +1618,20 @@ body.culua-shell-bv .not-found-tag {
 body.culua-shell-dup .dup-list,
 body.culua-shell-bv .dup-list {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(330px, 1fr));
-  gap: 8px;
+  grid-template-columns: 1fr;
+  gap: 6px;
   margin: 0 !important;
-  padding: 0 14px 14px;
+  padding: 0 12px 12px;
 }
 
 body.culua-shell-dup .dup-item,
 body.culua-shell-bv .dup-item {
   display: grid !important;
-  grid-template-columns: 82px minmax(0, 1fr) auto;
+  grid-template-columns: 72px minmax(0, 1fr) auto;
   align-items: center;
-  gap: 10px;
+  gap: 8px;
   margin: 0 !important;
-  padding: 8px !important;
+  padding: 7px !important;
   border: 1px solid #e2e8f0;
   border-radius: 8px;
   background: #f8fafc !important;
@@ -1605,7 +1642,7 @@ body.culua-shell-dup .dup-link-cover,
 body.culua-shell-bv .dup-link-cover {
   display: grid;
   place-items: center;
-  width: 82px;
+  width: 72px;
   aspect-ratio: 16 / 9;
   border-radius: 6px;
   overflow: hidden;
@@ -1667,6 +1704,11 @@ body.culua-shell-bv .jump-tab-btn {
   margin-left: 4px;
 }
 
+body.culua-shell-dup .dup-open-link,
+body.culua-shell-bv .dup-open-link {
+  padding-inline: 9px;
+}
+
 body.culua-shell-dup .copyable,
 body.culua-shell-bv .copyable {
   cursor: pointer;
@@ -1680,6 +1722,7 @@ body.culua-shell-bv .copyable:hover {
 
 body.culua-shell-dup .dup-empty,
 body.culua-shell-bv .dup-empty {
+  grid-column: 1 / -1;
   padding: 20px;
   border: 1px dashed #cbd5e1;
   border-radius: 8px;
@@ -1726,6 +1769,11 @@ body.culua-shell-bv .dup-empty.inline {
 }
 
 @media (max-width: 720px) {
+  body.culua-shell-dup .result-list,
+  body.culua-shell-bv .result-list {
+    grid-template-columns: 1fr;
+  }
+
   body.culua-shell-dup .search-box,
   body.culua-shell-bv .search-box {
     grid-template-columns: 1fr !important;
