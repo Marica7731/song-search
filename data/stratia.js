@@ -1,6 +1,6 @@
 // すとらてぃあ-Stratia - 歌单数据 (多合集汇总)
 // 来源: BV1KSRXBwE2v
-// 生成时间: 5/30/2026, 1:19:46 PM
+// 生成时间: 5/30/2026, 2:02:24 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -459,6 +459,70 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-27]🦋庆祝！收益化纪念🦋真的非常感谢大家...！ すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KMGU6LE2e?p=10",
+  "source": "stratia.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【歌切】[2026-05-30]游击歌回❕悠闲午间时光🦋🫧 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HHVV6kEmF?p=1",
+  "source": "stratia.js"
+},
+    {
+  "title": "恋人ごっこ",
+  "artist": "マカロニえんぴつ",
+  "collection": "【歌切】[2026-05-30]游击歌回❕悠闲午间时光🦋🫧 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HHVV6kEmF?p=2",
+  "source": "stratia.js"
+},
+    {
+  "title": "アジアの純真",
+  "artist": "PUFFY",
+  "collection": "【歌切】[2026-05-30]游击歌回❕悠闲午间时光🦋🫧 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HHVV6kEmF?p=3",
+  "source": "stratia.js"
+},
+    {
+  "title": "君は1000％",
+  "artist": "1986 オメガトライブ",
+  "collection": "【歌切】[2026-05-30]游击歌回❕悠闲午间时光🦋🫧 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HHVV6kEmF?p=4",
+  "source": "stratia.js"
+},
+    {
+  "title": "フレンズ",
+  "artist": "レベッカ",
+  "collection": "【歌切】[2026-05-30]游击歌回❕悠闲午间时光🦋🫧 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HHVV6kEmF?p=5",
+  "source": "stratia.js"
+},
+    {
+  "title": "もう恋なんてしない",
+  "artist": "槇原敬之",
+  "collection": "【歌切】[2026-05-30]游击歌回❕悠闲午间时光🦋🫧 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HHVV6kEmF?p=6",
+  "source": "stratia.js"
+},
+    {
+  "title": "タッチ",
+  "artist": "岩崎良美",
+  "collection": "【歌切】[2026-05-30]游击歌回❕悠闲午间时光🦋🫧 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HHVV6kEmF?p=7",
+  "source": "stratia.js"
+},
+    {
+  "title": "おジャ魔女カーニバル",
+  "artist": "MAHO堂",
+  "collection": "【歌切】[2026-05-30]游击歌回❕悠闲午间时光🦋🫧 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HHVV6kEmF?p=8",
   "source": "stratia.js"
 }
 );

@@ -1,6 +1,6 @@
 // 羽澄さひろ - 歌单数据 (多合集汇总)
 // 来源: BV1tKcZztEw5
-// 生成时间: 5/30/2026, 1:18:25 PM
+// 生成时间: 5/30/2026, 2:00:46 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1251,6 +1251,54 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-06]虽然看起来也能唱苦味的歌……♪ 羽澄さひろ / Hasumi Sahiro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wjR8BxE9E?p=3",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "白い道",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-05-30]请不要像泡沫般消失，说那都是谎言 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HHVV6kEKk?p=1",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "冷凍便",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-05-30]请不要像泡沫般消失，说那都是谎言 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HHVV6kEKk?p=2",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "二人",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-05-30]请不要像泡沫般消失，说那都是谎言 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HHVV6kEKk?p=3",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "透明ドロップ",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-05-30]请不要像泡沫般消失，说那都是谎言 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HHVV6kEKk?p=4",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "冷たい嘘",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-05-30]请不要像泡沫般消失，说那都是谎言 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HHVV6kEKk?p=5",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "あたしの向こう",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-05-30]请不要像泡沫般消失，说那都是谎言 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HHVV6kEKk?p=6",
   "source": "hasumisahiro.js"
 }
 );
