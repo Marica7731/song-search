@@ -1,6 +1,6 @@
 // 天籠りのん - 歌单数据 (多合集汇总)
 // 来源: BV1hw4m1i7qN
-// 生成时间: 5/30/2026, 3:14:43 PM
+// 生成时间: 5/30/2026, 3:58:30 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2727,7 +2727,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "硝子ドール",
-  "artist": "『アイカツ!』",
+  "artist": "帆足圭吾/穴沢弘慶",
   "collection": "【#天籠りのん生日庆祝】因为是生日,想唱一下自己想唱的歌曲...！初次公开曲目庆祝🎂✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qaP4e6Env?p=1",
@@ -2735,7 +2735,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Trancing Pulse",
-  "artist": "『アイマス』",
+  "artist": "Triad Primus",
   "collection": "【#天籠りのん生日庆祝】因为是生日,想唱一下自己想唱的歌曲...！初次公开曲目庆祝🎂✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qaP4e6Env?p=2",
@@ -2743,7 +2743,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Hacking to the Gate",
-  "artist": "『STEINS;GATE』",
+  "artist": "いとうかなこ",
   "collection": "【#天籠りのん生日庆祝】因为是生日,想唱一下自己想唱的歌曲...！初次公开曲目庆祝🎂✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qaP4e6Env?p=3",
@@ -2751,7 +2751,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "蒼のエーテル",
-  "artist": "『マクロスF』",
+  "artist": "ランカ・リー＝中島愛",
   "collection": "【#天籠りのん生日庆祝】因为是生日,想唱一下自己想唱的歌曲...！初次公开曲目庆祝🎂✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qaP4e6Env?p=4",
@@ -2759,7 +2759,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想税",
-  "artist": "DECO*27",
+  "artist": "DECO*27 feat. 初音ミク",
   "collection": "【#天籠りのん生日庆祝】因为是生日,想唱一下自己想唱的歌曲...！初次公开曲目庆祝🎂✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qaP4e6Env?p=5",

@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 5/30/2026, 3:10:33 PM
+// 生成时间: 5/30/2026, 3:53:50 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2955,6 +2955,230 @@ window.SONG_DATA.push(
   "collection": "【💫✖歌切】[2026-05-23]星期六总是让人心情雀跃的 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wYGi66ESf?p=25",
+  "source": "kukuri.js"
+},
+    {
+  "title": "片っぽ",
+  "artist": "eill",
+  "collection": "【💫✖歌切】[2026-05-30]要不要一起悠闲地放松一下💭 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14GVV6UEsz?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ラストシーン.",
+  "artist": "eill",
+  "collection": "【💫✖歌切】[2026-05-30]要不要一起悠闲地放松一下💭 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14GVV6UEsz?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-05-30]要不要一起悠闲地放松一下💭 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14GVV6UEsz?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "茜",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-05-30]要不要一起悠闲地放松一下💭 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14GVV6UEsz?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-05-30]要不要一起悠闲地放松一下💭 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14GVV6UEsz?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-05-30]要不要一起悠闲地放松一下💭 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14GVV6UEsz?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【💫✖歌切】[2026-05-30]要不要一起悠闲地放松一下💭 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14GVV6UEsz?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P feat. GUMI",
+  "collection": "【💫✖歌切】[2026-05-30]要不要一起悠闲地放松一下💭 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14GVV6UEsz?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "今でもあなたが",
+  "artist": "藤田麻衣子",
+  "collection": "【💫✖歌切】[2026-05-30]要不要一起悠闲地放松一下💭 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14GVV6UEsz?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "キミガタメ",
+  "artist": "Suara",
+  "collection": "【💫✖歌切】[2026-05-30]要不要一起悠闲地放松一下💭 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14GVV6UEsz?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "素敵だね",
+  "artist": "RIKKI",
+  "collection": "【💫✖歌切】[2026-05-30]要不要一起悠闲地放松一下💭 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14GVV6UEsz?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "My Soul, Your Beats!",
+  "artist": "Lia",
+  "collection": "【💫✖歌切】[2026-05-30]要不要一起悠闲地放松一下💭 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14GVV6UEsz?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "小さなてのひら",
+  "artist": "riya",
+  "collection": "【💫✖歌切】[2026-05-30]要不要一起悠闲地放松一下💭 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14GVV6UEsz?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "時を刻む唄",
+  "artist": "Lia",
+  "collection": "【💫✖歌切】[2026-05-30]要不要一起悠闲地放松一下💭 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14GVV6UEsz?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "メグメル",
+  "artist": "riya",
+  "collection": "【💫✖歌切】[2026-05-30]要不要一起悠闲地放松一下💭 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14GVV6UEsz?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "鳥の詩",
+  "artist": "Lia",
+  "collection": "【💫✖歌切】[2026-05-30]要不要一起悠闲地放松一下💭 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14GVV6UEsz?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "夏影",
+  "artist": "Lia",
+  "collection": "【💫✖歌切】[2026-05-30]要不要一起悠闲地放松一下💭 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14GVV6UEsz?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "アルカテイル",
+  "artist": "鈴木このみ",
+  "collection": "【💫✖歌切】[2026-05-30]要不要一起悠闲地放松一下💭 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14GVV6UEsz?p=18",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Last regrets",
+  "artist": "彩菜",
+  "collection": "【💫✖歌切】[2026-05-30]要不要一起悠闲地放松一下💭 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14GVV6UEsz?p=19",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ETERNAL BLAZE",
+  "artist": "水樹奈々",
+  "collection": "【💫✖歌切】[2026-05-30]要不要一起悠闲地放松一下💭 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14GVV6UEsz?p=20",
+  "source": "kukuri.js"
+},
+    {
+  "title": "DISCOTHEQUE",
+  "artist": "水樹奈々",
+  "collection": "【💫✖歌切】[2026-05-30]要不要一起悠闲地放松一下💭 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14GVV6UEsz?p=21",
+  "source": "kukuri.js"
+},
+    {
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ CV.平野綾",
+  "collection": "【💫✖歌切】[2026-05-30]要不要一起悠闲地放松一下💭 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14GVV6UEsz?p=22",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ハッピー☆マテリアル",
+  "artist": "麻帆良学園中等部2-A",
+  "collection": "【💫✖歌切】[2026-05-30]要不要一起悠闲地放松一下💭 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14GVV6UEsz?p=23",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ケロッ!とマーチ",
+  "artist": "角田信朗＆いはたじゅり",
+  "collection": "【💫✖歌切】[2026-05-30]要不要一起悠闲地放松一下💭 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14GVV6UEsz?p=24",
+  "source": "kukuri.js"
+},
+    {
+  "title": "オンナのコ♡オトコのコ",
+  "artist": "小倉優子",
+  "collection": "【💫✖歌切】[2026-05-30]要不要一起悠闲地放松一下💭 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14GVV6UEsz?p=25",
+  "source": "kukuri.js"
+},
+    {
+  "title": "スクランブル",
+  "artist": "堀江由衣 with UNSCANDAL",
+  "collection": "【💫✖歌切】[2026-05-30]要不要一起悠闲地放松一下💭 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14GVV6UEsz?p=26",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Os-宇宙人",
+  "artist": "エリオをかまってちゃん",
+  "collection": "【💫✖歌切】[2026-05-30]要不要一起悠闲地放松一下💭 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14GVV6UEsz?p=27",
+  "source": "kukuri.js"
+},
+    {
+  "title": "motto☆派手にね!",
+  "artist": "戸松遥",
+  "collection": "【💫✖歌切】[2026-05-30]要不要一起悠闲地放松一下💭 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14GVV6UEsz?p=28",
   "source": "kukuri.js"
 }
 );
