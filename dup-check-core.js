@@ -675,6 +675,90 @@ function updateStat(text) {
   if (stat) stat.textContent = text;
 }
 
+function getBvInputSummary() {
+  const input = document.getElementById('bvInput');
+  const lines = String(input?.value || '')
+    .split('\n')
+    .map(line => line.trim())
+    .filter(Boolean);
+  const validCount = lines.filter(line => extractBV(line)).length;
+  return {
+    lineCount: lines.length,
+    validCount
+  };
+}
+
+function updateBvInputMeta() {
+  const meta = document.getElementById('bvInputMeta');
+  if (!meta) return;
+  const inputSummary = getBvInputSummary();
+  const scopeLabel = currentTab === 'all' ? '全部来源' : getSourceAlias(currentTab);
+  meta.textContent = `${inputSummary.validCount.toLocaleString()} 个 BV · ${scopeLabel}`;
+}
+
+function getDupSummaryStats() {
+  const total = analysisResult.length;
+  const notFound = analysisResult.filter(item => item.isNotFound).length;
+  const found = total - notFound;
+  const duplicate = analysisResult.filter(item => !item.isNotFound && item.isDup).length;
+  const unique = found - duplicate;
+  return { total, found, duplicate, unique, notFound };
+}
+
+function renderBvSummary() {
+  const container = document.getElementById('bvResultSummary');
+  if (!container) return;
+  updateBvInputMeta();
+
+  const scopeLabel = currentTab === 'all' ? '全部来源' : getSourceAlias(currentTab);
+  if (analysisResult.length === 0) {
+    const totalSongs = getSourceSongCount(currentTab);
+    const totalUnique = getSourceUniqueCount(currentTab);
+    container.innerHTML = `
+      <div class="bv-summary-card scope">
+        <span>当前库</span>
+        <strong>${escapeHtml(scopeLabel)}</strong>
+        <em>投稿 ${totalSongs.toLocaleString()} · 去重 ${totalUnique.toLocaleString()}</em>
+      </div>
+      <div class="bv-summary-card">
+        <span>输入</span>
+        <strong>${getBvInputSummary().validCount.toLocaleString()}</strong>
+        <em>等待分析</em>
+      </div>
+      <div class="bv-summary-card">
+        <span>结果</span>
+        <strong>-</strong>
+        <em>尚未生成</em>
+      </div>
+    `;
+    return;
+  }
+
+  const stats = getDupSummaryStats();
+  container.innerHTML = `
+    <div class="bv-summary-card scope">
+      <span>当前库</span>
+      <strong>${escapeHtml(scopeLabel)}</strong>
+      <em>总计 ${stats.total.toLocaleString()}</em>
+    </div>
+    <div class="bv-summary-card danger">
+      <span>重复</span>
+      <strong>${stats.duplicate.toLocaleString()}</strong>
+      <em>需要处理</em>
+    </div>
+    <div class="bv-summary-card success">
+      <span>非重复</span>
+      <strong>${stats.unique.toLocaleString()}</strong>
+      <em>可保留</em>
+    </div>
+    <div class="bv-summary-card warn">
+      <span>未找到</span>
+      <strong>${stats.notFound.toLocaleString()}</strong>
+      <em>需复核</em>
+    </div>
+  `;
+}
+
 function renderSourceTabs() {
   const container = document.getElementById('tabContainer');
   if (!container) return;
@@ -735,6 +819,8 @@ function renderSourceTabs() {
       option.hidden = !!keyword && !text.includes(keyword);
     });
   });
+  updateBvInputMeta();
+  renderBvSummary();
 }
 
 async function switchSourceTab(tab) {
@@ -744,6 +830,7 @@ async function switchSourceTab(tab) {
     await analyzeDuplicates();
   } else {
     updateStat(`当前库 ${getCurrentSourceDisplayLabel()}，请开始分析`);
+    renderBvSummary();
   }
 }
 
@@ -823,6 +910,7 @@ async function analyzeDuplicates() {
         ? ` | 接口 ${payload.elapsedMs}ms`
         : '';
       updateStat(`${payload.statsText || '分析完成'}${elapsedText}`);
+      renderBvSummary();
       renderSongList();
       return;
     } catch (error) {
@@ -936,6 +1024,7 @@ async function analyzeDuplicates() {
     updateStat(`总计 ${total} | 找到 ${found} | 未找到 ${notFound} | 重复 ${dup} | 非重复 ${unique} | 当前库 ${currentScopeLabel}`);
   }
 
+  renderBvSummary();
   renderSongList();
 }
 
@@ -1077,10 +1166,15 @@ function renderSongList() {
     }
 
     const song = item.song;
-    const dupPreview = item.dupList
-      .slice(0, 5)
+    const dupPreviewLimit = currentMode === 'bv' ? 3 : 5;
+    const previewItems = item.dupList.slice(0, dupPreviewLimit);
+    const hiddenDupCount = Math.max(0, item.dupList.length - previewItems.length);
+    const dupPreview = previewItems
       .map(renderDupEntry)
       .join('');
+    const dupMore = hiddenDupCount > 0
+      ? `<div class="dup-more-note">还有 ${hiddenDupCount.toLocaleString()} 条重复，复制 TSV 可查看完整列表</div>`
+      : '';
 
     card.innerHTML = `
       <div class="dup-result-main">
@@ -1099,7 +1193,7 @@ function renderSongList() {
           ${resultLinkHtml(song)}
         </div>
       </div>
-      <div class="dup-list">${dupPreview || '<div class="dup-empty inline">当前库未收录，记为首次</div>'}</div>
+      <div class="dup-list">${dupPreview ? `${dupPreview}${dupMore}` : '<div class="dup-empty inline">当前库未收录，记为首次</div>'}</div>
     `;
 
     card.querySelectorAll('.copyable').forEach(copyEl => {
@@ -1126,6 +1220,7 @@ function renderSongList() {
     container.appendChild(card);
   });
   syncAiCopyButtonState();
+  renderBvSummary();
 }
 
 function copyResults() {
@@ -1279,6 +1374,7 @@ function initDupCheckPage(mode) {
   document.getElementById('bvInput')?.addEventListener('keydown', e => {
     if (e.key === 'Enter' && currentMode === 'bv') search();
   });
+  document.getElementById('bvInput')?.addEventListener('input', updateBvInputMeta);
   document.getElementById('titleArtistInput')?.addEventListener('keydown', e => {
     if (e.key === 'Enter' && currentMode === 'titleArtist' && !e.shiftKey) {
       e.preventDefault();
@@ -1286,4 +1382,5 @@ function initDupCheckPage(mode) {
     }
   });
   syncAiCopyButtonState();
+  renderBvSummary();
 }
