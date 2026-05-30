@@ -1261,7 +1261,7 @@ body.culua-shell-bv .copy-controls {
   display: grid;
   grid-template-columns: minmax(0, auto) minmax(180px, 240px);
   gap: 8px;
-  align-items: start;
+  align-items: stretch;
   margin-bottom: 12px !important;
 }
 
@@ -1271,8 +1271,13 @@ body.culua-shell-bv .copy-presets {
 }
 
 body.culua-shell-bv .copy-advanced {
+  align-self: stretch;
   width: auto !important;
   min-width: 0;
+}
+
+body.culua-shell-bv .copy-advanced:not([open]) {
+  min-height: 52px;
 }
 
 body.culua-shell-bv .copy-advanced[open] {
@@ -1281,7 +1286,7 @@ body.culua-shell-bv .copy-advanced[open] {
 }
 
 body.culua-shell-bv .copy-advanced summary {
-  min-height: 38px;
+  min-height: 52px;
   display: flex;
   align-items: center;
   padding: 8px 10px !important;
@@ -1799,6 +1804,11 @@ body.culua-shell-bv .dup-list {
   padding: 0 12px 12px;
 }
 
+body.culua-shell-bv .dup-list {
+  min-height: 164px;
+  align-content: start;
+}
+
 body.culua-shell-dup .dup-item,
 body.culua-shell-bv .dup-item {
   display: grid !important;
@@ -1811,6 +1821,11 @@ body.culua-shell-bv .dup-item {
   border-radius: 8px;
   background: #f8fafc !important;
   font-size: 12px;
+}
+
+body.culua-shell-bv .dup-item {
+  height: 56px;
+  overflow: hidden;
 }
 
 body.culua-shell-dup .dup-link-cover,
@@ -1845,14 +1860,27 @@ body.culua-shell-bv .dup-link-meta {
   overflow: hidden;
 }
 
+body.culua-shell-bv .dup-link-title,
+body.culua-shell-bv .dup-link-meta {
+  flex-wrap: nowrap;
+  white-space: nowrap;
+}
+
 body.culua-shell-dup .dup-link-title .copyable,
 body.culua-shell-bv .dup-link-title .copyable,
 body.culua-shell-dup .dup-link-meta .copyable,
 body.culua-shell-bv .dup-link-meta .copyable {
+  flex: 1 1 auto;
   min-width: 0;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+}
+
+body.culua-shell-bv .bv-tag,
+body.culua-shell-bv .dup-dot,
+body.culua-shell-bv .dup-inline-avatar {
+  flex: 0 0 auto;
 }
 
 body.culua-shell-dup .dup-open-link,
@@ -1895,6 +1923,15 @@ body.culua-shell-bv .dup-more-note {
   color: #64748b;
   font-size: 12px;
   font-weight: 700;
+}
+
+body.culua-shell-bv .dup-more-note {
+  height: 34px;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 
 body.culua-shell-dup .copyable,

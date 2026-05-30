@@ -1166,7 +1166,7 @@ function renderSongList() {
     }
 
     const song = item.song;
-    const dupPreviewLimit = currentMode === 'bv' ? 3 : 5;
+    const dupPreviewLimit = currentMode === 'bv' ? 2 : 5;
     const previewItems = item.dupList.slice(0, dupPreviewLimit);
     const hiddenDupCount = Math.max(0, item.dupList.length - previewItems.length);
     const dupPreview = previewItems
