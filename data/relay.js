@@ -1,6 +1,6 @@
 // 接力 - 歌单数据 (多合集汇总)
 // 来源: BV1rkCTYzEZN, BV1wt421j7gT, BV1KpCdYmE3T, BV1aC4ce2E5s, BV1JbX9BmE5m, BV1nJ5S6CETQ, BV1duSRBBEkb
-// 生成时间: 5/30/2026, 7:23:47 AM
+// 生成时间: 5/30/2026, 8:06:31 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -803,6 +803,46 @@ window.SONG_DATA.push(
   "collection": "【TAKEOFF接力歌切 60 20240420】16：00 稀羽すう主办的接力歌枠",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wt421j7gT?p=56",
+  "source": "relay.js"
+},
+    {
+  "title": "空色デイズ",
+  "artist": "中川翔子",
+  "collection": "【 #CMYKProject 】初の歌枠リレー参加 ⸝⋆ 【 しほ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kkRsYXESP?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "1・2・3",
+  "artist": "After the Rain(そらる × まふまふ)",
+  "collection": "【 #CMYKProject 】初の歌枠リレー参加 ⸝⋆ 【 しほ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kkRsYXESP?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "ヒーローになれなかった僕らへ",
+  "artist": "しほ",
+  "collection": "【 #CMYKProject 】初の歌枠リレー参加 ⸝⋆ 【 しほ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kkRsYXESP?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "栞",
+  "artist": "クリープハイプ",
+  "collection": "【 #CMYKProject 】初の歌枠リレー参加 ⸝⋆ 【 しほ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kkRsYXESP?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat.GUMI",
+  "collection": "【 #CMYKProject 】初の歌枠リレー参加 ⸝⋆ 【 しほ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kkRsYXESP?p=5",
   "source": "relay.js"
 },
     {
