@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 5/30/2026, 2:38:18 PM
+// 生成时间: 5/30/2026, 3:17:20 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3651,6 +3651,158 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-05-27]沉醉夜色的原声吉他弹唱🎶一起度过悠闲时光吧～～ -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wHGD65Ehg?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-05-30]午后随性原声吉他弹唱～初见也欢迎随时来玩✨ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SAVV6RE8C?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "コイワズライ",
+  "artist": "Aimer",
+  "collection": "【💐🎸歌切】[2026-05-30]午后随性原声吉他弹唱～初见也欢迎随时来玩✨ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SAVV6RE8C?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "Swallowtail Butterfly 〜あいのうた〜",
+  "artist": "YEN TOWN BAND",
+  "collection": "【💐🎸歌切】[2026-05-30]午后随性原声吉他弹唱～初见也欢迎随时来玩✨ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SAVV6RE8C?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "ヨンジュウナナ",
+  "artist": "みきとP",
+  "collection": "【💐🎸歌切】[2026-05-30]午后随性原声吉他弹唱～初见也欢迎随时来玩✨ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SAVV6RE8C?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【💐🎸歌切】[2026-05-30]午后随性原声吉他弹唱～初见也欢迎随时来玩✨ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SAVV6RE8C?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "チノカテ",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-05-30]午后随性原声吉他弹唱～初见也欢迎随时来玩✨ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SAVV6RE8C?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "【💐🎸歌切】[2026-05-30]午后随性原声吉他弹唱～初见也欢迎随时来玩✨ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SAVV6RE8C?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "KissHug",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-05-30]午后随性原声吉他弹唱～初见也欢迎随时来玩✨ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SAVV6RE8C?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "メロウ",
+  "artist": "須田景凪",
+  "collection": "【💐🎸歌切】[2026-05-30]午后随性原声吉他弹唱～初见也欢迎随时来玩✨ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SAVV6RE8C?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【💐🎸歌切】[2026-05-30]午后随性原声吉他弹唱～初见也欢迎随时来玩✨ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SAVV6RE8C?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "ノスタルジア",
+  "artist": "いきものがかり",
+  "collection": "【💐🎸歌切】[2026-05-30]午后随性原声吉他弹唱～初见也欢迎随时来玩✨ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SAVV6RE8C?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "アイのシナリオ",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【💐🎸歌切】[2026-05-30]午后随性原声吉他弹唱～初见也欢迎随时来玩✨ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SAVV6RE8C?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "スピカ",
+  "artist": "ロクデナシ",
+  "collection": "【💐🎸歌切】[2026-05-30]午后随性原声吉他弹唱～初见也欢迎随时来玩✨ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SAVV6RE8C?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "orion",
+  "artist": "米津玄師",
+  "collection": "【💐🎸歌切】[2026-05-30]午后随性原声吉他弹唱～初见也欢迎随时来玩✨ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SAVV6RE8C?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【💐🎸歌切】[2026-05-30]午后随性原声吉他弹唱～初见也欢迎随时来玩✨ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SAVV6RE8C?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "いつか",
+  "artist": "Saucy Dog",
+  "collection": "【💐🎸歌切】[2026-05-30]午后随性原声吉他弹唱～初见也欢迎随时来玩✨ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SAVV6RE8C?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "ヒカレイノチ",
+  "artist": "Kitri",
+  "collection": "【💐🎸歌切】[2026-05-30]午后随性原声吉他弹唱～初见也欢迎随时来玩✨ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SAVV6RE8C?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "きにぴ",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-05-30]午后随性原声吉他弹唱～初见也欢迎随时来玩✨ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SAVV6RE8C?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "ちょっと待って！",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-05-30]午后随性原声吉他弹唱～初见也欢迎随时来玩✨ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SAVV6RE8C?p=19",
   "source": "sumica.js"
 }
 );

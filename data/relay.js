@@ -1,6 +1,6 @@
 // 接力 - 歌单数据 (多合集汇总)
 // 来源: BV1rkCTYzEZN, BV1wt421j7gT, BV1KpCdYmE3T, BV1aC4ce2E5s, BV1JbX9BmE5m, BV1nJ5S6CETQ, BV1duSRBBEkb
-// 生成时间: 5/30/2026, 2:42:14 PM
+// 生成时间: 5/30/2026, 3:21:32 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1323,126 +1323,6 @@ window.SONG_DATA.push(
   "collection": "天体観測 - BUMP OF CHIKEN",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oe4ceXEGn?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "終わりへ向かう始まりの歌",
-  "artist": "Supercell",
-  "collection": "【 凪乃ましろ】15】勇者 雨とカプチーノ 白金ディスコ【20241004】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1h64ceUER2?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "Ghost of a smile",
-  "artist": "EGOIST",
-  "collection": "【 凪乃ましろ】15】勇者 雨とカプチーノ 白金ディスコ【20241004】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1h64ceUER2?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "sweets parade",
-  "artist": "髏々宮カルタ（花澤香菜）",
-  "collection": "【 凪乃ましろ】15】勇者 雨とカプチーノ 白金ディスコ【20241004】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1h64ceUER2?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "恋愛サーキュレーション",
-  "artist": "千石撫子(花澤香菜)",
-  "collection": "【 凪乃ましろ】15】勇者 雨とカプチーノ 白金ディスコ【20241004】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1h64ceUER2?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "粛聖!! ロリ神レクイエム☆",
-  "artist": "しぐれうい",
-  "collection": "【 凪乃ましろ】15】勇者 雨とカプチーノ 白金ディスコ【20241004】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1h64ceUER2?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "サインはB",
-  "artist": "B小町",
-  "collection": "【 凪乃ましろ】15】勇者 雨とカプチーノ 白金ディスコ【20241004】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1h64ceUER2?p=6",
-  "source": "relay.js"
-},
-    {
-  "title": "ハム太郎とっとこうた",
-  "artist": "ハムちゃんず",
-  "collection": "【 凪乃ましろ】15】勇者 雨とカプチーノ 白金ディスコ【20241004】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1h64ceUER2?p=7",
-  "source": "relay.js"
-},
-    {
-  "title": "勇者",
-  "artist": "YOASOBI",
-  "collection": "【 凪乃ましろ】15】勇者 雨とカプチーノ 白金ディスコ【20241004】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1h64ceUER2?p=8",
-  "source": "relay.js"
-},
-    {
-  "title": "うたかた花火",
-  "artist": "Supercell",
-  "collection": "【 凪乃ましろ】15】勇者 雨とカプチーノ 白金ディスコ【20241004】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1h64ceUER2?p=9",
-  "source": "relay.js"
-},
-    {
-  "title": "初めての恋が終わる時",
-  "artist": "Ryo（supercell）",
-  "collection": "【 凪乃ましろ】15】勇者 雨とカプチーノ 白金ディスコ【20241004】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1h64ceUER2?p=10",
-  "source": "relay.js"
-},
-    {
-  "title": "恋は戦争",
-  "artist": "Supercell",
-  "collection": "【 凪乃ましろ】15】勇者 雨とカプチーノ 白金ディスコ【20241004】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1h64ceUER2?p=11",
-  "source": "relay.js"
-},
-    {
-  "title": "雨とカプチーノ",
-  "artist": "ヨルシカ",
-  "collection": "【 凪乃ましろ】15】勇者 雨とカプチーノ 白金ディスコ【20241004】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1h64ceUER2?p=12",
-  "source": "relay.js"
-},
-    {
-  "title": "ビードロ模様",
-  "artist": "やなぎなぎ",
-  "collection": "【 凪乃ましろ】15】勇者 雨とカプチーノ 白金ディスコ【20241004】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1h64ceUER2?p=13",
-  "source": "relay.js"
-},
-    {
-  "title": "空色デイズ",
-  "artist": "中川翔子",
-  "collection": "【 凪乃ましろ】15】勇者 雨とカプチーノ 白金ディスコ【20241004】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1h64ceUER2?p=14",
-  "source": "relay.js"
-},
-    {
-  "title": "白金ディスコ",
-  "artist": "阿良々木月火（井口裕香）",
-  "collection": "【 凪乃ましろ】15】勇者 雨とカプチーノ 白金ディスコ【20241004】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1h64ceUER2?p=15",
   "source": "relay.js"
 },
     {
